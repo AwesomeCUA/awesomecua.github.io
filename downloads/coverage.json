@@ -1,11 +1,11 @@
 {
   "as_of_utc": "2026-10-16T09:39:34Z",
   "total_records": 1987,
-  "curated_records": 282,
+  "curated_records": 311,
   "bibliographic_records": 1764,
-  "metadata_only_records": 1705,
-  "discovery_identifiers": 2676,
-  "unindexed_candidates": 741,
+  "metadata_only_records": 1676,
+  "discovery_identifiers": 2678,
+  "unindexed_candidates": 743,
   "pending_editorial": [
     {
       "id": "github:mobilellm/autodroid-v2",
@@ -52,14 +52,14 @@
     "tool": 7
   },
   "curated_by_environment": {
-    "android": 54,
-    "cross-platform": 76,
-    "desktop": 65,
+    "android": 66,
+    "cross-platform": 86,
+    "desktop": 69,
     "ios": 7,
     "linux": 6,
     "macos": 4,
     "unspecified": 16,
-    "web": 77,
+    "web": 82,
     "windows": 8
   },
   "license_declarations_by_scope": {
@@ -76,7 +76,7 @@
       "snapshot": {
         "id": "showlab-gui",
         "url": "https://raw.githubusercontent.com/showlab/Awesome-GUI-Agent/main/README.md",
-        "retrieved_at": "2026-10-16T06:31:04Z",
+        "retrieved_at": "2026-10-16T10:21:58Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/showlab/Awesome-GUI-Agent/main/README.md",
@@ -86,9 +86,9 @@
         "unique_resources": 338
       },
       "discovered": 338,
-      "indexed": 197,
-      "curated": 80,
-      "unindexed": 141
+      "indexed": 195,
+      "curated": 88,
+      "unindexed": 143
     },
     {
       "id": "zju-gui",
@@ -97,7 +97,7 @@
       "snapshot": {
         "id": "zju-gui",
         "url": "https://raw.githubusercontent.com/ZJU-REAL/Awesome-GUI-Agents/main/README.md",
-        "retrieved_at": "2026-10-16T06:31:05Z",
+        "retrieved_at": "2026-10-16T10:21:59Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/ZJU-REAL/Awesome-GUI-Agents/main/README.md",
@@ -108,7 +108,7 @@
       },
       "discovered": 218,
       "indexed": 154,
-      "curated": 74,
+      "curated": 83,
       "unindexed": 64
     },
     {
@@ -118,7 +118,7 @@
       "snapshot": {
         "id": "os-agent-survey",
         "url": "https://raw.githubusercontent.com/OS-Agent-Survey/OS-Agent-Survey/main/README.md",
-        "retrieved_at": "2026-10-16T06:31:05Z",
+        "retrieved_at": "2026-10-16T10:21:59Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/OS-Agent-Survey/OS-Agent-Survey/main/README.md",
@@ -129,7 +129,7 @@
       },
       "discovered": 224,
       "indexed": 198,
-      "curated": 25,
+      "curated": 30,
       "unindexed": 26
     },
     {
@@ -139,7 +139,7 @@
       "snapshot": {
         "id": "wjhou-cua",
         "url": "https://raw.githubusercontent.com/wjhou/awesome-computer-use-agents/main/README.md",
-        "retrieved_at": "2026-10-16T06:31:05Z",
+        "retrieved_at": "2026-10-16T10:21:59Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/wjhou/awesome-computer-use-agents/main/README.md",
@@ -150,7 +150,7 @@
       },
       "discovered": 132,
       "indexed": 93,
-      "curated": 40,
+      "curated": 46,
       "unindexed": 39
     },
     {
@@ -160,7 +160,7 @@
       "snapshot": {
         "id": "steel-web",
         "url": "https://raw.githubusercontent.com/steel-dev/awesome-web-agents/main/README.md",
-        "retrieved_at": "2026-10-16T06:31:05Z",
+        "retrieved_at": "2026-10-16T10:21:59Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/steel-dev/awesome-web-agents/main/README.md",
@@ -181,7 +181,7 @@
       "snapshot": {
         "id": "steel-web-archive",
         "url": "https://raw.githubusercontent.com/steel-dev/awesome-web-agents/main/ARCHIVE.md",
-        "retrieved_at": "2026-10-16T06:31:05Z",
+        "retrieved_at": "2026-10-16T10:21:59Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/steel-dev/awesome-web-agents/main/ARCHIVE.md",
@@ -202,7 +202,7 @@
       "snapshot": {
         "id": "gui-datasets",
         "url": "https://raw.githubusercontent.com/Khang-9966/Computer-Browser-Phone-Use-Agent-Datasets/main/README.md",
-        "retrieved_at": "2026-10-16T06:31:06Z",
+        "retrieved_at": "2026-10-16T10:21:59Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/Khang-9966/Computer-Browser-Phone-Use-Agent-Datasets/main/README.md",
@@ -213,7 +213,7 @@
       },
       "discovered": 170,
       "indexed": 103,
-      "curated": 48,
+      "curated": 50,
       "unindexed": 67
     },
     {
@@ -223,7 +223,7 @@
       "snapshot": {
         "id": "delunn-multimodal",
         "url": "https://raw.githubusercontent.com/DeLunnLi/Awesome-Multimodal-GUI-Agents/main/README.md",
-        "retrieved_at": "2026-10-16T06:31:06Z",
+        "retrieved_at": "2026-10-16T10:21:59Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/DeLunnLi/Awesome-Multimodal-GUI-Agents/main/README.md",
@@ -234,7 +234,7 @@
       },
       "discovered": 588,
       "indexed": 469,
-      "curated": 127,
+      "curated": 149,
       "unindexed": 119
     },
     {
@@ -244,7 +244,7 @@
       "snapshot": {
         "id": "tianyuan-cua",
         "url": "https://raw.githubusercontent.com/TianyuanYang/awesome-computer-use/main/README.md",
-        "retrieved_at": "2026-10-16T06:31:06Z",
+        "retrieved_at": "2026-10-16T10:21:59Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/TianyuanYang/awesome-computer-use/main/README.md",
@@ -265,7 +265,7 @@
       "snapshot": {
         "id": "cdxeve-cua",
         "url": "https://raw.githubusercontent.com/cdxeve/awesome-computer-use-agents/main/README.md",
-        "retrieved_at": "2026-10-16T06:31:06Z",
+        "retrieved_at": "2026-10-16T10:21:59Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/cdxeve/awesome-computer-use-agents/main/README.md",
@@ -276,7 +276,7 @@
       },
       "discovered": 78,
       "indexed": 48,
-      "curated": 21,
+      "curated": 23,
       "unindexed": 30
     },
     {
@@ -286,7 +286,7 @@
       "snapshot": {
         "id": "supernal-gui",
         "url": "https://raw.githubusercontent.com/supernalintelligence/Awesome-Gui-Agents/main/README.md",
-        "retrieved_at": "2026-10-16T06:31:07Z",
+        "retrieved_at": "2026-10-16T10:22:00Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/supernalintelligence/Awesome-Gui-Agents/main/README.md",
@@ -307,7 +307,7 @@
       "snapshot": {
         "id": "yearly-gui",
         "url": "https://raw.githubusercontent.com/qy0720/awesome-yearly-gui-agents/main/README.md",
-        "retrieved_at": "2026-10-16T06:31:07Z",
+        "retrieved_at": "2026-10-16T10:22:00Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/qy0720/awesome-yearly-gui-agents/main/README.md",
@@ -317,9 +317,9 @@
         "unique_resources": 193
       },
       "discovered": 193,
-      "indexed": 136,
-      "curated": 60,
-      "unindexed": 57
+      "indexed": 135,
+      "curated": 66,
+      "unindexed": 58
     },
     {
       "id": "osu-gui",
@@ -328,7 +328,7 @@
       "snapshot": {
         "id": "osu-gui",
         "url": "https://raw.githubusercontent.com/OSU-NLP-Group/GUI-Agents-Paper-List/main/README.md",
-        "retrieved_at": "2026-10-16T06:31:39Z",
+        "retrieved_at": "2026-10-16T10:22:00Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/OSU-NLP-Group/GUI-Agents-Paper-List/main/README.md",
@@ -339,7 +339,7 @@
       },
       "discovered": 544,
       "indexed": 486,
-      "curated": 7,
+      "curated": 13,
       "unindexed": 58
     },
     {
@@ -349,7 +349,7 @@
       "snapshot": {
         "id": "opendilab-ui",
         "url": "https://raw.githubusercontent.com/opendilab/awesome-ui-agents/main/README.md",
-        "retrieved_at": "2026-10-16T06:31:39Z",
+        "retrieved_at": "2026-10-16T10:22:00Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/opendilab/awesome-ui-agents/main/README.md",
@@ -360,7 +360,7 @@
       },
       "discovered": 144,
       "indexed": 85,
-      "curated": 38,
+      "curated": 42,
       "unindexed": 59
     },
     {
@@ -370,7 +370,7 @@
       "snapshot": {
         "id": "jin-gui-hub",
         "url": "https://raw.githubusercontent.com/jin-s13/awesome-gui-agent-hub/main/AWESOME.md",
-        "retrieved_at": "2026-10-16T06:31:40Z",
+        "retrieved_at": "2026-10-16T10:22:00Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/jin-s13/awesome-gui-agent-hub/main/AWESOME.md",
@@ -381,7 +381,7 @@
       },
       "discovered": 206,
       "indexed": 203,
-      "curated": 2,
+      "curated": 3,
       "unindexed": 3
     },
     {
@@ -391,7 +391,7 @@
       "snapshot": {
         "id": "zju-iclr26",
         "url": "https://raw.githubusercontent.com/ZJU-REAL/Awesome-GUI-Agents/main/ICLR2026/Paperlist.md",
-        "retrieved_at": "2026-10-16T06:31:40Z",
+        "retrieved_at": "2026-10-16T10:22:00Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/ZJU-REAL/Awesome-GUI-Agents/main/ICLR2026/Paperlist.md",
@@ -412,7 +412,7 @@
       "snapshot": {
         "id": "mobile-gui",
         "url": "https://raw.githubusercontent.com/dqtz5vpvj9-create/awesome-mobile-gui-agents/main/README.md",
-        "retrieved_at": "2026-10-16T06:31:40Z",
+        "retrieved_at": "2026-10-16T10:22:00Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/dqtz5vpvj9-create/awesome-mobile-gui-agents/main/README.md",
@@ -423,7 +423,7 @@
       },
       "discovered": 40,
       "indexed": 21,
-      "curated": 13,
+      "curated": 15,
       "unindexed": 19
     },
     {
@@ -433,7 +433,7 @@
       "snapshot": {
         "id": "phone-gui",
         "url": "https://raw.githubusercontent.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents/master/README.md",
-        "retrieved_at": "2026-10-16T06:43:37Z",
+        "retrieved_at": "2026-10-16T10:22:00Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents/master/README.md",
@@ -444,7 +444,7 @@
       },
       "discovered": 247,
       "indexed": 172,
-      "curated": 57,
+      "curated": 68,
       "unindexed": 75
     },
     {
@@ -454,7 +454,7 @@
       "snapshot": {
         "id": "mobile-agents",
         "url": "https://raw.githubusercontent.com/aialt/awesome-mobile-agents/main/README.md",
-        "retrieved_at": "2026-10-16T06:40:53Z",
+        "retrieved_at": "2026-10-16T10:22:01Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/aialt/awesome-mobile-agents/main/README.md",
@@ -465,7 +465,7 @@
       },
       "discovered": 91,
       "indexed": 75,
-      "curated": 13,
+      "curated": 18,
       "unindexed": 16
     },
     {
@@ -475,7 +475,7 @@
       "snapshot": {
         "id": "web-research",
         "url": "https://raw.githubusercontent.com/albzni/Awesome-LLM-based-Web-Agent-and-Tools/main/README.md",
-        "retrieved_at": "2026-10-16T06:40:53Z",
+        "retrieved_at": "2026-10-16T10:22:01Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/albzni/Awesome-LLM-based-Web-Agent-and-Tools/main/README.md",
@@ -496,7 +496,7 @@
       "snapshot": {
         "id": "ranpox-cua",
         "url": "https://raw.githubusercontent.com/ranpox/awesome-computer-use/main/README.md",
-        "retrieved_at": "2026-10-16T06:40:53Z",
+        "retrieved_at": "2026-10-16T10:22:01Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/ranpox/awesome-computer-use/main/README.md",
@@ -507,7 +507,7 @@
       },
       "discovered": 96,
       "indexed": 57,
-      "curated": 20,
+      "curated": 24,
       "unindexed": 39
     }
   ],

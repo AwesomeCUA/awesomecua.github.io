@@ -1,5 +1,5 @@
 {
-  "relation_count": 93,
+  "relation_count": 108,
   "semantics": "Reviewed semantic links only. Documentation does not establish training or evaluation dependency.",
   "relations": [
     {
@@ -17,6 +17,14 @@
       "evidence_url": "https://raw.githubusercontent.com/google-research/google-research/master/android_in_the_wild/README.md",
       "target_id": "arxiv:2307.10088",
       "type": "introduced_by"
+    },
+    {
+      "source_id": "github:baai-agents/cradle",
+      "source_name": "Cradle",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/BAAI-Agents/Cradle/HEAD/README.md",
+      "target_id": "arxiv:2403.03186",
+      "type": "documented_by"
     },
     {
       "source_id": "github:browser-use/browser-use",
@@ -40,6 +48,14 @@
       "source_kind": "model",
       "evidence_url": "https://raw.githubusercontent.com/bytedance/UI-TARS/HEAD/README.md",
       "target_id": "arxiv:2501.12326",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:digirl-agent/digirl",
+      "source_name": "DigiRL",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/DigiRL-agent/digirl/HEAD/README.md",
+      "target_id": "arxiv:2406.11896",
       "type": "documented_by"
     },
     {
@@ -72,6 +88,38 @@
       "source_kind": "model",
       "evidence_url": "https://raw.githubusercontent.com/inclusionAI/UI-Venus/HEAD/README.md",
       "target_id": "arxiv:2508.10833",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:infixai/infigui-g1",
+      "source_name": "InfiGUI-G1",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/InfiXAI/InfiGUI-G1/HEAD/README.md",
+      "target_id": "arxiv:2508.05731",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:jacklishufan/mobileworld",
+      "source_name": "MobileWorldBench",
+      "source_kind": "benchmark",
+      "evidence_url": "https://github.com/jacklishufan/MobileWorld",
+      "target_id": "arxiv:2512.14014",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:laokuize/appagent-pro",
+      "source_name": "AppAgent Pro",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/LaoKuiZe/AppAgent-Pro/HEAD/README.md",
+      "target_id": "arxiv:2508.18689",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:lll6gg/ui-r1",
+      "source_name": "UI-R1",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/lll6gg/UI-R1/HEAD/README.md",
+      "target_id": "arxiv:2503.21620",
       "type": "documented_by"
     },
     {
@@ -123,6 +171,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:mobilellm/autodroid",
+      "source_name": "AutoDroid",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/MobileLLM/AutoDroid/HEAD/README.md",
+      "target_id": "arxiv:2308.15272",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:njucckevin/seeclick",
       "source_name": "SeeClick",
       "source_kind": "model",
@@ -147,6 +203,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:opengvlab/zerogui",
+      "source_name": "ZeroGUI",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/OpenGVLab/ZeroGUI/HEAD/README.md",
+      "target_id": "arxiv:2505.23762",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:os-copilot/os-atlas",
       "source_name": "OS-Atlas",
       "source_kind": "model",
@@ -155,11 +219,35 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:os-copilot/os-copilot",
+      "source_name": "OS-Copilot",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/OS-Copilot/OS-Copilot/HEAD/README.md",
+      "target_id": "arxiv:2402.07456",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:os-copilot/os-genesis",
+      "source_name": "OS-Genesis",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/OS-Copilot/OS-Genesis/HEAD/README.md",
+      "target_id": "arxiv:2412.19723",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:osu-nlp-group/mind2web",
       "source_name": "Mind2Web",
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md",
       "target_id": "arxiv:2306.06070",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:reallm-labs/infigui-r1",
+      "source_name": "InfiGUI-R1",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/Reallm-Labs/InfiGUI-R1/HEAD/README.md",
+      "target_id": "arxiv:2504.14239",
       "type": "documented_by"
     },
     {
@@ -227,11 +315,27 @@
       "type": "published_by"
     },
     {
+      "source_id": "github:tencentqqgylab/appagent",
+      "source_name": "AppAgent",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/TencentQQGYLab/AppAgent/HEAD/README.md",
+      "target_id": "arxiv:2312.13771",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:thudm/android-lab",
       "source_name": "AndroidLab",
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md",
       "target_id": "arxiv:2410.24024",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:thudm/computerrl",
+      "source_name": "ComputerRL",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/THUDM/ComputerRL/HEAD/README.md",
+      "target_id": "arxiv:2508.14040",
       "type": "documented_by"
     },
     {
@@ -267,6 +371,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:westlake-agi-lab/appagentx",
+      "source_name": "AppAgentX",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/Westlake-AGI-Lab/AppAgentX/HEAD/README.md",
+      "target_id": "arxiv:2503.02268",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:x-plug/mobileagent",
       "source_name": "Mobile-Agent",
       "source_kind": "agent",
@@ -296,6 +408,14 @@
       "source_kind": "agent",
       "evidence_url": "https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/README.md",
       "target_id": "arxiv:2602.16855",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:xlang-ai/agenttrek",
+      "source_name": "AgentTrek",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/xlang-ai/AgentTrek/HEAD/README.md",
+      "target_id": "arxiv:2412.09605",
       "type": "documented_by"
     },
     {
