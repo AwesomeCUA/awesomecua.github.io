@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "site": "https://awesomecua.github.io",
-  "accepted_at": "2026-10-16T12:27:15+00:00",
-  "manifest_sha256": "1eb898ae10e73c480f3b27987b6e7d4c5e39f984bbff601382adec0665ff5a9b",
-  "source_commit": "2e9a5c3af67797be8b03234a87522b09d344eb9b",
+  "accepted_at": "2026-10-16T19:03:12+00:00",
+  "manifest_sha256": "6c4dbe7a7597d900ee64fdd5ae382eafd19daf762ace6c575774d17431380d85",
+  "source_commit": "6f2adc847c59a157bb3c5c1300c04e6b96aa8dfb",
   "accepted_pages": {
     "/resources/arxiv-1802-08802/": "6c7464427702c37bebac8deda40659ba3ad2c52c948dc19b962c972cfc824a9e",
     "/resources/arxiv-2010-04295/": "c5e501d367712ba31d9b11adbaa14d84fba54331d9e295449951722a3df234b7",
@@ -545,7 +545,7 @@
     "/papers/": "7121aea07afb656f18d338f10036f1a5cf1ff0a0f39e0e7db7e4b82ccc0d0965",
     "/connections/": "1a27b425f5b7d0f83b0c7f22e7955eda663c02d7b924e7adb59dd4538d36cbfb",
     "/coverage/": "23b56314741e8578ebcab951294ef25ffe677dbe9ffc3eb79dbd3526392a8e5f",
-    "/updates/": "9d54a58a18e88b2ed8481709568f7a0c2eac46bf46102aad6d9c5a03c5a7cc1d",
+    "/updates/": "4d5ab5752a9758504ecbca2ed0562bb6c15ddb847d82a2cb10f6fa6bdf55ab25",
     "/about/": "afe2063d1368247141f0100b34ae1d1849507aa4f3828af0cf22d0560deaef7c",
     "/data/": "48dd67872cafb8e2a8fa5ac15837a4f625fc7b32800f24531731e682d0ad8559",
     "/guides/what-are-computer-use-agents/": "0f996b1963e8765f40f724772319592fae9098e579ea0086ae07a8a5ddf82f6c",
