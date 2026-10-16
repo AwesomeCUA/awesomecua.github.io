@@ -1,5 +1,5 @@
 {
-  "relation_count": 153,
+  "relation_count": 172,
   "semantics": "Reviewed semantic links only. Documentation does not establish training or evaluation dependency.",
   "relations": [
     {
@@ -32,6 +32,22 @@
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/ai-agents-2030/SPA-Bench/HEAD/README.md",
       "target_id": "arxiv:2410.15164",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:alibaba/ui-ins",
+      "source_name": "UI-Ins",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/alibaba/UI-Ins/HEAD/README.md",
+      "target_id": "arxiv:2510.20286",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:alipay/mobile-agent",
+      "source_name": "MobileAgent (Alipay)",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/alipay/mobile-agent/HEAD/README.md",
+      "target_id": "arxiv:2401.04124",
       "type": "documented_by"
     },
     {
@@ -131,6 +147,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:digirl-agent/digiq",
+      "source_name": "Digi-Q",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/DigiRL-agent/digiq/HEAD/README.md",
+      "target_id": "arxiv:2502.15760",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:digirl-agent/digirl",
       "source_name": "DigiRL",
       "source_kind": "framework",
@@ -168,6 +192,14 @@
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/facebookresearch/ai-agent-privacy/HEAD/README.md",
       "target_id": "arxiv:2503.09780",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:gair-nlp/pc-agent",
+      "source_name": "PC-Agent",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/GAIR-NLP/PC-Agent/HEAD/README.md",
+      "target_id": "arxiv:2412.17589",
       "type": "documented_by"
     },
     {
@@ -227,6 +259,22 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:inclusionai/ui-venus",
+      "source_name": "UI-Venus",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/inclusionAI/UI-Venus/HEAD/README.md",
+      "target_id": "arxiv:2602.09082",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:inclusionai/ui-venus",
+      "source_name": "UI-Venus",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/inclusionAI/UI-Venus/HEAD/README.md",
+      "target_id": "arxiv:2609.00028",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:infixai/infigui-g1",
       "source_name": "InfiGUI-G1",
       "source_kind": "model",
@@ -240,6 +288,14 @@
       "source_kind": "benchmark",
       "evidence_url": "https://github.com/jacklishufan/MobileWorld",
       "target_id": "arxiv:2512.14014",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:kdegroup/ui-agile",
+      "source_name": "UI-AGILE",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/KDEGroup/UI-AGILE/HEAD/README.md",
+      "target_id": "arxiv:2507.22025",
       "type": "documented_by"
     },
     {
@@ -275,6 +331,22 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:microsoft/fara",
+      "source_name": "Fara",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/microsoft/fara/HEAD/README.md",
+      "target_id": "arxiv:2511.19663",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:microsoft/fara",
+      "source_name": "Fara",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/microsoft/fara/HEAD/README.md",
+      "target_id": "arxiv:2606.20785",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:microsoft/gui-actor",
       "source_name": "GUI-Actor",
       "source_kind": "model",
@@ -291,11 +363,27 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:microsoft/phi-ground",
+      "source_name": "Phi-Ground",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/microsoft/Phi-Ground/HEAD/README.md",
+      "target_id": "arxiv:2507.23779",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:microsoft/som",
       "source_name": "Set of Mark",
       "source_kind": "tool",
       "evidence_url": "https://raw.githubusercontent.com/microsoft/SoM/HEAD/README.md",
       "target_id": "arxiv:2310.11441",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:microsoft/webwright",
+      "source_name": "CUAWright (formerly Webwright)",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/microsoft/Webwright/HEAD/README.md",
+      "target_id": "arxiv:2610.04116",
       "type": "documented_by"
     },
     {
@@ -360,6 +448,14 @@
       "source_kind": "dataset",
       "evidence_url": "https://raw.githubusercontent.com/OpenGVLab/GUI-Odyssey/HEAD/README.md",
       "target_id": "arxiv:2406.08451",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:opengvlab/scalecua",
+      "source_name": "ScaleCUA",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/OpenGVLab/ScaleCUA/HEAD/README.md",
+      "target_id": "arxiv:2509.15221",
       "type": "documented_by"
     },
     {
@@ -491,6 +587,22 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:showlab/showui-aloha",
+      "source_name": "ShowUI-Aloha",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/showlab/ShowUI-Aloha/HEAD/README.md",
+      "target_id": "arxiv:2601.07181",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:showlab/showui-pi",
+      "source_name": "ShowUI-π",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/showlab/showui-pi/HEAD/README.md",
+      "target_id": "arxiv:2512.24965",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:showlab/videogui",
       "source_name": "VideoGUI",
       "source_kind": "benchmark",
@@ -563,6 +675,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:tencent/points-gui",
+      "source_name": "POINTS-GUI",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/Tencent/POINTS-GUI/HEAD/README.md",
+      "target_id": "arxiv:2602.06391",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:tencentqqgylab/appagent",
       "source_name": "AppAgent",
       "source_kind": "agent",
@@ -611,6 +731,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:thudm/scale-cua",
+      "source_name": "SCALE-CUA (THUDM)",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/THUDM/SCALE-CUA/HEAD/README.md",
+      "target_id": "arxiv:2607.11185",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:thudm/visualagentbench",
       "source_name": "VisualAgentBench",
       "source_kind": "benchmark",
@@ -656,6 +784,14 @@
       "source_kind": "model",
       "evidence_url": "https://raw.githubusercontent.com/vivo-ai-lab/BlueLM-GUI/HEAD/README.md",
       "target_id": "arxiv:2609.12394",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:vivo/dimo-gui",
+      "source_name": "DiMo-GUI",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/vivo/DiMo-GUI/HEAD/readme.md",
+      "target_id": "arxiv:2507.00008",
       "type": "documented_by"
     },
     {
@@ -1179,6 +1315,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:e3c1a2a2d556e4728953",
+      "source_name": "Dreamer-7B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/osunlp/Dreamer-7B/raw/main/README.md",
+      "target_id": "arxiv:2411.06559",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:e3e5dd82a3102689c4ea",
       "source_name": "GUI-Actor 7B Qwen2-VL",
       "source_kind": "model",
@@ -1193,6 +1337,14 @@
       "evidence_url": "https://huggingface.co/api/models/osunlp/UGround-V1-7B",
       "target_id": "github:osu-nlp-group/uground",
       "type": "variant_of"
+    },
+    {
+      "source_id": "url:eadc6cba9ea46c38dd1d",
+      "source_name": "Dreamer V1 Data",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/osunlp/Dreamer-V1-Data/raw/main/README.md",
+      "target_id": "arxiv:2411.06559",
+      "type": "documented_by"
     },
     {
       "source_id": "url:ef244017b1460269fc68",
