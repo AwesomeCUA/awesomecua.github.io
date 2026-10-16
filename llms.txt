@@ -1,0 +1,22 @@
+# AwesomeCUA
+
+> A source-backed computer-use agent resource catalog. Distinguish curated entries from metadata-only bibliography records.
+
+Resource counts are not independent project counts. Primary-source retrieval does not establish reproducibility. Code, data, weights, and document licenses are separate.
+
+## Start here
+
+- [Catalog](https://awesomecua.github.io/catalog/): resource categories
+- [Research](https://awesomecua.github.io/papers/): reviewed papers and surveys
+- [Guides](https://awesomecua.github.io/guides/): definitions and practical reading guides
+- [Editorial policy](https://awesomecua.github.io/about/): review states and limits
+- [Coverage](https://awesomecua.github.io/coverage/): source populations and known gaps
+- [Data downloads](https://awesomecua.github.io/data/): structured catalog with provenance
+
+## Machine-readable access
+
+- [Full catalog JSONL](https://awesomecua.github.io/downloads/catalog.jsonl)
+- [Curated annotations in Markdown](https://awesomecua.github.io/llms-full.txt)
+- [Research Atom feed](https://awesomecua.github.io/feed.xml)
+
+Resource HTML pages have a companion `index.md` at the same path. This file is an optional navigation aid, not an indexing requirement or a request to rank this site.

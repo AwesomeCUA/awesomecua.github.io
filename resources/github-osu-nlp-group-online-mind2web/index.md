@@ -1,0 +1,29 @@
+# Online Mind2Web
+
+Live website evaluation of web agents.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-osu-nlp-group-online-mind2web/
+- Original source: https://github.com/OSU-NLP-Group/Online-Mind2Web
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation
+- Evidence checked: 2026-10-16T06:35:57Z
+- ID: github:osu-nlp-group/online-mind2web
+
+## Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+## License declarations
+
+- code: MIT — https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md (retrieved 2026-10-16T06:35:57Z; SHA-256 49d7cc317fd2ba0df65abf65a0357d1fa2384e59019a96d4e24b784888599eaa)
+- https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/LICENSE (retrieved 2026-10-16T06:41:57Z; SHA-256 93675f9d13697ae98889d703b8fae86a7200623e7ae8d844c9ee2200ad480583)
