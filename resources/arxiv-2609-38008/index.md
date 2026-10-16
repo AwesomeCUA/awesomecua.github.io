@@ -1,20 +1,20 @@
 # HybridCUA: Learning to Orchestrate GUI and CLI for Computer-Use Agents
 
-Bibliographic record for HybridCUA: Learning to Orchestrate GUI and CLI for Computer-Use Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Trains computer agents on verified GUI, command-line, and interleaved trajectories to learn when and how to combine interaction modes.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-38008/
 - Original source: https://arxiv.org/abs/2609.38008
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
+- Review: curated
+- Scope: core
+- Environments: desktop, windows
+- Topics: tool-integration, reinforcement-learning, data-generation
 - Evidence checked: 2026-10-16T06:36:29Z
 - ID: arxiv:2609.38008
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
 ## Authors
 
@@ -29,4 +29,5 @@ Tongbo Chen, Junbo Niu, Zhengxi Lu, Niu Lian, Fei Tang, Yuchen Yan, Yike Hong, Y
 
 ## Primary evidence
 
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)

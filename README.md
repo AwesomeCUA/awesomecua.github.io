@@ -4,7 +4,7 @@
 
 [Website](https://awesomecua.github.io/) · [Research papers](https://awesomecua.github.io/papers/) · [中文指南](https://awesomecua.github.io/zh/) · [GitHub organization](https://github.com/AwesomeCUA)
 
-**1,987 resource records** · **311 curated** · **1,764 arXiv records** · **21 discovery documents**
+**1,987 resource records** · **433 curated** · **1,764 arXiv records** · **21 discovery documents**
 
 Evidence snapshot: 2026-10-16T09:39:34Z. Bibliography counts overlap review-state counts. Resources are not independent projects.
 
@@ -35,13 +35,13 @@ Category pages highlight reviewed resources; the [interactive catalog](https://a
 - [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://awesomecua.github.io/resources/arxiv-2610-22200/) — Introduces an open generalist computer-use stack combining visual and programmatic interaction, with model-controlled observation and task-state decisions. [Original paper](https://arxiv.org/abs/2610.22200).
 - [OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents](https://awesomecua.github.io/resources/arxiv-2610-22234/) — Trains native computer-use models to coordinate GUI actions and code execution using hybrid demonstrations and online reinforcement learning. [Original paper](https://arxiv.org/abs/2610.22234).
 - [LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents](https://awesomecua.github.io/resources/arxiv-2610-22280/) — Uses weak-agent uncertainty to decide when to escalate to a stronger model and monitor its subsequent task execution. [Original paper](https://arxiv.org/abs/2610.22280).
+- [MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments](https://awesomecua.github.io/resources/arxiv-2610-20939/) — Unifies GUI evaluation, trajectory collection, environment synthesis, and online reinforcement learning across mobile, computer, and web tasks. [Original paper](https://arxiv.org/abs/2610.20939).
+- [Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction](https://awesomecua.github.io/resources/arxiv-2610-12984/) — Aligns human screen recordings, input events, and accessibility information to derive reusable workflow skills from desktop demonstrations. [Original paper](https://arxiv.org/abs/2610.12984).
+- [MedImageOSWorld: Benchmarking GUI Agents for Medical Image Consoles](https://awesomecua.github.io/resources/arxiv-2610-04800/) — Evaluates GUI agents in simulated medical-imaging consoles, separately checking workflow completion and acquisition outcomes against hidden anatomical targets. [Original paper](https://arxiv.org/abs/2610.04800).
+- [Control OSWorld: An AI Control Environment for GUI Computer Use Agents](https://awesomecua.github.io/resources/arxiv-2610-03818/) — Pairs OSWorld tasks with harmful side objectives to evaluate monitors that detect malicious behavior in computer-use agent trajectories. [Original paper](https://arxiv.org/abs/2610.03818).
+- [GUI-HARVEST: Self-Improving GUI Agents through Evidence-Driven Harness Evolution](https://awesomecua.github.io/resources/arxiv-2610-00948/) — Improves GUI-agent execution code by analyzing action effects and repeated-task failures, then validating bounded changes with frozen model weights. [Original paper](https://arxiv.org/abs/2610.00948).
 - [DeskForge: Dense Supervision from Desktop Environments for Computer-Use Agents](https://awesomecua.github.io/resources/arxiv-2610-02320/) — Generates dense desktop supervision by varying real application scenes and combining screenshots, accessibility trees, and window geometry. [Original paper](https://arxiv.org/abs/2610.02320).
-- [WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning](https://awesomecua.github.io/resources/arxiv-2608-27508/) — Uses learned world models for mobile-agent training rollouts and for reasoning about the consequences of candidate GUI actions. [Original paper](https://arxiv.org/abs/2608.27508).
-- [MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps](https://awesomecua.github.io/resources/arxiv-2608-17659/) — Evaluates environmental injection risks in Android tasks using programmatic risk checks and model-based adjudication of ambiguous cases. [Original paper](https://arxiv.org/abs/2608.17659).
-- [GoClick: Lightweight Element Grounding Model for Autonomous GUI Interaction](https://awesomecua.github.io/resources/arxiv-2604-23941/) — Studies a compact encoder-decoder grounding model and progressive training-data refinement for resource-constrained GUI interaction. [Original paper](https://arxiv.org/abs/2604.23941).
-- [MedSPOT: A Workflow-Aware Sequential Grounding Benchmark for Clinical GUI](https://awesomecua.github.io/resources/arxiv-2603-19993/) — Benchmarks sequential target localization in clinical software workflows, emphasizing how early mistakes affect subsequent interaction steps. [Original paper](https://arxiv.org/abs/2603.19993).
-- [Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents](https://awesomecua.github.io/resources/arxiv-2602-16855/) — Presents GUI-Owl-1.5 variants and a hybrid data pipeline for multimodal GUI interaction, tool use, memory, and multi-platform tasks. [Original paper](https://arxiv.org/abs/2602.16855).
-- [MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments](https://awesomecua.github.io/resources/arxiv-2512-19432/) — Introduces long mobile workflows that combine agent-user interaction, cross-application tasks, and MCP-based tool access. [Original paper](https://arxiv.org/abs/2512.19432).
+- [OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software](https://awesomecua.github.io/resources/arxiv-2609-39903/) — Benchmarks computer agents on scientific-software workflows with task-specific checks of application states and generated research artifacts. [Original paper](https://arxiv.org/abs/2609.39903).
 
 [All reviewed papers and surveys](https://awesomecua.github.io/papers/). Annotations do not independently reproduce experimental findings.
 
@@ -73,7 +73,7 @@ This repository hosts the published static website and metadata snapshot. Comple
 python3 -m http.server 4173 --bind 127.0.0.1
 ```
 
-GitHub Pages serves the `main` branch root. Original code and annotations use [MIT](LICENSE); linked assets retain their own terms.
+GitHub Pages deploys the validated static artifact through the publication workflow. The `main` branch keeps an inspectable snapshot. Original code and annotations use [MIT](LICENSE); linked assets retain their own terms.
 
 [Suggest a resource or correction](https://github.com/AwesomeCUA/awesomecua.github.io/issues/new?template=resource.yml). Supply a primary source and explain uncertain facts. Global completeness is a goal, not a verified claim.
 
