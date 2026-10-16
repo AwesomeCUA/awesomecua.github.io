@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://awesomecua.github.io/sitemap.xml
