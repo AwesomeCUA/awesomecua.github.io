@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "site": "https://awesomecua.github.io",
-  "accepted_at": "2026-10-16T10:53:19+00:00",
-  "manifest_sha256": "5418e6e6fe4aa708e5f4c9abcf677160b79c1cbc01d580be762fec06b52d6de5",
-  "source_commit": "b8205661f877954caa0267f87bfdad88fe89386b",
+  "accepted_at": "2026-10-16T11:05:10+00:00",
+  "manifest_sha256": "4aaae31d9eb3f82f14a6092dccfdfd5729d284068fabf91e9cf84017f23fee3b",
+  "source_commit": "eb0897f2cdeb14a47de1e24c8eb037c542fefdbd",
   "accepted_pages": {
     "/resources/arxiv-1802-08802/": "6c7464427702c37bebac8deda40659ba3ad2c52c948dc19b962c972cfc824a9e",
     "/resources/arxiv-2101-04893/": "262bbd948b892c0db01e57ee7e525521ffe2ba73da6ab5d1f49f7163ac3abedf",
@@ -480,7 +480,7 @@
     "/papers/": "12e099ecfcd9fff16bc45ea22b7c5027e90a2c312aa5e1c5e3789380def44f40",
     "/connections/": "8b97692b0630119e0c24cd239d2264175bf77609ab99bd53c749528f5fab11d2",
     "/coverage/": "a1a508d93a2da96a44dcd0c3ad8121daeff1e9650785b3c1bb46adf29490ff5f",
-    "/updates/": "602f36e6c6014dd0593fa67d4f2cc74bae8619385361d313ea1ef3cb85218b93",
+    "/updates/": "17235a257ee156922275b60800b87d0105572be4e5b7c8bd17eed3c311865b85",
     "/about/": "afe2063d1368247141f0100b34ae1d1849507aa4f3828af0cf22d0560deaef7c",
     "/data/": "430fdfa1d83857a62e716b24b4cd57dbc922ba22a601344456093a97451d32eb",
     "/guides/what-are-computer-use-agents/": "0f996b1963e8765f40f724772319592fae9098e579ea0086ae07a8a5ddf82f6c",
@@ -489,10 +489,5 @@
     "/guides/": "f2e1d72ab3f5c5ea5c013c0c00b6a863695ccd4337a134225cc637adbdaa9565",
     "/zh/": "83d2aace90d0d9890a88447e363d1ceefdfd0fca9d3626803916e9f80459b31d",
     "/": "82c1a8368d0a8a8e64821193cbf83c817cf7aab5fd48ba832a1e9c97e46ab5dc"
-  },
-  "baseline_evidence": {
-    "receipt_source": "https://github.com/reacher-z/Awesome-CUA/blob/9a31167/data/search-submissions.json",
-    "receipt_sha256": "b6b5350830ee41cd8d86efbbada258d47163e82970306feb5ad6e28178bb6beb",
-    "meaning": "Initialized from the accepted 484-URL submission and the unchanged, matching deployed build. No new submission was made during initialization."
   }
 }
