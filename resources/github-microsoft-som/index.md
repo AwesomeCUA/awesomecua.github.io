@@ -1,13 +1,13 @@
 # Set of Mark
 
-Visual prompting tools that annotate interface elements.
+Visual-prompting toolbox that labels image regions for multimodal reference and grounding, including GUI applications.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-microsoft-som/
 - Original source: https://github.com/microsoft/SoM
 - Kind: tool
 - Review: curated
 - Scope: adjacent
-- Environments: cross-platform
+- Environments: unspecified
 - Topics: grounding
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:microsoft/som

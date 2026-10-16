@@ -1,6 +1,6 @@
 # AwesomeCUA curated resource annotations
 
-Evidence snapshot: 2026-10-16T09:39:34Z. These records were reviewed with AI assistance; experiments are not independently reproduced.
+Evidence snapshot: 2026-10-16T10:48:43Z. These records were reviewed with AI assistance; experiments are not independently reproduced.
 
 # Reinforcement Learning on Web Interfaces Using Workflow-Guided Exploration
 
@@ -7689,6 +7689,37 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+# AppSim-Bench
+
+Simulated mobile applications and evaluation tooling for reproducible GUI-agent tasks with controlled application state.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-acrab-agentic-labs-appsim/
+- Original source: https://github.com/Acrab-Agentic-Labs/AppSim
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: evaluation, sandbox
+- Evidence checked: 2026-10-16T10:42:12Z
+- ID: github:acrab-agentic-labs/appsim
+
+## Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim/HEAD/README.md (retrieved 2026-10-16T10:42:12Z; SHA-256 12dc2afe339c1ed66e4a6a4ccf5ae13d27ce32f452960341529a4b9016f69059)
+
+---
+
 # Agent Infra Sandbox
 
 Sandbox environments supporting computer and browser interaction.
@@ -8258,6 +8289,37 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+# AUITestAgent
+
+Generates mobile GUI interactions from natural-language test requirements and checks application behavior against those requirements.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-bz-lab-auitestagent/
+- Original source: https://github.com/bz-lab/AUITestAgent
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: automation, evaluation
+- Evidence checked: 2026-10-16T10:43:11Z
+- ID: github:bz-lab/auitestagent
+
+## Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/bz-lab/AUITestAgent/HEAD/README.md (retrieved 2026-10-16T10:43:11Z; SHA-256 dc60f683b0f44ccee4e54e5cbe1552ee3454e1ec4ed5c04635fedb83a325f51f)
+
+---
+
 # CRAB
 
 Cross-environment benchmark framework for multimodal agents.
@@ -8317,6 +8379,69 @@ Inclusion does not establish reproducibility or endorsement.
 ## Primary evidence
 
 - https://raw.githubusercontent.com/ChenWu98/agent-attack/HEAD/README.md (retrieved 2026-10-16T06:40:54Z; SHA-256 0759e1212025ac487c1646877f97526d35db1a62337192800acaff7684471087)
+
+---
+
+# GUI-Robust
+
+Evaluation scripts and linked data for comparing GUI action predictions and task execution under ordinary and anomalous interface conditions.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-chessbean1-gui-robust/
+- Original source: https://github.com/chessbean1/GUI-Robust
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: cross-platform
+- Topics: evaluation, robustness
+- Evidence checked: 2026-10-16T10:43:11Z
+- ID: github:chessbean1/gui-robust
+
+## Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/chessbean1/GUI-Robust/HEAD/README.md (retrieved 2026-10-16T10:43:11Z; SHA-256 93defc2b31d0f8e6144e77cda4a74abeafd5253ae18a626bfc625f429050770a)
+
+---
+
+# Work2Skill
+
+Collects human GUI demonstrations and inspects multimodal evidence to derive reusable agent workflow skills.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-china-qijizhifeng-work2skill/
+- Original source: https://github.com/china-qijizhifeng/Work2Skill
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: desktop, macos, linux
+- Topics: recording, workflow, data-generation
+- Evidence checked: 2026-10-16T10:42:12Z
+- ID: github:china-qijizhifeng/work2skill
+
+## Limitations
+
+The README reports that evaluation integration and live cross-platform acceptance testing remain pending.
+
+## License declarations
+
+- code: MIT — https://raw.githubusercontent.com/china-qijizhifeng/Work2Skill/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/china-qijizhifeng/Work2Skill/HEAD/README.md (retrieved 2026-10-16T10:42:12Z; SHA-256 40a5e9ad3a2169527a9330825bd6e07ac1669293e21c209ed41036987bbf0a8b)
+- https://raw.githubusercontent.com/china-qijizhifeng/Work2Skill/HEAD/LICENSE (retrieved 2026-10-16T10:48:42Z; SHA-256 70387bc43f567b2ed971c1a789719c8c3567b0d073407c38b5dc6af1eb78012a)
 
 ---
 
@@ -8384,6 +8509,38 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+# Auto-GUI / Auto-UI
+
+Screenshot-based mobile agent implementation with training and inference code for chain-of-action prediction.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-cooelf-auto-gui/
+- Original source: https://github.com/cooelf/Auto-GUI
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, planning
+- Evidence checked: 2026-10-16T10:42:12Z
+- ID: github:cooelf/auto-gui
+
+## Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+## License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/cooelf/Auto-GUI/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/cooelf/Auto-GUI/HEAD/README.md (retrieved 2026-10-16T10:42:12Z; SHA-256 13f045fa84dc0ad68dcceea95fc7e0e34a45bcda866d589132351559b87a8e30)
+- https://raw.githubusercontent.com/cooelf/Auto-GUI/HEAD/LICENSE (retrieved 2026-10-16T10:48:41Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
 # AndroidEnv
 
 Environment toolkit for interacting with Android devices in agent research.
@@ -8448,6 +8605,38 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+# DistRL
+
+Distributed online reinforcement-learning framework for Android agents, with environment setup and trajectory collection tools.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-distrl-lab-distrl-open/
+- Original source: https://github.com/DistRL-lab/distrl-open
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: reinforcement-learning, efficiency
+- Evidence checked: 2026-10-16T10:42:12Z
+- ID: github:distrl-lab/distrl-open
+
+## Limitations
+
+The README identifies model weights and dataset release as pending; this entry covers the code framework.
+
+## License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/DistRL-lab/distrl-open/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/DistRL-lab/distrl-open/HEAD/README.md (retrieved 2026-10-16T10:42:12Z; SHA-256 f501f8de6aac53758f60882a8c595a5ac27145f327c73b0cfa7921b45ccae75a)
+- https://raw.githubusercontent.com/DistRL-lab/distrl-open/HEAD/LICENSE (retrieved 2026-10-16T10:48:41Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
 # GUI-World
 
 GUI video data for understanding dynamic interfaces.
@@ -8476,6 +8665,38 @@ Inclusion does not establish reproducibility or endorsement.
 ## Primary evidence
 
 - https://github.com/Dongping-Chen/GUI-World (retrieved 2026-10-16T06:40:52Z; SHA-256 d02fa5da3384a3e58cf1d28aad47497de73fe3aad0ce57219585da04fc3187ef)
+
+---
+
+# Mobile Harness
+
+Portable agent instructions and integration tooling for local or cloud phone control through mobilerun-core.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-droidrun-mobile-harness/
+- Original source: https://github.com/droidrun/mobile-harness
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: android, ios
+- Topics: automation, tool-integration
+- Evidence checked: 2026-10-16T10:42:12Z
+- ID: github:droidrun/mobile-harness
+
+## Limitations
+
+The publisher describes this as a Markdown harness, not an agent runtime. Published benchmark results have not been independently reproduced.
+
+## License declarations
+
+- code: MIT — https://raw.githubusercontent.com/droidrun/mobile-harness/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/droidrun/mobile-harness/HEAD/README.md (retrieved 2026-10-16T10:42:12Z; SHA-256 0d05433c730e74f13be753fa6156737f797a69d61d8793e47f5a56b3a63ee790)
+- https://raw.githubusercontent.com/droidrun/mobile-harness/HEAD/LICENSE (retrieved 2026-10-16T10:48:41Z; SHA-256 de215a2914d50cb87fcab9e19efc856b9e600a68eefec5c63e284dae34977133)
 
 ---
 
@@ -8543,6 +8764,37 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+# AgentDAM
+
+Web-agent benchmark for measuring unnecessary use of sensitive personal information during end-to-end task execution.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-facebookresearch-ai-agent-privacy/
+- Original source: https://github.com/facebookresearch/ai-agent-privacy
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: safety-security, evaluation
+- Evidence checked: 2026-10-16T10:42:34Z
+- ID: github:facebookresearch/ai-agent-privacy
+
+## Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/facebookresearch/ai-agent-privacy/HEAD/README.md (retrieved 2026-10-16T10:42:34Z; SHA-256 9c938f8f3f3ee04f459362a8b7d399588fd030ce476cda111e5f23fbf1e31f10)
+
+---
+
 # MiniWoB++
 
 Browser interaction task environment derived from MiniWoB.
@@ -8604,6 +8856,70 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/GAIR-NLP/PC-Agent/HEAD/README.md (retrieved 2026-10-16T06:36:03Z; SHA-256 178774927f003b5221d695fa78ded6fcc543aa8653c7b2dd8016418e6911afb7)
 - https://raw.githubusercontent.com/GAIR-NLP/PC-Agent/HEAD/LICENSE (retrieved 2026-10-16T06:42:04Z; SHA-256 aee22091f60f10968afb7dc33dd8b728ea929e287c260ed82adffdec4866fcb5)
+
+---
+
+# GUI-HARVEST
+
+Optimizes GUI-agent execution code from repeated rollout evidence and checks proposed changes against fixed validation gates.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-garyyang12345-gui-harvest/
+- Original source: https://github.com/GaryYang12345/GUI-HARVEST
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: automation, observability, robustness
+- Evidence checked: 2026-10-16T10:42:12Z
+- ID: github:garyyang12345/gui-harvest
+
+## Limitations
+
+Requires a separately installed benchmark and seed agent harness; benchmark tasks and model weights remain fixed during its optimization procedure.
+
+## License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/GaryYang12345/GUI-HARVEST/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/GaryYang12345/GUI-HARVEST/HEAD/README.md (retrieved 2026-10-16T10:42:12Z; SHA-256 2e42f01578710d91145412f7d1ecb93979db96c698f677915284da1a1d592588)
+- https://raw.githubusercontent.com/GaryYang12345/GUI-HARVEST/HEAD/LICENSE (retrieved 2026-10-16T10:48:42Z; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
+
+---
+
+# AndroidEnv
+
+Android device-control platform with screenshots, accessibility telemetry, input actions, and an optional reinforcement-learning task interface.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-google-deepmind-android-env/
+- Original source: https://github.com/google-deepmind/android_env
+- Kind: infrastructure
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: sandbox, reinforcement-learning, automation
+- Evidence checked: 2026-10-16T10:42:12Z
+- ID: github:google-deepmind/android_env
+
+## Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+## License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/google-deepmind/android_env/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/google-deepmind/android_env/HEAD/README.md (retrieved 2026-10-16T10:42:12Z; SHA-256 b8dd2ea004647008265f4fb5c5a122569992311b6758f413080984266e53c25a)
+- https://raw.githubusercontent.com/google-deepmind/android_env/HEAD/LICENSE (retrieved 2026-10-16T10:48:41Z; SHA-256 58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd)
 
 ---
 
@@ -8698,6 +9014,38 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md (retrieved 2026-10-16T06:35:57Z; SHA-256 93201de5e21f2b12283a75b1e2c357781b2e6cc27eab20cc7dd7aa0f5919d839)
 - https://raw.githubusercontent.com/google-research/android_world/HEAD/LICENSE (retrieved 2026-10-16T06:41:57Z; SHA-256 b09fcaf4fbc265223c2479c410beef2b98c5e687c78ecedf3452aa12ffc465f1)
+
+---
+
+# PPTC
+
+PowerPoint creation and editing benchmark with API-based execution and checks of the resulting presentation files.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-gydpku-pptc/
+- Original source: https://github.com/gydpku/PPTC
+- Kind: benchmark
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: evaluation, tool-integration
+- Evidence checked: 2026-10-16T10:42:12Z
+- ID: github:gydpku/pptc
+
+## Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+## License declarations
+
+- code: MIT — https://raw.githubusercontent.com/gydpku/PPTC/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/gydpku/PPTC/HEAD/README.md (retrieved 2026-10-16T10:42:12Z; SHA-256 63349e7557bd99240d4628de3994a53b69e54e3bd809895be11e9879bfba40cb)
+- https://raw.githubusercontent.com/gydpku/PPTC/HEAD/LICENSE (retrieved 2026-10-16T10:48:41Z; SHA-256 f872ff2b1a064f46a45eee86f2cb2562fc0513285b80036c6cf7df9a5ffc6c70)
 
 ---
 
@@ -9143,6 +9491,38 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding/HEAD/readme.md (retrieved 2026-10-16T06:35:58Z; SHA-256 7b64ccad9cfec24c2c9cb35f55923bff93d53729cef3cc7463c79b29bdb1de1a)
 - https://raw.githubusercontent.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding/HEAD/LICENSE (retrieved 2026-10-16T06:41:57Z; SHA-256 c78681e624c748b7a9980b6a9fd1514cec5140c7b3c7f08fe21b36bc7468f2ce)
+
+---
+
+# iOSWorld
+
+Native iPhone-simulator benchmark with shared user data, application workflows, agent runners, and rubric-based scoring.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-ljang0-iosworld/
+- Original source: https://github.com/ljang0/iOSWorld
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: ios
+- Topics: evaluation, cross-app, memory
+- Evidence checked: 2026-10-16T10:42:12Z
+- ID: github:ljang0/iosworld
+
+## Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+## License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/ljang0/iOSWorld/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/ljang0/iOSWorld/HEAD/README.md (retrieved 2026-10-16T10:42:12Z; SHA-256 706f9d770b65a1238e56f74f7dd5089c7756cc88e0ac09d80c7b2b3085a09b27)
+- https://raw.githubusercontent.com/ljang0/iOSWorld/HEAD/LICENSE (retrieved 2026-10-16T10:48:41Z; SHA-256 fa9fe1e31ed8da21d0b51621d3a3669ced4f0e42353aaf4bd8be1615d200eaac)
 
 ---
 
@@ -9593,14 +9973,14 @@ Inclusion does not establish reproducibility or endorsement.
 
 # Set of Mark
 
-Visual prompting tools that annotate interface elements.
+Visual-prompting toolbox that labels image regions for multimodal reference and grounding, including GUI applications.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-microsoft-som/
 - Original source: https://github.com/microsoft/SoM
 - Kind: tool
 - Review: curated
 - Scope: adjacent
-- Environments: cross-platform
+- Environments: unspecified
 - Topics: grounding
 - Evidence checked: 2026-10-16T06:36:04Z
 - ID: github:microsoft/som
@@ -9809,6 +10189,38 @@ Inclusion does not establish reproducibility or endorsement.
 ## Primary evidence
 
 - https://raw.githubusercontent.com/MobileLLM/AutoDroid/HEAD/README.md (retrieved 2026-10-16T06:36:02Z; SHA-256 4a79eb2e14b6da67ded536c127d41f865d5b43620d60d0d950d291c8956564fc)
+
+---
+
+# NNetNav
+
+Collects and labels browser-exploration trajectories for agent training, with code for data processing, fine-tuning, and web evaluation.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-murtyshikhar-nnetnav/
+- Original source: https://github.com/MurtyShikhar/NNetnav
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: data-generation, web-navigation
+- Evidence checked: 2026-10-16T10:42:34Z
+- ID: github:murtyshikhar/nnetnav
+
+## Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+## License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/MurtyShikhar/NNetnav/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/MurtyShikhar/NNetnav/HEAD/README.md (retrieved 2026-10-16T10:42:34Z; SHA-256 3095f7262b7d4ff916c6f58c55e6fc9902c08f77d09bf3951199945501148bb3)
+- https://raw.githubusercontent.com/MurtyShikhar/NNetnav/HEAD/LICENSE (retrieved 2026-10-16T10:48:42Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
 
 ---
 
@@ -10476,6 +10888,37 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+# WebDreamer
+
+World-model and planning components that simulate web-action outcomes, with linked training data and model checkpoints.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-osu-nlp-group-webdreamer/
+- Original source: https://github.com/OSU-NLP-Group/WebDreamer
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: world-models, planning
+- Evidence checked: 2026-10-16T10:43:11Z
+- ID: github:osu-nlp-group/webdreamer
+
+## Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/OSU-NLP-Group/WebDreamer/HEAD/README.md (retrieved 2026-10-16T10:43:11Z; SHA-256 6602cb260b52ae5b2b93db231a51a38d0463c78d8e71321620e05b4fa31caacb)
+
+---
+
 # Self Operating Computer
 
 Visual agent loop for interacting with a desktop.
@@ -10632,6 +11075,38 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/reworkd/tarsier/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 2a313a5a1c433c0609067c6d875d5ff69493e8792d2173e458eb5db8bf232977)
 - https://raw.githubusercontent.com/reworkd/tarsier/HEAD/LICENSE (retrieved 2026-10-16T06:42:06Z; SHA-256 f4ff2ba0f16e8abb7087071651c217ced6421e224313755c5d88433e324f19a1)
+
+---
+
+# GUI-R1
+
+GUI action-model training and evaluation code with verifiable rewards, plus linked reinforcement-learning data and checkpoints.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-ritzz-ai-gui-r1/
+- Original source: https://github.com/ritzz-ai/GUI-R1
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform
+- Topics: reinforcement-learning, grounding
+- Evidence checked: 2026-10-16T10:43:11Z
+- ID: github:ritzz-ai/gui-r1
+
+## Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+## License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/ritzz-ai/GUI-R1/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/ritzz-ai/GUI-R1/HEAD/README.md (retrieved 2026-10-16T10:43:11Z; SHA-256 94c7c78bede11dde727940f56592a04594c1c59438812dff47540bf53c1bed7d)
+- https://raw.githubusercontent.com/ritzz-ai/GUI-R1/HEAD/LICENSE (retrieved 2026-10-16T10:48:42Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
 
 ---
 
@@ -11172,6 +11647,38 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+# AppWorld
+
+Simulated applications, user data, and state-based task checks for evaluating agents that interact through APIs and code.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-stonybrooknlp-appworld/
+- Original source: https://github.com/StonyBrookNLP/appworld
+- Kind: benchmark
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: evaluation, tool-integration, cross-app
+- Evidence checked: 2026-10-16T10:45:03Z
+- ID: github:stonybrooknlp/appworld
+
+## Limitations
+
+Primarily API and coding interaction; included as an adjacent comparison for GUI and hybrid agents.
+
+## License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/StonyBrookNLP/appworld/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/stonybrooknlp/appworld/HEAD/README.md (retrieved 2026-10-16T10:45:03Z; SHA-256 f4049141b6e520217395b7ccd9f27048c8e0f90331690dcbef300d2bc4ff7bdd)
+- https://raw.githubusercontent.com/StonyBrookNLP/appworld/HEAD/LICENSE (retrieved 2026-10-16T10:48:42Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
 # POINTS-GUI
 
 GUI models for interface perception and action grounding.
@@ -11232,6 +11739,70 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/TencentQQGYLab/AppAgent/HEAD/README.md (retrieved 2026-10-16T06:36:02Z; SHA-256 ac94cca1f69807d2d31d30bd5521fbf1bda6155996881054df87a85522cd8f5b)
 - https://raw.githubusercontent.com/TencentQQGYLab/AppAgent/HEAD/LICENSE (retrieved 2026-10-16T06:42:03Z; SHA-256 d9e2b107cbaa3599336510dbb6703cb30210f1b4345221e76cf75cba85c2d113)
+
+---
+
+# TheAgentCompany
+
+Self-contained workplace environment for evaluating agents on professional tasks involving websites, files, code, and simulated coworkers.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-theagentcompany-theagentcompany/
+- Original source: https://github.com/TheAgentCompany/TheAgentCompany
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, workflow, cross-app
+- Evidence checked: 2026-10-16T10:42:34Z
+- ID: github:theagentcompany/theagentcompany
+
+## Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+## License declarations
+
+- code: MIT — https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/README.md (retrieved 2026-10-16T10:42:34Z; SHA-256 d1646f67d49d38ef1e81bf7b5057dfc3d6f172b4c8a7413a2cc78741ccb08723)
+- https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/LICENSE (retrieved 2026-10-16T10:48:42Z; SHA-256 2d6976a9b482bb14d9cd4f0d97ce6e14305496f1649b8667cb91d027c670930f)
+
+---
+
+# AgentBench
+
+Agent evaluation suite with containerized tasks and a function-calling interface, including operating-system and shopping environments.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-thudm-agentbench/
+- Original source: https://github.com/THUDM/AgentBench
+- Kind: benchmark
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, web
+- Topics: evaluation, tool-integration
+- Evidence checked: 2026-10-16T10:42:12Z
+- ID: github:thudm/agentbench
+
+## Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+## License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/THUDM/AgentBench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/THUDM/AgentBench/HEAD/README.md (retrieved 2026-10-16T10:42:12Z; SHA-256 1b7d1f1cd7a74ac9497c639324ec342dd3f8769e9c0c4cd2cd92a4eb6740ac98)
+- https://raw.githubusercontent.com/THUDM/AgentBench/HEAD/LICENSE (retrieved 2026-10-16T10:48:41Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
 
 ---
 
@@ -11395,6 +11966,38 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+# VisualAgentBench
+
+Evaluation framework spanning visual GUI, embodied, and design tasks, including mobile and WebArena-based environments.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-thudm-visualagentbench/
+- Original source: https://github.com/THUDM/VisualAgentBench
+- Kind: benchmark
+- Review: curated
+- Scope: adjacent
+- Environments: cross-platform, web, android
+- Topics: evaluation
+- Evidence checked: 2026-10-16T10:42:12Z
+- ID: github:thudm/visualagentbench
+
+## Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+## License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/THUDM/VisualAgentBench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/THUDM/VisualAgentBench/HEAD/README.md (retrieved 2026-10-16T10:42:12Z; SHA-256 21afbc4086441dee131fe4b84986870f9b280413dd2a38df6e99406f1fc45586)
+- https://raw.githubusercontent.com/THUDM/VisualAgentBench/HEAD/LICENSE (retrieved 2026-10-16T10:48:41Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
 # OS-Harm
 
 Benchmark for safety of computer-use agents across misuse, prompt injection, and unintended model behavior.
@@ -11522,6 +12125,38 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+# Screen Point-and-Read / Tree-of-Lens
+
+Screen-reading benchmark and Tree-of-Lens implementation for interpreting user-indicated regions and their layout context.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-ucsb-ai-screen-point-and-read/
+- Original source: https://github.com/UCSB-AI/Screen-Point-and-Read
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: cross-platform
+- Topics: screen-understanding, grounding, evaluation
+- Evidence checked: 2026-10-16T10:43:11Z
+- ID: github:ucsb-ai/screen-point-and-read
+
+## Limitations
+
+The canonical repository now belongs to UCSB-AI. Its README lists additional setup documentation and evaluation scripts as unfinished.
+
+## License declarations
+
+- code: MIT — https://raw.githubusercontent.com/UCSB-AI/Screen-Point-and-Read/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/eric-ai-lab/Screen-Point-and-Read/HEAD/README.md (retrieved 2026-10-16T10:43:11Z; SHA-256 7567287ceee0ad2d3d5605abb44ac50463c1008f9b6309393695763cf2ce89bb)
+- https://raw.githubusercontent.com/UCSB-AI/Screen-Point-and-Read/HEAD/LICENSE (retrieved 2026-10-16T10:48:42Z; SHA-256 4748fb7d92f7a3a2a4a93353db96f6a2df547e5ea9ae87afa811c5423e96f363)
+
+---
+
 # TreeCUA
 
 Framework for generating GUI trajectories through tree-structured exploration and verification.
@@ -11646,6 +12281,38 @@ Inclusion does not establish reproducibility or endorsement.
 ## Primary evidence
 
 - https://raw.githubusercontent.com/VisualWebBench/VisualWebBench/HEAD/README.md (retrieved 2026-10-16T06:35:58Z; SHA-256 262947081ddd17dbf5bb3d072574a19bbf30510c42c3ff42c9851a748fd37546)
+
+---
+
+# BlueLM-GUI
+
+Mobile GUI agent research release with technical report, benchmark data, and evaluation tooling from vivo AI Lab.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-vivo-ai-lab-bluelm-gui/
+- Original source: https://github.com/vivo-ai-lab/BlueLM-GUI
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, reinforcement-learning
+- Evidence checked: 2026-10-16T10:42:12Z
+- ID: github:vivo-ai-lab/bluelm-gui
+
+## Limitations
+
+The repository lists the agent as in-house. Public model weights were not established by this review; linked benchmark assets have their own access terms.
+
+## License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/vivo-ai-lab/BlueLM-GUI/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/vivo-ai-lab/BlueLM-GUI/HEAD/README.md (retrieved 2026-10-16T10:42:12Z; SHA-256 5f460f9b2a18315d07b8c48d78dcc764892d09d9250e95f5e591b5966fe59328)
+- https://raw.githubusercontent.com/vivo-ai-lab/BlueLM-GUI/HEAD/LICENSE (retrieved 2026-10-16T10:48:41Z; SHA-256 6036aa17e52be8051fc3c8ede37fc4d0b2bc2589518be7623566c75868612178)
 
 ---
 
@@ -11807,6 +12474,38 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+# META-GUI baseline
+
+Training and evaluation pipeline for conversational mobile GUI agents, with action prediction, response generation, and dataset processing.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-x-lance-meta-gui-baseline/
+- Original source: https://github.com/X-LANCE/META-GUI-baseline
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: mobile-navigation, human-in-the-loop
+- Evidence checked: 2026-10-16T10:43:11Z
+- ID: github:x-lance/meta-gui-baseline
+
+## Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+## License declarations
+
+- code: MIT — https://raw.githubusercontent.com/X-LANCE/META-GUI-baseline/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/X-LANCE/META-GUI-baseline/HEAD/README.md (retrieved 2026-10-16T10:43:11Z; SHA-256 2cea1be73ea75acd46990ab1fb567fbd83ad58a2bc69ca858b207660df9fe8c1)
+- https://raw.githubusercontent.com/X-LANCE/META-GUI-baseline/HEAD/LICENSE (retrieved 2026-10-16T10:48:42Z; SHA-256 01fb614f0536ea76c1c25809cc8cde66cde21a96ac6ca0ea81b2c093e2157d2a)
+
+---
+
 # Mobile Env
 
 Environment toolkit for mobile interaction agents.
@@ -11868,6 +12567,37 @@ This repository contains multiple Mobile-Agent generations. Platform coverage di
 
 - https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/README.md (retrieved 2026-10-16T06:36:02Z; SHA-256 ca402ffd3b05f72a6d72f47de52c962f92e410749a77939044f3301d4330af16)
 - https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/LICENSE (retrieved 2026-10-16T06:42:03Z; SHA-256 961819a89dacd1f4f161e1d2ebf616b538bf095a2eecfa3ef40b7ccec633fac4)
+
+---
+
+# CoCo-Agent
+
+Research implementation combining screen and layout perception with conditional action prediction for smartphone automation.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-xbmxb-coco-agent/
+- Original source: https://github.com/xbmxb/CoCo-Agent
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, screen-understanding
+- Evidence checked: 2026-10-16T10:42:12Z
+- ID: github:xbmxb/coco-agent
+
+## Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/xbmxb/CoCo-Agent/HEAD/README.md (retrieved 2026-10-16T10:42:12Z; SHA-256 55de0ed6627a5812d1f26d2a920e0af47afb17f8a99cae41b70a85ba30a23370)
 
 ---
 
@@ -12120,6 +12850,38 @@ Inclusion does not establish reproducibility or endorsement.
 ## Primary evidence
 
 - https://raw.githubusercontent.com/yjyddq/RiOSWorld/HEAD/README.md (retrieved 2026-10-16T06:35:59Z; SHA-256 c984f114df33af953a97d22e14e14246f8a98e0866edcaf283900b309b71d8d1)
+
+---
+
+# GUI-G1
+
+GUI-grounding training code that modifies reasoning templates, reward functions, and the GRPO objective, with a linked model release.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-yuqi-zhou-gui-g1/
+- Original source: https://github.com/Yuqi-Zhou/GUI-G1
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform
+- Topics: grounding, reinforcement-learning
+- Evidence checked: 2026-10-16T10:43:11Z
+- ID: github:yuqi-zhou/gui-g1
+
+## Limitations
+
+The README retains an older release-pending notice alongside a later checkpoint-release announcement. Check the linked model card for current weight availability and terms.
+
+## License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/Yuqi-Zhou/GUI-G1/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/Yuqi-Zhou/GUI-G1/HEAD/README.md (retrieved 2026-10-16T10:43:11Z; SHA-256 2d64349b514c43fb9d0260247300412d33cadc2a029d8279a00cb2a12f26a25a)
+- https://raw.githubusercontent.com/Yuqi-Zhou/GUI-G1/HEAD/LICENSE (retrieved 2026-10-16T10:48:43Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
 
 ---
 
@@ -13059,6 +13821,38 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+# WorkDemo-350
+
+Desktop demonstrations with task descriptions, videos, input logs, and action-linked screenshot evidence for studying reusable agent skills.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-243ab00712ba19cc2089/
+- Original source: https://huggingface.co/datasets/yuqi777/WorkDemo-350
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: recording, workflow, video
+- Evidence checked: 2026-10-16T10:47:49Z
+- ID: url:243ab00712ba19cc2089
+
+## Limitations
+
+The card documents post hoc selection of the 286-task OSWorld subset based on model outcomes, uncalibrated coordinate annotations, and missing task-success acceptance records. It provides no train/test split or complete evaluator and does not claim complete anonymization. Review these limits before training or evaluation; the collection is an offline demonstration asset.
+
+## License declarations
+
+- code: not recorded
+- data: cc-by-4.0 — https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md (retrieved 2026-10-16T10:47:49Z; SHA-256 ae14cfe91c8c9a79edf1f306273a2ee9d1790b1dc5be0cd2d89e93df09db42f0)
+- https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md (retrieved 2026-10-16T10:47:49Z; SHA-256 ae14cfe91c8c9a79edf1f306273a2ee9d1790b1dc5be0cd2d89e93df09db42f0)
+
+---
+
 # EvoCUA 8B 20260105
 
 Released model checkpoint associated with EvoCUA.
@@ -13499,6 +14293,38 @@ Inclusion does not establish reproducibility or endorsement.
 ## Primary evidence
 
 - https://openai.com/index/computer-using-agent/ (retrieved 2026-10-16T06:38:27Z; SHA-256 14f573af0c4ea3e5922b8831b7f03724936963e293d7c0aaa3fccbb71dbb0cfa)
+
+---
+
+# AutoGUI v1 training data
+
+Screenshot-based grounding and captioning samples with UI functionality descriptions, target coordinates, and bounding boxes.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-79287058342289aa5d45/
+- Original source: https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web, cross-platform
+- Topics: grounding, screen-understanding
+- Evidence checked: 2026-10-16T10:42:13Z
+- ID: url:79287058342289aa5d45
+
+## Limitations
+
+The row count is not a unique-screen count. The data card documents image scaling conventions that affect coordinate interpretation.
+
+## License declarations
+
+- code: not recorded
+- data: cc-by-4.0 — https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md (retrieved 2026-10-16T10:42:13Z; SHA-256 c73b46acc2ff034a443fb8dbde327de1888535267199c9fb1819adf66898f1d7)
+- https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md (retrieved 2026-10-16T10:42:13Z; SHA-256 c73b46acc2ff034a443fb8dbde327de1888535267199c9fb1819adf66898f1d7)
 
 ---
 
@@ -14543,6 +15369,38 @@ Historical product entry; the official page describes its integration into ChatG
 ## Primary evidence
 
 - https://openai.com/index/introducing-operator/ (retrieved 2026-10-16T06:38:27Z; SHA-256 474a27cf644ac5f8400a023086fb8d356e6148de71d1851337215f88624852d9)
+
+---
+
+# Aria-UI Data
+
+GUI element descriptions and grounding instructions spanning web, mobile, and Ubuntu desktop interfaces.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-f8566bd0394d36ed4f8e/
+- Original source: https://huggingface.co/datasets/Aria-UI/Aria-UI_Data
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: web, android, desktop, linux
+- Topics: grounding, screen-understanding
+- Evidence checked: 2026-10-16T10:42:13Z
+- ID: url:f8566bd0394d36ed4f8e
+
+## Limitations
+
+The publisher flags original desktop files as deprecated because of screenshot-mapping issues, and identifies corrected versions in the dataset card.
+
+## License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md (retrieved 2026-10-16T10:42:13Z; SHA-256 8713ca2a6b1962d5dce7da132e1135898d467053dc6b53b4463a0d43a6433bcb)
+- https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md (retrieved 2026-10-16T10:42:13Z; SHA-256 8713ca2a6b1962d5dce7da132e1135898d467053dc6b53b4463a0d43a6433bcb)
 
 ---
 
