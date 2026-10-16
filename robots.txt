@@ -17,3 +17,4 @@ User-agent: Claude-SearchBot
 Allow: /
 
 Sitemap: https://awesomecua.github.io/sitemap.xml
+Sitemap: https://awesomecua.github.io/sitemap.txt

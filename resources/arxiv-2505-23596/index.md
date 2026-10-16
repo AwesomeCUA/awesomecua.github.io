@@ -14,7 +14,7 @@ Models mobile application execution as a finite-state machine to support plannin
 
 ## Limitations
 
-The discovery result used the earlier MAPLE title; this record follows the current arXiv title, Agent-SAMA. Summary reviewed against the abstract; experiments not independently reproduced.
+Hugging Face discovery used the label MAPLE for this ID; the record follows the current primary arXiv title, Agent-SAMA. The secondary-title discrepancy is not treated as proof of a historical rename. Experiments not independently reproduced.
 
 ## Authors
 

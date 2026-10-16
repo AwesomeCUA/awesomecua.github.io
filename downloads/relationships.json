@@ -1,0 +1,750 @@
+{
+  "relation_count": 93,
+  "semantics": "Reviewed semantic links only. Documentation does not establish training or evaluation dependency.",
+  "relations": [
+    {
+      "source_id": "component:google-research/android_control",
+      "source_name": "AndroidControl",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/google-research/google-research/master/android_control/README.md",
+      "target_id": "arxiv:2406.03679",
+      "type": "introduced_by"
+    },
+    {
+      "source_id": "component:google-research/android_in_the_wild",
+      "source_name": "Android in the Wild",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/google-research/google-research/master/android_in_the_wild/README.md",
+      "target_id": "arxiv:2307.10088",
+      "type": "introduced_by"
+    },
+    {
+      "source_id": "github:browser-use/browser-use",
+      "source_name": "Browser Use",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/browser-use/browser-use/HEAD/README.md",
+      "target_id": "organization:browser-use",
+      "type": "published_by"
+    },
+    {
+      "source_id": "github:browserbase/stagehand",
+      "source_name": "Stagehand",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/browserbase/stagehand/HEAD/README.md",
+      "target_id": "organization:browserbase",
+      "type": "published_by"
+    },
+    {
+      "source_id": "github:bytedance/ui-tars",
+      "source_name": "UI-TARS",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/bytedance/UI-TARS/HEAD/README.md",
+      "target_id": "arxiv:2501.12326",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:e2b-dev/desktop",
+      "source_name": "E2B Desktop",
+      "source_kind": "infrastructure",
+      "evidence_url": "https://raw.githubusercontent.com/e2b-dev/desktop/HEAD/README.md",
+      "target_id": "organization:e2b",
+      "type": "published_by"
+    },
+    {
+      "source_id": "github:google-research/android_world",
+      "source_name": "AndroidWorld",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md",
+      "target_id": "arxiv:2405.14573",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:hyperbrowserai/hyperagent",
+      "source_name": "HyperAgent",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/hyperbrowserai/HyperAgent/HEAD/README.md",
+      "target_id": "organization:hyperbrowser",
+      "type": "published_by"
+    },
+    {
+      "source_id": "github:inclusionai/ui-venus",
+      "source_name": "UI-Venus",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/inclusionAI/UI-Venus/HEAD/README.md",
+      "target_id": "arxiv:2508.10833",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:mcgill-nlp/safearena",
+      "source_name": "SafeArena",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/McGill-NLP/safearena/HEAD/README.md",
+      "target_id": "arxiv:2503.04957",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:mcgill-nlp/weblinx",
+      "source_name": "WebLINX",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/mcgill-nlp/weblinx/HEAD/README.md",
+      "target_id": "arxiv:2402.05930",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:microsoft/gui-actor",
+      "source_name": "GUI-Actor",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/microsoft/GUI-Actor/HEAD/README.md",
+      "target_id": "arxiv:2506.03143",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:microsoft/omniparser",
+      "source_name": "OmniParser",
+      "source_kind": "tool",
+      "evidence_url": "https://raw.githubusercontent.com/microsoft/OmniParser/HEAD/README.md",
+      "target_id": "arxiv:2408.00203",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:microsoft/windowsagentarena",
+      "source_name": "Windows Agent Arena",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/README.md",
+      "target_id": "arxiv:2409.08264",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:minorjerry/webvoyager",
+      "source_name": "WebVoyager",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md",
+      "target_id": "arxiv:2401.13919",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:njucckevin/seeclick",
+      "source_name": "SeeClick",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/njucckevin/SeeClick/HEAD/readme.md",
+      "target_id": "arxiv:2401.10935",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:openbmb/agentcpm-gui",
+      "source_name": "AgentCPM-GUI",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/OpenBMB/AgentCPM-GUI/HEAD/README.md",
+      "target_id": "arxiv:2506.01391",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:opengvlab/gui-odyssey",
+      "source_name": "GUI-Odyssey",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/OpenGVLab/GUI-Odyssey/HEAD/README.md",
+      "target_id": "arxiv:2406.08451",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:os-copilot/os-atlas",
+      "source_name": "OS-Atlas",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/OS-Copilot/OS-Atlas/HEAD/README.md",
+      "target_id": "arxiv:2410.23218",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:osu-nlp-group/mind2web",
+      "source_name": "Mind2Web",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web/HEAD/README.md",
+      "target_id": "arxiv:2306.06070",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:servicenow/workarena",
+      "source_name": "WorkArena",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/README.md",
+      "target_id": "arxiv:2403.07718",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:servicenow/workarena",
+      "source_name": "WorkArena",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/README.md",
+      "target_id": "arxiv:2407.05291",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:showlab/showui",
+      "source_name": "ShowUI",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/showlab/ShowUI/HEAD/README.md",
+      "target_id": "arxiv:2411.17465",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:simular-ai/agent-s",
+      "source_name": "Agent S",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/simular-ai/Agent-S/HEAD/README.md",
+      "target_id": "arxiv:2410.08164",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:simular-ai/agent-s",
+      "source_name": "Agent S",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/simular-ai/Agent-S/HEAD/README.md",
+      "target_id": "arxiv:2504.00906",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:simular-ai/agent-s",
+      "source_name": "Agent S",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/simular-ai/Agent-S/HEAD/README.md",
+      "target_id": "organization:simular",
+      "type": "published_by"
+    },
+    {
+      "source_id": "github:skyvern-ai/skyvern",
+      "source_name": "Skyvern",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/Skyvern-AI/skyvern/HEAD/README.md",
+      "target_id": "organization:skyvern",
+      "type": "published_by"
+    },
+    {
+      "source_id": "github:steel-dev/steel-browser",
+      "source_name": "Steel Browser",
+      "source_kind": "infrastructure",
+      "evidence_url": "https://raw.githubusercontent.com/steel-dev/steel-browser/HEAD/README.md",
+      "target_id": "organization:steel",
+      "type": "published_by"
+    },
+    {
+      "source_id": "github:thudm/android-lab",
+      "source_name": "AndroidLab",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md",
+      "target_id": "arxiv:2410.24024",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:tml-epfl/os-harm",
+      "source_name": "OS-Harm",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/README.md",
+      "target_id": "arxiv:2506.14866",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:trycua/lume",
+      "source_name": "Lume",
+      "source_kind": "infrastructure",
+      "evidence_url": "https://raw.githubusercontent.com/trycua/lume/HEAD/README.md",
+      "target_id": "github:trycua/cua",
+      "type": "component_of"
+    },
+    {
+      "source_id": "github:web-arena-x/visualwebarena",
+      "source_name": "VisualWebArena",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md",
+      "target_id": "arxiv:2401.13649",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:web-arena-x/webarena",
+      "source_name": "WebArena",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/web-arena-x/webarena/HEAD/README.md",
+      "target_id": "arxiv:2307.13854",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:x-plug/mobileagent",
+      "source_name": "Mobile-Agent",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/README.md",
+      "target_id": "arxiv:2401.16158",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:x-plug/mobileagent",
+      "source_name": "Mobile-Agent",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/README.md",
+      "target_id": "arxiv:2406.01014",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:x-plug/mobileagent",
+      "source_name": "Mobile-Agent",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/README.md",
+      "target_id": "arxiv:2508.15144",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:x-plug/mobileagent",
+      "source_name": "Mobile-Agent",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/README.md",
+      "target_id": "arxiv:2602.16855",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:xlang-ai/aguvis",
+      "source_name": "Aguvis",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/xlang-ai/aguvis/HEAD/README.md",
+      "target_id": "arxiv:2412.04454",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:xlang-ai/opencua",
+      "source_name": "OpenCUA",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/xlang-ai/OpenCUA/HEAD/README.md",
+      "target_id": "arxiv:2508.09123",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:xlang-ai/osworld",
+      "source_name": "OSWorld",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/README.md",
+      "target_id": "arxiv:2404.07972",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:xlang-ai/osworld-g",
+      "source_name": "OSWorld-G",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/xlang-ai/OSWorld-G/HEAD/README.md",
+      "target_id": "arxiv:2505.13227",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "organization:askui",
+      "source_name": "AskUI",
+      "source_kind": "company",
+      "evidence_url": "https://www.askui.com/",
+      "target_id": "organization:askui",
+      "type": "published_by"
+    },
+    {
+      "source_id": "organization:browser-use",
+      "source_name": "Browser Use",
+      "source_kind": "company",
+      "evidence_url": "https://browser-use.com/",
+      "target_id": "organization:browser-use",
+      "type": "published_by"
+    },
+    {
+      "source_id": "organization:browseract",
+      "source_name": "BrowserAct",
+      "source_kind": "company",
+      "evidence_url": "https://www.browseract.com/",
+      "target_id": "organization:browseract",
+      "type": "published_by"
+    },
+    {
+      "source_id": "organization:browserless",
+      "source_name": "Browserless",
+      "source_kind": "company",
+      "evidence_url": "https://www.browserless.io/",
+      "target_id": "organization:browserless",
+      "type": "published_by"
+    },
+    {
+      "source_id": "organization:e2b",
+      "source_name": "E2B",
+      "source_kind": "company",
+      "evidence_url": "https://e2b.dev/",
+      "target_id": "organization:e2b",
+      "type": "published_by"
+    },
+    {
+      "source_id": "organization:hyperbrowser",
+      "source_name": "Hyperbrowser",
+      "source_kind": "company",
+      "evidence_url": "https://www.hyperbrowser.ai/",
+      "target_id": "organization:hyperbrowser",
+      "type": "published_by"
+    },
+    {
+      "source_id": "organization:manus",
+      "source_name": "Manus",
+      "source_kind": "company",
+      "evidence_url": "https://manus.im/",
+      "target_id": "organization:manus",
+      "type": "published_by"
+    },
+    {
+      "source_id": "organization:simular",
+      "source_name": "Simular",
+      "source_kind": "company",
+      "evidence_url": "https://www.simular.ai/",
+      "target_id": "organization:simular",
+      "type": "published_by"
+    },
+    {
+      "source_id": "organization:skyvern",
+      "source_name": "Skyvern",
+      "source_kind": "company",
+      "evidence_url": "https://www.skyvern.com/",
+      "target_id": "organization:skyvern",
+      "type": "published_by"
+    },
+    {
+      "source_id": "organization:tinyfish",
+      "source_name": "TinyFish",
+      "source_kind": "company",
+      "evidence_url": "https://www.tinyfish.ai/",
+      "target_id": "organization:tinyfish",
+      "type": "published_by"
+    },
+    {
+      "source_id": "url:053ebfe0afac66c86222",
+      "source_name": "Hyperbrowser",
+      "source_kind": "product",
+      "evidence_url": "https://www.hyperbrowser.ai/",
+      "target_id": "organization:hyperbrowser",
+      "type": "published_by"
+    },
+    {
+      "source_id": "url:07b6bbce7ce26a847f79",
+      "source_name": "Claude for Chrome",
+      "source_kind": "product",
+      "evidence_url": "https://claude.com/chrome",
+      "target_id": "organization:anthropic",
+      "type": "published_by"
+    },
+    {
+      "source_id": "url:0b590d03a3d5103a79e4",
+      "source_name": "GUI-360",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/vyokky/GUI-360",
+      "target_id": "arxiv:2511.04307",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:0bdd6b5ebf2e1f248828",
+      "source_name": "Simular",
+      "source_kind": "product",
+      "evidence_url": "https://www.simular.ai/",
+      "target_id": "organization:simular",
+      "type": "published_by"
+    },
+    {
+      "source_id": "url:0fdeb1cf5f49f84820e6",
+      "source_name": "OS-Atlas Data",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/OS-Copilot/OS-Atlas-data",
+      "target_id": "arxiv:2410.23218",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:15ed5fd3cd950d837f98",
+      "source_name": "Skyvern Cloud",
+      "source_kind": "product",
+      "evidence_url": "https://www.skyvern.com/",
+      "target_id": "organization:skyvern",
+      "type": "published_by"
+    },
+    {
+      "source_id": "url:1e6b8682e0f1ddc3d36f",
+      "source_name": "Browserless",
+      "source_kind": "product",
+      "evidence_url": "https://www.browserless.io/",
+      "target_id": "organization:browserless",
+      "type": "published_by"
+    },
+    {
+      "source_id": "url:240a05c02f85d4da60dc",
+      "source_name": "ChatGPT Atlas",
+      "source_kind": "product",
+      "evidence_url": "https://openai.com/index/introducing-chatgpt-atlas/",
+      "target_id": "organization:openai",
+      "type": "published_by"
+    },
+    {
+      "source_id": "url:2a2682f86dcb8ebc9a80",
+      "source_name": "EvoCUA 8B 20260105",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/meituan/EvoCUA-8B-20260105",
+      "target_id": "github:meituan/evocua",
+      "type": "variant_of"
+    },
+    {
+      "source_id": "url:2c2004baae4669f8169a",
+      "source_name": "UI-Vision",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/ServiceNow/ui-vision",
+      "target_id": "arxiv:2503.15661",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:30c831a1198b9bc2a0f5",
+      "source_name": "OS-Atlas Base 4B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/OS-Copilot/OS-Atlas-Base-4B",
+      "target_id": "github:os-copilot/os-atlas",
+      "type": "variant_of"
+    },
+    {
+      "source_id": "url:4a47a6df845735984bf1",
+      "source_name": "HoloTab",
+      "source_kind": "product",
+      "evidence_url": "https://hcompany.ai/newsroom/meet-holotab",
+      "target_id": "organization:h",
+      "type": "published_by"
+    },
+    {
+      "source_id": "url:4d32ad3682ae2d71c178",
+      "source_name": "UI-TARS 1.5 7B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/ByteDance-Seed/UI-TARS-1.5-7B",
+      "target_id": "github:bytedance/ui-tars",
+      "type": "variant_of"
+    },
+    {
+      "source_id": "url:57f17b7d0c18b2d7c8bf",
+      "source_name": "Claude Computer Use",
+      "source_kind": "model",
+      "evidence_url": "https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/computer-use-tool",
+      "target_id": "organization:anthropic",
+      "type": "published_by"
+    },
+    {
+      "source_id": "url:60a95f34072aeb2771cc",
+      "source_name": "EvoCUA 32B 20260105",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/meituan/EvoCUA-32B-20260105",
+      "target_id": "github:meituan/evocua",
+      "type": "variant_of"
+    },
+    {
+      "source_id": "url:611df37e5f3caa6befd7",
+      "source_name": "UI-Venus 2 9B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/inclusionAI/UI-Venus-2-9b",
+      "target_id": "github:inclusionai/ui-venus",
+      "type": "variant_of"
+    },
+    {
+      "source_id": "url:69d6afe38a9a128ba9f7",
+      "source_name": "AskUI",
+      "source_kind": "product",
+      "evidence_url": "https://www.askui.com/",
+      "target_id": "organization:askui",
+      "type": "published_by"
+    },
+    {
+      "source_id": "url:74eeb7c9fb20674fe6e2",
+      "source_name": "OpenAI CUA",
+      "source_kind": "model",
+      "evidence_url": "https://openai.com/index/computer-using-agent/",
+      "target_id": "organization:openai",
+      "type": "published_by"
+    },
+    {
+      "source_id": "url:7ae2670859e3796e8607",
+      "source_name": "BrowserAct",
+      "source_kind": "product",
+      "evidence_url": "https://www.browseract.com/",
+      "target_id": "organization:browseract",
+      "type": "published_by"
+    },
+    {
+      "source_id": "url:82a30f45d9e855f423c7",
+      "source_name": "OS-Atlas Base 7B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/OS-Copilot/OS-Atlas-Base-7B",
+      "target_id": "github:os-copilot/os-atlas",
+      "type": "variant_of"
+    },
+    {
+      "source_id": "url:879d4e3e75e83582bde6",
+      "source_name": "Gemini Computer Use",
+      "source_kind": "model",
+      "evidence_url": "https://ai.google.dev/gemini-api/docs/computer-use",
+      "target_id": "organization:google",
+      "type": "published_by"
+    },
+    {
+      "source_id": "url:964d70c40bfc5ca8e1ee",
+      "source_name": "AgentNet",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/xlangai/AgentNet",
+      "target_id": "arxiv:2508.09123",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:978d1dcd70fde8661b9e",
+      "source_name": "Browserbase Cloud",
+      "source_kind": "product",
+      "evidence_url": "https://www.browserbase.com/",
+      "target_id": "organization:browserbase",
+      "type": "published_by"
+    },
+    {
+      "source_id": "url:a06622da7688e3718a7b",
+      "source_name": "CAGUI",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/openbmb/CAGUI",
+      "target_id": "arxiv:2506.01391",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:a4da77ee63f879cc8e63",
+      "source_name": "Fara 7B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/microsoft/Fara-7b",
+      "target_id": "github:microsoft/fara",
+      "type": "variant_of"
+    },
+    {
+      "source_id": "url:b074ccdb2d9ec0277b65",
+      "source_name": "ChatGPT Agent",
+      "source_kind": "product",
+      "evidence_url": "https://openai.com/index/introducing-chatgpt-agent/",
+      "target_id": "organization:openai",
+      "type": "published_by"
+    },
+    {
+      "source_id": "url:b940a884f200a916a61b",
+      "source_name": "Steel Cloud",
+      "source_kind": "product",
+      "evidence_url": "https://steel.dev/",
+      "target_id": "organization:steel",
+      "type": "published_by"
+    },
+    {
+      "source_id": "url:c0bd07d82ce25ad1d99d",
+      "source_name": "Holo Model Family",
+      "source_kind": "model",
+      "evidence_url": "https://hcompany.ai/research/models",
+      "target_id": "organization:h",
+      "type": "published_by"
+    },
+    {
+      "source_id": "url:c0f39f7cf2cd9c18e8bd",
+      "source_name": "ShowUI 2B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/showlab/ShowUI-2B",
+      "target_id": "github:showlab/showui",
+      "type": "variant_of"
+    },
+    {
+      "source_id": "url:c918d5c828a3c6cfbc5d",
+      "source_name": "AutoGLM Phone 9B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/zai-org/AutoGLM-Phone-9B",
+      "target_id": "github:zai-org/open-autoglm",
+      "type": "variant_of"
+    },
+    {
+      "source_id": "url:cc4aa8caeee0cff58e73",
+      "source_name": "MobileViews",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/mllmTeam/MobileViews",
+      "target_id": "arxiv:2409.14337",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:cee45b940d5fbff3ccca",
+      "source_name": "Phi-Ground checkpoint",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/microsoft/Phi-Ground",
+      "target_id": "github:microsoft/phi-ground",
+      "type": "variant_of"
+    },
+    {
+      "source_id": "url:d236e7ec7a2b0028950a",
+      "source_name": "AutoGLM Phone 9B Multilingual",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/zai-org/AutoGLM-Phone-9B-Multilingual",
+      "target_id": "github:zai-org/open-autoglm",
+      "type": "variant_of"
+    },
+    {
+      "source_id": "url:d3414794302313051ff0",
+      "source_name": "Manus",
+      "source_kind": "product",
+      "evidence_url": "https://manus.im/",
+      "target_id": "organization:manus",
+      "type": "published_by"
+    },
+    {
+      "source_id": "url:d7ad447ecd712c6d51b8",
+      "source_name": "GELab Zero 4B Preview",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/stepfun-ai/GELab-Zero-4B-preview",
+      "target_id": "github:stepfun-ai/gelab-zero",
+      "type": "variant_of"
+    },
+    {
+      "source_id": "url:d92596cfe618e5322ec2",
+      "source_name": "TinyFish",
+      "source_kind": "product",
+      "evidence_url": "https://www.tinyfish.ai/",
+      "target_id": "organization:tinyfish",
+      "type": "published_by"
+    },
+    {
+      "source_id": "url:e062cf1445eaee0f3ade",
+      "source_name": "Jedi",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/api/datasets/xlangai/Jedi",
+      "target_id": "arxiv:2505.13227",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:e3e5dd82a3102689c4ea",
+      "source_name": "GUI-Actor 7B Qwen2-VL",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/microsoft/GUI-Actor-7B-Qwen2-VL",
+      "target_id": "github:microsoft/gui-actor",
+      "type": "variant_of"
+    },
+    {
+      "source_id": "url:e554295a7f3f5c9ad0d6",
+      "source_name": "UGround V1 7B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/models/osunlp/UGround-V1-7B",
+      "target_id": "github:osu-nlp-group/uground",
+      "type": "variant_of"
+    },
+    {
+      "source_id": "url:ef244017b1460269fc68",
+      "source_name": "Browser Use Cloud",
+      "source_kind": "product",
+      "evidence_url": "https://browser-use.com/",
+      "target_id": "organization:browser-use",
+      "type": "published_by"
+    },
+    {
+      "source_id": "url:f0584842138a52158f51",
+      "source_name": "Operator",
+      "source_kind": "product",
+      "evidence_url": "https://openai.com/index/introducing-operator/",
+      "target_id": "organization:openai",
+      "type": "published_by"
+    },
+    {
+      "source_id": "url:fda52d641c6b482bda7b",
+      "source_name": "E2B",
+      "source_kind": "product",
+      "evidence_url": "https://e2b.dev/",
+      "target_id": "organization:e2b",
+      "type": "published_by"
+    }
+  ]
+}

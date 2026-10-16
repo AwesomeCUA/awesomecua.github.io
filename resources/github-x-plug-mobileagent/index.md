@@ -7,14 +7,14 @@ Mobile device agent family using visual interface interaction.
 - Kind: agent
 - Review: curated
 - Scope: core
-- Environments: android
+- Environments: android, cross-platform
 - Topics: mobile-navigation, planning
 - Evidence checked: 2026-10-16T06:36:02Z
 - ID: github:x-plug/mobileagent
 
 ## Limitations
 
-Inclusion does not establish reproducibility or endorsement.
+This repository contains multiple Mobile-Agent generations. Platform coverage differs by version; use the corresponding paper and implementation instructions.
 
 ## License declarations
 

@@ -1,6 +1,6 @@
 # AwesomeCUA curated resource annotations
 
-Evidence snapshot: 2026-10-16T07:54:03Z. These records were reviewed with AI assistance; experiments are not independently reproduced.
+Evidence snapshot: 2026-10-16T09:39:34Z. These records were reviewed with AI assistance; experiments are not independently reproduced.
 
 # Mind2Web: Towards a Generalist Agent for the Web
 
@@ -23,6 +23,42 @@ Editorial summary based on the primary paper abstract; experiments and released 
 ## Authors
 
 Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=1802.08802%2C1808.09132%2C2005.03776%2C2101.09465%2C2103.16057%2C2104.08560%2C2105.13231%2C2107.03374%2C2107.13731%2C2108.03353%2C2202.02312%2C2202.08137%2C2204.01691%2C2205.11029%2C2207.01206%2C2209.08199%2C2209.08655%2C2209.14927%2C2209.15099%2C2210.02663%2C2210.03629%2C2210.03945%2C2211.07615%2C2301.10165%2C2301.13280%2C2302.04761%2C2303.07280%2C2303.08774%2C2303.17491%2C2303.17580%2C2304.04370%2C2304.07061%2C2305.04091%2C2305.05662%2C2305.08144%2C2305.10601%2C2305.11854%2C2305.12487%2C2305.14257%2C2305.14325%2C2305.16504%2C2305.16653%2C2305.19308%2C2306.00245%2C2306.06070%2C2306.07863%2C2307.10088%2C2307.12856%2C2307.13854%2C2308.01990&max_results=50 (retrieved 2026-10-16T06:31:20Z; SHA-256 cbe8bfcbce4170a94a6cf42de01fbe0a448e7b1d29fa75a0de877105a98ec08e)
+- https://export.arxiv.org/api/query?id_list=1802.08802%2C1808.09132%2C2005.03776%2C2101.09465%2C2103.16057%2C2104.08560%2C2105.13231%2C2107.03374%2C2107.13731%2C2108.03353%2C2202.02312%2C2202.08137%2C2204.01691%2C2205.11029%2C2207.01206%2C2209.08199%2C2209.08655%2C2209.14927%2C2209.15099%2C2210.02663%2C2210.03629%2C2210.03945%2C2211.07615%2C2301.10165%2C2301.13280%2C2302.04761%2C2303.07280%2C2303.08774%2C2303.17491%2C2303.17580%2C2304.04370%2C2304.07061%2C2305.04091%2C2305.05662%2C2305.08144%2C2305.10601%2C2305.11854%2C2305.12487%2C2305.14257%2C2305.14325%2C2305.16504%2C2305.16653%2C2305.19308%2C2306.00245%2C2306.06070%2C2306.07863%2C2307.10088%2C2307.12856%2C2307.13854%2C2308.01990&max_results=50 (retrieved 2026-10-16T06:31:20Z; SHA-256 cbe8bfcbce4170a94a6cf42de01fbe0a448e7b1d29fa75a0de877105a98ec08e)
+
+---
+
+# Android in the Wild: A Large-Scale Dataset for Android Device Control
+
+Collects Android interaction demonstrations with screens, actions, and instructions across device and platform variations for robustness evaluation.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2307-10088/
+- Original source: https://arxiv.org/abs/2307.10088
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: data-generation, mobile-navigation, evaluation
+- Evidence checked: 2026-10-16T06:31:20Z
+- ID: arxiv:2307.10088
+
+## Limitations
+
+Annotation reviewed against the primary abstract. Original dataset scale and experimental results are not independently reproduced.
+
+## Authors
+
+Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap
 
 ## License declarations
 
@@ -71,6 +107,222 @@ Shuyan Zhou, Frank F. Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xiany
 
 - https://export.arxiv.org/api/query?id_list=1802.08802%2C1808.09132%2C2005.03776%2C2101.09465%2C2103.16057%2C2104.08560%2C2105.13231%2C2107.03374%2C2107.13731%2C2108.03353%2C2202.02312%2C2202.08137%2C2204.01691%2C2205.11029%2C2207.01206%2C2209.08199%2C2209.08655%2C2209.14927%2C2209.15099%2C2210.02663%2C2210.03629%2C2210.03945%2C2211.07615%2C2301.10165%2C2301.13280%2C2302.04761%2C2303.07280%2C2303.08774%2C2303.17491%2C2303.17580%2C2304.04370%2C2304.07061%2C2305.04091%2C2305.05662%2C2305.08144%2C2305.10601%2C2305.11854%2C2305.12487%2C2305.14257%2C2305.14325%2C2305.16504%2C2305.16653%2C2305.19308%2C2306.00245%2C2306.06070%2C2306.07863%2C2307.10088%2C2307.12856%2C2307.13854%2C2308.01990&max_results=50 (retrieved 2026-10-16T06:31:20Z; SHA-256 cbe8bfcbce4170a94a6cf42de01fbe0a448e7b1d29fa75a0de877105a98ec08e)
 - https://export.arxiv.org/api/query?id_list=1802.08802%2C1808.09132%2C2005.03776%2C2101.09465%2C2103.16057%2C2104.08560%2C2105.13231%2C2107.03374%2C2107.13731%2C2108.03353%2C2202.02312%2C2202.08137%2C2204.01691%2C2205.11029%2C2207.01206%2C2209.08199%2C2209.08655%2C2209.14927%2C2209.15099%2C2210.02663%2C2210.03629%2C2210.03945%2C2211.07615%2C2301.10165%2C2301.13280%2C2302.04761%2C2303.07280%2C2303.08774%2C2303.17491%2C2303.17580%2C2304.04370%2C2304.07061%2C2305.04091%2C2305.05662%2C2305.08144%2C2305.10601%2C2305.11854%2C2305.12487%2C2305.14257%2C2305.14325%2C2305.16504%2C2305.16653%2C2305.19308%2C2306.00245%2C2306.06070%2C2306.07863%2C2307.10088%2C2307.12856%2C2307.13854%2C2308.01990&max_results=50 (retrieved 2026-10-16T06:31:20Z; SHA-256 cbe8bfcbce4170a94a6cf42de01fbe0a448e7b1d29fa75a0de877105a98ec08e)
+
+---
+
+# SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents
+
+Trains a screenshot-driven GUI agent with grounding pretraining and introduces ScreenSpot for evaluating interface target localization.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2401-10935/
+- Original source: https://arxiv.org/abs/2401.10935
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: cross-platform
+- Topics: grounding, data-generation
+- Evidence checked: 2026-10-16T06:36:58Z
+- ID: arxiv:2401.10935
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
+
+---
+
+# VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks
+
+Introduces visually grounded website tasks for evaluating multimodal agents that must interpret both images and text.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2401-13649/
+- Original source: https://arxiv.org/abs/2401.13649
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, grounding, web-navigation
+- Evidence checked: 2026-10-16T06:31:24Z
+- ID: arxiv:2401.13649
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Jing Yu Koh, Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huang, Graham Neubig, Shuyan Zhou, Ruslan Salakhutdinov, Daniel Fried
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50 (retrieved 2026-10-16T06:31:24Z; SHA-256 3aac6e9748769efff3c475ede0da192776daa03431d231b5f67e2aa50f8a3be9)
+- https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50 (retrieved 2026-10-16T06:31:24Z; SHA-256 3aac6e9748769efff3c475ede0da192776daa03431d231b5f67e2aa50f8a3be9)
+
+---
+
+# WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models
+
+Combines multimodal web interaction with a real-website task collection and an automated evaluation protocol.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2401-13919/
+- Original source: https://arxiv.org/abs/2401.13919
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, evaluation
+- Evidence checked: 2026-10-16T06:36:58Z
+- ID: arxiv:2401.13919
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Yong Dai, Hongming Zhang, Zhenzhong Lan, Dong Yu
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
+
+---
+
+# Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception
+
+Uses visual perception tools and task decomposition to operate mobile applications without relying on app interface metadata.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2401-16158/
+- Original source: https://arxiv.org/abs/2401.16158
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, planning
+- Evidence checked: 2026-10-16T06:31:24Z
+- ID: arxiv:2401.16158
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Junyang Wang, Haiyang Xu, Jiabo Ye, Ming Yan, Weizhou Shen, Ji Zhang, Fei Huang, Jitao Sang
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50 (retrieved 2026-10-16T06:31:24Z; SHA-256 3aac6e9748769efff3c475ede0da192776daa03431d231b5f67e2aa50f8a3be9)
+- https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50 (retrieved 2026-10-16T06:31:24Z; SHA-256 3aac6e9748769efff3c475ede0da192776daa03431d231b5f67e2aa50f8a3be9)
+
+---
+
+# WebLINX: Real-World Website Navigation with Multi-Turn Dialogue
+
+Collects expert demonstrations of conversational web navigation and studies retrieval-based element selection for processing large pages.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2402-05930/
+- Original source: https://arxiv.org/abs/2402.05930
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: data-generation, web-navigation, evaluation
+- Evidence checked: 2026-10-16T06:31:24Z
+- ID: arxiv:2402.05930
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Xing Han Lù, Zdeněk Kasner, Siva Reddy
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50 (retrieved 2026-10-16T06:31:24Z; SHA-256 3aac6e9748769efff3c475ede0da192776daa03431d231b5f67e2aa50f8a3be9)
+- https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50 (retrieved 2026-10-16T06:31:24Z; SHA-256 3aac6e9748769efff3c475ede0da192776daa03431d231b5f67e2aa50f8a3be9)
+
+---
+
+# WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?
+
+Introduces enterprise web tasks on ServiceNow and BrowserGym interfaces for evaluating browser-based agents.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2403-07718/
+- Original source: https://arxiv.org/abs/2403.07718
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, workflow
+- Evidence checked: 2026-10-16T06:36:58Z
+- ID: arxiv:2403.07718
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Alexandre Drouin, Maxime Gasse, Massimo Caccia, Issam H. Laradji, Manuel Del Verme, Tom Marty, Léo Boisvert, Megh Thakkar, Quentin Cappart, David Vazquez, Nicolas Chapados, Alexandre Lacoste
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
 
 ---
 
@@ -146,6 +398,258 @@ Christopher Rawles, Sarah Clinckemaillie, Yifan Chang, Jonathan Waltz, Gabrielle
 
 ---
 
+# Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration
+
+Separates mobile planning, decision-making, and reflection, with a memory unit for task progress and relevant content.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-01014/
+- Original source: https://arxiv.org/abs/2406.01014
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: planning, memory, mobile-navigation
+- Evidence checked: 2026-10-16T06:31:28Z
+- ID: arxiv:2406.01014
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Junyang Wang, Haiyang Xu, Haitao Jia, Xi Zhang, Ming Yan, Weizhou Shen, Ji Zhang, Fei Huang, Jitao Sang
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2403.03186%2C2403.03788%2C2403.07718%2C2403.10170%2C2403.11905%2C2403.16971%2C2403.17918%2C2403.20271%2C2404.01549%2C2404.01744%2C2404.02475%2C2404.03648%2C2404.05427%2C2404.05719%2C2404.05955%2C2404.06474%2C2404.07972%2C2404.08755%2C2404.08860%2C2404.08948%2C2404.09992%2C2404.10887%2C2404.11459%2C2404.16006%2C2404.16048%2C2404.16054%2C2404.16660%2C2404.18074%2C2404.19296%2C2405.00516%2C2405.11120%2C2405.12842%2C2405.14573%2C2405.14751%2C2405.15793%2C2405.16247%2C2405.20309%2C2406.01014%2C2406.01623%2C2406.03679%2C2406.06947%2C2406.07822%2C2406.08184%2C2406.08340%2C2406.08451%2C2406.10227%2C2406.10819%2C2406.11317%2C2406.11896%2C2406.12373&max_results=50 (retrieved 2026-10-16T06:31:28Z; SHA-256 be244bfae7f89ef9449b69d85aac44295eb7b5f7e5e1bbedd76df312696676a7)
+- https://export.arxiv.org/api/query?id_list=2403.03186%2C2403.03788%2C2403.07718%2C2403.10170%2C2403.11905%2C2403.16971%2C2403.17918%2C2403.20271%2C2404.01549%2C2404.01744%2C2404.02475%2C2404.03648%2C2404.05427%2C2404.05719%2C2404.05955%2C2404.06474%2C2404.07972%2C2404.08755%2C2404.08860%2C2404.08948%2C2404.09992%2C2404.10887%2C2404.11459%2C2404.16006%2C2404.16048%2C2404.16054%2C2404.16660%2C2404.18074%2C2404.19296%2C2405.00516%2C2405.11120%2C2405.12842%2C2405.14573%2C2405.14751%2C2405.15793%2C2405.16247%2C2405.20309%2C2406.01014%2C2406.01623%2C2406.03679%2C2406.06947%2C2406.07822%2C2406.08184%2C2406.08340%2C2406.08451%2C2406.10227%2C2406.10819%2C2406.11317%2C2406.11896%2C2406.12373&max_results=50 (retrieved 2026-10-16T06:31:28Z; SHA-256 be244bfae7f89ef9449b69d85aac44295eb7b5f7e5e1bbedd76df312696676a7)
+
+---
+
+# On the Effects of Data Scale on UI Control Agents
+
+Studies how Android task performance changes with demonstration scale and releases AndroidControl with high- and low-level instructions.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-03679/
+- Original source: https://arxiv.org/abs/2406.03679
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: data-generation, mobile-navigation, evaluation
+- Evidence checked: 2026-10-16T06:31:28Z
+- ID: arxiv:2406.03679
+
+## Limitations
+
+Annotation reviewed against the primary abstract. Original dataset scale and experimental results are not independently reproduced.
+
+## Authors
+
+Wei Li, William Bishop, Alice Li, Chris Rawles, Folawiyo Campbell-Ajala, Divya Tyamagundlu, Oriana Riva
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2403.03186%2C2403.03788%2C2403.07718%2C2403.10170%2C2403.11905%2C2403.16971%2C2403.17918%2C2403.20271%2C2404.01549%2C2404.01744%2C2404.02475%2C2404.03648%2C2404.05427%2C2404.05719%2C2404.05955%2C2404.06474%2C2404.07972%2C2404.08755%2C2404.08860%2C2404.08948%2C2404.09992%2C2404.10887%2C2404.11459%2C2404.16006%2C2404.16048%2C2404.16054%2C2404.16660%2C2404.18074%2C2404.19296%2C2405.00516%2C2405.11120%2C2405.12842%2C2405.14573%2C2405.14751%2C2405.15793%2C2405.16247%2C2405.20309%2C2406.01014%2C2406.01623%2C2406.03679%2C2406.06947%2C2406.07822%2C2406.08184%2C2406.08340%2C2406.08451%2C2406.10227%2C2406.10819%2C2406.11317%2C2406.11896%2C2406.12373&max_results=50 (retrieved 2026-10-16T06:31:28Z; SHA-256 be244bfae7f89ef9449b69d85aac44295eb7b5f7e5e1bbedd76df312696676a7)
+- https://export.arxiv.org/api/query?id_list=2403.03186%2C2403.03788%2C2403.07718%2C2403.10170%2C2403.11905%2C2403.16971%2C2403.17918%2C2403.20271%2C2404.01549%2C2404.01744%2C2404.02475%2C2404.03648%2C2404.05427%2C2404.05719%2C2404.05955%2C2404.06474%2C2404.07972%2C2404.08755%2C2404.08860%2C2404.08948%2C2404.09992%2C2404.10887%2C2404.11459%2C2404.16006%2C2404.16048%2C2404.16054%2C2404.16660%2C2404.18074%2C2404.19296%2C2405.00516%2C2405.11120%2C2405.12842%2C2405.14573%2C2405.14751%2C2405.15793%2C2405.16247%2C2405.20309%2C2406.01014%2C2406.01623%2C2406.03679%2C2406.06947%2C2406.07822%2C2406.08184%2C2406.08340%2C2406.08451%2C2406.10227%2C2406.10819%2C2406.11317%2C2406.11896%2C2406.12373&max_results=50 (retrieved 2026-10-16T06:31:28Z; SHA-256 be244bfae7f89ef9449b69d85aac44295eb7b5f7e5e1bbedd76df312696676a7)
+
+---
+
+# GUIOdyssey: A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices
+
+Introduces annotated cross-application mobile trajectories and studies history-aware navigation over long task sequences.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2406-08451/
+- Original source: https://arxiv.org/abs/2406.08451
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: cross-app, data-generation
+- Evidence checked: 2026-10-16T06:31:28Z
+- ID: arxiv:2406.08451
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Quanfeng Lu, Wenqi Shao, Zitao Liu, Lingxiao Du, Fanqing Meng, Boxuan Li, Botong Chen, Siyuan Huang, Kaipeng Zhang, Ping Luo
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2403.03186%2C2403.03788%2C2403.07718%2C2403.10170%2C2403.11905%2C2403.16971%2C2403.17918%2C2403.20271%2C2404.01549%2C2404.01744%2C2404.02475%2C2404.03648%2C2404.05427%2C2404.05719%2C2404.05955%2C2404.06474%2C2404.07972%2C2404.08755%2C2404.08860%2C2404.08948%2C2404.09992%2C2404.10887%2C2404.11459%2C2404.16006%2C2404.16048%2C2404.16054%2C2404.16660%2C2404.18074%2C2404.19296%2C2405.00516%2C2405.11120%2C2405.12842%2C2405.14573%2C2405.14751%2C2405.15793%2C2405.16247%2C2405.20309%2C2406.01014%2C2406.01623%2C2406.03679%2C2406.06947%2C2406.07822%2C2406.08184%2C2406.08340%2C2406.08451%2C2406.10227%2C2406.10819%2C2406.11317%2C2406.11896%2C2406.12373&max_results=50 (retrieved 2026-10-16T06:31:28Z; SHA-256 be244bfae7f89ef9449b69d85aac44295eb7b5f7e5e1bbedd76df312696676a7)
+- https://export.arxiv.org/api/query?id_list=2403.03186%2C2403.03788%2C2403.07718%2C2403.10170%2C2403.11905%2C2403.16971%2C2403.17918%2C2403.20271%2C2404.01549%2C2404.01744%2C2404.02475%2C2404.03648%2C2404.05427%2C2404.05719%2C2404.05955%2C2404.06474%2C2404.07972%2C2404.08755%2C2404.08860%2C2404.08948%2C2404.09992%2C2404.10887%2C2404.11459%2C2404.16006%2C2404.16048%2C2404.16054%2C2404.16660%2C2404.18074%2C2404.19296%2C2405.00516%2C2405.11120%2C2405.12842%2C2405.14573%2C2405.14751%2C2405.15793%2C2405.16247%2C2405.20309%2C2406.01014%2C2406.01623%2C2406.03679%2C2406.06947%2C2406.07822%2C2406.08184%2C2406.08340%2C2406.08451%2C2406.10227%2C2406.10819%2C2406.11317%2C2406.11896%2C2406.12373&max_results=50 (retrieved 2026-10-16T06:31:28Z; SHA-256 be244bfae7f89ef9449b69d85aac44295eb7b5f7e5e1bbedd76df312696676a7)
+
+---
+
+# WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks
+
+Defines compositional enterprise workflows to evaluate planning and reasoning, with generation of ground-truth interaction traces.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2407-05291/
+- Original source: https://arxiv.org/abs/2407.05291
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, planning, workflow
+- Evidence checked: 2026-10-16T06:31:32Z
+- ID: arxiv:2407.05291
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Léo Boisvert, Megh Thakkar, Maxime Gasse, Massimo Caccia, Thibault Le Sellier De Chezelles, Quentin Cappart, Nicolas Chapados, Alexandre Lacoste, Alexandre Drouin
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50 (retrieved 2026-10-16T06:31:32Z; SHA-256 b9a83994d8ac36ccdb606a5219511f8bb35ad3948ade4f9f3e28d386221aedfb)
+- https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50 (retrieved 2026-10-16T06:31:32Z; SHA-256 b9a83994d8ac36ccdb606a5219511f8bb35ad3948ade4f9f3e28d386221aedfb)
+
+---
+
+# OmniParser for Pure Vision Based GUI Agent
+
+Parses screenshots into interactable regions and semantic element descriptions to support visually grounded agent actions.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2408-00203/
+- Original source: https://arxiv.org/abs/2408.00203
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: cross-platform
+- Topics: grounding, screen-understanding
+- Evidence checked: 2026-10-16T06:36:58Z
+- ID: arxiv:2408.00203
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Yadong Lu, Jianwei Yang, Yelong Shen, Ahmed Awadallah
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
+
+---
+
+# Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale
+
+Adapts real-desktop evaluation to Windows applications and supports parallel execution of benchmark tasks.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2409-08264/
+- Original source: https://arxiv.org/abs/2409.08264
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: windows
+- Topics: evaluation, cross-app
+- Evidence checked: 2026-10-16T06:31:32Z
+- ID: arxiv:2409.08264
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Rogerio Bonatti, Dan Zhao, Francesco Bonacci, Dillon Dupont, Sara Abdali, Yinheng Li, Yadong Lu, Justin Wagle, Kazuhito Koishida, Arthur Bucker, Lawrence Jang, Zack Hui
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50 (retrieved 2026-10-16T06:31:32Z; SHA-256 b9a83994d8ac36ccdb606a5219511f8bb35ad3948ade4f9f3e28d386221aedfb)
+- https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50 (retrieved 2026-10-16T06:31:32Z; SHA-256 b9a83994d8ac36ccdb606a5219511f8bb35ad3948ade4f9f3e28d386221aedfb)
+
+---
+
+# MobileViews: A Million-scale and Diverse Mobile GUI Dataset
+
+Builds mobile screenshot and view-hierarchy pairs through automated application traversal and evaluates their usefulness for GUI grounding.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2409-14337/
+- Original source: https://arxiv.org/abs/2409.14337
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: screen-understanding, data-generation
+- Evidence checked: 2026-10-16T06:31:32Z
+- ID: arxiv:2409.14337
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Longxi Gao, Li Zhang, Shihe Wang, Pengzhi Gao, Wei Liu, Jian Luan, Shangguang Wang, Yuanchun Li, Mengwei Xu
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50 (retrieved 2026-10-16T06:31:32Z; SHA-256 b9a83994d8ac36ccdb606a5219511f8bb35ad3948ade4f9f3e28d386221aedfb)
+- https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50 (retrieved 2026-10-16T06:31:32Z; SHA-256 b9a83994d8ac36ccdb606a5219511f8bb35ad3948ade4f9f3e28d386221aedfb)
+
+---
+
 # Agent S: An Open Agentic Framework that Uses Computers Like a Human
 
 Combines hierarchical planning, retrieved experience, and a computer interaction interface to execute multistep GUI tasks.
@@ -167,6 +671,114 @@ Editorial summary based on the primary paper abstract; experiments and released 
 ## Authors
 
 Saaket Agashe, Jiuzhou Han, Shuyu Gan, Jiachen Yang, Ang Li, Xin Eric Wang
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2410.00467%2C2410.00689%2C2410.02810%2C2410.02907%2C2410.05243%2C2410.06703%2C2410.08164%2C2410.09006%2C2410.09024%2C2410.11843%2C2410.11871%2C2410.11872%2C2410.13232%2C2410.13757%2C2410.13824%2C2410.13825%2C2410.13886%2C2410.14803%2C2410.15164%2C2410.16464%2C2410.17236%2C2410.17401%2C2410.17520%2C2410.17883%2C2410.18603%2C2410.18963%2C2410.18967%2C2410.19054%2C2410.19100%2C2410.19461%2C2410.19609%2C2410.20745%2C2410.22552%2C2410.23218%2C2410.24024%2C2411.00820%2C2411.02337%2C2411.02391%2C2411.04468%2C2411.04890%2C2411.06559%2C2411.07618%2C2411.10323%2C2411.13451%2C2411.13591%2C2411.15004%2C2411.17465%2C2411.18279%2C2412.00402%2C2412.01268&max_results=50 (retrieved 2026-10-16T06:31:35Z; SHA-256 b3e67984f59a1b05ccd946eb54e2d37b0bb78ab0ca796fbb6d544793dafea3e0)
+- https://export.arxiv.org/api/query?id_list=2410.00467%2C2410.00689%2C2410.02810%2C2410.02907%2C2410.05243%2C2410.06703%2C2410.08164%2C2410.09006%2C2410.09024%2C2410.11843%2C2410.11871%2C2410.11872%2C2410.13232%2C2410.13757%2C2410.13824%2C2410.13825%2C2410.13886%2C2410.14803%2C2410.15164%2C2410.16464%2C2410.17236%2C2410.17401%2C2410.17520%2C2410.17883%2C2410.18603%2C2410.18963%2C2410.18967%2C2410.19054%2C2410.19100%2C2410.19461%2C2410.19609%2C2410.20745%2C2410.22552%2C2410.23218%2C2410.24024%2C2411.00820%2C2411.02337%2C2411.02391%2C2411.04468%2C2411.04890%2C2411.06559%2C2411.07618%2C2411.10323%2C2411.13451%2C2411.13591%2C2411.15004%2C2411.17465%2C2411.18279%2C2412.00402%2C2412.01268&max_results=50 (retrieved 2026-10-16T06:31:35Z; SHA-256 b3e67984f59a1b05ccd946eb54e2d37b0bb78ab0ca796fbb6d544793dafea3e0)
+
+---
+
+# MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control
+
+Evaluates mobile agents on misuse, side effects, and indirect prompt-injection risks in an Android emulator environment.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-17520/
+- Original source: https://arxiv.org/abs/2410.17520
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: safety-security, evaluation
+- Evidence checked: 2026-10-16T06:31:35Z
+- ID: arxiv:2410.17520
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Juyong Lee, Dongyoon Hahm, June Suk Choi, W. Bradley Knox, Kimin Lee
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2410.00467%2C2410.00689%2C2410.02810%2C2410.02907%2C2410.05243%2C2410.06703%2C2410.08164%2C2410.09006%2C2410.09024%2C2410.11843%2C2410.11871%2C2410.11872%2C2410.13232%2C2410.13757%2C2410.13824%2C2410.13825%2C2410.13886%2C2410.14803%2C2410.15164%2C2410.16464%2C2410.17236%2C2410.17401%2C2410.17520%2C2410.17883%2C2410.18603%2C2410.18963%2C2410.18967%2C2410.19054%2C2410.19100%2C2410.19461%2C2410.19609%2C2410.20745%2C2410.22552%2C2410.23218%2C2410.24024%2C2411.00820%2C2411.02337%2C2411.02391%2C2411.04468%2C2411.04890%2C2411.06559%2C2411.07618%2C2411.10323%2C2411.13451%2C2411.13591%2C2411.15004%2C2411.17465%2C2411.18279%2C2412.00402%2C2412.01268&max_results=50 (retrieved 2026-10-16T06:31:35Z; SHA-256 b3e67984f59a1b05ccd946eb54e2d37b0bb78ab0ca796fbb6d544793dafea3e0)
+- https://export.arxiv.org/api/query?id_list=2410.00467%2C2410.00689%2C2410.02810%2C2410.02907%2C2410.05243%2C2410.06703%2C2410.08164%2C2410.09006%2C2410.09024%2C2410.11843%2C2410.11871%2C2410.11872%2C2410.13232%2C2410.13757%2C2410.13824%2C2410.13825%2C2410.13886%2C2410.14803%2C2410.15164%2C2410.16464%2C2410.17236%2C2410.17401%2C2410.17520%2C2410.17883%2C2410.18603%2C2410.18963%2C2410.18967%2C2410.19054%2C2410.19100%2C2410.19461%2C2410.19609%2C2410.20745%2C2410.22552%2C2410.23218%2C2410.24024%2C2411.00820%2C2411.02337%2C2411.02391%2C2411.04468%2C2411.04890%2C2411.06559%2C2411.07618%2C2411.10323%2C2411.13451%2C2411.13591%2C2411.15004%2C2411.17465%2C2411.18279%2C2412.00402%2C2412.01268&max_results=50 (retrieved 2026-10-16T06:31:35Z; SHA-256 b3e67984f59a1b05ccd946eb54e2d37b0bb78ab0ca796fbb6d544793dafea3e0)
+
+---
+
+# OS-ATLAS: A Foundation Action Model for Generalist GUI Agents
+
+Combines cross-platform GUI grounding data synthesis with action-model training to study generalization to unfamiliar interfaces.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-23218/
+- Original source: https://arxiv.org/abs/2410.23218
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: cross-platform
+- Topics: grounding, data-generation
+- Evidence checked: 2026-10-16T06:36:58Z
+- ID: arxiv:2410.23218
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Zhiyong Wu, Zhenyu Wu, Fangzhi Xu, Yian Wang, Qiushi Sun, Chengyou Jia, Kanzhi Cheng, Zichen Ding, Liheng Chen, Paul Pu Liang, Yu Qiao
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
+
+---
+
+# AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents
+
+Provides a shared Android action environment, reproducible tasks, and instruction data for training and comparing language and multimodal agents.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-24024/
+- Original source: https://arxiv.org/abs/2410.24024
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: evaluation, data-generation, mobile-navigation
+- Evidence checked: 2026-10-16T06:31:35Z
+- ID: arxiv:2410.24024
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Yifan Xu, Xiao Liu, Xueqiao Sun, Siyi Cheng, Hao Yu, Hanyu Lai, Shudan Zhang, Dan Zhang, Jie Tang, Yuxiao Dong
 
 ## License declarations
 
@@ -218,6 +830,42 @@ Shuai Wang, Weiwen Liu, Jingxuan Chen, Yuqi Zhou, Weinan Gan, Xingshan Zeng, Yuh
 
 ---
 
+# ShowUI: One Vision-Language-Action Model for GUI Visual Agent
+
+Combines visual token selection, interleaved visual-action history, and curated instruction data in a compact GUI action model.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2411-17465/
+- Original source: https://arxiv.org/abs/2411.17465
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: cross-platform
+- Topics: grounding, efficiency
+- Evidence checked: 2026-10-16T06:31:35Z
+- ID: arxiv:2411.17465
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Kevin Qinghong Lin, Linjie Li, Difei Gao, Zhengyuan Yang, Shiwei Wu, Zechen Bai, Weixian Lei, Lijuan Wang, Mike Zheng Shou
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2410.00467%2C2410.00689%2C2410.02810%2C2410.02907%2C2410.05243%2C2410.06703%2C2410.08164%2C2410.09006%2C2410.09024%2C2410.11843%2C2410.11871%2C2410.11872%2C2410.13232%2C2410.13757%2C2410.13824%2C2410.13825%2C2410.13886%2C2410.14803%2C2410.15164%2C2410.16464%2C2410.17236%2C2410.17401%2C2410.17520%2C2410.17883%2C2410.18603%2C2410.18963%2C2410.18967%2C2410.19054%2C2410.19100%2C2410.19461%2C2410.19609%2C2410.20745%2C2410.22552%2C2410.23218%2C2410.24024%2C2411.00820%2C2411.02337%2C2411.02391%2C2411.04468%2C2411.04890%2C2411.06559%2C2411.07618%2C2411.10323%2C2411.13451%2C2411.13591%2C2411.15004%2C2411.17465%2C2411.18279%2C2412.00402%2C2412.01268&max_results=50 (retrieved 2026-10-16T06:31:35Z; SHA-256 b3e67984f59a1b05ccd946eb54e2d37b0bb78ab0ca796fbb6d544793dafea3e0)
+- https://export.arxiv.org/api/query?id_list=2410.00467%2C2410.00689%2C2410.02810%2C2410.02907%2C2410.05243%2C2410.06703%2C2410.08164%2C2410.09006%2C2410.09024%2C2410.11843%2C2410.11871%2C2410.11872%2C2410.13232%2C2410.13757%2C2410.13824%2C2410.13825%2C2410.13886%2C2410.14803%2C2410.15164%2C2410.16464%2C2410.17236%2C2410.17401%2C2410.17520%2C2410.17883%2C2410.18603%2C2410.18963%2C2410.18967%2C2410.19054%2C2410.19100%2C2410.19461%2C2410.19609%2C2410.20745%2C2410.22552%2C2410.23218%2C2410.24024%2C2411.00820%2C2411.02337%2C2411.02391%2C2411.04468%2C2411.04890%2C2411.06559%2C2411.07618%2C2411.10323%2C2411.13451%2C2411.13591%2C2411.15004%2C2411.17465%2C2411.18279%2C2412.00402%2C2412.01268&max_results=50 (retrieved 2026-10-16T06:31:35Z; SHA-256 b3e67984f59a1b05ccd946eb54e2d37b0bb78ab0ca796fbb6d544793dafea3e0)
+
+---
+
 # Large Language Model-Brained GUI Agents: A Survey
 
 Survey of research directions in GUI or computer-use agents.
@@ -251,6 +899,42 @@ Chaoyun Zhang, Shilin He, Jiaxu Qian, Bowen Li, Liqun Li, Si Qin, Yu Kang, Mingh
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
+
+---
+
+# Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction
+
+Uses screenshots, a unified action space, and staged grounding and reasoning training for cross-platform GUI interaction.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2412-04454/
+- Original source: https://arxiv.org/abs/2412.04454
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: cross-platform
+- Topics: grounding, planning, data-generation
+- Evidence checked: 2026-10-16T06:31:38Z
+- ID: arxiv:2412.04454
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Yiheng Xu, Zekun Wang, Junli Wang, Dunjie Lu, Tianbao Xie, Amrita Saha, Doyen Sahoo, Tao Yu, Caiming Xiong
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2412.04454%2C2412.04626%2C2412.05467%2C2412.09362%2C2412.09605%2C2412.10342%2C2412.10742%2C2412.10840%2C2412.13103%2C2412.13194%2C2412.13501%2C2412.14161%2C2412.14470%2C2412.16256%2C2412.17589%2C2412.18116%2C2412.18426%2C2412.19723%2C2501.01149%2C2501.04575%2C2501.07572%2C2501.11733%2C2501.12326%2C2501.13896%2C2501.16150%2C2502.01600%2C2502.01977%2C2502.02982%2C2502.06395%2C2502.07949%2C2502.08047%2C2502.08226%2C2502.11357%2C2502.13053%2C2502.13923%2C2502.14282%2C2502.18906%2C2503.00401%2C2503.02268%2C2503.03196%2C2503.04730%2C2503.05143%2C2503.06470%2C2503.09263%2C2503.11069%2C2503.11170%2C2503.12687%2C2503.15661%2C2503.15937%2C2503.16465&max_results=50 (retrieved 2026-10-16T06:31:38Z; SHA-256 e96b86015c763c780e0430a8d0867b96cae947f50e888b3441c85abcaa42de78)
+- https://export.arxiv.org/api/query?id_list=2412.04454%2C2412.04626%2C2412.05467%2C2412.09362%2C2412.09605%2C2412.10342%2C2412.10742%2C2412.10840%2C2412.13103%2C2412.13194%2C2412.13501%2C2412.14161%2C2412.14470%2C2412.16256%2C2412.17589%2C2412.18116%2C2412.18426%2C2412.19723%2C2501.01149%2C2501.04575%2C2501.07572%2C2501.11733%2C2501.12326%2C2501.13896%2C2501.16150%2C2502.01600%2C2502.01977%2C2502.02982%2C2502.06395%2C2502.07949%2C2502.08047%2C2502.08226%2C2502.11357%2C2502.13053%2C2502.13923%2C2502.14282%2C2502.18906%2C2503.00401%2C2503.02268%2C2503.03196%2C2503.04730%2C2503.05143%2C2503.06470%2C2503.09263%2C2503.11069%2C2503.11170%2C2503.12687%2C2503.15661%2C2503.15937%2C2503.16465&max_results=50 (retrieved 2026-10-16T06:31:38Z; SHA-256 e96b86015c763c780e0430a8d0867b96cae947f50e888b3441c85abcaa42de78)
 
 ---
 
@@ -359,6 +1043,78 @@ Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan E
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
+
+---
+
+# SafeArena: Evaluating the Safety of Autonomous Web Agents
+
+Pairs benign and harmful web tasks to assess deliberate misuse risks and categorize agent behavior by risk level.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-04957/
+- Original source: https://arxiv.org/abs/2503.04957
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: safety-security, evaluation
+- Evidence checked: 2026-10-16T06:36:54Z
+- ID: arxiv:2503.04957
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Ada Defne Tur, Nicholas Meade, Xing Han Lù, Alejandra Zambrano, Arkil Patel, Esin Durmus, Spandana Gella, Karolina Stańczak, Siva Reddy
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:54Z; SHA-256 4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:54Z; SHA-256 4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089)
+
+---
+
+# UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction
+
+Provides annotated desktop demonstrations for evaluating element grounding, layout grounding, and action prediction.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-15661/
+- Original source: https://arxiv.org/abs/2503.15661
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: grounding, evaluation, screen-understanding
+- Evidence checked: 2026-10-16T06:31:38Z
+- ID: arxiv:2503.15661
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Shravan Nayak, Xiangru Jian, Kevin Qinghong Lin, Juan A. Rodriguez, Montek Kalsi, Rabiul Awal, Nicolas Chapados, M. Tamer Özsu, Aishwarya Agrawal, David Vazquez, Christopher Pal, Perouz Taslakian, Spandana Gella, Sai Rajeswar
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2412.04454%2C2412.04626%2C2412.05467%2C2412.09362%2C2412.09605%2C2412.10342%2C2412.10742%2C2412.10840%2C2412.13103%2C2412.13194%2C2412.13501%2C2412.14161%2C2412.14470%2C2412.16256%2C2412.17589%2C2412.18116%2C2412.18426%2C2412.19723%2C2501.01149%2C2501.04575%2C2501.07572%2C2501.11733%2C2501.12326%2C2501.13896%2C2501.16150%2C2502.01600%2C2502.01977%2C2502.02982%2C2502.06395%2C2502.07949%2C2502.08047%2C2502.08226%2C2502.11357%2C2502.13053%2C2502.13923%2C2502.14282%2C2502.18906%2C2503.00401%2C2503.02268%2C2503.03196%2C2503.04730%2C2503.05143%2C2503.06470%2C2503.09263%2C2503.11069%2C2503.11170%2C2503.12687%2C2503.15661%2C2503.15937%2C2503.16465&max_results=50 (retrieved 2026-10-16T06:31:38Z; SHA-256 e96b86015c763c780e0430a8d0867b96cae947f50e888b3441c85abcaa42de78)
+- https://export.arxiv.org/api/query?id_list=2412.04454%2C2412.04626%2C2412.05467%2C2412.09362%2C2412.09605%2C2412.10342%2C2412.10742%2C2412.10840%2C2412.13103%2C2412.13194%2C2412.13501%2C2412.14161%2C2412.14470%2C2412.16256%2C2412.17589%2C2412.18116%2C2412.18426%2C2412.19723%2C2501.01149%2C2501.04575%2C2501.07572%2C2501.11733%2C2501.12326%2C2501.13896%2C2501.16150%2C2502.01600%2C2502.01977%2C2502.02982%2C2502.06395%2C2502.07949%2C2502.08047%2C2502.08226%2C2502.11357%2C2502.13053%2C2502.13923%2C2502.14282%2C2502.18906%2C2503.00401%2C2503.02268%2C2503.03196%2C2503.04730%2C2503.05143%2C2503.06470%2C2503.09263%2C2503.11069%2C2503.11170%2C2503.12687%2C2503.15661%2C2503.15937%2C2503.16465&max_results=50 (retrieved 2026-10-16T06:31:38Z; SHA-256 e96b86015c763c780e0430a8d0867b96cae947f50e888b3441c85abcaa42de78)
 
 ---
 
@@ -650,6 +1406,42 @@ Ada Chen, Yongjiang Wu, Junyuan Zhang, Jingyu Xiao, Shu Yang, Jen-tse Huang, Kun
 
 ---
 
+# Scaling Computer-Use Grounding via User Interface Decomposition and Synthesis
+
+Introduces OSWorld-G grounding evaluation and the Jedi synthesis pipeline for examples spanning layout reasoning and fine-grained interaction.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-13227/
+- Original source: https://arxiv.org/abs/2505.13227
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: grounding, data-generation, evaluation
+- Evidence checked: 2026-10-16T06:36:54Z
+- ID: arxiv:2505.13227
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Tianbao Xie, Jiaqi Deng, Xiaochuan Li, Junlin Yang, Haoyuan Wu, Jixuan Chen, Wenjing Hu, Xinyuan Wang, Yuhui Xu, Zekun Wang, Yiheng Xu, Junli Wang, Doyen Sahoo, Tao Yu, Caiming Xiong
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:54Z; SHA-256 4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:54Z; SHA-256 4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089)
+
+---
+
 # Agent-SAMA: State-Aware Mobile Assistant
 
 Models mobile application execution as a finite-state machine to support planning, verification, and recovery across interface transitions.
@@ -666,7 +1458,7 @@ Models mobile application execution as a finite-state machine to support plannin
 
 ## Limitations
 
-The discovery result used the earlier MAPLE title; this record follows the current arXiv title, Agent-SAMA. Summary reviewed against the abstract; experiments not independently reproduced.
+Hugging Face discovery used the label MAPLE for this ID; the record follows the current primary arXiv title, Agent-SAMA. The secondary-title discrepancy is not treated as proof of a historical rename. Experiments not independently reproduced.
 
 ## Authors
 
@@ -683,6 +1475,42 @@ Linqiang Guo, Wei Liu, Yi Wen Heng, Tse-Hsun, Chen, Yang Wang
 
 - https://export.arxiv.org/api/query?id_list=2401.05507%2C2406.07275%2C2409.16427%2C2410.00079%2C2503.07701%2C2503.22738%2C2505.15859%2C2505.17735%2C2505.23596%2C2507.05257%2C2507.06134%2C2507.21953%2C2507.23336%2C2508.06960%2C2508.08997%2C2509.02473%2C2509.23694%2C2510.09116%2C2510.14438%2C2511.18423%2C2512.12818%2C2512.13564%2C2601.10758%2C2601.12449%2C2601.21841%2C2603.01152%2C2603.19993%2C2603.20576%2C2604.04503%2C2604.17562%2C2604.23941%2C2605.16265%2C2606.06448%2C2606.06462%2C2606.29193%2C2607.01647%2C2607.13157&max_results=37 (retrieved 2026-10-16T07:54:03Z; SHA-256 13d5969845070cd2877dc51ae5300c2d623e5daef00c8a1552ffa46af3f721a5)
 - https://export.arxiv.org/api/query?id_list=2401.05507%2C2406.07275%2C2409.16427%2C2410.00079%2C2503.07701%2C2503.22738%2C2505.15859%2C2505.17735%2C2505.23596%2C2507.05257%2C2507.06134%2C2507.21953%2C2507.23336%2C2508.06960%2C2508.08997%2C2509.02473%2C2509.23694%2C2510.09116%2C2510.14438%2C2511.18423%2C2512.12818%2C2512.13564%2C2601.10758%2C2601.12449%2C2601.21841%2C2603.01152%2C2603.19993%2C2603.20576%2C2604.04503%2C2604.17562%2C2604.23941%2C2605.16265%2C2606.06448%2C2606.06462%2C2606.29193%2C2607.01647%2C2607.13157&max_results=37 (retrieved 2026-10-16T07:54:03Z; SHA-256 13d5969845070cd2877dc51ae5300c2d623e5daef00c8a1552ffa46af3f721a5)
+
+---
+
+# AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning
+
+Combines grounding pretraining, bilingual interaction trajectories, and reinforcement fine-tuning for mobile GUI actions.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-01391/
+- Original source: https://arxiv.org/abs/2506.01391
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: reinforcement-learning, mobile-navigation
+- Evidence checked: 2026-10-16T06:31:42Z
+- ID: arxiv:2506.01391
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Zhong Zhang, Yaxi Lu, Yikun Fu, Yupeng Huo, Shenzhi Yang, Yesai Wu, Han Si, Xin Cong, Haotian Chen, Yankai Lin, Jie Xie, Wei Zhou, Wang Xu, Yuanheng Zhang, Zhou Su, Zhongwu Zhai, Xiaoming Liu, Yudong Mei, Jianming Xu, Hongyan Tian, Chongyi Wang, Chi Chen, Yuan Yao, Zhiyuan Liu, Maosong Sun
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2503.16788%2C2503.17709%2C2503.18492%2C2503.19537%2C2503.20978%2C2503.21620%2C2503.23434%2C2504.01382%2C2504.07981%2C2504.10445%2C2504.10458%2C2504.11257%2C2504.11281%2C2504.12679%2C2504.13805%2C2504.13865%2C2504.14239%2C2504.18575%2C2504.19838%2C2504.20464%2C2505.10924%2C2505.11891%2C2505.12299%2C2505.12632%2C2505.13227%2C2505.13887%2C2505.13909%2C2505.14289%2C2505.15810%2C2505.16282%2C2505.16827%2C2505.18829%2C2505.19897%2C2505.21496%2C2505.21499%2C2505.21936%2C2505.22648%2C2505.23762%2C2505.24838%2C2506.00618%2C2506.01391%2C2506.01968%2C2506.02456%2C2506.03143%2C2506.03569%2C2506.04135%2C2506.04614%2C2506.07672%2C2506.08012%2C2506.08972&max_results=50 (retrieved 2026-10-16T06:31:42Z; SHA-256 afe4e75ffb8a5c44f4c088a90ffa5f53553036f514aa768f5aee0c5aa38d731e)
+- https://export.arxiv.org/api/query?id_list=2503.16788%2C2503.17709%2C2503.18492%2C2503.19537%2C2503.20978%2C2503.21620%2C2503.23434%2C2504.01382%2C2504.07981%2C2504.10445%2C2504.10458%2C2504.11257%2C2504.11281%2C2504.12679%2C2504.13805%2C2504.13865%2C2504.14239%2C2504.18575%2C2504.19838%2C2504.20464%2C2505.10924%2C2505.11891%2C2505.12299%2C2505.12632%2C2505.13227%2C2505.13887%2C2505.13909%2C2505.14289%2C2505.15810%2C2505.16282%2C2505.16827%2C2505.18829%2C2505.19897%2C2505.21496%2C2505.21499%2C2505.21936%2C2505.22648%2C2505.23762%2C2505.24838%2C2506.00618%2C2506.01391%2C2506.01968%2C2506.02456%2C2506.03143%2C2506.03569%2C2506.04135%2C2506.04614%2C2506.07672%2C2506.08012%2C2506.08972&max_results=50 (retrieved 2026-10-16T06:31:42Z; SHA-256 afe4e75ffb8a5c44f4c088a90ffa5f53553036f514aa768f5aee0c5aa38d731e)
 
 ---
 
@@ -719,6 +1547,42 @@ Qianhui Wu, Kanzhi Cheng, Rui Yang, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang,
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:54Z; SHA-256 4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:54Z; SHA-256 4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089)
+
+---
+
+# OS-Harm: A Benchmark for Measuring Safety of Computer Use Agents
+
+Extends OSWorld with tasks covering user misuse, prompt injection, and model misbehavior, with assessment of both task success and safety.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-14866/
+- Original source: https://arxiv.org/abs/2506.14866
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: safety-security, evaluation
+- Evidence checked: 2026-10-16T06:36:50Z
+- ID: arxiv:2506.14866
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Thomas Kuntz, Agatha Duzan, Hao Zhao, Francesco Croce, Zico Kolter, Nicolas Flammarion, Maksym Andriushchenko
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:50Z; SHA-256 26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:50Z; SHA-256 26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb)
 
 ---
 
@@ -863,6 +1727,150 @@ Xinyuan Wang, Bowen Wang, Dunjie Lu, Junlin Yang, Tianbao Xie, Junli Wang, Jiaqi
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:50Z; SHA-256 26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:50Z; SHA-256 26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb)
+
+---
+
+# UI-Venus Technical Report: Building High-performance UI Agents with RFT
+
+Studies screenshot-based GUI grounding and navigation using curated interaction data, reward design, and reinforcement fine-tuning.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-10833/
+- Original source: https://arxiv.org/abs/2508.10833
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: cross-platform
+- Topics: grounding, reinforcement-learning
+- Evidence checked: 2026-10-16T06:32:52Z
+- ID: arxiv:2508.10833
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Zhangxuan Gu, Zhengwen Zeng, Zhenyu Xu, Xingran Zhou, Shuheng Shen, Yunfei Liu, Beitong Zhou, Changhua Meng, Tianyu Xia, Weizhi Chen, Yue Wen, Jingya Dou, Fei Tang, Jinzhen Lin, Yulin Liu, Zhenlin Guo, Yichen Gong, Heng Jia, Changlong Gao, Yuan Guo, Yong Deng, Zhenyu Guo, Liang Chen, Weiqiang Wang
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2310.08588%2C2402.09205%2C2406.05720%2C2407.21075%2C2410.07166%2C2503.03743%2C2508.04037%2C2508.10833%2C2508.11360%2C2508.13024%2C2508.13186%2C2508.14104%2C2509.01619%2C2509.01720%2C2509.02322%2C2509.04198%2C2509.07764%2C2509.21823%2C2509.22256%2C2509.23263%2C2509.23866%2C2509.25047%2C2509.26539%2C2510.00413%2C2510.00536%2C2510.01524%2C2510.02204%2C2510.02250%2C2510.02418%2C2510.03204%2C2510.03612%2C2510.04039%2C2510.04373%2C2510.04607%2C2510.06223%2C2510.06607%2C2510.09872%2C2510.10666%2C2510.11035%2C2510.11221%2C2510.11892%2C2510.13543%2C2510.15455%2C2510.15863%2C2510.16252%2C2510.18113%2C2510.18314%2C2510.19205%2C2510.22732%2C2511.06101&max_results=50 (retrieved 2026-10-16T06:32:52Z; SHA-256 0b730323b2ce85c39aa7d534665901a480ff06540c73f1f80832fcc0735b8789)
+- https://export.arxiv.org/api/query?id_list=2310.08588%2C2402.09205%2C2406.05720%2C2407.21075%2C2410.07166%2C2503.03743%2C2508.04037%2C2508.10833%2C2508.11360%2C2508.13024%2C2508.13186%2C2508.14104%2C2509.01619%2C2509.01720%2C2509.02322%2C2509.04198%2C2509.07764%2C2509.21823%2C2509.22256%2C2509.23263%2C2509.23866%2C2509.25047%2C2509.26539%2C2510.00413%2C2510.00536%2C2510.01524%2C2510.02204%2C2510.02250%2C2510.02418%2C2510.03204%2C2510.03612%2C2510.04039%2C2510.04373%2C2510.04607%2C2510.06223%2C2510.06607%2C2510.09872%2C2510.10666%2C2510.11035%2C2510.11221%2C2510.11892%2C2510.13543%2C2510.15455%2C2510.15863%2C2510.16252%2C2510.18113%2C2510.18314%2C2510.19205%2C2510.22732%2C2511.06101&max_results=50 (retrieved 2026-10-16T06:32:52Z; SHA-256 0b730323b2ce85c39aa7d534665901a480ff06540c73f1f80832fcc0735b8789)
+
+---
+
+# Mobile-Agent-v3: Fundamental Agents for GUI Automation
+
+Introduces GUI-Owl models and Mobile-Agent-v3 orchestration, using environment-generated trajectories to support GUI capabilities.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-15144/
+- Original source: https://arxiv.org/abs/2508.15144
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: cross-platform
+- Topics: data-generation, planning, mobile-navigation
+- Evidence checked: 2026-10-16T06:31:49Z
+- ID: arxiv:2508.15144
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Jiabo Ye, Xi Zhang, Haiyang Xu, Haowei Liu, Junyang Wang, Zhaoqing Zhu, Ziwei Zheng, Feiyu Gao, Junjie Cao, Zhengxi Lu, Jitong Liao, Qi Zheng, Fei Huang, Jingren Zhou, Ming Yan
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2506.10387%2C2506.14866%2C2506.20332%2C2507.00008%2C2507.02592%2C2507.03730%2C2507.04227%2C2507.05445%2C2507.05673%2C2507.05720%2C2507.05791%2C2507.14293%2C2507.14799%2C2507.15846%2C2507.16853%2C2507.19132%2C2507.19478%2C2507.21071%2C2507.22025%2C2507.22358%2C2507.23779%2C2508.00935%2C2508.01330%2C2508.03700%2C2508.03923%2C2508.04010%2C2508.04026%2C2508.04482%2C2508.04700%2C2508.05615%2C2508.05731%2C2508.09057%2C2508.09123%2C2508.13167%2C2508.14040%2C2508.15144%2C2508.18689%2C2508.19679%2C2508.20096%2C2509.02544%2C2509.03891%2C2509.06477%2C2509.10723%2C2509.11250%2C2509.11543%2C2509.15221%2C2509.15566%2C2509.15738%2C2509.18119%2C2510.01354&max_results=50 (retrieved 2026-10-16T06:31:49Z; SHA-256 c208e36ae75cef4b32cfcb2f8182dd4aaaa218e3119bb3d4a2c20a5832f8b1ee)
+- https://export.arxiv.org/api/query?id_list=2506.10387%2C2506.14866%2C2506.20332%2C2507.00008%2C2507.02592%2C2507.03730%2C2507.04227%2C2507.05445%2C2507.05673%2C2507.05720%2C2507.05791%2C2507.14293%2C2507.14799%2C2507.15846%2C2507.16853%2C2507.19132%2C2507.19478%2C2507.21071%2C2507.22025%2C2507.22358%2C2507.23779%2C2508.00935%2C2508.01330%2C2508.03700%2C2508.03923%2C2508.04010%2C2508.04026%2C2508.04482%2C2508.04700%2C2508.05615%2C2508.05731%2C2508.09057%2C2508.09123%2C2508.13167%2C2508.14040%2C2508.15144%2C2508.18689%2C2508.19679%2C2508.20096%2C2509.02544%2C2509.03891%2C2509.06477%2C2509.10723%2C2509.11250%2C2509.11543%2C2509.15221%2C2509.15566%2C2509.15738%2C2509.18119%2C2510.01354&max_results=50 (retrieved 2026-10-16T06:31:49Z; SHA-256 c208e36ae75cef4b32cfcb2f8182dd4aaaa218e3119bb3d4a2c20a5832f8b1ee)
+
+---
+
+# GUI-360$^\circ$: A Comprehensive Dataset and Benchmark for Computer-Using Agents
+
+Collects Windows application trajectories with screenshots and action traces for grounding, screen parsing, and action prediction.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2511-04307/
+- Original source: https://arxiv.org/abs/2511.04307
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: windows
+- Topics: data-generation, grounding, evaluation
+- Evidence checked: 2026-10-16T06:36:47Z
+- ID: arxiv:2511.04307
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Jian Mu, Chaoyun Zhang, Chiming Ni, Lu Wang, Bo Qiao, Kartik Mathur, Qianhui Wu, Yuhang Xie, Xiaojun Ma, Mengyu Zhou, Si Qin, Liqun Li, Yu Kang, Minghua Ma, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=500&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:47Z; SHA-256 ae98e77b8bb125e45277aacec768a047e7bb0e13f33ca9ff6ca7c19e29e56cca)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=500&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:47Z; SHA-256 ae98e77b8bb125e45277aacec768a047e7bb0e13f33ca9ff6ca7c19e29e56cca)
+
+---
+
+# Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents
+
+Presents GUI-Owl-1.5 variants and a hybrid data pipeline for multimodal GUI interaction, tool use, memory, and multi-platform tasks.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-16855/
+- Original source: https://arxiv.org/abs/2602.16855
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: cross-platform
+- Topics: tool-integration, memory, reinforcement-learning
+- Evidence checked: 2026-10-16T06:36:43Z
+- ID: arxiv:2602.16855
+
+## Limitations
+
+Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
+
+## Authors
+
+Haiyang Xu, Xi Zhang, Haowei Liu, Junyang Wang, Zhaozai Zhu, Shengjie Zhou, Xuhao Hu, Feiyu Gao, Junjie Cao, Zihua Wang, Zhiyuan Chen, Jitong Liao, Qi Zheng, Jiahui Zeng, Ze Xu, Shuai Bai, Junyang Lin, Jingren Zhou, Ming Yan
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=400&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:43Z; SHA-256 c432f419481a105a8ce71174ec4aea23c4f0d36ddf89cfe1d0974fa349f6cb59)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=400&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:43Z; SHA-256 c432f419481a105a8ce71174ec4aea23c4f0d36ddf89cfe1d0974fa349f6cb59)
 
 ---
 
@@ -2794,6 +3802,37 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/MadeAgents/mobile-use/HEAD/README.md (retrieved 2026-10-16T06:36:03Z; SHA-256 101595fa1f62d30271b0560f8aaa54286d7f6fc006e2aa9d8b73086583b27656)
 - https://raw.githubusercontent.com/MadeAgents/mobile-use/HEAD/LICENSE (retrieved 2026-10-16T06:42:04Z; SHA-256 806f2d2c84a015f221f39691c95f7bdd0ff18f134e563d1155caa787076653fe)
+
+---
+
+# SafeArena
+
+Web-agent benchmark pairing benign and harmful tasks to study deliberate misuse risks.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-mcgill-nlp-safearena/
+- Original source: https://github.com/McGill-NLP/safearena
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: safety-security, evaluation
+- Evidence checked: 2026-10-16T09:36:33Z
+- ID: github:mcgill-nlp/safearena
+
+## Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/McGill-NLP/safearena/HEAD/README.md (retrieved 2026-10-16T09:36:33Z; SHA-256 ae50121aa60ac26b32d8d6ad6f578f9091a81a3cb9ca28b98050bddee16c929a)
 
 ---
 
@@ -4920,6 +5959,38 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+# OS-Harm
+
+Benchmark for safety of computer-use agents across misuse, prompt injection, and unintended model behavior.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-tml-epfl-os-harm/
+- Original source: https://github.com/tml-epfl/os-harm
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: safety-security, evaluation
+- Evidence checked: 2026-10-16T09:36:33Z
+- ID: github:tml-epfl/os-harm
+
+## Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+## License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/README.md (retrieved 2026-10-16T09:36:33Z; SHA-256 d001158f58ac37b01c8470224db1567a52feb8010877305f7966637cf7400706)
+- https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/LICENSE (retrieved 2026-10-16T09:39:34Z; SHA-256 7c3ab1eeeb073d92238ecb65ffaebe58ab5922929b115a7c0b64eb4f9a9afc2f)
+
+---
+
 # Cua
 
 Infrastructure and libraries for computer-use agents.
@@ -5341,14 +6412,14 @@ Mobile device agent family using visual interface interaction.
 - Kind: agent
 - Review: curated
 - Scope: core
-- Environments: android
+- Environments: android, cross-platform
 - Topics: mobile-navigation, planning
 - Evidence checked: 2026-10-16T06:36:02Z
 - ID: github:x-plug/mobileagent
 
 ## Limitations
 
-Inclusion does not establish reproducibility or endorsement.
+This repository contains multiple Mobile-Agent generations. Platform coverage differs by version; use the corresponding paper and implementation instructions.
 
 ## License declarations
 
@@ -7878,6 +8949,38 @@ Dataset card declares multiple upstream licenses; do not treat the package as ha
 ## Primary evidence
 
 - https://huggingface.co/datasets/Qwen/RecreationBench/raw/main/README.md (retrieved 2026-10-16T06:50:49Z; SHA-256 79deaa899d085ece77a127d53b12ddb9edea8a796943f35b75e9acec67bcb976)
+
+---
+
+# Jedi
+
+Synthetic GUI grounding data associated with UI decomposition research and the OSWorld-G benchmark.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-e062cf1445eaee0f3ade/
+- Original source: https://huggingface.co/datasets/xlangai/Jedi
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: grounding, data-generation
+- Evidence checked: 2026-10-16T09:33:18Z
+- ID: url:e062cf1445eaee0f3ade
+
+## Limitations
+
+The dataset card requires coordinate scaling to stay aligned with the image processor. Follow the publisher recipe before using the grounding labels.
+
+## License declarations
+
+- code: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/xlangai/Jedi
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://huggingface.co/api/datasets/xlangai/Jedi (retrieved 2026-10-16T09:33:18Z; SHA-256 63ff72bea0a2cb9218093d7a5a420b39c01861aef66141433d7c56c1e0ad05ad)
+- https://huggingface.co/api/datasets/xlangai/Jedi (retrieved 2026-10-16T09:33:18Z; SHA-256 63ff72bea0a2cb9218093d7a5a420b39c01861aef66141433d7c56c1e0ad05ad)
 
 ---
 
