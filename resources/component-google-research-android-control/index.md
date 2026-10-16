@@ -16,6 +16,20 @@ Android demonstrations with high-level goals, step instructions, screenshots, an
 
 Inclusion does not establish reproducibility or endorsement.
 
+## Structured profile
+
+- formats: GZIP-compressed TFRecord
+- modalities: screenshots, accessibility trees, instructions, JSON actions
+- splits: publisher split file
+- supervision: interaction trajectories, high- and low-level action instruction
+
+### Count observations
+
+- > 15,000 demonstrations — AndroidControl collection (reported; source: https://raw.githubusercontent.com/google-research/google-research/master/android_control/README.md)
+- 833 applications — AndroidControl collection (reported; source: https://raw.githubusercontent.com/google-research/google-research/master/android_control/README.md)
+
+Step instructions can be repeated across multiple actions. Each episode has one more screenshot than action; do not count repeated step instructions as independent task goals.
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/google-research/google-research/HEAD/LICENSE

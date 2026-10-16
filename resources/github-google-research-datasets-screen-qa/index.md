@@ -16,6 +16,21 @@ Question-answering data over mobile interface screenshots.
 
 Inclusion does not establish reproducibility or endorsement.
 
+## Structured profile
+
+- formats: JSON
+- modalities: questions, answers, screen references, bounding boxes
+- splits: train, validation, test
+- supervision: screen question answering, answer grounding
+
+### Count observations
+
+- 68,951 question-answer pairs — original ScreenQA train split (reported; source: https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md)
+- 8,614 question-answer pairs — original ScreenQA validation split (reported; source: https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md)
+- 8,419 question-answer pairs — original ScreenQA test split (reported; source: https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md)
+
+All questions for a given screenshot share one split. ScreenQA Short reuses the same questions/screens; ComplexQA is a separate extension. Do not add these variants as independent original examples.
+
 ## License declarations
 
 - code: not recorded

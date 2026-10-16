@@ -1,0 +1,1462 @@
+{
+  "schema_version": 1,
+  "kind": "dataset",
+  "profile_count": 18,
+  "curated_resource_count": 43,
+  "unit": "resource profile; count observations retain their own units and populations",
+  "limitations": "Source-reviewed descriptions and reported or computed inventory counts. No performance ranking, independent reproduction, or global-completeness claim.",
+  "records": [
+    {
+      "id": "url:964d70c40bfc5ca8e1ee",
+      "name": "AgentNet",
+      "url": "https://huggingface.co/datasets/xlangai/AgentNet",
+      "environments": [
+        "desktop"
+      ],
+      "profile": {
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/xlangai/AgentNet/raw/main/README.md",
+            "population": "AgentNet collection",
+            "qualifier": "approximately",
+            "unit": "tasks",
+            "value": 22600
+          }
+        ],
+        "evidence_urls": [
+          "https://huggingface.co/datasets/xlangai/AgentNet/raw/main/README.md"
+        ],
+        "formats": [
+          "JSONL",
+          "image archives"
+        ],
+        "modalities": [
+          "screenshots",
+          "instructions",
+          "actions",
+          "generated reasoning"
+        ],
+        "notes": "The card distinguishes human task instructions from generated summaries, reasoning, reflections, and quality fields. Generated labels are not independent human quality acceptance records.",
+        "splits": [],
+        "supervision": [
+          "computer-use trajectories",
+          "synthesized reasoning"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card",
+          "declared": "mit",
+          "retrieved_at": "2026-10-16T06:38:26Z",
+          "url": "https://huggingface.co/datasets/xlangai/AgentNet"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T11:40:46Z",
+          "role": "primary",
+          "sha256": "327a77856df259db0a0c2405478f75a0d0f2bf17c51806abc7c509ad82c3ad57",
+          "supports": [
+            "details.dataset_profile"
+          ],
+          "url": "https://huggingface.co/datasets/xlangai/AgentNet/raw/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "github:yuxiangchai/amex-codebase",
+      "name": "AMEX",
+      "url": "https://github.com/YuxiangChai/AMEX-codebase",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending",
+            "population": "AMEX collection described in the paper",
+            "qualifier": "more-than",
+            "reference_url": "https://arxiv.org/abs/2407.17490",
+            "unit": "screenshots",
+            "value": 104000
+          }
+        ],
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/YuxiangChai/AMEX-codebase/HEAD/README.md",
+          "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending"
+        ],
+        "formats": [],
+        "modalities": [
+          "screenshots",
+          "element annotations",
+          "functionality descriptions",
+          "action chains"
+        ],
+        "notes": "The main repository contains companion training code. The scale and annotation levels here come from the paper, not an independent download or completeness audit.",
+        "splits": [],
+        "supervision": [
+          "element grounding",
+          "UI functionality",
+          "interaction trajectories"
+        ]
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "Apache-2.0",
+          "retrieved_at": "2026-10-16T06:42:02Z",
+          "url": "https://raw.githubusercontent.com/YuxiangChai/AMEX-codebase/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:36:01Z",
+          "role": "primary",
+          "sha256": "3184bfd612543621e57226e9079132dc8d5695339795a60366d3f6d445e13551",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.dataset_profile"
+          ],
+          "url": "https://raw.githubusercontent.com/YuxiangChai/AMEX-codebase/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:36:58Z",
+          "role": "primary",
+          "sha256": "c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249",
+          "supports": [
+            "details.dataset_profile"
+          ],
+          "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending"
+        }
+      ]
+    },
+    {
+      "id": "component:google-research/android_in_the_wild",
+      "name": "Android in the Wild",
+      "url": "https://github.com/google-research/google-research/tree/master/android_in_the_wild",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/google-research/google-research/master/android_in_the_wild/README.md",
+            "population": "sum of the five published AitW subsets",
+            "qualifier": "exact",
+            "unit": "episodes",
+            "value": 715142
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/google-research/google-research/master/android_in_the_wild/README.md",
+            "population": "sum of the five published AitW subsets",
+            "qualifier": "exact",
+            "unit": "action examples",
+            "value": 5689993
+          }
+        ],
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/google-research/google-research/master/android_in_the_wild/README.md"
+        ],
+        "formats": [
+          "GZIP-compressed TFRecord"
+        ],
+        "modalities": [
+          "screenshots",
+          "instructions",
+          "actions"
+        ],
+        "notes": "Episodes and action examples are different units. The collection combines multi-step subsets and hindsight-labeled single-step tasks; preserve subset and split choices.",
+        "splits": [],
+        "supervision": [
+          "interaction trajectories",
+          "action prediction"
+        ]
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "Apache-2.0",
+          "retrieved_at": "2026-10-16T06:42:06Z",
+          "url": "https://raw.githubusercontent.com/google-research/google-research/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:38:29Z",
+          "role": "primary",
+          "sha256": "6d8964c95db41dada1d5867e50a5ec61f6cb90595965d0e72e010b8e4a12dcb2",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.sample_count",
+            "details.sample_unit",
+            "details.example_count",
+            "details.modalities",
+            "details.access",
+            "details.download_url",
+            "details.dataset_profile"
+          ],
+          "url": "https://raw.githubusercontent.com/google-research/google-research/master/android_in_the_wild/README.md"
+        }
+      ]
+    },
+    {
+      "id": "component:google-research/android_control",
+      "name": "AndroidControl",
+      "url": "https://github.com/google-research/google-research/tree/master/android_control",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/google-research/google-research/master/android_control/README.md",
+            "population": "AndroidControl collection",
+            "qualifier": "more-than",
+            "unit": "demonstrations",
+            "value": 15000
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/google-research/google-research/master/android_control/README.md",
+            "population": "AndroidControl collection",
+            "qualifier": "exact",
+            "unit": "applications",
+            "value": 833
+          }
+        ],
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/google-research/google-research/master/android_control/README.md"
+        ],
+        "formats": [
+          "GZIP-compressed TFRecord"
+        ],
+        "modalities": [
+          "screenshots",
+          "accessibility trees",
+          "instructions",
+          "JSON actions"
+        ],
+        "notes": "Step instructions can be repeated across multiple actions. Each episode has one more screenshot than action; do not count repeated step instructions as independent task goals.",
+        "splits": [
+          "publisher split file"
+        ],
+        "supervision": [
+          "interaction trajectories",
+          "high- and low-level action instruction"
+        ]
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "Apache-2.0",
+          "retrieved_at": "2026-10-16T06:42:06Z",
+          "url": "https://raw.githubusercontent.com/google-research/google-research/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:38:29Z",
+          "role": "primary",
+          "sha256": "e4f8baa15441fb63cad07220cc5a4de177a1f785d4fe1fed5cfcbf3c3867faf1",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.sample_count",
+            "details.sample_unit",
+            "details.reported_scale",
+            "details.modalities",
+            "details.dataset_profile"
+          ],
+          "url": "https://raw.githubusercontent.com/google-research/google-research/master/android_control/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:07b65dc937756ddff4a1",
+      "name": "Aria-UI Context-aware Data",
+      "url": "https://huggingface.co/datasets/Aria-UI/Aria-UI_Context-aware_Data",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/AriaUI/Aria-UI/HEAD/README.md",
+            "population": "context-aware episode training release",
+            "qualifier": "approximately",
+            "unit": "instruction-output pairs",
+            "value": 992000
+          }
+        ],
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/AriaUI/Aria-UI/HEAD/README.md"
+        ],
+        "formats": [],
+        "modalities": [
+          "screen observations",
+          "instructions",
+          "interaction history"
+        ],
+        "notes": "The Hub card contains only licensing metadata. The project README supports the episode-training description and rounded count; archive-level quality and exact row counts remain unverified.",
+        "splits": [],
+        "supervision": [
+          "context-aware grounding"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card",
+          "declared": "apache-2.0",
+          "retrieved_at": "2026-10-16T11:11:53Z",
+          "url": "https://huggingface.co/datasets/Aria-UI/Aria-UI_Context-aware_Data"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:36:00Z",
+          "role": "primary",
+          "sha256": "a2a3c5ad115e4e2109b56686c9e0b073bcfec6d9f052a58bc92683af44933480",
+          "supports": [
+            "name",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "details.dataset_profile"
+          ],
+          "url": "https://raw.githubusercontent.com/AriaUI/Aria-UI/HEAD/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:f8566bd0394d36ed4f8e",
+      "name": "Aria-UI Data",
+      "url": "https://huggingface.co/datasets/Aria-UI/Aria-UI_Data",
+      "environments": [
+        "web",
+        "android",
+        "desktop",
+        "linux"
+      ],
+      "profile": {
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md",
+            "population": "web subset",
+            "qualifier": "approximately",
+            "unit": "instructions",
+            "value": 2900000
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md",
+            "population": "web subset",
+            "qualifier": "approximately",
+            "unit": "images",
+            "value": 173000
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md",
+            "population": "mobile subset",
+            "qualifier": "approximately",
+            "unit": "instructions",
+            "value": 1100000
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md",
+            "population": "mobile subset",
+            "qualifier": "approximately",
+            "unit": "images",
+            "value": 104000
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md",
+            "population": "desktop subset",
+            "qualifier": "approximately",
+            "unit": "instructions",
+            "value": 150000
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md",
+            "population": "desktop subset",
+            "qualifier": "approximately",
+            "unit": "images",
+            "value": 7800
+          }
+        ],
+        "evidence_urls": [
+          "https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md"
+        ],
+        "formats": [
+          "JSON annotations",
+          "image archives"
+        ],
+        "modalities": [
+          "screenshots",
+          "instructions",
+          "element captions"
+        ],
+        "notes": "The card identifies deprecated desktop files with screenshot-mapping errors and names corrected releases. Counts are rounded publisher figures for separate platform subsets; instructions and images are not interchangeable.",
+        "splits": [],
+        "supervision": [
+          "element grounding",
+          "element descriptions"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "declared": "apache-2.0",
+          "retrieved_at": "2026-10-16T10:42:13Z",
+          "url": "https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T10:42:13Z",
+          "role": "primary",
+          "sha256": "8713ca2a6b1962d5dce7da132e1135898d467053dc6b53b4463a0d43a6433bcb",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.modalities",
+            "details.download_url",
+            "details.dataset_profile"
+          ],
+          "url": "https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md"
+        },
+        {
+          "method": "huggingface_card",
+          "retrieved_at": "2026-10-16T10:42:13Z",
+          "role": "primary",
+          "sha256": "8713ca2a6b1962d5dce7da132e1135898d467053dc6b53b4463a0d43a6433bcb",
+          "supports": [
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:79287058342289aa5d45",
+      "name": "AutoGUI v1 training data",
+      "url": "https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k",
+      "environments": [
+        "web",
+        "cross-platform"
+      ],
+      "profile": {
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md",
+            "population": "default/train in the dataset card metadata",
+            "qualifier": "exact",
+            "unit": "training rows",
+            "value": 701864
+          }
+        ],
+        "evidence_urls": [
+          "https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md"
+        ],
+        "formats": [],
+        "modalities": [
+          "screenshots",
+          "instructions",
+          "functionality labels",
+          "bounding boxes"
+        ],
+        "notes": "Rows are not unique screenshots. The card documents image-downscaling conventions that affect coordinates; preserve the device and original image-size fields.",
+        "splits": [
+          "train"
+        ],
+        "supervision": [
+          "element grounding",
+          "functionality captioning"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "declared": "cc-by-4.0",
+          "retrieved_at": "2026-10-16T10:42:13Z",
+          "url": "https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T10:42:13Z",
+          "role": "primary",
+          "sha256": "c73b46acc2ff034a443fb8dbde327de1888535267199c9fb1819adf66898f1d7",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.sample_count",
+            "details.sample_unit",
+            "details.modalities",
+            "details.download_url",
+            "details.dataset_profile"
+          ],
+          "url": "https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md"
+        },
+        {
+          "method": "huggingface_card",
+          "retrieved_at": "2026-10-16T10:42:13Z",
+          "role": "primary",
+          "sha256": "c73b46acc2ff034a443fb8dbde327de1888535267199c9fb1819adf66898f1d7",
+          "supports": [
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:eadc6cba9ea46c38dd1d",
+      "name": "Dreamer V1 Data",
+      "url": "https://huggingface.co/datasets/osunlp/Dreamer-V1-Data",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "counts": [],
+        "evidence_urls": [
+          "https://huggingface.co/datasets/osunlp/Dreamer-V1-Data/raw/main/README.md"
+        ],
+        "formats": [],
+        "modalities": [
+          "images",
+          "prompts",
+          "actions",
+          "responses"
+        ],
+        "notes": "The card reports a cleaned size of 3.12M without defining the counting unit, so no sample total is inferred. The data card declares noncommercial share-alike terms, separately from the model-weight license.",
+        "splits": [],
+        "supervision": [
+          "web-world-model prediction"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "declared": "cc-by-nc-sa-4.0",
+          "retrieved_at": "2026-10-16T11:09:28Z",
+          "url": "https://huggingface.co/datasets/osunlp/Dreamer-V1-Data/raw/main/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T11:09:28Z",
+          "role": "primary",
+          "sha256": "e656246f09340fed08136cf41a8b79880e19e1397ddd176410688ddee4e6365c",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.modalities",
+            "details.download_url",
+            "details.dataset_profile"
+          ],
+          "url": "https://huggingface.co/datasets/osunlp/Dreamer-V1-Data/raw/main/README.md"
+        },
+        {
+          "method": "huggingface_card",
+          "retrieved_at": "2026-10-16T11:09:28Z",
+          "role": "primary",
+          "sha256": "e656246f09340fed08136cf41a8b79880e19e1397ddd176410688ddee4e6365c",
+          "supports": [
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/osunlp/Dreamer-V1-Data/raw/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "github:showlab/gui-action-narrator",
+      "name": "GUI-Action Narrator",
+      "url": "https://github.com/showlab/GUI-Action-Narrator",
+      "environments": [
+        "cross-platform"
+      ],
+      "profile": {
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50",
+            "population": "Act2Cap benchmark described in the paper",
+            "qualifier": "exact",
+            "reference_url": "https://arxiv.org/abs/2406.13719",
+            "unit": "video-captioning samples",
+            "value": 4189
+          }
+        ],
+        "evidence_urls": [
+          "https://github.com/showlab/GUI-Action-Narrator",
+          "https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50"
+        ],
+        "formats": [],
+        "modalities": [
+          "GUI video",
+          "action captions"
+        ],
+        "notes": "A captioning sample is not necessarily a unique video or complete task trajectory. Package layout and split sizes were not established by the inspected sources.",
+        "splits": [],
+        "supervision": [
+          "GUI action captioning"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:40:52Z",
+          "role": "primary",
+          "sha256": "379aae1a8890a0c3d3b5999589b8338338cf1ea63883c2b77df678fd3bb367a2",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.dataset_profile"
+          ],
+          "url": "https://github.com/showlab/GUI-Action-Narrator"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:31:32Z",
+          "role": "primary",
+          "sha256": "b9a83994d8ac36ccdb606a5219511f8bb35ad3948ade4f9f3e28d386221aedfb",
+          "supports": [
+            "details.dataset_profile"
+          ],
+          "url": "https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50"
+        }
+      ]
+    },
+    {
+      "id": "github:opengvlab/gui-odyssey",
+      "name": "GUI-Odyssey",
+      "url": "https://github.com/OpenGVLab/GUI-Odyssey",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/hflqf88888/GUIOdyssey/raw/main/README.md",
+            "population": "recommended hflqf88888/GUIOdyssey release",
+            "qualifier": "exact",
+            "unit": "episodes",
+            "value": 8334
+          }
+        ],
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/OpenGVLab/GUI-Odyssey/HEAD/README.md",
+          "https://huggingface.co/datasets/hflqf88888/GUIOdyssey/raw/main/README.md",
+          "https://raw.githubusercontent.com/OpenGVLab/GUI-Odyssey/HEAD/introduction.md"
+        ],
+        "formats": [
+          "JSON annotations",
+          "PNG screenshots"
+        ],
+        "modalities": [
+          "screenshots",
+          "instructions",
+          "actions",
+          "bounding boxes",
+          "step context"
+        ],
+        "notes": "The repository gives conflicting episode totals (8,334 and 8,834). This profile uses 8,334 from the specifically recommended current dataset card. No independent archive recount was performed. Coordinates are normalized to 0–1000.",
+        "splits": [
+          "random",
+          "task",
+          "device",
+          "app"
+        ],
+        "supervision": [
+          "cross-app trajectories",
+          "action grounding"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:36:01Z",
+          "role": "primary",
+          "sha256": "4585b765d7c8b3e9bb6187d36d576edde454d4c0158a6aa8b3fdbedf34c89a15",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.dataset_profile"
+          ],
+          "url": "https://raw.githubusercontent.com/OpenGVLab/GUI-Odyssey/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T11:39:52Z",
+          "role": "primary",
+          "sha256": "fd627ee0a6ee0596e0ee8147996b9a7a3436f754fc95ed63cf5f408d778b2831",
+          "supports": [
+            "details.dataset_profile"
+          ],
+          "url": "https://huggingface.co/datasets/hflqf88888/GUIOdyssey/raw/main/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T11:39:52Z",
+          "role": "primary",
+          "sha256": "78c19ee712487af60df1913f11572958564e59a1a2cc663b1b30d971855d7a28",
+          "supports": [
+            "details.dataset_profile"
+          ],
+          "url": "https://raw.githubusercontent.com/OpenGVLab/GUI-Odyssey/HEAD/introduction.md"
+        }
+      ]
+    },
+    {
+      "id": "url:511903ebfac45e6751b2",
+      "name": "GUIOdyssey — current data release",
+      "url": "https://huggingface.co/datasets/hflqf88888/GUIOdyssey",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/hflqf88888/GUIOdyssey/raw/main/README.md",
+            "population": "recommended hflqf88888/GUIOdyssey release",
+            "qualifier": "exact",
+            "unit": "episodes",
+            "value": 8334
+          }
+        ],
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/OpenGVLab/GUI-Odyssey/HEAD/README.md",
+          "https://huggingface.co/datasets/hflqf88888/GUIOdyssey/raw/main/README.md",
+          "https://raw.githubusercontent.com/OpenGVLab/GUI-Odyssey/HEAD/introduction.md"
+        ],
+        "formats": [
+          "JSON annotations",
+          "PNG screenshots"
+        ],
+        "modalities": [
+          "screenshots",
+          "instructions",
+          "actions",
+          "bounding boxes",
+          "step context"
+        ],
+        "notes": "The repository gives conflicting episode totals (8,334 and 8,834). This profile uses 8,334 from the specifically recommended current dataset card. No independent archive recount was performed. Coordinates are normalized to 0–1000.",
+        "splits": [
+          "random",
+          "task",
+          "device",
+          "app"
+        ],
+        "supervision": [
+          "cross-app trajectories",
+          "action grounding"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "declared": "cc-by-4.0",
+          "retrieved_at": "2026-10-16T11:39:52Z",
+          "url": "https://huggingface.co/datasets/hflqf88888/GUIOdyssey/raw/main/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T11:39:52Z",
+          "role": "primary",
+          "sha256": "fd627ee0a6ee0596e0ee8147996b9a7a3436f754fc95ed63cf5f408d778b2831",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details"
+          ],
+          "url": "https://huggingface.co/datasets/hflqf88888/GUIOdyssey/raw/main/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:36:01Z",
+          "role": "primary",
+          "sha256": "4585b765d7c8b3e9bb6187d36d576edde454d4c0158a6aa8b3fdbedf34c89a15",
+          "supports": [
+            "details.dataset_profile"
+          ],
+          "url": "https://raw.githubusercontent.com/OpenGVLab/GUI-Odyssey/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T11:39:52Z",
+          "role": "primary",
+          "sha256": "78c19ee712487af60df1913f11572958564e59a1a2cc663b1b30d971855d7a28",
+          "supports": [
+            "details.dataset_profile"
+          ],
+          "url": "https://raw.githubusercontent.com/OpenGVLab/GUI-Odyssey/HEAD/introduction.md"
+        },
+        {
+          "method": "huggingface_card",
+          "retrieved_at": "2026-10-16T11:39:52Z",
+          "role": "primary",
+          "sha256": "fd627ee0a6ee0596e0ee8147996b9a7a3436f754fc95ed63cf5f408d778b2831",
+          "supports": [
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/hflqf88888/GUIOdyssey/raw/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "github:aburns4/motif",
+      "name": "MoTIF",
+      "url": "https://github.com/aburns4/MoTIF",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "counts": [],
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/aburns4/MoTIF/HEAD/README.md"
+        ],
+        "formats": [
+          "JSON metadata",
+          "screen images"
+        ],
+        "modalities": [
+          "screenshots",
+          "view hierarchies",
+          "language",
+          "interaction sequences",
+          "feasibility labels"
+        ],
+        "notes": "The raw collection mixes action, language, exploration, and unusable/other traces. These groups have different annotation coverage; not every raw trace is a valid task demonstration.",
+        "splits": [],
+        "supervision": [
+          "interaction trajectories",
+          "task feasibility"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:36:01Z",
+          "role": "primary",
+          "sha256": "4b2f5a23dc28e96b671272380b953e7fabaf34f4b1e83f3513643846718e3389",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.dataset_profile"
+          ],
+          "url": "https://raw.githubusercontent.com/aburns4/MoTIF/HEAD/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:0fdeb1cf5f49f84820e6",
+      "name": "OS-Atlas Data",
+      "url": "https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data",
+      "environments": [
+        "cross-platform"
+      ],
+      "profile": {
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data/raw/main/README.md",
+            "population": "SeeClick-derived web subset",
+            "qualifier": "more-than",
+            "unit": "screenshots",
+            "value": 270000
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data/raw/main/README.md",
+            "population": "SeeClick-derived web subset",
+            "qualifier": "more-than",
+            "unit": "UI elements",
+            "value": 3000000
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data/raw/main/README.md",
+            "population": "FineWeb-derived subset",
+            "qualifier": "at-least",
+            "unit": "images",
+            "value": 1600000
+          }
+        ],
+        "evidence_urls": [
+          "https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data/raw/main/README.md"
+        ],
+        "formats": [
+          "JSON annotations",
+          "image archives"
+        ],
+        "modalities": [
+          "screenshots",
+          "referring expressions",
+          "bounding boxes"
+        ],
+        "notes": "These are subset-specific counts, not a total for the full OS-Atlas release. Raw boxes use 0–1 coordinates; the documented training wrapper scales them to 0–1000.",
+        "splits": [],
+        "supervision": [
+          "element grounding"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card",
+          "declared": "apache-2.0",
+          "retrieved_at": "2026-10-16T06:38:26Z",
+          "url": "https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T11:40:46Z",
+          "role": "primary",
+          "sha256": "19f28b4bc0798e28180b968010c0f7c8dfed2dbfb24b122b958476b871d2e4fd",
+          "supports": [
+            "details.dataset_profile"
+          ],
+          "url": "https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data/raw/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "github:google-research-datasets/screen2words",
+      "name": "Screen2Words",
+      "url": "https://github.com/google-research-datasets/screen2words",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/google-research-datasets/screen2words/HEAD/README.md",
+            "population": "screen2words release",
+            "qualifier": "exact",
+            "unit": "summaries",
+            "value": 112085
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/google-research-datasets/screen2words/HEAD/README.md",
+            "population": "RICO screens referenced by screen2words",
+            "qualifier": "exact",
+            "unit": "screens",
+            "value": 22417
+          }
+        ],
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/google-research-datasets/screen2words/HEAD/README.md"
+        ],
+        "formats": [
+          "CSV"
+        ],
+        "modalities": [
+          "text summaries",
+          "RICO screen references"
+        ],
+        "notes": "Multiple summaries describe one screen. The repository provides annotations and split files; use the referenced RICO assets for screenshots.",
+        "splits": [
+          "train",
+          "dev",
+          "test"
+        ],
+        "supervision": [
+          "screen summarization"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:36:01Z",
+          "role": "primary",
+          "sha256": "8be66dc5a3907e0e84993a66679416d928ed1a32aae70db8bb0e0f771c7a8715",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.sample_count",
+            "details.sample_unit",
+            "details.screen_count",
+            "details.modalities",
+            "details.dataset_profile"
+          ],
+          "url": "https://raw.githubusercontent.com/google-research-datasets/screen2words/HEAD/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:fe43af1801032be708cc",
+      "name": "ScreenDrag",
+      "url": "https://huggingface.co/datasets/h-siyuan/ScreenDrag",
+      "environments": [
+        "desktop"
+      ],
+      "profile": {
+        "counts": [],
+        "evidence_urls": [
+          "https://huggingface.co/datasets/h-siyuan/ScreenDrag/raw/main/README.md"
+        ],
+        "formats": [
+          "Parquet",
+          "episode files"
+        ],
+        "modalities": [
+          "screen images",
+          "instructions",
+          "previous state",
+          "continuous actions"
+        ],
+        "notes": "Raw and Parquet folders are alternative views of the same data. Each sample describes a dragging task over multiple timesteps; action vectors encode button state and coordinates.",
+        "splits": [
+          "train",
+          "test"
+        ],
+        "supervision": [
+          "continuous GUI dragging"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T11:12:56Z",
+          "role": "primary",
+          "sha256": "39c7c028f7ef5ca5c75f79b59a107c7e25444776095a2a08bb7535c4f523f7fa",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.modalities",
+            "details.download_url",
+            "details.dataset_profile"
+          ],
+          "url": "https://huggingface.co/datasets/h-siyuan/ScreenDrag/raw/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "github:google-research-datasets/screen_qa",
+      "name": "ScreenQA",
+      "url": "https://github.com/google-research-datasets/screen_qa",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md",
+            "population": "original ScreenQA train split",
+            "qualifier": "exact",
+            "unit": "question-answer pairs",
+            "value": 68951
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md",
+            "population": "original ScreenQA validation split",
+            "qualifier": "exact",
+            "unit": "question-answer pairs",
+            "value": 8614
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md",
+            "population": "original ScreenQA test split",
+            "qualifier": "exact",
+            "unit": "question-answer pairs",
+            "value": 8419
+          }
+        ],
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md"
+        ],
+        "formats": [
+          "JSON"
+        ],
+        "modalities": [
+          "questions",
+          "answers",
+          "screen references",
+          "bounding boxes"
+        ],
+        "notes": "All questions for a given screenshot share one split. ScreenQA Short reuses the same questions/screens; ComplexQA is a separate extension. Do not add these variants as independent original examples.",
+        "splits": [
+          "train",
+          "validation",
+          "test"
+        ],
+        "supervision": [
+          "screen question answering",
+          "answer grounding"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:36:01Z",
+          "role": "primary",
+          "sha256": "7d1bfe7d6eddd5d3fc4c33d4814de3cabf7a6b6fd3d3f85ba4c2b33036bf8867",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.dataset_profile"
+          ],
+          "url": "https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:c79e152e6f7af1a9efed",
+      "name": "ScreenSpot-Pro data",
+      "url": "https://huggingface.co/datasets/likaixin/ScreenSpot-Pro",
+      "environments": [
+        "desktop",
+        "windows",
+        "macos",
+        "linux"
+      ],
+      "profile": {
+        "counts": [
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md",
+            "population": "sum of icon/text counts in the published card table",
+            "qualifier": "exact",
+            "unit": "target annotations",
+            "value": 1581
+          }
+        ],
+        "evidence_urls": [
+          "https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md",
+          "https://raw.githubusercontent.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding/HEAD/eval_screenspot_pro.py"
+        ],
+        "formats": [
+          "JSON annotations",
+          "screen images"
+        ],
+        "modalities": [
+          "high-resolution screenshots",
+          "instructions",
+          "bounding boxes"
+        ],
+        "notes": "Counts describe target annotations, not unique screenshots or expanded language/style variants. The evaluation code can reuse a target across configurations.",
+        "splits": [],
+        "supervision": [
+          "GUI grounding"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "declared": "mit",
+          "retrieved_at": "2026-10-16T11:35:55Z",
+          "url": "https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T11:35:55Z",
+          "role": "primary",
+          "sha256": "76ae2231564fe84af029f8625c02d9cd7fb6cf85c5f8af1b2a2593e2107719d9",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details"
+          ],
+          "url": "https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T11:38:05Z",
+          "role": "primary",
+          "sha256": "a77c859775b33591b5619e8520c94702a53a1f9a29ada93e66744dbe23afe9dc",
+          "supports": [
+            "details.dataset_profile"
+          ],
+          "url": "https://raw.githubusercontent.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding/HEAD/eval_screenspot_pro.py"
+        },
+        {
+          "method": "huggingface_card",
+          "retrieved_at": "2026-10-16T11:35:55Z",
+          "role": "primary",
+          "sha256": "76ae2231564fe84af029f8625c02d9cd7fb6cf85c5f8af1b2a2593e2107719d9",
+          "supports": [
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:243ab00712ba19cc2089",
+      "name": "WorkDemo-350",
+      "url": "https://huggingface.co/datasets/yuqi777/WorkDemo-350",
+      "environments": [
+        "desktop"
+      ],
+      "profile": {
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md",
+            "population": "packaged tasks/videos",
+            "qualifier": "exact",
+            "unit": "demonstrations",
+            "value": 350
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md",
+            "population": "final packaged images",
+            "qualifier": "exact",
+            "unit": "evidence images",
+            "value": 8388
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md",
+            "population": "packaged action traces",
+            "qualifier": "exact",
+            "unit": "action records",
+            "value": 11951
+          }
+        ],
+        "evidence_urls": [
+          "https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md"
+        ],
+        "formats": [
+          "MP4",
+          "PNG",
+          "JSON",
+          "JSONL",
+          "commented key logs"
+        ],
+        "modalities": [
+          "screen video",
+          "screenshots",
+          "input events",
+          "task text"
+        ],
+        "notes": "The OSWorld subset was selected post hoc using model outcomes; no train/test split is supplied. Coordinate calibration, task success, and complete anonymization are not established by package-format checks.",
+        "splits": [],
+        "supervision": [
+          "human workflow demonstrations",
+          "skill induction"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "declared": "cc-by-4.0",
+          "retrieved_at": "2026-10-16T10:47:49Z",
+          "url": "https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T10:47:49Z",
+          "role": "primary",
+          "sha256": "ae14cfe91c8c9a79edf1f306273a2ee9d1790b1dc5be0cd2d89e93df09db42f0",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.sample_count",
+            "details.sample_unit",
+            "details.modalities",
+            "details.download_url",
+            "details.dataset_profile"
+          ],
+          "url": "https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md"
+        },
+        {
+          "method": "huggingface_card",
+          "retrieved_at": "2026-10-16T10:47:49Z",
+          "role": "primary",
+          "sha256": "ae14cfe91c8c9a79edf1f306273a2ee9d1790b1dc5be0cd2d89e93df09db42f0",
+          "supports": [
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md"
+        }
+      ]
+    }
+  ]
+}

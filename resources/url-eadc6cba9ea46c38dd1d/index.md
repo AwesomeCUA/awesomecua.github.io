@@ -16,6 +16,19 @@ Web-world-model training data with prompts, images, action descriptions, and res
 
 The card reports a cleaned size of 3.12M without explicitly defining its counting unit. The catalog leaves the exact sample count unknown. Its data license differs from the model-weight license.
 
+## Structured profile
+
+- formats: not recorded
+- modalities: images, prompts, actions, responses
+- splits: not recorded
+- supervision: web-world-model prediction
+
+### Count observations
+
+No count recorded.
+
+The card reports a cleaned size of 3.12M without defining the counting unit, so no sample total is inferred. The data card declares noncommercial share-alike terms, separately from the model-weight license.
+
 ## License declarations
 
 - code: not recorded

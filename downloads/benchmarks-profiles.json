@@ -1,0 +1,1304 @@
+{
+  "schema_version": 1,
+  "kind": "benchmark",
+  "profile_count": 16,
+  "curated_resource_count": 60,
+  "unit": "resource profile; count observations retain their own units and populations",
+  "limitations": "Source-reviewed descriptions and reported or computed inventory counts. No performance ranking, independent reproduction, or global-completeness claim.",
+  "records": [
+    {
+      "id": "github:google-research/android_world",
+      "name": "AndroidWorld",
+      "url": "https://github.com/google-research/android_world",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "actions": [
+          "Android device interactions"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md",
+            "population": "parameterized AndroidWorld tasks",
+            "qualifier": "exact",
+            "unit": "task definitions",
+            "value": 116
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md",
+            "population": "documented AndroidWorld app set",
+            "qualifier": "exact",
+            "unit": "applications",
+            "value": 20
+          }
+        ],
+        "evaluation": "Programmatic task-specific initialization, system-state success checks, and teardown.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md",
+          "https://export.arxiv.org/api/query?id_list=2403.03186%2C2403.03788%2C2403.07718%2C2403.10170%2C2403.11905%2C2403.16971%2C2403.17918%2C2403.20271%2C2404.01549%2C2404.01744%2C2404.02475%2C2404.03648%2C2404.05427%2C2404.05719%2C2404.05955%2C2404.06474%2C2404.07972%2C2404.08755%2C2404.08860%2C2404.08948%2C2404.09992%2C2404.10887%2C2404.11459%2C2404.16006%2C2404.16048%2C2404.16054%2C2404.16660%2C2404.18074%2C2404.19296%2C2405.00516%2C2405.11120%2C2405.12842%2C2405.14573%2C2405.14751%2C2405.15793%2C2405.16247%2C2405.20309%2C2406.01014%2C2406.01623%2C2406.03679%2C2406.06947%2C2406.07822%2C2406.08184%2C2406.08340%2C2406.08451%2C2406.10227%2C2406.10819%2C2406.11317%2C2406.11896%2C2406.12373&max_results=50"
+        ],
+        "focus": [
+          "mobile task completion"
+        ],
+        "notes": "Random parameters produce many instances from the same task definitions. Preserve seeds and parameterization; 116 is not a count of all possible task instances.",
+        "observations": [
+          "screenshots",
+          "accessibility information"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "Apache-2.0",
+          "retrieved_at": "2026-10-16T06:41:57Z",
+          "url": "https://raw.githubusercontent.com/google-research/android_world/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:35:57Z",
+          "role": "primary",
+          "sha256": "93201de5e21f2b12283a75b1e2c357781b2e6cc27eab20cc7dd7aa0f5919d839",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.task_count",
+            "details.task_unit",
+            "details.metrics",
+            "details.evaluation_type",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:31:28Z",
+          "role": "primary",
+          "sha256": "be244bfae7f89ef9449b69d85aac44295eb7b5f7e5e1bbedd76df312696676a7",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://export.arxiv.org/api/query?id_list=2403.03186%2C2403.03788%2C2403.07718%2C2403.10170%2C2403.11905%2C2403.16971%2C2403.17918%2C2403.20271%2C2404.01549%2C2404.01744%2C2404.02475%2C2404.03648%2C2404.05427%2C2404.05719%2C2404.05955%2C2404.06474%2C2404.07972%2C2404.08755%2C2404.08860%2C2404.08948%2C2404.09992%2C2404.10887%2C2404.11459%2C2404.16006%2C2404.16048%2C2404.16054%2C2404.16660%2C2404.18074%2C2404.19296%2C2405.00516%2C2405.11120%2C2405.12842%2C2405.14573%2C2405.14751%2C2405.15793%2C2405.16247%2C2405.20309%2C2406.01014%2C2406.01623%2C2406.03679%2C2406.06947%2C2406.07822%2C2406.08184%2C2406.08340%2C2406.08451%2C2406.10227%2C2406.10819%2C2406.11317%2C2406.11896%2C2406.12373&max_results=50"
+        }
+      ]
+    },
+    {
+      "id": "github:acrab-agentic-labs/appsim",
+      "name": "AppSim-Bench",
+      "url": "https://github.com/Acrab-Agentic-Labs/AppSim",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "actions": [
+          "mobile GUI operations"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending",
+            "population": "AppSim-Bench paper-described release",
+            "qualifier": "exact",
+            "reference_url": "https://arxiv.org/abs/2609.07712",
+            "unit": "tasks",
+            "value": 557
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim/HEAD/README.md",
+            "population": "published simulated app set",
+            "qualifier": "exact",
+            "unit": "applications",
+            "value": 17
+          }
+        ],
+        "evaluation": "Controlled backend data and outcome-based task verification.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim/HEAD/README.md",
+          "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending"
+        ],
+        "focus": [
+          "mobile task completion"
+        ],
+        "notes": "Use the simulated apps and controlled backend state supplied by the benchmark. Desktop host instructions are not the platform being evaluated.",
+        "observations": [
+          "mobile interfaces"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T10:42:12Z",
+          "role": "primary",
+          "sha256": "12dc2afe339c1ed66e4a6a4ccf5ae13d27ce32f452960341529a4b9016f69059",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:36:32Z",
+          "role": "primary",
+          "sha256": "13d3fb5811d203f2e6b80eb45d30ebc0b3cfefd88e2034ffa3b1b80687bef285",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending"
+        }
+      ]
+    },
+    {
+      "id": "github:stonybrooknlp/appworld",
+      "name": "AppWorld",
+      "url": "https://github.com/StonyBrookNLP/appworld",
+      "environments": [
+        "unspecified"
+      ],
+      "profile": {
+        "actions": [
+          "Python code",
+          "application API calls"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50",
+            "population": "original AppWorld benchmark (2024 paper)",
+            "qualifier": "exact",
+            "reference_url": "https://arxiv.org/abs/2407.18901",
+            "unit": "tasks",
+            "value": 750
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50",
+            "population": "original AppWorld environment (2024 paper)",
+            "qualifier": "exact",
+            "reference_url": "https://arxiv.org/abs/2407.18901",
+            "unit": "applications",
+            "value": 9
+          }
+        ],
+        "evaluation": "State-based unit tests check task outcomes and unintended changes.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/stonybrooknlp/appworld/HEAD/README.md",
+          "https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50"
+        ],
+        "focus": [
+          "interactive coding",
+          "cross-app tool use"
+        ],
+        "notes": "This is an adjacent API/coding benchmark, not a screenshot-only task suite. Preserve the named release; task counts here refer to the original paper.",
+        "observations": [
+          "API documentation",
+          "execution feedback"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "Apache-2.0",
+          "retrieved_at": "2026-10-16T10:48:42Z",
+          "url": "https://raw.githubusercontent.com/StonyBrookNLP/appworld/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T10:45:03Z",
+          "role": "primary",
+          "sha256": "f4049141b6e520217395b7ccd9f27048c8e0f90331690dcbef300d2bc4ff7bdd",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/stonybrooknlp/appworld/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:31:32Z",
+          "role": "primary",
+          "sha256": "b9a83994d8ac36ccdb606a5219511f8bb35ad3948ade4f9f3e28d386221aedfb",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50"
+        }
+      ]
+    },
+    {
+      "id": "github:camel-ai/crab",
+      "name": "CRAB",
+      "url": "https://github.com/camel-ai/crab",
+      "environments": [
+        "desktop",
+        "android"
+      ],
+      "profile": {
+        "actions": [
+          "Python-defined environment actions"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50",
+            "population": "CRAB Benchmark-v0 (paper)",
+            "qualifier": "exact",
+            "reference_url": "https://arxiv.org/abs/2407.01511",
+            "unit": "tasks",
+            "value": 120
+          }
+        ],
+        "evaluation": "Graph-based evaluators measure progress through task requirements.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/camel-ai/crab/HEAD/README.md",
+          "https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50"
+        ],
+        "focus": [
+          "cross-environment tasks"
+        ],
+        "notes": "CRAB is also an extensible framework. The 120-task count belongs to Benchmark-v0, not every environment that can be created with the framework.",
+        "observations": [],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:35:58Z",
+          "role": "primary",
+          "sha256": "7b894c5474ba78294427cfd4ef0eea8cb22d76dfa0c2e8c7f01e31ad927064e9",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/camel-ai/crab/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:31:32Z",
+          "role": "primary",
+          "sha256": "b9a83994d8ac36ccdb606a5219511f8bb35ad3948ade4f9f3e28d386221aedfb",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50"
+        }
+      ]
+    },
+    {
+      "id": "github:ljang0/iosworld",
+      "name": "iOSWorld",
+      "url": "https://github.com/ljang0/iOSWorld",
+      "environments": [
+        "ios"
+      ],
+      "profile": {
+        "actions": [
+          "touch actions",
+          "MCP tools (optional)"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/ljang0/iOSWorld/HEAD/README.md",
+            "population": "tasks.json benchmark",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 133
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/ljang0/iOSWorld/HEAD/README.md",
+            "population": "bundled SwiftUI apps",
+            "qualifier": "exact",
+            "unit": "applications",
+            "value": 26
+          }
+        ],
+        "evaluation": "Rubric satisfaction per task; full-task pass requires every criterion to be satisfied.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/ljang0/iOSWorld/HEAD/README.md"
+        ],
+        "focus": [
+          "personalized phone tasks",
+          "cross-app workflows"
+        ],
+        "notes": "Vision-only, vision-plus-XML, and MCP modes expose different information and tools. The documented default evaluator is model-based; compare the same mode and judge.",
+        "observations": [
+          "screenshots",
+          "accessibility XML (optional)"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "Apache-2.0",
+          "retrieved_at": "2026-10-16T10:48:41Z",
+          "url": "https://raw.githubusercontent.com/ljang0/iOSWorld/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T10:42:12Z",
+          "role": "primary",
+          "sha256": "706f9d770b65a1238e56f74f7dd5089c7756cc88e0ac09d80c7b2b3085a09b27",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.task_count",
+            "details.metrics",
+            "details.evaluation_type",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/ljang0/iOSWorld/HEAD/README.md"
+        }
+      ]
+    },
+    {
+      "id": "github:jetastra/macagentbench",
+      "name": "MacAgentBench",
+      "url": "https://github.com/JetAstra/MacAgentBench",
+      "environments": [
+        "desktop",
+        "macos"
+      ],
+      "profile": {
+        "actions": [
+          "GUI interactions",
+          "command-line operations"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/JetAstra/MacAgentBench/HEAD/README.md",
+            "population": "documented MacAgentBench suite",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 676
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/JetAstra/MacAgentBench/HEAD/README.md",
+            "population": "documented application coverage",
+            "qualifier": "exact",
+            "unit": "applications",
+            "value": 25
+          }
+        ],
+        "evaluation": "Deterministic rule-based evaluators with intermediate checkpoints.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/JetAstra/MacAgentBench/HEAD/README.md",
+          "https://export.arxiv.org/api/query?id_list=2605.06761%2C2605.07110%2C2605.07134%2C2605.09497%2C2605.11212%2C2605.12481%2C2605.12501%2C2605.12549%2C2605.13631%2C2605.14290%2C2605.14747%2C2605.15030%2C2605.15542%2C2605.15777%2C2605.16024%2C2605.16116%2C2605.16402%2C2605.17320%2C2605.18048%2C2605.18652%2C2605.18758%2C2605.19260%2C2605.19769%2C2605.21470%2C2605.25160%2C2605.25624%2C2605.25707%2C2605.26114%2C2605.27761%2C2605.28116%2C2605.28534%2C2605.28646%2C2605.28775%2C2605.29119%2C2605.29324%2C2605.29447%2C2605.29486%2C2605.29534%2C2605.29615%2C2606.06322%2C2606.09426%2C2606.11042%2C2606.22557%2C2606.23189%2C2606.24551%2C2608.17659%2C2609.22000%2C2609.34139&max_results=48"
+        ],
+        "focus": [
+          "macOS task completion",
+          "cross-application workflows"
+        ],
+        "notes": "The benchmark evaluates multiple agent frameworks and GUI/CLI workflows. Framework skills and interfaces affect the task setting; the inspected README does not define one universal observation representation.",
+        "observations": [],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "MIT",
+          "retrieved_at": "2026-10-16T06:41:59Z",
+          "url": "https://raw.githubusercontent.com/JetAstra/MacAgentBench/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:35:59Z",
+          "role": "primary",
+          "sha256": "f1f8c0cd5d984e4026abea858b54f0f1427c018cad7e75322e744f1e070225a9",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/JetAstra/MacAgentBench/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:32:03Z",
+          "role": "primary",
+          "sha256": "2adad07a9ec7189aea25e48c76fa28206eda97f8974d5745cadda9529103bb1a",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://export.arxiv.org/api/query?id_list=2605.06761%2C2605.07110%2C2605.07134%2C2605.09497%2C2605.11212%2C2605.12481%2C2605.12501%2C2605.12549%2C2605.13631%2C2605.14290%2C2605.14747%2C2605.15030%2C2605.15542%2C2605.15777%2C2605.16024%2C2605.16116%2C2605.16402%2C2605.17320%2C2605.18048%2C2605.18652%2C2605.18758%2C2605.19260%2C2605.19769%2C2605.21470%2C2605.25160%2C2605.25624%2C2605.25707%2C2605.26114%2C2605.27761%2C2605.28116%2C2605.28534%2C2605.28646%2C2605.28775%2C2605.29119%2C2605.29324%2C2605.29447%2C2605.29486%2C2605.29534%2C2605.29615%2C2606.06322%2C2606.09426%2C2606.11042%2C2606.22557%2C2606.23189%2C2606.24551%2C2608.17659%2C2609.22000%2C2609.34139&max_results=48"
+        }
+      ]
+    },
+    {
+      "id": "github:open-compass/mmbench-gui",
+      "name": "MMBench-GUI",
+      "url": "https://github.com/open-compass/MMBench-GUI",
+      "environments": [
+        "cross-platform"
+      ],
+      "profile": {
+        "actions": [],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/open-compass/MMBench-GUI/HEAD/README.md",
+            "population": "reported multi-level benchmark",
+            "qualifier": "more-than",
+            "unit": "tasks",
+            "value": 8000
+          }
+        ],
+        "evaluation": "Level-specific evaluation; Efficiency–Quality Area (EQA) combines navigation quality and efficiency.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/open-compass/MMBench-GUI/HEAD/README.md"
+        ],
+        "focus": [
+          "screen understanding",
+          "grounding",
+          "task automation",
+          "task collaboration"
+        ],
+        "notes": "The README documents four levels, but its release notes and TODOs distinguish released L1/L2 evaluation from pending L3/L4 integration. Do not treat every level as the same evaluator or a complete implemented interface.",
+        "observations": [
+          "screenshots"
+        ],
+        "setting": "mixed"
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:35:58Z",
+          "role": "primary",
+          "sha256": "35db9fca3ed1c1a3513924fefff4ccd224bc70cd7eb4bf8c54fcb9048851988e",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/open-compass/MMBench-GUI/HEAD/README.md"
+        }
+      ]
+    },
+    {
+      "id": "github:osu-nlp-group/online-mind2web",
+      "name": "Online Mind2Web",
+      "url": "https://github.com/OSU-NLP-Group/Online-Mind2Web",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "web interactions"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md",
+            "population": "documented Online-Mind2Web suite",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 300
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md",
+            "population": "documented site coverage",
+            "qualifier": "exact",
+            "unit": "websites",
+            "value": 136
+          }
+        ],
+        "evaluation": "Human evaluation and WebJudge-based evaluation are documented as distinct assessment paths.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md"
+        ],
+        "focus": [
+          "live-web task completion"
+        ],
+        "notes": "Tasks are actively replaced when websites or requirements become invalid. Record the task revision and submission schema; a constant headline task count does not imply an unchanged test set.",
+        "observations": [],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "MIT",
+          "retrieved_at": "2026-10-16T06:41:57Z",
+          "url": "https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:35:57Z",
+          "role": "primary",
+          "sha256": "49d7cc317fd2ba0df65abf65a0357d1fa2384e59019a96d4e24b784888599eaa",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md"
+        }
+      ]
+    },
+    {
+      "id": "github:xlang-ai/osworld",
+      "name": "OSWorld",
+      "url": "https://github.com/xlang-ai/OSWorld",
+      "environments": [
+        "desktop",
+        "linux",
+        "windows",
+        "macos"
+      ],
+      "profile": {
+        "actions": [
+          "mouse and keyboard via PyAutoGUI"
+        ],
+        "counts": [
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/evaluation_examples/test_all.json",
+            "population": "test_all.json",
+            "qualifier": "exact",
+            "unit": "task definitions",
+            "value": 369
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/evaluation_examples/test_nogdrive.json",
+            "population": "test_nogdrive.json",
+            "qualifier": "exact",
+            "unit": "task definitions",
+            "value": 361
+          }
+        ],
+        "evaluation": "Task-specific execution-based evaluators inspect application or system state.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/README.md",
+          "https://export.arxiv.org/api/query?id_list=2403.03186%2C2403.03788%2C2403.07718%2C2403.10170%2C2403.11905%2C2403.16971%2C2403.17918%2C2403.20271%2C2404.01549%2C2404.01744%2C2404.02475%2C2404.03648%2C2404.05427%2C2404.05719%2C2404.05955%2C2404.06474%2C2404.07972%2C2404.08755%2C2404.08860%2C2404.08948%2C2404.09992%2C2404.10887%2C2404.11459%2C2404.16006%2C2404.16048%2C2404.16054%2C2404.16660%2C2404.18074%2C2404.19296%2C2405.00516%2C2405.11120%2C2405.12842%2C2405.14573%2C2405.14751%2C2405.15793%2C2405.16247%2C2405.20309%2C2406.01014%2C2406.01623%2C2406.03679%2C2406.06947%2C2406.07822%2C2406.08184%2C2406.08340%2C2406.08451%2C2406.10227%2C2406.10819%2C2406.11317%2C2406.11896%2C2406.12373&max_results=50",
+          "https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/evaluation_examples/test_all.json",
+          "https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/evaluation_examples/test_nogdrive.json"
+        ],
+        "focus": [
+          "task completion",
+          "cross-application workflows"
+        ],
+        "notes": "Counts were computed from unique task identifiers in the two inspected manifests. The subsets differ; record the manifest, repository revision, agent interface, and step budget with a score.",
+        "observations": [
+          "screenshots"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "Apache-2.0",
+          "retrieved_at": "2026-10-16T06:41:57Z",
+          "url": "https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:35:57Z",
+          "role": "primary",
+          "sha256": "83b8684c2f4ac4f31996b8b4752195fcb6cc5429f89d92398177b9b721d787fc",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:31:28Z",
+          "role": "primary",
+          "sha256": "be244bfae7f89ef9449b69d85aac44295eb7b5f7e5e1bbedd76df312696676a7",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://export.arxiv.org/api/query?id_list=2403.03186%2C2403.03788%2C2403.07718%2C2403.10170%2C2403.11905%2C2403.16971%2C2403.17918%2C2403.20271%2C2404.01549%2C2404.01744%2C2404.02475%2C2404.03648%2C2404.05427%2C2404.05719%2C2404.05955%2C2404.06474%2C2404.07972%2C2404.08755%2C2404.08860%2C2404.08948%2C2404.09992%2C2404.10887%2C2404.11459%2C2404.16006%2C2404.16048%2C2404.16054%2C2404.16660%2C2404.18074%2C2404.19296%2C2405.00516%2C2405.11120%2C2405.12842%2C2405.14573%2C2405.14751%2C2405.15793%2C2405.16247%2C2405.20309%2C2406.01014%2C2406.01623%2C2406.03679%2C2406.06947%2C2406.07822%2C2406.08184%2C2406.08340%2C2406.08451%2C2406.10227%2C2406.10819%2C2406.11317%2C2406.11896%2C2406.12373&max_results=50"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T11:34:59Z",
+          "role": "primary",
+          "sha256": "9ebc5187cbd727ef26c24626820076b102fff812863c640a67c467fea9542ab5",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/evaluation_examples/test_all.json"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T11:34:59Z",
+          "role": "primary",
+          "sha256": "fcb9497e93a8986407345d3012c872c9c2fed253420730fbea64ccfcace67dbb",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/evaluation_examples/test_nogdrive.json"
+        }
+      ]
+    },
+    {
+      "id": "github:mcgill-nlp/safearena",
+      "name": "SafeArena",
+      "url": "https://github.com/McGill-NLP/safearena",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "web interactions"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending",
+            "population": "safe split",
+            "qualifier": "exact",
+            "reference_url": "https://arxiv.org/abs/2503.04957",
+            "unit": "tasks",
+            "value": 250
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending",
+            "population": "harmful split",
+            "qualifier": "exact",
+            "reference_url": "https://arxiv.org/abs/2503.04957",
+            "unit": "tasks",
+            "value": 250
+          }
+        ],
+        "evaluation": "Task outcomes and the Agent Risk Assessment categories evaluate agent behavior on benign and harmful requests.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/McGill-NLP/safearena/HEAD/README.md",
+          "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending"
+        ],
+        "focus": [
+          "web-agent safety",
+          "task completion"
+        ],
+        "notes": "Use SafeArena-specific containers rather than ordinary WebArena instances. The documented task splits require access approval; the profile does not imply unrestricted dataset access.",
+        "observations": [],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T09:36:33Z",
+          "role": "primary",
+          "sha256": "ae50121aa60ac26b32d8d6ad6f578f9091a81a3cb9ca28b98050bddee16c929a",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/McGill-NLP/safearena/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:36:54Z",
+          "role": "primary",
+          "sha256": "4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending"
+        }
+      ]
+    },
+    {
+      "id": "github:likaixin2000/screenspot-pro-gui-grounding",
+      "name": "ScreenSpot Pro",
+      "url": "https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding",
+      "environments": [
+        "desktop",
+        "windows",
+        "macos",
+        "linux"
+      ],
+      "profile": {
+        "actions": [
+          "predicted target coordinates"
+        ],
+        "counts": [
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md",
+            "population": "sum of icon/text counts in the published card table",
+            "qualifier": "exact",
+            "unit": "target annotations",
+            "value": 1581
+          }
+        ],
+        "evaluation": "For positive targets, the predicted point must fall inside the annotated bounding box.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding/HEAD/readme.md",
+          "https://raw.githubusercontent.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding/HEAD/eval_screenspot_pro.py",
+          "https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md"
+        ],
+        "focus": [
+          "GUI grounding"
+        ],
+        "notes": "Language, instruction style, and positive/negative target configuration are explicit evaluator options. This profile describes target localization, not end-to-end workflow completion. The target count is computed from the card table, not from expanded language/style evaluation instances.",
+        "observations": [
+          "high-resolution screenshots",
+          "target instructions"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "MIT",
+          "retrieved_at": "2026-10-16T06:41:57Z",
+          "url": "https://raw.githubusercontent.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:35:58Z",
+          "role": "primary",
+          "sha256": "7b64ccad9cfec24c2c9cb35f55923bff93d53729cef3cc7463c79b29bdb1de1a",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding/HEAD/readme.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T11:38:05Z",
+          "role": "primary",
+          "sha256": "a77c859775b33591b5619e8520c94702a53a1f9a29ada93e66744dbe23afe9dc",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding/HEAD/eval_screenspot_pro.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T11:35:55Z",
+          "role": "primary",
+          "sha256": "76ae2231564fe84af029f8625c02d9cd7fb6cf85c5f8af1b2a2593e2107719d9",
+          "supports": [
+            "details.benchmark_protocol",
+            "environments"
+          ],
+          "url": "https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "github:theagentcompany/theagentcompany",
+      "name": "TheAgentCompany",
+      "url": "https://github.com/TheAgentCompany/TheAgentCompany",
+      "environments": [
+        "web",
+        "desktop"
+      ],
+      "profile": {
+        "actions": [
+          "web browsing",
+          "code execution",
+          "coworker communication"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/README.md",
+            "population": "workspace images documented by the README",
+            "qualifier": "exact",
+            "unit": "task images",
+            "value": 175
+          }
+        ],
+        "evaluation": "Task-specific evaluator scripts run within the prepared workplace environment.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/README.md"
+        ],
+        "focus": [
+          "professional workflows",
+          "multi-tool tasks"
+        ],
+        "notes": "Each task is packaged as a Docker image. Record task-image and server versions; the environment includes simulated coworkers and external application state.",
+        "observations": [],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "MIT",
+          "retrieved_at": "2026-10-16T10:48:42Z",
+          "url": "https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T10:42:34Z",
+          "role": "primary",
+          "sha256": "d1646f67d49d38ef1e81bf7b5057dfc3d6f172b4c8a7413a2cc78741ccb08723",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/README.md"
+        }
+      ]
+    },
+    {
+      "id": "github:web-arena-x/visualwebarena",
+      "name": "VisualWebArena",
+      "url": "https://github.com/web-arena-x/visualwebarena",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "browser element actions"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md",
+            "population": "full VWA suite",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 910
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md",
+            "population": "one task from each template type",
+            "qualifier": "exact",
+            "unit": "human trajectories",
+            "value": 233
+          }
+        ],
+        "evaluation": "Execution-based completion checks for visually grounded web tasks.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md"
+        ],
+        "focus": [
+          "multimodal web task completion"
+        ],
+        "notes": "The 233 demonstration trajectories are not the full 910-task evaluation set. Observation modes and captioning components differ across baseline agents.",
+        "observations": [
+          "screenshots with set-of-mark annotations",
+          "caption-augmented accessibility tree"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:35:57Z",
+          "role": "primary",
+          "sha256": "182529c2fce1e41f3a2162727205c54da8b3d2381b2273d726170ee9d8cf65cc",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md"
+        }
+      ]
+    },
+    {
+      "id": "github:web-arena-x/webarena",
+      "name": "WebArena",
+      "url": "https://github.com/web-arena-x/webarena",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "browser element actions"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/web-arena-x/webarena/HEAD/README.md",
+            "population": "canonical WebArena evaluation suite",
+            "qualifier": "exact",
+            "unit": "task examples",
+            "value": 812
+          }
+        ],
+        "evaluation": "Functional correctness of completed web tasks.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/web-arena-x/webarena/HEAD/README.md",
+          "https://export.arxiv.org/api/query?id_list=1802.08802%2C1808.09132%2C2005.03776%2C2101.09465%2C2103.16057%2C2104.08560%2C2105.13231%2C2107.03374%2C2107.13731%2C2108.03353%2C2202.02312%2C2202.08137%2C2204.01691%2C2205.11029%2C2207.01206%2C2209.08199%2C2209.08655%2C2209.14927%2C2209.15099%2C2210.02663%2C2210.03629%2C2210.03945%2C2211.07615%2C2301.10165%2C2301.13280%2C2302.04761%2C2303.07280%2C2303.08774%2C2303.17491%2C2303.17580%2C2304.04370%2C2304.07061%2C2305.04091%2C2305.05662%2C2305.08144%2C2305.10601%2C2305.11854%2C2305.12487%2C2305.14257%2C2305.14325%2C2305.16504%2C2305.16653%2C2305.19308%2C2306.00245%2C2306.06070%2C2306.07863%2C2307.10088%2C2307.12856%2C2307.13854%2C2308.01990&max_results=50"
+        ],
+        "focus": [
+          "web task completion"
+        ],
+        "notes": "The canonical repository documents self-hosted websites and environment resets. Its README recommends BrowserGym/AgentLab for newer infrastructure; harness changes must be recorded.",
+        "observations": [
+          "HTML or accessibility tree"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "Apache-2.0",
+          "retrieved_at": "2026-10-16T06:41:57Z",
+          "url": "https://raw.githubusercontent.com/web-arena-x/webarena/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:35:57Z",
+          "role": "primary",
+          "sha256": "081c826497f9b7da4952771ee128c2215ec3532379db0fe9f7fcbd899d9c9287",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/web-arena-x/webarena/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:31:20Z",
+          "role": "primary",
+          "sha256": "cbe8bfcbce4170a94a6cf42de01fbe0a448e7b1d29fa75a0de877105a98ec08e",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://export.arxiv.org/api/query?id_list=1802.08802%2C1808.09132%2C2005.03776%2C2101.09465%2C2103.16057%2C2104.08560%2C2105.13231%2C2107.03374%2C2107.13731%2C2108.03353%2C2202.02312%2C2202.08137%2C2204.01691%2C2205.11029%2C2207.01206%2C2209.08199%2C2209.08655%2C2209.14927%2C2209.15099%2C2210.02663%2C2210.03629%2C2210.03945%2C2211.07615%2C2301.10165%2C2301.13280%2C2302.04761%2C2303.07280%2C2303.08774%2C2303.17491%2C2303.17580%2C2304.04370%2C2304.07061%2C2305.04091%2C2305.05662%2C2305.08144%2C2305.10601%2C2305.11854%2C2305.12487%2C2305.14257%2C2305.14325%2C2305.16504%2C2305.16653%2C2305.19308%2C2306.00245%2C2306.06070%2C2306.07863%2C2307.10088%2C2307.12856%2C2307.13854%2C2308.01990&max_results=50"
+        }
+      ]
+    },
+    {
+      "id": "github:minorjerry/webvoyager",
+      "name": "WebVoyager",
+      "url": "https://github.com/MinorJerry/WebVoyager",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "Selenium-backed browser interactions"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md",
+            "population": "WebVoyager task collection",
+            "qualifier": "exact",
+            "unit": "task queries",
+            "value": 643
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md",
+            "population": "WebVoyager task collection",
+            "qualifier": "exact",
+            "unit": "websites",
+            "value": 15
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md",
+            "population": "separate GAIA validation-derived web subset",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 90
+          }
+        ],
+        "evaluation": "The repository supplies an automated multimodal-model evaluation protocol.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md"
+        ],
+        "focus": [
+          "live-web task completion"
+        ],
+        "notes": "The GAIA-derived subset is separate from the 643 WebVoyager queries. Live sites and time-sensitive travel tasks can change; record the task snapshot and evaluation date.",
+        "observations": [
+          "webpage screenshots",
+          "textual task instructions"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "Apache-2.0",
+          "retrieved_at": "2026-10-16T06:41:57Z",
+          "url": "https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:35:57Z",
+          "role": "primary",
+          "sha256": "b5523941b2773634fdcf359b5b89bf0aca589f33ad9db30692c8b1912ed5dda5",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md"
+        }
+      ]
+    },
+    {
+      "id": "github:servicenow/workarena",
+      "name": "WorkArena",
+      "url": "https://github.com/ServiceNow/WorkArena",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "BrowserGym browser actions"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/README.md",
+            "population": "WorkArena-L1 atomic tasks",
+            "qualifier": "exact",
+            "unit": "task definitions",
+            "value": 33
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/README.md",
+            "population": "WorkArena-L1 documented instances",
+            "qualifier": "exact",
+            "unit": "task instances",
+            "value": 19912
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/README.md",
+            "population": "WorkArena++ compositional tasks",
+            "qualifier": "exact",
+            "unit": "task definitions",
+            "value": 682
+          }
+        ],
+        "evaluation": "Task-specific checks on ServiceNow workflows; levels and task configurations define different evaluations.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/README.md",
+          "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending"
+        ],
+        "focus": [
+          "enterprise web workflows",
+          "compositional tasks"
+        ],
+        "notes": "Definitions and instantiated tasks are different units. ServiceNow instance access is gated. WorkArena-L1 and WorkArena++ should be reported separately.",
+        "observations": [
+          "multimodal browser observations"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "Apache-2.0",
+          "retrieved_at": "2026-10-16T06:41:57Z",
+          "url": "https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:35:57Z",
+          "role": "primary",
+          "sha256": "834a48f0346036a0fc591a36f9eb6f513b44a2777a66afa0917f28fc63f29334",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:36:58Z",
+          "role": "primary",
+          "sha256": "c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending"
+        }
+      ]
+    }
+  ]
+}

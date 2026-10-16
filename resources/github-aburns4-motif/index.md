@@ -16,6 +16,19 @@ Mobile task demonstrations and natural-language instructions.
 
 Inclusion does not establish reproducibility or endorsement.
 
+## Structured profile
+
+- formats: JSON metadata, screen images
+- modalities: screenshots, view hierarchies, language, interaction sequences, feasibility labels
+- splits: not recorded
+- supervision: interaction trajectories, task feasibility
+
+### Count observations
+
+No count recorded.
+
+The raw collection mixes action, language, exploration, and unusable/other traces. These groups have different annotation coverage; not every raw trace is a valid task demonstration.
+
 ## License declarations
 
 - code: not recorded

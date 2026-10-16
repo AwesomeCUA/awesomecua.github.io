@@ -4,9 +4,9 @@
 
 [Website](https://awesomecua.github.io/) · [Research papers](https://awesomecua.github.io/papers/) · [中文指南](https://awesomecua.github.io/zh/) · [GitHub organization](https://github.com/AwesomeCUA)
 
-**2,025 resource records** · **501 curated** · **1,764 arXiv records** · **29 discovery documents**
+**2,027 resource records** · **523 curated** · **1,764 arXiv records** · **29 discovery documents**
 
-Evidence snapshot: 2026-10-16T11:15:55Z. Bibliography counts overlap review-state counts. Resources are not independent projects.
+Evidence snapshot: 2026-10-16T11:40:46Z. Bibliography counts overlap review-state counts. Resources are not independent projects.
 
 ## What is a computer-use agent?
 
@@ -19,7 +19,7 @@ A computer-use agent observes software interfaces, chooses and executes actions,
 | Research papers | 1,753 | [Open directory](https://awesomecua.github.io/categories/paper/) |
 | Surveys | 11 | [Open directory](https://awesomecua.github.io/categories/survey/) |
 | Models and checkpoints | 48 | [Open directory](https://awesomecua.github.io/categories/model/) |
-| Datasets | 41 | [Open directory](https://awesomecua.github.io/categories/dataset/) |
+| Datasets | 43 | [Open directory](https://awesomecua.github.io/categories/dataset/) |
 | Benchmarks | 60 | [Open directory](https://awesomecua.github.io/categories/benchmark/) |
 | Agents | 28 | [Open directory](https://awesomecua.github.io/categories/agent/) |
 | Frameworks | 28 | [Open directory](https://awesomecua.github.io/categories/framework/) |

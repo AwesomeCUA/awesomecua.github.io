@@ -20,3 +20,10 @@ Resource counts are not independent project counts. Primary-source retrieval doe
 - [Research Atom feed](https://awesomecua.github.io/feed.xml)
 
 Resource HTML pages have a companion `index.md` at the same path. This file is an optional navigation aid, not an indexing requirement or a request to rank this site.
+
+## Compare source-reviewed specifications
+
+- [Benchmark protocols](https://awesomecua.github.io/compare/benchmarks/)
+- [Dataset profiles](https://awesomecua.github.io/compare/datasets/)
+- [Benchmark profiles JSON](https://awesomecua.github.io/downloads/benchmarks-profiles.json)
+- [Dataset profiles JSON](https://awesomecua.github.io/downloads/datasets-profiles.json)

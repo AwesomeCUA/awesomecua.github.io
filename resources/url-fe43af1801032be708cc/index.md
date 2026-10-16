@@ -16,6 +16,19 @@ GUI dragging data with screen observations, prior state, and continuous pointer 
 
 Raw and Parquet folders are alternative views of the same data and should not be counted as independent samples. The inspected card did not state a license.
 
+## Structured profile
+
+- formats: Parquet, episode files
+- modalities: screen images, instructions, previous state, continuous actions
+- splits: train, test
+- supervision: continuous GUI dragging
+
+### Count observations
+
+No count recorded.
+
+Raw and Parquet folders are alternative views of the same data. Each sample describes a dragging task over multiple timesteps; action vectors encode button state and coordinates.
+
 ## License declarations
 
 - code: not recorded

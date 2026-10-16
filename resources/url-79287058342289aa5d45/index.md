@@ -16,6 +16,19 @@ Screenshot-based grounding and captioning samples with UI functionality descript
 
 The row count is not a unique-screen count. The data card documents image scaling conventions that affect coordinate interpretation.
 
+## Structured profile
+
+- formats: not recorded
+- modalities: screenshots, instructions, functionality labels, bounding boxes
+- splits: train
+- supervision: element grounding, functionality captioning
+
+### Count observations
+
+- 701,864 training rows — default/train in the dataset card metadata (reported; source: https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md)
+
+Rows are not unique screenshots. The card documents image-downscaling conventions that affect coordinates; preserve the device and original image-size fields.
+
 ## License declarations
 
 - code: not recorded

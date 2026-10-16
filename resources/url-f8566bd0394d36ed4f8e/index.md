@@ -16,6 +16,24 @@ GUI element descriptions and grounding instructions spanning web, mobile, and Ub
 
 The publisher flags original desktop files as deprecated because of screenshot-mapping issues, and identifies corrected versions in the dataset card.
 
+## Structured profile
+
+- formats: JSON annotations, image archives
+- modalities: screenshots, instructions, element captions
+- splits: not recorded
+- supervision: element grounding, element descriptions
+
+### Count observations
+
+- ≈ 2,900,000 instructions — web subset (reported; source: https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md)
+- ≈ 173,000 images — web subset (reported; source: https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md)
+- ≈ 1,100,000 instructions — mobile subset (reported; source: https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md)
+- ≈ 104,000 images — mobile subset (reported; source: https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md)
+- ≈ 150,000 instructions — desktop subset (reported; source: https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md)
+- ≈ 7,800 images — desktop subset (reported; source: https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md)
+
+The card identifies deprecated desktop files with screenshot-mapping errors and names corrected releases. Counts are rounded publisher figures for separate platform subsets; instructions and images are not interchangeable.
+
 ## License declarations
 
 - code: not recorded

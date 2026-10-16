@@ -16,6 +16,21 @@ Native iPhone-simulator benchmark with shared user data, application workflows, 
 
 Inclusion does not establish reproducibility or endorsement.
 
+## Structured profile
+
+- actions: touch actions, MCP tools (optional)
+- evaluation: Rubric satisfaction per task; full-task pass requires every criterion to be satisfied.
+- focus: personalized phone tasks, cross-app workflows
+- observations: screenshots, accessibility XML (optional)
+- setting: interactive
+
+### Count observations
+
+- 133 tasks — tasks.json benchmark (reported; source: https://raw.githubusercontent.com/ljang0/iOSWorld/HEAD/README.md)
+- 26 applications — bundled SwiftUI apps (reported; source: https://raw.githubusercontent.com/ljang0/iOSWorld/HEAD/README.md)
+
+Vision-only, vision-plus-XML, and MCP modes expose different information and tools. The documented default evaluator is model-based; compare the same mode and judge.
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/ljang0/iOSWorld/HEAD/LICENSE

@@ -16,6 +16,20 @@ Mobile screen descriptions for language-based screen understanding.
 
 Inclusion does not establish reproducibility or endorsement.
 
+## Structured profile
+
+- formats: CSV
+- modalities: text summaries, RICO screen references
+- splits: train, dev, test
+- supervision: screen summarization
+
+### Count observations
+
+- 112,085 summaries — screen2words release (reported; source: https://raw.githubusercontent.com/google-research-datasets/screen2words/HEAD/README.md)
+- 22,417 screens — RICO screens referenced by screen2words (reported; source: https://raw.githubusercontent.com/google-research-datasets/screen2words/HEAD/README.md)
+
+Multiple summaries describe one screen. The repository provides annotations and split files; use the referenced RICO assets for screenshots.
+
 ## License declarations
 
 - code: not recorded

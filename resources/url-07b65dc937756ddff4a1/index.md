@@ -16,6 +16,19 @@ Episode-based mobile GUI grounding data released with Aria-UI for incorporating 
 
 The publisher reports approximately 992K instruction-output pairs in its repository. The Hub card contains only a license declaration; schema quality and exact sample counts were not independently verified.
 
+## Structured profile
+
+- formats: not recorded
+- modalities: screen observations, instructions, interaction history
+- splits: not recorded
+- supervision: context-aware grounding
+
+### Count observations
+
+- ≈ 992,000 instruction-output pairs — context-aware episode training release (reported; source: https://raw.githubusercontent.com/AriaUI/Aria-UI/HEAD/README.md)
+
+The Hub card contains only licensing metadata. The project README supports the episode-training description and rounded count; archive-level quality and exact row counts remain unverified.
+
 ## License declarations
 
 - code: not recorded

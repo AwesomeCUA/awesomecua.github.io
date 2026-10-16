@@ -16,6 +16,22 @@ Multimodal web navigation agent and evaluation tasks on real websites.
 
 Inclusion does not establish reproducibility or endorsement.
 
+## Structured profile
+
+- actions: Selenium-backed browser interactions
+- evaluation: The repository supplies an automated multimodal-model evaluation protocol.
+- focus: live-web task completion
+- observations: webpage screenshots, textual task instructions
+- setting: interactive
+
+### Count observations
+
+- 643 task queries — WebVoyager task collection (reported; source: https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md)
+- 15 websites — WebVoyager task collection (reported; source: https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md)
+- 90 tasks — separate GAIA validation-derived web subset (reported; source: https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/README.md)
+
+The GAIA-derived subset is separate from the 643 WebVoyager queries. Live sites and time-sensitive travel tasks can change; record the task snapshot and evaluation date.
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/MinorJerry/WebVoyager/HEAD/LICENSE

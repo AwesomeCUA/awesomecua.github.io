@@ -16,6 +16,20 @@ Self-contained workplace environment for evaluating agents on professional tasks
 
 Inclusion does not establish reproducibility or endorsement.
 
+## Structured profile
+
+- actions: web browsing, code execution, coworker communication
+- evaluation: Task-specific evaluator scripts run within the prepared workplace environment.
+- focus: professional workflows, multi-tool tasks
+- observations: not recorded
+- setting: interactive
+
+### Count observations
+
+- 175 task images — workspace images documented by the README (reported; source: https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/README.md)
+
+Each task is packaged as a Docker image. Record task-image and server versions; the environment includes simulated coworkers and external application state.
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/LICENSE

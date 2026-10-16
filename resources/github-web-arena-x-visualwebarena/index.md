@@ -16,6 +16,21 @@ Visually grounded web tasks extending the WebArena evaluation setting.
 
 Inclusion does not establish reproducibility or endorsement.
 
+## Structured profile
+
+- actions: browser element actions
+- evaluation: Execution-based completion checks for visually grounded web tasks.
+- focus: multimodal web task completion
+- observations: screenshots with set-of-mark annotations, caption-augmented accessibility tree
+- setting: interactive
+
+### Count observations
+
+- 910 tasks — full VWA suite (reported; source: https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md)
+- 233 human trajectories — one task from each template type (reported; source: https://raw.githubusercontent.com/web-arena-x/visualwebarena/HEAD/README.md)
+
+The 233 demonstration trajectories are not the full 910-task evaluation set. Observation modes and captioning components differ across baseline agents.
+
 ## License declarations
 
 - code: not recorded

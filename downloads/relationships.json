@@ -1,5 +1,5 @@
 {
-  "relation_count": 172,
+  "relation_count": 173,
   "semantics": "Reviewed semantic links only. Documentation does not establish training or evaluation dependency.",
   "relations": [
     {
@@ -1113,6 +1113,14 @@
       "evidence_url": "https://huggingface.co/api/models/ByteDance-Seed/UI-TARS-1.5-7B",
       "target_id": "github:bytedance/ui-tars",
       "type": "variant_of"
+    },
+    {
+      "source_id": "url:511903ebfac45e6751b2",
+      "source_name": "GUIOdyssey — current data release",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/hflqf88888/GUIOdyssey/raw/main/README.md",
+      "target_id": "arxiv:2406.08451",
+      "type": "documented_by"
     },
     {
       "source_id": "url:57f17b7d0c18b2d7c8bf",

@@ -16,6 +16,20 @@ Multiplatform evaluation framework for GUI capabilities.
 
 Inclusion does not establish reproducibility or endorsement.
 
+## Structured profile
+
+- actions: not recorded
+- evaluation: Level-specific evaluation; Efficiency–Quality Area (EQA) combines navigation quality and efficiency.
+- focus: screen understanding, grounding, task automation, task collaboration
+- observations: screenshots
+- setting: mixed
+
+### Count observations
+
+- > 8,000 tasks — reported multi-level benchmark (reported; source: https://raw.githubusercontent.com/open-compass/MMBench-GUI/HEAD/README.md)
+
+The README documents four levels, but its release notes and TODOs distinguish released L1/L2 evaluation from pending L3/L4 integration. Do not treat every level as the same evaluator or a complete implemented interface.
+
 ## License declarations
 
 - code: not recorded

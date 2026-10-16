@@ -16,6 +16,21 @@ Live website evaluation of web agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+## Structured profile
+
+- actions: web interactions
+- evaluation: Human evaluation and WebJudge-based evaluation are documented as distinct assessment paths.
+- focus: live-web task completion
+- observations: not recorded
+- setting: interactive
+
+### Count observations
+
+- 300 tasks — documented Online-Mind2Web suite (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md)
+- 136 websites — documented site coverage (reported; source: https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md)
+
+Tasks are actively replaced when websites or requirements become invalid. Record the task revision and submission schema; a constant headline task count does not imply an unchanged test set.
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/LICENSE
