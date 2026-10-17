@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2603.12483",
+  "citation-key": "arxiv_2603_12483",
+  "type": "article",
+  "title": "Generating Expressive and Customizable Evals for Timeseries Data Analysis Agents with AgentFuel",
+  "URL": "https://arxiv.org/abs/2603.12483v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.12483",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.12483",
+    "identifiers": {
+      "arxiv": "2603.12483"
+    },
+    "first_published_at": "2026-03-12",
+    "record_updated_at": "2026-03-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8feb29743ea06d6d3d5750b50b6933345f67c30ab9cfea0fd0756ec643150f86",
+      "submitted_at": "2026-03-12T22:01:36Z",
+      "updated_at": "2026-03-12T22:01:36Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.12483v1"
+    }
+  },
+  "note": "First published: 2026-03-12; Recorded arXiv version: v1; Recorded version updated: 2026-03-12T22:01:36Z.",
+  "author": [
+    {
+      "literal": "Aadyaa Maddi"
+    },
+    {
+      "literal": "Prakhar Naval"
+    },
+    {
+      "literal": "Deepti Mande"
+    },
+    {
+      "literal": "Shane Duan"
+    },
+    {
+      "literal": "Muckai Girish"
+    },
+    {
+      "literal": "Vyas Sekar"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.12483",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,135 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "availability": "Public Web Agent source and Chrome-extension archive manifest with local setup instructions.",
+    "component_path": "real_agents/web_agent",
+    "license_review": {
+      "code": {
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/xlang-ai/OpenAgents/HEAD/LICENSE"
+        ],
+        "reason": "OpenAgents source license, scoped here to the reviewed Web Agent component; bundled third-party components retain their notices."
+      }
+    },
+    "repository_revision": "ff2e46440699af1324eb25655b622c4a131265bb"
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:30:54Z",
+      "role": "primary",
+      "sha256": "fb6ef7fdb133612467e27ffa642ccbe73cfb4bd8fb0c63c1bc629ad686694e1d",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/xlang-ai/OpenAgents/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:30:54Z",
+      "role": "primary",
+      "sha256": "b843b0519dc74bf6dbf693e0274e8ef8eb1ade94a656d3ab23faac2df4f7c9fa",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/xlang-ai/OpenAgents"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:32:05Z",
+      "role": "primary",
+      "sha256": "cf5a65d5a6b7ba2a9cf950421f6902534d523f7e8d850d1b23bd5395fd3d04c8",
+      "supports": [
+        "release_status",
+        "details.repository_revision"
+      ],
+      "url": "https://api.github.com/repos/xlang-ai/OpenAgents/git/trees/main?recursive=1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:34:10Z",
+      "role": "primary",
+      "sha256": "bcd2232e1ec4ad9ba0628cddd30031c364d62c6f112d8ecc2c24b9a4d35696af",
+      "supports": [
+        "release_status",
+        "notes",
+        "environments"
+      ],
+      "url": "https://raw.githubusercontent.com/xlang-ai/OpenAgents/HEAD/frontend/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:45:23Z",
+      "role": "primary",
+      "sha256": "5b7084cfe6149602740cf4cd85e958142aed3aea0a0a0345a82ec1618ceb7b19",
+      "supports": [
+        "summary",
+        "environments",
+        "scope"
+      ],
+      "url": "https://raw.githubusercontent.com/xlang-ai/OpenAgents/HEAD/real_agents/web_agent/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:34:09Z",
+      "role": "primary",
+      "sha256": "a86eea1027b8d92a68ded4231671379388df757992fa69d3e8fc8f8115d124fc",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/xlang-ai/OpenAgents/HEAD/LICENSE"
+    }
+  ],
+  "id": "component:xlang-ai/openagents/web_agent",
+  "identifiers": {},
+  "kind": "agent",
+  "last_verified_at": "2026-10-17T12:30:54Z",
+  "licenses": {
+    "code": {
+      "basis": "OpenAgents source license, scoped here to the reviewed Web Agent component; bundled third-party components retain their notices.",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-17T12:34:09Z",
+      "url": "https://raw.githubusercontent.com/xlang-ai/OpenAgents/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/xlang-ai/OpenAgents/tree/main/real_agents/web_agent"
+    }
+  ],
+  "name": "OpenAgents Web Agent",
+  "notes": "This component record covers real_agents/web_agent and the documented WeBot Chrome-extension integration. The broader Data Agent and Plugins Agent are not treated as GUI-control assets. The source manifest includes the agent implementation and frontend/webot_extension.zip; the archive was not downloaded or executed. The README describes Docker deployment as under development and recommends source deployment. Apache-2.0 applies to project source; third-party extension/dependency notices remain separate.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/xlang-ai/OpenAgents/HEAD/README.md",
+      "target_id": "arxiv:2310.10634",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "The OpenAgents browser-control component, connecting a Chrome extension to a web agent and local chat platform for navigating sites and completing interface tasks.",
+  "topics": [
+    "web-navigation",
+    "automation",
+    "tool-integration"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/xlang-ai/OpenAgents/tree/main/real_agents/web_agent"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2605.01462",
+  "citation-key": "arxiv_2605_01462",
+  "type": "article",
+  "title": "LocalAlign: Enabling Generalizable Prompt Injection Defense via Generation of Near-Target Adversarial Examples for Alignment Training",
+  "URL": "https://arxiv.org/abs/2605.01462v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.01462",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.01462",
+    "identifiers": {
+      "arxiv": "2605.01462"
+    },
+    "first_published_at": "2026-05-02",
+    "record_updated_at": "2026-05-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2f864419c6793502770467a53b9c6376e43e1a4145b1e9aa8dfe6bd43cae7be3",
+      "submitted_at": "2026-05-02T14:25:26Z",
+      "updated_at": "2026-05-02T14:25:26Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.01462v1"
+    }
+  },
+  "note": "First published: 2026-05-02; Recorded arXiv version: v1; Recorded version updated: 2026-05-02T14:25:26Z.",
+  "author": [
+    {
+      "literal": "Yuyang Gong"
+    },
+    {
+      "literal": "Zihao Wang"
+    },
+    {
+      "literal": "Jiawei Liu"
+    },
+    {
+      "literal": "XiaoFeng Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.01462",
+  "genre": "preprint",
+  "version": "1"
+}

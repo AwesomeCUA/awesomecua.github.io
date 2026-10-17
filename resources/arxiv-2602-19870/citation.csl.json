@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2602.19870",
+  "citation-key": "arxiv_2602_19870",
+  "type": "article",
+  "title": "ApET: Approximation-Error Guided Token Compression for Efficient VLMs",
+  "URL": "https://arxiv.org/abs/2602.19870v1",
+  "custom": {
+    "catalog_id": "arxiv:2602.19870",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.19870",
+    "identifiers": {
+      "arxiv": "2602.19870"
+    },
+    "first_published_at": "2026-02-23",
+    "record_updated_at": "2026-02-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "aaa63b3d7c3cb76acb2cef4ab5c29497c3c170f653703d1b92374f10e05f1b6b",
+      "submitted_at": "2026-02-23T14:15:37Z",
+      "updated_at": "2026-02-23T14:15:37Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2602.19870v1"
+    }
+  },
+  "note": "First published: 2026-02-23; Recorded arXiv version: v1; Recorded version updated: 2026-02-23T14:15:37Z.",
+  "author": [
+    {
+      "literal": "Qiankun Ma"
+    },
+    {
+      "literal": "Ziyao Zhang"
+    },
+    {
+      "literal": "Haofei Wang"
+    },
+    {
+      "literal": "Jie Chen"
+    },
+    {
+      "literal": "Zhen Song"
+    },
+    {
+      "literal": "Hairong Zheng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.19870",
+  "genre": "preprint",
+  "version": "1"
+}

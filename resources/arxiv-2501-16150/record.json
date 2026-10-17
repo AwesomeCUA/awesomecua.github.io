@@ -82,7 +82,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Survey of research directions in GUI or computer-use agents.",
+  "summary": "Reviews 87 computer-use agents and 33 datasets through a taxonomy of operating domain, observation and action modalities, and agent design.",
   "topics": [
     "survey"
   ],

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2604.00528",
+  "citation-key": "arxiv_2604_00528",
+  "type": "article",
+  "title": "Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding",
+  "URL": "https://arxiv.org/abs/2604.00528v2",
+  "custom": {
+    "catalog_id": "arxiv:2604.00528",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.00528",
+    "identifiers": {
+      "arxiv": "2604.00528"
+    },
+    "first_published_at": "2026-04-01",
+    "record_updated_at": "2026-04-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "713f0e74d08e16d2cecd1f9233d88b6580b249682675a0069d6d64d047b61e94",
+      "submitted_at": "2026-04-01T06:12:16Z",
+      "updated_at": "2026-04-02T06:20:11Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2604.00528v2"
+    }
+  },
+  "note": "First published: 2026-04-01; Recorded arXiv version: v2; Recorded version updated: 2026-04-02T06:20:11Z.",
+  "author": [
+    {
+      "literal": "Haibo Wang"
+    },
+    {
+      "literal": "Zihao Lin"
+    },
+    {
+      "literal": "Zhiyang Xu"
+    },
+    {
+      "literal": "Lifu Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.00528",
+  "genre": "preprint",
+  "version": "2"
+}

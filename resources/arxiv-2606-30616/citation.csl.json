@@ -1,0 +1,202 @@
+{
+  "id": "arxiv:2606.30616",
+  "citation-key": "arxiv_2606_30616",
+  "type": "article",
+  "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
+  "URL": "https://arxiv.org/abs/2606.30616v2",
+  "custom": {
+    "catalog_id": "arxiv:2606.30616",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.30616",
+    "identifiers": {
+      "arxiv": "2606.30616"
+    },
+    "first_published_at": "2026-06-29",
+    "record_updated_at": "2026-07-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ae4eacb6be976230dab57b6e2acd8adeec8461e0a6cb2ee43ef6c33249f74b89",
+      "submitted_at": "2026-06-29T17:50:54Z",
+      "updated_at": "2026-07-13T13:01:42Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2606.30616v2"
+    }
+  },
+  "note": "First published: 2026-06-29; Recorded arXiv version: v2; Recorded version updated: 2026-07-13T13:01:42Z.",
+  "author": [
+    {
+      "literal": "Lei Bai"
+    },
+    {
+      "literal": "Zongsheng Cao"
+    },
+    {
+      "literal": "Yang Chen"
+    },
+    {
+      "literal": "Zhiyao Cui"
+    },
+    {
+      "literal": "Shangheng Du"
+    },
+    {
+      "literal": "Yue Fan"
+    },
+    {
+      "literal": "Shiyang Feng"
+    },
+    {
+      "literal": "Zijie Guo"
+    },
+    {
+      "literal": "Haonan He"
+    },
+    {
+      "literal": "Liang He"
+    },
+    {
+      "literal": "Xiaohan He"
+    },
+    {
+      "literal": "Shuyue Hu"
+    },
+    {
+      "literal": "Yusong Hu"
+    },
+    {
+      "literal": "Songtao Huang"
+    },
+    {
+      "literal": "Yichen Jiang"
+    },
+    {
+      "literal": "Hao Li"
+    },
+    {
+      "literal": "Xin Li"
+    },
+    {
+      "literal": "Dahua Lin"
+    },
+    {
+      "literal": "Weihao Lin"
+    },
+    {
+      "literal": "Fenghua Ling"
+    },
+    {
+      "literal": "Dongrui Liu"
+    },
+    {
+      "literal": "Zhuo Liu"
+    },
+    {
+      "literal": "Wenjie Lou"
+    },
+    {
+      "literal": "Runmin Ma"
+    },
+    {
+      "literal": "Chunjiang Mu"
+    },
+    {
+      "literal": "Haoyang Peng"
+    },
+    {
+      "literal": "Tianshuo Peng"
+    },
+    {
+      "literal": "Jinxin Shi"
+    },
+    {
+      "literal": "Luohe Shi"
+    },
+    {
+      "literal": "Boyuan Sun"
+    },
+    {
+      "literal": "Zelin Tan"
+    },
+    {
+      "literal": "Shengji Tang"
+    },
+    {
+      "literal": "Yan Teng"
+    },
+    {
+      "literal": "Qianyi Wang"
+    },
+    {
+      "literal": "Xiaosong Wang"
+    },
+    {
+      "literal": "Yiming Wu"
+    },
+    {
+      "literal": "Yi Xie"
+    },
+    {
+      "literal": "Xiangchao Yan"
+    },
+    {
+      "literal": "Jingqi Ye"
+    },
+    {
+      "literal": "Peng Ye"
+    },
+    {
+      "literal": "Fangchen Yu"
+    },
+    {
+      "literal": "Jiakang Yuan"
+    },
+    {
+      "literal": "Bihao Zhan"
+    },
+    {
+      "literal": "Bo Zhang"
+    },
+    {
+      "literal": "Chen Zhang"
+    },
+    {
+      "literal": "Shufei Zhang"
+    },
+    {
+      "literal": "Shuaiyu Zhang"
+    },
+    {
+      "literal": "Wenlong Zhang"
+    },
+    {
+      "literal": "Yiqun Zhang"
+    },
+    {
+      "literal": "Junpeng Zhao"
+    },
+    {
+      "literal": "Zhijie Zhong"
+    },
+    {
+      "literal": "Bowen Zhou"
+    },
+    {
+      "literal": "Yuhao Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.30616",
+  "genre": "preprint",
+  "version": "2"
+}

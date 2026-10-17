@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2606.03103",
+  "citation-key": "arxiv_2606_03103",
+  "type": "article",
+  "title": "DeskCraft: Benchmarking Desktop Agents on Professional Workflows and Human-in-the-Loop Collaboration",
+  "URL": "https://arxiv.org/abs/2606.03103v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.03103",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2606.03103",
+    "identifiers": {
+      "arxiv": "2606.03103"
+    },
+    "first_published_at": "2026-06-02",
+    "record_updated_at": "2026-06-02",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bf0fcafeb2d40e489ec80784a3541114b02c6a9077a330265d5c49775eca4582",
+      "submitted_at": "2026-06-02T03:42:34Z",
+      "updated_at": "2026-06-02T03:42:34Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.03103v1"
+    }
+  },
+  "note": "First published: 2026-06-02; Recorded arXiv version: v1; Recorded version updated: 2026-06-02T03:42:34Z.",
+  "author": [
+    {
+      "literal": "Wenkai Wang"
+    },
+    {
+      "literal": "Tao Xiong"
+    },
+    {
+      "literal": "Jingchen Ni"
+    },
+    {
+      "literal": "Yunpeng Bao"
+    },
+    {
+      "literal": "Xiyun Li"
+    },
+    {
+      "literal": "Tianqi Liu"
+    },
+    {
+      "literal": "Hongcan Guo"
+    },
+    {
+      "literal": "Zilong Huang"
+    },
+    {
+      "literal": "Shengyu Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.03103",
+  "genre": "preprint",
+  "version": "1"
+}

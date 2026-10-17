@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2601.12042",
+  "citation-key": "arxiv_2601_12042",
+  "type": "article",
+  "title": "Less Is More -- Until It Breaks: Security Pitfalls of Vision Token Compression in Large Vision-Language Models",
+  "URL": "https://arxiv.org/abs/2601.12042v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.12042",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.12042",
+    "identifiers": {
+      "arxiv": "2601.12042"
+    },
+    "first_published_at": "2026-01-17",
+    "record_updated_at": "2026-01-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "437c6784e206b28e0c5312ec026298acf5113381b57c2f751072abc63741ec42",
+      "submitted_at": "2026-01-17T13:02:41Z",
+      "updated_at": "2026-01-17T13:02:41Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.12042v1"
+    }
+  },
+  "note": "First published: 2026-01-17; Recorded arXiv version: v1; Recorded version updated: 2026-01-17T13:02:41Z.",
+  "author": [
+    {
+      "literal": "Xiaomei Zhang"
+    },
+    {
+      "literal": "Zhaoxi Zhang"
+    },
+    {
+      "literal": "Leo Yu Zhang"
+    },
+    {
+      "literal": "Yanjun Zhang"
+    },
+    {
+      "literal": "Guanhong Tao"
+    },
+    {
+      "literal": "Shirui Pan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.12042",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2610.09633",
+  "citation-key": "arxiv_2610_09633",
+  "type": "article",
+  "title": "Coding-Agent Benchmarks Should Match Their Users' Task Flows",
+  "URL": "https://arxiv.org/abs/2610.09633v2",
+  "custom": {
+    "catalog_id": "arxiv:2610.09633",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.09633",
+    "identifiers": {
+      "arxiv": "2610.09633"
+    },
+    "first_published_at": "2026-10-07",
+    "record_updated_at": "2026-10-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "15c234299d50dee8b36f8092776d0fbaeff17b037f1b57759dd1f4c883dc2d00",
+      "submitted_at": "2026-10-07T08:08:39Z",
+      "updated_at": "2026-10-11T11:45:49Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2610.09633v2"
+    }
+  },
+  "note": "First published: 2026-10-07; Recorded arXiv version: v2; Recorded version updated: 2026-10-11T11:45:49Z.",
+  "author": [
+    {
+      "literal": "Igor Slinko"
+    },
+    {
+      "literal": "Yaroslav Golubev"
+    },
+    {
+      "literal": "Sergey Titov"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.09633",
+  "genre": "preprint",
+  "version": "2"
+}

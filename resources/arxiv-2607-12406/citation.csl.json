@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2607.12406",
+  "citation-key": "arxiv_2607_12406",
+  "type": "article",
+  "title": "Isolation as a First-Class Principle for LLM-Agent System Safety: Concepts, Taxonomy, Challenges and Future Directions",
+  "URL": "https://arxiv.org/abs/2607.12406v2",
+  "custom": {
+    "catalog_id": "arxiv:2607.12406",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.12406",
+    "identifiers": {
+      "arxiv": "2607.12406"
+    },
+    "first_published_at": "2026-07-14",
+    "record_updated_at": "2026-09-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "13679b9680f66a50eb398cd04ab6696cdcbca4affdd62d6c6b6ab0b0be17d77e",
+      "submitted_at": "2026-07-14T06:25:35Z",
+      "updated_at": "2026-09-02T10:25:17Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2607.12406v2"
+    }
+  },
+  "note": "First published: 2026-07-14; Recorded arXiv version: v2; Recorded version updated: 2026-09-02T10:25:17Z.",
+  "author": [
+    {
+      "literal": "Huihao Jing"
+    },
+    {
+      "literal": "Wenbin Hu"
+    },
+    {
+      "literal": "Shaojin Chen"
+    },
+    {
+      "literal": "Haochen Shi"
+    },
+    {
+      "literal": "Sirui Zhang"
+    },
+    {
+      "literal": "Hanyu Yang"
+    },
+    {
+      "literal": "Changxuan Fan"
+    },
+    {
+      "literal": "Zhongwei Xie"
+    },
+    {
+      "literal": "Hongyu Luo"
+    },
+    {
+      "literal": "Wun Yu Chan"
+    },
+    {
+      "literal": "Wei Fan"
+    },
+    {
+      "literal": "Haoran Li"
+    },
+    {
+      "literal": "Yangqiu Song"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.12406",
+  "genre": "preprint",
+  "version": "2"
+}

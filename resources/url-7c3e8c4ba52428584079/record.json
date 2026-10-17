@@ -1,0 +1,112 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "architecture": "LlamaForCausalLM",
+    "availability": "Ungated complete weight/config/tokenizer manifest.",
+    "license_review": {
+      "weights": {
+        "evidence_urls": [
+          "https://huggingface.co/McGill-NLP/Llama-3-8B-Web/raw/main/META_LLAMA_3_COMMUNITY_LICENSE_AGREEMENT.txt",
+          "https://huggingface.co/McGill-NLP/Llama-3-8B-Web/raw/main/README.md"
+        ],
+        "reason": "Weight license text and card declaration are retained separately from framework code licensing."
+      }
+    },
+    "parameter_label": "8B",
+    "release_revision": "09856c28ec324cf3fe4c513bdc4437a75b78185f",
+    "training_data_note": "Publisher describes a 24K curated subset of WebLINX interactions and dialogue; not a newly counted independent dataset."
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:34:10Z",
+      "role": "primary",
+      "sha256": "1a445c7894c65c9a7c4247dba446c206c13ac2ecdc129ce93a0de943f2984a18",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "relations",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/McGill-NLP/Llama-3-8B-Web/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:34:10Z",
+      "role": "primary",
+      "sha256": "69fe17825db0d5f32ccaa84b67fabfa10018e1410da0c70ec0ea9509703feba2",
+      "supports": [
+        "identity",
+        "release_status",
+        "details.release_revision",
+        "details.architecture"
+      ],
+      "url": "https://huggingface.co/api/models/McGill-NLP/Llama-3-8B-Web"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:36:55Z",
+      "role": "primary",
+      "sha256": "6bcca341999ab474e2973116128177b77f97cd64028eeace224035358ce6474f",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/McGill-NLP/Llama-3-8B-Web/raw/main/META_LLAMA_3_COMMUNITY_LICENSE_AGREEMENT.txt"
+    }
+  ],
+  "id": "url:7c3e8c4ba52428584079",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T12:34:10Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "Weight license text and card declaration are retained separately from framework code licensing.",
+      "declared": "Meta Llama 3 Community License Agreement",
+      "retrieved_at": "2026-10-17T12:36:55Z",
+      "url": "https://huggingface.co/McGill-NLP/Llama-3-8B-Web/raw/main/META_LLAMA_3_COMMUNITY_LICENSE_AGREEMENT.txt"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/McGill-NLP/Llama-3-8B-Web"
+    }
+  ],
+  "name": "Llama-3-8B-Web",
+  "notes": "The ungated Hub manifest includes model.safetensors, pytorch_model.bin, config and tokenizer files; the two weight formats represent the same checkpoint and are not counted separately. The card describes an approximately 24K-example curated WebLINX training subset and evaluates dialogue-guided web navigation. Predictions still require parsing and execution in an external browser environment. The retained weight license is the Meta Llama 3 Community License Agreement, not WebLlama code MIT. No weights were downloaded, model used, or agreement accepted.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/McGill-NLP/Llama-3-8B-Web/raw/main/README.md",
+      "target_id": "github:mcgill-nlp/weblinx",
+      "type": "trained_on"
+    },
+    {
+      "evidence_url": "https://huggingface.co/McGill-NLP/Llama-3-8B-Web/raw/main/README.md",
+      "target_id": "arxiv:2402.05930",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A Llama 3 8B instruction-model checkpoint fine-tuned on WebLINX web interactions and dialogue, predicting browser actions from a textual state representation.",
+  "topics": [
+    "web-navigation",
+    "imitation-learning",
+    "action-prediction"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/McGill-NLP/Llama-3-8B-Web"
+}

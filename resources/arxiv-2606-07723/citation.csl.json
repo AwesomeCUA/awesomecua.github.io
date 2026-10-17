@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2606.07723",
+  "citation-key": "arxiv_2606_07723",
+  "type": "article",
+  "title": "VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation",
+  "URL": "https://arxiv.org/abs/2606.07723v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.07723",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.07723",
+    "identifiers": {
+      "arxiv": "2606.07723"
+    },
+    "first_published_at": "2026-06-05",
+    "record_updated_at": "2026-06-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d2775933f9b0672bc779d2812b7e7aebbf01405d5751ad7f27b2f6a5170c7fdd",
+      "submitted_at": "2026-06-05T16:21:27Z",
+      "updated_at": "2026-06-05T16:21:27Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.07723v1"
+    }
+  },
+  "note": "First published: 2026-06-05; Recorded arXiv version: v1; Recorded version updated: 2026-06-05T16:21:27Z.",
+  "author": [
+    {
+      "literal": "Siyi Chen"
+    },
+    {
+      "literal": "Hugo Hadfield"
+    },
+    {
+      "literal": "Alex Zook"
+    },
+    {
+      "literal": "Mikaela Angelina Uy"
+    },
+    {
+      "literal": "Chan Hee Song"
+    },
+    {
+      "literal": "Erwin Coumans"
+    },
+    {
+      "literal": "Xuning Yang"
+    },
+    {
+      "literal": "Faisal Ladhak"
+    },
+    {
+      "literal": "Qing Qu"
+    },
+    {
+      "literal": "Stan Birchfield"
+    },
+    {
+      "literal": "Jonathan Tremblay"
+    },
+    {
+      "literal": "Valts Blukis"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.07723",
+  "genre": "preprint",
+  "version": "1"
+}

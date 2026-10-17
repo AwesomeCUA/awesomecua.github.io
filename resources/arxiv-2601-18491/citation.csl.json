@@ -1,0 +1,172 @@
+{
+  "id": "arxiv:2601.18491",
+  "citation-key": "arxiv_2601_18491",
+  "type": "article",
+  "title": "AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security",
+  "URL": "https://arxiv.org/abs/2601.18491v2",
+  "custom": {
+    "catalog_id": "arxiv:2601.18491",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.18491",
+    "identifiers": {
+      "arxiv": "2601.18491"
+    },
+    "first_published_at": "2026-01-26",
+    "record_updated_at": "2026-04-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "be1b49dd9b603104cac9c3374463812d099245c0f53bd45b4af2d14daaa57b99",
+      "submitted_at": "2026-01-26T13:45:41Z",
+      "updated_at": "2026-04-23T11:55:10Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2601.18491v2"
+    }
+  },
+  "note": "First published: 2026-01-26; Recorded arXiv version: v2; Recorded version updated: 2026-04-23T11:55:10Z.",
+  "author": [
+    {
+      "literal": "Dongrui Liu"
+    },
+    {
+      "literal": "Qihan Ren"
+    },
+    {
+      "literal": "Chen Qian"
+    },
+    {
+      "literal": "Shuai Shao"
+    },
+    {
+      "literal": "Yuejin Xie"
+    },
+    {
+      "literal": "Yu Li"
+    },
+    {
+      "literal": "Zhonghao Yang"
+    },
+    {
+      "literal": "Haoyu Luo"
+    },
+    {
+      "literal": "Peng Wang"
+    },
+    {
+      "literal": "Qingyu Liu"
+    },
+    {
+      "literal": "Binxin Hu"
+    },
+    {
+      "literal": "Ling Tang"
+    },
+    {
+      "literal": "Jilin Mei"
+    },
+    {
+      "literal": "Dadi Guo"
+    },
+    {
+      "literal": "Leitao Yuan"
+    },
+    {
+      "literal": "Junyao Yang"
+    },
+    {
+      "literal": "Guanxu Chen"
+    },
+    {
+      "literal": "Qihao Lin"
+    },
+    {
+      "literal": "Yi Yu"
+    },
+    {
+      "literal": "Bo Zhang"
+    },
+    {
+      "literal": "Jiaxuan Guo"
+    },
+    {
+      "literal": "Jie Zhang"
+    },
+    {
+      "literal": "Wenqi Shao"
+    },
+    {
+      "literal": "Huiqi Deng"
+    },
+    {
+      "literal": "Zhiheng Xi"
+    },
+    {
+      "literal": "Wenjie Wang"
+    },
+    {
+      "literal": "Wenxuan Wang"
+    },
+    {
+      "literal": "Wen Shen"
+    },
+    {
+      "literal": "Zhikai Chen"
+    },
+    {
+      "literal": "Haoyu Xie"
+    },
+    {
+      "literal": "Jialing Tao"
+    },
+    {
+      "literal": "Juntao Dai"
+    },
+    {
+      "literal": "Jiaming Ji"
+    },
+    {
+      "literal": "Zhongjie Ba"
+    },
+    {
+      "literal": "Linfeng Zhang"
+    },
+    {
+      "literal": "Yong Liu"
+    },
+    {
+      "literal": "Quanshi Zhang"
+    },
+    {
+      "literal": "Lei Zhu"
+    },
+    {
+      "literal": "Zhihua Wei"
+    },
+    {
+      "literal": "Hui Xue"
+    },
+    {
+      "literal": "Chaochao Lu"
+    },
+    {
+      "literal": "Jing Shao"
+    },
+    {
+      "literal": "Xia Hu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.18491",
+  "genre": "preprint",
+  "version": "2"
+}

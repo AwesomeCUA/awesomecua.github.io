@@ -85,7 +85,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Survey of research directions in GUI or computer-use agents.",
+  "summary": "Survey of LLM-brained GUI agents that carry out natural-language instructions across web, mobile, and desktop interfaces, organizing research and industry progress.",
   "topics": [
     "survey"
   ],

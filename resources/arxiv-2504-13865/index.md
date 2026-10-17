@@ -1,6 +1,6 @@
 # A Survey on (M)LLM-Based GUI Agents
 
-Survey of research directions in GUI or computer-use agents.
+Analyzes LLM-based GUI agents through four components (perception, exploration, planning, and interaction) and the methods used to evaluate them.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-13865/
 - Original source: https://arxiv.org/abs/2504.13865

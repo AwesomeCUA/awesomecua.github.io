@@ -1,0 +1,583 @@
+{
+  "schema_version": 1,
+  "catalog_sha256": "5a5335dc79b30a853fed8d9e88a7d3f0cd212f0a6d0c057880fe279d74592764",
+  "source_repository": "https://github.com/reacher-z/Awesome-CUA",
+  "source_catalog": "/downloads/catalog.jsonl",
+  "publication_build_info": "/data/build-info.json",
+  "count_policy": "Each count retains its own unit and scope. Artifact populations overlap and must not be added together.",
+  "fingerprint_policy": "SHA-256 and byte size refer to the exact uncompressed file bytes. The manifest does not hash itself.",
+  "artifacts": [
+    {
+      "id": "catalog-jsonl",
+      "path": "/downloads/catalog.jsonl",
+      "group": "catalog",
+      "title": {
+        "en": "Full catalog",
+        "zh": "完整目录"
+      },
+      "description": {
+        "en": "Every active source record, including metadata-only discoveries. One JSON object per line.",
+        "zh": "全部当前资源及完整来源记录，包含仅核实书目的发现项。每行一个 JSON 对象。"
+      },
+      "format": "JSONL",
+      "media_type": "application/x-ndjson",
+      "count": {
+        "value": 3022,
+        "unit": "resources"
+      },
+      "scope": "active",
+      "bytes": 7388350,
+      "sha256": "5a5335dc79b30a853fed8d9e88a7d3f0cd212f0a6d0c057880fe279d74592764"
+    },
+    {
+      "id": "catalog-json",
+      "path": "/data/records.json",
+      "group": "catalog",
+      "title": {
+        "en": "Full catalog as a JSON array",
+        "zh": "完整目录 JSON 数组"
+      },
+      "description": {
+        "en": "The same complete records in one JSON array for clients that expect a single JSON document.",
+        "zh": "同一份完整记录，以单个 JSON 数组提供，适合直接读取 JSON 的客户端。"
+      },
+      "format": "JSON",
+      "media_type": "application/json",
+      "count": {
+        "value": 3022,
+        "unit": "resources"
+      },
+      "scope": "active",
+      "bytes": 7092814,
+      "sha256": "cf0567bcc9790d692323d17bc8b03c4b5febd39e0059233b755db58c023d63fc"
+    },
+    {
+      "id": "catalog-sqlite",
+      "path": "/downloads/catalog.sqlite",
+      "group": "catalog",
+      "title": {
+        "en": "Queryable database",
+        "zh": "可查询数据库"
+      },
+      "description": {
+        "en": "Resource rows, full-text search, topic/platform facets and reviewed relationships.",
+        "zh": "资源记录、全文搜索、主题与平台分面，以及已审阅的关联关系。"
+      },
+      "format": "SQLite",
+      "media_type": "application/vnd.sqlite3",
+      "count": {
+        "value": 3022,
+        "unit": "resources"
+      },
+      "scope": "active",
+      "bytes": 14647296,
+      "sha256": "392e30b01834a682e95b4836d5ead713026f872f53bd8c2232facea6f514988e"
+    },
+    {
+      "id": "rag-reviewed",
+      "path": "/downloads/rag-documents.jsonl",
+      "group": "rag",
+      "title": {
+        "en": "Reviewed retrieval documents",
+        "zh": "已审阅检索文档"
+      },
+      "description": {
+        "en": "Reviewed core and adjacent resources, with text, citations, evidence and license metadata.",
+        "zh": "已审阅的核心与相关资源，保留文本、引用、证据和许可元数据。"
+      },
+      "format": "JSONL",
+      "media_type": "application/x-ndjson",
+      "count": {
+        "value": 1322,
+        "unit": "documents"
+      },
+      "scope": "reviewed",
+      "bytes": 5332008,
+      "sha256": "88b51e3d05251c59073fd040d75072ce6bff69596d4c5f5789f8e7f9011972ae"
+    },
+    {
+      "id": "rag-all",
+      "path": "/downloads/rag-all-records.jsonl",
+      "group": "rag",
+      "title": {
+        "en": "All retrieval documents",
+        "zh": "全部检索文档"
+      },
+      "description": {
+        "en": "Complete active corpus; preserve the metadata-only review states when retrieving.",
+        "zh": "完整当前语料；检索时保留其中仅核实书目的待审状态。"
+      },
+      "format": "JSONL",
+      "media_type": "application/x-ndjson",
+      "count": {
+        "value": 3022,
+        "unit": "documents"
+      },
+      "scope": "active",
+      "bytes": 10964011,
+      "sha256": "415a6ff576b9e3970f5ff3a5087dcab7e09d5bb7b6419656cda7a88789eb5b87"
+    },
+    {
+      "id": "rag-manifest",
+      "path": "/downloads/rag-manifest.json",
+      "group": "rag",
+      "title": {
+        "en": "RAG export manifest",
+        "zh": "RAG 导出清单"
+      },
+      "description": {
+        "en": "Document counts, review policy and file fingerprints.",
+        "zh": "文档数量、审阅规则和文件指纹。"
+      },
+      "format": "JSON",
+      "media_type": "application/json",
+      "count": {
+        "value": 2,
+        "unit": "exports"
+      },
+      "scope": "provenance",
+      "bytes": 907,
+      "sha256": "93980868a86214cd56e5868636c09bdc0c8eaa56d71ae13cdb31b9c5c671a307"
+    },
+    {
+      "id": "citations-bib",
+      "path": "/downloads/citations.bib",
+      "group": "citations",
+      "title": {
+        "en": "Reviewed paper citations",
+        "zh": "已审阅论文引用"
+      },
+      "description": {
+        "en": "Reviewed papers and surveys. Retained arXiv versions and partial dates remain explicit.",
+        "zh": "已审阅论文与综述，保留记录的 arXiv 版本与部分日期。"
+      },
+      "format": "BibTeX",
+      "media_type": "application/x-bibtex",
+      "count": {
+        "value": 896,
+        "unit": "citations"
+      },
+      "scope": "reviewed",
+      "bytes": 633682,
+      "sha256": "3240e08e59595abf4c62ff5989aab9a42333e7e4481bd47ec88ce8db4623bfe6"
+    },
+    {
+      "id": "citations-csl-json",
+      "path": "/downloads/citations.csl.json",
+      "group": "citations",
+      "title": {
+        "en": "Reviewed paper citations",
+        "zh": "已审阅论文引用"
+      },
+      "description": {
+        "en": "Reviewed papers and surveys. Retained arXiv versions and partial dates remain explicit.",
+        "zh": "已审阅论文与综述，保留记录的 arXiv 版本与部分日期。"
+      },
+      "format": "CSL JSON",
+      "media_type": "application/vnd.citationstyles.csl+json",
+      "count": {
+        "value": 896,
+        "unit": "citations"
+      },
+      "scope": "reviewed",
+      "bytes": 1643881,
+      "sha256": "aeabb27f862c181ab808986d727eb33b2efa5e8ad4faaeebd616d812f0579381"
+    },
+    {
+      "id": "citations-all-bib",
+      "path": "/downloads/citations-all.bib",
+      "group": "citations",
+      "title": {
+        "en": "All bibliography citations",
+        "zh": "全部书目引用"
+      },
+      "description": {
+        "en": "Includes metadata-only papers and surveys with their review state retained.",
+        "zh": "包含仅核实书目的论文与综述，并保留审阅状态。"
+      },
+      "format": "BibTeX",
+      "media_type": "application/x-bibtex",
+      "count": {
+        "value": 2596,
+        "unit": "citations"
+      },
+      "scope": "active",
+      "bytes": 1803587,
+      "sha256": "a7ea79c845a17889a12a5c03f137d5632d46463a088295aac230c8dc47eac7c7"
+    },
+    {
+      "id": "citations-all-csl-json",
+      "path": "/downloads/citations-all.csl.json",
+      "group": "citations",
+      "title": {
+        "en": "All bibliography citations",
+        "zh": "全部书目引用"
+      },
+      "description": {
+        "en": "Includes metadata-only papers and surveys with their review state retained.",
+        "zh": "包含仅核实书目的论文与综述，并保留审阅状态。"
+      },
+      "format": "CSL JSON",
+      "media_type": "application/vnd.citationstyles.csl+json",
+      "count": {
+        "value": 2596,
+        "unit": "citations"
+      },
+      "scope": "active",
+      "bytes": 4694022,
+      "sha256": "5d17e19fdd4ceb09b7f76d3d8dec3248ae9ceebdcbedff10216bf1fc26e09fc2"
+    },
+    {
+      "id": "publication-citations-bib",
+      "path": "/downloads/publication-citations.bib",
+      "group": "citations",
+      "title": {
+        "en": "Publication citations",
+        "zh": "正式出版版引用"
+      },
+      "description": {
+        "en": "The recorded publication edition uses its own authors, title, venue and date precision.",
+        "zh": "使用所记录出版版的作者、题名、会议／期刊及日期精度。"
+      },
+      "format": "BibTeX",
+      "media_type": "application/x-bibtex",
+      "count": {
+        "value": 24,
+        "unit": "citations"
+      },
+      "scope": "reviewed-publication",
+      "bytes": 53500,
+      "sha256": "7e4fd528e81bf6a3c9e1fd06078bed38926d55ef1e2a3f79a1938612c3eee577"
+    },
+    {
+      "id": "publication-citations-csl-json",
+      "path": "/downloads/publication-citations.csl.json",
+      "group": "citations",
+      "title": {
+        "en": "Publication citations",
+        "zh": "正式出版版引用"
+      },
+      "description": {
+        "en": "The recorded publication edition uses its own authors, title, venue and date precision.",
+        "zh": "使用所记录出版版的作者、题名、会议／期刊及日期精度。"
+      },
+      "format": "CSL JSON",
+      "media_type": "application/vnd.citationstyles.csl+json",
+      "count": {
+        "value": 24,
+        "unit": "citations"
+      },
+      "scope": "reviewed-publication",
+      "bytes": 78470,
+      "sha256": "f5b3a113fbd54cab6a2f27788fdb7737df525e9a9e9ed89187655395e5cb740e"
+    },
+    {
+      "id": "citations-manifest",
+      "path": "/downloads/citations-manifest.json",
+      "group": "citations",
+      "title": {
+        "en": "Citation export manifest",
+        "zh": "引用导出清单"
+      },
+      "description": {
+        "en": "Edition, date and identity policies with exact counts and fingerprints.",
+        "zh": "引用版次、日期和身份规则，以及精确数量与指纹。"
+      },
+      "format": "JSON",
+      "media_type": "application/json",
+      "count": {
+        "value": 6,
+        "unit": "exports"
+      },
+      "scope": "provenance",
+      "bytes": 3589,
+      "sha256": "560d08f5b96cc5532f7774bbc98ce9a475f4a6a0a3ffba94868e7f0d35aeabe1"
+    },
+    {
+      "id": "topics",
+      "path": "/downloads/topics.json",
+      "group": "research",
+      "title": {
+        "en": "Topic subsets",
+        "zh": "主题子集"
+      },
+      "description": {
+        "en": "Exact member IDs and JSONL/citation downloads for every reviewed topic. Memberships overlap.",
+        "zh": "每个已审阅主题的精确成员 ID 与 JSONL、引用下载。主题成员可以交叉。"
+      },
+      "format": "JSON",
+      "media_type": "application/json",
+      "count": {
+        "value": 35,
+        "unit": "topics"
+      },
+      "scope": "reviewed",
+      "bytes": 148326,
+      "sha256": "525c854b59430836a6229581fde2fa3c79103b9300d172a3eec63280341bc2de"
+    },
+    {
+      "id": "benchmarks-profiles",
+      "path": "/downloads/benchmarks-profiles.json",
+      "group": "research",
+      "title": {
+        "en": "Benchmark protocols",
+        "zh": "基准协议"
+      },
+      "description": {
+        "en": "Source-reviewed interfaces, formats, counting units and scope. Missing fields remain unknown.",
+        "zh": "已核读来源的接口、格式、计数单位和范围；未记录字段保持未知。"
+      },
+      "format": "JSON",
+      "media_type": "application/json",
+      "count": {
+        "value": 44,
+        "unit": "profiles"
+      },
+      "scope": "reviewed",
+      "bytes": 153598,
+      "sha256": "eb5b2661569ca45ad5c20463e7ff0ddb49881dbb515c8d27f57b74847b278640"
+    },
+    {
+      "id": "datasets-profiles",
+      "path": "/downloads/datasets-profiles.json",
+      "group": "research",
+      "title": {
+        "en": "Dataset profiles",
+        "zh": "数据集规格"
+      },
+      "description": {
+        "en": "Source-reviewed interfaces, formats, counting units and scope. Missing fields remain unknown.",
+        "zh": "已核读来源的接口、格式、计数单位和范围；未记录字段保持未知。"
+      },
+      "format": "JSON",
+      "media_type": "application/json",
+      "count": {
+        "value": 54,
+        "unit": "profiles"
+      },
+      "scope": "reviewed",
+      "bytes": 148177,
+      "sha256": "c5c7712776917b5aa055ae57ec084a22196886f44152700d97b115e5495bdd69"
+    },
+    {
+      "id": "relationships",
+      "path": "/downloads/relationships.json",
+      "group": "research",
+      "title": {
+        "en": "Reviewed relationships",
+        "zh": "已审阅关系"
+      },
+      "description": {
+        "en": "Explicit source-backed relationships; incidental mentions and shared topics are separate.",
+        "zh": "有明确来源的关联关系；偶然提及和相同主题分别处理。"
+      },
+      "format": "JSON",
+      "media_type": "application/json",
+      "count": {
+        "value": 334,
+        "unit": "relations"
+      },
+      "scope": "reviewed",
+      "bytes": 101425,
+      "sha256": "ec40577b61ae7c8c97a90fb3b6078318cdc16719adfd6a358c7353f274ed02ad"
+    },
+    {
+      "id": "coverage",
+      "path": "/downloads/coverage.json",
+      "group": "provenance",
+      "title": {
+        "en": "Coverage ledger",
+        "zh": "覆盖台账"
+      },
+      "description": {
+        "en": "Observed source populations, review states and unresolved gaps.",
+        "zh": "已观察到的来源范围、审阅状态和待解决缺口。"
+      },
+      "format": "JSON",
+      "media_type": "application/json",
+      "count": {
+        "value": 1,
+        "unit": "reports"
+      },
+      "scope": "provenance",
+      "bytes": 187490,
+      "sha256": "bc58d1f80934873f343b18384f71ed291c23214a7cab01fa0ffad85dc7aad675"
+    },
+    {
+      "id": "sources",
+      "path": "/downloads/sources.json",
+      "group": "provenance",
+      "title": {
+        "en": "Discovery-source registry",
+        "zh": "发现来源登记"
+      },
+      "description": {
+        "en": "Community collections and search sources used to discover candidates.",
+        "zh": "用于发现候选条目的社区合集和来源文档。"
+      },
+      "format": "JSON",
+      "media_type": "application/json",
+      "count": {
+        "value": 44,
+        "unit": "sources"
+      },
+      "scope": "provenance",
+      "bytes": 26223,
+      "sha256": "e8d274108147b6c2ec1148dad1b0d6210b1a1098266657f95a7c7655296ce1c6"
+    },
+    {
+      "id": "scope-decisions",
+      "path": "/downloads/exclusions.json",
+      "group": "provenance",
+      "title": {
+        "en": "Scope decisions",
+        "zh": "范围审阅决定"
+      },
+      "description": {
+        "en": "Exclusion reasons, original evidence and any decisions awaiting revalidation.",
+        "zh": "排除理由、原始证据，以及需要重新验证的决定。"
+      },
+      "format": "JSON",
+      "media_type": "application/json",
+      "count": {
+        "value": 100,
+        "unit": "decisions"
+      },
+      "scope": "provenance",
+      "bytes": 124788,
+      "sha256": "15f98060f233721abb7e11e06e0b3b86d79b254bf3daf2c277ef8fcb79577e93"
+    },
+    {
+      "id": "arxiv-archive",
+      "path": "/downloads/arxiv-archive.jsonl",
+      "group": "provenance",
+      "title": {
+        "en": "Raw arXiv metadata archive",
+        "zh": "原始 arXiv 元数据档案"
+      },
+      "description": {
+        "en": "Retained ingestion snapshots, including excluded records. This is not the active catalog.",
+        "zh": "保留的采集快照，包含已排除记录；其范围不同于当前有效目录。"
+      },
+      "format": "JSONL",
+      "media_type": "application/x-ndjson",
+      "count": {
+        "value": 2683,
+        "unit": "papers"
+      },
+      "scope": "archive",
+      "bytes": 5477281,
+      "sha256": "a8cce57b2450e4006fe35ada5182589a21af701ac7d787dcb5705a44f708348b"
+    },
+    {
+      "id": "publications",
+      "path": "/downloads/publications.jsonl",
+      "group": "provenance",
+      "title": {
+        "en": "Publication observations",
+        "zh": "出版来源记录"
+      },
+      "description": {
+        "en": "Publication facts attached to canonical paper identities; not a second paper count.",
+        "zh": "附加到规范论文身份的出版事实，不作为另一篇论文重复计数。"
+      },
+      "format": "JSONL",
+      "media_type": "application/x-ndjson",
+      "count": {
+        "value": 26,
+        "unit": "editions"
+      },
+      "scope": "recorded-publication",
+      "bytes": 62769,
+      "sha256": "55a6db112e5012746b4ea47015d2271238786b8ef3ff970219ce3e5db33fde7b"
+    },
+    {
+      "id": "resource-schema-json",
+      "path": "/schemas/resource.schema.json",
+      "group": "contracts",
+      "title": {
+        "en": "Resource schema",
+        "zh": "资源记录规范"
+      },
+      "description": {
+        "en": "Machine-readable field and format contract.",
+        "zh": "可供程序读取的字段与格式约束。"
+      },
+      "format": "JSON Schema",
+      "media_type": "application/schema+json",
+      "count": {
+        "value": 1,
+        "unit": "schemas"
+      },
+      "scope": "contract",
+      "bytes": 18172,
+      "sha256": "44a23b49e1a7f5d500ff7fb02306390a94c4b3f69c644f2833e23b91e34e420a"
+    },
+    {
+      "id": "scope-decision-schema-json",
+      "path": "/schemas/scope-decision.schema.json",
+      "group": "contracts",
+      "title": {
+        "en": "Scope-decision schema",
+        "zh": "范围决定规范"
+      },
+      "description": {
+        "en": "Machine-readable field and format contract.",
+        "zh": "可供程序读取的字段与格式约束。"
+      },
+      "format": "JSON Schema",
+      "media_type": "application/schema+json",
+      "count": {
+        "value": 1,
+        "unit": "schemas"
+      },
+      "scope": "contract",
+      "bytes": 1677,
+      "sha256": "4649c0265454a4a1bca88fd0f637e15ebc1322d49522d64c12ac382356f6a1a7"
+    },
+    {
+      "id": "publication-observation-schema-json",
+      "path": "/schemas/publication-observation.schema.json",
+      "group": "contracts",
+      "title": {
+        "en": "Publication-observation schema",
+        "zh": "出版来源规范"
+      },
+      "description": {
+        "en": "Machine-readable field and format contract.",
+        "zh": "可供程序读取的字段与格式约束。"
+      },
+      "format": "JSON Schema",
+      "media_type": "application/schema+json",
+      "count": {
+        "value": 1,
+        "unit": "schemas"
+      },
+      "scope": "contract",
+      "bytes": 1058,
+      "sha256": "20463706986e4fec5f97ce5a5081c3aab6fe9236d28bdad1f3813c7d6c39ca65"
+    },
+    {
+      "id": "download-manifest-schema-json",
+      "path": "/schemas/download-manifest.schema.json",
+      "group": "contracts",
+      "title": {
+        "en": "Download-manifest schema",
+        "zh": "下载清单规范"
+      },
+      "description": {
+        "en": "Machine-readable field and format contract.",
+        "zh": "可供程序读取的字段与格式约束。"
+      },
+      "format": "JSON Schema",
+      "media_type": "application/schema+json",
+      "count": {
+        "value": 1,
+        "unit": "schemas"
+      },
+      "scope": "contract",
+      "bytes": 2671,
+      "sha256": "66ae5983f9d9f1405b2aec8d0a5c59fb228451a4ff101613f75495d2a45a2116"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2603.29418",
+  "citation-key": "arxiv_2603_29418",
+  "type": "article",
+  "title": "Covert Visual Prompt Injection against Commercial Multimodal Large Language Models",
+  "URL": "https://arxiv.org/abs/2603.29418v2",
+  "custom": {
+    "catalog_id": "arxiv:2603.29418",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.29418",
+    "identifiers": {
+      "arxiv": "2603.29418"
+    },
+    "first_published_at": "2026-03-31",
+    "record_updated_at": "2026-08-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "894dc4ea8371b068c2ecccb79e282a392f8ab47c49c6f3420a1834a4e70a3592",
+      "submitted_at": "2026-03-31T08:22:07Z",
+      "updated_at": "2026-08-11T15:52:40Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2603.29418v2"
+    }
+  },
+  "note": "First published: 2026-03-31; Recorded arXiv version: v2; Recorded version updated: 2026-08-11T15:52:40Z.",
+  "author": [
+    {
+      "literal": "Meiwen Ding"
+    },
+    {
+      "literal": "Song Xia"
+    },
+    {
+      "literal": "Chenqi Kong"
+    },
+    {
+      "literal": "Xudong Jiang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.29418",
+  "genre": "preprint",
+  "version": "2"
+}

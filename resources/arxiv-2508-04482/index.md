@@ -1,6 +1,6 @@
 # OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use
 
-Survey of research directions in GUI or computer-use agents.
+Surveys agents that operate computers and phones through operating-system interfaces, covering components, capabilities, foundation models, frameworks, and benchmarks.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2508-04482/
 - Original source: https://arxiv.org/abs/2508.04482

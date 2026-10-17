@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2601.13186",
+  "citation-key": "arxiv_2601_13186",
+  "type": "article",
+  "title": "Prompt Injection Mitigation with Agentic AI, Nested Learning, and AI Sustainability via Semantic Caching",
+  "URL": "https://arxiv.org/abs/2601.13186v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.13186",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.13186",
+    "identifiers": {
+      "arxiv": "2601.13186"
+    },
+    "first_published_at": "2026-01-19",
+    "record_updated_at": "2026-01-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fbcba59f27d78c1688563e0bc35e5f75c34e2810ec1757a4b062e6de2edc8fd2",
+      "submitted_at": "2026-01-19T16:10:11Z",
+      "updated_at": "2026-01-19T16:10:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.13186v1"
+    }
+  },
+  "note": "First published: 2026-01-19; Recorded arXiv version: v1; Recorded version updated: 2026-01-19T16:10:11Z.",
+  "author": [
+    {
+      "literal": "Diego Gosmar"
+    },
+    {
+      "literal": "Deborah A. Dahl"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.13186",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,196 @@
+{
+  "id": "arxiv:2603.27646",
+  "citation-key": "arxiv_2603_27646",
+  "type": "article",
+  "title": "PRBench: End-to-end Paper Reproduction in Physics Research",
+  "URL": "https://arxiv.org/abs/2603.27646v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.27646",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.27646",
+    "identifiers": {
+      "arxiv": "2603.27646"
+    },
+    "first_published_at": "2026-03-29",
+    "record_updated_at": "2026-03-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "29e37c2b42c6069d3a65c518d150c1a3d805bbbe367aad150191aaedca1c682d",
+      "submitted_at": "2026-03-29T11:44:57Z",
+      "updated_at": "2026-03-29T11:44:57Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.27646v1"
+    }
+  },
+  "note": "First published: 2026-03-29; Recorded arXiv version: v1; Recorded version updated: 2026-03-29T11:44:57Z.",
+  "author": [
+    {
+      "literal": "Shi Qiu"
+    },
+    {
+      "literal": "Junyi Deng"
+    },
+    {
+      "literal": "Yiwei Deng"
+    },
+    {
+      "literal": "Haoran Dong"
+    },
+    {
+      "literal": "Jieyu Fu"
+    },
+    {
+      "literal": "Mao Li"
+    },
+    {
+      "literal": "Zeyu Li"
+    },
+    {
+      "literal": "Zhaolong Zhang"
+    },
+    {
+      "literal": "Huiwen Zheng"
+    },
+    {
+      "literal": "Leidong Bao"
+    },
+    {
+      "literal": "Anqi Lv"
+    },
+    {
+      "literal": "Zihan Mo"
+    },
+    {
+      "literal": "Yadi Niu"
+    },
+    {
+      "literal": "Yiyang Peng"
+    },
+    {
+      "literal": "Yu Tian"
+    },
+    {
+      "literal": "Yili Wang"
+    },
+    {
+      "literal": "Ziyu Wang"
+    },
+    {
+      "literal": "Zi-Yu Wang"
+    },
+    {
+      "literal": "Jiashen Wei"
+    },
+    {
+      "literal": "Liuheng Wu"
+    },
+    {
+      "literal": "Aoran Xue"
+    },
+    {
+      "literal": "Leyi Yang"
+    },
+    {
+      "literal": "Guanglu Yuan"
+    },
+    {
+      "literal": "Xiarui Zhan"
+    },
+    {
+      "literal": "Jingjun Zhang"
+    },
+    {
+      "literal": "Zifan Zheng"
+    },
+    {
+      "literal": "Pengfei Liu"
+    },
+    {
+      "literal": "Linrui Zhen"
+    },
+    {
+      "literal": "Kaiyang Li"
+    },
+    {
+      "literal": "Qichang Li"
+    },
+    {
+      "literal": "Ziheng Zhou"
+    },
+    {
+      "literal": "Guo-En Nian"
+    },
+    {
+      "literal": "Yunwei Xiao"
+    },
+    {
+      "literal": "Qing-Hong Cao"
+    },
+    {
+      "literal": "Linjie Dai"
+    },
+    {
+      "literal": "Xu Feng"
+    },
+    {
+      "literal": "Peng Gao"
+    },
+    {
+      "literal": "Ying Gu"
+    },
+    {
+      "literal": "Chang Liu"
+    },
+    {
+      "literal": "Jia Liu"
+    },
+    {
+      "literal": "Ming-xing Luo"
+    },
+    {
+      "literal": "Yan-Qing Ma"
+    },
+    {
+      "literal": "Liang-You Peng"
+    },
+    {
+      "literal": "Huichao Song"
+    },
+    {
+      "literal": "Shufeng Wang"
+    },
+    {
+      "literal": "Chenxu Wang"
+    },
+    {
+      "literal": "Tao Wang"
+    },
+    {
+      "literal": "Yi-Nan Wang"
+    },
+    {
+      "literal": "Chengyin Wu"
+    },
+    {
+      "literal": "Pengwei Zhao"
+    },
+    {
+      "literal": "Hua Xing Zhu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.27646",
+  "genre": "preprint",
+  "version": "1"
+}

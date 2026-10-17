@@ -68,3 +68,10 @@ Resources with publication metadata also serve `publication-citation.bib` and `p
 - [Topic manifest](https://awesomecua.github.io/downloads/topics.json): exact reviewed resource IDs, counts, subset URLs and SHA-256 fingerprints. Topic memberships overlap; counts must not be summed.
 
 Each topic page has index.md. Each /downloads/topics/<topic>/ directory serves records.jsonl, citations.bib and citations.csl.json. Pass records.jsonl to export_rag.py --input to build a topic-specific retrieval corpus.
+
+## Download inventory
+
+- [Bilingual data hub](https://awesomecua.github.io/data/)
+- [中文数据中心](https://awesomecua.github.io/zh/data/)
+- [Download manifest](https://awesomecua.github.io/downloads/manifest.json): file paths, exact byte sizes, SHA-256 fingerprints, counts and units. Compare catalog_sha256 with the RAG, citation and topic manifests before combining artifacts.
+- [Download manifest schema](https://awesomecua.github.io/schemas/download-manifest.schema.json)

@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2610.09127",
+  "citation-key": "arxiv_2610_09127",
+  "type": "article",
+  "title": "CADFather: Autonomous CAD Reconstruction through Coordinated Tool Use",
+  "URL": "https://arxiv.org/abs/2610.09127v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.09127",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.09127",
+    "identifiers": {
+      "arxiv": "2610.09127"
+    },
+    "first_published_at": "2026-10-06",
+    "record_updated_at": "2026-10-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3d2f9c678478fe7054983e92de4dd3206f806a1dfe45e8095b3fac45173a5ed0",
+      "submitted_at": "2026-10-06T21:20:59Z",
+      "updated_at": "2026-10-06T21:20:59Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.09127v1"
+    }
+  },
+  "note": "First published: 2026-10-06; Recorded arXiv version: v1; Recorded version updated: 2026-10-06T21:20:59Z.",
+  "author": [
+    {
+      "literal": "Gennadiy Savrasov"
+    },
+    {
+      "literal": "Maksim Elistratov"
+    },
+    {
+      "literal": "Nikita Gavrilov"
+    },
+    {
+      "literal": "Albert Garifullin"
+    },
+    {
+      "literal": "Oleg Pavlov"
+    },
+    {
+      "literal": "Soslan Kabisov"
+    },
+    {
+      "literal": "Vladimir Frolov"
+    },
+    {
+      "literal": "Anton Konushin"
+    },
+    {
+      "literal": "Andrey Kuznetsov"
+    },
+    {
+      "literal": "Dmitrii Zhemchuzhnikov"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.09127",
+  "genre": "preprint",
+  "version": "1"
+}

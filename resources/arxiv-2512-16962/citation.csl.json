@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2512.16962",
+  "citation-key": "arxiv_2512_16962",
+  "type": "article",
+  "title": "MemoryGraft: Persistent Compromise of LLM Agents via Poisoned Experience Retrieval",
+  "URL": "https://arxiv.org/abs/2512.16962v1",
+  "custom": {
+    "catalog_id": "arxiv:2512.16962",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2512.16962",
+    "identifiers": {
+      "arxiv": "2512.16962"
+    },
+    "first_published_at": "2025-12-18",
+    "record_updated_at": "2025-12-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cd2c2455fc5ff9eb74efe529fa087c734465646609c5d1cbd8c69b8e9af6c455",
+      "submitted_at": "2025-12-18T08:34:40Z",
+      "updated_at": "2025-12-18T08:34:40Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2512.16962v1"
+    }
+  },
+  "note": "First published: 2025-12-18; Recorded arXiv version: v1; Recorded version updated: 2025-12-18T08:34:40Z.",
+  "author": [
+    {
+      "literal": "Saksham Sahai Srivastava"
+    },
+    {
+      "literal": "Haoyu He"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2512.16962",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2606.03889",
+  "citation-key": "arxiv_2606_03889",
+  "type": "article",
+  "title": "RealClawBench: Live OpenClaw Benchmarks from Real Developer-Agent Sessions",
+  "URL": "https://arxiv.org/abs/2606.03889v3",
+  "custom": {
+    "catalog_id": "arxiv:2606.03889",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.03889",
+    "identifiers": {
+      "arxiv": "2606.03889"
+    },
+    "first_published_at": "2026-06-02",
+    "record_updated_at": "2026-08-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "96504157ef371a21ed496b5f73fcf8358137b069fcc76405c81b1a6fb3e97591",
+      "submitted_at": "2026-06-02T16:51:24Z",
+      "updated_at": "2026-08-28T05:22:45Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2606.03889v3"
+    }
+  },
+  "note": "First published: 2026-06-02; Recorded arXiv version: v3; Recorded version updated: 2026-08-28T05:22:45Z.",
+  "author": [
+    {
+      "literal": "Zongwei Lv"
+    },
+    {
+      "literal": "Yaoming Li"
+    },
+    {
+      "literal": "Zhewen Tan"
+    },
+    {
+      "literal": "Yilun Yao"
+    },
+    {
+      "literal": "Yuxuan Tian"
+    },
+    {
+      "literal": "Lin Sun"
+    },
+    {
+      "literal": "Xiangzheng Zhang"
+    },
+    {
+      "literal": "Weihong Lin"
+    },
+    {
+      "literal": "Tong Yang"
+    },
+    {
+      "literal": "Guangxiang Zhao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.03889",
+  "genre": "preprint",
+  "version": "3"
+}

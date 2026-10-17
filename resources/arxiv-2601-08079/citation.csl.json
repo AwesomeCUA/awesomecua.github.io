@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2601.08079",
+  "citation-key": "arxiv_2601_08079",
+  "type": "article",
+  "title": "MemoBrain: Executive Memory as an Agentic Brain for Reasoning",
+  "URL": "https://arxiv.org/abs/2601.08079v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.08079",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.08079",
+    "identifiers": {
+      "arxiv": "2601.08079"
+    },
+    "first_published_at": "2026-01-12",
+    "record_updated_at": "2026-01-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "dd79963737ff35b5271b7b93127f1b4de403cefb71c7694364e9f662ee567dba",
+      "submitted_at": "2026-01-12T23:44:59Z",
+      "updated_at": "2026-01-12T23:44:59Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.08079v1"
+    }
+  },
+  "note": "First published: 2026-01-12; Recorded arXiv version: v1; Recorded version updated: 2026-01-12T23:44:59Z.",
+  "author": [
+    {
+      "literal": "Hongjin Qian"
+    },
+    {
+      "literal": "Zhao Cao"
+    },
+    {
+      "literal": "Zheng Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.08079",
+  "genre": "preprint",
+  "version": "1"
+}

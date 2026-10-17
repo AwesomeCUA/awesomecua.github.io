@@ -8,6 +8,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/recording/rec
 
 - [Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction](https://awesomecua.github.io/resources/arxiv-2610-12984/) — 2026-10-09
   Aligns human screen recordings, input events, and accessibility information to derive reusable workflow skills from desktop demonstrations.
+- [Syll: Open-Source Personal Automation with Cross-Surface Execution](https://awesomecua.github.io/resources/arxiv-2606-07594/) — 2026-05-28
+  Syll combines tool calls, shell execution and visual GUI control in a personal-automation runtime. It turns user demonstrations into reusable skills and exposes execution logs, keyframes and approval checkpoints for inspection.
 - [ShowUI-Aloha: Human-Taught GUI Agent](https://awesomecua.github.io/resources/arxiv-2601-07181/) — 2026-01-12
   Transforms human screen recordings and input events into annotated demonstrations used by planning and execution components for GUI tasks.
 - [GUIrilla: A Scalable Framework for Automated Desktop UI Exploration](https://awesomecua.github.io/resources/arxiv-2510-16051/) — 2025-10-16

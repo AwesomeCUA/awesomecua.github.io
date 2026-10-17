@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2602.13318",
+  "citation-key": "arxiv_2602_13318",
+  "type": "article",
+  "title": "DECKBench: Benchmarking Multi-Agent Frameworks for Academic Slide Generation and Editing",
+  "URL": "https://arxiv.org/abs/2602.13318v1",
+  "custom": {
+    "catalog_id": "arxiv:2602.13318",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.13318",
+    "identifiers": {
+      "arxiv": "2602.13318"
+    },
+    "first_published_at": "2026-02-10",
+    "record_updated_at": "2026-02-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "db10440d042227394c93142f40b6c6d0bed2e9a0923af9c3c54359ce9f892b82",
+      "submitted_at": "2026-02-10T19:49:06Z",
+      "updated_at": "2026-02-10T19:49:06Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2602.13318v1"
+    }
+  },
+  "note": "First published: 2026-02-10; Recorded arXiv version: v1; Recorded version updated: 2026-02-10T19:49:06Z.",
+  "author": [
+    {
+      "literal": "Daesik Jang"
+    },
+    {
+      "literal": "Morgan Lindsay Heisler"
+    },
+    {
+      "literal": "Linzi Xing"
+    },
+    {
+      "literal": "Yifei Li"
+    },
+    {
+      "literal": "Edward Wang"
+    },
+    {
+      "literal": "Ying Xiong"
+    },
+    {
+      "literal": "Yong Zhang"
+    },
+    {
+      "literal": "Zhenan Fan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.13318",
+  "genre": "preprint",
+  "version": "1"
+}

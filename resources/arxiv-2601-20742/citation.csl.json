@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2601.20742",
+  "citation-key": "arxiv_2601_20742",
+  "type": "article",
+  "title": "Compression Tells Intelligence: Visual Coding, Visual Token Technology, and the Unification",
+  "URL": "https://arxiv.org/abs/2601.20742v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.20742",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.20742",
+    "identifiers": {
+      "arxiv": "2601.20742"
+    },
+    "first_published_at": "2026-01-28",
+    "record_updated_at": "2026-01-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "51b52155ffb391c524b5263965eef5e6a518a9d74c5899a57237edb529daeeeb",
+      "submitted_at": "2026-01-28T16:18:20Z",
+      "updated_at": "2026-01-28T16:18:20Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.20742v1"
+    }
+  },
+  "note": "First published: 2026-01-28; Recorded arXiv version: v1; Recorded version updated: 2026-01-28T16:18:20Z.",
+  "author": [
+    {
+      "literal": "Xin Jin"
+    },
+    {
+      "literal": "Jinming Liu"
+    },
+    {
+      "literal": "Yuntao Wei"
+    },
+    {
+      "literal": "Junyan Lin"
+    },
+    {
+      "literal": "Zhicheng Wang"
+    },
+    {
+      "literal": "Jianguo Huang"
+    },
+    {
+      "literal": "Xudong Yang"
+    },
+    {
+      "literal": "Yanxiao Liu"
+    },
+    {
+      "literal": "Wenjun Zeng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.20742",
+  "genre": "preprint",
+  "version": "1"
+}

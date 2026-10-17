@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2608.19741",
+  "citation-key": "arxiv_2608_19741",
+  "type": "article",
+  "title": "One Success Isn't Reliability: Thinkingbox, a Sandbox and Benchmark for Agents in Stateful Business Workflows",
+  "URL": "https://arxiv.org/abs/2608.19741v4",
+  "custom": {
+    "catalog_id": "arxiv:2608.19741",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2608.19741",
+    "identifiers": {
+      "arxiv": "2608.19741"
+    },
+    "first_published_at": "2026-08-20",
+    "record_updated_at": "2026-10-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cbc941d961a6d26823030e3a8ed0e18756dbf526667043377881527b262b53d3",
+      "submitted_at": "2026-08-20T07:37:57Z",
+      "updated_at": "2026-10-01T16:14:54Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2608.19741v4"
+    }
+  },
+  "note": "First published: 2026-08-20; Recorded arXiv version: v4; Recorded version updated: 2026-10-01T16:14:54Z.",
+  "author": [
+    {
+      "literal": "Zhuochun Li"
+    },
+    {
+      "literal": "Youngmin Ko"
+    },
+    {
+      "literal": "Ali Keramati"
+    },
+    {
+      "literal": "Tuhin Kundu"
+    },
+    {
+      "literal": "Liang-Chun Tsai"
+    },
+    {
+      "literal": "Nicola Ferri"
+    },
+    {
+      "literal": "Mirco Milletari"
+    },
+    {
+      "literal": "Jiaxiang Liu"
+    },
+    {
+      "literal": "Susana Palmaz Lopez Pelaez"
+    },
+    {
+      "literal": "Yuepeng Wang"
+    },
+    {
+      "literal": "Vadim Smolyakov"
+    },
+    {
+      "literal": "Xiang Jiang"
+    },
+    {
+      "literal": "Kjartan Olafsson"
+    },
+    {
+      "literal": "Tommy Guy"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2608.19741",
+  "genre": "preprint",
+  "version": "4"
+}

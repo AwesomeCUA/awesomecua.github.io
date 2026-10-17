@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2607.26769",
+  "citation-key": "arxiv_2607_26769",
+  "type": "article",
+  "title": "See2Think: Do Multimodal Models Really Use Intermediate Visual States?",
+  "URL": "https://arxiv.org/abs/2607.26769v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.26769",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.26769",
+    "identifiers": {
+      "arxiv": "2607.26769"
+    },
+    "first_published_at": "2026-07-29",
+    "record_updated_at": "2026-07-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bb11fc857750d5a67e9bddc8a28e20ba7301ae8c660c08f9af2bd7a573d6a0f1",
+      "submitted_at": "2026-07-29T11:10:34Z",
+      "updated_at": "2026-07-29T11:10:34Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.26769v1"
+    }
+  },
+  "note": "First published: 2026-07-29; Recorded arXiv version: v1; Recorded version updated: 2026-07-29T11:10:34Z.",
+  "author": [
+    {
+      "literal": "Siyu Yan"
+    },
+    {
+      "literal": "Zhuoran Yan"
+    },
+    {
+      "literal": "Haiying Xu"
+    },
+    {
+      "literal": "Panhao Zhou"
+    },
+    {
+      "literal": "Jingyu Chen"
+    },
+    {
+      "literal": "Chenhao Ji"
+    },
+    {
+      "literal": "Shuo Cao"
+    },
+    {
+      "literal": "Yongheng Zhang"
+    },
+    {
+      "literal": "Haoze Liu"
+    },
+    {
+      "literal": "Siyu Zhang"
+    },
+    {
+      "literal": "Xiwen Gu"
+    },
+    {
+      "literal": "Yihao Liu"
+    },
+    {
+      "literal": "Alex Jinpeng Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.26769",
+  "genre": "preprint",
+  "version": "1"
+}

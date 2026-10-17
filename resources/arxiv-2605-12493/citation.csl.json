@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2605.12493",
+  "citation-key": "arxiv_2605_12493",
+  "type": "article",
+  "title": "LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues",
+  "URL": "https://arxiv.org/abs/2605.12493v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.12493",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2605.12493",
+    "identifiers": {
+      "arxiv": "2605.12493"
+    },
+    "first_published_at": "2026-05-12",
+    "record_updated_at": "2026-05-12",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5893d1d9205776667a1e1d89720ec3baf55fafe80cc9c6201ca97088f44a10ac",
+      "submitted_at": "2026-05-12T17:59:34Z",
+      "updated_at": "2026-05-12T17:59:34Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.12493v1"
+    }
+  },
+  "note": "First published: 2026-05-12; Recorded arXiv version: v1; Recorded version updated: 2026-05-12T17:59:34Z.",
+  "author": [
+    {
+      "literal": "Di Wu"
+    },
+    {
+      "literal": "Zixiang Ji"
+    },
+    {
+      "literal": "Asmi Kawatkar"
+    },
+    {
+      "literal": "Bryan Kwan"
+    },
+    {
+      "literal": "Jia-Chen Gu"
+    },
+    {
+      "literal": "Nanyun Peng"
+    },
+    {
+      "literal": "Kai-Wei Chang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.12493",
+  "genre": "preprint",
+  "version": "1"
+}

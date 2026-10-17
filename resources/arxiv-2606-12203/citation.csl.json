@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2606.12203",
+  "citation-key": "arxiv_2606_12203",
+  "type": "article",
+  "title": "Adaptive Multi-Resolution Procedural Knowledge Compression for Large Language Models",
+  "URL": "https://arxiv.org/abs/2606.12203v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.12203",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.12203",
+    "identifiers": {
+      "arxiv": "2606.12203"
+    },
+    "first_published_at": "2026-06-10",
+    "record_updated_at": "2026-06-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "70f57e75cc7a03863906f4cf43d44b44c85e5ce2477da948bb345a3ba0532507",
+      "submitted_at": "2026-06-10T15:21:18Z",
+      "updated_at": "2026-06-10T15:21:18Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.12203v1"
+    }
+  },
+  "note": "First published: 2026-06-10; Recorded arXiv version: v1; Recorded version updated: 2026-06-10T15:21:18Z.",
+  "author": [
+    {
+      "literal": "Changyue Wang"
+    },
+    {
+      "literal": "Weihang Su"
+    },
+    {
+      "literal": "Qingyao Ai"
+    },
+    {
+      "literal": "Yichen Tang"
+    },
+    {
+      "literal": "Runzhong Qiao"
+    },
+    {
+      "literal": "Xuancheng Li"
+    },
+    {
+      "literal": "Min Zhang"
+    },
+    {
+      "literal": "Yiqun Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.12203",
+  "genre": "preprint",
+  "version": "1"
+}

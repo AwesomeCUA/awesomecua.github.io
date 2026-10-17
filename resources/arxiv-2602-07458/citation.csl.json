@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2602.07458",
+  "citation-key": "arxiv_2602_07458",
+  "type": "article",
+  "title": "SpatialReward: Bridging the Perception Gap in Online RL for Image Editing via Explicit Spatial Reasoning",
+  "URL": "https://arxiv.org/abs/2602.07458v4",
+  "custom": {
+    "catalog_id": "arxiv:2602.07458",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.07458",
+    "identifiers": {
+      "arxiv": "2602.07458"
+    },
+    "first_published_at": "2026-02-07",
+    "record_updated_at": "2026-05-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ff3289631105e3b73ed51024a967a1665578b9c06d14ce93bc79f3ed9d1f5646",
+      "submitted_at": "2026-02-07T09:23:34Z",
+      "updated_at": "2026-05-13T14:58:33Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2602.07458v4"
+    }
+  },
+  "note": "First published: 2026-02-07; Recorded arXiv version: v4; Recorded version updated: 2026-05-13T14:58:33Z.",
+  "author": [
+    {
+      "literal": "Yancheng Long"
+    },
+    {
+      "literal": "Yankai Yang"
+    },
+    {
+      "literal": "Hongyang Wei"
+    },
+    {
+      "literal": "Wei Chen"
+    },
+    {
+      "literal": "Tianke Zhang"
+    },
+    {
+      "literal": "Haonan fan"
+    },
+    {
+      "literal": "Changyi Liu"
+    },
+    {
+      "literal": "Kaiyu Jiang"
+    },
+    {
+      "literal": "Jiankang Chen"
+    },
+    {
+      "literal": "Kaiyu Tang"
+    },
+    {
+      "literal": "Bin Wen"
+    },
+    {
+      "literal": "Fan Yang"
+    },
+    {
+      "literal": "Tingting Gao"
+    },
+    {
+      "literal": "Han Li"
+    },
+    {
+      "literal": "Shuo Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.07458",
+  "genre": "preprint",
+  "version": "4"
+}

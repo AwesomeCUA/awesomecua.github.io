@@ -1,0 +1,136 @@
+{
+  "id": "arxiv:2609.36071",
+  "citation-key": "arxiv_2609_36071",
+  "type": "article",
+  "title": "LongCat-DeepResearch Technical Report",
+  "URL": "https://arxiv.org/abs/2609.36071v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.36071",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.36071",
+    "identifiers": {
+      "arxiv": "2609.36071"
+    },
+    "first_published_at": "2026-09-28",
+    "record_updated_at": "2026-09-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b90b3f3393dd2fe8ac495fa26f696fda07022bc179a9e810d678af50e06303ea",
+      "submitted_at": "2026-09-28T18:22:38Z",
+      "updated_at": "2026-09-28T18:22:38Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.36071v1"
+    }
+  },
+  "note": "First published: 2026-09-28; Recorded arXiv version: v1; Recorded version updated: 2026-09-28T18:22:38Z.",
+  "author": [
+    {
+      "literal": "Meituan LongCat Team"
+    },
+    {
+      "literal": "He Zhu"
+    },
+    {
+      "literal": "Yue Xu"
+    },
+    {
+      "literal": "Wanli Wu"
+    },
+    {
+      "literal": "Haolin Ren"
+    },
+    {
+      "literal": "Yuxin Bian"
+    },
+    {
+      "literal": "Jiarui Zhao"
+    },
+    {
+      "literal": "Rongzhi Zhang"
+    },
+    {
+      "literal": "Quanchi Weng"
+    },
+    {
+      "literal": "Jinghao Cui"
+    },
+    {
+      "literal": "Yu Fan"
+    },
+    {
+      "literal": "Yuhan Liu"
+    },
+    {
+      "literal": "Yunhu Ye"
+    },
+    {
+      "literal": "Jiyuan Ren"
+    },
+    {
+      "literal": "Fengcheng Yuan"
+    },
+    {
+      "literal": "Zhao Yang"
+    },
+    {
+      "literal": "Jiacheng Zhang"
+    },
+    {
+      "literal": "Yuchuan Dai"
+    },
+    {
+      "literal": "Ruixuan Xiao"
+    },
+    {
+      "literal": "Haozhe Sun"
+    },
+    {
+      "literal": "Xiangyuan Liu"
+    },
+    {
+      "literal": "Cheng Sun"
+    },
+    {
+      "literal": "Yao Du"
+    },
+    {
+      "literal": "Yiming Hao"
+    },
+    {
+      "literal": "Hongbo Guo"
+    },
+    {
+      "literal": "Shuo He"
+    },
+    {
+      "literal": "Lei Wang"
+    },
+    {
+      "literal": "Xunliang Cai"
+    },
+    {
+      "literal": "Yan Chen"
+    },
+    {
+      "literal": "Fan Yang"
+    },
+    {
+      "literal": "Lingchuan Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.36071",
+  "genre": "preprint",
+  "version": "1"
+}

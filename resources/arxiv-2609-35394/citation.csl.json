@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2609.35394",
+  "citation-key": "arxiv_2609_35394",
+  "type": "article",
+  "title": "Rethinking Visual Token Compression for Video Large Language Models: A Simple Yet Strong Baseline",
+  "URL": "https://arxiv.org/abs/2609.35394v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.35394",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.35394",
+    "identifiers": {
+      "arxiv": "2609.35394"
+    },
+    "first_published_at": "2026-09-28",
+    "record_updated_at": "2026-09-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b8fbdc2d5ddbd198e24efbeada59293cf0c0e86f38da39fe7c9de99b6621e334",
+      "submitted_at": "2026-09-28T15:21:37Z",
+      "updated_at": "2026-09-28T15:21:37Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.35394v1"
+    }
+  },
+  "note": "First published: 2026-09-28; Recorded arXiv version: v1; Recorded version updated: 2026-09-28T15:21:37Z.",
+  "author": [
+    {
+      "literal": "Xiao Zhang"
+    },
+    {
+      "literal": "Wang Zeng"
+    },
+    {
+      "literal": "Sheng Jin"
+    },
+    {
+      "literal": "Wentao Liu"
+    },
+    {
+      "literal": "Chen Qian"
+    },
+    {
+      "literal": "Shichao Kan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.35394",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2601.02163",
+  "citation-key": "arxiv_2601_02163",
+  "type": "article",
+  "title": "EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning",
+  "URL": "https://arxiv.org/abs/2601.02163v2",
+  "custom": {
+    "catalog_id": "arxiv:2601.02163",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.02163",
+    "identifiers": {
+      "arxiv": "2601.02163"
+    },
+    "first_published_at": "2026-01-05",
+    "record_updated_at": "2026-01-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a27e46c1ebad9ae549abfed18965dec3b780281bb6ce77a3301b71700afefea5",
+      "submitted_at": "2026-01-05T14:39:43Z",
+      "updated_at": "2026-01-09T02:23:07Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2601.02163v2"
+    }
+  },
+  "note": "First published: 2026-01-05; Recorded arXiv version: v2; Recorded version updated: 2026-01-09T02:23:07Z.",
+  "author": [
+    {
+      "literal": "Chuanrui Hu"
+    },
+    {
+      "literal": "Xingze Gao"
+    },
+    {
+      "literal": "Zuyi Zhou"
+    },
+    {
+      "literal": "Dannong Xu"
+    },
+    {
+      "literal": "Yi Bai"
+    },
+    {
+      "literal": "Xintong Li"
+    },
+    {
+      "literal": "Hui Zhang"
+    },
+    {
+      "literal": "Tong Li"
+    },
+    {
+      "literal": "Chong Zhang"
+    },
+    {
+      "literal": "Lidong Bing"
+    },
+    {
+      "literal": "Yafeng Deng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.02163",
+  "genre": "preprint",
+  "version": "2"
+}

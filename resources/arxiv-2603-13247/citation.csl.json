@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:2603.13247",
+  "citation-key": "arxiv_2603_13247",
+  "type": "article",
+  "title": "ILION: Deterministic Pre-Execution Safety Gates for Agentic AI Systems",
+  "URL": "https://arxiv.org/abs/2603.13247v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.13247",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.13247",
+    "identifiers": {
+      "arxiv": "2603.13247"
+    },
+    "first_published_at": "2026-02-22",
+    "record_updated_at": "2026-02-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "eb1725f42fe7434d70177dcf1da1761aa0c0f3675e05cac039ea021d629066e4",
+      "submitted_at": "2026-02-22T12:25:42Z",
+      "updated_at": "2026-02-22T12:25:42Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.13247v1"
+    }
+  },
+  "note": "First published: 2026-02-22; Recorded arXiv version: v1; Recorded version updated: 2026-02-22T12:25:42Z.",
+  "author": [
+    {
+      "literal": "Florin Adrian Chitan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.13247",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1618,6 +1618,475 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2603.10178v1",
+    "archive": "arXiv",
+    "archive_location": "2603.10178",
+    "author": [
+      {
+        "literal": "Linxin Song"
+      },
+      {
+        "literal": "Jieyu Zhang"
+      },
+      {
+        "literal": "Huanxin Sheng"
+      },
+      {
+        "literal": "Taiwei Shi"
+      },
+      {
+        "literal": "Gupta Rahul"
+      },
+      {
+        "literal": "Yang Liu"
+      },
+      {
+        "literal": "Ranjay Krishna"
+      },
+      {
+        "literal": "Jian Kang"
+      },
+      {
+        "literal": "Jieyu Zhao"
+      }
+    ],
+    "citation-key": "arxiv_2603_10178",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "22b3001540ac8cc75117cdfb4f381462fe7df3fe7700a86e14b9f522803316ac",
+        "submitted_at": "2026-03-10T19:17:22Z",
+        "updated_at": "2026-03-10T19:17:22Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.10178v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.10178",
+      "catalog_id": "arxiv:2603.10178",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-10",
+      "identifiers": {
+        "arxiv": "2603.10178"
+      },
+      "record_updated_at": "2026-03-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.10178",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          10
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-10; Recorded arXiv version: v1; Recorded version updated: 2026-03-10T19:17:22Z.",
+    "title": "Video-Based Reward Modeling for Computer-Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.19191v1",
+    "archive": "arXiv",
+    "archive_location": "2603.19191",
+    "author": [
+      {
+        "literal": "Zehao Li"
+      },
+      {
+        "literal": "Zhenyu Wu"
+      },
+      {
+        "literal": "Yibo Zhao"
+      },
+      {
+        "literal": "Bowen Yang"
+      },
+      {
+        "literal": "Jingjing Xie"
+      },
+      {
+        "literal": "Zhaoyang Liu"
+      },
+      {
+        "literal": "Zhoumianze Liu"
+      },
+      {
+        "literal": "Kaiming Jin"
+      },
+      {
+        "literal": "Jianze Liang"
+      },
+      {
+        "literal": "Zonglin Li"
+      },
+      {
+        "literal": "Feng Wu"
+      },
+      {
+        "literal": "Bowen Zhou"
+      },
+      {
+        "literal": "Zun Wang"
+      },
+      {
+        "literal": "Zichen Ding"
+      }
+    ],
+    "citation-key": "arxiv_2603_19191",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ff31371580af6a0c43a6c26f076d5060ee06f974d3a6c1ade67348dc0af4859d",
+        "submitted_at": "2026-03-19T17:47:47Z",
+        "updated_at": "2026-03-19T17:47:47Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.19191v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.19191",
+      "catalog_id": "arxiv:2603.19191",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-19",
+      "identifiers": {
+        "arxiv": "2603.19191"
+      },
+      "record_updated_at": "2026-03-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.19191",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-19; Recorded arXiv version: v1; Recorded version updated: 2026-03-19T17:47:47Z.",
+    "title": "OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.19685v1",
+    "archive": "arXiv",
+    "archive_location": "2603.19685",
+    "author": [
+      {
+        "literal": "Taiyi Wang"
+      },
+      {
+        "literal": "Sian Gooding"
+      },
+      {
+        "literal": "Florian Hartmann"
+      },
+      {
+        "literal": "Oriana Riva"
+      },
+      {
+        "literal": "Edward Grefenstette"
+      }
+    ],
+    "citation-key": "arxiv_2603_19685",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5538933a0e3d11df6ff4d767849979703d83412599fbbb0f8b432c4d9850633b",
+        "submitted_at": "2026-03-20T06:32:16Z",
+        "updated_at": "2026-03-20T06:32:16Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.19685v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.19685",
+      "catalog_id": "arxiv:2603.19685",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-20",
+      "identifiers": {
+        "arxiv": "2603.19685"
+      },
+      "record_updated_at": "2026-03-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.19685",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-20; Recorded arXiv version: v1; Recorded version updated: 2026-03-20T06:32:16Z.",
+    "title": "A Subgoal-driven Framework for Improving Long-Horizon LLM Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.05157v3",
+    "archive": "arXiv",
+    "archive_location": "2604.05157",
+    "author": [
+      {
+        "literal": "Rongqian Chen"
+      },
+      {
+        "literal": "Yu Li"
+      },
+      {
+        "literal": "Zeyu Fang"
+      },
+      {
+        "literal": "Sizhe Tang"
+      },
+      {
+        "literal": "Weidong Cao"
+      },
+      {
+        "literal": "Tian Lan"
+      }
+    ],
+    "citation-key": "arxiv_2604_05157",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "238aac264fb21022f7c546ae3aa3f4ea104c381f5d318f6d962f22fb00095216",
+        "submitted_at": "2026-04-06T20:39:30Z",
+        "updated_at": "2026-05-28T08:13:55Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2604.05157v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.05157",
+      "catalog_id": "arxiv:2604.05157",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-06",
+      "identifiers": {
+        "arxiv": "2604.05157"
+      },
+      "record_updated_at": "2026-05-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.05157",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-06; Recorded arXiv version: v3; Recorded version updated: 2026-05-28T08:13:55Z.",
+    "title": "IntentScore: Intent-Conditioned Action Evaluation for Computer-Use Agents",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.06240v1",
+    "archive": "arXiv",
+    "archive_location": "2604.06240",
+    "author": [
+      {
+        "literal": "Corby Rosset"
+      },
+      {
+        "literal": "Pratyusha Sharma"
+      },
+      {
+        "literal": "Andrew Zhao"
+      },
+      {
+        "literal": "Miguel Gonzalez-Fernandez"
+      },
+      {
+        "literal": "Ahmed Awadallah"
+      }
+    ],
+    "citation-key": "arxiv_2604_06240",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b452684b305c4f20ded686289b448fbe4f08bb3b34f515a43e2ce5d6dc4ef506",
+        "submitted_at": "2026-04-05T06:26:05Z",
+        "updated_at": "2026-04-05T06:26:05Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.06240v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.06240",
+      "catalog_id": "arxiv:2604.06240",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-05",
+      "identifiers": {
+        "arxiv": "2604.06240"
+      },
+      "record_updated_at": "2026-04-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.06240",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-05; Recorded arXiv version: v1; Recorded version updated: 2026-04-05T06:26:05Z.",
+    "title": "The Art of Building Verifiers for Computer Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.07277v2",
+    "archive": "arXiv",
+    "archive_location": "2604.07277",
+    "author": [
+      {
+        "literal": "Guo Gan"
+      },
+      {
+        "literal": "Yuxuan Ding"
+      },
+      {
+        "literal": "Cong Chen"
+      },
+      {
+        "literal": "Yuwei Ren"
+      },
+      {
+        "literal": "Yin Huang"
+      },
+      {
+        "literal": "Hong Zhou"
+      }
+    ],
+    "citation-key": "arxiv_2604_07277",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f4d0dbeac950760f4f676ab7c651a881fd275f4adb69d46a94a11c4f10a03980",
+        "submitted_at": "2026-04-08T16:40:26Z",
+        "updated_at": "2026-05-08T03:06:31Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2604.07277v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.07277",
+      "catalog_id": "arxiv:2604.07277",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-08",
+      "identifiers": {
+        "arxiv": "2604.07277"
+      },
+      "record_updated_at": "2026-05-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.07277",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-08; Recorded arXiv version: v2; Recorded version updated: 2026-05-08T03:06:31Z.",
+    "title": "Android Coach: Improve Online Agentic Training Efficiency with Single State Multiple Actions",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.18240v1",
+    "archive": "arXiv",
+    "archive_location": "2604.18240",
+    "author": [
+      {
+        "literal": "Wentao Shi"
+      },
+      {
+        "literal": "Yu Wang"
+      },
+      {
+        "literal": "Yuyang Zhao"
+      },
+      {
+        "literal": "Yuxin Chen"
+      },
+      {
+        "literal": "Fuli Feng"
+      },
+      {
+        "literal": "Xueyuan Hao"
+      },
+      {
+        "literal": "Xi Su"
+      },
+      {
+        "literal": "Qi Gu"
+      },
+      {
+        "literal": "Hui Su"
+      },
+      {
+        "literal": "Xunliang Cai"
+      },
+      {
+        "literal": "Xiangnan He"
+      }
+    ],
+    "citation-key": "arxiv_2604_18240",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "91a9cdb6c8cb124d2e6033f0decc85e0c73bd972984d973ff687bbdc2be21176",
+        "submitted_at": "2026-04-20T13:23:38Z",
+        "updated_at": "2026-04-20T13:23:38Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.18240v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.18240",
+      "catalog_id": "arxiv:2604.18240",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-20",
+      "identifiers": {
+        "arxiv": "2604.18240"
+      },
+      "record_updated_at": "2026-04-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.18240",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-20; Recorded arXiv version: v1; Recorded version updated: 2026-04-20T13:23:38Z.",
+    "title": "AJ-Bench: Benchmarking Agent-as-a-Judge for Environment-Aware Evaluation",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2607.23263v2",
     "archive": "arXiv",
     "archive_location": "2607.23263",
@@ -1853,6 +2322,70 @@
     "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2608.11434v1",
+    "archive": "arXiv",
+    "archive_location": "2608.11434",
+    "author": [
+      {
+        "literal": "Ziqiang Wang"
+      },
+      {
+        "literal": "Li Gu"
+      },
+      {
+        "literal": "Zhixiang Chi"
+      },
+      {
+        "literal": "Zhi Liu"
+      },
+      {
+        "literal": "Seyed Mehdi Ayyoubzadeh"
+      },
+      {
+        "literal": "Yuanhao Yu"
+      },
+      {
+        "literal": "Yang Wang"
+      }
+    ],
+    "citation-key": "arxiv_2608_11434",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a2606ae96ca3ea99b5c7278485601f9bde3b64eefdd3bfecc2bbfc678c39b4fc",
+        "submitted_at": "2026-08-11T21:00:46Z",
+        "updated_at": "2026-08-11T21:00:46Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2608.11434v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.11434",
+      "catalog_id": "arxiv:2608.11434",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-08-11",
+      "identifiers": {
+        "arxiv": "2608.11434"
+      },
+      "record_updated_at": "2026-08-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.11434",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-11; Recorded arXiv version: v1; Recorded version updated: 2026-08-11T21:00:46Z.",
+    "title": "Benchmarking LLM Judges for Mobile Agent Evaluation",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2608.22847v1",

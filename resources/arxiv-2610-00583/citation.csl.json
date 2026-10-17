@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2610.00583",
+  "citation-key": "arxiv_2610_00583",
+  "type": "article",
+  "title": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams",
+  "URL": "https://arxiv.org/abs/2610.00583v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.00583",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.00583",
+    "identifiers": {
+      "arxiv": "2610.00583"
+    },
+    "first_published_at": "2026-09-30",
+    "record_updated_at": "2026-09-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2ab6947bcf11eb3b60e4c665646357374e351fdf3ce59311e53fe45689ad7900",
+      "submitted_at": "2026-09-30T18:49:25Z",
+      "updated_at": "2026-09-30T18:49:25Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.00583v1"
+    }
+  },
+  "note": "First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T18:49:25Z.",
+  "author": [
+    {
+      "literal": "Sahan Paliskara"
+    },
+    {
+      "literal": "Nattaput Namchittai"
+    },
+    {
+      "literal": "Andrew Lampinen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.00583",
+  "genre": "preprint",
+  "version": "1"
+}

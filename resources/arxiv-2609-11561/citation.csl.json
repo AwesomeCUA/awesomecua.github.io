@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2609.11561",
+  "citation-key": "arxiv_2609_11561",
+  "type": "article",
+  "title": "Memory as Plans: World-Action Modeling with Memory-Grounded Planning",
+  "URL": "https://arxiv.org/abs/2609.11561v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.11561",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.11561",
+    "identifiers": {
+      "arxiv": "2609.11561"
+    },
+    "first_published_at": "2026-09-10",
+    "record_updated_at": "2026-09-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6459d998a9621ec2b104c6f9f9546c19ca5a6a13e28165cf424d05dd8afe1598",
+      "submitted_at": "2026-09-10T13:52:51Z",
+      "updated_at": "2026-09-10T13:52:51Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.11561v1"
+    }
+  },
+  "note": "First published: 2026-09-10; Recorded arXiv version: v1; Recorded version updated: 2026-09-10T13:52:51Z.",
+  "author": [
+    {
+      "literal": "Sizhe Zhao"
+    },
+    {
+      "literal": "Haozhe Xie"
+    },
+    {
+      "literal": "Weiyu Zhao"
+    },
+    {
+      "literal": "Chenchu Zhang"
+    },
+    {
+      "literal": "Huan Wang"
+    },
+    {
+      "literal": "Chenyang Wang"
+    },
+    {
+      "literal": "Qinglin Liu"
+    },
+    {
+      "literal": "Shengping Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.11561",
+  "genre": "preprint",
+  "version": "1"
+}

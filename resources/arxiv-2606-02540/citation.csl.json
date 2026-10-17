@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2606.02540",
+  "citation-key": "arxiv_2606_02540",
+  "type": "article",
+  "title": "SkillHarm: Lifecycle-Aware Skill-Based Attacks via Automated Construction",
+  "URL": "https://arxiv.org/abs/2606.02540v2",
+  "custom": {
+    "catalog_id": "arxiv:2606.02540",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.02540",
+    "identifiers": {
+      "arxiv": "2606.02540"
+    },
+    "first_published_at": "2026-06-01",
+    "record_updated_at": "2026-10-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "731e5f8e51ca039b8c06a37571b70d9581da37ce7a097a34eb8fcc722f80ad7b",
+      "submitted_at": "2026-06-01T17:45:39Z",
+      "updated_at": "2026-10-11T22:23:30Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2606.02540v2"
+    }
+  },
+  "note": "First published: 2026-06-01; Recorded arXiv version: v2; Recorded version updated: 2026-10-11T22:23:30Z.",
+  "author": [
+    {
+      "literal": "Yuting Ning"
+    },
+    {
+      "literal": "Zhehao Zhang"
+    },
+    {
+      "literal": "Yash Kumar Lal"
+    },
+    {
+      "literal": "Boyu Gou"
+    },
+    {
+      "literal": "Junyi Li"
+    },
+    {
+      "literal": "Weitong Ruan"
+    },
+    {
+      "literal": "Chentao Ye"
+    },
+    {
+      "literal": "Rahul Gupta"
+    },
+    {
+      "literal": "Diyi Yang"
+    },
+    {
+      "literal": "Yu Su"
+    },
+    {
+      "literal": "Huan Sun"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.02540",
+  "genre": "preprint",
+  "version": "2"
+}

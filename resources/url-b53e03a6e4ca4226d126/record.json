@@ -1,0 +1,123 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "availability": "Ungated v1.0 JSON task-definition file.",
+    "benchmark_protocol": {
+      "actions": [
+        "mobile GUI actions through a separately configured agent"
+      ],
+      "counts": [
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/OpenDFM/MobA-MobBench/raw/main/README.md",
+          "population": "MobBench tasks used in the paper",
+          "qualifier": "exact",
+          "unit": "tasks",
+          "value": 50
+        }
+      ],
+      "evaluation": "The publisher reports a fifty-task real-device evaluation; the inspected release does not establish an automatic correctness judge.",
+      "evidence_urls": [
+        "https://huggingface.co/datasets/OpenDFM/MobA-MobBench/raw/main/README.md"
+      ],
+      "focus": [
+        "mobile task completion"
+      ],
+      "notes": "Task definitions are distinct from device images, agent execution and automated scoring.",
+      "observations": [
+        "Android device interface"
+      ],
+      "setting": "interactive"
+    },
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "license_review": {
+      "data": {
+        "evidence_urls": [
+          "https://huggingface.co/datasets/OpenDFM/MobA-MobBench/raw/main/README.md"
+        ],
+        "reason": "Dataset-card declaration for the MobBench task-definition release only."
+      }
+    },
+    "metrics": [],
+    "release_revision": "28941d10c49a16efb991d4157e512e14204bf3d6",
+    "task_count": null
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:32:07Z",
+      "role": "primary",
+      "sha256": "231a8f483256c774840c99383ab6536520a0aed0f04d62b4d64f1f59477b906e",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "relations",
+        "details.benchmark_protocol",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/datasets/OpenDFM/MobA-MobBench/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:32:07Z",
+      "role": "primary",
+      "sha256": "4e7225f956d7cee98fe671e7bfd91fc407d87dd805d8f0c11c3b0c839714ccf3",
+      "supports": [
+        "identity",
+        "release_status",
+        "details.release_revision"
+      ],
+      "url": "https://huggingface.co/api/datasets/OpenDFM/MobA-MobBench"
+    }
+  ],
+  "id": "url:b53e03a6e4ca4226d126",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-17T12:32:07Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "Dataset-card declaration for the MobBench task-definition release only.",
+      "declared": "cc-by-nc-sa-4.0",
+      "retrieved_at": "2026-10-17T12:32:07Z",
+      "url": "https://huggingface.co/datasets/OpenDFM/MobA-MobBench/raw/main/README.md"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/OpenDFM/MobA-MobBench"
+    }
+  ],
+  "name": "MobBench task definitions",
+  "notes": "The ungated manifest lists MobBench_tasks_release_v1.0.json and bilingual cards. The card reports fifty tasks; no sample records were downloaded to recount them. This release supplies task definitions and agent setup guidance, not an independently verified automatic judge or a bundled Android environment. The data card declares CC-BY-NC-SA-4.0; code and model licenses are separate.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/OpenDFM/MobA-MobBench/raw/main/README.md",
+      "target_id": "arxiv:2410.13757",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A public set of real-device mobile task definitions used to evaluate MobA, with Chinese and English task material packaged in a versioned JSON release.",
+  "topics": [
+    "evaluation",
+    "mobile-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/OpenDFM/MobA-MobBench"
+}

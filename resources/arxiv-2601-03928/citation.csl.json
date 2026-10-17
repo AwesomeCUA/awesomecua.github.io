@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2601.03928",
+  "citation-key": "arxiv_2601_03928",
+  "type": "article",
+  "title": "FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection",
+  "URL": "https://arxiv.org/abs/2601.03928v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.03928",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2601.03928",
+    "identifiers": {
+      "arxiv": "2601.03928"
+    },
+    "first_published_at": "2026-01-07",
+    "record_updated_at": "2026-01-07",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "518a9699a6c11e6f61b655f4016170c50bf5d949e477134521df1c0214320046",
+      "submitted_at": "2026-01-07T13:48:12Z",
+      "updated_at": "2026-01-07T13:48:12Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.03928v1"
+    }
+  },
+  "note": "First published: 2026-01-07; Recorded arXiv version: v1; Recorded version updated: 2026-01-07T13:48:12Z.",
+  "author": [
+    {
+      "literal": "Mingyu Ouyang"
+    },
+    {
+      "literal": "Kevin Qinghong Lin"
+    },
+    {
+      "literal": "Mike Zheng Shou"
+    },
+    {
+      "literal": "Hwee Tou Ng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.03928",
+  "genre": "preprint",
+  "version": "1"
+}

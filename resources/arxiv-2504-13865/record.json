@@ -87,7 +87,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Survey of research directions in GUI or computer-use agents.",
+  "summary": "Analyzes LLM-based GUI agents through four components (perception, exploration, planning, and interaction) and the methods used to evaluate them.",
   "topics": [
     "survey"
   ],

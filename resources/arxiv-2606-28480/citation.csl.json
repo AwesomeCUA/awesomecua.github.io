@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2606.28480",
+  "citation-key": "arxiv_2606_28480",
+  "type": "article",
+  "title": "TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents",
+  "URL": "https://arxiv.org/abs/2606.28480v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.28480",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2606.28480",
+    "identifiers": {
+      "arxiv": "2606.28480"
+    },
+    "first_published_at": "2026-06-26",
+    "record_updated_at": "2026-06-26",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6164c42541650e5120adc881b19524cb3b268f08d6eb77fbe91d8c1a02823786",
+      "submitted_at": "2026-06-26T17:59:51Z",
+      "updated_at": "2026-06-26T17:59:51Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.28480v1"
+    }
+  },
+  "note": "First published: 2026-06-26; Recorded arXiv version: v1; Recorded version updated: 2026-06-26T17:59:51Z.",
+  "author": [
+    {
+      "literal": "Shoufa Chen"
+    },
+    {
+      "literal": "Luyuan Wang"
+    },
+    {
+      "literal": "Xuan Yang"
+    },
+    {
+      "literal": "Zhiheng Liu"
+    },
+    {
+      "literal": "Yuren Cong"
+    },
+    {
+      "literal": "Yuanfeng Ji"
+    },
+    {
+      "literal": "Feiyan Zhou"
+    },
+    {
+      "literal": "Xiaohui Zhang"
+    },
+    {
+      "literal": "Fanny Yang"
+    },
+    {
+      "literal": "Belinda Zeng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.28480",
+  "genre": "preprint",
+  "version": "1"
+}

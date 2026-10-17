@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2609.05776",
+  "citation-key": "arxiv_2609_05776",
+  "type": "article",
+  "title": "DI-Bench: Systematically Generating In-Domain Data Intelligence Benchmarks for Enterprise Agents",
+  "URL": "https://arxiv.org/abs/2609.05776v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.05776",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.05776",
+    "identifiers": {
+      "arxiv": "2609.05776"
+    },
+    "first_published_at": "2026-09-04",
+    "record_updated_at": "2026-09-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "43c19c25e0ca5210547c1adc16ad260a5d749a94c9aa0d4dadfe094f0d9b0501",
+      "submitted_at": "2026-09-04T23:53:21Z",
+      "updated_at": "2026-09-04T23:53:21Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.05776v1"
+    }
+  },
+  "note": "First published: 2026-09-04; Recorded arXiv version: v1; Recorded version updated: 2026-09-04T23:53:21Z.",
+  "author": [
+    {
+      "literal": "Jiangyun Zhang"
+    },
+    {
+      "literal": "Kristen Surrao"
+    },
+    {
+      "literal": "Torpong Nitayanont"
+    },
+    {
+      "literal": "Yupei Zhang"
+    },
+    {
+      "literal": "Roopali Singh"
+    },
+    {
+      "literal": "Zhiyu Chen"
+    },
+    {
+      "literal": "Julia Huang"
+    },
+    {
+      "literal": "Zhou Tang"
+    },
+    {
+      "literal": "Shayan Ali Akbar"
+    },
+    {
+      "literal": "Omar Alonso"
+    },
+    {
+      "literal": "Erwin Cornejo"
+    },
+    {
+      "literal": "Yuan Li"
+    },
+    {
+      "literal": "Yi Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.05776",
+  "genre": "preprint",
+  "version": "1"
+}

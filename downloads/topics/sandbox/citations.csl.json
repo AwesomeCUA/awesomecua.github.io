@@ -1418,6 +1418,61 @@
     "version": "5"
   },
   {
+    "URL": "https://arxiv.org/abs/2512.12594v2",
+    "archive": "arXiv",
+    "archive_location": "2512.12594",
+    "author": [
+      {
+        "literal": "Luoxi Meng"
+      },
+      {
+        "literal": "Henry Feng"
+      },
+      {
+        "literal": "Ilia Shumailov"
+      },
+      {
+        "literal": "Earlence Fernandes"
+      }
+    ],
+    "citation-key": "arxiv_2512_12594",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "fa6b4d9fa34610ec6fa8c0ac8b075127365aad57a20d814a2e838a223cf8bd56",
+        "submitted_at": "2025-12-14T08:25:31Z",
+        "updated_at": "2026-03-04T01:49:57Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2512.12594v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2512.12594",
+      "catalog_id": "arxiv:2512.12594",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-12-14",
+      "identifiers": {
+        "arxiv": "2512.12594"
+      },
+      "record_updated_at": "2026-03-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2512.12594",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2025-12-14; Recorded arXiv version: v2; Recorded version updated: 2026-03-04T01:49:57Z.",
+    "title": "ceLLMate: Sandboxing Browser AI Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2601.04126v3",
     "archive": "arXiv",
     "archive_location": "2601.04126",
@@ -1738,6 +1793,508 @@
     "title": "AutoWebWorld: Synthesizing Infinite Verifiable Web Environments via Finite State Machines",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.10505v1",
+    "archive": "arXiv",
+    "archive_location": "2603.10505",
+    "author": [
+      {
+        "literal": "Hyungjoo Chae"
+      },
+      {
+        "literal": "Jungsoo Park"
+      },
+      {
+        "literal": "Alan Ritter"
+      }
+    ],
+    "citation-key": "arxiv_2603_10505",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "178b2140d0c70ded39fede20bc91d1459d0a4bf65c5cb6a63c09c9db73828513",
+        "submitted_at": "2026-03-11T07:58:53Z",
+        "updated_at": "2026-03-11T07:58:53Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.10505v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.10505",
+      "catalog_id": "arxiv:2603.10505",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-11",
+      "identifiers": {
+        "arxiv": "2603.10505"
+      },
+      "record_updated_at": "2026-03-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.10505",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-11; Recorded arXiv version: v1; Recorded version updated: 2026-03-11T07:58:53Z.",
+    "title": "Safe and Scalable Web Agent Learning via Recreated Websites",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.06126v1",
+    "archive": "arXiv",
+    "archive_location": "2604.06126",
+    "author": [
+      {
+        "literal": "Pranjal Aggarwal"
+      },
+      {
+        "literal": "Graham Neubig"
+      },
+      {
+        "literal": "Sean Welleck"
+      }
+    ],
+    "citation-key": "arxiv_2604_06126",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "fdd9cb6daad8832261ebe861fc1cb74429b819305e14ecfeb9698616013e6ac8",
+        "submitted_at": "2026-04-07T17:38:15Z",
+        "updated_at": "2026-04-07T17:38:15Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.06126v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.06126",
+      "catalog_id": "arxiv:2604.06126",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-07",
+      "identifiers": {
+        "arxiv": "2604.06126"
+      },
+      "record_updated_at": "2026-04-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.06126",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-07; Recorded arXiv version: v1; Recorded version updated: 2026-04-07T17:38:15Z.",
+    "title": "Gym-Anything: Turn any Software into an Agent Environment",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.06761v1",
+    "archive": "arXiv",
+    "archive_location": "2605.06761",
+    "author": [
+      {
+        "literal": "Oğuzhan Fatih Kar"
+      },
+      {
+        "literal": "Roman Bachmann"
+      },
+      {
+        "literal": "Yuanzheng Gong"
+      },
+      {
+        "literal": "Anders Boesen Lindbo Larsen"
+      },
+      {
+        "literal": "Afshin Dehghan"
+      }
+    ],
+    "citation-key": "arxiv_2605_06761",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2e1fb158dad88d32f8754ac27f12346ba8fbe5f9a5e736fba3e81390071895a3",
+        "submitted_at": "2026-05-07T17:17:10Z",
+        "updated_at": "2026-05-07T17:17:10Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.06761v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.06761",
+      "catalog_id": "arxiv:2605.06761",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-07",
+      "identifiers": {
+        "arxiv": "2605.06761"
+      },
+      "record_updated_at": "2026-05-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.06761",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-07; Recorded arXiv version: v1; Recorded version updated: 2026-05-07T17:17:10Z.",
+    "title": "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.25160v2",
+    "archive": "arXiv",
+    "archive_location": "2605.25160",
+    "author": [
+      {
+        "literal": "Guohong Liu"
+      },
+      {
+        "literal": "Jialei Ye"
+      },
+      {
+        "literal": "Pengzhi Gao"
+      },
+      {
+        "literal": "Wei Liu"
+      },
+      {
+        "literal": "Jian Luan"
+      },
+      {
+        "literal": "Yunxin Liu"
+      },
+      {
+        "literal": "Yuanchun Li"
+      }
+    ],
+    "citation-key": "arxiv_2605_25160",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "eb40c8bf005d56139d263e1b5dc4553ddcd68522124686b7f0865e6d8d1725ad",
+        "submitted_at": "2026-05-24T16:33:14Z",
+        "updated_at": "2026-06-18T02:24:07Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2605.25160v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.25160",
+      "catalog_id": "arxiv:2605.25160",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-24",
+      "identifiers": {
+        "arxiv": "2605.25160"
+      },
+      "record_updated_at": "2026-06-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.25160",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-24; Recorded arXiv version: v2; Recorded version updated: 2026-06-18T02:24:07Z.",
+    "title": "ScaleWoB: Guiding GUI Agents with Coding Agents via Large-Scale Environmental Synthesis",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.25624v2",
+    "archive": "arXiv",
+    "archive_location": "2605.25624",
+    "author": [
+      {
+        "literal": "Bowen Wang"
+      },
+      {
+        "literal": "Dunjie Lu"
+      },
+      {
+        "literal": "Junli Wang"
+      },
+      {
+        "literal": "Tianyi Bai"
+      },
+      {
+        "literal": "Shixuan Liu"
+      },
+      {
+        "literal": "Zhipeng Zhang"
+      },
+      {
+        "literal": "Haiquan Wang"
+      },
+      {
+        "literal": "Hao Hu"
+      },
+      {
+        "literal": "Tianbao Xie"
+      },
+      {
+        "literal": "Shuai Bai"
+      },
+      {
+        "literal": "Dayiheng Liu"
+      },
+      {
+        "literal": "Que Shen"
+      },
+      {
+        "literal": "Junyang Lin"
+      },
+      {
+        "literal": "Tao Yu"
+      }
+    ],
+    "citation-key": "arxiv_2605_25624",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ecc0712f55ee90c237f9a48e013e396b1082f932a485c22d8249d1da7acbf307",
+        "submitted_at": "2026-05-25T09:28:03Z",
+        "updated_at": "2026-06-08T08:32:35Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2605.25624v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.25624",
+      "catalog_id": "arxiv:2605.25624",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-25",
+      "identifiers": {
+        "arxiv": "2605.25624"
+      },
+      "record_updated_at": "2026-06-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.25624",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-25; Recorded arXiv version: v2; Recorded version updated: 2026-06-08T08:32:35Z.",
+    "title": "CUA-Gym: Scaling Verifiable Training Environments and Tasks for Computer-Use Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.26114v3",
+    "archive": "arXiv",
+    "archive_location": "2605.26114",
+    "author": [
+      {
+        "literal": "Dingbang Wu"
+      },
+      {
+        "literal": "Rui Hao"
+      },
+      {
+        "literal": "Haiyang Wang"
+      },
+      {
+        "literal": "Shuzhe Wu"
+      },
+      {
+        "literal": "Han Xiao"
+      },
+      {
+        "literal": "Zhenghong Li"
+      },
+      {
+        "literal": "Bojiang Zhou"
+      },
+      {
+        "literal": "Zheng Ju"
+      },
+      {
+        "literal": "Zichen Liu"
+      },
+      {
+        "literal": "Lue Fan"
+      },
+      {
+        "literal": "Zhaoxiang Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2605_26114",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "145c7012fb15a85b203924ecd559c8b20d18b51bf79805a6751fec75d6f68dec",
+        "submitted_at": "2026-05-25T17:59:49Z",
+        "updated_at": "2026-09-23T17:59:57Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2605.26114v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.26114",
+      "catalog_id": "arxiv:2605.26114",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-25",
+      "identifiers": {
+        "arxiv": "2605.26114"
+      },
+      "record_updated_at": "2026-09-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.26114",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-25; Recorded arXiv version: v3; Recorded version updated: 2026-09-23T17:59:57Z.",
+    "title": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.29486v3",
+    "archive": "arXiv",
+    "archive_location": "2605.29486",
+    "author": [
+      {
+        "literal": "Yuxuan Liu"
+      },
+      {
+        "literal": "Xin Lai"
+      },
+      {
+        "literal": "Junyi Li"
+      },
+      {
+        "literal": "Pengyuan Lyu"
+      },
+      {
+        "literal": "Jason"
+      },
+      {
+        "literal": "Yiduo Guo"
+      },
+      {
+        "literal": "Zhengyao Fang"
+      },
+      {
+        "literal": "Yang Ding"
+      },
+      {
+        "literal": "Yi Zhang"
+      },
+      {
+        "literal": "Weinong Wang"
+      },
+      {
+        "literal": "Huawen Shen"
+      },
+      {
+        "literal": "Xingran Zhou"
+      },
+      {
+        "literal": "Liang Wu"
+      },
+      {
+        "literal": "Fei Tang"
+      },
+      {
+        "literal": "Sunqi Fan"
+      },
+      {
+        "literal": "Shangpin Peng"
+      },
+      {
+        "literal": "Zheng Ruan"
+      },
+      {
+        "literal": "Anran Zhang"
+      },
+      {
+        "literal": "Chengquan Zhang"
+      },
+      {
+        "literal": "Han Hu"
+      },
+      {
+        "literal": "Benyou Wang"
+      },
+      {
+        "literal": "Ji-Rong Wen"
+      },
+      {
+        "literal": "Rui Yan"
+      },
+      {
+        "literal": "Zhengyang Tang"
+      }
+    ],
+    "citation-key": "arxiv_2605_29486",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a41cb1a93e6aa6ba8fbc7dca55415577ab5880a6592e9b0bee5b12b5a7732cbf",
+        "submitted_at": "2026-05-28T07:14:15Z",
+        "updated_at": "2026-09-28T15:27:12Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2605.29486v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.29486",
+      "catalog_id": "arxiv:2605.29486",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-28",
+      "identifiers": {
+        "arxiv": "2605.29486"
+      },
+      "record_updated_at": "2026-09-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.29486",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-28; Recorded arXiv version: v3; Recorded version updated: 2026-09-28T15:27:12Z.",
+    "title": "PhoneWorld: From Real-App Trajectories to Dynamic and Verifiable Environments for Phone-Use Agents",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2607.28074v1",

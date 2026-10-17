@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2610.16117",
+  "citation-key": "arxiv_2610_16117",
+  "type": "article",
+  "title": "Beyond Perfect Teammates: Multi-Agent Collaboration with Unreliable Colleagues",
+  "URL": "https://arxiv.org/abs/2610.16117v2",
+  "custom": {
+    "catalog_id": "arxiv:2610.16117",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.16117",
+    "identifiers": {
+      "arxiv": "2610.16117"
+    },
+    "first_published_at": "2026-10-12",
+    "record_updated_at": "2026-10-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c47d367230b561de34cafe047b38696279ff351904983043d07972259181f798",
+      "submitted_at": "2026-10-12T03:31:54Z",
+      "updated_at": "2026-10-14T06:05:41Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2610.16117v2"
+    }
+  },
+  "note": "First published: 2026-10-12; Recorded arXiv version: v2; Recorded version updated: 2026-10-14T06:05:41Z.",
+  "author": [
+    {
+      "literal": "Chen Huang"
+    },
+    {
+      "literal": "Yiyang Zhang"
+    },
+    {
+      "literal": "Yuhao Wu"
+    },
+    {
+      "literal": "Yang Deng"
+    },
+    {
+      "literal": "Wenxuan Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.16117",
+  "genre": "preprint",
+  "version": "2"
+}

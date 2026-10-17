@@ -1,0 +1,98 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "availability": "Public CoAT prompting/action-prediction and evaluation source.",
+    "license_review": {
+      "code": {
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/IMNearth/CoAT/HEAD/README.md",
+          "https://api.github.com/repos/IMNearth/CoAT/git/trees/main?recursive=1"
+        ],
+        "reason": "Apache-2.0 badge alone does not establish component-scoped source terms; the inspected non-truncated tree has no license file."
+      }
+    },
+    "repository_revision": "9ab1a9f0e76581c50c84f8ebc6ada1a2084a0c71"
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:30:53Z",
+      "role": "primary",
+      "sha256": "7a9fb905b64f2760a137cd267a5e38dd343df1821eda8172b606ab7500d27731",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "relations",
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/IMNearth/CoAT/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:30:53Z",
+      "role": "primary",
+      "sha256": "d0c5056c9a74913f84a4f809bf01d9fd9ea325ac0a91b4c4a0a51220b2da9d68",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/IMNearth/CoAT"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:32:04Z",
+      "role": "primary",
+      "sha256": "29d84ed12dc25035fd539604b06f6cc113080b389edeb9aa605cfa55c5f28151",
+      "supports": [
+        "release_status",
+        "details.repository_revision",
+        "licenses.code"
+      ],
+      "url": "https://api.github.com/repos/IMNearth/CoAT/git/trees/main?recursive=1"
+    }
+  ],
+  "id": "github:imnearth/coat",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-17T12:30:53Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/IMNearth/CoAT"
+    }
+  ],
+  "name": "CoAT research implementation",
+  "notes": "The tree contains run_coat.py and coat/agent.py, model.py and evaluate.py, with API-backed model configuration. This verifies a released annotation/prediction implementation, not a live phone controller or a released checkpoint. AiTZ screens/annotations are linked through external Drive/Baidu bundles whose complete download inventory was not verified here. The README has an Apache-2.0 badge, but no license file or explicit component grant is present; code/data/weight rights remain unestablished.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/IMNearth/CoAT/HEAD/README.md",
+      "target_id": "arxiv:2403.02713",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Research scripts that generate screen descriptions, action reasoning and expected outcomes, then predict Android GUI actions using the resulting Chain-of-Action-Thought context.",
+  "topics": [
+    "planning",
+    "mobile-navigation",
+    "action-prediction"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/IMNearth/CoAT"
+}

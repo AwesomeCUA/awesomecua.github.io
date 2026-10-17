@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2601.09883",
+  "citation-key": "arxiv_2601_09883",
+  "type": "article",
+  "title": "Beyond Rule-Based Workflows: An Information-Flow-Orchestrated Multi-Agents Paradigm via Agent-to-Agent Communication from CORAL",
+  "URL": "https://arxiv.org/abs/2601.09883v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.09883",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.09883",
+    "identifiers": {
+      "arxiv": "2601.09883"
+    },
+    "first_published_at": "2026-01-14",
+    "record_updated_at": "2026-01-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "dd53fc2b870e49e9bb99ac65b46ed2ce11e51396b100c82e4723a02e0d1b6eab",
+      "submitted_at": "2026-01-14T21:35:51Z",
+      "updated_at": "2026-01-14T21:35:51Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.09883v1"
+    }
+  },
+  "note": "First published: 2026-01-14; Recorded arXiv version: v1; Recorded version updated: 2026-01-14T21:35:51Z.",
+  "author": [
+    {
+      "literal": "Xinxing Ren"
+    },
+    {
+      "literal": "Quagmire Zang"
+    },
+    {
+      "literal": "Caelum Forder"
+    },
+    {
+      "literal": "Suman Deb"
+    },
+    {
+      "literal": "Ahsen Tahir"
+    },
+    {
+      "literal": "Roman J. Georgio"
+    },
+    {
+      "literal": "Peter Carroll"
+    },
+    {
+      "literal": "Zekun Guo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.09883",
+  "genre": "preprint",
+  "version": "1"
+}

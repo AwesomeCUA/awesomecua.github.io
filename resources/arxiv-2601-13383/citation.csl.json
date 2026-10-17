@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2601.13383",
+  "citation-key": "arxiv_2601_13383",
+  "type": "article",
+  "title": "A Lightweight Modular Framework for Constructing Autonomous Agents Driven by Large Language Models: Design, Implementation, and Applications in AgentForge",
+  "URL": "https://arxiv.org/abs/2601.13383v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.13383",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.13383",
+    "identifiers": {
+      "arxiv": "2601.13383"
+    },
+    "first_published_at": "2026-01-19",
+    "record_updated_at": "2026-01-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "560bed004df8dee0c579eceb754b6b9ce889679e47efca51f84e300bb47229e8",
+      "submitted_at": "2026-01-19T20:33:26Z",
+      "updated_at": "2026-01-19T20:33:26Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.13383v1"
+    }
+  },
+  "note": "First published: 2026-01-19; Recorded arXiv version: v1; Recorded version updated: 2026-01-19T20:33:26Z.",
+  "author": [
+    {
+      "literal": "Akbar Anbar Jafari"
+    },
+    {
+      "literal": "Cagri Ozcinar"
+    },
+    {
+      "literal": "Gholamreza Anbarjafari"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.13383",
+  "genre": "preprint",
+  "version": "1"
+}

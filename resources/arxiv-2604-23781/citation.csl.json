@@ -1,0 +1,190 @@
+{
+  "id": "arxiv:2604.23781",
+  "citation-key": "arxiv_2604_23781",
+  "type": "article",
+  "title": "ClawMark: A Living-World Benchmark for Multi-Turn, Multi-Day, Multimodal Coworker Agents",
+  "URL": "https://arxiv.org/abs/2604.23781v2",
+  "custom": {
+    "catalog_id": "arxiv:2604.23781",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.23781",
+    "identifiers": {
+      "arxiv": "2604.23781"
+    },
+    "first_published_at": "2026-04-26",
+    "record_updated_at": "2026-05-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d85c422bb392ec53606435774ec38f359c6423d5eddf3b0b17d110853e28817b",
+      "submitted_at": "2026-04-26T16:05:02Z",
+      "updated_at": "2026-05-05T15:32:46Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2604.23781v2"
+    }
+  },
+  "note": "First published: 2026-04-26; Recorded arXiv version: v2; Recorded version updated: 2026-05-05T15:32:46Z.",
+  "author": [
+    {
+      "literal": "Fanqing Meng"
+    },
+    {
+      "literal": "Lingxiao Du"
+    },
+    {
+      "literal": "Zijian Wu"
+    },
+    {
+      "literal": "Guanzheng Chen"
+    },
+    {
+      "literal": "Xiangyan Liu"
+    },
+    {
+      "literal": "Jiaqi Liao"
+    },
+    {
+      "literal": "Chonghe Jiang"
+    },
+    {
+      "literal": "Zhenglin Wan"
+    },
+    {
+      "literal": "Jiawei Gu"
+    },
+    {
+      "literal": "Pengfei Zhou"
+    },
+    {
+      "literal": "Rui Huang"
+    },
+    {
+      "literal": "Ziqi Zhao"
+    },
+    {
+      "literal": "Shengyuan Ding"
+    },
+    {
+      "literal": "Ailing Yu"
+    },
+    {
+      "literal": "Bo Peng"
+    },
+    {
+      "literal": "Bowei Xia"
+    },
+    {
+      "literal": "Hao Sun"
+    },
+    {
+      "literal": "Haotian Liang"
+    },
+    {
+      "literal": "Ji Xie"
+    },
+    {
+      "literal": "Jiajun Chen"
+    },
+    {
+      "literal": "Jiajun Song"
+    },
+    {
+      "literal": "Liu Yang"
+    },
+    {
+      "literal": "Ming Xu"
+    },
+    {
+      "literal": "Qionglin Qiu"
+    },
+    {
+      "literal": "Runhao Fu"
+    },
+    {
+      "literal": "Shengfang Zhai"
+    },
+    {
+      "literal": "Shijian Wang"
+    },
+    {
+      "literal": "Tengfei Ma"
+    },
+    {
+      "literal": "Tianyi Wu"
+    },
+    {
+      "literal": "Weiyang Jin"
+    },
+    {
+      "literal": "Yan Wang"
+    },
+    {
+      "literal": "Yang Dai"
+    },
+    {
+      "literal": "Yao Lai"
+    },
+    {
+      "literal": "Youwei Shu"
+    },
+    {
+      "literal": "Yue Liu"
+    },
+    {
+      "literal": "Yunzhuo Hao"
+    },
+    {
+      "literal": "Yuwei Niu"
+    },
+    {
+      "literal": "Jinkai Huang"
+    },
+    {
+      "literal": "Jiayuan Zhuo"
+    },
+    {
+      "literal": "Zhennan Shen"
+    },
+    {
+      "literal": "Linyu Wu"
+    },
+    {
+      "literal": "Hannah Yao"
+    },
+    {
+      "literal": "Charles Chen"
+    },
+    {
+      "literal": "Cihang Xie"
+    },
+    {
+      "literal": "Yuyin Zhou"
+    },
+    {
+      "literal": "Jiaheng Zhang"
+    },
+    {
+      "literal": "Zeyu Zheng"
+    },
+    {
+      "literal": "Mengkang Hu"
+    },
+    {
+      "literal": "Michael Qizhe Shieh"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.23781",
+  "genre": "preprint",
+  "version": "2"
+}

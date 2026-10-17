@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2605.05811",
+  "citation-key": "arxiv_2605_05811",
+  "type": "article",
+  "title": "Sheet As Token: A Graph-Enhanced Representation for Multi-Sheet Spreadsheet Understanding",
+  "URL": "https://arxiv.org/abs/2605.05811v2",
+  "custom": {
+    "catalog_id": "arxiv:2605.05811",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.05811",
+    "identifiers": {
+      "arxiv": "2605.05811"
+    },
+    "first_published_at": "2026-05-07",
+    "record_updated_at": "2026-07-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ed187757acdfc599f66f61aa52458c4d6078a4667109da08f84bfeeb793ad65a",
+      "submitted_at": "2026-05-07T07:47:43Z",
+      "updated_at": "2026-07-27T22:01:00Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2605.05811v2"
+    }
+  },
+  "note": "First published: 2026-05-07; Recorded arXiv version: v2; Recorded version updated: 2026-07-27T22:01:00Z.",
+  "author": [
+    {
+      "literal": "Yiming Lei"
+    },
+    {
+      "literal": "Yuhang Yao"
+    },
+    {
+      "literal": "Yujia Zhang"
+    },
+    {
+      "literal": "Yiqi Wang"
+    },
+    {
+      "literal": "Bo Guan"
+    },
+    {
+      "literal": "Depei Zhu"
+    },
+    {
+      "literal": "Chunhui Wang"
+    },
+    {
+      "literal": "Zhuonan Hao"
+    },
+    {
+      "literal": "Tianyu Shi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.05811",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1082,6 +1082,368 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2602.16313v2",
+    "archive": "arXiv",
+    "archive_location": "2602.16313",
+    "author": [
+      {
+        "literal": "Zexue He"
+      },
+      {
+        "literal": "Yu Wang"
+      },
+      {
+        "literal": "Churan Zhi"
+      },
+      {
+        "literal": "Yuanzhe Hu"
+      },
+      {
+        "literal": "Tzu-Ping Chen"
+      },
+      {
+        "literal": "Lang Yin"
+      },
+      {
+        "literal": "Ze Chen"
+      },
+      {
+        "literal": "Tong Arthur Wu"
+      },
+      {
+        "literal": "Siru Ouyang"
+      },
+      {
+        "literal": "Zihan Wang"
+      },
+      {
+        "literal": "Jiaxin Pei"
+      },
+      {
+        "literal": "Julian McAuley"
+      },
+      {
+        "literal": "Yejin Choi"
+      },
+      {
+        "literal": "Alex Pentland"
+      }
+    ],
+    "citation-key": "arxiv_2602_16313",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2317a94d54b4458a1b7c5e92754aeaefcbf270aabfa0bd8ea333c673cd4596b3",
+        "submitted_at": "2026-02-18T09:49:14Z",
+        "updated_at": "2026-09-17T22:55:03Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2602.16313v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.16313",
+      "catalog_id": "arxiv:2602.16313",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-18",
+      "identifiers": {
+        "arxiv": "2602.16313"
+      },
+      "record_updated_at": "2026-09-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.16313",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-18; Recorded arXiv version: v2; Recorded version updated: 2026-09-17T22:55:03Z.",
+    "title": "MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.26041v4",
+    "archive": "arXiv",
+    "archive_location": "2603.26041",
+    "author": [
+      {
+        "literal": "Daiqiang Li"
+      },
+      {
+        "literal": "Zihao Pan"
+      },
+      {
+        "literal": "Zeyu Zhang"
+      },
+      {
+        "literal": "Xuyang Liu"
+      },
+      {
+        "literal": "Shijia Xu"
+      },
+      {
+        "literal": "Ronghao Chen"
+      },
+      {
+        "literal": "Huacan Wang"
+      },
+      {
+        "literal": "Honggang Chen"
+      },
+      {
+        "literal": "Linfeng Zhang"
+      },
+      {
+        "literal": "Zhangquan Chen"
+      },
+      {
+        "literal": "Haiyun Jiang"
+      }
+    ],
+    "citation-key": "arxiv_2603_26041",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "738d5048bb7a137d848b6f6068a7ce92694469f1e7bce0702dce422c230a3d0b",
+        "submitted_at": "2026-03-27T03:21:19Z",
+        "updated_at": "2026-08-09T16:37:37Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2603.26041v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.26041",
+      "catalog_id": "arxiv:2603.26041",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-27",
+      "identifiers": {
+        "arxiv": "2603.26041"
+      },
+      "record_updated_at": "2026-08-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.26041",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-27; Recorded arXiv version: v4; Recorded version updated: 2026-08-09T16:37:37Z.",
+    "title": "Where and How to Prune: An Empirical Study of Visual Token Pruning for GUI Agent Navigation",
+    "type": "article",
+    "version": "4"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.11212v3",
+    "archive": "arXiv",
+    "archive_location": "2605.11212",
+    "author": [
+      {
+        "literal": "Amirhossein Abaskohi"
+      },
+      {
+        "literal": "Yuhang He"
+      },
+      {
+        "literal": "Peter West"
+      },
+      {
+        "literal": "Giuseppe Carenini"
+      },
+      {
+        "literal": "Pranit Chawla"
+      },
+      {
+        "literal": "Vibhav Vineet"
+      }
+    ],
+    "citation-key": "arxiv_2605_11212",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "422d2fdf2d7f665df1a5672e03d837ba41fe9c6832d64c40317f77481f642130",
+        "submitted_at": "2026-05-11T20:27:54Z",
+        "updated_at": "2026-06-05T22:18:46Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2605.11212v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.11212",
+      "catalog_id": "arxiv:2605.11212",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-11",
+      "identifiers": {
+        "arxiv": "2605.11212"
+      },
+      "record_updated_at": "2026-06-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.11212",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-11; Recorded arXiv version: v3; Recorded version updated: 2026-06-05T22:18:46Z.",
+    "title": "ReVision: Scaling Computer-Use Agents via Temporal Visual Redundancy Reduction",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.12493v1",
+    "archive": "arXiv",
+    "archive_location": "2605.12493",
+    "author": [
+      {
+        "literal": "Di Wu"
+      },
+      {
+        "literal": "Zixiang Ji"
+      },
+      {
+        "literal": "Asmi Kawatkar"
+      },
+      {
+        "literal": "Bryan Kwan"
+      },
+      {
+        "literal": "Jia-Chen Gu"
+      },
+      {
+        "literal": "Nanyun Peng"
+      },
+      {
+        "literal": "Kai-Wei Chang"
+      }
+    ],
+    "citation-key": "arxiv_2605_12493",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5893d1d9205776667a1e1d89720ec3baf55fafe80cc9c6201ca97088f44a10ac",
+        "submitted_at": "2026-05-12T17:59:34Z",
+        "updated_at": "2026-05-12T17:59:34Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.12493v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.12493",
+      "catalog_id": "arxiv:2605.12493",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-12",
+      "identifiers": {
+        "arxiv": "2605.12493"
+      },
+      "record_updated_at": "2026-05-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.12493",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-12; Recorded arXiv version: v1; Recorded version updated: 2026-05-12T17:59:34Z.",
+    "title": "LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.26086v1",
+    "archive": "arXiv",
+    "archive_location": "2605.26086",
+    "author": [
+      {
+        "literal": "Yusong Lin"
+      },
+      {
+        "literal": "Xinyuan Liang"
+      },
+      {
+        "literal": "Haiyang Wang"
+      },
+      {
+        "literal": "Qipeng Gu"
+      },
+      {
+        "literal": "Siqi Cheng"
+      },
+      {
+        "literal": "Jiangui Chen"
+      },
+      {
+        "literal": "Shuzhe Wu"
+      },
+      {
+        "literal": "Feiyang Pan"
+      },
+      {
+        "literal": "Lue Fan"
+      },
+      {
+        "literal": "Sanyuan Zhao"
+      },
+      {
+        "literal": "Dandan Tu"
+      }
+    ],
+    "citation-key": "arxiv_2605_26086",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "27999553928305cfa4223011feb3f9c2decda8a861e5800865537a81c7c08832",
+        "submitted_at": "2026-05-25T17:50:04Z",
+        "updated_at": "2026-05-25T17:50:04Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.26086v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.26086",
+      "catalog_id": "arxiv:2605.26086",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-25",
+      "identifiers": {
+        "arxiv": "2605.26086"
+      },
+      "record_updated_at": "2026-05-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.26086",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-25; Recorded arXiv version: v1; Recorded version updated: 2026-05-25T17:50:04Z.",
+    "title": "Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://acypher.com/Publications/CHI91/EagerCHI.html",
     "author": [
       {

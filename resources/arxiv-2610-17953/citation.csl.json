@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2610.17953",
+  "citation-key": "arxiv_2610_17953",
+  "type": "article",
+  "title": "Agent-Reflex: Teaching Language Agents to Act Reflectively",
+  "URL": "https://arxiv.org/abs/2610.17953v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.17953",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.17953",
+    "identifiers": {
+      "arxiv": "2610.17953"
+    },
+    "first_published_at": "2026-10-13",
+    "record_updated_at": "2026-10-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3227c9f8be9728ec1c6295bb5a1196d894cfa2a4b0c11bf5c2af5e36587eb410",
+      "submitted_at": "2026-10-13T08:36:20Z",
+      "updated_at": "2026-10-13T08:36:20Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.17953v1"
+    }
+  },
+  "note": "First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T08:36:20Z.",
+  "author": [
+    {
+      "literal": "Guanting Dong"
+    },
+    {
+      "literal": "Xinyu Yang"
+    },
+    {
+      "literal": "Jiajie Jin"
+    },
+    {
+      "literal": "Yuyang Hu"
+    },
+    {
+      "literal": "Xiaoshuai Song"
+    },
+    {
+      "literal": "Yifei Chen"
+    },
+    {
+      "literal": "Xiaoxi Li"
+    },
+    {
+      "literal": "Jiejun Tan"
+    },
+    {
+      "literal": "Yutao Zhu"
+    },
+    {
+      "literal": "Tat-Seng Chua"
+    },
+    {
+      "literal": "Ji-Rong Wen"
+    },
+    {
+      "literal": "Zhicheng Dou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.17953",
+  "genre": "preprint",
+  "version": "1"
+}

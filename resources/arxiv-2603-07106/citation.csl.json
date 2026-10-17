@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2603.07106",
+  "citation-key": "arxiv_2603_07106",
+  "type": "article",
+  "title": "AutoUE: Automated Generation of 3D Games in Unreal Engine via Multi-Agent Systems",
+  "URL": "https://arxiv.org/abs/2603.07106v2",
+  "custom": {
+    "catalog_id": "arxiv:2603.07106",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.07106",
+    "identifiers": {
+      "arxiv": "2603.07106"
+    },
+    "first_published_at": "2026-03-07",
+    "record_updated_at": "2026-04-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0c93565af5901de9c2ba10894055cbb5017ec11d31032047619553bdcc2422a0",
+      "submitted_at": "2026-03-07T08:36:58Z",
+      "updated_at": "2026-04-08T05:28:10Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2603.07106v2"
+    }
+  },
+  "note": "First published: 2026-03-07; Recorded arXiv version: v2; Recorded version updated: 2026-04-08T05:28:10Z.",
+  "author": [
+    {
+      "literal": "Lei Yin"
+    },
+    {
+      "literal": "Wentao Cheng"
+    },
+    {
+      "literal": "Zhida Qin"
+    },
+    {
+      "literal": "Tianyu Huang"
+    },
+    {
+      "literal": "Yidong Li"
+    },
+    {
+      "literal": "Gangyi Ding"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.07106",
+  "genre": "preprint",
+  "version": "2"
+}

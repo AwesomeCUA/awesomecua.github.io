@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2601.11903",
+  "citation-key": "arxiv_2601_11903",
+  "type": "article",
+  "title": "AEMA: Verifiable Evaluation Framework for Trustworthy and Controlled Agentic LLM Systems",
+  "URL": "https://arxiv.org/abs/2601.11903v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.11903",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.11903",
+    "identifiers": {
+      "arxiv": "2601.11903"
+    },
+    "first_published_at": "2026-01-17",
+    "record_updated_at": "2026-01-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6e366da130437eb52747be78192db9a7d05800ff453a7af830e7f53cadf436dd",
+      "submitted_at": "2026-01-17T04:09:02Z",
+      "updated_at": "2026-01-17T04:09:02Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.11903v1"
+    }
+  },
+  "note": "First published: 2026-01-17; Recorded arXiv version: v1; Recorded version updated: 2026-01-17T04:09:02Z.",
+  "author": [
+    {
+      "literal": "YenTing Lee"
+    },
+    {
+      "literal": "Keerthi Koneru"
+    },
+    {
+      "literal": "Zahra Moslemi"
+    },
+    {
+      "literal": "Sheethal Kumar"
+    },
+    {
+      "literal": "Ramesh Radhakrishnan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.11903",
+  "genre": "preprint",
+  "version": "1"
+}

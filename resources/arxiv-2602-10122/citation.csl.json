@@ -1,0 +1,94 @@
+{
+  "id": "arxiv:2602.10122",
+  "citation-key": "arxiv_2602_10122",
+  "type": "article",
+  "title": "A Practical Guide to Agentic AI Transition in Organizations",
+  "URL": "https://arxiv.org/abs/2602.10122v1",
+  "custom": {
+    "catalog_id": "arxiv:2602.10122",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.10122",
+    "identifiers": {
+      "arxiv": "2602.10122"
+    },
+    "first_published_at": "2026-01-27",
+    "record_updated_at": "2026-01-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5b858b7d99814d8b3bc8c926f7b5df6fb8f1f760747229f969bba08a9d63b64a",
+      "submitted_at": "2026-01-27T10:49:59Z",
+      "updated_at": "2026-01-27T10:49:59Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2602.10122v1"
+    }
+  },
+  "note": "First published: 2026-01-27; Recorded arXiv version: v1; Recorded version updated: 2026-01-27T10:49:59Z.",
+  "author": [
+    {
+      "literal": "Eranga Bandara"
+    },
+    {
+      "literal": "Ross Gore"
+    },
+    {
+      "literal": "Sachin Shetty"
+    },
+    {
+      "literal": "Sachini Rajapakse"
+    },
+    {
+      "literal": "Isurunima Kularathna"
+    },
+    {
+      "literal": "Pramoda Karunarathna"
+    },
+    {
+      "literal": "Ravi Mukkamala"
+    },
+    {
+      "literal": "Peter Foytik"
+    },
+    {
+      "literal": "Safdar H. Bouk"
+    },
+    {
+      "literal": "Abdul Rahman"
+    },
+    {
+      "literal": "Xueping Liang"
+    },
+    {
+      "literal": "Amin Hass"
+    },
+    {
+      "literal": "Tharaka Hewa"
+    },
+    {
+      "literal": "Ng Wee Keong"
+    },
+    {
+      "literal": "Kasun De Zoysa"
+    },
+    {
+      "literal": "Aruna Withanage"
+    },
+    {
+      "literal": "Nilaan Loganathan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.10122",
+  "genre": "preprint",
+  "version": "1"
+}

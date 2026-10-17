@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2601.18827",
+  "citation-key": "arxiv_2601_18827",
+  "type": "article",
+  "title": "Automated structural testing of LLM-based agents: methods, framework, and case studies",
+  "URL": "https://arxiv.org/abs/2601.18827v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.18827",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.18827",
+    "identifiers": {
+      "arxiv": "2601.18827"
+    },
+    "first_published_at": "2026-01-25",
+    "record_updated_at": "2026-01-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5a38f8b41bf75138f95973d9d650ee83c82e651abd6a70f05d3f08e2d34eb3c8",
+      "submitted_at": "2026-01-25T11:52:30Z",
+      "updated_at": "2026-01-25T11:52:30Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.18827v1"
+    }
+  },
+  "note": "First published: 2026-01-25; Recorded arXiv version: v1; Recorded version updated: 2026-01-25T11:52:30Z.",
+  "author": [
+    {
+      "literal": "Jens Kohl"
+    },
+    {
+      "literal": "Otto Kruse"
+    },
+    {
+      "literal": "Youssef Mostafa"
+    },
+    {
+      "literal": "Andre Luckow"
+    },
+    {
+      "literal": "Karsten Schroer"
+    },
+    {
+      "literal": "Thomas Riedl"
+    },
+    {
+      "literal": "Ryan French"
+    },
+    {
+      "literal": "David Katz"
+    },
+    {
+      "literal": "Manuel P. Luitz"
+    },
+    {
+      "literal": "Tanrajbir Takher"
+    },
+    {
+      "literal": "Ken E. Friedl"
+    },
+    {
+      "literal": "Céline Laurent-Winter"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.18827",
+  "genre": "preprint",
+  "version": "1"
+}

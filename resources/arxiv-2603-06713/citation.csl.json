@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2603.06713",
+  "citation-key": "arxiv_2603_06713",
+  "type": "article",
+  "title": "Scaling Agentic Capabilities, Not Context: Efficient Reinforcement Finetuning for Large Toolspaces",
+  "URL": "https://arxiv.org/abs/2603.06713v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.06713",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.06713",
+    "identifiers": {
+      "arxiv": "2603.06713"
+    },
+    "first_published_at": "2026-03-05",
+    "record_updated_at": "2026-03-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "85418b7430aabc8b1955d93f697c340467a7adc21f2386f349ca4362e4f9677d",
+      "submitted_at": "2026-03-05T20:29:12Z",
+      "updated_at": "2026-03-05T20:29:12Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.06713v1"
+    }
+  },
+  "note": "First published: 2026-03-05; Recorded arXiv version: v1; Recorded version updated: 2026-03-05T20:29:12Z.",
+  "author": [
+    {
+      "literal": "Karan Gupta"
+    },
+    {
+      "literal": "Pranav Vajreshwari"
+    },
+    {
+      "literal": "Yash Pandya"
+    },
+    {
+      "literal": "Raghav Magazine"
+    },
+    {
+      "literal": "Akshay Nambi"
+    },
+    {
+      "literal": "Ahmed Awadallah"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.06713",
+  "genre": "preprint",
+  "version": "1"
+}

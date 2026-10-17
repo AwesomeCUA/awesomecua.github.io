@@ -1,6 +1,6 @@
 # A Survey on GUI Agents with Foundation Models Enhanced by Reinforcement Learning
 
-Survey of research directions in GUI or computer-use agents.
+Formalizes GUI tasks as Markov decision processes and traces agent training from prompting through supervised fine-tuning to reinforcement learning.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-20464/
 - Original source: https://arxiv.org/abs/2504.20464

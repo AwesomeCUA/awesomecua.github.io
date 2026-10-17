@@ -1,5 +1,5 @@
 {
-  "relation_count": 313,
+  "relation_count": 334,
   "semantics": "Reviewed semantic links only. Documentation does not establish training or evaluation dependency.",
   "relations": [
     {
@@ -17,6 +17,14 @@
       "evidence_url": "https://raw.githubusercontent.com/google-research/google-research/master/android_in_the_wild/README.md",
       "target_id": "arxiv:2307.10088",
       "type": "introduced_by"
+    },
+    {
+      "source_id": "component:xlang-ai/openagents/web_agent",
+      "source_name": "OpenAgents Web Agent",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/xlang-ai/OpenAgents/HEAD/README.md",
+      "target_id": "arxiv:2310.10634",
+      "type": "documented_by"
     },
     {
       "source_id": "github:aburns4/motif",
@@ -315,6 +323,14 @@
       "type": "introduced_by"
     },
     {
+      "source_id": "github:fclab-skku/mobilegpt",
+      "source_name": "MobileGPT",
+      "source_kind": "agent",
+      "evidence_url": "https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50",
+      "target_id": "arxiv:2312.03003",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:friedrichor/webtestbench",
       "source_name": "WebTestBench",
       "source_kind": "benchmark",
@@ -344,6 +360,22 @@
       "source_kind": "dataset",
       "evidence_url": "https://raw.githubusercontent.com/google-research-datasets/screen_qa/HEAD/README.md",
       "target_id": "arxiv:2209.08199",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:google-research-datasets/uibert",
+      "source_name": "UIBert AppSim and RefExp annotations",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/google-research-datasets/uibert/HEAD/README.md",
+      "target_id": "url:0b134b082a7bd507fc6a",
+      "type": "uses"
+    },
+    {
+      "source_id": "github:google-research-datasets/uibert",
+      "source_name": "UIBert AppSim and RefExp annotations",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/google-research-datasets/uibert/HEAD/README.md",
+      "target_id": "arxiv:2107.13731",
       "type": "documented_by"
     },
     {
@@ -392,6 +424,14 @@
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/iMeanAI/WebCanvas/HEAD/README.md",
       "target_id": "arxiv:2406.12373",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:imnearth/coat",
+      "source_name": "CoAT research implementation",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/IMNearth/CoAT/HEAD/README.md",
+      "target_id": "arxiv:2403.02713",
       "type": "documented_by"
     },
     {
@@ -467,12 +507,36 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:ltzheng/synapse",
+      "source_name": "Synapse",
+      "source_kind": "framework",
+      "evidence_url": "https://export.arxiv.org/api/query?id_list=1802.08802%2C1808.09132%2C2005.03776%2C2101.09465%2C2103.16057%2C2104.08560%2C2105.13231%2C2107.03374%2C2107.13731%2C2108.03353%2C2202.02312%2C2202.08137%2C2204.01691%2C2205.11029%2C2207.01206%2C2209.08199%2C2209.08655%2C2209.14927%2C2209.15099%2C2210.02663%2C2210.03629%2C2210.03945%2C2211.07615%2C2301.10165%2C2301.13280%2C2302.04761%2C2303.07280%2C2303.08774%2C2303.17491%2C2303.17580%2C2304.04370%2C2304.07061%2C2305.04091%2C2305.05662%2C2305.08144%2C2305.10601%2C2305.11854%2C2305.12487%2C2305.14257%2C2305.14325%2C2305.16504%2C2305.16653%2C2305.19308%2C2306.00245%2C2306.06070%2C2306.07863%2C2307.10088%2C2307.12856%2C2307.13854%2C2308.01990&max_results=50",
+      "target_id": "arxiv:2306.07863",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:madeagents/colorbench",
       "source_name": "ColorBench",
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md",
       "target_id": "arxiv:2510.14621",
       "type": "documented_by"
+    },
+    {
+      "source_id": "github:magicgh/self-map",
+      "source_name": "Self-MAP",
+      "source_kind": "framework",
+      "evidence_url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending",
+      "target_id": "arxiv:2402.15057",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:magicgh/self-map",
+      "source_name": "Self-MAP",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/magicgh/self-map/HEAD/README.md",
+      "target_id": "url:bdfb50330deb97893ce4",
+      "type": "uses"
     },
     {
       "source_id": "github:mcgill-nlp/agent-reward-bench",
@@ -495,6 +559,14 @@
       "source_name": "WebLINX",
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/mcgill-nlp/weblinx/HEAD/README.md",
+      "target_id": "arxiv:2402.05930",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:mcgill-nlp/webllama",
+      "source_name": "WebLlama",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/McGill-NLP/webllama/HEAD/README.md",
       "target_id": "arxiv:2402.05930",
       "type": "documented_by"
     },
@@ -632,6 +704,14 @@
       "source_kind": "model",
       "evidence_url": "https://raw.githubusercontent.com/OpenBMB/AgentCPM-GUI/HEAD/README.md",
       "target_id": "arxiv:2506.01391",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:opendfm/moba",
+      "source_name": "MobA",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/OpenDFM/MobA/HEAD/README.md",
+      "target_id": "arxiv:2410.13757",
       "type": "documented_by"
     },
     {
@@ -1067,6 +1147,22 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:tongui-agent/tongui-agent",
+      "source_name": "TongUI training and inference framework",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/TongUI-agent/TongUI-agent/HEAD/docs/train.md",
+      "target_id": "url:8c9aaafb918aaf8b4e92",
+      "type": "uses"
+    },
+    {
+      "source_id": "github:tongui-agent/tongui-agent",
+      "source_name": "TongUI training and inference framework",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/TongUI-agent/TongUI-agent/HEAD/README.md",
+      "target_id": "arxiv:2504.12679",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:tongyi-mai/mai-ui",
       "source_name": "MAI-UI inference and evaluation code",
       "source_kind": "framework",
@@ -1152,6 +1248,14 @@
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/web-arena-x/webarena/HEAD/README.md",
       "target_id": "arxiv:2307.13854",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:webvln/webvln",
+      "source_name": "WebVLN research implementation",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/WebVLN/WebVLN/HEAD/README.md",
+      "target_id": "arxiv:2312.15820",
       "type": "documented_by"
     },
     {
@@ -1312,6 +1416,22 @@
       "source_kind": "model",
       "evidence_url": "https://raw.githubusercontent.com/Yuqi-Zhou/GUI-G1/HEAD/README.md",
       "target_id": "arxiv:2505.15810",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:zju-real/gui-rcpo",
+      "source_name": "GUI-RC / GUI-RCPO",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/zju-real/gui-rcpo/HEAD/README.md",
+      "target_id": "arxiv:2508.05615",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:zorazrw/agent-workflow-memory",
+      "source_name": "Agent Workflow Memory implementation",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/zorazrw/agent-workflow-memory/HEAD/README.md",
+      "target_id": "arxiv:2409.07429",
       "type": "documented_by"
     },
     {
@@ -1779,6 +1899,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:570654ff67ecefa2b955",
+      "source_name": "MONDAY annotations",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/runamu/MONDAY/raw/main/README.md",
+      "target_id": "arxiv:2505.12632",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:57f17b7d0c18b2d7c8bf",
       "source_name": "Claude Computer Use",
       "source_kind": "model",
@@ -1907,6 +2035,22 @@
       "type": "published_by"
     },
     {
+      "source_id": "url:7c3e8c4ba52428584079",
+      "source_name": "Llama-3-8B-Web",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/McGill-NLP/Llama-3-8B-Web/raw/main/README.md",
+      "target_id": "github:mcgill-nlp/weblinx",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "url:7c3e8c4ba52428584079",
+      "source_name": "Llama-3-8B-Web",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/McGill-NLP/Llama-3-8B-Web/raw/main/README.md",
+      "target_id": "arxiv:2402.05930",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:7c568d88a472f914d316",
       "source_name": "UI-R1 3B training data",
       "source_kind": "dataset",
@@ -1976,6 +2120,14 @@
       "source_kind": "dataset",
       "evidence_url": "https://huggingface.co/datasets/showlab/ShowUI-web/raw/main/README.md",
       "target_id": "arxiv:2411.17465",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:8c9aaafb918aaf8b4e92",
+      "source_name": "GUI-Net-1M",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/TongUI-agent/TongUI-agent/HEAD/README.md",
+      "target_id": "arxiv:2504.12679",
       "type": "documented_by"
     },
     {
@@ -2107,6 +2259,14 @@
       "type": "published_by"
     },
     {
+      "source_id": "url:b53e03a6e4ca4226d126",
+      "source_name": "MobBench task definitions",
+      "source_kind": "benchmark",
+      "evidence_url": "https://huggingface.co/datasets/OpenDFM/MobA-MobBench/raw/main/README.md",
+      "target_id": "arxiv:2410.13757",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:b5e2127e07f692d516b9",
       "source_name": "Aguvis stage 2 trajectory data",
       "source_kind": "dataset",
@@ -2136,6 +2296,14 @@
       "source_kind": "dataset",
       "evidence_url": "https://huggingface.co/datasets/xTRam1/plan-and-act-data/raw/main/README.md",
       "target_id": "arxiv:2503.09572",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:bdfb50330deb97893ce4",
+      "source_name": "MT-Mind2Web",
+      "source_kind": "dataset",
+      "evidence_url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending",
+      "target_id": "arxiv:2402.15057",
       "type": "documented_by"
     },
     {

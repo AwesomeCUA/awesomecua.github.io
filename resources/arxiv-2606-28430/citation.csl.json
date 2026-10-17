@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2606.28430",
+  "citation-key": "arxiv_2606_28430",
+  "type": "article",
+  "title": "Building to the Test: Coding Agents Deliver What You Check, Not What You Requested",
+  "URL": "https://arxiv.org/abs/2606.28430v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.28430",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.28430",
+    "identifiers": {
+      "arxiv": "2606.28430"
+    },
+    "first_published_at": "2026-06-26",
+    "record_updated_at": "2026-06-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6a5b2051d7eff17f4a1f1ca93e29f9ab29e65c7c3e4e3aa504892a315c05672a",
+      "submitted_at": "2026-06-26T01:23:27Z",
+      "updated_at": "2026-06-26T01:23:27Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.28430v1"
+    }
+  },
+  "note": "First published: 2026-06-26; Recorded arXiv version: v1; Recorded version updated: 2026-06-26T01:23:27Z.",
+  "author": [
+    {
+      "literal": "Yanuo Ma"
+    },
+    {
+      "literal": "Ben Kereopa-Yorke"
+    },
+    {
+      "literal": "Ben Schultz"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.28430",
+  "genre": "preprint",
+  "version": "1"
+}

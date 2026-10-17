@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2609.39222",
+  "citation-key": "arxiv_2609_39222",
+  "type": "article",
+  "title": "DC-SAE: Deep Compression Semantic Autoencoder for Faster Diffusion Convergence",
+  "URL": "https://arxiv.org/abs/2609.39222v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.39222",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.39222",
+    "identifiers": {
+      "arxiv": "2609.39222"
+    },
+    "first_published_at": "2026-09-30",
+    "record_updated_at": "2026-09-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b09fcb3bd94d9b1106490e950679b24b28a78802fa4342891b937b00e7e60cdb",
+      "submitted_at": "2026-09-30T08:00:20Z",
+      "updated_at": "2026-09-30T08:00:20Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.39222v1"
+    }
+  },
+  "note": "First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T08:00:20Z.",
+  "author": [
+    {
+      "literal": "Xu Huang"
+    },
+    {
+      "literal": "Ye Huang"
+    },
+    {
+      "literal": "Zijun Liao"
+    },
+    {
+      "literal": "Yuwei Niu"
+    },
+    {
+      "literal": "Xiaojie Li"
+    },
+    {
+      "literal": "Menghan Zhou"
+    },
+    {
+      "literal": "De Wen Soh"
+    },
+    {
+      "literal": "Xiaotong Li"
+    },
+    {
+      "literal": "Daquan Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.39222",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -74,7 +74,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Survey of research directions in GUI or computer-use agents.",
+  "summary": "Formalizes GUI tasks as Markov decision processes and traces agent training from prompting through supervised fine-tuning to reinforcement learning.",
   "topics": [
     "survey",
     "reinforcement-learning"

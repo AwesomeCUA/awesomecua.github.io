@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2604.13954",
+  "citation-key": "arxiv_2604_13954",
+  "type": "article",
+  "title": "HINTBench: Horizon-agent Intrinsic Non-attack Trajectory Benchmark",
+  "URL": "https://arxiv.org/abs/2604.13954v2",
+  "custom": {
+    "catalog_id": "arxiv:2604.13954",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.13954",
+    "identifiers": {
+      "arxiv": "2604.13954"
+    },
+    "first_published_at": "2026-04-15",
+    "record_updated_at": "2026-09-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "30823c16fe9e10e37d1640ce991d75cd4ddddf3a801b8af401acd885fac76d0b",
+      "submitted_at": "2026-04-15T15:06:01Z",
+      "updated_at": "2026-09-16T02:38:42Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2604.13954v2"
+    }
+  },
+  "note": "First published: 2026-04-15; Recorded arXiv version: v2; Recorded version updated: 2026-09-16T02:38:42Z.",
+  "author": [
+    {
+      "literal": "Jiacheng Wang"
+    },
+    {
+      "literal": "Jinchang Hou"
+    },
+    {
+      "literal": "Fabian Wang"
+    },
+    {
+      "literal": "Ping Jian"
+    },
+    {
+      "literal": "Chenfu Bao"
+    },
+    {
+      "literal": "Zhonghou Lv"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.13954",
+  "genre": "preprint",
+  "version": "2"
+}

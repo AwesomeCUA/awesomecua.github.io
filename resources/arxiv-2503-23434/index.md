@@ -1,6 +1,6 @@
 # Towards Trustworthy GUI Agents: A Survey
 
-Survey of research directions in GUI or computer-use agents.
+Frames GUI-agent trustworthiness as an execution gap and reviews failures, attacks, and defenses across perception, reasoning, and interaction.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-23434/
 - Original source: https://arxiv.org/abs/2503.23434

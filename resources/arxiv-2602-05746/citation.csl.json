@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2602.05746",
+  "citation-key": "arxiv_2602_05746",
+  "type": "article",
+  "title": "Learning to Inject: Automated Prompt Injection via Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2602.05746v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.05746",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.05746",
+    "identifiers": {
+      "arxiv": "2602.05746"
+    },
+    "first_published_at": "2026-02-05",
+    "record_updated_at": "2026-06-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "19dde6dc1fe2c61cc10393aaef02a226b49f12015275db6f276c9b6ea33746fa",
+      "submitted_at": "2026-02-05T15:14:46Z",
+      "updated_at": "2026-06-10T08:55:54Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.05746v2"
+    }
+  },
+  "note": "First published: 2026-02-05; Recorded arXiv version: v2; Recorded version updated: 2026-06-10T08:55:54Z.",
+  "author": [
+    {
+      "literal": "Xin Chen"
+    },
+    {
+      "literal": "Jie Zhang"
+    },
+    {
+      "literal": "Florian Tramèr"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.05746",
+  "genre": "preprint",
+  "version": "2"
+}

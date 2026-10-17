@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:2607.05743",
+  "citation-key": "arxiv_2607_05743",
+  "type": "article",
+  "title": "The Balkanization of Execution-Security Research for AI Coding Agents: Isolation, Access Control, and Time-of-Check-to-Time-of-Use Vulnerabilities",
+  "URL": "https://arxiv.org/abs/2607.05743v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.05743",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.05743",
+    "identifiers": {
+      "arxiv": "2607.05743"
+    },
+    "first_published_at": "2026-07-07",
+    "record_updated_at": "2026-07-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ddac32c59f6efbecfa9b02407b2fc9823ffc2bb122e5af241b0decb3b7e06031",
+      "submitted_at": "2026-07-07T01:56:18Z",
+      "updated_at": "2026-07-07T01:56:18Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.05743v1"
+    }
+  },
+  "note": "First published: 2026-07-07; Recorded arXiv version: v1; Recorded version updated: 2026-07-07T01:56:18Z.",
+  "author": [
+    {
+      "literal": "Mohammadreza Rashidi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.05743",
+  "genre": "preprint",
+  "version": "1"
+}

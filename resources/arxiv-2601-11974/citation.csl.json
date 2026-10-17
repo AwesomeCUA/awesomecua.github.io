@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2601.11974",
+  "citation-key": "arxiv_2601_11974",
+  "type": "article",
+  "title": "Learn Like Humans: Use Meta-cognitive Reflection for Efficient Self-Improvement",
+  "URL": "https://arxiv.org/abs/2601.11974v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.11974",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.11974",
+    "identifiers": {
+      "arxiv": "2601.11974"
+    },
+    "first_published_at": "2026-01-17",
+    "record_updated_at": "2026-01-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f64728faa86136d794b34c589647fa4d2158de3279d41a38755726cf3c36bc73",
+      "submitted_at": "2026-01-17T09:12:26Z",
+      "updated_at": "2026-01-17T09:12:26Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.11974v1"
+    }
+  },
+  "note": "First published: 2026-01-17; Recorded arXiv version: v1; Recorded version updated: 2026-01-17T09:12:26Z.",
+  "author": [
+    {
+      "literal": "Xinmeng Hou"
+    },
+    {
+      "literal": "Peiliang Gong"
+    },
+    {
+      "literal": "Bohao Qu"
+    },
+    {
+      "literal": "Wuqi Wang"
+    },
+    {
+      "literal": "Qing Guo"
+    },
+    {
+      "literal": "Yang Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.11974",
+  "genre": "preprint",
+  "version": "1"
+}

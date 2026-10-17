@@ -101,7 +101,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Survey of research directions in GUI or computer-use agents.",
+  "summary": "Surveys agents that operate computers and phones through operating-system interfaces, covering components, capabilities, foundation models, frameworks, and benchmarks.",
   "topics": [
     "survey"
   ],

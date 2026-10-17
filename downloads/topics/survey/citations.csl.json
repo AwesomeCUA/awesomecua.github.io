@@ -1008,6 +1008,55 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2602.12430v4",
+    "archive": "arXiv",
+    "archive_location": "2602.12430",
+    "author": [
+      {
+        "literal": "Renjun Xu"
+      },
+      {
+        "literal": "Yang Yan"
+      }
+    ],
+    "citation-key": "arxiv_2602_12430",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f0edc70265a8d46a7c22a9c6384de8aa19f79dbb6987f8c23f4a260647a6a3f0",
+        "submitted_at": "2026-02-12T21:33:25Z",
+        "updated_at": "2026-06-02T16:14:54Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2602.12430v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.12430",
+      "catalog_id": "arxiv:2602.12430",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-02-12",
+      "identifiers": {
+        "arxiv": "2602.12430"
+      },
+      "record_updated_at": "2026-06-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.12430",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-12; Recorded arXiv version: v4; Recorded version updated: 2026-06-02T16:14:54Z.",
+    "title": "Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward",
+    "type": "article",
+    "version": "4"
+  },
+  {
     "URL": "https://arxiv.org/abs/2609.02309v1",
     "archive": "arXiv",
     "archive_location": "2609.02309",

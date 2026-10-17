@@ -317,6 +317,52 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2603.10664v1",
+    "archive": "arXiv",
+    "archive_location": "2603.10664",
+    "author": [
+      {
+        "literal": "Alexandre De Masi"
+      }
+    ],
+    "citation-key": "arxiv_2603_10664",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5944045ee4562641ee02612969d1c2d038e019fa02cc8d48c671c1d5397557ad",
+        "submitted_at": "2026-03-11T11:24:31Z",
+        "updated_at": "2026-03-11T11:24:31Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.10664v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.10664",
+      "catalog_id": "arxiv:2603.10664",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-03-11",
+      "identifiers": {
+        "arxiv": "2603.10664"
+      },
+      "record_updated_at": "2026-03-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.10664",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-11; Recorded arXiv version: v1; Recorded version updated: 2026-03-11T11:24:31Z.",
+    "title": "Terminal Is All You Need: Design Properties for Human-AI Agent Collaboration",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2604.09581v2",
     "archive": "arXiv",
     "archive_location": "2604.09581",
@@ -373,6 +419,189 @@
     "title": "Avenir-UX: Automated UX Evaluation via Simulated Human Web Interaction with GUI Grounding",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.19742v2",
+    "archive": "arXiv",
+    "archive_location": "2604.19742",
+    "author": [
+      {
+        "literal": "Zhiyuan Peng"
+      },
+      {
+        "literal": "Wei Tao"
+      },
+      {
+        "literal": "Xin Yin"
+      },
+      {
+        "literal": "Chenhao Ying"
+      },
+      {
+        "literal": "Yuan Luo"
+      },
+      {
+        "literal": "Yiwen Guo"
+      }
+    ],
+    "citation-key": "arxiv_2604_19742",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "74ec7a508a815781cc7e721aa6c5e351f086f6cab46da48e22c2b58f52af8ce0",
+        "submitted_at": "2026-04-21T17:59:16Z",
+        "updated_at": "2026-09-29T10:11:48Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2604.19742v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.19742",
+      "catalog_id": "arxiv:2604.19742",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-21",
+      "identifiers": {
+        "arxiv": "2604.19742"
+      },
+      "record_updated_at": "2026-09-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.19742",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          21
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-21; Recorded arXiv version: v2; Recorded version updated: 2026-09-29T10:11:48Z.",
+    "title": "PlayCoder: Making LLM-Generated GUI Code Playable",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.26148v3",
+    "archive": "arXiv",
+    "archive_location": "2604.26148",
+    "author": [
+      {
+        "literal": "Chen Liang"
+      },
+      {
+        "literal": "Xirui Jiang"
+      },
+      {
+        "literal": "Naihao Deng"
+      },
+      {
+        "literal": "Eytan Adar"
+      },
+      {
+        "literal": "Anhong Guo"
+      }
+    ],
+    "citation-key": "arxiv_2604_26148",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5b572e37eefab40a6a21fa4e4589324380ad9f66873a4da5746fc0f46aaeb1f6",
+        "submitted_at": "2026-04-28T22:15:06Z",
+        "updated_at": "2026-08-11T15:48:53Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2604.26148v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.26148",
+      "catalog_id": "arxiv:2604.26148",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-28",
+      "identifiers": {
+        "arxiv": "2604.26148"
+      },
+      "record_updated_at": "2026-08-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.26148",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-28; Recorded arXiv version: v3; Recorded version updated: 2026-08-11T15:48:53Z.",
+    "title": "Beyond Screenshots: Evaluating VLMs' Understanding of UI Animations",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.26144v4",
+    "archive": "arXiv",
+    "archive_location": "2605.26144",
+    "author": [
+      {
+        "literal": "JunJia Guo"
+      },
+      {
+        "literal": "Yuhang Yao"
+      },
+      {
+        "literal": "Chang Li"
+      },
+      {
+        "literal": "Zimeng Pan"
+      },
+      {
+        "literal": "Jiawei"
+      },
+      {
+        "literal": "Zhou"
+      },
+      {
+        "literal": "Jingdi Chen"
+      }
+    ],
+    "citation-key": "arxiv_2605_26144",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "64f8e09fc62f080a75aec1928b82187063cfc3ad8467290608347622410b6460",
+        "submitted_at": "2026-05-22T20:29:12Z",
+        "updated_at": "2026-09-29T00:12:17Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2605.26144v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.26144",
+      "catalog_id": "arxiv:2605.26144",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-05-22",
+      "identifiers": {
+        "arxiv": "2605.26144"
+      },
+      "record_updated_at": "2026-09-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.26144",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-22; Recorded arXiv version: v4; Recorded version updated: 2026-09-29T00:12:17Z.",
+    "title": "VISTA: An End-to-End Benchmark for Visual Spec-to-Web-App Coding Agents",
+    "type": "article",
+    "version": "4"
   },
   {
     "DOI": "10.1145/3126594.3126651",

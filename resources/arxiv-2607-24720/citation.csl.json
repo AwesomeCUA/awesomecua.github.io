@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2607.24720",
+  "citation-key": "arxiv_2607_24720",
+  "type": "article",
+  "title": "The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation",
+  "URL": "https://arxiv.org/abs/2607.24720v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.24720",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.24720",
+    "identifiers": {
+      "arxiv": "2607.24720"
+    },
+    "first_published_at": "2026-07-27",
+    "record_updated_at": "2026-07-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c94a1a2780ae2ffe6acce3b8388ed55c45e454200a91fab6975da076716969a9",
+      "submitted_at": "2026-07-27T17:55:03Z",
+      "updated_at": "2026-07-27T17:55:03Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.24720v1"
+    }
+  },
+  "note": "First published: 2026-07-27; Recorded arXiv version: v1; Recorded version updated: 2026-07-27T17:55:03Z.",
+  "author": [
+    {
+      "literal": "Tianyi Men"
+    },
+    {
+      "literal": "Zhuoran Jin"
+    },
+    {
+      "literal": "Kang Liu"
+    },
+    {
+      "literal": "Jun Zhao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.24720",
+  "genre": "preprint",
+  "version": "1"
+}

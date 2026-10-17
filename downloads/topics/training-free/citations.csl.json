@@ -750,6 +750,253 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2603.14448v1",
+    "archive": "arXiv",
+    "archive_location": "2603.14448",
+    "author": [
+      {
+        "literal": "Ziwei Liu"
+      },
+      {
+        "literal": "Tao Feng"
+      },
+      {
+        "literal": "Borui Kang"
+      },
+      {
+        "literal": "Yanbing Yang"
+      },
+      {
+        "literal": "Jun Luo"
+      }
+    ],
+    "citation-key": "arxiv_2603_14448",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b4507a652e2b3c3857289763442fffd8db21726b97fb7b6304ad61a2139ef5af",
+        "submitted_at": "2026-03-15T15:47:47Z",
+        "updated_at": "2026-03-15T15:47:47Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.14448v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.14448",
+      "catalog_id": "arxiv:2603.14448",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-15",
+      "identifiers": {
+        "arxiv": "2603.14448"
+      },
+      "record_updated_at": "2026-03-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.14448",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-15; Recorded arXiv version: v1; Recorded version updated: 2026-03-15T15:47:47Z.",
+    "title": "Zoom to Essence: Trainless GUI Grounding by Inferring upon Interface Elements",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.00886v1",
+    "archive": "arXiv",
+    "archive_location": "2604.00886",
+    "author": [
+      {
+        "literal": "Nan Wang"
+      },
+      {
+        "literal": "Zhiwei Jin"
+      },
+      {
+        "literal": "Chen Chen"
+      },
+      {
+        "literal": "Haonan Lu"
+      }
+    ],
+    "citation-key": "arxiv_2604_00886",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ce7f70ff1f8c7d4058d8fdf00cb6cf1d61c0367a50ba76fc96d356bb07452c60",
+        "submitted_at": "2026-04-01T13:33:27Z",
+        "updated_at": "2026-04-01T13:33:27Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.00886v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.00886",
+      "catalog_id": "arxiv:2604.00886",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-04-01",
+      "identifiers": {
+        "arxiv": "2604.00886"
+      },
+      "record_updated_at": "2026-04-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.00886",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          1
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-01; Recorded arXiv version: v1; Recorded version updated: 2026-04-01T13:33:27Z.",
+    "title": "PixelPrune: Pixel-Level Adaptive Visual Token Reduction via Predictive Coding",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.14113v1",
+    "archive": "arXiv",
+    "archive_location": "2604.14113",
+    "author": [
+      {
+        "literal": "Fei Tang"
+      },
+      {
+        "literal": "Bofan Chen"
+      },
+      {
+        "literal": "Zhengxi Lu"
+      },
+      {
+        "literal": "Tongbo Chen"
+      },
+      {
+        "literal": "Songqin Nong"
+      },
+      {
+        "literal": "Tao Jiang"
+      },
+      {
+        "literal": "Wenhao Xu"
+      },
+      {
+        "literal": "Weiming Lu"
+      },
+      {
+        "literal": "Jun Xiao"
+      },
+      {
+        "literal": "Yueting Zhuang"
+      },
+      {
+        "literal": "Yongliang Shen"
+      }
+    ],
+    "citation-key": "arxiv_2604_14113",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "68709f498ebd5d475593ca8ac5bd543a695086d4dffadc113fad908495c234d9",
+        "submitted_at": "2026-04-15T17:32:28Z",
+        "updated_at": "2026-04-15T17:32:28Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.14113v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.14113",
+      "catalog_id": "arxiv:2604.14113",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-15",
+      "identifiers": {
+        "arxiv": "2604.14113"
+      },
+      "record_updated_at": "2026-04-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.14113",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-15; Recorded arXiv version: v1; Recorded version updated: 2026-04-15T17:32:28Z.",
+    "title": "UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In for GUI Grounding",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.02630v1",
+    "archive": "arXiv",
+    "archive_location": "2605.02630",
+    "author": [
+      {
+        "literal": "Ruilin Yao"
+      },
+      {
+        "literal": "Shegnwu Xiong"
+      },
+      {
+        "literal": "Tianyu Zou"
+      },
+      {
+        "literal": "Shili Xiong"
+      },
+      {
+        "literal": "Yi Rong"
+      }
+    ],
+    "citation-key": "arxiv_2605_02630",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2dc8c2f5a5a97bc372a1bf5ab3fe0537e53a681f808d45877f55cdef6556858c",
+        "submitted_at": "2026-05-04T14:18:46Z",
+        "updated_at": "2026-05-04T14:18:46Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.02630v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.02630",
+      "catalog_id": "arxiv:2605.02630",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-04",
+      "identifiers": {
+        "arxiv": "2605.02630"
+      },
+      "record_updated_at": "2026-05-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.02630",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          4
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-04; Recorded arXiv version: v1; Recorded version updated: 2026-05-04T14:18:46Z.",
+    "title": "AutoFocus: Uncertainty-Aware Active Visual Search for GUI Grounding",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2606.29472v1",
     "archive": "arXiv",
     "archive_location": "2606.29472",

@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2608.17975",
+  "citation-key": "arxiv_2608_17975",
+  "type": "article",
+  "title": "aDSL: Agentic 3D Creation via Joint Agent-Program Design",
+  "URL": "https://arxiv.org/abs/2608.17975v1",
+  "custom": {
+    "catalog_id": "arxiv:2608.17975",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2608.17975",
+    "identifiers": {
+      "arxiv": "2608.17975"
+    },
+    "first_published_at": "2026-08-18",
+    "record_updated_at": "2026-08-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "33712da953c3b03e226d16886c54a012699777fce2d5d4049db0d8015e309c6a",
+      "submitted_at": "2026-08-18T16:27:44Z",
+      "updated_at": "2026-08-18T16:27:44Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2608.17975v1"
+    }
+  },
+  "note": "First published: 2026-08-18; Recorded arXiv version: v1; Recorded version updated: 2026-08-18T16:27:44Z.",
+  "author": [
+    {
+      "literal": "Rui-Huan Wang"
+    },
+    {
+      "literal": "Si-Tong Wei"
+    },
+    {
+      "literal": "Jia-Qi He"
+    },
+    {
+      "literal": "Heng-Yi Wei"
+    },
+    {
+      "literal": "Baoquan Chen"
+    },
+    {
+      "literal": "Peng-Shuai Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2608.17975",
+  "genre": "preprint",
+  "version": "1"
+}

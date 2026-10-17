@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2603.19313",
+  "citation-key": "arxiv_2603_19313",
+  "type": "article",
+  "title": "Memory-Driven Role-Playing: Evaluation and Enhancement of Persona Knowledge Utilization in LLMs",
+  "URL": "https://arxiv.org/abs/2603.19313v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.19313",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.19313",
+    "identifiers": {
+      "arxiv": "2603.19313"
+    },
+    "first_published_at": "2026-03-14",
+    "record_updated_at": "2026-03-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5d1781b852b97be824a5af1d943f0cc522dbcabcf1af17626628c35309f79edb",
+      "submitted_at": "2026-03-14T07:12:42Z",
+      "updated_at": "2026-03-14T07:12:42Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.19313v1"
+    }
+  },
+  "note": "First published: 2026-03-14; Recorded arXiv version: v1; Recorded version updated: 2026-03-14T07:12:42Z.",
+  "author": [
+    {
+      "literal": "Kai Wang"
+    },
+    {
+      "literal": "Haoyang You"
+    },
+    {
+      "literal": "Yang Zhang"
+    },
+    {
+      "literal": "Zhongjie Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.19313",
+  "genre": "preprint",
+  "version": "1"
+}

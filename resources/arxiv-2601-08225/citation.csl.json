@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2601.08225",
+  "citation-key": "arxiv_2601_08225",
+  "type": "article",
+  "title": "User-Oriented Multi-Turn Dialogue Generation with Tool Use at scale",
+  "URL": "https://arxiv.org/abs/2601.08225v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.08225",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.08225",
+    "identifiers": {
+      "arxiv": "2601.08225"
+    },
+    "first_published_at": "2026-01-13",
+    "record_updated_at": "2026-01-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1ac1ce7d33811b16c2fb630746559be0c9e6667e1ae997ff9f71e801326ef7a1",
+      "submitted_at": "2026-01-13T05:14:09Z",
+      "updated_at": "2026-01-13T05:14:09Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.08225v1"
+    }
+  },
+  "note": "First published: 2026-01-13; Recorded arXiv version: v1; Recorded version updated: 2026-01-13T05:14:09Z.",
+  "author": [
+    {
+      "literal": "Jungho Cho"
+    },
+    {
+      "literal": "Minbyul Jeong"
+    },
+    {
+      "literal": "Sungrae Park"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.08225",
+  "genre": "preprint",
+  "version": "1"
+}

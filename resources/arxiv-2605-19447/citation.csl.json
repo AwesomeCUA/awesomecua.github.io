@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2605.19447",
+  "citation-key": "arxiv_2605_19447",
+  "type": "article",
+  "title": "What and When to Distill: Selective Hindsight Distillation for Multi-Turn Agents",
+  "URL": "https://arxiv.org/abs/2605.19447v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.19447",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.19447",
+    "identifiers": {
+      "arxiv": "2605.19447"
+    },
+    "first_published_at": "2026-05-19",
+    "record_updated_at": "2026-05-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "996f61455be8fc9839511d50e2930fe798c2355508d6d8ad0c73486d1a316967",
+      "submitted_at": "2026-05-19T07:00:55Z",
+      "updated_at": "2026-05-19T07:00:55Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.19447v1"
+    }
+  },
+  "note": "First published: 2026-05-19; Recorded arXiv version: v1; Recorded version updated: 2026-05-19T07:00:55Z.",
+  "author": [
+    {
+      "literal": "Xiaozhe Li"
+    },
+    {
+      "literal": "Tianyi Lyu"
+    },
+    {
+      "literal": "Yang Li"
+    },
+    {
+      "literal": "Yichuan Ma"
+    },
+    {
+      "literal": "Peiji Li"
+    },
+    {
+      "literal": "Linyang Li"
+    },
+    {
+      "literal": "Qipeng Guo"
+    },
+    {
+      "literal": "Dahua Lin"
+    },
+    {
+      "literal": "Kai Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.19447",
+  "genre": "preprint",
+  "version": "1"
+}

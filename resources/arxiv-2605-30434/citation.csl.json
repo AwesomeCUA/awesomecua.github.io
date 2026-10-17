@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2605.30434",
+  "citation-key": "arxiv_2605_30434",
+  "type": "article",
+  "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data Analysis",
+  "URL": "https://arxiv.org/abs/2605.30434v3",
+  "custom": {
+    "catalog_id": "arxiv:2605.30434",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.30434",
+    "identifiers": {
+      "arxiv": "2605.30434"
+    },
+    "first_published_at": "2026-05-28",
+    "record_updated_at": "2026-09-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "697bf203870061e183ccf38f71cc9df0b4396ddf6807cac6d882fb7ea7f692c6",
+      "submitted_at": "2026-05-28T18:00:20Z",
+      "updated_at": "2026-09-05T15:19:36Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2605.30434v3"
+    }
+  },
+  "note": "First published: 2026-05-28; Recorded arXiv version: v3; Recorded version updated: 2026-09-05T15:19:36Z.",
+  "author": [
+    {
+      "literal": "Kewei Xu"
+    },
+    {
+      "literal": "Xiaoben Lu"
+    },
+    {
+      "literal": "Shuofei Qiao"
+    },
+    {
+      "literal": "Zihan Ding"
+    },
+    {
+      "literal": "Haoming Xu"
+    },
+    {
+      "literal": "Lei Liang"
+    },
+    {
+      "literal": "Ningyu Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.30434",
+  "genre": "preprint",
+  "version": "3"
+}

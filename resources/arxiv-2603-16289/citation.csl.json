@@ -1,0 +1,94 @@
+{
+  "id": "arxiv:2603.16289",
+  "citation-key": "arxiv_2603_16289",
+  "type": "article",
+  "title": "VisBrowse-Bench: Benchmarking Visual-Native Search for Multimodal Browsing Agents",
+  "URL": "https://arxiv.org/abs/2603.16289v2",
+  "custom": {
+    "catalog_id": "arxiv:2603.16289",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.16289",
+    "identifiers": {
+      "arxiv": "2603.16289"
+    },
+    "first_published_at": "2026-03-17",
+    "record_updated_at": "2026-03-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5c7a59738348defc6f8cb4583b7a1d1390a764dfa8d7da914ed33d43e6041c48",
+      "submitted_at": "2026-03-17T09:24:13Z",
+      "updated_at": "2026-03-18T15:40:14Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2603.16289v2"
+    }
+  },
+  "note": "First published: 2026-03-17; Recorded arXiv version: v2; Recorded version updated: 2026-03-18T15:40:14Z.",
+  "author": [
+    {
+      "literal": "Zhengbo Zhang"
+    },
+    {
+      "literal": "Jinbo Su"
+    },
+    {
+      "literal": "Zhaowen Zhou"
+    },
+    {
+      "literal": "Changtao Miao"
+    },
+    {
+      "literal": "Yuhan Hong"
+    },
+    {
+      "literal": "Qimeng Wu"
+    },
+    {
+      "literal": "Yumeng Liu"
+    },
+    {
+      "literal": "Feier Wu"
+    },
+    {
+      "literal": "Yihe Tian"
+    },
+    {
+      "literal": "Yuhao Liang"
+    },
+    {
+      "literal": "Zitong Shan"
+    },
+    {
+      "literal": "Wanke Xia"
+    },
+    {
+      "literal": "Yi-Fan Zhang"
+    },
+    {
+      "literal": "Bo Zhang"
+    },
+    {
+      "literal": "Zhe Li"
+    },
+    {
+      "literal": "Shiming Xiang"
+    },
+    {
+      "literal": "Ying Yan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.16289",
+  "genre": "preprint",
+  "version": "2"
+}

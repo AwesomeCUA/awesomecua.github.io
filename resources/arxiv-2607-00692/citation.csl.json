@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2607.00692",
+  "citation-key": "arxiv_2607_00692",
+  "type": "article",
+  "title": "Self-GC: Self-Governing Context for Long-Horizon LLM Agents",
+  "URL": "https://arxiv.org/abs/2607.00692v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.00692",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.00692",
+    "identifiers": {
+      "arxiv": "2607.00692"
+    },
+    "first_published_at": "2026-07-01",
+    "record_updated_at": "2026-07-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9241d95c69c1f521a64932bddf77679cf8bd3547f2958ab2a24189789e3716f8",
+      "submitted_at": "2026-07-01T09:41:54Z",
+      "updated_at": "2026-07-01T09:41:54Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.00692v1"
+    }
+  },
+  "note": "First published: 2026-07-01; Recorded arXiv version: v1; Recorded version updated: 2026-07-01T09:41:54Z.",
+  "author": [
+    {
+      "literal": "Xubin Hao"
+    },
+    {
+      "literal": "Hongjin Meng"
+    },
+    {
+      "literal": "Xin Yin"
+    },
+    {
+      "literal": "Jiawei Zhu"
+    },
+    {
+      "literal": "Chenpeng Cao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.00692",
+  "genre": "preprint",
+  "version": "1"
+}

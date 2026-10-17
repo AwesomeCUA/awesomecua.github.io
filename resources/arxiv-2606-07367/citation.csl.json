@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2606.07367",
+  "citation-key": "arxiv_2606_07367",
+  "type": "article",
+  "title": "Self-evolving LLM agents with in-distribution Optimization",
+  "URL": "https://arxiv.org/abs/2606.07367v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.07367",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.07367",
+    "identifiers": {
+      "arxiv": "2606.07367"
+    },
+    "first_published_at": "2026-06-05",
+    "record_updated_at": "2026-06-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b94b2c62b2206d95323fb1a21d85e41ffcafdd4a67a5d7aa704853efd157ddc2",
+      "submitted_at": "2026-06-05T15:09:52Z",
+      "updated_at": "2026-06-05T15:09:52Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.07367v1"
+    }
+  },
+  "note": "First published: 2026-06-05; Recorded arXiv version: v1; Recorded version updated: 2026-06-05T15:09:52Z.",
+  "author": [
+    {
+      "literal": "Yudi Zhang"
+    },
+    {
+      "literal": "Meng Fang"
+    },
+    {
+      "literal": "Zhenfang Chen"
+    },
+    {
+      "literal": "Mykola Pechenizkiy"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.07367",
+  "genre": "preprint",
+  "version": "1"
+}

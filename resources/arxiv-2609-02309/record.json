@@ -83,7 +83,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Survey of research directions in GUI or computer-use agents.",
+  "summary": "Surveys GUI-agent efficiency beyond task success: observation, context and memory, action, and planner or runtime cost.",
   "topics": [
     "survey"
   ],

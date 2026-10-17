@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2605.26252",
+  "citation-key": "arxiv_2605_26252",
+  "type": "article",
+  "title": "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent Memory",
+  "URL": "https://arxiv.org/abs/2605.26252v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.26252",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.26252",
+    "identifiers": {
+      "arxiv": "2605.26252"
+    },
+    "first_published_at": "2026-05-25",
+    "record_updated_at": "2026-05-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5639dabccb22430c1a536045b04069a2e67bf4538d4c845341736a2d0bda9c7c",
+      "submitted_at": "2026-05-25T18:22:42Z",
+      "updated_at": "2026-05-25T18:22:42Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.26252v1"
+    }
+  },
+  "note": "First published: 2026-05-25; Recorded arXiv version: v1; Recorded version updated: 2026-05-25T18:22:42Z.",
+  "author": [
+    {
+      "literal": "Abdelghny Orogat"
+    },
+    {
+      "literal": "Essam Mansour"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.26252",
+  "genre": "preprint",
+  "version": "1"
+}

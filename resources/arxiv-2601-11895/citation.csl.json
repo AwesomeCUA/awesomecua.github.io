@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2601.11895",
+  "citation-key": "arxiv_2601_11895",
+  "type": "article",
+  "title": "DevBench: A Realistic, Developer-Informed Benchmark for Code Generation Models",
+  "URL": "https://arxiv.org/abs/2601.11895v3",
+  "custom": {
+    "catalog_id": "arxiv:2601.11895",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.11895",
+    "identifiers": {
+      "arxiv": "2601.11895"
+    },
+    "first_published_at": "2026-01-17",
+    "record_updated_at": "2026-05-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "59d2b1f803636d4e75364710638704e909e414c6249cef26d42a4ff5a5da305b",
+      "submitted_at": "2026-01-17T03:33:08Z",
+      "updated_at": "2026-05-16T19:19:54Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2601.11895v3"
+    }
+  },
+  "note": "First published: 2026-01-17; Recorded arXiv version: v3; Recorded version updated: 2026-05-16T19:19:54Z.",
+  "author": [
+    {
+      "literal": "Adarsh Kumarappan"
+    },
+    {
+      "literal": "Pareesa Ameneh Golnari"
+    },
+    {
+      "literal": "Wen Wen"
+    },
+    {
+      "literal": "Xiaoyu Liu"
+    },
+    {
+      "literal": "Gabriel Ryan"
+    },
+    {
+      "literal": "Yuting Sun"
+    },
+    {
+      "literal": "Shengyu Fu"
+    },
+    {
+      "literal": "Elsie Nallipogu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.11895",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -1,0 +1,102 @@
+{
+  "aliases": [],
+  "authors": [
+    "Haodong Li",
+    "Jingwei Wu",
+    "Quan Sun",
+    "Guopeng Li",
+    "Juanxi Tian",
+    "Ziyu Guo",
+    "Donghao Zhou",
+    "Tianfei Ren",
+    "Huanyu Zhang",
+    "Yanlin Lai",
+    "Ruichuan An",
+    "Hongbo Peng",
+    "Yuhong Dai",
+    "Jia Wang",
+    "Ziyang Meng",
+    "Zheng Ge",
+    "Xiangyu Zhang",
+    "Daxin Jiang",
+    "Pheng-Ann Heng"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "43a01e0eb848a57a84767836d2c3c982bbf6094d22a3e70652dd42af52760bc5",
+      "submitted_at": "2026-02-09T18:52:02Z",
+      "updated_at": "2026-09-26T18:28:57Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2602.09007v3"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-17T12:31:12Z",
+      "role": "primary",
+      "sha256": "c8c95278aa5dcc6a8f2eda3f3b44d61ec1f35adcb6a4c6c9ab328691a1a4f102",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2601.13462%2C2601.14232%2C2601.15331%2C2601.17548%2C2601.18418%2C2601.18491%2C2601.18827%2C2601.20171%2C2601.20613%2C2601.20742%2C2601.21233%2C2601.21253%2C2601.22037%2C2601.22154%2C2601.22511%2C2601.22607%2C2602.01550%2C2602.03117%2C2602.03361%2C2602.05665%2C2602.05746%2C2602.05877%2C2602.06052%2C2602.07398%2C2602.07458%2C2602.07918%2C2602.09007%2C2602.09463%2C2602.09514%2C2602.10122%2C2602.10525%2C2602.11224%2C2602.12268%2C2602.12430%2C2602.13318%2C2602.13543%2C2602.13692%2C2602.14038%2C2602.14337%2C2602.14364%2C2602.16313%2C2602.16317%2C2602.16666%2C2602.16901%2C2602.16930%2C2602.17547%2C2602.17646%2C2602.18846%2C2602.19320%2C2602.19594&max_results=50"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:31:12Z",
+      "role": "primary",
+      "sha256": "c8c95278aa5dcc6a8f2eda3f3b44d61ec1f35adcb6a4c6c9ab328691a1a4f102",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2601.13462%2C2601.14232%2C2601.15331%2C2601.17548%2C2601.18418%2C2601.18491%2C2601.18827%2C2601.20171%2C2601.20613%2C2601.20742%2C2601.21233%2C2601.21253%2C2601.22037%2C2601.22154%2C2601.22511%2C2601.22607%2C2602.01550%2C2602.03117%2C2602.03361%2C2602.05665%2C2602.05746%2C2602.05877%2C2602.06052%2C2602.07398%2C2602.07458%2C2602.07918%2C2602.09007%2C2602.09463%2C2602.09514%2C2602.10122%2C2602.10525%2C2602.11224%2C2602.12268%2C2602.12430%2C2602.13318%2C2602.13543%2C2602.13692%2C2602.14038%2C2602.14337%2C2602.14364%2C2602.16313%2C2602.16317%2C2602.16666%2C2602.16901%2C2602.16930%2C2602.17547%2C2602.17646%2C2602.18846%2C2602.19320%2C2602.19594&max_results=50"
+    }
+  ],
+  "id": "arxiv:2602.09007",
+  "identifiers": {
+    "arxiv": "2602.09007"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-17T12:31:12Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2602.09007"
+    }
+  ],
+  "name": "GUI-GenBench: Evaluating Image Generation Models as Interactive GUI Environments",
+  "notes": "Reviewed against the complete retained official abstract. Experimental findings and release availability have not been independently reproduced or verified.",
+  "published_at": "2026-02-09",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "GUI-GenBench tests image-generation models as action-conditioned GUI environments across five suites, including transitions, trajectories and grounding. Its VLM-based GUI-Score separates goal completion, interaction logic, consistency and visual properties.",
+  "topics": [
+    "evaluation",
+    "world-models",
+    "grounding",
+    "screen-understanding"
+  ],
+  "updated_at": "2026-09-26",
+  "url": "https://arxiv.org/abs/2602.09007"
+}

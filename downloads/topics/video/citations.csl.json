@@ -1062,6 +1062,76 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2603.10178v1",
+    "archive": "arXiv",
+    "archive_location": "2603.10178",
+    "author": [
+      {
+        "literal": "Linxin Song"
+      },
+      {
+        "literal": "Jieyu Zhang"
+      },
+      {
+        "literal": "Huanxin Sheng"
+      },
+      {
+        "literal": "Taiwei Shi"
+      },
+      {
+        "literal": "Gupta Rahul"
+      },
+      {
+        "literal": "Yang Liu"
+      },
+      {
+        "literal": "Ranjay Krishna"
+      },
+      {
+        "literal": "Jian Kang"
+      },
+      {
+        "literal": "Jieyu Zhao"
+      }
+    ],
+    "citation-key": "arxiv_2603_10178",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "22b3001540ac8cc75117cdfb4f381462fe7df3fe7700a86e14b9f522803316ac",
+        "submitted_at": "2026-03-10T19:17:22Z",
+        "updated_at": "2026-03-10T19:17:22Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.10178v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.10178",
+      "catalog_id": "arxiv:2603.10178",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-10",
+      "identifiers": {
+        "arxiv": "2603.10178"
+      },
+      "record_updated_at": "2026-03-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.10178",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          10
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-10; Recorded arXiv version: v1; Recorded version updated: 2026-03-10T19:17:22Z.",
+    "title": "Video-Based Reward Modeling for Computer-Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2603.22529v1",
     "archive": "arXiv",
     "archive_location": "2603.22529",
@@ -1259,6 +1329,271 @@
     },
     "note": "First published: 2026-03-26; Recorded arXiv version: v1; Recorded version updated: 2026-03-26T19:37:53Z.",
     "title": "GUIDE: A Benchmark for Understanding and Assisting Users in Open-Ended GUI Tasks",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.28069v1",
+    "archive": "arXiv",
+    "archive_location": "2603.28069",
+    "author": [
+      {
+        "literal": "Christopher Clark"
+      },
+      {
+        "literal": "Yue Yang"
+      },
+      {
+        "literal": "Jae Sung Park"
+      },
+      {
+        "literal": "Zixian Ma"
+      },
+      {
+        "literal": "Jieyu Zhang"
+      },
+      {
+        "literal": "Rohun Tripathi"
+      },
+      {
+        "literal": "Mohammadreza Salehi"
+      },
+      {
+        "literal": "Sangho Lee"
+      },
+      {
+        "literal": "Taira Anderson"
+      },
+      {
+        "literal": "Winson Han"
+      },
+      {
+        "literal": "Ranjay Krishna"
+      }
+    ],
+    "citation-key": "arxiv_2603_28069",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7fe857c9f7e7819a9c2f99448f77bbeae15ae4e2ac8ad308000f3d217b0177fc",
+        "submitted_at": "2026-03-30T06:15:06Z",
+        "updated_at": "2026-03-30T06:15:06Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.28069v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.28069",
+      "catalog_id": "arxiv:2603.28069",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-03-30",
+      "identifiers": {
+        "arxiv": "2603.28069"
+      },
+      "record_updated_at": "2026-03-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.28069",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-30; Recorded arXiv version: v1; Recorded version updated: 2026-03-30T06:15:06Z.",
+    "title": "MolmoPoint: Better Pointing for VLMs with Grounding Tokens",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.25380v2",
+    "archive": "arXiv",
+    "archive_location": "2604.25380",
+    "author": [
+      {
+        "literal": "Enqi Liu"
+      },
+      {
+        "literal": "Liyuan Pan"
+      },
+      {
+        "literal": "Zhi Gao"
+      },
+      {
+        "literal": "Yan Yang"
+      },
+      {
+        "literal": "Chenrui Shi"
+      },
+      {
+        "literal": "Yang Liu"
+      },
+      {
+        "literal": "Jingrong Wu"
+      },
+      {
+        "literal": "Qing Li"
+      }
+    ],
+    "citation-key": "arxiv_2604_25380",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "54b49f54319922268ba880a1c1e8a27ffa7597e228b18be04caa1a6952a6456a",
+        "submitted_at": "2026-04-28T08:43:58Z",
+        "updated_at": "2026-05-08T04:29:20Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2604.25380v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.25380",
+      "catalog_id": "arxiv:2604.25380",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-28",
+      "identifiers": {
+        "arxiv": "2604.25380"
+      },
+      "record_updated_at": "2026-05-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.25380",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-28; Recorded arXiv version: v2; Recorded version updated: 2026-05-08T04:29:20Z.",
+    "title": "Benchmarking and Improving GUI Agents in High-Dynamic Environments",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.26148v3",
+    "archive": "arXiv",
+    "archive_location": "2604.26148",
+    "author": [
+      {
+        "literal": "Chen Liang"
+      },
+      {
+        "literal": "Xirui Jiang"
+      },
+      {
+        "literal": "Naihao Deng"
+      },
+      {
+        "literal": "Eytan Adar"
+      },
+      {
+        "literal": "Anhong Guo"
+      }
+    ],
+    "citation-key": "arxiv_2604_26148",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5b572e37eefab40a6a21fa4e4589324380ad9f66873a4da5746fc0f46aaeb1f6",
+        "submitted_at": "2026-04-28T22:15:06Z",
+        "updated_at": "2026-08-11T15:48:53Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2604.26148v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.26148",
+      "catalog_id": "arxiv:2604.26148",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-28",
+      "identifiers": {
+        "arxiv": "2604.26148"
+      },
+      "record_updated_at": "2026-08-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.26148",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-28; Recorded arXiv version: v3; Recorded version updated: 2026-08-11T15:48:53Z.",
+    "title": "Beyond Screenshots: Evaluating VLMs' Understanding of UI Animations",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.10966v1",
+    "archive": "arXiv",
+    "archive_location": "2605.10966",
+    "author": [
+      {
+        "literal": "Chiyeong Heo"
+      },
+      {
+        "literal": "Jaechang Kim"
+      },
+      {
+        "literal": "Junhyuk Kwon"
+      },
+      {
+        "literal": "Hoyoung Kim"
+      },
+      {
+        "literal": "Dongmin Park"
+      },
+      {
+        "literal": "Jonghyun Lee"
+      },
+      {
+        "literal": "Jungseul Ok"
+      }
+    ],
+    "citation-key": "arxiv_2605_10966",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0bd75e6bf9d5a8185a2204cdd99d42f9d96c102f7297abcadb9f8425e9246349",
+        "submitted_at": "2026-05-08T10:57:19Z",
+        "updated_at": "2026-05-08T10:57:19Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.10966v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.10966",
+      "catalog_id": "arxiv:2605.10966",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-05-08",
+      "identifiers": {
+        "arxiv": "2605.10966"
+      },
+      "record_updated_at": "2026-05-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.10966",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-08; Recorded arXiv version: v1; Recorded version updated: 2026-05-08T10:57:19Z.",
+    "title": "MMTB: Evaluating Terminal Agents on Multimedia-File Tasks",
     "type": "article",
     "version": "1"
   },

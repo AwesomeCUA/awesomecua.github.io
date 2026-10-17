@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2610.13098",
+  "citation-key": "arxiv_2610_13098",
+  "type": "article",
+  "title": "VETR: Execution-Grounded Self-Improving Agent for Symbolic Graphics Reasoning",
+  "URL": "https://arxiv.org/abs/2610.13098v2",
+  "custom": {
+    "catalog_id": "arxiv:2610.13098",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.13098",
+    "identifiers": {
+      "arxiv": "2610.13098"
+    },
+    "first_published_at": "2026-10-09",
+    "record_updated_at": "2026-10-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "35908311612dc14e8ff82888255e962b6e6a86349117d67e7d6a77758a6d8e16",
+      "submitted_at": "2026-10-09T06:51:59Z",
+      "updated_at": "2026-10-12T20:16:31Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2610.13098v2"
+    }
+  },
+  "note": "First published: 2026-10-09; Recorded arXiv version: v2; Recorded version updated: 2026-10-12T20:16:31Z.",
+  "author": [
+    {
+      "literal": "Yingbo Ma"
+    },
+    {
+      "literal": "Kuangshi Ai"
+    },
+    {
+      "literal": "Gordon Dai"
+    },
+    {
+      "literal": "Chenglong Yu"
+    },
+    {
+      "literal": "Chaoli Wang"
+    },
+    {
+      "literal": "Hua Shen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.13098",
+  "genre": "preprint",
+  "version": "2"
+}

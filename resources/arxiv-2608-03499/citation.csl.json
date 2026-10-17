@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2608.03499",
+  "citation-key": "arxiv_2608_03499",
+  "type": "article",
+  "title": "WeClawArena: An Auditable Sandbox and Benchmark for Cross-User Agents Collaboration and Security in Human-Centered Agent Networks",
+  "URL": "https://arxiv.org/abs/2608.03499v1",
+  "custom": {
+    "catalog_id": "arxiv:2608.03499",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2608.03499",
+    "identifiers": {
+      "arxiv": "2608.03499"
+    },
+    "first_published_at": "2026-08-04",
+    "record_updated_at": "2026-08-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6ae30fa3df1d3a96351e33d117fd1661bff5e57f67b78ccd8f7921a7de2358ff",
+      "submitted_at": "2026-08-04T11:42:26Z",
+      "updated_at": "2026-08-04T11:42:26Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2608.03499v1"
+    }
+  },
+  "note": "First published: 2026-08-04; Recorded arXiv version: v1; Recorded version updated: 2026-08-04T11:42:26Z.",
+  "author": [
+    {
+      "literal": "Prince Zizhuang Wang"
+    },
+    {
+      "literal": "Aojie Yuan"
+    },
+    {
+      "literal": "Haiyue Zhang"
+    },
+    {
+      "literal": "Xiyang Hu"
+    },
+    {
+      "literal": "Yue Zhao"
+    },
+    {
+      "literal": "Shuli Jiang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2608.03499",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:2607.08252",
+  "citation-key": "arxiv_2607_08252",
+  "type": "article",
+  "title": "A Multi-Timescale Recursive Self-Improvement Engine for Open-Ended Persona Growth",
+  "URL": "https://arxiv.org/abs/2607.08252v2",
+  "custom": {
+    "catalog_id": "arxiv:2607.08252",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.08252",
+    "identifiers": {
+      "arxiv": "2607.08252"
+    },
+    "first_published_at": "2026-07-09",
+    "record_updated_at": "2026-10-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0034a931bd08231590b57e8bd58c27f8a6d6daf03b151708596b86e3a34d583f",
+      "submitted_at": "2026-07-09T08:56:30Z",
+      "updated_at": "2026-10-02T08:56:19Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2607.08252v2"
+    }
+  },
+  "note": "First published: 2026-07-09; Recorded arXiv version: v2; Recorded version updated: 2026-10-02T08:56:19Z.",
+  "author": [
+    {
+      "literal": "Mengchen Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.08252",
+  "genre": "preprint",
+  "version": "2"
+}

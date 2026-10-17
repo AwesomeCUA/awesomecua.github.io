@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2601.17548",
+  "citation-key": "arxiv_2601_17548",
+  "type": "article",
+  "title": "Prompt Injection Attacks on Agentic Coding Assistants: A Systematic Analysis of Vulnerabilities in Skills, Tools, and Protocol Ecosystems",
+  "URL": "https://arxiv.org/abs/2601.17548v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.17548",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.17548",
+    "identifiers": {
+      "arxiv": "2601.17548"
+    },
+    "first_published_at": "2026-01-24",
+    "record_updated_at": "2026-01-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8d1bc1c63517b92ca15ba74fe51546a968f46e49bab3370b011464ea7322622f",
+      "submitted_at": "2026-01-24T18:39:21Z",
+      "updated_at": "2026-01-24T18:39:21Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.17548v1"
+    }
+  },
+  "note": "First published: 2026-01-24; Recorded arXiv version: v1; Recorded version updated: 2026-01-24T18:39:21Z.",
+  "author": [
+    {
+      "literal": "Narek Maloyan"
+    },
+    {
+      "literal": "Dmitry Namiot"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.17548",
+  "genre": "preprint",
+  "version": "1"
+}

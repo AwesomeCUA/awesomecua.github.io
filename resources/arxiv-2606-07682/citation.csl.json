@@ -1,0 +1,121 @@
+{
+  "id": "arxiv:2606.07682",
+  "citation-key": "arxiv_2606_07682",
+  "type": "article",
+  "title": "SWE-Marathon: Can Agents Autonomously Complete Ultra-Long-Horizon Software Work?",
+  "URL": "https://arxiv.org/abs/2606.07682v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.07682",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.07682",
+    "identifiers": {
+      "arxiv": "2606.07682"
+    },
+    "first_published_at": "2026-06-05",
+    "record_updated_at": "2026-06-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "00555477a43df2aba6d24761bcefd77f3499299faf97a146d65aaf634476b131",
+      "submitted_at": "2026-06-05T00:39:44Z",
+      "updated_at": "2026-06-05T00:39:44Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.07682v1"
+    }
+  },
+  "note": "First published: 2026-06-05; Recorded arXiv version: v1; Recorded version updated: 2026-06-05T00:39:44Z.",
+  "author": [
+    {
+      "literal": "Rishi Desai"
+    },
+    {
+      "literal": "Jesse Hu"
+    },
+    {
+      "literal": "Joan Cabezas"
+    },
+    {
+      "literal": "Neel Harsola"
+    },
+    {
+      "literal": "Pratyush Shukla"
+    },
+    {
+      "literal": "Roey Ben Chaim"
+    },
+    {
+      "literal": "Adnan El Assadi"
+    },
+    {
+      "literal": "Omkaar Mukund Kamath"
+    },
+    {
+      "literal": "Fenil Faldu"
+    },
+    {
+      "literal": "Prannay Hebbar"
+    },
+    {
+      "literal": "Jiankai Sun"
+    },
+    {
+      "literal": "Yiyuan Li"
+    },
+    {
+      "literal": "Pramod Srinivasan"
+    },
+    {
+      "literal": "Ishan Gupta"
+    },
+    {
+      "literal": "Christopher Settles"
+    },
+    {
+      "literal": "Daniel Wang"
+    },
+    {
+      "literal": "Derek Chen"
+    },
+    {
+      "literal": "Pranav Raja"
+    },
+    {
+      "literal": "Albert Liu"
+    },
+    {
+      "literal": "Marek Šuppa"
+    },
+    {
+      "literal": "Nevasini Sasikumar"
+    },
+    {
+      "literal": "Luyang Kong"
+    },
+    {
+      "literal": "Erik Quintanilla"
+    },
+    {
+      "literal": "Xiangyi Li"
+    },
+    {
+      "literal": "Ivan Bercovich"
+    },
+    {
+      "literal": "Steven Dillmann"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.07682",
+  "genre": "preprint",
+  "version": "1"
+}

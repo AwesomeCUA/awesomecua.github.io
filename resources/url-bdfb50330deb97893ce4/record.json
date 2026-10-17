@@ -1,0 +1,199 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "availability": "Ungated JSON conversation shards and ranking-file manifest.",
+    "dataset_profile": {
+      "counts": [
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md",
+          "population": "train",
+          "qualifier": "exact",
+          "unit": "conversations",
+          "value": 600
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md",
+          "population": "test-task",
+          "qualifier": "exact",
+          "unit": "conversations",
+          "value": 34
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md",
+          "population": "test-website",
+          "qualifier": "exact",
+          "unit": "conversations",
+          "value": 42
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md",
+          "population": "test-subdomain",
+          "qualifier": "exact",
+          "unit": "conversations",
+          "value": 44
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md",
+          "population": "train",
+          "qualifier": "exact",
+          "unit": "dialogue turns",
+          "value": 2896
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md",
+          "population": "test-task",
+          "qualifier": "exact",
+          "unit": "dialogue turns",
+          "value": 191
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md",
+          "population": "test-website",
+          "qualifier": "exact",
+          "unit": "dialogue turns",
+          "value": 218
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md",
+          "population": "test-subdomain",
+          "qualifier": "exact",
+          "unit": "dialogue turns",
+          "value": 216
+        }
+      ],
+      "evidence_urls": [
+        "https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md"
+      ],
+      "formats": [
+        "JSON",
+        "auxiliary PKL"
+      ],
+      "modalities": [
+        "dialogue text",
+        "HTML",
+        "element candidates",
+        "actions"
+      ],
+      "notes": "Conversation, dialogue-turn and action-step units differ. The released file manifest is inspected; underlying examples were not downloaded.",
+      "splits": [
+        "train",
+        "test_task",
+        "test_website",
+        "test_subdomain"
+      ],
+      "supervision": [
+        "multi-turn web instruction following",
+        "element/action prediction"
+      ]
+    },
+    "download_url": null,
+    "languages": [],
+    "license_review": {
+      "data": {
+        "evidence_urls": [
+          "https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md"
+        ],
+        "reason": "Publisher dataset-card declaration for the multi-turn annotation release."
+      }
+    },
+    "modalities": [],
+    "release_revision": "5ae9a3bedf431f54c2218fbb8ee474e5efbda3a8",
+    "sample_count": null,
+    "sample_unit": null
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:34:10Z",
+      "role": "primary",
+      "sha256": "8685e0a26a06b3339b5c078632a7b0ade1ead40e6b586ef1ff3676414699a4bc",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "details.dataset_profile",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:34:10Z",
+      "role": "primary",
+      "sha256": "4455e6daf1151694c03b2a1ebd4a7af40b5b079b0568706a1783a0222383bb1d",
+      "supports": [
+        "identity",
+        "release_status",
+        "details.release_revision"
+      ],
+      "url": "https://huggingface.co/api/datasets/magicgh/MT-Mind2Web"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:58Z",
+      "role": "primary",
+      "sha256": "c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249",
+      "supports": [
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "url:bdfb50330deb97893ce4",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-17T12:34:10Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "Publisher dataset-card declaration for the multi-turn annotation release.",
+      "declared": "cc-by-4.0",
+      "retrieved_at": "2026-10-17T12:34:10Z",
+      "url": "https://huggingface.co/datasets/magicgh/MT-Mind2Web/raw/main/README.md"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/magicgh/MT-Mind2Web"
+    }
+  ],
+  "name": "MT-Mind2Web",
+  "notes": "The ungated Hub manifest contains train, test-task, test-website and test-subdomain JSON shards plus a candidate-ranking pickle file. Counts distinguish conversation sessions from dialogue turns; neither is a screenshot or action-step count. No pickle or sample data was loaded. The card declares CC-BY-4.0 and identifies the original Mind2Web interactions as its source.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending",
+      "target_id": "arxiv:2402.15057",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Multi-turn web-navigation conversations constructed from Mind2Web interactions, with dialogue turns, HTML snapshots, element candidates and click/type/select action sequences.",
+  "topics": [
+    "web-navigation",
+    "imitation-learning",
+    "memory"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/magicgh/MT-Mind2Web"
+}

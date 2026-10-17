@@ -1,0 +1,421 @@
+{
+  "id": "arxiv:2609.04298",
+  "citation-key": "arxiv_2609_04298",
+  "type": "article",
+  "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
+  "URL": "https://arxiv.org/abs/2609.04298v3",
+  "custom": {
+    "catalog_id": "arxiv:2609.04298",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.04298",
+    "identifiers": {
+      "arxiv": "2609.04298"
+    },
+    "first_published_at": "2026-09-03",
+    "record_updated_at": "2026-09-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a8d8fd6b0f47df7384e0ca1c604c0f667b15bd3b683147df035dd8f36dde6337",
+      "submitted_at": "2026-09-03T16:26:20Z",
+      "updated_at": "2026-09-10T02:39:50Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2609.04298v3"
+    }
+  },
+  "note": "First published: 2026-09-03; Recorded arXiv version: v3; Recorded version updated: 2026-09-10T02:39:50Z.",
+  "author": [
+    {
+      "literal": "Lin Shi"
+    },
+    {
+      "literal": "Haowei Lin"
+    },
+    {
+      "literal": "Zixuan Zhu"
+    },
+    {
+      "literal": "Xiaoyue Zhou"
+    },
+    {
+      "literal": "Xiang Li"
+    },
+    {
+      "literal": "Xiangning Lin"
+    },
+    {
+      "literal": "Yaxuan Deng"
+    },
+    {
+      "literal": "Han Xu"
+    },
+    {
+      "literal": "Yuangang Li"
+    },
+    {
+      "literal": "Shanda Li"
+    },
+    {
+      "literal": "Zizhao Chen"
+    },
+    {
+      "literal": "Hanwen Xing"
+    },
+    {
+      "literal": "Harsh Raj"
+    },
+    {
+      "literal": "Bo Chen"
+    },
+    {
+      "literal": "Quan Shi"
+    },
+    {
+      "literal": "Steven Dillmann"
+    },
+    {
+      "literal": "Yipeng Gao"
+    },
+    {
+      "literal": "Puneesh Khanna"
+    },
+    {
+      "literal": "Ruofan Lu"
+    },
+    {
+      "literal": "Chao Beyond Zhou"
+    },
+    {
+      "literal": "Michael Yang"
+    },
+    {
+      "literal": "Robert Zhang"
+    },
+    {
+      "literal": "Siyuan Chai"
+    },
+    {
+      "literal": "Jiayu Chang"
+    },
+    {
+      "literal": "Yizhao Chen"
+    },
+    {
+      "literal": "Xiaokun Chen"
+    },
+    {
+      "literal": "Yiwei Dai"
+    },
+    {
+      "literal": "Wenting Yang"
+    },
+    {
+      "literal": "Hange Liu"
+    },
+    {
+      "literal": "Minghao Liu"
+    },
+    {
+      "literal": "Zihan Wang"
+    },
+    {
+      "literal": "Adnan El Assadi"
+    },
+    {
+      "literal": "Benedikt Stroebl"
+    },
+    {
+      "literal": "E. Kelly Buchanan"
+    },
+    {
+      "literal": "Han Meng"
+    },
+    {
+      "literal": "Junwei He"
+    },
+    {
+      "literal": "Longxuan Yu"
+    },
+    {
+      "literal": "Radin Shayanfar"
+    },
+    {
+      "literal": "Yukyung Lee"
+    },
+    {
+      "literal": "Zhikang Dong"
+    },
+    {
+      "literal": "Allen G Hart"
+    },
+    {
+      "literal": "Anjiang Wei"
+    },
+    {
+      "literal": "Anurag Kashyap"
+    },
+    {
+      "literal": "Arpandeep Khatua"
+    },
+    {
+      "literal": "Audrey Jixin Zheng"
+    },
+    {
+      "literal": "Chengrui Ma"
+    },
+    {
+      "literal": "David Heineman"
+    },
+    {
+      "literal": "Dubing Chen"
+    },
+    {
+      "literal": "Hai-Anh Trinh"
+    },
+    {
+      "literal": "Haishuo Fang"
+    },
+    {
+      "literal": "Hefan Zhang"
+    },
+    {
+      "literal": "Hui Shen"
+    },
+    {
+      "literal": "Issa Sugiura"
+    },
+    {
+      "literal": "Jiankai Sun"
+    },
+    {
+      "literal": "Jiechao Gao"
+    },
+    {
+      "literal": "Junhong Lin"
+    },
+    {
+      "literal": "Junnan Li"
+    },
+    {
+      "literal": "Kai Yang"
+    },
+    {
+      "literal": "Lei Hsiung"
+    },
+    {
+      "literal": "Maoyu Wang"
+    },
+    {
+      "literal": "Mengze Tang"
+    },
+    {
+      "literal": "Nabil Omi"
+    },
+    {
+      "literal": "Negin Raoof"
+    },
+    {
+      "literal": "Nicholas Edwards"
+    },
+    {
+      "literal": "Octavia Guo"
+    },
+    {
+      "literal": "Orfeas Menis Mastromichalakis"
+    },
+    {
+      "literal": "Pengliang Ji"
+    },
+    {
+      "literal": "Przemysław Hejman"
+    },
+    {
+      "literal": "Qi Qi"
+    },
+    {
+      "literal": "Qunshu Lin"
+    },
+    {
+      "literal": "Richard Zhuang"
+    },
+    {
+      "literal": "Rui Yang"
+    },
+    {
+      "literal": "Ruichen Zheng"
+    },
+    {
+      "literal": "Ryan Marten"
+    },
+    {
+      "literal": "Shaghayegh Fazliani"
+    },
+    {
+      "literal": "Shizheng Hou"
+    },
+    {
+      "literal": "Sicong Jiang"
+    },
+    {
+      "literal": "Sijie Li"
+    },
+    {
+      "literal": "Boqin Yuan"
+    },
+    {
+      "literal": "Michael Glass"
+    },
+    {
+      "literal": "Song Bian"
+    },
+    {
+      "literal": "Terry Yue Zhuo"
+    },
+    {
+      "literal": "Tianqing Wu"
+    },
+    {
+      "literal": "Tom Tang"
+    },
+    {
+      "literal": "Wanjia Zhao"
+    },
+    {
+      "literal": "Weihao Xuan"
+    },
+    {
+      "literal": "Wenhua Liang"
+    },
+    {
+      "literal": "Xian Liu"
+    },
+    {
+      "literal": "Xin Lan"
+    },
+    {
+      "literal": "Xuan Zhang"
+    },
+    {
+      "literal": "Xuandong Zhao"
+    },
+    {
+      "literal": "Yanchuan Tang"
+    },
+    {
+      "literal": "Yifan Jiang"
+    },
+    {
+      "literal": "Yijiang Li"
+    },
+    {
+      "literal": "Yitong Guan"
+    },
+    {
+      "literal": "Yizhi Li"
+    },
+    {
+      "literal": "Yonghui Liu"
+    },
+    {
+      "literal": "Yuheng Tang"
+    },
+    {
+      "literal": "Yujun"
+    },
+    {
+      "literal": "Mao"
+    },
+    {
+      "literal": "Yunfei Zhao"
+    },
+    {
+      "literal": "Yuxin Wang"
+    },
+    {
+      "literal": "Yuxuan Tang"
+    },
+    {
+      "literal": "Zhenheng Tang"
+    },
+    {
+      "literal": "Zhifei Li"
+    },
+    {
+      "literal": "Ziruo Wang"
+    },
+    {
+      "literal": "Ziyu She"
+    },
+    {
+      "literal": "Kaiyuan Liu"
+    },
+    {
+      "literal": "Iheb Chaabane"
+    },
+    {
+      "literal": "Yuxin Tang"
+    },
+    {
+      "literal": "Xiangyi Li"
+    },
+    {
+      "literal": "Satya Sai Srinath Namburi GNVV"
+    },
+    {
+      "literal": "Xinyue Zheng"
+    },
+    {
+      "literal": "Andy Konwinski"
+    },
+    {
+      "literal": "Boxuan Li"
+    },
+    {
+      "literal": "Leon Liangyu Chen"
+    },
+    {
+      "literal": "Alex Dimakis"
+    },
+    {
+      "literal": "Nicholas Carlini"
+    },
+    {
+      "literal": "Soroush Vosoughi"
+    },
+    {
+      "literal": "Sanmi Koyejo"
+    },
+    {
+      "literal": "Di He"
+    },
+    {
+      "literal": "Etash Guha"
+    },
+    {
+      "literal": "Benjamin Feuer"
+    },
+    {
+      "literal": "Mike Merrill"
+    },
+    {
+      "literal": "Ludwig Schmidt"
+    },
+    {
+      "literal": "Alex Shaw"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.04298",
+  "genre": "preprint",
+  "version": "3"
+}

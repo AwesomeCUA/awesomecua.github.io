@@ -4352,6 +4352,91 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2602.16313v2",
+    "archive": "arXiv",
+    "archive_location": "2602.16313",
+    "author": [
+      {
+        "literal": "Zexue He"
+      },
+      {
+        "literal": "Yu Wang"
+      },
+      {
+        "literal": "Churan Zhi"
+      },
+      {
+        "literal": "Yuanzhe Hu"
+      },
+      {
+        "literal": "Tzu-Ping Chen"
+      },
+      {
+        "literal": "Lang Yin"
+      },
+      {
+        "literal": "Ze Chen"
+      },
+      {
+        "literal": "Tong Arthur Wu"
+      },
+      {
+        "literal": "Siru Ouyang"
+      },
+      {
+        "literal": "Zihan Wang"
+      },
+      {
+        "literal": "Jiaxin Pei"
+      },
+      {
+        "literal": "Julian McAuley"
+      },
+      {
+        "literal": "Yejin Choi"
+      },
+      {
+        "literal": "Alex Pentland"
+      }
+    ],
+    "citation-key": "arxiv_2602_16313",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2317a94d54b4458a1b7c5e92754aeaefcbf270aabfa0bd8ea333c673cd4596b3",
+        "submitted_at": "2026-02-18T09:49:14Z",
+        "updated_at": "2026-09-17T22:55:03Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2602.16313v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.16313",
+      "catalog_id": "arxiv:2602.16313",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-18",
+      "identifiers": {
+        "arxiv": "2602.16313"
+      },
+      "record_updated_at": "2026-09-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.16313",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-18; Recorded arXiv version: v2; Recorded version updated: 2026-09-17T22:55:03Z.",
+    "title": "MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2602.16855v1",
     "archive": "arXiv",
     "archive_location": "2602.16855",
@@ -4562,6 +4647,642 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2603.08533v2",
+    "archive": "arXiv",
+    "archive_location": "2603.08533",
+    "author": [
+      {
+        "literal": "Yiping Xie"
+      },
+      {
+        "literal": "Song Chen"
+      },
+      {
+        "literal": "Jingxuan Xing"
+      },
+      {
+        "literal": "Wei Jiang"
+      },
+      {
+        "literal": "Zekun Zhu"
+      },
+      {
+        "literal": "Yingyao Wang"
+      },
+      {
+        "literal": "Pi Bu"
+      },
+      {
+        "literal": "Jun Song"
+      },
+      {
+        "literal": "Yuning Jiang"
+      },
+      {
+        "literal": "Bo Zheng"
+      }
+    ],
+    "citation-key": "arxiv_2603_08533",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "db31c6ca303f0c7dc43f24dd1eea69621b1e557af33122386945154e8236ab78",
+        "submitted_at": "2026-03-09T16:04:08Z",
+        "updated_at": "2026-03-31T03:08:51Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2603.08533v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.08533",
+      "catalog_id": "arxiv:2603.08533",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-09",
+      "identifiers": {
+        "arxiv": "2603.08533"
+      },
+      "record_updated_at": "2026-03-31"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.08533",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-09; Recorded arXiv version: v2; Recorded version updated: 2026-03-31T03:08:51Z.",
+    "title": "SecAgent: Efficient Mobile GUI Agent with Semantic Context",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.18429v1",
+    "archive": "arXiv",
+    "archive_location": "2603.18429",
+    "author": [
+      {
+        "literal": "Yibo Shi"
+      },
+      {
+        "literal": "Jungang Li"
+      },
+      {
+        "literal": "Linghao Zhang"
+      },
+      {
+        "literal": "Zihao Dongfang"
+      },
+      {
+        "literal": "Biao Wu"
+      },
+      {
+        "literal": "Sicheng Tao"
+      },
+      {
+        "literal": "Yibo Yan"
+      },
+      {
+        "literal": "Chenxi Qin"
+      },
+      {
+        "literal": "Weiting Liu"
+      },
+      {
+        "literal": "Zhixin Lin"
+      },
+      {
+        "literal": "Hanqian Li"
+      },
+      {
+        "literal": "Yu Huang"
+      },
+      {
+        "literal": "Song Dai"
+      },
+      {
+        "literal": "Yonghua Hei"
+      },
+      {
+        "literal": "Yue Ding"
+      },
+      {
+        "literal": "Xiang Li"
+      },
+      {
+        "literal": "Shikang Wang"
+      },
+      {
+        "literal": "Chengdong Xu"
+      },
+      {
+        "literal": "Jingqi Liu"
+      },
+      {
+        "literal": "Xueying Ma"
+      },
+      {
+        "literal": "Zhiwen Zheng"
+      },
+      {
+        "literal": "Xiaofei Zhang"
+      },
+      {
+        "literal": "Bincheng Wang"
+      },
+      {
+        "literal": "Nichen Yang"
+      },
+      {
+        "literal": "Jie Wu"
+      },
+      {
+        "literal": "Lihua Tian"
+      },
+      {
+        "literal": "Chen Li"
+      },
+      {
+        "literal": "Xuming Hu"
+      }
+    ],
+    "citation-key": "arxiv_2603_18429",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0ce6da91e59ac57fa24ff991ca023b84448c54d477cacb2d6fded9bf527dd29d",
+        "submitted_at": "2026-03-19T02:45:21Z",
+        "updated_at": "2026-03-19T02:45:21Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.18429v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.18429",
+      "catalog_id": "arxiv:2603.18429",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-19",
+      "identifiers": {
+        "arxiv": "2603.18429"
+      },
+      "record_updated_at": "2026-03-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.18429",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-19; Recorded arXiv version: v1; Recorded version updated: 2026-03-19T02:45:21Z.",
+    "title": "AndroTMem: From Interaction Trajectories to Anchored Memory in Long-Horizon GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.24157v1",
+    "archive": "arXiv",
+    "archive_location": "2603.24157",
+    "author": [
+      {
+        "literal": "Akash Ghosh"
+      },
+      {
+        "literal": "Tajamul Ashraf"
+      },
+      {
+        "literal": "Rishu Kumar Singh"
+      },
+      {
+        "literal": "Numan Saeed"
+      },
+      {
+        "literal": "Sriparna Saha"
+      },
+      {
+        "literal": "Xiuying Chen"
+      },
+      {
+        "literal": "Salman Khan"
+      }
+    ],
+    "citation-key": "arxiv_2603_24157",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8fb6a294616e1be46c5da05f60cda7d43c05d8a1ce71116c5e30cb94507cd56f",
+        "submitted_at": "2026-03-25T10:25:48Z",
+        "updated_at": "2026-03-25T10:25:48Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.24157v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.24157",
+      "catalog_id": "arxiv:2603.24157",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-25",
+      "identifiers": {
+        "arxiv": "2603.24157"
+      },
+      "record_updated_at": "2026-03-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.24157",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-25; Recorded arXiv version: v1; Recorded version updated: 2026-03-25T10:25:48Z.",
+    "title": "CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.02623v2",
+    "archive": "arXiv",
+    "archive_location": "2604.02623",
+    "author": [
+      {
+        "literal": "Wei Zou"
+      },
+      {
+        "literal": "Mingwen Dong"
+      },
+      {
+        "literal": "Miguel Romero Calvo"
+      },
+      {
+        "literal": "Shuaichen Chang"
+      },
+      {
+        "literal": "Jiang Guo"
+      },
+      {
+        "literal": "Dongkyu Lee"
+      },
+      {
+        "literal": "Xing Niu"
+      },
+      {
+        "literal": "Xiaofei Ma"
+      },
+      {
+        "literal": "Yanjun Qi"
+      },
+      {
+        "literal": "Jiarong Jiang"
+      }
+    ],
+    "citation-key": "arxiv_2604_02623",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a37f4bdc495e10e4ae301ebff6faa28cdfa6de152d4619c051083b5dce41e6ba",
+        "submitted_at": "2026-04-03T01:25:12Z",
+        "updated_at": "2026-04-07T14:45:15Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2604.02623v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.02623",
+      "catalog_id": "arxiv:2604.02623",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-03",
+      "identifiers": {
+        "arxiv": "2604.02623"
+      },
+      "record_updated_at": "2026-04-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.02623",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-03; Recorded arXiv version: v2; Recorded version updated: 2026-04-07T14:45:15Z.",
+    "title": "Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.16520v1",
+    "archive": "arXiv",
+    "archive_location": "2604.16520",
+    "author": [
+      {
+        "literal": "Haomin Zhuang"
+      },
+      {
+        "literal": "Hanwen Xing"
+      },
+      {
+        "literal": "Xiangliang Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2604_16520",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7b1788e6fbb4c14a6d993ce329bf7bf05e3a1e6ffbfc7c14a9fa9d36fbf7ef16",
+        "submitted_at": "2026-04-15T18:22:50Z",
+        "updated_at": "2026-04-15T18:22:50Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.16520v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.16520",
+      "catalog_id": "arxiv:2604.16520",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-04-15",
+      "identifiers": {
+        "arxiv": "2604.16520"
+      },
+      "record_updated_at": "2026-04-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.16520",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-15; Recorded arXiv version: v1; Recorded version updated: 2026-04-15T18:22:50Z.",
+    "title": "AgentClick: A Skill-Based Human-in-the-Loop Review Layer for Terminal AI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.27996v3",
+    "archive": "arXiv",
+    "archive_location": "2604.27996",
+    "author": [
+      {
+        "literal": "Jackson Vonderhorst"
+      },
+      {
+        "literal": "Kuangshi Ai"
+      },
+      {
+        "literal": "Haichao Miao"
+      },
+      {
+        "literal": "Shusen Liu"
+      },
+      {
+        "literal": "Chaoli Wang"
+      }
+    ],
+    "citation-key": "arxiv_2604_27996",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8e7b07a811df7e74a28f91a5b6c59c69b7ba066bd6c64452a299e678a3187733",
+        "submitted_at": "2026-04-30T15:22:28Z",
+        "updated_at": "2026-06-26T20:31:32Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2604.27996v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.27996",
+      "catalog_id": "arxiv:2604.27996",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-30",
+      "identifiers": {
+        "arxiv": "2604.27996"
+      },
+      "record_updated_at": "2026-06-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.27996",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-30; Recorded arXiv version: v3; Recorded version updated: 2026-06-26T20:31:32Z.",
+    "title": "Exploring LLM Agent Designs and Interaction Modalities for Scientific Visualization",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.09317v1",
+    "archive": "arXiv",
+    "archive_location": "2605.09317",
+    "author": [
+      {
+        "literal": "Guibin Zhang"
+      },
+      {
+        "literal": "Yaohui Ling"
+      },
+      {
+        "literal": "Fanci Meng"
+      },
+      {
+        "literal": "Kun Wang"
+      },
+      {
+        "literal": "Shuicheng Yan"
+      }
+    ],
+    "citation-key": "arxiv_2605_09317",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "729ff6b37da62bb8a9a911865554520e3b29219d9735e087c3186705428d7b05",
+        "submitted_at": "2026-05-10T04:31:23Z",
+        "updated_at": "2026-05-10T04:31:23Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.09317v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.09317",
+      "catalog_id": "arxiv:2605.09317",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-10",
+      "identifiers": {
+        "arxiv": "2605.09317"
+      },
+      "record_updated_at": "2026-05-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.09317",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          10
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-10; Recorded arXiv version: v1; Recorded version updated: 2026-05-10T04:31:23Z.",
+    "title": "Mem-W: Latent Memory-Native GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.12493v1",
+    "archive": "arXiv",
+    "archive_location": "2605.12493",
+    "author": [
+      {
+        "literal": "Di Wu"
+      },
+      {
+        "literal": "Zixiang Ji"
+      },
+      {
+        "literal": "Asmi Kawatkar"
+      },
+      {
+        "literal": "Bryan Kwan"
+      },
+      {
+        "literal": "Jia-Chen Gu"
+      },
+      {
+        "literal": "Nanyun Peng"
+      },
+      {
+        "literal": "Kai-Wei Chang"
+      }
+    ],
+    "citation-key": "arxiv_2605_12493",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5893d1d9205776667a1e1d89720ec3baf55fafe80cc9c6201ca97088f44a10ac",
+        "submitted_at": "2026-05-12T17:59:34Z",
+        "updated_at": "2026-05-12T17:59:34Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.12493v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.12493",
+      "catalog_id": "arxiv:2605.12493",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-12",
+      "identifiers": {
+        "arxiv": "2605.12493"
+      },
+      "record_updated_at": "2026-05-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.12493",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-12; Recorded arXiv version: v1; Recorded version updated: 2026-05-12T17:59:34Z.",
+    "title": "LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.07594v1",
+    "archive": "arXiv",
+    "archive_location": "2606.07594",
+    "author": [
+      {
+        "literal": "Bo Zhang"
+      },
+      {
+        "literal": "Borui Zhang"
+      },
+      {
+        "literal": "Chenghao Jiang"
+      },
+      {
+        "literal": "Minglei Shi"
+      },
+      {
+        "literal": "Xiaofeng Wang"
+      },
+      {
+        "literal": "Zheng Zhu"
+      },
+      {
+        "literal": "Jie Zhou"
+      },
+      {
+        "literal": "Jiwen Lu"
+      }
+    ],
+    "citation-key": "arxiv_2606_07594",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "33c343e9bc02976fc3e32057cdcdebc3abeae5ef049b877443e81917a8abc550",
+        "submitted_at": "2026-05-28T17:59:31Z",
+        "updated_at": "2026-05-28T17:59:31Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.07594v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.07594",
+      "catalog_id": "arxiv:2606.07594",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-28",
+      "identifiers": {
+        "arxiv": "2606.07594"
+      },
+      "record_updated_at": "2026-05-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.07594",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-28; Recorded arXiv version: v1; Recorded version updated: 2026-05-28T17:59:31Z.",
+    "title": "Syll: Open-Source Personal Automation with Cross-Surface Execution",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2606.09764v1",
     "archive": "arXiv",
     "archive_location": "2606.09764",
@@ -4668,6 +5389,58 @@
     },
     "note": "First published: 2026-06-28; Recorded arXiv version: v1; Recorded version updated: 2026-06-28T15:59:31Z.",
     "title": "Agent-Computer Observation Interfaces Enable Dynamic Computer Use",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.10608v1",
+    "archive": "arXiv",
+    "archive_location": "2607.10608",
+    "author": [
+      {
+        "literal": "Yixiong Chen"
+      },
+      {
+        "literal": "Xinyi Bai"
+      },
+      {
+        "literal": "Alan Yuille"
+      }
+    ],
+    "citation-key": "arxiv_2607_10608",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0473ced7881ed2007aa49c2767860c33719d5bf1c798dfe4771a4061b13d655e",
+        "submitted_at": "2026-07-12T07:05:31Z",
+        "updated_at": "2026-07-12T07:05:31Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2607.10608v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.10608",
+      "catalog_id": "arxiv:2607.10608",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-12",
+      "identifiers": {
+        "arxiv": "2607.10608"
+      },
+      "record_updated_at": "2026-07-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.10608",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-12; Recorded arXiv version: v1; Recorded version updated: 2026-07-12T07:05:31Z.",
+    "title": "The Compliance Trap: Diagnosing How AI Agents Consume Conflicting Memory",
     "type": "article",
     "version": "1"
   },

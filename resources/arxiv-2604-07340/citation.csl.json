@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2604.07340",
+  "citation-key": "arxiv_2604_07340",
+  "type": "article",
+  "title": "TC-AE: Unlocking Token Capacity for Deep Compression Autoencoders",
+  "URL": "https://arxiv.org/abs/2604.07340v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.07340",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.07340",
+    "identifiers": {
+      "arxiv": "2604.07340"
+    },
+    "first_published_at": "2026-04-08",
+    "record_updated_at": "2026-04-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fb80d6138d46f2fd4036e46fa8589ef7e59ef5e8bd9a42f619357e07e420017d",
+      "submitted_at": "2026-04-08T17:53:52Z",
+      "updated_at": "2026-04-08T17:53:52Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.07340v1"
+    }
+  },
+  "note": "First published: 2026-04-08; Recorded arXiv version: v1; Recorded version updated: 2026-04-08T17:53:52Z.",
+  "author": [
+    {
+      "literal": "Teng Li"
+    },
+    {
+      "literal": "Ziyuan Huang"
+    },
+    {
+      "literal": "Cong Chen"
+    },
+    {
+      "literal": "Yangfu Li"
+    },
+    {
+      "literal": "Yuanhuiyi Lyu"
+    },
+    {
+      "literal": "Dandan Zheng"
+    },
+    {
+      "literal": "Chunhua Shen"
+    },
+    {
+      "literal": "Jun Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.07340",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,146 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "availability": "Public archived TFRecord annotation files for both downstream tasks.",
+    "dataset_profile": {
+      "counts": [],
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/google-research-datasets/uibert/HEAD/README.md"
+      ],
+      "formats": [
+        "TFRecord"
+      ],
+      "modalities": [
+        "text",
+        "bounding boxes",
+        "UI hierarchy metadata",
+        "Rico image identifiers"
+      ],
+      "notes": "Original UI images are retrieved separately by Rico IDs. No release-specific sample count is established.",
+      "splits": [
+        "AppSim train/dev/test",
+        "RefExp train/dev/test"
+      ],
+      "supervision": [
+        "similar UI element retrieval",
+        "referring-expression component retrieval"
+      ]
+    },
+    "download_url": null,
+    "languages": [],
+    "license_review": {
+      "data": {
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/google-research-datasets/uibert/HEAD/README.md"
+        ],
+        "reason": "The README explicitly says the datasets are licensed under CC BY 4.0; original Rico materials keep their source terms."
+      }
+    },
+    "modalities": [],
+    "repository_revision": "eceafbde7567959899bfb7f8d9e6fd71a52aaa12",
+    "sample_count": null,
+    "sample_unit": null
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:30:54Z",
+      "role": "primary",
+      "sha256": "45d1ca0f5c727cf58b2671dc5579f0628f4d78e07b977a5d8b018295c6fe1f58",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "topics",
+        "scope",
+        "notes",
+        "relations",
+        "details.dataset_profile",
+        "licenses.data"
+      ],
+      "url": "https://raw.githubusercontent.com/google-research-datasets/uibert/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:30:54Z",
+      "role": "primary",
+      "sha256": "24a7838d425bdae363a7d5872702996b22068c1f0e47be274fdfbc4b0e20144f",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/google-research-datasets/uibert"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:32:05Z",
+      "role": "primary",
+      "sha256": "9a6fc19c6b407309943fe645f4addb3d032f153856976c4f8d7a8cfb6d2ffe6b",
+      "supports": [
+        "release_status",
+        "details.repository_revision"
+      ],
+      "url": "https://api.github.com/repos/google-research-datasets/uibert/git/trees/main?recursive=1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:36:55Z",
+      "role": "primary",
+      "sha256": "f752ebfb2598b7f848d343f428502b28e0f591f27849ab707f14bee398d4eb8d",
+      "supports": [
+        "environments",
+        "notes"
+      ],
+      "url": "https://interactionmining.org/rico"
+    }
+  ],
+  "id": "github:google-research-datasets/uibert",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-17T12:30:54Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "The README explicitly says the datasets are licensed under CC BY 4.0; original Rico materials keep their source terms.",
+      "declared": "CC-BY-4.0",
+      "retrieved_at": "2026-10-17T12:30:54Z",
+      "url": "https://raw.githubusercontent.com/google-research-datasets/uibert/HEAD/README.md"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/google-research-datasets/uibert"
+    }
+  ],
+  "name": "UIBert AppSim and RefExp annotations",
+  "notes": "The archived repository retains TFRecord train/dev/test files for AppSim and RefExp. These are annotation and UI-structure records with Rico image identifiers, not a republished complete screenshot collection or a UIBert checkpoint. The README’s 72k figure describes the upstream Rico source, not the number of released AppSim/RefExp examples; no sample total is inferred. The publisher explicitly assigns CC-BY-4.0 to these datasets.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/google-research-datasets/uibert/HEAD/README.md",
+      "target_id": "url:0b134b082a7bd507fc6a",
+      "type": "uses"
+    },
+    {
+      "evidence_url": "https://raw.githubusercontent.com/google-research-datasets/uibert/HEAD/README.md",
+      "target_id": "arxiv:2107.13731",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Two Rico-derived UI component retrieval datasets: AppSim pairs semantically similar elements across screens, while RefExp links referring expressions to target elements.",
+  "topics": [
+    "grounding",
+    "screen-understanding",
+    "evaluation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/google-research-datasets/uibert"
+}

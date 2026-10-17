@@ -1,6 +1,6 @@
 # GUI Agents: A Survey
 
-Survey of research directions in GUI or computer-use agents.
+Categorizes GUI-agent benchmarks, evaluation metrics, architectures, and training methods, and proposes a unified perception, reasoning, planning, and acting framework.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2412-13501/
 - Original source: https://arxiv.org/abs/2412.13501

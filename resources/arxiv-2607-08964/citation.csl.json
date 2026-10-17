@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2607.08964",
+  "citation-key": "arxiv_2607_08964",
+  "type": "article",
+  "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+  "URL": "https://arxiv.org/abs/2607.08964v3",
+  "custom": {
+    "catalog_id": "arxiv:2607.08964",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.08964",
+    "identifiers": {
+      "arxiv": "2607.08964"
+    },
+    "first_published_at": "2026-07-09",
+    "record_updated_at": "2026-10-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c19d420efb8756981a464b0c6ef6d1adb01ddc50a6bf6594fc17a94d30e83cc8",
+      "submitted_at": "2026-07-09T21:56:37Z",
+      "updated_at": "2026-10-09T17:16:07Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2607.08964v3"
+    }
+  },
+  "note": "First published: 2026-07-09; Recorded arXiv version: v3; Recorded version updated: 2026-10-09T17:16:07Z.",
+  "author": [
+    {
+      "literal": "Zongxia Li"
+    },
+    {
+      "literal": "Zhongzhi Li"
+    },
+    {
+      "literal": "Yucheng Shi"
+    },
+    {
+      "literal": "Ruhan Wang"
+    },
+    {
+      "literal": "Junyao Yang"
+    },
+    {
+      "literal": "Zhichao Liu"
+    },
+    {
+      "literal": "Xiyang Wu"
+    },
+    {
+      "literal": "Anhao Li"
+    },
+    {
+      "literal": "Chengsong Huang"
+    },
+    {
+      "literal": "Ergan Shang"
+    },
+    {
+      "literal": "Yue Yu"
+    },
+    {
+      "literal": "Ninghao Liu"
+    },
+    {
+      "literal": "Lichao Sun"
+    },
+    {
+      "literal": "Haotao Mi"
+    },
+    {
+      "literal": "Leowei Liang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.08964",
+  "genre": "preprint",
+  "version": "3"
+}

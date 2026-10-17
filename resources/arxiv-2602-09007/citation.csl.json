@@ -1,0 +1,100 @@
+{
+  "id": "arxiv:2602.09007",
+  "citation-key": "arxiv_2602_09007",
+  "type": "article",
+  "title": "GUI-GenBench: Evaluating Image Generation Models as Interactive GUI Environments",
+  "URL": "https://arxiv.org/abs/2602.09007v3",
+  "custom": {
+    "catalog_id": "arxiv:2602.09007",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2602.09007",
+    "identifiers": {
+      "arxiv": "2602.09007"
+    },
+    "first_published_at": "2026-02-09",
+    "record_updated_at": "2026-09-26",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "43a01e0eb848a57a84767836d2c3c982bbf6094d22a3e70652dd42af52760bc5",
+      "submitted_at": "2026-02-09T18:52:02Z",
+      "updated_at": "2026-09-26T18:28:57Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2602.09007v3"
+    }
+  },
+  "note": "First published: 2026-02-09; Recorded arXiv version: v3; Recorded version updated: 2026-09-26T18:28:57Z.",
+  "author": [
+    {
+      "literal": "Haodong Li"
+    },
+    {
+      "literal": "Jingwei Wu"
+    },
+    {
+      "literal": "Quan Sun"
+    },
+    {
+      "literal": "Guopeng Li"
+    },
+    {
+      "literal": "Juanxi Tian"
+    },
+    {
+      "literal": "Ziyu Guo"
+    },
+    {
+      "literal": "Donghao Zhou"
+    },
+    {
+      "literal": "Tianfei Ren"
+    },
+    {
+      "literal": "Huanyu Zhang"
+    },
+    {
+      "literal": "Yanlin Lai"
+    },
+    {
+      "literal": "Ruichuan An"
+    },
+    {
+      "literal": "Hongbo Peng"
+    },
+    {
+      "literal": "Yuhong Dai"
+    },
+    {
+      "literal": "Jia Wang"
+    },
+    {
+      "literal": "Ziyang Meng"
+    },
+    {
+      "literal": "Zheng Ge"
+    },
+    {
+      "literal": "Xiangyu Zhang"
+    },
+    {
+      "literal": "Daxin Jiang"
+    },
+    {
+      "literal": "Pheng-Ann Heng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.09007",
+  "genre": "preprint",
+  "version": "3"
+}

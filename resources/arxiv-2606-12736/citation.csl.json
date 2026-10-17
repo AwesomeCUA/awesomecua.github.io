@@ -1,0 +1,142 @@
+{
+  "id": "arxiv:2606.12736",
+  "citation-key": "arxiv_2606_12736",
+  "type": "article",
+  "title": "Benchmarking AI Agents for Addressing Scientific Challenges Across Scales",
+  "URL": "https://arxiv.org/abs/2606.12736v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.12736",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.12736",
+    "identifiers": {
+      "arxiv": "2606.12736"
+    },
+    "first_published_at": "2026-06-10",
+    "record_updated_at": "2026-06-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f9506d656ce62661f6d504b7ca1a20a31f59136544dcbbe95d5c7e13a5e8ef31",
+      "submitted_at": "2026-06-10T22:55:30Z",
+      "updated_at": "2026-06-10T22:55:30Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.12736v1"
+    }
+  },
+  "note": "First published: 2026-06-10; Recorded arXiv version: v1; Recorded version updated: 2026-06-10T22:55:30Z.",
+  "author": [
+    {
+      "literal": "Tianyu Liu"
+    },
+    {
+      "literal": "Allen Xin Wang"
+    },
+    {
+      "literal": "Antonia Panescu"
+    },
+    {
+      "literal": "Lisa Xinyi Chen"
+    },
+    {
+      "literal": "Wenxin Long"
+    },
+    {
+      "literal": "Xinyu Wei"
+    },
+    {
+      "literal": "Yueqian Jing"
+    },
+    {
+      "literal": "Ziyao Zeng"
+    },
+    {
+      "literal": "Jihang Chen"
+    },
+    {
+      "literal": "Sihan Jiang"
+    },
+    {
+      "literal": "Ziqing Wang"
+    },
+    {
+      "literal": "Siyi Gu"
+    },
+    {
+      "literal": "Siyu Chen"
+    },
+    {
+      "literal": "Xinyang Hu"
+    },
+    {
+      "literal": "Haoran Shao"
+    },
+    {
+      "literal": "Leqi Xu"
+    },
+    {
+      "literal": "Wangjie Zheng"
+    },
+    {
+      "literal": "Zhiyuan Cao"
+    },
+    {
+      "literal": "Ada Fang"
+    },
+    {
+      "literal": "Botao Yu"
+    },
+    {
+      "literal": "Kunyang Sun"
+    },
+    {
+      "literal": "Rex Ying"
+    },
+    {
+      "literal": "Arman Cohan"
+    },
+    {
+      "literal": "Qingyu Chen"
+    },
+    {
+      "literal": "Lingzhou Xue"
+    },
+    {
+      "literal": "Kaize Ding"
+    },
+    {
+      "literal": "Yuanqi Du"
+    },
+    {
+      "literal": "Wengong Jin"
+    },
+    {
+      "literal": "Zhuoran Yang"
+    },
+    {
+      "literal": "Marinka Zitnik"
+    },
+    {
+      "literal": "James Zou"
+    },
+    {
+      "literal": "Hua Xu"
+    },
+    {
+      "literal": "Hongyu Zhao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.12736",
+  "genre": "preprint",
+  "version": "1"
+}

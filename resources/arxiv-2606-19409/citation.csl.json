@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2606.19409",
+  "citation-key": "arxiv_2606_19409",
+  "type": "article",
+  "title": "OpenRath: Session-Centered Runtime State for Agent Systems",
+  "URL": "https://arxiv.org/abs/2606.19409v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.19409",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.19409",
+    "identifiers": {
+      "arxiv": "2606.19409"
+    },
+    "first_published_at": "2026-06-17",
+    "record_updated_at": "2026-06-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8e1ecab5a6f5e4aa5c0d0f8ee9d9d426c5fa480c9c768b4c97fbdc50ac1bf669",
+      "submitted_at": "2026-06-17T15:19:19Z",
+      "updated_at": "2026-06-17T15:19:19Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.19409v1"
+    }
+  },
+  "note": "First published: 2026-06-17; Recorded arXiv version: v1; Recorded version updated: 2026-06-17T15:19:19Z.",
+  "author": [
+    {
+      "literal": "Fukang Wen"
+    },
+    {
+      "literal": "Zhijie Wang"
+    },
+    {
+      "literal": "Ruilin Xu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.19409",
+  "genre": "preprint",
+  "version": "1"
+}

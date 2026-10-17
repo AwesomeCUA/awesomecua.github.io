@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2609.27455",
+  "citation-key": "arxiv_2609_27455",
+  "type": "article",
+  "title": "LeWAM: Latent evolving World Action Model",
+  "URL": "https://arxiv.org/abs/2609.27455v3",
+  "custom": {
+    "catalog_id": "arxiv:2609.27455",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.27455",
+    "identifiers": {
+      "arxiv": "2609.27455"
+    },
+    "first_published_at": "2026-09-23",
+    "record_updated_at": "2026-10-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e820cb77813fdb1059c18fa49bb134b3984af37b4e8a7e78284722206f3552af",
+      "submitted_at": "2026-09-23T07:22:43Z",
+      "updated_at": "2026-10-10T05:28:17Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2609.27455v3"
+    }
+  },
+  "note": "First published: 2026-09-23; Recorded arXiv version: v3; Recorded version updated: 2026-10-10T05:28:17Z.",
+  "author": [
+    {
+      "literal": "Xueji Fang"
+    },
+    {
+      "literal": "Boqiang Duan"
+    },
+    {
+      "literal": "Hua Wu"
+    },
+    {
+      "literal": "Jingdong Wang"
+    },
+    {
+      "literal": "Guo-Jun Qi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.27455",
+  "genre": "preprint",
+  "version": "3"
+}

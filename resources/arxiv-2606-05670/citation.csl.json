@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2606.05670",
+  "citation-key": "arxiv_2606_05670",
+  "type": "article",
+  "title": "Do More Agents Help? Evaluating Accuracy and Cost in LLM Multi-Agent Workflows",
+  "URL": "https://arxiv.org/abs/2606.05670v2",
+  "custom": {
+    "catalog_id": "arxiv:2606.05670",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.05670",
+    "identifiers": {
+      "arxiv": "2606.05670"
+    },
+    "first_published_at": "2026-06-04",
+    "record_updated_at": "2026-10-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a016c6c65375136ae12b5dd49d1b72eb10a0fb7306df82fa82428c53a2db7fb9",
+      "submitted_at": "2026-06-04T03:50:47Z",
+      "updated_at": "2026-10-09T07:41:21Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2606.05670v2"
+    }
+  },
+  "note": "First published: 2026-06-04; Recorded arXiv version: v2; Recorded version updated: 2026-10-09T07:41:21Z.",
+  "author": [
+    {
+      "literal": "Yuhang Fu"
+    },
+    {
+      "literal": "Ruishan Fang"
+    },
+    {
+      "literal": "Jiaqi Shao"
+    },
+    {
+      "literal": "Huiyu Zheng"
+    },
+    {
+      "literal": "Zhengtao Zhu"
+    },
+    {
+      "literal": "Bing Luo"
+    },
+    {
+      "literal": "Zhenyu Wen"
+    },
+    {
+      "literal": "Tao Lin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.05670",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,72 @@
+{
+  "aliases": [],
+  "authors": [
+    "Yulong Liu",
+    "Xiaotian Han",
+    "Junyuan Shang",
+    "Yuchen Ding",
+    "Zhenyu Zhang",
+    "Shuohuan Wang",
+    "Guibo Zhu",
+    "Sirui Han",
+    "Dianhai Yu"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "46a466b935dea473ae6aa13fa1c9c24fd74e40c6169616fedd713b2f05dd3e88",
+      "submitted_at": "2026-09-30T15:12:10Z",
+      "updated_at": "2026-09-30T15:12:10Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.39924v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-17T12:31:39Z",
+      "role": "primary",
+      "sha256": "c52e4e283e0dae88ef8b3ce67b7424b1d4b48e8f41015d872f4da69f98782eaa",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2609.39924%2C2610.00346%2C2610.00583%2C2610.01939%2C2610.05099%2C2610.09127%2C2610.09484%2C2610.09633%2C2610.11251%2C2610.11922%2C2610.13098%2C2610.13166%2C2610.13361%2C2610.13623%2C2610.16117%2C2610.17953%2C2610.18067%2C2610.19366%2C2610.20424&max_results=19"
+    }
+  ],
+  "id": "arxiv:2609.39924",
+  "identifiers": {
+    "arxiv": "2609.39924"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-17T12:31:39Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2609.39924"
+    }
+  ],
+  "name": "CoVisco: Codec-Native Vision Encoder with Native Token Compression for Unified Image-Video Understanding",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2026-09-30",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-09-30",
+  "url": "https://arxiv.org/abs/2609.39924"
+}

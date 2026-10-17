@@ -6733,6 +6733,137 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2512.12594v2",
+    "archive": "arXiv",
+    "archive_location": "2512.12594",
+    "author": [
+      {
+        "literal": "Luoxi Meng"
+      },
+      {
+        "literal": "Henry Feng"
+      },
+      {
+        "literal": "Ilia Shumailov"
+      },
+      {
+        "literal": "Earlence Fernandes"
+      }
+    ],
+    "citation-key": "arxiv_2512_12594",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "fa6b4d9fa34610ec6fa8c0ac8b075127365aad57a20d814a2e838a223cf8bd56",
+        "submitted_at": "2025-12-14T08:25:31Z",
+        "updated_at": "2026-03-04T01:49:57Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2512.12594v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2512.12594",
+      "catalog_id": "arxiv:2512.12594",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-12-14",
+      "identifiers": {
+        "arxiv": "2512.12594"
+      },
+      "record_updated_at": "2026-03-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2512.12594",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2025-12-14; Recorded arXiv version: v2; Recorded version updated: 2026-03-04T01:49:57Z.",
+    "title": "ceLLMate: Sandboxing Browser AI Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2512.23647v1",
+    "archive": "arXiv",
+    "archive_location": "2512.23647",
+    "author": [
+      {
+        "literal": "Baixuan Li"
+      },
+      {
+        "literal": "Jialong Wu"
+      },
+      {
+        "literal": "Wenbiao Yin"
+      },
+      {
+        "literal": "Kuan Li"
+      },
+      {
+        "literal": "Zhongwang Zhang"
+      },
+      {
+        "literal": "Huifeng Yin"
+      },
+      {
+        "literal": "Zhengwei Tao"
+      },
+      {
+        "literal": "Liwen Zhang"
+      },
+      {
+        "literal": "Pengjun Xie"
+      },
+      {
+        "literal": "Jingren Zhou"
+      },
+      {
+        "literal": "Yong Jiang"
+      }
+    ],
+    "citation-key": "arxiv_2512_23647",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "fde71dd935acb953bc5d01bcd48f0d6c3351db6a66126761baf134c114e7893c",
+        "submitted_at": "2025-12-29T17:59:14Z",
+        "updated_at": "2025-12-29T17:59:14Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2512.23647v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2512.23647",
+      "catalog_id": "arxiv:2512.23647",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-12-29",
+      "identifiers": {
+        "arxiv": "2512.23647"
+      },
+      "record_updated_at": "2025-12-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2512.23647",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2025-12-29; Recorded arXiv version: v1; Recorded version updated: 2025-12-29T17:59:14Z.",
+    "title": "Nested Browser-Use Learning for Agentic Information Seeking",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2601.02439v6",
     "archive": "arXiv",
     "archive_location": "2601.02439",
@@ -7736,6 +7867,137 @@
     "version": "4"
   },
   {
+    "URL": "https://arxiv.org/abs/2603.05044v2",
+    "archive": "arXiv",
+    "archive_location": "2603.05044",
+    "author": [
+      {
+        "literal": "Sicheng Fan"
+      },
+      {
+        "literal": "Qingyun Shi"
+      },
+      {
+        "literal": "Shengze Xu"
+      },
+      {
+        "literal": "Shengbo Cai"
+      },
+      {
+        "literal": "Tieyong Zeng"
+      },
+      {
+        "literal": "Li Ling"
+      },
+      {
+        "literal": "Yanyi Shang"
+      },
+      {
+        "literal": "Dehan Kong"
+      }
+    ],
+    "citation-key": "arxiv_2603_05044",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "fcca36d9a28ace835ede3fa5a93cb9c54608f164240c18bfe007bc945273b460",
+        "submitted_at": "2026-03-05T10:51:34Z",
+        "updated_at": "2026-04-14T08:14:14Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2603.05044v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.05044",
+      "catalog_id": "arxiv:2603.05044",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-05",
+      "identifiers": {
+        "arxiv": "2603.05044"
+      },
+      "record_updated_at": "2026-04-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.05044",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-05; Recorded arXiv version: v2; Recorded version updated: 2026-04-14T08:14:14Z.",
+    "title": "WebFactory: Automated Compression of Foundational Language Intelligence into Grounded Web Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.20340v3",
+    "archive": "arXiv",
+    "archive_location": "2603.20340",
+    "author": [
+      {
+        "literal": "Zijian Lu"
+      },
+      {
+        "literal": "Yiping Zuo"
+      },
+      {
+        "literal": "Yupeng Nie"
+      },
+      {
+        "literal": "Xin He"
+      },
+      {
+        "literal": "Weibei Fan"
+      },
+      {
+        "literal": "Lianyong Qi"
+      },
+      {
+        "literal": "Shi Jin"
+      }
+    ],
+    "citation-key": "arxiv_2603_20340",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8e8182e64c7a57a2dd6eb381762bc9a60b08e13ba5a337d0e9125ab6a5518b6c",
+        "submitted_at": "2026-03-20T09:25:50Z",
+        "updated_at": "2026-04-15T07:34:34Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2603.20340v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.20340",
+      "catalog_id": "arxiv:2603.20340",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-20",
+      "identifiers": {
+        "arxiv": "2603.20340"
+      },
+      "record_updated_at": "2026-04-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.20340",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-20; Recorded arXiv version: v3; Recorded version updated: 2026-04-15T07:34:34Z.",
+    "title": "ContractSkill: Repairable Contract-Based Skills for Multimodal Web Agents",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2603.22529v1",
     "archive": "arXiv",
     "archive_location": "2603.22529",
@@ -7802,6 +8064,414 @@
     },
     "note": "First published: 2026-03-23; Recorded arXiv version: v1; Recorded version updated: 2026-03-23T19:47:58Z.",
     "title": "Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.25226v1",
+    "archive": "arXiv",
+    "archive_location": "2603.25226",
+    "author": [
+      {
+        "literal": "Fanheng Kong"
+      },
+      {
+        "literal": "Jingyuan Zhang"
+      },
+      {
+        "literal": "Yang Yue"
+      },
+      {
+        "literal": "Chenxi Sun"
+      },
+      {
+        "literal": "Yang Tian"
+      },
+      {
+        "literal": "Shi Feng"
+      },
+      {
+        "literal": "Xiaocui Yang"
+      },
+      {
+        "literal": "Daling Wang"
+      },
+      {
+        "literal": "Yu Tian"
+      },
+      {
+        "literal": "Jun Du"
+      },
+      {
+        "literal": "Wenchong Zeng"
+      },
+      {
+        "literal": "Han Li"
+      },
+      {
+        "literal": "Kun Gai"
+      }
+    ],
+    "citation-key": "arxiv_2603_25226",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8414eb53c66f745fb074d9f2699f76ffea81cb55f98aacf9ce896401937f80c5",
+        "submitted_at": "2026-03-26T09:27:29Z",
+        "updated_at": "2026-03-26T09:27:29Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.25226v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.25226",
+      "catalog_id": "arxiv:2603.25226",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-26",
+      "identifiers": {
+        "arxiv": "2603.25226"
+      },
+      "record_updated_at": "2026-03-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.25226",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-26; Recorded arXiv version: v1; Recorded version updated: 2026-03-26T09:27:29Z.",
+    "title": "WebTestBench: Evaluating Computer-Use Agents towards End-to-End Automated Web Testing",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.29020v1",
+    "archive": "arXiv",
+    "archive_location": "2603.29020",
+    "author": [
+      {
+        "literal": "Deepak Akkil"
+      },
+      {
+        "literal": "Mowafak Allaham"
+      },
+      {
+        "literal": "Amal Raj"
+      },
+      {
+        "literal": "Tamer Abuelsaad"
+      },
+      {
+        "literal": "Ravi Kokku"
+      }
+    ],
+    "citation-key": "arxiv_2603_29020",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b4f03e65387e3aad99b8c4cef166a7a8b4a9e2954ad932b8daf566e30f156595",
+        "submitted_at": "2026-03-30T21:27:28Z",
+        "updated_at": "2026-03-30T21:27:28Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.29020v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.29020",
+      "catalog_id": "arxiv:2603.29020",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-30",
+      "identifiers": {
+        "arxiv": "2603.29020"
+      },
+      "record_updated_at": "2026-03-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.29020",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-30; Recorded arXiv version: v1; Recorded version updated: 2026-03-30T21:27:28Z.",
+    "title": "Emergence WebVoyager: Toward Consistent and Transparent Evaluation of (Web) Agents in The Wild",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.02623v2",
+    "archive": "arXiv",
+    "archive_location": "2604.02623",
+    "author": [
+      {
+        "literal": "Wei Zou"
+      },
+      {
+        "literal": "Mingwen Dong"
+      },
+      {
+        "literal": "Miguel Romero Calvo"
+      },
+      {
+        "literal": "Shuaichen Chang"
+      },
+      {
+        "literal": "Jiang Guo"
+      },
+      {
+        "literal": "Dongkyu Lee"
+      },
+      {
+        "literal": "Xing Niu"
+      },
+      {
+        "literal": "Xiaofei Ma"
+      },
+      {
+        "literal": "Yanjun Qi"
+      },
+      {
+        "literal": "Jiarong Jiang"
+      }
+    ],
+    "citation-key": "arxiv_2604_02623",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a37f4bdc495e10e4ae301ebff6faa28cdfa6de152d4619c051083b5dce41e6ba",
+        "submitted_at": "2026-04-03T01:25:12Z",
+        "updated_at": "2026-04-07T14:45:15Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2604.02623v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.02623",
+      "catalog_id": "arxiv:2604.02623",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-03",
+      "identifiers": {
+        "arxiv": "2604.02623"
+      },
+      "record_updated_at": "2026-04-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.02623",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-03; Recorded arXiv version: v2; Recorded version updated: 2026-04-07T14:45:15Z.",
+    "title": "Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.08516v1",
+    "archive": "arXiv",
+    "archive_location": "2604.08516",
+    "author": [
+      {
+        "literal": "Tanmay Gupta"
+      },
+      {
+        "literal": "Piper Wolters"
+      },
+      {
+        "literal": "Zixian Ma"
+      },
+      {
+        "literal": "Peter Sushko"
+      },
+      {
+        "literal": "Rock Yuren Pang"
+      },
+      {
+        "literal": "Diego Llanes"
+      },
+      {
+        "literal": "Yue Yang"
+      },
+      {
+        "literal": "Taira Anderson"
+      },
+      {
+        "literal": "Boyuan Zheng"
+      },
+      {
+        "literal": "Zhongzheng Ren"
+      },
+      {
+        "literal": "Harsh Trivedi"
+      },
+      {
+        "literal": "Taylor Blanton"
+      },
+      {
+        "literal": "Caleb Ouellette"
+      },
+      {
+        "literal": "Winson Han"
+      },
+      {
+        "literal": "Ali Farhadi"
+      },
+      {
+        "literal": "Ranjay Krishna"
+      }
+    ],
+    "citation-key": "arxiv_2604_08516",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "dbc0d512a11b88a9036d06d0fcc26a8ab0d0bc54fad986d4b6225c8073897bc2",
+        "submitted_at": "2026-04-09T17:54:02Z",
+        "updated_at": "2026-04-09T17:54:02Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.08516v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.08516",
+      "catalog_id": "arxiv:2604.08516",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-09",
+      "identifiers": {
+        "arxiv": "2604.08516"
+      },
+      "record_updated_at": "2026-04-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.08516",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-09; Recorded arXiv version: v1; Recorded version updated: 2026-04-09T17:54:02Z.",
+    "title": "MolmoWeb: Open Visual Web Agent and Open Data for the Open Web",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.10988v1",
+    "archive": "arXiv",
+    "archive_location": "2604.10988",
+    "author": [
+      {
+        "literal": "Peng Yuan"
+      },
+      {
+        "literal": "Yuyang Yin"
+      },
+      {
+        "literal": "Yuxuan Cai"
+      },
+      {
+        "literal": "Zheng Wei"
+      }
+    ],
+    "citation-key": "arxiv_2604_10988",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1db8d789fb8ba2d5e61ca24536670fd83491c305f532adfecf7193821f7eea52",
+        "submitted_at": "2026-04-13T04:45:27Z",
+        "updated_at": "2026-04-13T04:45:27Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.10988v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.10988",
+      "catalog_id": "arxiv:2604.10988",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-13",
+      "identifiers": {
+        "arxiv": "2604.10988"
+      },
+      "record_updated_at": "2026-04-13"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.10988",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-13; Recorded arXiv version: v1; Recorded version updated: 2026-04-13T04:45:27Z.",
+    "title": "WebForge: Breaking the Realism-Reproducibility-Scalability Trilemma in Browser Agent Benchmark",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.07134v1",
+    "archive": "arXiv",
+    "archive_location": "2605.07134",
+    "author": [
+      {
+        "literal": "Donguk Kwon"
+      },
+      {
+        "literal": "Dongha Lee"
+      }
+    ],
+    "citation-key": "arxiv_2605_07134",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6bf74d53b22530951788bd329167f5ba9474827c712590ae9c6d316fac4d62bc",
+        "submitted_at": "2026-05-08T02:11:23Z",
+        "updated_at": "2026-05-08T02:11:23Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.07134v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.07134",
+      "catalog_id": "arxiv:2605.07134",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-08",
+      "identifiers": {
+        "arxiv": "2605.07134"
+      },
+      "record_updated_at": "2026-05-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.07134",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-08; Recorded arXiv version: v1; Recorded version updated: 2026-05-08T02:11:23Z.",
+    "title": "Region4Web: Rethinking Observation Space Granularity for Web Agents",
     "type": "article",
     "version": "1"
   },

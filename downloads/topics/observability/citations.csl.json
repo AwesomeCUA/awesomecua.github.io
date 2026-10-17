@@ -683,6 +683,235 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2603.10664v1",
+    "archive": "arXiv",
+    "archive_location": "2603.10664",
+    "author": [
+      {
+        "literal": "Alexandre De Masi"
+      }
+    ],
+    "citation-key": "arxiv_2603_10664",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5944045ee4562641ee02612969d1c2d038e019fa02cc8d48c671c1d5397557ad",
+        "submitted_at": "2026-03-11T11:24:31Z",
+        "updated_at": "2026-03-11T11:24:31Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.10664v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.10664",
+      "catalog_id": "arxiv:2603.10664",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-03-11",
+      "identifiers": {
+        "arxiv": "2603.10664"
+      },
+      "record_updated_at": "2026-03-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.10664",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-11; Recorded arXiv version: v1; Recorded version updated: 2026-03-11T11:24:31Z.",
+    "title": "Terminal Is All You Need: Design Properties for Human-AI Agent Collaboration",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.16520v1",
+    "archive": "arXiv",
+    "archive_location": "2604.16520",
+    "author": [
+      {
+        "literal": "Haomin Zhuang"
+      },
+      {
+        "literal": "Hanwen Xing"
+      },
+      {
+        "literal": "Xiangliang Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2604_16520",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7b1788e6fbb4c14a6d993ce329bf7bf05e3a1e6ffbfc7c14a9fa9d36fbf7ef16",
+        "submitted_at": "2026-04-15T18:22:50Z",
+        "updated_at": "2026-04-15T18:22:50Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.16520v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.16520",
+      "catalog_id": "arxiv:2604.16520",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-04-15",
+      "identifiers": {
+        "arxiv": "2604.16520"
+      },
+      "record_updated_at": "2026-04-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.16520",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-15; Recorded arXiv version: v1; Recorded version updated: 2026-04-15T18:22:50Z.",
+    "title": "AgentClick: A Skill-Based Human-in-the-Loop Review Layer for Terminal AI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.19769v1",
+    "archive": "arXiv",
+    "archive_location": "2605.19769",
+    "author": [
+      {
+        "literal": "Jinbiao Wei"
+      },
+      {
+        "literal": "Qianran Ma"
+      },
+      {
+        "literal": "Yilun Zhao"
+      },
+      {
+        "literal": "Xiao Zhou"
+      },
+      {
+        "literal": "Kangqi Ni"
+      },
+      {
+        "literal": "Guo Gan"
+      },
+      {
+        "literal": "Arman Cohan"
+      }
+    ],
+    "citation-key": "arxiv_2605_19769",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0a93d880793018d1b47a39e0487e3be76550fd2b49de9535b2913e9f08159074",
+        "submitted_at": "2026-05-19T12:40:29Z",
+        "updated_at": "2026-05-19T12:40:29Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.19769v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.19769",
+      "catalog_id": "arxiv:2605.19769",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-19",
+      "identifiers": {
+        "arxiv": "2605.19769"
+      },
+      "record_updated_at": "2026-05-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.19769",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-19; Recorded arXiv version: v1; Recorded version updated: 2026-05-19T12:40:29Z.",
+    "title": "OpenComputer: Verifiable Software Worlds for Computer-Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.07594v1",
+    "archive": "arXiv",
+    "archive_location": "2606.07594",
+    "author": [
+      {
+        "literal": "Bo Zhang"
+      },
+      {
+        "literal": "Borui Zhang"
+      },
+      {
+        "literal": "Chenghao Jiang"
+      },
+      {
+        "literal": "Minglei Shi"
+      },
+      {
+        "literal": "Xiaofeng Wang"
+      },
+      {
+        "literal": "Zheng Zhu"
+      },
+      {
+        "literal": "Jie Zhou"
+      },
+      {
+        "literal": "Jiwen Lu"
+      }
+    ],
+    "citation-key": "arxiv_2606_07594",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "33c343e9bc02976fc3e32057cdcdebc3abeae5ef049b877443e81917a8abc550",
+        "submitted_at": "2026-05-28T17:59:31Z",
+        "updated_at": "2026-05-28T17:59:31Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.07594v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.07594",
+      "catalog_id": "arxiv:2606.07594",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-28",
+      "identifiers": {
+        "arxiv": "2606.07594"
+      },
+      "record_updated_at": "2026-05-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.07594",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-28; Recorded arXiv version: v1; Recorded version updated: 2026-05-28T17:59:31Z.",
+    "title": "Syll: Open-Source Personal Automation with Cross-Surface Execution",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2607.15193v1",
     "archive": "arXiv",
     "archive_location": "2607.15193",

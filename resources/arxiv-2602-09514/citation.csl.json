@@ -1,0 +1,91 @@
+{
+  "id": "arxiv:2602.09514",
+  "citation-key": "arxiv_2602_09514",
+  "type": "article",
+  "title": "EcoGym: Evaluating LLMs for Long-Horizon Plan-and-Execute in Interactive Economies",
+  "URL": "https://arxiv.org/abs/2602.09514v3",
+  "custom": {
+    "catalog_id": "arxiv:2602.09514",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.09514",
+    "identifiers": {
+      "arxiv": "2602.09514"
+    },
+    "first_published_at": "2026-02-10",
+    "record_updated_at": "2026-05-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "724b7e95f1ab6ee2e9c5e8bb91b17cf4ec977df7f23f853d856d96312b2293b6",
+      "submitted_at": "2026-02-10T08:12:23Z",
+      "updated_at": "2026-05-09T05:05:58Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2602.09514v3"
+    }
+  },
+  "note": "First published: 2026-02-10; Recorded arXiv version: v3; Recorded version updated: 2026-05-09T05:05:58Z.",
+  "author": [
+    {
+      "literal": "Xavier Hu"
+    },
+    {
+      "literal": "Jinxiang Xia"
+    },
+    {
+      "literal": "Shengze Xu"
+    },
+    {
+      "literal": "Kangqi Song"
+    },
+    {
+      "literal": "Yishuo Yuan"
+    },
+    {
+      "literal": "Guibin Zhang"
+    },
+    {
+      "literal": "JinCheng Ren"
+    },
+    {
+      "literal": "Boyu Feng"
+    },
+    {
+      "literal": "Li Lu"
+    },
+    {
+      "literal": "Tieyong Zeng"
+    },
+    {
+      "literal": "Jiaheng Liu"
+    },
+    {
+      "literal": "Minghao Liu"
+    },
+    {
+      "literal": "He Zhu"
+    },
+    {
+      "literal": "Yuchen Eleanor Jiang"
+    },
+    {
+      "literal": "Wei Wang"
+    },
+    {
+      "literal": "Wangchunshu Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.09514",
+  "genre": "preprint",
+  "version": "3"
+}

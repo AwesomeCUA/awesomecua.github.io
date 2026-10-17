@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2610.11251",
+  "citation-key": "arxiv_2610_11251",
+  "type": "article",
+  "title": "V-CoLA: Vision Token Compression with Linear Attention",
+  "URL": "https://arxiv.org/abs/2610.11251v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.11251",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.11251",
+    "identifiers": {
+      "arxiv": "2610.11251"
+    },
+    "first_published_at": "2026-10-08",
+    "record_updated_at": "2026-10-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ff40a4f64eb62cf50a1c96201e89314a3355a258c5ecf6f29541155f9b4b7470",
+      "submitted_at": "2026-10-08T04:55:50Z",
+      "updated_at": "2026-10-08T04:55:50Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.11251v1"
+    }
+  },
+  "note": "First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T04:55:50Z.",
+  "author": [
+    {
+      "literal": "Hao Jiang"
+    },
+    {
+      "literal": "Yiru Mao"
+    },
+    {
+      "literal": "Tianpeng Bu"
+    },
+    {
+      "literal": "Hao Zhou"
+    },
+    {
+      "literal": "Hongtao Duan"
+    },
+    {
+      "literal": "Wang Jing"
+    },
+    {
+      "literal": "Bowen Xu"
+    },
+    {
+      "literal": "Xin Chen"
+    },
+    {
+      "literal": "Lulu Hu"
+    },
+    {
+      "literal": "Bin Yang"
+    },
+    {
+      "literal": "Yongliang Tao"
+    },
+    {
+      "literal": "Minying Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.11251",
+  "genre": "preprint",
+  "version": "1"
+}

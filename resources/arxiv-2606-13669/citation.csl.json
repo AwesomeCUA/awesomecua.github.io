@@ -1,0 +1,127 @@
+{
+  "id": "arxiv:2606.13669",
+  "citation-key": "arxiv_2606_13669",
+  "type": "article",
+  "title": "Agents-K1: Towards Agent-native Knowledge Orchestration",
+  "URL": "https://arxiv.org/abs/2606.13669v3",
+  "custom": {
+    "catalog_id": "arxiv:2606.13669",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.13669",
+    "identifiers": {
+      "arxiv": "2606.13669"
+    },
+    "first_published_at": "2026-06-11",
+    "record_updated_at": "2026-07-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b42fd8e24207e368c2c754e77f6d1cc2c8455203acd995ccf1d872cf2e0c7956",
+      "submitted_at": "2026-06-11T17:58:35Z",
+      "updated_at": "2026-07-17T03:48:22Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2606.13669v3"
+    }
+  },
+  "note": "First published: 2026-06-11; Recorded arXiv version: v3; Recorded version updated: 2026-07-17T03:48:22Z.",
+  "author": [
+    {
+      "literal": "Zongsheng Cao"
+    },
+    {
+      "literal": "Bihao Zhan"
+    },
+    {
+      "literal": "Jinxin Shi"
+    },
+    {
+      "literal": "Jiong Wang"
+    },
+    {
+      "literal": "Fangchen Yu"
+    },
+    {
+      "literal": "Zhijie Zhong"
+    },
+    {
+      "literal": "Yingnan Han"
+    },
+    {
+      "literal": "Zijie Guo"
+    },
+    {
+      "literal": "Tianshuo Peng"
+    },
+    {
+      "literal": "Zhuo Liu"
+    },
+    {
+      "literal": "Yi Xie"
+    },
+    {
+      "literal": "Xiang Zhuang"
+    },
+    {
+      "literal": "Shengji Tang"
+    },
+    {
+      "literal": "Yue Fan"
+    },
+    {
+      "literal": "Runmin Ma"
+    },
+    {
+      "literal": "Shiyang Feng"
+    },
+    {
+      "literal": "Xiangchao Yan"
+    },
+    {
+      "literal": "Anran Liu"
+    },
+    {
+      "literal": "Peng Ye"
+    },
+    {
+      "literal": "Wenlong Zhang"
+    },
+    {
+      "literal": "Xiaosong Wang"
+    },
+    {
+      "literal": "Shufei Zhang"
+    },
+    {
+      "literal": "Chunfeng Song"
+    },
+    {
+      "literal": "Fenghua Ling"
+    },
+    {
+      "literal": "Jie Zhou"
+    },
+    {
+      "literal": "Liang He"
+    },
+    {
+      "literal": "Bo Zhang"
+    },
+    {
+      "literal": "Lei Bai"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.13669",
+  "genre": "preprint",
+  "version": "3"
+}

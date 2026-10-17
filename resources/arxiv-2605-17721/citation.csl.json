@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2605.17721",
+  "citation-key": "arxiv_2605_17721",
+  "type": "article",
+  "title": "EXG: Self-Evolving Agents with Experience Graphs",
+  "URL": "https://arxiv.org/abs/2605.17721v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.17721",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.17721",
+    "identifiers": {
+      "arxiv": "2605.17721"
+    },
+    "first_published_at": "2026-05-18",
+    "record_updated_at": "2026-05-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "65ceabc2925d6d597d2270b8a7cb5510e2f0e8ca6af70e8e595038fb6dc9556a",
+      "submitted_at": "2026-05-18T00:50:23Z",
+      "updated_at": "2026-05-18T00:50:23Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.17721v1"
+    }
+  },
+  "note": "First published: 2026-05-18; Recorded arXiv version: v1; Recorded version updated: 2026-05-18T00:50:23Z.",
+  "author": [
+    {
+      "literal": "Yuxin Jin"
+    },
+    {
+      "literal": "Siyuan Zhang"
+    },
+    {
+      "literal": "Hanchen Wang"
+    },
+    {
+      "literal": "Lu Qin"
+    },
+    {
+      "literal": "Ying Zhang"
+    },
+    {
+      "literal": "Wenjie Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.17721",
+  "genre": "preprint",
+  "version": "1"
+}

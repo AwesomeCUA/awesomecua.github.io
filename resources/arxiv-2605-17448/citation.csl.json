@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2605.17448",
+  "citation-key": "arxiv_2605_17448",
+  "type": "article",
+  "title": "Self-Improving CAD Generation Agents with Finite Element Analysis as Feedback",
+  "URL": "https://arxiv.org/abs/2605.17448v2",
+  "custom": {
+    "catalog_id": "arxiv:2605.17448",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.17448",
+    "identifiers": {
+      "arxiv": "2605.17448"
+    },
+    "first_published_at": "2026-05-17",
+    "record_updated_at": "2026-05-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "247ae269abcab332f2e0c37fce310cbe50796c6f5dbe99110e1b54cfc2346870",
+      "submitted_at": "2026-05-17T13:47:38Z",
+      "updated_at": "2026-05-27T01:18:25Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2605.17448v2"
+    }
+  },
+  "note": "First published: 2026-05-17; Recorded arXiv version: v2; Recorded version updated: 2026-05-27T01:18:25Z.",
+  "author": [
+    {
+      "literal": "Guijin Son"
+    },
+    {
+      "literal": "Jehyun Park"
+    },
+    {
+      "literal": "Seyeon Park"
+    },
+    {
+      "literal": "Sunghee Ahn"
+    },
+    {
+      "literal": "Youngjae Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.17448",
+  "genre": "preprint",
+  "version": "2"
+}

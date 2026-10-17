@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2610.09484",
+  "citation-key": "arxiv_2610_09484",
+  "type": "article",
+  "title": "MIMESIS: Learning User Simulators as Training Environments for Interactive Agents",
+  "URL": "https://arxiv.org/abs/2610.09484v2",
+  "custom": {
+    "catalog_id": "arxiv:2610.09484",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.09484",
+    "identifiers": {
+      "arxiv": "2610.09484"
+    },
+    "first_published_at": "2026-10-07",
+    "record_updated_at": "2026-10-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8b33a0d9dbe8705a43b4b3792fa8b2e46ac3db98e86877bab2ae58c7d47e17e3",
+      "submitted_at": "2026-10-07T05:37:09Z",
+      "updated_at": "2026-10-08T17:15:34Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2610.09484v2"
+    }
+  },
+  "note": "First published: 2026-10-07; Recorded arXiv version: v2; Recorded version updated: 2026-10-08T17:15:34Z.",
+  "author": [
+    {
+      "literal": "Hoang Phan"
+    },
+    {
+      "literal": "Dat Huynh"
+    },
+    {
+      "literal": "Andrey Zhmoginov"
+    },
+    {
+      "literal": "Qi Zeng"
+    },
+    {
+      "literal": "Wancen Mu"
+    },
+    {
+      "literal": "Yue Cao"
+    },
+    {
+      "literal": "Shengjie Bi"
+    },
+    {
+      "literal": "Yun He"
+    },
+    {
+      "literal": "Changdae Oh"
+    },
+    {
+      "literal": "Deren Lei"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.09484",
+  "genre": "preprint",
+  "version": "2"
+}

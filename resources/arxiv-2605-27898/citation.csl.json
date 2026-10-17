@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2605.27898",
+  "citation-key": "arxiv_2605_27898",
+  "type": "article",
+  "title": "UniACE: A Unified Framework for Evaluating LLM Agentic Capabilities",
+  "URL": "https://arxiv.org/abs/2605.27898v3",
+  "custom": {
+    "catalog_id": "arxiv:2605.27898",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.27898",
+    "identifiers": {
+      "arxiv": "2605.27898"
+    },
+    "first_published_at": "2026-05-27",
+    "record_updated_at": "2026-09-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9e0ffbe367e6c4cd8c9a08a23d849187985b646222286bb876d8fab3491a627e",
+      "submitted_at": "2026-05-27T03:20:45Z",
+      "updated_at": "2026-09-01T11:09:16Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2605.27898v3"
+    }
+  },
+  "note": "First published: 2026-05-27; Recorded arXiv version: v3; Recorded version updated: 2026-09-01T11:09:16Z.",
+  "author": [
+    {
+      "literal": "Pengyu Zhu"
+    },
+    {
+      "literal": "Lijun Li"
+    },
+    {
+      "literal": "Yaxing Lyu"
+    },
+    {
+      "literal": "Qianxin Luo"
+    },
+    {
+      "literal": "Jingyi Yang"
+    },
+    {
+      "literal": "Yi Liu"
+    },
+    {
+      "literal": "Tingfeng Hui"
+    },
+    {
+      "literal": "Xinyu Yuan"
+    },
+    {
+      "literal": "Li Sun"
+    },
+    {
+      "literal": "Sen Su"
+    },
+    {
+      "literal": "Jing Shao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.27898",
+  "genre": "preprint",
+  "version": "3"
+}

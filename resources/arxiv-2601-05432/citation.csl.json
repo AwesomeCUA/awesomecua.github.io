@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2601.05432",
+  "citation-key": "arxiv_2601_05432",
+  "type": "article",
+  "title": "Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization",
+  "URL": "https://arxiv.org/abs/2601.05432v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.05432",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.05432",
+    "identifiers": {
+      "arxiv": "2601.05432"
+    },
+    "first_published_at": "2026-01-08",
+    "record_updated_at": "2026-01-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0d66de194aa18bd8fcc88ecd10e3bf5ae71f7f4159f29c51257c21d529bf8f92",
+      "submitted_at": "2026-01-08T23:47:30Z",
+      "updated_at": "2026-01-08T23:47:30Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.05432v1"
+    }
+  },
+  "note": "First published: 2026-01-08; Recorded arXiv version: v1; Recorded version updated: 2026-01-08T23:47:30Z.",
+  "author": [
+    {
+      "literal": "Yuxiang Ji"
+    },
+    {
+      "literal": "Yong Wang"
+    },
+    {
+      "literal": "Ziyu Ma"
+    },
+    {
+      "literal": "Yiming Hu"
+    },
+    {
+      "literal": "Hailang Huang"
+    },
+    {
+      "literal": "Xuecai Hu"
+    },
+    {
+      "literal": "Guanhua Chen"
+    },
+    {
+      "literal": "Liaoni Wu"
+    },
+    {
+      "literal": "Xiangxiang Chu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.05432",
+  "genre": "preprint",
+  "version": "1"
+}

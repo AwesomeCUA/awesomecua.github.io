@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2603.08706",
+  "citation-key": "arxiv_2603_08706",
+  "type": "article",
+  "title": "Agentic Critical Training",
+  "URL": "https://arxiv.org/abs/2603.08706v2",
+  "custom": {
+    "catalog_id": "arxiv:2603.08706",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.08706",
+    "identifiers": {
+      "arxiv": "2603.08706"
+    },
+    "first_published_at": "2026-03-09",
+    "record_updated_at": "2026-10-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "335fc18afd76688fddb72433025037cbf53a8345e720f58777030a2654d1f3d2",
+      "submitted_at": "2026-03-09T17:58:56Z",
+      "updated_at": "2026-10-08T17:18:41Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2603.08706v2"
+    }
+  },
+  "note": "First published: 2026-03-09; Recorded arXiv version: v2; Recorded version updated: 2026-10-08T17:18:41Z.",
+  "author": [
+    {
+      "literal": "Weize Liu"
+    },
+    {
+      "literal": "Minghui Liu"
+    },
+    {
+      "literal": "Sy-Tuyen Ho"
+    },
+    {
+      "literal": "Yongkyun Lee"
+    },
+    {
+      "literal": "Andrew Adams Schoen"
+    },
+    {
+      "literal": "Souradip Chakraborty"
+    },
+    {
+      "literal": "Xiyao Wang"
+    },
+    {
+      "literal": "Furong Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.08706",
+  "genre": "preprint",
+  "version": "2"
+}

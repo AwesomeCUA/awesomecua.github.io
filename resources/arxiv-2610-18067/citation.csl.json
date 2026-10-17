@@ -1,0 +1,94 @@
+{
+  "id": "arxiv:2610.18067",
+  "citation-key": "arxiv_2610_18067",
+  "type": "article",
+  "title": "WorkRover: Scaling Long-Horizon Cowork Agent Training Via Recursive Environment Evolution",
+  "URL": "https://arxiv.org/abs/2610.18067v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.18067",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.18067",
+    "identifiers": {
+      "arxiv": "2610.18067"
+    },
+    "first_published_at": "2026-10-13",
+    "record_updated_at": "2026-10-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6add363f25f87ea1814c7b79ebf6b51f7431b3745a7d2d910960b78e2d97d13f",
+      "submitted_at": "2026-10-13T09:52:02Z",
+      "updated_at": "2026-10-13T09:52:02Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.18067v1"
+    }
+  },
+  "note": "First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T09:52:02Z.",
+  "author": [
+    {
+      "literal": "Hang He"
+    },
+    {
+      "literal": "Linting Wang"
+    },
+    {
+      "literal": "Guanming Liu"
+    },
+    {
+      "literal": "Bo Mao"
+    },
+    {
+      "literal": "Jinxiu Liu"
+    },
+    {
+      "literal": "Yiran Suo"
+    },
+    {
+      "literal": "Maosen Zhou"
+    },
+    {
+      "literal": "Zhiheng Xi"
+    },
+    {
+      "literal": "Guanting Dong"
+    },
+    {
+      "literal": "Zhou Shao"
+    },
+    {
+      "literal": "Rui Zheng"
+    },
+    {
+      "literal": "Jie Zhou"
+    },
+    {
+      "literal": "Chengcheng Wan"
+    },
+    {
+      "literal": "Tao Gui"
+    },
+    {
+      "literal": "Qi Zhang"
+    },
+    {
+      "literal": "Xipeng Qiu"
+    },
+    {
+      "literal": "Xuanjing Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.18067",
+  "genre": "preprint",
+  "version": "1"
+}

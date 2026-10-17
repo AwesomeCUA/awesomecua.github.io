@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2607.10608",
+  "citation-key": "arxiv_2607_10608",
+  "type": "article",
+  "title": "The Compliance Trap: Diagnosing How AI Agents Consume Conflicting Memory",
+  "URL": "https://arxiv.org/abs/2607.10608v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.10608",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2607.10608",
+    "identifiers": {
+      "arxiv": "2607.10608"
+    },
+    "first_published_at": "2026-07-12",
+    "record_updated_at": "2026-07-12",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0473ced7881ed2007aa49c2767860c33719d5bf1c798dfe4771a4061b13d655e",
+      "submitted_at": "2026-07-12T07:05:31Z",
+      "updated_at": "2026-07-12T07:05:31Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.10608v1"
+    }
+  },
+  "note": "First published: 2026-07-12; Recorded arXiv version: v1; Recorded version updated: 2026-07-12T07:05:31Z.",
+  "author": [
+    {
+      "literal": "Yixiong Chen"
+    },
+    {
+      "literal": "Xinyi Bai"
+    },
+    {
+      "literal": "Alan Yuille"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.10608",
+  "genre": "preprint",
+  "version": "1"
+}

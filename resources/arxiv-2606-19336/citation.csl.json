@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2606.19336",
+  "citation-key": "arxiv_2606_19336",
+  "type": "article",
+  "title": "Learning User Simulators with Turing Rewards",
+  "URL": "https://arxiv.org/abs/2606.19336v2",
+  "custom": {
+    "catalog_id": "arxiv:2606.19336",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.19336",
+    "identifiers": {
+      "arxiv": "2606.19336"
+    },
+    "first_published_at": "2026-06-17",
+    "record_updated_at": "2026-06-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ae39265a336636c79c67b28d0d79861e81e8eb9af18efdc9a0bf6df7553d3ca4",
+      "submitted_at": "2026-06-17T17:58:48Z",
+      "updated_at": "2026-06-25T03:03:06Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2606.19336v2"
+    }
+  },
+  "note": "First published: 2026-06-17; Recorded arXiv version: v2; Recorded version updated: 2026-06-25T03:03:06Z.",
+  "author": [
+    {
+      "literal": "Yingshan Susan Wang"
+    },
+    {
+      "literal": "Cedegao E. Zhang"
+    },
+    {
+      "literal": "Linlu Qiu"
+    },
+    {
+      "literal": "Zexue He"
+    },
+    {
+      "literal": "Pengyuan Li"
+    },
+    {
+      "literal": "Alex Pentland"
+    },
+    {
+      "literal": "Roger P. Levy"
+    },
+    {
+      "literal": "Yoon Kim"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.19336",
+  "genre": "preprint",
+  "version": "2"
+}

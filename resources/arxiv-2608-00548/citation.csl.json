@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2608.00548",
+  "citation-key": "arxiv_2608_00548",
+  "type": "article",
+  "title": "DrawAI: Agentic Benchmark and Workflow for Making Raster Images Editable",
+  "URL": "https://arxiv.org/abs/2608.00548v1",
+  "custom": {
+    "catalog_id": "arxiv:2608.00548",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2608.00548",
+    "identifiers": {
+      "arxiv": "2608.00548"
+    },
+    "first_published_at": "2026-08-01",
+    "record_updated_at": "2026-08-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b55f44e80c7c4f8a733dc842133a48227e11379c1d2688d9b912429f29b22140",
+      "submitted_at": "2026-08-01T09:05:06Z",
+      "updated_at": "2026-08-01T09:05:06Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2608.00548v1"
+    }
+  },
+  "note": "First published: 2026-08-01; Recorded arXiv version: v1; Recorded version updated: 2026-08-01T09:05:06Z.",
+  "author": [
+    {
+      "literal": "Pu Cao"
+    },
+    {
+      "literal": "Qingye Kong"
+    },
+    {
+      "literal": "Xuedan Yin"
+    },
+    {
+      "literal": "Xuekun Zhao"
+    },
+    {
+      "literal": "Rupeng Yan"
+    },
+    {
+      "literal": "Qing Song"
+    },
+    {
+      "literal": "Yao Zhang"
+    },
+    {
+      "literal": "Lu Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2608.00548",
+  "genre": "preprint",
+  "version": "1"
+}

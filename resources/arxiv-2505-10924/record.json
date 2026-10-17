@@ -81,7 +81,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Survey of research directions in GUI or computer-use agents.",
+  "summary": "Systematizes safety and security threats to computer-using agents, with taxonomies of threats and defensive strategies.",
   "topics": [
     "survey",
     "safety-security"

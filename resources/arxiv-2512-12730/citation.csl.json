@@ -1,0 +1,190 @@
+{
+  "id": "arxiv:2512.12730",
+  "citation-key": "arxiv_2512_12730",
+  "type": "article",
+  "title": "NL2Repo-Bench: Towards Long-Horizon Repository Generation Evaluation of Coding Agents",
+  "URL": "https://arxiv.org/abs/2512.12730v2",
+  "custom": {
+    "catalog_id": "arxiv:2512.12730",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2512.12730",
+    "identifiers": {
+      "arxiv": "2512.12730"
+    },
+    "first_published_at": "2025-12-14",
+    "record_updated_at": "2026-01-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a484bbe4f60a828dd51d63b2ce7c4788449c40d90593f8169f86ecb083a3bdc2",
+      "submitted_at": "2025-12-14T15:12:13Z",
+      "updated_at": "2026-01-08T02:42:06Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2512.12730v2"
+    }
+  },
+  "note": "First published: 2025-12-14; Recorded arXiv version: v2; Recorded version updated: 2026-01-08T02:42:06Z.",
+  "author": [
+    {
+      "literal": "Jingzhe Ding"
+    },
+    {
+      "literal": "Shengda Long"
+    },
+    {
+      "literal": "Changxin Pu"
+    },
+    {
+      "literal": "Huan Zhou"
+    },
+    {
+      "literal": "Hongwan Gao"
+    },
+    {
+      "literal": "Xiang Gao"
+    },
+    {
+      "literal": "Chao He"
+    },
+    {
+      "literal": "Yue Hou"
+    },
+    {
+      "literal": "Fei Hu"
+    },
+    {
+      "literal": "Zhaojian Li"
+    },
+    {
+      "literal": "Weiran Shi"
+    },
+    {
+      "literal": "Zaiyuan Wang"
+    },
+    {
+      "literal": "Daoguang Zan"
+    },
+    {
+      "literal": "Chenchen Zhang"
+    },
+    {
+      "literal": "Xiaoxu Zhang"
+    },
+    {
+      "literal": "Qizhi Chen"
+    },
+    {
+      "literal": "Xianfu Cheng"
+    },
+    {
+      "literal": "Bo Deng"
+    },
+    {
+      "literal": "Qingshui Gu"
+    },
+    {
+      "literal": "Kai Hua"
+    },
+    {
+      "literal": "Juntao Lin"
+    },
+    {
+      "literal": "Pai Liu"
+    },
+    {
+      "literal": "Mingchen Li"
+    },
+    {
+      "literal": "Xuanguang Pan"
+    },
+    {
+      "literal": "Zifan Peng"
+    },
+    {
+      "literal": "Yujia Qin"
+    },
+    {
+      "literal": "Yong Shan"
+    },
+    {
+      "literal": "Zhewen Tan"
+    },
+    {
+      "literal": "Weihao Xie"
+    },
+    {
+      "literal": "Zihan Wang"
+    },
+    {
+      "literal": "Yishuo Yuan"
+    },
+    {
+      "literal": "Jiayu Zhang"
+    },
+    {
+      "literal": "Enduo Zhao"
+    },
+    {
+      "literal": "Yunfei Zhao"
+    },
+    {
+      "literal": "He Zhu"
+    },
+    {
+      "literal": "Liya Zhu"
+    },
+    {
+      "literal": "Chenyang Zou"
+    },
+    {
+      "literal": "Ming Ding"
+    },
+    {
+      "literal": "Jianpeng Jiao"
+    },
+    {
+      "literal": "Jiaheng Liu"
+    },
+    {
+      "literal": "Minghao Liu"
+    },
+    {
+      "literal": "Qian Liu"
+    },
+    {
+      "literal": "Chongyang Tao"
+    },
+    {
+      "literal": "Jian Yang"
+    },
+    {
+      "literal": "Tong Yang"
+    },
+    {
+      "literal": "Zhaoxiang Zhang"
+    },
+    {
+      "literal": "Xinjie Chen"
+    },
+    {
+      "literal": "Wenhao Huang"
+    },
+    {
+      "literal": "Ge Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2512.12730",
+  "genre": "preprint",
+  "version": "2"
+}

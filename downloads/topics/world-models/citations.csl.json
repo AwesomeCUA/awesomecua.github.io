@@ -917,6 +917,106 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2602.09007v3",
+    "archive": "arXiv",
+    "archive_location": "2602.09007",
+    "author": [
+      {
+        "literal": "Haodong Li"
+      },
+      {
+        "literal": "Jingwei Wu"
+      },
+      {
+        "literal": "Quan Sun"
+      },
+      {
+        "literal": "Guopeng Li"
+      },
+      {
+        "literal": "Juanxi Tian"
+      },
+      {
+        "literal": "Ziyu Guo"
+      },
+      {
+        "literal": "Donghao Zhou"
+      },
+      {
+        "literal": "Tianfei Ren"
+      },
+      {
+        "literal": "Huanyu Zhang"
+      },
+      {
+        "literal": "Yanlin Lai"
+      },
+      {
+        "literal": "Ruichuan An"
+      },
+      {
+        "literal": "Hongbo Peng"
+      },
+      {
+        "literal": "Yuhong Dai"
+      },
+      {
+        "literal": "Jia Wang"
+      },
+      {
+        "literal": "Ziyang Meng"
+      },
+      {
+        "literal": "Zheng Ge"
+      },
+      {
+        "literal": "Xiangyu Zhang"
+      },
+      {
+        "literal": "Daxin Jiang"
+      },
+      {
+        "literal": "Pheng-Ann Heng"
+      }
+    ],
+    "citation-key": "arxiv_2602_09007",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "43a01e0eb848a57a84767836d2c3c982bbf6094d22a3e70652dd42af52760bc5",
+        "submitted_at": "2026-02-09T18:52:02Z",
+        "updated_at": "2026-09-26T18:28:57Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2602.09007v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.09007",
+      "catalog_id": "arxiv:2602.09007",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-09",
+      "identifiers": {
+        "arxiv": "2602.09007"
+      },
+      "record_updated_at": "2026-09-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.09007",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-09; Recorded arXiv version: v3; Recorded version updated: 2026-09-26T18:28:57Z.",
+    "title": "GUI-GenBench: Evaluating Image Generation Models as Interactive GUI Environments",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2602.09856v1",
     "archive": "arXiv",
     "archive_location": "2602.09856",
@@ -985,6 +1085,258 @@
     "title": "Code2World: A GUI World Model via Renderable Code Generation",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.14721v1",
+    "archive": "arXiv",
+    "archive_location": "2602.14721",
+    "author": [
+      {
+        "literal": "Zikai Xiao"
+      },
+      {
+        "literal": "Jianhong Tu"
+      },
+      {
+        "literal": "Chuhang Zou"
+      },
+      {
+        "literal": "Yuxin Zuo"
+      },
+      {
+        "literal": "Zhi Li"
+      },
+      {
+        "literal": "Peng Wang"
+      },
+      {
+        "literal": "Bowen Yu"
+      },
+      {
+        "literal": "Fei Huang"
+      },
+      {
+        "literal": "Junyang Lin"
+      },
+      {
+        "literal": "Zuozhu Liu"
+      }
+    ],
+    "citation-key": "arxiv_2602_14721",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2dca0e4219a788205bbb060911d0f004d1db4cf2ff8a4962c04fd5777ea194d7",
+        "submitted_at": "2026-02-16T13:06:49Z",
+        "updated_at": "2026-02-16T13:06:49Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2602.14721v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.14721",
+      "catalog_id": "arxiv:2602.14721",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-16",
+      "identifiers": {
+        "arxiv": "2602.14721"
+      },
+      "record_updated_at": "2026-02-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.14721",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-16; Recorded arXiv version: v1; Recorded version updated: 2026-02-16T13:06:49Z.",
+    "title": "WebWorld: A Large-Scale World Model for Web Agent Training",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.17365v1",
+    "archive": "arXiv",
+    "archive_location": "2602.17365",
+    "author": [
+      {
+        "literal": "Yiming Guan"
+      },
+      {
+        "literal": "Rui Yu"
+      },
+      {
+        "literal": "John Zhang"
+      },
+      {
+        "literal": "Lu Wang"
+      },
+      {
+        "literal": "Chaoyun Zhang"
+      },
+      {
+        "literal": "Liqun Li"
+      },
+      {
+        "literal": "Bo Qiao"
+      },
+      {
+        "literal": "Si Qin"
+      },
+      {
+        "literal": "He Huang"
+      },
+      {
+        "literal": "Fangkai Yang"
+      },
+      {
+        "literal": "Pu Zhao"
+      },
+      {
+        "literal": "Lukas Wutschitz"
+      },
+      {
+        "literal": "Samuel Kessler"
+      },
+      {
+        "literal": "Huseyin A Inan"
+      },
+      {
+        "literal": "Robert Sim"
+      },
+      {
+        "literal": "Saravan Rajmohan"
+      },
+      {
+        "literal": "Qingwei Lin"
+      },
+      {
+        "literal": "Dongmei Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2602_17365",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3d2237dd43f4c876ba69b68c1871ca3efd3aa501e93c86655eb2de6d9f35d2e8",
+        "submitted_at": "2026-02-19T13:48:29Z",
+        "updated_at": "2026-02-19T13:48:29Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2602.17365v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.17365",
+      "catalog_id": "arxiv:2602.17365",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-19",
+      "identifiers": {
+        "arxiv": "2602.17365"
+      },
+      "record_updated_at": "2026-02-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.17365",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-19; Recorded arXiv version: v1; Recorded version updated: 2026-02-19T13:48:29Z.",
+    "title": "Computer-Using World Model",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.10347v2",
+    "archive": "arXiv",
+    "archive_location": "2605.10347",
+    "author": [
+      {
+        "literal": "Weikai Xu"
+      },
+      {
+        "literal": "Kun Huang"
+      },
+      {
+        "literal": "Yunren Feng"
+      },
+      {
+        "literal": "Jiaxing Li"
+      },
+      {
+        "literal": "Yuhan Chen"
+      },
+      {
+        "literal": "Yuxuan Liu"
+      },
+      {
+        "literal": "Zhizheng Jiang"
+      },
+      {
+        "literal": "Heng Qu"
+      },
+      {
+        "literal": "Pengzhi Gao"
+      },
+      {
+        "literal": "Wei Liu"
+      },
+      {
+        "literal": "Jian Luan"
+      },
+      {
+        "literal": "Xiaolin Hu"
+      },
+      {
+        "literal": "Bo An"
+      }
+    ],
+    "citation-key": "arxiv_2605_10347",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4374ec1b7c44804bb78ea56bd0aa3214083419f37780d79c5fcfb68468727bbf",
+        "submitted_at": "2026-05-11T10:49:31Z",
+        "updated_at": "2026-05-22T05:43:30Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2605.10347v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.10347",
+      "catalog_id": "arxiv:2605.10347",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-11",
+      "identifiers": {
+        "arxiv": "2605.10347"
+      },
+      "record_updated_at": "2026-05-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.10347",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-11; Recorded arXiv version: v2; Recorded version updated: 2026-05-22T05:43:30Z.",
+    "title": "How Mobile World Model Guides GUI Agents?",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2607.15550v3",

@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2608.26238",
+  "citation-key": "arxiv_2608_26238",
+  "type": "article",
+  "title": "Procedura: Agentic 3D Modeling with Procedural Control",
+  "URL": "https://arxiv.org/abs/2608.26238v1",
+  "custom": {
+    "catalog_id": "arxiv:2608.26238",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2608.26238",
+    "identifiers": {
+      "arxiv": "2608.26238"
+    },
+    "first_published_at": "2026-08-26",
+    "record_updated_at": "2026-08-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d019f053d03cafbfac691bce4fb167bdca1c6b11f9fefafedcff0e927eff2084",
+      "submitted_at": "2026-08-26T17:54:39Z",
+      "updated_at": "2026-08-26T17:54:39Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2608.26238v1"
+    }
+  },
+  "note": "First published: 2026-08-26; Recorded arXiv version: v1; Recorded version updated: 2026-08-26T17:54:39Z.",
+  "author": [
+    {
+      "literal": "Youtian Lin"
+    },
+    {
+      "literal": "Yikang Yang"
+    },
+    {
+      "literal": "Zhanpeng Hu"
+    },
+    {
+      "literal": "Mengqi Zhou"
+    },
+    {
+      "literal": "Feihu Zhang"
+    },
+    {
+      "literal": "Xun Cao"
+    },
+    {
+      "literal": "Jiaheng Liu"
+    },
+    {
+      "literal": "Yao Yao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2608.26238",
+  "genre": "preprint",
+  "version": "1"
+}

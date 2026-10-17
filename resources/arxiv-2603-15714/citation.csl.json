@@ -1,0 +1,136 @@
+{
+  "id": "arxiv:2603.15714",
+  "citation-key": "arxiv_2603_15714",
+  "type": "article",
+  "title": "How Vulnerable Are AI Agents to Indirect Prompt Injections? Insights from a Large-Scale Public Competition",
+  "URL": "https://arxiv.org/abs/2603.15714v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.15714",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2603.15714",
+    "identifiers": {
+      "arxiv": "2603.15714"
+    },
+    "first_published_at": "2026-03-16",
+    "record_updated_at": "2026-03-16",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e7fe52247e01f331021013dbc3003b3b828e134d7706ec1f587210ad286eee1d",
+      "submitted_at": "2026-03-16T14:49:36Z",
+      "updated_at": "2026-03-16T14:49:36Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.15714v1"
+    }
+  },
+  "note": "First published: 2026-03-16; Recorded arXiv version: v1; Recorded version updated: 2026-03-16T14:49:36Z.",
+  "author": [
+    {
+      "literal": "Mateusz Dziemian"
+    },
+    {
+      "literal": "Maxwell Lin"
+    },
+    {
+      "literal": "Xiaohan Fu"
+    },
+    {
+      "literal": "Micha Nowak"
+    },
+    {
+      "literal": "Nick Winter"
+    },
+    {
+      "literal": "Eliot Jones"
+    },
+    {
+      "literal": "Andy Zou"
+    },
+    {
+      "literal": "Lama Ahmad"
+    },
+    {
+      "literal": "Kamalika Chaudhuri"
+    },
+    {
+      "literal": "Sahana Chennabasappa"
+    },
+    {
+      "literal": "Xander Davies"
+    },
+    {
+      "literal": "Lauren Deason"
+    },
+    {
+      "literal": "Benjamin L. Edelman"
+    },
+    {
+      "literal": "Tanner Emek"
+    },
+    {
+      "literal": "Ivan Evtimov"
+    },
+    {
+      "literal": "Jim Gust"
+    },
+    {
+      "literal": "Maia Hamin"
+    },
+    {
+      "literal": "Kat He"
+    },
+    {
+      "literal": "Klaudia Krawiecka"
+    },
+    {
+      "literal": "Riccardo Patana"
+    },
+    {
+      "literal": "Neil Perry"
+    },
+    {
+      "literal": "Troy Peterson"
+    },
+    {
+      "literal": "Xiangyu Qi"
+    },
+    {
+      "literal": "Javier Rando"
+    },
+    {
+      "literal": "Zifan Wang"
+    },
+    {
+      "literal": "Zihan Wang"
+    },
+    {
+      "literal": "Spencer Whitman"
+    },
+    {
+      "literal": "Eric Winsor"
+    },
+    {
+      "literal": "Arman Zharmagambetov"
+    },
+    {
+      "literal": "Matt Fredrikson"
+    },
+    {
+      "literal": "Zico Kolter"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.15714",
+  "genre": "preprint",
+  "version": "1"
+}

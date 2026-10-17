@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:2603.10664",
+  "citation-key": "arxiv_2603_10664",
+  "type": "article",
+  "title": "Terminal Is All You Need: Design Properties for Human-AI Agent Collaboration",
+  "URL": "https://arxiv.org/abs/2603.10664v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.10664",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2603.10664",
+    "identifiers": {
+      "arxiv": "2603.10664"
+    },
+    "first_published_at": "2026-03-11",
+    "record_updated_at": "2026-03-11",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5944045ee4562641ee02612969d1c2d038e019fa02cc8d48c671c1d5397557ad",
+      "submitted_at": "2026-03-11T11:24:31Z",
+      "updated_at": "2026-03-11T11:24:31Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.10664v1"
+    }
+  },
+  "note": "First published: 2026-03-11; Recorded arXiv version: v1; Recorded version updated: 2026-03-11T11:24:31Z.",
+  "author": [
+    {
+      "literal": "Alexandre De Masi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.10664",
+  "genre": "preprint",
+  "version": "1"
+}

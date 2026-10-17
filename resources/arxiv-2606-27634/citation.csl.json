@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2606.27634",
+  "citation-key": "arxiv_2606_27634",
+  "type": "article",
+  "title": "Continual Learning for Sequential Personalization of Small Language Models: A Stability Monitoring Analysis",
+  "URL": "https://arxiv.org/abs/2606.27634v2",
+  "custom": {
+    "catalog_id": "arxiv:2606.27634",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.27634",
+    "identifiers": {
+      "arxiv": "2606.27634"
+    },
+    "first_published_at": "2026-06-26",
+    "record_updated_at": "2026-09-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "aeca73d2d9f1e40e6a0bb14abf6eecd6ab803c1d0731dc9a35dc8a4eb583a505",
+      "submitted_at": "2026-06-26T01:16:03Z",
+      "updated_at": "2026-09-12T14:38:59Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2606.27634v2"
+    }
+  },
+  "note": "First published: 2026-06-26; Recorded arXiv version: v2; Recorded version updated: 2026-09-12T14:38:59Z.",
+  "author": [
+    {
+      "literal": "Thomas S. Paula"
+    },
+    {
+      "literal": "Lucas S. Kupssinskü"
+    },
+    {
+      "literal": "Rodrigo C. Barros"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.27634",
+  "genre": "preprint",
+  "version": "2"
+}

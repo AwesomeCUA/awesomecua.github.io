@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2603.01050",
+  "citation-key": "arxiv_2603_01050",
+  "type": "article",
+  "title": "MM-DeepResearch: A Simple and Effective Multimodal Agentic Search Baseline",
+  "URL": "https://arxiv.org/abs/2603.01050v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.01050",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.01050",
+    "identifiers": {
+      "arxiv": "2603.01050"
+    },
+    "first_published_at": "2026-03-01",
+    "record_updated_at": "2026-03-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5d32a3465f5a0063358426cf6fd5434241d6191d225740f8e4f41466fd5e5fb8",
+      "submitted_at": "2026-03-01T11:13:22Z",
+      "updated_at": "2026-03-01T11:13:22Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.01050v1"
+    }
+  },
+  "note": "First published: 2026-03-01; Recorded arXiv version: v1; Recorded version updated: 2026-03-01T11:13:22Z.",
+  "author": [
+    {
+      "literal": "Huanjin Yao"
+    },
+    {
+      "literal": "Qixiang Yin"
+    },
+    {
+      "literal": "Min Yang"
+    },
+    {
+      "literal": "Ziwang Zhao"
+    },
+    {
+      "literal": "Yibo Wang"
+    },
+    {
+      "literal": "Haotian Luo"
+    },
+    {
+      "literal": "Jingyi Zhang"
+    },
+    {
+      "literal": "Jiaxing Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.01050",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2602.11224",
+  "citation-key": "arxiv_2602_11224",
+  "type": "article",
+  "title": "Agent-Diff: Benchmarking LLM Agents on Enterprise API Tasks via Code Execution with State-Diff-Based Evaluation",
+  "URL": "https://arxiv.org/abs/2602.11224v3",
+  "custom": {
+    "catalog_id": "arxiv:2602.11224",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.11224",
+    "identifiers": {
+      "arxiv": "2602.11224"
+    },
+    "first_published_at": "2026-02-11",
+    "record_updated_at": "2026-04-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "96ac36025b1fb4753426165f82ff41d290a1dd7cdd412b5454b58243519d80bd",
+      "submitted_at": "2026-02-11T13:31:18Z",
+      "updated_at": "2026-04-28T16:08:25Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2602.11224v3"
+    }
+  },
+  "note": "First published: 2026-02-11; Recorded arXiv version: v3; Recorded version updated: 2026-04-28T16:08:25Z.",
+  "author": [
+    {
+      "literal": "Hubert M. Pysklo"
+    },
+    {
+      "literal": "Artem Zhuravel"
+    },
+    {
+      "literal": "Patrick D. Watson"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.11224",
+  "genre": "preprint",
+  "version": "3"
+}

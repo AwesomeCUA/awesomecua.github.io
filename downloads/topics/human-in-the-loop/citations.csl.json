@@ -2987,6 +2987,52 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2603.10664v1",
+    "archive": "arXiv",
+    "archive_location": "2603.10664",
+    "author": [
+      {
+        "literal": "Alexandre De Masi"
+      }
+    ],
+    "citation-key": "arxiv_2603_10664",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5944045ee4562641ee02612969d1c2d038e019fa02cc8d48c671c1d5397557ad",
+        "submitted_at": "2026-03-11T11:24:31Z",
+        "updated_at": "2026-03-11T11:24:31Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.10664v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.10664",
+      "catalog_id": "arxiv:2603.10664",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-03-11",
+      "identifiers": {
+        "arxiv": "2603.10664"
+      },
+      "record_updated_at": "2026-03-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.10664",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-11; Recorded arXiv version: v1; Recorded version updated: 2026-03-11T11:24:31Z.",
+    "title": "Terminal Is All You Need: Design Properties for Human-AI Agent Collaboration",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2603.25864v1",
     "archive": "arXiv",
     "archive_location": "2603.25864",
@@ -3047,6 +3093,274 @@
     },
     "note": "First published: 2026-03-26; Recorded arXiv version: v1; Recorded version updated: 2026-03-26T19:37:53Z.",
     "title": "GUIDE: A Benchmark for Understanding and Assisting Users in Open-Ended GUI Tasks",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.04918v2",
+    "archive": "arXiv",
+    "archive_location": "2604.04918",
+    "author": [
+      {
+        "literal": "Chaoran Chen"
+      },
+      {
+        "literal": "Zhiping Zhang"
+      },
+      {
+        "literal": "Zeya Chen"
+      },
+      {
+        "literal": "Eryue Xu"
+      },
+      {
+        "literal": "Yinuo Yang"
+      },
+      {
+        "literal": "Ibrahim Khalilov"
+      },
+      {
+        "literal": "Simret A Gebreegziabher"
+      },
+      {
+        "literal": "Yanfang Ye"
+      },
+      {
+        "literal": "Ziang Xiao"
+      },
+      {
+        "literal": "Yaxing Yao"
+      },
+      {
+        "literal": "Tianshi Li"
+      },
+      {
+        "literal": "Toby Jia-Jun Li"
+      }
+    ],
+    "citation-key": "arxiv_2604_04918",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1411ee71ad8f65e4941af4ef538f52da6e9bf9c57fb537b6ecf37c8478609693",
+        "submitted_at": "2026-04-06T17:57:16Z",
+        "updated_at": "2026-09-12T06:05:52Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2604.04918v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.04918",
+      "catalog_id": "arxiv:2604.04918",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-06",
+      "identifiers": {
+        "arxiv": "2604.04918"
+      },
+      "record_updated_at": "2026-09-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.04918",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-06; Recorded arXiv version: v2; Recorded version updated: 2026-09-12T06:05:52Z.",
+    "title": "Comparing Human Oversight Strategies for Computer-Use Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.16520v1",
+    "archive": "arXiv",
+    "archive_location": "2604.16520",
+    "author": [
+      {
+        "literal": "Haomin Zhuang"
+      },
+      {
+        "literal": "Hanwen Xing"
+      },
+      {
+        "literal": "Xiangliang Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2604_16520",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7b1788e6fbb4c14a6d993ce329bf7bf05e3a1e6ffbfc7c14a9fa9d36fbf7ef16",
+        "submitted_at": "2026-04-15T18:22:50Z",
+        "updated_at": "2026-04-15T18:22:50Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.16520v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.16520",
+      "catalog_id": "arxiv:2604.16520",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-04-15",
+      "identifiers": {
+        "arxiv": "2604.16520"
+      },
+      "record_updated_at": "2026-04-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.16520",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-15; Recorded arXiv version: v1; Recorded version updated: 2026-04-15T18:22:50Z.",
+    "title": "AgentClick: A Skill-Based Human-in-the-Loop Review Layer for Terminal AI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.03103v1",
+    "archive": "arXiv",
+    "archive_location": "2606.03103",
+    "author": [
+      {
+        "literal": "Wenkai Wang"
+      },
+      {
+        "literal": "Tao Xiong"
+      },
+      {
+        "literal": "Jingchen Ni"
+      },
+      {
+        "literal": "Yunpeng Bao"
+      },
+      {
+        "literal": "Xiyun Li"
+      },
+      {
+        "literal": "Tianqi Liu"
+      },
+      {
+        "literal": "Hongcan Guo"
+      },
+      {
+        "literal": "Zilong Huang"
+      },
+      {
+        "literal": "Shengyu Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2606_03103",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "bf0fcafeb2d40e489ec80784a3541114b02c6a9077a330265d5c49775eca4582",
+        "submitted_at": "2026-06-02T03:42:34Z",
+        "updated_at": "2026-06-02T03:42:34Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.03103v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.03103",
+      "catalog_id": "arxiv:2606.03103",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-02",
+      "identifiers": {
+        "arxiv": "2606.03103"
+      },
+      "record_updated_at": "2026-06-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.03103",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-02; Recorded arXiv version: v1; Recorded version updated: 2026-06-02T03:42:34Z.",
+    "title": "DeskCraft: Benchmarking Desktop Agents on Professional Workflows and Human-in-the-Loop Collaboration",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.07594v1",
+    "archive": "arXiv",
+    "archive_location": "2606.07594",
+    "author": [
+      {
+        "literal": "Bo Zhang"
+      },
+      {
+        "literal": "Borui Zhang"
+      },
+      {
+        "literal": "Chenghao Jiang"
+      },
+      {
+        "literal": "Minglei Shi"
+      },
+      {
+        "literal": "Xiaofeng Wang"
+      },
+      {
+        "literal": "Zheng Zhu"
+      },
+      {
+        "literal": "Jie Zhou"
+      },
+      {
+        "literal": "Jiwen Lu"
+      }
+    ],
+    "citation-key": "arxiv_2606_07594",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "33c343e9bc02976fc3e32057cdcdebc3abeae5ef049b877443e81917a8abc550",
+        "submitted_at": "2026-05-28T17:59:31Z",
+        "updated_at": "2026-05-28T17:59:31Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.07594v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.07594",
+      "catalog_id": "arxiv:2606.07594",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-28",
+      "identifiers": {
+        "arxiv": "2606.07594"
+      },
+      "record_updated_at": "2026-05-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.07594",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-28; Recorded arXiv version: v1; Recorded version updated: 2026-05-28T17:59:31Z.",
+    "title": "Syll: Open-Source Personal Automation with Cross-Surface Execution",
     "type": "article",
     "version": "1"
   },

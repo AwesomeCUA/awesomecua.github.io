@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2606.27406",
+  "citation-key": "arxiv_2606_27406",
+  "type": "article",
+  "title": "Towards Evaluation of Implicit Software World Models in Coding LLMs",
+  "URL": "https://arxiv.org/abs/2606.27406v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.27406",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.27406",
+    "identifiers": {
+      "arxiv": "2606.27406"
+    },
+    "first_published_at": "2026-06-25",
+    "record_updated_at": "2026-06-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6f595d057cfccc5bdb01669f67cd8f1418a671bdb7011e0d54f63fd971813fbc",
+      "submitted_at": "2026-06-25T08:02:32Z",
+      "updated_at": "2026-06-25T08:02:32Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.27406v1"
+    }
+  },
+  "note": "First published: 2026-06-25; Recorded arXiv version: v1; Recorded version updated: 2026-06-25T08:02:32Z.",
+  "author": [
+    {
+      "literal": "Egor Bogomolov"
+    },
+    {
+      "literal": "Yaroslav Zharov"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.27406",
+  "genre": "preprint",
+  "version": "1"
+}

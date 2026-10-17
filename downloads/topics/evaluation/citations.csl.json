@@ -14676,6 +14676,61 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2512.12594v2",
+    "archive": "arXiv",
+    "archive_location": "2512.12594",
+    "author": [
+      {
+        "literal": "Luoxi Meng"
+      },
+      {
+        "literal": "Henry Feng"
+      },
+      {
+        "literal": "Ilia Shumailov"
+      },
+      {
+        "literal": "Earlence Fernandes"
+      }
+    ],
+    "citation-key": "arxiv_2512_12594",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "fa6b4d9fa34610ec6fa8c0ac8b075127365aad57a20d814a2e838a223cf8bd56",
+        "submitted_at": "2025-12-14T08:25:31Z",
+        "updated_at": "2026-03-04T01:49:57Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2512.12594v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2512.12594",
+      "catalog_id": "arxiv:2512.12594",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-12-14",
+      "identifiers": {
+        "arxiv": "2512.12594"
+      },
+      "record_updated_at": "2026-03-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2512.12594",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2025-12-14; Recorded arXiv version: v2; Recorded version updated: 2026-03-04T01:49:57Z.",
+    "title": "ceLLMate: Sandboxing Browser AI Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2512.12634v4",
     "archive": "arXiv",
     "archive_location": "2512.12634",
@@ -17010,6 +17065,70 @@
     "version": "4"
   },
   {
+    "URL": "https://arxiv.org/abs/2601.21253v1",
+    "archive": "arXiv",
+    "archive_location": "2601.21253",
+    "author": [
+      {
+        "literal": "Wei Minn"
+      },
+      {
+        "literal": "Biniam Fisseha Demissie"
+      },
+      {
+        "literal": "Yan Naing Tun"
+      },
+      {
+        "literal": "Jiakun Liu"
+      },
+      {
+        "literal": "Mariano Ceccato"
+      },
+      {
+        "literal": "Lwin Khin Shar"
+      },
+      {
+        "literal": "David Lo"
+      }
+    ],
+    "citation-key": "arxiv_2601_21253",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ac3f148047f7e63a33780fed3fd1ca461bead2128914c46f353efab4675df444",
+        "submitted_at": "2026-01-29T04:21:11Z",
+        "updated_at": "2026-01-29T04:21:11Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2601.21253v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.21253",
+      "catalog_id": "arxiv:2601.21253",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-01-29",
+      "identifiers": {
+        "arxiv": "2601.21253"
+      },
+      "record_updated_at": "2026-01-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.21253",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-29; Recorded arXiv version: v1; Recorded version updated: 2026-01-29T04:21:11Z.",
+    "title": "CovAgent: Overcoming the 30% Curse of Mobile Application Coverage with Agentic AI and Dynamic Instrumentation",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2601.21872v2",
     "archive": "arXiv",
     "archive_location": "2601.21872",
@@ -17800,6 +17919,106 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2602.09007v3",
+    "archive": "arXiv",
+    "archive_location": "2602.09007",
+    "author": [
+      {
+        "literal": "Haodong Li"
+      },
+      {
+        "literal": "Jingwei Wu"
+      },
+      {
+        "literal": "Quan Sun"
+      },
+      {
+        "literal": "Guopeng Li"
+      },
+      {
+        "literal": "Juanxi Tian"
+      },
+      {
+        "literal": "Ziyu Guo"
+      },
+      {
+        "literal": "Donghao Zhou"
+      },
+      {
+        "literal": "Tianfei Ren"
+      },
+      {
+        "literal": "Huanyu Zhang"
+      },
+      {
+        "literal": "Yanlin Lai"
+      },
+      {
+        "literal": "Ruichuan An"
+      },
+      {
+        "literal": "Hongbo Peng"
+      },
+      {
+        "literal": "Yuhong Dai"
+      },
+      {
+        "literal": "Jia Wang"
+      },
+      {
+        "literal": "Ziyang Meng"
+      },
+      {
+        "literal": "Zheng Ge"
+      },
+      {
+        "literal": "Xiangyu Zhang"
+      },
+      {
+        "literal": "Daxin Jiang"
+      },
+      {
+        "literal": "Pheng-Ann Heng"
+      }
+    ],
+    "citation-key": "arxiv_2602_09007",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "43a01e0eb848a57a84767836d2c3c982bbf6094d22a3e70652dd42af52760bc5",
+        "submitted_at": "2026-02-09T18:52:02Z",
+        "updated_at": "2026-09-26T18:28:57Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2602.09007v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.09007",
+      "catalog_id": "arxiv:2602.09007",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-09",
+      "identifiers": {
+        "arxiv": "2602.09007"
+      },
+      "record_updated_at": "2026-09-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.09007",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-09; Recorded arXiv version: v3; Recorded version updated: 2026-09-26T18:28:57Z.",
+    "title": "GUI-GenBench: Evaluating Image Generation Models as Interactive GUI Environments",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2602.09012v2",
     "archive": "arXiv",
     "archive_location": "2602.09012",
@@ -18470,6 +18689,164 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2602.14721v1",
+    "archive": "arXiv",
+    "archive_location": "2602.14721",
+    "author": [
+      {
+        "literal": "Zikai Xiao"
+      },
+      {
+        "literal": "Jianhong Tu"
+      },
+      {
+        "literal": "Chuhang Zou"
+      },
+      {
+        "literal": "Yuxin Zuo"
+      },
+      {
+        "literal": "Zhi Li"
+      },
+      {
+        "literal": "Peng Wang"
+      },
+      {
+        "literal": "Bowen Yu"
+      },
+      {
+        "literal": "Fei Huang"
+      },
+      {
+        "literal": "Junyang Lin"
+      },
+      {
+        "literal": "Zuozhu Liu"
+      }
+    ],
+    "citation-key": "arxiv_2602_14721",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2dca0e4219a788205bbb060911d0f004d1db4cf2ff8a4962c04fd5777ea194d7",
+        "submitted_at": "2026-02-16T13:06:49Z",
+        "updated_at": "2026-02-16T13:06:49Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2602.14721v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.14721",
+      "catalog_id": "arxiv:2602.14721",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-16",
+      "identifiers": {
+        "arxiv": "2602.14721"
+      },
+      "record_updated_at": "2026-02-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.14721",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-16; Recorded arXiv version: v1; Recorded version updated: 2026-02-16T13:06:49Z.",
+    "title": "WebWorld: A Large-Scale World Model for Web Agent Training",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.16313v2",
+    "archive": "arXiv",
+    "archive_location": "2602.16313",
+    "author": [
+      {
+        "literal": "Zexue He"
+      },
+      {
+        "literal": "Yu Wang"
+      },
+      {
+        "literal": "Churan Zhi"
+      },
+      {
+        "literal": "Yuanzhe Hu"
+      },
+      {
+        "literal": "Tzu-Ping Chen"
+      },
+      {
+        "literal": "Lang Yin"
+      },
+      {
+        "literal": "Ze Chen"
+      },
+      {
+        "literal": "Tong Arthur Wu"
+      },
+      {
+        "literal": "Siru Ouyang"
+      },
+      {
+        "literal": "Zihan Wang"
+      },
+      {
+        "literal": "Jiaxin Pei"
+      },
+      {
+        "literal": "Julian McAuley"
+      },
+      {
+        "literal": "Yejin Choi"
+      },
+      {
+        "literal": "Alex Pentland"
+      }
+    ],
+    "citation-key": "arxiv_2602_16313",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2317a94d54b4458a1b7c5e92754aeaefcbf270aabfa0bd8ea333c673cd4596b3",
+        "submitted_at": "2026-02-18T09:49:14Z",
+        "updated_at": "2026-09-17T22:55:03Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2602.16313v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.16313",
+      "catalog_id": "arxiv:2602.16313",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-18",
+      "identifiers": {
+        "arxiv": "2602.16313"
+      },
+      "record_updated_at": "2026-09-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.16313",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-18; Recorded arXiv version: v2; Recorded version updated: 2026-09-17T22:55:03Z.",
+    "title": "MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2602.17003v3",
     "archive": "arXiv",
     "archive_location": "2602.17003",
@@ -18520,6 +18897,128 @@
     "title": "Persona2Web: Benchmarking Personalized Web Agents for Contextual Reasoning with User History",
     "type": "article",
     "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.02951v2",
+    "archive": "arXiv",
+    "archive_location": "2603.02951",
+    "author": [
+      {
+        "literal": "Zhenquan Yao"
+      },
+      {
+        "literal": "Zitong Huang"
+      },
+      {
+        "literal": "Yihan Zeng"
+      },
+      {
+        "literal": "Jianhua Han"
+      },
+      {
+        "literal": "Hang Xu"
+      },
+      {
+        "literal": "Chun-Mei Feng"
+      },
+      {
+        "literal": "Jianwei Ma"
+      },
+      {
+        "literal": "Wangmeng Zuo"
+      }
+    ],
+    "citation-key": "arxiv_2603_02951",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "75f8eb625e969c2b180eeb3e90aa4e513ab5a1dc15657d3849c68b69bc5edf7c",
+        "submitted_at": "2026-03-03T13:02:20Z",
+        "updated_at": "2026-03-07T10:11:08Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2603.02951v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.02951",
+      "catalog_id": "arxiv:2603.02951",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-03",
+      "identifiers": {
+        "arxiv": "2603.02951"
+      },
+      "record_updated_at": "2026-03-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.02951",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-03; Recorded arXiv version: v2; Recorded version updated: 2026-03-07T10:11:08Z.",
+    "title": "CGL: Advancing Continual GUI Learning via Reinforcement Fine-Tuning",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.04364v2",
+    "archive": "arXiv",
+    "archive_location": "2603.04364",
+    "author": [
+      {
+        "literal": "Haoyu Liu"
+      },
+      {
+        "literal": "Dingcheng Li"
+      },
+      {
+        "literal": "Lukas Rutishauser"
+      },
+      {
+        "literal": "Zeyu Zheng"
+      }
+    ],
+    "citation-key": "arxiv_2603_04364",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "971770e61bf0af91ad1f17b197f09fc166b26bfb4953d3f2c74d457a87e25f3a",
+        "submitted_at": "2026-03-04T18:29:54Z",
+        "updated_at": "2026-10-05T23:01:49Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2603.04364v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.04364",
+      "catalog_id": "arxiv:2603.04364",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-04",
+      "identifiers": {
+        "arxiv": "2603.04364"
+      },
+      "record_updated_at": "2026-10-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.04364",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          4
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-04; Recorded arXiv version: v2; Recorded version updated: 2026-10-05T23:01:49Z.",
+    "title": "Dual-Modality Multi-Stage Adversarial Safety Training: Robustifying Multimodal Web Agents Against Cross-Modal Attacks",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2603.04949v4",
@@ -18635,6 +19134,143 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2603.07432v1",
+    "archive": "arXiv",
+    "archive_location": "2603.07432",
+    "author": [
+      {
+        "literal": "Li Gu"
+      },
+      {
+        "literal": "Zihuan Jiang"
+      },
+      {
+        "literal": "Zhixiang Chi"
+      },
+      {
+        "literal": "Huan Liu"
+      },
+      {
+        "literal": "Ziqiang Wang"
+      },
+      {
+        "literal": "Yuanhao Yu"
+      },
+      {
+        "literal": "Glen Berseth"
+      },
+      {
+        "literal": "Yang Wang"
+      }
+    ],
+    "citation-key": "arxiv_2603_07432",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "68350312fecc36630ecaeec18a203e692e072d31ff80f442662d202b43ead788",
+        "submitted_at": "2026-03-08T03:08:11Z",
+        "updated_at": "2026-03-08T03:08:11Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.07432v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.07432",
+      "catalog_id": "arxiv:2603.07432",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-08",
+      "identifiers": {
+        "arxiv": "2603.07432"
+      },
+      "record_updated_at": "2026-03-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.07432",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-08; Recorded arXiv version: v1; Recorded version updated: 2026-03-08T03:08:11Z.",
+    "title": "Generalization in Online Reinforcement Learning for Mobile Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.07978v1",
+    "archive": "arXiv",
+    "archive_location": "2603.07978",
+    "author": [
+      {
+        "literal": "Jiateng Liu"
+      },
+      {
+        "literal": "Zhenhailong Wang"
+      },
+      {
+        "literal": "Rushi Wang"
+      },
+      {
+        "literal": "Bingxuan Li"
+      },
+      {
+        "literal": "Jeonghwan Kim"
+      },
+      {
+        "literal": "Aditi Tiwari"
+      },
+      {
+        "literal": "Pengfei Yu"
+      },
+      {
+        "literal": "Denghui Zhang"
+      },
+      {
+        "literal": "Heng Ji"
+      }
+    ],
+    "citation-key": "arxiv_2603_07978",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "77eb68f31d616b8e542dbb41ada67f28bdc21f29f7da3f04a0077c0fa2d10196",
+        "submitted_at": "2026-03-09T05:27:56Z",
+        "updated_at": "2026-03-09T05:27:56Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.07978v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.07978",
+      "catalog_id": "arxiv:2603.07978",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-09",
+      "identifiers": {
+        "arxiv": "2603.07978"
+      },
+      "record_updated_at": "2026-03-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.07978",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-09; Recorded arXiv version: v1; Recorded version updated: 2026-03-09T05:27:56Z.",
+    "title": "OSExpert: Computer-Use Agents Learning Professional Skills via Exploration",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2603.08013v1",
     "archive": "arXiv",
     "archive_location": "2603.08013",
@@ -18689,6 +19325,76 @@
     },
     "note": "First published: 2026-03-09; Recorded arXiv version: v1; Recorded version updated: 2026-03-09T06:41:32Z.",
     "title": "PIRA-Bench: A Transition from Reactive GUI Agents to GUI-based Proactive Intent Recommendation Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.10178v1",
+    "archive": "arXiv",
+    "archive_location": "2603.10178",
+    "author": [
+      {
+        "literal": "Linxin Song"
+      },
+      {
+        "literal": "Jieyu Zhang"
+      },
+      {
+        "literal": "Huanxin Sheng"
+      },
+      {
+        "literal": "Taiwei Shi"
+      },
+      {
+        "literal": "Gupta Rahul"
+      },
+      {
+        "literal": "Yang Liu"
+      },
+      {
+        "literal": "Ranjay Krishna"
+      },
+      {
+        "literal": "Jian Kang"
+      },
+      {
+        "literal": "Jieyu Zhao"
+      }
+    ],
+    "citation-key": "arxiv_2603_10178",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "22b3001540ac8cc75117cdfb4f381462fe7df3fe7700a86e14b9f522803316ac",
+        "submitted_at": "2026-03-10T19:17:22Z",
+        "updated_at": "2026-03-10T19:17:22Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.10178v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.10178",
+      "catalog_id": "arxiv:2603.10178",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-10",
+      "identifiers": {
+        "arxiv": "2603.10178"
+      },
+      "record_updated_at": "2026-03-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.10178",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          10
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-10; Recorded arXiv version: v1; Recorded version updated: 2026-03-10T19:17:22Z.",
+    "title": "Video-Based Reward Modeling for Computer-Use Agents",
     "type": "article",
     "version": "1"
   },
@@ -18873,6 +19579,142 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2603.15714v1",
+    "archive": "arXiv",
+    "archive_location": "2603.15714",
+    "author": [
+      {
+        "literal": "Mateusz Dziemian"
+      },
+      {
+        "literal": "Maxwell Lin"
+      },
+      {
+        "literal": "Xiaohan Fu"
+      },
+      {
+        "literal": "Micha Nowak"
+      },
+      {
+        "literal": "Nick Winter"
+      },
+      {
+        "literal": "Eliot Jones"
+      },
+      {
+        "literal": "Andy Zou"
+      },
+      {
+        "literal": "Lama Ahmad"
+      },
+      {
+        "literal": "Kamalika Chaudhuri"
+      },
+      {
+        "literal": "Sahana Chennabasappa"
+      },
+      {
+        "literal": "Xander Davies"
+      },
+      {
+        "literal": "Lauren Deason"
+      },
+      {
+        "literal": "Benjamin L. Edelman"
+      },
+      {
+        "literal": "Tanner Emek"
+      },
+      {
+        "literal": "Ivan Evtimov"
+      },
+      {
+        "literal": "Jim Gust"
+      },
+      {
+        "literal": "Maia Hamin"
+      },
+      {
+        "literal": "Kat He"
+      },
+      {
+        "literal": "Klaudia Krawiecka"
+      },
+      {
+        "literal": "Riccardo Patana"
+      },
+      {
+        "literal": "Neil Perry"
+      },
+      {
+        "literal": "Troy Peterson"
+      },
+      {
+        "literal": "Xiangyu Qi"
+      },
+      {
+        "literal": "Javier Rando"
+      },
+      {
+        "literal": "Zifan Wang"
+      },
+      {
+        "literal": "Zihan Wang"
+      },
+      {
+        "literal": "Spencer Whitman"
+      },
+      {
+        "literal": "Eric Winsor"
+      },
+      {
+        "literal": "Arman Zharmagambetov"
+      },
+      {
+        "literal": "Matt Fredrikson"
+      },
+      {
+        "literal": "Zico Kolter"
+      }
+    ],
+    "citation-key": "arxiv_2603_15714",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e7fe52247e01f331021013dbc3003b3b828e134d7706ec1f587210ad286eee1d",
+        "submitted_at": "2026-03-16T14:49:36Z",
+        "updated_at": "2026-03-16T14:49:36Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.15714v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.15714",
+      "catalog_id": "arxiv:2603.15714",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-16",
+      "identifiers": {
+        "arxiv": "2603.15714"
+      },
+      "record_updated_at": "2026-03-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.15714",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-16; Recorded arXiv version: v1; Recorded version updated: 2026-03-16T14:49:36Z.",
+    "title": "How Vulnerable Are AI Agents to Indirect Prompt Injections? Insights from a Large-Scale Public Competition",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2603.17357v1",
     "archive": "arXiv",
     "archive_location": "2603.17357",
@@ -18915,6 +19757,276 @@
     },
     "note": "First published: 2026-03-18; Recorded arXiv version: v1; Recorded version updated: 2026-03-18T04:41:16Z.",
     "title": "WebPII: Benchmarking Visual PII Detection for Computer-Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.18429v1",
+    "archive": "arXiv",
+    "archive_location": "2603.18429",
+    "author": [
+      {
+        "literal": "Yibo Shi"
+      },
+      {
+        "literal": "Jungang Li"
+      },
+      {
+        "literal": "Linghao Zhang"
+      },
+      {
+        "literal": "Zihao Dongfang"
+      },
+      {
+        "literal": "Biao Wu"
+      },
+      {
+        "literal": "Sicheng Tao"
+      },
+      {
+        "literal": "Yibo Yan"
+      },
+      {
+        "literal": "Chenxi Qin"
+      },
+      {
+        "literal": "Weiting Liu"
+      },
+      {
+        "literal": "Zhixin Lin"
+      },
+      {
+        "literal": "Hanqian Li"
+      },
+      {
+        "literal": "Yu Huang"
+      },
+      {
+        "literal": "Song Dai"
+      },
+      {
+        "literal": "Yonghua Hei"
+      },
+      {
+        "literal": "Yue Ding"
+      },
+      {
+        "literal": "Xiang Li"
+      },
+      {
+        "literal": "Shikang Wang"
+      },
+      {
+        "literal": "Chengdong Xu"
+      },
+      {
+        "literal": "Jingqi Liu"
+      },
+      {
+        "literal": "Xueying Ma"
+      },
+      {
+        "literal": "Zhiwen Zheng"
+      },
+      {
+        "literal": "Xiaofei Zhang"
+      },
+      {
+        "literal": "Bincheng Wang"
+      },
+      {
+        "literal": "Nichen Yang"
+      },
+      {
+        "literal": "Jie Wu"
+      },
+      {
+        "literal": "Lihua Tian"
+      },
+      {
+        "literal": "Chen Li"
+      },
+      {
+        "literal": "Xuming Hu"
+      }
+    ],
+    "citation-key": "arxiv_2603_18429",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0ce6da91e59ac57fa24ff991ca023b84448c54d477cacb2d6fded9bf527dd29d",
+        "submitted_at": "2026-03-19T02:45:21Z",
+        "updated_at": "2026-03-19T02:45:21Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.18429v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.18429",
+      "catalog_id": "arxiv:2603.18429",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-19",
+      "identifiers": {
+        "arxiv": "2603.18429"
+      },
+      "record_updated_at": "2026-03-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.18429",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-19; Recorded arXiv version: v1; Recorded version updated: 2026-03-19T02:45:21Z.",
+    "title": "AndroTMem: From Interaction Trajectories to Anchored Memory in Long-Horizon GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.19191v1",
+    "archive": "arXiv",
+    "archive_location": "2603.19191",
+    "author": [
+      {
+        "literal": "Zehao Li"
+      },
+      {
+        "literal": "Zhenyu Wu"
+      },
+      {
+        "literal": "Yibo Zhao"
+      },
+      {
+        "literal": "Bowen Yang"
+      },
+      {
+        "literal": "Jingjing Xie"
+      },
+      {
+        "literal": "Zhaoyang Liu"
+      },
+      {
+        "literal": "Zhoumianze Liu"
+      },
+      {
+        "literal": "Kaiming Jin"
+      },
+      {
+        "literal": "Jianze Liang"
+      },
+      {
+        "literal": "Zonglin Li"
+      },
+      {
+        "literal": "Feng Wu"
+      },
+      {
+        "literal": "Bowen Zhou"
+      },
+      {
+        "literal": "Zun Wang"
+      },
+      {
+        "literal": "Zichen Ding"
+      }
+    ],
+    "citation-key": "arxiv_2603_19191",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ff31371580af6a0c43a6c26f076d5060ee06f974d3a6c1ade67348dc0af4859d",
+        "submitted_at": "2026-03-19T17:47:47Z",
+        "updated_at": "2026-03-19T17:47:47Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.19191v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.19191",
+      "catalog_id": "arxiv:2603.19191",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-19",
+      "identifiers": {
+        "arxiv": "2603.19191"
+      },
+      "record_updated_at": "2026-03-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.19191",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-19; Recorded arXiv version: v1; Recorded version updated: 2026-03-19T17:47:47Z.",
+    "title": "OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.19685v1",
+    "archive": "arXiv",
+    "archive_location": "2603.19685",
+    "author": [
+      {
+        "literal": "Taiyi Wang"
+      },
+      {
+        "literal": "Sian Gooding"
+      },
+      {
+        "literal": "Florian Hartmann"
+      },
+      {
+        "literal": "Oriana Riva"
+      },
+      {
+        "literal": "Edward Grefenstette"
+      }
+    ],
+    "citation-key": "arxiv_2603_19685",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5538933a0e3d11df6ff4d767849979703d83412599fbbb0f8b432c4d9850633b",
+        "submitted_at": "2026-03-20T06:32:16Z",
+        "updated_at": "2026-03-20T06:32:16Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.19685v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.19685",
+      "catalog_id": "arxiv:2603.19685",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-20",
+      "identifiers": {
+        "arxiv": "2603.19685"
+      },
+      "record_updated_at": "2026-03-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.19685",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-20; Recorded arXiv version: v1; Recorded version updated: 2026-03-20T06:32:16Z.",
+    "title": "A Subgoal-driven Framework for Improving Long-Horizon LLM Agents",
     "type": "article",
     "version": "1"
   },
@@ -19047,6 +20159,70 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2603.24157v1",
+    "archive": "arXiv",
+    "archive_location": "2603.24157",
+    "author": [
+      {
+        "literal": "Akash Ghosh"
+      },
+      {
+        "literal": "Tajamul Ashraf"
+      },
+      {
+        "literal": "Rishu Kumar Singh"
+      },
+      {
+        "literal": "Numan Saeed"
+      },
+      {
+        "literal": "Sriparna Saha"
+      },
+      {
+        "literal": "Xiuying Chen"
+      },
+      {
+        "literal": "Salman Khan"
+      }
+    ],
+    "citation-key": "arxiv_2603_24157",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8fb6a294616e1be46c5da05f60cda7d43c05d8a1ce71116c5e30cb94507cd56f",
+        "submitted_at": "2026-03-25T10:25:48Z",
+        "updated_at": "2026-03-25T10:25:48Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.24157v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.24157",
+      "catalog_id": "arxiv:2603.24157",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-25",
+      "identifiers": {
+        "arxiv": "2603.24157"
+      },
+      "record_updated_at": "2026-03-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.24157",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-25; Recorded arXiv version: v1; Recorded version updated: 2026-03-25T10:25:48Z.",
+    "title": "CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2603.24440v1",
     "archive": "arXiv",
     "archive_location": "2603.24440",
@@ -19110,6 +20286,88 @@
     },
     "note": "First published: 2026-03-25; Recorded arXiv version: v1; Recorded version updated: 2026-03-25T15:52:56Z.",
     "title": "CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.25226v1",
+    "archive": "arXiv",
+    "archive_location": "2603.25226",
+    "author": [
+      {
+        "literal": "Fanheng Kong"
+      },
+      {
+        "literal": "Jingyuan Zhang"
+      },
+      {
+        "literal": "Yang Yue"
+      },
+      {
+        "literal": "Chenxi Sun"
+      },
+      {
+        "literal": "Yang Tian"
+      },
+      {
+        "literal": "Shi Feng"
+      },
+      {
+        "literal": "Xiaocui Yang"
+      },
+      {
+        "literal": "Daling Wang"
+      },
+      {
+        "literal": "Yu Tian"
+      },
+      {
+        "literal": "Jun Du"
+      },
+      {
+        "literal": "Wenchong Zeng"
+      },
+      {
+        "literal": "Han Li"
+      },
+      {
+        "literal": "Kun Gai"
+      }
+    ],
+    "citation-key": "arxiv_2603_25226",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8414eb53c66f745fb074d9f2699f76ffea81cb55f98aacf9ce896401937f80c5",
+        "submitted_at": "2026-03-26T09:27:29Z",
+        "updated_at": "2026-03-26T09:27:29Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.25226v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.25226",
+      "catalog_id": "arxiv:2603.25226",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-26",
+      "identifiers": {
+        "arxiv": "2603.25226"
+      },
+      "record_updated_at": "2026-03-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.25226",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-26; Recorded arXiv version: v1; Recorded version updated: 2026-03-26T09:27:29Z.",
+    "title": "WebTestBench: Evaluating Computer-Use Agents towards End-to-End Automated Web Testing",
     "type": "article",
     "version": "1"
   },
@@ -19178,6 +20436,64 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2603.29020v1",
+    "archive": "arXiv",
+    "archive_location": "2603.29020",
+    "author": [
+      {
+        "literal": "Deepak Akkil"
+      },
+      {
+        "literal": "Mowafak Allaham"
+      },
+      {
+        "literal": "Amal Raj"
+      },
+      {
+        "literal": "Tamer Abuelsaad"
+      },
+      {
+        "literal": "Ravi Kokku"
+      }
+    ],
+    "citation-key": "arxiv_2603_29020",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b4f03e65387e3aad99b8c4cef166a7a8b4a9e2954ad932b8daf566e30f156595",
+        "submitted_at": "2026-03-30T21:27:28Z",
+        "updated_at": "2026-03-30T21:27:28Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.29020v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.29020",
+      "catalog_id": "arxiv:2603.29020",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-30",
+      "identifiers": {
+        "arxiv": "2603.29020"
+      },
+      "record_updated_at": "2026-03-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.29020",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-30; Recorded arXiv version: v1; Recorded version updated: 2026-03-30T21:27:28Z.",
+    "title": "Emergence WebVoyager: Toward Consistent and Transparent Evaluation of (Web) Agents in The Wild",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2603.29318v1",
     "archive": "arXiv",
     "archive_location": "2603.29318",
@@ -19242,6 +20558,445 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2604.00886v1",
+    "archive": "arXiv",
+    "archive_location": "2604.00886",
+    "author": [
+      {
+        "literal": "Nan Wang"
+      },
+      {
+        "literal": "Zhiwei Jin"
+      },
+      {
+        "literal": "Chen Chen"
+      },
+      {
+        "literal": "Haonan Lu"
+      }
+    ],
+    "citation-key": "arxiv_2604_00886",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ce7f70ff1f8c7d4058d8fdf00cb6cf1d61c0367a50ba76fc96d356bb07452c60",
+        "submitted_at": "2026-04-01T13:33:27Z",
+        "updated_at": "2026-04-01T13:33:27Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.00886v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.00886",
+      "catalog_id": "arxiv:2604.00886",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-04-01",
+      "identifiers": {
+        "arxiv": "2604.00886"
+      },
+      "record_updated_at": "2026-04-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.00886",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          1
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-01; Recorded arXiv version: v1; Recorded version updated: 2026-04-01T13:33:27Z.",
+    "title": "PixelPrune: Pixel-Level Adaptive Visual Token Reduction via Predictive Coding",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.04918v2",
+    "archive": "arXiv",
+    "archive_location": "2604.04918",
+    "author": [
+      {
+        "literal": "Chaoran Chen"
+      },
+      {
+        "literal": "Zhiping Zhang"
+      },
+      {
+        "literal": "Zeya Chen"
+      },
+      {
+        "literal": "Eryue Xu"
+      },
+      {
+        "literal": "Yinuo Yang"
+      },
+      {
+        "literal": "Ibrahim Khalilov"
+      },
+      {
+        "literal": "Simret A Gebreegziabher"
+      },
+      {
+        "literal": "Yanfang Ye"
+      },
+      {
+        "literal": "Ziang Xiao"
+      },
+      {
+        "literal": "Yaxing Yao"
+      },
+      {
+        "literal": "Tianshi Li"
+      },
+      {
+        "literal": "Toby Jia-Jun Li"
+      }
+    ],
+    "citation-key": "arxiv_2604_04918",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1411ee71ad8f65e4941af4ef538f52da6e9bf9c57fb537b6ecf37c8478609693",
+        "submitted_at": "2026-04-06T17:57:16Z",
+        "updated_at": "2026-09-12T06:05:52Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2604.04918v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.04918",
+      "catalog_id": "arxiv:2604.04918",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-06",
+      "identifiers": {
+        "arxiv": "2604.04918"
+      },
+      "record_updated_at": "2026-09-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.04918",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-06; Recorded arXiv version: v2; Recorded version updated: 2026-09-12T06:05:52Z.",
+    "title": "Comparing Human Oversight Strategies for Computer-Use Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.05157v3",
+    "archive": "arXiv",
+    "archive_location": "2604.05157",
+    "author": [
+      {
+        "literal": "Rongqian Chen"
+      },
+      {
+        "literal": "Yu Li"
+      },
+      {
+        "literal": "Zeyu Fang"
+      },
+      {
+        "literal": "Sizhe Tang"
+      },
+      {
+        "literal": "Weidong Cao"
+      },
+      {
+        "literal": "Tian Lan"
+      }
+    ],
+    "citation-key": "arxiv_2604_05157",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "238aac264fb21022f7c546ae3aa3f4ea104c381f5d318f6d962f22fb00095216",
+        "submitted_at": "2026-04-06T20:39:30Z",
+        "updated_at": "2026-05-28T08:13:55Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2604.05157v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.05157",
+      "catalog_id": "arxiv:2604.05157",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-06",
+      "identifiers": {
+        "arxiv": "2604.05157"
+      },
+      "record_updated_at": "2026-05-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.05157",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-06; Recorded arXiv version: v3; Recorded version updated: 2026-05-28T08:13:55Z.",
+    "title": "IntentScore: Intent-Conditioned Action Evaluation for Computer-Use Agents",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.06126v1",
+    "archive": "arXiv",
+    "archive_location": "2604.06126",
+    "author": [
+      {
+        "literal": "Pranjal Aggarwal"
+      },
+      {
+        "literal": "Graham Neubig"
+      },
+      {
+        "literal": "Sean Welleck"
+      }
+    ],
+    "citation-key": "arxiv_2604_06126",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "fdd9cb6daad8832261ebe861fc1cb74429b819305e14ecfeb9698616013e6ac8",
+        "submitted_at": "2026-04-07T17:38:15Z",
+        "updated_at": "2026-04-07T17:38:15Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.06126v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.06126",
+      "catalog_id": "arxiv:2604.06126",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-07",
+      "identifiers": {
+        "arxiv": "2604.06126"
+      },
+      "record_updated_at": "2026-04-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.06126",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-07; Recorded arXiv version: v1; Recorded version updated: 2026-04-07T17:38:15Z.",
+    "title": "Gym-Anything: Turn any Software into an Agent Environment",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.06240v1",
+    "archive": "arXiv",
+    "archive_location": "2604.06240",
+    "author": [
+      {
+        "literal": "Corby Rosset"
+      },
+      {
+        "literal": "Pratyusha Sharma"
+      },
+      {
+        "literal": "Andrew Zhao"
+      },
+      {
+        "literal": "Miguel Gonzalez-Fernandez"
+      },
+      {
+        "literal": "Ahmed Awadallah"
+      }
+    ],
+    "citation-key": "arxiv_2604_06240",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b452684b305c4f20ded686289b448fbe4f08bb3b34f515a43e2ce5d6dc4ef506",
+        "submitted_at": "2026-04-05T06:26:05Z",
+        "updated_at": "2026-04-05T06:26:05Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.06240v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.06240",
+      "catalog_id": "arxiv:2604.06240",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-05",
+      "identifiers": {
+        "arxiv": "2604.06240"
+      },
+      "record_updated_at": "2026-04-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.06240",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-05; Recorded arXiv version: v1; Recorded version updated: 2026-04-05T06:26:05Z.",
+    "title": "The Art of Building Verifiers for Computer Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.06995v3",
+    "archive": "arXiv",
+    "archive_location": "2604.06995",
+    "author": [
+      {
+        "literal": "Songze Li"
+      },
+      {
+        "literal": "Xiaoke Guo"
+      },
+      {
+        "literal": "Tianqi Liu"
+      },
+      {
+        "literal": "Biao Yi"
+      },
+      {
+        "literal": "Zhaoyan Gong"
+      },
+      {
+        "literal": "Zhiqiang Liu"
+      },
+      {
+        "literal": "Huajun Chen"
+      },
+      {
+        "literal": "Wen Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2604_06995",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b99643e43c5e20af088d6fa62152e03256c947af76a6b3c0abfc6f74a0f7d648",
+        "submitted_at": "2026-04-08T12:12:09Z",
+        "updated_at": "2026-10-02T06:30:10Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2604.06995v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.06995",
+      "catalog_id": "arxiv:2604.06995",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-08",
+      "identifiers": {
+        "arxiv": "2604.06995"
+      },
+      "record_updated_at": "2026-10-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.06995",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-08; Recorded arXiv version: v3; Recorded version updated: 2026-10-02T06:30:10Z.",
+    "title": "What's Missing in Screen-to-Action? Towards a UI-in-the-Loop Paradigm for Multimodal GUI Reasoning",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.09155v1",
+    "archive": "arXiv",
+    "archive_location": "2604.09155",
+    "author": [
+      {
+        "literal": "Yushi Feng"
+      },
+      {
+        "literal": "Junye Du"
+      },
+      {
+        "literal": "Qifan Wang"
+      },
+      {
+        "literal": "Zizhan Ma"
+      },
+      {
+        "literal": "Qian Niu"
+      },
+      {
+        "literal": "Yutaka Matsuo"
+      },
+      {
+        "literal": "Long Feng"
+      },
+      {
+        "literal": "Lequan Yu"
+      }
+    ],
+    "citation-key": "arxiv_2604_09155",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e53647528b9ee9d98f93ee665d0d886f9b400a129873e240704041df291f5749",
+        "submitted_at": "2026-04-10T09:41:21Z",
+        "updated_at": "2026-04-10T09:41:21Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.09155v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.09155",
+      "catalog_id": "arxiv:2604.09155",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-10",
+      "identifiers": {
+        "arxiv": "2604.09155"
+      },
+      "record_updated_at": "2026-04-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.09155",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          10
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-10; Recorded arXiv version: v1; Recorded version updated: 2026-04-10T09:41:21Z.",
+    "title": "CORA: Conformal Risk-Controlled Agents for Safeguarded Mobile GUI Automation",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2604.09581v2",
     "archive": "arXiv",
     "archive_location": "2604.09581",
@@ -19298,6 +21053,1647 @@
     "title": "Avenir-UX: Automated UX Evaluation via Simulated Human Web Interaction with GUI Grounding",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.09937v1",
+    "archive": "arXiv",
+    "archive_location": "2604.09937",
+    "author": [
+      {
+        "literal": "Suhana Bedi"
+      },
+      {
+        "literal": "Ryan Welch"
+      },
+      {
+        "literal": "Ethan Steinberg"
+      },
+      {
+        "literal": "Michael Wornow"
+      },
+      {
+        "literal": "Taeil Matthew Kim"
+      },
+      {
+        "literal": "Haroun Ahmed"
+      },
+      {
+        "literal": "Peter Sterling"
+      },
+      {
+        "literal": "Bravim Purohit"
+      },
+      {
+        "literal": "Qurat Akram"
+      },
+      {
+        "literal": "Angelic Acosta"
+      },
+      {
+        "literal": "Esther Nubla"
+      },
+      {
+        "literal": "Pritika Sharma"
+      },
+      {
+        "literal": "Michael A. Pfeffer"
+      },
+      {
+        "literal": "Sanmi Koyejo"
+      },
+      {
+        "literal": "Nigam H. Shah"
+      }
+    ],
+    "citation-key": "arxiv_2604_09937",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "55cedd4ad9760618fe9b3354e384f69b69b23b65f75837a3898484c9c6e55586",
+        "submitted_at": "2026-04-10T22:33:39Z",
+        "updated_at": "2026-04-10T22:33:39Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.09937v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.09937",
+      "catalog_id": "arxiv:2604.09937",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-10",
+      "identifiers": {
+        "arxiv": "2604.09937"
+      },
+      "record_updated_at": "2026-04-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.09937",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          10
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-10; Recorded arXiv version: v1; Recorded version updated: 2026-04-10T22:33:39Z.",
+    "title": "HealthAdminBench: Evaluating Computer-Use Agents on Healthcare Administration Tasks",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.10988v1",
+    "archive": "arXiv",
+    "archive_location": "2604.10988",
+    "author": [
+      {
+        "literal": "Peng Yuan"
+      },
+      {
+        "literal": "Yuyang Yin"
+      },
+      {
+        "literal": "Yuxuan Cai"
+      },
+      {
+        "literal": "Zheng Wei"
+      }
+    ],
+    "citation-key": "arxiv_2604_10988",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1db8d789fb8ba2d5e61ca24536670fd83491c305f532adfecf7193821f7eea52",
+        "submitted_at": "2026-04-13T04:45:27Z",
+        "updated_at": "2026-04-13T04:45:27Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.10988v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.10988",
+      "catalog_id": "arxiv:2604.10988",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-13",
+      "identifiers": {
+        "arxiv": "2604.10988"
+      },
+      "record_updated_at": "2026-04-13"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.10988",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-13; Recorded arXiv version: v1; Recorded version updated: 2026-04-13T04:45:27Z.",
+    "title": "WebForge: Breaking the Realism-Reproducibility-Scalability Trilemma in Browser Agent Benchmark",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.11784v1",
+    "archive": "arXiv",
+    "archive_location": "2604.11784",
+    "author": [
+      {
+        "literal": "Fei Tang"
+      },
+      {
+        "literal": "Zhiqiong Lu"
+      },
+      {
+        "literal": "Boxuan Zhang"
+      },
+      {
+        "literal": "Weiming Lu"
+      },
+      {
+        "literal": "Jun Xiao"
+      },
+      {
+        "literal": "Yueting Zhuang"
+      },
+      {
+        "literal": "Yongliang Shen"
+      }
+    ],
+    "citation-key": "arxiv_2604_11784",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "df56b38203bc5ec8d7e871eb2ad9fca9891a049df62b7d72796fe400eb8bce5e",
+        "submitted_at": "2026-04-13T17:52:04Z",
+        "updated_at": "2026-04-13T17:52:04Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.11784v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.11784",
+      "catalog_id": "arxiv:2604.11784",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-13",
+      "identifiers": {
+        "arxiv": "2604.11784"
+      },
+      "record_updated_at": "2026-04-13"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.11784",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-13; Recorded arXiv version: v1; Recorded version updated: 2026-04-13T17:52:04Z.",
+    "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.14262v2",
+    "archive": "arXiv",
+    "archive_location": "2604.14262",
+    "author": [
+      {
+        "literal": "Yangyue Wang"
+      },
+      {
+        "literal": "Harshvardhan Sikka"
+      },
+      {
+        "literal": "Yash Mathur"
+      },
+      {
+        "literal": "Tony Zhou"
+      },
+      {
+        "literal": "Jinu Nyachhyon"
+      },
+      {
+        "literal": "Pranav Guruprasad"
+      }
+    ],
+    "citation-key": "arxiv_2604_14262",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5dc36ff0c9c4bd39de360824967e53c18fe57562cb8da1462d3e63c0dd348e71",
+        "submitted_at": "2026-04-15T16:39:22Z",
+        "updated_at": "2026-07-01T10:12:28Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2604.14262v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.14262",
+      "catalog_id": "arxiv:2604.14262",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-15",
+      "identifiers": {
+        "arxiv": "2604.14262"
+      },
+      "record_updated_at": "2026-07-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.14262",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-15; Recorded arXiv version: v2; Recorded version updated: 2026-07-01T10:12:28Z.",
+    "title": "GUI-Perturbed: Domain Randomization Reveals Systematic Brittleness in GUI Grounding Models",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.14956v1",
+    "archive": "arXiv",
+    "archive_location": "2604.14956",
+    "author": [
+      {
+        "literal": "Wenhao Wang"
+      },
+      {
+        "literal": "Haoting Shi"
+      },
+      {
+        "literal": "Mengying Yuan"
+      },
+      {
+        "literal": "Yiquan Lin"
+      },
+      {
+        "literal": "Panrong Tong"
+      },
+      {
+        "literal": "Hanzhang Zhou"
+      },
+      {
+        "literal": "Guangyi Liu"
+      },
+      {
+        "literal": "Pengxiang Zhao"
+      },
+      {
+        "literal": "Yue Wang"
+      },
+      {
+        "literal": "Siheng Chen"
+      }
+    ],
+    "citation-key": "arxiv_2604_14956",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1e2b5d7149adcbe634df0bfdc9c34ba436e51e6891df5c4836daea9795061164",
+        "submitted_at": "2026-04-16T12:53:03Z",
+        "updated_at": "2026-04-16T12:53:03Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.14956v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.14956",
+      "catalog_id": "arxiv:2604.14956",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-16",
+      "identifiers": {
+        "arxiv": "2604.14956"
+      },
+      "record_updated_at": "2026-04-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.14956",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-16; Recorded arXiv version: v1; Recorded version updated: 2026-04-16T12:53:03Z.",
+    "title": "FedGUI: Benchmarking Federated GUI Agents across Heterogeneous Platforms, Devices, and Operating Systems",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.17284v1",
+    "archive": "arXiv",
+    "archive_location": "2604.17284",
+    "author": [
+      {
+        "literal": "Chao Jin"
+      },
+      {
+        "literal": "Wenkui Yang"
+      },
+      {
+        "literal": "Hao Sun"
+      },
+      {
+        "literal": "Yuqi Liao"
+      },
+      {
+        "literal": "Qianyi Jiang"
+      },
+      {
+        "literal": "Kai Zhou"
+      },
+      {
+        "literal": "Jie Cao"
+      },
+      {
+        "literal": "Ran He"
+      },
+      {
+        "literal": "Huaibo Huang"
+      }
+    ],
+    "citation-key": "arxiv_2604_17284",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2b102c9363b1be77273c7fab6f7f5cde74157c646671c93b9503770fe60dd70c",
+        "submitted_at": "2026-04-19T06:55:59Z",
+        "updated_at": "2026-04-19T06:55:59Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.17284v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.17284",
+      "catalog_id": "arxiv:2604.17284",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-19",
+      "identifiers": {
+        "arxiv": "2604.17284"
+      },
+      "record_updated_at": "2026-04-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.17284",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-19; Recorded arXiv version: v1; Recorded version updated: 2026-04-19T06:55:59Z.",
+    "title": "HalluClear: Diagnosing, Evaluating and Mitigating Hallucinations in GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.18240v1",
+    "archive": "arXiv",
+    "archive_location": "2604.18240",
+    "author": [
+      {
+        "literal": "Wentao Shi"
+      },
+      {
+        "literal": "Yu Wang"
+      },
+      {
+        "literal": "Yuyang Zhao"
+      },
+      {
+        "literal": "Yuxin Chen"
+      },
+      {
+        "literal": "Fuli Feng"
+      },
+      {
+        "literal": "Xueyuan Hao"
+      },
+      {
+        "literal": "Xi Su"
+      },
+      {
+        "literal": "Qi Gu"
+      },
+      {
+        "literal": "Hui Su"
+      },
+      {
+        "literal": "Xunliang Cai"
+      },
+      {
+        "literal": "Xiangnan He"
+      }
+    ],
+    "citation-key": "arxiv_2604_18240",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "91a9cdb6c8cb124d2e6033f0decc85e0c73bd972984d973ff687bbdc2be21176",
+        "submitted_at": "2026-04-20T13:23:38Z",
+        "updated_at": "2026-04-20T13:23:38Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.18240v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.18240",
+      "catalog_id": "arxiv:2604.18240",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-20",
+      "identifiers": {
+        "arxiv": "2604.18240"
+      },
+      "record_updated_at": "2026-04-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.18240",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-20; Recorded arXiv version: v1; Recorded version updated: 2026-04-20T13:23:38Z.",
+    "title": "AJ-Bench: Benchmarking Agent-as-a-Judge for Environment-Aware Evaluation",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.19742v2",
+    "archive": "arXiv",
+    "archive_location": "2604.19742",
+    "author": [
+      {
+        "literal": "Zhiyuan Peng"
+      },
+      {
+        "literal": "Wei Tao"
+      },
+      {
+        "literal": "Xin Yin"
+      },
+      {
+        "literal": "Chenhao Ying"
+      },
+      {
+        "literal": "Yuan Luo"
+      },
+      {
+        "literal": "Yiwen Guo"
+      }
+    ],
+    "citation-key": "arxiv_2604_19742",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "74ec7a508a815781cc7e721aa6c5e351f086f6cab46da48e22c2b58f52af8ce0",
+        "submitted_at": "2026-04-21T17:59:16Z",
+        "updated_at": "2026-09-29T10:11:48Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2604.19742v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.19742",
+      "catalog_id": "arxiv:2604.19742",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-21",
+      "identifiers": {
+        "arxiv": "2604.19742"
+      },
+      "record_updated_at": "2026-09-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.19742",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          21
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-21; Recorded arXiv version: v2; Recorded version updated: 2026-09-29T10:11:48Z.",
+    "title": "PlayCoder: Making LLM-Generated GUI Code Playable",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.24964v1",
+    "archive": "arXiv",
+    "archive_location": "2604.24964",
+    "author": [
+      {
+        "literal": "Lawrence Keunho Jang"
+      },
+      {
+        "literal": "Jing Yu Koh"
+      },
+      {
+        "literal": "Daniel Fried"
+      },
+      {
+        "literal": "Ruslan Salakhutdinov"
+      }
+    ],
+    "citation-key": "arxiv_2604_24964",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "db70a5736d04d26f10afe3d9a0cfb08955f65f69480a0345ff13b30b2e83df23",
+        "submitted_at": "2026-04-27T20:05:41Z",
+        "updated_at": "2026-04-27T20:05:41Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.24964v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.24964",
+      "catalog_id": "arxiv:2604.24964",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-27",
+      "identifiers": {
+        "arxiv": "2604.24964"
+      },
+      "record_updated_at": "2026-04-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.24964",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-27; Recorded arXiv version: v1; Recorded version updated: 2026-04-27T20:05:41Z.",
+    "title": "Odysseys: Benchmarking Web Agents on Realistic Long Horizon Tasks",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.25380v2",
+    "archive": "arXiv",
+    "archive_location": "2604.25380",
+    "author": [
+      {
+        "literal": "Enqi Liu"
+      },
+      {
+        "literal": "Liyuan Pan"
+      },
+      {
+        "literal": "Zhi Gao"
+      },
+      {
+        "literal": "Yan Yang"
+      },
+      {
+        "literal": "Chenrui Shi"
+      },
+      {
+        "literal": "Yang Liu"
+      },
+      {
+        "literal": "Jingrong Wu"
+      },
+      {
+        "literal": "Qing Li"
+      }
+    ],
+    "citation-key": "arxiv_2604_25380",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "54b49f54319922268ba880a1c1e8a27ffa7597e228b18be04caa1a6952a6456a",
+        "submitted_at": "2026-04-28T08:43:58Z",
+        "updated_at": "2026-05-08T04:29:20Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2604.25380v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.25380",
+      "catalog_id": "arxiv:2604.25380",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-28",
+      "identifiers": {
+        "arxiv": "2604.25380"
+      },
+      "record_updated_at": "2026-05-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.25380",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-28; Recorded arXiv version: v2; Recorded version updated: 2026-05-08T04:29:20Z.",
+    "title": "Benchmarking and Improving GUI Agents in High-Dynamic Environments",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.26148v3",
+    "archive": "arXiv",
+    "archive_location": "2604.26148",
+    "author": [
+      {
+        "literal": "Chen Liang"
+      },
+      {
+        "literal": "Xirui Jiang"
+      },
+      {
+        "literal": "Naihao Deng"
+      },
+      {
+        "literal": "Eytan Adar"
+      },
+      {
+        "literal": "Anhong Guo"
+      }
+    ],
+    "citation-key": "arxiv_2604_26148",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5b572e37eefab40a6a21fa4e4589324380ad9f66873a4da5746fc0f46aaeb1f6",
+        "submitted_at": "2026-04-28T22:15:06Z",
+        "updated_at": "2026-08-11T15:48:53Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2604.26148v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.26148",
+      "catalog_id": "arxiv:2604.26148",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-28",
+      "identifiers": {
+        "arxiv": "2604.26148"
+      },
+      "record_updated_at": "2026-08-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.26148",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-28; Recorded arXiv version: v3; Recorded version updated: 2026-08-11T15:48:53Z.",
+    "title": "Beyond Screenshots: Evaluating VLMs' Understanding of UI Animations",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.27776v1",
+    "archive": "arXiv",
+    "archive_location": "2604.27776",
+    "author": [
+      {
+        "literal": "Jinchao Li"
+      },
+      {
+        "literal": "Yunxin Li"
+      },
+      {
+        "literal": "Chenrui Zhao"
+      },
+      {
+        "literal": "Zhenran Xu"
+      },
+      {
+        "literal": "Baotian Hu"
+      },
+      {
+        "literal": "Min Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2604_27776",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2120860b9c735466a1538ad26c7cda0bc436ab0c6204febdefa08ad66f0036b7",
+        "submitted_at": "2026-04-30T12:13:27Z",
+        "updated_at": "2026-04-30T12:13:27Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.27776v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.27776",
+      "catalog_id": "arxiv:2604.27776",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-30",
+      "identifiers": {
+        "arxiv": "2604.27776"
+      },
+      "record_updated_at": "2026-04-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.27776",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-30; Recorded arXiv version: v1; Recorded version updated: 2026-04-30T12:13:27Z.",
+    "title": "WindowsWorld: A Process-Centric Benchmark of Autonomous GUI Agents in Professional Cross-Application Environments",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.27996v3",
+    "archive": "arXiv",
+    "archive_location": "2604.27996",
+    "author": [
+      {
+        "literal": "Jackson Vonderhorst"
+      },
+      {
+        "literal": "Kuangshi Ai"
+      },
+      {
+        "literal": "Haichao Miao"
+      },
+      {
+        "literal": "Shusen Liu"
+      },
+      {
+        "literal": "Chaoli Wang"
+      }
+    ],
+    "citation-key": "arxiv_2604_27996",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8e7b07a811df7e74a28f91a5b6c59c69b7ba066bd6c64452a299e678a3187733",
+        "submitted_at": "2026-04-30T15:22:28Z",
+        "updated_at": "2026-06-26T20:31:32Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2604.27996v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.27996",
+      "catalog_id": "arxiv:2604.27996",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-30",
+      "identifiers": {
+        "arxiv": "2604.27996"
+      },
+      "record_updated_at": "2026-06-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.27996",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-30; Recorded arXiv version: v3; Recorded version updated: 2026-06-26T20:31:32Z.",
+    "title": "Exploring LLM Agent Designs and Interaction Modalities for Scientific Visualization",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.10347v2",
+    "archive": "arXiv",
+    "archive_location": "2605.10347",
+    "author": [
+      {
+        "literal": "Weikai Xu"
+      },
+      {
+        "literal": "Kun Huang"
+      },
+      {
+        "literal": "Yunren Feng"
+      },
+      {
+        "literal": "Jiaxing Li"
+      },
+      {
+        "literal": "Yuhan Chen"
+      },
+      {
+        "literal": "Yuxuan Liu"
+      },
+      {
+        "literal": "Zhizheng Jiang"
+      },
+      {
+        "literal": "Heng Qu"
+      },
+      {
+        "literal": "Pengzhi Gao"
+      },
+      {
+        "literal": "Wei Liu"
+      },
+      {
+        "literal": "Jian Luan"
+      },
+      {
+        "literal": "Xiaolin Hu"
+      },
+      {
+        "literal": "Bo An"
+      }
+    ],
+    "citation-key": "arxiv_2605_10347",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4374ec1b7c44804bb78ea56bd0aa3214083419f37780d79c5fcfb68468727bbf",
+        "submitted_at": "2026-05-11T10:49:31Z",
+        "updated_at": "2026-05-22T05:43:30Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2605.10347v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.10347",
+      "catalog_id": "arxiv:2605.10347",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-11",
+      "identifiers": {
+        "arxiv": "2605.10347"
+      },
+      "record_updated_at": "2026-05-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.10347",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-11; Recorded arXiv version: v2; Recorded version updated: 2026-05-22T05:43:30Z.",
+    "title": "How Mobile World Model Guides GUI Agents?",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.10966v1",
+    "archive": "arXiv",
+    "archive_location": "2605.10966",
+    "author": [
+      {
+        "literal": "Chiyeong Heo"
+      },
+      {
+        "literal": "Jaechang Kim"
+      },
+      {
+        "literal": "Junhyuk Kwon"
+      },
+      {
+        "literal": "Hoyoung Kim"
+      },
+      {
+        "literal": "Dongmin Park"
+      },
+      {
+        "literal": "Jonghyun Lee"
+      },
+      {
+        "literal": "Jungseul Ok"
+      }
+    ],
+    "citation-key": "arxiv_2605_10966",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0bd75e6bf9d5a8185a2204cdd99d42f9d96c102f7297abcadb9f8425e9246349",
+        "submitted_at": "2026-05-08T10:57:19Z",
+        "updated_at": "2026-05-08T10:57:19Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.10966v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.10966",
+      "catalog_id": "arxiv:2605.10966",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-05-08",
+      "identifiers": {
+        "arxiv": "2605.10966"
+      },
+      "record_updated_at": "2026-05-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.10966",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-08; Recorded arXiv version: v1; Recorded version updated: 2026-05-08T10:57:19Z.",
+    "title": "MMTB: Evaluating Terminal Agents on Multimedia-File Tasks",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.12493v1",
+    "archive": "arXiv",
+    "archive_location": "2605.12493",
+    "author": [
+      {
+        "literal": "Di Wu"
+      },
+      {
+        "literal": "Zixiang Ji"
+      },
+      {
+        "literal": "Asmi Kawatkar"
+      },
+      {
+        "literal": "Bryan Kwan"
+      },
+      {
+        "literal": "Jia-Chen Gu"
+      },
+      {
+        "literal": "Nanyun Peng"
+      },
+      {
+        "literal": "Kai-Wei Chang"
+      }
+    ],
+    "citation-key": "arxiv_2605_12493",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5893d1d9205776667a1e1d89720ec3baf55fafe80cc9c6201ca97088f44a10ac",
+        "submitted_at": "2026-05-12T17:59:34Z",
+        "updated_at": "2026-05-12T17:59:34Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.12493v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.12493",
+      "catalog_id": "arxiv:2605.12493",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-12",
+      "identifiers": {
+        "arxiv": "2605.12493"
+      },
+      "record_updated_at": "2026-05-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.12493",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-12; Recorded arXiv version: v1; Recorded version updated: 2026-05-12T17:59:34Z.",
+    "title": "LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.17656v1",
+    "archive": "arXiv",
+    "archive_location": "2605.17656",
+    "author": [
+      {
+        "literal": "Athar Parvez"
+      },
+      {
+        "literal": "Muhammad Jawad Mufti"
+      },
+      {
+        "literal": "Muqaddas Gull"
+      },
+      {
+        "literal": "Omar Hammad"
+      }
+    ],
+    "citation-key": "arxiv_2605_17656",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ff95e0b071508592190ba236741c1c01200dd38fdc74c31b2cc4d1bf8143ae9c",
+        "submitted_at": "2026-05-17T21:14:32Z",
+        "updated_at": "2026-05-17T21:14:32Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.17656v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.17656",
+      "catalog_id": "arxiv:2605.17656",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-17",
+      "identifiers": {
+        "arxiv": "2605.17656"
+      },
+      "record_updated_at": "2026-05-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.17656",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-17; Recorded arXiv version: v1; Recorded version updated: 2026-05-17T21:14:32Z.",
+    "title": "MUIAnno: An Expert-Annotated Dataset and Evaluation Benchmark for Mobile UI Understanding",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.19769v1",
+    "archive": "arXiv",
+    "archive_location": "2605.19769",
+    "author": [
+      {
+        "literal": "Jinbiao Wei"
+      },
+      {
+        "literal": "Qianran Ma"
+      },
+      {
+        "literal": "Yilun Zhao"
+      },
+      {
+        "literal": "Xiao Zhou"
+      },
+      {
+        "literal": "Kangqi Ni"
+      },
+      {
+        "literal": "Guo Gan"
+      },
+      {
+        "literal": "Arman Cohan"
+      }
+    ],
+    "citation-key": "arxiv_2605_19769",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0a93d880793018d1b47a39e0487e3be76550fd2b49de9535b2913e9f08159074",
+        "submitted_at": "2026-05-19T12:40:29Z",
+        "updated_at": "2026-05-19T12:40:29Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.19769v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.19769",
+      "catalog_id": "arxiv:2605.19769",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-19",
+      "identifiers": {
+        "arxiv": "2605.19769"
+      },
+      "record_updated_at": "2026-05-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.19769",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-19; Recorded arXiv version: v1; Recorded version updated: 2026-05-19T12:40:29Z.",
+    "title": "OpenComputer: Verifiable Software Worlds for Computer-Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.25160v2",
+    "archive": "arXiv",
+    "archive_location": "2605.25160",
+    "author": [
+      {
+        "literal": "Guohong Liu"
+      },
+      {
+        "literal": "Jialei Ye"
+      },
+      {
+        "literal": "Pengzhi Gao"
+      },
+      {
+        "literal": "Wei Liu"
+      },
+      {
+        "literal": "Jian Luan"
+      },
+      {
+        "literal": "Yunxin Liu"
+      },
+      {
+        "literal": "Yuanchun Li"
+      }
+    ],
+    "citation-key": "arxiv_2605_25160",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "eb40c8bf005d56139d263e1b5dc4553ddcd68522124686b7f0865e6d8d1725ad",
+        "submitted_at": "2026-05-24T16:33:14Z",
+        "updated_at": "2026-06-18T02:24:07Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2605.25160v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.25160",
+      "catalog_id": "arxiv:2605.25160",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-24",
+      "identifiers": {
+        "arxiv": "2605.25160"
+      },
+      "record_updated_at": "2026-06-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.25160",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-24; Recorded arXiv version: v2; Recorded version updated: 2026-06-18T02:24:07Z.",
+    "title": "ScaleWoB: Guiding GUI Agents with Coding Agents via Large-Scale Environmental Synthesis",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.26086v1",
+    "archive": "arXiv",
+    "archive_location": "2605.26086",
+    "author": [
+      {
+        "literal": "Yusong Lin"
+      },
+      {
+        "literal": "Xinyuan Liang"
+      },
+      {
+        "literal": "Haiyang Wang"
+      },
+      {
+        "literal": "Qipeng Gu"
+      },
+      {
+        "literal": "Siqi Cheng"
+      },
+      {
+        "literal": "Jiangui Chen"
+      },
+      {
+        "literal": "Shuzhe Wu"
+      },
+      {
+        "literal": "Feiyang Pan"
+      },
+      {
+        "literal": "Lue Fan"
+      },
+      {
+        "literal": "Sanyuan Zhao"
+      },
+      {
+        "literal": "Dandan Tu"
+      }
+    ],
+    "citation-key": "arxiv_2605_26086",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "27999553928305cfa4223011feb3f9c2decda8a861e5800865537a81c7c08832",
+        "submitted_at": "2026-05-25T17:50:04Z",
+        "updated_at": "2026-05-25T17:50:04Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.26086v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.26086",
+      "catalog_id": "arxiv:2605.26086",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-25",
+      "identifiers": {
+        "arxiv": "2605.26086"
+      },
+      "record_updated_at": "2026-05-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.26086",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-25; Recorded arXiv version: v1; Recorded version updated: 2026-05-25T17:50:04Z.",
+    "title": "Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.26114v3",
+    "archive": "arXiv",
+    "archive_location": "2605.26114",
+    "author": [
+      {
+        "literal": "Dingbang Wu"
+      },
+      {
+        "literal": "Rui Hao"
+      },
+      {
+        "literal": "Haiyang Wang"
+      },
+      {
+        "literal": "Shuzhe Wu"
+      },
+      {
+        "literal": "Han Xiao"
+      },
+      {
+        "literal": "Zhenghong Li"
+      },
+      {
+        "literal": "Bojiang Zhou"
+      },
+      {
+        "literal": "Zheng Ju"
+      },
+      {
+        "literal": "Zichen Liu"
+      },
+      {
+        "literal": "Lue Fan"
+      },
+      {
+        "literal": "Zhaoxiang Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2605_26114",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "145c7012fb15a85b203924ecd559c8b20d18b51bf79805a6751fec75d6f68dec",
+        "submitted_at": "2026-05-25T17:59:49Z",
+        "updated_at": "2026-09-23T17:59:57Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2605.26114v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.26114",
+      "catalog_id": "arxiv:2605.26114",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-25",
+      "identifiers": {
+        "arxiv": "2605.26114"
+      },
+      "record_updated_at": "2026-09-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.26114",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-25; Recorded arXiv version: v3; Recorded version updated: 2026-09-23T17:59:57Z.",
+    "title": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.26144v4",
+    "archive": "arXiv",
+    "archive_location": "2605.26144",
+    "author": [
+      {
+        "literal": "JunJia Guo"
+      },
+      {
+        "literal": "Yuhang Yao"
+      },
+      {
+        "literal": "Chang Li"
+      },
+      {
+        "literal": "Zimeng Pan"
+      },
+      {
+        "literal": "Jiawei"
+      },
+      {
+        "literal": "Zhou"
+      },
+      {
+        "literal": "Jingdi Chen"
+      }
+    ],
+    "citation-key": "arxiv_2605_26144",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "64f8e09fc62f080a75aec1928b82187063cfc3ad8467290608347622410b6460",
+        "submitted_at": "2026-05-22T20:29:12Z",
+        "updated_at": "2026-09-29T00:12:17Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2605.26144v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.26144",
+      "catalog_id": "arxiv:2605.26144",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-05-22",
+      "identifiers": {
+        "arxiv": "2605.26144"
+      },
+      "record_updated_at": "2026-09-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.26144",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-22; Recorded arXiv version: v4; Recorded version updated: 2026-09-29T00:12:17Z.",
+    "title": "VISTA: An End-to-End Benchmark for Visual Spec-to-Web-App Coding Agents",
+    "type": "article",
+    "version": "4"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.29486v3",
+    "archive": "arXiv",
+    "archive_location": "2605.29486",
+    "author": [
+      {
+        "literal": "Yuxuan Liu"
+      },
+      {
+        "literal": "Xin Lai"
+      },
+      {
+        "literal": "Junyi Li"
+      },
+      {
+        "literal": "Pengyuan Lyu"
+      },
+      {
+        "literal": "Jason"
+      },
+      {
+        "literal": "Yiduo Guo"
+      },
+      {
+        "literal": "Zhengyao Fang"
+      },
+      {
+        "literal": "Yang Ding"
+      },
+      {
+        "literal": "Yi Zhang"
+      },
+      {
+        "literal": "Weinong Wang"
+      },
+      {
+        "literal": "Huawen Shen"
+      },
+      {
+        "literal": "Xingran Zhou"
+      },
+      {
+        "literal": "Liang Wu"
+      },
+      {
+        "literal": "Fei Tang"
+      },
+      {
+        "literal": "Sunqi Fan"
+      },
+      {
+        "literal": "Shangpin Peng"
+      },
+      {
+        "literal": "Zheng Ruan"
+      },
+      {
+        "literal": "Anran Zhang"
+      },
+      {
+        "literal": "Chengquan Zhang"
+      },
+      {
+        "literal": "Han Hu"
+      },
+      {
+        "literal": "Benyou Wang"
+      },
+      {
+        "literal": "Ji-Rong Wen"
+      },
+      {
+        "literal": "Rui Yan"
+      },
+      {
+        "literal": "Zhengyang Tang"
+      }
+    ],
+    "citation-key": "arxiv_2605_29486",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a41cb1a93e6aa6ba8fbc7dca55415577ab5880a6592e9b0bee5b12b5a7732cbf",
+        "submitted_at": "2026-05-28T07:14:15Z",
+        "updated_at": "2026-09-28T15:27:12Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2605.29486v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.29486",
+      "catalog_id": "arxiv:2605.29486",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-28",
+      "identifiers": {
+        "arxiv": "2605.29486"
+      },
+      "record_updated_at": "2026-09-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.29486",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-28; Recorded arXiv version: v3; Recorded version updated: 2026-09-28T15:27:12Z.",
+    "title": "PhoneWorld: From Real-App Trajectories to Dynamic and Verifiable Environments for Phone-Use Agents",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.03103v1",
+    "archive": "arXiv",
+    "archive_location": "2606.03103",
+    "author": [
+      {
+        "literal": "Wenkai Wang"
+      },
+      {
+        "literal": "Tao Xiong"
+      },
+      {
+        "literal": "Jingchen Ni"
+      },
+      {
+        "literal": "Yunpeng Bao"
+      },
+      {
+        "literal": "Xiyun Li"
+      },
+      {
+        "literal": "Tianqi Liu"
+      },
+      {
+        "literal": "Hongcan Guo"
+      },
+      {
+        "literal": "Zilong Huang"
+      },
+      {
+        "literal": "Shengyu Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2606_03103",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "bf0fcafeb2d40e489ec80784a3541114b02c6a9077a330265d5c49775eca4582",
+        "submitted_at": "2026-06-02T03:42:34Z",
+        "updated_at": "2026-06-02T03:42:34Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.03103v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.03103",
+      "catalog_id": "arxiv:2606.03103",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-02",
+      "identifiers": {
+        "arxiv": "2606.03103"
+      },
+      "record_updated_at": "2026-06-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.03103",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-02; Recorded arXiv version: v1; Recorded version updated: 2026-06-02T03:42:34Z.",
+    "title": "DeskCraft: Benchmarking Desktop Agents on Professional Workflows and Human-in-the-Loop Collaboration",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2606.09426v3",
@@ -20299,6 +23695,79 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2606.28480v1",
+    "archive": "arXiv",
+    "archive_location": "2606.28480",
+    "author": [
+      {
+        "literal": "Shoufa Chen"
+      },
+      {
+        "literal": "Luyuan Wang"
+      },
+      {
+        "literal": "Xuan Yang"
+      },
+      {
+        "literal": "Zhiheng Liu"
+      },
+      {
+        "literal": "Yuren Cong"
+      },
+      {
+        "literal": "Yuanfeng Ji"
+      },
+      {
+        "literal": "Feiyan Zhou"
+      },
+      {
+        "literal": "Xiaohui Zhang"
+      },
+      {
+        "literal": "Fanny Yang"
+      },
+      {
+        "literal": "Belinda Zeng"
+      }
+    ],
+    "citation-key": "arxiv_2606_28480",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6164c42541650e5120adc881b19524cb3b268f08d6eb77fbe91d8c1a02823786",
+        "submitted_at": "2026-06-26T17:59:51Z",
+        "updated_at": "2026-06-26T17:59:51Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.28480v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.28480",
+      "catalog_id": "arxiv:2606.28480",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-06-26",
+      "identifiers": {
+        "arxiv": "2606.28480"
+      },
+      "record_updated_at": "2026-06-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.28480",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-26; Recorded arXiv version: v1; Recorded version updated: 2026-06-26T17:59:51Z.",
+    "title": "TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2606.29472v1",
     "archive": "arXiv",
     "archive_location": "2606.29472",
@@ -20561,6 +24030,119 @@
     "title": "DigitalCoach: Communication and Grounding Gaps in Human and Agentic Computer Use Coaching",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.05120v1",
+    "archive": "arXiv",
+    "archive_location": "2607.05120",
+    "author": [
+      {
+        "literal": "Woohyuk Choi"
+      },
+      {
+        "literal": "Juhee Kim"
+      },
+      {
+        "literal": "Taehyun Kang"
+      },
+      {
+        "literal": "Jihyeon Jeong"
+      },
+      {
+        "literal": "Luyi Xing"
+      },
+      {
+        "literal": "Byoungyoung Lee"
+      }
+    ],
+    "citation-key": "arxiv_2607_05120",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c5fb30b8be2c6e452471e6398720291ec59a2c5ef96e64baca0735fb01b7a12e",
+        "submitted_at": "2026-07-06T14:07:49Z",
+        "updated_at": "2026-07-06T14:07:49Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2607.05120v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.05120",
+      "catalog_id": "arxiv:2607.05120",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-06",
+      "identifiers": {
+        "arxiv": "2607.05120"
+      },
+      "record_updated_at": "2026-07-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.05120",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-06; Recorded arXiv version: v1; Recorded version updated: 2026-07-06T14:07:49Z.",
+    "title": "Agent Data Injection Attacks are Realistic Threats to AI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.10608v1",
+    "archive": "arXiv",
+    "archive_location": "2607.10608",
+    "author": [
+      {
+        "literal": "Yixiong Chen"
+      },
+      {
+        "literal": "Xinyi Bai"
+      },
+      {
+        "literal": "Alan Yuille"
+      }
+    ],
+    "citation-key": "arxiv_2607_10608",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0473ced7881ed2007aa49c2767860c33719d5bf1c798dfe4771a4061b13d655e",
+        "submitted_at": "2026-07-12T07:05:31Z",
+        "updated_at": "2026-07-12T07:05:31Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2607.10608v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.10608",
+      "catalog_id": "arxiv:2607.10608",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-12",
+      "identifiers": {
+        "arxiv": "2607.10608"
+      },
+      "record_updated_at": "2026-07-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.10608",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-12; Recorded arXiv version: v1; Recorded version updated: 2026-07-12T07:05:31Z.",
+    "title": "The Compliance Trap: Diagnosing How AI Agents Consume Conflicting Memory",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2607.17050v1",
@@ -21087,6 +24669,70 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2608.11434v1",
+    "archive": "arXiv",
+    "archive_location": "2608.11434",
+    "author": [
+      {
+        "literal": "Ziqiang Wang"
+      },
+      {
+        "literal": "Li Gu"
+      },
+      {
+        "literal": "Zhixiang Chi"
+      },
+      {
+        "literal": "Zhi Liu"
+      },
+      {
+        "literal": "Seyed Mehdi Ayyoubzadeh"
+      },
+      {
+        "literal": "Yuanhao Yu"
+      },
+      {
+        "literal": "Yang Wang"
+      }
+    ],
+    "citation-key": "arxiv_2608_11434",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a2606ae96ca3ea99b5c7278485601f9bde3b64eefdd3bfecc2bbfc678c39b4fc",
+        "submitted_at": "2026-08-11T21:00:46Z",
+        "updated_at": "2026-08-11T21:00:46Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2608.11434v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.11434",
+      "catalog_id": "arxiv:2608.11434",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-08-11",
+      "identifiers": {
+        "arxiv": "2608.11434"
+      },
+      "record_updated_at": "2026-08-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.11434",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-11; Recorded arXiv version: v1; Recorded version updated: 2026-08-11T21:00:46Z.",
+    "title": "Benchmarking LLM Judges for Mobile Agent Evaluation",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2608.17659v1",
     "archive": "arXiv",
     "archive_location": "2608.17659",
@@ -21436,6 +25082,55 @@
     "title": "ADeptS-Bench: Measuring the Trustworthiness of Computer Use Agents Across Devices",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2608.26991v1",
+    "archive": "arXiv",
+    "archive_location": "2608.26991",
+    "author": [
+      {
+        "literal": "Rui Xie"
+      },
+      {
+        "literal": "Lu Chen"
+      }
+    ],
+    "citation-key": "arxiv_2608_26991",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e1626d5190f145c668c9b7f363b7f84904c12daae485e63b858e440ded5ea6df",
+        "submitted_at": "2026-08-27T11:38:19Z",
+        "updated_at": "2026-08-27T11:38:19Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2608.26991v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.26991",
+      "catalog_id": "arxiv:2608.26991",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-08-27",
+      "identifiers": {
+        "arxiv": "2608.26991"
+      },
+      "record_updated_at": "2026-08-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.26991",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-27; Recorded arXiv version: v1; Recorded version updated: 2026-08-27T11:38:19Z.",
+    "title": "ASIL: Replacing Screenshot-and-Click with Structured State and Semantic Actions",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2608.27808v1",

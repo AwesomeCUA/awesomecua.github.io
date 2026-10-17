@@ -1,0 +1,100 @@
+{
+  "id": "arxiv:2602.14337",
+  "citation-key": "arxiv_2602_14337",
+  "type": "article",
+  "title": "LongCLI-Bench: A Preliminary Benchmark and Study for Long-horizon Agentic Programming in Command-Line Interfaces",
+  "URL": "https://arxiv.org/abs/2602.14337v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.14337",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.14337",
+    "identifiers": {
+      "arxiv": "2602.14337"
+    },
+    "first_published_at": "2026-02-15",
+    "record_updated_at": "2026-02-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "54a58bfdd017c1bf1fdfb26f2ffe0c22e0f1f65ed0af0b605fbefc462d7350df",
+      "submitted_at": "2026-02-15T23:12:57Z",
+      "updated_at": "2026-02-26T11:54:11Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.14337v2"
+    }
+  },
+  "note": "First published: 2026-02-15; Recorded arXiv version: v2; Recorded version updated: 2026-02-26T11:54:11Z.",
+  "author": [
+    {
+      "literal": "Yukang Feng"
+    },
+    {
+      "literal": "Jianwen Sun"
+    },
+    {
+      "literal": "Zelai Yang"
+    },
+    {
+      "literal": "Jiaxin Ai"
+    },
+    {
+      "literal": "Chuanhao Li"
+    },
+    {
+      "literal": "Zizhen Li"
+    },
+    {
+      "literal": "Fanrui Zhang"
+    },
+    {
+      "literal": "Kang He"
+    },
+    {
+      "literal": "Rui Ma"
+    },
+    {
+      "literal": "Jifan Lin"
+    },
+    {
+      "literal": "Jie Sun"
+    },
+    {
+      "literal": "Yang Xiao"
+    },
+    {
+      "literal": "Sizhuo Zhou"
+    },
+    {
+      "literal": "Wenxiao Wu"
+    },
+    {
+      "literal": "Yiming Liu"
+    },
+    {
+      "literal": "Pengfei Liu"
+    },
+    {
+      "literal": "Yu Qiao"
+    },
+    {
+      "literal": "Shenglin Zhang"
+    },
+    {
+      "literal": "Kaipeng Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.14337",
+  "genre": "preprint",
+  "version": "2"
+}

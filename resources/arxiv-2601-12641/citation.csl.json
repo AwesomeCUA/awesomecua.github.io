@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2601.12641",
+  "citation-key": "arxiv_2601_12641",
+  "type": "article",
+  "title": "STEP-LLM: Generating CAD STEP Models from Natural Language with Large Language Models",
+  "URL": "https://arxiv.org/abs/2601.12641v2",
+  "custom": {
+    "catalog_id": "arxiv:2601.12641",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.12641",
+    "identifiers": {
+      "arxiv": "2601.12641"
+    },
+    "first_published_at": "2026-01-19",
+    "record_updated_at": "2026-09-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cce08a032b452aa30b0d71a171612ad3cde2a57c344953e2fb2c8f69694c2f09",
+      "submitted_at": "2026-01-19T01:10:49Z",
+      "updated_at": "2026-09-27T07:54:34Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2601.12641v2"
+    }
+  },
+  "note": "First published: 2026-01-19; Recorded arXiv version: v2; Recorded version updated: 2026-09-27T07:54:34Z.",
+  "author": [
+    {
+      "literal": "Xiangyu Shi"
+    },
+    {
+      "literal": "Junyang Ding"
+    },
+    {
+      "literal": "Xu Zhao"
+    },
+    {
+      "literal": "Sinong Zhan"
+    },
+    {
+      "literal": "Payal Mohapatra"
+    },
+    {
+      "literal": "Daniel Quispe"
+    },
+    {
+      "literal": "Kojo Welbeck"
+    },
+    {
+      "literal": "Jian Cao"
+    },
+    {
+      "literal": "Wei Chen"
+    },
+    {
+      "literal": "Ping Guo"
+    },
+    {
+      "literal": "Qi Zhu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.12641",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,6 +1,6 @@
 # A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions
 
-Survey of research directions in GUI or computer-use agents.
+Reviews 87 computer-use agents and 33 datasets through a taxonomy of operating domain, observation and action modalities, and agent design.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2501-16150/
 - Original source: https://arxiv.org/abs/2501.16150

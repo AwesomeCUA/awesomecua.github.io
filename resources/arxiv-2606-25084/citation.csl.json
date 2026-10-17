@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2606.25084",
+  "citation-key": "arxiv_2606_25084",
+  "type": "article",
+  "title": "Are We There Yet? Exploring the Capabilities of MLLMs in Assistive AI Applications",
+  "URL": "https://arxiv.org/abs/2606.25084v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.25084",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.25084",
+    "identifiers": {
+      "arxiv": "2606.25084"
+    },
+    "first_published_at": "2026-06-23",
+    "record_updated_at": "2026-06-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "358de1e89a85d6e1112824adb40b53e6a0e98cc13af5da6bf189c28f5d83eabe",
+      "submitted_at": "2026-06-23T18:44:59Z",
+      "updated_at": "2026-06-23T18:44:59Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.25084v1"
+    }
+  },
+  "note": "First published: 2026-06-23; Recorded arXiv version: v1; Recorded version updated: 2026-06-23T18:44:59Z.",
+  "author": [
+    {
+      "literal": "Shayon Dasgupta"
+    },
+    {
+      "literal": "Avijit Dasgupta"
+    },
+    {
+      "literal": "C. V. Jawahar"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.25084",
+  "genre": "preprint",
+  "version": "1"
+}

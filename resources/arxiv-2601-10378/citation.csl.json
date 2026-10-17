@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2601.10378",
+  "citation-key": "arxiv_2601_10378",
+  "type": "article",
+  "title": "Global Context Compression with Interleaved Vision-Text Transformation",
+  "URL": "https://arxiv.org/abs/2601.10378v2",
+  "custom": {
+    "catalog_id": "arxiv:2601.10378",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.10378",
+    "identifiers": {
+      "arxiv": "2601.10378"
+    },
+    "first_published_at": "2026-01-15",
+    "record_updated_at": "2026-01-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1c9b53f5ff5d058eea463550ad404d1e16cdf60d55473bc032a5143ebd5e29ab",
+      "submitted_at": "2026-01-15T13:29:16Z",
+      "updated_at": "2026-01-17T02:11:12Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2601.10378v2"
+    }
+  },
+  "note": "First published: 2026-01-15; Recorded arXiv version: v2; Recorded version updated: 2026-01-17T02:11:12Z.",
+  "author": [
+    {
+      "literal": "Dian Jiao"
+    },
+    {
+      "literal": "Jiaxin Duan"
+    },
+    {
+      "literal": "Shuai Zhao"
+    },
+    {
+      "literal": "Jiabing Leng"
+    },
+    {
+      "literal": "Yiran Zhang"
+    },
+    {
+      "literal": "Feng Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.10378",
+  "genre": "preprint",
+  "version": "2"
+}

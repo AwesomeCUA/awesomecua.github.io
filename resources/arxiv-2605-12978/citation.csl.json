@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2605.12978",
+  "citation-key": "arxiv_2605_12978",
+  "type": "article",
+  "title": "Useful Memories Become Faulty When Continuously Updated by LLMs",
+  "URL": "https://arxiv.org/abs/2605.12978v2",
+  "custom": {
+    "catalog_id": "arxiv:2605.12978",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.12978",
+    "identifiers": {
+      "arxiv": "2605.12978"
+    },
+    "first_published_at": "2026-05-13",
+    "record_updated_at": "2026-08-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bcaffe303a8eeecbd60973ec8ed635f8a7bbe0eca7c1024d5de1063265010f69",
+      "submitted_at": "2026-05-13T04:15:50Z",
+      "updated_at": "2026-08-29T19:20:59Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2605.12978v2"
+    }
+  },
+  "note": "First published: 2026-05-13; Recorded arXiv version: v2; Recorded version updated: 2026-08-29T19:20:59Z.",
+  "author": [
+    {
+      "literal": "Dylan Zhang"
+    },
+    {
+      "literal": "Yanshan Lin"
+    },
+    {
+      "literal": "Zhengkun Wu"
+    },
+    {
+      "literal": "Yihang Sun"
+    },
+    {
+      "literal": "Bingxuan Li"
+    },
+    {
+      "literal": "Dianqi Li"
+    },
+    {
+      "literal": "Hao Peng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.12978",
+  "genre": "preprint",
+  "version": "2"
+}

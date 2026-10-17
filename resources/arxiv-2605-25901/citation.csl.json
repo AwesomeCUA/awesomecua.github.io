@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2605.25901",
+  "citation-key": "arxiv_2605_25901",
+  "type": "article",
+  "title": "AgentGrounder: Zero-Shot 3D Visual Pointcloud Grounding using Multimodal Language Models",
+  "URL": "https://arxiv.org/abs/2605.25901v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.25901",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.25901",
+    "identifiers": {
+      "arxiv": "2605.25901"
+    },
+    "first_published_at": "2026-05-25",
+    "record_updated_at": "2026-05-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9b4561bb5a3191606ed2cb9682a7ba98fc4ba2f20b75f70728909b3180a72601",
+      "submitted_at": "2026-05-25T14:29:04Z",
+      "updated_at": "2026-05-25T14:29:04Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.25901v1"
+    }
+  },
+  "note": "First published: 2026-05-25; Recorded arXiv version: v1; Recorded version updated: 2026-05-25T14:29:04Z.",
+  "author": [
+    {
+      "literal": "Cuong Huynh"
+    },
+    {
+      "literal": "Maxim Popov"
+    },
+    {
+      "literal": "Denis Gridusov"
+    },
+    {
+      "literal": "Sergey Kolyubin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.25901",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2601.07375",
+  "citation-key": "arxiv_2601_07375",
+  "type": "article",
+  "title": "GROKE: Vision-Free Navigation Instruction Evaluation via Graph Reasoning on OpenStreetMap",
+  "URL": "https://arxiv.org/abs/2601.07375v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.07375",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.07375",
+    "identifiers": {
+      "arxiv": "2601.07375"
+    },
+    "first_published_at": "2026-01-12",
+    "record_updated_at": "2026-01-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "68ed822691ecce2f44155653dd7ba80d2ab9e389ed5178bf6e1bc74f69edfc21",
+      "submitted_at": "2026-01-12T09:56:47Z",
+      "updated_at": "2026-01-12T09:56:47Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.07375v1"
+    }
+  },
+  "note": "First published: 2026-01-12; Recorded arXiv version: v1; Recorded version updated: 2026-01-12T09:56:47Z.",
+  "author": [
+    {
+      "literal": "Farzad Shami"
+    },
+    {
+      "literal": "Subhrasankha Dey"
+    },
+    {
+      "literal": "Nico Van de Weghe"
+    },
+    {
+      "literal": "Henrikki Tenkanen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.07375",
+  "genre": "preprint",
+  "version": "1"
+}

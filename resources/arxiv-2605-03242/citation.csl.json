@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2605.03242",
+  "citation-key": "arxiv_2605_03242",
+  "type": "article",
+  "title": "Enhancing Agent Safety Judgment: Controlled Benchmark Rewriting and Analogical Reasoning for Deceptive Out-of-Distribution Scenarios",
+  "URL": "https://arxiv.org/abs/2605.03242v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.03242",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.03242",
+    "identifiers": {
+      "arxiv": "2605.03242"
+    },
+    "first_published_at": "2026-05-05",
+    "record_updated_at": "2026-05-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c779d299b31c53eb87285988bc950d9f3e9884d6b61ff6f31946ac21d6422df2",
+      "submitted_at": "2026-05-05T00:21:00Z",
+      "updated_at": "2026-05-05T00:21:00Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.03242v1"
+    }
+  },
+  "note": "First published: 2026-05-05; Recorded arXiv version: v1; Recorded version updated: 2026-05-05T00:21:00Z.",
+  "author": [
+    {
+      "literal": "Zuoyu Zhang"
+    },
+    {
+      "literal": "Yancheng Zhu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.03242",
+  "genre": "preprint",
+  "version": "1"
+}

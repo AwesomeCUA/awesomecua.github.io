@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2609.34428",
+  "citation-key": "arxiv_2609_34428",
+  "type": "article",
+  "title": "AgentHop: A Diagnostic Benchmark for Agentic Multi-Hop Scientific Question Answering",
+  "URL": "https://arxiv.org/abs/2609.34428v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.34428",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.34428",
+    "identifiers": {
+      "arxiv": "2609.34428"
+    },
+    "first_published_at": "2026-09-28",
+    "record_updated_at": "2026-09-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "beabbfc9e6f81da198650fd25ed0501309d0812b55a3fdc17ff480070c03a995",
+      "submitted_at": "2026-09-28T06:45:01Z",
+      "updated_at": "2026-09-28T06:45:01Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.34428v1"
+    }
+  },
+  "note": "First published: 2026-09-28; Recorded arXiv version: v1; Recorded version updated: 2026-09-28T06:45:01Z.",
+  "author": [
+    {
+      "literal": "Chanhee Park"
+    },
+    {
+      "literal": "Jeongho Yoon"
+    },
+    {
+      "literal": "Sungbin Han"
+    },
+    {
+      "literal": "Hyeonseok Moon"
+    },
+    {
+      "literal": "Heuiseok Lim"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.34428",
+  "genre": "preprint",
+  "version": "1"
+}

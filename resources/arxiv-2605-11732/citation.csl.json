@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2605.11732",
+  "citation-key": "arxiv_2605_11732",
+  "type": "article",
+  "title": "AgentDisCo: Towards Disentanglement and Collaboration in Open-ended Deep Research Agents",
+  "URL": "https://arxiv.org/abs/2605.11732v2",
+  "custom": {
+    "catalog_id": "arxiv:2605.11732",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.11732",
+    "identifiers": {
+      "arxiv": "2605.11732"
+    },
+    "first_published_at": "2026-05-12",
+    "record_updated_at": "2026-06-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b3fe14d99cff94053606e8bad185dac5f57e098d7c57463b7bef301d1ed420f8",
+      "submitted_at": "2026-05-12T08:14:15Z",
+      "updated_at": "2026-06-04T05:47:57Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2605.11732v2"
+    }
+  },
+  "note": "First published: 2026-05-12; Recorded arXiv version: v2; Recorded version updated: 2026-06-04T05:47:57Z.",
+  "author": [
+    {
+      "literal": "Jiarui Jin"
+    },
+    {
+      "literal": "Zexuan Yan"
+    },
+    {
+      "literal": "Shijian Wang"
+    },
+    {
+      "literal": "Wenxiang Jiao"
+    },
+    {
+      "literal": "Yuan Lu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.11732",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2602.16666",
+  "citation-key": "arxiv_2602_16666",
+  "type": "article",
+  "title": "Towards a Science of AI Agent Reliability",
+  "URL": "https://arxiv.org/abs/2602.16666v3",
+  "custom": {
+    "catalog_id": "arxiv:2602.16666",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.16666",
+    "identifiers": {
+      "arxiv": "2602.16666"
+    },
+    "first_published_at": "2026-02-18",
+    "record_updated_at": "2026-06-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e2c0c133a0a57157b80e12b27d03000cd43a667ec8f74d0c04520ae30f2043ab",
+      "submitted_at": "2026-02-18T18:05:44Z",
+      "updated_at": "2026-06-02T02:15:05Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2602.16666v3"
+    }
+  },
+  "note": "First published: 2026-02-18; Recorded arXiv version: v3; Recorded version updated: 2026-06-02T02:15:05Z.",
+  "author": [
+    {
+      "literal": "Stephan Rabanser"
+    },
+    {
+      "literal": "Sayash Kapoor"
+    },
+    {
+      "literal": "Peter Kirgis"
+    },
+    {
+      "literal": "Kangheng Liu"
+    },
+    {
+      "literal": "Saiteja Utpala"
+    },
+    {
+      "literal": "Arvind Narayanan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.16666",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2610.20424",
+  "citation-key": "arxiv_2610_20424",
+  "type": "article",
+  "title": "BizBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business",
+  "URL": "https://arxiv.org/abs/2610.20424v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.20424",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.20424",
+    "identifiers": {
+      "arxiv": "2610.20424"
+    },
+    "first_published_at": "2026-10-14",
+    "record_updated_at": "2026-10-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "def8955ca17baaaa4520d6fcb4b5900406c5dffcfe11b9c4aa7a0c2a0ac5b573",
+      "submitted_at": "2026-10-14T16:16:51Z",
+      "updated_at": "2026-10-14T16:16:51Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.20424v1"
+    }
+  },
+  "note": "First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T16:16:51Z.",
+  "author": [
+    {
+      "literal": "Enhan Zhao"
+    },
+    {
+      "literal": "Yongqi Tong"
+    },
+    {
+      "literal": "Xuejun Yu"
+    },
+    {
+      "literal": "Hang Wang"
+    },
+    {
+      "literal": "Pan Wang"
+    },
+    {
+      "literal": "Yichao Wang"
+    },
+    {
+      "literal": "Di He"
+    },
+    {
+      "literal": "Jianshe Li"
+    },
+    {
+      "literal": "Wei Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.20424",
+  "genre": "preprint",
+  "version": "1"
+}

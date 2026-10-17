@@ -1,0 +1,150 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "availability": "Ungated annotation files and multipart image-archive manifest.",
+    "dataset_profile": {
+      "counts": [
+        {
+          "basis": "reported",
+          "evidence_url": "https://raw.githubusercontent.com/TongUI-agent/TongUI-agent/HEAD/docs/train.md",
+          "population": "TongUI-collected GUI-Net-1M data, excluding added external mixtures",
+          "qualifier": "approximately",
+          "unit": "training trajectories",
+          "value": 1000000
+        }
+      ],
+      "evidence_urls": [
+        "https://huggingface.co/datasets/Bofeee5675/GUI-Net-1M/raw/main/README.md",
+        "https://raw.githubusercontent.com/TongUI-agent/TongUI-agent/HEAD/docs/train.md"
+      ],
+      "formats": [
+        "JSON annotations",
+        "multipart image archives"
+      ],
+      "modalities": [
+        "text",
+        "screenshots"
+      ],
+      "notes": "The source reports an approximate trajectory total; it does not establish per-platform counts or a complete test-split inventory.",
+      "splits": [
+        "training collection"
+      ],
+      "supervision": [
+        "GUI trajectory supervision from multimodal tutorials"
+      ]
+    },
+    "download_url": null,
+    "languages": [],
+    "license_review": {
+      "data": {
+        "evidence_urls": [
+          "https://huggingface.co/datasets/Bofeee5675/GUI-Net-1M/raw/main/README.md"
+        ],
+        "reason": "Publisher declaration for this dataset packaging; original web/tutorial materials retain applicable rights."
+      }
+    },
+    "modalities": [],
+    "release_revision": "60d1e644fcff7d3b62093baec03fe7efeb0d98a1",
+    "sample_count": null,
+    "sample_unit": null
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:30:54Z",
+      "role": "primary",
+      "sha256": "f30a18d1a533b8f71f436dae2ee7369f8971422bd76527e069499c5bba911912",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "topics",
+        "scope",
+        "notes",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/TongUI-agent/TongUI-agent/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:32:07Z",
+      "role": "primary",
+      "sha256": "314a77eb0ba43bedffbe6869601e41aea41993eaca59d86ba346652c853802d2",
+      "supports": [
+        "identity",
+        "release_status",
+        "details.release_revision",
+        "details.dataset_profile.formats"
+      ],
+      "url": "https://huggingface.co/api/datasets/Bofeee5675/GUI-Net-1M"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:36:55Z",
+      "role": "primary",
+      "sha256": "b51acb70c95d079ccbe1de0a685ad7c8a4b3b5bed11e6162e6f7c2f60d78805e",
+      "supports": [
+        "summary",
+        "details.dataset_profile"
+      ],
+      "url": "https://raw.githubusercontent.com/TongUI-agent/TongUI-agent/HEAD/docs/train.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:32:07Z",
+      "role": "primary",
+      "sha256": "c2df5c3a6dd576ae53f0dc0f72ecab07d93ed034b04336abd2072a6f0d812c64",
+      "supports": [
+        "licenses.data",
+        "details.dataset_profile.formats",
+        "notes"
+      ],
+      "url": "https://huggingface.co/datasets/Bofeee5675/GUI-Net-1M/raw/main/README.md"
+    }
+  ],
+  "id": "url:8c9aaafb918aaf8b4e92",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-17T12:30:54Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "Publisher declaration for this dataset packaging; original web/tutorial materials retain applicable rights.",
+      "declared": "apache-2.0",
+      "retrieved_at": "2026-10-17T12:32:07Z",
+      "url": "https://huggingface.co/datasets/Bofeee5675/GUI-Net-1M/raw/main/README.md"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/Bofeee5675/GUI-Net-1M"
+    }
+  ],
+  "name": "GUI-Net-1M",
+  "notes": "The ungated manifest lists JSON annotations and multipart image archives. Training documentation describes roughly one million collected training trajectories from Wikihow, Baidu Experience and GUI videos; this is distinct from larger mixtures that add external datasets. Platform-specific distribution and exact row counts were not established from this release metadata. Apache-2.0 is the publisher dataset declaration, without a grant of additional rights to upstream tutorial content. No image archive or example record was downloaded.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/TongUI-agent/TongUI-agent/HEAD/README.md",
+      "target_id": "arxiv:2504.12679",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A TongUI-collected training corpus from multimodal web tutorials, distributed as annotation files and split screenshot archives for GUI trajectory supervision.",
+  "topics": [
+    "data-generation",
+    "grounding",
+    "imitation-learning"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/Bofeee5675/GUI-Net-1M"
+}

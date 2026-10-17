@@ -1,6 +1,6 @@
 # GUI Agents with Foundation Models: A Comprehensive Survey
 
-Survey of research directions in GUI or computer-use agents.
+Survey of (M)LLM-based GUI agents organized around their datasets and benchmarks, a unified agent framework with a taxonomy, and commercial applications.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2411-04890/
 - Original source: https://arxiv.org/abs/2411.04890

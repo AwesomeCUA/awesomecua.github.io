@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2609.39924",
+  "citation-key": "arxiv_2609_39924",
+  "type": "article",
+  "title": "CoVisco: Codec-Native Vision Encoder with Native Token Compression for Unified Image-Video Understanding",
+  "URL": "https://arxiv.org/abs/2609.39924v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.39924",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.39924",
+    "identifiers": {
+      "arxiv": "2609.39924"
+    },
+    "first_published_at": "2026-09-30",
+    "record_updated_at": "2026-09-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "46a466b935dea473ae6aa13fa1c9c24fd74e40c6169616fedd713b2f05dd3e88",
+      "submitted_at": "2026-09-30T15:12:10Z",
+      "updated_at": "2026-09-30T15:12:10Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.39924v1"
+    }
+  },
+  "note": "First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T15:12:10Z.",
+  "author": [
+    {
+      "literal": "Yulong Liu"
+    },
+    {
+      "literal": "Xiaotian Han"
+    },
+    {
+      "literal": "Junyuan Shang"
+    },
+    {
+      "literal": "Yuchen Ding"
+    },
+    {
+      "literal": "Zhenyu Zhang"
+    },
+    {
+      "literal": "Shuohuan Wang"
+    },
+    {
+      "literal": "Guibo Zhu"
+    },
+    {
+      "literal": "Sirui Han"
+    },
+    {
+      "literal": "Dianhai Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.39924",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2604.27621",
+  "citation-key": "arxiv_2604_27621",
+  "type": "article",
+  "title": "Robot Learning from Human Videos: A Survey",
+  "URL": "https://arxiv.org/abs/2604.27621v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.27621",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.27621",
+    "identifiers": {
+      "arxiv": "2604.27621"
+    },
+    "first_published_at": "2026-04-30",
+    "record_updated_at": "2026-04-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0e49df2548e1a8ee6a0ddc06fd6856c9c16314092745044998b9216f8512f332",
+      "submitted_at": "2026-04-30T09:11:25Z",
+      "updated_at": "2026-04-30T09:11:25Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.27621v1"
+    }
+  },
+  "note": "First published: 2026-04-30; Recorded arXiv version: v1; Recorded version updated: 2026-04-30T09:11:25Z.",
+  "author": [
+    {
+      "literal": "Junyi Ma"
+    },
+    {
+      "literal": "Erhang Zhang"
+    },
+    {
+      "literal": "Haoran Yang"
+    },
+    {
+      "literal": "Ditao Li"
+    },
+    {
+      "literal": "Chenyang Xu"
+    },
+    {
+      "literal": "Guangming Wang"
+    },
+    {
+      "literal": "Hesheng Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.27621",
+  "genre": "preprint",
+  "version": "1"
+}

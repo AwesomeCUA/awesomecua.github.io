@@ -1,0 +1,113 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "availability": "Public fine-tuning/evaluation tooling, examples and results viewer.",
+    "license_review": {
+      "code": {
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/McGill-NLP/webllama/HEAD/LICENSE",
+          "https://raw.githubusercontent.com/McGill-NLP/webllama/HEAD/README.md"
+        ],
+        "reason": "README explicitly scopes MIT to code unless a file header states otherwise; models/data/images retain original licenses."
+      }
+    },
+    "repository_revision": "1b7b41327b2222312e07818ce239c04307beaf9b"
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:30:55Z",
+      "role": "primary",
+      "sha256": "121546c7a73f4d7604ae5340bd78856e8170dc8aaa8e57f7e62efcfb85d8d4c9",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "relations",
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/McGill-NLP/webllama/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:30:55Z",
+      "role": "primary",
+      "sha256": "6605b7b09e8be77cce9d5bfd1a6199c2256cbfc1f067b93b2b952c1d19e74f10",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/McGill-NLP/webllama"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:32:06Z",
+      "role": "primary",
+      "sha256": "915620d7a155f5c5fe099cdb0461d9614e1894b38559f0d2f9a6a138afe06212",
+      "supports": [
+        "release_status",
+        "details.repository_revision"
+      ],
+      "url": "https://api.github.com/repos/McGill-NLP/webllama/git/trees/main?recursive=1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:34:10Z",
+      "role": "primary",
+      "sha256": "e69268828e67ffd1d3393a2d3530f97df6deaa0b961039fc971abea28cec8715",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/McGill-NLP/webllama/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:mcgill-nlp/webllama",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-17T12:30:55Z",
+  "licenses": {
+    "code": {
+      "basis": "README explicitly scopes MIT to code unless a file header states otherwise; models/data/images retain original licenses.",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-17T12:34:10Z",
+      "url": "https://raw.githubusercontent.com/McGill-NLP/webllama/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/McGill-NLP/webllama"
+    }
+  ],
+  "name": "WebLlama",
+  "notes": "The manifest contains modeling/training code, BrowserGym examples, documentation and a results viewer. The README distinguishes currently available components from planned additional benchmarks and deployment integrations. It requests citation of WebLINX as the foundation for data, training and evaluation; this is not a claim that the WebLINX paper first introduced every later WebLlama component. MIT applies to repository code, subject to file-header exceptions; weights and datasets have their own terms.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/McGill-NLP/webllama/HEAD/README.md",
+      "target_id": "arxiv:2402.05930",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Training, evaluation and integration tooling for dialogue-guided web agents, including Llama fine-tuning workflows and BrowserGym examples built around WebLINX.",
+  "topics": [
+    "web-navigation",
+    "imitation-learning",
+    "evaluation",
+    "tool-integration"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/McGill-NLP/webllama"
+}

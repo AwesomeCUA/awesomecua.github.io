@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2603.19685",
+  "citation-key": "arxiv_2603_19685",
+  "type": "article",
+  "title": "A Subgoal-driven Framework for Improving Long-Horizon LLM Agents",
+  "URL": "https://arxiv.org/abs/2603.19685v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.19685",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2603.19685",
+    "identifiers": {
+      "arxiv": "2603.19685"
+    },
+    "first_published_at": "2026-03-20",
+    "record_updated_at": "2026-03-20",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5538933a0e3d11df6ff4d767849979703d83412599fbbb0f8b432c4d9850633b",
+      "submitted_at": "2026-03-20T06:32:16Z",
+      "updated_at": "2026-03-20T06:32:16Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.19685v1"
+    }
+  },
+  "note": "First published: 2026-03-20; Recorded arXiv version: v1; Recorded version updated: 2026-03-20T06:32:16Z.",
+  "author": [
+    {
+      "literal": "Taiyi Wang"
+    },
+    {
+      "literal": "Sian Gooding"
+    },
+    {
+      "literal": "Florian Hartmann"
+    },
+    {
+      "literal": "Oriana Riva"
+    },
+    {
+      "literal": "Edward Grefenstette"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.19685",
+  "genre": "preprint",
+  "version": "1"
+}

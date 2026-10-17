@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2608.03451",
+  "citation-key": "arxiv_2608_03451",
+  "type": "article",
+  "title": "DataSpace: Benchmarking Data Agents for Verifiable Analytics over Heterogeneous Workspaces",
+  "URL": "https://arxiv.org/abs/2608.03451v1",
+  "custom": {
+    "catalog_id": "arxiv:2608.03451",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2608.03451",
+    "identifiers": {
+      "arxiv": "2608.03451"
+    },
+    "first_published_at": "2026-08-04",
+    "record_updated_at": "2026-08-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5efeb3630917f517742e9c45aa422e226342fa3c02c8683ce8bf53a66ad121e6",
+      "submitted_at": "2026-08-04T10:48:11Z",
+      "updated_at": "2026-08-04T10:48:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2608.03451v1"
+    }
+  },
+  "note": "First published: 2026-08-04; Recorded arXiv version: v1; Recorded version updated: 2026-08-04T10:48:11Z.",
+  "author": [
+    {
+      "literal": "Boyan Li"
+    },
+    {
+      "literal": "Zhuowen Liang"
+    },
+    {
+      "literal": "Yupeng Xie"
+    },
+    {
+      "literal": "Xiaotian Lin"
+    },
+    {
+      "literal": "Tianqi Luo"
+    },
+    {
+      "literal": "Xinyu Liu"
+    },
+    {
+      "literal": "Yizhang Zhu"
+    },
+    {
+      "literal": "Zhangyang Peng"
+    },
+    {
+      "literal": "Yuan Li"
+    },
+    {
+      "literal": "Zhengxuan Zhang"
+    },
+    {
+      "literal": "Jiayi Zhang"
+    },
+    {
+      "literal": "Nan Tang"
+    },
+    {
+      "literal": "Guoliang Li"
+    },
+    {
+      "literal": "Yuyu Luo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2608.03451",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2602.23166",
+  "citation-key": "arxiv_2602_23166",
+  "type": "article",
+  "title": "AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios",
+  "URL": "https://arxiv.org/abs/2602.23166v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.23166",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.23166",
+    "identifiers": {
+      "arxiv": "2602.23166"
+    },
+    "first_published_at": "2026-02-26",
+    "record_updated_at": "2026-03-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9051a7e95fbb8b024bff4b44d25cb9eb8aec2dfc8a75c2fe812375d0a4c25044",
+      "submitted_at": "2026-02-26T16:30:46Z",
+      "updated_at": "2026-03-02T03:29:34Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.23166v2"
+    }
+  },
+  "note": "First published: 2026-02-26; Recorded arXiv version: v2; Recorded version updated: 2026-03-02T03:29:34Z.",
+  "author": [
+    {
+      "literal": "Zhaochen Su"
+    },
+    {
+      "literal": "Jincheng Gao"
+    },
+    {
+      "literal": "Hangyu Guo"
+    },
+    {
+      "literal": "Zhenhua Liu"
+    },
+    {
+      "literal": "Lueyang Zhang"
+    },
+    {
+      "literal": "Xinyu Geng"
+    },
+    {
+      "literal": "Shijue Huang"
+    },
+    {
+      "literal": "Peng Xia"
+    },
+    {
+      "literal": "Guanyu Jiang"
+    },
+    {
+      "literal": "Cheng Wang"
+    },
+    {
+      "literal": "Yue Zhang"
+    },
+    {
+      "literal": "Yi R. Fung"
+    },
+    {
+      "literal": "Junxian He"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.23166",
+  "genre": "preprint",
+  "version": "2"
+}

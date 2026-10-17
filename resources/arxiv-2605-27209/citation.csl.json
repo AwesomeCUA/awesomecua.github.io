@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2605.27209",
+  "citation-key": "arxiv_2605_27209",
+  "type": "article",
+  "title": "Learning to Act under Noise: Enhancing Agent Robustness via Noisy Environments",
+  "URL": "https://arxiv.org/abs/2605.27209v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.27209",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.27209",
+    "identifiers": {
+      "arxiv": "2605.27209"
+    },
+    "first_published_at": "2026-05-26",
+    "record_updated_at": "2026-05-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9ae5e3ec47891f06acdd2eeb269110a9c75704f8037d0c0fd76b0f363c13bc03",
+      "submitted_at": "2026-05-26T16:02:00Z",
+      "updated_at": "2026-05-26T16:02:00Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.27209v1"
+    }
+  },
+  "note": "First published: 2026-05-26; Recorded arXiv version: v1; Recorded version updated: 2026-05-26T16:02:00Z.",
+  "author": [
+    {
+      "literal": "Yuxin Chen"
+    },
+    {
+      "literal": "Xiaodong Cai"
+    },
+    {
+      "literal": "Junfeng Fang"
+    },
+    {
+      "literal": "Zhuowen Han"
+    },
+    {
+      "literal": "Yu Wang"
+    },
+    {
+      "literal": "Yaorui Shi"
+    },
+    {
+      "literal": "Yi Zhang"
+    },
+    {
+      "literal": "Qi Gu"
+    },
+    {
+      "literal": "Xunliang Cai"
+    },
+    {
+      "literal": "Xiang Wang"
+    },
+    {
+      "literal": "An Zhang"
+    },
+    {
+      "literal": "Tat-Seng Chua"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.27209",
+  "genre": "preprint",
+  "version": "1"
+}

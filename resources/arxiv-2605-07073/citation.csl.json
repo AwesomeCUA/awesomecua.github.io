@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2605.07073",
+  "citation-key": "arxiv_2605_07073",
+  "type": "article",
+  "title": "TeamBench: Evaluating Agent Coordination under Enforced Role Separation",
+  "URL": "https://arxiv.org/abs/2605.07073v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.07073",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.07073",
+    "identifiers": {
+      "arxiv": "2605.07073"
+    },
+    "first_published_at": "2026-05-08",
+    "record_updated_at": "2026-05-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f0855d6ac9734db06790a6a1b5ffa4bce92c1e3abb353c33e9e3d613134b87a8",
+      "submitted_at": "2026-05-08T00:48:45Z",
+      "updated_at": "2026-05-08T00:48:45Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.07073v1"
+    }
+  },
+  "note": "First published: 2026-05-08; Recorded arXiv version: v1; Recorded version updated: 2026-05-08T00:48:45Z.",
+  "author": [
+    {
+      "literal": "Yubin Kim"
+    },
+    {
+      "literal": "Chanwoo Park"
+    },
+    {
+      "literal": "Taehan Kim"
+    },
+    {
+      "literal": "Eugene Park"
+    },
+    {
+      "literal": "Samuel Schmidgall"
+    },
+    {
+      "literal": "Salman Rahman"
+    },
+    {
+      "literal": "Chunjong Park"
+    },
+    {
+      "literal": "Cynthia Breazeal"
+    },
+    {
+      "literal": "Xin Liu"
+    },
+    {
+      "literal": "Hamid Palangi"
+    },
+    {
+      "literal": "Hae Won Park"
+    },
+    {
+      "literal": "Daniel McDuff"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.07073",
+  "genre": "preprint",
+  "version": "1"
+}

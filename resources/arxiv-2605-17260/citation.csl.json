@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2605.17260",
+  "citation-key": "arxiv_2605_17260",
+  "type": "article",
+  "title": "LiteFrame: Efficient Vision Encoders Unlock Frame Scaling in Video LLMs",
+  "URL": "https://arxiv.org/abs/2605.17260v2",
+  "custom": {
+    "catalog_id": "arxiv:2605.17260",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.17260",
+    "identifiers": {
+      "arxiv": "2605.17260"
+    },
+    "first_published_at": "2026-05-17",
+    "record_updated_at": "2026-05-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b535d82bcf32f640c676c3b4d42a79be67beffa276dec4c361bd9d24ab569646",
+      "submitted_at": "2026-05-17T05:02:52Z",
+      "updated_at": "2026-05-23T08:41:12Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2605.17260v2"
+    }
+  },
+  "note": "First published: 2026-05-17; Recorded arXiv version: v2; Recorded version updated: 2026-05-23T08:41:12Z.",
+  "author": [
+    {
+      "literal": "Jihwan Kim"
+    },
+    {
+      "literal": "Nikhil Parthasarathy"
+    },
+    {
+      "literal": "Danfeng Qin"
+    },
+    {
+      "literal": "Junhwa Hur"
+    },
+    {
+      "literal": "Deqing Sun"
+    },
+    {
+      "literal": "Bohyung Han"
+    },
+    {
+      "literal": "Ming-Hsuan Yang"
+    },
+    {
+      "literal": "Boqing Gong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.17260",
+  "genre": "preprint",
+  "version": "2"
+}

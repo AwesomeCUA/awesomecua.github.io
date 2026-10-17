@@ -944,6 +944,73 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2604.21268v1",
+    "archive": "arXiv",
+    "archive_location": "2604.21268",
+    "author": [
+      {
+        "literal": "Wenkai Wang"
+      },
+      {
+        "literal": "Xiyun Li"
+      },
+      {
+        "literal": "Hongcan Guo"
+      },
+      {
+        "literal": "Wenhao Yu"
+      },
+      {
+        "literal": "Tianqing Fang"
+      },
+      {
+        "literal": "Haitao Mi"
+      },
+      {
+        "literal": "Dong Yu"
+      },
+      {
+        "literal": "Shengyu Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2604_21268",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5e15661746ab05f2894e23d28b4675e13919bbcd71407fbc33260d84f330ea5d",
+        "submitted_at": "2026-04-23T04:23:31Z",
+        "updated_at": "2026-04-23T04:23:31Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.21268v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.21268",
+      "catalog_id": "arxiv:2604.21268",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-23",
+      "identifiers": {
+        "arxiv": "2604.21268"
+      },
+      "record_updated_at": "2026-04-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.21268",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-23; Recorded arXiv version: v1; Recorded version updated: 2026-04-23T04:23:31Z.",
+    "title": "Measure Twice, Click Once: Co-evolving Proposer and Visual Critic via Reinforcement Learning for GUI Grounding",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2607.24167v1",
     "archive": "arXiv",
     "archive_location": "2607.24167",

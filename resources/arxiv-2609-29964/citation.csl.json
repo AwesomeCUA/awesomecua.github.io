@@ -1,0 +1,91 @@
+{
+  "id": "arxiv:2609.29964",
+  "citation-key": "arxiv_2609_29964",
+  "type": "article",
+  "title": "World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal",
+  "URL": "https://arxiv.org/abs/2609.29964v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.29964",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.29964",
+    "identifiers": {
+      "arxiv": "2609.29964"
+    },
+    "first_published_at": "2026-09-24",
+    "record_updated_at": "2026-09-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bf2e9c199812a41cea58e01d3cfd4d16da17ba99d92fcb2a9d9230b81d4556af",
+      "submitted_at": "2026-09-24T15:19:39Z",
+      "updated_at": "2026-09-24T15:19:39Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.29964v1"
+    }
+  },
+  "note": "First published: 2026-09-24; Recorded arXiv version: v1; Recorded version updated: 2026-09-24T15:19:39Z.",
+  "author": [
+    {
+      "literal": "Yehang Zhang"
+    },
+    {
+      "literal": "Haojian Huang"
+    },
+    {
+      "literal": "Yifan Chang"
+    },
+    {
+      "literal": "Jianchong Su"
+    },
+    {
+      "literal": "Bohan Zhou"
+    },
+    {
+      "literal": "Yingjie Xu"
+    },
+    {
+      "literal": "Wosong Chen"
+    },
+    {
+      "literal": "Tianhao Zhou"
+    },
+    {
+      "literal": "Chenxu Wang"
+    },
+    {
+      "literal": "Tianyi Zhang"
+    },
+    {
+      "literal": "Yangkai Wei"
+    },
+    {
+      "literal": "Wenqian Li"
+    },
+    {
+      "literal": "Shiyuan Deng"
+    },
+    {
+      "literal": "Yinchuan Li"
+    },
+    {
+      "literal": "Ying-Cong Chen"
+    },
+    {
+      "literal": "Zexi Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.29964",
+  "genre": "preprint",
+  "version": "1"
+}

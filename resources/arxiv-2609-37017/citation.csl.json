@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2609.37017",
+  "citation-key": "arxiv_2609_37017",
+  "type": "article",
+  "title": "LatCom: Cross-Agent Latent Compression for Efficient Multi-Agent Collaboration",
+  "URL": "https://arxiv.org/abs/2609.37017v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.37017",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.37017",
+    "identifiers": {
+      "arxiv": "2609.37017"
+    },
+    "first_published_at": "2026-09-29",
+    "record_updated_at": "2026-09-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "67dbd96dee815b25ef15fa0c83105008bbdb6f60a22c1927244e5b3b019efb98",
+      "submitted_at": "2026-09-29T08:36:55Z",
+      "updated_at": "2026-09-29T08:36:55Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.37017v1"
+    }
+  },
+  "note": "First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T08:36:55Z.",
+  "author": [
+    {
+      "literal": "Shinan Zhang"
+    },
+    {
+      "literal": "Tao Zhang"
+    },
+    {
+      "literal": "Qihui Zhu"
+    },
+    {
+      "literal": "Mengjie Zhang"
+    },
+    {
+      "literal": "Dong Jin"
+    },
+    {
+      "literal": "Yunpeng Hou"
+    },
+    {
+      "literal": "Shuangwu Chen"
+    },
+    {
+      "literal": "Xiaobin Tan"
+    },
+    {
+      "literal": "Quan Zheng"
+    },
+    {
+      "literal": "Jian Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.37017",
+  "genre": "preprint",
+  "version": "1"
+}

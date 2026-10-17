@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2602.13543",
+  "citation-key": "arxiv_2602_13543",
+  "type": "article",
+  "title": "LiveNewsBench: Evaluating LLM Web Search Capabilities with Freshly Curated News",
+  "URL": "https://arxiv.org/abs/2602.13543v1",
+  "custom": {
+    "catalog_id": "arxiv:2602.13543",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.13543",
+    "identifiers": {
+      "arxiv": "2602.13543"
+    },
+    "first_published_at": "2026-02-14",
+    "record_updated_at": "2026-02-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "380b87055cdd9167a2ffcd121dc2ca848fe2c3c6ede34365007ef8c23177e7fb",
+      "submitted_at": "2026-02-14T01:18:51Z",
+      "updated_at": "2026-02-14T01:18:51Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2602.13543v1"
+    }
+  },
+  "note": "First published: 2026-02-14; Recorded arXiv version: v1; Recorded version updated: 2026-02-14T01:18:51Z.",
+  "author": [
+    {
+      "literal": "Yunfan Zhang"
+    },
+    {
+      "literal": "Kathleen McKeown"
+    },
+    {
+      "literal": "Smaranda Muresan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.13543",
+  "genre": "preprint",
+  "version": "1"
+}

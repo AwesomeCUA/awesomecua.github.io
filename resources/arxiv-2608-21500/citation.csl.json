@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2608.21500",
+  "citation-key": "arxiv_2608_21500",
+  "type": "article",
+  "title": "SecOPD: Mitigating Adaptive Prompt Injections by On-Policy Distillation",
+  "URL": "https://arxiv.org/abs/2608.21500v1",
+  "custom": {
+    "catalog_id": "arxiv:2608.21500",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2608.21500",
+    "identifiers": {
+      "arxiv": "2608.21500"
+    },
+    "first_published_at": "2026-08-21",
+    "record_updated_at": "2026-08-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6678ea148a9cd48f3c775bd55ea12ea7ea7cc62a5379c5c509ff4bc49895a4f7",
+      "submitted_at": "2026-08-21T16:14:07Z",
+      "updated_at": "2026-08-21T16:14:07Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2608.21500v1"
+    }
+  },
+  "note": "First published: 2026-08-21; Recorded arXiv version: v1; Recorded version updated: 2026-08-21T16:14:07Z.",
+  "author": [
+    {
+      "literal": "Yibo Peng"
+    },
+    {
+      "literal": "Long Lian"
+    },
+    {
+      "literal": "David Wagner"
+    },
+    {
+      "literal": "Sizhe Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2608.21500",
+  "genre": "preprint",
+  "version": "1"
+}

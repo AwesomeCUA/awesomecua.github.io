@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2605.31264",
+  "citation-key": "arxiv_2605_31264",
+  "type": "article",
+  "title": "COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation",
+  "URL": "https://arxiv.org/abs/2605.31264v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.31264",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.31264",
+    "identifiers": {
+      "arxiv": "2605.31264"
+    },
+    "first_published_at": "2026-05-29",
+    "record_updated_at": "2026-05-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "80034a42d597be3f746bc9698e46697003002946b997da4350ad277110151472",
+      "submitted_at": "2026-05-29T12:59:08Z",
+      "updated_at": "2026-05-29T12:59:08Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.31264v1"
+    }
+  },
+  "note": "First published: 2026-05-29; Recorded arXiv version: v1; Recorded version updated: 2026-05-29T12:59:08Z.",
+  "author": [
+    {
+      "literal": "Tianyi Zhou"
+    },
+    {
+      "literal": "Dongrui Liu"
+    },
+    {
+      "literal": "Leitao Yuan"
+    },
+    {
+      "literal": "Jing Shao"
+    },
+    {
+      "literal": "Xia Hu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.31264",
+  "genre": "preprint",
+  "version": "1"
+}

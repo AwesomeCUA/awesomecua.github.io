@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2604.15671",
+  "citation-key": "arxiv_2604_15671",
+  "type": "article",
+  "title": "Long-Term Memory for VLA-based Agents in Open-World Task Execution",
+  "URL": "https://arxiv.org/abs/2604.15671v2",
+  "custom": {
+    "catalog_id": "arxiv:2604.15671",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.15671",
+    "identifiers": {
+      "arxiv": "2604.15671"
+    },
+    "first_published_at": "2026-04-17",
+    "record_updated_at": "2026-08-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cfa93ec492986399345fc84b1fec5ad0640fe95ebf77bc08421c930a8e95b24c",
+      "submitted_at": "2026-04-17T03:49:41Z",
+      "updated_at": "2026-08-03T03:27:10Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2604.15671v2"
+    }
+  },
+  "note": "First published: 2026-04-17; Recorded arXiv version: v2; Recorded version updated: 2026-08-03T03:27:10Z.",
+  "author": [
+    {
+      "literal": "Xu Huang"
+    },
+    {
+      "literal": "Weixin Mao"
+    },
+    {
+      "literal": "Yinhao Li"
+    },
+    {
+      "literal": "Hua Chen"
+    },
+    {
+      "literal": "Jiabao Zhao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.15671",
+  "genre": "preprint",
+  "version": "2"
+}

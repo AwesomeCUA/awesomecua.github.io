@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2605.26086",
+  "citation-key": "arxiv_2605_26086",
+  "type": "article",
+  "title": "Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World",
+  "URL": "https://arxiv.org/abs/2605.26086v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.26086",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2605.26086",
+    "identifiers": {
+      "arxiv": "2605.26086"
+    },
+    "first_published_at": "2026-05-25",
+    "record_updated_at": "2026-05-25",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "27999553928305cfa4223011feb3f9c2decda8a861e5800865537a81c7c08832",
+      "submitted_at": "2026-05-25T17:50:04Z",
+      "updated_at": "2026-05-25T17:50:04Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.26086v1"
+    }
+  },
+  "note": "First published: 2026-05-25; Recorded arXiv version: v1; Recorded version updated: 2026-05-25T17:50:04Z.",
+  "author": [
+    {
+      "literal": "Yusong Lin"
+    },
+    {
+      "literal": "Xinyuan Liang"
+    },
+    {
+      "literal": "Haiyang Wang"
+    },
+    {
+      "literal": "Qipeng Gu"
+    },
+    {
+      "literal": "Siqi Cheng"
+    },
+    {
+      "literal": "Jiangui Chen"
+    },
+    {
+      "literal": "Shuzhe Wu"
+    },
+    {
+      "literal": "Feiyang Pan"
+    },
+    {
+      "literal": "Lue Fan"
+    },
+    {
+      "literal": "Sanyuan Zhao"
+    },
+    {
+      "literal": "Dandan Tu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.26086",
+  "genre": "preprint",
+  "version": "1"
+}

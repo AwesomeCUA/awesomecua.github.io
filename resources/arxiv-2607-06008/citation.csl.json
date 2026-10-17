@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2607.06008",
+  "citation-key": "arxiv_2607_06008",
+  "type": "article",
+  "title": "PolyWorkBench: Benchmarking LLM Agents for Cross-Lingual Long-Horizon Workflows",
+  "URL": "https://arxiv.org/abs/2607.06008v3",
+  "custom": {
+    "catalog_id": "arxiv:2607.06008",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.06008",
+    "identifiers": {
+      "arxiv": "2607.06008"
+    },
+    "first_published_at": "2026-07-07",
+    "record_updated_at": "2026-08-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b31ef8e43f5ef5da8224e655ad2bb2e916216f11a1d89e4afe298fa2a1c57a97",
+      "submitted_at": "2026-07-07T08:50:09Z",
+      "updated_at": "2026-08-17T05:33:41Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2607.06008v3"
+    }
+  },
+  "note": "First published: 2026-07-07; Recorded arXiv version: v3; Recorded version updated: 2026-08-17T05:33:41Z.",
+  "author": [
+    {
+      "literal": "Hongliang Li"
+    },
+    {
+      "literal": "Yijin Liu"
+    },
+    {
+      "literal": "Zhiwei Zhang"
+    },
+    {
+      "literal": "Zihe Liu"
+    },
+    {
+      "literal": "Xinyue Lou"
+    },
+    {
+      "literal": "Jinan Xu"
+    },
+    {
+      "literal": "Fandong Meng"
+    },
+    {
+      "literal": "Kaiyu Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.06008",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2603.02236",
+  "citation-key": "arxiv_2603_02236",
+  "type": "article",
+  "title": "CUDABench: Benchmarking LLMs for Text-to-CUDA Generation",
+  "URL": "https://arxiv.org/abs/2603.02236v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.02236",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.02236",
+    "identifiers": {
+      "arxiv": "2603.02236"
+    },
+    "first_published_at": "2026-02-13",
+    "record_updated_at": "2026-02-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e90c4c2cae8f5d603a45d8fa5c2693b49cd0d362694635a826c8c79ff0d1a1dc",
+      "submitted_at": "2026-02-13T09:46:45Z",
+      "updated_at": "2026-02-13T09:46:45Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.02236v1"
+    }
+  },
+  "note": "First published: 2026-02-13; Recorded arXiv version: v1; Recorded version updated: 2026-02-13T09:46:45Z.",
+  "author": [
+    {
+      "literal": "Jiace Zhu"
+    },
+    {
+      "literal": "Wentao Chen"
+    },
+    {
+      "literal": "Qi Fan"
+    },
+    {
+      "literal": "Zhixing Ren"
+    },
+    {
+      "literal": "Junying Wu"
+    },
+    {
+      "literal": "Xing Zhe Chai"
+    },
+    {
+      "literal": "Chotiwit Rungrueangwutthinon"
+    },
+    {
+      "literal": "Yehan Ma"
+    },
+    {
+      "literal": "An Zou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.02236",
+  "genre": "preprint",
+  "version": "1"
+}

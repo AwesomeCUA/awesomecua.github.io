@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2601.08731",
+  "citation-key": "arxiv_2601_08731",
+  "type": "article",
+  "title": "Learning from Demonstrations via Capability-Aware Goal Sampling",
+  "URL": "https://arxiv.org/abs/2601.08731v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.08731",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.08731",
+    "identifiers": {
+      "arxiv": "2601.08731"
+    },
+    "first_published_at": "2026-01-13",
+    "record_updated_at": "2026-01-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d6971fc81cb687e8253661fcf7d96d8d9b330a5ef2eec6dc2d46a3cc58fce13b",
+      "submitted_at": "2026-01-13T17:03:31Z",
+      "updated_at": "2026-01-13T17:03:31Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.08731v1"
+    }
+  },
+  "note": "First published: 2026-01-13; Recorded arXiv version: v1; Recorded version updated: 2026-01-13T17:03:31Z.",
+  "author": [
+    {
+      "literal": "Yuanlin Duan"
+    },
+    {
+      "literal": "Yuning Wang"
+    },
+    {
+      "literal": "Wenjie Qiu"
+    },
+    {
+      "literal": "He Zhu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.08731",
+  "genre": "preprint",
+  "version": "1"
+}

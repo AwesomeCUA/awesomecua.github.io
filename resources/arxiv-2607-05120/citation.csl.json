@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2607.05120",
+  "citation-key": "arxiv_2607_05120",
+  "type": "article",
+  "title": "Agent Data Injection Attacks are Realistic Threats to AI Agents",
+  "URL": "https://arxiv.org/abs/2607.05120v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.05120",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2607.05120",
+    "identifiers": {
+      "arxiv": "2607.05120"
+    },
+    "first_published_at": "2026-07-06",
+    "record_updated_at": "2026-07-06",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c5fb30b8be2c6e452471e6398720291ec59a2c5ef96e64baca0735fb01b7a12e",
+      "submitted_at": "2026-07-06T14:07:49Z",
+      "updated_at": "2026-07-06T14:07:49Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.05120v1"
+    }
+  },
+  "note": "First published: 2026-07-06; Recorded arXiv version: v1; Recorded version updated: 2026-07-06T14:07:49Z.",
+  "author": [
+    {
+      "literal": "Woohyuk Choi"
+    },
+    {
+      "literal": "Juhee Kim"
+    },
+    {
+      "literal": "Taehyun Kang"
+    },
+    {
+      "literal": "Jihyeon Jeong"
+    },
+    {
+      "literal": "Luyi Xing"
+    },
+    {
+      "literal": "Byoungyoung Lee"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.05120",
+  "genre": "preprint",
+  "version": "1"
+}

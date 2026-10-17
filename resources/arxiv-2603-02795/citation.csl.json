@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2603.02795",
+  "citation-key": "arxiv_2603_02795",
+  "type": "article",
+  "title": "VSearcher: Long-Horizon Multimodal Search Agent via Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2603.02795v2",
+  "custom": {
+    "catalog_id": "arxiv:2603.02795",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.02795",
+    "identifiers": {
+      "arxiv": "2603.02795"
+    },
+    "first_published_at": "2026-03-03",
+    "record_updated_at": "2026-03-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7a8734e35e0020f78fb7847add1a1caf7047b3e246f7d1eb0112ef8a57bd8524",
+      "submitted_at": "2026-03-03T09:33:22Z",
+      "updated_at": "2026-03-06T09:02:39Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2603.02795v2"
+    }
+  },
+  "note": "First published: 2026-03-03; Recorded arXiv version: v2; Recorded version updated: 2026-03-06T09:02:39Z.",
+  "author": [
+    {
+      "literal": "Ruiyang Zhang"
+    },
+    {
+      "literal": "Qianguo Sun"
+    },
+    {
+      "literal": "Chao Song"
+    },
+    {
+      "literal": "Yiyan Qi"
+    },
+    {
+      "literal": "Zhedong Zheng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.02795",
+  "genre": "preprint",
+  "version": "2"
+}

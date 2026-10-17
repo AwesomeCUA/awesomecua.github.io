@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2603.11139",
+  "citation-key": "arxiv_2603_11139",
+  "type": "article",
+  "title": "H2LooP Spark Preview: Continual Pretraining of Large Language Models for Low-Level Embedded Systems Code",
+  "URL": "https://arxiv.org/abs/2603.11139v2",
+  "custom": {
+    "catalog_id": "arxiv:2603.11139",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.11139",
+    "identifiers": {
+      "arxiv": "2603.11139"
+    },
+    "first_published_at": "2026-03-11",
+    "record_updated_at": "2026-03-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "96b5cac787a40a3d059058c2e7b1b023f7721da0b1b04f241260ad0c300b180b",
+      "submitted_at": "2026-03-11T16:32:14Z",
+      "updated_at": "2026-03-13T15:09:55Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2603.11139v2"
+    }
+  },
+  "note": "First published: 2026-03-11; Recorded arXiv version: v2; Recorded version updated: 2026-03-13T15:09:55Z.",
+  "author": [
+    {
+      "literal": "Amit Singh"
+    },
+    {
+      "literal": "Vedant Nipane"
+    },
+    {
+      "literal": "Pulkit Agrawal"
+    },
+    {
+      "literal": "Jatin Kishnani"
+    },
+    {
+      "literal": "Sairanjan Mishra"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.11139",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,178 @@
+{
+  "id": "arxiv:2601.20613",
+  "citation-key": "arxiv_2601_20613",
+  "type": "article",
+  "title": "AgentIF-OneDay: A Task-level Instruction-Following Benchmark for General AI Agents in Daily Scenarios",
+  "URL": "https://arxiv.org/abs/2601.20613v2",
+  "custom": {
+    "catalog_id": "arxiv:2601.20613",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.20613",
+    "identifiers": {
+      "arxiv": "2601.20613"
+    },
+    "first_published_at": "2026-01-28",
+    "record_updated_at": "2026-01-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "75d0bd608e6108d8d64c1da1aa998661f78997b6483c3cac29c08da286b20cb4",
+      "submitted_at": "2026-01-28T13:49:18Z",
+      "updated_at": "2026-01-30T13:36:46Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2601.20613v2"
+    }
+  },
+  "note": "First published: 2026-01-28; Recorded arXiv version: v2; Recorded version updated: 2026-01-30T13:36:46Z.",
+  "author": [
+    {
+      "literal": "Kaiyuan Chen"
+    },
+    {
+      "literal": "Qimin Wu"
+    },
+    {
+      "literal": "Taiyu Hou"
+    },
+    {
+      "literal": "Tianhao Tang"
+    },
+    {
+      "literal": "Xueyu Hu"
+    },
+    {
+      "literal": "Yuchen Hou"
+    },
+    {
+      "literal": "Bikun Li"
+    },
+    {
+      "literal": "Chengming Qian"
+    },
+    {
+      "literal": "Guoyin Wang"
+    },
+    {
+      "literal": "Haolin Chen"
+    },
+    {
+      "literal": "Haotong Tian"
+    },
+    {
+      "literal": "Haoye Zhang"
+    },
+    {
+      "literal": "Haoyu Bian"
+    },
+    {
+      "literal": "Hongbing Pan"
+    },
+    {
+      "literal": "Hongkang Zhang"
+    },
+    {
+      "literal": "Hongyi Zhou"
+    },
+    {
+      "literal": "Jiaqi Cai"
+    },
+    {
+      "literal": "Jiewu Rao"
+    },
+    {
+      "literal": "Jiyuan Ren"
+    },
+    {
+      "literal": "Keduan Huang"
+    },
+    {
+      "literal": "Lucia Zhu Huang"
+    },
+    {
+      "literal": "Mingyu Yuan"
+    },
+    {
+      "literal": "Naixu Guo"
+    },
+    {
+      "literal": "Qicheng Tang"
+    },
+    {
+      "literal": "Qinyan Zhang"
+    },
+    {
+      "literal": "Shuai Chen"
+    },
+    {
+      "literal": "Siheng Chen"
+    },
+    {
+      "literal": "Ting Ting Li"
+    },
+    {
+      "literal": "Xiaoxing Guo"
+    },
+    {
+      "literal": "Yaocheng Zuo"
+    },
+    {
+      "literal": "Yaoqi Guo"
+    },
+    {
+      "literal": "Yinan Wang"
+    },
+    {
+      "literal": "Yinzhou Yu"
+    },
+    {
+      "literal": "Yize Wang"
+    },
+    {
+      "literal": "Yuan Jiang"
+    },
+    {
+      "literal": "Yuan Tian"
+    },
+    {
+      "literal": "Yuanshuo Zhang"
+    },
+    {
+      "literal": "Yuxuan Liu"
+    },
+    {
+      "literal": "Yvette Yan Zeng"
+    },
+    {
+      "literal": "Zenyu Shan"
+    },
+    {
+      "literal": "Zihan Yin"
+    },
+    {
+      "literal": "Xiaobo Hu"
+    },
+    {
+      "literal": "Yang Liu"
+    },
+    {
+      "literal": "Yixin Ren"
+    },
+    {
+      "literal": "Yuan Gong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.20613",
+  "genre": "preprint",
+  "version": "2"
+}

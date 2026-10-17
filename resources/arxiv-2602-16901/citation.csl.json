@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2602.16901",
+  "citation-key": "arxiv_2602_16901",
+  "type": "article",
+  "title": "AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks",
+  "URL": "https://arxiv.org/abs/2602.16901v1",
+  "custom": {
+    "catalog_id": "arxiv:2602.16901",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.16901",
+    "identifiers": {
+      "arxiv": "2602.16901"
+    },
+    "first_published_at": "2026-02-18",
+    "record_updated_at": "2026-02-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7ce1d157e148236ee764561e1e0c98f47aeaf6ec85bd05aeabf0081cf6555135",
+      "submitted_at": "2026-02-18T21:30:20Z",
+      "updated_at": "2026-02-18T21:30:20Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2602.16901v1"
+    }
+  },
+  "note": "First published: 2026-02-18; Recorded arXiv version: v1; Recorded version updated: 2026-02-18T21:30:20Z.",
+  "author": [
+    {
+      "literal": "Tanqiu Jiang"
+    },
+    {
+      "literal": "Yuhui Wang"
+    },
+    {
+      "literal": "Jiacheng Liang"
+    },
+    {
+      "literal": "Ting Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.16901",
+  "genre": "preprint",
+  "version": "1"
+}

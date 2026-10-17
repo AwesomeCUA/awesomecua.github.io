@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2602.23320",
+  "citation-key": "arxiv_2602_23320",
+  "type": "article",
+  "title": "ParamMem: Augmenting Language Agents with Parametric Reflective Memory",
+  "URL": "https://arxiv.org/abs/2602.23320v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.23320",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.23320",
+    "identifiers": {
+      "arxiv": "2602.23320"
+    },
+    "first_published_at": "2026-02-26",
+    "record_updated_at": "2026-02-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3e5b50ba5a79548fd35fc7a70abd79b15df8a88bc3700e86aef41077fa99ac62",
+      "submitted_at": "2026-02-26T18:28:04Z",
+      "updated_at": "2026-02-27T08:21:31Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.23320v2"
+    }
+  },
+  "note": "First published: 2026-02-26; Recorded arXiv version: v2; Recorded version updated: 2026-02-27T08:21:31Z.",
+  "author": [
+    {
+      "literal": "Tianjun Yao"
+    },
+    {
+      "literal": "Yongqiang Chen"
+    },
+    {
+      "literal": "Yujia Zheng"
+    },
+    {
+      "literal": "Pan Li"
+    },
+    {
+      "literal": "Zhiqiang Shen"
+    },
+    {
+      "literal": "Kun Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.23320",
+  "genre": "preprint",
+  "version": "2"
+}

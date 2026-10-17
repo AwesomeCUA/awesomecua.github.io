@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2609.12533",
+  "citation-key": "arxiv_2609_12533",
+  "type": "article",
+  "title": "Earth-Agent-Pro: Towards Real-World Full-Chain Earth Observation with Agents",
+  "URL": "https://arxiv.org/abs/2609.12533v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.12533",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.12533",
+    "identifiers": {
+      "arxiv": "2609.12533"
+    },
+    "first_published_at": "2026-09-11",
+    "record_updated_at": "2026-09-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f522778cfb2925fbadd6e0225651c24dd53c501bb0c8c423719222fb435ea255",
+      "submitted_at": "2026-09-11T07:41:36Z",
+      "updated_at": "2026-09-11T07:41:36Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.12533v1"
+    }
+  },
+  "note": "First published: 2026-09-11; Recorded arXiv version: v1; Recorded version updated: 2026-09-11T07:41:36Z.",
+  "author": [
+    {
+      "literal": "Zhutao Lv"
+    },
+    {
+      "literal": "Chenhao Dang"
+    },
+    {
+      "literal": "Yi Feng"
+    },
+    {
+      "literal": "Yanpei Gong"
+    },
+    {
+      "literal": "Xiaolei Wang"
+    },
+    {
+      "literal": "Junyan Ye"
+    },
+    {
+      "literal": "Conghui He"
+    },
+    {
+      "literal": "Weijia Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.12533",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2605.29463",
+  "citation-key": "arxiv_2605_29463",
+  "type": "article",
+  "title": "Honest Lying: Understanding Memory Confabulation in Reflexive Agents",
+  "URL": "https://arxiv.org/abs/2605.29463v2",
+  "custom": {
+    "catalog_id": "arxiv:2605.29463",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.29463",
+    "identifiers": {
+      "arxiv": "2605.29463"
+    },
+    "first_published_at": "2026-05-28",
+    "record_updated_at": "2026-05-31",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e206e12d819482db6c21e58187b93e4401055a04066cc2ffc5d3423973d08add",
+      "submitted_at": "2026-05-28T06:56:42Z",
+      "updated_at": "2026-05-31T05:31:18Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2605.29463v2"
+    }
+  },
+  "note": "First published: 2026-05-28; Recorded arXiv version: v2; Recorded version updated: 2026-05-31T05:31:18Z.",
+  "author": [
+    {
+      "literal": "Prakhar Dixit"
+    },
+    {
+      "literal": "Sadia Kamal"
+    },
+    {
+      "literal": "Tim Oates"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.29463",
+  "genre": "preprint",
+  "version": "2"
+}

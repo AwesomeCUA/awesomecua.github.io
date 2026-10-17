@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2602.03117",
+  "citation-key": "arxiv_2602_03117",
+  "type": "article",
+  "title": "AgentDyn: Are Your Agent Security Defenses Deployable in Real-World Dynamic Environments?",
+  "URL": "https://arxiv.org/abs/2602.03117v3",
+  "custom": {
+    "catalog_id": "arxiv:2602.03117",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.03117",
+    "identifiers": {
+      "arxiv": "2602.03117"
+    },
+    "first_published_at": "2026-02-03",
+    "record_updated_at": "2026-05-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7db3fca35b801ffab4d1ab4dfc84122516270894766f2cf1f641d2bdd3ce9216",
+      "submitted_at": "2026-02-03T05:20:42Z",
+      "updated_at": "2026-05-07T07:42:14Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2602.03117v3"
+    }
+  },
+  "note": "First published: 2026-02-03; Recorded arXiv version: v3; Recorded version updated: 2026-05-07T07:42:14Z.",
+  "author": [
+    {
+      "literal": "Hao Li"
+    },
+    {
+      "literal": "Ruoyao Wen"
+    },
+    {
+      "literal": "Shanghao Shi"
+    },
+    {
+      "literal": "Ning Zhang"
+    },
+    {
+      "literal": "Yevgeniy Vorobeychik"
+    },
+    {
+      "literal": "Chaowei Xiao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.03117",
+  "genre": "preprint",
+  "version": "3"
+}

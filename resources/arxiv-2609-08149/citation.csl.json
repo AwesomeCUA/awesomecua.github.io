@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2609.08149",
+  "citation-key": "arxiv_2609_08149",
+  "type": "article",
+  "title": "SWE-Bench Pro Verified: A Reliable Benchmark for Software Engineering Agents",
+  "URL": "https://arxiv.org/abs/2609.08149v3",
+  "custom": {
+    "catalog_id": "arxiv:2609.08149",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.08149",
+    "identifiers": {
+      "arxiv": "2609.08149"
+    },
+    "first_published_at": "2026-09-08",
+    "record_updated_at": "2026-10-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "41d3f82a933c2c8ce26e5e2113b04cec8801a18d6a8227d56ea0fe3cf533adf0",
+      "submitted_at": "2026-09-08T02:29:58Z",
+      "updated_at": "2026-10-09T02:16:00Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2609.08149v3"
+    }
+  },
+  "note": "First published: 2026-09-08; Recorded arXiv version: v3; Recorded version updated: 2026-10-09T02:16:00Z.",
+  "author": [
+    {
+      "literal": "Pujun Zheng"
+    },
+    {
+      "literal": "Zixin Shang"
+    },
+    {
+      "literal": "Shufan Jiang"
+    },
+    {
+      "literal": "Wenhui Tian"
+    },
+    {
+      "literal": "Dongsheng Zhu"
+    },
+    {
+      "literal": "Zerun Ma"
+    },
+    {
+      "literal": "Dingbo Yuan"
+    },
+    {
+      "literal": "Qi Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.08149",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -1,0 +1,193 @@
+{
+  "id": "arxiv:2605.29801",
+  "citation-key": "arxiv_2605_29801",
+  "type": "article",
+  "title": "AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security",
+  "URL": "https://arxiv.org/abs/2605.29801v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.29801",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.29801",
+    "identifiers": {
+      "arxiv": "2605.29801"
+    },
+    "first_published_at": "2026-05-28",
+    "record_updated_at": "2026-05-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9f18a697aa8aba3d02b9ac99ee952f033b6e116ec0186d33619b58d14a223f29",
+      "submitted_at": "2026-05-28T11:48:37Z",
+      "updated_at": "2026-05-28T11:48:37Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.29801v1"
+    }
+  },
+  "note": "First published: 2026-05-28; Recorded arXiv version: v1; Recorded version updated: 2026-05-28T11:48:37Z.",
+  "author": [
+    {
+      "literal": "Dongrui Liu"
+    },
+    {
+      "literal": "Yu Li"
+    },
+    {
+      "literal": "Zhonghao Yang"
+    },
+    {
+      "literal": "Peng Wang"
+    },
+    {
+      "literal": "Guanxu Chen"
+    },
+    {
+      "literal": "Yuejin Xie"
+    },
+    {
+      "literal": "Qinghua Mao"
+    },
+    {
+      "literal": "Wanying Qu"
+    },
+    {
+      "literal": "Yanxu Zhu"
+    },
+    {
+      "literal": "Tianyi Zhou"
+    },
+    {
+      "literal": "Leitao Yuan"
+    },
+    {
+      "literal": "Zhijie Zheng"
+    },
+    {
+      "literal": "Qihao Lin"
+    },
+    {
+      "literal": "Yimin Wang"
+    },
+    {
+      "literal": "Haoyu Luo"
+    },
+    {
+      "literal": "Shuai Shao"
+    },
+    {
+      "literal": "Chen Qian"
+    },
+    {
+      "literal": "Qingyu Liu"
+    },
+    {
+      "literal": "Ling Tang"
+    },
+    {
+      "literal": "Ruiyang Qin"
+    },
+    {
+      "literal": "Qihan Ren"
+    },
+    {
+      "literal": "Junxiao Yang"
+    },
+    {
+      "literal": "Kun Wang"
+    },
+    {
+      "literal": "Zhiheng Xi"
+    },
+    {
+      "literal": "Linfeng Zhang"
+    },
+    {
+      "literal": "Ranjie Duan"
+    },
+    {
+      "literal": "Bo Zhang"
+    },
+    {
+      "literal": "Wenjie Wang"
+    },
+    {
+      "literal": "Wen Shen"
+    },
+    {
+      "literal": "Qiaosheng Zhang"
+    },
+    {
+      "literal": "Yan Teng"
+    },
+    {
+      "literal": "Chaochao Lu"
+    },
+    {
+      "literal": "Rui Mei"
+    },
+    {
+      "literal": "Man Li"
+    },
+    {
+      "literal": "Jialing Tao"
+    },
+    {
+      "literal": "Xi Lin"
+    },
+    {
+      "literal": "Tianhang Zheng"
+    },
+    {
+      "literal": "Yong Liu"
+    },
+    {
+      "literal": "Quanshi Zhang"
+    },
+    {
+      "literal": "Lei Zhu"
+    },
+    {
+      "literal": "Xingjun Ma"
+    },
+    {
+      "literal": "Junhua Liu"
+    },
+    {
+      "literal": "Hui Xue"
+    },
+    {
+      "literal": "Xiaoxiang Zuo"
+    },
+    {
+      "literal": "Xiangnan He"
+    },
+    {
+      "literal": "Chao Shen"
+    },
+    {
+      "literal": "Xianglong Liu"
+    },
+    {
+      "literal": "Minlie Huang"
+    },
+    {
+      "literal": "Jing Shao"
+    },
+    {
+      "literal": "Xia Hu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.29801",
+  "genre": "preprint",
+  "version": "1"
+}

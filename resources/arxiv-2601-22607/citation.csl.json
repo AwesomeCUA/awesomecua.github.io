@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2601.22607",
+  "citation-key": "arxiv_2601_22607",
+  "type": "article",
+  "title": "From Self-Evolving Synthetic Data to Verifiable-Reward RL: Post-Training Multi-turn Interactive Tool-Using Agents",
+  "URL": "https://arxiv.org/abs/2601.22607v3",
+  "custom": {
+    "catalog_id": "arxiv:2601.22607",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.22607",
+    "identifiers": {
+      "arxiv": "2601.22607"
+    },
+    "first_published_at": "2026-01-30",
+    "record_updated_at": "2026-03-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "14713aa02568608d82f7e2f33d9d550b069de2f002697b92d4ddede78cee57f6",
+      "submitted_at": "2026-01-30T06:01:23Z",
+      "updated_at": "2026-03-10T06:07:37Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2601.22607v3"
+    }
+  },
+  "note": "First published: 2026-01-30; Recorded arXiv version: v3; Recorded version updated: 2026-03-10T06:07:37Z.",
+  "author": [
+    {
+      "literal": "Jiaxuan Gao"
+    },
+    {
+      "literal": "Jiaao Chen"
+    },
+    {
+      "literal": "Chuyi He"
+    },
+    {
+      "literal": "Shusheng Xu"
+    },
+    {
+      "literal": "Di Jin"
+    },
+    {
+      "literal": "Yi Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.22607",
+  "genre": "preprint",
+  "version": "3"
+}

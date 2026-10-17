@@ -3568,6 +3568,61 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2512.12594v2",
+    "archive": "arXiv",
+    "archive_location": "2512.12594",
+    "author": [
+      {
+        "literal": "Luoxi Meng"
+      },
+      {
+        "literal": "Henry Feng"
+      },
+      {
+        "literal": "Ilia Shumailov"
+      },
+      {
+        "literal": "Earlence Fernandes"
+      }
+    ],
+    "citation-key": "arxiv_2512_12594",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "fa6b4d9fa34610ec6fa8c0ac8b075127365aad57a20d814a2e838a223cf8bd56",
+        "submitted_at": "2025-12-14T08:25:31Z",
+        "updated_at": "2026-03-04T01:49:57Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2512.12594v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2512.12594",
+      "catalog_id": "arxiv:2512.12594",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-12-14",
+      "identifiers": {
+        "arxiv": "2512.12594"
+      },
+      "record_updated_at": "2026-03-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2512.12594",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2025-12-14; Recorded arXiv version: v2; Recorded version updated: 2026-03-04T01:49:57Z.",
+    "title": "ceLLMate: Sandboxing Browser AI Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2601.08406v1",
     "archive": "arXiv",
     "archive_location": "2601.08406",
@@ -4208,6 +4263,307 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2602.12430v4",
+    "archive": "arXiv",
+    "archive_location": "2602.12430",
+    "author": [
+      {
+        "literal": "Renjun Xu"
+      },
+      {
+        "literal": "Yang Yan"
+      }
+    ],
+    "citation-key": "arxiv_2602_12430",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f0edc70265a8d46a7c22a9c6384de8aa19f79dbb6987f8c23f4a260647a6a3f0",
+        "submitted_at": "2026-02-12T21:33:25Z",
+        "updated_at": "2026-06-02T16:14:54Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2602.12430v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.12430",
+      "catalog_id": "arxiv:2602.12430",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-02-12",
+      "identifiers": {
+        "arxiv": "2602.12430"
+      },
+      "record_updated_at": "2026-06-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.12430",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-12; Recorded arXiv version: v4; Recorded version updated: 2026-06-02T16:14:54Z.",
+    "title": "Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward",
+    "type": "article",
+    "version": "4"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.04364v2",
+    "archive": "arXiv",
+    "archive_location": "2603.04364",
+    "author": [
+      {
+        "literal": "Haoyu Liu"
+      },
+      {
+        "literal": "Dingcheng Li"
+      },
+      {
+        "literal": "Lukas Rutishauser"
+      },
+      {
+        "literal": "Zeyu Zheng"
+      }
+    ],
+    "citation-key": "arxiv_2603_04364",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "971770e61bf0af91ad1f17b197f09fc166b26bfb4953d3f2c74d457a87e25f3a",
+        "submitted_at": "2026-03-04T18:29:54Z",
+        "updated_at": "2026-10-05T23:01:49Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2603.04364v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.04364",
+      "catalog_id": "arxiv:2603.04364",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-04",
+      "identifiers": {
+        "arxiv": "2603.04364"
+      },
+      "record_updated_at": "2026-10-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.04364",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          4
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-04; Recorded arXiv version: v2; Recorded version updated: 2026-10-05T23:01:49Z.",
+    "title": "Dual-Modality Multi-Stage Adversarial Safety Training: Robustifying Multimodal Web Agents Against Cross-Modal Attacks",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.14707v1",
+    "archive": "arXiv",
+    "archive_location": "2603.14707",
+    "author": [
+      {
+        "literal": "Xunzhuo Liu"
+      },
+      {
+        "literal": "Bowei He"
+      },
+      {
+        "literal": "Xue Liu"
+      },
+      {
+        "literal": "Andy Luo"
+      },
+      {
+        "literal": "Haichen Zhang"
+      },
+      {
+        "literal": "Huamin Chen"
+      }
+    ],
+    "citation-key": "arxiv_2603_14707",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5c7cb0e4784c2a58feeca27a1687d1f73880d9713c16387f0bbff9ed34c427c7",
+        "submitted_at": "2026-03-16T01:31:32Z",
+        "updated_at": "2026-03-16T01:31:32Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.14707v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.14707",
+      "catalog_id": "arxiv:2603.14707",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-16",
+      "identifiers": {
+        "arxiv": "2603.14707"
+      },
+      "record_updated_at": "2026-03-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.14707",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-16; Recorded arXiv version: v1; Recorded version updated: 2026-03-16T01:31:32Z.",
+    "title": "Visual Confused Deputy: Exploiting and Defending Perception Failures in Computer-Using Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.15714v1",
+    "archive": "arXiv",
+    "archive_location": "2603.15714",
+    "author": [
+      {
+        "literal": "Mateusz Dziemian"
+      },
+      {
+        "literal": "Maxwell Lin"
+      },
+      {
+        "literal": "Xiaohan Fu"
+      },
+      {
+        "literal": "Micha Nowak"
+      },
+      {
+        "literal": "Nick Winter"
+      },
+      {
+        "literal": "Eliot Jones"
+      },
+      {
+        "literal": "Andy Zou"
+      },
+      {
+        "literal": "Lama Ahmad"
+      },
+      {
+        "literal": "Kamalika Chaudhuri"
+      },
+      {
+        "literal": "Sahana Chennabasappa"
+      },
+      {
+        "literal": "Xander Davies"
+      },
+      {
+        "literal": "Lauren Deason"
+      },
+      {
+        "literal": "Benjamin L. Edelman"
+      },
+      {
+        "literal": "Tanner Emek"
+      },
+      {
+        "literal": "Ivan Evtimov"
+      },
+      {
+        "literal": "Jim Gust"
+      },
+      {
+        "literal": "Maia Hamin"
+      },
+      {
+        "literal": "Kat He"
+      },
+      {
+        "literal": "Klaudia Krawiecka"
+      },
+      {
+        "literal": "Riccardo Patana"
+      },
+      {
+        "literal": "Neil Perry"
+      },
+      {
+        "literal": "Troy Peterson"
+      },
+      {
+        "literal": "Xiangyu Qi"
+      },
+      {
+        "literal": "Javier Rando"
+      },
+      {
+        "literal": "Zifan Wang"
+      },
+      {
+        "literal": "Zihan Wang"
+      },
+      {
+        "literal": "Spencer Whitman"
+      },
+      {
+        "literal": "Eric Winsor"
+      },
+      {
+        "literal": "Arman Zharmagambetov"
+      },
+      {
+        "literal": "Matt Fredrikson"
+      },
+      {
+        "literal": "Zico Kolter"
+      }
+    ],
+    "citation-key": "arxiv_2603_15714",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e7fe52247e01f331021013dbc3003b3b828e134d7706ec1f587210ad286eee1d",
+        "submitted_at": "2026-03-16T14:49:36Z",
+        "updated_at": "2026-03-16T14:49:36Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.15714v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.15714",
+      "catalog_id": "arxiv:2603.15714",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-16",
+      "identifiers": {
+        "arxiv": "2603.15714"
+      },
+      "record_updated_at": "2026-03-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.15714",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-16; Recorded arXiv version: v1; Recorded version updated: 2026-03-16T14:49:36Z.",
+    "title": "How Vulnerable Are AI Agents to Indirect Prompt Injections? Insights from a Large-Scale Public Competition",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2603.17357v1",
     "archive": "arXiv",
     "archive_location": "2603.17357",
@@ -4250,6 +4606,225 @@
     },
     "note": "First published: 2026-03-18; Recorded arXiv version: v1; Recorded version updated: 2026-03-18T04:41:16Z.",
     "title": "WebPII: Benchmarking Visual PII Detection for Computer-Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.02623v2",
+    "archive": "arXiv",
+    "archive_location": "2604.02623",
+    "author": [
+      {
+        "literal": "Wei Zou"
+      },
+      {
+        "literal": "Mingwen Dong"
+      },
+      {
+        "literal": "Miguel Romero Calvo"
+      },
+      {
+        "literal": "Shuaichen Chang"
+      },
+      {
+        "literal": "Jiang Guo"
+      },
+      {
+        "literal": "Dongkyu Lee"
+      },
+      {
+        "literal": "Xing Niu"
+      },
+      {
+        "literal": "Xiaofei Ma"
+      },
+      {
+        "literal": "Yanjun Qi"
+      },
+      {
+        "literal": "Jiarong Jiang"
+      }
+    ],
+    "citation-key": "arxiv_2604_02623",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a37f4bdc495e10e4ae301ebff6faa28cdfa6de152d4619c051083b5dce41e6ba",
+        "submitted_at": "2026-04-03T01:25:12Z",
+        "updated_at": "2026-04-07T14:45:15Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2604.02623v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.02623",
+      "catalog_id": "arxiv:2604.02623",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-03",
+      "identifiers": {
+        "arxiv": "2604.02623"
+      },
+      "record_updated_at": "2026-04-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.02623",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-03; Recorded arXiv version: v2; Recorded version updated: 2026-04-07T14:45:15Z.",
+    "title": "Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.04918v2",
+    "archive": "arXiv",
+    "archive_location": "2604.04918",
+    "author": [
+      {
+        "literal": "Chaoran Chen"
+      },
+      {
+        "literal": "Zhiping Zhang"
+      },
+      {
+        "literal": "Zeya Chen"
+      },
+      {
+        "literal": "Eryue Xu"
+      },
+      {
+        "literal": "Yinuo Yang"
+      },
+      {
+        "literal": "Ibrahim Khalilov"
+      },
+      {
+        "literal": "Simret A Gebreegziabher"
+      },
+      {
+        "literal": "Yanfang Ye"
+      },
+      {
+        "literal": "Ziang Xiao"
+      },
+      {
+        "literal": "Yaxing Yao"
+      },
+      {
+        "literal": "Tianshi Li"
+      },
+      {
+        "literal": "Toby Jia-Jun Li"
+      }
+    ],
+    "citation-key": "arxiv_2604_04918",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1411ee71ad8f65e4941af4ef538f52da6e9bf9c57fb537b6ecf37c8478609693",
+        "submitted_at": "2026-04-06T17:57:16Z",
+        "updated_at": "2026-09-12T06:05:52Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2604.04918v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.04918",
+      "catalog_id": "arxiv:2604.04918",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-06",
+      "identifiers": {
+        "arxiv": "2604.04918"
+      },
+      "record_updated_at": "2026-09-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.04918",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-06; Recorded arXiv version: v2; Recorded version updated: 2026-09-12T06:05:52Z.",
+    "title": "Comparing Human Oversight Strategies for Computer-Use Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.09155v1",
+    "archive": "arXiv",
+    "archive_location": "2604.09155",
+    "author": [
+      {
+        "literal": "Yushi Feng"
+      },
+      {
+        "literal": "Junye Du"
+      },
+      {
+        "literal": "Qifan Wang"
+      },
+      {
+        "literal": "Zizhan Ma"
+      },
+      {
+        "literal": "Qian Niu"
+      },
+      {
+        "literal": "Yutaka Matsuo"
+      },
+      {
+        "literal": "Long Feng"
+      },
+      {
+        "literal": "Lequan Yu"
+      }
+    ],
+    "citation-key": "arxiv_2604_09155",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e53647528b9ee9d98f93ee665d0d886f9b400a129873e240704041df291f5749",
+        "submitted_at": "2026-04-10T09:41:21Z",
+        "updated_at": "2026-04-10T09:41:21Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.09155v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.09155",
+      "catalog_id": "arxiv:2604.09155",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-10",
+      "identifiers": {
+        "arxiv": "2604.09155"
+      },
+      "record_updated_at": "2026-04-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.09155",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          10
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-10; Recorded arXiv version: v1; Recorded version updated: 2026-04-10T09:41:21Z.",
+    "title": "CORA: Conformal Risk-Controlled Agents for Safeguarded Mobile GUI Automation",
     "type": "article",
     "version": "1"
   },
@@ -4534,6 +5109,119 @@
     },
     "note": "First published: 2026-06-24; Recorded arXiv version: v1; Recorded version updated: 2026-06-24T11:18:01Z.",
     "title": "GUI agent: Guided Exploration of User-Sensitive Screens",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.05120v1",
+    "archive": "arXiv",
+    "archive_location": "2607.05120",
+    "author": [
+      {
+        "literal": "Woohyuk Choi"
+      },
+      {
+        "literal": "Juhee Kim"
+      },
+      {
+        "literal": "Taehyun Kang"
+      },
+      {
+        "literal": "Jihyeon Jeong"
+      },
+      {
+        "literal": "Luyi Xing"
+      },
+      {
+        "literal": "Byoungyoung Lee"
+      }
+    ],
+    "citation-key": "arxiv_2607_05120",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c5fb30b8be2c6e452471e6398720291ec59a2c5ef96e64baca0735fb01b7a12e",
+        "submitted_at": "2026-07-06T14:07:49Z",
+        "updated_at": "2026-07-06T14:07:49Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2607.05120v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.05120",
+      "catalog_id": "arxiv:2607.05120",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-06",
+      "identifiers": {
+        "arxiv": "2607.05120"
+      },
+      "record_updated_at": "2026-07-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.05120",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-06; Recorded arXiv version: v1; Recorded version updated: 2026-07-06T14:07:49Z.",
+    "title": "Agent Data Injection Attacks are Realistic Threats to AI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.10608v1",
+    "archive": "arXiv",
+    "archive_location": "2607.10608",
+    "author": [
+      {
+        "literal": "Yixiong Chen"
+      },
+      {
+        "literal": "Xinyi Bai"
+      },
+      {
+        "literal": "Alan Yuille"
+      }
+    ],
+    "citation-key": "arxiv_2607_10608",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0473ced7881ed2007aa49c2767860c33719d5bf1c798dfe4771a4061b13d655e",
+        "submitted_at": "2026-07-12T07:05:31Z",
+        "updated_at": "2026-07-12T07:05:31Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2607.10608v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.10608",
+      "catalog_id": "arxiv:2607.10608",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-12",
+      "identifiers": {
+        "arxiv": "2607.10608"
+      },
+      "record_updated_at": "2026-07-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.10608",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-12; Recorded arXiv version: v1; Recorded version updated: 2026-07-12T07:05:31Z.",
+    "title": "The Compliance Trap: Diagnosing How AI Agents Consume Conflicting Memory",
     "type": "article",
     "version": "1"
   },

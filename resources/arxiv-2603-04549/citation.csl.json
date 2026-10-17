@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2603.04549",
+  "citation-key": "arxiv_2603_04549",
+  "type": "article",
+  "title": "Adaptive Memory Admission Control for LLM Agents",
+  "URL": "https://arxiv.org/abs/2603.04549v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.04549",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.04549",
+    "identifiers": {
+      "arxiv": "2603.04549"
+    },
+    "first_published_at": "2026-03-04",
+    "record_updated_at": "2026-03-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5d20c487b6502b34671a7e3a32006c19be81124379557bded5267f520e8cbada",
+      "submitted_at": "2026-03-04T19:32:02Z",
+      "updated_at": "2026-03-04T19:32:02Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.04549v1"
+    }
+  },
+  "note": "First published: 2026-03-04; Recorded arXiv version: v1; Recorded version updated: 2026-03-04T19:32:02Z.",
+  "author": [
+    {
+      "literal": "Guilin Zhang"
+    },
+    {
+      "literal": "Wei Jiang"
+    },
+    {
+      "literal": "Xiejiashan Wang"
+    },
+    {
+      "literal": "Aisha Behr"
+    },
+    {
+      "literal": "Kai Zhao"
+    },
+    {
+      "literal": "Jeffrey Friedman"
+    },
+    {
+      "literal": "Xu Chu"
+    },
+    {
+      "literal": "Amine Anoun"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.04549",
+  "genre": "preprint",
+  "version": "1"
+}

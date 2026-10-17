@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2603.13026",
+  "citation-key": "arxiv_2603_13026",
+  "type": "article",
+  "title": "PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses",
+  "URL": "https://arxiv.org/abs/2603.13026v2",
+  "custom": {
+    "catalog_id": "arxiv:2603.13026",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.13026",
+    "identifiers": {
+      "arxiv": "2603.13026"
+    },
+    "first_published_at": "2026-03-13",
+    "record_updated_at": "2026-07-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7a4e69b71c786405ef3b4b4580eabdecac799035ef5fcc423215f143f500c500",
+      "submitted_at": "2026-03-13T14:34:54Z",
+      "updated_at": "2026-07-23T13:46:08Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2603.13026v2"
+    }
+  },
+  "note": "First published: 2026-03-13; Recorded arXiv version: v2; Recorded version updated: 2026-07-23T13:46:08Z.",
+  "author": [
+    {
+      "literal": "Chenlong Yin"
+    },
+    {
+      "literal": "Runpeng Geng"
+    },
+    {
+      "literal": "Yanting Wang"
+    },
+    {
+      "literal": "Jinyuan Jia"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.13026",
+  "genre": "preprint",
+  "version": "2"
+}

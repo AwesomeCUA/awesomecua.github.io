@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2602.19320",
+  "citation-key": "arxiv_2602_19320",
+  "type": "article",
+  "title": "Anatomy of Agentic Memory: Taxonomy and Empirical Analysis of Evaluation and System Limitations",
+  "URL": "https://arxiv.org/abs/2602.19320v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.19320",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.19320",
+    "identifiers": {
+      "arxiv": "2602.19320"
+    },
+    "first_published_at": "2026-02-22",
+    "record_updated_at": "2026-05-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "869a21cc40665fb6b790a236506bad080879472ebc4f5f07b55fa7761f621987",
+      "submitted_at": "2026-02-22T19:50:01Z",
+      "updated_at": "2026-05-20T06:06:23Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.19320v2"
+    }
+  },
+  "note": "First published: 2026-02-22; Recorded arXiv version: v2; Recorded version updated: 2026-05-20T06:06:23Z.",
+  "author": [
+    {
+      "literal": "Dongming Jiang"
+    },
+    {
+      "literal": "Yi Li"
+    },
+    {
+      "literal": "Songtao Wei"
+    },
+    {
+      "literal": "Jinxin Yang"
+    },
+    {
+      "literal": "Ayushi Kishore"
+    },
+    {
+      "literal": "Alysa Zhao"
+    },
+    {
+      "literal": "Dingyi Kang"
+    },
+    {
+      "literal": "Xu Hu"
+    },
+    {
+      "literal": "Feng Chen"
+    },
+    {
+      "literal": "Qiannan Li"
+    },
+    {
+      "literal": "Bingzhe Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.19320",
+  "genre": "preprint",
+  "version": "2"
+}

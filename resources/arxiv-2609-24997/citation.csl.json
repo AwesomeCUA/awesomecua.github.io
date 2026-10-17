@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2609.24997",
+  "citation-key": "arxiv_2609_24997",
+  "type": "article",
+  "title": "VideoGen-Agent: Reinforcing Video Generation Agents",
+  "URL": "https://arxiv.org/abs/2609.24997v3",
+  "custom": {
+    "catalog_id": "arxiv:2609.24997",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.24997",
+    "identifiers": {
+      "arxiv": "2609.24997"
+    },
+    "first_published_at": "2026-09-21",
+    "record_updated_at": "2026-10-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "43007f4c10270fb742ea912690f607874e2f2ea2cf6e025df2500e16cf8d0116",
+      "submitted_at": "2026-09-21T17:58:56Z",
+      "updated_at": "2026-10-05T16:40:27Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2609.24997v3"
+    }
+  },
+  "note": "First published: 2026-09-21; Recorded arXiv version: v3; Recorded version updated: 2026-10-05T16:40:27Z.",
+  "author": [
+    {
+      "literal": "Binxu Li"
+    },
+    {
+      "literal": "Haoyi Duan"
+    },
+    {
+      "literal": "Yuhui Zhang"
+    },
+    {
+      "literal": "Yaohui Zhang"
+    },
+    {
+      "literal": "Zihao Lin"
+    },
+    {
+      "literal": "Kaituo Feng"
+    },
+    {
+      "literal": "Suozhi Huang"
+    },
+    {
+      "literal": "Xiangyi Li"
+    },
+    {
+      "literal": "Yu Li"
+    },
+    {
+      "literal": "Chunyuan Li"
+    },
+    {
+      "literal": "Shilong Liu"
+    },
+    {
+      "literal": "Mengdi Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.24997",
+  "genre": "preprint",
+  "version": "3"
+}

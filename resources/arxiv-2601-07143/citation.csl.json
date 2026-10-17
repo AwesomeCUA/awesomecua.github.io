@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2601.07143",
+  "citation-key": "arxiv_2601_07143",
+  "type": "article",
+  "title": "EZBlender: Efficient 3D Editing with Plan-and-ReAct Agent",
+  "URL": "https://arxiv.org/abs/2601.07143v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.07143",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.07143",
+    "identifiers": {
+      "arxiv": "2601.07143"
+    },
+    "first_published_at": "2026-01-12",
+    "record_updated_at": "2026-01-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "460abc8cf63d1a113c661cac6db923e62aeaaa438dea96b5fb7180a6d96afc0f",
+      "submitted_at": "2026-01-12T02:19:34Z",
+      "updated_at": "2026-01-12T02:19:34Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.07143v1"
+    }
+  },
+  "note": "First published: 2026-01-12; Recorded arXiv version: v1; Recorded version updated: 2026-01-12T02:19:34Z.",
+  "author": [
+    {
+      "literal": "Hao Wang"
+    },
+    {
+      "literal": "Wenhui Zhu"
+    },
+    {
+      "literal": "Shao Tang"
+    },
+    {
+      "literal": "Zhipeng Wang"
+    },
+    {
+      "literal": "Xuanzhao Dong"
+    },
+    {
+      "literal": "Xin Li"
+    },
+    {
+      "literal": "Xiwen Chen"
+    },
+    {
+      "literal": "Ashish Bastola"
+    },
+    {
+      "literal": "Xinhao Huang"
+    },
+    {
+      "literal": "Yalin Wang"
+    },
+    {
+      "literal": "Abolfazl Razi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.07143",
+  "genre": "preprint",
+  "version": "1"
+}

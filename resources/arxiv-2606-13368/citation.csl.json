@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2606.13368",
+  "citation-key": "arxiv_2606_13368",
+  "type": "article",
+  "title": "IterCAD: An Iterative Multimodal Agent for Visually-Grounded CAD Generation and Editing",
+  "URL": "https://arxiv.org/abs/2606.13368v3",
+  "custom": {
+    "catalog_id": "arxiv:2606.13368",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.13368",
+    "identifiers": {
+      "arxiv": "2606.13368"
+    },
+    "first_published_at": "2026-06-11",
+    "record_updated_at": "2026-08-31",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4132132662275a598a66c629ca1545f52ab6418767250bc071bc6da48437b223",
+      "submitted_at": "2026-06-11T13:53:21Z",
+      "updated_at": "2026-08-31T10:29:17Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2606.13368v3"
+    }
+  },
+  "note": "First published: 2026-06-11; Recorded arXiv version: v3; Recorded version updated: 2026-08-31T10:29:17Z.",
+  "author": [
+    {
+      "literal": "Tao Hu"
+    },
+    {
+      "literal": "Jiaxin Ai"
+    },
+    {
+      "literal": "Licheng Wen"
+    },
+    {
+      "literal": "Xueheng Li"
+    },
+    {
+      "literal": "Shu Zou"
+    },
+    {
+      "literal": "Siqi Li"
+    },
+    {
+      "literal": "Nianchen Deng"
+    },
+    {
+      "literal": "Xinyu Cai"
+    },
+    {
+      "literal": "Hongbin Zhou"
+    },
+    {
+      "literal": "Pinlong Cai"
+    },
+    {
+      "literal": "Daocheng Fu"
+    },
+    {
+      "literal": "Yu Yang"
+    },
+    {
+      "literal": "Hairong Zhang"
+    },
+    {
+      "literal": "Botian Shi"
+    },
+    {
+      "literal": "Xuemeng Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.13368",
+  "genre": "preprint",
+  "version": "3"
+}

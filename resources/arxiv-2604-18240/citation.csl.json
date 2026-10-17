@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2604.18240",
+  "citation-key": "arxiv_2604_18240",
+  "type": "article",
+  "title": "AJ-Bench: Benchmarking Agent-as-a-Judge for Environment-Aware Evaluation",
+  "URL": "https://arxiv.org/abs/2604.18240v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.18240",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2604.18240",
+    "identifiers": {
+      "arxiv": "2604.18240"
+    },
+    "first_published_at": "2026-04-20",
+    "record_updated_at": "2026-04-20",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "91a9cdb6c8cb124d2e6033f0decc85e0c73bd972984d973ff687bbdc2be21176",
+      "submitted_at": "2026-04-20T13:23:38Z",
+      "updated_at": "2026-04-20T13:23:38Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.18240v1"
+    }
+  },
+  "note": "First published: 2026-04-20; Recorded arXiv version: v1; Recorded version updated: 2026-04-20T13:23:38Z.",
+  "author": [
+    {
+      "literal": "Wentao Shi"
+    },
+    {
+      "literal": "Yu Wang"
+    },
+    {
+      "literal": "Yuyang Zhao"
+    },
+    {
+      "literal": "Yuxin Chen"
+    },
+    {
+      "literal": "Fuli Feng"
+    },
+    {
+      "literal": "Xueyuan Hao"
+    },
+    {
+      "literal": "Xi Su"
+    },
+    {
+      "literal": "Qi Gu"
+    },
+    {
+      "literal": "Hui Su"
+    },
+    {
+      "literal": "Xunliang Cai"
+    },
+    {
+      "literal": "Xiangnan He"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.18240",
+  "genre": "preprint",
+  "version": "1"
+}

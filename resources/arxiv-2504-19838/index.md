@@ -1,6 +1,6 @@
 # LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects
 
-Survey of research directions in GUI or computer-use agents.
+Reviews LLM-driven phone GUI agents with a taxonomy of agent frameworks, prompt- and training-based modeling, datasets, and benchmarks.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2504-19838/
 - Original source: https://arxiv.org/abs/2504.19838

@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2604.20987",
+  "citation-key": "arxiv_2604_20987",
+  "type": "article",
+  "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
+  "URL": "https://arxiv.org/abs/2604.20987v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.20987",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.20987",
+    "identifiers": {
+      "arxiv": "2604.20987"
+    },
+    "first_published_at": "2026-04-22",
+    "record_updated_at": "2026-04-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7b002b56b12997727d90f7dc6a29aabcf30aeccea90589c2296025bfb6da883b",
+      "submitted_at": "2026-04-22T18:17:17Z",
+      "updated_at": "2026-04-22T18:17:17Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.20987v1"
+    }
+  },
+  "note": "First published: 2026-04-22; Recorded arXiv version: v1; Recorded version updated: 2026-04-22T18:17:17Z.",
+  "author": [
+    {
+      "literal": "Xiyang Wu"
+    },
+    {
+      "literal": "Zongxia Li"
+    },
+    {
+      "literal": "Guangyao Shi"
+    },
+    {
+      "literal": "Alexander Duffy"
+    },
+    {
+      "literal": "Tyler Marques"
+    },
+    {
+      "literal": "Matthew Lyle Olson"
+    },
+    {
+      "literal": "Tianyi Zhou"
+    },
+    {
+      "literal": "Dinesh Manocha"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.20987",
+  "genre": "preprint",
+  "version": "1"
+}

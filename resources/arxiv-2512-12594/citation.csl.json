@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2512.12594",
+  "citation-key": "arxiv_2512_12594",
+  "type": "article",
+  "title": "ceLLMate: Sandboxing Browser AI Agents",
+  "URL": "https://arxiv.org/abs/2512.12594v2",
+  "custom": {
+    "catalog_id": "arxiv:2512.12594",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2512.12594",
+    "identifiers": {
+      "arxiv": "2512.12594"
+    },
+    "first_published_at": "2025-12-14",
+    "record_updated_at": "2026-03-04",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fa6b4d9fa34610ec6fa8c0ac8b075127365aad57a20d814a2e838a223cf8bd56",
+      "submitted_at": "2025-12-14T08:25:31Z",
+      "updated_at": "2026-03-04T01:49:57Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2512.12594v2"
+    }
+  },
+  "note": "First published: 2025-12-14; Recorded arXiv version: v2; Recorded version updated: 2026-03-04T01:49:57Z.",
+  "author": [
+    {
+      "literal": "Luoxi Meng"
+    },
+    {
+      "literal": "Henry Feng"
+    },
+    {
+      "literal": "Ilia Shumailov"
+    },
+    {
+      "literal": "Earlence Fernandes"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2512.12594",
+  "genre": "preprint",
+  "version": "2"
+}

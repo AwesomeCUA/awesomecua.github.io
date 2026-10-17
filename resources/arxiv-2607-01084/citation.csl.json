@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2607.01084",
+  "citation-key": "arxiv_2607_01084",
+  "type": "article",
+  "title": "Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use",
+  "URL": "https://arxiv.org/abs/2607.01084v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.01084",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.01084",
+    "identifiers": {
+      "arxiv": "2607.01084"
+    },
+    "first_published_at": "2026-07-01",
+    "record_updated_at": "2026-07-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "240b39387fd314d3feea1c193ea3a1eca3e88a875ad15a4fd8de9f6e3d0998d1",
+      "submitted_at": "2026-07-01T15:40:25Z",
+      "updated_at": "2026-07-01T15:40:25Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.01084v1"
+    }
+  },
+  "note": "First published: 2026-07-01; Recorded arXiv version: v1; Recorded version updated: 2026-07-01T15:40:25Z.",
+  "author": [
+    {
+      "literal": "Song-Lin Lv"
+    },
+    {
+      "literal": "Weiming Wu"
+    },
+    {
+      "literal": "Rui Zhu"
+    },
+    {
+      "literal": "Zi-Jian Cheng"
+    },
+    {
+      "literal": "Lan-Zhe Guo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.01084",
+  "genre": "preprint",
+  "version": "1"
+}

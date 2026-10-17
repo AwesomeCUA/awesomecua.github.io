@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2606.13040",
+  "citation-key": "arxiv_2606_13040",
+  "type": "article",
+  "title": "Robo2Process: Benchmarking and Learning Process-Aware Understanding in Vision-Language Robotic Manipulation",
+  "URL": "https://arxiv.org/abs/2606.13040v4",
+  "custom": {
+    "catalog_id": "arxiv:2606.13040",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.13040",
+    "identifiers": {
+      "arxiv": "2606.13040"
+    },
+    "first_published_at": "2026-06-11",
+    "record_updated_at": "2026-10-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "12ce2e0eecd81a51fc3597504316cbd146fd18c1bf695b3e01179c616f5ebe6e",
+      "submitted_at": "2026-06-11T08:20:42Z",
+      "updated_at": "2026-10-15T11:47:23Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2606.13040v4"
+    }
+  },
+  "note": "First published: 2026-06-11; Recorded arXiv version: v4; Recorded version updated: 2026-10-15T11:47:23Z.",
+  "author": [
+    {
+      "literal": "Dayu Xia"
+    },
+    {
+      "literal": "Yue Shi"
+    },
+    {
+      "literal": "Yao Mu"
+    },
+    {
+      "literal": "Huiting Ji"
+    },
+    {
+      "literal": "Chaofan Ma"
+    },
+    {
+      "literal": "Yingjie Zhou"
+    },
+    {
+      "literal": "Jiezhang Cao"
+    },
+    {
+      "literal": "Hua Chen"
+    },
+    {
+      "literal": "Yang Liu"
+    },
+    {
+      "literal": "Guangtao Zhai"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.13040",
+  "genre": "preprint",
+  "version": "4"
+}

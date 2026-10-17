@@ -1,6 +1,6 @@
 # Large Language Model-Brained GUI Agents: A Survey
 
-Survey of research directions in GUI or computer-use agents.
+Survey of LLM-brained GUI agents that carry out natural-language instructions across web, mobile, and desktop interfaces, organizing research and industry progress.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2411-18279/
 - Original source: https://arxiv.org/abs/2411.18279

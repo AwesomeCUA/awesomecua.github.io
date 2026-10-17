@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2602.12268",
+  "citation-key": "arxiv_2602_12268",
+  "type": "article",
+  "title": "CM2: Reinforcement Learning with Checklist Rewards for Multi-Turn and Multi-Step Agentic Tool Use",
+  "URL": "https://arxiv.org/abs/2602.12268v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.12268",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.12268",
+    "identifiers": {
+      "arxiv": "2602.12268"
+    },
+    "first_published_at": "2026-02-12",
+    "record_updated_at": "2026-02-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a2c7166f28c87f1d857162a3b734bb05152338f60a802efdb98506376f545d35",
+      "submitted_at": "2026-02-12T18:55:09Z",
+      "updated_at": "2026-02-20T21:00:07Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.12268v2"
+    }
+  },
+  "note": "First published: 2026-02-12; Recorded arXiv version: v2; Recorded version updated: 2026-02-20T21:00:07Z.",
+  "author": [
+    {
+      "literal": "Zhen Zhang"
+    },
+    {
+      "literal": "Kaiqiang Song"
+    },
+    {
+      "literal": "Xun Wang"
+    },
+    {
+      "literal": "Yebowen Hu"
+    },
+    {
+      "literal": "Weixiang Yan"
+    },
+    {
+      "literal": "Chenyang Zhao"
+    },
+    {
+      "literal": "Henry Peng Zou"
+    },
+    {
+      "literal": "Haoyun Deng"
+    },
+    {
+      "literal": "Sathish Reddy Indurthi"
+    },
+    {
+      "literal": "Shujian Liu"
+    },
+    {
+      "literal": "Simin Ma"
+    },
+    {
+      "literal": "Xiaoyang Wang"
+    },
+    {
+      "literal": "Xin Eric Wang"
+    },
+    {
+      "literal": "Song Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.12268",
+  "genre": "preprint",
+  "version": "2"
+}

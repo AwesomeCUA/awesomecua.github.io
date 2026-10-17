@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2604.15715",
+  "citation-key": "arxiv_2604_15715",
+  "type": "article",
+  "title": "GTA-2: Benchmarking General Tool Agents from Atomic Tool-Use to Open-Ended Workflows",
+  "URL": "https://arxiv.org/abs/2604.15715v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.15715",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.15715",
+    "identifiers": {
+      "arxiv": "2604.15715"
+    },
+    "first_published_at": "2026-04-17",
+    "record_updated_at": "2026-04-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "35f0d665f828c4f0f8e4e00bda5d2b83372f190aed8102691e6ae835b6218c44",
+      "submitted_at": "2026-04-17T05:36:00Z",
+      "updated_at": "2026-04-17T05:36:00Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.15715v1"
+    }
+  },
+  "note": "First published: 2026-04-17; Recorded arXiv version: v1; Recorded version updated: 2026-04-17T05:36:00Z.",
+  "author": [
+    {
+      "literal": "Jize Wang"
+    },
+    {
+      "literal": "Xuanxuan Liu"
+    },
+    {
+      "literal": "Yining Li"
+    },
+    {
+      "literal": "Songyang Zhang"
+    },
+    {
+      "literal": "Yijun Wang"
+    },
+    {
+      "literal": "Zifei Shan"
+    },
+    {
+      "literal": "Xinyi Le"
+    },
+    {
+      "literal": "Cailian Chen"
+    },
+    {
+      "literal": "Xinping Guan"
+    },
+    {
+      "literal": "Dacheng Tao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.15715",
+  "genre": "preprint",
+  "version": "1"
+}

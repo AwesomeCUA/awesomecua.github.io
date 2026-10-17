@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2605.10966",
+  "citation-key": "arxiv_2605_10966",
+  "type": "article",
+  "title": "MMTB: Evaluating Terminal Agents on Multimedia-File Tasks",
+  "URL": "https://arxiv.org/abs/2605.10966v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.10966",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2605.10966",
+    "identifiers": {
+      "arxiv": "2605.10966"
+    },
+    "first_published_at": "2026-05-08",
+    "record_updated_at": "2026-05-08",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0bd75e6bf9d5a8185a2204cdd99d42f9d96c102f7297abcadb9f8425e9246349",
+      "submitted_at": "2026-05-08T10:57:19Z",
+      "updated_at": "2026-05-08T10:57:19Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.10966v1"
+    }
+  },
+  "note": "First published: 2026-05-08; Recorded arXiv version: v1; Recorded version updated: 2026-05-08T10:57:19Z.",
+  "author": [
+    {
+      "literal": "Chiyeong Heo"
+    },
+    {
+      "literal": "Jaechang Kim"
+    },
+    {
+      "literal": "Junhyuk Kwon"
+    },
+    {
+      "literal": "Hoyoung Kim"
+    },
+    {
+      "literal": "Dongmin Park"
+    },
+    {
+      "literal": "Jonghyun Lee"
+    },
+    {
+      "literal": "Jungseul Ok"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.10966",
+  "genre": "preprint",
+  "version": "1"
+}

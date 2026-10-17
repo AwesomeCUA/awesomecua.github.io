@@ -796,6 +796,289 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2604.05477v1",
+    "archive": "arXiv",
+    "archive_location": "2604.05477",
+    "author": [
+      {
+        "literal": "Yuzhe Zhang"
+      },
+      {
+        "literal": "Xianwei Xue"
+      },
+      {
+        "literal": "Xingyong Wu"
+      },
+      {
+        "literal": "Mengke Chen"
+      },
+      {
+        "literal": "Chen Liu"
+      },
+      {
+        "literal": "Xinran He"
+      },
+      {
+        "literal": "Run Shao"
+      },
+      {
+        "literal": "Feiran Liu"
+      },
+      {
+        "literal": "Huanmin Xu"
+      },
+      {
+        "literal": "Qiutong Pan"
+      },
+      {
+        "literal": "Haiwei Wang"
+      }
+    ],
+    "citation-key": "arxiv_2604_05477",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7c9ef656cbee786bec0d37ac4915bfd04adb36410eda8e647fab0d8605f90753",
+        "submitted_at": "2026-04-07T06:16:23Z",
+        "updated_at": "2026-04-07T06:16:23Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.05477v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.05477",
+      "catalog_id": "arxiv:2604.05477",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-07",
+      "identifiers": {
+        "arxiv": "2604.05477"
+      },
+      "record_updated_at": "2026-04-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.05477",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-07; Recorded arXiv version: v1; Recorded version updated: 2026-04-07T06:16:23Z.",
+    "title": "Don't Act Blindly: Robust GUI Automation via Action-Effect Verification and Self-Correction",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.18240v1",
+    "archive": "arXiv",
+    "archive_location": "2604.18240",
+    "author": [
+      {
+        "literal": "Wentao Shi"
+      },
+      {
+        "literal": "Yu Wang"
+      },
+      {
+        "literal": "Yuyang Zhao"
+      },
+      {
+        "literal": "Yuxin Chen"
+      },
+      {
+        "literal": "Fuli Feng"
+      },
+      {
+        "literal": "Xueyuan Hao"
+      },
+      {
+        "literal": "Xi Su"
+      },
+      {
+        "literal": "Qi Gu"
+      },
+      {
+        "literal": "Hui Su"
+      },
+      {
+        "literal": "Xunliang Cai"
+      },
+      {
+        "literal": "Xiangnan He"
+      }
+    ],
+    "citation-key": "arxiv_2604_18240",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "91a9cdb6c8cb124d2e6033f0decc85e0c73bd972984d973ff687bbdc2be21176",
+        "submitted_at": "2026-04-20T13:23:38Z",
+        "updated_at": "2026-04-20T13:23:38Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.18240v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.18240",
+      "catalog_id": "arxiv:2604.18240",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-20",
+      "identifiers": {
+        "arxiv": "2604.18240"
+      },
+      "record_updated_at": "2026-04-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.18240",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-20; Recorded arXiv version: v1; Recorded version updated: 2026-04-20T13:23:38Z.",
+    "title": "AJ-Bench: Benchmarking Agent-as-a-Judge for Environment-Aware Evaluation",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.25380v2",
+    "archive": "arXiv",
+    "archive_location": "2604.25380",
+    "author": [
+      {
+        "literal": "Enqi Liu"
+      },
+      {
+        "literal": "Liyuan Pan"
+      },
+      {
+        "literal": "Zhi Gao"
+      },
+      {
+        "literal": "Yan Yang"
+      },
+      {
+        "literal": "Chenrui Shi"
+      },
+      {
+        "literal": "Yang Liu"
+      },
+      {
+        "literal": "Jingrong Wu"
+      },
+      {
+        "literal": "Qing Li"
+      }
+    ],
+    "citation-key": "arxiv_2604_25380",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "54b49f54319922268ba880a1c1e8a27ffa7597e228b18be04caa1a6952a6456a",
+        "submitted_at": "2026-04-28T08:43:58Z",
+        "updated_at": "2026-05-08T04:29:20Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2604.25380v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.25380",
+      "catalog_id": "arxiv:2604.25380",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-28",
+      "identifiers": {
+        "arxiv": "2604.25380"
+      },
+      "record_updated_at": "2026-05-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.25380",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-28; Recorded arXiv version: v2; Recorded version updated: 2026-05-08T04:29:20Z.",
+    "title": "Benchmarking and Improving GUI Agents in High-Dynamic Environments",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.12493v1",
+    "archive": "arXiv",
+    "archive_location": "2605.12493",
+    "author": [
+      {
+        "literal": "Di Wu"
+      },
+      {
+        "literal": "Zixiang Ji"
+      },
+      {
+        "literal": "Asmi Kawatkar"
+      },
+      {
+        "literal": "Bryan Kwan"
+      },
+      {
+        "literal": "Jia-Chen Gu"
+      },
+      {
+        "literal": "Nanyun Peng"
+      },
+      {
+        "literal": "Kai-Wei Chang"
+      }
+    ],
+    "citation-key": "arxiv_2605_12493",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5893d1d9205776667a1e1d89720ec3baf55fafe80cc9c6201ca97088f44a10ac",
+        "submitted_at": "2026-05-12T17:59:34Z",
+        "updated_at": "2026-05-12T17:59:34Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.12493v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.12493",
+      "catalog_id": "arxiv:2605.12493",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-12",
+      "identifiers": {
+        "arxiv": "2605.12493"
+      },
+      "record_updated_at": "2026-05-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.12493",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-12; Recorded arXiv version: v1; Recorded version updated: 2026-05-12T17:59:34Z.",
+    "title": "LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2607.22798v1",
     "archive": "arXiv",
     "archive_location": "2607.22798",

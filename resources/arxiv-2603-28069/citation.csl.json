@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2603.28069",
+  "citation-key": "arxiv_2603_28069",
+  "type": "article",
+  "title": "MolmoPoint: Better Pointing for VLMs with Grounding Tokens",
+  "URL": "https://arxiv.org/abs/2603.28069v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.28069",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2603.28069",
+    "identifiers": {
+      "arxiv": "2603.28069"
+    },
+    "first_published_at": "2026-03-30",
+    "record_updated_at": "2026-03-30",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7fe857c9f7e7819a9c2f99448f77bbeae15ae4e2ac8ad308000f3d217b0177fc",
+      "submitted_at": "2026-03-30T06:15:06Z",
+      "updated_at": "2026-03-30T06:15:06Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.28069v1"
+    }
+  },
+  "note": "First published: 2026-03-30; Recorded arXiv version: v1; Recorded version updated: 2026-03-30T06:15:06Z.",
+  "author": [
+    {
+      "literal": "Christopher Clark"
+    },
+    {
+      "literal": "Yue Yang"
+    },
+    {
+      "literal": "Jae Sung Park"
+    },
+    {
+      "literal": "Zixian Ma"
+    },
+    {
+      "literal": "Jieyu Zhang"
+    },
+    {
+      "literal": "Rohun Tripathi"
+    },
+    {
+      "literal": "Mohammadreza Salehi"
+    },
+    {
+      "literal": "Sangho Lee"
+    },
+    {
+      "literal": "Taira Anderson"
+    },
+    {
+      "literal": "Winson Han"
+    },
+    {
+      "literal": "Ranjay Krishna"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.28069",
+  "genre": "preprint",
+  "version": "1"
+}

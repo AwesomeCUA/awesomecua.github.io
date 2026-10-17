@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2606.24775",
+  "citation-key": "arxiv_2606_24775",
+  "type": "article",
+  "title": "Are We Ready For An Agent-Native Memory System?",
+  "URL": "https://arxiv.org/abs/2606.24775v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.24775",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.24775",
+    "identifiers": {
+      "arxiv": "2606.24775"
+    },
+    "first_published_at": "2026-06-23",
+    "record_updated_at": "2026-06-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "46d4ea352e1d67c1344c97826a92e2f7498101eabb3089d61f66b0ba2a3a7a2f",
+      "submitted_at": "2026-06-23T16:34:55Z",
+      "updated_at": "2026-06-23T16:34:55Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.24775v1"
+    }
+  },
+  "note": "First published: 2026-06-23; Recorded arXiv version: v1; Recorded version updated: 2026-06-23T16:34:55Z.",
+  "author": [
+    {
+      "literal": "Wei Zhou"
+    },
+    {
+      "literal": "Xuanhe Zhou"
+    },
+    {
+      "literal": "Shaokun Han"
+    },
+    {
+      "literal": "Hongming Xu"
+    },
+    {
+      "literal": "Guoliang Li"
+    },
+    {
+      "literal": "Zhiyu Li"
+    },
+    {
+      "literal": "Feiyu Xiong"
+    },
+    {
+      "literal": "Fan Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.24775",
+  "genre": "preprint",
+  "version": "1"
+}

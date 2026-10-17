@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2607.20064",
+  "citation-key": "arxiv_2607_20064",
+  "type": "article",
+  "title": "PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning",
+  "URL": "https://arxiv.org/abs/2607.20064v3",
+  "custom": {
+    "catalog_id": "arxiv:2607.20064",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.20064",
+    "identifiers": {
+      "arxiv": "2607.20064"
+    },
+    "first_published_at": "2026-07-22",
+    "record_updated_at": "2026-10-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "664004d0e93848071ef7028c785b243406ce0e5f5b577e212df0ba34b1e9c143",
+      "submitted_at": "2026-07-22T12:11:51Z",
+      "updated_at": "2026-10-12T06:47:34Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2607.20064v3"
+    }
+  },
+  "note": "First published: 2026-07-22; Recorded arXiv version: v3; Recorded version updated: 2026-10-12T06:47:34Z.",
+  "author": [
+    {
+      "literal": "Alexis Fox"
+    },
+    {
+      "literal": "Junlin Wang"
+    },
+    {
+      "literal": "Paul Rosu"
+    },
+    {
+      "literal": "Bhuwan Dhingra"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.20064",
+  "genre": "preprint",
+  "version": "3"
+}

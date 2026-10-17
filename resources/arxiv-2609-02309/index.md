@@ -1,6 +1,6 @@
 # Efficient GUI Agents: A Systems Survey of Observation, Memory, Action, and Runtime Optimization
 
-Survey of research directions in GUI or computer-use agents.
+Surveys GUI-agent efficiency beyond task success: observation, context and memory, action, and planner or runtime cost.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-02309/
 - Original source: https://arxiv.org/abs/2609.02309

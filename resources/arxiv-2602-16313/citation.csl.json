@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2602.16313",
+  "citation-key": "arxiv_2602_16313",
+  "type": "article",
+  "title": "MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks",
+  "URL": "https://arxiv.org/abs/2602.16313v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.16313",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2602.16313",
+    "identifiers": {
+      "arxiv": "2602.16313"
+    },
+    "first_published_at": "2026-02-18",
+    "record_updated_at": "2026-09-17",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2317a94d54b4458a1b7c5e92754aeaefcbf270aabfa0bd8ea333c673cd4596b3",
+      "submitted_at": "2026-02-18T09:49:14Z",
+      "updated_at": "2026-09-17T22:55:03Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.16313v2"
+    }
+  },
+  "note": "First published: 2026-02-18; Recorded arXiv version: v2; Recorded version updated: 2026-09-17T22:55:03Z.",
+  "author": [
+    {
+      "literal": "Zexue He"
+    },
+    {
+      "literal": "Yu Wang"
+    },
+    {
+      "literal": "Churan Zhi"
+    },
+    {
+      "literal": "Yuanzhe Hu"
+    },
+    {
+      "literal": "Tzu-Ping Chen"
+    },
+    {
+      "literal": "Lang Yin"
+    },
+    {
+      "literal": "Ze Chen"
+    },
+    {
+      "literal": "Tong Arthur Wu"
+    },
+    {
+      "literal": "Siru Ouyang"
+    },
+    {
+      "literal": "Zihan Wang"
+    },
+    {
+      "literal": "Jiaxin Pei"
+    },
+    {
+      "literal": "Julian McAuley"
+    },
+    {
+      "literal": "Yejin Choi"
+    },
+    {
+      "literal": "Alex Pentland"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.16313",
+  "genre": "preprint",
+  "version": "2"
+}

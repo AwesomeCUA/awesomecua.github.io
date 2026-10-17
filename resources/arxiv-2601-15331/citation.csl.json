@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:2601.15331",
+  "citation-key": "arxiv_2601_15331",
+  "type": "article",
+  "title": "RECAP: A Resource-Efficient Method for Adversarial Prompting in Large Language Models",
+  "URL": "https://arxiv.org/abs/2601.15331v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.15331",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.15331",
+    "identifiers": {
+      "arxiv": "2601.15331"
+    },
+    "first_published_at": "2026-01-20",
+    "record_updated_at": "2026-01-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "45585e2e30e60c3f62d55ce157f9ec2a6935d63880181cd28274f9f98f08efbf",
+      "submitted_at": "2026-01-20T06:01:02Z",
+      "updated_at": "2026-01-20T06:01:02Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.15331v1"
+    }
+  },
+  "note": "First published: 2026-01-20; Recorded arXiv version: v1; Recorded version updated: 2026-01-20T06:01:02Z.",
+  "author": [
+    {
+      "literal": "Rishit Chugh"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.15331",
+  "genre": "preprint",
+  "version": "1"
+}

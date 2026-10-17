@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2602.13692",
+  "citation-key": "arxiv_2602_13692",
+  "type": "article",
+  "title": "ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System",
+  "URL": "https://arxiv.org/abs/2602.13692v3",
+  "custom": {
+    "catalog_id": "arxiv:2602.13692",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.13692",
+    "identifiers": {
+      "arxiv": "2602.13692"
+    },
+    "first_published_at": "2026-02-14",
+    "record_updated_at": "2026-06-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cd9bf2c90aca0167e1f9882ddbb3fa6b019532df37b82f1e0f57b2b3f1ecb99b",
+      "submitted_at": "2026-02-14T09:26:41Z",
+      "updated_at": "2026-06-30T17:19:18Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2602.13692v3"
+    }
+  },
+  "note": "First published: 2026-02-14; Recorded arXiv version: v3; Recorded version updated: 2026-06-30T17:19:18Z.",
+  "author": [
+    {
+      "literal": "Hao Kang"
+    },
+    {
+      "literal": "Ziyang Li"
+    },
+    {
+      "literal": "Weili Xu"
+    },
+    {
+      "literal": "Xinyu Yang"
+    },
+    {
+      "literal": "Yinfang Chen"
+    },
+    {
+      "literal": "Junxiong Wang"
+    },
+    {
+      "literal": "Beidi Chen"
+    },
+    {
+      "literal": "Tushar Krishna"
+    },
+    {
+      "literal": "Chenfeng Xu"
+    },
+    {
+      "literal": "Simran Arora"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.13692",
+  "genre": "preprint",
+  "version": "3"
+}

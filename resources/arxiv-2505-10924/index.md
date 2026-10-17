@@ -1,6 +1,6 @@
 # A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?
 
-Survey of research directions in GUI or computer-use agents.
+Systematizes safety and security threats to computer-using agents, with taxonomies of threats and defensive strategies.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-10924/
 - Original source: https://arxiv.org/abs/2505.10924

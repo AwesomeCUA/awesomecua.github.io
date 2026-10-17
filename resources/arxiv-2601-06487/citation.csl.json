@@ -1,0 +1,94 @@
+{
+  "id": "arxiv:2601.06487",
+  "citation-key": "arxiv_2601_06487",
+  "type": "article",
+  "title": "ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking",
+  "URL": "https://arxiv.org/abs/2601.06487v3",
+  "custom": {
+    "catalog_id": "arxiv:2601.06487",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.06487",
+    "identifiers": {
+      "arxiv": "2601.06487"
+    },
+    "first_published_at": "2026-01-10",
+    "record_updated_at": "2026-07-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bda6e70050d578b2eb3e9bb89d801bf8afc916beb2dd8b61db8abd0317ecf7c8",
+      "submitted_at": "2026-01-10T08:43:07Z",
+      "updated_at": "2026-07-22T09:23:34Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2601.06487v3"
+    }
+  },
+  "note": "First published: 2026-01-10; Recorded arXiv version: v3; Recorded version updated: 2026-07-22T09:23:34Z.",
+  "author": [
+    {
+      "literal": "Qiang Zhang"
+    },
+    {
+      "literal": "Boli Chen"
+    },
+    {
+      "literal": "Fanrui Zhang"
+    },
+    {
+      "literal": "Ruixue Ding"
+    },
+    {
+      "literal": "Shihang Wang"
+    },
+    {
+      "literal": "Qiuchen Wang"
+    },
+    {
+      "literal": "Yinfeng Huang"
+    },
+    {
+      "literal": "Haonan Zhang"
+    },
+    {
+      "literal": "Rongxiang Zhu"
+    },
+    {
+      "literal": "Pengyong Wang"
+    },
+    {
+      "literal": "Ailin Ren"
+    },
+    {
+      "literal": "Xin Li"
+    },
+    {
+      "literal": "Pengjun Xie"
+    },
+    {
+      "literal": "Jiawei Liu"
+    },
+    {
+      "literal": "Ning Guo"
+    },
+    {
+      "literal": "Jingren Zhou"
+    },
+    {
+      "literal": "Zheng-Jun Zha"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.06487",
+  "genre": "preprint",
+  "version": "3"
+}

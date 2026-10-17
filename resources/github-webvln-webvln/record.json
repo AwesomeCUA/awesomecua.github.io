@@ -1,0 +1,98 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "availability": "Public WebVLN training/evaluation and environment-wrapper source; external data/models unverified.",
+    "license_review": {
+      "code": {
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/WebVLN/WebVLN/HEAD/README.md",
+          "https://api.github.com/repos/WebVLN/WebVLN/git/trees/main?recursive=1"
+        ],
+        "reason": "README MIT badge is not backed by a project license file or component-scoped statement in the inspected release."
+      }
+    },
+    "repository_revision": "59aba284f5888fb7730e1ff07a7e682a1bd1968a"
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:30:54Z",
+      "role": "primary",
+      "sha256": "cb98feab09648856ab30d8eb739a29e837673cc5b4a6642b7ba3a8943ad71053",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "relations",
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/WebVLN/WebVLN/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:30:54Z",
+      "role": "primary",
+      "sha256": "112e67cc9f865b9640da3827e32eaba5a50f2feb8d85c20018dccbcafa6fd3e5",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/WebVLN/WebVLN"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T12:32:05Z",
+      "role": "primary",
+      "sha256": "966adf983bae6052c271f7153c30776a29f7272cf55d05e0175713f02d1900fb",
+      "supports": [
+        "release_status",
+        "details.repository_revision",
+        "licenses.code"
+      ],
+      "url": "https://api.github.com/repos/WebVLN/WebVLN/git/trees/main?recursive=1"
+    }
+  ],
+  "id": "github:webvln/webvln",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-17T12:30:54Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/WebVLN/WebVLN"
+    }
+  ],
+  "name": "WebVLN research implementation",
+  "notes": "The released tree contains navigation models, an environment wrapper, scoring utilities and train/eval scripts. Full WebVLN-v1 data and pretrained files are linked through an external Drive folder; their complete contents and data/weight terms were not verified, so no separate benchmark download or checkpoint is approved here. The README MIT badge has no matching repository license file or explicit component scope; code permissions remain unestablished.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/WebVLN/WebVLN/HEAD/README.md",
+      "target_id": "arxiv:2312.15820",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Training and evaluation code for question-guided website navigation that combines visual observations with web-specific HTML information.",
+  "topics": [
+    "web-navigation",
+    "grounding",
+    "evaluation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/WebVLN/WebVLN"
+}

@@ -889,6 +889,103 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2602.17365v1",
+    "archive": "arXiv",
+    "archive_location": "2602.17365",
+    "author": [
+      {
+        "literal": "Yiming Guan"
+      },
+      {
+        "literal": "Rui Yu"
+      },
+      {
+        "literal": "John Zhang"
+      },
+      {
+        "literal": "Lu Wang"
+      },
+      {
+        "literal": "Chaoyun Zhang"
+      },
+      {
+        "literal": "Liqun Li"
+      },
+      {
+        "literal": "Bo Qiao"
+      },
+      {
+        "literal": "Si Qin"
+      },
+      {
+        "literal": "He Huang"
+      },
+      {
+        "literal": "Fangkai Yang"
+      },
+      {
+        "literal": "Pu Zhao"
+      },
+      {
+        "literal": "Lukas Wutschitz"
+      },
+      {
+        "literal": "Samuel Kessler"
+      },
+      {
+        "literal": "Huseyin A Inan"
+      },
+      {
+        "literal": "Robert Sim"
+      },
+      {
+        "literal": "Saravan Rajmohan"
+      },
+      {
+        "literal": "Qingwei Lin"
+      },
+      {
+        "literal": "Dongmei Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2602_17365",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3d2237dd43f4c876ba69b68c1871ca3efd3aa501e93c86655eb2de6d9f35d2e8",
+        "submitted_at": "2026-02-19T13:48:29Z",
+        "updated_at": "2026-02-19T13:48:29Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2602.17365v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.17365",
+      "catalog_id": "arxiv:2602.17365",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-19",
+      "identifiers": {
+        "arxiv": "2602.17365"
+      },
+      "record_updated_at": "2026-02-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.17365",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-19; Recorded arXiv version: v1; Recorded version updated: 2026-02-19T13:48:29Z.",
+    "title": "Computer-Using World Model",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2602.17588v4",
     "archive": "arXiv",
     "archive_location": "2602.17588",
@@ -957,6 +1054,128 @@
     "title": "Modeling Distinct Human Interaction in Web Agents",
     "type": "article",
     "version": "4"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.12138v1",
+    "archive": "arXiv",
+    "archive_location": "2603.12138",
+    "author": [
+      {
+        "literal": "Rui Shao"
+      },
+      {
+        "literal": "Ruize Gao"
+      },
+      {
+        "literal": "Bin Xie"
+      },
+      {
+        "literal": "Yixing Li"
+      },
+      {
+        "literal": "Kaiwen Zhou"
+      },
+      {
+        "literal": "Shuai Wang"
+      },
+      {
+        "literal": "Weili Guan"
+      },
+      {
+        "literal": "Gongwei Chen"
+      }
+    ],
+    "citation-key": "arxiv_2603_12138",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6421a7928b502cd431964e6f84a1a58d4cd16dbbf1d9b3d1ecc1c2b3dae863bf",
+        "submitted_at": "2026-03-12T16:40:59Z",
+        "updated_at": "2026-03-12T16:40:59Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.12138v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.12138",
+      "catalog_id": "arxiv:2603.12138",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-12",
+      "identifiers": {
+        "arxiv": "2603.12138"
+      },
+      "record_updated_at": "2026-03-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.12138",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-12; Recorded arXiv version: v1; Recorded version updated: 2026-03-12T16:40:59Z.",
+    "title": "HATS: Hardness-Aware Trajectory Synthesis for GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.26211v1",
+    "archive": "arXiv",
+    "archive_location": "2603.26211",
+    "author": [
+      {
+        "literal": "Shrinidhi Kumbhar"
+      },
+      {
+        "literal": "Haofu Liao"
+      },
+      {
+        "literal": "Srikar Appalaraju"
+      },
+      {
+        "literal": "Kunwar Yashraj Singh"
+      }
+    ],
+    "citation-key": "arxiv_2603_26211",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0838afd6777af3e3995fa3bf9645102f98962cccd81c1db438a007b4cd33c442",
+        "submitted_at": "2026-03-27T09:34:07Z",
+        "updated_at": "2026-03-27T09:34:07Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.26211v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.26211",
+      "catalog_id": "arxiv:2603.26211",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-27",
+      "identifiers": {
+        "arxiv": "2603.26211"
+      },
+      "record_updated_at": "2026-03-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.26211",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-27; Recorded arXiv version: v1; Recorded version updated: 2026-03-27T09:34:07Z.",
+    "title": "Towards GUI Agents: Vision-Language Diffusion Models for GUI Grounding",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2607.04425v2",

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2606.21565",
+  "citation-key": "arxiv_2606_21565",
+  "type": "article",
+  "title": "Composing Verifiable Conceptual Models via Building Blocks: Towards Design-Time Verification of Agentic AI Workflows",
+  "URL": "https://arxiv.org/abs/2606.21565v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.21565",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.21565",
+    "identifiers": {
+      "arxiv": "2606.21565"
+    },
+    "first_published_at": "2026-06-19",
+    "record_updated_at": "2026-06-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9b1786a16e5f159c3bd3ede1cebd6a4dbd4f3aad6e093dfadf4e8e6f8d21a6f2",
+      "submitted_at": "2026-06-19T16:03:53Z",
+      "updated_at": "2026-06-19T16:03:53Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.21565v1"
+    }
+  },
+  "note": "First published: 2026-06-19; Recorded arXiv version: v1; Recorded version updated: 2026-06-19T16:03:53Z.",
+  "author": [
+    {
+      "literal": "Noe Y. Flandre"
+    },
+    {
+      "literal": "Alexander C. Nwala"
+    },
+    {
+      "literal": "Philippe J. Giabbanelli"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.21565",
+  "genre": "preprint",
+  "version": "1"
+}

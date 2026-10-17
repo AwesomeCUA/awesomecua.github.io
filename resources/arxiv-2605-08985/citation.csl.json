@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2605.08985",
+  "citation-key": "arxiv_2605_08985",
+  "type": "article",
+  "title": "LLaVA-UHD v4: What Makes Efficient Visual Encoding in MLLMs?",
+  "URL": "https://arxiv.org/abs/2605.08985v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.08985",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.08985",
+    "identifiers": {
+      "arxiv": "2605.08985"
+    },
+    "first_published_at": "2026-05-09",
+    "record_updated_at": "2026-05-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "872edcb58b93563c394673db5bc09e2acd19d28061fa239a0e1bba1b2af6d7bb",
+      "submitted_at": "2026-05-09T15:10:26Z",
+      "updated_at": "2026-05-09T15:10:26Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.08985v1"
+    }
+  },
+  "note": "First published: 2026-05-09; Recorded arXiv version: v1; Recorded version updated: 2026-05-09T15:10:26Z.",
+  "author": [
+    {
+      "literal": "Kechen Fang"
+    },
+    {
+      "literal": "Yihua Qin"
+    },
+    {
+      "literal": "Chongyi Wang"
+    },
+    {
+      "literal": "Wenshuo Ma"
+    },
+    {
+      "literal": "Tianyu Yu"
+    },
+    {
+      "literal": "Yuan Yao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.08985",
+  "genre": "preprint",
+  "version": "1"
+}

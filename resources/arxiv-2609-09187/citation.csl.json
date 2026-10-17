@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2609.09187",
+  "citation-key": "arxiv_2609_09187",
+  "type": "article",
+  "title": "AgenticGen: Reward-Guided Agentic Video Generation for Advertising",
+  "URL": "https://arxiv.org/abs/2609.09187v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.09187",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.09187",
+    "identifiers": {
+      "arxiv": "2609.09187"
+    },
+    "first_published_at": "2026-08-31",
+    "record_updated_at": "2026-08-31",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c5855f657f36e2d89e9838a460ea6bd5379bab7355c3f79b10a30756c1108336",
+      "submitted_at": "2026-08-31T07:35:35Z",
+      "updated_at": "2026-08-31T07:35:35Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.09187v1"
+    }
+  },
+  "note": "First published: 2026-08-31; Recorded arXiv version: v1; Recorded version updated: 2026-08-31T07:35:35Z.",
+  "author": [
+    {
+      "literal": "Xingyuan Bu"
+    },
+    {
+      "literal": "Chengru Song"
+    },
+    {
+      "literal": "Hao Zhou"
+    },
+    {
+      "literal": "Tao Zhou"
+    },
+    {
+      "literal": "Dong Li"
+    },
+    {
+      "literal": "Wei Li"
+    },
+    {
+      "literal": "Shilong Li"
+    },
+    {
+      "literal": "Hao Shi"
+    },
+    {
+      "literal": "Yongxin Guo"
+    },
+    {
+      "literal": "Donghao Zhou"
+    },
+    {
+      "literal": "Qiangpeng Yang"
+    },
+    {
+      "literal": "Shilei Wen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.09187",
+  "genre": "preprint",
+  "version": "1"
+}

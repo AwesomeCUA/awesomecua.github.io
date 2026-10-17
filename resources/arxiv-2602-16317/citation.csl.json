@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2602.16317",
+  "citation-key": "arxiv_2602_16317",
+  "type": "article",
+  "title": "CADEvolve: Creating Realistic CAD via Program Evolution",
+  "URL": "https://arxiv.org/abs/2602.16317v1",
+  "custom": {
+    "catalog_id": "arxiv:2602.16317",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.16317",
+    "identifiers": {
+      "arxiv": "2602.16317"
+    },
+    "first_published_at": "2026-02-18",
+    "record_updated_at": "2026-02-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b4be653b49cc62353d6b3ecb3690a780131496037aef7ec067ba3f367aba2e48",
+      "submitted_at": "2026-02-18T09:54:57Z",
+      "updated_at": "2026-02-18T09:54:57Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2602.16317v1"
+    }
+  },
+  "note": "First published: 2026-02-18; Recorded arXiv version: v1; Recorded version updated: 2026-02-18T09:54:57Z.",
+  "author": [
+    {
+      "literal": "Maksim Elistratov"
+    },
+    {
+      "literal": "Marina Barannikov"
+    },
+    {
+      "literal": "Gregory Ivanov"
+    },
+    {
+      "literal": "Valentin Khrulkov"
+    },
+    {
+      "literal": "Anton Konushin"
+    },
+    {
+      "literal": "Andrey Kuznetsov"
+    },
+    {
+      "literal": "Dmitrii Zhemchuzhnikov"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.16317",
+  "genre": "preprint",
+  "version": "1"
+}

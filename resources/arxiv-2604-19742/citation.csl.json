@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2604.19742",
+  "citation-key": "arxiv_2604_19742",
+  "type": "article",
+  "title": "PlayCoder: Making LLM-Generated GUI Code Playable",
+  "URL": "https://arxiv.org/abs/2604.19742v2",
+  "custom": {
+    "catalog_id": "arxiv:2604.19742",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2604.19742",
+    "identifiers": {
+      "arxiv": "2604.19742"
+    },
+    "first_published_at": "2026-04-21",
+    "record_updated_at": "2026-09-29",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "74ec7a508a815781cc7e721aa6c5e351f086f6cab46da48e22c2b58f52af8ce0",
+      "submitted_at": "2026-04-21T17:59:16Z",
+      "updated_at": "2026-09-29T10:11:48Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2604.19742v2"
+    }
+  },
+  "note": "First published: 2026-04-21; Recorded arXiv version: v2; Recorded version updated: 2026-09-29T10:11:48Z.",
+  "author": [
+    {
+      "literal": "Zhiyuan Peng"
+    },
+    {
+      "literal": "Wei Tao"
+    },
+    {
+      "literal": "Xin Yin"
+    },
+    {
+      "literal": "Chenhao Ying"
+    },
+    {
+      "literal": "Yuan Luo"
+    },
+    {
+      "literal": "Yiwen Guo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.19742",
+  "genre": "preprint",
+  "version": "2"
+}

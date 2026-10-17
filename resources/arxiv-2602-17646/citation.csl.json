@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2602.17646",
+  "citation-key": "arxiv_2602_17646",
+  "type": "article",
+  "title": "Multi-Round Human-AI Collaboration with User-Specified Requirements",
+  "URL": "https://arxiv.org/abs/2602.17646v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.17646",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.17646",
+    "identifiers": {
+      "arxiv": "2602.17646"
+    },
+    "first_published_at": "2026-02-19",
+    "record_updated_at": "2026-02-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7ca65b664159c062c6ba0f06f542f436257984e4e5a4c01cf160213a52c00143",
+      "submitted_at": "2026-02-19T18:54:34Z",
+      "updated_at": "2026-02-24T18:15:39Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.17646v2"
+    }
+  },
+  "note": "First published: 2026-02-19; Recorded arXiv version: v2; Recorded version updated: 2026-02-24T18:15:39Z.",
+  "author": [
+    {
+      "literal": "Sima Noorani"
+    },
+    {
+      "literal": "Shayan Kiyani"
+    },
+    {
+      "literal": "Hamed Hassani"
+    },
+    {
+      "literal": "George Pappas"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.17646",
+  "genre": "preprint",
+  "version": "2"
+}

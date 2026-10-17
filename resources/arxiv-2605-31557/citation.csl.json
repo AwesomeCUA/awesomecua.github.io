@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2605.31557",
+  "citation-key": "arxiv_2605_31557",
+  "type": "article",
+  "title": "EGOSTREAM: A Diagnostic Benchmark for Streaming Episodic Memory in Egocentric Vision",
+  "URL": "https://arxiv.org/abs/2605.31557v2",
+  "custom": {
+    "catalog_id": "arxiv:2605.31557",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.31557",
+    "identifiers": {
+      "arxiv": "2605.31557"
+    },
+    "first_published_at": "2026-05-29",
+    "record_updated_at": "2026-06-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cd5a3c7ce91269c42d26b7c02a445474ccaf5435a643f7b93a8fcaa0ba723655",
+      "submitted_at": "2026-05-29T17:20:10Z",
+      "updated_at": "2026-06-01T11:50:06Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2605.31557v2"
+    }
+  },
+  "note": "First published: 2026-05-29; Recorded arXiv version: v2; Recorded version updated: 2026-06-01T11:50:06Z.",
+  "author": [
+    {
+      "literal": "Rosario Forte"
+    },
+    {
+      "literal": "Giuseppe Lando"
+    },
+    {
+      "literal": "Antonino Furnari"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.31557",
+  "genre": "preprint",
+  "version": "2"
+}

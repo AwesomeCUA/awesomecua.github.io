@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2512.16975",
+  "citation-key": "arxiv_2512_16975",
+  "type": "article",
+  "title": "InfoTok: Adaptive Discrete Video Tokenizer via Information-Theoretic Compression",
+  "URL": "https://arxiv.org/abs/2512.16975v3",
+  "custom": {
+    "catalog_id": "arxiv:2512.16975",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2512.16975",
+    "identifiers": {
+      "arxiv": "2512.16975"
+    },
+    "first_published_at": "2025-12-18",
+    "record_updated_at": "2026-03-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6fbc1114f4d2c4ea5d9c6379d2140b7fbce656b3e45003b9b75dbb5522c82756",
+      "submitted_at": "2025-12-18T17:13:59Z",
+      "updated_at": "2026-03-22T08:01:57Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2512.16975v3"
+    }
+  },
+  "note": "First published: 2025-12-18; Recorded arXiv version: v3; Recorded version updated: 2026-03-22T08:01:57Z.",
+  "author": [
+    {
+      "literal": "Haotian Ye"
+    },
+    {
+      "literal": "Qiyuan He"
+    },
+    {
+      "literal": "Jiaqi Han"
+    },
+    {
+      "literal": "Puheng Li"
+    },
+    {
+      "literal": "Jiaojiao Fan"
+    },
+    {
+      "literal": "Zekun Hao"
+    },
+    {
+      "literal": "Fitsum Reda"
+    },
+    {
+      "literal": "Yogesh Balaji"
+    },
+    {
+      "literal": "Huayu Chen"
+    },
+    {
+      "literal": "Sheng Liu"
+    },
+    {
+      "literal": "Angela Yao"
+    },
+    {
+      "literal": "James Zou"
+    },
+    {
+      "literal": "Stefano Ermon"
+    },
+    {
+      "literal": "Haoxiang Wang"
+    },
+    {
+      "literal": "Ming-Yu Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2512.16975",
+  "genre": "preprint",
+  "version": "3"
+}

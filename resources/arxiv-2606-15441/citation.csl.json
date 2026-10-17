@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2606.15441",
+  "citation-key": "arxiv_2606_15441",
+  "type": "article",
+  "title": "Defending against Adaptive Prompt Injection Attacks via Reasoning-enabled Task Alignment",
+  "URL": "https://arxiv.org/abs/2606.15441v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.15441",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.15441",
+    "identifiers": {
+      "arxiv": "2606.15441"
+    },
+    "first_published_at": "2026-06-13",
+    "record_updated_at": "2026-06-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "753c6b7737dff3814d7ae26a3c14f30cc7af02aa957ca5ec80a1663400629c8f",
+      "submitted_at": "2026-06-13T19:15:44Z",
+      "updated_at": "2026-06-13T19:15:44Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.15441v1"
+    }
+  },
+  "note": "First published: 2026-06-13; Recorded arXiv version: v1; Recorded version updated: 2026-06-13T19:15:44Z.",
+  "author": [
+    {
+      "literal": "Lipeng He"
+    },
+    {
+      "literal": "Yihan Wang"
+    },
+    {
+      "literal": "Jiawen Zhang"
+    },
+    {
+      "literal": "N. Asokan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.15441",
+  "genre": "preprint",
+  "version": "1"
+}
