@@ -1,5 +1,5 @@
 {
-  "relation_count": 207,
+  "relation_count": 234,
   "semantics": "Reviewed semantic links only. Documentation does not establish training or evaluation dependency.",
   "relations": [
     {
@@ -35,6 +35,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:ai-nikolai/stateact",
+      "source_name": "StateAct",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/ai-nikolai/StateAct/HEAD/README.md",
+      "target_id": "arxiv:2410.02810",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:alibaba/ui-ins",
       "source_name": "UI-Ins",
       "source_kind": "dataset",
@@ -56,6 +64,14 @@
       "source_kind": "agent",
       "evidence_url": "https://export.arxiv.org/api/query?id_list=2412.04454%2C2412.04626%2C2412.05467%2C2412.09362%2C2412.09605%2C2412.10342%2C2412.10742%2C2412.10840%2C2412.13103%2C2412.13194%2C2412.13501%2C2412.14161%2C2412.14470%2C2412.16256%2C2412.17589%2C2412.18116%2C2412.18426%2C2412.19723%2C2501.01149%2C2501.04575%2C2501.07572%2C2501.11733%2C2501.12326%2C2501.13896%2C2501.16150%2C2502.01600%2C2502.01977%2C2502.02982%2C2502.06395%2C2502.07949%2C2502.08047%2C2502.08226%2C2502.11357%2C2502.13053%2C2502.13923%2C2502.14282%2C2502.18906%2C2503.00401%2C2503.02268%2C2503.03196%2C2503.04730%2C2503.05143%2C2503.06470%2C2503.09263%2C2503.11069%2C2503.11170%2C2503.12687%2C2503.15661%2C2503.15937%2C2503.16465&max_results=50",
       "target_id": "arxiv:2503.09263",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:amazon-science/pae",
+      "source_name": "Proposer-Agent-Evaluator (PAE)",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/amazon-science/PAE/HEAD/README.md",
+      "target_id": "arxiv:2412.13194",
       "type": "documented_by"
     },
     {
@@ -105,6 +121,14 @@
       "evidence_url": "https://raw.githubusercontent.com/browserbase/stagehand/HEAD/README.md",
       "target_id": "organization:browserbase",
       "type": "published_by"
+    },
+    {
+      "source_id": "github:bytedance-seed/agent-r",
+      "source_name": "Agent-R",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/ByteDance-Seed/Agent-R/HEAD/README.md",
+      "target_id": "arxiv:2501.11425",
+      "type": "documented_by"
     },
     {
       "source_id": "github:bytedance/ui-tars",
@@ -256,6 +280,14 @@
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/gydpku/PPTC/HEAD/README.md",
       "target_id": "arxiv:2311.01767",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:heimingx/tag",
+      "source_name": "TAG attention-driven GUI grounding",
+      "source_kind": "tool",
+      "evidence_url": "https://raw.githubusercontent.com/HeimingX/TAG/HEAD/README.md",
+      "target_id": "arxiv:2412.10840",
       "type": "documented_by"
     },
     {
@@ -448,6 +480,14 @@
       "source_kind": "framework",
       "evidence_url": "https://raw.githubusercontent.com/MurtyShikhar/NNetnav/HEAD/README.md",
       "target_id": "arxiv:2410.02907",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:night-chen/workforceagent-r1",
+      "source_name": "WorkForceAgent-R1",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/night-chen/WorkForceAgent-R1/HEAD/README.md",
+      "target_id": "arxiv:2505.22942",
       "type": "documented_by"
     },
     {
@@ -723,6 +763,14 @@
       "type": "published_by"
     },
     {
+      "source_id": "github:squeezeailab/plan-and-act",
+      "source_name": "Plan-and-Act",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/SqueezeAILab/plan-and-act/HEAD/README.md",
+      "target_id": "arxiv:2503.09572",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:steel-dev/steel-browser",
       "source_name": "Steel Browser",
       "source_kind": "infrastructure",
@@ -811,6 +859,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:thudm/webrl",
+      "source_name": "WebRL",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/THUDM/WebRL/HEAD/README.md",
+      "target_id": "arxiv:2411.02337",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:tml-epfl/os-harm",
       "source_name": "OS-Harm",
       "source_kind": "benchmark",
@@ -827,11 +883,27 @@
       "type": "component_of"
     },
     {
+      "source_id": "github:ubiquitouslearning/droidcall",
+      "source_name": "DroidCall generation and evaluation code",
+      "source_kind": "framework",
+      "evidence_url": "https://huggingface.co/datasets/mllmTeam/DroidCall/raw/main/README.md",
+      "target_id": "arxiv:2412.00402",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:ucsb-ai/screen-point-and-read",
       "source_name": "Screen Point-and-Read / Tree-of-Lens",
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/eric-ai-lab/Screen-Point-and-Read/HEAD/README.md",
       "target_id": "arxiv:2406.19263",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:udgok/videocad",
+      "source_name": "VideoCAD training and evaluation code",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/UDGOK/videocad/HEAD/README.md",
+      "target_id": "arxiv:2505.24838",
       "type": "documented_by"
     },
     {
@@ -872,6 +944,14 @@
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/web-arena-x/webarena/HEAD/README.md",
       "target_id": "arxiv:2307.13854",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:weizhepei/webagent-r1",
+      "source_name": "WebAgent-R1",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/weizhepei/WebAgent-R1/HEAD/WebAgent-R1/README.md",
+      "target_id": "arxiv:2505.16421",
       "type": "documented_by"
     },
     {
@@ -1091,6 +1171,14 @@
       "type": "published_by"
     },
     {
+      "source_id": "url:06dd5ac7917c45d48509",
+      "source_name": "Aguvis stage 1 grounding data",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/xlangai/aguvis-stage1/raw/main/README.md",
+      "target_id": "arxiv:2412.04454",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:07b6bbce7ce26a847f79",
       "source_name": "Claude for Chrome",
       "source_kind": "product",
@@ -1113,6 +1201,14 @@
       "evidence_url": "https://www.simular.ai/",
       "target_id": "organization:simular",
       "type": "published_by"
+    },
+    {
+      "source_id": "url:0c5659ca9e59d942aea3",
+      "source_name": "GUI-Lasagne L1",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/SenseLLM/GUI-Lasagne-L1/raw/main/README.md",
+      "target_id": "arxiv:2503.03196",
+      "type": "documented_by"
     },
     {
       "source_id": "url:0fdeb1cf5f49f84820e6",
@@ -1219,6 +1315,14 @@
       "type": "variant_of"
     },
     {
+      "source_id": "url:2b5dead3172c0b70da7e",
+      "source_name": "VideoCAD data",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/UDGOK/videocad/HEAD/README.md",
+      "target_id": "arxiv:2505.24838",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:2c2004baae4669f8169a",
       "source_name": "UI-Vision",
       "source_kind": "dataset",
@@ -1233,6 +1337,22 @@
       "evidence_url": "https://huggingface.co/api/models/OS-Copilot/OS-Atlas-Base-4B",
       "target_id": "github:os-copilot/os-atlas",
       "type": "variant_of"
+    },
+    {
+      "source_id": "url:35b9879a351cc3b3d7d5",
+      "source_name": "InfiGUI-R1 3B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/InfiX-ai/InfiGUI-R1-3B/raw/main/README.md",
+      "target_id": "arxiv:2504.14239",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:3932d69c6b6f9b2a7ba8",
+      "source_name": "Plan-and-Act Planner 70B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/xTRam1/plan-and-act-planner-70b/raw/main/README.md",
+      "target_id": "arxiv:2503.09572",
+      "type": "documented_by"
     },
     {
       "source_id": "url:4a47a6df845735984bf1",
@@ -1267,6 +1387,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:52b7de0e43b1afc9c226",
+      "source_name": "SpiritSight-Agent 8B base",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/SenseLLM/SpiritSight-Agent-8B/raw/main/README.md",
+      "target_id": "arxiv:2503.03196",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:546e6c95825d1318c98d",
       "source_name": "OpenMobile-Data-v2",
       "source_kind": "dataset",
@@ -1289,6 +1417,14 @@
       "evidence_url": "https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/computer-use-tool",
       "target_id": "organization:anthropic",
       "type": "published_by"
+    },
+    {
+      "source_id": "url:5d61c1b5fc8dd650518d",
+      "source_name": "PAE LLaVA 7B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/yifeizhou/pae-llava-7b/raw/main/README.md",
+      "target_id": "arxiv:2412.13194",
+      "type": "documented_by"
     },
     {
       "source_id": "url:60a95f34072aeb2771cc",
@@ -1347,6 +1483,14 @@
       "type": "published_by"
     },
     {
+      "source_id": "url:7c568d88a472f914d316",
+      "source_name": "UI-R1 3B training data",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/LZXzju/UI-R1-3B-Train/raw/main/README.md",
+      "target_id": "arxiv:2503.21620",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:826f3753905c5c43bf46",
       "source_name": "Seg2Click Qwen3.5 9B",
       "source_kind": "model",
@@ -1387,6 +1531,14 @@
       "type": "published_by"
     },
     {
+      "source_id": "url:8ef3985dce697e5feea9",
+      "source_name": "AgentCPM-GUI 8B checkpoint",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/openbmb/AgentCPM-GUI/raw/main/README.md",
+      "target_id": "arxiv:2506.01391",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:964d70c40bfc5ca8e1ee",
       "source_name": "AgentNet",
       "source_kind": "dataset",
@@ -1419,6 +1571,22 @@
       "type": "variant_of"
     },
     {
+      "source_id": "url:a6ee20fea67438d91e06",
+      "source_name": "WebRL Llama 3.1 8B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/zai-org/webrl-llama-3.1-8b/raw/main/README.md",
+      "target_id": "arxiv:2411.02337",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:ae8f5208eea9e7f1f606",
+      "source_name": "DroidCall data",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/mllmTeam/DroidCall/raw/main/README.md",
+      "target_id": "arxiv:2412.00402",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:b074ccdb2d9ec0277b65",
       "source_name": "ChatGPT Agent",
       "source_kind": "product",
@@ -1427,12 +1595,28 @@
       "type": "published_by"
     },
     {
+      "source_id": "url:b5e2127e07f692d516b9",
+      "source_name": "Aguvis stage 2 trajectory data",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/xlangai/aguvis-stage2/raw/main/README.md",
+      "target_id": "arxiv:2412.04454",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:b940a884f200a916a61b",
       "source_name": "Steel Cloud",
       "source_kind": "product",
       "evidence_url": "https://steel.dev/",
       "target_id": "organization:steel",
       "type": "published_by"
+    },
+    {
+      "source_id": "url:ba6453cfdae0eb049ced",
+      "source_name": "Plan-and-Act training data",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/xTRam1/plan-and-act-data/raw/main/README.md",
+      "target_id": "arxiv:2503.09572",
+      "type": "documented_by"
     },
     {
       "source_id": "url:c0bd07d82ce25ad1d99d",
@@ -1483,12 +1667,36 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:cc931199bda2bdf1f5f7",
+      "source_name": "POINTS-GUI-G 8B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/tencent/POINTS-GUI-G/raw/main/README.md",
+      "target_id": "arxiv:2602.06391",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:cee45b940d5fbff3ccca",
       "source_name": "Phi-Ground checkpoint",
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/api/models/microsoft/Phi-Ground",
       "target_id": "github:microsoft/phi-ground",
       "type": "variant_of"
+    },
+    {
+      "source_id": "url:cfea8a0949472a637990",
+      "source_name": "SeeClick checkpoint",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/njucckevin/SeeClick/HEAD/readme.md",
+      "target_id": "arxiv:2401.10935",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:d1e85aeb6d96859c109d",
+      "source_name": "WebRL outcome reward model 8B",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/THUDM/WebRL/HEAD/README.md",
+      "target_id": "arxiv:2411.02337",
+      "type": "documented_by"
     },
     {
       "source_id": "url:d236e7ec7a2b0028950a",
@@ -1625,6 +1833,14 @@
       "evidence_url": "https://openai.com/index/introducing-operator/",
       "target_id": "organization:openai",
       "type": "published_by"
+    },
+    {
+      "source_id": "url:f13474d7aa734a30624d",
+      "source_name": "UI-R1 3B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/LZXzju/Qwen2.5-VL-3B-UI-R1/raw/main/README.md",
+      "target_id": "arxiv:2503.21620",
+      "type": "documented_by"
     },
     {
       "source_id": "url:f8566bd0394d36ed4f8e",

@@ -4,9 +4,9 @@
 
 [Website](https://awesomecua.github.io/) · [Research papers](https://awesomecua.github.io/papers/) · [中文指南](https://awesomecua.github.io/zh/) · [GitHub organization](https://github.com/AwesomeCUA)
 
-**2,010 resource records** · **606 curated** · **1,724 arXiv records** · **36 discovery documents**
+**2,008 resource records** · **714 curated** · **1,694 arXiv records** · **36 discovery documents**
 
-Evidence snapshot: 2026-10-17T01:52:51Z. Bibliography counts overlap review-state counts. Resources are not independent projects.
+Evidence snapshot: 2026-10-17T02:12:09Z. Bibliography counts overlap review-state counts. Resources are not independent projects.
 
 ## What is a computer-use agent?
 
@@ -16,15 +16,15 @@ A computer-use agent observes software interfaces, chooses and executes actions,
 
 | Category | Records | Browse |
 | --- | ---: | --- |
-| Research papers | 1,713 | [Open directory](https://awesomecua.github.io/categories/paper/) |
+| Research papers | 1,683 | [Open directory](https://awesomecua.github.io/categories/paper/) |
 | Surveys | 11 | [Open directory](https://awesomecua.github.io/categories/survey/) |
-| Models and checkpoints | 56 | [Open directory](https://awesomecua.github.io/categories/model/) |
-| Datasets | 47 | [Open directory](https://awesomecua.github.io/categories/dataset/) |
+| Models and checkpoints | 66 | [Open directory](https://awesomecua.github.io/categories/model/) |
+| Datasets | 55 | [Open directory](https://awesomecua.github.io/categories/dataset/) |
 | Benchmarks | 61 | [Open directory](https://awesomecua.github.io/categories/benchmark/) |
 | Agents | 30 | [Open directory](https://awesomecua.github.io/categories/agent/) |
-| Frameworks | 35 | [Open directory](https://awesomecua.github.io/categories/framework/) |
+| Frameworks | 44 | [Open directory](https://awesomecua.github.io/categories/framework/) |
 | Infrastructure | 12 | [Open directory](https://awesomecua.github.io/categories/infrastructure/) |
-| Tools | 10 | [Open directory](https://awesomecua.github.io/categories/tool/) |
+| Tools | 11 | [Open directory](https://awesomecua.github.io/categories/tool/) |
 | Products | 19 | [Open directory](https://awesomecua.github.io/categories/product/) |
 | Publishers | 16 | [Open directory](https://awesomecua.github.io/categories/company/) |
 

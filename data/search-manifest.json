@@ -1,8 +1,8 @@
 {
   "site_url": "https://awesomecua.github.io",
-  "indexable_pages": 632,
-  "metadata_only_pages": 1404,
-  "excluded_pages": 40,
+  "indexable_pages": 740,
+  "metadata_only_pages": 1294,
+  "excluded_pages": 70,
   "pages": [
     {
       "path": "/resources/arxiv-0808-1755/",
@@ -315,34 +315,14 @@
       "sha256": "a3e4e0219cc201edeabbaedb8a8a9d3dde001892e2bb1575e9108556be6b1fa9"
     },
     {
-      "path": "/resources/arxiv-1711-05875/",
-      "indexable": false,
-      "sha256": "7d5b44e20ff8dec72c431d9e159e4bc0ab3a5c3f2d2d8c017df2778a3f1c37ed"
-    },
-    {
       "path": "/resources/arxiv-1712-05233/",
       "indexable": false,
       "sha256": "81f1eab0a2c5c5f850733820a435d72bb9ad81b9b7927ad6d489127b6c896779"
     },
     {
-      "path": "/resources/arxiv-1712-06482/",
-      "indexable": false,
-      "sha256": "9673a6dcc10d2b93880d61b62a2954cfa272d1dfdc8d8556f93addf9e99e7fdb"
-    },
-    {
       "path": "/resources/arxiv-1801-02829/",
       "indexable": false,
       "sha256": "2e3bd55042553d2e671d395ea3567c72ce8cf37d2a371c214b720c0c416730dc"
-    },
-    {
-      "path": "/resources/arxiv-1801-04006/",
-      "indexable": false,
-      "sha256": "ffe6bc31be05ae189d9baefc879177647c14e8155b907dedf788e1a00c140d1f"
-    },
-    {
-      "path": "/resources/arxiv-1801-04073/",
-      "indexable": false,
-      "sha256": "2e809d2d0ec9d9680ca617bc402f3c591e00072b8ab1fc20963436ca925f2ee8"
     },
     {
       "path": "/resources/arxiv-1801-09263/",
@@ -370,11 +350,6 @@
       "sha256": "d5bd8f53eb951e99a4ead15909a68cf109ee271b9a5afbc843146b5c7033f0c9"
     },
     {
-      "path": "/resources/arxiv-1802-08303/",
-      "indexable": false,
-      "sha256": "2c397bf7c791a670ef6004963155ecb50b725fde94b0eef09ef02c5a54a79d15"
-    },
-    {
       "path": "/resources/arxiv-1802-08802/",
       "indexable": true,
       "sha256": "6c7464427702c37bebac8deda40659ba3ad2c52c948dc19b962c972cfc824a9e"
@@ -395,19 +370,9 @@
       "sha256": "bc6f432a3f55bf8e1cbd437bac4ca6862a8862bb9831df69d2cb3cec574166dd"
     },
     {
-      "path": "/resources/arxiv-1804-00267/",
-      "indexable": false,
-      "sha256": "e5f62dd9f8cf028dfe29afe2707afb1f306ca1c997e59d00de6d7f006cb9db3d"
-    },
-    {
       "path": "/resources/arxiv-1805-00824/",
       "indexable": false,
       "sha256": "cb813ebeb27a8bec0e0d00145deaf037ebfb2f541ff994477206388fcd4bcc42"
-    },
-    {
-      "path": "/resources/arxiv-1805-00988/",
-      "indexable": false,
-      "sha256": "4d3fa9657a8f68dcc0a4d51a06c38629c296b7a981779fbd73d2c5861902589a"
     },
     {
       "path": "/resources/arxiv-1805-06046/",
@@ -430,21 +395,6 @@
       "sha256": "c4c0578d1f03f9441ab362f71a926c8d672d1bec3639da1474f1b8f393272af7"
     },
     {
-      "path": "/resources/arxiv-1806-04663/",
-      "indexable": false,
-      "sha256": "c61bb01c4a210fbc28209c5fc7a6aab5ec40aaeb1000b8efc8a51b83165de23e"
-    },
-    {
-      "path": "/resources/arxiv-1806-05543/",
-      "indexable": false,
-      "sha256": "be9881cd2fec7d5749cd3cc57ccf5b708ee3a90300cc29bdd4ff8c8a9390cd7d"
-    },
-    {
-      "path": "/resources/arxiv-1806-09138/",
-      "indexable": false,
-      "sha256": "59bfad6a1e71d25915e0b9ec1d4a7ac535f0ec0548a2110d7c4f33ea1c014ccc"
-    },
-    {
       "path": "/resources/arxiv-1807-10458/",
       "indexable": false,
       "sha256": "8fd20ab24cbaf089fb0df1388061c17d926ffeee2395802bf7362afdc43d0aec"
@@ -458,11 +408,6 @@
       "path": "/resources/arxiv-1808-04222/",
       "indexable": false,
       "sha256": "3e7a0be7894b3d6dedc23aaff742d0f2eba94d856ce93e2b0160358511838dc6"
-    },
-    {
-      "path": "/resources/arxiv-1808-06709/",
-      "indexable": false,
-      "sha256": "4a4ec859bb5df2a208770f4b7de6efa9370aabbe1754598d2c672c3307ea4966"
     },
     {
       "path": "/resources/arxiv-1808-09132/",
@@ -480,39 +425,14 @@
       "sha256": "9b1b74e8b7ea14b1210b6e8435e1cffcc06ea9d84722147de2eb8c50610c1273"
     },
     {
-      "path": "/resources/arxiv-1811-03894/",
-      "indexable": false,
-      "sha256": "cffa3f0aae8c5eda31079dbb92459474e23926f2d728eb7e2017e1987d558d82"
-    },
-    {
       "path": "/resources/arxiv-1811-05407/",
       "indexable": false,
       "sha256": "a7d68bbddd611e8f210be3ceba55bb75b1011393147970719047e8bdb1dd8e12"
     },
     {
-      "path": "/resources/arxiv-1811-12926/",
-      "indexable": false,
-      "sha256": "23d6455f0666e8818ee5b96bb79d82ec6bb6fc476876fd47cfcd581b26faa112"
-    },
-    {
-      "path": "/resources/arxiv-1812-06425/",
-      "indexable": false,
-      "sha256": "0ed38a1c0a28e8d308a41c920fbadeb942d81b5f7bfc8afda85da39740b4ee46"
-    },
-    {
-      "path": "/resources/arxiv-1812-07503/",
-      "indexable": false,
-      "sha256": "0f4ee4f9d665e56e357fb916225ee0552e1703981aba4485161aaa8929900635"
-    },
-    {
       "path": "/resources/arxiv-1901-05708/",
       "indexable": false,
       "sha256": "e4b1cb562d5acec79c7e52efde886161821ac952343c856b51f6be4fe9c1b1f2"
-    },
-    {
-      "path": "/resources/arxiv-1901-07653/",
-      "indexable": false,
-      "sha256": "0b2a16c4cb741dac7255b5251dbbda17432db1b07a7a9aa2360687a4ee07229d"
     },
     {
       "path": "/resources/arxiv-1901-07976/",
@@ -560,29 +480,9 @@
       "sha256": "b6784b9075291d99c92779b24028bfc4f01ae4dda5cf2612f7f31d1fef38678f"
     },
     {
-      "path": "/resources/arxiv-1904-12028/",
-      "indexable": false,
-      "sha256": "1f7d4a8507498d3a884bb2250c6d966e68685c67e957e5365d5bea1bbb320459"
-    },
-    {
       "path": "/resources/arxiv-1905-08916/",
       "indexable": false,
       "sha256": "27fd34aa27647ae2486fbc25cb496ed58f59634a349e257005997cb039f5a03f"
-    },
-    {
-      "path": "/resources/arxiv-1907-00657/",
-      "indexable": false,
-      "sha256": "2773cdbbad9d595e485500f293554e467c89f27bc7676f71c2827c40f338255e"
-    },
-    {
-      "path": "/resources/arxiv-1907-02804/",
-      "indexable": false,
-      "sha256": "aafee88e042cdd914590f2e61efaab73584df06f241898bd76265f8e0cdf8463"
-    },
-    {
-      "path": "/resources/arxiv-1907-04084/",
-      "indexable": false,
-      "sha256": "7f3cad2bcb245525ccab1d7a46836cd0ce3e5ae3ea170e6994c7d16a5a9d2962"
     },
     {
       "path": "/resources/arxiv-1908-07915/",
@@ -605,34 +505,9 @@
       "sha256": "754e6b16a69efaca8e14ba48f34c6b633b61f12a2dc0406cacc5076cec020560"
     },
     {
-      "path": "/resources/arxiv-1910-11075/",
-      "indexable": false,
-      "sha256": "f116d55303bc085ec2e57489969e93c4eb86f39e86b537c55f8651b82e6ee1bb"
-    },
-    {
       "path": "/resources/arxiv-1910-11100/",
       "indexable": false,
       "sha256": "b64e99611e0568aed5d5139494dd404e6f93e199ea65799c2ffc88402fa9316f"
-    },
-    {
-      "path": "/resources/arxiv-1911-01354/",
-      "indexable": false,
-      "sha256": "ae83ea4d09c5dff71b1662a58b070c3a443bcc348c5d50caf86b8c02e8164bb5"
-    },
-    {
-      "path": "/resources/arxiv-1912-05119/",
-      "indexable": false,
-      "sha256": "c7c23896ab17038a8b1ca8b6d7b48521bc05e59ad25232a7e031a3a43732c4d4"
-    },
-    {
-      "path": "/resources/arxiv-2001-00794/",
-      "indexable": false,
-      "sha256": "8c5eacdff98e86fbd3f195f154a324081216d4a2d516cfdd6d1efaeb788046a5"
-    },
-    {
-      "path": "/resources/arxiv-2001-04941/",
-      "indexable": false,
-      "sha256": "50e8f0e31c1d153a767a9218062469b204e62d8d470886bf6f1b5071d0dd98c9"
     },
     {
       "path": "/resources/arxiv-2003-11668/",
@@ -640,34 +515,9 @@
       "sha256": "aed015673e4bba9cf473d782d4403da3b69cf0458982ee544fa38baacd2a7ff6"
     },
     {
-      "path": "/resources/arxiv-2004-00704/",
-      "indexable": false,
-      "sha256": "edff88217ecebbd45eb812668b775c785707934ee23bed1af004ea1320c8ecf9"
-    },
-    {
-      "path": "/resources/arxiv-2004-01329/",
-      "indexable": false,
-      "sha256": "f9d132c914f5a23e89e59a25211c28439b68a0ae9c2f67075d220ddc417539b3"
-    },
-    {
-      "path": "/resources/arxiv-2004-04114/",
-      "indexable": false,
-      "sha256": "f7e46cbe2bd651aab9e1568f5af31bdb2179e22f7b6da3b14418e19a838b5962"
-    },
-    {
-      "path": "/resources/arxiv-2004-05956/",
-      "indexable": false,
-      "sha256": "75f1b1a9a6cdea571e6d2f1bdedbcc5d06836771f1c4c7e83f4c42bf8be5d880"
-    },
-    {
       "path": "/resources/arxiv-2004-08495/",
       "indexable": false,
       "sha256": "a000985b7a6715bc14bf114114e4454182a6ec2a25157308b44a14d0715a026d"
-    },
-    {
-      "path": "/resources/arxiv-2004-12621/",
-      "indexable": false,
-      "sha256": "56ed2914a48ad63d54f57fe94c5b228ebdba0b6bb86a436354a15183e7ad5f5c"
     },
     {
       "path": "/resources/arxiv-2005-02265/",
@@ -1762,7 +1612,7 @@
     {
       "path": "/resources/arxiv-2401-10935/",
       "indexable": true,
-      "sha256": "d45dc4a4468f164a41bbc724b8ce7a08ac874440cb3306497122d71c006561c0"
+      "sha256": "028dc39f6a25d0955be67605d33611940b2cc106449c40b3ac18ad0e1653f593"
     },
     {
       "path": "/resources/arxiv-2401-13178/",
@@ -2627,7 +2477,7 @@
     {
       "path": "/resources/arxiv-2410-02810/",
       "indexable": true,
-      "sha256": "67acfa6e691216787c4fc97623ff3b0aa813e99336d80abf99d861677d202eb3"
+      "sha256": "4dcee9d0106b7e85656b95e60aa9468e33b64bb60c3ce723ba67101e5cc4d2c5"
     },
     {
       "path": "/resources/arxiv-2410-02907/",
@@ -2842,7 +2692,7 @@
     {
       "path": "/resources/arxiv-2411-02337/",
       "indexable": true,
-      "sha256": "881157e4457e3f915450e75ed32fa8ad8588971657e618c97ddf3d70d800ff63"
+      "sha256": "349a0408ac5274f58b334233a35b64d44e063bb8abcadc93b27207461414ea32"
     },
     {
       "path": "/resources/arxiv-2411-02391/",
@@ -2912,7 +2762,7 @@
     {
       "path": "/resources/arxiv-2412-00402/",
       "indexable": true,
-      "sha256": "ef7087d17d7d863dea962f35ea4d3fa98a2615e06b35a0997fe564f55f0cc0bf"
+      "sha256": "62810dcfa4c8138d12330b3bec1a3c909d3e2389fd5ea190d338106a98e98e4b"
     },
     {
       "path": "/resources/arxiv-2412-01268/",
@@ -2922,7 +2772,7 @@
     {
       "path": "/resources/arxiv-2412-04454/",
       "indexable": true,
-      "sha256": "ac7a18d99629a7d150de740a8b216c15cb37b46eb8f1c709c25cdda828723682"
+      "sha256": "911bd4cf2149cea42a11a376a0f06d4c3098c3b1f9cece1bbd9e14675279cd6c"
     },
     {
       "path": "/resources/arxiv-2412-04626/",
@@ -2972,7 +2822,7 @@
     {
       "path": "/resources/arxiv-2412-10840/",
       "indexable": true,
-      "sha256": "3796d27f849fd7e598a784b9dc9aa6deb06e992c8c2db73f87859ba5dd27ccc4"
+      "sha256": "f34dab999dfdea9ba8c85b7a1abceb3bd53192a4a0189b7ebbca37b795e150b5"
     },
     {
       "path": "/resources/arxiv-2412-13103/",
@@ -2982,7 +2832,7 @@
     {
       "path": "/resources/arxiv-2412-13194/",
       "indexable": true,
-      "sha256": "bda85e15699651e68f2baa71ca8185f7c0d048ffff5c2f982d621b3483d20001"
+      "sha256": "5ef2517826a749595cf4d646a3c8b2632081d0e1cde0cf35cda81f6e83c84cdb"
     },
     {
       "path": "/resources/arxiv-2412-13501/",
@@ -3072,7 +2922,7 @@
     {
       "path": "/resources/arxiv-2501-11425/",
       "indexable": true,
-      "sha256": "09a3f6d71fc0bcb9d3b9e4ab477baee1d983aea51237169b0a795b6e01db3026"
+      "sha256": "b93978c5797030fe404d2e12478fc5a95a234d93ca254f452b61b33af09f2345"
     },
     {
       "path": "/resources/arxiv-2501-11733/",
@@ -3262,7 +3112,7 @@
     {
       "path": "/resources/arxiv-2503-03196/",
       "indexable": true,
-      "sha256": "e2883ff4fe0635d9658a870a757402d0019231ff7aa1911a4d44453e6f45cdfa"
+      "sha256": "c96c8ccc3eebad423e2290e4ea31a125f446f53c87a2478fc387fc0f5f7d1b5d"
     },
     {
       "path": "/resources/arxiv-2503-03743/",
@@ -3322,7 +3172,7 @@
     {
       "path": "/resources/arxiv-2503-09572/",
       "indexable": true,
-      "sha256": "df3fc38dbbe031ce201c1a338ab4d065888982a630eac77e7a3950d66c703673"
+      "sha256": "6ceeaa7d6947fd62b654bc22f4483bf72f6cacb46ed7e8b408f2dc0a8415d87b"
     },
     {
       "path": "/resources/arxiv-2503-09780/",
@@ -3417,7 +3267,7 @@
     {
       "path": "/resources/arxiv-2503-21620/",
       "indexable": true,
-      "sha256": "271a85b09248b5438dd91a6219d3d2e9c39188d0587ed3f45b2caed1770c6ddc"
+      "sha256": "c29488d891c79a0c9a20dd5d6f858b35349ec05000a16de34e2d90c38b14957f"
     },
     {
       "path": "/resources/arxiv-2503-22738/",
@@ -3441,18 +3291,18 @@
     },
     {
       "path": "/resources/arxiv-2504-01382/",
-      "indexable": false,
-      "sha256": "dd03199f94dfe5c18eb23395643bf53357360dd57806e550fd6b01a05c33b1ff"
+      "indexable": true,
+      "sha256": "641490d063bfc7b3daa0afd8c1b938e98bca7a04230eda9242da35378c433b79"
     },
     {
       "path": "/resources/arxiv-2504-01495/",
-      "indexable": false,
-      "sha256": "c4da20d662596f03b0623bf4eba2669509ca1abbec9ace3041f6dec6f68eae55"
+      "indexable": true,
+      "sha256": "9d3021d3c6d73ada0206383426c2de269970ff2f82286faf0db3a3943678e0e9"
     },
     {
       "path": "/resources/arxiv-2504-02357/",
-      "indexable": false,
-      "sha256": "fc47ab62a79121e9d388cefb206518bed26f8786712d447a29b61a806a69393a"
+      "indexable": true,
+      "sha256": "c2fdf93f84ab875d9dec8448e0edce148e9a6d212cdce4b5fd2ce15804bc443d"
     },
     {
       "path": "/resources/arxiv-2504-03653/",
@@ -3466,13 +3316,13 @@
     },
     {
       "path": "/resources/arxiv-2504-04716/",
-      "indexable": false,
-      "sha256": "9553f7a2498ae7f103fec0cc678d7772599007f2a3c727b95e98f71ed1fe9b0e"
+      "indexable": true,
+      "sha256": "2cad35b13c1247cc9cb881b1241ce421b7c73412d207bd294108fbfdac6ea97c"
     },
     {
       "path": "/resources/arxiv-2504-07079/",
-      "indexable": false,
-      "sha256": "6470455608d3815bea21ca5a88d05b7441e39202845763fa6ba1fd917a8c86b0"
+      "indexable": true,
+      "sha256": "cfd2540d4426fe4fbf03124b07dce0da0626077c4e7720714c188538a86ec3a2"
     },
     {
       "path": "/resources/arxiv-2504-07981/",
@@ -3486,23 +3336,23 @@
     },
     {
       "path": "/resources/arxiv-2504-08942/",
-      "indexable": false,
-      "sha256": "507025e516a795a59cb471b26bca2e2220956703a210525baec9763d311b6229"
+      "indexable": true,
+      "sha256": "4f46807825f9f1b2bb0e15b75e9637db5f01f0a391a19be85377d75613bf848a"
     },
     {
       "path": "/resources/arxiv-2504-09352/",
-      "indexable": false,
-      "sha256": "1329f255156d56f5dff7886a5fcdc6db05b707b2369c4af1be031af7a4618a9d"
+      "indexable": true,
+      "sha256": "e910f6c709f352158ce8798c32717b1cc0a99615eb8d4dd4117f4c7f0b3733cf"
     },
     {
       "path": "/resources/arxiv-2504-10127/",
-      "indexable": false,
-      "sha256": "3f5d83c898f3d45c5407438fe2b31989e0c6a7a964269dab436912a6f71fa32b"
+      "indexable": true,
+      "sha256": "e02a3ee6764bebc01ede1f4ff943c7fe84ef904be1270e53e91563a537e51c82"
     },
     {
       "path": "/resources/arxiv-2504-10445/",
-      "indexable": false,
-      "sha256": "a985e0090def78070110b5150f0d55fca3f12c6bd4f141d0a2b5093282ef0c27"
+      "indexable": true,
+      "sha256": "d881d54396c47ff2a1f8f7f37a888e4ceda9c5682ffd90e315fede7cc38a4d40"
     },
     {
       "path": "/resources/arxiv-2504-10458/",
@@ -3511,8 +3361,8 @@
     },
     {
       "path": "/resources/arxiv-2504-11257/",
-      "indexable": false,
-      "sha256": "4099aedc12607bbb6c9ebe5369ebb73055ecf4f98ee75dbef8ed0d12a19311e1"
+      "indexable": true,
+      "sha256": "d38769e85ad0ce23bf3d76a86d0dacf406dd4370c28aa23d709c60707971447c"
     },
     {
       "path": "/resources/arxiv-2504-11281/",
@@ -3526,23 +3376,23 @@
     },
     {
       "path": "/resources/arxiv-2504-11675/",
-      "indexable": false,
-      "sha256": "124cc54a35ac17ea0ec975ac935e14ebafed3acf97229603cd2469abb58859bd"
+      "indexable": true,
+      "sha256": "b43f110ad836b5df98a534d23f948063d7d9cbc1aee0b139155fc3de4df0bd10"
     },
     {
       "path": "/resources/arxiv-2504-11788/",
-      "indexable": false,
-      "sha256": "65baa6547632889870be1876016dea5dcdcf558be67185e52c39072fbd6c5f3d"
+      "indexable": true,
+      "sha256": "0876e32f25c4b36dc1f3a7466da61da444c9616f5f0440f7983e7efaaab41cb7"
     },
     {
       "path": "/resources/arxiv-2504-12679/",
-      "indexable": false,
-      "sha256": "ee8d6902d478e31367c71d98b9cbaeb691810536e2b8182ead8ad0d471745572"
+      "indexable": true,
+      "sha256": "6e12838b65850329a4f634c2be550d60624ca0dc2a66eb8c8f003b7d069e65b9"
     },
     {
       "path": "/resources/arxiv-2504-13805/",
-      "indexable": false,
-      "sha256": "8e75f8d9f9365e3704377fcd6e971f9a9da1229ad67eea4da6e1ec8c30f4c9b0"
+      "indexable": true,
+      "sha256": "3791f7309c56f1019ed1e8c3ac875319e82347daa94a8e30271076f42fcaef14"
     },
     {
       "path": "/resources/arxiv-2504-13865/",
@@ -3551,13 +3401,13 @@
     },
     {
       "path": "/resources/arxiv-2504-13936/",
-      "indexable": false,
-      "sha256": "3111d3898cb2d614c96b6b5a3fd23fe2b7661468bd798125f732078496a29356"
+      "indexable": true,
+      "sha256": "380db178dc5f6d1b2f3d0a12f9980b3888dc19ee2e94c7ea2c1e106f0f386efb"
     },
     {
       "path": "/resources/arxiv-2504-14239/",
       "indexable": true,
-      "sha256": "bda8c68c5315d61bfb725f21ab39bfad9b14589adf85d1f42169592e5a717408"
+      "sha256": "b4675f2965b58fed5f3b9a86f1a28613d377a5e01c031ff47d8abdd5d452fcfc"
     },
     {
       "path": "/resources/arxiv-2504-17934/",
@@ -3586,13 +3436,13 @@
     },
     {
       "path": "/resources/arxiv-2505-00416/",
-      "indexable": false,
-      "sha256": "120c3463e485267ebfc18fcccac7929bea43d45881dcea9fad60c9997702e8d8"
+      "indexable": true,
+      "sha256": "b55a4780f7fb7c40575a573f9fddf2192c2ca8323299da82c084cbdccc6b3a44"
     },
     {
       "path": "/resources/arxiv-2505-00684/",
-      "indexable": false,
-      "sha256": "99b249171421bb3bcce1733ce060c76fd5f6c751679eb51fa1a5380c9b53fd10"
+      "indexable": true,
+      "sha256": "6d99e8e37804e1780adfb90ff03521d6118e25f20992b95793e04e944528a452"
     },
     {
       "path": "/resources/arxiv-2505-09875/",
@@ -3616,23 +3466,23 @@
     },
     {
       "path": "/resources/arxiv-2505-11891/",
-      "indexable": false,
-      "sha256": "120a7e90c52535f7cbacc23a2445f26dbdf24fe2e35ad58e0a2f7ce5a3597317"
+      "indexable": true,
+      "sha256": "06bc13578c7aea00644d49f3ec0f2a9a13f494d2a73f39603ed47e27707a55a0"
     },
     {
       "path": "/resources/arxiv-2505-12299/",
-      "indexable": false,
-      "sha256": "2b354e59998305572740fbdc8a24e223d700996501eecaa2322ce34d0e7e8722"
+      "indexable": true,
+      "sha256": "571e9c96db154f3f6e9fd9cded7b4a3507eab4fa9b4795a6d1bbba08311397cd"
     },
     {
       "path": "/resources/arxiv-2505-12370/",
-      "indexable": false,
-      "sha256": "7f6e1ad7fda69f9c2b572d95b4e50de69b4ceef57c6bba34a7a64be63e5eb884"
+      "indexable": true,
+      "sha256": "441b613abb1bc498215408a2e4ab21144a176b72b0da57cfbc63479bf525f411"
     },
     {
       "path": "/resources/arxiv-2505-12493/",
-      "indexable": false,
-      "sha256": "103917926d2736e4289ac4e924fd48d1f632c95923f1aac4f19277cf120e7d50"
+      "indexable": true,
+      "sha256": "c45381b42fcad76ca978e1d5c73678161ffea7c47533ddbc215cacd8af6b3de6"
     },
     {
       "path": "/resources/arxiv-2505-12632/",
@@ -3666,13 +3516,13 @@
     },
     {
       "path": "/resources/arxiv-2505-13909/",
-      "indexable": false,
-      "sha256": "1caf14fb6d39074cb10478f0afd478982a59bba14e1fcebafe95c48c010724cd"
+      "indexable": true,
+      "sha256": "b12a2de6a060053287d12e13192513bb93df77fa5126952d06e8ab7bf91c0b37"
     },
     {
       "path": "/resources/arxiv-2505-14141/",
-      "indexable": false,
-      "sha256": "48235be58adf300bd6fb0e19ee3df346312a631facf7ff43c69652ab6eb6a767"
+      "indexable": true,
+      "sha256": "b30ed8c135bffcde80896d79e6c7cec240c9f76efe5500c7635f5b08b70ef9fe"
     },
     {
       "path": "/resources/arxiv-2505-14289/",
@@ -3696,8 +3546,8 @@
     },
     {
       "path": "/resources/arxiv-2505-15277/",
-      "indexable": false,
-      "sha256": "b66f0f748d00c5752c290ed8616ef48cf335cfaf91ee9b7989cfa6dc83799e78"
+      "indexable": true,
+      "sha256": "3eaecd956205bbd2148a4f0bf9a91def05f1f4eec57d8fb1f4d0be943d74b5e7"
     },
     {
       "path": "/resources/arxiv-2505-15810/",
@@ -3711,18 +3561,18 @@
     },
     {
       "path": "/resources/arxiv-2505-16282/",
-      "indexable": false,
-      "sha256": "3f4b56c8406c99cde667fda0423fcd4c1ce943a98f82ee625c874c6947077fd2"
+      "indexable": true,
+      "sha256": "dddf5fe6bdea2c229805bd7dbefac41c9bf86b143faf3f47eac4a580082a0a6d"
     },
     {
       "path": "/resources/arxiv-2505-16421/",
       "indexable": true,
-      "sha256": "652516bbff6cf2a6acad5b148412f4c797746932eea226ec060ef30e6c02e889"
+      "sha256": "ba426be47946e1242ac475b5967757b703d982dbcba5888cc5ac29506a4de153"
     },
     {
       "path": "/resources/arxiv-2505-16827/",
-      "indexable": false,
-      "sha256": "b46bff67a862bdc2862f53faaab628f3e21f61cf31cca19524c23dacc610fbe7"
+      "indexable": true,
+      "sha256": "4e631c3a96e9c7af194a09fe8b001e6c44c5cbdc7463eb085d3f378da485d0f1"
     },
     {
       "path": "/resources/arxiv-2505-17735/",
@@ -3731,18 +3581,18 @@
     },
     {
       "path": "/resources/arxiv-2505-18121/",
-      "indexable": false,
-      "sha256": "3a6c00e803a6e9ac3c0ee2a477231179a8067dd33b27ce6c40c8284745b8cb65"
+      "indexable": true,
+      "sha256": "4c1633907fa8d1074a05e5f5c9d9f34bfc69fb05de7c3560f3edc976f2bfb44a"
     },
     {
       "path": "/resources/arxiv-2505-18829/",
-      "indexable": false,
-      "sha256": "d0b243f80525d67b5bb7e031da9d1c9c3e9a51c6d2d4459a5dc81b6a5ef70b49"
+      "indexable": true,
+      "sha256": "5934552d06a42f26b5ea5f1ad49c802b258fc9a19a48fb3b197d75cffa126182"
     },
     {
       "path": "/resources/arxiv-2505-19897/",
-      "indexable": false,
-      "sha256": "54e87843cceaa0bf7fe54bf3239b189be9ef51273b1914748e68bf7ce4df49c8"
+      "indexable": true,
+      "sha256": "6477e39ffa9c5cd7f100807780bad68b1bd5f90b3b2b9ff3813e3d3fb0bd859c"
     },
     {
       "path": "/resources/arxiv-2505-20013/",
@@ -3751,13 +3601,13 @@
     },
     {
       "path": "/resources/arxiv-2505-20660/",
-      "indexable": false,
-      "sha256": "8190d25752c5692125c9003772f50b69498fb7af02f86542a24d47d58931ad10"
+      "indexable": true,
+      "sha256": "e4160fbac4f5a82d75cf197e96c07508689b5c9b8afeb7d9e5ab2ed330f5007d"
     },
     {
       "path": "/resources/arxiv-2505-21496/",
-      "indexable": false,
-      "sha256": "3e3260d81c2c743a0b33380120144699d877c5bbfe191070a6d5e2a735bb5ed2"
+      "indexable": true,
+      "sha256": "5d7bacae2672df3e048c830802e9154ed4a9aa31c68dbef54497ad282209e4c0"
     },
     {
       "path": "/resources/arxiv-2505-21499/",
@@ -3766,8 +3616,8 @@
     },
     {
       "path": "/resources/arxiv-2505-21936/",
-      "indexable": false,
-      "sha256": "c97fd42fc50d3e63011c3d1070812ffea1a9a8c18997fe6c4401ae61dab069ad"
+      "indexable": true,
+      "sha256": "ede03333f5f274ce12b756f3f8213d22d329d87b881fbdd7e4e777549b6881c6"
     },
     {
       "path": "/resources/arxiv-2505-21964/",
@@ -3782,7 +3632,7 @@
     {
       "path": "/resources/arxiv-2505-22942/",
       "indexable": true,
-      "sha256": "51b746c0ef0bb24332ede6bde102c8c1463afa3bc4c6b89cc8537eb51bfa5000"
+      "sha256": "df342ee3b68d4b86bea09fcd1d196ae4ce64a8b6c5911c66148eec3b961933b6"
     },
     {
       "path": "/resources/arxiv-2505-23596/",
@@ -3802,7 +3652,7 @@
     {
       "path": "/resources/arxiv-2505-24838/",
       "indexable": true,
-      "sha256": "c9fac68d47deeed11b70b406a38e5fb7991ac0b0637b7a89d20ad023edca13c9"
+      "sha256": "49251fdb0fa48024bf3232a5fc09155168bfadd19da2228f2ab37315bd2bb2cf"
     },
     {
       "path": "/resources/arxiv-2506-00618/",
@@ -3812,7 +3662,7 @@
     {
       "path": "/resources/arxiv-2506-01391/",
       "indexable": true,
-      "sha256": "7cb5b65b83931990dbcdd88ab6e7eedf255956528f5f7146a49a5823cff1981a"
+      "sha256": "0b899eb38ee1b9d6cd205ed66d34d68c6d0e8620ef8f37fca7f635128bcd8e83"
     },
     {
       "path": "/resources/arxiv-2506-01968/",
@@ -3831,8 +3681,8 @@
     },
     {
       "path": "/resources/arxiv-2506-02865/",
-      "indexable": false,
-      "sha256": "0690b4eb3b092efddde4cf2088f6698635a1dbf1d6467818d870c8cdc204081a"
+      "indexable": true,
+      "sha256": "e52f75c1ff5792aa4f54e7d92d543f16c4a4891c71ea19f9656bf411b8c8d40f"
     },
     {
       "path": "/resources/arxiv-2506-03095/",
@@ -3846,8 +3696,8 @@
     },
     {
       "path": "/resources/arxiv-2506-03533/",
-      "indexable": false,
-      "sha256": "8a8db0b4e4126227e8c3e73845f7be46203e4c03ef8c87cd65563de331f4d7db"
+      "indexable": true,
+      "sha256": "59f6fe3fce3b3b598c92ac42f513ef6ad9e0fa51824babf7fd59573545a08e6d"
     },
     {
       "path": "/resources/arxiv-2506-03569/",
@@ -3856,8 +3706,8 @@
     },
     {
       "path": "/resources/arxiv-2506-04135/",
-      "indexable": false,
-      "sha256": "661ebe825ee6ee1be744f548a0fa133c52f4ccb727315cd268769fe76707d113"
+      "indexable": true,
+      "sha256": "37b246d0dabfe1ff4766288966446904f43ead719f242a8b656f97e55e39615b"
     },
     {
       "path": "/resources/arxiv-2506-04614/",
@@ -3871,13 +3721,13 @@
     },
     {
       "path": "/resources/arxiv-2506-07672/",
-      "indexable": false,
-      "sha256": "03035550de26254592197798ba45614122ccea076579423cd4d1dece60198167"
+      "indexable": true,
+      "sha256": "cc53ee7be81def04589c9850e2dc6f1728596b7296eceb5580bd90df3d0c42f0"
     },
     {
       "path": "/resources/arxiv-2506-08012/",
-      "indexable": false,
-      "sha256": "5e889ac56977c657e5cf885459ec1e87b7fdda953d90d2d54330f37372247cf7"
+      "indexable": true,
+      "sha256": "714fc54ae221e29e5021820f2ac3f7160c70d649c69d03425d617f1f6ec69b5a"
     },
     {
       "path": "/resources/arxiv-2506-08331/",
@@ -3891,13 +3741,13 @@
     },
     {
       "path": "/resources/arxiv-2506-09373/",
-      "indexable": false,
-      "sha256": "69545b6f87b6c1749b50c912196cef0bbbccc52da7bf91c580a0bbd506f28160"
+      "indexable": true,
+      "sha256": "23c764e27669facf7c61d7360949733bd58c57d44dad52344d45efa70f89c128"
     },
     {
       "path": "/resources/arxiv-2506-10387/",
-      "indexable": false,
-      "sha256": "3f654192af0e88bb7d380764682198c65354012047d3145540f5f0be1f2733d6"
+      "indexable": true,
+      "sha256": "029c08a99c13eb4bade063aac4019793fcbf0a4cc9329409dc6adcdaf8e8f02a"
     },
     {
       "path": "/resources/arxiv-2506-11127/",
@@ -3931,8 +3781,8 @@
     },
     {
       "path": "/resources/arxiv-2506-16042/",
-      "indexable": false,
-      "sha256": "00a3028550be17f562b593f026c2511b15c421e7c560b809fae7e774aae2cc5c"
+      "indexable": true,
+      "sha256": "f4989525bdf7f0d8723fe4850f7a316e2649c849279e7fdd90231b7a3515c5ab"
     },
     {
       "path": "/resources/arxiv-2506-17318/",
@@ -5497,7 +5347,7 @@
     {
       "path": "/resources/arxiv-2602-06391/",
       "indexable": true,
-      "sha256": "559de418ce471cbc051717dd59d9bc23d009fa5aab58c69ba21fc20da07c9252"
+      "sha256": "bf6dd1d7c54465620e1c01cf97f00ed9279a01126ac01f7027ce48e2e6e022b4"
     },
     {
       "path": "/resources/arxiv-2602-06663/",
@@ -8146,18 +7996,18 @@
     },
     {
       "path": "/resources/arxiv-2609-34113/",
-      "indexable": false,
-      "sha256": "46a5b69141121029b3ed9fd285db4b5cefb1df499a8392ce2a2b7d3db2f6de38"
+      "indexable": true,
+      "sha256": "f26204efc0fb61d0bcf99ab08707baebc820ce5f90f2e09ee35153231f15bc72"
     },
     {
       "path": "/resources/arxiv-2609-34139/",
-      "indexable": false,
-      "sha256": "7e50a310ed2661cc935a703c64a4c1f200f9a70bd7701711af0f675700be1205"
+      "indexable": true,
+      "sha256": "d6fc64b1325f73b39d8e95916e49b9d584422a21b521cc45a5942852669b3119"
     },
     {
       "path": "/resources/arxiv-2609-34321/",
-      "indexable": false,
-      "sha256": "12f55e6e0c1afcee2a5ecac33e087e98d87475e3a6379459f16b879586a5d04b"
+      "indexable": true,
+      "sha256": "6306101fabcbcc69269032d6edb66827d6a06caf37f8b1b6a2e67ac61813de4b"
     },
     {
       "path": "/resources/arxiv-2609-34769/",
@@ -8206,33 +8056,33 @@
     },
     {
       "path": "/resources/arxiv-2609-36488/",
-      "indexable": false,
-      "sha256": "9a745be2cfb664956a50108540bd8f23ce0eadf9cbb38f699b55cf847ff1f6b6"
+      "indexable": true,
+      "sha256": "ae2732c8c46b940879947a10351e8b3b78705471fdf05ef2c61f6fb3a124080f"
     },
     {
       "path": "/resources/arxiv-2609-36923/",
-      "indexable": false,
-      "sha256": "cdfcef5fcacde80674af4846988d79706d71b63d7b74afacccd017dfdfb3b441"
+      "indexable": true,
+      "sha256": "90dbfe98ac77ac4a0908f0714dff94ca146234f8a451dc6786847d5071f66881"
     },
     {
       "path": "/resources/arxiv-2609-36927/",
-      "indexable": false,
-      "sha256": "852b09c43a1fcef3af518042931dd8d4bdfecf6b686f07c97e03c31b5cae40e7"
+      "indexable": true,
+      "sha256": "fcd17ac86362968ad196729664272cfac44b5bfbbd6d2413768b526a0a9c3e12"
     },
     {
       "path": "/resources/arxiv-2609-36939/",
-      "indexable": false,
-      "sha256": "7c390d53d517812fd637da08e6ad0bae74a669b3b41f37ffa2c4eabad6a97491"
+      "indexable": true,
+      "sha256": "facabd2dc835c4ef986cdca2ba7b2e3a5317035476a0f800f7d17db3107ae9a8"
     },
     {
       "path": "/resources/arxiv-2609-37053/",
-      "indexable": false,
-      "sha256": "c5d22443733a31f7854576b89e1ec6dee1c35a7e7f6ece9859559f319869311f"
+      "indexable": true,
+      "sha256": "112bd19d61497f9a9c75032871b52916d8163e1cb72444d0c7a3669a1b2e8ab1"
     },
     {
       "path": "/resources/arxiv-2609-37176/",
-      "indexable": false,
-      "sha256": "85391f68f5bf1b8ef9d0f9e23dca01977e05bfaf45b1d90a8e957fe6549e9994"
+      "indexable": true,
+      "sha256": "191586dbbaa91adf7ba852177c781ce5695f263789ee39791ad2b37de6f7741a"
     },
     {
       "path": "/resources/arxiv-2609-37686/",
@@ -8256,13 +8106,13 @@
     },
     {
       "path": "/resources/arxiv-2609-38778/",
-      "indexable": false,
-      "sha256": "63f3e5ea145589be0f467286704387622015cfd6da07f8e334fdb709ba95ca12"
+      "indexable": true,
+      "sha256": "1446f1b76cd467800f246a6fc5765dce8e26dfc735f3c123162ef8b57735fbb4"
     },
     {
       "path": "/resources/arxiv-2609-38867/",
-      "indexable": false,
-      "sha256": "90fcebed4167a75d3e4efc1e9c506e07ab0ca6f947fe898205efb8849c62c223"
+      "indexable": true,
+      "sha256": "ffdfe15942fcf8b54eb6eaae5334d2b06a3a69fa43cfa30d667b60a28be0c57a"
     },
     {
       "path": "/resources/arxiv-2609-39306/",
@@ -8271,8 +8121,8 @@
     },
     {
       "path": "/resources/arxiv-2609-39547/",
-      "indexable": false,
-      "sha256": "216144449f74fb190bcf8a14d47ca02e049348a462920fb80256ba730a8a4367"
+      "indexable": true,
+      "sha256": "495b4c4f42bb1111092abba4d20185961c3b24e285fec30d240e501e6831cd40"
     },
     {
       "path": "/resources/arxiv-2609-39903/",
@@ -8281,8 +8131,8 @@
     },
     {
       "path": "/resources/arxiv-2609-40253/",
-      "indexable": false,
-      "sha256": "854862641dc073020fed814b4381edce9467a09e4fb4af5f4a4325a4a5197f21"
+      "indexable": true,
+      "sha256": "076706f48dceabea6c3c0aeb258f1a005ffbafbe33411d5caebcb05b547a378c"
     },
     {
       "path": "/resources/arxiv-2609-40284/",
@@ -8306,18 +8156,18 @@
     },
     {
       "path": "/resources/arxiv-2610-01215/",
-      "indexable": false,
-      "sha256": "1793511853f99cecb85b47b37a314a2a2a660ddf536230901d66d3553fad75d2"
+      "indexable": true,
+      "sha256": "09edabd45f8eb25d70d286f9e0c72f940756a6d5697b17b0e5cbbb9aeb77d1dc"
     },
     {
       "path": "/resources/arxiv-2610-01491/",
-      "indexable": false,
-      "sha256": "df563b24b7917445deb1bd9ce51f456681af0c5faeac53ce807f28f11d484510"
+      "indexable": true,
+      "sha256": "8c0fd0aa0feb1bf85a8ae8c3bf4c0d1763b4a45915c0fbbf1e761ce45e5130f6"
     },
     {
       "path": "/resources/arxiv-2610-01787/",
-      "indexable": false,
-      "sha256": "494af658c8bb01775e2d83206932e30f899f486d69c99a10ab9ee311a42a0b74"
+      "indexable": true,
+      "sha256": "05a9fe96f81a77a23b876e6592aad17212716b0f980f32c000cd34ccffe67a60"
     },
     {
       "path": "/resources/arxiv-2610-02320/",
@@ -8326,18 +8176,18 @@
     },
     {
       "path": "/resources/arxiv-2610-02932/",
-      "indexable": false,
-      "sha256": "c0a3593b77a7d13e2d0f24bdb741dee11aab8840a598fe76568e5c7cadbe4675"
+      "indexable": true,
+      "sha256": "3723cd60c74a3d06d776c3e5de9ad14d5b6aff2bb464f810a5459686e8a1250a"
     },
     {
       "path": "/resources/arxiv-2610-03036/",
-      "indexable": false,
-      "sha256": "2ff4f9545cf60de8dac5e3c8d0b23e770c4b28a4a7eb7cc123febe29f0566e80"
+      "indexable": true,
+      "sha256": "eacbe17b7100cd1cdd25cb39eefe26af7a42a6fd95164120e87314a132600307"
     },
     {
       "path": "/resources/arxiv-2610-03089/",
-      "indexable": false,
-      "sha256": "991b7321d7e45626a350e238ddb02b6f3a96ab9ad1b9854252c4d0d3bbd46480"
+      "indexable": true,
+      "sha256": "da350f06b463849c9acb38418fe1459f9712944c6c2e3ef93b0055d8699242a1"
     },
     {
       "path": "/resources/arxiv-2610-03574/",
@@ -8366,28 +8216,28 @@
     },
     {
       "path": "/resources/arxiv-2610-05185/",
-      "indexable": false,
-      "sha256": "1b725292412fb0db48a050d6fc4f5d1d8283c1d22785d0d11e5f187a9d477ecb"
+      "indexable": true,
+      "sha256": "37caac2be2502f61a7f070e14b07d8646524c1072f582a228e67c220806f1476"
     },
     {
       "path": "/resources/arxiv-2610-05437/",
-      "indexable": false,
-      "sha256": "ec77ab3aa60dbdc73d2a3e3aa3cc464e52900257e8c58e3561074c9e04a53abd"
+      "indexable": true,
+      "sha256": "6e5576e78ff442bb80f928ee2f5b09d0c73f85b0dde41da1fabcb60c1385a1ab"
     },
     {
       "path": "/resources/arxiv-2610-05861/",
-      "indexable": false,
-      "sha256": "49f23f205b8cdd2852ca882dc9c27b063d24260275bfdaaae0ec8dd8ab4f75f8"
+      "indexable": true,
+      "sha256": "acf5407604370d8c7ee48b9872d477190622ef069232dc9dfd4af2eb245772f1"
     },
     {
       "path": "/resources/arxiv-2610-06829/",
-      "indexable": false,
-      "sha256": "f53b45eb3628b0b5066d88a53ab0332c5092c96f70f011be7c6be4daeca638ea"
+      "indexable": true,
+      "sha256": "031337ee7e9935307ded36101bcca0f90a7d4d2b35a3aaaf923c471b8a7aa7d3"
     },
     {
       "path": "/resources/arxiv-2610-07118/",
-      "indexable": false,
-      "sha256": "8edf126d2714b6f28c5f828d834a9e41ef072d536e231f8fee4b55010cc4b628"
+      "indexable": true,
+      "sha256": "07cc074f07afae9007f1f56a78603f4227971c8706ee4b3a35be9ab84fc9967a"
     },
     {
       "path": "/resources/arxiv-2610-07127/",
@@ -8396,13 +8246,13 @@
     },
     {
       "path": "/resources/arxiv-2610-07444/",
-      "indexable": false,
-      "sha256": "cea9ba969e726a4d114e30e7c39064c267dfc7bdc54ec1059e69b23d5869ec30"
+      "indexable": true,
+      "sha256": "623fcd0d9293d3da4eb0124bf3f0accf028cafe916003be7fb29029a28d3074c"
     },
     {
       "path": "/resources/arxiv-2610-07972/",
-      "indexable": false,
-      "sha256": "9bcc5e9ac7b92c6451a33674eb8d5ecdde151c965bf60904150c8505b0c340e2"
+      "indexable": true,
+      "sha256": "e1b89e833d77c08eda3f1aba55c7952db2023a66d28cf99125cdfff10be1bcc8"
     },
     {
       "path": "/resources/arxiv-2610-08699/",
@@ -8411,23 +8261,23 @@
     },
     {
       "path": "/resources/arxiv-2610-08773/",
-      "indexable": false,
-      "sha256": "ae58a96a880de2722200c4b904d1c0274ad6db1ebe90df0e2624aa6592a02e5b"
+      "indexable": true,
+      "sha256": "c78954a0a48886c1f3080d390f76e151447b8889d4f192fe441759e2ecfd992c"
     },
     {
       "path": "/resources/arxiv-2610-09240/",
-      "indexable": false,
-      "sha256": "6ecae33c8c48acca4867deaf5bd08b65d96842dcb64a2bc7d3b06e6d3f93871b"
+      "indexable": true,
+      "sha256": "cb7b6deb564741038812c242a621d2d1cb0650c8eb0e7e1abd2b199414960b73"
     },
     {
       "path": "/resources/arxiv-2610-09469/",
-      "indexable": false,
-      "sha256": "c6c4901e62bf89b08344bebb3afe650ce74c0be5e87842dbc6f7c7aadab4de45"
+      "indexable": true,
+      "sha256": "8444ee8dfdfe6b137a712dac5b6e0be816e35d005d6b366e15719e64b29cb323"
     },
     {
       "path": "/resources/arxiv-2610-11050/",
-      "indexable": false,
-      "sha256": "6dcc42297a20f67b71d7df4e339436728810078a0cc7bb8c986668ed2ec75259"
+      "indexable": true,
+      "sha256": "5699967bae7a7af84f803a7cf1cbdc300ab62481aa51d86b9b3a38ee80a68028"
     },
     {
       "path": "/resources/arxiv-2610-11655/",
@@ -8436,13 +8286,13 @@
     },
     {
       "path": "/resources/arxiv-2610-11707/",
-      "indexable": false,
-      "sha256": "ce22a22b0576529db0cb275fcf40cb4c6764e396c67c633413703130e9bb8d51"
+      "indexable": true,
+      "sha256": "94b469e5cc0329dd261554ee3047d7cca1243dd61063e149b02b628f6e3a2812"
     },
     {
       "path": "/resources/arxiv-2610-11942/",
-      "indexable": false,
-      "sha256": "81b759023d432e1361413e0be80b671dad36a9f02b99b15f58849fd42c19e677"
+      "indexable": true,
+      "sha256": "89966f3415464d5d2ee4ffcc3e27c43fdff74a815e30a57807c6def07e3dc26d"
     },
     {
       "path": "/resources/arxiv-2610-11992/",
@@ -8451,18 +8301,18 @@
     },
     {
       "path": "/resources/arxiv-2610-12611/",
-      "indexable": false,
-      "sha256": "ed5c53f59bd6a976521b74b640e5b8f806e444c2f5e3a9118da435f8daac1468"
+      "indexable": true,
+      "sha256": "5692799ad4f7d434e6acf08320a4106d5f31c7de4662fb15c5e2a14d5ecfaba5"
     },
     {
       "path": "/resources/arxiv-2610-12823/",
-      "indexable": false,
-      "sha256": "b18c76e892cbb5fc35cd9bd6a7508106167f300a88316b29d1295ac1819fcdf8"
+      "indexable": true,
+      "sha256": "d16e38feb0eb79725c02b9d2b58dcc008d7e192a8c14a9c5f1bf17661977d8b4"
     },
     {
       "path": "/resources/arxiv-2610-12866/",
-      "indexable": false,
-      "sha256": "b0f111ae399833efd6e36b0ff5828c5ef065c16540c3bd021b392a1ac8b386e4"
+      "indexable": true,
+      "sha256": "dd5800de0846dc7d8b1ca7eb7fb198130d8c07547d67ef9f55c9b6daebba6c98"
     },
     {
       "path": "/resources/arxiv-2610-12984/",
@@ -8471,18 +8321,18 @@
     },
     {
       "path": "/resources/arxiv-2610-13268/",
-      "indexable": false,
-      "sha256": "40a0c99a3ce4fa3c87e14cbe16d337b0d207d2896105fff474d9a67a58ee80a8"
+      "indexable": true,
+      "sha256": "328617b8248e027aa371b9eab0a8ee0ee4d12986bd4980fb0d390b3c76ff671c"
     },
     {
       "path": "/resources/arxiv-2610-13416/",
-      "indexable": false,
-      "sha256": "55661486ee12330b689a6da963386b2ac600ab35ff70125e35698aa141179b5f"
+      "indexable": true,
+      "sha256": "d4896fded55db157ba05c72db0a0cd64ff02f080d8a752bdbf936476a076c72c"
     },
     {
       "path": "/resources/arxiv-2610-13703/",
-      "indexable": false,
-      "sha256": "5b8863ef6d54463e4b66d90298f3cdd36f6af7baf9769b0d0282c1c5a2f4eb50"
+      "indexable": true,
+      "sha256": "629f790aabce46aa59fe6381c0b9cc816100bf2f88078fa36aa8c60d57136588"
     },
     {
       "path": "/resources/arxiv-2610-14157/",
@@ -8491,13 +8341,13 @@
     },
     {
       "path": "/resources/arxiv-2610-14228/",
-      "indexable": false,
-      "sha256": "cc76bfb4c3330f2d5abd40bbca582d951f3245daee1b46bd79777b385cf600b9"
+      "indexable": true,
+      "sha256": "a7d042430a7aa9e0887f9621407a6915d37988ed03670db44b9256444e8919d8"
     },
     {
       "path": "/resources/arxiv-2610-15138/",
-      "indexable": false,
-      "sha256": "69d268e5685e4c0dd3f0aefef2e36783dc7e73634ae9df21b2a6ffac82f6d6f4"
+      "indexable": true,
+      "sha256": "8473b4f18ed7dc19b197e479996b8dbed4bf90c29aeffe728c0eb8262c8d9223"
     },
     {
       "path": "/resources/arxiv-2610-15765/",
@@ -8667,7 +8517,12 @@
     {
       "path": "/resources/github-ai-agents-2030-spa-bench/",
       "indexable": true,
-      "sha256": "25ed8f40a7a54ce16c114e22707e9b47a65381a6f2149010a13d8d7b2555387d"
+      "sha256": "efdd0c07d6c201b150fb27834b180f16ad476bf48f797bd74e2e22b9ba87a1bd"
+    },
+    {
+      "path": "/resources/github-ai-nikolai-stateact/",
+      "indexable": true,
+      "sha256": "c5f72d18ec7fb9a489bed45f249ff789442ddfefef0f8c7c1a04c128fb91ec17"
     },
     {
       "path": "/resources/github-alibaba-ui-ins/",
@@ -8677,7 +8532,7 @@
     {
       "path": "/resources/github-alibabaresearch-rots/",
       "indexable": true,
-      "sha256": "161e1cfe37f78e47b4a23953a8b7178d69dc6a056d0a25a9d3d1b4a141e746ad"
+      "sha256": "50779776b02b7bad8c9c12923535a06065afc77ecc40c26cb9bf24506cbabccd"
     },
     {
       "path": "/resources/github-alipay-mobile-agent/",
@@ -8688,6 +8543,11 @@
       "path": "/resources/github-alokia-cola-demo/",
       "indexable": true,
       "sha256": "43c16b0fee056d6419b681a8358c2b64c0f5472bf48267be766b05667b02749f"
+    },
+    {
+      "path": "/resources/github-amazon-science-pae/",
+      "indexable": true,
+      "sha256": "241b067d4c22bd28b052b927968dec60b529d0abfa533bbab032ace2c0af829d"
     },
     {
       "path": "/resources/github-androidarenaagent-androidarena/",
@@ -8738,6 +8598,11 @@
       "path": "/resources/github-bytebot-ai-bytebot/",
       "indexable": true,
       "sha256": "2739f81582add6c0e675a9bd7d34e7ec2e71771bac02b0abfb0ae9d55655ce6d"
+    },
+    {
+      "path": "/resources/github-bytedance-seed-agent-r/",
+      "indexable": true,
+      "sha256": "1c84f37b9c6736bea052b3077be0ef8b9dc62dafbc43b8f2c1e8644f26a9357a"
     },
     {
       "path": "/resources/github-bytedance-ui-tars/",
@@ -8817,7 +8682,7 @@
     {
       "path": "/resources/github-dongping-chen-gui-world/",
       "indexable": true,
-      "sha256": "8f0987947da23c2b57e72a0a1676112158cd550ef732c8746ee9749ac340d045"
+      "sha256": "ee1ebdc2e44dcaa712b25e442ee240db810eca0d5e2ab09d5085d6646a958e15"
     },
     {
       "path": "/resources/github-droidrun-mobile-harness/",
@@ -8847,7 +8712,7 @@
     {
       "path": "/resources/github-farama-foundation-miniwob-plusplus/",
       "indexable": true,
-      "sha256": "e4d4a2dc08dc78e1defd7a30345c8f68c7c86a9a477235d39d34a969beb42908"
+      "sha256": "f01f7f7afa317ea408fab5bc198faedc76c9dd8d42b1422545aefafc4c7cf5fd"
     },
     {
       "path": "/resources/github-gair-nlp-pc-agent/",
@@ -8875,6 +8740,11 @@
       "sha256": "7305d8f7510ebee42d02c1a5a125ecac2549d094b39cdb539a0dc542a03e8a97"
     },
     {
+      "path": "/resources/github-google-research-datasets-uicrit/",
+      "indexable": true,
+      "sha256": "1d75940ff5c9eed41c2521f3adcaa7565a1087df1a577d951747dc359401373a"
+    },
+    {
       "path": "/resources/github-google-research-android-world/",
       "indexable": true,
       "sha256": "895fed889b68e1772c69a15d62728b3a7c598832764a61331664fffaed372f79"
@@ -8883,6 +8753,11 @@
       "path": "/resources/github-gydpku-pptc/",
       "indexable": true,
       "sha256": "55c65e057492e6d01f1615116be30d3bb76ab8465935fa9c12271de8506b290d"
+    },
+    {
+      "path": "/resources/github-heimingx-tag/",
+      "indexable": true,
+      "sha256": "63d8f347f4acc927a763cff3979509e554697d30e72de2ff37cbba247d6eb886"
     },
     {
       "path": "/resources/github-hitsz-tmg-windowsworld/",
@@ -8967,7 +8842,7 @@
     {
       "path": "/resources/github-llamatouch-llamatouch/",
       "indexable": true,
-      "sha256": "ef14a0e9aedb6d3692b7cd0e558031573fa0f076871a0e4b5c9e6e4da6693134"
+      "sha256": "9d83fc7b4a106606f22c8243e7f753ddba64756e900adc013131c25935d68682"
     },
     {
       "path": "/resources/github-lll6gg-ui-r1/",
@@ -8987,7 +8862,7 @@
     {
       "path": "/resources/github-mcgill-nlp-weblinx/",
       "indexable": true,
-      "sha256": "5d1fbb36cd5d30ee709f1eee962294048e58d80964d0cb9bf04757b8e39a4c79"
+      "sha256": "03f794ae1b01b96a1f0de73bf1d7a3d463c6bd0eedae2860d081841bc6749681"
     },
     {
       "path": "/resources/github-meituan-evocua/",
@@ -9052,7 +8927,7 @@
     {
       "path": "/resources/github-microsoft-windowsagentarena/",
       "indexable": true,
-      "sha256": "df974f89dc7d4e0117848491529c322ddc5bbc443f493cee3df15eb004854a74"
+      "sha256": "1524a4fd509db74bc110c761c1d7df3886a76cda7c04fded3408beae21feb031"
     },
     {
       "path": "/resources/github-minorjerry-webvoyager/",
@@ -9077,7 +8952,12 @@
     {
       "path": "/resources/github-neulab-multiui/",
       "indexable": true,
-      "sha256": "39c1781d607b14fba81103021540db8816ed8d81f7dc0db93815763d8ddb2edc"
+      "sha256": "eaace8aef956b5edcc4af2b56ea4f7be187f62b972df36af0be4f5850d00be8a"
+    },
+    {
+      "path": "/resources/github-night-chen-workforceagent-r1/",
+      "indexable": true,
+      "sha256": "ef6fdcca1b134df0df6b16eb4202ba39642fdfbe1c0c1ff1786d20f9d85d7c29"
     },
     {
       "path": "/resources/github-niuzaisheng-screenagent/",
@@ -9157,7 +9037,7 @@
     {
       "path": "/resources/github-os-copilot-os-genesis/",
       "indexable": true,
-      "sha256": "9195a16e323d208cb0628e919f8d0797f0e522a9488c2d4624f87def35df0a4a"
+      "sha256": "1f2c3cd81f8027e1e7eb8de8b699dbcb297be96a08a10f3a3b87fe333e8b0115"
     },
     {
       "path": "/resources/github-os-copilot-os-sentinel/",
@@ -9172,7 +9052,7 @@
     {
       "path": "/resources/github-osu-nlp-group-mind2web/",
       "indexable": true,
-      "sha256": "a4a52243e7a4090d78081fd365953ea6cce697ff9a2ba8a96b5f5ecd15a3c128"
+      "sha256": "1c431239ef35bbe9af6faf37ef4142d9d67d59cc64414171d1034fd07bfd27fd"
     },
     {
       "path": "/resources/github-osu-nlp-group-online-mind2web/",
@@ -9217,7 +9097,7 @@
     {
       "path": "/resources/github-princeton-nlp-webshop/",
       "indexable": true,
-      "sha256": "f80f8466369294bddb6f32f018cffce2f2d13685a844b1e15a3bf8e902f34d67"
+      "sha256": "cea27dbf24bf0caff427395aa9c5cc28223004cdadf5a29651e02a377269794d"
     },
     {
       "path": "/resources/github-reallm-labs-infigui-r1/",
@@ -9315,6 +9195,11 @@
       "sha256": "5d32787e38ec76a176ce17110b7e5f1fda9cf33febfd2bf0e0b60b7c615e4fee"
     },
     {
+      "path": "/resources/github-squeezeailab-plan-and-act/",
+      "indexable": true,
+      "sha256": "41e5eca8ef782be0b88249f9a55cbcb40ad329dfd7ff04246652d4b30dfa5755"
+    },
+    {
       "path": "/resources/github-steel-dev-steel-browser/",
       "indexable": true,
       "sha256": "36992e7cfe05f47e1351a3ebee0486c8755996c7f8af11d3fe16bdbba801d99a"
@@ -9357,7 +9242,7 @@
     {
       "path": "/resources/github-thudm-android-lab/",
       "indexable": true,
-      "sha256": "8ac514de59f57d6837a8a49aaf7e299d1f61287054bb23fc76286517e8b8af24"
+      "sha256": "e8bd7bf37a14a4e1d8b3c4da3fd766bc8fce66a409f161d093149912b2188362"
     },
     {
       "path": "/resources/github-thudm-autowebglm/",
@@ -9390,6 +9275,11 @@
       "sha256": "6665a8839347bd34cc8640f318e4a25ee10300f7b8dc94e389d9b7d2031d2849"
     },
     {
+      "path": "/resources/github-thudm-webrl/",
+      "indexable": true,
+      "sha256": "5e1a17e23346756cbff5cc8746ba8e89773a840885e1b89b9a88abff1a9ab8db"
+    },
+    {
       "path": "/resources/github-tml-epfl-os-harm/",
       "indexable": true,
       "sha256": "e33a8499674e213890762a93ec37666978ece75c6f590da18b159a8c70cf9760"
@@ -9410,9 +9300,19 @@
       "sha256": "bce76d3567e87e0b4ce05c740c951b3de1adf15ec8ccab17a855f33786d67c7f"
     },
     {
+      "path": "/resources/github-ubiquitouslearning-droidcall/",
+      "indexable": true,
+      "sha256": "e110232c0b2c37312f0f2f3073468ac9ff7936a88ab61a78bca523892e0b4a89"
+    },
+    {
       "path": "/resources/github-ucsb-ai-screen-point-and-read/",
       "indexable": true,
       "sha256": "a695e39449064cbcecf6f0142d21906278c5ac3cd63036e0da096eababc6bdfd"
+    },
+    {
+      "path": "/resources/github-udgok-videocad/",
+      "indexable": true,
+      "sha256": "9b22589288fb484118567c1c5c1a7d76b54b6064b1c447ce945e8be6225f0a99"
     },
     {
       "path": "/resources/github-uitron-hub-treecua/",
@@ -9458,6 +9358,11 @@
       "path": "/resources/github-web-infra-dev-midscene/",
       "indexable": true,
       "sha256": "f5e2c80834b395e7796f31a309c9345173195cb12b3a0ec03e7d58eda37d3ecf"
+    },
+    {
+      "path": "/resources/github-weizhepei-webagent-r1/",
+      "indexable": true,
+      "sha256": "05e3afa581efebb35870beec6682f887c967519a0f09efe41f044f618e16a18d"
     },
     {
       "path": "/resources/github-westlake-agi-lab-appagentx/",
@@ -9517,7 +9422,7 @@
     {
       "path": "/resources/github-xlang-ai-spider2-v/",
       "indexable": true,
-      "sha256": "5e95da4cef0498b5c9032b60ceb753e2c2b2f7defb23533f204537a846e7946f"
+      "sha256": "d33bf773a46676c5c229e14033d8bec7550b849c51d78b159235e165b4e5a4c2"
     },
     {
       "path": "/resources/github-yiye3-guicourse/",
@@ -9650,6 +9555,11 @@
       "sha256": "af3e5d2caa7d589805a8faccf0cf0be420e7950f069ca118750c8f4cb9176ef1"
     },
     {
+      "path": "/resources/url-06dd5ac7917c45d48509/",
+      "indexable": true,
+      "sha256": "68223549d62b75e9e01d75ad21ddde3f4cbe95a345d413c68724fe9960ebef3f"
+    },
+    {
       "path": "/resources/url-07b65dc937756ddff4a1/",
       "indexable": true,
       "sha256": "bd2074b6ad0f1a65db195589e68248d852e8af7b8e08c482d29ab4352f541697"
@@ -9673,6 +9583,11 @@
       "path": "/resources/url-0bdd6b5ebf2e1f248828/",
       "indexable": true,
       "sha256": "d2743355364c58af729936da7fabc00cca2aec2d81de7e0a8e31fb37ae2064bf"
+    },
+    {
+      "path": "/resources/url-0c5659ca9e59d942aea3/",
+      "indexable": true,
+      "sha256": "5b1b33439901bebe22bb6adefa458c95b021316e69a67932e3225e0e2c341941"
     },
     {
       "path": "/resources/url-0fdeb1cf5f49f84820e6/",
@@ -9730,14 +9645,29 @@
       "sha256": "2526fdbfb4b8b4aa41e56e213ee876ba07f04fa8185f833d7358e26fc22d5e3c"
     },
     {
+      "path": "/resources/url-2b5dead3172c0b70da7e/",
+      "indexable": true,
+      "sha256": "17c7689f1fa671efcf7c36e28ea31da06bf48092c34c4633e0a6aad2b5c255fd"
+    },
+    {
       "path": "/resources/url-2c2004baae4669f8169a/",
       "indexable": true,
-      "sha256": "99f0a2930f015ae125cb4301c8bb9d9897329839dd5f3806e81e84fffe75d917"
+      "sha256": "8ccd451d87ab8c69cfb6ce96c8d1b852905500b8168c9a5668f29e4ea17de873"
     },
     {
       "path": "/resources/url-30c831a1198b9bc2a0f5/",
       "indexable": true,
       "sha256": "324a7c82fdb952494c98bbdf4173afffbe4bda398f5aea51674bad5c0ab285d3"
+    },
+    {
+      "path": "/resources/url-35b9879a351cc3b3d7d5/",
+      "indexable": true,
+      "sha256": "28cba61b24651d773865e991c470d76e7117310aa3344737566d70e1b4fd44f9"
+    },
+    {
+      "path": "/resources/url-3932d69c6b6f9b2a7ba8/",
+      "indexable": true,
+      "sha256": "41504e8bb8bf94e3624dd9308db0eaa81e45d7e8b986dbfe0f5d18eecd23fb34"
     },
     {
       "path": "/resources/url-4a47a6df845735984bf1/",
@@ -9765,6 +9695,11 @@
       "sha256": "fd03a6763630948098e475dee3bde31e58d07ced575ac74eff4ce5b66f5752b1"
     },
     {
+      "path": "/resources/url-52b7de0e43b1afc9c226/",
+      "indexable": true,
+      "sha256": "882a4488bd71f9fd18ce0ec1b1a8f0770d3e59aae4075f79b58fdcfe1d0676fc"
+    },
+    {
       "path": "/resources/url-546e6c95825d1318c98d/",
       "indexable": true,
       "sha256": "f385fd74582e5bb3804903cc0619e67b6e8f31917ab3b8e04faf3da2c11f8c8a"
@@ -9780,6 +9715,11 @@
       "sha256": "61114b6420550c3ac9fc14adc36e7cb5393f9945e67f274783f787ea27e29e68"
     },
     {
+      "path": "/resources/url-5d61c1b5fc8dd650518d/",
+      "indexable": true,
+      "sha256": "7db26154c011d9c576e648355bece99b5eea985d547fbcfa4c5ac4ae323022bf"
+    },
+    {
       "path": "/resources/url-60a95f34072aeb2771cc/",
       "indexable": true,
       "sha256": "282829449f5a597fbcb3a1f63b4aa24b99ff7385e3e6029488e904829353922d"
@@ -9792,7 +9732,7 @@
     {
       "path": "/resources/url-631e74223e198ef40202/",
       "indexable": true,
-      "sha256": "cde19a4308cd4ce37ba0a7321524531e09dd23c523d5f6c874a651ca4482ed1c"
+      "sha256": "ee416ebb0097171e32e31b55f5d8c5f008e54bff50309e38be525fb6f7c650ec"
     },
     {
       "path": "/resources/url-63ef8c7e455951a20281/",
@@ -9840,6 +9780,11 @@
       "sha256": "dc0a315a6e6524c998094477fbdf52652fece25ee35116f9b4e9aa0c136aad1a"
     },
     {
+      "path": "/resources/url-7c568d88a472f914d316/",
+      "indexable": true,
+      "sha256": "4edd17ec9b815ff9b7911d44e331fd4633bf25bffe05f844972ee9a07721cc1d"
+    },
+    {
       "path": "/resources/url-826f3753905c5c43bf46/",
       "indexable": true,
       "sha256": "fc186439a9dbe9e45b70d5f11e0dede38e671a3da817b7e6504ca6ba220715ac"
@@ -9865,6 +9810,11 @@
       "sha256": "9a90d98470f6d46d0835468cec7f948231a483aac3420522951ab62fa44add0a"
     },
     {
+      "path": "/resources/url-8ef3985dce697e5feea9/",
+      "indexable": true,
+      "sha256": "973177728fc1bdc0e6e328ce822aca04e6c3aba22b8d421c5086046190581bba"
+    },
+    {
       "path": "/resources/url-964d70c40bfc5ca8e1ee/",
       "indexable": true,
       "sha256": "e59bfbc3c368c44286a540cb98a4a6eb5fb2696563d087a3acd546661a4e91aa"
@@ -9885,6 +9835,11 @@
       "sha256": "cd679ab115a3c2151eff574e8a59028b6ad6f060c7064989c8c553b4b01e7e1b"
     },
     {
+      "path": "/resources/url-a6ee20fea67438d91e06/",
+      "indexable": true,
+      "sha256": "4544d609d6a73f42c3c9693fb85dbcfec8a28d86c4aec3d6802e110eff20ce92"
+    },
+    {
       "path": "/resources/url-aa28e1329a52e341d285/",
       "indexable": true,
       "sha256": "9d2f99fa9428a3fc8215cb5d7258c297cb1c5d7a23032d95f51c1bbb8105be68"
@@ -9895,9 +9850,19 @@
       "sha256": "4fa904dbcfa49d1df50a8f3683a3533fcfc7cff79df137ff96d64692094687a8"
     },
     {
+      "path": "/resources/url-ae8f5208eea9e7f1f606/",
+      "indexable": true,
+      "sha256": "aa689d5f83289b3261f50464df4925489e33ccc31a292429773616fd42c9bdae"
+    },
+    {
       "path": "/resources/url-b074ccdb2d9ec0277b65/",
       "indexable": true,
       "sha256": "82969d240c7181295c12c92956f9c139c753e26aefc3e0452dcff16b21d59347"
+    },
+    {
+      "path": "/resources/url-b5e2127e07f692d516b9/",
+      "indexable": true,
+      "sha256": "bdf4fa47feede4c982f4e2b9ea93250f0b3f874337f3905277ea1aed0371653c"
     },
     {
       "path": "/resources/url-b80bfa0a4939a493a11f/",
@@ -9913,6 +9878,11 @@
       "path": "/resources/url-b940a884f200a916a61b/",
       "indexable": true,
       "sha256": "22ca2c02c87d7ecadbbbb7fce67082c2afe35ad9b0e744a6edc9f7ca07c73d94"
+    },
+    {
+      "path": "/resources/url-ba6453cfdae0eb049ced/",
+      "indexable": true,
+      "sha256": "121cf6f6582b157363060130ad9f54ce7bf58a0a822b6e98f83882879ca5dd0f"
     },
     {
       "path": "/resources/url-bd7214de6d98917c2350/",
@@ -9955,9 +9925,24 @@
       "sha256": "504320a8d08bfe1333a63de5807edb772aead7c5c1438fd3e9030e7f00bd1508"
     },
     {
+      "path": "/resources/url-cc931199bda2bdf1f5f7/",
+      "indexable": true,
+      "sha256": "de2feef37cd66e574b752c086ff182b8b3aa1b10c31088048dec3a53741f6118"
+    },
+    {
       "path": "/resources/url-cee45b940d5fbff3ccca/",
       "indexable": true,
       "sha256": "afd892086410ff9aac375002859cfa434a569b460fcc094df676e7d0c7e8239e"
+    },
+    {
+      "path": "/resources/url-cfea8a0949472a637990/",
+      "indexable": true,
+      "sha256": "863b48a49005aa95477a4e1c1db821ffeeb1ff68dd9df3f6a726ea5b4fd6766a"
+    },
+    {
+      "path": "/resources/url-d1e85aeb6d96859c109d/",
+      "indexable": true,
+      "sha256": "3450db40ef90de0c01193ba5428deb41185ec61243759596a032d18240f112f4"
     },
     {
       "path": "/resources/url-d236e7ec7a2b0028950a/",
@@ -9997,7 +9982,7 @@
     {
       "path": "/resources/url-e062cf1445eaee0f3ade/",
       "indexable": true,
-      "sha256": "87ac985c0b31b30bf403f11f26be3696ac6c7e4f94f897983e0e12660734d0a8"
+      "sha256": "a7606dcd9aae8bf75452c7eb6489c88fd2b3d022664326f8766a5a81d55d3fb1"
     },
     {
       "path": "/resources/url-e3c1a2a2d556e4728953/",
@@ -10030,6 +10015,11 @@
       "sha256": "3c6e566235f881890101ea31f5e5762d6f153516af147ac618b094a07052e438"
     },
     {
+      "path": "/resources/url-f13474d7aa734a30624d/",
+      "indexable": true,
+      "sha256": "f56c8f035763f95dc5692e29f7859468197d94644e8fefac2e7d167674ffbf11"
+    },
+    {
       "path": "/resources/url-f8566bd0394d36ed4f8e/",
       "indexable": true,
       "sha256": "9ee185078bf5f38f5093b4b52303da6a09e92a5f4ba1d0e9603e97221e6e6566"
@@ -10037,7 +10027,7 @@
     {
       "path": "/resources/url-f976dec3d1c5e0bedbd7/",
       "indexable": true,
-      "sha256": "a80c8f67c0d66d55a2838a10d5c2cb2c595762bee73dfc6c2d3ceafb2bff3e07"
+      "sha256": "e14251812d5fa7c235f279dc22339deb660cdddc0d507333393a65f816e0d806"
     },
     {
       "path": "/resources/url-fda52d641c6b482bda7b/",
@@ -10295,14 +10285,194 @@
       "scope_excluded": true
     },
     {
+      "path": "/resources/arxiv-1711-05875/",
+      "indexable": false,
+      "sha256": "5e87c8a53f2e5ea9fa3ccfe9ed3e4f4c289095c01b59b38c4e274ec2917a88c3",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-1712-06482/",
+      "indexable": false,
+      "sha256": "bf30695aafcb20fe4852d6f634e543bc063076be93a25fb56f0e63db6a8c1fca",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-1801-04006/",
+      "indexable": false,
+      "sha256": "20e253a4f53ccd5885b8695df5d41b4e90685e2d449a0a50814d2d2c91f80173",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-1801-04073/",
+      "indexable": false,
+      "sha256": "67e48e04f5842c59b8eb84491a13b13e11ab8d7fdb4080b8494ae3ba91572cb7",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-1802-08303/",
+      "indexable": false,
+      "sha256": "849890f7998e3ee10efd8f886ada4de8c21028958e600959cabbb61343639717",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-1804-00267/",
+      "indexable": false,
+      "sha256": "f65714f7830b5c1fb108ddbafeca29004abf5079706369e8531dabcb1b1c2662",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-1805-00988/",
+      "indexable": false,
+      "sha256": "1621ca7f0054e49fbe6ac91044b6c9b9baffa7ebe4d262bfa1f19b3bc9350126",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-1806-04663/",
+      "indexable": false,
+      "sha256": "04cb5f0082703b2c657f4c720590c5806d3358e295eb96c9786672dce8a5949a",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-1806-05543/",
+      "indexable": false,
+      "sha256": "65ba955be88af5aca1bfab5cc979e7c780b01d1a24f38b904d31aeda6e6f176b",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-1806-09138/",
+      "indexable": false,
+      "sha256": "6bc5471e7f3165f7f4908511cdc399f81387f497657f24e0b751ca6cd346d827",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-1808-06709/",
+      "indexable": false,
+      "sha256": "a79a028da9ab466344ca92016443d266cacfd79b685bd54291fdb903d0884c9d",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-1811-03894/",
+      "indexable": false,
+      "sha256": "b60f68b47f8874f4b1f5c2aaaec46bbf802170f7e17b8cc527a7b2b686dc11a6",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-1811-12926/",
+      "indexable": false,
+      "sha256": "e6c68cb281a2b5389e62216eec375e94bcf7c6de12f868fb051ff2479ddbc6c1",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-1812-06425/",
+      "indexable": false,
+      "sha256": "fe06f1cafb9c20c4f6f52d48a15969531e56042f98c8ea3329e5c7de77daa0fb",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-1812-07503/",
+      "indexable": false,
+      "sha256": "e19feb021a51614ec4ae46c8240d84aab2a5d428b5d131ec56946fa01e8e810a",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-1901-07653/",
+      "indexable": false,
+      "sha256": "eda2e42345e654a91a217ae19ff55efed4e1f1ec10bafda4317a0f7fb820d9e3",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-1904-12028/",
+      "indexable": false,
+      "sha256": "c54ad8320f0cccdb89ebaa0e320641f418afbfadcdbe46294a945b67e3f28406",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-1907-00657/",
+      "indexable": false,
+      "sha256": "d2909a76cdf9c23d79a03d180d76b68ec2c7d884f422946218f56d2e43bf0378",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-1907-02804/",
+      "indexable": false,
+      "sha256": "6d97fc2a89d4be1b50ae42b030b06608d9b81a3b2d5b3b73dd890ab4e483d371",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-1907-04084/",
+      "indexable": false,
+      "sha256": "56468f8242adea5a1c30e7bd8fadc249c957f3697b370c1f32c9c4cc941dc0ce",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-1910-11075/",
+      "indexable": false,
+      "sha256": "0f461e9b72686a2886af4b6a2b2e3b59260a46d06d3cdf6c37616f71a9b89074",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-1911-01354/",
+      "indexable": false,
+      "sha256": "68db430db44fb8efd323cd4c3206d36853facdf3b5bb4bcfe6efa077703cf928",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-1912-05119/",
+      "indexable": false,
+      "sha256": "65410e41de3cabc1e4d7e6385c27fa332d9e42eb3ee1bc57ced9610077ca01f7",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-2001-00794/",
+      "indexable": false,
+      "sha256": "fbe36bfdb1012645115f8ef7f32eb9cb59f473ccbb574ef60d725d0d8b262c4e",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-2001-04941/",
+      "indexable": false,
+      "sha256": "7242ffbddc245b6129908db4271b97fd5c880f1e544fa5543dae60a44bfc09e4",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-2004-00704/",
+      "indexable": false,
+      "sha256": "a705f5946a2169abf4903fb8c633b7c1d3b8cb09fa875ca798333dc88dc9bd94",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-2004-01329/",
+      "indexable": false,
+      "sha256": "22d4902c77e8ed7a38e800c04e3e73e5ce69404dc9d9cb6c79d3090795a73097",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-2004-04114/",
+      "indexable": false,
+      "sha256": "b7fc6261743f89550b2545549f8a4693c701d969213f1eaa82832b8633e51b19",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-2004-05956/",
+      "indexable": false,
+      "sha256": "5710c07d36842e6e4755c4b9f41b0a094d7652710a4d79a6ad09901ae01917fa",
+      "scope_excluded": true
+    },
+    {
+      "path": "/resources/arxiv-2004-12621/",
+      "indexable": false,
+      "sha256": "076ec360b5b1e9ea35daa5fc6f8a74db41ffb87beaf623914320cc7d855220d0",
+      "scope_excluded": true
+    },
+    {
       "path": "/catalog/",
       "indexable": true,
-      "sha256": "849e3afb4eef5aac100a72b7610bf007d117df32156d40f6ba0f9f96ca83d055"
+      "sha256": "94a28e2d630b862fc9368b82393f504f50a3db2fe38c753abb99454d6712e3d1"
     },
     {
       "path": "/categories/paper/",
       "indexable": true,
-      "sha256": "6784ab04d44bb68103980c0ed81b9ea4610030a2a6b58d6f19f738e420f6b89f"
+      "sha256": "e8231f47f24abb6e94e304bc8673e44814ad982c87e8b2c1c596e148483b1ea0"
     },
     {
       "path": "/categories/survey/",
@@ -10312,12 +10482,12 @@
     {
       "path": "/categories/model/",
       "indexable": true,
-      "sha256": "b4f17116646100505dcb25b65bb101c662d94b4f949c494c6796a8bd6c3e85a2"
+      "sha256": "0faf1567c758859d0d3374b096c7acddc947d12f4dae979b96951835f6e67682"
     },
     {
       "path": "/categories/dataset/",
       "indexable": true,
-      "sha256": "e21a98f9ad24b19ec07f3254f5db8717073cd6fc60c898e17d212e882c4d5d97"
+      "sha256": "dd804d17f99213215ddb4eeacac2e0d762886bfa241865a6ccdb2c19a5a2c42f"
     },
     {
       "path": "/categories/benchmark/",
@@ -10332,7 +10502,7 @@
     {
       "path": "/categories/framework/",
       "indexable": true,
-      "sha256": "41685eccb9b46f440e60ebc99a00ba4549567e0fc5021d3abb22004de84fd774"
+      "sha256": "04f2e7c66cdb02ee3dcd6024aaa5f2296ac7df54a405b6fed7727e8a882d4124"
     },
     {
       "path": "/categories/infrastructure/",
@@ -10342,7 +10512,7 @@
     {
       "path": "/categories/tool/",
       "indexable": true,
-      "sha256": "65694d2d024485497984eac932323ca1e13abfa6a9ce29fdfb72549bb070357a"
+      "sha256": "93b792957b6c95656f40914b44d19c79a50676f502df7a006d057e393c2eecc7"
     },
     {
       "path": "/categories/product/",
@@ -10357,32 +10527,32 @@
     {
       "path": "/compare/benchmarks/",
       "indexable": true,
-      "sha256": "3602457116f0a376cbc3a2ac7b14c80b8aee0c074842724d014a4b6ff2466705"
+      "sha256": "4c80049b4a30f140943581a96f7eee0053a7d18cc29bfc25aa8da0cf601158c9"
     },
     {
       "path": "/compare/datasets/",
       "indexable": true,
-      "sha256": "1589ed48264040da9e1429ddf7a6ae2c3357e502fffbca5ad554295cd08d4bcb"
+      "sha256": "341a7a797f80d1d087b30dbba8668b925e80e3a1fa5821ce37228ce50f3f6fb2"
     },
     {
       "path": "/papers/",
       "indexable": true,
-      "sha256": "813dc507c45c287603a41d62524167ccded355c20f7fdaefa56d32e7c150ac69"
+      "sha256": "4823b3e9172be0a3da3b2367f51e93e4bc70d2b8bf022e128d36bcdc69876ce1"
     },
     {
       "path": "/connections/",
       "indexable": true,
-      "sha256": "f376901899d4fb312f2a9b7f6804a2b3180f5737c556a91b6a331ceeacf4e287"
+      "sha256": "e164756716c8393ef52b228bfed81f5195a0719c7bfd54abdd61f21d499c0b3c"
     },
     {
       "path": "/coverage/",
       "indexable": true,
-      "sha256": "a5557f028f6fa6b437bbae19a9dedd77d8880293da3c664b56bab90581e5336c"
+      "sha256": "5dc3671e9ed793c3ff0f04e99a185d64555001eb4ed7e735f4a90e9bc8115a2c"
     },
     {
       "path": "/updates/",
       "indexable": true,
-      "sha256": "f9129f380123075306890d0ff3c69d0de3be06e72bdb64f9396d9c05094538b2"
+      "sha256": "7492add5038d54c9b27fd2377511cfa1095be70608856bdff8aeea4f3818423a"
     },
     {
       "path": "/about/",
@@ -10392,7 +10562,7 @@
     {
       "path": "/data/",
       "indexable": true,
-      "sha256": "c1a00b233cfc46f723cfe30e1e4f6a0a3d2932f8951b32cd4def4e4ea2b4dae5"
+      "sha256": "dfdd74ba3b9afe55c1135928111bd605afd4f1467bd03bd63c498decf28a1470"
     },
     {
       "path": "/guides/what-are-computer-use-agents/",
@@ -10417,12 +10587,12 @@
     {
       "path": "/zh/",
       "indexable": true,
-      "sha256": "8219b80088543c63048f92eb1e32f772578e48d965a6d647c22acab444cea49a"
+      "sha256": "6c034ed06fbf5174416d0a45940fc3f4f32b89c7a1a1d04c61b9e7d7ee9c9df1"
     },
     {
       "path": "/",
       "indexable": true,
-      "sha256": "082e45df56b07dfd933cd9ec902b9e57b39f447e5a9fa860a3898cfcf17324b6"
+      "sha256": "7210c9e32045c869709ed47463ea070d2fafb88ed1694b28c5bce12bf3d02813"
     }
   ]
 }

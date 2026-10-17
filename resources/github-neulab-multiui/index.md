@@ -16,6 +16,19 @@ Multilingual UI understanding and interaction data.
 
 Inclusion does not establish reproducibility or endorsement.
 
+## Structured profile
+
+- formats: not recorded
+- modalities: webpage UI content, text, accessibility-derived structure
+- splits: training collection
+- supervision: UI understanding, text-rich visual tasks
+
+### Count observations
+
+- ≈ 7,300,000 samples — reported MultiUI training collection (reported; source: https://raw.githubusercontent.com/neulab/multiui/HEAD/README.md)
+
+The README provides a rounded sample count. It does not establish a unique-screenshot inventory or a normalized split breakdown. Synthetic examples and publicly sourced web content have provenance and quality limits; data terms must be checked separately from repository code.
+
 ## License declarations
 
 - code: not recorded
@@ -25,4 +38,5 @@ Inclusion does not establish reproducibility or endorsement.
 
 ## Primary evidence
 
+- https://raw.githubusercontent.com/neulab/multiui/HEAD/README.md (retrieved 2026-10-16T06:36:01Z; SHA-256 fe0c03fe73529a29788d559103c4aed48dca6ed9ba3bfd5f151f902fa8858b38)
 - https://raw.githubusercontent.com/neulab/multiui/HEAD/README.md (retrieved 2026-10-16T06:36:01Z; SHA-256 fe0c03fe73529a29788d559103c4aed48dca6ed9ba3bfd5f151f902fa8858b38)

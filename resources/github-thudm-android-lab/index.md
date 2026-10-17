@@ -16,6 +16,21 @@ Training and evaluation environment for Android agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+## Structured profile
+
+- actions: Android operations through the agent framework
+- evaluation: The evaluation pipeline produces success, subgoal success, reversed redundancy, and reasonable-operation metrics; result generation requires a configured judge model.
+- focus: Android task completion, subgoal completion, operation efficiency
+- observations: UI XML, set-of-marks views
+- setting: interactive
+
+### Count observations
+
+- 138 tasks — benchmark task collection (reported; source: https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md)
+- 9 applications — benchmark application set (reported; source: https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md)
+
+The benchmark uses predefined virtual-device images and apps chosen to work without network/login requirements. XML and SoM modes should be reported separately. These counts concern evaluation tasks, not the separately released Android Instruct training set.
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/LICENSE
@@ -25,5 +40,6 @@ Inclusion does not establish reproducibility or endorsement.
 
 ## Primary evidence
 
+- https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md (retrieved 2026-10-16T06:35:58Z; SHA-256 340680a9a7833d103234b8367195deebd29bfec7e25ebc50c2dc04fc3627e55b)
 - https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/README.md (retrieved 2026-10-16T06:35:58Z; SHA-256 340680a9a7833d103234b8367195deebd29bfec7e25ebc50c2dc04fc3627e55b)
 - https://raw.githubusercontent.com/THUDM/Android-Lab/HEAD/LICENSE (retrieved 2026-10-16T06:41:58Z; SHA-256 1bbbee919161337e2456c587c6be809214406482cd9f1292a9eb62428f6961f3)
