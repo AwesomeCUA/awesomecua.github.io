@@ -1,20 +1,20 @@
 # ATLaS: Agent Tuning via Learning Critical Steps
 
-Bibliographic record for ATLaS: Agent Tuning via Learning Critical Steps. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Selects critical steps from expert interaction trajectories for targeted agent fine-tuning, studying efficiency and generalization across tasks.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2503-02197/
 - Original source: https://arxiv.org/abs/2503.02197
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: data-generation, planning, efficiency
 - Evidence checked: 2026-10-16T06:45:04Z
 - ID: arxiv:2503.02197
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced. The full paper was also inspected to confirm WebShop evaluation; the broader agent-learning method is classified as adjacent.
 
 ## Authors
 
@@ -30,3 +30,5 @@ Zhixun Chen, Ming Li, Yuxuan Huang, Yali Du, Meng Fang, Tianyi Zhou
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2303.17760%2C2310.03720%2C2312.11190%2C2403.02502%2C2406.12639%2C2409.18060%2C2410.00201%2C2501.01702%2C2501.11425%2C2502.02533%2C2502.02955%2C2502.12110%2C2502.15760%2C2502.17110%2C2502.19328%2C2503.02197%2C2503.02403%2C2503.02682%2C2503.06580%2C2503.07365%2C2503.09572%2C2503.14021%2C2503.24180%2C2504.02357%2C2504.11675%2C2504.13936&max_results=26 (retrieved 2026-10-16T06:45:04Z; SHA-256 bab88dfed88ca440c231aa768530374a0f19498777a70921481a904fddd46bb8)
+- https://export.arxiv.org/api/query?id_list=2303.17760%2C2310.03720%2C2312.11190%2C2403.02502%2C2406.12639%2C2409.18060%2C2410.00201%2C2501.01702%2C2501.11425%2C2502.02533%2C2502.02955%2C2502.12110%2C2502.15760%2C2502.17110%2C2502.19328%2C2503.02197%2C2503.02403%2C2503.02682%2C2503.06580%2C2503.07365%2C2503.09572%2C2503.14021%2C2503.24180%2C2504.02357%2C2504.11675%2C2504.13936&max_results=26 (retrieved 2026-10-16T06:45:04Z; SHA-256 bab88dfed88ca440c231aa768530374a0f19498777a70921481a904fddd46bb8)
+- https://arxiv.org/html/2503.02197 (retrieved 2026-10-16T13:06:43Z; SHA-256 9048f54fbe64ee62117e37e3c9ad5b157fc70e83304d9ccb782f8782e487dd4a)

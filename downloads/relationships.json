@@ -1,5 +1,5 @@
 {
-  "relation_count": 173,
+  "relation_count": 178,
   "semantics": "Reviewed semantic links only. Documentation does not establish training or evaluation dependency.",
   "relations": [
     {
@@ -48,6 +48,14 @@
       "source_kind": "agent",
       "evidence_url": "https://raw.githubusercontent.com/alipay/mobile-agent/HEAD/README.md",
       "target_id": "arxiv:2401.04124",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:alokia/cola-demo",
+      "source_name": "COLA demo",
+      "source_kind": "agent",
+      "evidence_url": "https://export.arxiv.org/api/query?id_list=2412.04454%2C2412.04626%2C2412.05467%2C2412.09362%2C2412.09605%2C2412.10342%2C2412.10742%2C2412.10840%2C2412.13103%2C2412.13194%2C2412.13501%2C2412.14161%2C2412.14470%2C2412.16256%2C2412.17589%2C2412.18116%2C2412.18426%2C2412.19723%2C2501.01149%2C2501.04575%2C2501.07572%2C2501.11733%2C2501.12326%2C2501.13896%2C2501.16150%2C2502.01600%2C2502.01977%2C2502.02982%2C2502.06395%2C2502.07949%2C2502.08047%2C2502.08226%2C2502.11357%2C2502.13053%2C2502.13923%2C2502.14282%2C2502.18906%2C2503.00401%2C2503.02268%2C2503.03196%2C2503.04730%2C2503.05143%2C2503.06470%2C2503.09263%2C2503.11069%2C2503.11170%2C2503.12687%2C2503.15661%2C2503.15937%2C2503.16465&max_results=50",
+      "target_id": "arxiv:2503.09263",
       "type": "documented_by"
     },
     {
@@ -192,6 +200,14 @@
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/facebookresearch/ai-agent-privacy/HEAD/README.md",
       "target_id": "arxiv:2503.09780",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:fanbinlu/steve-r1",
+      "source_name": "STEVE / STEVE-R1 research code",
+      "source_kind": "framework",
+      "evidence_url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending",
+      "target_id": "arxiv:2503.12532",
       "type": "documented_by"
     },
     {
@@ -523,6 +539,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:pathonaiorg/litewebagent",
+      "source_name": "LiteWebAgent",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/PathOnAI/LiteWebAgent/HEAD/README.md",
+      "target_id": "arxiv:2503.02950",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:princeton-nlp/webshop",
       "source_name": "WebShop",
       "source_kind": "benchmark",
@@ -819,6 +843,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:wuzheng02/os-kairos",
+      "source_name": "OS-Kairos",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/Wuzheng02/OS-Kairos/HEAD/README.md",
+      "target_id": "arxiv:2503.16465",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:x-lance/meta-gui-baseline",
       "source_name": "META-GUI baseline",
       "source_kind": "framework",
@@ -912,6 +944,14 @@
       "source_kind": "dataset",
       "evidence_url": "https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md",
       "target_id": "arxiv:2406.11317",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:yuqi-zhou/chop",
+      "source_name": "CHOP",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/Yuqi-Zhou/CHOP/HEAD/README.md",
+      "target_id": "arxiv:2503.03743",
       "type": "documented_by"
     },
     {

@@ -1,11 +1,14 @@
 {
-  "as_of_utc": "2026-10-16T11:40:46Z",
-  "total_records": 2027,
-  "curated_records": 523,
-  "bibliographic_records": 1764,
-  "metadata_only_records": 1504,
+  "as_of_utc": "2026-10-16T13:29:25Z",
+  "total_records": 1993,
+  "curated_records": 569,
+  "bibliographic_records": 1724,
+  "arxiv_archive_records": 1764,
+  "excluded_records": 40,
+  "exclusion_revalidation_pending": 0,
+  "metadata_only_records": 1424,
   "discovery_identifiers": 2763,
-  "unindexed_candidates": 805,
+  "unindexed_candidates": 801,
   "pending_editorial": [
     {
       "id": "github:mobilellm/autodroid-v2",
@@ -48,34 +51,41 @@
       "name": "InfiGUIAgent",
       "url": "https://github.com/InfiXAI/InfiGUIAgent",
       "reason": "current source snapshot needs editorial review"
+    },
+    {
+      "id": "github:zju-aces-ise/chatuitest",
+      "name": "ChatUITest / GTArena project hub",
+      "url": "https://github.com/ZJU-ACES-ISE/ChatUITest",
+      "reason": "current source snapshot needs editorial review"
     }
   ],
   "by_kind": {
-    "agent": 28,
+    "agent": 30,
     "benchmark": 60,
     "company": 16,
     "dataset": 43,
-    "framework": 28,
+    "framework": 31,
     "infrastructure": 12,
     "model": 48,
-    "paper": 1753,
+    "paper": 1713,
     "product": 19,
     "survey": 11,
-    "tool": 9
+    "tool": 10
   },
   "curated_by_environment": {
-    "android": 112,
-    "cross-platform": 128,
-    "desktop": 121,
+    "android": 117,
+    "cross-platform": 138,
+    "desktop": 130,
+    "harmonyos": 1,
     "ios": 13,
-    "linux": 10,
+    "linux": 11,
     "macos": 9,
-    "unspecified": 54,
-    "web": 150,
-    "windows": 15
+    "unspecified": 59,
+    "web": 172,
+    "windows": 20
   },
   "license_declarations_by_scope": {
-    "code": 119,
+    "code": 122,
     "data": 27,
     "weights": 14,
     "document": 0
@@ -88,7 +98,7 @@
       "snapshot": {
         "id": "showlab-gui",
         "url": "https://raw.githubusercontent.com/showlab/Awesome-GUI-Agent/main/README.md",
-        "retrieved_at": "2026-10-16T18:48:45Z",
+        "retrieved_at": "2026-10-17T01:45:01Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/showlab/Awesome-GUI-Agent/main/README.md",
@@ -99,7 +109,8 @@
       },
       "discovered": 338,
       "indexed": 199,
-      "curated": 152,
+      "curated": 156,
+      "excluded": 0,
       "unindexed": 139
     },
     {
@@ -109,7 +120,7 @@
       "snapshot": {
         "id": "zju-gui",
         "url": "https://raw.githubusercontent.com/ZJU-REAL/Awesome-GUI-Agents/main/README.md",
-        "retrieved_at": "2026-10-16T18:48:45Z",
+        "retrieved_at": "2026-10-17T01:45:01Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/ZJU-REAL/Awesome-GUI-Agents/main/README.md",
@@ -120,7 +131,8 @@
       },
       "discovered": 218,
       "indexed": 156,
-      "curated": 127,
+      "curated": 132,
+      "excluded": 0,
       "unindexed": 62
     },
     {
@@ -130,7 +142,7 @@
       "snapshot": {
         "id": "os-agent-survey",
         "url": "https://raw.githubusercontent.com/OS-Agent-Survey/OS-Agent-Survey/main/README.md",
-        "retrieved_at": "2026-10-16T18:48:45Z",
+        "retrieved_at": "2026-10-17T01:45:01Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/OS-Agent-Survey/OS-Agent-Survey/main/README.md",
@@ -141,7 +153,8 @@
       },
       "discovered": 224,
       "indexed": 198,
-      "curated": 110,
+      "curated": 117,
+      "excluded": 0,
       "unindexed": 26
     },
     {
@@ -151,7 +164,7 @@
       "snapshot": {
         "id": "wjhou-cua",
         "url": "https://raw.githubusercontent.com/wjhou/awesome-computer-use-agents/main/README.md",
-        "retrieved_at": "2026-10-16T18:48:46Z",
+        "retrieved_at": "2026-10-17T01:45:01Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/wjhou/awesome-computer-use-agents/main/README.md",
@@ -163,6 +176,7 @@
       "discovered": 132,
       "indexed": 93,
       "curated": 64,
+      "excluded": 0,
       "unindexed": 39
     },
     {
@@ -172,7 +186,7 @@
       "snapshot": {
         "id": "steel-web",
         "url": "https://raw.githubusercontent.com/steel-dev/awesome-web-agents/main/README.md",
-        "retrieved_at": "2026-10-16T18:48:46Z",
+        "retrieved_at": "2026-10-17T01:45:01Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/steel-dev/awesome-web-agents/main/README.md",
@@ -184,6 +198,7 @@
       "discovered": 113,
       "indexed": 22,
       "curated": 22,
+      "excluded": 0,
       "unindexed": 91
     },
     {
@@ -193,7 +208,7 @@
       "snapshot": {
         "id": "steel-web-archive",
         "url": "https://raw.githubusercontent.com/steel-dev/awesome-web-agents/main/ARCHIVE.md",
-        "retrieved_at": "2026-10-16T18:48:46Z",
+        "retrieved_at": "2026-10-17T01:45:01Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/steel-dev/awesome-web-agents/main/ARCHIVE.md",
@@ -205,6 +220,7 @@
       "discovered": 7,
       "indexed": 1,
       "curated": 1,
+      "excluded": 0,
       "unindexed": 6
     },
     {
@@ -214,7 +230,7 @@
       "snapshot": {
         "id": "gui-datasets",
         "url": "https://raw.githubusercontent.com/Khang-9966/Computer-Browser-Phone-Use-Agent-Datasets/main/README.md",
-        "retrieved_at": "2026-10-16T18:48:46Z",
+        "retrieved_at": "2026-10-17T01:45:01Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/Khang-9966/Computer-Browser-Phone-Use-Agent-Datasets/main/README.md",
@@ -225,7 +241,8 @@
       },
       "discovered": 170,
       "indexed": 108,
-      "curated": 68,
+      "curated": 71,
+      "excluded": 0,
       "unindexed": 62
     },
     {
@@ -235,7 +252,7 @@
       "snapshot": {
         "id": "delunn-multimodal",
         "url": "https://raw.githubusercontent.com/DeLunnLi/Awesome-Multimodal-GUI-Agents/main/README.md",
-        "retrieved_at": "2026-10-16T18:48:46Z",
+        "retrieved_at": "2026-10-17T01:45:01Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/DeLunnLi/Awesome-Multimodal-GUI-Agents/main/README.md",
@@ -245,9 +262,10 @@
         "unique_resources": 588
       },
       "discovered": 588,
-      "indexed": 472,
-      "curated": 229,
-      "unindexed": 116
+      "indexed": 474,
+      "curated": 250,
+      "excluded": 0,
+      "unindexed": 114
     },
     {
       "id": "tianyuan-cua",
@@ -256,7 +274,7 @@
       "snapshot": {
         "id": "tianyuan-cua",
         "url": "https://raw.githubusercontent.com/TianyuanYang/awesome-computer-use/main/README.md",
-        "retrieved_at": "2026-10-16T18:48:47Z",
+        "retrieved_at": "2026-10-17T01:45:02Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/TianyuanYang/awesome-computer-use/main/README.md",
@@ -267,7 +285,8 @@
       },
       "discovered": 94,
       "indexed": 67,
-      "curated": 34,
+      "curated": 36,
+      "excluded": 0,
       "unindexed": 27
     },
     {
@@ -277,7 +296,7 @@
       "snapshot": {
         "id": "cdxeve-cua",
         "url": "https://raw.githubusercontent.com/cdxeve/awesome-computer-use-agents/main/README.md",
-        "retrieved_at": "2026-10-16T18:48:47Z",
+        "retrieved_at": "2026-10-17T01:45:02Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/cdxeve/awesome-computer-use-agents/main/README.md",
@@ -289,6 +308,7 @@
       "discovered": 78,
       "indexed": 48,
       "curated": 29,
+      "excluded": 0,
       "unindexed": 30
     },
     {
@@ -298,7 +318,7 @@
       "snapshot": {
         "id": "supernal-gui",
         "url": "https://raw.githubusercontent.com/supernalintelligence/Awesome-Gui-Agents/main/README.md",
-        "retrieved_at": "2026-10-16T18:48:47Z",
+        "retrieved_at": "2026-10-17T01:45:02Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/supernalintelligence/Awesome-Gui-Agents/main/README.md",
@@ -310,6 +330,7 @@
       "discovered": 63,
       "indexed": 11,
       "curated": 8,
+      "excluded": 0,
       "unindexed": 52
     },
     {
@@ -319,7 +340,7 @@
       "snapshot": {
         "id": "yearly-gui",
         "url": "https://raw.githubusercontent.com/qy0720/awesome-yearly-gui-agents/main/README.md",
-        "retrieved_at": "2026-10-16T18:48:47Z",
+        "retrieved_at": "2026-10-17T01:45:02Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/qy0720/awesome-yearly-gui-agents/main/README.md",
@@ -330,7 +351,8 @@
       },
       "discovered": 193,
       "indexed": 137,
-      "curated": 116,
+      "curated": 118,
+      "excluded": 0,
       "unindexed": 56
     },
     {
@@ -340,7 +362,7 @@
       "snapshot": {
         "id": "osu-gui",
         "url": "https://raw.githubusercontent.com/OSU-NLP-Group/GUI-Agents-Paper-List/main/README.md",
-        "retrieved_at": "2026-10-16T18:48:48Z",
+        "retrieved_at": "2026-10-17T01:45:02Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/OSU-NLP-Group/GUI-Agents-Paper-List/main/README.md",
@@ -352,6 +374,7 @@
       "discovered": 544,
       "indexed": 486,
       "curated": 41,
+      "excluded": 0,
       "unindexed": 58
     },
     {
@@ -361,7 +384,7 @@
       "snapshot": {
         "id": "opendilab-ui",
         "url": "https://raw.githubusercontent.com/opendilab/awesome-ui-agents/main/README.md",
-        "retrieved_at": "2026-10-16T18:48:48Z",
+        "retrieved_at": "2026-10-17T01:45:03Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/opendilab/awesome-ui-agents/main/README.md",
@@ -372,7 +395,8 @@
       },
       "discovered": 144,
       "indexed": 88,
-      "curated": 60,
+      "curated": 62,
+      "excluded": 0,
       "unindexed": 56
     },
     {
@@ -382,7 +406,7 @@
       "snapshot": {
         "id": "jin-gui-hub",
         "url": "https://raw.githubusercontent.com/jin-s13/awesome-gui-agent-hub/main/AWESOME.md",
-        "retrieved_at": "2026-10-16T18:48:48Z",
+        "retrieved_at": "2026-10-17T01:45:03Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/jin-s13/awesome-gui-agent-hub/main/AWESOME.md",
@@ -394,6 +418,7 @@
       "discovered": 206,
       "indexed": 203,
       "curated": 26,
+      "excluded": 0,
       "unindexed": 3
     },
     {
@@ -403,7 +428,7 @@
       "snapshot": {
         "id": "zju-iclr26",
         "url": "https://raw.githubusercontent.com/ZJU-REAL/Awesome-GUI-Agents/main/ICLR2026/Paperlist.md",
-        "retrieved_at": "2026-10-16T18:48:48Z",
+        "retrieved_at": "2026-10-17T01:45:03Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/ZJU-REAL/Awesome-GUI-Agents/main/ICLR2026/Paperlist.md",
@@ -415,6 +440,7 @@
       "discovered": 9,
       "indexed": 0,
       "curated": 0,
+      "excluded": 0,
       "unindexed": 9
     },
     {
@@ -424,7 +450,7 @@
       "snapshot": {
         "id": "mobile-gui",
         "url": "https://raw.githubusercontent.com/dqtz5vpvj9-create/awesome-mobile-gui-agents/main/README.md",
-        "retrieved_at": "2026-10-16T18:48:48Z",
+        "retrieved_at": "2026-10-17T01:45:03Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/dqtz5vpvj9-create/awesome-mobile-gui-agents/main/README.md",
@@ -434,9 +460,10 @@
         "unique_resources": 40
       },
       "discovered": 40,
-      "indexed": 22,
-      "curated": 18,
-      "unindexed": 18
+      "indexed": 23,
+      "curated": 20,
+      "excluded": 0,
+      "unindexed": 17
     },
     {
       "id": "phone-gui",
@@ -445,7 +472,7 @@
       "snapshot": {
         "id": "phone-gui",
         "url": "https://raw.githubusercontent.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents/master/README.md",
-        "retrieved_at": "2026-10-16T18:48:49Z",
+        "retrieved_at": "2026-10-17T01:45:03Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents/master/README.md",
@@ -455,9 +482,10 @@
         "unique_resources": 247
       },
       "discovered": 247,
-      "indexed": 180,
-      "curated": 124,
-      "unindexed": 67
+      "indexed": 183,
+      "curated": 141,
+      "excluded": 0,
+      "unindexed": 64
     },
     {
       "id": "mobile-agents",
@@ -466,7 +494,7 @@
       "snapshot": {
         "id": "mobile-agents",
         "url": "https://raw.githubusercontent.com/aialt/awesome-mobile-agents/main/README.md",
-        "retrieved_at": "2026-10-16T18:48:49Z",
+        "retrieved_at": "2026-10-17T01:45:03Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/aialt/awesome-mobile-agents/main/README.md",
@@ -478,6 +506,7 @@
       "discovered": 91,
       "indexed": 76,
       "curated": 53,
+      "excluded": 0,
       "unindexed": 15
     },
     {
@@ -487,7 +516,7 @@
       "snapshot": {
         "id": "web-research",
         "url": "https://raw.githubusercontent.com/albzni/Awesome-LLM-based-Web-Agent-and-Tools/main/README.md",
-        "retrieved_at": "2026-10-16T18:48:49Z",
+        "retrieved_at": "2026-10-17T01:45:03Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/albzni/Awesome-LLM-based-Web-Agent-and-Tools/main/README.md",
@@ -499,6 +528,7 @@
       "discovered": 10,
       "indexed": 4,
       "curated": 4,
+      "excluded": 0,
       "unindexed": 6
     },
     {
@@ -508,7 +538,7 @@
       "snapshot": {
         "id": "ranpox-cua",
         "url": "https://raw.githubusercontent.com/ranpox/awesome-computer-use/main/README.md",
-        "retrieved_at": "2026-10-16T18:48:49Z",
+        "retrieved_at": "2026-10-17T01:45:04Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/ranpox/awesome-computer-use/main/README.md",
@@ -519,7 +549,8 @@
       },
       "discovered": 96,
       "indexed": 57,
-      "curated": 36,
+      "curated": 40,
+      "excluded": 0,
       "unindexed": 39
     },
     {
@@ -529,7 +560,7 @@
       "snapshot": {
         "id": "release-fara",
         "url": "https://raw.githubusercontent.com/microsoft/fara/HEAD/README.md",
-        "retrieved_at": "2026-10-16T18:48:49Z",
+        "retrieved_at": "2026-10-17T01:45:04Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/microsoft/fara/HEAD/README.md",
@@ -541,6 +572,7 @@
       "discovered": 18,
       "indexed": 3,
       "curated": 3,
+      "excluded": 0,
       "unindexed": 15
     },
     {
@@ -550,7 +582,7 @@
       "snapshot": {
         "id": "release-ui-venus",
         "url": "https://raw.githubusercontent.com/inclusionAI/UI-Venus/HEAD/README.md",
-        "retrieved_at": "2026-10-16T18:48:50Z",
+        "retrieved_at": "2026-10-17T01:45:04Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/inclusionAI/UI-Venus/HEAD/README.md",
@@ -562,6 +594,7 @@
       "discovered": 10,
       "indexed": 4,
       "curated": 4,
+      "excluded": 0,
       "unindexed": 6
     },
     {
@@ -571,7 +604,7 @@
       "snapshot": {
         "id": "release-opengvlab-scalecua",
         "url": "https://raw.githubusercontent.com/OpenGVLab/ScaleCUA/HEAD/README.md",
-        "retrieved_at": "2026-10-16T18:48:50Z",
+        "retrieved_at": "2026-10-17T01:45:04Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/OpenGVLab/ScaleCUA/HEAD/README.md",
@@ -583,6 +616,7 @@
       "discovered": 15,
       "indexed": 9,
       "curated": 9,
+      "excluded": 0,
       "unindexed": 6
     },
     {
@@ -592,7 +626,7 @@
       "snapshot": {
         "id": "release-thudm-scalecua",
         "url": "https://raw.githubusercontent.com/THUDM/SCALE-CUA/HEAD/README.md",
-        "retrieved_at": "2026-10-16T18:48:50Z",
+        "retrieved_at": "2026-10-17T01:45:04Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/THUDM/SCALE-CUA/HEAD/README.md",
@@ -604,6 +638,7 @@
       "discovered": 28,
       "indexed": 1,
       "curated": 1,
+      "excluded": 0,
       "unindexed": 27
     },
     {
@@ -613,7 +648,7 @@
       "snapshot": {
         "id": "release-showui-pi",
         "url": "https://raw.githubusercontent.com/showlab/showui-pi/HEAD/README.md",
-        "retrieved_at": "2026-10-16T18:48:50Z",
+        "retrieved_at": "2026-10-17T01:45:04Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/showlab/showui-pi/HEAD/README.md",
@@ -625,6 +660,7 @@
       "discovered": 11,
       "indexed": 3,
       "curated": 3,
+      "excluded": 0,
       "unindexed": 8
     },
     {
@@ -634,7 +670,7 @@
       "snapshot": {
         "id": "release-opencua",
         "url": "https://raw.githubusercontent.com/xlang-ai/OpenCUA/HEAD/README.md",
-        "retrieved_at": "2026-10-16T18:48:50Z",
+        "retrieved_at": "2026-10-17T01:45:04Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/xlang-ai/OpenCUA/HEAD/README.md",
@@ -646,6 +682,7 @@
       "discovered": 18,
       "indexed": 5,
       "curated": 5,
+      "excluded": 0,
       "unindexed": 13
     },
     {
@@ -655,7 +692,7 @@
       "snapshot": {
         "id": "release-webdreamer",
         "url": "https://raw.githubusercontent.com/OSU-NLP-Group/WebDreamer/HEAD/README.md",
-        "retrieved_at": "2026-10-16T18:48:51Z",
+        "retrieved_at": "2026-10-17T01:45:05Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/OSU-NLP-Group/WebDreamer/HEAD/README.md",
@@ -667,6 +704,7 @@
       "discovered": 5,
       "indexed": 3,
       "curated": 3,
+      "excluded": 0,
       "unindexed": 2
     },
     {
@@ -676,7 +714,7 @@
       "snapshot": {
         "id": "release-nnetnav",
         "url": "https://raw.githubusercontent.com/MurtyShikhar/NNetnav/HEAD/README.md",
-        "retrieved_at": "2026-10-16T18:48:51Z",
+        "retrieved_at": "2026-10-17T01:45:05Z",
         "ok": true,
         "status": 200,
         "final_url": "https://raw.githubusercontent.com/MurtyShikhar/NNetnav/HEAD/README.md",
@@ -688,6 +726,7 @@
       "discovered": 6,
       "indexed": 2,
       "curated": 2,
+      "excluded": 0,
       "unindexed": 4
     }
   ],
