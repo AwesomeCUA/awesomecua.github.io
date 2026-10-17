@@ -12,9 +12,9 @@ git clone https://github.com/reacher-z/Awesome-CUA.git
 
 [Agent instructions](https://awesomecua.github.io/AGENTS.md) · [Agent and RAG guide](https://awesomecua.github.io/agents/) · [中文使用指南](https://awesomecua.github.io/zh/agents/) · [Complete JSONL](https://awesomecua.github.io/downloads/catalog.jsonl)
 
-**3,004 resource records** · **1,430 curated** · **2,578 paper and survey records** · **44 discovery documents**
+**3,006 resource records** · **1,435 curated** · **2,578 paper and survey records** · **44 discovery documents**
 
-Evidence snapshot: 2026-10-17T14:35:24Z. Bibliography counts overlap review-state counts. Resources are not independent projects.
+Evidence snapshot: 2026-10-17T17:18:56Z. Bibliography counts overlap review-state counts. Resources are not independent projects.
 
 ## What is a computer-use agent?
 
@@ -26,14 +26,14 @@ A computer-use agent observes software interfaces, chooses and executes actions,
 | --- | ---: | --- |
 | Research papers | 2,565 | [Open directory](https://awesomecua.github.io/categories/paper/) |
 | Surveys | 13 | [Open directory](https://awesomecua.github.io/categories/survey/) |
-| Models and checkpoints | 93 | [Open directory](https://awesomecua.github.io/categories/model/) |
+| Models and checkpoints | 94 | [Open directory](https://awesomecua.github.io/categories/model/) |
 | Datasets | 80 | [Open directory](https://awesomecua.github.io/categories/dataset/) |
-| Benchmarks | 79 | [Open directory](https://awesomecua.github.io/categories/benchmark/) |
+| Benchmarks | 80 | [Open directory](https://awesomecua.github.io/categories/benchmark/) |
 | Agents | 38 | [Open directory](https://awesomecua.github.io/categories/agent/) |
 | Frameworks | 66 | [Open directory](https://awesomecua.github.io/categories/framework/) |
-| Infrastructure | 15 | [Open directory](https://awesomecua.github.io/categories/infrastructure/) |
+| Infrastructure | 14 | [Open directory](https://awesomecua.github.io/categories/infrastructure/) |
 | Tools | 20 | [Open directory](https://awesomecua.github.io/categories/tool/) |
-| Products | 19 | [Open directory](https://awesomecua.github.io/categories/product/) |
+| Products | 20 | [Open directory](https://awesomecua.github.io/categories/product/) |
 | Publishers | 16 | [Open directory](https://awesomecua.github.io/categories/company/) |
 
 Category pages highlight reviewed resources; the [interactive catalog](https://awesomecua.github.io/#catalog) and downloads also expose metadata-only records with their review state.

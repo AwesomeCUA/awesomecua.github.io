@@ -99,7 +99,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/cross-app/rec
 ## Datasets
 
 - [GUI-Odyssey](https://awesomecua.github.io/resources/github-opengvlab-gui-odyssey/) — Date not recorded
-  Cross-application mobile interaction trajectories.
+  Human-demonstrated Android episodes for cross-app navigation, spanning six task types, 212 apps and about 1,400 app combinations, for training and evaluating agents.
 - [GUIOdyssey — current data release](https://awesomecua.github.io/resources/url-511903ebfac45e6751b2/) — Date not recorded
   Cross-app Android interaction episodes with fine-grained step instructions, screen descriptions, action context, and target boxes.
 
@@ -108,6 +108,6 @@ Full source records: https://awesomecua.github.io/downloads/topics/cross-app/rec
 - [GUI-ReWalk](https://awesomecua.github.io/resources/github-bytedance-gui-rewalk/) — Date not recorded
   A desktop trajectory-generation framework that moves from stochastic GUI exploration to inferred goals and multi-stage task completion, with retrospective reasoning annotations.
 - [PC-Agent](https://awesomecua.github.io/resources/github-gair-nlp-pc-agent/) — Date not recorded
-  Agent framework for desktop workflows.
+  Human-cognition-transfer framework for PC agents: PC Tracker logs human computer use, cognition completion turns logs into cognitive trajectories, and a planner works with a grounding agent.
 - [UFO](https://awesomecua.github.io/resources/github-microsoft-ufo/) — Date not recorded
   Windows agent framework for application and desktop automation.

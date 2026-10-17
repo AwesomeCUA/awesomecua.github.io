@@ -1,6 +1,6 @@
 # HyperAgent
 
-Browser automation agent framework.
+Library adding natural-language commands to Playwright: accessibility-tree single actions, multi-step tasks that can use screenshots, an MCP client and action caching for replay without LLM calls.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-hyperbrowserai-hyperagent/
 - Original source: https://github.com/hyperbrowserai/HyperAgent

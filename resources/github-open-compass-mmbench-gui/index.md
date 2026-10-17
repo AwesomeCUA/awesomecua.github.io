@@ -1,6 +1,6 @@
 # MMBench-GUI
 
-Multiplatform evaluation framework for GUI capabilities.
+Four-level GUI-agent benchmark across six platforms, from content understanding and element grounding to task automation and collaboration, scored with an efficiency-quality area metric.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-open-compass-mmbench-gui/
 - Original source: https://github.com/open-compass/MMBench-GUI

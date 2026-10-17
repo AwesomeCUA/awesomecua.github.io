@@ -168,10 +168,12 @@ Full source records: https://awesomecua.github.io/downloads/topics/automation/re
 
 - [agent-browser](https://awesomecua.github.io/resources/github-vercel-labs-agent-browser/) — Date not recorded
   A browser-automation command-line interface that exposes browser state and interaction commands for AI agents.
+- [Amazon Nova Act](https://awesomecua.github.io/resources/url-dec156cbf0cb1181f7b6/) — Date not recorded
+  AWS service for building and deploying agents that automate browser-based UI workflows from natural language and Python, powered by a custom Nova 2 Lite model.
 - [AndroidEnv](https://awesomecua.github.io/resources/github-google-deepmind-android-env/) — Date not recorded
   Android device-control platform with screenshots, accessibility telemetry, input actions, and an optional reinforcement-learning task interface.
 - [Appium](https://awesomecua.github.io/resources/github-appium-appium/) — Date not recorded
-  Cross-platform UI automation infrastructure.
+  Open-source WebDriver-based automation server for mobile, desktop and IoT apps, extended by per-platform drivers for iOS, Android, macOS and Windows, plugins, and clients in Java, Python, Ruby and C#.
 - [AUITestAgent](https://awesomecua.github.io/resources/github-bz-lab-auitestagent/) — Date not recorded
   Generates mobile GUI interactions from natural-language test requirements and checks application behavior against those requirements.
 - [Chrome DevTools MCP](https://awesomecua.github.io/resources/github-chromedevtools-chrome-devtools-mcp/) — Date not recorded
@@ -199,9 +201,9 @@ Full source records: https://awesomecua.github.io/downloads/topics/automation/re
 - [Playwright](https://awesomecua.github.io/resources/github-microsoft-playwright/) — Date not recorded
   Browser automation library used as an execution layer by agents.
 - [Playwright MCP](https://awesomecua.github.io/resources/github-microsoft-playwright-mcp/) — Date not recorded
-  MCP server exposing browser interaction tools for agents.
+  MCP server that lets LLM clients drive Playwright browsers through structured accessibility snapshots instead of screenshots, with opt-in vision, PDF and devtools capabilities.
 - [PyAutoGUI](https://awesomecua.github.io/resources/github-asweigart-pyautogui/) — Date not recorded
-  Mouse, keyboard, and screenshot automation library.
+  Cross-platform Python module for scripted mouse and keyboard control, message boxes and screenshots with on-screen image search, working on the primary monitor under Windows, macOS and Linux.
 - [ShowUI-Aloha](https://awesomecua.github.io/resources/github-showlab-showui-aloha/) — Date not recorded
   Desktop agent that records demonstrations, derives semantic action traces, and uses them to plan and execute related workflows.
 - [Sikuli legacy research implementation](https://awesomecua.github.io/resources/github-sikuli-sikuli/) — Date not recorded

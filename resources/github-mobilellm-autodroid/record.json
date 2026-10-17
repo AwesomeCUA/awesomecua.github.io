@@ -51,7 +51,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Language-model-driven Android task automation.",
+  "summary": "LLM-powered Android task automation built on DroidBot, released with DroidTask, a dataset of per-app screenshots, view hierarchies, exploration records and ground-truth task files.",
   "topics": [
     "mobile-navigation"
   ],

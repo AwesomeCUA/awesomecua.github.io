@@ -1,6 +1,6 @@
 # LaVague
 
-Framework for building natural-language web agents.
+Open-source web agent framework where a World Model turns an objective and the current page into instructions and an Action Engine compiles them into Selenium or Playwright code to run.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-lavague-ai-lavague/
 - Original source: https://github.com/lavague-ai/LaVague

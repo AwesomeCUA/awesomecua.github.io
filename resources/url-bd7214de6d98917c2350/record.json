@@ -128,7 +128,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Revised ScreenSpot grounding evaluation data from OS-Atlas.",
+  "summary": "Second version of the ScreenSpot grounding test set, published by OS-Copilot as separate desktop, mobile and web annotation files with a shared screenshot archive.",
   "topics": [
     "grounding",
     "evaluation"

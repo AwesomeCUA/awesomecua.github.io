@@ -1,6 +1,6 @@
 # Fara
 
-Computer-use model for web interaction.
+Microsoft browser-use agent models that act from screenshots by predicting click coordinates without accessibility trees; Fara1.5 comes in 4B, 9B and 27B, succeeding Fara-7B.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-microsoft-fara/
 - Original source: https://github.com/microsoft/fara

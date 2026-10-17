@@ -8,6 +8,7 @@
     "hub_id": "ritzzai/GUI-R1"
   },
   "environments": [
+    "desktop",
     "windows",
     "linux",
     "macos",

@@ -1,6 +1,6 @@
 # Tarsier
 
-Visual and text representation tools for browser agents.
+Perception utilities for web agents that tag interactable elements with typed IDs an LLM can act on, and use OCR to render page screenshots as whitespace-structured text for models without vision.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-reworkd-tarsier/
 - Original source: https://github.com/reworkd/tarsier

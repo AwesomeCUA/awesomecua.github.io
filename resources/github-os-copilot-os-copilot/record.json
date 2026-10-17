@@ -66,7 +66,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Operating-system agent framework and assistant research.",
+  "summary": "Open-source library for generalist agents acting on an operating system's web, terminals, files and third-party apps, with the FRIDAY assistant, which takes custom tools and self-learns Excel tasks.",
   "topics": [
     "planning",
     "tool-integration"

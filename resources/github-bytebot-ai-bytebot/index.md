@@ -1,6 +1,6 @@
 # Bytebot
 
-Containerized desktop agent environment and application.
+Open-source desktop agent that works inside its own Ubuntu Linux virtual desktop, with a web task interface, REST APIs for tasks and direct control, a takeover mode and password-manager logins.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-bytebot-ai-bytebot/
 - Original source: https://github.com/bytebot-ai/bytebot

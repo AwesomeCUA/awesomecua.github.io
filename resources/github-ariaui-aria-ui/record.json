@@ -51,7 +51,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Model and data resources for GUI grounding.",
+  "summary": "Mixture-of-experts GUI grounding model with 3.9B activated parameters that can use text or interleaved image history, with released training data and an AndroidWorld agent.",
   "topics": [
     "grounding"
   ],

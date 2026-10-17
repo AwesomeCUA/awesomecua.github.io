@@ -60,7 +60,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Mobile GUI agent model and execution resources.",
+  "summary": "Open mobile GUI agent stack pairing a 4B model that runs on consumer hardware with local multi-device infrastructure, an MCP server, and AndroidDaily benchmark tasks.",
   "topics": [
     "mobile-navigation"
   ],

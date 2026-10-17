@@ -1,6 +1,6 @@
 # UI-AGILE
 
-GUI grounding research using reinforcement learning.
+GUI agent trained by RL with a continuous reward, a simple-thinking reward and cropping-based resampling on about 9k samples, plus a plug-in decomposed grounding-and-selection inference method.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-kdegroup-ui-agile/
 - Original source: https://github.com/KDEGroup/UI-AGILE

@@ -120,7 +120,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Computer-use demonstrations released with OpenCUA.",
+  "summary": "22.6K human-annotated desktop computer-use tasks on Windows, macOS and Ubuntu, released with OpenCUA for training and evaluating vision-language-action models.",
   "topics": [
     "data-generation"
   ],

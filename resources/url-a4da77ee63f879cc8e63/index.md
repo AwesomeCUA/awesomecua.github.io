@@ -1,6 +1,6 @@
 # Fara 7B
 
-Released model checkpoint associated with Fara.
+Microsoft's Fara checkpoint, a Qwen2.5-VL-architecture image-text-to-text model with about 8.3B BF16 parameters, English, MIT-licensed and linked to arXiv paper 2511.19663.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-a4da77ee63f879cc8e63/
 - Original source: https://huggingface.co/microsoft/Fara-7b

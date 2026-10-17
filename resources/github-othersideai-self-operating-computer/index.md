@@ -1,6 +1,6 @@
 # Self Operating Computer
 
-Visual agent loop for interacting with a desktop.
+Framework, released in November 2023, in which a multimodal model views the screen and picks mouse and keyboard actions toward a goal, with backends such as GPT-4o, Claude 3, Gemini and LLaVA.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-othersideai-self-operating-computer/
 - Original source: https://github.com/OthersideAI/self-operating-computer

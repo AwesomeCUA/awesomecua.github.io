@@ -66,7 +66,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "GUI agent learning with generated interaction data.",
+  "summary": "Online RL framework for GUI agents in which VLMs generate the training tasks and judge success from trajectory screenshots, with OSWorld and AndroidLab checkpoints trained from UI-TARS-7B-DPO.",
   "topics": [
     "reinforcement-learning",
     "data-generation"

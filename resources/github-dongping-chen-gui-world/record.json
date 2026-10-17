@@ -128,7 +128,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "GUI video data for understanding dynamic interfaces.",
+  "summary": "GUI video benchmark and training data covering six scenarios, from Android and iOS to websites and XR, with eight question types for image and video LLMs and the GUI-Vid model.",
   "topics": [
     "video",
     "screen-understanding"

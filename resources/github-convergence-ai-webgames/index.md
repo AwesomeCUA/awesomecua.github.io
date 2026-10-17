@@ -1,6 +1,6 @@
 # WebGames
 
-Browser games used to evaluate interactive agents.
+150 client-side web challenges in five capability domains, built to be easy for humans but hard for browsing agents, each revealing a password when solved.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-convergence-ai-webgames/
 - Original source: https://github.com/convergence-ai/webgames

@@ -1,6 +1,6 @@
 # ScreenSpot v2
 
-Revised ScreenSpot grounding evaluation data from OS-Atlas.
+Second version of the ScreenSpot grounding test set, published by OS-Copilot as separate desktop, mobile and web annotation files with a shared screenshot archive.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-bd7214de6d98917c2350/
 - Original source: https://huggingface.co/datasets/OS-Copilot/ScreenSpot-v2

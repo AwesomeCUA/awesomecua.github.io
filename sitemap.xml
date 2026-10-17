@@ -280,6 +280,9 @@
     <loc>https://awesomecua.github.io/resources/arxiv-2310-08740/</loc>
   </url>
   <url>
+    <loc>https://awesomecua.github.io/resources/arxiv-2310-10634/</loc>
+  </url>
+  <url>
     <loc>https://awesomecua.github.io/resources/arxiv-2310-11441/</loc>
   </url>
   <url>
@@ -1387,6 +1390,9 @@
     <loc>https://awesomecua.github.io/resources/arxiv-2507-19478/</loc>
   </url>
   <url>
+    <loc>https://awesomecua.github.io/resources/arxiv-2507-21071/</loc>
+  </url>
+  <url>
     <loc>https://awesomecua.github.io/resources/arxiv-2507-21953/</loc>
   </url>
   <url>
@@ -2437,6 +2443,9 @@
     <loc>https://awesomecua.github.io/resources/arxiv-2605-26546/</loc>
   </url>
   <url>
+    <loc>https://awesomecua.github.io/resources/arxiv-2605-28534/</loc>
+  </url>
+  <url>
     <loc>https://awesomecua.github.io/resources/arxiv-2605-29486/</loc>
   </url>
   <url>
@@ -3232,9 +3241,6 @@
     <loc>https://awesomecua.github.io/resources/github-cvc2233-androtmem/</loc>
   </url>
   <url>
-    <loc>https://awesomecua.github.io/resources/github-deepmind-android-env/</loc>
-  </url>
-  <url>
     <loc>https://awesomecua.github.io/resources/github-digirl-agent-digiq/</loc>
   </url>
   <url>
@@ -3418,6 +3424,9 @@
     <loc>https://awesomecua.github.io/resources/github-microsoft-magentic-ui/</loc>
   </url>
   <url>
+    <loc>https://awesomecua.github.io/resources/github-microsoft-magma/</loc>
+  </url>
+  <url>
     <loc>https://awesomecua.github.io/resources/github-microsoft-omniparser/</loc>
   </url>
   <url>
@@ -3539,6 +3548,9 @@
   </url>
   <url>
     <loc>https://awesomecua.github.io/resources/github-os-copilot-scienceboard/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/resources/github-osu-nlp-group-mind2web-2/</loc>
   </url>
   <url>
     <loc>https://awesomecua.github.io/resources/github-osu-nlp-group-mind2web/</loc>
@@ -4354,6 +4366,9 @@
     <loc>https://awesomecua.github.io/resources/url-de31b07ff24ab15d9bdf/</loc>
   </url>
   <url>
+    <loc>https://awesomecua.github.io/resources/url-dec156cbf0cb1181f7b6/</loc>
+  </url>
+  <url>
     <loc>https://awesomecua.github.io/resources/url-df680385f18b01a825be/</loc>
   </url>
   <url>
@@ -4423,25 +4438,94 @@
     <loc>https://awesomecua.github.io/topics/automation/</loc>
   </url>
   <url>
+    <loc>https://awesomecua.github.io/topics/automation/page/2/</loc>
+  </url>
+  <url>
     <loc>https://awesomecua.github.io/topics/cross-app/</loc>
   </url>
   <url>
     <loc>https://awesomecua.github.io/topics/data-generation/</loc>
   </url>
   <url>
+    <loc>https://awesomecua.github.io/topics/data-generation/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/data-generation/page/3/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/data-generation/page/4/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/data-generation/page/5/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/data-generation/page/6/</loc>
+  </url>
+  <url>
     <loc>https://awesomecua.github.io/topics/efficiency/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/efficiency/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/efficiency/page/3/</loc>
   </url>
   <url>
     <loc>https://awesomecua.github.io/topics/evaluation/</loc>
   </url>
   <url>
+    <loc>https://awesomecua.github.io/topics/evaluation/page/10/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/evaluation/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/evaluation/page/3/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/evaluation/page/4/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/evaluation/page/5/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/evaluation/page/6/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/evaluation/page/7/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/evaluation/page/8/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/evaluation/page/9/</loc>
+  </url>
+  <url>
     <loc>https://awesomecua.github.io/topics/grounding/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/grounding/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/grounding/page/3/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/grounding/page/4/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/grounding/page/5/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/grounding/page/6/</loc>
   </url>
   <url>
     <loc>https://awesomecua.github.io/topics/history/</loc>
   </url>
   <url>
     <loc>https://awesomecua.github.io/topics/human-in-the-loop/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/human-in-the-loop/page/2/</loc>
   </url>
   <url>
     <loc>https://awesomecua.github.io/topics/imitation-learning/</loc>
@@ -4456,10 +4540,28 @@
     <loc>https://awesomecua.github.io/topics/long-horizon/</loc>
   </url>
   <url>
+    <loc>https://awesomecua.github.io/topics/long-horizon/page/2/</loc>
+  </url>
+  <url>
     <loc>https://awesomecua.github.io/topics/memory/</loc>
   </url>
   <url>
+    <loc>https://awesomecua.github.io/topics/memory/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/memory/page/3/</loc>
+  </url>
+  <url>
     <loc>https://awesomecua.github.io/topics/mobile-navigation/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/mobile-navigation/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/mobile-navigation/page/3/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/mobile-navigation/page/4/</loc>
   </url>
   <url>
     <loc>https://awesomecua.github.io/topics/observability/</loc>
@@ -4468,10 +4570,28 @@
     <loc>https://awesomecua.github.io/topics/planning/</loc>
   </url>
   <url>
+    <loc>https://awesomecua.github.io/topics/planning/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/planning/page/3/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/planning/page/4/</loc>
+  </url>
+  <url>
     <loc>https://awesomecua.github.io/topics/recording/</loc>
   </url>
   <url>
     <loc>https://awesomecua.github.io/topics/reinforcement-learning/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/reinforcement-learning/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/reinforcement-learning/page/3/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/reinforcement-learning/page/4/</loc>
   </url>
   <url>
     <loc>https://awesomecua.github.io/topics/reward-models/</loc>
@@ -4480,7 +4600,19 @@
     <loc>https://awesomecua.github.io/topics/robustness/</loc>
   </url>
   <url>
+    <loc>https://awesomecua.github.io/topics/robustness/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/robustness/page/3/</loc>
+  </url>
+  <url>
     <loc>https://awesomecua.github.io/topics/safety-security/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/safety-security/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/safety-security/page/3/</loc>
   </url>
   <url>
     <loc>https://awesomecua.github.io/topics/sandbox/</loc>
@@ -4490,6 +4622,12 @@
   </url>
   <url>
     <loc>https://awesomecua.github.io/topics/screen-understanding/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/screen-understanding/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/screen-understanding/page/3/</loc>
   </url>
   <url>
     <loc>https://awesomecua.github.io/topics/self-reflection/</loc>
@@ -4504,6 +4642,9 @@
     <loc>https://awesomecua.github.io/topics/tool-integration/</loc>
   </url>
   <url>
+    <loc>https://awesomecua.github.io/topics/tool-integration/page/2/</loc>
+  </url>
+  <url>
     <loc>https://awesomecua.github.io/topics/training-free/</loc>
   </url>
   <url>
@@ -4516,7 +4657,22 @@
     <loc>https://awesomecua.github.io/topics/web-navigation/</loc>
   </url>
   <url>
+    <loc>https://awesomecua.github.io/topics/web-navigation/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/web-navigation/page/3/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/web-navigation/page/4/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/web-navigation/page/5/</loc>
+  </url>
+  <url>
     <loc>https://awesomecua.github.io/topics/workflow/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/topics/workflow/page/2/</loc>
   </url>
   <url>
     <loc>https://awesomecua.github.io/topics/world-models/</loc>
@@ -4594,25 +4750,94 @@
     <loc>https://awesomecua.github.io/zh/topics/automation/</loc>
   </url>
   <url>
+    <loc>https://awesomecua.github.io/zh/topics/automation/page/2/</loc>
+  </url>
+  <url>
     <loc>https://awesomecua.github.io/zh/topics/cross-app/</loc>
   </url>
   <url>
     <loc>https://awesomecua.github.io/zh/topics/data-generation/</loc>
   </url>
   <url>
+    <loc>https://awesomecua.github.io/zh/topics/data-generation/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/data-generation/page/3/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/data-generation/page/4/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/data-generation/page/5/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/data-generation/page/6/</loc>
+  </url>
+  <url>
     <loc>https://awesomecua.github.io/zh/topics/efficiency/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/efficiency/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/efficiency/page/3/</loc>
   </url>
   <url>
     <loc>https://awesomecua.github.io/zh/topics/evaluation/</loc>
   </url>
   <url>
+    <loc>https://awesomecua.github.io/zh/topics/evaluation/page/10/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/evaluation/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/evaluation/page/3/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/evaluation/page/4/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/evaluation/page/5/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/evaluation/page/6/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/evaluation/page/7/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/evaluation/page/8/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/evaluation/page/9/</loc>
+  </url>
+  <url>
     <loc>https://awesomecua.github.io/zh/topics/grounding/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/grounding/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/grounding/page/3/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/grounding/page/4/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/grounding/page/5/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/grounding/page/6/</loc>
   </url>
   <url>
     <loc>https://awesomecua.github.io/zh/topics/history/</loc>
   </url>
   <url>
     <loc>https://awesomecua.github.io/zh/topics/human-in-the-loop/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/human-in-the-loop/page/2/</loc>
   </url>
   <url>
     <loc>https://awesomecua.github.io/zh/topics/imitation-learning/</loc>
@@ -4627,10 +4852,28 @@
     <loc>https://awesomecua.github.io/zh/topics/long-horizon/</loc>
   </url>
   <url>
+    <loc>https://awesomecua.github.io/zh/topics/long-horizon/page/2/</loc>
+  </url>
+  <url>
     <loc>https://awesomecua.github.io/zh/topics/memory/</loc>
   </url>
   <url>
+    <loc>https://awesomecua.github.io/zh/topics/memory/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/memory/page/3/</loc>
+  </url>
+  <url>
     <loc>https://awesomecua.github.io/zh/topics/mobile-navigation/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/mobile-navigation/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/mobile-navigation/page/3/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/mobile-navigation/page/4/</loc>
   </url>
   <url>
     <loc>https://awesomecua.github.io/zh/topics/observability/</loc>
@@ -4639,10 +4882,28 @@
     <loc>https://awesomecua.github.io/zh/topics/planning/</loc>
   </url>
   <url>
+    <loc>https://awesomecua.github.io/zh/topics/planning/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/planning/page/3/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/planning/page/4/</loc>
+  </url>
+  <url>
     <loc>https://awesomecua.github.io/zh/topics/recording/</loc>
   </url>
   <url>
     <loc>https://awesomecua.github.io/zh/topics/reinforcement-learning/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/reinforcement-learning/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/reinforcement-learning/page/3/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/reinforcement-learning/page/4/</loc>
   </url>
   <url>
     <loc>https://awesomecua.github.io/zh/topics/reward-models/</loc>
@@ -4651,7 +4912,19 @@
     <loc>https://awesomecua.github.io/zh/topics/robustness/</loc>
   </url>
   <url>
+    <loc>https://awesomecua.github.io/zh/topics/robustness/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/robustness/page/3/</loc>
+  </url>
+  <url>
     <loc>https://awesomecua.github.io/zh/topics/safety-security/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/safety-security/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/safety-security/page/3/</loc>
   </url>
   <url>
     <loc>https://awesomecua.github.io/zh/topics/sandbox/</loc>
@@ -4661,6 +4934,12 @@
   </url>
   <url>
     <loc>https://awesomecua.github.io/zh/topics/screen-understanding/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/screen-understanding/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/screen-understanding/page/3/</loc>
   </url>
   <url>
     <loc>https://awesomecua.github.io/zh/topics/self-reflection/</loc>
@@ -4675,6 +4954,9 @@
     <loc>https://awesomecua.github.io/zh/topics/tool-integration/</loc>
   </url>
   <url>
+    <loc>https://awesomecua.github.io/zh/topics/tool-integration/page/2/</loc>
+  </url>
+  <url>
     <loc>https://awesomecua.github.io/zh/topics/training-free/</loc>
   </url>
   <url>
@@ -4687,7 +4969,22 @@
     <loc>https://awesomecua.github.io/zh/topics/web-navigation/</loc>
   </url>
   <url>
+    <loc>https://awesomecua.github.io/zh/topics/web-navigation/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/web-navigation/page/3/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/web-navigation/page/4/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/web-navigation/page/5/</loc>
+  </url>
+  <url>
     <loc>https://awesomecua.github.io/zh/topics/workflow/</loc>
+  </url>
+  <url>
+    <loc>https://awesomecua.github.io/zh/topics/workflow/page/2/</loc>
   </url>
   <url>
     <loc>https://awesomecua.github.io/zh/topics/world-models/</loc>

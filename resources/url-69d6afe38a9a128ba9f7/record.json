@@ -57,7 +57,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Visual computer interaction and automation platform.",
+  "summary": "Agentic test-automation platform running plain-language test cases from pixels rather than selectors on desktop apps, Citrix, in-car head units and mobile devices, deployable on-premise or air-gapped.",
   "topics": [
     "workflow"
   ],

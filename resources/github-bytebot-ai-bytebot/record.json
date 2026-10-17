@@ -60,7 +60,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Containerized desktop agent environment and application.",
+  "summary": "Open-source desktop agent that works inside its own Ubuntu Linux virtual desktop, with a web task interface, REST APIs for tasks and direct control, a takeover mode and password-manager logins.",
   "topics": [
     "workflow"
   ],

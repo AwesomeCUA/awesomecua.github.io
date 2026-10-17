@@ -44,6 +44,14 @@
     "gated": false,
     "hub_id": "microsoft/WebTailBench",
     "leaderboard_url": null,
+    "license_review": {
+      "data": {
+        "evidence_urls": [
+          "https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md"
+        ],
+        "reason": "The benchmark's Hub dataset card declares MIT in its metadata header (license: mit)."
+      }
+    },
     "metrics": [],
     "task_count": null
   },
@@ -64,7 +72,8 @@
         "topics",
         "scope",
         "relations",
-        "details"
+        "details",
+        "licenses.data"
       ],
       "url": "https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md"
     },
@@ -88,7 +97,12 @@
   "last_verified_at": "2026-10-17T02:42:32Z",
   "licenses": {
     "code": null,
-    "data": null,
+    "data": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "mit",
+      "retrieved_at": "2026-10-17T02:42:32Z",
+      "url": "https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md"
+    },
     "document": null,
     "weights": null
   },

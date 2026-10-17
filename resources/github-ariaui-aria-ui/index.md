@@ -1,6 +1,6 @@
 # Aria-UI
 
-Model and data resources for GUI grounding.
+Mixture-of-experts GUI grounding model with 3.9B activated parameters that can use text or interleaved image history, with released training data and an AndroidWorld agent.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-ariaui-aria-ui/
 - Original source: https://github.com/AriaUI/Aria-UI

@@ -129,7 +129,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Screenshot-based GUI element grounding benchmark.",
+  "summary": "GUI grounding test set of 1,272 screenshot instructions from iOS, Android, macOS, Windows and web interfaces, each labeled with the target element's bounding box.",
   "topics": [
     "grounding",
     "evaluation"

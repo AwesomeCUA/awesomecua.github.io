@@ -112,7 +112,13 @@
   "name": "LlamaTouch",
   "notes": "",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md",
+      "target_id": "arxiv:2404.16054",
+      "type": "documented_by"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
   "summary": "Mobile UI task evaluation using application state information.",

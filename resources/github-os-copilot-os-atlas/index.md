@@ -1,6 +1,6 @@
 # OS-Atlas
 
-Foundation action models and data for GUI interaction.
+OS-Atlas GUI action models, including grounding bases fine-tuned from InternVL2-4B and Qwen2-VL-7B-Instruct that accept any image size and output 0-1000 relative coordinates.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-os-copilot-os-atlas/
 - Original source: https://github.com/OS-Copilot/OS-Atlas

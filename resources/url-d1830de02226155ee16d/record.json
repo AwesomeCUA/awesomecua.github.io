@@ -55,7 +55,8 @@
       "sha256": "a0609394a736dc495d077cd57a2945b018123e5b3f9514d7d5bafb9e690aeae2",
       "supports": [
         "summary",
-        "release_status"
+        "release_status",
+        "relations"
       ],
       "url": "https://raw.githubusercontent.com/microsoft/Phi-Ground/HEAD/README.md"
     },
@@ -95,7 +96,13 @@
   "name": "Grounding-Anything-GUI",
   "notes": "The Hub exposes train.zip and a card containing only license/language metadata. The official repository marks this training-data release complete, but its Phi-Ground-Any paper is still pending. No binding to the earlier Phi-Ground paper, sample count, split structure or operating-system coverage is inferred.",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/microsoft/Phi-Ground/HEAD/README.md",
+      "target_id": "github:microsoft/phi-ground",
+      "type": "component_of"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
   "summary": "The public training archive linked by the Phi-Ground project for its Phi-Ground-Any model.",

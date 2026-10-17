@@ -1,5 +1,5 @@
 {
-  "relation_count": 334,
+  "relation_count": 366,
   "semantics": "Reviewed semantic links only. Documentation does not establish training or evaluation dependency.",
   "relations": [
     {
@@ -291,6 +291,14 @@
       "type": "published_by"
     },
     {
+      "source_id": "github:emergenceai/agent-e",
+      "source_name": "Agent E",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/EmergenceAI/Agent-E/HEAD/README.md",
+      "target_id": "arxiv:2407.13032",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:euphoria16/ui-genie",
       "source_name": "UI-Genie",
       "source_kind": "framework",
@@ -411,6 +419,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:hitsz-tmg/windowsworld",
+      "source_name": "WindowsWorld",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md",
+      "target_id": "arxiv:2604.27776",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:hyperbrowserai/hyperagent",
       "source_name": "HyperAgent",
       "source_kind": "framework",
@@ -499,6 +515,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:llamatouch/llamatouch",
+      "source_name": "LlamaTouch",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/LlamaTouch/LlamaTouch/HEAD/README.md",
+      "target_id": "arxiv:2404.16054",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:lll6gg/ui-r1",
       "source_name": "UI-R1",
       "source_kind": "model",
@@ -520,6 +544,14 @@
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md",
       "target_id": "arxiv:2510.14621",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:madeagents/mobile-use",
+      "source_name": "Mobile Use",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/MadeAgents/mobile-use/HEAD/README.md",
+      "target_id": "arxiv:2507.16853",
       "type": "documented_by"
     },
     {
@@ -568,6 +600,14 @@
       "source_kind": "framework",
       "evidence_url": "https://raw.githubusercontent.com/McGill-NLP/webllama/HEAD/README.md",
       "target_id": "arxiv:2402.05930",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:meituan/evocua",
+      "source_name": "EvoCUA",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/meituan/EvoCUA/HEAD/README.md",
+      "target_id": "arxiv:2601.15876",
       "type": "documented_by"
     },
     {
@@ -624,6 +664,14 @@
       "source_kind": "tool",
       "evidence_url": "https://raw.githubusercontent.com/microsoft/SoM/HEAD/README.md",
       "target_id": "arxiv:2310.11441",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:microsoft/ufo",
+      "source_name": "UFO",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/microsoft/UFO/HEAD/README.md",
+      "target_id": "arxiv:2402.07939",
       "type": "documented_by"
     },
     {
@@ -697,6 +745,14 @@
       "evidence_url": "https://raw.githubusercontent.com/oculix-org/Oculix/HEAD/README.md",
       "target_id": "github:sikuli/sikuli",
       "type": "variant_of"
+    },
+    {
+      "source_id": "github:open-compass/mmbench-gui",
+      "source_name": "MMBench-GUI",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/open-compass/MMBench-GUI/HEAD/README.md",
+      "target_id": "arxiv:2507.19478",
+      "type": "documented_by"
     },
     {
       "source_id": "github:openbmb/agentcpm-gui",
@@ -792,6 +848,22 @@
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/OS-Copilot/OS-Map/HEAD/README.md",
       "target_id": "arxiv:2507.19132",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:os-copilot/os-sentinel",
+      "source_name": "OS-Sentinel",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/OS-Copilot/OS-Sentinel/HEAD/README.md",
+      "target_id": "arxiv:2510.24411",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:os-copilot/scienceboard",
+      "source_name": "ScienceBoard",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/README.md",
+      "target_id": "arxiv:2505.19897",
       "type": "documented_by"
     },
     {
@@ -1115,6 +1187,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:thudm/mobilerl",
+      "source_name": "MobileRL",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/THUDM/MobileRL/HEAD/README.md",
+      "target_id": "arxiv:2509.18119",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:thudm/scale-cua",
       "source_name": "SCALE-CUA (THUDM)",
       "source_kind": "framework",
@@ -1208,6 +1288,22 @@
       "source_kind": "framework",
       "evidence_url": "https://raw.githubusercontent.com/UDGOK/videocad/HEAD/README.md",
       "target_id": "arxiv:2505.24838",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:uitron-hub/treecua",
+      "source_name": "TreeCUA",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/UITron-hub/TreeCUA/HEAD/README.md",
+      "target_id": "arxiv:2602.09662",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:unipat-ai/saas-bench",
+      "source_name": "SaaS-Bench",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/UniPat-AI/SaaS-Bench/HEAD/README.md",
+      "target_id": "arxiv:2605.15777",
       "type": "documented_by"
     },
     {
@@ -1315,6 +1411,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:x-lance/mobile-env",
+      "source_name": "Mobile Env",
+      "source_kind": "infrastructure",
+      "evidence_url": "https://raw.githubusercontent.com/X-LANCE/Mobile-Env/HEAD/README.md",
+      "target_id": "arxiv:2305.08144",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:x-plug/mobileagent",
       "source_name": "Mobile-Agent",
       "source_kind": "agent",
@@ -1395,11 +1499,27 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:xlang-ai/spider2-v",
+      "source_name": "Spider2-V",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/xlang-ai/Spider2-V/HEAD/README.md",
+      "target_id": "arxiv:2407.10956",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:yiye3/guicourse",
       "source_name": "GUICourse",
       "source_kind": "dataset",
       "evidence_url": "https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md",
       "target_id": "arxiv:2406.11317",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:yjyddq/riosworld",
+      "source_name": "RiOSWorld",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/yjyddq/RiOSWorld/HEAD/README.md",
+      "target_id": "arxiv:2506.00618",
       "type": "documented_by"
     },
     {
@@ -1416,6 +1536,22 @@
       "source_kind": "model",
       "evidence_url": "https://raw.githubusercontent.com/Yuqi-Zhou/GUI-G1/HEAD/README.md",
       "target_id": "arxiv:2505.15810",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:zju-real/clawgui",
+      "source_name": "ClawGUI",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/ZJU-REAL/ClawGUI/HEAD/README.md",
+      "target_id": "arxiv:2604.11784",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:zju-real/gui-g2",
+      "source_name": "GUI-G2",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/ZJU-REAL/GUI-G2/HEAD/README.md",
+      "target_id": "arxiv:2507.15846",
       "type": "documented_by"
     },
     {
@@ -1547,6 +1683,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:07b65dc937756ddff4a1",
+      "source_name": "Aria-UI Context-aware Data",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/AriaUI/Aria-UI/HEAD/README.md",
+      "target_id": "github:ariaui/aria-ui",
+      "type": "component_of"
+    },
+    {
       "source_id": "url:07b6bbce7ce26a847f79",
       "source_name": "Claude for Chrome",
       "source_kind": "product",
@@ -1624,7 +1768,7 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/OpenMobile-2/OpenMobile-2-27B/raw/main/README.md",
       "target_id": "github:openmobile2/openmobile2-code",
-      "type": "uses"
+      "type": "variant_of"
     },
     {
       "source_id": "url:1611de0e6d606165d12d",
@@ -1680,7 +1824,7 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/jcwang0602/Seg2Click-Qwen2.5-VL-3B/raw/main/README.md",
       "target_id": "github:jcwang0602/seg2click",
-      "type": "uses"
+      "type": "variant_of"
     },
     {
       "source_id": "url:23ad240757185c6f7eac",
@@ -1707,12 +1851,20 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:25a4d0ab29b60250863a",
+      "source_name": "NNetNav WebArena data",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/MurtyShikhar/NNetnav/HEAD/README.md",
+      "target_id": "github:murtyshikhar/nnetnav",
+      "type": "component_of"
+    },
+    {
       "source_id": "url:29588aa5651b5839c045",
       "source_name": "Seg2Click Qwen3.5 4B",
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-4B/raw/main/README.md",
       "target_id": "github:jcwang0602/seg2click",
-      "type": "uses"
+      "type": "variant_of"
     },
     {
       "source_id": "url:29588aa5651b5839c045",
@@ -1859,6 +2011,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:4f47abde8cd28a1ec1e1",
+      "source_name": "NNetNav Live data",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/MurtyShikhar/NNetnav/HEAD/README.md",
+      "target_id": "github:murtyshikhar/nnetnav",
+      "type": "component_of"
+    },
+    {
       "source_id": "url:511903ebfac45e6751b2",
       "source_name": "GUIOdyssey — current data release",
       "source_kind": "dataset",
@@ -1955,6 +2115,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:631e74223e198ef40202",
+      "source_name": "ScaleCUA Data",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/OpenGVLab/ScaleCUA-Data/raw/main/README.md",
+      "target_id": "arxiv:2509.15221",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:66096ad4057a3d3726f5",
       "source_name": "GUI-Actor data",
       "source_kind": "dataset",
@@ -1969,6 +2137,14 @@
       "evidence_url": "https://www.askui.com/",
       "target_id": "organization:askui",
       "type": "published_by"
+    },
+    {
+      "source_id": "url:6aa1aa58a7a888395189",
+      "source_name": "CUA-Gym",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/xlangai/CUA-Gym/raw/main/README.md",
+      "target_id": "arxiv:2605.25624",
+      "type": "documented_by"
     },
     {
       "source_id": "url:6cd150ec23361b4d2e84",
@@ -1987,12 +2163,20 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:72f7fe0211c6551b945f",
+      "source_name": "WebShepherd 3B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/api/collections/LangAGI-Lab/web-shepherd-advancing-prms-for-reinforcing-web-agents-682b4f4ad607fc27c4dc49e8",
+      "target_id": "arxiv:2505.15277",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:7405463ba56f9a41e79a",
       "source_name": "Seg2Click Qwen3.5 0.8B",
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-0.8B/raw/main/README.md",
       "target_id": "github:jcwang0602/seg2click",
-      "type": "uses"
+      "type": "variant_of"
     },
     {
       "source_id": "url:7405463ba56f9a41e79a",
@@ -2024,6 +2208,14 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/osunlp/WebJudge-7B/raw/main/README.md",
       "target_id": "arxiv:2504.01382",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:79287058342289aa5d45",
+      "source_name": "AutoGUI v1 training data",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md",
+      "target_id": "arxiv:2502.01977",
       "type": "documented_by"
     },
     {
@@ -2072,7 +2264,7 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-9B/raw/main/README.md",
       "target_id": "github:jcwang0602/seg2click",
-      "type": "uses"
+      "type": "variant_of"
     },
     {
       "source_id": "url:826f3753905c5c43bf46",
@@ -2219,6 +2411,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:ab26f9ef56d651cee587",
+      "source_name": "CMGUI",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/alibabagroup/CMGUI/raw/main/README.md",
+      "target_id": "arxiv:2603.08533",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:ac6d0f80765f5a32255a",
       "source_name": "WebRewardBench",
       "source_kind": "benchmark",
@@ -2272,6 +2472,14 @@
       "source_kind": "dataset",
       "evidence_url": "https://huggingface.co/datasets/xlangai/aguvis-stage2/raw/main/README.md",
       "target_id": "arxiv:2412.04454",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:b80bfa0a4939a493a11f",
+      "source_name": "Mobile3M",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/xwk123/Mobile3M/raw/3df26694ff9186604eb44a8e633894d3ece67ed9/README.md",
+      "target_id": "arxiv:2409.14818",
       "type": "documented_by"
     },
     {
@@ -2339,12 +2547,36 @@
       "type": "component_of"
     },
     {
+      "source_id": "url:c4898ad1bfc049926a63",
+      "source_name": "UGround V1 Data",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/OSU-NLP-Group/UGround/HEAD/README.md",
+      "target_id": "github:osu-nlp-group/uground",
+      "type": "component_of"
+    },
+    {
+      "source_id": "url:c5eb975c0d66f8a2954f",
+      "source_name": "CogAgent 9B 20241220",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/zai-org/cogagent-9b-20241220/raw/main/README.md",
+      "target_id": "github:thudm/cogagent",
+      "type": "variant_of"
+    },
+    {
       "source_id": "url:c73ba0618d1b3c505887",
       "source_name": "OS-Critic Bench",
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/numbmelon/OS-Oracle/HEAD/README.md",
       "target_id": "arxiv:2512.16295",
       "type": "documented_by"
+    },
+    {
+      "source_id": "url:c79e152e6f7af1a9efed",
+      "source_name": "ScreenSpot-Pro data",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md",
+      "target_id": "github:likaixin2000/screenspot-pro-gui-grounding",
+      "type": "component_of"
     },
     {
       "source_id": "url:c918d5c828a3c6cfbc5d",
@@ -2403,6 +2635,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:d1830de02226155ee16d",
+      "source_name": "Grounding-Anything-GUI",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/microsoft/Phi-Ground/HEAD/README.md",
+      "target_id": "github:microsoft/phi-ground",
+      "type": "component_of"
+    },
+    {
       "source_id": "url:d1e85aeb6d96859c109d",
       "source_name": "WebRL outcome reward model 8B",
       "source_kind": "model",
@@ -2432,7 +2672,7 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/OpenMobile-2/OpenMobile-2-9B/raw/main/README.md",
       "target_id": "github:openmobile2/openmobile2-code",
-      "type": "uses"
+      "type": "variant_of"
     },
     {
       "source_id": "url:d35224f787e7ec21ce36",
@@ -2520,7 +2760,7 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/PrentisAI/GroundGUI-8B/raw/main/README.md",
       "target_id": "github:prentisai/groundgui",
-      "type": "uses"
+      "type": "variant_of"
     },
     {
       "source_id": "url:de31b07ff24ab15d9bdf",
@@ -2643,6 +2883,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:f976dec3d1c5e0bedbd7",
+      "source_name": "ShowUI Desktop",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/showlab/ShowUI-desktop-8K/raw/main/README.md",
+      "target_id": "github:showlab/showui",
+      "type": "component_of"
+    },
+    {
       "source_id": "url:fda52d641c6b482bda7b",
       "source_name": "E2B",
       "source_kind": "product",
@@ -2651,12 +2899,20 @@
       "type": "published_by"
     },
     {
+      "source_id": "url:fe43af1801032be708cc",
+      "source_name": "ScreenDrag",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/showlab/showui-pi/HEAD/README.md",
+      "target_id": "github:showlab/showui-pi",
+      "type": "component_of"
+    },
+    {
       "source_id": "url:fec1c5aa8fd93cb78923",
       "source_name": "Seg2Click Qwen3.5 2B",
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-2B/raw/main/README.md",
       "target_id": "github:jcwang0602/seg2click",
-      "type": "uses"
+      "type": "variant_of"
     },
     {
       "source_id": "url:fec1c5aa8fd93cb78923",

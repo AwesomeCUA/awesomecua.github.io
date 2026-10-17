@@ -995,6 +995,97 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2310.10634v1",
+    "archive": "arXiv",
+    "archive_location": "2310.10634",
+    "author": [
+      {
+        "literal": "Tianbao Xie"
+      },
+      {
+        "literal": "Fan Zhou"
+      },
+      {
+        "literal": "Zhoujun Cheng"
+      },
+      {
+        "literal": "Peng Shi"
+      },
+      {
+        "literal": "Luoxuan Weng"
+      },
+      {
+        "literal": "Yitao Liu"
+      },
+      {
+        "literal": "Toh Jing Hua"
+      },
+      {
+        "literal": "Junning Zhao"
+      },
+      {
+        "literal": "Qian Liu"
+      },
+      {
+        "literal": "Che Liu"
+      },
+      {
+        "literal": "Leo Z. Liu"
+      },
+      {
+        "literal": "Yiheng Xu"
+      },
+      {
+        "literal": "Hongjin Su"
+      },
+      {
+        "literal": "Dongchan Shin"
+      },
+      {
+        "literal": "Caiming Xiong"
+      },
+      {
+        "literal": "Tao Yu"
+      }
+    ],
+    "citation-key": "arxiv_2310_10634",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "15d7945fcf1ee4290761d34bbeef9e24bed82bb748bdb7aaa791457c42892fec",
+        "submitted_at": "2023-10-16T17:54:53Z",
+        "updated_at": "2023-10-16T17:54:53Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2310.10634v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2310.10634",
+      "catalog_id": "arxiv:2310.10634",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2023-10-16",
+      "identifiers": {
+        "arxiv": "2310.10634"
+      },
+      "record_updated_at": "2023-10-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2310.10634",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2023-10-16; Recorded arXiv version: v1; Recorded version updated: 2023-10-16T17:54:53Z.",
+    "title": "OpenAgents: An Open Platform for Language Agents in the Wild",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2310.16042v2",
     "archive": "arXiv",
     "archive_location": "2310.16042",

@@ -652,6 +652,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/evaluation/re
   AgentSynth composes easily generated subtasks into longer computer-use tasks and trajectories with adjustable difficulty. Its evaluation uses the number of subtasks to probe how agent success changes as task complexity grows.
 - [Atomic-to-Compositional Generalization for Mobile Agents with A New Benchmark and Scheduling System](https://awesomecua.github.io/resources/arxiv-2506-08972/) — 2025-06-10
   UI-NEXUS evaluates compositional mobile tasks in local utility apps and online Chinese and English service apps. AGENT-NEXUS decomposes those long tasks into self-contained atomic subtasks to study generalization beyond isolated screens or short action chains.
+- [FingerTip 20K: A Benchmark for Proactive and Personalized Mobile LLM Agents](https://awesomecua.github.io/resources/arxiv-2507-21071/) — 2025-06-09
+  FingerTip 20K gathers 20K human Android demonstrations from users' long-term everyday app use, with user context, to evaluate proactive task suggestion and preference-aware task execution.
 - [EconWebArena: Benchmarking Autonomous Agents on Economic Tasks in Realistic Web Environments](https://awesomecua.github.io/resources/arxiv-2506-08136/) — 2025-06-09
   Introduces EconWebArena, a curated benchmark of economic-data tasks requiring live website navigation, multimodal interpretation, and precise extraction. It evaluates visual grounding, planning, and interaction design within multistep workflows.
 - [GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior](https://awesomecua.github.io/resources/arxiv-2506-08012/) — 2025-06-09
@@ -978,7 +980,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/evaluation/re
 - [AndroidArena](https://awesomecua.github.io/resources/github-androidarenaagent-androidarena/) — Date not recorded
   Android environment for evaluating language-model-driven agents.
 - [AndroidLab](https://awesomecua.github.io/resources/github-thudm-android-lab/) — Date not recorded
-  Training and evaluation environment for Android agents.
+  Reproducible Android benchmark of 138 tasks across nine apps on predefined virtual devices, run via AVD on Mac or Docker on Linux, released with the Android Instruct training set.
 - [AndroidWorld](https://awesomecua.github.io/resources/github-google-research-android-world/) — Date not recorded
   Android environment with programmatic task evaluation for mobile agents.
 - [AppSim-Bench](https://awesomecua.github.io/resources/github-acrab-agentic-labs-appsim/) — Date not recorded
@@ -1000,29 +1002,31 @@ Full source records: https://awesomecua.github.io/downloads/topics/evaluation/re
 - [GUI-Robust](https://awesomecua.github.io/resources/github-chessbean1-gui-robust/) — Date not recorded
   Evaluation scripts and linked data for comparing GUI action predictions and task execution under ordinary and anomalous interface conditions.
 - [GUIHalluBench](https://awesomecua.github.io/resources/github-ant-research-guihallubench/) — Date not recorded
-  Benchmark investigating hallucinations in GUI agents.
+  Measures hallucination in UI-element parsing by matching the boxes and descriptions a model lists for 1,000 English and 1,000 Chinese screenshots against human annotations.
 - [iOSWorld](https://awesomecua.github.io/resources/github-ljang0-iosworld/) — Date not recorded
   Native iPhone-simulator benchmark with shared user data, application workflows, agent runners, and rubric-based scoring.
 - [LlamaTouch](https://awesomecua.github.io/resources/github-llamatouch-llamatouch/) — Date not recorded
   Mobile UI task evaluation using application state information.
 - [MacAgentBench](https://awesomecua.github.io/resources/github-jetastra-macagentbench/) — Date not recorded
-  Benchmark of tasks in macOS desktop applications.
+  676 macOS tasks across 25 applications, each run in its own Docker container and scored by deterministic rule-based checks with multiple checkpoints.
 - [MCPWorld](https://awesomecua.github.io/resources/github-saagent-mcpworld/) — Date not recorded
   Evaluation environment combining computer interaction with tool access.
 - [Mind2Web](https://awesomecua.github.io/resources/github-osu-nlp-group-mind2web/) — Date not recorded
   Human demonstrations and tasks for generalist web navigation research.
+- [Mind2Web 2](https://awesomecua.github.io/resources/github-osu-nlp-group-mind2web-2/) — Date not recorded
+  Long-horizon agentic web search benchmark whose Agent-as-a-Judge framework scores time-varying, citation-backed answers, with evaluation scripts for its dev and test sets.
 - [MiniWoB++](https://awesomecua.github.io/resources/github-farama-foundation-miniwob-plusplus/) — Date not recorded
-  Browser interaction task environment derived from MiniWoB.
+  Over 100 web-interaction environments extending OpenAI's MiniWoB, controlled from Python through a Gymnasium API that drives the browser with Selenium.
 - [MMBench-GUI](https://awesomecua.github.io/resources/github-open-compass-mmbench-gui/) — Date not recorded
-  Multiplatform evaluation framework for GUI capabilities.
+  Four-level GUI-agent benchmark across six platforms, from content understanding and element grounding to task automation and collaboration, scored with an efficiency-quality area metric.
 - [MMInA](https://awesomecua.github.io/resources/github-shulin16-mmina/) — Date not recorded
-  Multihop multimodal internet navigation tasks.
+  Multimodal web tasks in a WebArena-based environment that chain from 1 to 10 hops across sites such as a shopping store and Wikipedia, testing long-chain reasoning.
 - [MobBench task definitions](https://awesomecua.github.io/resources/url-b53e03a6e4ca4226d126/) — Date not recorded
   A public set of real-device mobile task definitions used to evaluate MobA, with Chinese and English task material packaged in a versioned JSON release.
 - [Mobile-Bench-v2 released data](https://awesomecua.github.io/resources/url-1d5b85321b98765141fc/) — Date not recorded
   Offline mobile-agent task data spanning common tasks and released noisy, contaminated and ambiguous-instruction subsets.
 - [MobileAgentBench](https://awesomecua.github.io/resources/github-mobileagentbench-mobile-agent-bench/) — Date not recorded
-  Evaluation toolkit and tasks for mobile agents.
+  Automated benchmark for mobile LLM agents whose default tasks use ten Simple Mobile Tools Android apps, installed as a Python library that detects task completion.
 - [MobileGUI-VBench](https://awesomecua.github.io/resources/url-d7a4f34a6a5202af5f64/) — Date not recorded
   Mobile-app task definitions covering everyday scenarios, with annotated preconditions and clarification requirements for evaluating agent behavior.
 - [MobileGym](https://awesomecua.github.io/resources/github-purewhiter-mobilegym/) — Date not recorded
@@ -1030,15 +1034,15 @@ Full source records: https://awesomecua.github.io/downloads/topics/evaluation/re
 - [MobileGym++ / MobileGym++ Bench](https://awesomecua.github.io/resources/github-openmobile2-mobilegym-plusplus/) — Date not recorded
   Browser-rendered mobile simulation with resettable app state and a shared task suite for GUI-only and GUI-plus-tool agents.
 - [MobileSafetyBench](https://awesomecua.github.io/resources/github-jylee425-mobilesafetybench/) — Date not recorded
-  Benchmark for safety behavior of mobile device agents.
+  Android emulator testbed that scores mobile device-control agents on both safety and helpfulness, using ADB and Appium for observations, actions and success checks.
 - [MobileWorld (Tongyi-MAI)](https://awesomecua.github.io/resources/github-tongyi-mai-mobileworld/) — Date not recorded
   A containerized Android evaluation environment with GUI-only, agent-user interaction and MCP-augmented tasks, plus checks on application and backend state.
 - [MobileWorldBench](https://awesomecua.github.io/resources/github-jacklishufan-mobileworld/) — Date not recorded
-  Benchmark of semantic world modeling for mobile GUI agents.
+  Benchmark of semantic world modeling for mobile agents, with question-answering tasks and GPT-judged generation tasks, plus training data built on AitW and AndroidControl screens.
 - [OmniAct](https://awesomecua.github.io/resources/url-849a86beaee006c6b147/) — Date not recorded
   Dataset and benchmark for generating computer interaction programs.
 - [Online Mind2Web](https://awesomecua.github.io/resources/github-osu-nlp-group-online-mind2web/) — Date not recorded
-  Live website evaluation of web agents.
+  300 tasks on 136 live websites for evaluating web agents online, with outdated tasks replaced over time, human-reviewed submissions and the WebJudge automatic evaluator.
 - [OS-Critic Bench](https://awesomecua.github.io/resources/url-c73ba0618d1b3c505887/) — Date not recorded
   A cross-platform GUI-critic benchmark with mobile, desktop and web JSONL splits and screenshot assets, accompanied by public inference and accuracy-scoring scripts.
 - [OS-Harm](https://awesomecua.github.io/resources/github-tml-epfl-os-harm/) — Date not recorded
@@ -1048,7 +1052,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/evaluation/re
 - [OSWorld](https://awesomecua.github.io/resources/github-xlang-ai-osworld/) — Date not recorded
   Execution-based evaluation of agents performing tasks in real desktop environments.
 - [OSWorld-G](https://awesomecua.github.io/resources/github-xlang-ai-osworld-g/) — Date not recorded
-  Desktop grounding evaluation associated with OSWorld.
+  Computer-use grounding benchmark with original and refined instructions, released with the Jedi synthetic data pipeline, a 4-million-example Jedi dataset and Jedi-3B and Jedi-7B models.
 - [OSWorld-Human](https://awesomecua.github.io/resources/github-wuklab-osworld-human/) — Date not recorded
   Human reference trajectories and scoring code for measuring the action efficiency of computer-use agents on OSWorld tasks.
 - [PPTC](https://awesomecua.github.io/resources/github-gydpku-pptc/) — Date not recorded
@@ -1058,25 +1062,25 @@ Full source records: https://awesomecua.github.io/downloads/topics/evaluation/re
 - [RecreationBench](https://awesomecua.github.io/resources/url-d9d8e68f19ef0956d189/) — Date not recorded
   Tasks for recreating reference applications with hybrid computer interaction.
 - [RiOSWorld](https://awesomecua.github.io/resources/github-yjyddq-riosworld/) — Date not recorded
-  Evaluation environment for agents operating iOS interfaces.
+  Measures risky behavior of multimodal computer-use agents in an Ubuntu virtual machine, with risk scenarios such as phishing emails and released evaluation trajectories.
 - [SaaS-Bench](https://awesomecua.github.io/resources/github-unipat-ai-saas-bench/) — Date not recorded
-  Benchmark for agents interacting with SaaS applications.
+  106 browser-driven business workflows across 23 self-hosted SaaS apps in six domains, scored by per-task verifiers that read each app's database and give partial credit.
 - [SafeArena](https://awesomecua.github.io/resources/github-mcgill-nlp-safearena/) — Date not recorded
   Web-agent benchmark pairing benign and harmful tasks to study deliberate misuse risks.
 - [ScienceBoard](https://awesomecua.github.io/resources/github-os-copilot-scienceboard/) — Date not recorded
-  Desktop tasks involving scientific software workflows.
+  Scientific-workflow tasks for multimodal agents in desktop software such as ChimeraX, KAlgebra, Celestia, Grass GIS and Lean 4, with apps modified to expose state for evaluation.
 - [Screen Point-and-Read / Tree-of-Lens](https://awesomecua.github.io/resources/github-ucsb-ai-screen-point-and-read/) — Date not recorded
   Screen-reading benchmark and Tree-of-Lens implementation for interpreting user-indicated regions and their layout context.
 - [ScreenSpot](https://awesomecua.github.io/resources/url-7abb418096432f56c685/) — Date not recorded
-  Screenshot-based GUI element grounding benchmark.
+  GUI grounding test set of 1,272 screenshot instructions from iOS, Android, macOS, Windows and web interfaces, each labeled with the target element's bounding box.
 - [ScreenSpot Pro](https://awesomecua.github.io/resources/github-likaixin2000-screenspot-pro-gui-grounding/) — Date not recorded
   GUI grounding benchmark focused on professional high-resolution interfaces.
 - [ScreenSpot v2](https://awesomecua.github.io/resources/url-bd7214de6d98917c2350/) — Date not recorded
-  Revised ScreenSpot grounding evaluation data from OS-Atlas.
+  Second version of the ScreenSpot grounding test set, published by OS-Copilot as separate desktop, mobile and web annotation files with a shared screenshot archive.
 - [ScreenSpot-v2 instruction variants](https://awesomecua.github.io/resources/url-17729e1c532ba7043404/) — Date not recorded
   Instruction variants over ScreenSpot-v2 screenshots that distinguish original commands, explicit actions, target descriptions and impossible operations.
 - [SPA-Bench](https://awesomecua.github.io/resources/github-ai-agents-2030-spa-bench/) — Date not recorded
-  Smartphone agent evaluation benchmark.
+  340 single-app and cross-app tasks over 66 Chinese and English Android apps, with plug-in support for 11 smartphone agents and automatic coarse-to-fine success detection.
 - [Spider2-V](https://awesomecua.github.io/resources/github-xlang-ai-spider2-v/) — Date not recorded
   Visual agent evaluation on data-science and engineering workflows.
 - [TheAgentCompany](https://awesomecua.github.io/resources/github-theagentcompany-theagentcompany/) — Date not recorded
@@ -1100,7 +1104,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/evaluation/re
 - [WebClick](https://awesomecua.github.io/resources/url-5e2bd1b3398974b79c9c/) — Date not recorded
   A web-interface localization benchmark with screenshot instructions and target boxes, including agent browsing, human browsing and calendar cases.
 - [WebGames](https://awesomecua.github.io/resources/github-convergence-ai-webgames/) — Date not recorded
-  Browser games used to evaluate interactive agents.
+  150 client-side web challenges in five capability domains, built to be easy for humans but hard for browsing agents, each revealing a password when solved.
 - [WebLINX](https://awesomecua.github.io/resources/github-mcgill-nlp-weblinx/) — Date not recorded
   Demonstrations and evaluation for conversational web navigation.
 - [WebRewardBench](https://awesomecua.github.io/resources/url-ac6d0f80765f5a32255a/) — Date not recorded
@@ -1114,7 +1118,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/evaluation/re
 - [WebVoyager](https://awesomecua.github.io/resources/github-minorjerry-webvoyager/) — Date not recorded
   Multimodal web navigation agent and evaluation tasks on real websites.
 - [Windows Agent Arena](https://awesomecua.github.io/resources/github-microsoft-windowsagentarena/) — Date not recorded
-  Windows desktop agent evaluation environment.
+  Windows 11 benchmark for multimodal desktop agents in a reproducible VM that runs locally or in parallel on Azure ML, with a harder mode where agents must set tasks up themselves.
 - [WindowsWorld](https://awesomecua.github.io/resources/github-hitsz-tmg-windowsworld/) — Date not recorded
   Cross-application Windows benchmark with intermediate task evaluation.
 - [WONDERBREAD](https://awesomecua.github.io/resources/github-hazyresearch-wonderbread/) — Date not recorded
@@ -1122,7 +1126,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/evaluation/re
 - [WorkArena](https://awesomecua.github.io/resources/github-servicenow-workarena/) — Date not recorded
   Browser-based enterprise workflow tasks built around ServiceNow.
 - [WorldGUI](https://awesomecua.github.io/resources/github-showlab-worldgui/) — Date not recorded
-  GUI agent evaluation with varied initial states.
+  611 desktop GUI tasks that agents must complete from varied starting points, shipped with instructional videos and project files, plus the self-reflective WorldGUI-Agent baseline.
 
 ## Datasets
 
@@ -1156,8 +1160,6 @@ Full source records: https://awesomecua.github.io/downloads/topics/evaluation/re
   Research code for constructing and evaluating adversarial inputs to web agents, with a black-box red-team pipeline using Mind2Web data and SeeAct.
 - [AgentLab](https://awesomecua.github.io/resources/github-servicenow-agentlab/) — Date not recorded
   Experiment framework for developing and evaluating browser agents.
-- [AndroidEnv](https://awesomecua.github.io/resources/github-deepmind-android-env/) — Date not recorded
-  Environment toolkit for interacting with Android devices in agent research.
 - [AndroTMem inference and evaluation code](https://awesomecua.github.io/resources/github-cvc2233-androtmem/) — Date not recorded
   A public Android GUI evaluation framework with action-history, summary and anchored-memory prompt modes, plus step-action and dependency-aware task scoring.
 - [AUITestAgent](https://awesomecua.github.io/resources/github-bz-lab-auitestagent/) — Date not recorded
@@ -1165,13 +1167,13 @@ Full source records: https://awesomecua.github.io/downloads/topics/evaluation/re
 - [ClawGUI](https://awesomecua.github.io/resources/github-zju-real-clawgui/) — Date not recorded
   Framework for GUI agent training, evaluation, and deployment.
 - [Cua](https://awesomecua.github.io/resources/github-trycua-cua/) — Date not recorded
-  Infrastructure and libraries for computer-use agents.
+  Monorepo behind Cua Spaces, which gives agents full macOS or Linux desktops, plus Cua Driver for operating native apps, Lume for Apple Silicon VMs, Cua Bench and the CUA-S1 decision models.
 - [DroidCall generation and evaluation code](https://awesomecua.github.io/resources/github-ubiquitouslearning-droidcall/) — Date not recorded
   Data-generation, fine-tuning and evaluation utilities for teaching small language models to invoke Android intents through predefined functions.
 - [HUD](https://awesomecua.github.io/resources/github-hud-evals-hud-python/) — Date not recorded
-  SDK for agent environments, evaluation, and training.
+  SDK for RL environments and evals spanning coding, browser, computer-use and robotics agents, whose environments expose SSH, MCP, CDP or VNC capabilities behind a minimal start-and-grade protocol.
 - [Mobile Env](https://awesomecua.github.io/resources/github-x-lance-mobile-env/) — Date not recorded
-  Environment toolkit for mobile interaction agents.
+  AndroidEnv-based platform for building GUI agent benchmarks and training agents, where task definition files emit instructions, rewards and episode ends from screen text, view hierarchy or log events.
 - [OpenMobile-2 code](https://awesomecua.github.io/resources/github-openmobile2-openmobile2-code/) — Date not recorded
   Evaluation adapters and training guidance for OpenMobile-2 across Android emulators and browser-rendered mobile simulation.
 - [RedTeamCUA](https://awesomecua.github.io/resources/github-osu-nlp-group-redteamcua/) — Date not recorded

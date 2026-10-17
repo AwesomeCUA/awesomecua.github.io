@@ -1,6 +1,6 @@
 # OS-Genesis
 
-GUI trajectory synthesis using environment interaction.
+Interaction-driven pipeline that synthesizes mobile and web GUI agent trajectories without human supervision or predefined tasks, via reverse task synthesis and a trajectory reward model.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-os-copilot-os-genesis/
 - Original source: https://github.com/OS-Copilot/OS-Genesis

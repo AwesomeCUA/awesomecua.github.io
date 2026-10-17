@@ -49,6 +49,7 @@
     "task_count": null
   },
   "environments": [
+    "desktop",
     "windows"
   ],
   "evidence": [
@@ -114,7 +115,13 @@
   "name": "WindowsWorld",
   "notes": "",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md",
+      "target_id": "arxiv:2604.27776",
+      "type": "documented_by"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
   "summary": "Cross-application Windows benchmark with intermediate task evaluation.",

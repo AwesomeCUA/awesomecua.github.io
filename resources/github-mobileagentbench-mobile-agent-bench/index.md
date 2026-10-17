@@ -1,6 +1,6 @@
 # MobileAgentBench
 
-Evaluation toolkit and tasks for mobile agents.
+Automated benchmark for mobile LLM agents whose default tasks use ten Simple Mobile Tools Android apps, installed as a Python library that detects task completion.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-mobileagentbench-mobile-agent-bench/
 - Original source: https://github.com/MobileAgentBench/mobile-agent-bench

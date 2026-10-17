@@ -57,10 +57,16 @@
   "name": "MobileRL",
   "notes": "",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/THUDM/MobileRL/HEAD/README.md",
+      "target_id": "arxiv:2509.18119",
+      "type": "documented_by"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Reinforcement-learning framework for mobile agents.",
+  "summary": "Online agentic RL framework for mobile GUI agents built around the difficulty-adaptive ADAGRPO algorithm, with Dockerized AndroidWorld and AndroidLab evaluation and a MobileRL-9B checkpoint.",
   "topics": [
     "reinforcement-learning"
   ],

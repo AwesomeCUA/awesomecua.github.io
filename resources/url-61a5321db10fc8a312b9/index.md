@@ -7,7 +7,7 @@ A single Hub release containing GUI-R1 3B and 7B action-model checkpoints traine
 - Kind: model
 - Review: curated
 - Scope: core
-- Environments: windows, linux, macos, android, web
+- Environments: desktop, windows, linux, macos, android, web
 - Topics: grounding, reinforcement-learning, action-prediction
 - Evidence checked: 2026-10-17T02:44:30Z
 - ID: url:61a5321db10fc8a312b9

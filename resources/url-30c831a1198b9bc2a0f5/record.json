@@ -77,7 +77,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Released model checkpoint associated with OS-Atlas.",
+  "summary": "OS-Atlas base checkpoint with about 4.1B parameters, fine-tuned from InternVL2-4B and loaded in Transformers through custom InternVL chat model code.",
   "topics": [
     "grounding"
   ],

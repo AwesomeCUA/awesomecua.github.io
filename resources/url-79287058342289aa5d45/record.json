@@ -103,7 +103,13 @@
   "name": "AutoGUI v1 training data",
   "notes": "The row count is not a unique-screen count. The data card documents image scaling conventions that affect coordinate interpretation.",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md",
+      "target_id": "arxiv:2502.01977",
+      "type": "documented_by"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
   "summary": "Screenshot-based grounding and captioning samples with UI functionality descriptions, target coordinates, and bounding boxes.",

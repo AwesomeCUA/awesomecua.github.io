@@ -1,6 +1,6 @@
 # ZeroGUI
 
-GUI agent learning with generated interaction data.
+Online RL framework for GUI agents in which VLMs generate the training tasks and judge success from trajectory screenshots, with OSWorld and AndroidLab checkpoints trained from UI-TARS-7B-DPO.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-opengvlab-zerogui/
 - Original source: https://github.com/OpenGVLab/ZeroGUI

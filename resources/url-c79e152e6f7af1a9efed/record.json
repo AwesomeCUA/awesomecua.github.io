@@ -107,7 +107,13 @@
   "name": "ScreenSpot-Pro data",
   "notes": "This is the benchmark data asset, distinct from its evaluation-code repository. Target counts are not unique image counts.",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md",
+      "target_id": "github:likaixin2000/screenspot-pro-gui-grounding",
+      "type": "component_of"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
   "summary": "High-resolution professional interface screenshots and target annotations for evaluating instruction-based GUI localization.",

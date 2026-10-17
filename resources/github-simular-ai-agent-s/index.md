@@ -1,6 +1,6 @@
 # Agent S
 
-Agent framework for general computer interaction.
+Simular's open-source framework for computer-use agents that click, type and scroll through desktop and web apps on macOS, Windows and Linux; its third generation, Agent S3, reports 72.6% on OSWorld.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-simular-ai-agent-s/
 - Original source: https://github.com/simular-ai/Agent-S

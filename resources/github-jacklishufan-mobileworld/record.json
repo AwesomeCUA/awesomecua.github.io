@@ -56,7 +56,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Benchmark of semantic world modeling for mobile GUI agents.",
+  "summary": "Benchmark of semantic world modeling for mobile agents, with question-answering tasks and GPT-judged generation tasks, plus training data built on AitW and AndroidControl screens.",
   "topics": [
     "evaluation",
     "mobile-navigation"

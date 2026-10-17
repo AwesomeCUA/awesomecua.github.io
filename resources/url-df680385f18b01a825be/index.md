@@ -7,7 +7,7 @@ Training and evaluation Parquet bundles accompanying GUI-R1, including GUI groun
 - Kind: dataset
 - Review: curated
 - Scope: core
-- Environments: windows, linux, macos, android, web
+- Environments: desktop, windows, linux, macos, android, web
 - Topics: grounding, reinforcement-learning, evaluation
 - Evidence checked: 2026-10-17T02:42:32Z
 - ID: url:df680385f18b01a825be

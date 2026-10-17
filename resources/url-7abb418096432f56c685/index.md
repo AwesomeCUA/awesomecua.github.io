@@ -1,6 +1,6 @@
 # ScreenSpot
 
-Screenshot-based GUI element grounding benchmark.
+GUI grounding test set of 1,272 screenshot instructions from iOS, Android, macOS, Windows and web interfaces, each labeled with the target element's bounding box.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-7abb418096432f56c685/
 - Original source: https://huggingface.co/datasets/rootsautomation/ScreenSpot

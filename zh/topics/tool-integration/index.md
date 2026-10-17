@@ -166,6 +166,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/tool-integrat
   Evaluates multi-turn PowerPoint creation and editing, scoring the resulting presentation files rather than requiring a fixed API sequence.
 - [WebWISE: Web Interface Control and Sequential Exploration with Large Language Models](https://awesomecua.github.io/resources/arxiv-2310-16042/) — 2023-10-24
   WebWISE filters DOM elements into observations and generates short programs for click, scroll, and text-entry steps. It evaluates in-context learning from either one supplied example or an example collected during a successful zero-shot MiniWoB++ trial.
+- [OpenAgents: An Open Platform for Language Agents in the Wild](https://awesomecua.github.io/resources/arxiv-2310-10634/) — 2023-10-16
+  OpenAgents hosts three language agents, for data analysis, API plugins and autonomous web browsing, behind a web interface for non-expert users, with local deployment for developers.
 
 ## 评测基准
 
@@ -243,9 +245,9 @@ Full source records: https://awesomecua.github.io/downloads/topics/tool-integrat
 - [OpenMobile-2 code](https://awesomecua.github.io/resources/github-openmobile2-openmobile2-code/) — Date not recorded
   Evaluation adapters and training guidance for OpenMobile-2 across Android emulators and browser-rendered mobile simulation.
 - [OS-Copilot](https://awesomecua.github.io/resources/github-os-copilot-os-copilot/) — Date not recorded
-  Operating-system agent framework and assistant research.
+  Open-source library for generalist agents acting on an operating system's web, terminals, files and third-party apps, with the FRIDAY assistant, which takes custom tools and self-learns Excel tasks.
 - [Playwright MCP](https://awesomecua.github.io/resources/github-microsoft-playwright-mcp/) — Date not recorded
-  MCP server exposing browser interaction tools for agents.
+  MCP server that lets LLM clients drive Playwright browsers through structured accessibility snapshots instead of screenshots, with opt-in vision, PDF and devtools capabilities.
 - [SkillWeaver](https://awesomecua.github.io/resources/github-osu-nlp-group-skillweaver/) — Date not recorded
   A web-agent framework that explores sites, synthesizes reusable interaction APIs and builds a skill library for later tasks.
 - [WebLlama](https://awesomecua.github.io/resources/github-mcgill-nlp-webllama/) — Date not recorded

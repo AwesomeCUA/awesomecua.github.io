@@ -7,7 +7,7 @@ DSAgentBench evaluates end-to-end data-science workflows spanning analysis, mode
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: linux
+- Environments: desktop, linux
 - Topics: evaluation, workflow, science, long-horizon
 - Evidence checked: 2026-10-16T06:33:09Z
 - ID: arxiv:2608.10366

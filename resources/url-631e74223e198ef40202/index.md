@@ -1,6 +1,6 @@
 # ScaleCUA Data
 
-Cross-platform computer-use data released with ScaleCUA.
+Cross-platform training data released with ScaleCUA, with grounding and navigation annotations for Ubuntu, Windows, macOS, Android, iPhone and web screenshots.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-631e74223e198ef40202/
 - Original source: https://huggingface.co/datasets/OpenGVLab/ScaleCUA-Data

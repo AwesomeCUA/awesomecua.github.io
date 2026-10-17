@@ -37,6 +37,16 @@
       "url": "https://huggingface.co/api/datasets/alibabagroup/CMGUI"
     },
     {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T16:10:26Z",
+      "role": "primary",
+      "sha256": "6f43b9e5f2c783f91cc3271f51db6a9a521c29f21954a2a30ad0cfa186e1c1b7",
+      "supports": [
+        "relations"
+      ],
+      "url": "https://huggingface.co/datasets/alibabagroup/CMGUI/raw/main/README.md"
+    },
+    {
       "method": "huggingface_api",
       "retrieved_at": "2026-10-16T06:38:26Z",
       "role": "primary",
@@ -72,10 +82,16 @@
   "name": "CMGUI",
   "notes": "",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/alibabagroup/CMGUI/raw/main/README.md",
+      "target_id": "arxiv:2603.08533",
+      "type": "documented_by"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Mobile GUI interaction data from the CMGUI project.",
+  "summary": "18k trajectories with 98k steps from more than 50 Chinese mobile apps in domains such as e-commerce and social media, for building GUI agents on Chinese apps.",
   "topics": [
     "data-generation"
   ],

@@ -60,7 +60,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Virtual desktop provisioning and control tools for agents.",
+  "summary": "Desktop environments that AI agents control programmatically, run locally with Docker or remotely on Kubernetes, built on the agentd REST daemon and offering a coordinate-grid overlay for LMM input.",
   "topics": [
     "sandbox"
   ],

@@ -1,6 +1,6 @@
 # Surf New
 
-Browser-agent application associated with Steel.
+Next.js and FastAPI playground from Steel for trying web agents in a controlled browser environment, with live views of browser interaction and support for providers such as Claude and GPT-4.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-steel-dev-surf-new/
 - Original source: https://github.com/steel-dev/surf.new

@@ -1,6 +1,6 @@
 # Windows Agent Arena
 
-Windows desktop agent evaluation environment.
+Windows 11 benchmark for multimodal desktop agents in a reproducible VM that runs locally or in parallel on Azure ML, with a harder mode where agents must set tasks up themselves.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-microsoft-windowsagentarena/
 - Original source: https://github.com/microsoft/WindowsAgentArena

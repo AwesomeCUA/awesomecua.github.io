@@ -1,6 +1,6 @@
 # Appium
 
-Cross-platform UI automation infrastructure.
+Open-source WebDriver-based automation server for mobile, desktop and IoT apps, extended by per-platform drivers for iOS, Android, macOS and Windows, plugins, and clients in Java, Python, Ruby and C#.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-appium-appium/
 - Original source: https://github.com/appium/appium

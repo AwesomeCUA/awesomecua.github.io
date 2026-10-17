@@ -14,7 +14,7 @@ Data for learning text-dragging interactions in graphical interfaces.
 
 ## Limitations
 
-Inclusion does not establish reproducibility or endorsement.
+The card links its paper (arXiv 2601.06031) and code repository (OSU-NLP-Group/GUI-Drag). Neither is a reviewed catalog record yet, so no relation is recorded.
 
 - Record JSON: https://awesomecua.github.io/resources/url-aa28e1329a52e341d285/record.json
 
@@ -28,4 +28,5 @@ Inclusion does not establish reproducibility or endorsement.
 ## Primary evidence
 
 - https://huggingface.co/api/datasets/osunlp/GUI-Drag-dataset (retrieved 2026-10-16T06:38:26Z; SHA-256 cdb8be8c4692a8ddcf8a66c1f0be666a9214718445925fb3c88615a0d641bf3a)
+- https://huggingface.co/datasets/osunlp/GUI-Drag-dataset/raw/main/README.md (retrieved 2026-10-17T16:10:54Z; SHA-256 907c8a5169c180491ef8c26c9428b2c67bc4e26f472d6423ce3715cbe47f76ef)
 - https://huggingface.co/api/datasets/osunlp/GUI-Drag-dataset (retrieved 2026-10-16T06:38:26Z; SHA-256 cdb8be8c4692a8ddcf8a66c1f0be666a9214718445925fb3c88615a0d641bf3a)

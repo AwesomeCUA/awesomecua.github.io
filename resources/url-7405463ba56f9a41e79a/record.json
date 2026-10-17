@@ -83,7 +83,7 @@
     {
       "evidence_url": "https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-0.8B/raw/main/README.md",
       "target_id": "github:jcwang0602/seg2click",
-      "type": "uses"
+      "type": "variant_of"
     },
     {
       "evidence_url": "https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-0.8B/raw/main/README.md",

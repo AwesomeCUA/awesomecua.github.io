@@ -104,7 +104,7 @@
     {
       "evidence_url": "https://huggingface.co/OpenMobile-2/OpenMobile-2-27B/raw/main/README.md",
       "target_id": "github:openmobile2/openmobile2-code",
-      "type": "uses"
+      "type": "variant_of"
     },
     {
       "evidence_url": "https://huggingface.co/OpenMobile-2/OpenMobile-2-27B/raw/main/README.md",

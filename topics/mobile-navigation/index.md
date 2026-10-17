@@ -184,6 +184,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/mobile-naviga
   Mirage-1 organizes interaction trajectories into execution, core, and meta-skills, then uses them to guide Monte Carlo tree search during online GUI tasks. It introduces AndroidLH for long-horizon evaluation and tests the approach on Android and web-navigation benchmarks.
 - [Atomic-to-Compositional Generalization for Mobile Agents with A New Benchmark and Scheduling System](https://awesomecua.github.io/resources/arxiv-2506-08972/) — 2025-06-10
   UI-NEXUS evaluates compositional mobile tasks in local utility apps and online Chinese and English service apps. AGENT-NEXUS decomposes those long tasks into self-contained atomic subtasks to study generalization beyond isolated screens or short action chains.
+- [FingerTip 20K: A Benchmark for Proactive and Personalized Mobile LLM Agents](https://awesomecua.github.io/resources/arxiv-2507-21071/) — 2025-06-09
+  FingerTip 20K gathers 20K human Android demonstrations from users' long-term everyday app use, with user context, to evaluate proactive task suggestion and preference-aware task execution.
 - [GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior](https://awesomecua.github.io/resources/arxiv-2506-08012/) — 2025-06-09
   GUI-Reflection synthesizes reflection and error-correction examples from successful trajectories and adds dedicated learning stages for these behaviors. It introduces a reflection task suite, a mobile environment for online data collection, and iterative reflection tuning.
 - [GUIPilot: A Consistency-based Mobile GUI Testing Approach for Detecting Application-specific Bugs](https://awesomecua.github.io/resources/arxiv-2506-07385/) — 2025-06-09
@@ -348,7 +350,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/mobile-naviga
 - [AndroidArena](https://awesomecua.github.io/resources/github-androidarenaagent-androidarena/) — Date not recorded
   Android environment for evaluating language-model-driven agents.
 - [AndroidLab](https://awesomecua.github.io/resources/github-thudm-android-lab/) — Date not recorded
-  Training and evaluation environment for Android agents.
+  Reproducible Android benchmark of 138 tasks across nine apps on predefined virtual devices, run via AVD on Mac or Docker on Linux, released with the Android Instruct training set.
 - [AndroidWorld](https://awesomecua.github.io/resources/github-google-research-android-world/) — Date not recorded
   Android environment with programmatic task evaluation for mobile agents.
 - [ColorBench](https://awesomecua.github.io/resources/github-madeagents-colorbench/) — Date not recorded
@@ -360,7 +362,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/mobile-naviga
 - [Mobile-Bench-v2 released data](https://awesomecua.github.io/resources/url-1d5b85321b98765141fc/) — Date not recorded
   Offline mobile-agent task data spanning common tasks and released noisy, contaminated and ambiguous-instruction subsets.
 - [MobileAgentBench](https://awesomecua.github.io/resources/github-mobileagentbench-mobile-agent-bench/) — Date not recorded
-  Evaluation toolkit and tasks for mobile agents.
+  Automated benchmark for mobile LLM agents whose default tasks use ten Simple Mobile Tools Android apps, installed as a Python library that detects task completion.
 - [MobileGUI-VBench](https://awesomecua.github.io/resources/url-d7a4f34a6a5202af5f64/) — Date not recorded
   Mobile-app task definitions covering everyday scenarios, with annotated preconditions and clarification requirements for evaluating agent behavior.
 - [MobileGym](https://awesomecua.github.io/resources/github-purewhiter-mobilegym/) — Date not recorded
@@ -370,9 +372,9 @@ Full source records: https://awesomecua.github.io/downloads/topics/mobile-naviga
 - [MobileWorld (Tongyi-MAI)](https://awesomecua.github.io/resources/github-tongyi-mai-mobileworld/) — Date not recorded
   A containerized Android evaluation environment with GUI-only, agent-user interaction and MCP-augmented tasks, plus checks on application and backend state.
 - [MobileWorldBench](https://awesomecua.github.io/resources/github-jacklishufan-mobileworld/) — Date not recorded
-  Benchmark of semantic world modeling for mobile GUI agents.
+  Benchmark of semantic world modeling for mobile agents, with question-answering tasks and GPT-judged generation tasks, plus training data built on AitW and AndroidControl screens.
 - [SPA-Bench](https://awesomecua.github.io/resources/github-ai-agents-2030-spa-bench/) — Date not recorded
-  Smartphone agent evaluation benchmark.
+  340 single-app and cross-app tasks over 66 Chinese and English Android apps, with plug-in support for 11 smartphone agents and automatic coarse-to-fine success detection.
 
 ## Datasets
 
@@ -404,19 +406,21 @@ Full source records: https://awesomecua.github.io/downloads/topics/mobile-naviga
 ## Models
 
 - [AgentCPM-GUI](https://awesomecua.github.io/resources/github-openbmb-agentcpm-gui/) — Date not recorded
-  GUI agent model with a focus on mobile interaction.
+  8B on-device smartphone agent built on MiniCPM-V that operates Chinese and English apps from screenshots, trained with reinforcement fine-tuning and a compact JSON action space.
 - [AgentCPM-GUI 8B checkpoint](https://awesomecua.github.io/resources/url-8ef3985dce697e5feea9/) — Date not recorded
   An eight-billion-parameter MiniCPM-V-based model that consumes smartphone screenshots and predicts compact actions for Chinese and English Android app tasks.
 - [AutoGLM Phone 9B](https://awesomecua.github.io/resources/url-c918d5c828a3c6cfbc5d/) — Date not recorded
-  Released model checkpoint associated with Open-AutoGLM.
+  AutoGLM phone-agent checkpoint for Open-AutoGLM, fine-tuned from GLM-4.1V-9B-Base with about 10.3B BF16 parameters and tagged for Chinese.
 - [AutoGLM Phone 9B Multilingual](https://awesomecua.github.io/resources/url-d236e7ec7a2b0028950a/) — Date not recorded
-  Released model checkpoint associated with Open-AutoGLM.
+  Multilingual variant of the AutoGLM phone-agent checkpoint for Open-AutoGLM, likewise fine-tuned from GLM-4.1V-9B-Base with about 10.3B BF16 parameters.
 - [BlueLM-GUI](https://awesomecua.github.io/resources/github-vivo-ai-lab-bluelm-gui/) — Date not recorded
   Mobile GUI agent research release with technical report, benchmark data, and evaluation tooling from vivo AI Lab.
 - [GELab Zero](https://awesomecua.github.io/resources/github-stepfun-ai-gelab-zero/) — Date not recorded
-  Mobile GUI agent model and execution resources.
+  Open mobile GUI agent stack pairing a 4B model that runs on consumer hardware with local multi-device infrastructure, an MCP server, and AndroidDaily benchmark tasks.
 - [GELab Zero 4B Preview](https://awesomecua.github.io/resources/url-d7ad447ecd712c6d51b8/) — Date not recorded
-  Released model checkpoint associated with GELab Zero.
+  Preview GELab-Zero phone-use agent checkpoint fine-tuned from Qwen3-VL-4B-Instruct, with about 4.4B BF16 parameters, tagged for Android in English and Chinese, under Apache-2.0.
+- [Magma](https://awesomecua.github.io/resources/github-microsoft-magma/) — Date not recorded
+  Microsoft foundation model for multimodal agents, pretrained with Set-of-Mark and Trace-of-Mark objectives on UI, robotics and video data and fine-tunable for web and mobile UI navigation.
 - [MAI-UI 8B](https://awesomecua.github.io/resources/url-00b1a3abf9bcb424b264/) — Date not recorded
   A released MAI-UI checkpoint combining mobile GUI actions, agent-user interaction and tool-use-oriented navigation.
 - [MobileRL 9B checkpoint](https://awesomecua.github.io/resources/url-d5667c854845c77b9f5b/) — Date not recorded
@@ -435,15 +439,15 @@ Full source records: https://awesomecua.github.io/downloads/topics/mobile-naviga
 ## Engineering & industry
 
 - [AppAgent](https://awesomecua.github.io/resources/github-tencentqqgylab-appagent/) — Date not recorded
-  Mobile app agent using exploration and reusable knowledge.
+  Multimodal agent that operates Android apps through taps and swipes without back-end access, building a reusable knowledge base from autonomous exploration or from watching human demonstrations.
 - [AppAgent Pro](https://awesomecua.github.io/resources/github-laokuize-appagent-pro/) — Date not recorded
-  Extended mobile app agent implementation.
+  Proactive Android agent built on AppAgent that uses GPT-4o to decide whether YouTube or Amazon content would help, operates those apps over ADB, and merges what it finds into its answer.
 - [AppAgentX](https://awesomecua.github.io/resources/github-westlake-agi-lab-appagentx/) — Date not recorded
   Mobile agent research using accumulated interaction experience.
 - [Auto-GUI / Auto-UI](https://awesomecua.github.io/resources/github-cooelf-auto-gui/) — Date not recorded
   Screenshot-based mobile agent implementation with training and inference code for chain-of-action prediction.
 - [AutoDroid](https://awesomecua.github.io/resources/github-mobilellm-autodroid/) — Date not recorded
-  Language-model-driven Android task automation.
+  LLM-powered Android task automation built on DroidBot, released with DroidTask, a dataset of per-app screenshots, view hierarchies, exploration records and ground-truth task files.
 - [AutoDroid V2](https://awesomecua.github.io/resources/github-mobilellm-autodroid-v2/) — Date not recorded
   An Android automation implementation that builds app documentation from exploration traces and evaluates language-model-generated execution code in emulator workflows.
 - [CHOP](https://awesomecua.github.io/resources/github-yuqi-zhou-chop/) — Date not recorded
@@ -461,7 +465,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/mobile-naviga
 - [Mobile Next MCP](https://awesomecua.github.io/resources/github-mobile-next-mobile-mcp/) — Date not recorded
   An MCP server exposing mobile accessibility snapshots, screenshots and device interactions across real devices, simulators and emulators.
 - [Mobile Use](https://awesomecua.github.io/resources/github-madeagents-mobile-use/) — Date not recorded
-  SDK and agent tooling for mobile interaction.
+  Android GUI agent that operates real phones through ADB with hierarchical reflection and a multi-agent framework, run from a web interface or Python and evaluated on AndroidWorld and AndroidLab.
 - [Mobile-Agent](https://awesomecua.github.io/resources/github-x-plug-mobileagent/) — Date not recorded
   Mobile device agent family using visual interface interaction.
 - [MobileAgent (Alipay)](https://awesomecua.github.io/resources/github-alipay-mobile-agent/) — Date not recorded

@@ -76,10 +76,16 @@
   "name": "MMBench-GUI",
   "notes": "",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/open-compass/MMBench-GUI/HEAD/README.md",
+      "target_id": "arxiv:2507.19478",
+      "type": "documented_by"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Multiplatform evaluation framework for GUI capabilities.",
+  "summary": "Four-level GUI-agent benchmark across six platforms, from content understanding and element grounding to task automation and collaboration, scored with an efficiency-quality area metric.",
   "topics": [
     "evaluation",
     "grounding"

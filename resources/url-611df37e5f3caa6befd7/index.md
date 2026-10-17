@@ -1,6 +1,6 @@
 # UI-Venus 2 9B
 
-Released model checkpoint associated with UI-Venus.
+UI-Venus 2 GUI-agent checkpoint fine-tuned from Qwen3.5-9B, with about 9.4B BF16 parameters in the Qwen3.5 multimodal architecture, loaded through Transformers for image-text-to-text.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-611df37e5f3caa6befd7/
 - Original source: https://huggingface.co/inclusionAI/UI-Venus-2-9b

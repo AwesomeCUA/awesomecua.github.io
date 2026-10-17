@@ -1,6 +1,6 @@
 # UGround V1 7B
 
-Released model checkpoint associated with UGround.
+UGround-V1 checkpoint fine-tuned from Qwen2-VL-7B, with about 8.3B BF16 parameters in the standard Qwen2-VL architecture, provided as safetensors and a PyTorch file under Apache-2.0.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-e554295a7f3f5c9ad0d6/
 - Original source: https://huggingface.co/osunlp/UGround-V1-7B

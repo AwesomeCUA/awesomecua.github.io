@@ -1,6 +1,6 @@
 # MobileWorldBench
 
-Benchmark of semantic world modeling for mobile GUI agents.
+Benchmark of semantic world modeling for mobile agents, with question-answering tasks and GPT-judged generation tasks, plus training data built on AitW and AndroidControl screens.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-jacklishufan-mobileworld/
 - Original source: https://github.com/jacklishufan/MobileWorld

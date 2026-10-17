@@ -66,7 +66,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Framework for browser interaction by AI agents.",
+  "summary": "Open-source browser agent library that runs locally with any LLM against a local or cloud browser, and also serves as a CLI for coding agents and as a driver for Claude's browser toolset.",
   "topics": [
     "web-navigation"
   ],

@@ -134,7 +134,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Benchmark for safety behavior of mobile device agents.",
+  "summary": "Android emulator testbed that scores mobile device-control agents on both safety and helpfulness, using ADB and Appium for observations, actions and success checks.",
   "topics": [
     "safety-security",
     "evaluation"

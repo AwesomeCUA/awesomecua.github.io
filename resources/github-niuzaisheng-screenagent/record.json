@@ -51,7 +51,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Agent implementation for controlling desktop interfaces.",
+  "summary": "Environment and agent in which a vision-language model controls real desktops over VNC with mouse and keyboard in plan, act and reflect stages, plus a hand-annotated dataset of daily computer tasks.",
   "topics": [
     "planning"
   ],

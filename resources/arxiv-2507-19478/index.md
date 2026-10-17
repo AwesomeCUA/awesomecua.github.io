@@ -7,7 +7,7 @@ MMBench-GUI evaluates interface understanding, element grounding, task automatio
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: web, windows, macos, linux, ios, android, cross-platform
+- Environments: web, desktop, windows, macos, linux, ios, android, cross-platform
 - Topics: evaluation, grounding, efficiency, planning
 - Evidence checked: 2026-10-16T06:36:50Z
 - ID: arxiv:2507.19478

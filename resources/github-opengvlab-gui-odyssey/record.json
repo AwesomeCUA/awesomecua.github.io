@@ -117,7 +117,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Cross-application mobile interaction trajectories.",
+  "summary": "Human-demonstrated Android episodes for cross-app navigation, spanning six task types, 212 apps and about 1,400 app combinations, for training and evaluating agents.",
   "topics": [
     "cross-app",
     "data-generation"

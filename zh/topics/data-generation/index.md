@@ -100,6 +100,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/data-generati
   GUI-SAGE generates reasoning conditioned on known actions and weights policy updates using confidence and reward signals. Its experiments use AndroidControl and GUIOdyssey data and separately evaluate interactive AndroidWorld tasks.
 - [PhoneWorld: From Real-App Trajectories to Dynamic and Verifiable Environments for Phone-Use Agents](https://awesomecua.github.io/resources/arxiv-2605-29486/) — 2026-05-28
   Introduces PhoneWorld, which converts observed app pages, transitions and state changes into executable Android environments through a build-inspect-repair process. Generated tasks and programmatic verifiers support benchmarking, trajectory collection and online training.
+- [GUI-CIDER: Mid-training GUI Agents via Causal Internalization and Density-aware Exemplar Reselection](https://awesomecua.github.io/resources/arxiv-2605-28534/) — 2026-05-27
+  GUI-CIDER turns GUI trajectories into textual planning and causal interface knowledge, reselects exemplars for causal structure and low redundancy, then mid-trains GUI agents on that corpus.
 - [Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World](https://awesomecua.github.io/resources/arxiv-2605-26086/) — 2026-05-25
   Claw-Anything benchmarks persistent personal assistance across activity histories, backend services and integrated GUI/CLI interaction. Its simulated event histories introduce irrelevant or conflicting context, and a separate generation pipeline supplies training environments.
 - [CUA-Gym: Scaling Verifiable Training Environments and Tasks for Computer-Use Agents](https://awesomecua.github.io/resources/arxiv-2605-25624/) — 2026-05-25
@@ -296,6 +298,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/data-generati
   AgentSynth composes easily generated subtasks into longer computer-use tasks and trajectories with adjustable difficulty. Its evaluation uses the number of subtasks to probe how agent success changes as task complexity grows.
 - [UITron-Speech: Towards Automated GUI Agents Based on Speech Instructions](https://awesomecua.github.io/resources/arxiv-2506-11127/) — 2025-06-10
   Introduces UITron-Speech, which predicts GUI actions from spoken instructions and screenshots. It combines synthetic speech data and mixed-modality training with a training-free grounding refinement step.
+- [FingerTip 20K: A Benchmark for Proactive and Personalized Mobile LLM Agents](https://awesomecua.github.io/resources/arxiv-2507-21071/) — 2025-06-09
+  FingerTip 20K gathers 20K human Android demonstrations from users' long-term everyday app use, with user context, to evaluate proactive task suggestion and preference-aware task execution.
 - [GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior](https://awesomecua.github.io/resources/arxiv-2506-08012/) — 2025-06-09
   GUI-Reflection synthesizes reflection and error-correction examples from successful trajectories and adds dedicated learning stages for these behaviors. It introduces a reflection task suite, a mobile environment for online data collection, and iterative reflection tuning.
 - [Go-Browse: Training Web Agents with Structured Exploration](https://awesomecua.github.io/resources/arxiv-2506-03533/) — 2025-06-04
@@ -474,15 +478,15 @@ Full source records: https://awesomecua.github.io/downloads/topics/data-generati
 ## 数据集
 
 - [AgentNet](https://awesomecua.github.io/resources/url-964d70c40bfc5ca8e1ee/) — Date not recorded
-  Computer-use demonstrations released with OpenCUA.
+  22.6K human-annotated desktop computer-use tasks on Windows, macOS and Ubuntu, released with OpenCUA for training and evaluating vision-language-action models.
 - [AgentTrek](https://awesomecua.github.io/resources/github-xlang-ai-agenttrek/) — Date not recorded
-  Agent trajectory generation using web tutorial resources.
+  Synthesizes browser-agent trajectories by replaying web tutorials as guidance, releasing the trajectory data with multimodal grounding and reasoning and an AgentTrek-32B agent.
 - [Aguvis stage 1 grounding data](https://awesomecua.github.io/resources/url-06dd5ac7917c45d48509/) — Date not recorded
   The first-stage Aguvis training collection, packaging GUI element-grounding annotations and image archives from multiple interface-data sources.
 - [Aguvis stage 2 trajectory data](https://awesomecua.github.io/resources/url-b5e2127e07f692d516b9/) — Date not recorded
   The second-stage Aguvis collection of interface trajectories for learning action sequences, planning and reasoning after grounding pretraining.
 - [AMEX](https://awesomecua.github.io/resources/github-yuxiangchai-amex-codebase/) — Date not recorded
-  Android interaction data with interface annotations.
+  Code for AMEX Android GUI data that converts its three annotation levels into question-answer pairs and fine-tunes a LLaMA2-Accessory model, with a released checkpoint.
 - [Android in the Wild](https://awesomecua.github.io/resources/component-google-research-android-in-the-wild/) — Date not recorded
   Human demonstrations of Android tasks with screenshots and touch actions.
 - [AndroidControl](https://awesomecua.github.io/resources/component-google-research-android-control/) — Date not recorded
@@ -490,9 +494,9 @@ Full source records: https://awesomecua.github.io/downloads/topics/data-generati
 - [AutoDroid V2 training data](https://awesomecua.github.io/resources/url-9a3506ca6ef034adb424/) — Date not recorded
   Conversation-formatted supervision released for fine-tuning AutoDroid V2, with the project documenting a ShareGPT-style JSON configuration.
 - [CAGUI](https://awesomecua.github.io/resources/url-a06622da7688e3718a7b/) — Date not recorded
-  Mobile GUI data released by the OpenBMB team.
+  Chinese Android GUI benchmark released with AgentCPM-GUI, with a grounding track for widgets and OCR text and an agent track for multi-step tasks in Chinese apps.
 - [CMGUI](https://awesomecua.github.io/resources/url-ab26f9ef56d651cee587/) — Date not recorded
-  Mobile GUI interaction data from the CMGUI project.
+  18k trajectories with 98k steps from more than 50 Chinese mobile apps in domains such as e-commerce and social media, for building GUI agents on Chinese apps.
 - [CUA-Gym](https://awesomecua.github.io/resources/url-6aa1aa58a7a888395189/) — Date not recorded
   Computer-use environment and task resources for agent research.
 - [Dreamer V1 Data](https://awesomecua.github.io/resources/url-eadc6cba9ea46c38dd1d/) — Date not recorded
@@ -500,7 +504,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/data-generati
 - [DroidCall data](https://awesomecua.github.io/resources/url-ae8f5208eea9e7f1f606/) — Date not recorded
   Instruction-to-function-call examples for learning Android intent invocation, with training, testing and API-annotation files for mobile task execution.
 - [FingerTip-20K](https://awesomecua.github.io/resources/github-tsinghua-fib-lab-fingertip-20k/) — Date not recorded
-  Mobile interface interaction data.
+  Over 20,000 human Android episodes across 500+ apps with user context and long-term usage patterns, plus tracks for proactive intent prediction and personalized execution.
 - [GroundGUI RL Dataset](https://awesomecua.github.io/resources/url-4e71dc456c4112eed727/) — Date not recorded
   Desktop grounding prompts selected from GroundCUA and formatted for click-based reinforcement learning with target-box rewards.
 - [Grounding-Anything-GUI](https://awesomecua.github.io/resources/url-d1830de02226155ee16d/) — Date not recorded
@@ -518,13 +522,13 @@ Full source records: https://awesomecua.github.io/downloads/topics/data-generati
 - [GUI-Net-1M](https://awesomecua.github.io/resources/url-8c9aaafb918aaf8b4e92/) — Date not recorded
   A TongUI-collected training corpus from multimodal web tutorials, distributed as annotation files and split screenshot archives for GUI trajectory supervision.
 - [GUI-Odyssey](https://awesomecua.github.io/resources/github-opengvlab-gui-odyssey/) — Date not recorded
-  Cross-application mobile interaction trajectories.
+  Human-demonstrated Android episodes for cross-app navigation, spanning six task types, 212 apps and about 1,400 app combinations, for training and evaluating agents.
 - [GUIAct](https://awesomecua.github.io/resources/url-6cd150ec23361b4d2e84/) — Date not recorded
   Web and Android GUI action-instruction data, with single-step, multi-step and smartphone partitions.
 - [GUIChat](https://awesomecua.github.io/resources/url-edf38d43800be8c955ae/) — Date not recorded
   Conversational GUI supervision with text-rich images and bounding boxes, organized as single-turn questions and multi-turn dialogues.
 - [GUICourse](https://awesomecua.github.io/resources/github-yiye3-guicourse/) — Date not recorded
-  GUI instruction data and model training resources.
+  Three datasets for turning general VLMs into GUI agents: GUIEnv for OCR and grounding, GUIAct with 67k single-step and 15k multi-step web and Android actions, and GUIChat dialogues.
 - [GUIEnv-local](https://awesomecua.github.io/resources/url-0af07e00658a430cee6a/) — Date not recorded
   The released local-supervision portion of GUIEnv, pairing webpage regions and text for OCR and GUI grounding.
 - [GUIOdyssey — current data release](https://awesomecua.github.io/resources/url-511903ebfac45e6751b2/) — Date not recorded
@@ -534,7 +538,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/data-generati
 - [MONDAY annotations](https://awesomecua.github.io/resources/url-570654ff67ecefa2b955/) — Date not recorded
   Video-derived mobile navigation annotations that pair scene boundaries and screen or element boxes with action labels for training and evaluating GUI agents.
 - [MultiUI](https://awesomecua.github.io/resources/github-neulab-multiui/) — Date not recorded
-  Multilingual UI understanding and interaction data.
+  7.3 million training samples built from webpage UIs and structured with enhanced accessibility trees, for text-rich visual understanding, released with UIX-Qwen2 models.
 - [NNetNav Live data](https://awesomecua.github.io/resources/url-4f47abde8cd28a1ec1e1/) — Date not recorded
   Browser-interaction data released with NNetNav for its live-website setting, with separate training and test files.
 - [NNetNav WebArena data](https://awesomecua.github.io/resources/url-25a4d0ab29b60250863a/) — Date not recorded
@@ -542,9 +546,9 @@ Full source records: https://awesomecua.github.io/downloads/topics/data-generati
 - [OpenMobile-Data-v2](https://awesomecua.github.io/resources/url-546e6c95825d1318c98d/) — Date not recorded
   Mobile-agent supervision from emulator and simulator trajectories, plus executable tasks with starting states and success checks for reinforcement learning.
 - [OS-Atlas Data](https://awesomecua.github.io/resources/url-0fdeb1cf5f49f84820e6/) — Date not recorded
-  GUI grounding data released by the OS-Atlas project.
+  GUI grounding pre-training data for OS-Atlas in desktop (Linux, macOS, Windows), mobile and web domains, with element boxes stored as relative left, top, right and bottom ratios.
 - [OS-Genesis](https://awesomecua.github.io/resources/github-os-copilot-os-genesis/) — Date not recorded
-  GUI trajectory synthesis using environment interaction.
+  Interaction-driven pipeline that synthesizes mobile and web GUI agent trajectories without human supervision or predefined tasks, via reverse task synthesis and a trajectory reward model.
 - [OS-Genesis mobile training data](https://awesomecua.github.io/resources/url-d3ec5122a2b52fd5ae4b/) — Date not recorded
   Reverse-task-synthesis mobile trajectories released in separate AndroidControl and AndroidWorld training annotation files.
 - [Plan-and-Act training data](https://awesomecua.github.io/resources/url-ba6453cfdae0eb049ced/) — Date not recorded
@@ -552,23 +556,23 @@ Full source records: https://awesomecua.github.io/downloads/topics/data-generati
 - [RoTS](https://awesomecua.github.io/resources/github-alibabaresearch-rots/) — Date not recorded
   Announced GUI trajectory synthesis resources for recovery from policy-induced errors; the inspected repository marks code and data releases as in preparation.
 - [ScaleCUA Data](https://awesomecua.github.io/resources/url-631e74223e198ef40202/) — Date not recorded
-  Cross-platform computer-use data released with ScaleCUA.
+  Cross-platform training data released with ScaleCUA, with grounding and navigation annotations for Ubuntu, Windows, macOS, Android, iPhone and web screenshots.
 - [ScreenRef](https://awesomecua.github.io/resources/url-56bda04bd8d3a438deb3/) — Date not recorded
   GUI screenshots paired with localization instructions and targets, including absent-target examples; image access is gated under publisher terms.
 - [ScreenRef Annotations](https://awesomecua.github.io/resources/url-c1db2ba79e6d6a3db2b9/) — Date not recorded
   Annotation files, task recipes, and image manifests for ScreenRef; screenshots reside in the separately gated image repository.
 - [ShowUI Desktop](https://awesomecua.github.io/resources/url-f976dec3d1c5e0bedbd7/) — Date not recorded
-  Desktop interaction data released with ShowUI.
+  7,496 desktop grounding examples built from OmniAct screenshots, with annotations rewritten by GPT-4o to describe element appearance, spatial relations and function.
 - [ShowUI-web](https://awesomecua.github.io/resources/url-8933977bb0a57940ed23/) — Date not recorded
   Web-interface grounding examples with instructions, element boxes and points, paired with a separately packaged screenshot archive.
 - [UGround V1 Data](https://awesomecua.github.io/resources/url-c4898ad1bfc049926a63/) — Date not recorded
-  Training data released with UGround V1.
+  Gated web grounding training data for UGround in Web-Hybrid and Web-Direct subsets, with a bounding-box version whose coordinates are normalized to 0-999.
 - [UI-Genie reward data](https://awesomecua.github.io/resources/url-84e5aeeffaf561baa966/) — Date not recorded
   Mobile GUI reward annotations released for training UI-Genie’s trajectory-assessment model.
 - [UI-Genie trajectory data](https://awesomecua.github.io/resources/url-2e1927450da2183a5abe/) — Date not recorded
   Synthetic mobile GUI trajectory supervision and screenshots released with the UI-Genie agent-training pipeline.
 - [UI-Ins](https://awesomecua.github.io/resources/github-alibaba-ui-ins/) — Date not recorded
-  Instruction-oriented GUI data and research resources.
+  Treats grounding instructions as multiple reasoning perspectives, releasing a data pipeline, training code and UI-Ins-7B and 32B models trained by SFT on synthesized instructions, then RL.
 - [UI-R1 3B training data](https://awesomecua.github.io/resources/url-7c568d88a472f914d316/) — Date not recorded
   The released mobile training subset for the original UI-R1 3B model, with action annotations and individual screenshot files.
 - [UI-S1 released training examples](https://awesomecua.github.io/resources/url-16184830c0f4bdb146fa/) — Date not recorded
@@ -624,4 +628,4 @@ Full source records: https://awesomecua.github.io/downloads/topics/data-generati
 - [Work2Skill](https://awesomecua.github.io/resources/github-china-qijizhifeng-work2skill/) — Date not recorded
   Collects human GUI demonstrations and inspects multimodal evidence to derive reusable agent workflow skills.
 - [ZeroGUI](https://awesomecua.github.io/resources/github-opengvlab-zerogui/) — Date not recorded
-  GUI agent learning with generated interaction data.
+  Online RL framework for GUI agents in which VLMs generate the training tasks and judge success from trajectory screenshots, with OSWorld and AndroidLab checkpoints trained from UI-TARS-7B-DPO.

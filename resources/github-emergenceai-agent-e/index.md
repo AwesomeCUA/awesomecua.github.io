@@ -1,6 +1,6 @@
 # Agent E
 
-Web automation agent with hierarchical task execution.
+Browser automation agent on the AG2 framework that pairs a planner agent with a browser navigation agent to fill forms, search shops and work through sites, also callable over a local HTTP API.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-emergenceai-agent-e/
 - Original source: https://github.com/EmergenceAI/Agent-E

@@ -7,7 +7,7 @@ Virtual machine management for local computer-use environments.
 - Kind: infrastructure
 - Review: curated
 - Scope: core
-- Environments: macos, linux
+- Environments: desktop, macos, linux
 - Topics: sandbox
 - Evidence checked: 2026-10-16T06:40:53Z
 - ID: github:trycua/lume

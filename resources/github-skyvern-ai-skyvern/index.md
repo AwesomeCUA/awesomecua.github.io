@@ -1,6 +1,6 @@
 # Skyvern
 
-Visual browser workflow automation framework.
+Browser workflow automation that relies on vision LLMs and a swarm of agents instead of fixed XPath selectors, offered as a Playwright-compatible SDK and a no-code workflow builder.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-skyvern-ai-skyvern/
 - Original source: https://github.com/Skyvern-AI/skyvern

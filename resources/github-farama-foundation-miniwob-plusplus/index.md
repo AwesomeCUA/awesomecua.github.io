@@ -1,6 +1,6 @@
 # MiniWoB++
 
-Browser interaction task environment derived from MiniWoB.
+Over 100 web-interaction environments extending OpenAI's MiniWoB, controlled from Python through a Gymnasium API that drives the browser with Selenium.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-farama-foundation-miniwob-plusplus/
 - Original source: https://github.com/Farama-Foundation/miniwob-plusplus

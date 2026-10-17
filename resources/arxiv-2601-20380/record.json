@@ -29,6 +29,7 @@
   },
   "environments": [
     "android",
+    "desktop",
     "linux"
   ],
   "evidence": [

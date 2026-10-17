@@ -1,6 +1,6 @@
 # SPA-Bench
 
-Smartphone agent evaluation benchmark.
+340 single-app and cross-app tasks over 66 Chinese and English Android apps, with plug-in support for 11 smartphone agents and automatic coarse-to-fine success detection.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-ai-agents-2030-spa-bench/
 - Original source: https://github.com/ai-agents-2030/SPA-Bench

@@ -12,6 +12,7 @@
     "sample_unit": null
   },
   "environments": [
+    "desktop",
     "windows",
     "linux",
     "macos",

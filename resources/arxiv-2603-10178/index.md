@@ -7,7 +7,7 @@ Builds ExeVR-53k from execution-video, instruction and reward triplets, includin
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: linux, macos, windows, android
+- Environments: desktop, linux, macos, windows, android
 - Topics: reward-models, video, evaluation
 - Evidence checked: 2026-10-16T06:36:43Z
 - ID: arxiv:2603.10178

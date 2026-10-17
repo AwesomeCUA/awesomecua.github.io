@@ -309,21 +309,21 @@ Full source records: https://awesomecua.github.io/downloads/topics/screen-unders
 - [GUI-Lasagne L1](https://awesomecua.github.io/resources/url-0c5659ca9e59d942aea3/) — Date not recorded
   The published GUI-Lasagne training-data collection used for SpiritSight, distributed as dated archive shards for visual interface learning.
 - [GUI-World](https://awesomecua.github.io/resources/github-dongping-chen-gui-world/) — Date not recorded
-  GUI video data for understanding dynamic interfaces.
+  GUI video benchmark and training data covering six scenarios, from Android and iOS to websites and XR, with eight question types for image and video LLMs and the GUI-Vid model.
 - [GUIMid training data](https://awesomecua.github.io/resources/url-422010da7a5c845a18f6/) — Date not recorded
   A released GUI-agent mid-training mixture and supporting domain datasets, together with a post-training trajectory file and image archives for web and mobile interaction.
 - [Mobile3M](https://awesomecua.github.io/resources/url-b80bfa0a4939a493a11f/) — Date not recorded
-  Mobile interface data for multimodal UI research.
+  Pre-training corpus for Xiaomi's MobileVLM, distributed as per-app graph archives for mobile apps such as Baidu Map, QQ Music, Ctrip and Vipshop.
 - [MobileViews](https://awesomecua.github.io/resources/url-cc4aa8caeee0cff58e73/) — Date not recorded
-  Mobile screenshot and interface hierarchy dataset.
+  Over 600,000 Android screenshot and view-hierarchy pairs from more than 20,000 Google Play apps, collected with an optimized DroidBot, with complete per-app traces.
 - [MultiUI](https://awesomecua.github.io/resources/github-neulab-multiui/) — Date not recorded
-  Multilingual UI understanding and interaction data.
+  7.3 million training samples built from webpage UIs and structured with enhanced accessibility trees, for text-rich visual understanding, released with UIX-Qwen2 models.
 - [Rico](https://awesomecua.github.io/resources/url-0b134b082a7bd507fc6a/) — Date not recorded
   Mobile app screenshots, view hierarchies, and interaction traces for UI research.
 - [Screen2Words](https://awesomecua.github.io/resources/github-google-research-datasets-screen2words/) — Date not recorded
   Mobile screen descriptions for language-based screen understanding.
 - [ScreenQA](https://awesomecua.github.io/resources/github-google-research-datasets-screen-qa/) — Date not recorded
-  Question-answering data over mobile interface screenshots.
+  About 86,000 human-written question-answer pairs over 35,000 Rico mobile screenshots, plus ScreenQA Short and ComplexQA variants, for benchmarking screen content understanding.
 - [ScreenRef](https://awesomecua.github.io/resources/url-56bda04bd8d3a438deb3/) — Date not recorded
   GUI screenshots paired with localization instructions and targets, including absent-target examples; image access is gated under publisher terms.
 - [UI-Vision](https://awesomecua.github.io/resources/url-2c2004baae4669f8169a/) — Date not recorded
@@ -363,13 +363,13 @@ Full source records: https://awesomecua.github.io/downloads/topics/screen-unders
 - [Mobilerun Portal (formerly Droidrun Portal)](https://awesomecua.github.io/resources/github-droidrun-mobilerun-portal/) — Date not recorded
   An Android accessibility service that exposes UI-element inspection, device-control interfaces and screen feedback to mobile automation agents.
 - [OmniParser](https://awesomecua.github.io/resources/github-microsoft-omniparser/) — Date not recorded
-  Screen parsing tools for visually grounded agents.
+  Screenshot parser that detects interactable regions and captions icons so vision-language models can ground actions, released as V1.5 and V2 weights alongside OmniTool for driving a Windows 11 VM.
 - [Seg2Click](https://awesomecua.github.io/resources/github-jcwang0602-seg2click/) — Date not recorded
   Training and inference implementation that predicts an executable-region mask and derives a GUI click from that mask.
 - [Sikuli legacy research implementation](https://awesomecua.github.io/resources/github-sikuli-sikuli/) — Date not recorded
   The original Sikuli source distribution combines screenshot targets with a Jython scripting library and IDE for visual GUI automation and testing.
 - [Tarsier](https://awesomecua.github.io/resources/github-reworkd-tarsier/) — Date not recorded
-  Visual and text representation tools for browser agents.
+  Perception utilities for web agents that tag interactable elements with typed IDs an LLM can act on, and use OCR to render page screenshots as whitespace-structured text for models without vision.
 - [UI Defect Mocker](https://awesomecua.github.io/resources/github-zju-aces-ise-uidefectmocker/) — Date not recorded
   Synthesizes visual UI defects from mobile screenshots and Android layout metadata to support GUI-testing experiments.
 - [VisionTasker](https://awesomecua.github.io/resources/github-akimotoayako-visiontasker/) — Date not recorded

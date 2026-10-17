@@ -1,6 +1,6 @@
 # Playwright MCP
 
-MCP server exposing browser interaction tools for agents.
+MCP server that lets LLM clients drive Playwright browsers through structured accessibility snapshots instead of screenshots, with opt-in vision, PDF and devtools capabilities.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-microsoft-playwright-mcp/
 - Original source: https://github.com/microsoft/playwright-mcp

@@ -1,6 +1,6 @@
 # MobileSafetyBench
 
-Benchmark for safety behavior of mobile device agents.
+Android emulator testbed that scores mobile device-control agents on both safety and helpfulness, using ADB and Appium for observations, actions and success checks.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-jylee425-mobilesafetybench/
 - Original source: https://github.com/jylee425/mobilesafetybench

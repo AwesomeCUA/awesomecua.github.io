@@ -62,10 +62,16 @@
   "name": "SaaS-Bench",
   "notes": "",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/UniPat-AI/SaaS-Bench/HEAD/README.md",
+      "target_id": "arxiv:2605.15777",
+      "type": "documented_by"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Benchmark for agents interacting with SaaS applications.",
+  "summary": "106 browser-driven business workflows across 23 self-hosted SaaS apps in six domains, scored by per-task verifiers that read each app's database and give partial credit.",
   "topics": [
     "evaluation",
     "workflow"

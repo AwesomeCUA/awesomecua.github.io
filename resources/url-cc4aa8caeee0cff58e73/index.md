@@ -1,6 +1,6 @@
 # MobileViews
 
-Mobile screenshot and interface hierarchy dataset.
+Over 600,000 Android screenshot and view-hierarchy pairs from more than 20,000 Google Play apps, collected with an optimized DroidBot, with complete per-app traces.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-cc4aa8caeee0cff58e73/
 - Original source: https://huggingface.co/datasets/mllmTeam/MobileViews

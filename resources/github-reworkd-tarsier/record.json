@@ -60,7 +60,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Visual and text representation tools for browser agents.",
+  "summary": "Perception utilities for web agents that tag interactable elements with typed IDs an LLM can act on, and use OCR to render page screenshots as whitespace-structured text for models without vision.",
   "topics": [
     "screen-understanding"
   ],

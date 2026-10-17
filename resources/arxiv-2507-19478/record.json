@@ -42,6 +42,7 @@
   },
   "environments": [
     "web",
+    "desktop",
     "windows",
     "macos",
     "linux",

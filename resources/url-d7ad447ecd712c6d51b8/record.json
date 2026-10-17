@@ -80,7 +80,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Released model checkpoint associated with GELab Zero.",
+  "summary": "Preview GELab-Zero phone-use agent checkpoint fine-tuned from Qwen3-VL-4B-Instruct, with about 4.4B BF16 parameters, tagged for Android in English and Chinese, under Apache-2.0.",
   "topics": [
     "mobile-navigation"
   ],

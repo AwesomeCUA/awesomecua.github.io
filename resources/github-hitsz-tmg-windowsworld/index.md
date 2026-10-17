@@ -7,7 +7,7 @@ Cross-application Windows benchmark with intermediate task evaluation.
 - Kind: benchmark
 - Review: curated
 - Scope: core
-- Environments: windows
+- Environments: desktop, windows
 - Topics: evaluation, cross-app
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:hitsz-tmg/windowsworld

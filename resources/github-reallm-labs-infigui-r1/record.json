@@ -66,7 +66,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Reasoning-oriented GUI agent model.",
+  "summary": "3B GUI agent trained in two stages: distilling spatial reasoning from teacher models, then reinforcement learning that rewards accurate sub-goals and trains error recovery.",
   "topics": [
     "reinforcement-learning",
     "planning"

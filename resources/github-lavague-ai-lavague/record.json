@@ -60,7 +60,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Framework for building natural-language web agents.",
+  "summary": "Open-source web agent framework where a World Model turns an objective and the current page into instructions and an Action Engine compiles them into Selenium or Playwright code to run.",
   "topics": [
     "web-navigation"
   ],

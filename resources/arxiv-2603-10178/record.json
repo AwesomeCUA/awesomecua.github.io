@@ -22,6 +22,7 @@
     }
   },
   "environments": [
+    "desktop",
     "linux",
     "macos",
     "windows",

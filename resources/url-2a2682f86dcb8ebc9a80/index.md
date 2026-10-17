@@ -1,6 +1,6 @@
 # EvoCUA 8B 20260105
 
-Released model checkpoint associated with EvoCUA.
+EvoCUA computer-use agent checkpoint (20260105 release) with about 8.8B BF16 parameters in the Qwen3-VL architecture, tagged for OSWorld and for English and Chinese.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-2a2682f86dcb8ebc9a80/
 - Original source: https://huggingface.co/meituan/EvoCUA-8B-20260105

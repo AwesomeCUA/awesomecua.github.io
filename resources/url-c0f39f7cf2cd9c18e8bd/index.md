@@ -1,6 +1,6 @@
 # ShowUI 2B
 
-Released model checkpoint associated with ShowUI.
+ShowUI vision-language-action checkpoint fine-tuned from Qwen2-VL-2B-Instruct, published as a single PyTorch weight file under the MIT license and tagged for GUI agents and computer use.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-c0f39f7cf2cd9c18e8bd/
 - Original source: https://huggingface.co/showlab/ShowUI-2B

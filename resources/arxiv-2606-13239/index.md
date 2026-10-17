@@ -7,7 +7,7 @@ ComAct proposes COM program synthesis as an alternative interface for manipulati
 - Kind: paper
 - Review: curated
 - Scope: adjacent
-- Environments: windows
+- Environments: desktop, windows
 - Topics: automation, evaluation, tool-integration, science
 - Evidence checked: 2026-10-16T06:33:05Z
 - ID: arxiv:2606.13239

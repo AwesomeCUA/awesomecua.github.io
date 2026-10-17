@@ -1,6 +1,6 @@
 # AutoWebGLM
 
-Language-model-based web navigation research.
+Web navigation agent built on ChatGLM3-6B that simplifies HTML for the model, is trained on hybrid human and AI data with RL and rejection sampling, and comes with the bilingual AutoWebBench.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-thudm-autowebglm/
 - Original source: https://github.com/THUDM/AutoWebGLM

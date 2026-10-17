@@ -69,11 +69,11 @@ Full source records: https://awesomecua.github.io/downloads/topics/video/records
 ## Datasets
 
 - [AgentTrek](https://awesomecua.github.io/resources/github-xlang-ai-agenttrek/) — Date not recorded
-  Agent trajectory generation using web tutorial resources.
+  Synthesizes browser-agent trajectories by replaying web tutorials as guidance, releasing the trajectory data with multimodal grounding and reasoning and an AgentTrek-32B agent.
 - [GUI-Action Narrator](https://awesomecua.github.io/resources/github-showlab-gui-action-narrator/) — Date not recorded
   Action narration resources for GUI interaction trajectories.
 - [GUI-World](https://awesomecua.github.io/resources/github-dongping-chen-gui-world/) — Date not recorded
-  GUI video data for understanding dynamic interfaces.
+  GUI video benchmark and training data covering six scenarios, from Android and iOS to websites and XR, with eight question types for image and video LLMs and the GUI-Vid model.
 - [MONDAY annotations](https://awesomecua.github.io/resources/url-570654ff67ecefa2b955/) — Date not recorded
   Video-derived mobile navigation annotations that pair scene boundaries and screen or element boxes with action labels for training and evaluating GUI agents.
 - [VideoCAD data](https://awesomecua.github.io/resources/url-2b5dead3172c0b70da7e/) — Date not recorded

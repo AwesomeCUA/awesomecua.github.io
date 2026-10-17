@@ -640,6 +640,70 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2507.21071v2",
+    "archive": "arXiv",
+    "archive_location": "2507.21071",
+    "author": [
+      {
+        "literal": "Qinglong Yang"
+      },
+      {
+        "literal": "Haoming Li"
+      },
+      {
+        "literal": "Haotian Zhao"
+      },
+      {
+        "literal": "Xiaokai Yan"
+      },
+      {
+        "literal": "Jingtao Ding"
+      },
+      {
+        "literal": "Fengli Xu"
+      },
+      {
+        "literal": "Yong Li"
+      }
+    ],
+    "citation-key": "arxiv_2507_21071",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "947c85efc189635a118b823b8ca0787ff6b1c922d1af8b21a8686b7df9a27cf8",
+        "submitted_at": "2025-06-09T06:38:41Z",
+        "updated_at": "2026-03-16T09:14:01Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2507.21071v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2507.21071",
+      "catalog_id": "arxiv:2507.21071",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-06-09",
+      "identifiers": {
+        "arxiv": "2507.21071"
+      },
+      "record_updated_at": "2026-03-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2507.21071",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2025-06-09; Recorded arXiv version: v2; Recorded version updated: 2026-03-16T09:14:01Z.",
+    "title": "FingerTip 20K: A Benchmark for Proactive and Personalized Mobile LLM Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2510.00413v2",
     "archive": "arXiv",
     "archive_location": "2510.00413",

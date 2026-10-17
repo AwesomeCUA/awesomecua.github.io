@@ -1,6 +1,6 @@
 # EvoCUA 32B 20260105
 
-Released model checkpoint associated with EvoCUA.
+Larger EvoCUA computer-use agent checkpoint (20260105 release) with about 33B BF16 parameters in the Qwen3-VL architecture, tagged for OSWorld and for English and Chinese.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-60a95f34072aeb2771cc/
 - Original source: https://huggingface.co/meituan/EvoCUA-32B-20260105

@@ -1,6 +1,6 @@
 # POINTS-GUI
 
-GUI models for interface perception and action grounding.
+POINTS-GUI-G-8B GUI grounding model, trained from a POINTS-1.5 base without native grounding through a data pipeline that unifies coordinates, filters noise and adds hard cases.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-tencent-points-gui/
 - Original source: https://github.com/Tencent/POINTS-GUI

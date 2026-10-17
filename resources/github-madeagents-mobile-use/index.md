@@ -1,6 +1,6 @@
 # Mobile Use
 
-SDK and agent tooling for mobile interaction.
+Android GUI agent that operates real phones through ADB with hierarchical reflection and a multi-agent framework, run from a web interface or Python and evaluated on AndroidWorld and AndroidLab.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-madeagents-mobile-use/
 - Original source: https://github.com/MadeAgents/mobile-use

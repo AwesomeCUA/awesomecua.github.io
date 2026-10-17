@@ -77,7 +77,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Released model checkpoint associated with GUI-Actor.",
+  "summary": "GUI-Actor checkpoint fine-tuned from Qwen2-VL-7B-Instruct, with about 8.4B BF16 parameters, whose config names a pointer variant of the Qwen2-VL class rather than the stock one, under MIT.",
   "topics": [
     "grounding"
   ],

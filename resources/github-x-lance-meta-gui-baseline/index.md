@@ -14,7 +14,7 @@ Training and evaluation pipeline for conversational mobile GUI agents, with acti
 
 ## Limitations
 
-Inclusion does not establish reproducibility or endorsement.
+Its README describes mobile GUI agents without naming an operating system.
 
 - Record JSON: https://awesomecua.github.io/resources/github-x-lance-meta-gui-baseline/record.json
 

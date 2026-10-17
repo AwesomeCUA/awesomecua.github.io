@@ -38,6 +38,16 @@
       "url": "https://huggingface.co/api/datasets/Hcompany/DragOn"
     },
     {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T16:10:54Z",
+      "role": "primary",
+      "sha256": "e7ef94cafcfd155961beec373f2f4e727715b7d517a819f52b5407fc2dec4009",
+      "supports": [
+        "notes"
+      ],
+      "url": "https://huggingface.co/datasets/Hcompany/DragOn/raw/main/README.md"
+    },
+    {
       "method": "huggingface_api",
       "retrieved_at": "2026-10-16T06:38:26Z",
       "role": "primary",
@@ -71,12 +81,12 @@
     }
   ],
   "name": "DragOn",
-  "notes": "",
+  "notes": "The card cites a workshop paper titled \"DragOn: A Drag-Grounding Benchmark and Training Dataset for GUI Agents\" without an arXiv link. arXiv 2606.06322 has a different title, so no paper relation is recorded.",
   "published_at": null,
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "GUI interaction dataset focused on drag operations.",
+  "summary": "Drag-grounding training and evaluation data pairing each screenshot instruction with start and end boxes, across text highlighting, spreadsheet cells, slide resizing and sliders.",
   "topics": [
     "grounding"
   ],

@@ -1,6 +1,6 @@
 # GUI-World
 
-GUI video data for understanding dynamic interfaces.
+GUI video benchmark and training data covering six scenarios, from Android and iOS to websites and XR, with eight question types for image and video LLMs and the GUI-Vid model.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-dongping-chen-gui-world/
 - Original source: https://github.com/Dongping-Chen/GUI-World

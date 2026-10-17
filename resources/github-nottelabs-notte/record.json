@@ -45,7 +45,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Framework and infrastructure for browser agents.",
+  "summary": "Web agent framework and cloud SDKs for managed Chrome sessions, adding a CLI, an MCP server for coding agents, serverless browser functions and an API that builds automations from English tasks.",
   "topics": [
     "web-navigation"
   ],

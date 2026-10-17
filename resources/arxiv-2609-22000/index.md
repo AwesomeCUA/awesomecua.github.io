@@ -7,7 +7,7 @@ RecreationWorld gives hybrid agents running reference applications to explore an
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: linux, macos, windows, android, web
+- Environments: desktop, linux, macos, windows, android, web
 - Topics: evaluation, data-generation, tool-integration, workflow
 - Evidence checked: 2026-10-16T06:36:29Z
 - ID: arxiv:2609.22000

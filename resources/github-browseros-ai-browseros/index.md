@@ -7,7 +7,7 @@ Chromium-based browser implementations for external agent control and built-in a
 - Kind: infrastructure
 - Review: curated
 - Scope: core
-- Environments: web, windows, macos, linux
+- Environments: web, desktop, windows, macos, linux
 - Topics: web-navigation, tool-integration, recording
 - Evidence checked: 2026-10-17T03:59:54Z
 - ID: github:browseros-ai/browseros

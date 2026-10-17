@@ -1,6 +1,6 @@
 # UI-Ins
 
-Instruction-oriented GUI data and research resources.
+Treats grounding instructions as multiple reasoning perspectives, releasing a data pipeline, training code and UI-Ins-7B and 32B models trained by SFT on synthesized instructions, then RL.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-alibaba-ui-ins/
 - Original source: https://github.com/alibaba/UI-Ins

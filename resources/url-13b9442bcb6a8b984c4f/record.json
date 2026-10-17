@@ -33,6 +33,16 @@
       "url": "https://huggingface.co/api/datasets/biglab/webui-all"
     },
     {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T16:10:53Z",
+      "role": "primary",
+      "sha256": "93bd04914735f748d687b71597970a79d95ae8636e7ed75d267ebd6954d11a8f",
+      "supports": [
+        "notes"
+      ],
+      "url": "https://huggingface.co/datasets/biglab/webui-all/raw/main/README.md"
+    },
+    {
       "method": "huggingface_api",
       "retrieved_at": "2026-10-16T06:38:26Z",
       "role": "primary",
@@ -66,7 +76,7 @@
     }
   ],
   "name": "WebUI",
-  "notes": "",
+  "notes": "The card links the WebUI project's ACM publication (DOI 10.1145/3544548.3581158) and website, not an arXiv record or a catalogued repository, so no paper or family relation is recorded.",
   "published_at": null,
   "relations": [],
   "review_status": "curated",

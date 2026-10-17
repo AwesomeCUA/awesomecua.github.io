@@ -56,7 +56,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "GUI agent evaluation with varied initial states.",
+  "summary": "611 desktop GUI tasks that agents must complete from varied starting points, shipped with instructional videos and project files, plus the self-reflective WorldGUI-Agent baseline.",
   "topics": [
     "evaluation",
     "robustness"

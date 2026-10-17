@@ -314,6 +314,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/web-navigatio
   WebWISE filters DOM elements into observations and generates short programs for click, scroll, and text-entry steps. It evaluates in-context learning from either one supplied example or an example collected during a successful zero-shot MiniWoB++ trial.
 - [AllTogether: Investigating the Efficacy of Spliced Prompt for Web Navigation using Large Language Models](https://awesomecua.github.io/resources/arxiv-2310-18331/) — 2023-10-20
   AllTogether standardizes prompts for HTML-based web navigation and compares prompting with instruction fine-tuning. Its analysis examines how HTML context, interaction history, and current environmental feedback affect task execution.
+- [OpenAgents: An Open Platform for Language Agents in the Wild](https://awesomecua.github.io/resources/arxiv-2310-10634/) — 2023-10-16
+  OpenAgents hosts three language agents, for data analysis, API plugins and autonomous web browsing, behind a web interface for non-expert users, with local deployment for developers.
 - [A Zero-Shot Language Agent for Computer Control with Structured Reflection](https://awesomecua.github.io/resources/arxiv-2310-08740/) — 2023-10-12
   Studies a zero-shot computer-control agent that plans executable actions and organizes its own reflections after mistakes. MiniWoB++ experiments examine learning to complete tasks without supplied expert trajectories.
 - [SteP: Stacked LLM Policies for Web Actions](https://awesomecua.github.io/resources/arxiv-2310-03720/) — 2023-10-05
@@ -363,8 +365,10 @@ Full source records: https://awesomecua.github.io/downloads/topics/web-navigatio
   Human-annotated browser-agent trajectories for comparing automated task-success and process-quality verifiers against reviewer judgments.
 - [Mind2Web](https://awesomecua.github.io/resources/github-osu-nlp-group-mind2web/) — Date not recorded
   Human demonstrations and tasks for generalist web navigation research.
+- [Mind2Web 2](https://awesomecua.github.io/resources/github-osu-nlp-group-mind2web-2/) — Date not recorded
+  Long-horizon agentic web search benchmark whose Agent-as-a-Judge framework scores time-varying, citation-backed answers, with evaluation scripts for its dev and test sets.
 - [Online Mind2Web](https://awesomecua.github.io/resources/github-osu-nlp-group-online-mind2web/) — Date not recorded
-  Live website evaluation of web agents.
+  300 tasks on 136 live websites for evaluating web agents online, with outdated tasks replaced over time, human-reviewed submissions and the WebJudge automatic evaluator.
 - [WebArena](https://awesomecua.github.io/resources/github-web-arena-x-webarena/) — Date not recorded
   Self-hosted web environments and tasks for evaluating autonomous web agents.
 - [WebClick](https://awesomecua.github.io/resources/url-5e2bd1b3398974b79c9c/) — Date not recorded
@@ -402,9 +406,9 @@ Full source records: https://awesomecua.github.io/downloads/topics/web-navigatio
 ## 模型
 
 - [Fara](https://awesomecua.github.io/resources/github-microsoft-fara/) — Date not recorded
-  Computer-use model for web interaction.
+  Microsoft browser-use agent models that act from screenshots by predicting click coordinates without accessibility trees; Fara1.5 comes in 4B, 9B and 27B, succeeding Fara-7B.
 - [Fara 7B](https://awesomecua.github.io/resources/url-a4da77ee63f879cc8e63/) — Date not recorded
-  Released model checkpoint associated with Fara.
+  Microsoft's Fara checkpoint, a Qwen2.5-VL-architecture image-text-to-text model with about 8.3B BF16 parameters, English, MIT-licensed and linked to arXiv paper 2511.19663.
 - [Go-Browse WebArena Qwen 7B](https://awesomecua.github.io/resources/url-db1b7b7efe3755ae5693/) — Date not recorded
   A Qwen-2.5-7B-Instruct checkpoint fine-tuned on Go-Browse WebArena trajectories for website task execution.
 - [Holo1 7B](https://awesomecua.github.io/resources/url-f35cfcbaeb79663eabeb/) — Date not recorded
@@ -427,7 +431,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/web-navigatio
 ## 工程与产业
 
 - [Agent E](https://awesomecua.github.io/resources/github-emergenceai-agent-e/) — Date not recorded
-  Web automation agent with hierarchical task execution.
+  Browser automation agent on the AG2 framework that pairs a planner agent with a browser navigation agent to fill forms, search shops and work through sites, also callable over a local HTTP API.
 - [Agent Workflow Memory implementation](https://awesomecua.github.io/resources/github-zorazrw-agent-workflow-memory/) — Date not recorded
   Research code that extracts reusable browser-task routines from demonstrations or prior executions, stores them as workflow memory and reuses them during subsequent navigation.
 - [agent-browser](https://awesomecua.github.io/resources/github-vercel-labs-agent-browser/) — Date not recorded
@@ -436,10 +440,12 @@ Full source records: https://awesomecua.github.io/downloads/topics/web-navigatio
   Trajectory collection and revision utilities that use tree search and model-guided critique to train agents to recover from mistakes, including WebShop tasks.
 - [AgentQL](https://awesomecua.github.io/resources/url-8896d44370711136fd54/) — Date not recorded
   Natural-language querying and interaction tools for web interfaces.
+- [Amazon Nova Act](https://awesomecua.github.io/resources/url-dec156cbf0cb1181f7b6/) — Date not recorded
+  AWS service for building and deploying agents that automate browser-based UI workflows from natural language and Python, powered by a custom Nova 2 Lite model.
 - [AutoWebGLM](https://awesomecua.github.io/resources/github-thudm-autowebglm/) — Date not recorded
-  Language-model-based web navigation research.
+  Web navigation agent built on ChatGLM3-6B that simplifies HTML for the model, is trained on hybrid human and AI data with RL and rejection sampling, and comes with the bilingual AutoWebBench.
 - [Browser Use](https://awesomecua.github.io/resources/github-browser-use-browser-use/) — Date not recorded
-  Framework for browser interaction by AI agents.
+  Open-source browser agent library that runs locally with any LLM against a local or cloud browser, and also serves as a CLI for coding agents and as a driver for Claude's browser toolset.
 - [Browser Use Cloud](https://awesomecua.github.io/resources/url-ef244017b1460269fc68/) — Date not recorded
   Hosted browser-agent platform from Browser Use.
 - [Browser Use WebUI](https://awesomecua.github.io/resources/github-browser-use-web-ui/) — Date not recorded
@@ -455,9 +461,9 @@ Full source records: https://awesomecua.github.io/downloads/topics/web-navigatio
 - [HoloTab](https://awesomecua.github.io/resources/url-4a47a6df845735984bf1/) — Date not recorded
   H browser extension for executing tasks through website interfaces.
 - [HyperAgent](https://awesomecua.github.io/resources/github-hyperbrowserai-hyperagent/) — Date not recorded
-  Browser automation agent framework.
+  Library adding natural-language commands to Playwright: accessibility-tree single actions, multi-step tasks that can use screenshots, an MCP client and action caching for replay without LLM calls.
 - [LaVague](https://awesomecua.github.io/resources/github-lavague-ai-lavague/) — Date not recorded
-  Framework for building natural-language web agents.
+  Open-source web agent framework where a World Model turns an objective and the current page into instructions and an Action Engine compiles them into Selenium or Playwright code to run.
 - [LiteWebAgent](https://awesomecua.github.io/resources/github-pathonaiorg-litewebagent/) — Date not recorded
   Modular web-agent framework with browser control, planning, workflow memory, and tree-search components, plus web and extension interfaces.
 - [Lumen browser agent](https://awesomecua.github.io/resources/github-omxyz-lumen/) — Date not recorded
@@ -467,7 +473,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/web-navigatio
 - [NNetNav](https://awesomecua.github.io/resources/github-murtyshikhar-nnetnav/) — Date not recorded
   Collects and labels browser-exploration trajectories for agent training, with code for data processing, fine-tuning, and web evaluation.
 - [Notte](https://awesomecua.github.io/resources/github-nottelabs-notte/) — Date not recorded
-  Framework and infrastructure for browser agents.
+  Web agent framework and cloud SDKs for managed Chrome sessions, adding a CLI, an MCP server for coding agents, serverless browser functions and an API that builds automations from English tasks.
 - [OpenAgents Web Agent](https://awesomecua.github.io/resources/component-xlang-ai-openagents-web-agent/) — Date not recorded
   The OpenAgents browser-control component, connecting a Chrome extension to a web agent and local chat platform for navigating sites and completing interface tasks.
 - [Operator](https://awesomecua.github.io/resources/url-f0584842138a52158f51/) — Date not recorded
@@ -479,7 +485,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/web-navigatio
 - [RCI Agent](https://awesomecua.github.io/resources/github-posgnu-rci-agent/) — Date not recorded
   A MiniWoB++ agent that uses explicit and implicit recursive criticism-and-improvement prompts to refine action plans and ground actions to browser state.
 - [SeeAct](https://awesomecua.github.io/resources/github-osu-nlp-group-seeact/) — Date not recorded
-  Vision-based web agent with action grounding.
+  Generalist web agent framework for large multimodal models such as GPT-4V, with a Playwright tool that runs agents on live websites, text-choice and set-of-mark grounding, and a crawler mode.
 - [Self-MAP](https://awesomecua.github.io/resources/github-magicgh-self-map/) — Date not recorded
   A conversational web-agent implementation with candidate ranking and memory-assisted action planning, including optional memory simplification, refinement and self-reflection modules.
 - [SkillWeaver](https://awesomecua.github.io/resources/github-osu-nlp-group-skillweaver/) — Date not recorded
@@ -489,9 +495,9 @@ Full source records: https://awesomecua.github.io/downloads/topics/web-navigatio
 - [StateAct](https://awesomecua.github.io/resources/github-ai-nikolai-stateact/) — Date not recorded
   State-tracking prompts and experiment runners for language agents, including a WebShop implementation alongside text-based environments.
 - [Steel Browser](https://awesomecua.github.io/resources/github-steel-dev-steel-browser/) — Date not recorded
-  Browser infrastructure for agent applications.
+  Open-source browser API managing Chrome sessions for agents, reachable through Puppeteer, Playwright or Selenium over CDP, with persisted cookies, proxy rotation, stealth and a session debugging UI.
 - [Surf New](https://awesomecua.github.io/resources/github-steel-dev-surf-new/) — Date not recorded
-  Browser-agent application associated with Steel.
+  Next.js and FastAPI playground from Steel for trying web agents in a controlled browser environment, with live views of browser interaction and support for providers such as Claude and GPT-4.
 - [Synapse](https://awesomecua.github.io/resources/github-ltzheng-synapse/) — Date not recorded
   A computer-control research implementation that retrieves example trajectories from memory, abstracts task-relevant state and prompts an agent to navigate browser tasks.
 - [TinyFish](https://awesomecua.github.io/resources/url-d92596cfe618e5322ec2/) — Date not recorded

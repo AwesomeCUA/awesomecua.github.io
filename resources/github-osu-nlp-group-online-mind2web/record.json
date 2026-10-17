@@ -99,7 +99,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Live website evaluation of web agents.",
+  "summary": "300 tasks on 136 live websites for evaluating web agents online, with outdated tasks replaced over time, human-reviewed submissions and the WebJudge automatic evaluator.",
   "topics": [
     "evaluation",
     "web-navigation"

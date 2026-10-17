@@ -66,7 +66,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Foundation action models and data for GUI interaction.",
+  "summary": "OS-Atlas GUI action models, including grounding bases fine-tuned from InternVL2-4B and Qwen2-VL-7B-Instruct that accept any image size and output 0-1000 relative coordinates.",
   "topics": [
     "grounding"
   ],

@@ -1,6 +1,6 @@
 # Computer Use OOTB
 
-Computer-use agent execution toolkit.
+Gradio desktop GUI agent for Windows and macOS that needs no Docker, using Claude 3.5 Computer Use over the API or ShowUI and UI-TARS run locally, with multi-display and phone remote control.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-showlab-computer-use-ootb/
 - Original source: https://github.com/showlab/computer_use_ootb

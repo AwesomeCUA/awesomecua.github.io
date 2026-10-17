@@ -56,7 +56,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Hosted visual browser workflow automation service.",
+  "summary": "Hosted Skyvern service for AI browser workflows such as invoice downloads and form filling, with built-in CAPTCHA and 2FA handling, proxy geotargeting, run explanations and JSON or CSV output.",
   "topics": [
     "workflow"
   ],

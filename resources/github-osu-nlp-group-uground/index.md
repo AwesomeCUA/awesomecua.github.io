@@ -1,6 +1,6 @@
 # UGround
 
-Universal visual grounding models for GUI agents.
+Code, training data and weights for universal visual grounding of GUI elements from screenshots, including Qwen2-VL-based UGround-V1 at 2B, 7B and 72B and offline and online evaluation suites.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-osu-nlp-group-uground/
 - Original source: https://github.com/OSU-NLP-Group/UGround

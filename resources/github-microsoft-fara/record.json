@@ -71,7 +71,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Computer-use model for web interaction.",
+  "summary": "Microsoft browser-use agent models that act from screenshots by predicting click coordinates without accessibility trees; Fara1.5 comes in 4B, 9B and 27B, succeeding Fara-7B.",
   "topics": [
     "planning",
     "web-navigation"

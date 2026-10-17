@@ -3,6 +3,7 @@
   "authors": [],
   "details": {},
   "environments": [
+    "desktop",
     "macos",
     "linux"
   ],

@@ -1,6 +1,6 @@
 # UGround V1 Data
 
-Training data released with UGround V1.
+Gated web grounding training data for UGround in Web-Hybrid and Web-Direct subsets, with a bounding-box version whose coordinates are normalized to 0-999.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-c4898ad1bfc049926a63/
 - Original source: https://huggingface.co/datasets/osunlp/UGround-V1-Data

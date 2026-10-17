@@ -36,9 +36,12 @@ V2 refreshes task strings and rubrics while preserving V1 task IDs. Counts are t
 ## License declarations
 
 - code: not recorded
-- data: not recorded
+- data: mit — https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md
 - document: not recorded
 - weights: not recorded
+
+- data review: The benchmark's Hub dataset card declares MIT in its metadata header (license: mit).
+  Sources: https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md
 
 ## Primary evidence
 

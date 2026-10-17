@@ -39,7 +39,8 @@
         "summary",
         "environments",
         "topics",
-        "scope"
+        "scope",
+        "relations"
       ],
       "url": "https://raw.githubusercontent.com/MurtyShikhar/NNetnav/HEAD/README.md"
     },
@@ -79,7 +80,13 @@
   "name": "NNetNav WebArena data",
   "notes": "The Hub card supplies a license but no detailed schema. Dataset purpose is supported by the project's README; exact sample counts and annotation quality remain unverified.",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/MurtyShikhar/NNetnav/HEAD/README.md",
+      "target_id": "github:murtyshikhar/nnetnav",
+      "type": "component_of"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
   "summary": "NNetNav's WebArena-oriented browser-interaction data release, with separate training and test files.",

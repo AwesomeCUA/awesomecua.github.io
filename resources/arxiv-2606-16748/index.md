@@ -7,7 +7,7 @@ MyPCBench tests personal-assistant tasks on a Linux desktop with simulated web a
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: linux, web
+- Environments: desktop, linux, web
 - Topics: evaluation, cross-app, workflow
 - Evidence checked: 2026-10-16T06:36:36Z
 - ID: arxiv:2606.16748

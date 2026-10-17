@@ -1,6 +1,6 @@
 # OS-Copilot
 
-Operating-system agent framework and assistant research.
+Open-source library for generalist agents acting on an operating system's web, terminals, files and third-party apps, with the FRIDAY assistant, which takes custom tools and self-learns Excel tasks.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-os-copilot-os-copilot/
 - Original source: https://github.com/OS-Copilot/OS-Copilot

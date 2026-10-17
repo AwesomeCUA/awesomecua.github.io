@@ -1,5 +1,9 @@
 {
-  "aliases": [],
+  "aliases": [
+    "github:deepmind/android_env",
+    "deepmind/android_env",
+    "https://github.com/deepmind/android_env"
+  ],
   "authors": [],
   "details": {},
   "environments": [
@@ -31,6 +35,26 @@
         "licenses.code"
       ],
       "url": "https://raw.githubusercontent.com/google-deepmind/android_env/HEAD/LICENSE"
+    },
+    {
+      "method": "github_repository_identity",
+      "retrieved_at": "2026-10-17T15:37:19Z",
+      "role": "primary",
+      "sha256": "de82c4101e81a6980789904be59c3733ab13f2c1f0e769e5fcb1ab35f847cb3e",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://api.github.com/repos/deepmind/android_env"
+    },
+    {
+      "method": "github_repository_identity",
+      "retrieved_at": "2026-10-17T15:37:20Z",
+      "role": "primary",
+      "sha256": "de82c4101e81a6980789904be59c3733ab13f2c1f0e769e5fcb1ab35f847cb3e",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://api.github.com/repos/google-deepmind/android_env"
     }
   ],
   "id": "github:google-deepmind/android_env",
@@ -55,7 +79,7 @@
     }
   ],
   "name": "AndroidEnv",
-  "notes": "",
+  "notes": "Formerly published as deepmind/android_env. That address now redirects to this repository, and both paths serve the same reviewed README, so the project is counted once.",
   "published_at": null,
   "relations": [
     {

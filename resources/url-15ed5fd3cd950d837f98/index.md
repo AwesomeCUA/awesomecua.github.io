@@ -1,6 +1,6 @@
 # Skyvern Cloud
 
-Hosted visual browser workflow automation service.
+Hosted Skyvern service for AI browser workflows such as invoice downloads and form filling, with built-in CAPTCHA and 2FA handling, proxy geotargeting, run explanations and JSON or CSV output.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-15ed5fd3cd950d837f98/
 - Original source: https://www.skyvern.com/

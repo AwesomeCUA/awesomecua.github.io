@@ -56,7 +56,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Multihop multimodal internet navigation tasks.",
+  "summary": "Multimodal web tasks in a WebArena-based environment that chain from 1 to 10 hops across sites such as a shopping store and Wikipedia, testing long-chain reasoning.",
   "topics": [
     "evaluation",
     "long-horizon"

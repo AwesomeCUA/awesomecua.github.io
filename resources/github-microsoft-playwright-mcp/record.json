@@ -60,7 +60,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "MCP server exposing browser interaction tools for agents.",
+  "summary": "MCP server that lets LLM clients drive Playwright browsers through structured accessibility snapshots instead of screenshots, with opt-in vision, PDF and devtools capabilities.",
   "topics": [
     "automation",
     "tool-integration"

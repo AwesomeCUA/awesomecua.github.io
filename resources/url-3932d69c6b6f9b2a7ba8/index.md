@@ -23,7 +23,10 @@ The Hub manifest contains 17 safetensors shards and tokenizer/configuration file
 - code: not recorded
 - data: not recorded
 - document: not recorded
-- weights: not recorded
+- weights: mit — https://huggingface.co/xTRam1/plan-and-act-planner-70b/raw/main/README.md
+
+- weights review: The model card declares MIT in its metadata header (license: mit), beside a template comment asking the publisher to update it if needed. It is recorded as the publisher's declaration and does not override the Llama-3.3-70B-Instruct base model terms.
+  Sources: https://huggingface.co/xTRam1/plan-and-act-planner-70b/raw/main/README.md
 
 ## Primary evidence
 

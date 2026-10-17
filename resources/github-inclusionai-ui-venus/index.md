@@ -1,6 +1,6 @@
 # UI-Venus
 
-GUI model family for interface grounding and navigation.
+GUI agent model family; UI-Venus-2, at 9B and 27B, acts on mobile, web and desktop in one end-to-end agent, trained with keypoint-based multi-judge task verification.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-inclusionai-ui-venus/
 - Original source: https://github.com/inclusionAI/UI-Venus

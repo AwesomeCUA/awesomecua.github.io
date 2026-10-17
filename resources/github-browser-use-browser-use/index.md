@@ -1,6 +1,6 @@
 # Browser Use
 
-Framework for browser interaction by AI agents.
+Open-source browser agent library that runs locally with any LLM against a local or cloud browser, and also serves as a CLI for coding agents and as a driver for Claude's browser toolset.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-browser-use-browser-use/
 - Original source: https://github.com/browser-use/browser-use

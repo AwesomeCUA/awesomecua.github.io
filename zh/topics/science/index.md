@@ -40,7 +40,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/science/recor
 ## 评测基准
 
 - [ScienceBoard](https://awesomecua.github.io/resources/github-os-copilot-scienceboard/) — Date not recorded
-  Desktop tasks involving scientific software workflows.
+  Scientific-workflow tasks for multimodal agents in desktop software such as ChimeraX, KAlgebra, Celestia, Grass GIS and Lean 4, with apps modified to expose state for evaluation.
 
 ## 数据集
 

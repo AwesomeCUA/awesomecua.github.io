@@ -70,7 +70,8 @@
       "role": "primary",
       "sha256": "8c545d66cc7199a9258bd91ed48930691d0d99555bc30ee457fae9bf656fd18d",
       "supports": [
-        "details.dataset_profile"
+        "details.dataset_profile",
+        "relations"
       ],
       "url": "https://huggingface.co/datasets/OpenGVLab/ScaleCUA-Data/raw/main/README.md"
     },
@@ -105,10 +106,16 @@
   "name": "ScaleCUA Data",
   "notes": "",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/OpenGVLab/ScaleCUA-Data/raw/main/README.md",
+      "target_id": "arxiv:2509.15221",
+      "type": "documented_by"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Cross-platform computer-use data released with ScaleCUA.",
+  "summary": "Cross-platform training data released with ScaleCUA, with grounding and navigation annotations for Ubuntu, Windows, macOS, Android, iPhone and web screenshots.",
   "topics": [
     "data-generation"
   ],

@@ -1,6 +1,6 @@
 # AppAgent Pro
 
-Extended mobile app agent implementation.
+Proactive Android agent built on AppAgent that uses GPT-4o to decide whether YouTube or Amazon content would help, operates those apps over ADB, and merges what it finds into its answer.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-laokuize-appagent-pro/
 - Original source: https://github.com/LaoKuiZe/AppAgent-Pro

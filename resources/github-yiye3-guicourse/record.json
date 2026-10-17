@@ -57,7 +57,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "GUI instruction data and model training resources.",
+  "summary": "Three datasets for turning general VLMs into GUI agents: GUIEnv for OCR and grounding, GUIAct with 67k single-step and 15k multi-step web and Android actions, and GUIChat dialogues.",
   "topics": [
     "data-generation"
   ],

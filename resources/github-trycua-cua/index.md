@@ -1,6 +1,6 @@
 # Cua
 
-Infrastructure and libraries for computer-use agents.
+Monorepo behind Cua Spaces, which gives agents full macOS or Linux desktops, plus Cua Driver for operating native apps, Lume for Apple Silicon VMs, Cua Bench and the CUA-S1 decision models.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-trycua-cua/
 - Original source: https://github.com/trycua/cua

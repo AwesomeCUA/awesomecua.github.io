@@ -1,6 +1,6 @@
 # ShowUI Desktop
 
-Desktop interaction data released with ShowUI.
+7,496 desktop grounding examples built from OmniAct screenshots, with annotations rewritten by GPT-4o to describe element appearance, spatial relations and function.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-f976dec3d1c5e0bedbd7/
 - Original source: https://huggingface.co/datasets/showlab/ShowUI-desktop-8K

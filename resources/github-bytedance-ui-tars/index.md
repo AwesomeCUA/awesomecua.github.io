@@ -1,6 +1,6 @@
 # UI-TARS
 
-Native GUI agent model family for perception and action.
+Native GUI agent models; UI-TARS-1.5 adds reinforcement-learned reasoning before acting and an open 7B checkpoint, and UI-TARS-2 extends to games, code and tool use.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-bytedance-ui-tars/
 - Original source: https://github.com/bytedance/UI-TARS

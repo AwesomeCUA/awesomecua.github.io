@@ -8,6 +8,7 @@
     "hub_id": "zai-org/cogagent-9b-20241220"
   },
   "environments": [
+    "desktop",
     "windows",
     "macos",
     "cross-platform"
@@ -98,7 +99,13 @@
   "name": "CogAgent 9B 20241220",
   "notes": "The former THUDM model URL resolves to zai-org. Six public safetensors shards are present. Weights use the custom CogAgent License, including a registration requirement for commercial use, rather than a blanket permissive license. The card cites the 2023 CogAgent paper as previous work and links a later technical report; no claim that the old paper documents this 2024 checkpoint is asserted.",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/zai-org/cogagent-9b-20241220/raw/main/README.md",
+      "target_id": "github:thudm/cogagent",
+      "type": "variant_of"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
   "summary": "A bilingual GLM-4V-based execution model that uses screenshots, task instructions and action history to predict GUI operations.",

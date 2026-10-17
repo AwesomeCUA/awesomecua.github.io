@@ -1,6 +1,6 @@
 # Notte
 
-Framework and infrastructure for browser agents.
+Web agent framework and cloud SDKs for managed Chrome sessions, adding a CLI, an MCP server for coding agents, serverless browser functions and an API that builds automations from English tasks.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-nottelabs-notte/
 - Original source: https://github.com/nottelabs/notte

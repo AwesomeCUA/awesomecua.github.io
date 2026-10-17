@@ -332,7 +332,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/reinforcement
 ## 评测基准
 
 - [MiniWoB++](https://awesomecua.github.io/resources/github-farama-foundation-miniwob-plusplus/) — Date not recorded
-  Browser interaction task environment derived from MiniWoB.
+  Over 100 web-interaction environments extending OpenAI's MiniWoB, controlled from Python through a Gymnasium API that drives the browser with Selenium.
 - [MobileGym](https://awesomecua.github.io/resources/github-purewhiter-mobilegym/) — Date not recorded
   A browser-hosted mobile-app simulator with programmable state, parameterized tasks and deterministic state-checking judges for parallel GUI-agent evaluation and online reinforcement learning.
 
@@ -358,9 +358,9 @@ Full source records: https://awesomecua.github.io/downloads/topics/reinforcement
 - [EvoCUA](https://awesomecua.github.io/resources/github-meituan-evocua/) — Date not recorded
   Computer-use model and training resources from the EvoCUA project.
 - [EvoCUA 32B 20260105](https://awesomecua.github.io/resources/url-60a95f34072aeb2771cc/) — Date not recorded
-  Released model checkpoint associated with EvoCUA.
+  Larger EvoCUA computer-use agent checkpoint (20260105 release) with about 33B BF16 parameters in the Qwen3-VL architecture, tagged for OSWorld and for English and Chinese.
 - [EvoCUA 8B 20260105](https://awesomecua.github.io/resources/url-2a2682f86dcb8ebc9a80/) — Date not recorded
-  Released model checkpoint associated with EvoCUA.
+  EvoCUA computer-use agent checkpoint (20260105 release) with about 8.8B BF16 parameters in the Qwen3-VL architecture, tagged for OSWorld and for English and Chinese.
 - [GUI-G1](https://awesomecua.github.io/resources/github-yuqi-zhou-gui-g1/) — Date not recorded
   GUI-grounding training code that modifies reasoning templates, reward functions, and the GRPO objective, with a linked model release.
 - [GUI-G1 3B v1](https://awesomecua.github.io/resources/url-9dc9d8d3b9a4b32d6f4b/) — Date not recorded
@@ -374,7 +374,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/reinforcement
 - [InfiGUI-G1 7B](https://awesomecua.github.io/resources/url-d70a755e3b2102f25f34/) — Date not recorded
   A GUI-grounding checkpoint trained with adaptive exploration rewards and multiple candidate answers to improve instruction-to-element alignment.
 - [InfiGUI-R1](https://awesomecua.github.io/resources/github-reallm-labs-infigui-r1/) — Date not recorded
-  Reasoning-oriented GUI agent model.
+  3B GUI agent trained in two stages: distilling spatial reasoning from teacher models, then reinforcement learning that rewards accurate sub-goals and trains error recovery.
 - [InfiGUI-R1 3B](https://awesomecua.github.io/resources/url-35b9879a351cc3b3d7d5/) — Date not recorded
   A Qwen2.5-VL checkpoint trained with the Actor2Reasoner procedure to combine interface grounding with planning and recovery reasoning.
 - [MobileRL 9B checkpoint](https://awesomecua.github.io/resources/url-d5667c854845c77b9f5b/) — Date not recorded
@@ -382,11 +382,11 @@ Full source records: https://awesomecua.github.io/downloads/topics/reinforcement
 - [PAE LLaVA 7B](https://awesomecua.github.io/resources/url-5d61c1b5fc8dd650518d/) — Date not recorded
   A released LLaVA checkpoint for visual browser interaction from the PAE autonomous task-proposal and policy-learning system.
 - [UI-AGILE](https://awesomecua.github.io/resources/github-kdegroup-ui-agile/) — Date not recorded
-  GUI grounding research using reinforcement learning.
+  GUI agent trained by RL with a continuous reward, a simple-thinking reward and cropping-based resampling on about 9k samples, plus a plug-in decomposed grounding-and-selection inference method.
 - [UI-AGILE checkpoint](https://awesomecua.github.io/resources/url-b94e285c3f757e2d0f3a/) — Date not recorded
   The released UI-AGILE model for GUI grounding with reward shaping, crop-based resampling and decomposed selection during inference.
 - [UI-R1](https://awesomecua.github.io/resources/github-lll6gg-ui-r1/) — Date not recorded
-  Reinforcement-learning approach to GUI action modeling.
+  Rule-based reinforcement learning for GUI action prediction, releasing UI-R1-3B, trained from Qwen2.5-VL-3B, the efficiency-oriented UI-R1-E-3B, and training data.
 - [UI-R1 3B](https://awesomecua.github.io/resources/url-f13474d7aa734a30624d/) — Date not recorded
   A Qwen2.5-VL checkpoint trained with reinforcement learning for GUI action prediction and evaluated on mobile, desktop and web grounding tasks.
 - [UI-S1 7B](https://awesomecua.github.io/resources/url-1c4ee99a9a55ae71a7ac/) — Date not recorded
@@ -398,8 +398,6 @@ Full source records: https://awesomecua.github.io/downloads/topics/reinforcement
 
 ## 工程与产业
 
-- [AndroidEnv](https://awesomecua.github.io/resources/github-deepmind-android-env/) — Date not recorded
-  Environment toolkit for interacting with Android devices in agent research.
 - [AndroidEnv](https://awesomecua.github.io/resources/github-google-deepmind-android-env/) — Date not recorded
   Android device-control platform with screenshots, accessibility telemetry, input actions, and an optional reinforcement-learning task interface.
 - [ClawGUI](https://awesomecua.github.io/resources/github-zju-real-clawgui/) — Date not recorded
@@ -417,9 +415,9 @@ Full source records: https://awesomecua.github.io/downloads/topics/reinforcement
 - [GUI-RC / GUI-RCPO](https://awesomecua.github.io/resources/github-zju-real-gui-rcpo/) — Date not recorded
   GUI-grounding research code for spatial voting across sampled predictions and test-time policy optimization using region-consistency rewards.
 - [HUD](https://awesomecua.github.io/resources/github-hud-evals-hud-python/) — Date not recorded
-  SDK for agent environments, evaluation, and training.
+  SDK for RL environments and evals spanning coding, browser, computer-use and robotics agents, whose environments expose SSH, MCP, CDP or VNC capabilities behind a minimal start-and-grade protocol.
 - [MobileRL](https://awesomecua.github.io/resources/github-thudm-mobilerl/) — Date not recorded
-  Reinforcement-learning framework for mobile agents.
+  Online agentic RL framework for mobile GUI agents built around the difficulty-adaptive ADAGRPO algorithm, with Dockerized AndroidWorld and AndroidLab evaluation and a MobileRL-9B checkpoint.
 - [Proposer-Agent-Evaluator (PAE)](https://awesomecua.github.io/resources/github-amazon-science-pae/) — Date not recorded
   A browser-agent training system that proposes tasks, collects visual interaction trajectories, and uses automated evaluation to drive policy improvement.
 - [SCALE-CUA (THUDM)](https://awesomecua.github.io/resources/github-thudm-scale-cua/) — Date not recorded
@@ -437,4 +435,4 @@ Full source records: https://awesomecua.github.io/downloads/topics/reinforcement
 - [WorkForceAgent-R1](https://awesomecua.github.io/resources/github-night-chen-workforceagent-r1/) — Date not recorded
   Web-task reward functions, WorkArena data processing and GRPO training configurations for reasoning-oriented language agents.
 - [ZeroGUI](https://awesomecua.github.io/resources/github-opengvlab-zerogui/) — Date not recorded
-  GUI agent learning with generated interaction data.
+  Online RL framework for GUI agents in which VLMs generate the training tasks and judge success from trajectory screenshots, with OSWorld and AndroidLab checkpoints trained from UI-TARS-7B-DPO.

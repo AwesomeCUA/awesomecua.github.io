@@ -51,7 +51,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Browser automation agent framework.",
+  "summary": "Library adding natural-language commands to Playwright: accessibility-tree single actions, multi-step tasks that can use screenshots, an MCP client and action caching for replay without LLM calls.",
   "topics": [
     "web-navigation"
   ],

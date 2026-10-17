@@ -1,6 +1,6 @@
 # Mobile3M
 
-Mobile interface data for multimodal UI research.
+Pre-training corpus for Xiaomi's MobileVLM, distributed as per-app graph archives for mobile apps such as Baidu Map, QQ Music, Ctrip and Vipshop.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-b80bfa0a4939a493a11f/
 - Original source: https://huggingface.co/datasets/xwk123/Mobile3M

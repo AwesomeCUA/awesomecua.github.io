@@ -61,7 +61,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "SDK for agent environments, evaluation, and training.",
+  "summary": "SDK for RL environments and evals spanning coding, browser, computer-use and robotics agents, whose environments expose SSH, MCP, CDP or VNC capabilities behind a minimal start-and-grade protocol.",
   "topics": [
     "evaluation",
     "reinforcement-learning"

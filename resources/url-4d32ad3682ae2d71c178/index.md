@@ -1,6 +1,6 @@
 # UI-TARS 1.5 7B
 
-Released model checkpoint associated with UI-TARS.
+UI-TARS 1.5 GUI-agent checkpoint in the Qwen2.5-VL architecture with about 8.3B parameters stored in FP32, released under Apache-2.0 for English image-text-to-text use in Transformers.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-4d32ad3682ae2d71c178/
 - Original source: https://huggingface.co/ByteDance-Seed/UI-TARS-1.5-7B

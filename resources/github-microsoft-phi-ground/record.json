@@ -66,7 +66,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "GUI grounding model and associated evaluation resources.",
+  "summary": "Microsoft GUI grounding models from an empirical study of grounding training, from data collection to model training, released as Phi-Ground-4B-7C with evaluation code.",
   "topics": [
     "grounding"
   ],

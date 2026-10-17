@@ -1,6 +1,6 @@
 # OS-Sentinel
 
-Safety-oriented research for computer-use agents.
+Safety-checking environment and benchmark for mobile agents on AndroidWorld that judges proposed actions with rule-based and VLM-based checks, evaluated on the MobileRisk trajectory dataset.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-os-copilot-os-sentinel/
 - Original source: https://github.com/OS-Copilot/OS-Sentinel

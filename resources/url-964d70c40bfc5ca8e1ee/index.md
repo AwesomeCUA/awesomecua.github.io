@@ -1,6 +1,6 @@
 # AgentNet
 
-Computer-use demonstrations released with OpenCUA.
+22.6K human-annotated desktop computer-use tasks on Windows, macOS and Ubuntu, released with OpenCUA for training and evaluating vision-language-action models.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-964d70c40bfc5ca8e1ee/
 - Original source: https://huggingface.co/datasets/xlangai/AgentNet

@@ -35,6 +35,16 @@
       "url": "https://huggingface.co/api/datasets/osunlp/GUI-Drag-dataset"
     },
     {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T16:10:54Z",
+      "role": "primary",
+      "sha256": "907c8a5169c180491ef8c26c9428b2c67bc4e26f472d6423ce3715cbe47f76ef",
+      "supports": [
+        "notes"
+      ],
+      "url": "https://huggingface.co/datasets/osunlp/GUI-Drag-dataset/raw/main/README.md"
+    },
+    {
       "method": "huggingface_api",
       "retrieved_at": "2026-10-16T06:38:26Z",
       "role": "primary",
@@ -68,7 +78,7 @@
     }
   ],
   "name": "GUI-Drag",
-  "notes": "",
+  "notes": "The card links its paper (arXiv 2601.06031) and code repository (OSU-NLP-Group/GUI-Drag). Neither is a reviewed catalog record yet, so no relation is recorded.",
   "published_at": null,
   "relations": [],
   "review_status": "curated",

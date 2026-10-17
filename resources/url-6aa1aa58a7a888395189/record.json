@@ -40,6 +40,16 @@
       "url": "https://huggingface.co/api/datasets/xlangai/CUA-Gym"
     },
     {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T16:10:25Z",
+      "role": "primary",
+      "sha256": "962cd9162bea83f7adfedb3da50129bcf4203ae65176bdf53f0af6788b9603ef",
+      "supports": [
+        "relations"
+      ],
+      "url": "https://huggingface.co/datasets/xlangai/CUA-Gym/raw/main/README.md"
+    },
+    {
       "method": "huggingface_api",
       "retrieved_at": "2026-10-16T06:38:26Z",
       "role": "primary",
@@ -75,7 +85,13 @@
   "name": "CUA-Gym",
   "notes": "",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/xlangai/CUA-Gym/raw/main/README.md",
+      "target_id": "arxiv:2605.25624",
+      "type": "documented_by"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
   "summary": "Computer-use environment and task resources for agent research.",

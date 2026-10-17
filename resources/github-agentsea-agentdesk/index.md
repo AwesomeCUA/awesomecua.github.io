@@ -1,6 +1,6 @@
 # AgentDesk
 
-Virtual desktop provisioning and control tools for agents.
+Desktop environments that AI agents control programmatically, run locally with Docker or remotely on Kubernetes, built on the agentd REST daemon and offering a coordinate-grid overlay for LMM input.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-agentsea-agentdesk/
 - Original source: https://github.com/agentsea/agentdesk

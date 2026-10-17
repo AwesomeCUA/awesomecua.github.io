@@ -7,7 +7,7 @@ OmegaUse combines exploratory and taxonomy-guided data synthesis with supervised
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: android, linux
+- Environments: android, desktop, linux
 - Topics: data-generation, reinforcement-learning, grounding, evaluation
 - Evidence checked: 2026-10-16T06:36:43Z
 - ID: arxiv:2601.20380

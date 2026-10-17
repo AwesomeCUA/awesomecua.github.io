@@ -42,10 +42,16 @@
   "name": "GUI-G2",
   "notes": "",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/ZJU-REAL/GUI-G2/HEAD/README.md",
+      "target_id": "arxiv:2507.15846",
+      "type": "documented_by"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "GUI grounding model and associated training code.",
+  "summary": "GUI grounding models at 3B and 7B trained with Gaussian rewards for click proximity to element centers and region coverage, with variance scaled to element size.",
   "topics": [
     "grounding"
   ],

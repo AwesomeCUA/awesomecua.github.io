@@ -1,6 +1,6 @@
 # AssistGUI
 
-Task-oriented desktop GUI automation framework.
+LLM-based assistant for automating work in desktop productivity software by watching the screen and issuing mouse and keyboard commands; its repository says the code will be released later.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-showlab-assistgui/
 - Original source: https://github.com/showlab/assistgui

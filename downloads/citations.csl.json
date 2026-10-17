@@ -3443,6 +3443,97 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2310.10634v1",
+    "archive": "arXiv",
+    "archive_location": "2310.10634",
+    "author": [
+      {
+        "literal": "Tianbao Xie"
+      },
+      {
+        "literal": "Fan Zhou"
+      },
+      {
+        "literal": "Zhoujun Cheng"
+      },
+      {
+        "literal": "Peng Shi"
+      },
+      {
+        "literal": "Luoxuan Weng"
+      },
+      {
+        "literal": "Yitao Liu"
+      },
+      {
+        "literal": "Toh Jing Hua"
+      },
+      {
+        "literal": "Junning Zhao"
+      },
+      {
+        "literal": "Qian Liu"
+      },
+      {
+        "literal": "Che Liu"
+      },
+      {
+        "literal": "Leo Z. Liu"
+      },
+      {
+        "literal": "Yiheng Xu"
+      },
+      {
+        "literal": "Hongjin Su"
+      },
+      {
+        "literal": "Dongchan Shin"
+      },
+      {
+        "literal": "Caiming Xiong"
+      },
+      {
+        "literal": "Tao Yu"
+      }
+    ],
+    "citation-key": "arxiv_2310_10634",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "15d7945fcf1ee4290761d34bbeef9e24bed82bb748bdb7aaa791457c42892fec",
+        "submitted_at": "2023-10-16T17:54:53Z",
+        "updated_at": "2023-10-16T17:54:53Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2310.10634v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2310.10634",
+      "catalog_id": "arxiv:2310.10634",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2023-10-16",
+      "identifiers": {
+        "arxiv": "2310.10634"
+      },
+      "record_updated_at": "2023-10-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2310.10634",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2023-10-16; Recorded arXiv version: v1; Recorded version updated: 2023-10-16T17:54:53Z.",
+    "title": "OpenAgents: An Open Platform for Language Agents in the Wild",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2310.11441v2",
     "archive": "arXiv",
     "archive_location": "2310.11441",
@@ -28647,6 +28738,70 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2507.21071v2",
+    "archive": "arXiv",
+    "archive_location": "2507.21071",
+    "author": [
+      {
+        "literal": "Qinglong Yang"
+      },
+      {
+        "literal": "Haoming Li"
+      },
+      {
+        "literal": "Haotian Zhao"
+      },
+      {
+        "literal": "Xiaokai Yan"
+      },
+      {
+        "literal": "Jingtao Ding"
+      },
+      {
+        "literal": "Fengli Xu"
+      },
+      {
+        "literal": "Yong Li"
+      }
+    ],
+    "citation-key": "arxiv_2507_21071",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "947c85efc189635a118b823b8ca0787ff6b1c922d1af8b21a8686b7df9a27cf8",
+        "submitted_at": "2025-06-09T06:38:41Z",
+        "updated_at": "2026-03-16T09:14:01Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2507.21071v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2507.21071",
+      "catalog_id": "arxiv:2507.21071",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-06-09",
+      "identifiers": {
+        "arxiv": "2507.21071"
+      },
+      "record_updated_at": "2026-03-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2507.21071",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2025-06-09; Recorded arXiv version: v2; Recorded version updated: 2026-03-16T09:14:01Z.",
+    "title": "FingerTip 20K: A Benchmark for Proactive and Personalized Mobile LLM Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2507.21953v1",
     "archive": "arXiv",
     "archive_location": "2507.21953",
@@ -53365,6 +53520,73 @@
     },
     "note": "First published: 2026-05-26; Recorded arXiv version: v1; Recorded version updated: 2026-05-26T04:53:53Z.",
     "title": "MobileExplorer: Accelerating On-Device Inference for Mobile GUI Agents via Online Exploration",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.28534v1",
+    "archive": "arXiv",
+    "archive_location": "2605.28534",
+    "author": [
+      {
+        "literal": "Zheng Wu"
+      },
+      {
+        "literal": "Chengcheng Han"
+      },
+      {
+        "literal": "Zhengxi Lu"
+      },
+      {
+        "literal": "Tianjie Ju"
+      },
+      {
+        "literal": "Yanyu Chen"
+      },
+      {
+        "literal": "Qi Gu"
+      },
+      {
+        "literal": "Xunliang Cai"
+      },
+      {
+        "literal": "Zhuosheng Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2605_28534",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "78a5f5d7df9a8b6f1dbdb5693849c728a4b97e1f25c6e2e24d0c2418628c64e7",
+        "submitted_at": "2026-05-27T14:29:41Z",
+        "updated_at": "2026-05-27T14:29:41Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.28534v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.28534",
+      "catalog_id": "arxiv:2605.28534",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-27",
+      "identifiers": {
+        "arxiv": "2605.28534"
+      },
+      "record_updated_at": "2026-05-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.28534",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-27; Recorded arXiv version: v1; Recorded version updated: 2026-05-27T14:29:41Z.",
+    "title": "GUI-CIDER: Mid-training GUI Agents via Causal Internalization and Density-aware Exemplar Reselection",
     "type": "article",
     "version": "1"
   },

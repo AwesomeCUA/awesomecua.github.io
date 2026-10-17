@@ -132,7 +132,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "GUI grounding data released by the OS-Atlas project.",
+  "summary": "GUI grounding pre-training data for OS-Atlas in desktop (Linux, macOS, Windows), mobile and web domains, with element boxes stored as relative left, top, right and bottom ratios.",
   "topics": [
     "grounding",
     "data-generation"

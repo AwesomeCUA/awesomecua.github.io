@@ -123,7 +123,13 @@
   "name": "Spider2-V",
   "notes": "",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/xlang-ai/Spider2-V/HEAD/README.md",
+      "target_id": "arxiv:2407.10956",
+      "type": "documented_by"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
   "summary": "Visual agent evaluation on data-science and engineering workflows.",

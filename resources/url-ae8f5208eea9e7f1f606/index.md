@@ -21,9 +21,12 @@ The release provides JSONL data and API annotations. This is Android intent-call
 ## License declarations
 
 - code: not recorded
-- data: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/mllmTeam/DroidCall/raw/main/README.md
 - document: not recorded
 - weights: not recorded
+
+- data review: The Hub dataset card declares Apache-2.0 in its metadata header (license: apache-2.0). The companion repository's MIT code license is a separate declaration.
+  Sources: https://huggingface.co/datasets/mllmTeam/DroidCall/raw/main/README.md
 
 ## Primary evidence
 

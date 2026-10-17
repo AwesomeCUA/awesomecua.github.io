@@ -22006,8 +22006,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2310.10634",
       "catalog_id": "arxiv:2310.10634",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2023-10-16",
       "identifiers": {
         "arxiv": "2310.10634"
@@ -75323,8 +75323,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2507.21071",
       "catalog_id": "arxiv:2507.21071",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-06-09",
       "identifiers": {
         "arxiv": "2507.21071"
@@ -134686,8 +134686,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.28534",
       "catalog_id": "arxiv:2605.28534",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-27",
       "identifiers": {
         "arxiv": "2605.28534"

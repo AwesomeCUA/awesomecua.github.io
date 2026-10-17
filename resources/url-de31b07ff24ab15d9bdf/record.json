@@ -84,7 +84,7 @@
     {
       "evidence_url": "https://huggingface.co/PrentisAI/GroundGUI-8B/raw/main/README.md",
       "target_id": "github:prentisai/groundgui",
-      "type": "uses"
+      "type": "variant_of"
     },
     {
       "evidence_url": "https://huggingface.co/PrentisAI/GroundGUI-8B/raw/main/README.md",

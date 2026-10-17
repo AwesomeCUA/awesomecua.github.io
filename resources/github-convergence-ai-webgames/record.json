@@ -65,7 +65,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Browser games used to evaluate interactive agents.",
+  "summary": "150 client-side web challenges in five capability domains, built to be easy for humans but hard for browsing agents, each revealing a password when solved.",
   "topics": [
     "evaluation"
   ],

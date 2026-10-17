@@ -1,13 +1,13 @@
 # RiOSWorld
 
-Evaluation environment for agents operating iOS interfaces.
+Measures risky behavior of multimodal computer-use agents in an Ubuntu virtual machine, with risk scenarios such as phishing emails and released evaluation trajectories.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-yjyddq-riosworld/
 - Original source: https://github.com/yjyddq/RiOSWorld
 - Kind: benchmark
 - Review: curated
 - Scope: core
-- Environments: ios
+- Environments: desktop, linux
 - Topics: evaluation
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:yjyddq/riosworld

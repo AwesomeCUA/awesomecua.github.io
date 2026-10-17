@@ -1,6 +1,6 @@
 # GUIHalluBench
 
-Benchmark investigating hallucinations in GUI agents.
+Measures hallucination in UI-element parsing by matching the boxes and descriptions a model lists for 1,000 English and 1,000 Chinese screenshots against human annotations.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-ant-research-guihallubench/
 - Original source: https://github.com/ant-research/GUIHalluBench

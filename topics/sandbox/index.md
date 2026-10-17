@@ -87,7 +87,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/sandbox/recor
 - [Agent Infra Sandbox](https://awesomecua.github.io/resources/github-agent-infra-sandbox/) — Date not recorded
   Sandbox environments supporting computer and browser interaction.
 - [AgentDesk](https://awesomecua.github.io/resources/github-agentsea-agentdesk/) — Date not recorded
-  Virtual desktop provisioning and control tools for agents.
+  Desktop environments that AI agents control programmatically, run locally with Docker or remotely on Kubernetes, built on the agentd REST daemon and offering a coordinate-grid overlay for LMM input.
 - [AndroidEnv](https://awesomecua.github.io/resources/github-google-deepmind-android-env/) — Date not recorded
   Android device-control platform with screenshots, accessibility telemetry, input actions, and an optional reinforcement-learning task interface.
 - [Browserbase Cloud](https://awesomecua.github.io/resources/url-978d1dcd70fde8661b9e/) — Date not recorded
@@ -97,7 +97,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/sandbox/recor
 - [E2B](https://awesomecua.github.io/resources/url-fda52d641c6b482bda7b/) — Date not recorded
   Sandbox infrastructure for executing agent workloads.
 - [E2B Desktop](https://awesomecua.github.io/resources/github-e2b-dev-desktop/) — Date not recorded
-  Desktop sandboxes for computer-use agents.
+  Open-source, isolated Linux Xfce desktop sandboxes for computer-use agents, driven from Python or JavaScript SDKs with screen streaming, mouse, keyboard and window control, screenshots and shell.
 - [Hyperbrowser](https://awesomecua.github.io/resources/url-053ebfe0afac66c86222/) — Date not recorded
   Browser infrastructure and automation services for AI agents.
 - [Lume](https://awesomecua.github.io/resources/github-trycua-lume/) — Date not recorded
@@ -107,6 +107,6 @@ Full source records: https://awesomecua.github.io/downloads/topics/sandbox/recor
 - [ScienceBoard VMware environment](https://awesomecua.github.io/resources/url-75917f2c2b2802aafd3e/) — Date not recorded
   A prebuilt Ubuntu virtual-machine archive containing the software environment used for ScienceBoard scientific computer-use tasks.
 - [Steel Browser](https://awesomecua.github.io/resources/github-steel-dev-steel-browser/) — Date not recorded
-  Browser infrastructure for agent applications.
+  Open-source browser API managing Chrome sessions for agents, reachable through Puppeteer, Playwright or Selenium over CDP, with persisted cookies, proxy rotation, stealth and a session debugging UI.
 - [Steel Cloud](https://awesomecua.github.io/resources/url-b940a884f200a916a61b/) — Date not recorded
   Managed browser infrastructure associated with Steel Browser.

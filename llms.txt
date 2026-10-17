@@ -67,7 +67,7 @@ Resources with publication metadata also serve `publication-citation.bib` and `p
 - [中文主题目录](https://awesomecua.github.io/zh/topics/)
 - [Topic manifest](https://awesomecua.github.io/downloads/topics.json): exact reviewed resource IDs, counts, subset URLs and SHA-256 fingerprints. Topic memberships overlap; counts must not be summed.
 
-Each topic page has index.md. Each /downloads/topics/<topic>/ directory serves records.jsonl, citations.bib and citations.csl.json. Pass records.jsonl to export_rag.py --input to build a topic-specific retrieval corpus.
+The first page of each topic has an index.md listing all of its resources. Each /downloads/topics/<topic>/ directory serves records.jsonl, citations.bib and citations.csl.json. Pass records.jsonl to export_rag.py --input to build a topic-specific retrieval corpus.
 
 ## Repository identity
 

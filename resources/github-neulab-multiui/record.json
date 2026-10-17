@@ -99,7 +99,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Multilingual UI understanding and interaction data.",
+  "summary": "7.3 million training samples built from webpage UIs and structured with enhanced accessibility trees, for text-rich visual understanding, released with UIX-Qwen2 models.",
   "topics": [
     "screen-understanding",
     "data-generation"

@@ -61,7 +61,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "adjacent",
-  "summary": "Cross-platform UI automation infrastructure.",
+  "summary": "Open-source WebDriver-based automation server for mobile, desktop and IoT apps, extended by per-platform drivers for iOS, Android, macOS and Windows, plugins, and clients in Java, Python, Ruby and C#.",
   "topics": [
     "automation"
   ],

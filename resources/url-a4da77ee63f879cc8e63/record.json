@@ -79,7 +79,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Released model checkpoint associated with Fara.",
+  "summary": "Microsoft's Fara checkpoint, a Qwen2.5-VL-architecture image-text-to-text model with about 8.3B BF16 parameters, English, MIT-licensed and linked to arXiv paper 2511.19663.",
   "topics": [
     "planning",
     "web-navigation"

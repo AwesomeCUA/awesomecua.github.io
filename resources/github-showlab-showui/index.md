@@ -1,6 +1,6 @@
 # ShowUI
 
-Vision-language-action model for GUI interaction.
+Lightweight GUI-agent vision-language-action model from Show Lab and Microsoft, released with UI-guided token selection, training code, the ShowUI-web and ShowUI-desktop datasets and vLLM inference.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-showlab-showui/
 - Original source: https://github.com/showlab/ShowUI

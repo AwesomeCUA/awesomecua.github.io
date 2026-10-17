@@ -1,6 +1,6 @@
 # InfiGUI-R1
 
-Reasoning-oriented GUI agent model.
+3B GUI agent trained in two stages: distilling spatial reasoning from teacher models, then reinforcement learning that rewards accurate sub-goals and trains error recovery.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-reallm-labs-infigui-r1/
 - Original source: https://github.com/Reallm-Labs/InfiGUI-R1

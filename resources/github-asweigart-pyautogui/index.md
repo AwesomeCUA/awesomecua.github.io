@@ -1,6 +1,6 @@
 # PyAutoGUI
 
-Mouse, keyboard, and screenshot automation library.
+Cross-platform Python module for scripted mouse and keyboard control, message boxes and screenshots with on-screen image search, working on the primary monitor under Windows, macOS and Linux.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-asweigart-pyautogui/
 - Original source: https://github.com/asweigart/pyautogui

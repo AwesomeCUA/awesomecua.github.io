@@ -51,7 +51,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Visual browser workflow automation framework.",
+  "summary": "Browser workflow automation that relies on vision LLMs and a swarm of agents instead of fixed XPath selectors, offered as a Playwright-compatible SDK and a no-code workflow builder.",
   "topics": [
     "workflow"
   ],

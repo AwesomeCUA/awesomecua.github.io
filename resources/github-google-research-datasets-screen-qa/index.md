@@ -1,6 +1,6 @@
 # ScreenQA
 
-Question-answering data over mobile interface screenshots.
+About 86,000 human-written question-answer pairs over 35,000 Rico mobile screenshots, plus ScreenQA Short and ComplexQA variants, for benchmarking screen content understanding.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-google-research-datasets-screen-qa/
 - Original source: https://github.com/google-research-datasets/screen_qa

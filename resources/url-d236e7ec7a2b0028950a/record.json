@@ -80,7 +80,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Released model checkpoint associated with Open-AutoGLM.",
+  "summary": "Multilingual variant of the AutoGLM phone-agent checkpoint for Open-AutoGLM, likewise fine-tuned from GLM-4.1V-9B-Base with about 10.3B BF16 parameters.",
   "topics": [
     "mobile-navigation"
   ],

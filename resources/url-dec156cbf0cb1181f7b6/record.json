@@ -1,0 +1,57 @@
+{
+  "aliases": [
+    "Nova Act"
+  ],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T17:18:21Z",
+      "role": "primary",
+      "sha256": "4e4e60092351a85d0b99186a745d6295b170958be59092a786eda369923bd691",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://aws.amazon.com/nova/act/"
+    }
+  ],
+  "id": "url:dec156cbf0cb1181f7b6",
+  "identifiers": {},
+  "kind": "product",
+  "last_verified_at": "2026-10-17T17:18:21Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://aws.amazon.com/nova/act/"
+    }
+  ],
+  "name": "Amazon Nova Act",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "AWS service for building and deploying agents that automate browser-based UI workflows from natural language and Python, powered by a custom Nova 2 Lite model.",
+  "topics": [
+    "automation",
+    "web-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://aws.amazon.com/nova/act/"
+}

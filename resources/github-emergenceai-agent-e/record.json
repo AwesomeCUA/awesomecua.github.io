@@ -57,10 +57,16 @@
   "name": "Agent E",
   "notes": "",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/EmergenceAI/Agent-E/HEAD/README.md",
+      "target_id": "arxiv:2407.13032",
+      "type": "documented_by"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Web automation agent with hierarchical task execution.",
+  "summary": "Browser automation agent on the AG2 framework that pairs a planner agent with a browser navigation agent to fill forms, search shops and work through sites, also callable over a local HTTP API.",
   "topics": [
     "web-navigation"
   ],

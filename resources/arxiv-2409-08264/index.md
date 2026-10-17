@@ -7,7 +7,7 @@ Adapts real-desktop evaluation to Windows applications and supports parallel exe
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: windows
+- Environments: desktop, windows
 - Topics: evaluation, cross-app
 - Evidence checked: 2026-10-16T06:31:32Z
 - ID: arxiv:2409.08264

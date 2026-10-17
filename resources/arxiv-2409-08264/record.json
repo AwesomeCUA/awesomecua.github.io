@@ -25,6 +25,7 @@
     }
   },
   "environments": [
+    "desktop",
     "windows"
   ],
   "evidence": [

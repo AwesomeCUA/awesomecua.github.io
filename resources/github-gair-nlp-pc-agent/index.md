@@ -1,6 +1,6 @@
 # PC-Agent
 
-Agent framework for desktop workflows.
+Human-cognition-transfer framework for PC agents: PC Tracker logs human computer use, cognition completion turns logs into cognitive trajectories, and a planner works with a grounding agent.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-gair-nlp-pc-agent/
 - Original source: https://github.com/GAIR-NLP/PC-Agent

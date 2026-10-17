@@ -7,7 +7,7 @@ This study tests vision-language models as task-completion judges using screensh
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: macos
+- Environments: desktop, macos
 - Topics: evaluation, self-reflection
 - Evidence checked: 2026-10-16T06:36:47Z
 - ID: arxiv:2511.20067

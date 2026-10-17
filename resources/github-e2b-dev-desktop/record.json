@@ -67,7 +67,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Desktop sandboxes for computer-use agents.",
+  "summary": "Open-source, isolated Linux Xfce desktop sandboxes for computer-use agents, driven from Python or JavaScript SDKs with screen streaming, mouse, keyboard and window control, screenshots and shell.",
   "topics": [
     "sandbox"
   ],

@@ -274,13 +274,13 @@ Full source records: https://awesomecua.github.io/downloads/topics/robustness/re
 - [GUI-Robust](https://awesomecua.github.io/resources/github-chessbean1-gui-robust/) — Date not recorded
   Evaluation scripts and linked data for comparing GUI action predictions and task execution under ordinary and anomalous interface conditions.
 - [GUIHalluBench](https://awesomecua.github.io/resources/github-ant-research-guihallubench/) — Date not recorded
-  Benchmark investigating hallucinations in GUI agents.
+  Measures hallucination in UI-element parsing by matching the boxes and descriptions a model lists for 1,000 English and 1,000 Chinese screenshots against human annotations.
 - [Mobile-Bench-v2 released data](https://awesomecua.github.io/resources/url-1d5b85321b98765141fc/) — Date not recorded
   Offline mobile-agent task data spanning common tasks and released noisy, contaminated and ambiguous-instruction subsets.
 - [ScreenSpot-v2 instruction variants](https://awesomecua.github.io/resources/url-17729e1c532ba7043404/) — Date not recorded
   Instruction variants over ScreenSpot-v2 screenshots that distinguish original commands, explicit actions, target descriptions and impossible operations.
 - [WorldGUI](https://awesomecua.github.io/resources/github-showlab-worldgui/) — Date not recorded
-  GUI agent evaluation with varied initial states.
+  611 desktop GUI tasks that agents must complete from varied starting points, shipped with instructional videos and project files, plus the self-reflective WorldGUI-Agent baseline.
 
 ## 数据集
 

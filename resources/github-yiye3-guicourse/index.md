@@ -1,6 +1,6 @@
 # GUICourse
 
-GUI instruction data and model training resources.
+Three datasets for turning general VLMs into GUI agents: GUIEnv for OCR and grounding, GUIAct with 67k single-step and 15k multi-step web and Android actions, and GUIChat dialogues.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-yiye3-guicourse/
 - Original source: https://github.com/yiye3/GUICourse

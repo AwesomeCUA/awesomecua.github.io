@@ -247,9 +247,9 @@ Full source records: https://awesomecua.github.io/downloads/topics/efficiency/re
 - [DiMo-GUI](https://awesomecua.github.io/resources/github-vivo-dimo-gui/) — Date not recorded
   GUI grounding research using modality-aware visual reasoning and test-time scaling.
 - [ShowUI](https://awesomecua.github.io/resources/github-showlab-showui/) — Date not recorded
-  Vision-language-action model for GUI interaction.
+  Lightweight GUI-agent vision-language-action model from Show Lab and Microsoft, released with UI-guided token selection, training code, the ShowUI-web and ShowUI-desktop datasets and vLLM inference.
 - [ShowUI 2B](https://awesomecua.github.io/resources/url-c0f39f7cf2cd9c18e8bd/) — Date not recorded
-  Released model checkpoint associated with ShowUI.
+  ShowUI vision-language-action checkpoint fine-tuned from Qwen2-VL-2B-Instruct, published as a single PyTorch weight file under the MIT license and tagged for GUI agents and computer use.
 - [UI-AGILE checkpoint](https://awesomecua.github.io/resources/url-b94e285c3f757e2d0f3a/) — Date not recorded
   The released UI-AGILE model for GUI grounding with reward shaping, crop-based resampling and decomposed selection during inference.
 

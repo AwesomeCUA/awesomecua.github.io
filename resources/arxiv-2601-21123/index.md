@@ -7,7 +7,7 @@ CUA-Skill encodes Windows application knowledge in parameterized skills and exec
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: windows
+- Environments: desktop, windows
 - Topics: tool-integration, planning, memory, automation
 - Evidence checked: 2026-10-16T06:36:43Z
 - ID: arxiv:2601.21123

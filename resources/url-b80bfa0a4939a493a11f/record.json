@@ -70,7 +70,8 @@
       "role": "primary",
       "sha256": "8a097dbc7384d3743f262dc0164c176ed577bf720cbbc92ff8b3cd820d1aed4f",
       "supports": [
-        "details.dataset_profile"
+        "details.dataset_profile",
+        "relations"
       ],
       "url": "https://huggingface.co/datasets/xwk123/Mobile3M/raw/3df26694ff9186604eb44a8e633894d3ece67ed9/README.md"
     },
@@ -115,10 +116,16 @@
   "name": "Mobile3M",
   "notes": "",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/xwk123/Mobile3M/raw/3df26694ff9186604eb44a8e633894d3ece67ed9/README.md",
+      "target_id": "arxiv:2409.14818",
+      "type": "documented_by"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Mobile interface data for multimodal UI research.",
+  "summary": "Pre-training corpus for Xiaomi's MobileVLM, distributed as per-app graph archives for mobile apps such as Baidu Map, QQ Music, Ctrip and Vipshop.",
   "topics": [
     "screen-understanding"
   ],

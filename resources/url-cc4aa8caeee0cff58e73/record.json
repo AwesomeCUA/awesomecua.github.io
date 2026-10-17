@@ -135,7 +135,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Mobile screenshot and interface hierarchy dataset.",
+  "summary": "Over 600,000 Android screenshot and view-hierarchy pairs from more than 20,000 Google Play apps, collected with an optimized DroidBot, with complete per-app traces.",
   "topics": [
     "screen-understanding"
   ],

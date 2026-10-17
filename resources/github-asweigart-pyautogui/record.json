@@ -45,7 +45,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "adjacent",
-  "summary": "Mouse, keyboard, and screenshot automation library.",
+  "summary": "Cross-platform Python module for scripted mouse and keyboard control, message boxes and screenshots with on-screen image search, working on the primary monitor under Windows, macOS and Linux.",
   "topics": [
     "automation"
   ],

@@ -1,6 +1,6 @@
 # Surfkit
 
-Toolkit for building and deploying computer-use agents.
+Python toolkit and CLI for building, publishing and running multimodal agents that operate devices such as Ubuntu desktops, locally or on Kubernetes, with task trackers and an agent hub.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-agentsea-surfkit/
 - Original source: https://github.com/agentsea/surfkit

@@ -7,7 +7,7 @@ WeaveBench requires agents to combine GUI, command-line and code operations with
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: linux
+- Environments: desktop, linux
 - Topics: evaluation, long-horizon, workflow, tool-integration
 - Evidence checked: 2026-10-16T06:36:36Z
 - ID: arxiv:2606.09426

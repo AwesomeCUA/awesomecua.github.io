@@ -1,6 +1,6 @@
 # WorldGUI
 
-GUI agent evaluation with varied initial states.
+611 desktop GUI tasks that agents must complete from varied starting points, shipped with instructional videos and project files, plus the self-reflective WorldGUI-Agent baseline.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-showlab-worldgui/
 - Original source: https://github.com/showlab/WorldGUI

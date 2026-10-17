@@ -61,7 +61,8 @@
       "role": "primary",
       "sha256": "72ca3f23114c3a08fefb724573acf10c9f0a1b3d4a50d811c98356264ecf6ffc",
       "supports": [
-        "details.dataset_profile"
+        "details.dataset_profile",
+        "relations"
       ],
       "url": "https://raw.githubusercontent.com/OSU-NLP-Group/UGround/HEAD/README.md"
     },
@@ -101,10 +102,16 @@
   "name": "UGround V1 Data",
   "notes": "",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/OSU-NLP-Group/UGround/HEAD/README.md",
+      "target_id": "github:osu-nlp-group/uground",
+      "type": "component_of"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Training data released with UGround V1.",
+  "summary": "Gated web grounding training data for UGround in Web-Hybrid and Web-Direct subsets, with a bounding-box version whose coordinates are normalized to 0-999.",
   "topics": [
     "grounding",
     "data-generation"

@@ -57,7 +57,13 @@
   "name": "ClawGUI",
   "notes": "",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/ZJU-REAL/ClawGUI/HEAD/README.md",
+      "target_id": "arxiv:2604.11784",
+      "type": "documented_by"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
   "summary": "Framework for GUI agent training, evaluation, and deployment.",

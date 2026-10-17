@@ -100,7 +100,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "GUI trajectory synthesis using environment interaction.",
+  "summary": "Interaction-driven pipeline that synthesizes mobile and web GUI agent trajectories without human supervision or predefined tasks, via reverse task synthesis and a trajectory reward model.",
   "topics": [
     "data-generation"
   ],

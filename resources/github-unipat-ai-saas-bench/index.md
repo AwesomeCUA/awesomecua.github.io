@@ -1,6 +1,6 @@
 # SaaS-Bench
 
-Benchmark for agents interacting with SaaS applications.
+106 browser-driven business workflows across 23 self-hosted SaaS apps in six domains, scored by per-task verifiers that read each app's database and give partial credit.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-unipat-ai-saas-bench/
 - Original source: https://github.com/UniPat-AI/SaaS-Bench

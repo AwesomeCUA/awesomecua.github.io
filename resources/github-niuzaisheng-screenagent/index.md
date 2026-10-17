@@ -1,6 +1,6 @@
 # ScreenAgent
 
-Agent implementation for controlling desktop interfaces.
+Environment and agent in which a vision-language model controls real desktops over VNC with mouse and keyboard in plan, act and reflect stages, plus a hand-annotated dataset of daily computer tasks.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-niuzaisheng-screenagent/
 - Original source: https://github.com/niuzaisheng/ScreenAgent

@@ -64,7 +64,8 @@
         "environments",
         "topics",
         "scope",
-        "details.dataset_profile"
+        "details.dataset_profile",
+        "relations"
       ],
       "url": "https://raw.githubusercontent.com/AriaUI/Aria-UI/HEAD/README.md"
     },
@@ -104,7 +105,13 @@
   "name": "Aria-UI Context-aware Data",
   "notes": "The publisher reports approximately 992K instruction-output pairs in its repository. The Hub card contains only a license declaration; schema quality and exact sample counts were not independently verified.",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/AriaUI/Aria-UI/HEAD/README.md",
+      "target_id": "github:ariaui/aria-ui",
+      "type": "component_of"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
   "summary": "Episode-based mobile GUI grounding data released with Aria-UI for incorporating interaction history into target localization.",

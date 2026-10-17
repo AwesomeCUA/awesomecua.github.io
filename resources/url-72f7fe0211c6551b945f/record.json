@@ -38,7 +38,8 @@
       "sha256": "647d9e7bdad5fe2c03a8cfcd34d93f3b2bf7c1553b517a4a843bc0113fa47456",
       "supports": [
         "identity",
-        "summary"
+        "summary",
+        "relations"
       ],
       "url": "https://huggingface.co/api/collections/LangAGI-Lab/web-shepherd-advancing-prms-for-reinforcing-web-agents-682b4f4ad607fc27c4dc49e8"
     },
@@ -94,7 +95,13 @@
   "name": "WebShepherd 3B",
   "notes": "The official project-linked collection identifies this public 3B checkpoint. The README uses a separate unavailable WebShepherd/web-shepherd-base URL; redirect equivalence is not asserted. Two safetensors shards and a Qwen2 causal-language-model configuration are present. No model card or weight license is published in the inspected manifest. The separately announced multimodal 3B model is not assumed released.",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/api/collections/LangAGI-Lab/web-shepherd-advancing-prms-for-reinforcing-web-agents-682b4f4ad607fc27c4dc49e8",
+      "target_id": "arxiv:2505.15277",
+      "type": "documented_by"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
   "summary": "A public text-based process-reward checkpoint from the Web-Shepherd collection for scoring web-agent decisions against task checklists.",

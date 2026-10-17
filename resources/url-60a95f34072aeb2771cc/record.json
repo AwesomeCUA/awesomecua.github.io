@@ -80,7 +80,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Released model checkpoint associated with EvoCUA.",
+  "summary": "Larger EvoCUA computer-use agent checkpoint (20260105 release) with about 33B BF16 parameters in the Qwen3-VL architecture, tagged for OSWorld and for English and Chinese.",
   "topics": [
     "reinforcement-learning",
     "planning"

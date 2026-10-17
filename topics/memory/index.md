@@ -266,17 +266,17 @@ Full source records: https://awesomecua.github.io/downloads/topics/memory/record
 ## Engineering & industry
 
 - [Agent S](https://awesomecua.github.io/resources/github-simular-ai-agent-s/) — Date not recorded
-  Agent framework for general computer interaction.
+  Simular's open-source framework for computer-use agents that click, type and scroll through desktop and web apps on macOS, Windows and Linux; its third generation, Agent S3, reports 72.6% on OSWorld.
 - [Agent Workflow Memory implementation](https://awesomecua.github.io/resources/github-zorazrw-agent-workflow-memory/) — Date not recorded
   Research code that extracts reusable browser-task routines from demonstrations or prior executions, stores them as workflow memory and reuses them during subsequent navigation.
 - [AndroTMem inference and evaluation code](https://awesomecua.github.io/resources/github-cvc2233-androtmem/) — Date not recorded
   A public Android GUI evaluation framework with action-history, summary and anchored-memory prompt modes, plus step-action and dependency-aware task scoring.
 - [AppAgent](https://awesomecua.github.io/resources/github-tencentqqgylab-appagent/) — Date not recorded
-  Mobile app agent using exploration and reusable knowledge.
+  Multimodal agent that operates Android apps through taps and swipes without back-end access, building a reusable knowledge base from autonomous exploration or from watching human demonstrations.
 - [AppAgentX](https://awesomecua.github.io/resources/github-westlake-agi-lab-appagentx/) — Date not recorded
   Mobile agent research using accumulated interaction experience.
 - [Cradle](https://awesomecua.github.io/resources/github-baai-agents-cradle/) — Date not recorded
-  General computer-control framework using visual interfaces.
+  Framework in which foundation models control games and software from screenshots alone, acting through keyboard and mouse, shown on RDR2, Stardew Valley, Cities: Skylines and Dealer's Life 2.
 - [LiteWebAgent](https://awesomecua.github.io/resources/github-pathonaiorg-litewebagent/) — Date not recorded
   Modular web-agent framework with browser control, planning, workflow memory, and tree-search components, plus web and extension interfaces.
 - [Lumen browser agent](https://awesomecua.github.io/resources/github-omxyz-lumen/) — Date not recorded

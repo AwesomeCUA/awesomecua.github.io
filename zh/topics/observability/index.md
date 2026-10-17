@@ -66,7 +66,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/observability
 ## 工程与产业
 
 - [BrowserTrace](https://awesomecua.github.io/resources/github-aaronlab-browsertrace/) — Date not recorded
-  Local trace viewer for browser-agent runs.
+  Local, cloud-free replay debugger that records each Browser Use step's screenshot, URL, action and model I/O as a timeline and reports the step at which a failed run diverges from a known-good one.
 - [GUI-HARVEST](https://awesomecua.github.io/resources/github-garyyang12345-gui-harvest/) — Date not recorded
   Optimizes GUI-agent execution code from repeated rollout evidence and checks proposed changes against fixed validation gates.
 - [Lumen browser agent](https://awesomecua.github.io/resources/github-omxyz-lumen/) — Date not recorded

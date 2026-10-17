@@ -81,7 +81,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Mobile GUI data released by the OpenBMB team.",
+  "summary": "Chinese Android GUI benchmark released with AgentCPM-GUI, with a grounding track for widgets and OCR text and an agent track for multi-step tasks in Chinese apps.",
   "topics": [
     "data-generation"
   ],

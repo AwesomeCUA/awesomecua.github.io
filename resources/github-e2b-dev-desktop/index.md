@@ -1,6 +1,6 @@
 # E2B Desktop
 
-Desktop sandboxes for computer-use agents.
+Open-source, isolated Linux Xfce desktop sandboxes for computer-use agents, driven from Python or JavaScript SDKs with screen streaming, mouse, keyboard and window control, screenshots and shell.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-e2b-dev-desktop/
 - Original source: https://github.com/e2b-dev/desktop

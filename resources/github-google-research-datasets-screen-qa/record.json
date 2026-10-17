@@ -108,7 +108,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Question-answering data over mobile interface screenshots.",
+  "summary": "About 86,000 human-written question-answer pairs over 35,000 Rico mobile screenshots, plus ScreenQA Short and ComplexQA variants, for benchmarking screen content understanding.",
   "topics": [
     "screen-understanding"
   ],

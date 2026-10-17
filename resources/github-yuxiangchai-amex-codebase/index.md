@@ -1,6 +1,6 @@
 # AMEX
 
-Android interaction data with interface annotations.
+Code for AMEX Android GUI data that converts its three annotation levels into question-answer pairs and fine-tunes a LLaMA2-Accessory model, with a released checkpoint.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-yuxiangchai-amex-codebase/
 - Original source: https://github.com/YuxiangChai/AMEX-codebase

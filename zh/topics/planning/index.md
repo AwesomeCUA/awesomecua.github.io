@@ -50,6 +50,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/planning/reco
   MACU represents computer-use objectives as a dependency graph whose manager dispatches parallel subagents and revises tasks as new information arrives. Desktop and web experiments examine coordination, information handoff and task-completion time.
 - [UI-KOBE: Knowledge-Oriented Behavior Exploration for Lightweight Graph-Guided GUI Agents](https://awesomecua.github.io/resources/arxiv-2605-29534/) — 2026-05-28
   UI-KOBE explores mobile applications to build graphs of UI states and executable transitions. A lightweight agent then matches its current screenshot to the graph and chooses a transition, local action, completion signal or fallback action.
+- [GUI-CIDER: Mid-training GUI Agents via Causal Internalization and Density-aware Exemplar Reselection](https://awesomecua.github.io/resources/arxiv-2605-28534/) — 2026-05-27
+  GUI-CIDER turns GUI trajectories into textual planning and causal interface knowledge, reselects exemplars for causal structure and low redundancy, then mid-trains GUI agents on that corpus.
 - [DRS-GUI: Dynamic Region Search for Training-Free GUI Grounding](https://awesomecua.github.io/resources/arxiv-2605-15542/) — 2026-05-15
   DRS-GUI searches screenshot regions through focus, shift and scatter operations selected by a tree-search planner. A region-quality reward guides this training-free perceptual search before final GUI grounding.
 - [ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents](https://awesomecua.github.io/resources/arxiv-2605-12481/) — 2026-05-12
@@ -391,13 +393,13 @@ Full source records: https://awesomecua.github.io/downloads/topics/planning/reco
 - [EvoCUA](https://awesomecua.github.io/resources/github-meituan-evocua/) — Date not recorded
   Computer-use model and training resources from the EvoCUA project.
 - [EvoCUA 32B 20260105](https://awesomecua.github.io/resources/url-60a95f34072aeb2771cc/) — Date not recorded
-  Released model checkpoint associated with EvoCUA.
+  Larger EvoCUA computer-use agent checkpoint (20260105 release) with about 33B BF16 parameters in the Qwen3-VL architecture, tagged for OSWorld and for English and Chinese.
 - [EvoCUA 8B 20260105](https://awesomecua.github.io/resources/url-2a2682f86dcb8ebc9a80/) — Date not recorded
-  Released model checkpoint associated with EvoCUA.
+  EvoCUA computer-use agent checkpoint (20260105 release) with about 8.8B BF16 parameters in the Qwen3-VL architecture, tagged for OSWorld and for English and Chinese.
 - [Fara](https://awesomecua.github.io/resources/github-microsoft-fara/) — Date not recorded
-  Computer-use model for web interaction.
+  Microsoft browser-use agent models that act from screenshots by predicting click coordinates without accessibility trees; Fara1.5 comes in 4B, 9B and 27B, succeeding Fara-7B.
 - [Fara 7B](https://awesomecua.github.io/resources/url-a4da77ee63f879cc8e63/) — Date not recorded
-  Released model checkpoint associated with Fara.
+  Microsoft's Fara checkpoint, a Qwen2.5-VL-architecture image-text-to-text model with about 8.3B BF16 parameters, English, MIT-licensed and linked to arXiv paper 2511.19663.
 - [Gemini Computer Use](https://awesomecua.github.io/resources/url-879d4e3e75e83582bde6/) — Date not recorded
   Gemini capability for generating interface actions from screenshots.
 - [GUI-Owl 7B](https://awesomecua.github.io/resources/url-aeb32973694f91ad9920/) — Date not recorded
@@ -411,7 +413,9 @@ Full source records: https://awesomecua.github.io/downloads/topics/planning/reco
 - [Holo3 35B-A3B](https://awesomecua.github.io/resources/url-a349aace3cfde25628a8/) — Date not recorded
   A sparse Qwen3.5-based GUI-action checkpoint released for navigation and computer-use workflows.
 - [InfiGUI-R1](https://awesomecua.github.io/resources/github-reallm-labs-infigui-r1/) — Date not recorded
-  Reasoning-oriented GUI agent model.
+  3B GUI agent trained in two stages: distilling spatial reasoning from teacher models, then reinforcement learning that rewards accurate sub-goals and trains error recovery.
+- [Magma](https://awesomecua.github.io/resources/github-microsoft-magma/) — Date not recorded
+  Microsoft foundation model for multimodal agents, pretrained with Set-of-Mark and Trace-of-Mark objectives on UI, robotics and video data and fine-tunable for web and mobile UI navigation.
 - [OpenAI CUA](https://awesomecua.github.io/resources/url-74eeb7c9fb20674fe6e2/) — Date not recorded
   Computer-using model introduced with the Operator research preview.
 - [OpenCUA](https://awesomecua.github.io/resources/github-xlang-ai-opencua/) — Date not recorded
@@ -427,20 +431,20 @@ Full source records: https://awesomecua.github.io/downloads/topics/planning/reco
 - [ScaleCUA 7B](https://awesomecua.github.io/resources/url-ff7b1873a3eead89607a/) — Date not recorded
   A Qwen2.5-VL-based computer-use checkpoint with direct grounding and agent action modes across desktop, mobile and web interfaces.
 - [UI-TARS](https://awesomecua.github.io/resources/github-bytedance-ui-tars/) — Date not recorded
-  Native GUI agent model family for perception and action.
+  Native GUI agent models; UI-TARS-1.5 adds reinforcement-learned reasoning before acting and an open 7B checkpoint, and UI-TARS-2 extends to games, code and tool use.
 - [UI-TARS 1.5 7B](https://awesomecua.github.io/resources/url-4d32ad3682ae2d71c178/) — Date not recorded
-  Released model checkpoint associated with UI-TARS.
+  UI-TARS 1.5 GUI-agent checkpoint in the Qwen2.5-VL architecture with about 8.3B parameters stored in FP32, released under Apache-2.0 for English image-text-to-text use in Transformers.
 - [UI-Venus](https://awesomecua.github.io/resources/github-inclusionai-ui-venus/) — Date not recorded
-  GUI model family for interface grounding and navigation.
+  GUI agent model family; UI-Venus-2, at 9B and 27B, acts on mobile, web and desktop in one end-to-end agent, trained with keypoint-based multi-judge task verification.
 - [UI-Venus 2 9B](https://awesomecua.github.io/resources/url-611df37e5f3caa6befd7/) — Date not recorded
-  Released model checkpoint associated with UI-Venus.
+  UI-Venus 2 GUI-agent checkpoint fine-tuned from Qwen3.5-9B, with about 9.4B BF16 parameters in the Qwen3.5 multimodal architecture, loaded through Transformers for image-text-to-text.
 
 ## 工程与产业
 
 - [Agent S](https://awesomecua.github.io/resources/github-simular-ai-agent-s/) — Date not recorded
-  Agent framework for general computer interaction.
+  Simular's open-source framework for computer-use agents that click, type and scroll through desktop and web apps on macOS, Windows and Linux; its third generation, Agent S3, reports 72.6% on OSWorld.
 - [AssistGUI](https://awesomecua.github.io/resources/github-showlab-assistgui/) — Date not recorded
-  Task-oriented desktop GUI automation framework.
+  LLM-based assistant for automating work in desktop productivity software by watching the screen and issuing mouse and keyboard commands; its repository says the code will be released later.
 - [Auto-GUI / Auto-UI](https://awesomecua.github.io/resources/github-cooelf-auto-gui/) — Date not recorded
   Screenshot-based mobile agent implementation with training and inference code for chain-of-action prediction.
 - [CHOP](https://awesomecua.github.io/resources/github-yuqi-zhou-chop/) — Date not recorded
@@ -450,7 +454,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/planning/reco
 - [COLA demo](https://awesomecua.github.io/resources/github-alokia-cola-demo/) — Date not recorded
   Research demonstration of collaborative Windows GUI automation with dynamic task scheduling and recovery mechanisms.
 - [Cradle](https://awesomecua.github.io/resources/github-baai-agents-cradle/) — Date not recorded
-  General computer-control framework using visual interfaces.
+  Framework in which foundation models control games and software from screenshots alone, acting through keyboard and mouse, shown on RDR2, Stardew Valley, Cities: Skylines and Dealer's Life 2.
 - [GUI-CIDER research code](https://awesomecua.github.io/resources/github-wuzheng02-gui-cider/) — Date not recorded
   Released data-synthesis and evaluation scripts that distill planning and causal GUI knowledge into text for mid-training mobile interface agents.
 - [GUI-ReWalk](https://awesomecua.github.io/resources/github-bytedance-gui-rewalk/) — Date not recorded
@@ -468,15 +472,15 @@ Full source records: https://awesomecua.github.io/downloads/topics/planning/reco
 - [Mobilerun (formerly Droidrun)](https://awesomecua.github.io/resources/github-droidrun-mobilerun/) — Date not recorded
   A framework that combines screenshots and accessibility state with agent tools for mobile-device tasks through command-line and Python interfaces.
 - [OS-Copilot](https://awesomecua.github.io/resources/github-os-copilot-os-copilot/) — Date not recorded
-  Operating-system agent framework and assistant research.
+  Open-source library for generalist agents acting on an operating system's web, terminals, files and third-party apps, with the FRIDAY assistant, which takes custom tools and self-learns Excel tasks.
 - [PC-Agent](https://awesomecua.github.io/resources/github-gair-nlp-pc-agent/) — Date not recorded
-  Agent framework for desktop workflows.
+  Human-cognition-transfer framework for PC agents: PC Tracker logs human computer use, cognition completion turns logs into cognitive trajectories, and a planner works with a grounding agent.
 - [Plan-and-Act](https://awesomecua.github.io/resources/github-squeezeailab-plan-and-act/) — Date not recorded
   A web-agent framework that separates high-level planning from action execution, with replanning and synthetic planner-data generation components.
 - [RCI Agent](https://awesomecua.github.io/resources/github-posgnu-rci-agent/) — Date not recorded
   A MiniWoB++ agent that uses explicit and implicit recursive criticism-and-improvement prompts to refine action plans and ground actions to browser state.
 - [ScreenAgent](https://awesomecua.github.io/resources/github-niuzaisheng-screenagent/) — Date not recorded
-  Agent implementation for controlling desktop interfaces.
+  Environment and agent in which a vision-language model controls real desktops over VNC with mouse and keyboard in plan, act and reflect stages, plus a hand-annotated dataset of daily computer tasks.
 - [Self-MAP](https://awesomecua.github.io/resources/github-magicgh-self-map/) — Date not recorded
   A conversational web-agent implementation with candidate ranking and memory-assisted action planning, including optional memory simplification, refinement and self-reflection modules.
 - [StateAct](https://awesomecua.github.io/resources/github-ai-nikolai-stateact/) — Date not recorded

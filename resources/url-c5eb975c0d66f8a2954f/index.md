@@ -7,7 +7,7 @@ A bilingual GLM-4V-based execution model that uses screenshots, task instruction
 - Kind: model
 - Review: curated
 - Scope: core
-- Environments: windows, macos, cross-platform
+- Environments: desktop, windows, macos, cross-platform
 - Topics: grounding, action-prediction, screen-understanding
 - Evidence checked: 2026-10-17T02:44:29Z
 - ID: url:c5eb975c0d66f8a2954f

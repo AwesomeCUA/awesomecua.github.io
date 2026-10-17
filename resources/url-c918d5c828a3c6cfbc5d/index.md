@@ -1,6 +1,6 @@
 # AutoGLM Phone 9B
 
-Released model checkpoint associated with Open-AutoGLM.
+AutoGLM phone-agent checkpoint for Open-AutoGLM, fine-tuned from GLM-4.1V-9B-Base with about 10.3B BF16 parameters and tagged for Chinese.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-c918d5c828a3c6cfbc5d/
 - Original source: https://huggingface.co/zai-org/AutoGLM-Phone-9B

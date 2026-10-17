@@ -1,6 +1,6 @@
 # AwesomeCUA curated resource annotations
 
-Evidence snapshot: 2026-10-17T14:35:24Z. These records were reviewed with AI assistance; experiments are not independently reproduced.
+Evidence snapshot: 2026-10-17T17:18:56Z. These records were reviewed with AI assistance; experiments are not independently reproduced.
 
 # End-to-End Goal-Driven Web Navigation
 
@@ -2797,6 +2797,58 @@ Tao Li, Gang Li, Zhiwei Deng, Bryan Wang, Yang Li
 
 - https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50 (retrieved 2026-10-16T06:31:24Z; SHA-256 3aac6e9748769efff3c475ede0da192776daa03431d231b5f67e2aa50f8a3be9)
 - https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50 (retrieved 2026-10-16T06:31:24Z; SHA-256 3aac6e9748769efff3c475ede0da192776daa03431d231b5f67e2aa50f8a3be9)
+
+---
+
+# OpenAgents: An Open Platform for Language Agents in the Wild
+
+OpenAgents hosts three language agents, for data analysis, API plugins and autonomous web browsing, behind a web interface for non-expert users, with local deployment for developers.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2310-10634/
+- Original source: https://arxiv.org/abs/2310.10634
+- Kind: paper
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: web-navigation, tool-integration
+- Evidence checked: 2026-10-17T17:11:36Z
+- ID: arxiv:2310.10634
+
+## Limitations
+
+The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. Scope is adjacent: autonomous web browsing is one of three hosted agents, beside data-analysis and API-plugin agents.
+
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-10634/record.json
+
+## Authors
+
+Tianbao Xie, Fan Zhou, Zhoujun Cheng, Peng Shi, Luoxuan Weng, Yitao Liu, Toh Jing Hua, Junning Zhao, Qian Liu, Che Liu, Leo Z. Liu, Yiheng Xu, Hongjin Su, Dongchan Shin, Caiming Xiong, Tao Yu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-10634/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-10634/citation.csl.json
+
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2310.10634v1
+- First submission: 2023-10-16T17:54:53Z
+- Version updated: 2023-10-16T17:54:53Z
+- Abstract SHA-256: 15d7945fcf1ee4290761d34bbeef9e24bed82bb748bdb7aaa791457c42892fec
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50 (retrieved 2026-10-16T06:31:24Z; SHA-256 3aac6e9748769efff3c475ede0da192776daa03431d231b5f67e2aa50f8a3be9)
+- https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50 (retrieved 2026-10-17T17:11:36Z; SHA-256 90df698b27a336e2fb7f0ac60a3b8d3e3897c00035ab7968c593a5ab539d177a)
 
 ---
 
@@ -8786,7 +8838,7 @@ Adapts real-desktop evaluation to Windows applications and supports parallel exe
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: windows
+- Environments: desktop, windows
 - Topics: evaluation, cross-app
 - Evidence checked: 2026-10-16T06:31:32Z
 - ID: arxiv:2409.08264
@@ -22072,7 +22124,7 @@ MMBench-GUI evaluates interface understanding, element grounding, task automatio
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: web, windows, macos, linux, ios, android, cross-platform
+- Environments: web, desktop, windows, macos, linux, ios, android, cross-platform
 - Topics: evaluation, grounding, efficiency, planning
 - Evidence checked: 2026-10-16T06:36:50Z
 - ID: arxiv:2507.19478
@@ -22112,6 +22164,58 @@ Xuehui Wang, Zhenyu Wu, JingJing Xie, Zichen Ding, Bowen Yang, Zehao Li, Zhaoyan
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:50Z; SHA-256 26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:50Z; SHA-256 26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb)
+
+---
+
+# FingerTip 20K: A Benchmark for Proactive and Personalized Mobile LLM Agents
+
+FingerTip 20K gathers 20K human Android demonstrations from users' long-term everyday app use, with user context, to evaluate proactive task suggestion and preference-aware task execution.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-21071/
+- Original source: https://arxiv.org/abs/2507.21071
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: evaluation, data-generation, mobile-navigation, interaction-history
+- Evidence checked: 2026-10-17T17:11:36Z
+- ID: arxiv:2507.21071
+
+## Limitations
+
+The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-21071/record.json
+
+## Authors
+
+Qinglong Yang, Haoming Li, Haotian Zhao, Xiaokai Yan, Jingtao Ding, Fengli Xu, Yong Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-21071/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-21071/citation.csl.json
+
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2507.21071v2
+- First submission: 2025-06-09T06:38:41Z
+- Version updated: 2026-03-16T09:14:01Z
+- Abstract SHA-256: 947c85efc189635a118b823b8ca0787ff6b1c922d1af8b21a8686b7df9a27cf8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2506.10387%2C2506.14866%2C2506.20332%2C2507.00008%2C2507.02592%2C2507.03730%2C2507.04227%2C2507.05445%2C2507.05673%2C2507.05720%2C2507.05791%2C2507.14293%2C2507.14799%2C2507.15846%2C2507.16853%2C2507.19132%2C2507.19478%2C2507.21071%2C2507.22025%2C2507.22358%2C2507.23779%2C2508.00935%2C2508.01330%2C2508.03700%2C2508.03923%2C2508.04010%2C2508.04026%2C2508.04482%2C2508.04700%2C2508.05615%2C2508.05731%2C2508.09057%2C2508.09123%2C2508.13167%2C2508.14040%2C2508.15144%2C2508.18689%2C2508.19679%2C2508.20096%2C2509.02544%2C2509.03891%2C2509.06477%2C2509.10723%2C2509.11250%2C2509.11543%2C2509.15221%2C2509.15566%2C2509.15738%2C2509.18119%2C2510.01354&max_results=50 (retrieved 2026-10-16T06:31:49Z; SHA-256 c208e36ae75cef4b32cfcb2f8182dd4aaaa218e3119bb3d4a2c20a5832f8b1ee)
+- https://export.arxiv.org/api/query?id_list=2506.10387%2C2506.14866%2C2506.20332%2C2507.00008%2C2507.02592%2C2507.03730%2C2507.04227%2C2507.05445%2C2507.05673%2C2507.05720%2C2507.05791%2C2507.14293%2C2507.14799%2C2507.15846%2C2507.16853%2C2507.19132%2C2507.19478%2C2507.21071%2C2507.22025%2C2507.22358%2C2507.23779%2C2508.00935%2C2508.01330%2C2508.03700%2C2508.03923%2C2508.04010%2C2508.04026%2C2508.04482%2C2508.04700%2C2508.05615%2C2508.05731%2C2508.09057%2C2508.09123%2C2508.13167%2C2508.14040%2C2508.15144%2C2508.18689%2C2508.19679%2C2508.20096%2C2509.02544%2C2509.03891%2C2509.06477%2C2509.10723%2C2509.11250%2C2509.11543%2C2509.15221%2C2509.15566%2C2509.15738%2C2509.18119%2C2510.01354&max_results=50 (retrieved 2026-10-17T17:11:36Z; SHA-256 90a03448678a584f29ef11ae2afe1ef7040b4f3658c492f6e48eafe8fb6d2fa2)
 
 ---
 
@@ -28108,7 +28212,7 @@ Collects Windows application trajectories with screenshots and action traces for
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: windows
+- Environments: desktop, windows
 - Topics: data-generation, grounding, evaluation
 - Evidence checked: 2026-10-16T06:36:47Z
 - ID: arxiv:2511.04307
@@ -28940,7 +29044,7 @@ This study tests vision-language models as task-completion judges using screensh
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: macos
+- Environments: desktop, macos
 - Topics: evaluation, self-reflection
 - Evidence checked: 2026-10-16T06:36:47Z
 - ID: arxiv:2511.20067
@@ -32165,7 +32269,7 @@ OmegaUse combines exploratory and taxonomy-guided data synthesis with supervised
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: android, linux
+- Environments: android, desktop, linux
 - Topics: data-generation, reinforcement-learning, grounding, evaluation
 - Evidence checked: 2026-10-16T06:36:43Z
 - ID: arxiv:2601.20380
@@ -32321,7 +32425,7 @@ CUA-Skill encodes Windows application knowledge in parameterized skills and exec
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: windows
+- Environments: desktop, windows
 - Topics: tool-integration, planning, memory, automation
 - Evidence checked: 2026-10-16T06:36:43Z
 - ID: arxiv:2601.21123
@@ -35444,7 +35548,7 @@ Builds ExeVR-53k from execution-video, instruction and reward triplets, includin
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: linux, macos, windows, android
+- Environments: desktop, linux, macos, windows, android
 - Topics: reward-models, video, evaluation
 - Evidence checked: 2026-10-16T06:36:43Z
 - ID: arxiv:2603.10178
@@ -35600,7 +35704,7 @@ CUAAudit examines vision-language models that judge computer-use task completion
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: macos, windows, linux
+- Environments: desktop, macos, windows, linux
 - Topics: evaluation, observability, robustness
 - Evidence checked: 2026-10-16T06:36:43Z
 - ID: arxiv:2603.10577
@@ -40324,6 +40428,58 @@ Runxi Huang, Liyu Zhang, Shengzhong Liu, Xiaomin Ouyang
 
 ---
 
+# GUI-CIDER: Mid-training GUI Agents via Causal Internalization and Density-aware Exemplar Reselection
+
+GUI-CIDER turns GUI trajectories into textual planning and causal interface knowledge, reselects exemplars for causal structure and low redundancy, then mid-trains GUI agents on that corpus.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-28534/
+- Original source: https://arxiv.org/abs/2605.28534
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: data-generation, planning
+- Evidence checked: 2026-10-17T17:11:36Z
+- ID: arxiv:2605.28534
+
+## Limitations
+
+The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
+
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-28534/record.json
+
+## Authors
+
+Zheng Wu, Chengcheng Han, Zhengxi Lu, Tianjie Ju, Yanyu Chen, Qi Gu, Xunliang Cai, Zhuosheng Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-28534/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-28534/citation.csl.json
+
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.28534v1
+- First submission: 2026-05-27T14:29:41Z
+- Version updated: 2026-05-27T14:29:41Z
+- Abstract SHA-256: 78a5f5d7df9a8b6f1dbdb5693849c728a4b97e1f25c6e2e24d0c2418628c64e7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:36Z; SHA-256 aeacc1a41bb90f3d296823356174fe77d1547ffbe7cd56652cf9d98fca09206c)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-17T17:11:36Z; SHA-256 235f1fff1385719d603377b680d74f6803bbe46d112dd6c008bee6b42f105429)
+
+---
+
 # PhoneWorld: From Real-App Trajectories to Dynamic and Verifiable Environments for Phone-Use Agents
 
 Introduces PhoneWorld, which converts observed app pages, transitions and state changes into executable Android environments through a build-inspect-repair process. Generated tasks and programmatic verifiers support benchmarking, trajectory collection and online training.
@@ -40957,7 +41113,7 @@ WeaveBench requires agents to combine GUI, command-line and code operations with
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: linux
+- Environments: desktop, linux
 - Topics: evaluation, long-horizon, workflow, tool-integration
 - Evidence checked: 2026-10-16T06:36:36Z
 - ID: arxiv:2606.09426
@@ -41217,7 +41373,7 @@ ComAct proposes COM program synthesis as an alternative interface for manipulati
 - Kind: paper
 - Review: curated
 - Scope: adjacent
-- Environments: windows
+- Environments: desktop, windows
 - Topics: automation, evaluation, tool-integration, science
 - Evidence checked: 2026-10-16T06:33:05Z
 - ID: arxiv:2606.13239
@@ -41425,7 +41581,7 @@ MyPCBench tests personal-assistant tasks on a Linux desktop with simulated web a
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: linux, web
+- Environments: desktop, linux, web
 - Topics: evaluation, cross-app, workflow
 - Evidence checked: 2026-10-16T06:36:36Z
 - ID: arxiv:2606.16748
@@ -43869,7 +44025,7 @@ DSAgentBench evaluates end-to-end data-science workflows spanning analysis, mode
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: linux
+- Environments: desktop, linux
 - Topics: evaluation, workflow, science, long-horizon
 - Evidence checked: 2026-10-16T06:33:09Z
 - ID: arxiv:2608.10366
@@ -46574,7 +46730,7 @@ RecreationWorld gives hybrid agents running reference applications to explore an
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: linux, macos, windows, android, web
+- Environments: desktop, linux, macos, windows, android, web
 - Topics: evaluation, data-generation, tool-integration, workflow
 - Evidence checked: 2026-10-16T06:36:29Z
 - ID: arxiv:2609.22000
@@ -51907,7 +52063,7 @@ This component record covers real_agents/web_agent and the documented WeBot Chro
 
 # BrowserTrace
 
-Local trace viewer for browser-agent runs.
+Local, cloud-free replay debugger that records each Browser Use step's screenshot, URL, action and model I/O as a timeline and reports the step at which a failed run diverges from a known-good one.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-aaronlab-browsertrace/
 - Original source: https://github.com/aaronlab/browsertrace
@@ -52070,7 +52226,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # AgentDesk
 
-Virtual desktop provisioning and control tools for agents.
+Desktop environments that AI agents control programmatically, run locally with Docker or remotely on Kubernetes, built on the agentd REST daemon and offering a coordinate-grid overlay for LMM input.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-agentsea-agentdesk/
 - Original source: https://github.com/agentsea/agentdesk
@@ -52104,7 +52260,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # Surfkit
 
-Toolkit for building and deploying computer-use agents.
+Python toolkit and CLI for building, publishing and running multimodal agents that operate devices such as Ubuntu desktops, locally or on Kubernetes, with task trackers and an agent hub.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-agentsea-surfkit/
 - Original source: https://github.com/agentsea/surfkit
@@ -52138,7 +52294,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # SPA-Bench
 
-Smartphone agent evaluation benchmark.
+340 single-app and cross-app tasks over 66 Chinese and English Android apps, with plug-in support for 11 smartphone agents and automatic coarse-to-fine success detection.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-ai-agents-2030-spa-bench/
 - Original source: https://github.com/ai-agents-2030/SPA-Bench
@@ -52301,7 +52457,7 @@ The official lowercase readme.md and source tree expose automatic and step-by-st
 
 # UI-Ins
 
-Instruction-oriented GUI data and research resources.
+Treats grounding instructions as multiple reasoning perspectives, releasing a data pipeline, training code and UI-Ins-7B and 32B models trained by SFT on synthesized instructions, then RL.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-alibaba-ui-ins/
 - Original source: https://github.com/alibaba/UI-Ins
@@ -52537,7 +52693,7 @@ README states that task instructions are released but annotated action sequences
 
 # GUIHalluBench
 
-Benchmark investigating hallucinations in GUI agents.
+Measures hallucination in UI-element parsing by matching the boxes and descriptions a model lists for 1,000 English and 1,000 Chinese screenshots against human annotations.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-ant-research-guihallubench/
 - Original source: https://github.com/ant-research/GUIHalluBench
@@ -52627,7 +52783,7 @@ The release contains exploration agents, data-processing scripts, fine-tuning an
 
 # Appium
 
-Cross-platform UI automation infrastructure.
+Open-source WebDriver-based automation server for mobile, desktop and IoT apps, extended by per-platform drivers for iOS, Android, macOS and Windows, plugins, and clients in Java, Python, Ruby and C#.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-appium-appium/
 - Original source: https://github.com/appium/appium
@@ -52694,7 +52850,7 @@ The repository has moved from apple/ml-ferret to apple-aiml-research/ml-ferret; 
 
 # Aria-UI
 
-Model and data resources for GUI grounding.
+Mixture-of-experts GUI grounding model with 3.9B activated parameters that can use text or interleaved image history, with released training data and an AndroidWorld agent.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-ariaui-aria-ui/
 - Original source: https://github.com/AriaUI/Aria-UI
@@ -52727,7 +52883,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # PyAutoGUI
 
-Mouse, keyboard, and screenshot automation library.
+Cross-platform Python module for scripted mouse and keyboard control, message boxes and screenshots with on-screen image search, working on the primary monitor under Windows, macOS and Linux.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-asweigart-pyautogui/
 - Original source: https://github.com/asweigart/pyautogui
@@ -52760,7 +52916,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # Cradle
 
-General computer-control framework using visual interfaces.
+Framework in which foundation models control games and software from screenshots alone, acting through keyboard and mouse, shown on RDR2, Stardew Valley, Cities: Skylines and Dealer's Life 2.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-baai-agents-cradle/
 - Original source: https://github.com/BAAI-Agents/Cradle
@@ -52794,7 +52950,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # Browser Use
 
-Framework for browser interaction by AI agents.
+Open-source browser agent library that runs locally with any LLM against a local or cloud browser, and also serves as a CLI for coding agents and as a driver for Claude's browser toolset.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-browser-use-browser-use/
 - Original source: https://github.com/browser-use/browser-use
@@ -52907,7 +53063,7 @@ Chromium-based browser implementations for external agent control and built-in a
 - Kind: infrastructure
 - Review: curated
 - Scope: core
-- Environments: web, windows, macos, linux
+- Environments: web, desktop, windows, macos, linux
 - Topics: web-navigation, tool-integration, recording
 - Evidence checked: 2026-10-17T03:59:54Z
 - ID: github:browseros-ai/browseros
@@ -52940,7 +53096,7 @@ The one repository includes BrowserOS neo and BrowserOS; they are retained as on
 
 # Bytebot
 
-Containerized desktop agent environment and application.
+Open-source desktop agent that works inside its own Ubuntu Linux virtual desktop, with a web task interface, REST APIs for tasks and direct control, a takeover mode and password-manager logins.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-bytebot-ai-bytebot/
 - Original source: https://github.com/bytebot-ai/bytebot
@@ -53050,7 +53206,7 @@ The inspected source tree contains the random walker, desktop environment integr
 
 # UI-TARS
 
-Native GUI agent model family for perception and action.
+Native GUI agent models; UI-TARS-1.5 adds reinforcement-learned reasoning before acting and an open 7B checkpoint, and UI-TARS-2 extends to games, code and tool use.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-bytedance-ui-tars/
 - Original source: https://github.com/bytedance/UI-TARS
@@ -53084,7 +53240,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # UI-TARS Desktop
 
-Desktop application for running GUI agents.
+Desktop app for a local GUI agent driven by UI-TARS and Seed-1.5-VL/1.6 models, offering local and remote operators for computers and browsers; the repository also ships the Agent TARS CLI and web UI.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-bytedance-ui-tars-desktop/
 - Original source: https://github.com/bytedance/UI-TARS-desktop
@@ -53132,7 +53288,7 @@ Generates mobile GUI interactions from natural-language test requirements and ch
 
 ## Limitations
 
-Inclusion does not establish reproducibility or endorsement.
+Its README describes mobile apps without naming an operating system.
 
 - Record JSON: https://awesomecua.github.io/resources/github-bz-lab-auitestagent/record.json
 
@@ -53333,7 +53489,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # WebGames
 
-Browser games used to evaluate interactive agents.
+150 client-side web challenges in five capability domains, built to be easy for humans but hard for browsing agents, each revealing a password when solved.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-convergence-ai-webgames/
 - Original source: https://github.com/convergence-ai/webgames
@@ -53479,40 +53635,6 @@ The source tree releases inference backends and evaluation scripts under evaluat
 
 ---
 
-# AndroidEnv
-
-Environment toolkit for interacting with Android devices in agent research.
-
-- Catalog URL: https://awesomecua.github.io/resources/github-deepmind-android-env/
-- Original source: https://github.com/deepmind/android_env
-- Kind: infrastructure
-- Review: curated
-- Scope: core
-- Environments: android
-- Topics: evaluation, reinforcement-learning
-- Evidence checked: 2026-10-16T06:36:04Z
-- ID: github:deepmind/android_env
-
-## Limitations
-
-Inclusion does not establish reproducibility or endorsement.
-
-- Record JSON: https://awesomecua.github.io/resources/github-deepmind-android-env/record.json
-
-## License declarations
-
-- code: Apache-2.0 — https://raw.githubusercontent.com/deepmind/android_env/HEAD/LICENSE
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-## Primary evidence
-
-- https://raw.githubusercontent.com/deepmind/android_env/HEAD/README.md (retrieved 2026-10-16T06:36:04Z; SHA-256 b8dd2ea004647008265f4fb5c5a122569992311b6758f413080984266e53c25a)
-- https://raw.githubusercontent.com/deepmind/android_env/HEAD/LICENSE (retrieved 2026-10-16T06:42:06Z; SHA-256 58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd)
-
----
-
 # Digi-Q
 
 Offline device-control training code that learns action values and uses them to select promising actions, with linked trajectories and checkpoints.
@@ -53650,7 +53772,7 @@ The implementation distinguishes step-level AITW/LearnGUI scores from terminal t
 
 # GUI-World
 
-GUI video data for understanding dynamic interfaces.
+GUI video benchmark and training data covering six scenarios, from Android and iOS to websites and XR, with eight question types for image and video LLMs and the GUI-Vid model.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-dongping-chen-gui-world/
 - Original source: https://github.com/Dongping-Chen/GUI-World
@@ -53814,7 +53936,7 @@ The official API resolves the former Droidrun Portal path to mobilerun-portal. R
 
 # E2B Desktop
 
-Desktop sandboxes for computer-use agents.
+Open-source, isolated Linux Xfce desktop sandboxes for computer-use agents, driven from Python or JavaScript SDKs with screen streaming, mouse, keyboard and window control, screenshots and shell.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-e2b-dev-desktop/
 - Original source: https://github.com/e2b-dev/desktop
@@ -53848,7 +53970,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # Agent E
 
-Web automation agent with hierarchical task execution.
+Browser automation agent on the AG2 framework that pairs a planner agent with a browser navigation agent to fill forms, search shops and work through sites, also callable over a local HTTP API.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-emergenceai-agent-e/
 - Original source: https://github.com/EmergenceAI/Agent-E
@@ -53987,7 +54109,7 @@ The repository has moved to STEVE-R1. Its README reports an SFT release, with RL
 
 # MiniWoB++
 
-Browser interaction task environment derived from MiniWoB.
+Over 100 web-interaction environments extending OpenAI's MiniWoB, controlled from Python through a Gymnasium API that drives the browser with Selenium.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-farama-foundation-miniwob-plusplus/
 - Original source: https://github.com/Farama-Foundation/miniwob-plusplus
@@ -54139,7 +54261,7 @@ The 100 archive files are not counted as 100 independent test tasks or defects. 
 
 # PC-Agent
 
-Agent framework for desktop workflows.
+Human-cognition-transfer framework for PC agents: PC Tracker logs human computer use, cognition completion turns logs into cognitive trajectories, and a planner works with a grounding agent.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-gair-nlp-pc-agent/
 - Original source: https://github.com/GAIR-NLP/PC-Agent
@@ -54221,7 +54343,7 @@ Android device-control platform with screenshots, accessibility telemetry, input
 
 ## Limitations
 
-Inclusion does not establish reproducibility or endorsement.
+Formerly published as deepmind/android_env. That address now redirects to this repository, and both paths serve the same reviewed README, so the project is counted once.
 
 - Record JSON: https://awesomecua.github.io/resources/github-google-deepmind-android-env/record.json
 
@@ -54236,6 +54358,8 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/google-deepmind/android_env/HEAD/README.md (retrieved 2026-10-16T10:42:12Z; SHA-256 b8dd2ea004647008265f4fb5c5a122569992311b6758f413080984266e53c25a)
 - https://raw.githubusercontent.com/google-deepmind/android_env/HEAD/LICENSE (retrieved 2026-10-16T10:48:41Z; SHA-256 58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd)
+- https://api.github.com/repos/deepmind/android_env (retrieved 2026-10-17T15:37:19Z; SHA-256 de82c4101e81a6980789904be59c3733ab13f2c1f0e769e5fcb1ab35f847cb3e)
+- https://api.github.com/repos/google-deepmind/android_env (retrieved 2026-10-17T15:37:20Z; SHA-256 de82c4101e81a6980789904be59c3733ab13f2c1f0e769e5fcb1ab35f847cb3e)
 
 ---
 
@@ -54288,7 +54412,7 @@ Multiple summaries describe one screen. The repository provides annotations and 
 
 # ScreenQA
 
-Question-answering data over mobile interface screenshots.
+About 86,000 human-written question-answer pairs over 35,000 Rico mobile screenshots, plus ScreenQA Short and ComplexQA variants, for benchmarking screen content understanding.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-google-research-datasets-screen-qa/
 - Original source: https://github.com/google-research-datasets/screen_qa
@@ -54619,7 +54743,7 @@ Cross-application Windows benchmark with intermediate task evaluation.
 - Kind: benchmark
 - Review: curated
 - Scope: core
-- Environments: windows
+- Environments: desktop, windows
 - Topics: evaluation, cross-app
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:hitsz-tmg/windowsworld
@@ -54662,7 +54786,7 @@ Interactive VMware/Windows environment. The public repository includes benchmark
 
 # HUD
 
-SDK for agent environments, evaluation, and training.
+SDK for RL environments and evals spanning coding, browser, computer-use and robotics agents, whose environments expose SSH, MCP, CDP or VNC capabilities behind a minimal start-and-grade protocol.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-hud-evals-hud-python/
 - Original source: https://github.com/hud-evals/hud-python
@@ -54735,7 +54859,7 @@ The publisher states that the suite compares the underlying multimodal models ra
 
 # HyperAgent
 
-Browser automation agent framework.
+Library adding natural-language commands to Playwright: accessibility-tree single actions, multi-step tasks that can use screenshots, an MCP client and action caching for replay without LLM calls.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-hyperbrowserai-hyperagent/
 - Original source: https://github.com/hyperbrowserai/HyperAgent
@@ -54840,7 +54964,7 @@ The tree contains run_coat.py and coat/agent.py, model.py and evaluate.py, with 
 
 # UI-Venus
 
-GUI model family for interface grounding and navigation.
+GUI agent model family; UI-Venus-2, at 9B and 27B, acts on mobile, web and desktop in one end-to-end agent, trained with keypoint-based multi-judge task verification.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-inclusionai-ui-venus/
 - Original source: https://github.com/inclusionAI/UI-Venus
@@ -54873,7 +54997,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # InfiGUI-G1
 
-GUI grounding model and training resources.
+InfiGUI-G1 3B and 7B grounding models trained with Adaptive Exploration Policy Optimization, which samples several candidate answers per pass under an adaptive exploration reward.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-infixai-infigui-g1/
 - Original source: https://github.com/InfiXAI/InfiGUI-G1
@@ -54907,7 +55031,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # MobileWorldBench
 
-Benchmark of semantic world modeling for mobile GUI agents.
+Benchmark of semantic world modeling for mobile agents, with question-answering tasks and GPT-judged generation tasks, plus training data built on AitW and AndroidControl screens.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-jacklishufan-mobileworld/
 - Original source: https://github.com/jacklishufan/MobileWorld
@@ -54974,7 +55098,7 @@ The repository provides training, evaluation, and a custom mask decoder. Its cod
 
 # MacAgentBench
 
-Benchmark of tasks in macOS desktop applications.
+676 macOS tasks across 25 applications, each run in its own Docker container and scored by deterministic rule-based checks with multiple checkpoints.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-jetastra-macagentbench/
 - Original source: https://github.com/JetAstra/MacAgentBench
@@ -55081,7 +55205,7 @@ Current source inventory differs in grain from published experiment subsets: do 
 
 # MobileSafetyBench
 
-Benchmark for safety behavior of mobile device agents.
+Android emulator testbed that scores mobile device-control agents on both safety and helpfulness, using ADB and Appium for observations, actions and success checks.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-jylee425-mobilesafetybench/
 - Original source: https://github.com/jylee425/mobilesafetybench
@@ -55133,7 +55257,7 @@ Inspected release/ver.3 branch exposes task definitions, Android environment and
 
 # UI-AGILE
 
-GUI grounding research using reinforcement learning.
+GUI agent trained by RL with a continuous reward, a simple-thinking reward and cropping-based resampling on about 9k samples, plus a plug-in decomposed grounding-and-selection inference method.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-kdegroup-ui-agile/
 - Original source: https://github.com/KDEGroup/UI-AGILE
@@ -55202,7 +55326,7 @@ The tree contains src/webprm modules and a WebRewardBench evaluation script. The
 
 # AppAgent Pro
 
-Extended mobile app agent implementation.
+Proactive Android agent built on AppAgent that uses GPT-4o to decide whether YouTube or Amazon content would help, operates those apps over ADB, and merges what it finds into its answer.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-laokuize-appagent-pro/
 - Original source: https://github.com/LaoKuiZe/AppAgent-Pro
@@ -55236,7 +55360,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # LaVague
 
-Framework for building natural-language web agents.
+Open-source web agent framework where a World Model turns an objective and the current page into instructions and an Action Engine compiles them into Selenium or Playwright code to run.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-lavague-ai-lavague/
 - Original source: https://github.com/lavague-ai/LaVague
@@ -55420,7 +55544,7 @@ Application coverage refers to the self-constructed subset. Task execution and e
 
 # UI-R1
 
-Reinforcement-learning approach to GUI action modeling.
+Rule-based reinforcement learning for GUI action prediction, releasing UI-R1-3B, trained from Qwen2.5-VL-3B, the efficiency-oriented UI-R1-E-3B, and training data.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-lll6gg-ui-r1/
 - Original source: https://github.com/lll6gg/UI-R1
@@ -55555,7 +55679,7 @@ The interaction environment replays graph states rather than running real user a
 
 # Mobile Use
 
-SDK and agent tooling for mobile interaction.
+Android GUI agent that operates real phones through ADB with hierarchical reflection and a multi-agent framework, run from a web interface or Python and evaluated on AndroidWorld and AndroidLab.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-madeagents-mobile-use/
 - Original source: https://github.com/MadeAgents/mobile-use
@@ -55859,7 +55983,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # Fara
 
-Computer-use model for web interaction.
+Microsoft browser-use agent models that act from screenshots by predicting click coordinates without accessibility trees; Fara1.5 comes in 4B, 9B and 27B, succeeding Fara-7B.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-microsoft-fara/
 - Original source: https://github.com/microsoft/fara
@@ -55998,9 +56122,43 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+# Magma
+
+Microsoft foundation model for multimodal agents, pretrained with Set-of-Mark and Trace-of-Mark objectives on UI, robotics and video data and fine-tunable for web and mobile UI navigation.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-microsoft-magma/
+- Original source: https://github.com/microsoft/Magma
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: grounding, planning, mobile-navigation
+- Evidence checked: 2026-10-17T17:18:21Z
+- ID: github:microsoft/magma
+
+## Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.github.io/resources/github-microsoft-magma/record.json
+
+## License declarations
+
+- code: MIT — https://raw.githubusercontent.com/microsoft/Magma/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/microsoft/Magma/HEAD/README.md (retrieved 2026-10-17T17:18:21Z; SHA-256 8aaf8feff6e1d5a533c01afd8afc0cfc0700f0c1c73ba47949b56c11fb8ab5be)
+- https://raw.githubusercontent.com/microsoft/Magma/HEAD/LICENSE (retrieved 2026-10-17T17:18:56Z; SHA-256 c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383)
+
+---
+
 # OmniParser
 
-Screen parsing tools for visually grounded agents.
+Screenshot parser that detects interactable regions and captions icons so vision-language models can ground actions, released as V1.5 and V2 weights alongside OmniTool for driving a Windows 11 VM.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-microsoft-omniparser/
 - Original source: https://github.com/microsoft/OmniParser
@@ -56033,7 +56191,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # Phi-Ground
 
-GUI grounding model and associated evaluation resources.
+Microsoft GUI grounding models from an empirical study of grounding training, from data collection to model training, released as Phi-Ground-4B-7C with evaluation code.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-microsoft-phi-ground/
 - Original source: https://github.com/microsoft/Phi-Ground
@@ -56101,7 +56259,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # Playwright MCP
 
-MCP server exposing browser interaction tools for agents.
+MCP server that lets LLM clients drive Playwright browsers through structured accessibility snapshots instead of screenshots, with opt-in vision, PDF and devtools capabilities.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-microsoft-playwright-mcp/
 - Original source: https://github.com/microsoft/playwright-mcp
@@ -56287,7 +56445,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # Windows Agent Arena
 
-Windows desktop agent evaluation environment.
+Windows 11 benchmark for multimodal desktop agents in a reproducible VM that runs locally or in parallel on Azure ML, with a harder mode where agents must set tasks up themselves.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-microsoft-windowsagentarena/
 - Original source: https://github.com/microsoft/WindowsAgentArena
@@ -56426,7 +56584,7 @@ Source and release 1.0.11 are public. The README specifies iOS and Android devic
 
 # MobileAgentBench
 
-Evaluation toolkit and tasks for mobile agents.
+Automated benchmark for mobile LLM agents whose default tasks use ten Simple Mobile Tools Android apps, installed as a Python library that detects task completion.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-mobileagentbench-mobile-agent-bench/
 - Original source: https://github.com/MobileAgentBench/mobile-agent-bench
@@ -56459,7 +56617,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # AutoDroid
 
-Language-model-driven Android task automation.
+LLM-powered Android task automation built on DroidBot, released with DroidTask, a dataset of per-app screenshots, view hierarchies, exploration records and ground-truth task files.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-mobilellm-autodroid/
 - Original source: https://github.com/MobileLLM/AutoDroid
@@ -56603,7 +56761,7 @@ The official repository publishes extension source and a v0.3.0 ZIP release. It 
 
 # MultiUI
 
-Multilingual UI understanding and interaction data.
+7.3 million training samples built from webpage UIs and structured with enhanced accessibility trees, for text-rich visual understanding, released with UIX-Qwen2 models.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-neulab-multiui/
 - Original source: https://github.com/neulab/multiui
@@ -56685,7 +56843,7 @@ The release contains WorkArena preprocessing and training source. The inspected 
 
 # ScreenAgent
 
-Agent implementation for controlling desktop interfaces.
+Environment and agent in which a vision-language model controls real desktops over VNC with mouse and keyboard in plan, act and reflect stages, plus a hand-annotated dataset of daily computer tasks.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-niuzaisheng-screenagent/
 - Original source: https://github.com/niuzaisheng/ScreenAgent
@@ -56752,7 +56910,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # Notte
 
-Framework and infrastructure for browser agents.
+Web agent framework and cloud SDKs for managed Chrome sessions, adding a CLI, an MCP server for coding agents, serverless browser functions and an API that builds automations from English tasks.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-nottelabs-notte/
 - Original source: https://github.com/nottelabs/notte
@@ -56901,7 +57059,7 @@ Public TypeScript source and npm package metadata are available; the inspected p
 
 # MMBench-GUI
 
-Multiplatform evaluation framework for GUI capabilities.
+Four-level GUI-agent benchmark across six platforms, from content understanding and element grounding to task automation and collaboration, scored with an efficiency-quality area metric.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-open-compass-mmbench-gui/
 - Original source: https://github.com/open-compass/MMBench-GUI
@@ -57021,7 +57179,7 @@ GitHub marks this repository archived, and the README declares the library depre
 
 # AgentCPM-GUI
 
-GUI agent model with a focus on mobile interaction.
+8B on-device smartphone agent built on MiniCPM-V that operates Chinese and English apps from screenshots, trained with reinforcement fine-tuning and a compact JSON action space.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-openbmb-agentcpm-gui/
 - Original source: https://github.com/OpenBMB/AgentCPM-GUI
@@ -57093,7 +57251,7 @@ The repository releases a configurable Python executor and Android ADB integrati
 
 # GUI-Odyssey
 
-Cross-application mobile interaction trajectories.
+Human-demonstrated Android episodes for cross-app navigation, spanning six task types, 212 apps and about 1,400 app combinations, for training and evaluating agents.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-opengvlab-gui-odyssey/
 - Original source: https://github.com/OpenGVLab/GUI-Odyssey
@@ -57175,7 +57333,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # ZeroGUI
 
-GUI agent learning with generated interaction data.
+Online RL framework for GUI agents in which VLMs generate the training tasks and judge success from trajectory screenshots, with OSWorld and AndroidLab checkpoints trained from UI-TARS-7B-DPO.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-opengvlab-zerogui/
 - Original source: https://github.com/OpenGVLab/ZeroGUI
@@ -57257,7 +57415,7 @@ Browser-rendered mobile simulation with resettable app state and a shared task s
 
 ## Limitations
 
-These clients simulate named commercial applications and are not those commercial products. The code and simulator data have distinct license files. No benchmark run was performed.
+These clients simulate named commercial applications and are not those commercial products. The code and simulator data have distinct license files. No benchmark run was performed. The README describes a phone that runs in the browser, and the Android-emulator playground is a separate OpenMobile2 release, so the platform facet is web rather than a mobile operating system.
 
 - Record JSON: https://awesomecua.github.io/resources/github-openmobile2-mobilegym-plusplus/record.json
 
@@ -57329,7 +57487,7 @@ The README marks evaluation code, checkpoints, environments, and data as release
 
 # OS-Atlas
 
-Foundation action models and data for GUI interaction.
+OS-Atlas GUI action models, including grounding bases fine-tuned from InternVL2-4B and Qwen2-VL-7B-Instruct that accept any image size and output 0-1000 relative coordinates.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-os-copilot-os-atlas/
 - Original source: https://github.com/OS-Copilot/OS-Atlas
@@ -57363,7 +57521,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # OS-Copilot
 
-Operating-system agent framework and assistant research.
+Open-source library for generalist agents acting on an operating system's web, terminals, files and third-party apps, with the FRIDAY assistant, which takes custom tools and self-learns Excel tasks.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-os-copilot-os-copilot/
 - Original source: https://github.com/OS-Copilot/OS-Copilot
@@ -57397,7 +57555,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # OS-Genesis
 
-GUI trajectory synthesis using environment interaction.
+Interaction-driven pipeline that synthesizes mobile and web GUI agent trajectories without human supervision or predefined tasks, via reverse task synthesis and a trajectory reward model.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-os-copilot-os-genesis/
 - Original source: https://github.com/OS-Copilot/OS-Genesis
@@ -57501,7 +57659,7 @@ Public task manifests, agent runner and evaluator code are present, and the link
 
 # OS-Sentinel
 
-Safety-oriented research for computer-use agents.
+Safety-checking environment and benchmark for mobile agents on AndroidWorld that judges proposed actions with rule-based and VLM-based checks, evaluated on the MobileRisk trajectory dataset.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-os-copilot-os-sentinel/
 - Original source: https://github.com/OS-Copilot/OS-Sentinel
@@ -57535,7 +57693,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # ScienceBoard
 
-Desktop tasks involving scientific software workflows.
+Scientific-workflow tasks for multimodal agents in desktop software such as ChimeraX, KAlgebra, Celestia, Grass GIS and Lean 4, with apps modified to expose state for evaluation.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-os-copilot-scienceboard/
 - Original source: https://github.com/OS-Copilot/ScienceBoard
@@ -57638,9 +57796,43 @@ These are reported split inventories, not online task-success measurements. Orig
 
 ---
 
+# Mind2Web 2
+
+Long-horizon agentic web search benchmark whose Agent-as-a-Judge framework scores time-varying, citation-backed answers, with evaluation scripts for its dev and test sets.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-osu-nlp-group-mind2web-2/
+- Original source: https://github.com/OSU-NLP-Group/Mind2Web-2
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, long-horizon
+- Evidence checked: 2026-10-17T17:18:21Z
+- ID: github:osu-nlp-group/mind2web-2
+
+## Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.github.io/resources/github-osu-nlp-group-mind2web-2/record.json
+
+## License declarations
+
+- code: MIT — https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web-2/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web-2/HEAD/README.md (retrieved 2026-10-17T17:18:21Z; SHA-256 5cc72b992cfc11094dcf341c284d5baadc6c66a302fdfd474b27913fe1c91f6f)
+- https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web-2/HEAD/LICENSE (retrieved 2026-10-17T17:18:56Z; SHA-256 93b43d692b033b76129504448695bfe76ef22d18b11e51352bfab4b5622e5aaa)
+
+---
+
 # Online Mind2Web
 
-Live website evaluation of web agents.
+300 tasks on 136 live websites for evaluating web agents online, with outdated tasks replaced over time, human-reviewed submissions and the WebJudge automatic evaluator.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-osu-nlp-group-online-mind2web/
 - Original source: https://github.com/OSU-NLP-Group/Online-Mind2Web
@@ -57726,7 +57918,7 @@ The release includes environment code, adversarial scenario configuration and RT
 
 # SeeAct
 
-Vision-based web agent with action grounding.
+Generalist web agent framework for large multimodal models such as GPT-4V, with a Playwright tool that runs agents on live websites, text-choice and set-of-mark grounding, and a crawler mode.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-osu-nlp-group-seeact/
 - Original source: https://github.com/OSU-NLP-Group/SeeAct
@@ -57797,7 +57989,7 @@ Exploration, task execution, browser integration and evaluation code are publish
 
 # UGround
 
-Universal visual grounding models for GUI agents.
+Code, training data and weights for universal visual grounding of GUI elements from screenshots, including Qwen2-VL-based UGround-V1 at 2B, 7B and 72B and offline and online evaluation suites.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-osu-nlp-group-uground/
 - Original source: https://github.com/OSU-NLP-Group/UGround
@@ -57864,7 +58056,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # Self Operating Computer
 
-Visual agent loop for interacting with a desktop.
+Framework, released in November 2023, in which a multimodal model views the screen and picks mouse and keyboard actions toward a goal, with backends such as GPT-4o, Claude 3, Gemini and LLaVA.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-othersideai-self-operating-computer/
 - Original source: https://github.com/OthersideAI/self-operating-computer
@@ -58153,7 +58345,7 @@ The split-ID inventory is not a count of sampled trajectories, live Android apps
 
 # InfiGUI-R1
 
-Reasoning-oriented GUI agent model.
+3B GUI agent trained in two stages: distilling spatial reasoning from teacher models, then reinforcement learning that rewards accurate sub-goals and trains error recovery.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-reallm-labs-infigui-r1/
 - Original source: https://github.com/Reallm-Labs/InfiGUI-R1
@@ -58227,7 +58419,7 @@ Source and npm release metadata for webmarker-js 0.7.0 are public. The documente
 
 # Tarsier
 
-Visual and text representation tools for browser agents.
+Perception utilities for web agents that tag interactable elements with typed IDs an LLM can act on, and use OCR to render page screenshots as whitespace-structured text for models without vision.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-reworkd-tarsier/
 - Original source: https://github.com/reworkd/tarsier
@@ -58498,7 +58690,7 @@ Definitions and instantiated tasks are different units. ServiceNow instance acce
 
 # AssistGUI
 
-Task-oriented desktop GUI automation framework.
+LLM-based assistant for automating work in desktop productivity software by watching the screen and issuing mouse and keyboard commands; its repository says the code will be released later.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-showlab-assistgui/
 - Original source: https://github.com/showlab/assistgui
@@ -58531,7 +58723,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # Computer Use OOTB
 
-Computer-use agent execution toolkit.
+Gradio desktop GUI agent for Windows and macOS that needs no Docker, using Claude 3.5 Computer Use over the API or ShowUI and UI-TARS run locally, with multi-display and phone remote control.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-showlab-computer-use-ootb/
 - Original source: https://github.com/showlab/computer_use_ootb
@@ -58612,7 +58804,7 @@ A captioning sample is not necessarily a unique video or complete task trajector
 
 # ShowUI
 
-Vision-language-action model for GUI interaction.
+Lightweight GUI-agent vision-language-action model from Show Lab and Microsoft, released with UI-guided token selection, training code, the ShowUI-web and ShowUI-desktop datasets and vLLM inference.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-showlab-showui/
 - Original source: https://github.com/showlab/ShowUI
@@ -58746,7 +58938,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # WorldGUI
 
-GUI agent evaluation with varied initial states.
+611 desktop GUI tasks that agents must complete from varied starting points, shipped with instructional videos and project files, plus the self-reflective WorldGUI-Agent baseline.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-showlab-worldgui/
 - Original source: https://github.com/showlab/WorldGUI
@@ -58779,7 +58971,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # MMInA
 
-Multihop multimodal internet navigation tasks.
+Multimodal web tasks in a WebArena-based environment that chain from 1 to 10 hops across sites such as a shopping store and Wikipedia, testing long-chain reasoning.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-shulin16-mmina/
 - Original source: https://github.com/shulin16/MMInA
@@ -58855,7 +59047,7 @@ This is the retained Sikuli X-1.0rc3 source line, explicitly marked unsupported 
 
 # Agent S
 
-Agent framework for general computer interaction.
+Simular's open-source framework for computer-use agents that click, type and scroll through desktop and web apps on macOS, Windows and Linux; its third generation, Agent S3, reports 72.6% on OSWorld.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-simular-ai-agent-s/
 - Original source: https://github.com/simular-ai/Agent-S
@@ -58889,7 +59081,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # Skyvern
 
-Visual browser workflow automation framework.
+Browser workflow automation that relies on vision LLMs and a swarm of agents instead of fixed XPath selectors, offered as a Playwright-compatible SDK and a no-code workflow builder.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-skyvern-ai-skyvern/
 - Original source: https://github.com/Skyvern-AI/skyvern
@@ -58999,7 +59191,7 @@ The released repository includes training policies, experiment configuration and
 
 # Steel Browser
 
-Browser infrastructure for agent applications.
+Open-source browser API managing Chrome sessions for agents, reachable through Puppeteer, Playwright or Selenium over CDP, with persisted cookies, proxy rotation, stealth and a session debugging UI.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-steel-dev-steel-browser/
 - Original source: https://github.com/steel-dev/steel-browser
@@ -59033,7 +59225,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # Surf New
 
-Browser-agent application associated with Steel.
+Next.js and FastAPI playground from Steel for trying web agents in a controlled browser environment, with live views of browser interaction and support for providers such as Claude and GPT-4.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-steel-dev-surf-new/
 - Original source: https://github.com/steel-dev/surf.new
@@ -59067,7 +59259,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # GELab Zero
 
-Mobile GUI agent model and execution resources.
+Open mobile GUI agent stack pairing a 4B model that runs on consumer hardware with local multi-device infrastructure, an MCP server, and AndroidDaily benchmark tasks.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-stepfun-ai-gelab-zero/
 - Original source: https://github.com/stepfun-ai/gelab-zero
@@ -59151,7 +59343,7 @@ This is an adjacent API/coding benchmark, not a screenshot-only task suite. Pres
 
 # POINTS-GUI
 
-GUI models for interface perception and action grounding.
+POINTS-GUI-G-8B GUI grounding model, trained from a POINTS-1.5 base without native grounding through a data pipeline that unifies coordinates, filters noise and adds hard cases.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-tencent-points-gui/
 - Original source: https://github.com/Tencent/POINTS-GUI
@@ -59184,7 +59376,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # AppAgent
 
-Mobile app agent using exploration and reusable knowledge.
+Multimodal agent that operates Android apps through taps and swipes without back-end access, building a reusable knowledge base from autonomous exploration or from watching human demonstrations.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-tencentqqgylab-appagent/
 - Original source: https://github.com/TencentQQGYLab/AppAgent
@@ -59302,7 +59494,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # AndroidLab
 
-Training and evaluation environment for Android agents.
+Reproducible Android benchmark of 138 tasks across nine apps on predefined virtual devices, run via AVD on Mac or Docker on Linux, released with the Android Instruct training set.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-thudm-android-lab/
 - Original source: https://github.com/THUDM/Android-Lab
@@ -59352,7 +59544,7 @@ The benchmark uses predefined virtual-device images and apps chosen to work with
 
 # AutoWebGLM
 
-Language-model-based web navigation research.
+Web navigation agent built on ChatGLM3-6B that simplifies HTML for the model, is trained on hybrid human and AI data with RL and rejection sampling, and comes with the bilingual AutoWebBench.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-thudm-autowebglm/
 - Original source: https://github.com/THUDM/AutoWebGLM
@@ -59454,7 +59646,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # MobileRL
 
-Reinforcement-learning framework for mobile agents.
+Online agentic RL framework for mobile GUI agents built around the difficulty-adaptive ADAGRPO algorithm, with Dockerized AndroidWorld and AndroidLab evaluation and a MobileRL-9B checkpoint.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-thudm-mobilerl/
 - Original source: https://github.com/THUDM/MobileRL
@@ -59777,7 +59969,7 @@ Publisher-reported inventory. GUI-only, agent-user and MCP-augmented configurati
 
 # Cua
 
-Infrastructure and libraries for computer-use agents.
+Monorepo behind Cua Spaces, which gives agents full macOS or Linux desktops, plus Cua Driver for operating native apps, Lume for Apple Silicon VMs, Cua Bench and the CUA-S1 decision models.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-trycua-cua/
 - Original source: https://github.com/trycua/cua
@@ -59818,7 +60010,7 @@ Virtual machine management for local computer-use environments.
 - Kind: infrastructure
 - Review: curated
 - Scope: core
-- Environments: macos, linux
+- Environments: desktop, macos, linux
 - Topics: sandbox
 - Evidence checked: 2026-10-16T06:40:53Z
 - ID: github:trycua/lume
@@ -59845,7 +60037,7 @@ Lume is a component of the Cua repository. The legacy repository URL now serves 
 
 # FingerTip-20K
 
-Mobile interface interaction data.
+Over 20,000 human Android episodes across 500+ apps with user context and long-term usage patterns, plus tracks for proactive intent prediction and personalized execution.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-tsinghua-fib-lab-fingertip-20k/
 - Original source: https://github.com/tsinghua-fib-lab/FingerTip-20K
@@ -60021,7 +60213,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # SaaS-Bench
 
-Benchmark for agents interacting with SaaS applications.
+106 browser-driven business workflows across 23 self-hosted SaaS apps in six domains, scored by per-task verifiers that read each app's database and give partial credit.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-unipat-ai-saas-bench/
 - Original source: https://github.com/UniPat-AI/SaaS-Bench
@@ -60652,7 +60844,7 @@ Training and evaluation pipeline for conversational mobile GUI agents, with acti
 
 ## Limitations
 
-Inclusion does not establish reproducibility or endorsement.
+Its README describes mobile GUI agents without naming an operating system.
 
 - Record JSON: https://awesomecua.github.io/resources/github-x-lance-meta-gui-baseline/record.json
 
@@ -60672,7 +60864,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # Mobile Env
 
-Environment toolkit for mobile interaction agents.
+AndroidEnv-based platform for building GUI agent benchmarks and training agents, where task definition files emit instructions, rewards and episode ends from screen text, view hierarchy or log events.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-x-lance-mobile-env/
 - Original source: https://github.com/X-LANCE/Mobile-Env
@@ -60773,7 +60965,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # AgentTrek
 
-Agent trajectory generation using web tutorial resources.
+Synthesizes browser-agent trajectories by replaying web tutorials as guidance, releasing the trajectory data with multimodal grounding and reasoning and an AgentTrek-32B agent.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-xlang-ai-agenttrek/
 - Original source: https://github.com/xlang-ai/AgentTrek
@@ -60925,7 +61117,7 @@ Counts were computed from unique task identifiers in the two inspected manifests
 
 # OSWorld-G
 
-Desktop grounding evaluation associated with OSWorld.
+Computer-use grounding benchmark with original and refined instructions, released with the Jedi synthetic data pipeline, a 4-million-example Jedi dataset and Jedi-3B and Jedi-7B models.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-xlang-ai-osworld-g/
 - Original source: https://github.com/xlang-ai/OSWorld-G
@@ -61027,7 +61219,7 @@ Counted unique task IDs in the full manifest. Verbose versus abstract instructio
 
 # GUICourse
 
-GUI instruction data and model training resources.
+Three datasets for turning general VLMs into GUI agents: GUIEnv for OCR and grounding, GUIAct with 67k single-step and 15k multi-step web and Android actions, and GUIChat dialogues.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-yiye3-guicourse/
 - Original source: https://github.com/yiye3/GUICourse
@@ -61060,14 +61252,14 @@ Inclusion does not establish reproducibility or endorsement.
 
 # RiOSWorld
 
-Evaluation environment for agents operating iOS interfaces.
+Measures risky behavior of multimodal computer-use agents in an Ubuntu virtual machine, with risk scenarios such as phishing emails and released evaluation trajectories.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-yjyddq-riosworld/
 - Original source: https://github.com/yjyddq/RiOSWorld
 - Kind: benchmark
 - Review: curated
 - Scope: core
-- Environments: ios
+- Environments: desktop, linux
 - Topics: evaluation
 - Evidence checked: 2026-10-16T06:35:59Z
 - ID: github:yjyddq/riosworld
@@ -61161,7 +61353,7 @@ The README retains an older release-pending notice alongside a later checkpoint-
 
 # AMEX
 
-Android interaction data with interface annotations.
+Code for AMEX Android GUI data that converts its three annotation levels into question-answer pairs and fine-tunes a LLaMA2-Accessory model, with a released checkpoint.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-yuxiangchai-amex-codebase/
 - Original source: https://github.com/YuxiangChai/AMEX-codebase
@@ -61311,7 +61503,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # GUI-G2
 
-GUI grounding model and associated training code.
+GUI grounding models at 3B and 7B trained with Gaussian rewards for click proximity to element centers and region coverage, with variance scaled to element size.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-zju-real-gui-g2/
 - Original source: https://github.com/ZJU-REAL/GUI-G2
@@ -62333,7 +62525,7 @@ Desktop GUI trajectory data supporting multiple interface understanding tasks.
 - Kind: dataset
 - Review: curated
 - Scope: core
-- Environments: windows
+- Environments: desktop, windows
 - Topics: grounding, data-generation
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:0b590d03a3d5103a79e4
@@ -62484,7 +62676,7 @@ Card-reported row counts are not unique-screen counts. The source field is impor
 
 # OS-Atlas Data
 
-GUI grounding data released by the OS-Atlas project.
+GUI grounding pre-training data for OS-Atlas in desktop (Linux, macOS, Windows), mobile and web domains, with element boxes stored as relative left, top, right and bottom ratios.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-0fdeb1cf5f49f84820e6/
 - Original source: https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data
@@ -62548,7 +62740,7 @@ Web screenshot and interface data for UI research.
 
 ## Limitations
 
-Inclusion does not establish reproducibility or endorsement.
+The card links the WebUI project's ACM publication (DOI 10.1145/3544548.3581158) and website, not an arXiv record or a catalogued repository, so no paper or family relation is recorded.
 
 - Record JSON: https://awesomecua.github.io/resources/url-13b9442bcb6a8b984c4f/record.json
 
@@ -62562,13 +62754,14 @@ Inclusion does not establish reproducibility or endorsement.
 ## Primary evidence
 
 - https://huggingface.co/api/datasets/biglab/webui-all (retrieved 2026-10-16T06:38:26Z; SHA-256 70928db908760c1561bfc8e0cd7d925e0103ffddef4676fbaa7c1756a804b99a)
+- https://huggingface.co/datasets/biglab/webui-all/raw/main/README.md (retrieved 2026-10-17T16:10:53Z; SHA-256 93bd04914735f748d687b71597970a79d95ae8636e7ed75d267ebd6954d11a8f)
 - https://huggingface.co/api/datasets/biglab/webui-all (retrieved 2026-10-16T06:38:26Z; SHA-256 70928db908760c1561bfc8e0cd7d925e0103ffddef4676fbaa7c1756a804b99a)
 
 ---
 
 # Skyvern Cloud
 
-Hosted visual browser workflow automation service.
+Hosted Skyvern service for AI browser workflows such as invoice downloads and form filling, with built-in CAPTCHA and 2FA handling, proxy geotargeting, run explanations and JSON or CSV output.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-15ed5fd3cd950d837f98/
 - Original source: https://www.skyvern.com/
@@ -63113,7 +63306,7 @@ The public Hub manifest lists weight files; the catalog did not download weights
 
 # EvoCUA 8B 20260105
 
-Released model checkpoint associated with EvoCUA.
+EvoCUA computer-use agent checkpoint (20260105 release) with about 8.8B BF16 parameters in the Qwen3-VL architecture, tagged for OSWorld and for English and Chinese.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-2a2682f86dcb8ebc9a80/
 - Original source: https://huggingface.co/meituan/EvoCUA-8B-20260105
@@ -63292,7 +63485,7 @@ Public JSONL annotations and screenshots are present. MIT is declared in the dat
 
 # OS-Atlas Base 4B
 
-Released model checkpoint associated with OS-Atlas.
+OS-Atlas base checkpoint with about 4.1B parameters, fine-tuned from InternVL2-4B and loaded in Transformers through custom InternVL chat model code.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-30c831a1198b9bc2a0f5/
 - Original source: https://huggingface.co/OS-Copilot/OS-Atlas-Base-4B
@@ -63511,7 +63704,10 @@ The Hub manifest contains 17 safetensors shards and tokenizer/configuration file
 - code: not recorded
 - data: not recorded
 - document: not recorded
-- weights: not recorded
+- weights: mit — https://huggingface.co/xTRam1/plan-and-act-planner-70b/raw/main/README.md
+
+- weights review: The model card declares MIT in its metadata header (license: mit), beside a template comment asking the publisher to update it if needed. It is recorded as the publisher's declaration and does not override the Llama-3.3-70B-Instruct base model terms.
+  Sources: https://huggingface.co/xTRam1/plan-and-act-planner-70b/raw/main/README.md
 
 ## Primary evidence
 
@@ -63559,9 +63755,12 @@ V2 refreshes task strings and rubrics while preserving V1 task IDs. Counts are t
 ## License declarations
 
 - code: not recorded
-- data: not recorded
+- data: mit — https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md
 - document: not recorded
 - weights: not recorded
+
+- data review: The benchmark's Hub dataset card declares MIT in its metadata header (license: mit).
+  Sources: https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md
 
 ## Primary evidence
 
@@ -63825,7 +64024,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # UI-TARS 1.5 7B
 
-Released model checkpoint associated with UI-TARS.
+UI-TARS 1.5 GUI-agent checkpoint in the Qwen2.5-VL architecture with about 8.3B parameters stored in FP32, released under Apache-2.0 for English image-text-to-text use in Transformers.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-4d32ad3682ae2d71c178/
 - Original source: https://huggingface.co/ByteDance-Seed/UI-TARS-1.5-7B
@@ -64400,7 +64599,7 @@ The card reports more than 100 websites but does not provide a precise website t
 
 # EvoCUA 32B 20260105
 
-Released model checkpoint associated with EvoCUA.
+Larger EvoCUA computer-use agent checkpoint (20260105 release) with about 33B BF16 parameters in the Qwen3-VL architecture, tagged for OSWorld and for English and Chinese.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-60a95f34072aeb2771cc/
 - Original source: https://huggingface.co/meituan/EvoCUA-32B-20260105
@@ -64434,7 +64633,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # UI-Venus 2 9B
 
-Released model checkpoint associated with UI-Venus.
+UI-Venus 2 GUI-agent checkpoint fine-tuned from Qwen3.5-9B, with about 9.4B BF16 parameters in the Qwen3.5 multimodal architecture, loaded through Transformers for image-text-to-text.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-611df37e5f3caa6befd7/
 - Original source: https://huggingface.co/inclusionAI/UI-Venus-2-9b
@@ -64475,7 +64674,7 @@ A single Hub release containing GUI-R1 3B and 7B action-model checkpoints traine
 - Kind: model
 - Review: curated
 - Scope: core
-- Environments: windows, linux, macos, android, web
+- Environments: desktop, windows, linux, macos, android, web
 - Topics: grounding, reinforcement-learning, action-prediction
 - Evidence checked: 2026-10-17T02:44:30Z
 - ID: url:61a5321db10fc8a312b9
@@ -64623,7 +64822,7 @@ James Allen, Nathanael Chambers, George Ferguson, Lucian Galescu, Hyuckchul Jung
 
 # ScaleCUA Data
 
-Cross-platform computer-use data released with ScaleCUA.
+Cross-platform training data released with ScaleCUA, with grounding and navigation annotations for Ubuntu, Windows, macOS, Android, iPhone and web screenshots.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-631e74223e198ef40202/
 - Original source: https://huggingface.co/datasets/OpenGVLab/ScaleCUA-Data
@@ -64753,7 +64952,7 @@ Public Hub revision 5a0b35fb includes six bbox JSON files and associated image a
 
 # AskUI
 
-Visual computer interaction and automation platform.
+Agentic test-automation platform running plain-language test cases from pixels rather than selectors on desktop apps, Citrix, in-car head units and mobile devices, deployable on-premise or air-gapped.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-69d6afe38a9a128ba9f7/
 - Original source: https://www.askui.com/
@@ -64848,6 +65047,7 @@ Inclusion does not establish reproducibility or endorsement.
 ## Primary evidence
 
 - https://huggingface.co/api/datasets/xlangai/CUA-Gym (retrieved 2026-10-16T06:38:26Z; SHA-256 43b8ebde3b971e1b8b61d789c786ead59b45a2490bc6ed19e204bafc03a31f44)
+- https://huggingface.co/datasets/xlangai/CUA-Gym/raw/main/README.md (retrieved 2026-10-17T16:10:25Z; SHA-256 962cd9162bea83f7adfedb3da50129bcf4203ae65176bdf53f0af6788b9603ef)
 - https://huggingface.co/api/datasets/xlangai/CUA-Gym (retrieved 2026-10-16T06:38:26Z; SHA-256 43b8ebde3b971e1b8b61d789c786ead59b45a2490bc6ed19e204bafc03a31f44)
 
 ---
@@ -65165,7 +65365,7 @@ Rows are not unique screenshots. The card documents image-downscaling convention
 
 # ScreenSpot
 
-Screenshot-based GUI element grounding benchmark.
+GUI grounding test set of 1,272 screenshot instructions from iOS, Android, macOS, Windows and web interfaces, each labeled with the target element's bounding box.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-7abb418096432f56c685/
 - Original source: https://huggingface.co/datasets/rootsautomation/ScreenSpot
@@ -65391,7 +65591,7 @@ The public Hub manifest lists weight files; the catalog did not download weights
 
 # OS-Atlas Base 7B
 
-Released model checkpoint associated with OS-Atlas.
+OS-Atlas base checkpoint fine-tuned from Qwen2-VL-7B-Instruct, using the standard Qwen2-VL architecture in Transformers with about 8.3B BF16 parameters.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-82a30f45d9e855f423c7/
 - Original source: https://huggingface.co/OS-Copilot/OS-Atlas-Base-7B
@@ -65869,7 +66069,7 @@ The model card and four public safetensors shards establish this specific releas
 
 # AgentNet
 
-Computer-use demonstrations released with OpenCUA.
+22.6K human-annotated desktop computer-use tasks on Windows, macOS and Ubuntu, released with OpenCUA for training and evaluating vision-language-action models.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-964d70c40bfc5ca8e1ee/
 - Original source: https://huggingface.co/datasets/xlangai/AgentNet
@@ -66097,7 +66297,7 @@ Two public safetensors shards and model/tokenizer configuration are present. The
 
 # CAGUI
 
-Mobile GUI data released by the OpenBMB team.
+Chinese Android GUI benchmark released with AgentCPM-GUI, with a grounding track for widgets and OCR text and an agent track for multi-step tasks in Chinese apps.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-a06622da7688e3718a7b/
 - Original source: https://huggingface.co/datasets/openbmb/CAGUI
@@ -66274,7 +66474,7 @@ Tom Yeh, Tsung-Hsiang Chang, Robert C. Miller
 
 # Fara 7B
 
-Released model checkpoint associated with Fara.
+Microsoft's Fara checkpoint, a Qwen2.5-VL-architecture image-text-to-text model with about 8.3B BF16 parameters, English, MIT-licensed and linked to arXiv paper 2511.19663.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-a4da77ee63f879cc8e63/
 - Original source: https://huggingface.co/microsoft/Fara-7b
@@ -66358,7 +66558,7 @@ Data for learning text-dragging interactions in graphical interfaces.
 
 ## Limitations
 
-Inclusion does not establish reproducibility or endorsement.
+The card links its paper (arXiv 2601.06031) and code repository (OSU-NLP-Group/GUI-Drag). Neither is a reviewed catalog record yet, so no relation is recorded.
 
 - Record JSON: https://awesomecua.github.io/resources/url-aa28e1329a52e341d285/record.json
 
@@ -66372,13 +66572,14 @@ Inclusion does not establish reproducibility or endorsement.
 ## Primary evidence
 
 - https://huggingface.co/api/datasets/osunlp/GUI-Drag-dataset (retrieved 2026-10-16T06:38:26Z; SHA-256 cdb8be8c4692a8ddcf8a66c1f0be666a9214718445925fb3c88615a0d641bf3a)
+- https://huggingface.co/datasets/osunlp/GUI-Drag-dataset/raw/main/README.md (retrieved 2026-10-17T16:10:54Z; SHA-256 907c8a5169c180491ef8c26c9428b2c67bc4e26f472d6423ce3715cbe47f76ef)
 - https://huggingface.co/api/datasets/osunlp/GUI-Drag-dataset (retrieved 2026-10-16T06:38:26Z; SHA-256 cdb8be8c4692a8ddcf8a66c1f0be666a9214718445925fb3c88615a0d641bf3a)
 
 ---
 
 # CMGUI
 
-Mobile GUI interaction data from the CMGUI project.
+18k trajectories with 98k steps from more than 50 Chinese mobile apps in domains such as e-commerce and social media, for building GUI agents on Chinese apps.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-ab26f9ef56d651cee587/
 - Original source: https://huggingface.co/datasets/alibabagroup/CMGUI
@@ -66406,6 +66607,7 @@ Inclusion does not establish reproducibility or endorsement.
 ## Primary evidence
 
 - https://huggingface.co/api/datasets/alibabagroup/CMGUI (retrieved 2026-10-16T06:38:26Z; SHA-256 aa1e063e73269acd0cb06adcef67d6230f0fe9498ed361d92234053dcf035685)
+- https://huggingface.co/datasets/alibabagroup/CMGUI/raw/main/README.md (retrieved 2026-10-17T16:10:26Z; SHA-256 6f43b9e5f2c783f91cc3271f51db6a9a521c29f21954a2a30ad0cfa186e1c1b7)
 - https://huggingface.co/api/datasets/alibabagroup/CMGUI (retrieved 2026-10-16T06:38:26Z; SHA-256 aa1e063e73269acd0cb06adcef67d6230f0fe9498ed361d92234053dcf035685)
 
 ---
@@ -66517,9 +66719,12 @@ The release provides JSONL data and API annotations. This is Android intent-call
 ## License declarations
 
 - code: not recorded
-- data: not recorded
+- data: apache-2.0 — https://huggingface.co/datasets/mllmTeam/DroidCall/raw/main/README.md
 - document: not recorded
 - weights: not recorded
+
+- data review: The Hub dataset card declares Apache-2.0 in its metadata header (license: apache-2.0). The companion repository's MIT code license is a separate declaration.
+  Sources: https://huggingface.co/datasets/mllmTeam/DroidCall/raw/main/README.md
 
 ## Primary evidence
 
@@ -66760,7 +66965,7 @@ Stage 2 trajectory release, Hub revision bd6f1ed4, is distinct from Stage 1 grou
 
 # Mobile3M
 
-Mobile interface data for multimodal UI research.
+Pre-training corpus for Xiaomi's MobileVLM, distributed as per-app graph archives for mobile apps such as Baidu Map, QQ Music, Ctrip and Vipshop.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-b80bfa0a4939a493a11f/
 - Original source: https://huggingface.co/datasets/xwk123/Mobile3M
@@ -66812,7 +67017,7 @@ Official README calls this a partial training release and says app data will be 
 
 # DragOn
 
-GUI interaction dataset focused on drag operations.
+Drag-grounding training and evaluation data pairing each screenshot instruction with start and end boxes, across text highlighting, spreadsheet cells, slide resizing and sliders.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-b854ff53e497da3a5ad8/
 - Original source: https://huggingface.co/datasets/Hcompany/DragOn
@@ -66826,7 +67031,7 @@ GUI interaction dataset focused on drag operations.
 
 ## Limitations
 
-Inclusion does not establish reproducibility or endorsement.
+The card cites a workshop paper titled "DragOn: A Drag-Grounding Benchmark and Training Dataset for GUI Agents" without an arXiv link. arXiv 2606.06322 has a different title, so no paper relation is recorded.
 
 - Record JSON: https://awesomecua.github.io/resources/url-b854ff53e497da3a5ad8/record.json
 
@@ -66840,6 +67045,7 @@ Inclusion does not establish reproducibility or endorsement.
 ## Primary evidence
 
 - https://huggingface.co/api/datasets/Hcompany/DragOn (retrieved 2026-10-16T06:38:26Z; SHA-256 08b5529ce01781143147d56e2278aec2e5bdd972ba7e2fae6ba7e65e62688d40)
+- https://huggingface.co/datasets/Hcompany/DragOn/raw/main/README.md (retrieved 2026-10-17T16:10:54Z; SHA-256 e7ef94cafcfd155961beec373f2f4e727715b7d517a819f52b5407fc2dec4009)
 - https://huggingface.co/api/datasets/Hcompany/DragOn (retrieved 2026-10-16T06:38:26Z; SHA-256 08b5529ce01781143147d56e2278aec2e5bdd972ba7e2fae6ba7e65e62688d40)
 
 ---
@@ -67024,7 +67230,7 @@ The release contains planner and actor files for two web environments. No sample
 
 # ScreenSpot v2
 
-Revised ScreenSpot grounding evaluation data from OS-Atlas.
+Second version of the ScreenSpot grounding test set, published by OS-Copilot as separate desktop, mobile and web annotation files with a shared screenshot archive.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-bd7214de6d98917c2350/
 - Original source: https://huggingface.co/datasets/OS-Copilot/ScreenSpot-v2
@@ -67286,7 +67492,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # ShowUI 2B
 
-Released model checkpoint associated with ShowUI.
+ShowUI vision-language-action checkpoint fine-tuned from Qwen2-VL-2B-Instruct, published as a single PyTorch weight file under the MIT license and tagged for GUI agents and computer use.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-c0f39f7cf2cd9c18e8bd/
 - Original source: https://huggingface.co/showlab/ShowUI-2B
@@ -67368,7 +67574,7 @@ The recipes reuse source images and are not additive datasets. This download con
 
 # UGround V1 Data
 
-Training data released with UGround V1.
+Gated web grounding training data for UGround in Web-Hybrid and Web-Direct subsets, with a bounding-box version whose coordinates are normalized to 0-999.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-c4898ad1bfc049926a63/
 - Original source: https://huggingface.co/datasets/osunlp/UGround-V1-Data
@@ -67423,7 +67629,7 @@ A bilingual GLM-4V-based execution model that uses screenshots, task instruction
 - Kind: model
 - Review: curated
 - Scope: core
-- Environments: windows, macos, cross-platform
+- Environments: desktop, windows, macos, cross-platform
 - Topics: grounding, action-prediction, screen-understanding
 - Evidence checked: 2026-10-17T02:44:29Z
 - ID: url:c5eb975c0d66f8a2954f
@@ -67555,7 +67761,7 @@ Counts describe target annotations, not unique screenshots or expanded language/
 
 # AutoGLM Phone 9B
 
-Released model checkpoint associated with Open-AutoGLM.
+AutoGLM phone-agent checkpoint for Open-AutoGLM, fine-tuned from GLM-4.1V-9B-Base with about 10.3B BF16 parameters and tagged for Chinese.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-c918d5c828a3c6cfbc5d/
 - Original source: https://huggingface.co/zai-org/AutoGLM-Phone-9B
@@ -67589,7 +67795,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # MobileViews
 
-Mobile screenshot and interface hierarchy dataset.
+Over 600,000 Android screenshot and view-hierarchy pairs from more than 20,000 Google Play apps, collected with an optimized DroidBot, with complete per-app traces.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-cc4aa8caeee0cff58e73/
 - Original source: https://huggingface.co/datasets/mllmTeam/MobileViews
@@ -67735,7 +67941,7 @@ Greg Little, Tessa A. Lau, Allen Cypher, James Lin, Eben M. Haber, Eser Kandogan
 
 # Phi-Ground checkpoint
 
-Released model checkpoint associated with Phi-Ground.
+Microsoft Phi-Ground GUI grounding checkpoint fine-tuned from Phi-3.5-vision-instruct, shipped as two PyTorch weight shards with custom Phi-3-V configuration and processing code under MIT.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-cee45b940d5fbff3ccca/
 - Original source: https://huggingface.co/microsoft/Phi-Ground
@@ -67924,7 +68130,7 @@ The official API resolves the former THUDM namespace to zai-org and lists four s
 
 # AutoGLM Phone 9B Multilingual
 
-Released model checkpoint associated with Open-AutoGLM.
+Multilingual variant of the AutoGLM phone-agent checkpoint for Open-AutoGLM, likewise fine-tuned from GLM-4.1V-9B-Base with about 10.3B BF16 parameters.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-d236e7ec7a2b0028950a/
 - Original source: https://huggingface.co/zai-org/AutoGLM-Phone-9B-Multilingual
@@ -68114,9 +68320,12 @@ Trajectory rows and reviewer rows have different grains. Internal task labels do
 ## License declarations
 
 - code: not recorded
-- data: not recorded
+- data: mit — https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md
 - document: not recorded
 - weights: not recorded
+
+- data review: The benchmark's Hub dataset card declares MIT in its metadata header (license: mit).
+  Sources: https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md
 
 ## Primary evidence
 
@@ -68248,7 +68457,7 @@ The card describes 140 single-app and 10 cross-app tasks. Task and app counts ar
 
 # GELab Zero 4B Preview
 
-Released model checkpoint associated with GELab Zero.
+Preview GELab-Zero phone-use agent checkpoint fine-tuned from Qwen3-VL-4B-Instruct, with about 4.4B BF16 parameters, tagged for Android in English and Chinese, under Apache-2.0.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-d7ad447ecd712c6d51b8/
 - Original source: https://huggingface.co/stepfun-ai/GELab-Zero-4B-preview
@@ -68416,6 +68625,39 @@ The public Hub manifest lists weight files; the catalog did not download weights
 
 ---
 
+# Amazon Nova Act
+
+AWS service for building and deploying agents that automate browser-based UI workflows from natural language and Python, powered by a custom Nova 2 Lite model.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-dec156cbf0cb1181f7b6/
+- Original source: https://aws.amazon.com/nova/act/
+- Kind: product
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: automation, web-navigation
+- Evidence checked: 2026-10-17T17:18:21Z
+- ID: url:dec156cbf0cb1181f7b6
+
+## Limitations
+
+Inclusion does not establish reproducibility or endorsement.
+
+- Record JSON: https://awesomecua.github.io/resources/url-dec156cbf0cb1181f7b6/record.json
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://aws.amazon.com/nova/act/ (retrieved 2026-10-17T17:18:21Z; SHA-256 4e4e60092351a85d0b99186a745d6295b170958be59092a786eda369923bd691)
+
+---
+
 # GUI-R1 data bundle
 
 Training and evaluation Parquet bundles accompanying GUI-R1, including GUI grounding and mobile/web action-prediction data.
@@ -68425,7 +68667,7 @@ Training and evaluation Parquet bundles accompanying GUI-R1, including GUI groun
 - Kind: dataset
 - Review: curated
 - Scope: core
-- Environments: windows, linux, macos, android, web
+- Environments: desktop, windows, linux, macos, android, web
 - Topics: grounding, reinforcement-learning, evaluation
 - Evidence checked: 2026-10-17T02:42:32Z
 - ID: url:df680385f18b01a825be
@@ -68577,7 +68819,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # GUI-Actor 7B Qwen2-VL
 
-Released model checkpoint associated with GUI-Actor.
+GUI-Actor checkpoint fine-tuned from Qwen2-VL-7B-Instruct, with about 8.4B BF16 parameters, whose config names a pointer variant of the Qwen2-VL class rather than the stock one, under MIT.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-e3e5dd82a3102689c4ea/
 - Original source: https://huggingface.co/microsoft/GUI-Actor-7B-Qwen2-VL
@@ -68611,7 +68853,7 @@ Inclusion does not establish reproducibility or endorsement.
 
 # UGround V1 7B
 
-Released model checkpoint associated with UGround.
+UGround-V1 checkpoint fine-tuned from Qwen2-VL-7B, with about 8.3B BF16 parameters in the standard Qwen2-VL architecture, provided as safetensors and a PyTorch file under Apache-2.0.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-e554295a7f3f5c9ad0d6/
 - Original source: https://huggingface.co/osunlp/UGround-V1-7B
@@ -68967,7 +69209,7 @@ The card identifies deprecated desktop files with screenshot-mapping errors and 
 
 # ShowUI Desktop
 
-Desktop interaction data released with ShowUI.
+7,496 desktop grounding examples built from OmniAct screenshots, with annotations rewritten by GPT-4o to describe element appearance, spatial relations and function.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-f976dec3d1c5e0bedbd7/
 - Original source: https://huggingface.co/datasets/showlab/ShowUI-desktop-8K
@@ -69139,6 +69381,7 @@ Raw and Parquet folders are alternative views of the same data. Each sample desc
 ## Primary evidence
 
 - https://huggingface.co/datasets/h-siyuan/ScreenDrag/raw/main/README.md (retrieved 2026-10-16T11:12:56Z; SHA-256 39c7c028f7ef5ca5c75f79b59a107c7e25444776095a2a08bb7535c4f523f7fa)
+- https://raw.githubusercontent.com/showlab/showui-pi/HEAD/README.md (retrieved 2026-10-16T11:09:28Z; SHA-256 88df552ccbe80efd7020905d77d526f4f9efe2d09a11fed2714b083988f9dcef)
 
 ---
 

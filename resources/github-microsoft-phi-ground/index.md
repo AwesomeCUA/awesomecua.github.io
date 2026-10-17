@@ -1,6 +1,6 @@
 # Phi-Ground
 
-GUI grounding model and associated evaluation resources.
+Microsoft GUI grounding models from an empirical study of grounding training, from data collection to model training, released as Phi-Ground-4B-7C with evaluation code.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-microsoft-phi-ground/
 - Original source: https://github.com/microsoft/Phi-Ground

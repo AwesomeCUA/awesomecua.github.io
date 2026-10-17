@@ -1,6 +1,6 @@
 # Cradle
 
-General computer-control framework using visual interfaces.
+Framework in which foundation models control games and software from screenshots alone, acting through keyboard and mouse, shown on RDR2, Stardew Valley, Cities: Skylines and Dealer's Life 2.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-baai-agents-cradle/
 - Original source: https://github.com/BAAI-Agents/Cradle

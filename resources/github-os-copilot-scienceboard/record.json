@@ -146,10 +146,16 @@
   "name": "ScienceBoard",
   "notes": "",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/README.md",
+      "target_id": "arxiv:2505.19897",
+      "type": "documented_by"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Desktop tasks involving scientific software workflows.",
+  "summary": "Scientific-workflow tasks for multimodal agents in desktop software such as ChimeraX, KAlgebra, Celestia, Grass GIS and Lean 4, with apps modified to expose state for evaluation.",
   "topics": [
     "evaluation",
     "science"

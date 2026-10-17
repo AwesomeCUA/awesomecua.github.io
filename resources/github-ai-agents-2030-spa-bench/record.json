@@ -146,7 +146,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Smartphone agent evaluation benchmark.",
+  "summary": "340 single-app and cross-app tasks over 66 Chinese and English Android apps, with plug-in support for 11 smartphone agents and automatic coarse-to-fine success detection.",
   "topics": [
     "evaluation",
     "mobile-navigation"

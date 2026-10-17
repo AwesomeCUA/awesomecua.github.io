@@ -15,6 +15,7 @@
     }
   },
   "environments": [
+    "desktop",
     "macos",
     "windows",
     "linux"

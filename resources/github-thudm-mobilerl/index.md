@@ -1,6 +1,6 @@
 # MobileRL
 
-Reinforcement-learning framework for mobile agents.
+Online agentic RL framework for mobile GUI agents built around the difficulty-adaptive ADAGRPO algorithm, with Dockerized AndroidWorld and AndroidLab evaluation and a MobileRL-9B checkpoint.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-thudm-mobilerl/
 - Original source: https://github.com/THUDM/MobileRL

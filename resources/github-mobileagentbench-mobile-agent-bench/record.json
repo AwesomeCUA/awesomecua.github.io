@@ -50,7 +50,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Evaluation toolkit and tasks for mobile agents.",
+  "summary": "Automated benchmark for mobile LLM agents whose default tasks use ten Simple Mobile Tools Android apps, installed as a Python library that detects task completion.",
   "topics": [
     "evaluation",
     "mobile-navigation"

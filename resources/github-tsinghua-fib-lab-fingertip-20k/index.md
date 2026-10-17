@@ -1,6 +1,6 @@
 # FingerTip-20K
 
-Mobile interface interaction data.
+Over 20,000 human Android episodes across 500+ apps with user context and long-term usage patterns, plus tracks for proactive intent prediction and personalized execution.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-tsinghua-fib-lab-fingertip-20k/
 - Original source: https://github.com/tsinghua-fib-lab/FingerTip-20K

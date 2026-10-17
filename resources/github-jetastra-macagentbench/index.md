@@ -1,6 +1,6 @@
 # MacAgentBench
 
-Benchmark of tasks in macOS desktop applications.
+676 macOS tasks across 25 applications, each run in its own Docker container and scored by deterministic rule-based checks with multiple checkpoints.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-jetastra-macagentbench/
 - Original source: https://github.com/JetAstra/MacAgentBench

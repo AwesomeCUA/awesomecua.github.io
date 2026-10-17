@@ -1,6 +1,6 @@
 # AgentCPM-GUI
 
-GUI agent model with a focus on mobile interaction.
+8B on-device smartphone agent built on MiniCPM-V that operates Chinese and English apps from screenshots, trained with reinforcement fine-tuning and a compact JSON action space.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-openbmb-agentcpm-gui/
 - Original source: https://github.com/OpenBMB/AgentCPM-GUI

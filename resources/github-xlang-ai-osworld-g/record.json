@@ -126,7 +126,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Desktop grounding evaluation associated with OSWorld.",
+  "summary": "Computer-use grounding benchmark with original and refined instructions, released with the Jedi synthetic data pipeline, a 4-million-example Jedi dataset and Jedi-3B and Jedi-7B models.",
   "topics": [
     "evaluation",
     "grounding"

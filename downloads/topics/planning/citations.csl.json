@@ -10900,6 +10900,73 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2605.28534v1",
+    "archive": "arXiv",
+    "archive_location": "2605.28534",
+    "author": [
+      {
+        "literal": "Zheng Wu"
+      },
+      {
+        "literal": "Chengcheng Han"
+      },
+      {
+        "literal": "Zhengxi Lu"
+      },
+      {
+        "literal": "Tianjie Ju"
+      },
+      {
+        "literal": "Yanyu Chen"
+      },
+      {
+        "literal": "Qi Gu"
+      },
+      {
+        "literal": "Xunliang Cai"
+      },
+      {
+        "literal": "Zhuosheng Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2605_28534",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "78a5f5d7df9a8b6f1dbdb5693849c728a4b97e1f25c6e2e24d0c2418628c64e7",
+        "submitted_at": "2026-05-27T14:29:41Z",
+        "updated_at": "2026-05-27T14:29:41Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.28534v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.28534",
+      "catalog_id": "arxiv:2605.28534",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-27",
+      "identifiers": {
+        "arxiv": "2605.28534"
+      },
+      "record_updated_at": "2026-05-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.28534",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-27; Recorded arXiv version: v1; Recorded version updated: 2026-05-27T14:29:41Z.",
+    "title": "GUI-CIDER: Mid-training GUI Agents via Causal Internalization and Density-aware Exemplar Reselection",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2605.29534v1",
     "archive": "arXiv",
     "archive_location": "2605.29534",

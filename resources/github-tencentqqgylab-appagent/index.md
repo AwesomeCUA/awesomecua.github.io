@@ -1,6 +1,6 @@
 # AppAgent
 
-Mobile app agent using exploration and reusable knowledge.
+Multimodal agent that operates Android apps through taps and swipes without back-end access, building a reusable knowledge base from autonomous exploration or from watching human demonstrations.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-tencentqqgylab-appagent/
 - Original source: https://github.com/TencentQQGYLab/AppAgent

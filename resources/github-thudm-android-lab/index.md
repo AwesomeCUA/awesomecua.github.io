@@ -1,6 +1,6 @@
 # AndroidLab
 
-Training and evaluation environment for Android agents.
+Reproducible Android benchmark of 138 tasks across nine apps on predefined virtual devices, run via AVD on Mac or Docker on Linux, released with the Android Instruct training set.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-thudm-android-lab/
 - Original source: https://github.com/THUDM/Android-Lab

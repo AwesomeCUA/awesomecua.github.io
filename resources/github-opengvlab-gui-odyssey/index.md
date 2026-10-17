@@ -1,6 +1,6 @@
 # GUI-Odyssey
 
-Cross-application mobile interaction trajectories.
+Human-demonstrated Android episodes for cross-app navigation, spanning six task types, 212 apps and about 1,400 app combinations, for training and evaluating agents.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-opengvlab-gui-odyssey/
 - Original source: https://github.com/OpenGVLab/GUI-Odyssey

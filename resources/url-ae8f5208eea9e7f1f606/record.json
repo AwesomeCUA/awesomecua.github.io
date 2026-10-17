@@ -7,6 +7,14 @@
     "gated": false,
     "hub_id": "mllmTeam/DroidCall",
     "languages": [],
+    "license_review": {
+      "data": {
+        "evidence_urls": [
+          "https://huggingface.co/datasets/mllmTeam/DroidCall/raw/main/README.md"
+        ],
+        "reason": "The Hub dataset card declares Apache-2.0 in its metadata header (license: apache-2.0). The companion repository's MIT code license is a separate declaration."
+      }
+    },
     "modalities": [],
     "sample_count": null,
     "sample_unit": null
@@ -28,7 +36,8 @@
         "topics",
         "scope",
         "relations",
-        "details"
+        "details",
+        "licenses.data"
       ],
       "url": "https://huggingface.co/datasets/mllmTeam/DroidCall/raw/main/README.md"
     },
@@ -52,7 +61,12 @@
   "last_verified_at": "2026-10-17T02:02:28Z",
   "licenses": {
     "code": null,
-    "data": null,
+    "data": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "apache-2.0",
+      "retrieved_at": "2026-10-17T02:02:28Z",
+      "url": "https://huggingface.co/datasets/mllmTeam/DroidCall/raw/main/README.md"
+    },
     "document": null,
     "weights": null
   },

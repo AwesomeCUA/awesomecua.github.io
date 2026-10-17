@@ -7,7 +7,7 @@ Collects Windows application trajectories with screenshots and action traces for
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: windows
+- Environments: desktop, windows
 - Topics: data-generation, grounding, evaluation
 - Evidence checked: 2026-10-16T06:36:47Z
 - ID: arxiv:2511.04307

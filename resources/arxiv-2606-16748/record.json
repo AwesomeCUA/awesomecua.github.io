@@ -17,6 +17,7 @@
     }
   },
   "environments": [
+    "desktop",
     "linux",
     "web"
   ],

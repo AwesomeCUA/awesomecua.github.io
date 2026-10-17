@@ -74,7 +74,8 @@
       "role": "primary",
       "sha256": "577a78efa03cde05141c23033222014094681cb5d04786dbb4a698df8543b3df",
       "supports": [
-        "details.dataset_profile"
+        "details.dataset_profile",
+        "relations"
       ],
       "url": "https://huggingface.co/datasets/showlab/ShowUI-desktop-8K/raw/main/README.md"
     },
@@ -109,10 +110,16 @@
   "name": "ShowUI Desktop",
   "notes": "",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/showlab/ShowUI-desktop-8K/raw/main/README.md",
+      "target_id": "github:showlab/showui",
+      "type": "component_of"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Desktop interaction data released with ShowUI.",
+  "summary": "7,496 desktop grounding examples built from OmniAct screenshots, with annotations rewritten by GPT-4o to describe element appearance, spatial relations and function.",
   "topics": [
     "data-generation"
   ],

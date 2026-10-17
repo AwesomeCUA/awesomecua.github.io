@@ -45,7 +45,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Task-oriented desktop GUI automation framework.",
+  "summary": "LLM-based assistant for automating work in desktop productivity software by watching the screen and issuing mouse and keyboard commands; its repository says the code will be released later.",
   "topics": [
     "planning"
   ],

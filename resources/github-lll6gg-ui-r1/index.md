@@ -1,6 +1,6 @@
 # UI-R1
 
-Reinforcement-learning approach to GUI action modeling.
+Rule-based reinforcement learning for GUI action prediction, releasing UI-R1-3B, trained from Qwen2.5-VL-3B, the efficiency-oriented UI-R1-E-3B, and training data.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-lll6gg-ui-r1/
 - Original source: https://github.com/lll6gg/UI-R1

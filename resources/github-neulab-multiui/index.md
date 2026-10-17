@@ -1,6 +1,6 @@
 # MultiUI
 
-Multilingual UI understanding and interaction data.
+7.3 million training samples built from webpage UIs and structured with enhanced accessibility trees, for text-rich visual understanding, released with UIX-Qwen2 models.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-neulab-multiui/
 - Original source: https://github.com/neulab/multiui

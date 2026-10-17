@@ -61,7 +61,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Desktop application for running GUI agents.",
+  "summary": "Desktop app for a local GUI agent driven by UI-TARS and Seed-1.5-VL/1.6 models, offering local and remote operators for computers and browsers; the repository also ships the Agent TARS CLI and web UI.",
   "topics": [
     "workflow"
   ],

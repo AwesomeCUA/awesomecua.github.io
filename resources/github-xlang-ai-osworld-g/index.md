@@ -1,6 +1,6 @@
 # OSWorld-G
 
-Desktop grounding evaluation associated with OSWorld.
+Computer-use grounding benchmark with original and refined instructions, released with the Jedi synthetic data pipeline, a 4-million-example Jedi dataset and Jedi-3B and Jedi-7B models.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-xlang-ai-osworld-g/
 - Original source: https://github.com/xlang-ai/OSWorld-G

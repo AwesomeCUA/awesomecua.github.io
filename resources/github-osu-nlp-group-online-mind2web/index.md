@@ -1,6 +1,6 @@
 # Online Mind2Web
 
-Live website evaluation of web agents.
+300 tasks on 136 live websites for evaluating web agents online, with outdated tasks replaced over time, human-reviewed submissions and the WebJudge automatic evaluator.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-osu-nlp-group-online-mind2web/
 - Original source: https://github.com/OSU-NLP-Group/Online-Mind2Web

@@ -58,6 +58,16 @@
         "details.dataset_profile"
       ],
       "url": "https://huggingface.co/datasets/h-siyuan/ScreenDrag/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T11:09:28Z",
+      "role": "primary",
+      "sha256": "88df552ccbe80efd7020905d77d526f4f9efe2d09a11fed2714b083988f9dcef",
+      "supports": [
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/showlab/showui-pi/HEAD/README.md"
     }
   ],
   "id": "url:fe43af1801032be708cc",
@@ -79,7 +89,13 @@
   "name": "ScreenDrag",
   "notes": "Raw and Parquet folders are alternative views of the same data and should not be counted as independent samples. The inspected card did not state a license.",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/showlab/showui-pi/HEAD/README.md",
+      "target_id": "github:showlab/showui-pi",
+      "type": "component_of"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
   "summary": "GUI dragging data with screen observations, prior state, and continuous pointer actions, provided as trajectory files and Parquet representations.",

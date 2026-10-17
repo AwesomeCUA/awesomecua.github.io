@@ -122,7 +122,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Training and evaluation environment for Android agents.",
+  "summary": "Reproducible Android benchmark of 138 tasks across nine apps on predefined virtual devices, run via AVD on Mac or Docker on Linux, released with the Android Instruct training set.",
   "topics": [
     "evaluation",
     "mobile-navigation"

@@ -1,6 +1,6 @@
 # OS-Atlas Data
 
-GUI grounding data released by the OS-Atlas project.
+GUI grounding pre-training data for OS-Atlas in desktop (Linux, macOS, Windows), mobile and web domains, with element boxes stored as relative left, top, right and bottom ratios.
 
 - Catalog URL: https://awesomecua.github.io/resources/url-0fdeb1cf5f49f84820e6/
 - Original source: https://huggingface.co/datasets/OS-Copilot/OS-Atlas-data

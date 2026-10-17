@@ -76,7 +76,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Agent framework for general computer interaction.",
+  "summary": "Simular's open-source framework for computer-use agents that click, type and scroll through desktop and web apps on macOS, Windows and Linux; its third generation, Agent S3, reports 72.6% on OSWorld.",
   "topics": [
     "planning",
     "memory"

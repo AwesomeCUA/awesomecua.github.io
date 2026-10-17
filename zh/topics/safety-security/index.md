@@ -284,7 +284,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/safety-securi
 - [AgentDAM](https://awesomecua.github.io/resources/github-facebookresearch-ai-agent-privacy/) — Date not recorded
   Web-agent benchmark for measuring unnecessary use of sensitive personal information during end-to-end task execution.
 - [MobileSafetyBench](https://awesomecua.github.io/resources/github-jylee425-mobilesafetybench/) — Date not recorded
-  Benchmark for safety behavior of mobile device agents.
+  Android emulator testbed that scores mobile device-control agents on both safety and helpfulness, using ADB and Appium for observations, actions and success checks.
 - [OS-Harm](https://awesomecua.github.io/resources/github-tml-epfl-os-harm/) — Date not recorded
   Benchmark for safety of computer-use agents across misuse, prompt injection, and unintended model behavior.
 - [PopupAttack](https://awesomecua.github.io/resources/github-salt-nlp-popupattack/) — Date not recorded
@@ -303,6 +303,6 @@ Full source records: https://awesomecua.github.io/downloads/topics/safety-securi
 - [OS-Kairos](https://awesomecua.github.io/resources/github-wuzheng02-os-kairos/) — Date not recorded
   Android GUI-agent research implementation that uses confidence-guided interaction to choose between autonomous actions and human assistance.
 - [OS-Sentinel](https://awesomecua.github.io/resources/github-os-copilot-os-sentinel/) — Date not recorded
-  Safety-oriented research for computer-use agents.
+  Safety-checking environment and benchmark for mobile agents on AndroidWorld that judges proposed actions with rule-based and VLM-based checks, evaluated on the MobileRisk trajectory dataset.
 - [RedTeamCUA](https://awesomecua.github.io/resources/github-osu-nlp-group-redteamcua/) — Date not recorded
   A controlled testing framework that combines desktop virtual machines and replicated websites to evaluate computer-use agents against indirect prompt injection.

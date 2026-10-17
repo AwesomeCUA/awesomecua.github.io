@@ -57,7 +57,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Agent trajectory generation using web tutorial resources.",
+  "summary": "Synthesizes browser-agent trajectories by replaying web tutorials as guidance, releasing the trajectory data with multimodal grounding and reasoning and an AgentTrek-32B agent.",
   "topics": [
     "data-generation",
     "video"

@@ -1,7 +1,7 @@
 {
-  "as_of_utc": "2026-10-17T14:35:24Z",
-  "total_records": 3004,
-  "curated_records": 1430,
+  "as_of_utc": "2026-10-17T17:18:56Z",
+  "total_records": 3006,
+  "curated_records": 1435,
   "bibliographic_records": 2578,
   "arxiv_active_records": 2565,
   "non_arxiv_bibliographic_records": 13,
@@ -9,9 +9,9 @@
   "arxiv_archive_records": 2683,
   "excluded_records": 118,
   "exclusion_revalidation_pending": 0,
-  "metadata_only_records": 1574,
+  "metadata_only_records": 1571,
   "discovery_identifiers": 3907,
-  "unindexed_candidates": 945,
+  "unindexed_candidates": 944,
   "pending_editorial": [
     {
       "id": "github:thudm/autoglm",
@@ -84,31 +84,37 @@
       "name": "LiteCUA implementation",
       "url": "https://github.com/agiresearch/LiteCUA",
       "reason": "primary evidence unresolved: HTTP Error 404: Not Found"
+    },
+    {
+      "id": "url:12d789d450207bd6d5da",
+      "name": "Project Mariner",
+      "url": "https://labs.google.com/mariner/",
+      "reason": "The Project Mariner page on labs.google.com is a client-rendered sign-in shell whose HTML carries only the title, and the former deepmind.google Project Mariner pages now redirect to the DeepMind homepage. Approval needs a readable first-party product page."
     }
   ],
   "by_kind": {
     "agent": 38,
-    "benchmark": 79,
+    "benchmark": 80,
     "company": 16,
     "dataset": 80,
     "framework": 66,
-    "infrastructure": 15,
-    "model": 93,
+    "infrastructure": 14,
+    "model": 94,
     "paper": 2565,
-    "product": 19,
+    "product": 20,
     "survey": 13,
     "tool": 20
   },
   "curated_by_environment": {
     "android": 275,
     "cross-platform": 186,
-    "desktop": 277,
+    "desktop": 298,
     "harmonyos": 2,
-    "ios": 19,
-    "linux": 39,
+    "ios": 18,
+    "linux": 40,
     "macos": 29,
-    "unspecified": 326,
-    "web": 533,
+    "unspecified": 327,
+    "web": 537,
     "windows": 51
   },
   "curated_by_kind_and_environment": {
@@ -124,12 +130,12 @@
     "benchmark": {
       "android": 17,
       "cross-platform": 13,
-      "desktop": 17,
-      "ios": 2,
-      "linux": 4,
+      "desktop": 19,
+      "ios": 1,
+      "linux": 5,
       "macos": 3,
       "unspecified": 3,
-      "web": 35,
+      "web": 36,
       "windows": 4
     },
     "company": {
@@ -138,7 +144,7 @@
     "dataset": {
       "android": 33,
       "cross-platform": 14,
-      "desktop": 14,
+      "desktop": 16,
       "ios": 1,
       "linux": 6,
       "macos": 2,
@@ -159,8 +165,8 @@
       "windows": 1
     },
     "infrastructure": {
-      "android": 4,
-      "desktop": 7,
+      "android": 3,
+      "desktop": 9,
       "ios": 1,
       "linux": 4,
       "macos": 2,
@@ -170,29 +176,29 @@
     "model": {
       "android": 23,
       "cross-platform": 46,
-      "desktop": 19,
+      "desktop": 21,
       "ios": 4,
       "linux": 4,
       "macos": 4,
       "unspecified": 2,
-      "web": 26,
+      "web": 27,
       "windows": 4
     },
     "paper": {
-      "android": 160,
+      "android": 161,
       "cross-platform": 94,
-      "desktop": 180,
+      "desktop": 193,
       "harmonyos": 1,
       "ios": 6,
       "linux": 16,
       "macos": 14,
-      "unspecified": 291,
-      "web": 374,
+      "unspecified": 292,
+      "web": 375,
       "windows": 32
     },
     "product": {
       "desktop": 5,
-      "web": 17
+      "web": 18
     },
     "survey": {
       "android": 1,
@@ -213,9 +219,9 @@
     }
   },
   "license_declarations_by_scope": {
-    "code": 165,
-    "data": 53,
-    "weights": 52,
+    "code": 166,
+    "data": 56,
+    "weights": 53,
     "document": 0
   },
   "sources": [
@@ -242,8 +248,8 @@
       "discovered": 338,
       "indexed": 219,
       "indexed_resources": 218,
-      "resolved_aliases": 5,
-      "curated": 207,
+      "resolved_aliases": 6,
+      "curated": 208,
       "excluded": 0,
       "unindexed": 119
     },
@@ -299,7 +305,7 @@
       "indexed": 198,
       "indexed_resources": 198,
       "resolved_aliases": 0,
-      "curated": 177,
+      "curated": 178,
       "excluded": 0,
       "unindexed": 26
     },
@@ -324,12 +330,12 @@
         "state": "success"
       },
       "discovered": 132,
-      "indexed": 94,
-      "indexed_resources": 94,
+      "indexed": 95,
+      "indexed_resources": 95,
       "resolved_aliases": 0,
-      "curated": 84,
+      "curated": 85,
       "excluded": 0,
-      "unindexed": 38
+      "unindexed": 37
     },
     {
       "id": "steel-web",
@@ -410,7 +416,7 @@
       "discovered": 170,
       "indexed": 114,
       "indexed_resources": 114,
-      "resolved_aliases": 1,
+      "resolved_aliases": 2,
       "curated": 106,
       "excluded": 1,
       "unindexed": 55
@@ -438,8 +444,8 @@
       "discovered": 588,
       "indexed": 496,
       "indexed_resources": 496,
-      "resolved_aliases": 3,
-      "curated": 430,
+      "resolved_aliases": 4,
+      "curated": 432,
       "excluded": 0,
       "unindexed": 92
     },
@@ -550,8 +556,8 @@
       "discovered": 193,
       "indexed": 146,
       "indexed_resources": 146,
-      "resolved_aliases": 2,
-      "curated": 142,
+      "resolved_aliases": 3,
+      "curated": 143,
       "excluded": 0,
       "unindexed": 47
     },

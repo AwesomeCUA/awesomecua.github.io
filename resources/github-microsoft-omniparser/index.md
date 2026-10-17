@@ -1,6 +1,6 @@
 # OmniParser
 
-Screen parsing tools for visually grounded agents.
+Screenshot parser that detects interactable regions and captions icons so vision-language models can ground actions, released as V1.5 and V2 weights alongside OmniTool for driving a Windows 11 VM.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-microsoft-omniparser/
 - Original source: https://github.com/microsoft/OmniParser

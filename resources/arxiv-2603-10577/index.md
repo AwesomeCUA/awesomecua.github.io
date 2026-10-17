@@ -7,7 +7,7 @@ CUAAudit examines vision-language models that judge computer-use task completion
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: macos, windows, linux
+- Environments: desktop, macos, windows, linux
 - Topics: evaluation, observability, robustness
 - Evidence checked: 2026-10-16T06:36:43Z
 - ID: arxiv:2603.10577

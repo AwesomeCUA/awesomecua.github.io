@@ -57,10 +57,16 @@
   "name": "OS-Sentinel",
   "notes": "",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/OS-Copilot/OS-Sentinel/HEAD/README.md",
+      "target_id": "arxiv:2510.24411",
+      "type": "documented_by"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Safety-oriented research for computer-use agents.",
+  "summary": "Safety-checking environment and benchmark for mobile agents on AndroidWorld that judges proposed actions with rule-based and VLM-based checks, evaluated on the MobileRisk trajectory dataset.",
   "topics": [
     "safety-security"
   ],

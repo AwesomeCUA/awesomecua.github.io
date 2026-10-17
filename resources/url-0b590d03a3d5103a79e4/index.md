@@ -7,7 +7,7 @@ Desktop GUI trajectory data supporting multiple interface understanding tasks.
 - Kind: dataset
 - Review: curated
 - Scope: core
-- Environments: windows
+- Environments: desktop, windows
 - Topics: grounding, data-generation
 - Evidence checked: 2026-10-16T06:38:26Z
 - ID: url:0b590d03a3d5103a79e4

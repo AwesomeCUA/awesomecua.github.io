@@ -1,6 +1,6 @@
 # Mobile Env
 
-Environment toolkit for mobile interaction agents.
+AndroidEnv-based platform for building GUI agent benchmarks and training agents, where task definition files emit instructions, rewards and episode ends from screen text, view hierarchy or log events.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-x-lance-mobile-env/
 - Original source: https://github.com/X-LANCE/Mobile-Env

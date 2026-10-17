@@ -57,10 +57,16 @@
   "name": "Mobile Env",
   "notes": "",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/X-LANCE/Mobile-Env/HEAD/README.md",
+      "target_id": "arxiv:2305.08144",
+      "type": "documented_by"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Environment toolkit for mobile interaction agents.",
+  "summary": "AndroidEnv-based platform for building GUI agent benchmarks and training agents, where task definition files emit instructions, rewards and episode ends from screen text, view hierarchy or log events.",
   "topics": [
     "evaluation"
   ],

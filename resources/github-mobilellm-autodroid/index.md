@@ -1,6 +1,6 @@
 # AutoDroid
 
-Language-model-driven Android task automation.
+LLM-powered Android task automation built on DroidBot, released with DroidTask, a dataset of per-app screenshots, view hierarchies, exploration records and ground-truth task files.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-mobilellm-autodroid/
 - Original source: https://github.com/MobileLLM/AutoDroid

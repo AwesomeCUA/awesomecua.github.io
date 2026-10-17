@@ -38,9 +38,12 @@ Trajectory rows and reviewer rows have different grains. Internal task labels do
 ## License declarations
 
 - code: not recorded
-- data: not recorded
+- data: mit — https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md
 - document: not recorded
 - weights: not recorded
+
+- data review: The benchmark's Hub dataset card declares MIT in its metadata header (license: mit).
+  Sources: https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md
 
 ## Primary evidence
 

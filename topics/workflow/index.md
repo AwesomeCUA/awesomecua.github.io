@@ -154,7 +154,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/workflow/reco
 - [OSWorld-Human](https://awesomecua.github.io/resources/github-wuklab-osworld-human/) — Date not recorded
   Human reference trajectories and scoring code for measuring the action efficiency of computer-use agents on OSWorld tasks.
 - [SaaS-Bench](https://awesomecua.github.io/resources/github-unipat-ai-saas-bench/) — Date not recorded
-  Benchmark for agents interacting with SaaS applications.
+  106 browser-driven business workflows across 23 self-hosted SaaS apps in six domains, scored by per-task verifiers that read each app's database and give partial credit.
 - [Spider2-V](https://awesomecua.github.io/resources/github-xlang-ai-spider2-v/) — Date not recorded
   Visual agent evaluation on data-science and engineering workflows.
 - [TheAgentCompany](https://awesomecua.github.io/resources/github-theagentcompany-theagentcompany/) — Date not recorded
@@ -176,19 +176,19 @@ Full source records: https://awesomecua.github.io/downloads/topics/workflow/reco
 - [Agent Workflow Memory implementation](https://awesomecua.github.io/resources/github-zorazrw-agent-workflow-memory/) — Date not recorded
   Research code that extracts reusable browser-task routines from demonstrations or prior executions, stores them as workflow memory and reuses them during subsequent navigation.
 - [AskUI](https://awesomecua.github.io/resources/url-69d6afe38a9a128ba9f7/) — Date not recorded
-  Visual computer interaction and automation platform.
+  Agentic test-automation platform running plain-language test cases from pixels rather than selectors on desktop apps, Citrix, in-car head units and mobile devices, deployable on-premise or air-gapped.
 - [BrowserAct](https://awesomecua.github.io/resources/url-7ae2670859e3796e8607/) — Date not recorded
   Managed web scraping platform with reusable browser interaction workflows.
 - [Bytebot](https://awesomecua.github.io/resources/github-bytebot-ai-bytebot/) — Date not recorded
-  Containerized desktop agent environment and application.
+  Open-source desktop agent that works inside its own Ubuntu Linux virtual desktop, with a web task interface, REST APIs for tasks and direct control, a takeover mode and password-manager logins.
 - [ChatGPT Agent](https://awesomecua.github.io/resources/url-b074ccdb2d9ec0277b65/) — Date not recorded
   Hosted agent combining browser interaction, tools, and computer-based tasks.
 - [CHOP](https://awesomecua.github.io/resources/github-yuqi-zhou-chop/) — Date not recorded
   Mobile automation framework that uses reusable basis subtasks to constrain and refine planning between user goals and executable actions.
 - [Computer Use OOTB](https://awesomecua.github.io/resources/github-showlab-computer-use-ootb/) — Date not recorded
-  Computer-use agent execution toolkit.
+  Gradio desktop GUI agent for Windows and macOS that needs no Docker, using Claude 3.5 Computer Use over the API or ShowUI and UI-TARS run locally, with multi-display and phone remote control.
 - [Cua](https://awesomecua.github.io/resources/github-trycua-cua/) — Date not recorded
-  Infrastructure and libraries for computer-use agents.
+  Monorepo behind Cua Spaces, which gives agents full macOS or Linux desktops, plus Cua Driver for operating native apps, Lume for Apple Silicon VMs, Cua Bench and the CUA-S1 decision models.
 - [Manus](https://awesomecua.github.io/resources/url-d3414794302313051ff0/) — Date not recorded
   General agent platform with browser-based task execution.
 - [MobileAgent (Alipay)](https://awesomecua.github.io/resources/github-alipay-mobile-agent/) — Date not recorded
@@ -204,13 +204,13 @@ Full source records: https://awesomecua.github.io/downloads/topics/workflow/reco
 - [Simular](https://awesomecua.github.io/resources/url-0bdd6b5ebf2e1f248828/) — Date not recorded
   Computer-use products and research from Simular.
 - [Skyvern](https://awesomecua.github.io/resources/github-skyvern-ai-skyvern/) — Date not recorded
-  Visual browser workflow automation framework.
+  Browser workflow automation that relies on vision LLMs and a swarm of agents instead of fixed XPath selectors, offered as a Playwright-compatible SDK and a no-code workflow builder.
 - [Skyvern Cloud](https://awesomecua.github.io/resources/url-15ed5fd3cd950d837f98/) — Date not recorded
-  Hosted visual browser workflow automation service.
+  Hosted Skyvern service for AI browser workflows such as invoice downloads and form filling, with built-in CAPTCHA and 2FA handling, proxy geotargeting, run explanations and JSON or CSV output.
 - [Surfkit](https://awesomecua.github.io/resources/github-agentsea-surfkit/) — Date not recorded
-  Toolkit for building and deploying computer-use agents.
+  Python toolkit and CLI for building, publishing and running multimodal agents that operate devices such as Ubuntu desktops, locally or on Kubernetes, with task trackers and an agent hub.
 - [UI-TARS Desktop](https://awesomecua.github.io/resources/github-bytedance-ui-tars-desktop/) — Date not recorded
-  Desktop application for running GUI agents.
+  Desktop app for a local GUI agent driven by UI-TARS and Seed-1.5-VL/1.6 models, offering local and remote operators for computers and browsers; the repository also ships the Agent TARS CLI and web UI.
 - [Work2Skill](https://awesomecua.github.io/resources/github-china-qijizhifeng-work2skill/) — Date not recorded
   Collects human GUI demonstrations and inspects multimodal evidence to derive reusable agent workflow skills.
 - [Workflow-Guided Exploration research code](https://awesomecua.github.io/resources/github-stanfordnlp-wge/) — Date not recorded

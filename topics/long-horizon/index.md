@@ -153,8 +153,10 @@ Full source records: https://awesomecua.github.io/downloads/topics/long-horizon/
 
 - [ColorBench](https://awesomecua.github.io/resources/github-madeagents-colorbench/) — Date not recorded
   A graph-based mobile GUI benchmark that evaluates long tasks through screenshot states and multiple valid or erroneous transitions, including reflection, replanning and backtracking.
+- [Mind2Web 2](https://awesomecua.github.io/resources/github-osu-nlp-group-mind2web-2/) — Date not recorded
+  Long-horizon agentic web search benchmark whose Agent-as-a-Judge framework scores time-varying, citation-backed answers, with evaluation scripts for its dev and test sets.
 - [MMInA](https://awesomecua.github.io/resources/github-shulin16-mmina/) — Date not recorded
-  Multihop multimodal internet navigation tasks.
+  Multimodal web tasks in a WebArena-based environment that chain from 1 to 10 hops across sites such as a shopping store and Wikipedia, testing long-chain reasoning.
 - [OS-Map](https://awesomecua.github.io/resources/github-os-copilot-os-map/) — Date not recorded
   An OSWorld-derived desktop benchmark with an Ubuntu virtual-machine environment and expanded task configurations for measuring breadth and depth of computer interaction.
 

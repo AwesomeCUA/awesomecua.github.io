@@ -1,6 +1,6 @@
 # HUD
 
-SDK for agent environments, evaluation, and training.
+SDK for RL environments and evals spanning coding, browser, computer-use and robotics agents, whose environments expose SSH, MCP, CDP or VNC capabilities behind a minimal start-and-grade protocol.
 
 - Catalog URL: https://awesomecua.github.io/resources/github-hud-evals-hud-python/
 - Original source: https://github.com/hud-evals/hud-python

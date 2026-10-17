@@ -2,7 +2,7 @@
   "schema_version": 1,
   "kind": "benchmark",
   "profile_count": 57,
-  "curated_resource_count": 79,
+  "curated_resource_count": 80,
   "unit": "resource profile; count observations retain their own units and populations",
   "limitations": "Source-reviewed descriptions and reported or computed inventory counts. No performance ranking, independent reproduction, or global-completeness claim.",
   "records": [
@@ -1012,7 +1012,12 @@
       },
       "licenses": {
         "code": null,
-        "data": null,
+        "data": {
+          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "declared": "mit",
+          "retrieved_at": "2026-10-17T02:42:32Z",
+          "url": "https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md"
+        },
         "document": null,
         "weights": null
       },
@@ -1030,7 +1035,8 @@
             "topics",
             "scope",
             "relations",
-            "details"
+            "details",
+            "licenses.data"
           ],
           "url": "https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md"
         }
@@ -4580,7 +4586,12 @@
       },
       "licenses": {
         "code": null,
-        "data": null,
+        "data": {
+          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "declared": "mit",
+          "retrieved_at": "2026-10-17T02:42:32Z",
+          "url": "https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md"
+        },
         "document": null,
         "weights": null
       },
@@ -4598,7 +4609,8 @@
             "topics",
             "scope",
             "relations",
-            "details"
+            "details",
+            "licenses.data"
           ],
           "url": "https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md"
         }
@@ -4900,6 +4912,7 @@
       "name": "WindowsWorld",
       "url": "https://github.com/HITsz-TMG/WindowsWorld",
       "environments": [
+        "desktop",
         "windows"
       ],
       "profile": {

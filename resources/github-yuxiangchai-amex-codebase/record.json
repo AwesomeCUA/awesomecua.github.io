@@ -108,7 +108,7 @@
   "relations": [],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Android interaction data with interface annotations.",
+  "summary": "Code for AMEX Android GUI data that converts its three annotation levels into question-answer pairs and fine-tunes a LLaMA2-Accessory model, with a released checkpoint.",
   "topics": [
     "data-generation"
   ],

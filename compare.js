@@ -1,4 +1,4 @@
-import {normalize} from './catalog-core.js?v=26a0332cfe6b1b63a869f489dbad64a3d5921e78f2b28ce0ec0c7c428d709f33';
+import {normalize,profileVisible} from './catalog-core.js?v=55e19b167c3d785f8e869c7ebc5c6483d86dc9b32f97b575cc61dc370317efe1';
 
 const query = document.querySelector('#compare-query');
 const environment = document.querySelector('#compare-environment');
@@ -12,7 +12,7 @@ function apply() {
   const terms = normalize(query.value).split(' ').filter(Boolean);
   let count = 0;
   for (const row of rows) {
-    const visible = (!environment.value || row.environments.includes(environment.value)) && terms.every(term => row.text.includes(term));
+    const visible = profileVisible(row.text, row.environments, terms, environment.value);
     row.element.hidden = !visible;
     count += Number(visible);
   }

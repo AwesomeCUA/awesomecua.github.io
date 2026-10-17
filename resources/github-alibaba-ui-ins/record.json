@@ -57,7 +57,7 @@
   ],
   "review_status": "curated",
   "scope": "core",
-  "summary": "Instruction-oriented GUI data and research resources.",
+  "summary": "Treats grounding instructions as multiple reasoning perspectives, releasing a data pipeline, training code and UI-Ins-7B and 32B models trained by SFT on synthesized instructions, then RL.",
   "topics": [
     "data-generation"
   ],
