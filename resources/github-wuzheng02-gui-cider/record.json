@@ -1,0 +1,99 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "availability": "Public synthesis and evaluation source; model checkpoints not verified.",
+    "repository_revision": "1ec25af942a46ce46f6c00d596332e308198342f"
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:18:20Z",
+      "role": "primary",
+      "sha256": "9a46741bbde1373ed4b87887cdadde98e05ea8795d34efe39fc25d69b4d50213",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "topics",
+        "scope",
+        "notes",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/Wuzheng02/GUI-CIDER/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:18:20Z",
+      "role": "primary",
+      "sha256": "ae1d5687a72a39eacbf4fe281b5048914e98adf7cc1517481a5acc8a56a81446",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/Wuzheng02/GUI-CIDER"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:22:59Z",
+      "role": "primary",
+      "sha256": "355128b62a281074eebc14a1e3b85a260f06c2bf3c1a6ed140cba3b9aefaa76c",
+      "supports": [
+        "release_status",
+        "details.repository_revision",
+        "licenses.code"
+      ],
+      "url": "https://api.github.com/repos/Wuzheng02/GUI-CIDER/git/trees/main?recursive=1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:24:47Z",
+      "role": "primary",
+      "sha256": "bffca456e649a08239f6a1a3be10a7d7c21bcb427e783ba2c304e4b8410d385a",
+      "supports": [
+        "environments",
+        "summary",
+        "notes"
+      ],
+      "url": "https://raw.githubusercontent.com/Wuzheng02/GUI-CIDER/HEAD/data/dataset.md"
+    }
+  ],
+  "id": "github:wuzheng02/gui-cider",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-17T11:18:20Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/Wuzheng02/GUI-CIDER"
+    }
+  ],
+  "name": "GUI-CIDER research code",
+  "notes": "The source tree contains static/causal knowledge synthesis and action/knowledge evaluation scripts. Training procedures are delegated to LLaMA-Factory; no trained checkpoint is verified here. The README displays an MIT badge, but the inspected tree has no license file and no explicit component scope, so the code license remains unrecorded rather than assuming a blanket grant. Evaluation requires separately acquired original datasets and model paths.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/Wuzheng02/GUI-CIDER/HEAD/README.md",
+      "target_id": "arxiv:2605.28534",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Released data-synthesis and evaluation scripts that distill planning and causal GUI knowledge into text for mid-training mobile interface agents.",
+  "topics": [
+    "data-generation",
+    "imitation-learning",
+    "planning"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/Wuzheng02/GUI-CIDER"
+}

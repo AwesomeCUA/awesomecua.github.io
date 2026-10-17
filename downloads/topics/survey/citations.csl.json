@@ -1,0 +1,1086 @@
+[
+  {
+    "URL": "https://arxiv.org/abs/2411.02006v3",
+    "archive": "arXiv",
+    "archive_location": "2411.02006",
+    "author": [
+      {
+        "literal": "Biao Wu"
+      },
+      {
+        "literal": "Yanda Li"
+      },
+      {
+        "literal": "Zhiwei Zhang"
+      },
+      {
+        "literal": "Yunchao Wei"
+      },
+      {
+        "literal": "Meng Fang"
+      },
+      {
+        "literal": "Ling Chen"
+      }
+    ],
+    "citation-key": "arxiv_2411_02006",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "de860a29f6c54317586c2218688436898f1d7a8b61207b1d5f4a65b05b3a4e6e",
+        "submitted_at": "2024-11-04T11:50:58Z",
+        "updated_at": "2025-09-14T09:13:39Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2411.02006v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2411.02006",
+      "catalog_id": "arxiv:2411.02006",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-11-04",
+      "identifiers": {
+        "arxiv": "2411.02006"
+      },
+      "record_updated_at": "2025-09-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2411.02006",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          4
+        ]
+      ]
+    },
+    "note": "First published: 2024-11-04; Recorded arXiv version: v3; Recorded version updated: 2025-09-14T09:13:39Z.",
+    "title": "Foundations and Recent Trends in Multimodal Mobile Agents: A Survey",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2411.04890v2",
+    "archive": "arXiv",
+    "archive_location": "2411.04890",
+    "author": [
+      {
+        "literal": "Shuai Wang"
+      },
+      {
+        "literal": "Weiwen Liu"
+      },
+      {
+        "literal": "Jingxuan Chen"
+      },
+      {
+        "literal": "Yuqi Zhou"
+      },
+      {
+        "literal": "Weinan Gan"
+      },
+      {
+        "literal": "Xingshan Zeng"
+      },
+      {
+        "literal": "Yuhan Che"
+      },
+      {
+        "literal": "Shuai Yu"
+      },
+      {
+        "literal": "Xinlong Hao"
+      },
+      {
+        "literal": "Kun Shao"
+      },
+      {
+        "literal": "Bin Wang"
+      },
+      {
+        "literal": "Chuhan Wu"
+      },
+      {
+        "literal": "Yasheng Wang"
+      },
+      {
+        "literal": "Ruiming Tang"
+      },
+      {
+        "literal": "Jianye Hao"
+      }
+    ],
+    "citation-key": "arxiv_2411_04890",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "57670445f9b0041bfb505a195d01a9ded6234e01e44c9aa43a6aee5ebd57dd93",
+        "submitted_at": "2024-11-07T17:28:10Z",
+        "updated_at": "2025-02-13T10:09:37Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2411.04890v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2411.04890",
+      "catalog_id": "arxiv:2411.04890",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-11-07",
+      "identifiers": {
+        "arxiv": "2411.04890"
+      },
+      "record_updated_at": "2025-02-13"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2411.04890",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2024-11-07; Recorded arXiv version: v2; Recorded version updated: 2025-02-13T10:09:37Z.",
+    "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2411.18279v12",
+    "archive": "arXiv",
+    "archive_location": "2411.18279",
+    "author": [
+      {
+        "literal": "Chaoyun Zhang"
+      },
+      {
+        "literal": "Shilin He"
+      },
+      {
+        "literal": "Jiaxu Qian"
+      },
+      {
+        "literal": "Bowen Li"
+      },
+      {
+        "literal": "Liqun Li"
+      },
+      {
+        "literal": "Si Qin"
+      },
+      {
+        "literal": "Yu Kang"
+      },
+      {
+        "literal": "Minghua Ma"
+      },
+      {
+        "literal": "Guyue Liu"
+      },
+      {
+        "literal": "Qingwei Lin"
+      },
+      {
+        "literal": "Saravan Rajmohan"
+      },
+      {
+        "literal": "Dongmei Zhang"
+      },
+      {
+        "literal": "Qi Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2411_18279",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2f692aa06152820ae60359fc2cc52aaed2ca8a97fe1efb9b8037de973956467a",
+        "submitted_at": "2024-11-27T12:13:39Z",
+        "updated_at": "2025-05-06T15:08:00Z",
+        "version": 12,
+        "versioned_url": "https://arxiv.org/abs/2411.18279v12"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2411.18279",
+      "catalog_id": "arxiv:2411.18279",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-11-27",
+      "identifiers": {
+        "arxiv": "2411.18279"
+      },
+      "record_updated_at": "2025-05-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2411.18279",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2024-11-27; Recorded arXiv version: v12; Recorded version updated: 2025-05-06T15:08:00Z.",
+    "title": "Large Language Model-Brained GUI Agents: A Survey",
+    "type": "article",
+    "version": "12"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2412.13501v3",
+    "archive": "arXiv",
+    "archive_location": "2412.13501",
+    "author": [
+      {
+        "literal": "Dang Nguyen"
+      },
+      {
+        "literal": "Jian Chen"
+      },
+      {
+        "literal": "Yu Wang"
+      },
+      {
+        "literal": "Gang Wu"
+      },
+      {
+        "literal": "Namyong Park"
+      },
+      {
+        "literal": "Zhengmian Hu"
+      },
+      {
+        "literal": "Hanjia Lyu"
+      },
+      {
+        "literal": "Junda Wu"
+      },
+      {
+        "literal": "Ryan Aponte"
+      },
+      {
+        "literal": "Yu Xia"
+      },
+      {
+        "literal": "Xintong Li"
+      },
+      {
+        "literal": "Jing Shi"
+      },
+      {
+        "literal": "Hongjie Chen"
+      },
+      {
+        "literal": "Viet Dac Lai"
+      },
+      {
+        "literal": "Zhouhang Xie"
+      },
+      {
+        "literal": "Sungchul Kim"
+      },
+      {
+        "literal": "Ruiyi Zhang"
+      },
+      {
+        "literal": "Tong Yu"
+      },
+      {
+        "literal": "Mehrab Tanjim"
+      },
+      {
+        "literal": "Nesreen K. Ahmed"
+      },
+      {
+        "literal": "Puneet Mathur"
+      },
+      {
+        "literal": "Seunghyun Yoon"
+      },
+      {
+        "literal": "Lina Yao"
+      },
+      {
+        "literal": "Branislav Kveton"
+      },
+      {
+        "literal": "Jihyung Kil"
+      },
+      {
+        "literal": "Thien Huu Nguyen"
+      },
+      {
+        "literal": "Trung Bui"
+      },
+      {
+        "literal": "Tianyi Zhou"
+      },
+      {
+        "literal": "Ryan A. Rossi"
+      },
+      {
+        "literal": "Franck Dernoncourt"
+      }
+    ],
+    "citation-key": "arxiv_2412_13501",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ae8f83d0490e70db1ae9c55c071935fb1f59e1358335c1bd3f50835611f4360c",
+        "submitted_at": "2024-12-18T04:48:28Z",
+        "updated_at": "2025-09-26T21:01:59Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2412.13501v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2412.13501",
+      "catalog_id": "arxiv:2412.13501",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-12-18",
+      "identifiers": {
+        "arxiv": "2412.13501"
+      },
+      "record_updated_at": "2025-09-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2412.13501",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2024-12-18; Recorded arXiv version: v3; Recorded version updated: 2025-09-26T21:01:59Z.",
+    "title": "GUI Agents: A Survey",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2501.16150v3",
+    "archive": "arXiv",
+    "archive_location": "2501.16150",
+    "author": [
+      {
+        "literal": "Pascal J. Sager"
+      },
+      {
+        "literal": "Benjamin Meyer"
+      },
+      {
+        "literal": "Peng Yan"
+      },
+      {
+        "literal": "Rebekka von Wartburg-Kottler"
+      },
+      {
+        "literal": "Layan Etaiwi"
+      },
+      {
+        "literal": "Aref Enayati"
+      },
+      {
+        "literal": "Gabriel Nobel"
+      },
+      {
+        "literal": "Ahmed Abdulkadir"
+      },
+      {
+        "literal": "Benjamin F. Grewe"
+      },
+      {
+        "literal": "Thilo Stadelmann"
+      }
+    ],
+    "citation-key": "arxiv_2501_16150",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b36fe818cb176c434b953fe8d2c97b67176b58cc6f8426b629231875de3c0896",
+        "submitted_at": "2025-01-27T15:44:02Z",
+        "updated_at": "2026-03-27T07:41:10Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2501.16150v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2501.16150",
+      "catalog_id": "arxiv:2501.16150",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-01-27",
+      "identifiers": {
+        "arxiv": "2501.16150"
+      },
+      "record_updated_at": "2026-03-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2501.16150",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2025-01-27; Recorded arXiv version: v3; Recorded version updated: 2026-03-27T07:41:10Z.",
+    "title": "A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2503.11069v2",
+    "archive": "arXiv",
+    "archive_location": "2503.11069",
+    "author": [
+      {
+        "literal": "Chaoyun Zhang"
+      },
+      {
+        "literal": "Shilin He"
+      },
+      {
+        "literal": "Liqun Li"
+      },
+      {
+        "literal": "Si Qin"
+      },
+      {
+        "literal": "Yu Kang"
+      },
+      {
+        "literal": "Qingwei Lin"
+      },
+      {
+        "literal": "Saravan Rajmohan"
+      },
+      {
+        "literal": "Dongmei Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2503_11069",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "43a533866496d3ebd3e34c04142a702e4a3aaa387c3830e3bb993fdbb0ce8432",
+        "submitted_at": "2025-03-14T04:26:21Z",
+        "updated_at": "2025-06-23T13:01:02Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2503.11069v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2503.11069",
+      "catalog_id": "arxiv:2503.11069",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-03-14",
+      "identifiers": {
+        "arxiv": "2503.11069"
+      },
+      "record_updated_at": "2025-06-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2503.11069",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2025-03-14; Recorded arXiv version: v2; Recorded version updated: 2025-06-23T13:01:02Z.",
+    "title": "API Agents vs. GUI Agents: Divergence and Convergence",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2503.23434v2",
+    "archive": "arXiv",
+    "archive_location": "2503.23434",
+    "author": [
+      {
+        "literal": "Yucheng Shi"
+      },
+      {
+        "literal": "Wenhao Yu"
+      },
+      {
+        "literal": "Jingyuan Huang"
+      },
+      {
+        "literal": "Wenlin Yao"
+      },
+      {
+        "literal": "Wenhu Chen"
+      },
+      {
+        "literal": "Ninghao Liu"
+      }
+    ],
+    "citation-key": "arxiv_2503_23434",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5a6811c6d0c3b30d4e6af2f7b0beef8aa8f1ad99ceb325182305e571fe5c398f",
+        "submitted_at": "2025-03-30T13:26:00Z",
+        "updated_at": "2026-02-24T05:24:23Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2503.23434v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2503.23434",
+      "catalog_id": "arxiv:2503.23434",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-03-30",
+      "identifiers": {
+        "arxiv": "2503.23434"
+      },
+      "record_updated_at": "2026-02-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2503.23434",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2025-03-30; Recorded arXiv version: v2; Recorded version updated: 2026-02-24T05:24:23Z.",
+    "title": "Towards Trustworthy GUI Agents: A Survey",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2504.13865v2",
+    "archive": "arXiv",
+    "archive_location": "2504.13865",
+    "author": [
+      {
+        "literal": "Fei Tang"
+      },
+      {
+        "literal": "Haolei Xu"
+      },
+      {
+        "literal": "Hang Zhang"
+      },
+      {
+        "literal": "Siqi Chen"
+      },
+      {
+        "literal": "Xingyu Wu"
+      },
+      {
+        "literal": "Yongliang Shen"
+      },
+      {
+        "literal": "Wenqi Zhang"
+      },
+      {
+        "literal": "Guiyang Hou"
+      },
+      {
+        "literal": "Zeqi Tan"
+      },
+      {
+        "literal": "Yuchen Yan"
+      },
+      {
+        "literal": "Kaitao Song"
+      },
+      {
+        "literal": "Jian Shao"
+      },
+      {
+        "literal": "Weiming Lu"
+      },
+      {
+        "literal": "Jun Xiao"
+      },
+      {
+        "literal": "Yueting Zhuang"
+      }
+    ],
+    "citation-key": "arxiv_2504_13865",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "216d0605205cfd7f17ffd7d7f4c9752577ca427f370df42faf4a2250b80bcc39",
+        "submitted_at": "2025-03-27T17:58:31Z",
+        "updated_at": "2025-06-04T17:29:13Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2504.13865v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2504.13865",
+      "catalog_id": "arxiv:2504.13865",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-03-27",
+      "identifiers": {
+        "arxiv": "2504.13865"
+      },
+      "record_updated_at": "2025-06-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2504.13865",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2025-03-27; Recorded arXiv version: v2; Recorded version updated: 2025-06-04T17:29:13Z.",
+    "title": "A Survey on (M)LLM-Based GUI Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2504.19838v3",
+    "archive": "arXiv",
+    "archive_location": "2504.19838",
+    "author": [
+      {
+        "literal": "Guangyi Liu"
+      },
+      {
+        "literal": "Pengxiang Zhao"
+      },
+      {
+        "literal": "Yaozhen Liang"
+      },
+      {
+        "literal": "Liang Liu"
+      },
+      {
+        "literal": "Yaxuan Guo"
+      },
+      {
+        "literal": "Han Xiao"
+      },
+      {
+        "literal": "Weifeng Lin"
+      },
+      {
+        "literal": "Yuxiang Chai"
+      },
+      {
+        "literal": "Yue Han"
+      },
+      {
+        "literal": "Shuai Ren"
+      },
+      {
+        "literal": "Hao Wang"
+      },
+      {
+        "literal": "Xiaoyu Liang"
+      },
+      {
+        "literal": "WenHao Wang"
+      },
+      {
+        "literal": "Tianze Wu"
+      },
+      {
+        "literal": "Zhengxi Lu"
+      },
+      {
+        "literal": "Siheng Chen"
+      },
+      {
+        "literal": "LiLinghao"
+      },
+      {
+        "literal": "Hao Wang"
+      },
+      {
+        "literal": "Guanjing Xiong"
+      },
+      {
+        "literal": "Yong Liu"
+      },
+      {
+        "literal": "Hongsheng Li"
+      }
+    ],
+    "citation-key": "arxiv_2504_19838",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9103197fa1274fac79ae9e4472f5fbdc9a210548afb024f1d4259c6bb0131bf2",
+        "submitted_at": "2025-04-28T14:39:25Z",
+        "updated_at": "2025-11-17T15:51:58Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2504.19838v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2504.19838",
+      "catalog_id": "arxiv:2504.19838",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-04-28",
+      "identifiers": {
+        "arxiv": "2504.19838"
+      },
+      "record_updated_at": "2025-11-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2504.19838",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2025-04-28; Recorded arXiv version: v3; Recorded version updated: 2025-11-17T15:51:58Z.",
+    "title": "LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2504.20464v2",
+    "archive": "arXiv",
+    "archive_location": "2504.20464",
+    "author": [
+      {
+        "literal": "Jiahao Li"
+      },
+      {
+        "literal": "Kaer Huang"
+      }
+    ],
+    "citation-key": "arxiv_2504_20464",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5040073e7c278734df219d71d94e236468468621f5971ef3ccbc97b94e1792b9",
+        "submitted_at": "2025-04-29T06:55:15Z",
+        "updated_at": "2025-05-13T01:59:29Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2504.20464v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2504.20464",
+      "catalog_id": "arxiv:2504.20464",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-04-29",
+      "identifiers": {
+        "arxiv": "2504.20464"
+      },
+      "record_updated_at": "2025-05-13"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2504.20464",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2025-04-29; Recorded arXiv version: v2; Recorded version updated: 2025-05-13T01:59:29Z.",
+    "title": "A Survey on GUI Agents with Foundation Models Enhanced by Reinforcement Learning",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2505.10924v4",
+    "archive": "arXiv",
+    "archive_location": "2505.10924",
+    "author": [
+      {
+        "literal": "Ada Chen"
+      },
+      {
+        "literal": "Yongjiang Wu"
+      },
+      {
+        "literal": "Junyuan Zhang"
+      },
+      {
+        "literal": "Jingyu Xiao"
+      },
+      {
+        "literal": "Shu Yang"
+      },
+      {
+        "literal": "Jen-tse Huang"
+      },
+      {
+        "literal": "Kun Wang"
+      },
+      {
+        "literal": "Wenxuan Wang"
+      },
+      {
+        "literal": "Shuai Wang"
+      }
+    ],
+    "citation-key": "arxiv_2505_10924",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e8a0890cd57809ff5e3bede6dc2b851b42fad9307a5bfa0ddd744cc2ac70d0c2",
+        "submitted_at": "2025-05-16T06:56:42Z",
+        "updated_at": "2026-04-29T05:56:22Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2505.10924v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.10924",
+      "catalog_id": "arxiv:2505.10924",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-05-16",
+      "identifiers": {
+        "arxiv": "2505.10924"
+      },
+      "record_updated_at": "2026-04-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.10924",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-16; Recorded arXiv version: v4; Recorded version updated: 2026-04-29T05:56:22Z.",
+    "title": "A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?",
+    "type": "article",
+    "version": "4"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2508.04482v1",
+    "archive": "arXiv",
+    "archive_location": "2508.04482",
+    "author": [
+      {
+        "literal": "Xueyu Hu"
+      },
+      {
+        "literal": "Tao Xiong"
+      },
+      {
+        "literal": "Biao Yi"
+      },
+      {
+        "literal": "Zishu Wei"
+      },
+      {
+        "literal": "Ruixuan Xiao"
+      },
+      {
+        "literal": "Yurun Chen"
+      },
+      {
+        "literal": "Jiasheng Ye"
+      },
+      {
+        "literal": "Meiling Tao"
+      },
+      {
+        "literal": "Xiangxin Zhou"
+      },
+      {
+        "literal": "Ziyu Zhao"
+      },
+      {
+        "literal": "Yuhuai Li"
+      },
+      {
+        "literal": "Shengze Xu"
+      },
+      {
+        "literal": "Shenzhi Wang"
+      },
+      {
+        "literal": "Xinchen Xu"
+      },
+      {
+        "literal": "Shuofei Qiao"
+      },
+      {
+        "literal": "Zhaokai Wang"
+      },
+      {
+        "literal": "Kun Kuang"
+      },
+      {
+        "literal": "Tieyong Zeng"
+      },
+      {
+        "literal": "Liang Wang"
+      },
+      {
+        "literal": "Jiwei Li"
+      },
+      {
+        "literal": "Yuchen Eleanor Jiang"
+      },
+      {
+        "literal": "Wangchunshu Zhou"
+      },
+      {
+        "literal": "Guoyin Wang"
+      },
+      {
+        "literal": "Keting Yin"
+      },
+      {
+        "literal": "Zhou Zhao"
+      },
+      {
+        "literal": "Hongxia Yang"
+      },
+      {
+        "literal": "Fan Wu"
+      },
+      {
+        "literal": "Shengyu Zhang"
+      },
+      {
+        "literal": "Fei Wu"
+      }
+    ],
+    "citation-key": "arxiv_2508_04482",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f14fdd895e52277a3695eeb83e5095472051d139aec63f22f9c63d344c051dad",
+        "submitted_at": "2025-08-06T14:33:45Z",
+        "updated_at": "2025-08-06T14:33:45Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2508.04482v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2508.04482",
+      "catalog_id": "arxiv:2508.04482",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-08-06",
+      "identifiers": {
+        "arxiv": "2508.04482"
+      },
+      "record_updated_at": "2025-08-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2508.04482",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2025-08-06; Recorded arXiv version: v1; Recorded version updated: 2025-08-06T14:33:45Z.",
+    "title": "OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2609.02309v1",
+    "archive": "arXiv",
+    "archive_location": "2609.02309",
+    "author": [
+      {
+        "literal": "Bizhe Bai"
+      },
+      {
+        "literal": "Jiakang Yuan"
+      },
+      {
+        "literal": "Hongming Wu"
+      },
+      {
+        "literal": "Xinyue Wang"
+      },
+      {
+        "literal": "Jie Ren"
+      },
+      {
+        "literal": "Siyao Chen"
+      },
+      {
+        "literal": "Yuchen Ya"
+      },
+      {
+        "literal": "Fan Bai"
+      },
+      {
+        "literal": "Pai Peng"
+      },
+      {
+        "literal": "Huafeng Qin"
+      },
+      {
+        "literal": "Tao Chen"
+      }
+    ],
+    "citation-key": "arxiv_2609_02309",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ec439fd2cfdf7319d77ef5ab58e50143bceb3f8205ccffa0d83555f10dece42a",
+        "submitted_at": "2026-09-02T08:54:58Z",
+        "updated_at": "2026-09-02T08:54:58Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.02309v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.02309",
+      "catalog_id": "arxiv:2609.02309",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-02",
+      "identifiers": {
+        "arxiv": "2609.02309"
+      },
+      "record_updated_at": "2026-09-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.02309",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-02; Recorded arXiv version: v1; Recorded version updated: 2026-09-02T08:54:58Z.",
+    "title": "Efficient GUI Agents: A Systems Survey of Observation, Memory, Action, and Runtime Optimization",
+    "type": "article",
+    "version": "1"
+  }
+]

@@ -1,5 +1,5 @@
 {
-  "relation_count": 297,
+  "relation_count": 313,
   "semantics": "Reviewed semantic links only. Documentation does not establish training or evaluation dependency.",
   "relations": [
     {
@@ -48,6 +48,14 @@
       "source_kind": "framework",
       "evidence_url": "https://raw.githubusercontent.com/ai-nikolai/StateAct/HEAD/README.md",
       "target_id": "arxiv:2410.02810",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:akimotoayako/visiontasker",
+      "source_name": "VisionTasker",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/AkimotoAyako/VisionTasker/HEAD/readme.md",
+      "target_id": "arxiv:2312.11190",
       "type": "documented_by"
     },
     {
@@ -219,6 +227,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:cvc2233/androtmem",
+      "source_name": "AndroTMem inference and evaluation code",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/CVC2233/AndroTMem/HEAD/README.md",
+      "target_id": "arxiv:2603.18429",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:digirl-agent/digiq",
       "source_name": "Digi-Q",
       "source_kind": "framework",
@@ -297,6 +313,14 @@
       "evidence_url": "https://raw.githubusercontent.com/Farama-Foundation/miniwob-plusplus/HEAD/README.md",
       "target_id": "arxiv:1802.08802",
       "type": "introduced_by"
+    },
+    {
+      "source_id": "github:friedrichor/webtestbench",
+      "source_name": "WebTestBench",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/friedrichor/WebTestBench/HEAD/README.md",
+      "target_id": "arxiv:2603.25226",
+      "type": "documented_by"
     },
     {
       "source_id": "github:gair-nlp/pc-agent",
@@ -443,6 +467,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:madeagents/colorbench",
+      "source_name": "ColorBench",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md",
+      "target_id": "arxiv:2510.14621",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:mcgill-nlp/agent-reward-bench",
       "source_name": "AgentRewardBench",
       "source_kind": "benchmark",
@@ -585,6 +617,14 @@
       "evidence_url": "https://raw.githubusercontent.com/njucckevin/SeeClick/HEAD/readme.md",
       "target_id": "arxiv:2401.10935",
       "type": "documented_by"
+    },
+    {
+      "source_id": "github:oculix-org/oculix",
+      "source_name": "OculiX (SikuliX continuation)",
+      "source_kind": "tool",
+      "evidence_url": "https://raw.githubusercontent.com/oculix-org/Oculix/HEAD/README.md",
+      "target_id": "github:sikuli/sikuli",
+      "type": "variant_of"
     },
     {
       "source_id": "github:openbmb/agentcpm-gui",
@@ -755,6 +795,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:purewhiter/mobilegym",
+      "source_name": "MobileGym",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/README.md",
+      "target_id": "arxiv:2605.26114",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:reallm-labs/infigui-r1",
       "source_name": "InfiGUI-R1",
       "source_kind": "model",
@@ -851,6 +899,22 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:sikuli/sikuli",
+      "source_name": "Sikuli legacy research implementation",
+      "source_kind": "tool",
+      "evidence_url": "https://raw.githubusercontent.com/sikuli/sikuli/HEAD/docs/source/index.rst",
+      "target_id": "url:a4cdb2ee0d07d3980651",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:sikuli/sikuli",
+      "source_name": "Sikuli legacy research implementation",
+      "source_kind": "tool",
+      "evidence_url": "https://raw.githubusercontent.com/sikuli/sikuli/HEAD/docs/source/index.rst",
+      "target_id": "url:6262c757080f8838e62c",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:simular-ai/agent-s",
       "source_name": "Agent S",
       "source_kind": "agent",
@@ -888,6 +952,14 @@
       "source_kind": "framework",
       "evidence_url": "https://raw.githubusercontent.com/SqueezeAILab/plan-and-act/HEAD/README.md",
       "target_id": "arxiv:2503.09572",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:stanfordnlp/wge",
+      "source_name": "Workflow-Guided Exploration research code",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/stanfordnlp/wge/HEAD/README.md",
+      "target_id": "arxiv:1802.08802",
       "type": "documented_by"
     },
     {
@@ -1107,11 +1179,27 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:wuzheng02/gui-cider",
+      "source_name": "GUI-CIDER research code",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/Wuzheng02/GUI-CIDER/HEAD/README.md",
+      "target_id": "arxiv:2605.28534",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:wuzheng02/os-kairos",
       "source_name": "OS-Kairos",
       "source_kind": "agent",
       "evidence_url": "https://raw.githubusercontent.com/Wuzheng02/OS-Kairos/HEAD/README.md",
       "target_id": "arxiv:2503.16465",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:wwh0411/fedmabench",
+      "source_name": "FedMABench",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/wwh0411/FedMABench/HEAD/README.md",
+      "target_id": "arxiv:2503.05143",
       "type": "documented_by"
     },
     {
@@ -1224,6 +1312,14 @@
       "source_kind": "model",
       "evidence_url": "https://raw.githubusercontent.com/Yuqi-Zhou/GUI-G1/HEAD/README.md",
       "target_id": "arxiv:2505.15810",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:zrw00/guipivot",
+      "source_name": "GUIPivot",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/ZrW00/GUIPivot/HEAD/README.md",
+      "target_id": "arxiv:2503.00401",
       "type": "documented_by"
     },
     {
@@ -1584,6 +1680,14 @@
       "source_kind": "dataset",
       "evidence_url": "https://huggingface.co/datasets/KDEGroup/UI-AGILE-Data/raw/main/README.md",
       "target_id": "arxiv:2507.22025",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:422010da7a5c845a18f6",
+      "source_name": "GUIMid training data",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/hkust-nlp/GUIMid/raw/main/README.md",
+      "target_id": "arxiv:2504.10127",
       "type": "documented_by"
     },
     {
@@ -2067,6 +2171,14 @@
       "type": "component_of"
     },
     {
+      "source_id": "url:c73ba0618d1b3c505887",
+      "source_name": "OS-Critic Bench",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/numbmelon/OS-Oracle/HEAD/README.md",
+      "target_id": "arxiv:2512.16295",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:c918d5c828a3c6cfbc5d",
       "source_name": "AutoGLM Phone 9B",
       "source_kind": "model",
@@ -2104,6 +2216,22 @@
       "source_kind": "model",
       "evidence_url": "https://raw.githubusercontent.com/njucckevin/SeeClick/HEAD/readme.md",
       "target_id": "arxiv:2401.10935",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:d0300db5ba754b1a64fa",
+      "source_name": "GUI-CIDER causal knowledge data",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/Wuzheng02/GUI-CIDER/HEAD/README.md",
+      "target_id": "github:wuzheng02/gui-cider",
+      "type": "component_of"
+    },
+    {
+      "source_id": "url:d0300db5ba754b1a64fa",
+      "source_name": "GUI-CIDER causal knowledge data",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/Wuzheng02/GUI-CIDER/HEAD/README.md",
+      "target_id": "arxiv:2605.28534",
       "type": "documented_by"
     },
     {

@@ -1,0 +1,6747 @@
+[
+  {
+    "URL": "https://arxiv.org/abs/2008.05132v2",
+    "archive": "arXiv",
+    "archive_location": "2008.05132",
+    "author": [
+      {
+        "literal": "Jieshan Chen"
+      },
+      {
+        "literal": "Mulong Xie"
+      },
+      {
+        "literal": "Zhenchang Xing"
+      },
+      {
+        "literal": "Chunyang Chen"
+      },
+      {
+        "literal": "Xiwei Xu"
+      },
+      {
+        "literal": "Liming Zhu"
+      },
+      {
+        "literal": "Guoqiang Li"
+      }
+    ],
+    "citation-key": "arxiv_2008_05132",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d6352985532945fd562ce0382aef0e977ce1ec5909b6872e5fe048167e9732a0",
+        "submitted_at": "2020-08-12T06:36:33Z",
+        "updated_at": "2020-09-07T12:57:33Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2008.05132v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2008.05132",
+      "catalog_id": "arxiv:2008.05132",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2020-08-12",
+      "identifiers": {
+        "arxiv": "2008.05132"
+      },
+      "record_updated_at": "2020-09-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2008.05132",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2020-08-12; Recorded arXiv version: v2; Recorded version updated: 2020-09-07T12:57:33Z.",
+    "title": "Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2010.04295v1",
+    "archive": "arXiv",
+    "archive_location": "2010.04295",
+    "author": [
+      {
+        "literal": "Yang Li"
+      },
+      {
+        "literal": "Gang Li"
+      },
+      {
+        "literal": "Luheng He"
+      },
+      {
+        "literal": "Jingjie Zheng"
+      },
+      {
+        "literal": "Hong Li"
+      },
+      {
+        "literal": "Zhiwei Guan"
+      }
+    ],
+    "citation-key": "arxiv_2010_04295",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "68af0a0a4b605d0c968e8913232fde16e3eadf6361099e8fc3d015dcdb26302b",
+        "submitted_at": "2020-10-08T22:56:03Z",
+        "updated_at": "2020-10-08T22:56:03Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2010.04295v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2010.04295",
+      "catalog_id": "arxiv:2010.04295",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "record",
+      "first_published_at": "2020-10-08",
+      "identifiers": {
+        "arxiv": "2010.04295"
+      },
+      "publication": {
+        "authors": [
+          "Yang Li",
+          "Gang Li",
+          "Luheng He",
+          "Jingjie Zheng",
+          "Hong Li",
+          "Zhiwei Guan"
+        ],
+        "date_basis": "Explicit publisher metadata: 2020/11; precision=month.",
+        "date_parts": [
+          2020,
+          11
+        ],
+        "doi": "10.18653/v1/2020.emnlp-main.443",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2020.emnlp-main.443/"
+        ],
+        "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+        "issue": null,
+        "notes": "The retained arXiv abstract reports 162,859 phrases; the ACL abstract reports 162,860. This publication proposal does not overwrite the arXiv annotation or assert a unified dataset count. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+        "pages": "5495-5510",
+        "pdf_url": "https://aclanthology.org/2020.emnlp-main.443.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2020.emnlp-main.443/",
+        "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+        "volume": null
+      },
+      "record_updated_at": "2020-10-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2010.04295",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2020-10-08; Recorded arXiv version: v1; Recorded version updated: 2020-10-08T22:56:03Z.",
+    "title": "Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2012.12350v2",
+    "archive": "arXiv",
+    "archive_location": "2012.12350",
+    "author": [
+      {
+        "literal": "Zecheng He"
+      },
+      {
+        "literal": "Srinivas Sunkara"
+      },
+      {
+        "literal": "Xiaoxue Zang"
+      },
+      {
+        "literal": "Ying Xu"
+      },
+      {
+        "literal": "Lijuan Liu"
+      },
+      {
+        "literal": "Nevan Wichers"
+      },
+      {
+        "literal": "Gabriel Schubiner"
+      },
+      {
+        "literal": "Ruby Lee"
+      },
+      {
+        "literal": "Jindong Chen"
+      },
+      {
+        "literal": "Blaise Agüera y Arcas"
+      }
+    ],
+    "citation-key": "arxiv_2012_12350",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "51fdddb9a3d8a6090875719a51b22008b1f43bc38c6cfe1713a49a52f7e8434c",
+        "submitted_at": "2020-12-22T20:49:52Z",
+        "updated_at": "2021-01-25T20:37:39Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2012.12350v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2012.12350",
+      "catalog_id": "arxiv:2012.12350",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2020-12-22",
+      "identifiers": {
+        "arxiv": "2012.12350"
+      },
+      "record_updated_at": "2021-01-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2012.12350",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2020-12-22; Recorded arXiv version: v2; Recorded version updated: 2021-01-25T20:37:39Z.",
+    "title": "ActionBert: Leveraging User Actions for Semantic Understanding of User Interfaces",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2101.04893v1",
+    "archive": "arXiv",
+    "archive_location": "2101.04893",
+    "author": [
+      {
+        "literal": "Xiaoyi Zhang"
+      },
+      {
+        "literal": "Lilian de Greef"
+      },
+      {
+        "literal": "Amanda Swearngin"
+      },
+      {
+        "literal": "Samuel White"
+      },
+      {
+        "literal": "Kyle Murray"
+      },
+      {
+        "literal": "Lisa Yu"
+      },
+      {
+        "literal": "Qi Shan"
+      },
+      {
+        "literal": "Jeffrey Nichols"
+      },
+      {
+        "literal": "Jason Wu"
+      },
+      {
+        "literal": "Chris Fleizach"
+      },
+      {
+        "literal": "Aaron Everitt"
+      },
+      {
+        "literal": "Jeffrey P. Bigham"
+      }
+    ],
+    "citation-key": "arxiv_2101_04893",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d6a5305254ea405b6297c0a3eee43d58fc028abaa1a538d03b175b39b9daccca",
+        "submitted_at": "2021-01-13T05:56:15Z",
+        "updated_at": "2021-01-13T05:56:15Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2101.04893v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2101.04893",
+      "catalog_id": "arxiv:2101.04893",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2021-01-13",
+      "identifiers": {
+        "arxiv": "2101.04893"
+      },
+      "record_updated_at": "2021-01-13"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2101.04893",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          13
+        ]
+      ]
+    },
+    "note": "First published: 2021-01-13; Recorded arXiv version: v1; Recorded version updated: 2021-01-13T05:56:15Z.",
+    "title": "Screen Recognition: Creating Accessibility Metadata for Mobile Applications from Pixels",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2101.09465v2",
+    "archive": "arXiv",
+    "archive_location": "2101.09465",
+    "author": [
+      {
+        "literal": "Xingyu Chen"
+      },
+      {
+        "literal": "Zihan Zhao"
+      },
+      {
+        "literal": "Lu Chen"
+      },
+      {
+        "literal": "Danyang Zhang"
+      },
+      {
+        "literal": "Jiabao Ji"
+      },
+      {
+        "literal": "Ao Luo"
+      },
+      {
+        "literal": "Yuxuan Xiong"
+      },
+      {
+        "literal": "Kai Yu"
+      }
+    ],
+    "citation-key": "arxiv_2101_09465",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5fdf4bc31edd633fd0858835db0afedeef5dbc2694c4511903976c338bd19b1b",
+        "submitted_at": "2021-01-23T09:43:44Z",
+        "updated_at": "2021-11-08T08:31:44Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2101.09465v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2101.09465",
+      "catalog_id": "arxiv:2101.09465",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2021-01-23",
+      "identifiers": {
+        "arxiv": "2101.09465"
+      },
+      "record_updated_at": "2021-11-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2101.09465",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2021-01-23; Recorded arXiv version: v2; Recorded version updated: 2021-11-08T08:31:44Z.",
+    "title": "WebSRC: A Dataset for Web-Based Structural Reading Comprehension",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2105.11941v2",
+    "archive": "arXiv",
+    "archive_location": "2105.11941",
+    "author": [
+      {
+        "literal": "Jingwen Fu"
+      },
+      {
+        "literal": "Xiaoyi Zhang"
+      },
+      {
+        "literal": "Yuwang Wang"
+      },
+      {
+        "literal": "Wenjun Zeng"
+      },
+      {
+        "literal": "Sam Yang"
+      },
+      {
+        "literal": "Grayson Hilliard"
+      }
+    ],
+    "citation-key": "arxiv_2105_11941",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8788e419d1a901f8ad9dd6089a12fe129baee764b1c285bbeb4ea60d7046afa2",
+        "submitted_at": "2021-05-25T13:45:54Z",
+        "updated_at": "2022-04-14T11:00:58Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2105.11941v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2105.11941",
+      "catalog_id": "arxiv:2105.11941",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2021-05-25",
+      "identifiers": {
+        "arxiv": "2105.11941"
+      },
+      "record_updated_at": "2022-04-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2105.11941",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2021-05-25; Recorded arXiv version: v2; Recorded version updated: 2022-04-14T11:00:58Z.",
+    "title": "Understanding Mobile GUI: from Pixel-Words to Screen-Sentences",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2107.13731v2",
+    "archive": "arXiv",
+    "archive_location": "2107.13731",
+    "author": [
+      {
+        "literal": "Chongyang Bai"
+      },
+      {
+        "literal": "Xiaoxue Zang"
+      },
+      {
+        "literal": "Ying Xu"
+      },
+      {
+        "literal": "Srinivas Sunkara"
+      },
+      {
+        "literal": "Abhinav Rastogi"
+      },
+      {
+        "literal": "Jindong Chen"
+      },
+      {
+        "literal": "Blaise Aguera y Arcas"
+      }
+    ],
+    "citation-key": "arxiv_2107_13731",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8a4f582015ccaf5bbe9be4b7ab925b2bbf6bd8451a4e63d89e1fe38363e26b31",
+        "submitted_at": "2021-07-29T03:51:36Z",
+        "updated_at": "2021-08-10T08:55:21Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2107.13731v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2107.13731",
+      "catalog_id": "arxiv:2107.13731",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2021-07-29",
+      "identifiers": {
+        "arxiv": "2107.13731"
+      },
+      "record_updated_at": "2021-08-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2107.13731",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2021-07-29; Recorded arXiv version: v2; Recorded version updated: 2021-08-10T08:55:21Z.",
+    "title": "UIBert: Learning Generic Multimodal Representations for UI Understanding",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2108.03353v1",
+    "archive": "arXiv",
+    "archive_location": "2108.03353",
+    "author": [
+      {
+        "literal": "Bryan Wang"
+      },
+      {
+        "literal": "Gang Li"
+      },
+      {
+        "literal": "Xin Zhou"
+      },
+      {
+        "literal": "Zhourong Chen"
+      },
+      {
+        "literal": "Tovi Grossman"
+      },
+      {
+        "literal": "Yang Li"
+      }
+    ],
+    "citation-key": "arxiv_2108_03353",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9cf8d8521e643e1a888e706dff4e5106f178061d9af4ed2c2ba5ae42f194785a",
+        "submitted_at": "2021-08-07T03:01:23Z",
+        "updated_at": "2021-08-07T03:01:23Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2108.03353v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2108.03353",
+      "catalog_id": "arxiv:2108.03353",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2021-08-07",
+      "identifiers": {
+        "arxiv": "2108.03353"
+      },
+      "record_updated_at": "2021-08-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2108.03353",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2021-08-07; Recorded arXiv version: v1; Recorded version updated: 2021-08-07T03:01:23Z.",
+    "title": "Screen2Words: Automatic Mobile UI Summarization with Multimodal Learning",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2112.05692v1",
+    "archive": "arXiv",
+    "archive_location": "2112.05692",
+    "author": [
+      {
+        "literal": "Yang Li"
+      },
+      {
+        "literal": "Gang Li"
+      },
+      {
+        "literal": "Xin Zhou"
+      },
+      {
+        "literal": "Mostafa Dehghani"
+      },
+      {
+        "literal": "Alexey Gritsenko"
+      }
+    ],
+    "citation-key": "arxiv_2112_05692",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6e88e6e2659df232174d9fc71a2fac61a021941f096355f8ea3cd4c618c223d3",
+        "submitted_at": "2021-12-10T17:37:26Z",
+        "updated_at": "2021-12-10T17:37:26Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2112.05692v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2112.05692",
+      "catalog_id": "arxiv:2112.05692",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2021-12-10",
+      "identifiers": {
+        "arxiv": "2112.05692"
+      },
+      "record_updated_at": "2021-12-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2112.05692",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          10
+        ]
+      ]
+    },
+    "note": "First published: 2021-12-10; Recorded arXiv version: v1; Recorded version updated: 2021-12-10T17:37:26Z.",
+    "title": "VUT: Versatile UI Transformer for Multi-Modal Multi-Task User Interface Modeling",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2201.04100v2",
+    "archive": "arXiv",
+    "archive_location": "2201.04100",
+    "author": [
+      {
+        "literal": "Gang Li"
+      },
+      {
+        "literal": "Gilles Baechler"
+      },
+      {
+        "literal": "Manuel Tragut"
+      },
+      {
+        "literal": "Yang Li"
+      }
+    ],
+    "citation-key": "arxiv_2201_04100",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d971ee06cafd46fe27a01d40bc16e3604e1d153c38ee92be970328d9935b0708",
+        "submitted_at": "2022-01-11T17:52:40Z",
+        "updated_at": "2022-01-13T17:53:31Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2201.04100v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2201.04100",
+      "catalog_id": "arxiv:2201.04100",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2022-01-11",
+      "identifiers": {
+        "arxiv": "2201.04100"
+      },
+      "record_updated_at": "2022-01-13"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2201.04100",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          1,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2022-01-11; Recorded arXiv version: v2; Recorded version updated: 2022-01-13T17:53:31Z.",
+    "title": "Learning to Denoise Raw Mobile UI Layouts for Improving Datasets at Scale",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2209.08199v4",
+    "archive": "arXiv",
+    "archive_location": "2209.08199",
+    "author": [
+      {
+        "literal": "Yu-Chung Hsiao"
+      },
+      {
+        "literal": "Fedir Zubach"
+      },
+      {
+        "literal": "Gilles Baechler"
+      },
+      {
+        "literal": "Srinivas Sunkara"
+      },
+      {
+        "literal": "Victor Carbune"
+      },
+      {
+        "literal": "Jason Lin"
+      },
+      {
+        "literal": "Maria Wang"
+      },
+      {
+        "literal": "Yun Zhu"
+      },
+      {
+        "literal": "Jindong Chen"
+      }
+    ],
+    "citation-key": "arxiv_2209_08199",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "37f7ba5d5b9bbc96fd3a723e49190f296e08d2874dcd545272d3fcef3cc33d24",
+        "submitted_at": "2022-09-16T23:49:00Z",
+        "updated_at": "2025-02-09T21:09:17Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2209.08199v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2209.08199",
+      "catalog_id": "arxiv:2209.08199",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2022-09-16",
+      "identifiers": {
+        "arxiv": "2209.08199"
+      },
+      "record_updated_at": "2025-02-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2209.08199",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2022-09-16; Recorded arXiv version: v4; Recorded version updated: 2025-02-09T21:09:17Z.",
+    "title": "ScreenQA: Large-Scale Question-Answer Pairs over Mobile App Screenshots",
+    "type": "article",
+    "version": "4"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2209.08655v2",
+    "archive": "arXiv",
+    "archive_location": "2209.08655",
+    "author": [
+      {
+        "literal": "Bryan Wang"
+      },
+      {
+        "literal": "Gang Li"
+      },
+      {
+        "literal": "Yang Li"
+      }
+    ],
+    "citation-key": "arxiv_2209_08655",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "65813c1784ba00e354aff4e38796b1bdc8e9b691cba9dd56b8232b5d86555d1b",
+        "submitted_at": "2022-09-18T20:58:39Z",
+        "updated_at": "2023-02-17T21:24:09Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2209.08655v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2209.08655",
+      "catalog_id": "arxiv:2209.08655",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2022-09-18",
+      "identifiers": {
+        "arxiv": "2209.08655"
+      },
+      "record_updated_at": "2023-02-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2209.08655",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2022-09-18; Recorded arXiv version: v2; Recorded version updated: 2023-02-17T21:24:09Z.",
+    "title": "Enabling Conversational Interaction with Mobile UI using Large Language Models",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2209.14927v4",
+    "archive": "arXiv",
+    "archive_location": "2209.14927",
+    "author": [
+      {
+        "literal": "Gang Li"
+      },
+      {
+        "literal": "Yang Li"
+      }
+    ],
+    "citation-key": "arxiv_2209_14927",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "eaa351e34fa6bdcbe26aa6714eacda1f667411090abfdd5575735605dc89e864",
+        "submitted_at": "2022-09-29T16:45:43Z",
+        "updated_at": "2023-02-24T01:41:32Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2209.14927v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2209.14927",
+      "catalog_id": "arxiv:2209.14927",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2022-09-29",
+      "identifiers": {
+        "arxiv": "2209.14927"
+      },
+      "record_updated_at": "2023-02-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2209.14927",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2022-09-29; Recorded arXiv version: v4; Recorded version updated: 2023-02-24T01:41:32Z.",
+    "title": "Spotlight: Mobile UI Understanding using Vision-Language Models with a Focus",
+    "type": "article",
+    "version": "4"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2210.02663v1",
+    "archive": "arXiv",
+    "archive_location": "2210.02663",
+    "author": [
+      {
+        "literal": "Srinivas Sunkara"
+      },
+      {
+        "literal": "Maria Wang"
+      },
+      {
+        "literal": "Lijuan Liu"
+      },
+      {
+        "literal": "Gilles Baechler"
+      },
+      {
+        "literal": "Yu-Chung Hsiao"
+      },
+      {
+        "literal": "Jindong"
+      },
+      {
+        "literal": "Chen"
+      },
+      {
+        "literal": "Abhanshu Sharma"
+      },
+      {
+        "literal": "James Stout"
+      }
+    ],
+    "citation-key": "arxiv_2210_02663",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "24d037f1abeb7708852ac5517ce02cc46622e359d9feab407f188c0657cc72f4",
+        "submitted_at": "2022-10-06T03:48:54Z",
+        "updated_at": "2022-10-06T03:48:54Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2210.02663v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2210.02663",
+      "catalog_id": "arxiv:2210.02663",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2022-10-06",
+      "identifiers": {
+        "arxiv": "2210.02663"
+      },
+      "record_updated_at": "2022-10-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2210.02663",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2022-10-06; Recorded arXiv version: v1; Recorded version updated: 2022-10-06T03:48:54Z.",
+    "title": "Towards Better Semantic Understanding of Mobile Interfaces",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2301.10165v1",
+    "archive": "arXiv",
+    "archive_location": "2301.10165",
+    "author": [
+      {
+        "literal": "Pratyay Banerjee"
+      },
+      {
+        "literal": "Shweti Mahajan"
+      },
+      {
+        "literal": "Kushal Arora"
+      },
+      {
+        "literal": "Chitta Baral"
+      },
+      {
+        "literal": "Oriana Riva"
+      }
+    ],
+    "citation-key": "arxiv_2301_10165",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "bb647a96c7f8263786e85a5061c8c5284cb92ed0b2ebc4c405e1243b2ca3fa2b",
+        "submitted_at": "2023-01-23T09:05:49Z",
+        "updated_at": "2023-01-23T09:05:49Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2301.10165v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2301.10165",
+      "catalog_id": "arxiv:2301.10165",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2023-01-23",
+      "identifiers": {
+        "arxiv": "2301.10165"
+      },
+      "record_updated_at": "2023-01-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2301.10165",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2023-01-23; Recorded arXiv version: v1; Recorded version updated: 2023-01-23T09:05:49Z.",
+    "title": "Lexi: Self-Supervised Learning of the UI Language",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2301.13280v1",
+    "archive": "arXiv",
+    "archive_location": "2301.13280",
+    "author": [
+      {
+        "literal": "Jason Wu"
+      },
+      {
+        "literal": "Siyan Wang"
+      },
+      {
+        "literal": "Siman Shen"
+      },
+      {
+        "literal": "Yi-Hao Peng"
+      },
+      {
+        "literal": "Jeffrey Nichols"
+      },
+      {
+        "literal": "Jeffrey P. Bigham"
+      }
+    ],
+    "citation-key": "arxiv_2301_13280",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0cc3b91aa85bc8c7d88a878c7b24926943eea0bcc92e25f517915242f2a82a39",
+        "submitted_at": "2023-01-30T20:47:12Z",
+        "updated_at": "2023-01-30T20:47:12Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2301.13280v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2301.13280",
+      "catalog_id": "arxiv:2301.13280",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2023-01-30",
+      "identifiers": {
+        "arxiv": "2301.13280"
+      },
+      "record_updated_at": "2023-01-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2301.13280",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2023-01-30; Recorded arXiv version: v1; Recorded version updated: 2023-01-30T20:47:12Z.",
+    "title": "WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2310.04869v1",
+    "archive": "arXiv",
+    "archive_location": "2310.04869",
+    "author": [
+      {
+        "literal": "Yue Jiang"
+      },
+      {
+        "literal": "Eldon Schoop"
+      },
+      {
+        "literal": "Amanda Swearngin"
+      },
+      {
+        "literal": "Jeffrey Nichols"
+      }
+    ],
+    "citation-key": "arxiv_2310_04869",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a49e879891017071fce4df0ff4b07bd9e8b5a6e14385af565549aadbde1bc1cf",
+        "submitted_at": "2023-10-07T16:32:34Z",
+        "updated_at": "2023-10-07T16:32:34Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2310.04869v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2310.04869",
+      "catalog_id": "arxiv:2310.04869",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2023-10-07",
+      "identifiers": {
+        "arxiv": "2310.04869"
+      },
+      "record_updated_at": "2023-10-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2310.04869",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2023-10-07; Recorded arXiv version: v1; Recorded version updated: 2023-10-07T16:32:34Z.",
+    "title": "ILuvUI: Instruction-tuned LangUage-Vision modeling of UIs from Machine Conversations",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2312.08914v3",
+    "archive": "arXiv",
+    "archive_location": "2312.08914",
+    "author": [
+      {
+        "literal": "Wenyi Hong"
+      },
+      {
+        "literal": "Weihan Wang"
+      },
+      {
+        "literal": "Qingsong Lv"
+      },
+      {
+        "literal": "Jiazheng Xu"
+      },
+      {
+        "literal": "Wenmeng Yu"
+      },
+      {
+        "literal": "Junhui Ji"
+      },
+      {
+        "literal": "Yan Wang"
+      },
+      {
+        "literal": "Zihan Wang"
+      },
+      {
+        "literal": "Yuxuan Zhang"
+      },
+      {
+        "literal": "Juanzi Li"
+      },
+      {
+        "literal": "Bin Xu"
+      },
+      {
+        "literal": "Yuxiao Dong"
+      },
+      {
+        "literal": "Ming Ding"
+      },
+      {
+        "literal": "Jie Tang"
+      }
+    ],
+    "citation-key": "arxiv_2312_08914",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "755198d83a3af9fe6d032f1446ec9bf57bf7e6f314d37787ce8a6aaa16bddc47",
+        "submitted_at": "2023-12-14T13:20:57Z",
+        "updated_at": "2024-12-27T06:56:18Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2312.08914v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2312.08914",
+      "catalog_id": "arxiv:2312.08914",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2023-12-14",
+      "identifiers": {
+        "arxiv": "2312.08914"
+      },
+      "record_updated_at": "2024-12-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2312.08914",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2023-12-14; Recorded arXiv version: v3; Recorded version updated: 2024-12-27T06:56:18Z.",
+    "title": "CogAgent: A Visual Language Model for GUI Agents",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2312.11190v2",
+    "archive": "arXiv",
+    "archive_location": "2312.11190",
+    "author": [
+      {
+        "literal": "Yunpeng Song"
+      },
+      {
+        "literal": "Yiheng Bian"
+      },
+      {
+        "literal": "Yongtao Tang"
+      },
+      {
+        "literal": "Guiyu Ma"
+      },
+      {
+        "literal": "Zhongmin Cai"
+      }
+    ],
+    "citation-key": "arxiv_2312_11190",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "df1390eab35db18dedaf135ddbbc9fdfcacbc9a70c51ec2609cf331cc05e06bd",
+        "submitted_at": "2023-12-18T13:35:46Z",
+        "updated_at": "2024-07-29T14:52:38Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2312.11190v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2312.11190",
+      "catalog_id": "arxiv:2312.11190",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2023-12-18",
+      "identifiers": {
+        "arxiv": "2312.11190"
+      },
+      "record_updated_at": "2024-07-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2312.11190",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2023-12-18; Recorded arXiv version: v2; Recorded version updated: 2024-07-29T14:52:38Z.",
+    "title": "VisionTasker: Mobile Task Automation Using Vision Based UI Understanding and LLM Task Planning",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2402.04476v2",
+    "archive": "arXiv",
+    "archive_location": "2402.04476",
+    "author": [
+      {
+        "literal": "Jihyung Kil"
+      },
+      {
+        "literal": "Chan Hee Song"
+      },
+      {
+        "literal": "Boyuan Zheng"
+      },
+      {
+        "literal": "Xiang Deng"
+      },
+      {
+        "literal": "Yu Su"
+      },
+      {
+        "literal": "Wei-Lun Chao"
+      }
+    ],
+    "citation-key": "arxiv_2402_04476",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3da421fc440f7dcfc53d8ef218f55389e4da4dbac196f54b40402bc877ff0365",
+        "submitted_at": "2024-02-06T23:52:10Z",
+        "updated_at": "2024-03-30T05:18:05Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2402.04476v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2402.04476",
+      "catalog_id": "arxiv:2402.04476",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-02-06",
+      "identifiers": {
+        "arxiv": "2402.04476"
+      },
+      "record_updated_at": "2024-03-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2402.04476",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2024-02-06; Recorded arXiv version: v2; Recorded version updated: 2024-03-30T05:18:05Z.",
+    "title": "Dual-View Visual Contextualization for Web Navigation",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2402.04615v3",
+    "archive": "arXiv",
+    "archive_location": "2402.04615",
+    "author": [
+      {
+        "literal": "Gilles Baechler"
+      },
+      {
+        "literal": "Srinivas Sunkara"
+      },
+      {
+        "literal": "Maria Wang"
+      },
+      {
+        "literal": "Fedir Zubach"
+      },
+      {
+        "literal": "Hassan Mansoor"
+      },
+      {
+        "literal": "Vincent Etter"
+      },
+      {
+        "literal": "Victor Cărbune"
+      },
+      {
+        "literal": "Jason Lin"
+      },
+      {
+        "literal": "Jindong Chen"
+      },
+      {
+        "literal": "Abhanshu Sharma"
+      }
+    ],
+    "citation-key": "arxiv_2402_04615",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b293ab33fe0f3607eccc2b99cbf06fb459792444433a4179bb65e081f33e426c",
+        "submitted_at": "2024-02-07T06:42:33Z",
+        "updated_at": "2024-07-04T07:08:15Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2402.04615v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2402.04615",
+      "catalog_id": "arxiv:2402.04615",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-02-07",
+      "identifiers": {
+        "arxiv": "2402.04615"
+      },
+      "record_updated_at": "2024-07-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2402.04615",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2024-02-07; Recorded arXiv version: v3; Recorded version updated: 2024-07-04T07:08:15Z.",
+    "title": "ScreenAI: A Vision-Language Model for UI and Infographics Understanding",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2402.11941v3",
+    "archive": "arXiv",
+    "archive_location": "2402.11941",
+    "author": [
+      {
+        "literal": "Xinbei Ma"
+      },
+      {
+        "literal": "Zhuosheng Zhang"
+      },
+      {
+        "literal": "Hai Zhao"
+      }
+    ],
+    "citation-key": "arxiv_2402_11941",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "98930b10832d8169bdc60620f882b4b8f753440979c8e9a8de167b12d38d7060",
+        "submitted_at": "2024-02-19T08:29:03Z",
+        "updated_at": "2024-06-02T13:25:05Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2402.11941v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2402.11941",
+      "catalog_id": "arxiv:2402.11941",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-02-19",
+      "identifiers": {
+        "arxiv": "2402.11941"
+      },
+      "record_updated_at": "2024-06-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2402.11941",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2024-02-19; Recorded arXiv version: v3; Recorded version updated: 2024-06-02T13:25:05Z.",
+    "title": "CoCo-Agent: A Comprehensive Cognitive MLLM Agent for Smartphone GUI Automation",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2402.14073v1",
+    "archive": "arXiv",
+    "archive_location": "2402.14073",
+    "author": [
+      {
+        "literal": "Tianyu Gao"
+      },
+      {
+        "literal": "Zirui Wang"
+      },
+      {
+        "literal": "Adithya Bhaskar"
+      },
+      {
+        "literal": "Danqi Chen"
+      }
+    ],
+    "citation-key": "arxiv_2402_14073",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0f3eed6e0021be438af9d056e97f71a838af905b948cfd6499423ab18df11e43",
+        "submitted_at": "2024-02-21T19:01:03Z",
+        "updated_at": "2024-02-21T19:01:03Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2402.14073v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2402.14073",
+      "catalog_id": "arxiv:2402.14073",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-02-21",
+      "identifiers": {
+        "arxiv": "2402.14073"
+      },
+      "record_updated_at": "2024-02-21"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2402.14073",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          21
+        ]
+      ]
+    },
+    "note": "First published: 2024-02-21; Recorded arXiv version: v1; Recorded version updated: 2024-02-21T19:01:03Z.",
+    "title": "Improving Language Understanding from Screenshots",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2403.03186v3",
+    "archive": "arXiv",
+    "archive_location": "2403.03186",
+    "author": [
+      {
+        "literal": "Weihao Tan"
+      },
+      {
+        "literal": "Wentao Zhang"
+      },
+      {
+        "literal": "Xinrun Xu"
+      },
+      {
+        "literal": "Haochong Xia"
+      },
+      {
+        "literal": "Ziluo Ding"
+      },
+      {
+        "literal": "Boyu Li"
+      },
+      {
+        "literal": "Bohan Zhou"
+      },
+      {
+        "literal": "Junpeng Yue"
+      },
+      {
+        "literal": "Jiechuan Jiang"
+      },
+      {
+        "literal": "Yewen Li"
+      },
+      {
+        "literal": "Ruyi An"
+      },
+      {
+        "literal": "Molei Qin"
+      },
+      {
+        "literal": "Chuqiao Zong"
+      },
+      {
+        "literal": "Longtao Zheng"
+      },
+      {
+        "literal": "Yujie Wu"
+      },
+      {
+        "literal": "Xiaoqiang Chai"
+      },
+      {
+        "literal": "Yifei Bi"
+      },
+      {
+        "literal": "Tianbao Xie"
+      },
+      {
+        "literal": "Pengjie Gu"
+      },
+      {
+        "literal": "Xiyun Li"
+      },
+      {
+        "literal": "Ceyao Zhang"
+      },
+      {
+        "literal": "Long Tian"
+      },
+      {
+        "literal": "Chaojie Wang"
+      },
+      {
+        "literal": "Xinrun Wang"
+      },
+      {
+        "literal": "Börje F. Karlsson"
+      },
+      {
+        "literal": "Bo An"
+      },
+      {
+        "literal": "Shuicheng Yan"
+      },
+      {
+        "literal": "Zongqing Lu"
+      }
+    ],
+    "citation-key": "arxiv_2403_03186",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "63c68c596f1c81485e77f98beae696deca9785a5d8725ab4456ee35870e64a99",
+        "submitted_at": "2024-03-05T18:22:29Z",
+        "updated_at": "2024-07-02T17:23:13Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2403.03186v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2403.03186",
+      "catalog_id": "arxiv:2403.03186",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "record",
+      "first_published_at": "2024-03-05",
+      "identifiers": {
+        "arxiv": "2403.03186"
+      },
+      "publication": {
+        "authors": [
+          "Weihao Tan",
+          "Wentao Zhang",
+          "Xinrun Xu",
+          "Haochong Xia",
+          "Ziluo Ding",
+          "Boyu Li",
+          "Bohan Zhou",
+          "Junpeng Yue",
+          "Jiechuan Jiang",
+          "Yewen Li",
+          "Ruyi An",
+          "Molei Qin",
+          "Chuqiao Zong",
+          "Longtao Zheng",
+          "Yujie Wu",
+          "Xiaoqiang Chai",
+          "Yifei Bi",
+          "Tianbao Xie",
+          "Pengjie Gu",
+          "Xiyun Li",
+          "Ceyao Zhang",
+          "Long Tian",
+          "Chaojie Wang",
+          "Xinrun Wang",
+          "Börje F. Karlsson",
+          "Bo An",
+          "Shuicheng Yan",
+          "Zongqing Lu"
+        ],
+        "date_basis": "Explicit publisher metadata: 2025/10/06; precision=day.",
+        "date_parts": [
+          2025,
+          10,
+          6
+        ],
+        "doi": null,
+        "event_dates": "13--19 Jul 2025",
+        "evidence_urls": [
+          "https://proceedings.mlr.press/v267/tan25h.html"
+        ],
+        "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+        "issue": null,
+        "notes": "The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+        "pages": "58658-58725",
+        "pdf_url": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/tan25h/tan25h.pdf",
+        "publisher": "PMLR",
+        "series": "Proceedings of Machine Learning Research",
+        "title": "Cradle: Empowering Foundation Agents towards General Computer Control",
+        "type": "conference-paper",
+        "url": "https://proceedings.mlr.press/v267/tan25h.html",
+        "venue": "Proceedings of the 42nd International Conference on Machine Learning",
+        "volume": "267"
+      },
+      "record_updated_at": "2024-07-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2403.03186",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2024-03-05; Recorded arXiv version: v3; Recorded version updated: 2024-07-02T17:23:13Z.",
+    "title": "Cradle: Empowering Foundation Agents Towards General Computer Control",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2403.10170v2",
+    "archive": "arXiv",
+    "archive_location": "2403.10170",
+    "author": [
+      {
+        "literal": "Andrés Muñoz"
+      },
+      {
+        "literal": "Daniel Borrajo"
+      }
+    ],
+    "citation-key": "arxiv_2403_10170",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "aacb4d2cac31e478aa56ee25b6b39e5ba8fe164f89102e665f8fb25cf3822e7b",
+        "submitted_at": "2024-03-15T10:26:52Z",
+        "updated_at": "2024-08-27T18:36:12Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2403.10170v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2403.10170",
+      "catalog_id": "arxiv:2403.10170",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-03-15",
+      "identifiers": {
+        "arxiv": "2403.10170"
+      },
+      "record_updated_at": "2024-08-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2403.10170",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2024-03-15; Recorded arXiv version: v2; Recorded version updated: 2024-08-27T18:36:12Z.",
+    "title": "Computer User Interface Understanding. A New Dataset and a Learning Framework",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2404.05719v1",
+    "archive": "arXiv",
+    "archive_location": "2404.05719",
+    "author": [
+      {
+        "literal": "Keen You"
+      },
+      {
+        "literal": "Haotian Zhang"
+      },
+      {
+        "literal": "Eldon Schoop"
+      },
+      {
+        "literal": "Floris Weers"
+      },
+      {
+        "literal": "Amanda Swearngin"
+      },
+      {
+        "literal": "Jeffrey Nichols"
+      },
+      {
+        "literal": "Yinfei Yang"
+      },
+      {
+        "literal": "Zhe Gan"
+      }
+    ],
+    "citation-key": "arxiv_2404_05719",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "67e139ad83ab4804dfdc4c91f3fd344d7d3d279b97efb25bd11bab1532968e46",
+        "submitted_at": "2024-04-08T17:55:44Z",
+        "updated_at": "2024-04-08T17:55:44Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2404.05719v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2404.05719",
+      "catalog_id": "arxiv:2404.05719",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-04-08",
+      "identifiers": {
+        "arxiv": "2404.05719"
+      },
+      "record_updated_at": "2024-04-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2404.05719",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2024-04-08; Recorded arXiv version: v1; Recorded version updated: 2024-04-08T17:55:44Z.",
+    "title": "Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2404.05955v1",
+    "archive": "arXiv",
+    "archive_location": "2404.05955",
+    "author": [
+      {
+        "literal": "Junpeng Liu"
+      },
+      {
+        "literal": "Yifan Song"
+      },
+      {
+        "literal": "Bill Yuchen Lin"
+      },
+      {
+        "literal": "Wai Lam"
+      },
+      {
+        "literal": "Graham Neubig"
+      },
+      {
+        "literal": "Yuanzhi Li"
+      },
+      {
+        "literal": "Xiang Yue"
+      }
+    ],
+    "citation-key": "arxiv_2404_05955",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7414bfa289baf86a8f2bb54f3f69f25a6a4cc8516fb0296a1899d21ad3020d4f",
+        "submitted_at": "2024-04-09T02:29:39Z",
+        "updated_at": "2024-04-09T02:29:39Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2404.05955v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2404.05955",
+      "catalog_id": "arxiv:2404.05955",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-04-09",
+      "identifiers": {
+        "arxiv": "2404.05955"
+      },
+      "record_updated_at": "2024-04-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2404.05955",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2024-04-09; Recorded arXiv version: v1; Recorded version updated: 2024-04-09T02:29:39Z.",
+    "title": "VisualWebBench: How Far Have Multimodal LLMs Evolved in Web Page Understanding and Grounding?",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2405.15341v2",
+    "archive": "arXiv",
+    "archive_location": "2405.15341",
+    "author": [
+      {
+        "literal": "Abdur Rahman"
+      },
+      {
+        "literal": "Rajat Chawla"
+      },
+      {
+        "literal": "Muskaan Kumar"
+      },
+      {
+        "literal": "Arkajit Datta"
+      },
+      {
+        "literal": "Adarsh Jha"
+      },
+      {
+        "literal": "Mukunda NS"
+      },
+      {
+        "literal": "Ishaan Bhola"
+      }
+    ],
+    "citation-key": "arxiv_2405_15341",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e7cb6087a48596442e1d191bf1313e9459ad62c02c3104ee481cb72cb00e56b1",
+        "submitted_at": "2024-05-24T08:21:45Z",
+        "updated_at": "2024-07-21T07:34:44Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2405.15341v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2405.15341",
+      "catalog_id": "arxiv:2405.15341",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-05-24",
+      "identifiers": {
+        "arxiv": "2405.15341"
+      },
+      "record_updated_at": "2024-07-21"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2405.15341",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2024-05-24; Recorded arXiv version: v2; Recorded version updated: 2024-07-21T07:34:44Z.",
+    "title": "V-Zen: Efficient GUI Understanding and Precise Grounding With A Novel Multimodal LLM",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2406.06947v3",
+    "archive": "arXiv",
+    "archive_location": "2406.06947",
+    "author": [
+      {
+        "literal": "Junhee Cho"
+      },
+      {
+        "literal": "Jihoon Kim"
+      },
+      {
+        "literal": "Daseul Bae"
+      },
+      {
+        "literal": "Jinho Choo"
+      },
+      {
+        "literal": "Youngjune Gwon"
+      },
+      {
+        "literal": "Yeong-Dae Kwon"
+      }
+    ],
+    "citation-key": "arxiv_2406_06947",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5f85b2cf7650f41ba9ee6e4ae83cd9041e077a44adcb685e702d644bd5779963",
+        "submitted_at": "2024-06-11T05:21:20Z",
+        "updated_at": "2024-12-26T11:02:28Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2406.06947v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.06947",
+      "catalog_id": "arxiv:2406.06947",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-06-11",
+      "identifiers": {
+        "arxiv": "2406.06947"
+      },
+      "record_updated_at": "2024-12-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2406.06947",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2024-06-11; Recorded arXiv version: v3; Recorded version updated: 2024-12-26T11:02:28Z.",
+    "title": "CAAP: Context-Aware Action Planning Prompting to Solve Computer Tasks with Front-End UI Only",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2406.07822v2",
+    "archive": "arXiv",
+    "archive_location": "2406.07822",
+    "author": [
+      {
+        "literal": "Andrea Burns"
+      },
+      {
+        "literal": "Kate Saenko"
+      },
+      {
+        "literal": "Bryan A. Plummer"
+      }
+    ],
+    "citation-key": "arxiv_2406_07822",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "47d0ca0467a104f9b8be037ec73131f12b66a22b0a89fe975bec7680073c8f39",
+        "submitted_at": "2024-06-12T02:43:19Z",
+        "updated_at": "2024-08-08T02:36:04Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2406.07822v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.07822",
+      "catalog_id": "arxiv:2406.07822",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-06-12",
+      "identifiers": {
+        "arxiv": "2406.07822"
+      },
+      "record_updated_at": "2024-08-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2406.07822",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2024-06-12; Recorded arXiv version: v2; Recorded version updated: 2024-08-08T02:36:04Z.",
+    "title": "Tell Me What's Next: Textual Foresight for Generic UI Representations",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2406.08340v1",
+    "archive": "arXiv",
+    "archive_location": "2406.08340",
+    "author": [
+      {
+        "literal": "Shengcheng Yu"
+      },
+      {
+        "literal": "Chunrong Fang"
+      },
+      {
+        "literal": "Mingzhe Du"
+      },
+      {
+        "literal": "Zimin Ding"
+      },
+      {
+        "literal": "Zhenyu Chen"
+      },
+      {
+        "literal": "Zhendong Su"
+      }
+    ],
+    "citation-key": "arxiv_2406_08340",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0061e9004afe11bf188164ea37de1acd15e1b95ae2fcad22044264a89e4636b3",
+        "submitted_at": "2024-06-12T15:48:39Z",
+        "updated_at": "2024-06-12T15:48:39Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2406.08340v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.08340",
+      "catalog_id": "arxiv:2406.08340",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-06-12",
+      "identifiers": {
+        "arxiv": "2406.08340"
+      },
+      "record_updated_at": "2024-06-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2406.08340",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2024-06-12; Recorded arXiv version: v1; Recorded version updated: 2024-06-12T15:48:39Z.",
+    "title": "Practical, Automated Scenario-based Mobile App Testing",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2406.10819v2",
+    "archive": "arXiv",
+    "archive_location": "2406.10819",
+    "author": [
+      {
+        "literal": "Dongping Chen"
+      },
+      {
+        "literal": "Yue Huang"
+      },
+      {
+        "literal": "Siyuan Wu"
+      },
+      {
+        "literal": "Jingyu Tang"
+      },
+      {
+        "literal": "Liuyi Chen"
+      },
+      {
+        "literal": "Yilin Bai"
+      },
+      {
+        "literal": "Zhigang He"
+      },
+      {
+        "literal": "Chenlong Wang"
+      },
+      {
+        "literal": "Huichi Zhou"
+      },
+      {
+        "literal": "Yiqiang Li"
+      },
+      {
+        "literal": "Tianshuo Zhou"
+      },
+      {
+        "literal": "Yue Yu"
+      },
+      {
+        "literal": "Chujie Gao"
+      },
+      {
+        "literal": "Qihui Zhang"
+      },
+      {
+        "literal": "Yi Gui"
+      },
+      {
+        "literal": "Zhen Li"
+      },
+      {
+        "literal": "Yao Wan"
+      },
+      {
+        "literal": "Pan Zhou"
+      },
+      {
+        "literal": "Jianfeng Gao"
+      },
+      {
+        "literal": "Lichao Sun"
+      }
+    ],
+    "citation-key": "arxiv_2406_10819",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9997c3ab43f0e3e69ad4dcbe15257ea4392d36fa3c82f90c6b7730667a067f99",
+        "submitted_at": "2024-06-16T06:56:53Z",
+        "updated_at": "2025-03-24T11:46:14Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2406.10819v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.10819",
+      "catalog_id": "arxiv:2406.10819",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-06-16",
+      "identifiers": {
+        "arxiv": "2406.10819"
+      },
+      "record_updated_at": "2025-03-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2406.10819",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2024-06-16; Recorded arXiv version: v2; Recorded version updated: 2025-03-24T11:46:14Z.",
+    "title": "GUI-World: A Video Benchmark and Dataset for Multimodal GUI-oriented Understanding",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2406.11317v2",
+    "archive": "arXiv",
+    "archive_location": "2406.11317",
+    "author": [
+      {
+        "literal": "Wentong Chen"
+      },
+      {
+        "literal": "Junbo Cui"
+      },
+      {
+        "literal": "Jinyi Hu"
+      },
+      {
+        "literal": "Yujia Qin"
+      },
+      {
+        "literal": "Junjie Fang"
+      },
+      {
+        "literal": "Yue Zhao"
+      },
+      {
+        "literal": "Chongyi Wang"
+      },
+      {
+        "literal": "Jun Liu"
+      },
+      {
+        "literal": "Guirong Chen"
+      },
+      {
+        "literal": "Yupeng Huo"
+      },
+      {
+        "literal": "Yuan Yao"
+      },
+      {
+        "literal": "Yankai Lin"
+      },
+      {
+        "literal": "Zhiyuan Liu"
+      },
+      {
+        "literal": "Maosong Sun"
+      }
+    ],
+    "citation-key": "arxiv_2406_11317",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "40e41704dbe59f1fb9b1e743a3c13394105de112213f666c2420fb235d666ef3",
+        "submitted_at": "2024-06-17T08:30:55Z",
+        "updated_at": "2025-05-30T07:30:07Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2406.11317v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.11317",
+      "catalog_id": "arxiv:2406.11317",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-06-17",
+      "identifiers": {
+        "arxiv": "2406.11317"
+      },
+      "record_updated_at": "2025-05-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2406.11317",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2024-06-17; Recorded arXiv version: v2; Recorded version updated: 2025-05-30T07:30:07Z.",
+    "title": "GUICourse: From General Vision Language Models to Versatile GUI Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2406.13719v1",
+    "archive": "arXiv",
+    "archive_location": "2406.13719",
+    "author": [
+      {
+        "literal": "Qinchen Wu"
+      },
+      {
+        "literal": "Difei Gao"
+      },
+      {
+        "literal": "Kevin Qinghong Lin"
+      },
+      {
+        "literal": "Zhuoyu Wu"
+      },
+      {
+        "literal": "Xiangwu Guo"
+      },
+      {
+        "literal": "Peiran Li"
+      },
+      {
+        "literal": "Weichen Zhang"
+      },
+      {
+        "literal": "Hengxu Wang"
+      },
+      {
+        "literal": "Mike Zheng Shou"
+      }
+    ],
+    "citation-key": "arxiv_2406_13719",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "369c32dba4bab0cfc05b41db16c73d5672605b7f81caabb2dbd72f581b3290ec",
+        "submitted_at": "2024-06-19T17:22:11Z",
+        "updated_at": "2024-06-19T17:22:11Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2406.13719v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.13719",
+      "catalog_id": "arxiv:2406.13719",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-06-19",
+      "identifiers": {
+        "arxiv": "2406.13719"
+      },
+      "record_updated_at": "2024-06-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2406.13719",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2024-06-19; Recorded arXiv version: v1; Recorded version updated: 2024-06-19T17:22:11Z.",
+    "title": "GUI Action Narrator: Where and When Did That Action Take Place?",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2406.14056v3",
+    "archive": "arXiv",
+    "archive_location": "2406.14056",
+    "author": [
+      {
+        "literal": "Ziyang Meng"
+      },
+      {
+        "literal": "Yu Dai"
+      },
+      {
+        "literal": "Zezheng Gong"
+      },
+      {
+        "literal": "Shaoxiong Guo"
+      },
+      {
+        "literal": "Minglong Tang"
+      },
+      {
+        "literal": "Tongquan Wei"
+      }
+    ],
+    "citation-key": "arxiv_2406_14056",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ea674b3aec3aee51c6f7fd4e99ad2b88394e7df43a4f3a02654d805e9a60343a",
+        "submitted_at": "2024-06-20T07:24:43Z",
+        "updated_at": "2024-11-04T09:31:06Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2406.14056v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.14056",
+      "catalog_id": "arxiv:2406.14056",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-06-20",
+      "identifiers": {
+        "arxiv": "2406.14056"
+      },
+      "record_updated_at": "2024-11-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2406.14056",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2024-06-20; Recorded arXiv version: v3; Recorded version updated: 2024-11-04T09:31:06Z.",
+    "title": "VGA: Vision GUI Assistant -- Minimizing Hallucinations through Image-Centric Fine-Tuning",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2406.14314v3",
+    "archive": "arXiv",
+    "archive_location": "2406.14314",
+    "author": [
+      {
+        "literal": "Omri Berkovitch"
+      },
+      {
+        "literal": "Sapir Caduri"
+      },
+      {
+        "literal": "Noam Kahlon"
+      },
+      {
+        "literal": "Anatoly Efros"
+      },
+      {
+        "literal": "Avi Caciularu"
+      },
+      {
+        "literal": "Ido Dagan"
+      }
+    ],
+    "citation-key": "arxiv_2406_14314",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a0bc798b69e59d1ec0ca8ecb0fab7a7ee6594f4d656ca4212b19be7e3085c0c5",
+        "submitted_at": "2024-06-20T13:46:10Z",
+        "updated_at": "2025-03-03T15:47:10Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2406.14314v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.14314",
+      "catalog_id": "arxiv:2406.14314",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-06-20",
+      "identifiers": {
+        "arxiv": "2406.14314"
+      },
+      "record_updated_at": "2025-03-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2406.14314",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2024-06-20; Recorded arXiv version: v3; Recorded version updated: 2025-03-03T15:47:10Z.",
+    "title": "Identifying User Goals from UI Trajectories",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2406.19263v2",
+    "archive": "arXiv",
+    "archive_location": "2406.19263",
+    "author": [
+      {
+        "literal": "Yue Fan"
+      },
+      {
+        "literal": "Lei Ding"
+      },
+      {
+        "literal": "Ching-Chen Kuo"
+      },
+      {
+        "literal": "Shan Jiang"
+      },
+      {
+        "literal": "Yang Zhao"
+      },
+      {
+        "literal": "Xinze Guan"
+      },
+      {
+        "literal": "Jie Yang"
+      },
+      {
+        "literal": "Yi Zhang"
+      },
+      {
+        "literal": "Xin Eric Wang"
+      }
+    ],
+    "citation-key": "arxiv_2406_19263",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0c86d68b5c3486b099f64792d5d3290d79e25b7c82c6eb2402869b893bb22fea",
+        "submitted_at": "2024-06-27T15:34:16Z",
+        "updated_at": "2024-10-25T18:16:21Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2406.19263v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.19263",
+      "catalog_id": "arxiv:2406.19263",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-06-27",
+      "identifiers": {
+        "arxiv": "2406.19263"
+      },
+      "record_updated_at": "2024-10-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2406.19263",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2024-06-27; Recorded arXiv version: v2; Recorded version updated: 2024-10-25T18:16:21Z.",
+    "title": "Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2407.03037v2",
+    "archive": "arXiv",
+    "archive_location": "2407.03037",
+    "author": [
+      {
+        "literal": "Zhe Liu"
+      },
+      {
+        "literal": "Cheng Li"
+      },
+      {
+        "literal": "Chunyang Chen"
+      },
+      {
+        "literal": "Junjie Wang"
+      },
+      {
+        "literal": "Mengzhuo Chen"
+      },
+      {
+        "literal": "Boyu Wu"
+      },
+      {
+        "literal": "Yawen Wang"
+      },
+      {
+        "literal": "Jun Hu"
+      },
+      {
+        "literal": "Qing Wang"
+      }
+    ],
+    "citation-key": "arxiv_2407_03037",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "73b706ac6089a7d19836268437f3fea58d10b9d170ac596ac0d5a12f0d3a9668",
+        "submitted_at": "2024-07-03T11:58:09Z",
+        "updated_at": "2024-12-04T08:00:42Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2407.03037v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2407.03037",
+      "catalog_id": "arxiv:2407.03037",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-07-03",
+      "identifiers": {
+        "arxiv": "2407.03037"
+      },
+      "record_updated_at": "2024-12-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2407.03037",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2024-07-03; Recorded arXiv version: v2; Recorded version updated: 2024-12-04T08:00:42Z.",
+    "title": "Seeing is Believing: Vision-driven Non-crash Functional Bug Detection for Mobile Apps",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2407.04346v3",
+    "archive": "arXiv",
+    "archive_location": "2407.04346",
+    "author": [
+      {
+        "literal": "Songqin Nong"
+      },
+      {
+        "literal": "Jiali Zhu"
+      },
+      {
+        "literal": "Rui Wu"
+      },
+      {
+        "literal": "Jiongchao Jin"
+      },
+      {
+        "literal": "Shuo Shan"
+      },
+      {
+        "literal": "Xiutian Huang"
+      },
+      {
+        "literal": "Wenhao Xu"
+      }
+    ],
+    "citation-key": "arxiv_2407_04346",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "59708ce4edeba4e913ae890f458b51907dd2f3b0b10bb18c86469b36375c84e4",
+        "submitted_at": "2024-07-05T08:37:10Z",
+        "updated_at": "2024-12-06T07:43:34Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2407.04346v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2407.04346",
+      "catalog_id": "arxiv:2407.04346",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-07-05",
+      "identifiers": {
+        "arxiv": "2407.04346"
+      },
+      "record_updated_at": "2024-12-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2407.04346",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2024-07-05; Recorded arXiv version: v3; Recorded version updated: 2024-12-06T07:43:34Z.",
+    "title": "MobileFlow: A Multimodal LLM For Mobile GUI Agent",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2407.08850v3",
+    "archive": "arXiv",
+    "archive_location": "2407.08850",
+    "author": [
+      {
+        "literal": "Peitong Duan"
+      },
+      {
+        "literal": "Chin-yi Chen"
+      },
+      {
+        "literal": "Gang Li"
+      },
+      {
+        "literal": "Bjoern Hartmann"
+      },
+      {
+        "literal": "Yang Li"
+      }
+    ],
+    "citation-key": "arxiv_2407_08850",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "390a7415ad5f665de43f7d294e0a575785ef7e2810dead3363632174b2986af4",
+        "submitted_at": "2024-07-11T20:18:19Z",
+        "updated_at": "2024-08-13T23:41:43Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2407.08850v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2407.08850",
+      "catalog_id": "arxiv:2407.08850",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-07-11",
+      "identifiers": {
+        "arxiv": "2407.08850"
+      },
+      "record_updated_at": "2024-08-13"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2407.08850",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2024-07-11; Recorded arXiv version: v3; Recorded version updated: 2024-08-13T23:41:43Z.",
+    "title": "UICrit: Enhancing Automated Design Evaluation with a UICritique Dataset",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2407.17490v2",
+    "archive": "arXiv",
+    "archive_location": "2407.17490",
+    "author": [
+      {
+        "literal": "Yuxiang Chai"
+      },
+      {
+        "literal": "Siyuan Huang"
+      },
+      {
+        "literal": "Yazhe Niu"
+      },
+      {
+        "literal": "Han Xiao"
+      },
+      {
+        "literal": "Liang Liu"
+      },
+      {
+        "literal": "Dingyu Zhang"
+      },
+      {
+        "literal": "Shuai Ren"
+      },
+      {
+        "literal": "Hongsheng Li"
+      }
+    ],
+    "citation-key": "arxiv_2407_17490",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9c80665716bf665fe4688a27a4c7dcf26fcfe93cb7f79a6f28784a795e0bd3cb",
+        "submitted_at": "2024-07-03T17:59:58Z",
+        "updated_at": "2025-05-29T02:43:50Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2407.17490v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2407.17490",
+      "catalog_id": "arxiv:2407.17490",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-07-03",
+      "identifiers": {
+        "arxiv": "2407.17490"
+      },
+      "record_updated_at": "2025-05-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2407.17490",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2024-07-03; Recorded arXiv version: v2; Recorded version updated: 2025-05-29T02:43:50Z.",
+    "title": "AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2408.00203v1",
+    "archive": "arXiv",
+    "archive_location": "2408.00203",
+    "author": [
+      {
+        "literal": "Yadong Lu"
+      },
+      {
+        "literal": "Jianwei Yang"
+      },
+      {
+        "literal": "Yelong Shen"
+      },
+      {
+        "literal": "Ahmed Awadallah"
+      }
+    ],
+    "citation-key": "arxiv_2408_00203",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "dfe55dd83d2f5ac48f9e3efb6bdf4aab7f11d81c0118725555456cce276adae3",
+        "submitted_at": "2024-08-01T00:00:43Z",
+        "updated_at": "2024-08-01T00:00:43Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2408.00203v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2408.00203",
+      "catalog_id": "arxiv:2408.00203",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-08-01",
+      "identifiers": {
+        "arxiv": "2408.00203"
+      },
+      "record_updated_at": "2024-08-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2408.00203",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          1
+        ]
+      ]
+    },
+    "note": "First published: 2024-08-01; Recorded arXiv version: v1; Recorded version updated: 2024-08-01T00:00:43Z.",
+    "title": "OmniParser for Pure Vision Based GUI Agent",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2409.09354v1",
+    "archive": "arXiv",
+    "archive_location": "2409.09354",
+    "author": [
+      {
+        "literal": "Kelin Fu"
+      },
+      {
+        "literal": "Yang Tian"
+      },
+      {
+        "literal": "Kaigui Bian"
+      }
+    ],
+    "citation-key": "arxiv_2409_09354",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b46dabe4135f0caca15d54f84cfe805cdb7fe7f1abcce6b004483d99eb21e637",
+        "submitted_at": "2024-09-14T07:54:25Z",
+        "updated_at": "2024-09-14T07:54:25Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2409.09354v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2409.09354",
+      "catalog_id": "arxiv:2409.09354",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-09-14",
+      "identifiers": {
+        "arxiv": "2409.09354"
+      },
+      "record_updated_at": "2024-09-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2409.09354",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2024-09-14; Recorded arXiv version: v1; Recorded version updated: 2024-09-14T07:54:25Z.",
+    "title": "PeriGuru: A Peripheral Robotic Mobile App Operation Assistant based on GUI Image Understanding and Prompting with LLM",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2409.13711v2",
+    "archive": "arXiv",
+    "archive_location": "2409.13711",
+    "author": [
+      {
+        "literal": "Maria Wang"
+      },
+      {
+        "literal": "Srinivas Sunkara"
+      },
+      {
+        "literal": "Gilles Baechler"
+      },
+      {
+        "literal": "Jason Lin"
+      },
+      {
+        "literal": "Yun Zhu"
+      },
+      {
+        "literal": "Fedir Zubach"
+      },
+      {
+        "literal": "Lei Shu"
+      },
+      {
+        "literal": "Jindong Chen"
+      }
+    ],
+    "citation-key": "arxiv_2409_13711",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1ca44e6c98c09a2261b2cf8f3b6d18584b2d2471934b2dcac8d5b72c17b32e61",
+        "submitted_at": "2024-09-06T18:44:25Z",
+        "updated_at": "2024-09-24T18:38:02Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2409.13711v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2409.13711",
+      "catalog_id": "arxiv:2409.13711",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-09-06",
+      "identifiers": {
+        "arxiv": "2409.13711"
+      },
+      "record_updated_at": "2024-09-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2409.13711",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2024-09-06; Recorded arXiv version: v2; Recorded version updated: 2024-09-24T18:38:02Z.",
+    "title": "WebQuest: A Benchmark for Multimodal QA on Web Page Sequences",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2409.14337v3",
+    "archive": "arXiv",
+    "archive_location": "2409.14337",
+    "author": [
+      {
+        "literal": "Longxi Gao"
+      },
+      {
+        "literal": "Li Zhang"
+      },
+      {
+        "literal": "Shihe Wang"
+      },
+      {
+        "literal": "Pengzhi Gao"
+      },
+      {
+        "literal": "Wei Liu"
+      },
+      {
+        "literal": "Jian Luan"
+      },
+      {
+        "literal": "Shangguang Wang"
+      },
+      {
+        "literal": "Yuanchun Li"
+      },
+      {
+        "literal": "Mengwei Xu"
+      }
+    ],
+    "citation-key": "arxiv_2409_14337",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4bb00ad1be49c9bd51881827556b3a168d34c69a45e31053406f780ad2a62af1",
+        "submitted_at": "2024-09-22T06:45:38Z",
+        "updated_at": "2025-11-25T02:43:11Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2409.14337v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2409.14337",
+      "catalog_id": "arxiv:2409.14337",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-09-22",
+      "identifiers": {
+        "arxiv": "2409.14337"
+      },
+      "record_updated_at": "2025-11-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2409.14337",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2024-09-22; Recorded arXiv version: v3; Recorded version updated: 2025-11-25T02:43:11Z.",
+    "title": "MobileViews: A Million-scale and Diverse Mobile GUI Dataset",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2409.14818v2",
+    "archive": "arXiv",
+    "archive_location": "2409.14818",
+    "author": [
+      {
+        "literal": "Qinzhuo Wu"
+      },
+      {
+        "literal": "Weikai Xu"
+      },
+      {
+        "literal": "Wei Liu"
+      },
+      {
+        "literal": "Tao Tan"
+      },
+      {
+        "literal": "Jianfeng Liu"
+      },
+      {
+        "literal": "Ang Li"
+      },
+      {
+        "literal": "Jian Luan"
+      },
+      {
+        "literal": "Bin Wang"
+      },
+      {
+        "literal": "Shuo Shang"
+      }
+    ],
+    "citation-key": "arxiv_2409_14818",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cc22337ef29946dffcf7149df1008fd6cf02350c68d21ec0386e6485f5a14ebf",
+        "submitted_at": "2024-09-23T08:47:54Z",
+        "updated_at": "2024-10-03T05:23:22Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2409.14818v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2409.14818",
+      "catalog_id": "arxiv:2409.14818",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-09-23",
+      "identifiers": {
+        "arxiv": "2409.14818"
+      },
+      "record_updated_at": "2024-10-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2409.14818",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2024-09-23; Recorded arXiv version: v2; Recorded version updated: 2024-10-03T05:23:22Z.",
+    "title": "MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2410.00201v1",
+    "archive": "arXiv",
+    "archive_location": "2410.00201",
+    "author": [
+      {
+        "literal": "Yi-Hao Peng"
+      },
+      {
+        "literal": "Faria Huq"
+      },
+      {
+        "literal": "Yue Jiang"
+      },
+      {
+        "literal": "Jason Wu"
+      },
+      {
+        "literal": "Amanda Xin Yue Li"
+      },
+      {
+        "literal": "Jeffrey Bigham"
+      },
+      {
+        "literal": "Amy Pavel"
+      }
+    ],
+    "citation-key": "arxiv_2410_00201",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a85dca895f00b442a60123c7c85cd26a90e3d1c2a810c91c32385f877bcd755a",
+        "submitted_at": "2024-09-30T19:55:54Z",
+        "updated_at": "2024-09-30T19:55:54Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2410.00201v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.00201",
+      "catalog_id": "arxiv:2410.00201",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-09-30",
+      "identifiers": {
+        "arxiv": "2410.00201"
+      },
+      "record_updated_at": "2024-09-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2410.00201",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2024-09-30; Recorded arXiv version: v1; Recorded version updated: 2024-09-30T19:55:54Z.",
+    "title": "DreamStruct: Understanding Slides and User Interfaces via Synthetic Data Generation",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2410.13824v3",
+    "archive": "arXiv",
+    "archive_location": "2410.13824",
+    "author": [
+      {
+        "literal": "Junpeng Liu"
+      },
+      {
+        "literal": "Tianyue Ou"
+      },
+      {
+        "literal": "Yifan Song"
+      },
+      {
+        "literal": "Yuxiao Qu"
+      },
+      {
+        "literal": "Wai Lam"
+      },
+      {
+        "literal": "Chenyan Xiong"
+      },
+      {
+        "literal": "Wenhu Chen"
+      },
+      {
+        "literal": "Graham Neubig"
+      },
+      {
+        "literal": "Xiang Yue"
+      }
+    ],
+    "citation-key": "arxiv_2410_13824",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2a3bcd26dff4f1d21a8a2772929c0c97cd1cc180a7606b0744e630dabae94609",
+        "submitted_at": "2024-10-17T17:48:54Z",
+        "updated_at": "2024-11-06T08:29:22Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2410.13824v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.13824",
+      "catalog_id": "arxiv:2410.13824",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-10-17",
+      "identifiers": {
+        "arxiv": "2410.13824"
+      },
+      "record_updated_at": "2024-11-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2410.13824",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2024-10-17; Recorded arXiv version: v3; Recorded version updated: 2024-11-06T08:29:22Z.",
+    "title": "Harnessing Webpage UIs for Text-Rich Visual Understanding",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2410.18967v2",
+    "archive": "arXiv",
+    "archive_location": "2410.18967",
+    "author": [
+      {
+        "literal": "Zhangheng Li"
+      },
+      {
+        "literal": "Keen You"
+      },
+      {
+        "literal": "Haotian Zhang"
+      },
+      {
+        "literal": "Di Feng"
+      },
+      {
+        "literal": "Harsh Agrawal"
+      },
+      {
+        "literal": "Xiujun Li"
+      },
+      {
+        "literal": "Mohana Prasad Sathya Moorthy"
+      },
+      {
+        "literal": "Jeff Nichols"
+      },
+      {
+        "literal": "Yinfei Yang"
+      },
+      {
+        "literal": "Zhe Gan"
+      }
+    ],
+    "citation-key": "arxiv_2410_18967",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "299b7c631468e259ac9d25a1c4ebf507be57b7ee478c611d0a2597b588f6c4c8",
+        "submitted_at": "2024-10-24T17:58:31Z",
+        "updated_at": "2025-02-28T00:29:14Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2410.18967v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.18967",
+      "catalog_id": "arxiv:2410.18967",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-10-24",
+      "identifiers": {
+        "arxiv": "2410.18967"
+      },
+      "record_updated_at": "2025-02-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2410.18967",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2024-10-24; Recorded arXiv version: v2; Recorded version updated: 2025-02-28T00:29:14Z.",
+    "title": "Ferret-UI 2: Mastering Universal User Interface Understanding Across Platforms",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2410.19461v2",
+    "archive": "arXiv",
+    "archive_location": "2410.19461",
+    "author": [
+      {
+        "literal": "Xuetian Chen"
+      },
+      {
+        "literal": "Hangcheng Li"
+      },
+      {
+        "literal": "Jiaqing Liang"
+      },
+      {
+        "literal": "Sihang Jiang"
+      },
+      {
+        "literal": "Deqing Yang"
+      }
+    ],
+    "citation-key": "arxiv_2410_19461",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "dce2e22787c6e2cce95ecc4f5583bf94d7670b4b87ab75d2b8c7efb66fbcd1a8",
+        "submitted_at": "2024-10-25T10:46:17Z",
+        "updated_at": "2024-11-02T08:54:21Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2410.19461v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.19461",
+      "catalog_id": "arxiv:2410.19461",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-10-25",
+      "identifiers": {
+        "arxiv": "2410.19461"
+      },
+      "record_updated_at": "2024-11-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2410.19461",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2024-10-25; Recorded arXiv version: v2; Recorded version updated: 2024-11-02T08:54:21Z.",
+    "title": "EDGE: Enhanced Grounded GUI Understanding with Enriched Multi-Granularity Synthetic Data",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2412.09362v1",
+    "archive": "arXiv",
+    "archive_location": "2412.09362",
+    "author": [
+      {
+        "literal": "Huawen Shen"
+      },
+      {
+        "literal": "Chang Liu"
+      },
+      {
+        "literal": "Gengluo Li"
+      },
+      {
+        "literal": "Xinlong Wang"
+      },
+      {
+        "literal": "Yu Zhou"
+      },
+      {
+        "literal": "Can Ma"
+      },
+      {
+        "literal": "Xiangyang Ji"
+      }
+    ],
+    "citation-key": "arxiv_2412_09362",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ee5840bbd1404674f0e9509b305e995c4dece9257e3f2a79348dde9aee99928b",
+        "submitted_at": "2024-12-12T15:29:36Z",
+        "updated_at": "2024-12-12T15:29:36Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2412.09362v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2412.09362",
+      "catalog_id": "arxiv:2412.09362",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-12-12",
+      "identifiers": {
+        "arxiv": "2412.09362"
+      },
+      "record_updated_at": "2024-12-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2412.09362",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2024-12-12; Recorded arXiv version: v1; Recorded version updated: 2024-12-12T15:29:36Z.",
+    "title": "Falcon-UI: Understanding GUI Before Following User Instructions",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2412.10342v2",
+    "archive": "arXiv",
+    "archive_location": "2412.10342",
+    "author": [
+      {
+        "literal": "Zhiqi Ge"
+      },
+      {
+        "literal": "Juncheng Li"
+      },
+      {
+        "literal": "Xinglei Pang"
+      },
+      {
+        "literal": "Minghe Gao"
+      },
+      {
+        "literal": "Kaihang Pan"
+      },
+      {
+        "literal": "Wang Lin"
+      },
+      {
+        "literal": "Hao Fei"
+      },
+      {
+        "literal": "Wenqiao Zhang"
+      },
+      {
+        "literal": "Siliang Tang"
+      },
+      {
+        "literal": "Yueting Zhuang"
+      }
+    ],
+    "citation-key": "arxiv_2412_10342",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6e7cab57b118ab76a9026e7ee800709f4e93969e19ad18f549f8b75ee657622b",
+        "submitted_at": "2024-12-13T18:40:10Z",
+        "updated_at": "2025-02-03T15:23:02Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2412.10342v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2412.10342",
+      "catalog_id": "arxiv:2412.10342",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-12-13",
+      "identifiers": {
+        "arxiv": "2412.10342"
+      },
+      "record_updated_at": "2025-02-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2412.10342",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          13
+        ]
+      ]
+    },
+    "note": "First published: 2024-12-13; Recorded arXiv version: v2; Recorded version updated: 2025-02-03T15:23:02Z.",
+    "title": "Iris: Breaking GUI Complexity with Adaptive Focus and Self-Refining",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2502.08226v2",
+    "archive": "arXiv",
+    "archive_location": "2502.08226",
+    "author": [
+      {
+        "literal": "Kunal Singh"
+      },
+      {
+        "literal": "Shreyas Singh"
+      },
+      {
+        "literal": "Mukund Khanna"
+      }
+    ],
+    "citation-key": "arxiv_2502_08226",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a60d581e4318db66495a0333b864757ec896576c720e40da4a881f8740b9d9cf",
+        "submitted_at": "2025-02-12T09:12:30Z",
+        "updated_at": "2025-02-14T06:23:57Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2502.08226v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2502.08226",
+      "catalog_id": "arxiv:2502.08226",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-02-12",
+      "identifiers": {
+        "arxiv": "2502.08226"
+      },
+      "record_updated_at": "2025-02-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2502.08226",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2025-02-12; Recorded arXiv version: v2; Recorded version updated: 2025-02-14T06:23:57Z.",
+    "title": "TRISHUL: Towards Region Identification and Screen Hierarchy Understanding for Large VLM based GUI Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2503.03196v2",
+    "archive": "arXiv",
+    "archive_location": "2503.03196",
+    "author": [
+      {
+        "literal": "Zhiyuan Huang"
+      },
+      {
+        "literal": "Ziming Cheng"
+      },
+      {
+        "literal": "Junting Pan"
+      },
+      {
+        "literal": "Zhaohui Hou"
+      },
+      {
+        "literal": "Mingjie Zhan"
+      }
+    ],
+    "citation-key": "arxiv_2503_03196",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d45cacb33df18242eb3f47f6c89c56e41a146dd110e4b4dc5340062b9b981250",
+        "submitted_at": "2025-03-05T05:30:22Z",
+        "updated_at": "2025-04-16T15:34:51Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2503.03196v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2503.03196",
+      "catalog_id": "arxiv:2503.03196",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-03-05",
+      "identifiers": {
+        "arxiv": "2503.03196"
+      },
+      "record_updated_at": "2025-04-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2503.03196",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2025-03-05; Recorded arXiv version: v2; Recorded version updated: 2025-04-16T15:34:51Z.",
+    "title": "SpiritSight Agent: Advanced GUI Agent with One Look",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2503.11170v1",
+    "archive": "arXiv",
+    "archive_location": "2503.11170",
+    "author": [
+      {
+        "literal": "Yibin Xu"
+      },
+      {
+        "literal": "Liang Yang"
+      },
+      {
+        "literal": "Hao Chen"
+      },
+      {
+        "literal": "Hua Wang"
+      },
+      {
+        "literal": "Zhi Chen"
+      },
+      {
+        "literal": "Yaohua Tang"
+      }
+    ],
+    "citation-key": "arxiv_2503_11170",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d2e6250e87ea9340914b457c4b0d471450f8cf49d2e2d53abd8e9e76105e908a",
+        "submitted_at": "2025-03-14T08:16:02Z",
+        "updated_at": "2025-03-14T08:16:02Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2503.11170v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2503.11170",
+      "catalog_id": "arxiv:2503.11170",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-03-14",
+      "identifiers": {
+        "arxiv": "2503.11170"
+      },
+      "record_updated_at": "2025-03-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2503.11170",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2025-03-14; Recorded arXiv version: v1; Recorded version updated: 2025-03-14T08:16:02Z.",
+    "title": "DeskVision: Large Scale Desktop Region Captioning for Advanced GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2503.14021v1",
+    "archive": "arXiv",
+    "archive_location": "2503.14021",
+    "author": [
+      {
+        "literal": "Ziwei Wang"
+      },
+      {
+        "literal": "Weizhi Chen"
+      },
+      {
+        "literal": "Leyang Yang"
+      },
+      {
+        "literal": "Sheng Zhou"
+      },
+      {
+        "literal": "Shengchu Zhao"
+      },
+      {
+        "literal": "Hanbei Zhan"
+      },
+      {
+        "literal": "Jiongchao Jin"
+      },
+      {
+        "literal": "Liangcheng Li"
+      },
+      {
+        "literal": "Zirui Shao"
+      },
+      {
+        "literal": "Jiajun Bu"
+      }
+    ],
+    "citation-key": "arxiv_2503_14021",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b260fd1d7e28c8263710f116638e7aa7b51f46aac15199c8a29092161a13f37d",
+        "submitted_at": "2025-03-18T08:32:22Z",
+        "updated_at": "2025-03-18T08:32:22Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2503.14021v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2503.14021",
+      "catalog_id": "arxiv:2503.14021",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-03-18",
+      "identifiers": {
+        "arxiv": "2503.14021"
+      },
+      "record_updated_at": "2025-03-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2503.14021",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2025-03-18; Recorded arXiv version: v1; Recorded version updated: 2025-03-18T08:32:22Z.",
+    "title": "MP-GUI: Modality Perception with MLLMs for GUI Understanding",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2503.15661v2",
+    "archive": "arXiv",
+    "archive_location": "2503.15661",
+    "author": [
+      {
+        "literal": "Shravan Nayak"
+      },
+      {
+        "literal": "Xiangru Jian"
+      },
+      {
+        "literal": "Kevin Qinghong Lin"
+      },
+      {
+        "literal": "Juan A. Rodriguez"
+      },
+      {
+        "literal": "Montek Kalsi"
+      },
+      {
+        "literal": "Rabiul Awal"
+      },
+      {
+        "literal": "Nicolas Chapados"
+      },
+      {
+        "literal": "M. Tamer Özsu"
+      },
+      {
+        "literal": "Aishwarya Agrawal"
+      },
+      {
+        "literal": "David Vazquez"
+      },
+      {
+        "literal": "Christopher Pal"
+      },
+      {
+        "literal": "Perouz Taslakian"
+      },
+      {
+        "literal": "Spandana Gella"
+      },
+      {
+        "literal": "Sai Rajeswar"
+      }
+    ],
+    "citation-key": "arxiv_2503_15661",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5abf3c7b08a4331d4f634d8cc63a7f8ff40713f7344231887dac1b5e061a8eae",
+        "submitted_at": "2025-03-19T19:26:17Z",
+        "updated_at": "2025-05-06T17:43:11Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2503.15661v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2503.15661",
+      "catalog_id": "arxiv:2503.15661",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-03-19",
+      "identifiers": {
+        "arxiv": "2503.15661"
+      },
+      "record_updated_at": "2025-05-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2503.15661",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2025-03-19; Recorded arXiv version: v2; Recorded version updated: 2025-05-06T17:43:11Z.",
+    "title": "UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2503.20978v1",
+    "archive": "arXiv",
+    "archive_location": "2503.20978",
+    "author": [
+      {
+        "literal": "Yiqiao Jin"
+      },
+      {
+        "literal": "Stefano Petrangeli"
+      },
+      {
+        "literal": "Yu Shen"
+      },
+      {
+        "literal": "Gang Wu"
+      }
+    ],
+    "citation-key": "arxiv_2503_20978",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0888d0da1c5da9cf9956fd8b145a09f463aa432a60b142c4aea8d20b4aa84c4d",
+        "submitted_at": "2025-03-26T20:41:24Z",
+        "updated_at": "2025-03-26T20:41:24Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2503.20978v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2503.20978",
+      "catalog_id": "arxiv:2503.20978",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-03-26",
+      "identifiers": {
+        "arxiv": "2503.20978"
+      },
+      "record_updated_at": "2025-03-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2503.20978",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2025-03-26; Recorded arXiv version: v1; Recorded version updated: 2025-03-26T20:41:24Z.",
+    "title": "ScreenLLM: Stateful Screen Schema for Efficient Action Understanding and Prediction",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2504.16419v2",
+    "archive": "arXiv",
+    "archive_location": "2504.16419",
+    "author": [
+      {
+        "literal": "Qi Yang"
+      },
+      {
+        "literal": "Weichen Bi"
+      },
+      {
+        "literal": "Haiyang Shen"
+      },
+      {
+        "literal": "Yaoqi Guo"
+      },
+      {
+        "literal": "Yun Ma"
+      }
+    ],
+    "citation-key": "arxiv_2504_16419",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e1ec3311094166baac4de66ad0f083b66585c933f19cb66fc580bf128ad809ca",
+        "submitted_at": "2025-04-23T05:01:25Z",
+        "updated_at": "2025-04-27T06:52:23Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2504.16419v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2504.16419",
+      "catalog_id": "arxiv:2504.16419",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-04-23",
+      "identifiers": {
+        "arxiv": "2504.16419"
+      },
+      "record_updated_at": "2025-04-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2504.16419",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2025-04-23; Recorded arXiv version: v2; Recorded version updated: 2025-04-27T06:52:23Z.",
+    "title": "PixelWeb: The First Web GUI Dataset with Pixel-Wise Labels",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2505.00684v2",
+    "archive": "arXiv",
+    "archive_location": "2505.00684",
+    "author": [
+      {
+        "literal": "Tiange Luo"
+      },
+      {
+        "literal": "Lajanugen Logeswaran"
+      },
+      {
+        "literal": "Justin Johnson"
+      },
+      {
+        "literal": "Honglak Lee"
+      }
+    ],
+    "citation-key": "arxiv_2505_00684",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3d2dc8ca397adce1ecf6cf53afa82a8d4f1825bf00277aeb117966f965abfe48",
+        "submitted_at": "2025-05-01T17:45:59Z",
+        "updated_at": "2025-07-14T17:45:50Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2505.00684v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.00684",
+      "catalog_id": "arxiv:2505.00684",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-05-01",
+      "identifiers": {
+        "arxiv": "2505.00684"
+      },
+      "record_updated_at": "2025-07-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.00684",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          1
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-01; Recorded arXiv version: v2; Recorded version updated: 2025-07-14T17:45:50Z.",
+    "title": "Visual Test-time Scaling for GUI Agent Grounding",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2505.05026v5",
+    "archive": "arXiv",
+    "archive_location": "2505.05026",
+    "author": [
+      {
+        "literal": "Jaehyun Jeon"
+      },
+      {
+        "literal": "Min Soo Kim"
+      },
+      {
+        "literal": "Jang Han Yoon"
+      },
+      {
+        "literal": "Sumin Shim"
+      },
+      {
+        "literal": "Yejin Choi"
+      },
+      {
+        "literal": "Hanbin Kim"
+      },
+      {
+        "literal": "Dae Hyun Kim"
+      },
+      {
+        "literal": "Youngjae Yu"
+      }
+    ],
+    "citation-key": "arxiv_2505_05026",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3f65cd2856c554584baab9b1cbf9c5250b5c01d4f31980d69aefab727427ded2",
+        "submitted_at": "2025-05-08T08:00:32Z",
+        "updated_at": "2026-06-04T06:58:13Z",
+        "version": 5,
+        "versioned_url": "https://arxiv.org/abs/2505.05026v5"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.05026",
+      "catalog_id": "arxiv:2505.05026",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-05-08",
+      "identifiers": {
+        "arxiv": "2505.05026"
+      },
+      "record_updated_at": "2026-06-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.05026",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-08; Recorded arXiv version: v5; Recorded version updated: 2026-06-04T06:58:13Z.",
+    "title": "Do MLLMs Capture How Interfaces Guide User Behavior? A Benchmark for Multimodal UI/UX Design Understanding",
+    "type": "article",
+    "version": "5"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2507.00008v2",
+    "archive": "arXiv",
+    "archive_location": "2507.00008",
+    "author": [
+      {
+        "literal": "Hang Wu"
+      },
+      {
+        "literal": "Hongkai Chen"
+      },
+      {
+        "literal": "Yujun Cai"
+      },
+      {
+        "literal": "Chang Liu"
+      },
+      {
+        "literal": "Qingwen Ye"
+      },
+      {
+        "literal": "Ming-Hsuan Yang"
+      },
+      {
+        "literal": "Yiwei Wang"
+      }
+    ],
+    "citation-key": "arxiv_2507_00008",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e423834b07e74155214597c0fbb66c26b949e2b726568a65617a670a9ab157fa",
+        "submitted_at": "2025-06-12T03:13:21Z",
+        "updated_at": "2025-09-05T17:21:02Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2507.00008v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2507.00008",
+      "catalog_id": "arxiv:2507.00008",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-06-12",
+      "identifiers": {
+        "arxiv": "2507.00008"
+      },
+      "record_updated_at": "2025-09-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2507.00008",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2025-06-12; Recorded arXiv version: v2; Recorded version updated: 2025-09-05T17:21:02Z.",
+    "title": "DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2507.05673v1",
+    "archive": "arXiv",
+    "archive_location": "2507.05673",
+    "author": [
+      {
+        "literal": "Joonhyung Park"
+      },
+      {
+        "literal": "Peng Tang"
+      },
+      {
+        "literal": "Sagnik Das"
+      },
+      {
+        "literal": "Srikar Appalaraju"
+      },
+      {
+        "literal": "Kunwar Yashraj Singh"
+      },
+      {
+        "literal": "R. Manmatha"
+      },
+      {
+        "literal": "Shabnam Ghadar"
+      }
+    ],
+    "citation-key": "arxiv_2507_05673",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "aff9b208c446bd57f24258734557e0cd5caaf9146af68e594ec6a7e575919a6f",
+        "submitted_at": "2025-07-08T04:56:57Z",
+        "updated_at": "2025-07-08T04:56:57Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2507.05673v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2507.05673",
+      "catalog_id": "arxiv:2507.05673",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-07-08",
+      "identifiers": {
+        "arxiv": "2507.05673"
+      },
+      "record_updated_at": "2025-07-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2507.05673",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2025-07-08; Recorded arXiv version: v1; Recorded version updated: 2025-07-08T04:56:57Z.",
+    "title": "R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2507.23779v1",
+    "archive": "arXiv",
+    "archive_location": "2507.23779",
+    "author": [
+      {
+        "literal": "Miaosen Zhang"
+      },
+      {
+        "literal": "Ziqiang Xu"
+      },
+      {
+        "literal": "Jialiang Zhu"
+      },
+      {
+        "literal": "Qi Dai"
+      },
+      {
+        "literal": "Kai Qiu"
+      },
+      {
+        "literal": "Yifan Yang"
+      },
+      {
+        "literal": "Chong Luo"
+      },
+      {
+        "literal": "Tianyi Chen"
+      },
+      {
+        "literal": "Justin Wagle"
+      },
+      {
+        "literal": "Tim Franklin"
+      },
+      {
+        "literal": "Baining Guo"
+      }
+    ],
+    "citation-key": "arxiv_2507_23779",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2a7a32f30d2ada7f739e460429b6453d0e0e56364dda8653b0511ef2e9e6df2a",
+        "submitted_at": "2025-07-31T17:59:09Z",
+        "updated_at": "2025-07-31T17:59:09Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2507.23779v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2507.23779",
+      "catalog_id": "arxiv:2507.23779",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-07-31",
+      "identifiers": {
+        "arxiv": "2507.23779"
+      },
+      "record_updated_at": "2025-07-31"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2507.23779",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          31
+        ]
+      ]
+    },
+    "note": "First published: 2025-07-31; Recorded arXiv version: v1; Recorded version updated: 2025-07-31T17:59:09Z.",
+    "title": "Phi-Ground Tech Report: Advancing Perception in GUI Grounding",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2508.04025v1",
+    "archive": "arXiv",
+    "archive_location": "2508.04025",
+    "author": [
+      {
+        "literal": "Chao Hao"
+      },
+      {
+        "literal": "Shuai Wang"
+      },
+      {
+        "literal": "Kaiwen Zhou"
+      }
+    ],
+    "citation-key": "arxiv_2508_04025",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "499a462f9f14b8afdd367bb7cf7a7ffb1b2e166c212fb5c36686d3145f08ab5f",
+        "submitted_at": "2025-08-06T02:38:02Z",
+        "updated_at": "2025-08-06T02:38:02Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2508.04025v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2508.04025",
+      "catalog_id": "arxiv:2508.04025",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-08-06",
+      "identifiers": {
+        "arxiv": "2508.04025"
+      },
+      "record_updated_at": "2025-08-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2508.04025",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2025-08-06; Recorded arXiv version: v1; Recorded version updated: 2025-08-06T02:38:02Z.",
+    "title": "Uncertainty-Aware GUI Agent: Adaptive Perception through Component Recommendation and Human-in-the-Loop Refinement",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2508.04412v4",
+    "archive": "arXiv",
+    "archive_location": "2508.04412",
+    "author": [
+      {
+        "literal": "Thassilo M. Schiepanski"
+      },
+      {
+        "literal": "Nicholas Piël"
+      }
+    ],
+    "citation-key": "arxiv_2508_04412",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "789cfb56a83974c38e6f5e359dac5b6b3075cb70ac8afc178e36a901ce742041",
+        "submitted_at": "2025-08-06T12:56:54Z",
+        "updated_at": "2026-08-31T14:39:02Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2508.04412v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2508.04412",
+      "catalog_id": "arxiv:2508.04412",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-08-06",
+      "identifiers": {
+        "arxiv": "2508.04412"
+      },
+      "record_updated_at": "2026-08-31"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2508.04412",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2025-08-06; Recorded arXiv version: v4; Recorded version updated: 2026-08-31T14:39:02Z.",
+    "title": "Beyond Pixels: Exploring DOM Downsampling for LLM-Based Web Agents",
+    "type": "article",
+    "version": "4"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2508.09241v1",
+    "archive": "arXiv",
+    "archive_location": "2508.09241",
+    "author": [
+      {
+        "literal": "Fengxian Ji"
+      },
+      {
+        "literal": "Jingpu Yang"
+      },
+      {
+        "literal": "Zirui Song"
+      },
+      {
+        "literal": "Yuanxi Wang"
+      },
+      {
+        "literal": "Zhexuan Cui"
+      },
+      {
+        "literal": "Yuke Li"
+      },
+      {
+        "literal": "Qian Jiang"
+      },
+      {
+        "literal": "Miao Fang"
+      },
+      {
+        "literal": "Xiuying Chen"
+      }
+    ],
+    "citation-key": "arxiv_2508_09241",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f8c91a1f85602760c706e56426c0d2d870bbc101ca500aa3c7c391938c3f1676",
+        "submitted_at": "2025-08-12T15:12:42Z",
+        "updated_at": "2025-08-12T15:12:42Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2508.09241v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2508.09241",
+      "catalog_id": "arxiv:2508.09241",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-08-12",
+      "identifiers": {
+        "arxiv": "2508.09241"
+      },
+      "record_updated_at": "2025-08-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2508.09241",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2025-08-12; Recorded arXiv version: v1; Recorded version updated: 2025-08-12T15:12:42Z.",
+    "title": "FineState-Bench: A Comprehensive Benchmark for Fine-Grained State Control in GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2508.13634v3",
+    "archive": "arXiv",
+    "archive_location": "2508.13634",
+    "author": [
+      {
+        "literal": "Jikai Chen"
+      },
+      {
+        "literal": "Long Chen"
+      },
+      {
+        "literal": "Dong Wang"
+      },
+      {
+        "literal": "Qinglin Su"
+      },
+      {
+        "literal": "Zhixuan Chu"
+      },
+      {
+        "literal": "Bingguang Hao"
+      },
+      {
+        "literal": "Leilei Gan"
+      },
+      {
+        "literal": "Chenyi Zhuang"
+      },
+      {
+        "literal": "Jinjie Gu"
+      }
+    ],
+    "citation-key": "arxiv_2508_13634",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "dfb50e10184cded6c18d4c49401145bc7cfa00b0ba21bce964abe8f459af5626",
+        "submitted_at": "2025-08-19T08:47:44Z",
+        "updated_at": "2026-01-20T06:39:19Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2508.13634v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2508.13634",
+      "catalog_id": "arxiv:2508.13634",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-08-19",
+      "identifiers": {
+        "arxiv": "2508.13634"
+      },
+      "record_updated_at": "2026-01-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2508.13634",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2025-08-19; Recorded arXiv version: v3; Recorded version updated: 2026-01-20T06:39:19Z.",
+    "title": "V2P: Visual Attention Calibration for GUI Grounding via Background Suppression and Center Peaking",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.04243v1",
+    "archive": "arXiv",
+    "archive_location": "2509.04243",
+    "author": [
+      {
+        "literal": "Wanfu Wang"
+      },
+      {
+        "literal": "Qipeng Huang"
+      },
+      {
+        "literal": "Guangquan Xue"
+      },
+      {
+        "literal": "Xiaobo Liang"
+      },
+      {
+        "literal": "Juntao Li"
+      }
+    ],
+    "citation-key": "arxiv_2509_04243",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "875e2452985bae9e67d7071121ab13f5205307ecc30bf33f237048a44e75b3bc",
+        "submitted_at": "2025-09-04T14:17:01Z",
+        "updated_at": "2025-09-04T14:17:01Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2509.04243v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.04243",
+      "catalog_id": "arxiv:2509.04243",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-04",
+      "identifiers": {
+        "arxiv": "2509.04243"
+      },
+      "record_updated_at": "2025-09-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.04243",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          4
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-04; Recorded arXiv version: v1; Recorded version updated: 2025-09-04T14:17:01Z.",
+    "title": "Learning Active Perception via Self-Evolving Preference Optimization for GUI Grounding",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.04908v1",
+    "archive": "arXiv",
+    "archive_location": "2509.04908",
+    "author": [
+      {
+        "literal": "Hongyi Jing"
+      },
+      {
+        "literal": "Jiafu Chen"
+      },
+      {
+        "literal": "Chen Rao"
+      },
+      {
+        "literal": "Ziqiang Dang"
+      },
+      {
+        "literal": "Jiajie Teng"
+      },
+      {
+        "literal": "Tianyi Chu"
+      },
+      {
+        "literal": "Juncheng Mo"
+      },
+      {
+        "literal": "Shuo Fang"
+      },
+      {
+        "literal": "Huaizhong Lin"
+      },
+      {
+        "literal": "Rui Lv"
+      },
+      {
+        "literal": "Chenguang Ma"
+      },
+      {
+        "literal": "Lei Zhao"
+      }
+    ],
+    "citation-key": "arxiv_2509_04908",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f74081d31c98d18e10a5febc5de436a3788fc4156215e4be8fc54b1c53260f58",
+        "submitted_at": "2025-09-05T08:24:12Z",
+        "updated_at": "2025-09-05T08:24:12Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2509.04908v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.04908",
+      "catalog_id": "arxiv:2509.04908",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-05",
+      "identifiers": {
+        "arxiv": "2509.04908"
+      },
+      "record_updated_at": "2025-09-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.04908",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-05; Recorded arXiv version: v1; Recorded version updated: 2025-09-05T08:24:12Z.",
+    "title": "SparkUI-Parser: Enhancing GUI Perception with Robust Grounding and Parsing",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.11548v2",
+    "archive": "arXiv",
+    "archive_location": "2509.11548",
+    "author": [
+      {
+        "literal": "Weiming Li"
+      },
+      {
+        "literal": "Yan Shao"
+      },
+      {
+        "literal": "Jing Yang"
+      },
+      {
+        "literal": "Yujing Lu"
+      },
+      {
+        "literal": "Ling Zhong"
+      },
+      {
+        "literal": "Yuhan Wang"
+      },
+      {
+        "literal": "Min Yu"
+      },
+      {
+        "literal": "Tongxiao Ruan"
+      },
+      {
+        "literal": "Manni Duan"
+      }
+    ],
+    "citation-key": "arxiv_2509_11548",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "75ffc21abebbc2c362798f3455b9e6240b58407572e5633d5171e5612cfae71b",
+        "submitted_at": "2025-09-15T03:28:29Z",
+        "updated_at": "2026-06-10T01:13:27Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2509.11548v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.11548",
+      "catalog_id": "arxiv:2509.11548",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-15",
+      "identifiers": {
+        "arxiv": "2509.11548"
+      },
+      "record_updated_at": "2026-06-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.11548",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-15; Recorded arXiv version: v2; Recorded version updated: 2026-06-10T01:13:27Z.",
+    "title": "How Auxiliary Reasoning Unleashes GUI Grounding in VLMs",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.15532v1",
+    "archive": "arXiv",
+    "archive_location": "2509.15532",
+    "author": [
+      {
+        "literal": "Xianhang Ye"
+      },
+      {
+        "literal": "Yiqing Li"
+      },
+      {
+        "literal": "Wei Dai"
+      },
+      {
+        "literal": "Miancan Liu"
+      },
+      {
+        "literal": "Ziyuan Chen"
+      },
+      {
+        "literal": "Zhangye Han"
+      },
+      {
+        "literal": "Hongbo Min"
+      },
+      {
+        "literal": "Jinkui Ren"
+      },
+      {
+        "literal": "Xiantao Zhang"
+      },
+      {
+        "literal": "Wen Yang"
+      },
+      {
+        "literal": "Zhi Jin"
+      }
+    ],
+    "citation-key": "arxiv_2509_15532",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e415074c6a4b4995350d6936d338682b9a4469f1cbed3a83e0ac44eee6f02bef",
+        "submitted_at": "2025-09-19T02:34:50Z",
+        "updated_at": "2025-09-19T02:34:50Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2509.15532v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.15532",
+      "catalog_id": "arxiv:2509.15532",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-19",
+      "identifiers": {
+        "arxiv": "2509.15532"
+      },
+      "record_updated_at": "2025-09-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.15532",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-19; Recorded arXiv version: v1; Recorded version updated: 2025-09-19T02:34:50Z.",
+    "title": "GUI-ARP: Enhancing Grounding with Adaptive Region Perception for GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.23263v3",
+    "archive": "arXiv",
+    "archive_location": "2509.23263",
+    "author": [
+      {
+        "literal": "Tao Xiong"
+      },
+      {
+        "literal": "Xavier Hu"
+      },
+      {
+        "literal": "Yurun Chen"
+      },
+      {
+        "literal": "Yuhang Liu"
+      },
+      {
+        "literal": "Changqiao Wu"
+      },
+      {
+        "literal": "Pengzhi Gao"
+      },
+      {
+        "literal": "Wei Liu"
+      },
+      {
+        "literal": "Jian Luan"
+      },
+      {
+        "literal": "Shengyu Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2509_23263",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5b5375e77f087367383bb5de96cec46d8de6550d9a44bff6965b9201b6718a05",
+        "submitted_at": "2025-09-27T11:42:36Z",
+        "updated_at": "2026-08-30T18:12:14Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2509.23263v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.23263",
+      "catalog_id": "arxiv:2509.23263",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-27",
+      "identifiers": {
+        "arxiv": "2509.23263"
+      },
+      "record_updated_at": "2026-08-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.23263",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-27; Recorded arXiv version: v3; Recorded version updated: 2026-08-30T18:12:14Z.",
+    "title": "GUI-PRA: Process Reward Agent for GUI Tasks",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.00536v2",
+    "archive": "arXiv",
+    "archive_location": "2510.00536",
+    "author": [
+      {
+        "literal": "Kung-Hsiang Huang"
+      },
+      {
+        "literal": "Haoyi Qiu"
+      },
+      {
+        "literal": "Yutong Dai"
+      },
+      {
+        "literal": "Caiming Xiong"
+      },
+      {
+        "literal": "Chien-Sheng Wu"
+      }
+    ],
+    "citation-key": "arxiv_2510_00536",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e07a5a8f9c0aa39643bb919c2d637435669318420223d7d72b0ef3d733308852",
+        "submitted_at": "2025-10-01T05:37:54Z",
+        "updated_at": "2026-10-07T23:23:10Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2510.00536v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.00536",
+      "catalog_id": "arxiv:2510.00536",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-01",
+      "identifiers": {
+        "arxiv": "2510.00536"
+      },
+      "record_updated_at": "2026-10-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.00536",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          1
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-01; Recorded arXiv version: v2; Recorded version updated: 2026-10-07T23:23:10Z.",
+    "title": "GUI-KV: Efficient GUI Agents via KV Cache with Spatio-Temporal Awareness",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.03230v1",
+    "archive": "arXiv",
+    "archive_location": "2510.03230",
+    "author": [
+      {
+        "literal": "Suyuchen Wang"
+      },
+      {
+        "literal": "Tianyu Zhang"
+      },
+      {
+        "literal": "Ahmed Masry"
+      },
+      {
+        "literal": "Christopher Pal"
+      },
+      {
+        "literal": "Spandana Gella"
+      },
+      {
+        "literal": "Bang Liu"
+      },
+      {
+        "literal": "Perouz Taslakian"
+      }
+    ],
+    "citation-key": "arxiv_2510_03230",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7f0c7eedadb9a321b222d4081271d6c979a25e1f64714cea8cf2ff088c5e61df",
+        "submitted_at": "2025-10-03T17:59:34Z",
+        "updated_at": "2025-10-03T17:59:34Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2510.03230v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.03230",
+      "catalog_id": "arxiv:2510.03230",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-03",
+      "identifiers": {
+        "arxiv": "2510.03230"
+      },
+      "record_updated_at": "2025-10-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.03230",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-03; Recorded arXiv version: v1; Recorded version updated: 2025-10-03T17:59:34Z.",
+    "title": "Improving GUI Grounding with Explicit Position-to-Coordinate Mapping",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.16051v2",
+    "archive": "arXiv",
+    "archive_location": "2510.16051",
+    "author": [
+      {
+        "literal": "Sofiya Garkot"
+      },
+      {
+        "literal": "Maksym Shamrai"
+      },
+      {
+        "literal": "Ivan Synytsia"
+      },
+      {
+        "literal": "Mariya Hirna"
+      }
+    ],
+    "citation-key": "arxiv_2510_16051",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6e4377fd6b510455afa1eb04c64e8e0b551e89d3b54ce31f241f283233985e1c",
+        "submitted_at": "2025-10-16T19:03:45Z",
+        "updated_at": "2026-03-24T14:39:38Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2510.16051v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.16051",
+      "catalog_id": "arxiv:2510.16051",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-16",
+      "identifiers": {
+        "arxiv": "2510.16051"
+      },
+      "record_updated_at": "2026-03-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.16051",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-16; Recorded arXiv version: v2; Recorded version updated: 2026-03-24T14:39:38Z.",
+    "title": "GUIrilla: A Scalable Framework for Automated Desktop UI Exploration",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2512.00756v2",
+    "archive": "arXiv",
+    "archive_location": "2512.00756",
+    "author": [
+      {
+        "literal": "Ruihan Chen"
+      },
+      {
+        "literal": "Qiming Li"
+      },
+      {
+        "literal": "Xiaocheng Feng"
+      },
+      {
+        "literal": "Weihong Zhong"
+      },
+      {
+        "literal": "Xiaoliang Yang"
+      },
+      {
+        "literal": "Yuxuan Gu"
+      },
+      {
+        "literal": "Zekun Zhou"
+      },
+      {
+        "literal": "Yunfei Lu"
+      },
+      {
+        "literal": "Haoyu Ren"
+      },
+      {
+        "literal": "Kun Chen"
+      },
+      {
+        "literal": "Dandan Tu"
+      },
+      {
+        "literal": "Bing Qin"
+      }
+    ],
+    "citation-key": "arxiv_2512_00756",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "bf16987178fc24fb483bfa82efecb1924c7528fd16ac94f1144fcc345748850f",
+        "submitted_at": "2025-11-30T06:47:33Z",
+        "updated_at": "2026-04-28T03:32:32Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2512.00756v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2512.00756",
+      "catalog_id": "arxiv:2512.00756",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-11-30",
+      "identifiers": {
+        "arxiv": "2512.00756"
+      },
+      "record_updated_at": "2026-04-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2512.00756",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2025-11-30; Recorded arXiv version: v2; Recorded version updated: 2026-04-28T03:32:32Z.",
+    "title": "MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2512.05941v1",
+    "archive": "arXiv",
+    "archive_location": "2512.05941",
+    "author": [
+      {
+        "literal": "Zhiyuan Jiang"
+      },
+      {
+        "literal": "Shenghao Xie"
+      },
+      {
+        "literal": "Wenyi Li"
+      },
+      {
+        "literal": "Wenqiang Zu"
+      },
+      {
+        "literal": "Peihang Li"
+      },
+      {
+        "literal": "Jiahao Qiu"
+      },
+      {
+        "literal": "Siqi Pei"
+      },
+      {
+        "literal": "Lei Ma"
+      },
+      {
+        "literal": "Tiejun Huang"
+      },
+      {
+        "literal": "Mengdi Wang"
+      },
+      {
+        "literal": "Shilong Liu"
+      }
+    ],
+    "citation-key": "arxiv_2512_05941",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "bac971bd0e7cd946f81e28d5976eb933cbb95b97ca846ee624a0c36b48760de7",
+        "submitted_at": "2025-12-05T18:39:12Z",
+        "updated_at": "2025-12-05T18:39:12Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2512.05941v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2512.05941",
+      "catalog_id": "arxiv:2512.05941",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-12-05",
+      "identifiers": {
+        "arxiv": "2512.05941"
+      },
+      "record_updated_at": "2025-12-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2512.05941",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2025-12-05; Recorded arXiv version: v1; Recorded version updated: 2025-12-05T18:39:12Z.",
+    "title": "Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2512.17221v3",
+    "archive": "arXiv",
+    "archive_location": "2512.17221",
+    "author": [
+      {
+        "literal": "Brandon Huang"
+      },
+      {
+        "literal": "Hang Hua"
+      },
+      {
+        "literal": "Zhuoran Yu"
+      },
+      {
+        "literal": "Trevor Darrell"
+      },
+      {
+        "literal": "Rogerio Feris"
+      },
+      {
+        "literal": "Roei Herzig"
+      }
+    ],
+    "citation-key": "arxiv_2512_17221",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "37cd0aa99ed8bad167e25f6e2b48e7cd1cf01249508555f657215213ee94a301",
+        "submitted_at": "2025-12-19T04:09:24Z",
+        "updated_at": "2025-12-31T17:30:11Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2512.17221v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2512.17221",
+      "catalog_id": "arxiv:2512.17221",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-12-19",
+      "identifiers": {
+        "arxiv": "2512.17221"
+      },
+      "record_updated_at": "2025-12-31"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2512.17221",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2025-12-19; Recorded arXiv version: v3; Recorded version updated: 2025-12-31T17:30:11Z.",
+    "title": "DAVE: A VLM Vision Encoder for Document Understanding and Web Agents",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2601.09770v1",
+    "archive": "arXiv",
+    "archive_location": "2601.09770",
+    "author": [
+      {
+        "literal": "Chen Chen"
+      },
+      {
+        "literal": "Jiawei Shao"
+      },
+      {
+        "literal": "Dakuan Lu"
+      },
+      {
+        "literal": "Haoyi Hu"
+      },
+      {
+        "literal": "Xiangcheng Liu"
+      },
+      {
+        "literal": "Hantao Yao"
+      },
+      {
+        "literal": "Wu Liu"
+      }
+    ],
+    "citation-key": "arxiv_2601_09770",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0d5ed7e72534fc55d028d4f25cb98b2373c88b622cf76396933d7a49d8ecf2e8",
+        "submitted_at": "2026-01-14T14:27:28Z",
+        "updated_at": "2026-01-14T14:27:28Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2601.09770v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.09770",
+      "catalog_id": "arxiv:2601.09770",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-01-14",
+      "identifiers": {
+        "arxiv": "2601.09770"
+      },
+      "record_updated_at": "2026-01-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.09770",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-14; Recorded arXiv version: v1; Recorded version updated: 2026-01-14T14:27:28Z.",
+    "title": "GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.01576v2",
+    "archive": "arXiv",
+    "archive_location": "2602.01576",
+    "author": [
+      {
+        "literal": "Woosung Koh"
+      },
+      {
+        "literal": "Sungjun Han"
+      },
+      {
+        "literal": "Segyu Lee"
+      },
+      {
+        "literal": "Se-Young Yun"
+      },
+      {
+        "literal": "Jamin Shin"
+      }
+    ],
+    "citation-key": "arxiv_2602_01576",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7c29d1404b02c4f5ef2cdaf78bdb0f9062b1b85ec1a154408bc8f49446c28d08",
+        "submitted_at": "2026-02-02T03:12:16Z",
+        "updated_at": "2026-05-23T02:41:44Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2602.01576v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.01576",
+      "catalog_id": "arxiv:2602.01576",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-02",
+      "identifiers": {
+        "arxiv": "2602.01576"
+      },
+      "record_updated_at": "2026-05-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.01576",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-02; Recorded arXiv version: v2; Recorded version updated: 2026-05-23T02:41:44Z.",
+    "title": "Generative Visual Code Mobile World Models",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.06351v1",
+    "archive": "arXiv",
+    "archive_location": "2602.06351",
+    "author": [
+      {
+        "literal": "Longhui Ma"
+      },
+      {
+        "literal": "Di Zhao"
+      },
+      {
+        "literal": "Siwei Wang"
+      },
+      {
+        "literal": "Zhao Lv"
+      },
+      {
+        "literal": "Miao Wang"
+      }
+    ],
+    "citation-key": "arxiv_2602_06351",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2591e0dab6a84b5db2631ddc94a2c0b65b13a97d06d411ab6ad4e243fe3d3e1e",
+        "submitted_at": "2026-02-06T03:27:55Z",
+        "updated_at": "2026-02-06T03:27:55Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2602.06351v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.06351",
+      "catalog_id": "arxiv:2602.06351",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-06",
+      "identifiers": {
+        "arxiv": "2602.06351"
+      },
+      "record_updated_at": "2026-02-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.06351",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-06; Recorded arXiv version: v1; Recorded version updated: 2026-02-06T03:27:55Z.",
+    "title": "Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.10139v3",
+    "archive": "arXiv",
+    "archive_location": "2602.10139",
+    "author": [
+      {
+        "literal": "Lepeng Zhao"
+      },
+      {
+        "literal": "Zhenhua Zou"
+      },
+      {
+        "literal": "Shuo Li"
+      },
+      {
+        "literal": "Zhuotao Liu"
+      }
+    ],
+    "citation-key": "arxiv_2602_10139",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "727279bf83a67f66fa8f173d028936fe0bdae63e9f23800d98476da10201ad0d",
+        "submitted_at": "2026-02-08T15:50:04Z",
+        "updated_at": "2026-04-26T01:34:23Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2602.10139v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.10139",
+      "catalog_id": "arxiv:2602.10139",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-08",
+      "identifiers": {
+        "arxiv": "2602.10139"
+      },
+      "record_updated_at": "2026-04-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.10139",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-08; Recorded arXiv version: v3; Recorded version updated: 2026-04-26T01:34:23Z.",
+    "title": "Anonymization-Enhanced Privacy Protection for Mobile GUI Agents: Available but Invisible",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.14276v2",
+    "archive": "arXiv",
+    "archive_location": "2602.14276",
+    "author": [
+      {
+        "literal": "A. Said Gurbuz"
+      },
+      {
+        "literal": "Sunghwan Hong"
+      },
+      {
+        "literal": "Ahmed Nassar"
+      },
+      {
+        "literal": "Marc Pollefeys"
+      },
+      {
+        "literal": "Peter Staar"
+      }
+    ],
+    "citation-key": "arxiv_2602_14276",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d7c6e23f704562c4ae4db9e0b4f8f2a8dde1318efc08876ee57f5967b178257e",
+        "submitted_at": "2026-02-15T19:00:02Z",
+        "updated_at": "2026-05-01T17:32:06Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2602.14276v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.14276",
+      "catalog_id": "arxiv:2602.14276",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-15",
+      "identifiers": {
+        "arxiv": "2602.14276"
+      },
+      "record_updated_at": "2026-05-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.14276",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-15; Recorded arXiv version: v2; Recorded version updated: 2026-05-01T17:32:06Z.",
+    "title": "ScreenParse: Moving Beyond Sparse Grounding with Complete Screen Parsing Supervision",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.08013v1",
+    "archive": "arXiv",
+    "archive_location": "2603.08013",
+    "author": [
+      {
+        "literal": "Yuxiang Chai"
+      },
+      {
+        "literal": "Shunye Tang"
+      },
+      {
+        "literal": "Han Xiao"
+      },
+      {
+        "literal": "Rui Liu"
+      },
+      {
+        "literal": "Hongsheng Li"
+      }
+    ],
+    "citation-key": "arxiv_2603_08013",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7334e01b1fbf5cdd02c275c73d2a1b5c2931718d6019fcf6a0ea72b449704d94",
+        "submitted_at": "2026-03-09T06:41:32Z",
+        "updated_at": "2026-03-09T06:41:32Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.08013v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.08013",
+      "catalog_id": "arxiv:2603.08013",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-09",
+      "identifiers": {
+        "arxiv": "2603.08013"
+      },
+      "record_updated_at": "2026-03-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.08013",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-09; Recorded arXiv version: v1; Recorded version updated: 2026-03-09T06:41:32Z.",
+    "title": "PIRA-Bench: A Transition from Reactive GUI Agents to GUI-based Proactive Intent Recommendation Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.15039v1",
+    "archive": "arXiv",
+    "archive_location": "2603.15039",
+    "author": [
+      {
+        "literal": "Yang Li"
+      },
+      {
+        "literal": "Yuchen Liu"
+      },
+      {
+        "literal": "Haoyu Lu"
+      },
+      {
+        "literal": "Zhiqiang Xia"
+      },
+      {
+        "literal": "Hongzhen Wang"
+      },
+      {
+        "literal": "Kaiyang Han"
+      },
+      {
+        "literal": "Changpeng Yang"
+      },
+      {
+        "literal": "Jinyang Wu"
+      },
+      {
+        "literal": "Jiaming Xu"
+      },
+      {
+        "literal": "Runyu Shi"
+      },
+      {
+        "literal": "Ying Huang"
+      }
+    ],
+    "citation-key": "arxiv_2603_15039",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "bf6c3df80e405968d9ae2353639f3e039d3fcf8351d89db212bda038e3dfac9b",
+        "submitted_at": "2026-03-16T09:45:33Z",
+        "updated_at": "2026-03-16T09:45:33Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.15039v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.15039",
+      "catalog_id": "arxiv:2603.15039",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-16",
+      "identifiers": {
+        "arxiv": "2603.15039"
+      },
+      "record_updated_at": "2026-03-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.15039",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-16; Recorded arXiv version: v1; Recorded version updated: 2026-03-16T09:45:33Z.",
+    "title": "GUI-CEval: A Hierarchical and Comprehensive Chinese Benchmark for Mobile GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.17357v1",
+    "archive": "arXiv",
+    "archive_location": "2603.17357",
+    "author": [
+      {
+        "literal": "Nathan Zhao"
+      }
+    ],
+    "citation-key": "arxiv_2603_17357",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e3b429d277ec776af18977a72aaeb95000a4fedf66aa89c0366ab02120d4cdbe",
+        "submitted_at": "2026-03-18T04:41:16Z",
+        "updated_at": "2026-03-18T04:41:16Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.17357v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.17357",
+      "catalog_id": "arxiv:2603.17357",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-18",
+      "identifiers": {
+        "arxiv": "2603.17357"
+      },
+      "record_updated_at": "2026-03-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.17357",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-18; Recorded arXiv version: v1; Recorded version updated: 2026-03-18T04:41:16Z.",
+    "title": "WebPII: Benchmarking Visual PII Detection for Computer-Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.25864v1",
+    "archive": "arXiv",
+    "archive_location": "2603.25864",
+    "author": [
+      {
+        "literal": "Saelyne Yang"
+      },
+      {
+        "literal": "Jaesang Yu"
+      },
+      {
+        "literal": "Yi-Hao Peng"
+      },
+      {
+        "literal": "Kevin Qinghong Lin"
+      },
+      {
+        "literal": "Jae Won Cho"
+      },
+      {
+        "literal": "Yale Song"
+      },
+      {
+        "literal": "Juho Kim"
+      }
+    ],
+    "citation-key": "arxiv_2603_25864",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9b3dd3efca196fa3dd168431102dbb5f0f763e7d9e54b3d709ad2362a9c6f154",
+        "submitted_at": "2026-03-26T19:37:53Z",
+        "updated_at": "2026-03-26T19:37:53Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.25864v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.25864",
+      "catalog_id": "arxiv:2603.25864",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-26",
+      "identifiers": {
+        "arxiv": "2603.25864"
+      },
+      "record_updated_at": "2026-03-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.25864",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-26; Recorded arXiv version: v1; Recorded version updated: 2026-03-26T19:37:53Z.",
+    "title": "GUIDE: A Benchmark for Understanding and Assisting Users in Open-Ended GUI Tasks",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.12666v2",
+    "archive": "arXiv",
+    "archive_location": "2606.12666",
+    "author": [
+      {
+        "literal": "Siyu Shen"
+      },
+      {
+        "literal": "Fenghao Xu"
+      },
+      {
+        "literal": "Wenrui Diao"
+      },
+      {
+        "literal": "Kehuan Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2606_12666",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "fed1c6e109cc5d34aebe3bb333955e8bf792264d4c1ed0893d76534a77649afd",
+        "submitted_at": "2026-06-10T20:48:39Z",
+        "updated_at": "2026-06-16T03:15:00Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2606.12666v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.12666",
+      "catalog_id": "arxiv:2606.12666",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-10",
+      "identifiers": {
+        "arxiv": "2606.12666"
+      },
+      "record_updated_at": "2026-06-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.12666",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          10
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-10; Recorded arXiv version: v2; Recorded version updated: 2026-06-16T03:15:00Z.",
+    "title": "CAPED: Context-Aware Privacy Exposure Defense for Mobile GUI Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.29472v1",
+    "archive": "arXiv",
+    "archive_location": "2606.29472",
+    "author": [
+      {
+        "literal": "Bojie Li"
+      },
+      {
+        "literal": "Noah Shi"
+      }
+    ],
+    "citation-key": "arxiv_2606_29472",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "54de4e93f4f3e39d904b4661a193765e02c29f8ec7787264aee5616579c32210",
+        "submitted_at": "2026-06-28T15:59:31Z",
+        "updated_at": "2026-06-28T15:59:31Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.29472v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.29472",
+      "catalog_id": "arxiv:2606.29472",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-28",
+      "identifiers": {
+        "arxiv": "2606.29472"
+      },
+      "record_updated_at": "2026-06-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.29472",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-28; Recorded arXiv version: v1; Recorded version updated: 2026-06-28T15:59:31Z.",
+    "title": "Agent-Computer Observation Interfaces Enable Dynamic Computer Use",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.26041v2",
+    "archive": "arXiv",
+    "archive_location": "2607.26041",
+    "author": [
+      {
+        "literal": "Abhishek Pillai"
+      },
+      {
+        "literal": "Samir Kumar Nayak"
+      },
+      {
+        "literal": "Yuan Chen"
+      }
+    ],
+    "citation-key": "arxiv_2607_26041",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "352c892a52692301e14125e126a52508feb39ef7cd034d7cb0c48a27fb54b8ac",
+        "submitted_at": "2026-07-28T17:49:51Z",
+        "updated_at": "2026-07-29T19:07:50Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2607.26041v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.26041",
+      "catalog_id": "arxiv:2607.26041",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-28",
+      "identifiers": {
+        "arxiv": "2607.26041"
+      },
+      "record_updated_at": "2026-07-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.26041",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-28; Recorded arXiv version: v2; Recorded version updated: 2026-07-29T19:07:50Z.",
+    "title": "Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2608.21794v1",
+    "archive": "arXiv",
+    "archive_location": "2608.21794",
+    "author": [
+      {
+        "literal": "Qijia Chen"
+      },
+      {
+        "literal": "Giulio Jacucci"
+      }
+    ],
+    "citation-key": "arxiv_2608_21794",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cabd094270d01b20df7b029be29c5d460d10beb84e43e3e783f4f11997b74114",
+        "submitted_at": "2026-08-22T06:30:03Z",
+        "updated_at": "2026-08-22T06:30:03Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2608.21794v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.21794",
+      "catalog_id": "arxiv:2608.21794",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-08-22",
+      "identifiers": {
+        "arxiv": "2608.21794"
+      },
+      "record_updated_at": "2026-08-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.21794",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-22; Recorded arXiv version: v1; Recorded version updated: 2026-08-22T06:30:03Z.",
+    "title": "Lexical Coupling in GUI Element Grounding: Sentence Embeddings Track Labels across Mobile and Web",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2608.21832v2",
+    "archive": "arXiv",
+    "archive_location": "2608.21832",
+    "author": [
+      {
+        "literal": "Md Abrar Jahin"
+      },
+      {
+        "literal": "Md Rizwan Parvez"
+      }
+    ],
+    "citation-key": "arxiv_2608_21832",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "970441704314fabffc46cb4a340dd6e0bde0e84ab9b7fcd2db2c9a8be9dc61d8",
+        "submitted_at": "2026-08-22T08:04:59Z",
+        "updated_at": "2026-08-27T07:03:01Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2608.21832v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.21832",
+      "catalog_id": "arxiv:2608.21832",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-08-22",
+      "identifiers": {
+        "arxiv": "2608.21832"
+      },
+      "record_updated_at": "2026-08-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.21832",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-22; Recorded arXiv version: v2; Recorded version updated: 2026-08-27T07:03:01Z.",
+    "title": "GUI-Primitives: Diagnosing Spatial Reasoning Failures in Vision-Language GUI Grounding",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2608.24015v1",
+    "archive": "arXiv",
+    "archive_location": "2608.24015",
+    "author": [
+      {
+        "literal": "Yijie Ma"
+      },
+      {
+        "literal": "Chaoyue Niu"
+      },
+      {
+        "literal": "Fan Wu"
+      },
+      {
+        "literal": "Guihai Chen"
+      }
+    ],
+    "citation-key": "arxiv_2608_24015",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a7e4fe2cb74124b2897d86a4fee32113164b86a8f5abae040bf77db4900e0bc4",
+        "submitted_at": "2026-08-25T03:10:01Z",
+        "updated_at": "2026-08-25T03:10:01Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2608.24015v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.24015",
+      "catalog_id": "arxiv:2608.24015",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-08-25",
+      "identifiers": {
+        "arxiv": "2608.24015"
+      },
+      "record_updated_at": "2026-08-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.24015",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-25; Recorded arXiv version: v1; Recorded version updated: 2026-08-25T03:10:01Z.",
+    "title": "Reflection with Action-Induced Visual Differences for Desktop GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2609.13873v1",
+    "archive": "arXiv",
+    "archive_location": "2609.13873",
+    "author": [
+      {
+        "literal": "Qihang Cen"
+      },
+      {
+        "literal": "Tianshuo Cong"
+      },
+      {
+        "literal": "Da Song"
+      },
+      {
+        "literal": "Xinlei He"
+      },
+      {
+        "literal": "Jiaxing Song"
+      },
+      {
+        "literal": "Ke Xu"
+      },
+      {
+        "literal": "Qi Li"
+      }
+    ],
+    "citation-key": "arxiv_2609_13873",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1eda33b358d4c4caf8c1fb0b1bd92698c3b37cee995d820f40ecffe82010edb4",
+        "submitted_at": "2026-09-12T10:55:54Z",
+        "updated_at": "2026-09-12T10:55:54Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.13873v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.13873",
+      "catalog_id": "arxiv:2609.13873",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-12",
+      "identifiers": {
+        "arxiv": "2609.13873"
+      },
+      "record_updated_at": "2026-09-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.13873",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-12; Recorded arXiv version: v1; Recorded version updated: 2026-09-12T10:55:54Z.",
+    "title": "PriMobiBench: Characterizing Visual Privacy Leakage in VLM-Driven Mobile GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.05185v1",
+    "archive": "arXiv",
+    "archive_location": "2610.05185",
+    "author": [
+      {
+        "literal": "Kaiyu Wu"
+      },
+      {
+        "literal": "Beichen Zheng"
+      },
+      {
+        "literal": "Weiyao Huang"
+      },
+      {
+        "literal": "Keze Wang"
+      }
+    ],
+    "citation-key": "arxiv_2610_05185",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6d20eb090847d25deb8f69181caa6f964661bbf167223b5572cf3e1cafa52bbd",
+        "submitted_at": "2026-10-04T12:49:01Z",
+        "updated_at": "2026-10-04T12:49:01Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.05185v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.05185",
+      "catalog_id": "arxiv:2610.05185",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-04",
+      "identifiers": {
+        "arxiv": "2610.05185"
+      },
+      "record_updated_at": "2026-10-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.05185",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          4
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-04; Recorded arXiv version: v1; Recorded version updated: 2026-10-04T12:49:01Z.",
+    "title": "Recurrent Latent Visual Search for GUI Grounding",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.12823v1",
+    "archive": "arXiv",
+    "archive_location": "2610.12823",
+    "author": [
+      {
+        "literal": "Yisheng Li"
+      },
+      {
+        "literal": "Dongming Han"
+      },
+      {
+        "literal": "Hongkun Pan"
+      },
+      {
+        "literal": "Bingcheng Mao"
+      },
+      {
+        "literal": "Zijian Wang"
+      },
+      {
+        "literal": "Yunlong Mao"
+      },
+      {
+        "literal": "Wei Tong"
+      },
+      {
+        "literal": "Sheng Zhong"
+      }
+    ],
+    "citation-key": "arxiv_2610_12823",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e6f1521fdfdf6a11a2a195feb05fd915afd6e9bb2332486b870da6375214ac1a",
+        "submitted_at": "2026-10-09T00:03:13Z",
+        "updated_at": "2026-10-09T00:03:13Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.12823v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.12823",
+      "catalog_id": "arxiv:2610.12823",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-09",
+      "identifiers": {
+        "arxiv": "2610.12823"
+      },
+      "record_updated_at": "2026-10-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.12823",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T00:03:13Z.",
+    "title": "When Charts Deceive Web Agents: A Paired Benchmark for Misleading Visualization-Grounded Tasks",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.12866v1",
+    "archive": "arXiv",
+    "archive_location": "2610.12866",
+    "author": [
+      {
+        "literal": "Shangquan Sun"
+      },
+      {
+        "literal": "Ruoyu Chen"
+      },
+      {
+        "literal": "Zhirui Liu"
+      },
+      {
+        "literal": "Xiang Liu"
+      },
+      {
+        "literal": "Chenghao Qian"
+      },
+      {
+        "literal": "Wenqi Ren"
+      },
+      {
+        "literal": "Xiaochun Cao"
+      }
+    ],
+    "citation-key": "arxiv_2610_12866",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7f7effcf5e101cfcc7e229fe4aab40d07401b1dd98cf5ce3b566fef863a42190",
+        "submitted_at": "2026-10-09T01:50:26Z",
+        "updated_at": "2026-10-09T01:50:26Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.12866v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.12866",
+      "catalog_id": "arxiv:2610.12866",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-09",
+      "identifiers": {
+        "arxiv": "2610.12866"
+      },
+      "record_updated_at": "2026-10-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.12866",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T01:50:26Z.",
+    "title": "CaptchaAgent: Verifiable Visual Reasoning for CAPTCHA Solving",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.16234v1",
+    "archive": "arXiv",
+    "archive_location": "2610.16234",
+    "author": [
+      {
+        "literal": "Jingchao Wang"
+      },
+      {
+        "literal": "Dingjiang Huang"
+      }
+    ],
+    "citation-key": "arxiv_2610_16234",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "aa0e0ab6eb19ea55e65ccb354ae515f6552cd03dd688c6f43cdc6e2d59b11824",
+        "submitted_at": "2026-10-12T06:09:02Z",
+        "updated_at": "2026-10-12T06:09:02Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.16234v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.16234",
+      "catalog_id": "arxiv:2610.16234",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-12",
+      "identifiers": {
+        "arxiv": "2610.16234"
+      },
+      "record_updated_at": "2026-10-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.16234",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T06:09:02Z.",
+    "title": "Seg2Click: Learning Pixel-Level Action Masks for GUI Visual Grounding",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.17792v1",
+    "archive": "arXiv",
+    "archive_location": "2610.17792",
+    "author": [
+      {
+        "literal": "Minghua Chen"
+      },
+      {
+        "literal": "Xingming Liao"
+      },
+      {
+        "literal": "Weiqiang Zhong"
+      },
+      {
+        "literal": "Zhuowei Wang"
+      }
+    ],
+    "citation-key": "arxiv_2610_17792",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b1786bba4f48ca54166d49e3d98d55aaef52eb6e2233f282d8d94d54dfb5ed2c",
+        "submitted_at": "2026-10-13T06:20:38Z",
+        "updated_at": "2026-10-13T06:20:38Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.17792v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.17792",
+      "catalog_id": "arxiv:2610.17792",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-13",
+      "identifiers": {
+        "arxiv": "2610.17792"
+      },
+      "record_updated_at": "2026-10-13"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.17792",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          13
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T06:20:38Z.",
+    "title": "MHVF: Training-Free GUI Grounding via Verification-Guided Multi-Hypothesis Search",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.18508v1",
+    "archive": "arXiv",
+    "archive_location": "2610.18508",
+    "author": [
+      {
+        "literal": "Dominik Seip"
+      },
+      {
+        "literal": "Bartol Markovinović"
+      },
+      {
+        "literal": "Matthias Hein"
+      }
+    ],
+    "citation-key": "arxiv_2610_18508",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5565d38dd40b02b4158d7edcc2c5c27e7e285dbedefe1c7101a31c4f8d17b659",
+        "submitted_at": "2026-10-13T15:03:33Z",
+        "updated_at": "2026-10-13T15:03:33Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.18508v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.18508",
+      "catalog_id": "arxiv:2610.18508",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-13",
+      "identifiers": {
+        "arxiv": "2610.18508"
+      },
+      "record_updated_at": "2026-10-13"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.18508",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          13
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T15:03:33Z.",
+    "title": "Towards Safe Autonomy for Computer Use",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.20390v1",
+    "archive": "arXiv",
+    "archive_location": "2610.20390",
+    "author": [
+      {
+        "literal": "Shuo Wang"
+      },
+      {
+        "literal": "Sifan Zhou"
+      },
+      {
+        "literal": "Xiaobo Wang"
+      },
+      {
+        "literal": "Tianyu Fu"
+      },
+      {
+        "literal": "Chenxu Zhao"
+      },
+      {
+        "literal": "Anyang Su"
+      },
+      {
+        "literal": "Hanning Wang"
+      },
+      {
+        "literal": "Ping Jiang"
+      },
+      {
+        "literal": "Minghui Wu"
+      }
+    ],
+    "citation-key": "arxiv_2610_20390",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1f9d3ce7dffa8c726ce8129083c8d6c580449d1a32d87c7cd3aaade4fe6cf59b",
+        "submitted_at": "2026-10-14T15:53:48Z",
+        "updated_at": "2026-10-14T15:53:48Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.20390v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.20390",
+      "catalog_id": "arxiv:2610.20390",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-14",
+      "identifiers": {
+        "arxiv": "2610.20390"
+      },
+      "record_updated_at": "2026-10-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.20390",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T15:53:48Z.",
+    "title": "STP-GUI: Spatially-Aware Token Pruning for Efficient Web-GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "DOI": "10.1145/1622176.1622213",
+    "URL": "https://doi.org/10.1145/1622176.1622213",
+    "author": [
+      {
+        "literal": "Tom Yeh"
+      },
+      {
+        "literal": "Tsung-Hsiang Chang"
+      },
+      {
+        "literal": "Robert C. Miller"
+      }
+    ],
+    "citation-key": "cua_510831381c08385eb74fb95e",
+    "container-title": "Proceedings of the 22nd Annual ACM Symposium on User Interface Software and Technology (UIST '09)",
+    "custom": {
+      "canonical_source_url": "https://doi.org/10.1145/1622176.1622213",
+      "catalog_id": "url:a4cdb2ee0d07d3980651",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.1145/1622176.1622213"
+      },
+      "publication": {
+        "authors": [
+          "Tom Yeh",
+          "Tsung-Hsiang Chang",
+          "Robert C. Miller"
+        ],
+        "date_basis": "Supplied month precision: 2009-10. Date Issued: October 2009",
+        "date_parts": [
+          2009,
+          10
+        ],
+        "doi": "10.1145/1622176.1622213",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://dspace.mit.edu/entities/publication/604a3f79-451d-4186-a94e-d12690ffe40a"
+        ],
+        "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+        "issue": null,
+        "notes": "Institutional abstract and published-version citation supply the retained evidence; the institution identifies an author final manuscript record. Exact publication day is not supplied. Operating-system-specific experiments are not asserted.",
+        "pages": "183-192",
+        "pdf_url": null,
+        "publisher": null,
+        "series": null,
+        "title": "Sikuli: Using GUI screenshots for search and automation",
+        "type": "conference-paper",
+        "url": "https://doi.org/10.1145/1622176.1622213",
+        "venue": "Proceedings of the 22nd Annual ACM Symposium on User Interface Software and Technology (UIST '09)",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:a4cdb2ee0d07d3980651",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          10
+        ]
+      ]
+    },
+    "note": "Publication date: 2009-10.",
+    "page": "183-192",
+    "title": "Sikuli: Using GUI screenshots for search and automation",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1145/3126594.3126651",
+    "URL": "https://doi.org/10.1145/3126594.3126651",
+    "author": [
+      {
+        "literal": "Biplab Deka"
+      },
+      {
+        "literal": "Zifeng Huang"
+      },
+      {
+        "literal": "Chad Franzen"
+      },
+      {
+        "literal": "Joshua Hibschman"
+      },
+      {
+        "literal": "Daniel Afergan"
+      },
+      {
+        "literal": "Yang Li"
+      },
+      {
+        "literal": "Jeffrey Nichols"
+      },
+      {
+        "literal": "Ranjitha Kumar"
+      }
+    ],
+    "citation-key": "cua_402ed654426712089390317c",
+    "container-title": "UIST '17: Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology",
+    "custom": {
+      "canonical_source_url": "https://doi.org/10.1145/3126594.3126651",
+      "catalog_id": "url:b560b5d6abaab98483f6",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2017-10-20",
+      "identifiers": {
+        "doi": "10.1145/3126594.3126651"
+      },
+      "publication": {
+        "authors": [
+          "Biplab Deka",
+          "Zifeng Huang",
+          "Chad Franzen",
+          "Joshua Hibschman",
+          "Daniel Afergan",
+          "Yang Li",
+          "Jeffrey Nichols",
+          "Ranjitha Kumar"
+        ],
+        "date_basis": "Supplied day precision: 2017-10-20. PDF cover, Published: 20 October 2017 The 18 January 2026 download date and October 22-25 conference dates are not publication dates.",
+        "date_parts": [
+          2017,
+          10,
+          20
+        ],
+        "doi": "10.1145/3126594.3126651",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://danafergan.com/publications/deka2017rico.pdf",
+          "https://dev.interactionmining.org/archive/rico"
+        ],
+        "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+        "issue": null,
+        "notes": "The paper is a distinct resource from the already cataloged Rico dataset (url:0b134b082a7bd507fc6a). The publisher PDF describes 9.7k apps and 72k screens; the project page describes 9.3k apps and 66k screens. The annotation intentionally supplies no merged size claim. No volume number is supplied for this proceedings article.",
+        "pages": "845-854",
+        "pdf_url": "https://danafergan.com/publications/deka2017rico.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "Rico: A Mobile App Dataset for Building Data-Driven Design Applications",
+        "type": "conference-paper",
+        "url": "https://doi.org/10.1145/3126594.3126651",
+        "venue": "UIST '17: Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:b560b5d6abaab98483f6",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          20
+        ]
+      ]
+    },
+    "note": "Publication date: 2017-10-20.",
+    "page": "845-854",
+    "title": "Rico: A Mobile App Dataset for Building Data-Driven Design Applications",
+    "type": "paper-conference"
+  }
+]

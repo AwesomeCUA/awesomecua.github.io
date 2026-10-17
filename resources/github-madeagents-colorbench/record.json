@@ -1,0 +1,200 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "availability": "Public graph/task manifests, evaluation source and ungated screenshot archive manifest.",
+    "benchmark_protocol": {
+      "actions": [
+        "mobile GUI operations along graph transitions"
+      ],
+      "counts": [
+        {
+          "basis": "reported",
+          "evidence_url": "https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md",
+          "population": "reported ColorBench benchmark",
+          "qualifier": "exact",
+          "unit": "tasks",
+          "value": 175
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md",
+          "population": "reported ColorBench benchmark",
+          "qualifier": "exact",
+          "unit": "cross-app tasks",
+          "value": 101
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md",
+          "population": "reported ColorBench benchmark",
+          "qualifier": "exact",
+          "unit": "single-app tasks",
+          "value": 74
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md",
+          "population": "reported ColorBench benchmark",
+          "qualifier": "exact",
+          "unit": "mobile applications",
+          "value": 21
+        }
+      ],
+      "evaluation": "The publisher reports success rate, completion rate and atomic-capability diagnostics using graph-based evaluation.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md"
+      ],
+      "focus": [
+        "long-horizon mobile task completion",
+        "multi-path graph interaction"
+      ],
+      "notes": "The interaction environment replays graph states rather than running real user accounts. The 101 and 74 subsets partition the reported 175 tasks; do not add the three counts.",
+      "observations": [
+        "mobile screenshots represented as graph states"
+      ],
+      "setting": "interactive"
+    },
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "license_review": {
+      "code": {
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/LICENSE"
+        ],
+        "reason": "Repository source LICENSE."
+      },
+      "data": {
+        "evidence_urls": [
+          "https://huggingface.co/datasets/Norsheep/ColorBench/raw/main/README.md"
+        ],
+        "reason": "Publisher metadata for the separately hosted screenshot archive; underlying third-party content retains applicable rights."
+      }
+    },
+    "metrics": [],
+    "repository_revision": "1f26a84230d26f99d84eab97d05032582b39018e",
+    "task_count": null
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:18:16Z",
+      "role": "primary",
+      "sha256": "5c0190fffb68b91c1855a408f6a5e252871d94000b95fa258504a3c100600cec",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "relations",
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:18:16Z",
+      "role": "primary",
+      "sha256": "2f6940503cc0d6cb97bdf142d6b8c6ab116de82227f2fa6d97fd56d7e5aebec0",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/MadeAgents/ColorBench"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:22:54Z",
+      "role": "primary",
+      "sha256": "6a00c093a6794ec4a172d30b70fdabc17400584a9e25a157a47a7661dbdd20fa",
+      "supports": [
+        "release_status",
+        "details.repository_revision"
+      ],
+      "url": "https://api.github.com/repos/MadeAgents/ColorBench/git/trees/main?recursive=1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:23:06Z",
+      "role": "primary",
+      "sha256": "c0c3286b5150e128e55034ba0393ef85f7fcf73e4b73f4276389a04c9bcec919",
+      "supports": [
+        "identity",
+        "release_status"
+      ],
+      "url": "https://huggingface.co/api/datasets/Norsheep/ColorBench"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:23:06Z",
+      "role": "primary",
+      "sha256": "4bcf87ecfbbb8e07a01b21415a970c8b53a5283bf6872b657040d3f45c9241f7",
+      "supports": [
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/datasets/Norsheep/ColorBench/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:22:54Z",
+      "role": "primary",
+      "sha256": "130976c026bcafa9dcc479697fe6595dbefb73cdb375fc47b8478acc16e6ea73",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:madeagents/colorbench",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-17T11:18:16Z",
+  "licenses": {
+    "code": {
+      "basis": "Repository source LICENSE.",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-17T11:22:54Z",
+      "url": "https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/LICENSE"
+    },
+    "data": {
+      "basis": "Publisher metadata for the separately hosted screenshot archive; underlying third-party content retains applicable rights.",
+      "declared": "apache-2.0",
+      "retrieved_at": "2026-10-17T11:23:06Z",
+      "url": "https://huggingface.co/datasets/Norsheep/ColorBench/raw/main/README.md"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/MadeAgents/ColorBench"
+    }
+  ],
+  "name": "ColorBench",
+  "notes": "The source tree contains graph and task JSON files plus construction/evaluation code; the linked ungated Hub provides the screenshot archive. The environment is static but interactive and graph-based, not a live-device deployment. Counts are publisher-reported task/app inventories. Apache-2.0 declarations for repository code and the Hub dataset are separately retained; third-party application visuals are not granted additional rights by this catalog.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md",
+      "target_id": "arxiv:2510.14621",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A graph-based mobile GUI benchmark that evaluates long tasks through screenshot states and multiple valid or erroneous transitions, including reflection, replanning and backtracking.",
+  "topics": [
+    "evaluation",
+    "mobile-navigation",
+    "long-horizon",
+    "cross-app"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/MadeAgents/ColorBench"
+}

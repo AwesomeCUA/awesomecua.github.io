@@ -1,0 +1,966 @@
+[
+  {
+    "URL": "https://arxiv.org/abs/2209.08655v2",
+    "archive": "arXiv",
+    "archive_location": "2209.08655",
+    "author": [
+      {
+        "literal": "Bryan Wang"
+      },
+      {
+        "literal": "Gang Li"
+      },
+      {
+        "literal": "Yang Li"
+      }
+    ],
+    "citation-key": "arxiv_2209_08655",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "65813c1784ba00e354aff4e38796b1bdc8e9b691cba9dd56b8232b5d86555d1b",
+        "submitted_at": "2022-09-18T20:58:39Z",
+        "updated_at": "2023-02-17T21:24:09Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2209.08655v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2209.08655",
+      "catalog_id": "arxiv:2209.08655",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2022-09-18",
+      "identifiers": {
+        "arxiv": "2209.08655"
+      },
+      "record_updated_at": "2023-02-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2209.08655",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2022-09-18; Recorded arXiv version: v2; Recorded version updated: 2023-02-17T21:24:09Z.",
+    "title": "Enabling Conversational Interaction with Mobile UI using Large Language Models",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2303.17491v3",
+    "archive": "arXiv",
+    "archive_location": "2303.17491",
+    "author": [
+      {
+        "literal": "Geunwoo Kim"
+      },
+      {
+        "literal": "Pierre Baldi"
+      },
+      {
+        "literal": "Stephen McAleer"
+      }
+    ],
+    "citation-key": "arxiv_2303_17491",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8f36bd6088175b337b750d91d0b7c04d2c156742e5c4090a74f00a482157e386",
+        "submitted_at": "2023-03-30T16:01:52Z",
+        "updated_at": "2023-11-16T20:15:14Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2303.17491v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2303.17491",
+      "catalog_id": "arxiv:2303.17491",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2023-03-30",
+      "identifiers": {
+        "arxiv": "2303.17491"
+      },
+      "record_updated_at": "2023-11-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2303.17491",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2023-03-30; Recorded arXiv version: v3; Recorded version updated: 2023-11-16T20:15:14Z.",
+    "title": "Language Models can Solve Computer Tasks",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2506.15425v1",
+    "archive": "arXiv",
+    "archive_location": "2506.15425",
+    "author": [
+      {
+        "literal": "Xingjian Tao"
+      },
+      {
+        "literal": "Yiwei Wang"
+      },
+      {
+        "literal": "Yujun Cai"
+      },
+      {
+        "literal": "Zhicheng Yang"
+      },
+      {
+        "literal": "Jing Tang"
+      }
+    ],
+    "citation-key": "arxiv_2506_15425",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e3884b1807cbee971364947aa2f3756937c4c774d9942bb4da3d0fabb69bda07",
+        "submitted_at": "2025-06-18T12:55:35Z",
+        "updated_at": "2025-06-18T12:55:35Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2506.15425v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2506.15425",
+      "catalog_id": "arxiv:2506.15425",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-06-18",
+      "identifiers": {
+        "arxiv": "2506.15425"
+      },
+      "record_updated_at": "2025-06-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2506.15425",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2025-06-18; Recorded arXiv version: v1; Recorded version updated: 2025-06-18T12:55:35Z.",
+    "title": "Understanding GUI Agent Localization Biases through Logit Sharpness",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2507.10610v3",
+    "archive": "arXiv",
+    "archive_location": "2507.10610",
+    "author": [
+      {
+        "literal": "Zihe Yan"
+      },
+      {
+        "literal": "Jiaping Gui"
+      },
+      {
+        "literal": "Zhuosheng Zhang"
+      },
+      {
+        "literal": "Gongshen Liu"
+      }
+    ],
+    "citation-key": "arxiv_2507_10610",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5db0008a053357b6dba38b55f29642ddbcbf38761c64684fd1725183ff8e56d3",
+        "submitted_at": "2025-07-13T08:36:09Z",
+        "updated_at": "2026-04-07T11:46:55Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2507.10610v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2507.10610",
+      "catalog_id": "arxiv:2507.10610",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-07-13",
+      "identifiers": {
+        "arxiv": "2507.10610"
+      },
+      "record_updated_at": "2026-04-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2507.10610",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          13
+        ]
+      ]
+    },
+    "note": "First published: 2025-07-13; Recorded arXiv version: v3; Recorded version updated: 2026-04-07T11:46:55Z.",
+    "title": "LaSM: Layer-wise Scaling Mechanism for Defending Pop-up Attack on GUI Agents",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2508.05615v2",
+    "archive": "arXiv",
+    "archive_location": "2508.05615",
+    "author": [
+      {
+        "literal": "Yong Du"
+      },
+      {
+        "literal": "Yuchen Yan"
+      },
+      {
+        "literal": "Fei Tang"
+      },
+      {
+        "literal": "Zhengxi Lu"
+      },
+      {
+        "literal": "Chang Zong"
+      },
+      {
+        "literal": "Weiming Lu"
+      },
+      {
+        "literal": "Shengpei Jiang"
+      },
+      {
+        "literal": "Yongliang Shen"
+      }
+    ],
+    "citation-key": "arxiv_2508_05615",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c7deba3ec19a878cfd402c5dac61e4dca284d478429bc9204264448062299e99",
+        "submitted_at": "2025-08-07T17:54:27Z",
+        "updated_at": "2025-11-13T12:54:36Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2508.05615v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2508.05615",
+      "catalog_id": "arxiv:2508.05615",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-08-07",
+      "identifiers": {
+        "arxiv": "2508.05615"
+      },
+      "record_updated_at": "2025-11-13"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2508.05615",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2025-08-07; Recorded arXiv version: v2; Recorded version updated: 2025-11-13T12:54:36Z.",
+    "title": "Test-Time Reinforcement Learning for GUI Grounding via Region Consistency",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.11548v2",
+    "archive": "arXiv",
+    "archive_location": "2509.11548",
+    "author": [
+      {
+        "literal": "Weiming Li"
+      },
+      {
+        "literal": "Yan Shao"
+      },
+      {
+        "literal": "Jing Yang"
+      },
+      {
+        "literal": "Yujing Lu"
+      },
+      {
+        "literal": "Ling Zhong"
+      },
+      {
+        "literal": "Yuhan Wang"
+      },
+      {
+        "literal": "Min Yu"
+      },
+      {
+        "literal": "Tongxiao Ruan"
+      },
+      {
+        "literal": "Manni Duan"
+      }
+    ],
+    "citation-key": "arxiv_2509_11548",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "75ffc21abebbc2c362798f3455b9e6240b58407572e5633d5171e5612cfae71b",
+        "submitted_at": "2025-09-15T03:28:29Z",
+        "updated_at": "2026-06-10T01:13:27Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2509.11548v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.11548",
+      "catalog_id": "arxiv:2509.11548",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-15",
+      "identifiers": {
+        "arxiv": "2509.11548"
+      },
+      "record_updated_at": "2026-06-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.11548",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-15; Recorded arXiv version: v2; Recorded version updated: 2026-06-10T01:13:27Z.",
+    "title": "How Auxiliary Reasoning Unleashes GUI Grounding in VLMs",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.00536v2",
+    "archive": "arXiv",
+    "archive_location": "2510.00536",
+    "author": [
+      {
+        "literal": "Kung-Hsiang Huang"
+      },
+      {
+        "literal": "Haoyi Qiu"
+      },
+      {
+        "literal": "Yutong Dai"
+      },
+      {
+        "literal": "Caiming Xiong"
+      },
+      {
+        "literal": "Chien-Sheng Wu"
+      }
+    ],
+    "citation-key": "arxiv_2510_00536",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e07a5a8f9c0aa39643bb919c2d637435669318420223d7d72b0ef3d733308852",
+        "submitted_at": "2025-10-01T05:37:54Z",
+        "updated_at": "2026-10-07T23:23:10Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2510.00536v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.00536",
+      "catalog_id": "arxiv:2510.00536",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-01",
+      "identifiers": {
+        "arxiv": "2510.00536"
+      },
+      "record_updated_at": "2026-10-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.00536",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          1
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-01; Recorded arXiv version: v2; Recorded version updated: 2026-10-07T23:23:10Z.",
+    "title": "GUI-KV: Efficient GUI Agents via KV Cache with Spatio-Temporal Awareness",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2512.01979v1",
+    "archive": "arXiv",
+    "archive_location": "2512.01979",
+    "author": [
+      {
+        "literal": "Aiden Yiliu Li"
+      },
+      {
+        "literal": "Bizhi Yu"
+      },
+      {
+        "literal": "Daoan Lei"
+      },
+      {
+        "literal": "Tianhe Ren"
+      },
+      {
+        "literal": "Shilong Liu"
+      }
+    ],
+    "citation-key": "arxiv_2512_01979",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4868c3c85545532e9c208623596d3810c85e32e3cf11429a68847ac11c2ba1cb",
+        "submitted_at": "2025-12-01T18:37:19Z",
+        "updated_at": "2025-12-01T18:37:19Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2512.01979v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2512.01979",
+      "catalog_id": "arxiv:2512.01979",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-12-01",
+      "identifiers": {
+        "arxiv": "2512.01979"
+      },
+      "record_updated_at": "2025-12-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2512.01979",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          1
+        ]
+      ]
+    },
+    "note": "First published: 2025-12-01; Recorded arXiv version: v1; Recorded version updated: 2025-12-01T18:37:19Z.",
+    "title": "Chain-of-Ground: Improving GUI Grounding via Iterative Reasoning and Reference Feedback",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2512.05941v1",
+    "archive": "arXiv",
+    "archive_location": "2512.05941",
+    "author": [
+      {
+        "literal": "Zhiyuan Jiang"
+      },
+      {
+        "literal": "Shenghao Xie"
+      },
+      {
+        "literal": "Wenyi Li"
+      },
+      {
+        "literal": "Wenqiang Zu"
+      },
+      {
+        "literal": "Peihang Li"
+      },
+      {
+        "literal": "Jiahao Qiu"
+      },
+      {
+        "literal": "Siqi Pei"
+      },
+      {
+        "literal": "Lei Ma"
+      },
+      {
+        "literal": "Tiejun Huang"
+      },
+      {
+        "literal": "Mengdi Wang"
+      },
+      {
+        "literal": "Shilong Liu"
+      }
+    ],
+    "citation-key": "arxiv_2512_05941",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "bac971bd0e7cd946f81e28d5976eb933cbb95b97ca846ee624a0c36b48760de7",
+        "submitted_at": "2025-12-05T18:39:12Z",
+        "updated_at": "2025-12-05T18:39:12Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2512.05941v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2512.05941",
+      "catalog_id": "arxiv:2512.05941",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-12-05",
+      "identifiers": {
+        "arxiv": "2512.05941"
+      },
+      "record_updated_at": "2025-12-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2512.05941",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2025-12-05; Recorded arXiv version: v1; Recorded version updated: 2025-12-05T18:39:12Z.",
+    "title": "Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2512.08529v1",
+    "archive": "arXiv",
+    "archive_location": "2512.08529",
+    "author": [
+      {
+        "literal": "Yunzhu Zhang"
+      },
+      {
+        "literal": "Zeyu Pan"
+      },
+      {
+        "literal": "Zhengwen Zeng"
+      },
+      {
+        "literal": "Shuheng Shen"
+      },
+      {
+        "literal": "Changhua Meng"
+      },
+      {
+        "literal": "Linchao Zhu"
+      }
+    ],
+    "citation-key": "arxiv_2512_08529",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "95f6e22cda1084d32bbd3f102ea780bfbf392ee578b7c20542314ef76618a56b",
+        "submitted_at": "2025-12-09T12:19:00Z",
+        "updated_at": "2025-12-09T12:19:00Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2512.08529v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2512.08529",
+      "catalog_id": "arxiv:2512.08529",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-12-09",
+      "identifiers": {
+        "arxiv": "2512.08529"
+      },
+      "record_updated_at": "2025-12-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2512.08529",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2025-12-09; Recorded arXiv version: v1; Recorded version updated: 2025-12-09T12:19:00Z.",
+    "title": "MVP: Multiple View Prediction Improves GUI Grounding",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2601.22528v1",
+    "archive": "arXiv",
+    "archive_location": "2601.22528",
+    "author": [
+      {
+        "literal": "Hongze Mi"
+      },
+      {
+        "literal": "Yibo Feng"
+      },
+      {
+        "literal": "WenJie Lu"
+      },
+      {
+        "literal": "Song Cao"
+      },
+      {
+        "literal": "Jinyuan Li"
+      },
+      {
+        "literal": "Yanming Li"
+      },
+      {
+        "literal": "Xuelin Zhang"
+      },
+      {
+        "literal": "Haotian Luo"
+      },
+      {
+        "literal": "Songyang Peng"
+      },
+      {
+        "literal": "He Cui"
+      },
+      {
+        "literal": "Tengfei Tian"
+      },
+      {
+        "literal": "Jun Fang"
+      },
+      {
+        "literal": "Hua Chai"
+      },
+      {
+        "literal": "Naiqiang Tan"
+      }
+    ],
+    "citation-key": "arxiv_2601_22528",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c0b3dbaacdf640a1314a40688133f7386c0eb8b901c43393ad21ec887814a606",
+        "submitted_at": "2026-01-30T04:01:21Z",
+        "updated_at": "2026-01-30T04:01:21Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2601.22528v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.22528",
+      "catalog_id": "arxiv:2601.22528",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-01-30",
+      "identifiers": {
+        "arxiv": "2601.22528"
+      },
+      "record_updated_at": "2026-01-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.22528",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-30; Recorded arXiv version: v1; Recorded version updated: 2026-01-30T04:01:21Z.",
+    "title": "Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.06351v1",
+    "archive": "arXiv",
+    "archive_location": "2602.06351",
+    "author": [
+      {
+        "literal": "Longhui Ma"
+      },
+      {
+        "literal": "Di Zhao"
+      },
+      {
+        "literal": "Siwei Wang"
+      },
+      {
+        "literal": "Zhao Lv"
+      },
+      {
+        "literal": "Miao Wang"
+      }
+    ],
+    "citation-key": "arxiv_2602_06351",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2591e0dab6a84b5db2631ddc94a2c0b65b13a97d06d411ab6ad4e243fe3d3e1e",
+        "submitted_at": "2026-02-06T03:27:55Z",
+        "updated_at": "2026-02-06T03:27:55Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2602.06351v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.06351",
+      "catalog_id": "arxiv:2602.06351",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-06",
+      "identifiers": {
+        "arxiv": "2602.06351"
+      },
+      "record_updated_at": "2026-02-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.06351",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-06; Recorded arXiv version: v1; Recorded version updated: 2026-02-06T03:27:55Z.",
+    "title": "Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.29472v1",
+    "archive": "arXiv",
+    "archive_location": "2606.29472",
+    "author": [
+      {
+        "literal": "Bojie Li"
+      },
+      {
+        "literal": "Noah Shi"
+      }
+    ],
+    "citation-key": "arxiv_2606_29472",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "54de4e93f4f3e39d904b4661a193765e02c29f8ec7787264aee5616579c32210",
+        "submitted_at": "2026-06-28T15:59:31Z",
+        "updated_at": "2026-06-28T15:59:31Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.29472v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.29472",
+      "catalog_id": "arxiv:2606.29472",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-28",
+      "identifiers": {
+        "arxiv": "2606.29472"
+      },
+      "record_updated_at": "2026-06-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.29472",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-28; Recorded arXiv version: v1; Recorded version updated: 2026-06-28T15:59:31Z.",
+    "title": "Agent-Computer Observation Interfaces Enable Dynamic Computer Use",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2608.25777v2",
+    "archive": "arXiv",
+    "archive_location": "2608.25777",
+    "author": [
+      {
+        "literal": "Weiming Li"
+      },
+      {
+        "literal": "Helen Paik"
+      },
+      {
+        "literal": "Yulei Sui"
+      }
+    ],
+    "citation-key": "arxiv_2608_25777",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "af6b60c6a39a990e950cf4b98f905f2d3aa5ae62d4055630c25a650508ec8bf8",
+        "submitted_at": "2026-08-26T13:20:27Z",
+        "updated_at": "2026-09-25T23:54:04Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2608.25777v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.25777",
+      "catalog_id": "arxiv:2608.25777",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-08-26",
+      "identifiers": {
+        "arxiv": "2608.25777"
+      },
+      "record_updated_at": "2026-09-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.25777",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-26; Recorded arXiv version: v2; Recorded version updated: 2026-09-25T23:54:04Z.",
+    "title": "LocalLSTC: A Long Short-Term Control Architecture for Locally Deployed GUI Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2609.04869v1",
+    "archive": "arXiv",
+    "archive_location": "2609.04869",
+    "author": [
+      {
+        "literal": "Longtao Hu"
+      },
+      {
+        "literal": "Xiao Liang"
+      },
+      {
+        "literal": "Linchao Zhu"
+      }
+    ],
+    "citation-key": "arxiv_2609_04869",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "78db974038e0dde9a1347132382573fa9e2aafb1b0e1a574da3d769574329be9",
+        "submitted_at": "2026-09-04T08:29:45Z",
+        "updated_at": "2026-09-04T08:29:45Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.04869v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.04869",
+      "catalog_id": "arxiv:2609.04869",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-04",
+      "identifiers": {
+        "arxiv": "2609.04869"
+      },
+      "record_updated_at": "2026-09-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.04869",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          4
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-04; Recorded arXiv version: v1; Recorded version updated: 2026-09-04T08:29:45Z.",
+    "title": "From Interaction Traces to Persistent Skills: Online Evolution for Computer-Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2609.33304v1",
+    "archive": "arXiv",
+    "archive_location": "2609.33304",
+    "author": [
+      {
+        "literal": "Fuyao Zhang"
+      },
+      {
+        "literal": "Xuan Wang"
+      },
+      {
+        "literal": "Zherui Li"
+      },
+      {
+        "literal": "Jiaming Zhang"
+      },
+      {
+        "literal": "Longtao Huang"
+      },
+      {
+        "literal": "Wei Yang Bryan Lim"
+      }
+    ],
+    "citation-key": "arxiv_2609_33304",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "563661718e6e64d62f0601bbc5c214828219b9495a729ae685ba1ae9599332f3",
+        "submitted_at": "2026-09-27T07:15:57Z",
+        "updated_at": "2026-09-27T07:15:57Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.33304v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.33304",
+      "catalog_id": "arxiv:2609.33304",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-27",
+      "identifiers": {
+        "arxiv": "2609.33304"
+      },
+      "record_updated_at": "2026-09-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.33304",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-27; Recorded arXiv version: v1; Recorded version updated: 2026-09-27T07:15:57Z.",
+    "title": "Relevance Does Not Imply Applicability: Experience Activation for Personal GUI Agents",
+    "type": "article",
+    "version": "1"
+  }
+]

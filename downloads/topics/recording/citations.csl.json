@@ -1,0 +1,624 @@
+[
+  {
+    "URL": "https://arxiv.org/abs/2412.17589v1",
+    "archive": "arXiv",
+    "archive_location": "2412.17589",
+    "author": [
+      {
+        "literal": "Yanheng He"
+      },
+      {
+        "literal": "Jiahe Jin"
+      },
+      {
+        "literal": "Shijie Xia"
+      },
+      {
+        "literal": "Jiadi Su"
+      },
+      {
+        "literal": "Runze Fan"
+      },
+      {
+        "literal": "Haoyang Zou"
+      },
+      {
+        "literal": "Xiangkun Hu"
+      },
+      {
+        "literal": "Pengfei Liu"
+      }
+    ],
+    "citation-key": "arxiv_2412_17589",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "db567d35887fe5367e456b35bc347400b1bc2d147730e9d34c158e1fd7c8dd6c",
+        "submitted_at": "2024-12-23T14:02:12Z",
+        "updated_at": "2024-12-23T14:02:12Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2412.17589v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2412.17589",
+      "catalog_id": "arxiv:2412.17589",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-12-23",
+      "identifiers": {
+        "arxiv": "2412.17589"
+      },
+      "record_updated_at": "2024-12-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2412.17589",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2024-12-23; Recorded arXiv version: v1; Recorded version updated: 2024-12-23T14:02:12Z.",
+    "title": "PC Agent: While You Sleep, AI Works -- A Cognitive Journey into Digital World",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2504.09352v1",
+    "archive": "arXiv",
+    "archive_location": "2504.09352",
+    "author": [
+      {
+        "literal": "Iason Chaimalas"
+      },
+      {
+        "literal": "Arnas Vyšniauskas"
+      },
+      {
+        "literal": "Gabriel Brostow"
+      }
+    ],
+    "citation-key": "arxiv_2504_09352",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "bf23700bf7626733b0016b773852455c503617adc81025fc9e097879b5534cca",
+        "submitted_at": "2025-04-12T22:02:29Z",
+        "updated_at": "2025-04-12T22:02:29Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2504.09352v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2504.09352",
+      "catalog_id": "arxiv:2504.09352",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-04-12",
+      "identifiers": {
+        "arxiv": "2504.09352"
+      },
+      "record_updated_at": "2025-04-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2504.09352",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2025-04-12; Recorded arXiv version: v1; Recorded version updated: 2025-04-12T22:02:29Z.",
+    "title": "Explorer: Robust Collection of Interactable GUI Elements",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.16051v2",
+    "archive": "arXiv",
+    "archive_location": "2510.16051",
+    "author": [
+      {
+        "literal": "Sofiya Garkot"
+      },
+      {
+        "literal": "Maksym Shamrai"
+      },
+      {
+        "literal": "Ivan Synytsia"
+      },
+      {
+        "literal": "Mariya Hirna"
+      }
+    ],
+    "citation-key": "arxiv_2510_16051",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6e4377fd6b510455afa1eb04c64e8e0b551e89d3b54ce31f241f283233985e1c",
+        "submitted_at": "2025-10-16T19:03:45Z",
+        "updated_at": "2026-03-24T14:39:38Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2510.16051v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.16051",
+      "catalog_id": "arxiv:2510.16051",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-16",
+      "identifiers": {
+        "arxiv": "2510.16051"
+      },
+      "record_updated_at": "2026-03-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.16051",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-16; Recorded arXiv version: v2; Recorded version updated: 2026-03-24T14:39:38Z.",
+    "title": "GUIrilla: A Scalable Framework for Automated Desktop UI Exploration",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2601.07181v1",
+    "archive": "arXiv",
+    "archive_location": "2601.07181",
+    "author": [
+      {
+        "literal": "Yichun Zhang"
+      },
+      {
+        "literal": "Xiangwu Guo"
+      },
+      {
+        "literal": "Yauhong Goh"
+      },
+      {
+        "literal": "Jessica Hu"
+      },
+      {
+        "literal": "Zhiheng Chen"
+      },
+      {
+        "literal": "Xin Wang"
+      },
+      {
+        "literal": "Difei Gao"
+      },
+      {
+        "literal": "Mike Zheng Shou"
+      }
+    ],
+    "citation-key": "arxiv_2601_07181",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "60c6a513f53c16ea6d989a7b2be56ad26b83e531bcea46b00f2e08476b686c97",
+        "submitted_at": "2026-01-12T04:04:20Z",
+        "updated_at": "2026-01-12T04:04:20Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2601.07181v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.07181",
+      "catalog_id": "arxiv:2601.07181",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-01-12",
+      "identifiers": {
+        "arxiv": "2601.07181"
+      },
+      "record_updated_at": "2026-01-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.07181",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-12; Recorded arXiv version: v1; Recorded version updated: 2026-01-12T04:04:20Z.",
+    "title": "ShowUI-Aloha: Human-Taught GUI Agent",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.12984v1",
+    "archive": "arXiv",
+    "archive_location": "2610.12984",
+    "author": [
+      {
+        "literal": "Yuqi Huang"
+      },
+      {
+        "literal": "Hui Li"
+      },
+      {
+        "literal": "Yifei Cao"
+      },
+      {
+        "literal": "Zikun Cai"
+      },
+      {
+        "literal": "Tianci Xie"
+      },
+      {
+        "literal": "Yangfan Gao"
+      },
+      {
+        "literal": "Pinxue Guo"
+      },
+      {
+        "literal": "Chaoyun Zhang"
+      },
+      {
+        "literal": "Bingxuan Li"
+      },
+      {
+        "literal": "Rui Zheng"
+      },
+      {
+        "literal": "Hang Yan"
+      },
+      {
+        "literal": "Ning Liao"
+      }
+    ],
+    "citation-key": "arxiv_2610_12984",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0e90bb713e7034a64821502eb6fc792fa91a5d1e420aff9ff658506d39269f03",
+        "submitted_at": "2026-10-09T04:32:02Z",
+        "updated_at": "2026-10-09T04:32:02Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.12984v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.12984",
+      "catalog_id": "arxiv:2610.12984",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-09",
+      "identifiers": {
+        "arxiv": "2610.12984"
+      },
+      "record_updated_at": "2026-10-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.12984",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T04:32:02Z.",
+    "title": "Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "DOI": "10.1145/2983990.2984020",
+    "URL": "https://doi.org/10.1145/2983990.2984020",
+    "author": [
+      {
+        "literal": "Shaon Barman"
+      },
+      {
+        "literal": "Sarah Chasins"
+      },
+      {
+        "literal": "Ras Bodik"
+      },
+      {
+        "literal": "Sumit Gulwani"
+      }
+    ],
+    "citation-key": "cua_07942b5af1a8c0ffa9c7322a",
+    "container-title": "OOPSLA 2016",
+    "custom": {
+      "canonical_source_url": "https://doi.org/10.1145/2983990.2984020",
+      "catalog_id": "url:347925d0f440d6396080",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.1145/2983990.2984020"
+      },
+      "publication": {
+        "authors": [
+          "Shaon Barman",
+          "Sarah Chasins",
+          "Ras Bodik",
+          "Sumit Gulwani"
+        ],
+        "date_basis": "Supplied month precision: 2016-11. year=2016, month=November",
+        "date_parts": [
+          2016,
+          11
+        ],
+        "doi": "10.1145/2983990.2984020",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://www.microsoft.com/en-us/research/publication/ringer-web-automation-demonstration/bibtex/",
+          "https://2016.splashcon.org/track/splash-2016-oopsla",
+          "https://www.microsoft.com/en-us/research/publication/ringer-web-automation-demonstration/",
+          "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/oopsla16-web.pdf"
+        ],
+        "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+        "issue": null,
+        "notes": "The original manuscript and MSR BibTeX print Sarah Chasins and Ras Bodik. The official conference profiles expand these to Sarah E. Chasins and Rastislav Bodík; the printed publication names are preserved. Page range, volume and exact publication day are not established by the retained citation sources.",
+        "pages": null,
+        "pdf_url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/oopsla16-web.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "Ringer: Web Automation by Demonstration",
+        "type": "conference-paper",
+        "url": "https://doi.org/10.1145/2983990.2984020",
+        "venue": "OOPSLA 2016",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:347925d0f440d6396080",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11
+        ]
+      ]
+    },
+    "note": "Publication date: 2016-11.",
+    "title": "Ringer: Web Automation by Demonstration",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1145/3025453.3025483",
+    "URL": "https://doi.org/10.1145/3025453.3025483",
+    "author": [
+      {
+        "literal": "Toby Jia-Jun Li"
+      },
+      {
+        "literal": "Amos Azaria"
+      },
+      {
+        "literal": "Brad A. Myers"
+      }
+    ],
+    "citation-key": "cua_6b7f9d608ed89d1625610eb1",
+    "container-title": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems",
+    "custom": {
+      "canonical_source_url": "https://doi.org/10.1145/3025453.3025483",
+      "catalog_id": "url:392a602c660ffa91be46",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.1145/3025453.3025483"
+      },
+      "publication": {
+        "authors": [
+          "Toby Jia-Jun Li",
+          "Amos Azaria",
+          "Brad A. Myers"
+        ],
+        "date_basis": "Supplied year precision: 2017. Publications: SUGILITE, CHI 2017 Only publication year is asserted; event dates are kept separate.",
+        "date_parts": [
+          2017
+        ],
+        "doi": "10.1145/3025453.3025483",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://www.cs.cmu.edu/~NatProg/sugilite.html",
+          "https://toby.li/files/TobyLi-CHI2017-Sugilite.pdf"
+        ],
+        "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+        "issue": null,
+        "notes": "Related to later APPINITE and PUMICE work but distinguished here by its 2017 three-author publication and base demonstration-automation contribution. Publication month/day are not independently identified by the retained sources.",
+        "pages": "6038-6049",
+        "pdf_url": "https://toby.li/files/TobyLi-CHI2017-Sugilite.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "SUGILITE: Creating Multimodal Smartphone Automation by Demonstration",
+        "type": "conference-paper",
+        "url": "https://doi.org/10.1145/3025453.3025483",
+        "venue": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:392a602c660ffa91be46",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "note": "Publication date: 2017.",
+    "page": "6038-6049",
+    "title": "SUGILITE: Creating Multimodal Smartphone Automation by Demonstration",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1145/3242587.3242661",
+    "URL": "https://doi.org/10.1145/3242587.3242661",
+    "author": [
+      {
+        "literal": "Sarah E. Chasins"
+      },
+      {
+        "literal": "Maria Mueller"
+      },
+      {
+        "literal": "Rastislav Bodik"
+      }
+    ],
+    "citation-key": "cua_b85f11762562177944b6898f",
+    "container-title": "Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology",
+    "custom": {
+      "canonical_source_url": "https://doi.org/10.1145/3242587.3242661",
+      "catalog_id": "url:97c0b1896525632434e2",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.1145/3242587.3242661"
+      },
+      "publication": {
+        "authors": [
+          "Sarah E. Chasins",
+          "Maria Mueller",
+          "Rastislav Bodik"
+        ],
+        "date_basis": "Supplied year precision: 2018. Rousillon entry: UIST 2018",
+        "date_parts": [
+          2018
+        ],
+        "doi": "10.1145/3242587.3242661",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://schasins.com/papers/",
+          "https://schasins.com/assets/papers/rousillon.pdf"
+        ],
+        "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+        "issue": null,
+        "notes": "This is browser interaction learned from demonstrations, rather than a generic server-side crawling library. Final proceedings page range and volume are not established. Manuscript pages 1-13 are not substituted for publisher pagination. Exact publication month/day is not inferred from conference dates.",
+        "pages": null,
+        "pdf_url": "https://schasins.com/assets/papers/rousillon.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "Rousillon: Scraping Distributed Hierarchical Web Data",
+        "type": "conference-paper",
+        "url": "https://doi.org/10.1145/3242587.3242661",
+        "venue": "Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:97c0b1896525632434e2",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "note": "Publication date: 2018.",
+    "title": "Rousillon: Scraping Distributed Hierarchical Web Data",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1145/1240624.1240767",
+    "URL": "https://doi.org/10.1145/1240624.1240767",
+    "author": [
+      {
+        "literal": "Greg Little"
+      },
+      {
+        "literal": "Tessa A. Lau"
+      },
+      {
+        "literal": "Allen Cypher"
+      },
+      {
+        "literal": "James Lin"
+      },
+      {
+        "literal": "Eben M. Haber"
+      },
+      {
+        "literal": "Eser Kandogan"
+      }
+    ],
+    "citation-key": "cua_1b4a3a269ca9f1884a566476",
+    "container-title": "CHI 2007 Proceedings",
+    "custom": {
+      "canonical_source_url": "https://doi.org/10.1145/1240624.1240767",
+      "catalog_id": "url:cccd967aa993404d74d0",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.1145/1240624.1240767"
+      },
+      "publication": {
+        "authors": [
+          "Greg Little",
+          "Tessa A. Lau",
+          "Allen Cypher",
+          "James Lin",
+          "Eben M. Haber",
+          "Eser Kandogan"
+        ],
+        "date_basis": "Supplied year precision: 2007. CHI 2007 proceedings heading and copyright year The IBM page has an unlabeled Date of 22 Oct 2007, while the paper gives April/May event dates. Their roles do not establish a reliable day-level publication date.",
+        "date_parts": [
+          2007
+        ],
+        "doi": "10.1145/1240624.1240767",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://research.ibm.com/publications/koala-capture-share-automate-personalize-business-processes-on-the-web",
+          "https://plunk.org/eben/PublishedPapers/KoalaCHI.pdf"
+        ],
+        "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+        "issue": null,
+        "notes": "This proposal is the specific Koala paper. It does not automatically merge every later CoScripter publication or project record. Exact publication date is unresolved; only the clearly established year is proposed.",
+        "pages": "943-946",
+        "pdf_url": "https://plunk.org/eben/PublishedPapers/KoalaCHI.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "Koala: Capture, Share, Automate, Personalize Business Processes on the Web",
+        "type": "conference-paper",
+        "url": "https://doi.org/10.1145/1240624.1240767",
+        "venue": "CHI 2007 Proceedings",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:cccd967aa993404d74d0",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "note": "Publication date: 2007.",
+    "page": "943-946",
+    "title": "Koala: Capture, Share, Automate, Personalize Business Processes on the Web",
+    "type": "paper-conference"
+  }
+]

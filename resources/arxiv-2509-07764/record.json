@@ -17,7 +17,9 @@
     }
   },
   "environments": [
-    "unspecified"
+    "desktop",
+    "linux",
+    "web"
   ],
   "evidence": [
     {
@@ -34,6 +36,33 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:50Z",
+      "role": "primary",
+      "sha256": "26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "topics",
+        "notes"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:25:42Z",
+      "role": "primary",
+      "sha256": "7f303629ef6d9c7df128c6d12d472abd9bf238e0204515f18839249adef317b9",
+      "supports": [
+        "summary",
+        "environments",
+        "scope",
+        "notes"
+      ],
+      "url": "https://arxiv.org/html/2509.07764v1"
     }
   ],
   "id": "arxiv:2509.07764",
@@ -50,18 +79,22 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2509.07764"
     }
   ],
   "name": "AgentSentinel: An End-to-End and Real-Time Security Defense Framework for Computer-Use Agents",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced. The official full paper confirms GUI/desktop interaction alongside Bash and file tools. Its abstract and body enumerate attack categories differently; no category count is promoted into this annotation.",
   "published_at": "2025-09-09",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Introduces AgentSentinel, which intercepts sensitive computer-agent operations and audits them using task context together with system traces. BadComputerUse evaluates this enforcement approach across attack scenarios involving tool and computer control.",
+  "topics": [
+    "safety-security",
+    "observability",
+    "evaluation"
+  ],
   "updated_at": "2025-09-09",
   "url": "https://arxiv.org/abs/2509.07764"
 }

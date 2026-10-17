@@ -12,9 +12,9 @@ git clone https://github.com/reacher-z/Awesome-CUA.git
 
 [Agent instructions](https://awesomecua.github.io/AGENTS.md) · [Agent and RAG guide](https://awesomecua.github.io/agents/) · [中文使用指南](https://awesomecua.github.io/zh/agents/) · [Complete JSONL](https://awesomecua.github.io/downloads/catalog.jsonl)
 
-**2,569 resource records** · **1,106 curated** · **2,177 paper and survey records** · **44 discovery documents**
+**2,584 resource records** · **1,215 curated** · **2,177 paper and survey records** · **44 discovery documents**
 
-Evidence snapshot: 2026-10-17T10:01:32Z. Bibliography counts overlap review-state counts. Resources are not independent projects.
+Evidence snapshot: 2026-10-17T11:44:12Z. Bibliography counts overlap review-state counts. Resources are not independent projects.
 
 ## What is a computer-use agent?
 
@@ -27,12 +27,12 @@ A computer-use agent observes software interfaces, chooses and executes actions,
 | Research papers | 2,165 | [Open directory](https://awesomecua.github.io/categories/paper/) |
 | Surveys | 12 | [Open directory](https://awesomecua.github.io/categories/survey/) |
 | Models and checkpoints | 92 | [Open directory](https://awesomecua.github.io/categories/model/) |
-| Datasets | 74 | [Open directory](https://awesomecua.github.io/categories/dataset/) |
-| Benchmarks | 73 | [Open directory](https://awesomecua.github.io/categories/benchmark/) |
-| Agents | 33 | [Open directory](https://awesomecua.github.io/categories/agent/) |
-| Frameworks | 54 | [Open directory](https://awesomecua.github.io/categories/framework/) |
-| Infrastructure | 14 | [Open directory](https://awesomecua.github.io/categories/infrastructure/) |
-| Tools | 17 | [Open directory](https://awesomecua.github.io/categories/tool/) |
+| Datasets | 76 | [Open directory](https://awesomecua.github.io/categories/dataset/) |
+| Benchmarks | 78 | [Open directory](https://awesomecua.github.io/categories/benchmark/) |
+| Agents | 34 | [Open directory](https://awesomecua.github.io/categories/agent/) |
+| Frameworks | 58 | [Open directory](https://awesomecua.github.io/categories/framework/) |
+| Infrastructure | 15 | [Open directory](https://awesomecua.github.io/categories/infrastructure/) |
+| Tools | 19 | [Open directory](https://awesomecua.github.io/categories/tool/) |
 | Products | 19 | [Open directory](https://awesomecua.github.io/categories/product/) |
 | Publishers | 16 | [Open directory](https://awesomecua.github.io/categories/company/) |
 

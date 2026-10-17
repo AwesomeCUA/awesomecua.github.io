@@ -1,20 +1,20 @@
 # SafePred: A Predictive Guardrail for Computer-Using Agents via World Models
 
-Bibliographic record for SafePred: A Predictive Guardrail for Computer-Using Agents via World Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+SafePred uses world-model risk forecasts to guide action filtering and task replanning. Its desktop and web safety evaluations distinguish policy compliance, task success and success under the specified policy.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-01725/
 - Original source: https://arxiv.org/abs/2602.01725
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
+- Review: curated
+- Scope: core
+- Environments: desktop, web
+- Topics: safety-security, world-models, planning, evaluation
 - Evidence checked: 2026-10-16T06:36:43Z
 - ID: arxiv:2602.01725
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation was reviewed against the complete retained official abstract and the specified sections of the same recorded paper version. Experimental findings and released artifacts have not been independently reproduced.
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2602-01725/record.json
 
@@ -46,3 +46,5 @@ Yurun Chen, Zeyi Liao, Ping Yin, Taotao Xie, Keting Yin, Shengyu Zhang
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=400&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:43Z; SHA-256 c432f419481a105a8ce71174ec4aea23c4f0d36ddf89cfe1d0974fa349f6cb59)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=400&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:43Z; SHA-256 c432f419481a105a8ce71174ec4aea23c4f0d36ddf89cfe1d0974fa349f6cb59)
+- https://arxiv.org/html/2602.01725v1 (retrieved 2026-10-17T11:22:38+00:00; SHA-256 6e1266c5a47cd667d681d3143a0331b74b6f64416b7e01f44a93a001c38ef74b)

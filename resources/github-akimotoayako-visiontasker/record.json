@@ -1,0 +1,110 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "availability": "Public Android automation source and setup instructions; external models/services required.",
+    "license_review": {
+      "code": {
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/AkimotoAyako/VisionTasker/HEAD/LICENSE"
+        ],
+        "reason": "Repository GNU GPL version 3 license; pretrained models and linked data retain separate terms."
+      }
+    },
+    "repository_revision": "d31b50e98bde28c0d1cfbc7d7ee2528d10b3fbb0"
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:20:18Z",
+      "role": "primary",
+      "sha256": "816981b343628c53188fd27041d62f52854fcfe83c976a125b84545f5e010274",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/AkimotoAyako/VisionTasker/HEAD/readme.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:18:23Z",
+      "role": "primary",
+      "sha256": "94d8e95d302160e3c581015267dcfbb9f61c41ad1f04e470fcd71f5ee1ffa25d",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/AkimotoAyako/VisionTasker"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:19:48Z",
+      "role": "primary",
+      "sha256": "54a1c08d44e0ad1d60bee57e3db2842518e014db3be8b08362e484315f3a6a6f",
+      "supports": [
+        "release_status",
+        "details.repository_revision"
+      ],
+      "url": "https://api.github.com/repos/AkimotoAyako/VisionTasker/git/trees/main?recursive=1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:23:03Z",
+      "role": "primary",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/AkimotoAyako/VisionTasker/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:akimotoayako/visiontasker",
+  "identifiers": {},
+  "kind": "agent",
+  "last_verified_at": "2026-10-17T11:20:18Z",
+  "licenses": {
+    "code": {
+      "basis": "Repository GNU GPL version 3 license; pretrained models and linked data retain separate terms.",
+      "declared": "GPL-3.0",
+      "retrieved_at": "2026-10-17T11:23:03Z",
+      "url": "https://raw.githubusercontent.com/AkimotoAyako/VisionTasker/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/AkimotoAyako/VisionTasker"
+    }
+  ],
+  "name": "VisionTasker",
+  "notes": "The official lowercase readme.md and source tree expose automatic and step-by-step entry points. The documented setup uses a Windows host and an Android phone connected through ADB; it also requires separately obtained detection/CLIP models and model/OCR services. GPL-3.0 is recorded for the code only. External model download links were not used to infer weight licenses or verify a separate checkpoint release.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/AkimotoAyako/VisionTasker/HEAD/readme.md",
+      "target_id": "arxiv:2312.11190",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "An Android automation implementation that translates screenshot-based UI understanding into language descriptions for step-by-step LLM planning and action execution.",
+  "topics": [
+    "mobile-navigation",
+    "screen-understanding",
+    "planning"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/AkimotoAyako/VisionTasker"
+}

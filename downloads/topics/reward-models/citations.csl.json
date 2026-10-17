@@ -1,0 +1,2058 @@
+[
+  {
+    "URL": "https://arxiv.org/abs/2411.03817v3",
+    "archive": "arXiv",
+    "archive_location": "2411.03817",
+    "author": [
+      {
+        "literal": "Zhirui Deng"
+      },
+      {
+        "literal": "Zhicheng Dou"
+      },
+      {
+        "literal": "Yutao Zhu"
+      },
+      {
+        "literal": "Ji-Rong Wen"
+      },
+      {
+        "literal": "Ruibin Xiong"
+      },
+      {
+        "literal": "Mang Wang"
+      },
+      {
+        "literal": "Weipeng Chen"
+      }
+    ],
+    "citation-key": "arxiv_2411_03817",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "dd631a31f72dabe3a3bebf322031f9d686082073a8e4aa71eb65745498327f4e",
+        "submitted_at": "2024-11-06T10:35:11Z",
+        "updated_at": "2024-12-09T09:20:11Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2411.03817v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2411.03817",
+      "catalog_id": "arxiv:2411.03817",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-11-06",
+      "identifiers": {
+        "arxiv": "2411.03817"
+      },
+      "record_updated_at": "2024-12-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2411.03817",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2024-11-06; Recorded arXiv version: v3; Recorded version updated: 2024-12-09T09:20:11Z.",
+    "title": "From Novice to Expert: LLM Agent Policy Optimization via Step-wise Reinforcement Learning",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2504.16073v1",
+    "archive": "arXiv",
+    "archive_location": "2504.16073",
+    "author": [
+      {
+        "literal": "Zhiyuan Hu"
+      },
+      {
+        "literal": "Shiyun Xiong"
+      },
+      {
+        "literal": "Yifan Zhang"
+      },
+      {
+        "literal": "See-Kiong Ng"
+      },
+      {
+        "literal": "Anh Tuan Luu"
+      },
+      {
+        "literal": "Bo An"
+      },
+      {
+        "literal": "Shuicheng Yan"
+      },
+      {
+        "literal": "Bryan Hooi"
+      }
+    ],
+    "citation-key": "arxiv_2504_16073",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1353bb4651f449763ac58803b4858edf6e1d5b0ad3ab3e4c333883a1ebbaebf4",
+        "submitted_at": "2025-04-22T17:52:42Z",
+        "updated_at": "2025-04-22T17:52:42Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2504.16073v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2504.16073",
+      "catalog_id": "arxiv:2504.16073",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-04-22",
+      "identifiers": {
+        "arxiv": "2504.16073"
+      },
+      "record_updated_at": "2025-04-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2504.16073",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2025-04-22; Recorded arXiv version: v1; Recorded version updated: 2025-04-22T17:52:42Z.",
+    "title": "Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2507.14293v1",
+    "archive": "arXiv",
+    "archive_location": "2507.14293",
+    "author": [
+      {
+        "literal": "Boyuan Zheng"
+      },
+      {
+        "literal": "Zeyi Liao"
+      },
+      {
+        "literal": "Scott Salisbury"
+      },
+      {
+        "literal": "Zeyuan Liu"
+      },
+      {
+        "literal": "Michael Lin"
+      },
+      {
+        "literal": "Qinyuan Zheng"
+      },
+      {
+        "literal": "Zifan Wang"
+      },
+      {
+        "literal": "Xiang Deng"
+      },
+      {
+        "literal": "Dawn Song"
+      },
+      {
+        "literal": "Huan Sun"
+      },
+      {
+        "literal": "Yu Su"
+      }
+    ],
+    "citation-key": "arxiv_2507_14293",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a8f082fd40174e01f40e97d64f7aa3d90e5f76e831df8f93afdc21aa2e35bfd5",
+        "submitted_at": "2025-07-18T18:06:27Z",
+        "updated_at": "2025-07-18T18:06:27Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2507.14293v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2507.14293",
+      "catalog_id": "arxiv:2507.14293",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-07-18",
+      "identifiers": {
+        "arxiv": "2507.14293"
+      },
+      "record_updated_at": "2025-07-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2507.14293",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2025-07-18; Recorded arXiv version: v1; Recorded version updated: 2025-07-18T18:06:27Z.",
+    "title": "WebGuard: Building a Generalizable Guardrail for Web Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2507.15846v3",
+    "archive": "arXiv",
+    "archive_location": "2507.15846",
+    "author": [
+      {
+        "literal": "Fei Tang"
+      },
+      {
+        "literal": "Zhangxuan Gu"
+      },
+      {
+        "literal": "Zhengxi Lu"
+      },
+      {
+        "literal": "Xuyang Liu"
+      },
+      {
+        "literal": "Shuheng Shen"
+      },
+      {
+        "literal": "Changhua Meng"
+      },
+      {
+        "literal": "Wen Wang"
+      },
+      {
+        "literal": "Wenqi Zhang"
+      },
+      {
+        "literal": "Yongliang Shen"
+      },
+      {
+        "literal": "Weiming Lu"
+      },
+      {
+        "literal": "Jun Xiao"
+      },
+      {
+        "literal": "Yueting Zhuang"
+      }
+    ],
+    "citation-key": "arxiv_2507_15846",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d2a2a49373259cb5903fad8c2fb48a7380732642bedd81a644e735af4f028c63",
+        "submitted_at": "2025-07-21T17:53:42Z",
+        "updated_at": "2025-07-28T16:54:13Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2507.15846v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2507.15846",
+      "catalog_id": "arxiv:2507.15846",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-07-21",
+      "identifiers": {
+        "arxiv": "2507.15846"
+      },
+      "record_updated_at": "2025-07-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2507.15846",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          21
+        ]
+      ]
+    },
+    "note": "First published: 2025-07-21; Recorded arXiv version: v3; Recorded version updated: 2025-07-28T16:54:13Z.",
+    "title": "GUI-G$^2$: Gaussian Reward Modeling for GUI Grounding",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2508.11360v2",
+    "archive": "arXiv",
+    "archive_location": "2508.11360",
+    "author": [
+      {
+        "literal": "Songqin Nong"
+      },
+      {
+        "literal": "Xiaoxuan Tang"
+      },
+      {
+        "literal": "Jingxuan Xu"
+      },
+      {
+        "literal": "Sheng Zhou"
+      },
+      {
+        "literal": "Jianfeng Chen"
+      },
+      {
+        "literal": "Tao Jiang"
+      },
+      {
+        "literal": "Wenhao Xu"
+      }
+    ],
+    "citation-key": "arxiv_2508_11360",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ea849d8e7640d7a40d582431233418cf1cbd29585ca6c78638919b8832265445",
+        "submitted_at": "2025-08-15T09:55:02Z",
+        "updated_at": "2026-03-13T11:10:50Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2508.11360v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2508.11360",
+      "catalog_id": "arxiv:2508.11360",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-08-15",
+      "identifiers": {
+        "arxiv": "2508.11360"
+      },
+      "record_updated_at": "2026-03-13"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2508.11360",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2025-08-15; Recorded arXiv version: v2; Recorded version updated: 2026-03-13T11:10:50Z.",
+    "title": "CRAFT-GUI: Curriculum-Reinforced Agent For GUI Tasks",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.14172v2",
+    "archive": "arXiv",
+    "archive_location": "2509.14172",
+    "author": [
+      {
+        "literal": "Ziyuan Chen"
+      },
+      {
+        "literal": "Zhenghui Zhao"
+      },
+      {
+        "literal": "Zhangye Han"
+      },
+      {
+        "literal": "Miancan Liu"
+      },
+      {
+        "literal": "Xianhang Ye"
+      },
+      {
+        "literal": "Yiqing Li"
+      },
+      {
+        "literal": "Hongbo Min"
+      },
+      {
+        "literal": "Jinkui Ren"
+      },
+      {
+        "literal": "Xiantao Zhang"
+      },
+      {
+        "literal": "Guitao Cao"
+      }
+    ],
+    "citation-key": "arxiv_2509_14172",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cc1e4f78f1d3ffdb1b67f7c0bb645561a76db19dfa5f442fa9aa0a0d4d1ae0de",
+        "submitted_at": "2025-09-17T16:58:44Z",
+        "updated_at": "2025-09-19T02:13:09Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2509.14172v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.14172",
+      "catalog_id": "arxiv:2509.14172",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-17",
+      "identifiers": {
+        "arxiv": "2509.14172"
+      },
+      "record_updated_at": "2025-09-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.14172",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-17; Recorded arXiv version: v2; Recorded version updated: 2025-09-19T02:13:09Z.",
+    "title": "TGPO: Tree-Guided Preference Optimization for Robust Web Agent Reinforcement Learning",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.17917v1",
+    "archive": "arXiv",
+    "archive_location": "2509.17917",
+    "author": [
+      {
+        "literal": "Junyu Lu"
+      },
+      {
+        "literal": "Songxin Zhang"
+      },
+      {
+        "literal": "Zejian Xie"
+      },
+      {
+        "literal": "Zhuoyang Song"
+      },
+      {
+        "literal": "Jiaxing Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2509_17917",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7b85c9bae829bad343dd6f57c866ea100859fa0ad67f5c1a3ac9b3e53d617486",
+        "submitted_at": "2025-09-22T15:40:31Z",
+        "updated_at": "2025-09-22T15:40:31Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2509.17917v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.17917",
+      "catalog_id": "arxiv:2509.17917",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-22",
+      "identifiers": {
+        "arxiv": "2509.17917"
+      },
+      "record_updated_at": "2025-09-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.17917",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-22; Recorded arXiv version: v1; Recorded version updated: 2025-09-22T15:40:31Z.",
+    "title": "Orcust: Stepwise-Feedback Reinforcement Learning for GUI Agent",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.21823v2",
+    "archive": "arXiv",
+    "archive_location": "2509.21823",
+    "author": [
+      {
+        "literal": "Gaole Dai"
+      },
+      {
+        "literal": "Shiqi Jiang"
+      },
+      {
+        "literal": "Ting Cao"
+      },
+      {
+        "literal": "Yuqing Yang"
+      },
+      {
+        "literal": "Yuanchun Li"
+      },
+      {
+        "literal": "Rui Tan"
+      },
+      {
+        "literal": "Mo Li"
+      },
+      {
+        "literal": "Lili Qiu"
+      }
+    ],
+    "citation-key": "arxiv_2509_21823",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c96f310fb0f28888c59dce71d08697b603e7a7562fdf99b51e3504b93e9e81b3",
+        "submitted_at": "2025-09-26T03:29:36Z",
+        "updated_at": "2026-04-15T09:19:46Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2509.21823v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.21823",
+      "catalog_id": "arxiv:2509.21823",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-26",
+      "identifiers": {
+        "arxiv": "2509.21823"
+      },
+      "record_updated_at": "2026-04-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.21823",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-26; Recorded arXiv version: v2; Recorded version updated: 2026-04-15T09:19:46Z.",
+    "title": "ProRe: A Proactive Reward System for GUI Agents via Reasoner-Actor Collaboration",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.23263v3",
+    "archive": "arXiv",
+    "archive_location": "2509.23263",
+    "author": [
+      {
+        "literal": "Tao Xiong"
+      },
+      {
+        "literal": "Xavier Hu"
+      },
+      {
+        "literal": "Yurun Chen"
+      },
+      {
+        "literal": "Yuhang Liu"
+      },
+      {
+        "literal": "Changqiao Wu"
+      },
+      {
+        "literal": "Pengzhi Gao"
+      },
+      {
+        "literal": "Wei Liu"
+      },
+      {
+        "literal": "Jian Luan"
+      },
+      {
+        "literal": "Shengyu Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2509_23263",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5b5375e77f087367383bb5de96cec46d8de6550d9a44bff6965b9201b6718a05",
+        "submitted_at": "2025-09-27T11:42:36Z",
+        "updated_at": "2026-08-30T18:12:14Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2509.23263v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.23263",
+      "catalog_id": "arxiv:2509.23263",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-27",
+      "identifiers": {
+        "arxiv": "2509.23263"
+      },
+      "record_updated_at": "2026-08-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.23263",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-27; Recorded arXiv version: v3; Recorded version updated: 2026-08-30T18:12:14Z.",
+    "title": "GUI-PRA: Process Reward Agent for GUI Tasks",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2512.15431v2",
+    "archive": "arXiv",
+    "archive_location": "2512.15431",
+    "author": [
+      {
+        "literal": "Haolong Yan"
+      },
+      {
+        "literal": "Jia Wang"
+      },
+      {
+        "literal": "Xin Huang"
+      },
+      {
+        "literal": "Yeqing Shen"
+      },
+      {
+        "literal": "Ziyang Meng"
+      },
+      {
+        "literal": "Zhimin Fan"
+      },
+      {
+        "literal": "Kaijun Tan"
+      },
+      {
+        "literal": "Jin Gao"
+      },
+      {
+        "literal": "Lieyu Shi"
+      },
+      {
+        "literal": "Mi Yang"
+      },
+      {
+        "literal": "Shiliang Yang"
+      },
+      {
+        "literal": "Zhirui Wang"
+      },
+      {
+        "literal": "Brian Li"
+      },
+      {
+        "literal": "Kang An"
+      },
+      {
+        "literal": "Chenyang Li"
+      },
+      {
+        "literal": "Lei Lei"
+      },
+      {
+        "literal": "Mengmeng Duan"
+      },
+      {
+        "literal": "Danxun Liang"
+      },
+      {
+        "literal": "Guodong Liu"
+      },
+      {
+        "literal": "Hang Cheng"
+      },
+      {
+        "literal": "Hao Wu"
+      },
+      {
+        "literal": "Jie Dong"
+      },
+      {
+        "literal": "Junhao Huang"
+      },
+      {
+        "literal": "Mei Chen"
+      },
+      {
+        "literal": "Renjie Yu"
+      },
+      {
+        "literal": "Shunshan Li"
+      },
+      {
+        "literal": "Xu Zhou"
+      },
+      {
+        "literal": "Yiting Dai"
+      },
+      {
+        "literal": "Yineng Deng"
+      },
+      {
+        "literal": "Yingdan Liang"
+      },
+      {
+        "literal": "Zelin Chen"
+      },
+      {
+        "literal": "Wen Sun"
+      },
+      {
+        "literal": "Chengxu Yan"
+      },
+      {
+        "literal": "Chunqin Xu"
+      },
+      {
+        "literal": "Dong Li"
+      },
+      {
+        "literal": "Fengqiong Xiao"
+      },
+      {
+        "literal": "Guanghao Fan"
+      },
+      {
+        "literal": "Guopeng Li"
+      },
+      {
+        "literal": "Guozhen Peng"
+      },
+      {
+        "literal": "Hongbing Li"
+      },
+      {
+        "literal": "Hang Li"
+      },
+      {
+        "literal": "Hongming Chen"
+      },
+      {
+        "literal": "Jingjing Xie"
+      },
+      {
+        "literal": "Jianyong Li"
+      },
+      {
+        "literal": "Jingyang Zhang"
+      },
+      {
+        "literal": "Jiaju Ren"
+      },
+      {
+        "literal": "Jiayu Yuan"
+      },
+      {
+        "literal": "Jianpeng Yin"
+      },
+      {
+        "literal": "Kai Cao"
+      },
+      {
+        "literal": "Liang Zhao"
+      },
+      {
+        "literal": "Liguo Tan"
+      },
+      {
+        "literal": "Liying Shi"
+      },
+      {
+        "literal": "Mengqiang Ren"
+      },
+      {
+        "literal": "Min Xu"
+      },
+      {
+        "literal": "Manjiao Liu"
+      },
+      {
+        "literal": "Mao Luo"
+      },
+      {
+        "literal": "Mingxin Wan"
+      },
+      {
+        "literal": "Na Wang"
+      },
+      {
+        "literal": "Nan Wu"
+      },
+      {
+        "literal": "Ning Wang"
+      },
+      {
+        "literal": "Peiyao Ma"
+      },
+      {
+        "literal": "Qingzhou Zhang"
+      },
+      {
+        "literal": "Qiao Wang"
+      },
+      {
+        "literal": "Qinlin Zeng"
+      },
+      {
+        "literal": "Qiong Gao"
+      },
+      {
+        "literal": "Qiongyao Li"
+      },
+      {
+        "literal": "Shangwu Zhong"
+      },
+      {
+        "literal": "Shuli Gao"
+      },
+      {
+        "literal": "Shaofan Liu"
+      },
+      {
+        "literal": "Shisi Gao"
+      },
+      {
+        "literal": "Shuang Luo"
+      },
+      {
+        "literal": "Xingbin Liu"
+      },
+      {
+        "literal": "Xiaojia Liu"
+      },
+      {
+        "literal": "Xiaojie Hou"
+      },
+      {
+        "literal": "Xin Liu"
+      },
+      {
+        "literal": "Xuanti Feng"
+      },
+      {
+        "literal": "Xuedan Cai"
+      },
+      {
+        "literal": "Xuan Wen"
+      },
+      {
+        "literal": "Xianwei Zhu"
+      },
+      {
+        "literal": "Xin Liang"
+      },
+      {
+        "literal": "Xin Liu"
+      },
+      {
+        "literal": "Xin Zhou"
+      },
+      {
+        "literal": "Yifan Sui"
+      },
+      {
+        "literal": "Yingxiu Zhao"
+      },
+      {
+        "literal": "Yukang Shi"
+      },
+      {
+        "literal": "Yunfang Xu"
+      },
+      {
+        "literal": "Yuqing Zeng"
+      },
+      {
+        "literal": "Yixun Zhang"
+      },
+      {
+        "literal": "Zejia Weng"
+      },
+      {
+        "literal": "Zhonghao Yan"
+      },
+      {
+        "literal": "Zhiguo Huang"
+      },
+      {
+        "literal": "Zhuoyu Wang"
+      },
+      {
+        "literal": "Zihan Yan"
+      },
+      {
+        "literal": "Zheng Ge"
+      },
+      {
+        "literal": "Jing Li"
+      },
+      {
+        "literal": "Yibo Zhu"
+      },
+      {
+        "literal": "Binxing Jiao"
+      },
+      {
+        "literal": "Xiangyu Zhang"
+      },
+      {
+        "literal": "Daxin Jiang"
+      }
+    ],
+    "citation-key": "arxiv_2512_15431",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2fc824bdeabca3451fd895447a0321c507da1ac7bc7cc24184c7768992549daf",
+        "submitted_at": "2025-12-17T13:26:30Z",
+        "updated_at": "2025-12-19T17:36:21Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2512.15431v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2512.15431",
+      "catalog_id": "arxiv:2512.15431",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-12-17",
+      "identifiers": {
+        "arxiv": "2512.15431"
+      },
+      "record_updated_at": "2025-12-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2512.15431",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2025-12-17; Recorded arXiv version: v2; Recorded version updated: 2025-12-19T17:36:21Z.",
+    "title": "Step-GUI Technical Report",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2512.16295v1",
+    "archive": "arXiv",
+    "archive_location": "2512.16295",
+    "author": [
+      {
+        "literal": "Zhenyu Wu"
+      },
+      {
+        "literal": "Jingjing Xie"
+      },
+      {
+        "literal": "Zehao Li"
+      },
+      {
+        "literal": "Bowen Yang"
+      },
+      {
+        "literal": "Qiushi Sun"
+      },
+      {
+        "literal": "Zhaoyang Liu"
+      },
+      {
+        "literal": "Zhoumianze Liu"
+      },
+      {
+        "literal": "Yu Qiao"
+      },
+      {
+        "literal": "Xiangyu Yue"
+      },
+      {
+        "literal": "Zun Wang"
+      },
+      {
+        "literal": "Zichen Ding"
+      }
+    ],
+    "citation-key": "arxiv_2512_16295",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "67a1bd40b117b34e5fb994b1c2c93cd285714097d1bc9730baeeaba6c31a7b8a",
+        "submitted_at": "2025-12-18T08:29:50Z",
+        "updated_at": "2025-12-18T08:29:50Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2512.16295v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2512.16295",
+      "catalog_id": "arxiv:2512.16295",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-12-18",
+      "identifiers": {
+        "arxiv": "2512.16295"
+      },
+      "record_updated_at": "2025-12-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2512.16295",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2025-12-18; Recorded arXiv version: v1; Recorded version updated: 2025-12-18T08:29:50Z.",
+    "title": "OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2512.19396v3",
+    "archive": "arXiv",
+    "archive_location": "2512.19396",
+    "author": [
+      {
+        "literal": "Runze Li"
+      },
+      {
+        "literal": "Yuwen Zhai"
+      },
+      {
+        "literal": "Bo Xu"
+      },
+      {
+        "literal": "LiWu Xu"
+      },
+      {
+        "literal": "Nian Shi"
+      },
+      {
+        "literal": "Wei Zhang"
+      },
+      {
+        "literal": "Ran Lin"
+      },
+      {
+        "literal": "Liang Wang"
+      }
+    ],
+    "citation-key": "arxiv_2512_19396",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "03cdf8514fa9f036b4614a880d842d49bb9cb0a821858b7215784fba209faa62",
+        "submitted_at": "2025-12-22T13:42:18Z",
+        "updated_at": "2026-04-10T06:20:00Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2512.19396v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2512.19396",
+      "catalog_id": "arxiv:2512.19396",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-12-22",
+      "identifiers": {
+        "arxiv": "2512.19396"
+      },
+      "record_updated_at": "2026-04-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2512.19396",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2025-12-22; Recorded arXiv version: v3; Recorded version updated: 2026-04-10T06:20:00Z.",
+    "title": "EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2601.13060v1",
+    "archive": "arXiv",
+    "archive_location": "2601.13060",
+    "author": [
+      {
+        "literal": "Zecheng Li"
+      },
+      {
+        "literal": "Zhihui Cao"
+      },
+      {
+        "literal": "Wenke Huang"
+      },
+      {
+        "literal": "Yudong Zhang"
+      },
+      {
+        "literal": "Keying Qi"
+      },
+      {
+        "literal": "Rui Wang"
+      },
+      {
+        "literal": "Zeyu Zheng"
+      },
+      {
+        "literal": "Jian Zhao"
+      },
+      {
+        "literal": "Hao Zhu"
+      },
+      {
+        "literal": "Hengxin Wu"
+      },
+      {
+        "literal": "Yuran Wang"
+      },
+      {
+        "literal": "Guitao Fan"
+      },
+      {
+        "literal": "Guokun Wu"
+      },
+      {
+        "literal": "Yicong Liu"
+      },
+      {
+        "literal": "Zhilin Gao"
+      },
+      {
+        "literal": "Haikun Xu"
+      },
+      {
+        "literal": "He Yang"
+      },
+      {
+        "literal": "Minqi Xiang"
+      },
+      {
+        "literal": "Xingyu Liu"
+      },
+      {
+        "literal": "Zuojian Wang"
+      }
+    ],
+    "citation-key": "arxiv_2601_13060",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "aa8cb4137e862bf8031a55bc8f81e1d6c903733f2cfac9cf758e5f2f92884481",
+        "submitted_at": "2026-01-19T13:50:43Z",
+        "updated_at": "2026-01-19T13:50:43Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2601.13060v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.13060",
+      "catalog_id": "arxiv:2601.13060",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-01-19",
+      "identifiers": {
+        "arxiv": "2601.13060"
+      },
+      "record_updated_at": "2026-01-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.13060",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-19; Recorded arXiv version: v1; Recorded version updated: 2026-01-19T13:50:43Z.",
+    "title": "MagicGUI-RMS: A Multi-Agent Reward Model System for Self-Evolving GUI Agents via Automated Feedback Reflux",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2601.18197v2",
+    "archive": "arXiv",
+    "archive_location": "2601.18197",
+    "author": [
+      {
+        "literal": "Shaokang Wang"
+      },
+      {
+        "literal": "Pei Fu"
+      },
+      {
+        "literal": "Ruoceng Zhang"
+      },
+      {
+        "literal": "Shaojie Zhang"
+      },
+      {
+        "literal": "Xiuwen Xi"
+      },
+      {
+        "literal": "Jiahui Yang"
+      },
+      {
+        "literal": "Bin Qin"
+      },
+      {
+        "literal": "Ying Huang"
+      },
+      {
+        "literal": "Zhenbo Luo"
+      },
+      {
+        "literal": "Jian Luan"
+      }
+    ],
+    "citation-key": "arxiv_2601_18197",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ccb46b86b0c0b854ed2f1e17f9e12bf031c5ed1349f3d3c44d3276b2a3a195ee",
+        "submitted_at": "2026-01-26T06:29:41Z",
+        "updated_at": "2026-06-26T07:19:55Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2601.18197v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.18197",
+      "catalog_id": "arxiv:2601.18197",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-01-26",
+      "identifiers": {
+        "arxiv": "2601.18197"
+      },
+      "record_updated_at": "2026-06-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.18197",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-26; Recorded arXiv version: v2; Recorded version updated: 2026-06-26T07:19:55Z.",
+    "title": "GAIA: A Data Flywheel System for Training GUI Test-Time Scaling Critic Models",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2601.21872v2",
+    "archive": "arXiv",
+    "archive_location": "2601.21872",
+    "author": [
+      {
+        "literal": "Yao Zhang"
+      },
+      {
+        "literal": "Shijie Tang"
+      },
+      {
+        "literal": "Zeyu Li"
+      },
+      {
+        "literal": "Zhen Han"
+      },
+      {
+        "literal": "Volker Tresp"
+      }
+    ],
+    "citation-key": "arxiv_2601_21872",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "68ae67856eb871d9a8f259dfb180bde02d29ee97fd7abf0e60719fc2c7abd7ab",
+        "submitted_at": "2026-01-29T15:39:50Z",
+        "updated_at": "2026-04-09T17:48:11Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2601.21872v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.21872",
+      "catalog_id": "arxiv:2601.21872",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-01-29",
+      "identifiers": {
+        "arxiv": "2601.21872"
+      },
+      "record_updated_at": "2026-04-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.21872",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-29; Recorded arXiv version: v2; Recorded version updated: 2026-04-09T17:48:11Z.",
+    "title": "WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.00575v2",
+    "archive": "arXiv",
+    "archive_location": "2602.00575",
+    "author": [
+      {
+        "literal": "Chaoqun Cui"
+      },
+      {
+        "literal": "Jing Huang"
+      },
+      {
+        "literal": "Shijing Wang"
+      },
+      {
+        "literal": "Liming Zheng"
+      },
+      {
+        "literal": "Qingchao Kong"
+      },
+      {
+        "literal": "Zhixiong Zeng"
+      }
+    ],
+    "citation-key": "arxiv_2602_00575",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "86225f2e52e1394e2a0a56b1e82327d756bff95739e01ce7cc5898af49944aba",
+        "submitted_at": "2026-01-31T07:36:54Z",
+        "updated_at": "2026-07-25T06:54:35Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2602.00575v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.00575",
+      "catalog_id": "arxiv:2602.00575",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-01-31",
+      "identifiers": {
+        "arxiv": "2602.00575"
+      },
+      "record_updated_at": "2026-07-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.00575",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          31
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-31; Recorded arXiv version: v2; Recorded version updated: 2026-07-25T06:54:35Z.",
+    "title": "Agentic Reward Modeling: Verifying GUI Agent via Progressive Trajectory-Grounded Interaction",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.10356v2",
+    "archive": "arXiv",
+    "archive_location": "2602.10356",
+    "author": [
+      {
+        "literal": "Tianci Xue"
+      },
+      {
+        "literal": "Zeyi Liao"
+      },
+      {
+        "literal": "Tianneng Shi"
+      },
+      {
+        "literal": "Zilu Wang"
+      },
+      {
+        "literal": "Kai Zhang"
+      },
+      {
+        "literal": "Dawn Song"
+      },
+      {
+        "literal": "Yu Su"
+      },
+      {
+        "literal": "Huan Sun"
+      }
+    ],
+    "citation-key": "arxiv_2602_10356",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d3385966e7b483b33738b3c8e6c9a4d9cf17afa671e1f2e49de4f946cbc5f251",
+        "submitted_at": "2026-02-10T23:06:02Z",
+        "updated_at": "2026-05-11T00:11:46Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2602.10356v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.10356",
+      "catalog_id": "arxiv:2602.10356",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-10",
+      "identifiers": {
+        "arxiv": "2602.10356"
+      },
+      "record_updated_at": "2026-05-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.10356",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          10
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-10; Recorded arXiv version: v2; Recorded version updated: 2026-05-11T00:11:46Z.",
+    "title": "Autonomous Continual Learning for Environment Adaptation of Computer-Use Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.11524v1",
+    "archive": "arXiv",
+    "archive_location": "2602.11524",
+    "author": [
+      {
+        "literal": "Congmin Zheng"
+      },
+      {
+        "literal": "Xiaoyun Mo"
+      },
+      {
+        "literal": "Xinbei Ma"
+      },
+      {
+        "literal": "Qiqiang Lin"
+      },
+      {
+        "literal": "Yin Zhao"
+      },
+      {
+        "literal": "Jiachen Zhu"
+      },
+      {
+        "literal": "Xingyu Lou"
+      },
+      {
+        "literal": "Jun Wang"
+      },
+      {
+        "literal": "Zhaoxiang Wang"
+      },
+      {
+        "literal": "Weiwen Liu"
+      },
+      {
+        "literal": "Zhuosheng Zhang"
+      },
+      {
+        "literal": "Yong Yu"
+      },
+      {
+        "literal": "Weinan Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2602_11524",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ffec5a47e31b541cfdf0fb3c143b55cbb28119463731d9a6f3add0fe116caea9",
+        "submitted_at": "2026-02-12T03:31:40Z",
+        "updated_at": "2026-02-12T03:31:40Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2602.11524v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.11524",
+      "catalog_id": "arxiv:2602.11524",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-12",
+      "identifiers": {
+        "arxiv": "2602.11524"
+      },
+      "record_updated_at": "2026-02-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.11524",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-12; Recorded arXiv version: v1; Recorded version updated: 2026-02-12T03:31:40Z.",
+    "title": "Adaptive Milestone Reward for GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.13653v1",
+    "archive": "arXiv",
+    "archive_location": "2602.13653",
+    "author": [
+      {
+        "literal": "Yibo Wang"
+      },
+      {
+        "literal": "Guangda Huzhang"
+      },
+      {
+        "literal": "Yuwei Hu"
+      },
+      {
+        "literal": "Yu Xia"
+      },
+      {
+        "literal": "Shiyin Lu"
+      },
+      {
+        "literal": "Qing-Guo Chen"
+      },
+      {
+        "literal": "Zhao Xu"
+      },
+      {
+        "literal": "Weihua Luo"
+      },
+      {
+        "literal": "Kaifu Zhang"
+      },
+      {
+        "literal": "Lijun Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2602_13653",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "573d859133ec9986af92e1943d0ec913d914acf4e54a030a4b103181ba505ae0",
+        "submitted_at": "2026-02-14T07:44:47Z",
+        "updated_at": "2026-02-14T07:44:47Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2602.13653v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.13653",
+      "catalog_id": "arxiv:2602.13653",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-14",
+      "identifiers": {
+        "arxiv": "2602.13653"
+      },
+      "record_updated_at": "2026-02-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.13653",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-14; Recorded arXiv version: v1; Recorded version updated: 2026-02-14T07:44:47Z.",
+    "title": "Building Autonomous GUI Navigation via Agentic-Q Estimation and Step-Wise Policy Optimization",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.23263v2",
+    "archive": "arXiv",
+    "archive_location": "2607.23263",
+    "author": [
+      {
+        "literal": "Yang Wan"
+      },
+      {
+        "literal": "Zhenhao Zhang"
+      },
+      {
+        "literal": "Jierui Wang"
+      },
+      {
+        "literal": "Xiangxin Zhou"
+      },
+      {
+        "literal": "Linchao Zhu"
+      }
+    ],
+    "citation-key": "arxiv_2607_23263",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2de35aa3c7f4457d43d485eb136d8b380ea61870cc7253e807880ae731c51316",
+        "submitted_at": "2026-07-25T16:00:45Z",
+        "updated_at": "2026-09-26T12:15:44Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2607.23263v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.23263",
+      "catalog_id": "arxiv:2607.23263",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-25",
+      "identifiers": {
+        "arxiv": "2607.23263"
+      },
+      "record_updated_at": "2026-09-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.23263",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-25; Recorded arXiv version: v2; Recorded version updated: 2026-09-26T12:15:44Z.",
+    "title": "SeekJudge: A Practical Reward Framework for Reinforcement Learning in Computer-Use Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.25904v2",
+    "archive": "arXiv",
+    "archive_location": "2607.25904",
+    "author": [
+      {
+        "literal": "Chenrui Shi"
+      },
+      {
+        "literal": "Yuwei Wu"
+      },
+      {
+        "literal": "Yang Liu"
+      },
+      {
+        "literal": "Ruining Feng"
+      },
+      {
+        "literal": "Zirui Shang"
+      },
+      {
+        "literal": "Zhi Gao"
+      },
+      {
+        "literal": "Lifeng Fan"
+      },
+      {
+        "literal": "Che Sun"
+      }
+    ],
+    "citation-key": "arxiv_2607_25904",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d1688a528d35a8213a8027385b1b1327536567f6ec307aa6562eea543ee71d7f",
+        "submitted_at": "2026-07-28T16:01:38Z",
+        "updated_at": "2026-07-29T05:13:57Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2607.25904v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.25904",
+      "catalog_id": "arxiv:2607.25904",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-28",
+      "identifiers": {
+        "arxiv": "2607.25904"
+      },
+      "record_updated_at": "2026-07-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.25904",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-28; Recorded arXiv version: v2; Recorded version updated: 2026-07-29T05:13:57Z.",
+    "title": "Interactive Reward Agent: GUI Task Evaluation via Environment-State Verification",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.28609v2",
+    "archive": "arXiv",
+    "archive_location": "2607.28609",
+    "author": [
+      {
+        "literal": "Qiushi Sun"
+      },
+      {
+        "literal": "Kanzhi Cheng"
+      },
+      {
+        "literal": "Yian Wang"
+      },
+      {
+        "literal": "Bowen Yang"
+      },
+      {
+        "literal": "Hang Yan"
+      },
+      {
+        "literal": "Liheng Chen"
+      },
+      {
+        "literal": "Fangzhi Xu"
+      },
+      {
+        "literal": "Zichen Ding"
+      },
+      {
+        "literal": "Nuo Chen"
+      },
+      {
+        "literal": "Jialin Cao"
+      },
+      {
+        "literal": "Xingdong Gong"
+      },
+      {
+        "literal": "Zehao Li"
+      },
+      {
+        "literal": "Kaiming Jin"
+      },
+      {
+        "literal": "Xinfeng Yuan"
+      },
+      {
+        "literal": "Zhoumianze Liu"
+      },
+      {
+        "literal": "Jingyang Gong"
+      },
+      {
+        "literal": "Zhangyue Yin"
+      },
+      {
+        "literal": "Jiahui Gao"
+      },
+      {
+        "literal": "Zhiyong Wu"
+      },
+      {
+        "literal": "Tianbao Xie"
+      },
+      {
+        "literal": "Jianbing Zhang"
+      },
+      {
+        "literal": "Ben Kao"
+      },
+      {
+        "literal": "Lingpeng Kong"
+      }
+    ],
+    "citation-key": "arxiv_2607_28609",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e3e82df7abffbd0c8f7e969ed8edb77423263a2b1d826a3e72529b0a51903d58",
+        "submitted_at": "2026-07-30T17:57:41Z",
+        "updated_at": "2026-08-06T17:55:59Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2607.28609v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.28609",
+      "catalog_id": "arxiv:2607.28609",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-30",
+      "identifiers": {
+        "arxiv": "2607.28609"
+      },
+      "record_updated_at": "2026-08-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.28609",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-30; Recorded arXiv version: v2; Recorded version updated: 2026-08-06T17:55:59Z.",
+    "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2608.22847v1",
+    "archive": "arXiv",
+    "archive_location": "2608.22847",
+    "author": [
+      {
+        "literal": "Long Zhang"
+      },
+      {
+        "literal": "Yuhan Chen"
+      },
+      {
+        "literal": "Chaoran Zhang"
+      },
+      {
+        "literal": "Wanxia Cao"
+      },
+      {
+        "literal": "Kun Huang"
+      },
+      {
+        "literal": "Pengzhi Gao"
+      },
+      {
+        "literal": "Wei Liu"
+      },
+      {
+        "literal": "Jian Luan"
+      },
+      {
+        "literal": "Chenliang Li"
+      },
+      {
+        "literal": "Lixin Zou"
+      }
+    ],
+    "citation-key": "arxiv_2608_22847",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4c1198ce65d5a2fcffc51b37bc4553b35b9e0d809757dc4181747c57c7ae443d",
+        "submitted_at": "2026-08-24T06:27:47Z",
+        "updated_at": "2026-08-24T06:27:47Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2608.22847v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.22847",
+      "catalog_id": "arxiv:2608.22847",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-08-24",
+      "identifiers": {
+        "arxiv": "2608.22847"
+      },
+      "record_updated_at": "2026-08-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.22847",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-24; Recorded arXiv version: v1; Recorded version updated: 2026-08-24T06:27:47Z.",
+    "title": "GSAR: Goal-State-Anchor Rewards for Mobile GUI Agents with Self-Evolving Data Synthesis",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2608.24174v1",
+    "archive": "arXiv",
+    "archive_location": "2608.24174",
+    "author": [
+      {
+        "literal": "Tao Xiong"
+      },
+      {
+        "literal": "Xavier Hu"
+      },
+      {
+        "literal": "Wenkai Wang"
+      },
+      {
+        "literal": "Qinzhuo Wu"
+      },
+      {
+        "literal": "Changqiao Wu"
+      },
+      {
+        "literal": "Pengzhi Gao"
+      },
+      {
+        "literal": "Wei Liu"
+      },
+      {
+        "literal": "Jian Luan"
+      },
+      {
+        "literal": "Shengyu Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2608_24174",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "76cd09f70bfec0d2a49cddae8adcf32ca37fb39bcade7c1d36d5f3dc3fa6bfa7",
+        "submitted_at": "2026-08-25T07:40:12Z",
+        "updated_at": "2026-08-25T07:40:12Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2608.24174v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.24174",
+      "catalog_id": "arxiv:2608.24174",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-08-25",
+      "identifiers": {
+        "arxiv": "2608.24174"
+      },
+      "record_updated_at": "2026-08-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.24174",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-25; Recorded arXiv version: v1; Recorded version updated: 2026-08-25T07:40:12Z.",
+    "title": "Task-Adaptive Rubrics for GUI Reward Modeling",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2609.32351v1",
+    "archive": "arXiv",
+    "archive_location": "2609.32351",
+    "author": [
+      {
+        "literal": "Yangzhe Peng"
+      },
+      {
+        "literal": "Xiaoyang Wang"
+      },
+      {
+        "literal": "Yiyang Zhao"
+      },
+      {
+        "literal": "Lijun Wu"
+      },
+      {
+        "literal": "Kun He"
+      }
+    ],
+    "citation-key": "arxiv_2609_32351",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7cc6fd87d2299e2881eab9a2db96e4022663e2d94da5549dcde166c0c8b8be11",
+        "submitted_at": "2026-09-26T08:14:50Z",
+        "updated_at": "2026-09-26T08:14:50Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.32351v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.32351",
+      "catalog_id": "arxiv:2609.32351",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-26",
+      "identifiers": {
+        "arxiv": "2609.32351"
+      },
+      "record_updated_at": "2026-09-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.32351",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-26; Recorded arXiv version: v1; Recorded version updated: 2026-09-26T08:14:50Z.",
+    "title": "From Trajectories to Grounded Preferences: Process Preference Synthesis via Interaction Element Graphs for Web PRMs",
+    "type": "article",
+    "version": "1"
+  }
+]

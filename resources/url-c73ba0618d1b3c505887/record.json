@@ -1,0 +1,163 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "availability": "Ungated benchmark JSONL/image manifest and public evaluation scripts; training pipeline/checkpoints are pending.",
+    "benchmark_protocol": {
+      "actions": [
+        "critic-model responses"
+      ],
+      "counts": [
+        {
+          "basis": "computed",
+          "evidence_url": "https://huggingface.co/datasets/OS-Copilot/OS-Critic-Bench/raw/main/README.md",
+          "population": "mobile/desktop/web configurations in the Hub card",
+          "qualifier": "exact",
+          "unit": "platform JSONL splits",
+          "value": 3
+        }
+      ],
+      "evaluation": "The official repository runs model inference and computes accuracy with cal_acc.py.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/numbmelon/OS-Oracle/HEAD/README.md",
+        "https://huggingface.co/datasets/OS-Copilot/OS-Critic-Bench/raw/main/README.md"
+      ],
+      "focus": [
+        "GUI critic prediction"
+      ],
+      "notes": "No sample count is inferred from the n<1K Hub size band. Evaluation code availability does not establish the release of OS-Oracle training data or weights.",
+      "observations": [
+        "benchmark JSONL",
+        "UI screenshots"
+      ],
+      "setting": "offline"
+    },
+    "evaluation_type": null,
+    "gated": false,
+    "hub_id": "OS-Copilot/OS-Critic-Bench",
+    "leaderboard_url": null,
+    "license_review": {
+      "data": {
+        "evidence_urls": [
+          "https://huggingface.co/datasets/OS-Copilot/OS-Critic-Bench/raw/main/README.md"
+        ],
+        "reason": "Publisher dataset-card license declaration for OS-Critic-Bench; not an evaluation-code or model-weight license."
+      }
+    },
+    "metrics": [],
+    "release_revision": "8fe774ef6a422c0e555f90205eb392f9132e272b",
+    "task_count": null
+  },
+  "environments": [
+    "cross-platform",
+    "desktop",
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:18:18Z",
+      "role": "primary",
+      "sha256": "58305b8ebe1af5dfbddd636484d63722d4e21d28ed3e22bb8c0068e654f33479",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "relations",
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/numbmelon/OS-Oracle/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:18:17Z",
+      "role": "primary",
+      "sha256": "17bcf851f39d06e7e357871df1dc1ddf697bcbea31842c16348227bbf4fbb224",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/numbmelon/OS-Oracle"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:22:55Z",
+      "role": "primary",
+      "sha256": "516beea465382b54548e4b8bfd12ae510080a49451b30262ad1c769ed5a3398e",
+      "supports": [
+        "release_status",
+        "licenses.code"
+      ],
+      "url": "https://api.github.com/repos/numbmelon/OS-Oracle/git/trees/main?recursive=1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:23:06Z",
+      "role": "primary",
+      "sha256": "ef311b49437e246ffef6ad13c090277a0bdacc4a124e5b3cfe8d2643ced8f843",
+      "supports": [
+        "identity",
+        "release_status",
+        "details.hub_id",
+        "details.gated",
+        "details.release_revision"
+      ],
+      "url": "https://huggingface.co/api/datasets/OS-Copilot/OS-Critic-Bench"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:23:07Z",
+      "role": "primary",
+      "sha256": "4139e25e8911ca8450f6db9acb8dc3a98c126c3c43514c72bcefa4ed33b8ffa8",
+      "supports": [
+        "licenses.data",
+        "details.benchmark_protocol"
+      ],
+      "url": "https://huggingface.co/datasets/OS-Copilot/OS-Critic-Bench/raw/main/README.md"
+    }
+  ],
+  "id": "url:c73ba0618d1b3c505887",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-17T11:18:18Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "Publisher dataset-card license declaration for OS-Critic-Bench; not an evaluation-code or model-weight license.",
+      "declared": "apache-2.0",
+      "retrieved_at": "2026-10-17T11:23:07Z",
+      "url": "https://huggingface.co/datasets/OS-Copilot/OS-Critic-Bench/raw/main/README.md"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/OS-Copilot/OS-Critic-Bench"
+    }
+  ],
+  "name": "OS-Critic Bench",
+  "notes": "The Hub card provides split/format/license metadata, while the official OS-Oracle README establishes critic-evaluation purpose and platform scope. The repository currently releases only benchmark inference/scoring components; data-synthesis code, training datasets and model checkpoints remain unchecked TODOs and are not counted as released assets. Apache-2.0 is recorded for benchmark data only; the evaluation code has no inspected license declaration.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/numbmelon/OS-Oracle/HEAD/README.md",
+      "target_id": "arxiv:2512.16295",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A cross-platform GUI-critic benchmark with mobile, desktop and web JSONL splits and screenshot assets, accompanied by public inference and accuracy-scoring scripts.",
+  "topics": [
+    "evaluation",
+    "reward-models",
+    "screen-understanding"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/OS-Copilot/OS-Critic-Bench"
+}

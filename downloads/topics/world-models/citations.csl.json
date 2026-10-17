@@ -1,0 +1,1775 @@
+[
+  {
+    "URL": "https://arxiv.org/abs/2406.07822v2",
+    "archive": "arXiv",
+    "archive_location": "2406.07822",
+    "author": [
+      {
+        "literal": "Andrea Burns"
+      },
+      {
+        "literal": "Kate Saenko"
+      },
+      {
+        "literal": "Bryan A. Plummer"
+      }
+    ],
+    "citation-key": "arxiv_2406_07822",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "47d0ca0467a104f9b8be037ec73131f12b66a22b0a89fe975bec7680073c8f39",
+        "submitted_at": "2024-06-12T02:43:19Z",
+        "updated_at": "2024-08-08T02:36:04Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2406.07822v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.07822",
+      "catalog_id": "arxiv:2406.07822",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-06-12",
+      "identifiers": {
+        "arxiv": "2406.07822"
+      },
+      "record_updated_at": "2024-08-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2406.07822",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2024-06-12; Recorded arXiv version: v2; Recorded version updated: 2024-08-08T02:36:04Z.",
+    "title": "Tell Me What's Next: Textual Foresight for Generic UI Representations",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2410.13232v2",
+    "archive": "arXiv",
+    "archive_location": "2410.13232",
+    "author": [
+      {
+        "literal": "Hyungjoo Chae"
+      },
+      {
+        "literal": "Namyoung Kim"
+      },
+      {
+        "literal": "Kai Tzu-iunn Ong"
+      },
+      {
+        "literal": "Minju Gwak"
+      },
+      {
+        "literal": "Gwanwoo Song"
+      },
+      {
+        "literal": "Jihoon Kim"
+      },
+      {
+        "literal": "Sunghwan Kim"
+      },
+      {
+        "literal": "Dongha Lee"
+      },
+      {
+        "literal": "Jinyoung Yeo"
+      }
+    ],
+    "citation-key": "arxiv_2410_13232",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cae86bff4412bbfa7b969ecd60fe7b695f4b7c5ea1be6a67e97919df762d1108",
+        "submitted_at": "2024-10-17T05:37:00Z",
+        "updated_at": "2025-03-29T08:59:09Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2410.13232v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.13232",
+      "catalog_id": "arxiv:2410.13232",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-10-17",
+      "identifiers": {
+        "arxiv": "2410.13232"
+      },
+      "record_updated_at": "2025-03-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2410.13232",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2024-10-17; Recorded arXiv version: v2; Recorded version updated: 2025-03-29T08:59:09Z.",
+    "title": "Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2411.06559v2",
+    "archive": "arXiv",
+    "archive_location": "2411.06559",
+    "author": [
+      {
+        "literal": "Yu Gu"
+      },
+      {
+        "literal": "Kai Zhang"
+      },
+      {
+        "literal": "Yuting Ning"
+      },
+      {
+        "literal": "Boyuan Zheng"
+      },
+      {
+        "literal": "Boyu Gou"
+      },
+      {
+        "literal": "Tianci Xue"
+      },
+      {
+        "literal": "Cheng Chang"
+      },
+      {
+        "literal": "Sanjari Srivastava"
+      },
+      {
+        "literal": "Yanan Xie"
+      },
+      {
+        "literal": "Peng Qi"
+      },
+      {
+        "literal": "Huan Sun"
+      },
+      {
+        "literal": "Yu Su"
+      }
+    ],
+    "citation-key": "arxiv_2411_06559",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9ecaca6448aae5c8849d008d820d700bfa438ed0248f85be585b0b831408b9b6",
+        "submitted_at": "2024-11-10T18:50:51Z",
+        "updated_at": "2025-04-01T05:04:47Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2411.06559v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2411.06559",
+      "catalog_id": "arxiv:2411.06559",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-11-10",
+      "identifiers": {
+        "arxiv": "2411.06559"
+      },
+      "record_updated_at": "2025-04-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2411.06559",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          10
+        ]
+      ]
+    },
+    "note": "First published: 2024-11-10; Recorded arXiv version: v2; Recorded version updated: 2025-04-01T05:04:47Z.",
+    "title": "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2502.18906v1",
+    "archive": "arXiv",
+    "archive_location": "2502.18906",
+    "author": [
+      {
+        "literal": "Jiani Zheng"
+      },
+      {
+        "literal": "Lu Wang"
+      },
+      {
+        "literal": "Fangkai Yang"
+      },
+      {
+        "literal": "Chaoyun Zhang"
+      },
+      {
+        "literal": "Lingrui Mei"
+      },
+      {
+        "literal": "Wenjie Yin"
+      },
+      {
+        "literal": "Qingwei Lin"
+      },
+      {
+        "literal": "Dongmei Zhang"
+      },
+      {
+        "literal": "Saravan Rajmohan"
+      },
+      {
+        "literal": "Qi Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2502_18906",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6d69b006a298a591aacfe7f29df63f508113c0ec824ede82a0bb5bbb9cb66266",
+        "submitted_at": "2025-02-26T07:52:02Z",
+        "updated_at": "2025-02-26T07:52:02Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2502.18906v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2502.18906",
+      "catalog_id": "arxiv:2502.18906",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-02-26",
+      "identifiers": {
+        "arxiv": "2502.18906"
+      },
+      "record_updated_at": "2025-02-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2502.18906",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2025-02-26; Recorded arXiv version: v1; Recorded version updated: 2025-02-26T07:52:02Z.",
+    "title": "VEM: Environment-Free Exploration for Training GUI Agent with Value Environment Model",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2504.13936v2",
+    "archive": "arXiv",
+    "archive_location": "2504.13936",
+    "author": [
+      {
+        "literal": "Dezhao Luo"
+      },
+      {
+        "literal": "Bohan Tang"
+      },
+      {
+        "literal": "Kang Li"
+      },
+      {
+        "literal": "Georgios Papoudakis"
+      },
+      {
+        "literal": "Jifei Song"
+      },
+      {
+        "literal": "Shaogang Gong"
+      },
+      {
+        "literal": "Jianye Hao"
+      },
+      {
+        "literal": "Jun Wang"
+      },
+      {
+        "literal": "Kun Shao"
+      }
+    ],
+    "citation-key": "arxiv_2504_13936",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "15e00237ef710c37c0c9f7768d699f57e9d5dcc190e8de7e20e9ec3b21b82750",
+        "submitted_at": "2025-04-15T14:03:10Z",
+        "updated_at": "2025-05-20T14:11:37Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2504.13936v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2504.13936",
+      "catalog_id": "arxiv:2504.13936",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-04-15",
+      "identifiers": {
+        "arxiv": "2504.13936"
+      },
+      "record_updated_at": "2025-05-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2504.13936",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2025-04-15; Recorded arXiv version: v2; Recorded version updated: 2025-05-20T14:11:37Z.",
+    "title": "ViMo: A Generative Visual GUI World Model for App Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2504.21024v2",
+    "archive": "arXiv",
+    "archive_location": "2504.21024",
+    "author": [
+      {
+        "literal": "Tianqing Fang"
+      },
+      {
+        "literal": "Hongming Zhang"
+      },
+      {
+        "literal": "Zhisong Zhang"
+      },
+      {
+        "literal": "Kaixin Ma"
+      },
+      {
+        "literal": "Wenhao Yu"
+      },
+      {
+        "literal": "Haitao Mi"
+      },
+      {
+        "literal": "Dong Yu"
+      }
+    ],
+    "citation-key": "arxiv_2504_21024",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "86ca58c92ffc2cbbcb0297d8c7618dfab966e36a07b141c068998b0f2934d11e",
+        "submitted_at": "2025-04-23T02:54:31Z",
+        "updated_at": "2025-08-21T05:55:43Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2504.21024v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2504.21024",
+      "catalog_id": "arxiv:2504.21024",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-04-23",
+      "identifiers": {
+        "arxiv": "2504.21024"
+      },
+      "record_updated_at": "2025-08-21"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2504.21024",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2025-04-23; Recorded arXiv version: v2; Recorded version updated: 2025-08-21T05:55:43Z.",
+    "title": "WebEvolver: Enhancing Web Agent Self-Improvement with Coevolving World Model",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2505.19095v1",
+    "archive": "arXiv",
+    "archive_location": "2505.19095",
+    "author": [
+      {
+        "literal": "Runliang Niu"
+      },
+      {
+        "literal": "Jinglong Ji"
+      },
+      {
+        "literal": "Yi Chang"
+      },
+      {
+        "literal": "Qi Wang"
+      }
+    ],
+    "citation-key": "arxiv_2505_19095",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "bb782466eccc7a271c89a4161c7b142f93f8f0d585cad39a1ccad048cf514426",
+        "submitted_at": "2025-05-25T11:13:03Z",
+        "updated_at": "2025-05-25T11:13:03Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2505.19095v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.19095",
+      "catalog_id": "arxiv:2505.19095",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-05-25",
+      "identifiers": {
+        "arxiv": "2505.19095"
+      },
+      "record_updated_at": "2025-05-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.19095",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-25; Recorded arXiv version: v1; Recorded version updated: 2025-05-25T11:13:03Z.",
+    "title": "ScreenExplorer: Training a Vision-Language Model for Diverse Exploration in Open GUI World",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2508.04700v2",
+    "archive": "arXiv",
+    "archive_location": "2508.04700",
+    "author": [
+      {
+        "literal": "Zeyi Sun"
+      },
+      {
+        "literal": "Ziyu Liu"
+      },
+      {
+        "literal": "Yuhang Zang"
+      },
+      {
+        "literal": "Yuhang Cao"
+      },
+      {
+        "literal": "Xiaoyi Dong"
+      },
+      {
+        "literal": "Tong Wu"
+      },
+      {
+        "literal": "Dahua Lin"
+      },
+      {
+        "literal": "Jiaqi Wang"
+      }
+    ],
+    "citation-key": "arxiv_2508_04700",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "268c38e6f11f11771a1251fc522112ff052557b5753dff6cadf2ba49c0ec04b2",
+        "submitted_at": "2025-08-06T17:58:46Z",
+        "updated_at": "2025-08-12T15:11:53Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2508.04700v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2508.04700",
+      "catalog_id": "arxiv:2508.04700",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-08-06",
+      "identifiers": {
+        "arxiv": "2508.04700"
+      },
+      "record_updated_at": "2025-08-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2508.04700",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2025-08-06; Recorded arXiv version: v2; Recorded version updated: 2025-08-12T15:11:53Z.",
+    "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.11892v2",
+    "archive": "arXiv",
+    "archive_location": "2510.11892",
+    "author": [
+      {
+        "literal": "Kai Mei"
+      },
+      {
+        "literal": "Jiang Guo"
+      },
+      {
+        "literal": "Shuaichen Chang"
+      },
+      {
+        "literal": "Mingwen Dong"
+      },
+      {
+        "literal": "Dongkyu Lee"
+      },
+      {
+        "literal": "Xing Niu"
+      },
+      {
+        "literal": "Jiarong Jiang"
+      }
+    ],
+    "citation-key": "arxiv_2510_11892",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7c37dae372655e8ef556163744e47ed42db3533175ca7d1db7560033774ed2a0",
+        "submitted_at": "2025-10-13T19:52:04Z",
+        "updated_at": "2026-03-09T15:25:16Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2510.11892v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.11892",
+      "catalog_id": "arxiv:2510.11892",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-13",
+      "identifiers": {
+        "arxiv": "2510.11892"
+      },
+      "record_updated_at": "2026-03-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.11892",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          13
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-13; Recorded arXiv version: v2; Recorded version updated: 2026-03-09T15:25:16Z.",
+    "title": "R-WoM: Retrieval-augmented World Model For Computer-use Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2512.14014v2",
+    "archive": "arXiv",
+    "archive_location": "2512.14014",
+    "author": [
+      {
+        "literal": "Shufan Li"
+      },
+      {
+        "literal": "Konstantinos Kallidromitis"
+      },
+      {
+        "literal": "Akash Gokul"
+      },
+      {
+        "literal": "Yusuke Kato"
+      },
+      {
+        "literal": "Kazuki Kozuka"
+      },
+      {
+        "literal": "Aditya Grover"
+      }
+    ],
+    "citation-key": "arxiv_2512_14014",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e6228822cf64c6aeb1836bee52a6515123bd0d44d77cceb23e785bb4ff9aef47",
+        "submitted_at": "2025-12-16T02:16:42Z",
+        "updated_at": "2026-10-07T23:06:49Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2512.14014v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2512.14014",
+      "catalog_id": "arxiv:2512.14014",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-12-16",
+      "identifiers": {
+        "arxiv": "2512.14014"
+      },
+      "record_updated_at": "2026-10-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2512.14014",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2025-12-16; Recorded arXiv version: v2; Recorded version updated: 2026-10-07T23:06:49Z.",
+    "title": "MobileWorldBench: Towards Semantic World Modeling For Mobile Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2601.04035v2",
+    "archive": "arXiv",
+    "archive_location": "2601.04035",
+    "author": [
+      {
+        "literal": "Yilin Cao"
+      },
+      {
+        "literal": "Yufeng Zhong"
+      },
+      {
+        "literal": "Zhixiong Zeng"
+      },
+      {
+        "literal": "Siran Dai"
+      },
+      {
+        "literal": "Liming Zheng"
+      },
+      {
+        "literal": "Jing Huang"
+      },
+      {
+        "literal": "Haibo Qiu"
+      },
+      {
+        "literal": "Peng Shi"
+      },
+      {
+        "literal": "Wenji Mao"
+      }
+    ],
+    "citation-key": "arxiv_2601_04035",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c40e3db3f538f089c19d7c8233ea01174d0591c3211a7acc412ee4df28e902a8",
+        "submitted_at": "2026-01-07T15:51:44Z",
+        "updated_at": "2026-08-31T13:27:52Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2601.04035v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.04035",
+      "catalog_id": "arxiv:2601.04035",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-01-07",
+      "identifiers": {
+        "arxiv": "2601.04035"
+      },
+      "record_updated_at": "2026-08-31"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.04035",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-07; Recorded arXiv version: v2; Recorded version updated: 2026-08-31T13:27:52Z.",
+    "title": "MobileDreamer: Generative Sketch World Model for GUI Agent",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2601.22149v2",
+    "archive": "arXiv",
+    "archive_location": "2601.22149",
+    "author": [
+      {
+        "literal": "Hang Ding"
+      },
+      {
+        "literal": "Peidong Liu"
+      },
+      {
+        "literal": "Junqiao Wang"
+      },
+      {
+        "literal": "Ziwei Ji"
+      },
+      {
+        "literal": "Meng Cao"
+      },
+      {
+        "literal": "Rongzhao Zhang"
+      },
+      {
+        "literal": "Lynn Ai"
+      },
+      {
+        "literal": "Eric Yang"
+      },
+      {
+        "literal": "Tianyu Shi"
+      },
+      {
+        "literal": "Lei Yu"
+      }
+    ],
+    "citation-key": "arxiv_2601_22149",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "aedb5ed90c91d72f62f5ab60be5374b6f431f887425bc760883ce3fb85a46d43",
+        "submitted_at": "2026-01-29T18:59:07Z",
+        "updated_at": "2026-04-17T18:27:53Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2601.22149v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.22149",
+      "catalog_id": "arxiv:2601.22149",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-01-29",
+      "identifiers": {
+        "arxiv": "2601.22149"
+      },
+      "record_updated_at": "2026-04-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.22149",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-29; Recorded arXiv version: v2; Recorded version updated: 2026-04-17T18:27:53Z.",
+    "title": "DynaWeb: Model-Based Reinforcement Learning of Web Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.01576v2",
+    "archive": "arXiv",
+    "archive_location": "2602.01576",
+    "author": [
+      {
+        "literal": "Woosung Koh"
+      },
+      {
+        "literal": "Sungjun Han"
+      },
+      {
+        "literal": "Segyu Lee"
+      },
+      {
+        "literal": "Se-Young Yun"
+      },
+      {
+        "literal": "Jamin Shin"
+      }
+    ],
+    "citation-key": "arxiv_2602_01576",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7c29d1404b02c4f5ef2cdaf78bdb0f9062b1b85ec1a154408bc8f49446c28d08",
+        "submitted_at": "2026-02-02T03:12:16Z",
+        "updated_at": "2026-05-23T02:41:44Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2602.01576v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.01576",
+      "catalog_id": "arxiv:2602.01576",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-02",
+      "identifiers": {
+        "arxiv": "2602.01576"
+      },
+      "record_updated_at": "2026-05-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.01576",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-02; Recorded arXiv version: v2; Recorded version updated: 2026-05-23T02:41:44Z.",
+    "title": "Generative Visual Code Mobile World Models",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.01725v1",
+    "archive": "arXiv",
+    "archive_location": "2602.01725",
+    "author": [
+      {
+        "literal": "Yurun Chen"
+      },
+      {
+        "literal": "Zeyi Liao"
+      },
+      {
+        "literal": "Ping Yin"
+      },
+      {
+        "literal": "Taotao Xie"
+      },
+      {
+        "literal": "Keting Yin"
+      },
+      {
+        "literal": "Shengyu Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2602_01725",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d1a6f98c0ab0a221c169796d9680e4b2a7bf7a0775c0493254f47d5e0a9b3c4e",
+        "submitted_at": "2026-02-02T07:04:06Z",
+        "updated_at": "2026-02-02T07:04:06Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2602.01725v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.01725",
+      "catalog_id": "arxiv:2602.01725",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-02",
+      "identifiers": {
+        "arxiv": "2602.01725"
+      },
+      "record_updated_at": "2026-02-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.01725",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-02; Recorded arXiv version: v1; Recorded version updated: 2026-02-02T07:04:06Z.",
+    "title": "SafePred: A Predictive Guardrail for Computer-Using Agents via World Models",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.09856v1",
+    "archive": "arXiv",
+    "archive_location": "2602.09856",
+    "author": [
+      {
+        "literal": "Yuhao Zheng"
+      },
+      {
+        "literal": "Li'an Zhong"
+      },
+      {
+        "literal": "Yi Wang"
+      },
+      {
+        "literal": "Rui Dai"
+      },
+      {
+        "literal": "Kaikui Liu"
+      },
+      {
+        "literal": "Xiangxiang Chu"
+      },
+      {
+        "literal": "Linyuan Lv"
+      },
+      {
+        "literal": "Philip Torr"
+      },
+      {
+        "literal": "Kevin Qinghong Lin"
+      }
+    ],
+    "citation-key": "arxiv_2602_09856",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "55287e2fe8a5e94671e4aab8e9d4a907ba9b6c83306d9b3f61b74adccd5c5059",
+        "submitted_at": "2026-02-10T14:56:19Z",
+        "updated_at": "2026-02-10T14:56:19Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2602.09856v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.09856",
+      "catalog_id": "arxiv:2602.09856",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-10",
+      "identifiers": {
+        "arxiv": "2602.09856"
+      },
+      "record_updated_at": "2026-02-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.09856",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          10
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-10; Recorded arXiv version: v1; Recorded version updated: 2026-02-10T14:56:19Z.",
+    "title": "Code2World: A GUI World Model via Renderable Code Generation",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.15550v3",
+    "archive": "arXiv",
+    "archive_location": "2607.15550",
+    "author": [
+      {
+        "literal": "Xue Yu"
+      },
+      {
+        "literal": "Bo Yuan"
+      },
+      {
+        "literal": "Kailin Zhao"
+      },
+      {
+        "literal": "Pengshuai Yang"
+      },
+      {
+        "literal": "Hong Hu"
+      },
+      {
+        "literal": "Junlan Feng"
+      }
+    ],
+    "citation-key": "arxiv_2607_15550",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6a15963a7fb4dfd488f0e79732d9ea0c9a03d43c1e3d5e50dd1ee8e00f1072be",
+        "submitted_at": "2026-07-17T01:45:54Z",
+        "updated_at": "2026-09-02T01:49:21Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2607.15550v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.15550",
+      "catalog_id": "arxiv:2607.15550",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-17",
+      "identifiers": {
+        "arxiv": "2607.15550"
+      },
+      "record_updated_at": "2026-09-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.15550",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-17; Recorded arXiv version: v3; Recorded version updated: 2026-09-02T01:49:21Z.",
+    "title": "SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.17050v1",
+    "archive": "arXiv",
+    "archive_location": "2607.17050",
+    "author": [
+      {
+        "literal": "Yaohan Yang"
+      },
+      {
+        "literal": "Minglei Shi"
+      },
+      {
+        "literal": "Borui Zhang"
+      },
+      {
+        "literal": "Jie Zhou"
+      },
+      {
+        "literal": "Jiwen Lu"
+      }
+    ],
+    "citation-key": "arxiv_2607_17050",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6488798626abbec89ca739a0c5d188ae440484eb59b3be11f2b319ce742b22ec",
+        "submitted_at": "2026-07-19T03:29:08Z",
+        "updated_at": "2026-07-19T03:29:08Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2607.17050v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.17050",
+      "catalog_id": "arxiv:2607.17050",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-19",
+      "identifiers": {
+        "arxiv": "2607.17050"
+      },
+      "record_updated_at": "2026-07-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.17050",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-19; Recorded arXiv version: v1; Recorded version updated: 2026-07-19T03:29:08Z.",
+    "title": "EvoGUI: An Evolution-Aware Benchmark for GUI State-Transition Understanding",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.24112v1",
+    "archive": "arXiv",
+    "archive_location": "2607.24112",
+    "author": [
+      {
+        "literal": "Xiangyan Liu"
+      },
+      {
+        "literal": "Kaixin Li"
+      },
+      {
+        "literal": "Haonan Wang"
+      },
+      {
+        "literal": "Biao Wu"
+      },
+      {
+        "literal": "Meng Fang"
+      },
+      {
+        "literal": "Longxu Dou"
+      },
+      {
+        "literal": "Chao Du"
+      },
+      {
+        "literal": "Michael Qizhe Shieh"
+      },
+      {
+        "literal": "Tianyu Pang"
+      }
+    ],
+    "citation-key": "arxiv_2607_24112",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4651964cbe45e4d740ed8f789753f82ae808e442d82c6598e7b3c997c09453c3",
+        "submitted_at": "2026-07-27T07:54:08Z",
+        "updated_at": "2026-07-27T07:54:08Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2607.24112v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.24112",
+      "catalog_id": "arxiv:2607.24112",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-27",
+      "identifiers": {
+        "arxiv": "2607.24112"
+      },
+      "record_updated_at": "2026-07-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.24112",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-27; Recorded arXiv version: v1; Recorded version updated: 2026-07-27T07:54:08Z.",
+    "title": "Scaling GUI Agents with Visual State Transitions",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2608.27508v1",
+    "archive": "arXiv",
+    "archive_location": "2608.27508",
+    "author": [
+      {
+        "literal": "Yu Han"
+      },
+      {
+        "literal": "Tianwen Qian"
+      }
+    ],
+    "citation-key": "arxiv_2608_27508",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "576702fae164cbcb4adc86a81115487aae7e1c40cf07a1ecf3ef7c4c7e822c3b",
+        "submitted_at": "2026-08-27T07:09:28Z",
+        "updated_at": "2026-08-27T07:09:28Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2608.27508v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.27508",
+      "catalog_id": "arxiv:2608.27508",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-08-27",
+      "identifiers": {
+        "arxiv": "2608.27508"
+      },
+      "record_updated_at": "2026-08-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.27508",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-27; Recorded arXiv version: v1; Recorded version updated: 2026-08-27T07:09:28Z.",
+    "title": "WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2609.00048v1",
+    "archive": "arXiv",
+    "archive_location": "2609.00048",
+    "author": [
+      {
+        "literal": "Lin Fu"
+      },
+      {
+        "literal": "Zheyuan Yang"
+      },
+      {
+        "literal": "Tianhui Zhang"
+      },
+      {
+        "literal": "Jinbiao Wei"
+      },
+      {
+        "literal": "Guo Gan"
+      },
+      {
+        "literal": "Boxu Liu"
+      },
+      {
+        "literal": "Yilun Zhao"
+      },
+      {
+        "literal": "Yu Rong"
+      }
+    ],
+    "citation-key": "arxiv_2609_00048",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "dba8eb3f30a7e88ad973080d07fbf272f63400f4f8fa858d5f2657735ce093c0",
+        "submitted_at": "2026-08-30T05:19:43Z",
+        "updated_at": "2026-08-30T05:19:43Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.00048v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.00048",
+      "catalog_id": "arxiv:2609.00048",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-08-30",
+      "identifiers": {
+        "arxiv": "2609.00048"
+      },
+      "record_updated_at": "2026-08-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.00048",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-30; Recorded arXiv version: v1; Recorded version updated: 2026-08-30T05:19:43Z.",
+    "title": "GUI-CC: Benchmarking Contextual Consistency of GUI World Models as Agent Environments",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2609.32679v1",
+    "archive": "arXiv",
+    "archive_location": "2609.32679",
+    "author": [
+      {
+        "literal": "Dongsheng Liu"
+      },
+      {
+        "literal": "Chao Jin"
+      },
+      {
+        "literal": "Wenkui Yang"
+      },
+      {
+        "literal": "Hejin Wang"
+      },
+      {
+        "literal": "Junwei Yang"
+      },
+      {
+        "literal": "Zeren Zhang"
+      },
+      {
+        "literal": "Ziwei Chen"
+      },
+      {
+        "literal": "Huaibo Huang"
+      },
+      {
+        "literal": "Jie Cao"
+      },
+      {
+        "literal": "Ran He"
+      }
+    ],
+    "citation-key": "arxiv_2609_32679",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d641819d168eedc07270607da33f3197c15f2f90cf99f538c3839eed506f3308",
+        "submitted_at": "2026-09-26T14:35:45Z",
+        "updated_at": "2026-09-26T14:35:45Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.32679v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.32679",
+      "catalog_id": "arxiv:2609.32679",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-26",
+      "identifiers": {
+        "arxiv": "2609.32679"
+      },
+      "record_updated_at": "2026-09-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.32679",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-26; Recorded arXiv version: v1; Recorded version updated: 2026-09-26T14:35:45Z.",
+    "title": "The GUI Is Not the State: Diagnosing State Aliasing in GUI World Models",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2609.36923v1",
+    "archive": "arXiv",
+    "archive_location": "2609.36923",
+    "author": [
+      {
+        "literal": "Bin Kang"
+      },
+      {
+        "literal": "Jiarui Ouyang"
+      },
+      {
+        "literal": "Li Jiang"
+      },
+      {
+        "literal": "Bin Chen"
+      },
+      {
+        "literal": "Zhuotao Tian"
+      }
+    ],
+    "citation-key": "arxiv_2609_36923",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e3af30198735ca9b9d192e15acbb7f8a37fe222fa2c0c1d2ccff448ef5e79f55",
+        "submitted_at": "2026-09-29T07:41:34Z",
+        "updated_at": "2026-09-29T07:41:34Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.36923v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.36923",
+      "catalog_id": "arxiv:2609.36923",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-29",
+      "identifiers": {
+        "arxiv": "2609.36923"
+      },
+      "record_updated_at": "2026-09-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.36923",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T07:41:34Z.",
+    "title": "PrecogUI: Proactive GUI Agents via Pre-cognitive Simulation and Experience Retrieval",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.01215v1",
+    "archive": "arXiv",
+    "archive_location": "2610.01215",
+    "author": [
+      {
+        "literal": "Cheng Yang"
+      },
+      {
+        "literal": "Yifan Wu"
+      },
+      {
+        "literal": "Yutao Huang"
+      },
+      {
+        "literal": "Zhaohua Zhang"
+      },
+      {
+        "literal": "Beiduo Chen"
+      },
+      {
+        "literal": "Muxi Chen"
+      },
+      {
+        "literal": "Chenchen Zhao"
+      },
+      {
+        "literal": "Hexuan Deng"
+      },
+      {
+        "literal": "Haolin Yang"
+      },
+      {
+        "literal": "Geyuan Zhu"
+      },
+      {
+        "literal": "Sa Zhu"
+      },
+      {
+        "literal": "Jianhuan Zhuo"
+      },
+      {
+        "literal": "Qiuyong Xiao"
+      },
+      {
+        "literal": "Jianhao Ruan"
+      },
+      {
+        "literal": "Yiran Peng"
+      },
+      {
+        "literal": "Jiayi Zhang"
+      },
+      {
+        "literal": "Tian Ye"
+      },
+      {
+        "literal": "Xinlei Yu"
+      },
+      {
+        "literal": "Tianwen Jiang"
+      },
+      {
+        "literal": "Jihong Zhang"
+      },
+      {
+        "literal": "Yuyu Luo"
+      }
+    ],
+    "citation-key": "arxiv_2610_01215",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ecd40b78c6de41abb442705b993aad8ebf7b35741536a11e00ebbd60140d1f18",
+        "submitted_at": "2026-10-01T07:22:53Z",
+        "updated_at": "2026-10-01T07:22:53Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.01215v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.01215",
+      "catalog_id": "arxiv:2610.01215",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-01",
+      "identifiers": {
+        "arxiv": "2610.01215"
+      },
+      "record_updated_at": "2026-10-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.01215",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          1
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T07:22:53Z.",
+    "title": "AutoGUIWorld: Image Generators as Visual World Models for GUI Agent",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.05861v1",
+    "archive": "arXiv",
+    "archive_location": "2610.05861",
+    "author": [
+      {
+        "literal": "Yongxin Ning"
+      },
+      {
+        "literal": "Runliang Niu"
+      },
+      {
+        "literal": "Qianli Xing"
+      },
+      {
+        "literal": "Zhiyi Duan"
+      },
+      {
+        "literal": "Qingzu He"
+      },
+      {
+        "literal": "Pan Wang"
+      },
+      {
+        "literal": "Qi Wang"
+      }
+    ],
+    "citation-key": "arxiv_2610_05861",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "43845ad64843a0b019c1988d4ba861eccee3c48a7b2c09d0bae7794e5e86347a",
+        "submitted_at": "2026-10-05T06:28:58Z",
+        "updated_at": "2026-10-05T06:28:58Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.05861v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.05861",
+      "catalog_id": "arxiv:2610.05861",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-05",
+      "identifiers": {
+        "arxiv": "2610.05861"
+      },
+      "record_updated_at": "2026-10-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.05861",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-05; Recorded arXiv version: v1; Recorded version updated: 2026-10-05T06:28:58Z.",
+    "title": "Imagine to Act: High-Fidelity Data Synthesis via Image Editing World Model for Scalable GUI Agent Training",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.08773v1",
+    "archive": "arXiv",
+    "archive_location": "2610.08773",
+    "author": [
+      {
+        "literal": "Sarim Hashmi"
+      },
+      {
+        "literal": "Mukul Ranjan"
+      },
+      {
+        "literal": "Kshitij Mishra"
+      },
+      {
+        "literal": "Mikhail Kuznetsov"
+      },
+      {
+        "literal": "Praneeth Vepakomma"
+      },
+      {
+        "literal": "Nils Lukas"
+      }
+    ],
+    "citation-key": "arxiv_2610_08773",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7113025e0dfd784d6994108c24681000625b13598e33ad0e4324e90fd2832c19",
+        "submitted_at": "2026-10-06T17:56:43Z",
+        "updated_at": "2026-10-06T17:56:43Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.08773v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.08773",
+      "catalog_id": "arxiv:2610.08773",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-06",
+      "identifiers": {
+        "arxiv": "2610.08773"
+      },
+      "record_updated_at": "2026-10-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.08773",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-06; Recorded arXiv version: v1; Recorded version updated: 2026-10-06T17:56:43Z.",
+    "title": "AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.11942v1",
+    "archive": "arXiv",
+    "archive_location": "2610.11942",
+    "author": [
+      {
+        "literal": "Jiaming Zhang"
+      },
+      {
+        "literal": "Xuan Wang"
+      },
+      {
+        "literal": "Fuyao Zhang"
+      },
+      {
+        "literal": "Yang Cao"
+      },
+      {
+        "literal": "Lingjuan Lyu"
+      },
+      {
+        "literal": "Wei Yang Bryan Lim"
+      }
+    ],
+    "citation-key": "arxiv_2610_11942",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "53120f960c7b98e87210c93ac661a2e397b858cc9f211786b0f8233fa61c6dd3",
+        "submitted_at": "2026-10-08T13:33:23Z",
+        "updated_at": "2026-10-08T13:33:23Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.11942v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.11942",
+      "catalog_id": "arxiv:2610.11942",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-08",
+      "identifiers": {
+        "arxiv": "2610.11942"
+      },
+      "record_updated_at": "2026-10-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.11942",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T13:33:23Z.",
+    "title": "Right Screen, Wrong Transition: World Models as Verifiers for GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.14228v1",
+    "archive": "arXiv",
+    "archive_location": "2610.14228",
+    "author": [
+      {
+        "literal": "Seungjun Yu"
+      },
+      {
+        "literal": "Hojun Choi"
+      },
+      {
+        "literal": "Seojeong Park"
+      },
+      {
+        "literal": "Jaeyo Shin"
+      },
+      {
+        "literal": "Hyunjung Shim"
+      }
+    ],
+    "citation-key": "arxiv_2610_14228",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "191e88c19124ddaddc2fed2f0e3f8e197a4c0c7f8adbc3997c056d3333754042",
+        "submitted_at": "2026-10-09T18:45:11Z",
+        "updated_at": "2026-10-09T18:45:11Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.14228v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.14228",
+      "catalog_id": "arxiv:2610.14228",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-09",
+      "identifiers": {
+        "arxiv": "2610.14228"
+      },
+      "record_updated_at": "2026-10-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.14228",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T18:45:11Z.",
+    "title": "Latent World Action Model for GUI Agents",
+    "type": "article",
+    "version": "1"
+  }
+]

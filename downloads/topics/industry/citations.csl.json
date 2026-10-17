@@ -1,0 +1,633 @@
+[
+  {
+    "URL": "https://arxiv.org/abs/2407.15673v3",
+    "archive": "arXiv",
+    "archive_location": "2407.15673",
+    "author": [
+      {
+        "literal": "Segev Shlomov"
+      },
+      {
+        "literal": "Avi Yaeli"
+      },
+      {
+        "literal": "Sami Marreed"
+      },
+      {
+        "literal": "Sivan Schwartz"
+      },
+      {
+        "literal": "Netanel Eder"
+      },
+      {
+        "literal": "Offer Akrabi"
+      },
+      {
+        "literal": "Sergey Zeltyn"
+      }
+    ],
+    "citation-key": "arxiv_2407_15673",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4caa87e0b88d9375a23ca412ed19b3806f67712ca4ac222a39746e08ee80b07d",
+        "submitted_at": "2024-07-22T14:41:32Z",
+        "updated_at": "2024-08-18T09:02:43Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2407.15673v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2407.15673",
+      "catalog_id": "arxiv:2407.15673",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-07-22",
+      "identifiers": {
+        "arxiv": "2407.15673"
+      },
+      "record_updated_at": "2024-08-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2407.15673",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2024-07-22; Recorded arXiv version: v3; Recorded version updated: 2024-08-18T09:02:43Z.",
+    "title": "IDA: Breaking Barriers in No-code UI Automation Through Large Language Models and Human-Centric Design",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2506.07217v2",
+    "archive": "arXiv",
+    "archive_location": "2506.07217",
+    "author": [
+      {
+        "literal": "Zihan Deng"
+      },
+      {
+        "literal": "Changyu Du"
+      },
+      {
+        "literal": "Stavros Nousias"
+      },
+      {
+        "literal": "André Borrmann"
+      }
+    ],
+    "citation-key": "arxiv_2506_07217",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2bf4f91de32fdf3bd9b81ba64ace02e4a7d02ff094794f30dfd560389f334cea",
+        "submitted_at": "2025-06-08T16:45:31Z",
+        "updated_at": "2025-06-30T08:31:07Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2506.07217v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2506.07217",
+      "catalog_id": "arxiv:2506.07217",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-06-08",
+      "identifiers": {
+        "arxiv": "2506.07217"
+      },
+      "record_updated_at": "2025-06-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2506.07217",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2025-06-08; Recorded arXiv version: v2; Recorded version updated: 2025-06-30T08:31:07Z.",
+    "title": "BIMgent: Towards Autonomous Building Modeling via Computer-use Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.13704v1",
+    "archive": "arXiv",
+    "archive_location": "2509.13704",
+    "author": [
+      {
+        "literal": "Liangtao Lin"
+      },
+      {
+        "literal": "Zhaomeng Zhu"
+      },
+      {
+        "literal": "Tianwei Zhang"
+      },
+      {
+        "literal": "Yonggang Wen"
+      }
+    ],
+    "citation-key": "arxiv_2509_13704",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2c1a4019df77278943829e16b155771abb1c8ca30726044cf5969227e0437f5f",
+        "submitted_at": "2025-09-17T05:14:11Z",
+        "updated_at": "2025-09-17T05:14:11Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2509.13704v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.13704",
+      "catalog_id": "arxiv:2509.13704",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-17",
+      "identifiers": {
+        "arxiv": "2509.13704"
+      },
+      "record_updated_at": "2025-09-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.13704",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-17; Recorded arXiv version: v1; Recorded version updated: 2025-09-17T05:14:11Z.",
+    "title": "InfraMind: A Novel Exploration-based GUI Agentic Framework for Mission-critical Industrial Management",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.21982v2",
+    "archive": "arXiv",
+    "archive_location": "2509.21982",
+    "author": [
+      {
+        "literal": "Renqi Chen"
+      },
+      {
+        "literal": "Zeyin Tao"
+      },
+      {
+        "literal": "Jianming Guo"
+      },
+      {
+        "literal": "Jingzhe Zhu"
+      },
+      {
+        "literal": "Yiheng Peng"
+      },
+      {
+        "literal": "Qingqing Sun"
+      },
+      {
+        "literal": "Tianyi Zhang"
+      },
+      {
+        "literal": "Shuai Chen"
+      }
+    ],
+    "citation-key": "arxiv_2509_21982",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d23b9f33282f77b9d4965078ca993bcf21163dc1d3210aaa4e554d4fc12b37c5",
+        "submitted_at": "2025-09-26T07:05:01Z",
+        "updated_at": "2026-04-13T03:14:30Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2509.21982v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.21982",
+      "catalog_id": "arxiv:2509.21982",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-26",
+      "identifiers": {
+        "arxiv": "2509.21982"
+      },
+      "record_updated_at": "2026-04-13"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.21982",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-26; Recorded arXiv version: v2; Recorded version updated: 2026-04-13T03:14:30Z.",
+    "title": "RISK: A Framework for GUI Agents in E-commerce Risk Management",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.26506v1",
+    "archive": "arXiv",
+    "archive_location": "2509.26506",
+    "author": [
+      {
+        "literal": "Yutong Dai"
+      },
+      {
+        "literal": "Krithika Ramakrishnan"
+      },
+      {
+        "literal": "Jing Gu"
+      },
+      {
+        "literal": "Matthew Fernandez"
+      },
+      {
+        "literal": "Yanqi Luo"
+      },
+      {
+        "literal": "Viraj Prabhu"
+      },
+      {
+        "literal": "Zhenyu Hu"
+      },
+      {
+        "literal": "Silvio Savarese"
+      },
+      {
+        "literal": "Caiming Xiong"
+      },
+      {
+        "literal": "Zeyuan Chen"
+      },
+      {
+        "literal": "Ran Xu"
+      }
+    ],
+    "citation-key": "arxiv_2509_26506",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0e22d26dfbda8530f32d4686f26d91ea1a8e8c5470e857f2e13803258a2f7aaf",
+        "submitted_at": "2025-09-30T16:48:49Z",
+        "updated_at": "2025-09-30T16:48:49Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2509.26506v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.26506",
+      "catalog_id": "arxiv:2509.26506",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-30",
+      "identifiers": {
+        "arxiv": "2509.26506"
+      },
+      "record_updated_at": "2025-09-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.26506",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-30; Recorded arXiv version: v1; Recorded version updated: 2025-09-30T16:48:49Z.",
+    "title": "SCUBA: Salesforce Computer Use Benchmark",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2511.17131v1",
+    "archive": "arXiv",
+    "archive_location": "2511.17131",
+    "author": [
+      {
+        "literal": "Horia Cristescu"
+      },
+      {
+        "literal": "Charles Park"
+      },
+      {
+        "literal": "Trong Canh Nguyen"
+      },
+      {
+        "literal": "Sergiu Talmacel"
+      },
+      {
+        "literal": "Alexandru-Gabriel Ilie"
+      },
+      {
+        "literal": "Stefan Adam"
+      }
+    ],
+    "citation-key": "arxiv_2511_17131",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4c746b329229d90dbe3d04a138f54c8b205b16ec6173cf681d47a319c8f24ddf",
+        "submitted_at": "2025-11-21T10:47:22Z",
+        "updated_at": "2025-11-21T10:47:22Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2511.17131v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2511.17131",
+      "catalog_id": "arxiv:2511.17131",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-11-21",
+      "identifiers": {
+        "arxiv": "2511.17131"
+      },
+      "record_updated_at": "2025-11-21"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2511.17131",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          21
+        ]
+      ]
+    },
+    "note": "First published: 2025-11-21; Recorded arXiv version: v1; Recorded version updated: 2025-11-21T10:47:22Z.",
+    "title": "UI-CUBE: Enterprise-Grade Computer Use Agent Benchmarking Beyond Task Accuracy to Operational Reliability",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2512.04105v1",
+    "archive": "arXiv",
+    "archive_location": "2512.04105",
+    "author": [
+      {
+        "literal": "Jinzhe Tan"
+      },
+      {
+        "literal": "Karim Benyekhlef"
+      }
+    ],
+    "citation-key": "arxiv_2512_04105",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d362a839fd1ee917ebdde6fcd794640523e930cd711769154532200903fe7de5",
+        "submitted_at": "2025-11-28T07:26:29Z",
+        "updated_at": "2025-11-28T07:26:29Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2512.04105v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2512.04105",
+      "catalog_id": "arxiv:2512.04105",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-11-28",
+      "identifiers": {
+        "arxiv": "2512.04105"
+      },
+      "record_updated_at": "2025-11-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2512.04105",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2025-11-28; Recorded arXiv version: v1; Recorded version updated: 2025-11-28T07:26:29Z.",
+    "title": "LegalWebAgent: Empowering Access to Justice via LLM-Based Web Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2512.11611v1",
+    "archive": "arXiv",
+    "archive_location": "2512.11611",
+    "author": [
+      {
+        "literal": "Chunyi Li"
+      },
+      {
+        "literal": "Longfei Li"
+      },
+      {
+        "literal": "Zicheng Zhang"
+      },
+      {
+        "literal": "Xiaohong Liu"
+      },
+      {
+        "literal": "Min Tang"
+      },
+      {
+        "literal": "Weisi Lin"
+      },
+      {
+        "literal": "Guangtao Zhai"
+      }
+    ],
+    "citation-key": "arxiv_2512_11611",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "484a51656db4466d5e8630d64fa78d3cf10043568488f5a2e9bae679fa800cbe",
+        "submitted_at": "2025-12-12T14:49:32Z",
+        "updated_at": "2025-12-12T14:49:32Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2512.11611v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2512.11611",
+      "catalog_id": "arxiv:2512.11611",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-12-12",
+      "identifiers": {
+        "arxiv": "2512.11611"
+      },
+      "record_updated_at": "2025-12-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2512.11611",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2025-12-12; Recorded arXiv version: v1; Recorded version updated: 2025-12-12T14:49:32Z.",
+    "title": "Using GUI Agent for Electronic Design Automation",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2601.02399v1",
+    "archive": "arXiv",
+    "archive_location": "2601.02399",
+    "author": [
+      {
+        "literal": "Jiaxin Ai"
+      },
+      {
+        "literal": "Yukang Feng"
+      },
+      {
+        "literal": "Fanrui Zhang"
+      },
+      {
+        "literal": "Jianwen Sun"
+      },
+      {
+        "literal": "Zizhen Li"
+      },
+      {
+        "literal": "Chuanhao Li"
+      },
+      {
+        "literal": "Yifan Chang"
+      },
+      {
+        "literal": "Wenxiao Wu"
+      },
+      {
+        "literal": "Ruoxi Wang"
+      },
+      {
+        "literal": "Mingliang Zhai"
+      },
+      {
+        "literal": "Kaipeng Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2601_02399",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "afab3dcd2444bf8333f2a2fea887819f6fca55c41209d8c449f6211d1c62b819",
+        "submitted_at": "2025-12-30T01:49:46Z",
+        "updated_at": "2025-12-30T01:49:46Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2601.02399v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.02399",
+      "catalog_id": "arxiv:2601.02399",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-12-30",
+      "identifiers": {
+        "arxiv": "2601.02399"
+      },
+      "record_updated_at": "2025-12-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.02399",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2025-12-30; Recorded arXiv version: v1; Recorded version updated: 2025-12-30T01:49:46Z.",
+    "title": "ProSoftArena: Benchmarking Hierarchical Capabilities of Multimodal Agents in Professional Software Environments",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2601.17722v1",
+    "archive": "arXiv",
+    "archive_location": "2601.17722",
+    "author": [
+      {
+        "literal": "Ying Mo"
+      },
+      {
+        "literal": "Yu Bai"
+      },
+      {
+        "literal": "Dapeng Sun"
+      },
+      {
+        "literal": "Yuqian Shi"
+      },
+      {
+        "literal": "Yukai Miao"
+      },
+      {
+        "literal": "Li Chen"
+      },
+      {
+        "literal": "Dan Li"
+      }
+    ],
+    "citation-key": "arxiv_2601_17722",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "fa7c8ce1b0e584c5279691ff06cd522d7c8ea1f4801d7074324c6845ce482efb",
+        "submitted_at": "2026-01-25T06:58:15Z",
+        "updated_at": "2026-01-25T06:58:15Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2601.17722v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.17722",
+      "catalog_id": "arxiv:2601.17722",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-01-25",
+      "identifiers": {
+        "arxiv": "2601.17722"
+      },
+      "record_updated_at": "2026-01-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.17722",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-25; Recorded arXiv version: v1; Recorded version updated: 2026-01-25T06:58:15Z.",
+    "title": "EntWorld: A Holistic Environment and Benchmark for Verifiable Enterprise GUI Agents",
+    "type": "article",
+    "version": "1"
+  }
+]

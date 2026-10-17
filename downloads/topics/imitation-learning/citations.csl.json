@@ -1,0 +1,857 @@
+[
+  {
+    "URL": "https://arxiv.org/abs/1909.00031v2",
+    "archive": "arXiv",
+    "archive_location": "1909.00031",
+    "author": [
+      {
+        "literal": "Toby Jia-Jun Li"
+      },
+      {
+        "literal": "Marissa Radensky"
+      },
+      {
+        "literal": "Justin Jia"
+      },
+      {
+        "literal": "Kirielle Singarajah"
+      },
+      {
+        "literal": "Tom M. Mitchell"
+      },
+      {
+        "literal": "Brad A. Myers"
+      }
+    ],
+    "citation-key": "arxiv_1909_00031",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4cef465f53abcbaad50c83f24e0ce54fb7f23390955e9f7e5592ec0b8287839e",
+        "submitted_at": "2019-08-30T18:35:01Z",
+        "updated_at": "2020-01-07T00:57:53Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/1909.00031v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/1909.00031",
+      "catalog_id": "arxiv:1909.00031",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2019-08-30",
+      "identifiers": {
+        "arxiv": "1909.00031"
+      },
+      "record_updated_at": "2020-01-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:1909.00031",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          8,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2019-08-30; Recorded arXiv version: v2; Recorded version updated: 2020-01-07T00:57:53Z.",
+    "title": "Interactive Task and Concept Learning from Natural Language Instructions and GUI Demonstrations",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2305.11854v4",
+    "archive": "arXiv",
+    "archive_location": "2305.11854",
+    "author": [
+      {
+        "literal": "Hiroki Furuta"
+      },
+      {
+        "literal": "Kuang-Huei Lee"
+      },
+      {
+        "literal": "Ofir Nachum"
+      },
+      {
+        "literal": "Yutaka Matsuo"
+      },
+      {
+        "literal": "Aleksandra Faust"
+      },
+      {
+        "literal": "Shixiang Shane Gu"
+      },
+      {
+        "literal": "Izzeddin Gur"
+      }
+    ],
+    "citation-key": "arxiv_2305_11854",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ac0ea5a462890317ea29ade32c879d016181afbe5962e2d28cc175e251df41e6",
+        "submitted_at": "2023-05-19T17:44:34Z",
+        "updated_at": "2024-02-25T16:21:00Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2305.11854v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2305.11854",
+      "catalog_id": "arxiv:2305.11854",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "record",
+      "first_published_at": "2023-05-19",
+      "identifiers": {
+        "arxiv": "2305.11854"
+      },
+      "publication": {
+        "authors": [
+          "Hiroki Furuta",
+          "Kuang-Huei Lee",
+          "Ofir Nachum",
+          "Yutaka Matsuo",
+          "Aleksandra Faust",
+          "Shixiang Shane Gu",
+          "Izzeddin Gur"
+        ],
+        "date_basis": "Explicit publisher metadata: 2024-05-31; precision=day.",
+        "date_parts": [
+          2024,
+          5,
+          31
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.iclr.cc/paper_files/paper/2024/hash/7ef7d8359036afd8c2378d82c21058a4-Abstract-Conference.html",
+          "https://proceedings.iclr.cc/paper_files/paper/2024/file/7ef7d8359036afd8c2378d82c21058a4-Paper-Conference.pdf"
+        ],
+        "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+        "issue": null,
+        "notes": "The ICLR landing shortens Shixiang Shane Gu to Shixiang Gu. Publication authors use the full PDF title-page form. Volume 2024 and pages 29528–29558 are explicit publisher citation metadata, not values inferred from the event year or PDF page count. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+        "pages": "29528-29558",
+        "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2024/file/7ef7d8359036afd8c2378d82c21058a4-Paper-Conference.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "Multimodal Web Navigation with Instruction-Finetuned Foundation Models",
+        "type": "conference-paper",
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/7ef7d8359036afd8c2378d82c21058a4-Abstract-Conference.html",
+        "venue": "International Conference on Learning Representations",
+        "volume": "2024"
+      },
+      "record_updated_at": "2024-02-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2305.11854",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2023-05-19; Recorded arXiv version: v4; Recorded version updated: 2024-02-25T16:21:00Z.",
+    "title": "Multimodal Web Navigation with Instruction-Finetuned Foundation Models",
+    "type": "article",
+    "version": "4"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2404.10887v2",
+    "archive": "arXiv",
+    "archive_location": "2404.10887",
+    "author": [
+      {
+        "literal": "Moghis Fereidouni"
+      },
+      {
+        "literal": "Adib Mosharrof"
+      },
+      {
+        "literal": "A. B. Siddique"
+      }
+    ],
+    "citation-key": "arxiv_2404_10887",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "127d037bb462ae4ed7bd72c46a62e2c4427611b30b67193454e40cc5c83cca3f",
+        "submitted_at": "2024-04-16T20:15:32Z",
+        "updated_at": "2025-01-26T19:07:41Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2404.10887v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2404.10887",
+      "catalog_id": "arxiv:2404.10887",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-04-16",
+      "identifiers": {
+        "arxiv": "2404.10887"
+      },
+      "record_updated_at": "2025-01-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2404.10887",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2024-04-16; Recorded arXiv version: v2; Recorded version updated: 2025-01-26T19:07:41Z.",
+    "title": "Grounded Language Agent for Product Search via Intelligent Web Interactions",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2409.15637v2",
+    "archive": "arXiv",
+    "archive_location": "2409.15637",
+    "author": [
+      {
+        "literal": "Tianyue Ou"
+      },
+      {
+        "literal": "Frank F. Xu"
+      },
+      {
+        "literal": "Aman Madaan"
+      },
+      {
+        "literal": "Jiarui Liu"
+      },
+      {
+        "literal": "Robert Lo"
+      },
+      {
+        "literal": "Abishek Sridhar"
+      },
+      {
+        "literal": "Sudipta Sengupta"
+      },
+      {
+        "literal": "Dan Roth"
+      },
+      {
+        "literal": "Graham Neubig"
+      },
+      {
+        "literal": "Shuyan Zhou"
+      }
+    ],
+    "citation-key": "arxiv_2409_15637",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6c19b869b10f0b4c985b88b032f78e0e72f83e7ca8d9f346417054cd2a9002e3",
+        "submitted_at": "2024-09-24T00:51:45Z",
+        "updated_at": "2024-11-27T16:34:52Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2409.15637v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2409.15637",
+      "catalog_id": "arxiv:2409.15637",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-09-24",
+      "identifiers": {
+        "arxiv": "2409.15637"
+      },
+      "record_updated_at": "2024-11-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2409.15637",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2024-09-24; Recorded arXiv version: v2; Recorded version updated: 2024-11-27T16:34:52Z.",
+    "title": "Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2502.06395v1",
+    "archive": "arXiv",
+    "archive_location": "2502.06395",
+    "author": [
+      {
+        "literal": "Georgios Papoudakis"
+      },
+      {
+        "literal": "Thomas Coste"
+      },
+      {
+        "literal": "Zhihao Wu"
+      },
+      {
+        "literal": "Jianye Hao"
+      },
+      {
+        "literal": "Jun Wang"
+      },
+      {
+        "literal": "Kun Shao"
+      }
+    ],
+    "citation-key": "arxiv_2502_06395",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "44ec9907c8d536488e59dea307aa05bd8adcadf96cb4f3ba25a355ffe4cf8ff7",
+        "submitted_at": "2025-02-10T12:32:21Z",
+        "updated_at": "2025-02-10T12:32:21Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2502.06395v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2502.06395",
+      "catalog_id": "arxiv:2502.06395",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-02-10",
+      "identifiers": {
+        "arxiv": "2502.06395"
+      },
+      "record_updated_at": "2025-02-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2502.06395",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          10
+        ]
+      ]
+    },
+    "note": "First published: 2025-02-10; Recorded arXiv version: v1; Recorded version updated: 2025-02-10T12:32:21Z.",
+    "title": "AppVLM: A Lightweight Vision Language Model for Online App Control",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2507.04103v4",
+    "archive": "arXiv",
+    "archive_location": "2507.04103",
+    "author": [
+      {
+        "literal": "Dheeraj Vattikonda"
+      },
+      {
+        "literal": "Santhoshi Ravichandran"
+      },
+      {
+        "literal": "Emiliano Penaloza"
+      },
+      {
+        "literal": "Hadi Nekoei"
+      },
+      {
+        "literal": "Megh Thakkar"
+      },
+      {
+        "literal": "Thibault Le Sellier de Chezelles"
+      },
+      {
+        "literal": "Nicolas Gontier"
+      },
+      {
+        "literal": "Miguel Muñoz-Mármol"
+      },
+      {
+        "literal": "Sahar Omidi Shayegan"
+      },
+      {
+        "literal": "Stefania Raimondo"
+      },
+      {
+        "literal": "Xue Liu"
+      },
+      {
+        "literal": "Alexandre Drouin"
+      },
+      {
+        "literal": "Laurent Charlin"
+      },
+      {
+        "literal": "Alexandre Piché"
+      },
+      {
+        "literal": "Alexandre Lacoste"
+      },
+      {
+        "literal": "Massimo Caccia"
+      }
+    ],
+    "citation-key": "arxiv_2507_04103",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "15fa527a869ab66f4f39900ab07ea8b8db930703a8e950ed1e195e1e66164099",
+        "submitted_at": "2025-07-05T17:12:33Z",
+        "updated_at": "2026-02-13T17:24:17Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2507.04103v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2507.04103",
+      "catalog_id": "arxiv:2507.04103",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-07-05",
+      "identifiers": {
+        "arxiv": "2507.04103"
+      },
+      "record_updated_at": "2026-02-13"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2507.04103",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2025-07-05; Recorded arXiv version: v4; Recorded version updated: 2026-02-13T17:24:17Z.",
+    "title": "How to Train Your LLM Web Agent: A Statistical Diagnosis",
+    "type": "article",
+    "version": "4"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2508.04700v2",
+    "archive": "arXiv",
+    "archive_location": "2508.04700",
+    "author": [
+      {
+        "literal": "Zeyi Sun"
+      },
+      {
+        "literal": "Ziyu Liu"
+      },
+      {
+        "literal": "Yuhang Zang"
+      },
+      {
+        "literal": "Yuhang Cao"
+      },
+      {
+        "literal": "Xiaoyi Dong"
+      },
+      {
+        "literal": "Tong Wu"
+      },
+      {
+        "literal": "Dahua Lin"
+      },
+      {
+        "literal": "Jiaqi Wang"
+      }
+    ],
+    "citation-key": "arxiv_2508_04700",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "268c38e6f11f11771a1251fc522112ff052557b5753dff6cadf2ba49c0ec04b2",
+        "submitted_at": "2025-08-06T17:58:46Z",
+        "updated_at": "2025-08-12T15:11:53Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2508.04700v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2508.04700",
+      "catalog_id": "arxiv:2508.04700",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-08-06",
+      "identifiers": {
+        "arxiv": "2508.04700"
+      },
+      "record_updated_at": "2025-08-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2508.04700",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2025-08-06; Recorded arXiv version: v2; Recorded version updated: 2025-08-12T15:11:53Z.",
+    "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2508.20096v1",
+    "archive": "arXiv",
+    "archive_location": "2508.20096",
+    "author": [
+      {
+        "literal": "Zeyi Sun"
+      },
+      {
+        "literal": "Yuhang Cao"
+      },
+      {
+        "literal": "Jianze Liang"
+      },
+      {
+        "literal": "Qiushi Sun"
+      },
+      {
+        "literal": "Ziyu Liu"
+      },
+      {
+        "literal": "Zhixiong Zhang"
+      },
+      {
+        "literal": "Yuhang Zang"
+      },
+      {
+        "literal": "Xiaoyi Dong"
+      },
+      {
+        "literal": "Kai Chen"
+      },
+      {
+        "literal": "Dahua Lin"
+      },
+      {
+        "literal": "Jiaqi Wang"
+      }
+    ],
+    "citation-key": "arxiv_2508_20096",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ac401f8d5c56050e72839f3bffba4f2c78bbdf34a00cab05fe504f03efd96a19",
+        "submitted_at": "2025-08-27T17:59:50Z",
+        "updated_at": "2025-08-27T17:59:50Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2508.20096v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2508.20096",
+      "catalog_id": "arxiv:2508.20096",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-08-27",
+      "identifiers": {
+        "arxiv": "2508.20096"
+      },
+      "record_updated_at": "2025-08-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2508.20096",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2025-08-27; Recorded arXiv version: v1; Recorded version updated: 2025-08-27T17:59:50Z.",
+    "title": "CODA: Coordinating the Cerebrum and Cerebellum for a Dual-Brain Computer Use Agent with Decoupled Reinforcement Learning",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.17328v1",
+    "archive": "arXiv",
+    "archive_location": "2509.17328",
+    "author": [
+      {
+        "literal": "Hongxin Li"
+      },
+      {
+        "literal": "Jingran Su"
+      },
+      {
+        "literal": "Jingfan Chen"
+      },
+      {
+        "literal": "Zheng Ju"
+      },
+      {
+        "literal": "Yuntao Chen"
+      },
+      {
+        "literal": "Qing Li"
+      },
+      {
+        "literal": "Zhaoxiang Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2509_17328",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "97b7c0690ba7deb7dbbdac6ac94dd82e3864c440cb4325bf143ad735919bb08b",
+        "submitted_at": "2025-09-22T03:04:53Z",
+        "updated_at": "2025-09-22T03:04:53Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2509.17328v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.17328",
+      "catalog_id": "arxiv:2509.17328",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-22",
+      "identifiers": {
+        "arxiv": "2509.17328"
+      },
+      "record_updated_at": "2025-09-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.17328",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-22; Recorded arXiv version: v1; Recorded version updated: 2025-09-22T03:04:53Z.",
+    "title": "UIPro: Unleashing Superior Interaction Capability For GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.24183v1",
+    "archive": "arXiv",
+    "archive_location": "2509.24183",
+    "author": [
+      {
+        "literal": "Ran Xu"
+      },
+      {
+        "literal": "Kaixin Ma"
+      },
+      {
+        "literal": "Wenhao Yu"
+      },
+      {
+        "literal": "Hongming Zhang"
+      },
+      {
+        "literal": "Joyce C. Ho"
+      },
+      {
+        "literal": "Carl Yang"
+      },
+      {
+        "literal": "Dong Yu"
+      }
+    ],
+    "citation-key": "arxiv_2509_24183",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e1c6fd3e84212bac4c4c8341ffb3478c97becce08f92dac89e5de77ad42cd07d",
+        "submitted_at": "2025-09-29T02:04:20Z",
+        "updated_at": "2025-09-29T02:04:20Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2509.24183v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.24183",
+      "catalog_id": "arxiv:2509.24183",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-29",
+      "identifiers": {
+        "arxiv": "2509.24183"
+      },
+      "record_updated_at": "2025-09-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.24183",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-29; Recorded arXiv version: v1; Recorded version updated: 2025-09-29T02:04:20Z.",
+    "title": "Retrieval-augmented GUI Agents with Generative Guidelines",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2509.25047v1",
+    "archive": "arXiv",
+    "archive_location": "2509.25047",
+    "author": [
+      {
+        "literal": "Ram Ramrakhya"
+      },
+      {
+        "literal": "Andrew Szot"
+      },
+      {
+        "literal": "Omar Attia"
+      },
+      {
+        "literal": "Yuhao Yang"
+      },
+      {
+        "literal": "Anh Nguyen"
+      },
+      {
+        "literal": "Bogdan Mazoure"
+      },
+      {
+        "literal": "Zhe Gan"
+      },
+      {
+        "literal": "Harsh Agrawal"
+      },
+      {
+        "literal": "Alexander Toshev"
+      }
+    ],
+    "citation-key": "arxiv_2509_25047",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d41da9264d664abbeacccae889f9f14f403fc4edbd7453ed4ff276689592fe68",
+        "submitted_at": "2025-09-29T17:00:02Z",
+        "updated_at": "2025-09-29T17:00:02Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2509.25047v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.25047",
+      "catalog_id": "arxiv:2509.25047",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-29",
+      "identifiers": {
+        "arxiv": "2509.25047"
+      },
+      "record_updated_at": "2025-09-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.25047",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-29; Recorded arXiv version: v1; Recorded version updated: 2025-09-29T17:00:02Z.",
+    "title": "Scaling Synthetic Task Generation for Agents via Exploration",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.04425v2",
+    "archive": "arXiv",
+    "archive_location": "2607.04425",
+    "author": [
+      {
+        "literal": "Niu Lian"
+      },
+      {
+        "literal": "Tongbo Chen"
+      },
+      {
+        "literal": "Zhehao Yu"
+      },
+      {
+        "literal": "Chengzhen Duan"
+      },
+      {
+        "literal": "Fazhan Liu"
+      },
+      {
+        "literal": "Hui Liu"
+      },
+      {
+        "literal": "Pei Fu"
+      },
+      {
+        "literal": "Jian Luan"
+      },
+      {
+        "literal": "Heng Qu"
+      },
+      {
+        "literal": "Shu-Tao Xia"
+      },
+      {
+        "literal": "Jinpeng Wang"
+      }
+    ],
+    "citation-key": "arxiv_2607_04425",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "32cb3020ccf25c31b805dc44218f5f9496cbc310e1df2906d8b15e5b60c31278",
+        "submitted_at": "2026-07-05T17:37:12Z",
+        "updated_at": "2026-08-10T13:11:37Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2607.04425v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.04425",
+      "catalog_id": "arxiv:2607.04425",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-05",
+      "identifiers": {
+        "arxiv": "2607.04425"
+      },
+      "record_updated_at": "2026-08-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.04425",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-05; Recorded arXiv version: v2; Recorded version updated: 2026-08-10T13:11:37Z.",
+    "title": "UI-MOPD: Multi-Platform On-Policy Distillation for Unified GUI Agents",
+    "type": "article",
+    "version": "2"
+  }
+]

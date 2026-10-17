@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "kind": "dataset",
-  "profile_count": 48,
-  "curated_resource_count": 74,
+  "profile_count": 50,
+  "curated_resource_count": 76,
   "unit": "resource profile; count observations retain their own units and populations",
   "limitations": "Source-reviewed descriptions and reported or computed inventory counts. No performance ranking, independent reproduction, or global-completeness claim.",
   "records": [
@@ -956,6 +956,84 @@
       ]
     },
     {
+      "id": "url:d0300db5ba754b1a64fa",
+      "name": "GUI-CIDER causal knowledge data",
+      "url": "https://huggingface.co/datasets/wuuuuuz/GUI-CIDER",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "counts": [],
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/Wuzheng02/GUI-CIDER/HEAD/README.md",
+          "https://raw.githubusercontent.com/Wuzheng02/GUI-CIDER/HEAD/data/dataset.md",
+          "https://huggingface.co/api/datasets/wuuuuuz/GUI-CIDER"
+        ],
+        "formats": [
+          "JSONL"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "notes": "Purpose is established by the official project, not by API tags. No sample records were downloaded; count and data-license fields remain unknown.",
+        "splits": [],
+        "supervision": [
+          "synthesized static planning knowledge",
+          "synthesized dynamic causal knowledge"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T11:18:20Z",
+          "role": "primary",
+          "sha256": "9a46741bbde1373ed4b87887cdadde98e05ea8795d34efe39fc25d69b4d50213",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "topics",
+            "scope",
+            "notes",
+            "relations",
+            "details.dataset_profile"
+          ],
+          "url": "https://raw.githubusercontent.com/Wuzheng02/GUI-CIDER/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T11:23:07Z",
+          "role": "primary",
+          "sha256": "aec6da0e872092d737953f8b4db227867024da10e127cd32d15d05ff95552d45",
+          "supports": [
+            "identity",
+            "release_status",
+            "details.hub_id",
+            "details.gated",
+            "details.release_revision"
+          ],
+          "url": "https://huggingface.co/api/datasets/wuuuuuz/GUI-CIDER"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T11:24:47Z",
+          "role": "primary",
+          "sha256": "bffca456e649a08239f6a1a3be10a7d7c21bcb427e783ba2c304e4b8410d385a",
+          "supports": [
+            "environments",
+            "details.dataset_profile"
+          ],
+          "url": "https://raw.githubusercontent.com/Wuzheng02/GUI-CIDER/HEAD/data/dataset.md"
+        }
+      ]
+    },
+    {
       "id": "github:opengvlab/gui-odyssey",
       "name": "GUI-Odyssey",
       "url": "https://github.com/OpenGVLab/GUI-Odyssey",
@@ -1345,6 +1423,81 @@
             "licenses.data"
           ],
           "url": "https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:422010da7a5c845a18f6",
+      "name": "GUIMid training data",
+      "url": "https://huggingface.co/datasets/hkust-nlp/GUIMid",
+      "environments": [
+        "web",
+        "android"
+      ],
+      "profile": {
+        "counts": [],
+        "evidence_urls": [
+          "https://huggingface.co/datasets/hkust-nlp/GUIMid/raw/main/README.md",
+          "https://raw.githubusercontent.com/hkust-nlp/GUIMid/HEAD/README.md"
+        ],
+        "formats": [
+          "JSON",
+          "tar.gz image archives"
+        ],
+        "modalities": [
+          "text",
+          "images"
+        ],
+        "notes": "Do not treat Hub size bands or the inconsistent introductory task count as a sample total. Some constituent-domain image packages remain forthcoming.",
+        "splits": [
+          "train configurations for named mid-training domains"
+        ],
+        "supervision": [
+          "mid-training instruction supervision",
+          "GUI post-training trajectories"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "Publisher dataset-card declaration for the released packaging; original source datasets retain their own terms.",
+          "declared": "mit",
+          "retrieved_at": "2026-10-17T11:23:07Z",
+          "url": "https://huggingface.co/datasets/hkust-nlp/GUIMid/raw/main/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T11:23:07Z",
+          "role": "primary",
+          "sha256": "1cdf702c819ecf370f4191c6c71fae7b579cfbaf766908b42156964a69eddacc",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "notes",
+            "relations",
+            "details.dataset_profile",
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/hkust-nlp/GUIMid/raw/main/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T11:18:19Z",
+          "role": "primary",
+          "sha256": "d9f63a03088c37f7145725c7a182100d1593fceadd26a9bf817d434ca8d6297e",
+          "supports": [
+            "notes",
+            "relations"
+          ],
+          "url": "https://raw.githubusercontent.com/hkust-nlp/GUIMid/HEAD/README.md"
         }
       ]
     },

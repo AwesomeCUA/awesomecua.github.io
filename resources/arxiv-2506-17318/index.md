@@ -1,20 +1,20 @@
 # Context manipulation attacks : Web agents are susceptible to corrupted memory
 
-Bibliographic record for Context manipulation attacks : Web agents are susceptible to corrupted memory. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Studies context manipulation in web agents by altering stored task representations rather than webpage prompts alone. Evaluation on Browser-use and Agent-E examines memory-directed attacks and the implications for secure context handling.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2506-17318/
 - Original source: https://arxiv.org/abs/2506.17318
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: safety-security, memory, evaluation
 - Evidence checked: 2026-10-16T06:36:50Z
 - ID: arxiv:2506.17318
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Reviewed against the complete retained original arXiv abstract. Experimental results and artifact availability have not been independently reproduced.
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2506-17318/record.json
 
@@ -45,4 +45,5 @@ Atharv Singh Patlan, Ashwin Hebbar, Pramod Viswanath, Prateek Mittal
 
 ## Primary evidence
 
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:50Z; SHA-256 26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:50Z; SHA-256 26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb)

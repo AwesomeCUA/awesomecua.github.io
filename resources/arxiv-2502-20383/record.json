@@ -18,7 +18,7 @@
     }
   },
   "environments": [
-    "unspecified"
+    "web"
   ],
   "evidence": [
     {
@@ -35,6 +35,22 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=2501.06497%2C2501.06994%2C2501.07834%2C2501.07927%2C2501.11233%2C2501.15570%2C2501.16403%2C2501.16609%2C2501.17391%2C2502.00372%2C2502.00392%2C2502.00964%2C2502.00988%2C2502.01562%2C2502.01839%2C2502.03723%2C2502.05174%2C2502.05227%2C2502.08489%2C2502.11221%2C2502.12130%2C2502.14496%2C2502.16587%2C2502.16786%2C2502.16796%2C2502.18356%2C2502.18512%2C2502.20383%2C2502.20390%2C2502.20582%2C2503.06378%2C2503.08026%2C2503.10613%2C2503.10809%2C2503.11579%2C2503.12228%2C2503.12461%2C2503.13843%2C2503.14495%2C2503.15426%2C2503.16036%2C2503.16248%2C2503.16975%2C2503.17671%2C2503.18102%2C2503.21889%2C2503.21949%2C2503.23803%2C2504.01328%2C2504.01377&max_results=50"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:20:04Z",
+      "role": "primary",
+      "sha256": "0118540c95d316ed30aabf783c072d413677aaf89539316e08e1d81ddab2c5e6",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes"
+      ],
+      "url": "https://arxiv.org/abs/2502.20383v3"
     }
   ],
   "id": "arxiv:2502.20383",
@@ -42,7 +58,7 @@
     "arxiv": "2502.20383"
   },
   "kind": "paper",
-  "last_verified_at": "2026-10-17T07:57:44Z",
+  "last_verified_at": "2026-10-17T11:20:04Z",
   "licenses": {
     "code": null,
     "data": null,
@@ -51,18 +67,22 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2502.20383"
     }
   ],
   "name": "Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced.",
   "published_at": "2025-02-27",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Analyzes web-agent vulnerabilities at the component level, examining goal placement in prompts, multistep action generation, and observations as sources of increased susceptibility.",
+  "topics": [
+    "safety-security",
+    "evaluation",
+    "web-navigation"
+  ],
   "updated_at": "2025-09-21",
   "url": "https://arxiv.org/abs/2502.20383"
 }

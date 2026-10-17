@@ -1,0 +1,251 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "availability": "Public simulator, task/judge and online-RL source, plus official release metadata for the companion data archive.",
+    "benchmark_protocol": {
+      "actions": [
+        "tap",
+        "type",
+        "swipe",
+        "back",
+        "home",
+        "drag",
+        "complete"
+      ],
+      "counts": [
+        {
+          "basis": "reported",
+          "evidence_url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/README.md",
+          "population": "publisher benchmark overview",
+          "qualifier": "exact",
+          "unit": "task templates",
+          "value": 416
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/README.md",
+          "population": "publisher benchmark overview",
+          "qualifier": "exact",
+          "unit": "simulated apps",
+          "value": 28
+        },
+        {
+          "basis": "computed",
+          "evidence_url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/train.txt",
+          "population": "bench_env/splits/train.txt",
+          "qualifier": "exact",
+          "unit": "task identifiers",
+          "value": 160
+        },
+        {
+          "basis": "computed",
+          "evidence_url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/test.txt",
+          "population": "bench_env/splits/test.txt",
+          "qualifier": "exact",
+          "unit": "task identifiers",
+          "value": 256
+        }
+      ],
+      "evaluation": "Deterministic task judges inspect state changes; reported metrics distinguish success, progress, false completion and unexpected side effects.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/README.md",
+        "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/train.txt",
+        "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/test.txt"
+      ],
+      "focus": [
+        "mobile GUI task completion in simulation",
+        "state verification and parallel training"
+      ],
+      "notes": "The split-ID inventory is not a count of sampled trajectories, live Android apps or real user accounts. Extra runtime/data dependencies and third-party content terms remain distinct.",
+      "observations": [
+        "simulated mobile screenshots",
+        "structured simulator state for judges"
+      ],
+      "setting": "interactive"
+    },
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "license_review": {
+      "code": {
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/LICENSE"
+        ],
+        "reason": "Core source LICENSE; mobilegym-rl has a separate matching Apache-2.0 license and retains vendored notices."
+      },
+      "data": {
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/LICENSE-DATA"
+        ],
+        "reason": "Limited to maintainers’ dataset compilation/curation and authored synthetic content; third-party user content remains subject to platform terms and its authors’ rights."
+      }
+    },
+    "metrics": [],
+    "release_tag": "v0.1.0",
+    "repository_revision": "5fbd3f34be0e9780ae4b1e9d5089963ddbd05d38",
+    "task_count": null
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:18:19Z",
+      "role": "primary",
+      "sha256": "815294dd2aa4bf8264978c3bfedee85a3a2c835c511860c732314a4c282a974a",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "relations",
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:18:18Z",
+      "role": "primary",
+      "sha256": "48df04a2fbf479f956d5c7f22d7006c22f591b8857cab8a1d64c196349045495",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/Purewhiter/mobilegym"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:22:56Z",
+      "role": "primary",
+      "sha256": "68f1fa16c0999079bccc3aa1b6c3c22b72b570a5b971837c5026ea5408853375",
+      "supports": [
+        "release_status",
+        "details.repository_revision"
+      ],
+      "url": "https://api.github.com/repos/Purewhiter/mobilegym/git/trees/main?recursive=1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:23:08Z",
+      "role": "primary",
+      "sha256": "cb1057b0a0a2ef7ab781414c168bb41f0f3da88afc042ce266d6063493561bde",
+      "supports": [
+        "release_status",
+        "details.release_tag"
+      ],
+      "url": "https://api.github.com/repos/Purewhiter/mobilegym/releases/tags/v0.1.0"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:23:09Z",
+      "role": "primary",
+      "sha256": "ad0c86a6cdde2caba8bd1f98b121803817d93718319a863b0b833da2760c23aa",
+      "supports": [
+        "release_status"
+      ],
+      "url": "https://api.github.com/repos/Purewhiter/mobilegym/releases/tags/data-v0.1.0"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:22:59Z",
+      "role": "primary",
+      "sha256": "7618cd7de039c264759ca8ca0b9130c6de63a4536dcf436baedd4cfbf639073e",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/LICENSE"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:27:50Z",
+      "role": "primary",
+      "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/mobilegym-rl/LICENSE"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:22:59Z",
+      "role": "primary",
+      "sha256": "e222fa518c5003d425ee9b371e987c95ba10e52b54fea078571254ae6a8eaf23",
+      "supports": [
+        "licenses.data",
+        "notes"
+      ],
+      "url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/LICENSE-DATA"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:27:49Z",
+      "role": "primary",
+      "sha256": "0ecef460fecfd8aa91dcbb2cd4cca17b033f620f85a50d7f0b598ed19a27c0eb",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/train.txt"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:27:48Z",
+      "role": "primary",
+      "sha256": "a3d485015d480f4f1ebbd12dbbf02c25c0aa667d1afcf5f6fa35f0263a82c567",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/test.txt"
+    }
+  ],
+  "id": "github:purewhiter/mobilegym",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-17T11:18:19Z",
+  "licenses": {
+    "code": {
+      "basis": "Core source LICENSE; mobilegym-rl has a separate matching Apache-2.0 license and retains vendored notices.",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-17T11:22:59Z",
+      "url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/LICENSE"
+    },
+    "data": {
+      "basis": "Limited to maintainers’ dataset compilation/curation and authored synthetic content; third-party user content remains subject to platform terms and its authors’ rights.",
+      "declared": "CC-BY-NC-4.0",
+      "retrieved_at": "2026-10-17T11:22:59Z",
+      "url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/LICENSE-DATA"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/Purewhiter/mobilegym"
+    }
+  ],
+  "name": "MobileGym",
+  "notes": "The inspected code release is v0.1.0, with a separately listed data-v0.1.0 archive. The interaction target is a browser-hosted Android-like simulation; real-device transfer results are separate publisher-reported experiments. Source split manifests contain 160 training IDs and 256 test IDs with no duplicates or overlap. Platform/training code declares Apache-2.0. LICENSE-DATA applies CC-BY-NC-4.0 only to maintainer-created compilation, curation and synthetic content, and explicitly leaves third-party UGC/API terms and author rights separate. No runtime, archive or model was executed/downloaded.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/README.md",
+      "target_id": "arxiv:2605.26114",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A browser-hosted mobile-app simulator with programmable state, parameterized tasks and deterministic state-checking judges for parallel GUI-agent evaluation and online reinforcement learning.",
+  "topics": [
+    "evaluation",
+    "mobile-navigation",
+    "reinforcement-learning",
+    "sandbox"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/Purewhiter/mobilegym"
+}

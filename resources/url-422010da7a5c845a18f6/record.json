@@ -1,0 +1,147 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "availability": "Ungated mixture/post-training JSON and image-archive manifests; some per-domain images and training code remain pending.",
+    "dataset_profile": {
+      "counts": [],
+      "evidence_urls": [
+        "https://huggingface.co/datasets/hkust-nlp/GUIMid/raw/main/README.md",
+        "https://raw.githubusercontent.com/hkust-nlp/GUIMid/HEAD/README.md"
+      ],
+      "formats": [
+        "JSON",
+        "tar.gz image archives"
+      ],
+      "modalities": [
+        "text",
+        "images"
+      ],
+      "notes": "Do not treat Hub size bands or the inconsistent introductory task count as a sample total. Some constituent-domain image packages remain forthcoming.",
+      "splits": [
+        "train configurations for named mid-training domains"
+      ],
+      "supervision": [
+        "mid-training instruction supervision",
+        "GUI post-training trajectories"
+      ]
+    },
+    "download_url": null,
+    "gated": false,
+    "hub_id": "hkust-nlp/GUIMid",
+    "languages": [],
+    "license_review": {
+      "data": {
+        "evidence_urls": [
+          "https://huggingface.co/datasets/hkust-nlp/GUIMid/raw/main/README.md"
+        ],
+        "reason": "Publisher dataset-card declaration for the released packaging; original source datasets retain their own terms."
+      }
+    },
+    "modalities": [],
+    "release_revision": "b6a360815c843b5733674191b6e6d7fa68b2ea8c",
+    "sample_count": null,
+    "sample_unit": null
+  },
+  "environments": [
+    "web",
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:23:07Z",
+      "role": "primary",
+      "sha256": "1cdf702c819ecf370f4191c6c71fae7b579cfbaf766908b42156964a69eddacc",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "relations",
+        "details.dataset_profile",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/datasets/hkust-nlp/GUIMid/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:23:07Z",
+      "role": "primary",
+      "sha256": "ededa2b3c8f21af8188152b028758c800db76cdbb8461ba82b8574cab375914e",
+      "supports": [
+        "identity",
+        "release_status",
+        "details.hub_id",
+        "details.gated",
+        "details.release_revision"
+      ],
+      "url": "https://huggingface.co/api/datasets/hkust-nlp/GUIMid"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:18:19Z",
+      "role": "primary",
+      "sha256": "31b836da66c6907ff9a75ebc7f06da0db67e7d9fe9ca92d0c770f5f15f90a39e",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/hkust-nlp/GUIMid"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:18:19Z",
+      "role": "primary",
+      "sha256": "d9f63a03088c37f7145725c7a182100d1593fceadd26a9bf817d434ca8d6297e",
+      "supports": [
+        "notes",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/hkust-nlp/GUIMid/HEAD/README.md"
+    }
+  ],
+  "id": "url:422010da7a5c845a18f6",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-17T11:23:07Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "Publisher dataset-card declaration for the released packaging; original source datasets retain their own terms.",
+      "declared": "mit",
+      "retrieved_at": "2026-10-17T11:23:07Z",
+      "url": "https://huggingface.co/datasets/hkust-nlp/GUIMid/raw/main/README.md"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/hkust-nlp/GUIMid"
+    }
+  ],
+  "name": "GUIMid training data",
+  "notes": "The public manifest includes GUIMid.json, mavis.tar.gz, GUI_trajectory.json, traj.tar.gz and domain-specific JSON files. The card says image data for some individual domains is still forthcoming and its overview inconsistently says nine tasks while later enumerating seven vision-language plus four language-only domains; no aggregate task/sample count is inferred. Training code remains marked coming soon in the repository. MIT is the publisher dataset declaration, not a relicensing of all upstream content.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/hkust-nlp/GUIMid/raw/main/README.md",
+      "target_id": "arxiv:2504.10127",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A released GUI-agent mid-training mixture and supporting domain datasets, together with a post-training trajectory file and image archives for web and mobile interaction.",
+  "topics": [
+    "imitation-learning",
+    "planning",
+    "screen-understanding"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/hkust-nlp/GUIMid"
+}

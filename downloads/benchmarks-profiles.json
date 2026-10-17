@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "kind": "benchmark",
-  "profile_count": 38,
-  "curated_resource_count": 73,
+  "profile_count": 43,
+  "curated_resource_count": 78,
   "unit": "resource profile; count observations retain their own units and populations",
   "limitations": "Source-reviewed descriptions and reported or computed inventory counts. No performance ranking, independent reproduction, or global-completeness claim.",
   "records": [
@@ -432,6 +432,102 @@
       ]
     },
     {
+      "id": "github:madeagents/colorbench",
+      "name": "ColorBench",
+      "url": "https://github.com/MadeAgents/ColorBench",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "actions": [
+          "mobile GUI operations along graph transitions"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md",
+            "population": "reported ColorBench benchmark",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 175
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md",
+            "population": "reported ColorBench benchmark",
+            "qualifier": "exact",
+            "unit": "cross-app tasks",
+            "value": 101
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md",
+            "population": "reported ColorBench benchmark",
+            "qualifier": "exact",
+            "unit": "single-app tasks",
+            "value": 74
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md",
+            "population": "reported ColorBench benchmark",
+            "qualifier": "exact",
+            "unit": "mobile applications",
+            "value": 21
+          }
+        ],
+        "evaluation": "The publisher reports success rate, completion rate and atomic-capability diagnostics using graph-based evaluation.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md"
+        ],
+        "focus": [
+          "long-horizon mobile task completion",
+          "multi-path graph interaction"
+        ],
+        "notes": "The interaction environment replays graph states rather than running real user accounts. The 101 and 74 subsets partition the reported 175 tasks; do not add the three counts.",
+        "observations": [
+          "mobile screenshots represented as graph states"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "Repository source LICENSE.",
+          "declared": "Apache-2.0",
+          "retrieved_at": "2026-10-17T11:22:54Z",
+          "url": "https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/LICENSE"
+        },
+        "data": {
+          "basis": "Publisher metadata for the separately hosted screenshot archive; underlying third-party content retains applicable rights.",
+          "declared": "apache-2.0",
+          "retrieved_at": "2026-10-17T11:23:06Z",
+          "url": "https://huggingface.co/datasets/Norsheep/ColorBench/raw/main/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T11:18:16Z",
+          "role": "primary",
+          "sha256": "5c0190fffb68b91c1855a408f6a5e252871d94000b95fa258504a3c100600cec",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "notes",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/MadeAgents/ColorBench/HEAD/README.md"
+        }
+      ]
+    },
+    {
       "id": "github:camel-ai/crab",
       "name": "CRAB",
       "url": "https://github.com/camel-ai/crab",
@@ -587,6 +683,97 @@
             "details"
           ],
           "url": "https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "github:wwh0411/fedmabench",
+      "name": "FedMABench",
+      "url": "https://github.com/wwh0411/FedMABench",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "actions": [
+          "model predictions on mobile-agent examples"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/wwh0411/FedMABench/raw/main/README.md",
+            "population": "released FedMABench partition families",
+            "qualifier": "exact",
+            "unit": "dataset families",
+            "value": 6
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/wwh0411/FedMABench/HEAD/README.md",
+            "population": "publisher benchmark overview",
+            "qualifier": "exact",
+            "unit": "heterogeneity types",
+            "value": 3
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/wwh0411/FedMABench/HEAD/README.md",
+            "population": "publisher benchmark overview",
+            "qualifier": "exact",
+            "unit": "federated learning algorithms",
+            "value": 8
+          }
+        ],
+        "evaluation": "The provided evaluation workflow performs model inference over selected partitions and invokes test_swift_fed.py for accuracy scoring.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/wwh0411/FedMABench/HEAD/README.md",
+          "https://huggingface.co/datasets/wwh0411/FedMABench/raw/main/README.md"
+        ],
+        "focus": [
+          "mobile-agent federated training",
+          "data heterogeneity"
+        ],
+        "notes": "The dataset-family count does not count tasks, apps, screenshots or client instances. Code and data licenses are unknown; external image sources are required.",
+        "observations": [
+          "mobile-agent examples with externally sourced screenshots"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T11:18:17Z",
+          "role": "primary",
+          "sha256": "b49e2b419918078ef9c68f3c9becc6c13d8fe530c165a36bdd61e370746eeea8",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "notes",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/wwh0411/FedMABench/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T11:23:06Z",
+          "role": "primary",
+          "sha256": "2874269995d8c9f5dabe266433ecf724bf54c27af599d899f3f0090b8ee37cdc",
+          "supports": [
+            "summary",
+            "details.benchmark_protocol",
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/wwh0411/FedMABench/raw/main/README.md"
         }
       ]
     },
@@ -1259,6 +1446,131 @@
       ]
     },
     {
+      "id": "github:purewhiter/mobilegym",
+      "name": "MobileGym",
+      "url": "https://github.com/Purewhiter/mobilegym",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "tap",
+          "type",
+          "swipe",
+          "back",
+          "home",
+          "drag",
+          "complete"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/README.md",
+            "population": "publisher benchmark overview",
+            "qualifier": "exact",
+            "unit": "task templates",
+            "value": 416
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/README.md",
+            "population": "publisher benchmark overview",
+            "qualifier": "exact",
+            "unit": "simulated apps",
+            "value": 28
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/train.txt",
+            "population": "bench_env/splits/train.txt",
+            "qualifier": "exact",
+            "unit": "task identifiers",
+            "value": 160
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/test.txt",
+            "population": "bench_env/splits/test.txt",
+            "qualifier": "exact",
+            "unit": "task identifiers",
+            "value": 256
+          }
+        ],
+        "evaluation": "Deterministic task judges inspect state changes; reported metrics distinguish success, progress, false completion and unexpected side effects.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/README.md",
+          "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/train.txt",
+          "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/test.txt"
+        ],
+        "focus": [
+          "mobile GUI task completion in simulation",
+          "state verification and parallel training"
+        ],
+        "notes": "The split-ID inventory is not a count of sampled trajectories, live Android apps or real user accounts. Extra runtime/data dependencies and third-party content terms remain distinct.",
+        "observations": [
+          "simulated mobile screenshots",
+          "structured simulator state for judges"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "Core source LICENSE; mobilegym-rl has a separate matching Apache-2.0 license and retains vendored notices.",
+          "declared": "Apache-2.0",
+          "retrieved_at": "2026-10-17T11:22:59Z",
+          "url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/LICENSE"
+        },
+        "data": {
+          "basis": "Limited to maintainers’ dataset compilation/curation and authored synthetic content; third-party user content remains subject to platform terms and its authors’ rights.",
+          "declared": "CC-BY-NC-4.0",
+          "retrieved_at": "2026-10-17T11:22:59Z",
+          "url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/LICENSE-DATA"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T11:18:19Z",
+          "role": "primary",
+          "sha256": "815294dd2aa4bf8264978c3bfedee85a3a2c835c511860c732314a4c282a974a",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "notes",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T11:27:49Z",
+          "role": "primary",
+          "sha256": "0ecef460fecfd8aa91dcbb2cd4cca17b033f620f85a50d7f0b598ed19a27c0eb",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/train.txt"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T11:27:48Z",
+          "role": "primary",
+          "sha256": "a3d485015d480f4f1ebbd12dbbf02c25c0aa667d1afcf5f6fa35f0263a82c567",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/test.txt"
+        }
+      ]
+    },
+    {
       "id": "github:openmobile2/mobilegym-plusplus",
       "name": "MobileGym++ / MobileGym++ Bench",
       "url": "https://github.com/OpenMobile2/MobileGym-plusplus",
@@ -1500,6 +1812,87 @@
             "details.benchmark_protocol"
           ],
           "url": "https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:c73ba0618d1b3c505887",
+      "name": "OS-Critic Bench",
+      "url": "https://huggingface.co/datasets/OS-Copilot/OS-Critic-Bench",
+      "environments": [
+        "cross-platform",
+        "desktop",
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "critic-model responses"
+        ],
+        "counts": [
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/datasets/OS-Copilot/OS-Critic-Bench/raw/main/README.md",
+            "population": "mobile/desktop/web configurations in the Hub card",
+            "qualifier": "exact",
+            "unit": "platform JSONL splits",
+            "value": 3
+          }
+        ],
+        "evaluation": "The official repository runs model inference and computes accuracy with cal_acc.py.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/numbmelon/OS-Oracle/HEAD/README.md",
+          "https://huggingface.co/datasets/OS-Copilot/OS-Critic-Bench/raw/main/README.md"
+        ],
+        "focus": [
+          "GUI critic prediction"
+        ],
+        "notes": "No sample count is inferred from the n<1K Hub size band. Evaluation code availability does not establish the release of OS-Oracle training data or weights.",
+        "observations": [
+          "benchmark JSONL",
+          "UI screenshots"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "Publisher dataset-card license declaration for OS-Critic-Bench; not an evaluation-code or model-weight license.",
+          "declared": "apache-2.0",
+          "retrieved_at": "2026-10-17T11:23:07Z",
+          "url": "https://huggingface.co/datasets/OS-Copilot/OS-Critic-Bench/raw/main/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T11:18:18Z",
+          "role": "primary",
+          "sha256": "58305b8ebe1af5dfbddd636484d63722d4e21d28ed3e22bb8c0068e654f33479",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "notes",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/numbmelon/OS-Oracle/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T11:23:07Z",
+          "role": "primary",
+          "sha256": "4139e25e8911ca8450f6db9acb8dc3a98c126c3c43514c72bcefa4ed33b8ffa8",
+          "supports": [
+            "licenses.data",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/datasets/OS-Copilot/OS-Critic-Bench/raw/main/README.md"
         }
       ]
     },
@@ -2832,6 +3225,114 @@
             "details"
           ],
           "url": "https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "github:friedrichor/webtestbench",
+      "name": "WebTestBench",
+      "url": "https://github.com/friedrichor/WebTestBench",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "browser interaction",
+          "test checklist generation",
+          "defect reports"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/friedrichor/WebTestBench/HEAD/README.md",
+            "population": "publisher benchmark overview",
+            "qualifier": "exact",
+            "unit": "application categories",
+            "value": 7
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://huggingface.co/api/datasets/friedrichor/WebTestBench",
+            "population": "Hub file manifest",
+            "qualifier": "exact",
+            "unit": "web-application archives",
+            "value": 100
+          }
+        ],
+        "evaluation": "The supplied WebTester pipeline separates checklist generation from interactive defect detection and provides a scoring workflow.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/friedrichor/WebTestBench/HEAD/README.md",
+          "https://huggingface.co/api/datasets/friedrichor/WebTestBench",
+          "https://huggingface.co/datasets/friedrichor/WebTestBench/raw/main/README.md"
+        ],
+        "focus": [
+          "web functionality testing",
+          "latent permission and business constraints"
+        ],
+        "notes": "The 100 archive files are not counted as 100 independent test tasks or defects. Backend/tool versions and deployment settings affect reproducibility.",
+        "observations": [
+          "web application interface",
+          "development instruction"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "Repository source LICENSE; external tools and services retain their own licenses.",
+          "declared": "Apache-2.0",
+          "retrieved_at": "2026-10-17T11:22:55Z",
+          "url": "https://raw.githubusercontent.com/friedrichor/WebTestBench/HEAD/LICENSE"
+        },
+        "data": {
+          "basis": "Publisher Hub-card license declaration for the released benchmark dataset.",
+          "declared": "apache-2.0",
+          "retrieved_at": "2026-10-17T11:23:08Z",
+          "url": "https://huggingface.co/datasets/friedrichor/WebTestBench/raw/main/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T11:18:18Z",
+          "role": "primary",
+          "sha256": "b41472026cd7d4f81a01d58bf39193dc1fabc7875c61e370090a20cc77500cdd",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "notes",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/friedrichor/WebTestBench/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T11:23:08Z",
+          "role": "primary",
+          "sha256": "db1e97f40107038ae03835dc20f17b13b37e74b5c8587f8c39b441271618f017",
+          "supports": [
+            "identity",
+            "release_status",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/api/datasets/friedrichor/WebTestBench"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T11:23:08Z",
+          "role": "primary",
+          "sha256": "6f2f94a25ed66a14779f6b4e6686044d0510eb32a0187645cc473978d93f7c5b",
+          "supports": [
+            "licenses.data",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/datasets/friedrichor/WebTestBench/raw/main/README.md"
         }
       ]
     },

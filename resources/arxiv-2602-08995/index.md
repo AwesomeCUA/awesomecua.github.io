@@ -1,20 +1,20 @@
 # When Actions Go Off-Task: Detecting and Correcting Misaligned Actions in Computer-Use Agents
 
-Bibliographic record for When Actions Go Off-Task: Detecting and Correcting Misaligned Actions in Computer-Use Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+MisActBench provides action-level labels for task alignment, while DeAction checks proposed computer-use actions and requests revisions through structured feedback. The paper separately evaluates offline detection and interactive operation in OSWorld and RedTeamCUA.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2602-08995/
 - Original source: https://arxiv.org/abs/2602.08995
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
+- Review: curated
+- Scope: core
+- Environments: desktop, web
+- Topics: safety-security, evaluation, robustness
 - Evidence checked: 2026-10-16T06:36:43Z
 - ID: arxiv:2602.08995
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation was reviewed against the complete retained official abstract and the specified sections of the same recorded paper version. Experimental findings and released artifacts have not been independently reproduced.
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2602-08995/record.json
 
@@ -46,3 +46,5 @@ Yuting Ning, Jaylen Jones, Zhehao Zhang, Chentao Ye, Weitong Ruan, Junyi Li, Rah
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=400&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:43Z; SHA-256 c432f419481a105a8ce71174ec4aea23c4f0d36ddf89cfe1d0974fa349f6cb59)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=400&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:43Z; SHA-256 c432f419481a105a8ce71174ec4aea23c4f0d36ddf89cfe1d0974fa349f6cb59)
+- https://arxiv.org/html/2602.08995v2 (retrieved 2026-10-17T11:26:41+00:00; SHA-256 487a5d21d2385320315eb5a4a2c76e1017973d6027e219be6d31d9328fd5ff9a)

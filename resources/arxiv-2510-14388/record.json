@@ -26,7 +26,7 @@
     }
   },
   "environments": [
-    "unspecified"
+    "android"
   ],
   "evidence": [
     {
@@ -43,6 +43,22 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=2510.10587%2C2510.10909%2C2510.11144%2C2510.12798%2C2510.14388%2C2510.14513%2C2510.14969%2C2510.16156%2C2510.17017%2C2510.17800%2C2510.19207%2C2510.19247%2C2510.19386%2C2510.19864%2C2510.20333%2C2510.21652%2C2510.22443%2C2510.22936%2C2510.23730%2C2510.23883%2C2510.24702%2C2510.25726%2C2510.26328%2C2510.27135%2C2510.27410%2C2511.00153%2C2511.02650%2C2511.02687%2C2511.03690%2C2511.04220%2C2511.05797%2C2511.06251%2C2511.08319%2C2511.08487%2C2511.10110%2C2511.13725%2C2511.14210%2C2511.14945%2C2511.15705%2C2511.16842%2C2511.17649%2C2511.17775%2C2511.19496%2C2511.19516%2C2511.20636%2C2511.21990%2C2511.22074%2C2512.04302%2C2512.04529%2C2512.06726&max_results=50"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:20:56Z",
+      "role": "primary",
+      "sha256": "fecd42f8ca75572410c354c892734cb8eefbd3fa622064f6bc6db0f535cf5607",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes"
+      ],
+      "url": "https://arxiv.org/abs/2510.14388v2"
     }
   ],
   "id": "arxiv:2510.14388",
@@ -50,7 +66,7 @@
     "arxiv": "2510.14388"
   },
   "kind": "paper",
-  "last_verified_at": "2026-10-17T07:57:59Z",
+  "last_verified_at": "2026-10-17T11:20:56Z",
   "licenses": {
     "code": null,
     "data": null,
@@ -59,18 +75,22 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2510.14388"
     }
   ],
   "name": "Hi-Agent: Hierarchical Vision-Language Agents for Mobile Device Control",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "Reviewed against the exact-version official arXiv abstract page; its complete title, ordered author list, visible version, and normalized abstract SHA match the retained snapshot. The original API response body was not locally available. Experimental results and artifact availability have not been independently reproduced. This Hi-Agent has a distinct author team and method from the earlier HiAgent working-memory paper; the shared project-name prefix is not treated as an identity match.",
   "published_at": "2025-10-16",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Introduces Hi-Agent, jointly training a high-level reasoning model and a low-level mobile action model. Execution feedback supplies a foresight advantage for optimizing subgoal decisions, with evaluations on Android control benchmarks.",
+  "topics": [
+    "planning",
+    "reinforcement-learning",
+    "mobile-navigation"
+  ],
   "updated_at": "2026-02-06",
   "url": "https://arxiv.org/abs/2510.14388"
 }

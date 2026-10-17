@@ -1,0 +1,110 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "availability": "Public preprocessing/refinement/evaluation source and annotation-archive manifest; original images remain separate.",
+    "license_review": {
+      "code": {
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/ZrW00/GUIPivot/HEAD/LICENSE"
+        ],
+        "reason": "Repository GNU GPL version 3 license for code; no data or pretrained-weight license inferred."
+      }
+    },
+    "repository_revision": "b02e8efdbe02ab82169a2c54d724e33b4037330e"
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:18:22Z",
+      "role": "primary",
+      "sha256": "77384ff1dfceac74f2e60af56b016a815963481f9e41a29915698777f55e828e",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/ZrW00/GUIPivot/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:18:22Z",
+      "role": "primary",
+      "sha256": "af47c1183407c8f80b2d2615e15579a4c0a7cd3fe476ac6f8697b745f6f54318",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/ZrW00/GUIPivot"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:23:02Z",
+      "role": "primary",
+      "sha256": "a4d3ddbb2b2f4a936c9bc1a1c388b9870dbc5d2c61ff6841a1082b884f5c54e9",
+      "supports": [
+        "release_status",
+        "details.repository_revision"
+      ],
+      "url": "https://api.github.com/repos/ZrW00/GUIPivot/git/trees/main?recursive=1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T11:23:03Z",
+      "role": "primary",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/ZrW00/GUIPivot/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:zrw00/guipivot",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-17T11:18:22Z",
+  "licenses": {
+    "code": {
+      "basis": "Repository GNU GPL version 3 license for code; no data or pretrained-weight license inferred.",
+      "declared": "GPL-3.0",
+      "retrieved_at": "2026-10-17T11:23:03Z",
+      "url": "https://raw.githubusercontent.com/ZrW00/GUIPivot/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/ZrW00/GUIPivot"
+    }
+  ],
+  "name": "GUIPivot",
+  "notes": "The repository releases preprocessing/refinement/evaluation code and packaged ShareGPT-format JSON training annotations. It instructs users to obtain original UIBERT/OS-Atlas, AITZ and AndroidControl images separately and train their own model. This entry does not claim a released trained checkpoint or transfer the repository GPL-3.0 code license to third-party datasets and images.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/ZrW00/GUIPivot/HEAD/README.md",
+      "target_id": "arxiv:2503.00401",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Research tooling for query-inference pivot tasks that connect screenshot grounding with GUI action reasoning, including preprocessing, query refinement and mobile-agent evaluation.",
+  "topics": [
+    "grounding",
+    "planning",
+    "imitation-learning"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/ZrW00/GUIPivot"
+}

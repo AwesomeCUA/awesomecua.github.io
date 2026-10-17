@@ -1,0 +1,472 @@
+[
+  {
+    "URL": "https://arxiv.org/abs/2505.05026v5",
+    "archive": "arXiv",
+    "archive_location": "2505.05026",
+    "author": [
+      {
+        "literal": "Jaehyun Jeon"
+      },
+      {
+        "literal": "Min Soo Kim"
+      },
+      {
+        "literal": "Jang Han Yoon"
+      },
+      {
+        "literal": "Sumin Shim"
+      },
+      {
+        "literal": "Yejin Choi"
+      },
+      {
+        "literal": "Hanbin Kim"
+      },
+      {
+        "literal": "Dae Hyun Kim"
+      },
+      {
+        "literal": "Youngjae Yu"
+      }
+    ],
+    "citation-key": "arxiv_2505_05026",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3f65cd2856c554584baab9b1cbf9c5250b5c01d4f31980d69aefab727427ded2",
+        "submitted_at": "2025-05-08T08:00:32Z",
+        "updated_at": "2026-06-04T06:58:13Z",
+        "version": 5,
+        "versioned_url": "https://arxiv.org/abs/2505.05026v5"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.05026",
+      "catalog_id": "arxiv:2505.05026",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-05-08",
+      "identifiers": {
+        "arxiv": "2505.05026"
+      },
+      "record_updated_at": "2026-06-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.05026",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-08; Recorded arXiv version: v5; Recorded version updated: 2026-06-04T06:58:13Z.",
+    "title": "Do MLLMs Capture How Interfaces Guide User Behavior? A Benchmark for Multimodal UI/UX Design Understanding",
+    "type": "article",
+    "version": "5"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2511.15567v1",
+    "archive": "arXiv",
+    "archive_location": "2511.15567",
+    "author": [
+      {
+        "literal": "Kevin Qinghong Lin"
+      },
+      {
+        "literal": "Siyuan Hu"
+      },
+      {
+        "literal": "Linjie Li"
+      },
+      {
+        "literal": "Zhengyuan Yang"
+      },
+      {
+        "literal": "Lijuan Wang"
+      },
+      {
+        "literal": "Philip Torr"
+      },
+      {
+        "literal": "Mike Zheng Shou"
+      }
+    ],
+    "citation-key": "arxiv_2511_15567",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7d63831bc0ff00979615415ce94abc140b646a4375cb33b950c4a7ccf00bf166",
+        "submitted_at": "2025-11-19T16:00:02Z",
+        "updated_at": "2025-11-19T16:00:02Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2511.15567v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2511.15567",
+      "catalog_id": "arxiv:2511.15567",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-11-19",
+      "identifiers": {
+        "arxiv": "2511.15567"
+      },
+      "record_updated_at": "2025-11-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2511.15567",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2025-11-19; Recorded arXiv version: v1; Recorded version updated: 2025-11-19T16:00:02Z.",
+    "title": "Computer-Use Agents as Judges for Generative User Interface",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2601.16356v1",
+    "archive": "arXiv",
+    "archive_location": "2601.16356",
+    "author": [
+      {
+        "literal": "Simret Araya Gebreegziabher"
+      },
+      {
+        "literal": "Yukun Yang"
+      },
+      {
+        "literal": "Charles Chiang"
+      },
+      {
+        "literal": "Hojun Yoo"
+      },
+      {
+        "literal": "Chaoran Chen"
+      },
+      {
+        "literal": "Hyo Jin Do"
+      },
+      {
+        "literal": "Zahra Ashktorab"
+      },
+      {
+        "literal": "Werner Geyer"
+      },
+      {
+        "literal": "Diego Gómez-Zará"
+      },
+      {
+        "literal": "Toby Jia-Jun Li"
+      }
+    ],
+    "citation-key": "arxiv_2601_16356",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1bdc29648446cd79e0c0b9f72814457b55258d501283ce2fa2dedcd8262f885b",
+        "submitted_at": "2026-01-22T22:42:40Z",
+        "updated_at": "2026-01-22T22:42:40Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2601.16356v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.16356",
+      "catalog_id": "arxiv:2601.16356",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-01-22",
+      "identifiers": {
+        "arxiv": "2601.16356"
+      },
+      "record_updated_at": "2026-01-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.16356",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-22; Recorded arXiv version: v1; Recorded version updated: 2026-01-22T22:42:40Z.",
+    "title": "The Behavioral Fabric of LLM-Powered GUI Agents: Human Values and Interaction Outcomes",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2601.21961v2",
+    "archive": "arXiv",
+    "archive_location": "2601.21961",
+    "author": [
+      {
+        "literal": "Kuai Yu"
+      },
+      {
+        "literal": "Naicheng Yu"
+      },
+      {
+        "literal": "Han Wang"
+      },
+      {
+        "literal": "Rui Yang"
+      },
+      {
+        "literal": "Huan Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2601_21961",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1380697158d3a91334427cf067f3f91a751bd89d31103edecfa68171b28b8d66",
+        "submitted_at": "2026-01-29T16:40:15Z",
+        "updated_at": "2026-02-27T16:47:40Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2601.21961v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.21961",
+      "catalog_id": "arxiv:2601.21961",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-01-29",
+      "identifiers": {
+        "arxiv": "2601.21961"
+      },
+      "record_updated_at": "2026-02-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.21961",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-29; Recorded arXiv version: v2; Recorded version updated: 2026-02-27T16:47:40Z.",
+    "title": "How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2602.07283v1",
+    "archive": "arXiv",
+    "archive_location": "2602.07283",
+    "author": [
+      {
+        "literal": "Ruijia Cheng"
+      },
+      {
+        "literal": "Jenny T. Liang"
+      },
+      {
+        "literal": "Eldon Schoop"
+      },
+      {
+        "literal": "Jeffrey Nichols"
+      }
+    ],
+    "citation-key": "arxiv_2602_07283",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d556ebbfbf4fc5875395b449a92b8ff27a7ed59d41bc062ac60fcf175f9064f8",
+        "submitted_at": "2026-02-07T00:19:08Z",
+        "updated_at": "2026-02-07T00:19:08Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2602.07283v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.07283",
+      "catalog_id": "arxiv:2602.07283",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-07",
+      "identifiers": {
+        "arxiv": "2602.07283"
+      },
+      "record_updated_at": "2026-02-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.07283",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-07; Recorded arXiv version: v1; Recorded version updated: 2026-02-07T00:19:08Z.",
+    "title": "Mapping the Design Space of User Experience for Computer Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.09581v2",
+    "archive": "arXiv",
+    "archive_location": "2604.09581",
+    "author": [
+      {
+        "literal": "Wee Joe Tan"
+      },
+      {
+        "literal": "Zi Rui Lucas Lim"
+      },
+      {
+        "literal": "Shashank Durgad"
+      },
+      {
+        "literal": "Karim Obegi"
+      },
+      {
+        "literal": "Aiden Yiliu Li"
+      }
+    ],
+    "citation-key": "arxiv_2604_09581",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "445e520a60e0e3cc0c3c519e21bfa8eebfa33d4fe4320c437e67b94a02d84504",
+        "submitted_at": "2026-02-25T18:59:42Z",
+        "updated_at": "2026-04-14T20:54:46Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2604.09581v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.09581",
+      "catalog_id": "arxiv:2604.09581",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-02-25",
+      "identifiers": {
+        "arxiv": "2604.09581"
+      },
+      "record_updated_at": "2026-04-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.09581",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-25; Recorded arXiv version: v2; Recorded version updated: 2026-04-14T20:54:46Z.",
+    "title": "Avenir-UX: Automated UX Evaluation via Simulated Human Web Interaction with GUI Grounding",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "DOI": "10.1145/3126594.3126651",
+    "URL": "https://doi.org/10.1145/3126594.3126651",
+    "author": [
+      {
+        "literal": "Biplab Deka"
+      },
+      {
+        "literal": "Zifeng Huang"
+      },
+      {
+        "literal": "Chad Franzen"
+      },
+      {
+        "literal": "Joshua Hibschman"
+      },
+      {
+        "literal": "Daniel Afergan"
+      },
+      {
+        "literal": "Yang Li"
+      },
+      {
+        "literal": "Jeffrey Nichols"
+      },
+      {
+        "literal": "Ranjitha Kumar"
+      }
+    ],
+    "citation-key": "cua_402ed654426712089390317c",
+    "container-title": "UIST '17: Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology",
+    "custom": {
+      "canonical_source_url": "https://doi.org/10.1145/3126594.3126651",
+      "catalog_id": "url:b560b5d6abaab98483f6",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2017-10-20",
+      "identifiers": {
+        "doi": "10.1145/3126594.3126651"
+      },
+      "publication": {
+        "authors": [
+          "Biplab Deka",
+          "Zifeng Huang",
+          "Chad Franzen",
+          "Joshua Hibschman",
+          "Daniel Afergan",
+          "Yang Li",
+          "Jeffrey Nichols",
+          "Ranjitha Kumar"
+        ],
+        "date_basis": "Supplied day precision: 2017-10-20. PDF cover, Published: 20 October 2017 The 18 January 2026 download date and October 22-25 conference dates are not publication dates.",
+        "date_parts": [
+          2017,
+          10,
+          20
+        ],
+        "doi": "10.1145/3126594.3126651",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://danafergan.com/publications/deka2017rico.pdf",
+          "https://dev.interactionmining.org/archive/rico"
+        ],
+        "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+        "issue": null,
+        "notes": "The paper is a distinct resource from the already cataloged Rico dataset (url:0b134b082a7bd507fc6a). The publisher PDF describes 9.7k apps and 72k screens; the project page describes 9.3k apps and 66k screens. The annotation intentionally supplies no merged size claim. No volume number is supplied for this proceedings article.",
+        "pages": "845-854",
+        "pdf_url": "https://danafergan.com/publications/deka2017rico.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "Rico: A Mobile App Dataset for Building Data-Driven Design Applications",
+        "type": "conference-paper",
+        "url": "https://doi.org/10.1145/3126594.3126651",
+        "venue": "UIST '17: Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:b560b5d6abaab98483f6",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          20
+        ]
+      ]
+    },
+    "note": "Publication date: 2017-10-20.",
+    "page": "845-854",
+    "title": "Rico: A Mobile App Dataset for Building Data-Driven Design Applications",
+    "type": "paper-conference"
+  }
+]

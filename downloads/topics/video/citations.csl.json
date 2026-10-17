@@ -1,0 +1,1378 @@
+[
+  {
+    "URL": "https://arxiv.org/abs/2403.10170v2",
+    "archive": "arXiv",
+    "archive_location": "2403.10170",
+    "author": [
+      {
+        "literal": "Andrés Muñoz"
+      },
+      {
+        "literal": "Daniel Borrajo"
+      }
+    ],
+    "citation-key": "arxiv_2403_10170",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "aacb4d2cac31e478aa56ee25b6b39e5ba8fe164f89102e665f8fb25cf3822e7b",
+        "submitted_at": "2024-03-15T10:26:52Z",
+        "updated_at": "2024-08-27T18:36:12Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2403.10170v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2403.10170",
+      "catalog_id": "arxiv:2403.10170",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-03-15",
+      "identifiers": {
+        "arxiv": "2403.10170"
+      },
+      "record_updated_at": "2024-08-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2403.10170",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2024-03-15; Recorded arXiv version: v2; Recorded version updated: 2024-08-27T18:36:12Z.",
+    "title": "Computer User Interface Understanding. A New Dataset and a Learning Framework",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2403.17918v3",
+    "archive": "arXiv",
+    "archive_location": "2403.17918",
+    "author": [
+      {
+        "literal": "Longtao Zheng"
+      },
+      {
+        "literal": "Zhiyuan Huang"
+      },
+      {
+        "literal": "Zhenghai Xue"
+      },
+      {
+        "literal": "Xinrun Wang"
+      },
+      {
+        "literal": "Bo An"
+      },
+      {
+        "literal": "Shuicheng Yan"
+      }
+    ],
+    "citation-key": "arxiv_2403_17918",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "fe1432b46c15566182418bf3fa2f918607e8b0e9a383459416d03e28dc7e347c",
+        "submitted_at": "2024-03-26T17:54:15Z",
+        "updated_at": "2025-02-14T08:13:39Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2403.17918v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2403.17918",
+      "catalog_id": "arxiv:2403.17918",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-03-26",
+      "identifiers": {
+        "arxiv": "2403.17918"
+      },
+      "record_updated_at": "2025-02-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2403.17918",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2024-03-26; Recorded arXiv version: v3; Recorded version updated: 2025-02-14T08:13:39Z.",
+    "title": "AgentStudio: A Toolkit for Building General Virtual Agents",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2406.10227v1",
+    "archive": "arXiv",
+    "archive_location": "2406.10227",
+    "author": [
+      {
+        "literal": "Kevin Qinghong Lin"
+      },
+      {
+        "literal": "Linjie Li"
+      },
+      {
+        "literal": "Difei Gao"
+      },
+      {
+        "literal": "Qinchen WU"
+      },
+      {
+        "literal": "Mingyi Yan"
+      },
+      {
+        "literal": "Zhengyuan Yang"
+      },
+      {
+        "literal": "Lijuan Wang"
+      },
+      {
+        "literal": "Mike Zheng Shou"
+      }
+    ],
+    "citation-key": "arxiv_2406_10227",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "66b5fb1e839490df80e9750fdc049f7fe3d2d4686c4090d78ea01bc542fe55b0",
+        "submitted_at": "2024-06-14T17:59:08Z",
+        "updated_at": "2024-06-14T17:59:08Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2406.10227v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.10227",
+      "catalog_id": "arxiv:2406.10227",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-06-14",
+      "identifiers": {
+        "arxiv": "2406.10227"
+      },
+      "record_updated_at": "2024-06-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2406.10227",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2024-06-14; Recorded arXiv version: v1; Recorded version updated: 2024-06-14T17:59:08Z.",
+    "title": "VideoGUI: A Benchmark for GUI Automation from Instructional Videos",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2406.10819v2",
+    "archive": "arXiv",
+    "archive_location": "2406.10819",
+    "author": [
+      {
+        "literal": "Dongping Chen"
+      },
+      {
+        "literal": "Yue Huang"
+      },
+      {
+        "literal": "Siyuan Wu"
+      },
+      {
+        "literal": "Jingyu Tang"
+      },
+      {
+        "literal": "Liuyi Chen"
+      },
+      {
+        "literal": "Yilin Bai"
+      },
+      {
+        "literal": "Zhigang He"
+      },
+      {
+        "literal": "Chenlong Wang"
+      },
+      {
+        "literal": "Huichi Zhou"
+      },
+      {
+        "literal": "Yiqiang Li"
+      },
+      {
+        "literal": "Tianshuo Zhou"
+      },
+      {
+        "literal": "Yue Yu"
+      },
+      {
+        "literal": "Chujie Gao"
+      },
+      {
+        "literal": "Qihui Zhang"
+      },
+      {
+        "literal": "Yi Gui"
+      },
+      {
+        "literal": "Zhen Li"
+      },
+      {
+        "literal": "Yao Wan"
+      },
+      {
+        "literal": "Pan Zhou"
+      },
+      {
+        "literal": "Jianfeng Gao"
+      },
+      {
+        "literal": "Lichao Sun"
+      }
+    ],
+    "citation-key": "arxiv_2406_10819",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9997c3ab43f0e3e69ad4dcbe15257ea4392d36fa3c82f90c6b7730667a067f99",
+        "submitted_at": "2024-06-16T06:56:53Z",
+        "updated_at": "2025-03-24T11:46:14Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2406.10819v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.10819",
+      "catalog_id": "arxiv:2406.10819",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-06-16",
+      "identifiers": {
+        "arxiv": "2406.10819"
+      },
+      "record_updated_at": "2025-03-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2406.10819",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2024-06-16; Recorded arXiv version: v2; Recorded version updated: 2025-03-24T11:46:14Z.",
+    "title": "GUI-World: A Video Benchmark and Dataset for Multimodal GUI-oriented Understanding",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2406.13264v2",
+    "archive": "arXiv",
+    "archive_location": "2406.13264",
+    "author": [
+      {
+        "literal": "Michael Wornow"
+      },
+      {
+        "literal": "Avanika Narayan"
+      },
+      {
+        "literal": "Ben Viggiano"
+      },
+      {
+        "literal": "Ishan S. Khare"
+      },
+      {
+        "literal": "Tathagat Verma"
+      },
+      {
+        "literal": "Tibor Thompson"
+      },
+      {
+        "literal": "Miguel Angel Fuentes Hernandez"
+      },
+      {
+        "literal": "Sudharsan Sundar"
+      },
+      {
+        "literal": "Chloe Trujillo"
+      },
+      {
+        "literal": "Krrish Chawla"
+      },
+      {
+        "literal": "Rongfei Lu"
+      },
+      {
+        "literal": "Justin Shen"
+      },
+      {
+        "literal": "Divya Nagaraj"
+      },
+      {
+        "literal": "Joshua Martinez"
+      },
+      {
+        "literal": "Vardhan Agrawal"
+      },
+      {
+        "literal": "Althea Hudson"
+      },
+      {
+        "literal": "Nigam H. Shah"
+      },
+      {
+        "literal": "Christopher Re"
+      }
+    ],
+    "citation-key": "arxiv_2406_13264",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a7e7d00030ea8c77b9ed6f950d62f2bd417d3870f24b2f4589d8068c9484e328",
+        "submitted_at": "2024-06-19T06:50:15Z",
+        "updated_at": "2024-10-11T00:06:31Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2406.13264v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.13264",
+      "catalog_id": "arxiv:2406.13264",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-06-19",
+      "identifiers": {
+        "arxiv": "2406.13264"
+      },
+      "record_updated_at": "2024-10-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2406.13264",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2024-06-19; Recorded arXiv version: v2; Recorded version updated: 2024-10-11T00:06:31Z.",
+    "title": "WONDERBREAD: A Benchmark for Evaluating Multimodal Foundation Models on Business Process Management Tasks",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2406.13719v1",
+    "archive": "arXiv",
+    "archive_location": "2406.13719",
+    "author": [
+      {
+        "literal": "Qinchen Wu"
+      },
+      {
+        "literal": "Difei Gao"
+      },
+      {
+        "literal": "Kevin Qinghong Lin"
+      },
+      {
+        "literal": "Zhuoyu Wu"
+      },
+      {
+        "literal": "Xiangwu Guo"
+      },
+      {
+        "literal": "Peiran Li"
+      },
+      {
+        "literal": "Weichen Zhang"
+      },
+      {
+        "literal": "Hengxu Wang"
+      },
+      {
+        "literal": "Mike Zheng Shou"
+      }
+    ],
+    "citation-key": "arxiv_2406_13719",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "369c32dba4bab0cfc05b41db16c73d5672605b7f81caabb2dbd72f581b3290ec",
+        "submitted_at": "2024-06-19T17:22:11Z",
+        "updated_at": "2024-06-19T17:22:11Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2406.13719v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.13719",
+      "catalog_id": "arxiv:2406.13719",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-06-19",
+      "identifiers": {
+        "arxiv": "2406.13719"
+      },
+      "record_updated_at": "2024-06-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2406.13719",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2024-06-19; Recorded arXiv version: v1; Recorded version updated: 2024-06-19T17:22:11Z.",
+    "title": "GUI Action Narrator: Where and When Did That Action Take Place?",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2410.19100v3",
+    "archive": "arXiv",
+    "archive_location": "2410.19100",
+    "author": [
+      {
+        "literal": "Lawrence Jang"
+      },
+      {
+        "literal": "Yinheng Li"
+      },
+      {
+        "literal": "Dan Zhao"
+      },
+      {
+        "literal": "Charles Ding"
+      },
+      {
+        "literal": "Justin Lin"
+      },
+      {
+        "literal": "Paul Pu Liang"
+      },
+      {
+        "literal": "Rogerio Bonatti"
+      },
+      {
+        "literal": "Kazuhito Koishida"
+      }
+    ],
+    "citation-key": "arxiv_2410_19100",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6f413943bd5c2a395ddb5cf38a1a5ad61754b35a9eb5de43e8d980bd83e4adff",
+        "submitted_at": "2024-10-24T19:03:01Z",
+        "updated_at": "2025-02-15T05:19:38Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2410.19100v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.19100",
+      "catalog_id": "arxiv:2410.19100",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-10-24",
+      "identifiers": {
+        "arxiv": "2410.19100"
+      },
+      "record_updated_at": "2025-02-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2410.19100",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2024-10-24; Recorded arXiv version: v3; Recorded version updated: 2025-02-15T05:19:38Z.",
+    "title": "VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2502.17110v3",
+    "archive": "arXiv",
+    "archive_location": "2502.17110",
+    "author": [
+      {
+        "literal": "Junyang Wang"
+      },
+      {
+        "literal": "Haiyang Xu"
+      },
+      {
+        "literal": "Xi Zhang"
+      },
+      {
+        "literal": "Ming Yan"
+      },
+      {
+        "literal": "Ji Zhang"
+      },
+      {
+        "literal": "Fei Huang"
+      },
+      {
+        "literal": "Jitao Sang"
+      }
+    ],
+    "citation-key": "arxiv_2502_17110",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d723cb764deb78b194ff0199c7f1b921a12b6a41655c07b06ae88c3d0af58358",
+        "submitted_at": "2025-02-24T12:51:23Z",
+        "updated_at": "2025-06-03T08:37:03Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2502.17110v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2502.17110",
+      "catalog_id": "arxiv:2502.17110",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-02-24",
+      "identifiers": {
+        "arxiv": "2502.17110"
+      },
+      "record_updated_at": "2025-06-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2502.17110",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2025-02-24; Recorded arXiv version: v3; Recorded version updated: 2025-06-03T08:37:03Z.",
+    "title": "Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational Knowledge Injection in Mobile Automation",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2503.07919v3",
+    "archive": "arXiv",
+    "archive_location": "2503.07919",
+    "author": [
+      {
+        "literal": "Yixiao Song"
+      },
+      {
+        "literal": "Katherine Thai"
+      },
+      {
+        "literal": "Chau Minh Pham"
+      },
+      {
+        "literal": "Yapei Chang"
+      },
+      {
+        "literal": "Mazin Nadaf"
+      },
+      {
+        "literal": "Mohit Iyyer"
+      }
+    ],
+    "citation-key": "arxiv_2503_07919",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e1cd6327559d11982fb4a97e739cb6b5234c509859692084ed78130241f6d252",
+        "submitted_at": "2025-03-10T23:50:30Z",
+        "updated_at": "2025-07-24T17:45:05Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2503.07919v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2503.07919",
+      "catalog_id": "arxiv:2503.07919",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-03-10",
+      "identifiers": {
+        "arxiv": "2503.07919"
+      },
+      "record_updated_at": "2025-07-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2503.07919",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          10
+        ]
+      ]
+    },
+    "note": "First published: 2025-03-10; Recorded arXiv version: v3; Recorded version updated: 2025-07-24T17:45:05Z.",
+    "title": "BEARCUBS: A benchmark for computer-using web agents",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2503.17709v1",
+    "archive": "arXiv",
+    "archive_location": "2503.17709",
+    "author": [
+      {
+        "literal": "Yuchen Sun"
+      },
+      {
+        "literal": "Shanhui Zhao"
+      },
+      {
+        "literal": "Tao Yu"
+      },
+      {
+        "literal": "Hao Wen"
+      },
+      {
+        "literal": "Samith Va"
+      },
+      {
+        "literal": "Mengwei Xu"
+      },
+      {
+        "literal": "Yuanchun Li"
+      },
+      {
+        "literal": "Chongyang Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2503_17709",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "80bb507bf3cdccf6f023d0c334899d9d7099c362e9f37c314b15ff9388bae65c",
+        "submitted_at": "2025-03-22T09:30:37Z",
+        "updated_at": "2025-03-22T09:30:37Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2503.17709v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2503.17709",
+      "catalog_id": "arxiv:2503.17709",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-03-22",
+      "identifiers": {
+        "arxiv": "2503.17709"
+      },
+      "record_updated_at": "2025-03-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2503.17709",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2025-03-22; Recorded arXiv version: v1; Recorded version updated: 2025-03-22T09:30:37Z.",
+    "title": "GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2504.12679v4",
+    "archive": "arXiv",
+    "archive_location": "2504.12679",
+    "author": [
+      {
+        "literal": "Bofei Zhang"
+      },
+      {
+        "literal": "Zirui Shang"
+      },
+      {
+        "literal": "Zhi Gao"
+      },
+      {
+        "literal": "Wang Zhang"
+      },
+      {
+        "literal": "Rui Xie"
+      },
+      {
+        "literal": "Xiaojian Ma"
+      },
+      {
+        "literal": "Tao Yuan"
+      },
+      {
+        "literal": "Xinxiao Wu"
+      },
+      {
+        "literal": "Song-Chun Zhu"
+      },
+      {
+        "literal": "Qing Li"
+      }
+    ],
+    "citation-key": "arxiv_2504_12679",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "346fc4db7f8fbf2dc66c32e36f5cc5ace22228d60bdd4c61b6b7ac65487a4a8c",
+        "submitted_at": "2025-04-17T06:15:56Z",
+        "updated_at": "2025-12-04T15:01:09Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2504.12679v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2504.12679",
+      "catalog_id": "arxiv:2504.12679",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-04-17",
+      "identifiers": {
+        "arxiv": "2504.12679"
+      },
+      "record_updated_at": "2025-12-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2504.12679",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2025-04-17; Recorded arXiv version: v4; Recorded version updated: 2025-12-04T15:01:09Z.",
+    "title": "TongUI: Internet-Scale Trajectories from Multimodal Web Tutorials for Generalized GUI Agents",
+    "type": "article",
+    "version": "4"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2505.12632v1",
+    "archive": "arXiv",
+    "archive_location": "2505.12632",
+    "author": [
+      {
+        "literal": "Yunseok Jang"
+      },
+      {
+        "literal": "Yeda Song"
+      },
+      {
+        "literal": "Sungryull Sohn"
+      },
+      {
+        "literal": "Lajanugen Logeswaran"
+      },
+      {
+        "literal": "Tiange Luo"
+      },
+      {
+        "literal": "Dong-Ki Kim"
+      },
+      {
+        "literal": "Kyunghoon Bae"
+      },
+      {
+        "literal": "Honglak Lee"
+      }
+    ],
+    "citation-key": "arxiv_2505_12632",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "64672e6a3450256a8b04d9db231e885e2dd4e8688235f6c7853d70d6276610ff",
+        "submitted_at": "2025-05-19T02:39:03Z",
+        "updated_at": "2025-05-19T02:39:03Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2505.12632v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.12632",
+      "catalog_id": "arxiv:2505.12632",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-05-19",
+      "identifiers": {
+        "arxiv": "2505.12632"
+      },
+      "record_updated_at": "2025-05-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.12632",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-19; Recorded arXiv version: v1; Recorded version updated: 2025-05-19T02:39:03Z.",
+    "title": "Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2505.24838v2",
+    "archive": "arXiv",
+    "archive_location": "2505.24838",
+    "author": [
+      {
+        "literal": "Brandon Man"
+      },
+      {
+        "literal": "Ghadi Nehme"
+      },
+      {
+        "literal": "Md Ferdous Alam"
+      },
+      {
+        "literal": "Faez Ahmed"
+      }
+    ],
+    "citation-key": "arxiv_2505_24838",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f913b87f07fdad0e4c45264c58c8d9b9d13ca26695306d9e0644eb856f18ced7",
+        "submitted_at": "2025-05-30T17:39:52Z",
+        "updated_at": "2025-11-08T18:27:03Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2505.24838v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.24838",
+      "catalog_id": "arxiv:2505.24838",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-05-30",
+      "identifiers": {
+        "arxiv": "2505.24838"
+      },
+      "record_updated_at": "2025-11-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.24838",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-30; Recorded arXiv version: v2; Recorded version updated: 2025-11-08T18:27:03Z.",
+    "title": "VideoCAD: A Dataset and Model for Learning Long-Horizon 3D CAD UI Interactions from Video",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.19488v1",
+    "archive": "arXiv",
+    "archive_location": "2510.19488",
+    "author": [
+      {
+        "literal": "Dunjie Lu"
+      },
+      {
+        "literal": "Yiheng Xu"
+      },
+      {
+        "literal": "Junli Wang"
+      },
+      {
+        "literal": "Haoyuan Wu"
+      },
+      {
+        "literal": "Xinyuan Wang"
+      },
+      {
+        "literal": "Zekun Wang"
+      },
+      {
+        "literal": "Junlin Yang"
+      },
+      {
+        "literal": "Hongjin Su"
+      },
+      {
+        "literal": "Jixuan Chen"
+      },
+      {
+        "literal": "Junda Chen"
+      },
+      {
+        "literal": "Yuchen Mao"
+      },
+      {
+        "literal": "Jingren Zhou"
+      },
+      {
+        "literal": "Junyang Lin"
+      },
+      {
+        "literal": "Binyuan Hui"
+      },
+      {
+        "literal": "Tao Yu"
+      }
+    ],
+    "citation-key": "arxiv_2510_19488",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ebb064e1a9c3e2255677d9b4cd9ce33d2a97dd26a379c321721d576e7c5d6399",
+        "submitted_at": "2025-10-22T11:25:48Z",
+        "updated_at": "2025-10-22T11:25:48Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2510.19488v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.19488",
+      "catalog_id": "arxiv:2510.19488",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-22",
+      "identifiers": {
+        "arxiv": "2510.19488"
+      },
+      "record_updated_at": "2025-10-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.19488",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-22; Recorded arXiv version: v1; Recorded version updated: 2025-10-22T11:25:48Z.",
+    "title": "VideoAgentTrek: Computer Use Pretraining from Unlabeled Videos",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2511.04137v1",
+    "archive": "arXiv",
+    "archive_location": "2511.04137",
+    "author": [
+      {
+        "literal": "Yujian Liu"
+      },
+      {
+        "literal": "Ze Wang"
+      },
+      {
+        "literal": "Hao Chen"
+      },
+      {
+        "literal": "Ximeng Sun"
+      },
+      {
+        "literal": "Xiaodong Yu"
+      },
+      {
+        "literal": "Jialian Wu"
+      },
+      {
+        "literal": "Jiang Liu"
+      },
+      {
+        "literal": "Emad Barsoum"
+      },
+      {
+        "literal": "Zicheng Liu"
+      },
+      {
+        "literal": "Shiyu Chang"
+      }
+    ],
+    "citation-key": "arxiv_2511_04137",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a91413c1e80869860d411402ab49f6e5968787b3bca83f0a9066a0e9c2f75d40",
+        "submitted_at": "2025-11-06T07:29:02Z",
+        "updated_at": "2025-11-06T07:29:02Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2511.04137v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2511.04137",
+      "catalog_id": "arxiv:2511.04137",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-11-06",
+      "identifiers": {
+        "arxiv": "2511.04137"
+      },
+      "record_updated_at": "2025-11-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2511.04137",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2025-11-06; Recorded arXiv version: v1; Recorded version updated: 2025-11-06T07:29:02Z.",
+    "title": "Learning from Online Videos at Inference Time for Computer-Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.22529v1",
+    "archive": "arXiv",
+    "archive_location": "2603.22529",
+    "author": [
+      {
+        "literal": "Shoubin Yu"
+      },
+      {
+        "literal": "Lei Shu"
+      },
+      {
+        "literal": "Antoine Yang"
+      },
+      {
+        "literal": "Yao Fu"
+      },
+      {
+        "literal": "Srinivas Sunkara"
+      },
+      {
+        "literal": "Maria Wang"
+      },
+      {
+        "literal": "Jindong Chen"
+      },
+      {
+        "literal": "Mohit Bansal"
+      },
+      {
+        "literal": "Boqing Gong"
+      }
+    ],
+    "citation-key": "arxiv_2603_22529",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3e4ed7391969359c2594e8b96b8a3a559ef98d2c84a10c1a2c39b3bd962b58c5",
+        "submitted_at": "2026-03-23T19:47:58Z",
+        "updated_at": "2026-03-23T19:47:58Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.22529v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.22529",
+      "catalog_id": "arxiv:2603.22529",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-23",
+      "identifiers": {
+        "arxiv": "2603.22529"
+      },
+      "record_updated_at": "2026-03-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.22529",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-23; Recorded arXiv version: v1; Recorded version updated: 2026-03-23T19:47:58Z.",
+    "title": "Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.24440v1",
+    "archive": "arXiv",
+    "archive_location": "2603.24440",
+    "author": [
+      {
+        "literal": "Xiangru Jian"
+      },
+      {
+        "literal": "Shravan Nayak"
+      },
+      {
+        "literal": "Kevin Qinghong Lin"
+      },
+      {
+        "literal": "Aarash Feizi"
+      },
+      {
+        "literal": "Kaixin Li"
+      },
+      {
+        "literal": "Patrice Bechard"
+      },
+      {
+        "literal": "Spandana Gella"
+      },
+      {
+        "literal": "Sai Rajeswar"
+      }
+    ],
+    "citation-key": "arxiv_2603_24440",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "15237fda2f3799314009635017487749dbedc9b1a0ffdd6b56a8d28eaf01481d",
+        "submitted_at": "2026-03-25T15:52:56Z",
+        "updated_at": "2026-03-25T15:52:56Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.24440v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.24440",
+      "catalog_id": "arxiv:2603.24440",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-25",
+      "identifiers": {
+        "arxiv": "2603.24440"
+      },
+      "record_updated_at": "2026-03-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.24440",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-25; Recorded arXiv version: v1; Recorded version updated: 2026-03-25T15:52:56Z.",
+    "title": "CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.25864v1",
+    "archive": "arXiv",
+    "archive_location": "2603.25864",
+    "author": [
+      {
+        "literal": "Saelyne Yang"
+      },
+      {
+        "literal": "Jaesang Yu"
+      },
+      {
+        "literal": "Yi-Hao Peng"
+      },
+      {
+        "literal": "Kevin Qinghong Lin"
+      },
+      {
+        "literal": "Jae Won Cho"
+      },
+      {
+        "literal": "Yale Song"
+      },
+      {
+        "literal": "Juho Kim"
+      }
+    ],
+    "citation-key": "arxiv_2603_25864",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9b3dd3efca196fa3dd168431102dbb5f0f763e7d9e54b3d709ad2362a9c6f154",
+        "submitted_at": "2026-03-26T19:37:53Z",
+        "updated_at": "2026-03-26T19:37:53Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.25864v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.25864",
+      "catalog_id": "arxiv:2603.25864",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-26",
+      "identifiers": {
+        "arxiv": "2603.25864"
+      },
+      "record_updated_at": "2026-03-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.25864",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-26; Recorded arXiv version: v1; Recorded version updated: 2026-03-26T19:37:53Z.",
+    "title": "GUIDE: A Benchmark for Understanding and Assisting Users in Open-Ended GUI Tasks",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.29472v1",
+    "archive": "arXiv",
+    "archive_location": "2606.29472",
+    "author": [
+      {
+        "literal": "Bojie Li"
+      },
+      {
+        "literal": "Noah Shi"
+      }
+    ],
+    "citation-key": "arxiv_2606_29472",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "54de4e93f4f3e39d904b4661a193765e02c29f8ec7787264aee5616579c32210",
+        "submitted_at": "2026-06-28T15:59:31Z",
+        "updated_at": "2026-06-28T15:59:31Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.29472v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.29472",
+      "catalog_id": "arxiv:2606.29472",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-28",
+      "identifiers": {
+        "arxiv": "2606.29472"
+      },
+      "record_updated_at": "2026-06-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.29472",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-28; Recorded arXiv version: v1; Recorded version updated: 2026-06-28T15:59:31Z.",
+    "title": "Agent-Computer Observation Interfaces Enable Dynamic Computer Use",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.31980v2",
+    "archive": "arXiv",
+    "archive_location": "2606.31980",
+    "author": [
+      {
+        "literal": "Meng Chen"
+      },
+      {
+        "literal": "Anya Ji"
+      },
+      {
+        "literal": "Tsung-Han Wu"
+      },
+      {
+        "literal": "Tobias Maringgele"
+      },
+      {
+        "literal": "David M. Chan"
+      },
+      {
+        "literal": "Alane Suhr"
+      },
+      {
+        "literal": "Amy Pavel"
+      }
+    ],
+    "citation-key": "arxiv_2606_31980",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a0a3e641e0a71051f5fbd20f57af3db06f2b65c61025e78adcdd122f773d034b",
+        "submitted_at": "2026-06-30T17:18:47Z",
+        "updated_at": "2026-09-01T04:17:49Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2606.31980v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.31980",
+      "catalog_id": "arxiv:2606.31980",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-06-30",
+      "identifiers": {
+        "arxiv": "2606.31980"
+      },
+      "record_updated_at": "2026-09-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.31980",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-30; Recorded arXiv version: v2; Recorded version updated: 2026-09-01T04:17:49Z.",
+    "title": "DigitalCoach: Communication and Grounding Gaps in Human and Agentic Computer Use Coaching",
+    "type": "article",
+    "version": "2"
+  }
+]
