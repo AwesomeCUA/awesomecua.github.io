@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "site": "https://awesomecua.github.io",
-  "accepted_at": "2026-10-17T11:59:39+00:00",
-  "manifest_sha256": "3f91119a3d4efdf24453426404cb32c7d7974c3474f125f96b689d3080d54348",
-  "source_commit": "fa76e828b93006aa7111616d13e2bb64676b8c09",
+  "accepted_at": "2026-10-17T12:18:44+00:00",
+  "manifest_sha256": "d3ec58aad595db25a9cb560ef520e37a639589456862179e025b9ad8f4980341",
+  "source_commit": "f2319848016bee7f3c3cd7ec40ea4bb9ccbcf1b0",
   "accepted_pages": {
     "/resources/arxiv-1602-02261/": "6283471d0d1eb6aa9ff5b14c5eb6e1e26f7dcafa928620b8a4d8ad42b7ffe45c",
     "/resources/arxiv-1802-08802/": "0733de1dbb8d8a3e221e37ec7ea4c71aa4b0739278d97427b0d0cf1c7bfe5b0f",
@@ -1272,7 +1272,7 @@
     "/topics/web-navigation/": "522af9250039b3043fc4fcd12d0a16dce273e9871829898da260f6be07813be4",
     "/topics/workflow/": "6bd4be4d9649dad06d1cdc5daada885d167ae83406a9a108e4bf4f06ba63b1b1",
     "/topics/world-models/": "7d618ca923e1ce0a8f3c46d3cbd9e8aba6bf282a09b25c64d7c54b831ef23ebb",
-    "/zh/topics/": "f9f89766bc23c9180ac45d6969ce045ece950c811b7ddcfcc30d57dd10c5c27e",
+    "/zh/topics/": "a4ac8b840aecb4f63c87472cdcdc14ff76d5642c7027a23b7729cb3b2f86f319",
     "/zh/topics/action-prediction/": "6919dcabd856dc1d1428f0fdf16c5b50e4c8a70cdaed267e6583f892c4a806d9",
     "/zh/topics/automation/": "7c5fc8735cdf9482e5b1dd73feeee2a177cfcc17d45a942f74f86c14637f0763",
     "/zh/topics/cross-app/": "c12966b3f5e0bb09ff26410802697dce67997d4617592f1e8d0188399c550bd1",
