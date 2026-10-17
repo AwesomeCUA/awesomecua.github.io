@@ -16,9 +16,16 @@ Bibliographic record for WebCoT: Enhancing Web Agent Reasoning by Reconstructing
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-20013/record.json
+
 ## Authors
 
 Minda Hu, Tianqing Fang, Jianshu Zhang, Junyu Ma, Zhisong Zhang, Jingyan Zhou, Hongming Zhang, Haitao Mi, Dong Yu, Irwin King
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-20013/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-20013/citation.csl.json
 
 ## Recorded arXiv snapshot
 

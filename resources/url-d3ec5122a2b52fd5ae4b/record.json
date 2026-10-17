@@ -1,0 +1,134 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "dataset_profile": {
+      "counts": [],
+      "evidence_urls": [
+        "https://huggingface.co/datasets/OS-Copilot/OS-Genesis-mobile-data/raw/main/README.md",
+        "https://huggingface.co/api/datasets/OS-Copilot/OS-Genesis-mobile-data",
+        "https://raw.githubusercontent.com/OS-Copilot/OS-Genesis/HEAD/README.md"
+      ],
+      "formats": [
+        "JSONL",
+        "ZIP"
+      ],
+      "modalities": [
+        "screenshots",
+        "text",
+        "actions"
+      ],
+      "notes": "AC and AW refer to distinct target training sets; no sample count is inferred from the two JSONL files or ZIP packaging.",
+      "splits": [
+        "AndroidControl training",
+        "AndroidWorld training"
+      ],
+      "supervision": [
+        "mobile action trajectories"
+      ]
+    },
+    "disabled": false,
+    "download_url": "https://huggingface.co/datasets/OS-Copilot/OS-Genesis-mobile-data/tree/main",
+    "gated": false,
+    "hub_id": "OS-Copilot/OS-Genesis-mobile-data",
+    "languages": [],
+    "modalities": [],
+    "sample_count": null,
+    "sample_unit": null
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:01:34Z",
+      "role": "primary",
+      "sha256": "de9de63e21e60e882277a6268e8153abb6c14aaf3e9a7f83e7f98ac14bf37170",
+      "supports": [
+        "name",
+        "kind",
+        "relations",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/datasets/OS-Copilot/OS-Genesis-mobile-data/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:01:33Z",
+      "role": "primary",
+      "sha256": "6a5e0c2baecc2dc8bf4466903798f5ecda07cdac917042bbd4cfbe54d895c11e",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/api/datasets/OS-Copilot/OS-Genesis-mobile-data"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:01Z",
+      "role": "primary",
+      "sha256": "430e495ab250395d666854bd18b0fc29b819cd784cd7730215ef65e461834d0d",
+      "supports": [
+        "summary",
+        "environments",
+        "topics",
+        "scope"
+      ],
+      "url": "https://raw.githubusercontent.com/OS-Copilot/OS-Genesis/HEAD/README.md"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T04:01:34Z",
+      "role": "primary",
+      "sha256": "de9de63e21e60e882277a6268e8153abb6c14aaf3e9a7f83e7f98ac14bf37170",
+      "supports": [
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/datasets/OS-Copilot/OS-Genesis-mobile-data/raw/main/README.md"
+    }
+  ],
+  "id": "url:d3ec5122a2b52fd5ae4b",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-17T04:01:34Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "mit",
+      "retrieved_at": "2026-10-17T04:01:34Z",
+      "url": "https://huggingface.co/datasets/OS-Copilot/OS-Genesis-mobile-data/raw/main/README.md"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/OS-Copilot/OS-Genesis-mobile-data"
+    }
+  ],
+  "name": "OS-Genesis mobile training data",
+  "notes": "The public manifest contains AC/AW JSONL training annotations and a screenshot archive. MIT is declared for the data in its own card, separately from Apache-2.0 declarations on some model checkpoints. The gated web-data release is not included in this asset.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/OS-Copilot/OS-Genesis-mobile-data/raw/main/README.md",
+      "target_id": "arxiv:2412.19723",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Reverse-task-synthesis mobile trajectories released in separate AndroidControl and AndroidWorld training annotation files.",
+  "topics": [
+    "data-generation",
+    "mobile-navigation",
+    "imitation-learning"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/OS-Copilot/OS-Genesis-mobile-data"
+}

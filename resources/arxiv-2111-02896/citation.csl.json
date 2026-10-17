@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2111.02896",
+  "citation-key": "arxiv_2111_02896",
+  "type": "article",
+  "title": "Experimenting quantum phenomena on NISQ computers using high level quantum programming",
+  "URL": "https://arxiv.org/abs/2111.02896v2",
+  "custom": {
+    "catalog_id": "arxiv:2111.02896",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2111.02896",
+    "identifiers": {
+      "arxiv": "2111.02896"
+    },
+    "first_published_at": "2021-11-02",
+    "record_updated_at": "2022-02-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "96437844b739d0b6e0a90e0df60ad41249f5cb6b9eb6015cc3bb2da189d8947e",
+      "submitted_at": "2021-11-02T15:52:49Z",
+      "updated_at": "2022-02-08T04:05:26Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2111.02896v2"
+    }
+  },
+  "note": "First published: 2021-11-02; Recorded arXiv version: v2; Recorded version updated: 2022-02-08T04:05:26Z.",
+  "author": [
+    {
+      "literal": "Duc M. Tran"
+    },
+    {
+      "literal": "Duy V. Nguyen"
+    },
+    {
+      "literal": "Le Bin Ho"
+    },
+    {
+      "literal": "Hung Q. Nguyen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        11,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2111.02896",
+  "genre": "preprint",
+  "version": "2"
+}

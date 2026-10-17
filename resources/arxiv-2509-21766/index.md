@@ -16,9 +16,16 @@ Bibliographic record for UltraHorizon: Benchmarking Agent Capabilities in Ultra 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-21766/record.json
+
 ## Authors
 
 Haotian Luo, Huaisong Zhang, Xuelin Zhang, Haoyu Wang, Zeyu Qin, Wenjie Lu, Guozheng Ma, Haiying He, Yingsha Xie, Qiyang Zhou, Zixuan Hu, Hongze Mi, Yibo Wang, Naiqiang Tan, Hong Chen, Yi R. Fung, Chun Yuan, Li Shen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-21766/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-21766/citation.csl.json
 
 ## Recorded arXiv snapshot
 

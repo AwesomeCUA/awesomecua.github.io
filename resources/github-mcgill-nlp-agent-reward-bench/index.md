@@ -16,6 +16,8 @@ A benchmark and evaluation toolkit for comparing automatic web-agent judges agai
 
 The public repository contains judges, evaluation utilities and annotation files; the linked Hub hosts trajectory/screenshot manifests. No root code license is declared. Dataset Terms of Use are custom and retain third-party restrictions rather than declaring an SPDX license. The paper-reported 1,302 trajectories describe its reviewed study population, not a count recomputed from current Hub files.
 
+- Record JSON: https://awesomecua.github.io/resources/github-mcgill-nlp-agent-reward-bench/record.json
+
 ## Structured profile
 
 - actions: judge verdicts

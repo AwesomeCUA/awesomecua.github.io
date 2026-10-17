@@ -16,9 +16,16 @@ Bibliographic record for Establishing Best Practices for Building Rigorous Agent
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-02825/record.json
+
 ## Authors
 
 Yuxuan Zhu, Tengjun Jin, Yada Pruksachatkun, Andy Zhang, Shu Liu, Sasha Cui, Sayash Kapoor, Shayne Longpre, Kevin Meng, Rebecca Weiss, Fazl Barez, Rahul Gupta, Jwala Dhamala, Jacob Merizian, Mario Giulianelli, Harry Coppock, Cozmin Ududec, Jasjeet Sekhon, Jacob Steinhardt, Antony Kellermann, Sarah Schwettmann, Matei Zaharia, Ion Stoica, Percy Liang, Daniel Kang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-02825/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-02825/citation.csl.json
 
 ## Recorded arXiv snapshot
 

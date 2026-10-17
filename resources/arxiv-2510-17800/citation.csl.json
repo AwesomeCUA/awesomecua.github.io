@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2510.17800",
+  "citation-key": "arxiv_2510_17800",
+  "type": "article",
+  "title": "Glyph: Scaling Context Windows via Visual-Text Compression",
+  "URL": "https://arxiv.org/abs/2510.17800v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.17800",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.17800",
+    "identifiers": {
+      "arxiv": "2510.17800"
+    },
+    "first_published_at": "2025-10-20",
+    "record_updated_at": "2025-10-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1a4f41eefe43dac9c775789a23ed3a05425655400095df27458d7925961ebd70",
+      "submitted_at": "2025-10-20T17:58:56Z",
+      "updated_at": "2025-10-21T17:12:48Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.17800v2"
+    }
+  },
+  "note": "First published: 2025-10-20; Recorded arXiv version: v2; Recorded version updated: 2025-10-21T17:12:48Z.",
+  "author": [
+    {
+      "literal": "Jiale Cheng"
+    },
+    {
+      "literal": "Yusen Liu"
+    },
+    {
+      "literal": "Xinyu Zhang"
+    },
+    {
+      "literal": "Yulin Fei"
+    },
+    {
+      "literal": "Wenyi Hong"
+    },
+    {
+      "literal": "Ruiliang Lyu"
+    },
+    {
+      "literal": "Weihan Wang"
+    },
+    {
+      "literal": "Zhe Su"
+    },
+    {
+      "literal": "Xiaotao Gu"
+    },
+    {
+      "literal": "Xiao Liu"
+    },
+    {
+      "literal": "Yushi Bai"
+    },
+    {
+      "literal": "Jie Tang"
+    },
+    {
+      "literal": "Hongning Wang"
+    },
+    {
+      "literal": "Minlie Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.17800",
+  "genre": "preprint",
+  "version": "2"
+}

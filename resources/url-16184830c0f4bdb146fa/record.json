@@ -1,0 +1,142 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "dataset_profile": {
+      "counts": [
+        {
+          "basis": "reported",
+          "evidence_url": "https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/UI-S1/README.md",
+          "population": "public example subset",
+          "qualifier": "exact",
+          "unit": "training examples",
+          "value": 1000
+        }
+      ],
+      "evidence_urls": [
+        "https://huggingface.co/datasets/mPLUG/UI_S1_dataset/raw/main/README.md",
+        "https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/UI-S1/README.md"
+      ],
+      "formats": [
+        "JSONL",
+        "Parquet"
+      ],
+      "modalities": [
+        "images",
+        "text",
+        "actions"
+      ],
+      "notes": "The count is explicitly reported by the publisher, not inferred from the filename. Full training data remains outside this release.",
+      "splits": [
+        "training example subset"
+      ],
+      "supervision": [
+        "GUI actions"
+      ]
+    },
+    "disabled": false,
+    "download_url": "https://huggingface.co/datasets/mPLUG/UI_S1_dataset/tree/main",
+    "gated": false,
+    "hub_id": "mPLUG/UI_S1_dataset",
+    "languages": [],
+    "modalities": [],
+    "sample_count": null,
+    "sample_unit": null
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:07:19Z",
+      "role": "primary",
+      "sha256": "d826463e2aa159f083dc74869bfabb8abb5b8ea4f2cdf4aeb7676172b18aaaa5",
+      "supports": [
+        "name",
+        "kind",
+        "relations",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/datasets/mPLUG/UI_S1_dataset/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:07:19Z",
+      "role": "primary",
+      "sha256": "cdfbcbf23a3b1b4a609e1943e80dcf144ca1224a74ebf2308fde4fcb4326ab3c",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/api/datasets/mPLUG/UI_S1_dataset"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:06:57Z",
+      "role": "primary",
+      "sha256": "f668c890a5a87953a243715d0d47367c23f0c99b524d80f48bbdde8163f3e942",
+      "supports": [
+        "summary",
+        "environments",
+        "details.dataset_profile",
+        "topics",
+        "scope"
+      ],
+      "url": "https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/UI-S1/README.md"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T04:07:19Z",
+      "role": "primary",
+      "sha256": "d826463e2aa159f083dc74869bfabb8abb5b8ea4f2cdf4aeb7676172b18aaaa5",
+      "supports": [
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/datasets/mPLUG/UI_S1_dataset/raw/main/README.md"
+    }
+  ],
+  "id": "url:16184830c0f4bdb146fa",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-17T04:07:19Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "apache-2.0",
+      "retrieved_at": "2026-10-17T04:07:19Z",
+      "url": "https://huggingface.co/datasets/mPLUG/UI_S1_dataset/raw/main/README.md"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/mPLUG/UI_S1_dataset"
+    }
+  ],
+  "name": "UI-S1 released training examples",
+  "notes": "The release contains train_1000.jsonl and images.parquet. The official README explicitly describes 1,000 released examples and calls the release only part of the training dataset. Apache-2.0 is declared by the dataset card; this is not the complete training corpus.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/mPLUG/UI_S1_dataset/raw/main/README.md",
+      "target_id": "arxiv:2509.11543",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A public example subset of the UI-S1 mobile training data, packaged as JSONL annotations and Parquet images.",
+  "topics": [
+    "reinforcement-learning",
+    "data-generation",
+    "mobile-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/mPLUG/UI_S1_dataset"
+}

@@ -16,9 +16,16 @@ Bibliographic record for WebGames: Challenging General-Purpose Web-Browsing AI A
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-18356/record.json
+
 ## Authors
 
 George Thomas, Alex J. Chan, Jikun Kang, Wenqi Wu, Filippos Christianos, Fraser Greenlee, Andy Toulis, Marvin Purtorab
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-18356/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-18356/citation.csl.json
 
 ## Recorded arXiv snapshot
 

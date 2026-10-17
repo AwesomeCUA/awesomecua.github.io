@@ -1,0 +1,74 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "metrics": [],
+    "task_count": null
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:35:59Z",
+      "role": "primary",
+      "sha256": "a2df62f9b4359f7839c7d6c6917ff654f9eadeafa92f96311495b71e37abd9ba",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/convergence-ai/webgames/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:00Z",
+      "role": "primary",
+      "sha256": "0e03b68c7acb0b340e47f9000ac3808950e2ac8c4cd05960437a9e46e3c09a62",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/convergence-ai/webgames/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:convergence-ai/webgames",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-16T06:35:59Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T06:42:00Z",
+      "url": "https://raw.githubusercontent.com/convergence-ai/webgames/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/convergence-ai/webgames"
+    }
+  ],
+  "name": "WebGames",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Browser games used to evaluate interactive agents.",
+  "topics": [
+    "evaluation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/convergence-ai/webgames"
+}

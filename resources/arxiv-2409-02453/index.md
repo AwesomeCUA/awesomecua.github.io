@@ -16,9 +16,16 @@ Bibliographic record for FrameCorr: Adaptive, Autoencoder-based Neural Compressi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-02453/record.json
+
 ## Authors
 
 John Li, Shehab Sarar Ahmed, Deepak Nair
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-02453/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-02453/citation.csl.json
 
 ## Recorded arXiv snapshot
 

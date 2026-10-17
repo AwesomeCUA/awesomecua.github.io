@@ -16,9 +16,16 @@ Bibliographic record for FraudSMSWalker: Benchmarking Agentic Large Language Mod
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-16659/record.json
+
 ## Authors
 
 Y. H. Zhou, Z. M. Ma, Y. J. Zhou, Y. T. Li, H. X. Xiang, Y. M. Cheng, T. L. Chen, K. J. Zhang, Z. H. Nan, J. H. Ni, Z. Wu, Q. Y. Pan, S. Zhang, S. Cheng, M. Y. Luo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-16659/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-16659/citation.csl.json
 
 ## Recorded arXiv snapshot
 

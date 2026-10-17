@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:1406.7301",
+  "citation-key": "arxiv_1406_7301",
+  "type": "article",
+  "title": "Componentwise accurate fluid queue computations using doubling algorithms",
+  "URL": "https://arxiv.org/abs/1406.7301v3",
+  "custom": {
+    "catalog_id": "arxiv:1406.7301",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1406.7301",
+    "identifiers": {
+      "arxiv": "1406.7301"
+    },
+    "first_published_at": "2014-06-27",
+    "record_updated_at": "2014-11-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a897b640e080f36b9014a8dd0de0b191e6d4fae373bc9370b5038c6f1e8d3cab",
+      "submitted_at": "2014-06-27T20:09:10Z",
+      "updated_at": "2014-11-12T21:32:09Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/1406.7301v3"
+    }
+  },
+  "note": "First published: 2014-06-27; Recorded arXiv version: v3; Recorded version updated: 2014-11-12T21:32:09Z.",
+  "author": [
+    {
+      "literal": "Giang T. Nguyen"
+    },
+    {
+      "literal": "Federico Poloni"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2014,
+        6,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1406.7301",
+  "genre": "preprint",
+  "version": "3"
+}

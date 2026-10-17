@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2603.20340",
+  "citation-key": "arxiv_2603_20340",
+  "type": "article",
+  "title": "ContractSkill: Repairable Contract-Based Skills for Multimodal Web Agents",
+  "URL": "https://arxiv.org/abs/2603.20340v3",
+  "custom": {
+    "catalog_id": "arxiv:2603.20340",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.20340",
+    "identifiers": {
+      "arxiv": "2603.20340"
+    },
+    "first_published_at": "2026-03-20",
+    "record_updated_at": "2026-04-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8e8182e64c7a57a2dd6eb381762bc9a60b08e13ba5a337d0e9125ab6a5518b6c",
+      "submitted_at": "2026-03-20T09:25:50Z",
+      "updated_at": "2026-04-15T07:34:34Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2603.20340v3"
+    }
+  },
+  "note": "First published: 2026-03-20; Recorded arXiv version: v3; Recorded version updated: 2026-04-15T07:34:34Z.",
+  "author": [
+    {
+      "literal": "Zijian Lu"
+    },
+    {
+      "literal": "Yiping Zuo"
+    },
+    {
+      "literal": "Yupeng Nie"
+    },
+    {
+      "literal": "Xin He"
+    },
+    {
+      "literal": "Weibei Fan"
+    },
+    {
+      "literal": "Lianyong Qi"
+    },
+    {
+      "literal": "Shi Jin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.20340",
+  "genre": "preprint",
+  "version": "3"
+}

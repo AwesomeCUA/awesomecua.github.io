@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2605.26114",
+  "citation-key": "arxiv_2605_26114",
+  "type": "article",
+  "title": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
+  "URL": "https://arxiv.org/abs/2605.26114v3",
+  "custom": {
+    "catalog_id": "arxiv:2605.26114",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.26114",
+    "identifiers": {
+      "arxiv": "2605.26114"
+    },
+    "first_published_at": "2026-05-25",
+    "record_updated_at": "2026-09-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "145c7012fb15a85b203924ecd559c8b20d18b51bf79805a6751fec75d6f68dec",
+      "submitted_at": "2026-05-25T17:59:49Z",
+      "updated_at": "2026-09-23T17:59:57Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2605.26114v3"
+    }
+  },
+  "note": "First published: 2026-05-25; Recorded arXiv version: v3; Recorded version updated: 2026-09-23T17:59:57Z.",
+  "author": [
+    {
+      "literal": "Dingbang Wu"
+    },
+    {
+      "literal": "Rui Hao"
+    },
+    {
+      "literal": "Haiyang Wang"
+    },
+    {
+      "literal": "Shuzhe Wu"
+    },
+    {
+      "literal": "Han Xiao"
+    },
+    {
+      "literal": "Zhenghong Li"
+    },
+    {
+      "literal": "Bojiang Zhou"
+    },
+    {
+      "literal": "Zheng Ju"
+    },
+    {
+      "literal": "Zichen Liu"
+    },
+    {
+      "literal": "Lue Fan"
+    },
+    {
+      "literal": "Zhaoxiang Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.26114",
+  "genre": "preprint",
+  "version": "3"
+}

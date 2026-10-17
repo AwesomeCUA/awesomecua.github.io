@@ -16,9 +16,16 @@ Bibliographic record for InstructExcel: A Benchmark for Natural Language Instruc
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-14495/record.json
+
 ## Authors
 
 Justin Payan, Swaroop Mishra, Mukul Singh, Carina Negreanu, Christian Poelitz, Chitta Baral, Subhro Roy, Rasika Chakravarthy, Benjamin Van Durme, Elnaz Nouri
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-14495/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-14495/citation.csl.json
 
 ## Recorded arXiv snapshot
 

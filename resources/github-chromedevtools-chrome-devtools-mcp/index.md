@@ -16,6 +16,8 @@ MCP tools for browser control and inspection through Chrome DevTools.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-chromedevtools-chrome-devtools-mcp/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/ChromeDevTools/chrome-devtools-mcp/HEAD/LICENSE

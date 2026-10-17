@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2602.14865",
+  "citation-key": "arxiv_2602_14865",
+  "type": "article",
+  "title": "EmbeWebAgent: Embedding Web Agents into Any Customized UI",
+  "URL": "https://arxiv.org/abs/2602.14865v1",
+  "custom": {
+    "catalog_id": "arxiv:2602.14865",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.14865",
+    "identifiers": {
+      "arxiv": "2602.14865"
+    },
+    "first_published_at": "2026-02-16",
+    "record_updated_at": "2026-02-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "353036db8a5609d64792ea49523ca424cf265d981ff34d1e7bc8fed35ffb21c0",
+      "submitted_at": "2026-02-16T15:59:56Z",
+      "updated_at": "2026-02-16T15:59:56Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2602.14865v1"
+    }
+  },
+  "note": "First published: 2026-02-16; Recorded arXiv version: v1; Recorded version updated: 2026-02-16T15:59:56Z.",
+  "author": [
+    {
+      "literal": "Chenyang Ma"
+    },
+    {
+      "literal": "Clyde Fare"
+    },
+    {
+      "literal": "Matthew Wilson"
+    },
+    {
+      "literal": "Dave Braines"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.14865",
+  "genre": "preprint",
+  "version": "1"
+}

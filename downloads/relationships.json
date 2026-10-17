@@ -1,5 +1,5 @@
 {
-  "relation_count": 282,
+  "relation_count": 283,
   "semantics": "Reviewed semantic links only. Documentation does not establish training or evaluation dependency.",
   "relations": [
     {
@@ -17,6 +17,14 @@
       "evidence_url": "https://raw.githubusercontent.com/google-research/google-research/master/android_in_the_wild/README.md",
       "target_id": "arxiv:2307.10088",
       "type": "introduced_by"
+    },
+    {
+      "source_id": "github:aburns4/motif",
+      "source_name": "MoTIF",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/aburns4/MoTIF/HEAD/README.md",
+      "target_id": "arxiv:2202.02312",
+      "type": "documented_by"
     },
     {
       "source_id": "github:acrab-agentic-labs/appsim",

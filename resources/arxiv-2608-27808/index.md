@@ -16,9 +16,16 @@ Introduces CURA, a telemetry-based runtime monitor that turns computer-use traje
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-27808/record.json
+
 ## Authors
 
 Divake Kumar, Sina Tayebati, Devashri Naik, Amanda Sofie Rios, Nilesh Ahuja, Omesh Tickoo, Ranganath Krishnan, Amit Ranjan Trivedi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-27808/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-27808/citation.csl.json
 
 ## Recorded arXiv snapshot
 

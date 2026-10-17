@@ -16,9 +16,16 @@ Bibliographic record for Correlation between Multivariate Datasets, from Inter-G
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1710-11292/record.json
+
 ## Authors
 
 Kangrui Wang, Dalia Chakrabarty
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1710-11292/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1710-11292/citation.csl.json
 
 ## Recorded arXiv snapshot
 

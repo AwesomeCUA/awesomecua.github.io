@@ -16,6 +16,8 @@ Released model checkpoint associated with GUI-Actor.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-e3e5dd82a3102689c4ea/record.json
+
 ## License declarations
 
 - code: not recorded

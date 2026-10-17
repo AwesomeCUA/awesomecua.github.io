@@ -16,9 +16,16 @@ Examines energy and carbon-accounting limitations in web-agent evaluation and ar
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-17903/record.json
+
 ## Authors
 
 Lars Krupp, Daniel Geißler, Paul Lukowicz, Jakob Karolus
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-17903/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-17903/citation.csl.json
 
 ## Recorded arXiv snapshot
 

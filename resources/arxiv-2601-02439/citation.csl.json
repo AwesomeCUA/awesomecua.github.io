@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2601.02439",
+  "citation-key": "arxiv_2601_02439",
+  "type": "article",
+  "title": "WebGym: Scaling Training Environments for Visual Web Agents with Realistic Tasks",
+  "URL": "https://arxiv.org/abs/2601.02439v6",
+  "custom": {
+    "catalog_id": "arxiv:2601.02439",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.02439",
+    "identifiers": {
+      "arxiv": "2601.02439"
+    },
+    "first_published_at": "2026-01-05",
+    "record_updated_at": "2026-05-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ae8751c4fae3b4f838eba59ffa8be37a1a5f4fa497dfd69fa3075f8581547f51",
+      "submitted_at": "2026-01-05T09:35:11Z",
+      "updated_at": "2026-05-02T18:45:09Z",
+      "version": 6,
+      "versioned_url": "https://arxiv.org/abs/2601.02439v6"
+    }
+  },
+  "note": "First published: 2026-01-05; Recorded arXiv version: v6; Recorded version updated: 2026-05-02T18:45:09Z.",
+  "author": [
+    {
+      "literal": "Hao Bai"
+    },
+    {
+      "literal": "Alexey Taymanov"
+    },
+    {
+      "literal": "Tong Zhang"
+    },
+    {
+      "literal": "Aviral Kumar"
+    },
+    {
+      "literal": "Spencer Whitehead"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.02439",
+  "genre": "preprint",
+  "version": "6"
+}

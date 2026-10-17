@@ -1,0 +1,106 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/yifeizhou/pae-llava-7b/tree/main",
+    "gated": false,
+    "hub_id": "yifeizhou/pae-llava-7b"
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:28Z",
+      "role": "primary",
+      "sha256": "c0994582f81415c9b0d37e4e5018752e48e511178c4b3898c207a042992db845",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/yifeizhou/pae-llava-7b/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:28Z",
+      "role": "primary",
+      "sha256": "1b76d2aebbe15954eff2b8859b884ec6504f8b67ed0b1045d8b3a83c0d132d3a",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/api/models/yifeizhou/pae-llava-7b"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:06Z",
+      "role": "primary",
+      "sha256": "3e5f24b3175afeba8635dacc7b66eba1ce89fea49996a20281ff2df5a41f1e24",
+      "supports": [
+        "environments",
+        "summary"
+      ],
+      "url": "https://raw.githubusercontent.com/amazon-science/PAE/HEAD/README.md"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T02:02:28Z",
+      "role": "primary",
+      "sha256": "c0994582f81415c9b0d37e4e5018752e48e511178c4b3898c207a042992db845",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/yifeizhou/pae-llava-7b/raw/main/README.md"
+    }
+  ],
+  "id": "url:5d61c1b5fc8dd650518d",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T02:02:28Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "cc-by-nc-4.0",
+      "retrieved_at": "2026-10-17T02:02:28Z",
+      "url": "https://huggingface.co/yifeizhou/pae-llava-7b/raw/main/README.md"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/yifeizhou/pae-llava-7b"
+    }
+  ],
+  "name": "PAE LLaVA 7B",
+  "notes": "The model is publicly ungated and has seven safetensors shards plus tokenizer and configuration files. Its card declares CC-BY-NC-4.0 for this model. This weight declaration does not settle the separate PAE dataset or code licensing questions.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/yifeizhou/pae-llava-7b/raw/main/README.md",
+      "target_id": "arxiv:2412.13194",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A released LLaVA checkpoint for visual browser interaction from the PAE autonomous task-proposal and policy-learning system.",
+  "topics": [
+    "web-navigation",
+    "reinforcement-learning"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/yifeizhou/pae-llava-7b"
+}

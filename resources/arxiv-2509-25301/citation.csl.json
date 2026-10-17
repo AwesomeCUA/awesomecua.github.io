@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2509.25301",
+  "citation-key": "arxiv_2509_25301",
+  "type": "article",
+  "title": "Flash-Searcher: Fast and Effective Web Agents via DAG-Based Parallel Execution",
+  "URL": "https://arxiv.org/abs/2509.25301v1",
+  "custom": {
+    "catalog_id": "arxiv:2509.25301",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.25301",
+    "identifiers": {
+      "arxiv": "2509.25301"
+    },
+    "first_published_at": "2025-09-29",
+    "record_updated_at": "2025-09-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "dc9bcd3849ae08f4c8931cdf5e7a2e9bb482a29f2bab07a317bb604ca626979b",
+      "submitted_at": "2025-09-29T17:39:30Z",
+      "updated_at": "2025-09-29T17:39:30Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2509.25301v1"
+    }
+  },
+  "note": "First published: 2025-09-29; Recorded arXiv version: v1; Recorded version updated: 2025-09-29T17:39:30Z.",
+  "author": [
+    {
+      "literal": "Tianrui Qin"
+    },
+    {
+      "literal": "Qianben Chen"
+    },
+    {
+      "literal": "Sinuo Wang"
+    },
+    {
+      "literal": "He Xing"
+    },
+    {
+      "literal": "King Zhu"
+    },
+    {
+      "literal": "He Zhu"
+    },
+    {
+      "literal": "Dingfeng Shi"
+    },
+    {
+      "literal": "Xinxin Liu"
+    },
+    {
+      "literal": "Ge Zhang"
+    },
+    {
+      "literal": "Jiaheng Liu"
+    },
+    {
+      "literal": "Yuchen Eleanor Jiang"
+    },
+    {
+      "literal": "Xitong Gao"
+    },
+    {
+      "literal": "Wangchunshu Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.25301",
+  "genre": "preprint",
+  "version": "1"
+}

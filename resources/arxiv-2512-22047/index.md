@@ -16,9 +16,16 @@ Bibliographic record for MAI-UI Technical Report: Real-World Centric Foundation 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-22047/record.json
+
 ## Authors
 
 Hanzhang Zhou, Xu Zhang, Panrong Tong, Jianan Zhang, Liangyu Chen, Quyu Kong, Chenglin Cai, Chen Liu, Yue Wang, Jingren Zhou, Steven Hoi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-22047/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-22047/citation.csl.json
 
 ## Recorded arXiv snapshot
 

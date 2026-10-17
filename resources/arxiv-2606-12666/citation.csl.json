@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2606.12666",
+  "citation-key": "arxiv_2606_12666",
+  "type": "article",
+  "title": "CAPED: Context-Aware Privacy Exposure Defense for Mobile GUI Agents",
+  "URL": "https://arxiv.org/abs/2606.12666v2",
+  "custom": {
+    "catalog_id": "arxiv:2606.12666",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2606.12666",
+    "identifiers": {
+      "arxiv": "2606.12666"
+    },
+    "first_published_at": "2026-06-10",
+    "record_updated_at": "2026-06-16",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fed1c6e109cc5d34aebe3bb333955e8bf792264d4c1ed0893d76534a77649afd",
+      "submitted_at": "2026-06-10T20:48:39Z",
+      "updated_at": "2026-06-16T03:15:00Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2606.12666v2"
+    }
+  },
+  "note": "First published: 2026-06-10; Recorded arXiv version: v2; Recorded version updated: 2026-06-16T03:15:00Z.",
+  "author": [
+    {
+      "literal": "Siyu Shen"
+    },
+    {
+      "literal": "Fenghao Xu"
+    },
+    {
+      "literal": "Wenrui Diao"
+    },
+    {
+      "literal": "Kehuan Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.12666",
+  "genre": "preprint",
+  "version": "2"
+}

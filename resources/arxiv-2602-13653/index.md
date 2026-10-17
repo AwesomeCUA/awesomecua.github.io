@@ -16,9 +16,16 @@ Bibliographic record for Building Autonomous GUI Navigation via Agentic-Q Estima
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-13653/record.json
+
 ## Authors
 
 Yibo Wang, Guangda Huzhang, Yuwei Hu, Yu Xia, Shiyin Lu, Qing-Guo Chen, Zhao Xu, Weihua Luo, Kaifu Zhang, Lijun Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-13653/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-13653/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Introduces data and a generation pipeline for translating natural-language reque
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-00402/record.json
+
 ## Authors
 
 Weikai Xie, Li Zhang, Shihe Wang, Rongjie Yi, Mengwei Xu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-00402/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-00402/citation.csl.json
 
 ## Recorded arXiv snapshot
 

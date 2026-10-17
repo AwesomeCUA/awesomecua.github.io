@@ -1,0 +1,89 @@
+{
+  "aliases": [],
+  "authors": [
+    "Haoren Zhao",
+    "Tianyi Chen",
+    "Zhen Wang"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ededfa864150f1b7b4ba53b265b5cbaa60bcf42690a8e22f5c13f915b6cd0108",
+      "submitted_at": "2025-04-07T03:58:45Z",
+      "updated_at": "2025-04-07T03:58:45Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2504.04716v1"
+    }
+  },
+  "environments": [
+    "web",
+    "desktop",
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:54Z",
+      "role": "primary",
+      "sha256": "4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:54Z",
+      "role": "primary",
+      "sha256": "4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2504.04716",
+  "identifiers": {
+    "arxiv": "2504.04716"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:54Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2504.04716"
+    }
+  ],
+  "name": "On the Robustness of GUI Grounding Models Against Image Attacks",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2025-04-07",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Evaluates GUI grounding models under natural image noise, untargeted adversarial perturbations, and targeted image attacks. Experiments cover mobile, desktop, and web interfaces and analyze sensitivity to image resolution and adversarial changes.",
+  "topics": [
+    "grounding",
+    "robustness",
+    "safety-security",
+    "evaluation"
+  ],
+  "updated_at": "2025-04-07",
+  "url": "https://arxiv.org/abs/2504.04716"
+}

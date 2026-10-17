@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2409.03402",
+  "citation-key": "arxiv_2409_03402",
+  "type": "article",
+  "title": "Game On: Towards Language Models as RL Experimenters",
+  "URL": "https://arxiv.org/abs/2409.03402v1",
+  "custom": {
+    "catalog_id": "arxiv:2409.03402",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2409.03402",
+    "identifiers": {
+      "arxiv": "2409.03402"
+    },
+    "first_published_at": "2024-09-05",
+    "record_updated_at": "2024-09-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "49e23d0a100aae6e04b22a0bfea6856a7f802e8d2209e15c5ecb7dd340901505",
+      "submitted_at": "2024-09-05T10:38:16Z",
+      "updated_at": "2024-09-05T10:38:16Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2409.03402v1"
+    }
+  },
+  "note": "First published: 2024-09-05; Recorded arXiv version: v1; Recorded version updated: 2024-09-05T10:38:16Z.",
+  "author": [
+    {
+      "literal": "Jingwei Zhang"
+    },
+    {
+      "literal": "Thomas Lampe"
+    },
+    {
+      "literal": "Abbas Abdolmaleki"
+    },
+    {
+      "literal": "Jost Tobias Springenberg"
+    },
+    {
+      "literal": "Martin Riedmiller"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2409.03402",
+  "genre": "preprint",
+  "version": "1"
+}

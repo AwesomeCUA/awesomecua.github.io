@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2506.21614",
+  "citation-key": "arxiv_2506_21614",
+  "type": "article",
+  "title": "LastingBench: Defend Benchmarks Against Knowledge Leakage",
+  "URL": "https://arxiv.org/abs/2506.21614v2",
+  "custom": {
+    "catalog_id": "arxiv:2506.21614",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2506.21614",
+    "identifiers": {
+      "arxiv": "2506.21614"
+    },
+    "first_published_at": "2025-06-21",
+    "record_updated_at": "2025-09-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fd75d10b8e20d8b2961d965ab05fd6f4dd52994ea9c5079c40081e6024df0196",
+      "submitted_at": "2025-06-21T13:01:04Z",
+      "updated_at": "2025-09-14T14:29:20Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2506.21614v2"
+    }
+  },
+  "note": "First published: 2025-06-21; Recorded arXiv version: v2; Recorded version updated: 2025-09-14T14:29:20Z.",
+  "author": [
+    {
+      "literal": "Yixiong Fang"
+    },
+    {
+      "literal": "Tianran Sun"
+    },
+    {
+      "literal": "Yuling Shi"
+    },
+    {
+      "literal": "Min Wang"
+    },
+    {
+      "literal": "Xiaodong Gu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.21614",
+  "genre": "preprint",
+  "version": "2"
+}

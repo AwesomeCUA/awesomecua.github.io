@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2601.18305",
+  "citation-key": "arxiv_2601_18305",
+  "type": "article",
+  "title": "SwipeGen: Bridging the Execution Gap in GUI Agents via Human-like Swipe Synthesis",
+  "URL": "https://arxiv.org/abs/2601.18305v2",
+  "custom": {
+    "catalog_id": "arxiv:2601.18305",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2601.18305",
+    "identifiers": {
+      "arxiv": "2601.18305"
+    },
+    "first_published_at": "2026-01-26",
+    "record_updated_at": "2026-08-20",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cb90eed33e989d38cd4058d54ba7d073f1b8e5c1453a9106dfe5e533da7b08a1",
+      "submitted_at": "2026-01-26T09:35:10Z",
+      "updated_at": "2026-08-20T07:50:44Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2601.18305v2"
+    }
+  },
+  "note": "First published: 2026-01-26; Recorded arXiv version: v2; Recorded version updated: 2026-08-20T07:50:44Z.",
+  "author": [
+    {
+      "literal": "Xuan Wang"
+    },
+    {
+      "literal": "Siyuan Su"
+    },
+    {
+      "literal": "Quantong Fu"
+    },
+    {
+      "literal": "Yongxiang Hu"
+    },
+    {
+      "literal": "Yangfan Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.18305",
+  "genre": "preprint",
+  "version": "2"
+}

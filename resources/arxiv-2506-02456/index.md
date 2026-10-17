@@ -16,9 +16,16 @@ Bibliographic record for VPI-Bench: Visual Prompt Injection Attacks for Computer
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-02456/record.json
+
 ## Authors
 
 Tri Cao, Bennett Lim, Yue Liu, Yuan Sui, Yuexin Li, Shumin Deng, Lin Lu, Nay Oo, Shuicheng Yan, Bryan Hooi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-02456/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-02456/citation.csl.json
 
 ## Recorded arXiv snapshot
 

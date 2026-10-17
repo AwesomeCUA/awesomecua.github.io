@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2604.05912",
+  "citation-key": "arxiv_2604_05912",
+  "type": "article",
+  "title": "FrontierFinance: A Long-Horizon Computer-Use Benchmark of Real-World Financial Tasks",
+  "URL": "https://arxiv.org/abs/2604.05912v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.05912",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.05912",
+    "identifiers": {
+      "arxiv": "2604.05912"
+    },
+    "first_published_at": "2026-04-07",
+    "record_updated_at": "2026-04-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "79f2481866d3b3cf067447bf4a198027ffd41a7e9e77c8a17ea21f58937f2dce",
+      "submitted_at": "2026-04-07T14:15:45Z",
+      "updated_at": "2026-04-07T14:15:45Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.05912v1"
+    }
+  },
+  "note": "First published: 2026-04-07; Recorded arXiv version: v1; Recorded version updated: 2026-04-07T14:15:45Z.",
+  "author": [
+    {
+      "literal": "Michael Krumdick"
+    },
+    {
+      "literal": "Varshini Reddy"
+    },
+    {
+      "literal": "Shivani Chaudhary"
+    },
+    {
+      "literal": "William Day"
+    },
+    {
+      "literal": "Maarij Ahmed"
+    },
+    {
+      "literal": "Hayan Haqqi"
+    },
+    {
+      "literal": "Muhammad Ahsen Fahim"
+    },
+    {
+      "literal": "Hanzallah Amjad"
+    },
+    {
+      "literal": "Ahmad Orakzai"
+    },
+    {
+      "literal": "Aqsa Gul"
+    },
+    {
+      "literal": "Chris Tanner"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.05912",
+  "genre": "preprint",
+  "version": "1"
+}

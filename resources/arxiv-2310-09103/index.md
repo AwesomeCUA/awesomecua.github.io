@@ -16,9 +16,16 @@ Bibliographic record for Qin's Algorithm, Continued Fractions and 2-dimensional 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-09103/record.json
+
 ## Authors
 
 Han Wu, Guangwu Xu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-09103/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-09103/citation.csl.json
 
 ## Recorded arXiv snapshot
 

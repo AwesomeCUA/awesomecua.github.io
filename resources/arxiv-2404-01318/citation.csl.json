@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2404.01318",
+  "citation-key": "arxiv_2404_01318",
+  "type": "article",
+  "title": "JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models",
+  "URL": "https://arxiv.org/abs/2404.01318v5",
+  "custom": {
+    "catalog_id": "arxiv:2404.01318",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2404.01318",
+    "identifiers": {
+      "arxiv": "2404.01318"
+    },
+    "first_published_at": "2024-03-28",
+    "record_updated_at": "2024-10-31",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "52a15c2b3dcfbabdef2cb7bccedcd7cb22fffe2d99acbae418d2a28f4cc24b1c",
+      "submitted_at": "2024-03-28T02:44:02Z",
+      "updated_at": "2024-10-31T22:26:40Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2404.01318v5"
+    }
+  },
+  "note": "First published: 2024-03-28; Recorded arXiv version: v5; Recorded version updated: 2024-10-31T22:26:40Z.",
+  "author": [
+    {
+      "literal": "Patrick Chao"
+    },
+    {
+      "literal": "Edoardo Debenedetti"
+    },
+    {
+      "literal": "Alexander Robey"
+    },
+    {
+      "literal": "Maksym Andriushchenko"
+    },
+    {
+      "literal": "Francesco Croce"
+    },
+    {
+      "literal": "Vikash Sehwag"
+    },
+    {
+      "literal": "Edgar Dobriban"
+    },
+    {
+      "literal": "Nicolas Flammarion"
+    },
+    {
+      "literal": "George J. Pappas"
+    },
+    {
+      "literal": "Florian Tramer"
+    },
+    {
+      "literal": "Hamed Hassani"
+    },
+    {
+      "literal": "Eric Wong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.01318",
+  "genre": "preprint",
+  "version": "5"
+}

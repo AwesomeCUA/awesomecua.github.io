@@ -16,9 +16,16 @@ Represents interface interactions with a stateful screen schema to model user be
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-20978/record.json
+
 ## Authors
 
 Yiqiao Jin, Stefano Petrangeli, Yu Shen, Gang Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-20978/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-20978/citation.csl.json
 
 ## Recorded arXiv snapshot
 

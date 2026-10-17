@@ -16,9 +16,16 @@ Bibliographic record for Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-17310/record.json
+
 ## Authors
 
 Zhi Zheng, Rongsheng Chen, Yunpeng Ba, Zhenkun Wang, Yee Whye Teh, Wee Sun Lee
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-17310/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-17310/citation.csl.json
 
 ## Recorded arXiv snapshot
 

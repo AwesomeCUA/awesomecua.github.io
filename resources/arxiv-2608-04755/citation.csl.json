@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2608.04755",
+  "citation-key": "arxiv_2608_04755",
+  "type": "article",
+  "title": "\"Allow\" to Achieve, Over-Privileged Inadvertently: The Unintended Cost of Task-Completion-Driven Pop-up Decisions in Mobile GUI Agents",
+  "URL": "https://arxiv.org/abs/2608.04755v1",
+  "custom": {
+    "catalog_id": "arxiv:2608.04755",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2608.04755",
+    "identifiers": {
+      "arxiv": "2608.04755"
+    },
+    "first_published_at": "2026-08-05",
+    "record_updated_at": "2026-08-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5f8b84135f72558eea1fae428df7cb30f62232631de49e690e73010aeca22d4c",
+      "submitted_at": "2026-08-05T12:23:16Z",
+      "updated_at": "2026-08-05T12:23:16Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2608.04755v1"
+    }
+  },
+  "note": "First published: 2026-08-05; Recorded arXiv version: v1; Recorded version updated: 2026-08-05T12:23:16Z.",
+  "author": [
+    {
+      "literal": "Dongsheng Chen"
+    },
+    {
+      "literal": "Yuxuan Li"
+    },
+    {
+      "literal": "Guanhua Chen"
+    },
+    {
+      "literal": "Jiaxin Zhang"
+    },
+    {
+      "literal": "Xiangyu Zhao"
+    },
+    {
+      "literal": "Lei Ma"
+    },
+    {
+      "literal": "Xin Yao"
+    },
+    {
+      "literal": "Xuetao Wei"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2608.04755",
+  "genre": "preprint",
+  "version": "1"
+}

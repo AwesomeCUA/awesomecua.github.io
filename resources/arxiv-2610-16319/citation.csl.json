@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2610.16319",
+  "citation-key": "arxiv_2610_16319",
+  "type": "article",
+  "title": "HyWe: Unifying Search and Operation for Real-World Hybrid Web Tasks",
+  "URL": "https://arxiv.org/abs/2610.16319v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.16319",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.16319",
+    "identifiers": {
+      "arxiv": "2610.16319"
+    },
+    "first_published_at": "2026-10-12",
+    "record_updated_at": "2026-10-12",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4596cc60436c4fa6c2aa0951b4699b804edb73aa1b1a46900b1d14f901d20f3b",
+      "submitted_at": "2026-10-12T07:42:11Z",
+      "updated_at": "2026-10-12T07:42:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.16319v1"
+    }
+  },
+  "note": "First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T07:42:11Z.",
+  "author": [
+    {
+      "literal": "Zijian Cai"
+    },
+    {
+      "literal": "Haowei Liu"
+    },
+    {
+      "literal": "Kailai Chen"
+    },
+    {
+      "literal": "Lin Peng"
+    },
+    {
+      "literal": "Cong Wan"
+    },
+    {
+      "literal": "Ziqi Zhang"
+    },
+    {
+      "literal": "Chunfeng Yuan"
+    },
+    {
+      "literal": "Bing Li"
+    },
+    {
+      "literal": "Weiming Hu"
+    },
+    {
+      "literal": "Haiyang Xu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.16319",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2508.06960",
+  "citation-key": "arxiv_2508_06960",
+  "type": "article",
+  "title": "DatasetResearch: Benchmarking Agent Systems for Demand-Driven Dataset Discovery",
+  "URL": "https://arxiv.org/abs/2508.06960v1",
+  "custom": {
+    "catalog_id": "arxiv:2508.06960",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.06960",
+    "identifiers": {
+      "arxiv": "2508.06960"
+    },
+    "first_published_at": "2025-08-09",
+    "record_updated_at": "2025-08-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5e471175e25a5f0b6f4d3643a215dd43702c0defa996fc41a75bc50581c33730",
+      "submitted_at": "2025-08-09T12:15:08Z",
+      "updated_at": "2025-08-09T12:15:08Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2508.06960v1"
+    }
+  },
+  "note": "First published: 2025-08-09; Recorded arXiv version: v1; Recorded version updated: 2025-08-09T12:15:08Z.",
+  "author": [
+    {
+      "literal": "Keyu Li"
+    },
+    {
+      "literal": "Mohan Jiang"
+    },
+    {
+      "literal": "Dayuan Fu"
+    },
+    {
+      "literal": "Yunze Wu"
+    },
+    {
+      "literal": "Xiangkun Hu"
+    },
+    {
+      "literal": "Dequan Wang"
+    },
+    {
+      "literal": "Pengfei Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.06960",
+  "genre": "preprint",
+  "version": "1"
+}

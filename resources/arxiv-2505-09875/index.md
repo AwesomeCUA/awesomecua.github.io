@@ -16,9 +16,16 @@ Bibliographic record for Characterizing Unintended Consequences in Human-GUI Age
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-09875/record.json
+
 ## Authors
 
 Shuning Zhang, Jingruo Chen, Zhiqi Gao, Jiajing Gao, Xin Yi, Hewu Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-09875/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-09875/citation.csl.json
 
 ## Recorded arXiv snapshot
 

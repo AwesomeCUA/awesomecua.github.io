@@ -16,9 +16,16 @@ Bibliographic record for DITING: A Multi-Agent Evaluation Framework for Benchmar
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-09116/record.json
+
 ## Authors
 
 Enze Zhang, Jiaying Wang, Mengxi Xiao, Jifei Liu, Ziyan Kuang, Rui Dong, Eric Dong, Sophia Ananiadou, Min Peng, Qianqian Xie
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-09116/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-09116/citation.csl.json
 
 ## Recorded arXiv snapshot
 

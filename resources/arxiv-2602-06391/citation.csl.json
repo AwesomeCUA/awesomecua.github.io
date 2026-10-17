@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2602.06391",
+  "citation-key": "arxiv_2602_06391",
+  "type": "article",
+  "title": "POINTS-GUI-G: GUI-Grounding Journey",
+  "URL": "https://arxiv.org/abs/2602.06391v1",
+  "custom": {
+    "catalog_id": "arxiv:2602.06391",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2602.06391",
+    "identifiers": {
+      "arxiv": "2602.06391"
+    },
+    "first_published_at": "2026-02-06",
+    "record_updated_at": "2026-02-06",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "852813305299178baeda3540cbad539dc30b840681e7bbdaed34dac1341dc0de",
+      "submitted_at": "2026-02-06T05:14:11Z",
+      "updated_at": "2026-02-06T05:14:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2602.06391v1"
+    }
+  },
+  "note": "First published: 2026-02-06; Recorded arXiv version: v1; Recorded version updated: 2026-02-06T05:14:11Z.",
+  "author": [
+    {
+      "literal": "Zhongyin Zhao"
+    },
+    {
+      "literal": "Yuan Liu"
+    },
+    {
+      "literal": "Yikun Liu"
+    },
+    {
+      "literal": "Haicheng Wang"
+    },
+    {
+      "literal": "Le Tian"
+    },
+    {
+      "literal": "Xiao Zhou"
+    },
+    {
+      "literal": "Yangxiu You"
+    },
+    {
+      "literal": "Zilin Yu"
+    },
+    {
+      "literal": "Yang Yu"
+    },
+    {
+      "literal": "Jie Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.06391",
+  "genre": "preprint",
+  "version": "1"
+}

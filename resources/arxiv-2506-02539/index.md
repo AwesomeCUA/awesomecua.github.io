@@ -16,9 +16,16 @@ Bibliographic record for VerificAgent: Domain-Specific Memory Verification for S
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-02539/record.json
+
 ## Authors
 
 Thong Q. Nguyen, Shubhang Desai, Raja Hasnain Anwar, Firoz Shaik, Vishwas Suryanarayanan, Vishal Chowdhary
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-02539/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-02539/citation.csl.json
 
 ## Recorded arXiv snapshot
 

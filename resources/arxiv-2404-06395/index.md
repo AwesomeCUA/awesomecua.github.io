@@ -16,9 +16,16 @@ Bibliographic record for MiniCPM: Unveiling the Potential of Small Language Mode
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-06395/record.json
+
 ## Authors
 
 Shengding Hu, Yuge Tu, Xu Han, Chaoqun He, Ganqu Cui, Xiang Long, Zhi Zheng, Yewei Fang, Yuxiang Huang, Weilin Zhao, Xinrong Zhang, Zheng Leng Thai, Kaihuo Zhang, Chongyi Wang, Yuan Yao, Chenyang Zhao, Jie Zhou, Jie Cai, Zhongwu Zhai, Ning Ding, Chao Jia, Guoyang Zeng, Dahai Li, Zhiyuan Liu, Maosong Sun
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-06395/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-06395/citation.csl.json
 
 ## Recorded arXiv snapshot
 

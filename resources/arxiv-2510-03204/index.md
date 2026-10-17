@@ -16,9 +16,16 @@ Bibliographic record for FocusAgent: Simple Yet Effective Ways of Trimming the L
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-03204/record.json
+
 ## Authors
 
 Imene Kerboua, Sahar Omidi Shayegan, Megh Thakkar, Xing Han Lù, Léo Boisvert, Massimo Caccia, Jérémy Espinas, Alexandre Aussem, Véronique Eglin, Alexandre Lacoste
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-03204/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-03204/citation.csl.json
 
 ## Recorded arXiv snapshot
 

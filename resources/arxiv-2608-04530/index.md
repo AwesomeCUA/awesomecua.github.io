@@ -16,9 +16,16 @@ Bibliographic record for FocusMem: Factorizing Content, Readout, and Trust in La
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-04530/record.json
+
 ## Authors
 
 Zhuoran Zhang, Bowen Li, Jingcheng Ju, Yang Shi, Qixun Wang, Haotian Wang, Wei Chen, Tengjiao Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-04530/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-04530/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,108 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "license_review": {
+      "code": {
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/Tongyi-MAI/MAI-UI/HEAD/MAI-UI/LICENSE",
+          "https://raw.githubusercontent.com/Tongyi-MAI/MAI-UI/HEAD/MAI-UI/README.md"
+        ],
+        "reason": "The implementation and LICENSE live under MAI-UI/. A root-level missing license or the follow-up Qwen-UI-Agent documentation should not change the scoped declaration."
+      }
+    }
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T05:29:14Z",
+      "role": "primary",
+      "sha256": "f644a5c0d0eb29b0ff8d8552dd505c5ecedf7c9cd9ab8cf2c617a1a14ecd0c14",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/Tongyi-MAI/MAI-UI/HEAD/MAI-UI/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:11:45Z",
+      "role": "primary",
+      "sha256": "fd90bc766d7e73889d14e8d3c5c92d384fa86e163222808f6e492509f00a3656",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/Tongyi-MAI/MAI-UI"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:11:46Z",
+      "role": "primary",
+      "sha256": "4340b3d36bc56963fb8173079da8a0f7e91f195994d29fc47a9f7087cb56ffba",
+      "supports": [
+        "release_status"
+      ],
+      "url": "https://api.github.com/repos/Tongyi-MAI/MAI-UI/git/trees/main?recursive=1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T05:29:15Z",
+      "role": "primary",
+      "sha256": "bf989559906a7926b77390082e4267ff7b2b494e8f599a9dc5640319eb45c2ce",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/Tongyi-MAI/MAI-UI/HEAD/MAI-UI/LICENSE"
+    }
+  ],
+  "id": "github:tongyi-mai/mai-ui",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-17T05:29:14Z",
+  "licenses": {
+    "code": {
+      "basis": "Retained MAI-UI/LICENSE and MAI-UI README; applies to the inspected implementation, subject to third-party components.",
+      "declared": "Apache-2.0 (MAI-UI subdirectory)",
+      "retrieved_at": "2026-10-17T05:29:15Z",
+      "url": "https://raw.githubusercontent.com/Tongyi-MAI/MAI-UI/HEAD/MAI-UI/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/Tongyi-MAI/MAI-UI"
+    }
+  ],
+  "name": "MAI-UI inference and evaluation code",
+  "notes": "The original implementation is in the MAI-UI/ subdirectory, with an Apache-2.0 LICENSE there. The current root README also promotes Qwen-UI-Agent, but that follow-up directory contains only documentation/display assets in the inspected tree. This entry does not claim the follow-up runtime, training system or weights are released.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/Tongyi-MAI/MAI-UI/HEAD/MAI-UI/README.md",
+      "target_id": "arxiv:2512.22047",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Published MAI-UI grounding and navigation-agent implementations with inference demos and evaluation scripts.",
+  "topics": [
+    "mobile-navigation",
+    "grounding",
+    "tool-integration"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/Tongyi-MAI/MAI-UI"
+}

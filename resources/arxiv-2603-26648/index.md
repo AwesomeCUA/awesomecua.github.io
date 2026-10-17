@@ -16,9 +16,16 @@ Bibliographic record for Vision2Web: A Hierarchical Benchmark for Visual Website
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-26648/record.json
+
 ## Authors
 
 Zehai He, Wenyi Hong, Zhen Yang, Ziyang Pan, Mingdao Liu, Xiaotao Gu, Jie Tang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-26648/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-26648/citation.csl.json
 
 ## Recorded arXiv snapshot
 

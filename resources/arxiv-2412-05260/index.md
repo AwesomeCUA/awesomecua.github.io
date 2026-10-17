@@ -16,9 +16,16 @@ Bibliographic record for Machine-Learning Electron Dynamics with Moment Propagat
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-05260/record.json
+
 ## Authors
 
 Nicholas J. Boyer, Christopher Shepard, Ruiyi Zhou, Jianhang Xu, Yosuke Kanai
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-05260/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-05260/citation.csl.json
 
 ## Recorded arXiv snapshot
 

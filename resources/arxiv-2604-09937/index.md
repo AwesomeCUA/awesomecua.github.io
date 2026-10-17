@@ -16,9 +16,16 @@ Bibliographic record for HealthAdminBench: Evaluating Computer-Use Agents on Hea
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-09937/record.json
+
 ## Authors
 
 Suhana Bedi, Ryan Welch, Ethan Steinberg, Michael Wornow, Taeil Matthew Kim, Haroun Ahmed, Peter Sterling, Bravim Purohit, Qurat Akram, Angelic Acosta, Esther Nubla, Pritika Sharma, Michael A. Pfeffer, Sanmi Koyejo, Nigam H. Shah
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-09937/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-09937/citation.csl.json
 
 ## Recorded arXiv snapshot
 

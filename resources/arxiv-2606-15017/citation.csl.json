@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2606.15017",
+  "citation-key": "arxiv_2606_15017",
+  "type": "article",
+  "title": "Are Online Skill and Memory Modules Always Worth Their Tokens? A Budget-Constrained Study of Web Agents",
+  "URL": "https://arxiv.org/abs/2606.15017v2",
+  "custom": {
+    "catalog_id": "arxiv:2606.15017",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.15017",
+    "identifiers": {
+      "arxiv": "2606.15017"
+    },
+    "first_published_at": "2026-06-12",
+    "record_updated_at": "2026-08-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "50f1acd5727f84946cf95d181f270dbc4f46f15d24339e6cb257fea1b23b21a0",
+      "submitted_at": "2026-06-12T23:30:14Z",
+      "updated_at": "2026-08-30T17:49:13Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2606.15017v2"
+    }
+  },
+  "note": "First published: 2026-06-12; Recorded arXiv version: v2; Recorded version updated: 2026-08-30T17:49:13Z.",
+  "author": [
+    {
+      "literal": "Sina Hajimiri"
+    },
+    {
+      "literal": "Masih Aminbeidokhti"
+    },
+    {
+      "literal": "Jose Dolz"
+    },
+    {
+      "literal": "Ismail Ben Ayed"
+    },
+    {
+      "literal": "Issam H. Laradji"
+    },
+    {
+      "literal": "Spandana Gella"
+    },
+    {
+      "literal": "Nicolas Gontier"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.15017",
+  "genre": "preprint",
+  "version": "2"
+}

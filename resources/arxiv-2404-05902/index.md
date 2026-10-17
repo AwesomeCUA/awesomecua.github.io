@@ -16,9 +16,16 @@ WILBUR learns to rank prior task demonstrations for a web agent’s prompt and s
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-05902/record.json
+
 ## Authors
 
 Michael Lutz, Arth Bohra, Manvel Saroyan, Artem Harutyunyan, Giovanni Campagna
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-05902/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-05902/citation.csl.json
 
 ## Recorded arXiv snapshot
 

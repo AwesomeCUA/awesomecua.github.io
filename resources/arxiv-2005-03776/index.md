@@ -16,9 +16,16 @@ Introduces PIXELHELP for predicting mobile UI action sequences from instructions
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2005-03776/record.json
+
 ## Authors
 
 Yang Li, Jiacong He, Xin Zhou, Yuan Zhang, Jason Baldridge
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2005-03776/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2005-03776/citation.csl.json
 
 ## Recorded arXiv snapshot
 

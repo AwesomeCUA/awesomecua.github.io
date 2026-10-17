@@ -16,9 +16,16 @@ Studies how Android task performance changes with demonstration scale and releas
 
 Annotation reviewed against the primary abstract. Original dataset scale and experimental results are not independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-03679/record.json
+
 ## Authors
 
 Wei Li, William Bishop, Alice Li, Chris Rawles, Folawiyo Campbell-Ajala, Divya Tyamagundlu, Oriana Riva
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-03679/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-03679/citation.csl.json
 
 ## Recorded arXiv snapshot
 

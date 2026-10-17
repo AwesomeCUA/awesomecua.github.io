@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2510.07915",
+  "citation-key": "arxiv_2510_07915",
+  "type": "article",
+  "title": "MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding",
+  "URL": "https://arxiv.org/abs/2510.07915v3",
+  "custom": {
+    "catalog_id": "arxiv:2510.07915",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.07915",
+    "identifiers": {
+      "arxiv": "2510.07915"
+    },
+    "first_published_at": "2025-10-09",
+    "record_updated_at": "2026-02-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "79002b0990f4009953c8af66e55298adb6a77e134b8e1ffa84180ac78ce3e324",
+      "submitted_at": "2025-10-09T08:07:19Z",
+      "updated_at": "2026-02-09T10:50:38Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2510.07915v3"
+    }
+  },
+  "note": "First published: 2025-10-09; Recorded arXiv version: v3; Recorded version updated: 2026-02-09T10:50:38Z.",
+  "author": [
+    {
+      "literal": "Peiran Wu"
+    },
+    {
+      "literal": "Zhuorui Yu"
+    },
+    {
+      "literal": "Yunze Liu"
+    },
+    {
+      "literal": "Chi-Hao Wu"
+    },
+    {
+      "literal": "Enmin Zhou"
+    },
+    {
+      "literal": "Junxiao Shen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.07915",
+  "genre": "preprint",
+  "version": "3"
+}

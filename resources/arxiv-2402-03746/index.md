@@ -16,9 +16,16 @@ Bibliographic record for Tuning Large Multimodal Models for Videos using Reinfor
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-03746/record.json
+
 ## Authors
 
 Daechul Ahn, Yura Choi, Youngjae Yu, Dongyeop Kang, Jonghyun Choi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-03746/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-03746/citation.csl.json
 
 ## Recorded arXiv snapshot
 

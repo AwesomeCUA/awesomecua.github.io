@@ -1,0 +1,54 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:04Z",
+      "role": "primary",
+      "sha256": "9e7a23adb62bd05d0fd45e5c95a57fcfc3cc4d19ab89d6801c5bf1e23d3c678c",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/asweigart/pyautogui/HEAD/README.md"
+    }
+  ],
+  "id": "github:asweigart/pyautogui",
+  "identifiers": {},
+  "kind": "infrastructure",
+  "last_verified_at": "2026-10-16T06:36:04Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/asweigart/pyautogui"
+    }
+  ],
+  "name": "PyAutoGUI",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "adjacent",
+  "summary": "Mouse, keyboard, and screenshot automation library.",
+  "topics": [
+    "automation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/asweigart/pyautogui"
+}

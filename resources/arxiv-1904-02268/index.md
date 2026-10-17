@@ -16,9 +16,16 @@ Bibliographic record for A scalable Controlled NOT gate for linear optical compu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1904-02268/record.json
+
 ## Authors
 
 Ryan E. Scott, Paul M. Alsing, A. Matthew Smith, Michael L. Fanto, Christopher C. Tison, James Schneeloch, Edwin E. Hach,
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1904-02268/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1904-02268/citation.csl.json
 
 ## Recorded arXiv snapshot
 

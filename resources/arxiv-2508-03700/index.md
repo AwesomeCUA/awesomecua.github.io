@@ -16,9 +16,16 @@ Combines a mobile GUI data pipeline, perception and planning capabilities, and r
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-03700/record.json
+
 ## Authors
 
 Liujian Tang, Shaokang Dong, Yijia Huang, Minqi Xiang, Hongtao Ruan, Bin Wang, Shuo Li, Zhiheng Xi, Zhihui Cao, Hailiang Pang, Heng Kong, He Yang, Mingxu Chai, Zhilin Gao, Xingyu Liu, Yingnan Fu, Jiaming Liu, Xuanjing Huang, Yu-Gang Jiang, Tao Gui, Qi Zhang, Kang Wang, Yunke Zhang, Yuran Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-03700/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-03700/citation.csl.json
 
 ## Recorded arXiv snapshot
 

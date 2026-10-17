@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2602.09222",
+  "citation-key": "arxiv_2602_09222",
+  "type": "article",
+  "title": "MUZZLE: Adaptive Agentic Red-Teaming of Web Agents Against Indirect Prompt Injection Attacks",
+  "URL": "https://arxiv.org/abs/2602.09222v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.09222",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.09222",
+    "identifiers": {
+      "arxiv": "2602.09222"
+    },
+    "first_published_at": "2026-02-09",
+    "record_updated_at": "2026-06-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "77fa6f48314afe90107775dac6c54b56570a7284f2b542e3048a590d87c8c118",
+      "submitted_at": "2026-02-09T21:46:18Z",
+      "updated_at": "2026-06-14T21:10:58Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.09222v2"
+    }
+  },
+  "note": "First published: 2026-02-09; Recorded arXiv version: v2; Recorded version updated: 2026-06-14T21:10:58Z.",
+  "author": [
+    {
+      "literal": "Georgios Syros"
+    },
+    {
+      "literal": "Evan Rose"
+    },
+    {
+      "literal": "Brian Grinstead"
+    },
+    {
+      "literal": "Christoph Kerschbaumer"
+    },
+    {
+      "literal": "William Robertson"
+    },
+    {
+      "literal": "Cristina Nita-Rotaru"
+    },
+    {
+      "literal": "Alina Oprea"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.09222",
+  "genre": "preprint",
+  "version": "2"
+}

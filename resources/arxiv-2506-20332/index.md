@@ -16,9 +16,16 @@ Uses a staged curriculum from response-format alignment through action feedback 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-20332/record.json
+
 ## Authors
 
 Jihao Gu, Qihang Ai, Yingyao Wang, Pi Bu, Jingxuan Xing, Zekun Zhu, Wei Jiang, Ziming Wang, Yingxiu Zhao, Ming-Liang Zhang, Jun Song, Yuning Jiang, Bo Zheng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-20332/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-20332/citation.csl.json
 
 ## Recorded arXiv snapshot
 

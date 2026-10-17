@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2312.13108",
+  "citation-key": "arxiv_2312_13108",
+  "type": "article",
+  "title": "ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation",
+  "URL": "https://arxiv.org/abs/2312.13108v2",
+  "custom": {
+    "catalog_id": "arxiv:2312.13108",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2312.13108",
+    "identifiers": {
+      "arxiv": "2312.13108"
+    },
+    "first_published_at": "2023-12-20",
+    "record_updated_at": "2024-01-01",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c771b076044c170728041a4f54662d21493adcc3742d40db08cb2f9bd0614655",
+      "submitted_at": "2023-12-20T15:28:38Z",
+      "updated_at": "2024-01-01T14:26:39Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2312.13108v2"
+    }
+  },
+  "note": "First published: 2023-12-20; Recorded arXiv version: v2; Recorded version updated: 2024-01-01T14:26:39Z.",
+  "author": [
+    {
+      "literal": "Difei Gao"
+    },
+    {
+      "literal": "Lei Ji"
+    },
+    {
+      "literal": "Zechen Bai"
+    },
+    {
+      "literal": "Mingyu Ouyang"
+    },
+    {
+      "literal": "Peiran Li"
+    },
+    {
+      "literal": "Dongxing Mao"
+    },
+    {
+      "literal": "Qinchen Wu"
+    },
+    {
+      "literal": "Weichen Zhang"
+    },
+    {
+      "literal": "Peiyi Wang"
+    },
+    {
+      "literal": "Xiangwu Guo"
+    },
+    {
+      "literal": "Hengxu Wang"
+    },
+    {
+      "literal": "Luowei Zhou"
+    },
+    {
+      "literal": "Mike Zheng Shou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2312.13108",
+  "genre": "preprint",
+  "version": "2"
+}

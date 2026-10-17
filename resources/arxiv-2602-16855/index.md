@@ -16,9 +16,16 @@ Presents GUI-Owl-1.5 variants and a hybrid data pipeline for multimodal GUI inte
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-16855/record.json
+
 ## Authors
 
 Haiyang Xu, Xi Zhang, Haowei Liu, Junyang Wang, Zhaozai Zhu, Shengjie Zhou, Xuhao Hu, Feiyu Gao, Junjie Cao, Zihua Wang, Zhiyuan Chen, Jitong Liao, Qi Zheng, Jiahui Zeng, Ze Xu, Shuai Bai, Junyang Lin, Jingren Zhou, Ming Yan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-16855/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-16855/citation.csl.json
 
 ## Recorded arXiv snapshot
 

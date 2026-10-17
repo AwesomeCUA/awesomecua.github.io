@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2511.20597",
+  "citation-key": "arxiv_2511_20597",
+  "type": "article",
+  "title": "BrowseSafe: Understanding and Preventing Prompt Injection Within AI Browser Agents",
+  "URL": "https://arxiv.org/abs/2511.20597v2",
+  "custom": {
+    "catalog_id": "arxiv:2511.20597",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.20597",
+    "identifiers": {
+      "arxiv": "2511.20597"
+    },
+    "first_published_at": "2025-11-25",
+    "record_updated_at": "2026-08-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9ffa50cf03aa91fb1ac2be0588b116c5ae28eb71485d468aceaa0c9b65750339",
+      "submitted_at": "2025-11-25T18:28:35Z",
+      "updated_at": "2026-08-12T00:08:22Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2511.20597v2"
+    }
+  },
+  "note": "First published: 2025-11-25; Recorded arXiv version: v2; Recorded version updated: 2026-08-12T00:08:22Z.",
+  "author": [
+    {
+      "literal": "Kaiyuan Zhang"
+    },
+    {
+      "literal": "Mark Tenenholtz"
+    },
+    {
+      "literal": "Kyle Polley"
+    },
+    {
+      "literal": "Jerry Ma"
+    },
+    {
+      "literal": "Denis Yarats"
+    },
+    {
+      "literal": "Ninghui Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.20597",
+  "genre": "preprint",
+  "version": "2"
+}

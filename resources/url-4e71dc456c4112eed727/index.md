@@ -16,6 +16,8 @@ Desktop grounding prompts selected from GroundCUA and formatted for click-based 
 
 The card declares MIT and attributes the source examples to GroundCUA. Its separate claim about UI-Vision overlap is not independently validated by this catalog.
 
+- Record JSON: https://awesomecua.github.io/resources/url-4e71dc456c4112eed727/record.json
+
 ## Structured profile
 
 - formats: Parquet

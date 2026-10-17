@@ -16,9 +16,16 @@ Bibliographic record for GUI-Lens: Coarse-to-Fine Cropping for GUI Grounding wit
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-03270/record.json
+
 ## Authors
 
 Zichuan Fu, Shirong Wang, Wenlin Zhang, Guojing Li, Yimin Deng, Jingtong Gao, Junjia Qi, Hanyu Yan, Yefeng Zheng, Xiaopeng Li, Wanyu Wang, Xian Wu, Xiangyu Zhao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-03270/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-03270/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,6 +16,8 @@ Released model checkpoint associated with Fara.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-a4da77ee63f879cc8e63/record.json
+
 ## License declarations
 
 - code: not recorded

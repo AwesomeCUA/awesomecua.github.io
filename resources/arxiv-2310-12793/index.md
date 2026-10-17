@@ -16,9 +16,16 @@ Bibliographic record for OODRobustBench: a Benchmark and Large-Scale Analysis of
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-12793/record.json
+
 ## Authors
 
 Lin Li, Yifei Wang, Chawin Sitawarin, Michael Spratling
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-12793/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-12793/citation.csl.json
 
 ## Recorded arXiv snapshot
 

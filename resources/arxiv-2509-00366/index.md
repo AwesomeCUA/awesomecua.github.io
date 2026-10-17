@@ -16,9 +16,16 @@ KG-RAG converts UI transition graphs into a searchable vector store and uses int
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-00366/record.json
+
 ## Authors
 
 Ziyi Guan, Jason Chun Lok Li, Zhijian Hou, Pingping Zhang, Donglai Xu, Yuzhi Zhao, Mengyang Wu, Jinpeng Chen, Thanh-Toan Nguyen, Pengfei Xian, Wenao Ma, Shengchao Qin, Graziano Chesi, Ngai Wong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-00366/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-00366/citation.csl.json
 
 ## Recorded arXiv snapshot
 

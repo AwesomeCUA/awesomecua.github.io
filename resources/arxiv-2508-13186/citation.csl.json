@@ -1,0 +1,118 @@
+{
+  "id": "arxiv:2508.13186",
+  "citation-key": "arxiv_2508_13186",
+  "type": "article",
+  "title": "MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents",
+  "URL": "https://arxiv.org/abs/2508.13186v2",
+  "custom": {
+    "catalog_id": "arxiv:2508.13186",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.13186",
+    "identifiers": {
+      "arxiv": "2508.13186"
+    },
+    "first_published_at": "2025-08-14",
+    "record_updated_at": "2026-08-31",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1576451eea518cb7de11d96556874ffecd4e7c3e5025b2823b799a9ebb0d78b8",
+      "submitted_at": "2025-08-14T13:46:47Z",
+      "updated_at": "2026-08-31T07:06:50Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2508.13186v2"
+    }
+  },
+  "note": "First published: 2025-08-14; Recorded arXiv version: v2; Recorded version updated: 2026-08-31T07:06:50Z.",
+  "author": [
+    {
+      "literal": "Shilong Li"
+    },
+    {
+      "literal": "Xingyuan Bu"
+    },
+    {
+      "literal": "Wenjie Wang"
+    },
+    {
+      "literal": "Jiaheng Liu"
+    },
+    {
+      "literal": "Jun Dong"
+    },
+    {
+      "literal": "Haoyang He"
+    },
+    {
+      "literal": "Hao Lu"
+    },
+    {
+      "literal": "Haozhe Zhang"
+    },
+    {
+      "literal": "Chenchen Jing"
+    },
+    {
+      "literal": "Zhen Li"
+    },
+    {
+      "literal": "Chuanhao Li"
+    },
+    {
+      "literal": "Jiayi Tian"
+    },
+    {
+      "literal": "Chenchen Zhang"
+    },
+    {
+      "literal": "Tianhao Peng"
+    },
+    {
+      "literal": "Yancheng He"
+    },
+    {
+      "literal": "Jihao Gu"
+    },
+    {
+      "literal": "Hui Huang"
+    },
+    {
+      "literal": "Donghao Zhou"
+    },
+    {
+      "literal": "Yuanxing Zhang"
+    },
+    {
+      "literal": "Jian Yang"
+    },
+    {
+      "literal": "Ge Zhang"
+    },
+    {
+      "literal": "Wenhao Huang"
+    },
+    {
+      "literal": "Zhaoxiang Zhang"
+    },
+    {
+      "literal": "Qiangpeng Yang"
+    },
+    {
+      "literal": "Shilei Wen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.13186",
+  "genre": "preprint",
+  "version": "2"
+}

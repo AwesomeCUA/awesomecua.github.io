@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2410.12481",
+  "citation-key": "arxiv_2410_12481",
+  "type": "article",
+  "title": "SAC-GLAM: Improving Online RL for LLM agents with Soft Actor-Critic and Hindsight Relabeling",
+  "URL": "https://arxiv.org/abs/2410.12481v3",
+  "custom": {
+    "catalog_id": "arxiv:2410.12481",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2410.12481",
+    "identifiers": {
+      "arxiv": "2410.12481"
+    },
+    "first_published_at": "2024-10-16",
+    "record_updated_at": "2026-01-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8d7d809488791ef6d68dd11b2435b0eeb604e695b02eb2802f147b1c4ba90038",
+      "submitted_at": "2024-10-16T11:59:27Z",
+      "updated_at": "2026-01-29T16:31:07Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2410.12481v3"
+    }
+  },
+  "note": "First published: 2024-10-16; Recorded arXiv version: v3; Recorded version updated: 2026-01-29T16:31:07Z.",
+  "author": [
+    {
+      "literal": "Loris Gaven"
+    },
+    {
+      "literal": "Clement Romac"
+    },
+    {
+      "literal": "Thomas Carta"
+    },
+    {
+      "literal": "Sylvain Lamprier"
+    },
+    {
+      "literal": "Olivier Sigaud"
+    },
+    {
+      "literal": "Pierre-Yves Oudeyer"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.12481",
+  "genre": "preprint",
+  "version": "3"
+}

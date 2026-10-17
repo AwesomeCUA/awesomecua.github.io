@@ -16,6 +16,8 @@ Distributed online reinforcement-learning framework for Android agents, with env
 
 The README identifies model weights and dataset release as pending; this entry covers the code framework.
 
+- Record JSON: https://awesomecua.github.io/resources/github-distrl-lab-distrl-open/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/DistRL-lab/distrl-open/HEAD/LICENSE

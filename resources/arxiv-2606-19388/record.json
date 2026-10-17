@@ -1,0 +1,92 @@
+{
+  "aliases": [],
+  "authors": [
+    "Li Gu",
+    "Zihuan Jiang",
+    "Linqiang Guo",
+    "Zhixiang Chi",
+    "Ziqiang Wang",
+    "Huan Liu",
+    "Yuanhao Yu",
+    "Tse-Hsun Chen",
+    "Yang Wang"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9bf8b07e08b275d90fcbfc63d867f54f5579509132cc9cf694d01447b7f91b78",
+      "submitted_at": "2026-06-16T02:36:22Z",
+      "updated_at": "2026-06-16T02:36:22Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.19388v1"
+    }
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:33:05Z",
+      "role": "primary",
+      "sha256": "2e5722527f8da4b2cf06372d1e2daccd33ef7fdc7151704b411a0bddd734beae",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2606.10423%2C2606.10522%2C2606.10742%2C2606.11078%2C2606.11520%2C2606.12485%2C2606.12666%2C2606.13239%2C2606.13385%2C2606.14106%2C2606.14832%2C2606.15017%2C2606.15034%2C2606.16659%2C2606.16748%2C2606.16802%2C2606.17321%2C2606.17645%2C2606.17929%2C2606.18448%2C2606.18671%2C2606.18890%2C2606.19388%2C2606.19926%2C2606.19930%2C2606.20363%2C2606.20636%2C2606.20717%2C2606.20724%2C2606.20785%2C2606.21654%2C2606.22864%2C2606.22948%2C2606.23449%2C2606.24515%2C2606.24525%2C2606.25705%2C2606.25760%2C2606.27330%2C2606.27595%2C2606.29445%2C2606.29537%2C2606.29705%2C2606.30697%2C2606.31154%2C2606.31270%2C2606.31410%2C2606.31612%2C2607.00502%2C2607.04425&max_results=50"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:33:05Z",
+      "role": "primary",
+      "sha256": "2e5722527f8da4b2cf06372d1e2daccd33ef7fdc7151704b411a0bddd734beae",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2606.10423%2C2606.10522%2C2606.10742%2C2606.11078%2C2606.11520%2C2606.12485%2C2606.12666%2C2606.13239%2C2606.13385%2C2606.14106%2C2606.14832%2C2606.15017%2C2606.15034%2C2606.16659%2C2606.16748%2C2606.16802%2C2606.17321%2C2606.17645%2C2606.17929%2C2606.18448%2C2606.18671%2C2606.18890%2C2606.19388%2C2606.19926%2C2606.19930%2C2606.20363%2C2606.20636%2C2606.20717%2C2606.20724%2C2606.20785%2C2606.21654%2C2606.22864%2C2606.22948%2C2606.23449%2C2606.24515%2C2606.24525%2C2606.25705%2C2606.25760%2C2606.27330%2C2606.27595%2C2606.29445%2C2606.29537%2C2606.29705%2C2606.30697%2C2606.31154%2C2606.31270%2C2606.31410%2C2606.31612%2C2607.00502%2C2607.04425&max_results=50"
+    }
+  ],
+  "id": "arxiv:2606.19388",
+  "identifiers": {
+    "arxiv": "2606.19388"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:33:05Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2606.19388"
+    }
+  ],
+  "name": "Beyond the GUI Paradigm: Do Mobile Agents Need the Phone Screen?",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2026-06-16",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "adjacent",
+  "summary": "This study compares general coding agents using mobile command-line access with reproducible GUI agents on AndroidWorld and MobileWorld. It also supplies oracle CLI analyses and a separate task suite for operations such as bulk changes, filtering and hidden device state.",
+  "topics": [
+    "evaluation",
+    "automation",
+    "cross-app",
+    "tool-integration"
+  ],
+  "updated_at": "2026-06-16",
+  "url": "https://arxiv.org/abs/2606.19388"
+}

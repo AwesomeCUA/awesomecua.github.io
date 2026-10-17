@@ -16,9 +16,16 @@ Bibliographic record for SafeSearch: Do Not Trade Safety for Utility in LLM Sear
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-17017/record.json
+
 ## Authors
 
 Qiusi Zhan, Angeline Budiman-Chan, Abdelrahman Zayed, Xingzhi Guo, Daniel Kang, Joo-Kyung Kim
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-17017/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-17017/citation.csl.json
 
 ## Recorded arXiv snapshot
 

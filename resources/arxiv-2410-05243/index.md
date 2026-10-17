@@ -16,9 +16,16 @@ Introduces UGround, a visual target-localization model trained with large-scale 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-05243/record.json
+
 ## Authors
 
 Boyu Gou, Ruohan Wang, Boyuan Zheng, Yanan Xie, Cheng Chang, Yiheng Shu, Huan Sun, Yu Su
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-05243/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-05243/citation.csl.json
 
 ## Recorded arXiv snapshot
 

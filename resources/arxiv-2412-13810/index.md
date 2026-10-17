@@ -16,9 +16,16 @@ Bibliographic record for CAD-Assistant: Tool-Augmented VLLMs as Generic CAD Task
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-13810/record.json
+
 ## Authors
 
 Dimitrios Mallis, Ahmet Serdar Karadeniz, Sebastian Cavada, Danila Rukhovich, Niki Foteinopoulou, Kseniya Cherenkova, Anis Kacem, Djamila Aouada
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-13810/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-13810/citation.csl.json
 
 ## Recorded arXiv snapshot
 

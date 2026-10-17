@@ -16,9 +16,16 @@ Bibliographic record for Mellum: Production-Grade in-IDE Contextual Code Complet
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-05788/record.json
+
 ## Authors
 
 Nikita Pavlichenko, Iurii Nazarov, Ivan Dolgov, Ekaterina Garanina, Dmitry Ustalov, Ivan Bondyrev, Kseniia Lysaniuk, Evgeniia Vu, Kirill Chekmenev, Joseph Shtok, Yaroslav Golubev, Anton Semenkin, Uladzislau Sazanovich
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-05788/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-05788/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2509.09321",
+  "citation-key": "arxiv_2509_09321",
+  "type": "article",
+  "title": "Towards Adaptive ML Benchmarks: Web-Agent-Driven Construction, Domain Expansion, and Metric Optimization",
+  "URL": "https://arxiv.org/abs/2509.09321v1",
+  "custom": {
+    "catalog_id": "arxiv:2509.09321",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.09321",
+    "identifiers": {
+      "arxiv": "2509.09321"
+    },
+    "first_published_at": "2025-09-11",
+    "record_updated_at": "2025-09-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f17328cfdaacd90ec9578cb4168b1614c60c176d47f7b74012f188f7438882b0",
+      "submitted_at": "2025-09-11T10:10:48Z",
+      "updated_at": "2025-09-11T10:10:48Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2509.09321v1"
+    }
+  },
+  "note": "First published: 2025-09-11; Recorded arXiv version: v1; Recorded version updated: 2025-09-11T10:10:48Z.",
+  "author": [
+    {
+      "literal": "Hangyi Jia"
+    },
+    {
+      "literal": "Yuxi Qian"
+    },
+    {
+      "literal": "Hanwen Tong"
+    },
+    {
+      "literal": "Xinhui Wu"
+    },
+    {
+      "literal": "Lin Chen"
+    },
+    {
+      "literal": "Feng Wei"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.09321",
+  "genre": "preprint",
+  "version": "1"
+}

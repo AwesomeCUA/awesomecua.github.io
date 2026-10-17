@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2003.11668",
+  "citation-key": "arxiv_2003_11668",
+  "type": "article",
+  "title": "Cognitive computation using neural representations of time and space in the Laplace domain",
+  "URL": "https://arxiv.org/abs/2003.11668v1",
+  "custom": {
+    "catalog_id": "arxiv:2003.11668",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2003.11668",
+    "identifiers": {
+      "arxiv": "2003.11668"
+    },
+    "first_published_at": "2020-03-25",
+    "record_updated_at": "2020-03-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c9c5d76c22a3d01392194e7dbf9837cd183c2dfeac4766282ba0a3009f43f4fd",
+      "submitted_at": "2020-03-25T22:40:49Z",
+      "updated_at": "2020-03-25T22:40:49Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2003.11668v1"
+    }
+  },
+  "note": "First published: 2020-03-25; Recorded arXiv version: v1; Recorded version updated: 2020-03-25T22:40:49Z.",
+  "author": [
+    {
+      "literal": "Marc W. Howard"
+    },
+    {
+      "literal": "Michael E. Hasselmo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        3,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2003.11668",
+  "genre": "preprint",
+  "version": "1"
+}

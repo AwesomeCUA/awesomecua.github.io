@@ -16,9 +16,16 @@ Introduces AutoCaptioner, DeskVision, and GUIExplorer for generating desktop reg
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-11170/record.json
+
 ## Authors
 
 Yibin Xu, Liang Yang, Hao Chen, Hua Wang, Zhi Chen, Yaohua Tang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-11170/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-11170/citation.csl.json
 
 ## Recorded arXiv snapshot
 

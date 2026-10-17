@@ -16,6 +16,8 @@ Mobile task demonstrations and natural-language instructions.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-aburns4-motif/record.json
+
 ## Structured profile
 
 - formats: JSON metadata, screen images

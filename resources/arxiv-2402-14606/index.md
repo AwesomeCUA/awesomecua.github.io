@@ -16,9 +16,16 @@ Bibliographic record for Towards Diverse Behaviors: A Benchmark for Imitation Le
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-14606/record.json
+
 ## Authors
 
 Xiaogang Jia, Denis Blessing, Xinkai Jiang, Moritz Reuss, Atalay Donat, Rudolf Lioutikov, Gerhard Neumann
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-14606/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-14606/citation.csl.json
 
 ## Recorded arXiv snapshot
 

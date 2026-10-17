@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2607.27155",
+  "citation-key": "arxiv_2607_27155",
+  "type": "article",
+  "title": "OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding",
+  "URL": "https://arxiv.org/abs/2607.27155v2",
+  "custom": {
+    "catalog_id": "arxiv:2607.27155",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.27155",
+    "identifiers": {
+      "arxiv": "2607.27155"
+    },
+    "first_published_at": "2026-07-29",
+    "record_updated_at": "2026-08-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8e743f464b2ca509f50d372e0f9dc9a49397ffb6f4d24be66452284557c97ad6",
+      "submitted_at": "2026-07-29T17:33:47Z",
+      "updated_at": "2026-08-18T12:27:28Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2607.27155v2"
+    }
+  },
+  "note": "First published: 2026-07-29; Recorded arXiv version: v2; Recorded version updated: 2026-08-18T12:27:28Z.",
+  "author": [
+    {
+      "literal": "Jingbo Zhou"
+    },
+    {
+      "literal": "Yusai Zhao"
+    },
+    {
+      "literal": "Qi Bao"
+    },
+    {
+      "literal": "Jingjia Cao"
+    },
+    {
+      "literal": "Zhenghai Chen"
+    },
+    {
+      "literal": "Chang Gao"
+    },
+    {
+      "literal": "Kaiqi Guo"
+    },
+    {
+      "literal": "Muxin Guo"
+    },
+    {
+      "literal": "Mingxuan Li"
+    },
+    {
+      "literal": "Xinjiang Lu"
+    },
+    {
+      "literal": "Yanru Ma"
+    },
+    {
+      "literal": "Yixiong Xiao"
+    },
+    {
+      "literal": "Zenghui Zhang"
+    },
+    {
+      "literal": "Le Zhang"
+    },
+    {
+      "literal": "Hua Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.27155",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,9 +16,16 @@ Bibliographic record for MVP: Multiple View Prediction Improves GUI Grounding. T
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-08529/record.json
+
 ## Authors
 
 Yunzhu Zhang, Zeyu Pan, Zhengwen Zeng, Shuheng Shen, Changhua Meng, Linchao Zhu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-08529/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-08529/citation.csl.json
 
 ## Recorded arXiv snapshot
 

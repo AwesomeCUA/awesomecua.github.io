@@ -16,9 +16,16 @@ Introduces GUI-CC, a benchmark for assessing GUI world models as multi-step agen
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-00048/record.json
+
 ## Authors
 
 Lin Fu, Zheyuan Yang, Tianhui Zhang, Jinbiao Wei, Guo Gan, Boxu Liu, Yilun Zhao, Yu Rong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-00048/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-00048/citation.csl.json
 
 ## Recorded arXiv snapshot
 

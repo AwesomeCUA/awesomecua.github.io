@@ -16,9 +16,16 @@ Bibliographic record for Don't Click That: Teaching Web Agents to Resist Decepti
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-09497/record.json
+
 ## Authors
 
 Yilin Zhang, Yingkai Hua, Chunyu Wei, Xin Wang, Yueguo Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-09497/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-09497/citation.csl.json
 
 ## Recorded arXiv snapshot
 

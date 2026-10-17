@@ -16,9 +16,16 @@ Bibliographic record for StarFlow: Generating Structured Workflow Outputs From S
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-21889/record.json
+
 ## Authors
 
 Patrice Bechard, Chao Wang, Amirhossein Abaskohi, Juan Rodriguez, Christopher Pal, David Vazquez, Spandana Gella, Sai Rajeswar, Perouz Taslakian
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-21889/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-21889/citation.csl.json
 
 ## Recorded arXiv snapshot
 

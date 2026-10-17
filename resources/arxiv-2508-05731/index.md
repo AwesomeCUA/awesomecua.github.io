@@ -16,9 +16,16 @@ Uses multiple candidate answers and adaptive exploration rewards to improve spat
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-05731/record.json
+
 ## Authors
 
 Yuhang Liu, Zeyu Liu, Shuanghe Zhu, Pengxiang Li, Congkai Xie, Jiasheng Wang, Xavier Hu, Xiaotian Han, Jianbo Yuan, Xinyao Wang, Shengyu Zhang, Hongxia Yang, Fei Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-05731/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-05731/citation.csl.json
 
 ## Recorded arXiv snapshot
 

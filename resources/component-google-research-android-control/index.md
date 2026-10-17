@@ -16,6 +16,8 @@ Android demonstrations with high-level goals, step instructions, screenshots, an
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/component-google-research-android-control/record.json
+
 ## Structured profile
 
 - formats: GZIP-compressed TFRecord

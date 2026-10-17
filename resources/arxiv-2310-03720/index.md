@@ -16,9 +16,16 @@ SteP dynamically composes specialized web-action policies through a stack that r
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-03720/record.json
+
 ## Authors
 
 Paloma Sodhi, S. R. K. Branavan, Yoav Artzi, Ryan McDonald
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-03720/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-03720/citation.csl.json
 
 ## Recorded arXiv snapshot
 

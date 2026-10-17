@@ -16,9 +16,16 @@ Bibliographic record for Building a fault-tolerant quantum computer using concat
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2012-04108/record.json
+
 ## Authors
 
 Christopher Chamberland, Kyungjoo Noh, Patricio Arrangoiz-Arriola, Earl T. Campbell, Connor T. Hann, Joseph Iverson, Harald Putterman, Thomas C. Bohdanowicz, Steven T. Flammia, Andrew Keller, Gil Refael, John Preskill, Liang Jiang, Amir H. Safavi-Naeini, Oskar Painter, Fernando G. S. L. Brandão
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2012-04108/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2012-04108/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for UI-Voyager: A Self-Evolving GUI Agent Learning via Fail
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-24533/record.json
+
 ## Authors
 
 Zichuan Lin, Feiyu Liu, Yijun Yang, Jiafei Lyu, Yiming Gao, Yicheng Liu, Zhicong Lu, Yangbin Yu, Mingyu Yang, Junyou Li, Deheng Ye, Jie Jiang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-24533/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-24533/citation.csl.json
 
 ## Recorded arXiv snapshot
 

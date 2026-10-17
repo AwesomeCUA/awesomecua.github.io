@@ -16,9 +16,16 @@ Studies screenshot-based GUI grounding and navigation using curated interaction 
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-10833/record.json
+
 ## Authors
 
 Zhangxuan Gu, Zhengwen Zeng, Zhenyu Xu, Xingran Zhou, Shuheng Shen, Yunfei Liu, Beitong Zhou, Changhua Meng, Tianyu Xia, Weizhi Chen, Yue Wen, Jingya Dou, Fei Tang, Jinzhen Lin, Yulin Liu, Zhenlin Guo, Yichen Gong, Heng Jia, Changlong Gao, Yuan Guo, Yong Deng, Zhenyu Guo, Liang Chen, Weiqiang Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-10833/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-10833/citation.csl.json
 
 ## Recorded arXiv snapshot
 

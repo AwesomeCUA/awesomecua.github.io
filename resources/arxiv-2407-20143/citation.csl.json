@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2407.20143",
+  "citation-key": "arxiv_2407_20143",
+  "type": "article",
+  "title": "ByteCheckpoint: A Unified Checkpointing System for Large Foundation Model Development",
+  "URL": "https://arxiv.org/abs/2407.20143v4",
+  "custom": {
+    "catalog_id": "arxiv:2407.20143",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2407.20143",
+    "identifiers": {
+      "arxiv": "2407.20143"
+    },
+    "first_published_at": "2024-07-29",
+    "record_updated_at": "2025-04-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "930c7c85f4bbd72fd5c06b9ee196a53f2ce7e4f051a75cfa81b3bda324304032",
+      "submitted_at": "2024-07-29T16:18:20Z",
+      "updated_at": "2025-04-02T06:05:23Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2407.20143v4"
+    }
+  },
+  "note": "First published: 2024-07-29; Recorded arXiv version: v4; Recorded version updated: 2025-04-02T06:05:23Z.",
+  "author": [
+    {
+      "literal": "Borui Wan"
+    },
+    {
+      "literal": "Mingji Han"
+    },
+    {
+      "literal": "Yiyao Sheng"
+    },
+    {
+      "literal": "Yanghua Peng"
+    },
+    {
+      "literal": "Haibin Lin"
+    },
+    {
+      "literal": "Mofan Zhang"
+    },
+    {
+      "literal": "Zhichao Lai"
+    },
+    {
+      "literal": "Menghan Yu"
+    },
+    {
+      "literal": "Junda Zhang"
+    },
+    {
+      "literal": "Zuquan Song"
+    },
+    {
+      "literal": "Xin Liu"
+    },
+    {
+      "literal": "Chuan Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.20143",
+  "genre": "preprint",
+  "version": "4"
+}

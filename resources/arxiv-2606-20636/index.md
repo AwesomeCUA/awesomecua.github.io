@@ -16,9 +16,16 @@ Bibliographic record for SkillHarness: Harnessing Safe Skills for Computer-Use A
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-20636/record.json
+
 ## Authors
 
 Yurun Chen, Biao Yi, Keting Yin, Shengyu Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-20636/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-20636/citation.csl.json
 
 ## Recorded arXiv snapshot
 

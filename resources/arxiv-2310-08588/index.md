@@ -16,9 +16,16 @@ Bibliographic record for Octopus: Embodied Vision-Language Programmer from Envir
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-08588/record.json
+
 ## Authors
 
 Jingkang Yang, Yuhao Dong, Shuai Liu, Bo Li, Ziyue Wang, Chencheng Jiang, Haoran Tan, Jiamu Kang, Yuanhan Zhang, Kaiyang Zhou, Ziwei Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-08588/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-08588/citation.csl.json
 
 ## Recorded arXiv snapshot
 

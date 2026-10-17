@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2610.20107",
+  "citation-key": "arxiv_2610_20107",
+  "type": "article",
+  "title": "Why Generate a Click? Plug-in Decision Heads for Web Agents",
+  "URL": "https://arxiv.org/abs/2610.20107v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.20107",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.20107",
+    "identifiers": {
+      "arxiv": "2610.20107"
+    },
+    "first_published_at": "2026-10-14",
+    "record_updated_at": "2026-10-14",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "47488d3b5450753b4e1a4b0991e50dc92fbab197a9b54bd8d4e3e1a3d762ee96",
+      "submitted_at": "2026-10-14T12:39:51Z",
+      "updated_at": "2026-10-14T12:39:51Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.20107v1"
+    }
+  },
+  "note": "First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T12:39:51Z.",
+  "author": [
+    {
+      "literal": "Chengguang Gan"
+    },
+    {
+      "literal": "Yunhao Liang"
+    },
+    {
+      "literal": "Hanjun Wei"
+    },
+    {
+      "literal": "Qinghao Zhang"
+    },
+    {
+      "literal": "Zhixi Cai"
+    },
+    {
+      "literal": "Shiwen Ni"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.20107",
+  "genre": "preprint",
+  "version": "1"
+}

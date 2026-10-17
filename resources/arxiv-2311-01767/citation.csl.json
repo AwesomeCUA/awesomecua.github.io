@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2311.01767",
+  "citation-key": "arxiv_2311_01767",
+  "type": "article",
+  "title": "PPTC Benchmark: Evaluating Large Language Models for PowerPoint Task Completion",
+  "URL": "https://arxiv.org/abs/2311.01767v2",
+  "custom": {
+    "catalog_id": "arxiv:2311.01767",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2311.01767",
+    "identifiers": {
+      "arxiv": "2311.01767"
+    },
+    "first_published_at": "2023-11-03",
+    "record_updated_at": "2023-11-07",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "58dfa75fd82a2cc1d41954f10feb1d987de6469782d11d04c3b8bfffc8a3b745",
+      "submitted_at": "2023-11-03T08:06:35Z",
+      "updated_at": "2023-11-07T10:13:34Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2311.01767v2"
+    }
+  },
+  "note": "First published: 2023-11-03; Recorded arXiv version: v2; Recorded version updated: 2023-11-07T10:13:34Z.",
+  "author": [
+    {
+      "literal": "Yiduo Guo"
+    },
+    {
+      "literal": "Zekai Zhang"
+    },
+    {
+      "literal": "Yaobo Liang"
+    },
+    {
+      "literal": "Dongyan Zhao"
+    },
+    {
+      "literal": "Nan Duan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.01767",
+  "genre": "preprint",
+  "version": "2"
+}

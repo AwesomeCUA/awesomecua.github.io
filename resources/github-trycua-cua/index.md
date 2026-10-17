@@ -16,6 +16,8 @@ Infrastructure and libraries for computer-use agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-trycua-cua/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/trycua/cua/HEAD/LICENSE.md

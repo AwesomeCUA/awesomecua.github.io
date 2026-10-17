@@ -16,9 +16,16 @@ Bibliographic record for Instruction Agent: Enhancing Agent with Expert Demonstr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-07098/record.json
+
 ## Authors
 
 Yinheng Li, Hailey Hultquist, Justin Wagle, Kazuhito Koishida
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-07098/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-07098/citation.csl.json
 
 ## Recorded arXiv snapshot
 

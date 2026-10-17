@@ -16,9 +16,16 @@ Bibliographic record for OmegaUse: Building a General-Purpose GUI Agent for Auto
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-20380/record.json
+
 ## Authors
 
 Le Zhang, Yixiong Xiao, Xinjiang Lu, Jingjia Cao, Yusai Zhao, Jingbo Zhou, Lang An, Zikan Feng, Wanxiang Sha, Yu Shi, Congxi Xiao, Jian Xiong, Yankai Zhang, Hua Wu, Haifeng Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-20380/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-20380/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for RefDrone: A Challenging Benchmark for Referring Express
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-00392/record.json
+
 ## Authors
 
 Zhichao Sun, Yepeng Liu, Zhiling Su, Huachao Zhu, Yuliang Gu, Yuda Zou, Zelong Liu, Gui-Song Xia, Bo Du, Yongchao Xu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-00392/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-00392/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for DRBench: A Realistic Benchmark for Enterprise Deep Rese
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-00172/record.json
+
 ## Authors
 
 Amirhossein Abaskohi, Tianyi Chen, Miguel Muñoz-Mármol, Curtis Fox, Amrutha Varshini Ramesh, Étienne Marcotte, Xing Han Lù, Nicolas Chapados, Spandana Gella, Peter West, Giuseppe Carenini, Christopher Pal, Alexandre Drouin, Issam H. Laradji
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-00172/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-00172/citation.csl.json
 
 ## Recorded arXiv snapshot
 

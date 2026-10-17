@@ -16,6 +16,8 @@ World-model and planning components that simulate web-action outcomes, with link
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-osu-nlp-group-webdreamer/record.json
+
 ## License declarations
 
 - code: not recorded

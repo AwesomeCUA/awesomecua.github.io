@@ -16,6 +16,8 @@ Memory-routing implementation that chooses text or image demonstrations for a fr
 
 The implementation distinguishes step-level AITW/LearnGUI scores from terminal task success on MobileMiniWoB++. Benchmark outcomes and local smoke-test outputs are different claims; neither was independently reproduced here.
 
+- Record JSON: https://awesomecua.github.io/resources/github-dmis-lab-switchmem/record.json
+
 ## License declarations
 
 - code: not recorded

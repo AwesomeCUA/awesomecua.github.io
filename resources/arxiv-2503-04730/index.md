@@ -16,9 +16,16 @@ Introduces a screenshot-based Windows GUI agent and the WinSpot benchmark for ev
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-04730/record.json
+
 ## Authors
 
 Zheng Hui, Yinheng Li, Dan zhao, Tianyi Chen, Colby Banbury, Kazuhito Koishida
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-04730/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-04730/citation.csl.json
 
 ## Recorded arXiv snapshot
 

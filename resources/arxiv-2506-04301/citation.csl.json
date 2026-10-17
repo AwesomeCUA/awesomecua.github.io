@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2506.04301",
+  "citation-key": "arxiv_2506_04301",
+  "type": "article",
+  "title": "The Cost of Dynamic Reasoning: Demystifying AI Agents and Test-Time Scaling from an AI Infrastructure Perspective",
+  "URL": "https://arxiv.org/abs/2506.04301v2",
+  "custom": {
+    "catalog_id": "arxiv:2506.04301",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2506.04301",
+    "identifiers": {
+      "arxiv": "2506.04301"
+    },
+    "first_published_at": "2025-06-04",
+    "record_updated_at": "2026-01-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2cbc0999dd570abe5507bb75bd64bacd4e193e78473003d98d5b403555acf950",
+      "submitted_at": "2025-06-04T14:37:54Z",
+      "updated_at": "2026-01-07T00:48:17Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2506.04301v2"
+    }
+  },
+  "note": "First published: 2025-06-04; Recorded arXiv version: v2; Recorded version updated: 2026-01-07T00:48:17Z.",
+  "author": [
+    {
+      "literal": "Jiin Kim"
+    },
+    {
+      "literal": "Byeongjun Shin"
+    },
+    {
+      "literal": "Jinha Chung"
+    },
+    {
+      "literal": "Minsoo Rhu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.04301",
+  "genre": "preprint",
+  "version": "2"
+}

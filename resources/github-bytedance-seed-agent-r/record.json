@@ -1,0 +1,108 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:03:20Z",
+      "role": "primary",
+      "sha256": "8471a0761a94b1af84099a80efb6ac53f17e34491a196e82ca068a5113c0b8be",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/ByteDance-Seed/Agent-R/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:03:19Z",
+      "role": "primary",
+      "sha256": "3fff7137bc4f39a3a757f3b820892fb330449044ef2721e9f9d7719d23ff2b98",
+      "supports": [
+        "identity",
+        "availability"
+      ],
+      "url": "https://api.github.com/repos/ByteDance-Seed/Agent-R"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:05:40Z",
+      "role": "primary",
+      "sha256": "e3c70b04094e8e77e249065b2b500ac197fc6fafee6e3275d78289b3790bf7ed",
+      "supports": [
+        "release_status"
+      ],
+      "url": "https://api.github.com/repos/ByteDance-Seed/Agent-R/git/trees/main?recursive=1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:05:22Z",
+      "role": "primary",
+      "sha256": "283ea6cc2997a1a70da0049e09adf9317bb60ca1b51279b65196b83a69e1996b",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/ByteDance-Seed/Agent-R/HEAD/LICENSE"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-17T02:05:22Z",
+      "role": "primary",
+      "sha256": "283ea6cc2997a1a70da0049e09adf9317bb60ca1b51279b65196b83a69e1996b",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/ByteDance-Seed/Agent-R/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:bytedance-seed/agent-r",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-17T02:03:20Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-17T02:05:22Z",
+      "url": "https://raw.githubusercontent.com/ByteDance-Seed/Agent-R/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/ByteDance-Seed/Agent-R"
+    }
+  ],
+  "name": "Agent-R",
+  "notes": "The canonical repository is ByteDance-Seed/Agent-R and is archived but readable. MCTS collection, revision and evaluation scripts are released under Apache-2.0. It also supports non-GUI text environments; this entry covers its WebShop interaction component. No separate weight release was verified.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/ByteDance-Seed/Agent-R/HEAD/README.md",
+      "target_id": "arxiv:2501.11425",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "adjacent",
+  "summary": "Trajectory collection and revision utilities that use tree search and model-guided critique to train agents to recover from mistakes, including WebShop tasks.",
+  "topics": [
+    "self-reflection",
+    "data-generation",
+    "web-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/ByteDance-Seed/Agent-R"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2404.01131",
+  "citation-key": "arxiv_2404_01131",
+  "type": "article",
+  "title": "GOV-REK: Governed Reward Engineering Kernels for Designing Robust Multi-Agent Reinforcement Learning Systems",
+  "URL": "https://arxiv.org/abs/2404.01131v2",
+  "custom": {
+    "catalog_id": "arxiv:2404.01131",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2404.01131",
+    "identifiers": {
+      "arxiv": "2404.01131"
+    },
+    "first_published_at": "2024-04-01",
+    "record_updated_at": "2024-04-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2ef15ce18975ec564c55993465964dca9a4cbe3e087d52e69a4ba84a5ecf465b",
+      "submitted_at": "2024-04-01T14:19:00Z",
+      "updated_at": "2024-04-14T19:54:33Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2404.01131v2"
+    }
+  },
+  "note": "First published: 2024-04-01; Recorded arXiv version: v2; Recorded version updated: 2024-04-14T19:54:33Z.",
+  "author": [
+    {
+      "literal": "Ashish Rana"
+    },
+    {
+      "literal": "Michael Oesterle"
+    },
+    {
+      "literal": "Jannik Brinkmann"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.01131",
+  "genre": "preprint",
+  "version": "2"
+}

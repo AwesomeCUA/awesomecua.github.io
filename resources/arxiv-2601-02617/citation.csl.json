@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2601.02617",
+  "citation-key": "arxiv_2601_02617",
+  "type": "article",
+  "title": "Implementation of Reservoir Computing Using Coupled Microelectromechanical Drum Resonators via Sideband-Pumped Phonon-Cavity Dynamics",
+  "URL": "https://arxiv.org/abs/2601.02617v3",
+  "custom": {
+    "catalog_id": "arxiv:2601.02617",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.02617",
+    "identifiers": {
+      "arxiv": "2601.02617"
+    },
+    "first_published_at": "2026-01-06",
+    "record_updated_at": "2026-03-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0d25ebe888d350bc36165e621c7811dea954bcd7bafba96bbfd27985da3bbc89",
+      "submitted_at": "2026-01-06T00:31:47Z",
+      "updated_at": "2026-03-24T10:48:35Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2601.02617v3"
+    }
+  },
+  "note": "First published: 2026-01-06; Recorded arXiv version: v3; Recorded version updated: 2026-03-24T10:48:35Z.",
+  "author": [
+    {
+      "literal": "Theresa Farah"
+    },
+    {
+      "literal": "Loïc Flis"
+    },
+    {
+      "literal": "Pierre Laly"
+    },
+    {
+      "literal": "Guo-En Chang"
+    },
+    {
+      "literal": "Jun-Yu Ou"
+    },
+    {
+      "literal": "Yoshishige Tsuchiya"
+    },
+    {
+      "literal": "Yan Pennec"
+    },
+    {
+      "literal": "Bahram Djafari-Rouhani"
+    },
+    {
+      "literal": "Xin Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.02617",
+  "genre": "preprint",
+  "version": "3"
+}

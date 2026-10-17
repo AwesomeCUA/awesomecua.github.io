@@ -16,9 +16,16 @@ Bibliographic record for PerceptUI: LLM Agents as Human-Aligned Synthetic Users 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-05697/record.json
+
 ## Authors
 
 Nicolas Bougie, Xiaotong Ye, Gian Maria Marconi, Narimasa Watanabe
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-05697/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-05697/citation.csl.json
 
 ## Recorded arXiv snapshot
 

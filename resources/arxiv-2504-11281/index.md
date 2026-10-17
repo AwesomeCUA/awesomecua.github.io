@@ -16,9 +16,16 @@ Bibliographic record for The Obvious Invisible Threat: LLM-Powered GUI Agents' V
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-11281/record.json
+
 ## Authors
 
 Chaoran Chen, Zhiping Zhang, Bingcan Guo, Shang Ma, Ibrahim Khalilov, Simret A Gebreegziabher, Yanfang Ye, Ziang Xiao, Yaxing Yao, Tianshi Li, Toby Jia-Jun Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-11281/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-11281/citation.csl.json
 
 ## Recorded arXiv snapshot
 

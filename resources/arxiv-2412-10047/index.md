@@ -16,9 +16,16 @@ Bibliographic record for Large Action Models: From Inception to Implementation. 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-10047/record.json
+
 ## Authors
 
 Lu Wang, Fangkai Yang, Chaoyun Zhang, Junting Lu, Jiaxu Qian, Shilin He, Pu Zhao, Bo Qiao, Ray Huang, Si Qin, Qisheng Su, Jiayi Ye, Yudi Zhang, Jian-Guang Lou, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-10047/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-10047/citation.csl.json
 
 ## Recorded arXiv snapshot
 

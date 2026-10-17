@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2506.11763",
+  "citation-key": "arxiv_2506_11763",
+  "type": "article",
+  "title": "DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents",
+  "URL": "https://arxiv.org/abs/2506.11763v1",
+  "custom": {
+    "catalog_id": "arxiv:2506.11763",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2506.11763",
+    "identifiers": {
+      "arxiv": "2506.11763"
+    },
+    "first_published_at": "2025-06-13",
+    "record_updated_at": "2025-06-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "277876a7927da3d89ac083410e338453a83a04c47b30912519e1cd70ccf63d45",
+      "submitted_at": "2025-06-13T13:17:32Z",
+      "updated_at": "2025-06-13T13:17:32Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2506.11763v1"
+    }
+  },
+  "note": "First published: 2025-06-13; Recorded arXiv version: v1; Recorded version updated: 2025-06-13T13:17:32Z.",
+  "author": [
+    {
+      "literal": "Mingxuan Du"
+    },
+    {
+      "literal": "Benfeng Xu"
+    },
+    {
+      "literal": "Chiwei Zhu"
+    },
+    {
+      "literal": "Xiaorui Wang"
+    },
+    {
+      "literal": "Zhendong Mao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.11763",
+  "genre": "preprint",
+  "version": "1"
+}

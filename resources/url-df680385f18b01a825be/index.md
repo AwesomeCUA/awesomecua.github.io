@@ -16,6 +16,8 @@ Training and evaluation Parquet bundles accompanying GUI-R1, including GUI groun
 
 The Hub is a dataset repository with Parquet payloads, although the short card mistakenly calls it a model. The official project identifies it as training/evaluation data and describes subsequent expanded mixtures. MIT is declared in this dataset card; upstream dataset terms remain separate. No 3K/800K aggregate count is inferred for the mutable bundle.
 
+- Record JSON: https://awesomecua.github.io/resources/url-df680385f18b01a825be/record.json
+
 ## License declarations
 
 - code: not recorded

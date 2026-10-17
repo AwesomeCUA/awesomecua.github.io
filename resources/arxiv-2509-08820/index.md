@@ -16,9 +16,16 @@ Bibliographic record for RoboChemist: Long-Horizon and Safety-Compliant Robotic 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-08820/record.json
+
 ## Authors
 
 Zongzheng Zhang, Chenghao Yue, Haobo Xu, Minwen Liao, Xianglin Qi, Huan-ang Gao, Ziwei Wang, Hao Zhao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-08820/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-08820/citation.csl.json
 
 ## Recorded arXiv snapshot
 

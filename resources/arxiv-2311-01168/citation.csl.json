@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2311.01168",
+  "citation-key": "arxiv_2311_01168",
+  "type": "article",
+  "title": "Scalable architecture for trapped-ion quantum computing using RF traps and dynamic optical potentials",
+  "URL": "https://arxiv.org/abs/2311.01168v3",
+  "custom": {
+    "catalog_id": "arxiv:2311.01168",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2311.01168",
+    "identifiers": {
+      "arxiv": "2311.01168"
+    },
+    "first_published_at": "2023-11-02",
+    "record_updated_at": "2024-11-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a62d6e7b8b614a319cdcf60d2a960196abcd881cf1fd3a32b85b7f4fe183bf93",
+      "submitted_at": "2023-11-02T12:06:49Z",
+      "updated_at": "2024-11-04T13:35:50Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2311.01168v3"
+    }
+  },
+  "note": "First published: 2023-11-02; Recorded arXiv version: v3; Recorded version updated: 2024-11-04T13:35:50Z.",
+  "author": [
+    {
+      "literal": "David Schwerdt"
+    },
+    {
+      "literal": "Lee Peleg"
+    },
+    {
+      "literal": "Yotam Shapira"
+    },
+    {
+      "literal": "Nadav Priel"
+    },
+    {
+      "literal": "Yanay Florshaim"
+    },
+    {
+      "literal": "Avram Gross"
+    },
+    {
+      "literal": "Ayelet Zalic"
+    },
+    {
+      "literal": "Gadi Afek"
+    },
+    {
+      "literal": "Nitzan Akerman"
+    },
+    {
+      "literal": "Ady Stern"
+    },
+    {
+      "literal": "Amit Ben Kish"
+    },
+    {
+      "literal": "Roee Ozeri"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.01168",
+  "genre": "preprint",
+  "version": "3"
+}

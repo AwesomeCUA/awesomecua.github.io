@@ -16,9 +16,16 @@ Bibliographic record for VenusBench-GD: A Comprehensive Multi-Platform GUI Bench
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-16501/record.json
+
 ## Authors
 
 Beitong Zhou, Zhexiao Huang, Yuan Guo, Zhangxuan Gu, Tianyu Xia, Zichen Luo, Fei Tang, Dehan Kong, Yanyi Shang, Suling Ou, Zhenlin Guo, Changhua Meng, Shuheng Shen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-16501/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-16501/citation.csl.json
 
 ## Recorded arXiv snapshot
 

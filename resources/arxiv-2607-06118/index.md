@@ -16,9 +16,16 @@ Bibliographic record for WebRetriever: A Large-Scale Comprehensive Benchmark for
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-06118/record.json
+
 ## Authors
 
 Wei Dong, Tianyu Fu, Zhe Yu, Hanning Wang, Anyang Su, Zhizhou Fang, Yuyang Chen, Shuo Wang, Minghui Wu, Ping Jiang, Zhen Lei, Chenxu Zhao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-06118/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-06118/citation.csl.json
 
 ## Recorded arXiv snapshot
 

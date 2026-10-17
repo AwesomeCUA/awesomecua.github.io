@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2206.03864",
+  "citation-key": "arxiv_2206_03864",
+  "type": "article",
+  "title": "Discontinuity Computing using Physics-Informed Neural Network",
+  "URL": "https://arxiv.org/abs/2206.03864v2",
+  "custom": {
+    "catalog_id": "arxiv:2206.03864",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2206.03864",
+    "identifiers": {
+      "arxiv": "2206.03864"
+    },
+    "first_published_at": "2022-06-05",
+    "record_updated_at": "2022-08-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3ab51b75814ac49411b15090a76a1cc6652b9436af9f0a2182459e6523e2bcd9",
+      "submitted_at": "2022-06-05T12:41:06Z",
+      "updated_at": "2022-08-06T10:51:42Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2206.03864v2"
+    }
+  },
+  "note": "First published: 2022-06-05; Recorded arXiv version: v2; Recorded version updated: 2022-08-06T10:51:42Z.",
+  "author": [
+    {
+      "literal": "Li Liu"
+    },
+    {
+      "literal": "Shengping Liu"
+    },
+    {
+      "literal": "Hui Xie"
+    },
+    {
+      "literal": "Fansheng Xiong"
+    },
+    {
+      "literal": "Tengchao Yu"
+    },
+    {
+      "literal": "Mengjuan Xiao"
+    },
+    {
+      "literal": "Lufeng Liu"
+    },
+    {
+      "literal": "Heng Yong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        6,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2206.03864",
+  "genre": "preprint",
+  "version": "2"
+}

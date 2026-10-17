@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2607.11185",
+  "citation-key": "arxiv_2607_11185",
+  "type": "article",
+  "title": "SCALECUA: Scaling Computer Use Agents with Verifiable Task Synthesis and Efficient Online RL",
+  "URL": "https://arxiv.org/abs/2607.11185v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.11185",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2607.11185",
+    "identifiers": {
+      "arxiv": "2607.11185"
+    },
+    "first_published_at": "2026-07-13",
+    "record_updated_at": "2026-07-13",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "554844f23cddbdaadc3c52e93d07d06c756faadbd0136ffef0984b25423f84f8",
+      "submitted_at": "2026-07-13T07:32:35Z",
+      "updated_at": "2026-07-13T07:32:35Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.11185v1"
+    }
+  },
+  "note": "First published: 2026-07-13; Recorded arXiv version: v1; Recorded version updated: 2026-07-13T07:32:35Z.",
+  "author": [
+    {
+      "literal": "Bowen Lv"
+    },
+    {
+      "literal": "Xiao Liu"
+    },
+    {
+      "literal": "Yanyu Ren"
+    },
+    {
+      "literal": "Hanyu Lai"
+    },
+    {
+      "literal": "Bohao Jing"
+    },
+    {
+      "literal": "Hanchen Zhang"
+    },
+    {
+      "literal": "Yanxiao Zhao"
+    },
+    {
+      "literal": "Shuntian Yao"
+    },
+    {
+      "literal": "Jie Tang"
+    },
+    {
+      "literal": "Yuxiao Dong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.11185",
+  "genre": "preprint",
+  "version": "1"
+}

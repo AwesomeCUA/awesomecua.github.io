@@ -16,9 +16,16 @@ Bibliographic record for SafeAgent: Safeguarding LLM Agents via an Automated Ris
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-17735/record.json
+
 ## Authors
 
 Xueyang Zhou, Weidong Wang, Lin Lu, Jiawen Shi, Guiyao Tie, Yongtian Xu, Lixing Chen, Pan Zhou, Neil Zhenqiang Gong, Lichao Sun
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-17735/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-17735/citation.csl.json
 
 ## Recorded arXiv snapshot
 

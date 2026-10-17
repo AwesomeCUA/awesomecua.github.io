@@ -16,9 +16,16 @@ Coordinates specialized Windows UI agents with dynamic task scheduling, shared m
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-09263/record.json
+
 ## Authors
 
 Di Zhao, Longhui Ma, Siwei Wang, Miao Wang, Zhao Lv
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-09263/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-09263/citation.csl.json
 
 ## Recorded arXiv snapshot
 

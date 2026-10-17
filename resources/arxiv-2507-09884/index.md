@@ -16,9 +16,16 @@ Bibliographic record for VerifyBench: A Systematic Benchmark for Evaluating Reas
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-09884/record.json
+
 ## Authors
 
 Xuzhao Li, Xuchen Li, Shiyu Hu, Yongzhen Guo, Wentao Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-09884/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-09884/citation.csl.json
 
 ## Recorded arXiv snapshot
 

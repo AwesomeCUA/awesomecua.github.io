@@ -16,9 +16,16 @@ Introduces Echoverse, which compiles specifications into stateful applications w
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-28074/record.json
+
 ## Authors
 
 Yash Pandya, Sahil Gupta, Sarthak Harne, Archana Yadav, Kavyansh Chourasia, Hussein Mozannar, Vibhav Vineet, Sara Abdali, Corby Rosset, Yash Lara, Ahmed Awadallah, Ece Kamar, Akshay Nambi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-28074/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-28074/citation.csl.json
 
 ## Recorded arXiv snapshot
 

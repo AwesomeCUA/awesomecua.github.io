@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2312.08914",
+  "citation-key": "arxiv_2312_08914",
+  "type": "article",
+  "title": "CogAgent: A Visual Language Model for GUI Agents",
+  "URL": "https://arxiv.org/abs/2312.08914v3",
+  "custom": {
+    "catalog_id": "arxiv:2312.08914",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2312.08914",
+    "identifiers": {
+      "arxiv": "2312.08914"
+    },
+    "first_published_at": "2023-12-14",
+    "record_updated_at": "2024-12-27",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "755198d83a3af9fe6d032f1446ec9bf57bf7e6f314d37787ce8a6aaa16bddc47",
+      "submitted_at": "2023-12-14T13:20:57Z",
+      "updated_at": "2024-12-27T06:56:18Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2312.08914v3"
+    }
+  },
+  "note": "First published: 2023-12-14; Recorded arXiv version: v3; Recorded version updated: 2024-12-27T06:56:18Z.",
+  "author": [
+    {
+      "literal": "Wenyi Hong"
+    },
+    {
+      "literal": "Weihan Wang"
+    },
+    {
+      "literal": "Qingsong Lv"
+    },
+    {
+      "literal": "Jiazheng Xu"
+    },
+    {
+      "literal": "Wenmeng Yu"
+    },
+    {
+      "literal": "Junhui Ji"
+    },
+    {
+      "literal": "Yan Wang"
+    },
+    {
+      "literal": "Zihan Wang"
+    },
+    {
+      "literal": "Yuxuan Zhang"
+    },
+    {
+      "literal": "Juanzi Li"
+    },
+    {
+      "literal": "Bin Xu"
+    },
+    {
+      "literal": "Yuxiao Dong"
+    },
+    {
+      "literal": "Ming Ding"
+    },
+    {
+      "literal": "Jie Tang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2312.08914",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -16,6 +16,8 @@ Mobile GUI interaction data from the CMGUI project.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-ab26f9ef56d651cee587/record.json
+
 ## License declarations
 
 - code: not recorded

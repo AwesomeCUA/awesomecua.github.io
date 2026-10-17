@@ -16,9 +16,16 @@ Bibliographic record for Lexi: Self-Supervised Learning of the UI Language. Titl
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2301-10165/record.json
+
 ## Authors
 
 Pratyay Banerjee, Shweti Mahajan, Kushal Arora, Chitta Baral, Oriana Riva
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2301-10165/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2301-10165/citation.csl.json
 
 ## Recorded arXiv snapshot
 

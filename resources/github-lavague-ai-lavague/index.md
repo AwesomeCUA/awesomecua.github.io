@@ -16,6 +16,8 @@ Framework for building natural-language web agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-lavague-ai-lavague/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/lavague-ai/LaVague/HEAD/LICENSE

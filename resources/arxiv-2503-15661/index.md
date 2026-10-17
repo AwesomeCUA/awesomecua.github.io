@@ -16,9 +16,16 @@ Provides annotated desktop demonstrations for evaluating element grounding, layo
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-15661/record.json
+
 ## Authors
 
 Shravan Nayak, Xiangru Jian, Kevin Qinghong Lin, Juan A. Rodriguez, Montek Kalsi, Rabiul Awal, Nicolas Chapados, M. Tamer Özsu, Aishwarya Agrawal, David Vazquez, Christopher Pal, Perouz Taslakian, Spandana Gella, Sai Rajeswar
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-15661/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-15661/citation.csl.json
 
 ## Recorded arXiv snapshot
 

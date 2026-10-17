@@ -16,9 +16,16 @@ Bibliographic record for TinyAgent: Function Calling at the Edge. Title, authors
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-00608/record.json
+
 ## Authors
 
 Lutfi Eren Erdogan, Nicholas Lee, Siddharth Jha, Sehoon Kim, Ryan Tabrizi, Suhong Moon, Coleman Hooper, Gopala Anumanchipalli, Kurt Keutzer, Amir Gholami
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-00608/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-00608/citation.csl.json
 
 ## Recorded arXiv snapshot
 

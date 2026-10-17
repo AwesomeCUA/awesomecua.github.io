@@ -1,0 +1,76 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:00Z",
+      "role": "primary",
+      "sha256": "5fd1399c88bdf406e7689765ccf0599b3b7e0ddbed082fa92bffdd7b120bd41a",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/Reallm-Labs/InfiGUI-R1/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:01Z",
+      "role": "primary",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/Reallm-Labs/InfiGUI-R1/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:reallm-labs/infigui-r1",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-16T06:36:00Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T06:42:01Z",
+      "url": "https://raw.githubusercontent.com/Reallm-Labs/InfiGUI-R1/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/Reallm-Labs/InfiGUI-R1"
+    }
+  ],
+  "name": "InfiGUI-R1",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/Reallm-Labs/InfiGUI-R1/HEAD/README.md",
+      "target_id": "arxiv:2504.14239",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Reasoning-oriented GUI agent model.",
+  "topics": [
+    "reinforcement-learning",
+    "planning"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/Reallm-Labs/InfiGUI-R1"
+}

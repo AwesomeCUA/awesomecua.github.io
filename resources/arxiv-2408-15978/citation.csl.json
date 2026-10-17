@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2408.15978",
+  "citation-key": "arxiv_2408_15978",
+  "type": "article",
+  "title": "WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration",
+  "URL": "https://arxiv.org/abs/2408.15978v1",
+  "custom": {
+    "catalog_id": "arxiv:2408.15978",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2408.15978",
+    "identifiers": {
+      "arxiv": "2408.15978"
+    },
+    "first_published_at": "2024-08-28",
+    "record_updated_at": "2024-08-28",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9e3a34f16101df7a96ffdabbdf86b060e195494f16499f20bdf54110a0394cae",
+      "submitted_at": "2024-08-28T17:49:29Z",
+      "updated_at": "2024-08-28T17:49:29Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2408.15978v1"
+    }
+  },
+  "note": "First published: 2024-08-28; Recorded arXiv version: v1; Recorded version updated: 2024-08-28T17:49:29Z.",
+  "author": [
+    {
+      "literal": "Yao Zhang"
+    },
+    {
+      "literal": "Zijian Ma"
+    },
+    {
+      "literal": "Yunpu Ma"
+    },
+    {
+      "literal": "Zhen Han"
+    },
+    {
+      "literal": "Yu Wu"
+    },
+    {
+      "literal": "Volker Tresp"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2408.15978",
+  "genre": "preprint",
+  "version": "1"
+}

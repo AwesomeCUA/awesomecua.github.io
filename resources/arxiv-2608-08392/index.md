@@ -16,9 +16,16 @@ Bibliographic record for CAP: A Scalable Benchmark for Evaluating Cross-Site Bro
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-08392/record.json
+
 ## Authors
 
 Zejun Xu, Taiyi Chen, Jin Li, Yongtong Gu, Qi Cheng, Aixuan Lv, Shuai Zhu, Pengfei Zhu, Kaichen Yang, Boyu Sun, Yixian Yang, Mulong Xie, Xin Liu, Dagang Li, Xiaoteng Ma, Hongru Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-08392/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-08392/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,6 +16,8 @@ Managed browser infrastructure associated with Steel Browser.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-b940a884f200a916a61b/record.json
+
 ## License declarations
 
 - code: not recorded

@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2607.23263",
+  "citation-key": "arxiv_2607_23263",
+  "type": "article",
+  "title": "SeekJudge: A Practical Reward Framework for Reinforcement Learning in Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2607.23263v2",
+  "custom": {
+    "catalog_id": "arxiv:2607.23263",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2607.23263",
+    "identifiers": {
+      "arxiv": "2607.23263"
+    },
+    "first_published_at": "2026-07-25",
+    "record_updated_at": "2026-09-26",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2de35aa3c7f4457d43d485eb136d8b380ea61870cc7253e807880ae731c51316",
+      "submitted_at": "2026-07-25T16:00:45Z",
+      "updated_at": "2026-09-26T12:15:44Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2607.23263v2"
+    }
+  },
+  "note": "First published: 2026-07-25; Recorded arXiv version: v2; Recorded version updated: 2026-09-26T12:15:44Z.",
+  "author": [
+    {
+      "literal": "Yang Wan"
+    },
+    {
+      "literal": "Zhenhao Zhang"
+    },
+    {
+      "literal": "Jierui Wang"
+    },
+    {
+      "literal": "Xiangxin Zhou"
+    },
+    {
+      "literal": "Linchao Zhu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.23263",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2508.09241",
+  "citation-key": "arxiv_2508_09241",
+  "type": "article",
+  "title": "FineState-Bench: A Comprehensive Benchmark for Fine-Grained State Control in GUI Agents",
+  "URL": "https://arxiv.org/abs/2508.09241v1",
+  "custom": {
+    "catalog_id": "arxiv:2508.09241",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2508.09241",
+    "identifiers": {
+      "arxiv": "2508.09241"
+    },
+    "first_published_at": "2025-08-12",
+    "record_updated_at": "2025-08-12",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f8c91a1f85602760c706e56426c0d2d870bbc101ca500aa3c7c391938c3f1676",
+      "submitted_at": "2025-08-12T15:12:42Z",
+      "updated_at": "2025-08-12T15:12:42Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2508.09241v1"
+    }
+  },
+  "note": "First published: 2025-08-12; Recorded arXiv version: v1; Recorded version updated: 2025-08-12T15:12:42Z.",
+  "author": [
+    {
+      "literal": "Fengxian Ji"
+    },
+    {
+      "literal": "Jingpu Yang"
+    },
+    {
+      "literal": "Zirui Song"
+    },
+    {
+      "literal": "Yuanxi Wang"
+    },
+    {
+      "literal": "Zhexuan Cui"
+    },
+    {
+      "literal": "Yuke Li"
+    },
+    {
+      "literal": "Qian Jiang"
+    },
+    {
+      "literal": "Miao Fang"
+    },
+    {
+      "literal": "Xiuying Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.09241",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2605.21470",
+  "citation-key": "arxiv_2605_21470",
+  "type": "article",
+  "title": "Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling",
+  "URL": "https://arxiv.org/abs/2605.21470v2",
+  "custom": {
+    "catalog_id": "arxiv:2605.21470",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.21470",
+    "identifiers": {
+      "arxiv": "2605.21470"
+    },
+    "first_published_at": "2026-05-20",
+    "record_updated_at": "2026-05-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9b73bf7776e280a9040b1d7d1e29957913723253014c1dfe84f64916b2a08e5e",
+      "submitted_at": "2026-05-20T17:54:27Z",
+      "updated_at": "2026-05-29T17:54:05Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2605.21470v2"
+    }
+  },
+  "note": "First published: 2026-05-20; Recorded arXiv version: v2; Recorded version updated: 2026-05-29T17:54:05Z.",
+  "author": [
+    {
+      "literal": "Caleb Winston"
+    },
+    {
+      "literal": "Ron Yifeng Wang"
+    },
+    {
+      "literal": "Azalia Mirhoseini"
+    },
+    {
+      "literal": "Christos Kozyrakis"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.21470",
+  "genre": "preprint",
+  "version": "2"
+}

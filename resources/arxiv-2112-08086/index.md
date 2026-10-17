@@ -16,9 +16,16 @@ Bibliographic record for Photonic neuromorphic computing using vertical cavity s
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2112-08086/record.json
+
 ## Authors
 
 Anas Skalli, Joshua Robertson, Dafydd Owen-Newns, Matej Hejda, Xavier Porte, Stephan Reitzenstein, Antonio Hurtado, D. Brunner
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2112-08086/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2112-08086/citation.csl.json
 
 ## Recorded arXiv snapshot
 

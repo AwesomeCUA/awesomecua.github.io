@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2411.12049",
+  "citation-key": "arxiv_2411_12049",
+  "type": "article",
+  "title": "Simulating Non-Markovian Quantum Dynamics on NISQ Computers Using the Hierarchical Equations of Motion",
+  "URL": "https://arxiv.org/abs/2411.12049v2",
+  "custom": {
+    "catalog_id": "arxiv:2411.12049",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2411.12049",
+    "identifiers": {
+      "arxiv": "2411.12049"
+    },
+    "first_published_at": "2024-11-18",
+    "record_updated_at": "2025-02-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "489518d754a9f1fee56bf8f6ebd1efe927570c5e19e9fada1e778cdfd08546c0",
+      "submitted_at": "2024-11-18T20:41:10Z",
+      "updated_at": "2025-02-10T23:13:21Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2411.12049v2"
+    }
+  },
+  "note": "First published: 2024-11-18; Recorded arXiv version: v2; Recorded version updated: 2025-02-10T23:13:21Z.",
+  "author": [
+    {
+      "literal": "Xiaohan Dan"
+    },
+    {
+      "literal": "Eitan Geva"
+    },
+    {
+      "literal": "Victor S. Batista"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2411.12049",
+  "genre": "preprint",
+  "version": "2"
+}

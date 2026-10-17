@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2603.28551",
+  "citation-key": "arxiv_2603_28551",
+  "type": "article",
+  "title": "\"What Did It Actually Do?\": Understanding Risk Awareness and Traceability for Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2603.28551v2",
+  "custom": {
+    "catalog_id": "arxiv:2603.28551",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.28551",
+    "identifiers": {
+      "arxiv": "2603.28551"
+    },
+    "first_published_at": "2026-03-30",
+    "record_updated_at": "2026-03-31",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "31c9b9b8489ee3e241d86c191b9b3a17c756e292fae61cd09371ae11d04aef6b",
+      "submitted_at": "2026-03-30T15:12:55Z",
+      "updated_at": "2026-03-31T09:11:27Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2603.28551v2"
+    }
+  },
+  "note": "First published: 2026-03-30; Recorded arXiv version: v2; Recorded version updated: 2026-03-31T09:11:27Z.",
+  "author": [
+    {
+      "literal": "Zifan Peng"
+    },
+    {
+      "literal": "Mingchen Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.28551",
+  "genre": "preprint",
+  "version": "2"
+}

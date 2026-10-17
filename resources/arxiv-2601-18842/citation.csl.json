@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2601.18842",
+  "citation-key": "arxiv_2601_18842",
+  "type": "article",
+  "title": "GUIGuard-Bench: Toward a General Evaluation for Privacy-Preserving GUI Agents",
+  "URL": "https://arxiv.org/abs/2601.18842v3",
+  "custom": {
+    "catalog_id": "arxiv:2601.18842",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2601.18842",
+    "identifiers": {
+      "arxiv": "2601.18842"
+    },
+    "first_published_at": "2026-01-26",
+    "record_updated_at": "2026-05-13",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1ca912ad67a681e8e908a5a403e982f39b5080bee4df376eb0b598468f3bb504",
+      "submitted_at": "2026-01-26T11:33:40Z",
+      "updated_at": "2026-05-13T07:11:36Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2601.18842v3"
+    }
+  },
+  "note": "First published: 2026-01-26; Recorded arXiv version: v3; Recorded version updated: 2026-05-13T07:11:36Z.",
+  "author": [
+    {
+      "literal": "Yanxi Wang"
+    },
+    {
+      "literal": "Zhiling Zhang"
+    },
+    {
+      "literal": "Wenbo Zhou"
+    },
+    {
+      "literal": "Weiming Zhang"
+    },
+    {
+      "literal": "Jie Zhang"
+    },
+    {
+      "literal": "Qiannan Zhu"
+    },
+    {
+      "literal": "Yu Shi"
+    },
+    {
+      "literal": "Shuxin Zheng"
+    },
+    {
+      "literal": "Jiyan He"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.18842",
+  "genre": "preprint",
+  "version": "3"
+}

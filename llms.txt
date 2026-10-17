@@ -40,3 +40,11 @@ git clone https://github.com/reacher-z/Awesome-CUA.git
 - [Reviewed retrieval documents](https://awesomecua.github.io/downloads/rag-documents.jsonl)
 - [All retrieval documents](https://awesomecua.github.io/downloads/rag-all-records.jsonl)
 - [Export manifest](https://awesomecua.github.io/downloads/rag-manifest.json)
+
+## Individual records and citations
+
+Each active resource page serves its complete record at `record.json`. Scope-excluded resources return a JSON object with `status: excluded`, not an active record.
+
+- [Reviewed paper BibTeX](https://awesomecua.github.io/downloads/citations.bib)
+- [Reviewed paper CSL JSON](https://awesomecua.github.io/downloads/citations.csl.json)
+- [Citation manifest](https://awesomecua.github.io/downloads/citations-manifest.json)

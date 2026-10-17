@@ -16,6 +16,8 @@ Framework for browser interaction by AI agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-browser-use-browser-use/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/browser-use/browser-use/HEAD/LICENSE

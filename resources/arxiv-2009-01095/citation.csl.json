@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2009.01095",
+  "citation-key": "arxiv_2009_01095",
+  "type": "article",
+  "title": "Efficient encoding of the weighted MAX k-CUT on a quantum computer using QAOA",
+  "URL": "https://arxiv.org/abs/2009.01095v3",
+  "custom": {
+    "catalog_id": "arxiv:2009.01095",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2009.01095",
+    "identifiers": {
+      "arxiv": "2009.01095"
+    },
+    "first_published_at": "2020-09-02",
+    "record_updated_at": "2020-11-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ca83b0b7ce4d0f1c6b4cd65dfa7853f4f33c0e3f6046e2edc0cf088147354e75",
+      "submitted_at": "2020-09-02T14:15:55Z",
+      "updated_at": "2020-11-09T21:35:28Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2009.01095v3"
+    }
+  },
+  "note": "First published: 2020-09-02; Recorded arXiv version: v3; Recorded version updated: 2020-11-09T21:35:28Z.",
+  "author": [
+    {
+      "literal": "Franz Georg Fuchs"
+    },
+    {
+      "literal": "Herman Øie Kolden"
+    },
+    {
+      "literal": "Niels Henrik Aase"
+    },
+    {
+      "literal": "Giorgio Sartor"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        9,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2009.01095",
+  "genre": "preprint",
+  "version": "3"
+}

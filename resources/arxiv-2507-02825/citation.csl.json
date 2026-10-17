@@ -1,0 +1,118 @@
+{
+  "id": "arxiv:2507.02825",
+  "citation-key": "arxiv_2507_02825",
+  "type": "article",
+  "title": "Establishing Best Practices for Building Rigorous Agentic Benchmarks",
+  "URL": "https://arxiv.org/abs/2507.02825v5",
+  "custom": {
+    "catalog_id": "arxiv:2507.02825",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2507.02825",
+    "identifiers": {
+      "arxiv": "2507.02825"
+    },
+    "first_published_at": "2025-07-03",
+    "record_updated_at": "2025-08-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2a55c6ccded8854701c0f07a235cd6b5021d99f33df64faf457329f3f317f8ea",
+      "submitted_at": "2025-07-03T17:35:31Z",
+      "updated_at": "2025-08-07T06:58:08Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2507.02825v5"
+    }
+  },
+  "note": "First published: 2025-07-03; Recorded arXiv version: v5; Recorded version updated: 2025-08-07T06:58:08Z.",
+  "author": [
+    {
+      "literal": "Yuxuan Zhu"
+    },
+    {
+      "literal": "Tengjun Jin"
+    },
+    {
+      "literal": "Yada Pruksachatkun"
+    },
+    {
+      "literal": "Andy Zhang"
+    },
+    {
+      "literal": "Shu Liu"
+    },
+    {
+      "literal": "Sasha Cui"
+    },
+    {
+      "literal": "Sayash Kapoor"
+    },
+    {
+      "literal": "Shayne Longpre"
+    },
+    {
+      "literal": "Kevin Meng"
+    },
+    {
+      "literal": "Rebecca Weiss"
+    },
+    {
+      "literal": "Fazl Barez"
+    },
+    {
+      "literal": "Rahul Gupta"
+    },
+    {
+      "literal": "Jwala Dhamala"
+    },
+    {
+      "literal": "Jacob Merizian"
+    },
+    {
+      "literal": "Mario Giulianelli"
+    },
+    {
+      "literal": "Harry Coppock"
+    },
+    {
+      "literal": "Cozmin Ududec"
+    },
+    {
+      "literal": "Jasjeet Sekhon"
+    },
+    {
+      "literal": "Jacob Steinhardt"
+    },
+    {
+      "literal": "Antony Kellermann"
+    },
+    {
+      "literal": "Sarah Schwettmann"
+    },
+    {
+      "literal": "Matei Zaharia"
+    },
+    {
+      "literal": "Ion Stoica"
+    },
+    {
+      "literal": "Percy Liang"
+    },
+    {
+      "literal": "Daniel Kang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.02825",
+  "genre": "preprint",
+  "version": "5"
+}

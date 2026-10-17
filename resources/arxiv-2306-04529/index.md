@@ -16,9 +16,16 @@ Bibliographic record for Git-Theta: A Git Extension for Collaborative Developmen
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2306-04529/record.json
+
 ## Authors
 
 Nikhil Kandpal, Brian Lester, Mohammed Muqeeth, Anisha Mascarenhas, Monty Evans, Vishal Baskaran, Tenghao Huang, Haokun Liu, Colin Raffel
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2306-04529/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2306-04529/citation.csl.json
 
 ## Recorded arXiv snapshot
 

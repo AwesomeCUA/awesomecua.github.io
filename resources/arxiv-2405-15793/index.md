@@ -16,9 +16,16 @@ Bibliographic record for SWE-agent: Agent-Computer Interfaces Enable Automated S
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2405-15793/record.json
+
 ## Authors
 
 John Yang, Carlos E. Jimenez, Alexander Wettig, Kilian Lieret, Shunyu Yao, Karthik Narasimhan, Ofir Press
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2405-15793/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-15793/citation.csl.json
 
 ## Recorded arXiv snapshot
 

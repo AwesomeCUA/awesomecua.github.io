@@ -16,9 +16,16 @@ Bibliographic record for Reservoir Computing Using Complex Systems. Title, autho
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2212-11141/record.json
+
 ## Authors
 
 N. Rasha Shanaz, K. Murali, P. Muruganandam
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2212-11141/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2212-11141/citation.csl.json
 
 ## Recorded arXiv snapshot
 

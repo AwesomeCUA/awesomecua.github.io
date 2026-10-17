@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2311.18492",
+  "citation-key": "arxiv_2311_18492",
+  "type": "article",
+  "title": "CLS-CAD: Synthesizing CAD Assemblies in Fusion 360",
+  "URL": "https://arxiv.org/abs/2311.18492v1",
+  "custom": {
+    "catalog_id": "arxiv:2311.18492",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2311.18492",
+    "identifiers": {
+      "arxiv": "2311.18492"
+    },
+    "first_published_at": "2023-11-30",
+    "record_updated_at": "2023-11-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "beb41574eb691fc4c02ba93e8494aa48f4aabd867d4bc2736635e220322761cf",
+      "submitted_at": "2023-11-30T12:07:27Z",
+      "updated_at": "2023-11-30T12:07:27Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2311.18492v1"
+    }
+  },
+  "note": "First published: 2023-11-30; Recorded arXiv version: v1; Recorded version updated: 2023-11-30T12:07:27Z.",
+  "author": [
+    {
+      "literal": "Constantin Chaumet"
+    },
+    {
+      "literal": "Jakob Rehof"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.18492",
+  "genre": "preprint",
+  "version": "1"
+}

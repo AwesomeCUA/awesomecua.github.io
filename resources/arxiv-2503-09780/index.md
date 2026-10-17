@@ -16,9 +16,16 @@ Evaluates whether autonomous web agents minimize use of sensitive personal infor
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-09780/record.json
+
 ## Authors
 
 Arman Zharmagambetov, Chuan Guo, Ivan Evtimov, Maya Pavlova, Ruslan Salakhutdinov, Kamalika Chaudhuri
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-09780/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-09780/citation.csl.json
 
 ## Recorded arXiv snapshot
 

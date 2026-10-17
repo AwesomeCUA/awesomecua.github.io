@@ -16,6 +16,8 @@ Evaluation adapters and training guidance for OpenMobile-2 across Android emulat
 
 The README marks evaluation code, checkpoints, environments, and data as released; data-construction scripts and other resources remain pending. Each benchmark runtime is started separately. Code terms do not establish dataset permissions.
 
+- Record JSON: https://awesomecua.github.io/resources/github-openmobile2-openmobile2-code/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/OpenMobile2/OpenMobile2-Code/HEAD/LICENSE

@@ -16,9 +16,16 @@ Proposes computer-using personal agents connected to user-controlled data reposi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-15515/record.json
+
 ## Authors
 
 Piero A. Bonatti, John Domingue, Anna Lisa Gentile, Andreas Harth, Olaf Hartig, Aidan Hogan, Katja Hose, Ernesto Jimenez-Ruiz, Deborah L. McGuinness, Chang Sun, Ruben Verborgh, Jesse Wright
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-15515/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-15515/citation.csl.json
 
 ## Recorded arXiv snapshot
 

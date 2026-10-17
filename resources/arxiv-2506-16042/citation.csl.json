@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2506.16042",
+  "citation-key": "arxiv_2506_16042",
+  "type": "article",
+  "title": "OSWorld-Human: Benchmarking the Efficiency of Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2506.16042v2",
+  "custom": {
+    "catalog_id": "arxiv:2506.16042",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2506.16042",
+    "identifiers": {
+      "arxiv": "2506.16042"
+    },
+    "first_published_at": "2025-06-19",
+    "record_updated_at": "2026-05-18",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "df3f654ef1364aeb6cdaeaea1c6334da949a798b2f8256c9ddc4e6a88a588e19",
+      "submitted_at": "2025-06-19T05:26:40Z",
+      "updated_at": "2026-05-18T17:55:59Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2506.16042v2"
+    }
+  },
+  "note": "First published: 2025-06-19; Recorded arXiv version: v2; Recorded version updated: 2026-05-18T17:55:59Z.",
+  "author": [
+    {
+      "literal": "Reyna Abhyankar"
+    },
+    {
+      "literal": "Qi Qi"
+    },
+    {
+      "literal": "Yiying Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.16042",
+  "genre": "preprint",
+  "version": "2"
+}

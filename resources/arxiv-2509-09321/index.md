@@ -16,9 +16,16 @@ Bibliographic record for Towards Adaptive ML Benchmarks: Web-Agent-Driven Constr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-09321/record.json
+
 ## Authors
 
 Hangyi Jia, Yuxi Qian, Hanwen Tong, Xinhui Wu, Lin Chen, Feng Wei
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-09321/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-09321/citation.csl.json
 
 ## Recorded arXiv snapshot
 

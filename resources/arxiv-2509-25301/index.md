@@ -16,9 +16,16 @@ Bibliographic record for Flash-Searcher: Fast and Effective Web Agents via DAG-B
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-25301/record.json
+
 ## Authors
 
 Tianrui Qin, Qianben Chen, Sinuo Wang, He Xing, King Zhu, He Zhu, Dingfeng Shi, Xinxin Liu, Ge Zhang, Jiaheng Liu, Yuchen Eleanor Jiang, Xitong Gao, Wangchunshu Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-25301/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-25301/citation.csl.json
 
 ## Recorded arXiv snapshot
 

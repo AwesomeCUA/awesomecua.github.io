@@ -16,9 +16,16 @@ Introduces Online-Mind2Web, with 300 tasks across 136 live websites, and examine
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-01382/record.json
+
 ## Authors
 
 Tianci Xue, Weijian Qi, Tianneng Shi, Chan Hee Song, Boyu Gou, Dawn Song, Huan Sun, Yu Su
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-01382/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-01382/citation.csl.json
 
 ## Recorded arXiv snapshot
 

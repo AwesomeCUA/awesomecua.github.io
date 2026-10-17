@@ -16,9 +16,16 @@ Bibliographic record for Towards GUI Agents: Vision-Language Diffusion Models fo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-26211/record.json
+
 ## Authors
 
 Shrinidhi Kumbhar, Haofu Liao, Srikar Appalaraju, Kunwar Yashraj Singh
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-26211/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-26211/citation.csl.json
 
 ## Recorded arXiv snapshot
 

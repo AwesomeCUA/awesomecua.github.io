@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2407.15711",
+  "citation-key": "arxiv_2407_15711",
+  "type": "article",
+  "title": "AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?",
+  "URL": "https://arxiv.org/abs/2407.15711v2",
+  "custom": {
+    "catalog_id": "arxiv:2407.15711",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2407.15711",
+    "identifiers": {
+      "arxiv": "2407.15711"
+    },
+    "first_published_at": "2024-07-22",
+    "record_updated_at": "2024-10-21",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2f028fb7f4d64fd4c29886d49b5d6f0fabddba309b669e019edf13586deb9c90",
+      "submitted_at": "2024-07-22T15:18:45Z",
+      "updated_at": "2024-10-21T15:45:31Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2407.15711v2"
+    }
+  },
+  "note": "First published: 2024-07-22; Recorded arXiv version: v2; Recorded version updated: 2024-10-21T15:45:31Z.",
+  "author": [
+    {
+      "literal": "Ori Yoran"
+    },
+    {
+      "literal": "Samuel Joseph Amouyal"
+    },
+    {
+      "literal": "Chaitanya Malaviya"
+    },
+    {
+      "literal": "Ben Bogin"
+    },
+    {
+      "literal": "Ofir Press"
+    },
+    {
+      "literal": "Jonathan Berant"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.15711",
+  "genre": "preprint",
+  "version": "2"
+}

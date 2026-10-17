@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2506.21495",
+  "citation-key": "arxiv_2506_21495",
+  "type": "article",
+  "title": "Bridging Offline and Online Reinforcement Learning for LLMs",
+  "URL": "https://arxiv.org/abs/2506.21495v1",
+  "custom": {
+    "catalog_id": "arxiv:2506.21495",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2506.21495",
+    "identifiers": {
+      "arxiv": "2506.21495"
+    },
+    "first_published_at": "2025-06-26",
+    "record_updated_at": "2025-06-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4a6a870941e8c334cd8f5b35cbed3536a07fcf928b0425172a10dccd4002e3a6",
+      "submitted_at": "2025-06-26T17:25:49Z",
+      "updated_at": "2025-06-26T17:25:49Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2506.21495v1"
+    }
+  },
+  "note": "First published: 2025-06-26; Recorded arXiv version: v1; Recorded version updated: 2025-06-26T17:25:49Z.",
+  "author": [
+    {
+      "literal": "Jack Lanchantin"
+    },
+    {
+      "literal": "Angelica Chen"
+    },
+    {
+      "literal": "Janice Lan"
+    },
+    {
+      "literal": "Xian Li"
+    },
+    {
+      "literal": "Swarnadeep Saha"
+    },
+    {
+      "literal": "Tianlu Wang"
+    },
+    {
+      "literal": "Jing Xu"
+    },
+    {
+      "literal": "Ping Yu"
+    },
+    {
+      "literal": "Weizhe Yuan"
+    },
+    {
+      "literal": "Jason E Weston"
+    },
+    {
+      "literal": "Sainbayar Sukhbaatar"
+    },
+    {
+      "literal": "Ilia Kulikov"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.21495",
+  "genre": "preprint",
+  "version": "1"
+}

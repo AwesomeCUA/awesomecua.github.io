@@ -1,0 +1,76 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:35:59Z",
+      "role": "primary",
+      "sha256": "91fed11b234775bde91bb766ee65e1015897ced6668de8e80418fcee09f8f75d",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/xlang-ai/OpenCUA/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:00Z",
+      "role": "primary",
+      "sha256": "a53fdf6cdedc93c99879b2881d8626d61b09e9a03841b3dc6ebe4e267f4fb2bf",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/xlang-ai/OpenCUA/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:xlang-ai/opencua",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-16T06:35:59Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-16T06:42:00Z",
+      "url": "https://raw.githubusercontent.com/xlang-ai/OpenCUA/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/xlang-ai/OpenCUA"
+    }
+  ],
+  "name": "OpenCUA",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/xlang-ai/OpenCUA/HEAD/README.md",
+      "target_id": "arxiv:2508.09123",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Open computer-use research stack including models and training resources.",
+  "topics": [
+    "data-generation",
+    "planning"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/xlang-ai/OpenCUA"
+}

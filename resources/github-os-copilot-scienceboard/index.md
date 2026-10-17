@@ -16,6 +16,8 @@ Desktop tasks involving scientific software workflows.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-os-copilot-scienceboard/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/LICENSE

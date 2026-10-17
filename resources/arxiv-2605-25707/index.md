@@ -16,9 +16,16 @@ Bibliographic record for AgentHijack: Benchmarking Computer Use Agent Robustness
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-25707/record.json
+
 ## Authors
 
 Jingwei Sun, Jianing Zhu, Yuanyi Li, Tongliang Liu, Xia HU, Bo Han
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-25707/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-25707/citation.csl.json
 
 ## Recorded arXiv snapshot
 

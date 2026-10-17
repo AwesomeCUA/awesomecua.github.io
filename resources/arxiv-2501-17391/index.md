@@ -16,9 +16,16 @@ Bibliographic record for LFTR: Learning-Free Token Reduction for Multimodal Larg
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-17391/record.json
+
 ## Authors
 
 Zihui Zhao, Yingxin Li, Yang Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-17391/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-17391/citation.csl.json
 
 ## Recorded arXiv snapshot
 

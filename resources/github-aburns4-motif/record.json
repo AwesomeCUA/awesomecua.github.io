@@ -1,0 +1,90 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "dataset_profile": {
+      "counts": [],
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/aburns4/MoTIF/HEAD/README.md"
+      ],
+      "formats": [
+        "JSON metadata",
+        "screen images"
+      ],
+      "modalities": [
+        "screenshots",
+        "view hierarchies",
+        "language",
+        "interaction sequences",
+        "feasibility labels"
+      ],
+      "notes": "The raw collection mixes action, language, exploration, and unusable/other traces. These groups have different annotation coverage; not every raw trace is a valid task demonstration.",
+      "splits": [],
+      "supervision": [
+        "interaction trajectories",
+        "task feasibility"
+      ]
+    },
+    "download_url": null,
+    "languages": [],
+    "modalities": [],
+    "sample_count": null,
+    "sample_unit": null
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:01Z",
+      "role": "primary",
+      "sha256": "4b2f5a23dc28e96b671272380b953e7fabaf34f4b1e83f3513643846718e3389",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details.dataset_profile"
+      ],
+      "url": "https://raw.githubusercontent.com/aburns4/MoTIF/HEAD/README.md"
+    }
+  ],
+  "id": "github:aburns4/motif",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-16T06:36:01Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/aburns4/MoTIF"
+    }
+  ],
+  "name": "MoTIF",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/aburns4/MoTIF/HEAD/README.md",
+      "target_id": "arxiv:2202.02312",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Mobile task demonstrations and natural-language instructions.",
+  "topics": [
+    "mobile-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/aburns4/MoTIF"
+}

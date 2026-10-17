@@ -1,0 +1,133 @@
+{
+  "id": "arxiv:2411.00820",
+  "citation-key": "arxiv_2411_00820",
+  "type": "article",
+  "title": "AutoGLM: Autonomous Foundation Agents for GUIs",
+  "URL": "https://arxiv.org/abs/2411.00820v1",
+  "custom": {
+    "catalog_id": "arxiv:2411.00820",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2411.00820",
+    "identifiers": {
+      "arxiv": "2411.00820"
+    },
+    "first_published_at": "2024-10-28",
+    "record_updated_at": "2024-10-28",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7cfe1aa31818f06567aa3d619ad90ac4bdb9f9f9003a1a8a71294cd4f8ccf8dc",
+      "submitted_at": "2024-10-28T17:05:10Z",
+      "updated_at": "2024-10-28T17:05:10Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2411.00820v1"
+    }
+  },
+  "note": "First published: 2024-10-28; Recorded arXiv version: v1; Recorded version updated: 2024-10-28T17:05:10Z.",
+  "author": [
+    {
+      "literal": "Xiao Liu"
+    },
+    {
+      "literal": "Bo Qin"
+    },
+    {
+      "literal": "Dongzhu Liang"
+    },
+    {
+      "literal": "Guang Dong"
+    },
+    {
+      "literal": "Hanyu Lai"
+    },
+    {
+      "literal": "Hanchen Zhang"
+    },
+    {
+      "literal": "Hanlin Zhao"
+    },
+    {
+      "literal": "Iat Long Iong"
+    },
+    {
+      "literal": "Jiadai Sun"
+    },
+    {
+      "literal": "Jiaqi Wang"
+    },
+    {
+      "literal": "Junjie Gao"
+    },
+    {
+      "literal": "Junjun Shan"
+    },
+    {
+      "literal": "Kangning Liu"
+    },
+    {
+      "literal": "Shudan Zhang"
+    },
+    {
+      "literal": "Shuntian Yao"
+    },
+    {
+      "literal": "Siyi Cheng"
+    },
+    {
+      "literal": "Wentao Yao"
+    },
+    {
+      "literal": "Wenyi Zhao"
+    },
+    {
+      "literal": "Xinghan Liu"
+    },
+    {
+      "literal": "Xinyi Liu"
+    },
+    {
+      "literal": "Xinying Chen"
+    },
+    {
+      "literal": "Xinyue Yang"
+    },
+    {
+      "literal": "Yang Yang"
+    },
+    {
+      "literal": "Yifan Xu"
+    },
+    {
+      "literal": "Yu Yang"
+    },
+    {
+      "literal": "Yujia Wang"
+    },
+    {
+      "literal": "Yulin Xu"
+    },
+    {
+      "literal": "Zehan Qi"
+    },
+    {
+      "literal": "Yuxiao Dong"
+    },
+    {
+      "literal": "Jie Tang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2411.00820",
+  "genre": "preprint",
+  "version": "1"
+}

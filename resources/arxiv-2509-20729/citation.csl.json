@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2509.20729",
+  "citation-key": "arxiv_2509_20729",
+  "type": "article",
+  "title": "Robust, Observable, and Evolvable Agentic Systems Engineering: A Principled Framework Validated via the Fairy GUI Agent",
+  "URL": "https://arxiv.org/abs/2509.20729v2",
+  "custom": {
+    "catalog_id": "arxiv:2509.20729",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.20729",
+    "identifiers": {
+      "arxiv": "2509.20729"
+    },
+    "first_published_at": "2025-09-25",
+    "record_updated_at": "2025-12-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "571eee6476c9e75ffae65cf98ec589e98fd3b953313cc6d2191bb48bd27303fe",
+      "submitted_at": "2025-09-25T04:21:31Z",
+      "updated_at": "2025-12-01T08:01:05Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2509.20729v2"
+    }
+  },
+  "note": "First published: 2025-09-25; Recorded arXiv version: v2; Recorded version updated: 2025-12-01T08:01:05Z.",
+  "author": [
+    {
+      "literal": "Jiazheng Sun"
+    },
+    {
+      "literal": "Ruimeng Yang"
+    },
+    {
+      "literal": "Xu Han"
+    },
+    {
+      "literal": "Jiayang Niu"
+    },
+    {
+      "literal": "Mingxuan Li"
+    },
+    {
+      "literal": "Te Yang"
+    },
+    {
+      "literal": "Yongyong Lu"
+    },
+    {
+      "literal": "Xin Peng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.20729",
+  "genre": "preprint",
+  "version": "2"
+}

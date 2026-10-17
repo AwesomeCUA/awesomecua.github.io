@@ -1,0 +1,61 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:38:27Z",
+      "role": "primary",
+      "sha256": "e7062cfb4c0948d3a2274843f9f493f34cb40dfd634371408086df6141a0e036",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://ai.google.dev/gemini-api/docs/computer-use"
+    }
+  ],
+  "id": "url:879d4e3e75e83582bde6",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-16T06:38:27Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://ai.google.dev/gemini-api/docs/computer-use"
+    }
+  ],
+  "name": "Gemini Computer Use",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://ai.google.dev/gemini-api/docs/computer-use",
+      "target_id": "organization:google",
+      "type": "published_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Gemini capability for generating interface actions from screenshots.",
+  "topics": [
+    "planning",
+    "grounding"
+  ],
+  "updated_at": null,
+  "url": "https://ai.google.dev/gemini-api/docs/computer-use"
+}

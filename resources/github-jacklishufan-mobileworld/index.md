@@ -16,6 +16,8 @@ Benchmark of semantic world modeling for mobile GUI agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-jacklishufan-mobileworld/record.json
+
 ## License declarations
 
 - code: not recorded

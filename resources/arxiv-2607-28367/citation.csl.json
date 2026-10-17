@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2607.28367",
+  "citation-key": "arxiv_2607_28367",
+  "type": "article",
+  "title": "How Benchmarks Mis-Score Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2607.28367v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.28367",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2607.28367",
+    "identifiers": {
+      "arxiv": "2607.28367"
+    },
+    "first_published_at": "2026-07-30",
+    "record_updated_at": "2026-07-30",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d75f6c942d6854a259556b7ef1060fa0f142755162da329580c6177cd1adef15",
+      "submitted_at": "2026-07-30T15:29:42Z",
+      "updated_at": "2026-07-30T15:29:42Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.28367v1"
+    }
+  },
+  "note": "First published: 2026-07-30; Recorded arXiv version: v1; Recorded version updated: 2026-07-30T15:29:42Z.",
+  "author": [
+    {
+      "literal": "Zihan Dong"
+    },
+    {
+      "literal": "Zhiyuan Ma"
+    },
+    {
+      "literal": "Zekun Wang"
+    },
+    {
+      "literal": "Yunqing Li"
+    },
+    {
+      "literal": "Zirou Liu"
+    },
+    {
+      "literal": "Ruixuan Deng"
+    },
+    {
+      "literal": "Qishi Zhan"
+    },
+    {
+      "literal": "Rui Qian"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.28367",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Standardizes virtual machines, interaction pipelines, and agent interfaces to co
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-40284/record.json
+
 ## Authors
 
 Pranjal Aggarwal, Lawrence Keunho Jang, Sean Welleck, Daniel Fried, Ruslan Salakhutdinov, Jing Yu Koh
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-40284/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-40284/citation.csl.json
 
 ## Recorded arXiv snapshot
 

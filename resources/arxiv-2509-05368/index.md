@@ -16,9 +16,16 @@ Bibliographic record for Long-Horizon Visual Imitation Learning via Plan and Cod
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-05368/record.json
+
 ## Authors
 
 Quan Chen, Chenrui Shi, Qi Chen, Yuwei Wu, Zhi Gao, Xintong Zhang, Rui Gao, Kun Wu, Yunde Jia
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-05368/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-05368/citation.csl.json
 
 ## Recorded arXiv snapshot
 

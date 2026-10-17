@@ -16,6 +16,8 @@ Historical OpenAI browser-agent research preview.
 
 Historical product entry; the official page describes its integration into ChatGPT agent. Do not infer current standalone availability.
 
+- Record JSON: https://awesomecua.github.io/resources/url-f0584842138a52158f51/record.json
+
 ## License declarations
 
 - code: not recorded

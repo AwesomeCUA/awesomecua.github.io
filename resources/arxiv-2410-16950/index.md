@@ -16,9 +16,16 @@ Bibliographic record for Breaking ReAct Agents: Foot-in-the-Door Attack Will Get
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-16950/record.json
+
 ## Authors
 
 Itay Nakash, George Kour, Guy Uziel, Ateret Anaby-Tavor
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-16950/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-16950/citation.csl.json
 
 ## Recorded arXiv snapshot
 

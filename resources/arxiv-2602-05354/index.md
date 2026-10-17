@@ -16,9 +16,16 @@ Introduces MIRAGE, a web decision benchmark where agents must actively uncover e
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-05354/record.json
+
 ## Authors
 
 Syed Nazmus Sakib, Nafiul Haque, Tapodhir Karmakar Taton, Shahrear Bin Amin, Shifat E. Arman
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-05354/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-05354/citation.csl.json
 
 ## Recorded arXiv snapshot
 

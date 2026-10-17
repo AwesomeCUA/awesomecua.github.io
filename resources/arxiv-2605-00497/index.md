@@ -16,9 +16,16 @@ Bibliographic record for "What Are You Really Trying to Do?": Co-Creating Life G
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-00497/record.json
+
 ## Authors
 
 Shardul Sapkota, Matthew Jörke, Zane Sabbagh, Omar Shaikh, Grace Wang, James A. Landay
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-00497/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-00497/citation.csl.json
 
 ## Recorded arXiv snapshot
 

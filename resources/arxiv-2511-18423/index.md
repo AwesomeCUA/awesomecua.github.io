@@ -16,9 +16,16 @@ Bibliographic record for General Agentic Memory Via Deep Research. Title, author
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-18423/record.json
+
 ## Authors
 
 B. Y. Yan, Chaofan Li, Hongjin Qian, Shuqi Lu, Zheng Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-18423/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-18423/citation.csl.json
 
 ## Recorded arXiv snapshot
 

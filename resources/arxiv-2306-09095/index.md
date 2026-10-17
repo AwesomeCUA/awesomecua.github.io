@@ -16,9 +16,16 @@ Bibliographic record for Analogue and Physical Reservoir Computing Using Water W
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2306-09095/record.json
+
 ## Authors
 
 Ivan S. Maksymov
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2306-09095/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2306-09095/citation.csl.json
 
 ## Recorded arXiv snapshot
 

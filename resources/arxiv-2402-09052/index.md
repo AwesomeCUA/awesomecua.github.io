@@ -16,9 +16,16 @@ Bibliographic record for L3GO: Language Agents with Chain-of-3D-Thoughts for Gen
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-09052/record.json
+
 ## Authors
 
 Yutaro Yamada, Khyathi Chandu, Yuchen Lin, Jack Hessel, Ilker Yildirim, Yejin Choi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-09052/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-09052/citation.csl.json
 
 ## Recorded arXiv snapshot
 

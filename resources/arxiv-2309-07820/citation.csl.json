@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2309.07820",
+  "citation-key": "arxiv_2309_07820",
+  "type": "article",
+  "title": "Sufficient condition for universal quantum computation using bosonic circuits",
+  "URL": "https://arxiv.org/abs/2309.07820v2",
+  "custom": {
+    "catalog_id": "arxiv:2309.07820",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2309.07820",
+    "identifiers": {
+      "arxiv": "2309.07820"
+    },
+    "first_published_at": "2023-09-14",
+    "record_updated_at": "2024-01-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9c4269deba97d892b29400d92784f8ec60be5ebe5155e82632f36be09c0cbe41",
+      "submitted_at": "2023-09-14T16:15:14Z",
+      "updated_at": "2024-01-05T11:08:36Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2309.07820v2"
+    }
+  },
+  "note": "First published: 2023-09-14; Recorded arXiv version: v2; Recorded version updated: 2024-01-05T11:08:36Z.",
+  "author": [
+    {
+      "literal": "Cameron Calcluth"
+    },
+    {
+      "literal": "Nicolas Reichel"
+    },
+    {
+      "literal": "Alessandro Ferraro"
+    },
+    {
+      "literal": "Giulia Ferrini"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2309.07820",
+  "genre": "preprint",
+  "version": "2"
+}

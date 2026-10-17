@@ -16,9 +16,16 @@ Bibliographic record for Predicting Abandonment of Open Source Software Projects
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-21678/record.json
+
 ## Authors
 
 Yiming Xu, Runzhi He, Hengzhi Ye, Minghui Zhou, Huaimin Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-21678/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-21678/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for WebArbiter: A Principle-Guided Reasoning Process Reward
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-21872/record.json
+
 ## Authors
 
 Yao Zhang, Shijie Tang, Zeyu Li, Zhen Han, Volker Tresp
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-21872/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-21872/citation.csl.json
 
 ## Recorded arXiv snapshot
 

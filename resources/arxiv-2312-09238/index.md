@@ -16,9 +16,16 @@ Bibliographic record for Auto MC-Reward: Automated Dense Reward Design with Larg
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2312-09238/record.json
+
 ## Authors
 
 Hao Li, Xue Yang, Zhaokai Wang, Xizhou Zhu, Jie Zhou, Yu Qiao, Xiaogang Wang, Hongsheng Li, Lewei Lu, Jifeng Dai
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2312-09238/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2312-09238/citation.csl.json
 
 ## Recorded arXiv snapshot
 

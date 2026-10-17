@@ -16,9 +16,16 @@ Separates mobile planning, decision-making, and reflection, with a memory unit f
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-01014/record.json
+
 ## Authors
 
 Junyang Wang, Haiyang Xu, Haitao Jia, Xi Zhang, Ming Yan, Weizhou Shen, Ji Zhang, Fei Huang, Jitao Sang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-01014/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-01014/citation.csl.json
 
 ## Recorded arXiv snapshot
 

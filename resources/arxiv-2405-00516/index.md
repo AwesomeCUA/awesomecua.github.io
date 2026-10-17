@@ -16,9 +16,16 @@ Bibliographic record for Navigating WebAI: Training Agents to Complete Web Tasks
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2405-00516/record.json
+
 ## Authors
 
 Lucas-Andreï Thil, Mirela Popa, Gerasimos Spanakis
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2405-00516/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-00516/citation.csl.json
 
 ## Recorded arXiv snapshot
 

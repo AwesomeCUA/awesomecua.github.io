@@ -16,9 +16,16 @@ GUI-Shift trains an inverse-dynamics task that predicts the initial action conne
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-12493/record.json
+
 ## Authors
 
 Longxi Gao, Li Zhang, Pengzhi Gao, Wei Liu, Jian Luan, Mengwei Xu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-12493/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-12493/citation.csl.json
 
 ## Recorded arXiv snapshot
 

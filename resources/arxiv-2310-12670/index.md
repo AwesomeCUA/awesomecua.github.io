@@ -16,9 +16,16 @@ Bibliographic record for Fault-Tolerant Hybrid-Parallel Training at Scale with R
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-12670/record.json
+
 ## Authors
 
 Yuxin Wang, Xueze Kang, Shaohuai Shi, Xin He, Zhenheng Tang, Xinglin Pan, Yang Zheng, Xiaoyu Wu, Amelie Chi Zhou, Bingsheng He, Xiaowen Chu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-12670/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-12670/citation.csl.json
 
 ## Recorded arXiv snapshot
 

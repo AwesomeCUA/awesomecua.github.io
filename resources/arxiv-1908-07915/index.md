@@ -16,9 +16,16 @@ Bibliographic record for Privacy-Preserving Support Vector Machine Computing Usi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1908-07915/record.json
+
 ## Authors
 
 Takahiro Maekawa, Ayana Kawamura, Takayuki Nakachi, Hitoshi Kiya
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1908-07915/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1908-07915/citation.csl.json
 
 ## Recorded arXiv snapshot
 

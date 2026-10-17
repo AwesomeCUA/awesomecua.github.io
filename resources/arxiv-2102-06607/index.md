@@ -16,9 +16,16 @@ Bibliographic record for Intelligent Software Web Agents: A Gap Analysis. Title,
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2102-06607/record.json
+
 ## Authors
 
 Sabrina Kirrane
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2102-06607/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2102-06607/citation.csl.json
 
 ## Recorded arXiv snapshot
 

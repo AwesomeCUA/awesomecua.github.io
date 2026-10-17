@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2606.04391",
+  "citation-key": "arxiv_2606_04391",
+  "type": "article",
+  "title": "Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval",
+  "URL": "https://arxiv.org/abs/2606.04391v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.04391",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.04391",
+    "identifiers": {
+      "arxiv": "2606.04391"
+    },
+    "first_published_at": "2026-06-03",
+    "record_updated_at": "2026-06-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6d891956bde9b8672859fcfcd2d54dfd3e4720964c25d77cc28bc1200ef3a56c",
+      "submitted_at": "2026-06-03T03:11:50Z",
+      "updated_at": "2026-06-03T03:11:50Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.04391v1"
+    }
+  },
+  "note": "First published: 2026-06-03; Recorded arXiv version: v1; Recorded version updated: 2026-06-03T03:11:50Z.",
+  "author": [
+    {
+      "literal": "Jiaxi Li"
+    },
+    {
+      "literal": "Ke Deng"
+    },
+    {
+      "literal": "Yun Wang"
+    },
+    {
+      "literal": "Jingyuan Huang"
+    },
+    {
+      "literal": "Yucheng Shi"
+    },
+    {
+      "literal": "Qiaoyu Tan"
+    },
+    {
+      "literal": "Jin Lu"
+    },
+    {
+      "literal": "Ninghao Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.04391",
+  "genre": "preprint",
+  "version": "1"
+}

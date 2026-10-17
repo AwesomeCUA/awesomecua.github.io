@@ -1,0 +1,99 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/xlangai/OpenCUA-32B/tree/main",
+    "gated": false,
+    "hub_id": "xlangai/OpenCUA-32B"
+  },
+  "environments": [
+    "desktop",
+    "linux",
+    "windows",
+    "macos"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:44:29Z",
+      "role": "primary",
+      "sha256": "151217eb96e4ab22a47c98766052e5cfd76497a2a9197cc125c0237f3fbc59f6",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/xlangai/OpenCUA-32B/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:44:29Z",
+      "role": "primary",
+      "sha256": "a3be2e1a6cd39ee89809baa9504813c4a6a9a03bbd916e82924cc0f89cb5da33",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/api/models/xlangai/OpenCUA-32B"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T02:44:29Z",
+      "role": "primary",
+      "sha256": "151217eb96e4ab22a47c98766052e5cfd76497a2a9197cc125c0237f3fbc59f6",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/xlangai/OpenCUA-32B/raw/main/README.md"
+    }
+  ],
+  "id": "url:ad7f176848fd84de64e2",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T02:44:29Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "mit",
+      "retrieved_at": "2026-10-17T02:44:29Z",
+      "url": "https://huggingface.co/xlangai/OpenCUA-32B/raw/main/README.md"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/xlangai/OpenCUA-32B"
+    }
+  ],
+  "name": "OpenCUA 32B",
+  "notes": "The public manifest contains 64 safetensors shards. The card declares MIT for this model and names its Qwen2.5-VL base; upstream terms remain separate. This is the 32B release, distinct from the existing 72B preview. Family-level or 72B benchmark scores are not transferred to it.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/xlangai/OpenCUA-32B/raw/main/README.md",
+      "target_id": "arxiv:2508.09123",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A Qwen2.5-VL-based computer-use checkpoint that combines screenshot history with planning and grounded executable actions.",
+  "topics": [
+    "grounding",
+    "planning",
+    "self-reflection"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/xlangai/OpenCUA-32B"
+}

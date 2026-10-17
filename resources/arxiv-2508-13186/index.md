@@ -16,9 +16,16 @@ Bibliographic record for MM-BrowseComp: A Comprehensive Benchmark for Multimodal
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-13186/record.json
+
 ## Authors
 
 Shilong Li, Xingyuan Bu, Wenjie Wang, Jiaheng Liu, Jun Dong, Haoyang He, Hao Lu, Haozhe Zhang, Chenchen Jing, Zhen Li, Chuanhao Li, Jiayi Tian, Chenchen Zhang, Tianhao Peng, Yancheng He, Jihao Gu, Hui Huang, Donghao Zhou, Yuanxing Zhang, Jian Yang, Ge Zhang, Wenhao Huang, Zhaoxiang Zhang, Qiangpeng Yang, Shilei Wen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-13186/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-13186/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for NAVER: A Neuro-Symbolic Compositional Automaton for Vis
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-00372/record.json
+
 ## Authors
 
 Zhixi Cai, Fucai Ke, Simindokht Jahangard, Maria Garcia de la Banda, Reza Haffari, Peter J. Stuckey, Hamid Rezatofighi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-00372/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-00372/citation.csl.json
 
 ## Recorded arXiv snapshot
 

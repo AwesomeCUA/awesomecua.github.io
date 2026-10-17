@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2502.02533",
+  "citation-key": "arxiv_2502_02533",
+  "type": "article",
+  "title": "Multi-Agent Design: Optimizing Agents with Better Prompts and Topologies",
+  "URL": "https://arxiv.org/abs/2502.02533v2",
+  "custom": {
+    "catalog_id": "arxiv:2502.02533",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2502.02533",
+    "identifiers": {
+      "arxiv": "2502.02533"
+    },
+    "first_published_at": "2025-02-04",
+    "record_updated_at": "2026-01-31",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8344d1f0c0cd6f82704d664e0ce563b72f38dfc37494b1c47aec962e679ed69a",
+      "submitted_at": "2025-02-04T17:56:44Z",
+      "updated_at": "2026-01-31T22:11:21Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2502.02533v2"
+    }
+  },
+  "note": "First published: 2025-02-04; Recorded arXiv version: v2; Recorded version updated: 2026-01-31T22:11:21Z.",
+  "author": [
+    {
+      "literal": "Han Zhou"
+    },
+    {
+      "literal": "Xingchen Wan"
+    },
+    {
+      "literal": "Ruoxi Sun"
+    },
+    {
+      "literal": "Hamid Palangi"
+    },
+    {
+      "literal": "Shariq Iqbal"
+    },
+    {
+      "literal": "Ivan Vulić"
+    },
+    {
+      "literal": "Anna Korhonen"
+    },
+    {
+      "literal": "Sercan Ö. Arık"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.02533",
+  "genre": "preprint",
+  "version": "2"
+}

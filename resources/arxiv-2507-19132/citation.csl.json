@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2507.19132",
+  "citation-key": "arxiv_2507_19132",
+  "type": "article",
+  "title": "OS-MAP: How Far Can Computer-Using Agents Go in Breadth and Depth?",
+  "URL": "https://arxiv.org/abs/2507.19132v1",
+  "custom": {
+    "catalog_id": "arxiv:2507.19132",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2507.19132",
+    "identifiers": {
+      "arxiv": "2507.19132"
+    },
+    "first_published_at": "2025-07-25",
+    "record_updated_at": "2025-07-25",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fcd5a34bf6187f48da8e08842678e1e21cd558b2bcc7aab2611ceee7bc0d0179",
+      "submitted_at": "2025-07-25T10:14:53Z",
+      "updated_at": "2025-07-25T10:14:53Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2507.19132v1"
+    }
+  },
+  "note": "First published: 2025-07-25; Recorded arXiv version: v1; Recorded version updated: 2025-07-25T10:14:53Z.",
+  "author": [
+    {
+      "literal": "Xuetian Chen"
+    },
+    {
+      "literal": "Yinghao Chen"
+    },
+    {
+      "literal": "Xinfeng Yuan"
+    },
+    {
+      "literal": "Zhuo Peng"
+    },
+    {
+      "literal": "Lu Chen"
+    },
+    {
+      "literal": "Yuekeng Li"
+    },
+    {
+      "literal": "Zhoujia Zhang"
+    },
+    {
+      "literal": "Yingqian Huang"
+    },
+    {
+      "literal": "Leyan Huang"
+    },
+    {
+      "literal": "Jiaqing Liang"
+    },
+    {
+      "literal": "Tianbao Xie"
+    },
+    {
+      "literal": "Zhiyong Wu"
+    },
+    {
+      "literal": "Qiushi Sun"
+    },
+    {
+      "literal": "Biqing Qi"
+    },
+    {
+      "literal": "Bowen Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.19132",
+  "genre": "preprint",
+  "version": "1"
+}

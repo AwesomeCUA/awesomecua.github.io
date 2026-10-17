@@ -16,9 +16,16 @@ Bibliographic record for MM-WebAgent: A Hierarchical Multimodal Web Agent for We
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-15309/record.json
+
 ## Authors
 
 Yan Li, Zezi Zeng, Yifan Yang, Yuqing Yang, Ning Liao, Weiwei Guo, Lili Qiu, Mingxi Cheng, Qi Dai, Zhendong Wang, Zhengyuan Yang, Xue Yang, Ji Li, Lijuan Wang, Chong Luo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-15309/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-15309/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ AgentStudio combines an interactive GUI/API environment with tools for creating 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-17918/record.json
+
 ## Authors
 
 Longtao Zheng, Zhiyuan Huang, Zhenghai Xue, Xinrun Wang, Bo An, Shuicheng Yan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-17918/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-17918/citation.csl.json
 
 ## Recorded arXiv snapshot
 

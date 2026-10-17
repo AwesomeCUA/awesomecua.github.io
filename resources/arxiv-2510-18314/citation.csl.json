@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2510.18314",
+  "citation-key": "arxiv_2510_18314",
+  "type": "article",
+  "title": "Genesis: Evolving Attack Strategies for LLM Web Agent Red-Teaming",
+  "URL": "https://arxiv.org/abs/2510.18314v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.18314",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.18314",
+    "identifiers": {
+      "arxiv": "2510.18314"
+    },
+    "first_published_at": "2025-10-21",
+    "record_updated_at": "2026-04-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "30123a470c2caa4b755ea696c9dd50d501e8d627e5b2cf1c80801807cd78a1f8",
+      "submitted_at": "2025-10-21T05:49:37Z",
+      "updated_at": "2026-04-01T16:25:41Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.18314v2"
+    }
+  },
+  "note": "First published: 2025-10-21; Recorded arXiv version: v2; Recorded version updated: 2026-04-01T16:25:41Z.",
+  "author": [
+    {
+      "literal": "Zheng Zhang"
+    },
+    {
+      "literal": "Jiarui He"
+    },
+    {
+      "literal": "Yuchen Cai"
+    },
+    {
+      "literal": "Deheng Ye"
+    },
+    {
+      "literal": "Peilin Zhao"
+    },
+    {
+      "literal": "Ruili Feng"
+    },
+    {
+      "literal": "Hao Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.18314",
+  "genre": "preprint",
+  "version": "2"
+}

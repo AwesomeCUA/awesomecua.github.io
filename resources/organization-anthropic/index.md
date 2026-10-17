@@ -16,6 +16,8 @@ Publisher or product brand associated with Anthropic computer-use or browser aut
 
 Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
 
+- Record JSON: https://awesomecua.github.io/resources/organization-anthropic/record.json
+
 ## License declarations
 
 - code: not recorded

@@ -16,9 +16,16 @@ Bibliographic record for ReSAIL: Mitigating Collapse in Iterative Agent Self-Dis
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-39306/record.json
+
 ## Authors
 
 Shengjie Jin, Hengbo Xu, Zelong Sun, YuJie Guo, Zhiwu Lu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-39306/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-39306/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Machine-Readable Ads: Accessibility and Trust Patterns 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-12844/record.json
+
 ## Authors
 
 Joel Nitu, Heidrun Mühle, Andreas Stöckl
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-12844/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-12844/citation.csl.json
 
 ## Recorded arXiv snapshot
 

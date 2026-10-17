@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2509.15738",
+  "citation-key": "arxiv_2509_15738",
+  "type": "article",
+  "title": "GUI-ReWalk: Massive Data Generation for GUI Agent via Stochastic Exploration and Intent-Aware Reasoning",
+  "URL": "https://arxiv.org/abs/2509.15738v1",
+  "custom": {
+    "catalog_id": "arxiv:2509.15738",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2509.15738",
+    "identifiers": {
+      "arxiv": "2509.15738"
+    },
+    "first_published_at": "2025-09-19",
+    "record_updated_at": "2025-09-19",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "035048459d2b303721ef0738212829d1fa3314ccd0736b6649cc786c6e975ad4",
+      "submitted_at": "2025-09-19T08:09:18Z",
+      "updated_at": "2025-09-19T08:09:18Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2509.15738v1"
+    }
+  },
+  "note": "First published: 2025-09-19; Recorded arXiv version: v1; Recorded version updated: 2025-09-19T08:09:18Z.",
+  "author": [
+    {
+      "literal": "Musen Lin"
+    },
+    {
+      "literal": "Minghao Liu"
+    },
+    {
+      "literal": "Taoran Lu"
+    },
+    {
+      "literal": "Lichen Yuan"
+    },
+    {
+      "literal": "Yiwei Liu"
+    },
+    {
+      "literal": "Haonan Xu"
+    },
+    {
+      "literal": "Yu Miao"
+    },
+    {
+      "literal": "Yuhao Chao"
+    },
+    {
+      "literal": "Zhaojian Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.15738",
+  "genre": "preprint",
+  "version": "1"
+}

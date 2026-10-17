@@ -16,6 +16,8 @@ A bilingual GLM-4V-based execution model that uses screenshots, task instruction
 
 The former THUDM model URL resolves to zai-org. Six public safetensors shards are present. Weights use the custom CogAgent License, including a registration requirement for commercial use, rather than a blanket permissive license. The card cites the 2023 CogAgent paper as previous work and links a later technical report; no claim that the old paper documents this 2024 checkpoint is asserted.
 
+- Record JSON: https://awesomecua.github.io/resources/url-c5eb975c0d66f8a2954f/record.json
+
 ## License declarations
 
 - code: not recorded

@@ -16,9 +16,16 @@ Bibliographic record for \textsc{GUI-Spotlight}: Adaptive Iterative Focus Refine
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-04039/record.json
+
 ## Authors
 
 Bin Lei, Nuo Xu, Ali Payani, Mingyi Hong, Chunhua Liao, Yu Cao, Caiwen Ding
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-04039/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-04039/citation.csl.json
 
 ## Recorded arXiv snapshot
 

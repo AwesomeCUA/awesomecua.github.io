@@ -16,9 +16,16 @@ Bibliographic record for OdysseyBench: Evaluating LLM Agents on Long-Horizon Com
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-09124/record.json
+
 ## Authors
 
 Weixuan Wang, Dongge Han, Daniel Madrigal Diaz, Jin Xu, Victor Rühle, Saravan Rajmohan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-09124/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-09124/citation.csl.json
 
 ## Recorded arXiv snapshot
 

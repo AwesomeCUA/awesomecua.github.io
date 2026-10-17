@@ -16,9 +16,16 @@ Bibliographic record for SnapGuard: Lightweight Prompt Injection Detection for S
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-25562/record.json
+
 ## Authors
 
 Mengyao Du, Han Fang, Haokai Ma, Jiahao Chen, Kai Xu, Quanjun Yin, Ee-Chien Chang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-25562/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-25562/citation.csl.json
 
 ## Recorded arXiv snapshot
 

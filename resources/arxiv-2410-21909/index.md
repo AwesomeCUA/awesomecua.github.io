@@ -16,9 +16,16 @@ Bibliographic record for SceneGenAgent: Precise Industrial Scene Generation with
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-21909/record.json
+
 ## Authors
 
 Xiao Xia, Dan Zhang, Zibo Liao, Zhenyu Hou, Tianrui Sun, Jing Li, Ling Fu, Yuxiao Dong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-21909/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-21909/citation.csl.json
 
 ## Recorded arXiv snapshot
 

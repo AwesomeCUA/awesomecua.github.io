@@ -1,0 +1,61 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:02Z",
+      "role": "primary",
+      "sha256": "085f1a1810805bcade9555b1e5c374a7db1b8b1377afeeea285d927853b02f3d",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/Westlake-AGI-Lab/AppAgentX/HEAD/README.md"
+    }
+  ],
+  "id": "github:westlake-agi-lab/appagentx",
+  "identifiers": {},
+  "kind": "agent",
+  "last_verified_at": "2026-10-16T06:36:02Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/Westlake-AGI-Lab/AppAgentX"
+    }
+  ],
+  "name": "AppAgentX",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/Westlake-AGI-Lab/AppAgentX/HEAD/README.md",
+      "target_id": "arxiv:2503.02268",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Mobile agent research using accumulated interaction experience.",
+  "topics": [
+    "mobile-navigation",
+    "memory"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/Westlake-AGI-Lab/AppAgentX"
+}

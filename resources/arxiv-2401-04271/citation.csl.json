@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2401.04271",
+  "citation-key": "arxiv_2401_04271",
+  "type": "article",
+  "title": "Fault-tolerant quantum computation using large spin cat-codes",
+  "URL": "https://arxiv.org/abs/2401.04271v4",
+  "custom": {
+    "catalog_id": "arxiv:2401.04271",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2401.04271",
+    "identifiers": {
+      "arxiv": "2401.04271"
+    },
+    "first_published_at": "2024-01-08",
+    "record_updated_at": "2024-06-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5ca2bf9307655e4cf7acac9e17ad3ba5eab1c065b10d12caa4f5c8bb7035f1dc",
+      "submitted_at": "2024-01-08T22:56:05Z",
+      "updated_at": "2024-06-11T18:18:00Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2401.04271v4"
+    }
+  },
+  "note": "First published: 2024-01-08; Recorded arXiv version: v4; Recorded version updated: 2024-06-11T18:18:00Z.",
+  "author": [
+    {
+      "literal": "Sivaprasad Omanakuttan"
+    },
+    {
+      "literal": "Vikas Buchemmavari"
+    },
+    {
+      "literal": "Jonathan A. Gross"
+    },
+    {
+      "literal": "Ivan H Deutsch"
+    },
+    {
+      "literal": "Milad Marvian"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2401.04271",
+  "genre": "preprint",
+  "version": "4"
+}

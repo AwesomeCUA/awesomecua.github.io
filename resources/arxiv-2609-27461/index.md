@@ -16,9 +16,16 @@ Bibliographic record for Invisible in Space, Visible in Time: Motion Vision CAPT
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-27461/record.json
+
 ## Authors
 
 Zeyu Zhang, Dingyi Rong, Zijian Chen, Zicheng Zhang, Xiongkuo Min, Guangtao Zhai
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-27461/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-27461/citation.csl.json
 
 ## Recorded arXiv snapshot
 

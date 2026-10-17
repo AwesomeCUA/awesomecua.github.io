@@ -16,9 +16,16 @@ Bibliographic record for Computing Using Shallow NV-Center Charges in Diamond. T
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-17083/record.json
+
 ## Authors
 
 Rodrick Kuate Defo, Steven L. Richardson
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-17083/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-17083/citation.csl.json
 
 ## Recorded arXiv snapshot
 

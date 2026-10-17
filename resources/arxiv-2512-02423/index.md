@@ -16,9 +16,16 @@ Bibliographic record for GUI Exploration Lab: Enhancing Screen Navigation in Age
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-02423/record.json
+
 ## Authors
 
 Haolong Yan, Yeqing Shen, Xin Huang, Jia Wang, Kaijun Tan, Zhixuan Liang, Hongxin Li, Zheng Ge, Osamu Yoshie, Si Li, Xiangyu Zhang, Daxin Jiang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-02423/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-02423/citation.csl.json
 
 ## Recorded arXiv snapshot
 

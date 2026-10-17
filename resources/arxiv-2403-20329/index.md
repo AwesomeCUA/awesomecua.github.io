@@ -16,9 +16,16 @@ Bibliographic record for ReALM: Reference Resolution As Language Modeling. Title
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-20329/record.json
+
 ## Authors
 
 Joel Ruben Antony Moniz, Soundarya Krishnan, Melis Ozyildirim, Prathamesh Saraf, Halim Cagri Ates, Yuan Zhang, Hong Yu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-20329/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-20329/citation.csl.json
 
 ## Recorded arXiv snapshot
 

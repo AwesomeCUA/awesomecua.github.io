@@ -1,0 +1,70 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "android",
+    "ios"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:40:53Z",
+      "role": "primary",
+      "sha256": "de9c289c418218d40cdf1731775158af771d010266d7ea2aa398f2dc91f22acc",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/zai-org/Open-AutoGLM/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:07Z",
+      "role": "primary",
+      "sha256": "af69329b4667040c498cc87dfcc165db1f5f9452fe2ad3024ad7eef63d467666",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/zai-org/Open-AutoGLM/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:zai-org/open-autoglm",
+  "identifiers": {},
+  "kind": "agent",
+  "last_verified_at": "2026-10-16T06:40:53Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T06:42:07Z",
+      "url": "https://raw.githubusercontent.com/zai-org/Open-AutoGLM/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/zai-org/Open-AutoGLM"
+    }
+  ],
+  "name": "Open-AutoGLM",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Phone agent model and framework with device interaction tooling.",
+  "topics": [
+    "mobile-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/zai-org/Open-AutoGLM"
+}

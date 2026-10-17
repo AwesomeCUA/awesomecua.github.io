@@ -16,6 +16,8 @@ Mouse, keyboard, and screenshot automation library.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-asweigart-pyautogui/record.json
+
 ## License declarations
 
 - code: not recorded

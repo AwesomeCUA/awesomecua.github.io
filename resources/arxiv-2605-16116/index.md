@@ -16,9 +16,16 @@ Bibliographic record for ShopGym: An Integrated Framework for Realistic Simulati
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-16116/record.json
+
 ## Authors
 
 Chinmay Savadikar, Mingyu Zhao, Yuanzheng Zhu, Han Li, Shuang Xie, Alberto Castelo, Tianfu Wu, Lingyun Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-16116/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-16116/citation.csl.json
 
 ## Recorded arXiv snapshot
 

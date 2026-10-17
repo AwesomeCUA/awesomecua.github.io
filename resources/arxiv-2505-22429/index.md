@@ -16,9 +16,16 @@ Bibliographic record for Zero-Shot 3D Visual Grounding from Vision-Language Mode
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-22429/record.json
+
 ## Authors
 
 Rong Li, Shijie Li, Lingdong Kong, Xulei Yang, Junwei Liang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-22429/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-22429/citation.csl.json
 
 ## Recorded arXiv snapshot
 

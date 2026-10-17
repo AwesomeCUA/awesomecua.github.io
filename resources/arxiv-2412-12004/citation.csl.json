@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2412.12004",
+  "citation-key": "arxiv_2412_12004",
+  "type": "article",
+  "title": "The Open Source Advantage in Large Language Models (LLMs)",
+  "URL": "https://arxiv.org/abs/2412.12004v3",
+  "custom": {
+    "catalog_id": "arxiv:2412.12004",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2412.12004",
+    "identifiers": {
+      "arxiv": "2412.12004"
+    },
+    "first_published_at": "2024-12-16",
+    "record_updated_at": "2025-10-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ad756bc4e799f251a178edabb1e59e1405a25d9369d442de5fccaa0dee501177",
+      "submitted_at": "2024-12-16T17:32:11Z",
+      "updated_at": "2025-10-14T01:48:35Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2412.12004v3"
+    }
+  },
+  "note": "First published: 2024-12-16; Recorded arXiv version: v3; Recorded version updated: 2025-10-14T01:48:35Z.",
+  "author": [
+    {
+      "literal": "Jiya Manchanda"
+    },
+    {
+      "literal": "Laura Boettcher"
+    },
+    {
+      "literal": "Matheus Westphalen"
+    },
+    {
+      "literal": "Jasser Jasser"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.12004",
+  "genre": "preprint",
+  "version": "3"
+}

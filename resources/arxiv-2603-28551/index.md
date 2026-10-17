@@ -16,9 +16,16 @@ Bibliographic record for "What Did It Actually Do?": Understanding Risk Awarenes
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-28551/record.json
+
 ## Authors
 
 Zifan Peng, Mingchen Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-28551/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-28551/citation.csl.json
 
 ## Recorded arXiv snapshot
 

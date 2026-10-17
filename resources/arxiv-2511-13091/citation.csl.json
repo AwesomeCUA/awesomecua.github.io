@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2511.13091",
+  "citation-key": "arxiv_2511_13091",
+  "type": "article",
+  "title": "STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization",
+  "URL": "https://arxiv.org/abs/2511.13091v1",
+  "custom": {
+    "catalog_id": "arxiv:2511.13091",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.13091",
+    "identifiers": {
+      "arxiv": "2511.13091"
+    },
+    "first_published_at": "2025-11-17",
+    "record_updated_at": "2025-11-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "364ceefcbb692493f7da110ec8146411c6dadcb8855b75566f08e50913cbb293",
+      "submitted_at": "2025-11-17T07:43:15Z",
+      "updated_at": "2025-11-17T07:43:15Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2511.13091v1"
+    }
+  },
+  "note": "First published: 2025-11-17; Recorded arXiv version: v1; Recorded version updated: 2025-11-17T07:43:15Z.",
+  "author": [
+    {
+      "literal": "Yuhan Chen"
+    },
+    {
+      "literal": "Yuxuan Liu"
+    },
+    {
+      "literal": "Long Zhang"
+    },
+    {
+      "literal": "Pengzhi Gao"
+    },
+    {
+      "literal": "Jian Luan"
+    },
+    {
+      "literal": "Wei Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.13091",
+  "genre": "preprint",
+  "version": "1"
+}

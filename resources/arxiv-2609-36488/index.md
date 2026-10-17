@@ -16,9 +16,16 @@ Introduces AdaptArena to test whether web agents can infer unstated user prefere
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-36488/record.json
+
 ## Authors
 
 Dongchan Shin, Xing Han Lù, Jiaqi Deng, Jay Gala, Tomás Vergara Browne, Jaewon Moon, Fengyuan Liu, Alexandre Drouin, Siva Reddy, Alexandre Lacoste
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-36488/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-36488/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:1902.05971",
+  "citation-key": "arxiv_1902_05971",
+  "type": "article",
+  "title": "Synthesizing Number Generators for Stochastic Computing using Mixed Integer Programming",
+  "URL": "https://arxiv.org/abs/1902.05971v2",
+  "custom": {
+    "catalog_id": "arxiv:1902.05971",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1902.05971",
+    "identifiers": {
+      "arxiv": "1902.05971"
+    },
+    "first_published_at": "2019-02-15",
+    "record_updated_at": "2019-02-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4a0be3888d768c7145d2681d6c9beda5908f06f458ddc1bf4c1fff1ed8b32b8d",
+      "submitted_at": "2019-02-15T19:23:30Z",
+      "updated_at": "2019-02-26T21:08:05Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/1902.05971v2"
+    }
+  },
+  "note": "First published: 2019-02-15; Recorded arXiv version: v2; Recorded version updated: 2019-02-26T21:08:05Z.",
+  "author": [
+    {
+      "literal": "Vincent T. Lee"
+    },
+    {
+      "literal": "Samuel Archibald Elliot"
+    },
+    {
+      "literal": "Armin Alaghi"
+    },
+    {
+      "literal": "Luis Ceze"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        2,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1902.05971",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2609.27273",
+  "citation-key": "arxiv_2609_27273",
+  "type": "article",
+  "title": "CAVEAT: Towards Robust Computer-Use Agents in Incentive-Misaligned Environments",
+  "URL": "https://arxiv.org/abs/2609.27273v2",
+  "custom": {
+    "catalog_id": "arxiv:2609.27273",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.27273",
+    "identifiers": {
+      "arxiv": "2609.27273"
+    },
+    "first_published_at": "2026-09-23",
+    "record_updated_at": "2026-09-27",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8d241c1ea9731bc815eef5df9c409d410608adb052616406d955d7d33cecd9b9",
+      "submitted_at": "2026-09-23T03:00:00Z",
+      "updated_at": "2026-09-27T20:49:01Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2609.27273v2"
+    }
+  },
+  "note": "First published: 2026-09-23; Recorded arXiv version: v2; Recorded version updated: 2026-09-27T20:49:01Z.",
+  "author": [
+    {
+      "literal": "Yuxuan Li"
+    },
+    {
+      "literal": "Will Epperson"
+    },
+    {
+      "literal": "Wesley Deng"
+    },
+    {
+      "literal": "Zezhou Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.27273",
+  "genre": "preprint",
+  "version": "2"
+}

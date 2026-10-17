@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2610.16234",
+  "citation-key": "arxiv_2610_16234",
+  "type": "article",
+  "title": "Seg2Click: Learning Pixel-Level Action Masks for GUI Visual Grounding",
+  "URL": "https://arxiv.org/abs/2610.16234v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.16234",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.16234",
+    "identifiers": {
+      "arxiv": "2610.16234"
+    },
+    "first_published_at": "2026-10-12",
+    "record_updated_at": "2026-10-12",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "aa0e0ab6eb19ea55e65ccb354ae515f6552cd03dd688c6f43cdc6e2d59b11824",
+      "submitted_at": "2026-10-12T06:09:02Z",
+      "updated_at": "2026-10-12T06:09:02Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.16234v1"
+    }
+  },
+  "note": "First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T06:09:02Z.",
+  "author": [
+    {
+      "literal": "Jingchao Wang"
+    },
+    {
+      "literal": "Dingjiang Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.16234",
+  "genre": "preprint",
+  "version": "1"
+}

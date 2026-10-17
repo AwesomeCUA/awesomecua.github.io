@@ -16,9 +16,16 @@ Introduces video-based GUI questions and annotations for studying temporal inter
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-10819/record.json
+
 ## Authors
 
 Dongping Chen, Yue Huang, Siyuan Wu, Jingyu Tang, Liuyi Chen, Yilin Bai, Zhigang He, Chenlong Wang, Huichi Zhou, Yiqiang Li, Tianshuo Zhou, Yue Yu, Chujie Gao, Qihui Zhang, Yi Gui, Zhen Li, Yao Wan, Pan Zhou, Jianfeng Gao, Lichao Sun
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-10819/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-10819/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ WebServ combines copy-on-write container environments with a compact DOM-derived
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-16252/record.json
+
 ## Authors
 
 Yuxuan Lu, Ziyi Wang, Jing Huang, Hui Liu, Jiri Gesi, Yan Han, Shihan Fu, Tianqi Zheng, Xianfeng Tang, Chen Luo, Yisi Sang, Jin Lai, Dakuo Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-16252/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-16252/citation.csl.json
 
 ## Recorded arXiv snapshot
 

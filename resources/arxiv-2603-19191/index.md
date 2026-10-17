@@ -16,9 +16,16 @@ Bibliographic record for OS-Themis: A Scalable Critic Framework for Generalist G
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-19191/record.json
+
 ## Authors
 
 Zehao Li, Zhenyu Wu, Yibo Zhao, Bowen Yang, Jingjing Xie, Zhaoyang Liu, Zhoumianze Liu, Kaiming Jin, Jianze Liang, Zonglin Li, Feng Wu, Bowen Zhou, Zun Wang, Zichen Ding
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-19191/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-19191/citation.csl.json
 
 ## Recorded arXiv snapshot
 

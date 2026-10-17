@@ -16,9 +16,16 @@ Bibliographic record for SynChain: Inducing Computer-Use Agent Systems to Constr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-06862/record.json
+
 ## Authors
 
 Fuyao Zhang, Jiaming Zhang, Che Wang, Boyang Chen, Yurong Hao, Xiongtao Sun, Guowei Guan, Blaise Delattre, Yang Cao, Wei Yang Bryan Lim
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-06862/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-06862/citation.csl.json
 
 ## Recorded arXiv snapshot
 

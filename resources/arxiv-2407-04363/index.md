@@ -16,9 +16,16 @@ Bibliographic record for AriGraph: Learning Knowledge Graph World Models with Ep
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-04363/record.json
+
 ## Authors
 
 Petr Anokhin, Nikita Semenov, Artyom Sorokin, Dmitry Evseev, Andrey Kravchenko, Mikhail Burtsev, Evgeny Burnaev
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-04363/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-04363/citation.csl.json
 
 ## Recorded arXiv snapshot
 

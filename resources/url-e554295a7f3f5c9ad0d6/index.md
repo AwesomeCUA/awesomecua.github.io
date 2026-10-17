@@ -16,6 +16,8 @@ Released model checkpoint associated with UGround.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-e554295a7f3f5c9ad0d6/record.json
+
 ## License declarations
 
 - code: not recorded

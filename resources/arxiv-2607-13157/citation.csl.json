@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2607.13157",
+  "citation-key": "arxiv_2607_13157",
+  "type": "article",
+  "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
+  "URL": "https://arxiv.org/abs/2607.13157v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.13157",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.13157",
+    "identifiers": {
+      "arxiv": "2607.13157"
+    },
+    "first_published_at": "2026-07-14",
+    "record_updated_at": "2026-07-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9c0c60fd93a470f7d42588777e91374c56867dffd81f0d3a45d607c35a586550",
+      "submitted_at": "2026-07-14T18:06:53Z",
+      "updated_at": "2026-07-14T18:06:53Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.13157v1"
+    }
+  },
+  "note": "First published: 2026-07-14; Recorded arXiv version: v1; Recorded version updated: 2026-07-14T18:06:53Z.",
+  "author": [
+    {
+      "literal": "Richmond Alake"
+    },
+    {
+      "literal": "Cesare Bernardis"
+    },
+    {
+      "literal": "Paul Cayet"
+    },
+    {
+      "literal": "Luca Engel"
+    },
+    {
+      "literal": "Damien Hilloulin"
+    },
+    {
+      "literal": "Sungpack Hong"
+    },
+    {
+      "literal": "Allen Hosler"
+    },
+    {
+      "literal": "Nickolas Kavantzas"
+    },
+    {
+      "literal": "Ingo Kossyk"
+    },
+    {
+      "literal": "Son Le"
+    },
+    {
+      "literal": "Rhicheek Patra"
+    },
+    {
+      "literal": "Kartik Talamadupula"
+    },
+    {
+      "literal": "Valentin Venzin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.13157",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Bibliographic record for In Prospect and Retrospect: Reflective Memory Managemen
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-08026/record.json
+
 ## Authors
 
 Zhen Tan, Jun Yan, I-Hung Hsu, Rujun Han, Zifeng Wang, Long T. Le, Yiwen Song, Yanfei Chen, Hamid Palangi, George Lee, Anand Iyer, Tianlong Chen, Huan Liu, Chen-Yu Lee, Tomas Pfister
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-08026/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-08026/citation.csl.json
 
 ## Recorded arXiv snapshot
 

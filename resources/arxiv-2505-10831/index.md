@@ -16,9 +16,16 @@ Bibliographic record for Creating General User Models from Computer Use. Title, 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-10831/record.json
+
 ## Authors
 
 Omar Shaikh, Shardul Sapkota, Shan Rizvi, Eric Horvitz, Joon Sung Park, Diyi Yang, Michael S. Bernstein
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-10831/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-10831/citation.csl.json
 
 ## Recorded arXiv snapshot
 

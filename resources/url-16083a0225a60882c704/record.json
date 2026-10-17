@@ -1,0 +1,91 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/Hcompany/Holo4-35B-A3B/tree/main",
+    "gated": false,
+    "hub_id": "Hcompany/Holo4-35B-A3B"
+  },
+  "environments": [
+    "desktop",
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:11:45Z",
+      "role": "primary",
+      "sha256": "4f1aa5006aa9adaeb5ac549e5a5f8ea164352714a00528b1afb8602812d45b44",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/Hcompany/Holo4-35B-A3B/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:11:45Z",
+      "role": "primary",
+      "sha256": "7a41bdbfb4a300302a7d3633f12962505d56ba874a37292afccbd48b1bec8287",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/api/models/Hcompany/Holo4-35B-A3B"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T04:11:45Z",
+      "role": "primary",
+      "sha256": "4f1aa5006aa9adaeb5ac549e5a5f8ea164352714a00528b1afb8602812d45b44",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/Hcompany/Holo4-35B-A3B/raw/main/README.md"
+    }
+  ],
+  "id": "url:16083a0225a60882c704",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T04:11:45Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "apache-2.0",
+      "retrieved_at": "2026-10-17T04:11:45Z",
+      "url": "https://huggingface.co/Hcompany/Holo4-35B-A3B/raw/main/README.md"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/Hcompany/Holo4-35B-A3B"
+    }
+  ],
+  "name": "Holo4 35B-A3B BF16",
+  "notes": "The public manifest contains 26 safetensors shards for the BF16 checkpoint and the card declares Apache-2.0. Quantized FP8/NVFP4/GGUF variants are not split into duplicate entries here. The card also contains demos and scores for Holo4-27B; those are not assigned to this 35B-A3B checkpoint. No training corpus or runtime was downloaded.",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A Qwen3.6-based computer-use checkpoint designed to request GUI actions, code execution and tool calls through an external agent harness.",
+  "topics": [
+    "grounding",
+    "action-prediction",
+    "tool-integration"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/Hcompany/Holo4-35B-A3B"
+}

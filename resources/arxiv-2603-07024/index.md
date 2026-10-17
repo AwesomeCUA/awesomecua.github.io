@@ -16,9 +16,16 @@ Bibliographic record for Enhancing Web Agents with a Hierarchical Memory Tree. T
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-07024/record.json
+
 ## Authors
 
 Yunteng Tan, Zhi Gao, Xinxiao Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-07024/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-07024/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for On the Tool Manipulation Capability of Open-source Larg
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2305-16504/record.json
+
 ## Authors
 
 Qiantong Xu, Fenglu Hong, Bo Li, Changran Hu, Zhengyu Chen, Jian Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2305-16504/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-16504/citation.csl.json
 
 ## Recorded arXiv snapshot
 

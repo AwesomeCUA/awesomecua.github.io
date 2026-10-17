@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2306.03623",
+  "citation-key": "arxiv_2306_03623",
+  "type": "article",
+  "title": "Spike-based computation using classical recurrent neural networks",
+  "URL": "https://arxiv.org/abs/2306.03623v3",
+  "custom": {
+    "catalog_id": "arxiv:2306.03623",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2306.03623",
+    "identifiers": {
+      "arxiv": "2306.03623"
+    },
+    "first_published_at": "2023-06-06",
+    "record_updated_at": "2024-05-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d660e7c8ddf6f5f8663f07ece23b73ea2fd4605c8a5a39ee74c87f5bf8dc9fde",
+      "submitted_at": "2023-06-06T12:19:12Z",
+      "updated_at": "2024-05-06T12:08:09Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2306.03623v3"
+    }
+  },
+  "note": "First published: 2023-06-06; Recorded arXiv version: v3; Recorded version updated: 2024-05-06T12:08:09Z.",
+  "author": [
+    {
+      "literal": "Florent De Geeter"
+    },
+    {
+      "literal": "Damien Ernst"
+    },
+    {
+      "literal": "Guillaume Drion"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        6,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2306.03623",
+  "genre": "preprint",
+  "version": "3"
+}

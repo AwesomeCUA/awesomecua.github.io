@@ -1,0 +1,61 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T10:43:11Z",
+      "role": "primary",
+      "sha256": "dc60f683b0f44ccee4e54e5cbe1552ee3454e1ec4ed5c04635fedb83a325f51f",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/bz-lab/AUITestAgent/HEAD/README.md"
+    }
+  ],
+  "id": "github:bz-lab/auitestagent",
+  "identifiers": {},
+  "kind": "tool",
+  "last_verified_at": "2026-10-16T10:43:11Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/bz-lab/AUITestAgent"
+    }
+  ],
+  "name": "AUITestAgent",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/bz-lab/AUITestAgent/HEAD/README.md",
+      "target_id": "arxiv:2407.09018",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Generates mobile GUI interactions from natural-language test requirements and checks application behavior against those requirements.",
+  "topics": [
+    "automation",
+    "evaluation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/bz-lab/AUITestAgent"
+}

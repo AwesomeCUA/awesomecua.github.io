@@ -16,9 +16,16 @@ WebChain aligns human web-interaction trajectories with visual, structural and a
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-05295/record.json
+
 ## Authors
 
 Sicheng Fan, Rui Wan, Yifei Leng, Gaoning Liang, Li Ling, Yanyi Shang, Dehan Kong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-05295/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-05295/citation.csl.json
 
 ## Recorded arXiv snapshot
 

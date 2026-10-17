@@ -1,0 +1,127 @@
+{
+  "id": "arxiv:2603.18429",
+  "citation-key": "arxiv_2603_18429",
+  "type": "article",
+  "title": "AndroTMem: From Interaction Trajectories to Anchored Memory in Long-Horizon GUI Agents",
+  "URL": "https://arxiv.org/abs/2603.18429v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.18429",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.18429",
+    "identifiers": {
+      "arxiv": "2603.18429"
+    },
+    "first_published_at": "2026-03-19",
+    "record_updated_at": "2026-03-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0ce6da91e59ac57fa24ff991ca023b84448c54d477cacb2d6fded9bf527dd29d",
+      "submitted_at": "2026-03-19T02:45:21Z",
+      "updated_at": "2026-03-19T02:45:21Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.18429v1"
+    }
+  },
+  "note": "First published: 2026-03-19; Recorded arXiv version: v1; Recorded version updated: 2026-03-19T02:45:21Z.",
+  "author": [
+    {
+      "literal": "Yibo Shi"
+    },
+    {
+      "literal": "Jungang Li"
+    },
+    {
+      "literal": "Linghao Zhang"
+    },
+    {
+      "literal": "Zihao Dongfang"
+    },
+    {
+      "literal": "Biao Wu"
+    },
+    {
+      "literal": "Sicheng Tao"
+    },
+    {
+      "literal": "Yibo Yan"
+    },
+    {
+      "literal": "Chenxi Qin"
+    },
+    {
+      "literal": "Weiting Liu"
+    },
+    {
+      "literal": "Zhixin Lin"
+    },
+    {
+      "literal": "Hanqian Li"
+    },
+    {
+      "literal": "Yu Huang"
+    },
+    {
+      "literal": "Song Dai"
+    },
+    {
+      "literal": "Yonghua Hei"
+    },
+    {
+      "literal": "Yue Ding"
+    },
+    {
+      "literal": "Xiang Li"
+    },
+    {
+      "literal": "Shikang Wang"
+    },
+    {
+      "literal": "Chengdong Xu"
+    },
+    {
+      "literal": "Jingqi Liu"
+    },
+    {
+      "literal": "Xueying Ma"
+    },
+    {
+      "literal": "Zhiwen Zheng"
+    },
+    {
+      "literal": "Xiaofei Zhang"
+    },
+    {
+      "literal": "Bincheng Wang"
+    },
+    {
+      "literal": "Nichen Yang"
+    },
+    {
+      "literal": "Jie Wu"
+    },
+    {
+      "literal": "Lihua Tian"
+    },
+    {
+      "literal": "Chen Li"
+    },
+    {
+      "literal": "Xuming Hu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.18429",
+  "genre": "preprint",
+  "version": "1"
+}

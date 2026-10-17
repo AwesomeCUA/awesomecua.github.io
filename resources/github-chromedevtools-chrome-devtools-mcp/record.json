@@ -1,0 +1,70 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:40:53Z",
+      "role": "primary",
+      "sha256": "059a0349daaef6bda98eae6d9384ed349ac94b8033b18be817c317a01b472024",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/ChromeDevTools/chrome-devtools-mcp/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:07Z",
+      "role": "primary",
+      "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/ChromeDevTools/chrome-devtools-mcp/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:chromedevtools/chrome-devtools-mcp",
+  "identifiers": {},
+  "kind": "tool",
+  "last_verified_at": "2026-10-16T06:40:53Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T06:42:07Z",
+      "url": "https://raw.githubusercontent.com/ChromeDevTools/chrome-devtools-mcp/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    }
+  ],
+  "name": "Chrome DevTools MCP",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "MCP tools for browser control and inspection through Chrome DevTools.",
+  "topics": [
+    "automation",
+    "tool-integration"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+}

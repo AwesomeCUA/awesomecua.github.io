@@ -16,9 +16,16 @@ Bibliographic record for Co-EPG: A Framework for Co-Evolution of Planning and Gr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-10705/record.json
+
 ## Authors
 
 Yuan Zhao, Hualei Zhu, Tingyu Jiang, Shen Li, Xiaohang Xu, Hao Henry Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-10705/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-10705/citation.csl.json
 
 ## Recorded arXiv snapshot
 

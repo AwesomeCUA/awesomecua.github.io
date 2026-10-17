@@ -16,9 +16,16 @@ Bibliographic record for A-MEM: Agentic Memory for LLM Agents. Title, authors an
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-12110/record.json
+
 ## Authors
 
 Wujiang Xu, Zujie Liang, Kai Mei, Hang Gao, Juntao Tan, Yongfeng Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-12110/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-12110/citation.csl.json
 
 ## Recorded arXiv snapshot
 

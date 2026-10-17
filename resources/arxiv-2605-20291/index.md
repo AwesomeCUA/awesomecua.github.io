@@ -16,9 +16,16 @@ Bibliographic record for Weasel: Out-of-Domain Generalization for Web Agents via
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-20291/record.json
+
 ## Authors
 
 Fatemeh Pesaran Zadeh, Seyeon Choi, Xing Han Lù, Siva Reddy, Gunhee Kim
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-20291/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-20291/citation.csl.json
 
 ## Recorded arXiv snapshot
 

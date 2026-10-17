@@ -16,9 +16,16 @@ LlamaTouch executes mobile tasks on devices and evaluates whether an agent visit
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-16054/record.json
+
 ## Authors
 
 Li Zhang, Shihe Wang, Xianqing Jia, Zhihan Zheng, Yunhe Yan, Longxi Gao, Yuanchun Li, Mengwei Xu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-16054/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-16054/citation.csl.json
 
 ## Recorded arXiv snapshot
 

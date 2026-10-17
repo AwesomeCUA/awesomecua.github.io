@@ -16,9 +16,16 @@ Survey of research directions in GUI or computer-use agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-16150/record.json
+
 ## Authors
 
 Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan Etaiwi, Aref Enayati, Gabriel Nobel, Ahmed Abdulkadir, Benjamin F. Grewe, Thilo Stadelmann
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-16150/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-16150/citation.csl.json
 
 ## Recorded arXiv snapshot
 

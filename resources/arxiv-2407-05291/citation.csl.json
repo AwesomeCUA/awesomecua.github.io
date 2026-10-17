@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2407.05291",
+  "citation-key": "arxiv_2407_05291",
+  "type": "article",
+  "title": "WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks",
+  "URL": "https://arxiv.org/abs/2407.05291v2",
+  "custom": {
+    "catalog_id": "arxiv:2407.05291",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2407.05291",
+    "identifiers": {
+      "arxiv": "2407.05291"
+    },
+    "first_published_at": "2024-07-07",
+    "record_updated_at": "2025-02-05",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2b56a6208e4fa3523cae3fbae673affcd5fe3d6a9c19df482d27fe71d43ffef5",
+      "submitted_at": "2024-07-07T07:15:49Z",
+      "updated_at": "2025-02-05T21:50:07Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2407.05291v2"
+    }
+  },
+  "note": "First published: 2024-07-07; Recorded arXiv version: v2; Recorded version updated: 2025-02-05T21:50:07Z.",
+  "author": [
+    {
+      "literal": "Léo Boisvert"
+    },
+    {
+      "literal": "Megh Thakkar"
+    },
+    {
+      "literal": "Maxime Gasse"
+    },
+    {
+      "literal": "Massimo Caccia"
+    },
+    {
+      "literal": "Thibault Le Sellier De Chezelles"
+    },
+    {
+      "literal": "Quentin Cappart"
+    },
+    {
+      "literal": "Nicolas Chapados"
+    },
+    {
+      "literal": "Alexandre Lacoste"
+    },
+    {
+      "literal": "Alexandre Drouin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.05291",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,9 +16,16 @@ Bibliographic record for WASP: Benchmarking Web Agent Security Against Prompt In
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-18575/record.json
+
 ## Authors
 
 Ivan Evtimov, Arman Zharmagambetov, Aaron Grattafiori, Chuan Guo, Kamalika Chaudhuri
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-18575/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-18575/citation.csl.json
 
 ## Recorded arXiv snapshot
 

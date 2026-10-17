@@ -16,9 +16,16 @@ Survey of research directions in GUI or computer-use agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-04890/record.json
+
 ## Authors
 
 Shuai Wang, Weiwen Liu, Jingxuan Chen, Yuqi Zhou, Weinan Gan, Xingshan Zeng, Yuhan Che, Shuai Yu, Xinlong Hao, Kun Shao, Bin Wang, Chuhan Wu, Yasheng Wang, Ruiming Tang, Jianye Hao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-04890/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-04890/citation.csl.json
 
 ## Recorded arXiv snapshot
 

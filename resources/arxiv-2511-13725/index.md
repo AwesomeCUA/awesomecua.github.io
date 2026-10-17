@@ -16,9 +16,16 @@ Bibliographic record for Can We Stop Malicious AI? KILLBENCH: A Benchmark for Ex
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-13725/record.json
+
 ## Authors
 
 Sechan Lee, Hyounghun Kim, Sangdon Park
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-13725/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-13725/citation.csl.json
 
 ## Recorded arXiv snapshot
 

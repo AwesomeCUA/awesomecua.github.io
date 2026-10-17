@@ -1,0 +1,80 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/datasets/biglab/webui-all/tree/main",
+    "gated": false,
+    "hub_id": "biglab/webui-all",
+    "languages": [],
+    "modalities": [],
+    "sample_count": null,
+    "sample_unit": null,
+    "size_category_reported": null
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:38:26Z",
+      "role": "primary",
+      "sha256": "70928db908760c1561bfc8e0cd7d925e0103ffddef4676fbaa7c1756a804b99a",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://huggingface.co/api/datasets/biglab/webui-all"
+    },
+    {
+      "method": "huggingface_api",
+      "retrieved_at": "2026-10-16T06:38:26Z",
+      "role": "primary",
+      "sha256": "70928db908760c1561bfc8e0cd7d925e0103ffddef4676fbaa7c1756a804b99a",
+      "supports": [
+        "details",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/api/datasets/biglab/webui-all"
+    }
+  ],
+  "id": "url:13b9442bcb6a8b984c4f",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-16T06:38:26Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "publisher model/dataset card",
+      "declared": "other",
+      "retrieved_at": "2026-10-16T06:38:26Z",
+      "url": "https://huggingface.co/datasets/biglab/webui-all"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/biglab/webui-all"
+    }
+  ],
+  "name": "WebUI",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Web screenshot and interface data for UI research.",
+  "topics": [
+    "screen-understanding"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/biglab/webui-all"
+}

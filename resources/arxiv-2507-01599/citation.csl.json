@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2507.01599",
+  "citation-key": "arxiv_2507_01599",
+  "type": "article",
+  "title": "Data Agent: A Holistic Architecture for Orchestrating Data+AI Ecosystems",
+  "URL": "https://arxiv.org/abs/2507.01599v1",
+  "custom": {
+    "catalog_id": "arxiv:2507.01599",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2507.01599",
+    "identifiers": {
+      "arxiv": "2507.01599"
+    },
+    "first_published_at": "2025-07-02",
+    "record_updated_at": "2025-07-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ec8fcae2fa421b0a81900313c84109da1f82465c70afb59e17f5fb3107c21565",
+      "submitted_at": "2025-07-02T11:04:49Z",
+      "updated_at": "2025-07-02T11:04:49Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2507.01599v1"
+    }
+  },
+  "note": "First published: 2025-07-02; Recorded arXiv version: v1; Recorded version updated: 2025-07-02T11:04:49Z.",
+  "author": [
+    {
+      "literal": "Zhaoyan Sun"
+    },
+    {
+      "literal": "Jiayi Wang"
+    },
+    {
+      "literal": "Xinyang Zhao"
+    },
+    {
+      "literal": "Jiachi Wang"
+    },
+    {
+      "literal": "Guoliang Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.01599",
+  "genre": "preprint",
+  "version": "1"
+}

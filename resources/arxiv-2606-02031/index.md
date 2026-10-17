@@ -16,9 +16,16 @@ Bibliographic record for OpenWebRL: Demystifying Online Multi-turn Reinforcement
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-02031/record.json
+
 ## Authors
 
 Rui Yang, Qianhui Wu, Yuxi Chen, Hao Bai, Wenlin Yao, Hao Cheng, Baolin Peng, Huan Zhang, Tong Zhang, Jianfeng Gao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-02031/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-02031/citation.csl.json
 
 ## Recorded arXiv snapshot
 

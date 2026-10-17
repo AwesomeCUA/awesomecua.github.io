@@ -16,9 +16,16 @@ Trains computer agents on verified GUI, command-line, and interleaved trajectori
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-38008/record.json
+
 ## Authors
 
 Tongbo Chen, Junbo Niu, Zhengxi Lu, Niu Lian, Fei Tang, Yuchen Yan, Yike Hong, Yong Du, Yizhou Liu, Bofan Chen, Yongliang Shen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-38008/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-38008/citation.csl.json
 
 ## Recorded arXiv snapshot
 

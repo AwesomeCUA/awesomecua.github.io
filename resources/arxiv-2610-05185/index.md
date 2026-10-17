@@ -16,9 +16,16 @@ Introduces ReLaViS, which performs recurrent visual search inside a grounding mo
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-05185/record.json
+
 ## Authors
 
 Kaiyu Wu, Beichen Zheng, Weiyao Huang, Keze Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-05185/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-05185/citation.csl.json
 
 ## Recorded arXiv snapshot
 

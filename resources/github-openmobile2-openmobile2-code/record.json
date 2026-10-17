@@ -1,0 +1,78 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "android",
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T01:48:10Z",
+      "role": "primary",
+      "sha256": "485279038266d9454df75e27a80a0a0d71c24e90700126d2dcfa0da921b1273d",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/OpenMobile2/OpenMobile2-Code/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-17T01:52:51Z",
+      "role": "primary",
+      "sha256": "b09fcaf4fbc265223c2479c410beef2b98c5e687c78ecedf3452aa12ffc465f1",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/OpenMobile2/OpenMobile2-Code/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:openmobile2/openmobile2-code",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-17T01:48:10Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-17T01:52:51Z",
+      "url": "https://raw.githubusercontent.com/OpenMobile2/OpenMobile2-Code/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/OpenMobile2/OpenMobile2-Code"
+    }
+  ],
+  "name": "OpenMobile-2 code",
+  "notes": "The README marks evaluation code, checkpoints, environments, and data as released; data-construction scripts and other resources remain pending. Each benchmark runtime is started separately. Code terms do not establish dataset permissions.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/OpenMobile2/OpenMobile2-Code/HEAD/README.md",
+      "target_id": "arxiv:2610.14157",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Evaluation adapters and training guidance for OpenMobile-2 across Android emulators and browser-rendered mobile simulation.",
+  "topics": [
+    "mobile-navigation",
+    "tool-integration",
+    "evaluation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/OpenMobile2/OpenMobile2-Code"
+}

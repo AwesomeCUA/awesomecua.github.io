@@ -16,9 +16,16 @@ Bibliographic record for Challenges in Human-Agent Communication. Title, authors
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-10380/record.json
+
 ## Authors
 
 Gagan Bansal, Jennifer Wortman Vaughan, Saleema Amershi, Eric Horvitz, Adam Fourney, Hussein Mozannar, Victor Dibia, Daniel S. Weld
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-10380/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-10380/citation.csl.json
 
 ## Recorded arXiv snapshot
 

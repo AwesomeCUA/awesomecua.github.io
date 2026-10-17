@@ -16,9 +16,16 @@ Bibliographic record for GUIDE: Interpretable GUI Agent Evaluation via Hierarchi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-04399/record.json
+
 ## Authors
 
 Yuwen Zhai, Runze Li, Liang Wang, Nian Shi, Liwu Xu, Wei Zhang, Ran Lin, Bo Xu, Benlei Cui
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-04399/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-04399/citation.csl.json
 
 ## Recorded arXiv snapshot
 

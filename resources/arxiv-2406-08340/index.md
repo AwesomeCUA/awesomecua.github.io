@@ -16,9 +16,16 @@ ScenTest builds scenario-specific event knowledge graphs from crowdsourced test 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-08340/record.json
+
 ## Authors
 
 Shengcheng Yu, Chunrong Fang, Mingzhe Du, Zimin Ding, Zhenyu Chen, Zhendong Su
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-08340/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-08340/citation.csl.json
 
 ## Recorded arXiv snapshot
 

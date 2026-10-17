@@ -16,9 +16,16 @@ Bibliographic record for ColorBench: Benchmarking Mobile Agents with Graph-Struc
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-14621/record.json
+
 ## Authors
 
 Yuanyi Song, Heyuan Huang, Qiqiang Lin, Yin Zhao, Xiangmou Qu, Jun Wang, Xingyu Lou, Weiwen Liu, Zhuosheng Zhang, Jun Wang, Yong Yu, Weinan Zhang, Zhaoxiang Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-14621/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-14621/citation.csl.json
 
 ## Recorded arXiv snapshot
 

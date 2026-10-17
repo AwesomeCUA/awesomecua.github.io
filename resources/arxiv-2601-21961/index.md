@@ -16,9 +16,16 @@ Introduces VAF, a controlled pipeline that varies webpage appearance while retai
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-21961/record.json
+
 ## Authors
 
 Kuai Yu, Naicheng Yu, Han Wang, Rui Yang, Huan Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-21961/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-21961/citation.csl.json
 
 ## Recorded arXiv snapshot
 

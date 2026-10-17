@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2311.05544",
+  "citation-key": "arxiv_2311_05544",
+  "type": "article",
+  "title": "Towards adiabatic quantum computing using compressed quantum circuits",
+  "URL": "https://arxiv.org/abs/2311.05544v3",
+  "custom": {
+    "catalog_id": "arxiv:2311.05544",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2311.05544",
+    "identifiers": {
+      "arxiv": "2311.05544"
+    },
+    "first_published_at": "2023-11-09",
+    "record_updated_at": "2024-06-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "85eed520299cd238f99d7927ef552d37c211e5db7f005f3d274f179c1a31f3ed",
+      "submitted_at": "2023-11-09T17:45:07Z",
+      "updated_at": "2024-06-20T15:53:10Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2311.05544v3"
+    }
+  },
+  "note": "First published: 2023-11-09; Recorded arXiv version: v3; Recorded version updated: 2024-06-20T15:53:10Z.",
+  "author": [
+    {
+      "literal": "Conor Mc Keever"
+    },
+    {
+      "literal": "Michael Lubasch"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.05544",
+  "genre": "preprint",
+  "version": "3"
+}

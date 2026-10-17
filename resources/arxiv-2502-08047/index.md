@@ -16,9 +16,16 @@ Introduces desktop and web tasks with varied initial states to test planning rec
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-08047/record.json
+
 ## Authors
 
 Henry Hengyuan Zhao, Kaiming Yang, Wendi Yu, Difei Gao, Mike Zheng Shou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-08047/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-08047/citation.csl.json
 
 ## Recorded arXiv snapshot
 

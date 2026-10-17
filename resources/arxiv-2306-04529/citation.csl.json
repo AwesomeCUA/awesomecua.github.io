@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2306.04529",
+  "citation-key": "arxiv_2306_04529",
+  "type": "article",
+  "title": "Git-Theta: A Git Extension for Collaborative Development of Machine Learning Models",
+  "URL": "https://arxiv.org/abs/2306.04529v1",
+  "custom": {
+    "catalog_id": "arxiv:2306.04529",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2306.04529",
+    "identifiers": {
+      "arxiv": "2306.04529"
+    },
+    "first_published_at": "2023-06-07",
+    "record_updated_at": "2023-06-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "588b92153d4fe7edf14b8a2e39d98b8f0c8ab945262a97368aba0098c2c568ad",
+      "submitted_at": "2023-06-07T15:37:50Z",
+      "updated_at": "2023-06-07T15:37:50Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2306.04529v1"
+    }
+  },
+  "note": "First published: 2023-06-07; Recorded arXiv version: v1; Recorded version updated: 2023-06-07T15:37:50Z.",
+  "author": [
+    {
+      "literal": "Nikhil Kandpal"
+    },
+    {
+      "literal": "Brian Lester"
+    },
+    {
+      "literal": "Mohammed Muqeeth"
+    },
+    {
+      "literal": "Anisha Mascarenhas"
+    },
+    {
+      "literal": "Monty Evans"
+    },
+    {
+      "literal": "Vishal Baskaran"
+    },
+    {
+      "literal": "Tenghao Huang"
+    },
+    {
+      "literal": "Haokun Liu"
+    },
+    {
+      "literal": "Colin Raffel"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        6,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2306.04529",
+  "genre": "preprint",
+  "version": "1"
+}

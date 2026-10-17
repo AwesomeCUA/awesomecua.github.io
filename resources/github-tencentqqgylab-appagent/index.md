@@ -16,6 +16,8 @@ Mobile app agent using exploration and reusable knowledge.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-tencentqqgylab-appagent/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/TencentQQGYLab/AppAgent/HEAD/LICENSE

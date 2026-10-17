@@ -1,0 +1,67 @@
+{
+  "aliases": [],
+  "authors": [
+    "Hudson Leone",
+    "S Srikara",
+    "Peter P. Rohde",
+    "Simon Devitt"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "aad3ddeba4cb300a117039b7680446651fee79257c5d4f2358373edfe6b12972",
+      "submitted_at": "2022-08-31T23:14:45Z",
+      "updated_at": "2024-02-15T05:57:40Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2209.00151v2"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:37:01Z",
+      "role": "primary",
+      "sha256": "8bfa074910574410d7988771270feded31e7e1bd1fd0924d4754850d4a5f1914",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=900&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2209.00151",
+  "identifiers": {
+    "arxiv": "2209.00151"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:37:01Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2209.00151"
+    }
+  ],
+  "name": "Upper Bounds for the Clock Speeds of Fault-Tolerant Distributed Quantum Computation using Satellites to Supply Entangled Photon Pairs",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2022-08-31",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2024-02-15",
+  "url": "https://arxiv.org/abs/2209.00151"
+}

@@ -16,9 +16,16 @@ Bibliographic record for V-Zen: Efficient GUI Understanding and Precise Groundin
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2405-15341/record.json
+
 ## Authors
 
 Abdur Rahman, Rajat Chawla, Muskaan Kumar, Arkajit Datta, Adarsh Jha, Mukunda NS, Ishaan Bhola
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2405-15341/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-15341/citation.csl.json
 
 ## Recorded arXiv snapshot
 

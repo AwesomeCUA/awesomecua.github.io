@@ -16,9 +16,16 @@ Bibliographic record for Where Not to Learn: Prior-Aligned Training with Subset-
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-07008/record.json
+
 ## Authors
 
 Ruoyu Chen, Shangquan Sun, Xiaoqing Guo, Kangwei Liu, Sanyi Zhang, Zhangcheng Wang, Shiming Liu, Qunli Zhang, Hua Zhang, Wei Wang, Xiaochun Cao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-07008/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-07008/citation.csl.json
 
 ## Recorded arXiv snapshot
 

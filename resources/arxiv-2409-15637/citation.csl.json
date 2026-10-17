@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2409.15637",
+  "citation-key": "arxiv_2409_15637",
+  "type": "article",
+  "title": "Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale",
+  "URL": "https://arxiv.org/abs/2409.15637v2",
+  "custom": {
+    "catalog_id": "arxiv:2409.15637",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2409.15637",
+    "identifiers": {
+      "arxiv": "2409.15637"
+    },
+    "first_published_at": "2024-09-24",
+    "record_updated_at": "2024-11-27",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6c19b869b10f0b4c985b88b032f78e0e72f83e7ca8d9f346417054cd2a9002e3",
+      "submitted_at": "2024-09-24T00:51:45Z",
+      "updated_at": "2024-11-27T16:34:52Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2409.15637v2"
+    }
+  },
+  "note": "First published: 2024-09-24; Recorded arXiv version: v2; Recorded version updated: 2024-11-27T16:34:52Z.",
+  "author": [
+    {
+      "literal": "Tianyue Ou"
+    },
+    {
+      "literal": "Frank F. Xu"
+    },
+    {
+      "literal": "Aman Madaan"
+    },
+    {
+      "literal": "Jiarui Liu"
+    },
+    {
+      "literal": "Robert Lo"
+    },
+    {
+      "literal": "Abishek Sridhar"
+    },
+    {
+      "literal": "Sudipta Sengupta"
+    },
+    {
+      "literal": "Dan Roth"
+    },
+    {
+      "literal": "Graham Neubig"
+    },
+    {
+      "literal": "Shuyan Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2409.15637",
+  "genre": "preprint",
+  "version": "2"
+}

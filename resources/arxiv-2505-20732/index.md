@@ -16,9 +16,16 @@ Bibliographic record for SPA-RL: Reinforcing LLM Agents via Stepwise Progress At
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-20732/record.json
+
 ## Authors
 
 Hanlin Wang, Chak Tou Leong, Jiashuo Wang, Jian Wang, Wenjie Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-20732/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-20732/citation.csl.json
 
 ## Recorded arXiv snapshot
 

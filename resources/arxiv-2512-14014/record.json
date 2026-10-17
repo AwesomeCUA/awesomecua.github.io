@@ -1,0 +1,89 @@
+{
+  "aliases": [],
+  "authors": [
+    "Shufan Li",
+    "Konstantinos Kallidromitis",
+    "Akash Gokul",
+    "Yusuke Kato",
+    "Kazuki Kozuka",
+    "Aditya Grover"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e6228822cf64c6aeb1836bee52a6515123bd0d44d77cceb23e785bb4ff9aef47",
+      "submitted_at": "2025-12-16T02:16:42Z",
+      "updated_at": "2026-10-07T23:06:49Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2512.14014v2"
+    }
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:31:52Z",
+      "role": "primary",
+      "sha256": "8623b0ff7ef9d2e8ba484cd67359e7b8817e78e9ca22b8f27432c2533f5b90a0",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2510.01670%2C2510.04673%2C2510.10073%2C2510.12200%2C2510.14621%2C2510.16051%2C2510.17790%2C2510.18488%2C2510.18596%2C2510.19488%2C2510.19949%2C2510.20286%2C2510.22009%2C2510.24168%2C2510.24411%2C2510.24563%2C2511.00810%2C2511.04307%2C2511.07332%2C2511.09157%2C2511.12254%2C2511.13087%2C2511.15567%2C2511.16590%2C2511.19663%2C2511.20597%2C2511.20766%2C2512.08529%2C2512.10371%2C2512.10962%2C2512.12634%2C2512.14014%2C2512.15431%2C2512.16295%2C2512.16501%2C2512.19432%2C2512.22894%2C2512.24965%2C2601.02399%2C2601.06031%2C2601.07181%2C2601.07262%2C2601.07779%2C2601.08406%2C2601.09923%2C2601.11044%2C2601.11868%2C2601.12822%2C2601.13060%2C2601.15876&max_results=50"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:31:52Z",
+      "role": "primary",
+      "sha256": "8623b0ff7ef9d2e8ba484cd67359e7b8817e78e9ca22b8f27432c2533f5b90a0",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2510.01670%2C2510.04673%2C2510.10073%2C2510.12200%2C2510.14621%2C2510.16051%2C2510.17790%2C2510.18488%2C2510.18596%2C2510.19488%2C2510.19949%2C2510.20286%2C2510.22009%2C2510.24168%2C2510.24411%2C2510.24563%2C2511.00810%2C2511.04307%2C2511.07332%2C2511.09157%2C2511.12254%2C2511.13087%2C2511.15567%2C2511.16590%2C2511.19663%2C2511.20597%2C2511.20766%2C2512.08529%2C2512.10371%2C2512.10962%2C2512.12634%2C2512.14014%2C2512.15431%2C2512.16295%2C2512.16501%2C2512.19432%2C2512.22894%2C2512.24965%2C2601.02399%2C2601.06031%2C2601.07181%2C2601.07262%2C2601.07779%2C2601.08406%2C2601.09923%2C2601.11044%2C2601.11868%2C2601.12822%2C2601.13060%2C2601.15876&max_results=50"
+    }
+  ],
+  "id": "arxiv:2512.14014",
+  "identifiers": {
+    "arxiv": "2512.14014"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:31:52Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2512.14014"
+    }
+  ],
+  "name": "MobileWorldBench: Towards Semantic World Modeling For Mobile Agents",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2025-12-16",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Evaluates semantic world models for mobile interfaces and studies natural-language state transitions as a tool for agent planning.",
+  "topics": [
+    "world-models",
+    "planning",
+    "evaluation"
+  ],
+  "updated_at": "2026-10-07",
+  "url": "https://arxiv.org/abs/2512.14014"
+}

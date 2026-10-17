@@ -16,9 +16,16 @@ Trains native computer-use models to coordinate GUI actions and code execution u
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-22234/record.json
+
 ## Authors
 
 Bowen Yang, Kaiming Jin, Zichen Ding, Zhenyu Wu, Zehao Li, Zhoumianze Liu, Kanzhi Cheng, Fangzhi Xu, Yanan Sun, Qiushi Sun, Yu Qiao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-22234/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-22234/citation.csl.json
 
 ## Recorded arXiv snapshot
 

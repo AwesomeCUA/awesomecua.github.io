@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2502.01977",
+  "citation-key": "arxiv_2502_01977",
+  "type": "article",
+  "title": "AutoGUI: Scaling GUI Grounding with Automatic Functionality Annotations from LLMs",
+  "URL": "https://arxiv.org/abs/2502.01977v2",
+  "custom": {
+    "catalog_id": "arxiv:2502.01977",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2502.01977",
+    "identifiers": {
+      "arxiv": "2502.01977"
+    },
+    "first_published_at": "2025-02-04",
+    "record_updated_at": "2025-06-07",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2b76ab1c6c44db9f86b2bfc11097c54e5c3115c0c498a58d896bef043d2113c8",
+      "submitted_at": "2025-02-04T03:39:59Z",
+      "updated_at": "2025-06-07T05:23:58Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2502.01977v2"
+    }
+  },
+  "note": "First published: 2025-02-04; Recorded arXiv version: v2; Recorded version updated: 2025-06-07T05:23:58Z.",
+  "author": [
+    {
+      "literal": "Hongxin Li"
+    },
+    {
+      "literal": "Jingfan Chen"
+    },
+    {
+      "literal": "Jingran Su"
+    },
+    {
+      "literal": "Yuntao Chen"
+    },
+    {
+      "literal": "Qing Li"
+    },
+    {
+      "literal": "Zhaoxiang Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.01977",
+  "genre": "preprint",
+  "version": "2"
+}

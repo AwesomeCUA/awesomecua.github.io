@@ -1,0 +1,54 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:04Z",
+      "role": "primary",
+      "sha256": "41a6435d6c27a647b4d2170cba476fa6a941b12f8a4ffe41674a508df9e0ea1d",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/nut-tree/nut.js/HEAD/README.md"
+    }
+  ],
+  "id": "github:nut-tree/nut.js",
+  "identifiers": {},
+  "kind": "infrastructure",
+  "last_verified_at": "2026-10-16T06:36:04Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/nut-tree/nut.js"
+    }
+  ],
+  "name": "Nut.js",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "adjacent",
+  "summary": "Desktop automation library for keyboard, mouse, and screen interaction.",
+  "topics": [
+    "automation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/nut-tree/nut.js"
+}

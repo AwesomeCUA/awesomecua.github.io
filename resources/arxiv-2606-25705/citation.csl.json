@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2606.25705",
+  "citation-key": "arxiv_2606_25705",
+  "type": "article",
+  "title": "GUI agent: Guided Exploration of User-Sensitive Screens",
+  "URL": "https://arxiv.org/abs/2606.25705v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.25705",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2606.25705",
+    "identifiers": {
+      "arxiv": "2606.25705"
+    },
+    "first_published_at": "2026-06-24",
+    "record_updated_at": "2026-06-24",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3c5a2d0e461b011e2d5b9dbd73012d007261d8df37bd1d687fa3bd86dc6f2246",
+      "submitted_at": "2026-06-24T11:18:01Z",
+      "updated_at": "2026-06-24T11:18:01Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.25705v1"
+    }
+  },
+  "note": "First published: 2026-06-24; Recorded arXiv version: v1; Recorded version updated: 2026-06-24T11:18:01Z.",
+  "author": [
+    {
+      "literal": "Aradhana Nayak"
+    },
+    {
+      "literal": "Mussadiq Nazeer"
+    },
+    {
+      "literal": "Wang Peng"
+    },
+    {
+      "literal": "Feng Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.25705",
+  "genre": "preprint",
+  "version": "1"
+}

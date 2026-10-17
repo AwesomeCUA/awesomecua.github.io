@@ -16,9 +16,16 @@ Bibliographic record for AIOS: LLM Agent Operating System. Title, authors and da
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-16971/record.json
+
 ## Authors
 
 Kai Mei, Xi Zhu, Wujiang Xu, Wenyue Hua, Mingyu Jin, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-16971/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-16971/citation.csl.json
 
 ## Recorded arXiv snapshot
 

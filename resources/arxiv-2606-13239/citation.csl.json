@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2606.13239",
+  "citation-key": "arxiv_2606_13239",
+  "type": "article",
+  "title": "ComAct: Reframing Professional Software Manipulation via COM-as-Action Paradigm",
+  "URL": "https://arxiv.org/abs/2606.13239v2",
+  "custom": {
+    "catalog_id": "arxiv:2606.13239",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2606.13239",
+    "identifiers": {
+      "arxiv": "2606.13239"
+    },
+    "first_published_at": "2026-06-11",
+    "record_updated_at": "2026-06-30",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "edf7e63803efba89551aa297bff1da9b0babf8ec898a2971fa6c8a20cc58dea8",
+      "submitted_at": "2026-06-11T11:53:32Z",
+      "updated_at": "2026-06-30T03:31:20Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2606.13239v2"
+    }
+  },
+  "note": "First published: 2026-06-11; Recorded arXiv version: v2; Recorded version updated: 2026-06-30T03:31:20Z.",
+  "author": [
+    {
+      "literal": "Jiaxin Ai"
+    },
+    {
+      "literal": "Tao Hu"
+    },
+    {
+      "literal": "Xuemeng Yang"
+    },
+    {
+      "literal": "Shu Zou"
+    },
+    {
+      "literal": "Hairong Zhang"
+    },
+    {
+      "literal": "Daocheng Fu"
+    },
+    {
+      "literal": "Yu Yang"
+    },
+    {
+      "literal": "Hongbin Zhou"
+    },
+    {
+      "literal": "Nianchen Deng"
+    },
+    {
+      "literal": "Pinlong Cai"
+    },
+    {
+      "literal": "Zhongyuan Wang"
+    },
+    {
+      "literal": "Botian Shi"
+    },
+    {
+      "literal": "Kaipeng Zhang"
+    },
+    {
+      "literal": "Licheng Wen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.13239",
+  "genre": "preprint",
+  "version": "2"
+}

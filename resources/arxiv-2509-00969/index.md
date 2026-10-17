@@ -16,9 +16,16 @@ Bibliographic record for Seeing More, Saying More: Lightweight Language Experts 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-00969/record.json
+
 ## Authors
 
 Xiangchen Wang, Jinrui Zhang, Teng Wang, Haigang Zhang, Feng Zheng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-00969/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-00969/citation.csl.json
 
 ## Recorded arXiv snapshot
 

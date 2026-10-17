@@ -16,9 +16,16 @@ Bibliographic record for Study And Implementation of Unitary Gates in Quantum Co
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2408-17035/record.json
+
 ## Authors
 
 Kumar Gautam
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2408-17035/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2408-17035/citation.csl.json
 
 ## Recorded arXiv snapshot
 

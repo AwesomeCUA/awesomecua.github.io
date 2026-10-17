@@ -16,9 +16,16 @@ Infers element functionality from UI changes before and after interaction to pro
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-01977/record.json
+
 ## Authors
 
 Hongxin Li, Jingfan Chen, Jingran Su, Yuntao Chen, Qing Li, Zhaoxiang Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-01977/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-01977/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,82 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:03:20Z",
+      "role": "primary",
+      "sha256": "2fb7c0d70ccfa93605d5250a8f6d5182324f0c53d70e1c35ba18cb00f4ada548",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/night-chen/WorkForceAgent-R1/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:03:19Z",
+      "role": "primary",
+      "sha256": "0ad3ef1d900200e3ecab86cd44f79038000e8748fb285cdd5f32882455d2e36e",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/night-chen/WorkForceAgent-R1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:05:39Z",
+      "role": "primary",
+      "sha256": "521d065188a6354416c1aafe88a0eb34486f2c2ec011c1cdf8ed008760dd9c55",
+      "supports": [
+        "release_status"
+      ],
+      "url": "https://api.github.com/repos/night-chen/WorkForceAgent-R1/git/trees/main?recursive=1"
+    }
+  ],
+  "id": "github:night-chen/workforceagent-r1",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-17T02:03:20Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/night-chen/WorkForceAgent-R1"
+    }
+  ],
+  "name": "WorkForceAgent-R1",
+  "notes": "The release contains WorkArena preprocessing and training source. The inspected root has no explicit project license; dependencies retain their own terms. Although the README discusses trained 7B/14B models, it does not provide a verified checkpoint release, so this is cataloged only as a framework.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/night-chen/WorkForceAgent-R1/HEAD/README.md",
+      "target_id": "arxiv:2505.22942",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Web-task reward functions, WorkArena data processing and GRPO training configurations for reasoning-oriented language agents.",
+  "topics": [
+    "reinforcement-learning",
+    "web-navigation",
+    "planning"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/night-chen/WorkForceAgent-R1"
+}

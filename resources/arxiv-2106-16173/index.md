@@ -16,9 +16,16 @@ Bibliographic record for String Comparison on a Quantum Computer Using Hamming D
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2106-16173/record.json
+
 ## Authors
 
 Mushahid Khan, Andriy Miranskyy
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2106-16173/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2106-16173/citation.csl.json
 
 ## Recorded arXiv snapshot
 

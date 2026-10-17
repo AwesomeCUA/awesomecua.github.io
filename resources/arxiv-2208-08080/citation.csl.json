@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2208.08080",
+  "citation-key": "arxiv_2208_08080",
+  "type": "article",
+  "title": "Multimodal Lecture Presentations Dataset: Understanding Multimodality in Educational Slides",
+  "URL": "https://arxiv.org/abs/2208.08080v1",
+  "custom": {
+    "catalog_id": "arxiv:2208.08080",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2208.08080",
+    "identifiers": {
+      "arxiv": "2208.08080"
+    },
+    "first_published_at": "2022-08-17",
+    "record_updated_at": "2022-08-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "516555992b8423e47be53e7e832cfff6dc5f40c1c2e04fe72acb20eee196c306",
+      "submitted_at": "2022-08-17T05:30:18Z",
+      "updated_at": "2022-08-17T05:30:18Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2208.08080v1"
+    }
+  },
+  "note": "First published: 2022-08-17; Recorded arXiv version: v1; Recorded version updated: 2022-08-17T05:30:18Z.",
+  "author": [
+    {
+      "literal": "Dong Won Lee"
+    },
+    {
+      "literal": "Chaitanya Ahuja"
+    },
+    {
+      "literal": "Paul Pu Liang"
+    },
+    {
+      "literal": "Sanika Natu"
+    },
+    {
+      "literal": "Louis-Philippe Morency"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        8,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2208.08080",
+  "genre": "preprint",
+  "version": "1"
+}

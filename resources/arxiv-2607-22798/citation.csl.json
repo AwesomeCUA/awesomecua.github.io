@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2607.22798",
+  "citation-key": "arxiv_2607_22798",
+  "type": "article",
+  "title": "StateAct: Program State, before Pixels, for Long-Horizon Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2607.22798v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.22798",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2607.22798",
+    "identifiers": {
+      "arxiv": "2607.22798"
+    },
+    "first_published_at": "2026-07-24",
+    "record_updated_at": "2026-07-24",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a010fbef09d8359550cf156bf0dcba873f25a0d6fb8f118d53bf6e23715cf203",
+      "submitted_at": "2026-07-24T14:17:03Z",
+      "updated_at": "2026-07-24T14:17:03Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.22798v1"
+    }
+  },
+  "note": "First published: 2026-07-24; Recorded arXiv version: v1; Recorded version updated: 2026-07-24T14:17:03Z.",
+  "author": [
+    {
+      "literal": "Yan Yang"
+    },
+    {
+      "literal": "Xiangru Jian"
+    },
+    {
+      "literal": "Ziyang Luo"
+    },
+    {
+      "literal": "Zirui Zhao"
+    },
+    {
+      "literal": "Yutong Dai"
+    },
+    {
+      "literal": "Ziji Shi"
+    },
+    {
+      "literal": "Hanshu Yan"
+    },
+    {
+      "literal": "Jun Hao Liew"
+    },
+    {
+      "literal": "Silvio Savarese"
+    },
+    {
+      "literal": "Junnan Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.22798",
+  "genre": "preprint",
+  "version": "1"
+}

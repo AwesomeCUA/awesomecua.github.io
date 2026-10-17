@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2411.11916",
+  "citation-key": "arxiv_2411_11916",
+  "type": "article",
+  "title": "From Words to Structured Visuals: A Benchmark and Framework for Text-to-Diagram Generation and Editing",
+  "URL": "https://arxiv.org/abs/2411.11916v1",
+  "custom": {
+    "catalog_id": "arxiv:2411.11916",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2411.11916",
+    "identifiers": {
+      "arxiv": "2411.11916"
+    },
+    "first_published_at": "2024-11-18",
+    "record_updated_at": "2024-11-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a82d7d9749da59c4d3be15065ba8e4ea06ec1540562295fe103c241d7bc7ae46",
+      "submitted_at": "2024-11-18T02:58:37Z",
+      "updated_at": "2024-11-18T02:58:37Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2411.11916v1"
+    }
+  },
+  "note": "First published: 2024-11-18; Recorded arXiv version: v1; Recorded version updated: 2024-11-18T02:58:37Z.",
+  "author": [
+    {
+      "literal": "Jingxuan Wei"
+    },
+    {
+      "literal": "Cheng Tan"
+    },
+    {
+      "literal": "Qi Chen"
+    },
+    {
+      "literal": "Gaowei Wu"
+    },
+    {
+      "literal": "Siyuan Li"
+    },
+    {
+      "literal": "Zhangyang Gao"
+    },
+    {
+      "literal": "Linzhuang Sun"
+    },
+    {
+      "literal": "Bihui Yu"
+    },
+    {
+      "literal": "Ruifeng Guo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2411.11916",
+  "genre": "preprint",
+  "version": "1"
+}

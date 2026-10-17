@@ -16,9 +16,16 @@ Presents TaskVM, an interface for specifying desired and preserved application s
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-20100/record.json
+
 ## Authors
 
 Wenkui Yang, Yiming Hao, Kai Zhou, Chengyu Pu, Yuzhe Zhang, Jie Cao, Jin Huang, Shuai Ma, Feng Tian
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-20100/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-20100/citation.csl.json
 
 ## Recorded arXiv snapshot
 

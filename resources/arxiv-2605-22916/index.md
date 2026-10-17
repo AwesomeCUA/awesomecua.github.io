@@ -16,9 +16,16 @@ Bibliographic record for Mg II h&k spectral line properties computed using 3D ra
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-22916/record.json
+
 ## Authors
 
 P. Ondratschek, D. Przybylski, H. N. Smitha, J. Leenaarts, R. Cameron, S. K. Solanki
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-22916/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-22916/citation.csl.json
 
 ## Recorded arXiv snapshot
 

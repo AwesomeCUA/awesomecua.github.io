@@ -16,9 +16,16 @@ Bibliographic record for Where and How to Prune: An Empirical Study of Visual To
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-26041/record.json
+
 ## Authors
 
 Daiqiang Li, Zihao Pan, Zeyu Zhang, Xuyang Liu, Shijia Xu, Ronghao Chen, Huacan Wang, Honggang Chen, Linfeng Zhang, Zhangquan Chen, Haiyun Jiang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-26041/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-26041/citation.csl.json
 
 ## Recorded arXiv snapshot
 

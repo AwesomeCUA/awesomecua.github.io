@@ -16,9 +16,16 @@ Introduces diverse interactive environments and tool-use scenarios for evaluatin
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-14470/record.json
+
 ## Authors
 
 Zhexin Zhang, Shiyao Cui, Yida Lu, Jingzhuo Zhou, Junxiao Yang, Hongning Wang, Minlie Huang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-14470/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-14470/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2504.16073",
+  "citation-key": "arxiv_2504_16073",
+  "type": "article",
+  "title": "Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation",
+  "URL": "https://arxiv.org/abs/2504.16073v1",
+  "custom": {
+    "catalog_id": "arxiv:2504.16073",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2504.16073",
+    "identifiers": {
+      "arxiv": "2504.16073"
+    },
+    "first_published_at": "2025-04-22",
+    "record_updated_at": "2025-04-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1353bb4651f449763ac58803b4858edf6e1d5b0ad3ab3e4c333883a1ebbaebf4",
+      "submitted_at": "2025-04-22T17:52:42Z",
+      "updated_at": "2025-04-22T17:52:42Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2504.16073v1"
+    }
+  },
+  "note": "First published: 2025-04-22; Recorded arXiv version: v1; Recorded version updated: 2025-04-22T17:52:42Z.",
+  "author": [
+    {
+      "literal": "Zhiyuan Hu"
+    },
+    {
+      "literal": "Shiyun Xiong"
+    },
+    {
+      "literal": "Yifan Zhang"
+    },
+    {
+      "literal": "See-Kiong Ng"
+    },
+    {
+      "literal": "Anh Tuan Luu"
+    },
+    {
+      "literal": "Bo An"
+    },
+    {
+      "literal": "Shuicheng Yan"
+    },
+    {
+      "literal": "Bryan Hooi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.16073",
+  "genre": "preprint",
+  "version": "1"
+}

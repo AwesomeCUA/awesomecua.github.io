@@ -16,9 +16,16 @@ Bibliographic record for Auto-Formula: Recommend Formulas in Spreadsheets using 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-12608/record.json
+
 ## Authors
 
 Sibei Chen, Yeye He, Weiwei Cui, Ju Fan, Song Ge, Haidong Zhang, Dongmei Zhang, Surajit Chaudhuri
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-12608/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-12608/citation.csl.json
 
 ## Recorded arXiv snapshot
 

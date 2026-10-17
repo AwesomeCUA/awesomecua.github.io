@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2508.02866",
+  "citation-key": "arxiv_2508_02866",
+  "type": "article",
+  "title": "PROV-AGENT: Unified Provenance for Tracking AI Agent Interactions in Agentic Workflows",
+  "URL": "https://arxiv.org/abs/2508.02866v3",
+  "custom": {
+    "catalog_id": "arxiv:2508.02866",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.02866",
+    "identifiers": {
+      "arxiv": "2508.02866"
+    },
+    "first_published_at": "2025-08-04",
+    "record_updated_at": "2025-08-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "080c0698091725ed812c2dccb717a86907987dba3e5dd9c24f11eaa049d50eb8",
+      "submitted_at": "2025-08-04T19:54:40Z",
+      "updated_at": "2025-08-20T15:00:50Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2508.02866v3"
+    }
+  },
+  "note": "First published: 2025-08-04; Recorded arXiv version: v3; Recorded version updated: 2025-08-20T15:00:50Z.",
+  "author": [
+    {
+      "literal": "Renan Souza"
+    },
+    {
+      "literal": "Amal Gueroudji"
+    },
+    {
+      "literal": "Stephen DeWitt"
+    },
+    {
+      "literal": "Daniel Rosendo"
+    },
+    {
+      "literal": "Tirthankar Ghosal"
+    },
+    {
+      "literal": "Robert Ross"
+    },
+    {
+      "literal": "Prasanna Balaprakash"
+    },
+    {
+      "literal": "Rafael Ferreira da Silva"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.02866",
+  "genre": "preprint",
+  "version": "3"
+}

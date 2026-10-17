@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2610.03818",
+  "citation-key": "arxiv_2610_03818",
+  "type": "article",
+  "title": "Control OSWorld: An AI Control Environment for GUI Computer Use Agents",
+  "URL": "https://arxiv.org/abs/2610.03818v2",
+  "custom": {
+    "catalog_id": "arxiv:2610.03818",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.03818",
+    "identifiers": {
+      "arxiv": "2610.03818"
+    },
+    "first_published_at": "2026-10-02",
+    "record_updated_at": "2026-10-12",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f9dd28bdfb8879cbdb68f539c286365a06f4e9d04eba2420bb46f3575fdbfa05",
+      "submitted_at": "2026-10-02T00:31:34Z",
+      "updated_at": "2026-10-12T23:17:28Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2610.03818v2"
+    }
+  },
+  "note": "First published: 2026-10-02; Recorded arXiv version: v2; Recorded version updated: 2026-10-12T23:17:28Z.",
+  "author": [
+    {
+      "literal": "Maria Sanchez del Rio"
+    },
+    {
+      "literal": "Mikhail Terekhov"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.03818",
+  "genre": "preprint",
+  "version": "2"
+}

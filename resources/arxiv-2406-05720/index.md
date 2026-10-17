@@ -16,9 +16,16 @@ Bibliographic record for VillagerAgent: A Graph-Based Multi-Agent Framework for 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-05720/record.json
+
 ## Authors
 
 Yubo Dong, Xukun Zhu, Zhengzhe Pan, Linchao Zhu, Yi Yang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-05720/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-05720/citation.csl.json
 
 ## Recorded arXiv snapshot
 

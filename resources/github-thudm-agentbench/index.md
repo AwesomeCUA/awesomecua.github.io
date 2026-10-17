@@ -16,6 +16,8 @@ Agent evaluation suite with containerized tasks and a function-calling interface
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-thudm-agentbench/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/THUDM/AgentBench/HEAD/LICENSE

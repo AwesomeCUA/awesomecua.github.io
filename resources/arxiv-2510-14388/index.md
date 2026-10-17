@@ -16,9 +16,16 @@ Bibliographic record for Hi-Agent: Hierarchical Vision-Language Agents for Mobil
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-14388/record.json
+
 ## Authors
 
 Zhe Wu, Hongjin Lu, Junliang Xing, Changhao Zhang, Yuxuan Li, Yin Zhu, Yuhao Yang, Yuheng Jing, Kai Li, Kun Shao, Jianye Hao, Jun Wang, Yuanchun Shi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-14388/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-14388/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,6 +16,8 @@ A browser-extension agent that reads pages, interacts with elements and moves be
 
 The official repository publishes extension source and a v0.3.0 ZIP release. It names Chrome and Edge as supported browsers. Apache-2.0 is declared for the code. Ask/Auto behavior and provider choices are documented, but no security guarantee, model performance or service-price claim is inferred.
 
+- Record JSON: https://awesomecua.github.io/resources/github-nanobrowser-nanobrowser/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/nanobrowser/nanobrowser/HEAD/LICENSE

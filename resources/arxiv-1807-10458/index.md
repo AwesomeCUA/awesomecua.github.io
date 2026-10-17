@@ -16,9 +16,16 @@ Bibliographic record for AXNet: ApproXimate computing using an end-to-end traina
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1807-10458/record.json
+
 ## Authors
 
 Zhenghao Peng, Xuyang Chen, Chengwen Xu, Naifeng Jing, Xiaoyao Liang, Cewu Lu, Li Jiang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1807-10458/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1807-10458/citation.csl.json
 
 ## Recorded arXiv snapshot
 

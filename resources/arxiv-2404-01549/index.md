@@ -16,9 +16,16 @@ Bibliographic record for Octopus: On-device language model for function calling 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-01549/record.json
+
 ## Authors
 
 Wei Chen, Zhiyuan Li, Mingyuan Ma
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-01549/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-01549/citation.csl.json
 
 ## Recorded arXiv snapshot
 

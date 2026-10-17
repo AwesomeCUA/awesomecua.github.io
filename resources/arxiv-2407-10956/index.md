@@ -16,9 +16,16 @@ Benchmarks multimodal agents on data-science and engineering workflows involving
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-10956/record.json
+
 ## Authors
 
 Ruisheng Cao, Fangyu Lei, Haoyuan Wu, Jixuan Chen, Yeqiao Fu, Hongcheng Gao, Xinzhuang Xiong, Hanchong Zhang, Yuchen Mao, Wenjing Hu, Tianbao Xie, Hongshen Xu, Danyang Zhang, Sida Wang, Ruoxi Sun, Pengcheng Yin, Caiming Xiong, Ansong Ni, Qian Liu, Victor Zhong, Lu Chen, Kai Yu, Tao Yu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-10956/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-10956/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2605.02168",
+  "citation-key": "arxiv_2605_02168",
+  "type": "article",
+  "title": "Planner Matters! An Efficient and Unbalanced Multi-agent Collaboration Framework for Long-horizon Planning",
+  "URL": "https://arxiv.org/abs/2605.02168v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.02168",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.02168",
+    "identifiers": {
+      "arxiv": "2605.02168"
+    },
+    "first_published_at": "2026-05-04",
+    "record_updated_at": "2026-05-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c49b46d73d238ca69eca43d72f014356cbf8ef3809d4120888f7ea987962a653",
+      "submitted_at": "2026-05-04T02:58:05Z",
+      "updated_at": "2026-05-04T02:58:05Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.02168v1"
+    }
+  },
+  "note": "First published: 2026-05-04; Recorded arXiv version: v1; Recorded version updated: 2026-05-04T02:58:05Z.",
+  "author": [
+    {
+      "literal": "Wenyi Wu"
+    },
+    {
+      "literal": "Sibo Zhu"
+    },
+    {
+      "literal": "Kun Zhou"
+    },
+    {
+      "literal": "Biwei Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.02168",
+  "genre": "preprint",
+  "version": "1"
+}

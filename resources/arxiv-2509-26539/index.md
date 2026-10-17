@@ -16,9 +16,16 @@ Ferret-UI Lite develops a 3B GUI agent using mixed real and synthetic data, reas
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-26539/record.json
+
 ## Authors
 
 Zhen Yang, Zi-Yi Dou, Di Feng, Forrest Huang, Anh Nguyen, Keen You, Omar Attia, Yuhao Yang, Michael Feng, Haotian Zhang, Ram Ramrakhya, Chao Jia, Jeffrey Nichols, Alexander Toshev, Yinfei Yang, Zhe Gan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-26539/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-26539/citation.csl.json
 
 ## Recorded arXiv snapshot
 

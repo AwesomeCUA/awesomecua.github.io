@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2406.14314",
+  "citation-key": "arxiv_2406_14314",
+  "type": "article",
+  "title": "Identifying User Goals from UI Trajectories",
+  "URL": "https://arxiv.org/abs/2406.14314v3",
+  "custom": {
+    "catalog_id": "arxiv:2406.14314",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2406.14314",
+    "identifiers": {
+      "arxiv": "2406.14314"
+    },
+    "first_published_at": "2024-06-20",
+    "record_updated_at": "2025-03-03",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a0bc798b69e59d1ec0ca8ecb0fab7a7ee6594f4d656ca4212b19be7e3085c0c5",
+      "submitted_at": "2024-06-20T13:46:10Z",
+      "updated_at": "2025-03-03T15:47:10Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2406.14314v3"
+    }
+  },
+  "note": "First published: 2024-06-20; Recorded arXiv version: v3; Recorded version updated: 2025-03-03T15:47:10Z.",
+  "author": [
+    {
+      "literal": "Omri Berkovitch"
+    },
+    {
+      "literal": "Sapir Caduri"
+    },
+    {
+      "literal": "Noam Kahlon"
+    },
+    {
+      "literal": "Anatoly Efros"
+    },
+    {
+      "literal": "Avi Caciularu"
+    },
+    {
+      "literal": "Ido Dagan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.14314",
+  "genre": "preprint",
+  "version": "3"
+}

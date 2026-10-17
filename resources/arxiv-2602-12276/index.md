@@ -16,9 +16,16 @@ Bibliographic record for Agentic Test-Time Scaling for WebAgents. Title, authors
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-12276/record.json
+
 ## Authors
 
 Nicholas Lee, Lutfi Eren Erdogan, Chris Joseph John, Surya Krishnapillai, Michael W. Mahoney, Kurt Keutzer, Amir Gholami
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-12276/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-12276/citation.csl.json
 
 ## Recorded arXiv snapshot
 

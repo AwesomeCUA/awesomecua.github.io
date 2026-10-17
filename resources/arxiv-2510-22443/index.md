@@ -16,9 +16,16 @@ Bibliographic record for Benchmarking Egocentric Multimodal Goal Inference for A
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-22443/record.json
+
 ## Authors
 
 Vijay Veerabadran, Fanyi Xiao, Nitin Kamra, Pedro Matias, Joy Chen, Caley Drooff, Brett D Roads, Riley Williams, Ethan Henderson, Xuanyi Zhao, Kevin Carlberg, Joseph Tighe, Karl Ridgeway
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-22443/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-22443/citation.csl.json
 
 ## Recorded arXiv snapshot
 

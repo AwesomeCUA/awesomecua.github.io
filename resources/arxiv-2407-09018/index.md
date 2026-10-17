@@ -16,9 +16,16 @@ Automates mobile GUI tests from natural-language requirements, combining action 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-09018/record.json
+
 ## Authors
 
 Yongxiang Hu, Xuan Wang, Yingchuan Wang, Yu Zhang, Shiyu Guo, Chaoyi Chen, Xin Wang, Yangfan Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-09018/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-09018/citation.csl.json
 
 ## Recorded arXiv snapshot
 

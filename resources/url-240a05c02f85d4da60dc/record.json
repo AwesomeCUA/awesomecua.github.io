@@ -1,0 +1,65 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "access": "publisher-managed",
+    "availability": "not independently tested",
+    "pricing_url": null
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:40:54Z",
+      "role": "primary",
+      "sha256": "fa71ad6addd026ecd017059219c2457baf6b99c5c94f67350c0f9637c459c852",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://openai.com/index/introducing-chatgpt-atlas/"
+    }
+  ],
+  "id": "url:240a05c02f85d4da60dc",
+  "identifiers": {},
+  "kind": "product",
+  "last_verified_at": "2026-10-16T06:40:54Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://openai.com/index/introducing-chatgpt-atlas/"
+    }
+  ],
+  "name": "ChatGPT Atlas",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://openai.com/index/introducing-chatgpt-atlas/",
+      "target_id": "organization:openai",
+      "type": "published_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "OpenAI browser product integrating ChatGPT and agent capabilities.",
+  "topics": [
+    "web-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://openai.com/index/introducing-chatgpt-atlas/"
+}

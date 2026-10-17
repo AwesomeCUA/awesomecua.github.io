@@ -16,9 +16,16 @@ Presents AdvSim2Real, which jointly adapts web-task curricula, prompt-injection 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-08773/record.json
+
 ## Authors
 
 Sarim Hashmi, Mukul Ranjan, Kshitij Mishra, Mikhail Kuznetsov, Praneeth Vepakomma, Nils Lukas
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-08773/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-08773/citation.csl.json
 
 ## Recorded arXiv snapshot
 

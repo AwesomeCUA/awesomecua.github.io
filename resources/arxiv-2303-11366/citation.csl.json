@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2303.11366",
+  "citation-key": "arxiv_2303_11366",
+  "type": "article",
+  "title": "Reflexion: Language Agents with Verbal Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2303.11366v4",
+  "custom": {
+    "catalog_id": "arxiv:2303.11366",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2303.11366",
+    "identifiers": {
+      "arxiv": "2303.11366"
+    },
+    "first_published_at": "2023-03-20",
+    "record_updated_at": "2023-10-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "316e3d252ba03a563d838cbb67f8b46324fa4ce37ebafa4573b6efb0f16155d6",
+      "submitted_at": "2023-03-20T18:08:50Z",
+      "updated_at": "2023-10-10T05:21:45Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2303.11366v4"
+    }
+  },
+  "note": "First published: 2023-03-20; Recorded arXiv version: v4; Recorded version updated: 2023-10-10T05:21:45Z.",
+  "author": [
+    {
+      "literal": "Noah Shinn"
+    },
+    {
+      "literal": "Federico Cassano"
+    },
+    {
+      "literal": "Edward Berman"
+    },
+    {
+      "literal": "Ashwin Gopinath"
+    },
+    {
+      "literal": "Karthik Narasimhan"
+    },
+    {
+      "literal": "Shunyu Yao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        3,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2303.11366",
+  "genre": "preprint",
+  "version": "4"
+}

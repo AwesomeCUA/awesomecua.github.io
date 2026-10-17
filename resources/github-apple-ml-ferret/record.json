@@ -1,0 +1,62 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "android",
+    "ios"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:40:52Z",
+      "role": "primary",
+      "sha256": "1973f702c08ca9637ce03bc28fc34188be05826e9d43f9992b08e804f474b1a1",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/apple-aiml-research/ml-ferret/main/ferretui/README.md"
+    }
+  ],
+  "id": "github:apple/ml-ferret",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-16T06:40:52Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/apple/ml-ferret"
+    }
+  ],
+  "name": "Ferret-UI",
+  "notes": "The repository has moved from apple/ml-ferret to apple-aiml-research/ml-ferret; evidence uses the dedicated ferretui component.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/apple-aiml-research/ml-ferret/main/ferretui/README.md",
+      "target_id": "arxiv:2404.05719",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Screen understanding research within the Ferret model family.",
+  "topics": [
+    "screen-understanding",
+    "grounding"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/apple/ml-ferret"
+}

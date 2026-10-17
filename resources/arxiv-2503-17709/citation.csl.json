@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2503.17709",
+  "citation-key": "arxiv_2503_17709",
+  "type": "article",
+  "title": "GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration",
+  "URL": "https://arxiv.org/abs/2503.17709v1",
+  "custom": {
+    "catalog_id": "arxiv:2503.17709",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2503.17709",
+    "identifiers": {
+      "arxiv": "2503.17709"
+    },
+    "first_published_at": "2025-03-22",
+    "record_updated_at": "2025-03-22",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "80bb507bf3cdccf6f023d0c334899d9d7099c362e9f37c314b15ff9388bae65c",
+      "submitted_at": "2025-03-22T09:30:37Z",
+      "updated_at": "2025-03-22T09:30:37Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2503.17709v1"
+    }
+  },
+  "note": "First published: 2025-03-22; Recorded arXiv version: v1; Recorded version updated: 2025-03-22T09:30:37Z.",
+  "author": [
+    {
+      "literal": "Yuchen Sun"
+    },
+    {
+      "literal": "Shanhui Zhao"
+    },
+    {
+      "literal": "Tao Yu"
+    },
+    {
+      "literal": "Hao Wen"
+    },
+    {
+      "literal": "Samith Va"
+    },
+    {
+      "literal": "Mengwei Xu"
+    },
+    {
+      "literal": "Yuanchun Li"
+    },
+    {
+      "literal": "Chongyang Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.17709",
+  "genre": "preprint",
+  "version": "1"
+}

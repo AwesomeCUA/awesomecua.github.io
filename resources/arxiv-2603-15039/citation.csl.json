@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2603.15039",
+  "citation-key": "arxiv_2603_15039",
+  "type": "article",
+  "title": "GUI-CEval: A Hierarchical and Comprehensive Chinese Benchmark for Mobile GUI Agents",
+  "URL": "https://arxiv.org/abs/2603.15039v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.15039",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2603.15039",
+    "identifiers": {
+      "arxiv": "2603.15039"
+    },
+    "first_published_at": "2026-03-16",
+    "record_updated_at": "2026-03-16",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bf6c3df80e405968d9ae2353639f3e039d3fcf8351d89db212bda038e3dfac9b",
+      "submitted_at": "2026-03-16T09:45:33Z",
+      "updated_at": "2026-03-16T09:45:33Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.15039v1"
+    }
+  },
+  "note": "First published: 2026-03-16; Recorded arXiv version: v1; Recorded version updated: 2026-03-16T09:45:33Z.",
+  "author": [
+    {
+      "literal": "Yang Li"
+    },
+    {
+      "literal": "Yuchen Liu"
+    },
+    {
+      "literal": "Haoyu Lu"
+    },
+    {
+      "literal": "Zhiqiang Xia"
+    },
+    {
+      "literal": "Hongzhen Wang"
+    },
+    {
+      "literal": "Kaiyang Han"
+    },
+    {
+      "literal": "Changpeng Yang"
+    },
+    {
+      "literal": "Jinyang Wu"
+    },
+    {
+      "literal": "Jiaming Xu"
+    },
+    {
+      "literal": "Runyu Shi"
+    },
+    {
+      "literal": "Ying Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.15039",
+  "genre": "preprint",
+  "version": "1"
+}

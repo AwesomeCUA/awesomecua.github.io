@@ -16,9 +16,16 @@ Explorer collects interactable GUI elements from a live target application and r
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-09352/record.json
+
 ## Authors
 
 Iason Chaimalas, Arnas Vyšniauskas, Gabriel Brostow
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-09352/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-09352/citation.csl.json
 
 ## Recorded arXiv snapshot
 

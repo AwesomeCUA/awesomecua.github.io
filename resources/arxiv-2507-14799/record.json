@@ -1,0 +1,66 @@
+{
+  "aliases": [],
+  "authors": [
+    "Sam Johnson",
+    "Viet Pham",
+    "Thai Le"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "79963ac401384f0c23ecc65d58e616daacc93103456ceb39241dcd6d71c6591c",
+      "submitted_at": "2025-07-20T03:10:13Z",
+      "updated_at": "2025-07-20T03:10:13Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2507.14799v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:50Z",
+      "role": "primary",
+      "sha256": "26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2507.14799",
+  "identifiers": {
+    "arxiv": "2507.14799"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:50Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2507.14799"
+    }
+  ],
+  "name": "Manipulating LLM Web Agents with Indirect Prompt Injection Attack via HTML Accessibility Tree",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2025-07-20",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2025-07-20",
+  "url": "https://arxiv.org/abs/2507.14799"
+}

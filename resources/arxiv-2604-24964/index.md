@@ -16,9 +16,16 @@ Bibliographic record for Odysseys: Benchmarking Web Agents on Realistic Long Hor
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-24964/record.json
+
 ## Authors
 
 Lawrence Keunho Jang, Jing Yu Koh, Daniel Fried, Ruslan Salakhutdinov
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-24964/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-24964/citation.csl.json
 
 ## Recorded arXiv snapshot
 

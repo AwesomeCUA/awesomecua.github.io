@@ -16,6 +16,8 @@ Reinforcement-learning approach to GUI action modeling.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-lll6gg-ui-r1/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/lll6gg/UI-R1/HEAD/LICENSE

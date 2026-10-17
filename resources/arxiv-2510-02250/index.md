@@ -16,9 +16,16 @@ Bibliographic record for Scaling Agents for Computer Use. Title, authors and dat
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-02250/record.json
+
 ## Authors
 
 Gonzalo Gonzalez-Pumariega, Vincent Tu, Chih-Lun Lee, Jiachen Yang, Ang Li, Xin Eric Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-02250/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-02250/citation.csl.json
 
 ## Recorded arXiv snapshot
 

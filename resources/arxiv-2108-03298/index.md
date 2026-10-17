@@ -16,9 +16,16 @@ Bibliographic record for What Matters in Learning from Offline Human Demonstrati
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2108-03298/record.json
+
 ## Authors
 
 Ajay Mandlekar, Danfei Xu, Josiah Wong, Soroush Nasiriany, Chen Wang, Rohun Kulkarni, Li Fei-Fei, Silvio Savarese, Yuke Zhu, Roberto Martín-Martín
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2108-03298/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2108-03298/citation.csl.json
 
 ## Recorded arXiv snapshot
 

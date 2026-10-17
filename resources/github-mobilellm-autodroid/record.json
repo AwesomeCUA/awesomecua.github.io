@@ -1,0 +1,60 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:02Z",
+      "role": "primary",
+      "sha256": "4a79eb2e14b6da67ded536c127d41f865d5b43620d60d0d950d291c8956564fc",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/MobileLLM/AutoDroid/HEAD/README.md"
+    }
+  ],
+  "id": "github:mobilellm/autodroid",
+  "identifiers": {},
+  "kind": "agent",
+  "last_verified_at": "2026-10-16T06:36:02Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/MobileLLM/AutoDroid"
+    }
+  ],
+  "name": "AutoDroid",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/MobileLLM/AutoDroid/HEAD/README.md",
+      "target_id": "arxiv:2308.15272",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Language-model-driven Android task automation.",
+  "topics": [
+    "mobile-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/MobileLLM/AutoDroid"
+}

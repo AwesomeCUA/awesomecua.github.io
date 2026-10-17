@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2212.11141",
+  "citation-key": "arxiv_2212_11141",
+  "type": "article",
+  "title": "Reservoir Computing Using Complex Systems",
+  "URL": "https://arxiv.org/abs/2212.11141v1",
+  "custom": {
+    "catalog_id": "arxiv:2212.11141",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2212.11141",
+    "identifiers": {
+      "arxiv": "2212.11141"
+    },
+    "first_published_at": "2022-12-17",
+    "record_updated_at": "2022-12-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f7dc71c9a60ce1f2ed7e0a13e0f7809a53724e89bb318b34e37b19dc89d68bde",
+      "submitted_at": "2022-12-17T00:25:56Z",
+      "updated_at": "2022-12-17T00:25:56Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2212.11141v1"
+    }
+  },
+  "note": "First published: 2022-12-17; Recorded arXiv version: v1; Recorded version updated: 2022-12-17T00:25:56Z.",
+  "author": [
+    {
+      "literal": "N. Rasha Shanaz"
+    },
+    {
+      "literal": "K. Murali"
+    },
+    {
+      "literal": "P. Muruganandam"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        12,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2212.11141",
+  "genre": "preprint",
+  "version": "1"
+}

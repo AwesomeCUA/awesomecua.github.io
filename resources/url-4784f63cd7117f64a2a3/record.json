@@ -1,0 +1,130 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "dataset_profile": {
+      "counts": [],
+      "evidence_urls": [
+        "https://huggingface.co/api/datasets/OS-Copilot/ScienceBoard-Traj",
+        "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/README.md"
+      ],
+      "formats": [
+        "ZIP"
+      ],
+      "modalities": [
+        "screenshots",
+        "accessibility trees",
+        "text"
+      ],
+      "notes": "Observation modes follow publisher archive labels rather than inspected record schemas. No count or training-use permission is inferred.",
+      "splits": [],
+      "supervision": [
+        "evaluation rollout logs"
+      ]
+    },
+    "disabled": false,
+    "download_url": "https://huggingface.co/datasets/OS-Copilot/ScienceBoard-Traj/tree/main",
+    "gated": false,
+    "hub_id": "OS-Copilot/ScienceBoard-Traj",
+    "languages": [],
+    "modalities": [
+      "image",
+      "text"
+    ],
+    "sample_count": null,
+    "sample_unit": null,
+    "size_category_reported": null
+  },
+  "environments": [
+    "desktop",
+    "linux"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:07:19Z",
+      "role": "primary",
+      "sha256": "0a97233bd9132fdddc6ddb26fd3cf9f2af06ae086429f367a61cfab0c16c4f44",
+      "supports": [
+        "name",
+        "kind",
+        "identity",
+        "release_status",
+        "details"
+      ],
+      "url": "https://huggingface.co/api/datasets/OS-Copilot/ScienceBoard-Traj"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:35:58Z",
+      "role": "primary",
+      "sha256": "4c3fe93aa740dbf4a279a246ddd836f2590a2a36f39b820abe166e38cb484577",
+      "supports": [
+        "summary",
+        "environments",
+        "relations",
+        "topics",
+        "scope"
+      ],
+      "url": "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:07:19Z",
+      "role": "primary",
+      "sha256": "8ee436f67e708bb917992764bc60a017c9db2edb21bdb99356b35c69f73724d7",
+      "supports": [
+        "environments",
+        "notes"
+      ],
+      "url": "https://huggingface.co/OS-Copilot/ScienceBoard-Env/raw/main/README.md"
+    },
+    {
+      "method": "huggingface_api",
+      "retrieved_at": "2026-10-17T04:07:19Z",
+      "role": "primary",
+      "sha256": "0a97233bd9132fdddc6ddb26fd3cf9f2af06ae086429f367a61cfab0c16c4f44",
+      "supports": [
+        "details",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/api/datasets/OS-Copilot/ScienceBoard-Traj"
+    }
+  ],
+  "id": "url:4784f63cd7117f64a2a3",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-17T04:07:19Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/OS-Copilot/ScienceBoard-Traj"
+    }
+  ],
+  "name": "ScienceBoard evaluation trajectories",
+  "notes": "The manifest exposes six ZIP archives but no README card or data-license declaration. The official project announces evaluation-result trajectories; this record does not label them as a training corpus or infer a trajectory count from archive names. Internal schemas and complete payload contents were not inspected.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/README.md",
+      "target_id": "arxiv:2505.19897",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Archives of ScienceBoard agent evaluation runs, separated by agent configuration and screenshot, accessibility-tree or set-of-marks observation mode.",
+  "topics": [
+    "evaluation",
+    "science",
+    "workflow"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/OS-Copilot/ScienceBoard-Traj"
+}

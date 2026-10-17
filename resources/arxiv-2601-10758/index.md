@@ -16,9 +16,16 @@ Bibliographic record for When External Threats Become User Context: Tricking Age
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-10758/record.json
+
 ## Authors
 
 Fengchao Chen, Tingmin Wu, Van Nguyen, Surya Nepal, Carsten Rudolph
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-10758/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-10758/citation.csl.json
 
 ## Recorded arXiv snapshot
 

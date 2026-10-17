@@ -16,9 +16,16 @@ Bibliographic record for What's Missing in Screen-to-Action? Towards a UI-in-the
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-06995/record.json
+
 ## Authors
 
 Songze Li, Xiaoke Guo, Tianqi Liu, Biao Yi, Zhaoyan Gong, Zhiqiang Liu, Huajun Chen, Wen Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-06995/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-06995/citation.csl.json
 
 ## Recorded arXiv snapshot
 

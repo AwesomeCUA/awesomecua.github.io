@@ -16,9 +16,16 @@ Bibliographic record for A Better Loss for Visual-Textual Grounding. Title, auth
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2108-05308/record.json
+
 ## Authors
 
 Davide Rigoni, Luciano Serafini, Alessandro Sperduti
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2108-05308/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2108-05308/citation.csl.json
 
 ## Recorded arXiv snapshot
 

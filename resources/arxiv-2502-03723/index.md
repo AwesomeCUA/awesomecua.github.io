@@ -16,9 +16,16 @@ Bibliographic record for Speaking the Language of Teamwork: LLM-Guided Credit As
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-03723/record.json
+
 ## Authors
 
 Muhan Lin, Shuyang Shi, Yue Guo, Vaishnav Tadiparthi, Behdad Chalaki, Ehsan Moradi Pari, Simon Stepputtis, Woojun Kim, Joseph Campbell, Katia Sycara
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-03723/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-03723/citation.csl.json
 
 ## Recorded arXiv snapshot
 

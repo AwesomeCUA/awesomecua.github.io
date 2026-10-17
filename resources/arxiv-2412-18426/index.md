@@ -16,9 +16,16 @@ Evaluates GUI testing through test-intent generation, execution, and defect dete
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-18426/record.json
+
 ## Authors
 
 Kangjia Zhao, Jiahui Song, Leigang Sha, Haozhan Shen, Zhi Chen, Tiancheng Zhao, Xiubo Liang, Jianwei Yin
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-18426/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-18426/citation.csl.json
 
 ## Recorded arXiv snapshot
 

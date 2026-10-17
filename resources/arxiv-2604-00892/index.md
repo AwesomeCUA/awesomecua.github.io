@@ -16,9 +16,16 @@ Bibliographic record for When Users Change Their Mind: Evaluating Interruptible 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-00892/record.json
+
 ## Authors
 
 Henry Peng Zou, Chunyu Miao, Wei-Chieh Huang, Yankai Chen, Yue Zhou, Hanrong Zhang, Yaozu Wu, Liancheng Fang, Zhengyao Gu, Zhen Zhang, Kening Zheng, Fangxin Wang, Yi Nian, Shanghao Li, Wenzhe Fan, Langzhou He, Weizhi Zhang, Xue Liu, Philip S. Yu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-00892/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-00892/citation.csl.json
 
 ## Recorded arXiv snapshot
 

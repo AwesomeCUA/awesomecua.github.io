@@ -16,9 +16,16 @@ Introduces B-MoCA, an interactive mobile-control benchmark that varies device se
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-16660/record.json
+
 ## Authors
 
 Juyong Lee, Taywon Min, Minyong An, Dongyoon Hahm, Haeone Lee, Changyeon Kim, Kimin Lee
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-16660/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-16660/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for On the Use of Agentic Coding Manifests: An Empirical St
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-14744/record.json
+
 ## Authors
 
 Worawalan Chatlatanagulchai, Kundjanasith Thonglek, Brittany Reid, Yutaro Kashiwa, Pattara Leelaprute, Arnon Rungsawang, Bundit Manaskasemsak, Hajimu Iida
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-14744/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-14744/citation.csl.json
 
 ## Recorded arXiv snapshot
 

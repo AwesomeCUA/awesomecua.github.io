@@ -16,6 +16,8 @@ High-resolution professional interface screenshots and target annotations for ev
 
 This is the benchmark data asset, distinct from its evaluation-code repository. Target counts are not unique image counts.
 
+- Record JSON: https://awesomecua.github.io/resources/url-c79e152e6f7af1a9efed/record.json
+
 ## Structured profile
 
 - formats: JSON annotations, screen images

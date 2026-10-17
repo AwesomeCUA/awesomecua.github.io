@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2604.04503",
+  "citation-key": "arxiv_2604_04503",
+  "type": "article",
+  "title": "Memory Intelligence Agent",
+  "URL": "https://arxiv.org/abs/2604.04503v4",
+  "custom": {
+    "catalog_id": "arxiv:2604.04503",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.04503",
+    "identifiers": {
+      "arxiv": "2604.04503"
+    },
+    "first_published_at": "2026-04-06",
+    "record_updated_at": "2026-04-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4a94c25fd6cca29a38820023d4084b557d7a920f9a0e071e5aa6b1a0373fb14e",
+      "submitted_at": "2026-04-06T07:59:52Z",
+      "updated_at": "2026-04-19T09:08:36Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2604.04503v4"
+    }
+  },
+  "note": "First published: 2026-04-06; Recorded arXiv version: v4; Recorded version updated: 2026-04-19T09:08:36Z.",
+  "author": [
+    {
+      "literal": "Jingyang Qiao"
+    },
+    {
+      "literal": "Weicheng Meng"
+    },
+    {
+      "literal": "Yu Cheng"
+    },
+    {
+      "literal": "Zhihang Lin"
+    },
+    {
+      "literal": "Zhizhong Zhang"
+    },
+    {
+      "literal": "Xin Tan"
+    },
+    {
+      "literal": "Jingyu Gong"
+    },
+    {
+      "literal": "Kun Shao"
+    },
+    {
+      "literal": "Yuan Xie"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.04503",
+  "genre": "preprint",
+  "version": "4"
+}

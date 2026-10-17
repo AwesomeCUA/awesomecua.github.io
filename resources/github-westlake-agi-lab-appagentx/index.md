@@ -16,6 +16,8 @@ Mobile agent research using accumulated interaction experience.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-westlake-agi-lab-appagentx/record.json
+
 ## License declarations
 
 - code: not recorded

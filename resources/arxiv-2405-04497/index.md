@@ -16,9 +16,16 @@ Bibliographic record for Unveiling Disparities in Web Task Handling Between Huma
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2405-04497/record.json
+
 ## Authors
 
 Kihoon Son, Jinhyeon Kwon, DaEun Choi, Tae Soo Kim, Young-Ho Kim, Sangdoo Yun, Juho Kim
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2405-04497/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-04497/citation.csl.json
 
 ## Recorded arXiv snapshot
 

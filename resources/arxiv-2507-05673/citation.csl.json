@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2507.05673",
+  "citation-key": "arxiv_2507_05673",
+  "type": "article",
+  "title": "R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding",
+  "URL": "https://arxiv.org/abs/2507.05673v1",
+  "custom": {
+    "catalog_id": "arxiv:2507.05673",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2507.05673",
+    "identifiers": {
+      "arxiv": "2507.05673"
+    },
+    "first_published_at": "2025-07-08",
+    "record_updated_at": "2025-07-08",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "aff9b208c446bd57f24258734557e0cd5caaf9146af68e594ec6a7e575919a6f",
+      "submitted_at": "2025-07-08T04:56:57Z",
+      "updated_at": "2025-07-08T04:56:57Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2507.05673v1"
+    }
+  },
+  "note": "First published: 2025-07-08; Recorded arXiv version: v1; Recorded version updated: 2025-07-08T04:56:57Z.",
+  "author": [
+    {
+      "literal": "Joonhyung Park"
+    },
+    {
+      "literal": "Peng Tang"
+    },
+    {
+      "literal": "Sagnik Das"
+    },
+    {
+      "literal": "Srikar Appalaraju"
+    },
+    {
+      "literal": "Kunwar Yashraj Singh"
+    },
+    {
+      "literal": "R. Manmatha"
+    },
+    {
+      "literal": "Shabnam Ghadar"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.05673",
+  "genre": "preprint",
+  "version": "1"
+}

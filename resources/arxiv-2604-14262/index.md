@@ -16,9 +16,16 @@ Bibliographic record for GUI-Perturbed: Domain Randomization Reveals Systematic 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-14262/record.json
+
 ## Authors
 
 Yangyue Wang, Harshvardhan Sikka, Yash Mathur, Tony Zhou, Jinu Nyachhyon, Pranav Guruprasad
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-14262/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-14262/citation.csl.json
 
 ## Recorded arXiv snapshot
 

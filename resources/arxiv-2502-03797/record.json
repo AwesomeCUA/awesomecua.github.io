@@ -1,0 +1,23 @@
+{
+  "status": "excluded",
+  "id": "arxiv:2502.03797",
+  "reason": "The abstract builds probabilistic bits from fluctuating manganite nanowires and evaluates their use in Bayesian inference and random-number generation. This physical computing hardware is outside the GUI/computer-use agent scope.",
+  "decision": {
+    "id": "arxiv:2502.03797",
+    "name": "Superior probabilistic computing using operationally stable probabilistic-bit constructed by manganite nanowire",
+    "url": "https://arxiv.org/abs/2502.03797",
+    "decision": "out_of_scope",
+    "basis": "primary_abstract_review",
+    "reason": "The abstract builds probabilistic bits from fluctuating manganite nanowires and evaluates their use in Bayesian inference and random-number generation. This physical computing hardware is outside the GUI/computer-use agent scope.",
+    "reviewed_at": "2026-10-17T05:27:45Z",
+    "metadata_fingerprint": "fee0519fc45fb782d5d2238c98eaef093979051ddeba9063f1d9af982a3c9b6e",
+    "evidence": {
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending",
+      "sha256": "4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089",
+      "retrieved_at": "2026-10-16T06:36:54Z"
+    },
+    "status": "excluded",
+    "status_reason": "Reviewed snapshot matches retained metadata."
+  },
+  "ledger_url": "https://awesomecua.github.io/downloads/exclusions.json"
+}

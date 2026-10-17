@@ -16,9 +16,16 @@ Bibliographic record for DeepResearch-9K: A Challenging Benchmark Dataset of Dee
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-01152/record.json
+
 ## Authors
 
 Tongzhou Wu, Yuhao Wang, Xinyu Ma, Xiuqiang He, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-01152/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-01152/citation.csl.json
 
 ## Recorded arXiv snapshot
 

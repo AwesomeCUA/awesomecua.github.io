@@ -16,9 +16,16 @@ Bibliographic record for WebWatcher: Breaking New Frontier of Vision-Language De
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-05748/record.json
+
 ## Authors
 
 Xinyu Geng, Peng Xia, Zhen Zhang, Xinyu Wang, Qiuchen Wang, Ruixue Ding, Chenxi Wang, Jialong Wu, Yida Zhao, Kuan Li, Yong Jiang, Pengjun Xie, Fei Huang, Jingren Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-05748/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-05748/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,95 @@
+{
+  "aliases": [],
+  "authors": [
+    "Fengxian Ji",
+    "Jingpu Yang",
+    "Zirui Song",
+    "Yuanxi Wang",
+    "Zhexuan Cui",
+    "Yuke Li",
+    "Qian Jiang",
+    "Miao Fang",
+    "Xiuying Chen"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f8c91a1f85602760c706e56426c0d2d870bbc101ca500aa3c7c391938c3f1676",
+      "submitted_at": "2025-08-12T15:12:42Z",
+      "updated_at": "2025-08-12T15:12:42Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2508.09241v1"
+    }
+  },
+  "environments": [
+    "desktop",
+    "web",
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:50Z",
+      "role": "primary",
+      "sha256": "26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:50Z",
+      "role": "primary",
+      "sha256": "26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2508.09241",
+  "identifiers": {
+    "arxiv": "2508.09241"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:50Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2508.09241"
+    }
+  ],
+  "name": "FineState-Bench: A Comprehensive Benchmark for Fine-Grained State Control in GUI Agents",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2025-08-12",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "FineState-Bench evaluates fine-grained GUI perception and control across desktop, web, and mobile interfaces. Its Visual Diagnostic Assistant separates perception and localization contributions in controlled interaction experiments.",
+  "topics": [
+    "evaluation",
+    "grounding",
+    "observability",
+    "screen-understanding"
+  ],
+  "updated_at": "2025-08-12",
+  "url": "https://arxiv.org/abs/2508.09241"
+}

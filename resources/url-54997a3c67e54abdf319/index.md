@@ -16,6 +16,8 @@ A MultiUI-trained visual-language checkpoint for text-rich webpage understanding
 
 Four public safetensors shards are present. The model card declares odc-by, a data-oriented license designation; it is preserved as a publisher declaration rather than replaced with the code or base-model license. No independent legal scope or evaluation result is asserted.
 
+- Record JSON: https://awesomecua.github.io/resources/url-54997a3c67e54abdf319/record.json
+
 ## License declarations
 
 - code: not recorded

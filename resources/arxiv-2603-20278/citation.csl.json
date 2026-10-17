@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2603.20278",
+  "citation-key": "arxiv_2603_20278",
+  "type": "article",
+  "title": "OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis",
+  "URL": "https://arxiv.org/abs/2603.20278v2",
+  "custom": {
+    "catalog_id": "arxiv:2603.20278",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.20278",
+    "identifiers": {
+      "arxiv": "2603.20278"
+    },
+    "first_published_at": "2026-03-17",
+    "record_updated_at": "2026-09-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1bec4e8a0a3bc989ff2eab639473d8d03c3bb4e2243c14a9c2aa278a69a56896",
+      "submitted_at": "2026-03-17T20:10:12Z",
+      "updated_at": "2026-09-10T09:50:11Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2603.20278v2"
+    }
+  },
+  "note": "First published: 2026-03-17; Recorded arXiv version: v2; Recorded version updated: 2026-09-10T09:50:11Z.",
+  "author": [
+    {
+      "literal": "Zhuofeng Li"
+    },
+    {
+      "literal": "Dongfu Jiang"
+    },
+    {
+      "literal": "Xueguang Ma"
+    },
+    {
+      "literal": "Haoxiang Zhang"
+    },
+    {
+      "literal": "Ping Nie"
+    },
+    {
+      "literal": "Yuyu Zhang"
+    },
+    {
+      "literal": "Kai Zou"
+    },
+    {
+      "literal": "Jianwen Xie"
+    },
+    {
+      "literal": "Yu Zhang"
+    },
+    {
+      "literal": "Wenhu Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.20278",
+  "genre": "preprint",
+  "version": "2"
+}

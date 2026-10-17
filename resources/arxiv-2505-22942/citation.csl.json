@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2505.22942",
+  "citation-key": "arxiv_2505_22942",
+  "type": "article",
+  "title": "WorkForceAgent-R1: Incentivizing Reasoning Capability in LLM-based Web Agents via Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2505.22942v2",
+  "custom": {
+    "catalog_id": "arxiv:2505.22942",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2505.22942",
+    "identifiers": {
+      "arxiv": "2505.22942"
+    },
+    "first_published_at": "2025-05-28",
+    "record_updated_at": "2025-06-08",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9d260f52763eac186e6f0ff614c818f17602658b6be27cfecc3fea9d80579c9a",
+      "submitted_at": "2025-05-28T23:45:28Z",
+      "updated_at": "2025-06-08T07:57:08Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2505.22942v2"
+    }
+  },
+  "note": "First published: 2025-05-28; Recorded arXiv version: v2; Recorded version updated: 2025-06-08T07:57:08Z.",
+  "author": [
+    {
+      "literal": "Yuchen Zhuang"
+    },
+    {
+      "literal": "Di Jin"
+    },
+    {
+      "literal": "Jiaao Chen"
+    },
+    {
+      "literal": "Wenqi Shi"
+    },
+    {
+      "literal": "Hanrui Wang"
+    },
+    {
+      "literal": "Chao Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.22942",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,70 @@
+{
+  "aliases": [],
+  "authors": [
+    "Tiantian He",
+    "Yihang Chen",
+    "Keyue Jiang",
+    "Ka Yiu Lee",
+    "Kaiwen Zhou",
+    "Kun Shao",
+    "Shuai Wang"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "dd2bc0ee1955dbc8e98a9306a3d6260251cbab89d36ac117e4dc49b6fa99766e",
+      "submitted_at": "2026-04-10T18:46:05Z",
+      "updated_at": "2026-04-10T18:46:05Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.09815v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:39Z",
+      "role": "primary",
+      "sha256": "27c33576ed43c7bc63d4b290f6558553bd1d3aa112a7358138f4045e1bc14918",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=300&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2604.09815",
+  "identifiers": {
+    "arxiv": "2604.09815"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:39Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2604.09815"
+    }
+  ],
+  "name": "EE-MCP: Self-Evolving MCP-GUI Agents via Automated Environment Generation and Experience Learning",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2026-04-10",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-04-10",
+  "url": "https://arxiv.org/abs/2604.09815"
+}

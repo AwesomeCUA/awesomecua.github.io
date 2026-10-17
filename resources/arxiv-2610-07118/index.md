@@ -16,9 +16,16 @@ Introduces AMBER, an append-only memory framework in which a web agent learns to
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-07118/record.json
+
 ## Authors
 
 Chinmay Savadikar, Zhaoyu Zhang, Mingyu Zhao, Shuang Xie, Han Li, Tianfu Wu, Lingyun Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-07118/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-07118/citation.csl.json
 
 ## Recorded arXiv snapshot
 

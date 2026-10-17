@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2601.22781",
+  "citation-key": "arxiv_2601_22781",
+  "type": "article",
+  "title": "Learning with Challenges: Adaptive Difficulty-Aware Data Generation for Mobile GUI Agent Training",
+  "URL": "https://arxiv.org/abs/2601.22781v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.22781",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.22781",
+    "identifiers": {
+      "arxiv": "2601.22781"
+    },
+    "first_published_at": "2026-01-30",
+    "record_updated_at": "2026-01-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0d66365682d0ea4cee744c6c59d3a585c9272a31da5f8ff7c27983d719f070a7",
+      "submitted_at": "2026-01-30T10:03:20Z",
+      "updated_at": "2026-01-30T10:03:20Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.22781v1"
+    }
+  },
+  "note": "First published: 2026-01-30; Recorded arXiv version: v1; Recorded version updated: 2026-01-30T10:03:20Z.",
+  "author": [
+    {
+      "literal": "Linjia Kang"
+    },
+    {
+      "literal": "Zhimin Wang"
+    },
+    {
+      "literal": "Yongkang Zhang"
+    },
+    {
+      "literal": "Duo Wu"
+    },
+    {
+      "literal": "Jinghe Wang"
+    },
+    {
+      "literal": "Ming Ma"
+    },
+    {
+      "literal": "Haopeng Yan"
+    },
+    {
+      "literal": "Zhi Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.22781",
+  "genre": "preprint",
+  "version": "1"
+}

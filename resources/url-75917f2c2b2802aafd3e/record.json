@@ -1,0 +1,93 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "artifact_type": "Ubuntu VMware image",
+    "disabled": false,
+    "download_url": "https://huggingface.co/OS-Copilot/ScienceBoard-Env/tree/main",
+    "gated": false,
+    "hub_id": "OS-Copilot/ScienceBoard-Env",
+    "license_review": {
+      "weights": {
+        "evidence_urls": [
+          "https://huggingface.co/OS-Copilot/ScienceBoard-Env/raw/main/README.md",
+          "https://huggingface.co/api/models/OS-Copilot/ScienceBoard-Env"
+        ],
+        "reason": "This resource is a prebuilt Ubuntu VMware environment archive (VM.zip), not neural model weights. MIT Hub metadata in a model namespace cannot establish a weights license or relicense the guest OS and bundled applications."
+      }
+    }
+  },
+  "environments": [
+    "linux",
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:07:19Z",
+      "role": "primary",
+      "sha256": "8ee436f67e708bb917992764bc60a017c9db2edb21bdb99356b35c69f73724d7",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/OS-Copilot/ScienceBoard-Env/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:07:18Z",
+      "role": "primary",
+      "sha256": "9ffaf62b54a610afe186b3576b55fdd8287289e0cdfb88371bd9849a616f8460",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/api/models/OS-Copilot/ScienceBoard-Env"
+    }
+  ],
+  "id": "url:75917f2c2b2802aafd3e",
+  "identifiers": {},
+  "kind": "infrastructure",
+  "last_verified_at": "2026-10-17T04:07:19Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/OS-Copilot/ScienceBoard-Env"
+    }
+  ],
+  "name": "ScienceBoard VMware environment",
+  "notes": "The public Hub manifest contains VM.zip. This is an environment image, not neural model weights despite its Hub namespace. The card declares MIT metadata for the hosted release, but that does not relicense Ubuntu or included applications. The archive was not downloaded or booted; VMware’s own terms are separate.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/OS-Copilot/ScienceBoard-Env/raw/main/README.md",
+      "target_id": "arxiv:2505.19897",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A prebuilt Ubuntu virtual-machine archive containing the software environment used for ScienceBoard scientific computer-use tasks.",
+  "topics": [
+    "sandbox",
+    "science",
+    "evaluation"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/OS-Copilot/ScienceBoard-Env"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Benchmarking Neural Network Training Algorithms. Title,
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2306-07179/record.json
+
 ## Authors
 
 George E. Dahl, Frank Schneider, Zachary Nado, Naman Agarwal, Chandramouli Shama Sastry, Philipp Hennig, Sourabh Medapati, Runa Eschenhagen, Priya Kasimbeg, Daniel Suo, Juhan Bae, Justin Gilmer, Abel L. Peirson, Bilal Khan, Rohan Anil, Mike Rabbat, Shankar Krishnan, Daniel Snider, Ehsan Amid, Kongtao Chen, Chris J. Maddison, Rakshith Vasudev, Michal Badura, Ankush Garg, Peter Mattson
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2306-07179/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2306-07179/citation.csl.json
 
 ## Recorded arXiv snapshot
 

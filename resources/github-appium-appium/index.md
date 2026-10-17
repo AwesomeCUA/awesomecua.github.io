@@ -16,6 +16,8 @@ Cross-platform UI automation infrastructure.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-appium-appium/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/appium/appium/HEAD/LICENSE

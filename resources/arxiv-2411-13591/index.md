@@ -16,9 +16,16 @@ Uses iterative visual narrowing to improve localization of requested GUI element
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-13591/record.json
+
 ## Authors
 
 Anthony Nguyen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-13591/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-13591/citation.csl.json
 
 ## Recorded arXiv snapshot
 

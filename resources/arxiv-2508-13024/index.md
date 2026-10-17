@@ -16,9 +16,16 @@ WebMall provides four simulated online shops with heterogeneous product data for
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-13024/record.json
+
 ## Authors
 
 Ralph Peeters, Aaron Steiner, Luca Schwarz, Julian Yuya Caspary, Christian Bizer
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-13024/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-13024/citation.csl.json
 
 ## Recorded arXiv snapshot
 

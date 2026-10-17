@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2503.15661",
+  "citation-key": "arxiv_2503_15661",
+  "type": "article",
+  "title": "UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction",
+  "URL": "https://arxiv.org/abs/2503.15661v2",
+  "custom": {
+    "catalog_id": "arxiv:2503.15661",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2503.15661",
+    "identifiers": {
+      "arxiv": "2503.15661"
+    },
+    "first_published_at": "2025-03-19",
+    "record_updated_at": "2025-05-06",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5abf3c7b08a4331d4f634d8cc63a7f8ff40713f7344231887dac1b5e061a8eae",
+      "submitted_at": "2025-03-19T19:26:17Z",
+      "updated_at": "2025-05-06T17:43:11Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2503.15661v2"
+    }
+  },
+  "note": "First published: 2025-03-19; Recorded arXiv version: v2; Recorded version updated: 2025-05-06T17:43:11Z.",
+  "author": [
+    {
+      "literal": "Shravan Nayak"
+    },
+    {
+      "literal": "Xiangru Jian"
+    },
+    {
+      "literal": "Kevin Qinghong Lin"
+    },
+    {
+      "literal": "Juan A. Rodriguez"
+    },
+    {
+      "literal": "Montek Kalsi"
+    },
+    {
+      "literal": "Rabiul Awal"
+    },
+    {
+      "literal": "Nicolas Chapados"
+    },
+    {
+      "literal": "M. Tamer Özsu"
+    },
+    {
+      "literal": "Aishwarya Agrawal"
+    },
+    {
+      "literal": "David Vazquez"
+    },
+    {
+      "literal": "Christopher Pal"
+    },
+    {
+      "literal": "Perouz Taslakian"
+    },
+    {
+      "literal": "Spandana Gella"
+    },
+    {
+      "literal": "Sai Rajeswar"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.15661",
+  "genre": "preprint",
+  "version": "2"
+}

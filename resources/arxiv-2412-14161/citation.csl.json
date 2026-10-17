@@ -1,0 +1,106 @@
+{
+  "id": "arxiv:2412.14161",
+  "citation-key": "arxiv_2412_14161",
+  "type": "article",
+  "title": "TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks",
+  "URL": "https://arxiv.org/abs/2412.14161v3",
+  "custom": {
+    "catalog_id": "arxiv:2412.14161",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2412.14161",
+    "identifiers": {
+      "arxiv": "2412.14161"
+    },
+    "first_published_at": "2024-12-18",
+    "record_updated_at": "2025-09-10",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "77f91dd9ec9f50fb5526a78cfe270a7a1705d5bd83a2aef26644453740c005d5",
+      "submitted_at": "2024-12-18T18:55:40Z",
+      "updated_at": "2025-09-10T08:35:19Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2412.14161v3"
+    }
+  },
+  "note": "First published: 2024-12-18; Recorded arXiv version: v3; Recorded version updated: 2025-09-10T08:35:19Z.",
+  "author": [
+    {
+      "literal": "Frank F. Xu"
+    },
+    {
+      "literal": "Yufan Song"
+    },
+    {
+      "literal": "Boxuan Li"
+    },
+    {
+      "literal": "Yuxuan Tang"
+    },
+    {
+      "literal": "Kritanjali Jain"
+    },
+    {
+      "literal": "Mengxue Bao"
+    },
+    {
+      "literal": "Zora Z. Wang"
+    },
+    {
+      "literal": "Xuhui Zhou"
+    },
+    {
+      "literal": "Zhitong Guo"
+    },
+    {
+      "literal": "Murong Cao"
+    },
+    {
+      "literal": "Mingyang Yang"
+    },
+    {
+      "literal": "Hao Yang Lu"
+    },
+    {
+      "literal": "Amaad Martin"
+    },
+    {
+      "literal": "Zhe Su"
+    },
+    {
+      "literal": "Leander Maben"
+    },
+    {
+      "literal": "Raj Mehta"
+    },
+    {
+      "literal": "Wayne Chi"
+    },
+    {
+      "literal": "Lawrence Jang"
+    },
+    {
+      "literal": "Yiqing Xie"
+    },
+    {
+      "literal": "Shuyan Zhou"
+    },
+    {
+      "literal": "Graham Neubig"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.14161",
+  "genre": "preprint",
+  "version": "3"
+}

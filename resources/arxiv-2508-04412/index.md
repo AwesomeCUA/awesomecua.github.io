@@ -16,9 +16,16 @@ D2Snap reduces serialized DOM observations while preserving actionable elements 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-04412/record.json
+
 ## Authors
 
 Thassilo M. Schiepanski, Nicholas Piël
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-04412/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-04412/citation.csl.json
 
 ## Recorded arXiv snapshot
 

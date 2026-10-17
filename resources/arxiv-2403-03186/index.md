@@ -16,9 +16,16 @@ Uses screenshot observations, planning modules, and generated low-level keyboard
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-03186/record.json
+
 ## Authors
 
 Weihao Tan, Wentao Zhang, Xinrun Xu, Haochong Xia, Ziluo Ding, Boyu Li, Bohan Zhou, Junpeng Yue, Jiechuan Jiang, Yewen Li, Ruyi An, Molei Qin, Chuqiao Zong, Longtao Zheng, Yujie Wu, Xiaoqiang Chai, Yifei Bi, Tianbao Xie, Pengjie Gu, Xiyun Li, Ceyao Zhang, Long Tian, Chaojie Wang, Xinrun Wang, Börje F. Karlsson, Bo An, Shuicheng Yan, Zongqing Lu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-03186/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-03186/citation.csl.json
 
 ## Recorded arXiv snapshot
 

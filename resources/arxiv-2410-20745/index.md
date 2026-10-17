@@ -16,9 +16,16 @@ Bibliographic record for Shopping MMLU: A Massive Multi-Task Online Shopping Ben
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-20745/record.json
+
 ## Authors
 
 Yilun Jin, Zheng Li, Chenwei Zhang, Tianyu Cao, Yifan Gao, Pratik Jayarao, Mao Li, Xin Liu, Ritesh Sarkhel, Xianfeng Tang, Haodong Wang, Zhengyang Wang, Wenju Xu, Jingfeng Yang, Qingyu Yin, Xian Li, Priyanka Nigam, Yi Xu, Kai Chen, Qiang Yang, Meng Jiang, Bing Yin
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-20745/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-20745/citation.csl.json
 
 ## Recorded arXiv snapshot
 

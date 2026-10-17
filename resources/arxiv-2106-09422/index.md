@@ -16,9 +16,16 @@ Bibliographic record for CRIL: Continual Robot Imitation Learning via Generative
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2106-09422/record.json
+
 ## Authors
 
 Chongkai Gao, Haichuan Gao, Shangqi Guo, Tianren Zhang, Feng Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2106-09422/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2106-09422/citation.csl.json
 
 ## Recorded arXiv snapshot
 

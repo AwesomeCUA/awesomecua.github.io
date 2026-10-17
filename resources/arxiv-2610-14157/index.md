@@ -16,9 +16,16 @@ Introduces OpenMobile-2, combining simulated mobile apps, emulator tasks, releas
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-14157/record.json
+
 ## Authors
 
 Chenyang Yan, Yingying Zhang, Kanzhi Cheng, Qiushi Sun, Zhengyuan Pan, Zheng Ma, Hang Yan, Yian Wang, Nuo Chen, Jialin Cao, Xingdong Gong, Wenpo Song, Han Chen, Zichen Ding, Fangzhi Xu, Shujian Huang, Xinyu Dai, Yichen Liu, Tiankuo Yao, Bo Wang, Ben Kao, Jianbing Zhang, Lewei Lu, Dahua Lin
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-14157/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-14157/citation.csl.json
 
 ## Recorded arXiv snapshot
 

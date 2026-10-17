@@ -16,6 +16,8 @@ Publisher or product brand associated with Google computer-use or browser automa
 
 Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
 
+- Record JSON: https://awesomecua.github.io/resources/organization-google/record.json
+
 ## License declarations
 
 - code: not recorded

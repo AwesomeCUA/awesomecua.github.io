@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2010.12083",
+  "citation-key": "arxiv_2010_12083",
+  "type": "article",
+  "title": "Language-Conditioned Imitation Learning for Robot Manipulation Tasks",
+  "URL": "https://arxiv.org/abs/2010.12083v1",
+  "custom": {
+    "catalog_id": "arxiv:2010.12083",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2010.12083",
+    "identifiers": {
+      "arxiv": "2010.12083"
+    },
+    "first_published_at": "2020-10-22",
+    "record_updated_at": "2020-10-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bb83f67b55d48c5bfc48920107458e15bac56c0e7fe523b4e8f2c9a10b199aa5",
+      "submitted_at": "2020-10-22T21:49:08Z",
+      "updated_at": "2020-10-22T21:49:08Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2010.12083v1"
+    }
+  },
+  "note": "First published: 2020-10-22; Recorded arXiv version: v1; Recorded version updated: 2020-10-22T21:49:08Z.",
+  "author": [
+    {
+      "literal": "Simon Stepputtis"
+    },
+    {
+      "literal": "Joseph Campbell"
+    },
+    {
+      "literal": "Mariano Phielipp"
+    },
+    {
+      "literal": "Stefan Lee"
+    },
+    {
+      "literal": "Chitta Baral"
+    },
+    {
+      "literal": "Heni Ben Amor"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        10,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2010.12083",
+  "genre": "preprint",
+  "version": "1"
+}

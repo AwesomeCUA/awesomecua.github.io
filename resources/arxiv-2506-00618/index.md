@@ -16,9 +16,16 @@ Bibliographic record for RiOSWorld: Benchmarking the Risk of Multimodal Computer
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-00618/record.json
+
 ## Authors
 
 Jingyi Yang, Shuai Shao, Dongrui Liu, Jing Shao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-00618/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-00618/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:2510.13543",
+  "citation-key": "arxiv_2510_13543",
+  "type": "article",
+  "title": "In-Browser LLM-Guided Fuzzing for Real-Time Prompt Injection Testing in Agentic AI Browsers",
+  "URL": "https://arxiv.org/abs/2510.13543v1",
+  "custom": {
+    "catalog_id": "arxiv:2510.13543",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.13543",
+    "identifiers": {
+      "arxiv": "2510.13543"
+    },
+    "first_published_at": "2025-10-15",
+    "record_updated_at": "2025-10-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bedde658a28c57551c27563fa22cb037839dddd4e5eabe1c66afa27523d0d406",
+      "submitted_at": "2025-10-15T13:39:13Z",
+      "updated_at": "2025-10-15T13:39:13Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2510.13543v1"
+    }
+  },
+  "note": "First published: 2025-10-15; Recorded arXiv version: v1; Recorded version updated: 2025-10-15T13:39:13Z.",
+  "author": [
+    {
+      "literal": "Avihay Cohen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.13543",
+  "genre": "preprint",
+  "version": "1"
+}

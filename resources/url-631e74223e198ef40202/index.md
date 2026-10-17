@@ -16,6 +16,8 @@ Cross-platform computer-use data released with ScaleCUA.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-631e74223e198ef40202/record.json
+
 ## Structured profile
 
 - formats: JSONL annotations, JSON manifest, split image archives

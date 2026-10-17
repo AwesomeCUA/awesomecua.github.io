@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2602.06663",
+  "citation-key": "arxiv_2602_06663",
+  "type": "article",
+  "title": "PlanViz: Evaluating Planning-Oriented Image Generation and Editing for Computer-Use Tasks",
+  "URL": "https://arxiv.org/abs/2602.06663v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.06663",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.06663",
+    "identifiers": {
+      "arxiv": "2602.06663"
+    },
+    "first_published_at": "2026-02-06",
+    "record_updated_at": "2026-04-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e5678170e8db3f727f0fbae211f6cc9c2bdc6d748331ee964e2f12a34730d1aa",
+      "submitted_at": "2026-02-06T12:47:16Z",
+      "updated_at": "2026-04-20T06:42:55Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.06663v2"
+    }
+  },
+  "note": "First published: 2026-02-06; Recorded arXiv version: v2; Recorded version updated: 2026-04-20T06:42:55Z.",
+  "author": [
+    {
+      "literal": "Junxian Li"
+    },
+    {
+      "literal": "Kai Liu"
+    },
+    {
+      "literal": "Leyang Chen"
+    },
+    {
+      "literal": "Weida Wang"
+    },
+    {
+      "literal": "Zhixin Wang"
+    },
+    {
+      "literal": "Jiaqi Xu"
+    },
+    {
+      "literal": "Fan Li"
+    },
+    {
+      "literal": "Renjing Pei"
+    },
+    {
+      "literal": "Linghe Kong"
+    },
+    {
+      "literal": "Yulun Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.06663",
+  "genre": "preprint",
+  "version": "2"
+}

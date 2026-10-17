@@ -16,9 +16,16 @@ Bibliographic record for Same Outcomes, Different Journeys: A Trace-Level Framew
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-07929/record.json
+
 ## Authors
 
 Maria Movin, Claudia Hauff, Aron Henriksson, Panagiotis Papapetrou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-07929/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-07929/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Agentic Robot: A Brain-Inspired Framework for Vision-La
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-23450/record.json
+
 ## Authors
 
 Zhejian Yang, Yongchao Chen, Xueyang Zhou, Jiangyue Yan, Dingjie Song, Yinuo Liu, Yuting Li, Yu Zhang, Pan Zhou, Hechang Chen, Lichao Sun
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-23450/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-23450/citation.csl.json
 
 ## Recorded arXiv snapshot
 

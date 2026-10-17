@@ -16,9 +16,16 @@ Bibliographic record for Flow: Modularized Agentic Workflow Automation. Title, a
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-07834/record.json
+
 ## Authors
 
 Boye Niu, Yiliao Song, Kai Lian, Yifan Shen, Yu Yao, Kun Zhang, Tongliang Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-07834/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-07834/citation.csl.json
 
 ## Recorded arXiv snapshot
 

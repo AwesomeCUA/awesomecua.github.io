@@ -16,9 +16,16 @@ Bibliographic record for Autonomous Evaluation and Refinement of Digital Agents.
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-06474/record.json
+
 ## Authors
 
 Jiayi Pan, Yichi Zhang, Nicholas Tomlin, Yifei Zhou, Sergey Levine, Alane Suhr
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-06474/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-06474/citation.csl.json
 
 ## Recorded arXiv snapshot
 

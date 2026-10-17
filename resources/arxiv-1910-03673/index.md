@@ -16,9 +16,16 @@ Bibliographic record for Progress towards practical qubit computation using appr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1910-03673/record.json
+
 ## Authors
 
 Ilan Tzitrin, J. Eli Bourassa, Nicolas C. Menicucci, Krishna Kumar Sabapathy
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1910-03673/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1910-03673/citation.csl.json
 
 ## Recorded arXiv snapshot
 

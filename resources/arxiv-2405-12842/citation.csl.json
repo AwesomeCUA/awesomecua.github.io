@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2405.12842",
+  "citation-key": "arxiv_2405_12842",
+  "type": "article",
+  "title": "SmartFlow: Robotic Process Automation using LLMs",
+  "URL": "https://arxiv.org/abs/2405.12842v1",
+  "custom": {
+    "catalog_id": "arxiv:2405.12842",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2405.12842",
+    "identifiers": {
+      "arxiv": "2405.12842"
+    },
+    "first_published_at": "2024-05-21",
+    "record_updated_at": "2024-05-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ca8d7e7dc3a537573ac3990d532589cdca12bf441ee40521cc46044fd10c5263",
+      "submitted_at": "2024-05-21T14:49:12Z",
+      "updated_at": "2024-05-21T14:49:12Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2405.12842v1"
+    }
+  },
+  "note": "First published: 2024-05-21; Recorded arXiv version: v1; Recorded version updated: 2024-05-21T14:49:12Z.",
+  "author": [
+    {
+      "literal": "Arushi Jain"
+    },
+    {
+      "literal": "Shubham Paliwal"
+    },
+    {
+      "literal": "Monika Sharma"
+    },
+    {
+      "literal": "Lovekesh Vig"
+    },
+    {
+      "literal": "Gautam Shroff"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2405.12842",
+  "genre": "preprint",
+  "version": "1"
+}

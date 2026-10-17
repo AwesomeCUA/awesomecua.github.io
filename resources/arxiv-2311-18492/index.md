@@ -16,9 +16,16 @@ Bibliographic record for CLS-CAD: Synthesizing CAD Assemblies in Fusion 360. Tit
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-18492/record.json
+
 ## Authors
 
 Constantin Chaumet, Jakob Rehof
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-18492/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-18492/citation.csl.json
 
 ## Recorded arXiv snapshot
 

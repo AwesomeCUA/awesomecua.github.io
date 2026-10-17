@@ -1,0 +1,76 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:02Z",
+      "role": "primary",
+      "sha256": "fe475d3e92c42807b792c542bc5986bf74caa7d166aea860d368fbe776342a82",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/BAAI-Agents/Cradle/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:04Z",
+      "role": "primary",
+      "sha256": "2964861ad96d977da95d891f62d8f5d60873f4a36da0b51f052d9e98ef97d02f",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/BAAI-Agents/Cradle/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:baai-agents/cradle",
+  "identifiers": {},
+  "kind": "agent",
+  "last_verified_at": "2026-10-16T06:36:02Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-16T06:42:04Z",
+      "url": "https://raw.githubusercontent.com/BAAI-Agents/Cradle/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/BAAI-Agents/Cradle"
+    }
+  ],
+  "name": "Cradle",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/BAAI-Agents/Cradle/HEAD/README.md",
+      "target_id": "arxiv:2403.03186",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "General computer-control framework using visual interfaces.",
+  "topics": [
+    "planning",
+    "memory"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/BAAI-Agents/Cradle"
+}

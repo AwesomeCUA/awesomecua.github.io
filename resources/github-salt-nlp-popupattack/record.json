@@ -1,0 +1,59 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "metrics": [],
+    "task_count": null
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:40:54Z",
+      "role": "primary",
+      "sha256": "24251854f9481af5c8db65750197604546f000b54868930a6de79adc365db854",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/SALT-NLP/PopupAttack/HEAD/README.md"
+    }
+  ],
+  "id": "github:salt-nlp/popupattack",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-16T06:40:54Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/SALT-NLP/PopupAttack"
+    }
+  ],
+  "name": "PopupAttack",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Resources for evaluating GUI agents under malicious popup instructions.",
+  "topics": [
+    "safety-security"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/SALT-NLP/PopupAttack"
+}

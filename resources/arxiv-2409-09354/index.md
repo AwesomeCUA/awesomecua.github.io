@@ -16,9 +16,16 @@ PeriGuru interprets smartphone GUI screenshots with computer vision and uses a l
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-09354/record.json
+
 ## Authors
 
 Kelin Fu, Yang Tian, Kaigui Bian
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-09354/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-09354/citation.csl.json
 
 ## Recorded arXiv snapshot
 

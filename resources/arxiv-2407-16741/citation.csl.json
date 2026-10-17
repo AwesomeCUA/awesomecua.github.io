@@ -1,0 +1,115 @@
+{
+  "id": "arxiv:2407.16741",
+  "citation-key": "arxiv_2407_16741",
+  "type": "article",
+  "title": "OpenHands: An Open Platform for AI Software Developers as Generalist Agents",
+  "URL": "https://arxiv.org/abs/2407.16741v3",
+  "custom": {
+    "catalog_id": "arxiv:2407.16741",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2407.16741",
+    "identifiers": {
+      "arxiv": "2407.16741"
+    },
+    "first_published_at": "2024-07-23",
+    "record_updated_at": "2025-04-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cb94bd5d52d4abf7ff8511a64ac49d4699c795baa0446cd47e2b79616cc10408",
+      "submitted_at": "2024-07-23T17:50:43Z",
+      "updated_at": "2025-04-18T18:14:31Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2407.16741v3"
+    }
+  },
+  "note": "First published: 2024-07-23; Recorded arXiv version: v3; Recorded version updated: 2025-04-18T18:14:31Z.",
+  "author": [
+    {
+      "literal": "Xingyao Wang"
+    },
+    {
+      "literal": "Boxuan Li"
+    },
+    {
+      "literal": "Yufan Song"
+    },
+    {
+      "literal": "Frank F. Xu"
+    },
+    {
+      "literal": "Xiangru Tang"
+    },
+    {
+      "literal": "Mingchen Zhuge"
+    },
+    {
+      "literal": "Jiayi Pan"
+    },
+    {
+      "literal": "Yueqi Song"
+    },
+    {
+      "literal": "Bowen Li"
+    },
+    {
+      "literal": "Jaskirat Singh"
+    },
+    {
+      "literal": "Hoang H. Tran"
+    },
+    {
+      "literal": "Fuqiang Li"
+    },
+    {
+      "literal": "Ren Ma"
+    },
+    {
+      "literal": "Mingzhang Zheng"
+    },
+    {
+      "literal": "Bill Qian"
+    },
+    {
+      "literal": "Yanjun Shao"
+    },
+    {
+      "literal": "Niklas Muennighoff"
+    },
+    {
+      "literal": "Yizhe Zhang"
+    },
+    {
+      "literal": "Binyuan Hui"
+    },
+    {
+      "literal": "Junyang Lin"
+    },
+    {
+      "literal": "Robert Brennan"
+    },
+    {
+      "literal": "Hao Peng"
+    },
+    {
+      "literal": "Heng Ji"
+    },
+    {
+      "literal": "Graham Neubig"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.16741",
+  "genre": "preprint",
+  "version": "3"
+}

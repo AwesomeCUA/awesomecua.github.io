@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2402.03323",
+  "citation-key": "arxiv_2402_03323",
+  "type": "article",
+  "title": "Portable medical devices creation technology by using the Bluetooth module",
+  "URL": "https://arxiv.org/abs/2402.03323v1",
+  "custom": {
+    "catalog_id": "arxiv:2402.03323",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2402.03323",
+    "identifiers": {
+      "arxiv": "2402.03323"
+    },
+    "first_published_at": "2024-01-07",
+    "record_updated_at": "2024-01-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5e81184cf28ec50b43c32a84ed61669313d03439b804f99f551a281fb67083d8",
+      "submitted_at": "2024-01-07T15:37:56Z",
+      "updated_at": "2024-01-07T15:37:56Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2402.03323v1"
+    }
+  },
+  "note": "First published: 2024-01-07; Recorded arXiv version: v1; Recorded version updated: 2024-01-07T15:37:56Z.",
+  "author": [
+    {
+      "literal": "A. O. Dadukin"
+    },
+    {
+      "literal": "N. I. Pchelintseva"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.03323",
+  "genre": "preprint",
+  "version": "1"
+}

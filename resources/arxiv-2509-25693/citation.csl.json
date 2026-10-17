@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2509.25693",
+  "citation-key": "arxiv_2509_25693",
+  "type": "article",
+  "title": "ScheduleMe: Multi-Agent Calendar Assistant",
+  "URL": "https://arxiv.org/abs/2509.25693v3",
+  "custom": {
+    "catalog_id": "arxiv:2509.25693",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.25693",
+    "identifiers": {
+      "arxiv": "2509.25693"
+    },
+    "first_published_at": "2025-09-30",
+    "record_updated_at": "2026-03-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "45ee3d2ed438bbe807869b8d6058b76ef6383a16285085bba9ae73fc085d940e",
+      "submitted_at": "2025-09-30T02:47:54Z",
+      "updated_at": "2026-03-18T06:21:30Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2509.25693v3"
+    }
+  },
+  "note": "First published: 2025-09-30; Recorded arXiv version: v3; Recorded version updated: 2026-03-18T06:21:30Z.",
+  "author": [
+    {
+      "literal": "Oshadha Wijerathne"
+    },
+    {
+      "literal": "Amandi Nimasha"
+    },
+    {
+      "literal": "Dushan Fernando"
+    },
+    {
+      "literal": "Nisansa de Silva"
+    },
+    {
+      "literal": "Srinath Perera"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.25693",
+  "genre": "preprint",
+  "version": "3"
+}

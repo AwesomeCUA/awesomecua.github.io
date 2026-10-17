@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:1310.3562",
+  "citation-key": "arxiv_1310_3562",
+  "type": "article",
+  "title": "Adiabatic computing using 2-local Hamiltonians on a line",
+  "URL": "https://arxiv.org/abs/1310.3562v2",
+  "custom": {
+    "catalog_id": "arxiv:1310.3562",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1310.3562",
+    "identifiers": {
+      "arxiv": "1310.3562"
+    },
+    "first_published_at": "2013-10-14",
+    "record_updated_at": "2013-12-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ce881007284bbff943e7e5a823bdbef159d577c426854a8878a9d2a9c7ed0179",
+      "submitted_at": "2013-10-14T04:40:21Z",
+      "updated_at": "2013-12-06T19:30:30Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/1310.3562v2"
+    }
+  },
+  "note": "First published: 2013-10-14; Recorded arXiv version: v2; Recorded version updated: 2013-12-06T19:30:30Z.",
+  "author": [
+    {
+      "literal": "Brian Pepper"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2013,
+        10,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1310.3562",
+  "genre": "preprint",
+  "version": "2"
+}

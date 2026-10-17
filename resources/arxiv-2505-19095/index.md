@@ -16,9 +16,16 @@ Bibliographic record for ScreenExplorer: Training a Vision-Language Model for Di
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-19095/record.json
+
 ## Authors
 
 Runliang Niu, Jinglong Ji, Yi Chang, Qi Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-19095/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-19095/citation.csl.json
 
 ## Recorded arXiv snapshot
 

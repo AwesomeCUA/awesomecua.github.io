@@ -16,9 +16,16 @@ Bibliographic record for PlotGen: Multi-Agent LLM-based Scientific Data Visualiz
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-00988/record.json
+
 ## Authors
 
 Kanika Goswami, Puneet Mathur, Ryan Rossi, Franck Dernoncourt
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-00988/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-00988/citation.csl.json
 
 ## Recorded arXiv snapshot
 

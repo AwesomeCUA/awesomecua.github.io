@@ -16,6 +16,8 @@ Desktop sandboxes for computer-use agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-e2b-dev-desktop/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/e2b-dev/desktop/HEAD/LICENSE

@@ -1,0 +1,71 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T10:42:12Z",
+      "role": "primary",
+      "sha256": "2e42f01578710d91145412f7d1ecb93979db96c698f677915284da1a1d592588",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/GaryYang12345/GUI-HARVEST/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T10:48:42Z",
+      "role": "primary",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/GaryYang12345/GUI-HARVEST/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:garyyang12345/gui-harvest",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-16T10:42:12Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T10:48:42Z",
+      "url": "https://raw.githubusercontent.com/GaryYang12345/GUI-HARVEST/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/GaryYang12345/GUI-HARVEST"
+    }
+  ],
+  "name": "GUI-HARVEST",
+  "notes": "Requires a separately installed benchmark and seed agent harness; benchmark tasks and model weights remain fixed during its optimization procedure.",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Optimizes GUI-agent execution code from repeated rollout evidence and checks proposed changes against fixed validation gates.",
+  "topics": [
+    "automation",
+    "observability",
+    "robustness"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/GaryYang12345/GUI-HARVEST"
+}

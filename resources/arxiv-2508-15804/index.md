@@ -16,9 +16,16 @@ Bibliographic record for ReportBench: Evaluating Deep Research Agents via Academ
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-15804/record.json
+
 ## Authors
 
 Minghao Li, Ying Zeng, Zhihao Cheng, Cong Ma, Kai Jia
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-15804/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-15804/citation.csl.json
 
 ## Recorded arXiv snapshot
 

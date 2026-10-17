@@ -16,9 +16,16 @@ Bibliographic record for Caution for the Environment: Multimodal LLM Agents are 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2408-02544/record.json
+
 ## Authors
 
 Xinbei Ma, Yiting Wang, Yao Yao, Tongxin Yuan, Aston Zhang, Zhuosheng Zhang, Hai Zhao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2408-02544/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2408-02544/citation.csl.json
 
 ## Recorded arXiv snapshot
 

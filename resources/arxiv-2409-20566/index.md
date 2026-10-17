@@ -16,9 +16,16 @@ Bibliographic record for MM1.5: Methods, Analysis & Insights from Multimodal LLM
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-20566/record.json
+
 ## Authors
 
 Haotian Zhang, Mingfei Gao, Zhe Gan, Philipp Dufter, Nina Wenzel, Forrest Huang, Dhruti Shah, Xianzhi Du, Bowen Zhang, Yanghao Li, Sam Dodge, Keen You, Zhen Yang, Aleksei Timofeev, Mingze Xu, Hong-You Chen, Jean-Philippe Fauconnier, Zhengfeng Lai, Haoxuan You, Zirui Wang, Afshin Dehghan, Peter Grasch, Yinfei Yang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-20566/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-20566/citation.csl.json
 
 ## Recorded arXiv snapshot
 

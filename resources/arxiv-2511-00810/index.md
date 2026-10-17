@@ -16,9 +16,16 @@ Bibliographic record for GUI-AIMA: Aligning Intrinsic Multimodal Attention with 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-00810/record.json
+
 ## Authors
 
 Shijie Zhou, Viet Dac Lai, Hao Tan, Jihyung Kil, Wanrong Zhu, Changyou Chen, Ruiyi Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-00810/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-00810/citation.csl.json
 
 ## Recorded arXiv snapshot
 

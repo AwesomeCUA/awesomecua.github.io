@@ -16,9 +16,16 @@ Plover exposes GUI-agent plans and replanning as persistent artifacts that users
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-15193/record.json
+
 ## Authors
 
 Madhumitha Venkatesan, Shicheng Wen, Jiajing Guo, Jorge Piazentin Ono, Liu Ren, Dongyu Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-15193/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-15193/citation.csl.json
 
 ## Recorded arXiv snapshot
 

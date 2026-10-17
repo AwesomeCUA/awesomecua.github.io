@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:2311.18528",
+  "citation-key": "arxiv_2311_18528",
+  "type": "article",
+  "title": "Bottom-up computation using trees of sublists (Functional Pearl)",
+  "URL": "https://arxiv.org/abs/2311.18528v2",
+  "custom": {
+    "catalog_id": "arxiv:2311.18528",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2311.18528",
+    "identifiers": {
+      "arxiv": "2311.18528"
+    },
+    "first_published_at": "2023-11-30",
+    "record_updated_at": "2024-03-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "37d2cb8816e3597e1aae87da684cf4568a5ff15d05e7a8ea02ccb86e1e6f7e27",
+      "submitted_at": "2023-11-30T13:08:46Z",
+      "updated_at": "2024-03-04T06:15:33Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2311.18528v2"
+    }
+  },
+  "note": "First published: 2023-11-30; Recorded arXiv version: v2; Recorded version updated: 2024-03-04T06:15:33Z.",
+  "author": [
+    {
+      "literal": "Shin-Cheng Mu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.18528",
+  "genre": "preprint",
+  "version": "2"
+}

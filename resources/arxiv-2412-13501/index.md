@@ -16,9 +16,16 @@ Survey of research directions in GUI or computer-use agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-13501/record.json
+
 ## Authors
 
 Dang Nguyen, Jian Chen, Yu Wang, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu, Junda Wu, Ryan Aponte, Yu Xia, Xintong Li, Jing Shi, Hongjie Chen, Viet Dac Lai, Zhouhang Xie, Sungchul Kim, Ruiyi Zhang, Tong Yu, Mehrab Tanjim, Nesreen K. Ahmed, Puneet Mathur, Seunghyun Yoon, Lina Yao, Branislav Kveton, Jihyung Kil, Thien Huu Nguyen, Trung Bui, Tianyi Zhou, Ryan A. Rossi, Franck Dernoncourt
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-13501/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-13501/citation.csl.json
 
 ## Recorded arXiv snapshot
 

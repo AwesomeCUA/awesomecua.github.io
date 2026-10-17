@@ -16,9 +16,16 @@ Bibliographic record for Robotouille: An Asynchronous Planning Benchmark for LLM
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-05227/record.json
+
 ## Authors
 
 Gonzalo Gonzalez-Pumariega, Leong Su Yean, Neha Sunkara, Sanjiban Choudhury
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-05227/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-05227/citation.csl.json
 
 ## Recorded arXiv snapshot
 

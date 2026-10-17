@@ -16,9 +16,16 @@ Bibliographic record for Secure Over-the-Air Computation using Zero-Forced Artif
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2212-04288/record.json
+
 ## Authors
 
 Luis Maßny, Antonia Wachter-Zeh
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2212-04288/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2212-04288/citation.csl.json
 
 ## Recorded arXiv snapshot
 

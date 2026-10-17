@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2605.06664",
+  "citation-key": "arxiv_2605_06664",
+  "type": "article",
+  "title": "BAMI: Training-Free Bias Mitigation in GUI Grounding",
+  "URL": "https://arxiv.org/abs/2605.06664v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.06664",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.06664",
+    "identifiers": {
+      "arxiv": "2605.06664"
+    },
+    "first_published_at": "2026-05-07",
+    "record_updated_at": "2026-05-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "61c1368f37c2ff80ca67985aff50e2fd26123f795cf2a8c6336a505b3fc02526",
+      "submitted_at": "2026-05-07T17:59:31Z",
+      "updated_at": "2026-05-07T17:59:31Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.06664v1"
+    }
+  },
+  "note": "First published: 2026-05-07; Recorded arXiv version: v1; Recorded version updated: 2026-05-07T17:59:31Z.",
+  "author": [
+    {
+      "literal": "Borui Zhang"
+    },
+    {
+      "literal": "Bo Zhang"
+    },
+    {
+      "literal": "Bo Wang"
+    },
+    {
+      "literal": "Wenzhao Zheng"
+    },
+    {
+      "literal": "Yuhao Cheng"
+    },
+    {
+      "literal": "Liang Tang"
+    },
+    {
+      "literal": "Yiqiang Yan"
+    },
+    {
+      "literal": "Jie Zhou"
+    },
+    {
+      "literal": "Jiwen Lu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.06664",
+  "genre": "preprint",
+  "version": "1"
+}

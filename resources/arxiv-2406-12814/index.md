@@ -16,9 +16,16 @@ Bibliographic record for Dissecting Adversarial Robustness of Multimodal LM Agen
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-12814/record.json
+
 ## Authors
 
 Chen Henry Wu, Rishi Shah, Jing Yu Koh, Ruslan Salakhutdinov, Daniel Fried, Aditi Raghunathan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-12814/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-12814/citation.csl.json
 
 ## Recorded arXiv snapshot
 

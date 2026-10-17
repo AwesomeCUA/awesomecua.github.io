@@ -16,9 +16,16 @@ Bibliographic record for Re-Thinking Process Mining in the AI-Based Agents Era. 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2408-07720/record.json
+
 ## Authors
 
 Alessandro Berti, Mayssa Maatallah, Urszula Jessen, Michal Sroka, Sonia Ayachi Ghannouchi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2408-07720/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2408-07720/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Survey of research directions in GUI or computer-use agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-04482/record.json
+
 ## Authors
 
 Xueyu Hu, Tao Xiong, Biao Yi, Zishu Wei, Ruixuan Xiao, Yurun Chen, Jiasheng Ye, Meiling Tao, Xiangxin Zhou, Ziyu Zhao, Yuhuai Li, Shengze Xu, Shenzhi Wang, Xinchen Xu, Shuofei Qiao, Zhaokai Wang, Kun Kuang, Tieyong Zeng, Liang Wang, Jiwei Li, Yuchen Eleanor Jiang, Wangchunshu Zhou, Guoyin Wang, Keting Yin, Zhou Zhao, Hongxia Yang, Fan Wu, Shengyu Zhang, Fei Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-04482/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-04482/citation.csl.json
 
 ## Recorded arXiv snapshot
 

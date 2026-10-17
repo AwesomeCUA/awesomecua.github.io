@@ -16,9 +16,16 @@ Bibliographic record for Detect Anything via Next Point Prediction. Title, autho
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-12798/record.json
+
 ## Authors
 
 Qing Jiang, Junan Huo, Xingyu Chen, Yuda Xiong, Zhaoyang Zeng, Yihao Chen, Tianhe Ren, Junzhi Yu, Lei Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-12798/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-12798/citation.csl.json
 
 ## Recorded arXiv snapshot
 

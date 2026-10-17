@@ -16,9 +16,16 @@ Bibliographic record for ProCUA-SFT Technical Report. Title, authors and dates c
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-17321/record.json
+
 ## Authors
 
 Jaehun Jung, Ximing Lu, Brandon Cui, Muhammad Khalifa, Shaokun Zhang, Hao Zhang, Jin Xu, Amala Sanjay Deshmukh, Karan Sapra, Andrew Tao, Yejin Choi, Jan Kautz, Mingjie Liu, Yi Dong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-17321/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-17321/citation.csl.json
 
 ## Recorded arXiv snapshot
 

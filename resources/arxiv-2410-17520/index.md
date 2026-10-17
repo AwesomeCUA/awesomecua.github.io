@@ -16,9 +16,16 @@ Evaluates mobile agents on misuse, side effects, and indirect prompt-injection r
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-17520/record.json
+
 ## Authors
 
 Juyong Lee, Dongyoon Hahm, June Suk Choi, W. Bradley Knox, Kimin Lee
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-17520/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-17520/citation.csl.json
 
 ## Recorded arXiv snapshot
 

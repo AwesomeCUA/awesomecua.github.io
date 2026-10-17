@@ -16,9 +16,16 @@ Bibliographic record for See, Think, Act: Teaching Multimodal Agents to Effectiv
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-13615/record.json
+
 ## Authors
 
 Zongru Wu, Rui Mao, Zhiyuan Tian, Pengzhou Cheng, Tianjie Ju, Zheng Wu, Lingzhong Dong, Haiyue Sheng, Zhuosheng Zhang, Gongshen Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-13615/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-13615/citation.csl.json
 
 ## Recorded arXiv snapshot
 

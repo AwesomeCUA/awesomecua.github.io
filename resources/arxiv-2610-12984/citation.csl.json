@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2610.12984",
+  "citation-key": "arxiv_2610_12984",
+  "type": "article",
+  "title": "Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction",
+  "URL": "https://arxiv.org/abs/2610.12984v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.12984",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.12984",
+    "identifiers": {
+      "arxiv": "2610.12984"
+    },
+    "first_published_at": "2026-10-09",
+    "record_updated_at": "2026-10-09",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0e90bb713e7034a64821502eb6fc792fa91a5d1e420aff9ff658506d39269f03",
+      "submitted_at": "2026-10-09T04:32:02Z",
+      "updated_at": "2026-10-09T04:32:02Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.12984v1"
+    }
+  },
+  "note": "First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T04:32:02Z.",
+  "author": [
+    {
+      "literal": "Yuqi Huang"
+    },
+    {
+      "literal": "Hui Li"
+    },
+    {
+      "literal": "Yifei Cao"
+    },
+    {
+      "literal": "Zikun Cai"
+    },
+    {
+      "literal": "Tianci Xie"
+    },
+    {
+      "literal": "Yangfan Gao"
+    },
+    {
+      "literal": "Pinxue Guo"
+    },
+    {
+      "literal": "Chaoyun Zhang"
+    },
+    {
+      "literal": "Bingxuan Li"
+    },
+    {
+      "literal": "Rui Zheng"
+    },
+    {
+      "literal": "Hang Yan"
+    },
+    {
+      "literal": "Ning Liao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.12984",
+  "genre": "preprint",
+  "version": "1"
+}

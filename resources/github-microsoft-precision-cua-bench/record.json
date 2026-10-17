@@ -1,0 +1,75 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "metrics": [],
+    "task_count": null
+  },
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:40:52Z",
+      "role": "primary",
+      "sha256": "23d0dc8ea0a10c080cf8ae32121eade2785ae923a6b0d853d166c94c195e789b",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://github.com/microsoft/precision-cua-bench"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:41:59Z",
+      "role": "primary",
+      "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/microsoft/precision-cua-bench/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:microsoft/precision-cua-bench",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-16T06:40:52Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-16T06:41:59Z",
+      "url": "https://raw.githubusercontent.com/microsoft/precision-cua-bench/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/microsoft/precision-cua-bench"
+    }
+  ],
+  "name": "Precision CUA Bench",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Evaluation resources for pixel-precise cursor grounding in code editors.",
+  "topics": [
+    "evaluation",
+    "grounding"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/microsoft/precision-cua-bench"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2609.37176",
+  "citation-key": "arxiv_2609_37176",
+  "type": "article",
+  "title": "Absorbed in Inertia: Activation Analysis for Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2609.37176v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.37176",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.37176",
+    "identifiers": {
+      "arxiv": "2609.37176"
+    },
+    "first_published_at": "2026-09-29",
+    "record_updated_at": "2026-09-29",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "945184e8fc790979a1f7e466ef6b4e727ddd11c3f285be0371fa4dda42615f40",
+      "submitted_at": "2026-09-29T10:01:52Z",
+      "updated_at": "2026-09-29T10:01:52Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.37176v1"
+    }
+  },
+  "note": "First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T10:01:52Z.",
+  "author": [
+    {
+      "literal": "Giulio Segalini"
+    },
+    {
+      "literal": "Zhi Wen Soi"
+    },
+    {
+      "literal": "Jérémie Decouchant"
+    },
+    {
+      "literal": "Lydia Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.37176",
+  "genre": "preprint",
+  "version": "1"
+}

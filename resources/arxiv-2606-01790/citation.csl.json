@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2606.01790",
+  "citation-key": "arxiv_2606_01790",
+  "type": "article",
+  "title": "STaR-KV: Spatio-Temporal Adaptive Re-weighting for KV Cache Compression in GUI Vision-Language Models",
+  "URL": "https://arxiv.org/abs/2606.01790v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.01790",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.01790",
+    "identifiers": {
+      "arxiv": "2606.01790"
+    },
+    "first_published_at": "2026-06-01",
+    "record_updated_at": "2026-06-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "73364572c0f21976048c89cd7732a16c7a952b08986792d02681a5ad0288c3ca",
+      "submitted_at": "2026-06-01T07:10:00Z",
+      "updated_at": "2026-06-01T07:10:00Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.01790v1"
+    }
+  },
+  "note": "First published: 2026-06-01; Recorded arXiv version: v1; Recorded version updated: 2026-06-01T07:10:00Z.",
+  "author": [
+    {
+      "literal": "Yuhang Han"
+    },
+    {
+      "literal": "Wenzheng Yang"
+    },
+    {
+      "literal": "Yujie Chen"
+    },
+    {
+      "literal": "Xiangqi Jin"
+    },
+    {
+      "literal": "Yaojie Zhang"
+    },
+    {
+      "literal": "Siteng Huang"
+    },
+    {
+      "literal": "Linfeng Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.01790",
+  "genre": "preprint",
+  "version": "1"
+}

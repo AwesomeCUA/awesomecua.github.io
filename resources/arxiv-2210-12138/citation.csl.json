@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2210.12138",
+  "citation-key": "arxiv_2210_12138",
+  "type": "article",
+  "title": "A quantum algorithm for solving open system dynamics on quantum computers using noise",
+  "URL": "https://arxiv.org/abs/2210.12138v3",
+  "custom": {
+    "catalog_id": "arxiv:2210.12138",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2210.12138",
+    "identifiers": {
+      "arxiv": "2210.12138"
+    },
+    "first_published_at": "2022-10-21",
+    "record_updated_at": "2023-12-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0dc16e6d55eebd54b326ffe9bbdea69d7fd050a05c2f56151f500b5ef1d8ab7a",
+      "submitted_at": "2022-10-21T17:47:32Z",
+      "updated_at": "2023-12-11T14:39:31Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2210.12138v3"
+    }
+  },
+  "note": "First published: 2022-10-21; Recorded arXiv version: v3; Recorded version updated: 2023-12-11T14:39:31Z.",
+  "author": [
+    {
+      "literal": "Juha Leppäkangas"
+    },
+    {
+      "literal": "Nicolas Vogt"
+    },
+    {
+      "literal": "Keith R. Fratus"
+    },
+    {
+      "literal": "Kirsten Bark"
+    },
+    {
+      "literal": "Jesse A. Vaitkus"
+    },
+    {
+      "literal": "Pascal Stadler"
+    },
+    {
+      "literal": "Jan-Michael Reiner"
+    },
+    {
+      "literal": "Sebastian Zanker"
+    },
+    {
+      "literal": "Michael Marthaler"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2210.12138",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -16,9 +16,16 @@ Bibliographic record for GAIA: A Data Flywheel System for Training GUI Test-Time
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-18197/record.json
+
 ## Authors
 
 Shaokang Wang, Pei Fu, Ruoceng Zhang, Shaojie Zhang, Xiuwen Xi, Jiahui Yang, Bin Qin, Ying Huang, Zhenbo Luo, Jian Luan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-18197/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-18197/citation.csl.json
 
 ## Recorded arXiv snapshot
 

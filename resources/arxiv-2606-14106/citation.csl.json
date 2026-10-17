@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2606.14106",
+  "citation-key": "arxiv_2606_14106",
+  "type": "article",
+  "title": "Naive Visual Memory is Not Enough: A Failure-Mode Study of GUI Agents",
+  "URL": "https://arxiv.org/abs/2606.14106v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.14106",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.14106",
+    "identifiers": {
+      "arxiv": "2606.14106"
+    },
+    "first_published_at": "2026-06-12",
+    "record_updated_at": "2026-06-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1fb87da27071ab21519599b7d16359a38118aa358f620de94e66b15cad040828",
+      "submitted_at": "2026-06-12T04:39:01Z",
+      "updated_at": "2026-06-12T04:39:01Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.14106v1"
+    }
+  },
+  "note": "First published: 2026-06-12; Recorded arXiv version: v1; Recorded version updated: 2026-06-12T04:39:01Z.",
+  "author": [
+    {
+      "literal": "Seoyoung Choi"
+    },
+    {
+      "literal": "Minseok Ko"
+    },
+    {
+      "literal": "Hyunseok Lee"
+    },
+    {
+      "literal": "Kunwoong Kim"
+    },
+    {
+      "literal": "Woomin Song"
+    },
+    {
+      "literal": "Chanseok Jeon"
+    },
+    {
+      "literal": "Jinwoo Shin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.14106",
+  "genre": "preprint",
+  "version": "1"
+}

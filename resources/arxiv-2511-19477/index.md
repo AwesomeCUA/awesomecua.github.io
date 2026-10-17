@@ -16,9 +16,16 @@ Bibliographic record for Building Browser Agents: Architecture, Security, and Pr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-19477/record.json
+
 ## Authors
 
 Aram Vardanyan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-19477/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-19477/citation.csl.json
 
 ## Recorded arXiv snapshot
 

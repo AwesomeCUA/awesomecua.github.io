@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2410.07283",
+  "citation-key": "arxiv_2410_07283",
+  "type": "article",
+  "title": "Prompt Infection: LLM-to-LLM Prompt Injection within Multi-Agent Systems",
+  "URL": "https://arxiv.org/abs/2410.07283v1",
+  "custom": {
+    "catalog_id": "arxiv:2410.07283",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2410.07283",
+    "identifiers": {
+      "arxiv": "2410.07283"
+    },
+    "first_published_at": "2024-10-09",
+    "record_updated_at": "2024-10-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f2386773b2ca1d721d7b412d84898f7e37e3bb0c924d7ab237e37b2b5701562f",
+      "submitted_at": "2024-10-09T11:01:29Z",
+      "updated_at": "2024-10-09T11:01:29Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2410.07283v1"
+    }
+  },
+  "note": "First published: 2024-10-09; Recorded arXiv version: v1; Recorded version updated: 2024-10-09T11:01:29Z.",
+  "author": [
+    {
+      "literal": "Donghyun Lee"
+    },
+    {
+      "literal": "Mo Tiwari"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.07283",
+  "genre": "preprint",
+  "version": "1"
+}

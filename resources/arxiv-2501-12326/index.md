@@ -16,9 +16,16 @@ Studies a screenshot-driven native GUI model with unified actions, deliberate re
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-12326/record.json
+
 ## Authors
 
 Yujia Qin, Yining Ye, Junjie Fang, Haoming Wang, Shihao Liang, Shizuo Tian, Junda Zhang, Jiahao Li, Yunxin Li, Shijue Huang, Wanjun Zhong, Kuanye Li, Jiale Yang, Yu Miao, Woyu Lin, Longxiang Liu, Xu Jiang, Qianli Ma, Jingyu Li, Xiaojun Xiao, Kai Cai, Chuang Li, Yaowei Zheng, Chaolin Jin, Chen Li, Xiao Zhou, Minchao Wang, Haoli Chen, Zhaojian Li, Haihua Yang, Haifeng Liu, Feng Lin, Tao Peng, Xin Liu, Guang Shi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-12326/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-12326/citation.csl.json
 
 ## Recorded arXiv snapshot
 

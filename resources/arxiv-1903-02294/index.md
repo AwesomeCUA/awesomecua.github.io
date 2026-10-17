@@ -16,9 +16,16 @@ Bibliographic record for Energy-Efficient Edge-Facilitated Wireless Collaborativ
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1903-02294/record.json
+
 ## Authors
 
 Antoine Paris, Hamed Mirghasemi, Ivan Stupia, Luc Vandendorpe
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1903-02294/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1903-02294/citation.csl.json
 
 ## Recorded arXiv snapshot
 

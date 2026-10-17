@@ -16,9 +16,16 @@ Introduces synthetic CAD interaction videos, a model for learning interface acti
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-24838/record.json
+
 ## Authors
 
 Brandon Man, Ghadi Nehme, Md Ferdous Alam, Faez Ahmed
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-24838/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-24838/citation.csl.json
 
 ## Recorded arXiv snapshot
 

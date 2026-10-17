@@ -16,6 +16,8 @@ Windows agent framework for application and desktop automation.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-microsoft-ufo/record.json
+
 ## License declarations
 
 - code: not recorded

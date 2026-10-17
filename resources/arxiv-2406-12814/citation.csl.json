@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2406.12814",
+  "citation-key": "arxiv_2406_12814",
+  "type": "article",
+  "title": "Dissecting Adversarial Robustness of Multimodal LM Agents",
+  "URL": "https://arxiv.org/abs/2406.12814v3",
+  "custom": {
+    "catalog_id": "arxiv:2406.12814",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2406.12814",
+    "identifiers": {
+      "arxiv": "2406.12814"
+    },
+    "first_published_at": "2024-06-18",
+    "record_updated_at": "2025-02-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7cc1c1ac93f8e328d33accf7cdaa1d65487c4f7abec15234b9e596a501947550",
+      "submitted_at": "2024-06-18T17:32:48Z",
+      "updated_at": "2025-02-04T20:02:17Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2406.12814v3"
+    }
+  },
+  "note": "First published: 2024-06-18; Recorded arXiv version: v3; Recorded version updated: 2025-02-04T20:02:17Z.",
+  "author": [
+    {
+      "literal": "Chen Henry Wu"
+    },
+    {
+      "literal": "Rishi Shah"
+    },
+    {
+      "literal": "Jing Yu Koh"
+    },
+    {
+      "literal": "Ruslan Salakhutdinov"
+    },
+    {
+      "literal": "Daniel Fried"
+    },
+    {
+      "literal": "Aditi Raghunathan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.12814",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2610.17895",
+  "citation-key": "arxiv_2610_17895",
+  "type": "article",
+  "title": "Interaction-as-a-Judge",
+  "URL": "https://arxiv.org/abs/2610.17895v2",
+  "custom": {
+    "catalog_id": "arxiv:2610.17895",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.17895",
+    "identifiers": {
+      "arxiv": "2610.17895"
+    },
+    "first_published_at": "2026-10-13",
+    "record_updated_at": "2026-10-14",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "14d2128155d1540955e54c3bdf9010724f27cf2e101079650315602856c98efa",
+      "submitted_at": "2026-10-13T07:49:50Z",
+      "updated_at": "2026-10-14T06:37:47Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2610.17895v2"
+    }
+  },
+  "note": "First published: 2026-10-13; Recorded arXiv version: v2; Recorded version updated: 2026-10-14T06:37:47Z.",
+  "author": [
+    {
+      "literal": "Wayne Chi"
+    },
+    {
+      "literal": "I-Hung Hsu"
+    },
+    {
+      "literal": "Li Chen"
+    },
+    {
+      "literal": "Wei-Lin Chiang"
+    },
+    {
+      "literal": "Ion Stoica"
+    },
+    {
+      "literal": "Anastasios Nikolas Angelopoulos"
+    },
+    {
+      "literal": "Ameet Talwalkar"
+    },
+    {
+      "literal": "Chris Donahue"
+    },
+    {
+      "literal": "Cho-Jui Hsieh"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.17895",
+  "genre": "preprint",
+  "version": "2"
+}

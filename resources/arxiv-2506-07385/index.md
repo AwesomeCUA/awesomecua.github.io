@@ -16,9 +16,16 @@ Bibliographic record for GUIPilot: A Consistency-based Mobile GUI Testing Approa
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-07385/record.json
+
 ## Authors
 
 Ruofan Liu, Xiwen Teoh, Yun Lin, Guanjie Chen, Ruofei Ren, Denys Poshyvanyk, Jin Song Dong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-07385/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-07385/citation.csl.json
 
 ## Recorded arXiv snapshot
 

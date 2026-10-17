@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2610.20100",
+  "citation-key": "arxiv_2610_20100",
+  "type": "article",
+  "title": "Task-State Governance: A Virtual Machine for Verifiable and Recoverable GUI Agent Execution",
+  "URL": "https://arxiv.org/abs/2610.20100v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.20100",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.20100",
+    "identifiers": {
+      "arxiv": "2610.20100"
+    },
+    "first_published_at": "2026-10-14",
+    "record_updated_at": "2026-10-14",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "602f4eb7aacc05748b83b9c32b28439098005c77eafb7624804f820995521a79",
+      "submitted_at": "2026-10-14T12:35:59Z",
+      "updated_at": "2026-10-14T12:35:59Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.20100v1"
+    }
+  },
+  "note": "First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T12:35:59Z.",
+  "author": [
+    {
+      "literal": "Wenkui Yang"
+    },
+    {
+      "literal": "Yiming Hao"
+    },
+    {
+      "literal": "Kai Zhou"
+    },
+    {
+      "literal": "Chengyu Pu"
+    },
+    {
+      "literal": "Yuzhe Zhang"
+    },
+    {
+      "literal": "Jie Cao"
+    },
+    {
+      "literal": "Jin Huang"
+    },
+    {
+      "literal": "Shuai Ma"
+    },
+    {
+      "literal": "Feng Tian"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.20100",
+  "genre": "preprint",
+  "version": "1"
+}

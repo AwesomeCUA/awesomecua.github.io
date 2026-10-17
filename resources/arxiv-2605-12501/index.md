@@ -16,9 +16,16 @@ Bibliographic record for Covering Human Action Space for Computer Use: Data Synt
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-12501/record.json
+
 ## Authors
 
 Miaosen Zhang, Xiaohan Zhao, Zhihong Tan, Zhou Huoshen, Yijia Fan, Yifan Yang, Kai Qiu, Bei Liu, Justin Wagle, Chenzhong Yin, Mingxi Cheng, Ji Li, Qi Dai, Chong Luo, Xu Yang, Xin Geng, Baining Guo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-12501/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-12501/citation.csl.json
 
 ## Recorded arXiv snapshot
 

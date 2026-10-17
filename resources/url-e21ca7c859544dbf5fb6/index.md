@@ -16,6 +16,8 @@ A screen-parsing weight bundle containing icon-region detectors and an icon capt
 
 The manifest contains icon_detect/model.pt, icon_detect_v3/model.pt and icon_caption/model.safetensors. Licenses differ by folder: original YOLOv8 detector AGPL-3.0; YOLOv9-E detector and Florence-2 captioner MIT. The card’s top-level MIT metadata must not cover the entire bundle. Components remain one resource; no binaries were executed.
 
+- Record JSON: https://awesomecua.github.io/resources/url-e21ca7c859544dbf5fb6/record.json
+
 ## License declarations
 
 - code: not recorded

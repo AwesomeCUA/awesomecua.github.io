@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2305.11854",
+  "citation-key": "arxiv_2305_11854",
+  "type": "article",
+  "title": "Multimodal Web Navigation with Instruction-Finetuned Foundation Models",
+  "URL": "https://arxiv.org/abs/2305.11854v4",
+  "custom": {
+    "catalog_id": "arxiv:2305.11854",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2305.11854",
+    "identifiers": {
+      "arxiv": "2305.11854"
+    },
+    "first_published_at": "2023-05-19",
+    "record_updated_at": "2024-02-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ac0ea5a462890317ea29ade32c879d016181afbe5962e2d28cc175e251df41e6",
+      "submitted_at": "2023-05-19T17:44:34Z",
+      "updated_at": "2024-02-25T16:21:00Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2305.11854v4"
+    }
+  },
+  "note": "First published: 2023-05-19; Recorded arXiv version: v4; Recorded version updated: 2024-02-25T16:21:00Z.",
+  "author": [
+    {
+      "literal": "Hiroki Furuta"
+    },
+    {
+      "literal": "Kuang-Huei Lee"
+    },
+    {
+      "literal": "Ofir Nachum"
+    },
+    {
+      "literal": "Yutaka Matsuo"
+    },
+    {
+      "literal": "Aleksandra Faust"
+    },
+    {
+      "literal": "Shixiang Shane Gu"
+    },
+    {
+      "literal": "Izzeddin Gur"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2305.11854",
+  "genre": "preprint",
+  "version": "4"
+}

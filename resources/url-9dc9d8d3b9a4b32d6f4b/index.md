@@ -16,6 +16,8 @@ A Qwen2.5-VL-3B checkpoint released for R1-style visual grounding experiments, p
 
 Two public safetensors shards and model/tokenizer configuration are present. The card declares MIT. Its inference example loads the v1 model but names a different 0.1K processor checkpoint; that example was not executed, and compatibility is not asserted.
 
+- Record JSON: https://awesomecua.github.io/resources/url-9dc9d8d3b9a4b32d6f4b/record.json
+
 ## License declarations
 
 - code: not recorded

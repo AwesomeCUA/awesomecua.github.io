@@ -16,9 +16,16 @@ Bibliographic record for Minimal surface computation using a finite element meth
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1403-3535/record.json
+
 ## Authors
 
 Mirza Cenanovic, Peter Hansbo, Mats G. Larson
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1403-3535/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1403-3535/citation.csl.json
 
 ## Recorded arXiv snapshot
 

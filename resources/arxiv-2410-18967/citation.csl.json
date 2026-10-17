@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2410.18967",
+  "citation-key": "arxiv_2410_18967",
+  "type": "article",
+  "title": "Ferret-UI 2: Mastering Universal User Interface Understanding Across Platforms",
+  "URL": "https://arxiv.org/abs/2410.18967v2",
+  "custom": {
+    "catalog_id": "arxiv:2410.18967",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.18967",
+    "identifiers": {
+      "arxiv": "2410.18967"
+    },
+    "first_published_at": "2024-10-24",
+    "record_updated_at": "2025-02-28",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "299b7c631468e259ac9d25a1c4ebf507be57b7ee478c611d0a2597b588f6c4c8",
+      "submitted_at": "2024-10-24T17:58:31Z",
+      "updated_at": "2025-02-28T00:29:14Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2410.18967v2"
+    }
+  },
+  "note": "First published: 2024-10-24; Recorded arXiv version: v2; Recorded version updated: 2025-02-28T00:29:14Z.",
+  "author": [
+    {
+      "literal": "Zhangheng Li"
+    },
+    {
+      "literal": "Keen You"
+    },
+    {
+      "literal": "Haotian Zhang"
+    },
+    {
+      "literal": "Di Feng"
+    },
+    {
+      "literal": "Harsh Agrawal"
+    },
+    {
+      "literal": "Xiujun Li"
+    },
+    {
+      "literal": "Mohana Prasad Sathya Moorthy"
+    },
+    {
+      "literal": "Jeff Nichols"
+    },
+    {
+      "literal": "Yinfei Yang"
+    },
+    {
+      "literal": "Zhe Gan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.18967",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:1802.04766",
+  "citation-key": "arxiv_1802_04766",
+  "type": "article",
+  "title": "SNC: A Cloud Service Platform for Symbolic-Numeric Computation using Just-In-Time Compilation",
+  "URL": "https://arxiv.org/abs/1802.04766v1",
+  "custom": {
+    "catalog_id": "arxiv:1802.04766",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1802.04766",
+    "identifiers": {
+      "arxiv": "1802.04766"
+    },
+    "first_published_at": "2018-02-09",
+    "record_updated_at": "2018-02-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "60cfaccc87a976654d30fc98aac27038a5f1c1c63a55b907f7c9bf3c257f79ca",
+      "submitted_at": "2018-02-09T20:20:14Z",
+      "updated_at": "2018-02-09T20:20:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1802.04766v1"
+    }
+  },
+  "note": "First published: 2018-02-09; Recorded arXiv version: v1; Recorded version updated: 2018-02-09T20:20:14Z.",
+  "author": [
+    {
+      "literal": "Peng Zhang"
+    },
+    {
+      "literal": "Yueming Liu"
+    },
+    {
+      "literal": "Meikang Qiu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        2,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1802.04766",
+  "genre": "preprint",
+  "version": "1"
+}

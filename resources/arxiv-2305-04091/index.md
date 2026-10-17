@@ -16,9 +16,16 @@ Bibliographic record for Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2305-04091/record.json
+
 ## Authors
 
 Lei Wang, Wanyu Xu, Yihuai Lan, Zhiqiang Hu, Yunshi Lan, Roy Ka-Wei Lee, Ee-Peng Lim
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2305-04091/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-04091/citation.csl.json
 
 ## Recorded arXiv snapshot
 

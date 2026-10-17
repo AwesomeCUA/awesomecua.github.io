@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2307.13854",
+  "citation-key": "arxiv_2307_13854",
+  "type": "article",
+  "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+  "URL": "https://arxiv.org/abs/2307.13854v4",
+  "custom": {
+    "catalog_id": "arxiv:2307.13854",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2307.13854",
+    "identifiers": {
+      "arxiv": "2307.13854"
+    },
+    "first_published_at": "2023-07-25",
+    "record_updated_at": "2024-04-16",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0e9eca0165573ba53b663acbb1c7962fd2d64bc6633f10397f9cad229772a363",
+      "submitted_at": "2023-07-25T22:59:32Z",
+      "updated_at": "2024-04-16T15:13:18Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2307.13854v4"
+    }
+  },
+  "note": "First published: 2023-07-25; Recorded arXiv version: v4; Recorded version updated: 2024-04-16T15:13:18Z.",
+  "author": [
+    {
+      "literal": "Shuyan Zhou"
+    },
+    {
+      "literal": "Frank F. Xu"
+    },
+    {
+      "literal": "Hao Zhu"
+    },
+    {
+      "literal": "Xuhui Zhou"
+    },
+    {
+      "literal": "Robert Lo"
+    },
+    {
+      "literal": "Abishek Sridhar"
+    },
+    {
+      "literal": "Xianyi Cheng"
+    },
+    {
+      "literal": "Tianyue Ou"
+    },
+    {
+      "literal": "Yonatan Bisk"
+    },
+    {
+      "literal": "Daniel Fried"
+    },
+    {
+      "literal": "Uri Alon"
+    },
+    {
+      "literal": "Graham Neubig"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        7,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2307.13854",
+  "genre": "preprint",
+  "version": "4"
+}

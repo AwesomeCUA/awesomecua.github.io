@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2310.18331",
+  "citation-key": "arxiv_2310_18331",
+  "type": "article",
+  "title": "AllTogether: Investigating the Efficacy of Spliced Prompt for Web Navigation using Large Language Models",
+  "URL": "https://arxiv.org/abs/2310.18331v2",
+  "custom": {
+    "catalog_id": "arxiv:2310.18331",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2310.18331",
+    "identifiers": {
+      "arxiv": "2310.18331"
+    },
+    "first_published_at": "2023-10-20",
+    "record_updated_at": "2023-10-31",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c72eab40cdc28981cf83a753d88f5181b5441d82cd568265457fef96d75b36b6",
+      "submitted_at": "2023-10-20T11:10:14Z",
+      "updated_at": "2023-10-31T06:25:59Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2310.18331v2"
+    }
+  },
+  "note": "First published: 2023-10-20; Recorded arXiv version: v2; Recorded version updated: 2023-10-31T06:25:59Z.",
+  "author": [
+    {
+      "literal": "Jiarun Liu"
+    },
+    {
+      "literal": "Wentao Hu"
+    },
+    {
+      "literal": "Chunhong Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2310.18331",
+  "genre": "preprint",
+  "version": "2"
+}

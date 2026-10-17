@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2609.02149",
+  "citation-key": "arxiv_2609_02149",
+  "type": "article",
+  "title": "OmegaUse-SOP: SOP Engineering for Professional Computer Use from Human Demonstrations",
+  "URL": "https://arxiv.org/abs/2609.02149v3",
+  "custom": {
+    "catalog_id": "arxiv:2609.02149",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.02149",
+    "identifiers": {
+      "arxiv": "2609.02149"
+    },
+    "first_published_at": "2026-09-02",
+    "record_updated_at": "2026-09-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "52849171f507e126093411ba81dc580d460b84f831358b08bd57cb54ca41b665",
+      "submitted_at": "2026-09-02T06:03:18Z",
+      "updated_at": "2026-09-10T15:52:42Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2609.02149v3"
+    }
+  },
+  "note": "First published: 2026-09-02; Recorded arXiv version: v3; Recorded version updated: 2026-09-10T15:52:42Z.",
+  "author": [
+    {
+      "literal": "Yixiong Xiao"
+    },
+    {
+      "literal": "Lang An"
+    },
+    {
+      "literal": "Hucheng Yang"
+    },
+    {
+      "literal": "Pinxue Ma"
+    },
+    {
+      "literal": "Yongquan Chen"
+    },
+    {
+      "literal": "Jingjia Cao"
+    },
+    {
+      "literal": "Yusai Zhao"
+    },
+    {
+      "literal": "Ting Wang"
+    },
+    {
+      "literal": "Ting Liu"
+    },
+    {
+      "literal": "Siqi Bao"
+    },
+    {
+      "literal": "Jingbo Zhou"
+    },
+    {
+      "literal": "Hua Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.02149",
+  "genre": "preprint",
+  "version": "3"
+}

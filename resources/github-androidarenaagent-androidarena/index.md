@@ -16,6 +16,8 @@ Android environment for evaluating language-model-driven agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-androidarenaagent-androidarena/record.json
+
 ## License declarations
 
 - code: not recorded

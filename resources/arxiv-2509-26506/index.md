@@ -16,9 +16,16 @@ SCUBA evaluates enterprise UI navigation and CRM workflows with 300 task instanc
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-26506/record.json
+
 ## Authors
 
 Yutong Dai, Krithika Ramakrishnan, Jing Gu, Matthew Fernandez, Yanqi Luo, Viraj Prabhu, Zhenyu Hu, Silvio Savarese, Caiming Xiong, Zeyuan Chen, Ran Xu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-26506/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-26506/citation.csl.json
 
 ## Recorded arXiv snapshot
 

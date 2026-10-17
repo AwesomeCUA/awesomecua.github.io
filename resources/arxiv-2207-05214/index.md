@@ -16,9 +16,16 @@ Bibliographic record for Shapley Computations Using Surrogate Model-Based Trees.
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2207-05214/record.json
+
 ## Authors
 
 Zhipu Zhou, Jie Chen, Linwei Hu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2207-05214/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2207-05214/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for OpenECAD: An Efficient Visual Language Model for Editab
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-09913/record.json
+
 ## Authors
 
 Zhe Yuan, Jianqi Shi, Yanhong Huang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-09913/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-09913/citation.csl.json
 
 ## Recorded arXiv snapshot
 

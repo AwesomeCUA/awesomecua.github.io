@@ -16,9 +16,16 @@ Bibliographic record for An Empirical Study of Scaling Instruct-Tuned Large Mult
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2309-09958/record.json
+
 ## Authors
 
 Yadong Lu, Chunyuan Li, Haotian Liu, Jianwei Yang, Jianfeng Gao, Yelong Shen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2309-09958/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2309-09958/citation.csl.json
 
 ## Recorded arXiv snapshot
 

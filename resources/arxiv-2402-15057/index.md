@@ -16,9 +16,16 @@ MT-Mind2Web evaluates web navigation through sequences of conversational user in
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-15057/record.json
+
 ## Authors
 
 Yang Deng, Xuan Zhang, Wenxuan Zhang, Yifei Yuan, See-Kiong Ng, Tat-Seng Chua
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-15057/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-15057/citation.csl.json
 
 ## Recorded arXiv snapshot
 

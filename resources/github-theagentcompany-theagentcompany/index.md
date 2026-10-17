@@ -16,6 +16,8 @@ Self-contained workplace environment for evaluating agents on professional tasks
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-theagentcompany-theagentcompany/record.json
+
 ## Structured profile
 
 - actions: web browsing, code execution, coworker communication

@@ -16,9 +16,16 @@ Defines a test-time adaptation setting with one counted attempt per arriving GUI
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-34321/record.json
+
 ## Authors
 
 Ziqiang Wang, Li Gu, Zhixiang Chi, Linlian Jiang, Zihuan Jiang, Linqiang Guo, Siobhan Reid, Zhi Liu, Yang Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-34321/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-34321/citation.csl.json
 
 ## Recorded arXiv snapshot
 

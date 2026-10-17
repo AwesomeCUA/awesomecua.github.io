@@ -16,9 +16,16 @@ Uses separate retrieval systems for high-level mobile-task planning and precise 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-12254/record.json
+
 ## Authors
 
 Yuxiang Zhou, Jichang Li, Yanhao Zhang, Haonan Lu, Guanbin Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-12254/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-12254/citation.csl.json
 
 ## Recorded arXiv snapshot
 

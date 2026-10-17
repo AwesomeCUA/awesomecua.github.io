@@ -16,9 +16,16 @@ Selects critical steps from expert interaction trajectories for targeted agent f
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced. The full paper was also inspected to confirm WebShop evaluation; the broader agent-learning method is classified as adjacent.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-02197/record.json
+
 ## Authors
 
 Zhixun Chen, Ming Li, Yuxuan Huang, Yali Du, Meng Fang, Tianyi Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-02197/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-02197/citation.csl.json
 
 ## Recorded arXiv snapshot
 

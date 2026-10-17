@@ -16,9 +16,16 @@ An anonymization framework replaces sensitive screen content and instructions wi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-10139/record.json
+
 ## Authors
 
 Lepeng Zhao, Zhenhua Zou, Shuo Li, Zhuotao Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-10139/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-10139/citation.csl.json
 
 ## Recorded arXiv snapshot
 

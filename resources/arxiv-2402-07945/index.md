@@ -16,9 +16,16 @@ Combines a screenshot-and-action dataset with a planning, acting, and reflecting
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-07945/record.json
+
 ## Authors
 
 Runliang Niu, Jindong Li, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-07945/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-07945/citation.csl.json
 
 ## Recorded arXiv snapshot
 

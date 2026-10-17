@@ -16,9 +16,16 @@ Bibliographic record for ReInAgent: A Context-Aware GUI Agent Enabling Human-in-
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-07988/record.json
+
 ## Authors
 
 Haitao Jia, Ming He, Zimo Yin, Likang Wu, Jianping Fan, Jitao Sang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-07988/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-07988/citation.csl.json
 
 ## Recorded arXiv snapshot
 

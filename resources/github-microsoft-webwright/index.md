@@ -16,6 +16,8 @@ Agent framework for browser and desktop tasks using automation code.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-microsoft-webwright/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/microsoft/Webwright/HEAD/LICENSE

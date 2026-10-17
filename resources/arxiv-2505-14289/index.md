@@ -16,9 +16,16 @@ Bibliographic record for EVA: Evolving Semantic Adversaries for Red-Teaming GUI 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-14289/record.json
+
 ## Authors
 
 Yijie Lu, Manman Zhao, Tianjie Ju, Zihe Yan, Xinbei Ma, Yuan Guo, Daizong Ding, Gongshen Liu, Zhuosheng Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-14289/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-14289/citation.csl.json
 
 ## Recorded arXiv snapshot
 

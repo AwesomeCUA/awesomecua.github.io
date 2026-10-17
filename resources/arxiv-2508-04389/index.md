@@ -16,9 +16,16 @@ Bibliographic record for GuirlVG: Incentivize GUI Visual Grounding via Empirical
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-04389/record.json
+
 ## Authors
 
 Weitai Kang, Bin Lei, Gaowen Liu, Caiwen Ding, Yan Yan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-04389/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-04389/citation.csl.json
 
 ## Recorded arXiv snapshot
 

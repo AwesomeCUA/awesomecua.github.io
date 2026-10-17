@@ -16,9 +16,16 @@ Bibliographic record for Multi-Agent Computer Use. Title, authors and dates chec
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-01533/record.json
+
 ## Authors
 
 Jing Yu Koh, Ruslan Salakhutdinov, Daniel Fried
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-01533/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-01533/citation.csl.json
 
 ## Recorded arXiv snapshot
 

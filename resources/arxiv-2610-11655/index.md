@@ -16,9 +16,16 @@ Bibliographic record for Harness Evolution Hits a Ceiling: When Weight Training 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-11655/record.json
+
 ## Authors
 
 Yuan Tian, Bing Hu, Hao Wang, Binghang Lu, Fang Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-11655/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-11655/citation.csl.json
 
 ## Recorded arXiv snapshot
 

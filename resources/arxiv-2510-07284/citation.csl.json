@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2510.07284",
+  "citation-key": "arxiv_2510_07284",
+  "type": "article",
+  "title": "Online Rubrics Elicitation from Pairwise Comparisons",
+  "URL": "https://arxiv.org/abs/2510.07284v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.07284",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.07284",
+    "identifiers": {
+      "arxiv": "2510.07284"
+    },
+    "first_published_at": "2025-10-08",
+    "record_updated_at": "2025-10-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "997c504039e0b8d571509252da16678c361533365333e3a99b035b6e97fe3983",
+      "submitted_at": "2025-10-08T17:44:59Z",
+      "updated_at": "2025-10-09T18:26:39Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.07284v2"
+    }
+  },
+  "note": "First published: 2025-10-08; Recorded arXiv version: v2; Recorded version updated: 2025-10-09T18:26:39Z.",
+  "author": [
+    {
+      "literal": "MohammadHossein Rezaei"
+    },
+    {
+      "literal": "Robert Vacareanu"
+    },
+    {
+      "literal": "Zihao Wang"
+    },
+    {
+      "literal": "Clinton Wang"
+    },
+    {
+      "literal": "Bing Liu"
+    },
+    {
+      "literal": "Yunzhong He"
+    },
+    {
+      "literal": "Afra Feyza Akyürek"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.07284",
+  "genre": "preprint",
+  "version": "2"
+}

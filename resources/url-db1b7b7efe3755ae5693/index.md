@@ -16,6 +16,8 @@ A Qwen-2.5-7B-Instruct checkpoint fine-tuned on Go-Browse WebArena trajectories 
 
 Seven public safetensors shards and model/tokenizer files are present. The card links the official code and paper but declares no weight license. The code repository’s MIT license is not inherited by this checkpoint, and the separate NNetNav-trained comparison model is not treated as an alias.
 
+- Record JSON: https://awesomecua.github.io/resources/url-db1b7b7efe3755ae5693/record.json
+
 ## License declarations
 
 - code: not recorded

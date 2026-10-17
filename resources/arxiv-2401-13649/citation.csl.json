@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2401.13649",
+  "citation-key": "arxiv_2401_13649",
+  "type": "article",
+  "title": "VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks",
+  "URL": "https://arxiv.org/abs/2401.13649v2",
+  "custom": {
+    "catalog_id": "arxiv:2401.13649",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2401.13649",
+    "identifiers": {
+      "arxiv": "2401.13649"
+    },
+    "first_published_at": "2024-01-24",
+    "record_updated_at": "2024-06-06",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3a705b87b43464120ebb01b28b0f6a9e31fad68f3d463c88354f2005dab940c3",
+      "submitted_at": "2024-01-24T18:35:21Z",
+      "updated_at": "2024-06-06T02:01:09Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2401.13649v2"
+    }
+  },
+  "note": "First published: 2024-01-24; Recorded arXiv version: v2; Recorded version updated: 2024-06-06T02:01:09Z.",
+  "author": [
+    {
+      "literal": "Jing Yu Koh"
+    },
+    {
+      "literal": "Robert Lo"
+    },
+    {
+      "literal": "Lawrence Jang"
+    },
+    {
+      "literal": "Vikram Duvvur"
+    },
+    {
+      "literal": "Ming Chong Lim"
+    },
+    {
+      "literal": "Po-Yu Huang"
+    },
+    {
+      "literal": "Graham Neubig"
+    },
+    {
+      "literal": "Shuyan Zhou"
+    },
+    {
+      "literal": "Ruslan Salakhutdinov"
+    },
+    {
+      "literal": "Daniel Fried"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2401.13649",
+  "genre": "preprint",
+  "version": "2"
+}

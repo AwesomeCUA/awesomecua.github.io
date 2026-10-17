@@ -16,9 +16,16 @@ Bibliographic record for DigiQ: A Scalable Digital Controller for Quantum Comput
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2202-01407/record.json
+
 ## Authors
 
 Mohammad Reza Jokar, Richard Rines, Ghasem Pasandi, Haolin Cong, Adam Holmes, Yunong Shi, Massoud Pedram, Frederic T. Chong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2202-01407/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2202-01407/citation.csl.json
 
 ## Recorded arXiv snapshot
 

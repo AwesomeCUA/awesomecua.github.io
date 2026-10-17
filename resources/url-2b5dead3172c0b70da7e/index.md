@@ -16,6 +16,8 @@ CAD screen recordings paired with action logs and target model images for studyi
 
 Dataverse reports a RELEASED version 5.0 with 261 unrestricted files and a CC0-1.0 dataset declaration. Archive count is not a video or trajectory count. The linked repository documents the action and video formats. No archives or training samples were downloaded; operating-system coverage is unspecified.
 
+- Record JSON: https://awesomecua.github.io/resources/url-2b5dead3172c0b70da7e/record.json
+
 ## Structured profile
 
 - formats: ZIP, MP4, JSON, PNG

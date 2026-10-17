@@ -16,9 +16,16 @@ Introduces SpiritSight and GUI-Lasagne data, combining multilevel GUI annotation
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-03196/record.json
+
 ## Authors
 
 Zhiyuan Huang, Ziming Cheng, Junting Pan, Zhaohui Hou, Mingjie Zhan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-03196/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-03196/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for PROV-AGENT: Unified Provenance for Tracking AI Agent In
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-02866/record.json
+
 ## Authors
 
 Renan Souza, Amal Gueroudji, Stephen DeWitt, Daniel Rosendo, Tirthankar Ghosal, Robert Ross, Prasanna Balaprakash, Rafael Ferreira da Silva
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-02866/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-02866/citation.csl.json
 
 ## Recorded arXiv snapshot
 

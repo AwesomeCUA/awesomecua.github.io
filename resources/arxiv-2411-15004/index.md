@@ -16,9 +16,16 @@ Studies fine-tuning open language models on production web-workflow traces, incl
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-15004/record.json
+
 ## Authors
 
 Junhong Shen, Atishay Jain, Zedian Xiao, Ishan Amlekar, Mouad Hadji, Aaron Podolny, Ameet Talwalkar
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-15004/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-15004/citation.csl.json
 
 ## Recorded arXiv snapshot
 

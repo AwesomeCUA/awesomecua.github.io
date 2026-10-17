@@ -16,9 +16,16 @@ Bibliographic record for [CLS] Token Tells Everything Needed for Training-free E
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-05819/record.json
+
 ## Authors
 
 Ao Wang, Fengyuan Sun, Hui Chen, Zijia Lin, Jungong Han, Guiguang Ding
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-05819/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-05819/citation.csl.json
 
 ## Recorded arXiv snapshot
 

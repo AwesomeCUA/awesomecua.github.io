@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2509.22830",
+  "citation-key": "arxiv_2509_22830",
+  "type": "article",
+  "title": "ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents",
+  "URL": "https://arxiv.org/abs/2509.22830v3",
+  "custom": {
+    "catalog_id": "arxiv:2509.22830",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.22830",
+    "identifiers": {
+      "arxiv": "2509.22830"
+    },
+    "first_published_at": "2025-09-26",
+    "record_updated_at": "2026-04-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "32e4fbedf2d835af39dc005f22e530a6fcde2a5980c3f0eed28b34e7b974a6bd",
+      "submitted_at": "2025-09-26T18:38:07Z",
+      "updated_at": "2026-04-13T15:36:16Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2509.22830v3"
+    }
+  },
+  "note": "First published: 2025-09-26; Recorded arXiv version: v3; Recorded version updated: 2026-04-13T15:36:16Z.",
+  "author": [
+    {
+      "literal": "Hwan Chang"
+    },
+    {
+      "literal": "Yonghyun Jun"
+    },
+    {
+      "literal": "Hwanhee Lee"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.22830",
+  "genre": "preprint",
+  "version": "3"
+}

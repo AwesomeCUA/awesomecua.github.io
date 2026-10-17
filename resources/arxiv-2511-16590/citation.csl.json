@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2511.16590",
+  "citation-key": "arxiv_2511_16590",
+  "type": "article",
+  "title": "D-GARA: A Dynamic Benchmarking Framework for GUI Agent Robustness in Real-World Anomalies",
+  "URL": "https://arxiv.org/abs/2511.16590v1",
+  "custom": {
+    "catalog_id": "arxiv:2511.16590",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.16590",
+    "identifiers": {
+      "arxiv": "2511.16590"
+    },
+    "first_published_at": "2025-11-20",
+    "record_updated_at": "2025-11-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1679f7b56c7b60f92195e488c887114bcdcce7975a80fafbf2572c2b1f01ce0b",
+      "submitted_at": "2025-11-20T17:43:46Z",
+      "updated_at": "2025-11-20T17:43:46Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2511.16590v1"
+    }
+  },
+  "note": "First published: 2025-11-20; Recorded arXiv version: v1; Recorded version updated: 2025-11-20T17:43:46Z.",
+  "author": [
+    {
+      "literal": "Sen Chen"
+    },
+    {
+      "literal": "Tong Zhao"
+    },
+    {
+      "literal": "Yi Bin"
+    },
+    {
+      "literal": "Fei Ma"
+    },
+    {
+      "literal": "Wenqi Shao"
+    },
+    {
+      "literal": "Zheng Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.16590",
+  "genre": "preprint",
+  "version": "1"
+}

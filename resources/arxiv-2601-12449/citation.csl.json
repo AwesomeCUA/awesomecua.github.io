@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2601.12449",
+  "citation-key": "arxiv_2601_12449",
+  "type": "article",
+  "title": "AgenTRIM: Tool Risk Mitigation for Agentic AI",
+  "URL": "https://arxiv.org/abs/2601.12449v2",
+  "custom": {
+    "catalog_id": "arxiv:2601.12449",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.12449",
+    "identifiers": {
+      "arxiv": "2601.12449"
+    },
+    "first_published_at": "2026-01-18",
+    "record_updated_at": "2026-08-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b4c876f51d4450e5fae0a3b4df1e502ee5d1918e0c0b542b6112226986e44480",
+      "submitted_at": "2026-01-18T15:10:18Z",
+      "updated_at": "2026-08-30T13:37:24Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2601.12449v2"
+    }
+  },
+  "note": "First published: 2026-01-18; Recorded arXiv version: v2; Recorded version updated: 2026-08-30T13:37:24Z.",
+  "author": [
+    {
+      "literal": "Roy Betser"
+    },
+    {
+      "literal": "Amit Giloni"
+    },
+    {
+      "literal": "Shamik Bose"
+    },
+    {
+      "literal": "Sindhu Padakandla"
+    },
+    {
+      "literal": "Chiara Picardi"
+    },
+    {
+      "literal": "Lidor Erez"
+    },
+    {
+      "literal": "Roman Vainshtein"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.12449",
+  "genre": "preprint",
+  "version": "2"
+}

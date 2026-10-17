@@ -16,9 +16,16 @@ Bibliographic record for VC-Agent: An Interactive Agent for Customized Video Dat
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-21291/record.json
+
 ## Authors
 
 Yidan Zhang, Mutian Xu, Yiming Hao, Kun Zhou, Jiahao Chang, Xiaoqiang Liu, Pengfei Wan, Hongbo Fu, Xiaoguang Han
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-21291/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-21291/citation.csl.json
 
 ## Recorded arXiv snapshot
 

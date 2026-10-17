@@ -16,9 +16,16 @@ The Self-Evolution Agent combines automatic generation of verifiable computer-us
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-04037/record.json
+
 ## Authors
 
 Yuhao Cheng, Liang Tang, Shuxian Li, Yukang Huo, Tiaonan Duan, Kaer Huang, Yanzhe Jing, Yiqiang Yan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-04037/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-04037/citation.csl.json
 
 ## Recorded arXiv snapshot
 

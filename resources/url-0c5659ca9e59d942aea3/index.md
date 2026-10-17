@@ -16,6 +16,8 @@ The published GUI-Lasagne training-data collection used for SpiritSight, distrib
 
 Public archive shards are present. The dataset card declares Apache-2.0; it does not resolve rights in third-party interface content. The short card supplies no reliable sample count or explicit train/test partition, so these remain unspecified. The dataset card and archive inventory do not establish its platform distribution; the associated model's platform coverage is not inherited. An associated SpiritSight model card still describes dataset release as forthcoming; the independent dataset card and public archive manifest establish this release's availability.
 
+- Record JSON: https://awesomecua.github.io/resources/url-0c5659ca9e59d942aea3/record.json
+
 ## License declarations
 
 - code: not recorded

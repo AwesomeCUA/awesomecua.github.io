@@ -16,9 +16,16 @@ Bibliographic record for VoCo-LLaMA: Towards Vision Compression with Large Langu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-12275/record.json
+
 ## Authors
 
 Xubing Ye, Yukang Gan, Xiaoke Huang, Yixiao Ge, Yansong Tang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-12275/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-12275/citation.csl.json
 
 ## Recorded arXiv snapshot
 

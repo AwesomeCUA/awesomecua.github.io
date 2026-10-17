@@ -16,9 +16,16 @@ Introduces a mobile GUI model using hybrid visual encoders, mixture-of-experts e
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-04346/record.json
+
 ## Authors
 
 Songqin Nong, Jiali Zhu, Rui Wu, Jiongchao Jin, Shuo Shan, Xiutian Huang, Wenhao Xu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-04346/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-04346/citation.csl.json
 
 ## Recorded arXiv snapshot
 

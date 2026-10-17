@@ -16,9 +16,16 @@ Bibliographic record for ClawBench: Can AI Agents Complete Everyday Online Tasks
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-08523/record.json
+
 ## Authors
 
 Yuxuan Zhang, Yubo Wang, Yipeng Zhu, Penghui Du, Junwen Miao, Xuan Lu, Zhuofeng Li, Xingwei Qu, Zhengkang Guo, Yuanzhe Shen, Dingjie Song, Han Zhou, Tuney Zheng, Xian Wu, Hao Yu, Songcheng Cai, Yi Lu, Yunzhuo Hao, Minyi Lei, Liang Chen, Kai Zou, Huifeng Yin, Wendong Xu, Dongfu Jiang, Ping Nie, Jiaheng Liu, Wenhu Chen, Kelsey R. Allen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-08523/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-08523/citation.csl.json
 
 ## Recorded arXiv snapshot
 

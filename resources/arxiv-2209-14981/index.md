@@ -16,9 +16,16 @@ Bibliographic record for Stop Wasting My Time! Saving Days of ImageNet and BERT 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2209-14981/record.json
+
 ## Authors
 
 Jean Kaddour
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2209-14981/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2209-14981/citation.csl.json
 
 ## Recorded arXiv snapshot
 

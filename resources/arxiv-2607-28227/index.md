@@ -16,9 +16,16 @@ Describes a foundation GUI agent with combined GUI and command-line actions, lar
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-28227/record.json
+
 ## Authors
 
 Hanzhang Zhou, Panrong Tong, Xu Zhang, Quyu Kong, Chenglin Cai, Tianyu Xia, Gongjie Zhang, Jianan Zhang, Long Li, Long Chen, Lei Wang, Gaole Dai, Pengxiang Li, Liangyu Chen, Yue Wang, Steven Hoi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-28227/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-28227/citation.csl.json
 
 ## Recorded arXiv snapshot
 

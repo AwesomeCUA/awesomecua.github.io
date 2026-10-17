@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2402.04615",
+  "citation-key": "arxiv_2402_04615",
+  "type": "article",
+  "title": "ScreenAI: A Vision-Language Model for UI and Infographics Understanding",
+  "URL": "https://arxiv.org/abs/2402.04615v3",
+  "custom": {
+    "catalog_id": "arxiv:2402.04615",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2402.04615",
+    "identifiers": {
+      "arxiv": "2402.04615"
+    },
+    "first_published_at": "2024-02-07",
+    "record_updated_at": "2024-07-04",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b293ab33fe0f3607eccc2b99cbf06fb459792444433a4179bb65e081f33e426c",
+      "submitted_at": "2024-02-07T06:42:33Z",
+      "updated_at": "2024-07-04T07:08:15Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2402.04615v3"
+    }
+  },
+  "note": "First published: 2024-02-07; Recorded arXiv version: v3; Recorded version updated: 2024-07-04T07:08:15Z.",
+  "author": [
+    {
+      "literal": "Gilles Baechler"
+    },
+    {
+      "literal": "Srinivas Sunkara"
+    },
+    {
+      "literal": "Maria Wang"
+    },
+    {
+      "literal": "Fedir Zubach"
+    },
+    {
+      "literal": "Hassan Mansoor"
+    },
+    {
+      "literal": "Vincent Etter"
+    },
+    {
+      "literal": "Victor Cărbune"
+    },
+    {
+      "literal": "Jason Lin"
+    },
+    {
+      "literal": "Jindong Chen"
+    },
+    {
+      "literal": "Abhanshu Sharma"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.04615",
+  "genre": "preprint",
+  "version": "3"
+}

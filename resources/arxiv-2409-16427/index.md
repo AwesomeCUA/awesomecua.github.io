@@ -16,9 +16,16 @@ Bibliographic record for HAICOSYSTEM: An Ecosystem for Sandboxing Safety Risks i
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-16427/record.json
+
 ## Authors
 
 Xuhui Zhou, Hyunwoo Kim, Faeze Brahman, Liwei Jiang, Hao Zhu, Ximing Lu, Frank Xu, Bill Yuchen Lin, Yejin Choi, Niloofar Mireshghallah, Ronan Le Bras, Maarten Sap
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-16427/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-16427/citation.csl.json
 
 ## Recorded arXiv snapshot
 

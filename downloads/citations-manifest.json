@@ -1,0 +1,65 @@
+{
+  "bibtex_compatibility": "UTF-8 literal names; non-ASCII rendering requires a Unicode-capable bibliography/TeX toolchain. Older styles may ignore url, doi, eprint, and archivePrefix.",
+  "catalog_sha256": "726be85123dd7b5c2f44ddcf0e56f38b45756e407acc1438b69786ee7bf79882",
+  "citation_policy": "Recorded source versions and full literal author names; unknown venues and dates are omitted.",
+  "date_policy": "issued/year use first published_at only; version updates remain separate in note/custom.",
+  "encoding": "UTF-8",
+  "exports": [
+    {
+      "bytes": 410938,
+      "file": "citations.bib",
+      "format": "bibtex",
+      "includes_metadata_only": false,
+      "records": 615,
+      "sha256": "dd9d5a548c652c2f3a729ddec5859daadfea0d7b97b2572e2ab20dec91ce28a2"
+    },
+    {
+      "bytes": 1106922,
+      "file": "citations.csl.json",
+      "format": "csl-json",
+      "includes_metadata_only": false,
+      "records": 615,
+      "sha256": "bd5db5e0fabc0eca9b6aa8eebe86578a508d43841fff85ba1ae02ce3608e7619"
+    },
+    {
+      "bytes": 1463963,
+      "file": "citations-all.bib",
+      "format": "bibtex",
+      "includes_metadata_only": true,
+      "records": 2164,
+      "sha256": "04148c107eb760a273fe377cc8c0233db1b0075c68b1379457d59dd2878fc656"
+    },
+    {
+      "bytes": 3857596,
+      "file": "citations-all.csl.json",
+      "format": "csl-json",
+      "includes_metadata_only": true,
+      "records": 2164,
+      "sha256": "1f4e1601994b9d9657e936eff5ba71c72c4895cf5fc242d30502326ef04e795e"
+    }
+  ],
+  "format_sources": [
+    {
+      "reviewed_at": "2026-10-17",
+      "sha256": "23b2c062d7526060f4631bb04b4b3ba237e488484253e327bd00fa691861b811",
+      "url": "https://raw.githubusercontent.com/citation-style-language/schema/master/schemas/input/csl-data.json"
+    },
+    {
+      "reviewed_at": "2026-10-17",
+      "sha256": "abad948b62e1b693d9dcdae0b9d175504e03ed002482ec0d84c8f14e7c2b89d4",
+      "url": "https://mirrors.ctan.org/biblio/bibtex/base/btxdoc.tex"
+    },
+    {
+      "reviewed_at": "2026-10-17",
+      "sha256": "04c15be36dce19be38361617f139b1b8a70aa21f97def5cdc478622941398fa0",
+      "url": "https://raw.githubusercontent.com/TeX-Live/texlive-source/trunk/texk/web2c/bibtex.web"
+    }
+  ],
+  "identity_policy": "One citation per archive identity; preferred_arxiv is retained without substituting its bibliographic facts.",
+  "resource_kinds": [
+    "paper",
+    "survey"
+  ],
+  "review_policy": "curated is catalog editorial review, not academic peer review; metadata-only records remain explicitly marked.",
+  "schema_version": 1
+}

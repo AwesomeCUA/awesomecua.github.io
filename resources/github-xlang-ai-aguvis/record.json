@@ -1,0 +1,61 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:00Z",
+      "role": "primary",
+      "sha256": "2dd9f36b818c1b7b6bd772ba8575f6c0ebab6d9e0d307edcc2f196f3e4ba502e",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/xlang-ai/aguvis/HEAD/README.md"
+    }
+  ],
+  "id": "github:xlang-ai/aguvis",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-16T06:36:00Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/xlang-ai/aguvis"
+    }
+  ],
+  "name": "Aguvis",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/xlang-ai/aguvis/HEAD/README.md",
+      "target_id": "arxiv:2412.04454",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Vision-based GUI agent models with unified action representations.",
+  "topics": [
+    "grounding",
+    "planning"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/xlang-ai/aguvis"
+}

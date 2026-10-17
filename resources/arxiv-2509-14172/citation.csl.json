@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2509.14172",
+  "citation-key": "arxiv_2509_14172",
+  "type": "article",
+  "title": "TGPO: Tree-Guided Preference Optimization for Robust Web Agent Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2509.14172v2",
+  "custom": {
+    "catalog_id": "arxiv:2509.14172",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2509.14172",
+    "identifiers": {
+      "arxiv": "2509.14172"
+    },
+    "first_published_at": "2025-09-17",
+    "record_updated_at": "2025-09-19",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cc1e4f78f1d3ffdb1b67f7c0bb645561a76db19dfa5f442fa9aa0a0d4d1ae0de",
+      "submitted_at": "2025-09-17T16:58:44Z",
+      "updated_at": "2025-09-19T02:13:09Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2509.14172v2"
+    }
+  },
+  "note": "First published: 2025-09-17; Recorded arXiv version: v2; Recorded version updated: 2025-09-19T02:13:09Z.",
+  "author": [
+    {
+      "literal": "Ziyuan Chen"
+    },
+    {
+      "literal": "Zhenghui Zhao"
+    },
+    {
+      "literal": "Zhangye Han"
+    },
+    {
+      "literal": "Miancan Liu"
+    },
+    {
+      "literal": "Xianhang Ye"
+    },
+    {
+      "literal": "Yiqing Li"
+    },
+    {
+      "literal": "Hongbo Min"
+    },
+    {
+      "literal": "Jinkui Ren"
+    },
+    {
+      "literal": "Xiantao Zhang"
+    },
+    {
+      "literal": "Guitao Cao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.14172",
+  "genre": "preprint",
+  "version": "2"
+}

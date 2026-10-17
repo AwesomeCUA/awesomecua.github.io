@@ -16,9 +16,16 @@ Bibliographic record for Privacy-Preserving Secret Shared Computations using Map
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1801-10323/record.json
+
 ## Authors
 
 Shlomi Dolev, Peeyush Gupta, Yin Li, Sharad Mehrotra, Shantanu Sharma
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1801-10323/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1801-10323/citation.csl.json
 
 ## Recorded arXiv snapshot
 

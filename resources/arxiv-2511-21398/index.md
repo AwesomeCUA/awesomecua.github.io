@@ -16,9 +16,16 @@ Bibliographic record for Prune4Web: DOM Tree Pruning Programming for Web Agent. 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-21398/record.json
+
 ## Authors
 
 Jiayuan Zhang, Kaiquan Chen, Zhihao Lu, Enshen Zhou, Qian Yu, Jing Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-21398/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-21398/citation.csl.json
 
 ## Recorded arXiv snapshot
 

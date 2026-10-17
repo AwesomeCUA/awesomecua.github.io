@@ -16,6 +16,8 @@ Cross-environment benchmark framework for multimodal agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-camel-ai-crab/record.json
+
 ## Structured profile
 
 - actions: Python-defined environment actions

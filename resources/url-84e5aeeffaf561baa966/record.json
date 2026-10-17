@@ -1,0 +1,127 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "dataset_profile": {
+      "counts": [],
+      "evidence_urls": [
+        "https://huggingface.co/datasets/HanXiao1999/UI-Genie-RM-517k/raw/main/README.md",
+        "https://raw.githubusercontent.com/Euphoria16/UI-Genie/HEAD/README.md"
+      ],
+      "formats": [
+        "JSONL"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "notes": "The public manifest contains reward_data.jsonl but no separately packaged image archive. The card declares MIT. The 517k identifier is not converted into a verified sample count, and complete image packaging is not inferred from the JSONL filename.",
+      "splits": [],
+      "supervision": [
+        "trajectory rewards"
+      ]
+    },
+    "disabled": false,
+    "download_url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-RM-517k/tree/main",
+    "gated": false,
+    "hub_id": "HanXiao1999/UI-Genie-RM-517k",
+    "languages": [],
+    "modalities": [],
+    "sample_count": null,
+    "sample_unit": null
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:01:34Z",
+      "role": "primary",
+      "sha256": "dddb70b2b6986525f3980cbe50c3241d17f840a81fda9715b01ac3b25dd35d63",
+      "supports": [
+        "name",
+        "kind",
+        "relations",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-RM-517k/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:01:33Z",
+      "role": "primary",
+      "sha256": "ab4bf30b6188959f825f2747ca711b0f190dddfe1658319c881ca9c73be9ecc9",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/api/datasets/HanXiao1999/UI-Genie-RM-517k"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T03:59:54Z",
+      "role": "primary",
+      "sha256": "e08569bd9d8a6ff44537d4fe69243ddfeb8a41ae5c9f87ef84af50a67c64c726",
+      "supports": [
+        "summary",
+        "environments",
+        "topics",
+        "scope"
+      ],
+      "url": "https://raw.githubusercontent.com/Euphoria16/UI-Genie/HEAD/README.md"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T04:01:34Z",
+      "role": "primary",
+      "sha256": "dddb70b2b6986525f3980cbe50c3241d17f840a81fda9715b01ac3b25dd35d63",
+      "supports": [
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-RM-517k/raw/main/README.md"
+    }
+  ],
+  "id": "url:84e5aeeffaf561baa966",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-17T04:01:34Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "mit",
+      "retrieved_at": "2026-10-17T04:01:34Z",
+      "url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-RM-517k/raw/main/README.md"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-RM-517k"
+    }
+  ],
+  "name": "UI-Genie reward data",
+  "notes": "The public manifest contains reward_data.jsonl but no separately packaged image archive. The card declares MIT. The 517k identifier is not converted into a verified sample count, and complete image packaging is not inferred from the JSONL filename.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-RM-517k/raw/main/README.md",
+      "target_id": "arxiv:2505.21496",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Mobile GUI reward annotations released for training UI-Genie’s trajectory-assessment model.",
+  "topics": [
+    "data-generation",
+    "mobile-navigation",
+    "reward-models"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-RM-517k"
+}

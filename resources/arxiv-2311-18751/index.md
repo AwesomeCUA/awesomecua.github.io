@@ -16,9 +16,16 @@ CompWoB adds 50 composed web-automation tasks to study generalization from simpl
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-18751/record.json
+
 ## Authors
 
 Hiroki Furuta, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-18751/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-18751/citation.csl.json
 
 ## Recorded arXiv snapshot
 

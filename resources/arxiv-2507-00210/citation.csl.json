@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2507.00210",
+  "citation-key": "arxiv_2507_00210",
+  "type": "article",
+  "title": "LineRetriever: Planning-Aware Observation Reduction for Web Agents",
+  "URL": "https://arxiv.org/abs/2507.00210v1",
+  "custom": {
+    "catalog_id": "arxiv:2507.00210",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2507.00210",
+    "identifiers": {
+      "arxiv": "2507.00210"
+    },
+    "first_published_at": "2025-06-30",
+    "record_updated_at": "2025-06-30",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b8972688fb95908c024a85e3ffc258be61280ee8d22e6ab97dfb0c4997b83445",
+      "submitted_at": "2025-06-30T19:24:45Z",
+      "updated_at": "2025-06-30T19:24:45Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2507.00210v1"
+    }
+  },
+  "note": "First published: 2025-06-30; Recorded arXiv version: v1; Recorded version updated: 2025-06-30T19:24:45Z.",
+  "author": [
+    {
+      "literal": "Imene Kerboua"
+    },
+    {
+      "literal": "Sahar Omidi Shayegan"
+    },
+    {
+      "literal": "Megh Thakkar"
+    },
+    {
+      "literal": "Xing Han Lù"
+    },
+    {
+      "literal": "Massimo Caccia"
+    },
+    {
+      "literal": "Véronique Eglin"
+    },
+    {
+      "literal": "Alexandre Aussem"
+    },
+    {
+      "literal": "Jérémy Espinas"
+    },
+    {
+      "literal": "Alexandre Lacoste"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.00210",
+  "genre": "preprint",
+  "version": "1"
+}

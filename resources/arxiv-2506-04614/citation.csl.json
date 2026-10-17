@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2506.04614",
+  "citation-key": "arxiv_2506_04614",
+  "type": "article",
+  "title": "Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation",
+  "URL": "https://arxiv.org/abs/2506.04614v2",
+  "custom": {
+    "catalog_id": "arxiv:2506.04614",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2506.04614",
+    "identifiers": {
+      "arxiv": "2506.04614"
+    },
+    "first_published_at": "2025-06-05",
+    "record_updated_at": "2025-11-17",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "42be944224a9b7d2c8e7042968ab31d373a0bafa304c0e669728cb0f10cc813d",
+      "submitted_at": "2025-06-05T04:12:36Z",
+      "updated_at": "2025-11-17T07:48:59Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2506.04614v2"
+    }
+  },
+  "note": "First published: 2025-06-05; Recorded arXiv version: v2; Recorded version updated: 2025-11-17T07:48:59Z.",
+  "author": [
+    {
+      "literal": "Yuyang Wanyan"
+    },
+    {
+      "literal": "Xi Zhang"
+    },
+    {
+      "literal": "Haiyang Xu"
+    },
+    {
+      "literal": "Haowei Liu"
+    },
+    {
+      "literal": "Junyang Wang"
+    },
+    {
+      "literal": "Jiabo Ye"
+    },
+    {
+      "literal": "Yutong Kou"
+    },
+    {
+      "literal": "Ming Yan"
+    },
+    {
+      "literal": "Fei Huang"
+    },
+    {
+      "literal": "Xiaoshan Yang"
+    },
+    {
+      "literal": "Weiming Dong"
+    },
+    {
+      "literal": "Changsheng Xu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.04614",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,6 +16,8 @@ Browser interaction task environment derived from MiniWoB.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-farama-foundation-miniwob-plusplus/record.json
+
 ## Structured profile
 
 - actions: configurable coordinate actions, element-reference actions, keyboard input

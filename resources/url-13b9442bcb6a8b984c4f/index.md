@@ -16,6 +16,8 @@ Web screenshot and interface data for UI research.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-13b9442bcb6a8b984c4f/record.json
+
 ## License declarations
 
 - code: not recorded

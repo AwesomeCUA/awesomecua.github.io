@@ -16,9 +16,16 @@ Bibliographic record for Dr. Bench: A Multidimensional Evaluation for Deep Resea
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-02190/record.json
+
 ## Authors
 
 Yang Yao, Yixu Wang, Yuxuan Zhang, Yi Lu, Tianle Gu, Lingyu Li, Dingyi Zhao, Keming Wu, Haozhe Wang, Ping Nie, Yan Teng, Yingchun Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-02190/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-02190/citation.csl.json
 
 ## Recorded arXiv snapshot
 

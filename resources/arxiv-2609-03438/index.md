@@ -16,9 +16,16 @@ Bibliographic record for Do GUI Agents Know When Not to Act? Enabling Conflict-A
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-03438/record.json
+
 ## Authors
 
 Zhaoyuan Huang, Tianjie Ju, Pengzhou Cheng, Zheng Wu, Yansi Li, Chuanbiao Song, Jun Lan, Huijia Zhu, Weiqiang Wang, Zhuosheng Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-03438/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-03438/citation.csl.json
 
 ## Recorded arXiv snapshot
 

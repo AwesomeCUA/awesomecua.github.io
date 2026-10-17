@@ -16,9 +16,16 @@ Bibliographic record for GPTVoiceTasker: Advancing Multi-step Mobile Task Effici
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2401-14268/record.json
+
 ## Authors
 
 Minh Duc Vu, Han Wang, Zhuang Li, Jieshan Chen, Shengdong Zhao, Zhenchang Xing, Chunyang Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2401-14268/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-14268/citation.csl.json
 
 ## Recorded arXiv snapshot
 

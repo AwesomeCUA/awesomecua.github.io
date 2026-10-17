@@ -16,9 +16,16 @@ Bibliographic record for Improving Offline-to-Online Reinforcement Learning with
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-19805/record.json
+
 ## Authors
 
 Ziqi Zhang, Xiao Xiong, Zifeng Zhuang, Jinxin Liu, Donglin Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-19805/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-19805/citation.csl.json
 
 ## Recorded arXiv snapshot
 

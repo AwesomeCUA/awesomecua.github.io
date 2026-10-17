@@ -1,0 +1,75 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:04Z",
+      "role": "primary",
+      "sha256": "464e26d88420cd2694abe4c014bfd088417622c3a980aadf19b2bf01988d5b65",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/DigiRL-agent/digirl/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:05Z",
+      "role": "primary",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/DigiRL-agent/digirl/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:digirl-agent/digirl",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-16T06:36:04Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T06:42:05Z",
+      "url": "https://raw.githubusercontent.com/DigiRL-agent/digirl/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/DigiRL-agent/digirl"
+    }
+  ],
+  "name": "DigiRL",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/DigiRL-agent/digirl/HEAD/README.md",
+      "target_id": "arxiv:2406.11896",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Reinforcement learning for autonomous mobile device control.",
+  "topics": [
+    "reinforcement-learning"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/DigiRL-agent/digirl"
+}

@@ -16,9 +16,16 @@ Studies GUI-grounding development from a weakly grounded base model through data
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-06391/record.json
+
 ## Authors
 
 Zhongyin Zhao, Yuan Liu, Yikun Liu, Haicheng Wang, Le Tian, Xiao Zhou, Yangxiu You, Zilin Yu, Yang Yu, Jie Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-06391/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-06391/citation.csl.json
 
 ## Recorded arXiv snapshot
 

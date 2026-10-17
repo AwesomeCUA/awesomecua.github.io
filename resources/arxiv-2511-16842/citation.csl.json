@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2511.16842",
+  "citation-key": "arxiv_2511_16842",
+  "type": "article",
+  "title": "Fantastic Bugs and Where to Find Them in AI Benchmarks",
+  "URL": "https://arxiv.org/abs/2511.16842v1",
+  "custom": {
+    "catalog_id": "arxiv:2511.16842",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.16842",
+    "identifiers": {
+      "arxiv": "2511.16842"
+    },
+    "first_published_at": "2025-11-20",
+    "record_updated_at": "2025-11-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "399c73cd0c0c6678ec2efd67b52a1aee42d3fc1c47780d4930c3318542145d5a",
+      "submitted_at": "2025-11-20T22:49:21Z",
+      "updated_at": "2025-11-20T22:49:21Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2511.16842v1"
+    }
+  },
+  "note": "First published: 2025-11-20; Recorded arXiv version: v1; Recorded version updated: 2025-11-20T22:49:21Z.",
+  "author": [
+    {
+      "literal": "Sang Truong"
+    },
+    {
+      "literal": "Yuheng Tu"
+    },
+    {
+      "literal": "Michael Hardy"
+    },
+    {
+      "literal": "Anka Reuel"
+    },
+    {
+      "literal": "Zeyu Tang"
+    },
+    {
+      "literal": "Jirayu Burapacheep"
+    },
+    {
+      "literal": "Jonathan Perera"
+    },
+    {
+      "literal": "Chibuike Uwakwe"
+    },
+    {
+      "literal": "Ben Domingue"
+    },
+    {
+      "literal": "Nick Haber"
+    },
+    {
+      "literal": "Sanmi Koyejo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.16842",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2605.15040",
+  "citation-key": "arxiv_2605_15040",
+  "type": "article",
+  "title": "Orchard: An Open-Source Agentic Modeling Framework",
+  "URL": "https://arxiv.org/abs/2605.15040v3",
+  "custom": {
+    "catalog_id": "arxiv:2605.15040",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.15040",
+    "identifiers": {
+      "arxiv": "2605.15040"
+    },
+    "first_published_at": "2026-05-14",
+    "record_updated_at": "2026-07-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d22cca677c0d8325233693dde0c178372c3fe0840483721702b394817815f6c7",
+      "submitted_at": "2026-05-14T16:35:12Z",
+      "updated_at": "2026-07-30T16:17:23Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2605.15040v3"
+    }
+  },
+  "note": "First published: 2026-05-14; Recorded arXiv version: v3; Recorded version updated: 2026-07-30T16:17:23Z.",
+  "author": [
+    {
+      "literal": "Baolin Peng"
+    },
+    {
+      "literal": "Wenlin Yao"
+    },
+    {
+      "literal": "Qianhui Wu"
+    },
+    {
+      "literal": "Hao Cheng"
+    },
+    {
+      "literal": "Xiao Yu"
+    },
+    {
+      "literal": "Rui Yang"
+    },
+    {
+      "literal": "Tao Ge"
+    },
+    {
+      "literal": "Alessandro Sordoni"
+    },
+    {
+      "literal": "Xingdi Yuan"
+    },
+    {
+      "literal": "Yelong Shen"
+    },
+    {
+      "literal": "Pengcheng He"
+    },
+    {
+      "literal": "Tong Zhang"
+    },
+    {
+      "literal": "Zhou Yu"
+    },
+    {
+      "literal": "Jianfeng Gao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.15040",
+  "genre": "preprint",
+  "version": "3"
+}

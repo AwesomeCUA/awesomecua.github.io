@@ -16,9 +16,16 @@ Bibliographic record for Ordinal Probit Functional Outcome Regression with Appli
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1901-07976/record.json
+
 ## Authors
 
 Mark J. Meyer, Jeffrey S. Morris, Regina Paxton Gazes, Brent A. Coull
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1901-07976/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1901-07976/citation.csl.json
 
 ## Recorded arXiv snapshot
 

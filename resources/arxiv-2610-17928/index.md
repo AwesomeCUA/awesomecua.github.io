@@ -16,9 +16,16 @@ Introduces SwitchMem, which chooses a textual or visual representation of retrie
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced. Android platform tagging is additionally supported by the primary project documentation.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-17928/record.json
+
 ## Authors
 
 Taeyun Roh, Suhyeong Park, Gijin Kim, Wonjune Jang, Jaewoo Kang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-17928/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-17928/citation.csl.json
 
 ## Recorded arXiv snapshot
 

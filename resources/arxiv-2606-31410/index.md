@@ -16,9 +16,16 @@ Describes a mobile GUI agent trained through real-device interaction, corrected 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-31410/record.json
+
 ## Authors
 
 Wanxia Cao, Chengzhen Duan, Pei Fu, Pengzhi Gao, Niu Lian, Fazhan Liu, Hui Liu, Heng Qu, Qinzhuo Wu, Zhehao Yu, Tongbo Chen, Shiqi Cui, Anan Du, Shukai Jia, Yuanfa Li, Wei Liu, Yike Liu, Wenchao Lu, Zhenbo Luo, Haoyuan Sun, Jiatong Sun, Cheng Tan, Yajie Wang, Changqiao Wu, Tao Xiong, Jiahui Yang, Yuxuan Yuan, Ruoceng Zhang, Shaojie Zhang, Jian Zhu, Jian Luan, Cong Zou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-31410/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-31410/citation.csl.json
 
 ## Recorded arXiv snapshot
 

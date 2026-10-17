@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2403.11905",
+  "citation-key": "arxiv_2403_11905",
+  "type": "article",
+  "title": "Tur[k]ingBench: A Challenge Benchmark for Web Agents",
+  "URL": "https://arxiv.org/abs/2403.11905v4",
+  "custom": {
+    "catalog_id": "arxiv:2403.11905",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2403.11905",
+    "identifiers": {
+      "arxiv": "2403.11905"
+    },
+    "first_published_at": "2024-03-18",
+    "record_updated_at": "2025-02-22",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d82424b84ebddfeb005ffae38c130c6a9c7dae7adcdc59e2b7d001284b785573",
+      "submitted_at": "2024-03-18T16:06:30Z",
+      "updated_at": "2025-02-22T01:33:54Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2403.11905v4"
+    }
+  },
+  "note": "First published: 2024-03-18; Recorded arXiv version: v4; Recorded version updated: 2025-02-22T01:33:54Z.",
+  "author": [
+    {
+      "literal": "Kevin Xu"
+    },
+    {
+      "literal": "Yeganeh Kordi"
+    },
+    {
+      "literal": "Tanay Nayak"
+    },
+    {
+      "literal": "Adi Asija"
+    },
+    {
+      "literal": "Yizhong Wang"
+    },
+    {
+      "literal": "Kate Sanders"
+    },
+    {
+      "literal": "Adam Byerly"
+    },
+    {
+      "literal": "Jingyu Zhang"
+    },
+    {
+      "literal": "Benjamin Van Durme"
+    },
+    {
+      "literal": "Daniel Khashabi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.11905",
+  "genre": "preprint",
+  "version": "4"
+}

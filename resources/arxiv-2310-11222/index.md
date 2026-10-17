@@ -16,9 +16,16 @@ Bibliographic record for Fast Node Vector Distance Computations using Laplacian 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-11222/record.json
+
 ## Authors
 
 Michele Coscia, Karel Devriendt
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-11222/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-11222/citation.csl.json
 
 ## Recorded arXiv snapshot
 

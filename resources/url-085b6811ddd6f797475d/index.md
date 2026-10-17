@@ -16,6 +16,8 @@ The context-aware Aria-UI release that uses interaction context to support groun
 
 The Hub manifest exposes twelve safetensors shards and model code/configuration, but no README card or model-license declaration. The official repository explicitly announces this context-aware release separately from the base model. Code or base-model licenses are not inherited.
 
+- Record JSON: https://awesomecua.github.io/resources/url-085b6811ddd6f797475d/record.json
+
 ## License declarations
 
 - code: not recorded

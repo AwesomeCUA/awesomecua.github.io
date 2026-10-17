@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2301.13280",
+  "citation-key": "arxiv_2301_13280",
+  "type": "article",
+  "title": "WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics",
+  "URL": "https://arxiv.org/abs/2301.13280v1",
+  "custom": {
+    "catalog_id": "arxiv:2301.13280",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2301.13280",
+    "identifiers": {
+      "arxiv": "2301.13280"
+    },
+    "first_published_at": "2023-01-30",
+    "record_updated_at": "2023-01-30",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0cc3b91aa85bc8c7d88a878c7b24926943eea0bcc92e25f517915242f2a82a39",
+      "submitted_at": "2023-01-30T20:47:12Z",
+      "updated_at": "2023-01-30T20:47:12Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2301.13280v1"
+    }
+  },
+  "note": "First published: 2023-01-30; Recorded arXiv version: v1; Recorded version updated: 2023-01-30T20:47:12Z.",
+  "author": [
+    {
+      "literal": "Jason Wu"
+    },
+    {
+      "literal": "Siyan Wang"
+    },
+    {
+      "literal": "Siman Shen"
+    },
+    {
+      "literal": "Yi-Hao Peng"
+    },
+    {
+      "literal": "Jeffrey Nichols"
+    },
+    {
+      "literal": "Jeffrey P. Bigham"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        1,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2301.13280",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2502.13053",
+  "citation-key": "arxiv_2502_13053",
+  "type": "article",
+  "title": "Evaluating the Robustness of Multimodal Agents Against Active Environmental Injection Attacks",
+  "URL": "https://arxiv.org/abs/2502.13053v3",
+  "custom": {
+    "catalog_id": "arxiv:2502.13053",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2502.13053",
+    "identifiers": {
+      "arxiv": "2502.13053"
+    },
+    "first_published_at": "2025-02-18",
+    "record_updated_at": "2025-08-06",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5af8d3a8b4db150bab0630f6040a0f3bced612f68b11d31985053f1f25c0f6f6",
+      "submitted_at": "2025-02-18T17:01:28Z",
+      "updated_at": "2025-08-06T07:04:43Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2502.13053v3"
+    }
+  },
+  "note": "First published: 2025-02-18; Recorded arXiv version: v3; Recorded version updated: 2025-08-06T07:04:43Z.",
+  "author": [
+    {
+      "literal": "Yurun Chen"
+    },
+    {
+      "literal": "Xavier Hu"
+    },
+    {
+      "literal": "Keting Yin"
+    },
+    {
+      "literal": "Juncheng Li"
+    },
+    {
+      "literal": "Shengyu Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.13053",
+  "genre": "preprint",
+  "version": "3"
+}

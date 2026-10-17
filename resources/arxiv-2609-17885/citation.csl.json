@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2609.17885",
+  "citation-key": "arxiv_2609_17885",
+  "type": "article",
+  "title": "ERPBench: A State-Grounded Evaluation Paradigm for Computer-Use Agents in Enterprise Software",
+  "URL": "https://arxiv.org/abs/2609.17885v2",
+  "custom": {
+    "catalog_id": "arxiv:2609.17885",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.17885",
+    "identifiers": {
+      "arxiv": "2609.17885"
+    },
+    "first_published_at": "2026-09-15",
+    "record_updated_at": "2026-09-23",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ab0dbea71d0b8bfe035d3b0a71d6ed99fbd261202976cdc322a0769074827d76",
+      "submitted_at": "2026-09-15T22:23:17Z",
+      "updated_at": "2026-09-23T01:31:01Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2609.17885v2"
+    }
+  },
+  "note": "First published: 2026-09-15; Recorded arXiv version: v2; Recorded version updated: 2026-09-23T01:31:01Z.",
+  "author": [
+    {
+      "literal": "Kratika Bhagtani"
+    },
+    {
+      "literal": "Kusha Sridhar"
+    },
+    {
+      "literal": "Maziyar Baran Pouyan"
+    },
+    {
+      "literal": "Yuying Zhao"
+    },
+    {
+      "literal": "Eugene Siow"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.17885",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Evaluating Long-Term Memory for Long-Context Question A
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-23730/record.json
+
 ## Authors
 
 Alessandra Terranova, Björn Ross, Alexandra Birch
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-23730/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-23730/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2504.07981",
+  "citation-key": "arxiv_2504_07981",
+  "type": "article",
+  "title": "ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use",
+  "URL": "https://arxiv.org/abs/2504.07981v1",
+  "custom": {
+    "catalog_id": "arxiv:2504.07981",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2504.07981",
+    "identifiers": {
+      "arxiv": "2504.07981"
+    },
+    "first_published_at": "2025-04-04",
+    "record_updated_at": "2025-04-04",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "679bfcac736544e9a241c579adfda0cacbc40838452ea56ad631f8086868415a",
+      "submitted_at": "2025-04-04T14:25:17Z",
+      "updated_at": "2025-04-04T14:25:17Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2504.07981v1"
+    }
+  },
+  "note": "First published: 2025-04-04; Recorded arXiv version: v1; Recorded version updated: 2025-04-04T14:25:17Z.",
+  "author": [
+    {
+      "literal": "Kaixin Li"
+    },
+    {
+      "literal": "Ziyang Meng"
+    },
+    {
+      "literal": "Hongzhan Lin"
+    },
+    {
+      "literal": "Ziyang Luo"
+    },
+    {
+      "literal": "Yuchen Tian"
+    },
+    {
+      "literal": "Jing Ma"
+    },
+    {
+      "literal": "Zhiyong Huang"
+    },
+    {
+      "literal": "Tat-Seng Chua"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.07981",
+  "genre": "preprint",
+  "version": "1"
+}

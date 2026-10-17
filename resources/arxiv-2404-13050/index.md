@@ -16,9 +16,16 @@ Bibliographic record for FlowMind: Automatic Workflow Generation with LLMs. Titl
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-13050/record.json
+
 ## Authors
 
 Zhen Zeng, William Watson, Nicole Cho, Saba Rahimi, Shayleen Reynolds, Tucker Balch, Manuela Veloso
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-13050/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-13050/citation.csl.json
 
 ## Recorded arXiv snapshot
 

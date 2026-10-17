@@ -1,0 +1,86 @@
+{
+  "aliases": [],
+  "authors": [
+    "Reyna Abhyankar",
+    "Qi Qi",
+    "Yiying Zhang"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "df3f654ef1364aeb6cdaeaea1c6334da949a798b2f8256c9ddc4e6a88a588e19",
+      "submitted_at": "2025-06-19T05:26:40Z",
+      "updated_at": "2026-05-18T17:55:59Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2506.16042v2"
+    }
+  },
+  "environments": [
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:50Z",
+      "role": "primary",
+      "sha256": "26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:50Z",
+      "role": "primary",
+      "sha256": "26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2506.16042",
+  "identifiers": {
+    "arxiv": "2506.16042"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:50Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2506.16042"
+    }
+  ],
+  "name": "OSWorld-Human: Benchmarking the Efficiency of Computer-Use Agents",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2025-06-19",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "OSWorld-Human adds human-determined trajectories to OSWorld to evaluate the efficiency of desktop computer-use agents. The study compares 16 agents and analyzes model-call latency, changes in step duration during task execution, and excess action steps.",
+  "topics": [
+    "evaluation",
+    "efficiency",
+    "observability"
+  ],
+  "updated_at": "2026-05-18",
+  "url": "https://arxiv.org/abs/2506.16042"
+}

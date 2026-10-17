@@ -16,9 +16,16 @@ Bibliographic record for Chain-of-Ground: Improving GUI Grounding via Iterative 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-01979/record.json
+
 ## Authors
 
 Aiden Yiliu Li, Bizhi Yu, Daoan Lei, Tianhe Ren, Shilong Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-01979/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-01979/citation.csl.json
 
 ## Recorded arXiv snapshot
 

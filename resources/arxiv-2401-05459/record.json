@@ -1,0 +1,88 @@
+{
+  "aliases": [],
+  "authors": [
+    "Yuanchun Li",
+    "Hao Wen",
+    "Weijun Wang",
+    "Xiangyu Li",
+    "Yizhen Yuan",
+    "Guohong Liu",
+    "Jiacheng Liu",
+    "Wenxing Xu",
+    "Xiang Wang",
+    "Yi Sun",
+    "Rui Kong",
+    "Yile Wang",
+    "Hanfei Geng",
+    "Jian Luan",
+    "Xuefeng Jin",
+    "Zilong Ye",
+    "Guanjing Xiong",
+    "Fan Zhang",
+    "Xiang Li",
+    "Mengwei Xu",
+    "Zhijun Li",
+    "Peng Li",
+    "Yang Liu",
+    "Ya-Qin Zhang",
+    "Yunxin Liu"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "dc28f7eef225940b41b01940ae3ac594ca76ef4c6db5f19a99a4ac2519b95432",
+      "submitted_at": "2024-01-10T09:25:45Z",
+      "updated_at": "2024-05-08T06:16:23Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2401.05459v2"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:42:42Z",
+      "role": "primary",
+      "sha256": "d1c1bc3fee56d124427abd2aabbcf876418633a8adf7a03f4ef0317cba6a42ae",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2008.05132%2C2010.04295%2C2101.04893%2C2112.05692%2C2306.01242%2C2311.03079%2C2401.05459%2C2402.03746%2C2402.15506%2C2403.20329%2C2404.06395%2C2404.10179%2C2405.10292%2C2406.09187%2C2406.14596%2C2408.03326%2C2409.12089%2C2501.10893%2C2504.09352&max_results=19"
+    }
+  ],
+  "id": "arxiv:2401.05459",
+  "identifiers": {
+    "arxiv": "2401.05459"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:42:42Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2401.05459"
+    }
+  ],
+  "name": "Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2024-01-10",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2024-05-08",
+  "url": "https://arxiv.org/abs/2401.05459"
+}

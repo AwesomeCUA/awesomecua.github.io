@@ -16,9 +16,16 @@ Bibliographic record for All is Not Lost: LLM Recovery without Checkpoints. Titl
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-15461/record.json
+
 ## Authors
 
 Nikolay Blagoev, Oğuzhan Ersoy, Lydia Yiyu Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-15461/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-15461/citation.csl.json
 
 ## Recorded arXiv snapshot
 

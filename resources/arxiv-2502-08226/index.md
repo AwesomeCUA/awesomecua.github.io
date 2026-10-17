@@ -16,9 +16,16 @@ Combines hierarchical screen parsing with spatially enriched element description
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-08226/record.json
+
 ## Authors
 
 Kunal Singh, Shreyas Singh, Mukund Khanna
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-08226/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-08226/citation.csl.json
 
 ## Recorded arXiv snapshot
 

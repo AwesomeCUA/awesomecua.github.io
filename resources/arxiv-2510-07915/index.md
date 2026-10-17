@@ -16,9 +16,16 @@ Bibliographic record for MARC: Memory-Augmented RL Token Compression for Efficie
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-07915/record.json
+
 ## Authors
 
 Peiran Wu, Zhuorui Yu, Yunze Liu, Chi-Hao Wu, Enmin Zhou, Junxiao Shen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-07915/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-07915/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for RT-SHCUA: Real-Time Self-Hosted Computer-Use Agent for 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-17951/record.json
+
 ## Authors
 
 Di Lu, Bo Zhang, Xiyuan Li, Yongzhi Liao, Xuewen Dong, Yulong Shen, Zhiquan Liu, Jianfeng Ma
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-17951/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-17951/citation.csl.json
 
 ## Recorded arXiv snapshot
 

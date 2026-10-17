@@ -16,9 +16,16 @@ Bibliographic record for Power efficient ReLU design for neuromorphic computing 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2303-06463/record.json
+
 ## Authors
 
 Venkatesh Vadde, Bhaskaran Muralidharan, Abhishek Sharma
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2303-06463/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2303-06463/citation.csl.json
 
 ## Recorded arXiv snapshot
 

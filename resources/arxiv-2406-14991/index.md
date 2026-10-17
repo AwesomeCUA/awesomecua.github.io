@@ -16,9 +16,16 @@ Bibliographic record for SpreadsheetBench: Towards Challenging Real World Spread
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-14991/record.json
+
 ## Authors
 
 Zeyao Ma, Bohan Zhang, Jing Zhang, Jifan Yu, Xiaokang Zhang, Xiaohan Zhang, Sijia Luo, Xi Wang, Jie Tang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-14991/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-14991/citation.csl.json
 
 ## Recorded arXiv snapshot
 

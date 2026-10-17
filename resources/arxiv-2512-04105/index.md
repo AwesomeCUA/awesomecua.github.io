@@ -16,9 +16,16 @@ LegalWebAgent separates user-needs clarification, webpage browsing, and actions 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-04105/record.json
+
 ## Authors
 
 Jinzhe Tan, Karim Benyekhlef
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-04105/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-04105/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Exploring and Benchmarking High Performance & Scientifi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1904-03343/record.json
+
 ## Authors
 
 Rahim K. Charania
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1904-03343/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1904-03343/citation.csl.json
 
 ## Recorded arXiv snapshot
 

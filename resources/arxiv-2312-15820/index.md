@@ -16,9 +16,16 @@ WebVLN trains website navigation from question-based instructions using both ren
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2312-15820/record.json
+
 ## Authors
 
 Qi Chen, Dileepa Pitawela, Chongyang Zhao, Gengze Zhou, Hsiang-Ting Chen, Qi Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2312-15820/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2312-15820/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,66 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "access": "publisher-managed",
+    "availability": "not independently tested",
+    "pricing_url": null
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:38:27Z",
+      "role": "primary",
+      "sha256": "474a27cf644ac5f8400a023086fb8d356e6148de71d1851337215f88624852d9",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://openai.com/index/introducing-operator/"
+    }
+  ],
+  "id": "url:f0584842138a52158f51",
+  "identifiers": {},
+  "kind": "product",
+  "last_verified_at": "2026-10-16T06:38:27Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://openai.com/index/introducing-operator/"
+    }
+  ],
+  "name": "Operator",
+  "notes": "Historical product entry; the official page describes its integration into ChatGPT agent. Do not infer current standalone availability.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://openai.com/index/introducing-operator/",
+      "target_id": "organization:openai",
+      "type": "published_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Historical OpenAI browser-agent research preview.",
+  "topics": [
+    "web-navigation",
+    "history"
+  ],
+  "updated_at": null,
+  "url": "https://openai.com/index/introducing-operator/"
+}

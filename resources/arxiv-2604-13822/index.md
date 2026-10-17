@@ -16,9 +16,16 @@ Bibliographic record for UI-Copilot: Advancing Long-Horizon GUI Automation via T
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-13822/record.json
+
 ## Authors
 
 Zhengxi Lu, Fei Tang, Guangyi Liu, Kaitao Song, Xu Tan, Jin Ma, Wenqi Zhang, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-13822/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-13822/citation.csl.json
 
 ## Recorded arXiv snapshot
 

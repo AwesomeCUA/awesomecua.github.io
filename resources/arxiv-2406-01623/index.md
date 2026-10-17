@@ -16,9 +16,16 @@ WebSuite organizes browser operations into an action taxonomy and tests both iso
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-01623/record.json
+
 ## Authors
 
 Eric Li, Jim Waldo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-01623/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-01623/citation.csl.json
 
 ## Recorded arXiv snapshot
 

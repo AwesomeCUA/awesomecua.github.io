@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2503.01861",
+  "citation-key": "arxiv_2503_01861",
+  "type": "article",
+  "title": "Towards Enterprise-Ready Computer Using Generalist Agent",
+  "URL": "https://arxiv.org/abs/2503.01861v3",
+  "custom": {
+    "catalog_id": "arxiv:2503.01861",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2503.01861",
+    "identifiers": {
+      "arxiv": "2503.01861"
+    },
+    "first_published_at": "2025-02-24",
+    "record_updated_at": "2025-07-09",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2248d423c954ee6e406e3f46f6da43fabd6e832ffacc05cfa32083f2ff0c2700",
+      "submitted_at": "2025-02-24T09:31:56Z",
+      "updated_at": "2025-07-09T13:52:32Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2503.01861v3"
+    }
+  },
+  "note": "First published: 2025-02-24; Recorded arXiv version: v3; Recorded version updated: 2025-07-09T13:52:32Z.",
+  "author": [
+    {
+      "literal": "Sami Marreed"
+    },
+    {
+      "literal": "Alon Oved"
+    },
+    {
+      "literal": "Avi Yaeli"
+    },
+    {
+      "literal": "Segev Shlomov"
+    },
+    {
+      "literal": "Ido Levy"
+    },
+    {
+      "literal": "Offer Akrabi"
+    },
+    {
+      "literal": "Aviad Sela"
+    },
+    {
+      "literal": "Asaf Adi"
+    },
+    {
+      "literal": "Nir Mashkif"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.01861",
+  "genre": "preprint",
+  "version": "3"
+}

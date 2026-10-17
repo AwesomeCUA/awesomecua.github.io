@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2412.16256",
+  "citation-key": "arxiv_2412_16256",
+  "type": "article",
+  "title": "Aria-UI: Visual Grounding for GUI Instructions",
+  "URL": "https://arxiv.org/abs/2412.16256v2",
+  "custom": {
+    "catalog_id": "arxiv:2412.16256",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2412.16256",
+    "identifiers": {
+      "arxiv": "2412.16256"
+    },
+    "first_published_at": "2024-12-20",
+    "record_updated_at": "2025-07-08",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9b49d45aa539c224846a7e14cee9b537d032228e19e86a9cb3cdd9f5004aa429",
+      "submitted_at": "2024-12-20T07:16:57Z",
+      "updated_at": "2025-07-08T08:49:17Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2412.16256v2"
+    }
+  },
+  "note": "First published: 2024-12-20; Recorded arXiv version: v2; Recorded version updated: 2025-07-08T08:49:17Z.",
+  "author": [
+    {
+      "literal": "Yuhao Yang"
+    },
+    {
+      "literal": "Yue Wang"
+    },
+    {
+      "literal": "Dongxu Li"
+    },
+    {
+      "literal": "Ziyang Luo"
+    },
+    {
+      "literal": "Bei Chen"
+    },
+    {
+      "literal": "Chao Huang"
+    },
+    {
+      "literal": "Junnan Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.16256",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2502.17110",
+  "citation-key": "arxiv_2502_17110",
+  "type": "article",
+  "title": "Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational Knowledge Injection in Mobile Automation",
+  "URL": "https://arxiv.org/abs/2502.17110v3",
+  "custom": {
+    "catalog_id": "arxiv:2502.17110",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2502.17110",
+    "identifiers": {
+      "arxiv": "2502.17110"
+    },
+    "first_published_at": "2025-02-24",
+    "record_updated_at": "2025-06-03",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d723cb764deb78b194ff0199c7f1b921a12b6a41655c07b06ae88c3d0af58358",
+      "submitted_at": "2025-02-24T12:51:23Z",
+      "updated_at": "2025-06-03T08:37:03Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2502.17110v3"
+    }
+  },
+  "note": "First published: 2025-02-24; Recorded arXiv version: v3; Recorded version updated: 2025-06-03T08:37:03Z.",
+  "author": [
+    {
+      "literal": "Junyang Wang"
+    },
+    {
+      "literal": "Haiyang Xu"
+    },
+    {
+      "literal": "Xi Zhang"
+    },
+    {
+      "literal": "Ming Yan"
+    },
+    {
+      "literal": "Ji Zhang"
+    },
+    {
+      "literal": "Fei Huang"
+    },
+    {
+      "literal": "Jitao Sang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.17110",
+  "genre": "preprint",
+  "version": "3"
+}

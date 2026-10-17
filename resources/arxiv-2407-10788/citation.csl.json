@@ -1,0 +1,127 @@
+{
+  "id": "arxiv:2407.10788",
+  "citation-key": "arxiv_2407_10788",
+  "type": "article",
+  "title": "CircleZ: Reliable Photometric redshifts for AGN computed using only photometry from Legacy Survey Imaging for DESI",
+  "URL": "https://arxiv.org/abs/2407.10788v2",
+  "custom": {
+    "catalog_id": "arxiv:2407.10788",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2407.10788",
+    "identifiers": {
+      "arxiv": "2407.10788"
+    },
+    "first_published_at": "2024-07-15",
+    "record_updated_at": "2024-07-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ee6439faa2c13d241edaec8a26e693694ec3720436b173c34580fb892ce5e739",
+      "submitted_at": "2024-07-15T15:07:30Z",
+      "updated_at": "2024-07-20T15:38:07Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2407.10788v2"
+    }
+  },
+  "note": "First published: 2024-07-15; Recorded arXiv version: v2; Recorded version updated: 2024-07-20T15:38:07Z.",
+  "author": [
+    {
+      "literal": "A. Saxena"
+    },
+    {
+      "literal": "M. Salvato"
+    },
+    {
+      "literal": "W. Roster"
+    },
+    {
+      "literal": "R. Shirley"
+    },
+    {
+      "literal": "J. Buchner"
+    },
+    {
+      "literal": "J. Wolf"
+    },
+    {
+      "literal": "C. Kohl"
+    },
+    {
+      "literal": "H. Starck"
+    },
+    {
+      "literal": "T. Dwelly"
+    },
+    {
+      "literal": "J. Comparat"
+    },
+    {
+      "literal": "A. Malyali"
+    },
+    {
+      "literal": "S. Krippendorf"
+    },
+    {
+      "literal": "A. Zenteno"
+    },
+    {
+      "literal": "D. Lang"
+    },
+    {
+      "literal": "D. Schlegel"
+    },
+    {
+      "literal": "R. Zhou"
+    },
+    {
+      "literal": "A. Dey"
+    },
+    {
+      "literal": "F. Valdes"
+    },
+    {
+      "literal": "A. Myers"
+    },
+    {
+      "literal": "R. J. Assef"
+    },
+    {
+      "literal": "C. Ricci"
+    },
+    {
+      "literal": "M. J. Temple"
+    },
+    {
+      "literal": "A. Merloni"
+    },
+    {
+      "literal": "A. Koekemoer"
+    },
+    {
+      "literal": "S. F. Anderson"
+    },
+    {
+      "literal": "S. Morrison"
+    },
+    {
+      "literal": "X. Liu"
+    },
+    {
+      "literal": "K. Nandra"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.10788",
+  "genre": "preprint",
+  "version": "2"
+}

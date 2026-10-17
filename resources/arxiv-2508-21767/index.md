@@ -16,9 +16,16 @@ UItron combines GUI perception and planning data engineering with supervised tra
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-21767/record.json
+
 ## Authors
 
 Zhixiong Zeng, Jing Huang, Liming Zheng, Wenkang Han, Yufeng Zhong, Lei Chen, Longrong Yang, Yingjie Chu, Yuzhi He, Lin Ma
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-21767/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-21767/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2403.15203",
+  "citation-key": "arxiv_2403_15203",
+  "type": "article",
+  "title": "DITTO: Demonstration Imitation by Trajectory Transformation",
+  "URL": "https://arxiv.org/abs/2403.15203v2",
+  "custom": {
+    "catalog_id": "arxiv:2403.15203",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2403.15203",
+    "identifiers": {
+      "arxiv": "2403.15203"
+    },
+    "first_published_at": "2024-03-22",
+    "record_updated_at": "2024-10-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3d475940aabcedc2a2c4b7a86330ee399abafd39f56f7a49d3c47df34150b73e",
+      "submitted_at": "2024-03-22T13:46:51Z",
+      "updated_at": "2024-10-02T11:41:50Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2403.15203v2"
+    }
+  },
+  "note": "First published: 2024-03-22; Recorded arXiv version: v2; Recorded version updated: 2024-10-02T11:41:50Z.",
+  "author": [
+    {
+      "literal": "Nick Heppert"
+    },
+    {
+      "literal": "Max Argus"
+    },
+    {
+      "literal": "Tim Welschehold"
+    },
+    {
+      "literal": "Thomas Brox"
+    },
+    {
+      "literal": "Abhinav Valada"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.15203",
+  "genre": "preprint",
+  "version": "2"
+}

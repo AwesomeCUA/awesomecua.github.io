@@ -16,9 +16,16 @@ Bibliographic record for Are LLM Agents the New RPA? A Comparative Study with RP
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-04198/record.json
+
 ## Authors
 
 Petr Průcha, Michaela Matoušková, Jan Strnad
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-04198/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-04198/citation.csl.json
 
 ## Recorded arXiv snapshot
 

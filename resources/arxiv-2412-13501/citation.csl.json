@@ -1,0 +1,133 @@
+{
+  "id": "arxiv:2412.13501",
+  "citation-key": "arxiv_2412_13501",
+  "type": "article",
+  "title": "GUI Agents: A Survey",
+  "URL": "https://arxiv.org/abs/2412.13501v3",
+  "custom": {
+    "catalog_id": "arxiv:2412.13501",
+    "catalog_kind": "survey",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2412.13501",
+    "identifiers": {
+      "arxiv": "2412.13501"
+    },
+    "first_published_at": "2024-12-18",
+    "record_updated_at": "2025-09-26",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ae8f83d0490e70db1ae9c55c071935fb1f59e1358335c1bd3f50835611f4360c",
+      "submitted_at": "2024-12-18T04:48:28Z",
+      "updated_at": "2025-09-26T21:01:59Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2412.13501v3"
+    }
+  },
+  "note": "First published: 2024-12-18; Recorded arXiv version: v3; Recorded version updated: 2025-09-26T21:01:59Z.",
+  "author": [
+    {
+      "literal": "Dang Nguyen"
+    },
+    {
+      "literal": "Jian Chen"
+    },
+    {
+      "literal": "Yu Wang"
+    },
+    {
+      "literal": "Gang Wu"
+    },
+    {
+      "literal": "Namyong Park"
+    },
+    {
+      "literal": "Zhengmian Hu"
+    },
+    {
+      "literal": "Hanjia Lyu"
+    },
+    {
+      "literal": "Junda Wu"
+    },
+    {
+      "literal": "Ryan Aponte"
+    },
+    {
+      "literal": "Yu Xia"
+    },
+    {
+      "literal": "Xintong Li"
+    },
+    {
+      "literal": "Jing Shi"
+    },
+    {
+      "literal": "Hongjie Chen"
+    },
+    {
+      "literal": "Viet Dac Lai"
+    },
+    {
+      "literal": "Zhouhang Xie"
+    },
+    {
+      "literal": "Sungchul Kim"
+    },
+    {
+      "literal": "Ruiyi Zhang"
+    },
+    {
+      "literal": "Tong Yu"
+    },
+    {
+      "literal": "Mehrab Tanjim"
+    },
+    {
+      "literal": "Nesreen K. Ahmed"
+    },
+    {
+      "literal": "Puneet Mathur"
+    },
+    {
+      "literal": "Seunghyun Yoon"
+    },
+    {
+      "literal": "Lina Yao"
+    },
+    {
+      "literal": "Branislav Kveton"
+    },
+    {
+      "literal": "Jihyung Kil"
+    },
+    {
+      "literal": "Thien Huu Nguyen"
+    },
+    {
+      "literal": "Trung Bui"
+    },
+    {
+      "literal": "Tianyi Zhou"
+    },
+    {
+      "literal": "Ryan A. Rossi"
+    },
+    {
+      "literal": "Franck Dernoncourt"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.13501",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -16,9 +16,16 @@ Bibliographic record for OpenApps: Simulating Environment Variations to Measure 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-20766/record.json
+
 ## Authors
 
 Karen Ullrich, Jingtong Su, Claudia Shi, Arjun Subramonian, Amir Bar, Ivan Evtimov, Nikolaos Tsilivis, Randall Balestriero, Julia Kempe, Mark Ibrahim
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-20766/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-20766/citation.csl.json
 
 ## Recorded arXiv snapshot
 

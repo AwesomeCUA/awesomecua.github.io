@@ -16,9 +16,16 @@ Bibliographic record for Tree of Thoughts: Deliberate Problem Solving with Large
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2305-10601/record.json
+
 ## Authors
 
 Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2305-10601/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-10601/citation.csl.json
 
 ## Recorded arXiv snapshot
 

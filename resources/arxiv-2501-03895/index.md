@@ -16,9 +16,16 @@ Bibliographic record for LLaVA-Mini: Efficient Image and Video Large Multimodal 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-03895/record.json
+
 ## Authors
 
 Shaolei Zhang, Qingkai Fang, Zhe Yang, Yang Feng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-03895/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-03895/citation.csl.json
 
 ## Recorded arXiv snapshot
 

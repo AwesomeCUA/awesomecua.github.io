@@ -16,6 +16,8 @@ Evaluation environment for agents operating iOS interfaces.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-yjyddq-riosworld/record.json
+
 ## License declarations
 
 - code: not recorded

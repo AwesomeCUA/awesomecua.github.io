@@ -16,6 +16,8 @@ A GUI-grounding checkpoint trained with adaptive exploration rewards and multipl
 
 Four safetensors shards are public. The model card declares Apache-2.0 and identifies Qwen2.5-VL-7B-Instruct as its base. It is the G1 grounding checkpoint, distinct from the previously cataloged InfiGUI-R1 reasoning checkpoint; benchmark scores remain publisher claims.
 
+- Record JSON: https://awesomecua.github.io/resources/url-d70a755e3b2102f25f34/record.json
+
 ## License declarations
 
 - code: not recorded

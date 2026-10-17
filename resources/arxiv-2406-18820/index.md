@@ -16,9 +16,16 @@ Bibliographic record for Universal Checkpointing: A Flexible and Efficient Distr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-18820/record.json
+
 ## Authors
 
 Xinyu Lian, Sam Ade Jacobs, Lev Kurilenko, Masahiro Tanaka, Stas Bekman, Olatunji Ruwase, Minjia Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-18820/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-18820/citation.csl.json
 
 ## Recorded arXiv snapshot
 

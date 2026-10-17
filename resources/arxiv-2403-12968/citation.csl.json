@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2403.12968",
+  "citation-key": "arxiv_2403_12968",
+  "type": "article",
+  "title": "LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression",
+  "URL": "https://arxiv.org/abs/2403.12968v2",
+  "custom": {
+    "catalog_id": "arxiv:2403.12968",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2403.12968",
+    "identifiers": {
+      "arxiv": "2403.12968"
+    },
+    "first_published_at": "2024-03-19",
+    "record_updated_at": "2024-08-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b524260acfb004218ae0c5b1c649931c5f1f75444d0a8d37b72b655b8789e9d9",
+      "submitted_at": "2024-03-19T17:59:56Z",
+      "updated_at": "2024-08-12T04:48:11Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2403.12968v2"
+    }
+  },
+  "note": "First published: 2024-03-19; Recorded arXiv version: v2; Recorded version updated: 2024-08-12T04:48:11Z.",
+  "author": [
+    {
+      "literal": "Zhuoshi Pan"
+    },
+    {
+      "literal": "Qianhui Wu"
+    },
+    {
+      "literal": "Huiqiang Jiang"
+    },
+    {
+      "literal": "Menglin Xia"
+    },
+    {
+      "literal": "Xufang Luo"
+    },
+    {
+      "literal": "Jue Zhang"
+    },
+    {
+      "literal": "Qingwei Lin"
+    },
+    {
+      "literal": "Victor Rühle"
+    },
+    {
+      "literal": "Yuqing Yang"
+    },
+    {
+      "literal": "Chin-Yew Lin"
+    },
+    {
+      "literal": "H. Vicky Zhao"
+    },
+    {
+      "literal": "Lili Qiu"
+    },
+    {
+      "literal": "Dongmei Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.12968",
+  "genre": "preprint",
+  "version": "2"
+}

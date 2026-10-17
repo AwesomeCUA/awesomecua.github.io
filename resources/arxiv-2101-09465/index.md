@@ -16,9 +16,16 @@ Introduces question answering over webpage text and structure, with aligned HTML
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2101-09465/record.json
+
 ## Authors
 
 Xingyu Chen, Zihan Zhao, Lu Chen, Danyang Zhang, Jiabao Ji, Ao Luo, Yuxuan Xiong, Kai Yu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2101-09465/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2101-09465/citation.csl.json
 
 ## Recorded arXiv snapshot
 

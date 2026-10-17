@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2410.08368",
+  "citation-key": "arxiv_2410_08368",
+  "type": "article",
+  "title": "ElasticTok: Adaptive Tokenization for Image and Video",
+  "URL": "https://arxiv.org/abs/2410.08368v2",
+  "custom": {
+    "catalog_id": "arxiv:2410.08368",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2410.08368",
+    "identifiers": {
+      "arxiv": "2410.08368"
+    },
+    "first_published_at": "2024-10-10",
+    "record_updated_at": "2025-02-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5c6def90f5cea391601541b74c2d0361540067851880a37cf5e9488b94b4a759",
+      "submitted_at": "2024-10-10T20:54:15Z",
+      "updated_at": "2025-02-02T19:28:27Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2410.08368v2"
+    }
+  },
+  "note": "First published: 2024-10-10; Recorded arXiv version: v2; Recorded version updated: 2025-02-02T19:28:27Z.",
+  "author": [
+    {
+      "literal": "Wilson Yan"
+    },
+    {
+      "literal": "Volodymyr Mnih"
+    },
+    {
+      "literal": "Aleksandra Faust"
+    },
+    {
+      "literal": "Matei Zaharia"
+    },
+    {
+      "literal": "Pieter Abbeel"
+    },
+    {
+      "literal": "Hao Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.08368",
+  "genre": "preprint",
+  "version": "2"
+}

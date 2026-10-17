@@ -1,0 +1,75 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:03Z",
+      "role": "primary",
+      "sha256": "ca312434db1db852f96fb49bbc0a61f6a93cffe6c0dd3aa2b7ac814681ccc19e",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/ServiceNow/AgentLab/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:05Z",
+      "role": "primary",
+      "sha256": "b192c58991e8ff585cc574615d40e74185404d4b96c1109d423071ab1367344b",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/ServiceNow/AgentLab/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:servicenow/agentlab",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-16T06:36:03Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T06:42:05Z",
+      "url": "https://raw.githubusercontent.com/ServiceNow/AgentLab/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/ServiceNow/AgentLab"
+    }
+  ],
+  "name": "AgentLab",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/ServiceNow/AgentLab/HEAD/README.md",
+      "target_id": "arxiv:2412.05467",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Experiment framework for developing and evaluating browser agents.",
+  "topics": [
+    "evaluation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/ServiceNow/AgentLab"
+}

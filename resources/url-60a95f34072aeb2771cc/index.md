@@ -16,6 +16,8 @@ Released model checkpoint associated with EvoCUA.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-60a95f34072aeb2771cc/record.json
+
 ## License declarations
 
 - code: not recorded

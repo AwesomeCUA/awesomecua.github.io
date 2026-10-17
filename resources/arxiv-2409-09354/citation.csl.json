@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2409.09354",
+  "citation-key": "arxiv_2409_09354",
+  "type": "article",
+  "title": "PeriGuru: A Peripheral Robotic Mobile App Operation Assistant based on GUI Image Understanding and Prompting with LLM",
+  "URL": "https://arxiv.org/abs/2409.09354v1",
+  "custom": {
+    "catalog_id": "arxiv:2409.09354",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2409.09354",
+    "identifiers": {
+      "arxiv": "2409.09354"
+    },
+    "first_published_at": "2024-09-14",
+    "record_updated_at": "2024-09-14",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b46dabe4135f0caca15d54f84cfe805cdb7fe7f1abcce6b004483d99eb21e637",
+      "submitted_at": "2024-09-14T07:54:25Z",
+      "updated_at": "2024-09-14T07:54:25Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2409.09354v1"
+    }
+  },
+  "note": "First published: 2024-09-14; Recorded arXiv version: v1; Recorded version updated: 2024-09-14T07:54:25Z.",
+  "author": [
+    {
+      "literal": "Kelin Fu"
+    },
+    {
+      "literal": "Yang Tian"
+    },
+    {
+      "literal": "Kaigui Bian"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2409.09354",
+  "genre": "preprint",
+  "version": "1"
+}

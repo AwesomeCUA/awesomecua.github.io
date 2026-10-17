@@ -16,9 +16,16 @@ Bibliographic record for Faithful Mobile GUI Agents with Guided Advantage Estima
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-01208/record.json
+
 ## Authors
 
 Haowen Hu, Pengzhou Cheng, Zheng Wu, Lingzhong Dong, Gongshen Liu, Zhuosheng Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-01208/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-01208/citation.csl.json
 
 ## Recorded arXiv snapshot
 

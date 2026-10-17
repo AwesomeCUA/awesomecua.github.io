@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2501.16403",
+  "citation-key": "arxiv_2501_16403",
+  "type": "article",
+  "title": "Is Open Source the Future of AI? A Data-Driven Approach",
+  "URL": "https://arxiv.org/abs/2501.16403v1",
+  "custom": {
+    "catalog_id": "arxiv:2501.16403",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2501.16403",
+    "identifiers": {
+      "arxiv": "2501.16403"
+    },
+    "first_published_at": "2025-01-27",
+    "record_updated_at": "2025-01-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4e5565347bb75bb7fd58c8f2e5c7e968f02386300d67225be335826d68c02671",
+      "submitted_at": "2025-01-27T09:03:49Z",
+      "updated_at": "2025-01-27T09:03:49Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2501.16403v1"
+    }
+  },
+  "note": "First published: 2025-01-27; Recorded arXiv version: v1; Recorded version updated: 2025-01-27T09:03:49Z.",
+  "author": [
+    {
+      "literal": "Domen Vake"
+    },
+    {
+      "literal": "Bogdan Šinik"
+    },
+    {
+      "literal": "Jernej Vičič"
+    },
+    {
+      "literal": "Aleksandar Tošić"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2501.16403",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Amazon-Bench generates functionality-specific web tasks from page content and in
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-15832/record.json
+
 ## Authors
 
 Xianren Zhang, Shreyas Prasad, Di Wang, Qiuhai Zeng, Suhang Wang, Wenbo Yan, Mat Hans
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-15832/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-15832/citation.csl.json
 
 ## Recorded arXiv snapshot
 

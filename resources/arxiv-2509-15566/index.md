@@ -16,9 +16,16 @@ Bibliographic record for BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent.
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-15566/record.json
+
 ## Authors
 
 Shaojie Zhang, Ruoceng Zhang, Pei Fu, Shaokang Wang, Jiahui Yang, Xin Du, Shiqi Cui, Bin Qin, Ying Huang, Zhenbo Luo, Jian Luan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-15566/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-15566/citation.csl.json
 
 ## Recorded arXiv snapshot
 

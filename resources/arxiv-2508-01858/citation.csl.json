@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2508.01858",
+  "citation-key": "arxiv_2508_01858",
+  "type": "article",
+  "title": "Web-CogReasoner: Towards Multimodal Knowledge-Induced Cognitive Reasoning for Web Agents",
+  "URL": "https://arxiv.org/abs/2508.01858v3",
+  "custom": {
+    "catalog_id": "arxiv:2508.01858",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.01858",
+    "identifiers": {
+      "arxiv": "2508.01858"
+    },
+    "first_published_at": "2025-08-03",
+    "record_updated_at": "2026-07-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7406b48ed9826d51215d955c31c3c67cd2ce9e08bf9a93a55ac4e85a546315f1",
+      "submitted_at": "2025-08-03T17:17:52Z",
+      "updated_at": "2026-07-05T06:17:25Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2508.01858v3"
+    }
+  },
+  "note": "First published: 2025-08-03; Recorded arXiv version: v3; Recorded version updated: 2026-07-05T06:17:25Z.",
+  "author": [
+    {
+      "literal": "Yuhan Guo"
+    },
+    {
+      "literal": "Cong Guo"
+    },
+    {
+      "literal": "Aiwen Sun"
+    },
+    {
+      "literal": "Hongliang He"
+    },
+    {
+      "literal": "Xinyu Yang"
+    },
+    {
+      "literal": "Yue Lu"
+    },
+    {
+      "literal": "Yingji Zhang"
+    },
+    {
+      "literal": "Xuntao Guo"
+    },
+    {
+      "literal": "Dong Zhang"
+    },
+    {
+      "literal": "Jianzhuang Liu"
+    },
+    {
+      "literal": "Jiang Duan"
+    },
+    {
+      "literal": "Yijia Xiao"
+    },
+    {
+      "literal": "Liangjian Wen"
+    },
+    {
+      "literal": "Hai-Ming Xu"
+    },
+    {
+      "literal": "Yong Dai"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.01858",
+  "genre": "preprint",
+  "version": "3"
+}

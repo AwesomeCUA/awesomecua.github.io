@@ -16,9 +16,16 @@ Introduces Adaptive Anticipatory Policy Trees, which precompute guarded actions 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-28399/record.json
+
 ## Authors
 
 Zihan Dong, Rui Qian, Qishi Zhan, Dongshen Peng, Kaixin Li, Yu Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-28399/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-28399/citation.csl.json
 
 ## Recorded arXiv snapshot
 

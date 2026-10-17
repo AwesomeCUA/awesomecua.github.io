@@ -1,0 +1,106 @@
+{
+  "id": "arxiv:2610.01215",
+  "citation-key": "arxiv_2610_01215",
+  "type": "article",
+  "title": "AutoGUIWorld: Image Generators as Visual World Models for GUI Agent",
+  "URL": "https://arxiv.org/abs/2610.01215v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.01215",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.01215",
+    "identifiers": {
+      "arxiv": "2610.01215"
+    },
+    "first_published_at": "2026-10-01",
+    "record_updated_at": "2026-10-01",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ecd40b78c6de41abb442705b993aad8ebf7b35741536a11e00ebbd60140d1f18",
+      "submitted_at": "2026-10-01T07:22:53Z",
+      "updated_at": "2026-10-01T07:22:53Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.01215v1"
+    }
+  },
+  "note": "First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T07:22:53Z.",
+  "author": [
+    {
+      "literal": "Cheng Yang"
+    },
+    {
+      "literal": "Yifan Wu"
+    },
+    {
+      "literal": "Yutao Huang"
+    },
+    {
+      "literal": "Zhaohua Zhang"
+    },
+    {
+      "literal": "Beiduo Chen"
+    },
+    {
+      "literal": "Muxi Chen"
+    },
+    {
+      "literal": "Chenchen Zhao"
+    },
+    {
+      "literal": "Hexuan Deng"
+    },
+    {
+      "literal": "Haolin Yang"
+    },
+    {
+      "literal": "Geyuan Zhu"
+    },
+    {
+      "literal": "Sa Zhu"
+    },
+    {
+      "literal": "Jianhuan Zhuo"
+    },
+    {
+      "literal": "Qiuyong Xiao"
+    },
+    {
+      "literal": "Jianhao Ruan"
+    },
+    {
+      "literal": "Yiran Peng"
+    },
+    {
+      "literal": "Jiayi Zhang"
+    },
+    {
+      "literal": "Tian Ye"
+    },
+    {
+      "literal": "Xinlei Yu"
+    },
+    {
+      "literal": "Tianwen Jiang"
+    },
+    {
+      "literal": "Jihong Zhang"
+    },
+    {
+      "literal": "Yuyu Luo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.01215",
+  "genre": "preprint",
+  "version": "1"
+}

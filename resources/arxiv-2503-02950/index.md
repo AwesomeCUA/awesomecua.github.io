@@ -16,9 +16,16 @@ Introduces a modular visual web-agent stack with planning and memory components,
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-02950/record.json
+
 ## Authors
 
 Danqing Zhang, Balaji Rama, Jingyi Ni, Shiying He, Fu Zhao, Kunyu Chen, Arnold Chen, Junyu Cao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-02950/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-02950/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Towards Better Semantic Understanding of Mobile Interfa
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2210-02663/record.json
+
 ## Authors
 
 Srinivas Sunkara, Maria Wang, Lijuan Liu, Gilles Baechler, Yu-Chung Hsiao, Jindong, Chen, Abhanshu Sharma, James Stout
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2210-02663/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2210-02663/citation.csl.json
 
 ## Recorded arXiv snapshot
 

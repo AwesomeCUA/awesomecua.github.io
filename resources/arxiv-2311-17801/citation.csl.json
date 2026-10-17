@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2311.17801",
+  "citation-key": "arxiv_2311_17801",
+  "type": "article",
+  "title": "Towards Efficient Hyperdimensional Computing Using Photonics",
+  "URL": "https://arxiv.org/abs/2311.17801v2",
+  "custom": {
+    "catalog_id": "arxiv:2311.17801",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2311.17801",
+    "identifiers": {
+      "arxiv": "2311.17801"
+    },
+    "first_published_at": "2023-11-29",
+    "record_updated_at": "2024-10-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c4d5c0a824e15460a6cb0513aef31be70e056105ffafce8285f3128b6a0421b8",
+      "submitted_at": "2023-11-29T16:51:21Z",
+      "updated_at": "2024-10-04T15:26:45Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2311.17801v2"
+    }
+  },
+  "note": "First published: 2023-11-29; Recorded arXiv version: v2; Recorded version updated: 2024-10-04T15:26:45Z.",
+  "author": [
+    {
+      "literal": "Farbin Fayza"
+    },
+    {
+      "literal": "Cansu Demirkiran"
+    },
+    {
+      "literal": "Hanning Chen"
+    },
+    {
+      "literal": "Che-Kai Liu"
+    },
+    {
+      "literal": "Avi Mohan"
+    },
+    {
+      "literal": "Hamza Errahmouni"
+    },
+    {
+      "literal": "Sanggeon Yun"
+    },
+    {
+      "literal": "Mohsen Imani"
+    },
+    {
+      "literal": "David Zhang"
+    },
+    {
+      "literal": "Darius Bunandar"
+    },
+    {
+      "literal": "Ajay Joshi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.17801",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,9 +16,16 @@ Bibliographic record for ToolCUA: Towards Optimal GUI-Tool Path Orchestration fo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-12481/record.json
+
 ## Authors
 
 Xuhao Hu, Xi Zhang, Haiyang Xu, Kyle Qiao, Jingyi Yang, Xuanjing Huang, Jing Shao, Ming Yan, Jieping Ye
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-12481/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-12481/citation.csl.json
 
 ## Recorded arXiv snapshot
 

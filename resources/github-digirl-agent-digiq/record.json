@@ -1,0 +1,61 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T11:09:28Z",
+      "role": "primary",
+      "sha256": "33c55f7d1df7f812c9c9b9c4d97a4de7408b1b1916e58eed266b1f88389b50cd",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/DigiRL-agent/digiq/HEAD/README.md"
+    }
+  ],
+  "id": "github:digirl-agent/digiq",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-16T11:09:28Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/DigiRL-agent/digiq"
+    }
+  ],
+  "name": "Digi-Q",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/DigiRL-agent/digiq/HEAD/README.md",
+      "target_id": "arxiv:2502.15760",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Offline device-control training code that learns action values and uses them to select promising actions, with linked trajectories and checkpoints.",
+  "topics": [
+    "reinforcement-learning",
+    "efficiency"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/DigiRL-agent/digiq"
+}

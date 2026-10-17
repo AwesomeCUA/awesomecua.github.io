@@ -16,9 +16,16 @@ Bibliographic record for Sustainability-Aware Cloud Computing Using Virtual Carb
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1510-05182/record.json
+
 ## Authors
 
 Fereydoun Farrahi Moghaddam, Mohamed Cheriet
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1510-05182/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1510-05182/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2404.14038",
+  "citation-key": "arxiv_2404_14038",
+  "type": "article",
+  "title": "Accurate Chemical Reaction Modeling on Noisy Intermediate-Scale Quantum Computers Using a Noise-Resilient Wavefunction Ansatz",
+  "URL": "https://arxiv.org/abs/2404.14038v1",
+  "custom": {
+    "catalog_id": "arxiv:2404.14038",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2404.14038",
+    "identifiers": {
+      "arxiv": "2404.14038"
+    },
+    "first_published_at": "2024-04-22",
+    "record_updated_at": "2024-04-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "969d0fcf178e094491e29884995d0b180125125381a23cfe0c64d040827ea5e4",
+      "submitted_at": "2024-04-22T09:52:50Z",
+      "updated_at": "2024-04-22T09:52:50Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2404.14038v1"
+    }
+  },
+  "note": "First published: 2024-04-22; Recorded arXiv version: v1; Recorded version updated: 2024-04-22T09:52:50Z.",
+  "author": [
+    {
+      "literal": "Xiongzhi Zeng"
+    },
+    {
+      "literal": "Huili Zhang"
+    },
+    {
+      "literal": "Shizheng Zhang"
+    },
+    {
+      "literal": "Pei Liu"
+    },
+    {
+      "literal": "Kehuan Linghu"
+    },
+    {
+      "literal": "Jiangyu Cui"
+    },
+    {
+      "literal": "Xiaoxia Cai"
+    },
+    {
+      "literal": "Jie Liu"
+    },
+    {
+      "literal": "Zhenyu Li"
+    },
+    {
+      "literal": "Jinlong Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.14038",
+  "genre": "preprint",
+  "version": "1"
+}

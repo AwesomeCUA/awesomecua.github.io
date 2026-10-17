@@ -1,0 +1,69 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:05Z",
+      "role": "primary",
+      "sha256": "86d7fbe30596de4a1f1a1df2a986f5f247351a91c0c593dc4c29ba9c70d28c8f",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/aaronlab/browsertrace/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:06Z",
+      "role": "primary",
+      "sha256": "7b4ea96686420061c9d0e1ad4984d7c5efb7e1a62ce6dffd47862f02a7260867",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/aaronlab/browsertrace/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:aaronlab/browsertrace",
+  "identifiers": {},
+  "kind": "tool",
+  "last_verified_at": "2026-10-16T06:36:05Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-16T06:42:06Z",
+      "url": "https://raw.githubusercontent.com/aaronlab/browsertrace/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/aaronlab/browsertrace"
+    }
+  ],
+  "name": "BrowserTrace",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Local trace viewer for browser-agent runs.",
+  "topics": [
+    "observability"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/aaronlab/browsertrace"
+}

@@ -16,9 +16,16 @@ Provides a simulated shopping environment where language agents search, configur
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2207-01206/record.json
+
 ## Authors
 
 Shunyu Yao, Howard Chen, John Yang, Karthik Narasimhan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2207-01206/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2207-01206/citation.csl.json
 
 ## Recorded arXiv snapshot
 

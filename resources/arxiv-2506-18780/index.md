@@ -16,9 +16,16 @@ Bibliographic record for Design high-confidence computers using trusted instruct
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-18780/record.json
+
 ## Authors
 
 Shuangbao Paul Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-18780/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-18780/citation.csl.json
 
 ## Recorded arXiv snapshot
 

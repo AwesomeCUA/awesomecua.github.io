@@ -16,9 +16,16 @@ Bibliographic record for Securing Computer-Use Agents: A Unified Architecture-Li
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-07110/record.json
+
 ## Authors
 
 Zejian Chen, Zhanyuan Liu, Chaozhuo Li, Mengxiang Han, Songyang Liu, Litian Zhang, Feng Gao, Yiming Hei, Xi Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-07110/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-07110/citation.csl.json
 
 ## Recorded arXiv snapshot
 

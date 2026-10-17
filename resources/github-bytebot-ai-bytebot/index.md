@@ -16,6 +16,8 @@ Containerized desktop agent environment and application.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-bytebot-ai-bytebot/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/bytebot-ai/bytebot/HEAD/LICENSE

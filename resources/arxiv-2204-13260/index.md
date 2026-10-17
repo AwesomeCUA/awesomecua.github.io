@@ -16,9 +16,16 @@ Bibliographic record for Pattern recognition with neuromorphic computing using m
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2204-13260/record.json
+
 ## Authors
 
 Tomoyuki Yokouchi, Satoshi Sugimoto, Bivas Rana, Shinichiro Seki, Naoki Ogawa, Yuki Shiomi, Shinya Kasai, Yoshichika Otani
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2204-13260/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2204-13260/citation.csl.json
 
 ## Recorded arXiv snapshot
 

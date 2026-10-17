@@ -16,9 +16,16 @@ Studies compute allocation for web-agent post-training with teacher-generated su
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-04103/record.json
+
 ## Authors
 
 Dheeraj Vattikonda, Santhoshi Ravichandran, Emiliano Penaloza, Hadi Nekoei, Megh Thakkar, Thibault Le Sellier de Chezelles, Nicolas Gontier, Miguel Muñoz-Mármol, Sahar Omidi Shayegan, Stefania Raimondo, Xue Liu, Alexandre Drouin, Laurent Charlin, Alexandre Piché, Alexandre Lacoste, Massimo Caccia
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-04103/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-04103/citation.csl.json
 
 ## Recorded arXiv snapshot
 

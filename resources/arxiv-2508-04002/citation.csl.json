@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2508.04002",
+  "citation-key": "arxiv_2508_04002",
+  "type": "article",
+  "title": "CAD-Judge: Toward Efficient Morphological Grading and Verification for Text-to-CAD Generation",
+  "URL": "https://arxiv.org/abs/2508.04002v1",
+  "custom": {
+    "catalog_id": "arxiv:2508.04002",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.04002",
+    "identifiers": {
+      "arxiv": "2508.04002"
+    },
+    "first_published_at": "2025-08-06",
+    "record_updated_at": "2025-08-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d4f8a21e2b0d2c1a8ec55e75ed5c4b014e7b1f47df3f8a3e09db633a9035e099",
+      "submitted_at": "2025-08-06T01:30:56Z",
+      "updated_at": "2025-08-06T01:30:56Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2508.04002v1"
+    }
+  },
+  "note": "First published: 2025-08-06; Recorded arXiv version: v1; Recorded version updated: 2025-08-06T01:30:56Z.",
+  "author": [
+    {
+      "literal": "Zheyuan Zhou"
+    },
+    {
+      "literal": "Jiayi Han"
+    },
+    {
+      "literal": "Liang Du"
+    },
+    {
+      "literal": "Naiyu Fang"
+    },
+    {
+      "literal": "Lemiao Qiu"
+    },
+    {
+      "literal": "Shuyou Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.04002",
+  "genre": "preprint",
+  "version": "1"
+}

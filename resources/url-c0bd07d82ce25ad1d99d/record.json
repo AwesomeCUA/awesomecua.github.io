@@ -1,0 +1,61 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:38:27Z",
+      "role": "primary",
+      "sha256": "84ce0fd682367a6dac5cc5abc39d5c877556024bbf6ffdad30f76fc2ec08523f",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://hcompany.ai/research/models"
+    }
+  ],
+  "id": "url:c0bd07d82ce25ad1d99d",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-16T06:38:27Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://hcompany.ai/research/models"
+    }
+  ],
+  "name": "Holo Model Family",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://hcompany.ai/research/models",
+      "target_id": "organization:h",
+      "type": "published_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "H computer-use model family and its release-specific access options.",
+  "topics": [
+    "planning",
+    "grounding"
+  ],
+  "updated_at": null,
+  "url": "https://hcompany.ai/research/models"
+}

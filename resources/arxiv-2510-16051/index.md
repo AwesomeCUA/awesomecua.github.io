@@ -16,9 +16,16 @@ GUIrilla systematically explores macOS interfaces to collect interaction traces 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-16051/record.json
+
 ## Authors
 
 Sofiya Garkot, Maksym Shamrai, Ivan Synytsia, Mariya Hirna
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-16051/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-16051/citation.csl.json
 
 ## Recorded arXiv snapshot
 

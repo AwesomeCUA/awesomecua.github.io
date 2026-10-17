@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2602.01576",
+  "citation-key": "arxiv_2602_01576",
+  "type": "article",
+  "title": "Generative Visual Code Mobile World Models",
+  "URL": "https://arxiv.org/abs/2602.01576v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.01576",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.01576",
+    "identifiers": {
+      "arxiv": "2602.01576"
+    },
+    "first_published_at": "2026-02-02",
+    "record_updated_at": "2026-05-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7c29d1404b02c4f5ef2cdaf78bdb0f9062b1b85ec1a154408bc8f49446c28d08",
+      "submitted_at": "2026-02-02T03:12:16Z",
+      "updated_at": "2026-05-23T02:41:44Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.01576v2"
+    }
+  },
+  "note": "First published: 2026-02-02; Recorded arXiv version: v2; Recorded version updated: 2026-05-23T02:41:44Z.",
+  "author": [
+    {
+      "literal": "Woosung Koh"
+    },
+    {
+      "literal": "Sungjun Han"
+    },
+    {
+      "literal": "Segyu Lee"
+    },
+    {
+      "literal": "Se-Young Yun"
+    },
+    {
+      "literal": "Jamin Shin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.01576",
+  "genre": "preprint",
+  "version": "2"
+}

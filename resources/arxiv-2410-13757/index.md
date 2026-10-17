@@ -16,9 +16,16 @@ Combines adaptive mobile-task planning, reflection-based recovery, and multiple 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-13757/record.json
+
 ## Authors
 
 Zichen Zhu, Hao Tang, Yansi Li, Dingye Liu, Hongshen Xu, Kunyao Lan, Danyang Zhang, Yixuan Jiang, Hao Zhou, Chenrun Wang, Situo Zhang, Liangtai Sun, Yixiao Wang, Yuheng Sun, Lu Chen, Kai Yu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-13757/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-13757/citation.csl.json
 
 ## Recorded arXiv snapshot
 

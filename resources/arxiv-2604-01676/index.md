@@ -16,9 +16,16 @@ Bibliographic record for GPA: Learning GUI Process Automation from Demonstration
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-01676/record.json
+
 ## Authors
 
 Zirui Zhao, Jun Hao Liew, Yan Yang, Wenzhuo Yang, Ziyang Luo, Doyen Sahoo, Silvio Savarese, Junnan Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-01676/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-01676/citation.csl.json
 
 ## Recorded arXiv snapshot
 

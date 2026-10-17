@@ -16,6 +16,8 @@ Self-hosted web environments and tasks for evaluating autonomous web agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-web-arena-x-webarena/record.json
+
 ## Structured profile
 
 - actions: browser element actions

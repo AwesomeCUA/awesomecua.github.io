@@ -16,9 +16,16 @@ Bibliographic record for Zengram-Lite: An In-Browser Agentic-Memory Framework - 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-00042/record.json
+
 ## Authors
 
 Gene Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-00042/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-00042/citation.csl.json
 
 ## Recorded arXiv snapshot
 

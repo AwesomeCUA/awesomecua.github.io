@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2610.20939",
+  "citation-key": "arxiv_2610_20939",
+  "type": "article",
+  "title": "MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments",
+  "URL": "https://arxiv.org/abs/2610.20939v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.20939",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.20939",
+    "identifiers": {
+      "arxiv": "2610.20939"
+    },
+    "first_published_at": "2026-10-14",
+    "record_updated_at": "2026-10-14",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a5f4eda178718aac211eddc7281d572dc1d189dfd0cd130d4eba9f30f5a05ca2",
+      "submitted_at": "2026-10-14T21:06:01Z",
+      "updated_at": "2026-10-14T21:06:01Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.20939v1"
+    }
+  },
+  "note": "First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T21:06:01Z.",
+  "author": [
+    {
+      "literal": "Panrong Tong"
+    },
+    {
+      "literal": "Quyu Kong"
+    },
+    {
+      "literal": "Pengxiang Li"
+    },
+    {
+      "literal": "Tianyu Xia"
+    },
+    {
+      "literal": "Hanzhang Zhou"
+    },
+    {
+      "literal": "Lei Wang"
+    },
+    {
+      "literal": "Chenglin Cai"
+    },
+    {
+      "literal": "Long Li"
+    },
+    {
+      "literal": "Long Chen"
+    },
+    {
+      "literal": "Jianan Zhang"
+    },
+    {
+      "literal": "Zhengwen Zeng"
+    },
+    {
+      "literal": "Xu Zhang"
+    },
+    {
+      "literal": "Gongjie Zhang"
+    },
+    {
+      "literal": "Yue Wang"
+    },
+    {
+      "literal": "Steven Hoi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.20939",
+  "genre": "preprint",
+  "version": "1"
+}

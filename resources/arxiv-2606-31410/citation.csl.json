@@ -1,0 +1,139 @@
+{
+  "id": "arxiv:2606.31410",
+  "citation-key": "arxiv_2606_31410",
+  "type": "article",
+  "title": "Xiaomi-GUI-0 Technical Report",
+  "URL": "https://arxiv.org/abs/2606.31410v2",
+  "custom": {
+    "catalog_id": "arxiv:2606.31410",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2606.31410",
+    "identifiers": {
+      "arxiv": "2606.31410"
+    },
+    "first_published_at": "2026-06-30",
+    "record_updated_at": "2026-07-01",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "974d471d25373502914bf0d146d5d4a54a5751281c04921a9d331d83bce64b33",
+      "submitted_at": "2026-06-30T09:36:35Z",
+      "updated_at": "2026-07-01T03:59:21Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2606.31410v2"
+    }
+  },
+  "note": "First published: 2026-06-30; Recorded arXiv version: v2; Recorded version updated: 2026-07-01T03:59:21Z.",
+  "author": [
+    {
+      "literal": "Wanxia Cao"
+    },
+    {
+      "literal": "Chengzhen Duan"
+    },
+    {
+      "literal": "Pei Fu"
+    },
+    {
+      "literal": "Pengzhi Gao"
+    },
+    {
+      "literal": "Niu Lian"
+    },
+    {
+      "literal": "Fazhan Liu"
+    },
+    {
+      "literal": "Hui Liu"
+    },
+    {
+      "literal": "Heng Qu"
+    },
+    {
+      "literal": "Qinzhuo Wu"
+    },
+    {
+      "literal": "Zhehao Yu"
+    },
+    {
+      "literal": "Tongbo Chen"
+    },
+    {
+      "literal": "Shiqi Cui"
+    },
+    {
+      "literal": "Anan Du"
+    },
+    {
+      "literal": "Shukai Jia"
+    },
+    {
+      "literal": "Yuanfa Li"
+    },
+    {
+      "literal": "Wei Liu"
+    },
+    {
+      "literal": "Yike Liu"
+    },
+    {
+      "literal": "Wenchao Lu"
+    },
+    {
+      "literal": "Zhenbo Luo"
+    },
+    {
+      "literal": "Haoyuan Sun"
+    },
+    {
+      "literal": "Jiatong Sun"
+    },
+    {
+      "literal": "Cheng Tan"
+    },
+    {
+      "literal": "Yajie Wang"
+    },
+    {
+      "literal": "Changqiao Wu"
+    },
+    {
+      "literal": "Tao Xiong"
+    },
+    {
+      "literal": "Jiahui Yang"
+    },
+    {
+      "literal": "Yuxuan Yuan"
+    },
+    {
+      "literal": "Ruoceng Zhang"
+    },
+    {
+      "literal": "Shaojie Zhang"
+    },
+    {
+      "literal": "Jian Zhu"
+    },
+    {
+      "literal": "Jian Luan"
+    },
+    {
+      "literal": "Cong Zou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.31410",
+  "genre": "preprint",
+  "version": "2"
+}

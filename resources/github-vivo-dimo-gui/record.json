@@ -1,0 +1,76 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:01Z",
+      "role": "primary",
+      "sha256": "4f578ecd5cbba12797586892a9190e480291bd267a180f0ce56847764eaac524",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/vivo/DiMo-GUI/HEAD/readme.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:01Z",
+      "role": "primary",
+      "sha256": "d1a708ddcd4afc4e40a5d66f2d56835a12d815515ab6a61578e541ed2c0483bb",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/vivo/DiMo-GUI/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:vivo/dimo-gui",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-16T06:36:01Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T06:42:01Z",
+      "url": "https://raw.githubusercontent.com/vivo/DiMo-GUI/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/vivo/DiMo-GUI"
+    }
+  ],
+  "name": "DiMo-GUI",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/vivo/DiMo-GUI/HEAD/readme.md",
+      "target_id": "arxiv:2507.00008",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "GUI grounding research using modality-aware visual reasoning and test-time scaling.",
+  "topics": [
+    "grounding",
+    "efficiency"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/vivo/DiMo-GUI"
+}

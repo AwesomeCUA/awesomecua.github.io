@@ -16,9 +16,16 @@ Bibliographic record for BReG-NeXt: Facial Affect Computing Using Adaptive Resid
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2004-08495/record.json
+
 ## Authors
 
 Behzad Hasani, Pooran Singh Negi, Mohammad H. Mahoor
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2004-08495/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2004-08495/citation.csl.json
 
 ## Recorded arXiv snapshot
 

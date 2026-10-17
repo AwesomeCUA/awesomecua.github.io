@@ -16,9 +16,16 @@ Bibliographic record for Octo-planner: On-device Language Model for Planner-Acti
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-18082/record.json
+
 ## Authors
 
 Wei Chen, Zhiyuan Li, Zhen Guo, Yikang Shen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-18082/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-18082/citation.csl.json
 
 ## Recorded arXiv snapshot
 

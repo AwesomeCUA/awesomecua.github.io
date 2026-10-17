@@ -16,9 +16,16 @@ Bibliographic record for Think Before You Act: Decision Transformers with Workin
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2305-16338/record.json
+
 ## Authors
 
 Jikun Kang, Romain Laroche, Xingdi Yuan, Adam Trischler, Xue Liu, Jie Fu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2305-16338/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-16338/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Survey of research directions in GUI or computer-use agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-18279/record.json
+
 ## Authors
 
 Chaoyun Zhang, Shilin He, Jiaxu Qian, Bowen Li, Liqun Li, Si Qin, Yu Kang, Minghua Ma, Guyue Liu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-18279/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-18279/citation.csl.json
 
 ## Recorded arXiv snapshot
 

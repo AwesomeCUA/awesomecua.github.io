@@ -16,6 +16,8 @@ Mobile-control research implementation combining operating-procedure context wit
 
 Distinct from the X-PLUG/MobileAgent project despite the similar name.
 
+- Record JSON: https://awesomecua.github.io/resources/github-alipay-mobile-agent/record.json
+
 ## License declarations
 
 - code: not recorded

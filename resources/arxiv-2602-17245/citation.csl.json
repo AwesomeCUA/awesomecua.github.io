@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2602.17245",
+  "citation-key": "arxiv_2602_17245",
+  "type": "article",
+  "title": "Web Agents Should Use Typed Actions Instead of Click-Based Browsing",
+  "URL": "https://arxiv.org/abs/2602.17245v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.17245",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.17245",
+    "identifiers": {
+      "arxiv": "2602.17245"
+    },
+    "first_published_at": "2026-02-19",
+    "record_updated_at": "2026-06-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "81cb12b4b7379a2f602ab9edeea4d1c3a2f16be486f93742829e7f65f2128968",
+      "submitted_at": "2026-02-19T10:50:52Z",
+      "updated_at": "2026-06-07T07:49:30Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.17245v2"
+    }
+  },
+  "note": "First published: 2026-02-19; Recorded arXiv version: v2; Recorded version updated: 2026-06-07T07:49:30Z.",
+  "author": [
+    {
+      "literal": "Linxi Jiang"
+    },
+    {
+      "literal": "Rui Xi"
+    },
+    {
+      "literal": "Zhijie Liu"
+    },
+    {
+      "literal": "Shuo Chen"
+    },
+    {
+      "literal": "Zhiqiang Lin"
+    },
+    {
+      "literal": "Suman Nath"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.17245",
+  "genre": "preprint",
+  "version": "2"
+}

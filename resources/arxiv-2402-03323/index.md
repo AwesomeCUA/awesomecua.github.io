@@ -16,9 +16,16 @@ Bibliographic record for Portable medical devices creation technology by using t
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-03323/record.json
+
 ## Authors
 
 A. O. Dadukin, N. I. Pchelintseva
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-03323/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-03323/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Introduces ActReal, which translates semantic mobile-agent actions into coordina
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-30038/record.json
+
 ## Authors
 
 Mingshuo Wang, Hanqing Guo, Huining Li, Yuliang Fu, Jing Xu, Chenhan Xu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-30038/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-30038/citation.csl.json
 
 ## Recorded arXiv snapshot
 

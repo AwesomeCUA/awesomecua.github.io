@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2308.11522",
+  "citation-key": "arxiv_2308_11522",
+  "type": "article",
+  "title": "ReLiCADA -- Reservoir Computing using Linear Cellular Automata Design Algorithm",
+  "URL": "https://arxiv.org/abs/2308.11522v1",
+  "custom": {
+    "catalog_id": "arxiv:2308.11522",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2308.11522",
+    "identifiers": {
+      "arxiv": "2308.11522"
+    },
+    "first_published_at": "2023-08-22",
+    "record_updated_at": "2023-08-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "515633a89f1cb6e8219133a38c6ce4b50663ae463fad073aa5e52bb06b17a4f8",
+      "submitted_at": "2023-08-22T15:52:37Z",
+      "updated_at": "2023-08-22T15:52:37Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2308.11522v1"
+    }
+  },
+  "note": "First published: 2023-08-22; Recorded arXiv version: v1; Recorded version updated: 2023-08-22T15:52:37Z.",
+  "author": [
+    {
+      "literal": "Jonas Kantic"
+    },
+    {
+      "literal": "Fabian C. Legl"
+    },
+    {
+      "literal": "Walter Stechele"
+    },
+    {
+      "literal": "Jakob Hermann"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        8,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2308.11522",
+  "genre": "preprint",
+  "version": "1"
+}

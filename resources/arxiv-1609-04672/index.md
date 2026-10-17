@@ -16,9 +16,16 @@ Bibliographic record for Analog computing using reflective plasmonic metasurface
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1609-04672/record.json
+
 ## Authors
 
 Anders Pors, Michael G. Nielsen, Sergey I. Bozhevolnyi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1609-04672/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1609-04672/citation.csl.json
 
 ## Recorded arXiv snapshot
 

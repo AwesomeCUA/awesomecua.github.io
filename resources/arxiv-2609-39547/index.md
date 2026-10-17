@@ -16,9 +16,16 @@ Combines structured GUI exploration with training designed to tolerate imperfect
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-39547/record.json
+
 ## Authors
 
 Bo Han, Qianyi Wang, Shuai Liu, Xiong Zifan, Changqiao Wu, Yuanfa Li, Pengzhi Gao, Wei Liu, Jian Luan, Heng Qu, Yunpeng Song, Zhongmin Cai
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-39547/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-39547/citation.csl.json
 
 ## Recorded arXiv snapshot
 

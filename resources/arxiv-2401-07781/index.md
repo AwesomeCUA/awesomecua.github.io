@@ -16,9 +16,16 @@ Bibliographic record for Towards A Better Metric for Text-to-Video Generation. T
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2401-07781/record.json
+
 ## Authors
 
 Jay Zhangjie Wu, Guian Fang, Haoning Wu, Xintao Wang, Yixiao Ge, Xiaodong Cun, David Junhao Zhang, Jia-Wei Liu, Yuchao Gu, Rui Zhao, Weisi Lin, Wynne Hsu, Ying Shan, Mike Zheng Shou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2401-07781/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-07781/citation.csl.json
 
 ## Recorded arXiv snapshot
 

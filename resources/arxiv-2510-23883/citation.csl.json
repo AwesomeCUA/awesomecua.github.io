@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2510.23883",
+  "citation-key": "arxiv_2510_23883",
+  "type": "article",
+  "title": "Agentic AI Security: Threats, Defenses, Evaluation, and Open Challenges",
+  "URL": "https://arxiv.org/abs/2510.23883v3",
+  "custom": {
+    "catalog_id": "arxiv:2510.23883",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.23883",
+    "identifiers": {
+      "arxiv": "2510.23883"
+    },
+    "first_published_at": "2025-10-27",
+    "record_updated_at": "2026-04-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d908843d49f2718bf5cd405fb37003496971d7e9a0cb3f2b93c94c5d1e40a46c",
+      "submitted_at": "2025-10-27T21:48:11Z",
+      "updated_at": "2026-04-03T16:27:34Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2510.23883v3"
+    }
+  },
+  "note": "First published: 2025-10-27; Recorded arXiv version: v3; Recorded version updated: 2026-04-03T16:27:34Z.",
+  "author": [
+    {
+      "literal": "Anshuman Chhabra"
+    },
+    {
+      "literal": "Shrestha Datta"
+    },
+    {
+      "literal": "Shahriar Kabir Nahin"
+    },
+    {
+      "literal": "Prasant Mohapatra"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.23883",
+  "genre": "preprint",
+  "version": "3"
+}

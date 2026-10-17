@@ -16,9 +16,16 @@ Bibliographic record for Compiler Optimization for Quantum Computing Using Reinf
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2212-04508/record.json
+
 ## Authors
 
 Nils Quetschlich, Lukas Burgholzer, Robert Wille
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2212-04508/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2212-04508/citation.csl.json
 
 ## Recorded arXiv snapshot
 

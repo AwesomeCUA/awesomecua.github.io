@@ -16,9 +16,16 @@ Bibliographic record for GuardAgent: Safeguard LLM Agents by a Guard Agent via K
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-09187/record.json
+
 ## Authors
 
 Zhen Xiang, Linzhi Zheng, Yanjie Li, Junyuan Hong, Qinbin Li, Han Xie, Jiawei Zhang, Zidi Xiong, Chulin Xie, Carl Yang, Dawn Song, Bo Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-09187/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-09187/citation.csl.json
 
 ## Recorded arXiv snapshot
 

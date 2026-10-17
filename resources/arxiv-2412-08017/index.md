@@ -16,9 +16,16 @@ Bibliographic record for Integrated probabilistic computer using voltage-control
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-08017/record.json
+
 ## Authors
 
 Christian Duffee, Jordan Athas, Yixin Shao, Noraica Davila Melendez, Eleonora Raimondo, Jordan A. Katine, Kerem Y. Camsari, Giovanni Finocchio, Pedram Khalili Amiri
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-08017/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-08017/citation.csl.json
 
 ## Recorded arXiv snapshot
 

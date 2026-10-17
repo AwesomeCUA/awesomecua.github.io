@@ -16,9 +16,16 @@ Treats alternative instruction formulations as reasoning paths and trains GUI-gr
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-20286/record.json
+
 ## Authors
 
 Liangyu Chen, Hanzhang Zhou, Chenglin Cai, Jianan Zhang, Panrong Tong, Quyu Kong, Xu Zhang, Chen Liu, Yuqi Liu, Wenxuan Wang, Yue Wang, Qin Jin, Steven Hoi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-20286/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-20286/citation.csl.json
 
 ## Recorded arXiv snapshot
 

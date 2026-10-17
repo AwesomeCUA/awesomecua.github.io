@@ -16,9 +16,16 @@ Trains a screenshot-driven GUI agent with grounding pretraining and introduces S
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2401-10935/record.json
+
 ## Authors
 
 Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2401-10935/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-10935/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Evaluates semantic world models for mobile interfaces and studies natural-langua
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-14014/record.json
+
 ## Authors
 
 Shufan Li, Konstantinos Kallidromitis, Akash Gokul, Yusuke Kato, Kazuki Kozuka, Aditya Grover
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-14014/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-14014/citation.csl.json
 
 ## Recorded arXiv snapshot
 

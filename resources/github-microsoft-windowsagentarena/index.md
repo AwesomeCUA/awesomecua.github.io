@@ -16,6 +16,8 @@ Windows desktop agent evaluation environment.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-microsoft-windowsagentarena/record.json
+
 ## Structured profile
 
 - actions: agent-defined Windows interactions

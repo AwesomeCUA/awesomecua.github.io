@@ -16,9 +16,16 @@ Bibliographic record for WebAggregator: Enhancing Compositional Reasoning Capabi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-14438/record.json
+
 ## Authors
 
 Rui Wang, Ce Zhang, Jun-Yu Ma, Jianshu Zhang, Hongru Wang, Yi Chen, Boyang Xue, Tianqing Fang, Zhisong Zhang, Hongming Zhang, Haitao Mi, Dong Yu, Kam-Fai Wong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-14438/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-14438/citation.csl.json
 
 ## Recorded arXiv snapshot
 

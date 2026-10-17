@@ -16,9 +16,16 @@ Bibliographic record for Data Formulator: AI-powered Concept-driven Visualizatio
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2309-10094/record.json
+
 ## Authors
 
 Chenglong Wang, John Thompson, Bongshin Lee
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2309-10094/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2309-10094/citation.csl.json
 
 ## Recorded arXiv snapshot
 

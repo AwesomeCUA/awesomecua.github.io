@@ -16,9 +16,16 @@ Bibliographic record for A Scalable, Fast and Programmable Neural Decoder for Fa
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2305-15767/record.json
+
 ## Authors
 
 Mengyu Zhang, Xiangyu Ren, Guanglei Xi, Zhenxing Zhang, Qiaonian Yu, Fuming Liu, Hualiang Zhang, Shengyu Zhang, Yi-Cong Zheng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2305-15767/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-15767/citation.csl.json
 
 ## Recorded arXiv snapshot
 

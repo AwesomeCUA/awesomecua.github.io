@@ -16,9 +16,16 @@ Bibliographic record for GUI-Eyes: Tool-Augmented Perception for Visual Groundin
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-09770/record.json
+
 ## Authors
 
 Chen Chen, Jiawei Shao, Dakuan Lu, Haoyi Hu, Xiangcheng Liu, Hantao Yao, Wu Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-09770/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-09770/citation.csl.json
 
 ## Recorded arXiv snapshot
 

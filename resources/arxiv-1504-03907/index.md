@@ -16,9 +16,16 @@ Bibliographic record for Ultra-low-energy non-volatile straintronic computing us
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1504-03907/record.json
+
 ## Authors
 
 Kuntal Roy
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1504-03907/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1504-03907/citation.csl.json
 
 ## Recorded arXiv snapshot
 

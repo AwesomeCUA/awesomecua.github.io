@@ -16,9 +16,16 @@ Bibliographic record for VLAA-GUI: Knowing When to Stop, Recover, and Search, A 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-21375/record.json
+
 ## Authors
 
 Qijun Han, Haoqin Tu, Zijun Wang, Haoyue Dai, Yiyang Zhou, Nancy Lau, Alvaro A. Cardenas, Yuhui Xu, Ran Xu, Caiming Xiong, Zeyu Zheng, Huaxiu Yao, Yuyin Zhou, Cihang Xie
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-21375/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-21375/citation.csl.json
 
 ## Recorded arXiv snapshot
 

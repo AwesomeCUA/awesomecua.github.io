@@ -1,0 +1,71 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:35:59Z",
+      "role": "primary",
+      "sha256": "5703c892aaf99d250bf59edf52d359560a80d443f2be13c7aa76af0c1a7f1d67",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/inclusionAI/UI-Venus/HEAD/README.md"
+    }
+  ],
+  "id": "github:inclusionai/ui-venus",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-16T06:35:59Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/inclusionAI/UI-Venus"
+    }
+  ],
+  "name": "UI-Venus",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/inclusionAI/UI-Venus/HEAD/README.md",
+      "target_id": "arxiv:2508.10833",
+      "type": "documented_by"
+    },
+    {
+      "evidence_url": "https://raw.githubusercontent.com/inclusionAI/UI-Venus/HEAD/README.md",
+      "target_id": "arxiv:2602.09082",
+      "type": "documented_by"
+    },
+    {
+      "evidence_url": "https://raw.githubusercontent.com/inclusionAI/UI-Venus/HEAD/README.md",
+      "target_id": "arxiv:2609.00028",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "GUI model family for interface grounding and navigation.",
+  "topics": [
+    "grounding",
+    "planning"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/inclusionAI/UI-Venus"
+}

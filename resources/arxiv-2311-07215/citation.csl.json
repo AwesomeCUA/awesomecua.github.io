@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2311.07215",
+  "citation-key": "arxiv_2311_07215",
+  "type": "article",
+  "title": "Coffee: Boost Your Code LLMs by Fixing Bugs with Feedback",
+  "URL": "https://arxiv.org/abs/2311.07215v3",
+  "custom": {
+    "catalog_id": "arxiv:2311.07215",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2311.07215",
+    "identifiers": {
+      "arxiv": "2311.07215"
+    },
+    "first_published_at": "2023-11-13",
+    "record_updated_at": "2024-02-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "13a594e5264180b764af81d80e1c13e69fd0df84a04b2d4818aca5a7df6c81b9",
+      "submitted_at": "2023-11-13T10:15:19Z",
+      "updated_at": "2024-02-23T06:56:16Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2311.07215v3"
+    }
+  },
+  "note": "First published: 2023-11-13; Recorded arXiv version: v3; Recorded version updated: 2024-02-23T06:56:16Z.",
+  "author": [
+    {
+      "literal": "Seungjun Moon"
+    },
+    {
+      "literal": "Hyungjoo Chae"
+    },
+    {
+      "literal": "Yongho Song"
+    },
+    {
+      "literal": "Taeyoon Kwon"
+    },
+    {
+      "literal": "Dongjin Kang"
+    },
+    {
+      "literal": "Kai Tzu-iunn Ong"
+    },
+    {
+      "literal": "Seung-won Hwang"
+    },
+    {
+      "literal": "Jinyoung Yeo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.07215",
+  "genre": "preprint",
+  "version": "3"
+}

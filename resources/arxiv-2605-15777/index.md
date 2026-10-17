@@ -16,9 +16,16 @@ Bibliographic record for SaaS-Bench: Can Computer-Use Agents Leverage Real-World
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-15777/record.json
+
 ## Authors
 
 Kean Shi, Zihang Li, Tianyi Ma, Zengji Tu, Jialong Wu, Xinbo Xu, Qingyao Yang, Ruoyu Wu, Weichu Xie, Ming Wu, Jason Zeng, Michael Heinrich, Elvis Zhang, Liang Chen, Kuan Li, Baobao Chang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-15777/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-15777/citation.csl.json
 
 ## Recorded arXiv snapshot
 

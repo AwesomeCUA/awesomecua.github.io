@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2509.11939",
+  "citation-key": "arxiv_2509_11939",
+  "type": "article",
+  "title": "PrivWeb: Unobtrusive and Content-aware Privacy Protection For Web Agents",
+  "URL": "https://arxiv.org/abs/2509.11939v1",
+  "custom": {
+    "catalog_id": "arxiv:2509.11939",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.11939",
+    "identifiers": {
+      "arxiv": "2509.11939"
+    },
+    "first_published_at": "2025-09-15",
+    "record_updated_at": "2025-09-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f37ebc10535f96d17d28990e608a1f2eb6cc004f40d58b3288c4a81d781160ea",
+      "submitted_at": "2025-09-15T13:58:52Z",
+      "updated_at": "2025-09-15T13:58:52Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2509.11939v1"
+    }
+  },
+  "note": "First published: 2025-09-15; Recorded arXiv version: v1; Recorded version updated: 2025-09-15T13:58:52Z.",
+  "author": [
+    {
+      "literal": "Shuning Zhang"
+    },
+    {
+      "literal": "Yutong Jiang"
+    },
+    {
+      "literal": "Rongjun Ma"
+    },
+    {
+      "literal": "Yuting Yang"
+    },
+    {
+      "literal": "Mingyao Xu"
+    },
+    {
+      "literal": "Zhixin Huang"
+    },
+    {
+      "literal": "Xin Yi"
+    },
+    {
+      "literal": "Hewu Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.11939",
+  "genre": "preprint",
+  "version": "1"
+}

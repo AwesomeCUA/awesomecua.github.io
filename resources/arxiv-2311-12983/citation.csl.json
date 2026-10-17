@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2311.12983",
+  "citation-key": "arxiv_2311_12983",
+  "type": "article",
+  "title": "GAIA: a benchmark for General AI Assistants",
+  "URL": "https://arxiv.org/abs/2311.12983v1",
+  "custom": {
+    "catalog_id": "arxiv:2311.12983",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2311.12983",
+    "identifiers": {
+      "arxiv": "2311.12983"
+    },
+    "first_published_at": "2023-11-21",
+    "record_updated_at": "2023-11-21",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "29ddf2b7b4d495ee18bbd263cd77f86a71b3014b58a6f140c3bfce7cbae9c922",
+      "submitted_at": "2023-11-21T20:34:47Z",
+      "updated_at": "2023-11-21T20:34:47Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2311.12983v1"
+    }
+  },
+  "note": "First published: 2023-11-21; Recorded arXiv version: v1; Recorded version updated: 2023-11-21T20:34:47Z.",
+  "author": [
+    {
+      "literal": "Grégoire Mialon"
+    },
+    {
+      "literal": "Clémentine Fourrier"
+    },
+    {
+      "literal": "Craig Swift"
+    },
+    {
+      "literal": "Thomas Wolf"
+    },
+    {
+      "literal": "Yann LeCun"
+    },
+    {
+      "literal": "Thomas Scialom"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.12983",
+  "genre": "preprint",
+  "version": "1"
+}

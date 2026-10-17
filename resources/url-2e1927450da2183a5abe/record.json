@@ -1,0 +1,130 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "dataset_profile": {
+      "counts": [],
+      "evidence_urls": [
+        "https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-16k/raw/main/README.md",
+        "https://raw.githubusercontent.com/Euphoria16/UI-Genie/HEAD/README.md"
+      ],
+      "formats": [
+        "JSONL",
+        "PNG"
+      ],
+      "modalities": [
+        "screenshots",
+        "text",
+        "actions"
+      ],
+      "notes": "Public JSONL annotations and screenshots are present. MIT is declared in the dataset card. The release name, model-card links and annotation filename use different size labels; this review does not infer a reliable trajectory count from them.",
+      "splits": [],
+      "supervision": [
+        "GUI action trajectories"
+      ]
+    },
+    "disabled": false,
+    "download_url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-16k/tree/main",
+    "gated": false,
+    "hub_id": "HanXiao1999/UI-Genie-Agent-16k",
+    "languages": [],
+    "modalities": [],
+    "sample_count": null,
+    "sample_unit": null
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:01:34Z",
+      "role": "primary",
+      "sha256": "a748fc7dbb53d5d751c5ee109e437c377e214b1d837762f8d09995349d86cec9",
+      "supports": [
+        "name",
+        "kind",
+        "relations",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-16k/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:01:33Z",
+      "role": "primary",
+      "sha256": "548df402288350920a26bff2099544bf21835200ee58ff2c657c331fa6200317",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/api/datasets/HanXiao1999/UI-Genie-Agent-16k"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T03:59:54Z",
+      "role": "primary",
+      "sha256": "e08569bd9d8a6ff44537d4fe69243ddfeb8a41ae5c9f87ef84af50a67c64c726",
+      "supports": [
+        "summary",
+        "environments",
+        "topics",
+        "scope"
+      ],
+      "url": "https://raw.githubusercontent.com/Euphoria16/UI-Genie/HEAD/README.md"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T04:01:34Z",
+      "role": "primary",
+      "sha256": "a748fc7dbb53d5d751c5ee109e437c377e214b1d837762f8d09995349d86cec9",
+      "supports": [
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-16k/raw/main/README.md"
+    }
+  ],
+  "id": "url:2e1927450da2183a5abe",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-17T04:01:34Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "mit",
+      "retrieved_at": "2026-10-17T04:01:34Z",
+      "url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-16k/raw/main/README.md"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-16k"
+    }
+  ],
+  "name": "UI-Genie trajectory data",
+  "notes": "Public JSONL annotations and screenshots are present. MIT is declared in the dataset card. The release name, model-card links and annotation filename use different size labels; this review does not infer a reliable trajectory count from them.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-16k/raw/main/README.md",
+      "target_id": "arxiv:2505.21496",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Synthetic mobile GUI trajectory supervision and screenshots released with the UI-Genie agent-training pipeline.",
+  "topics": [
+    "data-generation",
+    "mobile-navigation",
+    "imitation-learning"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-16k"
+}

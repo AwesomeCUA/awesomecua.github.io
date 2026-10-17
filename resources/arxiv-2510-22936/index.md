@@ -16,9 +16,16 @@ Bibliographic record for PPE: Positional Preservation Embedding for Token Compre
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-22936/record.json
+
 ## Authors
 
 Mouxiao Huang, Borui Jiang, Dehua Zheng, Hailin Hu, Kai Han, Xinghao Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-22936/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-22936/citation.csl.json
 
 ## Recorded arXiv snapshot
 

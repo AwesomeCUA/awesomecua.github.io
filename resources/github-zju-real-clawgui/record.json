@@ -1,0 +1,70 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:03Z",
+      "role": "primary",
+      "sha256": "3f0aaefce32210dfba428fcf9e609e04e75d4d1520d24a3a6377611a9b83fa6d",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/ZJU-REAL/ClawGUI/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:05Z",
+      "role": "primary",
+      "sha256": "af69329b4667040c498cc87dfcc165db1f5f9452fe2ad3024ad7eef63d467666",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/ZJU-REAL/ClawGUI/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:zju-real/clawgui",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-16T06:36:03Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T06:42:05Z",
+      "url": "https://raw.githubusercontent.com/ZJU-REAL/ClawGUI/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/ZJU-REAL/ClawGUI"
+    }
+  ],
+  "name": "ClawGUI",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Framework for GUI agent training, evaluation, and deployment.",
+  "topics": [
+    "reinforcement-learning",
+    "evaluation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/ZJU-REAL/ClawGUI"
+}

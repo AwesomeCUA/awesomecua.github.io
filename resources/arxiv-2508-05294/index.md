@@ -16,9 +16,16 @@ Bibliographic record for Towards Embodied Agentic AI: Review and Classification 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-05294/record.json
+
 ## Authors
 
 Sahar Salimpour, Lei Fu, Kajetan Rachwał, Pascal Bertrand, Kevin O'Sullivan, Robert Jakob, Farhad Keramat, Leonardo Militano, Giovanni Toffetti, Harry Edelman, Jorge Peña Queralta
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-05294/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-05294/citation.csl.json
 
 ## Recorded arXiv snapshot
 

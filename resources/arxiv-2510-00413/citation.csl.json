@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2510.00413",
+  "citation-key": "arxiv_2510_00413",
+  "type": "article",
+  "title": "PAL-UI: Planning with Active Look-back for Vision-Based GUI Agents",
+  "URL": "https://arxiv.org/abs/2510.00413v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.00413",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.00413",
+    "identifiers": {
+      "arxiv": "2510.00413"
+    },
+    "first_published_at": "2025-10-01",
+    "record_updated_at": "2025-10-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "277315ecc1a341c0a511bce84b87190fc0aeeb2306666ea8d4746aa8e9b39984",
+      "submitted_at": "2025-10-01T01:48:39Z",
+      "updated_at": "2025-10-04T15:23:55Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.00413v2"
+    }
+  },
+  "note": "First published: 2025-10-01; Recorded arXiv version: v2; Recorded version updated: 2025-10-04T15:23:55Z.",
+  "author": [
+    {
+      "literal": "Zikang Liu"
+    },
+    {
+      "literal": "Junyi Li"
+    },
+    {
+      "literal": "Wayne Xin Zhao"
+    },
+    {
+      "literal": "Dawei Gao"
+    },
+    {
+      "literal": "Yaliang Li"
+    },
+    {
+      "literal": "Ji-rong Wen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.00413",
+  "genre": "preprint",
+  "version": "2"
+}

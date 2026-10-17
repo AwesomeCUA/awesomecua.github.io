@@ -16,6 +16,8 @@ Environment setup, multi-turn reinforcement-learning and evaluation tooling for 
 
 The implementation is inside the WebAgent-R1 subdirectory and includes training, evaluation and WebArena setup components. Root source licensing is Apache-2.0. No downloadable author checkpoint was established by the reviewed README, so this entry represents code.
 
+- Record JSON: https://awesomecua.github.io/resources/github-weizhepei-webagent-r1/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/weizhepei/WebAgent-R1/HEAD/LICENSE

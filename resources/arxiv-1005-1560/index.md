@@ -16,9 +16,16 @@ Bibliographic record for Computation using Noise-based Logic: Efficient String V
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1005-1560/record.json
+
 ## Authors
 
 Laszlo B. Kish, Sunil Khatri, Tamas Horvath
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1005-1560/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1005-1560/citation.csl.json
 
 ## Recorded arXiv snapshot
 

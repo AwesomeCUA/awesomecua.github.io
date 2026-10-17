@@ -16,9 +16,16 @@ Bibliographic record for ByteCheckpoint: A Unified Checkpointing System for Larg
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-20143/record.json
+
 ## Authors
 
 Borui Wan, Mingji Han, Yiyao Sheng, Yanghua Peng, Haibin Lin, Mofan Zhang, Zhichao Lai, Menghan Yu, Junda Zhang, Zuquan Song, Xin Liu, Chuan Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-20143/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-20143/citation.csl.json
 
 ## Recorded arXiv snapshot
 

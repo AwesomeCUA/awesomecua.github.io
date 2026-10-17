@@ -16,9 +16,16 @@ Bibliographic record for Bounds on mean energy in the Kuramoto-Sivashinsky equat
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1802-08240/record.json
+
 ## Authors
 
 David Goluskin, Giovanni Fantuzzi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1802-08240/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1802-08240/citation.csl.json
 
 ## Recorded arXiv snapshot
 

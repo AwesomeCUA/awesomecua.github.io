@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2602.11724",
+  "citation-key": "arxiv_2602_11724",
+  "type": "article",
+  "title": "WebTestPilot: Agentic End-to-End Web Testing against Natural Language Specification by Inferring Oracles with Symbolized GUI Elements",
+  "URL": "https://arxiv.org/abs/2602.11724v3",
+  "custom": {
+    "catalog_id": "arxiv:2602.11724",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2602.11724",
+    "identifiers": {
+      "arxiv": "2602.11724"
+    },
+    "first_published_at": "2026-02-12",
+    "record_updated_at": "2026-04-23",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2076fc8b0b7b37bdf43fe2e0b0cc5fa4c3a8cb7b44a41fdf80f59a8c05c7e1b3",
+      "submitted_at": "2026-02-12T08:51:07Z",
+      "updated_at": "2026-04-23T15:00:58Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2602.11724v3"
+    }
+  },
+  "note": "First published: 2026-02-12; Recorded arXiv version: v3; Recorded version updated: 2026-04-23T15:00:58Z.",
+  "author": [
+    {
+      "literal": "Xiwen Teoh"
+    },
+    {
+      "literal": "Yun Lin"
+    },
+    {
+      "literal": "Duc-Minh Nguyen"
+    },
+    {
+      "literal": "Ruofei Ren"
+    },
+    {
+      "literal": "Wenjie Zhang"
+    },
+    {
+      "literal": "Jin Song Dong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.11724",
+  "genre": "preprint",
+  "version": "3"
+}

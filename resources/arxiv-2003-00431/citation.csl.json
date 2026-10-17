@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2003.00431",
+  "citation-key": "arxiv_2003_00431",
+  "type": "article",
+  "title": "A Study on Multimodal and Interactive Explanations for Visual Question Answering",
+  "URL": "https://arxiv.org/abs/2003.00431v1",
+  "custom": {
+    "catalog_id": "arxiv:2003.00431",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2003.00431",
+    "identifiers": {
+      "arxiv": "2003.00431"
+    },
+    "first_published_at": "2020-03-01",
+    "record_updated_at": "2020-03-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f5b0538b0d8eb24bd3522138f92137a1eff8644e2363c5705e25018d601ba529",
+      "submitted_at": "2020-03-01T07:54:01Z",
+      "updated_at": "2020-03-01T07:54:01Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2003.00431v1"
+    }
+  },
+  "note": "First published: 2020-03-01; Recorded arXiv version: v1; Recorded version updated: 2020-03-01T07:54:01Z.",
+  "author": [
+    {
+      "literal": "Kamran Alipour"
+    },
+    {
+      "literal": "Jurgen P. Schulze"
+    },
+    {
+      "literal": "Yi Yao"
+    },
+    {
+      "literal": "Avi Ziskind"
+    },
+    {
+      "literal": "Giedrius Burachas"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        3,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2003.00431",
+  "genre": "preprint",
+  "version": "1"
+}

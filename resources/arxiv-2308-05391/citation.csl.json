@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2308.05391",
+  "citation-key": "arxiv_2308_05391",
+  "type": "article",
+  "title": "Enhancing Trust in LLM-Based AI Automation Agents: New Considerations and Future Challenges",
+  "URL": "https://arxiv.org/abs/2308.05391v1",
+  "custom": {
+    "catalog_id": "arxiv:2308.05391",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2308.05391",
+    "identifiers": {
+      "arxiv": "2308.05391"
+    },
+    "first_published_at": "2023-08-10",
+    "record_updated_at": "2023-08-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "08a301a8893c946657a5a3a10a395821a4908082bb78882edf39d57eac64dbf8",
+      "submitted_at": "2023-08-10T07:12:11Z",
+      "updated_at": "2023-08-10T07:12:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2308.05391v1"
+    }
+  },
+  "note": "First published: 2023-08-10; Recorded arXiv version: v1; Recorded version updated: 2023-08-10T07:12:11Z.",
+  "author": [
+    {
+      "literal": "Sivan Schwartz"
+    },
+    {
+      "literal": "Avi Yaeli"
+    },
+    {
+      "literal": "Segev Shlomov"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        8,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2308.05391",
+  "genre": "preprint",
+  "version": "1"
+}

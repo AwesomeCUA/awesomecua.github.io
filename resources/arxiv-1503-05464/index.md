@@ -16,9 +16,16 @@ Bibliographic record for A distributed-memory package for dense Hierarchically S
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1503-05464/record.json
+
 ## Authors
 
 François-Henry Rouet, Xiaoye S. Li, Pieter Ghysels, Artem Napov
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1503-05464/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1503-05464/citation.csl.json
 
 ## Recorded arXiv snapshot
 

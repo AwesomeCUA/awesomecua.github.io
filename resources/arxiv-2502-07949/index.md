@@ -16,9 +16,16 @@ Uses variational subgoal-conditioned reinforcement learning to improve learning 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-07949/record.json
+
 ## Authors
 
 Qingyuan Wu, Jianheng Liu, Jianye Hao, Jun Wang, Kun Shao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-07949/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-07949/citation.csl.json
 
 ## Recorded arXiv snapshot
 

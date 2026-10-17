@@ -16,9 +16,16 @@ Bibliographic record for Real-Time Referring Expression Comprehension by Single-
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1812-03426/record.json
+
 ## Authors
 
 Xinpeng Chen, Lin Ma, Jingyuan Chen, Zequn Jie, Wei Liu, Jiebo Luo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1812-03426/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1812-03426/citation.csl.json
 
 ## Recorded arXiv snapshot
 

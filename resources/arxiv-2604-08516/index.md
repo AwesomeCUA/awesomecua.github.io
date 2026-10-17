@@ -16,9 +16,16 @@ Bibliographic record for MolmoWeb: Open Visual Web Agent and Open Data for the O
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-08516/record.json
+
 ## Authors
 
 Tanmay Gupta, Piper Wolters, Zixian Ma, Peter Sushko, Rock Yuren Pang, Diego Llanes, Yue Yang, Taira Anderson, Boyuan Zheng, Zhongzheng Ren, Harsh Trivedi, Taylor Blanton, Caleb Ouellette, Winson Han, Ali Farhadi, Ranjay Krishna
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-08516/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-08516/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,91 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/xTRam1/plan-and-act-planner-70b/tree/main",
+    "gated": false,
+    "hub_id": "xTRam1/plan-and-act-planner-70b"
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:28Z",
+      "role": "primary",
+      "sha256": "4ef2d84d2b5d9d2972907e6135ea49f1ef088beaf6ef6042dc7d8fb4297a9a3a",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/xTRam1/plan-and-act-planner-70b/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:28Z",
+      "role": "primary",
+      "sha256": "d2f757790ded81244e7c9b9e7350ec9fdc304609e387a95c7918db705bda535c",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/api/models/xTRam1/plan-and-act-planner-70b"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:06Z",
+      "role": "primary",
+      "sha256": "feee31aa4d0801cb364578099a13e4f9cdcaa4eb5fbf4312b3fc3f8edd479a14",
+      "supports": [
+        "environments"
+      ],
+      "url": "https://raw.githubusercontent.com/SqueezeAILab/plan-and-act/HEAD/README.md"
+    }
+  ],
+  "id": "url:3932d69c6b6f9b2a7ba8",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T02:02:28Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/xTRam1/plan-and-act-planner-70b"
+    }
+  ],
+  "name": "Plan-and-Act Planner 70B",
+  "notes": "The Hub manifest contains 17 safetensors shards and tokenizer/configuration files. Card metadata declares MIT and Llama-3.3-70B-Instruct as the base, but retains template comments asking the publisher to update those fields if needed. These are recorded as publisher declarations, without claiming they override upstream model terms.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/xTRam1/plan-and-act-planner-70b/raw/main/README.md",
+      "target_id": "arxiv:2503.09572",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "The planner component of Plan-and-Act, generating structured high-level plans that an executor turns into web actions.",
+  "topics": [
+    "planning",
+    "web-navigation",
+    "long-horizon"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/xTRam1/plan-and-act-planner-70b"
+}

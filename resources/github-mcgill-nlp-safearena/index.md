@@ -16,6 +16,8 @@ Web-agent benchmark pairing benign and harmful tasks to study deliberate misuse 
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-mcgill-nlp-safearena/record.json
+
 ## Structured profile
 
 - actions: web interactions

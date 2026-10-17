@@ -16,6 +16,8 @@ Language-model-driven Android task automation.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-mobilellm-autodroid/record.json
+
 ## License declarations
 
 - code: not recorded

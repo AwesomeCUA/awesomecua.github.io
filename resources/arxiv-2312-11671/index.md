@@ -16,9 +16,16 @@ Bibliographic record for Evaluating Language-Model Agents on Realistic Autonomou
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2312-11671/record.json
+
 ## Authors
 
 Megan Kinniment, Lucas Jun Koba Sato, Haoxing Du, Brian Goodrich, Max Hasin, Lawrence Chan, Luke Harold Miles, Tao R. Lin, Hjalmar Wijk, Joel Burget, Aaron Ho, Elizabeth Barnes, Paul Christiano
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2312-11671/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2312-11671/citation.csl.json
 
 ## Recorded arXiv snapshot
 

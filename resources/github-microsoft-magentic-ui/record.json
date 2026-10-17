@@ -1,0 +1,73 @@
+{
+  "aliases": [
+    "Magentic UI",
+    "Magentic-UI",
+    "MagenticLite"
+  ],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:02Z",
+      "role": "primary",
+      "sha256": "240e0c92b86c02d3790c0784d8c72193ffb4fd5f9c2b0ec618ef8121fe216b8b",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/microsoft/magentic-ui/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:04Z",
+      "role": "primary",
+      "sha256": "98a96c38494df4963951e32b81ec4effebe4c8a812ab8d9e7d185d59e86fe2fc",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/microsoft/magentic-ui/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:microsoft/magentic-ui",
+  "identifiers": {},
+  "kind": "agent",
+  "last_verified_at": "2026-10-16T06:36:02Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-16T06:42:04Z",
+      "url": "https://raw.githubusercontent.com/microsoft/magentic-ui/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/microsoft/magentic-ui"
+    }
+  ],
+  "name": "MagenticLite / Magentic UI",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Microsoft agent application combining orchestration with browser interaction; successor to Magentic UI.",
+  "topics": [
+    "human-in-the-loop"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/microsoft/magentic-ui"
+}

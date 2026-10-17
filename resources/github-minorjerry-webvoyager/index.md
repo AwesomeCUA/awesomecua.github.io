@@ -16,6 +16,8 @@ Multimodal web navigation agent and evaluation tasks on real websites.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-minorjerry-webvoyager/record.json
+
 ## Structured profile
 
 - actions: Selenium-backed browser interactions

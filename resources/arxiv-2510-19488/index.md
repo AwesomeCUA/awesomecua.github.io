@@ -16,9 +16,16 @@ Extracts structured GUI actions from screen-recorded tutorials using inverse dyn
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-19488/record.json
+
 ## Authors
 
 Dunjie Lu, Yiheng Xu, Junli Wang, Haoyuan Wu, Xinyuan Wang, Zekun Wang, Junlin Yang, Hongjin Su, Jixuan Chen, Junda Chen, Yuchen Mao, Jingren Zhou, Junyang Lin, Binyuan Hui, Tao Yu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-19488/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-19488/citation.csl.json
 
 ## Recorded arXiv snapshot
 

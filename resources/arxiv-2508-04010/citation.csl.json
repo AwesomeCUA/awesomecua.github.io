@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2508.04010",
+  "citation-key": "arxiv_2508_04010",
+  "type": "article",
+  "title": "HarmonyGuard: Toward Safety and Utility in Web Agents via Adaptive Policy Enhancement and Dual-Objective Optimization",
+  "URL": "https://arxiv.org/abs/2508.04010v1",
+  "custom": {
+    "catalog_id": "arxiv:2508.04010",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.04010",
+    "identifiers": {
+      "arxiv": "2508.04010"
+    },
+    "first_published_at": "2025-08-06",
+    "record_updated_at": "2025-08-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a0ff68ce8b01bd31135b3639c0613977539d5546983ab35b934be333ad66dd32",
+      "submitted_at": "2025-08-06T01:49:32Z",
+      "updated_at": "2025-08-06T01:49:32Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2508.04010v1"
+    }
+  },
+  "note": "First published: 2025-08-06; Recorded arXiv version: v1; Recorded version updated: 2025-08-06T01:49:32Z.",
+  "author": [
+    {
+      "literal": "Yurun Chen"
+    },
+    {
+      "literal": "Xavier Hu"
+    },
+    {
+      "literal": "Yuhan Liu"
+    },
+    {
+      "literal": "Keting Yin"
+    },
+    {
+      "literal": "Juncheng Li"
+    },
+    {
+      "literal": "Zhuosheng Zhang"
+    },
+    {
+      "literal": "Shengyu Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.04010",
+  "genre": "preprint",
+  "version": "1"
+}

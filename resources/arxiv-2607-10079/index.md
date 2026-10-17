@@ -16,9 +16,16 @@ Bibliographic record for MAG: A Web-Agent Benchmark and Harness for Multimodal A
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-10079/record.json
+
 ## Authors
 
 Chengguang Gan, Hanjun Wei, Yunhao Liang, Zhixi Cai, Qinghao Zhang, Shiwen Ni
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-10079/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-10079/citation.csl.json
 
 ## Recorded arXiv snapshot
 

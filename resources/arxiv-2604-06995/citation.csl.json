@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2604.06995",
+  "citation-key": "arxiv_2604_06995",
+  "type": "article",
+  "title": "What's Missing in Screen-to-Action? Towards a UI-in-the-Loop Paradigm for Multimodal GUI Reasoning",
+  "URL": "https://arxiv.org/abs/2604.06995v3",
+  "custom": {
+    "catalog_id": "arxiv:2604.06995",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.06995",
+    "identifiers": {
+      "arxiv": "2604.06995"
+    },
+    "first_published_at": "2026-04-08",
+    "record_updated_at": "2026-10-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b99643e43c5e20af088d6fa62152e03256c947af76a6b3c0abfc6f74a0f7d648",
+      "submitted_at": "2026-04-08T12:12:09Z",
+      "updated_at": "2026-10-02T06:30:10Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2604.06995v3"
+    }
+  },
+  "note": "First published: 2026-04-08; Recorded arXiv version: v3; Recorded version updated: 2026-10-02T06:30:10Z.",
+  "author": [
+    {
+      "literal": "Songze Li"
+    },
+    {
+      "literal": "Xiaoke Guo"
+    },
+    {
+      "literal": "Tianqi Liu"
+    },
+    {
+      "literal": "Biao Yi"
+    },
+    {
+      "literal": "Zhaoyan Gong"
+    },
+    {
+      "literal": "Zhiqiang Liu"
+    },
+    {
+      "literal": "Huajun Chen"
+    },
+    {
+      "literal": "Wen Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.06995",
+  "genre": "preprint",
+  "version": "3"
+}

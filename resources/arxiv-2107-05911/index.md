@@ -16,9 +16,16 @@ Bibliographic record for Model Transferability With Responsive Decision Subjects
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2107-05911/record.json
+
 ## Authors
 
 Yatong Chen, Zeyu Tang, Kun Zhang, Yang Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2107-05911/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2107-05911/citation.csl.json
 
 ## Recorded arXiv snapshot
 

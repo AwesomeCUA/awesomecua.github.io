@@ -16,9 +16,16 @@ Bibliographic record for Language Models can Solve Computer Tasks. Title, author
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2303-17491/record.json
+
 ## Authors
 
 Geunwoo Kim, Pierre Baldi, Stephen McAleer
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2303-17491/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2303-17491/citation.csl.json
 
 ## Recorded arXiv snapshot
 

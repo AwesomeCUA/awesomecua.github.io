@@ -16,9 +16,16 @@ Bibliographic record for How Many Pixels Is a Digit Worth? Place-Aware Coordinat
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-24277/record.json
+
 ## Authors
 
 Yunxiang Li, Xixin Wu, Helen Meng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-24277/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-24277/citation.csl.json
 
 ## Recorded arXiv snapshot
 

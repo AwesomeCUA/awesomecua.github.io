@@ -16,9 +16,16 @@ Bibliographic record for ChainWorld: Composing Long-Horizon Desktop Workloads fr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-21654/record.json
+
 ## Authors
 
 Vincent Siu, Manasi Sharma, Dawn Song, Daniel Yue Zhang, Chenguang Wang, Ying Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-21654/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-21654/citation.csl.json
 
 ## Recorded arXiv snapshot
 

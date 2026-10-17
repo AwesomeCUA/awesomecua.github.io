@@ -16,9 +16,16 @@ Verifies web tasks through typed interface events and generates controlled UI va
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-35026/record.json
+
 ## Authors
 
 Anton Emelyanov, Maria Tikhonova, Zaven Martirosian, Sergei Averkiev, Alena Fenogenova
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-35026/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-35026/citation.csl.json
 
 ## Recorded arXiv snapshot
 

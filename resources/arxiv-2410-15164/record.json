@@ -1,0 +1,100 @@
+{
+  "aliases": [],
+  "authors": [
+    "Jingxuan Chen",
+    "Derek Yuen",
+    "Bin Xie",
+    "Yuhao Yang",
+    "Gongwei Chen",
+    "Zhihao Wu",
+    "Li Yixing",
+    "Xurui Zhou",
+    "Weiwen Liu",
+    "Shuai Wang",
+    "Kaiwen Zhou",
+    "Rui Shao",
+    "Liqiang Nie",
+    "Yasheng Wang",
+    "Jianye Hao",
+    "Jun Wang",
+    "Kun Shao"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "206059754652205f1e036fac8ee117f71dd356bfe2d35fd84aff8d2935ea242d",
+      "submitted_at": "2024-10-19T17:28:48Z",
+      "updated_at": "2025-03-31T20:39:17Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2410.15164v3"
+    }
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:31:35Z",
+      "role": "primary",
+      "sha256": "b3e67984f59a1b05ccd946eb54e2d37b0bb78ab0ca796fbb6d544793dafea3e0",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2410.00467%2C2410.00689%2C2410.02810%2C2410.02907%2C2410.05243%2C2410.06703%2C2410.08164%2C2410.09006%2C2410.09024%2C2410.11843%2C2410.11871%2C2410.11872%2C2410.13232%2C2410.13757%2C2410.13824%2C2410.13825%2C2410.13886%2C2410.14803%2C2410.15164%2C2410.16464%2C2410.17236%2C2410.17401%2C2410.17520%2C2410.17883%2C2410.18603%2C2410.18963%2C2410.18967%2C2410.19054%2C2410.19100%2C2410.19461%2C2410.19609%2C2410.20745%2C2410.22552%2C2410.23218%2C2410.24024%2C2411.00820%2C2411.02337%2C2411.02391%2C2411.04468%2C2411.04890%2C2411.06559%2C2411.07618%2C2411.10323%2C2411.13451%2C2411.13591%2C2411.15004%2C2411.17465%2C2411.18279%2C2412.00402%2C2412.01268&max_results=50"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:31:35Z",
+      "role": "primary",
+      "sha256": "b3e67984f59a1b05ccd946eb54e2d37b0bb78ab0ca796fbb6d544793dafea3e0",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2410.00467%2C2410.00689%2C2410.02810%2C2410.02907%2C2410.05243%2C2410.06703%2C2410.08164%2C2410.09006%2C2410.09024%2C2410.11843%2C2410.11871%2C2410.11872%2C2410.13232%2C2410.13757%2C2410.13824%2C2410.13825%2C2410.13886%2C2410.14803%2C2410.15164%2C2410.16464%2C2410.17236%2C2410.17401%2C2410.17520%2C2410.17883%2C2410.18603%2C2410.18963%2C2410.18967%2C2410.19054%2C2410.19100%2C2410.19461%2C2410.19609%2C2410.20745%2C2410.22552%2C2410.23218%2C2410.24024%2C2411.00820%2C2411.02337%2C2411.02391%2C2411.04468%2C2411.04890%2C2411.06559%2C2411.07618%2C2411.10323%2C2411.13451%2C2411.13591%2C2411.15004%2C2411.17465%2C2411.18279%2C2412.00402%2C2412.01268&max_results=50"
+    }
+  ],
+  "id": "arxiv:2410.15164",
+  "identifiers": {
+    "arxiv": "2410.15164"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:31:35Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2410.15164"
+    }
+  ],
+  "name": "SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2024-10-19",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Introduces a smartphone-agent benchmark with English and Chinese tasks, real-time Android interaction, and completion and resource-use metrics.",
+  "topics": [
+    "evaluation",
+    "efficiency",
+    "mobile-navigation"
+  ],
+  "updated_at": "2025-03-31",
+  "url": "https://arxiv.org/abs/2410.15164"
+}

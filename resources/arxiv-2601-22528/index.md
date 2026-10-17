@@ -16,9 +16,16 @@ Bibliographic record for Darwinian Memory: A Training-Free Self-Regulating Memor
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-22528/record.json
+
 ## Authors
 
 Hongze Mi, Yibo Feng, WenJie Lu, Song Cao, Jinyuan Li, Yanming Li, Xuelin Zhang, Haotian Luo, Songyang Peng, He Cui, Tengfei Tian, Jun Fang, Hua Chai, Naiqiang Tan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-22528/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-22528/citation.csl.json
 
 ## Recorded arXiv snapshot
 

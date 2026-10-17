@@ -16,9 +16,16 @@ Bibliographic record for AgentInstruct: Toward Generative Teaching with Agentic 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-03502/record.json
+
 ## Authors
 
 Arindam Mitra, Luciano Del Corro, Guoqing Zheng, Shweti Mahajan, Dany Rouhana, Andres Codas, Yadong Lu, Wei-ge Chen, Olga Vrousgos, Corby Rosset, Fillipe Silva, Hamed Khanpour, Yash Lara, Ahmed Awadallah
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-03502/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-03502/citation.csl.json
 
 ## Recorded arXiv snapshot
 

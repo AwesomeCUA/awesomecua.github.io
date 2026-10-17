@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2610.07118",
+  "citation-key": "arxiv_2610_07118",
+  "type": "article",
+  "title": "AMBER: Training Long-Horizon Web Agents through Append-Only Memory",
+  "URL": "https://arxiv.org/abs/2610.07118v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.07118",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.07118",
+    "identifiers": {
+      "arxiv": "2610.07118"
+    },
+    "first_published_at": "2026-10-05",
+    "record_updated_at": "2026-10-05",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4890856d5961395a9ac8c83c60b988da4adeaab1d99edd511e4046e4f99fd25d",
+      "submitted_at": "2026-10-05T17:11:07Z",
+      "updated_at": "2026-10-05T17:11:07Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.07118v1"
+    }
+  },
+  "note": "First published: 2026-10-05; Recorded arXiv version: v1; Recorded version updated: 2026-10-05T17:11:07Z.",
+  "author": [
+    {
+      "literal": "Chinmay Savadikar"
+    },
+    {
+      "literal": "Zhaoyu Zhang"
+    },
+    {
+      "literal": "Mingyu Zhao"
+    },
+    {
+      "literal": "Shuang Xie"
+    },
+    {
+      "literal": "Han Li"
+    },
+    {
+      "literal": "Tianfu Wu"
+    },
+    {
+      "literal": "Lingyun Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.07118",
+  "genre": "preprint",
+  "version": "1"
+}

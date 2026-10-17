@@ -16,9 +16,16 @@ Bibliographic record for DataEnvGym: Data Generation Agents in Teacher Environme
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-06215/record.json
+
 ## Authors
 
 Zaid Khan, Elias Stengel-Eskin, Jaemin Cho, Mohit Bansal
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-06215/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-06215/citation.csl.json
 
 ## Recorded arXiv snapshot
 

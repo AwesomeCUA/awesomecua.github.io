@@ -16,9 +16,16 @@ Bibliographic record for WebOperator: Action-Aware Tree Search for Autonomous Ag
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-12692/record.json
+
 ## Authors
 
 Mahir Labib Dihan, Tanzima Hashem, Mohammed Eunus Ali, Md Rizwan Parvez
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-12692/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-12692/citation.csl.json
 
 ## Recorded arXiv snapshot
 

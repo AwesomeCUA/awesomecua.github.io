@@ -16,9 +16,16 @@ Bibliographic record for Temporal UI State Inconsistency in Desktop GUI Agents: 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-18860/record.json
+
 ## Authors
 
 Wenpeng Xu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-18860/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-18860/citation.csl.json
 
 ## Recorded arXiv snapshot
 

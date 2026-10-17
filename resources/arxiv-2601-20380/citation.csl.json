@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2601.20380",
+  "citation-key": "arxiv_2601_20380",
+  "type": "article",
+  "title": "OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution",
+  "URL": "https://arxiv.org/abs/2601.20380v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.20380",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.20380",
+    "identifiers": {
+      "arxiv": "2601.20380"
+    },
+    "first_published_at": "2026-01-28",
+    "record_updated_at": "2026-01-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ad764cf86a2ecab81f3f730d6d26ea582544a355a90a8be55be220c98aabd7bf",
+      "submitted_at": "2026-01-28T08:45:17Z",
+      "updated_at": "2026-01-28T08:45:17Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.20380v1"
+    }
+  },
+  "note": "First published: 2026-01-28; Recorded arXiv version: v1; Recorded version updated: 2026-01-28T08:45:17Z.",
+  "author": [
+    {
+      "literal": "Le Zhang"
+    },
+    {
+      "literal": "Yixiong Xiao"
+    },
+    {
+      "literal": "Xinjiang Lu"
+    },
+    {
+      "literal": "Jingjia Cao"
+    },
+    {
+      "literal": "Yusai Zhao"
+    },
+    {
+      "literal": "Jingbo Zhou"
+    },
+    {
+      "literal": "Lang An"
+    },
+    {
+      "literal": "Zikan Feng"
+    },
+    {
+      "literal": "Wanxiang Sha"
+    },
+    {
+      "literal": "Yu Shi"
+    },
+    {
+      "literal": "Congxi Xiao"
+    },
+    {
+      "literal": "Jian Xiong"
+    },
+    {
+      "literal": "Yankai Zhang"
+    },
+    {
+      "literal": "Hua Wu"
+    },
+    {
+      "literal": "Haifeng Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.20380",
+  "genre": "preprint",
+  "version": "1"
+}

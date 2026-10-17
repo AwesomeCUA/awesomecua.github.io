@@ -16,9 +16,16 @@ Magentic-UI combines browser interaction, code execution, file operations, and M
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-22358/record.json
+
 ## Authors
 
 Hussein Mozannar, Gagan Bansal, Cheng Tan, Adam Fourney, Victor Dibia, Jingya Chen, Jack Gerrits, Tyler Payne, Matheus Kunzler Maldaner, Madeleine Grunde-McLaughlin, Eric Zhu, Griffin Bassman, Jacob Alber, Peter Chang, Ricky Loynd, Friederike Niedtner, Ece Kamar, Maya Murad, Rafah Hosn, Saleema Amershi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-22358/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-22358/citation.csl.json
 
 ## Recorded arXiv snapshot
 

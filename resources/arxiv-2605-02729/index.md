@@ -16,9 +16,16 @@ Bibliographic record for Augmenting Interface Usability Heuristics for Reliable 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-02729/record.json
+
 ## Authors
 
 Jiateng Liu, Rushi Wang, Bingxuan Li, Kunlun Zhu, Yifan Shen, Qingyun Wang, Ahmed Abbasi, Denghui Zhang, Heng Ji
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-02729/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-02729/citation.csl.json
 
 ## Recorded arXiv snapshot
 

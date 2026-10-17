@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2603.12710",
+  "citation-key": "arxiv_2603_12710",
+  "type": "article",
+  "title": "AI Planning Framework for LLM-Based Web Agents",
+  "URL": "https://arxiv.org/abs/2603.12710v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.12710",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.12710",
+    "identifiers": {
+      "arxiv": "2603.12710"
+    },
+    "first_published_at": "2026-03-13",
+    "record_updated_at": "2026-03-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2442ff48e3a112401c9f8910d904d800432a9760cc35aa3615670f9bf52b7ef2",
+      "submitted_at": "2026-03-13T06:46:32Z",
+      "updated_at": "2026-03-13T06:46:32Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.12710v1"
+    }
+  },
+  "note": "First published: 2026-03-13; Recorded arXiv version: v1; Recorded version updated: 2026-03-13T06:46:32Z.",
+  "author": [
+    {
+      "literal": "Orit Shahnovsky"
+    },
+    {
+      "literal": "Rotem Dror"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.12710",
+  "genre": "preprint",
+  "version": "1"
+}

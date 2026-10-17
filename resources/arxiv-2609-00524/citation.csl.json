@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2609.00524",
+  "citation-key": "arxiv_2609_00524",
+  "type": "article",
+  "title": "Are We There Yet? Assessing Computer-Use Agents for Blind Users' Accessible Interaction with Desktop Applications",
+  "URL": "https://arxiv.org/abs/2609.00524v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.00524",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.00524",
+    "identifiers": {
+      "arxiv": "2609.00524"
+    },
+    "first_published_at": "2026-09-01",
+    "record_updated_at": "2026-09-01",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "deb130d93bbbd6dfdc04c72d232a9dcfa1e92b0586831e5864070e7fe0de14dd",
+      "submitted_at": "2026-09-01T00:44:19Z",
+      "updated_at": "2026-09-01T00:44:19Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.00524v1"
+    }
+  },
+  "note": "First published: 2026-09-01; Recorded arXiv version: v1; Recorded version updated: 2026-09-01T00:44:19Z.",
+  "author": [
+    {
+      "literal": "Satwik Ram Kodandaram"
+    },
+    {
+      "literal": "Monalika Padma Reddy"
+    },
+    {
+      "literal": "Xiaojun Bi"
+    },
+    {
+      "literal": "Jiawei Zhou"
+    },
+    {
+      "literal": "I. V. Ramakrishnan"
+    },
+    {
+      "literal": "Vikas Ashok"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.00524",
+  "genre": "preprint",
+  "version": "1"
+}

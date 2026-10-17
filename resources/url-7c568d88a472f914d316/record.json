@@ -1,0 +1,96 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/datasets/LZXzju/UI-R1-3B-Train/tree/main",
+    "gated": false,
+    "hub_id": "LZXzju/UI-R1-3B-Train",
+    "languages": [],
+    "modalities": [],
+    "sample_count": null,
+    "sample_unit": null
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:03:33Z",
+      "role": "primary",
+      "sha256": "640cb5908abefb770ea6bb8d12f22e9eca622224fa73e9f5c67a3a95f4f7b8e5",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/datasets/LZXzju/UI-R1-3B-Train/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:03:33Z",
+      "role": "primary",
+      "sha256": "482d1304ad53736b3e410694cfa427067ff8b45267374964e4a8ff3833afbbd3",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/api/datasets/LZXzju/UI-R1-3B-Train"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:00Z",
+      "role": "primary",
+      "sha256": "f55ac6a0c50d298d46c5f7083a0879959fd7cd3c1d91496af295ebf2afcc13a3",
+      "supports": [
+        "environments",
+        "summary"
+      ],
+      "url": "https://raw.githubusercontent.com/lll6gg/UI-R1/HEAD/README.md"
+    }
+  ],
+  "id": "url:7c568d88a472f914d316",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-17T02:03:33Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/LZXzju/UI-R1-3B-Train"
+    }
+  ],
+  "name": "UI-R1 3B training data",
+  "notes": "The public manifest includes train.json and a train_imgs directory. The card has no dataset-license declaration, and the model’s MIT metadata is not inherited. The official repository identifies this as v1 training data drawn from AndroidControl and ScreenSpot; later enlarged training mixtures are distinct.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/LZXzju/UI-R1-3B-Train/raw/main/README.md",
+      "target_id": "arxiv:2503.21620",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "The released mobile training subset for the original UI-R1 3B model, with action annotations and individual screenshot files.",
+  "topics": [
+    "data-generation",
+    "grounding",
+    "action-prediction"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/LZXzju/UI-R1-3B-Train"
+}

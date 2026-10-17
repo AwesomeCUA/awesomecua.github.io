@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2609.27770",
+  "citation-key": "arxiv_2609_27770",
+  "type": "article",
+  "title": "Improving LLM-based Autonomous Web Agents with Filtering",
+  "URL": "https://arxiv.org/abs/2609.27770v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.27770",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.27770",
+    "identifiers": {
+      "arxiv": "2609.27770"
+    },
+    "first_published_at": "2026-08-16",
+    "record_updated_at": "2026-08-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "80f6fb973e9f8d62e515d02105d08be774fc32ed5b20a7ecee92b45d112415aa",
+      "submitted_at": "2026-08-16T19:54:53Z",
+      "updated_at": "2026-08-16T19:54:53Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.27770v1"
+    }
+  },
+  "note": "First published: 2026-08-16; Recorded arXiv version: v1; Recorded version updated: 2026-08-16T19:54:53Z.",
+  "author": [
+    {
+      "literal": "Zhitong Guo"
+    },
+    {
+      "literal": "Jing Yu Koh"
+    },
+    {
+      "literal": "Ruiyu Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.27770",
+  "genre": "preprint",
+  "version": "1"
+}

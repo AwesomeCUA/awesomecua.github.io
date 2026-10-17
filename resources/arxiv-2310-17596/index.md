@@ -16,9 +16,16 @@ Bibliographic record for MimicGen: A Data Generation System for Scalable Robot L
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-17596/record.json
+
 ## Authors
 
 Ajay Mandlekar, Soroush Nasiriany, Bowen Wen, Iretiayo Akinola, Yashraj Narang, Linxi Fan, Yuke Zhu, Dieter Fox
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-17596/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-17596/citation.csl.json
 
 ## Recorded arXiv snapshot
 

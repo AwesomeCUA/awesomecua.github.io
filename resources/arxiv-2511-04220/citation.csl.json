@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2511.04220",
+  "citation-key": "arxiv_2511_04220",
+  "type": "article",
+  "title": "Opus: A Quantitative Framework for Workflow Evaluation",
+  "URL": "https://arxiv.org/abs/2511.04220v1",
+  "custom": {
+    "catalog_id": "arxiv:2511.04220",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.04220",
+    "identifiers": {
+      "arxiv": "2511.04220"
+    },
+    "first_published_at": "2025-11-06",
+    "record_updated_at": "2025-11-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b20890a7fe72ff0b18d38b139881a09f4f537040fd42f8cfd062ad944fbc7671",
+      "submitted_at": "2025-11-06T09:35:10Z",
+      "updated_at": "2025-11-06T09:35:10Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2511.04220v1"
+    }
+  },
+  "note": "First published: 2025-11-06; Recorded arXiv version: v1; Recorded version updated: 2025-11-06T09:35:10Z.",
+  "author": [
+    {
+      "literal": "Alan Seroul"
+    },
+    {
+      "literal": "Théo Fagnoni"
+    },
+    {
+      "literal": "Inès Adnani"
+    },
+    {
+      "literal": "Dana O. Mohamed"
+    },
+    {
+      "literal": "Phillip Kingston"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.04220",
+  "genre": "preprint",
+  "version": "1"
+}

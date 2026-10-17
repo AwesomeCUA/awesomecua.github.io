@@ -16,9 +16,16 @@ Bibliographic record for Learn-by-interact: A Data-Centric Framework for Self-Ad
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-10893/record.json
+
 ## Authors
 
 Hongjin Su, Ruoxi Sun, Jinsung Yoon, Pengcheng Yin, Tao Yu, Sercan Ö. Arık
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-10893/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-10893/citation.csl.json
 
 ## Recorded arXiv snapshot
 

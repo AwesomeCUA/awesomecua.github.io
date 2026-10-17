@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2507.21953",
+  "citation-key": "arxiv_2507_21953",
+  "type": "article",
+  "title": "MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation",
+  "URL": "https://arxiv.org/abs/2507.21953v1",
+  "custom": {
+    "catalog_id": "arxiv:2507.21953",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2507.21953",
+    "identifiers": {
+      "arxiv": "2507.21953"
+    },
+    "first_published_at": "2025-07-29",
+    "record_updated_at": "2025-07-29",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "197dbb0e2734f30349260444fca80a8ac830a5d4000a677d6417f46509737475",
+      "submitted_at": "2025-07-29T16:05:32Z",
+      "updated_at": "2025-07-29T16:05:32Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2507.21953v1"
+    }
+  },
+  "note": "First published: 2025-07-29; Recorded arXiv version: v1; Recorded version updated: 2025-07-29T16:05:32Z.",
+  "author": [
+    {
+      "literal": "Yi Kong"
+    },
+    {
+      "literal": "Dianxi Shi"
+    },
+    {
+      "literal": "Guoli Yang"
+    },
+    {
+      "literal": "Zhang ke-di"
+    },
+    {
+      "literal": "Chenlin Huang"
+    },
+    {
+      "literal": "Xiaopeng Li"
+    },
+    {
+      "literal": "Songchang Jin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.21953",
+  "genre": "preprint",
+  "version": "1"
+}

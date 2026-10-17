@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2509.02473",
+  "citation-key": "arxiv_2509_02473",
+  "type": "article",
+  "title": "FDABench: A Benchmark for Data Agents on Analytical Queries over Heterogeneous Data",
+  "URL": "https://arxiv.org/abs/2509.02473v3",
+  "custom": {
+    "catalog_id": "arxiv:2509.02473",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.02473",
+    "identifiers": {
+      "arxiv": "2509.02473"
+    },
+    "first_published_at": "2025-09-02",
+    "record_updated_at": "2026-08-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1850899f0cb84621c69fe11ab13f2ba0997afb8ad5541ca47d29edaa2400839a",
+      "submitted_at": "2025-09-02T16:25:12Z",
+      "updated_at": "2026-08-15T04:45:55Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2509.02473v3"
+    }
+  },
+  "note": "First published: 2025-09-02; Recorded arXiv version: v3; Recorded version updated: 2026-08-15T04:45:55Z.",
+  "author": [
+    {
+      "literal": "Ziting Wang"
+    },
+    {
+      "literal": "Shize Zhang"
+    },
+    {
+      "literal": "Haitao Yuan"
+    },
+    {
+      "literal": "Jinwei Zhu"
+    },
+    {
+      "literal": "Wei Dong"
+    },
+    {
+      "literal": "Gao Cong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.02473",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2407.17789",
+  "citation-key": "arxiv_2407_17789",
+  "type": "article",
+  "title": "Very Large-Scale Multi-Agent Simulation in AgentScope",
+  "URL": "https://arxiv.org/abs/2407.17789v2",
+  "custom": {
+    "catalog_id": "arxiv:2407.17789",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2407.17789",
+    "identifiers": {
+      "arxiv": "2407.17789"
+    },
+    "first_published_at": "2024-07-25",
+    "record_updated_at": "2024-10-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "beed2f478ec95592641378b6e3a4fd14dcd306612c042bf10bd4ccafc6266933",
+      "submitted_at": "2024-07-25T05:50:46Z",
+      "updated_at": "2024-10-28T13:19:38Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2407.17789v2"
+    }
+  },
+  "note": "First published: 2024-07-25; Recorded arXiv version: v2; Recorded version updated: 2024-10-28T13:19:38Z.",
+  "author": [
+    {
+      "literal": "Xuchen Pan"
+    },
+    {
+      "literal": "Dawei Gao"
+    },
+    {
+      "literal": "Yuexiang Xie"
+    },
+    {
+      "literal": "Yushuo Chen"
+    },
+    {
+      "literal": "Zhewei Wei"
+    },
+    {
+      "literal": "Yaliang Li"
+    },
+    {
+      "literal": "Bolin Ding"
+    },
+    {
+      "literal": "Ji-Rong Wen"
+    },
+    {
+      "literal": "Jingren Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.17789",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Resource Management in Edge and Fog Computing using Fog
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2108-00591/record.json
+
 ## Authors
 
 Mohammad Goudarzi, Qifan Deng, Rajkumar Buyya
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2108-00591/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2108-00591/citation.csl.json
 
 ## Recorded arXiv snapshot
 

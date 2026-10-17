@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2107.14604",
+  "citation-key": "arxiv_2107_14604",
+  "type": "article",
+  "title": "Three-Dimensional Data-Driven Magnetostatic Field Computation using Real-World Measurement Data",
+  "URL": "https://arxiv.org/abs/2107.14604v2",
+  "custom": {
+    "catalog_id": "arxiv:2107.14604",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2107.14604",
+    "identifiers": {
+      "arxiv": "2107.14604"
+    },
+    "first_published_at": "2021-07-30",
+    "record_updated_at": "2021-12-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "32967e61b255926860ad60ac9a82f22e1d1002ce4a71caaa0df862e356a50fc3",
+      "submitted_at": "2021-07-30T12:57:36Z",
+      "updated_at": "2021-12-01T07:21:33Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2107.14604v2"
+    }
+  },
+  "note": "First published: 2021-07-30; Recorded arXiv version: v2; Recorded version updated: 2021-12-01T07:21:33Z.",
+  "author": [
+    {
+      "literal": "Armin Galetzka"
+    },
+    {
+      "literal": "Dimitrios Loukrezis"
+    },
+    {
+      "literal": "Herbert De Gersem"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        7,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2107.14604",
+  "genre": "preprint",
+  "version": "2"
+}

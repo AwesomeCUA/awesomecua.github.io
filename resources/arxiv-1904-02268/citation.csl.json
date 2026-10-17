@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:1904.02268",
+  "citation-key": "arxiv_1904_02268",
+  "type": "article",
+  "title": "A scalable Controlled NOT gate for linear optical computing using microring resonators",
+  "URL": "https://arxiv.org/abs/1904.02268v1",
+  "custom": {
+    "catalog_id": "arxiv:1904.02268",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1904.02268",
+    "identifiers": {
+      "arxiv": "1904.02268"
+    },
+    "first_published_at": "2019-04-03",
+    "record_updated_at": "2019-04-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "60030ee417f0a313d36cc6268699c1f2b65adb89ea7f6f797109e37c11800c54",
+      "submitted_at": "2019-04-03T23:29:50Z",
+      "updated_at": "2019-04-03T23:29:50Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1904.02268v1"
+    }
+  },
+  "note": "First published: 2019-04-03; Recorded arXiv version: v1; Recorded version updated: 2019-04-03T23:29:50Z.",
+  "author": [
+    {
+      "literal": "Ryan E. Scott"
+    },
+    {
+      "literal": "Paul M. Alsing"
+    },
+    {
+      "literal": "A. Matthew Smith"
+    },
+    {
+      "literal": "Michael L. Fanto"
+    },
+    {
+      "literal": "Christopher C. Tison"
+    },
+    {
+      "literal": "James Schneeloch"
+    },
+    {
+      "literal": "Edwin E. Hach,"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        4,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1904.02268",
+  "genre": "preprint",
+  "version": "1"
+}

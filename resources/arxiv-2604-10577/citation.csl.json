@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2604.10577",
+  "citation-key": "arxiv_2604_10577",
+  "type": "article",
+  "title": "The Blind Spot of Agent Safety: How Benign User Instructions Expose Critical Vulnerabilities in Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2604.10577v2",
+  "custom": {
+    "catalog_id": "arxiv:2604.10577",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.10577",
+    "identifiers": {
+      "arxiv": "2604.10577"
+    },
+    "first_published_at": "2026-04-12",
+    "record_updated_at": "2026-04-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cffb933e5ed31a9cdfb7d644b2ceecb8114630061b85860eb890cebdcd2d0a92",
+      "submitted_at": "2026-04-12T10:52:42Z",
+      "updated_at": "2026-04-17T07:20:03Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2604.10577v2"
+    }
+  },
+  "note": "First published: 2026-04-12; Recorded arXiv version: v2; Recorded version updated: 2026-04-17T07:20:03Z.",
+  "author": [
+    {
+      "literal": "Xuwei Ding"
+    },
+    {
+      "literal": "Skylar Zhai"
+    },
+    {
+      "literal": "Linxin Song"
+    },
+    {
+      "literal": "Jiate Li"
+    },
+    {
+      "literal": "Taiwei Shi"
+    },
+    {
+      "literal": "Nicholas Meade"
+    },
+    {
+      "literal": "Siva Reddy"
+    },
+    {
+      "literal": "Jian Kang"
+    },
+    {
+      "literal": "Jieyu Zhao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.10577",
+  "genre": "preprint",
+  "version": "2"
+}

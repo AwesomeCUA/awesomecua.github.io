@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2510.04039",
+  "citation-key": "arxiv_2510_04039",
+  "type": "article",
+  "title": "\\textsc{GUI-Spotlight}: Adaptive Iterative Focus Refinement for Enhanced GUI Visual Grounding",
+  "URL": "https://arxiv.org/abs/2510.04039v1",
+  "custom": {
+    "catalog_id": "arxiv:2510.04039",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.04039",
+    "identifiers": {
+      "arxiv": "2510.04039"
+    },
+    "first_published_at": "2025-10-05",
+    "record_updated_at": "2025-10-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "798fc5ca4fe483a1235f0979b0c641e9c1732660780c13340c5221319a1b28fc",
+      "submitted_at": "2025-10-05T05:15:45Z",
+      "updated_at": "2025-10-05T05:15:45Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2510.04039v1"
+    }
+  },
+  "note": "First published: 2025-10-05; Recorded arXiv version: v1; Recorded version updated: 2025-10-05T05:15:45Z.",
+  "author": [
+    {
+      "literal": "Bin Lei"
+    },
+    {
+      "literal": "Nuo Xu"
+    },
+    {
+      "literal": "Ali Payani"
+    },
+    {
+      "literal": "Mingyi Hong"
+    },
+    {
+      "literal": "Chunhua Liao"
+    },
+    {
+      "literal": "Yu Cao"
+    },
+    {
+      "literal": "Caiwen Ding"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.04039",
+  "genre": "preprint",
+  "version": "1"
+}

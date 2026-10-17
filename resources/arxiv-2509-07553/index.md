@@ -16,9 +16,16 @@ Bibliographic record for VeriOS: Query-Driven Proactive Human-Agent-GUI Interact
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-07553/record.json
+
 ## Authors
 
 Zheng Wu, Heyuan Huang, Xingyu Lou, Xiangmou Qu, Pengzhou Cheng, Zongru Wu, Weiwen Liu, Weinan Zhang, Jun Wang, Zhaoxiang Wang, Zhuosheng Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-07553/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-07553/citation.csl.json
 
 ## Recorded arXiv snapshot
 

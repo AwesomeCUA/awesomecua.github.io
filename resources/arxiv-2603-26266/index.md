@@ -16,9 +16,16 @@ Bibliographic record for GUIDE: Resolving Domain Bias in GUI Agents through Real
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-26266/record.json
+
 ## Authors
 
 Rui Xie, Zhi Gao, Chenrui Shi, Zirui Shang, Lu Chen, Qing Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-26266/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-26266/citation.csl.json
 
 ## Recorded arXiv snapshot
 

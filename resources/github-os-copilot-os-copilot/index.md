@@ -16,6 +16,8 @@ Operating-system agent framework and assistant research.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-os-copilot-os-copilot/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/OS-Copilot/OS-Copilot/HEAD/LICENSE

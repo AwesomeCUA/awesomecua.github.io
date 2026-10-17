@@ -16,9 +16,16 @@ Introduces a black-box web-agent red-teaming framework that learns adversarial p
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-17401/record.json
+
 ## Authors
 
 Chejian Xu, Mintong Kang, Jiawei Zhang, Zeyi Liao, Lingbo Mo, Mengqi Yuan, Huan Sun, Bo Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-17401/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-17401/citation.csl.json
 
 ## Recorded arXiv snapshot
 

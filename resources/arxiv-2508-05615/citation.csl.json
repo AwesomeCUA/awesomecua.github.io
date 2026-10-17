@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2508.05615",
+  "citation-key": "arxiv_2508_05615",
+  "type": "article",
+  "title": "Test-Time Reinforcement Learning for GUI Grounding via Region Consistency",
+  "URL": "https://arxiv.org/abs/2508.05615v2",
+  "custom": {
+    "catalog_id": "arxiv:2508.05615",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2508.05615",
+    "identifiers": {
+      "arxiv": "2508.05615"
+    },
+    "first_published_at": "2025-08-07",
+    "record_updated_at": "2025-11-13",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c7deba3ec19a878cfd402c5dac61e4dca284d478429bc9204264448062299e99",
+      "submitted_at": "2025-08-07T17:54:27Z",
+      "updated_at": "2025-11-13T12:54:36Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2508.05615v2"
+    }
+  },
+  "note": "First published: 2025-08-07; Recorded arXiv version: v2; Recorded version updated: 2025-11-13T12:54:36Z.",
+  "author": [
+    {
+      "literal": "Yong Du"
+    },
+    {
+      "literal": "Yuchen Yan"
+    },
+    {
+      "literal": "Fei Tang"
+    },
+    {
+      "literal": "Zhengxi Lu"
+    },
+    {
+      "literal": "Chang Zong"
+    },
+    {
+      "literal": "Weiming Lu"
+    },
+    {
+      "literal": "Shengpei Jiang"
+    },
+    {
+      "literal": "Yongliang Shen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.05615",
+  "genre": "preprint",
+  "version": "2"
+}

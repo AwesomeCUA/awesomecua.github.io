@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:2005.06118",
+  "citation-key": "arxiv_2005_06118",
+  "type": "article",
+  "title": "Improved Computation-Communication Trade-Off for Coded Distributed Computing using Linear Dependence of Intermediate Values",
+  "URL": "https://arxiv.org/abs/2005.06118v1",
+  "custom": {
+    "catalog_id": "arxiv:2005.06118",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2005.06118",
+    "identifiers": {
+      "arxiv": "2005.06118"
+    },
+    "first_published_at": "2020-05-13",
+    "record_updated_at": "2020-05-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d8d29fadfc61192e151fcc1ae02d9643fdfe50c00a7a1bd049bd228ad2ff7d48",
+      "submitted_at": "2020-05-13T02:11:54Z",
+      "updated_at": "2020-05-13T02:11:54Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2005.06118v1"
+    }
+  },
+  "note": "First published: 2020-05-13; Recorded arXiv version: v1; Recorded version updated: 2020-05-13T02:11:54Z.",
+  "author": [
+    {
+      "literal": "Shunsuke Horii"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        5,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2005.06118",
+  "genre": "preprint",
+  "version": "1"
+}

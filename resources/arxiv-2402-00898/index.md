@@ -16,9 +16,16 @@ Bibliographic record for An Early Categorization of Prompt Injection Attacks on 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-00898/record.json
+
 ## Authors
 
 Sippo Rossi, Alisia Marianne Michel, Raghava Rao Mukkamala, Jason Bennett Thatcher
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-00898/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-00898/citation.csl.json
 
 ## Recorded arXiv snapshot
 

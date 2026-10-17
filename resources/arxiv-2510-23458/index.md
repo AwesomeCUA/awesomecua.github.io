@@ -16,9 +16,16 @@ Bibliographic record for BrowseConf: Confidence-Guided Test-Time Scaling for Web
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-23458/record.json
+
 ## Authors
 
 Litu Ou, Kuan Li, Huifeng Yin, Liwen Zhang, Zhongwang Zhang, Xixi Wu, Rui Ye, Zile Qiao, Pengjun Xie, Jingren Zhou, Yong Jiang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-23458/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-23458/citation.csl.json
 
 ## Recorded arXiv snapshot
 

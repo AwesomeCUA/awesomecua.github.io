@@ -16,9 +16,16 @@ Bibliographic record for 3-Qubit Circular Quantum Convolution Computation using 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2205-05727/record.json
+
 ## Authors
 
 Artyom M. Grigoryan, Sos S. Agaian
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2205-05727/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2205-05727/citation.csl.json
 
 ## Recorded arXiv snapshot
 

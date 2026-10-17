@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2112.14216",
+  "citation-key": "arxiv_2112_14216",
+  "type": "article",
+  "title": "Casper: Accelerating Stencil Computation using Near-cache Processing",
+  "URL": "https://arxiv.org/abs/2112.14216v4",
+  "custom": {
+    "catalog_id": "arxiv:2112.14216",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2112.14216",
+    "identifiers": {
+      "arxiv": "2112.14216"
+    },
+    "first_published_at": "2021-12-28",
+    "record_updated_at": "2023-09-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "065a3310e52d540659bf73406838c93eabd6109b35cdb83b398835a5c9ad1149",
+      "submitted_at": "2021-12-28T16:45:56Z",
+      "updated_at": "2023-09-05T20:13:46Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2112.14216v4"
+    }
+  },
+  "note": "First published: 2021-12-28; Recorded arXiv version: v4; Recorded version updated: 2023-09-05T20:13:46Z.",
+  "author": [
+    {
+      "literal": "Alain Denzler"
+    },
+    {
+      "literal": "Rahul Bera"
+    },
+    {
+      "literal": "Nastaran Hajinazar"
+    },
+    {
+      "literal": "Gagandeep Singh"
+    },
+    {
+      "literal": "Geraldo F. Oliveira"
+    },
+    {
+      "literal": "Juan Gómez-Luna"
+    },
+    {
+      "literal": "Onur Mutlu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        12,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2112.14216",
+  "genre": "preprint",
+  "version": "4"
+}

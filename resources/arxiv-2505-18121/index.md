@@ -16,9 +16,16 @@ ProgRM predicts per-step task completion progress to provide intermediate reward
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-18121/record.json
+
 ## Authors
 
 Danyang Zhang, Situo Zhang, Ziyue Yang, Zichen Zhu, Zihan Zhao, Ruisheng Cao, Lu Chen, Kai Yu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-18121/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-18121/citation.csl.json
 
 ## Recorded arXiv snapshot
 

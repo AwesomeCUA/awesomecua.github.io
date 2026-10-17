@@ -16,9 +16,16 @@ Bibliographic record for Game2World Engine: Unlocking In-the-Wild Gameplay Video
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-24680/record.json
+
 ## Authors
 
 Wenxuan Shen, Dongna Jin, Dongping Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-24680/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-24680/citation.csl.json
 
 ## Recorded arXiv snapshot
 

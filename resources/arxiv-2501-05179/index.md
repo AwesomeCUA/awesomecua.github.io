@@ -16,9 +16,16 @@ Bibliographic record for Global Compression Commander: Plug-and-Play Inference A
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-05179/record.json
+
 ## Authors
 
 Xuyang Liu, Ziming Wang, Junjie Chen, Yuhang Han, Yingyao Wang, Jiale Yuan, Jun Song, Siteng Huang, Honggang Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-05179/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-05179/citation.csl.json
 
 ## Recorded arXiv snapshot
 

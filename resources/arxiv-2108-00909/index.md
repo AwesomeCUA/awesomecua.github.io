@@ -16,9 +16,16 @@ Bibliographic record for Spin Wave Computing using pre-recorded magnetization pa
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2108-00909/record.json
+
 ## Authors
 
 Kirill Rivkin, Michael Montemorra
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2108-00909/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2108-00909/citation.csl.json
 
 ## Recorded arXiv snapshot
 

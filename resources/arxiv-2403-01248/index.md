@@ -16,9 +16,16 @@ Bibliographic record for SceneCraft: An LLM Agent for Synthesizing 3D Scene as B
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-01248/record.json
+
 ## Authors
 
 Ziniu Hu, Ahmet Iscen, Aashi Jain, Thomas Kipf, Yisong Yue, David A. Ross, Cordelia Schmid, Alireza Fathi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-01248/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-01248/citation.csl.json
 
 ## Recorded arXiv snapshot
 

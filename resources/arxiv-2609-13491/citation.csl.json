@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2609.13491",
+  "citation-key": "arxiv_2609_13491",
+  "type": "article",
+  "title": "Token Efficient Task Execution via Application Behavior Modeling for Web Agents",
+  "URL": "https://arxiv.org/abs/2609.13491v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.13491",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.13491",
+    "identifiers": {
+      "arxiv": "2609.13491"
+    },
+    "first_published_at": "2026-09-11",
+    "record_updated_at": "2026-09-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "29b615736812b466b0df7133b7070184a1b7c8dacbe4c73fe32b878b654bb78d",
+      "submitted_at": "2026-09-11T19:57:22Z",
+      "updated_at": "2026-09-11T19:57:22Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.13491v1"
+    }
+  },
+  "note": "First published: 2026-09-11; Recorded arXiv version: v1; Recorded version updated: 2026-09-11T19:57:22Z.",
+  "author": [
+    {
+      "literal": "Alexandru Ianta"
+    },
+    {
+      "literal": "Eleni Stroulia"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.13491",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Mobile-Agent-V: A Video-Guided Approach for Effortless 
 
 The authors identify this arXiv entry as an accidental duplicate submission and direct future updates to https://arxiv.org/abs/2502.17110. Retained as a bibliographic provenance record; not counted as an additional reviewed work.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-13887/record.json
+
 ## Authors
 
 Junyang Wang, Haiyang Xu, Xi Zhang, Ming Yan, Ji Zhang, Fei Huang, Jitao Sang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-13887/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-13887/citation.csl.json
 
 ## Recorded arXiv snapshot
 

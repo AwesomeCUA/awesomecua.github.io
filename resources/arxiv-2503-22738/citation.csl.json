@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2503.22738",
+  "citation-key": "arxiv_2503_22738",
+  "type": "article",
+  "title": "ShieldAgent: Shielding Agents via Verifiable Safety Policy Reasoning",
+  "URL": "https://arxiv.org/abs/2503.22738v2",
+  "custom": {
+    "catalog_id": "arxiv:2503.22738",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2503.22738",
+    "identifiers": {
+      "arxiv": "2503.22738"
+    },
+    "first_published_at": "2025-03-26",
+    "record_updated_at": "2025-11-27",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "362fe117797181225641b71b23df95d82c2f90ebf2bbfa1bebea56427e502091",
+      "submitted_at": "2025-03-26T17:58:40Z",
+      "updated_at": "2025-11-27T22:01:17Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2503.22738v2"
+    }
+  },
+  "note": "First published: 2025-03-26; Recorded arXiv version: v2; Recorded version updated: 2025-11-27T22:01:17Z.",
+  "author": [
+    {
+      "literal": "Zhaorun Chen"
+    },
+    {
+      "literal": "Mintong Kang"
+    },
+    {
+      "literal": "Bo Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.22738",
+  "genre": "preprint",
+  "version": "2"
+}

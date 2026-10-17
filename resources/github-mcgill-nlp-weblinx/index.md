@@ -16,6 +16,8 @@ Demonstrations and evaluation for conversational web navigation.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-mcgill-nlp-weblinx/record.json
+
 ## Structured profile
 
 - actions: predicted browser actions

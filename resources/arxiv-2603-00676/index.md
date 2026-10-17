@@ -16,9 +16,16 @@ Bibliographic record for K^2-Agent: Co-Evolving Know-What and Know-How for Hiera
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-00676/record.json
+
 ## Authors
 
 Zhe Wu, Donglin Mo, Hongjin Lu, Junliang Xing, Jianheng Liu, Yuheng Jing, Kai Li, Kun Shao, Jianye Hao, Yuanchun Shi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-00676/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-00676/citation.csl.json
 
 ## Recorded arXiv snapshot
 

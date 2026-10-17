@@ -16,9 +16,16 @@ Bibliographic record for ML-Dev-Bench: Comparative Analysis of AI Agents on ML d
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-00964/record.json
+
 ## Authors
 
 Harshith Padigela, Chintan Shah, Dinkar Juyal
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-00964/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-00964/citation.csl.json
 
 ## Recorded arXiv snapshot
 

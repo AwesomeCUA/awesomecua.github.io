@@ -16,9 +16,16 @@ Bibliographic record for SAC-GLAM: Improving Online RL for LLM agents with Soft 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-12481/record.json
+
 ## Authors
 
 Loris Gaven, Clement Romac, Thomas Carta, Sylvain Lamprier, Olivier Sigaud, Pierre-Yves Oudeyer
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-12481/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-12481/citation.csl.json
 
 ## Recorded arXiv snapshot
 

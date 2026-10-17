@@ -16,9 +16,16 @@ Bibliographic record for Affective computing using speech and eye gaze: a review
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1805-06652/record.json
+
 ## Authors
 
 Jonny O'Dwyer, Niall Murray, Ronan Flynn
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1805-06652/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1805-06652/citation.csl.json
 
 ## Recorded arXiv snapshot
 

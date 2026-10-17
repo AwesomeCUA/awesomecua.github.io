@@ -1,0 +1,97 @@
+{
+  "id": "arxiv:2602.17365",
+  "citation-key": "arxiv_2602_17365",
+  "type": "article",
+  "title": "Computer-Using World Model",
+  "URL": "https://arxiv.org/abs/2602.17365v1",
+  "custom": {
+    "catalog_id": "arxiv:2602.17365",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.17365",
+    "identifiers": {
+      "arxiv": "2602.17365"
+    },
+    "first_published_at": "2026-02-19",
+    "record_updated_at": "2026-02-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3d2237dd43f4c876ba69b68c1871ca3efd3aa501e93c86655eb2de6d9f35d2e8",
+      "submitted_at": "2026-02-19T13:48:29Z",
+      "updated_at": "2026-02-19T13:48:29Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2602.17365v1"
+    }
+  },
+  "note": "First published: 2026-02-19; Recorded arXiv version: v1; Recorded version updated: 2026-02-19T13:48:29Z.",
+  "author": [
+    {
+      "literal": "Yiming Guan"
+    },
+    {
+      "literal": "Rui Yu"
+    },
+    {
+      "literal": "John Zhang"
+    },
+    {
+      "literal": "Lu Wang"
+    },
+    {
+      "literal": "Chaoyun Zhang"
+    },
+    {
+      "literal": "Liqun Li"
+    },
+    {
+      "literal": "Bo Qiao"
+    },
+    {
+      "literal": "Si Qin"
+    },
+    {
+      "literal": "He Huang"
+    },
+    {
+      "literal": "Fangkai Yang"
+    },
+    {
+      "literal": "Pu Zhao"
+    },
+    {
+      "literal": "Lukas Wutschitz"
+    },
+    {
+      "literal": "Samuel Kessler"
+    },
+    {
+      "literal": "Huseyin A Inan"
+    },
+    {
+      "literal": "Robert Sim"
+    },
+    {
+      "literal": "Saravan Rajmohan"
+    },
+    {
+      "literal": "Qingwei Lin"
+    },
+    {
+      "literal": "Dongmei Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.17365",
+  "genre": "preprint",
+  "version": "1"
+}

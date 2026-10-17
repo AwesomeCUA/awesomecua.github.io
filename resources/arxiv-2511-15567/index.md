@@ -16,9 +16,16 @@ Bibliographic record for Computer-Use Agents as Judges for Generative User Inter
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-15567/record.json
+
 ## Authors
 
 Kevin Qinghong Lin, Siyuan Hu, Linjie Li, Zhengyuan Yang, Lijuan Wang, Philip Torr, Mike Zheng Shou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-15567/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-15567/citation.csl.json
 
 ## Recorded arXiv snapshot
 

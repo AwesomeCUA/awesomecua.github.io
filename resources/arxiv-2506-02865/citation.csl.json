@@ -1,0 +1,175 @@
+{
+  "id": "arxiv:2506.02865",
+  "citation-key": "arxiv_2506_02865",
+  "type": "article",
+  "title": "Surfer-H Meets Holo1: Cost-Efficient Web Agent Powered by Open Weights",
+  "URL": "https://arxiv.org/abs/2506.02865v2",
+  "custom": {
+    "catalog_id": "arxiv:2506.02865",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2506.02865",
+    "identifiers": {
+      "arxiv": "2506.02865"
+    },
+    "first_published_at": "2025-06-03",
+    "record_updated_at": "2025-06-11",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "89c2d658e03204b56f6d273da9572820f9a23ca359a441ea87baa451a93c5b58",
+      "submitted_at": "2025-06-03T13:29:03Z",
+      "updated_at": "2025-06-11T09:33:38Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2506.02865v2"
+    }
+  },
+  "note": "First published: 2025-06-03; Recorded arXiv version: v2; Recorded version updated: 2025-06-11T09:33:38Z.",
+  "author": [
+    {
+      "literal": "Mathieu Andreux"
+    },
+    {
+      "literal": "Breno Baldas Skuk"
+    },
+    {
+      "literal": "Hamza Benchekroun"
+    },
+    {
+      "literal": "Emilien Biré"
+    },
+    {
+      "literal": "Antoine Bonnet"
+    },
+    {
+      "literal": "Riaz Bordie"
+    },
+    {
+      "literal": "Nathan Bout"
+    },
+    {
+      "literal": "Matthias Brunel"
+    },
+    {
+      "literal": "Pierre-Louis Cedoz"
+    },
+    {
+      "literal": "Antoine Chassang"
+    },
+    {
+      "literal": "Mickaël Chen"
+    },
+    {
+      "literal": "Alexandra D. Constantinou"
+    },
+    {
+      "literal": "Antoine d'Andigné"
+    },
+    {
+      "literal": "Hubert de La Jonquière"
+    },
+    {
+      "literal": "Aurélien Delfosse"
+    },
+    {
+      "literal": "Ludovic Denoyer"
+    },
+    {
+      "literal": "Alexis Deprez"
+    },
+    {
+      "literal": "Augustin Derupti"
+    },
+    {
+      "literal": "Michael Eickenberg"
+    },
+    {
+      "literal": "Mathïs Federico"
+    },
+    {
+      "literal": "Charles Kantor"
+    },
+    {
+      "literal": "Xavier Koegler"
+    },
+    {
+      "literal": "Yann Labbé"
+    },
+    {
+      "literal": "Matthew C. H. Lee"
+    },
+    {
+      "literal": "Erwan Le Jumeau de Kergaradec"
+    },
+    {
+      "literal": "Amir Mahla"
+    },
+    {
+      "literal": "Avshalom Manevich"
+    },
+    {
+      "literal": "Adrien Maret"
+    },
+    {
+      "literal": "Charles Masson"
+    },
+    {
+      "literal": "Rafaël Maurin"
+    },
+    {
+      "literal": "Arturo Mena"
+    },
+    {
+      "literal": "Philippe Modard"
+    },
+    {
+      "literal": "Axel Moyal"
+    },
+    {
+      "literal": "Axel Nguyen Kerbel"
+    },
+    {
+      "literal": "Julien Revelle"
+    },
+    {
+      "literal": "Mats L. Richter"
+    },
+    {
+      "literal": "María Santos"
+    },
+    {
+      "literal": "Laurent Sifre"
+    },
+    {
+      "literal": "Maxime Theillard"
+    },
+    {
+      "literal": "Marc Thibault"
+    },
+    {
+      "literal": "Louis Thiry"
+    },
+    {
+      "literal": "Léo Tronchon"
+    },
+    {
+      "literal": "Nicolas Usunier"
+    },
+    {
+      "literal": "Tony Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.02865",
+  "genre": "preprint",
+  "version": "2"
+}

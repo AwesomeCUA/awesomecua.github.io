@@ -16,9 +16,16 @@ Synapse filters task-irrelevant page state and places complete abstracted state-
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2306-07863/record.json
+
 ## Authors
 
 Longtao Zheng, Rundong Wang, Xinrun Wang, Bo An
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2306-07863/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2306-07863/citation.csl.json
 
 ## Recorded arXiv snapshot
 

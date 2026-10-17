@@ -16,9 +16,16 @@ Bibliographic record for Distributed Evolutionary Computation using REST. Title,
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1105-4971/record.json
+
 ## Authors
 
 P. A. Castillo, M. G. Arenas, A. M. Mora, J. L. J. Laredo, G. Romero, V. M Rivas, J. J. Merelo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1105-4971/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1105-4971/citation.csl.json
 
 ## Recorded arXiv snapshot
 

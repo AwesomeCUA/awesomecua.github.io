@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2404.12753",
+  "citation-key": "arxiv_2404_12753",
+  "type": "article",
+  "title": "AutoScraper: A Progressive Understanding Web Agent for Web Scraper Generation",
+  "URL": "https://arxiv.org/abs/2404.12753v2",
+  "custom": {
+    "catalog_id": "arxiv:2404.12753",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2404.12753",
+    "identifiers": {
+      "arxiv": "2404.12753"
+    },
+    "first_published_at": "2024-04-19",
+    "record_updated_at": "2024-09-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9197968c51e668d3737496aaebadaa324e2b20b182aad541cabb491e491d3b41",
+      "submitted_at": "2024-04-19T09:59:44Z",
+      "updated_at": "2024-09-26T09:17:10Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2404.12753v2"
+    }
+  },
+  "note": "First published: 2024-04-19; Recorded arXiv version: v2; Recorded version updated: 2024-09-26T09:17:10Z.",
+  "author": [
+    {
+      "literal": "Wenhao Huang"
+    },
+    {
+      "literal": "Zhouhong Gu"
+    },
+    {
+      "literal": "Chenghao Peng"
+    },
+    {
+      "literal": "Zhixu Li"
+    },
+    {
+      "literal": "Jiaqing Liang"
+    },
+    {
+      "literal": "Yanghua Xiao"
+    },
+    {
+      "literal": "Liqian Wen"
+    },
+    {
+      "literal": "Zulong Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.12753",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Episodic Memory in Agentic Frameworks: Suggesting Next 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-17775/record.json
+
 ## Authors
 
 Sandro Rama Fiorini, Leonardo G. Azevedo, Raphael M. Thiago, Valesca M. de Sousa, Anton B. Labate, Viviane Torres da Silva
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-17775/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-17775/citation.csl.json
 
 ## Recorded arXiv snapshot
 

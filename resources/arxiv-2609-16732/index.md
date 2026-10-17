@@ -16,9 +16,16 @@ Bibliographic record for When Agents See Differently: Exposing UI Desynchronizat
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-16732/record.json
+
 ## Authors
 
 Heng Li, Fulin Zhao, Zhe Geng, Zhiyuan Yao, Wei Yuan, Xiapu Luo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-16732/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-16732/citation.csl.json
 
 ## Recorded arXiv snapshot
 

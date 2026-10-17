@@ -16,9 +16,16 @@ Bibliographic record for IntentScore: Intent-Conditioned Action Evaluation for C
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-05157/record.json
+
 ## Authors
 
 Rongqian Chen, Yu Li, Zeyu Fang, Sizhe Tang, Weidong Cao, Tian Lan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-05157/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-05157/citation.csl.json
 
 ## Recorded arXiv snapshot
 

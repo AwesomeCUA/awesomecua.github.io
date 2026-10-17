@@ -1,0 +1,75 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:00Z",
+      "role": "primary",
+      "sha256": "c4112415bec58fc77f9a1e8fa98f8d602c5d382747579dfda9f866900c55995c",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/njucckevin/SeeClick/HEAD/readme.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:00Z",
+      "role": "primary",
+      "sha256": "43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/njucckevin/SeeClick/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:njucckevin/seeclick",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-16T06:36:00Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T06:42:00Z",
+      "url": "https://raw.githubusercontent.com/njucckevin/SeeClick/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/njucckevin/SeeClick"
+    }
+  ],
+  "name": "SeeClick",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/njucckevin/SeeClick/HEAD/readme.md",
+      "target_id": "arxiv:2401.10935",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "GUI grounding model trained to locate visual interface elements.",
+  "topics": [
+    "grounding"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/njucckevin/SeeClick"
+}

@@ -16,6 +16,8 @@ GUI instruction data and model training resources.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-yiye3-guicourse/record.json
+
 ## License declarations
 
 - code: not recorded

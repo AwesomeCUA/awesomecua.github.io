@@ -16,9 +16,16 @@ R-VLM localizes GUI elements through zoomed-in region proposals and an intersect
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-05673/record.json
+
 ## Authors
 
 Joonhyung Park, Peng Tang, Sagnik Das, Srikar Appalaraju, Kunwar Yashraj Singh, R. Manmatha, Shabnam Ghadar
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-05673/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-05673/citation.csl.json
 
 ## Recorded arXiv snapshot
 

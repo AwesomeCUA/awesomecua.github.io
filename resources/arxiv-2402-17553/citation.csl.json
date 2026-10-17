@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2402.17553",
+  "citation-key": "arxiv_2402_17553",
+  "type": "article",
+  "title": "OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web",
+  "URL": "https://arxiv.org/abs/2402.17553v3",
+  "custom": {
+    "catalog_id": "arxiv:2402.17553",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2402.17553",
+    "identifiers": {
+      "arxiv": "2402.17553"
+    },
+    "first_published_at": "2024-02-27",
+    "record_updated_at": "2024-07-21",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "54b548ac2bee529d3a769e7ea14b6bfce2270cdf349d832cc8c146e7d779b81a",
+      "submitted_at": "2024-02-27T14:47:53Z",
+      "updated_at": "2024-07-21T23:16:13Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2402.17553v3"
+    }
+  },
+  "note": "First published: 2024-02-27; Recorded arXiv version: v3; Recorded version updated: 2024-07-21T23:16:13Z.",
+  "author": [
+    {
+      "literal": "Raghav Kapoor"
+    },
+    {
+      "literal": "Yash Parag Butala"
+    },
+    {
+      "literal": "Melisa Russak"
+    },
+    {
+      "literal": "Jing Yu Koh"
+    },
+    {
+      "literal": "Kiran Kamble"
+    },
+    {
+      "literal": "Waseem Alshikh"
+    },
+    {
+      "literal": "Ruslan Salakhutdinov"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.17553",
+  "genre": "preprint",
+  "version": "3"
+}

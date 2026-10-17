@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2407.08850",
+  "citation-key": "arxiv_2407_08850",
+  "type": "article",
+  "title": "UICrit: Enhancing Automated Design Evaluation with a UICritique Dataset",
+  "URL": "https://arxiv.org/abs/2407.08850v3",
+  "custom": {
+    "catalog_id": "arxiv:2407.08850",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2407.08850",
+    "identifiers": {
+      "arxiv": "2407.08850"
+    },
+    "first_published_at": "2024-07-11",
+    "record_updated_at": "2024-08-13",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "390a7415ad5f665de43f7d294e0a575785ef7e2810dead3363632174b2986af4",
+      "submitted_at": "2024-07-11T20:18:19Z",
+      "updated_at": "2024-08-13T23:41:43Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2407.08850v3"
+    }
+  },
+  "note": "First published: 2024-07-11; Recorded arXiv version: v3; Recorded version updated: 2024-08-13T23:41:43Z.",
+  "author": [
+    {
+      "literal": "Peitong Duan"
+    },
+    {
+      "literal": "Chin-yi Chen"
+    },
+    {
+      "literal": "Gang Li"
+    },
+    {
+      "literal": "Bjoern Hartmann"
+    },
+    {
+      "literal": "Yang Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.08850",
+  "genre": "preprint",
+  "version": "3"
+}

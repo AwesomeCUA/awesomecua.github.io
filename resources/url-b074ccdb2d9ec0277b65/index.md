@@ -16,6 +16,8 @@ Hosted agent combining browser interaction, tools, and computer-based tasks.
 
 The launch page identifies itself as outdated. This entry records the product introduction, not current availability, limits, or pricing.
 
+- Record JSON: https://awesomecua.github.io/resources/url-b074ccdb2d9ec0277b65/record.json
+
 ## License declarations
 
 - code: not recorded

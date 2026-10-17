@@ -16,9 +16,16 @@ Bibliographic record for A Systolic Array Architecture for Nonlinear Activation 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-04734/record.json
+
 ## Authors
 
 Benedikt Schaible, Anirudh Suresh Bharadwaj, Ulf Schlichtmann, Jiang Hu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-04734/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-04734/citation.csl.json
 
 ## Recorded arXiv snapshot
 

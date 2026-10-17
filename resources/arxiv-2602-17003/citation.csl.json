@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2602.17003",
+  "citation-key": "arxiv_2602_17003",
+  "type": "article",
+  "title": "Persona2Web: Benchmarking Personalized Web Agents for Contextual Reasoning with User History",
+  "URL": "https://arxiv.org/abs/2602.17003v3",
+  "custom": {
+    "catalog_id": "arxiv:2602.17003",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2602.17003",
+    "identifiers": {
+      "arxiv": "2602.17003"
+    },
+    "first_published_at": "2026-02-19",
+    "record_updated_at": "2026-05-27",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "28a23bf22920f8c33317e9d16f59d7085f188e79157301ff573abe773cf562ce",
+      "submitted_at": "2026-02-19T01:54:26Z",
+      "updated_at": "2026-05-27T12:15:49Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2602.17003v3"
+    }
+  },
+  "note": "First published: 2026-02-19; Recorded arXiv version: v3; Recorded version updated: 2026-05-27T12:15:49Z.",
+  "author": [
+    {
+      "literal": "Serin Kim"
+    },
+    {
+      "literal": "Sangam Lee"
+    },
+    {
+      "literal": "Dongha Lee"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.17003",
+  "genre": "preprint",
+  "version": "3"
+}

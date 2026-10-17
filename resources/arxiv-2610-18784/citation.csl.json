@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2610.18784",
+  "citation-key": "arxiv_2610_18784",
+  "type": "article",
+  "title": "Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents",
+  "URL": "https://arxiv.org/abs/2610.18784v2",
+  "custom": {
+    "catalog_id": "arxiv:2610.18784",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.18784",
+    "identifiers": {
+      "arxiv": "2610.18784"
+    },
+    "first_published_at": "2026-10-13",
+    "record_updated_at": "2026-10-14",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6f4a9b6fae506d4dd35798c1930d5df4ec7fc7a2c452ab8bd5a5714cf385d505",
+      "submitted_at": "2026-10-13T17:35:27Z",
+      "updated_at": "2026-10-14T04:46:42Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2610.18784v2"
+    }
+  },
+  "note": "First published: 2026-10-13; Recorded arXiv version: v2; Recorded version updated: 2026-10-14T04:46:42Z.",
+  "author": [
+    {
+      "literal": "Yuchen Lu"
+    },
+    {
+      "literal": "Julian McAuley"
+    },
+    {
+      "literal": "Lei Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.18784",
+  "genre": "preprint",
+  "version": "2"
+}

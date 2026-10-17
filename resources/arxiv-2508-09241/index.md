@@ -16,9 +16,16 @@ FineState-Bench evaluates fine-grained GUI perception and control across desktop
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-09241/record.json
+
 ## Authors
 
 Fengxian Ji, Jingpu Yang, Zirui Song, Yuanxi Wang, Zhexuan Cui, Yuke Li, Qian Jiang, Miao Fang, Xiuying Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-09241/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-09241/citation.csl.json
 
 ## Recorded arXiv snapshot
 

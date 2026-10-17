@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2503.10809",
+  "citation-key": "arxiv_2503_10809",
+  "type": "article",
+  "title": "MIP against Agent: Malicious Image Patches Hijacking Multimodal OS Agents",
+  "URL": "https://arxiv.org/abs/2503.10809v3",
+  "custom": {
+    "catalog_id": "arxiv:2503.10809",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2503.10809",
+    "identifiers": {
+      "arxiv": "2503.10809"
+    },
+    "first_published_at": "2025-03-13",
+    "record_updated_at": "2026-01-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7e5622a83d74c18761a7ab88c98682d3903ce0b6700c7e9814f069bfba26e796",
+      "submitted_at": "2025-03-13T18:59:12Z",
+      "updated_at": "2026-01-27T18:10:17Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2503.10809v3"
+    }
+  },
+  "note": "First published: 2025-03-13; Recorded arXiv version: v3; Recorded version updated: 2026-01-27T18:10:17Z.",
+  "author": [
+    {
+      "literal": "Lukas Aichberger"
+    },
+    {
+      "literal": "Alasdair Paren"
+    },
+    {
+      "literal": "Guohao Li"
+    },
+    {
+      "literal": "Philip Torr"
+    },
+    {
+      "literal": "Yarin Gal"
+    },
+    {
+      "literal": "Adel Bibi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.10809",
+  "genre": "preprint",
+  "version": "3"
+}

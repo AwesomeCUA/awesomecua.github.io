@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2210.03629",
+  "citation-key": "arxiv_2210_03629",
+  "type": "article",
+  "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+  "URL": "https://arxiv.org/abs/2210.03629v3",
+  "custom": {
+    "catalog_id": "arxiv:2210.03629",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2210.03629",
+    "identifiers": {
+      "arxiv": "2210.03629"
+    },
+    "first_published_at": "2022-10-06",
+    "record_updated_at": "2023-03-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d54d4d76519ed21b2bfeedd94901a9bb559802e0c0bde7e09fb1e0a8bcdb3679",
+      "submitted_at": "2022-10-06T01:00:32Z",
+      "updated_at": "2023-03-10T01:00:17Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2210.03629v3"
+    }
+  },
+  "note": "First published: 2022-10-06; Recorded arXiv version: v3; Recorded version updated: 2023-03-10T01:00:17Z.",
+  "author": [
+    {
+      "literal": "Shunyu Yao"
+    },
+    {
+      "literal": "Jeffrey Zhao"
+    },
+    {
+      "literal": "Dian Yu"
+    },
+    {
+      "literal": "Nan Du"
+    },
+    {
+      "literal": "Izhak Shafran"
+    },
+    {
+      "literal": "Karthik Narasimhan"
+    },
+    {
+      "literal": "Yuan Cao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2210.03629",
+  "genre": "preprint",
+  "version": "3"
+}

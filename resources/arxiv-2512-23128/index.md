@@ -16,9 +16,16 @@ Bibliographic record for It's a TRAP! Task-Redirecting Agent Persuasion Benchmar
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-23128/record.json
+
 ## Authors
 
 Karolina Korgul, Yushi Yang, Arkadiusz Drohomirecki, Piotr Błaszczyk, Will Howard, Lukas Aichberger, Chris Russell, Philip H. S. Torr, Adam Mahdi, Adel Bibi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-23128/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-23128/citation.csl.json
 
 ## Recorded arXiv snapshot
 

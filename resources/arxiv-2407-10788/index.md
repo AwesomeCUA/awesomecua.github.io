@@ -16,9 +16,16 @@ Bibliographic record for CircleZ: Reliable Photometric redshifts for AGN compute
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-10788/record.json
+
 ## Authors
 
 A. Saxena, M. Salvato, W. Roster, R. Shirley, J. Buchner, J. Wolf, C. Kohl, H. Starck, T. Dwelly, J. Comparat, A. Malyali, S. Krippendorf, A. Zenteno, D. Lang, D. Schlegel, R. Zhou, A. Dey, F. Valdes, A. Myers, R. J. Assef, C. Ricci, M. J. Temple, A. Merloni, A. Koekemoer, S. F. Anderson, S. Morrison, X. Liu, K. Nandra
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-10788/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-10788/citation.csl.json
 
 ## Recorded arXiv snapshot
 

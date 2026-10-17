@@ -16,9 +16,16 @@ Avenir-UX combines grounded web interaction with simulated user profiles and str
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-09581/record.json
+
 ## Authors
 
 Wee Joe Tan, Zi Rui Lucas Lim, Shashank Durgad, Karim Obegi, Aiden Yiliu Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-09581/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-09581/citation.csl.json
 
 ## Recorded arXiv snapshot
 

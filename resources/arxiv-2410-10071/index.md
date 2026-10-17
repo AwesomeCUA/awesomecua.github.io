@@ -16,9 +16,16 @@ Bibliographic record for Content Caching-Assisted Vehicular Edge Computing Using
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-10071/record.json
+
 ## Authors
 
 Jinjin Shen, Yan Lin, Yijin Zhang, Weibin Zhang, Feng Shu, Jun Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-10071/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-10071/citation.csl.json
 
 ## Recorded arXiv snapshot
 

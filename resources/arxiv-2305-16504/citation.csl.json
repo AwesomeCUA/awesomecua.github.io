@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2305.16504",
+  "citation-key": "arxiv_2305_16504",
+  "type": "article",
+  "title": "On the Tool Manipulation Capability of Open-source Large Language Models",
+  "URL": "https://arxiv.org/abs/2305.16504v1",
+  "custom": {
+    "catalog_id": "arxiv:2305.16504",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2305.16504",
+    "identifiers": {
+      "arxiv": "2305.16504"
+    },
+    "first_published_at": "2023-05-25",
+    "record_updated_at": "2023-05-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "819b5bf1cef7b8f674cab337c972e1fd365ffc3f188cf4c169d55a3b5e692593",
+      "submitted_at": "2023-05-25T22:10:20Z",
+      "updated_at": "2023-05-25T22:10:20Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2305.16504v1"
+    }
+  },
+  "note": "First published: 2023-05-25; Recorded arXiv version: v1; Recorded version updated: 2023-05-25T22:10:20Z.",
+  "author": [
+    {
+      "literal": "Qiantong Xu"
+    },
+    {
+      "literal": "Fenglu Hong"
+    },
+    {
+      "literal": "Bo Li"
+    },
+    {
+      "literal": "Changran Hu"
+    },
+    {
+      "literal": "Zhengyu Chen"
+    },
+    {
+      "literal": "Jian Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2305.16504",
+  "genre": "preprint",
+  "version": "1"
+}

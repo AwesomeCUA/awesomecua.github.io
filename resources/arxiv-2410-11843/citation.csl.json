@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2410.11843",
+  "citation-key": "arxiv_2410_11843",
+  "type": "article",
+  "title": "From Commands to Prompts: LLM-based Semantic File System for AIOS",
+  "URL": "https://arxiv.org/abs/2410.11843v5",
+  "custom": {
+    "catalog_id": "arxiv:2410.11843",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2410.11843",
+    "identifiers": {
+      "arxiv": "2410.11843"
+    },
+    "first_published_at": "2024-09-23",
+    "record_updated_at": "2025-03-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "aa26cd90a9bcd0ef72e1721630f84b03cad381f5dff9c82eebf589be75d984f2",
+      "submitted_at": "2024-09-23T08:39:16Z",
+      "updated_at": "2025-03-19T03:17:47Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2410.11843v5"
+    }
+  },
+  "note": "First published: 2024-09-23; Recorded arXiv version: v5; Recorded version updated: 2025-03-19T03:17:47Z.",
+  "author": [
+    {
+      "literal": "Zeru Shi"
+    },
+    {
+      "literal": "Kai Mei"
+    },
+    {
+      "literal": "Mingyu Jin"
+    },
+    {
+      "literal": "Yongye Su"
+    },
+    {
+      "literal": "Chaoji Zuo"
+    },
+    {
+      "literal": "Wenyue Hua"
+    },
+    {
+      "literal": "Wujiang Xu"
+    },
+    {
+      "literal": "Yujie Ren"
+    },
+    {
+      "literal": "Zirui Liu"
+    },
+    {
+      "literal": "Mengnan Du"
+    },
+    {
+      "literal": "Dong Deng"
+    },
+    {
+      "literal": "Yongfeng Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.11843",
+  "genre": "preprint",
+  "version": "5"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2407.13032",
+  "citation-key": "arxiv_2407_13032",
+  "type": "article",
+  "title": "Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems",
+  "URL": "https://arxiv.org/abs/2407.13032v1",
+  "custom": {
+    "catalog_id": "arxiv:2407.13032",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2407.13032",
+    "identifiers": {
+      "arxiv": "2407.13032"
+    },
+    "first_published_at": "2024-07-17",
+    "record_updated_at": "2024-07-17",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "18cfd29fcb66d703d90f747c162db1b3fc6a43f400b4eacbddf081bb83ed7947",
+      "submitted_at": "2024-07-17T21:44:28Z",
+      "updated_at": "2024-07-17T21:44:28Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2407.13032v1"
+    }
+  },
+  "note": "First published: 2024-07-17; Recorded arXiv version: v1; Recorded version updated: 2024-07-17T21:44:28Z.",
+  "author": [
+    {
+      "literal": "Tamer Abuelsaad"
+    },
+    {
+      "literal": "Deepak Akkil"
+    },
+    {
+      "literal": "Prasenjit Dey"
+    },
+    {
+      "literal": "Ashish Jagmohan"
+    },
+    {
+      "literal": "Aditya Vempaty"
+    },
+    {
+      "literal": "Ravi Kokku"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.13032",
+  "genre": "preprint",
+  "version": "1"
+}

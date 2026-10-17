@@ -16,9 +16,16 @@ Bibliographic record for Assessment of various Hamiltonian partitionings for the
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2210-10189/record.json
+
 ## Authors
 
 Luis A. Martínez-Martínez, Tzu-Ching Yen, Artur F. Izmaylov
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2210-10189/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2210-10189/citation.csl.json
 
 ## Recorded arXiv snapshot
 

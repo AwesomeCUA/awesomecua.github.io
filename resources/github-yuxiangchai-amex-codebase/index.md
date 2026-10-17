@@ -16,6 +16,8 @@ Android interaction data with interface annotations.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-yuxiangchai-amex-codebase/record.json
+
 ## Structured profile
 
 - formats: not recorded

@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2609.30604",
+  "citation-key": "arxiv_2609_30604",
+  "type": "article",
+  "title": "The Hard Part Comes After Search: Benchmarking Web Agents on Synthesizing, Organizing, and Displaying Knowledge",
+  "URL": "https://arxiv.org/abs/2609.30604v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.30604",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.30604",
+    "identifiers": {
+      "arxiv": "2609.30604"
+    },
+    "first_published_at": "2026-09-24",
+    "record_updated_at": "2026-09-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d6ed206d8f8fec53c03956fffcafec6b55d94a47fc705bbc8b77c832b76419e6",
+      "submitted_at": "2026-09-24T22:36:10Z",
+      "updated_at": "2026-09-24T22:36:10Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.30604v1"
+    }
+  },
+  "note": "First published: 2026-09-24; Recorded arXiv version: v1; Recorded version updated: 2026-09-24T22:36:10Z.",
+  "author": [
+    {
+      "literal": "Alexander Gill"
+    },
+    {
+      "literal": "Md Farhan Ishmam"
+    },
+    {
+      "literal": "Xuyen Nguyen"
+    },
+    {
+      "literal": "Neha Bhat"
+    },
+    {
+      "literal": "Parker Henry DeYoung"
+    },
+    {
+      "literal": "Fateme Hashemi Chaleshtori"
+    },
+    {
+      "literal": "Nathan Stringham"
+    },
+    {
+      "literal": "Kenneth Marino"
+    },
+    {
+      "literal": "Ana Marasović"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.30604",
+  "genre": "preprint",
+  "version": "1"
+}

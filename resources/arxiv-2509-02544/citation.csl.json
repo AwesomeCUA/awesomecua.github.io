@@ -1,0 +1,379 @@
+{
+  "id": "arxiv:2509.02544",
+  "citation-key": "arxiv_2509_02544",
+  "type": "article",
+  "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2509.02544v2",
+  "custom": {
+    "catalog_id": "arxiv:2509.02544",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2509.02544",
+    "identifiers": {
+      "arxiv": "2509.02544"
+    },
+    "first_published_at": "2025-09-02",
+    "record_updated_at": "2025-09-05",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "800e417f4a2f720beb436ddd2e7bc60f0dd2483b44ac007a72a5eab2c6001ff8",
+      "submitted_at": "2025-09-02T17:44:45Z",
+      "updated_at": "2025-09-05T14:59:27Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2509.02544v2"
+    }
+  },
+  "note": "First published: 2025-09-02; Recorded arXiv version: v2; Recorded version updated: 2025-09-05T14:59:27Z.",
+  "author": [
+    {
+      "literal": "Haoming Wang"
+    },
+    {
+      "literal": "Haoyang Zou"
+    },
+    {
+      "literal": "Huatong Song"
+    },
+    {
+      "literal": "Jiazhan Feng"
+    },
+    {
+      "literal": "Junjie Fang"
+    },
+    {
+      "literal": "Junting Lu"
+    },
+    {
+      "literal": "Longxiang Liu"
+    },
+    {
+      "literal": "Qinyu Luo"
+    },
+    {
+      "literal": "Shihao Liang"
+    },
+    {
+      "literal": "Shijue Huang"
+    },
+    {
+      "literal": "Wanjun Zhong"
+    },
+    {
+      "literal": "Yining Ye"
+    },
+    {
+      "literal": "Yujia Qin"
+    },
+    {
+      "literal": "Yuwen Xiong"
+    },
+    {
+      "literal": "Yuxin Song"
+    },
+    {
+      "literal": "Zhiyong Wu"
+    },
+    {
+      "literal": "Aoyan Li"
+    },
+    {
+      "literal": "Bo Li"
+    },
+    {
+      "literal": "Chen Dun"
+    },
+    {
+      "literal": "Chong Liu"
+    },
+    {
+      "literal": "Daoguang Zan"
+    },
+    {
+      "literal": "Fuxing Leng"
+    },
+    {
+      "literal": "Hanbin Wang"
+    },
+    {
+      "literal": "Hao Yu"
+    },
+    {
+      "literal": "Haobin Chen"
+    },
+    {
+      "literal": "Hongyi Guo"
+    },
+    {
+      "literal": "Jing Su"
+    },
+    {
+      "literal": "Jingjia Huang"
+    },
+    {
+      "literal": "Kai Shen"
+    },
+    {
+      "literal": "Kaiyu Shi"
+    },
+    {
+      "literal": "Lin Yan"
+    },
+    {
+      "literal": "Peiyao Zhao"
+    },
+    {
+      "literal": "Pengfei Liu"
+    },
+    {
+      "literal": "Qinghao Ye"
+    },
+    {
+      "literal": "Renjie Zheng"
+    },
+    {
+      "literal": "Shulin Xin"
+    },
+    {
+      "literal": "Wayne Xin Zhao"
+    },
+    {
+      "literal": "Wen Heng"
+    },
+    {
+      "literal": "Wenhao Huang"
+    },
+    {
+      "literal": "Wenqian Wang"
+    },
+    {
+      "literal": "Xiaobo Qin"
+    },
+    {
+      "literal": "Yi Lin"
+    },
+    {
+      "literal": "Youbin Wu"
+    },
+    {
+      "literal": "Zehui Chen"
+    },
+    {
+      "literal": "Zihao Wang"
+    },
+    {
+      "literal": "Baoquan Zhong"
+    },
+    {
+      "literal": "Xinchun Zhang"
+    },
+    {
+      "literal": "Xujing Li"
+    },
+    {
+      "literal": "Yuanfan Li"
+    },
+    {
+      "literal": "Zhongkai Zhao"
+    },
+    {
+      "literal": "Chengquan Jiang"
+    },
+    {
+      "literal": "Faming Wu"
+    },
+    {
+      "literal": "Haotian Zhou"
+    },
+    {
+      "literal": "Jinlin Pang"
+    },
+    {
+      "literal": "Li Han"
+    },
+    {
+      "literal": "Qi Liu"
+    },
+    {
+      "literal": "Qianli Ma"
+    },
+    {
+      "literal": "Siyao Liu"
+    },
+    {
+      "literal": "Songhua Cai"
+    },
+    {
+      "literal": "Wenqi Fu"
+    },
+    {
+      "literal": "Xin Liu"
+    },
+    {
+      "literal": "Yaohui Wang"
+    },
+    {
+      "literal": "Zhi Zhang"
+    },
+    {
+      "literal": "Bo Zhou"
+    },
+    {
+      "literal": "Guoliang Li"
+    },
+    {
+      "literal": "Jiajun Shi"
+    },
+    {
+      "literal": "Jiale Yang"
+    },
+    {
+      "literal": "Jie Tang"
+    },
+    {
+      "literal": "Li Li"
+    },
+    {
+      "literal": "Qihua Han"
+    },
+    {
+      "literal": "Taoran Lu"
+    },
+    {
+      "literal": "Woyu Lin"
+    },
+    {
+      "literal": "Xiaokang Tong"
+    },
+    {
+      "literal": "Xinyao Li"
+    },
+    {
+      "literal": "Yichi Zhang"
+    },
+    {
+      "literal": "Yu Miao"
+    },
+    {
+      "literal": "Zhengxuan Jiang"
+    },
+    {
+      "literal": "Zili Li"
+    },
+    {
+      "literal": "Ziyuan Zhao"
+    },
+    {
+      "literal": "Chenxin Li"
+    },
+    {
+      "literal": "Dehua Ma"
+    },
+    {
+      "literal": "Feng Lin"
+    },
+    {
+      "literal": "Ge Zhang"
+    },
+    {
+      "literal": "Haihua Yang"
+    },
+    {
+      "literal": "Hangyu Guo"
+    },
+    {
+      "literal": "Hongda Zhu"
+    },
+    {
+      "literal": "Jiaheng Liu"
+    },
+    {
+      "literal": "Junda Du"
+    },
+    {
+      "literal": "Kai Cai"
+    },
+    {
+      "literal": "Kuanye Li"
+    },
+    {
+      "literal": "Lichen Yuan"
+    },
+    {
+      "literal": "Meilan Han"
+    },
+    {
+      "literal": "Minchao Wang"
+    },
+    {
+      "literal": "Shuyue Guo"
+    },
+    {
+      "literal": "Tianhao Cheng"
+    },
+    {
+      "literal": "Xiaobo Ma"
+    },
+    {
+      "literal": "Xiaojun Xiao"
+    },
+    {
+      "literal": "Xiaolong Huang"
+    },
+    {
+      "literal": "Xinjie Chen"
+    },
+    {
+      "literal": "Yidi Du"
+    },
+    {
+      "literal": "Yilin Chen"
+    },
+    {
+      "literal": "Yiwen Wang"
+    },
+    {
+      "literal": "Zhaojian Li"
+    },
+    {
+      "literal": "Zhenzhu Yang"
+    },
+    {
+      "literal": "Zhiyuan Zeng"
+    },
+    {
+      "literal": "Chaolin Jin"
+    },
+    {
+      "literal": "Chen Li"
+    },
+    {
+      "literal": "Hao Chen"
+    },
+    {
+      "literal": "Haoli Chen"
+    },
+    {
+      "literal": "Jian Chen"
+    },
+    {
+      "literal": "Qinghao Zhao"
+    },
+    {
+      "literal": "Guang Shi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.02544",
+  "genre": "preprint",
+  "version": "2"
+}

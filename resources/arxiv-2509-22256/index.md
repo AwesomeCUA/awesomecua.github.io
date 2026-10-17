@@ -16,9 +16,16 @@ Bibliographic record for Secure and Efficient Access Control for Computer-Use Ag
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-22256/record.json
+
 ## Authors
 
 Haochen Gong, Chenxiao Li, Rui Chang, Wenbo Shen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-22256/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-22256/citation.csl.json
 
 ## Recorded arXiv snapshot
 

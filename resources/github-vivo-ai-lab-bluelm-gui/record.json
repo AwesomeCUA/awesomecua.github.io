@@ -1,0 +1,76 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T10:42:12Z",
+      "role": "primary",
+      "sha256": "5f460f9b2a18315d07b8c48d78dcc764892d09d9250e95f5e591b5966fe59328",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/vivo-ai-lab/BlueLM-GUI/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T10:48:41Z",
+      "role": "primary",
+      "sha256": "6036aa17e52be8051fc3c8ede37fc4d0b2bc2589518be7623566c75868612178",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/vivo-ai-lab/BlueLM-GUI/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:vivo-ai-lab/bluelm-gui",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-16T10:42:12Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T10:48:41Z",
+      "url": "https://raw.githubusercontent.com/vivo-ai-lab/BlueLM-GUI/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/vivo-ai-lab/BlueLM-GUI"
+    }
+  ],
+  "name": "BlueLM-GUI",
+  "notes": "The repository lists the agent as in-house. Public model weights were not established by this review; linked benchmark assets have their own access terms.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/vivo-ai-lab/BlueLM-GUI/HEAD/README.md",
+      "target_id": "arxiv:2609.12394",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Mobile GUI agent research release with technical report, benchmark data, and evaluation tooling from vivo AI Lab.",
+  "topics": [
+    "mobile-navigation",
+    "reinforcement-learning"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/vivo-ai-lab/BlueLM-GUI"
+}

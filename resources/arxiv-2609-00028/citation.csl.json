@@ -1,0 +1,136 @@
+{
+  "id": "arxiv:2609.00028",
+  "citation-key": "arxiv_2609_00028",
+  "type": "article",
+  "title": "UI-Venus-2 Technical Report",
+  "URL": "https://arxiv.org/abs/2609.00028v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.00028",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.00028",
+    "identifiers": {
+      "arxiv": "2609.00028"
+    },
+    "first_published_at": "2026-08-27",
+    "record_updated_at": "2026-08-27",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "34383fa6c6e5cca059c53fd0452d93eec9ac6a96271ddc14f81ddb96fdeaceec",
+      "submitted_at": "2026-08-27T17:15:33Z",
+      "updated_at": "2026-08-27T17:15:33Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.00028v1"
+    }
+  },
+  "note": "First published: 2026-08-27; Recorded arXiv version: v1; Recorded version updated: 2026-08-27T17:15:33Z.",
+  "author": [
+    {
+      "literal": "Venus Team"
+    },
+    {
+      "literal": "Zhuohan Cai"
+    },
+    {
+      "literal": "Haoxing Chen"
+    },
+    {
+      "literal": "Jiaxuan Chen"
+    },
+    {
+      "literal": "Weizhi Chen"
+    },
+    {
+      "literal": "Changlong Gao"
+    },
+    {
+      "literal": "Zhangxuan Gu"
+    },
+    {
+      "literal": "Yuan Guo"
+    },
+    {
+      "literal": "Yusong Hu"
+    },
+    {
+      "literal": "Jianrong Jiang"
+    },
+    {
+      "literal": "Jianguo Li"
+    },
+    {
+      "literal": "Runze Li"
+    },
+    {
+      "literal": "Jinzhen Lin"
+    },
+    {
+      "literal": "Zhenyu Ma"
+    },
+    {
+      "literal": "Changhua Meng"
+    },
+    {
+      "literal": "Han Peng"
+    },
+    {
+      "literal": "Xinyu Qiu"
+    },
+    {
+      "literal": "Shuheng Shen"
+    },
+    {
+      "literal": "Zhongyi Shui"
+    },
+    {
+      "literal": "Weiqiang Wang"
+    },
+    {
+      "literal": "Ming Wen"
+    },
+    {
+      "literal": "Zhuoer Xu"
+    },
+    {
+      "literal": "Hang Yan"
+    },
+    {
+      "literal": "Kaiwen Yang"
+    },
+    {
+      "literal": "Ruilin Yao"
+    },
+    {
+      "literal": "Nanjun Yu"
+    },
+    {
+      "literal": "Zhengwen Zeng"
+    },
+    {
+      "literal": "Lianrui Zhang"
+    },
+    {
+      "literal": "Yunzhu Zhang"
+    },
+    {
+      "literal": "Zhe Zhao"
+    },
+    {
+      "literal": "Beitong Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.00028",
+  "genre": "preprint",
+  "version": "1"
+}

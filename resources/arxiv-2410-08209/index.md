@@ -16,9 +16,16 @@ Bibliographic record for Emergent Visual Grounding in Large Multimodal Models Wi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-08209/record.json
+
 ## Authors
 
 Shengcao Cao, Liang-Yan Gui, Yu-Xiong Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-08209/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-08209/citation.csl.json
 
 ## Recorded arXiv snapshot
 

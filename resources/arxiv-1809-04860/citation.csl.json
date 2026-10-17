@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:1809.04860",
+  "citation-key": "arxiv_1809_04860",
+  "type": "article",
+  "title": "Imitating Human Search Strategies for Assembly",
+  "URL": "https://arxiv.org/abs/1809.04860v3",
+  "custom": {
+    "catalog_id": "arxiv:1809.04860",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1809.04860",
+    "identifiers": {
+      "arxiv": "1809.04860"
+    },
+    "first_published_at": "2018-09-13",
+    "record_updated_at": "2019-03-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9979fd633906ae5d1e05a8df1d0f59b0f85ab155f4f1a4aa7b59d0646a46fac2",
+      "submitted_at": "2018-09-13T09:49:24Z",
+      "updated_at": "2019-03-25T13:06:13Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/1809.04860v3"
+    }
+  },
+  "note": "First published: 2018-09-13; Recorded arXiv version: v3; Recorded version updated: 2019-03-25T13:06:13Z.",
+  "author": [
+    {
+      "literal": "Dennis Ehlers"
+    },
+    {
+      "literal": "Markku Suomalainen"
+    },
+    {
+      "literal": "Jens Lundell"
+    },
+    {
+      "literal": "Ville Kyrki"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        9,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1809.04860",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -16,9 +16,16 @@ Bibliographic record for PixelWeb: The First Web GUI Dataset with Pixel-Wise Lab
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-16419/record.json
+
 ## Authors
 
 Qi Yang, Weichen Bi, Haiyang Shen, Yaoqi Guo, Yun Ma
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-16419/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-16419/citation.csl.json
 
 ## Recorded arXiv snapshot
 

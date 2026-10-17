@@ -16,9 +16,16 @@ Bibliographic record for ComfyGPT: A Self-Optimizing Multi-Agent System for Comp
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-17671/record.json
+
 ## Authors
 
 Oucheng Huang, Yuhang Ma, Zeng Zhao, Mingrui Wu, Jiayi Ji, Rongsheng Zhang, Zhipeng Hu, Xiaoshuai Sun, Rongrong Ji
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-17671/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-17671/citation.csl.json
 
 ## Recorded arXiv snapshot
 

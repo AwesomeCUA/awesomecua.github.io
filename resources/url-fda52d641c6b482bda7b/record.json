@@ -1,0 +1,65 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "access": "publisher-managed",
+    "availability": "not independently tested",
+    "pricing_url": null
+  },
+  "environments": [
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:38:28Z",
+      "role": "primary",
+      "sha256": "6232364481bbae45a3fcec1d1aca858493baff0693ececa98b09b610183e6796",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://e2b.dev/"
+    }
+  ],
+  "id": "url:fda52d641c6b482bda7b",
+  "identifiers": {},
+  "kind": "product",
+  "last_verified_at": "2026-10-16T06:38:28Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://e2b.dev/"
+    }
+  ],
+  "name": "E2B",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://e2b.dev/",
+      "target_id": "organization:e2b",
+      "type": "published_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Sandbox infrastructure for executing agent workloads.",
+  "topics": [
+    "sandbox"
+  ],
+  "updated_at": null,
+  "url": "https://e2b.dev/"
+}

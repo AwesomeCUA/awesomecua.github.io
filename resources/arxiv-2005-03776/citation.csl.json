@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2005.03776",
+  "citation-key": "arxiv_2005_03776",
+  "type": "article",
+  "title": "Mapping Natural Language Instructions to Mobile UI Action Sequences",
+  "URL": "https://arxiv.org/abs/2005.03776v2",
+  "custom": {
+    "catalog_id": "arxiv:2005.03776",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2005.03776",
+    "identifiers": {
+      "arxiv": "2005.03776"
+    },
+    "first_published_at": "2020-05-07",
+    "record_updated_at": "2020-06-05",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3af7b45455ffbd616e8cdf5612b19275ecb7bf07b1065af9f5b724ae19e96fb4",
+      "submitted_at": "2020-05-07T21:41:40Z",
+      "updated_at": "2020-06-05T02:11:56Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2005.03776v2"
+    }
+  },
+  "note": "First published: 2020-05-07; Recorded arXiv version: v2; Recorded version updated: 2020-06-05T02:11:56Z.",
+  "author": [
+    {
+      "literal": "Yang Li"
+    },
+    {
+      "literal": "Jiacong He"
+    },
+    {
+      "literal": "Xin Zhou"
+    },
+    {
+      "literal": "Yuan Zhang"
+    },
+    {
+      "literal": "Jason Baldridge"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        5,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2005.03776",
+  "genre": "preprint",
+  "version": "2"
+}

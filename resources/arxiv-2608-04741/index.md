@@ -16,9 +16,16 @@ Bibliographic record for LoginTrap: Uncovering Task-Agnostic Phishing-Style Indi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-04741/record.json
+
 ## Authors
 
 Longtao Guo, Zelin Zhang, Kaifeng Huang, Yang Shi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-04741/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-04741/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for MIRAGE: Context-Aware Prompt Injection against Mobile G
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-28116/record.json
+
 ## Authors
 
 Ruoqi Guo, Yi Liu, Gelei Deng, Yiheng Xiong, Yuekang Li, Ying Zhang, Leo Yu Zhang, Lida Zhao, Ji Jie, Yuxiao Lu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-28116/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-28116/citation.csl.json
 
 ## Recorded arXiv snapshot
 

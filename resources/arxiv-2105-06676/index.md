@@ -16,9 +16,16 @@ Bibliographic record for Fast Stencil Computations using Fast Fourier Transforms
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2105-06676/record.json
+
 ## Authors
 
 Zafar Ahmad, Rezaul Chowdhury, Rathish Das, Pramod Ganapathi, Aaron Gregory, Yimin Zhu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2105-06676/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2105-06676/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2609.35775",
+  "citation-key": "arxiv_2609_35775",
+  "type": "article",
+  "title": "SPECTRA: On-Device Cognitive Perturbation and Trajectory Analysis for Autonomous Edge-Cloud GUI Grounding",
+  "URL": "https://arxiv.org/abs/2609.35775v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.35775",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.35775",
+    "identifiers": {
+      "arxiv": "2609.35775"
+    },
+    "first_published_at": "2026-07-31",
+    "record_updated_at": "2026-07-31",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "903b60e1ffb8a7b695f034d8ca1cc827e7d601b506d39a1cbbde404921f364b9",
+      "submitted_at": "2026-07-31T02:08:54Z",
+      "updated_at": "2026-07-31T02:08:54Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.35775v1"
+    }
+  },
+  "note": "First published: 2026-07-31; Recorded arXiv version: v1; Recorded version updated: 2026-07-31T02:08:54Z.",
+  "author": [
+    {
+      "literal": "Zhan Qu"
+    },
+    {
+      "literal": "Hui Zang"
+    },
+    {
+      "literal": "Ran Chen"
+    },
+    {
+      "literal": "Tao Wang"
+    },
+    {
+      "literal": "Shengyu Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.35775",
+  "genre": "preprint",
+  "version": "1"
+}

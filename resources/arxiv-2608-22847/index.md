@@ -16,9 +16,16 @@ Introduces GSAR, which synthesizes GUI tasks and successful goal states, then an
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-22847/record.json
+
 ## Authors
 
 Long Zhang, Yuhan Chen, Chaoran Zhang, Wanxia Cao, Kun Huang, Pengzhi Gao, Wei Liu, Jian Luan, Chenliang Li, Lixin Zou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-22847/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-22847/citation.csl.json
 
 ## Recorded arXiv snapshot
 

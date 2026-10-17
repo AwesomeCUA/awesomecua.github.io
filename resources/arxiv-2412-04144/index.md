@@ -16,9 +16,16 @@ Bibliographic record for If You Can't Use Them, Recycle Them: Optimizing Merging
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-04144/record.json
+
 ## Authors
 
 Muhammad Khalifa, Yi-Chern Tan, Arash Ahmadian, Tom Hosking, Honglak Lee, Lu Wang, Ahmet Üstün, Tom Sherborne, Matthias Gallé
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-04144/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-04144/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,23 @@
+{
+  "status": "excluded",
+  "id": "arxiv:1806.09138",
+  "reason": "The abstract derives a resource-efficient protocol for verifying quantum graph states using Serfling's bound, including qudit and continuous-variable extensions. This quantum-state certification method is outside the GUI/computer-use agent scope.",
+  "decision": {
+    "id": "arxiv:1806.09138",
+    "name": "Resource-efficient verification of quantum computing using Serfling's bound",
+    "url": "https://arxiv.org/abs/1806.09138",
+    "decision": "out_of_scope",
+    "basis": "primary_abstract_review",
+    "reason": "The abstract derives a resource-efficient protocol for verifying quantum graph states using Serfling's bound, including qudit and continuous-variable extensions. This quantum-state certification method is outside the GUI/computer-use agent scope.",
+    "reviewed_at": "2026-10-17T02:12:19Z",
+    "metadata_fingerprint": "f0d3ae40ac2b1a175ea8a82471f2a9f581d83f05856b0bc54fab9dbbc8f1ce74",
+    "evidence": {
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=1000&max_results=100&sortBy=submittedDate&sortOrder=descending",
+      "sha256": "bb3d2692c294743a8d06d5065cc84b27b229a981c2c650ff20a2ec038797a0e3",
+      "retrieved_at": "2026-10-16T06:37:05Z"
+    },
+    "status": "excluded",
+    "status_reason": "Reviewed snapshot matches retained metadata."
+  },
+  "ledger_url": "https://awesomecua.github.io/downloads/exclusions.json"
+}

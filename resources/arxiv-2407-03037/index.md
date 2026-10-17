@@ -16,9 +16,16 @@ Trident combines exploration, monitoring, and detection agents to identify funct
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-03037/record.json
+
 ## Authors
 
 Zhe Liu, Cheng Li, Chunyang Chen, Junjie Wang, Mengzhuo Chen, Boyu Wu, Yawen Wang, Jun Hu, Qing Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-03037/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-03037/citation.csl.json
 
 ## Recorded arXiv snapshot
 

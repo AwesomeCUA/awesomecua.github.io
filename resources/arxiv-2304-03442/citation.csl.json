@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2304.03442",
+  "citation-key": "arxiv_2304_03442",
+  "type": "article",
+  "title": "Generative Agents: Interactive Simulacra of Human Behavior",
+  "URL": "https://arxiv.org/abs/2304.03442v2",
+  "custom": {
+    "catalog_id": "arxiv:2304.03442",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2304.03442",
+    "identifiers": {
+      "arxiv": "2304.03442"
+    },
+    "first_published_at": "2023-04-07",
+    "record_updated_at": "2023-08-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b9205ed79d058490ec68d28a5c70fff7f8ca61e4e3d6d01a39349e917c9d973c",
+      "submitted_at": "2023-04-07T01:55:19Z",
+      "updated_at": "2023-08-06T00:21:19Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2304.03442v2"
+    }
+  },
+  "note": "First published: 2023-04-07; Recorded arXiv version: v2; Recorded version updated: 2023-08-06T00:21:19Z.",
+  "author": [
+    {
+      "literal": "Joon Sung Park"
+    },
+    {
+      "literal": "Joseph C. O'Brien"
+    },
+    {
+      "literal": "Carrie J. Cai"
+    },
+    {
+      "literal": "Meredith Ringel Morris"
+    },
+    {
+      "literal": "Percy Liang"
+    },
+    {
+      "literal": "Michael S. Bernstein"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        4,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2304.03442",
+  "genre": "preprint",
+  "version": "2"
+}

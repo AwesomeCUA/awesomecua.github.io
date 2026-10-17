@@ -16,6 +16,8 @@ An Android accessibility service that exposes UI-element inspection, device-cont
 
 The official API resolves the former Droidrun Portal path to mobilerun-portal. Release metadata lists a v0.7.25 Android APK. Although GitHub labels its license NOASSERTION, the inspected LICENSE explicitly grants AGPL version 3 or later for the program. Accessibility-dependent UI functions require the service; no permissions were granted or device operated.
 
+- Record JSON: https://awesomecua.github.io/resources/github-droidrun-mobilerun-portal/record.json
+
 ## License declarations
 
 - code: AGPL-3.0-or-later — https://raw.githubusercontent.com/droidrun/mobilerun-portal/HEAD/LICENSE

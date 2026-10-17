@@ -16,9 +16,16 @@ Bibliographic record for LLM as OS, Agents as Apps: Envisioning AIOS, Agents and
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2312-03815/record.json
+
 ## Authors
 
 Yingqiang Ge, Yujie Ren, Wenyue Hua, Shuyuan Xu, Juntao Tan, Yongfeng Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2312-03815/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2312-03815/citation.csl.json
 
 ## Recorded arXiv snapshot
 

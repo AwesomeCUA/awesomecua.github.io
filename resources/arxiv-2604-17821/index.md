@@ -16,9 +16,16 @@ Bibliographic record for WebUncertainty: Dual-Level Uncertainty Driven Planning 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-17821/record.json
+
 ## Authors
 
 Lingfeng Zhang, Yongan Sun, Jinpeng Hu, Hui Ma, Yang Ying, Kuien Liu, Zenglin Shi, Meng Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-17821/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-17821/citation.csl.json
 
 ## Recorded arXiv snapshot
 

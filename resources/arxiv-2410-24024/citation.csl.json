@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2410.24024",
+  "citation-key": "arxiv_2410_24024",
+  "type": "article",
+  "title": "AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents",
+  "URL": "https://arxiv.org/abs/2410.24024v2",
+  "custom": {
+    "catalog_id": "arxiv:2410.24024",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.24024",
+    "identifiers": {
+      "arxiv": "2410.24024"
+    },
+    "first_published_at": "2024-10-31",
+    "record_updated_at": "2024-11-04",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d29fe5262adf8677bbd5fead628c5fc28707af263aa7e800d1dee1f7e499784c",
+      "submitted_at": "2024-10-31T15:25:20Z",
+      "updated_at": "2024-11-04T05:57:31Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2410.24024v2"
+    }
+  },
+  "note": "First published: 2024-10-31; Recorded arXiv version: v2; Recorded version updated: 2024-11-04T05:57:31Z.",
+  "author": [
+    {
+      "literal": "Yifan Xu"
+    },
+    {
+      "literal": "Xiao Liu"
+    },
+    {
+      "literal": "Xueqiao Sun"
+    },
+    {
+      "literal": "Siyi Cheng"
+    },
+    {
+      "literal": "Hao Yu"
+    },
+    {
+      "literal": "Hanyu Lai"
+    },
+    {
+      "literal": "Shudan Zhang"
+    },
+    {
+      "literal": "Dan Zhang"
+    },
+    {
+      "literal": "Jie Tang"
+    },
+    {
+      "literal": "Yuxiao Dong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.24024",
+  "genre": "preprint",
+  "version": "2"
+}

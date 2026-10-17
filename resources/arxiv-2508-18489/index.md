@@ -16,9 +16,16 @@ Bibliographic record for Experiences with Model Context Protocol Servers for Sci
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-18489/record.json
+
 ## Authors
 
 Haochen Pan, Ryan Chard, Reid Mello, Christopher Grams, Tanjin He, Alexander Brace, Owen Price Skelly, Will Engler, Hayden Holbrook, Song Young Oh, Maxime Gonthier, Michael Papka, Ben Blaiszik, Kyle Chard, Ian Foster
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-18489/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-18489/citation.csl.json
 
 ## Recorded arXiv snapshot
 

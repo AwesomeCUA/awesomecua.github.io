@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2110.04865",
+  "citation-key": "arxiv_2110_04865",
+  "type": "article",
+  "title": "Parallel Minimum Spanning Forest Computation using Sparse Matrix Kernels",
+  "URL": "https://arxiv.org/abs/2110.04865v2",
+  "custom": {
+    "catalog_id": "arxiv:2110.04865",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2110.04865",
+    "identifiers": {
+      "arxiv": "2110.04865"
+    },
+    "first_published_at": "2021-10-10",
+    "record_updated_at": "2021-12-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6877f400826214748e3af90436ff001f3969db6ee15746de11e8f8b49efb8f5c",
+      "submitted_at": "2021-10-10T17:46:27Z",
+      "updated_at": "2021-12-15T03:36:50Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2110.04865v2"
+    }
+  },
+  "note": "First published: 2021-10-10; Recorded arXiv version: v2; Recorded version updated: 2021-12-15T03:36:50Z.",
+  "author": [
+    {
+      "literal": "Tim Baer"
+    },
+    {
+      "literal": "Raghavendra Kanakagiri"
+    },
+    {
+      "literal": "Edgar Solomonik"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        10,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2110.04865",
+  "genre": "preprint",
+  "version": "2"
+}

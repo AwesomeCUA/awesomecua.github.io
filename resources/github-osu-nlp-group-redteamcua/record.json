@@ -1,0 +1,108 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "web",
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:44:04Z",
+      "role": "primary",
+      "sha256": "782dea8635b417bc89d21489cacea215ee6878ba5a1d4b9e18ca7b2913545ab6",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/OSU-NLP-Group/RedTeamCUA/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:44:04Z",
+      "role": "primary",
+      "sha256": "10a9bb268e611da40ae6edba6777917abb6e97d43dcb480e772ae8169b687e10",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/OSU-NLP-Group/RedTeamCUA"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:44:04Z",
+      "role": "primary",
+      "sha256": "712f1b7bc13b593cf23ecfab72cec33d1c256afe23a383e49d7d5b2996a0f55c",
+      "supports": [
+        "release_status"
+      ],
+      "url": "https://api.github.com/repos/OSU-NLP-Group/RedTeamCUA/git/trees/main?recursive=1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:45:20Z",
+      "role": "primary",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/OSU-NLP-Group/RedTeamCUA/HEAD/LICENSE"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-17T02:45:20Z",
+      "role": "primary",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/OSU-NLP-Group/RedTeamCUA/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:osu-nlp-group/redteamcua",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-17T02:44:04Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-17T02:45:20Z",
+      "url": "https://raw.githubusercontent.com/OSU-NLP-Group/RedTeamCUA/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/OSU-NLP-Group/RedTeamCUA"
+    }
+  ],
+  "name": "RedTeamCUA",
+  "notes": "The release includes environment code, adversarial scenario configuration and RTC-Bench task-generation assets. The project declares Apache-2.0, while incorporated environments retain their licenses. It distinguishes full task runs from tests initialized at injection locations; those settings must not be treated as interchangeable results.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/OSU-NLP-Group/RedTeamCUA/HEAD/README.md",
+      "target_id": "arxiv:2505.21936",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A controlled testing framework that combines desktop virtual machines and replicated websites to evaluate computer-use agents against indirect prompt injection.",
+  "topics": [
+    "safety-security",
+    "evaluation",
+    "sandbox"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/OSU-NLP-Group/RedTeamCUA"
+}

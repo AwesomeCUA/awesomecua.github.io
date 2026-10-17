@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2005.02265",
+  "citation-key": "arxiv_2005_02265",
+  "type": "article",
+  "title": "Predicting atmospheric optical properties for radiative transfer computations using neural networks",
+  "URL": "https://arxiv.org/abs/2005.02265v3",
+  "custom": {
+    "catalog_id": "arxiv:2005.02265",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2005.02265",
+    "identifiers": {
+      "arxiv": "2005.02265"
+    },
+    "first_published_at": "2020-05-05",
+    "record_updated_at": "2020-08-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "57e29ef0da84b40450999995e17459c4b73cf0b1f9262650753aa5c524913f11",
+      "submitted_at": "2020-05-05T15:00:58Z",
+      "updated_at": "2020-08-16T08:59:30Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2005.02265v3"
+    }
+  },
+  "note": "First published: 2020-05-05; Recorded arXiv version: v3; Recorded version updated: 2020-08-16T08:59:30Z.",
+  "author": [
+    {
+      "literal": "Menno A. Veerman"
+    },
+    {
+      "literal": "Robert Pincus"
+    },
+    {
+      "literal": "Robin Stoffer"
+    },
+    {
+      "literal": "Caspar van Leeuwen"
+    },
+    {
+      "literal": "Damian Podareanu"
+    },
+    {
+      "literal": "Chiel C. van Heerwaarden"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        5,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2005.02265",
+  "genre": "preprint",
+  "version": "3"
+}

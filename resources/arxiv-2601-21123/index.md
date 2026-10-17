@@ -16,9 +16,16 @@ Bibliographic record for CUA-Skill: Develop Skills for Computer Using Agent. Tit
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-21123/record.json
+
 ## Authors
 
 Tianyi Chen, Yinheng Li, Michael Solodko, Sen Wang, Nan Jiang, Tingyuan Cui, Junheng Hao, Jongwoo Ko, Sara Abdali, Leon Xu, Suzhen Zheng, Hao Fan, Pashmina Cameron, Justin Wagle, Kazuhito Koishida
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-21123/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-21123/citation.csl.json
 
 ## Recorded arXiv snapshot
 

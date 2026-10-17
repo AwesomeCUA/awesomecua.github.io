@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2508.07871",
+  "citation-key": "arxiv_2508_07871",
+  "type": "article",
+  "title": "CATP: Contextually Adaptive Token Pruning for Efficient and Enhanced Multimodal In-Context Learning",
+  "URL": "https://arxiv.org/abs/2508.07871v2",
+  "custom": {
+    "catalog_id": "arxiv:2508.07871",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.07871",
+    "identifiers": {
+      "arxiv": "2508.07871"
+    },
+    "first_published_at": "2025-08-11",
+    "record_updated_at": "2025-12-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7c7d30174ec1665009b475090d81b17efdfffe8693c9f4f67b400a518abf92be",
+      "submitted_at": "2025-08-11T11:41:51Z",
+      "updated_at": "2025-12-09T06:05:33Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2508.07871v2"
+    }
+  },
+  "note": "First published: 2025-08-11; Recorded arXiv version: v2; Recorded version updated: 2025-12-09T06:05:33Z.",
+  "author": [
+    {
+      "literal": "Yanshu Li"
+    },
+    {
+      "literal": "Jianjiang Yang"
+    },
+    {
+      "literal": "Zhennan Shen"
+    },
+    {
+      "literal": "Ligong Han"
+    },
+    {
+      "literal": "Haoyan Xu"
+    },
+    {
+      "literal": "Ruixiang Tang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.07871",
+  "genre": "preprint",
+  "version": "2"
+}

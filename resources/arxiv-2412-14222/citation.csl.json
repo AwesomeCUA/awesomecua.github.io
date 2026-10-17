@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2412.14222",
+  "citation-key": "arxiv_2412_14222",
+  "type": "article",
+  "title": "A Survey on Large Language Model-based Agents for Statistics and Data Science",
+  "URL": "https://arxiv.org/abs/2412.14222v2",
+  "custom": {
+    "catalog_id": "arxiv:2412.14222",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2412.14222",
+    "identifiers": {
+      "arxiv": "2412.14222"
+    },
+    "first_published_at": "2024-12-18",
+    "record_updated_at": "2025-09-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2c447cc61f61c098a817fa917ba10fd22864e971bd59b7bf0431f89885e34001",
+      "submitted_at": "2024-12-18T15:03:26Z",
+      "updated_at": "2025-09-14T04:25:33Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2412.14222v2"
+    }
+  },
+  "note": "First published: 2024-12-18; Recorded arXiv version: v2; Recorded version updated: 2025-09-14T04:25:33Z.",
+  "author": [
+    {
+      "literal": "Maojun Sun"
+    },
+    {
+      "literal": "Ruijian Han"
+    },
+    {
+      "literal": "Binyan Jiang"
+    },
+    {
+      "literal": "Houduo Qi"
+    },
+    {
+      "literal": "Defeng Sun"
+    },
+    {
+      "literal": "Yancheng Yuan"
+    },
+    {
+      "literal": "Jian Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.14222",
+  "genre": "preprint",
+  "version": "2"
+}

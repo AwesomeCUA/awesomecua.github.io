@@ -1,0 +1,60 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "metrics": [],
+    "task_count": null
+  },
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:40:51Z",
+      "role": "primary",
+      "sha256": "51df9dbcf52f46e4774207f2e6ad84dc8a6d117cdab6f77a38e9897ded1d0963",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://github.com/ant-research/GUIHalluBench"
+    }
+  ],
+  "id": "github:ant-research/guihallubench",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-16T06:40:51Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/ant-research/GUIHalluBench"
+    }
+  ],
+  "name": "GUIHalluBench",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Benchmark investigating hallucinations in GUI agents.",
+  "topics": [
+    "evaluation",
+    "robustness"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/ant-research/GUIHalluBench"
+}

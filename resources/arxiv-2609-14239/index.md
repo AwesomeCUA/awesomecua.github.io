@@ -16,9 +16,16 @@ Bibliographic record for CoArena: Evaluating Computer-Use and Multi-Agent System
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-14239/record.json
+
 ## Authors
 
 Nitish Kovuru, Prateek Jannu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-14239/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-14239/citation.csl.json
 
 ## Recorded arXiv snapshot
 

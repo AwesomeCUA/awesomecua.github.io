@@ -16,9 +16,16 @@ Bibliographic record for EchoLeak: The First Real-World Zero-Click Prompt Inject
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-10540/record.json
+
 ## Authors
 
 Pavan Reddy, Aditya Sanjay Gujral
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-10540/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-10540/citation.csl.json
 
 ## Recorded arXiv snapshot
 

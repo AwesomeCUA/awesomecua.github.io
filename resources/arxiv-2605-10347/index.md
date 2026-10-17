@@ -16,9 +16,16 @@ Bibliographic record for How Mobile World Model Guides GUI Agents?. Title, autho
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-10347/record.json
+
 ## Authors
 
 Weikai Xu, Kun Huang, Yunren Feng, Jiaxing Li, Yuhan Chen, Yuxuan Liu, Zhizheng Jiang, Heng Qu, Pengzhi Gao, Wei Liu, Jian Luan, Xiaolin Hu, Bo An
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-10347/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-10347/citation.csl.json
 
 ## Recorded arXiv snapshot
 

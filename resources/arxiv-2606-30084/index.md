@@ -16,9 +16,16 @@ Bibliographic record for One Forward Beats Two: InnerZoom for Accurate and Effic
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-30084/record.json
+
 ## Authors
 
 Chen Liu, Ling Chen, Hanzhang Zhou, Liangyu Chen, Chenglin Cai, Xin Yu, Steven Hoi, Yue Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-30084/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-30084/citation.csl.json
 
 ## Recorded arXiv snapshot
 

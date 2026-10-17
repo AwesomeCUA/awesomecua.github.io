@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2511.12254",
+  "citation-key": "arxiv_2511_12254",
+  "type": "article",
+  "title": "Mobile-Agent-RAG: Driving Smart Multi-Agent Coordination with Contextual Knowledge Empowerment for Long-Horizon Mobile Automation",
+  "URL": "https://arxiv.org/abs/2511.12254v3",
+  "custom": {
+    "catalog_id": "arxiv:2511.12254",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2511.12254",
+    "identifiers": {
+      "arxiv": "2511.12254"
+    },
+    "first_published_at": "2025-11-15",
+    "record_updated_at": "2026-03-12",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ede08df1c10d8eeede43af75d26608b4917dd83becde23f28cd3adf335f79736",
+      "submitted_at": "2025-11-15T15:22:42Z",
+      "updated_at": "2026-03-12T08:45:07Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2511.12254v3"
+    }
+  },
+  "note": "First published: 2025-11-15; Recorded arXiv version: v3; Recorded version updated: 2026-03-12T08:45:07Z.",
+  "author": [
+    {
+      "literal": "Yuxiang Zhou"
+    },
+    {
+      "literal": "Jichang Li"
+    },
+    {
+      "literal": "Yanhao Zhang"
+    },
+    {
+      "literal": "Haonan Lu"
+    },
+    {
+      "literal": "Guanbin Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.12254",
+  "genre": "preprint",
+  "version": "3"
+}

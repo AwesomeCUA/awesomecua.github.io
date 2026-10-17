@@ -16,9 +16,16 @@ Presents an Android environment for training and evaluating reinforcement-learni
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2105-13231/record.json
+
 ## Authors
 
 Daniel Toyama, Philippe Hamel, Anita Gergely, Gheorghe Comanici, Amelia Glaese, Zafarali Ahmed, Tyler Jackson, Shibl Mourad, Doina Precup
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2105-13231/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2105-13231/citation.csl.json
 
 ## Recorded arXiv snapshot
 

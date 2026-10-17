@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2504.00906",
+  "citation-key": "arxiv_2504_00906",
+  "type": "article",
+  "title": "Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents",
+  "URL": "https://arxiv.org/abs/2504.00906v1",
+  "custom": {
+    "catalog_id": "arxiv:2504.00906",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2504.00906",
+    "identifiers": {
+      "arxiv": "2504.00906"
+    },
+    "first_published_at": "2025-04-01",
+    "record_updated_at": "2025-04-01",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "11958f69503db514a91af8721870a4cbc1fa19dabf94e3f4ce4118d2fad9862a",
+      "submitted_at": "2025-04-01T15:40:27Z",
+      "updated_at": "2025-04-01T15:40:27Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2504.00906v1"
+    }
+  },
+  "note": "First published: 2025-04-01; Recorded arXiv version: v1; Recorded version updated: 2025-04-01T15:40:27Z.",
+  "author": [
+    {
+      "literal": "Saaket Agashe"
+    },
+    {
+      "literal": "Kyle Wong"
+    },
+    {
+      "literal": "Vincent Tu"
+    },
+    {
+      "literal": "Jiachen Yang"
+    },
+    {
+      "literal": "Ang Li"
+    },
+    {
+      "literal": "Xin Eric Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.00906",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Bibliographic record for ScreenParse: Moving Beyond Sparse Grounding with Comple
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-14276/record.json
+
 ## Authors
 
 A. Said Gurbuz, Sunghwan Hong, Ahmed Nassar, Marc Pollefeys, Peter Staar
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-14276/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-14276/citation.csl.json
 
 ## Recorded arXiv snapshot
 

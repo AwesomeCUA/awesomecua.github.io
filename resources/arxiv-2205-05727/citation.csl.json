@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2205.05727",
+  "citation-key": "arxiv_2205_05727",
+  "type": "article",
+  "title": "3-Qubit Circular Quantum Convolution Computation using Fourier Transform with Illustrative Examples",
+  "URL": "https://arxiv.org/abs/2205.05727v1",
+  "custom": {
+    "catalog_id": "arxiv:2205.05727",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2205.05727",
+    "identifiers": {
+      "arxiv": "2205.05727"
+    },
+    "first_published_at": "2022-05-11",
+    "record_updated_at": "2022-05-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0220612dcd8ce2433e561ec455e61398dd9cf28572a8a791f247ebb2d6e7aba5",
+      "submitted_at": "2022-05-11T18:53:43Z",
+      "updated_at": "2022-05-11T18:53:43Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2205.05727v1"
+    }
+  },
+  "note": "First published: 2022-05-11; Recorded arXiv version: v1; Recorded version updated: 2022-05-11T18:53:43Z.",
+  "author": [
+    {
+      "literal": "Artyom M. Grigoryan"
+    },
+    {
+      "literal": "Sos S. Agaian"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        5,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2205.05727",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:1507.06222",
+  "citation-key": "arxiv_1507_06222",
+  "type": "article",
+  "title": "STICK: Spike Time Interval Computational Kernel, A Framework for General Purpose Computation using Neurons, Precise Timing, Delays, and Synchrony",
+  "URL": "https://arxiv.org/abs/1507.06222v1",
+  "custom": {
+    "catalog_id": "arxiv:1507.06222",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1507.06222",
+    "identifiers": {
+      "arxiv": "1507.06222"
+    },
+    "first_published_at": "2015-07-22",
+    "record_updated_at": "2015-07-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bf3e3a817b7a19c62960e0be0bc12e08d49577871cb53bd223922760786c4a96",
+      "submitted_at": "2015-07-22T15:09:07Z",
+      "updated_at": "2015-07-22T15:09:07Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1507.06222v1"
+    }
+  },
+  "note": "First published: 2015-07-22; Recorded arXiv version: v1; Recorded version updated: 2015-07-22T15:09:07Z.",
+  "author": [
+    {
+      "literal": "Xavier Lagorce"
+    },
+    {
+      "literal": "Ryad Benosman"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2015,
+        7,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1507.06222",
+  "genre": "preprint",
+  "version": "1"
+}

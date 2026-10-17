@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2410.07331",
+  "citation-key": "arxiv_2410_07331",
+  "type": "article",
+  "title": "DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models",
+  "URL": "https://arxiv.org/abs/2410.07331v2",
+  "custom": {
+    "catalog_id": "arxiv:2410.07331",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2410.07331",
+    "identifiers": {
+      "arxiv": "2410.07331"
+    },
+    "first_published_at": "2024-10-09",
+    "record_updated_at": "2024-10-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "83991dcc79a5efd3b401e66d81f5b7c385294ab108431e329e4d980ec5bd77e5",
+      "submitted_at": "2024-10-09T18:00:05Z",
+      "updated_at": "2024-10-11T00:53:05Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2410.07331v2"
+    }
+  },
+  "note": "First published: 2024-10-09; Recorded arXiv version: v2; Recorded version updated: 2024-10-11T00:53:05Z.",
+  "author": [
+    {
+      "literal": "Yiming Huang"
+    },
+    {
+      "literal": "Jianwen Luo"
+    },
+    {
+      "literal": "Yan Yu"
+    },
+    {
+      "literal": "Yitong Zhang"
+    },
+    {
+      "literal": "Fangyu Lei"
+    },
+    {
+      "literal": "Yifan Wei"
+    },
+    {
+      "literal": "Shizhu He"
+    },
+    {
+      "literal": "Lifu Huang"
+    },
+    {
+      "literal": "Xiao Liu"
+    },
+    {
+      "literal": "Jun Zhao"
+    },
+    {
+      "literal": "Kang Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.07331",
+  "genre": "preprint",
+  "version": "2"
+}

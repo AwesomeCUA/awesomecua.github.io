@@ -1,0 +1,93 @@
+{
+  "aliases": [],
+  "authors": [
+    "Dongchan Shin",
+    "Xing Han Lù",
+    "Jiaqi Deng",
+    "Jay Gala",
+    "Tomás Vergara Browne",
+    "Jaewon Moon",
+    "Fengyuan Liu",
+    "Alexandre Drouin",
+    "Siva Reddy",
+    "Alexandre Lacoste"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2fe39365133228daa770445f19002f6abe34ca1151cf4952a225ba0001de5250",
+      "submitted_at": "2026-09-29T01:46:48Z",
+      "updated_at": "2026-09-29T01:46:48Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.36488v1"
+    }
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:29Z",
+      "role": "primary",
+      "sha256": "74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:29Z",
+      "role": "primary",
+      "sha256": "74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2609.36488",
+  "identifiers": {
+    "arxiv": "2609.36488"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:29Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2609.36488"
+    }
+  ],
+  "name": "AdaptArena: Evaluating Test-Time Personalization of Web Agents",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2026-09-29",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Introduces AdaptArena to test whether web agents can infer unstated user preferences from relevant past trajectories and carry those preferences into new tasks. Its AdaptiveAgent baseline separates preference-retrieval challenges from failures in downstream web execution.",
+  "topics": [
+    "evaluation",
+    "memory",
+    "web-navigation"
+  ],
+  "updated_at": "2026-09-29",
+  "url": "https://arxiv.org/abs/2609.36488"
+}

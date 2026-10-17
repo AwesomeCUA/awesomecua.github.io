@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2112.04034",
+  "citation-key": "arxiv_2112_04034",
+  "type": "article",
+  "title": "Feasibility study of quantum computing using trapped electrons",
+  "URL": "https://arxiv.org/abs/2112.04034v1",
+  "custom": {
+    "catalog_id": "arxiv:2112.04034",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2112.04034",
+    "identifiers": {
+      "arxiv": "2112.04034"
+    },
+    "first_published_at": "2021-12-07",
+    "record_updated_at": "2021-12-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "706d921629bedf0a1349c61933e754b24bb984acb8103f6d9d97e015bb73ad2b",
+      "submitted_at": "2021-12-07T23:10:19Z",
+      "updated_at": "2021-12-07T23:10:19Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2112.04034v1"
+    }
+  },
+  "note": "First published: 2021-12-07; Recorded arXiv version: v1; Recorded version updated: 2021-12-07T23:10:19Z.",
+  "author": [
+    {
+      "literal": "Qian Yu"
+    },
+    {
+      "literal": "Alberto M. Alonso"
+    },
+    {
+      "literal": "Jackie Caminiti"
+    },
+    {
+      "literal": "Kristin M. Beck"
+    },
+    {
+      "literal": "R. Tyler Sutherland"
+    },
+    {
+      "literal": "Dietrich Leibfried"
+    },
+    {
+      "literal": "Kayla J. Rodriguez"
+    },
+    {
+      "literal": "Madhav Dhital"
+    },
+    {
+      "literal": "Boerge Hemmerling"
+    },
+    {
+      "literal": "Hartmut Häffner"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        12,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2112.04034",
+  "genre": "preprint",
+  "version": "1"
+}

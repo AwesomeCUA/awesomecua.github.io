@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:1607.01477",
+  "citation-key": "arxiv_1607_01477",
+  "type": "article",
+  "title": "Accelerating eigenvector and pseudospectra computation using blocked multi-shift triangular solves",
+  "URL": "https://arxiv.org/abs/1607.01477v2",
+  "custom": {
+    "catalog_id": "arxiv:1607.01477",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1607.01477",
+    "identifiers": {
+      "arxiv": "1607.01477"
+    },
+    "first_published_at": "2016-07-06",
+    "record_updated_at": "2016-07-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "04ac1fad1f009911c7976c837b8e87fe2a23aa59a00a99f3706dfb8eb7b1ebe1",
+      "submitted_at": "2016-07-06T04:19:04Z",
+      "updated_at": "2016-07-30T16:52:39Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/1607.01477v2"
+    }
+  },
+  "note": "First published: 2016-07-06; Recorded arXiv version: v2; Recorded version updated: 2016-07-30T16:52:39Z.",
+  "author": [
+    {
+      "literal": "Tim Moon"
+    },
+    {
+      "literal": "Jack Poulson"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2016,
+        7,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1607.01477",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,6 +16,8 @@ Web-interface grounding examples with instructions, element boxes and points, pa
 
 Public Parquet annotations, metadata JSON and images.tar.gz are present. The card refers to image.tar.gz in its extraction command, while the actual archive is plural. No data-license declaration is present; the ShowUI code or model licenses are not inherited.
 
+- Record JSON: https://awesomecua.github.io/resources/url-8933977bb0a57940ed23/record.json
+
 ## Structured profile
 
 - formats: Parquet, JSON, TAR.GZ

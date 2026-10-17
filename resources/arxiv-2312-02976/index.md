@@ -16,9 +16,16 @@ Bibliographic record for SPOC: Imitating Shortest Paths in Simulation Enables Ef
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2312-02976/record.json
+
 ## Authors
 
 Kiana Ehsani, Tanmay Gupta, Rose Hendrix, Jordi Salvador, Luca Weihs, Kuo-Hao Zeng, Kunal Pratap Singh, Yejin Kim, Winson Han, Alvaro Herrasti, Ranjay Krishna, Dustin Schwenk, Eli VanderBilt, Aniruddha Kembhavi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2312-02976/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2312-02976/citation.csl.json
 
 ## Recorded arXiv snapshot
 

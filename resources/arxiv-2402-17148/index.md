@@ -16,9 +16,16 @@ Bibliographic record for Time series generation for option pricing on quantum co
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-17148/record.json
+
 ## Authors
 
 Nozomu Kobayashi, Yoshiyuki Suimon, Koichi Miyamoto
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-17148/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-17148/citation.csl.json
 
 ## Recorded arXiv snapshot
 

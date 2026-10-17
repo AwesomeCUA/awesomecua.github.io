@@ -16,9 +16,16 @@ Bibliographic record for SlimSearcher: Training Efficiency-Aware Web Agents via 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-07074/record.json
+
 ## Authors
 
 Zequn Xie, Junjie Wang, Dan Yang, Jie Feng, Yue Shen, Jian Wang, Jinjie Gu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-07074/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-07074/citation.csl.json
 
 ## Recorded arXiv snapshot
 

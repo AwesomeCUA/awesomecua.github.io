@@ -16,9 +16,16 @@ Bibliographic record for General Computation using Slidable Tiles with Determini
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-06574/record.json
+
 ## Authors
 
 Alberto Avila-Jimenez, David Barreda, Sarah-Laurie Evans, Austin Luchsinger, Aiden Massie, Robert Schweller, Evan Tomai, Tim Wylie
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-06574/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-06574/citation.csl.json
 
 ## Recorded arXiv snapshot
 

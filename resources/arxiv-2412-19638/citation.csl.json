@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2412.19638",
+  "citation-key": "arxiv_2412_19638",
+  "type": "article",
+  "title": "Xmodel-2 Technical Report",
+  "URL": "https://arxiv.org/abs/2412.19638v1",
+  "custom": {
+    "catalog_id": "arxiv:2412.19638",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2412.19638",
+    "identifiers": {
+      "arxiv": "2412.19638"
+    },
+    "first_published_at": "2024-12-27",
+    "record_updated_at": "2024-12-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3d56bef2e3502cb315dab4a64b57c0209223c8abd008a621461dd410b3ae425a",
+      "submitted_at": "2024-12-27T13:32:10Z",
+      "updated_at": "2024-12-27T13:32:10Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2412.19638v1"
+    }
+  },
+  "note": "First published: 2024-12-27; Recorded arXiv version: v1; Recorded version updated: 2024-12-27T13:32:10Z.",
+  "author": [
+    {
+      "literal": "Wang Qun"
+    },
+    {
+      "literal": "Liu Yang"
+    },
+    {
+      "literal": "Lin Qingquan"
+    },
+    {
+      "literal": "Qu Zhijiu"
+    },
+    {
+      "literal": "Jiang Ling"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.19638",
+  "genre": "preprint",
+  "version": "1"
+}

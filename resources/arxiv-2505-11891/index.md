@@ -16,9 +16,16 @@ Mobile-Bench-v2 evaluates mobile GUI agents using multiple acceptable offline ac
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-11891/record.json
+
 ## Authors
 
 Weikai Xu, Zhizheng Jiang, Yuxuan Liu, Pengzhi Gao, Wei Liu, Jian Luan, Yuanchun Li, Yunxin Liu, Bin Wang, Bo An
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-11891/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-11891/citation.csl.json
 
 ## Recorded arXiv snapshot
 

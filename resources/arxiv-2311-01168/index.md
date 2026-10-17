@@ -16,9 +16,16 @@ Bibliographic record for Scalable architecture for trapped-ion quantum computing
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-01168/record.json
+
 ## Authors
 
 David Schwerdt, Lee Peleg, Yotam Shapira, Nadav Priel, Yanay Florshaim, Avram Gross, Ayelet Zalic, Gadi Afek, Nitzan Akerman, Ady Stern, Amit Ben Kish, Roee Ozeri
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-01168/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-01168/citation.csl.json
 
 ## Recorded arXiv snapshot
 

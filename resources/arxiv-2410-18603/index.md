@@ -16,9 +16,16 @@ Introduces a platform that integrates specialized agents under a coordinating Me
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-18603/record.json
+
 ## Authors
 
 Chengyou Jia, Minnan Luo, Zhuohang Dang, Qiushi Sun, Fangzhi Xu, Junlin Hu, Tianbao Xie, Zhiyong Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-18603/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-18603/citation.csl.json
 
 ## Recorded arXiv snapshot
 

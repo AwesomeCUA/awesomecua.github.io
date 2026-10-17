@@ -16,9 +16,16 @@ Bibliographic record for Enhancing Mobile "How-to" Queries with Automated Search
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-08860/record.json
+
 ## Authors
 
 Lei Ding, Jeshwanth Bheemanpally, Yi Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-08860/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-08860/citation.csl.json
 
 ## Recorded arXiv snapshot
 

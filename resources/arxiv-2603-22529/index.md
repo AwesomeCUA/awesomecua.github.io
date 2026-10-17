@@ -16,9 +16,16 @@ Ego2Web pairs first-person videos with online tasks that require agents to conne
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-22529/record.json
+
 ## Authors
 
 Shoubin Yu, Lei Shu, Antoine Yang, Yao Fu, Srinivas Sunkara, Maria Wang, Jindong Chen, Mohit Bansal, Boqing Gong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-22529/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-22529/citation.csl.json
 
 ## Recorded arXiv snapshot
 

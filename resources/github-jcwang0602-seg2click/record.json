@@ -1,0 +1,76 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T01:46:05Z",
+      "role": "primary",
+      "sha256": "2316acbef1207925b10b4770e14bdf69f6f4b6b3bc0ddb12e6be107d6f1425da",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/jcwang0602/Seg2Click/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-17T01:52:51Z",
+      "role": "primary",
+      "sha256": "57bcc2eb985fa6036bf2bde7f28c4fd359c6b3479a658fea768162cac2a75ba5",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/jcwang0602/Seg2Click/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:jcwang0602/seg2click",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-17T01:46:05Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-17T01:52:51Z",
+      "url": "https://raw.githubusercontent.com/jcwang0602/Seg2Click/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/jcwang0602/Seg2Click"
+    }
+  ],
+  "name": "Seg2Click",
+  "notes": "The repository provides training, evaluation, and a custom mask decoder. Its code license does not determine the licenses of the five model checkpoints. No model execution was performed.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/jcwang0602/Seg2Click/HEAD/README.md",
+      "target_id": "arxiv:2610.16234",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Training and inference implementation that predicts an executable-region mask and derives a GUI click from that mask.",
+  "topics": [
+    "grounding",
+    "screen-understanding"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/jcwang0602/Seg2Click"
+}

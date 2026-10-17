@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2512.23128",
+  "citation-key": "arxiv_2512_23128",
+  "type": "article",
+  "title": "It's a TRAP! Task-Redirecting Agent Persuasion Benchmark for Web Agents",
+  "URL": "https://arxiv.org/abs/2512.23128v3",
+  "custom": {
+    "catalog_id": "arxiv:2512.23128",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2512.23128",
+    "identifiers": {
+      "arxiv": "2512.23128"
+    },
+    "first_published_at": "2025-12-29",
+    "record_updated_at": "2026-07-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a255cccbe3f16f498918126724c391911e1d745c093189790cbab715fd28a2d2",
+      "submitted_at": "2025-12-29T01:09:10Z",
+      "updated_at": "2026-07-02T16:12:04Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2512.23128v3"
+    }
+  },
+  "note": "First published: 2025-12-29; Recorded arXiv version: v3; Recorded version updated: 2026-07-02T16:12:04Z.",
+  "author": [
+    {
+      "literal": "Karolina Korgul"
+    },
+    {
+      "literal": "Yushi Yang"
+    },
+    {
+      "literal": "Arkadiusz Drohomirecki"
+    },
+    {
+      "literal": "Piotr Błaszczyk"
+    },
+    {
+      "literal": "Will Howard"
+    },
+    {
+      "literal": "Lukas Aichberger"
+    },
+    {
+      "literal": "Chris Russell"
+    },
+    {
+      "literal": "Philip H. S. Torr"
+    },
+    {
+      "literal": "Adam Mahdi"
+    },
+    {
+      "literal": "Adel Bibi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2512.23128",
+  "genre": "preprint",
+  "version": "3"
+}

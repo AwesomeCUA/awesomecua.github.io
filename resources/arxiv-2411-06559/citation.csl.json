@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2411.06559",
+  "citation-key": "arxiv_2411_06559",
+  "type": "article",
+  "title": "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents",
+  "URL": "https://arxiv.org/abs/2411.06559v2",
+  "custom": {
+    "catalog_id": "arxiv:2411.06559",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2411.06559",
+    "identifiers": {
+      "arxiv": "2411.06559"
+    },
+    "first_published_at": "2024-11-10",
+    "record_updated_at": "2025-04-01",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9ecaca6448aae5c8849d008d820d700bfa438ed0248f85be585b0b831408b9b6",
+      "submitted_at": "2024-11-10T18:50:51Z",
+      "updated_at": "2025-04-01T05:04:47Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2411.06559v2"
+    }
+  },
+  "note": "First published: 2024-11-10; Recorded arXiv version: v2; Recorded version updated: 2025-04-01T05:04:47Z.",
+  "author": [
+    {
+      "literal": "Yu Gu"
+    },
+    {
+      "literal": "Kai Zhang"
+    },
+    {
+      "literal": "Yuting Ning"
+    },
+    {
+      "literal": "Boyuan Zheng"
+    },
+    {
+      "literal": "Boyu Gou"
+    },
+    {
+      "literal": "Tianci Xue"
+    },
+    {
+      "literal": "Cheng Chang"
+    },
+    {
+      "literal": "Sanjari Srivastava"
+    },
+    {
+      "literal": "Yanan Xie"
+    },
+    {
+      "literal": "Peng Qi"
+    },
+    {
+      "literal": "Huan Sun"
+    },
+    {
+      "literal": "Yu Su"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2411.06559",
+  "genre": "preprint",
+  "version": "2"
+}

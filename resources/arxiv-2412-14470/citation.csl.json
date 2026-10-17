@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2412.14470",
+  "citation-key": "arxiv_2412_14470",
+  "type": "article",
+  "title": "Agent-SafetyBench: Evaluating the Safety of LLM Agents",
+  "URL": "https://arxiv.org/abs/2412.14470v2",
+  "custom": {
+    "catalog_id": "arxiv:2412.14470",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2412.14470",
+    "identifiers": {
+      "arxiv": "2412.14470"
+    },
+    "first_published_at": "2024-12-19",
+    "record_updated_at": "2025-05-20",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4a4ecbf49d71bdb8ca15b367627e739d3b342a64f90834f9dd5d0d7b65817dc3",
+      "submitted_at": "2024-12-19T02:35:15Z",
+      "updated_at": "2025-05-20T05:58:23Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2412.14470v2"
+    }
+  },
+  "note": "First published: 2024-12-19; Recorded arXiv version: v2; Recorded version updated: 2025-05-20T05:58:23Z.",
+  "author": [
+    {
+      "literal": "Zhexin Zhang"
+    },
+    {
+      "literal": "Shiyao Cui"
+    },
+    {
+      "literal": "Yida Lu"
+    },
+    {
+      "literal": "Jingzhuo Zhou"
+    },
+    {
+      "literal": "Junxiao Yang"
+    },
+    {
+      "literal": "Hongning Wang"
+    },
+    {
+      "literal": "Minlie Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.14470",
+  "genre": "preprint",
+  "version": "2"
+}

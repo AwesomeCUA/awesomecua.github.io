@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2505.23596",
+  "citation-key": "arxiv_2505_23596",
+  "type": "article",
+  "title": "Agent-SAMA: State-Aware Mobile Assistant",
+  "URL": "https://arxiv.org/abs/2505.23596v3",
+  "custom": {
+    "catalog_id": "arxiv:2505.23596",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2505.23596",
+    "identifiers": {
+      "arxiv": "2505.23596"
+    },
+    "first_published_at": "2025-05-29",
+    "record_updated_at": "2025-11-19",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6f0ec81429fb39e56414d3bfe621df6c6adf461e63fc1a1c8886ea2b6850b8ee",
+      "submitted_at": "2025-05-29T16:08:51Z",
+      "updated_at": "2025-11-19T16:48:16Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2505.23596v3"
+    }
+  },
+  "note": "First published: 2025-05-29; Recorded arXiv version: v3; Recorded version updated: 2025-11-19T16:48:16Z.",
+  "author": [
+    {
+      "literal": "Linqiang Guo"
+    },
+    {
+      "literal": "Wei Liu"
+    },
+    {
+      "literal": "Yi Wen Heng"
+    },
+    {
+      "literal": "Tse-Hsun"
+    },
+    {
+      "literal": "Chen"
+    },
+    {
+      "literal": "Yang Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.23596",
+  "genre": "preprint",
+  "version": "3"
+}

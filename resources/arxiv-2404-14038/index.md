@@ -16,9 +16,16 @@ Bibliographic record for Accurate Chemical Reaction Modeling on Noisy Intermedia
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-14038/record.json
+
 ## Authors
 
 Xiongzhi Zeng, Huili Zhang, Shizheng Zhang, Pei Liu, Kehuan Linghu, Jiangyu Cui, Xiaoxia Cai, Jie Liu, Zhenyu Li, Jinlong Yang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-14038/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-14038/citation.csl.json
 
 ## Recorded arXiv snapshot
 

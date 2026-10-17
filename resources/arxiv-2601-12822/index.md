@@ -16,9 +16,16 @@ Bibliographic record for MirrorGuard: Toward Secure Computer-Use Agents via Simu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-12822/record.json
+
 ## Authors
 
 Wenqi Zhang, Yulin Shen, Changyue Jiang, Jiarun Dai, Geng Hong, Xudong Pan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-12822/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-12822/citation.csl.json
 
 ## Recorded arXiv snapshot
 

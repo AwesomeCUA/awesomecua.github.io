@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:2401.04124",
+  "citation-key": "arxiv_2401_04124",
+  "type": "article",
+  "title": "MobileAgent: enhancing mobile control via human-machine interaction and SOP integration",
+  "URL": "https://arxiv.org/abs/2401.04124v3",
+  "custom": {
+    "catalog_id": "arxiv:2401.04124",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2401.04124",
+    "identifiers": {
+      "arxiv": "2401.04124"
+    },
+    "first_published_at": "2024-01-04",
+    "record_updated_at": "2024-01-17",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9b8aaa2bccafd7f41802e5b7c25bc98f78307f77aeb36b7c75c57ef0f8e583a1",
+      "submitted_at": "2024-01-04T03:44:42Z",
+      "updated_at": "2024-01-17T06:35:45Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2401.04124v3"
+    }
+  },
+  "note": "First published: 2024-01-04; Recorded arXiv version: v3; Recorded version updated: 2024-01-17T06:35:45Z.",
+  "author": [
+    {
+      "literal": "Tinghe Ding"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2401.04124",
+  "genre": "preprint",
+  "version": "3"
+}

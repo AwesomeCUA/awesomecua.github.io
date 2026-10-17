@@ -16,9 +16,16 @@ Bibliographic record for Step-level Optimization for Efficient Computer-use Agen
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-27151/record.json
+
 ## Authors
 
 Jinbiao Wei, Kangqi Ni, Yilun Zhao, Guo Gan, Arman Cohan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-27151/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-27151/citation.csl.json
 
 ## Recorded arXiv snapshot
 

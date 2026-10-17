@@ -1,0 +1,91 @@
+{
+  "id": "arxiv:2509.26539",
+  "citation-key": "arxiv_2509_26539",
+  "type": "article",
+  "title": "Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents",
+  "URL": "https://arxiv.org/abs/2509.26539v1",
+  "custom": {
+    "catalog_id": "arxiv:2509.26539",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2509.26539",
+    "identifiers": {
+      "arxiv": "2509.26539"
+    },
+    "first_published_at": "2025-09-30",
+    "record_updated_at": "2025-09-30",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "daa35e6bcd86fbdb709652d3592776ed93aebe2a0ebb3595fed91478dc0e3e0a",
+      "submitted_at": "2025-09-30T17:13:56Z",
+      "updated_at": "2025-09-30T17:13:56Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2509.26539v1"
+    }
+  },
+  "note": "First published: 2025-09-30; Recorded arXiv version: v1; Recorded version updated: 2025-09-30T17:13:56Z.",
+  "author": [
+    {
+      "literal": "Zhen Yang"
+    },
+    {
+      "literal": "Zi-Yi Dou"
+    },
+    {
+      "literal": "Di Feng"
+    },
+    {
+      "literal": "Forrest Huang"
+    },
+    {
+      "literal": "Anh Nguyen"
+    },
+    {
+      "literal": "Keen You"
+    },
+    {
+      "literal": "Omar Attia"
+    },
+    {
+      "literal": "Yuhao Yang"
+    },
+    {
+      "literal": "Michael Feng"
+    },
+    {
+      "literal": "Haotian Zhang"
+    },
+    {
+      "literal": "Ram Ramrakhya"
+    },
+    {
+      "literal": "Chao Jia"
+    },
+    {
+      "literal": "Jeffrey Nichols"
+    },
+    {
+      "literal": "Alexander Toshev"
+    },
+    {
+      "literal": "Yinfei Yang"
+    },
+    {
+      "literal": "Zhe Gan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.26539",
+  "genre": "preprint",
+  "version": "1"
+}

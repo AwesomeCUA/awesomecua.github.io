@@ -1,0 +1,109 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "artifact_inspection": "Public file-manifest inspection only; weights were not downloaded.",
+    "base_model": "Qwen/Qwen3-VL-8B-Instruct",
+    "gated": false,
+    "hub_revision": "9db378189fddaabb5f6e347b9053858a392022ac",
+    "listed_weight_files": [
+      "model.safetensors"
+    ]
+  },
+  "environments": [
+    "desktop",
+    "web",
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T01:48:10Z",
+      "role": "primary",
+      "sha256": "73a4690fab49d3b08ea9b0b1e44d62d5ec1802614f5cf22c37ed92dca49aa520",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/PrentisAI/GroundGUI-8B/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T01:49:48Z",
+      "role": "primary",
+      "sha256": "8b680b9a63e654fe0b43754201d30c91714859578f294f4781e035280e862657",
+      "supports": [
+        "details.gated",
+        "details.hub_revision",
+        "details.listed_weight_files"
+      ],
+      "url": "https://huggingface.co/api/models/PrentisAI/GroundGUI-8B"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T01:48:10Z",
+      "role": "primary",
+      "sha256": "73a4690fab49d3b08ea9b0b1e44d62d5ec1802614f5cf22c37ed92dca49aa520",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/PrentisAI/GroundGUI-8B/raw/main/README.md"
+    }
+  ],
+  "id": "url:de31b07ff24ab15d9bdf",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T01:48:10Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "apache-2.0",
+      "retrieved_at": "2026-10-17T01:48:10Z",
+      "url": "https://huggingface.co/PrentisAI/GroundGUI-8B/raw/main/README.md"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/PrentisAI/GroundGUI-8B"
+    }
+  ],
+  "name": "GroundGUI-8B",
+  "notes": "The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/PrentisAI/GroundGUI-8B/raw/main/README.md",
+      "target_id": "github:prentisai/groundgui",
+      "type": "uses"
+    },
+    {
+      "evidence_url": "https://huggingface.co/PrentisAI/GroundGUI-8B/raw/main/README.md",
+      "target_id": "url:56bda04bd8d3a438deb3",
+      "type": "trained_on"
+    },
+    {
+      "evidence_url": "https://huggingface.co/PrentisAI/GroundGUI-8B/raw/main/README.md",
+      "target_id": "arxiv:2610.19100",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Screenshot grounding checkpoint that emits a single click in a normalized coordinate space.",
+  "topics": [
+    "grounding",
+    "screen-understanding"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/PrentisAI/GroundGUI-8B"
+}

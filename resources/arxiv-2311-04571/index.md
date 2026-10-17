@@ -16,9 +16,16 @@ Bibliographic record for Restoring symmetries in quantum computing using Classic
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-04571/record.json
+
 ## Authors
 
 Edgar Andres Ruiz Guzman, Denis Lacroix
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-04571/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-04571/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2510.19864",
+  "citation-key": "arxiv_2510_19864",
+  "type": "article",
+  "title": "SODBench: A Large Language Model Approach to Documenting Spreadsheet Operations",
+  "URL": "https://arxiv.org/abs/2510.19864v1",
+  "custom": {
+    "catalog_id": "arxiv:2510.19864",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.19864",
+    "identifiers": {
+      "arxiv": "2510.19864"
+    },
+    "first_published_at": "2025-10-22",
+    "record_updated_at": "2025-10-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6dcf5b31dbb6dd5040b9d8d4f7bd7dfbb5d442cc7c47b1a0fb10adf5eae1f988",
+      "submitted_at": "2025-10-22T01:36:13Z",
+      "updated_at": "2025-10-22T01:36:13Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2510.19864v1"
+    }
+  },
+  "note": "First published: 2025-10-22; Recorded arXiv version: v1; Recorded version updated: 2025-10-22T01:36:13Z.",
+  "author": [
+    {
+      "literal": "Amila Indika"
+    },
+    {
+      "literal": "Igor Molybog"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.19864",
+  "genre": "preprint",
+  "version": "1"
+}

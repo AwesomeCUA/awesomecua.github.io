@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2404.08948",
+  "citation-key": "arxiv_2404_08948",
+  "type": "article",
+  "title": "Large Language Models for Mobile GUI Text Input Generation: An Empirical Study",
+  "URL": "https://arxiv.org/abs/2404.08948v4",
+  "custom": {
+    "catalog_id": "arxiv:2404.08948",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2404.08948",
+    "identifiers": {
+      "arxiv": "2404.08948"
+    },
+    "first_published_at": "2024-04-13",
+    "record_updated_at": "2026-06-25",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a844cdd06a32b8e89f362b7e924b36e27e72c1f1def81ed0b934f761ffcaba78",
+      "submitted_at": "2024-04-13T09:56:50Z",
+      "updated_at": "2026-06-25T14:05:55Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2404.08948v4"
+    }
+  },
+  "note": "First published: 2024-04-13; Recorded arXiv version: v4; Recorded version updated: 2026-06-25T14:05:55Z.",
+  "author": [
+    {
+      "literal": "Chenhui Cui"
+    },
+    {
+      "literal": "Tao Li"
+    },
+    {
+      "literal": "Junjie Wang"
+    },
+    {
+      "literal": "Chunyang Chen"
+    },
+    {
+      "literal": "Dave Towey"
+    },
+    {
+      "literal": "Rubing Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.08948",
+  "genre": "preprint",
+  "version": "4"
+}

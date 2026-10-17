@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2607.05277",
+  "citation-key": "arxiv_2607_05277",
+  "type": "article",
+  "title": "Untrusted Content Masking for Web Agents with Security Guarantees",
+  "URL": "https://arxiv.org/abs/2607.05277v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.05277",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.05277",
+    "identifiers": {
+      "arxiv": "2607.05277"
+    },
+    "first_published_at": "2026-07-06",
+    "record_updated_at": "2026-07-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "97d6c625b6ebc08cec7471df543812a91c4252f50d8d35f8d51fbef802dcb5a2",
+      "submitted_at": "2026-07-06T16:22:37Z",
+      "updated_at": "2026-07-06T16:22:37Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.05277v1"
+    }
+  },
+  "note": "First published: 2026-07-06; Recorded arXiv version: v1; Recorded version updated: 2026-07-06T16:22:37Z.",
+  "author": [
+    {
+      "literal": "Kristina Nikolić"
+    },
+    {
+      "literal": "Egor Zverev"
+    },
+    {
+      "literal": "Javier Rando"
+    },
+    {
+      "literal": "Matthew Jagielski"
+    },
+    {
+      "literal": "Edoardo Debenedetti"
+    },
+    {
+      "literal": "Florian Tramèr"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.05277",
+  "genre": "preprint",
+  "version": "1"
+}

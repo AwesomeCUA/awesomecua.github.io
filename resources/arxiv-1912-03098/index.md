@@ -16,9 +16,16 @@ Bibliographic record for Connecting Vision and Language with Localized Narrative
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1912-03098/record.json
+
 ## Authors
 
 Jordi Pont-Tuset, Jasper Uijlings, Soravit Changpinyo, Radu Soricut, Vittorio Ferrari
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1912-03098/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1912-03098/citation.csl.json
 
 ## Recorded arXiv snapshot
 

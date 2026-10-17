@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2507.03730",
+  "citation-key": "arxiv_2507_03730",
+  "type": "article",
+  "title": "Less is More: Empowering GUI Agent with Context-Aware Simplification",
+  "URL": "https://arxiv.org/abs/2507.03730v1",
+  "custom": {
+    "catalog_id": "arxiv:2507.03730",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2507.03730",
+    "identifiers": {
+      "arxiv": "2507.03730"
+    },
+    "first_published_at": "2025-07-04",
+    "record_updated_at": "2025-07-04",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "774e2515b563f75d4561daaa6a4b672423d917a3f50e98308ab448e2ae0731e5",
+      "submitted_at": "2025-07-04T17:37:15Z",
+      "updated_at": "2025-07-04T17:37:15Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2507.03730v1"
+    }
+  },
+  "note": "First published: 2025-07-04; Recorded arXiv version: v1; Recorded version updated: 2025-07-04T17:37:15Z.",
+  "author": [
+    {
+      "literal": "Gongwei Chen"
+    },
+    {
+      "literal": "Xurui Zhou"
+    },
+    {
+      "literal": "Rui Shao"
+    },
+    {
+      "literal": "Yibo Lyu"
+    },
+    {
+      "literal": "Kaiwen Zhou"
+    },
+    {
+      "literal": "Shuai Wang"
+    },
+    {
+      "literal": "Wentao Li"
+    },
+    {
+      "literal": "Yinchuan Li"
+    },
+    {
+      "literal": "Zhongang Qi"
+    },
+    {
+      "literal": "Liqiang Nie"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.03730",
+  "genre": "preprint",
+  "version": "1"
+}

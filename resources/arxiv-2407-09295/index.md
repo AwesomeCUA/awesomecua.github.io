@@ -16,9 +16,16 @@ Develops a threat taxonomy and evaluation framework for attacks against multimod
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-09295/record.json
+
 ## Authors
 
 Yulong Yang, Xinshan Yang, Shuaidong Li, Chenhao Lin, Zhengyu Zhao, Chao Shen, Tianwei Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-09295/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-09295/citation.csl.json
 
 ## Recorded arXiv snapshot
 

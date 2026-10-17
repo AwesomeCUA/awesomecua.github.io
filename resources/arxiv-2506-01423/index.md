@@ -16,9 +16,16 @@ Bibliographic record for FinRobot: Generative Business Process AI Agents for Ent
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-01423/record.json
+
 ## Authors
 
 Hongyang Yang, Likun Lin, Yang She, Xinyu Liao, Jiaoyang Wang, Runjia Zhang, Yuquan Mo, Christina Dan Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-01423/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-01423/citation.csl.json
 
 ## Recorded arXiv snapshot
 

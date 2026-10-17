@@ -16,9 +16,16 @@ Bibliographic record for WebSTAR: Scalable Data Synthesis for Computer Use Agent
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-10962/record.json
+
 ## Authors
 
 Yifei He, Pranit Chawla, Yaser Souri, Subhojit Som, Xia Song
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-10962/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-10962/citation.csl.json
 
 ## Recorded arXiv snapshot
 

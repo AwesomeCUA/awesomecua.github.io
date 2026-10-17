@@ -16,6 +16,8 @@ A browser-automation command-line interface that exposes browser state and inter
 
 The repository publishes a Rust-based CLI and platform-specific release binaries. The inspected release is v0.39.1. Apache-2.0 is declared for the code; Chrome and other external browser components retain separate terms. No package or browser was installed.
 
+- Record JSON: https://awesomecua.github.io/resources/github-vercel-labs-agent-browser/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/vercel-labs/agent-browser/HEAD/LICENSE

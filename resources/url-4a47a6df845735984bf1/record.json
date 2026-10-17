@@ -1,0 +1,65 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "access": "publisher-managed",
+    "availability": "not independently tested",
+    "pricing_url": null
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:38:27Z",
+      "role": "primary",
+      "sha256": "7d67747fdfe89bcc69d2b60b41f4f2dccf758913ea6d491949cbeac20de372ef",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://hcompany.ai/newsroom/meet-holotab"
+    }
+  ],
+  "id": "url:4a47a6df845735984bf1",
+  "identifiers": {},
+  "kind": "product",
+  "last_verified_at": "2026-10-16T06:38:27Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://hcompany.ai/newsroom/meet-holotab"
+    }
+  ],
+  "name": "HoloTab",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://hcompany.ai/newsroom/meet-holotab",
+      "target_id": "organization:h",
+      "type": "published_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "H browser extension for executing tasks through website interfaces.",
+  "topics": [
+    "web-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://hcompany.ai/newsroom/meet-holotab"
+}

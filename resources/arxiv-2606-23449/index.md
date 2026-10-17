@@ -16,9 +16,16 @@ Bibliographic record for AOHP: An Open-Source OS-Level Agent Harness for Persona
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-23449/record.json
+
 ## Authors
 
 Shanhui Zhao, Jiacheng Liu, Guohong Liu, Jichao Yan, Jialei Ye, Yuhao Yang, Hao Wen, Shizuo Tian, Yizhen Yuan, Yuxuan Chen, Yunxin Liu, Ju Ren, Ya-Qin Zhang, Chao Huang, Yao Guo, Yuanchun Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-23449/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-23449/citation.csl.json
 
 ## Recorded arXiv snapshot
 

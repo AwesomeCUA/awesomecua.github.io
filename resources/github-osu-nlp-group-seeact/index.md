@@ -16,6 +16,8 @@ Vision-based web agent with action grounding.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-osu-nlp-group-seeact/record.json
+
 ## License declarations
 
 - code: not recorded

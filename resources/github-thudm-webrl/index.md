@@ -16,6 +16,8 @@ Training pipeline that evolves web tasks from prior attempts and uses an outcome
 
 Training code and checkpoint links are released. No root code-license declaration was found in the inspected repository metadata; bundled dependency licenses do not establish a license for the whole project. Weights have separate Hub terms.
 
+- Record JSON: https://awesomecua.github.io/resources/github-thudm-webrl/record.json
+
 ## License declarations
 
 - code: not recorded

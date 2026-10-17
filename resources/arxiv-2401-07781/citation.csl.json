@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2401.07781",
+  "citation-key": "arxiv_2401_07781",
+  "type": "article",
+  "title": "Towards A Better Metric for Text-to-Video Generation",
+  "URL": "https://arxiv.org/abs/2401.07781v1",
+  "custom": {
+    "catalog_id": "arxiv:2401.07781",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2401.07781",
+    "identifiers": {
+      "arxiv": "2401.07781"
+    },
+    "first_published_at": "2024-01-15",
+    "record_updated_at": "2024-01-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "33e68f587d25577d4afd2ebd33fb04bc2ed1d5e1435075376b78896a78855422",
+      "submitted_at": "2024-01-15T15:42:39Z",
+      "updated_at": "2024-01-15T15:42:39Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2401.07781v1"
+    }
+  },
+  "note": "First published: 2024-01-15; Recorded arXiv version: v1; Recorded version updated: 2024-01-15T15:42:39Z.",
+  "author": [
+    {
+      "literal": "Jay Zhangjie Wu"
+    },
+    {
+      "literal": "Guian Fang"
+    },
+    {
+      "literal": "Haoning Wu"
+    },
+    {
+      "literal": "Xintao Wang"
+    },
+    {
+      "literal": "Yixiao Ge"
+    },
+    {
+      "literal": "Xiaodong Cun"
+    },
+    {
+      "literal": "David Junhao Zhang"
+    },
+    {
+      "literal": "Jia-Wei Liu"
+    },
+    {
+      "literal": "Yuchao Gu"
+    },
+    {
+      "literal": "Rui Zhao"
+    },
+    {
+      "literal": "Weisi Lin"
+    },
+    {
+      "literal": "Wynne Hsu"
+    },
+    {
+      "literal": "Ying Shan"
+    },
+    {
+      "literal": "Mike Zheng Shou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2401.07781",
+  "genre": "preprint",
+  "version": "1"
+}

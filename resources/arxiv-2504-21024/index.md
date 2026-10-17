@@ -16,9 +16,16 @@ Bibliographic record for WebEvolver: Enhancing Web Agent Self-Improvement with C
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-21024/record.json
+
 ## Authors
 
 Tianqing Fang, Hongming Zhang, Zhisong Zhang, Kaixin Ma, Wenhao Yu, Haitao Mi, Dong Yu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-21024/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-21024/citation.csl.json
 
 ## Recorded arXiv snapshot
 

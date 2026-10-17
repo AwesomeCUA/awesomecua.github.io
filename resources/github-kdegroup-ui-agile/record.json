@@ -1,0 +1,76 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:00Z",
+      "role": "primary",
+      "sha256": "eb2a2767741b53e5a6659ef4b0cc325ac18ffdc4222deef1d0e7671089fcaa39",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/KDEGroup/UI-AGILE/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:01Z",
+      "role": "primary",
+      "sha256": "a145c4ec8fd43f59ebe97708b6ee4cef8112959036957eaa4739b8da9a297e8a",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/KDEGroup/UI-AGILE/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:kdegroup/ui-agile",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-16T06:36:00Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-16T06:42:01Z",
+      "url": "https://raw.githubusercontent.com/KDEGroup/UI-AGILE/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/KDEGroup/UI-AGILE"
+    }
+  ],
+  "name": "UI-AGILE",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/KDEGroup/UI-AGILE/HEAD/README.md",
+      "target_id": "arxiv:2507.22025",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "GUI grounding research using reinforcement learning.",
+  "topics": [
+    "grounding",
+    "reinforcement-learning"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/KDEGroup/UI-AGILE"
+}

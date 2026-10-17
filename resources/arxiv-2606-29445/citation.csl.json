@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2606.29445",
+  "citation-key": "arxiv_2606_29445",
+  "type": "article",
+  "title": "Bridging VideoQA and Video-Guided Agentic Tasks via Generalized Keyframe Extraction",
+  "URL": "https://arxiv.org/abs/2606.29445v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.29445",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.29445",
+    "identifiers": {
+      "arxiv": "2606.29445"
+    },
+    "first_published_at": "2026-06-28",
+    "record_updated_at": "2026-06-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "21fd84f29b0f5892d79714794b92b9534adb5eb459e32638163b6d062fe6f047",
+      "submitted_at": "2026-06-28T15:11:19Z",
+      "updated_at": "2026-06-28T15:11:19Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.29445v1"
+    }
+  },
+  "note": "First published: 2026-06-28; Recorded arXiv version: v1; Recorded version updated: 2026-06-28T15:11:19Z.",
+  "author": [
+    {
+      "literal": "Sunqi Fan"
+    },
+    {
+      "literal": "Qingle Liu"
+    },
+    {
+      "literal": "Runqi Yin"
+    },
+    {
+      "literal": "Meng-Hao Guo"
+    },
+    {
+      "literal": "Shuojin Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.29445",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2509.05368",
+  "citation-key": "arxiv_2509_05368",
+  "type": "article",
+  "title": "Long-Horizon Visual Imitation Learning via Plan and Code Reflection",
+  "URL": "https://arxiv.org/abs/2509.05368v3",
+  "custom": {
+    "catalog_id": "arxiv:2509.05368",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.05368",
+    "identifiers": {
+      "arxiv": "2509.05368"
+    },
+    "first_published_at": "2025-09-04",
+    "record_updated_at": "2025-12-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f09361ea5957cc7f1589962aedae9f34662b7d7a96833b194928f14cc5d5897a",
+      "submitted_at": "2025-09-04T06:10:32Z",
+      "updated_at": "2025-12-18T08:12:36Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2509.05368v3"
+    }
+  },
+  "note": "First published: 2025-09-04; Recorded arXiv version: v3; Recorded version updated: 2025-12-18T08:12:36Z.",
+  "author": [
+    {
+      "literal": "Quan Chen"
+    },
+    {
+      "literal": "Chenrui Shi"
+    },
+    {
+      "literal": "Qi Chen"
+    },
+    {
+      "literal": "Yuwei Wu"
+    },
+    {
+      "literal": "Zhi Gao"
+    },
+    {
+      "literal": "Xintong Zhang"
+    },
+    {
+      "literal": "Rui Gao"
+    },
+    {
+      "literal": "Kun Wu"
+    },
+    {
+      "literal": "Yunde Jia"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.05368",
+  "genre": "preprint",
+  "version": "3"
+}

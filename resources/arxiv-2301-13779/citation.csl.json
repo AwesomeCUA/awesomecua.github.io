@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2301.13779",
+  "citation-key": "arxiv_2301_13779",
+  "type": "article",
+  "title": "FLAME: A small language model for spreadsheet formulas",
+  "URL": "https://arxiv.org/abs/2301.13779v2",
+  "custom": {
+    "catalog_id": "arxiv:2301.13779",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2301.13779",
+    "identifiers": {
+      "arxiv": "2301.13779"
+    },
+    "first_published_at": "2023-01-31",
+    "record_updated_at": "2023-12-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ff6e0dbc7f7ba22430915cac58358a3afe5c6167beecfca06acdf3f8b0f15859",
+      "submitted_at": "2023-01-31T17:29:43Z",
+      "updated_at": "2023-12-19T22:56:39Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2301.13779v2"
+    }
+  },
+  "note": "First published: 2023-01-31; Recorded arXiv version: v2; Recorded version updated: 2023-12-19T22:56:39Z.",
+  "author": [
+    {
+      "literal": "Harshit Joshi"
+    },
+    {
+      "literal": "Abishai Ebenezer"
+    },
+    {
+      "literal": "José Cambronero"
+    },
+    {
+      "literal": "Sumit Gulwani"
+    },
+    {
+      "literal": "Aditya Kanade"
+    },
+    {
+      "literal": "Vu Le"
+    },
+    {
+      "literal": "Ivan Radiček"
+    },
+    {
+      "literal": "Gust Verbruggen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        1,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2301.13779",
+  "genre": "preprint",
+  "version": "2"
+}

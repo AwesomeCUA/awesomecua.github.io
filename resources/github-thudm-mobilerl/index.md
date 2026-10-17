@@ -16,6 +16,8 @@ Reinforcement-learning framework for mobile agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-thudm-mobilerl/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/THUDM/MobileRL/HEAD/LICENSE

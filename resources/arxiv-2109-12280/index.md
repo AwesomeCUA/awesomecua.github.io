@@ -16,9 +16,16 @@ Bibliographic record for All-photonic architectural roadmap for scalable quantum
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2109-12280/record.json
+
 ## Authors
 
 Srikrishna Omkar, Seok-Hyung Lee, Yong Siah Teo, Seung-Woo Lee, Hyunseok Jeong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2109-12280/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2109-12280/citation.csl.json
 
 ## Recorded arXiv snapshot
 

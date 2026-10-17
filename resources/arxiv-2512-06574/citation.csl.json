@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2512.06574",
+  "citation-key": "arxiv_2512_06574",
+  "type": "article",
+  "title": "General Computation using Slidable Tiles with Deterministic Global Forces",
+  "URL": "https://arxiv.org/abs/2512.06574v1",
+  "custom": {
+    "catalog_id": "arxiv:2512.06574",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2512.06574",
+    "identifiers": {
+      "arxiv": "2512.06574"
+    },
+    "first_published_at": "2025-12-06",
+    "record_updated_at": "2025-12-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "315c1529f91779b8a65df4397f6af16d1cf621307c0882fba42b6b96212ef304",
+      "submitted_at": "2025-12-06T21:32:31Z",
+      "updated_at": "2025-12-06T21:32:31Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2512.06574v1"
+    }
+  },
+  "note": "First published: 2025-12-06; Recorded arXiv version: v1; Recorded version updated: 2025-12-06T21:32:31Z.",
+  "author": [
+    {
+      "literal": "Alberto Avila-Jimenez"
+    },
+    {
+      "literal": "David Barreda"
+    },
+    {
+      "literal": "Sarah-Laurie Evans"
+    },
+    {
+      "literal": "Austin Luchsinger"
+    },
+    {
+      "literal": "Aiden Massie"
+    },
+    {
+      "literal": "Robert Schweller"
+    },
+    {
+      "literal": "Evan Tomai"
+    },
+    {
+      "literal": "Tim Wylie"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2512.06574",
+  "genre": "preprint",
+  "version": "1"
+}

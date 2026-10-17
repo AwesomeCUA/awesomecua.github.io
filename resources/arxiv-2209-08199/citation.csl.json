@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2209.08199",
+  "citation-key": "arxiv_2209_08199",
+  "type": "article",
+  "title": "ScreenQA: Large-Scale Question-Answer Pairs over Mobile App Screenshots",
+  "URL": "https://arxiv.org/abs/2209.08199v4",
+  "custom": {
+    "catalog_id": "arxiv:2209.08199",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2209.08199",
+    "identifiers": {
+      "arxiv": "2209.08199"
+    },
+    "first_published_at": "2022-09-16",
+    "record_updated_at": "2025-02-09",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "37f7ba5d5b9bbc96fd3a723e49190f296e08d2874dcd545272d3fcef3cc33d24",
+      "submitted_at": "2022-09-16T23:49:00Z",
+      "updated_at": "2025-02-09T21:09:17Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2209.08199v4"
+    }
+  },
+  "note": "First published: 2022-09-16; Recorded arXiv version: v4; Recorded version updated: 2025-02-09T21:09:17Z.",
+  "author": [
+    {
+      "literal": "Yu-Chung Hsiao"
+    },
+    {
+      "literal": "Fedir Zubach"
+    },
+    {
+      "literal": "Gilles Baechler"
+    },
+    {
+      "literal": "Srinivas Sunkara"
+    },
+    {
+      "literal": "Victor Carbune"
+    },
+    {
+      "literal": "Jason Lin"
+    },
+    {
+      "literal": "Maria Wang"
+    },
+    {
+      "literal": "Yun Zhu"
+    },
+    {
+      "literal": "Jindong Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        9,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2209.08199",
+  "genre": "preprint",
+  "version": "4"
+}

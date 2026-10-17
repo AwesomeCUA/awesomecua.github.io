@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2412.08017",
+  "citation-key": "arxiv_2412_08017",
+  "type": "article",
+  "title": "Integrated probabilistic computer using voltage-controlled magnetic tunnel junctions as its entropy source",
+  "URL": "https://arxiv.org/abs/2412.08017v1",
+  "custom": {
+    "catalog_id": "arxiv:2412.08017",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2412.08017",
+    "identifiers": {
+      "arxiv": "2412.08017"
+    },
+    "first_published_at": "2024-12-11",
+    "record_updated_at": "2024-12-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "59fe8531ff7f37261be8018c26aaf439a0dbe5b5b22b6ec08a9c250d664ad2e9",
+      "submitted_at": "2024-12-11T01:55:13Z",
+      "updated_at": "2024-12-11T01:55:13Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2412.08017v1"
+    }
+  },
+  "note": "First published: 2024-12-11; Recorded arXiv version: v1; Recorded version updated: 2024-12-11T01:55:13Z.",
+  "author": [
+    {
+      "literal": "Christian Duffee"
+    },
+    {
+      "literal": "Jordan Athas"
+    },
+    {
+      "literal": "Yixin Shao"
+    },
+    {
+      "literal": "Noraica Davila Melendez"
+    },
+    {
+      "literal": "Eleonora Raimondo"
+    },
+    {
+      "literal": "Jordan A. Katine"
+    },
+    {
+      "literal": "Kerem Y. Camsari"
+    },
+    {
+      "literal": "Giovanni Finocchio"
+    },
+    {
+      "literal": "Pedram Khalili Amiri"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.08017",
+  "genre": "preprint",
+  "version": "1"
+}

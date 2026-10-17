@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:1910.10511",
+  "citation-key": "arxiv_1910_10511",
+  "type": "article",
+  "title": "Topological Amplitude Computations using the Pure Spinor Formalism",
+  "URL": "https://arxiv.org/abs/1910.10511v1",
+  "custom": {
+    "catalog_id": "arxiv:1910.10511",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1910.10511",
+    "identifiers": {
+      "arxiv": "1910.10511"
+    },
+    "first_published_at": "2019-10-23",
+    "record_updated_at": "2019-10-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9fd6c78bb6dbad4d5ced6ed92aeeec5c2530af73a18576543584a1511c23d261",
+      "submitted_at": "2019-10-23T12:07:34Z",
+      "updated_at": "2019-10-23T12:07:34Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1910.10511v1"
+    }
+  },
+  "note": "First published: 2019-10-23; Recorded arXiv version: v1; Recorded version updated: 2019-10-23T12:07:34Z.",
+  "author": [
+    {
+      "literal": "Nathan Berkovits"
+    },
+    {
+      "literal": "Luis Alberto Ypanaqué"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        10,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1910.10511",
+  "genre": "preprint",
+  "version": "1"
+}

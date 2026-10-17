@@ -16,6 +16,8 @@ Training and evaluation pipeline for conversational mobile GUI agents, with acti
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-x-lance-meta-gui-baseline/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/X-LANCE/META-GUI-baseline/HEAD/LICENSE

@@ -16,9 +16,16 @@ Bibliographic record for Open-Sourcing Highly Capable Foundation Models: An eval
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-09227/record.json
+
 ## Authors
 
 Elizabeth Seger, Noemi Dreksler, Richard Moulange, Emily Dardaman, Jonas Schuett, K. Wei, Christoph Winter, Mackenzie Arnold, Seán Ó hÉigeartaigh, Anton Korinek, Markus Anderljung, Ben Bucknall, Alan Chan, Eoghan Stafford, Leonie Koessler, Aviv Ovadya, Ben Garfinkel, Emma Bluemke, Michael Aird, Patrick Levermore, Julian Hazell, Abhishek Gupta
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-09227/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-09227/citation.csl.json
 
 ## Recorded arXiv snapshot
 

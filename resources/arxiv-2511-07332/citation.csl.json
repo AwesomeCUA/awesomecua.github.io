@@ -1,0 +1,94 @@
+{
+  "id": "arxiv:2511.07332",
+  "citation-key": "arxiv_2511_07332",
+  "type": "article",
+  "title": "Grounding Computer Use Agents on Human Demonstrations",
+  "URL": "https://arxiv.org/abs/2511.07332v2",
+  "custom": {
+    "catalog_id": "arxiv:2511.07332",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.07332",
+    "identifiers": {
+      "arxiv": "2511.07332"
+    },
+    "first_published_at": "2025-11-10",
+    "record_updated_at": "2026-06-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0f2b80f294ddf5e3331dcb47a836864032f88f2fdbe35588bfef000cd9ceddc8",
+      "submitted_at": "2025-11-10T17:35:21Z",
+      "updated_at": "2026-06-09T21:30:32Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2511.07332v2"
+    }
+  },
+  "note": "First published: 2025-11-10; Recorded arXiv version: v2; Recorded version updated: 2026-06-09T21:30:32Z.",
+  "author": [
+    {
+      "literal": "Aarash Feizi"
+    },
+    {
+      "literal": "Shravan Nayak"
+    },
+    {
+      "literal": "Xiangru Jian"
+    },
+    {
+      "literal": "Kevin Qinghong Lin"
+    },
+    {
+      "literal": "Kaixin Li"
+    },
+    {
+      "literal": "Rabiul Awal"
+    },
+    {
+      "literal": "Xing Han Lù"
+    },
+    {
+      "literal": "Johan Obando-Ceron"
+    },
+    {
+      "literal": "Juan A. Rodriguez"
+    },
+    {
+      "literal": "Nicolas Chapados"
+    },
+    {
+      "literal": "David Vazquez"
+    },
+    {
+      "literal": "Adriana Romero-Soriano"
+    },
+    {
+      "literal": "Reihaneh Rabbany"
+    },
+    {
+      "literal": "Perouz Taslakian"
+    },
+    {
+      "literal": "Christopher Pal"
+    },
+    {
+      "literal": "Spandana Gella"
+    },
+    {
+      "literal": "Sai Rajeswar"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.07332",
+  "genre": "preprint",
+  "version": "2"
+}

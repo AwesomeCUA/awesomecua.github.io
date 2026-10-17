@@ -16,9 +16,16 @@ Bibliographic record for Three-Dimensional Data-Driven Magnetostatic Field Compu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2107-14604/record.json
+
 ## Authors
 
 Armin Galetzka, Dimitrios Loukrezis, Herbert De Gersem
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2107-14604/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2107-14604/citation.csl.json
 
 ## Recorded arXiv snapshot
 

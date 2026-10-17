@@ -16,9 +16,16 @@ Bibliographic record for Frequency-domain Parallel Computing Using Single On-Chi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-02689/record.json
+
 ## Authors
 
 Jun Ji, Zichen Xi, Bernadeta R. Srijanto, Ivan I. Kravchenko, Ming Jin, Wenjie Xiong, Linbo Shao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-02689/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-02689/citation.csl.json
 
 ## Recorded arXiv snapshot
 

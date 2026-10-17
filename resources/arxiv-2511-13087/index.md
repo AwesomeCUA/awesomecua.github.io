@@ -16,9 +16,16 @@ Bibliographic record for MEGA-GUI: Multi-stage Enhanced Grounding Agents for GUI
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-13087/record.json
+
 ## Authors
 
 SeokJoo Kwak, Jihoon Kim, Boyoun Kim, Jung Jae Yoon, Wooseok Jang, Jeonghoon Hong, Jaeho Yang, Yeong-Dae Kwon
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-13087/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-13087/citation.csl.json
 
 ## Recorded arXiv snapshot
 

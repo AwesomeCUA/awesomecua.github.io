@@ -16,9 +16,16 @@ Bibliographic record for ProjGuard: Safety Monitoring for Computer-Use Agents vi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-13631/record.json
+
 ## Authors
 
 Kebin Contreras, Carlos Hinojosa, Jorge Bacca, Bernard Ghanem
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-13631/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-13631/citation.csl.json
 
 ## Recorded arXiv snapshot
 

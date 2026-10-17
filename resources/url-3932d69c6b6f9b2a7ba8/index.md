@@ -16,6 +16,8 @@ The planner component of Plan-and-Act, generating structured high-level plans th
 
 The Hub manifest contains 17 safetensors shards and tokenizer/configuration files. Card metadata declares MIT and Llama-3.3-70B-Instruct as the base, but retains template comments asking the publisher to update those fields if needed. These are recorded as publisher declarations, without claiming they override upstream model terms.
 
+- Record JSON: https://awesomecua.github.io/resources/url-3932d69c6b6f9b2a7ba8/record.json
+
 ## License declarations
 
 - code: not recorded

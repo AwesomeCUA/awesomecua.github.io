@@ -16,9 +16,16 @@ Bibliographic record for CowPilot: A Framework for Autonomous and Human-Agent Co
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-16609/record.json
+
 ## Authors
 
 Faria Huq, Zora Zhiruo Wang, Frank F. Xu, Tianyue Ou, Shuyan Zhou, Jeffrey P. Bigham, Graham Neubig
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-16609/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-16609/citation.csl.json
 
 ## Recorded arXiv snapshot
 

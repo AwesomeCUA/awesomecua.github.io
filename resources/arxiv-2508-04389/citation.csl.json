@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2508.04389",
+  "citation-key": "arxiv_2508_04389",
+  "type": "article",
+  "title": "GuirlVG: Incentivize GUI Visual Grounding via Empirical Exploration on Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2508.04389v1",
+  "custom": {
+    "catalog_id": "arxiv:2508.04389",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.04389",
+    "identifiers": {
+      "arxiv": "2508.04389"
+    },
+    "first_published_at": "2025-08-06",
+    "record_updated_at": "2025-08-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "87b5336c1850c15228880e0625252331b15b79d1cf1e3929abbc01ead70d5f25",
+      "submitted_at": "2025-08-06T12:35:24Z",
+      "updated_at": "2025-08-06T12:35:24Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2508.04389v1"
+    }
+  },
+  "note": "First published: 2025-08-06; Recorded arXiv version: v1; Recorded version updated: 2025-08-06T12:35:24Z.",
+  "author": [
+    {
+      "literal": "Weitai Kang"
+    },
+    {
+      "literal": "Bin Lei"
+    },
+    {
+      "literal": "Gaowen Liu"
+    },
+    {
+      "literal": "Caiwen Ding"
+    },
+    {
+      "literal": "Yan Yan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.04389",
+  "genre": "preprint",
+  "version": "1"
+}

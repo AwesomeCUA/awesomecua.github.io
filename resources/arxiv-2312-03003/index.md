@@ -16,9 +16,16 @@ Bibliographic record for Explore, Select, Derive, and Recall: Augmenting LLM wit
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2312-03003/record.json
+
 ## Authors
 
 Sunjae Lee, Junyoung Choi, Jungjae Lee, Munim Hasan Wasi, Hojun Choi, Steven Y. Ko, Sangeun Oh, Insik Shin
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2312-03003/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2312-03003/citation.csl.json
 
 ## Recorded arXiv snapshot
 

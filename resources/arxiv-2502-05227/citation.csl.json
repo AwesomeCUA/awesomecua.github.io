@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2502.05227",
+  "citation-key": "arxiv_2502_05227",
+  "type": "article",
+  "title": "Robotouille: An Asynchronous Planning Benchmark for LLM Agents",
+  "URL": "https://arxiv.org/abs/2502.05227v1",
+  "custom": {
+    "catalog_id": "arxiv:2502.05227",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2502.05227",
+    "identifiers": {
+      "arxiv": "2502.05227"
+    },
+    "first_published_at": "2025-02-06",
+    "record_updated_at": "2025-02-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4323d5e7493c0a8f0f56b80f1506a7c839665ce1bc9e45f18243b99eb94e6157",
+      "submitted_at": "2025-02-06T05:50:37Z",
+      "updated_at": "2025-02-06T05:50:37Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2502.05227v1"
+    }
+  },
+  "note": "First published: 2025-02-06; Recorded arXiv version: v1; Recorded version updated: 2025-02-06T05:50:37Z.",
+  "author": [
+    {
+      "literal": "Gonzalo Gonzalez-Pumariega"
+    },
+    {
+      "literal": "Leong Su Yean"
+    },
+    {
+      "literal": "Neha Sunkara"
+    },
+    {
+      "literal": "Sanjiban Choudhury"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.05227",
+  "genre": "preprint",
+  "version": "1"
+}

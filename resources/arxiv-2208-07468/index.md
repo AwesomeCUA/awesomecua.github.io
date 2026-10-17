@@ -16,9 +16,16 @@ Bibliographic record for Encoding Integers and Rationals on Neuromorphic Compute
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2208-07468/record.json
+
 ## Authors
 
 Prasanna Date, Shruti Kulkarni, Aaron Young, Catherine Schuman, Thomas Potok, Jeffrey Vetter
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2208-07468/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2208-07468/citation.csl.json
 
 ## Recorded arXiv snapshot
 

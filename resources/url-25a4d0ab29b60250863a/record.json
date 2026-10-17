@@ -1,0 +1,92 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/datasets/stanfordnlp/nnetnav-wa/tree/main",
+    "gated": false,
+    "hub_id": "stanfordnlp/nnetnav-wa",
+    "languages": [],
+    "modalities": [
+      "text"
+    ],
+    "sample_count": null,
+    "sample_unit": null,
+    "size_category_reported": null
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T11:11:53Z",
+      "role": "primary",
+      "sha256": "3fe40a45aa2bf9d6f0cefffc65ea6382849c3543b44017200a4a8d43ab61e9eb",
+      "supports": [
+        "name",
+        "kind"
+      ],
+      "url": "https://huggingface.co/api/datasets/stanfordnlp/nnetnav-wa"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T10:42:34Z",
+      "role": "primary",
+      "sha256": "3095f7262b7d4ff916c6f58c55e6fc9902c08f77d09bf3951199945501148bb3",
+      "supports": [
+        "name",
+        "summary",
+        "environments",
+        "topics",
+        "scope"
+      ],
+      "url": "https://raw.githubusercontent.com/MurtyShikhar/NNetnav/HEAD/README.md"
+    },
+    {
+      "method": "huggingface_api",
+      "retrieved_at": "2026-10-16T11:11:53Z",
+      "role": "primary",
+      "sha256": "3fe40a45aa2bf9d6f0cefffc65ea6382849c3543b44017200a4a8d43ab61e9eb",
+      "supports": [
+        "details",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/api/datasets/stanfordnlp/nnetnav-wa"
+    }
+  ],
+  "id": "url:25a4d0ab29b60250863a",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-16T11:11:53Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "publisher model/dataset card",
+      "declared": "apache-2.0",
+      "retrieved_at": "2026-10-16T11:11:53Z",
+      "url": "https://huggingface.co/datasets/stanfordnlp/nnetnav-wa"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/stanfordnlp/nnetnav-wa"
+    }
+  ],
+  "name": "NNetNav WebArena data",
+  "notes": "The Hub card supplies a license but no detailed schema. Dataset purpose is supported by the project's README; exact sample counts and annotation quality remain unverified.",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "NNetNav's WebArena-oriented browser-interaction data release, with separate training and test files.",
+  "topics": [
+    "data-generation",
+    "web-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/stanfordnlp/nnetnav-wa"
+}

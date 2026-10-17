@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2309.02319",
+  "citation-key": "arxiv_2309_02319",
+  "type": "article",
+  "title": "Robust frequency-dependent diffusion kurtosis computation using an efficient direction scheme, axisymmetric modelling, and spatial regularization",
+  "URL": "https://arxiv.org/abs/2309.02319v1",
+  "custom": {
+    "catalog_id": "arxiv:2309.02319",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2309.02319",
+    "identifiers": {
+      "arxiv": "2309.02319"
+    },
+    "first_published_at": "2023-09-05",
+    "record_updated_at": "2023-09-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5f5efe3b79e51f1fc96614f12984ac8d3641e98f869e149a894075a655d2f581",
+      "submitted_at": "2023-09-05T15:36:24Z",
+      "updated_at": "2023-09-05T15:36:24Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2309.02319v1"
+    }
+  },
+  "note": "First published: 2023-09-05; Recorded arXiv version: v1; Recorded version updated: 2023-09-05T15:36:24Z.",
+  "author": [
+    {
+      "literal": "J. Hamilton"
+    },
+    {
+      "literal": "K. Xu"
+    },
+    {
+      "literal": "A. Brown"
+    },
+    {
+      "literal": "C. A. Baron"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2309.02319",
+  "genre": "preprint",
+  "version": "1"
+}

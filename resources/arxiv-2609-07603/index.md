@@ -16,9 +16,16 @@ Bibliographic record for FinCUABuild: Can Agents Build Reliable Benchmarks for D
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-07603/record.json
+
 ## Authors
 
 Jingpu Yang, Fengxian Ji, Jinri Guo, Tianhao Li, Qian Jiang, Fan Zhang, Min Peng, Qianqian Xie, Preslav Nakov, Zhuohan Xie
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-07603/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-07603/citation.csl.json
 
 ## Recorded arXiv snapshot
 

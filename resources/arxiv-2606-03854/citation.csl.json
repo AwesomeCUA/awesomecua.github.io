@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2606.03854",
+  "citation-key": "arxiv_2606_03854",
+  "type": "article",
+  "title": "CLI-Anything: Towards Agent-Native Computer Use",
+  "URL": "https://arxiv.org/abs/2606.03854v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.03854",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.03854",
+    "identifiers": {
+      "arxiv": "2606.03854"
+    },
+    "first_published_at": "2026-06-02",
+    "record_updated_at": "2026-06-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f7490150e82a5abfc510c60401cccf21c821d829e66cc5f2b40fd2fbbf4b0df4",
+      "submitted_at": "2026-06-02T16:30:33Z",
+      "updated_at": "2026-06-02T16:30:33Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.03854v1"
+    }
+  },
+  "note": "First published: 2026-06-02; Recorded arXiv version: v1; Recorded version updated: 2026-06-02T16:30:33Z.",
+  "author": [
+    {
+      "literal": "Yuhao Yang"
+    },
+    {
+      "literal": "Tianyu Fan"
+    },
+    {
+      "literal": "Chao Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.03854",
+  "genre": "preprint",
+  "version": "1"
+}

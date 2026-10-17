@@ -16,9 +16,16 @@ Bibliographic record for Auto-scaling Continuous Memory for GUI Agent. Title, au
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-09038/record.json
+
 ## Authors
 
 Wenyi Wu, Kun Zhou, Ruoxin Yuan, Vivian Yu, Stephen Wang, Zhiting Hu, Biwei Huang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-09038/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-09038/citation.csl.json
 
 ## Recorded arXiv snapshot
 

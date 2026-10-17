@@ -16,9 +16,16 @@ Bibliographic record for Imitating Human Behaviour with Diffusion Models. Title,
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2301-10677/record.json
+
 ## Authors
 
 Tim Pearce, Tabish Rashid, Anssi Kanervisto, Dave Bignell, Mingfei Sun, Raluca Georgescu, Sergio Valcarcel Macua, Shan Zheng Tan, Ida Momennejad, Katja Hofmann, Sam Devlin
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2301-10677/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2301-10677/citation.csl.json
 
 ## Recorded arXiv snapshot
 

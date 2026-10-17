@@ -16,9 +16,16 @@ Bibliographic record for ProAgent: From Robotic Process Automation to Agentic Pr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-10751/record.json
+
 ## Authors
 
 Yining Ye, Xin Cong, Shizuo Tian, Jiannan Cao, Hao Wang, Yujia Qin, Yaxi Lu, Heyang Yu, Huadong Wang, Yankai Lin, Zhiyuan Liu, Maosong Sun
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-10751/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-10751/citation.csl.json
 
 ## Recorded arXiv snapshot
 

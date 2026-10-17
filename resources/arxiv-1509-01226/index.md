@@ -16,9 +16,16 @@ Bibliographic record for Analog Computing Using Graphene-based Metalines. Title,
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1509-01226/record.json
+
 ## Authors
 
 Sajjad AbdollahRamezani, Kamalodin Arik, Amin Khavasi, Zahra Kavehvash
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1509-01226/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1509-01226/citation.csl.json
 
 ## Recorded arXiv snapshot
 

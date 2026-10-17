@@ -16,6 +16,8 @@ Training data released with UGround V1.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-c4898ad1bfc049926a63/record.json
+
 ## License declarations
 
 - code: not recorded

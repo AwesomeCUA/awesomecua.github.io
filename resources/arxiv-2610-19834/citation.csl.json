@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2610.19834",
+  "citation-key": "arxiv_2610_19834",
+  "type": "article",
+  "title": "Teaching Agents in their Own Style: Blackbox Teacher Distillation for Web Agents",
+  "URL": "https://arxiv.org/abs/2610.19834v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.19834",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.19834",
+    "identifiers": {
+      "arxiv": "2610.19834"
+    },
+    "first_published_at": "2026-10-14",
+    "record_updated_at": "2026-10-14",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6d154a14c5ac85fb352721c203fe7bd709eaba4287ef7376e6a6f5fc395708f1",
+      "submitted_at": "2026-10-14T09:06:49Z",
+      "updated_at": "2026-10-14T09:06:49Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.19834v1"
+    }
+  },
+  "note": "First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T09:06:49Z.",
+  "author": [
+    {
+      "literal": "Md Farhan Ishmam"
+    },
+    {
+      "literal": "Kenneth Marino"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.19834",
+  "genre": "preprint",
+  "version": "1"
+}

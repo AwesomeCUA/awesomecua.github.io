@@ -16,9 +16,16 @@ Bibliographic record for 3D-GPT: Procedural 3D Modeling with Large Language Mode
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-12945/record.json
+
 ## Authors
 
 Chunyi Sun, Junlin Han, Weijian Deng, Xinlong Wang, Zishan Qin, Stephen Gould
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-12945/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-12945/citation.csl.json
 
 ## Recorded arXiv snapshot
 

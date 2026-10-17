@@ -16,9 +16,16 @@ Introduces PastForward, which reuses earlier output sequences as verified decodi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-32166/record.json
+
 ## Authors
 
 Taehwan Park, Changmin Lee, Hayeon Lee, Taesik Gong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-32166/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-32166/citation.csl.json
 
 ## Recorded arXiv snapshot
 

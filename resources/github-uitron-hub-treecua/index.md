@@ -16,6 +16,8 @@ Framework for generating GUI trajectories through tree-structured exploration an
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-uitron-hub-treecua/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/UITron-hub/TreeCUA/HEAD/LICENSE

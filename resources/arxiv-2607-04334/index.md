@@ -16,9 +16,16 @@ Bibliographic record for Do GUI Agents Believe Their Eyes? Diagnosing State-Beli
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-04334/record.json
+
 ## Authors
 
 Guijia Zhang, Yuxun Chen, Yuheng Qi, Harry Yang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-04334/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-04334/citation.csl.json
 
 ## Recorded arXiv snapshot
 

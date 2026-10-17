@@ -16,9 +16,16 @@ Bibliographic record for Portfolio Optimization on Classical and Quantum Compute
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2112-08998/record.json
+
 ## Authors
 
 Moein Owhadi-Kareshk, Pierre Boulanger
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2112-08998/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2112-08998/citation.csl.json
 
 ## Recorded arXiv snapshot
 

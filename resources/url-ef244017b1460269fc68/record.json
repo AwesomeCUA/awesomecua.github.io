@@ -1,0 +1,65 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "access": "publisher-managed",
+    "availability": "not independently tested",
+    "pricing_url": null
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:38:27Z",
+      "role": "primary",
+      "sha256": "69e029d01dda3806f88abfaee01da08c671adcb3555f1314e975ab8942a686ae",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://browser-use.com/"
+    }
+  ],
+  "id": "url:ef244017b1460269fc68",
+  "identifiers": {},
+  "kind": "product",
+  "last_verified_at": "2026-10-16T06:38:27Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://browser-use.com/"
+    }
+  ],
+  "name": "Browser Use Cloud",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://browser-use.com/",
+      "target_id": "organization:browser-use",
+      "type": "published_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Hosted browser-agent platform from Browser Use.",
+  "topics": [
+    "web-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://browser-use.com/"
+}

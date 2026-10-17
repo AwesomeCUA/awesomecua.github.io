@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2504.03206",
+  "citation-key": "arxiv_2504_03206",
+  "type": "article",
+  "title": "Enhancing Personalized Multi-Turn Dialogue with Curiosity Reward",
+  "URL": "https://arxiv.org/abs/2504.03206v3",
+  "custom": {
+    "catalog_id": "arxiv:2504.03206",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2504.03206",
+    "identifiers": {
+      "arxiv": "2504.03206"
+    },
+    "first_published_at": "2025-04-04",
+    "record_updated_at": "2025-10-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "aff3b863c6c0543cd7aebd895cf9173173b154c1c4d31ba8dd4d3a9cd509dcea",
+      "submitted_at": "2025-04-04T06:35:02Z",
+      "updated_at": "2025-10-02T16:36:08Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2504.03206v3"
+    }
+  },
+  "note": "First published: 2025-04-04; Recorded arXiv version: v3; Recorded version updated: 2025-10-02T16:36:08Z.",
+  "author": [
+    {
+      "literal": "Yanming Wan"
+    },
+    {
+      "literal": "Jiaxing Wu"
+    },
+    {
+      "literal": "Marwa Abdulhai"
+    },
+    {
+      "literal": "Lior Shani"
+    },
+    {
+      "literal": "Natasha Jaques"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.03206",
+  "genre": "preprint",
+  "version": "3"
+}

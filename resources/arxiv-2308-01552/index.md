@@ -16,9 +16,16 @@ Bibliographic record for InterAct: Exploring the Potentials of ChatGPT as a Coop
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2308-01552/record.json
+
 ## Authors
 
 Po-Lin Chen, Cheng-Shang Chang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2308-01552/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2308-01552/citation.csl.json
 
 ## Recorded arXiv snapshot
 

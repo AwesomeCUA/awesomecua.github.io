@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2410.00201",
+  "citation-key": "arxiv_2410_00201",
+  "type": "article",
+  "title": "DreamStruct: Understanding Slides and User Interfaces via Synthetic Data Generation",
+  "URL": "https://arxiv.org/abs/2410.00201v1",
+  "custom": {
+    "catalog_id": "arxiv:2410.00201",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.00201",
+    "identifiers": {
+      "arxiv": "2410.00201"
+    },
+    "first_published_at": "2024-09-30",
+    "record_updated_at": "2024-09-30",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a85dca895f00b442a60123c7c85cd26a90e3d1c2a810c91c32385f877bcd755a",
+      "submitted_at": "2024-09-30T19:55:54Z",
+      "updated_at": "2024-09-30T19:55:54Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2410.00201v1"
+    }
+  },
+  "note": "First published: 2024-09-30; Recorded arXiv version: v1; Recorded version updated: 2024-09-30T19:55:54Z.",
+  "author": [
+    {
+      "literal": "Yi-Hao Peng"
+    },
+    {
+      "literal": "Faria Huq"
+    },
+    {
+      "literal": "Yue Jiang"
+    },
+    {
+      "literal": "Jason Wu"
+    },
+    {
+      "literal": "Amanda Xin Yue Li"
+    },
+    {
+      "literal": "Jeffrey Bigham"
+    },
+    {
+      "literal": "Amy Pavel"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.00201",
+  "genre": "preprint",
+  "version": "1"
+}

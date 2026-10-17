@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2503.03196",
+  "citation-key": "arxiv_2503_03196",
+  "type": "article",
+  "title": "SpiritSight Agent: Advanced GUI Agent with One Look",
+  "URL": "https://arxiv.org/abs/2503.03196v2",
+  "custom": {
+    "catalog_id": "arxiv:2503.03196",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2503.03196",
+    "identifiers": {
+      "arxiv": "2503.03196"
+    },
+    "first_published_at": "2025-03-05",
+    "record_updated_at": "2025-04-16",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d45cacb33df18242eb3f47f6c89c56e41a146dd110e4b4dc5340062b9b981250",
+      "submitted_at": "2025-03-05T05:30:22Z",
+      "updated_at": "2025-04-16T15:34:51Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2503.03196v2"
+    }
+  },
+  "note": "First published: 2025-03-05; Recorded arXiv version: v2; Recorded version updated: 2025-04-16T15:34:51Z.",
+  "author": [
+    {
+      "literal": "Zhiyuan Huang"
+    },
+    {
+      "literal": "Ziming Cheng"
+    },
+    {
+      "literal": "Junting Pan"
+    },
+    {
+      "literal": "Zhaohui Hou"
+    },
+    {
+      "literal": "Mingjie Zhan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.03196",
+  "genre": "preprint",
+  "version": "2"
+}

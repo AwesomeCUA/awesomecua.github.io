@@ -16,9 +16,16 @@ Bibliographic record for Scalable Gaussian Process Computations Using Hierarchic
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1808-03215/record.json
+
 ## Authors
 
 Christopher J. Geoga, Mihai Anitescu, Michael L. Stein
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1808-03215/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1808-03215/citation.csl.json
 
 ## Recorded arXiv snapshot
 

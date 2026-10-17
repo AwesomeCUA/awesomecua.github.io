@@ -16,6 +16,8 @@ Desktop automation library for keyboard, mouse, and screen interaction.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-nut-tree-nut-js/record.json
+
 ## License declarations
 
 - code: not recorded

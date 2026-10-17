@@ -16,9 +16,16 @@ Bibliographic record for AgenticDataBench: A Comprehensive Benchmark for Data Ag
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-01647/record.json
+
 ## Authors
 
 Zhaoyan Sun, Shan Zhong, Daizhou Wen, Jiaxing Han, Guoliang Li, Ying Yan, Peng Zhang, Yu Su, Xiang Qi, Baolin Sun, Chengyuan Yang, Tao Fang, Huaiyu Ruan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-01647/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-01647/citation.csl.json
 
 ## Recorded arXiv snapshot
 

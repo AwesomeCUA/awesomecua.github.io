@@ -16,9 +16,16 @@ Bibliographic record for AsyncWebRL: Efficient Asynchronous Reinforcement Learni
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-05597/record.json
+
 ## Authors
 
 Hao Bai, Rui Yang, Chenlu Ye, Spencer Whitehead, Aviral Kumar, Tong Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-05597/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-05597/citation.csl.json
 
 ## Recorded arXiv snapshot
 

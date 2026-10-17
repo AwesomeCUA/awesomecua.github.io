@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2503.02268",
+  "citation-key": "arxiv_2503_02268",
+  "type": "article",
+  "title": "AppAgentX: Evolving GUI Agents as Proficient Smartphone Users",
+  "URL": "https://arxiv.org/abs/2503.02268v3",
+  "custom": {
+    "catalog_id": "arxiv:2503.02268",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2503.02268",
+    "identifiers": {
+      "arxiv": "2503.02268"
+    },
+    "first_published_at": "2025-03-04",
+    "record_updated_at": "2025-04-15",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d396e4e249fc2aa1f4d53eadac38c3c814aae3f0208921b3388d5b009e6037b3",
+      "submitted_at": "2025-03-04T04:34:09Z",
+      "updated_at": "2025-04-15T02:32:21Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2503.02268v3"
+    }
+  },
+  "note": "First published: 2025-03-04; Recorded arXiv version: v3; Recorded version updated: 2025-04-15T02:32:21Z.",
+  "author": [
+    {
+      "literal": "Wenjia Jiang"
+    },
+    {
+      "literal": "Yangyang Zhuang"
+    },
+    {
+      "literal": "Chenxi Song"
+    },
+    {
+      "literal": "Xu Yang"
+    },
+    {
+      "literal": "Joey Tianyi Zhou"
+    },
+    {
+      "literal": "Chi Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.02268",
+  "genre": "preprint",
+  "version": "3"
+}

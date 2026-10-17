@@ -16,9 +16,16 @@ Bibliographic record for MICA: Multi-Agent Industrial Coordination Assistant. Ti
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-15237/record.json
+
 ## Authors
 
 Di Wen, Kunyu Peng, Junwei Zheng, Yufan Chen, Yitian Shi, Jiale Wei, Ruiping Liu, Kailun Yang, Rainer Stiefelhagen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-15237/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-15237/citation.csl.json
 
 ## Recorded arXiv snapshot
 

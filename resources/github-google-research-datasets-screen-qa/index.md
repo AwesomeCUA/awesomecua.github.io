@@ -16,6 +16,8 @@ Question-answering data over mobile interface screenshots.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-google-research-datasets-screen-qa/record.json
+
 ## Structured profile
 
 - formats: JSON

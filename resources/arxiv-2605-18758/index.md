@@ -16,9 +16,16 @@ Bibliographic record for OmniGUI: Benchmarking GUI Agents in Omni-Modal Smartpho
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-18758/record.json
+
 ## Authors
 
 Felix Henry, Lihan Lin, Jiangyou Zhu, Yangfan, Bingqian Zhang, Min Chen, Shiyu Huang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-18758/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-18758/citation.csl.json
 
 ## Recorded arXiv snapshot
 

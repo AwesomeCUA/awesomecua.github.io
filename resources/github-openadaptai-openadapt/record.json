@@ -1,0 +1,70 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:03Z",
+      "role": "primary",
+      "sha256": "36a6e7d56a1d474ee83e5811babe8e11cb113ee12386f9621bba64ffd957a6bc",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/OpenAdaptAI/OpenAdapt/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:05Z",
+      "role": "primary",
+      "sha256": "7f2bc0ccbf15854bbe46f5fa0e7cb26fe42f88ec9f8c9b151f0f93c4415820f9",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/OpenAdaptAI/OpenAdapt/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:openadaptai/openadapt",
+  "identifiers": {},
+  "kind": "agent",
+  "last_verified_at": "2026-10-16T06:36:03Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-16T06:42:05Z",
+      "url": "https://raw.githubusercontent.com/OpenAdaptAI/OpenAdapt/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/OpenAdaptAI/OpenAdapt"
+    }
+  ],
+  "name": "OpenAdapt",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Tools for learning and automating workflows from desktop demonstrations.",
+  "topics": [
+    "recording",
+    "workflow"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/OpenAdaptAI/OpenAdapt"
+}

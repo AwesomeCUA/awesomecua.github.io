@@ -16,9 +16,16 @@ UI-NEXUS evaluates compositional mobile tasks in local utility apps and online C
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-08972/record.json
+
 ## Authors
 
 Yuan Guo, Tingjia Miao, Zheng Wu, Pengzhou Cheng, Ming Zhou, Zhuosheng Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-08972/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-08972/citation.csl.json
 
 ## Recorded arXiv snapshot
 

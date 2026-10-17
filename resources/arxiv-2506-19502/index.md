@@ -16,9 +16,16 @@ Bibliographic record for MATE: LLM-Powered Multi-Agent Translation Environment f
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-19502/record.json
+
 ## Authors
 
 Aleksandr Algazinov, Matt Laing, Paul Laban
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-19502/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-19502/citation.csl.json
 
 ## Recorded arXiv snapshot
 

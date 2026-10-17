@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2302.04761",
+  "citation-key": "arxiv_2302_04761",
+  "type": "article",
+  "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+  "URL": "https://arxiv.org/abs/2302.04761v1",
+  "custom": {
+    "catalog_id": "arxiv:2302.04761",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2302.04761",
+    "identifiers": {
+      "arxiv": "2302.04761"
+    },
+    "first_published_at": "2023-02-09",
+    "record_updated_at": "2023-02-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d131ed654bcc879a2cc35030ad2658788743592dd5f0e10697fb2de943c4014e",
+      "submitted_at": "2023-02-09T16:49:57Z",
+      "updated_at": "2023-02-09T16:49:57Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2302.04761v1"
+    }
+  },
+  "note": "First published: 2023-02-09; Recorded arXiv version: v1; Recorded version updated: 2023-02-09T16:49:57Z.",
+  "author": [
+    {
+      "literal": "Timo Schick"
+    },
+    {
+      "literal": "Jane Dwivedi-Yu"
+    },
+    {
+      "literal": "Roberto Dessì"
+    },
+    {
+      "literal": "Roberta Raileanu"
+    },
+    {
+      "literal": "Maria Lomeli"
+    },
+    {
+      "literal": "Luke Zettlemoyer"
+    },
+    {
+      "literal": "Nicola Cancedda"
+    },
+    {
+      "literal": "Thomas Scialom"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        2,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2302.04761",
+  "genre": "preprint",
+  "version": "1"
+}

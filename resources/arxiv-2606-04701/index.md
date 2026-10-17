@@ -16,9 +16,16 @@ Bibliographic record for Benchmarking Living-Screen-Native GUI Agents on Short-V
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-04701/record.json
+
 ## Authors
 
 Jiashu Yao, Heyan Huang, Daiqing Wu, Wangke Chen, Huaxi Ai, Haoyu Wen, Zeming Liu, Yuhang Guo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-04701/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-04701/citation.csl.json
 
 ## Recorded arXiv snapshot
 

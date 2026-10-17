@@ -16,9 +16,16 @@ WebPII provides synthetic e-commerce screenshots with fine-grained annotations f
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-17357/record.json
+
 ## Authors
 
 Nathan Zhao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-17357/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-17357/citation.csl.json
 
 ## Recorded arXiv snapshot
 

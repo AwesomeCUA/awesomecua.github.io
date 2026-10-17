@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2609.16251",
+  "citation-key": "arxiv_2609_16251",
+  "type": "article",
+  "title": "CADWorld: Computer-Use Benchmark for Long-Horizon Computer-Aided Design",
+  "URL": "https://arxiv.org/abs/2609.16251v2",
+  "custom": {
+    "catalog_id": "arxiv:2609.16251",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.16251",
+    "identifiers": {
+      "arxiv": "2609.16251"
+    },
+    "first_published_at": "2026-09-14",
+    "record_updated_at": "2026-09-21",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0f5fd0a3024311f9aba44a2971c9c752ee2c38444139823746b90a7c9a6d5ed4",
+      "submitted_at": "2026-09-14T19:19:05Z",
+      "updated_at": "2026-09-21T14:30:34Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2609.16251v2"
+    }
+  },
+  "note": "First published: 2026-09-14; Recorded arXiv version: v2; Recorded version updated: 2026-09-21T14:30:34Z.",
+  "author": [
+    {
+      "literal": "Zihan Dong"
+    },
+    {
+      "literal": "Yuanzhe Liu"
+    },
+    {
+      "literal": "Zhiyuan Ma"
+    },
+    {
+      "literal": "Qishi Zhan"
+    },
+    {
+      "literal": "Dehan Kong"
+    },
+    {
+      "literal": "Guohao Li"
+    },
+    {
+      "literal": "Kaixin Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.16251",
+  "genre": "preprint",
+  "version": "2"
+}

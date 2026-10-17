@@ -16,6 +16,8 @@ Publisher or product brand associated with H computer-use or browser automation 
 
 Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
 
+- Record JSON: https://awesomecua.github.io/resources/organization-h/record.json
+
 ## License declarations
 
 - code: not recorded

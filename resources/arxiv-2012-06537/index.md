@@ -16,9 +16,16 @@ Bibliographic record for Does the brain function as a quantum phase computer usi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2012-06537/record.json
+
 ## Authors
 
 Andrew Simon Johnson, William Winlow
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2012-06537/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2012-06537/citation.csl.json
 
 ## Recorded arXiv snapshot
 

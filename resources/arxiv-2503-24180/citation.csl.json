@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2503.24180",
+  "citation-key": "arxiv_2503_24180",
+  "type": "article",
+  "title": "Navi-plus: Managing Ambiguous GUI Navigation Tasks with Follow-up Questions",
+  "URL": "https://arxiv.org/abs/2503.24180v2",
+  "custom": {
+    "catalog_id": "arxiv:2503.24180",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2503.24180",
+    "identifiers": {
+      "arxiv": "2503.24180"
+    },
+    "first_published_at": "2025-03-31",
+    "record_updated_at": "2025-08-24",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1bb09b54379d2fbc5b489f24a27f6311b91bb0821eefe5187aa160ffb00639d9",
+      "submitted_at": "2025-03-31T14:56:24Z",
+      "updated_at": "2025-08-24T08:39:18Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2503.24180v2"
+    }
+  },
+  "note": "First published: 2025-03-31; Recorded arXiv version: v2; Recorded version updated: 2025-08-24T08:39:18Z.",
+  "author": [
+    {
+      "literal": "Ziming Cheng"
+    },
+    {
+      "literal": "Zhiyuan Huang"
+    },
+    {
+      "literal": "Junting Pan"
+    },
+    {
+      "literal": "Zhaohui Hou"
+    },
+    {
+      "literal": "Mingjie Zhan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.24180",
+  "genre": "preprint",
+  "version": "2"
+}

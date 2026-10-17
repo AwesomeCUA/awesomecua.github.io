@@ -16,9 +16,16 @@ Bibliographic record for Paper2Video: Automatic Video Generation from Scientific
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-05096/record.json
+
 ## Authors
 
 Zeyu Zhu, Kevin Qinghong Lin, Mike Zheng Shou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-05096/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-05096/citation.csl.json
 
 ## Recorded arXiv snapshot
 

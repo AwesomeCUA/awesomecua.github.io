@@ -16,6 +16,8 @@ Vision-based GUI agent models with unified action representations.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-xlang-ai-aguvis/record.json
+
 ## License declarations
 
 - code: not recorded

@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:1802.08802",
+  "citation-key": "arxiv_1802_08802",
+  "type": "article",
+  "title": "Reinforcement Learning on Web Interfaces Using Workflow-Guided Exploration",
+  "URL": "https://arxiv.org/abs/1802.08802v1",
+  "custom": {
+    "catalog_id": "arxiv:1802.08802",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/1802.08802",
+    "identifiers": {
+      "arxiv": "1802.08802"
+    },
+    "first_published_at": "2018-02-24",
+    "record_updated_at": "2018-02-24",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "75d19fa97ce85a93bb9665a8ae06607bc0b90fde1c8376cdd60e99b55e90729c",
+      "submitted_at": "2018-02-24T05:32:47Z",
+      "updated_at": "2018-02-24T05:32:47Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1802.08802v1"
+    }
+  },
+  "note": "First published: 2018-02-24; Recorded arXiv version: v1; Recorded version updated: 2018-02-24T05:32:47Z.",
+  "author": [
+    {
+      "literal": "Evan Zheran Liu"
+    },
+    {
+      "literal": "Kelvin Guu"
+    },
+    {
+      "literal": "Panupong Pasupat"
+    },
+    {
+      "literal": "Tianlin Shi"
+    },
+    {
+      "literal": "Percy Liang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        2,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1802.08802",
+  "genre": "preprint",
+  "version": "1"
+}

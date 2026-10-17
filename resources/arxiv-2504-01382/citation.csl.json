@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2504.01382",
+  "citation-key": "arxiv_2504_01382",
+  "type": "article",
+  "title": "An Illusion of Progress? Assessing the Current State of Web Agents",
+  "URL": "https://arxiv.org/abs/2504.01382v4",
+  "custom": {
+    "catalog_id": "arxiv:2504.01382",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2504.01382",
+    "identifiers": {
+      "arxiv": "2504.01382"
+    },
+    "first_published_at": "2025-04-02",
+    "record_updated_at": "2025-10-08",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ccad667f7c5bb75e58d75d5eab5cc24c7c3610be9eed1a09079de5e23c85af04",
+      "submitted_at": "2025-04-02T05:51:29Z",
+      "updated_at": "2025-10-08T02:22:45Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2504.01382v4"
+    }
+  },
+  "note": "First published: 2025-04-02; Recorded arXiv version: v4; Recorded version updated: 2025-10-08T02:22:45Z.",
+  "author": [
+    {
+      "literal": "Tianci Xue"
+    },
+    {
+      "literal": "Weijian Qi"
+    },
+    {
+      "literal": "Tianneng Shi"
+    },
+    {
+      "literal": "Chan Hee Song"
+    },
+    {
+      "literal": "Boyu Gou"
+    },
+    {
+      "literal": "Dawn Song"
+    },
+    {
+      "literal": "Huan Sun"
+    },
+    {
+      "literal": "Yu Su"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.01382",
+  "genre": "preprint",
+  "version": "4"
+}

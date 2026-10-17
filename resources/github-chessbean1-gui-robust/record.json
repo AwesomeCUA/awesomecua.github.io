@@ -1,0 +1,66 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "metrics": [],
+    "task_count": null
+  },
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T10:43:11Z",
+      "role": "primary",
+      "sha256": "93defc2b31d0f8e6144e77cda4a74abeafd5253ae18a626bfc625f429050770a",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/chessbean1/GUI-Robust/HEAD/README.md"
+    }
+  ],
+  "id": "github:chessbean1/gui-robust",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-16T10:43:11Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/chessbean1/GUI-Robust"
+    }
+  ],
+  "name": "GUI-Robust",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/chessbean1/GUI-Robust/HEAD/README.md",
+      "target_id": "arxiv:2506.14477",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Evaluation scripts and linked data for comparing GUI action predictions and task execution under ordinary and anomalous interface conditions.",
+  "topics": [
+    "evaluation",
+    "robustness"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/chessbean1/GUI-Robust"
+}

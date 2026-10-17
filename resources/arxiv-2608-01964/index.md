@@ -16,9 +16,16 @@ Bibliographic record for LongHorizon-Harness: Advancing Long-Horizon Agents for 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-01964/record.json
+
 ## Authors
 
 Ziyu Ma, Hailang Huang, Shun Zou, Yong Wang, Shidong Yang, Yiming Hu, Fei Wei, XiangXiang Chu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-01964/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-01964/citation.csl.json
 
 ## Recorded arXiv snapshot
 

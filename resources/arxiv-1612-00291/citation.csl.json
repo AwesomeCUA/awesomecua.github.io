@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:1612.00291",
+  "citation-key": "arxiv_1612_00291",
+  "type": "article",
+  "title": "Aggressive Quadrotor Flight through Narrow Gaps with Onboard Sensing and Computing using Active Vision",
+  "URL": "https://arxiv.org/abs/1612.00291v6",
+  "custom": {
+    "catalog_id": "arxiv:1612.00291",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1612.00291",
+    "identifiers": {
+      "arxiv": "1612.00291"
+    },
+    "first_published_at": "2016-12-01",
+    "record_updated_at": "2018-04-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "489803f9aee3b5f1eacc3cd8ced93c5bc0f7237769411d7c949a4844c796a28e",
+      "submitted_at": "2016-12-01T15:03:07Z",
+      "updated_at": "2018-04-05T14:40:20Z",
+      "version": 6,
+      "versioned_url": "https://arxiv.org/abs/1612.00291v6"
+    }
+  },
+  "note": "First published: 2016-12-01; Recorded arXiv version: v6; Recorded version updated: 2018-04-05T14:40:20Z.",
+  "author": [
+    {
+      "literal": "Davide Falanga"
+    },
+    {
+      "literal": "Elias Mueggler"
+    },
+    {
+      "literal": "Matthias Faessler"
+    },
+    {
+      "literal": "Davide Scaramuzza"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2016,
+        12,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1612.00291",
+  "genre": "preprint",
+  "version": "6"
+}

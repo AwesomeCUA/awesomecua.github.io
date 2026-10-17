@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2504.12679",
+  "citation-key": "arxiv_2504_12679",
+  "type": "article",
+  "title": "TongUI: Internet-Scale Trajectories from Multimodal Web Tutorials for Generalized GUI Agents",
+  "URL": "https://arxiv.org/abs/2504.12679v4",
+  "custom": {
+    "catalog_id": "arxiv:2504.12679",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2504.12679",
+    "identifiers": {
+      "arxiv": "2504.12679"
+    },
+    "first_published_at": "2025-04-17",
+    "record_updated_at": "2025-12-04",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "346fc4db7f8fbf2dc66c32e36f5cc5ace22228d60bdd4c61b6b7ac65487a4a8c",
+      "submitted_at": "2025-04-17T06:15:56Z",
+      "updated_at": "2025-12-04T15:01:09Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2504.12679v4"
+    }
+  },
+  "note": "First published: 2025-04-17; Recorded arXiv version: v4; Recorded version updated: 2025-12-04T15:01:09Z.",
+  "author": [
+    {
+      "literal": "Bofei Zhang"
+    },
+    {
+      "literal": "Zirui Shang"
+    },
+    {
+      "literal": "Zhi Gao"
+    },
+    {
+      "literal": "Wang Zhang"
+    },
+    {
+      "literal": "Rui Xie"
+    },
+    {
+      "literal": "Xiaojian Ma"
+    },
+    {
+      "literal": "Tao Yuan"
+    },
+    {
+      "literal": "Xinxiao Wu"
+    },
+    {
+      "literal": "Song-Chun Zhu"
+    },
+    {
+      "literal": "Qing Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.12679",
+  "genre": "preprint",
+  "version": "4"
+}

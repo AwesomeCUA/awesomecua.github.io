@@ -16,6 +16,8 @@ Claude browser extension for interacting with websites.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-07b6bbce7ce26a847f79/record.json
+
 ## License declarations
 
 - code: not recorded

@@ -16,9 +16,16 @@ Bibliographic record for WebDancer: Towards Autonomous Information Seeking Agenc
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-22648/record.json
+
 ## Authors
 
 Jialong Wu, Baixuan Li, Runnan Fang, Wenbiao Yin, Liwen Zhang, Zhengwei Tao, Dingchu Zhang, Zekun Xi, Gang Fu, Yong Jiang, Pengjun Xie, Fei Huang, Jingren Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-22648/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-22648/citation.csl.json
 
 ## Recorded arXiv snapshot
 

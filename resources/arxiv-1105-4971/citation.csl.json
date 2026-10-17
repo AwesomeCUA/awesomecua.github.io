@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:1105.4971",
+  "citation-key": "arxiv_1105_4971",
+  "type": "article",
+  "title": "Distributed Evolutionary Computation using REST",
+  "URL": "https://arxiv.org/abs/1105.4971v1",
+  "custom": {
+    "catalog_id": "arxiv:1105.4971",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1105.4971",
+    "identifiers": {
+      "arxiv": "1105.4971"
+    },
+    "first_published_at": "2011-05-25",
+    "record_updated_at": "2011-05-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8516bf38c3d514a5ba981545a86e7452ecbf0eaa9f8f473ef819ce45392089d1",
+      "submitted_at": "2011-05-25T09:13:31Z",
+      "updated_at": "2011-05-25T09:13:31Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1105.4971v1"
+    }
+  },
+  "note": "First published: 2011-05-25; Recorded arXiv version: v1; Recorded version updated: 2011-05-25T09:13:31Z.",
+  "author": [
+    {
+      "literal": "P. A. Castillo"
+    },
+    {
+      "literal": "M. G. Arenas"
+    },
+    {
+      "literal": "A. M. Mora"
+    },
+    {
+      "literal": "J. L. J. Laredo"
+    },
+    {
+      "literal": "G. Romero"
+    },
+    {
+      "literal": "V. M Rivas"
+    },
+    {
+      "literal": "J. J. Merelo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2011,
+        5,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1105.4971",
+  "genre": "preprint",
+  "version": "1"
+}

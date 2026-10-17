@@ -16,6 +16,8 @@ Visual agent loop for interacting with a desktop.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-othersideai-self-operating-computer/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/OthersideAI/self-operating-computer/HEAD/LICENSE

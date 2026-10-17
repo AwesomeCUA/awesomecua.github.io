@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:1805.06652",
+  "citation-key": "arxiv_1805_06652",
+  "type": "article",
+  "title": "Affective computing using speech and eye gaze: a review and bimodal system proposal for continuous affect prediction",
+  "URL": "https://arxiv.org/abs/1805.06652v1",
+  "custom": {
+    "catalog_id": "arxiv:1805.06652",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1805.06652",
+    "identifiers": {
+      "arxiv": "1805.06652"
+    },
+    "first_published_at": "2018-05-17",
+    "record_updated_at": "2018-05-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3ffca92e9881bfba42bfa5cbf9de984a5a1aa5328913f076d55daac13f3b9701",
+      "submitted_at": "2018-05-17T08:34:49Z",
+      "updated_at": "2018-05-17T08:34:49Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1805.06652v1"
+    }
+  },
+  "note": "First published: 2018-05-17; Recorded arXiv version: v1; Recorded version updated: 2018-05-17T08:34:49Z.",
+  "author": [
+    {
+      "literal": "Jonny O'Dwyer"
+    },
+    {
+      "literal": "Niall Murray"
+    },
+    {
+      "literal": "Ronan Flynn"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        5,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1805.06652",
+  "genre": "preprint",
+  "version": "1"
+}

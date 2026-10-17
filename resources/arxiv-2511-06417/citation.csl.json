@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2511.06417",
+  "citation-key": "arxiv_2511_06417",
+  "type": "article",
+  "title": "AUTO-Explorer: Automated Data Collection for GUI Agent",
+  "URL": "https://arxiv.org/abs/2511.06417v1",
+  "custom": {
+    "catalog_id": "arxiv:2511.06417",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.06417",
+    "identifiers": {
+      "arxiv": "2511.06417"
+    },
+    "first_published_at": "2025-11-09",
+    "record_updated_at": "2025-11-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8a5f43873a47e5b47250cedd3d860abe2dc5ec9b85fe657444bf2b7378f3e8f7",
+      "submitted_at": "2025-11-09T15:13:45Z",
+      "updated_at": "2025-11-09T15:13:45Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2511.06417v1"
+    }
+  },
+  "note": "First published: 2025-11-09; Recorded arXiv version: v1; Recorded version updated: 2025-11-09T15:13:45Z.",
+  "author": [
+    {
+      "literal": "Xiangwu Guo"
+    },
+    {
+      "literal": "Difei Gao"
+    },
+    {
+      "literal": "Mike Zheng Shou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.06417",
+  "genre": "preprint",
+  "version": "1"
+}

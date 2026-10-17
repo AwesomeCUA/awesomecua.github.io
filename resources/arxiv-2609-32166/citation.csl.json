@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2609.32166",
+  "citation-key": "arxiv_2609_32166",
+  "type": "article",
+  "title": "PastForward: Faster On-Device GUI Agents via Computational Experience Reuse",
+  "URL": "https://arxiv.org/abs/2609.32166v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.32166",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.32166",
+    "identifiers": {
+      "arxiv": "2609.32166"
+    },
+    "first_published_at": "2026-09-26",
+    "record_updated_at": "2026-09-26",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f343a941e12c0fb8c4e12dc156e7c8b37f753d74836d8e42542d504bee883e51",
+      "submitted_at": "2026-09-26T02:41:56Z",
+      "updated_at": "2026-09-26T02:41:56Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.32166v1"
+    }
+  },
+  "note": "First published: 2026-09-26; Recorded arXiv version: v1; Recorded version updated: 2026-09-26T02:41:56Z.",
+  "author": [
+    {
+      "literal": "Taehwan Park"
+    },
+    {
+      "literal": "Changmin Lee"
+    },
+    {
+      "literal": "Hayeon Lee"
+    },
+    {
+      "literal": "Taesik Gong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.32166",
+  "genre": "preprint",
+  "version": "1"
+}

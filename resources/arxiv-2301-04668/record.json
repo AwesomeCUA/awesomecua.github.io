@@ -1,0 +1,67 @@
+{
+  "aliases": [],
+  "authors": [
+    "M. Mazzanti",
+    "R. Gerritsma",
+    "R. J. C. Spreeuw",
+    "A. Safavi-Naini"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a4c9544ad60f0958a9d701de430c0c0d070bb8d90c1d23e01bcd8b92ba3e42b4",
+      "submitted_at": "2023-01-11T19:00:09Z",
+      "updated_at": "2023-01-11T19:00:09Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2301.04668v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:37:01Z",
+      "role": "primary",
+      "sha256": "8bfa074910574410d7988771270feded31e7e1bd1fd0924d4754850d4a5f1914",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=900&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2301.04668",
+  "identifiers": {
+    "arxiv": "2301.04668"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:37:01Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2301.04668"
+    }
+  ],
+  "name": "Trapped Ion Quantum Computing using Optical Tweezers and the Magnus Effect",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2023-01-11",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2023-01-11",
+  "url": "https://arxiv.org/abs/2301.04668"
+}

@@ -16,9 +16,16 @@ Bibliographic record for FailureMem: A Failure-Aware Multimodal Framework for Au
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-17826/record.json
+
 ## Authors
 
 Ruize Ma, Yilei Jiang, Shilin Zhang, Zheng Ma, Yi Feng, Vincent Ng, Zhi Wang, Xiangyu Yue, Chuanyi Li, Lewei Lu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-17826/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-17826/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2208.07468",
+  "citation-key": "arxiv_2208_07468",
+  "type": "article",
+  "title": "Encoding Integers and Rationals on Neuromorphic Computers using Virtual Neuron",
+  "URL": "https://arxiv.org/abs/2208.07468v1",
+  "custom": {
+    "catalog_id": "arxiv:2208.07468",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2208.07468",
+    "identifiers": {
+      "arxiv": "2208.07468"
+    },
+    "first_published_at": "2022-08-15",
+    "record_updated_at": "2022-08-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3f73cd8b8905f4aafd18ca6a3cbd98c03b341727c2dd3e0fbb8d915741a1b2bf",
+      "submitted_at": "2022-08-15T23:18:26Z",
+      "updated_at": "2022-08-15T23:18:26Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2208.07468v1"
+    }
+  },
+  "note": "First published: 2022-08-15; Recorded arXiv version: v1; Recorded version updated: 2022-08-15T23:18:26Z.",
+  "author": [
+    {
+      "literal": "Prasanna Date"
+    },
+    {
+      "literal": "Shruti Kulkarni"
+    },
+    {
+      "literal": "Aaron Young"
+    },
+    {
+      "literal": "Catherine Schuman"
+    },
+    {
+      "literal": "Thomas Potok"
+    },
+    {
+      "literal": "Jeffrey Vetter"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        8,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2208.07468",
+  "genre": "preprint",
+  "version": "1"
+}

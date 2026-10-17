@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2610.17457",
+  "citation-key": "arxiv_2610_17457",
+  "type": "article",
+  "title": "BrowseSafe++: Benchmarking Prompt Injection Detection Across Web Contexts, Languages, and Browser Views",
+  "URL": "https://arxiv.org/abs/2610.17457v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.17457",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.17457",
+    "identifiers": {
+      "arxiv": "2610.17457"
+    },
+    "first_published_at": "2026-10-12",
+    "record_updated_at": "2026-10-12",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "247cd4c9634dea78780a2230138c728adf53871e8b65614697f76ba53dea858c",
+      "submitted_at": "2026-10-12T22:17:51Z",
+      "updated_at": "2026-10-12T22:17:51Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.17457v1"
+    }
+  },
+  "note": "First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T22:17:51Z.",
+  "author": [
+    {
+      "literal": "Yuetian Chen"
+    },
+    {
+      "literal": "Kaiyuan Zhang"
+    },
+    {
+      "literal": "Yuntao Du"
+    },
+    {
+      "literal": "Thomas Li"
+    },
+    {
+      "literal": "Mark Tenenholtz"
+    },
+    {
+      "literal": "Kyle Polley"
+    },
+    {
+      "literal": "Jerry Ma"
+    },
+    {
+      "literal": "Denis Yarats"
+    },
+    {
+      "literal": "Ninghui Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.17457",
+  "genre": "preprint",
+  "version": "1"
+}

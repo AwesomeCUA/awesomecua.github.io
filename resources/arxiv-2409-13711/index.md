@@ -16,9 +16,16 @@ Introduces question answering over individual screens, multiple web pages, and n
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-13711/record.json
+
 ## Authors
 
 Maria Wang, Srinivas Sunkara, Gilles Baechler, Jason Lin, Yun Zhu, Fedir Zubach, Lei Shu, Jindong Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-13711/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-13711/citation.csl.json
 
 ## Recorded arXiv snapshot
 

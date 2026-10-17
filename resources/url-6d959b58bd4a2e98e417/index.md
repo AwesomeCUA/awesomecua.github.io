@@ -16,6 +16,8 @@ A Qwen2.5-VL mobile action model trained using existing and reward-guided synthe
 
 Four public safetensors shards are present and the card declares MIT. Its training-data metadata/link uses UI-Genie-Agent-5k while prose labels it 16k; no precise training-set relationship or count is asserted across those inconsistent references. Larger announced models are not counted as released.
 
+- Record JSON: https://awesomecua.github.io/resources/url-6d959b58bd4a2e98e417/record.json
+
 ## License declarations
 
 - code: not recorded

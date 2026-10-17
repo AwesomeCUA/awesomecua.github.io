@@ -16,9 +16,16 @@ Bibliographic record for BraveGuard: From Open-World Threats to Safer Computer-U
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-01166/record.json
+
 ## Authors
 
 Yunhao Feng, Xiaohu Du, Xinhao Deng, Yifan Ding, Ming Wen, Yixu Wang, Yuxiang Xie, Baihui Zheng, Yingshui Tan, Yige Li, Yutao Wu, Kerui Cao, Wenke Huang, Yanming Guo, Xingjun Ma, Yu-Gang Jiang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-01166/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-01166/citation.csl.json
 
 ## Recorded arXiv snapshot
 

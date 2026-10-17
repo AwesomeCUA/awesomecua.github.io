@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2308.04192",
+  "citation-key": "arxiv_2308_04192",
+  "type": "article",
+  "title": "High photon-loss threshold quantum computing using GHZ-state measurements",
+  "URL": "https://arxiv.org/abs/2308.04192v1",
+  "custom": {
+    "catalog_id": "arxiv:2308.04192",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2308.04192",
+    "identifiers": {
+      "arxiv": "2308.04192"
+    },
+    "first_published_at": "2023-08-08",
+    "record_updated_at": "2023-08-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e11a9d65f10fb8f5607d281f877e300a108f92e77fe1f5f5f69dbca59cb9d100",
+      "submitted_at": "2023-08-08T11:36:23Z",
+      "updated_at": "2023-08-08T11:36:23Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2308.04192v1"
+    }
+  },
+  "note": "First published: 2023-08-08; Recorded arXiv version: v1; Recorded version updated: 2023-08-08T11:36:23Z.",
+  "author": [
+    {
+      "literal": "Brendan Pankovich"
+    },
+    {
+      "literal": "Angus Kan"
+    },
+    {
+      "literal": "Kwok Ho Wan"
+    },
+    {
+      "literal": "Maike Ostmann"
+    },
+    {
+      "literal": "Alex Neville"
+    },
+    {
+      "literal": "Srikrishna Omkar"
+    },
+    {
+      "literal": "Adel Sohbi"
+    },
+    {
+      "literal": "Kamil Brádler"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        8,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2308.04192",
+  "genre": "preprint",
+  "version": "1"
+}

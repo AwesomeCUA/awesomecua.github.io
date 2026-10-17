@@ -16,9 +16,16 @@ Introduces an open generalist computer-use stack combining visual and programmat
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-22200/record.json
+
 ## Authors
 
 Hanzhang Zhou, Long Li, Quyu Kong, Lei Wang, Panrong Tong, Long Chen, Tianyu Xia, Gongjie Zhang, Xu Zhang, Chen Liu, Jianan Zhang, Chenglin Cai, Zhengwen Zeng, Steven Hoi, Yue Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-22200/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-22200/citation.csl.json
 
 ## Recorded arXiv snapshot
 

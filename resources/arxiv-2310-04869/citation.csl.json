@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2310.04869",
+  "citation-key": "arxiv_2310_04869",
+  "type": "article",
+  "title": "ILuvUI: Instruction-tuned LangUage-Vision modeling of UIs from Machine Conversations",
+  "URL": "https://arxiv.org/abs/2310.04869v1",
+  "custom": {
+    "catalog_id": "arxiv:2310.04869",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2310.04869",
+    "identifiers": {
+      "arxiv": "2310.04869"
+    },
+    "first_published_at": "2023-10-07",
+    "record_updated_at": "2023-10-07",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a49e879891017071fce4df0ff4b07bd9e8b5a6e14385af565549aadbde1bc1cf",
+      "submitted_at": "2023-10-07T16:32:34Z",
+      "updated_at": "2023-10-07T16:32:34Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2310.04869v1"
+    }
+  },
+  "note": "First published: 2023-10-07; Recorded arXiv version: v1; Recorded version updated: 2023-10-07T16:32:34Z.",
+  "author": [
+    {
+      "literal": "Yue Jiang"
+    },
+    {
+      "literal": "Eldon Schoop"
+    },
+    {
+      "literal": "Amanda Swearngin"
+    },
+    {
+      "literal": "Jeffrey Nichols"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2310.04869",
+  "genre": "preprint",
+  "version": "1"
+}

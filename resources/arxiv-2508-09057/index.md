@@ -16,9 +16,16 @@ Bibliographic record for MVISU-Bench: Benchmarking Mobile Agents for Real-World 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-09057/record.json
+
 ## Authors
 
 Zeyu Huang, Juyuan Wang, Longfeng Chen, Boyi Xiao, Leng Cai, Yawen Zeng, Jin Xu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-09057/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-09057/citation.csl.json
 
 ## Recorded arXiv snapshot
 

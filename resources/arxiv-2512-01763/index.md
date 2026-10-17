@@ -16,9 +16,16 @@ Bibliographic record for HiconAgent: History Context-aware Policy Optimization f
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-01763/record.json
+
 ## Authors
 
 Xurui Zhou, Gongwei Chen, Yuquan Xie, Zaijing Li, Kaiwen Zhou, Shuai Wang, Shuo Yang, Zhuotao Tian, Rui Shao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-01763/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-01763/citation.csl.json
 
 ## Recorded arXiv snapshot
 

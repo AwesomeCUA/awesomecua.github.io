@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2402.05930",
+  "citation-key": "arxiv_2402_05930",
+  "type": "article",
+  "title": "WebLINX: Real-World Website Navigation with Multi-Turn Dialogue",
+  "URL": "https://arxiv.org/abs/2402.05930v2",
+  "custom": {
+    "catalog_id": "arxiv:2402.05930",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2402.05930",
+    "identifiers": {
+      "arxiv": "2402.05930"
+    },
+    "first_published_at": "2024-02-08",
+    "record_updated_at": "2024-09-10",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6a7c1a1f260f9287e8999525e1adc5534a70f7b96271d469973fceee1ac23609",
+      "submitted_at": "2024-02-08T18:58:02Z",
+      "updated_at": "2024-09-10T22:22:43Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2402.05930v2"
+    }
+  },
+  "note": "First published: 2024-02-08; Recorded arXiv version: v2; Recorded version updated: 2024-09-10T22:22:43Z.",
+  "author": [
+    {
+      "literal": "Xing Han Lù"
+    },
+    {
+      "literal": "Zdeněk Kasner"
+    },
+    {
+      "literal": "Siva Reddy"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.05930",
+  "genre": "preprint",
+  "version": "2"
+}

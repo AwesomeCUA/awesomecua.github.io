@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2602.10356",
+  "citation-key": "arxiv_2602_10356",
+  "type": "article",
+  "title": "Autonomous Continual Learning for Environment Adaptation of Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2602.10356v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.10356",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.10356",
+    "identifiers": {
+      "arxiv": "2602.10356"
+    },
+    "first_published_at": "2026-02-10",
+    "record_updated_at": "2026-05-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d3385966e7b483b33738b3c8e6c9a4d9cf17afa671e1f2e49de4f946cbc5f251",
+      "submitted_at": "2026-02-10T23:06:02Z",
+      "updated_at": "2026-05-11T00:11:46Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.10356v2"
+    }
+  },
+  "note": "First published: 2026-02-10; Recorded arXiv version: v2; Recorded version updated: 2026-05-11T00:11:46Z.",
+  "author": [
+    {
+      "literal": "Tianci Xue"
+    },
+    {
+      "literal": "Zeyi Liao"
+    },
+    {
+      "literal": "Tianneng Shi"
+    },
+    {
+      "literal": "Zilu Wang"
+    },
+    {
+      "literal": "Kai Zhang"
+    },
+    {
+      "literal": "Dawn Song"
+    },
+    {
+      "literal": "Yu Su"
+    },
+    {
+      "literal": "Huan Sun"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.10356",
+  "genre": "preprint",
+  "version": "2"
+}

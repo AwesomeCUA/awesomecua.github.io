@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2503.09263",
+  "citation-key": "arxiv_2503_09263",
+  "type": "article",
+  "title": "COLA: A Scalable Multi-Agent Framework For Windows UI Task Automation",
+  "URL": "https://arxiv.org/abs/2503.09263v1",
+  "custom": {
+    "catalog_id": "arxiv:2503.09263",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2503.09263",
+    "identifiers": {
+      "arxiv": "2503.09263"
+    },
+    "first_published_at": "2025-03-12",
+    "record_updated_at": "2025-03-12",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3ea50d595c5d82b4a5d538b4b20725fa1f5afe5b29b03c022b726c307c8cca6e",
+      "submitted_at": "2025-03-12T11:03:27Z",
+      "updated_at": "2025-03-12T11:03:27Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2503.09263v1"
+    }
+  },
+  "note": "First published: 2025-03-12; Recorded arXiv version: v1; Recorded version updated: 2025-03-12T11:03:27Z.",
+  "author": [
+    {
+      "literal": "Di Zhao"
+    },
+    {
+      "literal": "Longhui Ma"
+    },
+    {
+      "literal": "Siwei Wang"
+    },
+    {
+      "literal": "Miao Wang"
+    },
+    {
+      "literal": "Zhao Lv"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.09263",
+  "genre": "preprint",
+  "version": "1"
+}

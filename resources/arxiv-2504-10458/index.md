@@ -16,9 +16,16 @@ Applies reinforcement fine-tuning with unified action rules and curated cross-pl
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-10458/record.json
+
 ## Authors
 
 Run Luo, Lu Wang, Wanwei He, Longze Chen, Jiaming Li, Xiaobo Xia
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-10458/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-10458/citation.csl.json
 
 ## Recorded arXiv snapshot
 

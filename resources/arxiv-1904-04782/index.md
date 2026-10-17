@@ -16,9 +16,16 @@ Bibliographic record for Enabling Privacy-Preserving, Compute- and Data-Intensiv
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1904-04782/record.json
+
 ## Authors
 
 Jianping Zhu, Rui Hou, XiaoFeng Wang, Wenhao Wang, Jiangfeng Cao, Lutan Zhao, Fengkai Yuan, Peinan Li, Zhongpu Wang, Boyan Zhao, Lixin Zhang, Dan Meng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1904-04782/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1904-04782/citation.csl.json
 
 ## Recorded arXiv snapshot
 

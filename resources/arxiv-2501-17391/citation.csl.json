@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2501.17391",
+  "citation-key": "arxiv_2501_17391",
+  "type": "article",
+  "title": "LFTR: Learning-Free Token Reduction for Multimodal Large Language Models",
+  "URL": "https://arxiv.org/abs/2501.17391v3",
+  "custom": {
+    "catalog_id": "arxiv:2501.17391",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2501.17391",
+    "identifiers": {
+      "arxiv": "2501.17391"
+    },
+    "first_published_at": "2025-01-29",
+    "record_updated_at": "2025-09-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "796fa42be43e80e9680f0145f6a3327ba6ab12eaebbc9a4a1d8ec5e994ef8826",
+      "submitted_at": "2025-01-29T02:52:32Z",
+      "updated_at": "2025-09-30T10:14:30Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2501.17391v3"
+    }
+  },
+  "note": "First published: 2025-01-29; Recorded arXiv version: v3; Recorded version updated: 2025-09-30T10:14:30Z.",
+  "author": [
+    {
+      "literal": "Zihui Zhao"
+    },
+    {
+      "literal": "Yingxin Li"
+    },
+    {
+      "literal": "Yang Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2501.17391",
+  "genre": "preprint",
+  "version": "3"
+}

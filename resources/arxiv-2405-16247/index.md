@@ -16,9 +16,16 @@ Bibliographic record for AutoManual: Constructing Instruction Manuals by LLM Age
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2405-16247/record.json
+
 ## Authors
 
 Minghao Chen, Yihang Li, Yanting Yang, Shiyu Yu, Binbin Lin, Xiaofei He
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2405-16247/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-16247/citation.csl.json
 
 ## Recorded arXiv snapshot
 

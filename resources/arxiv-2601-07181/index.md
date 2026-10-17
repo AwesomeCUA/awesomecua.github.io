@@ -16,9 +16,16 @@ Transforms human screen recordings and input events into annotated demonstration
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-07181/record.json
+
 ## Authors
 
 Yichun Zhang, Xiangwu Guo, Yauhong Goh, Jessica Hu, Zhiheng Chen, Xin Wang, Difei Gao, Mike Zheng Shou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-07181/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-07181/citation.csl.json
 
 ## Recorded arXiv snapshot
 

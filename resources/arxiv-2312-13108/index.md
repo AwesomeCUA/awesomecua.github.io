@@ -16,9 +16,16 @@ Introduces Windows application tasks and an actor-critic agent framework for mou
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2312-13108/record.json
+
 ## Authors
 
 Difei Gao, Lei Ji, Zechen Bai, Mingyu Ouyang, Peiran Li, Dongxing Mao, Qinchen Wu, Weichen Zhang, Peiyi Wang, Xiangwu Guo, Hengxu Wang, Luowei Zhou, Mike Zheng Shou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2312-13108/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2312-13108/citation.csl.json
 
 ## Recorded arXiv snapshot
 

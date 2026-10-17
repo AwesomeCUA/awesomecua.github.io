@@ -16,9 +16,16 @@ Bibliographic record for WebGym: Scaling Training Environments for Visual Web Ag
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-02439/record.json
+
 ## Authors
 
 Hao Bai, Alexey Taymanov, Tong Zhang, Aviral Kumar, Spencer Whitehead
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-02439/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-02439/citation.csl.json
 
 ## Recorded arXiv snapshot
 

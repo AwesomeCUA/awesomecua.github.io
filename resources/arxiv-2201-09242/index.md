@@ -16,9 +16,16 @@ Bibliographic record for Task Scheduling in Cloud Computing Using Hybrid Meta-he
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2201-09242/record.json
+
 ## Authors
 
 Sandeep Kumar Patel, Avtar Singh
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2201-09242/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2201-09242/citation.csl.json
 
 ## Recorded arXiv snapshot
 

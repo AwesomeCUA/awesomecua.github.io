@@ -16,6 +16,8 @@ Screen-reading benchmark and Tree-of-Lens implementation for interpreting user-i
 
 The canonical repository now belongs to UCSB-AI. Its README lists additional setup documentation and evaluation scripts as unfinished.
 
+- Record JSON: https://awesomecua.github.io/resources/github-ucsb-ai-screen-point-and-read/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/UCSB-AI/Screen-Point-and-Read/HEAD/LICENSE

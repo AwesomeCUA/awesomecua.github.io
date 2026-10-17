@@ -16,6 +16,8 @@ Evaluation of multimodal models on visual web understanding tasks.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-visualwebbench-visualwebbench/record.json
+
 ## License declarations
 
 - code: not recorded

@@ -16,6 +16,8 @@ Benchmark for safety of computer-use agents across misuse, prompt injection, and
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-tml-epfl-os-harm/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/LICENSE

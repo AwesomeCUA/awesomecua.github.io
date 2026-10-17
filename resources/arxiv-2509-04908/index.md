@@ -16,9 +16,16 @@ Bibliographic record for SparkUI-Parser: Enhancing GUI Perception with Robust Gr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-04908/record.json
+
 ## Authors
 
 Hongyi Jing, Jiafu Chen, Chen Rao, Ziqiang Dang, Jiajie Teng, Tianyi Chu, Juncheng Mo, Shuo Fang, Huaizhong Lin, Rui Lv, Chenguang Ma, Lei Zhao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-04908/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-04908/citation.csl.json
 
 ## Recorded arXiv snapshot
 

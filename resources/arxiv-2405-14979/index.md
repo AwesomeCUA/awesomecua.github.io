@@ -16,9 +16,16 @@ Bibliographic record for CraftsMan3D: High-fidelity Mesh Generation with 3D Nati
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2405-14979/record.json
+
 ## Authors
 
 Weiyu Li, Jiarui Liu, Hongyu Yan, Rui Chen, Yixun Liang, Xuelin Chen, Ping Tan, Xiaoxiao Long
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2405-14979/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-14979/citation.csl.json
 
 ## Recorded arXiv snapshot
 

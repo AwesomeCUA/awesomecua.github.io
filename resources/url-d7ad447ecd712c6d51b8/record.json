@@ -1,0 +1,89 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "artifact_type": "model-checkpoint",
+    "disabled": false,
+    "download_url": "https://huggingface.co/stepfun-ai/GELab-Zero-4B-preview/tree/main",
+    "gated": false,
+    "hub_id": "stepfun-ai/GELab-Zero-4B-preview",
+    "languages": [
+      "en",
+      "zh"
+    ],
+    "modalities": [],
+    "size_category_reported": null
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:50:49Z",
+      "role": "primary",
+      "sha256": "cd1efa947316f13967165ac906400170df6d28446804ba0763a49fc21a731e7e",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/api/models/stepfun-ai/GELab-Zero-4B-preview"
+    },
+    {
+      "method": "huggingface_api",
+      "retrieved_at": "2026-10-16T06:50:49Z",
+      "role": "primary",
+      "sha256": "cd1efa947316f13967165ac906400170df6d28446804ba0763a49fc21a731e7e",
+      "supports": [
+        "details",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/api/models/stepfun-ai/GELab-Zero-4B-preview"
+    }
+  ],
+  "id": "url:d7ad447ecd712c6d51b8",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-16T06:50:49Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "publisher model/dataset card",
+      "declared": "apache-2.0",
+      "retrieved_at": "2026-10-16T06:50:49Z",
+      "url": "https://huggingface.co/stepfun-ai/GELab-Zero-4B-preview"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/stepfun-ai/GELab-Zero-4B-preview"
+    }
+  ],
+  "name": "GELab Zero 4B Preview",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/api/models/stepfun-ai/GELab-Zero-4B-preview",
+      "target_id": "github:stepfun-ai/gelab-zero",
+      "type": "variant_of"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Released model checkpoint associated with GELab Zero.",
+  "topics": [
+    "mobile-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/stepfun-ai/GELab-Zero-4B-preview"
+}

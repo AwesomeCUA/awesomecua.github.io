@@ -16,9 +16,16 @@ LearnAct parses human demonstrations into reusable knowledge, retrieves relevant
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-13805/record.json
+
 ## Authors
 
 Guangyi Liu, Pengxiang Zhao, Liang Liu, Zhiming Chen, Yuxiang Chai, Shuai Ren, Hao Wang, Shibo He, Wenchao Meng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-13805/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-13805/citation.csl.json
 
 ## Recorded arXiv snapshot
 

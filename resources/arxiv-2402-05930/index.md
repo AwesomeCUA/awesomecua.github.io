@@ -16,9 +16,16 @@ Collects expert demonstrations of conversational web navigation and studies retr
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-05930/record.json
+
 ## Authors
 
 Xing Han Lù, Zdeněk Kasner, Siva Reddy
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-05930/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-05930/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Introduces PAIR for controlled evaluation of mobile GUI agents across user-condi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-07972/record.json
+
 ## Authors
 
 Yeji Park, Jaeyun Shim, Taesik Gong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-07972/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-07972/citation.csl.json
 
 ## Recorded arXiv snapshot
 

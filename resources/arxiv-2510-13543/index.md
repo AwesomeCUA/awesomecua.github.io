@@ -16,9 +16,16 @@ Bibliographic record for In-Browser LLM-Guided Fuzzing for Real-Time Prompt Inje
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-13543/record.json
+
 ## Authors
 
 Avihay Cohen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-13543/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-13543/citation.csl.json
 
 ## Recorded arXiv snapshot
 

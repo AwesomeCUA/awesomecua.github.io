@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2604.23941",
+  "citation-key": "arxiv_2604_23941",
+  "type": "article",
+  "title": "GoClick: Lightweight Element Grounding Model for Autonomous GUI Interaction",
+  "URL": "https://arxiv.org/abs/2604.23941v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.23941",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2604.23941",
+    "identifiers": {
+      "arxiv": "2604.23941"
+    },
+    "first_published_at": "2026-04-27",
+    "record_updated_at": "2026-04-27",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3fe6a322737dd58339673bb1c956345ff585d79df6185ce1f9eaa452b37a1e01",
+      "submitted_at": "2026-04-27T01:29:02Z",
+      "updated_at": "2026-04-27T01:29:02Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.23941v1"
+    }
+  },
+  "note": "First published: 2026-04-27; Recorded arXiv version: v1; Recorded version updated: 2026-04-27T01:29:02Z.",
+  "author": [
+    {
+      "literal": "Hongxin Li"
+    },
+    {
+      "literal": "Yuntao Chen"
+    },
+    {
+      "literal": "Zhaoxiang Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.23941",
+  "genre": "preprint",
+  "version": "1"
+}

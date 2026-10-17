@@ -16,9 +16,16 @@ Bibliographic record for RiskWebWorld: A Realistic Interactive Benchmark for GUI
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-13531/record.json
+
 ## Authors
 
 Renqi Chen, Zeyin Tao, Jianming Guo, Jing Wang, Zezhou Xu, Jingzhe Zhu, Qingqing Sun, Tianyi Zhang, Shuai Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-13531/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-13531/citation.csl.json
 
 ## Recorded arXiv snapshot
 

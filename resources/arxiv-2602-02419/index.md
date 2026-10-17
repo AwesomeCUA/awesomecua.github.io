@@ -16,9 +16,16 @@ Introduces SafeGround, which estimates GUI-grounding uncertainty from the spatia
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-02419/record.json
+
 ## Authors
 
 Qingni Wang, Yue Fan, Xin Eric Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-02419/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-02419/citation.csl.json
 
 ## Recorded arXiv snapshot
 

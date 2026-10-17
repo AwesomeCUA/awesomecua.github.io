@@ -16,9 +16,16 @@ Bibliographic record for D-GARA: A Dynamic Benchmarking Framework for GUI Agent 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-16590/record.json
+
 ## Authors
 
 Sen Chen, Tong Zhao, Yi Bin, Fei Ma, Wenqi Shao, Zheng Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-16590/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-16590/citation.csl.json
 
 ## Recorded arXiv snapshot
 

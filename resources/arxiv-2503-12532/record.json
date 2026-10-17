@@ -1,0 +1,90 @@
+{
+  "aliases": [],
+  "authors": [
+    "Fanbin Lu",
+    "Zhisheng Zhong",
+    "Ziqin Wei",
+    "Shu Liu",
+    "Chi-Wing Fu",
+    "Jiaya Jia"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e883289bafee01759a0f4f3f7051cbbebdcd8059e7520d68c25ba313b8da69a6",
+      "submitted_at": "2025-03-16T14:53:43Z",
+      "updated_at": "2025-03-24T16:33:28Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2503.12532v2"
+    }
+  },
+  "environments": [
+    "desktop",
+    "windows"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:54Z",
+      "role": "primary",
+      "sha256": "4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:54Z",
+      "role": "primary",
+      "sha256": "4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2503.12532",
+  "identifiers": {
+    "arxiv": "2503.12532"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:54Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2503.12532"
+    }
+  ],
+  "name": "STEVE: A Step Verification Pipeline for Computer-use Agent Training",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2025-03-16",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Labels individual computer-use actions by comparing surrounding screenshots, then trains agents from both successful and unsuccessful steps.",
+  "topics": [
+    "data-generation",
+    "evaluation",
+    "reinforcement-learning"
+  ],
+  "updated_at": "2025-03-24",
+  "url": "https://arxiv.org/abs/2503.12532"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2604.14668",
+  "citation-key": "arxiv_2604_14668",
+  "type": "article",
+  "title": "Beyond Chat and Clicks: GUI Agents for In-Situ Assistance via Live Interface Transformation",
+  "URL": "https://arxiv.org/abs/2604.14668v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.14668",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.14668",
+    "identifiers": {
+      "arxiv": "2604.14668"
+    },
+    "first_published_at": "2026-04-16",
+    "record_updated_at": "2026-04-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bd3b5e5b9a607023c82150673255eaf2f90c22db86d3c049b2a2fd536aaef17f",
+      "submitted_at": "2026-04-16T06:22:48Z",
+      "updated_at": "2026-04-16T06:22:48Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.14668v1"
+    }
+  },
+  "note": "First published: 2026-04-16; Recorded arXiv version: v1; Recorded version updated: 2026-04-16T06:22:48Z.",
+  "author": [
+    {
+      "literal": "Pan Hao"
+    },
+    {
+      "literal": "Rishi Selvakumaran"
+    },
+    {
+      "literal": "Jacob Sun"
+    },
+    {
+      "literal": "Qianwen Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.14668",
+  "genre": "preprint",
+  "version": "1"
+}

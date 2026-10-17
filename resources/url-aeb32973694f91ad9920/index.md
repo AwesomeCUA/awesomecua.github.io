@@ -16,6 +16,8 @@ A Qwen2.5-VL-based GUI checkpoint released with Mobile-Agent-v3 for grounded act
 
 Five public safetensors shards are present. MIT is declared in this model card. This record identifies the original 7B release; other sizes and later GUI-Owl generations are not aliases or assumed to share its exact terms. The online demo is still marked forthcoming.
 
+- Record JSON: https://awesomecua.github.io/resources/url-aeb32973694f91ad9920/record.json
+
 ## License declarations
 
 - code: not recorded

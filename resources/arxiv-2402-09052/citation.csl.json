@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2402.09052",
+  "citation-key": "arxiv_2402_09052",
+  "type": "article",
+  "title": "L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects",
+  "URL": "https://arxiv.org/abs/2402.09052v1",
+  "custom": {
+    "catalog_id": "arxiv:2402.09052",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2402.09052",
+    "identifiers": {
+      "arxiv": "2402.09052"
+    },
+    "first_published_at": "2024-02-14",
+    "record_updated_at": "2024-02-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ccdaf1ad4432ad417773eb0bbd78296d8ab48221b64f6b52328ce705f2c05007",
+      "submitted_at": "2024-02-14T09:51:05Z",
+      "updated_at": "2024-02-14T09:51:05Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2402.09052v1"
+    }
+  },
+  "note": "First published: 2024-02-14; Recorded arXiv version: v1; Recorded version updated: 2024-02-14T09:51:05Z.",
+  "author": [
+    {
+      "literal": "Yutaro Yamada"
+    },
+    {
+      "literal": "Khyathi Chandu"
+    },
+    {
+      "literal": "Yuchen Lin"
+    },
+    {
+      "literal": "Jack Hessel"
+    },
+    {
+      "literal": "Ilker Yildirim"
+    },
+    {
+      "literal": "Yejin Choi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.09052",
+  "genre": "preprint",
+  "version": "1"
+}

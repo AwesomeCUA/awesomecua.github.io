@@ -16,9 +16,16 @@ Bibliographic record for Fine-Tuning Large Vision-Language Models as Decision-Ma
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2405-10292/record.json
+
 ## Authors
 
 Yuexiang Zhai, Hao Bai, Zipeng Lin, Jiayi Pan, Shengbang Tong, Yifei Zhou, Alane Suhr, Saining Xie, Yann LeCun, Yi Ma, Sergey Levine
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2405-10292/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-10292/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for General Scales Unlock AI Evaluation with Explanatory an
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-06378/record.json
+
 ## Authors
 
 Lexin Zhou, Lorenzo Pacchiardi, Fernando Martínez-Plumed, Katherine M. Collins, Yael Moros-Daval, Seraphina Zhang, Qinlin Zhao, Yitian Huang, Luning Sun, Jonathan E. Prunty, Zongqian Li, Pablo Sánchez-García, Kexin Jiang Chen, Pablo A. M. Casares, Jiyun Zu, John Burden, Behzad Mehrbakhsh, David Stillwell, Manuel Cebrian, Jindong Wang, Peter Henderson, Sherry Tongshuang Wu, Patrick C. Kyllonen, Lucy Cheke, Xing Xie, José Hernández-Orallo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-06378/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-06378/citation.csl.json
 
 ## Recorded arXiv snapshot
 

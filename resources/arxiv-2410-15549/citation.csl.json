@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2410.15549",
+  "citation-key": "arxiv_2410_15549",
+  "type": "article",
+  "title": "A Dual Process VLA: Efficient Robotic Manipulation Leveraging VLM",
+  "URL": "https://arxiv.org/abs/2410.15549v1",
+  "custom": {
+    "catalog_id": "arxiv:2410.15549",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2410.15549",
+    "identifiers": {
+      "arxiv": "2410.15549"
+    },
+    "first_published_at": "2024-10-21",
+    "record_updated_at": "2024-10-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "41a0d429d88819301715374cd95b5a8e7d758ec1da32a2a5c7ccf8f9b29f1647",
+      "submitted_at": "2024-10-21T00:36:02Z",
+      "updated_at": "2024-10-21T00:36:02Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2410.15549v1"
+    }
+  },
+  "note": "First published: 2024-10-21; Recorded arXiv version: v1; Recorded version updated: 2024-10-21T00:36:02Z.",
+  "author": [
+    {
+      "literal": "ByungOk Han"
+    },
+    {
+      "literal": "Jaehong Kim"
+    },
+    {
+      "literal": "Jinhyeok Jang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.15549",
+  "genre": "preprint",
+  "version": "1"
+}

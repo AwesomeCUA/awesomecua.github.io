@@ -1,0 +1,125 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "dataset_profile": {
+      "counts": [],
+      "evidence_urls": [
+        "https://huggingface.co/datasets/xTRam1/plan-and-act-data/raw/main/README.md",
+        "https://huggingface.co/api/datasets/xTRam1/plan-and-act-data"
+      ],
+      "formats": [
+        "JSON",
+        "JSONL"
+      ],
+      "modalities": [
+        "text",
+        "plans",
+        "actions"
+      ],
+      "notes": "The release contains planner and actor files for two web environments. No sample count is inferred from the package-file manifest. Card loading examples have repository/path inconsistencies.",
+      "splits": [
+        "train (QwQ-32B files)",
+        "validation (QwQ-32B files)"
+      ],
+      "supervision": [
+        "high-level plans",
+        "action execution"
+      ]
+    },
+    "disabled": false,
+    "download_url": "https://huggingface.co/datasets/xTRam1/plan-and-act-data/tree/main",
+    "gated": false,
+    "hub_id": "xTRam1/plan-and-act-data",
+    "languages": [],
+    "modalities": [],
+    "sample_count": null,
+    "sample_unit": null
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:29Z",
+      "role": "primary",
+      "sha256": "2ec8f4a03b8331bdd2ba8d6f6800d6dea9d955cfd9e7c1d2168ecb64deb25448",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/datasets/xTRam1/plan-and-act-data/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:28Z",
+      "role": "primary",
+      "sha256": "a98f98b7d4ceb81b00f217983ff271257f2f1e7d2c1a09836b872b2350d79ae9",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/api/datasets/xTRam1/plan-and-act-data"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T02:02:29Z",
+      "role": "primary",
+      "sha256": "2ec8f4a03b8331bdd2ba8d6f6800d6dea9d955cfd9e7c1d2168ecb64deb25448",
+      "supports": [
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/datasets/xTRam1/plan-and-act-data/raw/main/README.md"
+    }
+  ],
+  "id": "url:ba6453cfdae0eb049ced",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-17T02:02:29Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "mit",
+      "retrieved_at": "2026-10-17T02:02:29Z",
+      "url": "https://huggingface.co/datasets/xTRam1/plan-and-act-data/raw/main/README.md"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/xTRam1/plan-and-act-data"
+    }
+  ],
+  "name": "Plan-and-Act training data",
+  "notes": "The public manifest exposes JSON/JSONL data for planner and actor roles, including train and validation variants. The card declares MIT. Its loading examples use a different Hub repository identifier and omit the data/ prefix for one file; use the inspected xTRam1 manifest rather than copying those examples verbatim. Third-party site content retains its own terms.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/xTRam1/plan-and-act-data/raw/main/README.md",
+      "target_id": "arxiv:2503.09572",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Planner and action-executor training examples for WebArena-Lite and WebVoyager, with model-specific processed files and raw trajectory annotations.",
+  "topics": [
+    "planning",
+    "web-navigation",
+    "data-generation"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/xTRam1/plan-and-act-data"
+}

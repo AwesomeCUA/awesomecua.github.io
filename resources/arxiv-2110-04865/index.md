@@ -16,9 +16,16 @@ Bibliographic record for Parallel Minimum Spanning Forest Computation using Spar
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2110-04865/record.json
+
 ## Authors
 
 Tim Baer, Raghavendra Kanakagiri, Edgar Solomonik
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2110-04865/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2110-04865/citation.csl.json
 
 ## Recorded arXiv snapshot
 

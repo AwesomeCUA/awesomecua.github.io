@@ -16,9 +16,16 @@ Introduces MONDAY and an automated pipeline that extracts mobile-navigation trai
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-12632/record.json
+
 ## Authors
 
 Yunseok Jang, Yeda Song, Sungryull Sohn, Lajanugen Logeswaran, Tiange Luo, Dong-Ki Kim, Kyunghoon Bae, Honglak Lee
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-12632/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-12632/citation.csl.json
 
 ## Recorded arXiv snapshot
 

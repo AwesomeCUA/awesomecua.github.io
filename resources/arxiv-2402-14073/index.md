@@ -16,9 +16,16 @@ Studies language understanding from text-rendered screenshots using joint image-
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-14073/record.json
+
 ## Authors
 
 Tianyu Gao, Zirui Wang, Adithya Bhaskar, Danqi Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-14073/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-14073/citation.csl.json
 
 ## Recorded arXiv snapshot
 

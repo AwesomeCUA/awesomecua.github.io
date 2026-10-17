@@ -16,9 +16,16 @@ Bibliographic record for Why Are Web AI Agents More Vulnerable Than Standalone L
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-20383/record.json
+
 ## Authors
 
 Jeffrey Yang Fan Chiang, Seungjae Lee, Jia-Bin Huang, Furong Huang, Yizheng Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-20383/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-20383/citation.csl.json
 
 ## Recorded arXiv snapshot
 

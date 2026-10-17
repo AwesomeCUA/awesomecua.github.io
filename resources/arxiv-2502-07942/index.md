@@ -16,9 +16,16 @@ Couples large- and small-model web-agent exploration with trajectory synthesis a
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-07942/record.json
+
 ## Authors
 
 Ruichen Zhang, Mufan Qiu, Zhen Tan, Mohan Zhang, Vincent Lu, Jie Peng, Kaidi Xu, Leandro Z. Agudelo, Peter Qian, Tianlong Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-07942/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-07942/citation.csl.json
 
 ## Recorded arXiv snapshot
 

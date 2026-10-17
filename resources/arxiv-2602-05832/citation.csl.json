@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2602.05832",
+  "citation-key": "arxiv_2602_05832",
+  "type": "article",
+  "title": "UI-Mem: Self-Evolving Experience Memory for Online Reinforcement Learning in Mobile GUI Agents",
+  "URL": "https://arxiv.org/abs/2602.05832v1",
+  "custom": {
+    "catalog_id": "arxiv:2602.05832",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.05832",
+    "identifiers": {
+      "arxiv": "2602.05832"
+    },
+    "first_published_at": "2026-02-05",
+    "record_updated_at": "2026-02-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f51eb0b7102a37fcc705c53640c5a1d30fcc115cedcdca4a00493ed45b9d5507",
+      "submitted_at": "2026-02-05T16:21:43Z",
+      "updated_at": "2026-02-05T16:21:43Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2602.05832v1"
+    }
+  },
+  "note": "First published: 2026-02-05; Recorded arXiv version: v1; Recorded version updated: 2026-02-05T16:21:43Z.",
+  "author": [
+    {
+      "literal": "Han Xiao"
+    },
+    {
+      "literal": "Guozhi Wang"
+    },
+    {
+      "literal": "Hao Wang"
+    },
+    {
+      "literal": "Shilong Liu"
+    },
+    {
+      "literal": "Yuxiang Chai"
+    },
+    {
+      "literal": "Yue Pan"
+    },
+    {
+      "literal": "Yufeng Zhou"
+    },
+    {
+      "literal": "Xiaoxin Chen"
+    },
+    {
+      "literal": "Yafei Wen"
+    },
+    {
+      "literal": "Hongsheng Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.05832",
+  "genre": "preprint",
+  "version": "1"
+}

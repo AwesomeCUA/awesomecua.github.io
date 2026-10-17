@@ -1,0 +1,67 @@
+{
+  "aliases": [],
+  "authors": [
+    "Evgenia Christoforou",
+    "Antonio Fernández Anta",
+    "Chryssis Georgiou",
+    "Miguel A. Mosteiro"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "db570f4f7c1af30eb3738cbda9cd694eb12e562744716b5495247cd98aeb26b0",
+      "submitted_at": "2016-03-14T19:07:53Z",
+      "updated_at": "2016-03-30T09:09:13Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/1603.04394v2"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:37:09Z",
+      "role": "primary",
+      "sha256": "a3ebf2fcfa181413d078dc3408f17bfabfac87f9aee1c78994840197df701e9d",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=1100&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:1603.04394",
+  "identifiers": {
+    "arxiv": "1603.04394"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:37:09Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/1603.04394"
+    }
+  ],
+  "name": "Internet Computing: Using Reputation to Select Workers from a Pool",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2016-03-14",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2016-03-30",
+  "url": "https://arxiv.org/abs/1603.04394"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2604.09937",
+  "citation-key": "arxiv_2604_09937",
+  "type": "article",
+  "title": "HealthAdminBench: Evaluating Computer-Use Agents on Healthcare Administration Tasks",
+  "URL": "https://arxiv.org/abs/2604.09937v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.09937",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.09937",
+    "identifiers": {
+      "arxiv": "2604.09937"
+    },
+    "first_published_at": "2026-04-10",
+    "record_updated_at": "2026-04-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "55cedd4ad9760618fe9b3354e384f69b69b23b65f75837a3898484c9c6e55586",
+      "submitted_at": "2026-04-10T22:33:39Z",
+      "updated_at": "2026-04-10T22:33:39Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.09937v1"
+    }
+  },
+  "note": "First published: 2026-04-10; Recorded arXiv version: v1; Recorded version updated: 2026-04-10T22:33:39Z.",
+  "author": [
+    {
+      "literal": "Suhana Bedi"
+    },
+    {
+      "literal": "Ryan Welch"
+    },
+    {
+      "literal": "Ethan Steinberg"
+    },
+    {
+      "literal": "Michael Wornow"
+    },
+    {
+      "literal": "Taeil Matthew Kim"
+    },
+    {
+      "literal": "Haroun Ahmed"
+    },
+    {
+      "literal": "Peter Sterling"
+    },
+    {
+      "literal": "Bravim Purohit"
+    },
+    {
+      "literal": "Qurat Akram"
+    },
+    {
+      "literal": "Angelic Acosta"
+    },
+    {
+      "literal": "Esther Nubla"
+    },
+    {
+      "literal": "Pritika Sharma"
+    },
+    {
+      "literal": "Michael A. Pfeffer"
+    },
+    {
+      "literal": "Sanmi Koyejo"
+    },
+    {
+      "literal": "Nigam H. Shah"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.09937",
+  "genre": "preprint",
+  "version": "1"
+}

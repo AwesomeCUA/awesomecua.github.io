@@ -16,9 +16,16 @@ Bibliographic record for SafeScientist: Toward Risk-Aware Scientific Discoveries
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-23559/record.json
+
 ## Authors
 
 Kunlun Zhu, Jiaxun Zhang, Ziheng Qi, Nuoxing Shang, Zijia Liu, Peixuan Han, Yue Su, Haofei Yu, Jiaxuan You
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-23559/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-23559/citation.csl.json
 
 ## Recorded arXiv snapshot
 

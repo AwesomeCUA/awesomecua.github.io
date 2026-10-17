@@ -16,9 +16,16 @@ Bibliographic record for SusBench: An Online Benchmark for Evaluating Dark Patte
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-11035/record.json
+
 ## Authors
 
 Longjie Guo, Chenjie Yuan, Mingyuan Zhong, Robert Wolfe, Ruican Zhong, Yue Xu, Bingbing Wen, Hua Shen, Lucy Lu Wang, Alexis Hiniker
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-11035/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-11035/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2502.14496",
+  "citation-key": "arxiv_2502_14496",
+  "type": "article",
+  "title": "Advancing Language Multi-Agent Learning with Credit Re-Assignment for Interactive Environment Generalization",
+  "URL": "https://arxiv.org/abs/2502.14496v3",
+  "custom": {
+    "catalog_id": "arxiv:2502.14496",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2502.14496",
+    "identifiers": {
+      "arxiv": "2502.14496"
+    },
+    "first_published_at": "2025-02-20",
+    "record_updated_at": "2025-08-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9dc80d2365e9134283f2094edb5f4d1025d32617b45f33320edb4d825264b318",
+      "submitted_at": "2025-02-20T12:26:15Z",
+      "updated_at": "2025-08-20T09:42:24Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2502.14496v3"
+    }
+  },
+  "note": "First published: 2025-02-20; Recorded arXiv version: v3; Recorded version updated: 2025-08-20T09:42:24Z.",
+  "author": [
+    {
+      "literal": "Zhitao He"
+    },
+    {
+      "literal": "Zijun Liu"
+    },
+    {
+      "literal": "Peng Li"
+    },
+    {
+      "literal": "Yi R. Fung"
+    },
+    {
+      "literal": "Ming Yan"
+    },
+    {
+      "literal": "Ji Zhang"
+    },
+    {
+      "literal": "Fei Huang"
+    },
+    {
+      "literal": "Yang Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.14496",
+  "genre": "preprint",
+  "version": "3"
+}

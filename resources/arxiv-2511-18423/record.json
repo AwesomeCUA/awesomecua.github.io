@@ -1,0 +1,68 @@
+{
+  "aliases": [],
+  "authors": [
+    "B. Y. Yan",
+    "Chaofan Li",
+    "Hongjin Qian",
+    "Shuqi Lu",
+    "Zheng Liu"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ed3d008702ec93c56550f82e763534b9c35014392369d904a3fad0ee0e44405c",
+      "submitted_at": "2025-11-23T12:29:33Z",
+      "updated_at": "2025-11-23T12:29:33Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2511.18423v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T07:54:03Z",
+      "role": "primary",
+      "sha256": "13d5969845070cd2877dc51ae5300c2d623e5daef00c8a1552ffa46af3f721a5",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2401.05507%2C2406.07275%2C2409.16427%2C2410.00079%2C2503.07701%2C2503.22738%2C2505.15859%2C2505.17735%2C2505.23596%2C2507.05257%2C2507.06134%2C2507.21953%2C2507.23336%2C2508.06960%2C2508.08997%2C2509.02473%2C2509.23694%2C2510.09116%2C2510.14438%2C2511.18423%2C2512.12818%2C2512.13564%2C2601.10758%2C2601.12449%2C2601.21841%2C2603.01152%2C2603.19993%2C2603.20576%2C2604.04503%2C2604.17562%2C2604.23941%2C2605.16265%2C2606.06448%2C2606.06462%2C2606.29193%2C2607.01647%2C2607.13157&max_results=37"
+    }
+  ],
+  "id": "arxiv:2511.18423",
+  "identifiers": {
+    "arxiv": "2511.18423"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T07:54:03Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2511.18423"
+    }
+  ],
+  "name": "General Agentic Memory Via Deep Research",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2025-11-23",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2025-11-23",
+  "url": "https://arxiv.org/abs/2511.18423"
+}

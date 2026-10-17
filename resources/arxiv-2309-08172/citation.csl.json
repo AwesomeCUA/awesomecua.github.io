@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2309.08172",
+  "citation-key": "arxiv_2309_08172",
+  "type": "article",
+  "title": "LASER: LLM Agent with State-Space Exploration for Web Navigation",
+  "URL": "https://arxiv.org/abs/2309.08172v2",
+  "custom": {
+    "catalog_id": "arxiv:2309.08172",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2309.08172",
+    "identifiers": {
+      "arxiv": "2309.08172"
+    },
+    "first_published_at": "2023-09-15",
+    "record_updated_at": "2024-02-21",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "399c97382cac325a9d60a073a14221dee6ee6254cb0b8aa88a5341a7bb758c97",
+      "submitted_at": "2023-09-15T05:44:08Z",
+      "updated_at": "2024-02-21T17:42:32Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2309.08172v2"
+    }
+  },
+  "note": "First published: 2023-09-15; Recorded arXiv version: v2; Recorded version updated: 2024-02-21T17:42:32Z.",
+  "author": [
+    {
+      "literal": "Kaixin Ma"
+    },
+    {
+      "literal": "Hongming Zhang"
+    },
+    {
+      "literal": "Hongwei Wang"
+    },
+    {
+      "literal": "Xiaoman Pan"
+    },
+    {
+      "literal": "Wenhao Yu"
+    },
+    {
+      "literal": "Dong Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2309.08172",
+  "genre": "preprint",
+  "version": "2"
+}

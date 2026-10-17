@@ -16,9 +16,16 @@ UI-Genie jointly improves a mobile GUI agent and a reward model that processes s
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-21496/record.json
+
 ## Authors
 
 Han Xiao, Guozhi Wang, Yuxiang Chai, Zimu Lu, Weifeng Lin, Hao He, Lue Fan, Liuyang Bian, Rui Hu, Liang Liu, Shuai Ren, Yafei Wen, Xiaoxin Chen, Aojun Zhou, Hongsheng Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-21496/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-21496/citation.csl.json
 
 ## Recorded arXiv snapshot
 

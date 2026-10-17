@@ -16,9 +16,16 @@ Bibliographic record for A Multimodal GUI Architecture for Interfacing with LLM-
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-06223/record.json
+
 ## Authors
 
 Hans G. W. van Dam
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-06223/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-06223/citation.csl.json
 
 ## Recorded arXiv snapshot
 

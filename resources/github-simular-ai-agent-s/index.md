@@ -16,6 +16,8 @@ Agent framework for general computer interaction.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-simular-ai-agent-s/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/simular-ai/Agent-S/HEAD/LICENSE

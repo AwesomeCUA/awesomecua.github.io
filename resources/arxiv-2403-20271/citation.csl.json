@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2403.20271",
+  "citation-key": "arxiv_2403_20271",
+  "type": "article",
+  "title": "Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want",
+  "URL": "https://arxiv.org/abs/2403.20271v3",
+  "custom": {
+    "catalog_id": "arxiv:2403.20271",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2403.20271",
+    "identifiers": {
+      "arxiv": "2403.20271"
+    },
+    "first_published_at": "2024-03-29",
+    "record_updated_at": "2025-02-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c6636a8203076662b5d06ffd29c6578d68b8a79a11d9f3b58483fc2dbbf2c96b",
+      "submitted_at": "2024-03-29T16:26:20Z",
+      "updated_at": "2025-02-22T14:02:39Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2403.20271v3"
+    }
+  },
+  "note": "First published: 2024-03-29; Recorded arXiv version: v3; Recorded version updated: 2025-02-22T14:02:39Z.",
+  "author": [
+    {
+      "literal": "Weifeng Lin"
+    },
+    {
+      "literal": "Xinyu Wei"
+    },
+    {
+      "literal": "Ruichuan An"
+    },
+    {
+      "literal": "Peng Gao"
+    },
+    {
+      "literal": "Bocheng Zou"
+    },
+    {
+      "literal": "Yulin Luo"
+    },
+    {
+      "literal": "Siyuan Huang"
+    },
+    {
+      "literal": "Shanghang Zhang"
+    },
+    {
+      "literal": "Hongsheng Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.20271",
+  "genre": "preprint",
+  "version": "3"
+}

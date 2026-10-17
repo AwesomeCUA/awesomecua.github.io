@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2406.14596",
+  "citation-key": "arxiv_2406_14596",
+  "type": "article",
+  "title": "VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought",
+  "URL": "https://arxiv.org/abs/2406.14596v6",
+  "custom": {
+    "catalog_id": "arxiv:2406.14596",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2406.14596",
+    "identifiers": {
+      "arxiv": "2406.14596"
+    },
+    "first_published_at": "2024-06-20",
+    "record_updated_at": "2025-09-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "698e2c444a587a109bbc7b3d64b812a3d0cf2ef7148ff02e3e6fe13f19f193fd",
+      "submitted_at": "2024-06-20T17:45:02Z",
+      "updated_at": "2025-09-18T02:44:34Z",
+      "version": 6,
+      "versioned_url": "https://arxiv.org/abs/2406.14596v6"
+    }
+  },
+  "note": "First published: 2024-06-20; Recorded arXiv version: v6; Recorded version updated: 2025-09-18T02:44:34Z.",
+  "author": [
+    {
+      "literal": "Gabriel Sarch"
+    },
+    {
+      "literal": "Lawrence Jang"
+    },
+    {
+      "literal": "Michael J. Tarr"
+    },
+    {
+      "literal": "William W. Cohen"
+    },
+    {
+      "literal": "Kenneth Marino"
+    },
+    {
+      "literal": "Katerina Fragkiadaki"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.14596",
+  "genre": "preprint",
+  "version": "6"
+}

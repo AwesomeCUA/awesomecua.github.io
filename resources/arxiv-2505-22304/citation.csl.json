@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2505.22304",
+  "citation-key": "arxiv_2505_22304",
+  "type": "article",
+  "title": "CADReview: Automatically Reviewing CAD Programs with Error Detection and Correction",
+  "URL": "https://arxiv.org/abs/2505.22304v1",
+  "custom": {
+    "catalog_id": "arxiv:2505.22304",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.22304",
+    "identifiers": {
+      "arxiv": "2505.22304"
+    },
+    "first_published_at": "2025-05-28",
+    "record_updated_at": "2025-05-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3b21d81b786afb70bfcc388082ac6f92fe728bf2383eaf9e61bdf9599f8dea33",
+      "submitted_at": "2025-05-28T12:41:00Z",
+      "updated_at": "2025-05-28T12:41:00Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2505.22304v1"
+    }
+  },
+  "note": "First published: 2025-05-28; Recorded arXiv version: v1; Recorded version updated: 2025-05-28T12:41:00Z.",
+  "author": [
+    {
+      "literal": "Jiali Chen"
+    },
+    {
+      "literal": "Xusen Hei"
+    },
+    {
+      "literal": "HongFei Liu"
+    },
+    {
+      "literal": "Yuancheng Wei"
+    },
+    {
+      "literal": "Zikun Deng"
+    },
+    {
+      "literal": "Jiayuan Xie"
+    },
+    {
+      "literal": "Yi Cai"
+    },
+    {
+      "literal": "Li Qing"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.22304",
+  "genre": "preprint",
+  "version": "1"
+}

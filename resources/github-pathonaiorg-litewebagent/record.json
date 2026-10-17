@@ -1,0 +1,78 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T13:14:29Z",
+      "role": "primary",
+      "sha256": "75f99d9388aee3e0b124ebdb5f33e08fbe8ec999ce1e9eba5cd71c21e60522e0",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/PathOnAI/LiteWebAgent/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T13:29:25Z",
+      "role": "primary",
+      "sha256": "ec6ef142e3900e9f5555009b825387e41da67a77a24ee72ef6963c99b065e6eb",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/PathOnAIOrg/LiteWebAgent/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:pathonaiorg/litewebagent",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-16T13:14:29Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T13:29:25Z",
+      "url": "https://raw.githubusercontent.com/PathOnAIOrg/LiteWebAgent/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/PathOnAIOrg/LiteWebAgent"
+    }
+  ],
+  "name": "LiteWebAgent",
+  "notes": "The repository is maintained by the PathOnAI.org research community; its README explicitly disclaims affiliation with a for-profit company.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/PathOnAI/LiteWebAgent/HEAD/README.md",
+      "target_id": "arxiv:2503.02950",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Modular web-agent framework with browser control, planning, workflow memory, and tree-search components, plus web and extension interfaces.",
+  "topics": [
+    "web-navigation",
+    "planning",
+    "memory",
+    "tool-integration"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/PathOnAIOrg/LiteWebAgent"
+}

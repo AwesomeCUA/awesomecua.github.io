@@ -1,0 +1,93 @@
+{
+  "aliases": [],
+  "authors": [
+    "Weizhen Li",
+    "Jianbo Lin",
+    "Zhuosong Jiang",
+    "Jingyi Cao",
+    "Xinpeng Liu",
+    "Jiayu Zhang",
+    "Zhenqiang Huang",
+    "Qianben Chen",
+    "Weichen Sun",
+    "Qiexiang Wang",
+    "Hongxuan Lu",
+    "Tianrui Qin",
+    "Chenghao Zhu",
+    "Yi Yao",
+    "Shuying Fan",
+    "Xiaowan Li",
+    "Tiannan Wang",
+    "Pai Liu",
+    "King Zhu",
+    "He Zhu",
+    "Dingfeng Shi",
+    "Piaohong Wang",
+    "Yeyi Guan",
+    "Xiangru Tang",
+    "Minghao Liu",
+    "Yuchen Eleanor Jiang",
+    "Jian Yang",
+    "Jiaheng Liu",
+    "Ge Zhang",
+    "Wangchunshu Zhou"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "de15b704965fa2daf2e4940e3bf8d3312b38e17c18434a9cd3a0c843f85724e8",
+      "submitted_at": "2025-08-06T17:01:02Z",
+      "updated_at": "2025-08-06T17:01:02Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2508.13167v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:31:49Z",
+      "role": "primary",
+      "sha256": "c208e36ae75cef4b32cfcb2f8182dd4aaaa218e3119bb3d4a2c20a5832f8b1ee",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2506.10387%2C2506.14866%2C2506.20332%2C2507.00008%2C2507.02592%2C2507.03730%2C2507.04227%2C2507.05445%2C2507.05673%2C2507.05720%2C2507.05791%2C2507.14293%2C2507.14799%2C2507.15846%2C2507.16853%2C2507.19132%2C2507.19478%2C2507.21071%2C2507.22025%2C2507.22358%2C2507.23779%2C2508.00935%2C2508.01330%2C2508.03700%2C2508.03923%2C2508.04010%2C2508.04026%2C2508.04482%2C2508.04700%2C2508.05615%2C2508.05731%2C2508.09057%2C2508.09123%2C2508.13167%2C2508.14040%2C2508.15144%2C2508.18689%2C2508.19679%2C2508.20096%2C2509.02544%2C2509.03891%2C2509.06477%2C2509.10723%2C2509.11250%2C2509.11543%2C2509.15221%2C2509.15566%2C2509.15738%2C2509.18119%2C2510.01354&max_results=50"
+    }
+  ],
+  "id": "arxiv:2508.13167",
+  "identifiers": {
+    "arxiv": "2508.13167"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:31:49Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2508.13167"
+    }
+  ],
+  "name": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2025-08-06",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2025-08-06",
+  "url": "https://arxiv.org/abs/2508.13167"
+}

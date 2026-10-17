@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2210.02663",
+  "citation-key": "arxiv_2210_02663",
+  "type": "article",
+  "title": "Towards Better Semantic Understanding of Mobile Interfaces",
+  "URL": "https://arxiv.org/abs/2210.02663v1",
+  "custom": {
+    "catalog_id": "arxiv:2210.02663",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2210.02663",
+    "identifiers": {
+      "arxiv": "2210.02663"
+    },
+    "first_published_at": "2022-10-06",
+    "record_updated_at": "2022-10-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "24d037f1abeb7708852ac5517ce02cc46622e359d9feab407f188c0657cc72f4",
+      "submitted_at": "2022-10-06T03:48:54Z",
+      "updated_at": "2022-10-06T03:48:54Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2210.02663v1"
+    }
+  },
+  "note": "First published: 2022-10-06; Recorded arXiv version: v1; Recorded version updated: 2022-10-06T03:48:54Z.",
+  "author": [
+    {
+      "literal": "Srinivas Sunkara"
+    },
+    {
+      "literal": "Maria Wang"
+    },
+    {
+      "literal": "Lijuan Liu"
+    },
+    {
+      "literal": "Gilles Baechler"
+    },
+    {
+      "literal": "Yu-Chung Hsiao"
+    },
+    {
+      "literal": "Jindong"
+    },
+    {
+      "literal": "Chen"
+    },
+    {
+      "literal": "Abhanshu Sharma"
+    },
+    {
+      "literal": "James Stout"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2210.02663",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2404.03648",
+  "citation-key": "arxiv_2404_03648",
+  "type": "article",
+  "title": "AutoWebGLM: A Large Language Model-based Web Navigating Agent",
+  "URL": "https://arxiv.org/abs/2404.03648v2",
+  "custom": {
+    "catalog_id": "arxiv:2404.03648",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2404.03648",
+    "identifiers": {
+      "arxiv": "2404.03648"
+    },
+    "first_published_at": "2024-04-04",
+    "record_updated_at": "2024-10-12",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "340206da25df688ff73da617fd66a872586d1e36981c431d18331cee9b9669e0",
+      "submitted_at": "2024-04-04T17:58:40Z",
+      "updated_at": "2024-10-12T05:05:38Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2404.03648v2"
+    }
+  },
+  "note": "First published: 2024-04-04; Recorded arXiv version: v2; Recorded version updated: 2024-10-12T05:05:38Z.",
+  "author": [
+    {
+      "literal": "Hanyu Lai"
+    },
+    {
+      "literal": "Xiao Liu"
+    },
+    {
+      "literal": "Iat Long Iong"
+    },
+    {
+      "literal": "Shuntian Yao"
+    },
+    {
+      "literal": "Yuxuan Chen"
+    },
+    {
+      "literal": "Pengbo Shen"
+    },
+    {
+      "literal": "Hao Yu"
+    },
+    {
+      "literal": "Hanchen Zhang"
+    },
+    {
+      "literal": "Xiaohan Zhang"
+    },
+    {
+      "literal": "Yuxiao Dong"
+    },
+    {
+      "literal": "Jie Tang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.03648",
+  "genre": "preprint",
+  "version": "2"
+}

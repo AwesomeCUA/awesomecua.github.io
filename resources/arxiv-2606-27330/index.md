@@ -16,9 +16,16 @@ Bibliographic record for Empowering GUI Agents via Autonomous Experience Explora
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-27330/record.json
+
 ## Authors
 
 Tianyi Men, Zhuoran Jin, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-27330/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-27330/citation.csl.json
 
 ## Recorded arXiv snapshot
 

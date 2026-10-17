@@ -16,9 +16,16 @@ PSPA-Bench evaluates personalized smartphone GUI behavior using user-specific in
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-29318/record.json
+
 ## Authors
 
 Hongyi Nie, Xunyuan Liu, Yudong Bai, Yaqing Wang, Yang Liu, Quanming Yao, Zhen Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-29318/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-29318/citation.csl.json
 
 ## Recorded arXiv snapshot
 

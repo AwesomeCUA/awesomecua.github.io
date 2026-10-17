@@ -16,9 +16,16 @@ Bibliographic record for A Task-State Representation for Long-Horizon Mobile GUI
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-00502/record.json
+
 ## Authors
 
 Yujie Zheng, Zikang Liu, Xin Zhao, Ji-Rong Wen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-00502/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-00502/citation.csl.json
 
 ## Recorded arXiv snapshot
 

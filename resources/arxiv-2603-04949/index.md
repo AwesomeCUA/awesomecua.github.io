@@ -16,9 +16,16 @@ TimeWarp tests web agents across multiple versions of the same sites, varying vi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-04949/record.json
+
 ## Authors
 
 Md Farhan Ishmam, Kenneth Marino
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-04949/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-04949/citation.csl.json
 
 ## Recorded arXiv snapshot
 

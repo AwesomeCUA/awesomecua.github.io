@@ -1,0 +1,82 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "metrics": [],
+    "task_count": null
+  },
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T10:43:11Z",
+      "role": "primary",
+      "sha256": "7567287ceee0ad2d3d5605abb44ac50463c1008f9b6309393695763cf2ce89bb",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/eric-ai-lab/Screen-Point-and-Read/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T10:48:42Z",
+      "role": "primary",
+      "sha256": "4748fb7d92f7a3a2a4a93353db96f6a2df547e5ea9ae87afa811c5423e96f363",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/UCSB-AI/Screen-Point-and-Read/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:ucsb-ai/screen-point-and-read",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-16T10:43:11Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-16T10:48:42Z",
+      "url": "https://raw.githubusercontent.com/UCSB-AI/Screen-Point-and-Read/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/UCSB-AI/Screen-Point-and-Read"
+    }
+  ],
+  "name": "Screen Point-and-Read / Tree-of-Lens",
+  "notes": "The canonical repository now belongs to UCSB-AI. Its README lists additional setup documentation and evaluation scripts as unfinished.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/eric-ai-lab/Screen-Point-and-Read/HEAD/README.md",
+      "target_id": "arxiv:2406.19263",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Screen-reading benchmark and Tree-of-Lens implementation for interpreting user-indicated regions and their layout context.",
+  "topics": [
+    "screen-understanding",
+    "grounding",
+    "evaluation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/UCSB-AI/Screen-Point-and-Read"
+}

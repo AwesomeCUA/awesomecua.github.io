@@ -16,9 +16,16 @@ Bibliographic record for SlowBA: An efficiency backdoor attack towards VLM-based
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-08316/record.json
+
 ## Authors
 
 Junxian Li, Tu Lan, Haozhen Tan, Yan Meng, Haojin Zhu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-08316/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-08316/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,115 @@
+{
+  "id": "arxiv:2605.29486",
+  "citation-key": "arxiv_2605_29486",
+  "type": "article",
+  "title": "PhoneWorld: From Real-App Trajectories to Dynamic and Verifiable Environments for Phone-Use Agents",
+  "URL": "https://arxiv.org/abs/2605.29486v3",
+  "custom": {
+    "catalog_id": "arxiv:2605.29486",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.29486",
+    "identifiers": {
+      "arxiv": "2605.29486"
+    },
+    "first_published_at": "2026-05-28",
+    "record_updated_at": "2026-09-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a41cb1a93e6aa6ba8fbc7dca55415577ab5880a6592e9b0bee5b12b5a7732cbf",
+      "submitted_at": "2026-05-28T07:14:15Z",
+      "updated_at": "2026-09-28T15:27:12Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2605.29486v3"
+    }
+  },
+  "note": "First published: 2026-05-28; Recorded arXiv version: v3; Recorded version updated: 2026-09-28T15:27:12Z.",
+  "author": [
+    {
+      "literal": "Yuxuan Liu"
+    },
+    {
+      "literal": "Xin Lai"
+    },
+    {
+      "literal": "Junyi Li"
+    },
+    {
+      "literal": "Pengyuan Lyu"
+    },
+    {
+      "literal": "Jason"
+    },
+    {
+      "literal": "Yiduo Guo"
+    },
+    {
+      "literal": "Zhengyao Fang"
+    },
+    {
+      "literal": "Yang Ding"
+    },
+    {
+      "literal": "Yi Zhang"
+    },
+    {
+      "literal": "Weinong Wang"
+    },
+    {
+      "literal": "Huawen Shen"
+    },
+    {
+      "literal": "Xingran Zhou"
+    },
+    {
+      "literal": "Liang Wu"
+    },
+    {
+      "literal": "Fei Tang"
+    },
+    {
+      "literal": "Sunqi Fan"
+    },
+    {
+      "literal": "Shangpin Peng"
+    },
+    {
+      "literal": "Zheng Ruan"
+    },
+    {
+      "literal": "Anran Zhang"
+    },
+    {
+      "literal": "Chengquan Zhang"
+    },
+    {
+      "literal": "Han Hu"
+    },
+    {
+      "literal": "Benyou Wang"
+    },
+    {
+      "literal": "Ji-Rong Wen"
+    },
+    {
+      "literal": "Rui Yan"
+    },
+    {
+      "literal": "Zhengyang Tang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.29486",
+  "genre": "preprint",
+  "version": "3"
+}

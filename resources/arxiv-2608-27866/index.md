@@ -16,9 +16,16 @@ Introduces Iron, a GUI-agent training framework that aligns low-level actions wi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-27866/record.json
+
 ## Authors
 
 Jiahe Ying, Wendong Bu, Kaihang Pan, Bingchen Miao, Siyu Chen, Wen Wang, Xueming Jiang, Juncheng Li, Siliang Tang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-27866/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-27866/citation.csl.json
 
 ## Recorded arXiv snapshot
 

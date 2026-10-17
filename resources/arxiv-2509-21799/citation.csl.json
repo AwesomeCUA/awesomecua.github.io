@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2509.21799",
+  "citation-key": "arxiv_2509_21799",
+  "type": "article",
+  "title": "D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents",
+  "URL": "https://arxiv.org/abs/2509.21799v3",
+  "custom": {
+    "catalog_id": "arxiv:2509.21799",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.21799",
+    "identifiers": {
+      "arxiv": "2509.21799"
+    },
+    "first_published_at": "2025-09-26",
+    "record_updated_at": "2026-01-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "df0c5cb2e891375c3e6dd8e0dbebd6a41273593a3186e9eda9b1d99b05489001",
+      "submitted_at": "2025-09-26T02:56:19Z",
+      "updated_at": "2026-01-07T02:57:38Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2509.21799v3"
+    }
+  },
+  "note": "First published: 2025-09-26; Recorded arXiv version: v3; Recorded version updated: 2026-01-07T02:57:38Z.",
+  "author": [
+    {
+      "literal": "Hongze Mi"
+    },
+    {
+      "literal": "Yibo Feng"
+    },
+    {
+      "literal": "Wenjie Lu"
+    },
+    {
+      "literal": "Yuqi Wang"
+    },
+    {
+      "literal": "Jinyuan Li"
+    },
+    {
+      "literal": "Song Cao"
+    },
+    {
+      "literal": "He Cui"
+    },
+    {
+      "literal": "Tengfei Tian"
+    },
+    {
+      "literal": "Xuelin Zhang"
+    },
+    {
+      "literal": "Haotian Luo"
+    },
+    {
+      "literal": "Di Sun"
+    },
+    {
+      "literal": "Jun Fang"
+    },
+    {
+      "literal": "Hua Chai"
+    },
+    {
+      "literal": "Naiqiang Tan"
+    },
+    {
+      "literal": "Gang Pan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.21799",
+  "genre": "preprint",
+  "version": "3"
+}

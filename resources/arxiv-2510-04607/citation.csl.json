@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2510.04607",
+  "citation-key": "arxiv_2510_04607",
+  "type": "article",
+  "title": "From Imperative to Declarative: Towards LLM-friendly OS Interfaces for Boosted Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2510.04607v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.04607",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.04607",
+    "identifiers": {
+      "arxiv": "2510.04607"
+    },
+    "first_published_at": "2025-10-06",
+    "record_updated_at": "2026-03-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1c22547bf82eb2fb87e8bf6a3846d25c17cac296763726ed9a25faf88bdca33c",
+      "submitted_at": "2025-10-06T09:14:58Z",
+      "updated_at": "2026-03-25T11:29:08Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.04607v2"
+    }
+  },
+  "note": "First published: 2025-10-06; Recorded arXiv version: v2; Recorded version updated: 2026-03-25T11:29:08Z.",
+  "author": [
+    {
+      "literal": "Yuan Wang"
+    },
+    {
+      "literal": "Mingyu Li"
+    },
+    {
+      "literal": "Haibo Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.04607",
+  "genre": "preprint",
+  "version": "2"
+}

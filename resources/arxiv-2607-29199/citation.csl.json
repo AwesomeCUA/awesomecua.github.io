@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2607.29199",
+  "citation-key": "arxiv_2607_29199",
+  "type": "article",
+  "title": "Alignment Is Local: A Paired Diagnostic for GUI Agents under User-Side Persuasion",
+  "URL": "https://arxiv.org/abs/2607.29199v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.29199",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.29199",
+    "identifiers": {
+      "arxiv": "2607.29199"
+    },
+    "first_published_at": "2026-07-31",
+    "record_updated_at": "2026-07-31",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "45e0f558caad8e513c8672239dc04ce5f1557151aa984c6e9a138ad71c184a4c",
+      "submitted_at": "2026-07-31T09:18:55Z",
+      "updated_at": "2026-07-31T09:18:55Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.29199v1"
+    }
+  },
+  "note": "First published: 2026-07-31; Recorded arXiv version: v1; Recorded version updated: 2026-07-31T09:18:55Z.",
+  "author": [
+    {
+      "literal": "Haoxin An"
+    },
+    {
+      "literal": "Yunpeng Song"
+    },
+    {
+      "literal": "Zihao Bai"
+    },
+    {
+      "literal": "Zhongmin Cai"
+    },
+    {
+      "literal": "Guojun Xiong"
+    },
+    {
+      "literal": "Chenhao Lin"
+    },
+    {
+      "literal": "Wentao Chen"
+    },
+    {
+      "literal": "Feng Wei"
+    },
+    {
+      "literal": "Chao Shen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.29199",
+  "genre": "preprint",
+  "version": "1"
+}

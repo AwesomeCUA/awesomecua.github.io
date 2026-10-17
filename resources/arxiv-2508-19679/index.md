@@ -16,9 +16,16 @@ Bibliographic record for InquireMobile: Teaching VLM-based Mobile Agent to Reque
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-19679/record.json
+
 ## Authors
 
 Qihang Ai, Pi Bu, Yue Cao, Yingyao Wang, Jihao Gu, Jingxuan Xing, Zekun Zhu, Wei Jiang, Zhicheng Zheng, Jun Song, Yuning Jiang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-19679/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-19679/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Towards Collaborative Plan Acquisition through Theory o
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2305-11271/record.json
+
 ## Authors
 
 Cristian-Paul Bara, Ziqiao Ma, Yingzhuo Yu, Julie Shah, Joyce Chai
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2305-11271/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-11271/citation.csl.json
 
 ## Recorded arXiv snapshot
 

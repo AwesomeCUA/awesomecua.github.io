@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:1807.10458",
+  "citation-key": "arxiv_1807_10458",
+  "type": "article",
+  "title": "AXNet: ApproXimate computing using an end-to-end trainable neural network",
+  "URL": "https://arxiv.org/abs/1807.10458v2",
+  "custom": {
+    "catalog_id": "arxiv:1807.10458",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1807.10458",
+    "identifiers": {
+      "arxiv": "1807.10458"
+    },
+    "first_published_at": "2018-07-27",
+    "record_updated_at": "2018-12-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c03a8f92490d4c7aa414a5f4e0286683f035f1befe9016a58fe4d76af18870f6",
+      "submitted_at": "2018-07-27T06:59:46Z",
+      "updated_at": "2018-12-18T08:57:46Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/1807.10458v2"
+    }
+  },
+  "note": "First published: 2018-07-27; Recorded arXiv version: v2; Recorded version updated: 2018-12-18T08:57:46Z.",
+  "author": [
+    {
+      "literal": "Zhenghao Peng"
+    },
+    {
+      "literal": "Xuyang Chen"
+    },
+    {
+      "literal": "Chengwen Xu"
+    },
+    {
+      "literal": "Naifeng Jing"
+    },
+    {
+      "literal": "Xiaoyao Liang"
+    },
+    {
+      "literal": "Cewu Lu"
+    },
+    {
+      "literal": "Li Jiang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        7,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1807.10458",
+  "genre": "preprint",
+  "version": "2"
+}

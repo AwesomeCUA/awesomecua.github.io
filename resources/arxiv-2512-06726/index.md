@@ -16,9 +16,16 @@ Bibliographic record for The Role of Entropy in Visual Grounding: Analysis and O
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-06726/record.json
+
 ## Authors
 
 Shuo Li, Jiajun Sun, Zhihao Zhang, Xiaoran Fan, Senjie Jin, Hui Li, Yuming Yang, Junjie Ye, Lixing Shen, Tao Ji, Tao Gui, Qi Zhang, Xuanjing Huang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-06726/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-06726/citation.csl.json
 
 ## Recorded arXiv snapshot
 

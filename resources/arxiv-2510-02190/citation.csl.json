@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2510.02190",
+  "citation-key": "arxiv_2510_02190",
+  "type": "article",
+  "title": "Dr. Bench: A Multidimensional Evaluation for Deep Research Agents, from Answers to Reports",
+  "URL": "https://arxiv.org/abs/2510.02190v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.02190",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.02190",
+    "identifiers": {
+      "arxiv": "2510.02190"
+    },
+    "first_published_at": "2025-10-02",
+    "record_updated_at": "2026-01-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3fce66bf32563ba2fb5fd6d9d04d751837216e61eb1bf4d65deee53e7263dd6e",
+      "submitted_at": "2025-10-02T16:40:02Z",
+      "updated_at": "2026-01-29T14:47:04Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.02190v2"
+    }
+  },
+  "note": "First published: 2025-10-02; Recorded arXiv version: v2; Recorded version updated: 2026-01-29T14:47:04Z.",
+  "author": [
+    {
+      "literal": "Yang Yao"
+    },
+    {
+      "literal": "Yixu Wang"
+    },
+    {
+      "literal": "Yuxuan Zhang"
+    },
+    {
+      "literal": "Yi Lu"
+    },
+    {
+      "literal": "Tianle Gu"
+    },
+    {
+      "literal": "Lingyu Li"
+    },
+    {
+      "literal": "Dingyi Zhao"
+    },
+    {
+      "literal": "Keming Wu"
+    },
+    {
+      "literal": "Haozhe Wang"
+    },
+    {
+      "literal": "Ping Nie"
+    },
+    {
+      "literal": "Yan Teng"
+    },
+    {
+      "literal": "Yingchun Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.02190",
+  "genre": "preprint",
+  "version": "2"
+}

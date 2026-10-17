@@ -16,6 +16,8 @@ Natural-language querying and interaction tools for web interfaces.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-8896d44370711136fd54/record.json
+
 ## License declarations
 
 - code: not recorded

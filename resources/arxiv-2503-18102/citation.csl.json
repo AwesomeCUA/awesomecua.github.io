@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2503.18102",
+  "citation-key": "arxiv_2503_18102",
+  "type": "article",
+  "title": "AgentRxiv: Towards Collaborative Autonomous Research",
+  "URL": "https://arxiv.org/abs/2503.18102v1",
+  "custom": {
+    "catalog_id": "arxiv:2503.18102",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2503.18102",
+    "identifiers": {
+      "arxiv": "2503.18102"
+    },
+    "first_published_at": "2025-03-23",
+    "record_updated_at": "2025-03-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "704bb440db680617d83c9c1dac9bcfe9d554c26779e69b9ccb4fec8dc7281def",
+      "submitted_at": "2025-03-23T15:16:42Z",
+      "updated_at": "2025-03-23T15:16:42Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2503.18102v1"
+    }
+  },
+  "note": "First published: 2025-03-23; Recorded arXiv version: v1; Recorded version updated: 2025-03-23T15:16:42Z.",
+  "author": [
+    {
+      "literal": "Samuel Schmidgall"
+    },
+    {
+      "literal": "Michael Moor"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.18102",
+  "genre": "preprint",
+  "version": "1"
+}

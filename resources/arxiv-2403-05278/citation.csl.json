@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2403.05278",
+  "citation-key": "arxiv_2403_05278",
+  "type": "article",
+  "title": "Load Balancing For High Performance Computing Using Quantum Annealing",
+  "URL": "https://arxiv.org/abs/2403.05278v1",
+  "custom": {
+    "catalog_id": "arxiv:2403.05278",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2403.05278",
+    "identifiers": {
+      "arxiv": "2403.05278"
+    },
+    "first_published_at": "2024-03-08",
+    "record_updated_at": "2024-03-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4e5cfc71460af6ecc5b7c54facfdc1fc3cd86c79229f5a56e03fdb405139ebb0",
+      "submitted_at": "2024-03-08T12:58:12Z",
+      "updated_at": "2024-03-08T12:58:12Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2403.05278v1"
+    }
+  },
+  "note": "First published: 2024-03-08; Recorded arXiv version: v1; Recorded version updated: 2024-03-08T12:58:12Z.",
+  "author": [
+    {
+      "literal": "Omer Rathore"
+    },
+    {
+      "literal": "Alastair Basden"
+    },
+    {
+      "literal": "Nicholas Chancellor"
+    },
+    {
+      "literal": "Halim Kusumaatmaja"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.05278",
+  "genre": "preprint",
+  "version": "1"
+}

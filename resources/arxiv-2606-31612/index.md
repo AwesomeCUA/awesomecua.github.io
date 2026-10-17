@@ -16,9 +16,16 @@ Bibliographic record for What Memory Do GUI Agents Really Need? From Passive Rec
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-31612/record.json
+
 ## Authors
 
 Chen Liu, Ling Chen, Hanzhang Zhou, Xu Zhang, Quyu Kong, Panrong Tong, Wenhao Wang, Xin Yu, Steven Hoi, Yue Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-31612/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-31612/citation.csl.json
 
 ## Recorded arXiv snapshot
 

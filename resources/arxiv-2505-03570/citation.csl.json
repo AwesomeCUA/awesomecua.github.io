@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2505.03570",
+  "citation-key": "arxiv_2505_03570",
+  "type": "article",
+  "title": "OSUniverse: Benchmark for Multimodal GUI-navigation AI Agents",
+  "URL": "https://arxiv.org/abs/2505.03570v1",
+  "custom": {
+    "catalog_id": "arxiv:2505.03570",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.03570",
+    "identifiers": {
+      "arxiv": "2505.03570"
+    },
+    "first_published_at": "2025-05-06",
+    "record_updated_at": "2025-05-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e8bb4c6f8080ed1ee91e1089233cae6f231ab3256b38ac7d6403ebea3ae56fe0",
+      "submitted_at": "2025-05-06T14:29:47Z",
+      "updated_at": "2025-05-06T14:29:47Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2505.03570v1"
+    }
+  },
+  "note": "First published: 2025-05-06; Recorded arXiv version: v1; Recorded version updated: 2025-05-06T14:29:47Z.",
+  "author": [
+    {
+      "literal": "Mariya Davydova"
+    },
+    {
+      "literal": "Daniel Jeffries"
+    },
+    {
+      "literal": "Patrick Barker"
+    },
+    {
+      "literal": "Arturo Márquez Flores"
+    },
+    {
+      "literal": "Sinéad Ryan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.03570",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "arxiv:2610.14157",
+  "citation-key": "arxiv_2610_14157",
+  "type": "article",
+  "title": "OpenMobile-2: Building Versatile Mobile Agents with Scalable Environments and App-Native Tools",
+  "URL": "https://arxiv.org/abs/2610.14157v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.14157",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.14157",
+    "identifiers": {
+      "arxiv": "2610.14157"
+    },
+    "first_published_at": "2026-10-09",
+    "record_updated_at": "2026-10-09",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6f7d940d3e341fd8c9f23a4829a5ab1150fc07ee231ccda9b108a3f0d785efb9",
+      "submitted_at": "2026-10-09T17:26:38Z",
+      "updated_at": "2026-10-09T17:26:38Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.14157v1"
+    }
+  },
+  "note": "First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T17:26:38Z.",
+  "author": [
+    {
+      "literal": "Chenyang Yan"
+    },
+    {
+      "literal": "Yingying Zhang"
+    },
+    {
+      "literal": "Kanzhi Cheng"
+    },
+    {
+      "literal": "Qiushi Sun"
+    },
+    {
+      "literal": "Zhengyuan Pan"
+    },
+    {
+      "literal": "Zheng Ma"
+    },
+    {
+      "literal": "Hang Yan"
+    },
+    {
+      "literal": "Yian Wang"
+    },
+    {
+      "literal": "Nuo Chen"
+    },
+    {
+      "literal": "Jialin Cao"
+    },
+    {
+      "literal": "Xingdong Gong"
+    },
+    {
+      "literal": "Wenpo Song"
+    },
+    {
+      "literal": "Han Chen"
+    },
+    {
+      "literal": "Zichen Ding"
+    },
+    {
+      "literal": "Fangzhi Xu"
+    },
+    {
+      "literal": "Shujian Huang"
+    },
+    {
+      "literal": "Xinyu Dai"
+    },
+    {
+      "literal": "Yichen Liu"
+    },
+    {
+      "literal": "Tiankuo Yao"
+    },
+    {
+      "literal": "Bo Wang"
+    },
+    {
+      "literal": "Ben Kao"
+    },
+    {
+      "literal": "Jianbing Zhang"
+    },
+    {
+      "literal": "Lewei Lu"
+    },
+    {
+      "literal": "Dahua Lin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.14157",
+  "genre": "preprint",
+  "version": "1"
+}

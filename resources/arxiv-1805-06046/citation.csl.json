@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:1805.06046",
+  "citation-key": "arxiv_1805_06046",
+  "type": "article",
+  "title": "Coded Iterative Computing using Substitute Decoding",
+  "URL": "https://arxiv.org/abs/1805.06046v1",
+  "custom": {
+    "catalog_id": "arxiv:1805.06046",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1805.06046",
+    "identifiers": {
+      "arxiv": "1805.06046"
+    },
+    "first_published_at": "2018-05-15",
+    "record_updated_at": "2018-05-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2411a453a99497bf460fba9807f8a9886b9400253f015fc62256ce10ef2cf2a8",
+      "submitted_at": "2018-05-15T22:08:05Z",
+      "updated_at": "2018-05-15T22:08:05Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1805.06046v1"
+    }
+  },
+  "note": "First published: 2018-05-15; Recorded arXiv version: v1; Recorded version updated: 2018-05-15T22:08:05Z.",
+  "author": [
+    {
+      "literal": "Yaoqing Yang"
+    },
+    {
+      "literal": "Malhar Chaudhari"
+    },
+    {
+      "literal": "Pulkit Grover"
+    },
+    {
+      "literal": "Soummya Kar"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        5,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1805.06046",
+  "genre": "preprint",
+  "version": "1"
+}

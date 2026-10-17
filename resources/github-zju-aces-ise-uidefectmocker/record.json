@@ -1,0 +1,71 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T13:17:23Z",
+      "role": "primary",
+      "sha256": "fc3009b355e46549c5128c933bb333aa37b1db5ac8ea8f2d0f300848d8a62200",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/ZJU-ACES-ISE/UIDefectMocker/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T13:29:25Z",
+      "role": "primary",
+      "sha256": "2b75b184f28b204d8e2c7b45a341e4583202cf4c9da8964f108770929d1193ba",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/ZJU-ACES-ISE/UIDefectMocker/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:zju-aces-ise/uidefectmocker",
+  "identifiers": {},
+  "kind": "tool",
+  "last_verified_at": "2026-10-16T13:17:23Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-16T13:29:25Z",
+      "url": "https://raw.githubusercontent.com/ZJU-ACES-ISE/UIDefectMocker/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/ZJU-ACES-ISE/UIDefectMocker"
+    }
+  ],
+  "name": "UI Defect Mocker",
+  "notes": "This entry describes the released screenshot-defect tool, separately from the under-construction ChatUITest project hub.",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Synthesizes visual UI defects from mobile screenshots and Android layout metadata to support GUI-testing experiments.",
+  "topics": [
+    "data-generation",
+    "evaluation",
+    "screen-understanding"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/ZJU-ACES-ISE/UIDefectMocker"
+}

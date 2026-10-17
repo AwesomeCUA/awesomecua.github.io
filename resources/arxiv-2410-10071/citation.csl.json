@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2410.10071",
+  "citation-key": "arxiv_2410_10071",
+  "type": "article",
+  "title": "Content Caching-Assisted Vehicular Edge Computing Using Multi-Agent Graph Attention Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2410.10071v1",
+  "custom": {
+    "catalog_id": "arxiv:2410.10071",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2410.10071",
+    "identifiers": {
+      "arxiv": "2410.10071"
+    },
+    "first_published_at": "2024-10-14",
+    "record_updated_at": "2024-10-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bb3c4a5cbbfe3b48af743f891f58fa52d2929483cb0639829ec23a3e6a733883",
+      "submitted_at": "2024-10-14T01:25:56Z",
+      "updated_at": "2024-10-14T01:25:56Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2410.10071v1"
+    }
+  },
+  "note": "First published: 2024-10-14; Recorded arXiv version: v1; Recorded version updated: 2024-10-14T01:25:56Z.",
+  "author": [
+    {
+      "literal": "Jinjin Shen"
+    },
+    {
+      "literal": "Yan Lin"
+    },
+    {
+      "literal": "Yijin Zhang"
+    },
+    {
+      "literal": "Weibin Zhang"
+    },
+    {
+      "literal": "Feng Shu"
+    },
+    {
+      "literal": "Jun Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.10071",
+  "genre": "preprint",
+  "version": "1"
+}

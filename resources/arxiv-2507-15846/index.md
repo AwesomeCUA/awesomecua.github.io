@@ -16,9 +16,16 @@ GUI-G2 replaces binary grounding rewards with Gaussian point rewards and spatial
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-15846/record.json
+
 ## Authors
 
 Fei Tang, Zhangxuan Gu, Zhengxi Lu, Xuyang Liu, Shuheng Shen, Changhua Meng, Wen Wang, Wenqi Zhang, Yongliang Shen, Weiming Lu, Jun Xiao, Yueting Zhuang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-15846/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-15846/citation.csl.json
 
 ## Recorded arXiv snapshot
 

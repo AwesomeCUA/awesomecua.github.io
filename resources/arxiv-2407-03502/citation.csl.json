@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2407.03502",
+  "citation-key": "arxiv_2407_03502",
+  "type": "article",
+  "title": "AgentInstruct: Toward Generative Teaching with Agentic Flows",
+  "URL": "https://arxiv.org/abs/2407.03502v1",
+  "custom": {
+    "catalog_id": "arxiv:2407.03502",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2407.03502",
+    "identifiers": {
+      "arxiv": "2407.03502"
+    },
+    "first_published_at": "2024-07-03",
+    "record_updated_at": "2024-07-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a299e4173c3451798682f6e6bcd3a7edbcd443123b156603522c66fec3686bef",
+      "submitted_at": "2024-07-03T21:01:12Z",
+      "updated_at": "2024-07-03T21:01:12Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2407.03502v1"
+    }
+  },
+  "note": "First published: 2024-07-03; Recorded arXiv version: v1; Recorded version updated: 2024-07-03T21:01:12Z.",
+  "author": [
+    {
+      "literal": "Arindam Mitra"
+    },
+    {
+      "literal": "Luciano Del Corro"
+    },
+    {
+      "literal": "Guoqing Zheng"
+    },
+    {
+      "literal": "Shweti Mahajan"
+    },
+    {
+      "literal": "Dany Rouhana"
+    },
+    {
+      "literal": "Andres Codas"
+    },
+    {
+      "literal": "Yadong Lu"
+    },
+    {
+      "literal": "Wei-ge Chen"
+    },
+    {
+      "literal": "Olga Vrousgos"
+    },
+    {
+      "literal": "Corby Rosset"
+    },
+    {
+      "literal": "Fillipe Silva"
+    },
+    {
+      "literal": "Hamed Khanpour"
+    },
+    {
+      "literal": "Yash Lara"
+    },
+    {
+      "literal": "Ahmed Awadallah"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.03502",
+  "genre": "preprint",
+  "version": "1"
+}

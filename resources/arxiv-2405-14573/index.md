@@ -16,9 +16,16 @@ Introduces parameterized Android tasks with initialization, success checks, and 
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2405-14573/record.json
+
 ## Authors
 
 Christopher Rawles, Sarah Clinckemaillie, Yifan Chang, Jonathan Waltz, Gabrielle Lau, Marybeth Fair, Alice Li, William Bishop, Wei Li, Folawiyo Campbell-Ajala, Daniel Toyama, Robert Berry, Divya Tyamagundlu, Timothy Lillicrap, Oriana Riva
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2405-14573/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-14573/citation.csl.json
 
 ## Recorded arXiv snapshot
 

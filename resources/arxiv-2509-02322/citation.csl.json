@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2509.02322",
+  "citation-key": "arxiv_2509_02322",
+  "type": "article",
+  "title": "OmniActor: A Generalist GUI and Embodied Agent for 2D&3D Worlds",
+  "URL": "https://arxiv.org/abs/2509.02322v1",
+  "custom": {
+    "catalog_id": "arxiv:2509.02322",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.02322",
+    "identifiers": {
+      "arxiv": "2509.02322"
+    },
+    "first_published_at": "2025-09-02",
+    "record_updated_at": "2025-09-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "227630b3a257557262ed25eb21906a129eb35c6c5d2de7c5754f919dd281c4bd",
+      "submitted_at": "2025-09-02T13:47:54Z",
+      "updated_at": "2025-09-02T13:47:54Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2509.02322v1"
+    }
+  },
+  "note": "First published: 2025-09-02; Recorded arXiv version: v1; Recorded version updated: 2025-09-02T13:47:54Z.",
+  "author": [
+    {
+      "literal": "Longrong Yang"
+    },
+    {
+      "literal": "Zhixiong Zeng"
+    },
+    {
+      "literal": "Yufeng Zhong"
+    },
+    {
+      "literal": "Jing Huang"
+    },
+    {
+      "literal": "Liming Zheng"
+    },
+    {
+      "literal": "Lei Chen"
+    },
+    {
+      "literal": "Haibo Qiu"
+    },
+    {
+      "literal": "Zequn Qin"
+    },
+    {
+      "literal": "Lin Ma"
+    },
+    {
+      "literal": "Xi Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.02322",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2403.07718",
+  "citation-key": "arxiv_2403_07718",
+  "type": "article",
+  "title": "WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?",
+  "URL": "https://arxiv.org/abs/2403.07718v5",
+  "custom": {
+    "catalog_id": "arxiv:2403.07718",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2403.07718",
+    "identifiers": {
+      "arxiv": "2403.07718"
+    },
+    "first_published_at": "2024-03-12",
+    "record_updated_at": "2024-07-23",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8033f9c26a5f95a49000374a6edebb4dead83e100ebcf5226007f06b7573c305",
+      "submitted_at": "2024-03-12T14:58:45Z",
+      "updated_at": "2024-07-23T06:19:28Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2403.07718v5"
+    }
+  },
+  "note": "First published: 2024-03-12; Recorded arXiv version: v5; Recorded version updated: 2024-07-23T06:19:28Z.",
+  "author": [
+    {
+      "literal": "Alexandre Drouin"
+    },
+    {
+      "literal": "Maxime Gasse"
+    },
+    {
+      "literal": "Massimo Caccia"
+    },
+    {
+      "literal": "Issam H. Laradji"
+    },
+    {
+      "literal": "Manuel Del Verme"
+    },
+    {
+      "literal": "Tom Marty"
+    },
+    {
+      "literal": "Léo Boisvert"
+    },
+    {
+      "literal": "Megh Thakkar"
+    },
+    {
+      "literal": "Quentin Cappart"
+    },
+    {
+      "literal": "David Vazquez"
+    },
+    {
+      "literal": "Nicolas Chapados"
+    },
+    {
+      "literal": "Alexandre Lacoste"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.07718",
+  "genre": "preprint",
+  "version": "5"
+}

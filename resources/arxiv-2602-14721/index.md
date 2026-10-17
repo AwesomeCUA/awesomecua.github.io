@@ -16,9 +16,16 @@ Bibliographic record for WebWorld: A Large-Scale World Model for Web Agent Train
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-14721/record.json
+
 ## Authors
 
 Zikai Xiao, Jianhong Tu, Chuhang Zou, Yuxin Zuo, Zhi Li, Peng Wang, Bowen Yu, Fei Huang, Junyang Lin, Zuozhu Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-14721/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-14721/citation.csl.json
 
 ## Recorded arXiv snapshot
 

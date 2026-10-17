@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2406.14250",
+  "citation-key": "arxiv_2406_14250",
+  "type": "article",
+  "title": "E-ANT: A Large-Scale Dataset for Efficient Automatic GUI NavigaTion",
+  "URL": "https://arxiv.org/abs/2406.14250v3",
+  "custom": {
+    "catalog_id": "arxiv:2406.14250",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2406.14250",
+    "identifiers": {
+      "arxiv": "2406.14250"
+    },
+    "first_published_at": "2024-06-20",
+    "record_updated_at": "2024-07-01",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e4d5a46d2141ca59fcf221bbe618601cb7cce29c1b067ae60712e53e907095bd",
+      "submitted_at": "2024-06-20T12:22:05Z",
+      "updated_at": "2024-07-01T08:37:14Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2406.14250v3"
+    }
+  },
+  "note": "First published: 2024-06-20; Recorded arXiv version: v3; Recorded version updated: 2024-07-01T08:37:14Z.",
+  "author": [
+    {
+      "literal": "Ke Wang"
+    },
+    {
+      "literal": "Tianyu Xia"
+    },
+    {
+      "literal": "Zhangxuan Gu"
+    },
+    {
+      "literal": "Yi Zhao"
+    },
+    {
+      "literal": "Shuheng Shen"
+    },
+    {
+      "literal": "Changhua Meng"
+    },
+    {
+      "literal": "Weiqiang Wang"
+    },
+    {
+      "literal": "Ke Xu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.14250",
+  "genre": "preprint",
+  "version": "3"
+}

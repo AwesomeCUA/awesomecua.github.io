@@ -1,0 +1,94 @@
+{
+  "id": "arxiv:2511.04307",
+  "citation-key": "arxiv_2511_04307",
+  "type": "article",
+  "title": "GUI-360$^\\circ$: A Comprehensive Dataset and Benchmark for Computer-Using Agents",
+  "URL": "https://arxiv.org/abs/2511.04307v2",
+  "custom": {
+    "catalog_id": "arxiv:2511.04307",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2511.04307",
+    "identifiers": {
+      "arxiv": "2511.04307"
+    },
+    "first_published_at": "2025-11-06",
+    "record_updated_at": "2025-11-10",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6b063a4d2b3a552aa05a153745978473a7d165f2c6b4b97e4c91eff11b7b0f80",
+      "submitted_at": "2025-11-06T12:19:02Z",
+      "updated_at": "2025-11-10T12:27:15Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2511.04307v2"
+    }
+  },
+  "note": "First published: 2025-11-06; Recorded arXiv version: v2; Recorded version updated: 2025-11-10T12:27:15Z.",
+  "author": [
+    {
+      "literal": "Jian Mu"
+    },
+    {
+      "literal": "Chaoyun Zhang"
+    },
+    {
+      "literal": "Chiming Ni"
+    },
+    {
+      "literal": "Lu Wang"
+    },
+    {
+      "literal": "Bo Qiao"
+    },
+    {
+      "literal": "Kartik Mathur"
+    },
+    {
+      "literal": "Qianhui Wu"
+    },
+    {
+      "literal": "Yuhang Xie"
+    },
+    {
+      "literal": "Xiaojun Ma"
+    },
+    {
+      "literal": "Mengyu Zhou"
+    },
+    {
+      "literal": "Si Qin"
+    },
+    {
+      "literal": "Liqun Li"
+    },
+    {
+      "literal": "Yu Kang"
+    },
+    {
+      "literal": "Minghua Ma"
+    },
+    {
+      "literal": "Qingwei Lin"
+    },
+    {
+      "literal": "Saravan Rajmohan"
+    },
+    {
+      "literal": "Dongmei Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.04307",
+  "genre": "preprint",
+  "version": "2"
+}

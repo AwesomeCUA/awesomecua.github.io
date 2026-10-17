@@ -16,9 +16,16 @@ Bibliographic record for WONDERBREAD: A Benchmark for Evaluating Multimodal Foun
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-13264/record.json
+
 ## Authors
 
 Michael Wornow, Avanika Narayan, Ben Viggiano, Ishan S. Khare, Tathagat Verma, Tibor Thompson, Miguel Angel Fuentes Hernandez, Sudharsan Sundar, Chloe Trujillo, Krrish Chawla, Rongfei Lu, Justin Shen, Divya Nagaraj, Joshua Martinez, Vardhan Agrawal, Althea Hudson, Nigam H. Shah, Christopher Re
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-13264/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-13264/citation.csl.json
 
 ## Recorded arXiv snapshot
 

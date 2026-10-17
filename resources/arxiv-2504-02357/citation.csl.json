@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2504.02357",
+  "citation-key": "arxiv_2504_02357",
+  "type": "article",
+  "title": "ReuseDroid: A VLM-empowered Android UI Test Migrator Boosted by Active Feedback",
+  "URL": "https://arxiv.org/abs/2504.02357v1",
+  "custom": {
+    "catalog_id": "arxiv:2504.02357",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2504.02357",
+    "identifiers": {
+      "arxiv": "2504.02357"
+    },
+    "first_published_at": "2025-04-03",
+    "record_updated_at": "2025-04-03",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a646bb2136cdaf47a0d8b3f485d3e1973fc15ac4f844e1beddedf6021b56ffe4",
+      "submitted_at": "2025-04-03T07:45:09Z",
+      "updated_at": "2025-04-03T07:45:09Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2504.02357v1"
+    }
+  },
+  "note": "First published: 2025-04-03; Recorded arXiv version: v1; Recorded version updated: 2025-04-03T07:45:09Z.",
+  "author": [
+    {
+      "literal": "Xiaolei Li"
+    },
+    {
+      "literal": "Jialun Cao"
+    },
+    {
+      "literal": "Yepang Liu"
+    },
+    {
+      "literal": "Shing-Chi Cheung"
+    },
+    {
+      "literal": "Hailong Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.02357",
+  "genre": "preprint",
+  "version": "1"
+}

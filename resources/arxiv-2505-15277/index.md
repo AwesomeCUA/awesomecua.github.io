@@ -16,9 +16,16 @@ Web-Shepherd is a process reward model for assessing individual steps of web-nav
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-15277/record.json
+
 ## Authors
 
 Hyungjoo Chae, Sunghwan Kim, Junhee Cho, Seungone Kim, Seungjun Moon, Gyeom Hwangbo, Dongha Lim, Minjin Kim, Yeonjun Hwang, Minju Gwak, Dongwook Choi, Minseok Kang, Gwanhoon Im, ByeongUng Cho, Hyojun Kim, Jun Hee Han, Taeyoon Kwon, Minju Kim, Beong-woo Kwak, Dongjin Kang, Jinyoung Yeo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-15277/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-15277/citation.csl.json
 
 ## Recorded arXiv snapshot
 

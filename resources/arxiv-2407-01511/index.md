@@ -16,9 +16,16 @@ Introduces CRAB, a framework for cross-environment agent tasks with graph-based 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-01511/record.json
+
 ## Authors
 
 Tianqi Xu, Linyao Chen, Dai-Jie Wu, Yanjun Chen, Zecheng Zhang, Xiang Yao, Zhiqiang Xie, Yongchao Chen, Shilong Liu, Bochen Qian, Anjie Yang, Zhaoxuan Jin, Jianbo Deng, Philip Torr, Bernard Ghanem, Guohao Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-01511/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-01511/citation.csl.json
 
 ## Recorded arXiv snapshot
 

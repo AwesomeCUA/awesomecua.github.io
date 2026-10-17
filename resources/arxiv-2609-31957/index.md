@@ -16,9 +16,16 @@ Introduces CaptchaArena, a dataset of execution-verified interactive CAPTCHA sol
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-31957/record.json
+
 ## Authors
 
 Zhenhao Zhang, Zhaoyu Fan, Haohan Ying, Jingwen Hu, Hancen Fan, Junhao Zhou, Zitian Chen, Linchao Zhu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-31957/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-31957/citation.csl.json
 
 ## Recorded arXiv snapshot
 

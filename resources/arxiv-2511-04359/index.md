@@ -16,9 +16,16 @@ Bibliographic record for Neutral-atom quantum computation using multi-qubit geom
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-04359/record.json
+
 ## Authors
 
 Sinchan Snigdha Rej, Bimalendu Deb
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-04359/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-04359/citation.csl.json
 
 ## Recorded arXiv snapshot
 

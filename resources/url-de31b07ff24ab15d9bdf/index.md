@@ -16,6 +16,8 @@ Screenshot grounding checkpoint that emits a single click in a normalized coordi
 
 The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data.
 
+- Record JSON: https://awesomecua.github.io/resources/url-de31b07ff24ab15d9bdf/record.json
+
 ## License declarations
 
 - code: not recorded

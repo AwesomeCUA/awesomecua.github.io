@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2604.18847",
+  "citation-key": "arxiv_2604_18847",
+  "type": "article",
+  "title": "Human-Guided Harm Recovery for Computer Use Agents",
+  "URL": "https://arxiv.org/abs/2604.18847v2",
+  "custom": {
+    "catalog_id": "arxiv:2604.18847",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.18847",
+    "identifiers": {
+      "arxiv": "2604.18847"
+    },
+    "first_published_at": "2026-04-20",
+    "record_updated_at": "2026-05-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9064a2efc0e8952870ac5c498ee597622238c9daa77a3a9b89549eb768c5f240",
+      "submitted_at": "2026-04-20T21:12:40Z",
+      "updated_at": "2026-05-28T03:46:47Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2604.18847v2"
+    }
+  },
+  "note": "First published: 2026-04-20; Recorded arXiv version: v2; Recorded version updated: 2026-05-28T03:46:47Z.",
+  "author": [
+    {
+      "literal": "Christy Li"
+    },
+    {
+      "literal": "Sky CH-Wang"
+    },
+    {
+      "literal": "Andi Peng"
+    },
+    {
+      "literal": "Andreea Bobu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.18847",
+  "genre": "preprint",
+  "version": "2"
+}

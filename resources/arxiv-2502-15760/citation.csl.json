@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2502.15760",
+  "citation-key": "arxiv_2502_15760",
+  "type": "article",
+  "title": "Digi-Q: Learning Q-Value Functions for Training Device-Control Agents",
+  "URL": "https://arxiv.org/abs/2502.15760v1",
+  "custom": {
+    "catalog_id": "arxiv:2502.15760",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2502.15760",
+    "identifiers": {
+      "arxiv": "2502.15760"
+    },
+    "first_published_at": "2025-02-13",
+    "record_updated_at": "2025-02-13",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "99492dab54d9816104d47fca525277b033cadb7a53727dae06ed1a3221fcb416",
+      "submitted_at": "2025-02-13T18:55:14Z",
+      "updated_at": "2025-02-13T18:55:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2502.15760v1"
+    }
+  },
+  "note": "First published: 2025-02-13; Recorded arXiv version: v1; Recorded version updated: 2025-02-13T18:55:14Z.",
+  "author": [
+    {
+      "literal": "Hao Bai"
+    },
+    {
+      "literal": "Yifei Zhou"
+    },
+    {
+      "literal": "Li Erran Li"
+    },
+    {
+      "literal": "Sergey Levine"
+    },
+    {
+      "literal": "Aviral Kumar"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.15760",
+  "genre": "preprint",
+  "version": "1"
+}

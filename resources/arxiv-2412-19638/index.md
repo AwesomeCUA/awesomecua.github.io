@@ -16,9 +16,16 @@ Bibliographic record for Xmodel-2 Technical Report. Title, authors and dates che
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-19638/record.json
+
 ## Authors
 
 Wang Qun, Liu Yang, Lin Qingquan, Qu Zhijiu, Jiang Ling
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-19638/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-19638/citation.csl.json
 
 ## Recorded arXiv snapshot
 

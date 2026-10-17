@@ -16,9 +16,16 @@ Bibliographic record for ExpSeek: Self-Triggered Experience Seeking for Web Agen
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-08605/record.json
+
 ## Authors
 
 Wenyuan Zhang, Xinghua Zhang, Haiyang Yu, Shuaiyi Nie, Bingli Wu, Juwei Yue, Tingwen Liu, Yongbin Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-08605/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-08605/citation.csl.json
 
 ## Recorded arXiv snapshot
 

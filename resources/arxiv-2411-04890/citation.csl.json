@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2411.04890",
+  "citation-key": "arxiv_2411_04890",
+  "type": "article",
+  "title": "GUI Agents with Foundation Models: A Comprehensive Survey",
+  "URL": "https://arxiv.org/abs/2411.04890v2",
+  "custom": {
+    "catalog_id": "arxiv:2411.04890",
+    "catalog_kind": "survey",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2411.04890",
+    "identifiers": {
+      "arxiv": "2411.04890"
+    },
+    "first_published_at": "2024-11-07",
+    "record_updated_at": "2025-02-13",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "57670445f9b0041bfb505a195d01a9ded6234e01e44c9aa43a6aee5ebd57dd93",
+      "submitted_at": "2024-11-07T17:28:10Z",
+      "updated_at": "2025-02-13T10:09:37Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2411.04890v2"
+    }
+  },
+  "note": "First published: 2024-11-07; Recorded arXiv version: v2; Recorded version updated: 2025-02-13T10:09:37Z.",
+  "author": [
+    {
+      "literal": "Shuai Wang"
+    },
+    {
+      "literal": "Weiwen Liu"
+    },
+    {
+      "literal": "Jingxuan Chen"
+    },
+    {
+      "literal": "Yuqi Zhou"
+    },
+    {
+      "literal": "Weinan Gan"
+    },
+    {
+      "literal": "Xingshan Zeng"
+    },
+    {
+      "literal": "Yuhan Che"
+    },
+    {
+      "literal": "Shuai Yu"
+    },
+    {
+      "literal": "Xinlong Hao"
+    },
+    {
+      "literal": "Kun Shao"
+    },
+    {
+      "literal": "Bin Wang"
+    },
+    {
+      "literal": "Chuhan Wu"
+    },
+    {
+      "literal": "Yasheng Wang"
+    },
+    {
+      "literal": "Ruiming Tang"
+    },
+    {
+      "literal": "Jianye Hao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2411.04890",
+  "genre": "preprint",
+  "version": "2"
+}

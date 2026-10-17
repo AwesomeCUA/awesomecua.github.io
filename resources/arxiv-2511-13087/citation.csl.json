@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2511.13087",
+  "citation-key": "arxiv_2511_13087",
+  "type": "article",
+  "title": "MEGA-GUI: Multi-stage Enhanced Grounding Agents for GUI Elements",
+  "URL": "https://arxiv.org/abs/2511.13087v1",
+  "custom": {
+    "catalog_id": "arxiv:2511.13087",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.13087",
+    "identifiers": {
+      "arxiv": "2511.13087"
+    },
+    "first_published_at": "2025-11-17",
+    "record_updated_at": "2025-11-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2cdabdd4fc56b95c2b0c801fefd76d4c724aa0a1d7f762623d4314ca9a38e85c",
+      "submitted_at": "2025-11-17T07:38:05Z",
+      "updated_at": "2025-11-17T07:38:05Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2511.13087v1"
+    }
+  },
+  "note": "First published: 2025-11-17; Recorded arXiv version: v1; Recorded version updated: 2025-11-17T07:38:05Z.",
+  "author": [
+    {
+      "literal": "SeokJoo Kwak"
+    },
+    {
+      "literal": "Jihoon Kim"
+    },
+    {
+      "literal": "Boyoun Kim"
+    },
+    {
+      "literal": "Jung Jae Yoon"
+    },
+    {
+      "literal": "Wooseok Jang"
+    },
+    {
+      "literal": "Jeonghoon Hong"
+    },
+    {
+      "literal": "Jaeho Yang"
+    },
+    {
+      "literal": "Yeong-Dae Kwon"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.13087",
+  "genre": "preprint",
+  "version": "1"
+}

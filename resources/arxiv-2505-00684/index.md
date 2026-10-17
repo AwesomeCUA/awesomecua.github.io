@@ -16,9 +16,16 @@ RegionFocus adds visual test-time scaling by zooming into selected screenshot re
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-00684/record.json
+
 ## Authors
 
 Tiange Luo, Lajanugen Logeswaran, Justin Johnson, Honglak Lee
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-00684/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-00684/citation.csl.json
 
 ## Recorded arXiv snapshot
 

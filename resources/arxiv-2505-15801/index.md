@@ -16,9 +16,16 @@ Bibliographic record for VerifyBench: Benchmarking Reference-based Reward System
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-15801/record.json
+
 ## Authors
 
 Yuchen Yan, Jin Jiang, Zhenbang Ren, Yijun Li, Xudong Cai, Yang Liu, Xin Xu, Mengdi Zhang, Jian Shao, Yongliang Shen, Jun Xiao, Yueting Zhuang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-15801/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-15801/citation.csl.json
 
 ## Recorded arXiv snapshot
 

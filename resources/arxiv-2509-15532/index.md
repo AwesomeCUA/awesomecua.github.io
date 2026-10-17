@@ -16,9 +16,16 @@ GUI-ARP uses visual attention to crop relevant screenshot regions and decides wh
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-15532/record.json
+
 ## Authors
 
 Xianhang Ye, Yiqing Li, Wei Dai, Miancan Liu, Ziyuan Chen, Zhangye Han, Hongbo Min, Jinkui Ren, Xiantao Zhang, Wen Yang, Zhi Jin
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-15532/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-15532/citation.csl.json
 
 ## Recorded arXiv snapshot
 

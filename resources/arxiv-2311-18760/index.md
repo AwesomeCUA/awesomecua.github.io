@@ -16,9 +16,16 @@ Bibliographic record for TaskBench: Benchmarking Large Language Models for Task 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-18760/record.json
+
 ## Authors
 
 Yongliang Shen, Kaitao Song, Xu Tan, Wenqi Zhang, Kan Ren, Siyu Yuan, Weiming Lu, Dongsheng Li, Yueting Zhuang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-18760/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-18760/citation.csl.json
 
 ## Recorded arXiv snapshot
 

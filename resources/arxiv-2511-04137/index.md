@@ -16,9 +16,16 @@ Bibliographic record for Learning from Online Videos at Inference Time for Compu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-04137/record.json
+
 ## Authors
 
 Yujian Liu, Ze Wang, Hao Chen, Ximeng Sun, Xiaodong Yu, Jialian Wu, Jiang Liu, Emad Barsoum, Zicheng Liu, Shiyu Chang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-04137/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-04137/citation.csl.json
 
 ## Recorded arXiv snapshot
 

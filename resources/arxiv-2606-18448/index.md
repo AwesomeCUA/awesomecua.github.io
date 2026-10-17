@@ -16,9 +16,16 @@ Bibliographic record for VISUALSKILL: Multimodal Skills for Computer-Use Agents.
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-18448/record.json
+
 ## Authors
 
 Ziyan Jiang, Li An, Yujian Liu, Jiabao Ji, Qiucheng Wu, Jacob Andreas, Yang Zhang, Shiyu Chang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-18448/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-18448/citation.csl.json
 
 ## Recorded arXiv snapshot
 

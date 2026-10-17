@@ -16,9 +16,16 @@ Bibliographic record for WebExpert: domain-aware web agents with critic-guided e
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-06177/record.json
+
 ## Authors
 
 Yuelin Hu, Zhengxue Cheng, Ronghua Wu, Qunshan Gu, Hongwei Hu, Wei Liu, Qiao Liang, Li Song
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-06177/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-06177/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2510.01670",
+  "citation-key": "arxiv_2510_01670",
+  "type": "article",
+  "title": "Just Do It!? Computer-Use Agents Exhibit Blind Goal-Directedness",
+  "URL": "https://arxiv.org/abs/2510.01670v1",
+  "custom": {
+    "catalog_id": "arxiv:2510.01670",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.01670",
+    "identifiers": {
+      "arxiv": "2510.01670"
+    },
+    "first_published_at": "2025-10-02",
+    "record_updated_at": "2025-10-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a6426fa5eeb3dfafef30e47dd46a6a43dff3e24bf0ff485b7d10ab9efe133f94",
+      "submitted_at": "2025-10-02T04:52:15Z",
+      "updated_at": "2025-10-02T04:52:15Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2510.01670v1"
+    }
+  },
+  "note": "First published: 2025-10-02; Recorded arXiv version: v1; Recorded version updated: 2025-10-02T04:52:15Z.",
+  "author": [
+    {
+      "literal": "Erfan Shayegani"
+    },
+    {
+      "literal": "Keegan Hines"
+    },
+    {
+      "literal": "Yue Dong"
+    },
+    {
+      "literal": "Nael Abu-Ghazaleh"
+    },
+    {
+      "literal": "Roman Lutz"
+    },
+    {
+      "literal": "Spencer Whitehead"
+    },
+    {
+      "literal": "Vidhisha Balachandran"
+    },
+    {
+      "literal": "Besmira Nushi"
+    },
+    {
+      "literal": "Vibhav Vineet"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.01670",
+  "genre": "preprint",
+  "version": "1"
+}

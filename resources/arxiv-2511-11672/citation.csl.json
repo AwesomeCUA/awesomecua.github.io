@@ -1,0 +1,127 @@
+{
+  "id": "arxiv:2511.11672",
+  "citation-key": "arxiv_2511_11672",
+  "type": "article",
+  "title": "OSGym: Scalable OS Infra for Computer Use Agents",
+  "URL": "https://arxiv.org/abs/2511.11672v5",
+  "custom": {
+    "catalog_id": "arxiv:2511.11672",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2511.11672",
+    "identifiers": {
+      "arxiv": "2511.11672"
+    },
+    "first_published_at": "2025-11-11",
+    "record_updated_at": "2026-04-02",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "755d41575ae8ee5d07be0022c8f078c742da4628f12ecd1cad984269441021cf",
+      "submitted_at": "2025-11-11T20:03:38Z",
+      "updated_at": "2026-04-02T02:42:36Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2511.11672v5"
+    }
+  },
+  "note": "First published: 2025-11-11; Recorded arXiv version: v5; Recorded version updated: 2026-04-02T02:42:36Z.",
+  "author": [
+    {
+      "literal": "Zengyi Qin"
+    },
+    {
+      "literal": "Jinyuan Chen"
+    },
+    {
+      "literal": "Yunze Man"
+    },
+    {
+      "literal": "Shengcao Cao"
+    },
+    {
+      "literal": "Ziqi Pang"
+    },
+    {
+      "literal": "Zhuoyuan Wang"
+    },
+    {
+      "literal": "Han Fang"
+    },
+    {
+      "literal": "Ling Zhu"
+    },
+    {
+      "literal": "Zixin Xie"
+    },
+    {
+      "literal": "Zibu Wei"
+    },
+    {
+      "literal": "Tianshu Ran"
+    },
+    {
+      "literal": "Haoran Geng"
+    },
+    {
+      "literal": "Ray Pan"
+    },
+    {
+      "literal": "Qizhen Sun"
+    },
+    {
+      "literal": "Zachary Bright"
+    },
+    {
+      "literal": "Yuyang Cai"
+    },
+    {
+      "literal": "Chongye Yang"
+    },
+    {
+      "literal": "Jiace Zhao"
+    },
+    {
+      "literal": "Tianrui Liu"
+    },
+    {
+      "literal": "Han Cao"
+    },
+    {
+      "literal": "Yeyang Zhou"
+    },
+    {
+      "literal": "Rui Wang"
+    },
+    {
+      "literal": "Song Wang"
+    },
+    {
+      "literal": "Xiang Ren"
+    },
+    {
+      "literal": "Bo Zhang"
+    },
+    {
+      "literal": "Yutong Ban"
+    },
+    {
+      "literal": "Pieter Abbeel"
+    },
+    {
+      "literal": "Brian Anthony"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.11672",
+  "genre": "preprint",
+  "version": "5"
+}

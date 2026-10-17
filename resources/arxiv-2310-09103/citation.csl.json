@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2310.09103",
+  "citation-key": "arxiv_2310_09103",
+  "type": "article",
+  "title": "Qin's Algorithm, Continued Fractions and 2-dimensional Lattices",
+  "URL": "https://arxiv.org/abs/2310.09103v2",
+  "custom": {
+    "catalog_id": "arxiv:2310.09103",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2310.09103",
+    "identifiers": {
+      "arxiv": "2310.09103"
+    },
+    "first_published_at": "2023-10-13",
+    "record_updated_at": "2023-11-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a7d19c533cb05162a4ec25954e0b8b8a9c9f48adce88531fb95dd4e4f3878ff4",
+      "submitted_at": "2023-10-13T13:49:05Z",
+      "updated_at": "2023-11-07T08:29:52Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2310.09103v2"
+    }
+  },
+  "note": "First published: 2023-10-13; Recorded arXiv version: v2; Recorded version updated: 2023-11-07T08:29:52Z.",
+  "author": [
+    {
+      "literal": "Han Wu"
+    },
+    {
+      "literal": "Guangwu Xu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2310.09103",
+  "genre": "preprint",
+  "version": "2"
+}

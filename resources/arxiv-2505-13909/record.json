@@ -1,0 +1,86 @@
+{
+  "aliases": [],
+  "authors": [
+    "Yanheng He",
+    "Jiahe Jin",
+    "Pengfei Liu"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "026a64046926912a54e6a7c6cf62a17740a6f89a94713615f9750f8bf8302c78",
+      "submitted_at": "2025-05-20T04:20:18Z",
+      "updated_at": "2026-03-03T03:55:55Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2505.13909v2"
+    }
+  },
+  "environments": [
+    "windows",
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:54Z",
+      "role": "primary",
+      "sha256": "4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:54Z",
+      "role": "primary",
+      "sha256": "4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2505.13909",
+  "identifiers": {
+    "arxiv": "2505.13909"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:54Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2505.13909"
+    }
+  ],
+  "name": "Efficient Agent Training for Computer Use",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2025-05-20",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "PC Agent-E augments 312 human computer-use trajectories with alternative action decisions synthesized by Claude 3.7 Sonnet. It studies training with this combination and introduces WindowsAgentArena-V2 as an updated evaluation benchmark.",
+  "topics": [
+    "data-generation",
+    "evaluation"
+  ],
+  "updated_at": "2026-03-03",
+  "url": "https://arxiv.org/abs/2505.13909"
+}

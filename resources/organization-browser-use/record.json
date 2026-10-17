@@ -1,0 +1,60 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:38:27Z",
+      "role": "primary",
+      "sha256": "69e029d01dda3806f88abfaee01da08c671adcb3555f1314e975ab8942a686ae",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://browser-use.com/"
+    }
+  ],
+  "id": "organization:browser-use",
+  "identifiers": {},
+  "kind": "company",
+  "last_verified_at": "2026-10-16T06:38:27Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://browser-use.com/"
+    }
+  ],
+  "name": "Browser Use",
+  "notes": "Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://browser-use.com/",
+      "target_id": "organization:browser-use",
+      "type": "published_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Publisher or product brand associated with Browser Use computer-use or browser automation offerings.",
+  "topics": [
+    "industry"
+  ],
+  "updated_at": null,
+  "url": "https://browser-use.com/"
+}

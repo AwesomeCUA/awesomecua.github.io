@@ -16,9 +16,16 @@ Bibliographic record for Robust, Observable, and Evolvable Agentic Systems Engin
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-20729/record.json
+
 ## Authors
 
 Jiazheng Sun, Ruimeng Yang, Xu Han, Jiayang Niu, Mingxuan Li, Te Yang, Yongyong Lu, Xin Peng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-20729/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-20729/citation.csl.json
 
 ## Recorded arXiv snapshot
 

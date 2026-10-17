@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2506.02539",
+  "citation-key": "arxiv_2506_02539",
+  "type": "article",
+  "title": "VerificAgent: Domain-Specific Memory Verification for Scalable Oversight of Aligned Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2506.02539v3",
+  "custom": {
+    "catalog_id": "arxiv:2506.02539",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2506.02539",
+    "identifiers": {
+      "arxiv": "2506.02539"
+    },
+    "first_published_at": "2025-06-03",
+    "record_updated_at": "2025-08-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "401ca18cadbf38045fa20985354988571b69e2280b1a090aff0e128cdf3c70e0",
+      "submitted_at": "2025-06-03T07:25:49Z",
+      "updated_at": "2025-08-07T21:48:01Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2506.02539v3"
+    }
+  },
+  "note": "First published: 2025-06-03; Recorded arXiv version: v3; Recorded version updated: 2025-08-07T21:48:01Z.",
+  "author": [
+    {
+      "literal": "Thong Q. Nguyen"
+    },
+    {
+      "literal": "Shubhang Desai"
+    },
+    {
+      "literal": "Raja Hasnain Anwar"
+    },
+    {
+      "literal": "Firoz Shaik"
+    },
+    {
+      "literal": "Vishwas Suryanarayanan"
+    },
+    {
+      "literal": "Vishal Chowdhary"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.02539",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -16,6 +16,8 @@ Seg2Click checkpoint using a 2B Qwen3.5 backbone to predict a mask and select an
 
 The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference.
 
+- Record JSON: https://awesomecua.github.io/resources/url-fec1c5aa8fd93cb78923/record.json
+
 ## License declarations
 
 - code: not recorded

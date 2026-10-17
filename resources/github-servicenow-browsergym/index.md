@@ -16,6 +16,8 @@ Unified interfaces for browser-agent tasks and benchmark environments.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-servicenow-browsergym/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/ServiceNow/BrowserGym/HEAD/LICENSE

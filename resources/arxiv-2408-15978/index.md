@@ -16,9 +16,16 @@ WebPilot separates global subtask planning from local Monte Carlo tree search du
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2408-15978/record.json
+
 ## Authors
 
 Yao Zhang, Zijian Ma, Yunpu Ma, Zhen Han, Yu Wu, Volker Tresp
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2408-15978/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2408-15978/citation.csl.json
 
 ## Recorded arXiv snapshot
 

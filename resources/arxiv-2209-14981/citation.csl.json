@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:2209.14981",
+  "citation-key": "arxiv_2209_14981",
+  "type": "article",
+  "title": "Stop Wasting My Time! Saving Days of ImageNet and BERT Training with Latest Weight Averaging",
+  "URL": "https://arxiv.org/abs/2209.14981v2",
+  "custom": {
+    "catalog_id": "arxiv:2209.14981",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2209.14981",
+    "identifiers": {
+      "arxiv": "2209.14981"
+    },
+    "first_published_at": "2022-09-29",
+    "record_updated_at": "2022-10-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "859971891f6fb78d654a01547c254eeb231d1900aea6a7d85ca2d99cd7b0a9c3",
+      "submitted_at": "2022-09-29T17:46:13Z",
+      "updated_at": "2022-10-06T17:57:36Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2209.14981v2"
+    }
+  },
+  "note": "First published: 2022-09-29; Recorded arXiv version: v2; Recorded version updated: 2022-10-06T17:57:36Z.",
+  "author": [
+    {
+      "literal": "Jean Kaddour"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        9,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2209.14981",
+  "genre": "preprint",
+  "version": "2"
+}

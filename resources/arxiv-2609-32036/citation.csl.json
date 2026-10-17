@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2609.32036",
+  "citation-key": "arxiv_2609_32036",
+  "type": "article",
+  "title": "ScreenHaystack: Finding Blind Zones in GUI Grounding",
+  "URL": "https://arxiv.org/abs/2609.32036v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.32036",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.32036",
+    "identifiers": {
+      "arxiv": "2609.32036"
+    },
+    "first_published_at": "2026-09-25",
+    "record_updated_at": "2026-09-25",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "12976e58eb48d9c4709fb03508ac7ed7eeafffd3df675d3dccfd09bdc354f3db",
+      "submitted_at": "2026-09-25T22:07:29Z",
+      "updated_at": "2026-09-25T22:07:29Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.32036v1"
+    }
+  },
+  "note": "First published: 2026-09-25; Recorded arXiv version: v1; Recorded version updated: 2026-09-25T22:07:29Z.",
+  "author": [
+    {
+      "literal": "Chenyue Li"
+    },
+    {
+      "literal": "Xiaoxiao Sun"
+    },
+    {
+      "literal": "Yubo Deng"
+    },
+    {
+      "literal": "Qinlin Zhao"
+    },
+    {
+      "literal": "Serena Yeung-Levy"
+    },
+    {
+      "literal": "Yuhui Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.32036",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Trial and Error: Exploration-Based Trajectory Optimizat
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-02502/record.json
+
 ## Authors
 
 Yifan Song, Da Yin, Xiang Yue, Jie Huang, Sujian Li, Bill Yuchen Lin
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-02502/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-02502/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Introduces CASA to assess web agents' responses to cultural and social norms in 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-23252/record.json
+
 ## Authors
 
 Haoyi Qiu, Alexander R. Fabbri, Divyansh Agarwal, Kung-Hsiang Huang, Sarah Tan, Nanyun Peng, Chien-Sheng Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-23252/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-23252/citation.csl.json
 
 ## Recorded arXiv snapshot
 

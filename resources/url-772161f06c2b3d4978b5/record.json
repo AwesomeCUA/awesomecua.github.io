@@ -1,0 +1,96 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/osunlp/WebJudge-7B/tree/main",
+    "gated": false,
+    "hub_id": "osunlp/WebJudge-7B"
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:03:41Z",
+      "role": "primary",
+      "sha256": "425f11651cdae09997c1b038cdc9c091778c35a51b8de88140fc6dc935b8bb64",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/osunlp/WebJudge-7B/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:03:41Z",
+      "role": "primary",
+      "sha256": "2eebc1f909263be946057306b41d733e29f0f32337dae02da4e989b5477cf31f",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/api/models/osunlp/WebJudge-7B"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T04:03:41Z",
+      "role": "primary",
+      "sha256": "425f11651cdae09997c1b038cdc9c091778c35a51b8de88140fc6dc935b8bb64",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/osunlp/WebJudge-7B/raw/main/README.md"
+    }
+  ],
+  "id": "url:772161f06c2b3d4978b5",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T04:03:41Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "apache-2.0",
+      "retrieved_at": "2026-10-17T04:03:41Z",
+      "url": "https://huggingface.co/osunlp/WebJudge-7B/raw/main/README.md"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/osunlp/WebJudge-7B"
+    }
+  ],
+  "name": "WebJudge 7B",
+  "notes": "Four public safetensors shards are present. Apache-2.0 is declared for the weights. This is an evaluator checkpoint rather than a navigation policy; human-agreement rates are not treated as task-success scores.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/osunlp/WebJudge-7B/raw/main/README.md",
+      "target_id": "arxiv:2504.01382",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A visual trajectory judge that retains selected intermediate screenshots to evaluate whether a web agent completed its task.",
+  "topics": [
+    "evaluation",
+    "reward-models",
+    "web-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/osunlp/WebJudge-7B"
+}

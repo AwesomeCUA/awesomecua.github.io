@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:1606.02713",
+  "citation-key": "arxiv_1606_02713",
+  "type": "article",
+  "title": "MESA meets MURaM: Surface effects in main-sequence solar-like oscillators computed using three-dimensional radiation hydrodynamics simulations",
+  "URL": "https://arxiv.org/abs/1606.02713v1",
+  "custom": {
+    "catalog_id": "arxiv:1606.02713",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1606.02713",
+    "identifiers": {
+      "arxiv": "1606.02713"
+    },
+    "first_published_at": "2016-06-08",
+    "record_updated_at": "2016-06-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6ace750a18cb51d37771d1df851fe6f346a93697b71811e73603b3b0802337ae",
+      "submitted_at": "2016-06-08T20:00:00Z",
+      "updated_at": "2016-06-08T20:00:00Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1606.02713v1"
+    }
+  },
+  "note": "First published: 2016-06-08; Recorded arXiv version: v1; Recorded version updated: 2016-06-08T20:00:00Z.",
+  "author": [
+    {
+      "literal": "W. H. Ball"
+    },
+    {
+      "literal": "B. Beeck"
+    },
+    {
+      "literal": "R. H. Cameron"
+    },
+    {
+      "literal": "L. Gizon"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2016,
+        6,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1606.02713",
+  "genre": "preprint",
+  "version": "1"
+}

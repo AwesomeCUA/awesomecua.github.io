@@ -16,9 +16,16 @@ Builds reusable page memories from past mobile trajectories and retrieves them t
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-21953/record.json
+
 ## Authors
 
 Yi Kong, Dianxi Shi, Guoli Yang, Zhang ke-di, Chenlin Huang, Xiaopeng Li, Songchang Jin
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-21953/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-21953/citation.csl.json
 
 ## Recorded arXiv snapshot
 

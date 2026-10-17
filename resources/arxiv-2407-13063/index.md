@@ -16,9 +16,16 @@ Bibliographic record for Smart polymer solution and thermal conductivity: How im
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-13063/record.json
+
 ## Authors
 
 Mokter M. Chowdhury, Robinson Cortes-Huerto, Debashish Mukherji
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-13063/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-13063/citation.csl.json
 
 ## Recorded arXiv snapshot
 

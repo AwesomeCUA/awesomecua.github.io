@@ -1,0 +1,60 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "metrics": [],
+    "task_count": null
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:35:58Z",
+      "role": "primary",
+      "sha256": "e1d75e8a196f19af6050c53694383f069561244c810ca259c5f8075ee91f72b1",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/MobileAgentBench/mobile-agent-bench/HEAD/README.md"
+    }
+  ],
+  "id": "github:mobileagentbench/mobile-agent-bench",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-16T06:35:58Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/MobileAgentBench/mobile-agent-bench"
+    }
+  ],
+  "name": "MobileAgentBench",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Evaluation toolkit and tasks for mobile agents.",
+  "topics": [
+    "evaluation",
+    "mobile-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/MobileAgentBench/mobile-agent-bench"
+}

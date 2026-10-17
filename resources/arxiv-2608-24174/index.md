@@ -16,9 +16,16 @@ Introduces AdaptRubric, which retrieves reusable criteria for a GUI task family 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-24174/record.json
+
 ## Authors
 
 Tao Xiong, Xavier Hu, Wenkai Wang, Qinzhuo Wu, Changqiao Wu, Pengzhi Gao, Wei Liu, Jian Luan, Shengyu Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-24174/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-24174/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Introduces CarryOn, which maintains evidence-linked task objects and remaining-w
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-18784/record.json
+
 ## Authors
 
 Yuchen Lu, Julian McAuley, Lei Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-18784/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-18784/citation.csl.json
 
 ## Recorded arXiv snapshot
 

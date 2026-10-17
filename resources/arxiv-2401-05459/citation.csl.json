@@ -1,0 +1,118 @@
+{
+  "id": "arxiv:2401.05459",
+  "citation-key": "arxiv_2401_05459",
+  "type": "article",
+  "title": "Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security",
+  "URL": "https://arxiv.org/abs/2401.05459v2",
+  "custom": {
+    "catalog_id": "arxiv:2401.05459",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2401.05459",
+    "identifiers": {
+      "arxiv": "2401.05459"
+    },
+    "first_published_at": "2024-01-10",
+    "record_updated_at": "2024-05-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "dc28f7eef225940b41b01940ae3ac594ca76ef4c6db5f19a99a4ac2519b95432",
+      "submitted_at": "2024-01-10T09:25:45Z",
+      "updated_at": "2024-05-08T06:16:23Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2401.05459v2"
+    }
+  },
+  "note": "First published: 2024-01-10; Recorded arXiv version: v2; Recorded version updated: 2024-05-08T06:16:23Z.",
+  "author": [
+    {
+      "literal": "Yuanchun Li"
+    },
+    {
+      "literal": "Hao Wen"
+    },
+    {
+      "literal": "Weijun Wang"
+    },
+    {
+      "literal": "Xiangyu Li"
+    },
+    {
+      "literal": "Yizhen Yuan"
+    },
+    {
+      "literal": "Guohong Liu"
+    },
+    {
+      "literal": "Jiacheng Liu"
+    },
+    {
+      "literal": "Wenxing Xu"
+    },
+    {
+      "literal": "Xiang Wang"
+    },
+    {
+      "literal": "Yi Sun"
+    },
+    {
+      "literal": "Rui Kong"
+    },
+    {
+      "literal": "Yile Wang"
+    },
+    {
+      "literal": "Hanfei Geng"
+    },
+    {
+      "literal": "Jian Luan"
+    },
+    {
+      "literal": "Xuefeng Jin"
+    },
+    {
+      "literal": "Zilong Ye"
+    },
+    {
+      "literal": "Guanjing Xiong"
+    },
+    {
+      "literal": "Fan Zhang"
+    },
+    {
+      "literal": "Xiang Li"
+    },
+    {
+      "literal": "Mengwei Xu"
+    },
+    {
+      "literal": "Zhijun Li"
+    },
+    {
+      "literal": "Peng Li"
+    },
+    {
+      "literal": "Yang Liu"
+    },
+    {
+      "literal": "Ya-Qin Zhang"
+    },
+    {
+      "literal": "Yunxin Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2401.05459",
+  "genre": "preprint",
+  "version": "2"
+}

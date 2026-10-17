@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2406.20041",
+  "citation-key": "arxiv_2406_20041",
+  "type": "article",
+  "title": "BMW Agents -- A Framework For Task Automation Through Multi-Agent Collaboration",
+  "URL": "https://arxiv.org/abs/2406.20041v3",
+  "custom": {
+    "catalog_id": "arxiv:2406.20041",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2406.20041",
+    "identifiers": {
+      "arxiv": "2406.20041"
+    },
+    "first_published_at": "2024-06-28",
+    "record_updated_at": "2024-07-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d789a22c68e775f31fe130b2dd8fb312dfe8088e24ffe02ddd8f4e7594a6b18d",
+      "submitted_at": "2024-06-28T16:39:20Z",
+      "updated_at": "2024-07-02T11:45:05Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2406.20041v3"
+    }
+  },
+  "note": "First published: 2024-06-28; Recorded arXiv version: v3; Recorded version updated: 2024-07-02T11:45:05Z.",
+  "author": [
+    {
+      "literal": "Noel Crawford"
+    },
+    {
+      "literal": "Edward B. Duffy"
+    },
+    {
+      "literal": "Iman Evazzade"
+    },
+    {
+      "literal": "Torsten Foehr"
+    },
+    {
+      "literal": "Gregory Robbins"
+    },
+    {
+      "literal": "Debbrata Kumar Saha"
+    },
+    {
+      "literal": "Jiya Varma"
+    },
+    {
+      "literal": "Marcin Ziolkowski"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.20041",
+  "genre": "preprint",
+  "version": "3"
+}

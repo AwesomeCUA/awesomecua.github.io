@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2609.33646",
+  "citation-key": "arxiv_2609_33646",
+  "type": "article",
+  "title": "Probe to Act: Elevating Browser-Use Agent via Active Visual Probing",
+  "URL": "https://arxiv.org/abs/2609.33646v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.33646",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.33646",
+    "identifiers": {
+      "arxiv": "2609.33646"
+    },
+    "first_published_at": "2026-09-27",
+    "record_updated_at": "2026-09-27",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "88daacf5fda62f59a08b504a633ad984ee1d03791bba24e89c223c0686adf34e",
+      "submitted_at": "2026-09-27T15:11:30Z",
+      "updated_at": "2026-09-27T15:11:30Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.33646v1"
+    }
+  },
+  "note": "First published: 2026-09-27; Recorded arXiv version: v1; Recorded version updated: 2026-09-27T15:11:30Z.",
+  "author": [
+    {
+      "literal": "Keliang Li"
+    },
+    {
+      "literal": "Heng Wang"
+    },
+    {
+      "literal": "Chen Hu"
+    },
+    {
+      "literal": "Daxin Jiang"
+    },
+    {
+      "literal": "Hong Chang"
+    },
+    {
+      "literal": "Shiguang Shan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.33646",
+  "genre": "preprint",
+  "version": "1"
+}

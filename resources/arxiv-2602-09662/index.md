@@ -16,9 +16,16 @@ Bibliographic record for TreeCUA: Efficiently Scaling GUI Automation with Tree-S
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-09662/record.json
+
 ## Authors
 
 Deyang Jiang, Jing Huang, Xuanle Zhao, Lei Chen, Liming Zheng, Fanfan Liu, Haibo Qiu, Peng Shi, Zhixiong Zeng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-09662/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-09662/citation.csl.json
 
 ## Recorded arXiv snapshot
 

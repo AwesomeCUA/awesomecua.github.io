@@ -1,0 +1,127 @@
+{
+  "id": "arxiv:2507.19478",
+  "citation-key": "arxiv_2507_19478",
+  "type": "article",
+  "title": "MMBench-GUI: Hierarchical Multi-Platform Evaluation Framework for GUI Agents",
+  "URL": "https://arxiv.org/abs/2507.19478v1",
+  "custom": {
+    "catalog_id": "arxiv:2507.19478",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2507.19478",
+    "identifiers": {
+      "arxiv": "2507.19478"
+    },
+    "first_published_at": "2025-07-25",
+    "record_updated_at": "2025-07-25",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8b91f7bacbac917e374aa6f656dcfbcb2e220ab3227fa2cff295c63a1c005f9f",
+      "submitted_at": "2025-07-25T17:59:26Z",
+      "updated_at": "2025-07-25T17:59:26Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2507.19478v1"
+    }
+  },
+  "note": "First published: 2025-07-25; Recorded arXiv version: v1; Recorded version updated: 2025-07-25T17:59:26Z.",
+  "author": [
+    {
+      "literal": "Xuehui Wang"
+    },
+    {
+      "literal": "Zhenyu Wu"
+    },
+    {
+      "literal": "JingJing Xie"
+    },
+    {
+      "literal": "Zichen Ding"
+    },
+    {
+      "literal": "Bowen Yang"
+    },
+    {
+      "literal": "Zehao Li"
+    },
+    {
+      "literal": "Zhaoyang Liu"
+    },
+    {
+      "literal": "Qingyun Li"
+    },
+    {
+      "literal": "Xuan Dong"
+    },
+    {
+      "literal": "Zhe Chen"
+    },
+    {
+      "literal": "Weiyun Wang"
+    },
+    {
+      "literal": "Xiangyu Zhao"
+    },
+    {
+      "literal": "Jixuan Chen"
+    },
+    {
+      "literal": "Haodong Duan"
+    },
+    {
+      "literal": "Tianbao Xie"
+    },
+    {
+      "literal": "Chenyu Yang"
+    },
+    {
+      "literal": "Shiqian Su"
+    },
+    {
+      "literal": "Yue Yu"
+    },
+    {
+      "literal": "Yuan Huang"
+    },
+    {
+      "literal": "Yiqian Liu"
+    },
+    {
+      "literal": "Xiao Zhang"
+    },
+    {
+      "literal": "Yanting Zhang"
+    },
+    {
+      "literal": "Xiangyu Yue"
+    },
+    {
+      "literal": "Weijie Su"
+    },
+    {
+      "literal": "Xizhou Zhu"
+    },
+    {
+      "literal": "Wei Shen"
+    },
+    {
+      "literal": "Jifeng Dai"
+    },
+    {
+      "literal": "Wenhai Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.19478",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Bibliographic record for VISTA: View-Consistent Self-Verified Training for GUI G
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-14579/record.json
+
 ## Authors
 
 Xinyu Qiu, Yunzhu Zhang, Heng Jia, Shuheng Shen, Changhua Meng, Linchao Zhu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-14579/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-14579/citation.csl.json
 
 ## Recorded arXiv snapshot
 

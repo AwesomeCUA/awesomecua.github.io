@@ -16,9 +16,16 @@ Uses workflows extracted from demonstrations to constrain reinforcement-learning
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1802-08802/record.json
+
 ## Authors
 
 Evan Zheran Liu, Kelvin Guu, Panupong Pasupat, Tianlin Shi, Percy Liang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1802-08802/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1802-08802/citation.csl.json
 
 ## Recorded arXiv snapshot
 

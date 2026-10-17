@@ -16,9 +16,16 @@ TGPO merges semantically equivalent web states into tree-structured trajectories
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-14172/record.json
+
 ## Authors
 
 Ziyuan Chen, Zhenghui Zhao, Zhangye Han, Miancan Liu, Xianhang Ye, Yiqing Li, Hongbo Min, Jinkui Ren, Xiantao Zhang, Guitao Cao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-14172/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-14172/citation.csl.json
 
 ## Recorded arXiv snapshot
 

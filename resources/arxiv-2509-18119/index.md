@@ -16,9 +16,16 @@ MobileRL adapts GRPO to mobile GUI training with difficulty-dependent replay of 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-18119/record.json
+
 ## Authors
 
 Yifan Xu, Xiao Liu, Xinghan Liu, Jiaqi Fu, Hanchen Zhang, Bohao Jing, Shudan Zhang, Yuting Wang, Wenyi Zhao, Yuxiao Dong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-18119/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-18119/citation.csl.json
 
 ## Recorded arXiv snapshot
 

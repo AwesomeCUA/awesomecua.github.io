@@ -16,9 +16,16 @@ Bibliographic record for Scaling Web Agent Training through Automatic Data Gener
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-12544/record.json
+
 ## Authors
 
 Lajanugen Logeswaran, Jaekyeom Kim, Sungryull Sohn, Creighton Glasscock, Honglak Lee
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-12544/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-12544/citation.csl.json
 
 ## Recorded arXiv snapshot
 

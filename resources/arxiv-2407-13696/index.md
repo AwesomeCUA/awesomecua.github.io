@@ -16,9 +16,16 @@ Bibliographic record for Do These LLM Benchmarks Agree? Fixing Benchmark Evaluat
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-13696/record.json
+
 ## Authors
 
 Yotam Perlitz, Ariel Gera, Ofir Arviv, Asaf Yehudai, Elron Bandel, Eyal Shnarch, Michal Shmueli-Scheuer, Leshem Choshen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-13696/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-13696/citation.csl.json
 
 ## Recorded arXiv snapshot
 

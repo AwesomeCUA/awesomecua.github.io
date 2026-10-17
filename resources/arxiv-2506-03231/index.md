@@ -16,9 +16,16 @@ Bibliographic record for NetArena: Dynamic Benchmarks for AI Agents in Network A
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-03231/record.json
+
 ## Authors
 
 Yajie Zhou, Jiajun Ruan, Eric S. Wang, Sadjad Fouladi, Francis Y. Yan, Kevin Hsieh, Zaoxing Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-03231/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-03231/citation.csl.json
 
 ## Recorded arXiv snapshot
 

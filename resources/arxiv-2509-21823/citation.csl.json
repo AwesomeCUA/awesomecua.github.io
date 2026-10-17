@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2509.21823",
+  "citation-key": "arxiv_2509_21823",
+  "type": "article",
+  "title": "ProRe: A Proactive Reward System for GUI Agents via Reasoner-Actor Collaboration",
+  "URL": "https://arxiv.org/abs/2509.21823v2",
+  "custom": {
+    "catalog_id": "arxiv:2509.21823",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.21823",
+    "identifiers": {
+      "arxiv": "2509.21823"
+    },
+    "first_published_at": "2025-09-26",
+    "record_updated_at": "2026-04-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c96f310fb0f28888c59dce71d08697b603e7a7562fdf99b51e3504b93e9e81b3",
+      "submitted_at": "2025-09-26T03:29:36Z",
+      "updated_at": "2026-04-15T09:19:46Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2509.21823v2"
+    }
+  },
+  "note": "First published: 2025-09-26; Recorded arXiv version: v2; Recorded version updated: 2026-04-15T09:19:46Z.",
+  "author": [
+    {
+      "literal": "Gaole Dai"
+    },
+    {
+      "literal": "Shiqi Jiang"
+    },
+    {
+      "literal": "Ting Cao"
+    },
+    {
+      "literal": "Yuqing Yang"
+    },
+    {
+      "literal": "Yuanchun Li"
+    },
+    {
+      "literal": "Rui Tan"
+    },
+    {
+      "literal": "Mo Li"
+    },
+    {
+      "literal": "Lili Qiu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.21823",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:1405.0527",
+  "citation-key": "arxiv_1405_0527",
+  "type": "article",
+  "title": "Parallel computation using active self-assembly",
+  "URL": "https://arxiv.org/abs/1405.0527v2",
+  "custom": {
+    "catalog_id": "arxiv:1405.0527",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1405.0527",
+    "identifiers": {
+      "arxiv": "1405.0527"
+    },
+    "first_published_at": "2014-05-02",
+    "record_updated_at": "2014-09-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "777d82287ef412cd97969a4af72e49c10ebb8af4b9d03096f3c3b8e7b59a80f6",
+      "submitted_at": "2014-05-02T22:19:53Z",
+      "updated_at": "2014-09-05T16:27:14Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/1405.0527v2"
+    }
+  },
+  "note": "First published: 2014-05-02; Recorded arXiv version: v2; Recorded version updated: 2014-09-05T16:27:14Z.",
+  "author": [
+    {
+      "literal": "Moya Chen"
+    },
+    {
+      "literal": "Doris Xin"
+    },
+    {
+      "literal": "Damien Woods"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2014,
+        5,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1405.0527",
+  "genre": "preprint",
+  "version": "2"
+}

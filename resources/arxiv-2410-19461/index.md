@@ -16,9 +16,16 @@ Synthesizes GUI training examples at multiple levels of detail from webpages and
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-19461/record.json
+
 ## Authors
 
 Xuetian Chen, Hangcheng Li, Jiaqing Liang, Sihang Jiang, Deqing Yang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-19461/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-19461/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for GOV-REK: Governed Reward Engineering Kernels for Design
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-01131/record.json
+
 ## Authors
 
 Ashish Rana, Michael Oesterle, Jannik Brinkmann
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-01131/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-01131/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2606.02031",
+  "citation-key": "arxiv_2606_02031",
+  "type": "article",
+  "title": "OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents",
+  "URL": "https://arxiv.org/abs/2606.02031v2",
+  "custom": {
+    "catalog_id": "arxiv:2606.02031",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.02031",
+    "identifiers": {
+      "arxiv": "2606.02031"
+    },
+    "first_published_at": "2026-06-01",
+    "record_updated_at": "2026-06-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4d5fdcffb29f45407f41a5e00d7c4052051b05f4ca5b320feffad9e8f070b7c2",
+      "submitted_at": "2026-06-01T10:20:10Z",
+      "updated_at": "2026-06-04T09:03:30Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2606.02031v2"
+    }
+  },
+  "note": "First published: 2026-06-01; Recorded arXiv version: v2; Recorded version updated: 2026-06-04T09:03:30Z.",
+  "author": [
+    {
+      "literal": "Rui Yang"
+    },
+    {
+      "literal": "Qianhui Wu"
+    },
+    {
+      "literal": "Yuxi Chen"
+    },
+    {
+      "literal": "Hao Bai"
+    },
+    {
+      "literal": "Wenlin Yao"
+    },
+    {
+      "literal": "Hao Cheng"
+    },
+    {
+      "literal": "Baolin Peng"
+    },
+    {
+      "literal": "Huan Zhang"
+    },
+    {
+      "literal": "Tong Zhang"
+    },
+    {
+      "literal": "Jianfeng Gao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.02031",
+  "genre": "preprint",
+  "version": "2"
+}

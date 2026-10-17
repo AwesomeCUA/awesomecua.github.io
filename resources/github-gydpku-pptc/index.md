@@ -16,6 +16,8 @@ PowerPoint creation and editing benchmark with API-based execution and checks of
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-gydpku-pptc/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/gydpku/PPTC/HEAD/LICENSE

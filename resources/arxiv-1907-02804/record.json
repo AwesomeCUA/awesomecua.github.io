@@ -1,0 +1,23 @@
+{
+  "status": "excluded",
+  "id": "arxiv:1907.02804",
+  "reason": "The abstract demonstrates delay-based reservoir computing on a photonic integrated chip containing a laser and delay line. This photonic computing hardware is outside the GUI/computer-use agent scope.",
+  "decision": {
+    "id": "arxiv:1907.02804",
+    "name": "Demonstrating Delay-based Reservoir Computing Using a Compact Photonic Integrated Chip",
+    "url": "https://arxiv.org/abs/1907.02804",
+    "decision": "out_of_scope",
+    "basis": "primary_abstract_review",
+    "reason": "The abstract demonstrates delay-based reservoir computing on a photonic integrated chip containing a laser and delay line. This photonic computing hardware is outside the GUI/computer-use agent scope.",
+    "reviewed_at": "2026-10-17T02:13:01Z",
+    "metadata_fingerprint": "e1f03a63fe07a397aad9fa8d2b19f200f9fae04eec51f5f6cbfd39167a319ec4",
+    "evidence": {
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=1000&max_results=100&sortBy=submittedDate&sortOrder=descending",
+      "sha256": "bb3d2692c294743a8d06d5065cc84b27b229a981c2c650ff20a2ec038797a0e3",
+      "retrieved_at": "2026-10-16T06:37:05Z"
+    },
+    "status": "excluded",
+    "status_reason": "Reviewed snapshot matches retained metadata."
+  },
+  "ledger_url": "https://awesomecua.github.io/downloads/exclusions.json"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Executable Agentic Memory for GUI Agent. Title, authors
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-12294/record.json
+
 ## Authors
 
 Zerui Qin, Sheng Yue, Xingyuan Hua, Yongjian Fu, Ju Ren
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-12294/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-12294/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Agent Workflow Memory extracts reusable task routines and selectively supplies t
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-07429/record.json
+
 ## Authors
 
 Zora Zhiruo Wang, Jiayuan Mao, Daniel Fried, Graham Neubig
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-07429/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-07429/citation.csl.json
 
 ## Recorded arXiv snapshot
 

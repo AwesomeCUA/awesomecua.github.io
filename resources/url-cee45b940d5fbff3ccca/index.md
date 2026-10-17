@@ -16,6 +16,8 @@ Released model checkpoint associated with Phi-Ground.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-cee45b940d5fbff3ccca/record.json
+
 ## License declarations
 
 - code: not recorded

@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2606.15034",
+  "citation-key": "arxiv_2606_15034",
+  "type": "article",
+  "title": "OSGuard: A Benchmark for Safety in Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2606.15034v3",
+  "custom": {
+    "catalog_id": "arxiv:2606.15034",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2606.15034",
+    "identifiers": {
+      "arxiv": "2606.15034"
+    },
+    "first_published_at": "2026-06-13",
+    "record_updated_at": "2026-10-09",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7bf0297fba942441b19bcfeba147838bdef888b428f1150c2462d8bf3d986882",
+      "submitted_at": "2026-06-13T00:32:24Z",
+      "updated_at": "2026-10-09T19:45:15Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2606.15034v3"
+    }
+  },
+  "note": "First published: 2026-06-13; Recorded arXiv version: v3; Recorded version updated: 2026-10-09T19:45:15Z.",
+  "author": [
+    {
+      "literal": "Mina Mohammadmirzaei"
+    },
+    {
+      "literal": "Jeffrey Flanigan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.15034",
+  "genre": "preprint",
+  "version": "3"
+}

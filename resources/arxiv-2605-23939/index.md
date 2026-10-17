@@ -16,9 +16,16 @@ Bibliographic record for DRIVE: Modeling Skills at the Reasoning and Interaction
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-23939/record.json
+
 ## Authors
 
 Xirui Liu, Sihang Zhou, Yanning Hou, Rong Zhou, Haoyuan Chen, Maolin He, Siwei Wang, Hao Chen, Jian Huang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-23939/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-23939/citation.csl.json
 
 ## Recorded arXiv snapshot
 

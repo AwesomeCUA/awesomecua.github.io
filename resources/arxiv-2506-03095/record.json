@@ -1,0 +1,70 @@
+{
+  "aliases": [],
+  "authors": [
+    "Man Luo",
+    "David Cobbley",
+    "Xin Su",
+    "Shachar Rosenman",
+    "Vasudev Lal",
+    "Shao-Yen Tseng",
+    "Phillip Howard"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "068eae2cab9899967850f21616a701f3eeb258b9654c83d34f68be266e48854e",
+      "submitted_at": "2025-06-03T17:27:04Z",
+      "updated_at": "2025-06-03T17:27:04Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2506.03095v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:54Z",
+      "role": "primary",
+      "sha256": "4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2506.03095",
+  "identifiers": {
+    "arxiv": "2506.03095"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:54Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2506.03095"
+    }
+  ],
+  "name": "DPO Learning with LLMs-Judge Signal for Computer Use Agents",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2025-06-03",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2025-06-03",
+  "url": "https://arxiv.org/abs/2506.03095"
+}

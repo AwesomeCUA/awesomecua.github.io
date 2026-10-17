@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2508.04037",
+  "citation-key": "arxiv_2508_04037",
+  "type": "article",
+  "title": "Evolving in Tasks: Empowering the Multi-modality Large Language Model as the Computer Use Agent",
+  "URL": "https://arxiv.org/abs/2508.04037v2",
+  "custom": {
+    "catalog_id": "arxiv:2508.04037",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2508.04037",
+    "identifiers": {
+      "arxiv": "2508.04037"
+    },
+    "first_published_at": "2025-08-06",
+    "record_updated_at": "2026-01-22",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d54ad74695a60cb040d88fcb85549912d7d4ecf6ca2ed78e636d05f8f17d1795",
+      "submitted_at": "2025-08-06T02:57:22Z",
+      "updated_at": "2026-01-22T05:22:03Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2508.04037v2"
+    }
+  },
+  "note": "First published: 2025-08-06; Recorded arXiv version: v2; Recorded version updated: 2026-01-22T05:22:03Z.",
+  "author": [
+    {
+      "literal": "Yuhao Cheng"
+    },
+    {
+      "literal": "Liang Tang"
+    },
+    {
+      "literal": "Shuxian Li"
+    },
+    {
+      "literal": "Yukang Huo"
+    },
+    {
+      "literal": "Tiaonan Duan"
+    },
+    {
+      "literal": "Kaer Huang"
+    },
+    {
+      "literal": "Yanzhe Jing"
+    },
+    {
+      "literal": "Yiqiang Yan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.04037",
+  "genre": "preprint",
+  "version": "2"
+}

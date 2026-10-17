@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2610.17792",
+  "citation-key": "arxiv_2610_17792",
+  "type": "article",
+  "title": "MHVF: Training-Free GUI Grounding via Verification-Guided Multi-Hypothesis Search",
+  "URL": "https://arxiv.org/abs/2610.17792v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.17792",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.17792",
+    "identifiers": {
+      "arxiv": "2610.17792"
+    },
+    "first_published_at": "2026-10-13",
+    "record_updated_at": "2026-10-13",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b1786bba4f48ca54166d49e3d98d55aaef52eb6e2233f282d8d94d54dfb5ed2c",
+      "submitted_at": "2026-10-13T06:20:38Z",
+      "updated_at": "2026-10-13T06:20:38Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.17792v1"
+    }
+  },
+  "note": "First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T06:20:38Z.",
+  "author": [
+    {
+      "literal": "Minghua Chen"
+    },
+    {
+      "literal": "Xingming Liao"
+    },
+    {
+      "literal": "Weiqiang Zhong"
+    },
+    {
+      "literal": "Zhuowei Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.17792",
+  "genre": "preprint",
+  "version": "1"
+}

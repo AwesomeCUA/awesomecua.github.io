@@ -16,9 +16,16 @@ AIOS 1.0 exposes computer states and actions through an MCP server to provide st
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-18829/record.json
+
 ## Authors
 
 Kai Mei, Xi Zhu, Hang Gao, Shuhang Lin, Yongfeng Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-18829/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-18829/citation.csl.json
 
 ## Recorded arXiv snapshot
 

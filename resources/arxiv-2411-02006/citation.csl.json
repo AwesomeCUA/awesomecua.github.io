@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2411.02006",
+  "citation-key": "arxiv_2411_02006",
+  "type": "article",
+  "title": "Foundations and Recent Trends in Multimodal Mobile Agents: A Survey",
+  "URL": "https://arxiv.org/abs/2411.02006v3",
+  "custom": {
+    "catalog_id": "arxiv:2411.02006",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2411.02006",
+    "identifiers": {
+      "arxiv": "2411.02006"
+    },
+    "first_published_at": "2024-11-04",
+    "record_updated_at": "2025-09-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "de860a29f6c54317586c2218688436898f1d7a8b61207b1d5f4a65b05b3a4e6e",
+      "submitted_at": "2024-11-04T11:50:58Z",
+      "updated_at": "2025-09-14T09:13:39Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2411.02006v3"
+    }
+  },
+  "note": "First published: 2024-11-04; Recorded arXiv version: v3; Recorded version updated: 2025-09-14T09:13:39Z.",
+  "author": [
+    {
+      "literal": "Biao Wu"
+    },
+    {
+      "literal": "Yanda Li"
+    },
+    {
+      "literal": "Zhiwei Zhang"
+    },
+    {
+      "literal": "Yunchao Wei"
+    },
+    {
+      "literal": "Meng Fang"
+    },
+    {
+      "literal": "Ling Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2411.02006",
+  "genre": "preprint",
+  "version": "3"
+}

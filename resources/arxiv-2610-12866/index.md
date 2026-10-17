@@ -16,9 +16,16 @@ Presents CaptchaAgent, which builds an explicit visual representation of objects
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-12866/record.json
+
 ## Authors
 
 Shangquan Sun, Ruoyu Chen, Zhirui Liu, Xiang Liu, Chenghao Qian, Wenqi Ren, Xiaochun Cao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-12866/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-12866/citation.csl.json
 
 ## Recorded arXiv snapshot
 

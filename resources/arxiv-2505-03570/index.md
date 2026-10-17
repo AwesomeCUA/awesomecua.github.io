@@ -16,9 +16,16 @@ Bibliographic record for OSUniverse: Benchmark for Multimodal GUI-navigation AI 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-03570/record.json
+
 ## Authors
 
 Mariya Davydova, Daniel Jeffries, Patrick Barker, Arturo Márquez Flores, Sinéad Ryan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-03570/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-03570/citation.csl.json
 
 ## Recorded arXiv snapshot
 

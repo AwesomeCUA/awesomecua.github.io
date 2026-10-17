@@ -16,6 +16,8 @@ General agent platform with browser-based task execution.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-d3414794302313051ff0/record.json
+
 ## License declarations
 
 - code: not recorded

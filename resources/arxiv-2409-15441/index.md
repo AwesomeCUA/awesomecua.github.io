@@ -16,9 +16,16 @@ Bibliographic record for Steward: Natural Language Web Automation. Title, author
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-15441/record.json
+
 ## Authors
 
 Brian Tang, Kang G. Shin
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-15441/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-15441/citation.csl.json
 
 ## Recorded arXiv snapshot
 

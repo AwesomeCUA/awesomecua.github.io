@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2609.40253",
+  "citation-key": "arxiv_2609_40253",
+  "type": "article",
+  "title": "ComputerSD: Online Self-Distillation from Real-Time Feedback for Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2609.40253v2",
+  "custom": {
+    "catalog_id": "arxiv:2609.40253",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.40253",
+    "identifiers": {
+      "arxiv": "2609.40253"
+    },
+    "first_published_at": "2026-09-30",
+    "record_updated_at": "2026-10-01",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8f3745b6b497c8819dc990bdb5d74e7af463d23654cbc7cdd76ade0faf2b3e0c",
+      "submitted_at": "2026-09-30T17:40:09Z",
+      "updated_at": "2026-10-01T17:50:14Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2609.40253v2"
+    }
+  },
+  "note": "First published: 2026-09-30; Recorded arXiv version: v2; Recorded version updated: 2026-10-01T17:50:14Z.",
+  "author": [
+    {
+      "literal": "Yong Du"
+    },
+    {
+      "literal": "Tongbo Chen"
+    },
+    {
+      "literal": "Zhengxi Lu"
+    },
+    {
+      "literal": "Yizhou Liu"
+    },
+    {
+      "literal": "Bofan Chen"
+    },
+    {
+      "literal": "Tao Jiang"
+    },
+    {
+      "literal": "Wenhao Xu"
+    },
+    {
+      "literal": "Yongliang Shen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.40253",
+  "genre": "preprint",
+  "version": "2"
+}

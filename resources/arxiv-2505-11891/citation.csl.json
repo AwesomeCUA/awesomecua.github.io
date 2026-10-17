@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2505.11891",
+  "citation-key": "arxiv_2505_11891",
+  "type": "article",
+  "title": "Mobile-Bench-v2: A More Realistic and Comprehensive Benchmark for VLM-based Mobile Agents",
+  "URL": "https://arxiv.org/abs/2505.11891v3",
+  "custom": {
+    "catalog_id": "arxiv:2505.11891",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2505.11891",
+    "identifiers": {
+      "arxiv": "2505.11891"
+    },
+    "first_published_at": "2025-05-17",
+    "record_updated_at": "2026-02-02",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5ca1ebfdd5a96e146d37539294462c7fb67bf20deaf77307de37aa3bb1dde082",
+      "submitted_at": "2025-05-17T07:58:34Z",
+      "updated_at": "2026-02-02T06:55:10Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2505.11891v3"
+    }
+  },
+  "note": "First published: 2025-05-17; Recorded arXiv version: v3; Recorded version updated: 2026-02-02T06:55:10Z.",
+  "author": [
+    {
+      "literal": "Weikai Xu"
+    },
+    {
+      "literal": "Zhizheng Jiang"
+    },
+    {
+      "literal": "Yuxuan Liu"
+    },
+    {
+      "literal": "Pengzhi Gao"
+    },
+    {
+      "literal": "Wei Liu"
+    },
+    {
+      "literal": "Jian Luan"
+    },
+    {
+      "literal": "Yuanchun Li"
+    },
+    {
+      "literal": "Yunxin Liu"
+    },
+    {
+      "literal": "Bin Wang"
+    },
+    {
+      "literal": "Bo An"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.11891",
+  "genre": "preprint",
+  "version": "3"
+}

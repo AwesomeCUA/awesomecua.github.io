@@ -16,9 +16,16 @@ Bibliographic record for When AUC 0.998 Is Not Enough: A Candidate Evaluation Pr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-22864/record.json
+
 ## Authors
 
 Yanhang Li, Zhichao Fan, Zexin Zhuang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-22864/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-22864/citation.csl.json
 
 ## Recorded arXiv snapshot
 

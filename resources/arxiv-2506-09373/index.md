@@ -16,9 +16,16 @@ Location Preference Optimization uses an information-entropy signal to select in
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-09373/record.json
+
 ## Authors
 
 Jiaqi Tang, Yu Xia, Yi-Feng Wu, Yuwei Hu, Yuhui Chen, Qing-Guo Chen, Xiaogang Xu, Xiangyu Wu, Hao Lu, Yanqing Ma, Shiyin Lu, Qifeng Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-09373/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-09373/citation.csl.json
 
 ## Recorded arXiv snapshot
 

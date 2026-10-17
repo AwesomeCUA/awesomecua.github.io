@@ -16,6 +16,8 @@ Publisher or product brand associated with E2B computer-use or browser automatio
 
 Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
 
+- Record JSON: https://awesomecua.github.io/resources/organization-e2b/record.json
+
 ## License declarations
 
 - code: not recorded

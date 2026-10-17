@@ -16,6 +16,8 @@ Cross-app Android interaction episodes with fine-grained step instructions, scre
 
 The project recommends this release over its earlier OpenGVLab/GUI-Odyssey upload. Episode count follows the current data card; conflicting repository prose is documented in the profile.
 
+- Record JSON: https://awesomecua.github.io/resources/url-511903ebfac45e6751b2/record.json
+
 ## Structured profile
 
 - formats: JSON annotations, PNG screenshots

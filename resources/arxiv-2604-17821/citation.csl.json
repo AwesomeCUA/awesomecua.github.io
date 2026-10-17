@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2604.17821",
+  "citation-key": "arxiv_2604_17821",
+  "type": "article",
+  "title": "WebUncertainty: Dual-Level Uncertainty Driven Planning and Reasoning For Autonomous Web Agent",
+  "URL": "https://arxiv.org/abs/2604.17821v2",
+  "custom": {
+    "catalog_id": "arxiv:2604.17821",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.17821",
+    "identifiers": {
+      "arxiv": "2604.17821"
+    },
+    "first_published_at": "2026-04-20",
+    "record_updated_at": "2026-04-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "123577fbb4431f22bc18d2d32187744268f9d63b3149e9e1775fb44673771feb",
+      "submitted_at": "2026-04-20T05:19:49Z",
+      "updated_at": "2026-04-21T03:15:01Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2604.17821v2"
+    }
+  },
+  "note": "First published: 2026-04-20; Recorded arXiv version: v2; Recorded version updated: 2026-04-21T03:15:01Z.",
+  "author": [
+    {
+      "literal": "Lingfeng Zhang"
+    },
+    {
+      "literal": "Yongan Sun"
+    },
+    {
+      "literal": "Jinpeng Hu"
+    },
+    {
+      "literal": "Hui Ma"
+    },
+    {
+      "literal": "Yang Ying"
+    },
+    {
+      "literal": "Kuien Liu"
+    },
+    {
+      "literal": "Zenglin Shi"
+    },
+    {
+      "literal": "Meng Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.17821",
+  "genre": "preprint",
+  "version": "2"
+}

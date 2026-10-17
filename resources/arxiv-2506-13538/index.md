@@ -16,9 +16,16 @@ Bibliographic record for Model Context Protocol (MCP) at First Glance: Studying 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-13538/record.json
+
 ## Authors
 
 Mohammed Mehedi Hasan, Hao Li, Emad Fallahzadeh, Gopi Krishnan Rajbahadur, Bram Adams, Ahmed E. Hassan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-13538/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-13538/citation.csl.json
 
 ## Recorded arXiv snapshot
 

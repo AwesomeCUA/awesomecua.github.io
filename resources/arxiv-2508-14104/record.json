@@ -1,0 +1,97 @@
+{
+  "aliases": [],
+  "authors": [
+    "Yutong Bian",
+    "Xianhao Lin",
+    "Yupeng Xie",
+    "Tianyang Liu",
+    "Mingchen Zhuge",
+    "Siyuan Lu",
+    "Haoming Tang",
+    "Jinlin Wang",
+    "Jiayi Zhang",
+    "Jiaqi Chen",
+    "Xiangru Tang",
+    "Yongxin Ni",
+    "Sirui Hong",
+    "Chenglin Wu"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c5034c06e63607a1279668964e91c14ed762a95b6e3953337ef8b8b63c4fd57d",
+      "submitted_at": "2025-08-17T07:31:11Z",
+      "updated_at": "2025-08-17T07:31:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2508.14104v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:32:52Z",
+      "role": "primary",
+      "sha256": "0b730323b2ce85c39aa7d534665901a480ff06540c73f1f80832fcc0735b8789",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2310.08588%2C2402.09205%2C2406.05720%2C2407.21075%2C2410.07166%2C2503.03743%2C2508.04037%2C2508.10833%2C2508.11360%2C2508.13024%2C2508.13186%2C2508.14104%2C2509.01619%2C2509.01720%2C2509.02322%2C2509.04198%2C2509.07764%2C2509.21823%2C2509.22256%2C2509.23263%2C2509.23866%2C2509.25047%2C2509.26539%2C2510.00413%2C2510.00536%2C2510.01524%2C2510.02204%2C2510.02250%2C2510.02418%2C2510.03204%2C2510.03612%2C2510.04039%2C2510.04373%2C2510.04607%2C2510.06223%2C2510.06607%2C2510.09872%2C2510.10666%2C2510.11035%2C2510.11221%2C2510.11892%2C2510.13543%2C2510.15455%2C2510.15863%2C2510.16252%2C2510.18113%2C2510.18314%2C2510.19205%2C2510.22732%2C2511.06101&max_results=50"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:32:52Z",
+      "role": "primary",
+      "sha256": "0b730323b2ce85c39aa7d534665901a480ff06540c73f1f80832fcc0735b8789",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2310.08588%2C2402.09205%2C2406.05720%2C2407.21075%2C2410.07166%2C2503.03743%2C2508.04037%2C2508.10833%2C2508.11360%2C2508.13024%2C2508.13186%2C2508.14104%2C2509.01619%2C2509.01720%2C2509.02322%2C2509.04198%2C2509.07764%2C2509.21823%2C2509.22256%2C2509.23263%2C2509.23866%2C2509.25047%2C2509.26539%2C2510.00413%2C2510.00536%2C2510.01524%2C2510.02204%2C2510.02250%2C2510.02418%2C2510.03204%2C2510.03612%2C2510.04039%2C2510.04373%2C2510.04607%2C2510.06223%2C2510.06607%2C2510.09872%2C2510.10666%2C2510.11035%2C2510.11221%2C2510.11892%2C2510.13543%2C2510.15455%2C2510.15863%2C2510.16252%2C2510.18113%2C2510.18314%2C2510.19205%2C2510.22732%2C2511.06101&max_results=50"
+    }
+  ],
+  "id": "arxiv:2508.14104",
+  "identifiers": {
+    "arxiv": "2508.14104"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:32:52Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2508.14104"
+    }
+  ],
+  "name": "You Don't Know Until You Click:Automated GUI Testing for Production-Ready Software Evaluation",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2025-08-17",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "RealDevWorld evaluates generated software repositories with 194 development tasks and AppEvalPilot, an agent judge that operates the resulting GUIs. The evaluation examines functional behavior, visual fidelity, and runtime responses to produce task-specific diagnostic feedback.",
+  "topics": [
+    "evaluation",
+    "automation",
+    "observability"
+  ],
+  "updated_at": "2025-08-17",
+  "url": "https://arxiv.org/abs/2508.14104"
+}

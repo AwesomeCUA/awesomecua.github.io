@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:1812.03426",
+  "citation-key": "arxiv_1812_03426",
+  "type": "article",
+  "title": "Real-Time Referring Expression Comprehension by Single-Stage Grounding Network",
+  "URL": "https://arxiv.org/abs/1812.03426v1",
+  "custom": {
+    "catalog_id": "arxiv:1812.03426",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1812.03426",
+    "identifiers": {
+      "arxiv": "1812.03426"
+    },
+    "first_published_at": "2018-12-09",
+    "record_updated_at": "2018-12-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bb8925ccd2b4afa278f7730b0d0892b907317b3466d3da56dbc085a50eaf4e86",
+      "submitted_at": "2018-12-09T04:30:11Z",
+      "updated_at": "2018-12-09T04:30:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1812.03426v1"
+    }
+  },
+  "note": "First published: 2018-12-09; Recorded arXiv version: v1; Recorded version updated: 2018-12-09T04:30:11Z.",
+  "author": [
+    {
+      "literal": "Xinpeng Chen"
+    },
+    {
+      "literal": "Lin Ma"
+    },
+    {
+      "literal": "Jingyuan Chen"
+    },
+    {
+      "literal": "Zequn Jie"
+    },
+    {
+      "literal": "Wei Liu"
+    },
+    {
+      "literal": "Jiebo Luo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        12,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1812.03426",
+  "genre": "preprint",
+  "version": "1"
+}

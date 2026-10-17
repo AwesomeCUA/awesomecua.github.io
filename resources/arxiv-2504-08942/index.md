@@ -16,9 +16,16 @@ AgentRewardBench evaluates automated web-agent judges against expert reviews of 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-08942/record.json
+
 ## Authors
 
 Xing Han Lù, Amirhossein Kazemnejad, Nicholas Meade, Arkil Patel, Dongchan Shin, Alejandra Zambrano, Karolina Stańczak, Peter Shaw, Christopher J. Pal, Siva Reddy
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-08942/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-08942/citation.csl.json
 
 ## Recorded arXiv snapshot
 

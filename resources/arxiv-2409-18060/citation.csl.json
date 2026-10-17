@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2409.18060",
+  "citation-key": "arxiv_2409_18060",
+  "type": "article",
+  "title": "Inferring Alt-text For UI Icons With Large Language Models During App Development",
+  "URL": "https://arxiv.org/abs/2409.18060v2",
+  "custom": {
+    "catalog_id": "arxiv:2409.18060",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2409.18060",
+    "identifiers": {
+      "arxiv": "2409.18060"
+    },
+    "first_published_at": "2024-09-26",
+    "record_updated_at": "2024-10-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2d927b7644f0c6b3a49fbdf1aa976a00f2409adf9a72e1c04333438f66f1014b",
+      "submitted_at": "2024-09-26T17:01:33Z",
+      "updated_at": "2024-10-07T19:04:38Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2409.18060v2"
+    }
+  },
+  "note": "First published: 2024-09-26; Recorded arXiv version: v2; Recorded version updated: 2024-10-07T19:04:38Z.",
+  "author": [
+    {
+      "literal": "Sabrina Haque"
+    },
+    {
+      "literal": "Christoph Csallner"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2409.18060",
+  "genre": "preprint",
+  "version": "2"
+}

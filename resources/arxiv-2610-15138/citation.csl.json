@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:2610.15138",
+  "citation-key": "arxiv_2610_15138",
+  "type": "article",
+  "title": "The Agent Clicks Approve: Injected Page Text Makes Browser Agents Authorize Access the Task Never Named",
+  "URL": "https://arxiv.org/abs/2610.15138v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.15138",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.15138",
+    "identifiers": {
+      "arxiv": "2610.15138"
+    },
+    "first_published_at": "2026-10-10",
+    "record_updated_at": "2026-10-10",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "63e19265f1df2c336e28c4a13e11331021bd60866269c0b921d92a3c0fec080d",
+      "submitted_at": "2026-10-10T19:30:31Z",
+      "updated_at": "2026-10-10T19:30:31Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.15138v1"
+    }
+  },
+  "note": "First published: 2026-10-10; Recorded arXiv version: v1; Recorded version updated: 2026-10-10T19:30:31Z.",
+  "author": [
+    {
+      "literal": "Md Imran Hossen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.15138",
+  "genre": "preprint",
+  "version": "1"
+}

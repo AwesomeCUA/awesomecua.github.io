@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2505.01578",
+  "citation-key": "arxiv_2505_01578",
+  "type": "article",
+  "title": "Grounding Task Assistance with Multimodal Cues from a Single Demonstration",
+  "URL": "https://arxiv.org/abs/2505.01578v1",
+  "custom": {
+    "catalog_id": "arxiv:2505.01578",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.01578",
+    "identifiers": {
+      "arxiv": "2505.01578"
+    },
+    "first_published_at": "2025-05-02",
+    "record_updated_at": "2025-05-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2f9b897b1d7f1b7dc2cf16fbf8e0b3b6a948c3115ed53d0c19a991c76810a87e",
+      "submitted_at": "2025-05-02T20:43:11Z",
+      "updated_at": "2025-05-02T20:43:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2505.01578v1"
+    }
+  },
+  "note": "First published: 2025-05-02; Recorded arXiv version: v1; Recorded version updated: 2025-05-02T20:43:11Z.",
+  "author": [
+    {
+      "literal": "Gabriel Sarch"
+    },
+    {
+      "literal": "Balasaravanan Thoravi Kumaravel"
+    },
+    {
+      "literal": "Sahithya Ravi"
+    },
+    {
+      "literal": "Vibhav Vineet"
+    },
+    {
+      "literal": "Andrew D. Wilson"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.01578",
+  "genre": "preprint",
+  "version": "1"
+}

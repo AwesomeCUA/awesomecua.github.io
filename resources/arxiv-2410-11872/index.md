@@ -16,9 +16,16 @@ Separates multimodal reasoning and action planning from a dedicated UI localizat
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-11872/record.json
+
 ## Authors
 
 Jakub Hoscilowicz, Bartosz Maj, Bartosz Kozakiewicz, Oleksii Tymoshchuk, Artur Janicki
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-11872/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-11872/citation.csl.json
 
 ## Recorded arXiv snapshot
 

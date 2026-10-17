@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2511.05797",
+  "citation-key": "arxiv_2511_05797",
+  "type": "article",
+  "title": "When AI Meets the Web: Prompt Injection Risks in Third-Party AI Chatbot Plugins",
+  "URL": "https://arxiv.org/abs/2511.05797v1",
+  "custom": {
+    "catalog_id": "arxiv:2511.05797",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.05797",
+    "identifiers": {
+      "arxiv": "2511.05797"
+    },
+    "first_published_at": "2025-11-08",
+    "record_updated_at": "2025-11-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8a20b83b94c5a10e2b6fe5fae26b844eb3f4cf9786b0e2edbf5d0b7d9a5d1e8a",
+      "submitted_at": "2025-11-08T02:02:24Z",
+      "updated_at": "2025-11-08T02:02:24Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2511.05797v1"
+    }
+  },
+  "note": "First published: 2025-11-08; Recorded arXiv version: v1; Recorded version updated: 2025-11-08T02:02:24Z.",
+  "author": [
+    {
+      "literal": "Yigitcan Kaya"
+    },
+    {
+      "literal": "Anton Landerer"
+    },
+    {
+      "literal": "Stijn Pletinckx"
+    },
+    {
+      "literal": "Michelle Zimmermann"
+    },
+    {
+      "literal": "Christopher Kruegel"
+    },
+    {
+      "literal": "Giovanni Vigna"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.05797",
+  "genre": "preprint",
+  "version": "1"
+}

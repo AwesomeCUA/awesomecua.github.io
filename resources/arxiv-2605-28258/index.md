@@ -16,9 +16,16 @@ Bibliographic record for GUI Agents for Continual Game Generation. Title, author
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-28258/record.json
+
 ## Authors
 
 Yixu Huang, Bo Li, Na Li, Zhe Wang, Kaijie Chen, Haonan Ge, Qingyi Si, Yuanzhe Shen, Ruihan Yang, Guangjing Wang, Hongcheng Guo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-28258/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-28258/citation.csl.json
 
 ## Recorded arXiv snapshot
 

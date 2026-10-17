@@ -16,9 +16,16 @@ Succeed or Learn Slowly applies direct off-policy updates to successful interact
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-01720/record.json
+
 ## Authors
 
 Georgios Papoudakis, Thomas Coste, Jianye Hao, Jun Wang, Kun Shao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-01720/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-01720/citation.csl.json
 
 ## Recorded arXiv snapshot
 

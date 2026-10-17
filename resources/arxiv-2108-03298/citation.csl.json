@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2108.03298",
+  "citation-key": "arxiv_2108_03298",
+  "type": "article",
+  "title": "What Matters in Learning from Offline Human Demonstrations for Robot Manipulation",
+  "URL": "https://arxiv.org/abs/2108.03298v2",
+  "custom": {
+    "catalog_id": "arxiv:2108.03298",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2108.03298",
+    "identifiers": {
+      "arxiv": "2108.03298"
+    },
+    "first_published_at": "2021-08-06",
+    "record_updated_at": "2021-09-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a71938d5b3fa6612a4f5f7a812bb68dcf76835c7364e8b4a683d75a7fc53c651",
+      "submitted_at": "2021-08-06T20:48:30Z",
+      "updated_at": "2021-09-25T00:37:01Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2108.03298v2"
+    }
+  },
+  "note": "First published: 2021-08-06; Recorded arXiv version: v2; Recorded version updated: 2021-09-25T00:37:01Z.",
+  "author": [
+    {
+      "literal": "Ajay Mandlekar"
+    },
+    {
+      "literal": "Danfei Xu"
+    },
+    {
+      "literal": "Josiah Wong"
+    },
+    {
+      "literal": "Soroush Nasiriany"
+    },
+    {
+      "literal": "Chen Wang"
+    },
+    {
+      "literal": "Rohun Kulkarni"
+    },
+    {
+      "literal": "Li Fei-Fei"
+    },
+    {
+      "literal": "Silvio Savarese"
+    },
+    {
+      "literal": "Yuke Zhu"
+    },
+    {
+      "literal": "Roberto Martín-Martín"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        8,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2108.03298",
+  "genre": "preprint",
+  "version": "2"
+}

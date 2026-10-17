@@ -16,9 +16,16 @@ Bibliographic record for SmartFlow: Robotic Process Automation using LLMs. Title
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2405-12842/record.json
+
 ## Authors
 
 Arushi Jain, Shubham Paliwal, Monika Sharma, Lovekesh Vig, Gautam Shroff
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2405-12842/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-12842/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2509.23738",
+  "citation-key": "arxiv_2509_23738",
+  "type": "article",
+  "title": "GUI-Shepherd: Reliable Process Reward and Verification for Long-Sequence GUI Tasks",
+  "URL": "https://arxiv.org/abs/2509.23738v1",
+  "custom": {
+    "catalog_id": "arxiv:2509.23738",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.23738",
+    "identifiers": {
+      "arxiv": "2509.23738"
+    },
+    "first_published_at": "2025-09-28",
+    "record_updated_at": "2025-09-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5a2a14df6cf26113f64551d33153653891201ded849977f073408a26e1c16598",
+      "submitted_at": "2025-09-28T08:35:16Z",
+      "updated_at": "2025-09-28T08:35:16Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2509.23738v1"
+    }
+  },
+  "note": "First published: 2025-09-28; Recorded arXiv version: v1; Recorded version updated: 2025-09-28T08:35:16Z.",
+  "author": [
+    {
+      "literal": "Cong Chen"
+    },
+    {
+      "literal": "Kaixiang Ji"
+    },
+    {
+      "literal": "Hao Zhong"
+    },
+    {
+      "literal": "Muzhi Zhu"
+    },
+    {
+      "literal": "Anzhou Li"
+    },
+    {
+      "literal": "Guo Gan"
+    },
+    {
+      "literal": "Ziyuan Huang"
+    },
+    {
+      "literal": "Cheng Zou"
+    },
+    {
+      "literal": "Jiajia Liu"
+    },
+    {
+      "literal": "Jingdong Chen"
+    },
+    {
+      "literal": "Hao Chen"
+    },
+    {
+      "literal": "Chunhua Shen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.23738",
+  "genre": "preprint",
+  "version": "1"
+}

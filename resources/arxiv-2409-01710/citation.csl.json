@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2409.01710",
+  "citation-key": "arxiv_2409_01710",
+  "type": "article",
+  "title": "Privacy-Preserving Multimedia Mobile Cloud Computing Using Protective Perturbation",
+  "URL": "https://arxiv.org/abs/2409.01710v1",
+  "custom": {
+    "catalog_id": "arxiv:2409.01710",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2409.01710",
+    "identifiers": {
+      "arxiv": "2409.01710"
+    },
+    "first_published_at": "2024-09-03",
+    "record_updated_at": "2024-09-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "27ac1bc0795cd8923a60de3cbe8aacf5f79a5fbeedfcfad6aae6f9457e16a9db",
+      "submitted_at": "2024-09-03T08:47:17Z",
+      "updated_at": "2024-09-03T08:47:17Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2409.01710v1"
+    }
+  },
+  "note": "First published: 2024-09-03; Recorded arXiv version: v1; Recorded version updated: 2024-09-03T08:47:17Z.",
+  "author": [
+    {
+      "literal": "Zhongze Tang"
+    },
+    {
+      "literal": "Mengmei Ye"
+    },
+    {
+      "literal": "Yao Liu"
+    },
+    {
+      "literal": "Sheng Wei"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2409.01710",
+  "genre": "preprint",
+  "version": "1"
+}

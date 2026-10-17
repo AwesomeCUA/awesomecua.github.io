@@ -16,9 +16,16 @@ Bibliographic record for Mobile GUI Agent Privacy Personalization with Trajector
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-11259/record.json
+
 ## Authors
 
 Zhixin Lin, Jungang Li, Dongliang Xu, Shidong Pan, Yibo Shi, Yuchi Liu, Yuecong Min, Yue Yao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-11259/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-11259/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Paper2Agent: Reimagining Research Papers As Interactive
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-06917/record.json
+
 ## Authors
 
 Jiacheng Miao, Joe R. Davis, Yaohui Zhang, Jonathan K. Pritchard, James Zou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-06917/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-06917/citation.csl.json
 
 ## Recorded arXiv snapshot
 

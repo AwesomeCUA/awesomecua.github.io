@@ -16,9 +16,16 @@ Bibliographic record for Trustworthy Computing using Untrusted Cloud-Based Quant
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2305-01826/record.json
+
 ## Authors
 
 Suryansh Upadhyay, Swaroop Ghosh
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2305-01826/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-01826/citation.csl.json
 
 ## Recorded arXiv snapshot
 

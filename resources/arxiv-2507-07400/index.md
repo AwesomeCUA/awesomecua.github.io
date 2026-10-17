@@ -16,9 +16,16 @@ Bibliographic record for KVFlow: Efficient Prefix Caching for Accelerating LLM-B
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-07400/record.json
+
 ## Authors
 
 Zaifeng Pan, Ajjkumar Patel, Zhengding Hu, Yipeng Shen, Yue Guan, Wan-Lu Li, Lianhui Qin, Yida Wang, Yufei Ding
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-07400/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-07400/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for MAGNET: Towards Adaptive GUI Agents with Memory-Driven 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-19199/record.json
+
 ## Authors
 
 Libo Sun, Jiwen Zhang, Siyuan Wang, Zhongyu Wei
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-19199/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-19199/citation.csl.json
 
 ## Recorded arXiv snapshot
 

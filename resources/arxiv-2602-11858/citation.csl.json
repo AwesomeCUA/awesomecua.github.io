@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2602.11858",
+  "citation-key": "arxiv_2602_11858",
+  "type": "article",
+  "title": "Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception",
+  "URL": "https://arxiv.org/abs/2602.11858v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.11858",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.11858",
+    "identifiers": {
+      "arxiv": "2602.11858"
+    },
+    "first_published_at": "2026-02-12",
+    "record_updated_at": "2026-02-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "95ecf393e377979084c8fd3717fa2576f3d3fb48668b767c9c35832ab5473a85",
+      "submitted_at": "2026-02-12T12:00:35Z",
+      "updated_at": "2026-02-16T11:54:52Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.11858v2"
+    }
+  },
+  "note": "First published: 2026-02-12; Recorded arXiv version: v2; Recorded version updated: 2026-02-16T11:54:52Z.",
+  "author": [
+    {
+      "literal": "Lai Wei"
+    },
+    {
+      "literal": "Liangbo He"
+    },
+    {
+      "literal": "Jun Lan"
+    },
+    {
+      "literal": "Lingzhong Dong"
+    },
+    {
+      "literal": "Yutong Cai"
+    },
+    {
+      "literal": "Siyuan Li"
+    },
+    {
+      "literal": "Huijia Zhu"
+    },
+    {
+      "literal": "Weiqiang Wang"
+    },
+    {
+      "literal": "Linghe Kong"
+    },
+    {
+      "literal": "Yue Wang"
+    },
+    {
+      "literal": "Zhuosheng Zhang"
+    },
+    {
+      "literal": "Weiran Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.11858",
+  "genre": "preprint",
+  "version": "2"
+}

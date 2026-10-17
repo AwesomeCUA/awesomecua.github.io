@@ -16,9 +16,16 @@ Bibliographic record for VisualTrap: A Stealthy Backdoor Attack on GUI Agents vi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-06899/record.json
+
 ## Authors
 
 Ziang Ye, Yang Zhang, Wentao Shi, Xiaoyu You, Fuli Feng, Tat-Seng Chua
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-06899/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-06899/citation.csl.json
 
 ## Recorded arXiv snapshot
 

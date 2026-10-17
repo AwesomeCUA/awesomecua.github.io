@@ -16,9 +16,16 @@ Bibliographic record for OS-Symphony: A Holistic Framework for Robust and Genera
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-07779/record.json
+
 ## Authors
 
 Bowen Yang, Kaiming Jin, Zhenyu Wu, Zhaoyang Liu, Qiushi Sun, Zehao Li, JingJing Xie, Zhoumianze Liu, Fangzhi Xu, Kanzhi Cheng, Qingyun Li, Yian Wang, Yu Qiao, Zun Wang, Zichen Ding
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-07779/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-07779/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for M-Flash: Fast Billion-scale Graph Computation Using a B
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1506-01406/record.json
+
 ## Authors
 
 Hugo Gualdron, Robson Cordeiro, Jose Rodrigues-Jr, Duen Chau, Minsuk Kahng, U Kang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1506-01406/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1506-01406/citation.csl.json
 
 ## Recorded arXiv snapshot
 

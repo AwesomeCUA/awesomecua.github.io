@@ -16,9 +16,16 @@ Bibliographic record for WebXSkill: Skill Learning for Autonomous Web Agents. Ti
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-13318/record.json
+
 ## Authors
 
 Zhaoyang Wang, Qianhui Wu, Xuchao Zhang, Chaoyun Zhang, Wenlin Yao, Fazle Elahi Faisal, Baolin Peng, Si Qin, Suman Nath, Qingwei Lin, Chetan Bansal, Dongmei Zhang, Saravan Rajmohan, Jianfeng Gao, Huaxiu Yao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-13318/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-13318/citation.csl.json
 
 ## Recorded arXiv snapshot
 

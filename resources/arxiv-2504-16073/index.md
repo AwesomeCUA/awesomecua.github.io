@@ -16,9 +16,16 @@ Bibliographic record for Guiding VLM Agents with Process Rewards at Inference Ti
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-16073/record.json
+
 ## Authors
 
 Zhiyuan Hu, Shiyun Xiong, Yifan Zhang, See-Kiong Ng, Anh Tuan Luu, Bo An, Shuicheng Yan, Bryan Hooi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-16073/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-16073/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Hybrid-Level Instruction Injection for Video Token Comp
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-16036/record.json
+
 ## Authors
 
 Zhihang Liu, Chen-Wei Xie, Pandeng Li, Liming Zhao, Longxiang Tang, Yun Zheng, Chuanbin Liu, Hongtao Xie
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-16036/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-16036/citation.csl.json
 
 ## Recorded arXiv snapshot
 

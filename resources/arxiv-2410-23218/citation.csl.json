@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2410.23218",
+  "citation-key": "arxiv_2410_23218",
+  "type": "article",
+  "title": "OS-ATLAS: A Foundation Action Model for Generalist GUI Agents",
+  "URL": "https://arxiv.org/abs/2410.23218v1",
+  "custom": {
+    "catalog_id": "arxiv:2410.23218",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.23218",
+    "identifiers": {
+      "arxiv": "2410.23218"
+    },
+    "first_published_at": "2024-10-30",
+    "record_updated_at": "2024-10-30",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e0dbd8ef8807e7886c02ed6296c9d188503fe7b676062fcff1890fd0652f10f3",
+      "submitted_at": "2024-10-30T17:10:19Z",
+      "updated_at": "2024-10-30T17:10:19Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2410.23218v1"
+    }
+  },
+  "note": "First published: 2024-10-30; Recorded arXiv version: v1; Recorded version updated: 2024-10-30T17:10:19Z.",
+  "author": [
+    {
+      "literal": "Zhiyong Wu"
+    },
+    {
+      "literal": "Zhenyu Wu"
+    },
+    {
+      "literal": "Fangzhi Xu"
+    },
+    {
+      "literal": "Yian Wang"
+    },
+    {
+      "literal": "Qiushi Sun"
+    },
+    {
+      "literal": "Chengyou Jia"
+    },
+    {
+      "literal": "Kanzhi Cheng"
+    },
+    {
+      "literal": "Zichen Ding"
+    },
+    {
+      "literal": "Liheng Chen"
+    },
+    {
+      "literal": "Paul Pu Liang"
+    },
+    {
+      "literal": "Yu Qiao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.23218",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2303.12027",
+  "citation-key": "arxiv_2303_12027",
+  "type": "article",
+  "title": "Joint Visual Grounding and Tracking with Natural Language Specification",
+  "URL": "https://arxiv.org/abs/2303.12027v1",
+  "custom": {
+    "catalog_id": "arxiv:2303.12027",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2303.12027",
+    "identifiers": {
+      "arxiv": "2303.12027"
+    },
+    "first_published_at": "2023-03-21",
+    "record_updated_at": "2023-03-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "31370e2b0963c4db283a94d46de557cee285b5a1280663deefa131695c673d3f",
+      "submitted_at": "2023-03-21T17:09:03Z",
+      "updated_at": "2023-03-21T17:09:03Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2303.12027v1"
+    }
+  },
+  "note": "First published: 2023-03-21; Recorded arXiv version: v1; Recorded version updated: 2023-03-21T17:09:03Z.",
+  "author": [
+    {
+      "literal": "Li Zhou"
+    },
+    {
+      "literal": "Zikun Zhou"
+    },
+    {
+      "literal": "Kaige Mao"
+    },
+    {
+      "literal": "Zhenyu He"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        3,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2303.12027",
+  "genre": "preprint",
+  "version": "1"
+}

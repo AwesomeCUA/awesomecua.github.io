@@ -1,0 +1,70 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "desktop",
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:04Z",
+      "role": "primary",
+      "sha256": "0fe34cd605e492c4c93f760e9caefd194f9c8ec7cfc3d4d4a927a1ac1613e51c",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/agent-infra/sandbox/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:06Z",
+      "role": "primary",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/agent-infra/sandbox/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:agent-infra/sandbox",
+  "identifiers": {},
+  "kind": "infrastructure",
+  "last_verified_at": "2026-10-16T06:36:04Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T06:42:06Z",
+      "url": "https://raw.githubusercontent.com/agent-infra/sandbox/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/agent-infra/sandbox"
+    }
+  ],
+  "name": "Agent Infra Sandbox",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Sandbox environments supporting computer and browser interaction.",
+  "topics": [
+    "sandbox"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/agent-infra/sandbox"
+}

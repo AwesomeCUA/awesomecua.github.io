@@ -16,6 +16,8 @@ Web-task context, starting observations and action history paired with structure
 
 Five public Parquet shards are present. This collection provides checklist-generation supervision and is distinct from the previously cataloged chosen/rejected preference data. The Hub calls its split test; that label is preserved. No data license is declared.
 
+- Record JSON: https://awesomecua.github.io/resources/url-fcc98b149272bbf31b05/record.json
+
 ## Structured profile
 
 - formats: Parquet

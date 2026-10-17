@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2604.06182",
+  "citation-key": "arxiv_2604_06182",
+  "type": "article",
+  "title": "VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics",
+  "URL": "https://arxiv.org/abs/2604.06182v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.06182",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.06182",
+    "identifiers": {
+      "arxiv": "2604.06182"
+    },
+    "first_published_at": "2026-02-06",
+    "record_updated_at": "2026-02-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8790de644f655f4e2a27fa300e9e9e07de1071fa5b50bf3e7a0945c9989eacfc",
+      "submitted_at": "2026-02-06T18:54:42Z",
+      "updated_at": "2026-02-06T18:54:42Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.06182v1"
+    }
+  },
+  "note": "First published: 2026-02-06; Recorded arXiv version: v1; Recorded version updated: 2026-02-06T18:54:42Z.",
+  "author": [
+    {
+      "literal": "Yichen Gong"
+    },
+    {
+      "literal": "Zhuohan Cai"
+    },
+    {
+      "literal": "Sunhao Dai"
+    },
+    {
+      "literal": "Yuqi Zhou"
+    },
+    {
+      "literal": "Zhangxuan Gu"
+    },
+    {
+      "literal": "Changhua Meng"
+    },
+    {
+      "literal": "Shuheng Shen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.06182",
+  "genre": "preprint",
+  "version": "1"
+}

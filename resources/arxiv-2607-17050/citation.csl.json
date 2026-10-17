@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2607.17050",
+  "citation-key": "arxiv_2607_17050",
+  "type": "article",
+  "title": "EvoGUI: An Evolution-Aware Benchmark for GUI State-Transition Understanding",
+  "URL": "https://arxiv.org/abs/2607.17050v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.17050",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2607.17050",
+    "identifiers": {
+      "arxiv": "2607.17050"
+    },
+    "first_published_at": "2026-07-19",
+    "record_updated_at": "2026-07-19",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6488798626abbec89ca739a0c5d188ae440484eb59b3be11f2b319ce742b22ec",
+      "submitted_at": "2026-07-19T03:29:08Z",
+      "updated_at": "2026-07-19T03:29:08Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.17050v1"
+    }
+  },
+  "note": "First published: 2026-07-19; Recorded arXiv version: v1; Recorded version updated: 2026-07-19T03:29:08Z.",
+  "author": [
+    {
+      "literal": "Yaohan Yang"
+    },
+    {
+      "literal": "Minglei Shi"
+    },
+    {
+      "literal": "Borui Zhang"
+    },
+    {
+      "literal": "Jie Zhou"
+    },
+    {
+      "literal": "Jiwen Lu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.17050",
+  "genre": "preprint",
+  "version": "1"
+}

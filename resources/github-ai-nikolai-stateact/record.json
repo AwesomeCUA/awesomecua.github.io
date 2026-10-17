@@ -1,0 +1,82 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:07Z",
+      "role": "primary",
+      "sha256": "b68b2cc26bfc6a654fec35f3c53c1b1334f3d617671673407d3ed3b59f3db973",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/ai-nikolai/StateAct/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:06Z",
+      "role": "primary",
+      "sha256": "38f8c08395c6e67ff9bf52b27e772667f193a172bd6f726507c57776ad3e5e5f",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/ai-nikolai/StateAct"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:07Z",
+      "role": "primary",
+      "sha256": "97841e6eab1002bcea949e031f5abd3567482ebbcf03b991bd64643027c468bf",
+      "supports": [
+        "release_status"
+      ],
+      "url": "https://api.github.com/repos/ai-nikolai/StateAct/git/trees/main?recursive=1"
+    }
+  ],
+  "id": "github:ai-nikolai/stateact",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-17T02:02:07Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/ai-nikolai/StateAct"
+    }
+  ],
+  "name": "StateAct",
+  "notes": "The repository contains a WebShop runner as well as ALFWorld and TextCraft experiments. Inclusion concerns its web-shopping interaction component. No code license or downloadable trained checkpoint is declared in the inspected root metadata.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/ai-nikolai/StateAct/HEAD/README.md",
+      "target_id": "arxiv:2410.02810",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "adjacent",
+  "summary": "State-tracking prompts and experiment runners for language agents, including a WebShop implementation alongside text-based environments.",
+  "topics": [
+    "planning",
+    "state-tracking",
+    "web-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/ai-nikolai/StateAct"
+}

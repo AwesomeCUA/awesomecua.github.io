@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2505.10468",
+  "citation-key": "arxiv_2505_10468",
+  "type": "article",
+  "title": "AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges",
+  "URL": "https://arxiv.org/abs/2505.10468v5",
+  "custom": {
+    "catalog_id": "arxiv:2505.10468",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.10468",
+    "identifiers": {
+      "arxiv": "2505.10468"
+    },
+    "first_published_at": "2025-05-15",
+    "record_updated_at": "2025-09-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "888b0796c02f332e87fb8589cb0639f29ad7e3b8bd89ede1f74367aaaaa9c236",
+      "submitted_at": "2025-05-15T16:21:33Z",
+      "updated_at": "2025-09-30T04:21:32Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2505.10468v5"
+    }
+  },
+  "note": "First published: 2025-05-15; Recorded arXiv version: v5; Recorded version updated: 2025-09-30T04:21:32Z.",
+  "author": [
+    {
+      "literal": "Ranjan Sapkota"
+    },
+    {
+      "literal": "Konstantinos I. Roumeliotis"
+    },
+    {
+      "literal": "Manoj Karkee"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.10468",
+  "genre": "preprint",
+  "version": "5"
+}

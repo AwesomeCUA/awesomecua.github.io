@@ -16,9 +16,16 @@ Bibliographic record for Synthesizing Number Generators for Stochastic Computing
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1902-05971/record.json
+
 ## Authors
 
 Vincent T. Lee, Samuel Archibald Elliot, Armin Alaghi, Luis Ceze
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1902-05971/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1902-05971/citation.csl.json
 
 ## Recorded arXiv snapshot
 

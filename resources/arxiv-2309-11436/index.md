@@ -16,9 +16,16 @@ Introduces Auto-GUI, a screenshot-based agent using previous actions and future 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2309-11436/record.json
+
 ## Authors
 
 Zhuosheng Zhang, Aston Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2309-11436/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2309-11436/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for A11y-Compressor: A Framework for Enhancing the Efficien
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-00551/record.json
+
 ## Authors
 
 Michito Takeshita, Takuro Kawada, Takumi Ohashi, Shunsuke Kitada, Hitoshi Iyatomi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-00551/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-00551/citation.csl.json
 
 ## Recorded arXiv snapshot
 

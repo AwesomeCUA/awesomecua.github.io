@@ -16,9 +16,16 @@ WebTestPilot turns natural-language requirements into web test steps with inferr
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-11724/record.json
+
 ## Authors
 
 Xiwen Teoh, Yun Lin, Duc-Minh Nguyen, Ruofei Ren, Wenjie Zhang, Jin Song Dong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-11724/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-11724/citation.csl.json
 
 ## Recorded arXiv snapshot
 

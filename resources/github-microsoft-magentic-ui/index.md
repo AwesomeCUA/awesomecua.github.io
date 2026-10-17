@@ -16,6 +16,8 @@ Microsoft agent application combining orchestration with browser interaction; su
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-microsoft-magentic-ui/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/microsoft/magentic-ui/HEAD/LICENSE

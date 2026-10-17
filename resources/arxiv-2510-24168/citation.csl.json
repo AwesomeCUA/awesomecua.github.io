@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2510.24168",
+  "citation-key": "arxiv_2510_24168",
+  "type": "article",
+  "title": "MGA: Memory-Driven GUI Agent for Observation-Centric Interaction",
+  "URL": "https://arxiv.org/abs/2510.24168v3",
+  "custom": {
+    "catalog_id": "arxiv:2510.24168",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.24168",
+    "identifiers": {
+      "arxiv": "2510.24168"
+    },
+    "first_published_at": "2025-10-28",
+    "record_updated_at": "2026-04-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d80312fbd8f57cdc53cc10e03f2c68e2152d06945e5089967dceda50c02b9d4b",
+      "submitted_at": "2025-10-28T08:19:58Z",
+      "updated_at": "2026-04-14T04:34:20Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2510.24168v3"
+    }
+  },
+  "note": "First published: 2025-10-28; Recorded arXiv version: v3; Recorded version updated: 2026-04-14T04:34:20Z.",
+  "author": [
+    {
+      "literal": "Weihua Cheng"
+    },
+    {
+      "literal": "Junming Liu"
+    },
+    {
+      "literal": "Yifei Sun"
+    },
+    {
+      "literal": "Botian Shi"
+    },
+    {
+      "literal": "Yirong Chen"
+    },
+    {
+      "literal": "Ding Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.24168",
+  "genre": "preprint",
+  "version": "3"
+}

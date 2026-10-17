@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2411.18279",
+  "citation-key": "arxiv_2411_18279",
+  "type": "article",
+  "title": "Large Language Model-Brained GUI Agents: A Survey",
+  "URL": "https://arxiv.org/abs/2411.18279v12",
+  "custom": {
+    "catalog_id": "arxiv:2411.18279",
+    "catalog_kind": "survey",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2411.18279",
+    "identifiers": {
+      "arxiv": "2411.18279"
+    },
+    "first_published_at": "2024-11-27",
+    "record_updated_at": "2025-05-06",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2f692aa06152820ae60359fc2cc52aaed2ca8a97fe1efb9b8037de973956467a",
+      "submitted_at": "2024-11-27T12:13:39Z",
+      "updated_at": "2025-05-06T15:08:00Z",
+      "version": 12,
+      "versioned_url": "https://arxiv.org/abs/2411.18279v12"
+    }
+  },
+  "note": "First published: 2024-11-27; Recorded arXiv version: v12; Recorded version updated: 2025-05-06T15:08:00Z.",
+  "author": [
+    {
+      "literal": "Chaoyun Zhang"
+    },
+    {
+      "literal": "Shilin He"
+    },
+    {
+      "literal": "Jiaxu Qian"
+    },
+    {
+      "literal": "Bowen Li"
+    },
+    {
+      "literal": "Liqun Li"
+    },
+    {
+      "literal": "Si Qin"
+    },
+    {
+      "literal": "Yu Kang"
+    },
+    {
+      "literal": "Minghua Ma"
+    },
+    {
+      "literal": "Guyue Liu"
+    },
+    {
+      "literal": "Qingwei Lin"
+    },
+    {
+      "literal": "Saravan Rajmohan"
+    },
+    {
+      "literal": "Dongmei Zhang"
+    },
+    {
+      "literal": "Qi Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2411.18279",
+  "genre": "preprint",
+  "version": "12"
+}

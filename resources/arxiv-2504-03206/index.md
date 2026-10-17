@@ -16,9 +16,16 @@ Bibliographic record for Enhancing Personalized Multi-Turn Dialogue with Curiosi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-03206/record.json
+
 ## Authors
 
 Yanming Wan, Jiaxing Wu, Marwa Abdulhai, Lior Shani, Natasha Jaques
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-03206/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-03206/citation.csl.json
 
 ## Recorded arXiv snapshot
 

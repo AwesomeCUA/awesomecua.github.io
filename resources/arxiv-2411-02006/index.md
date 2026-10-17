@@ -16,9 +16,16 @@ Bibliographic record for Foundations and Recent Trends in Multimodal Mobile Agen
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-02006/record.json
+
 ## Authors
 
 Biao Wu, Yanda Li, Zhiwei Zhang, Yunchao Wei, Meng Fang, Ling Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-02006/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-02006/citation.csl.json
 
 ## Recorded arXiv snapshot
 

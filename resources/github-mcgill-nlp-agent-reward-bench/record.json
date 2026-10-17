@@ -1,0 +1,165 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "benchmark_protocol": {
+      "actions": [
+        "judge verdicts"
+      ],
+      "counts": [
+        {
+          "basis": "reported",
+          "evidence_url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending",
+          "population": "paper-reported expert-reviewed set",
+          "qualifier": "exact",
+          "unit": "trajectories",
+          "value": 1302
+        }
+      ],
+      "evaluation": "Compare automatic judgments with expert answers on task success, side effects and repetitiveness.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/McGill-NLP/agent-reward-bench/HEAD/README.md",
+        "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending"
+      ],
+      "focus": [
+        "automatic evaluator agreement",
+        "task success",
+        "side effects",
+        "repetition"
+      ],
+      "notes": "Counts refer to the paper study; current Hub package files are not converted into trajectory totals.",
+      "observations": [
+        "web trajectories",
+        "screenshots",
+        "actions"
+      ],
+      "setting": "offline"
+    },
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "license_review": {
+      "data": {
+        "evidence_urls": [
+          "https://huggingface.co/datasets/McGill-NLP/agent-reward-bench/raw/main/README.md"
+        ],
+        "reason": "The dataset card supplies custom Terms of Use and preserves third-party conditions. The repository has no root code license, and no dataset license is inherited from its benchmarks."
+      }
+    },
+    "metrics": [],
+    "task_count": null
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T03:59:54Z",
+      "role": "primary",
+      "sha256": "fb753e41c3eb19be172e9e7fccbc6bcadf44288507f82b190ca99e64144294b6",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://raw.githubusercontent.com/McGill-NLP/agent-reward-bench/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T03:59:54Z",
+      "role": "primary",
+      "sha256": "7dfac983a6e443d5f66e1fc0fc3706ebea4c93005f03457cc0a2b13a2bd89601",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/McGill-NLP/agent-reward-bench"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T03:59:54Z",
+      "role": "primary",
+      "sha256": "79a1639cd4738719e51fc7f32313d63c0483914517cee96175459f63513e8c07",
+      "supports": [
+        "release_status"
+      ],
+      "url": "https://api.github.com/repos/McGill-NLP/agent-reward-bench/git/trees/main?recursive=1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:03:18Z",
+      "role": "primary",
+      "sha256": "20c910fad3ad45a0c8c39b182c53632a821d3b6b546278bea6b7a78fbcb3f6cb",
+      "supports": [
+        "release_status"
+      ],
+      "url": "https://huggingface.co/api/datasets/McGill-NLP/agent-reward-bench"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:03:20Z",
+      "role": "primary",
+      "sha256": "e16adf817e3950441d70c7bb1bb3f44bd8dc65344938247f23fea4aaff9f654e",
+      "supports": [
+        "licenses.data",
+        "summary"
+      ],
+      "url": "https://huggingface.co/datasets/McGill-NLP/agent-reward-bench/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:54Z",
+      "role": "primary",
+      "sha256": "4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "github:mcgill-nlp/agent-reward-bench",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-17T03:59:54Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "Publisher dataset-card Terms of Use, including third-party restrictions; no standard SPDX or unrestricted permission is asserted.",
+      "declared": "Custom AgentRewardBench Terms of Use",
+      "retrieved_at": "2026-10-17T04:03:20Z",
+      "url": "https://huggingface.co/datasets/McGill-NLP/agent-reward-bench/raw/main/README.md"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/McGill-NLP/agent-reward-bench"
+    }
+  ],
+  "name": "AgentRewardBench",
+  "notes": "The public repository contains judges, evaluation utilities and annotation files; the linked Hub hosts trajectory/screenshot manifests. No root code license is declared. Dataset Terms of Use are custom and retain third-party restrictions rather than declaring an SPDX license. The paper-reported 1,302 trajectories describe its reviewed study population, not a count recomputed from current Hub files.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/McGill-NLP/agent-reward-bench/HEAD/README.md",
+      "target_id": "arxiv:2504.08942",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A benchmark and evaluation toolkit for comparing automatic web-agent judges against expert judgments of task success, side effects and repetition.",
+  "topics": [
+    "evaluation",
+    "reward-models",
+    "web-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/McGill-NLP/agent-reward-bench"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Comparing Human Oversight Strategies for Computer-Use A
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-04918/record.json
+
 ## Authors
 
 Chaoran Chen, Zhiping Zhang, Zeya Chen, Eryue Xu, Yinuo Yang, Ibrahim Khalilov, Simret A Gebreegziabher, Yanfang Ye, Ziang Xiao, Yaxing Yao, Tianshi Li, Toby Jia-Jun Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-04918/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-04918/citation.csl.json
 
 ## Recorded arXiv snapshot
 

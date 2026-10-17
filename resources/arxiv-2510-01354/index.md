@@ -16,9 +16,16 @@ Bibliographic record for WAInjectBench: Benchmarking Prompt Injection Detections
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-01354/record.json
+
 ## Authors
 
 Yinuo Liu, Xilong Wang, Ruohan Xu, Yuqi Jia, Neil Zhenqiang Gong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-01354/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-01354/citation.csl.json
 
 ## Recorded arXiv snapshot
 

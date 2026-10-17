@@ -16,9 +16,16 @@ Bibliographic record for Fast hybrid density-functional computations using plane
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1801-09263/record.json
+
 ## Authors
 
 Ivan Carnimeo, Stefano Baroni, Paolo Giannozzi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1801-09263/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1801-09263/citation.csl.json
 
 ## Recorded arXiv snapshot
 

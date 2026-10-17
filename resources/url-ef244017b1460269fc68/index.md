@@ -16,6 +16,8 @@ Hosted browser-agent platform from Browser Use.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-ef244017b1460269fc68/record.json
+
 ## License declarations
 
 - code: not recorded

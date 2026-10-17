@@ -16,9 +16,16 @@ Bibliographic record for Zoom in, Click out: Unlocking and Evaluating the Potent
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-05941/record.json
+
 ## Authors
 
 Zhiyuan Jiang, Shenghao Xie, Wenyi Li, Wenqiang Zu, Peihang Li, Jiahao Qiu, Siqi Pei, Lei Ma, Tiejun Huang, Mengdi Wang, Shilong Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-05941/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-05941/citation.csl.json
 
 ## Recorded arXiv snapshot
 

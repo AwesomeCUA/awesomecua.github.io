@@ -16,9 +16,16 @@ Combines cross-platform GUI grounding data synthesis with action-model training 
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-23218/record.json
+
 ## Authors
 
 Zhiyong Wu, Zhenyu Wu, Fangzhi Xu, Yian Wang, Qiushi Sun, Chengyou Jia, Kanzhi Cheng, Zichen Ding, Liheng Chen, Paul Pu Liang, Yu Qiao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-23218/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-23218/citation.csl.json
 
 ## Recorded arXiv snapshot
 

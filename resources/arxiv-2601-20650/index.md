@@ -16,9 +16,16 @@ Introduces OS-Marathon to evaluate long repetitive computer-use workflows whose 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-20650/record.json
+
 ## Authors
 
 Jing Wu, Wenjie Ai, Daphne Barretto, Yiye Chen, Qingyu Chen, Yuhang He, Pranit Chawla, Nicholas Gydé, Yanan Jian, Vibhav Vineet
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-20650/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-20650/citation.csl.json
 
 ## Recorded arXiv snapshot
 

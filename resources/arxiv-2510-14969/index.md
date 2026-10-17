@@ -16,9 +16,16 @@ Bibliographic record for LLMs as Scalable, General-Purpose Simulators For Evolvi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-14969/record.json
+
 ## Authors
 
 Yiming Wang, Da Yin, Yuedong Cui, Ruichen Zheng, Zhiqian Li, Zongyu Lin, Di Wu, Xueqing Wu, Chenchen Ye, Yu Zhou, Kai-Wei Chang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-14969/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-14969/citation.csl.json
 
 ## Recorded arXiv snapshot
 

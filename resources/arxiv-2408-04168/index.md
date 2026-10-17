@@ -16,9 +16,16 @@ Bibliographic record for Perceive, Reflect, and Plan: Designing LLM Agent for Go
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2408-04168/record.json
+
 ## Authors
 
 Qingbin Zeng, Qinglong Yang, Shunan Dong, Heming Du, Liang Zheng, Fengli Xu, Yong Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2408-04168/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2408-04168/citation.csl.json
 
 ## Recorded arXiv snapshot
 

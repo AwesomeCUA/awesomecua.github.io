@@ -16,9 +16,16 @@ Combines self-generated localization reasoning, spatial consistency checks, and 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-15259/record.json
+
 ## Authors
 
 Hyunseok Lee, Jeonghoon Kim, Beomjun Kim, Jihoon Tack, Chansong Jo, Jaehong Lee, Cheonbok Park, Sookyo In, Jinwoo Shin, Kang Min Yoo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-15259/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-15259/citation.csl.json
 
 ## Recorded arXiv snapshot
 

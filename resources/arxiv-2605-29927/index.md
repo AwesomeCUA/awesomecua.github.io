@@ -16,9 +16,16 @@ Bibliographic record for Does The Way You Plan Matter? An Empirical Study of Pla
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-29927/record.json
+
 ## Authors
 
 Alejandra Zambrano, Sara Vera Marjanovic, Imene Kerboua, Xing Han Lù, Leila Kosseim
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-29927/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-29927/citation.csl.json
 
 ## Recorded arXiv snapshot
 

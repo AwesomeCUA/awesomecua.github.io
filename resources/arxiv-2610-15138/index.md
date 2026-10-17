@@ -16,9 +16,16 @@ Studies prompt-injected account-access approvals in browser agents and proposes 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-15138/record.json
+
 ## Authors
 
 Md Imran Hossen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-15138/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-15138/citation.csl.json
 
 ## Recorded arXiv snapshot
 

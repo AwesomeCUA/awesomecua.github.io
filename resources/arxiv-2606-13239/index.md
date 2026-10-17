@@ -16,9 +16,16 @@ ComAct proposes COM program synthesis as an alternative interface for manipulati
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-13239/record.json
+
 ## Authors
 
 Jiaxin Ai, Tao Hu, Xuemeng Yang, Shu Zou, Hairong Zhang, Daocheng Fu, Yu Yang, Hongbin Zhou, Nianchen Deng, Pinlong Cai, Zhongyuan Wang, Botian Shi, Kaipeng Zhang, Licheng Wen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-13239/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-13239/citation.csl.json
 
 ## Recorded arXiv snapshot
 

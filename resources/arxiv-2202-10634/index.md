@@ -16,9 +16,16 @@ Bibliographic record for Time Division Multiplexing Ising Computer Using Single 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2202-10634/record.json
+
 ## Authors
 
 Bolin Zhang, Yu Liu, Tianqi Gao, Deming Zhang, Weisheng Zhao, Lang Zeng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2202-10634/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2202-10634/citation.csl.json
 
 ## Recorded arXiv snapshot
 

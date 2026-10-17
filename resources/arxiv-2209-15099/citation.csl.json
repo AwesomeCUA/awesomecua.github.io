@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2209.15099",
+  "citation-key": "arxiv_2209_15099",
+  "type": "article",
+  "title": "MUG: Interactive Multimodal Grounding on User Interfaces",
+  "URL": "https://arxiv.org/abs/2209.15099v1",
+  "custom": {
+    "catalog_id": "arxiv:2209.15099",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2209.15099",
+    "identifiers": {
+      "arxiv": "2209.15099"
+    },
+    "first_published_at": "2022-09-29",
+    "record_updated_at": "2022-09-29",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "15e57e7dd30e6f3ae8b13cbd4a190b39339f2bbf7a551a6a5df5190dc62b5434",
+      "submitted_at": "2022-09-29T21:08:18Z",
+      "updated_at": "2022-09-29T21:08:18Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2209.15099v1"
+    }
+  },
+  "note": "First published: 2022-09-29; Recorded arXiv version: v1; Recorded version updated: 2022-09-29T21:08:18Z.",
+  "author": [
+    {
+      "literal": "Tao Li"
+    },
+    {
+      "literal": "Gang Li"
+    },
+    {
+      "literal": "Jingjie Zheng"
+    },
+    {
+      "literal": "Purple Wang"
+    },
+    {
+      "literal": "Yang Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        9,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2209.15099",
+  "genre": "preprint",
+  "version": "1"
+}

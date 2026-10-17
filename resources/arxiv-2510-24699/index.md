@@ -16,9 +16,16 @@ Bibliographic record for AgentFold: Long-Horizon Web Agents with Proactive Conte
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-24699/record.json
+
 ## Authors
 
 Rui Ye, Zhongwang Zhang, Kuan Li, Huifeng Yin, Zhengwei Tao, Yida Zhao, Liangcai Su, Liwen Zhang, Zile Qiao, Xinyu Wang, Pengjun Xie, Fei Huang, Siheng Chen, Jingren Zhou, Yong Jiang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-24699/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-24699/citation.csl.json
 
 ## Recorded arXiv snapshot
 

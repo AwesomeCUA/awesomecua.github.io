@@ -16,9 +16,16 @@ Bibliographic record for GameWAM: A World Action Model for Video Games. Title, a
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-26200/record.json
+
 ## Authors
 
 Yuncheng Guo, Zhanqiu Zhang, Yiwen Guo, Weijia Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-26200/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-26200/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for LLaVA-OneVision: Easy Visual Task Transfer. Title, auth
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2408-03326/record.json
+
 ## Authors
 
 Bo Li, Yuanhan Zhang, Dong Guo, Renrui Zhang, Feng Li, Hao Zhang, Kaichen Zhang, Peiyuan Zhang, Yanwei Li, Ziwei Liu, Chunyuan Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2408-03326/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2408-03326/citation.csl.json
 
 ## Recorded arXiv snapshot
 

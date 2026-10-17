@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2507.06134",
+  "citation-key": "arxiv_2507_06134",
+  "type": "article",
+  "title": "OpenAgentSafety: A Comprehensive Framework for Evaluating Real-World AI Agent Safety",
+  "URL": "https://arxiv.org/abs/2507.06134v2",
+  "custom": {
+    "catalog_id": "arxiv:2507.06134",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2507.06134",
+    "identifiers": {
+      "arxiv": "2507.06134"
+    },
+    "first_published_at": "2025-07-08",
+    "record_updated_at": "2026-02-16",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "db56d120a7f04f9181a107bcd75c61a3eb3ac36939e2a0517d622332c70f3eac",
+      "submitted_at": "2025-07-08T16:18:54Z",
+      "updated_at": "2026-02-16T22:34:53Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2507.06134v2"
+    }
+  },
+  "note": "First published: 2025-07-08; Recorded arXiv version: v2; Recorded version updated: 2026-02-16T22:34:53Z.",
+  "author": [
+    {
+      "literal": "Sanidhya Vijayvargiya"
+    },
+    {
+      "literal": "Aditya Bharat Soni"
+    },
+    {
+      "literal": "Xuhui Zhou"
+    },
+    {
+      "literal": "Zora Zhiruo Wang"
+    },
+    {
+      "literal": "Nouha Dziri"
+    },
+    {
+      "literal": "Graham Neubig"
+    },
+    {
+      "literal": "Maarten Sap"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.06134",
+  "genre": "preprint",
+  "version": "2"
+}

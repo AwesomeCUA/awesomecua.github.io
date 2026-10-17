@@ -16,9 +16,16 @@ Bibliographic record for MPR-GUI: Benchmarking and Enhancing Multilingual Percep
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-00756/record.json
+
 ## Authors
 
 Ruihan Chen, Qiming Li, Xiaocheng Feng, Weihong Zhong, Xiaoliang Yang, Yuxuan Gu, Zekun Zhou, Yunfei Lu, Haoyu Ren, Kun Chen, Dandan Tu, Bing Qin
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-00756/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-00756/citation.csl.json
 
 ## Recorded arXiv snapshot
 

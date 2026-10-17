@@ -1,0 +1,100 @@
+{
+  "id": "arxiv:2603.27490",
+  "citation-key": "arxiv_2603_27490",
+  "type": "article",
+  "title": "AgentSwing: Adaptive Parallel Context Management Routing for Long-Horizon Web Agents",
+  "URL": "https://arxiv.org/abs/2603.27490v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.27490",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.27490",
+    "identifiers": {
+      "arxiv": "2603.27490"
+    },
+    "first_published_at": "2026-03-29",
+    "record_updated_at": "2026-03-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "80db4d9d43ae6092071495d8a931bb888ae76226353906e9534cc7e5881e3685",
+      "submitted_at": "2026-03-29T02:59:27Z",
+      "updated_at": "2026-03-29T02:59:27Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.27490v1"
+    }
+  },
+  "note": "First published: 2026-03-29; Recorded arXiv version: v1; Recorded version updated: 2026-03-29T02:59:27Z.",
+  "author": [
+    {
+      "literal": "Zhaopeng Feng"
+    },
+    {
+      "literal": "Liangcai Su"
+    },
+    {
+      "literal": "Zhen Zhang"
+    },
+    {
+      "literal": "Xinyu Wang"
+    },
+    {
+      "literal": "Xiaotian Zhang"
+    },
+    {
+      "literal": "Xiaobin Wang"
+    },
+    {
+      "literal": "Runnan Fang"
+    },
+    {
+      "literal": "Qi Zhang"
+    },
+    {
+      "literal": "Baixuan Li"
+    },
+    {
+      "literal": "Shihao Cai"
+    },
+    {
+      "literal": "Rui Ye"
+    },
+    {
+      "literal": "Hui Chen"
+    },
+    {
+      "literal": "Jiang Yong"
+    },
+    {
+      "literal": "Joey Tianyi Zhou"
+    },
+    {
+      "literal": "Chenxiong Qian"
+    },
+    {
+      "literal": "Pengjun Xie"
+    },
+    {
+      "literal": "Bryan Hooi"
+    },
+    {
+      "literal": "Zuozhu Liu"
+    },
+    {
+      "literal": "Jingren Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.27490",
+  "genre": "preprint",
+  "version": "1"
+}

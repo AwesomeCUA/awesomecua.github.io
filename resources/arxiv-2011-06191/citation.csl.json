@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2011.06191",
+  "citation-key": "arxiv_2011_06191",
+  "type": "article",
+  "title": "Revisiting Secure Computation Using Functional Encryption: Opportunities and Research Directions",
+  "URL": "https://arxiv.org/abs/2011.06191v2",
+  "custom": {
+    "catalog_id": "arxiv:2011.06191",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2011.06191",
+    "identifiers": {
+      "arxiv": "2011.06191"
+    },
+    "first_published_at": "2020-11-12",
+    "record_updated_at": "2020-12-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c526d1a627dbe5a03c3a82067133368ea68788b1f5480fc08ac783b8ccbc613b",
+      "submitted_at": "2020-11-12T04:28:04Z",
+      "updated_at": "2020-12-07T17:39:03Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2011.06191v2"
+    }
+  },
+  "note": "First published: 2020-11-12; Recorded arXiv version: v2; Recorded version updated: 2020-12-07T17:39:03Z.",
+  "author": [
+    {
+      "literal": "Runhua Xu"
+    },
+    {
+      "literal": "James Joshi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        11,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2011.06191",
+  "genre": "preprint",
+  "version": "2"
+}

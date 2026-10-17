@@ -16,9 +16,16 @@ Bibliographic record for A general decision framework for structuring computatio
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1403-4054/record.json
+
 ## Authors
 
 Daniel John Lawson, Niall M Adams
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1403-4054/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1403-4054/citation.csl.json
 
 ## Recorded arXiv snapshot
 

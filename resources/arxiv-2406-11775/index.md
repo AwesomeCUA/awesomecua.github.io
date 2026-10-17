@@ -16,9 +16,16 @@ Bibliographic record for Task Me Anything. Title, authors and dates checked agai
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-11775/record.json
+
 ## Authors
 
 Jieyu Zhang, Weikai Huang, Zixian Ma, Oscar Michel, Dong He, Tanmay Gupta, Wei-Chiu Ma, Ali Farhadi, Aniruddha Kembhavi, Ranjay Krishna
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-11775/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-11775/citation.csl.json
 
 ## Recorded arXiv snapshot
 

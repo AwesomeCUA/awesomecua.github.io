@@ -16,9 +16,16 @@ Bibliographic record for An Exploratory Literature Study on Sharing and Energy U
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2307-02443/record.json
+
 ## Authors
 
 Max Hort, Anastasiia Grishina, Leon Moonen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2307-02443/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2307-02443/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,69 @@
+{
+  "aliases": [],
+  "authors": [
+    "Bingo Zhang",
+    "Haochuan Lu",
+    "Zongjie Li",
+    "Genjian Li",
+    "Ari Yu Zhang",
+    "Chaozheng Wang"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f81fd07262dccf6783729e4336fbd77835f2fcdea030eef8dc2272e7ef82b8fc",
+      "submitted_at": "2026-09-28T09:49:25Z",
+      "updated_at": "2026-09-28T09:49:25Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.34769v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:29Z",
+      "role": "primary",
+      "sha256": "74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2609.34769",
+  "identifiers": {
+    "arxiv": "2609.34769"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:29Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2609.34769"
+    }
+  ],
+  "name": "LongPuzzleBench: Evaluating GUI Agents on Long-Horizon Visual Puzzles",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2026-09-28",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-09-28",
+  "url": "https://arxiv.org/abs/2609.34769"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2610.11050",
+  "citation-key": "arxiv_2610_11050",
+  "type": "article",
+  "title": "AgentHorizon: Evaluating Agentic Judges for Long-Horizon Computer-Use Tasks",
+  "URL": "https://arxiv.org/abs/2610.11050v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.11050",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.11050",
+    "identifiers": {
+      "arxiv": "2610.11050"
+    },
+    "first_published_at": "2026-10-08",
+    "record_updated_at": "2026-10-08",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "37413f11bf8263f1516a8edca8c594227fcab104c0c767a7daa8eead9645ec34",
+      "submitted_at": "2026-10-08T01:03:48Z",
+      "updated_at": "2026-10-08T01:03:48Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.11050v1"
+    }
+  },
+  "note": "First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T01:03:48Z.",
+  "author": [
+    {
+      "literal": "Xing Han Lù"
+    },
+    {
+      "literal": "Dheeraj Vattikonda"
+    },
+    {
+      "literal": "Sina Hajimiri"
+    },
+    {
+      "literal": "Fatemeh Pesaran Zadeh"
+    },
+    {
+      "literal": "Parishad BehnamGhader"
+    },
+    {
+      "literal": "Ghazwa Darwiche"
+    },
+    {
+      "literal": "Amirhossein Kazemnejad"
+    },
+    {
+      "literal": "Christopher Pal"
+    },
+    {
+      "literal": "Alexandre Drouin"
+    },
+    {
+      "literal": "Siva Reddy"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.11050",
+  "genre": "preprint",
+  "version": "1"
+}

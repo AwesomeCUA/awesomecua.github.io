@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2411.15004",
+  "citation-key": "arxiv_2411_15004",
+  "type": "article",
+  "title": "ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data",
+  "URL": "https://arxiv.org/abs/2411.15004v2",
+  "custom": {
+    "catalog_id": "arxiv:2411.15004",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2411.15004",
+    "identifiers": {
+      "arxiv": "2411.15004"
+    },
+    "first_published_at": "2024-11-22",
+    "record_updated_at": "2024-12-05",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ef5e3848c3395a5620c5af422e6ebf198e405cfde1314cfac50d347daf68a429",
+      "submitted_at": "2024-11-22T15:26:23Z",
+      "updated_at": "2024-12-05T02:00:07Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2411.15004v2"
+    }
+  },
+  "note": "First published: 2024-11-22; Recorded arXiv version: v2; Recorded version updated: 2024-12-05T02:00:07Z.",
+  "author": [
+    {
+      "literal": "Junhong Shen"
+    },
+    {
+      "literal": "Atishay Jain"
+    },
+    {
+      "literal": "Zedian Xiao"
+    },
+    {
+      "literal": "Ishan Amlekar"
+    },
+    {
+      "literal": "Mouad Hadji"
+    },
+    {
+      "literal": "Aaron Podolny"
+    },
+    {
+      "literal": "Ameet Talwalkar"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2411.15004",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2601.04500",
+  "citation-key": "arxiv_2601_04500",
+  "type": "article",
+  "title": "GUITester: Enabling GUI Agents for Exploratory Defect Discovery",
+  "URL": "https://arxiv.org/abs/2601.04500v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.04500",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2601.04500",
+    "identifiers": {
+      "arxiv": "2601.04500"
+    },
+    "first_published_at": "2026-01-08",
+    "record_updated_at": "2026-01-08",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "47a340b19cf399f2ae7851482030d85e572b0f6ad8415c67657beec737a80e06",
+      "submitted_at": "2026-01-08T02:07:53Z",
+      "updated_at": "2026-01-08T02:07:53Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.04500v1"
+    }
+  },
+  "note": "First published: 2026-01-08; Recorded arXiv version: v1; Recorded version updated: 2026-01-08T02:07:53Z.",
+  "author": [
+    {
+      "literal": "Yifei Gao"
+    },
+    {
+      "literal": "Jiang Wu"
+    },
+    {
+      "literal": "Xiaoyi Chen"
+    },
+    {
+      "literal": "Yifan Yang"
+    },
+    {
+      "literal": "Zhe Cui"
+    },
+    {
+      "literal": "Tianyi Ma"
+    },
+    {
+      "literal": "Jiaming Zhang"
+    },
+    {
+      "literal": "Jitao Sang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.04500",
+  "genre": "preprint",
+  "version": "1"
+}

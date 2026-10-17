@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2208.06032",
+  "citation-key": "arxiv_2208_06032",
+  "type": "article",
+  "title": "CORNET: Learning Table Formatting Rules By Example",
+  "URL": "https://arxiv.org/abs/2208.06032v4",
+  "custom": {
+    "catalog_id": "arxiv:2208.06032",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2208.06032",
+    "identifiers": {
+      "arxiv": "2208.06032"
+    },
+    "first_published_at": "2022-08-11",
+    "record_updated_at": "2022-12-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5afa77bf018aa741e03ccf27d11059657beaceba93d3a2172b57c0917b7304ee",
+      "submitted_at": "2022-08-11T20:30:12Z",
+      "updated_at": "2022-12-05T13:01:00Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2208.06032v4"
+    }
+  },
+  "note": "First published: 2022-08-11; Recorded arXiv version: v4; Recorded version updated: 2022-12-05T13:01:00Z.",
+  "author": [
+    {
+      "literal": "Mukul Singh"
+    },
+    {
+      "literal": "José Cambronero"
+    },
+    {
+      "literal": "Sumit Gulwani"
+    },
+    {
+      "literal": "Vu Le"
+    },
+    {
+      "literal": "Carina Negreanu"
+    },
+    {
+      "literal": "Mohammad Raza"
+    },
+    {
+      "literal": "Gust Verbruggen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        8,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2208.06032",
+  "genre": "preprint",
+  "version": "4"
+}

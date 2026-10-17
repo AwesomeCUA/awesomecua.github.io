@@ -16,9 +16,16 @@ Bibliographic record for History-Aware Reasoning for GUI Agents. Title, authors 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-09127/record.json
+
 ## Authors
 
 Ziwei Wang, Leyang Yang, Xiaoxuan Tang, Sheng Zhou, Dajun Chen, Wei Jiang, Yong Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-09127/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-09127/citation.csl.json
 
 ## Recorded arXiv snapshot
 

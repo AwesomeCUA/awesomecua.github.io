@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2404.18074",
+  "citation-key": "arxiv_2404_18074",
+  "type": "article",
+  "title": "MMAC-Copilot: Multi-modal Agent Collaboration Operating Copilot",
+  "URL": "https://arxiv.org/abs/2404.18074v3",
+  "custom": {
+    "catalog_id": "arxiv:2404.18074",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2404.18074",
+    "identifiers": {
+      "arxiv": "2404.18074"
+    },
+    "first_published_at": "2024-04-28",
+    "record_updated_at": "2025-03-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5e531ec2ef9e5d90586b8f3052e16d41da95114b7382047d0a02fd671a0db355",
+      "submitted_at": "2024-04-28T05:33:15Z",
+      "updated_at": "2025-03-23T13:04:57Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2404.18074v3"
+    }
+  },
+  "note": "First published: 2024-04-28; Recorded arXiv version: v3; Recorded version updated: 2025-03-23T13:04:57Z.",
+  "author": [
+    {
+      "literal": "Zirui Song"
+    },
+    {
+      "literal": "Yaohang Li"
+    },
+    {
+      "literal": "Meng Fang"
+    },
+    {
+      "literal": "Yanda Li"
+    },
+    {
+      "literal": "Zhenhao Chen"
+    },
+    {
+      "literal": "Zecheng Shi"
+    },
+    {
+      "literal": "Yuan Huang"
+    },
+    {
+      "literal": "Xiuying Chen"
+    },
+    {
+      "literal": "Ling Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.18074",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -16,9 +16,16 @@ Bibliographic record for MintAct: A Unified Visual Agent for Digital Environment
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-22083/record.json
+
 ## Authors
 
 Mingfei Gao, Rui Tian, Haiming Gang, Bohan Zhai, Le Zhang, Yuanzheng Gong, Di Feng, Ege Özsoy, Kaixin Ma, Vishwesh Kirthivasan, Oğuzhan Fatih Kar, Roman Bachmann, Anders Boesen Lindbo Larsen, Afshin Dehghan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-22083/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-22083/citation.csl.json
 
 ## Recorded arXiv snapshot
 

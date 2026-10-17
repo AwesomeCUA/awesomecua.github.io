@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2606.09764",
+  "citation-key": "arxiv_2606_09764",
+  "type": "article",
+  "title": "iOSWorld: A Benchmark for Personally Intelligent Phone Agents",
+  "URL": "https://arxiv.org/abs/2606.09764v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.09764",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2606.09764",
+    "identifiers": {
+      "arxiv": "2606.09764"
+    },
+    "first_published_at": "2026-06-08",
+    "record_updated_at": "2026-06-08",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "495420bd87ba06ae2ec1763865b1145271e964b4bd40145c8e591653a1581c42",
+      "submitted_at": "2026-06-08T17:27:13Z",
+      "updated_at": "2026-06-08T17:27:13Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.09764v1"
+    }
+  },
+  "note": "First published: 2026-06-08; Recorded arXiv version: v1; Recorded version updated: 2026-06-08T17:27:13Z.",
+  "author": [
+    {
+      "literal": "Lawrence Keunho Jang"
+    },
+    {
+      "literal": "Mareks Woodside"
+    },
+    {
+      "literal": "Geronimo Carom"
+    },
+    {
+      "literal": "Andrew Keunwoo Jang"
+    },
+    {
+      "literal": "Jing Yu Koh"
+    },
+    {
+      "literal": "Ruslan Salakhutdinov"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.09764",
+  "genre": "preprint",
+  "version": "1"
+}

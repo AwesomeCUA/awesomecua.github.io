@@ -16,6 +16,8 @@ Mobile UI task evaluation using application state information.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-llamatouch-llamatouch/record.json
+
 ## Structured profile
 
 - actions: device actions through AgentEnv

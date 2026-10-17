@@ -16,9 +16,16 @@ Bibliographic record for GUI Agents with Reinforcement Learning: Toward Digital 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-27955/record.json
+
 ## Authors
 
 Junan Hu, Jian Liu, Jingxiang Lai, Jiarui Hu, Yiwei Sheng, Shuang Chen, Jian Li, Dazhao Du, Song Guo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-27955/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-27955/citation.csl.json
 
 ## Recorded arXiv snapshot
 

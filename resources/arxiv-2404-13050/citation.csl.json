@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2404.13050",
+  "citation-key": "arxiv_2404_13050",
+  "type": "article",
+  "title": "FlowMind: Automatic Workflow Generation with LLMs",
+  "URL": "https://arxiv.org/abs/2404.13050v1",
+  "custom": {
+    "catalog_id": "arxiv:2404.13050",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2404.13050",
+    "identifiers": {
+      "arxiv": "2404.13050"
+    },
+    "first_published_at": "2024-03-17",
+    "record_updated_at": "2024-03-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c8fc04e8daa1bc15092e24f755abee6f963a34a568894ad3fb12ce3f9a092f6d",
+      "submitted_at": "2024-03-17T00:36:37Z",
+      "updated_at": "2024-03-17T00:36:37Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2404.13050v1"
+    }
+  },
+  "note": "First published: 2024-03-17; Recorded arXiv version: v1; Recorded version updated: 2024-03-17T00:36:37Z.",
+  "author": [
+    {
+      "literal": "Zhen Zeng"
+    },
+    {
+      "literal": "William Watson"
+    },
+    {
+      "literal": "Nicole Cho"
+    },
+    {
+      "literal": "Saba Rahimi"
+    },
+    {
+      "literal": "Shayleen Reynolds"
+    },
+    {
+      "literal": "Tucker Balch"
+    },
+    {
+      "literal": "Manuela Veloso"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.13050",
+  "genre": "preprint",
+  "version": "1"
+}

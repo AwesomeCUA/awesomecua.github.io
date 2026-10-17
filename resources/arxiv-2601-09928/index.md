@@ -16,9 +16,16 @@ Bibliographic record for In-Browser Agents for Search Assistance. Title, authors
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-09928/record.json
+
 ## Authors
 
 Saber Zerhoudi, Michael Granitzer
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-09928/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-09928/citation.csl.json
 
 ## Recorded arXiv snapshot
 

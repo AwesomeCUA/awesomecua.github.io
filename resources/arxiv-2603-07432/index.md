@@ -16,9 +16,16 @@ Bibliographic record for Generalization in Online Reinforcement Learning for Mob
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-07432/record.json
+
 ## Authors
 
 Li Gu, Zihuan Jiang, Zhixiang Chi, Huan Liu, Ziqiang Wang, Yuanhao Yu, Glen Berseth, Yang Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-07432/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-07432/citation.csl.json
 
 ## Recorded arXiv snapshot
 

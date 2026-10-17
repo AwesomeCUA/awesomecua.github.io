@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2501.01702",
+  "citation-key": "arxiv_2501_01702",
+  "type": "article",
+  "title": "AgentRefine: Enhancing Agent Generalization through Refinement Tuning",
+  "URL": "https://arxiv.org/abs/2501.01702v2",
+  "custom": {
+    "catalog_id": "arxiv:2501.01702",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2501.01702",
+    "identifiers": {
+      "arxiv": "2501.01702"
+    },
+    "first_published_at": "2025-01-03",
+    "record_updated_at": "2025-02-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "45d2725c84686673c06e76083f1a145b5ad9a74d3d7e34df016b19071c94fc9d",
+      "submitted_at": "2025-01-03T08:55:19Z",
+      "updated_at": "2025-02-24T12:42:14Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2501.01702v2"
+    }
+  },
+  "note": "First published: 2025-01-03; Recorded arXiv version: v2; Recorded version updated: 2025-02-24T12:42:14Z.",
+  "author": [
+    {
+      "literal": "Dayuan Fu"
+    },
+    {
+      "literal": "Keqing He"
+    },
+    {
+      "literal": "Yejie Wang"
+    },
+    {
+      "literal": "Wentao Hong"
+    },
+    {
+      "literal": "Zhuoma Gongque"
+    },
+    {
+      "literal": "Weihao Zeng"
+    },
+    {
+      "literal": "Wei Wang"
+    },
+    {
+      "literal": "Jingang Wang"
+    },
+    {
+      "literal": "Xunliang Cai"
+    },
+    {
+      "literal": "Weiran Xu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2501.01702",
+  "genre": "preprint",
+  "version": "2"
+}

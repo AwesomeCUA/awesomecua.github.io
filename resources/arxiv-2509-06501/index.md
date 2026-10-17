@@ -16,9 +16,16 @@ Bibliographic record for WebExplorer: Explore and Evolve for Training Long-Horiz
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-06501/record.json
+
 ## Authors
 
 Junteng Liu, Yunji Li, Chi Zhang, Jingyang Li, Aili Chen, Ke Ji, Weiyu Cheng, Zijia Wu, Chengyu Du, Qidi Xu, Jiayuan Song, Zhengmao Zhu, Wenhu Chen, Pengyu Zhao, Junxian He
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-06501/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-06501/citation.csl.json
 
 ## Recorded arXiv snapshot
 

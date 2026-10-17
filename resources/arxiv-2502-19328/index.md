@@ -16,9 +16,16 @@ Bibliographic record for Agentic Reward Modeling: Integrating Human Preferences 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-19328/record.json
+
 ## Authors
 
 Hao Peng, Yunjia Qi, Xiaozhi Wang, Zijun Yao, Bin Xu, Lei Hou, Juanzi Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-19328/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-19328/citation.csl.json
 
 ## Recorded arXiv snapshot
 

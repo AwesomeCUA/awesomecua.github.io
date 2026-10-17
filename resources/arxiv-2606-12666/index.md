@@ -16,9 +16,16 @@ CAPED filters mobile screenshots before upload by combining task requirements, s
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-12666/record.json
+
 ## Authors
 
 Siyu Shen, Fenghao Xu, Wenrui Diao, Kehuan Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-12666/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-12666/citation.csl.json
 
 ## Recorded arXiv snapshot
 

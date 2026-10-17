@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2203.15807",
+  "citation-key": "arxiv_2203_15807",
+  "type": "article",
+  "title": "High Speed Photonic Neuromorphic Computing Using Recurrent Optical Spectrum Slicing Neural Networks",
+  "URL": "https://arxiv.org/abs/2203.15807v1",
+  "custom": {
+    "catalog_id": "arxiv:2203.15807",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2203.15807",
+    "identifiers": {
+      "arxiv": "2203.15807"
+    },
+    "first_published_at": "2022-03-29",
+    "record_updated_at": "2022-03-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2e528a39d84abdbc6500d52e6578d82b78e706434d9da5587db3320eb4f8fe98",
+      "submitted_at": "2022-03-29T09:13:00Z",
+      "updated_at": "2022-03-29T09:13:00Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2203.15807v1"
+    }
+  },
+  "note": "First published: 2022-03-29; Recorded arXiv version: v1; Recorded version updated: 2022-03-29T09:13:00Z.",
+  "author": [
+    {
+      "literal": "K. Sozos"
+    },
+    {
+      "literal": "A. Bogris"
+    },
+    {
+      "literal": "P. Bienstman"
+    },
+    {
+      "literal": "G. Sarantoglou"
+    },
+    {
+      "literal": "S. Deligiannidis"
+    },
+    {
+      "literal": "C. Mesaritakis"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        3,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2203.15807",
+  "genre": "preprint",
+  "version": "1"
+}

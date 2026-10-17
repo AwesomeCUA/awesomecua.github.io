@@ -16,9 +16,16 @@ Survey of research directions in GUI or computer-use agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-20464/record.json
+
 ## Authors
 
 Jiahao Li, Kaer Huang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-20464/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-20464/citation.csl.json
 
 ## Recorded arXiv snapshot
 

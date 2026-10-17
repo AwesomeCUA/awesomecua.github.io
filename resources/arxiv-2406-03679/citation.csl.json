@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2406.03679",
+  "citation-key": "arxiv_2406_03679",
+  "type": "article",
+  "title": "On the Effects of Data Scale on UI Control Agents",
+  "URL": "https://arxiv.org/abs/2406.03679v6",
+  "custom": {
+    "catalog_id": "arxiv:2406.03679",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2406.03679",
+    "identifiers": {
+      "arxiv": "2406.03679"
+    },
+    "first_published_at": "2024-06-06",
+    "record_updated_at": "2024-11-13",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6eb3209d8e2a431987fe19f01cd0818f9fb490e684d7369e7d3002dc388ff271",
+      "submitted_at": "2024-06-06T01:49:29Z",
+      "updated_at": "2024-11-13T16:42:22Z",
+      "version": 6,
+      "versioned_url": "https://arxiv.org/abs/2406.03679v6"
+    }
+  },
+  "note": "First published: 2024-06-06; Recorded arXiv version: v6; Recorded version updated: 2024-11-13T16:42:22Z.",
+  "author": [
+    {
+      "literal": "Wei Li"
+    },
+    {
+      "literal": "William Bishop"
+    },
+    {
+      "literal": "Alice Li"
+    },
+    {
+      "literal": "Chris Rawles"
+    },
+    {
+      "literal": "Folawiyo Campbell-Ajala"
+    },
+    {
+      "literal": "Divya Tyamagundlu"
+    },
+    {
+      "literal": "Oriana Riva"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.03679",
+  "genre": "preprint",
+  "version": "6"
+}

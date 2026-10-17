@@ -16,9 +16,16 @@ Bibliographic record for MobileRAG: Enhancing Mobile Agent with Retrieval-Augmen
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-03891/record.json
+
 ## Authors
 
 Gowen Loo, Chang Liu, Qinghong Yin, Xiang Chen, Jiawei Chen, Jingyuan Zhang, Yu Tian
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-03891/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-03891/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2502.08226",
+  "citation-key": "arxiv_2502_08226",
+  "type": "article",
+  "title": "TRISHUL: Towards Region Identification and Screen Hierarchy Understanding for Large VLM based GUI Agents",
+  "URL": "https://arxiv.org/abs/2502.08226v2",
+  "custom": {
+    "catalog_id": "arxiv:2502.08226",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2502.08226",
+    "identifiers": {
+      "arxiv": "2502.08226"
+    },
+    "first_published_at": "2025-02-12",
+    "record_updated_at": "2025-02-14",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a60d581e4318db66495a0333b864757ec896576c720e40da4a881f8740b9d9cf",
+      "submitted_at": "2025-02-12T09:12:30Z",
+      "updated_at": "2025-02-14T06:23:57Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2502.08226v2"
+    }
+  },
+  "note": "First published: 2025-02-12; Recorded arXiv version: v2; Recorded version updated: 2025-02-14T06:23:57Z.",
+  "author": [
+    {
+      "literal": "Kunal Singh"
+    },
+    {
+      "literal": "Shreyas Singh"
+    },
+    {
+      "literal": "Mukund Khanna"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.08226",
+  "genre": "preprint",
+  "version": "2"
+}

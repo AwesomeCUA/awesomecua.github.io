@@ -16,9 +16,16 @@ Bibliographic record for Testing Language Model Agents Safely in the Wild. Title
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-10538/record.json
+
 ## Authors
 
 Silen Naihin, David Atkinson, Marc Green, Merwane Hamadi, Craig Swift, Douglas Schonholtz, Adam Tauman Kalai, David Bau
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-10538/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-10538/citation.csl.json
 
 ## Recorded arXiv snapshot
 

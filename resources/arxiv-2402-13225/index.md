@@ -16,9 +16,16 @@ Bibliographic record for AgentMD: Empowering Language Agents for Risk Prediction
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-13225/record.json
+
 ## Authors
 
 Qiao Jin, Zhizheng Wang, Yifan Yang, Qingqing Zhu, Donald Wright, Thomas Huang, W John Wilbur, Zhe He, Andrew Taylor, Qingyu Chen, Zhiyong Lu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-13225/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-13225/citation.csl.json
 
 ## Recorded arXiv snapshot
 

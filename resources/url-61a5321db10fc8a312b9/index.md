@@ -16,6 +16,8 @@ A single Hub release containing GUI-R1 3B and 7B action-model checkpoints traine
 
 The manifest contains two safetensors shards in GUI-R1-3B and four in GUI-R1-7B. Both are counted as one Hub resource rather than duplicate root URLs. The model card declares MIT; this does not automatically apply to source training data or upstream base models.
 
+- Record JSON: https://awesomecua.github.io/resources/url-61a5321db10fc8a312b9/record.json
+
 ## License declarations
 
 - code: not recorded

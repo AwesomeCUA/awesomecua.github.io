@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2504.13805",
+  "citation-key": "arxiv_2504_13805",
+  "type": "article",
+  "title": "LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark",
+  "URL": "https://arxiv.org/abs/2504.13805v1",
+  "custom": {
+    "catalog_id": "arxiv:2504.13805",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2504.13805",
+    "identifiers": {
+      "arxiv": "2504.13805"
+    },
+    "first_published_at": "2025-04-18",
+    "record_updated_at": "2025-04-18",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2bbe6c4969a9557546752235809d25912bff96a97001fade30102d8d2c751054",
+      "submitted_at": "2025-04-18T17:13:34Z",
+      "updated_at": "2025-04-18T17:13:34Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2504.13805v1"
+    }
+  },
+  "note": "First published: 2025-04-18; Recorded arXiv version: v1; Recorded version updated: 2025-04-18T17:13:34Z.",
+  "author": [
+    {
+      "literal": "Guangyi Liu"
+    },
+    {
+      "literal": "Pengxiang Zhao"
+    },
+    {
+      "literal": "Liang Liu"
+    },
+    {
+      "literal": "Zhiming Chen"
+    },
+    {
+      "literal": "Yuxiang Chai"
+    },
+    {
+      "literal": "Shuai Ren"
+    },
+    {
+      "literal": "Hao Wang"
+    },
+    {
+      "literal": "Shibo He"
+    },
+    {
+      "literal": "Wenchao Meng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.13805",
+  "genre": "preprint",
+  "version": "1"
+}

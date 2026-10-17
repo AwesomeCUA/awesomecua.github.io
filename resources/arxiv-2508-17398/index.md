@@ -16,9 +16,16 @@ Bibliographic record for DashboardQA: Benchmarking Multimodal Agents for Questio
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-17398/record.json
+
 ## Authors
 
 Aaryaman Kartha, Ahmed Masry, Mohammed Saidul Islam, Thinh Lang, Shadikur Rahman, Ridwan Mahbub, Mizanur Rahman, Mahir Ahmed, Md Rizwan Parvez, Enamul Hoque, Shafiq Joty
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-17398/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-17398/citation.csl.json
 
 ## Recorded arXiv snapshot
 

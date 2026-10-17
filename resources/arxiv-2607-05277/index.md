@@ -16,9 +16,16 @@ Bibliographic record for Untrusted Content Masking for Web Agents with Security 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-05277/record.json
+
 ## Authors
 
 Kristina Nikolić, Egor Zverev, Javier Rando, Matthew Jagielski, Edoardo Debenedetti, Florian Tramèr
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-05277/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-05277/citation.csl.json
 
 ## Recorded arXiv snapshot
 

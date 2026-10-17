@@ -16,9 +16,16 @@ Bibliographic record for The Open Source Advantage in Large Language Models (LLM
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-12004/record.json
+
 ## Authors
 
 Jiya Manchanda, Laura Boettcher, Matheus Westphalen, Jasser Jasser
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-12004/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-12004/citation.csl.json
 
 ## Recorded arXiv snapshot
 

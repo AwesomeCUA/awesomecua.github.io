@@ -16,6 +16,8 @@ GUI screenshots paired with localization instructions and targets, including abs
 
 The public Hub API reports gated=auto and a Restricted Research-Only declaration. The companion card distinguishes annotations from screenshots and limits reuse. Access terms were inspected as public metadata; no access agreement was accepted or gated files downloaded.
 
+- Record JSON: https://awesomecua.github.io/resources/url-56bda04bd8d3a438deb3/record.json
+
 ## Structured profile
 
 - formats: Parquet

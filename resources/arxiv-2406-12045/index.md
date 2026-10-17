@@ -16,9 +16,16 @@ Bibliographic record for $τ$-bench: A Benchmark for Tool-Agent-User Interaction
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-12045/record.json
+
 ## Authors
 
 Shunyu Yao, Noah Shinn, Pedram Razavi, Karthik Narasimhan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-12045/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-12045/citation.csl.json
 
 ## Recorded arXiv snapshot
 

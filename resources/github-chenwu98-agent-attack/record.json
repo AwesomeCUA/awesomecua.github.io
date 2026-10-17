@@ -1,0 +1,60 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "metrics": [],
+    "task_count": null
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:40:54Z",
+      "role": "primary",
+      "sha256": "0759e1212025ac487c1646877f97526d35db1a62337192800acaff7684471087",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/ChenWu98/agent-attack/HEAD/README.md"
+    }
+  ],
+  "id": "github:chenwu98/agent-attack",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-16T06:40:54Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/ChenWu98/agent-attack"
+    }
+  ],
+  "name": "Adversarial Web Agents",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Evaluation resources for adversarial attacks on multimodal web agents.",
+  "topics": [
+    "safety-security",
+    "robustness"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/ChenWu98/agent-attack"
+}

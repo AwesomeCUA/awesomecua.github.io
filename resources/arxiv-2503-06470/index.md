@@ -16,9 +16,16 @@ Combines rapid target prediction with deliberate interface analysis, adaptively 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-06470/record.json
+
 ## Authors
 
 Fei Tang, Yongliang Shen, Hang Zhang, Siqi Chen, Guiyang Hou, Wenqi Zhang, Wenqiao Zhang, Kaitao Song, Weiming Lu, Yueting Zhuang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-06470/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-06470/citation.csl.json
 
 ## Recorded arXiv snapshot
 

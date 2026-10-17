@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2402.05202",
+  "citation-key": "arxiv_2402_05202",
+  "type": "article",
+  "title": "UEyes: An Eye-Tracking Dataset across User Interface Types",
+  "URL": "https://arxiv.org/abs/2402.05202v1",
+  "custom": {
+    "catalog_id": "arxiv:2402.05202",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2402.05202",
+    "identifiers": {
+      "arxiv": "2402.05202"
+    },
+    "first_published_at": "2024-02-07",
+    "record_updated_at": "2024-02-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1a1b1dc5d3541b11902569ff4a0d2248a2e1ca8e969d7630054ecd15a921c3f3",
+      "submitted_at": "2024-02-07T19:15:30Z",
+      "updated_at": "2024-02-07T19:15:30Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2402.05202v1"
+    }
+  },
+  "note": "First published: 2024-02-07; Recorded arXiv version: v1; Recorded version updated: 2024-02-07T19:15:30Z.",
+  "author": [
+    {
+      "literal": "Yue Jiang"
+    },
+    {
+      "literal": "Luis A. Leiva"
+    },
+    {
+      "literal": "Paul R. B. Houssel"
+    },
+    {
+      "literal": "Hamed R. Tavakoli"
+    },
+    {
+      "literal": "Julia Kylmälä"
+    },
+    {
+      "literal": "Antti Oulasvirta"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.05202",
+  "genre": "preprint",
+  "version": "1"
+}

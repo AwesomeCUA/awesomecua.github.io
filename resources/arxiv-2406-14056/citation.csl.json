@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2406.14056",
+  "citation-key": "arxiv_2406_14056",
+  "type": "article",
+  "title": "VGA: Vision GUI Assistant -- Minimizing Hallucinations through Image-Centric Fine-Tuning",
+  "URL": "https://arxiv.org/abs/2406.14056v3",
+  "custom": {
+    "catalog_id": "arxiv:2406.14056",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2406.14056",
+    "identifiers": {
+      "arxiv": "2406.14056"
+    },
+    "first_published_at": "2024-06-20",
+    "record_updated_at": "2024-11-04",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ea674b3aec3aee51c6f7fd4e99ad2b88394e7df43a4f3a02654d805e9a60343a",
+      "submitted_at": "2024-06-20T07:24:43Z",
+      "updated_at": "2024-11-04T09:31:06Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2406.14056v3"
+    }
+  },
+  "note": "First published: 2024-06-20; Recorded arXiv version: v3; Recorded version updated: 2024-11-04T09:31:06Z.",
+  "author": [
+    {
+      "literal": "Ziyang Meng"
+    },
+    {
+      "literal": "Yu Dai"
+    },
+    {
+      "literal": "Zezheng Gong"
+    },
+    {
+      "literal": "Shaoxiong Guo"
+    },
+    {
+      "literal": "Minglong Tang"
+    },
+    {
+      "literal": "Tongquan Wei"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.14056",
+  "genre": "preprint",
+  "version": "3"
+}

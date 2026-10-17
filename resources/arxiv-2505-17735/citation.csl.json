@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2505.17735",
+  "citation-key": "arxiv_2505_17735",
+  "type": "article",
+  "title": "SafeAgent: Safeguarding LLM Agents via an Automated Risk Simulator",
+  "URL": "https://arxiv.org/abs/2505.17735v2",
+  "custom": {
+    "catalog_id": "arxiv:2505.17735",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.17735",
+    "identifiers": {
+      "arxiv": "2505.17735"
+    },
+    "first_published_at": "2025-05-23",
+    "record_updated_at": "2025-07-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5c2cc928e332b21b823f37b53979d0cf964618098e65052d7504a4375dd69128",
+      "submitted_at": "2025-05-23T10:56:06Z",
+      "updated_at": "2025-07-18T07:34:40Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2505.17735v2"
+    }
+  },
+  "note": "First published: 2025-05-23; Recorded arXiv version: v2; Recorded version updated: 2025-07-18T07:34:40Z.",
+  "author": [
+    {
+      "literal": "Xueyang Zhou"
+    },
+    {
+      "literal": "Weidong Wang"
+    },
+    {
+      "literal": "Lin Lu"
+    },
+    {
+      "literal": "Jiawen Shi"
+    },
+    {
+      "literal": "Guiyao Tie"
+    },
+    {
+      "literal": "Yongtian Xu"
+    },
+    {
+      "literal": "Lixing Chen"
+    },
+    {
+      "literal": "Pan Zhou"
+    },
+    {
+      "literal": "Neil Zhenqiang Gong"
+    },
+    {
+      "literal": "Lichao Sun"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.17735",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2601.21123",
+  "citation-key": "arxiv_2601_21123",
+  "type": "article",
+  "title": "CUA-Skill: Develop Skills for Computer Using Agent",
+  "URL": "https://arxiv.org/abs/2601.21123v2",
+  "custom": {
+    "catalog_id": "arxiv:2601.21123",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.21123",
+    "identifiers": {
+      "arxiv": "2601.21123"
+    },
+    "first_published_at": "2026-01-28",
+    "record_updated_at": "2026-02-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5a3efa3cd0add437e327ea49896a3ee794daa178664dfb4096aba66fed27554b",
+      "submitted_at": "2026-01-28T23:38:25Z",
+      "updated_at": "2026-02-02T23:11:55Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2601.21123v2"
+    }
+  },
+  "note": "First published: 2026-01-28; Recorded arXiv version: v2; Recorded version updated: 2026-02-02T23:11:55Z.",
+  "author": [
+    {
+      "literal": "Tianyi Chen"
+    },
+    {
+      "literal": "Yinheng Li"
+    },
+    {
+      "literal": "Michael Solodko"
+    },
+    {
+      "literal": "Sen Wang"
+    },
+    {
+      "literal": "Nan Jiang"
+    },
+    {
+      "literal": "Tingyuan Cui"
+    },
+    {
+      "literal": "Junheng Hao"
+    },
+    {
+      "literal": "Jongwoo Ko"
+    },
+    {
+      "literal": "Sara Abdali"
+    },
+    {
+      "literal": "Leon Xu"
+    },
+    {
+      "literal": "Suzhen Zheng"
+    },
+    {
+      "literal": "Hao Fan"
+    },
+    {
+      "literal": "Pashmina Cameron"
+    },
+    {
+      "literal": "Justin Wagle"
+    },
+    {
+      "literal": "Kazuhito Koishida"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.21123",
+  "genre": "preprint",
+  "version": "2"
+}

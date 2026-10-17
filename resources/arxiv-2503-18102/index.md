@@ -16,9 +16,16 @@ Bibliographic record for AgentRxiv: Towards Collaborative Autonomous Research. T
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-18102/record.json
+
 ## Authors
 
 Samuel Schmidgall, Michael Moor
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-18102/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-18102/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2304.04370",
+  "citation-key": "arxiv_2304_04370",
+  "type": "article",
+  "title": "OpenAGI: When LLM Meets Domain Experts",
+  "URL": "https://arxiv.org/abs/2304.04370v6",
+  "custom": {
+    "catalog_id": "arxiv:2304.04370",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2304.04370",
+    "identifiers": {
+      "arxiv": "2304.04370"
+    },
+    "first_published_at": "2023-04-10",
+    "record_updated_at": "2023-11-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a5197ad473544cfb8b6565408fbd467db4d0c1e1ede313e6308ec65ccfcac469",
+      "submitted_at": "2023-04-10T03:55:35Z",
+      "updated_at": "2023-11-03T15:24:18Z",
+      "version": 6,
+      "versioned_url": "https://arxiv.org/abs/2304.04370v6"
+    }
+  },
+  "note": "First published: 2023-04-10; Recorded arXiv version: v6; Recorded version updated: 2023-11-03T15:24:18Z.",
+  "author": [
+    {
+      "literal": "Yingqiang Ge"
+    },
+    {
+      "literal": "Wenyue Hua"
+    },
+    {
+      "literal": "Kai Mei"
+    },
+    {
+      "literal": "Jianchao Ji"
+    },
+    {
+      "literal": "Juntao Tan"
+    },
+    {
+      "literal": "Shuyuan Xu"
+    },
+    {
+      "literal": "Zelong Li"
+    },
+    {
+      "literal": "Yongfeng Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        4,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2304.04370",
+  "genre": "preprint",
+  "version": "6"
+}

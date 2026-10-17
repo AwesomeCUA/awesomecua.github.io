@@ -16,9 +16,16 @@ Bibliographic record for SkillMimic-V2: Learning Robust and Generalizable Intera
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-02094/record.json
+
 ## Authors
 
 Runyi Yu, Yinhuai Wang, Qihan Zhao, Hok Wai Tsui, Jingbo Wang, Ping Tan, Qifeng Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-02094/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-02094/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Generating CAD Code with Vision-Language Models for 3D 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-05340/record.json
+
 ## Authors
 
 Kamel Alrashedy, Pradyumna Tambwekar, Zulfiqar Zaidi, Megan Langwasser, Wei Xu, Matthew Gombolay
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-05340/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-05340/citation.csl.json
 
 ## Recorded arXiv snapshot
 

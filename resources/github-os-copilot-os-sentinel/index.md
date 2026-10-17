@@ -16,6 +16,8 @@ Safety-oriented research for computer-use agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-os-copilot-os-sentinel/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/OS-Copilot/OS-Sentinel/HEAD/LICENSE

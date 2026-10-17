@@ -16,9 +16,16 @@ Bibliographic record for GraphPilot: GUI Task Automation with One-Step LLM Reaso
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-17418/record.json
+
 ## Authors
 
 Mingxian Yu, Siqi Luo, Xu Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-17418/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-17418/citation.csl.json
 
 ## Recorded arXiv snapshot
 

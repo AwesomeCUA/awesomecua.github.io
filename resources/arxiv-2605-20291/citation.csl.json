@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2605.20291",
+  "citation-key": "arxiv_2605_20291",
+  "type": "article",
+  "title": "Weasel: Out-of-Domain Generalization for Web Agents via Importance-Diversity Data Selection",
+  "URL": "https://arxiv.org/abs/2605.20291v2",
+  "custom": {
+    "catalog_id": "arxiv:2605.20291",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.20291",
+    "identifiers": {
+      "arxiv": "2605.20291"
+    },
+    "first_published_at": "2026-05-19",
+    "record_updated_at": "2026-05-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "aa6e11bae4d952d79276543ced6f81193b36868a6222fe51ee7b0816aa72fbab",
+      "submitted_at": "2026-05-19T09:19:01Z",
+      "updated_at": "2026-05-26T02:53:26Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2605.20291v2"
+    }
+  },
+  "note": "First published: 2026-05-19; Recorded arXiv version: v2; Recorded version updated: 2026-05-26T02:53:26Z.",
+  "author": [
+    {
+      "literal": "Fatemeh Pesaran Zadeh"
+    },
+    {
+      "literal": "Seyeon Choi"
+    },
+    {
+      "literal": "Xing Han Lù"
+    },
+    {
+      "literal": "Siva Reddy"
+    },
+    {
+      "literal": "Gunhee Kim"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.20291",
+  "genre": "preprint",
+  "version": "2"
+}

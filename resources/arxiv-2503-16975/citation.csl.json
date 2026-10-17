@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2503.16975",
+  "citation-key": "arxiv_2503_16975",
+  "type": "article",
+  "title": "EasyRobust: A Comprehensive and Easy-to-use Toolkit for Robust and Generalized Vision",
+  "URL": "https://arxiv.org/abs/2503.16975v1",
+  "custom": {
+    "catalog_id": "arxiv:2503.16975",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2503.16975",
+    "identifiers": {
+      "arxiv": "2503.16975"
+    },
+    "first_published_at": "2025-03-21",
+    "record_updated_at": "2025-03-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6e01918698fc9e3e2715110ca46b556b468a8c464d49bc173076b6f2a3c9988a",
+      "submitted_at": "2025-03-21T09:43:42Z",
+      "updated_at": "2025-03-21T09:43:42Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2503.16975v1"
+    }
+  },
+  "note": "First published: 2025-03-21; Recorded arXiv version: v1; Recorded version updated: 2025-03-21T09:43:42Z.",
+  "author": [
+    {
+      "literal": "Xiaofeng Mao"
+    },
+    {
+      "literal": "Yuefeng Chen"
+    },
+    {
+      "literal": "Rong Zhang"
+    },
+    {
+      "literal": "Hui Xue"
+    },
+    {
+      "literal": "Zhao Li"
+    },
+    {
+      "literal": "Hang Su"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.16975",
+  "genre": "preprint",
+  "version": "1"
+}

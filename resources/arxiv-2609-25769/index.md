@@ -16,9 +16,16 @@ Bibliographic record for Towards Omni-dimensional GUI Agent Navigation with Mask
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-25769/record.json
+
 ## Authors
 
 Yan Zhang, Pei Fu, Daiqing Wu, Huawen Shen, Ruoceng Zhang, Shaojie Zhang, Jiahui Yang, Yu Zhou, Can Ma, Zhenbo Luo, Jian Luan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-25769/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-25769/citation.csl.json
 
 ## Recorded arXiv snapshot
 

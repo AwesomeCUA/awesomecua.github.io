@@ -16,6 +16,8 @@ Revised ScreenSpot grounding evaluation data from OS-Atlas.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-bd7214de6d98917c2350/record.json
+
 ## License declarations
 
 - code: not recorded

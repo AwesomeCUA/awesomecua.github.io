@@ -16,9 +16,16 @@ WebArxiv provides 510 static-snapshot tasks with deterministic answers for schol
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-00938/record.json
+
 ## Authors
 
 Zihao Sun, Zijing Shi, Ling Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-00938/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-00938/citation.csl.json
 
 ## Recorded arXiv snapshot
 

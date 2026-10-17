@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2408.11824",
+  "citation-key": "arxiv_2408_11824",
+  "type": "article",
+  "title": "AppAgent v2: Advanced Agent for Flexible Mobile Interactions",
+  "URL": "https://arxiv.org/abs/2408.11824v4",
+  "custom": {
+    "catalog_id": "arxiv:2408.11824",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2408.11824",
+    "identifiers": {
+      "arxiv": "2408.11824"
+    },
+    "first_published_at": "2024-08-05",
+    "record_updated_at": "2025-09-17",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d5b471c61c2ac9d4932bd71052ea35585699d70e9710f8366bc4fa8e4f2ebbae",
+      "submitted_at": "2024-08-05T06:31:39Z",
+      "updated_at": "2025-09-17T09:06:58Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2408.11824v4"
+    }
+  },
+  "note": "First published: 2024-08-05; Recorded arXiv version: v4; Recorded version updated: 2025-09-17T09:06:58Z.",
+  "author": [
+    {
+      "literal": "Yanda Li"
+    },
+    {
+      "literal": "Chi Zhang"
+    },
+    {
+      "literal": "Wenjia Jiang"
+    },
+    {
+      "literal": "Wanqi Yang"
+    },
+    {
+      "literal": "Bin Fu"
+    },
+    {
+      "literal": "Pei Cheng"
+    },
+    {
+      "literal": "Xin Chen"
+    },
+    {
+      "literal": "Ling Chen"
+    },
+    {
+      "literal": "Yunchao Wei"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2408.11824",
+  "genre": "preprint",
+  "version": "4"
+}

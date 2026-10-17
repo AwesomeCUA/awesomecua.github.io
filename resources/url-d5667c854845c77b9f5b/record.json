@@ -1,0 +1,111 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/xuyifan/MobileRL-9B/tree/main",
+    "gated": false,
+    "hub_id": "xuyifan/MobileRL-9B",
+    "languages": [
+      "en"
+    ],
+    "modalities": [],
+    "size_category_reported": null
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:03:40Z",
+      "role": "primary",
+      "sha256": "a00f13f5a86f2de7eb9c866cc4d08b958d21b2ac30dc3b9e1662e4bb336b7cb3",
+      "supports": [
+        "name",
+        "kind",
+        "relations",
+        "licenses.weights",
+        "identity",
+        "release_status",
+        "details"
+      ],
+      "url": "https://huggingface.co/api/models/xuyifan/MobileRL-9B"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:03:41Z",
+      "role": "primary",
+      "sha256": "5c2d5eb247958f1af0646cbac831ecfbc7f839baa236a0d733075592da81f58e",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/xuyifan/MobileRL-9B/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:04Z",
+      "role": "primary",
+      "sha256": "752fad8ebd8b8eda03648329a6fc2585e5bcb2b96875b8aa2ce7d9f3fff78153",
+      "supports": [
+        "summary",
+        "environments",
+        "relations",
+        "topics",
+        "scope"
+      ],
+      "url": "https://raw.githubusercontent.com/THUDM/MobileRL/HEAD/README.md"
+    },
+    {
+      "method": "huggingface_api",
+      "retrieved_at": "2026-10-17T04:03:40Z",
+      "role": "primary",
+      "sha256": "a00f13f5a86f2de7eb9c866cc4d08b958d21b2ac30dc3b9e1662e4bb336b7cb3",
+      "supports": [
+        "details",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/api/models/xuyifan/MobileRL-9B"
+    }
+  ],
+  "id": "url:d5667c854845c77b9f5b",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T04:03:40Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "publisher model/dataset card",
+      "declared": "apache-2.0",
+      "retrieved_at": "2026-10-17T04:03:40Z",
+      "url": "https://huggingface.co/xuyifan/MobileRL-9B"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/xuyifan/MobileRL-9B"
+    }
+  ],
+  "name": "MobileRL 9B checkpoint",
+  "notes": "Five public safetensors shards are present. The short card declares Apache-2.0 and a GLM-4.1V-9B base. The official project confirms the checkpoint and Android targets, and distinguishes MobileRL bounding-box actions from coordinate-format alternatives.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/THUDM/MobileRL/HEAD/README.md",
+      "target_id": "arxiv:2509.18119",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A GLM-4.1V-based mobile action checkpoint released by the MobileRL project for Android interaction.",
+  "topics": [
+    "reinforcement-learning",
+    "mobile-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/xuyifan/MobileRL-9B"
+}

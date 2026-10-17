@@ -16,9 +16,16 @@ Generates labeled slides and interface visuals through code to support visual el
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-00201/record.json
+
 ## Authors
 
 Yi-Hao Peng, Faria Huq, Yue Jiang, Jason Wu, Amanda Xin Yue Li, Jeffrey Bigham, Amy Pavel
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-00201/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-00201/citation.csl.json
 
 ## Recorded arXiv snapshot
 

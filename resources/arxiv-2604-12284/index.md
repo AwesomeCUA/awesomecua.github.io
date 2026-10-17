@@ -16,9 +16,16 @@ Bibliographic record for WebAgentGuard: A Reasoning-Driven Guard Model for Detec
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-12284/record.json
+
 ## Authors
 
 Yulin Chen, Tri Cao, Haoran Li, Yue Liu, Yibo Li, Yufei He, Le Minh Khoi, Yangqiu Song, Shuicheng Yan, Bryan Hooi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-12284/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-12284/citation.csl.json
 
 ## Recorded arXiv snapshot
 

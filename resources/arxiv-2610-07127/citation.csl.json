@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2610.07127",
+  "citation-key": "arxiv_2610_07127",
+  "type": "article",
+  "title": "PlaySuite: A Large-Scale Benchmark for Interactive Visual Intelligence",
+  "URL": "https://arxiv.org/abs/2610.07127v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.07127",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.07127",
+    "identifiers": {
+      "arxiv": "2610.07127"
+    },
+    "first_published_at": "2026-10-05",
+    "record_updated_at": "2026-10-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "21a807604326825ca2159d3528f0c12c8127043703f7fd56f0dd0213c7697d50",
+      "submitted_at": "2026-10-05T17:52:40Z",
+      "updated_at": "2026-10-05T17:52:40Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.07127v1"
+    }
+  },
+  "note": "First published: 2026-10-05; Recorded arXiv version: v1; Recorded version updated: 2026-10-05T17:52:40Z.",
+  "author": [
+    {
+      "literal": "Dheeraj Varghese"
+    },
+    {
+      "literal": "Anna Vettoruzzo"
+    },
+    {
+      "literal": "Walter Simoncini"
+    },
+    {
+      "literal": "Michelle Lorena Acevedo Callejas"
+    },
+    {
+      "literal": "Mohammad Mahdi Derakhshani"
+    },
+    {
+      "literal": "Kristof Meding"
+    },
+    {
+      "literal": "Joaquin Vanschoren"
+    },
+    {
+      "literal": "Cees G. M. Snoek"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.07127",
+  "genre": "preprint",
+  "version": "1"
+}

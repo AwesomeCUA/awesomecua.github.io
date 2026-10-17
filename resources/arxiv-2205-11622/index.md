@@ -16,9 +16,16 @@ Bibliographic record for SparseLNR: Accelerating Sparse Tensor Computations Usin
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2205-11622/record.json
+
 ## Authors
 
 Adhitha Dias, Kirshanthan Sundararajah, Charitha Saumya, Milind Kulkarni
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2205-11622/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2205-11622/citation.csl.json
 
 ## Recorded arXiv snapshot
 

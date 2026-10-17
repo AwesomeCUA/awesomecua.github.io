@@ -1,0 +1,60 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:00Z",
+      "role": "primary",
+      "sha256": "a2a3c5ad115e4e2109b56686c9e0b073bcfec6d9f052a58bc92683af44933480",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/AriaUI/Aria-UI/HEAD/README.md"
+    }
+  ],
+  "id": "github:ariaui/aria-ui",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-16T06:36:00Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/AriaUI/Aria-UI"
+    }
+  ],
+  "name": "Aria-UI",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/AriaUI/Aria-UI/HEAD/README.md",
+      "target_id": "arxiv:2412.16256",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Model and data resources for GUI grounding.",
+  "topics": [
+    "grounding"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/AriaUI/Aria-UI"
+}

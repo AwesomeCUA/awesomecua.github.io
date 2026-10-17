@@ -16,9 +16,16 @@ Bibliographic record for Design optimization for high-performance computing usin
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2304-12474/record.json
+
 ## Authors
 
 Murat Isik, Kayode Inadagbo, Hakan Aktas
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2304-12474/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2304-12474/citation.csl.json
 
 ## Recorded arXiv snapshot
 

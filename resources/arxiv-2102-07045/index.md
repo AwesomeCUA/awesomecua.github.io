@@ -16,9 +16,16 @@ Bibliographic record for Optimizing Electronic Structure Simulations on a Trappe
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2102-07045/record.json
+
 ## Authors
 
 Yukio Kawashima, Erika Lloyd, Marc P. Coons, Yunseong Nam, Shunji Matsuura, Alejandro J. Garza, Sonika Johri, Lee Huntington, Valentin Senicourt, Andrii O. Maksymov, Jason H. V. Nguyen, Jungsang Kim, Nima Alidoust, Arman Zaribafiyan, Takeshi Yamazaki
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2102-07045/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2102-07045/citation.csl.json
 
 ## Recorded arXiv snapshot
 

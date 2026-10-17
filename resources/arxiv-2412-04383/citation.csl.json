@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2412.04383",
+  "citation-key": "arxiv_2412_04383",
+  "type": "article",
+  "title": "SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding",
+  "URL": "https://arxiv.org/abs/2412.04383v2",
+  "custom": {
+    "catalog_id": "arxiv:2412.04383",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2412.04383",
+    "identifiers": {
+      "arxiv": "2412.04383"
+    },
+    "first_published_at": "2024-12-05",
+    "record_updated_at": "2025-05-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0c923a3d79900fa02279e24e31da14a1d22d6d971eb7b9be4fa06339238fc262",
+      "submitted_at": "2024-12-05T17:58:43Z",
+      "updated_at": "2025-05-29T14:14:03Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2412.04383v2"
+    }
+  },
+  "note": "First published: 2024-12-05; Recorded arXiv version: v2; Recorded version updated: 2025-05-29T14:14:03Z.",
+  "author": [
+    {
+      "literal": "Rong Li"
+    },
+    {
+      "literal": "Shijie Li"
+    },
+    {
+      "literal": "Lingdong Kong"
+    },
+    {
+      "literal": "Xulei Yang"
+    },
+    {
+      "literal": "Junwei Liang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.04383",
+  "genre": "preprint",
+  "version": "2"
+}

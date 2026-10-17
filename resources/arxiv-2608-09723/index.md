@@ -16,9 +16,16 @@ Bibliographic record for LookAgain: Closed-Loop GUI Grounding with Visually Grou
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-09723/record.json
+
 ## Authors
 
 Renshan Zhang, Haoyang Meng, Yixiao He, Rui Shao, April Hua Liu, Liqiang Nie
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-09723/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-09723/citation.csl.json
 
 ## Recorded arXiv snapshot
 

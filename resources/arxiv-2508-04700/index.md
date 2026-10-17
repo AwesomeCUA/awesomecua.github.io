@@ -16,9 +16,16 @@ SEAgent explores unfamiliar software using a world-state assessor and an automat
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-04700/record.json
+
 ## Authors
 
 Zeyi Sun, Ziyu Liu, Yuhang Zang, Yuhang Cao, Xiaoyi Dong, Tong Wu, Dahua Lin, Jiaqi Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-04700/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-04700/citation.csl.json
 
 ## Recorded arXiv snapshot
 

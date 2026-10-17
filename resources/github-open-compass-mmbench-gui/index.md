@@ -16,6 +16,8 @@ Multiplatform evaluation framework for GUI capabilities.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-open-compass-mmbench-gui/record.json
+
 ## Structured profile
 
 - actions: not recorded

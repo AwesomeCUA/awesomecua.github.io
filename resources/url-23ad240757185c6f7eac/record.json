@@ -1,0 +1,103 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "artifact_inspection": "Public file-manifest inspection only; weights were not downloaded.",
+    "base_model": "Qwen/Qwen2.5-VL-3B-Instruct",
+    "gated": false,
+    "hub_revision": "514c49e398fed1203e5c4192be9860131681299e",
+    "license_name": "qwen-research",
+    "listed_weight_files": [
+      "model.safetensors",
+      "phase1_mask_decoder.safetensors"
+    ]
+  },
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T01:48:10Z",
+      "role": "primary",
+      "sha256": "399895cd711d703ff4e016417ca14d13b76988c5625ff120e7083991eb0bd8f2",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/jcwang0602/Seg2Click-Qwen2.5-VL-3B/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T01:49:48Z",
+      "role": "primary",
+      "sha256": "c580cb5bd811285944337c4ebb461fa498bba09e6082b70e120ceb83e302fcce",
+      "supports": [
+        "details.gated",
+        "details.hub_revision",
+        "details.listed_weight_files"
+      ],
+      "url": "https://huggingface.co/api/models/jcwang0602/Seg2Click-Qwen2.5-VL-3B"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T01:48:10Z",
+      "role": "primary",
+      "sha256": "399895cd711d703ff4e016417ca14d13b76988c5625ff120e7083991eb0bd8f2",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/jcwang0602/Seg2Click-Qwen2.5-VL-3B/raw/main/README.md"
+    }
+  ],
+  "id": "url:23ad240757185c6f7eac",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T01:48:10Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "other",
+      "retrieved_at": "2026-10-17T01:48:10Z",
+      "url": "https://huggingface.co/jcwang0602/Seg2Click-Qwen2.5-VL-3B/raw/main/README.md"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/jcwang0602/Seg2Click-Qwen2.5-VL-3B"
+    }
+  ],
+  "name": "Seg2Click Qwen2.5-VL 3B",
+  "notes": "The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference. The card names the Qwen Research license, unlike the Apache-2.0 declarations on the Qwen3.5 variants.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/jcwang0602/Seg2Click-Qwen2.5-VL-3B/raw/main/README.md",
+      "target_id": "github:jcwang0602/seg2click",
+      "type": "uses"
+    },
+    {
+      "evidence_url": "https://huggingface.co/jcwang0602/Seg2Click-Qwen2.5-VL-3B/raw/main/README.md",
+      "target_id": "arxiv:2610.16234",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Seg2Click checkpoint based on Qwen2.5-VL-3B with a custom action-mask decoder.",
+  "topics": [
+    "grounding"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/jcwang0602/Seg2Click-Qwen2.5-VL-3B"
+}

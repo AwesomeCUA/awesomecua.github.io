@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2406.08340",
+  "citation-key": "arxiv_2406_08340",
+  "type": "article",
+  "title": "Practical, Automated Scenario-based Mobile App Testing",
+  "URL": "https://arxiv.org/abs/2406.08340v1",
+  "custom": {
+    "catalog_id": "arxiv:2406.08340",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2406.08340",
+    "identifiers": {
+      "arxiv": "2406.08340"
+    },
+    "first_published_at": "2024-06-12",
+    "record_updated_at": "2024-06-12",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0061e9004afe11bf188164ea37de1acd15e1b95ae2fcad22044264a89e4636b3",
+      "submitted_at": "2024-06-12T15:48:39Z",
+      "updated_at": "2024-06-12T15:48:39Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2406.08340v1"
+    }
+  },
+  "note": "First published: 2024-06-12; Recorded arXiv version: v1; Recorded version updated: 2024-06-12T15:48:39Z.",
+  "author": [
+    {
+      "literal": "Shengcheng Yu"
+    },
+    {
+      "literal": "Chunrong Fang"
+    },
+    {
+      "literal": "Mingzhe Du"
+    },
+    {
+      "literal": "Zimin Ding"
+    },
+    {
+      "literal": "Zhenyu Chen"
+    },
+    {
+      "literal": "Zhendong Su"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.08340",
+  "genre": "preprint",
+  "version": "1"
+}

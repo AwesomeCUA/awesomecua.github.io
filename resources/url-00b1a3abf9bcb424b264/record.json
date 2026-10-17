@@ -1,0 +1,96 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/Tongyi-MAI/MAI-UI-8B/tree/main",
+    "gated": false,
+    "hub_id": "Tongyi-MAI/MAI-UI-8B"
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:07:19Z",
+      "role": "primary",
+      "sha256": "a1087d2a0dde6e7ba6d79db546ee6360a5ffd95ffbc3add1478eedec603a4187",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/Tongyi-MAI/MAI-UI-8B/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:07:18Z",
+      "role": "primary",
+      "sha256": "349e6d5753fa94a47feb4b2fc53ecd6b9188b645a0cffabef92fd1aa0976ecad",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/api/models/Tongyi-MAI/MAI-UI-8B"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T04:07:19Z",
+      "role": "primary",
+      "sha256": "a1087d2a0dde6e7ba6d79db546ee6360a5ffd95ffbc3add1478eedec603a4187",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/Tongyi-MAI/MAI-UI-8B/raw/main/README.md"
+    }
+  ],
+  "id": "url:00b1a3abf9bcb424b264",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T04:07:19Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "apache-2.0",
+      "retrieved_at": "2026-10-17T04:07:19Z",
+      "url": "https://huggingface.co/Tongyi-MAI/MAI-UI-8B/raw/main/README.md"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/Tongyi-MAI/MAI-UI-8B"
+    }
+  ],
+  "name": "MAI-UI 8B",
+  "notes": "Four public safetensors shards are present and Apache-2.0 is declared. The card presents family-wide results and device-cloud architecture; those claims are not all assigned to the 8B checkpoint. Other parameter sizes are not duplicated in this proposal batch.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/Tongyi-MAI/MAI-UI-8B/raw/main/README.md",
+      "target_id": "arxiv:2512.22047",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A released MAI-UI checkpoint combining mobile GUI actions, agent-user interaction and tool-use-oriented navigation.",
+  "topics": [
+    "grounding",
+    "mobile-navigation",
+    "tool-integration"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/Tongyi-MAI/MAI-UI-8B"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2506.09373",
+  "citation-key": "arxiv_2506_09373",
+  "type": "article",
+  "title": "LPO: Towards Accurate GUI Agent Interaction via Location Preference Optimization",
+  "URL": "https://arxiv.org/abs/2506.09373v3",
+  "custom": {
+    "catalog_id": "arxiv:2506.09373",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2506.09373",
+    "identifiers": {
+      "arxiv": "2506.09373"
+    },
+    "first_published_at": "2025-06-11",
+    "record_updated_at": "2026-04-21",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b00deba927bda03c079621f70decdeb946ec51a6982531a2086c43033ac9925c",
+      "submitted_at": "2025-06-11T03:43:30Z",
+      "updated_at": "2026-04-21T11:50:18Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2506.09373v3"
+    }
+  },
+  "note": "First published: 2025-06-11; Recorded arXiv version: v3; Recorded version updated: 2026-04-21T11:50:18Z.",
+  "author": [
+    {
+      "literal": "Jiaqi Tang"
+    },
+    {
+      "literal": "Yu Xia"
+    },
+    {
+      "literal": "Yi-Feng Wu"
+    },
+    {
+      "literal": "Yuwei Hu"
+    },
+    {
+      "literal": "Yuhui Chen"
+    },
+    {
+      "literal": "Qing-Guo Chen"
+    },
+    {
+      "literal": "Xiaogang Xu"
+    },
+    {
+      "literal": "Xiangyu Wu"
+    },
+    {
+      "literal": "Hao Lu"
+    },
+    {
+      "literal": "Yanqing Ma"
+    },
+    {
+      "literal": "Shiyin Lu"
+    },
+    {
+      "literal": "Qifeng Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.09373",
+  "genre": "preprint",
+  "version": "3"
+}

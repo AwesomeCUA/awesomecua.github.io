@@ -16,6 +16,8 @@ A GLM-4.1V-based mobile action checkpoint released by the MobileRL project for A
 
 Five public safetensors shards are present. The short card declares Apache-2.0 and a GLM-4.1V-9B base. The official project confirms the checkpoint and Android targets, and distinguishes MobileRL bounding-box actions from coordinate-format alternatives.
 
+- Record JSON: https://awesomecua.github.io/resources/url-d5667c854845c77b9f5b/record.json
+
 ## License declarations
 
 - code: not recorded

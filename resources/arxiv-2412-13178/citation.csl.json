@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2412.13178",
+  "citation-key": "arxiv_2412_13178",
+  "type": "article",
+  "title": "SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents",
+  "URL": "https://arxiv.org/abs/2412.13178v5",
+  "custom": {
+    "catalog_id": "arxiv:2412.13178",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2412.13178",
+    "identifiers": {
+      "arxiv": "2412.13178"
+    },
+    "first_published_at": "2024-12-17",
+    "record_updated_at": "2025-10-31",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4ad79285e547b3229c91db604c40634947fa9558eb594a3105efc75436e2369b",
+      "submitted_at": "2024-12-17T18:55:58Z",
+      "updated_at": "2025-10-31T08:18:50Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2412.13178v5"
+    }
+  },
+  "note": "First published: 2024-12-17; Recorded arXiv version: v5; Recorded version updated: 2025-10-31T08:18:50Z.",
+  "author": [
+    {
+      "literal": "Sheng Yin"
+    },
+    {
+      "literal": "Xianghe Pang"
+    },
+    {
+      "literal": "Yuanzhuo Ding"
+    },
+    {
+      "literal": "Menglan Chen"
+    },
+    {
+      "literal": "Yutong Bi"
+    },
+    {
+      "literal": "Yichen Xiong"
+    },
+    {
+      "literal": "Wenhao Huang"
+    },
+    {
+      "literal": "Zhen Xiang"
+    },
+    {
+      "literal": "Jing Shao"
+    },
+    {
+      "literal": "Siheng Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.13178",
+  "genre": "preprint",
+  "version": "5"
+}

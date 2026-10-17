@@ -16,9 +16,16 @@ Bibliographic record for AegisLLM: Scaling Agentic Systems for Self-Reflective D
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-20965/record.json
+
 ## Authors
 
 Zikui Cai, Shayan Shabihi, Bang An, Zora Che, Brian R. Bartoldson, Bhavya Kailkhura, Tom Goldstein, Furong Huang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-20965/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-20965/citation.csl.json
 
 ## Recorded arXiv snapshot
 

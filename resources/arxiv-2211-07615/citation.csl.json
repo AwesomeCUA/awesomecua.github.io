@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2211.07615",
+  "citation-key": "arxiv_2211_07615",
+  "type": "article",
+  "title": "UGIF: UI Grounded Instruction Following",
+  "URL": "https://arxiv.org/abs/2211.07615v2",
+  "custom": {
+    "catalog_id": "arxiv:2211.07615",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2211.07615",
+    "identifiers": {
+      "arxiv": "2211.07615"
+    },
+    "first_published_at": "2022-11-14",
+    "record_updated_at": "2023-05-23",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "52319819402cec76a69c0bb513f3a7000053208ddd9d2a8c675e055422402fbe",
+      "submitted_at": "2022-11-14T18:36:19Z",
+      "updated_at": "2023-05-23T16:08:10Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2211.07615v2"
+    }
+  },
+  "note": "First published: 2022-11-14; Recorded arXiv version: v2; Recorded version updated: 2023-05-23T16:08:10Z.",
+  "author": [
+    {
+      "literal": "Sagar Gubbi Venkatesh"
+    },
+    {
+      "literal": "Partha Talukdar"
+    },
+    {
+      "literal": "Srini Narayanan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        11,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2211.07615",
+  "genre": "preprint",
+  "version": "2"
+}

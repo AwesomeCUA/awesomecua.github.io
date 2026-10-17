@@ -16,9 +16,16 @@ Bibliographic record for WARC-Bench: Web Archive Based Benchmark for GUI Subtask
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-09872/record.json
+
 ## Authors
 
 Sanjari Srivastava, Gang Li, Cheng Chang, Rishu Garg, Manpreet Kaur, Charlene Y. Lee, Yuezhang Li, Yining Mao, Ignacio Cases, Yanan Xie, Peng Qi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-09872/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-09872/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Separates occasional visual-language planning from frequent lightweight action s
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-30186/record.json
+
 ## Authors
 
 Linghua Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-30186/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-30186/citation.csl.json
 
 ## Recorded arXiv snapshot
 

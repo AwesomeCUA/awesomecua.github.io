@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2404.08755",
+  "citation-key": "arxiv_2404_08755",
+  "type": "article",
+  "title": "Training a Vision Language Model as Smartphone Assistant",
+  "URL": "https://arxiv.org/abs/2404.08755v1",
+  "custom": {
+    "catalog_id": "arxiv:2404.08755",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2404.08755",
+    "identifiers": {
+      "arxiv": "2404.08755"
+    },
+    "first_published_at": "2024-04-12",
+    "record_updated_at": "2024-04-12",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a2f255b2c2870d9fbe5a543f2a0e09a30c3154fa0c13e9f46eedcefc11d2be43",
+      "submitted_at": "2024-04-12T18:28:44Z",
+      "updated_at": "2024-04-12T18:28:44Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2404.08755v1"
+    }
+  },
+  "note": "First published: 2024-04-12; Recorded arXiv version: v1; Recorded version updated: 2024-04-12T18:28:44Z.",
+  "author": [
+    {
+      "literal": "Nicolai Dorka"
+    },
+    {
+      "literal": "Janusz Marecki"
+    },
+    {
+      "literal": "Ammar Anwar"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.08755",
+  "genre": "preprint",
+  "version": "1"
+}

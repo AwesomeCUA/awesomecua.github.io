@@ -1,0 +1,132 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "dataset_profile": {
+      "counts": [
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/ServiceNow/ui-vision/raw/main/README.md",
+          "population": "paper-described benchmark coverage",
+          "qualifier": "exact",
+          "unit": "software applications",
+          "value": 83
+        }
+      ],
+      "evidence_urls": [
+        "https://huggingface.co/datasets/ServiceNow/ui-vision/raw/main/README.md"
+      ],
+      "formats": [
+        "JSON annotations",
+        "image files"
+      ],
+      "modalities": [
+        "screenshots",
+        "bounding boxes",
+        "UI labels",
+        "action annotations"
+      ],
+      "notes": "This is an offline evaluation dataset. Application coverage is not a sample count. The inspected file-layout documentation describes grounding annotations and images; it does not establish a common split or complete action-trajectory inventory.",
+      "splits": [],
+      "supervision": [
+        "element grounding",
+        "layout grounding",
+        "action prediction"
+      ]
+    },
+    "disabled": false,
+    "download_url": "https://huggingface.co/datasets/ServiceNow/ui-vision/tree/main",
+    "gated": false,
+    "hub_id": "ServiceNow/ui-vision",
+    "languages": [],
+    "modalities": [
+      "image"
+    ],
+    "sample_count": null,
+    "sample_unit": null,
+    "size_category_reported": null
+  },
+  "environments": [
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:38:26Z",
+      "role": "primary",
+      "sha256": "34f4ad5c9e7160b5be5aa8ae77e6e9f83a277aada41a272b82a2628d21159a8c",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/api/datasets/ServiceNow/ui-vision"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:37Z",
+      "role": "primary",
+      "sha256": "295cf7f7500a18cea5c80eab1cdf4d7264f2f0e959b75efc5ba59083d93c9097",
+      "supports": [
+        "details.dataset_profile"
+      ],
+      "url": "https://huggingface.co/datasets/ServiceNow/ui-vision/raw/main/README.md"
+    },
+    {
+      "method": "huggingface_api",
+      "retrieved_at": "2026-10-16T06:38:26Z",
+      "role": "primary",
+      "sha256": "34f4ad5c9e7160b5be5aa8ae77e6e9f83a277aada41a272b82a2628d21159a8c",
+      "supports": [
+        "details",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/api/datasets/ServiceNow/ui-vision"
+    }
+  ],
+  "id": "url:2c2004baae4669f8169a",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-16T06:38:26Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "publisher model/dataset card",
+      "declared": "mit",
+      "retrieved_at": "2026-10-16T06:38:26Z",
+      "url": "https://huggingface.co/datasets/ServiceNow/ui-vision"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/ServiceNow/ui-vision"
+    }
+  ],
+  "name": "UI-Vision",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/api/datasets/ServiceNow/ui-vision",
+      "target_id": "arxiv:2503.15661",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Desktop GUI data for interface understanding and interaction research.",
+  "topics": [
+    "grounding",
+    "screen-understanding"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/ServiceNow/ui-vision"
+}

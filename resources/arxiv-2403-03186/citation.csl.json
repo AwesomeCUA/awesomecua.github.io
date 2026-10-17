@@ -1,0 +1,127 @@
+{
+  "id": "arxiv:2403.03186",
+  "citation-key": "arxiv_2403_03186",
+  "type": "article",
+  "title": "Cradle: Empowering Foundation Agents Towards General Computer Control",
+  "URL": "https://arxiv.org/abs/2403.03186v3",
+  "custom": {
+    "catalog_id": "arxiv:2403.03186",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2403.03186",
+    "identifiers": {
+      "arxiv": "2403.03186"
+    },
+    "first_published_at": "2024-03-05",
+    "record_updated_at": "2024-07-02",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "63c68c596f1c81485e77f98beae696deca9785a5d8725ab4456ee35870e64a99",
+      "submitted_at": "2024-03-05T18:22:29Z",
+      "updated_at": "2024-07-02T17:23:13Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2403.03186v3"
+    }
+  },
+  "note": "First published: 2024-03-05; Recorded arXiv version: v3; Recorded version updated: 2024-07-02T17:23:13Z.",
+  "author": [
+    {
+      "literal": "Weihao Tan"
+    },
+    {
+      "literal": "Wentao Zhang"
+    },
+    {
+      "literal": "Xinrun Xu"
+    },
+    {
+      "literal": "Haochong Xia"
+    },
+    {
+      "literal": "Ziluo Ding"
+    },
+    {
+      "literal": "Boyu Li"
+    },
+    {
+      "literal": "Bohan Zhou"
+    },
+    {
+      "literal": "Junpeng Yue"
+    },
+    {
+      "literal": "Jiechuan Jiang"
+    },
+    {
+      "literal": "Yewen Li"
+    },
+    {
+      "literal": "Ruyi An"
+    },
+    {
+      "literal": "Molei Qin"
+    },
+    {
+      "literal": "Chuqiao Zong"
+    },
+    {
+      "literal": "Longtao Zheng"
+    },
+    {
+      "literal": "Yujie Wu"
+    },
+    {
+      "literal": "Xiaoqiang Chai"
+    },
+    {
+      "literal": "Yifei Bi"
+    },
+    {
+      "literal": "Tianbao Xie"
+    },
+    {
+      "literal": "Pengjie Gu"
+    },
+    {
+      "literal": "Xiyun Li"
+    },
+    {
+      "literal": "Ceyao Zhang"
+    },
+    {
+      "literal": "Long Tian"
+    },
+    {
+      "literal": "Chaojie Wang"
+    },
+    {
+      "literal": "Xinrun Wang"
+    },
+    {
+      "literal": "Börje F. Karlsson"
+    },
+    {
+      "literal": "Bo An"
+    },
+    {
+      "literal": "Shuicheng Yan"
+    },
+    {
+      "literal": "Zongqing Lu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.03186",
+  "genre": "preprint",
+  "version": "3"
+}

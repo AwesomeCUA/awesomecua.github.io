@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2202.08137",
+  "citation-key": "arxiv_2202_08137",
+  "type": "article",
+  "title": "A data-driven approach for learning to control computers",
+  "URL": "https://arxiv.org/abs/2202.08137v2",
+  "custom": {
+    "catalog_id": "arxiv:2202.08137",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2202.08137",
+    "identifiers": {
+      "arxiv": "2202.08137"
+    },
+    "first_published_at": "2022-02-16",
+    "record_updated_at": "2022-11-11",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "94129847ac85f4a8aeab74907cc68a31c435b078ab950695d9328b6c3896b46d",
+      "submitted_at": "2022-02-16T15:23:46Z",
+      "updated_at": "2022-11-11T13:45:44Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2202.08137v2"
+    }
+  },
+  "note": "First published: 2022-02-16; Recorded arXiv version: v2; Recorded version updated: 2022-11-11T13:45:44Z.",
+  "author": [
+    {
+      "literal": "Peter C Humphreys"
+    },
+    {
+      "literal": "David Raposo"
+    },
+    {
+      "literal": "Toby Pohlen"
+    },
+    {
+      "literal": "Gregory Thornton"
+    },
+    {
+      "literal": "Rachita Chhaparia"
+    },
+    {
+      "literal": "Alistair Muldal"
+    },
+    {
+      "literal": "Josh Abramson"
+    },
+    {
+      "literal": "Petko Georgiev"
+    },
+    {
+      "literal": "Alex Goldin"
+    },
+    {
+      "literal": "Adam Santoro"
+    },
+    {
+      "literal": "Timothy Lillicrap"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        2,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2202.08137",
+  "genre": "preprint",
+  "version": "2"
+}

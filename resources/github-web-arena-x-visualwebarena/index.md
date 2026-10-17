@@ -16,6 +16,8 @@ Visually grounded web tasks extending the WebArena evaluation setting.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-web-arena-x-visualwebarena/record.json
+
 ## Structured profile
 
 - actions: browser element actions

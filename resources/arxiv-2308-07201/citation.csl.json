@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2308.07201",
+  "citation-key": "arxiv_2308_07201",
+  "type": "article",
+  "title": "ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate",
+  "URL": "https://arxiv.org/abs/2308.07201v1",
+  "custom": {
+    "catalog_id": "arxiv:2308.07201",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2308.07201",
+    "identifiers": {
+      "arxiv": "2308.07201"
+    },
+    "first_published_at": "2023-08-14",
+    "record_updated_at": "2023-08-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e284a82cda689e925fae293d2daf7f8faf14d7f3fa989b3478129ea3df7259ab",
+      "submitted_at": "2023-08-14T15:13:04Z",
+      "updated_at": "2023-08-14T15:13:04Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2308.07201v1"
+    }
+  },
+  "note": "First published: 2023-08-14; Recorded arXiv version: v1; Recorded version updated: 2023-08-14T15:13:04Z.",
+  "author": [
+    {
+      "literal": "Chi-Min Chan"
+    },
+    {
+      "literal": "Weize Chen"
+    },
+    {
+      "literal": "Yusheng Su"
+    },
+    {
+      "literal": "Jianxuan Yu"
+    },
+    {
+      "literal": "Wei Xue"
+    },
+    {
+      "literal": "Shanghang Zhang"
+    },
+    {
+      "literal": "Jie Fu"
+    },
+    {
+      "literal": "Zhiyuan Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        8,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2308.07201",
+  "genre": "preprint",
+  "version": "1"
+}

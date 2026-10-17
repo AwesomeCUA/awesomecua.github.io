@@ -16,9 +16,16 @@ WebRollback gives a web agent an explicit action for returning to an earlier sta
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-11788/record.json
+
 ## Authors
 
 Zhisong Zhang, Tianqing Fang, Kaixin Ma, Wenhao Yu, Hongming Zhang, Haitao Mi, Dong Yu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-11788/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-11788/citation.csl.json
 
 ## Recorded arXiv snapshot
 

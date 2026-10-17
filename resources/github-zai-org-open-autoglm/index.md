@@ -16,6 +16,8 @@ Phone agent model and framework with device interaction tooling.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-zai-org-open-autoglm/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/zai-org/Open-AutoGLM/HEAD/LICENSE

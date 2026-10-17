@@ -1,0 +1,96 @@
+{
+  "aliases": [],
+  "authors": [
+    "Shuai Wang",
+    "Weiwen Liu",
+    "Jingxuan Chen",
+    "Yuqi Zhou",
+    "Weinan Gan",
+    "Xingshan Zeng",
+    "Yuhan Che",
+    "Shuai Yu",
+    "Xinlong Hao",
+    "Kun Shao",
+    "Bin Wang",
+    "Chuhan Wu",
+    "Yasheng Wang",
+    "Ruiming Tang",
+    "Jianye Hao"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "57670445f9b0041bfb505a195d01a9ded6234e01e44c9aa43a6aee5ebd57dd93",
+      "submitted_at": "2024-11-07T17:28:10Z",
+      "updated_at": "2025-02-13T10:09:37Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2411.04890v2"
+    }
+  },
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:58Z",
+      "role": "primary",
+      "sha256": "c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:58Z",
+      "role": "primary",
+      "sha256": "c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2411.04890",
+  "identifiers": {
+    "arxiv": "2411.04890"
+  },
+  "kind": "survey",
+  "last_verified_at": "2026-10-16T06:36:58Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2411.04890"
+    }
+  ],
+  "name": "GUI Agents with Foundation Models: A Comprehensive Survey",
+  "notes": "",
+  "published_at": "2024-11-07",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Survey of research directions in GUI or computer-use agents.",
+  "topics": [
+    "survey"
+  ],
+  "updated_at": "2025-02-13",
+  "url": "https://arxiv.org/abs/2411.04890"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2609.35904",
+  "citation-key": "arxiv_2609_35904",
+  "type": "article",
+  "title": "Structured Interaction, Visual Localization, and Robust Execution for Complex Web Tasks: A Technical Report on the WebRetriever Challenge",
+  "URL": "https://arxiv.org/abs/2609.35904v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.35904",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.35904",
+    "identifiers": {
+      "arxiv": "2609.35904"
+    },
+    "first_published_at": "2026-09-28",
+    "record_updated_at": "2026-09-28",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7efd2eafa1984d7c8f4bf6ce79a94cd2ca4189da330bdd056b4be9c07f7f9dc1",
+      "submitted_at": "2026-09-28T04:02:07Z",
+      "updated_at": "2026-09-28T04:02:07Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.35904v1"
+    }
+  },
+  "note": "First published: 2026-09-28; Recorded arXiv version: v1; Recorded version updated: 2026-09-28T04:02:07Z.",
+  "author": [
+    {
+      "literal": "Ziqi Zhang"
+    },
+    {
+      "literal": "Shaohui Li"
+    },
+    {
+      "literal": "Bing Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.35904",
+  "genre": "preprint",
+  "version": "1"
+}

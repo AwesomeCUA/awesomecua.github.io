@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2402.07945",
+  "citation-key": "arxiv_2402_07945",
+  "type": "article",
+  "title": "ScreenAgent: A Vision Language Model-driven Computer Control Agent",
+  "URL": "https://arxiv.org/abs/2402.07945v1",
+  "custom": {
+    "catalog_id": "arxiv:2402.07945",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2402.07945",
+    "identifiers": {
+      "arxiv": "2402.07945"
+    },
+    "first_published_at": "2024-02-09",
+    "record_updated_at": "2024-02-09",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "63424a86302625b15a91ff0252ca16c0a6448160bfd748ba32e386c82883584e",
+      "submitted_at": "2024-02-09T02:33:45Z",
+      "updated_at": "2024-02-09T02:33:45Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2402.07945v1"
+    }
+  },
+  "note": "First published: 2024-02-09; Recorded arXiv version: v1; Recorded version updated: 2024-02-09T02:33:45Z.",
+  "author": [
+    {
+      "literal": "Runliang Niu"
+    },
+    {
+      "literal": "Jindong Li"
+    },
+    {
+      "literal": "Shiqi Wang"
+    },
+    {
+      "literal": "Yali Fu"
+    },
+    {
+      "literal": "Xiyu Hu"
+    },
+    {
+      "literal": "Xueyuan Leng"
+    },
+    {
+      "literal": "He Kong"
+    },
+    {
+      "literal": "Yi Chang"
+    },
+    {
+      "literal": "Qi Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.07945",
+  "genre": "preprint",
+  "version": "1"
+}

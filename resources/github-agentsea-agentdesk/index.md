@@ -16,6 +16,8 @@ Virtual desktop provisioning and control tools for agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-agentsea-agentdesk/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/agentsea/agentdesk/HEAD/LICENSE

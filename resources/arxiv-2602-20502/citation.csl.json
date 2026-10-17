@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2602.20502",
+  "citation-key": "arxiv_2602_20502",
+  "type": "article",
+  "title": "ActionEngine: From Reactive to Programmatic Web Agents via State Machine Memory",
+  "URL": "https://arxiv.org/abs/2602.20502v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.20502",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.20502",
+    "identifiers": {
+      "arxiv": "2602.20502"
+    },
+    "first_published_at": "2026-02-24",
+    "record_updated_at": "2026-09-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e179c833d43a88098d576e31e726eb3e4289f728659697364d0b448282df3fc1",
+      "submitted_at": "2026-02-24T03:03:18Z",
+      "updated_at": "2026-09-28T17:40:20Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.20502v2"
+    }
+  },
+  "note": "First published: 2026-02-24; Recorded arXiv version: v2; Recorded version updated: 2026-09-28T17:40:20Z.",
+  "author": [
+    {
+      "literal": "Hongbin Zhong"
+    },
+    {
+      "literal": "Fazle Faisal"
+    },
+    {
+      "literal": "Luis França"
+    },
+    {
+      "literal": "Tanakorn Leesatapornwongsa"
+    },
+    {
+      "literal": "Adriana Szekeres"
+    },
+    {
+      "literal": "Kexin Rong"
+    },
+    {
+      "literal": "Suman Nath"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.20502",
+  "genre": "preprint",
+  "version": "2"
+}

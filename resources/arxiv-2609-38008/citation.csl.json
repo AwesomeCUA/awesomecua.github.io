@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2609.38008",
+  "citation-key": "arxiv_2609_38008",
+  "type": "article",
+  "title": "HybridCUA: Learning to Orchestrate GUI and CLI for Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2609.38008v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.38008",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.38008",
+    "identifiers": {
+      "arxiv": "2609.38008"
+    },
+    "first_published_at": "2026-09-29",
+    "record_updated_at": "2026-09-29",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b394677ebe37782950cfc56c0be65ca7a93f34e5550ec9425d91921bf1799847",
+      "submitted_at": "2026-09-29T16:57:25Z",
+      "updated_at": "2026-09-29T16:57:25Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.38008v1"
+    }
+  },
+  "note": "First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T16:57:25Z.",
+  "author": [
+    {
+      "literal": "Tongbo Chen"
+    },
+    {
+      "literal": "Junbo Niu"
+    },
+    {
+      "literal": "Zhengxi Lu"
+    },
+    {
+      "literal": "Niu Lian"
+    },
+    {
+      "literal": "Fei Tang"
+    },
+    {
+      "literal": "Yuchen Yan"
+    },
+    {
+      "literal": "Yike Hong"
+    },
+    {
+      "literal": "Yong Du"
+    },
+    {
+      "literal": "Yizhou Liu"
+    },
+    {
+      "literal": "Bofan Chen"
+    },
+    {
+      "literal": "Yongliang Shen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.38008",
+  "genre": "preprint",
+  "version": "1"
+}

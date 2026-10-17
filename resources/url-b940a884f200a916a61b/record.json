@@ -1,0 +1,65 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "access": "publisher-managed",
+    "availability": "not independently tested",
+    "pricing_url": null
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:38:28Z",
+      "role": "primary",
+      "sha256": "5eacfa15c116ddeb02f6fd731fbb2e9856a933d743870fe41d947ef3b01aeb6f",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://steel.dev/"
+    }
+  ],
+  "id": "url:b940a884f200a916a61b",
+  "identifiers": {},
+  "kind": "product",
+  "last_verified_at": "2026-10-16T06:38:28Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://steel.dev/"
+    }
+  ],
+  "name": "Steel Cloud",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://steel.dev/",
+      "target_id": "organization:steel",
+      "type": "published_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Managed browser infrastructure associated with Steel Browser.",
+  "topics": [
+    "sandbox"
+  ],
+  "updated_at": null,
+  "url": "https://steel.dev/"
+}

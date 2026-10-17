@@ -16,9 +16,16 @@ Bibliographic record for The Capacity of Low Earth Orbit Computed using Source-s
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2206-05345/record.json
+
 ## Authors
 
 Andrea D'Ambrosio, Miles Lifson, Richard Linares
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2206-05345/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2206-05345/citation.csl.json
 
 ## Recorded arXiv snapshot
 

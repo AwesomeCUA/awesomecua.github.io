@@ -1,0 +1,70 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:40:53Z",
+      "role": "primary",
+      "sha256": "8cd83b12f4e1c1b22c27b6ae3ee5415564e61ff4072349ec512982a548ea6ec3",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/web-infra-dev/midscene/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:06Z",
+      "role": "primary",
+      "sha256": "9d26ef3ec511840e10eeaaf1e1b211e196c838823baf6bf9033761f27ab349ce",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/web-infra-dev/midscene/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:web-infra-dev/midscene",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-16T06:40:53Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-16T06:42:06Z",
+      "url": "https://raw.githubusercontent.com/web-infra-dev/midscene/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/web-infra-dev/midscene"
+    }
+  ],
+  "name": "Midscene.js",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Visual automation toolkit for web, mobile, and desktop interfaces.",
+  "topics": [
+    "automation",
+    "grounding"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/web-infra-dev/midscene"
+}

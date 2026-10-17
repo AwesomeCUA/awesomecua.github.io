@@ -16,9 +16,16 @@ Introduces a mobile-agent benchmark with tasks across open-source applications, 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-08184/record.json
+
 ## Authors
 
 Luyuan Wang, Yongyu Deng, Yiwei Zha, Guodong Mao, Qinmin Wang, Tianchen Min, Wei Chen, Shoufa Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-08184/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-08184/citation.csl.json
 
 ## Recorded arXiv snapshot
 

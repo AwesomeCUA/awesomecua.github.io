@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2601.17722",
+  "citation-key": "arxiv_2601_17722",
+  "type": "article",
+  "title": "EntWorld: A Holistic Environment and Benchmark for Verifiable Enterprise GUI Agents",
+  "URL": "https://arxiv.org/abs/2601.17722v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.17722",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2601.17722",
+    "identifiers": {
+      "arxiv": "2601.17722"
+    },
+    "first_published_at": "2026-01-25",
+    "record_updated_at": "2026-01-25",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fa7c8ce1b0e584c5279691ff06cd522d7c8ea1f4801d7074324c6845ce482efb",
+      "submitted_at": "2026-01-25T06:58:15Z",
+      "updated_at": "2026-01-25T06:58:15Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.17722v1"
+    }
+  },
+  "note": "First published: 2026-01-25; Recorded arXiv version: v1; Recorded version updated: 2026-01-25T06:58:15Z.",
+  "author": [
+    {
+      "literal": "Ying Mo"
+    },
+    {
+      "literal": "Yu Bai"
+    },
+    {
+      "literal": "Dapeng Sun"
+    },
+    {
+      "literal": "Yuqian Shi"
+    },
+    {
+      "literal": "Yukai Miao"
+    },
+    {
+      "literal": "Li Chen"
+    },
+    {
+      "literal": "Dan Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.17722",
+  "genre": "preprint",
+  "version": "1"
+}

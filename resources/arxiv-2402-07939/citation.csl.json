@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2402.07939",
+  "citation-key": "arxiv_2402_07939",
+  "type": "article",
+  "title": "UFO: A UI-Focused Agent for Windows OS Interaction",
+  "URL": "https://arxiv.org/abs/2402.07939v5",
+  "custom": {
+    "catalog_id": "arxiv:2402.07939",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2402.07939",
+    "identifiers": {
+      "arxiv": "2402.07939"
+    },
+    "first_published_at": "2024-02-08",
+    "record_updated_at": "2024-05-23",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "533acb1c9aa3f1c77adb2c67779da86e3d5de95264ba3ec1f81d803f67da7753",
+      "submitted_at": "2024-02-08T15:40:35Z",
+      "updated_at": "2024-05-23T05:18:58Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2402.07939v5"
+    }
+  },
+  "note": "First published: 2024-02-08; Recorded arXiv version: v5; Recorded version updated: 2024-05-23T05:18:58Z.",
+  "author": [
+    {
+      "literal": "Chaoyun Zhang"
+    },
+    {
+      "literal": "Liqun Li"
+    },
+    {
+      "literal": "Shilin He"
+    },
+    {
+      "literal": "Xu Zhang"
+    },
+    {
+      "literal": "Bo Qiao"
+    },
+    {
+      "literal": "Si Qin"
+    },
+    {
+      "literal": "Minghua Ma"
+    },
+    {
+      "literal": "Yu Kang"
+    },
+    {
+      "literal": "Qingwei Lin"
+    },
+    {
+      "literal": "Saravan Rajmohan"
+    },
+    {
+      "literal": "Dongmei Zhang"
+    },
+    {
+      "literal": "Qi Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.07939",
+  "genre": "preprint",
+  "version": "5"
+}

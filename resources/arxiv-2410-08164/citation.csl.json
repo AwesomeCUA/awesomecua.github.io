@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2410.08164",
+  "citation-key": "arxiv_2410_08164",
+  "type": "article",
+  "title": "Agent S: An Open Agentic Framework that Uses Computers Like a Human",
+  "URL": "https://arxiv.org/abs/2410.08164v1",
+  "custom": {
+    "catalog_id": "arxiv:2410.08164",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.08164",
+    "identifiers": {
+      "arxiv": "2410.08164"
+    },
+    "first_published_at": "2024-10-10",
+    "record_updated_at": "2024-10-10",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "284888d16b049767f76448f23f5d35fda25b109fd67f450105950173ae81c97b",
+      "submitted_at": "2024-10-10T17:43:51Z",
+      "updated_at": "2024-10-10T17:43:51Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2410.08164v1"
+    }
+  },
+  "note": "First published: 2024-10-10; Recorded arXiv version: v1; Recorded version updated: 2024-10-10T17:43:51Z.",
+  "author": [
+    {
+      "literal": "Saaket Agashe"
+    },
+    {
+      "literal": "Jiuzhou Han"
+    },
+    {
+      "literal": "Shuyu Gan"
+    },
+    {
+      "literal": "Jiachen Yang"
+    },
+    {
+      "literal": "Ang Li"
+    },
+    {
+      "literal": "Xin Eric Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.08164",
+  "genre": "preprint",
+  "version": "1"
+}

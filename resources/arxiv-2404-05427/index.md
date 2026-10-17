@@ -16,9 +16,16 @@ Bibliographic record for AutoCodeRover: Autonomous Program Improvement. Title, a
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-05427/record.json
+
 ## Authors
 
 Yuntong Zhang, Haifeng Ruan, Zhiyu Fan, Abhik Roychoudhury
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-05427/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-05427/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Introduces OSWorld-G grounding evaluation and the Jedi synthesis pipeline for ex
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-13227/record.json
+
 ## Authors
 
 Tianbao Xie, Jiaqi Deng, Xiaochuan Li, Junlin Yang, Haoyuan Wu, Jixuan Chen, Wenjing Hu, Xinyuan Wang, Yuhui Xu, Zekun Wang, Yiheng Xu, Junli Wang, Doyen Sahoo, Tao Yu, Caiming Xiong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-13227/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-13227/citation.csl.json
 
 ## Recorded arXiv snapshot
 

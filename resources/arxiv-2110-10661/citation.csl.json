@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2110.10661",
+  "citation-key": "arxiv_2110_10661",
+  "type": "article",
+  "title": "SILG: The Multi-environment Symbolic Interactive Language Grounding Benchmark",
+  "URL": "https://arxiv.org/abs/2110.10661v2",
+  "custom": {
+    "catalog_id": "arxiv:2110.10661",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2110.10661",
+    "identifiers": {
+      "arxiv": "2110.10661"
+    },
+    "first_published_at": "2021-10-20",
+    "record_updated_at": "2022-01-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5799d04536a7520114ff02a62614656ebea39d8646dd0367925b5ae72a96b10d",
+      "submitted_at": "2021-10-20T17:02:06Z",
+      "updated_at": "2022-01-24T19:16:12Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2110.10661v2"
+    }
+  },
+  "note": "First published: 2021-10-20; Recorded arXiv version: v2; Recorded version updated: 2022-01-24T19:16:12Z.",
+  "author": [
+    {
+      "literal": "Victor Zhong"
+    },
+    {
+      "literal": "Austin W. Hanjie"
+    },
+    {
+      "literal": "Sida I. Wang"
+    },
+    {
+      "literal": "Karthik Narasimhan"
+    },
+    {
+      "literal": "Luke Zettlemoyer"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        10,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2110.10661",
+  "genre": "preprint",
+  "version": "2"
+}

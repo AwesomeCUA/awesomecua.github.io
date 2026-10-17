@@ -16,9 +16,16 @@ Bibliographic record for From Words to Structured Visuals: A Benchmark and Frame
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-11916/record.json
+
 ## Authors
 
 Jingxuan Wei, Cheng Tan, Qi Chen, Gaowei Wu, Siyuan Li, Zhangyang Gao, Linzhuang Sun, Bihui Yu, Ruifeng Guo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-11916/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-11916/citation.csl.json
 
 ## Recorded arXiv snapshot
 

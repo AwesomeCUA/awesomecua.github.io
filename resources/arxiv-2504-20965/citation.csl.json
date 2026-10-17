@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2504.20965",
+  "citation-key": "arxiv_2504_20965",
+  "type": "article",
+  "title": "AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security",
+  "URL": "https://arxiv.org/abs/2504.20965v2",
+  "custom": {
+    "catalog_id": "arxiv:2504.20965",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2504.20965",
+    "identifiers": {
+      "arxiv": "2504.20965"
+    },
+    "first_published_at": "2025-04-29",
+    "record_updated_at": "2025-06-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "dd8cdbba7db9431e44603bc2050eb6e502dea4ac3b166812e11550fadd96abc4",
+      "submitted_at": "2025-04-29T17:36:05Z",
+      "updated_at": "2025-06-13T22:43:06Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2504.20965v2"
+    }
+  },
+  "note": "First published: 2025-04-29; Recorded arXiv version: v2; Recorded version updated: 2025-06-13T22:43:06Z.",
+  "author": [
+    {
+      "literal": "Zikui Cai"
+    },
+    {
+      "literal": "Shayan Shabihi"
+    },
+    {
+      "literal": "Bang An"
+    },
+    {
+      "literal": "Zora Che"
+    },
+    {
+      "literal": "Brian R. Bartoldson"
+    },
+    {
+      "literal": "Bhavya Kailkhura"
+    },
+    {
+      "literal": "Tom Goldstein"
+    },
+    {
+      "literal": "Furong Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.20965",
+  "genre": "preprint",
+  "version": "2"
+}

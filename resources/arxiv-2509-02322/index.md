@@ -16,9 +16,16 @@ Bibliographic record for OmniActor: A Generalist GUI and Embodied Agent for 2D&3
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-02322/record.json
+
 ## Authors
 
 Longrong Yang, Zhixiong Zeng, Yufeng Zhong, Jing Huang, Liming Zheng, Lei Chen, Haibo Qiu, Zequn Qin, Lin Ma, Xi Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-02322/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-02322/citation.csl.json
 
 ## Recorded arXiv snapshot
 

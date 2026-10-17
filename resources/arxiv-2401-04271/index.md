@@ -16,9 +16,16 @@ Bibliographic record for Fault-tolerant quantum computation using large spin cat
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2401-04271/record.json
+
 ## Authors
 
 Sivaprasad Omanakuttan, Vikas Buchemmavari, Jonathan A. Gross, Ivan H Deutsch, Milad Marvian
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2401-04271/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-04271/citation.csl.json
 
 ## Recorded arXiv snapshot
 

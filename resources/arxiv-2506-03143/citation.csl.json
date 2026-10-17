@@ -1,0 +1,97 @@
+{
+  "id": "arxiv:2506.03143",
+  "citation-key": "arxiv_2506_03143",
+  "type": "article",
+  "title": "GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents",
+  "URL": "https://arxiv.org/abs/2506.03143v1",
+  "custom": {
+    "catalog_id": "arxiv:2506.03143",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2506.03143",
+    "identifiers": {
+      "arxiv": "2506.03143"
+    },
+    "first_published_at": "2025-06-03",
+    "record_updated_at": "2025-06-03",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "87b27d6caaaa3802629fdbf1e7bbe5557ed567f840cee88e45ba7e1fe12c548d",
+      "submitted_at": "2025-06-03T17:59:08Z",
+      "updated_at": "2025-06-03T17:59:08Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2506.03143v1"
+    }
+  },
+  "note": "First published: 2025-06-03; Recorded arXiv version: v1; Recorded version updated: 2025-06-03T17:59:08Z.",
+  "author": [
+    {
+      "literal": "Qianhui Wu"
+    },
+    {
+      "literal": "Kanzhi Cheng"
+    },
+    {
+      "literal": "Rui Yang"
+    },
+    {
+      "literal": "Chaoyun Zhang"
+    },
+    {
+      "literal": "Jianwei Yang"
+    },
+    {
+      "literal": "Huiqiang Jiang"
+    },
+    {
+      "literal": "Jian Mu"
+    },
+    {
+      "literal": "Baolin Peng"
+    },
+    {
+      "literal": "Bo Qiao"
+    },
+    {
+      "literal": "Reuben Tan"
+    },
+    {
+      "literal": "Si Qin"
+    },
+    {
+      "literal": "Lars Liden"
+    },
+    {
+      "literal": "Qingwei Lin"
+    },
+    {
+      "literal": "Huan Zhang"
+    },
+    {
+      "literal": "Tong Zhang"
+    },
+    {
+      "literal": "Jianbing Zhang"
+    },
+    {
+      "literal": "Dongmei Zhang"
+    },
+    {
+      "literal": "Jianfeng Gao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.03143",
+  "genre": "preprint",
+  "version": "1"
+}

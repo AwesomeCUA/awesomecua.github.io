@@ -16,9 +16,16 @@ Bibliographic record for CoSTA$\ast$: Cost-Sensitive Toolpath Agent for Multi-tu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-10613/record.json
+
 ## Authors
 
 Advait Gupta, NandaKiran Velaga, Dang Nguyen, Tianyi Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-10613/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-10613/citation.csl.json
 
 ## Recorded arXiv snapshot
 

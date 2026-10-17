@@ -16,9 +16,16 @@ CoAct-1 delegates subtasks between a GUI operator and a programmer that executes
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-03923/record.json
+
 ## Authors
 
 Linxin Song, Yutong Dai, Viraj Prabhu, Jieyu Zhang, Taiwei Shi, Li Li, Junnan Li, Silvio Savarese, Zeyuan Chen, Jieyu Zhao, Ran Xu, Caiming Xiong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-03923/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-03923/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Memento No More: Coaching AI Agents to Master Multiple 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-01562/record.json
+
 ## Authors
 
 Minttu Alakuijala, Ya Gao, Georgy Ananov, Samuel Kaski, Pekka Marttinen, Alexander Ilin, Harri Valpola
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-01562/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-01562/citation.csl.json
 
 ## Recorded arXiv snapshot
 

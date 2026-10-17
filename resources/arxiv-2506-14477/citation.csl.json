@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2506.14477",
+  "citation-key": "arxiv_2506_14477",
+  "type": "article",
+  "title": "GUI-Robust: A Comprehensive Dataset for Testing GUI Agent Robustness in Real-World Anomalies",
+  "URL": "https://arxiv.org/abs/2506.14477v1",
+  "custom": {
+    "catalog_id": "arxiv:2506.14477",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2506.14477",
+    "identifiers": {
+      "arxiv": "2506.14477"
+    },
+    "first_published_at": "2025-06-17",
+    "record_updated_at": "2025-06-17",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f9e64118f03c2a9f3f55e35f79c38835f1eb823265c83c933fdceca2610b9904",
+      "submitted_at": "2025-06-17T12:50:35Z",
+      "updated_at": "2025-06-17T12:50:35Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2506.14477v1"
+    }
+  },
+  "note": "First published: 2025-06-17; Recorded arXiv version: v1; Recorded version updated: 2025-06-17T12:50:35Z.",
+  "author": [
+    {
+      "literal": "Jingqi Yang"
+    },
+    {
+      "literal": "Zhilong Song"
+    },
+    {
+      "literal": "Jiawei Chen"
+    },
+    {
+      "literal": "Mingli Song"
+    },
+    {
+      "literal": "Sheng Zhou"
+    },
+    {
+      "literal": "linjun sun"
+    },
+    {
+      "literal": "Xiaogang Ouyang"
+    },
+    {
+      "literal": "Chun Chen"
+    },
+    {
+      "literal": "Can Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.14477",
+  "genre": "preprint",
+  "version": "1"
+}

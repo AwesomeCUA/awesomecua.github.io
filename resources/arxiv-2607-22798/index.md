@@ -16,9 +16,16 @@ Introduces StateAct, a code-first computer-use harness that manipulates program 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-22798/record.json
+
 ## Authors
 
 Yan Yang, Xiangru Jian, Ziyang Luo, Zirui Zhao, Yutong Dai, Ziji Shi, Hanshu Yan, Jun Hao Liew, Silvio Savarese, Junnan Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-22798/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-22798/citation.csl.json
 
 ## Recorded arXiv snapshot
 

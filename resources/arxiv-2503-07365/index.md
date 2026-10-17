@@ -16,9 +16,16 @@ Bibliographic record for MM-Eureka: Exploring the Frontiers of Multimodal Reason
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-07365/record.json
+
 ## Authors
 
 Fanqing Meng, Lingxiao Du, Zongkai Liu, Zhixiang Zhou, Quanfeng Lu, Daocheng Fu, Tiancheng Han, Botian Shi, Wenhai Wang, Junjun He, Kaipeng Zhang, Ping Luo, Yu Qiao, Qiaosheng Zhang, Wenqi Shao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-07365/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-07365/citation.csl.json
 
 ## Recorded arXiv snapshot
 

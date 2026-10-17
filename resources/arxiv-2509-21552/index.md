@@ -16,9 +16,16 @@ Bibliographic record for Learning GUI Grounding with Spatial Reasoning from Visu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-21552/record.json
+
 ## Authors
 
 Yu Zhao, Wei-Ning Chen, Huseyin Atahan Inan, Samuel Kessler, Lu Wang, Lukas Wutschitz, Fangkai Yang, Chaoyun Zhang, Pasquale Minervini, Saravan Rajmohan, Robert Sim
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-21552/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-21552/citation.csl.json
 
 ## Recorded arXiv snapshot
 

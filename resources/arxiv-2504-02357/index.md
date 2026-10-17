@@ -16,9 +16,16 @@ ReuseDroid migrates Android GUI tests between functionally similar apps using VL
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced. The platform or GUI evaluation setting was additionally checked in the primary full text.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-02357/record.json
+
 ## Authors
 
 Xiaolei Li, Jialun Cao, Yepang Liu, Shing-Chi Cheung, Hailong Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-02357/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-02357/citation.csl.json
 
 ## Recorded arXiv snapshot
 

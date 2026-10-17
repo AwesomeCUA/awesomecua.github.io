@@ -16,9 +16,16 @@ Bibliographic record for Learning to Adapt: Self-Improving Web Agent via Cogniti
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-31365/record.json
+
 ## Authors
 
 Weile Chen, Bingchen Miao, Qifan Yu, Wendong Bu, Guoming Wang, Wenqiao Zhang, Shengyu Zhang, Juncheng Li, Siliang Tang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-31365/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-31365/citation.csl.json
 
 ## Recorded arXiv snapshot
 

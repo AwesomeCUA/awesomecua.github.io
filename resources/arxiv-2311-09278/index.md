@@ -16,9 +16,16 @@ Bibliographic record for Symbol-LLM: Towards Foundational Symbol-centric Interfa
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-09278/record.json
+
 ## Authors
 
 Fangzhi Xu, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Yu Qiao, Jun Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-09278/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-09278/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for UI-Evol: Automatic Knowledge Evolving for Computer Use 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-21964/record.json
+
 ## Authors
 
 Ziyun Zhang, Xinyi Liu, Xiaoyi Zhang, Jun Wang, Gang Chen, Yan Lu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-21964/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-21964/citation.csl.json
 
 ## Recorded arXiv snapshot
 

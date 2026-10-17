@@ -16,9 +16,16 @@ Bibliographic record for SPECTRA: On-Device Cognitive Perturbation and Trajector
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-35775/record.json
+
 ## Authors
 
 Zhan Qu, Hui Zang, Ran Chen, Tao Wang, Shengyu Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-35775/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-35775/citation.csl.json
 
 ## Recorded arXiv snapshot
 

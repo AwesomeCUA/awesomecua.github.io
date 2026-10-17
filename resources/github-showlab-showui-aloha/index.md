@@ -16,6 +16,8 @@ Desktop agent that records demonstrations, derives semantic action traces, and u
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-showlab-showui-aloha/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/showlab/ShowUI-Aloha/HEAD/LICENSE

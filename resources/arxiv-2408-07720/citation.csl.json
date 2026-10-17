@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2408.07720",
+  "citation-key": "arxiv_2408_07720",
+  "type": "article",
+  "title": "Re-Thinking Process Mining in the AI-Based Agents Era",
+  "URL": "https://arxiv.org/abs/2408.07720v1",
+  "custom": {
+    "catalog_id": "arxiv:2408.07720",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2408.07720",
+    "identifiers": {
+      "arxiv": "2408.07720"
+    },
+    "first_published_at": "2024-08-14",
+    "record_updated_at": "2024-08-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f7a4aa11affbaddcfca0a833244b8fc861632f5435af81d36ac3200db701acfe",
+      "submitted_at": "2024-08-14T10:14:18Z",
+      "updated_at": "2024-08-14T10:14:18Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2408.07720v1"
+    }
+  },
+  "note": "First published: 2024-08-14; Recorded arXiv version: v1; Recorded version updated: 2024-08-14T10:14:18Z.",
+  "author": [
+    {
+      "literal": "Alessandro Berti"
+    },
+    {
+      "literal": "Mayssa Maatallah"
+    },
+    {
+      "literal": "Urszula Jessen"
+    },
+    {
+      "literal": "Michal Sroka"
+    },
+    {
+      "literal": "Sonia Ayachi Ghannouchi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2408.07720",
+  "genre": "preprint",
+  "version": "1"
+}

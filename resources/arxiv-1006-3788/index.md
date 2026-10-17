@@ -16,9 +16,16 @@ Bibliographic record for Highly accurate and efficient self-force computations u
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1006-3788/record.json
+
 ## Authors
 
 Jonathan Thornburg
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1006-3788/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1006-3788/citation.csl.json
 
 ## Recorded arXiv snapshot
 

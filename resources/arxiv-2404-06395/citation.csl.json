@@ -1,0 +1,118 @@
+{
+  "id": "arxiv:2404.06395",
+  "citation-key": "arxiv_2404_06395",
+  "type": "article",
+  "title": "MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies",
+  "URL": "https://arxiv.org/abs/2404.06395v3",
+  "custom": {
+    "catalog_id": "arxiv:2404.06395",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2404.06395",
+    "identifiers": {
+      "arxiv": "2404.06395"
+    },
+    "first_published_at": "2024-04-09",
+    "record_updated_at": "2024-06-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bfd714e41bd7c6c53f1da1f7d9e04cd05abf6757934b8939928b630d6912fbd2",
+      "submitted_at": "2024-04-09T15:36:50Z",
+      "updated_at": "2024-06-03T08:54:38Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2404.06395v3"
+    }
+  },
+  "note": "First published: 2024-04-09; Recorded arXiv version: v3; Recorded version updated: 2024-06-03T08:54:38Z.",
+  "author": [
+    {
+      "literal": "Shengding Hu"
+    },
+    {
+      "literal": "Yuge Tu"
+    },
+    {
+      "literal": "Xu Han"
+    },
+    {
+      "literal": "Chaoqun He"
+    },
+    {
+      "literal": "Ganqu Cui"
+    },
+    {
+      "literal": "Xiang Long"
+    },
+    {
+      "literal": "Zhi Zheng"
+    },
+    {
+      "literal": "Yewei Fang"
+    },
+    {
+      "literal": "Yuxiang Huang"
+    },
+    {
+      "literal": "Weilin Zhao"
+    },
+    {
+      "literal": "Xinrong Zhang"
+    },
+    {
+      "literal": "Zheng Leng Thai"
+    },
+    {
+      "literal": "Kaihuo Zhang"
+    },
+    {
+      "literal": "Chongyi Wang"
+    },
+    {
+      "literal": "Yuan Yao"
+    },
+    {
+      "literal": "Chenyang Zhao"
+    },
+    {
+      "literal": "Jie Zhou"
+    },
+    {
+      "literal": "Jie Cai"
+    },
+    {
+      "literal": "Zhongwu Zhai"
+    },
+    {
+      "literal": "Ning Ding"
+    },
+    {
+      "literal": "Chao Jia"
+    },
+    {
+      "literal": "Guoyang Zeng"
+    },
+    {
+      "literal": "Dahai Li"
+    },
+    {
+      "literal": "Zhiyuan Liu"
+    },
+    {
+      "literal": "Maosong Sun"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.06395",
+  "genre": "preprint",
+  "version": "3"
+}

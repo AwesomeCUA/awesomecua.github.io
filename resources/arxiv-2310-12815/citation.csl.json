@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2310.12815",
+  "citation-key": "arxiv_2310_12815",
+  "type": "article",
+  "title": "Formalizing and Benchmarking Prompt Injection Attacks and Defenses",
+  "URL": "https://arxiv.org/abs/2310.12815v5",
+  "custom": {
+    "catalog_id": "arxiv:2310.12815",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2310.12815",
+    "identifiers": {
+      "arxiv": "2310.12815"
+    },
+    "first_published_at": "2023-10-19",
+    "record_updated_at": "2025-11-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "74fc38f55fc1c9709028c61d9a9cacbbbc8f9a2dbc7400032582b61885b5957c",
+      "submitted_at": "2023-10-19T15:12:09Z",
+      "updated_at": "2025-11-12T08:51:29Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2310.12815v5"
+    }
+  },
+  "note": "First published: 2023-10-19; Recorded arXiv version: v5; Recorded version updated: 2025-11-12T08:51:29Z.",
+  "author": [
+    {
+      "literal": "Yupei Liu"
+    },
+    {
+      "literal": "Yuqi Jia"
+    },
+    {
+      "literal": "Runpeng Geng"
+    },
+    {
+      "literal": "Jinyuan Jia"
+    },
+    {
+      "literal": "Neil Zhenqiang Gong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2310.12815",
+  "genre": "preprint",
+  "version": "5"
+}

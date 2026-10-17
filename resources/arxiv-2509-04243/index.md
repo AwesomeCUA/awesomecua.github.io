@@ -16,9 +16,16 @@ LASER builds preference data for multi-step GUI perception by combining Monte Ca
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-04243/record.json
+
 ## Authors
 
 Wanfu Wang, Qipeng Huang, Guangquan Xue, Xiaobo Liang, Juntao Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-04243/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-04243/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2103.07811",
+  "citation-key": "arxiv_2103_07811",
+  "type": "article",
+  "title": "Delay-aware and Energy-Efficient Computation Offloading in Mobile Edge Computing Using Deep Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2103.07811v1",
+  "custom": {
+    "catalog_id": "arxiv:2103.07811",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2103.07811",
+    "identifiers": {
+      "arxiv": "2103.07811"
+    },
+    "first_published_at": "2021-03-13",
+    "record_updated_at": "2021-03-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e85ab7fbeb46a1cc1a31da380858975a8b4581c1eabcfc823a3a2a970353d467",
+      "submitted_at": "2021-03-13T23:10:40Z",
+      "updated_at": "2021-03-13T23:10:40Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2103.07811v1"
+    }
+  },
+  "note": "First published: 2021-03-13; Recorded arXiv version: v1; Recorded version updated: 2021-03-13T23:10:40Z.",
+  "author": [
+    {
+      "literal": "Laha Ale"
+    },
+    {
+      "literal": "Ning Zhang"
+    },
+    {
+      "literal": "Xiaojie Fang"
+    },
+    {
+      "literal": "Xianfu Chen"
+    },
+    {
+      "literal": "Shaohua Wu"
+    },
+    {
+      "literal": "Longzhuang Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        3,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2103.07811",
+  "genre": "preprint",
+  "version": "1"
+}

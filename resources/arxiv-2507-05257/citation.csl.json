@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2507.05257",
+  "citation-key": "arxiv_2507_05257",
+  "type": "article",
+  "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+  "URL": "https://arxiv.org/abs/2507.05257v4",
+  "custom": {
+    "catalog_id": "arxiv:2507.05257",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2507.05257",
+    "identifiers": {
+      "arxiv": "2507.05257"
+    },
+    "first_published_at": "2025-07-07",
+    "record_updated_at": "2026-06-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0819dc2369db97e944f81981594f662b6b556bfaa79cd6b98be03a6807a4e90c",
+      "submitted_at": "2025-07-07T17:59:54Z",
+      "updated_at": "2026-06-28T17:25:01Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2507.05257v4"
+    }
+  },
+  "note": "First published: 2025-07-07; Recorded arXiv version: v4; Recorded version updated: 2026-06-28T17:25:01Z.",
+  "author": [
+    {
+      "literal": "Yuanzhe Hu"
+    },
+    {
+      "literal": "Yu Wang"
+    },
+    {
+      "literal": "Julian McAuley"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.05257",
+  "genre": "preprint",
+  "version": "4"
+}

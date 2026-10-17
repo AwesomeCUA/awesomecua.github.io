@@ -16,9 +16,16 @@ Bibliographic record for Transfer entropy computation using the Perron-Frobenius
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1811-01677/record.json
+
 ## Authors
 
 David Diego, Kristian Agasøster Haaga, Bjarte Hannisdal
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1811-01677/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1811-01677/citation.csl.json
 
 ## Recorded arXiv snapshot
 

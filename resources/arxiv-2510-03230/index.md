@@ -16,9 +16,16 @@ Bibliographic record for Improving GUI Grounding with Explicit Position-to-Coord
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-03230/record.json
+
 ## Authors
 
 Suyuchen Wang, Tianyu Zhang, Ahmed Masry, Christopher Pal, Spandana Gella, Bang Liu, Perouz Taslakian
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-03230/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-03230/citation.csl.json
 
 ## Recorded arXiv snapshot
 

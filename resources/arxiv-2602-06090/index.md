@@ -16,9 +16,16 @@ Bibliographic record for SVRepair: Structured Visual Reasoning for Automated Pro
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-06090/record.json
+
 ## Authors
 
 Jincheng Wang, Liwei Luo, Xiaoxuan Tang, Jingxuan Xu, Sheng Zhou, Dajun Chen, Wei Jiang, Yong Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-06090/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-06090/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Cross-Modal Content Optimization for Steering Web Agent
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-03612/record.json
+
 ## Authors
 
 Tanqiu Jiang, Min Bai, Nikolaos Pappas, Yanjun Qi, Sandesh Swamy
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-03612/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-03612/citation.csl.json
 
 ## Recorded arXiv snapshot
 

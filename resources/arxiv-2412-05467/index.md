@@ -16,9 +16,16 @@ Describes BrowserGym's shared web interaction environment and AgentLab tooling f
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-05467/record.json
+
 ## Authors
 
 Thibault Le Sellier De Chezelles, Maxime Gasse, Alexandre Drouin, Massimo Caccia, Léo Boisvert, Megh Thakkar, Tom Marty, Rim Assouel, Sahar Omidi Shayegan, Lawrence Keunho Jang, Xing Han Lù, Ori Yoran, Dehan Kong, Frank F. Xu, Siva Reddy, Quentin Cappart, Graham Neubig, Ruslan Salakhutdinov, Nicolas Chapados, Alexandre Lacoste
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-05467/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-05467/citation.csl.json
 
 ## Recorded arXiv snapshot
 

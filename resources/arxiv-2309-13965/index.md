@@ -16,9 +16,16 @@ Bibliographic record for May I Ask a Follow-up Question? Understanding the Benef
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2309-13965/record.json
+
 ## Authors
 
 Tong Zhang, X. Jessie Yang, Boyang Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2309-13965/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2309-13965/citation.csl.json
 
 ## Recorded arXiv snapshot
 

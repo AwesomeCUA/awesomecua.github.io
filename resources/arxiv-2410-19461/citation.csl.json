@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2410.19461",
+  "citation-key": "arxiv_2410_19461",
+  "type": "article",
+  "title": "EDGE: Enhanced Grounded GUI Understanding with Enriched Multi-Granularity Synthetic Data",
+  "URL": "https://arxiv.org/abs/2410.19461v2",
+  "custom": {
+    "catalog_id": "arxiv:2410.19461",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.19461",
+    "identifiers": {
+      "arxiv": "2410.19461"
+    },
+    "first_published_at": "2024-10-25",
+    "record_updated_at": "2024-11-02",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "dce2e22787c6e2cce95ecc4f5583bf94d7670b4b87ab75d2b8c7efb66fbcd1a8",
+      "submitted_at": "2024-10-25T10:46:17Z",
+      "updated_at": "2024-11-02T08:54:21Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2410.19461v2"
+    }
+  },
+  "note": "First published: 2024-10-25; Recorded arXiv version: v2; Recorded version updated: 2024-11-02T08:54:21Z.",
+  "author": [
+    {
+      "literal": "Xuetian Chen"
+    },
+    {
+      "literal": "Hangcheng Li"
+    },
+    {
+      "literal": "Jiaqing Liang"
+    },
+    {
+      "literal": "Sihang Jiang"
+    },
+    {
+      "literal": "Deqing Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.19461",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Embodied Web Agents: Bridging Physical-Digital Realms f
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-15677/record.json
+
 ## Authors
 
 Yining Hong, Rui Sun, Bingxuan Li, Xingcheng Yao, Maxine Wu, Alexander Chien, Da Yin, Ying Nian Wu, Zhecan James Wang, Kai-Wei Chang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-15677/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-15677/citation.csl.json
 
 ## Recorded arXiv snapshot
 

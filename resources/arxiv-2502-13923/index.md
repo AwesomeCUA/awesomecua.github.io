@@ -16,9 +16,16 @@ Bibliographic record for Qwen2.5-VL Technical Report. Title, authors and dates c
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-13923/record.json
+
 ## Authors
 
 Shuai Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, Sibo Song, Kai Dang, Peng Wang, Shijie Wang, Jun Tang, Humen Zhong, Yuanzhi Zhu, Mingkun Yang, Zhaohai Li, Jianqiang Wan, Pengfei Wang, Wei Ding, Zheren Fu, Yiheng Xu, Jiabo Ye, Xi Zhang, Tianbao Xie, Zesen Cheng, Hang Zhang, Zhibo Yang, Haiyang Xu, Junyang Lin
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-13923/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-13923/citation.csl.json
 
 ## Recorded arXiv snapshot
 

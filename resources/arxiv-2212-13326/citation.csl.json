@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2212.13326",
+  "citation-key": "arxiv_2212_13326",
+  "type": "article",
+  "title": "Behavioral Cloning via Search in Video PreTraining Latent Space",
+  "URL": "https://arxiv.org/abs/2212.13326v2",
+  "custom": {
+    "catalog_id": "arxiv:2212.13326",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2212.13326",
+    "identifiers": {
+      "arxiv": "2212.13326"
+    },
+    "first_published_at": "2022-12-27",
+    "record_updated_at": "2023-04-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b6ce03870cd9bf085cd9b8c13e907d11ebdaa910238abdd411486f7c71de00b5",
+      "submitted_at": "2022-12-27T00:20:37Z",
+      "updated_at": "2023-04-17T05:38:15Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2212.13326v2"
+    }
+  },
+  "note": "First published: 2022-12-27; Recorded arXiv version: v2; Recorded version updated: 2023-04-17T05:38:15Z.",
+  "author": [
+    {
+      "literal": "Federico Malato"
+    },
+    {
+      "literal": "Florian Leopold"
+    },
+    {
+      "literal": "Amogh Raut"
+    },
+    {
+      "literal": "Ville Hautamäki"
+    },
+    {
+      "literal": "Andrew Melnik"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        12,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2212.13326",
+  "genre": "preprint",
+  "version": "2"
+}

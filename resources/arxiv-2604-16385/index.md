@@ -16,9 +16,16 @@ Bibliographic record for StressWeb: A Diagnostic Benchmark for Web Agent Robustn
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-16385/record.json
+
 ## Authors
 
 Haoyue Bai, Dong Wang, Long Chen, Bingguang Hao, Pengyang Shao, Yonghui Yang, Yicheng He, Chenyi Zhuang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-16385/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-16385/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2402.11941",
+  "citation-key": "arxiv_2402_11941",
+  "type": "article",
+  "title": "CoCo-Agent: A Comprehensive Cognitive MLLM Agent for Smartphone GUI Automation",
+  "URL": "https://arxiv.org/abs/2402.11941v3",
+  "custom": {
+    "catalog_id": "arxiv:2402.11941",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2402.11941",
+    "identifiers": {
+      "arxiv": "2402.11941"
+    },
+    "first_published_at": "2024-02-19",
+    "record_updated_at": "2024-06-02",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "98930b10832d8169bdc60620f882b4b8f753440979c8e9a8de167b12d38d7060",
+      "submitted_at": "2024-02-19T08:29:03Z",
+      "updated_at": "2024-06-02T13:25:05Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2402.11941v3"
+    }
+  },
+  "note": "First published: 2024-02-19; Recorded arXiv version: v3; Recorded version updated: 2024-06-02T13:25:05Z.",
+  "author": [
+    {
+      "literal": "Xinbei Ma"
+    },
+    {
+      "literal": "Zhuosheng Zhang"
+    },
+    {
+      "literal": "Hai Zhao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.11941",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -16,9 +16,16 @@ Bibliographic record for MobileGym: A Verifiable and Highly Parallel Simulation 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-26114/record.json
+
 ## Authors
 
 Dingbang Wu, Rui Hao, Haiyang Wang, Shuzhe Wu, Han Xiao, Zhenghong Li, Bojiang Zhou, Zheng Ju, Zichen Liu, Lue Fan, Zhaoxiang Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-26114/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-26114/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2602.17588",
+  "citation-key": "arxiv_2602_17588",
+  "type": "article",
+  "title": "Modeling Distinct Human Interaction in Web Agents",
+  "URL": "https://arxiv.org/abs/2602.17588v4",
+  "custom": {
+    "catalog_id": "arxiv:2602.17588",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2602.17588",
+    "identifiers": {
+      "arxiv": "2602.17588"
+    },
+    "first_published_at": "2026-02-19",
+    "record_updated_at": "2026-07-07",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fe83d38ece7cd8f39d932611abaf7a170e7cb9b7c9744bd1176eb42e73be85b5",
+      "submitted_at": "2026-02-19T18:11:28Z",
+      "updated_at": "2026-07-07T23:37:46Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2602.17588v4"
+    }
+  },
+  "note": "First published: 2026-02-19; Recorded arXiv version: v4; Recorded version updated: 2026-07-07T23:37:46Z.",
+  "author": [
+    {
+      "literal": "Faria Huq"
+    },
+    {
+      "literal": "Zora Zhiruo Wang"
+    },
+    {
+      "literal": "Zhanqiu Guo"
+    },
+    {
+      "literal": "Venu Arvind Arangarajan"
+    },
+    {
+      "literal": "Tianyue Ou"
+    },
+    {
+      "literal": "Frank Xu"
+    },
+    {
+      "literal": "Shuyan Zhou"
+    },
+    {
+      "literal": "Graham Neubig"
+    },
+    {
+      "literal": "Jeffrey P. Bigham"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.17588",
+  "genre": "preprint",
+  "version": "4"
+}

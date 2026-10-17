@@ -16,9 +16,16 @@ Bibliographic record for Perceive Before Reasoning: A Pre-Reasoning Perception F
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-03236/record.json
+
 ## Authors
 
 Zhijie Ding, Weinan Hong, Zicheng Zhu, Lei Li, Dezhi Kong, Hao Wang, Peng Zhou, Xuchu Jiang, Jiaming Xu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-03236/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-03236/citation.csl.json
 
 ## Recorded arXiv snapshot
 

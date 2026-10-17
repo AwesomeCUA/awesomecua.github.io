@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2609.06792",
+  "citation-key": "arxiv_2609_06792",
+  "type": "article",
+  "title": "Improving Proficiency and Efficiency of Android GUI Agents via Self-Generating Tool Actions",
+  "URL": "https://arxiv.org/abs/2609.06792v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.06792",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.06792",
+    "identifiers": {
+      "arxiv": "2609.06792"
+    },
+    "first_published_at": "2026-09-06",
+    "record_updated_at": "2026-09-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "14790f9565861cdba0b24661f6bfe87d7572cbad9d76d9a0b2d7216e9bac7ea7",
+      "submitted_at": "2026-09-06T19:22:53Z",
+      "updated_at": "2026-09-06T19:22:53Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.06792v1"
+    }
+  },
+  "note": "First published: 2026-09-06; Recorded arXiv version: v1; Recorded version updated: 2026-09-06T19:22:53Z.",
+  "author": [
+    {
+      "literal": "Juyong Lee"
+    },
+    {
+      "literal": "Woogyeol Jin"
+    },
+    {
+      "literal": "Kimin Lee"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.06792",
+  "genre": "preprint",
+  "version": "1"
+}

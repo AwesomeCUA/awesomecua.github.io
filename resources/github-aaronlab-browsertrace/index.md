@@ -16,6 +16,8 @@ Local trace viewer for browser-agent runs.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-aaronlab-browsertrace/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/aaronlab/browsertrace/HEAD/LICENSE

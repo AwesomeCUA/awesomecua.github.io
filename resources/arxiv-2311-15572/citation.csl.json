@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2311.15572",
+  "citation-key": "arxiv_2311_15572",
+  "type": "article",
+  "title": "Shaping dynamical neural computations using spatiotemporal constraints",
+  "URL": "https://arxiv.org/abs/2311.15572v1",
+  "custom": {
+    "catalog_id": "arxiv:2311.15572",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2311.15572",
+    "identifiers": {
+      "arxiv": "2311.15572"
+    },
+    "first_published_at": "2023-11-27",
+    "record_updated_at": "2023-11-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1d07a8454a41c526056d99f5ad385cd5e8ee92384de27ed5f840f54253d03b0c",
+      "submitted_at": "2023-11-27T06:45:31Z",
+      "updated_at": "2023-11-27T06:45:31Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2311.15572v1"
+    }
+  },
+  "note": "First published: 2023-11-27; Recorded arXiv version: v1; Recorded version updated: 2023-11-27T06:45:31Z.",
+  "author": [
+    {
+      "literal": "Jason Z. Kim"
+    },
+    {
+      "literal": "Bart Larsen"
+    },
+    {
+      "literal": "Linden Parkes"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.15572",
+  "genre": "preprint",
+  "version": "1"
+}

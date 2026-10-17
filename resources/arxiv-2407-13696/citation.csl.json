@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2407.13696",
+  "citation-key": "arxiv_2407_13696",
+  "type": "article",
+  "title": "Do These LLM Benchmarks Agree? Fixing Benchmark Evaluation with BenchBench",
+  "URL": "https://arxiv.org/abs/2407.13696v2",
+  "custom": {
+    "catalog_id": "arxiv:2407.13696",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2407.13696",
+    "identifiers": {
+      "arxiv": "2407.13696"
+    },
+    "first_published_at": "2024-07-18",
+    "record_updated_at": "2024-09-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0380ae6377082f916dbfa5a5d81b6679cf35159551c80e98e308096c5fc1b531",
+      "submitted_at": "2024-07-18T17:00:23Z",
+      "updated_at": "2024-09-12T08:36:47Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2407.13696v2"
+    }
+  },
+  "note": "First published: 2024-07-18; Recorded arXiv version: v2; Recorded version updated: 2024-09-12T08:36:47Z.",
+  "author": [
+    {
+      "literal": "Yotam Perlitz"
+    },
+    {
+      "literal": "Ariel Gera"
+    },
+    {
+      "literal": "Ofir Arviv"
+    },
+    {
+      "literal": "Asaf Yehudai"
+    },
+    {
+      "literal": "Elron Bandel"
+    },
+    {
+      "literal": "Eyal Shnarch"
+    },
+    {
+      "literal": "Michal Shmueli-Scheuer"
+    },
+    {
+      "literal": "Leshem Choshen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.13696",
+  "genre": "preprint",
+  "version": "2"
+}

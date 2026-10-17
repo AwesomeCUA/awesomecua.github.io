@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2404.12608",
+  "citation-key": "arxiv_2404_12608",
+  "type": "article",
+  "title": "Auto-Formula: Recommend Formulas in Spreadsheets using Contrastive Learning for Table Representations",
+  "URL": "https://arxiv.org/abs/2404.12608v1",
+  "custom": {
+    "catalog_id": "arxiv:2404.12608",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2404.12608",
+    "identifiers": {
+      "arxiv": "2404.12608"
+    },
+    "first_published_at": "2024-04-19",
+    "record_updated_at": "2024-04-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c1e475bcf09106aab4e7757dd8858cf82a5fbbe14577798945cf1e91109a3f4b",
+      "submitted_at": "2024-04-19T03:28:18Z",
+      "updated_at": "2024-04-19T03:28:18Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2404.12608v1"
+    }
+  },
+  "note": "First published: 2024-04-19; Recorded arXiv version: v1; Recorded version updated: 2024-04-19T03:28:18Z.",
+  "author": [
+    {
+      "literal": "Sibei Chen"
+    },
+    {
+      "literal": "Yeye He"
+    },
+    {
+      "literal": "Weiwei Cui"
+    },
+    {
+      "literal": "Ju Fan"
+    },
+    {
+      "literal": "Song Ge"
+    },
+    {
+      "literal": "Haidong Zhang"
+    },
+    {
+      "literal": "Dongmei Zhang"
+    },
+    {
+      "literal": "Surajit Chaudhuri"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.12608",
+  "genre": "preprint",
+  "version": "1"
+}

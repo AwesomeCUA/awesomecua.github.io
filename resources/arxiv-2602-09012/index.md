@@ -16,9 +16,16 @@ Next-Gen CAPTCHAs introduces generated interactive challenges intended to distin
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-09012/record.json
+
 ## Authors
 
 Jiacheng Liu, Yaxin Luo, Jiacheng Cui, Xinyi Shang, Xiaohan Zhao, Zhiqiang Shen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-09012/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-09012/citation.csl.json
 
 ## Recorded arXiv snapshot
 

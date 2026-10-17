@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2402.16965",
+  "citation-key": "arxiv_2402_16965",
+  "type": "article",
+  "title": "WIPI: A New Web Threat for LLM-Driven Web Agents",
+  "URL": "https://arxiv.org/abs/2402.16965v1",
+  "custom": {
+    "catalog_id": "arxiv:2402.16965",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2402.16965",
+    "identifiers": {
+      "arxiv": "2402.16965"
+    },
+    "first_published_at": "2024-02-26",
+    "record_updated_at": "2024-02-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2cf1458c8c4134b2195394a8acba4919f9b3a5a7c79b1bea017ac4558123f69c",
+      "submitted_at": "2024-02-26T19:01:54Z",
+      "updated_at": "2024-02-26T19:01:54Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2402.16965v1"
+    }
+  },
+  "note": "First published: 2024-02-26; Recorded arXiv version: v1; Recorded version updated: 2024-02-26T19:01:54Z.",
+  "author": [
+    {
+      "literal": "Fangzhou Wu"
+    },
+    {
+      "literal": "Shutong Wu"
+    },
+    {
+      "literal": "Yulong Cao"
+    },
+    {
+      "literal": "Chaowei Xiao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.16965",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Efficient Matrix Profile Computation Using Different Di
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1901-05708/record.json
+
 ## Authors
 
 Reza Akbarinia, Bertrand Cloez
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1901-05708/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1901-05708/citation.csl.json
 
 ## Recorded arXiv snapshot
 

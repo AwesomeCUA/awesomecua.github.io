@@ -16,9 +16,16 @@ Refines reusable high-level meta plans with execution feedback to guide language
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced. The full paper was also inspected to confirm WebShop evaluation; the broader agent-learning method is classified as adjacent.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-02682/record.json
+
 ## Authors
 
 Weimin Xiong, Yifan Song, Qingxiu Dong, Bingchan Zhao, Feifan Song, Xun Wang, Sujian Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-02682/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-02682/citation.csl.json
 
 ## Recorded arXiv snapshot
 

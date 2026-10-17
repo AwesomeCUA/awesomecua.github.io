@@ -16,9 +16,16 @@ Bibliographic record for Routine: A Structural Planning Framework for LLM Agent 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-14447/record.json
+
 ## Authors
 
 Guancheng Zeng, Xueyi Chen, Jiawang Hu, Shaohua Qi, Yaxuan Mao, Zhantao Wang, Yifan Nie, Shuang Li, Qiuyang Feng, Pengxu Qiu, Yujia Wang, Wenqiang Han, Linyan Huang, Gang Li, Jingjing Mo, Haowen Hu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-14447/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-14447/citation.csl.json
 
 ## Recorded arXiv snapshot
 

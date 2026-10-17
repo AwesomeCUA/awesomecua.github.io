@@ -16,9 +16,16 @@ Introduces A11y-CUA, a dataset comparing how blind or low-vision users and sight
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-09310/record.json
+
 ## Authors
 
 Ananya Gubbi Mohanbabu, Rosiana Natalie, Brandon Kim, Anhong Guo, Amy Pavel
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-09310/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-09310/citation.csl.json
 
 ## Recorded arXiv snapshot
 

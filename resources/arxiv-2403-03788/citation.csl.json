@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2403.03788",
+  "citation-key": "arxiv_2403_03788",
+  "type": "article",
+  "title": "PPTC-R benchmark: Towards Evaluating the Robustness of Large Language Models for PowerPoint Task Completion",
+  "URL": "https://arxiv.org/abs/2403.03788v1",
+  "custom": {
+    "catalog_id": "arxiv:2403.03788",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2403.03788",
+    "identifiers": {
+      "arxiv": "2403.03788"
+    },
+    "first_published_at": "2024-03-06",
+    "record_updated_at": "2024-03-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "51abf6b165b84c647c9a4870a6441900cac5e9a933199fe8a47d1b7f065eb11e",
+      "submitted_at": "2024-03-06T15:33:32Z",
+      "updated_at": "2024-03-06T15:33:32Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2403.03788v1"
+    }
+  },
+  "note": "First published: 2024-03-06; Recorded arXiv version: v1; Recorded version updated: 2024-03-06T15:33:32Z.",
+  "author": [
+    {
+      "literal": "Zekai Zhang"
+    },
+    {
+      "literal": "Yiduo Guo"
+    },
+    {
+      "literal": "Yaobo Liang"
+    },
+    {
+      "literal": "Dongyan Zhao"
+    },
+    {
+      "literal": "Nan Duan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.03788",
+  "genre": "preprint",
+  "version": "1"
+}

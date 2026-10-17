@@ -16,9 +16,16 @@ CODA combines a generalist planner with a specialist GUI executor and trains app
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-20096/record.json
+
 ## Authors
 
 Zeyi Sun, Yuhang Cao, Jianze Liang, Qiushi Sun, Ziyu Liu, Zhixiong Zhang, Yuhang Zang, Xiaoyi Dong, Kai Chen, Dahua Lin, Jiaqi Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-20096/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-20096/citation.csl.json
 
 ## Recorded arXiv snapshot
 

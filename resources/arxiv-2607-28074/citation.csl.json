@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2607.28074",
+  "citation-key": "arxiv_2607_28074",
+  "type": "article",
+  "title": "Echoverse: Deep, Evolving Environments for Training Computer-Use Agents at Scale",
+  "URL": "https://arxiv.org/abs/2607.28074v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.28074",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2607.28074",
+    "identifiers": {
+      "arxiv": "2607.28074"
+    },
+    "first_published_at": "2026-07-30",
+    "record_updated_at": "2026-07-30",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6f28e1ee8e101000f3cfe9215555251656fcb40b921b5c41c895fbc958f867e3",
+      "submitted_at": "2026-07-30T11:48:22Z",
+      "updated_at": "2026-07-30T11:48:22Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.28074v1"
+    }
+  },
+  "note": "First published: 2026-07-30; Recorded arXiv version: v1; Recorded version updated: 2026-07-30T11:48:22Z.",
+  "author": [
+    {
+      "literal": "Yash Pandya"
+    },
+    {
+      "literal": "Sahil Gupta"
+    },
+    {
+      "literal": "Sarthak Harne"
+    },
+    {
+      "literal": "Archana Yadav"
+    },
+    {
+      "literal": "Kavyansh Chourasia"
+    },
+    {
+      "literal": "Hussein Mozannar"
+    },
+    {
+      "literal": "Vibhav Vineet"
+    },
+    {
+      "literal": "Sara Abdali"
+    },
+    {
+      "literal": "Corby Rosset"
+    },
+    {
+      "literal": "Yash Lara"
+    },
+    {
+      "literal": "Ahmed Awadallah"
+    },
+    {
+      "literal": "Ece Kamar"
+    },
+    {
+      "literal": "Akshay Nambi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.28074",
+  "genre": "preprint",
+  "version": "1"
+}

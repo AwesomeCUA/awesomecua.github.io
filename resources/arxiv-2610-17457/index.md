@@ -16,9 +16,16 @@ Extends BrowseSafe with paired attacked and clean webpages in several representa
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-17457/record.json
+
 ## Authors
 
 Yuetian Chen, Kaiyuan Zhang, Yuntao Du, Thomas Li, Mark Tenenholtz, Kyle Polley, Jerry Ma, Denis Yarats, Ninghui Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-17457/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-17457/citation.csl.json
 
 ## Recorded arXiv snapshot
 

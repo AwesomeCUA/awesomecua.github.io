@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2407.04856",
+  "citation-key": "arxiv_2407_04856",
+  "type": "article",
+  "title": "Explorative Imitation Learning: A Path Signature Approach for Continuous Environments",
+  "URL": "https://arxiv.org/abs/2407.04856v2",
+  "custom": {
+    "catalog_id": "arxiv:2407.04856",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2407.04856",
+    "identifiers": {
+      "arxiv": "2407.04856"
+    },
+    "first_published_at": "2024-07-05",
+    "record_updated_at": "2024-07-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "101c1214864fdcd2daeb0b87a60ab43568a538179f913fd5fbb8b0ee71c01d5e",
+      "submitted_at": "2024-07-05T20:25:39Z",
+      "updated_at": "2024-07-22T15:32:50Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2407.04856v2"
+    }
+  },
+  "note": "First published: 2024-07-05; Recorded arXiv version: v2; Recorded version updated: 2024-07-22T15:32:50Z.",
+  "author": [
+    {
+      "literal": "Nathan Gavenski"
+    },
+    {
+      "literal": "Juarez Monteiro"
+    },
+    {
+      "literal": "Felipe Meneguzzi"
+    },
+    {
+      "literal": "Michael Luck"
+    },
+    {
+      "literal": "Odinaldo Rodrigues"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.04856",
+  "genre": "preprint",
+  "version": "2"
+}

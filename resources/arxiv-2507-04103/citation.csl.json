@@ -1,0 +1,91 @@
+{
+  "id": "arxiv:2507.04103",
+  "citation-key": "arxiv_2507_04103",
+  "type": "article",
+  "title": "How to Train Your LLM Web Agent: A Statistical Diagnosis",
+  "URL": "https://arxiv.org/abs/2507.04103v4",
+  "custom": {
+    "catalog_id": "arxiv:2507.04103",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2507.04103",
+    "identifiers": {
+      "arxiv": "2507.04103"
+    },
+    "first_published_at": "2025-07-05",
+    "record_updated_at": "2026-02-13",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "15fa527a869ab66f4f39900ab07ea8b8db930703a8e950ed1e195e1e66164099",
+      "submitted_at": "2025-07-05T17:12:33Z",
+      "updated_at": "2026-02-13T17:24:17Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2507.04103v4"
+    }
+  },
+  "note": "First published: 2025-07-05; Recorded arXiv version: v4; Recorded version updated: 2026-02-13T17:24:17Z.",
+  "author": [
+    {
+      "literal": "Dheeraj Vattikonda"
+    },
+    {
+      "literal": "Santhoshi Ravichandran"
+    },
+    {
+      "literal": "Emiliano Penaloza"
+    },
+    {
+      "literal": "Hadi Nekoei"
+    },
+    {
+      "literal": "Megh Thakkar"
+    },
+    {
+      "literal": "Thibault Le Sellier de Chezelles"
+    },
+    {
+      "literal": "Nicolas Gontier"
+    },
+    {
+      "literal": "Miguel Muñoz-Mármol"
+    },
+    {
+      "literal": "Sahar Omidi Shayegan"
+    },
+    {
+      "literal": "Stefania Raimondo"
+    },
+    {
+      "literal": "Xue Liu"
+    },
+    {
+      "literal": "Alexandre Drouin"
+    },
+    {
+      "literal": "Laurent Charlin"
+    },
+    {
+      "literal": "Alexandre Piché"
+    },
+    {
+      "literal": "Alexandre Lacoste"
+    },
+    {
+      "literal": "Massimo Caccia"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.04103",
+  "genre": "preprint",
+  "version": "4"
+}

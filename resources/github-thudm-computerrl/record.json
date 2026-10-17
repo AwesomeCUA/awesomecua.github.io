@@ -1,0 +1,75 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:03Z",
+      "role": "primary",
+      "sha256": "8b327dcd58c18e48e1e7f5b19ebf5673da4b5ff9320aa960e391844adf3a8a55",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/THUDM/ComputerRL/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:05Z",
+      "role": "primary",
+      "sha256": "a8d1d88a0f9cce3cdbff73b03a80dc5e5d69e3ba2443946c268815a550c9e0ec",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/THUDM/ComputerRL/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:thudm/computerrl",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-16T06:36:03Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T06:42:05Z",
+      "url": "https://raw.githubusercontent.com/THUDM/ComputerRL/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/THUDM/ComputerRL"
+    }
+  ],
+  "name": "ComputerRL",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/THUDM/ComputerRL/HEAD/README.md",
+      "target_id": "arxiv:2508.14040",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Reinforcement-learning infrastructure for computer-use agents.",
+  "topics": [
+    "reinforcement-learning"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/THUDM/ComputerRL"
+}

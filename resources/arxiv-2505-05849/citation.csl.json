@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2505.05849",
+  "citation-key": "arxiv_2505_05849",
+  "type": "article",
+  "title": "AgentVigil: Generic Black-Box Red-teaming for Indirect Prompt Injection against LLM Agents",
+  "URL": "https://arxiv.org/abs/2505.05849v4",
+  "custom": {
+    "catalog_id": "arxiv:2505.05849",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.05849",
+    "identifiers": {
+      "arxiv": "2505.05849"
+    },
+    "first_published_at": "2025-05-09",
+    "record_updated_at": "2025-06-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "eabcb9e11b41d2b2ca7d167f925effc243976a1215d6cb3ea42bb499dd6cce9c",
+      "submitted_at": "2025-05-09T07:40:17Z",
+      "updated_at": "2025-06-14T01:50:21Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2505.05849v4"
+    }
+  },
+  "note": "First published: 2025-05-09; Recorded arXiv version: v4; Recorded version updated: 2025-06-14T01:50:21Z.",
+  "author": [
+    {
+      "literal": "Zhun Wang"
+    },
+    {
+      "literal": "Vincent Siu"
+    },
+    {
+      "literal": "Zhe Ye"
+    },
+    {
+      "literal": "Tianneng Shi"
+    },
+    {
+      "literal": "Yuzhou Nie"
+    },
+    {
+      "literal": "Xuandong Zhao"
+    },
+    {
+      "literal": "Chenguang Wang"
+    },
+    {
+      "literal": "Wenbo Guo"
+    },
+    {
+      "literal": "Dawn Song"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.05849",
+  "genre": "preprint",
+  "version": "4"
+}

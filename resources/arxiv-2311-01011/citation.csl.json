@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2311.01011",
+  "citation-key": "arxiv_2311_01011",
+  "type": "article",
+  "title": "Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game",
+  "URL": "https://arxiv.org/abs/2311.01011v1",
+  "custom": {
+    "catalog_id": "arxiv:2311.01011",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2311.01011",
+    "identifiers": {
+      "arxiv": "2311.01011"
+    },
+    "first_published_at": "2023-11-02",
+    "record_updated_at": "2023-11-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "288e075e77e07be8745c31e41cead5207f956dec4bcf80665acc6152ae82939e",
+      "submitted_at": "2023-11-02T06:13:36Z",
+      "updated_at": "2023-11-02T06:13:36Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2311.01011v1"
+    }
+  },
+  "note": "First published: 2023-11-02; Recorded arXiv version: v1; Recorded version updated: 2023-11-02T06:13:36Z.",
+  "author": [
+    {
+      "literal": "Sam Toyer"
+    },
+    {
+      "literal": "Olivia Watkins"
+    },
+    {
+      "literal": "Ethan Adrian Mendes"
+    },
+    {
+      "literal": "Justin Svegliato"
+    },
+    {
+      "literal": "Luke Bailey"
+    },
+    {
+      "literal": "Tiffany Wang"
+    },
+    {
+      "literal": "Isaac Ong"
+    },
+    {
+      "literal": "Karim Elmaaroufi"
+    },
+    {
+      "literal": "Pieter Abbeel"
+    },
+    {
+      "literal": "Trevor Darrell"
+    },
+    {
+      "literal": "Alan Ritter"
+    },
+    {
+      "literal": "Stuart Russell"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.01011",
+  "genre": "preprint",
+  "version": "1"
+}

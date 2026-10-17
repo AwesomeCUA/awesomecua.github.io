@@ -16,9 +16,16 @@ Bibliographic record for Where Did It Go Wrong? Process-Level Evaluation of Web 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-15673/record.json
+
 ## Authors
 
 Jiwan Chung, JiHyuk Byun, Vibhav Vineet, Seon Joo Kim
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-15673/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-15673/citation.csl.json
 
 ## Recorded arXiv snapshot
 

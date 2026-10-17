@@ -16,6 +16,8 @@ Publisher or product brand associated with Browser Use computer-use or browser a
 
 Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
 
+- Record JSON: https://awesomecua.github.io/resources/organization-browser-use/record.json
+
 ## License declarations
 
 - code: not recorded

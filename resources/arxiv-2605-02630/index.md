@@ -16,9 +16,16 @@ Bibliographic record for AutoFocus: Uncertainty-Aware Active Visual Search for G
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-02630/record.json
+
 ## Authors
 
 Ruilin Yao, Shegnwu Xiong, Tianyu Zou, Shili Xiong, Yi Rong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-02630/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-02630/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for A Survey on the Memory Mechanism of Large Language Mode
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-13501/record.json
+
 ## Authors
 
 Zeyu Zhang, Xiaohe Bo, Chen Ma, Rui Li, Xu Chen, Quanyu Dai, Jieming Zhu, Zhenhua Dong, Ji-Rong Wen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-13501/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-13501/citation.csl.json
 
 ## Recorded arXiv snapshot
 

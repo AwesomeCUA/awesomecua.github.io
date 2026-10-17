@@ -16,9 +16,16 @@ Collects Windows application trajectories with screenshots and action traces for
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-04307/record.json
+
 ## Authors
 
 Jian Mu, Chaoyun Zhang, Chiming Ni, Lu Wang, Bo Qiao, Kartik Mathur, Qianhui Wu, Yuhang Xie, Xiaojun Ma, Mengyu Zhou, Si Qin, Liqun Li, Yu Kang, Minghua Ma, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-04307/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-04307/citation.csl.json
 
 ## Recorded arXiv snapshot
 

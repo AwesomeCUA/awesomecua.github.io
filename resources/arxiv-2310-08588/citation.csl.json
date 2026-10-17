@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2310.08588",
+  "citation-key": "arxiv_2310_08588",
+  "type": "article",
+  "title": "Octopus: Embodied Vision-Language Programmer from Environmental Feedback",
+  "URL": "https://arxiv.org/abs/2310.08588v2",
+  "custom": {
+    "catalog_id": "arxiv:2310.08588",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2310.08588",
+    "identifiers": {
+      "arxiv": "2310.08588"
+    },
+    "first_published_at": "2023-10-12",
+    "record_updated_at": "2024-10-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "af5f7992246baa7b724a7d30fcbedfd2d0823d47c1f5af0a71fcbe4c1782e8e0",
+      "submitted_at": "2023-10-12T17:59:58Z",
+      "updated_at": "2024-10-20T17:57:03Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2310.08588v2"
+    }
+  },
+  "note": "First published: 2023-10-12; Recorded arXiv version: v2; Recorded version updated: 2024-10-20T17:57:03Z.",
+  "author": [
+    {
+      "literal": "Jingkang Yang"
+    },
+    {
+      "literal": "Yuhao Dong"
+    },
+    {
+      "literal": "Shuai Liu"
+    },
+    {
+      "literal": "Bo Li"
+    },
+    {
+      "literal": "Ziyue Wang"
+    },
+    {
+      "literal": "Chencheng Jiang"
+    },
+    {
+      "literal": "Haoran Tan"
+    },
+    {
+      "literal": "Jiamu Kang"
+    },
+    {
+      "literal": "Yuanhan Zhang"
+    },
+    {
+      "literal": "Kaiyang Zhou"
+    },
+    {
+      "literal": "Ziwei Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2310.08588",
+  "genre": "preprint",
+  "version": "2"
+}

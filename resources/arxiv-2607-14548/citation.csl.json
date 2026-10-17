@@ -1,0 +1,112 @@
+{
+  "id": "arxiv:2607.14548",
+  "citation-key": "arxiv_2607_14548",
+  "type": "article",
+  "title": "HyMobileAgent: Data-Environment Co-Scaling for Efficient GUI Agents",
+  "URL": "https://arxiv.org/abs/2607.14548v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.14548",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2607.14548",
+    "identifiers": {
+      "arxiv": "2607.14548"
+    },
+    "first_published_at": "2026-07-16",
+    "record_updated_at": "2026-07-16",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "151d4882fecc835dfffb9651bd860ebe8c85919a63ff5730e191f9146fbba272",
+      "submitted_at": "2026-07-16T04:12:42Z",
+      "updated_at": "2026-07-16T04:12:42Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.14548v1"
+    }
+  },
+  "note": "First published: 2026-07-16; Recorded arXiv version: v1; Recorded version updated: 2026-07-16T04:12:42Z.",
+  "author": [
+    {
+      "literal": "Hy Vision Team"
+    },
+    {
+      "literal": "Huawen Shen"
+    },
+    {
+      "literal": "Zhengyang Tang"
+    },
+    {
+      "literal": "Shangpin Peng"
+    },
+    {
+      "literal": "Liang Wu"
+    },
+    {
+      "literal": "Anran Zhang"
+    },
+    {
+      "literal": "Weinong Wang"
+    },
+    {
+      "literal": "Yiduo Guo"
+    },
+    {
+      "literal": "Chenxin Li"
+    },
+    {
+      "literal": "Zhengyao Fang"
+    },
+    {
+      "literal": "Yang Ding"
+    },
+    {
+      "literal": "Junyi Li"
+    },
+    {
+      "literal": "Fei Tang"
+    },
+    {
+      "literal": "Zheng Ruan"
+    },
+    {
+      "literal": "Yi Zhang"
+    },
+    {
+      "literal": "Xingran Zhou"
+    },
+    {
+      "literal": "Dingchen Yang"
+    },
+    {
+      "literal": "Sunqi Fan"
+    },
+    {
+      "literal": "Zhiyi Wan"
+    },
+    {
+      "literal": "Han Hu"
+    },
+    {
+      "literal": "Xin Lai"
+    },
+    {
+      "literal": "Pengyuan Lyu"
+    },
+    {
+      "literal": "Chengquan Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.14548",
+  "genre": "preprint",
+  "version": "1"
+}

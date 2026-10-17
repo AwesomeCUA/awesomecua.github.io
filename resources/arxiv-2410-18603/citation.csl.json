@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2410.18603",
+  "citation-key": "arxiv_2410_18603",
+  "type": "article",
+  "title": "AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant",
+  "URL": "https://arxiv.org/abs/2410.18603v1",
+  "custom": {
+    "catalog_id": "arxiv:2410.18603",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.18603",
+    "identifiers": {
+      "arxiv": "2410.18603"
+    },
+    "first_published_at": "2024-10-24",
+    "record_updated_at": "2024-10-24",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ece9f64cc037dad8633388edf1b54d88818d8092b77e19b15780e929b23aa593",
+      "submitted_at": "2024-10-24T09:58:40Z",
+      "updated_at": "2024-10-24T09:58:40Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2410.18603v1"
+    }
+  },
+  "note": "First published: 2024-10-24; Recorded arXiv version: v1; Recorded version updated: 2024-10-24T09:58:40Z.",
+  "author": [
+    {
+      "literal": "Chengyou Jia"
+    },
+    {
+      "literal": "Minnan Luo"
+    },
+    {
+      "literal": "Zhuohang Dang"
+    },
+    {
+      "literal": "Qiushi Sun"
+    },
+    {
+      "literal": "Fangzhi Xu"
+    },
+    {
+      "literal": "Junlin Hu"
+    },
+    {
+      "literal": "Tianbao Xie"
+    },
+    {
+      "literal": "Zhiyong Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.18603",
+  "genre": "preprint",
+  "version": "1"
+}

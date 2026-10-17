@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2602.09856",
+  "citation-key": "arxiv_2602_09856",
+  "type": "article",
+  "title": "Code2World: A GUI World Model via Renderable Code Generation",
+  "URL": "https://arxiv.org/abs/2602.09856v1",
+  "custom": {
+    "catalog_id": "arxiv:2602.09856",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.09856",
+    "identifiers": {
+      "arxiv": "2602.09856"
+    },
+    "first_published_at": "2026-02-10",
+    "record_updated_at": "2026-02-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "55287e2fe8a5e94671e4aab8e9d4a907ba9b6c83306d9b3f61b74adccd5c5059",
+      "submitted_at": "2026-02-10T14:56:19Z",
+      "updated_at": "2026-02-10T14:56:19Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2602.09856v1"
+    }
+  },
+  "note": "First published: 2026-02-10; Recorded arXiv version: v1; Recorded version updated: 2026-02-10T14:56:19Z.",
+  "author": [
+    {
+      "literal": "Yuhao Zheng"
+    },
+    {
+      "literal": "Li'an Zhong"
+    },
+    {
+      "literal": "Yi Wang"
+    },
+    {
+      "literal": "Rui Dai"
+    },
+    {
+      "literal": "Kaikui Liu"
+    },
+    {
+      "literal": "Xiangxiang Chu"
+    },
+    {
+      "literal": "Linyuan Lv"
+    },
+    {
+      "literal": "Philip Torr"
+    },
+    {
+      "literal": "Kevin Qinghong Lin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.09856",
+  "genre": "preprint",
+  "version": "1"
+}

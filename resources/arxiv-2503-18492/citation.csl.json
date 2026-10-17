@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2503.18492",
+  "citation-key": "arxiv_2503_18492",
+  "type": "article",
+  "title": "VeriSafe Agent: Safeguarding Mobile GUI Agent via Logic-based Action Verification",
+  "URL": "https://arxiv.org/abs/2503.18492v2",
+  "custom": {
+    "catalog_id": "arxiv:2503.18492",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2503.18492",
+    "identifiers": {
+      "arxiv": "2503.18492"
+    },
+    "first_published_at": "2025-03-24",
+    "record_updated_at": "2025-09-11",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "10e7a9a4471555c6e4001cd10c1e4b375b503adfe6ea48d5808d1d7721dfc162",
+      "submitted_at": "2025-03-24T09:46:05Z",
+      "updated_at": "2025-09-11T04:15:45Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2503.18492v2"
+    }
+  },
+  "note": "First published: 2025-03-24; Recorded arXiv version: v2; Recorded version updated: 2025-09-11T04:15:45Z.",
+  "author": [
+    {
+      "literal": "Jungjae Lee"
+    },
+    {
+      "literal": "Dongjae Lee"
+    },
+    {
+      "literal": "Chihun Choi"
+    },
+    {
+      "literal": "Youngmin Im"
+    },
+    {
+      "literal": "Jaeyoung Wi"
+    },
+    {
+      "literal": "Kihong Heo"
+    },
+    {
+      "literal": "Sangeun Oh"
+    },
+    {
+      "literal": "Sunjae Lee"
+    },
+    {
+      "literal": "Insik Shin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.18492",
+  "genre": "preprint",
+  "version": "2"
+}

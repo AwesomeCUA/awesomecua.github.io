@@ -16,6 +16,8 @@ A web-agent framework that explores sites, synthesizes reusable interaction APIs
 
 Exploration, task execution, browser integration and evaluation code are published under MIT. Synthesized skill files are included, but no trained model weights are implied. The source depends on external web environments and model services; no runtime or browser tasks were executed.
 
+- Record JSON: https://awesomecua.github.io/resources/github-osu-nlp-group-skillweaver/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/OSU-NLP-Group/SkillWeaver/HEAD/LICENSE

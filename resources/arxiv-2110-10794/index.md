@@ -16,9 +16,16 @@ Bibliographic record for Low-overhead fault-tolerant quantum computing using lon
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2110-10794/record.json
+
 ## Authors
 
 Lawrence Z. Cohen, Isaac H. Kim, Stephen D. Bartlett, Benjamin J. Brown
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2110-10794/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2110-10794/citation.csl.json
 
 ## Recorded arXiv snapshot
 

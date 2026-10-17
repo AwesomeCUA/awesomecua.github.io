@@ -16,9 +16,16 @@ Introduces SURFPRM, which turns web demonstrations into an interaction-element g
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-32351/record.json
+
 ## Authors
 
 Yangzhe Peng, Xiaoyang Wang, Yiyang Zhao, Lijun Wu, Kun He
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-32351/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-32351/citation.csl.json
 
 ## Recorded arXiv snapshot
 

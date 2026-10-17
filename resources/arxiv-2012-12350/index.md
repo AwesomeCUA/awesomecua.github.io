@@ -16,9 +16,16 @@ Bibliographic record for ActionBert: Leveraging User Actions for Semantic Unders
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2012-12350/record.json
+
 ## Authors
 
 Zecheng He, Srinivas Sunkara, Xiaoxue Zang, Ying Xu, Lijuan Liu, Nevan Wichers, Gabriel Schubiner, Ruby Lee, Jindong Chen, Blaise Agüera y Arcas
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2012-12350/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2012-12350/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for SynthAgent: Adapting Web Agents with Synthetic Supervis
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-06101/record.json
+
 ## Authors
 
 Zhaoyang Wang, Yiming Liang, Xuchao Zhang, Qianhui Wu, Siwei Han, Anson Bastos, Rujia Wang, Chetan Bansal, Baolin Peng, Jianfeng Gao, Saravan Rajmohan, Huaxiu Yao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-06101/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-06101/citation.csl.json
 
 ## Recorded arXiv snapshot
 

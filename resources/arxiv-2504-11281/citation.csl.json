@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2504.11281",
+  "citation-key": "arxiv_2504_11281",
+  "type": "article",
+  "title": "The Obvious Invisible Threat: LLM-Powered GUI Agents' Vulnerability to Fine-Print Injections",
+  "URL": "https://arxiv.org/abs/2504.11281v1",
+  "custom": {
+    "catalog_id": "arxiv:2504.11281",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2504.11281",
+    "identifiers": {
+      "arxiv": "2504.11281"
+    },
+    "first_published_at": "2025-04-15",
+    "record_updated_at": "2025-04-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "48acf3279b854d45ec076e630e5a84601879fc9ff894c5d368adb59d03bd3de6",
+      "submitted_at": "2025-04-15T15:21:09Z",
+      "updated_at": "2025-04-15T15:21:09Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2504.11281v1"
+    }
+  },
+  "note": "First published: 2025-04-15; Recorded arXiv version: v1; Recorded version updated: 2025-04-15T15:21:09Z.",
+  "author": [
+    {
+      "literal": "Chaoran Chen"
+    },
+    {
+      "literal": "Zhiping Zhang"
+    },
+    {
+      "literal": "Bingcan Guo"
+    },
+    {
+      "literal": "Shang Ma"
+    },
+    {
+      "literal": "Ibrahim Khalilov"
+    },
+    {
+      "literal": "Simret A Gebreegziabher"
+    },
+    {
+      "literal": "Yanfang Ye"
+    },
+    {
+      "literal": "Ziang Xiao"
+    },
+    {
+      "literal": "Yaxing Yao"
+    },
+    {
+      "literal": "Tianshi Li"
+    },
+    {
+      "literal": "Toby Jia-Jun Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.11281",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Bibliographic record for The Hard Part Comes After Search: Benchmarking Web Agen
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-30604/record.json
+
 ## Authors
 
 Alexander Gill, Md Farhan Ishmam, Xuyen Nguyen, Neha Bhat, Parker Henry DeYoung, Fateme Hashemi Chaleshtori, Nathan Stringham, Kenneth Marino, Ana Marasović
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-30604/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-30604/citation.csl.json
 
 ## Recorded arXiv snapshot
 

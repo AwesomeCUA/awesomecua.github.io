@@ -16,6 +16,8 @@ A Qwen2.5-VL checkpoint trained with the Actor2Reasoner procedure to combine int
 
 The official Hub API resolves the former Reallm-Labs model namespace to InfiX-ai. Two safetensors shards and model/tokenizer files are public and ungated. The card declares Apache-2.0 for this checkpoint; base-model terms remain separate. Its older loading example still uses the prior namespace.
 
+- Record JSON: https://awesomecua.github.io/resources/url-35b9879a351cc3b3d7d5/record.json
+
 ## License declarations
 
 - code: not recorded

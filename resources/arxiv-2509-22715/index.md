@@ -16,9 +16,16 @@ Bibliographic record for TRUEBench: Can LLM Response Meet Real-world Constraints
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-22715/record.json
+
 ## Authors
 
 Jiho Park, Jongyoon Song, Minjin Choi, Kyuho Heo, Taehun Huh, Ji Won Kim
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-22715/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-22715/citation.csl.json
 
 ## Recorded arXiv snapshot
 

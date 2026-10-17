@@ -16,6 +16,8 @@ A Qwen2.5-VL-based computer-use checkpoint that combines screenshot history with
 
 The public manifest contains 64 safetensors shards. The card declares MIT for this model and names its Qwen2.5-VL base; upstream terms remain separate. This is the 32B release, distinct from the existing 72B preview. Family-level or 72B benchmark scores are not transferred to it.
 
+- Record JSON: https://awesomecua.github.io/resources/url-ad7f176848fd84de64e2/record.json
+
 ## License declarations
 
 - code: not recorded

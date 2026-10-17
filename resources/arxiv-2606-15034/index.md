@@ -16,9 +16,16 @@ Evaluates action-level guardrails and full computer tasks with environment-depen
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-15034/record.json
+
 ## Authors
 
 Mina Mohammadmirzaei, Jeffrey Flanigan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-15034/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-15034/citation.csl.json
 
 ## Recorded arXiv snapshot
 

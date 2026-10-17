@@ -16,9 +16,16 @@ Bibliographic record for From Context to Action: Analysis of the Impact of State
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-23555/record.json
+
 ## Authors
 
 Nalin Tiwary, Vardhan Dongre, Sanil Arun Chawla, Ashwin Lamani, Dilek Hakkani-Tür
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-23555/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-23555/citation.csl.json
 
 ## Recorded arXiv snapshot
 

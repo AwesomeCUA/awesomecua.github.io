@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2507.23779",
+  "citation-key": "arxiv_2507_23779",
+  "type": "article",
+  "title": "Phi-Ground Tech Report: Advancing Perception in GUI Grounding",
+  "URL": "https://arxiv.org/abs/2507.23779v1",
+  "custom": {
+    "catalog_id": "arxiv:2507.23779",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2507.23779",
+    "identifiers": {
+      "arxiv": "2507.23779"
+    },
+    "first_published_at": "2025-07-31",
+    "record_updated_at": "2025-07-31",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2a7a32f30d2ada7f739e460429b6453d0e0e56364dda8653b0511ef2e9e6df2a",
+      "submitted_at": "2025-07-31T17:59:09Z",
+      "updated_at": "2025-07-31T17:59:09Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2507.23779v1"
+    }
+  },
+  "note": "First published: 2025-07-31; Recorded arXiv version: v1; Recorded version updated: 2025-07-31T17:59:09Z.",
+  "author": [
+    {
+      "literal": "Miaosen Zhang"
+    },
+    {
+      "literal": "Ziqiang Xu"
+    },
+    {
+      "literal": "Jialiang Zhu"
+    },
+    {
+      "literal": "Qi Dai"
+    },
+    {
+      "literal": "Kai Qiu"
+    },
+    {
+      "literal": "Yifan Yang"
+    },
+    {
+      "literal": "Chong Luo"
+    },
+    {
+      "literal": "Tianyi Chen"
+    },
+    {
+      "literal": "Justin Wagle"
+    },
+    {
+      "literal": "Tim Franklin"
+    },
+    {
+      "literal": "Baining Guo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.23779",
+  "genre": "preprint",
+  "version": "1"
+}

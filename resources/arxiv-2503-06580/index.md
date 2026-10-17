@@ -16,9 +16,16 @@ Bibliographic record for Agent models: Internalizing Chain-of-Action Generation 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-06580/record.json
+
 ## Authors
 
 Yuxiang Zhang, Yuqi Yang, Jiangming Shu, Xinyan Wen, Jitao Sang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-06580/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-06580/citation.csl.json
 
 ## Recorded arXiv snapshot
 

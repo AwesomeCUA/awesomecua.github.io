@@ -16,9 +16,16 @@ Bibliographic record for Visual Confused Deputy: Exploiting and Defending Percep
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-14707/record.json
+
 ## Authors
 
 Xunzhuo Liu, Bowei He, Xue Liu, Andy Luo, Haichen Zhang, Huamin Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-14707/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-14707/citation.csl.json
 
 ## Recorded arXiv snapshot
 

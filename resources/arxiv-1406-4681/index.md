@@ -16,9 +16,16 @@ Bibliographic record for Crypto multi tenant: an environment of secure computing
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1406-4681/record.json
+
 ## Authors
 
 Parul Kashyap, Rahul Singh
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1406-4681/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1406-4681/citation.csl.json
 
 ## Recorded arXiv snapshot
 

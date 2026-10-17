@@ -16,9 +16,16 @@ Bibliographic record for Self-Reflection in LLM Agents: Effects on Problem-Solvi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2405-06682/record.json
+
 ## Authors
 
 Matthew Renze, Erhan Guven
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2405-06682/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-06682/citation.csl.json
 
 ## Recorded arXiv snapshot
 

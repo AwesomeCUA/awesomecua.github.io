@@ -16,9 +16,16 @@ Bibliographic record for DynaWeb: Model-Based Reinforcement Learning of Web Agen
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-22149/record.json
+
 ## Authors
 
 Hang Ding, Peidong Liu, Junqiao Wang, Ziwei Ji, Meng Cao, Rongzhao Zhang, Lynn Ai, Eric Yang, Tianyu Shi, Lei Yu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-22149/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-22149/citation.csl.json
 
 ## Recorded arXiv snapshot
 

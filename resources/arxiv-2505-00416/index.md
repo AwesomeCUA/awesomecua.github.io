@@ -16,9 +16,16 @@ ScaleTrack combines a unified collection of GUI grounding samples with a plannin
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-00416/record.json
+
 ## Authors
 
 Jing Huang, Zhixiong Zeng, Wenkang Han, Yufeng Zhong, Liming Zheng, Shuai Fu, Jingyuan Chen, Lin Ma
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-00416/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-00416/citation.csl.json
 
 ## Recorded arXiv snapshot
 

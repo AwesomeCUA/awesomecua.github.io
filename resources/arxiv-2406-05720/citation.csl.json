@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2406.05720",
+  "citation-key": "arxiv_2406_05720",
+  "type": "article",
+  "title": "VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies in Minecraft",
+  "URL": "https://arxiv.org/abs/2406.05720v1",
+  "custom": {
+    "catalog_id": "arxiv:2406.05720",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2406.05720",
+    "identifiers": {
+      "arxiv": "2406.05720"
+    },
+    "first_published_at": "2024-06-09",
+    "record_updated_at": "2024-06-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "433d4543f0f4a3a23dfff71f44c3233d940169380a63d531cfec052041cd2720",
+      "submitted_at": "2024-06-09T10:21:47Z",
+      "updated_at": "2024-06-09T10:21:47Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2406.05720v1"
+    }
+  },
+  "note": "First published: 2024-06-09; Recorded arXiv version: v1; Recorded version updated: 2024-06-09T10:21:47Z.",
+  "author": [
+    {
+      "literal": "Yubo Dong"
+    },
+    {
+      "literal": "Xukun Zhu"
+    },
+    {
+      "literal": "Zhengzhe Pan"
+    },
+    {
+      "literal": "Linchao Zhu"
+    },
+    {
+      "literal": "Yi Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.05720",
+  "genre": "preprint",
+  "version": "1"
+}

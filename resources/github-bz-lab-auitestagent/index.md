@@ -16,6 +16,8 @@ Generates mobile GUI interactions from natural-language test requirements and ch
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-bz-lab-auitestagent/record.json
+
 ## License declarations
 
 - code: not recorded

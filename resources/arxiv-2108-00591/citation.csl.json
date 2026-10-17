@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2108.00591",
+  "citation-key": "arxiv_2108_00591",
+  "type": "article",
+  "title": "Resource Management in Edge and Fog Computing using FogBus2 Framework",
+  "URL": "https://arxiv.org/abs/2108.00591v1",
+  "custom": {
+    "catalog_id": "arxiv:2108.00591",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2108.00591",
+    "identifiers": {
+      "arxiv": "2108.00591"
+    },
+    "first_published_at": "2021-08-02",
+    "record_updated_at": "2021-08-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fc2cd57d488b6f7575f3a740590371a200bb1c21d73029adb0126af7c53fb4a3",
+      "submitted_at": "2021-08-02T01:55:41Z",
+      "updated_at": "2021-08-02T01:55:41Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2108.00591v1"
+    }
+  },
+  "note": "First published: 2021-08-02; Recorded arXiv version: v1; Recorded version updated: 2021-08-02T01:55:41Z.",
+  "author": [
+    {
+      "literal": "Mohammad Goudarzi"
+    },
+    {
+      "literal": "Qifan Deng"
+    },
+    {
+      "literal": "Rajkumar Buyya"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        8,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2108.00591",
+  "genre": "preprint",
+  "version": "1"
+}

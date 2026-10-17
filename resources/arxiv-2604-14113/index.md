@@ -16,9 +16,16 @@ Bibliographic record for UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In for GUI 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-14113/record.json
+
 ## Authors
 
 Fei Tang, Bofan Chen, Zhengxi Lu, Tongbo Chen, Songqin Nong, Tao Jiang, Wenhao Xu, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-14113/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-14113/citation.csl.json
 
 ## Recorded arXiv snapshot
 

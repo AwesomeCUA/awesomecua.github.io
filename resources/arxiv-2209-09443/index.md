@@ -16,9 +16,16 @@ Bibliographic record for Cryogenic in-memory computing using magnetic topologica
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2209-09443/record.json
+
 ## Authors
 
 Yuting Liu, Albert Lee, Kun Qian, Peng Zhang, Zhihua Xiao, Haoran He, Zheyu Ren, Shun Kong Cheung, Ruizi Liu, Yaoyin Li, Xu Zhang, Zichao Ma, Jianyuan Zhao, Weiwei Zhao, Guoqiang Yu, Xin Wang, Junwei Liu, Zhongrui Wang, Kang L. Wang, Qiming Shao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2209-09443/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2209-09443/citation.csl.json
 
 ## Recorded arXiv snapshot
 

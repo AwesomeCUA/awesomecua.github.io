@@ -16,9 +16,16 @@ Bibliographic record for OpenBezoar: Small, Cost-Effective and Open Models Train
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-12195/record.json
+
 ## Authors
 
 Chandeepa Dissanayake, Lahiru Lowe, Sachith Gunasekara, Yasiru Ratnayake
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-12195/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-12195/citation.csl.json
 
 ## Recorded arXiv snapshot
 

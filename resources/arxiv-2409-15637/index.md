@@ -16,9 +16,16 @@ Synatra converts indirect procedural knowledge, including human-oriented tutoria
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-15637/record.json
+
 ## Authors
 
 Tianyue Ou, Frank F. Xu, Aman Madaan, Jiarui Liu, Robert Lo, Abishek Sridhar, Sudipta Sengupta, Dan Roth, Graham Neubig, Shuyan Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-15637/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-15637/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2403.04957",
+  "citation-key": "arxiv_2403_04957",
+  "type": "article",
+  "title": "Automatic and Universal Prompt Injection Attacks against Large Language Models",
+  "URL": "https://arxiv.org/abs/2403.04957v1",
+  "custom": {
+    "catalog_id": "arxiv:2403.04957",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2403.04957",
+    "identifiers": {
+      "arxiv": "2403.04957"
+    },
+    "first_published_at": "2024-03-07",
+    "record_updated_at": "2024-03-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b74bfce807087c59db9e9b030ec83e5c9240c13e6cc9470a3623b66520c76745",
+      "submitted_at": "2024-03-07T23:46:20Z",
+      "updated_at": "2024-03-07T23:46:20Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2403.04957v1"
+    }
+  },
+  "note": "First published: 2024-03-07; Recorded arXiv version: v1; Recorded version updated: 2024-03-07T23:46:20Z.",
+  "author": [
+    {
+      "literal": "Xiaogeng Liu"
+    },
+    {
+      "literal": "Zhiyuan Yu"
+    },
+    {
+      "literal": "Yizhe Zhang"
+    },
+    {
+      "literal": "Ning Zhang"
+    },
+    {
+      "literal": "Chaowei Xiao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.04957",
+  "genre": "preprint",
+  "version": "1"
+}

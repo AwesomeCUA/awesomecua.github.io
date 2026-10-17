@@ -16,6 +16,8 @@ A mobile GUI checkpoint trained with semi-online reinforcement learning that use
 
 Four public safetensors shards are present. The card declares Apache-2.0 for the weights. The project publishes only a portion of its training data; no complete training corpus or independent reproduction is inferred.
 
+- Record JSON: https://awesomecua.github.io/resources/url-1c4ee99a9a55ae71a7ac/record.json
+
 ## License declarations
 
 - code: not recorded

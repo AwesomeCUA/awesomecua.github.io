@@ -1,0 +1,130 @@
+{
+  "aliases": [
+    "Droidrun"
+  ],
+  "authors": [],
+  "details": {
+    "availability": "Published source; official release metadata inspected",
+    "release_tag": "v0.7.0"
+  },
+  "environments": [
+    "android",
+    "ios"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T03:59:53Z",
+      "role": "primary",
+      "sha256": "80052560e06db353277a55f3f8f6a4b5231aa6dc1376d5182559b72adcb5c3a1",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://raw.githubusercontent.com/droidrun/mobilerun/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:01:56Z",
+      "role": "primary",
+      "sha256": "e48b9154a58b4b7021a4707ca185af32b9dd81c828d53ba36a86f195c1720344",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/droidrun/mobilerun"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T03:59:53Z",
+      "role": "primary",
+      "sha256": "7f40d42acd62b4405b5077a0f594a35aae73fb057589346afa5f6fb22d710a0c",
+      "supports": [
+        "release_status"
+      ],
+      "url": "https://api.github.com/repos/droidrun/mobilerun/git/trees/main?recursive=1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:00:56Z",
+      "role": "primary",
+      "sha256": "f85c8b766edc107c455a86e363c56af3d1f7fce669b55377f4010982aa3a7e44",
+      "supports": [
+        "release_status"
+      ],
+      "url": "https://api.github.com/repos/droidrun/mobilerun/releases/latest"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:00:57Z",
+      "role": "primary",
+      "sha256": "b3ebb19fda8286efa415d457529eafff41e1b1a27fe4e00d99f34e1559b6cdd9",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/droidrun/mobilerun/HEAD/LICENSE"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T03:59:53Z",
+      "role": "primary",
+      "sha256": "e48b9154a58b4b7021a4707ca185af32b9dd81c828d53ba36a86f195c1720344",
+      "supports": [
+        "identity",
+        "aliases",
+        "notes"
+      ],
+      "url": "https://api.github.com/repos/droidrun/droidrun"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-17T04:00:57Z",
+      "role": "primary",
+      "sha256": "b3ebb19fda8286efa415d457529eafff41e1b1a27fe4e00d99f34e1559b6cdd9",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/droidrun/mobilerun/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:droidrun/mobilerun",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-17T03:59:53Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-17T04:00:57Z",
+      "url": "https://raw.githubusercontent.com/droidrun/mobilerun/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/droidrun/mobilerun"
+    }
+  ],
+  "name": "Mobilerun (formerly Droidrun)",
+  "notes": "The former droidrun/droidrun repository resolves to droidrun/mobilerun through the official API. Source and release v0.7.0 are public. Android and iOS setup paths differ, and the companion Portal app is a separate device bridge. MIT applies to framework code; model-provider and cloud-service terms are separate.",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A framework that combines screenshots and accessibility state with agent tools for mobile-device tasks through command-line and Python interfaces.",
+  "topics": [
+    "mobile-navigation",
+    "tool-integration",
+    "planning"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/droidrun/mobilerun"
+}

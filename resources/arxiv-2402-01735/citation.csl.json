@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2402.01735",
+  "citation-key": "arxiv_2402_01735",
+  "type": "article",
+  "title": "VIALM: A Survey and Benchmark of Visually Impaired Assistance with Large Models",
+  "URL": "https://arxiv.org/abs/2402.01735v2",
+  "custom": {
+    "catalog_id": "arxiv:2402.01735",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2402.01735",
+    "identifiers": {
+      "arxiv": "2402.01735"
+    },
+    "first_published_at": "2024-01-29",
+    "record_updated_at": "2024-02-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2f08bce4a8aca2e33d362b79da821106ebdad1f816f712a8a633a3a2be756b6e",
+      "submitted_at": "2024-01-29T08:28:32Z",
+      "updated_at": "2024-02-10T14:08:55Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2402.01735v2"
+    }
+  },
+  "note": "First published: 2024-01-29; Recorded arXiv version: v2; Recorded version updated: 2024-02-10T14:08:55Z.",
+  "author": [
+    {
+      "literal": "Yi Zhao"
+    },
+    {
+      "literal": "Yilin Zhang"
+    },
+    {
+      "literal": "Rong Xiang"
+    },
+    {
+      "literal": "Jing Li"
+    },
+    {
+      "literal": "Hillming Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.01735",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,133 @@
+{
+  "id": "arxiv:2408.06327",
+  "citation-key": "arxiv_2408_06327",
+  "type": "article",
+  "title": "VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents",
+  "URL": "https://arxiv.org/abs/2408.06327v1",
+  "custom": {
+    "catalog_id": "arxiv:2408.06327",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2408.06327",
+    "identifiers": {
+      "arxiv": "2408.06327"
+    },
+    "first_published_at": "2024-08-12",
+    "record_updated_at": "2024-08-12",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "603bfa4357617bfeb7a718065e77c71d77614f7240258684938dd4e6fd1a20df",
+      "submitted_at": "2024-08-12T17:44:17Z",
+      "updated_at": "2024-08-12T17:44:17Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2408.06327v1"
+    }
+  },
+  "note": "First published: 2024-08-12; Recorded arXiv version: v1; Recorded version updated: 2024-08-12T17:44:17Z.",
+  "author": [
+    {
+      "literal": "Xiao Liu"
+    },
+    {
+      "literal": "Tianjie Zhang"
+    },
+    {
+      "literal": "Yu Gu"
+    },
+    {
+      "literal": "Iat Long Iong"
+    },
+    {
+      "literal": "Yifan Xu"
+    },
+    {
+      "literal": "Xixuan Song"
+    },
+    {
+      "literal": "Shudan Zhang"
+    },
+    {
+      "literal": "Hanyu Lai"
+    },
+    {
+      "literal": "Xinyi Liu"
+    },
+    {
+      "literal": "Hanlin Zhao"
+    },
+    {
+      "literal": "Jiadai Sun"
+    },
+    {
+      "literal": "Xinyue Yang"
+    },
+    {
+      "literal": "Yu Yang"
+    },
+    {
+      "literal": "Zehan Qi"
+    },
+    {
+      "literal": "Shuntian Yao"
+    },
+    {
+      "literal": "Xueqiao Sun"
+    },
+    {
+      "literal": "Siyi Cheng"
+    },
+    {
+      "literal": "Qinkai Zheng"
+    },
+    {
+      "literal": "Hao Yu"
+    },
+    {
+      "literal": "Hanchen Zhang"
+    },
+    {
+      "literal": "Wenyi Hong"
+    },
+    {
+      "literal": "Ming Ding"
+    },
+    {
+      "literal": "Lihang Pan"
+    },
+    {
+      "literal": "Xiaotao Gu"
+    },
+    {
+      "literal": "Aohan Zeng"
+    },
+    {
+      "literal": "Zhengxiao Du"
+    },
+    {
+      "literal": "Chan Hee Song"
+    },
+    {
+      "literal": "Yu Su"
+    },
+    {
+      "literal": "Yuxiao Dong"
+    },
+    {
+      "literal": "Jie Tang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2408.06327",
+  "genre": "preprint",
+  "version": "1"
+}

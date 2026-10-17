@@ -16,9 +16,16 @@ Bibliographic record for Tensor Trust: Interpretable Prompt Injection Attacks fr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-01011/record.json
+
 ## Authors
 
 Sam Toyer, Olivia Watkins, Ethan Adrian Mendes, Justin Svegliato, Luke Bailey, Tiffany Wang, Isaac Ong, Karim Elmaaroufi, Pieter Abbeel, Trevor Darrell, Alan Ritter, Stuart Russell
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-01011/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-01011/citation.csl.json
 
 ## Recorded arXiv snapshot
 

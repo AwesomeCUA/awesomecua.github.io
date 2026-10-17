@@ -16,9 +16,16 @@ Bibliographic record for PrecisionCUA: Iterative Visual Refinement for Pixel-Pre
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-13019/record.json
+
 ## Authors
 
 Himangi Mittal, Gaurav Mittal, Nelson Daniel Troncoso, Yu Hu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-13019/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-13019/citation.csl.json
 
 ## Recorded arXiv snapshot
 

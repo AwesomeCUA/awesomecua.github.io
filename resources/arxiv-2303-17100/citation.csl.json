@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2303.17100",
+  "citation-key": "arxiv_2303_17100",
+  "type": "article",
+  "title": "Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2303.17100v1",
+  "custom": {
+    "catalog_id": "arxiv:2303.17100",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2303.17100",
+    "identifiers": {
+      "arxiv": "2303.17100"
+    },
+    "first_published_at": "2023-03-30",
+    "record_updated_at": "2023-03-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8c5ec98167dd51f96e66cee1dff03713fd2a4d279da0ccff7b34659646886acc",
+      "submitted_at": "2023-03-30T02:18:51Z",
+      "updated_at": "2023-03-30T02:18:51Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2303.17100v1"
+    }
+  },
+  "note": "First published: 2023-03-30; Recorded arXiv version: v1; Recorded version updated: 2023-03-30T02:18:51Z.",
+  "author": [
+    {
+      "literal": "Zequn Cao"
+    },
+    {
+      "literal": "Xiaoheng Deng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        3,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2303.17100",
+  "genre": "preprint",
+  "version": "1"
+}

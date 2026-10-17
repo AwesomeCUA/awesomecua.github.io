@@ -16,9 +16,16 @@ Bibliographic record for Coffee: Boost Your Code LLMs by Fixing Bugs with Feedba
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-07215/record.json
+
 ## Authors
 
 Seungjun Moon, Hyungjoo Chae, Yongho Song, Taeyoon Kwon, Dongjin Kang, Kai Tzu-iunn Ong, Seung-won Hwang, Jinyoung Yeo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-07215/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-07215/citation.csl.json
 
 ## Recorded arXiv snapshot
 

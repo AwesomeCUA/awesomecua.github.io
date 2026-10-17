@@ -16,9 +16,16 @@ InfraMind explores industrial management GUIs using virtual-machine snapshots an
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-13704/record.json
+
 ## Authors
 
 Liangtao Lin, Zhaomeng Zhu, Tianwei Zhang, Yonggang Wen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-13704/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-13704/citation.csl.json
 
 ## Recorded arXiv snapshot
 

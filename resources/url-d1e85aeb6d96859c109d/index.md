@@ -16,6 +16,8 @@ The outcome-supervision checkpoint used by WebRL to score browser trajectories d
 
 The official API resolves the former THUDM namespace to zai-org and lists four safetensors shards. No model card or weight-license declaration is present in the inspected manifest. The official WebRL README identifies this as its outcome-supervised reward model; it is a training component rather than an action policy.
 
+- Record JSON: https://awesomecua.github.io/resources/url-d1e85aeb6d96859c109d/record.json
+
 ## License declarations
 
 - code: not recorded

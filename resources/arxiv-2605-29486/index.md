@@ -16,9 +16,16 @@ Bibliographic record for PhoneWorld: From Real-App Trajectories to Dynamic and V
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-29486/record.json
+
 ## Authors
 
 Yuxuan Liu, Xin Lai, Junyi Li, Pengyuan Lyu, Jason, Yiduo Guo, Zhengyao Fang, Yang Ding, Yi Zhang, Weinong Wang, Huawen Shen, Xingran Zhou, Liang Wu, Fei Tang, Sunqi Fan, Shangpin Peng, Zheng Ruan, Anran Zhang, Chengquan Zhang, Han Hu, Benyou Wang, Ji-Rong Wen, Rui Yan, Zhengyang Tang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-29486/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-29486/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2607.26041",
+  "citation-key": "arxiv_2607_26041",
+  "type": "article",
+  "title": "Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?",
+  "URL": "https://arxiv.org/abs/2607.26041v2",
+  "custom": {
+    "catalog_id": "arxiv:2607.26041",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2607.26041",
+    "identifiers": {
+      "arxiv": "2607.26041"
+    },
+    "first_published_at": "2026-07-28",
+    "record_updated_at": "2026-07-29",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "352c892a52692301e14125e126a52508feb39ef7cd034d7cb0c48a27fb54b8ac",
+      "submitted_at": "2026-07-28T17:49:51Z",
+      "updated_at": "2026-07-29T19:07:50Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2607.26041v2"
+    }
+  },
+  "note": "First published: 2026-07-28; Recorded arXiv version: v2; Recorded version updated: 2026-07-29T19:07:50Z.",
+  "author": [
+    {
+      "literal": "Abhishek Pillai"
+    },
+    {
+      "literal": "Samir Kumar Nayak"
+    },
+    {
+      "literal": "Yuan Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.26041",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Toolformer: Language Models Can Teach Themselves to Use
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2302-04761/record.json
+
 ## Authors
 
 Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2302-04761/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2302-04761/citation.csl.json
 
 ## Recorded arXiv snapshot
 

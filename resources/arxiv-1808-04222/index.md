@@ -16,9 +16,16 @@ Bibliographic record for Addressing Client Needs for Cloud Computing using Forma
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1808-04222/record.json
+
 ## Authors
 
 Andreea Buga, Sorana Tania Nemes, Atif Mashkoor
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1808-04222/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1808-04222/citation.csl.json
 
 ## Recorded arXiv snapshot
 

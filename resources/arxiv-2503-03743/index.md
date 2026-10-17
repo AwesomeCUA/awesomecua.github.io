@@ -16,9 +16,16 @@ Uses human-planned subtasks to constrain and refine the intermediate plans conne
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-03743/record.json
+
 ## Authors
 
 Yuqi Zhou, Shuai Wang, Sunhao Dai, Qinglin Jia, Zhaocheng Du, Zhenhua Dong, Jun Xu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-03743/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-03743/citation.csl.json
 
 ## Recorded arXiv snapshot
 

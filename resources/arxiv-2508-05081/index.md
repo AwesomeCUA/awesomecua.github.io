@@ -16,9 +16,16 @@ Bibliographic record for Cognitive Duality for Adaptive Web Agents. Title, autho
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-05081/record.json
+
 ## Authors
 
 Jiarun Liu, Chunhong Zhang, Zheng Hu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-05081/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-05081/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Trains web agents through asynchronous multi-turn environment interaction, using
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-16421/record.json
+
 ## Authors
 
 Zhepei Wei, Wenlin Yao, Yao Liu, Weizhi Zhang, Qin Lu, Liang Qiu, Changlong Yu, Puyang Xu, Chao Zhang, Bing Yin, Hyokun Yun, Lihong Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-16421/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-16421/citation.csl.json
 
 ## Recorded arXiv snapshot
 

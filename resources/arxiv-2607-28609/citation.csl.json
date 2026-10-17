@@ -1,0 +1,112 @@
+{
+  "id": "arxiv:2607.28609",
+  "citation-key": "arxiv_2607_28609",
+  "type": "article",
+  "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
+  "URL": "https://arxiv.org/abs/2607.28609v2",
+  "custom": {
+    "catalog_id": "arxiv:2607.28609",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2607.28609",
+    "identifiers": {
+      "arxiv": "2607.28609"
+    },
+    "first_published_at": "2026-07-30",
+    "record_updated_at": "2026-08-06",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e3e82df7abffbd0c8f7e969ed8edb77423263a2b1d826a3e72529b0a51903d58",
+      "submitted_at": "2026-07-30T17:57:41Z",
+      "updated_at": "2026-08-06T17:55:59Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2607.28609v2"
+    }
+  },
+  "note": "First published: 2026-07-30; Recorded arXiv version: v2; Recorded version updated: 2026-08-06T17:55:59Z.",
+  "author": [
+    {
+      "literal": "Qiushi Sun"
+    },
+    {
+      "literal": "Kanzhi Cheng"
+    },
+    {
+      "literal": "Yian Wang"
+    },
+    {
+      "literal": "Bowen Yang"
+    },
+    {
+      "literal": "Hang Yan"
+    },
+    {
+      "literal": "Liheng Chen"
+    },
+    {
+      "literal": "Fangzhi Xu"
+    },
+    {
+      "literal": "Zichen Ding"
+    },
+    {
+      "literal": "Nuo Chen"
+    },
+    {
+      "literal": "Jialin Cao"
+    },
+    {
+      "literal": "Xingdong Gong"
+    },
+    {
+      "literal": "Zehao Li"
+    },
+    {
+      "literal": "Kaiming Jin"
+    },
+    {
+      "literal": "Xinfeng Yuan"
+    },
+    {
+      "literal": "Zhoumianze Liu"
+    },
+    {
+      "literal": "Jingyang Gong"
+    },
+    {
+      "literal": "Zhangyue Yin"
+    },
+    {
+      "literal": "Jiahui Gao"
+    },
+    {
+      "literal": "Zhiyong Wu"
+    },
+    {
+      "literal": "Tianbao Xie"
+    },
+    {
+      "literal": "Jianbing Zhang"
+    },
+    {
+      "literal": "Ben Kao"
+    },
+    {
+      "literal": "Lingpeng Kong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.28609",
+  "genre": "preprint",
+  "version": "2"
+}

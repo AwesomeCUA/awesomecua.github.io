@@ -16,9 +16,16 @@ StakeBench evaluates prompt-injection harm to different stakeholders in shopping
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-13385/record.json
+
 ## Authors
 
 Zihao Wang, Yiming Li, Yutong Wu, Kangjie Chen, Zheyu Liu, Fok Kar Wai, Pin-Yu Chen, Vrizlynn L. L. Thing, Bo Li, Dacheng Tao, Tianwei Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-13385/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-13385/citation.csl.json
 
 ## Recorded arXiv snapshot
 

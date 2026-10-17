@@ -16,9 +16,16 @@ Bibliographic record for VideoAgent: Personalized Synthesis of Scientific Videos
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-11253/record.json
+
 ## Authors
 
 Xiao Liang, Bangxin Li, Zixuan Chen, Hanyue Zheng, Zhi Ma, Di Wang, Cong Tian, Quan Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-11253/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-11253/citation.csl.json
 
 ## Recorded arXiv snapshot
 

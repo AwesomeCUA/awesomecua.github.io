@@ -16,9 +16,16 @@ Bibliographic record for AUTO-Explorer: Automated Data Collection for GUI Agent.
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-06417/record.json
+
 ## Authors
 
 Xiangwu Guo, Difei Gao, Mike Zheng Shou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-06417/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-06417/citation.csl.json
 
 ## Recorded arXiv snapshot
 

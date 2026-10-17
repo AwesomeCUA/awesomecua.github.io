@@ -1,0 +1,66 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "access": "publisher-managed",
+    "availability": "not independently tested",
+    "pricing_url": null
+  },
+  "environments": [
+    "web",
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:38:27Z",
+      "role": "primary",
+      "sha256": "fb3b4dbc435158c256abae36cf092172284c4d6fd53fa556499cb7b0730a5bc6",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://openai.com/index/introducing-chatgpt-agent/"
+    }
+  ],
+  "id": "url:b074ccdb2d9ec0277b65",
+  "identifiers": {},
+  "kind": "product",
+  "last_verified_at": "2026-10-16T06:38:27Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://openai.com/index/introducing-chatgpt-agent/"
+    }
+  ],
+  "name": "ChatGPT Agent",
+  "notes": "The launch page identifies itself as outdated. This entry records the product introduction, not current availability, limits, or pricing.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://openai.com/index/introducing-chatgpt-agent/",
+      "target_id": "organization:openai",
+      "type": "published_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Hosted agent combining browser interaction, tools, and computer-based tasks.",
+  "topics": [
+    "workflow"
+  ],
+  "updated_at": null,
+  "url": "https://openai.com/index/introducing-chatgpt-agent/"
+}

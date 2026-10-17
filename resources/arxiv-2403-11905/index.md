@@ -16,9 +16,16 @@ Evaluates web agents on multimodal annotation tasks adapted from HTML interfaces
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-11905/record.json
+
 ## Authors
 
 Kevin Xu, Yeganeh Kordi, Tanay Nayak, Adi Asija, Yizhong Wang, Kate Sanders, Adam Byerly, Jingyu Zhang, Benjamin Van Durme, Daniel Khashabi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-11905/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-11905/citation.csl.json
 
 ## Recorded arXiv snapshot
 

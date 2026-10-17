@@ -1,0 +1,172 @@
+{
+  "id": "arxiv:2609.12394",
+  "citation-key": "arxiv_2609_12394",
+  "type": "article",
+  "title": "BlueLM-GUI Technical Report: A Real-Device-Centric Flywheel for Self-Improving Mobile GUI Agents",
+  "URL": "https://arxiv.org/abs/2609.12394v3",
+  "custom": {
+    "catalog_id": "arxiv:2609.12394",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.12394",
+    "identifiers": {
+      "arxiv": "2609.12394"
+    },
+    "first_published_at": "2026-09-11",
+    "record_updated_at": "2026-09-15",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cc15573bca49d453001ec22061f190e429704a5318751b041550e3610c469f4e",
+      "submitted_at": "2026-09-11T03:36:35Z",
+      "updated_at": "2026-09-15T06:36:04Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2609.12394v3"
+    }
+  },
+  "note": "First published: 2026-09-11; Recorded arXiv version: v3; Recorded version updated: 2026-09-15T06:36:04Z.",
+  "author": [
+    {
+      "literal": "Tong Ye"
+    },
+    {
+      "literal": "Kunyang Han"
+    },
+    {
+      "literal": "Guozhi Wang"
+    },
+    {
+      "literal": "Longqiang Luo"
+    },
+    {
+      "literal": "Zhifeng Ding"
+    },
+    {
+      "literal": "Yongxiang Zhang"
+    },
+    {
+      "literal": "Xiaolei Shen"
+    },
+    {
+      "literal": "Yuxuan Zhang"
+    },
+    {
+      "literal": "Zhuping Zhang"
+    },
+    {
+      "literal": "Tao Xu"
+    },
+    {
+      "literal": "Yue Pan"
+    },
+    {
+      "literal": "Yucheng Zhao"
+    },
+    {
+      "literal": "Yupei Hu"
+    },
+    {
+      "literal": "Yuanjiang Ouyang"
+    },
+    {
+      "literal": "Danfeng Shen"
+    },
+    {
+      "literal": "Runqi Lin"
+    },
+    {
+      "literal": "Hongda Cai"
+    },
+    {
+      "literal": "Zhaoxiong Wang"
+    },
+    {
+      "literal": "Mengjia Yan"
+    },
+    {
+      "literal": "Yingjie Zhong"
+    },
+    {
+      "literal": "Chen Zhou"
+    },
+    {
+      "literal": "Zeyu Zhang"
+    },
+    {
+      "literal": "Xuwen Zhu"
+    },
+    {
+      "literal": "Penggang Shi"
+    },
+    {
+      "literal": "Mingcheng Luo"
+    },
+    {
+      "literal": "Ziyang Wu"
+    },
+    {
+      "literal": "Min Jin"
+    },
+    {
+      "literal": "Mingfu Shen"
+    },
+    {
+      "literal": "Zairong Xu"
+    },
+    {
+      "literal": "Fan Zhang"
+    },
+    {
+      "literal": "Hao Wang"
+    },
+    {
+      "literal": "Liang Liu"
+    },
+    {
+      "literal": "Zhulin Xie"
+    },
+    {
+      "literal": "Lijun Yao"
+    },
+    {
+      "literal": "Xiao Liang"
+    },
+    {
+      "literal": "Liangmin Wen"
+    },
+    {
+      "literal": "Liqiang Feng"
+    },
+    {
+      "literal": "Feilong Wu"
+    },
+    {
+      "literal": "Min Hu"
+    },
+    {
+      "literal": "Min Chen"
+    },
+    {
+      "literal": "Guanjing Xiong"
+    },
+    {
+      "literal": "Xiaohu Ruan"
+    },
+    {
+      "literal": "Xiaoxin Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.12394",
+  "genre": "preprint",
+  "version": "3"
+}

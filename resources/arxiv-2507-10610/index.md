@@ -16,9 +16,16 @@ Bibliographic record for LaSM: Layer-wise Scaling Mechanism for Defending Pop-up
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-10610/record.json
+
 ## Authors
 
 Zihe Yan, Jiaping Gui, Zhuosheng Zhang, Gongshen Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-10610/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-10610/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2609.12404",
+  "citation-key": "arxiv_2609_12404",
+  "type": "article",
+  "title": "VRL-Bench: Benchmarking agents on computer control tasks under finite trial budgets",
+  "URL": "https://arxiv.org/abs/2609.12404v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.12404",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.12404",
+    "identifiers": {
+      "arxiv": "2609.12404"
+    },
+    "first_published_at": "2026-09-11",
+    "record_updated_at": "2026-09-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ff3b4cec8066a54cd58a6d4dd2b245536fa36a3157622565dc0b69ae7eb151f6",
+      "submitted_at": "2026-09-11T03:54:02Z",
+      "updated_at": "2026-09-11T03:54:02Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.12404v1"
+    }
+  },
+  "note": "First published: 2026-09-11; Recorded arXiv version: v1; Recorded version updated: 2026-09-11T03:54:02Z.",
+  "author": [
+    {
+      "literal": "Yu Bai"
+    },
+    {
+      "literal": "Yukai Miao"
+    },
+    {
+      "literal": "Dawei Wang"
+    },
+    {
+      "literal": "Li Chen"
+    },
+    {
+      "literal": "Yanyu Ren"
+    },
+    {
+      "literal": "Yuqian Shi"
+    },
+    {
+      "literal": "Dan Li"
+    },
+    {
+      "literal": "Ying Xiong"
+    },
+    {
+      "literal": "Chengqiu Tan"
+    },
+    {
+      "literal": "Run Zhou"
+    },
+    {
+      "literal": "Li Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.12404",
+  "genre": "preprint",
+  "version": "1"
+}

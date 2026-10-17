@@ -16,9 +16,16 @@ Bibliographic record for M2A: Multimodal Memory Agent with Dual-Layer Hybrid Mem
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-07624/record.json
+
 ## Authors
 
 Junyu Feng, Binxiao Xu, Jiayi Chen, Mengyu Dai, Cenyang Wu, Haodong Li, Bohan Zeng, Yunliu Xie, Hao Liang, Ming Lu, Wentao Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-07624/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-07624/citation.csl.json
 
 ## Recorded arXiv snapshot
 

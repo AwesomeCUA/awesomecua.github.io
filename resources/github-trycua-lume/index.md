@@ -16,6 +16,8 @@ Virtual machine management for local computer-use environments.
 
 Lume is a component of the Cua repository. The legacy repository URL now serves the Cua monorepo README; counted as a component, not an independent project.
 
+- Record JSON: https://awesomecua.github.io/resources/github-trycua-lume/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/trycua/lume/HEAD/LICENSE.md

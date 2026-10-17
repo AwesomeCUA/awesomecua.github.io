@@ -16,9 +16,16 @@ Bibliographic record for The Tool Illusion: Rethinking Tool Use in Web Agents. T
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-03465/record.json
+
 ## Authors
 
 Renze Lou, Baolin Peng, Wenlin Yao, Qianhui Wu, Hao Cheng, Suman Nath, Wenpeng Yin, Jianfeng Gao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-03465/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-03465/citation.csl.json
 
 ## Recorded arXiv snapshot
 

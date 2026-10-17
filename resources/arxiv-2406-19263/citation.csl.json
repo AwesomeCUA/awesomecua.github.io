@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2406.19263",
+  "citation-key": "arxiv_2406_19263",
+  "type": "article",
+  "title": "Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding",
+  "URL": "https://arxiv.org/abs/2406.19263v2",
+  "custom": {
+    "catalog_id": "arxiv:2406.19263",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2406.19263",
+    "identifiers": {
+      "arxiv": "2406.19263"
+    },
+    "first_published_at": "2024-06-27",
+    "record_updated_at": "2024-10-25",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0c86d68b5c3486b099f64792d5d3290d79e25b7c82c6eb2402869b893bb22fea",
+      "submitted_at": "2024-06-27T15:34:16Z",
+      "updated_at": "2024-10-25T18:16:21Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2406.19263v2"
+    }
+  },
+  "note": "First published: 2024-06-27; Recorded arXiv version: v2; Recorded version updated: 2024-10-25T18:16:21Z.",
+  "author": [
+    {
+      "literal": "Yue Fan"
+    },
+    {
+      "literal": "Lei Ding"
+    },
+    {
+      "literal": "Ching-Chen Kuo"
+    },
+    {
+      "literal": "Shan Jiang"
+    },
+    {
+      "literal": "Yang Zhao"
+    },
+    {
+      "literal": "Xinze Guan"
+    },
+    {
+      "literal": "Jie Yang"
+    },
+    {
+      "literal": "Yi Zhang"
+    },
+    {
+      "literal": "Xin Eric Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.19263",
+  "genre": "preprint",
+  "version": "2"
+}

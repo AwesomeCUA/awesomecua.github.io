@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2605.15030",
+  "citation-key": "arxiv_2605_15030",
+  "type": "article",
+  "title": "WARD: Adversarially Robust Defense of Web Agents Against Prompt Injections",
+  "URL": "https://arxiv.org/abs/2605.15030v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.15030",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.15030",
+    "identifiers": {
+      "arxiv": "2605.15030"
+    },
+    "first_published_at": "2026-05-14",
+    "record_updated_at": "2026-05-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "618a914bb7605cc542b748e682166d7456221bccc38fcbe43c66ced6c3321832",
+      "submitted_at": "2026-05-14T16:26:27Z",
+      "updated_at": "2026-05-14T16:26:27Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.15030v1"
+    }
+  },
+  "note": "First published: 2026-05-14; Recorded arXiv version: v1; Recorded version updated: 2026-05-14T16:26:27Z.",
+  "author": [
+    {
+      "literal": "Tri Cao"
+    },
+    {
+      "literal": "Yulin Chen"
+    },
+    {
+      "literal": "Hieu Cao"
+    },
+    {
+      "literal": "Yibo Li"
+    },
+    {
+      "literal": "Khoi Le"
+    },
+    {
+      "literal": "Thong Nguyen"
+    },
+    {
+      "literal": "Yuexin Li"
+    },
+    {
+      "literal": "Yufei He"
+    },
+    {
+      "literal": "Yue Liu"
+    },
+    {
+      "literal": "Shuicheng Yan"
+    },
+    {
+      "literal": "Bryan Hooi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.15030",
+  "genre": "preprint",
+  "version": "1"
+}

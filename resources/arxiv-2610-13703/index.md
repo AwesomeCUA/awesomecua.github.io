@@ -16,9 +16,16 @@ Presents MASTIF, a framework for comparing combinations of agent models, protoco
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-13703/record.json
+
 ## Authors
 
 Vagner Figueredo de Santana, Diogo Cortiz
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-13703/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-13703/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2510.05096",
+  "citation-key": "arxiv_2510_05096",
+  "type": "article",
+  "title": "Paper2Video: Automatic Video Generation from Scientific Papers",
+  "URL": "https://arxiv.org/abs/2510.05096v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.05096",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.05096",
+    "identifiers": {
+      "arxiv": "2510.05096"
+    },
+    "first_published_at": "2025-10-06",
+    "record_updated_at": "2025-10-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "285fbce93418796cc9a7e8452a6070af04bb603d7af07bc963e93f1d1492589e",
+      "submitted_at": "2025-10-06T17:58:02Z",
+      "updated_at": "2025-10-09T17:29:00Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.05096v2"
+    }
+  },
+  "note": "First published: 2025-10-06; Recorded arXiv version: v2; Recorded version updated: 2025-10-09T17:29:00Z.",
+  "author": [
+    {
+      "literal": "Zeyu Zhu"
+    },
+    {
+      "literal": "Kevin Qinghong Lin"
+    },
+    {
+      "literal": "Mike Zheng Shou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.05096",
+  "genre": "preprint",
+  "version": "2"
+}

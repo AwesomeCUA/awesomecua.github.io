@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2310.19805",
+  "citation-key": "arxiv_2310_19805",
+  "type": "article",
+  "title": "Improving Offline-to-Online Reinforcement Learning with Q Conditioned State Entropy Exploration",
+  "URL": "https://arxiv.org/abs/2310.19805v4",
+  "custom": {
+    "catalog_id": "arxiv:2310.19805",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2310.19805",
+    "identifiers": {
+      "arxiv": "2310.19805"
+    },
+    "first_published_at": "2023-10-07",
+    "record_updated_at": "2024-05-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4d7f807c9709dabd17873c2ced6dacac16b7dd4377fd19e3ac8132ca23f7c869",
+      "submitted_at": "2023-10-07T00:02:05Z",
+      "updated_at": "2024-05-28T07:57:57Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2310.19805v4"
+    }
+  },
+  "note": "First published: 2023-10-07; Recorded arXiv version: v4; Recorded version updated: 2024-05-28T07:57:57Z.",
+  "author": [
+    {
+      "literal": "Ziqi Zhang"
+    },
+    {
+      "literal": "Xiao Xiong"
+    },
+    {
+      "literal": "Zifeng Zhuang"
+    },
+    {
+      "literal": "Jinxin Liu"
+    },
+    {
+      "literal": "Donglin Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2310.19805",
+  "genre": "preprint",
+  "version": "4"
+}

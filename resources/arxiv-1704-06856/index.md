@@ -16,9 +16,16 @@ Bibliographic record for CAD Adjacency Computation Using Validated Numerics. Tit
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1704-06856/record.json
+
 ## Authors
 
 Adam Strzebonski
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1704-06856/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1704-06856/citation.csl.json
 
 ## Recorded arXiv snapshot
 

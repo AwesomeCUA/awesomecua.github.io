@@ -16,9 +16,16 @@ Bibliographic record for Can GPT-O1 Kill All Bugs? An Evaluation of GPT-Family L
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-10033/record.json
+
 ## Authors
 
 Haichuan Hu, Ye Shang, Guolin Xu, Congqing He, Quanjun Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-10033/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-10033/citation.csl.json
 
 ## Recorded arXiv snapshot
 

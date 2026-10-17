@@ -16,6 +16,8 @@ NNetNav's WebArena-oriented browser-interaction data release, with separate trai
 
 The Hub card supplies a license but no detailed schema. Dataset purpose is supported by the project's README; exact sample counts and annotation quality remain unverified.
 
+- Record JSON: https://awesomecua.github.io/resources/url-25a4d0ab29b60250863a/record.json
+
 ## License declarations
 
 - code: not recorded

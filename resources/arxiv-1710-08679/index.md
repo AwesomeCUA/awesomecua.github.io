@@ -16,9 +16,16 @@ Bibliographic record for Implicit Low-Order Unstructured Finite-Element Multiple
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1710-08679/record.json
+
 ## Authors
 
 Takuma Yamaguchi, Kohei Fujita, Tsuyoshi Ichimura, Muneo Hori, Maddegedara Lalith, Kengo Nakajima
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1710-08679/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1710-08679/citation.csl.json
 
 ## Recorded arXiv snapshot
 

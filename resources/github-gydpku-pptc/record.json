@@ -1,0 +1,81 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "metrics": [],
+    "task_count": null
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T10:42:12Z",
+      "role": "primary",
+      "sha256": "63349e7557bd99240d4628de3994a53b69e54e3bd809895be11e9879bfba40cb",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/gydpku/PPTC/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T10:48:41Z",
+      "role": "primary",
+      "sha256": "f872ff2b1a064f46a45eee86f2cb2562fc0513285b80036c6cf7df9a5ffc6c70",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/gydpku/PPTC/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:gydpku/pptc",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-16T10:42:12Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-16T10:48:41Z",
+      "url": "https://raw.githubusercontent.com/gydpku/PPTC/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/gydpku/PPTC"
+    }
+  ],
+  "name": "PPTC",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/gydpku/PPTC/HEAD/README.md",
+      "target_id": "arxiv:2311.01767",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "adjacent",
+  "summary": "PowerPoint creation and editing benchmark with API-based execution and checks of the resulting presentation files.",
+  "topics": [
+    "evaluation",
+    "tool-integration"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/gydpku/PPTC"
+}

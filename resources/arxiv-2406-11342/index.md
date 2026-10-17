@@ -16,9 +16,16 @@ Bibliographic record for KAOS: Large Model Multi-Agent Operating System. Title, 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-11342/record.json
+
 ## Authors
 
 Zhao Zhuo, Rongzhen Li, Kai Liu, Huhai Zou, KaiMao Li, Jie Yu, Tianhao Sun, Qingbo Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-11342/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-11342/citation.csl.json
 
 ## Recorded arXiv snapshot
 

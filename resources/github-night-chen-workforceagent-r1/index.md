@@ -16,6 +16,8 @@ Web-task reward functions, WorkArena data processing and GRPO training configura
 
 The release contains WorkArena preprocessing and training source. The inspected root has no explicit project license; dependencies retain their own terms. Although the README discusses trained 7B/14B models, it does not provide a verified checkpoint release, so this is cataloged only as a framework.
 
+- Record JSON: https://awesomecua.github.io/resources/github-night-chen-workforceagent-r1/record.json
+
 ## License declarations
 
 - code: not recorded

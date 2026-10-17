@@ -16,9 +16,16 @@ Bibliographic record for Can Visual Input Be Compressed? A Visual Token Compress
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-02650/record.json
+
 ## Authors
 
 Tianfan Peng, Yuntao Du, Pengzhou Ji, Shijie Dong, Kailin Jiang, Mingchuan Ma, Yijun Tian, Jinhe Bi, Qian Li, Wei Du, Feng Xiao, Lizhen Cui
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-02650/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-02650/citation.csl.json
 
 ## Recorded arXiv snapshot
 

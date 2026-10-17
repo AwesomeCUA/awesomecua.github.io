@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:1811.01677",
+  "citation-key": "arxiv_1811_01677",
+  "type": "article",
+  "title": "Transfer entropy computation using the Perron-Frobenius operator",
+  "URL": "https://arxiv.org/abs/1811.01677v2",
+  "custom": {
+    "catalog_id": "arxiv:1811.01677",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1811.01677",
+    "identifiers": {
+      "arxiv": "1811.01677"
+    },
+    "first_published_at": "2018-11-05",
+    "record_updated_at": "2019-04-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "22296e71f90e80313a34388538d7db35e8a7ba1a438afcf7357dbf303b7a8f0c",
+      "submitted_at": "2018-11-05T13:40:47Z",
+      "updated_at": "2019-04-02T16:25:17Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/1811.01677v2"
+    }
+  },
+  "note": "First published: 2018-11-05; Recorded arXiv version: v2; Recorded version updated: 2019-04-02T16:25:17Z.",
+  "author": [
+    {
+      "literal": "David Diego"
+    },
+    {
+      "literal": "Kristian Agasøster Haaga"
+    },
+    {
+      "literal": "Bjarte Hannisdal"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        11,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1811.01677",
+  "genre": "preprint",
+  "version": "2"
+}

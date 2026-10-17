@@ -16,6 +16,8 @@ Model and data resources for GUI grounding.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-ariaui-aria-ui/record.json
+
 ## License declarations
 
 - code: not recorded

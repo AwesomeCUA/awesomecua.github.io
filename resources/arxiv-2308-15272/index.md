@@ -16,9 +16,16 @@ Combines language-model reasoning with app analysis, UI representations, and exp
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2308-15272/record.json
+
 ## Authors
 
 Hao Wen, Yuanchun Li, Guohong Liu, Shanhui Zhao, Tao Yu, Toby Jia-Jun Li, Shiqi Jiang, Yunhao Liu, Yaqin Zhang, Yunxin Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2308-15272/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2308-15272/citation.csl.json
 
 ## Recorded arXiv snapshot
 

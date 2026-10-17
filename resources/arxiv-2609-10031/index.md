@@ -16,9 +16,16 @@ Bibliographic record for GraphDroid: Asynchronous LLM-Based Mobile App GUI Testi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-10031/record.json
+
 ## Authors
 
 Xiaolei Li, Jialun Cao, Zhijian Hou, Yuzhi Zhao, Yepang Liu, Shing-Chi Cheung
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-10031/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-10031/citation.csl.json
 
 ## Recorded arXiv snapshot
 

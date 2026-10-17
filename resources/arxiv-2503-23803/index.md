@@ -16,9 +16,16 @@ Bibliographic record for Thinking Longer, Not Larger: Enhancing Software Enginee
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-23803/record.json
+
 ## Authors
 
 Yingwei Ma, Yongbin Li, Yihong Dong, Xue Jiang, Rongyu Cao, Jue Chen, Fei Huang, Binhua Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-23803/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-23803/citation.csl.json
 
 ## Recorded arXiv snapshot
 

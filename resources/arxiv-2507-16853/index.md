@@ -16,9 +16,16 @@ MobileUse reflects on errors at action and task timescales, invoking reflection 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-16853/record.json
+
 ## Authors
 
 Ning Li, Xiangmou Qu, Jiamu Zhou, Jun Wang, Muning Wen, Kounianhua Du, Xingyu Lou, Qiuying Peng, Jun Wang, Weinan Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-16853/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-16853/citation.csl.json
 
 ## Recorded arXiv snapshot
 

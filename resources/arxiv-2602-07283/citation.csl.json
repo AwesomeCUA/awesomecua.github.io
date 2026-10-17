@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2602.07283",
+  "citation-key": "arxiv_2602_07283",
+  "type": "article",
+  "title": "Mapping the Design Space of User Experience for Computer Use Agents",
+  "URL": "https://arxiv.org/abs/2602.07283v1",
+  "custom": {
+    "catalog_id": "arxiv:2602.07283",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2602.07283",
+    "identifiers": {
+      "arxiv": "2602.07283"
+    },
+    "first_published_at": "2026-02-07",
+    "record_updated_at": "2026-02-07",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d556ebbfbf4fc5875395b449a92b8ff27a7ed59d41bc062ac60fcf175f9064f8",
+      "submitted_at": "2026-02-07T00:19:08Z",
+      "updated_at": "2026-02-07T00:19:08Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2602.07283v1"
+    }
+  },
+  "note": "First published: 2026-02-07; Recorded arXiv version: v1; Recorded version updated: 2026-02-07T00:19:08Z.",
+  "author": [
+    {
+      "literal": "Ruijia Cheng"
+    },
+    {
+      "literal": "Jenny T. Liang"
+    },
+    {
+      "literal": "Eldon Schoop"
+    },
+    {
+      "literal": "Jeffrey Nichols"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.07283",
+  "genre": "preprint",
+  "version": "1"
+}

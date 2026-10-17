@@ -16,9 +16,16 @@ Evaluates language agents across eight interactive environments and analyzes fai
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2308-03688/record.json
+
 ## Authors
 
 Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hangliang Ding, Kaiwen Men, Kejuan Yang, Shudan Zhang, Xiang Deng, Aohan Zeng, Zhengxiao Du, Chenhui Zhang, Sheng Shen, Tianjun Zhang, Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2308-03688/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2308-03688/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,6 +16,8 @@ Evaluation environment combining computer interaction with tool access.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-saagent-mcpworld/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/SAAgent/MCPWorld/HEAD/LICENSE

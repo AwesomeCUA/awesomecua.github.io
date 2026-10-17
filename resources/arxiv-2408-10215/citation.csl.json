@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2408.10215",
+  "citation-key": "arxiv_2408_10215",
+  "type": "article",
+  "title": "Comprehensive Overview of Reward Engineering and Shaping in Advancing Reinforcement Learning Applications",
+  "URL": "https://arxiv.org/abs/2408.10215v2",
+  "custom": {
+    "catalog_id": "arxiv:2408.10215",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2408.10215",
+    "identifiers": {
+      "arxiv": "2408.10215"
+    },
+    "first_published_at": "2024-07-22",
+    "record_updated_at": "2024-12-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "505e6d795d5e3c1f6837351f66e39b4d1b7bda0c54607837e978ce6bed3c75e2",
+      "submitted_at": "2024-07-22T09:28:12Z",
+      "updated_at": "2024-12-27T19:25:58Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2408.10215v2"
+    }
+  },
+  "note": "First published: 2024-07-22; Recorded arXiv version: v2; Recorded version updated: 2024-12-27T19:25:58Z.",
+  "author": [
+    {
+      "literal": "Sinan Ibrahim"
+    },
+    {
+      "literal": "Mostafa Mostafa"
+    },
+    {
+      "literal": "Ali Jnadi"
+    },
+    {
+      "literal": "Hadi Salloum"
+    },
+    {
+      "literal": "Pavel Osinenko"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2408.10215",
+  "genre": "preprint",
+  "version": "2"
+}

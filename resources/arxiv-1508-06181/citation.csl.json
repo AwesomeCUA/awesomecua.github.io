@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:1508.06181",
+  "citation-key": "arxiv_1508_06181",
+  "type": "article",
+  "title": "PolyDepth: Real-time Penetration Depth Computation using Iterative Contact-Space Projection",
+  "URL": "https://arxiv.org/abs/1508.06181v1",
+  "custom": {
+    "catalog_id": "arxiv:1508.06181",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1508.06181",
+    "identifiers": {
+      "arxiv": "1508.06181"
+    },
+    "first_published_at": "2015-08-25",
+    "record_updated_at": "2015-08-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8e846aba6270a7f2cfdb29e9cdba2a015282e8ba0a16077c036bb4c6b32843fa",
+      "submitted_at": "2015-08-25T15:01:47Z",
+      "updated_at": "2015-08-25T15:01:47Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1508.06181v1"
+    }
+  },
+  "note": "First published: 2015-08-25; Recorded arXiv version: v1; Recorded version updated: 2015-08-25T15:01:47Z.",
+  "author": [
+    {
+      "literal": "Changsoo Je"
+    },
+    {
+      "literal": "Min Tang"
+    },
+    {
+      "literal": "Youngeun Lee"
+    },
+    {
+      "literal": "Minkyoung Lee"
+    },
+    {
+      "literal": "Young J. Kim"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2015,
+        8,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1508.06181",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Bibliographic record for AdaPlanner: Adaptive Planning from Feedback with Langua
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2305-16653/record.json
+
 ## Authors
 
 Haotian Sun, Yuchen Zhuang, Lingkai Kong, Bo Dai, Chao Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2305-16653/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-16653/citation.csl.json
 
 ## Recorded arXiv snapshot
 

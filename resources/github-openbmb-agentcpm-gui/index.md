@@ -16,6 +16,8 @@ GUI agent model with a focus on mobile interaction.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-openbmb-agentcpm-gui/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/OpenBMB/AgentCPM-GUI/HEAD/LICENSE

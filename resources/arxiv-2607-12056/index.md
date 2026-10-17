@@ -16,9 +16,16 @@ Bibliographic record for Designing Agent-Ready Websites for AI Web Agents: A Fra
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-12056/record.json
+
 ## Authors
 
 Said Elnaffar, Farzad Rashidi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-12056/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-12056/citation.csl.json
 
 ## Recorded arXiv snapshot
 

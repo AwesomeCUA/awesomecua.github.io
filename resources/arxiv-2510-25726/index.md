@@ -16,9 +16,16 @@ Bibliographic record for The Tool Decathlon: Benchmarking Language Agents for Di
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-25726/record.json
+
 ## Authors
 
 Junlong Li, Wenshuo Zhao, Jian Zhao, Weihao Zeng, Haoze Wu, Xiaochen Wang, Rui Ge, Yuxuan Cao, Yuzhen Huang, Wei Liu, Junteng Liu, Zhaochen Su, Yiyang Guo, Fan Zhou, Lueyang Zhang, Juan Michelini, Xingyao Wang, Xiang Yue, Shuyan Zhou, Graham Neubig, Junxian He
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-25726/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-25726/citation.csl.json
 
 ## Recorded arXiv snapshot
 

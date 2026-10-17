@@ -16,6 +16,8 @@ SDK and agent tooling for mobile interaction.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-madeagents-mobile-use/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/MadeAgents/mobile-use/HEAD/LICENSE

@@ -16,6 +16,8 @@ Episode-based mobile GUI grounding data released with Aria-UI for incorporating 
 
 The publisher reports approximately 992K instruction-output pairs in its repository. The Hub card contains only a license declaration; schema quality and exact sample counts were not independently verified.
 
+- Record JSON: https://awesomecua.github.io/resources/url-07b65dc937756ddff4a1/record.json
+
 ## Structured profile
 
 - formats: not recorded

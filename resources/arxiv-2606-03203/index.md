@@ -16,9 +16,16 @@ Bibliographic record for MedCUA-Bench: A Screenshot-Only Benchmark for Clinical 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-03203/record.json
+
 ## Authors
 
 Jia Yu, Zilong Wang, Xinyang Jiang, Dongsheng Li, Shuo Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-03203/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-03203/citation.csl.json
 
 ## Recorded arXiv snapshot
 

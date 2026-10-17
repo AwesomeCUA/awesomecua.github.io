@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2604.12284",
+  "citation-key": "arxiv_2604_12284",
+  "type": "article",
+  "title": "WebAgentGuard: A Reasoning-Driven Guard Model for Detecting Prompt Injection Attacks in Web Agents",
+  "URL": "https://arxiv.org/abs/2604.12284v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.12284",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.12284",
+    "identifiers": {
+      "arxiv": "2604.12284"
+    },
+    "first_published_at": "2026-04-14",
+    "record_updated_at": "2026-04-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "64d4323050a5ad0f7265231337eb22a4c0823cee41587099c8bdc5db6b320dea",
+      "submitted_at": "2026-04-14T04:50:35Z",
+      "updated_at": "2026-04-14T04:50:35Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.12284v1"
+    }
+  },
+  "note": "First published: 2026-04-14; Recorded arXiv version: v1; Recorded version updated: 2026-04-14T04:50:35Z.",
+  "author": [
+    {
+      "literal": "Yulin Chen"
+    },
+    {
+      "literal": "Tri Cao"
+    },
+    {
+      "literal": "Haoran Li"
+    },
+    {
+      "literal": "Yue Liu"
+    },
+    {
+      "literal": "Yibo Li"
+    },
+    {
+      "literal": "Yufei He"
+    },
+    {
+      "literal": "Le Minh Khoi"
+    },
+    {
+      "literal": "Yangqiu Song"
+    },
+    {
+      "literal": "Shuicheng Yan"
+    },
+    {
+      "literal": "Bryan Hooi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.12284",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,95 @@
+{
+  "aliases": [],
+  "authors": [
+    "Gongwei Chen",
+    "Xurui Zhou",
+    "Rui Shao",
+    "Yibo Lyu",
+    "Kaiwen Zhou",
+    "Shuai Wang",
+    "Wentao Li",
+    "Yinchuan Li",
+    "Zhongang Qi",
+    "Liqiang Nie"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "774e2515b563f75d4561daaa6a4b672423d917a3f50e98308ab448e2ae0731e5",
+      "submitted_at": "2025-07-04T17:37:15Z",
+      "updated_at": "2025-07-04T17:37:15Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2507.03730v1"
+    }
+  },
+  "environments": [
+    "web",
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:50Z",
+      "role": "primary",
+      "sha256": "26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:50Z",
+      "role": "primary",
+      "sha256": "26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2507.03730",
+  "identifiers": {
+    "arxiv": "2507.03730"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:50Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2507.03730"
+    }
+  ],
+  "name": "Less is More: Empowering GUI Agent with Context-Aware Simplification",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2025-07-04",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "SimpAgent prunes distracting interface elements with visual masks and compresses interaction history using consistency-based guidance. The study evaluates these two forms of context reduction during GUI navigation in web and mobile environments.",
+  "topics": [
+    "efficiency",
+    "history",
+    "web-navigation",
+    "mobile-navigation"
+  ],
+  "updated_at": "2025-07-04",
+  "url": "https://arxiv.org/abs/2507.03730"
+}

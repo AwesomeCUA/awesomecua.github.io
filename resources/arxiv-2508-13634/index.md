@@ -16,9 +16,16 @@ V2P trains GUI grounding by suppressing attention to background regions and emph
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-13634/record.json
+
 ## Authors
 
 Jikai Chen, Long Chen, Dong Wang, Qinglin Su, Zhixuan Chu, Bingguang Hao, Leilei Gan, Chenyi Zhuang, Jinjie Gu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-13634/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-13634/citation.csl.json
 
 ## Recorded arXiv snapshot
 

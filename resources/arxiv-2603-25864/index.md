@@ -16,9 +16,16 @@ GUIDE evaluates whether models can recognize a user’s behavior, infer intent a
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-25864/record.json
+
 ## Authors
 
 Saelyne Yang, Jaesang Yu, Yi-Hao Peng, Kevin Qinghong Lin, Jae Won Cho, Yale Song, Juho Kim
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-25864/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-25864/citation.csl.json
 
 ## Recorded arXiv snapshot
 

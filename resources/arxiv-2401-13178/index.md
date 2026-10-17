@@ -16,9 +16,16 @@ Bibliographic record for AgentBoard: An Analytical Evaluation Board of Multi-tur
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2401-13178/record.json
+
 ## Authors
 
 Chang Ma, Junlei Zhang, Zhihao Zhu, Cheng Yang, Yujiu Yang, Yaohui Jin, Zhenzhong Lan, Lingpeng Kong, Junxian He
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2401-13178/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-13178/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,6 +16,8 @@ A Qwen2.5-VL checkpoint trained with reinforcement learning for GUI action predi
 
 Two safetensors shards and tokenizer/configuration files are publicly ungated. The model card declares MIT; upstream base-model terms are separate. The mutable card compares v1, v2 and UI-R1-E results without pinning every result to a commit, so this record identifies the Hub release and does not import an unversioned score.
 
+- Record JSON: https://awesomecua.github.io/resources/url-f13474d7aa734a30624d/record.json
+
 ## License declarations
 
 - code: not recorded

@@ -16,9 +16,16 @@ Bibliographic record for CutVerse: A Compositional GUI Agents Benchmark for Medi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-19484/record.json
+
 ## Authors
 
 Haobo Hu, Xiangwu Guo, Zhiheng Chen, Difei Gao, Haotian Liu, Libiao Jin, Qi Mao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-19484/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-19484/citation.csl.json
 
 ## Recorded arXiv snapshot
 

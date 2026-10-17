@@ -16,9 +16,16 @@ ZonUI-3B trains GUI grounding with a curated 24,000-example collection of mobile
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-23491/record.json
+
 ## Authors
 
 ZongHan Hsieh, Tzer-Jen Wei, ShengJing Yang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-23491/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-23491/citation.csl.json
 
 ## Recorded arXiv snapshot
 

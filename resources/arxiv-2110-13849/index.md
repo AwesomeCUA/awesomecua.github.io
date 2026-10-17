@@ -16,9 +16,16 @@ Bibliographic record for Physical reservoir computing using finitely-sampled qua
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2110-13849/record.json
+
 ## Authors
 
 Saeed Ahmed Khan, Fangjun Hu, Gerasimos Angelatos, Hakan E. Türeci
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2110-13849/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2110-13849/citation.csl.json
 
 ## Recorded arXiv snapshot
 

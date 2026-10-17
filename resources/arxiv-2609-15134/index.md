@@ -16,9 +16,16 @@ Bibliographic record for HazardAuditor: From Executable Threats to Safer Compute
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-15134/record.json
+
 ## Authors
 
 Yunhao Feng, Ruixiao Lin, Ming Wen, Yanming Guo, Xingjun Ma, Yutao Wu, Xinhao Deng, Shouling Ji
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-15134/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-15134/citation.csl.json
 
 ## Recorded arXiv snapshot
 

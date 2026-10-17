@@ -16,9 +16,16 @@ Bibliographic record for ProRe: A Proactive Reward System for GUI Agents via Rea
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-21823/record.json
+
 ## Authors
 
 Gaole Dai, Shiqi Jiang, Ting Cao, Yuqing Yang, Yuanchun Li, Rui Tan, Mo Li, Lili Qiu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-21823/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-21823/citation.csl.json
 
 ## Recorded arXiv snapshot
 

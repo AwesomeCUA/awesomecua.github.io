@@ -16,9 +16,16 @@ Bibliographic record for Agentless: Demystifying LLM-based Software Engineering 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-01489/record.json
+
 ## Authors
 
 Chunqiu Steven Xia, Yinlin Deng, Soren Dunn, Lingming Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-01489/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-01489/citation.csl.json
 
 ## Recorded arXiv snapshot
 

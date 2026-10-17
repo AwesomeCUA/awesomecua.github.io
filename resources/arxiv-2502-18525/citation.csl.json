@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2502.18525",
+  "citation-key": "arxiv_2502_18525",
+  "type": "article",
+  "title": "Programming with Pixels: Can Computer-Use Agents do Software Engineering?",
+  "URL": "https://arxiv.org/abs/2502.18525v2",
+  "custom": {
+    "catalog_id": "arxiv:2502.18525",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2502.18525",
+    "identifiers": {
+      "arxiv": "2502.18525"
+    },
+    "first_published_at": "2025-02-24",
+    "record_updated_at": "2025-10-03",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9e4091fc740249b6406dd9e96f2692d7fac9323759ec6fad6ba5a05f3e445844",
+      "submitted_at": "2025-02-24T18:41:33Z",
+      "updated_at": "2025-10-03T02:09:59Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2502.18525v2"
+    }
+  },
+  "note": "First published: 2025-02-24; Recorded arXiv version: v2; Recorded version updated: 2025-10-03T02:09:59Z.",
+  "author": [
+    {
+      "literal": "Pranjal Aggarwal"
+    },
+    {
+      "literal": "Sean Welleck"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.18525",
+  "genre": "preprint",
+  "version": "2"
+}

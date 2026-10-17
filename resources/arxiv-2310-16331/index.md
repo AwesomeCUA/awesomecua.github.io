@@ -16,9 +16,16 @@ Bibliographic record for Brain-Inspired Reservoir Computing Using Memristors wit
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-16331/record.json
+
 ## Authors
 
 Nicholas X. Armendarez, Ahmed S. Mohamed, Anurag Dhungel, Md Razuan Hossain, Md Sakib Hasan, Joseph S. Najem
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-16331/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-16331/citation.csl.json
 
 ## Recorded arXiv snapshot
 

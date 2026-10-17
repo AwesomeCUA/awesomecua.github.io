@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2605.17320",
+  "citation-key": "arxiv_2605_17320",
+  "type": "article",
+  "title": "TClone: Low-Latency Forking of Live GUI Environments for Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2605.17320v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.17320",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.17320",
+    "identifiers": {
+      "arxiv": "2605.17320"
+    },
+    "first_published_at": "2026-05-17",
+    "record_updated_at": "2026-05-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "51576fb9bde23f769d3200a0d593ad610eb27248917132aff1bcf6eb7ff03cea",
+      "submitted_at": "2026-05-17T08:24:01Z",
+      "updated_at": "2026-05-17T08:24:01Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.17320v1"
+    }
+  },
+  "note": "First published: 2026-05-17; Recorded arXiv version: v1; Recorded version updated: 2026-05-17T08:24:01Z.",
+  "author": [
+    {
+      "literal": "Yutong Huang"
+    },
+    {
+      "literal": "Vikranth Srivatsa"
+    },
+    {
+      "literal": "Alex Asch"
+    },
+    {
+      "literal": "Hansin Tushar Patwa"
+    },
+    {
+      "literal": "Yiying Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.17320",
+  "genre": "preprint",
+  "version": "1"
+}

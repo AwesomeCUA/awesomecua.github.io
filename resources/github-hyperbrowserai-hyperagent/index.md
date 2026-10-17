@@ -16,6 +16,8 @@ Browser automation agent framework.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-hyperbrowserai-hyperagent/record.json
+
 ## License declarations
 
 - code: not recorded

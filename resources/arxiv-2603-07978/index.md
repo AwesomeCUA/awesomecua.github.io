@@ -16,9 +16,16 @@ Bibliographic record for OSExpert: Computer-Use Agents Learning Professional Ski
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-07978/record.json
+
 ## Authors
 
 Jiateng Liu, Zhenhailong Wang, Rushi Wang, Bingxuan Li, Jeonghwan Kim, Aditi Tiwari, Pengfei Yu, Denghui Zhang, Heng Ji
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-07978/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-07978/citation.csl.json
 
 ## Recorded arXiv snapshot
 

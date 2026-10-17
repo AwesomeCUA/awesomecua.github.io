@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2505.20023",
+  "citation-key": "arxiv_2505_20023",
+  "type": "article",
+  "title": "Training LLM-Based Agents with Synthetic Self-Reflected Trajectories and Partial Masking",
+  "URL": "https://arxiv.org/abs/2505.20023v1",
+  "custom": {
+    "catalog_id": "arxiv:2505.20023",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.20023",
+    "identifiers": {
+      "arxiv": "2505.20023"
+    },
+    "first_published_at": "2025-05-26",
+    "record_updated_at": "2025-05-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f3c91f5b701650968bb2f3bbb468adf0fabedc476ecb04ba3f1a5206005102be",
+      "submitted_at": "2025-05-26T14:11:12Z",
+      "updated_at": "2025-05-26T14:11:12Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2505.20023v1"
+    }
+  },
+  "note": "First published: 2025-05-26; Recorded arXiv version: v1; Recorded version updated: 2025-05-26T14:11:12Z.",
+  "author": [
+    {
+      "literal": "Yihan Chen"
+    },
+    {
+      "literal": "Benfeng Xu"
+    },
+    {
+      "literal": "Xiaorui Wang"
+    },
+    {
+      "literal": "Yongdong Zhang"
+    },
+    {
+      "literal": "Zhendong Mao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.20023",
+  "genre": "preprint",
+  "version": "1"
+}

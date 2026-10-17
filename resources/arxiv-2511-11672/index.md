@@ -16,9 +16,16 @@ OSGym supplies full operating-system sandboxes with GUIs for parallel computer-u
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-11672/record.json
+
 ## Authors
 
 Zengyi Qin, Jinyuan Chen, Yunze Man, Shengcao Cao, Ziqi Pang, Zhuoyuan Wang, Han Fang, Ling Zhu, Zixin Xie, Zibu Wei, Tianshu Ran, Haoran Geng, Ray Pan, Qizhen Sun, Zachary Bright, Yuyang Cai, Chongye Yang, Jiace Zhao, Tianrui Liu, Han Cao, Yeyang Zhou, Rui Wang, Song Wang, Xiang Ren, Bo Zhang, Yutong Ban, Pieter Abbeel, Brian Anthony
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-11672/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-11672/citation.csl.json
 
 ## Recorded arXiv snapshot
 

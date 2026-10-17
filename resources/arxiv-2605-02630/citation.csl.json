@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2605.02630",
+  "citation-key": "arxiv_2605_02630",
+  "type": "article",
+  "title": "AutoFocus: Uncertainty-Aware Active Visual Search for GUI Grounding",
+  "URL": "https://arxiv.org/abs/2605.02630v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.02630",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.02630",
+    "identifiers": {
+      "arxiv": "2605.02630"
+    },
+    "first_published_at": "2026-05-04",
+    "record_updated_at": "2026-05-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2dc8c2f5a5a97bc372a1bf5ab3fe0537e53a681f808d45877f55cdef6556858c",
+      "submitted_at": "2026-05-04T14:18:46Z",
+      "updated_at": "2026-05-04T14:18:46Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.02630v1"
+    }
+  },
+  "note": "First published: 2026-05-04; Recorded arXiv version: v1; Recorded version updated: 2026-05-04T14:18:46Z.",
+  "author": [
+    {
+      "literal": "Ruilin Yao"
+    },
+    {
+      "literal": "Shegnwu Xiong"
+    },
+    {
+      "literal": "Tianyu Zou"
+    },
+    {
+      "literal": "Shili Xiong"
+    },
+    {
+      "literal": "Yi Rong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.02630",
+  "genre": "preprint",
+  "version": "1"
+}

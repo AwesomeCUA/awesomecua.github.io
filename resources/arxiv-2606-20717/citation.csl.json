@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2606.20717",
+  "citation-key": "arxiv_2606_20717",
+  "type": "article",
+  "title": "MIRAGE: Stealthy Visual Prompt Injection for Vulnerability Detection in Web Agents",
+  "URL": "https://arxiv.org/abs/2606.20717v2",
+  "custom": {
+    "catalog_id": "arxiv:2606.20717",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.20717",
+    "identifiers": {
+      "arxiv": "2606.20717"
+    },
+    "first_published_at": "2026-06-16",
+    "record_updated_at": "2026-10-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fea441692131ec677e4a9ae54f9ecef1f31d422e20884b496b124e99392e59c1",
+      "submitted_at": "2026-06-16T15:31:33Z",
+      "updated_at": "2026-10-15T04:29:19Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2606.20717v2"
+    }
+  },
+  "note": "First published: 2026-06-16; Recorded arXiv version: v2; Recorded version updated: 2026-10-15T04:29:19Z.",
+  "author": [
+    {
+      "literal": "Xuelong Dai"
+    },
+    {
+      "literal": "Jianyu Ma"
+    },
+    {
+      "literal": "Boyang Ma"
+    },
+    {
+      "literal": "Biwei Yan"
+    },
+    {
+      "literal": "Yijun Yang"
+    },
+    {
+      "literal": "Yue Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.20717",
+  "genre": "preprint",
+  "version": "2"
+}

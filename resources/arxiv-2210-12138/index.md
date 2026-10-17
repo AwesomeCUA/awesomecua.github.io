@@ -16,9 +16,16 @@ Bibliographic record for A quantum algorithm for solving open system dynamics on
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2210-12138/record.json
+
 ## Authors
 
 Juha Leppäkangas, Nicolas Vogt, Keith R. Fratus, Kirsten Bark, Jesse A. Vaitkus, Pascal Stadler, Jan-Michael Reiner, Sebastian Zanker, Michael Marthaler
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2210-12138/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2210-12138/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Efficient Multi-modal Large Language Models via Progres
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-00515/record.json
+
 ## Authors
 
 Zichen Wen, Shaobo Wang, Yufa Zhou, Junyuan Zhang, Qintong Zhang, Yifeng Gao, Zhaorun Chen, Bin Wang, Weijia Li, Conghui He, Linfeng Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-00515/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-00515/citation.csl.json
 
 ## Recorded arXiv snapshot
 

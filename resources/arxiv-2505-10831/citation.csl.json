@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2505.10831",
+  "citation-key": "arxiv_2505_10831",
+  "type": "article",
+  "title": "Creating General User Models from Computer Use",
+  "URL": "https://arxiv.org/abs/2505.10831v3",
+  "custom": {
+    "catalog_id": "arxiv:2505.10831",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.10831",
+    "identifiers": {
+      "arxiv": "2505.10831"
+    },
+    "first_published_at": "2025-05-16",
+    "record_updated_at": "2025-09-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d986ee6aa62b11759c366fa9f6a01a1a0b12eae715970eacd8053dbbb6622fe5",
+      "submitted_at": "2025-05-16T04:00:31Z",
+      "updated_at": "2025-09-21T00:03:34Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2505.10831v3"
+    }
+  },
+  "note": "First published: 2025-05-16; Recorded arXiv version: v3; Recorded version updated: 2025-09-21T00:03:34Z.",
+  "author": [
+    {
+      "literal": "Omar Shaikh"
+    },
+    {
+      "literal": "Shardul Sapkota"
+    },
+    {
+      "literal": "Shan Rizvi"
+    },
+    {
+      "literal": "Eric Horvitz"
+    },
+    {
+      "literal": "Joon Sung Park"
+    },
+    {
+      "literal": "Diyi Yang"
+    },
+    {
+      "literal": "Michael S. Bernstein"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.10831",
+  "genre": "preprint",
+  "version": "3"
+}

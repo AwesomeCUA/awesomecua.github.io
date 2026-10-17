@@ -16,9 +16,16 @@ Bibliographic record for Visual Grounding with Multi-modal Conditional Adaptatio
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-04999/record.json
+
 ## Authors
 
 Ruilin Yao, Shengwu Xiong, Yichen Zhao, Yi Rong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-04999/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-04999/citation.csl.json
 
 ## Recorded arXiv snapshot
 

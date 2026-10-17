@@ -16,9 +16,16 @@ Bibliographic record for EE-MCP: Self-Evolving MCP-GUI Agents via Automated Envi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-09815/record.json
+
 ## Authors
 
 Tiantian He, Yihang Chen, Keyue Jiang, Ka Yiu Lee, Kaiwen Zhou, Kun Shao, Shuai Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-09815/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-09815/citation.csl.json
 
 ## Recorded arXiv snapshot
 

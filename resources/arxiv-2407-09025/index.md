@@ -16,9 +16,16 @@ Bibliographic record for SpreadsheetLLM: Encoding Spreadsheets for Large Languag
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-09025/record.json
+
 ## Authors
 
 Haoyu Dong, Jianbo Zhao, Yuzhang Tian, Junyu Xiong, Shiyu Xia, Mengyu Zhou, Yun Lin, José Cambronero, Yeye He, Shi Han, Dongmei Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-09025/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-09025/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Uses screenshots, a unified action space, and staged grounding and reasoning tra
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-04454/record.json
+
 ## Authors
 
 Yiheng Xu, Zekun Wang, Junli Wang, Dunjie Lu, Tianbao Xie, Amrita Saha, Doyen Sahoo, Tao Yu, Caiming Xiong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-04454/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-04454/citation.csl.json
 
 ## Recorded arXiv snapshot
 

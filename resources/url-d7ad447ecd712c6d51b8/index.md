@@ -16,6 +16,8 @@ Released model checkpoint associated with GELab Zero.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-d7ad447ecd712c6d51b8/record.json
+
 ## License declarations
 
 - code: not recorded

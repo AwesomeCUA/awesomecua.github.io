@@ -1,0 +1,91 @@
+{
+  "id": "arxiv:2410.13757",
+  "citation-key": "arxiv_2410_13757",
+  "type": "article",
+  "title": "MobA: Multifaceted Memory-Enhanced Adaptive Planning for Efficient Mobile Task Automation",
+  "URL": "https://arxiv.org/abs/2410.13757v3",
+  "custom": {
+    "catalog_id": "arxiv:2410.13757",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.13757",
+    "identifiers": {
+      "arxiv": "2410.13757"
+    },
+    "first_published_at": "2024-10-17",
+    "record_updated_at": "2025-05-13",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c0ef02f9c31bf2f095330cf018e7525aecc7644eb1552fb6b511ffced3889122",
+      "submitted_at": "2024-10-17T16:53:50Z",
+      "updated_at": "2025-05-13T06:25:09Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2410.13757v3"
+    }
+  },
+  "note": "First published: 2024-10-17; Recorded arXiv version: v3; Recorded version updated: 2025-05-13T06:25:09Z.",
+  "author": [
+    {
+      "literal": "Zichen Zhu"
+    },
+    {
+      "literal": "Hao Tang"
+    },
+    {
+      "literal": "Yansi Li"
+    },
+    {
+      "literal": "Dingye Liu"
+    },
+    {
+      "literal": "Hongshen Xu"
+    },
+    {
+      "literal": "Kunyao Lan"
+    },
+    {
+      "literal": "Danyang Zhang"
+    },
+    {
+      "literal": "Yixuan Jiang"
+    },
+    {
+      "literal": "Hao Zhou"
+    },
+    {
+      "literal": "Chenrun Wang"
+    },
+    {
+      "literal": "Situo Zhang"
+    },
+    {
+      "literal": "Liangtai Sun"
+    },
+    {
+      "literal": "Yixiao Wang"
+    },
+    {
+      "literal": "Yuheng Sun"
+    },
+    {
+      "literal": "Lu Chen"
+    },
+    {
+      "literal": "Kai Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.13757",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Octopus v2: On-device language model for super agent. T
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-01744/record.json
+
 ## Authors
 
 Wei Chen, Zhiyuan Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-01744/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-01744/citation.csl.json
 
 ## Recorded arXiv snapshot
 

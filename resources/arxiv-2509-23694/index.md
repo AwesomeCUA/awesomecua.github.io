@@ -16,9 +16,16 @@ Bibliographic record for SafeSearch: Automated Red-Teaming of LLM-Based Search A
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-23694/record.json
+
 ## Authors
 
 Jianshuo Dong, Sheng Guo, Hao Wang, Xun Chen, Zhuotao Liu, Tianwei Zhang, Ke Xu, Minlie Huang, Han Qiu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-23694/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-23694/citation.csl.json
 
 ## Recorded arXiv snapshot
 

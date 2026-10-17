@@ -16,9 +16,16 @@ Bibliographic record for Online Rubrics Elicitation from Pairwise Comparisons. T
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-07284/record.json
+
 ## Authors
 
 MohammadHossein Rezaei, Robert Vacareanu, Zihao Wang, Clinton Wang, Bing Liu, Yunzhong He, Afra Feyza Akyürek
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-07284/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-07284/citation.csl.json
 
 ## Recorded arXiv snapshot
 

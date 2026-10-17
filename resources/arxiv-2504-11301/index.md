@@ -16,9 +16,16 @@ Bibliographic record for Learning to Be A Doctor: Searching for Effective Medica
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-11301/record.json
+
 ## Authors
 
 Yangyang Zhuang, Wenjia Jiang, Jiayu Zhang, Ze Yang, Joey Tianyi Zhou, Chi Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-11301/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-11301/citation.csl.json
 
 ## Recorded arXiv snapshot
 

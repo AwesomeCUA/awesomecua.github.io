@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2006.05846",
+  "citation-key": "arxiv_2006_05846",
+  "type": "article",
+  "title": "Toward a standardized methodology for constructing quantum computing use cases",
+  "URL": "https://arxiv.org/abs/2006.05846v1",
+  "custom": {
+    "catalog_id": "arxiv:2006.05846",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2006.05846",
+    "identifiers": {
+      "arxiv": "2006.05846"
+    },
+    "first_published_at": "2020-06-10",
+    "record_updated_at": "2020-06-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1a3d39bf7f85f18c442ebde594ba730dec4f2141d9ff35a25189dc6d4449953e",
+      "submitted_at": "2020-06-10T14:23:37Z",
+      "updated_at": "2020-06-10T14:23:37Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2006.05846v1"
+    }
+  },
+  "note": "First published: 2020-06-10; Recorded arXiv version: v1; Recorded version updated: 2020-06-10T14:23:37Z.",
+  "author": [
+    {
+      "literal": "Nicholas Chancellor"
+    },
+    {
+      "literal": "Robert Cumming"
+    },
+    {
+      "literal": "Tim Thomas"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        6,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2006.05846",
+  "genre": "preprint",
+  "version": "1"
+}

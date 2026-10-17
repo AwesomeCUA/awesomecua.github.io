@@ -16,6 +16,8 @@ Mobile control benchmark with varied interface configurations.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-jylee425-b-moca/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/jylee425/b-moca/HEAD/LICENSE

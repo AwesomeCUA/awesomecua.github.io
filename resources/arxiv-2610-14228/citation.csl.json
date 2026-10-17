@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2610.14228",
+  "citation-key": "arxiv_2610_14228",
+  "type": "article",
+  "title": "Latent World Action Model for GUI Agents",
+  "URL": "https://arxiv.org/abs/2610.14228v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.14228",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.14228",
+    "identifiers": {
+      "arxiv": "2610.14228"
+    },
+    "first_published_at": "2026-10-09",
+    "record_updated_at": "2026-10-09",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "191e88c19124ddaddc2fed2f0e3f8e197a4c0c7f8adbc3997c056d3333754042",
+      "submitted_at": "2026-10-09T18:45:11Z",
+      "updated_at": "2026-10-09T18:45:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.14228v1"
+    }
+  },
+  "note": "First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T18:45:11Z.",
+  "author": [
+    {
+      "literal": "Seungjun Yu"
+    },
+    {
+      "literal": "Hojun Choi"
+    },
+    {
+      "literal": "Seojeong Park"
+    },
+    {
+      "literal": "Jaeyo Shin"
+    },
+    {
+      "literal": "Hyunjung Shim"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.14228",
+  "genre": "preprint",
+  "version": "1"
+}

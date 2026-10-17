@@ -1,0 +1,60 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "metrics": [],
+    "task_count": null
+  },
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:50:49Z",
+      "role": "primary",
+      "sha256": "79deaa899d085ece77a127d53b12ddb9edea8a796943f35b75e9acec67bcb976",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://huggingface.co/datasets/Qwen/RecreationBench/raw/main/README.md"
+    }
+  ],
+  "id": "url:d9d8e68f19ef0956d189",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-16T06:50:49Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/Qwen/RecreationBench"
+    }
+  ],
+  "name": "RecreationBench",
+  "notes": "Dataset card declares multiple upstream licenses; do not treat the package as having one blanket permissive license.",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Tasks for recreating reference applications with hybrid computer interaction.",
+  "topics": [
+    "evaluation",
+    "tool-integration"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/Qwen/RecreationBench"
+}

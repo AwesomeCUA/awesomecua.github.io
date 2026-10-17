@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2209.14927",
+  "citation-key": "arxiv_2209_14927",
+  "type": "article",
+  "title": "Spotlight: Mobile UI Understanding using Vision-Language Models with a Focus",
+  "URL": "https://arxiv.org/abs/2209.14927v4",
+  "custom": {
+    "catalog_id": "arxiv:2209.14927",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2209.14927",
+    "identifiers": {
+      "arxiv": "2209.14927"
+    },
+    "first_published_at": "2022-09-29",
+    "record_updated_at": "2023-02-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "eaa351e34fa6bdcbe26aa6714eacda1f667411090abfdd5575735605dc89e864",
+      "submitted_at": "2022-09-29T16:45:43Z",
+      "updated_at": "2023-02-24T01:41:32Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2209.14927v4"
+    }
+  },
+  "note": "First published: 2022-09-29; Recorded arXiv version: v4; Recorded version updated: 2023-02-24T01:41:32Z.",
+  "author": [
+    {
+      "literal": "Gang Li"
+    },
+    {
+      "literal": "Yang Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        9,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2209.14927",
+  "genre": "preprint",
+  "version": "4"
+}

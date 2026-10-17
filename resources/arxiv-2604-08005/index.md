@@ -16,9 +16,16 @@ Bibliographic record for Preference Redirection via Attention Concentration: An 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-08005/record.json
+
 ## Authors
 
 Dominik Seip, Matthias Hein
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-08005/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-08005/citation.csl.json
 
 ## Recorded arXiv snapshot
 

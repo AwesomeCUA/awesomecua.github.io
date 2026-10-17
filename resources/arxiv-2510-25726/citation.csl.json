@@ -1,0 +1,106 @@
+{
+  "id": "arxiv:2510.25726",
+  "citation-key": "arxiv_2510_25726",
+  "type": "article",
+  "title": "The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution",
+  "URL": "https://arxiv.org/abs/2510.25726v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.25726",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.25726",
+    "identifiers": {
+      "arxiv": "2510.25726"
+    },
+    "first_published_at": "2025-10-29",
+    "record_updated_at": "2026-02-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5cf3a6ee05919f7a939ccf7c52fc9961aadced0761b47b7de255576bfee8a6cb",
+      "submitted_at": "2025-10-29T17:32:49Z",
+      "updated_at": "2026-02-26T09:46:48Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.25726v2"
+    }
+  },
+  "note": "First published: 2025-10-29; Recorded arXiv version: v2; Recorded version updated: 2026-02-26T09:46:48Z.",
+  "author": [
+    {
+      "literal": "Junlong Li"
+    },
+    {
+      "literal": "Wenshuo Zhao"
+    },
+    {
+      "literal": "Jian Zhao"
+    },
+    {
+      "literal": "Weihao Zeng"
+    },
+    {
+      "literal": "Haoze Wu"
+    },
+    {
+      "literal": "Xiaochen Wang"
+    },
+    {
+      "literal": "Rui Ge"
+    },
+    {
+      "literal": "Yuxuan Cao"
+    },
+    {
+      "literal": "Yuzhen Huang"
+    },
+    {
+      "literal": "Wei Liu"
+    },
+    {
+      "literal": "Junteng Liu"
+    },
+    {
+      "literal": "Zhaochen Su"
+    },
+    {
+      "literal": "Yiyang Guo"
+    },
+    {
+      "literal": "Fan Zhou"
+    },
+    {
+      "literal": "Lueyang Zhang"
+    },
+    {
+      "literal": "Juan Michelini"
+    },
+    {
+      "literal": "Xingyao Wang"
+    },
+    {
+      "literal": "Xiang Yue"
+    },
+    {
+      "literal": "Shuyan Zhou"
+    },
+    {
+      "literal": "Graham Neubig"
+    },
+    {
+      "literal": "Junxian He"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.25726",
+  "genre": "preprint",
+  "version": "2"
+}

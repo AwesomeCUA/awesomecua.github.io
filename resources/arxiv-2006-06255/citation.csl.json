@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:2006.06255",
+  "citation-key": "arxiv_2006_06255",
+  "type": "article",
+  "title": "Blind Quantum Computation Using a Circuit-Based Quantum Computer",
+  "URL": "https://arxiv.org/abs/2006.06255v3",
+  "custom": {
+    "catalog_id": "arxiv:2006.06255",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2006.06255",
+    "identifiers": {
+      "arxiv": "2006.06255"
+    },
+    "first_published_at": "2020-06-11",
+    "record_updated_at": "2020-09-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "28e09af6f62d1a22c9a8e86b3b9c0398c75ebb4e733fbf58e1f2c8b20094c52c",
+      "submitted_at": "2020-06-11T08:37:45Z",
+      "updated_at": "2020-09-10T09:59:34Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2006.06255v3"
+    }
+  },
+  "note": "First published: 2020-06-11; Recorded arXiv version: v3; Recorded version updated: 2020-09-10T09:59:34Z.",
+  "author": [
+    {
+      "literal": "Yuichi Sano"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        6,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2006.06255",
+  "genre": "preprint",
+  "version": "3"
+}

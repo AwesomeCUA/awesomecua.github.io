@@ -16,9 +16,16 @@ Infers UI elements and accessibility metadata from mobile screenshots to support
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2101-04893/record.json
+
 ## Authors
 
 Xiaoyi Zhang, Lilian de Greef, Amanda Swearngin, Samuel White, Kyle Murray, Lisa Yu, Qi Shan, Jeffrey Nichols, Jason Wu, Chris Fleizach, Aaron Everitt, Jeffrey P. Bigham
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2101-04893/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2101-04893/citation.csl.json
 
 ## Recorded arXiv snapshot
 

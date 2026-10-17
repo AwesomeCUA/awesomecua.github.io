@@ -16,9 +16,16 @@ LineRetriever uses a language model to select observation lines that matter for 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-00210/record.json
+
 ## Authors
 
 Imene Kerboua, Sahar Omidi Shayegan, Megh Thakkar, Xing Han Lù, Massimo Caccia, Véronique Eglin, Alexandre Aussem, Jérémy Espinas, Alexandre Lacoste
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-00210/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-00210/citation.csl.json
 
 ## Recorded arXiv snapshot
 

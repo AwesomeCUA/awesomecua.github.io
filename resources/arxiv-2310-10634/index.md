@@ -16,9 +16,16 @@ Bibliographic record for OpenAgents: An Open Platform for Language Agents in the
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-10634/record.json
+
 ## Authors
 
 Tianbao Xie, Fan Zhou, Zhoujun Cheng, Peng Shi, Luoxuan Weng, Yitao Liu, Toh Jing Hua, Junning Zhao, Qian Liu, Che Liu, Leo Z. Liu, Yiheng Xu, Hongjin Su, Dongchan Shin, Caiming Xiong, Tao Yu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-10634/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-10634/citation.csl.json
 
 ## Recorded arXiv snapshot
 

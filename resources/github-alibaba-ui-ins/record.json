@@ -1,0 +1,66 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "download_url": null,
+    "languages": [],
+    "modalities": [],
+    "sample_count": null,
+    "sample_unit": null
+  },
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:02Z",
+      "role": "primary",
+      "sha256": "e06aedcb1760867470afeb27d4eb4cdde9a3b76b9d55af183047df3c0ae2b71c",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/alibaba/UI-Ins/HEAD/README.md"
+    }
+  ],
+  "id": "github:alibaba/ui-ins",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-16T06:36:02Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/alibaba/UI-Ins"
+    }
+  ],
+  "name": "UI-Ins",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/alibaba/UI-Ins/HEAD/README.md",
+      "target_id": "arxiv:2510.20286",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Instruction-oriented GUI data and research resources.",
+  "topics": [
+    "data-generation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/alibaba/UI-Ins"
+}

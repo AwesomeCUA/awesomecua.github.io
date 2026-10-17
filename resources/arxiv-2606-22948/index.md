@@ -16,9 +16,16 @@ Bibliographic record for ENVS: Environment-Native Verified Search for Long-Horiz
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-22948/record.json
+
 ## Authors
 
 Yincheng Zhou, Athena Zhuoming Zhong, Shijie Zhang, Kevin Zhang, Teresa Xiaotao Shang, Shanghang Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-22948/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-22948/citation.csl.json
 
 ## Recorded arXiv snapshot
 

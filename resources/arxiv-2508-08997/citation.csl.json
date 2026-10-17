@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2508.08997",
+  "citation-key": "arxiv_2508_08997",
+  "type": "article",
+  "title": "Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory",
+  "URL": "https://arxiv.org/abs/2508.08997v2",
+  "custom": {
+    "catalog_id": "arxiv:2508.08997",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.08997",
+    "identifiers": {
+      "arxiv": "2508.08997"
+    },
+    "first_published_at": "2025-08-12",
+    "record_updated_at": "2026-01-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5a7aa5ee50fa6890749471907aaf5c96d785977bbdaadb915433c3e44734b63c",
+      "submitted_at": "2025-08-12T15:05:00Z",
+      "updated_at": "2026-01-12T11:46:09Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2508.08997v2"
+    }
+  },
+  "note": "First published: 2025-08-12; Recorded arXiv version: v2; Recorded version updated: 2026-01-12T11:46:09Z.",
+  "author": [
+    {
+      "literal": "Sizhe Yuen"
+    },
+    {
+      "literal": "Francisco Gomez Medina"
+    },
+    {
+      "literal": "Ting Su"
+    },
+    {
+      "literal": "Yali Du"
+    },
+    {
+      "literal": "Adam J. Sobey"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.08997",
+  "genre": "preprint",
+  "version": "2"
+}

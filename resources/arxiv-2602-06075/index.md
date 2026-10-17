@@ -16,9 +16,16 @@ Bibliographic record for MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-06075/record.json
+
 ## Authors
 
 Guangyi Liu, Pengxiang Zhao, Yaozhen Liang, Qinyi Luo, Shunye Tang, Yuxiang Chai, Weifeng Lin, Han Xiao, WenHao Wang, Siheng Chen, Zhengxi Lu, Gao Wu, Hao Wang, Liang Liu, Yong Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-06075/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-06075/citation.csl.json
 
 ## Recorded arXiv snapshot
 

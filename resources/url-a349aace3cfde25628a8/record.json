@@ -1,0 +1,92 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/Hcompany/Holo3-35B-A3B/tree/main",
+    "gated": false,
+    "hub_id": "Hcompany/Holo3-35B-A3B"
+  },
+  "environments": [
+    "web",
+    "desktop",
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:07:19Z",
+      "role": "primary",
+      "sha256": "0681f87b059110a4e5dff8955e9feca6c5ea118b326f729f9c0ed0fe49e42d03",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/Hcompany/Holo3-35B-A3B/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:07:18Z",
+      "role": "primary",
+      "sha256": "bc5324dd6ceea9a0cc6bf0639b99d24cdd172af3c5d247bf923fdce1dc11f582",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/api/models/Hcompany/Holo3-35B-A3B"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T04:07:19Z",
+      "role": "primary",
+      "sha256": "0681f87b059110a4e5dff8955e9feca6c5ea118b326f729f9c0ed0fe49e42d03",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/Hcompany/Holo3-35B-A3B/raw/main/README.md"
+    }
+  ],
+  "id": "url:a349aace3cfde25628a8",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T04:07:19Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "apache-2.0",
+      "retrieved_at": "2026-10-17T04:07:19Z",
+      "url": "https://huggingface.co/Hcompany/Holo3-35B-A3B/raw/main/README.md"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/Hcompany/Holo3-35B-A3B"
+    }
+  ],
+  "name": "Holo3 35B-A3B",
+  "notes": "Fourteen public safetensors shards are present. The card declares Apache-2.0 for this release and describes a 35B-total/3B-active MoE architecture. No unpublished enterprise benchmark or training corpus is added solely from its performance claims.",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A sparse Qwen3.5-based GUI-action checkpoint released for navigation and computer-use workflows.",
+  "topics": [
+    "grounding",
+    "planning",
+    "action-prediction"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/Hcompany/Holo3-35B-A3B"
+}

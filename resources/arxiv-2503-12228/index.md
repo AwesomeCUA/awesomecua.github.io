@@ -16,9 +16,16 @@ Bibliographic record for Adaptive Fault Tolerance Mechanisms of Large Language M
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-12228/record.json
+
 ## Authors
 
 Yihong Jin, Ze Yang, Xinhe Xu, Yihan Zhang, Shuyang Ji
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-12228/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-12228/citation.csl.json
 
 ## Recorded arXiv snapshot
 

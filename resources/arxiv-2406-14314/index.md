@@ -16,9 +16,16 @@ Defines goal identification from observed UI trajectories and an evaluation meth
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-14314/record.json
+
 ## Authors
 
 Omri Berkovitch, Sapir Caduri, Noam Kahlon, Anatoly Efros, Avi Caciularu, Ido Dagan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-14314/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-14314/citation.csl.json
 
 ## Recorded arXiv snapshot
 

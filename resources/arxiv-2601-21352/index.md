@@ -16,9 +16,16 @@ Bibliographic record for BEAP-Agent: Backtrackable Execution and Adaptive Planni
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-21352/record.json
+
 ## Authors
 
 Ziyu Lu, Tengjin Weng, Yiying Yang, Yuhang Zhao, Xinxin Huang, Wenhao Jiang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-21352/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-21352/citation.csl.json
 
 ## Recorded arXiv snapshot
 

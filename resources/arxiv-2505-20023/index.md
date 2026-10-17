@@ -16,9 +16,16 @@ Bibliographic record for Training LLM-Based Agents with Synthetic Self-Reflected
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-20023/record.json
+
 ## Authors
 
 Yihan Chen, Benfeng Xu, Xiaorui Wang, Yongdong Zhang, Zhendong Mao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-20023/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-20023/citation.csl.json
 
 ## Recorded arXiv snapshot
 

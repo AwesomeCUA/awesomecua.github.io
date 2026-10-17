@@ -16,9 +16,16 @@ Bibliographic record for GUICrafter: Weakly-Supervised GUI Agent Leveraging Mass
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-29705/record.json
+
 ## Authors
 
 Sunqi Fan, Lingshan Chen, Runqi Yin, Qingle Liu, Yongming Rao, Meng-Hao Guo, Shi-Min Hu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-29705/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-29705/citation.csl.json
 
 ## Recorded arXiv snapshot
 

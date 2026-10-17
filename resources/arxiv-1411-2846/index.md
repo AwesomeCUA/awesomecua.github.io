@@ -16,9 +16,16 @@ Bibliographic record for Sparse implicitization by interpolation: Geometric comp
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1411-2846/record.json
+
 ## Authors
 
 Ioannis Emiris, Tatjana Kalinka, Christos Konaxis
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1411-2846/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1411-2846/citation.csl.json
 
 ## Recorded arXiv snapshot
 

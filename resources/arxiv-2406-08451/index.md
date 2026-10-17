@@ -16,9 +16,16 @@ Introduces annotated cross-application mobile trajectories and studies history-a
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-08451/record.json
+
 ## Authors
 
 Quanfeng Lu, Wenqi Shao, Zitao Liu, Lingxiao Du, Fanqing Meng, Boxuan Li, Botong Chen, Siyuan Huang, Kaipeng Zhang, Ping Luo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-08451/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-08451/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2509.17917",
+  "citation-key": "arxiv_2509_17917",
+  "type": "article",
+  "title": "Orcust: Stepwise-Feedback Reinforcement Learning for GUI Agent",
+  "URL": "https://arxiv.org/abs/2509.17917v1",
+  "custom": {
+    "catalog_id": "arxiv:2509.17917",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2509.17917",
+    "identifiers": {
+      "arxiv": "2509.17917"
+    },
+    "first_published_at": "2025-09-22",
+    "record_updated_at": "2025-09-22",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7b85c9bae829bad343dd6f57c866ea100859fa0ad67f5c1a3ac9b3e53d617486",
+      "submitted_at": "2025-09-22T15:40:31Z",
+      "updated_at": "2025-09-22T15:40:31Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2509.17917v1"
+    }
+  },
+  "note": "First published: 2025-09-22; Recorded arXiv version: v1; Recorded version updated: 2025-09-22T15:40:31Z.",
+  "author": [
+    {
+      "literal": "Junyu Lu"
+    },
+    {
+      "literal": "Songxin Zhang"
+    },
+    {
+      "literal": "Zejian Xie"
+    },
+    {
+      "literal": "Zhuoyang Song"
+    },
+    {
+      "literal": "Jiaxing Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.17917",
+  "genre": "preprint",
+  "version": "1"
+}

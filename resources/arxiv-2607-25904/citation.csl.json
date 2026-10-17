@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2607.25904",
+  "citation-key": "arxiv_2607_25904",
+  "type": "article",
+  "title": "Interactive Reward Agent: GUI Task Evaluation via Environment-State Verification",
+  "URL": "https://arxiv.org/abs/2607.25904v2",
+  "custom": {
+    "catalog_id": "arxiv:2607.25904",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2607.25904",
+    "identifiers": {
+      "arxiv": "2607.25904"
+    },
+    "first_published_at": "2026-07-28",
+    "record_updated_at": "2026-07-29",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d1688a528d35a8213a8027385b1b1327536567f6ec307aa6562eea543ee71d7f",
+      "submitted_at": "2026-07-28T16:01:38Z",
+      "updated_at": "2026-07-29T05:13:57Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2607.25904v2"
+    }
+  },
+  "note": "First published: 2026-07-28; Recorded arXiv version: v2; Recorded version updated: 2026-07-29T05:13:57Z.",
+  "author": [
+    {
+      "literal": "Chenrui Shi"
+    },
+    {
+      "literal": "Yuwei Wu"
+    },
+    {
+      "literal": "Yang Liu"
+    },
+    {
+      "literal": "Ruining Feng"
+    },
+    {
+      "literal": "Zirui Shang"
+    },
+    {
+      "literal": "Zhi Gao"
+    },
+    {
+      "literal": "Lifeng Fan"
+    },
+    {
+      "literal": "Che Sun"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.25904",
+  "genre": "preprint",
+  "version": "2"
+}

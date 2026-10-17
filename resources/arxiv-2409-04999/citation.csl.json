@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2409.04999",
+  "citation-key": "arxiv_2409_04999",
+  "type": "article",
+  "title": "Visual Grounding with Multi-modal Conditional Adaptation",
+  "URL": "https://arxiv.org/abs/2409.04999v1",
+  "custom": {
+    "catalog_id": "arxiv:2409.04999",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2409.04999",
+    "identifiers": {
+      "arxiv": "2409.04999"
+    },
+    "first_published_at": "2024-09-08",
+    "record_updated_at": "2024-09-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "dd321f0122de3a236019ddd3d0cd399eaa8837040c477f3fb8a8ccc6f00977ff",
+      "submitted_at": "2024-09-08T07:08:58Z",
+      "updated_at": "2024-09-08T07:08:58Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2409.04999v1"
+    }
+  },
+  "note": "First published: 2024-09-08; Recorded arXiv version: v1; Recorded version updated: 2024-09-08T07:08:58Z.",
+  "author": [
+    {
+      "literal": "Ruilin Yao"
+    },
+    {
+      "literal": "Shengwu Xiong"
+    },
+    {
+      "literal": "Yichen Zhao"
+    },
+    {
+      "literal": "Yi Rong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2409.04999",
+  "genre": "preprint",
+  "version": "1"
+}

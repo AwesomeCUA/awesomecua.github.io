@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2609.05374",
+  "citation-key": "arxiv_2609_05374",
+  "type": "article",
+  "title": "CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents",
+  "URL": "https://arxiv.org/abs/2609.05374v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.05374",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.05374",
+    "identifiers": {
+      "arxiv": "2609.05374"
+    },
+    "first_published_at": "2026-09-04",
+    "record_updated_at": "2026-09-04",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "69eab19b6e45e1b2ddf9f29f6f0937d51e06a5bb7dea34dadb761361c82f08d4",
+      "submitted_at": "2026-09-04T17:26:18Z",
+      "updated_at": "2026-09-04T17:26:18Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.05374v1"
+    }
+  },
+  "note": "First published: 2026-09-04; Recorded arXiv version: v1; Recorded version updated: 2026-09-04T17:26:18Z.",
+  "author": [
+    {
+      "literal": "Haoting Shi"
+    },
+    {
+      "literal": "Wenhao Wang"
+    },
+    {
+      "literal": "Weicheng Fang"
+    },
+    {
+      "literal": "Yaozhong Liang"
+    },
+    {
+      "literal": "Tian Jin"
+    },
+    {
+      "literal": "Pengxiang Zhao"
+    },
+    {
+      "literal": "Guangyi Liu"
+    },
+    {
+      "literal": "Siheng Chen"
+    },
+    {
+      "literal": "Yanfeng Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.05374",
+  "genre": "preprint",
+  "version": "1"
+}

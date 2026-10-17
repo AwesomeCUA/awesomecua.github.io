@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2107.13731",
+  "citation-key": "arxiv_2107_13731",
+  "type": "article",
+  "title": "UIBert: Learning Generic Multimodal Representations for UI Understanding",
+  "URL": "https://arxiv.org/abs/2107.13731v2",
+  "custom": {
+    "catalog_id": "arxiv:2107.13731",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2107.13731",
+    "identifiers": {
+      "arxiv": "2107.13731"
+    },
+    "first_published_at": "2021-07-29",
+    "record_updated_at": "2021-08-10",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8a4f582015ccaf5bbe9be4b7ab925b2bbf6bd8451a4e63d89e1fe38363e26b31",
+      "submitted_at": "2021-07-29T03:51:36Z",
+      "updated_at": "2021-08-10T08:55:21Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2107.13731v2"
+    }
+  },
+  "note": "First published: 2021-07-29; Recorded arXiv version: v2; Recorded version updated: 2021-08-10T08:55:21Z.",
+  "author": [
+    {
+      "literal": "Chongyang Bai"
+    },
+    {
+      "literal": "Xiaoxue Zang"
+    },
+    {
+      "literal": "Ying Xu"
+    },
+    {
+      "literal": "Srinivas Sunkara"
+    },
+    {
+      "literal": "Abhinav Rastogi"
+    },
+    {
+      "literal": "Jindong Chen"
+    },
+    {
+      "literal": "Blaise Aguera y Arcas"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        7,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2107.13731",
+  "genre": "preprint",
+  "version": "2"
+}

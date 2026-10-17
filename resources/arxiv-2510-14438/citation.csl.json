@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2510.14438",
+  "citation-key": "arxiv_2510_14438",
+  "type": "article",
+  "title": "WebAggregator: Enhancing Compositional Reasoning Capabilities of Deep Research Agent Foundation Models",
+  "URL": "https://arxiv.org/abs/2510.14438v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.14438",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.14438",
+    "identifiers": {
+      "arxiv": "2510.14438"
+    },
+    "first_published_at": "2025-10-16",
+    "record_updated_at": "2026-04-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5218a35d29f915c603be550adcb4d8f46d5ebd7176948945fa272187dc3108a3",
+      "submitted_at": "2025-10-16T08:37:42Z",
+      "updated_at": "2026-04-29T01:14:03Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.14438v2"
+    }
+  },
+  "note": "First published: 2025-10-16; Recorded arXiv version: v2; Recorded version updated: 2026-04-29T01:14:03Z.",
+  "author": [
+    {
+      "literal": "Rui Wang"
+    },
+    {
+      "literal": "Ce Zhang"
+    },
+    {
+      "literal": "Jun-Yu Ma"
+    },
+    {
+      "literal": "Jianshu Zhang"
+    },
+    {
+      "literal": "Hongru Wang"
+    },
+    {
+      "literal": "Yi Chen"
+    },
+    {
+      "literal": "Boyang Xue"
+    },
+    {
+      "literal": "Tianqing Fang"
+    },
+    {
+      "literal": "Zhisong Zhang"
+    },
+    {
+      "literal": "Hongming Zhang"
+    },
+    {
+      "literal": "Haitao Mi"
+    },
+    {
+      "literal": "Dong Yu"
+    },
+    {
+      "literal": "Kam-Fai Wong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.14438",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,66 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "metrics": [],
+    "task_count": null
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:35:58Z",
+      "role": "primary",
+      "sha256": "206bd0dc5220cf754cffc97767cce6a3cd27660ef050a569366bef2331241c60",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/AndroidArenaAgent/AndroidArena/HEAD/README.md"
+    }
+  ],
+  "id": "github:androidarenaagent/androidarena",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-16T06:35:58Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/AndroidArenaAgent/AndroidArena"
+    }
+  ],
+  "name": "AndroidArena",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/AndroidArenaAgent/AndroidArena/HEAD/README.md",
+      "target_id": "arxiv:2402.06596",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Android environment for evaluating language-model-driven agents.",
+  "topics": [
+    "evaluation",
+    "mobile-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/AndroidArenaAgent/AndroidArena"
+}

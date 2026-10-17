@@ -1,0 +1,118 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "artifact_inspection": "Public file-manifest inspection only; weights were not downloaded.",
+    "base_model": "Qwen/Qwen3.5-9B",
+    "gated": false,
+    "hub_revision": "68ebbac4d5bdf725103a22d076122b8aa883a0f2",
+    "listed_weight_files": [
+      "model.safetensors"
+    ]
+  },
+  "environments": [
+    "android",
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T01:48:51Z",
+      "role": "primary",
+      "sha256": "09c59e6b35a5fe1eea528595f326546269ea8a2a75aa404f1f7950b9de5f30d1",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/OpenMobile-2/OpenMobile-2-9B/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T01:49:48Z",
+      "role": "primary",
+      "sha256": "1aab6befd309e54ba71676670039b4098362974ce0ce89b25872f137d50c103f",
+      "supports": [
+        "details.gated",
+        "details.hub_revision",
+        "details.listed_weight_files"
+      ],
+      "url": "https://huggingface.co/api/models/OpenMobile-2/OpenMobile-2-9B"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T01:46:06Z",
+      "role": "primary",
+      "sha256": "9b385e9f6aa2f7169f616a76887df3b76df605cb2bea071d99ee7ca3f9b659cc",
+      "supports": [
+        "environments"
+      ],
+      "url": "https://os-copilot.github.io/OpenMobile2-Home/"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T01:48:51Z",
+      "role": "primary",
+      "sha256": "09c59e6b35a5fe1eea528595f326546269ea8a2a75aa404f1f7950b9de5f30d1",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/OpenMobile-2/OpenMobile-2-9B/raw/main/README.md"
+    }
+  ],
+  "id": "url:d35224f787e7ec21ce36",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T01:48:51Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "apache-2.0",
+      "retrieved_at": "2026-10-17T01:48:51Z",
+      "url": "https://huggingface.co/OpenMobile-2/OpenMobile-2-9B/raw/main/README.md"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/OpenMobile-2/OpenMobile-2-9B"
+    }
+  ],
+  "name": "OpenMobile-2 9B",
+  "notes": "The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/OpenMobile-2/OpenMobile-2-9B/raw/main/README.md",
+      "target_id": "github:openmobile2/openmobile2-code",
+      "type": "uses"
+    },
+    {
+      "evidence_url": "https://huggingface.co/OpenMobile-2/OpenMobile-2-9B/raw/main/README.md",
+      "target_id": "url:546e6c95825d1318c98d",
+      "type": "trained_on"
+    },
+    {
+      "evidence_url": "https://huggingface.co/OpenMobile-2/OpenMobile-2-9B/raw/main/README.md",
+      "target_id": "arxiv:2610.14157",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Mobile-agent checkpoint trained on OpenMobile-Data-v2 for screenshot actions and app-native tool calls.",
+  "topics": [
+    "mobile-navigation",
+    "tool-integration"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/OpenMobile-2/OpenMobile-2-9B"
+}

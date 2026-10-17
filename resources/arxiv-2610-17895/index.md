@@ -16,9 +16,16 @@ Uses computer-use agents to interact with generated applications, studying wheth
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-17895/record.json
+
 ## Authors
 
 Wayne Chi, I-Hung Hsu, Li Chen, Wei-Lin Chiang, Ion Stoica, Anastasios Nikolas Angelopoulos, Ameet Talwalkar, Chris Donahue, Cho-Jui Hsieh
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-17895/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-17895/citation.csl.json
 
 ## Recorded arXiv snapshot
 

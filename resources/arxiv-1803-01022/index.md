@@ -16,9 +16,16 @@ Bibliographic record for Programming Quantum Computers Using Design Automation. 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1803-01022/record.json
+
 ## Authors
 
 Mathias Soeken, Thomas Häner, Martin Roetteler
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1803-01022/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1803-01022/citation.csl.json
 
 ## Recorded arXiv snapshot
 

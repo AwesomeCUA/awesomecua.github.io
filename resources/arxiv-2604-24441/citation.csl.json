@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2604.24441",
+  "citation-key": "arxiv_2604_24441",
+  "type": "article",
+  "title": "AutoGUI-v2: A Comprehensive Multi-Modal GUI Functionality Understanding Benchmark",
+  "URL": "https://arxiv.org/abs/2604.24441v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.24441",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.24441",
+    "identifiers": {
+      "arxiv": "2604.24441"
+    },
+    "first_published_at": "2026-04-27",
+    "record_updated_at": "2026-04-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "65325912365effe8adbc39301a378d7526c60d1185691f3a89cb8acd4aa53c3f",
+      "submitted_at": "2026-04-27T13:06:27Z",
+      "updated_at": "2026-04-27T13:06:27Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.24441v1"
+    }
+  },
+  "note": "First published: 2026-04-27; Recorded arXiv version: v1; Recorded version updated: 2026-04-27T13:06:27Z.",
+  "author": [
+    {
+      "literal": "Hongxin Li"
+    },
+    {
+      "literal": "Xiping Wang"
+    },
+    {
+      "literal": "Jingran Su"
+    },
+    {
+      "literal": "Zheng Ju"
+    },
+    {
+      "literal": "Yuntao Chen"
+    },
+    {
+      "literal": "Qing Li"
+    },
+    {
+      "literal": "Zhaoxiang Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.24441",
+  "genre": "preprint",
+  "version": "1"
+}

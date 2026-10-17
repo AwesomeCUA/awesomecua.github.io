@@ -16,9 +16,16 @@ Bibliographic record for HATS: Hardness-Aware Trajectory Synthesis for GUI Agent
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-12138/record.json
+
 ## Authors
 
 Rui Shao, Ruize Gao, Bin Xie, Yixing Li, Kaiwen Zhou, Shuai Wang, Weili Guan, Gongwei Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-12138/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-12138/citation.csl.json
 
 ## Recorded arXiv snapshot
 

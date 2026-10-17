@@ -16,9 +16,16 @@ Bibliographic record for Hierarchical Memory for High-Efficiency Long-Term Reaso
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-22925/record.json
+
 ## Authors
 
 Haoran Sun, Shaoning Zeng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-22925/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-22925/citation.csl.json
 
 ## Recorded arXiv snapshot
 

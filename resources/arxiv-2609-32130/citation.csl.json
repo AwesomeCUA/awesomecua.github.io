@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2609.32130",
+  "citation-key": "arxiv_2609_32130",
+  "type": "article",
+  "title": "REBASE: Device-Cloud Experience Coherence for GUI Agents Across App Updates",
+  "URL": "https://arxiv.org/abs/2609.32130v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.32130",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.32130",
+    "identifiers": {
+      "arxiv": "2609.32130"
+    },
+    "first_published_at": "2026-09-26",
+    "record_updated_at": "2026-09-26",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "719385c97b9d174bbebc34ac4a196971af61521489f7bf032a7d807ae3c8d4c1",
+      "submitted_at": "2026-09-26T01:13:44Z",
+      "updated_at": "2026-09-26T01:13:44Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.32130v1"
+    }
+  },
+  "note": "First published: 2026-09-26; Recorded arXiv version: v1; Recorded version updated: 2026-09-26T01:13:44Z.",
+  "author": [
+    {
+      "literal": "Beining Wu"
+    },
+    {
+      "literal": "Jun Huang"
+    },
+    {
+      "literal": "Yanxiao Zhao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.32130",
+  "genre": "preprint",
+  "version": "1"
+}

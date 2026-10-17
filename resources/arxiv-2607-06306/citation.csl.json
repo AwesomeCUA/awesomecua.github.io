@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2607.06306",
+  "citation-key": "arxiv_2607_06306",
+  "type": "article",
+  "title": "UI2App: Benchmarking Visual Interaction Inference in Executable Web Application Generation",
+  "URL": "https://arxiv.org/abs/2607.06306v2",
+  "custom": {
+    "catalog_id": "arxiv:2607.06306",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.06306",
+    "identifiers": {
+      "arxiv": "2607.06306"
+    },
+    "first_published_at": "2026-07-07",
+    "record_updated_at": "2026-10-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ff483463f0eda2e33526548ee91caeeccf719d88805ed90f0481876c71be150a",
+      "submitted_at": "2026-07-07T14:08:55Z",
+      "updated_at": "2026-10-04T02:42:53Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2607.06306v2"
+    }
+  },
+  "note": "First published: 2026-07-07; Recorded arXiv version: v2; Recorded version updated: 2026-10-04T02:42:53Z.",
+  "author": [
+    {
+      "literal": "Grace Man Chen"
+    },
+    {
+      "literal": "Litao Guo"
+    },
+    {
+      "literal": "Yifan Wu"
+    },
+    {
+      "literal": "Yiyu Chen"
+    },
+    {
+      "literal": "Yenchi Tseng"
+    },
+    {
+      "literal": "Sicheng Liu"
+    },
+    {
+      "literal": "Yuyu Luo"
+    },
+    {
+      "literal": "Ying-Cong Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.06306",
+  "genre": "preprint",
+  "version": "2"
+}

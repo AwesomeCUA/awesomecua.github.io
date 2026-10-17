@@ -16,9 +16,16 @@ Bibliographic record for CADReview: Automatically Reviewing CAD Programs with Er
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-22304/record.json
+
 ## Authors
 
 Jiali Chen, Xusen Hei, HongFei Liu, Yuancheng Wei, Zikun Deng, Jiayuan Xie, Yi Cai, Li Qing
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-22304/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-22304/citation.csl.json
 
 ## Recorded arXiv snapshot
 

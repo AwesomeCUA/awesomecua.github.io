@@ -16,9 +16,16 @@ Bibliographic record for Guides That Cause Actions: An Offline Study of Guide-Ac
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-27353/record.json
+
 ## Authors
 
 Chengguang Gan, Yunhao Liang, QingHao Zhang, Shiwen Ni
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-27353/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-27353/citation.csl.json
 
 ## Recorded arXiv snapshot
 

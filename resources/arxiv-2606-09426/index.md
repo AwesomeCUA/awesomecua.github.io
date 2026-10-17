@@ -16,9 +16,16 @@ WeaveBench requires agents to combine GUI, command-line and code operations with
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-09426/record.json
+
 ## Authors
 
 Wanli Li, Bowen Zhou, Yunyao Yu, Zhou Xu, Yifan Yang, Dongsheng Li, Caihua Shan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-09426/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-09426/citation.csl.json
 
 ## Recorded arXiv snapshot
 

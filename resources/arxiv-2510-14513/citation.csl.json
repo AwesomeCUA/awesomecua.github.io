@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2510.14513",
+  "citation-key": "arxiv_2510_14513",
+  "type": "article",
+  "title": "State Your Intention to Steer Your Attention: An AI Assistant for Intentional Digital Living",
+  "URL": "https://arxiv.org/abs/2510.14513v3",
+  "custom": {
+    "catalog_id": "arxiv:2510.14513",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.14513",
+    "identifiers": {
+      "arxiv": "2510.14513"
+    },
+    "first_published_at": "2025-10-16",
+    "record_updated_at": "2026-03-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ac902743c35419bd79603e55bc8a0cf47028e1974cd07ff43c3c0ada6f3a661a",
+      "submitted_at": "2025-10-16T09:57:35Z",
+      "updated_at": "2026-03-02T09:08:04Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2510.14513v3"
+    }
+  },
+  "note": "First published: 2025-10-16; Recorded arXiv version: v3; Recorded version updated: 2026-03-02T09:08:04Z.",
+  "author": [
+    {
+      "literal": "Juheon Choi"
+    },
+    {
+      "literal": "Juyong Lee"
+    },
+    {
+      "literal": "Jian Kim"
+    },
+    {
+      "literal": "Chanyoung Kim"
+    },
+    {
+      "literal": "Taywon Min"
+    },
+    {
+      "literal": "W. Bradley Knox"
+    },
+    {
+      "literal": "Min Kyung Lee"
+    },
+    {
+      "literal": "Kimin Lee"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.14513",
+  "genre": "preprint",
+  "version": "3"
+}

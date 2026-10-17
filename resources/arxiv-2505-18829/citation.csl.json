@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2505.18829",
+  "citation-key": "arxiv_2505_18829",
+  "type": "article",
+  "title": "LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS",
+  "URL": "https://arxiv.org/abs/2505.18829v2",
+  "custom": {
+    "catalog_id": "arxiv:2505.18829",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2505.18829",
+    "identifiers": {
+      "arxiv": "2505.18829"
+    },
+    "first_published_at": "2025-05-24",
+    "record_updated_at": "2025-10-31",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2c382ce428e6dd41ec07af7575461c69906ce386fd2bcd8ad9f0d792d2b8f0b3",
+      "submitted_at": "2025-05-24T18:56:00Z",
+      "updated_at": "2025-10-31T21:48:48Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2505.18829v2"
+    }
+  },
+  "note": "First published: 2025-05-24; Recorded arXiv version: v2; Recorded version updated: 2025-10-31T21:48:48Z.",
+  "author": [
+    {
+      "literal": "Kai Mei"
+    },
+    {
+      "literal": "Xi Zhu"
+    },
+    {
+      "literal": "Hang Gao"
+    },
+    {
+      "literal": "Shuhang Lin"
+    },
+    {
+      "literal": "Yongfeng Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.18829",
+  "genre": "preprint",
+  "version": "2"
+}

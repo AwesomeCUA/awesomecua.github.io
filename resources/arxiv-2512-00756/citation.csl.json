@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2512.00756",
+  "citation-key": "arxiv_2512_00756",
+  "type": "article",
+  "title": "MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents",
+  "URL": "https://arxiv.org/abs/2512.00756v2",
+  "custom": {
+    "catalog_id": "arxiv:2512.00756",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2512.00756",
+    "identifiers": {
+      "arxiv": "2512.00756"
+    },
+    "first_published_at": "2025-11-30",
+    "record_updated_at": "2026-04-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bf16987178fc24fb483bfa82efecb1924c7528fd16ac94f1144fcc345748850f",
+      "submitted_at": "2025-11-30T06:47:33Z",
+      "updated_at": "2026-04-28T03:32:32Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2512.00756v2"
+    }
+  },
+  "note": "First published: 2025-11-30; Recorded arXiv version: v2; Recorded version updated: 2026-04-28T03:32:32Z.",
+  "author": [
+    {
+      "literal": "Ruihan Chen"
+    },
+    {
+      "literal": "Qiming Li"
+    },
+    {
+      "literal": "Xiaocheng Feng"
+    },
+    {
+      "literal": "Weihong Zhong"
+    },
+    {
+      "literal": "Xiaoliang Yang"
+    },
+    {
+      "literal": "Yuxuan Gu"
+    },
+    {
+      "literal": "Zekun Zhou"
+    },
+    {
+      "literal": "Yunfei Lu"
+    },
+    {
+      "literal": "Haoyu Ren"
+    },
+    {
+      "literal": "Kun Chen"
+    },
+    {
+      "literal": "Dandan Tu"
+    },
+    {
+      "literal": "Bing Qin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2512.00756",
+  "genre": "preprint",
+  "version": "2"
+}

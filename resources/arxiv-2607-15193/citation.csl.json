@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2607.15193",
+  "citation-key": "arxiv_2607_15193",
+  "type": "article",
+  "title": "Plover: Steering GUI Agents through Plan-Centric Interaction",
+  "URL": "https://arxiv.org/abs/2607.15193v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.15193",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2607.15193",
+    "identifiers": {
+      "arxiv": "2607.15193"
+    },
+    "first_published_at": "2026-07-16",
+    "record_updated_at": "2026-07-16",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1179c657434761187f3fa3bed99f46530a69878578b7a74c68febae20e64d6b3",
+      "submitted_at": "2026-07-16T16:48:39Z",
+      "updated_at": "2026-07-16T16:48:39Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.15193v1"
+    }
+  },
+  "note": "First published: 2026-07-16; Recorded arXiv version: v1; Recorded version updated: 2026-07-16T16:48:39Z.",
+  "author": [
+    {
+      "literal": "Madhumitha Venkatesan"
+    },
+    {
+      "literal": "Shicheng Wen"
+    },
+    {
+      "literal": "Jiajing Guo"
+    },
+    {
+      "literal": "Jorge Piazentin Ono"
+    },
+    {
+      "literal": "Liu Ren"
+    },
+    {
+      "literal": "Dongyu Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.15193",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Bibliographic record for ROGUE: Evaluating Corrigibility Failures in Frontier Co
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-00341/record.json
+
 ## Authors
 
 Jeremy Tien, Abishek Anand, Yu-Rou Tuan, Yuchen Shen, J. Zico Kolter, Aran Nayebi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-00341/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-00341/citation.csl.json
 
 ## Recorded arXiv snapshot
 

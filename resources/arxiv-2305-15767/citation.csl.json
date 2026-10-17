@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2305.15767",
+  "citation-key": "arxiv_2305_15767",
+  "type": "article",
+  "title": "A Scalable, Fast and Programmable Neural Decoder for Fault-Tolerant Quantum Computation Using Surface Codes",
+  "URL": "https://arxiv.org/abs/2305.15767v1",
+  "custom": {
+    "catalog_id": "arxiv:2305.15767",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2305.15767",
+    "identifiers": {
+      "arxiv": "2305.15767"
+    },
+    "first_published_at": "2023-05-25",
+    "record_updated_at": "2023-05-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "337989043423afbaf3e05c86ea3772b9498630c12b1fdce87d87b06510e430fd",
+      "submitted_at": "2023-05-25T06:23:32Z",
+      "updated_at": "2023-05-25T06:23:32Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2305.15767v1"
+    }
+  },
+  "note": "First published: 2023-05-25; Recorded arXiv version: v1; Recorded version updated: 2023-05-25T06:23:32Z.",
+  "author": [
+    {
+      "literal": "Mengyu Zhang"
+    },
+    {
+      "literal": "Xiangyu Ren"
+    },
+    {
+      "literal": "Guanglei Xi"
+    },
+    {
+      "literal": "Zhenxing Zhang"
+    },
+    {
+      "literal": "Qiaonian Yu"
+    },
+    {
+      "literal": "Fuming Liu"
+    },
+    {
+      "literal": "Hualiang Zhang"
+    },
+    {
+      "literal": "Shengyu Zhang"
+    },
+    {
+      "literal": "Yi-Cong Zheng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2305.15767",
+  "genre": "preprint",
+  "version": "1"
+}

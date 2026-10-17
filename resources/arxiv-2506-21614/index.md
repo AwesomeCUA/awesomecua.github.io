@@ -16,9 +16,16 @@ Bibliographic record for LastingBench: Defend Benchmarks Against Knowledge Leaka
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-21614/record.json
+
 ## Authors
 
 Yixiong Fang, Tianran Sun, Yuling Shi, Min Wang, Xiaodong Gu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-21614/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-21614/citation.csl.json
 
 ## Recorded arXiv snapshot
 

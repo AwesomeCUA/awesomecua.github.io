@@ -16,9 +16,16 @@ MobileGUI-RL constructs an online training curriculum through agent exploration 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-05720/record.json
+
 ## Authors
 
 Yucheng Shi, Wenhao Yu, Zaitang Li, Yonglin Wang, Hongming Zhang, Ninghao Liu, Haitao Mi, Dong Yu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-05720/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-05720/citation.csl.json
 
 ## Recorded arXiv snapshot
 

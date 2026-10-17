@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2401.13919",
+  "citation-key": "arxiv_2401_13919",
+  "type": "article",
+  "title": "WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models",
+  "URL": "https://arxiv.org/abs/2401.13919v4",
+  "custom": {
+    "catalog_id": "arxiv:2401.13919",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2401.13919",
+    "identifiers": {
+      "arxiv": "2401.13919"
+    },
+    "first_published_at": "2024-01-25",
+    "record_updated_at": "2024-06-06",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "dbc7121c9606c5987df0941b849c216ad8731bebcc74a061cf3f154379d7b8da",
+      "submitted_at": "2024-01-25T03:33:18Z",
+      "updated_at": "2024-06-06T18:37:34Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2401.13919v4"
+    }
+  },
+  "note": "First published: 2024-01-25; Recorded arXiv version: v4; Recorded version updated: 2024-06-06T18:37:34Z.",
+  "author": [
+    {
+      "literal": "Hongliang He"
+    },
+    {
+      "literal": "Wenlin Yao"
+    },
+    {
+      "literal": "Kaixin Ma"
+    },
+    {
+      "literal": "Wenhao Yu"
+    },
+    {
+      "literal": "Yong Dai"
+    },
+    {
+      "literal": "Hongming Zhang"
+    },
+    {
+      "literal": "Zhenzhong Lan"
+    },
+    {
+      "literal": "Dong Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2401.13919",
+  "genre": "preprint",
+  "version": "4"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "arxiv:2602.16855",
+  "citation-key": "arxiv_2602_16855",
+  "type": "article",
+  "title": "Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents",
+  "URL": "https://arxiv.org/abs/2602.16855v1",
+  "custom": {
+    "catalog_id": "arxiv:2602.16855",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2602.16855",
+    "identifiers": {
+      "arxiv": "2602.16855"
+    },
+    "first_published_at": "2026-02-15",
+    "record_updated_at": "2026-02-15",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "eeaddd8a32bdd4b53356ca43e849ea3697ac3d40a05b32e6c930dc445c243898",
+      "submitted_at": "2026-02-15T01:52:19Z",
+      "updated_at": "2026-02-15T01:52:19Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2602.16855v1"
+    }
+  },
+  "note": "First published: 2026-02-15; Recorded arXiv version: v1; Recorded version updated: 2026-02-15T01:52:19Z.",
+  "author": [
+    {
+      "literal": "Haiyang Xu"
+    },
+    {
+      "literal": "Xi Zhang"
+    },
+    {
+      "literal": "Haowei Liu"
+    },
+    {
+      "literal": "Junyang Wang"
+    },
+    {
+      "literal": "Zhaozai Zhu"
+    },
+    {
+      "literal": "Shengjie Zhou"
+    },
+    {
+      "literal": "Xuhao Hu"
+    },
+    {
+      "literal": "Feiyu Gao"
+    },
+    {
+      "literal": "Junjie Cao"
+    },
+    {
+      "literal": "Zihua Wang"
+    },
+    {
+      "literal": "Zhiyuan Chen"
+    },
+    {
+      "literal": "Jitong Liao"
+    },
+    {
+      "literal": "Qi Zheng"
+    },
+    {
+      "literal": "Jiahui Zeng"
+    },
+    {
+      "literal": "Ze Xu"
+    },
+    {
+      "literal": "Shuai Bai"
+    },
+    {
+      "literal": "Junyang Lin"
+    },
+    {
+      "literal": "Jingren Zhou"
+    },
+    {
+      "literal": "Ming Yan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.16855",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,124 @@
+{
+  "id": "arxiv:2602.09082",
+  "citation-key": "arxiv_2602_09082",
+  "type": "article",
+  "title": "UI-Venus-1.5 Technical Report",
+  "URL": "https://arxiv.org/abs/2602.09082v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.09082",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2602.09082",
+    "identifiers": {
+      "arxiv": "2602.09082"
+    },
+    "first_published_at": "2026-02-09",
+    "record_updated_at": "2026-02-24",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "efc4ad8f13d55939abcc783bdd652f276c3ac0164ea35232a3fb9366642d4558",
+      "submitted_at": "2026-02-09T18:43:40Z",
+      "updated_at": "2026-02-24T15:17:55Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.09082v2"
+    }
+  },
+  "note": "First published: 2026-02-09; Recorded arXiv version: v2; Recorded version updated: 2026-02-24T15:17:55Z.",
+  "author": [
+    {
+      "literal": "Venus Team"
+    },
+    {
+      "literal": "Changlong Gao"
+    },
+    {
+      "literal": "Zhangxuan Gu"
+    },
+    {
+      "literal": "Yulin Liu"
+    },
+    {
+      "literal": "Xinyu Qiu"
+    },
+    {
+      "literal": "Shuheng Shen"
+    },
+    {
+      "literal": "Yue Wen"
+    },
+    {
+      "literal": "Tianyu Xia"
+    },
+    {
+      "literal": "Zhenyu Xu"
+    },
+    {
+      "literal": "Zhengwen Zeng"
+    },
+    {
+      "literal": "Beitong Zhou"
+    },
+    {
+      "literal": "Xingran Zhou"
+    },
+    {
+      "literal": "Weizhi Chen"
+    },
+    {
+      "literal": "Sunhao Dai"
+    },
+    {
+      "literal": "Jingya Dou"
+    },
+    {
+      "literal": "Yichen Gong"
+    },
+    {
+      "literal": "Yuan Guo"
+    },
+    {
+      "literal": "Zhenlin Guo"
+    },
+    {
+      "literal": "Feng Li"
+    },
+    {
+      "literal": "Qian Li"
+    },
+    {
+      "literal": "Jinzhen Lin"
+    },
+    {
+      "literal": "Yuqi Zhou"
+    },
+    {
+      "literal": "Linchao Zhu"
+    },
+    {
+      "literal": "Liang Chen"
+    },
+    {
+      "literal": "Zhenyu Guo"
+    },
+    {
+      "literal": "Changhua Meng"
+    },
+    {
+      "literal": "Weiqiang Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.09082",
+  "genre": "preprint",
+  "version": "2"
+}

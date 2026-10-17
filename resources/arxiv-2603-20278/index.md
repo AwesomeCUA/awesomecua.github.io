@@ -16,9 +16,16 @@ Bibliographic record for OpenResearcher: A Fully Open Pipeline for Long-Horizon 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-20278/record.json
+
 ## Authors
 
 Zhuofeng Li, Dongfu Jiang, Xueguang Ma, Haoxiang Zhang, Ping Nie, Yuyu Zhang, Kai Zou, Jianwen Xie, Yu Zhang, Wenhu Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-20278/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-20278/citation.csl.json
 
 ## Recorded arXiv snapshot
 

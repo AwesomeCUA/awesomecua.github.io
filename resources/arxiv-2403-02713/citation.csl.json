@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2403.02713",
+  "citation-key": "arxiv_2403_02713",
+  "type": "article",
+  "title": "Android in the Zoo: Chain-of-Action-Thought for GUI Agents",
+  "URL": "https://arxiv.org/abs/2403.02713v2",
+  "custom": {
+    "catalog_id": "arxiv:2403.02713",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2403.02713",
+    "identifiers": {
+      "arxiv": "2403.02713"
+    },
+    "first_published_at": "2024-03-05",
+    "record_updated_at": "2024-07-13",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4de9e7d68aa8450cab65ecb300524e85b1d2b2a91d58fecef370deceaba64b1e",
+      "submitted_at": "2024-03-05T07:09:35Z",
+      "updated_at": "2024-07-13T02:12:30Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2403.02713v2"
+    }
+  },
+  "note": "First published: 2024-03-05; Recorded arXiv version: v2; Recorded version updated: 2024-07-13T02:12:30Z.",
+  "author": [
+    {
+      "literal": "Jiwen Zhang"
+    },
+    {
+      "literal": "Jihao Wu"
+    },
+    {
+      "literal": "Yihua Teng"
+    },
+    {
+      "literal": "Minghui Liao"
+    },
+    {
+      "literal": "Nuo Xu"
+    },
+    {
+      "literal": "Xiao Xiao"
+    },
+    {
+      "literal": "Zhongyu Wei"
+    },
+    {
+      "literal": "Duyu Tang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.02713",
+  "genre": "preprint",
+  "version": "2"
+}

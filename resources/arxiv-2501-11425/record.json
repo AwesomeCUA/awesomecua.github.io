@@ -1,0 +1,98 @@
+{
+  "aliases": [],
+  "authors": [
+    "Siyu Yuan",
+    "Zehui Chen",
+    "Zhiheng Xi",
+    "Junjie Ye",
+    "Zhengyin Du",
+    "Jiecao Chen"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "692a6984b464367c99beb9c5fbd4bbd8378e79f4a4b749503c8fbb72dd80b16f",
+      "submitted_at": "2025-01-20T11:46:04Z",
+      "updated_at": "2025-03-24T10:18:56Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2501.11425v3"
+    }
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:45:04Z",
+      "role": "primary",
+      "sha256": "bab88dfed88ca440c231aa768530374a0f19498777a70921481a904fddd46bb8",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2303.17760%2C2310.03720%2C2312.11190%2C2403.02502%2C2406.12639%2C2409.18060%2C2410.00201%2C2501.01702%2C2501.11425%2C2502.02533%2C2502.02955%2C2502.12110%2C2502.15760%2C2502.17110%2C2502.19328%2C2503.02197%2C2503.02403%2C2503.02682%2C2503.06580%2C2503.07365%2C2503.09572%2C2503.14021%2C2503.24180%2C2504.02357%2C2504.11675%2C2504.13936&max_results=26"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:45:04Z",
+      "role": "primary",
+      "sha256": "bab88dfed88ca440c231aa768530374a0f19498777a70921481a904fddd46bb8",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "topics"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2303.17760%2C2310.03720%2C2312.11190%2C2403.02502%2C2406.12639%2C2409.18060%2C2410.00201%2C2501.01702%2C2501.11425%2C2502.02533%2C2502.02955%2C2502.12110%2C2502.15760%2C2502.17110%2C2502.19328%2C2503.02197%2C2503.02403%2C2503.02682%2C2503.06580%2C2503.07365%2C2503.09572%2C2503.14021%2C2503.24180%2C2504.02357%2C2504.11675%2C2504.13936&max_results=26"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T13:06:43Z",
+      "role": "primary",
+      "sha256": "c35562ab132e13d69155842ec63a2f4189fe8703822e5620df2592a154d2d7ed",
+      "supports": [
+        "environments",
+        "scope",
+        "notes"
+      ],
+      "url": "https://arxiv.org/html/2501.11425"
+    }
+  ],
+  "id": "arxiv:2501.11425",
+  "identifiers": {
+    "arxiv": "2501.11425"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:45:04Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2501.11425"
+    }
+  ],
+  "name": "Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced. The full paper was also inspected to confirm WebShop evaluation; the broader agent-learning method is classified as adjacent.",
+  "published_at": "2025-01-20",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "adjacent",
+  "summary": "Builds self-critique training examples from searched recovery paths to improve agents' ability to detect and correct errors during interaction.",
+  "topics": [
+    "data-generation",
+    "planning",
+    "robustness"
+  ],
+  "updated_at": "2025-03-24",
+  "url": "https://arxiv.org/abs/2501.11425"
+}

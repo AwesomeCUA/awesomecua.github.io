@@ -16,9 +16,16 @@ Bibliographic record for Connecting the Dots: Training-Free Visual Grounding via
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-19516/record.json
+
 ## Authors
 
 Liqin Luo, Guangyao Chen, Xiawu Zheng, Yongxing Dai, Yixiong Zou, Yonghong Tian
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-19516/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-19516/citation.csl.json
 
 ## Recorded arXiv snapshot
 

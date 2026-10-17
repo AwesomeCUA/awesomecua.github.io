@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2404.15980",
+  "citation-key": "arxiv_2404_15980",
+  "type": "article",
+  "title": "Minimizing the Number of Teleportations in Distributed Quantum Computing Using Alloy",
+  "URL": "https://arxiv.org/abs/2404.15980v1",
+  "custom": {
+    "catalog_id": "arxiv:2404.15980",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2404.15980",
+    "identifiers": {
+      "arxiv": "2404.15980"
+    },
+    "first_published_at": "2024-04-24",
+    "record_updated_at": "2024-04-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "eb2dee25a109ac8a0a7d5b86751bbc5c5dbeceb058a3cb6029d15755a4abed99",
+      "submitted_at": "2024-04-24T16:55:29Z",
+      "updated_at": "2024-04-24T16:55:29Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2404.15980v1"
+    }
+  },
+  "note": "First published: 2024-04-24; Recorded arXiv version: v1; Recorded version updated: 2024-04-24T16:55:29Z.",
+  "author": [
+    {
+      "literal": "Ali Ebnenasir"
+    },
+    {
+      "literal": "Kieran Young"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.15980",
+  "genre": "preprint",
+  "version": "1"
+}

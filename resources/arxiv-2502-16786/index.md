@@ -16,9 +16,16 @@ Bibliographic record for SwimVG: Step-wise Multimodal Fusion and Adaption for Vi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-16786/record.json
+
 ## Authors
 
 Liangtao Shi, Ting Liu, Xiantao Hu, Yue Hu, Quanjun Yin, Richang Hong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-16786/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-16786/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,61 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:03Z",
+      "role": "primary",
+      "sha256": "673b0e309540e57ec3b977689b33f89ef80e45ba1c0ffb05e7412e4862f6b99e",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/OSU-NLP-Group/SeeAct/HEAD/README.md"
+    }
+  ],
+  "id": "github:osu-nlp-group/seeact",
+  "identifiers": {},
+  "kind": "agent",
+  "last_verified_at": "2026-10-16T06:36:03Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/OSU-NLP-Group/SeeAct"
+    }
+  ],
+  "name": "SeeAct",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/OSU-NLP-Group/SeeAct/HEAD/README.md",
+      "target_id": "arxiv:2401.01614",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Vision-based web agent with action grounding.",
+  "topics": [
+    "web-navigation",
+    "grounding"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/OSU-NLP-Group/SeeAct"
+}

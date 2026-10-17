@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2601.09770",
+  "citation-key": "arxiv_2601_09770",
+  "type": "article",
+  "title": "GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents",
+  "URL": "https://arxiv.org/abs/2601.09770v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.09770",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.09770",
+    "identifiers": {
+      "arxiv": "2601.09770"
+    },
+    "first_published_at": "2026-01-14",
+    "record_updated_at": "2026-01-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0d5ed7e72534fc55d028d4f25cb98b2373c88b622cf76396933d7a49d8ecf2e8",
+      "submitted_at": "2026-01-14T14:27:28Z",
+      "updated_at": "2026-01-14T14:27:28Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.09770v1"
+    }
+  },
+  "note": "First published: 2026-01-14; Recorded arXiv version: v1; Recorded version updated: 2026-01-14T14:27:28Z.",
+  "author": [
+    {
+      "literal": "Chen Chen"
+    },
+    {
+      "literal": "Jiawei Shao"
+    },
+    {
+      "literal": "Dakuan Lu"
+    },
+    {
+      "literal": "Haoyi Hu"
+    },
+    {
+      "literal": "Xiangcheng Liu"
+    },
+    {
+      "literal": "Hantao Yao"
+    },
+    {
+      "literal": "Wu Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.09770",
+  "genre": "preprint",
+  "version": "1"
+}

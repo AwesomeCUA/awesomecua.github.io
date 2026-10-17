@@ -16,9 +16,16 @@ Bibliographic record for MobileAIBench: Benchmarking LLMs and LMMs for On-Device
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-10290/record.json
+
 ## Authors
 
 Rithesh Murthy, Liangwei Yang, Juntao Tan, Tulika Manoj Awalgaonkar, Yilun Zhou, Shelby Heinecke, Sachin Desai, Jason Wu, Ran Xu, Sarah Tan, Jianguo Zhang, Zhiwei Liu, Shirley Kokane, Zuxin Liu, Ming Zhu, Huan Wang, Caiming Xiong, Silvio Savarese
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-10290/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-10290/citation.csl.json
 
 ## Recorded arXiv snapshot
 

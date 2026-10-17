@@ -16,9 +16,16 @@ Bibliographic record for Human2Robot: Learning Robot Actions from Paired Human-R
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-16587/record.json
+
 ## Authors
 
 Sicheng Xie, Haidong Cao, Zejia Weng, Zhen Xing, Haoran Chen, Shiwei Shen, Jiaqi Leng, Zuxuan Wu, Yu-Gang Jiang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-16587/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-16587/citation.csl.json
 
 ## Recorded arXiv snapshot
 

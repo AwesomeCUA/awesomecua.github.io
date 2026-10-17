@@ -16,9 +16,16 @@ Bibliographic record for E-MMDiT: Revisiting Multimodal Diffusion Transformer De
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-27135/record.json
+
 ## Authors
 
 Tong Shen, Jingai Yu, Dong Zhou, Dong Li, Emad Barsoum
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-27135/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-27135/citation.csl.json
 
 ## Recorded arXiv snapshot
 

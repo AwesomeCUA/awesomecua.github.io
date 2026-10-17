@@ -16,9 +16,16 @@ Bibliographic record for Hand-Object Interaction Pretraining from Videos. Title,
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-08273/record.json
+
 ## Authors
 
 Himanshu Gaurav Singh, Antonio Loquercio, Carmelo Sferrazza, Jane Wu, Haozhi Qi, Pieter Abbeel, Jitendra Malik
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-08273/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-08273/citation.csl.json
 
 ## Recorded arXiv snapshot
 

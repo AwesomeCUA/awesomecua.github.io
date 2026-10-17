@@ -16,9 +16,16 @@ Bibliographic record for PresentAgent: Multimodal Agent for Presentation Video G
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-04036/record.json
+
 ## Authors
 
 Jingwei Shi, Zeyu Zhang, Biao Wu, Yanjie Liang, Meng Fang, Ling Chen, Yang Zhao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-04036/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-04036/citation.csl.json
 
 ## Recorded arXiv snapshot
 

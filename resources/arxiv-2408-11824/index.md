@@ -16,9 +16,16 @@ Separates exploration and deployment while using a structured application knowle
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2408-11824/record.json
+
 ## Authors
 
 Yanda Li, Chi Zhang, Wenjia Jiang, Wanqi Yang, Bin Fu, Pei Cheng, Xin Chen, Ling Chen, Yunchao Wei
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2408-11824/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2408-11824/citation.csl.json
 
 ## Recorded arXiv snapshot
 

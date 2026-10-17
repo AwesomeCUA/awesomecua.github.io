@@ -16,9 +16,16 @@ SPlanner models mobile-app functions and configurations with extended finite-sta
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-14141/record.json
+
 ## Authors
 
 Fanglin Mo, Junzhe Chen, Haoxuan Zhu, Xuming Hu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-14141/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-14141/citation.csl.json
 
 ## Recorded arXiv snapshot
 

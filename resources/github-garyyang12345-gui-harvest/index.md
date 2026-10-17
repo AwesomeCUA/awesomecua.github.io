@@ -16,6 +16,8 @@ Optimizes GUI-agent execution code from repeated rollout evidence and checks pro
 
 Requires a separately installed benchmark and seed agent harness; benchmark tasks and model weights remain fixed during its optimization procedure.
 
+- Record JSON: https://awesomecua.github.io/resources/github-garyyang12345-gui-harvest/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/GaryYang12345/GUI-HARVEST/HEAD/LICENSE

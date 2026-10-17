@@ -16,9 +16,16 @@ Bibliographic record for Genesis: Evolving Attack Strategies for LLM Web Agent R
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-18314/record.json
+
 ## Authors
 
 Zheng Zhang, Jiarui He, Yuchen Cai, Deheng Ye, Peilin Zhao, Ruili Feng, Hao Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-18314/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-18314/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2310.11222",
+  "citation-key": "arxiv_2310_11222",
+  "type": "article",
+  "title": "Fast Node Vector Distance Computations using Laplacian Solvers",
+  "URL": "https://arxiv.org/abs/2310.11222v1",
+  "custom": {
+    "catalog_id": "arxiv:2310.11222",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2310.11222",
+    "identifiers": {
+      "arxiv": "2310.11222"
+    },
+    "first_published_at": "2023-10-17",
+    "record_updated_at": "2023-10-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "83dacf536e94f372132419c0b1225cb0e6e52690f12d796cbc30009c48b5e90e",
+      "submitted_at": "2023-10-17T12:55:14Z",
+      "updated_at": "2023-10-17T12:55:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2310.11222v1"
+    }
+  },
+  "note": "First published: 2023-10-17; Recorded arXiv version: v1; Recorded version updated: 2023-10-17T12:55:14Z.",
+  "author": [
+    {
+      "literal": "Michele Coscia"
+    },
+    {
+      "literal": "Karel Devriendt"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2310.11222",
+  "genre": "preprint",
+  "version": "1"
+}

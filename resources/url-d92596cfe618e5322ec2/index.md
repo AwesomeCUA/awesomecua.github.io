@@ -16,6 +16,8 @@ Browser-agent API for executing web tasks and extracting structured results.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-d92596cfe618e5322ec2/record.json
+
 ## License declarations
 
 - code: not recorded

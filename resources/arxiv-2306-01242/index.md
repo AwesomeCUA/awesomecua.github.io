@@ -16,9 +16,16 @@ Bibliographic record for Responsible Task Automation: Empowering Large Language 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2306-01242/record.json
+
 ## Authors
 
 Zhizheng Zhang, Xiaoyi Zhang, Wenxuan Xie, Yan Lu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2306-01242/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2306-01242/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Embodied Task Planning via Graph-Informed Action Genera
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-21841/record.json
+
 ## Authors
 
 Xiang Li, Ning Yan, Masood Mortazavi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-21841/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-21841/citation.csl.json
 
 ## Recorded arXiv snapshot
 

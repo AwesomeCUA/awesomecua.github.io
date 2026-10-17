@@ -1,0 +1,110 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/datasets/xlangai/aguvis-stage1/tree/main",
+    "gated": false,
+    "hub_id": "xlangai/aguvis-stage1",
+    "languages": [],
+    "modalities": [],
+    "sample_count": null,
+    "sample_unit": null
+  },
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:03:33Z",
+      "role": "primary",
+      "sha256": "38bda302cf741b9d2b2394b53d157b3c19d8a73e3704c01ed2f9a27c374feb77",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/datasets/xlangai/aguvis-stage1/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:03:33Z",
+      "role": "primary",
+      "sha256": "cb3b8ec88d811d946df3cbf38ef555db5a10d1124668765710c380e9b1988b06",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/api/datasets/xlangai/aguvis-stage1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:00Z",
+      "role": "primary",
+      "sha256": "2dd9f36b818c1b7b6bd772ba8575f6c0ebab6d9e0d307edcc2f196f3e4ba502e",
+      "supports": [
+        "environments",
+        "summary"
+      ],
+      "url": "https://raw.githubusercontent.com/xlang-ai/aguvis/HEAD/README.md"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T02:03:33Z",
+      "role": "primary",
+      "sha256": "38bda302cf741b9d2b2394b53d157b3c19d8a73e3704c01ed2f9a27c374feb77",
+      "supports": [
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/datasets/xlangai/aguvis-stage1/raw/main/README.md"
+    }
+  ],
+  "id": "url:06dd5ac7917c45d48509",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-17T02:03:33Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "apache-2.0",
+      "retrieved_at": "2026-10-17T02:03:33Z",
+      "url": "https://huggingface.co/datasets/xlangai/aguvis-stage1/raw/main/README.md"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/xlangai/aguvis-stage1"
+    }
+  ],
+  "name": "Aguvis stage 1 grounding data",
+  "notes": "The manifest contains grounding JSON annotations and packaged images. The card declares Apache-2.0, which is recorded for this release without overriding source-dataset rights. This first-stage grounding collection is distinct from the project’s second-stage trajectory collection. No archive or training sample was downloaded.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/xlangai/aguvis-stage1/raw/main/README.md",
+      "target_id": "arxiv:2412.04454",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "The first-stage Aguvis training collection, packaging GUI element-grounding annotations and image archives from multiple interface-data sources.",
+  "topics": [
+    "grounding",
+    "data-generation"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/xlangai/aguvis-stage1"
+}

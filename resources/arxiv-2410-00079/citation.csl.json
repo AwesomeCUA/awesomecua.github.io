@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2410.00079",
+  "citation-key": "arxiv_2410_00079",
+  "type": "article",
+  "title": "Interactive Speculative Planning: Enhance Agent Efficiency through Co-design of System and User Interface",
+  "URL": "https://arxiv.org/abs/2410.00079v1",
+  "custom": {
+    "catalog_id": "arxiv:2410.00079",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.00079",
+    "identifiers": {
+      "arxiv": "2410.00079"
+    },
+    "first_published_at": "2024-09-30",
+    "record_updated_at": "2024-09-30",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6f4c873d1dd443ffc18fc4b63595fdfc726eb84388eddbfced0dcde67c5e19a7",
+      "submitted_at": "2024-09-30T16:52:51Z",
+      "updated_at": "2024-09-30T16:52:51Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2410.00079v1"
+    }
+  },
+  "note": "First published: 2024-09-30; Recorded arXiv version: v1; Recorded version updated: 2024-09-30T16:52:51Z.",
+  "author": [
+    {
+      "literal": "Wenyue Hua"
+    },
+    {
+      "literal": "Mengting Wan"
+    },
+    {
+      "literal": "Shashank Vadrevu"
+    },
+    {
+      "literal": "Ryan Nadel"
+    },
+    {
+      "literal": "Yongfeng Zhang"
+    },
+    {
+      "literal": "Chi Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.00079",
+  "genre": "preprint",
+  "version": "1"
+}

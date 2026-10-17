@@ -16,9 +16,16 @@ Bibliographic record for ISE: An Execution-Grounded Recipe for Multi-Turn OS-Age
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-11520/record.json
+
 ## Authors
 
 Siyuan Luo, Nairong Zheng, Lin Zhou, Tiankuo Yao, Shengyou Yuan, Haojia Yu, Cong Pang, Jiapeng Luo, Lewei Lu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-11520/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-11520/citation.csl.json
 
 ## Recorded arXiv snapshot
 

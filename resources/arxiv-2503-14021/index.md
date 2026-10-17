@@ -16,9 +16,16 @@ Uses specialized graphical, textual, and spatial perception components with a da
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-14021/record.json
+
 ## Authors
 
 Ziwei Wang, Weizhi Chen, Leyang Yang, Sheng Zhou, Shengchu Zhao, Hanbei Zhan, Jiongchao Jin, Liangcheng Li, Zirui Shao, Jiajun Bu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-14021/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-14021/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for WebSentinel: Detecting and Localizing Prompt Injection 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-03792/record.json
+
 ## Authors
 
 Xilong Wang, Yinuo Liu, Zhun Wang, Dawn Song, Neil Gong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-03792/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-03792/citation.csl.json
 
 ## Recorded arXiv snapshot
 

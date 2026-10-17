@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2209.03252",
+  "citation-key": "arxiv_2209_03252",
+  "type": "article",
+  "title": "Neuromorphic computing using wavelength-division multiplexing",
+  "URL": "https://arxiv.org/abs/2209.03252v1",
+  "custom": {
+    "catalog_id": "arxiv:2209.03252",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2209.03252",
+    "identifiers": {
+      "arxiv": "2209.03252"
+    },
+    "first_published_at": "2022-09-07",
+    "record_updated_at": "2022-09-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "18905f16d41664f97948524527c3cf3ee8b43f4c0c35add4515dd8e971b0c21e",
+      "submitted_at": "2022-09-07T16:02:06Z",
+      "updated_at": "2022-09-07T16:02:06Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2209.03252v1"
+    }
+  },
+  "note": "First published: 2022-09-07; Recorded arXiv version: v1; Recorded version updated: 2022-09-07T16:02:06Z.",
+  "author": [
+    {
+      "literal": "Xingyuan Xu"
+    },
+    {
+      "literal": "Weiwei Han"
+    },
+    {
+      "literal": "Mengxi Tan"
+    },
+    {
+      "literal": "Yang Sun"
+    },
+    {
+      "literal": "Yang Li"
+    },
+    {
+      "literal": "Jiayang Wu"
+    },
+    {
+      "literal": "Roberto Morandotti"
+    },
+    {
+      "literal": "Arnan Mitchell"
+    },
+    {
+      "literal": "Kun Xu"
+    },
+    {
+      "literal": "David J. Moss"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        9,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2209.03252",
+  "genre": "preprint",
+  "version": "1"
+}

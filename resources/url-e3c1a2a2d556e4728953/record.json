@@ -1,0 +1,83 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "base_model": "Qwen/Qwen2-VL-7B",
+    "download_url": "https://huggingface.co/osunlp/Dreamer-7B/tree/main",
+    "languages": [
+      "en"
+    ]
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T11:10:45Z",
+      "role": "primary",
+      "sha256": "f15e05cc2718948e344bd1fb943402797ef2e3f2130a9ce2fd94d419210c0574",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/osunlp/Dreamer-7B/raw/main/README.md"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-16T11:10:45Z",
+      "role": "primary",
+      "sha256": "f15e05cc2718948e344bd1fb943402797ef2e3f2130a9ce2fd94d419210c0574",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/osunlp/Dreamer-7B/raw/main/README.md"
+    }
+  ],
+  "id": "url:e3c1a2a2d556e4728953",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-16T11:10:45Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "apache-2.0",
+      "retrieved_at": "2026-10-16T11:10:45Z",
+      "url": "https://huggingface.co/osunlp/Dreamer-7B/raw/main/README.md"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/osunlp/Dreamer-7B"
+    }
+  ],
+  "name": "Dreamer-7B",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/osunlp/Dreamer-7B/raw/main/README.md",
+      "target_id": "arxiv:2411.06559",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "WebDreamer model checkpoint that predicts the consequences of web actions from screenshots and textual descriptions.",
+  "topics": [
+    "world-models",
+    "planning"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/osunlp/Dreamer-7B"
+}

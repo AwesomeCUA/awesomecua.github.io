@@ -16,9 +16,16 @@ Bibliographic record for YORO -- Lightweight End to End Visual Grounding. Title,
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2211-07912/record.json
+
 ## Authors
 
 Chih-Hui Ho, Srikar Appalaraju, Bhavan Jasani, R. Manmatha, Nuno Vasconcelos
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2211-07912/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2211-07912/citation.csl.json
 
 ## Recorded arXiv snapshot
 

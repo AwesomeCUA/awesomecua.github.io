@@ -16,6 +16,8 @@ Multilingual UI understanding and interaction data.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-neulab-multiui/record.json
+
 ## Structured profile
 
 - formats: not recorded

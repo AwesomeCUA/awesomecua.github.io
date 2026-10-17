@@ -16,9 +16,16 @@ Bibliographic record for AI Agents: Evolution, Architecture, and Real-World Appl
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-12687/record.json
+
 ## Authors
 
 Naveen Krishnan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-12687/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-12687/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:1006.4865",
+  "citation-key": "arxiv_1006_4865",
+  "type": "article",
+  "title": "Reply to Comment on \"Electron transport through correlated molecules computed using the time-independent Wigner function: Two critical tests''",
+  "URL": "https://arxiv.org/abs/1006.4865v1",
+  "custom": {
+    "catalog_id": "arxiv:1006.4865",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1006.4865",
+    "identifiers": {
+      "arxiv": "1006.4865"
+    },
+    "first_published_at": "2010-06-24",
+    "record_updated_at": "2010-06-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5a54bfbc37bd5d7332b6167175f671496fc33ab1e074ba394b81233d6d7ffb9f",
+      "submitted_at": "2010-06-24T19:42:39Z",
+      "updated_at": "2010-06-24T19:42:39Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1006.4865v1"
+    }
+  },
+  "note": "First published: 2010-06-24; Recorded arXiv version: v1; Recorded version updated: 2010-06-24T19:42:39Z.",
+  "author": [
+    {
+      "literal": "Ioan Baldea"
+    },
+    {
+      "literal": "Horst Koppel"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2010,
+        6,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1006.4865",
+  "genre": "preprint",
+  "version": "1"
+}

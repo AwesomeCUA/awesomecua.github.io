@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2601.07181",
+  "citation-key": "arxiv_2601_07181",
+  "type": "article",
+  "title": "ShowUI-Aloha: Human-Taught GUI Agent",
+  "URL": "https://arxiv.org/abs/2601.07181v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.07181",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2601.07181",
+    "identifiers": {
+      "arxiv": "2601.07181"
+    },
+    "first_published_at": "2026-01-12",
+    "record_updated_at": "2026-01-12",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "60c6a513f53c16ea6d989a7b2be56ad26b83e531bcea46b00f2e08476b686c97",
+      "submitted_at": "2026-01-12T04:04:20Z",
+      "updated_at": "2026-01-12T04:04:20Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.07181v1"
+    }
+  },
+  "note": "First published: 2026-01-12; Recorded arXiv version: v1; Recorded version updated: 2026-01-12T04:04:20Z.",
+  "author": [
+    {
+      "literal": "Yichun Zhang"
+    },
+    {
+      "literal": "Xiangwu Guo"
+    },
+    {
+      "literal": "Yauhong Goh"
+    },
+    {
+      "literal": "Jessica Hu"
+    },
+    {
+      "literal": "Zhiheng Chen"
+    },
+    {
+      "literal": "Xin Wang"
+    },
+    {
+      "literal": "Difei Gao"
+    },
+    {
+      "literal": "Mike Zheng Shou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.07181",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2310.16042",
+  "citation-key": "arxiv_2310_16042",
+  "type": "article",
+  "title": "WebWISE: Web Interface Control and Sequential Exploration with Large Language Models",
+  "URL": "https://arxiv.org/abs/2310.16042v2",
+  "custom": {
+    "catalog_id": "arxiv:2310.16042",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2310.16042",
+    "identifiers": {
+      "arxiv": "2310.16042"
+    },
+    "first_published_at": "2023-10-24",
+    "record_updated_at": "2023-10-25",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7defced3e3beb77a5a6513dbfdff3f102edd922907b523bd062522e54720fa5e",
+      "submitted_at": "2023-10-24T17:57:03Z",
+      "updated_at": "2023-10-25T03:54:11Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2310.16042v2"
+    }
+  },
+  "note": "First published: 2023-10-24; Recorded arXiv version: v2; Recorded version updated: 2023-10-25T03:54:11Z.",
+  "author": [
+    {
+      "literal": "Heyi Tao"
+    },
+    {
+      "literal": "Sethuraman T"
+    },
+    {
+      "literal": "Michal Shlapentokh-Rothman"
+    },
+    {
+      "literal": "Derek Hoiem"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2310.16042",
+  "genre": "preprint",
+  "version": "2"
+}

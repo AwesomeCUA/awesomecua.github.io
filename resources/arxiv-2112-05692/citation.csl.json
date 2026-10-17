@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2112.05692",
+  "citation-key": "arxiv_2112_05692",
+  "type": "article",
+  "title": "VUT: Versatile UI Transformer for Multi-Modal Multi-Task User Interface Modeling",
+  "URL": "https://arxiv.org/abs/2112.05692v1",
+  "custom": {
+    "catalog_id": "arxiv:2112.05692",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2112.05692",
+    "identifiers": {
+      "arxiv": "2112.05692"
+    },
+    "first_published_at": "2021-12-10",
+    "record_updated_at": "2021-12-10",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6e88e6e2659df232174d9fc71a2fac61a021941f096355f8ea3cd4c618c223d3",
+      "submitted_at": "2021-12-10T17:37:26Z",
+      "updated_at": "2021-12-10T17:37:26Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2112.05692v1"
+    }
+  },
+  "note": "First published: 2021-12-10; Recorded arXiv version: v1; Recorded version updated: 2021-12-10T17:37:26Z.",
+  "author": [
+    {
+      "literal": "Yang Li"
+    },
+    {
+      "literal": "Gang Li"
+    },
+    {
+      "literal": "Xin Zhou"
+    },
+    {
+      "literal": "Mostafa Dehghani"
+    },
+    {
+      "literal": "Alexey Gritsenko"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        12,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2112.05692",
+  "genre": "preprint",
+  "version": "1"
+}

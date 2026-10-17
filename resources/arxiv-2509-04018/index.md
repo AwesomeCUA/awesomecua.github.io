@@ -16,9 +16,16 @@ Bibliographic record for FPC-VLA: A Vision-Language-Action Framework with a Supe
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-04018/record.json
+
 ## Authors
 
 Yifan Yang, Zhixiang Duan, Tianshi Xie, Fuyu Cao, Pinxi Shen, Peili Song, Piaopiao Jin, Guokang Sun, Shaoqing Xu, Yangwei You, Jingtai Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-04018/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-04018/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2402.19114",
+  "citation-key": "arxiv_2402_19114",
+  "type": "article",
+  "title": "Universal quantum computation using quantum annealing with the transverse-field Ising Hamiltonian",
+  "URL": "https://arxiv.org/abs/2402.19114v2",
+  "custom": {
+    "catalog_id": "arxiv:2402.19114",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2402.19114",
+    "identifiers": {
+      "arxiv": "2402.19114"
+    },
+    "first_published_at": "2024-02-29",
+    "record_updated_at": "2025-03-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5cf10b4e648cbcefbba49875190bd229b66c8ee626916558df74de113b712f02",
+      "submitted_at": "2024-02-29T12:47:29Z",
+      "updated_at": "2025-03-12T04:29:42Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2402.19114v2"
+    }
+  },
+  "note": "First published: 2024-02-29; Recorded arXiv version: v2; Recorded version updated: 2025-03-12T04:29:42Z.",
+  "author": [
+    {
+      "literal": "Takashi Imoto"
+    },
+    {
+      "literal": "Yuki Susa"
+    },
+    {
+      "literal": "Ryoji Miyazaki"
+    },
+    {
+      "literal": "Yuichiro Matsuzaki"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.19114",
+  "genre": "preprint",
+  "version": "2"
+}

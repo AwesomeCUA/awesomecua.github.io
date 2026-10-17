@@ -16,9 +16,16 @@ Bibliographic record for Solving robust MDPs as a sequence of static RL problems
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-06212/record.json
+
 ## Authors
 
 Adil Zouitine, Matthieu Geist, Emmanuel Rachelson
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-06212/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-06212/citation.csl.json
 
 ## Recorded arXiv snapshot
 

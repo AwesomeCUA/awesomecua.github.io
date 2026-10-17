@@ -16,9 +16,16 @@ Bibliographic record for Hierarchical Prompting Assists Large Language Model on 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2305-14257/record.json
+
 ## Authors
 
 Abishek Sridhar, Robert Lo, Frank F. Xu, Hao Zhu, Shuyan Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2305-14257/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-14257/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,23 @@
+{
+  "status": "excluded",
+  "id": "arxiv:2001.04941",
+  "reason": "The abstract combines parametrized quantum circuits and a variational eigensolver to calculate molecular excited states on quantum hardware. This quantum-chemistry algorithm is outside the GUI/computer-use agent scope.",
+  "decision": {
+    "id": "arxiv:2001.04941",
+    "name": "Computation of molecular excited states on IBM quantum computers using a discriminative variational quantum eigensolver",
+    "url": "https://arxiv.org/abs/2001.04941",
+    "decision": "out_of_scope",
+    "basis": "primary_abstract_review",
+    "reason": "The abstract combines parametrized quantum circuits and a variational eigensolver to calculate molecular excited states on quantum hardware. This quantum-chemistry algorithm is outside the GUI/computer-use agent scope.",
+    "reviewed_at": "2026-10-17T02:13:56Z",
+    "metadata_fingerprint": "e37a2c863efb057457be0852918a79c01b8d9cd576dbc4dab8151880e126761d",
+    "evidence": {
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=1000&max_results=100&sortBy=submittedDate&sortOrder=descending",
+      "sha256": "bb3d2692c294743a8d06d5065cc84b27b229a981c2c650ff20a2ec038797a0e3",
+      "retrieved_at": "2026-10-16T06:37:05Z"
+    },
+    "status": "excluded",
+    "status_reason": "Reviewed snapshot matches retained metadata."
+  },
+  "ledger_url": "https://awesomecua.github.io/downloads/exclusions.json"
+}

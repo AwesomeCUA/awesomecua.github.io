@@ -16,9 +16,16 @@ Bibliographic record for The Surface Potential at the Air-water Interface Comput
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1009-4162/record.json
+
 ## Authors
 
 Kevin Leung
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1009-4162/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1009-4162/citation.csl.json
 
 ## Recorded arXiv snapshot
 

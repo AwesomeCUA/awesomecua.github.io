@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2401.11880",
+  "citation-key": "arxiv_2401_11880",
+  "type": "article",
+  "title": "PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety",
+  "URL": "https://arxiv.org/abs/2401.11880v3",
+  "custom": {
+    "catalog_id": "arxiv:2401.11880",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2401.11880",
+    "identifiers": {
+      "arxiv": "2401.11880"
+    },
+    "first_published_at": "2024-01-22",
+    "record_updated_at": "2024-08-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "67df2290cac3567713de0eca43d58eade547f312ae82a3332eb545050c262c24",
+      "submitted_at": "2024-01-22T12:11:55Z",
+      "updated_at": "2024-08-20T06:45:50Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2401.11880v3"
+    }
+  },
+  "note": "First published: 2024-01-22; Recorded arXiv version: v3; Recorded version updated: 2024-08-20T06:45:50Z.",
+  "author": [
+    {
+      "literal": "Zaibin Zhang"
+    },
+    {
+      "literal": "Yongting Zhang"
+    },
+    {
+      "literal": "Lijun Li"
+    },
+    {
+      "literal": "Hongzhi Gao"
+    },
+    {
+      "literal": "Lijun Wang"
+    },
+    {
+      "literal": "Huchuan Lu"
+    },
+    {
+      "literal": "Feng Zhao"
+    },
+    {
+      "literal": "Yu Qiao"
+    },
+    {
+      "literal": "Jing Shao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2401.11880",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -16,9 +16,16 @@ Bibliographic record for D-Artemis: A Deliberative Cognitive Framework for Mobil
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-21799/record.json
+
 ## Authors
 
 Hongze Mi, Yibo Feng, Wenjie Lu, Yuqi Wang, Jinyuan Li, Song Cao, He Cui, Tengfei Tian, Xuelin Zhang, Haotian Luo, Di Sun, Jun Fang, Hua Chai, Naiqiang Tan, Gang Pan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-21799/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-21799/citation.csl.json
 
 ## Recorded arXiv snapshot
 

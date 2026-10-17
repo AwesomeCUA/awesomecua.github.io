@@ -1,0 +1,59 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "metrics": [],
+    "task_count": null
+  },
+  "environments": [
+    "ios"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:35:59Z",
+      "role": "primary",
+      "sha256": "c984f114df33af953a97d22e14e14246f8a98e0866edcaf283900b309b71d8d1",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/yjyddq/RiOSWorld/HEAD/README.md"
+    }
+  ],
+  "id": "github:yjyddq/riosworld",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-16T06:35:59Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/yjyddq/RiOSWorld"
+    }
+  ],
+  "name": "RiOSWorld",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Evaluation environment for agents operating iOS interfaces.",
+  "topics": [
+    "evaluation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/yjyddq/RiOSWorld"
+}

@@ -16,9 +16,16 @@ Bibliographic record for State Your Intention to Steer Your Attention: An AI Ass
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-14513/record.json
+
 ## Authors
 
 Juheon Choi, Juyong Lee, Jian Kim, Chanyoung Kim, Taywon Min, W. Bradley Knox, Min Kyung Lee, Kimin Lee
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-14513/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-14513/citation.csl.json
 
 ## Recorded arXiv snapshot
 

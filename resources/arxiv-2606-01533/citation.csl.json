@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2606.01533",
+  "citation-key": "arxiv_2606_01533",
+  "type": "article",
+  "title": "Multi-Agent Computer Use",
+  "URL": "https://arxiv.org/abs/2606.01533v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.01533",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.01533",
+    "identifiers": {
+      "arxiv": "2606.01533"
+    },
+    "first_published_at": "2026-06-01",
+    "record_updated_at": "2026-06-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "acc6e8af676b7de5393469d379746e674ccd662f570399622d0d5b1b0e882939",
+      "submitted_at": "2026-06-01T01:29:36Z",
+      "updated_at": "2026-06-01T01:29:36Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.01533v1"
+    }
+  },
+  "note": "First published: 2026-06-01; Recorded arXiv version: v1; Recorded version updated: 2026-06-01T01:29:36Z.",
+  "author": [
+    {
+      "literal": "Jing Yu Koh"
+    },
+    {
+      "literal": "Ruslan Salakhutdinov"
+    },
+    {
+      "literal": "Daniel Fried"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.01533",
+  "genre": "preprint",
+  "version": "1"
+}

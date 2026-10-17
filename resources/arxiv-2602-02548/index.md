@@ -16,9 +16,16 @@ Bibliographic record for ToolTok: Tool Tokenization for Efficient and Generaliza
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-02548/record.json
+
 ## Authors
 
 Xiaoce Wang, Guibin Zhang, Junzhe Li, Jinzhe Tu, Chun Li, Ming Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-02548/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-02548/citation.csl.json
 
 ## Recorded arXiv snapshot
 

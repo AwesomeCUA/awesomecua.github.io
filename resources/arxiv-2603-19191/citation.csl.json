@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2603.19191",
+  "citation-key": "arxiv_2603_19191",
+  "type": "article",
+  "title": "OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards",
+  "URL": "https://arxiv.org/abs/2603.19191v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.19191",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.19191",
+    "identifiers": {
+      "arxiv": "2603.19191"
+    },
+    "first_published_at": "2026-03-19",
+    "record_updated_at": "2026-03-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ff31371580af6a0c43a6c26f076d5060ee06f974d3a6c1ade67348dc0af4859d",
+      "submitted_at": "2026-03-19T17:47:47Z",
+      "updated_at": "2026-03-19T17:47:47Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.19191v1"
+    }
+  },
+  "note": "First published: 2026-03-19; Recorded arXiv version: v1; Recorded version updated: 2026-03-19T17:47:47Z.",
+  "author": [
+    {
+      "literal": "Zehao Li"
+    },
+    {
+      "literal": "Zhenyu Wu"
+    },
+    {
+      "literal": "Yibo Zhao"
+    },
+    {
+      "literal": "Bowen Yang"
+    },
+    {
+      "literal": "Jingjing Xie"
+    },
+    {
+      "literal": "Zhaoyang Liu"
+    },
+    {
+      "literal": "Zhoumianze Liu"
+    },
+    {
+      "literal": "Kaiming Jin"
+    },
+    {
+      "literal": "Jianze Liang"
+    },
+    {
+      "literal": "Zonglin Li"
+    },
+    {
+      "literal": "Feng Wu"
+    },
+    {
+      "literal": "Bowen Zhou"
+    },
+    {
+      "literal": "Zun Wang"
+    },
+    {
+      "literal": "Zichen Ding"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.19191",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Introduces GUIGuard-Bench, which annotates private regions in GUI trajectories w
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-18842/record.json
+
 ## Authors
 
 Yanxi Wang, Zhiling Zhang, Wenbo Zhou, Weiming Zhang, Jie Zhang, Qiannan Zhu, Yu Shi, Shuxin Zheng, Jiyan He
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-18842/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-18842/citation.csl.json
 
 ## Recorded arXiv snapshot
 

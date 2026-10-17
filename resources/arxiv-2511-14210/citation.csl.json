@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2511.14210",
+  "citation-key": "arxiv_2511_14210",
+  "type": "article",
+  "title": "Orion: A Unified Visual Agent for Multimodal Perception, Advanced Visual Reasoning and Execution",
+  "URL": "https://arxiv.org/abs/2511.14210v2",
+  "custom": {
+    "catalog_id": "arxiv:2511.14210",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.14210",
+    "identifiers": {
+      "arxiv": "2511.14210"
+    },
+    "first_published_at": "2025-11-18",
+    "record_updated_at": "2025-11-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e16ef95be92f1c8806f05d2fc638eb7780f95ab69d3887a9a24929220666f647",
+      "submitted_at": "2025-11-18T07:41:02Z",
+      "updated_at": "2025-11-19T20:07:34Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2511.14210v2"
+    }
+  },
+  "note": "First published: 2025-11-18; Recorded arXiv version: v2; Recorded version updated: 2025-11-19T20:07:34Z.",
+  "author": [
+    {
+      "literal": "N Dinesh Reddy"
+    },
+    {
+      "literal": "Dylan Snyder"
+    },
+    {
+      "literal": "Lona Kiragu"
+    },
+    {
+      "literal": "Mirajul Mohin"
+    },
+    {
+      "literal": "Shahrear Bin Amin"
+    },
+    {
+      "literal": "Sudeep Pillai"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.14210",
+  "genre": "preprint",
+  "version": "2"
+}

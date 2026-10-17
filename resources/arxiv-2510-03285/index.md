@@ -16,9 +16,16 @@ Bibliographic record for WAREX: Web Agent Reliability Evaluation on Existing Ben
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-03285/record.json
+
 ## Authors
 
 Su Kara, Fazle Faisal, Suman Nath
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-03285/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-03285/citation.csl.json
 
 ## Recorded arXiv snapshot
 

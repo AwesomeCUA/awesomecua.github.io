@@ -16,9 +16,16 @@ Bibliographic record for Computer Environments Elicit General Agentic Intelligen
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-16206/record.json
+
 ## Authors
 
 Daixuan Cheng, Shaohan Huang, Yuxian Gu, Huatong Song, Guoxin Chen, Li Dong, Wayne Xin Zhao, Ji-Rong Wen, Furu Wei
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-16206/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-16206/citation.csl.json
 
 ## Recorded arXiv snapshot
 

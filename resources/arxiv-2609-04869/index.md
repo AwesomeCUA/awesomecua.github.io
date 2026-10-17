@@ -16,9 +16,16 @@ An online skill-evolution framework turns GUI interaction traces and evaluator f
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-04869/record.json
+
 ## Authors
 
 Longtao Hu, Xiao Liang, Linchao Zhu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-04869/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-04869/citation.csl.json
 
 ## Recorded arXiv snapshot
 

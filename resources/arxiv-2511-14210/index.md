@@ -16,9 +16,16 @@ Bibliographic record for Orion: A Unified Visual Agent for Multimodal Perception
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-14210/record.json
+
 ## Authors
 
 N Dinesh Reddy, Dylan Snyder, Lona Kiragu, Mirajul Mohin, Shahrear Bin Amin, Sudeep Pillai
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-14210/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-14210/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Coffee-Gym: An Environment for Evaluating and Improving
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-19715/record.json
+
 ## Authors
 
 Hyungjoo Chae, Taeyoon Kwon, Seungjun Moon, Yongho Song, Dongjin Kang, Kai Tzu-iunn Ong, Beong-woo Kwak, Seonghyeon Bae, Seung-won Hwang, Jinyoung Yeo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-19715/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-19715/citation.csl.json
 
 ## Recorded arXiv snapshot
 

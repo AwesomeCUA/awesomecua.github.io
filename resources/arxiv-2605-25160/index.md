@@ -16,9 +16,16 @@ Bibliographic record for ScaleWoB: Guiding GUI Agents with Coding Agents via Lar
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-25160/record.json
+
 ## Authors
 
 Guohong Liu, Jialei Ye, Pengzhi Gao, Wei Liu, Jian Luan, Yunxin Liu, Yuanchun Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-25160/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-25160/citation.csl.json
 
 ## Recorded arXiv snapshot
 

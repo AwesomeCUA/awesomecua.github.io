@@ -16,9 +16,16 @@ NaturalGAIA builds verifiable long-horizon GUI tasks from human interaction inte
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-01330/record.json
+
 ## Authors
 
 Zihan Zheng, Tianle Cui, Taoran Wang, Fengtao Wang, Jiahui Pan, Lewei He, Qianglong Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-01330/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-01330/citation.csl.json
 
 ## Recorded arXiv snapshot
 

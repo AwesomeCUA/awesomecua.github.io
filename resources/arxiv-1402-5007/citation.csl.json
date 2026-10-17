@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:1402.5007",
+  "citation-key": "arxiv_1402_5007",
+  "type": "article",
+  "title": "Efficient periodic band diagram computation using a finite element method, Arnoldi eigensolver and sparse linear system solver",
+  "URL": "https://arxiv.org/abs/1402.5007v1",
+  "custom": {
+    "catalog_id": "arxiv:1402.5007",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1402.5007",
+    "identifiers": {
+      "arxiv": "1402.5007"
+    },
+    "first_published_at": "2014-02-20",
+    "record_updated_at": "2014-02-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4b97b702ea1f18a0f73cafe5db027ef3466ef022dafe4fa702f0cd8028b9a2bd",
+      "submitted_at": "2014-02-20T14:16:33Z",
+      "updated_at": "2014-02-20T14:16:33Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1402.5007v1"
+    }
+  },
+  "note": "First published: 2014-02-20; Recorded arXiv version: v1; Recorded version updated: 2014-02-20T14:16:33Z.",
+  "author": [
+    {
+      "literal": "Romain Garnier"
+    },
+    {
+      "literal": "André Barka"
+    },
+    {
+      "literal": "Olivier Pascal"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2014,
+        2,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1402.5007",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ This short paper develops an explorer agent that expands from a demonstrated GUI
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-25705/record.json
+
 ## Authors
 
 Aradhana Nayak, Mussadiq Nazeer, Wang Peng, Feng Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-25705/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-25705/citation.csl.json
 
 ## Recorded arXiv snapshot
 

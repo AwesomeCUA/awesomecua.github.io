@@ -16,9 +16,16 @@ Bibliographic record for Collecting Larg-Scale Robotic Datasets on a High-Speed 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2408-00545/record.json
+
 ## Authors
 
 Yuxin Lin, Jiaxuan Ma, Sizhe Gu, Jipeng Kong, Bowen Xu, Xiting Zhao, Dengji Zhao, Wenhan Cao, Sören Schwertfeger
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2408-00545/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2408-00545/citation.csl.json
 
 ## Recorded arXiv snapshot
 

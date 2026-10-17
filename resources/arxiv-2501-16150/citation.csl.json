@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2501.16150",
+  "citation-key": "arxiv_2501_16150",
+  "type": "article",
+  "title": "A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions",
+  "URL": "https://arxiv.org/abs/2501.16150v3",
+  "custom": {
+    "catalog_id": "arxiv:2501.16150",
+    "catalog_kind": "survey",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2501.16150",
+    "identifiers": {
+      "arxiv": "2501.16150"
+    },
+    "first_published_at": "2025-01-27",
+    "record_updated_at": "2026-03-27",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b36fe818cb176c434b953fe8d2c97b67176b58cc6f8426b629231875de3c0896",
+      "submitted_at": "2025-01-27T15:44:02Z",
+      "updated_at": "2026-03-27T07:41:10Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2501.16150v3"
+    }
+  },
+  "note": "First published: 2025-01-27; Recorded arXiv version: v3; Recorded version updated: 2026-03-27T07:41:10Z.",
+  "author": [
+    {
+      "literal": "Pascal J. Sager"
+    },
+    {
+      "literal": "Benjamin Meyer"
+    },
+    {
+      "literal": "Peng Yan"
+    },
+    {
+      "literal": "Rebekka von Wartburg-Kottler"
+    },
+    {
+      "literal": "Layan Etaiwi"
+    },
+    {
+      "literal": "Aref Enayati"
+    },
+    {
+      "literal": "Gabriel Nobel"
+    },
+    {
+      "literal": "Ahmed Abdulkadir"
+    },
+    {
+      "literal": "Benjamin F. Grewe"
+    },
+    {
+      "literal": "Thilo Stadelmann"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2501.16150",
+  "genre": "preprint",
+  "version": "3"
+}

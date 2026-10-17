@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2506.17913",
+  "citation-key": "arxiv_2506_17913",
+  "type": "article",
+  "title": "Learning, Reasoning, Refinement: A Framework for Kahneman's Dual-System Intelligence in GUI Agents",
+  "URL": "https://arxiv.org/abs/2506.17913v2",
+  "custom": {
+    "catalog_id": "arxiv:2506.17913",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2506.17913",
+    "identifiers": {
+      "arxiv": "2506.17913"
+    },
+    "first_published_at": "2025-06-22",
+    "record_updated_at": "2026-07-21",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f12d2ae58243b5f89a6a510e8f3ef4073a605c4bafdf63c37fd38db57ea84602",
+      "submitted_at": "2025-06-22T06:30:52Z",
+      "updated_at": "2026-07-21T05:30:48Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2506.17913v2"
+    }
+  },
+  "note": "First published: 2025-06-22; Recorded arXiv version: v2; Recorded version updated: 2026-07-21T05:30:48Z.",
+  "author": [
+    {
+      "literal": "Jinjie Wei"
+    },
+    {
+      "literal": "Jiyao Liu"
+    },
+    {
+      "literal": "Lihao Liu"
+    },
+    {
+      "literal": "Ming Hu"
+    },
+    {
+      "literal": "Junzhi Ning"
+    },
+    {
+      "literal": "Mingcheng Li"
+    },
+    {
+      "literal": "Weijie Yin"
+    },
+    {
+      "literal": "Junjun He"
+    },
+    {
+      "literal": "Xiao Liang"
+    },
+    {
+      "literal": "Chao Feng"
+    },
+    {
+      "literal": "Dingkang Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.17913",
+  "genre": "preprint",
+  "version": "2"
+}

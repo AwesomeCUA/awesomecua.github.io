@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2411.02337",
+  "citation-key": "arxiv_2411_02337",
+  "type": "article",
+  "title": "WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2411.02337v3",
+  "custom": {
+    "catalog_id": "arxiv:2411.02337",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2411.02337",
+    "identifiers": {
+      "arxiv": "2411.02337"
+    },
+    "first_published_at": "2024-11-04",
+    "record_updated_at": "2025-01-27",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "db039a2592cd79a1f8f7f1c985c2ddf42447c63d1f58d2815ba1d6ef2369da47",
+      "submitted_at": "2024-11-04T17:59:58Z",
+      "updated_at": "2025-01-27T11:56:15Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2411.02337v3"
+    }
+  },
+  "note": "First published: 2024-11-04; Recorded arXiv version: v3; Recorded version updated: 2025-01-27T11:56:15Z.",
+  "author": [
+    {
+      "literal": "Zehan Qi"
+    },
+    {
+      "literal": "Xiao Liu"
+    },
+    {
+      "literal": "Iat Long Iong"
+    },
+    {
+      "literal": "Hanyu Lai"
+    },
+    {
+      "literal": "Xueqiao Sun"
+    },
+    {
+      "literal": "Wenyi Zhao"
+    },
+    {
+      "literal": "Yu Yang"
+    },
+    {
+      "literal": "Xinyue Yang"
+    },
+    {
+      "literal": "Jiadai Sun"
+    },
+    {
+      "literal": "Shuntian Yao"
+    },
+    {
+      "literal": "Tianjie Zhang"
+    },
+    {
+      "literal": "Wei Xu"
+    },
+    {
+      "literal": "Jie Tang"
+    },
+    {
+      "literal": "Yuxiao Dong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2411.02337",
+  "genre": "preprint",
+  "version": "3"
+}

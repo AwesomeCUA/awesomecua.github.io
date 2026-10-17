@@ -16,6 +16,8 @@ Released model checkpoint associated with ShowUI.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-c0f39f7cf2cd9c18e8bd/record.json
+
 ## License declarations
 
 - code: not recorded

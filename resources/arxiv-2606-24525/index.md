@@ -16,9 +16,16 @@ Bibliographic record for VisCritic: Visual State Comparison as Process Reward fo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-24525/record.json
+
 ## Authors
 
 Jiachen Qian
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-24525/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-24525/citation.csl.json
 
 ## Recorded arXiv snapshot
 

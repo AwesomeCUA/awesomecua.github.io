@@ -16,9 +16,16 @@ Bibliographic record for ChatInject: Abusing Chat Templates for Prompt Injection
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-22830/record.json
+
 ## Authors
 
 Hwan Chang, Yonghyun Jun, Hwanhee Lee
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-22830/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-22830/citation.csl.json
 
 ## Recorded arXiv snapshot
 

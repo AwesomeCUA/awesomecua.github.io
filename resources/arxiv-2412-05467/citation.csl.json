@@ -1,0 +1,103 @@
+{
+  "id": "arxiv:2412.05467",
+  "citation-key": "arxiv_2412_05467",
+  "type": "article",
+  "title": "The BrowserGym Ecosystem for Web Agent Research",
+  "URL": "https://arxiv.org/abs/2412.05467v4",
+  "custom": {
+    "catalog_id": "arxiv:2412.05467",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2412.05467",
+    "identifiers": {
+      "arxiv": "2412.05467"
+    },
+    "first_published_at": "2024-12-06",
+    "record_updated_at": "2025-02-28",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "572a993cd37a83bf7100dca71f0a44473ed6547f521409abf0f4ee22733a28cc",
+      "submitted_at": "2024-12-06T23:43:59Z",
+      "updated_at": "2025-02-28T16:02:27Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2412.05467v4"
+    }
+  },
+  "note": "First published: 2024-12-06; Recorded arXiv version: v4; Recorded version updated: 2025-02-28T16:02:27Z.",
+  "author": [
+    {
+      "literal": "Thibault Le Sellier De Chezelles"
+    },
+    {
+      "literal": "Maxime Gasse"
+    },
+    {
+      "literal": "Alexandre Drouin"
+    },
+    {
+      "literal": "Massimo Caccia"
+    },
+    {
+      "literal": "Léo Boisvert"
+    },
+    {
+      "literal": "Megh Thakkar"
+    },
+    {
+      "literal": "Tom Marty"
+    },
+    {
+      "literal": "Rim Assouel"
+    },
+    {
+      "literal": "Sahar Omidi Shayegan"
+    },
+    {
+      "literal": "Lawrence Keunho Jang"
+    },
+    {
+      "literal": "Xing Han Lù"
+    },
+    {
+      "literal": "Ori Yoran"
+    },
+    {
+      "literal": "Dehan Kong"
+    },
+    {
+      "literal": "Frank F. Xu"
+    },
+    {
+      "literal": "Siva Reddy"
+    },
+    {
+      "literal": "Quentin Cappart"
+    },
+    {
+      "literal": "Graham Neubig"
+    },
+    {
+      "literal": "Ruslan Salakhutdinov"
+    },
+    {
+      "literal": "Nicolas Chapados"
+    },
+    {
+      "literal": "Alexandre Lacoste"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.05467",
+  "genre": "preprint",
+  "version": "4"
+}

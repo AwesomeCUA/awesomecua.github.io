@@ -16,9 +16,16 @@ Bibliographic record for Blind Gods and Broken Screens: Architecting a Secure, I
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-10915/record.json
+
 ## Authors
 
 Zhenhua Zou, Sheng Guo, Qiuyang Zhan, Lepeng Zhao, Shuo Li, Qi Li, Ke Xu, Mingwei Xu, Zhuotao Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-10915/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-10915/citation.csl.json
 
 ## Recorded arXiv snapshot
 

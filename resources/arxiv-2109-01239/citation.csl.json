@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2109.01239",
+  "citation-key": "arxiv_2109_01239",
+  "type": "article",
+  "title": "A Max-Min Task Offloading Algorithm for Mobile Edge Computing Using Non-Orthogonal Multiple Access",
+  "URL": "https://arxiv.org/abs/2109.01239v2",
+  "custom": {
+    "catalog_id": "arxiv:2109.01239",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2109.01239",
+    "identifiers": {
+      "arxiv": "2109.01239"
+    },
+    "first_published_at": "2021-09-02",
+    "record_updated_at": "2023-10-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c7ae4975b04c3638b7775475e837f9888af5854256f8311340af96bcd43c1f38",
+      "submitted_at": "2021-09-02T22:52:00Z",
+      "updated_at": "2023-10-12T21:12:37Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2109.01239v2"
+    }
+  },
+  "note": "First published: 2021-09-02; Recorded arXiv version: v2; Recorded version updated: 2023-10-12T21:12:37Z.",
+  "author": [
+    {
+      "literal": "Vaibhav Kumar"
+    },
+    {
+      "literal": "Muhammad Fainan Hanif"
+    },
+    {
+      "literal": "Markku Juntti"
+    },
+    {
+      "literal": "Le-Nam Tran"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        9,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2109.01239",
+  "genre": "preprint",
+  "version": "2"
+}

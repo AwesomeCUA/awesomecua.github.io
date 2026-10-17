@@ -16,9 +16,16 @@ Bibliographic record for Comment on some articles regarding magnetization switch
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1501-05941/record.json
+
 ## Authors
 
 Kuntal Roy
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1501-05941/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1501-05941/citation.csl.json
 
 ## Recorded arXiv snapshot
 

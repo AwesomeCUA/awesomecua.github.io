@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2402.12914",
+  "citation-key": "arxiv_2402_12914",
+  "type": "article",
+  "title": "Large Language Model-based Human-Agent Collaboration for Complex Task Solving",
+  "URL": "https://arxiv.org/abs/2402.12914v1",
+  "custom": {
+    "catalog_id": "arxiv:2402.12914",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2402.12914",
+    "identifiers": {
+      "arxiv": "2402.12914"
+    },
+    "first_published_at": "2024-02-20",
+    "record_updated_at": "2024-02-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f7497bde3cd7602a4122005baf8a538a3997fc868e4e363b0b161e7261d9520e",
+      "submitted_at": "2024-02-20T11:03:36Z",
+      "updated_at": "2024-02-20T11:03:36Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2402.12914v1"
+    }
+  },
+  "note": "First published: 2024-02-20; Recorded arXiv version: v1; Recorded version updated: 2024-02-20T11:03:36Z.",
+  "author": [
+    {
+      "literal": "Xueyang Feng"
+    },
+    {
+      "literal": "Zhi-Yuan Chen"
+    },
+    {
+      "literal": "Yujia Qin"
+    },
+    {
+      "literal": "Yankai Lin"
+    },
+    {
+      "literal": "Xu Chen"
+    },
+    {
+      "literal": "Zhiyuan Liu"
+    },
+    {
+      "literal": "Ji-Rong Wen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.12914",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Game On: Towards Language Models as RL Experimenters. T
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-03402/record.json
+
 ## Authors
 
 Jingwei Zhang, Thomas Lampe, Abbas Abdolmaleki, Jost Tobias Springenberg, Martin Riedmiller
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-03402/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-03402/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Behavioral Cloning via Search in Video PreTraining Late
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2212-13326/record.json
+
 ## Authors
 
 Federico Malato, Florian Leopold, Amogh Raut, Ville Hautamäki, Andrew Melnik
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2212-13326/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2212-13326/citation.csl.json
 
 ## Recorded arXiv snapshot
 

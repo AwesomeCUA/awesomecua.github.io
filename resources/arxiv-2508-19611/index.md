@@ -16,9 +16,16 @@ Bibliographic record for Instructional Agents: Reducing Teaching Faculty Workloa
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-19611/record.json
+
 ## Authors
 
 Huaiyuan Yao, Wanpeng Xu, Justin Turnau, Nadia Kellam, Hua Wei
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-19611/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-19611/citation.csl.json
 
 ## Recorded arXiv snapshot
 

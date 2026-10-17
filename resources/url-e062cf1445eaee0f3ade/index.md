@@ -16,6 +16,8 @@ Synthetic GUI grounding data associated with UI decomposition research and the O
 
 The dataset card requires coordinate scaling to stay aligned with the image processor. Follow the publisher recipe before using the grounding labels.
 
+- Record JSON: https://awesomecua.github.io/resources/url-e062cf1445eaee0f3ade/record.json
+
 ## Structured profile
 
 - formats: not recorded

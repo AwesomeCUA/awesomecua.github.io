@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2501.07834",
+  "citation-key": "arxiv_2501_07834",
+  "type": "article",
+  "title": "Flow: Modularized Agentic Workflow Automation",
+  "URL": "https://arxiv.org/abs/2501.07834v2",
+  "custom": {
+    "catalog_id": "arxiv:2501.07834",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2501.07834",
+    "identifiers": {
+      "arxiv": "2501.07834"
+    },
+    "first_published_at": "2025-01-14",
+    "record_updated_at": "2025-02-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "57f5c4a37f662508b43896d42ed6d27bd5a7777fee98447b63e169cbe573109b",
+      "submitted_at": "2025-01-14T04:35:37Z",
+      "updated_at": "2025-02-23T06:20:37Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2501.07834v2"
+    }
+  },
+  "note": "First published: 2025-01-14; Recorded arXiv version: v2; Recorded version updated: 2025-02-23T06:20:37Z.",
+  "author": [
+    {
+      "literal": "Boye Niu"
+    },
+    {
+      "literal": "Yiliao Song"
+    },
+    {
+      "literal": "Kai Lian"
+    },
+    {
+      "literal": "Yifan Shen"
+    },
+    {
+      "literal": "Yu Yao"
+    },
+    {
+      "literal": "Kun Zhang"
+    },
+    {
+      "literal": "Tongliang Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2501.07834",
+  "genre": "preprint",
+  "version": "2"
+}

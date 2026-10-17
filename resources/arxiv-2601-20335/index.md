@@ -16,9 +16,16 @@ Introduces MobileBench-OL, an online benchmark of Chinese-app tasks spanning exe
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-20335/record.json
+
 ## Authors
 
 Qinzhuo Wu, Zhizhuo Yang, Hanhao Li, Pengzhi Gao, Wei Liu, Jian Luan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-20335/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-20335/citation.csl.json
 
 ## Recorded arXiv snapshot
 

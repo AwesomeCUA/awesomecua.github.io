@@ -16,9 +16,16 @@ Bibliographic record for Distributed Quantum Faithful Simulation and Function Co
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2101-02360/record.json
+
 ## Authors
 
 Touheed Anwar Atif, S. Sandeep Pradhan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2101-02360/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2101-02360/citation.csl.json
 
 ## Recorded arXiv snapshot
 

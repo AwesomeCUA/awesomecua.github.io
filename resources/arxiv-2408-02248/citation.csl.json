@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2408.02248",
+  "citation-key": "arxiv_2408_02248",
+  "type": "article",
+  "title": "ReDel: A Toolkit for LLM-Powered Recursive Multi-Agent Systems",
+  "URL": "https://arxiv.org/abs/2408.02248v2",
+  "custom": {
+    "catalog_id": "arxiv:2408.02248",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2408.02248",
+    "identifiers": {
+      "arxiv": "2408.02248"
+    },
+    "first_published_at": "2024-08-05",
+    "record_updated_at": "2024-11-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bc30213f187e4399379015695f9476746d22a900fff72090fba1c1f39e827107",
+      "submitted_at": "2024-08-05T05:43:23Z",
+      "updated_at": "2024-11-04T19:16:19Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2408.02248v2"
+    }
+  },
+  "note": "First published: 2024-08-05; Recorded arXiv version: v2; Recorded version updated: 2024-11-04T19:16:19Z.",
+  "author": [
+    {
+      "literal": "Andrew Zhu"
+    },
+    {
+      "literal": "Liam Dugan"
+    },
+    {
+      "literal": "Chris Callison-Burch"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2408.02248",
+  "genre": "preprint",
+  "version": "2"
+}

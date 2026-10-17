@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2511.19663",
+  "citation-key": "arxiv_2511_19663",
+  "type": "article",
+  "title": "Fara-7B: An Efficient Agentic Model for Computer Use",
+  "URL": "https://arxiv.org/abs/2511.19663v1",
+  "custom": {
+    "catalog_id": "arxiv:2511.19663",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2511.19663",
+    "identifiers": {
+      "arxiv": "2511.19663"
+    },
+    "first_published_at": "2025-11-24",
+    "record_updated_at": "2025-11-24",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f0e23ba9b31a01956836e67329652882f84fe8ebef1075385a6af5e68cdae936",
+      "submitted_at": "2025-11-24T19:56:28Z",
+      "updated_at": "2025-11-24T19:56:28Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2511.19663v1"
+    }
+  },
+  "note": "First published: 2025-11-24; Recorded arXiv version: v1; Recorded version updated: 2025-11-24T19:56:28Z.",
+  "author": [
+    {
+      "literal": "Ahmed Awadallah"
+    },
+    {
+      "literal": "Yash Lara"
+    },
+    {
+      "literal": "Raghav Magazine"
+    },
+    {
+      "literal": "Hussein Mozannar"
+    },
+    {
+      "literal": "Akshay Nambi"
+    },
+    {
+      "literal": "Yash Pandya"
+    },
+    {
+      "literal": "Aravind Rajeswaran"
+    },
+    {
+      "literal": "Corby Rosset"
+    },
+    {
+      "literal": "Alexey Taymanov"
+    },
+    {
+      "literal": "Vibhav Vineet"
+    },
+    {
+      "literal": "Spencer Whitehead"
+    },
+    {
+      "literal": "Andrew Zhao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.19663",
+  "genre": "preprint",
+  "version": "1"
+}

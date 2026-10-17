@@ -16,9 +16,16 @@ WebSight uses a vision-language model trained on web-interface examples within a
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-16987/record.json
+
 ## Authors
 
 Tanvir Bhathal, Asanshay Gupta
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-16987/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-16987/citation.csl.json
 
 ## Recorded arXiv snapshot
 

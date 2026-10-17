@@ -16,9 +16,16 @@ Introduces STP-GUI, which selects spatially coherent screenshot windows conditio
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-20390/record.json
+
 ## Authors
 
 Shuo Wang, Sifan Zhou, Xiaobo Wang, Tianyu Fu, Chenxu Zhao, Anyang Su, Hanning Wang, Ping Jiang, Minghui Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-20390/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-20390/citation.csl.json
 
 ## Recorded arXiv snapshot
 

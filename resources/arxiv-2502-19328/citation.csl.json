@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2502.19328",
+  "citation-key": "arxiv_2502_19328",
+  "type": "article",
+  "title": "Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems",
+  "URL": "https://arxiv.org/abs/2502.19328v1",
+  "custom": {
+    "catalog_id": "arxiv:2502.19328",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2502.19328",
+    "identifiers": {
+      "arxiv": "2502.19328"
+    },
+    "first_published_at": "2025-02-26",
+    "record_updated_at": "2025-02-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8a454d3baa94389440f866b71013ab7a763a092879962ceb3c5978e86a7740b0",
+      "submitted_at": "2025-02-26T17:19:12Z",
+      "updated_at": "2025-02-26T17:19:12Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2502.19328v1"
+    }
+  },
+  "note": "First published: 2025-02-26; Recorded arXiv version: v1; Recorded version updated: 2025-02-26T17:19:12Z.",
+  "author": [
+    {
+      "literal": "Hao Peng"
+    },
+    {
+      "literal": "Yunjia Qi"
+    },
+    {
+      "literal": "Xiaozhi Wang"
+    },
+    {
+      "literal": "Zijun Yao"
+    },
+    {
+      "literal": "Bin Xu"
+    },
+    {
+      "literal": "Lei Hou"
+    },
+    {
+      "literal": "Juanzi Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.19328",
+  "genre": "preprint",
+  "version": "1"
+}

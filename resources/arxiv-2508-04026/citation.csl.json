@@ -1,0 +1,145 @@
+{
+  "id": "arxiv:2508.04026",
+  "citation-key": "arxiv_2508_04026",
+  "type": "article",
+  "title": "VeriWeb: Verifiable Long-Chain Web Benchmark for Agentic Information-Seeking",
+  "URL": "https://arxiv.org/abs/2508.04026v2",
+  "custom": {
+    "catalog_id": "arxiv:2508.04026",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.04026",
+    "identifiers": {
+      "arxiv": "2508.04026"
+    },
+    "first_published_at": "2025-08-06",
+    "record_updated_at": "2026-02-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2746f8bea42f6153e7ff009f28d334c662a3d7d6826d0d8b94a1bbe97b07e325",
+      "submitted_at": "2025-08-06T02:38:18Z",
+      "updated_at": "2026-02-27T14:53:25Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2508.04026v2"
+    }
+  },
+  "note": "First published: 2025-08-06; Recorded arXiv version: v2; Recorded version updated: 2026-02-27T14:53:25Z.",
+  "author": [
+    {
+      "literal": "Shunyu Liu"
+    },
+    {
+      "literal": "Minghao Liu"
+    },
+    {
+      "literal": "Huichi Zhou"
+    },
+    {
+      "literal": "Zhenyu Cui"
+    },
+    {
+      "literal": "Yang Zhou"
+    },
+    {
+      "literal": "Yuhao Zhou"
+    },
+    {
+      "literal": "Jialiang Gao"
+    },
+    {
+      "literal": "Heng Zhou"
+    },
+    {
+      "literal": "Yunhao Yang"
+    },
+    {
+      "literal": "Wendong Fan"
+    },
+    {
+      "literal": "puzhen zhang"
+    },
+    {
+      "literal": "Ge Zhang"
+    },
+    {
+      "literal": "Jiajun Shi"
+    },
+    {
+      "literal": "Weihao Xuan"
+    },
+    {
+      "literal": "Jiaxing Huang"
+    },
+    {
+      "literal": "Shuang Luo"
+    },
+    {
+      "literal": "Fang Wu"
+    },
+    {
+      "literal": "Heli Qi"
+    },
+    {
+      "literal": "Qingcheng Zeng"
+    },
+    {
+      "literal": "Junjie Wang"
+    },
+    {
+      "literal": "Aosong Feng"
+    },
+    {
+      "literal": "Jindi Lv"
+    },
+    {
+      "literal": "Sicong Jiang"
+    },
+    {
+      "literal": "Ziqi Ren"
+    },
+    {
+      "literal": "Wangchunshu Zhou"
+    },
+    {
+      "literal": "Zhenfei Yin"
+    },
+    {
+      "literal": "Wenlong Zhang"
+    },
+    {
+      "literal": "Guohao Li"
+    },
+    {
+      "literal": "Wenhao Yu"
+    },
+    {
+      "literal": "Lei Ma"
+    },
+    {
+      "literal": "Lei Bai"
+    },
+    {
+      "literal": "Qunshu Lin"
+    },
+    {
+      "literal": "Mingli Song"
+    },
+    {
+      "literal": "Dacheng Tao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.04026",
+  "genre": "preprint",
+  "version": "2"
+}

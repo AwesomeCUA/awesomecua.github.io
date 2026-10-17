@@ -16,9 +16,16 @@ Bibliographic record for Performance Improvement of IaaS Type of Cloud Computing
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-00395/record.json
+
 ## Authors
 
 Dawit Zeleke Admassu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-00395/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-00395/citation.csl.json
 
 ## Recorded arXiv snapshot
 

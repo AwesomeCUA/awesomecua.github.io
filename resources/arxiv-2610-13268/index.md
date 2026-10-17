@@ -16,9 +16,16 @@ Analyzes recurring distractor clicks in GUI grounding and introduces ConClick, a
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-13268/record.json
+
 ## Authors
 
 Ruotian Zhang, Yuhui Zhang, Junzhe Huang, Yu Xin, Hehe Fan, Xiaoxiao Sun
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-13268/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-13268/citation.csl.json
 
 ## Recorded arXiv snapshot
 

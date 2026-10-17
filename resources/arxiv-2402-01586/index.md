@@ -16,9 +16,16 @@ Bibliographic record for TrustAgent: Towards Safe and Trustworthy LLM-based Agen
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-01586/record.json
+
 ## Authors
 
 Wenyue Hua, Xianjun Yang, Mingyu Jin, Zelong Li, Wei Cheng, Ruixiang Tang, Yongfeng Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-01586/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-01586/citation.csl.json
 
 ## Recorded arXiv snapshot
 

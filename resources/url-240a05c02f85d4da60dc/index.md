@@ -16,6 +16,8 @@ OpenAI browser product integrating ChatGPT and agent capabilities.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-240a05c02f85d4da60dc/record.json
+
 ## License declarations
 
 - code: not recorded

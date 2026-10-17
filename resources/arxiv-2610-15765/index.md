@@ -16,9 +16,16 @@ Bibliographic record for A Decade in a Day: Synthesizing Agent-Native Interfaces
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-15765/record.json
+
 ## Authors
 
 Alan Wu, Wei Tao, Yiwen Guo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-15765/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-15765/citation.csl.json
 
 ## Recorded arXiv snapshot
 

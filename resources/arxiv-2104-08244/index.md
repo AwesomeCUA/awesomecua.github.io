@@ -16,9 +16,16 @@ Bibliographic record for Open data for Moroccan license plates for OCR applicati
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2104-08244/record.json
+
 ## Authors
 
 Abdelkrim Alahyane, Mohamed El Fakir, Saad Benjelloun, Ikram Chairi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2104-08244/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2104-08244/citation.csl.json
 
 ## Recorded arXiv snapshot
 

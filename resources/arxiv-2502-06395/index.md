@@ -16,9 +16,16 @@ AppVLM first learns app actions from AndroidControl and then refines its policy 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-06395/record.json
+
 ## Authors
 
 Georgios Papoudakis, Thomas Coste, Zhihao Wu, Jianye Hao, Jun Wang, Kun Shao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-06395/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-06395/citation.csl.json
 
 ## Recorded arXiv snapshot
 

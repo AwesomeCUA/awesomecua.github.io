@@ -1,0 +1,69 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:03Z",
+      "role": "primary",
+      "sha256": "101595fa1f62d30271b0560f8aaa54286d7f6fc006e2aa9d8b73086583b27656",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/MadeAgents/mobile-use/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:04Z",
+      "role": "primary",
+      "sha256": "806f2d2c84a015f221f39691c95f7bdd0ff18f134e563d1155caa787076653fe",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/MadeAgents/mobile-use/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:madeagents/mobile-use",
+  "identifiers": {},
+  "kind": "agent",
+  "last_verified_at": "2026-10-16T06:36:03Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-16T06:42:04Z",
+      "url": "https://raw.githubusercontent.com/MadeAgents/mobile-use/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/MadeAgents/mobile-use"
+    }
+  ],
+  "name": "Mobile Use",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "SDK and agent tooling for mobile interaction.",
+  "topics": [
+    "mobile-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/MadeAgents/mobile-use"
+}

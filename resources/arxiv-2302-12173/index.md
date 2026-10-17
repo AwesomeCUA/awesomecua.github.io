@@ -16,9 +16,16 @@ Bibliographic record for Not what you've signed up for: Compromising Real-World 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2302-12173/record.json
+
 ## Authors
 
 Kai Greshake, Sahar Abdelnabi, Shailesh Mishra, Christoph Endres, Thorsten Holz, Mario Fritz
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2302-12173/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2302-12173/citation.csl.json
 
 ## Recorded arXiv snapshot
 

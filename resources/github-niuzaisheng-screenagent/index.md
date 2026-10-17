@@ -16,6 +16,8 @@ Agent implementation for controlling desktop interfaces.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-niuzaisheng-screenagent/record.json
+
 ## License declarations
 
 - code: not recorded

@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2407.04363",
+  "citation-key": "arxiv_2407_04363",
+  "type": "article",
+  "title": "AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents",
+  "URL": "https://arxiv.org/abs/2407.04363v3",
+  "custom": {
+    "catalog_id": "arxiv:2407.04363",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2407.04363",
+    "identifiers": {
+      "arxiv": "2407.04363"
+    },
+    "first_published_at": "2024-07-05",
+    "record_updated_at": "2025-05-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4f01004cc70f18c14a24cb22ccda9e58613d1e9e9fbd14551573216beeca5875",
+      "submitted_at": "2024-07-05T09:06:47Z",
+      "updated_at": "2025-05-15T10:57:51Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2407.04363v3"
+    }
+  },
+  "note": "First published: 2024-07-05; Recorded arXiv version: v3; Recorded version updated: 2025-05-15T10:57:51Z.",
+  "author": [
+    {
+      "literal": "Petr Anokhin"
+    },
+    {
+      "literal": "Nikita Semenov"
+    },
+    {
+      "literal": "Artyom Sorokin"
+    },
+    {
+      "literal": "Dmitry Evseev"
+    },
+    {
+      "literal": "Andrey Kravchenko"
+    },
+    {
+      "literal": "Mikhail Burtsev"
+    },
+    {
+      "literal": "Evgeny Burnaev"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.04363",
+  "genre": "preprint",
+  "version": "3"
+}

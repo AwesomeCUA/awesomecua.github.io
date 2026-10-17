@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2506.11425",
+  "citation-key": "arxiv_2506_11425",
+  "type": "article",
+  "title": "Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards",
+  "URL": "https://arxiv.org/abs/2506.11425v2",
+  "custom": {
+    "catalog_id": "arxiv:2506.11425",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2506.11425",
+    "identifiers": {
+      "arxiv": "2506.11425"
+    },
+    "first_published_at": "2025-06-13",
+    "record_updated_at": "2025-06-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2ea6180c506bf9266a4bdc65a72fcc827ea30932658391e6ab07581e066302d5",
+      "submitted_at": "2025-06-13T02:46:53Z",
+      "updated_at": "2025-06-20T23:32:06Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2506.11425v2"
+    }
+  },
+  "note": "First published: 2025-06-13; Recorded arXiv version: v2; Recorded version updated: 2025-06-20T23:32:06Z.",
+  "author": [
+    {
+      "literal": "Jeff Da"
+    },
+    {
+      "literal": "Clinton Wang"
+    },
+    {
+      "literal": "Xiang Deng"
+    },
+    {
+      "literal": "Yuntao Ma"
+    },
+    {
+      "literal": "Nikhil Barhate"
+    },
+    {
+      "literal": "Sean Hendryx"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.11425",
+  "genre": "preprint",
+  "version": "2"
+}

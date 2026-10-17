@@ -16,9 +16,16 @@ Bibliographic record for GUI-CIDER: Mid-training GUI Agents via Causal Internali
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-28534/record.json
+
 ## Authors
 
 Zheng Wu, Chengcheng Han, Zhengxi Lu, Tianjie Ju, Yanyu Chen, Qi Gu, Xunliang Cai, Zhuosheng Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-28534/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-28534/citation.csl.json
 
 ## Recorded arXiv snapshot
 

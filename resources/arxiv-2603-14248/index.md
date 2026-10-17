@@ -16,9 +16,16 @@ Bibliographic record for Why Do LLM-based Web Agents Fail? A Hierarchical Planni
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-14248/record.json
+
 ## Authors
 
 Mohamed Aghzal, Gregory J. Stein, Ziyu Yao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-14248/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-14248/citation.csl.json
 
 ## Recorded arXiv snapshot
 

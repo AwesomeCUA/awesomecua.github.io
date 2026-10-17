@@ -16,9 +16,16 @@ GUI-explorer generates exploration goals from screenshots and interface structur
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-16827/record.json
+
 ## Authors
 
 Bin Xie, Rui Shao, Gongwei Chen, Kaiwen Zhou, Yinchuan Li, Jie Liu, Min Zhang, Liqiang Nie
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-16827/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-16827/citation.csl.json
 
 ## Recorded arXiv snapshot
 

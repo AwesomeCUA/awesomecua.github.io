@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2507.04036",
+  "citation-key": "arxiv_2507_04036",
+  "type": "article",
+  "title": "PresentAgent: Multimodal Agent for Presentation Video Generation",
+  "URL": "https://arxiv.org/abs/2507.04036v1",
+  "custom": {
+    "catalog_id": "arxiv:2507.04036",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2507.04036",
+    "identifiers": {
+      "arxiv": "2507.04036"
+    },
+    "first_published_at": "2025-07-05",
+    "record_updated_at": "2025-07-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5eb51028622be44857197c0a83de60d6adf5daba46d15884b2bc47509a3bddcc",
+      "submitted_at": "2025-07-05T13:24:15Z",
+      "updated_at": "2025-07-05T13:24:15Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2507.04036v1"
+    }
+  },
+  "note": "First published: 2025-07-05; Recorded arXiv version: v1; Recorded version updated: 2025-07-05T13:24:15Z.",
+  "author": [
+    {
+      "literal": "Jingwei Shi"
+    },
+    {
+      "literal": "Zeyu Zhang"
+    },
+    {
+      "literal": "Biao Wu"
+    },
+    {
+      "literal": "Yanjie Liang"
+    },
+    {
+      "literal": "Meng Fang"
+    },
+    {
+      "literal": "Ling Chen"
+    },
+    {
+      "literal": "Yang Zhao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.04036",
+  "genre": "preprint",
+  "version": "1"
+}

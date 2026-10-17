@@ -16,6 +16,8 @@ Computer-using model introduced with the Operator research preview.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-74eeb7c9fb20674fe6e2/record.json
+
 ## License declarations
 
 - code: not recorded

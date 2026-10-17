@@ -16,9 +16,16 @@ Bibliographic record for ReVision: Scaling Computer-Use Agents via Temporal Visu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-11212/record.json
+
 ## Authors
 
 Amirhossein Abaskohi, Yuhang He, Peter West, Giuseppe Carenini, Pranit Chawla, Vibhav Vineet
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-11212/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-11212/citation.csl.json
 
 ## Recorded arXiv snapshot
 

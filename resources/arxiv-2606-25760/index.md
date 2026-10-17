@@ -16,9 +16,16 @@ Bibliographic record for Uncertainty Quantification for Computer-Use Agents: A B
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-25760/record.json
+
 ## Authors
 
 Divake Kumar, Sina Tayebati, Devashri Naik, Amanda Sofie Rios, Nilesh Ahuja, Omesh Tickoo, Ranganath Krishnan, Amit Ranjan Trivedi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-25760/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-25760/citation.csl.json
 
 ## Recorded arXiv snapshot
 

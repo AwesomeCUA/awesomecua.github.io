@@ -16,9 +16,16 @@ Scales computer-agent reinforcement learning through verifiable task generation,
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-11185/record.json
+
 ## Authors
 
 Bowen Lv, Xiao Liu, Yanyu Ren, Hanyu Lai, Bohao Jing, Hanchen Zhang, Yanxiao Zhao, Shuntian Yao, Jie Tang, Yuxiao Dong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-11185/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-11185/citation.csl.json
 
 ## Recorded arXiv snapshot
 

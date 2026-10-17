@@ -16,9 +16,16 @@ Bibliographic record for Energy Inference of Black-Box Quantum Computers Using Q
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-15472/record.json
+
 ## Authors
 
 Nobumasa Ishida, Yoshihiko Hasegawa
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-15472/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-15472/citation.csl.json
 
 ## Recorded arXiv snapshot
 

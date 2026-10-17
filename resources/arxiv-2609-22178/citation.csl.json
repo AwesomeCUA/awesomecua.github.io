@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2609.22178",
+  "citation-key": "arxiv_2609_22178",
+  "type": "article",
+  "title": "Beyond Task Completion: Training Capable and Safe Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2609.22178v2",
+  "custom": {
+    "catalog_id": "arxiv:2609.22178",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.22178",
+    "identifiers": {
+      "arxiv": "2609.22178"
+    },
+    "first_published_at": "2026-08-27",
+    "record_updated_at": "2026-09-22",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a88d287d5433009962a905dbdbf03359e1183e66e4a6015441ec28405f64a6ee",
+      "submitted_at": "2026-08-27T05:43:50Z",
+      "updated_at": "2026-09-22T06:39:18Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2609.22178v2"
+    }
+  },
+  "note": "First published: 2026-08-27; Recorded arXiv version: v2; Recorded version updated: 2026-09-22T06:39:18Z.",
+  "author": [
+    {
+      "literal": "Zeyu Kang"
+    },
+    {
+      "literal": "Zhenyun Yin"
+    },
+    {
+      "literal": "Yang Zhang"
+    },
+    {
+      "literal": "Shan He"
+    },
+    {
+      "literal": "Shanzhe Lei"
+    },
+    {
+      "literal": "Yanjiu Zhong"
+    },
+    {
+      "literal": "Xinquan Chen"
+    },
+    {
+      "literal": "Xuhong Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.22178",
+  "genre": "preprint",
+  "version": "2"
+}

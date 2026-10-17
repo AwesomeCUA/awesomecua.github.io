@@ -16,9 +16,16 @@ Introduces GUI-Owl models and Mobile-Agent-v3 orchestration, using environment-g
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-15144/record.json
+
 ## Authors
 
 Jiabo Ye, Xi Zhang, Haiyang Xu, Haowei Liu, Junyang Wang, Zhaoqing Zhu, Ziwei Zheng, Feiyu Gao, Junjie Cao, Zhengxi Lu, Jitong Liao, Qi Zheng, Fei Huang, Jingren Zhou, Ming Yan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-15144/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-15144/citation.csl.json
 
 ## Recorded arXiv snapshot
 

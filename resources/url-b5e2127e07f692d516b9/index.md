@@ -16,6 +16,8 @@ The second-stage Aguvis collection of interface trajectories for learning action
 
 The manifest contains trajectory annotations and archives associated with mobile, desktop and web sources. The card declares Apache-2.0; underlying source content may retain separate terms. This stage has a different training purpose and files from the grounding release. No archive or training sample was downloaded.
 
+- Record JSON: https://awesomecua.github.io/resources/url-b5e2127e07f692d516b9/record.json
+
 ## License declarations
 
 - code: not recorded

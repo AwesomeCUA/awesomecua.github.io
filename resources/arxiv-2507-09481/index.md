@@ -16,9 +16,16 @@ Bibliographic record for Evaluating LLMs on Sequential API Call Through Automate
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-09481/record.json
+
 ## Authors
 
 Yuheng Huang, Jiayang Song, Da Song, Zhenlan Ji, Wenhan Wang, Shuai Wang, Lei Ma
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-09481/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-09481/citation.csl.json
 
 ## Recorded arXiv snapshot
 

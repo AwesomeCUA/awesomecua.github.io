@@ -16,9 +16,16 @@ Bibliographic record for Beyond Sequential Interaction: Benchmarking Parallel Ex
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-22689/record.json
+
 ## Authors
 
 Zedong Yu, Qianxing Li, Zhi Gao, Liuyu Xiang, Chenrui Shi, Yang Liu, Huiming Wu, Yujie Wei, Yuhao Fei, Yubo Fu, Zhaofeng He
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-22689/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-22689/citation.csl.json
 
 ## Recorded arXiv snapshot
 

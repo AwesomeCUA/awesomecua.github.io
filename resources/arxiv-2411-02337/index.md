@@ -16,9 +16,16 @@ Trains web agents with an evolving task curriculum, outcome supervision, and rei
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-02337/record.json
+
 ## Authors
 
 Zehan Qi, Xiao Liu, Iat Long Iong, Hanyu Lai, Xueqiao Sun, Wenyi Zhao, Yu Yang, Xinyue Yang, Jiadai Sun, Shuntian Yao, Tianjie Zhang, Wei Xu, Jie Tang, Yuxiao Dong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-02337/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-02337/citation.csl.json
 
 ## Recorded arXiv snapshot
 

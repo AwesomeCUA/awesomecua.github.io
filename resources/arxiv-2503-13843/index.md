@@ -16,9 +16,16 @@ Bibliographic record for WebNav: An Intelligent Agent for Voice-Controlled Web N
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-13843/record.json
+
 ## Authors
 
 Trisanth Srinivasan, Santosh Patapati
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-13843/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-13843/citation.csl.json
 
 ## Recorded arXiv snapshot
 

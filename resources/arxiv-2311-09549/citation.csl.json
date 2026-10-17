@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2311.09549",
+  "citation-key": "arxiv_2311_09549",
+  "type": "article",
+  "title": "SparseAuto: An Auto-Scheduler for Sparse Tensor Computations Using Recursive Loop Nest Restructuring",
+  "URL": "https://arxiv.org/abs/2311.09549v3",
+  "custom": {
+    "catalog_id": "arxiv:2311.09549",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2311.09549",
+    "identifiers": {
+      "arxiv": "2311.09549"
+    },
+    "first_published_at": "2023-11-16",
+    "record_updated_at": "2024-08-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6e7b085a57fb509a684583a8f5830e83ff735567b8049fda1eafcb4a86e3a02f",
+      "submitted_at": "2023-11-16T04:05:50Z",
+      "updated_at": "2024-08-19T14:13:43Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2311.09549v3"
+    }
+  },
+  "note": "First published: 2023-11-16; Recorded arXiv version: v3; Recorded version updated: 2024-08-19T14:13:43Z.",
+  "author": [
+    {
+      "literal": "Adhitha Dias"
+    },
+    {
+      "literal": "Logan Anderson"
+    },
+    {
+      "literal": "Kirshanthan Sundararajah"
+    },
+    {
+      "literal": "Artem Pelenitsyn"
+    },
+    {
+      "literal": "Milind Kulkarni"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.09549",
+  "genre": "preprint",
+  "version": "3"
+}

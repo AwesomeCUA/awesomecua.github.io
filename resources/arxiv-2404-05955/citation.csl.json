@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2404.05955",
+  "citation-key": "arxiv_2404_05955",
+  "type": "article",
+  "title": "VisualWebBench: How Far Have Multimodal LLMs Evolved in Web Page Understanding and Grounding?",
+  "URL": "https://arxiv.org/abs/2404.05955v1",
+  "custom": {
+    "catalog_id": "arxiv:2404.05955",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2404.05955",
+    "identifiers": {
+      "arxiv": "2404.05955"
+    },
+    "first_published_at": "2024-04-09",
+    "record_updated_at": "2024-04-09",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7414bfa289baf86a8f2bb54f3f69f25a6a4cc8516fb0296a1899d21ad3020d4f",
+      "submitted_at": "2024-04-09T02:29:39Z",
+      "updated_at": "2024-04-09T02:29:39Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2404.05955v1"
+    }
+  },
+  "note": "First published: 2024-04-09; Recorded arXiv version: v1; Recorded version updated: 2024-04-09T02:29:39Z.",
+  "author": [
+    {
+      "literal": "Junpeng Liu"
+    },
+    {
+      "literal": "Yifan Song"
+    },
+    {
+      "literal": "Bill Yuchen Lin"
+    },
+    {
+      "literal": "Wai Lam"
+    },
+    {
+      "literal": "Graham Neubig"
+    },
+    {
+      "literal": "Yuanzhi Li"
+    },
+    {
+      "literal": "Xiang Yue"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.05955",
+  "genre": "preprint",
+  "version": "1"
+}

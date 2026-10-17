@@ -16,9 +16,16 @@ Bibliographic record for Screen2AX: Vision-Based Approach for Automatic macOS Ac
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-16704/record.json
+
 ## Authors
 
 Viktor Muryn, Marta Sumyk, Mariya Hirna, Sofiya Garkot, Maksym Shamrai
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-16704/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-16704/citation.csl.json
 
 ## Recorded arXiv snapshot
 

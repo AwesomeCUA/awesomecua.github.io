@@ -16,9 +16,16 @@ Bibliographic record for AgentProg: Empowering Long-Horizon GUI Agents with Prog
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-10371/record.json
+
 ## Authors
 
 Shizuo Tian, Hao Wen, Yuxuan Chen, Jiacheng Liu, Shanhui Zhao, Guohong Liu, Ju Ren, Yunxin Liu, Yuanchun Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-10371/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-10371/citation.csl.json
 
 ## Recorded arXiv snapshot
 

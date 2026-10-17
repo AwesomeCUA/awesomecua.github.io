@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2609.10297",
+  "citation-key": "arxiv_2609_10297",
+  "type": "article",
+  "title": "TRACE: Trajectory-robust Admission with Evidence Ordering for Efficient GUI Agents",
+  "URL": "https://arxiv.org/abs/2609.10297v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.10297",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.10297",
+    "identifiers": {
+      "arxiv": "2609.10297"
+    },
+    "first_published_at": "2026-09-09",
+    "record_updated_at": "2026-09-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "20d3bc3137e163f6b467b8c464101478b2375fbab8aebe9179e2e1113b34f503",
+      "submitted_at": "2026-09-09T15:12:48Z",
+      "updated_at": "2026-09-09T15:12:48Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.10297v1"
+    }
+  },
+  "note": "First published: 2026-09-09; Recorded arXiv version: v1; Recorded version updated: 2026-09-09T15:12:48Z.",
+  "author": [
+    {
+      "literal": "Yuhao Wang"
+    },
+    {
+      "literal": "Mu Qiao"
+    },
+    {
+      "literal": "Xindong Zhang"
+    },
+    {
+      "literal": "Yunzhi Zhuge"
+    },
+    {
+      "literal": "Lei Zhang"
+    },
+    {
+      "literal": "Huchuan Lu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.10297",
+  "genre": "preprint",
+  "version": "1"
+}

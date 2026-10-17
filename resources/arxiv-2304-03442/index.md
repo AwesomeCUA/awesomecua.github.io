@@ -16,9 +16,16 @@ Bibliographic record for Generative Agents: Interactive Simulacra of Human Behav
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2304-03442/record.json
+
 ## Authors
 
 Joon Sung Park, Joseph C. O'Brien, Carrie J. Cai, Meredith Ringel Morris, Percy Liang, Michael S. Bernstein
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2304-03442/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2304-03442/citation.csl.json
 
 ## Recorded arXiv snapshot
 

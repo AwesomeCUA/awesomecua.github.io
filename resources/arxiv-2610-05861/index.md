@@ -16,9 +16,16 @@ Introduces Infinite-Dreamer, which learns action-conditioned screenshot editing 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-05861/record.json
+
 ## Authors
 
 Yongxin Ning, Runliang Niu, Qianli Xing, Zhiyi Duan, Qingzu He, Pan Wang, Qi Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-05861/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-05861/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2501.15570",
+  "citation-key": "arxiv_2501_15570",
+  "type": "article",
+  "title": "ARWKV: Pretrain is not what we need, an RNN-Attention-Based Language Model Born from Transformer",
+  "URL": "https://arxiv.org/abs/2501.15570v1",
+  "custom": {
+    "catalog_id": "arxiv:2501.15570",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2501.15570",
+    "identifiers": {
+      "arxiv": "2501.15570"
+    },
+    "first_published_at": "2025-01-26",
+    "record_updated_at": "2025-01-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1b75157edc2f7afb538d4439f15a94b0f93e9beffbc328ca708fcfbaf0abbc18",
+      "submitted_at": "2025-01-26T15:56:56Z",
+      "updated_at": "2025-01-26T15:56:56Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2501.15570v1"
+    }
+  },
+  "note": "First published: 2025-01-26; Recorded arXiv version: v1; Recorded version updated: 2025-01-26T15:56:56Z.",
+  "author": [
+    {
+      "literal": "Lin Yueyu"
+    },
+    {
+      "literal": "Li Zhiyuan"
+    },
+    {
+      "literal": "Peter Yue"
+    },
+    {
+      "literal": "Liu Xiao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2501.15570",
+  "genre": "preprint",
+  "version": "1"
+}

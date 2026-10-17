@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2505.05026",
+  "citation-key": "arxiv_2505_05026",
+  "type": "article",
+  "title": "Do MLLMs Capture How Interfaces Guide User Behavior? A Benchmark for Multimodal UI/UX Design Understanding",
+  "URL": "https://arxiv.org/abs/2505.05026v5",
+  "custom": {
+    "catalog_id": "arxiv:2505.05026",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.05026",
+    "identifiers": {
+      "arxiv": "2505.05026"
+    },
+    "first_published_at": "2025-05-08",
+    "record_updated_at": "2026-06-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3f65cd2856c554584baab9b1cbf9c5250b5c01d4f31980d69aefab727427ded2",
+      "submitted_at": "2025-05-08T08:00:32Z",
+      "updated_at": "2026-06-04T06:58:13Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2505.05026v5"
+    }
+  },
+  "note": "First published: 2025-05-08; Recorded arXiv version: v5; Recorded version updated: 2026-06-04T06:58:13Z.",
+  "author": [
+    {
+      "literal": "Jaehyun Jeon"
+    },
+    {
+      "literal": "Min Soo Kim"
+    },
+    {
+      "literal": "Jang Han Yoon"
+    },
+    {
+      "literal": "Sumin Shim"
+    },
+    {
+      "literal": "Yejin Choi"
+    },
+    {
+      "literal": "Hanbin Kim"
+    },
+    {
+      "literal": "Dae Hyun Kim"
+    },
+    {
+      "literal": "Youngjae Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.05026",
+  "genre": "preprint",
+  "version": "5"
+}

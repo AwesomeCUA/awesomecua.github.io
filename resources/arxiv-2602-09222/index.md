@@ -16,9 +16,16 @@ Bibliographic record for MUZZLE: Adaptive Agentic Red-Teaming of Web Agents Agai
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-09222/record.json
+
 ## Authors
 
 Georgios Syros, Evan Rose, Brian Grinstead, Christoph Kerschbaumer, William Robertson, Cristina Nita-Rotaru, Alina Oprea
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-09222/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-09222/citation.csl.json
 
 ## Recorded arXiv snapshot
 

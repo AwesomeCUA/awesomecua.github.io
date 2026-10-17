@@ -16,6 +16,8 @@ Browser-based enterprise workflow tasks built around ServiceNow.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-servicenow-workarena/record.json
+
 ## Structured profile
 
 - actions: BrowserGym browser actions

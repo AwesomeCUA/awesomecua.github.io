@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2512.16501",
+  "citation-key": "arxiv_2512_16501",
+  "type": "article",
+  "title": "VenusBench-GD: A Comprehensive Multi-Platform GUI Benchmark for Diverse Grounding Tasks",
+  "URL": "https://arxiv.org/abs/2512.16501v1",
+  "custom": {
+    "catalog_id": "arxiv:2512.16501",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2512.16501",
+    "identifiers": {
+      "arxiv": "2512.16501"
+    },
+    "first_published_at": "2025-12-18",
+    "record_updated_at": "2025-12-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4bc8a1da3993ead9b36af47a9332fe9a1a2427101ad0d91da654b4a4b25141df",
+      "submitted_at": "2025-12-18T13:09:09Z",
+      "updated_at": "2025-12-18T13:09:09Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2512.16501v1"
+    }
+  },
+  "note": "First published: 2025-12-18; Recorded arXiv version: v1; Recorded version updated: 2025-12-18T13:09:09Z.",
+  "author": [
+    {
+      "literal": "Beitong Zhou"
+    },
+    {
+      "literal": "Zhexiao Huang"
+    },
+    {
+      "literal": "Yuan Guo"
+    },
+    {
+      "literal": "Zhangxuan Gu"
+    },
+    {
+      "literal": "Tianyu Xia"
+    },
+    {
+      "literal": "Zichen Luo"
+    },
+    {
+      "literal": "Fei Tang"
+    },
+    {
+      "literal": "Dehan Kong"
+    },
+    {
+      "literal": "Yanyi Shang"
+    },
+    {
+      "literal": "Suling Ou"
+    },
+    {
+      "literal": "Zhenlin Guo"
+    },
+    {
+      "literal": "Changhua Meng"
+    },
+    {
+      "literal": "Shuheng Shen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2512.16501",
+  "genre": "preprint",
+  "version": "1"
+}

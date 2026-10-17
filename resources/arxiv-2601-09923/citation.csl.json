@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2601.09923",
+  "citation-key": "arxiv_2601_09923",
+  "type": "article",
+  "title": "CaMeLs Can Use Computers Too: System-level Security for Computer Use Agents",
+  "URL": "https://arxiv.org/abs/2601.09923v3",
+  "custom": {
+    "catalog_id": "arxiv:2601.09923",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.09923",
+    "identifiers": {
+      "arxiv": "2601.09923"
+    },
+    "first_published_at": "2026-01-14",
+    "record_updated_at": "2026-06-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e32917bc92b65701eea06c09a2c681c7504418f8ce888af2b72012a1da50c9f6",
+      "submitted_at": "2026-01-14T23:06:35Z",
+      "updated_at": "2026-06-04T15:38:02Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2601.09923v3"
+    }
+  },
+  "note": "First published: 2026-01-14; Recorded arXiv version: v3; Recorded version updated: 2026-06-04T15:38:02Z.",
+  "author": [
+    {
+      "literal": "Hanna Foerster"
+    },
+    {
+      "literal": "Tom Blanchard"
+    },
+    {
+      "literal": "Kristina Nikolić"
+    },
+    {
+      "literal": "Ilia Shumailov"
+    },
+    {
+      "literal": "Cheng Zhang"
+    },
+    {
+      "literal": "Robert Mullins"
+    },
+    {
+      "literal": "Nicolas Papernot"
+    },
+    {
+      "literal": "Florian Tramèr"
+    },
+    {
+      "literal": "Yiren Zhao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.09923",
+  "genre": "preprint",
+  "version": "3"
+}

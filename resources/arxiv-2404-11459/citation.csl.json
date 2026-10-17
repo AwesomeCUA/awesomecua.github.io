@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2404.11459",
+  "citation-key": "arxiv_2404_11459",
+  "type": "article",
+  "title": "Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent",
+  "URL": "https://arxiv.org/abs/2404.11459v3",
+  "custom": {
+    "catalog_id": "arxiv:2404.11459",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2404.11459",
+    "identifiers": {
+      "arxiv": "2404.11459"
+    },
+    "first_published_at": "2024-04-17",
+    "record_updated_at": "2026-07-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9016b2bd0bfadbc17bbe6466a749a2d62f317fabe31e42e59d5bf9f7ed5b5d35",
+      "submitted_at": "2024-04-17T15:07:06Z",
+      "updated_at": "2026-07-20T02:21:16Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2404.11459v3"
+    }
+  },
+  "note": "First published: 2024-04-17; Recorded arXiv version: v3; Recorded version updated: 2026-07-20T02:21:16Z.",
+  "author": [
+    {
+      "literal": "Wei Chen"
+    },
+    {
+      "literal": "Zhiyuan Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.11459",
+  "genre": "preprint",
+  "version": "3"
+}

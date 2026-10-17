@@ -16,9 +16,16 @@ Bibliographic record for Scaling silicon-based quantum computing using CMOS tech
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2011-11753/record.json
+
 ## Authors
 
 M. F. Gonzalez-Zalba, S. de Franceschi, E. Charbon, T. Meunier, M. Vinet, A. S. Dzurak
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2011-11753/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2011-11753/citation.csl.json
 
 ## Recorded arXiv snapshot
 

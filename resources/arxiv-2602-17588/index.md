@@ -16,9 +16,16 @@ CowCorpus records interleaved human and agent actions during web navigation and 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-17588/record.json
+
 ## Authors
 
 Faria Huq, Zora Zhiruo Wang, Zhanqiu Guo, Venu Arvind Arangarajan, Tianyue Ou, Frank Xu, Shuyan Zhou, Graham Neubig, Jeffrey P. Bigham
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-17588/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-17588/citation.csl.json
 
 ## Recorded arXiv snapshot
 

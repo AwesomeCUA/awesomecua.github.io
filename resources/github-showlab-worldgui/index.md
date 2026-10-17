@@ -16,6 +16,8 @@ GUI agent evaluation with varied initial states.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-showlab-worldgui/record.json
+
 ## License declarations
 
 - code: not recorded

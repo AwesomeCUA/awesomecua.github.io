@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2605.17439",
+  "citation-key": "arxiv_2605_17439",
+  "type": "article",
+  "title": "DiagEval: Trajectory-Conditioned Diagnosis for Reliable Software Evaluation with GUI Agents",
+  "URL": "https://arxiv.org/abs/2605.17439v2",
+  "custom": {
+    "catalog_id": "arxiv:2605.17439",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.17439",
+    "identifiers": {
+      "arxiv": "2605.17439"
+    },
+    "first_published_at": "2026-05-17",
+    "record_updated_at": "2026-05-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e9167646e6433e6ebbcb8f1cc10c19b9b027b6e4f53fadf6df16751591a48369",
+      "submitted_at": "2026-05-17T13:22:22Z",
+      "updated_at": "2026-05-19T07:14:09Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2605.17439v2"
+    }
+  },
+  "note": "First published: 2026-05-17; Recorded arXiv version: v2; Recorded version updated: 2026-05-19T07:14:09Z.",
+  "author": [
+    {
+      "literal": "Sirui Hong"
+    },
+    {
+      "literal": "Zhijie Liu"
+    },
+    {
+      "literal": "Tengfei Li"
+    },
+    {
+      "literal": "Wei Tao"
+    },
+    {
+      "literal": "Yifan Wu"
+    },
+    {
+      "literal": "Chenglin Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.17439",
+  "genre": "preprint",
+  "version": "2"
+}

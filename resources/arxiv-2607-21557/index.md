@@ -16,9 +16,16 @@ Bibliographic record for OpenForgeRL: Train Harness-native Agents in Any Environ
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-21557/record.json
+
 ## Authors
 
 Xiao Yu, Baolin Peng, Ruize Xu, Hao Zou, Qianhui Wu, Hao Cheng, Wenlin Yao, Nikhil Singh, Zhou Yu, Jianfeng Gao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-21557/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-21557/citation.csl.json
 
 ## Recorded arXiv snapshot
 

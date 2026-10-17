@@ -16,9 +16,16 @@ Introduces realistic open-web tasks and the SeePlanAct agent, analyzing the limi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-15711/record.json
+
 ## Authors
 
 Ori Yoran, Samuel Joseph Amouyal, Chaitanya Malaviya, Ben Bogin, Ofir Press, Jonathan Berant
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-15711/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-15711/citation.csl.json
 
 ## Recorded arXiv snapshot
 

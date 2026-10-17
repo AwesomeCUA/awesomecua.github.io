@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2109.13639",
+  "citation-key": "arxiv_2109_13639",
+  "type": "article",
+  "title": "Quantum Computation Using Action Variables",
+  "URL": "https://arxiv.org/abs/2109.13639v1",
+  "custom": {
+    "catalog_id": "arxiv:2109.13639",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2109.13639",
+    "identifiers": {
+      "arxiv": "2109.13639"
+    },
+    "first_published_at": "2021-09-24",
+    "record_updated_at": "2021-09-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0f4474b69c78cf9e057c5bebec9c09a5a5d31d756b99d2d610e578fc461334b8",
+      "submitted_at": "2021-09-24T12:04:27Z",
+      "updated_at": "2021-09-24T12:04:27Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2109.13639v1"
+    }
+  },
+  "note": "First published: 2021-09-24; Recorded arXiv version: v1; Recorded version updated: 2021-09-24T12:04:27Z.",
+  "author": [
+    {
+      "literal": "Yong Zhang"
+    },
+    {
+      "literal": "Konglong Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        9,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2109.13639",
+  "genre": "preprint",
+  "version": "1"
+}

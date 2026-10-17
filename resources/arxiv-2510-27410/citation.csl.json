@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2510.27410",
+  "citation-key": "arxiv_2510_27410",
+  "type": "article",
+  "title": "Closing the Expression Gap in LLM Instructions via Socratic Questioning",
+  "URL": "https://arxiv.org/abs/2510.27410v3",
+  "custom": {
+    "catalog_id": "arxiv:2510.27410",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.27410",
+    "identifiers": {
+      "arxiv": "2510.27410"
+    },
+    "first_published_at": "2025-10-31",
+    "record_updated_at": "2026-01-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7c3c781f1c4d425c766e25fc7b90a1d34dc64f2a9f6eda2b5b0bfdde479c6bad",
+      "submitted_at": "2025-10-31T12:00:21Z",
+      "updated_at": "2026-01-30T06:09:10Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2510.27410v3"
+    }
+  },
+  "note": "First published: 2025-10-31; Recorded arXiv version: v3; Recorded version updated: 2026-01-30T06:09:10Z.",
+  "author": [
+    {
+      "literal": "Jianwen Sun"
+    },
+    {
+      "literal": "Yukang Feng"
+    },
+    {
+      "literal": "Yifan Chang"
+    },
+    {
+      "literal": "Chuanhao Li"
+    },
+    {
+      "literal": "Zizhen Li"
+    },
+    {
+      "literal": "Jiaxin Ai"
+    },
+    {
+      "literal": "Fanrui Zhang"
+    },
+    {
+      "literal": "Yu Dai"
+    },
+    {
+      "literal": "Kaipeng Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.27410",
+  "genre": "preprint",
+  "version": "3"
+}

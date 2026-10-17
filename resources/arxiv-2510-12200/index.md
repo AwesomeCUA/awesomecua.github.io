@@ -16,9 +16,16 @@ Bibliographic record for HackWorld: Evaluating Computer-Use Agents on Exploiting
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-12200/record.json
+
 ## Authors
 
 Xiaoxue Ren, Penghao Jiang, Kaixin Li, Zhiyong Huang, Xiaoning Du, Jiaojiao Jiang, Zhenchang Xing, Jiamou Sun, Terry Yue Zhuo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-12200/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-12200/citation.csl.json
 
 ## Recorded arXiv snapshot
 

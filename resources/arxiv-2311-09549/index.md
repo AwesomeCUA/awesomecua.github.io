@@ -16,9 +16,16 @@ Bibliographic record for SparseAuto: An Auto-Scheduler for Sparse Tensor Computa
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-09549/record.json
+
 ## Authors
 
 Adhitha Dias, Logan Anderson, Kirshanthan Sundararajah, Artem Pelenitsyn, Milind Kulkarni
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-09549/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-09549/citation.csl.json
 
 ## Recorded arXiv snapshot
 

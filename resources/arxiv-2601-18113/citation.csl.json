@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2601.18113",
+  "citation-key": "arxiv_2601_18113",
+  "type": "article",
+  "title": "MalURLBench: A Benchmark Evaluating Agents' Vulnerabilities When Processing Web URLs",
+  "URL": "https://arxiv.org/abs/2601.18113v3",
+  "custom": {
+    "catalog_id": "arxiv:2601.18113",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.18113",
+    "identifiers": {
+      "arxiv": "2601.18113"
+    },
+    "first_published_at": "2026-01-26",
+    "record_updated_at": "2026-03-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1ae4de775fad8e66055667175467487cb035da829f5e867a9ddb9d90dfe275e1",
+      "submitted_at": "2026-01-26T03:58:10Z",
+      "updated_at": "2026-03-13T04:12:36Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2601.18113v3"
+    }
+  },
+  "note": "First published: 2026-01-26; Recorded arXiv version: v3; Recorded version updated: 2026-03-13T04:12:36Z.",
+  "author": [
+    {
+      "literal": "Dezhang Kong"
+    },
+    {
+      "literal": "Zhuxi Wu"
+    },
+    {
+      "literal": "Shiqi Liu"
+    },
+    {
+      "literal": "Zhicheng Tan"
+    },
+    {
+      "literal": "Kuichen Lu"
+    },
+    {
+      "literal": "Minghao Li"
+    },
+    {
+      "literal": "Qichen Liu"
+    },
+    {
+      "literal": "Shengyu Chu"
+    },
+    {
+      "literal": "Zhenhua Xu"
+    },
+    {
+      "literal": "Xuan Liu"
+    },
+    {
+      "literal": "Meng Han"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.18113",
+  "genre": "preprint",
+  "version": "3"
+}

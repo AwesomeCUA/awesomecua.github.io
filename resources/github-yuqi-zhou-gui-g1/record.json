@@ -1,0 +1,76 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T10:43:11Z",
+      "role": "primary",
+      "sha256": "2d64349b514c43fb9d0260247300412d33cadc2a029d8279a00cb2a12f26a25a",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/Yuqi-Zhou/GUI-G1/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T10:48:43Z",
+      "role": "primary",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/Yuqi-Zhou/GUI-G1/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:yuqi-zhou/gui-g1",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-16T10:43:11Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T10:48:43Z",
+      "url": "https://raw.githubusercontent.com/Yuqi-Zhou/GUI-G1/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/Yuqi-Zhou/GUI-G1"
+    }
+  ],
+  "name": "GUI-G1",
+  "notes": "The README retains an older release-pending notice alongside a later checkpoint-release announcement. Check the linked model card for current weight availability and terms.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/Yuqi-Zhou/GUI-G1/HEAD/README.md",
+      "target_id": "arxiv:2505.15810",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "GUI-grounding training code that modifies reasoning templates, reward functions, and the GRPO objective, with a linked model release.",
+  "topics": [
+    "grounding",
+    "reinforcement-learning"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/Yuqi-Zhou/GUI-G1"
+}

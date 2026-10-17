@@ -16,9 +16,16 @@ Bibliographic record for Adaptive Milestone Reward for GUI Agents. Title, author
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-11524/record.json
+
 ## Authors
 
 Congmin Zheng, Xiaoyun Mo, Xinbei Ma, Qiqiang Lin, Yin Zhao, Jiachen Zhu, Xingyu Lou, Jun Wang, Zhaoxiang Wang, Weiwen Liu, Zhuosheng Zhang, Yong Yu, Weinan Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-11524/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-11524/citation.csl.json
 
 ## Recorded arXiv snapshot
 

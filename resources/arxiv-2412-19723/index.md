@@ -16,9 +16,16 @@ Builds GUI trajectories by exploring environments first and deriving tasks retro
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-19723/record.json
+
 ## Authors
 
 Qiushi Sun, Kanzhi Cheng, Zichen Ding, Chuanyang Jin, Yian Wang, Fangzhi Xu, Zhenyu Wu, Chengyou Jia, Liheng Chen, Zhoumianze Liu, Ben Kao, Guohao Li, Junxian He, Yu Qiao, Zhiyong Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-19723/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-19723/citation.csl.json
 
 ## Recorded arXiv snapshot
 

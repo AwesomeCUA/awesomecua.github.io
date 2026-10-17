@@ -16,6 +16,8 @@ Assistant framework combining code execution and computer interaction.
 
 The repository has evolved substantially; computer-use functionality is documented in its Computer Use section. Do not infer parity with historical releases.
 
+- Record JSON: https://awesomecua.github.io/resources/github-openinterpreter-open-interpreter/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/OpenInterpreter/open-interpreter/HEAD/LICENSE

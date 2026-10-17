@@ -16,9 +16,16 @@ Bibliographic record for SketchMetaFace: A Learning-based Sketching Interface fo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2307-00804/record.json
+
 ## Authors
 
 Zhongjin Luo, Dong Du, Heming Zhu, Yizhou Yu, Hongbo Fu, Xiaoguang Han
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2307-00804/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2307-00804/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2508.15832",
+  "citation-key": "arxiv_2508_15832",
+  "type": "article",
+  "title": "A Functionality-Grounded Benchmark for Evaluating Web Agents in E-commerce Domains",
+  "URL": "https://arxiv.org/abs/2508.15832v2",
+  "custom": {
+    "catalog_id": "arxiv:2508.15832",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2508.15832",
+    "identifiers": {
+      "arxiv": "2508.15832"
+    },
+    "first_published_at": "2025-08-18",
+    "record_updated_at": "2026-04-21",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6c8336a707723227a9d651a3e9347e45907f28ed7421b577761ed57f7d70593d",
+      "submitted_at": "2025-08-18T21:58:43Z",
+      "updated_at": "2026-04-21T00:38:54Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2508.15832v2"
+    }
+  },
+  "note": "First published: 2025-08-18; Recorded arXiv version: v2; Recorded version updated: 2026-04-21T00:38:54Z.",
+  "author": [
+    {
+      "literal": "Xianren Zhang"
+    },
+    {
+      "literal": "Shreyas Prasad"
+    },
+    {
+      "literal": "Di Wang"
+    },
+    {
+      "literal": "Qiuhai Zeng"
+    },
+    {
+      "literal": "Suhang Wang"
+    },
+    {
+      "literal": "Wenbo Yan"
+    },
+    {
+      "literal": "Mat Hans"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.15832",
+  "genre": "preprint",
+  "version": "2"
+}

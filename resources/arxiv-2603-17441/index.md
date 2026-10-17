@@ -16,9 +16,16 @@ Bibliographic record for AdaZoom-GUI: Adaptive Zoom-based GUI Grounding with Ins
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-17441/record.json
+
 ## Authors
 
 Siqi Pei, Liang Tang, Tiaonan Duan, Long Chen, Shuxian Li, Kaer Huang, Yanzhe Jing, Yiqiang Yan, Bo Zhang, Chenghao Jiang, Borui Zhang, Jiwen Lu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-17441/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-17441/citation.csl.json
 
 ## Recorded arXiv snapshot
 

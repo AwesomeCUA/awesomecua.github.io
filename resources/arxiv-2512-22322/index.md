@@ -16,9 +16,16 @@ Bibliographic record for SmartSnap: Proactive Evidence Seeking for Self-Verifyin
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-22322/record.json
+
 ## Authors
 
 Shaofei Cai, Yulei Qin, Haojia Lin, Zihan Xu, Gang Li, Yuchen Shi, Zongyi Li, Yong Mao, Siqi Cai, Xiaoyu Tan, Yitao Liang, Ke Li, Xing Sun
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-22322/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-22322/citation.csl.json
 
 ## Recorded arXiv snapshot
 

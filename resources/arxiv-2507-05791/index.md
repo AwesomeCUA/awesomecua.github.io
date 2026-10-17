@@ -16,9 +16,16 @@ GTA1 samples multiple action proposals at each GUI step and uses a judge to sele
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-05791/record.json
+
 ## Authors
 
 Yan Yang, Dongxu Li, Yutong Dai, Yuhao Yang, Ziyang Luo, Zirui Zhao, Zhiyuan Hu, Junzhe Huang, Amrita Saha, Zeyuan Chen, Ran Xu, Liyuan Pan, Silvio Savarese, Caiming Xiong, Junnan Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-05791/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-05791/citation.csl.json
 
 ## Recorded arXiv snapshot
 

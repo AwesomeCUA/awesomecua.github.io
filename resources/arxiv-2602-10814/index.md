@@ -16,9 +16,16 @@ ScratchWorld evaluates program construction through the Scratch interface using 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-10814/record.json
+
 ## Authors
 
 Xingyi Zhang, Yulei Ye, Kaifeng Huang, Wenhao Li, Xiangfeng Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-10814/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-10814/citation.csl.json
 
 ## Recorded arXiv snapshot
 

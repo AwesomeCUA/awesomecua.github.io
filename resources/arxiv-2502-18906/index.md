@@ -16,9 +16,16 @@ Trains GUI agents with a frozen value model learned from offline interactions, g
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-18906/record.json
+
 ## Authors
 
 Jiani Zheng, Lu Wang, Fangkai Yang, Chaoyun Zhang, Lingrui Mei, Wenjie Yin, Qingwei Lin, Dongmei Zhang, Saravan Rajmohan, Qi Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-18906/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-18906/citation.csl.json
 
 ## Recorded arXiv snapshot
 

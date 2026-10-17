@@ -16,9 +16,16 @@ Bibliographic record for Privacy Practices of Browser Agents. Title, authors and
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-07725/record.json
+
 ## Authors
 
 Alisha Ukani, Hamed Haddadi, Ali Shahin Shamsabadi, Peter Snyder
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-07725/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-07725/citation.csl.json
 
 ## Recorded arXiv snapshot
 

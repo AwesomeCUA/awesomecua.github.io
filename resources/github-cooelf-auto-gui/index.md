@@ -16,6 +16,8 @@ Screenshot-based mobile agent implementation with training and inference code fo
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-cooelf-auto-gui/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/cooelf/Auto-GUI/HEAD/LICENSE

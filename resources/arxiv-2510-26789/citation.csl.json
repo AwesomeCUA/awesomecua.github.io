@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2510.26789",
+  "citation-key": "arxiv_2510_26789",
+  "type": "article",
+  "title": "Entanglement-assisted circuit knitting: Distributed quantum computing using limited entanglement resources",
+  "URL": "https://arxiv.org/abs/2510.26789v3",
+  "custom": {
+    "catalog_id": "arxiv:2510.26789",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.26789",
+    "identifiers": {
+      "arxiv": "2510.26789"
+    },
+    "first_published_at": "2025-10-30",
+    "record_updated_at": "2026-04-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a931d8151e40507bed801bb7fcc36d5a2ff3c782d34bb4e7dbea175b70781524",
+      "submitted_at": "2025-10-30T17:58:13Z",
+      "updated_at": "2026-04-16T01:46:35Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2510.26789v3"
+    }
+  },
+  "note": "First published: 2025-10-30; Recorded arXiv version: v3; Recorded version updated: 2026-04-16T01:46:35Z.",
+  "author": [
+    {
+      "literal": "Shao-Hua Hu"
+    },
+    {
+      "literal": "Po-Sung Liu"
+    },
+    {
+      "literal": "Jun-Yi Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.26789",
+  "genre": "preprint",
+  "version": "3"
+}

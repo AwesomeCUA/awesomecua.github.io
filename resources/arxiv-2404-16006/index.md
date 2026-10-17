@@ -16,9 +16,16 @@ Bibliographic record for MMT-Bench: A Comprehensive Multimodal Benchmark for Eva
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-16006/record.json
+
 ## Authors
 
 Kaining Ying, Fanqing Meng, Jin Wang, Zhiqian Li, Han Lin, Yue Yang, Hao Zhang, Wenbo Zhang, Yuqi Lin, Shuo Liu, Jiayi Lei, Quanfeng Lu, Runjian Chen, Peng Xu, Renrui Zhang, Haozhe Zhang, Peng Gao, Yali Wang, Yu Qiao, Ping Luo, Kaipeng Zhang, Wenqi Shao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-16006/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-16006/citation.csl.json
 
 ## Recorded arXiv snapshot
 

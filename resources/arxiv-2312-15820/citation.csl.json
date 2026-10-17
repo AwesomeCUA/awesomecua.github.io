@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2312.15820",
+  "citation-key": "arxiv_2312_15820",
+  "type": "article",
+  "title": "WebVLN: Vision-and-Language Navigation on Websites",
+  "URL": "https://arxiv.org/abs/2312.15820v1",
+  "custom": {
+    "catalog_id": "arxiv:2312.15820",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2312.15820",
+    "identifiers": {
+      "arxiv": "2312.15820"
+    },
+    "first_published_at": "2023-12-25",
+    "record_updated_at": "2023-12-25",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "47dedddced8f06bf436ab5a101d1ec4ecf4380c710e457dc7a35fc86d2e1f230",
+      "submitted_at": "2023-12-25T22:13:26Z",
+      "updated_at": "2023-12-25T22:13:26Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2312.15820v1"
+    }
+  },
+  "note": "First published: 2023-12-25; Recorded arXiv version: v1; Recorded version updated: 2023-12-25T22:13:26Z.",
+  "author": [
+    {
+      "literal": "Qi Chen"
+    },
+    {
+      "literal": "Dileepa Pitawela"
+    },
+    {
+      "literal": "Chongyang Zhao"
+    },
+    {
+      "literal": "Gengze Zhou"
+    },
+    {
+      "literal": "Hsiang-Ting Chen"
+    },
+    {
+      "literal": "Qi Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2312.15820",
+  "genre": "preprint",
+  "version": "1"
+}

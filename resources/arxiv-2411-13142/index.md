@@ -16,9 +16,16 @@ Bibliographic record for Measurement-free code-switching for low overhead quantu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-13142/record.json
+
 ## Authors
 
 Yingkai Ouyang, Yumang Jing, Gavin K. Brennen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-13142/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-13142/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2406.03548",
+  "citation-key": "arxiv_2406_03548",
+  "type": "article",
+  "title": "Robust Communication and Computation using Deep Learning via Joint Uncertainty Injection",
+  "URL": "https://arxiv.org/abs/2406.03548v1",
+  "custom": {
+    "catalog_id": "arxiv:2406.03548",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2406.03548",
+    "identifiers": {
+      "arxiv": "2406.03548"
+    },
+    "first_published_at": "2024-06-05",
+    "record_updated_at": "2024-06-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b0048b1a0718832e6cb40e06a9d150297c5e34f9d2929566bb3e011f91eff3a5",
+      "submitted_at": "2024-06-05T18:00:09Z",
+      "updated_at": "2024-06-05T18:00:09Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2406.03548v1"
+    }
+  },
+  "note": "First published: 2024-06-05; Recorded arXiv version: v1; Recorded version updated: 2024-06-05T18:00:09Z.",
+  "author": [
+    {
+      "literal": "Robert-Jeron Reifert"
+    },
+    {
+      "literal": "Hayssam Dahrouj"
+    },
+    {
+      "literal": "Alaa Alameer Ahmad"
+    },
+    {
+      "literal": "Haris Gacanin"
+    },
+    {
+      "literal": "Aydin Sezgin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.03548",
+  "genre": "preprint",
+  "version": "1"
+}

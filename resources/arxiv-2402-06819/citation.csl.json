@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2402.06819",
+  "citation-key": "arxiv_2402_06819",
+  "type": "article",
+  "title": "Monitored Markov Decision Processes",
+  "URL": "https://arxiv.org/abs/2402.06819v2",
+  "custom": {
+    "catalog_id": "arxiv:2402.06819",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2402.06819",
+    "identifiers": {
+      "arxiv": "2402.06819"
+    },
+    "first_published_at": "2024-02-09",
+    "record_updated_at": "2024-02-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "847686941923beb89ac0b5db351bbd0eb50067e874110fe426483f010a16e621",
+      "submitted_at": "2024-02-09T23:00:29Z",
+      "updated_at": "2024-02-13T19:49:04Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2402.06819v2"
+    }
+  },
+  "note": "First published: 2024-02-09; Recorded arXiv version: v2; Recorded version updated: 2024-02-13T19:49:04Z.",
+  "author": [
+    {
+      "literal": "Simone Parisi"
+    },
+    {
+      "literal": "Montaser Mohammedalamen"
+    },
+    {
+      "literal": "Alireza Kazemipour"
+    },
+    {
+      "literal": "Matthew E. Taylor"
+    },
+    {
+      "literal": "Michael Bowling"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.06819",
+  "genre": "preprint",
+  "version": "2"
+}

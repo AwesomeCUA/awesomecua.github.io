@@ -16,9 +16,16 @@ Introduces REBASE, a device–cloud protocol for repairing cached GUI experience
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-32130/record.json
+
 ## Authors
 
 Beining Wu, Jun Huang, Yanxiao Zhao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-32130/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-32130/citation.csl.json
 
 ## Recorded arXiv snapshot
 

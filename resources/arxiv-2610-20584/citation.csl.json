@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2610.20584",
+  "citation-key": "arxiv_2610_20584",
+  "type": "article",
+  "title": "Player-1: Learning to Play from Synthetic Experience",
+  "URL": "https://arxiv.org/abs/2610.20584v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.20584",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.20584",
+    "identifiers": {
+      "arxiv": "2610.20584"
+    },
+    "first_published_at": "2026-10-14",
+    "record_updated_at": "2026-10-14",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "67b539468bd2bbf0d3b49a5a7eed4791a8ddca4b56ad9515d23a29204d1f069f",
+      "submitted_at": "2026-10-14T17:57:12Z",
+      "updated_at": "2026-10-14T17:57:12Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.20584v1"
+    }
+  },
+  "note": "First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T17:57:12Z.",
+  "author": [
+    {
+      "literal": "Mingyu Ouyang"
+    },
+    {
+      "literal": "Yiran Wang"
+    },
+    {
+      "literal": "Siyuan Hu"
+    },
+    {
+      "literal": "Xingyilang Yin"
+    },
+    {
+      "literal": "Huiqiang Sun"
+    },
+    {
+      "literal": "Guangzhi Wang"
+    },
+    {
+      "literal": "Junfu Pu"
+    },
+    {
+      "literal": "Cheng Cheng"
+    },
+    {
+      "literal": "Honghao Chen"
+    },
+    {
+      "literal": "Ying Shan"
+    },
+    {
+      "literal": "Mike Zheng Shou"
+    },
+    {
+      "literal": "Hwee Tou Ng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.20584",
+  "genre": "preprint",
+  "version": "1"
+}

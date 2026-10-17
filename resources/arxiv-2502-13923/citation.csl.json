@@ -1,0 +1,124 @@
+{
+  "id": "arxiv:2502.13923",
+  "citation-key": "arxiv_2502_13923",
+  "type": "article",
+  "title": "Qwen2.5-VL Technical Report",
+  "URL": "https://arxiv.org/abs/2502.13923v1",
+  "custom": {
+    "catalog_id": "arxiv:2502.13923",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2502.13923",
+    "identifiers": {
+      "arxiv": "2502.13923"
+    },
+    "first_published_at": "2025-02-19",
+    "record_updated_at": "2025-02-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "da29b5cb2aa57ccdde2a365faa41657e05d0017ea0f932664f3a06a6dcdfb8c6",
+      "submitted_at": "2025-02-19T18:00:14Z",
+      "updated_at": "2025-02-19T18:00:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2502.13923v1"
+    }
+  },
+  "note": "First published: 2025-02-19; Recorded arXiv version: v1; Recorded version updated: 2025-02-19T18:00:14Z.",
+  "author": [
+    {
+      "literal": "Shuai Bai"
+    },
+    {
+      "literal": "Keqin Chen"
+    },
+    {
+      "literal": "Xuejing Liu"
+    },
+    {
+      "literal": "Jialin Wang"
+    },
+    {
+      "literal": "Wenbin Ge"
+    },
+    {
+      "literal": "Sibo Song"
+    },
+    {
+      "literal": "Kai Dang"
+    },
+    {
+      "literal": "Peng Wang"
+    },
+    {
+      "literal": "Shijie Wang"
+    },
+    {
+      "literal": "Jun Tang"
+    },
+    {
+      "literal": "Humen Zhong"
+    },
+    {
+      "literal": "Yuanzhi Zhu"
+    },
+    {
+      "literal": "Mingkun Yang"
+    },
+    {
+      "literal": "Zhaohai Li"
+    },
+    {
+      "literal": "Jianqiang Wan"
+    },
+    {
+      "literal": "Pengfei Wang"
+    },
+    {
+      "literal": "Wei Ding"
+    },
+    {
+      "literal": "Zheren Fu"
+    },
+    {
+      "literal": "Yiheng Xu"
+    },
+    {
+      "literal": "Jiabo Ye"
+    },
+    {
+      "literal": "Xi Zhang"
+    },
+    {
+      "literal": "Tianbao Xie"
+    },
+    {
+      "literal": "Zesen Cheng"
+    },
+    {
+      "literal": "Hang Zhang"
+    },
+    {
+      "literal": "Zhibo Yang"
+    },
+    {
+      "literal": "Haiyang Xu"
+    },
+    {
+      "literal": "Junyang Lin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.13923",
+  "genre": "preprint",
+  "version": "1"
+}

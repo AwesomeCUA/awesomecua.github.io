@@ -16,6 +16,8 @@ Web-agent benchmark for measuring unnecessary use of sensitive personal informat
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-facebookresearch-ai-agent-privacy/record.json
+
 ## License declarations
 
 - code: not recorded

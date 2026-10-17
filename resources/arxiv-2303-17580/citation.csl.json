@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2303.17580",
+  "citation-key": "arxiv_2303_17580",
+  "type": "article",
+  "title": "HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face",
+  "URL": "https://arxiv.org/abs/2303.17580v4",
+  "custom": {
+    "catalog_id": "arxiv:2303.17580",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2303.17580",
+    "identifiers": {
+      "arxiv": "2303.17580"
+    },
+    "first_published_at": "2023-03-30",
+    "record_updated_at": "2023-12-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4ddab3ad61a046fe11ddf68025292f3d11b59ce43662479c06f5075267f04414",
+      "submitted_at": "2023-03-30T17:48:28Z",
+      "updated_at": "2023-12-03T18:17:21Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2303.17580v4"
+    }
+  },
+  "note": "First published: 2023-03-30; Recorded arXiv version: v4; Recorded version updated: 2023-12-03T18:17:21Z.",
+  "author": [
+    {
+      "literal": "Yongliang Shen"
+    },
+    {
+      "literal": "Kaitao Song"
+    },
+    {
+      "literal": "Xu Tan"
+    },
+    {
+      "literal": "Dongsheng Li"
+    },
+    {
+      "literal": "Weiming Lu"
+    },
+    {
+      "literal": "Yueting Zhuang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        3,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2303.17580",
+  "genre": "preprint",
+  "version": "4"
+}

@@ -16,9 +16,16 @@ Bibliographic record for AgentSwing: Adaptive Parallel Context Management Routin
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-27490/record.json
+
 ## Authors
 
 Zhaopeng Feng, Liangcai Su, Zhen Zhang, Xinyu Wang, Xiaotian Zhang, Xiaobin Wang, Runnan Fang, Qi Zhang, Baixuan Li, Shihao Cai, Rui Ye, Hui Chen, Jiang Yong, Joey Tianyi Zhou, Chenxiong Qian, Pengjun Xie, Bryan Hooi, Zuozhu Liu, Jingren Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-27490/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-27490/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,6 +16,8 @@ Reinforcement-learning infrastructure for computer-use agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-thudm-computerrl/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/THUDM/ComputerRL/HEAD/LICENSE

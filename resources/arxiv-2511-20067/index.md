@@ -16,9 +16,16 @@ Bibliographic record for "Are We Done Yet?": A Vision-Based Judge for Autonomous
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-20067/record.json
+
 ## Authors
 
 Marta Sumyk, Oleksandr Kosovan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-20067/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-20067/citation.csl.json
 
 ## Recorded arXiv snapshot
 

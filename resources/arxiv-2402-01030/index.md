@@ -16,9 +16,16 @@ Bibliographic record for Executable Code Actions Elicit Better LLM Agents. Title
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-01030/record.json
+
 ## Authors
 
 Xingyao Wang, Yangyi Chen, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-01030/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-01030/citation.csl.json
 
 ## Recorded arXiv snapshot
 

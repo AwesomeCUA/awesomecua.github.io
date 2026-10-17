@@ -16,9 +16,16 @@ Combines API and GUI actions with distributed desktop reinforcement learning and
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-14040/record.json
+
 ## Authors
 
 Hanyu Lai, Xiao Liu, Yanxiao Zhao, Han Xu, Hanchen Zhang, Bohao Jing, Yanyu Ren, Shuntian Yao, Yuxiao Dong, Jie Tang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-14040/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-14040/citation.csl.json
 
 ## Recorded arXiv snapshot
 

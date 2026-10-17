@@ -16,9 +16,16 @@ Bibliographic record for AppDeltaWorld: Transition-Grounded Delta Code World Mod
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-05891/record.json
+
 ## Authors
 
 Weikai Xu, Yunren Feng, Haoxiang Lei, Kun Huang, Yuxuan Liu, Kang Zhao, Xiaolin Hu, Shuo Shang, Bo An
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-05891/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-05891/citation.csl.json
 
 ## Recorded arXiv snapshot
 

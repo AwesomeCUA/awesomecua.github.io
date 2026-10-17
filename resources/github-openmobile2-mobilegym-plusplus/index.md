@@ -16,6 +16,8 @@ Browser-rendered mobile simulation with resettable app state and a shared task s
 
 These clients simulate named commercial applications and are not those commercial products. The code and simulator data have distinct license files. No benchmark run was performed.
 
+- Record JSON: https://awesomecua.github.io/resources/github-openmobile2-mobilegym-plusplus/record.json
+
 ## Structured profile
 
 - actions: GUI gestures, foreground-app tool calls in hybrid mode

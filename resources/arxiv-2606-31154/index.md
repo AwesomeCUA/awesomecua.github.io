@@ -16,9 +16,16 @@ Bibliographic record for PPT-Eval: A Benchmark for Computer-Use Agents on PowerP
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-31154/record.json
+
 ## Authors
 
 Apurva Gandhi, Vishwas Suryanarayanan, Raja Hasnain Anwar, Firoz Shaik, Shubhang Desai, Thong Q. Nguyen, Muhammad Taqi Raza, Vishal Chowdhary, Graham Neubig
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-31154/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-31154/citation.csl.json
 
 ## Recorded arXiv snapshot
 

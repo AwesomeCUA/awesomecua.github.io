@@ -16,9 +16,16 @@ Bibliographic record for Smart Help: Strategic Opponent Modeling for Proactive a
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-09001/record.json
+
 ## Authors
 
 Zhihao Cao, Zidong Wang, Siwen Xie, Anji Liu, Lifeng Fan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-09001/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-09001/citation.csl.json
 
 ## Recorded arXiv snapshot
 

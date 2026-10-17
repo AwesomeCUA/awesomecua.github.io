@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2509.14382",
+  "citation-key": "arxiv_2509_14382",
+  "type": "article",
+  "title": "Detecting Pipeline Failures through Fine-Grained Analysis of Web Agents",
+  "URL": "https://arxiv.org/abs/2509.14382v1",
+  "custom": {
+    "catalog_id": "arxiv:2509.14382",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2509.14382",
+    "identifiers": {
+      "arxiv": "2509.14382"
+    },
+    "first_published_at": "2025-09-17",
+    "record_updated_at": "2025-09-17",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ac93e8cfca06ff86fad06408051abaa6b6510a44d7ad9f2d34c478b11391a32f",
+      "submitted_at": "2025-09-17T19:34:49Z",
+      "updated_at": "2025-09-17T19:34:49Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2509.14382v1"
+    }
+  },
+  "note": "First published: 2025-09-17; Recorded arXiv version: v1; Recorded version updated: 2025-09-17T19:34:49Z.",
+  "author": [
+    {
+      "literal": "Daniel Röder"
+    },
+    {
+      "literal": "Akhil Juneja"
+    },
+    {
+      "literal": "Roland Roller"
+    },
+    {
+      "literal": "Sven Schmeier"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.14382",
+  "genre": "preprint",
+  "version": "1"
+}

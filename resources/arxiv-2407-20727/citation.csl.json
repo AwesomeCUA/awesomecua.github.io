@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2407.20727",
+  "citation-key": "arxiv_2407_20727",
+  "type": "article",
+  "title": "SceneTeller: Language-to-3D Scene Generation",
+  "URL": "https://arxiv.org/abs/2407.20727v1",
+  "custom": {
+    "catalog_id": "arxiv:2407.20727",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2407.20727",
+    "identifiers": {
+      "arxiv": "2407.20727"
+    },
+    "first_published_at": "2024-07-30",
+    "record_updated_at": "2024-07-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a01440dded23d610f757f8bd88e376c0d3d76481972ee5c4047ebf39aef19067",
+      "submitted_at": "2024-07-30T10:45:28Z",
+      "updated_at": "2024-07-30T10:45:28Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2407.20727v1"
+    }
+  },
+  "note": "First published: 2024-07-30; Recorded arXiv version: v1; Recorded version updated: 2024-07-30T10:45:28Z.",
+  "author": [
+    {
+      "literal": "Başak Melis Öcal"
+    },
+    {
+      "literal": "Maxim Tatarchenko"
+    },
+    {
+      "literal": "Sezer Karaoglu"
+    },
+    {
+      "literal": "Theo Gevers"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.20727",
+  "genre": "preprint",
+  "version": "1"
+}

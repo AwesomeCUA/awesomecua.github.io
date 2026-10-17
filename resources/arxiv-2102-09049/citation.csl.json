@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2102.09049",
+  "citation-key": "arxiv_2102_09049",
+  "type": "article",
+  "title": "Efficient Reservoir Computing using Field Programmable Gate Array and Electro-optic Modulation",
+  "URL": "https://arxiv.org/abs/2102.09049v1",
+  "custom": {
+    "catalog_id": "arxiv:2102.09049",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2102.09049",
+    "identifiers": {
+      "arxiv": "2102.09049"
+    },
+    "first_published_at": "2021-02-11",
+    "record_updated_at": "2021-02-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "953df741630f66a845d7d7b83c76c51292714c93fe56fb05686fd638dc5d24c4",
+      "submitted_at": "2021-02-11T23:59:14Z",
+      "updated_at": "2021-02-11T23:59:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2102.09049v1"
+    }
+  },
+  "note": "First published: 2021-02-11; Recorded arXiv version: v1; Recorded version updated: 2021-02-11T23:59:14Z.",
+  "author": [
+    {
+      "literal": "Prajnesh Kumar"
+    },
+    {
+      "literal": "Mingwei Jin"
+    },
+    {
+      "literal": "Ting Bu"
+    },
+    {
+      "literal": "Santosh Kumar"
+    },
+    {
+      "literal": "Yu-Ping Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        2,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2102.09049",
+  "genre": "preprint",
+  "version": "1"
+}

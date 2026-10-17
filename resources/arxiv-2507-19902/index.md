@@ -16,9 +16,16 @@ Bibliographic record for AgentMesh: A Cooperative Multi-Agent Generative AI Fram
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-19902/record.json
+
 ## Authors
 
 Sourena Khanzadeh
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-19902/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-19902/citation.csl.json
 
 ## Recorded arXiv snapshot
 

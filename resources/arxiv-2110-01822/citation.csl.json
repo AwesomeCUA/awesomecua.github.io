@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2110.01822",
+  "citation-key": "arxiv_2110_01822",
+  "type": "article",
+  "title": "Verified eigenvalue and eigenvector computations using complex moments and the Rayleigh$\\unicode{x2013}$Ritz procedure for generalized Hermitian eigenvalue problems",
+  "URL": "https://arxiv.org/abs/2110.01822v3",
+  "custom": {
+    "catalog_id": "arxiv:2110.01822",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2110.01822",
+    "identifiers": {
+      "arxiv": "2110.01822"
+    },
+    "first_published_at": "2021-10-05",
+    "record_updated_at": "2022-10-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "979e942932bd25fff3f0b97bb6d06a2ace61e02c2b40de4823b794a41c384fd6",
+      "submitted_at": "2021-10-05T05:04:27Z",
+      "updated_at": "2022-10-25T06:19:04Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2110.01822v3"
+    }
+  },
+  "note": "First published: 2021-10-05; Recorded arXiv version: v3; Recorded version updated: 2022-10-25T06:19:04Z.",
+  "author": [
+    {
+      "literal": "Akira Imakura"
+    },
+    {
+      "literal": "Keiichi Morikuni"
+    },
+    {
+      "literal": "Akitoshi Takayasu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        10,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2110.01822",
+  "genre": "preprint",
+  "version": "3"
+}

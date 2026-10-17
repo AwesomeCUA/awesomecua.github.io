@@ -16,6 +16,8 @@ Released model checkpoint associated with UI-TARS.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-4d32ad3682ae2d71c178/record.json
+
 ## License declarations
 
 - code: not recorded

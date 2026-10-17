@@ -16,9 +16,16 @@ Bibliographic record for Coded Iterative Computing using Substitute Decoding. Ti
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1805-06046/record.json
+
 ## Authors
 
 Yaoqing Yang, Malhar Chaudhari, Pulkit Grover, Soummya Kar
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1805-06046/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1805-06046/citation.csl.json
 
 ## Recorded arXiv snapshot
 

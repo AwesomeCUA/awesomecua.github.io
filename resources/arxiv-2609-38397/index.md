@@ -16,9 +16,16 @@ Bibliographic record for SimTrace: Grounded Multimodal User Trajectories Generat
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-38397/record.json
+
 ## Authors
 
 Yunan Lu, Shuang Xie, Meghna Allamudi, Mingyu Zhao, Han Li, Lingyun Wang, Zhou Yu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-38397/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-38397/citation.csl.json
 
 ## Recorded arXiv snapshot
 

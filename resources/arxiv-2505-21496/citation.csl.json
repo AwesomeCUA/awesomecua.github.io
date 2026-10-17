@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2505.21496",
+  "citation-key": "arxiv_2505_21496",
+  "type": "article",
+  "title": "UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents",
+  "URL": "https://arxiv.org/abs/2505.21496v1",
+  "custom": {
+    "catalog_id": "arxiv:2505.21496",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2505.21496",
+    "identifiers": {
+      "arxiv": "2505.21496"
+    },
+    "first_published_at": "2025-05-27",
+    "record_updated_at": "2025-05-27",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6f19671a527de76b702e68311656e42feea88249716f68911a41ec80be205e4c",
+      "submitted_at": "2025-05-27T17:58:06Z",
+      "updated_at": "2025-05-27T17:58:06Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2505.21496v1"
+    }
+  },
+  "note": "First published: 2025-05-27; Recorded arXiv version: v1; Recorded version updated: 2025-05-27T17:58:06Z.",
+  "author": [
+    {
+      "literal": "Han Xiao"
+    },
+    {
+      "literal": "Guozhi Wang"
+    },
+    {
+      "literal": "Yuxiang Chai"
+    },
+    {
+      "literal": "Zimu Lu"
+    },
+    {
+      "literal": "Weifeng Lin"
+    },
+    {
+      "literal": "Hao He"
+    },
+    {
+      "literal": "Lue Fan"
+    },
+    {
+      "literal": "Liuyang Bian"
+    },
+    {
+      "literal": "Rui Hu"
+    },
+    {
+      "literal": "Liang Liu"
+    },
+    {
+      "literal": "Shuai Ren"
+    },
+    {
+      "literal": "Yafei Wen"
+    },
+    {
+      "literal": "Xiaoxin Chen"
+    },
+    {
+      "literal": "Aojun Zhou"
+    },
+    {
+      "literal": "Hongsheng Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.21496",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2602.24142",
+  "citation-key": "arxiv_2602_24142",
+  "type": "article",
+  "title": "CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning",
+  "URL": "https://arxiv.org/abs/2602.24142v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.24142",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.24142",
+    "identifiers": {
+      "arxiv": "2602.24142"
+    },
+    "first_published_at": "2026-02-27",
+    "record_updated_at": "2026-03-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "46bc8b5d5097f41a29d37b3fdf6245778acd82f3ae800d5fec38b2c4f7d3aecb",
+      "submitted_at": "2026-02-27T16:19:45Z",
+      "updated_at": "2026-03-06T18:07:28Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.24142v2"
+    }
+  },
+  "note": "First published: 2026-02-27; Recorded arXiv version: v2; Recorded version updated: 2026-03-06T18:07:28Z.",
+  "author": [
+    {
+      "literal": "Yuxuan Liu"
+    },
+    {
+      "literal": "Weikai Xu"
+    },
+    {
+      "literal": "Kun Huang"
+    },
+    {
+      "literal": "Changyu Chen"
+    },
+    {
+      "literal": "Jiankun Zhao"
+    },
+    {
+      "literal": "Pengzhi Gao"
+    },
+    {
+      "literal": "Wei Liu"
+    },
+    {
+      "literal": "Jian Luan"
+    },
+    {
+      "literal": "Shuo Shang"
+    },
+    {
+      "literal": "Bo Du"
+    },
+    {
+      "literal": "Ji-Rong Wen"
+    },
+    {
+      "literal": "Rui Yan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.24142",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "arxiv:2505.03574",
+  "citation-key": "arxiv_2505_03574",
+  "type": "article",
+  "title": "LlamaFirewall: An open source guardrail system for building secure AI agents",
+  "URL": "https://arxiv.org/abs/2505.03574v1",
+  "custom": {
+    "catalog_id": "arxiv:2505.03574",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.03574",
+    "identifiers": {
+      "arxiv": "2505.03574"
+    },
+    "first_published_at": "2025-05-06",
+    "record_updated_at": "2025-05-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6e4a9b47f999eb820e574ed8cb1023379d57f2f891a16059d9820b8c6942ec3f",
+      "submitted_at": "2025-05-06T14:34:21Z",
+      "updated_at": "2025-05-06T14:34:21Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2505.03574v1"
+    }
+  },
+  "note": "First published: 2025-05-06; Recorded arXiv version: v1; Recorded version updated: 2025-05-06T14:34:21Z.",
+  "author": [
+    {
+      "literal": "Sahana Chennabasappa"
+    },
+    {
+      "literal": "Cyrus Nikolaidis"
+    },
+    {
+      "literal": "Daniel Song"
+    },
+    {
+      "literal": "David Molnar"
+    },
+    {
+      "literal": "Stephanie Ding"
+    },
+    {
+      "literal": "Shengye Wan"
+    },
+    {
+      "literal": "Spencer Whitman"
+    },
+    {
+      "literal": "Lauren Deason"
+    },
+    {
+      "literal": "Nicholas Doucette"
+    },
+    {
+      "literal": "Abraham Montilla"
+    },
+    {
+      "literal": "Alekhya Gampa"
+    },
+    {
+      "literal": "Beto de Paola"
+    },
+    {
+      "literal": "Dominik Gabi"
+    },
+    {
+      "literal": "James Crnkovich"
+    },
+    {
+      "literal": "Jean-Christophe Testud"
+    },
+    {
+      "literal": "Kat He"
+    },
+    {
+      "literal": "Rashnil Chaturvedi"
+    },
+    {
+      "literal": "Wu Zhou"
+    },
+    {
+      "literal": "Joshua Saxe"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.03574",
+  "genre": "preprint",
+  "version": "1"
+}

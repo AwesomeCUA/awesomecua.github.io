@@ -16,9 +16,16 @@ VisionTasker converts screenshots into textual UI interpretations and presents o
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2312-11190/record.json
+
 ## Authors
 
 Yunpeng Song, Yiheng Bian, Yongtao Tang, Guiyu Ma, Zhongmin Cai
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2312-11190/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2312-11190/citation.csl.json
 
 ## Recorded arXiv snapshot
 

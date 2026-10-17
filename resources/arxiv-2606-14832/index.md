@@ -16,9 +16,16 @@ Bibliographic record for PhoneHarness: Harnessing Phone-Use Agents through Mixed
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-14832/record.json
+
 ## Authors
 
 Chenxin Li, Zhengyao Fang, Zhengyang Tang, Pengyuan Lyu, Xingran Zhou, Xin Lai, Fei Tang, Liang Wu, Yiduo Guo, Weinong Wang, Junyi Li, Yi Zhang, Yang Ding, Huawen Shen, Sunqi Fan, Shangpin Peng, Zheng Ruan, Anran Zhang, Benyou Wang, Chengquan Zhang, Han Hu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-14832/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-14832/citation.csl.json
 
 ## Recorded arXiv snapshot
 

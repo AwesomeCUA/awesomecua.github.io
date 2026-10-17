@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2109.12470",
+  "citation-key": "arxiv_2109_12470",
+  "type": "article",
+  "title": "Singularities of serial robots: Identification and distance computation using geometric algebra",
+  "URL": "https://arxiv.org/abs/2109.12470v1",
+  "custom": {
+    "catalog_id": "arxiv:2109.12470",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2109.12470",
+    "identifiers": {
+      "arxiv": "2109.12470"
+    },
+    "first_published_at": "2021-09-26",
+    "record_updated_at": "2021-09-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fc2c2a63f4d1a21cc32e5ae59412424842a05e4bc16408d17773f2a996b09a58",
+      "submitted_at": "2021-09-26T00:58:42Z",
+      "updated_at": "2021-09-26T00:58:42Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2109.12470v1"
+    }
+  },
+  "note": "First published: 2021-09-26; Recorded arXiv version: v1; Recorded version updated: 2021-09-26T00:58:42Z.",
+  "author": [
+    {
+      "literal": "Isiah Zaplana"
+    },
+    {
+      "literal": "Hugo Hadfield"
+    },
+    {
+      "literal": "Joan Lasenby"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        9,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2109.12470",
+  "genre": "preprint",
+  "version": "1"
+}

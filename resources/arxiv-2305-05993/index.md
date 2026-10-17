@@ -16,9 +16,16 @@ Bibliographic record for Private Product Computation using Quantum Entanglement.
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2305-05993/record.json
+
 ## Authors
 
 René Bødker Christensen, Petar Popovski
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2305-05993/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-05993/citation.csl.json
 
 ## Recorded arXiv snapshot
 

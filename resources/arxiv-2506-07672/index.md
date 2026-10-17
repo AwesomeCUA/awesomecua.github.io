@@ -16,9 +16,16 @@ MCPWorld evaluates API, GUI, and hybrid computer-use agents with 201 tasks in ap
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced. The platform or GUI evaluation setting was additionally checked in the primary full text.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-07672/record.json
+
 ## Authors
 
 Yunhe Yan, Shihe Wang, Jiajun Du, Yexuan Yang, Yuxuan Shan, Qichen Qiu, Xianqing Jia, Xinge Wang, Xin Yuan, Xu Han, Mao Qin, Yinxiao Chen, Chen Peng, Shangguang Wang, Mengwei Xu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-07672/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-07672/citation.csl.json
 
 ## Recorded arXiv snapshot
 

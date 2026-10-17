@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2402.01030",
+  "citation-key": "arxiv_2402_01030",
+  "type": "article",
+  "title": "Executable Code Actions Elicit Better LLM Agents",
+  "URL": "https://arxiv.org/abs/2402.01030v4",
+  "custom": {
+    "catalog_id": "arxiv:2402.01030",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2402.01030",
+    "identifiers": {
+      "arxiv": "2402.01030"
+    },
+    "first_published_at": "2024-02-01",
+    "record_updated_at": "2024-06-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7e053453816217e97c5909f22f49b67c2a007b69d1148761e0a83017200f035e",
+      "submitted_at": "2024-02-01T21:38:58Z",
+      "updated_at": "2024-06-07T01:53:07Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2402.01030v4"
+    }
+  },
+  "note": "First published: 2024-02-01; Recorded arXiv version: v4; Recorded version updated: 2024-06-07T01:53:07Z.",
+  "author": [
+    {
+      "literal": "Xingyao Wang"
+    },
+    {
+      "literal": "Yangyi Chen"
+    },
+    {
+      "literal": "Lifan Yuan"
+    },
+    {
+      "literal": "Yizhe Zhang"
+    },
+    {
+      "literal": "Yunzhu Li"
+    },
+    {
+      "literal": "Hao Peng"
+    },
+    {
+      "literal": "Heng Ji"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.01030",
+  "genre": "preprint",
+  "version": "4"
+}

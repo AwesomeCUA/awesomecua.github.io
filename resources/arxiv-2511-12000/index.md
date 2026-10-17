@@ -16,9 +16,16 @@ Bibliographic record for Measurement-Based Quantum Computation Using the Spin-1 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-12000/record.json
+
 ## Authors
 
 Hiroki Ohta, Aaron Merlin Müller, Shunji Tsuchiya
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-12000/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-12000/citation.csl.json
 
 ## Recorded arXiv snapshot
 

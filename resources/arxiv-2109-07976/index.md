@@ -16,9 +16,16 @@ Bibliographic record for Scalable massively parallel computing using continuous-
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2109-07976/record.json
+
 ## Authors
 
 Cong Wang, Shi-Jun Liang, Chen-Yu Wang, Zai-Zheng Yang, Yingmeng Ge, Chen Pan, Xi Shen, Wei Wei, Yichen Zhao, Zaichen Zhang, Bin Cheng, Chuan Zhang, Feng Miao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2109-07976/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2109-07976/citation.csl.json
 
 ## Recorded arXiv snapshot
 

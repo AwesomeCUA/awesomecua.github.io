@@ -16,9 +16,16 @@ Bibliographic record for Activity Frames: Deterministic Screen-Activity Compilat
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-05784/record.json
+
 ## Authors
 
 Nossa Iyamu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-05784/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-05784/citation.csl.json
 
 ## Recorded arXiv snapshot
 

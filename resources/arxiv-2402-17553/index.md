@@ -16,9 +16,16 @@ Introduces a dataset and benchmark for generating executable task scripts from s
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-17553/record.json
+
 ## Authors
 
 Raghav Kapoor, Yash Parag Butala, Melisa Russak, Jing Yu Koh, Kiran Kamble, Waseem Alshikh, Ruslan Salakhutdinov
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-17553/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-17553/citation.csl.json
 
 ## Recorded arXiv snapshot
 

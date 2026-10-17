@@ -16,9 +16,16 @@ Bibliographic record for Constrain Alignment with Sparse Autoencoders. Title, au
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-07618/record.json
+
 ## Authors
 
 Qingyu Yin, Chak Tou Leong, Minjun Zhu, Hanqi Yan, Qiang Zhang, Yulan He, Wenjie Li, Jun Wang, Yue Zhang, Linyi Yang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-07618/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-07618/citation.csl.json
 
 ## Recorded arXiv snapshot
 

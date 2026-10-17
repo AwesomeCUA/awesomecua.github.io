@@ -16,9 +16,16 @@ Bibliographic record for Adaptive Length Image Tokenization via Recurrent Alloca
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-02393/record.json
+
 ## Authors
 
 Shivam Duggal, Phillip Isola, Antonio Torralba, William T. Freeman
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-02393/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-02393/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for RunAgent SuperBrowser: A Theory of Autonomous Web Navig
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-09399/record.json
+
 ## Authors
 
 Radeen Mostafa, Sawradip Saha
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-09399/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-09399/citation.csl.json
 
 ## Recorded arXiv snapshot
 

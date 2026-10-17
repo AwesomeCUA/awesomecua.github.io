@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2505.23450",
+  "citation-key": "arxiv_2505_23450",
+  "type": "article",
+  "title": "Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents",
+  "URL": "https://arxiv.org/abs/2505.23450v2",
+  "custom": {
+    "catalog_id": "arxiv:2505.23450",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.23450",
+    "identifiers": {
+      "arxiv": "2505.23450"
+    },
+    "first_published_at": "2025-05-29",
+    "record_updated_at": "2025-06-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "111a0ca1c6ef73a6cea87df28fd43d891a109d0a50b57d1e80463ae761354a90",
+      "submitted_at": "2025-05-29T13:56:49Z",
+      "updated_at": "2025-06-11T03:16:06Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2505.23450v2"
+    }
+  },
+  "note": "First published: 2025-05-29; Recorded arXiv version: v2; Recorded version updated: 2025-06-11T03:16:06Z.",
+  "author": [
+    {
+      "literal": "Zhejian Yang"
+    },
+    {
+      "literal": "Yongchao Chen"
+    },
+    {
+      "literal": "Xueyang Zhou"
+    },
+    {
+      "literal": "Jiangyue Yan"
+    },
+    {
+      "literal": "Dingjie Song"
+    },
+    {
+      "literal": "Yinuo Liu"
+    },
+    {
+      "literal": "Yuting Li"
+    },
+    {
+      "literal": "Yu Zhang"
+    },
+    {
+      "literal": "Pan Zhou"
+    },
+    {
+      "literal": "Hechang Chen"
+    },
+    {
+      "literal": "Lichao Sun"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.23450",
+  "genre": "preprint",
+  "version": "2"
+}

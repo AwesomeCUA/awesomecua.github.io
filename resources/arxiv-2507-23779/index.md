@@ -16,9 +16,16 @@ Reports a GUI-grounding model family and empirical design choices covering sourc
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-23779/record.json
+
 ## Authors
 
 Miaosen Zhang, Ziqiang Xu, Jialiang Zhu, Qi Dai, Kai Qiu, Yifan Yang, Chong Luo, Tianyi Chen, Justin Wagle, Tim Franklin, Baining Guo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-23779/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-23779/citation.csl.json
 
 ## Recorded arXiv snapshot
 

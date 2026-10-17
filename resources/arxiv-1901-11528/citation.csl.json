@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:1901.11528",
+  "citation-key": "arxiv_1901_11528",
+  "type": "article",
+  "title": "Shaping the Narrative Arc: An Information-Theoretic Approach to Collaborative Dialogue",
+  "URL": "https://arxiv.org/abs/1901.11528v1",
+  "custom": {
+    "catalog_id": "arxiv:1901.11528",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1901.11528",
+    "identifiers": {
+      "arxiv": "1901.11528"
+    },
+    "first_published_at": "2019-01-31",
+    "record_updated_at": "2019-01-31",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "59f37431469cceec9bd48d66f578b92c6502afc0d1515e371d6bd4f98056780b",
+      "submitted_at": "2019-01-31T18:48:19Z",
+      "updated_at": "2019-01-31T18:48:19Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1901.11528v1"
+    }
+  },
+  "note": "First published: 2019-01-31; Recorded arXiv version: v1; Recorded version updated: 2019-01-31T18:48:19Z.",
+  "author": [
+    {
+      "literal": "Kory W. Mathewson"
+    },
+    {
+      "literal": "Pablo Samuel Castro"
+    },
+    {
+      "literal": "Colin Cherry"
+    },
+    {
+      "literal": "George Foster"
+    },
+    {
+      "literal": "Marc G. Bellemare"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        1,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1901.11528",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Pairs benign and harmful web tasks to assess deliberate misuse risks and categor
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-04957/record.json
+
 ## Authors
 
 Ada Defne Tur, Nicholas Meade, Xing Han Lù, Alejandra Zambrano, Arkil Patel, Esin Durmus, Spandana Gella, Karolina Stańczak, Siva Reddy
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-04957/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-04957/citation.csl.json
 
 ## Recorded arXiv snapshot
 

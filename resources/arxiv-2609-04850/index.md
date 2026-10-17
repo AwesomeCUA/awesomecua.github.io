@@ -16,9 +16,16 @@ ElderBench evaluates mobile GUI agents on smartphone requests elicited from olde
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-04850/record.json
+
 ## Authors
 
 Weide Zhan, Qumu Shaqu, Yuanqing Liu, Peng Zhang, Jiahao Liu, Kam Him Lam, Ning Gu, Zhan Hu, Tun Lu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-04850/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-04850/citation.csl.json
 
 ## Recorded arXiv snapshot
 

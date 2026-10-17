@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2510.07532",
+  "citation-key": "arxiv_2510_07532",
+  "type": "article",
+  "title": "On Quantum Computation Using Bias-Preserving Gates",
+  "URL": "https://arxiv.org/abs/2510.07532v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.07532",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.07532",
+    "identifiers": {
+      "arxiv": "2510.07532"
+    },
+    "first_published_at": "2025-10-08",
+    "record_updated_at": "2025-10-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "729eddd4d6c75381ae286635ed8aecd97e9d92f735c377c51570adc2728e56c6",
+      "submitted_at": "2025-10-08T20:49:49Z",
+      "updated_at": "2025-10-10T09:52:40Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.07532v2"
+    }
+  },
+  "note": "First published: 2025-10-08; Recorded arXiv version: v2; Recorded version updated: 2025-10-10T09:52:40Z.",
+  "author": [
+    {
+      "literal": "Debadrito Roy"
+    },
+    {
+      "literal": "Aryaman Manish Kolhe"
+    },
+    {
+      "literal": "V. Lalitha"
+    },
+    {
+      "literal": "Navin Kashyap"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.07532",
+  "genre": "preprint",
+  "version": "2"
+}

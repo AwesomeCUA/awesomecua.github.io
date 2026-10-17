@@ -16,9 +16,16 @@ Bibliographic record for From Novice to Expert: LLM Agent Policy Optimization vi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-03817/record.json
+
 ## Authors
 
 Zhirui Deng, Zhicheng Dou, Yutao Zhu, Ji-Rong Wen, Ruibin Xiong, Mang Wang, Weipeng Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-03817/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-03817/citation.csl.json
 
 ## Recorded arXiv snapshot
 

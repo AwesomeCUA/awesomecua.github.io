@@ -16,6 +16,8 @@ Publisher or product brand associated with Steel computer-use or browser automat
 
 Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
 
+- Record JSON: https://awesomecua.github.io/resources/organization-steel/record.json
+
 ## License declarations
 
 - code: not recorded

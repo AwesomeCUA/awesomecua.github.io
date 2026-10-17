@@ -16,9 +16,16 @@ Bibliographic record for Context-Aware Workflow Decomposition for Automated Mobi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-02208/record.json
+
 ## Authors
 
 Athar Parvez, Muhammad Jawad Mufti, Muqaddas Gull, Omar Hammad
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-02208/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-02208/citation.csl.json
 
 ## Recorded arXiv snapshot
 

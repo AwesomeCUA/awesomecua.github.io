@@ -16,6 +16,8 @@ GUI models for interface perception and action grounding.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-tencent-points-gui/record.json
+
 ## License declarations
 
 - code: not recorded

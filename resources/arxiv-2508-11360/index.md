@@ -16,9 +16,16 @@ CRAFT-GUI organizes GUI trajectories by difficulty for curriculum-based GRPO tra
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-11360/record.json
+
 ## Authors
 
 Songqin Nong, Xiaoxuan Tang, Jingxuan Xu, Sheng Zhou, Jianfeng Chen, Tao Jiang, Wenhao Xu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-11360/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-11360/citation.csl.json
 
 ## Recorded arXiv snapshot
 

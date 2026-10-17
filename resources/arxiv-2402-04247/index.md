@@ -16,9 +16,16 @@ Bibliographic record for Risks of AI Scientists: Prioritizing Safeguarding Over 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-04247/record.json
+
 ## Authors
 
 Xiangru Tang, Qiao Jin, Kunlun Zhu, Tongxin Yuan, Yichi Zhang, Wangchunshu Zhou, Meng Qu, Yilun Zhao, Jian Tang, Zhuosheng Zhang, Arman Cohan, Zhiyong Lu, Mark Gerstein
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-04247/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-04247/citation.csl.json
 
 ## Recorded arXiv snapshot
 

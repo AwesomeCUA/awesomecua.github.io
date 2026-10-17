@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2408.11551",
+  "citation-key": "arxiv_2408_11551",
+  "type": "article",
+  "title": "High Performance Unstructured SpMM Computation Using Tensor Cores",
+  "URL": "https://arxiv.org/abs/2408.11551v1",
+  "custom": {
+    "catalog_id": "arxiv:2408.11551",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2408.11551",
+    "identifiers": {
+      "arxiv": "2408.11551"
+    },
+    "first_published_at": "2024-08-21",
+    "record_updated_at": "2024-08-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "455cc3de1e2f38ec7a5f13118c67277c35efa58702cb07879dc73ec143918f0c",
+      "submitted_at": "2024-08-21T11:57:42Z",
+      "updated_at": "2024-08-21T11:57:42Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2408.11551v1"
+    }
+  },
+  "note": "First published: 2024-08-21; Recorded arXiv version: v1; Recorded version updated: 2024-08-21T11:57:42Z.",
+  "author": [
+    {
+      "literal": "Patrik Okanovic"
+    },
+    {
+      "literal": "Grzegorz Kwasniewski"
+    },
+    {
+      "literal": "Paolo Sylos Labini"
+    },
+    {
+      "literal": "Maciej Besta"
+    },
+    {
+      "literal": "Flavio Vella"
+    },
+    {
+      "literal": "Torsten Hoefler"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2408.11551",
+  "genre": "preprint",
+  "version": "1"
+}

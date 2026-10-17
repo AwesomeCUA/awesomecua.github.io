@@ -16,9 +16,16 @@ Bibliographic record for Defending Against Indirect Prompt Injection Attacks Wit
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-14720/record.json
+
 ## Authors
 
 Keegan Hines, Gary Lopez, Matthew Hall, Federico Zarfati, Yonatan Zunger, Emre Kiciman
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-14720/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-14720/citation.csl.json
 
 ## Recorded arXiv snapshot
 

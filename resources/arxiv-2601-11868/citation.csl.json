@@ -1,0 +1,298 @@
+{
+  "id": "arxiv:2601.11868",
+  "citation-key": "arxiv_2601_11868",
+  "type": "article",
+  "title": "Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces",
+  "URL": "https://arxiv.org/abs/2601.11868v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.11868",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.11868",
+    "identifiers": {
+      "arxiv": "2601.11868"
+    },
+    "first_published_at": "2026-01-17",
+    "record_updated_at": "2026-01-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "40586833a0a14c29a39920f0e44e8d375191af28fa96c2f6a29aabe1ed7d3c45",
+      "submitted_at": "2026-01-17T01:29:30Z",
+      "updated_at": "2026-01-17T01:29:30Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.11868v1"
+    }
+  },
+  "note": "First published: 2026-01-17; Recorded arXiv version: v1; Recorded version updated: 2026-01-17T01:29:30Z.",
+  "author": [
+    {
+      "literal": "Mike A. Merrill"
+    },
+    {
+      "literal": "Alexander G. Shaw"
+    },
+    {
+      "literal": "Nicholas Carlini"
+    },
+    {
+      "literal": "Boxuan Li"
+    },
+    {
+      "literal": "Harsh Raj"
+    },
+    {
+      "literal": "Ivan Bercovich"
+    },
+    {
+      "literal": "Lin Shi"
+    },
+    {
+      "literal": "Jeong Yeon Shin"
+    },
+    {
+      "literal": "Thomas Walshe"
+    },
+    {
+      "literal": "E. Kelly Buchanan"
+    },
+    {
+      "literal": "Junhong Shen"
+    },
+    {
+      "literal": "Guanghao Ye"
+    },
+    {
+      "literal": "Haowei Lin"
+    },
+    {
+      "literal": "Jason Poulos"
+    },
+    {
+      "literal": "Maoyu Wang"
+    },
+    {
+      "literal": "Marianna Nezhurina"
+    },
+    {
+      "literal": "Jenia Jitsev"
+    },
+    {
+      "literal": "Di Lu"
+    },
+    {
+      "literal": "Orfeas Menis Mastromichalakis"
+    },
+    {
+      "literal": "Zhiwei Xu"
+    },
+    {
+      "literal": "Zizhao Chen"
+    },
+    {
+      "literal": "Yue Liu"
+    },
+    {
+      "literal": "Robert Zhang"
+    },
+    {
+      "literal": "Leon Liangyu Chen"
+    },
+    {
+      "literal": "Anurag Kashyap"
+    },
+    {
+      "literal": "Jan-Lucas Uslu"
+    },
+    {
+      "literal": "Jeffrey Li"
+    },
+    {
+      "literal": "Jianbo Wu"
+    },
+    {
+      "literal": "Minghao Yan"
+    },
+    {
+      "literal": "Song Bian"
+    },
+    {
+      "literal": "Vedang Sharma"
+    },
+    {
+      "literal": "Ke Sun"
+    },
+    {
+      "literal": "Steven Dillmann"
+    },
+    {
+      "literal": "Akshay Anand"
+    },
+    {
+      "literal": "Andrew Lanpouthakoun"
+    },
+    {
+      "literal": "Bardia Koopah"
+    },
+    {
+      "literal": "Changran Hu"
+    },
+    {
+      "literal": "Etash Guha"
+    },
+    {
+      "literal": "Gabriel H. S. Dreiman"
+    },
+    {
+      "literal": "Jiacheng Zhu"
+    },
+    {
+      "literal": "Karl Krauth"
+    },
+    {
+      "literal": "Li Zhong"
+    },
+    {
+      "literal": "Niklas Muennighoff"
+    },
+    {
+      "literal": "Robert Amanfu"
+    },
+    {
+      "literal": "Shangyin Tan"
+    },
+    {
+      "literal": "Shreyas Pimpalgaonkar"
+    },
+    {
+      "literal": "Tushar Aggarwal"
+    },
+    {
+      "literal": "Xiangning Lin"
+    },
+    {
+      "literal": "Xin Lan"
+    },
+    {
+      "literal": "Xuandong Zhao"
+    },
+    {
+      "literal": "Yiqing Liang"
+    },
+    {
+      "literal": "Yuanli Wang"
+    },
+    {
+      "literal": "Zilong Wang"
+    },
+    {
+      "literal": "Changzhi Zhou"
+    },
+    {
+      "literal": "David Heineman"
+    },
+    {
+      "literal": "Hange Liu"
+    },
+    {
+      "literal": "Harsh Trivedi"
+    },
+    {
+      "literal": "John Yang"
+    },
+    {
+      "literal": "Junhong Lin"
+    },
+    {
+      "literal": "Manish Shetty"
+    },
+    {
+      "literal": "Michael Yang"
+    },
+    {
+      "literal": "Nabil Omi"
+    },
+    {
+      "literal": "Negin Raoof"
+    },
+    {
+      "literal": "Shanda Li"
+    },
+    {
+      "literal": "Terry Yue Zhuo"
+    },
+    {
+      "literal": "Wuwei Lin"
+    },
+    {
+      "literal": "Yiwei Dai"
+    },
+    {
+      "literal": "Yuxin Wang"
+    },
+    {
+      "literal": "Wenhao Chai"
+    },
+    {
+      "literal": "Shang Zhou"
+    },
+    {
+      "literal": "Dariush Wahdany"
+    },
+    {
+      "literal": "Ziyu She"
+    },
+    {
+      "literal": "Jiaming Hu"
+    },
+    {
+      "literal": "Zhikang Dong"
+    },
+    {
+      "literal": "Yuxuan Zhu"
+    },
+    {
+      "literal": "Sasha Cui"
+    },
+    {
+      "literal": "Ahson Saiyed"
+    },
+    {
+      "literal": "Arinbjörn Kolbeinsson"
+    },
+    {
+      "literal": "Jesse Hu"
+    },
+    {
+      "literal": "Christopher Michael Rytting"
+    },
+    {
+      "literal": "Ryan Marten"
+    },
+    {
+      "literal": "Yixin Wang"
+    },
+    {
+      "literal": "Alex Dimakis"
+    },
+    {
+      "literal": "Andy Konwinski"
+    },
+    {
+      "literal": "Ludwig Schmidt"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.11868",
+  "genre": "preprint",
+  "version": "1"
+}

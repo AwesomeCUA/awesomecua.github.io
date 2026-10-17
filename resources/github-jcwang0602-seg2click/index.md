@@ -16,6 +16,8 @@ Training and inference implementation that predicts an executable-region mask an
 
 The repository provides training, evaluation, and a custom mask decoder. Its code license does not determine the licenses of the five model checkpoints. No model execution was performed.
 
+- Record JSON: https://awesomecua.github.io/resources/github-jcwang0602-seg2click/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/jcwang0602/Seg2Click/HEAD/LICENSE

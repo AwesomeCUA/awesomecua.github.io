@@ -16,9 +16,16 @@ Audits failure-scored computer-use trajectories to distinguish agent errors from
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-28367/record.json
+
 ## Authors
 
 Zihan Dong, Zhiyuan Ma, Zekun Wang, Yunqing Li, Zirou Liu, Ruixuan Deng, Qishi Zhan, Rui Qian
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-28367/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-28367/citation.csl.json
 
 ## Recorded arXiv snapshot
 

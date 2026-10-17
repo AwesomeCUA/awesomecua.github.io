@@ -16,9 +16,16 @@ Bibliographic record for WebSP-Eval: Evaluating Web Agents on Website Security a
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-06367/record.json
+
 ## Authors
 
 Guruprasad Viswanathan Ramesh, Asmit Nayak, Basieem Siddique, Kassem Fawaz
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-06367/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-06367/citation.csl.json
 
 ## Recorded arXiv snapshot
 

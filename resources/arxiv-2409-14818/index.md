@@ -16,9 +16,16 @@ MobileVLM adds two pretraining stages and four UI tasks to learn element detail 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-14818/record.json
+
 ## Authors
 
 Qinzhuo Wu, Weikai Xu, Wei Liu, Tao Tan, Jianfeng Liu, Ang Li, Jian Luan, Bin Wang, Shuo Shang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-14818/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-14818/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,92 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "dataset_profile": {
+      "counts": [],
+      "evidence_urls": [
+        "https://huggingface.co/datasets/h-siyuan/ScreenDrag/raw/main/README.md"
+      ],
+      "formats": [
+        "Parquet",
+        "episode files"
+      ],
+      "modalities": [
+        "screen images",
+        "instructions",
+        "previous state",
+        "continuous actions"
+      ],
+      "notes": "Raw and Parquet folders are alternative views of the same data. Each sample describes a dragging task over multiple timesteps; action vectors encode button state and coordinates.",
+      "splits": [
+        "train",
+        "test"
+      ],
+      "supervision": [
+        "continuous GUI dragging"
+      ]
+    },
+    "download_url": "https://huggingface.co/datasets/h-siyuan/ScreenDrag/tree/main",
+    "languages": [],
+    "modalities": [
+      "image",
+      "text",
+      "continuous-actions"
+    ],
+    "sample_count": null,
+    "sample_unit": null
+  },
+  "environments": [
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T11:12:56Z",
+      "role": "primary",
+      "sha256": "39c7c028f7ef5ca5c75f79b59a107c7e25444776095a2a08bb7535c4f523f7fa",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details.modalities",
+        "details.download_url",
+        "details.dataset_profile"
+      ],
+      "url": "https://huggingface.co/datasets/h-siyuan/ScreenDrag/raw/main/README.md"
+    }
+  ],
+  "id": "url:fe43af1801032be708cc",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-16T11:12:56Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/h-siyuan/ScreenDrag"
+    }
+  ],
+  "name": "ScreenDrag",
+  "notes": "Raw and Parquet folders are alternative views of the same data and should not be counted as independent samples. The inspected card did not state a license.",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "GUI dragging data with screen observations, prior state, and continuous pointer actions, provided as trajectory files and Parquet representations.",
+  "topics": [
+    "grounding",
+    "evaluation"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/h-siyuan/ScreenDrag"
+}

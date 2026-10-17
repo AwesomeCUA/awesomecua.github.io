@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2407.02117",
+  "citation-key": "arxiv_2407_02117",
+  "type": "article",
+  "title": "SOA-based reservoir computing using up-sampling",
+  "URL": "https://arxiv.org/abs/2407.02117v1",
+  "custom": {
+    "catalog_id": "arxiv:2407.02117",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2407.02117",
+    "identifiers": {
+      "arxiv": "2407.02117"
+    },
+    "first_published_at": "2024-07-02",
+    "record_updated_at": "2024-07-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9fbad2b1110de23b08d29e8bf2417dff8b199170e97af36e37b17142abf63d06",
+      "submitted_at": "2024-07-02T10:05:58Z",
+      "updated_at": "2024-07-02T10:05:58Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2407.02117v1"
+    }
+  },
+  "note": "First published: 2024-07-02; Recorded arXiv version: v1; Recorded version updated: 2024-07-02T10:05:58Z.",
+  "author": [
+    {
+      "literal": "E. Manuylovich"
+    },
+    {
+      "literal": "A. E. Bednyakova"
+    },
+    {
+      "literal": "D. A. Ivoilov"
+    },
+    {
+      "literal": "I. S. Terekhov"
+    },
+    {
+      "literal": "S. K. Turitsyn"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.02117",
+  "genre": "preprint",
+  "version": "1"
+}

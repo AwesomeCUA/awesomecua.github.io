@@ -16,6 +16,8 @@ Announced GUI trajectory synthesis resources for recovery from policy-induced er
 
 The 800k figure describes training samples in the study, not an independently counted public download. The repository code-license declaration does not establish terms for an unreleased dataset.
 
+- Record JSON: https://awesomecua.github.io/resources/github-alibabaresearch-rots/record.json
+
 ## Structured profile
 
 - formats: not recorded

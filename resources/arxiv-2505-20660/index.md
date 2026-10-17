@@ -16,9 +16,16 @@ BacktrackAgent adds verification, judgment, and reflection modules to detect err
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-20660/record.json
+
 ## Authors
 
 Qinzhuo Wu, Pengzhi Gao, Wei Liu, Jian Luan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-20660/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-20660/citation.csl.json
 
 ## Recorded arXiv snapshot
 

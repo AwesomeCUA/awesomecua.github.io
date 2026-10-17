@@ -16,9 +16,16 @@ Bibliographic record for TableSense: Spreadsheet Table Detection with Convolutio
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2106-13500/record.json
+
 ## Authors
 
 Haoyu Dong, Shijie Liu, Shi Han, Zhouyu Fu, Dongmei Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2106-13500/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2106-13500/citation.csl.json
 
 ## Recorded arXiv snapshot
 

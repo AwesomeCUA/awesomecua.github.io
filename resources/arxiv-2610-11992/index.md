@@ -16,9 +16,16 @@ Bibliographic record for Multifunctional synaptic learning and neuromorphic comp
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-11992/record.json
+
 ## Authors
 
 Dip Manna, Koushik Mondal, Subhajit Karmakar, Pawan Kumar Ojha, Sourav Roy, Biswarup Satpati, Prasanta Karmakar, Supratic Chakraborty
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-11992/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-11992/citation.csl.json
 
 ## Recorded arXiv snapshot
 

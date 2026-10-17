@@ -16,9 +16,16 @@ Bibliographic record for JailbreakBench: An Open Robustness Benchmark for Jailbr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-01318/record.json
+
 ## Authors
 
 Patrick Chao, Edoardo Debenedetti, Alexander Robey, Maksym Andriushchenko, Francesco Croce, Vikash Sehwag, Edgar Dobriban, Nicolas Flammarion, George J. Pappas, Florian Tramer, Hamed Hassani, Eric Wong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-01318/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-01318/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2602.02419",
+  "citation-key": "arxiv_2602_02419",
+  "type": "article",
+  "title": "SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration",
+  "URL": "https://arxiv.org/abs/2602.02419v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.02419",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2602.02419",
+    "identifiers": {
+      "arxiv": "2602.02419"
+    },
+    "first_published_at": "2026-02-02",
+    "record_updated_at": "2026-02-03",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c9557fc608a7fd7667746e9b3e06bc699b1796cdd77fe5e975ba1bd5a64690c1",
+      "submitted_at": "2026-02-02T18:22:45Z",
+      "updated_at": "2026-02-03T08:31:29Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.02419v2"
+    }
+  },
+  "note": "First published: 2026-02-02; Recorded arXiv version: v2; Recorded version updated: 2026-02-03T08:31:29Z.",
+  "author": [
+    {
+      "literal": "Qingni Wang"
+    },
+    {
+      "literal": "Yue Fan"
+    },
+    {
+      "literal": "Xin Eric Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.02419",
+  "genre": "preprint",
+  "version": "2"
+}

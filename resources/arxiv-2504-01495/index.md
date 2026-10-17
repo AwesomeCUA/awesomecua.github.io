@@ -16,9 +16,16 @@ Adapts web agents to execute natural-language test steps, verify assertions, and
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-01495/record.json
+
 ## Authors
 
 Antoine Chevrot, Alexandre Vernotte, Jean-Rémy Falleri, Xavier Blanc, Bruno Legeard
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-01495/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-01495/citation.csl.json
 
 ## Recorded arXiv snapshot
 

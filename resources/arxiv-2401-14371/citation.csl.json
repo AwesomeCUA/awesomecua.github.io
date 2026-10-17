@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2401.14371",
+  "citation-key": "arxiv_2401_14371",
+  "type": "article",
+  "title": "Efficient Optimisation of Physical Reservoir Computers using only a Delayed Input",
+  "URL": "https://arxiv.org/abs/2401.14371v1",
+  "custom": {
+    "catalog_id": "arxiv:2401.14371",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2401.14371",
+    "identifiers": {
+      "arxiv": "2401.14371"
+    },
+    "first_published_at": "2024-01-25",
+    "record_updated_at": "2024-01-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3288597edca7b77ba05d5c11a24732582385874404ee728bd5ebba40b25d8be0",
+      "submitted_at": "2024-01-25T18:20:37Z",
+      "updated_at": "2024-01-25T18:20:37Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2401.14371v1"
+    }
+  },
+  "note": "First published: 2024-01-25; Recorded arXiv version: v1; Recorded version updated: 2024-01-25T18:20:37Z.",
+  "author": [
+    {
+      "literal": "Enrico Picco"
+    },
+    {
+      "literal": "Lina Jaurigue"
+    },
+    {
+      "literal": "Kathy Lüdge"
+    },
+    {
+      "literal": "Serge Massar"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2401.14371",
+  "genre": "preprint",
+  "version": "1"
+}

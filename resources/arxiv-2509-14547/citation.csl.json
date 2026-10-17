@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2509.14547",
+  "citation-key": "arxiv_2509_14547",
+  "type": "article",
+  "title": "(P)rior(D)yna(F)low: A Priori Dynamic Workflow Construction via Multi-Agent Collaboration",
+  "URL": "https://arxiv.org/abs/2509.14547v1",
+  "custom": {
+    "catalog_id": "arxiv:2509.14547",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.14547",
+    "identifiers": {
+      "arxiv": "2509.14547"
+    },
+    "first_published_at": "2025-09-18",
+    "record_updated_at": "2025-09-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "20b7fcd1f51d3625533474a7fcea37118a4833019824135a75e352ee030c36a1",
+      "submitted_at": "2025-09-18T02:24:14Z",
+      "updated_at": "2025-09-18T02:24:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2509.14547v1"
+    }
+  },
+  "note": "First published: 2025-09-18; Recorded arXiv version: v1; Recorded version updated: 2025-09-18T02:24:14Z.",
+  "author": [
+    {
+      "literal": "Yi Lin"
+    },
+    {
+      "literal": "Lujin Zhao"
+    },
+    {
+      "literal": "Yijie Shi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.14547",
+  "genre": "preprint",
+  "version": "1"
+}

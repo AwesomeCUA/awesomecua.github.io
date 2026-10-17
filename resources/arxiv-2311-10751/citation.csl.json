@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2311.10751",
+  "citation-key": "arxiv_2311_10751",
+  "type": "article",
+  "title": "ProAgent: From Robotic Process Automation to Agentic Process Automation",
+  "URL": "https://arxiv.org/abs/2311.10751v2",
+  "custom": {
+    "catalog_id": "arxiv:2311.10751",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2311.10751",
+    "identifiers": {
+      "arxiv": "2311.10751"
+    },
+    "first_published_at": "2023-11-02",
+    "record_updated_at": "2023-11-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1cb7c2d81302a2dfa8179c5f83e940f5b2015c591dc779c770a8382694b67801",
+      "submitted_at": "2023-11-02T14:32:16Z",
+      "updated_at": "2023-11-23T12:14:08Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2311.10751v2"
+    }
+  },
+  "note": "First published: 2023-11-02; Recorded arXiv version: v2; Recorded version updated: 2023-11-23T12:14:08Z.",
+  "author": [
+    {
+      "literal": "Yining Ye"
+    },
+    {
+      "literal": "Xin Cong"
+    },
+    {
+      "literal": "Shizuo Tian"
+    },
+    {
+      "literal": "Jiannan Cao"
+    },
+    {
+      "literal": "Hao Wang"
+    },
+    {
+      "literal": "Yujia Qin"
+    },
+    {
+      "literal": "Yaxi Lu"
+    },
+    {
+      "literal": "Heyang Yu"
+    },
+    {
+      "literal": "Huadong Wang"
+    },
+    {
+      "literal": "Yankai Lin"
+    },
+    {
+      "literal": "Zhiyuan Liu"
+    },
+    {
+      "literal": "Maosong Sun"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.10751",
+  "genre": "preprint",
+  "version": "2"
+}

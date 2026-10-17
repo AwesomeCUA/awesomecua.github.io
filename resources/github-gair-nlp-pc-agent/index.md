@@ -16,6 +16,8 @@ Agent framework for desktop workflows.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-gair-nlp-pc-agent/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/GAIR-NLP/PC-Agent/HEAD/LICENSE

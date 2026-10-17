@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2502.12130",
+  "citation-key": "arxiv_2502_12130",
+  "type": "article",
+  "title": "Scaling Autonomous Agents via Automatic Reward Modeling And Planning",
+  "URL": "https://arxiv.org/abs/2502.12130v1",
+  "custom": {
+    "catalog_id": "arxiv:2502.12130",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2502.12130",
+    "identifiers": {
+      "arxiv": "2502.12130"
+    },
+    "first_published_at": "2025-02-17",
+    "record_updated_at": "2025-02-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5cde1d02d18500109d1190869f27eadc5f14d56fd09507d7a415e462c66aca6e",
+      "submitted_at": "2025-02-17T18:49:25Z",
+      "updated_at": "2025-02-17T18:49:25Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2502.12130v1"
+    }
+  },
+  "note": "First published: 2025-02-17; Recorded arXiv version: v1; Recorded version updated: 2025-02-17T18:49:25Z.",
+  "author": [
+    {
+      "literal": "Zhenfang Chen"
+    },
+    {
+      "literal": "Delin Chen"
+    },
+    {
+      "literal": "Rui Sun"
+    },
+    {
+      "literal": "Wenjun Liu"
+    },
+    {
+      "literal": "Chuang Gan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.12130",
+  "genre": "preprint",
+  "version": "1"
+}

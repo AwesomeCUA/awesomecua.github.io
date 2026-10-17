@@ -16,9 +16,16 @@ Introduces CLASHarness, generating verifiable computer-use tasks with conflictin
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-19128/record.json
+
 ## Authors
 
 Yuxiang Lai, Jike Zhong, Chengzhi Liu, Ming Li, Haonan Wang, Xiaofeng Yang, Liang Zhao, Youbao Tang, Ruixi Fan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-19128/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-19128/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Web-Bench: A LLM Code Benchmark Based on Web Standards 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-07473/record.json
+
 ## Authors
 
 Kai Xu, YiWei Mao, XinYi Guan, ZiLong Feng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-07473/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-07473/citation.csl.json
 
 ## Recorded arXiv snapshot
 

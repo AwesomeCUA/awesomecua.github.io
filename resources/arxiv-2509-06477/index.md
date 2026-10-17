@@ -16,9 +16,16 @@ MAS-Bench evaluates mobile agents that combine GUI actions with APIs, deep links
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-06477/record.json
+
 ## Authors
 
 Pengxiang Zhao, Guangyi Liu, YaoZhen Liang, Weiqing He, Zhengxi Lu, WenHao Wang, Yuehao Huang, Yuxiang Chai, Zhaolu Kang, Yaxuan Guo, Hao Wang, Kexin Zhang, Liang Liu, Yong Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-06477/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-06477/citation.csl.json
 
 ## Recorded arXiv snapshot
 

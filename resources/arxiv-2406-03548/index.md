@@ -16,9 +16,16 @@ Bibliographic record for Robust Communication and Computation using Deep Learnin
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-03548/record.json
+
 ## Authors
 
 Robert-Jeron Reifert, Hayssam Dahrouj, Alaa Alameer Ahmad, Haris Gacanin, Aydin Sezgin
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-03548/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-03548/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Mitigating Leakage from Data Dependent Communications i
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2112-12411/record.json
+
 ## Authors
 
 Riad Ladjel, Nicolas Anciaux, Aurélien Bellet, Guillaume Scerri
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2112-12411/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2112-12411/citation.csl.json
 
 ## Recorded arXiv snapshot
 

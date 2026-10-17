@@ -16,9 +16,16 @@ Persona2Web tests whether web agents can resolve ambiguous requests using prefer
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-17003/record.json
+
 ## Authors
 
 Serin Kim, Sangam Lee, Dongha Lee
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-17003/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-17003/citation.csl.json
 
 ## Recorded arXiv snapshot
 

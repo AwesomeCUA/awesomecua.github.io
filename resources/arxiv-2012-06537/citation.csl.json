@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2012.06537",
+  "citation-key": "arxiv_2012_06537",
+  "type": "article",
+  "title": "Does the brain function as a quantum phase computer using phase ternary computation?",
+  "URL": "https://arxiv.org/abs/2012.06537v1",
+  "custom": {
+    "catalog_id": "arxiv:2012.06537",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2012.06537",
+    "identifiers": {
+      "arxiv": "2012.06537"
+    },
+    "first_published_at": "2020-12-04",
+    "record_updated_at": "2020-12-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "42104912771a1c5ec1487b8995367fa4ea5619c8c1f11d0dcb81450f467b8188",
+      "submitted_at": "2020-12-04T08:00:23Z",
+      "updated_at": "2020-12-04T08:00:23Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2012.06537v1"
+    }
+  },
+  "note": "First published: 2020-12-04; Recorded arXiv version: v1; Recorded version updated: 2020-12-04T08:00:23Z.",
+  "author": [
+    {
+      "literal": "Andrew Simon Johnson"
+    },
+    {
+      "literal": "William Winlow"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        12,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2012.06537",
+  "genre": "preprint",
+  "version": "1"
+}

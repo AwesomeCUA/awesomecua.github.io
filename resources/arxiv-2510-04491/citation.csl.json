@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2510.04491",
+  "citation-key": "arxiv_2510_04491",
+  "type": "article",
+  "title": "Impatient Users Confuse AI Agents: High-fidelity Simulations of Human Traits for Testing Agents",
+  "URL": "https://arxiv.org/abs/2510.04491v3",
+  "custom": {
+    "catalog_id": "arxiv:2510.04491",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.04491",
+    "identifiers": {
+      "arxiv": "2510.04491"
+    },
+    "first_published_at": "2025-10-06",
+    "record_updated_at": "2026-06-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "af14c68343e8db9d4312d250c095dec27de88fcc52352b333a08854820ead392",
+      "submitted_at": "2025-10-06T05:03:57Z",
+      "updated_at": "2026-06-08T20:35:15Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2510.04491v3"
+    }
+  },
+  "note": "First published: 2025-10-06; Recorded arXiv version: v3; Recorded version updated: 2026-06-08T20:35:15Z.",
+  "author": [
+    {
+      "literal": "Muyu He"
+    },
+    {
+      "literal": "Anand Kumar"
+    },
+    {
+      "literal": "Tsach Mackey"
+    },
+    {
+      "literal": "Meghana Rajeev"
+    },
+    {
+      "literal": "James Zou"
+    },
+    {
+      "literal": "Nazneen Rajani"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.04491",
+  "genre": "preprint",
+  "version": "3"
+}

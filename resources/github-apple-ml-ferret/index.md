@@ -16,6 +16,8 @@ Screen understanding research within the Ferret model family.
 
 The repository has moved from apple/ml-ferret to apple-aiml-research/ml-ferret; evidence uses the dedicated ferretui component.
 
+- Record JSON: https://awesomecua.github.io/resources/github-apple-ml-ferret/record.json
+
 ## License declarations
 
 - code: not recorded

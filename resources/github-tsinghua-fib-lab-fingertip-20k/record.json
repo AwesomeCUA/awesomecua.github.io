@@ -1,0 +1,60 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "download_url": null,
+    "languages": [],
+    "modalities": [],
+    "sample_count": null,
+    "sample_unit": null
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:02Z",
+      "role": "primary",
+      "sha256": "2c67c8b181e7196f3ca1e88888ffc5d6b32afca686a0e5c4353ad3f5af51ff9e",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/tsinghua-fib-lab/FingerTip-20K/HEAD/README.md"
+    }
+  ],
+  "id": "github:tsinghua-fib-lab/fingertip-20k",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-16T06:36:02Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/tsinghua-fib-lab/FingerTip-20K"
+    }
+  ],
+  "name": "FingerTip-20K",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Mobile interface interaction data.",
+  "topics": [
+    "data-generation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/tsinghua-fib-lab/FingerTip-20K"
+}

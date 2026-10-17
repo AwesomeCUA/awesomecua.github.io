@@ -16,9 +16,16 @@ Bibliographic record for DeepResearch Bench: A Comprehensive Benchmark for Deep 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-11763/record.json
+
 ## Authors
 
 Mingxuan Du, Benfeng Xu, Chiwei Zhu, Xiaorui Wang, Zhendong Mao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-11763/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-11763/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Introduces SIR, which iteratively refines a reusable library of prompt-injection
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-30207/record.json
+
 ## Authors
 
 Chen Xiong, Zhiyuan He, Pin-Yu Chen, Stjepan Picek, Tsung-Yi Ho
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-30207/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-30207/citation.csl.json
 
 ## Recorded arXiv snapshot
 

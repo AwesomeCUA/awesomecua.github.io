@@ -16,9 +16,16 @@ Diagnoses dashboard-agent failures by progressively restoring interaction contex
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-32385/record.json
+
 ## Authors
 
 Chuhan Zhang, Qi Xie, Ziyue Wang, Jianing Yin, Yunfan Zhou, Dazhen Deng, Yingcai Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-32385/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-32385/citation.csl.json
 
 ## Recorded arXiv snapshot
 

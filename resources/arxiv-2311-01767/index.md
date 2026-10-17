@@ -16,9 +16,16 @@ Evaluates multi-turn PowerPoint creation and editing, scoring the resulting pres
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-01767/record.json
+
 ## Authors
 
 Yiduo Guo, Zekai Zhang, Yaobo Liang, Dongyan Zhao, Nan Duan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-01767/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-01767/citation.csl.json
 
 ## Recorded arXiv snapshot
 

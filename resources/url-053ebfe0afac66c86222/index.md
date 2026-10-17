@@ -16,6 +16,8 @@ Browser infrastructure and automation services for AI agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-053ebfe0afac66c86222/record.json
+
 ## License declarations
 
 - code: not recorded

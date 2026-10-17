@@ -16,9 +16,16 @@ Bibliographic record for Proactive Agents for Multi-Turn Text-to-Image Generatio
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-06771/record.json
+
 ## Authors
 
 Meera Hahn, Wenjun Zeng, Nithish Kannen, Rich Galt, Kartikeya Badola, Been Kim, Zi Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-06771/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-06771/citation.csl.json
 
 ## Recorded arXiv snapshot
 

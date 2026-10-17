@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2503.19537",
+  "citation-key": "arxiv_2503_19537",
+  "type": "article",
+  "title": "Agent-Initiated Interaction in Phone UI Automation",
+  "URL": "https://arxiv.org/abs/2503.19537v1",
+  "custom": {
+    "catalog_id": "arxiv:2503.19537",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2503.19537",
+    "identifiers": {
+      "arxiv": "2503.19537"
+    },
+    "first_published_at": "2025-03-25",
+    "record_updated_at": "2025-03-25",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8a49d662eddf84690395b025e50f3378c3be2a3fc8abe02bd7202c6ff879bbe3",
+      "submitted_at": "2025-03-25T10:46:08Z",
+      "updated_at": "2025-03-25T10:46:08Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2503.19537v1"
+    }
+  },
+  "note": "First published: 2025-03-25; Recorded arXiv version: v1; Recorded version updated: 2025-03-25T10:46:08Z.",
+  "author": [
+    {
+      "literal": "Noam Kahlon"
+    },
+    {
+      "literal": "Guy Rom"
+    },
+    {
+      "literal": "Anatoly Efros"
+    },
+    {
+      "literal": "Filippo Galgani"
+    },
+    {
+      "literal": "Omri Berkovitch"
+    },
+    {
+      "literal": "Sapir Caduri"
+    },
+    {
+      "literal": "William E. Bishop"
+    },
+    {
+      "literal": "Oriana Riva"
+    },
+    {
+      "literal": "Ido Dagan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.19537",
+  "genre": "preprint",
+  "version": "1"
+}

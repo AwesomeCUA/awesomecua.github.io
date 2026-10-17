@@ -16,9 +16,16 @@ Introduces LACL-GUI, a contrastive learning objective that distinguishes traject
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-21830/record.json
+
 ## Authors
 
 Chengyang Gu, Le Zhang, Jingbo Zhou, Yize Chen, Yu Shi, Siqi Bao, Zheng-Fan Wu, Hua Wu, Hui Xiong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-21830/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-21830/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for HANSEL: Extracting Breadcrumbs from Web Agent Trajector
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-18671/record.json
+
 ## Authors
 
 Yujin Zhang, Daye Nam
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-18671/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-18671/citation.csl.json
 
 ## Recorded arXiv snapshot
 

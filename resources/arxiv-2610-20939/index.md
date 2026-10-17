@@ -16,9 +16,16 @@ Unifies GUI evaluation, trajectory collection, environment synthesis, and online
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-20939/record.json
+
 ## Authors
 
 Panrong Tong, Quyu Kong, Pengxiang Li, Tianyu Xia, Hanzhang Zhou, Lei Wang, Chenglin Cai, Long Li, Long Chen, Jianan Zhang, Zhengwen Zeng, Xu Zhang, Gongjie Zhang, Yue Wang, Steven Hoi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-20939/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-20939/citation.csl.json
 
 ## Recorded arXiv snapshot
 

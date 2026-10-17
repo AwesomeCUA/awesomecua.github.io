@@ -16,9 +16,16 @@ GUI-RC aggregates multiple grounding predictions into spatial voting grids to ch
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-05615/record.json
+
 ## Authors
 
 Yong Du, Yuchen Yan, Fei Tang, Zhengxi Lu, Chang Zong, Weiming Lu, Shengpei Jiang, Yongliang Shen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-05615/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-05615/citation.csl.json
 
 ## Recorded arXiv snapshot
 

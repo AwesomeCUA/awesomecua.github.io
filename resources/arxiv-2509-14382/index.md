@@ -16,9 +16,16 @@ Introduces a modular framework for identifying errors at intermediate stages of 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-14382/record.json
+
 ## Authors
 
 Daniel Röder, Akhil Juneja, Roland Roller, Sven Schmeier
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-14382/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-14382/citation.csl.json
 
 ## Recorded arXiv snapshot
 

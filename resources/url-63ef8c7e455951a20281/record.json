@@ -1,0 +1,61 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "access": "publisher-managed",
+    "availability": "not independently tested",
+    "pricing_url": null
+  },
+  "environments": [
+    "desktop",
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:38:28Z",
+      "role": "primary",
+      "sha256": "bb658d64714578f8ce5d78b014474781f865e42ccc078be3b61539bc3780b235",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://scribehow.com/"
+    }
+  ],
+  "id": "url:63ef8c7e455951a20281",
+  "identifiers": {},
+  "kind": "product",
+  "last_verified_at": "2026-10-16T06:38:28Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://scribehow.com/"
+    }
+  ],
+  "name": "Scribe",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "adjacent",
+  "summary": "Workflow recording and documentation product adjacent to agent data collection.",
+  "topics": [
+    "recording",
+    "workflow"
+  ],
+  "updated_at": null,
+  "url": "https://scribehow.com/"
+}

@@ -16,9 +16,16 @@ Introduces AndroidIntent to evaluate how GUI agents infer omitted preferences an
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-09636/record.json
+
 ## Authors
 
 Yibo Lyu, Gongwei Chen, Rui Shao, Weili Guan, Liqiang Nie
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-09636/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-09636/citation.csl.json
 
 ## Recorded arXiv snapshot
 

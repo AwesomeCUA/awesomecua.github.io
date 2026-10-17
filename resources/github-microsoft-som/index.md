@@ -16,6 +16,8 @@ Visual-prompting toolbox that labels image regions for multimodal reference and 
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-microsoft-som/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/microsoft/SoM/HEAD/LICENSE

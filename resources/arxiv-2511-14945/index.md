@@ -16,9 +16,16 @@ Bibliographic record for Unsupervised Discovery of Long-Term Spatiotemporal Peri
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-14945/record.json
+
 ## Authors
 
 Fan Yang, Quanting Xie, Atsunori Moteki, Shoichi Masui, Shan Jiang, Kanji Uchino, Yonatan Bisk, Graham Neubig
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-14945/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-14945/citation.csl.json
 
 ## Recorded arXiv snapshot
 

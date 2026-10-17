@@ -16,9 +16,16 @@ Bibliographic record for Neuromorphic computing using wavelength-division multip
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2209-03252/record.json
+
 ## Authors
 
 Xingyuan Xu, Weiwei Han, Mengxi Tan, Yang Sun, Yang Li, Jiayang Wu, Roberto Morandotti, Arnan Mitchell, Kun Xu, David J. Moss
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2209-03252/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2209-03252/citation.csl.json
 
 ## Recorded arXiv snapshot
 

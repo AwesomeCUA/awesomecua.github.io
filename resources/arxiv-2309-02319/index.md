@@ -16,9 +16,16 @@ Bibliographic record for Robust frequency-dependent diffusion kurtosis computati
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2309-02319/record.json
+
 ## Authors
 
 J. Hamilton, K. Xu, A. Brown, C. A. Baron
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2309-02319/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2309-02319/citation.csl.json
 
 ## Recorded arXiv snapshot
 

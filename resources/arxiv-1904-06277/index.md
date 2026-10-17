@@ -16,9 +16,16 @@ Bibliographic record for Verified partial eigenvalue computations using contour 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1904-06277/record.json
+
 ## Authors
 
 Akira Imakura, Keiichi Morikuni, Akitoshi Takayasu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1904-06277/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1904-06277/citation.csl.json
 
 ## Recorded arXiv snapshot
 

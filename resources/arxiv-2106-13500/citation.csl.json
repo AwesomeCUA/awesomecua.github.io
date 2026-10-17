@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2106.13500",
+  "citation-key": "arxiv_2106_13500",
+  "type": "article",
+  "title": "TableSense: Spreadsheet Table Detection with Convolutional Neural Networks",
+  "URL": "https://arxiv.org/abs/2106.13500v1",
+  "custom": {
+    "catalog_id": "arxiv:2106.13500",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2106.13500",
+    "identifiers": {
+      "arxiv": "2106.13500"
+    },
+    "first_published_at": "2021-06-25",
+    "record_updated_at": "2021-06-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "23e0ff317a7b0e4cc8a5535d291f158bf3b184b1bd5dea5a01962f0a1d0cc0bb",
+      "submitted_at": "2021-06-25T08:41:01Z",
+      "updated_at": "2021-06-25T08:41:01Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2106.13500v1"
+    }
+  },
+  "note": "First published: 2021-06-25; Recorded arXiv version: v1; Recorded version updated: 2021-06-25T08:41:01Z.",
+  "author": [
+    {
+      "literal": "Haoyu Dong"
+    },
+    {
+      "literal": "Shijie Liu"
+    },
+    {
+      "literal": "Shi Han"
+    },
+    {
+      "literal": "Zhouyu Fu"
+    },
+    {
+      "literal": "Dongmei Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        6,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2106.13500",
+  "genre": "preprint",
+  "version": "1"
+}

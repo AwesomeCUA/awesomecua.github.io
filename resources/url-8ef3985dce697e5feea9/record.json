@@ -1,0 +1,96 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/openbmb/AgentCPM-GUI/tree/main",
+    "gated": false,
+    "hub_id": "openbmb/AgentCPM-GUI"
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:03:33Z",
+      "role": "primary",
+      "sha256": "9016a68e833a7717c922d9363a6d6c56cc7cf6a7087543f5694507668fe9ab75",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/openbmb/AgentCPM-GUI/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:03:33Z",
+      "role": "primary",
+      "sha256": "4d76c8cc19f1ff4c850ba6cc566d50bbd2355e10921a2214e38c921cedfeed4c",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/api/models/openbmb/AgentCPM-GUI"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T02:03:33Z",
+      "role": "primary",
+      "sha256": "9016a68e833a7717c922d9363a6d6c56cc7cf6a7087543f5694507668fe9ab75",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/openbmb/AgentCPM-GUI/raw/main/README.md"
+    }
+  ],
+  "id": "url:8ef3985dce697e5feea9",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T02:03:33Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "apache-2.0",
+      "retrieved_at": "2026-10-17T02:03:33Z",
+      "url": "https://huggingface.co/openbmb/AgentCPM-GUI/raw/main/README.md"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/openbmb/AgentCPM-GUI"
+    }
+  ],
+  "name": "AgentCPM-GUI 8B checkpoint",
+  "notes": "The Hub provides four safetensors shards and associated model files without gating. Weight metadata declares Apache-2.0, while the prose license section refers specifically to code; these scopes are kept distinct. The card describes Android-app operation, and the CAGUI evaluation data remains a separate existing catalog asset.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/openbmb/AgentCPM-GUI/raw/main/README.md",
+      "target_id": "arxiv:2506.01391",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "An eight-billion-parameter MiniCPM-V-based model that consumes smartphone screenshots and predicts compact actions for Chinese and English Android app tasks.",
+  "topics": [
+    "mobile-navigation",
+    "grounding",
+    "reinforcement-learning"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/openbmb/AgentCPM-GUI"
+}

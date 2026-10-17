@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2511.03690",
+  "citation-key": "arxiv_2511_03690",
+  "type": "article",
+  "title": "The OpenHands Software Agent SDK: A Composable and Extensible Foundation for Production Agents",
+  "URL": "https://arxiv.org/abs/2511.03690v2",
+  "custom": {
+    "catalog_id": "arxiv:2511.03690",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.03690",
+    "identifiers": {
+      "arxiv": "2511.03690"
+    },
+    "first_published_at": "2025-11-05",
+    "record_updated_at": "2026-04-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "299a66a2927cb22220da86acb7bdb1325e8e410496a9a6d0106bf92a4ed55894",
+      "submitted_at": "2025-11-05T18:16:44Z",
+      "updated_at": "2026-04-22T13:47:42Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2511.03690v2"
+    }
+  },
+  "note": "First published: 2025-11-05; Recorded arXiv version: v2; Recorded version updated: 2026-04-22T13:47:42Z.",
+  "author": [
+    {
+      "literal": "Xingyao Wang"
+    },
+    {
+      "literal": "Simon Rosenberg"
+    },
+    {
+      "literal": "Juan Michelini"
+    },
+    {
+      "literal": "Calvin Smith"
+    },
+    {
+      "literal": "Hoang Tran"
+    },
+    {
+      "literal": "Engel Nyst"
+    },
+    {
+      "literal": "Rohit Malhotra"
+    },
+    {
+      "literal": "Xuhui Zhou"
+    },
+    {
+      "literal": "Valerie Chen"
+    },
+    {
+      "literal": "Robert Brennan"
+    },
+    {
+      "literal": "Graham Neubig"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.03690",
+  "genre": "preprint",
+  "version": "2"
+}

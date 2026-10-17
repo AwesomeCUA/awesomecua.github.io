@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2603.19375",
+  "citation-key": "arxiv_2603_19375",
+  "type": "article",
+  "title": "Automated Membership Inference Attacks (AutoMIA): Discovering MIA Signal Computations using LLM Agents",
+  "URL": "https://arxiv.org/abs/2603.19375v2",
+  "custom": {
+    "catalog_id": "arxiv:2603.19375",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.19375",
+    "identifiers": {
+      "arxiv": "2603.19375"
+    },
+    "first_published_at": "2026-03-19",
+    "record_updated_at": "2026-09-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b64315ec368626e3a4d1de41fac9dfbc7571a8af9447136a71ecf508171835d1",
+      "submitted_at": "2026-03-19T18:10:18Z",
+      "updated_at": "2026-09-16T23:23:42Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2603.19375v2"
+    }
+  },
+  "note": "First published: 2026-03-19; Recorded arXiv version: v2; Recorded version updated: 2026-09-16T23:23:42Z.",
+  "author": [
+    {
+      "literal": "Toan Tran"
+    },
+    {
+      "literal": "Olivera Kotevska"
+    },
+    {
+      "literal": "Li Xiong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.19375",
+  "genre": "preprint",
+  "version": "2"
+}

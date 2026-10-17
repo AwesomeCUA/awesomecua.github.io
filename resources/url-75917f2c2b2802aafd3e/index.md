@@ -16,6 +16,8 @@ A prebuilt Ubuntu virtual-machine archive containing the software environment us
 
 The public Hub manifest contains VM.zip. This is an environment image, not neural model weights despite its Hub namespace. The card declares MIT metadata for the hosted release, but that does not relicense Ubuntu or included applications. The archive was not downloaded or booted; VMware’s own terms are separate.
 
+- Record JSON: https://awesomecua.github.io/resources/url-75917f2c2b2802aafd3e/record.json
+
 ## License declarations
 
 - code: not recorded

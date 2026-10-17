@@ -16,9 +16,16 @@ Bibliographic record for DocOps: A Verifiable Benchmark for Autonomous Agents in
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-19865/record.json
+
 ## Authors
 
 Jiazhen Jiang, Boxi Cao, Lingyong Yan, Yaojie Lu, Hongyu Lin, Shuaiqiang Wang, Dawei Yin, Xianpei Han, Le Sun
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-19865/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-19865/citation.csl.json
 
 ## Recorded arXiv snapshot
 

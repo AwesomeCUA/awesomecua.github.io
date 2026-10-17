@@ -16,9 +16,16 @@ Bibliographic record for Embodied Agent Interface: Benchmarking LLMs for Embodie
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-07166/record.json
+
 ## Authors
 
 Manling Li, Shiyu Zhao, Qineng Wang, Kangrui Wang, Yu Zhou, Sanjana Srivastava, Cem Gokmen, Tony Lee, Li Erran Li, Ruohan Zhang, Weiyu Liu, Percy Liang, Li Fei-Fei, Jiayuan Mao, Jiajun Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-07166/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-07166/citation.csl.json
 
 ## Recorded arXiv snapshot
 

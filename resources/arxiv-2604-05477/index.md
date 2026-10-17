@@ -16,9 +16,16 @@ Bibliographic record for Don't Act Blindly: Robust GUI Automation via Action-Eff
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-05477/record.json
+
 ## Authors
 
 Yuzhe Zhang, Xianwei Xue, Xingyong Wu, Mengke Chen, Chen Liu, Xinran He, Run Shao, Feiran Liu, Huanmin Xu, Qiutong Pan, Haiwei Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-05477/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-05477/citation.csl.json
 
 ## Recorded arXiv snapshot
 

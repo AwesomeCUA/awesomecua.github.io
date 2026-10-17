@@ -16,9 +16,16 @@ Bibliographic record for Learning a Thousand Tasks in a Day. Title, authors and 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-10110/record.json
+
 ## Authors
 
 Kamil Dreczkowski, Pietro Vitiello, Vitalis Vosylius, Edward Johns
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-10110/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-10110/citation.csl.json
 
 ## Recorded arXiv snapshot
 

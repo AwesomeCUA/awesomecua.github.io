@@ -16,9 +16,16 @@ Bibliographic record for Ko-WideSearch: A Korean Breadth-Search Benchmark for Ex
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-27595/record.json
+
 ## Authors
 
 Minbyul Jeong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-27595/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-27595/citation.csl.json
 
 ## Recorded arXiv snapshot
 

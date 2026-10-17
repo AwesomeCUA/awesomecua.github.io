@@ -16,9 +16,16 @@ Uses web-element preference optimization with sampled negative HTML elements to 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-10742/record.json
+
 ## Authors
 
 Jiarun Liu, Jia Hao, Chunhong Zhang, Zheng Hu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-10742/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-10742/citation.csl.json
 
 ## Recorded arXiv snapshot
 

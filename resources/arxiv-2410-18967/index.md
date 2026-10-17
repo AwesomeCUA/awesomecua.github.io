@@ -16,9 +16,16 @@ Extends Ferret-UI across device platforms with adaptive visual scaling and synth
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-18967/record.json
+
 ## Authors
 
 Zhangheng Li, Keen You, Haotian Zhang, Di Feng, Harsh Agrawal, Xiujun Li, Mohana Prasad Sathya Moorthy, Jeff Nichols, Yinfei Yang, Zhe Gan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-18967/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-18967/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2308.14881",
+  "citation-key": "arxiv_2308_14881",
+  "type": "article",
+  "title": "Universal quantum computation using atoms in cross-cavity systems",
+  "URL": "https://arxiv.org/abs/2308.14881v2",
+  "custom": {
+    "catalog_id": "arxiv:2308.14881",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2308.14881",
+    "identifiers": {
+      "arxiv": "2308.14881"
+    },
+    "first_published_at": "2023-08-28",
+    "record_updated_at": "2024-06-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ab5df86d5dfaf16c1b67939c07c068997269557cd1e49ddb1dcc803b300aae72",
+      "submitted_at": "2023-08-28T20:09:54Z",
+      "updated_at": "2024-06-27T20:27:31Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2308.14881v2"
+    }
+  },
+  "note": "First published: 2023-08-28; Recorded arXiv version: v2; Recorded version updated: 2024-06-27T20:27:31Z.",
+  "author": [
+    {
+      "literal": "Luiz O. R. Solak"
+    },
+    {
+      "literal": "Daniel Z. Rossatto"
+    },
+    {
+      "literal": "Celso J. Villas-Boas"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        8,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2308.14881",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,9 +16,16 @@ Provides a shared Android action environment, reproducible tasks, and instructio
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-24024/record.json
+
 ## Authors
 
 Yifan Xu, Xiao Liu, Xueqiao Sun, Siyi Cheng, Hao Yu, Hanyu Lai, Shudan Zhang, Dan Zhang, Jie Tang, Yuxiao Dong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-24024/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-24024/citation.csl.json
 
 ## Recorded arXiv snapshot
 

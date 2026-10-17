@@ -16,9 +16,16 @@ Bibliographic record for Beyond the Verdict: Evidence-Aligned Evaluation of Visu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-05535/record.json
+
 ## Authors
 
 Suyoung Lee, Myungsub Choi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-05535/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-05535/citation.csl.json
 
 ## Recorded arXiv snapshot
 

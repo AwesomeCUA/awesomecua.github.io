@@ -16,9 +16,16 @@ Bibliographic record for Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities i
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-14418/record.json
+
 ## Authors
 
 Pengzhou Cheng, Haowen Hu, Zheng Wu, Zongru Wu, Tianjie Ju, Zhuosheng Zhang, Gongshen Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-14418/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-14418/citation.csl.json
 
 ## Recorded arXiv snapshot
 

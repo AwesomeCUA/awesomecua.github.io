@@ -16,9 +16,16 @@ Bibliographic record for Pre-allocation Strategies of Computational Resources in
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1206-0419/record.json
+
 ## Authors
 
 T. R. Gopalakrishnan Nair, P Jayarekha
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1206-0419/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1206-0419/citation.csl.json
 
 ## Recorded arXiv snapshot
 

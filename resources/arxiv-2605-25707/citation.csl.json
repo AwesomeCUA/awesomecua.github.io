@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2605.25707",
+  "citation-key": "arxiv_2605_25707",
+  "type": "article",
+  "title": "AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions",
+  "URL": "https://arxiv.org/abs/2605.25707v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.25707",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.25707",
+    "identifiers": {
+      "arxiv": "2605.25707"
+    },
+    "first_published_at": "2026-05-25",
+    "record_updated_at": "2026-05-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d48aff278b0f77b0f28505ca16ffc121b5c10ab838b92c8c17254000b763c0ad",
+      "submitted_at": "2026-05-25T11:09:22Z",
+      "updated_at": "2026-05-25T11:09:22Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.25707v1"
+    }
+  },
+  "note": "First published: 2026-05-25; Recorded arXiv version: v1; Recorded version updated: 2026-05-25T11:09:22Z.",
+  "author": [
+    {
+      "literal": "Jingwei Sun"
+    },
+    {
+      "literal": "Jianing Zhu"
+    },
+    {
+      "literal": "Yuanyi Li"
+    },
+    {
+      "literal": "Tongliang Liu"
+    },
+    {
+      "literal": "Xia HU"
+    },
+    {
+      "literal": "Bo Han"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.25707",
+  "genre": "preprint",
+  "version": "1"
+}

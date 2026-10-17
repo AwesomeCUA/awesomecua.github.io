@@ -16,9 +16,16 @@ Bibliographic record for IDAT: A Multi-Modal Dataset and Toolkit for Building an
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-08898/record.json
+
 ## Authors
 
 Shrestha Mohanty, Negar Arabzadeh, Andrea Tupini, Yuxuan Sun, Alexey Skrynnik, Artem Zholus, Marc-Alexandre Côté, Julia Kiseleva
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-08898/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-08898/citation.csl.json
 
 ## Recorded arXiv snapshot
 

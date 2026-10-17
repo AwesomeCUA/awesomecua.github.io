@@ -16,9 +16,16 @@ Bibliographic record for DPO Learning with LLMs-Judge Signal for Computer Use Ag
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-03095/record.json
+
 ## Authors
 
 Man Luo, David Cobbley, Xin Su, Shachar Rosenman, Vasudev Lal, Shao-Yen Tseng, Phillip Howard
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-03095/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-03095/citation.csl.json
 
 ## Recorded arXiv snapshot
 

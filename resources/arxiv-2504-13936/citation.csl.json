@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2504.13936",
+  "citation-key": "arxiv_2504_13936",
+  "type": "article",
+  "title": "ViMo: A Generative Visual GUI World Model for App Agents",
+  "URL": "https://arxiv.org/abs/2504.13936v2",
+  "custom": {
+    "catalog_id": "arxiv:2504.13936",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2504.13936",
+    "identifiers": {
+      "arxiv": "2504.13936"
+    },
+    "first_published_at": "2025-04-15",
+    "record_updated_at": "2025-05-20",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "15e00237ef710c37c0c9f7768d699f57e9d5dcc190e8de7e20e9ec3b21b82750",
+      "submitted_at": "2025-04-15T14:03:10Z",
+      "updated_at": "2025-05-20T14:11:37Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2504.13936v2"
+    }
+  },
+  "note": "First published: 2025-04-15; Recorded arXiv version: v2; Recorded version updated: 2025-05-20T14:11:37Z.",
+  "author": [
+    {
+      "literal": "Dezhao Luo"
+    },
+    {
+      "literal": "Bohan Tang"
+    },
+    {
+      "literal": "Kang Li"
+    },
+    {
+      "literal": "Georgios Papoudakis"
+    },
+    {
+      "literal": "Jifei Song"
+    },
+    {
+      "literal": "Shaogang Gong"
+    },
+    {
+      "literal": "Jianye Hao"
+    },
+    {
+      "literal": "Jun Wang"
+    },
+    {
+      "literal": "Kun Shao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.13936",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2407.18901",
+  "citation-key": "arxiv_2407_18901",
+  "type": "article",
+  "title": "AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents",
+  "URL": "https://arxiv.org/abs/2407.18901v1",
+  "custom": {
+    "catalog_id": "arxiv:2407.18901",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2407.18901",
+    "identifiers": {
+      "arxiv": "2407.18901"
+    },
+    "first_published_at": "2024-07-26",
+    "record_updated_at": "2024-07-26",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e59087ecf28d07baf81b60e4166a866d4bea4d8cd934bea06c2149dd61f38f1a",
+      "submitted_at": "2024-07-26T17:55:45Z",
+      "updated_at": "2024-07-26T17:55:45Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2407.18901v1"
+    }
+  },
+  "note": "First published: 2024-07-26; Recorded arXiv version: v1; Recorded version updated: 2024-07-26T17:55:45Z.",
+  "author": [
+    {
+      "literal": "Harsh Trivedi"
+    },
+    {
+      "literal": "Tushar Khot"
+    },
+    {
+      "literal": "Mareike Hartmann"
+    },
+    {
+      "literal": "Ruskin Manku"
+    },
+    {
+      "literal": "Vinty Dong"
+    },
+    {
+      "literal": "Edward Li"
+    },
+    {
+      "literal": "Shashank Gupta"
+    },
+    {
+      "literal": "Ashish Sabharwal"
+    },
+    {
+      "literal": "Niranjan Balasubramanian"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.18901",
+  "genre": "preprint",
+  "version": "1"
+}

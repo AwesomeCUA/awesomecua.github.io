@@ -16,9 +16,16 @@ Combines screenshots, layout information, and action history with a factored act
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-11941/record.json
+
 ## Authors
 
 Xinbei Ma, Zhuosheng Zhang, Hai Zhao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-11941/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-11941/citation.csl.json
 
 ## Recorded arXiv snapshot
 

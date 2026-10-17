@@ -16,6 +16,8 @@ Foundation action models and data for GUI interaction.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-os-copilot-os-atlas/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/OS-Copilot/OS-Atlas/HEAD/LICENSE

@@ -1,0 +1,89 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/datasets/vyokky/GUI-360/tree/main",
+    "gated": false,
+    "hub_id": "vyokky/GUI-360",
+    "languages": [],
+    "modalities": [],
+    "sample_count": null,
+    "sample_unit": null,
+    "size_category_reported": [
+      "1M<n<10M"
+    ]
+  },
+  "environments": [
+    "windows"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:38:26Z",
+      "role": "primary",
+      "sha256": "e51af2845c2f31c7af112579b42c3ff9bf5a2c2356e80932e829bc2be1a341bd",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://huggingface.co/api/datasets/vyokky/GUI-360"
+    },
+    {
+      "method": "huggingface_api",
+      "retrieved_at": "2026-10-16T06:38:26Z",
+      "role": "primary",
+      "sha256": "e51af2845c2f31c7af112579b42c3ff9bf5a2c2356e80932e829bc2be1a341bd",
+      "supports": [
+        "details",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/api/datasets/vyokky/GUI-360"
+    }
+  ],
+  "id": "url:0b590d03a3d5103a79e4",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-16T06:38:26Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "publisher model/dataset card",
+      "declared": "mit",
+      "retrieved_at": "2026-10-16T06:38:26Z",
+      "url": "https://huggingface.co/datasets/vyokky/GUI-360"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/vyokky/GUI-360"
+    }
+  ],
+  "name": "GUI-360",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/api/datasets/vyokky/GUI-360",
+      "target_id": "arxiv:2511.04307",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Desktop GUI trajectory data supporting multiple interface understanding tasks.",
+  "topics": [
+    "grounding",
+    "data-generation"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/vyokky/GUI-360"
+}

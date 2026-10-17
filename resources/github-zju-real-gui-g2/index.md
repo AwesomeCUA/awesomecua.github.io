@@ -16,6 +16,8 @@ GUI grounding model and associated training code.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-zju-real-gui-g2/record.json
+
 ## License declarations
 
 - code: not recorded

@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2610.09469",
+  "citation-key": "arxiv_2610_09469",
+  "type": "article",
+  "title": "Secure-CUA: Controlling Untrusted Influence in Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2610.09469v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.09469",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.09469",
+    "identifiers": {
+      "arxiv": "2610.09469"
+    },
+    "first_published_at": "2026-10-07",
+    "record_updated_at": "2026-10-07",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f38c9e37ab7fc8356a0c8c72370de673d1c2b6294e15dfdc72c280269f43439c",
+      "submitted_at": "2026-10-07T05:24:40Z",
+      "updated_at": "2026-10-07T05:24:40Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.09469v1"
+    }
+  },
+  "note": "First published: 2026-10-07; Recorded arXiv version: v1; Recorded version updated: 2026-10-07T05:24:40Z.",
+  "author": [
+    {
+      "literal": "Sarthak Choudhary"
+    },
+    {
+      "literal": "Mihai Christodorescu"
+    },
+    {
+      "literal": "Ashish Hooda"
+    },
+    {
+      "literal": "Somesh Jha"
+    },
+    {
+      "literal": "Tongxin Li"
+    },
+    {
+      "literal": "Damien Octeau"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.09469",
+  "genre": "preprint",
+  "version": "1"
+}

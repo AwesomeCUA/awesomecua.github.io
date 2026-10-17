@@ -16,9 +16,16 @@ Bibliographic record for FactorSim: Generative Simulation via Factorized Represe
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-17652/record.json
+
 ## Authors
 
 Fan-Yun Sun, S. I. Harini, Angela Yi, Yihan Zhou, Alex Zook, Jonathan Tremblay, Logan Cross, Jiajun Wu, Nick Haber
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-17652/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-17652/citation.csl.json
 
 ## Recorded arXiv snapshot
 

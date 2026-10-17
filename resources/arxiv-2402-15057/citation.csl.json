@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2402.15057",
+  "citation-key": "arxiv_2402_15057",
+  "type": "article",
+  "title": "On the Multi-turn Instruction Following for Conversational Web Agents",
+  "URL": "https://arxiv.org/abs/2402.15057v1",
+  "custom": {
+    "catalog_id": "arxiv:2402.15057",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2402.15057",
+    "identifiers": {
+      "arxiv": "2402.15057"
+    },
+    "first_published_at": "2024-02-23",
+    "record_updated_at": "2024-02-23",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5e4b233e423e9043b6d615c7b185a1eb0d47f646590e4fb9fd43ca156a1a1b16",
+      "submitted_at": "2024-02-23T02:18:12Z",
+      "updated_at": "2024-02-23T02:18:12Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2402.15057v1"
+    }
+  },
+  "note": "First published: 2024-02-23; Recorded arXiv version: v1; Recorded version updated: 2024-02-23T02:18:12Z.",
+  "author": [
+    {
+      "literal": "Yang Deng"
+    },
+    {
+      "literal": "Xuan Zhang"
+    },
+    {
+      "literal": "Wenxuan Zhang"
+    },
+    {
+      "literal": "Yifei Yuan"
+    },
+    {
+      "literal": "See-Kiong Ng"
+    },
+    {
+      "literal": "Tat-Seng Chua"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.15057",
+  "genre": "preprint",
+  "version": "1"
+}

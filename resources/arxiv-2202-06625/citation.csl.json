@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2202.06625",
+  "citation-key": "arxiv_2202_06625",
+  "type": "article",
+  "title": "Polyhedron Kernel Computation Using a Geometric Approach",
+  "URL": "https://arxiv.org/abs/2202.06625v1",
+  "custom": {
+    "catalog_id": "arxiv:2202.06625",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2202.06625",
+    "identifiers": {
+      "arxiv": "2202.06625"
+    },
+    "first_published_at": "2022-02-14",
+    "record_updated_at": "2022-02-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "39fba53b7c06d069f6da3c5a66e6215c8a9637e31dcf299ed2d57986b30f2860",
+      "submitted_at": "2022-02-14T11:25:14Z",
+      "updated_at": "2022-02-14T11:25:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2202.06625v1"
+    }
+  },
+  "note": "First published: 2022-02-14; Recorded arXiv version: v1; Recorded version updated: 2022-02-14T11:25:14Z.",
+  "author": [
+    {
+      "literal": "Tommaso Sorgente"
+    },
+    {
+      "literal": "Silvia Biasotti"
+    },
+    {
+      "literal": "Michela Spagnuolo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        2,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2202.06625",
+  "genre": "preprint",
+  "version": "1"
+}

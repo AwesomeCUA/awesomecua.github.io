@@ -16,9 +16,16 @@ Bibliographic record for AgentRefine: Enhancing Agent Generalization through Ref
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-01702/record.json
+
 ## Authors
 
 Dayuan Fu, Keqing He, Yejie Wang, Wentao Hong, Zhuoma Gongque, Weihao Zeng, Wei Wang, Jingang Wang, Xunliang Cai, Weiran Xu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-01702/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-01702/citation.csl.json
 
 ## Recorded arXiv snapshot
 

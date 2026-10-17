@@ -16,9 +16,16 @@ Bibliographic record for Quantum reservoir computing using the stabilizer formal
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-00445/record.json
+
 ## Authors
 
 Franz G. Fuchs, Alexander J. Stasik, Stanley Miao, Ola Tangen Kulseng, Ruben Pariente Bassa
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-00445/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-00445/citation.csl.json
 
 ## Recorded arXiv snapshot
 

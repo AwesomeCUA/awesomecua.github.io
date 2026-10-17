@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2505.21936",
+  "citation-key": "arxiv_2505_21936",
+  "type": "article",
+  "title": "RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments",
+  "URL": "https://arxiv.org/abs/2505.21936v5",
+  "custom": {
+    "catalog_id": "arxiv:2505.21936",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2505.21936",
+    "identifiers": {
+      "arxiv": "2505.21936"
+    },
+    "first_published_at": "2025-05-28",
+    "record_updated_at": "2026-03-01",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7fe3bdb1357a375de0b1700a6eda7d5987f358bd47fddf3405c27272a3453f2f",
+      "submitted_at": "2025-05-28T03:42:09Z",
+      "updated_at": "2026-03-01T07:50:09Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2505.21936v5"
+    }
+  },
+  "note": "First published: 2025-05-28; Recorded arXiv version: v5; Recorded version updated: 2026-03-01T07:50:09Z.",
+  "author": [
+    {
+      "literal": "Zeyi Liao"
+    },
+    {
+      "literal": "Jaylen Jones"
+    },
+    {
+      "literal": "Linxi Jiang"
+    },
+    {
+      "literal": "Yuting Ning"
+    },
+    {
+      "literal": "Eric Fosler-Lussier"
+    },
+    {
+      "literal": "Yu Su"
+    },
+    {
+      "literal": "Zhiqiang Lin"
+    },
+    {
+      "literal": "Huan Sun"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.21936",
+  "genre": "preprint",
+  "version": "5"
+}

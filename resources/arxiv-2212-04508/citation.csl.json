@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2212.04508",
+  "citation-key": "arxiv_2212_04508",
+  "type": "article",
+  "title": "Compiler Optimization for Quantum Computing Using Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2212.04508v2",
+  "custom": {
+    "catalog_id": "arxiv:2212.04508",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2212.04508",
+    "identifiers": {
+      "arxiv": "2212.04508"
+    },
+    "first_published_at": "2022-12-08",
+    "record_updated_at": "2023-04-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f76992f582117cb3659bf12bfa610744588c04b3e241b9b1ed104da069568c53",
+      "submitted_at": "2022-12-08T19:00:01Z",
+      "updated_at": "2023-04-04T09:28:14Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2212.04508v2"
+    }
+  },
+  "note": "First published: 2022-12-08; Recorded arXiv version: v2; Recorded version updated: 2023-04-04T09:28:14Z.",
+  "author": [
+    {
+      "literal": "Nils Quetschlich"
+    },
+    {
+      "literal": "Lukas Burgholzer"
+    },
+    {
+      "literal": "Robert Wille"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        12,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2212.04508",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,9 +16,16 @@ Builds browser-agent training trajectories with live and synthetic environments,
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-20785/record.json
+
 ## Authors
 
 Ahmed Awadallah, Sahil Gupta, Yash Lara, Yadong Lu, Hussein Mozannar, Akshay Nambi, Zach Nussbaum, Yash Pandya, Aravind Rajeswaran, Corby Rosset, Alexey Taymanov, Luiz do Valle, Vibhav Vineet, Spencer Whitehead, Andrew Zhao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-20785/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-20785/citation.csl.json
 
 ## Recorded arXiv snapshot
 

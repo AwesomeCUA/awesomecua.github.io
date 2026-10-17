@@ -16,9 +16,16 @@ Bibliographic record for Software Engineering for and with GUI Agent. Title, aut
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-09278/record.json
+
 ## Authors
 
 Shengcheng Yu, Yuchen Ling, Junyang Xing, Quan Zhou, Chunrong Fang, Zhenyu Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-09278/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-09278/citation.csl.json
 
 ## Recorded arXiv snapshot
 

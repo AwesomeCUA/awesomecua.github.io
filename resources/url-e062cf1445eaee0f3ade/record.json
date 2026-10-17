@@ -1,0 +1,118 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "dataset_profile": {
+      "counts": [],
+      "evidence_urls": [
+        "https://huggingface.co/datasets/xlangai/Jedi/raw/main/README.md"
+      ],
+      "formats": [],
+      "modalities": [
+        "images",
+        "text",
+        "coordinates"
+      ],
+      "notes": "Coordinates were resized for a specified Qwen2.5-VL image processor and must remain aligned with image resizing. AGUVIS++ material requires images from upstream AGUVIS and OS-Atlas releases; this repository is not a self-contained copy of every referenced image collection.",
+      "splits": [],
+      "supervision": [
+        "icon grounding",
+        "component grounding",
+        "layout grounding",
+        "refusal"
+      ]
+    },
+    "disabled": false,
+    "download_url": "https://huggingface.co/datasets/xlangai/Jedi/tree/main",
+    "gated": false,
+    "hub_id": "xlangai/Jedi",
+    "languages": [],
+    "modalities": [],
+    "sample_count": null,
+    "sample_unit": null,
+    "size_category_reported": null
+  },
+  "environments": [
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T09:33:18Z",
+      "role": "primary",
+      "sha256": "63ff72bea0a2cb9218093d7a5a420b39c01861aef66141433d7c56c1e0ad05ad",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/api/datasets/xlangai/Jedi"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:38Z",
+      "role": "primary",
+      "sha256": "1d4d15c0cd27837602d55f0fda1ed91d9e8a98b33b3e3c4ba64decae42399558",
+      "supports": [
+        "details.dataset_profile"
+      ],
+      "url": "https://huggingface.co/datasets/xlangai/Jedi/raw/main/README.md"
+    },
+    {
+      "method": "huggingface_api",
+      "retrieved_at": "2026-10-16T09:33:18Z",
+      "role": "primary",
+      "sha256": "63ff72bea0a2cb9218093d7a5a420b39c01861aef66141433d7c56c1e0ad05ad",
+      "supports": [
+        "details",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/api/datasets/xlangai/Jedi"
+    }
+  ],
+  "id": "url:e062cf1445eaee0f3ade",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-16T09:33:18Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "publisher model/dataset card",
+      "declared": "apache-2.0",
+      "retrieved_at": "2026-10-16T09:33:18Z",
+      "url": "https://huggingface.co/datasets/xlangai/Jedi"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/xlangai/Jedi"
+    }
+  ],
+  "name": "Jedi",
+  "notes": "The dataset card requires coordinate scaling to stay aligned with the image processor. Follow the publisher recipe before using the grounding labels.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/api/datasets/xlangai/Jedi",
+      "target_id": "arxiv:2505.13227",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Synthetic GUI grounding data associated with UI decomposition research and the OSWorld-G benchmark.",
+  "topics": [
+    "grounding",
+    "data-generation"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/xlangai/Jedi"
+}

@@ -16,9 +16,16 @@ Bibliographic record for MIP against Agent: Malicious Image Patches Hijacking Mu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-10809/record.json
+
 ## Authors
 
 Lukas Aichberger, Alasdair Paren, Guohao Li, Philip Torr, Yarin Gal, Adel Bibi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-10809/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-10809/citation.csl.json
 
 ## Recorded arXiv snapshot
 

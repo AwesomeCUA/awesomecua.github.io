@@ -16,9 +16,16 @@ Introduces BrowserForge, which combines broad website sourcing, parallel browser
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-24848/record.json
+
 ## Authors
 
 Fei Tang, Huawen Shen, Zhiqiong Lu, Zhengxi Lu, Pengyuan Lyu, Chengquan Zhang, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-24848/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-24848/citation.csl.json
 
 ## Recorded arXiv snapshot
 

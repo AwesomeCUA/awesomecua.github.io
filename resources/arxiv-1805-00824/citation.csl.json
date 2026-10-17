@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:1805.00824",
+  "citation-key": "arxiv_1805_00824",
+  "type": "article",
+  "title": "Numerical convergence of the Lyapunov spectrum computed using low Mach number solvers",
+  "URL": "https://arxiv.org/abs/1805.00824v1",
+  "custom": {
+    "catalog_id": "arxiv:1805.00824",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1805.00824",
+    "identifiers": {
+      "arxiv": "1805.00824"
+    },
+    "first_published_at": "2018-05-01",
+    "record_updated_at": "2018-05-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a9d493eb3e359d5077262f00b2b9d95935ccadfaf7102d02867e23d9d9ddbceb",
+      "submitted_at": "2018-05-01T17:08:34Z",
+      "updated_at": "2018-05-01T17:08:34Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1805.00824v1"
+    }
+  },
+  "note": "First published: 2018-05-01; Recorded arXiv version: v1; Recorded version updated: 2018-05-01T17:08:34Z.",
+  "author": [
+    {
+      "literal": "Malik Hassanaly"
+    },
+    {
+      "literal": "Venkat Raman"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        5,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1805.00824",
+  "genre": "preprint",
+  "version": "1"
+}

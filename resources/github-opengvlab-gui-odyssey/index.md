@@ -16,6 +16,8 @@ Cross-application mobile interaction trajectories.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-opengvlab-gui-odyssey/record.json
+
 ## Structured profile
 
 - formats: JSON annotations, PNG screenshots

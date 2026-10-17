@@ -16,9 +16,16 @@ Introduces CUA-Sandbox, which separates each rollout’s mutable state from shar
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-32750/record.json
+
 ## Authors
 
 Xin Yan, Zhengbo Jiao, Jiaqi Liu, Zhenglin Wan, SiYuan Ma, Xuliang Yu, Tianyi Jiang, Chubin Zhang, Pengfei Zhou, Wangbo Zhao, Xingrui Yu, Bo An, Yang You, Ivor Tsang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-32750/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-32750/citation.csl.json
 
 ## Recorded arXiv snapshot
 

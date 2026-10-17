@@ -16,9 +16,16 @@ Bibliographic record for Measure Twice, Click Once: Co-evolving Proposer and Vis
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-21268/record.json
+
 ## Authors
 
 Wenkai Wang, Xiyun Li, Hongcan Guo, Wenhao Yu, Tianqing Fang, Haitao Mi, Dong Yu, Shengyu Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-21268/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-21268/citation.csl.json
 
 ## Recorded arXiv snapshot
 

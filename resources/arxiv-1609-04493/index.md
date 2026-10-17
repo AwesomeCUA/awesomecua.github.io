@@ -16,9 +16,16 @@ Bibliographic record for Parallel Dynamics Computation using Prefix Sum Operatio
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1609-04493/record.json
+
 ## Authors
 
 Yajue Yang, Yuanqing Wu, Jia Pan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1609-04493/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1609-04493/citation.csl.json
 
 ## Recorded arXiv snapshot
 

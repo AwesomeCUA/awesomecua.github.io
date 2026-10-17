@@ -16,9 +16,16 @@ Bibliographic record for AgentHarm: A Benchmark for Measuring Harmfulness of LLM
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-09024/record.json
+
 ## Authors
 
 Maksym Andriushchenko, Alexandra Souly, Mateusz Dziemian, Derek Duenas, Maxwell Lin, Justin Wang, Dan Hendrycks, Andy Zou, Zico Kolter, Matt Fredrikson, Eric Winsor, Jerome Wynne, Yarin Gal, Xander Davies
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-09024/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-09024/citation.csl.json
 
 ## Recorded arXiv snapshot
 

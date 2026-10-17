@@ -16,9 +16,16 @@ Bibliographic record for HarmonyGuard: Toward Safety and Utility in Web Agents v
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-04010/record.json
+
 ## Authors
 
 Yurun Chen, Xavier Hu, Yuhan Liu, Keting Yin, Juncheng Li, Zhuosheng Zhang, Shengyu Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-04010/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-04010/citation.csl.json
 
 ## Recorded arXiv snapshot
 

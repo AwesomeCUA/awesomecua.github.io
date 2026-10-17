@@ -16,6 +16,8 @@ The released mobile training subset for the original UI-R1 3B model, with action
 
 The public manifest includes train.json and a train_imgs directory. The card has no dataset-license declaration, and the model’s MIT metadata is not inherited. The official repository identifies this as v1 training data drawn from AndroidControl and ScreenSpot; later enlarged training mixtures are distinct.
 
+- Record JSON: https://awesomecua.github.io/resources/url-7c568d88a472f914d316/record.json
+
 ## License declarations
 
 - code: not recorded

@@ -16,9 +16,16 @@ Bibliographic record for A Simple and Better Baseline for Visual Grounding. Titl
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-10587/record.json
+
 ## Authors
 
 Jingchao Wang, Wenlong Zhang, Dingjiang Huang, Hong Wang, Yefeng Zheng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-10587/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-10587/citation.csl.json
 
 ## Recorded arXiv snapshot
 

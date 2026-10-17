@@ -16,9 +16,16 @@ Generates browser-agent demonstrations through autonomous exploration and retros
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-02907/record.json
+
 ## Authors
 
 Shikhar Murty, Hao Zhu, Dzmitry Bahdanau, Christopher D. Manning
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-02907/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-02907/citation.csl.json
 
 ## Recorded arXiv snapshot
 

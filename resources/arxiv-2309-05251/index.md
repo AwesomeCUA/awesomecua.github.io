@@ -16,9 +16,16 @@ Bibliographic record for Multi3DRefer: Grounding Text Description to Multiple 3D
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2309-05251/record.json
+
 ## Authors
 
 Yiming Zhang, ZeMing Gong, Angel X. Chang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2309-05251/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2309-05251/citation.csl.json
 
 ## Recorded arXiv snapshot
 

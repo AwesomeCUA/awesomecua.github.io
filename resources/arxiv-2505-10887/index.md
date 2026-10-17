@@ -16,9 +16,16 @@ Bibliographic record for InfantAgent-Next: A Multimodal Generalist Agent for Aut
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-10887/record.json
+
 ## Authors
 
 Bin Lei, Weitai Kang, Zijian Zhang, Winson Chen, Xi Xie, Shan Zuo, Mimi Xie, Ali Payani, Mingyi Hong, Yan Yan, Caiwen Ding
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-10887/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-10887/citation.csl.json
 
 ## Recorded arXiv snapshot
 

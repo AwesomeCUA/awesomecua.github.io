@@ -16,9 +16,16 @@ Introduces PACE, a protocol and online decision rule for deciding when repeated 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-02932/record.json
+
 ## Authors
 
 Yulong Ming, Jie Xu, Zihan Wu, Xiaohua Jia
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-02932/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-02932/citation.csl.json
 
 ## Recorded arXiv snapshot
 

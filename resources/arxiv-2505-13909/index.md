@@ -16,9 +16,16 @@ PC Agent-E augments 312 human computer-use trajectories with alternative action 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-13909/record.json
+
 ## Authors
 
 Yanheng He, Jiahe Jin, Pengfei Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-13909/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-13909/citation.csl.json
 
 ## Recorded arXiv snapshot
 

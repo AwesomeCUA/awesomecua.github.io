@@ -16,9 +16,16 @@ Bibliographic record for VFRTok: Variable Frame Rates Video Tokenizer with Durat
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-12053/record.json
+
 ## Authors
 
 Tianxiong Zhong, Xingye Tian, Boyuan Jiang, Xuebo Wang, Xin Tao, Pengfei Wan, Zhiwei Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-12053/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-12053/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Code2World: A GUI World Model via Renderable Code Gener
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-09856/record.json
+
 ## Authors
 
 Yuhao Zheng, Li'an Zhong, Yi Wang, Rui Dai, Kaikui Liu, Xiangxiang Chu, Linyuan Lv, Philip Torr, Kevin Qinghong Lin
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-09856/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-09856/citation.csl.json
 
 ## Recorded arXiv snapshot
 

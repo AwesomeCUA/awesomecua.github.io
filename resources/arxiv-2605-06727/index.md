@@ -16,9 +16,16 @@ Bibliographic record for Medical Imaging Classification with Cold-Atom Reservoir
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-06727/record.json
+
 ## Authors
 
 Nuno Batista, Ana Morgado, Oscar Ferraz, Sagar Silva Pratapsi, Jorge Lobo, Gabriel Falcao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-06727/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-06727/citation.csl.json
 
 ## Recorded arXiv snapshot
 

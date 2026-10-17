@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2501.04575",
+  "citation-key": "arxiv_2501_04575",
+  "type": "article",
+  "title": "InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection",
+  "URL": "https://arxiv.org/abs/2501.04575v1",
+  "custom": {
+    "catalog_id": "arxiv:2501.04575",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2501.04575",
+    "identifiers": {
+      "arxiv": "2501.04575"
+    },
+    "first_published_at": "2025-01-08",
+    "record_updated_at": "2025-01-08",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "18d5b2e34f18c24e5d60d5564c9b08eced39c1b17bf5dac8d997640786688fba",
+      "submitted_at": "2025-01-08T15:45:21Z",
+      "updated_at": "2025-01-08T15:45:21Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2501.04575v1"
+    }
+  },
+  "note": "First published: 2025-01-08; Recorded arXiv version: v1; Recorded version updated: 2025-01-08T15:45:21Z.",
+  "author": [
+    {
+      "literal": "Yuhang Liu"
+    },
+    {
+      "literal": "Pengxiang Li"
+    },
+    {
+      "literal": "Zishu Wei"
+    },
+    {
+      "literal": "Congkai Xie"
+    },
+    {
+      "literal": "Xueyu Hu"
+    },
+    {
+      "literal": "Xinchen Xu"
+    },
+    {
+      "literal": "Shengyu Zhang"
+    },
+    {
+      "literal": "Xiaotian Han"
+    },
+    {
+      "literal": "Hongxia Yang"
+    },
+    {
+      "literal": "Fei Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2501.04575",
+  "genre": "preprint",
+  "version": "1"
+}

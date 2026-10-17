@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2507.16853",
+  "citation-key": "arxiv_2507_16853",
+  "type": "article",
+  "title": "MobileUse: A GUI Agent with Hierarchical Reflection for Autonomous Mobile Operation",
+  "URL": "https://arxiv.org/abs/2507.16853v1",
+  "custom": {
+    "catalog_id": "arxiv:2507.16853",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2507.16853",
+    "identifiers": {
+      "arxiv": "2507.16853"
+    },
+    "first_published_at": "2025-07-21",
+    "record_updated_at": "2025-07-21",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6d58a188742fef5862b299c1dcf17bb6be139e81aafd3d2e1bdbe26f88001384",
+      "submitted_at": "2025-07-21T09:37:05Z",
+      "updated_at": "2025-07-21T09:37:05Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2507.16853v1"
+    }
+  },
+  "note": "First published: 2025-07-21; Recorded arXiv version: v1; Recorded version updated: 2025-07-21T09:37:05Z.",
+  "author": [
+    {
+      "literal": "Ning Li"
+    },
+    {
+      "literal": "Xiangmou Qu"
+    },
+    {
+      "literal": "Jiamu Zhou"
+    },
+    {
+      "literal": "Jun Wang"
+    },
+    {
+      "literal": "Muning Wen"
+    },
+    {
+      "literal": "Kounianhua Du"
+    },
+    {
+      "literal": "Xingyu Lou"
+    },
+    {
+      "literal": "Qiuying Peng"
+    },
+    {
+      "literal": "Jun Wang"
+    },
+    {
+      "literal": "Weinan Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.16853",
+  "genre": "preprint",
+  "version": "1"
+}

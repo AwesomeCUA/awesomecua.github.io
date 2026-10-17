@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2305.04091",
+  "citation-key": "arxiv_2305_04091",
+  "type": "article",
+  "title": "Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models",
+  "URL": "https://arxiv.org/abs/2305.04091v3",
+  "custom": {
+    "catalog_id": "arxiv:2305.04091",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2305.04091",
+    "identifiers": {
+      "arxiv": "2305.04091"
+    },
+    "first_published_at": "2023-05-06",
+    "record_updated_at": "2023-05-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3dc514e909b703f3f24440ca95d0ef3fe82285e17afd77a1bb2ec7b5c5a769b8",
+      "submitted_at": "2023-05-06T16:34:37Z",
+      "updated_at": "2023-05-26T07:06:48Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2305.04091v3"
+    }
+  },
+  "note": "First published: 2023-05-06; Recorded arXiv version: v3; Recorded version updated: 2023-05-26T07:06:48Z.",
+  "author": [
+    {
+      "literal": "Lei Wang"
+    },
+    {
+      "literal": "Wanyu Xu"
+    },
+    {
+      "literal": "Yihuai Lan"
+    },
+    {
+      "literal": "Zhiqiang Hu"
+    },
+    {
+      "literal": "Yunshi Lan"
+    },
+    {
+      "literal": "Roy Ka-Wei Lee"
+    },
+    {
+      "literal": "Ee-Peng Lim"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2305.04091",
+  "genre": "preprint",
+  "version": "3"
+}

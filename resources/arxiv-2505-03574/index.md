@@ -16,9 +16,16 @@ Bibliographic record for LlamaFirewall: An open source guardrail system for buil
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-03574/record.json
+
 ## Authors
 
 Sahana Chennabasappa, Cyrus Nikolaidis, Daniel Song, David Molnar, Stephanie Ding, Shengye Wan, Spencer Whitman, Lauren Deason, Nicholas Doucette, Abraham Montilla, Alekhya Gampa, Beto de Paola, Dominik Gabi, James Crnkovich, Jean-Christophe Testud, Kat He, Rashnil Chaturvedi, Wu Zhou, Joshua Saxe
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-03574/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-03574/citation.csl.json
 
 ## Recorded arXiv snapshot
 

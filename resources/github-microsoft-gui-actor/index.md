@@ -16,6 +16,8 @@ GUI grounding model with attention-based action localization.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-microsoft-gui-actor/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/microsoft/GUI-Actor/HEAD/LICENSE

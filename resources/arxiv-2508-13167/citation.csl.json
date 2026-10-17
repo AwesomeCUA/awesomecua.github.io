@@ -1,0 +1,133 @@
+{
+  "id": "arxiv:2508.13167",
+  "citation-key": "arxiv_2508_13167",
+  "type": "article",
+  "title": "Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL",
+  "URL": "https://arxiv.org/abs/2508.13167v1",
+  "custom": {
+    "catalog_id": "arxiv:2508.13167",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.13167",
+    "identifiers": {
+      "arxiv": "2508.13167"
+    },
+    "first_published_at": "2025-08-06",
+    "record_updated_at": "2025-08-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "de15b704965fa2daf2e4940e3bf8d3312b38e17c18434a9cd3a0c843f85724e8",
+      "submitted_at": "2025-08-06T17:01:02Z",
+      "updated_at": "2025-08-06T17:01:02Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2508.13167v1"
+    }
+  },
+  "note": "First published: 2025-08-06; Recorded arXiv version: v1; Recorded version updated: 2025-08-06T17:01:02Z.",
+  "author": [
+    {
+      "literal": "Weizhen Li"
+    },
+    {
+      "literal": "Jianbo Lin"
+    },
+    {
+      "literal": "Zhuosong Jiang"
+    },
+    {
+      "literal": "Jingyi Cao"
+    },
+    {
+      "literal": "Xinpeng Liu"
+    },
+    {
+      "literal": "Jiayu Zhang"
+    },
+    {
+      "literal": "Zhenqiang Huang"
+    },
+    {
+      "literal": "Qianben Chen"
+    },
+    {
+      "literal": "Weichen Sun"
+    },
+    {
+      "literal": "Qiexiang Wang"
+    },
+    {
+      "literal": "Hongxuan Lu"
+    },
+    {
+      "literal": "Tianrui Qin"
+    },
+    {
+      "literal": "Chenghao Zhu"
+    },
+    {
+      "literal": "Yi Yao"
+    },
+    {
+      "literal": "Shuying Fan"
+    },
+    {
+      "literal": "Xiaowan Li"
+    },
+    {
+      "literal": "Tiannan Wang"
+    },
+    {
+      "literal": "Pai Liu"
+    },
+    {
+      "literal": "King Zhu"
+    },
+    {
+      "literal": "He Zhu"
+    },
+    {
+      "literal": "Dingfeng Shi"
+    },
+    {
+      "literal": "Piaohong Wang"
+    },
+    {
+      "literal": "Yeyi Guan"
+    },
+    {
+      "literal": "Xiangru Tang"
+    },
+    {
+      "literal": "Minghao Liu"
+    },
+    {
+      "literal": "Yuchen Eleanor Jiang"
+    },
+    {
+      "literal": "Jian Yang"
+    },
+    {
+      "literal": "Jiaheng Liu"
+    },
+    {
+      "literal": "Ge Zhang"
+    },
+    {
+      "literal": "Wangchunshu Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.13167",
+  "genre": "preprint",
+  "version": "1"
+}

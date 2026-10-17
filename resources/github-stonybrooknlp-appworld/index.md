@@ -16,6 +16,8 @@ Simulated applications, user data, and state-based task checks for evaluating ag
 
 Primarily API and coding interaction; included as an adjacent comparison for GUI and hybrid agents.
 
+- Record JSON: https://awesomecua.github.io/resources/github-stonybrooknlp-appworld/record.json
+
 ## Structured profile
 
 - actions: Python code, application API calls

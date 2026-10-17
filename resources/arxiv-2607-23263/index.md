@@ -16,9 +16,16 @@ Introduces SeekJudge, which iteratively searches and analyzes GUI trajectories t
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-23263/record.json
+
 ## Authors
 
 Yang Wan, Zhenhao Zhang, Jierui Wang, Xiangxin Zhou, Linchao Zhu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-23263/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-23263/citation.csl.json
 
 ## Recorded arXiv snapshot
 

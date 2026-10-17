@@ -16,9 +16,16 @@ This study compares general coding agents using mobile command-line access with 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-19388/record.json
+
 ## Authors
 
 Li Gu, Zihuan Jiang, Linqiang Guo, Zhixiang Chi, Ziqiang Wang, Huan Liu, Yuanhao Yu, Tse-Hsun Chen, Yang Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-19388/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-19388/citation.csl.json
 
 ## Recorded arXiv snapshot
 

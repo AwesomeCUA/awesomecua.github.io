@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:1902.06925",
+  "citation-key": "arxiv_1902_06925",
+  "type": "article",
+  "title": "Spin-wave mediated interactions for Majority Computation using Skyrmions and Spin-torque Nano-oscillators",
+  "URL": "https://arxiv.org/abs/1902.06925v2",
+  "custom": {
+    "catalog_id": "arxiv:1902.06925",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1902.06925",
+    "identifiers": {
+      "arxiv": "1902.06925"
+    },
+    "first_published_at": "2019-02-19",
+    "record_updated_at": "2019-05-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "66ea8c2a5dd45879558e1fa5e77825e37482e1322f18bd33e183ec8baf4de20c",
+      "submitted_at": "2019-02-19T07:02:15Z",
+      "updated_at": "2019-05-21T01:31:02Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/1902.06925v2"
+    }
+  },
+  "note": "First published: 2019-02-19; Recorded arXiv version: v2; Recorded version updated: 2019-05-21T01:31:02Z.",
+  "author": [
+    {
+      "literal": "Venkata Pavan Kumar Miriyala"
+    },
+    {
+      "literal": "Zhifeng Zhu"
+    },
+    {
+      "literal": "Gengchiau Liang"
+    },
+    {
+      "literal": "Xuanyao Fong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        2,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1902.06925",
+  "genre": "preprint",
+  "version": "2"
+}

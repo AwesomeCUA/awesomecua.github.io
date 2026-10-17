@@ -16,6 +16,8 @@ An MCP server exposing mobile accessibility snapshots, screenshots and device in
 
 Source and release 1.0.11 are public. The README specifies iOS and Android device setup and supports local devices as well as a separate cloud offering. Apache-2.0 is declared for this code; no cloud-service pricing or permissions are inferred.
 
+- Record JSON: https://awesomecua.github.io/resources/github-mobile-next-mobile-mcp/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/mobile-next/mobile-mcp/HEAD/LICENSE

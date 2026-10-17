@@ -1,0 +1,103 @@
+{
+  "id": "arxiv:2507.22358",
+  "citation-key": "arxiv_2507_22358",
+  "type": "article",
+  "title": "Magentic-UI: Towards Human-in-the-loop Agentic Systems",
+  "URL": "https://arxiv.org/abs/2507.22358v1",
+  "custom": {
+    "catalog_id": "arxiv:2507.22358",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2507.22358",
+    "identifiers": {
+      "arxiv": "2507.22358"
+    },
+    "first_published_at": "2025-07-30",
+    "record_updated_at": "2025-07-30",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c9416ede89036d640412496b5f0def218b69271c5f2449689d4e4afacb43c556",
+      "submitted_at": "2025-07-30T03:49:14Z",
+      "updated_at": "2025-07-30T03:49:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2507.22358v1"
+    }
+  },
+  "note": "First published: 2025-07-30; Recorded arXiv version: v1; Recorded version updated: 2025-07-30T03:49:14Z.",
+  "author": [
+    {
+      "literal": "Hussein Mozannar"
+    },
+    {
+      "literal": "Gagan Bansal"
+    },
+    {
+      "literal": "Cheng Tan"
+    },
+    {
+      "literal": "Adam Fourney"
+    },
+    {
+      "literal": "Victor Dibia"
+    },
+    {
+      "literal": "Jingya Chen"
+    },
+    {
+      "literal": "Jack Gerrits"
+    },
+    {
+      "literal": "Tyler Payne"
+    },
+    {
+      "literal": "Matheus Kunzler Maldaner"
+    },
+    {
+      "literal": "Madeleine Grunde-McLaughlin"
+    },
+    {
+      "literal": "Eric Zhu"
+    },
+    {
+      "literal": "Griffin Bassman"
+    },
+    {
+      "literal": "Jacob Alber"
+    },
+    {
+      "literal": "Peter Chang"
+    },
+    {
+      "literal": "Ricky Loynd"
+    },
+    {
+      "literal": "Friederike Niedtner"
+    },
+    {
+      "literal": "Ece Kamar"
+    },
+    {
+      "literal": "Maya Murad"
+    },
+    {
+      "literal": "Rafah Hosn"
+    },
+    {
+      "literal": "Saleema Amershi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.22358",
+  "genre": "preprint",
+  "version": "1"
+}

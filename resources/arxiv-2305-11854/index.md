@@ -16,9 +16,16 @@ Bibliographic record for Multimodal Web Navigation with Instruction-Finetuned Fo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2305-11854/record.json
+
 ## Authors
 
 Hiroki Furuta, Kuang-Huei Lee, Ofir Nachum, Yutaka Matsuo, Aleksandra Faust, Shixiang Shane Gu, Izzeddin Gur
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2305-11854/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-11854/citation.csl.json
 
 ## Recorded arXiv snapshot
 

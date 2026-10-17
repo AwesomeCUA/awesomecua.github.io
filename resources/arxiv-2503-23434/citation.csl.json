@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2503.23434",
+  "citation-key": "arxiv_2503_23434",
+  "type": "article",
+  "title": "Towards Trustworthy GUI Agents: A Survey",
+  "URL": "https://arxiv.org/abs/2503.23434v2",
+  "custom": {
+    "catalog_id": "arxiv:2503.23434",
+    "catalog_kind": "survey",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2503.23434",
+    "identifiers": {
+      "arxiv": "2503.23434"
+    },
+    "first_published_at": "2025-03-30",
+    "record_updated_at": "2026-02-24",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5a6811c6d0c3b30d4e6af2f7b0beef8aa8f1ad99ceb325182305e571fe5c398f",
+      "submitted_at": "2025-03-30T13:26:00Z",
+      "updated_at": "2026-02-24T05:24:23Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2503.23434v2"
+    }
+  },
+  "note": "First published: 2025-03-30; Recorded arXiv version: v2; Recorded version updated: 2026-02-24T05:24:23Z.",
+  "author": [
+    {
+      "literal": "Yucheng Shi"
+    },
+    {
+      "literal": "Wenhao Yu"
+    },
+    {
+      "literal": "Jingyuan Huang"
+    },
+    {
+      "literal": "Wenlin Yao"
+    },
+    {
+      "literal": "Wenhu Chen"
+    },
+    {
+      "literal": "Ninghao Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.23434",
+  "genre": "preprint",
+  "version": "2"
+}

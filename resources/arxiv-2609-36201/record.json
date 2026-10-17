@@ -1,0 +1,87 @@
+{
+  "aliases": [],
+  "authors": [
+    "Jianxing Chen",
+    "Xiao Yu",
+    "Shipra Agrawal",
+    "Zhou Yu"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e92c63d4cf58375aa7068570f8a98c145e24f8d393c5807c0aff3ed67f18b9f0",
+      "submitted_at": "2026-09-28T20:01:35Z",
+      "updated_at": "2026-09-28T20:01:35Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.36201v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:29Z",
+      "role": "primary",
+      "sha256": "74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:29Z",
+      "role": "primary",
+      "sha256": "74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2609.36201",
+  "identifiers": {
+    "arxiv": "2609.36201"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:29Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2609.36201"
+    }
+  ],
+  "name": "SCOUT: Synergizing Reasoning and Tool-Use for Computer-Use Safety",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2026-09-28",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Introduces SCOUT, a safety verifier that first derives task-specific completion and safety rubrics from a computer-use trajectory, then actively probes the resulting environment for evidence. It evaluates whether these two stages detect harmful consequences that screenshots alone can miss.",
+  "topics": [
+    "safety-security",
+    "evaluation",
+    "tool-integration"
+  ],
+  "updated_at": "2026-09-28",
+  "url": "https://arxiv.org/abs/2609.36201"
+}

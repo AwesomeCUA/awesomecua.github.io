@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2311.07562",
+  "citation-key": "arxiv_2311_07562",
+  "type": "article",
+  "title": "GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation",
+  "URL": "https://arxiv.org/abs/2311.07562v1",
+  "custom": {
+    "catalog_id": "arxiv:2311.07562",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2311.07562",
+    "identifiers": {
+      "arxiv": "2311.07562"
+    },
+    "first_published_at": "2023-11-13",
+    "record_updated_at": "2023-11-13",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ebe6ff09f876b81d033a064301a1c23e3c141d2a1ad0d7a5df91e729377fcd3b",
+      "submitted_at": "2023-11-13T18:53:37Z",
+      "updated_at": "2023-11-13T18:53:37Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2311.07562v1"
+    }
+  },
+  "note": "First published: 2023-11-13; Recorded arXiv version: v1; Recorded version updated: 2023-11-13T18:53:37Z.",
+  "author": [
+    {
+      "literal": "An Yan"
+    },
+    {
+      "literal": "Zhengyuan Yang"
+    },
+    {
+      "literal": "Wanrong Zhu"
+    },
+    {
+      "literal": "Kevin Lin"
+    },
+    {
+      "literal": "Linjie Li"
+    },
+    {
+      "literal": "Jianfeng Wang"
+    },
+    {
+      "literal": "Jianwei Yang"
+    },
+    {
+      "literal": "Yiwu Zhong"
+    },
+    {
+      "literal": "Julian McAuley"
+    },
+    {
+      "literal": "Jianfeng Gao"
+    },
+    {
+      "literal": "Zicheng Liu"
+    },
+    {
+      "literal": "Lijuan Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.07562",
+  "genre": "preprint",
+  "version": "1"
+}

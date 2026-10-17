@@ -16,6 +16,8 @@ Desktop GUI data for interface understanding and interaction research.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-2c2004baae4669f8169a/record.json
+
 ## Structured profile
 
 - formats: JSON annotations, image files

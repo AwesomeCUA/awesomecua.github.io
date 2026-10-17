@@ -16,9 +16,16 @@ Bibliographic record for Your Harness is Not Secure: Benchmarking Real-world Thr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-06607/record.json
+
 ## Authors
 
 Weidi Luo, Qiming Zhang, Tianyu Lu, Xiaogeng Liu, Bin Hu, Hung-Chun Chiu, Siyuan Ma, Yizhe Zhang, Xusheng Xiao, Yinzhi Cao, Zhen Xiang, Chaowei Xiao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-06607/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-06607/citation.csl.json
 
 ## Recorded arXiv snapshot
 

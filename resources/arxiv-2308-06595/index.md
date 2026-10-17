@@ -16,9 +16,16 @@ Bibliographic record for VisIT-Bench: A Benchmark for Vision-Language Instructio
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2308-06595/record.json
+
 ## Authors
 
 Yonatan Bitton, Hritik Bansal, Jack Hessel, Rulin Shao, Wanrong Zhu, Anas Awadalla, Josh Gardner, Rohan Taori, Ludwig Schmidt
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2308-06595/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2308-06595/citation.csl.json
 
 ## Recorded arXiv snapshot
 

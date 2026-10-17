@@ -16,9 +16,16 @@ Bibliographic record for Proposing and solving olympiad geometry with guided tre
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-10673/record.json
+
 ## Authors
 
 Chi Zhang, Jiajun Song, Siyu Li, Yitao Liang, Yuxi Ma, Wei Wang, Yixin Zhu, Song-Chun Zhu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-10673/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-10673/citation.csl.json
 
 ## Recorded arXiv snapshot
 

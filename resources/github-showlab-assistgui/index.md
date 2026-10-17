@@ -16,6 +16,8 @@ Task-oriented desktop GUI automation framework.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-showlab-assistgui/record.json
+
 ## License declarations
 
 - code: not recorded

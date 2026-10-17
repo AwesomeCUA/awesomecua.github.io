@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2511.17131",
+  "citation-key": "arxiv_2511_17131",
+  "type": "article",
+  "title": "UI-CUBE: Enterprise-Grade Computer Use Agent Benchmarking Beyond Task Accuracy to Operational Reliability",
+  "URL": "https://arxiv.org/abs/2511.17131v1",
+  "custom": {
+    "catalog_id": "arxiv:2511.17131",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2511.17131",
+    "identifiers": {
+      "arxiv": "2511.17131"
+    },
+    "first_published_at": "2025-11-21",
+    "record_updated_at": "2025-11-21",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4c746b329229d90dbe3d04a138f54c8b205b16ec6173cf681d47a319c8f24ddf",
+      "submitted_at": "2025-11-21T10:47:22Z",
+      "updated_at": "2025-11-21T10:47:22Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2511.17131v1"
+    }
+  },
+  "note": "First published: 2025-11-21; Recorded arXiv version: v1; Recorded version updated: 2025-11-21T10:47:22Z.",
+  "author": [
+    {
+      "literal": "Horia Cristescu"
+    },
+    {
+      "literal": "Charles Park"
+    },
+    {
+      "literal": "Trong Canh Nguyen"
+    },
+    {
+      "literal": "Sergiu Talmacel"
+    },
+    {
+      "literal": "Alexandru-Gabriel Ilie"
+    },
+    {
+      "literal": "Stefan Adam"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.17131",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,75 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:00Z",
+      "role": "primary",
+      "sha256": "2dafdebf2fa1e0a5db871addd103e50cb55625f0108c757708029e885920ee4e",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/microsoft/GUI-Actor/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:00Z",
+      "role": "primary",
+      "sha256": "98a96c38494df4963951e32b81ec4effebe4c8a812ab8d9e7d185d59e86fe2fc",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/microsoft/GUI-Actor/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:microsoft/gui-actor",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-16T06:36:00Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-16T06:42:00Z",
+      "url": "https://raw.githubusercontent.com/microsoft/GUI-Actor/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/microsoft/GUI-Actor"
+    }
+  ],
+  "name": "GUI-Actor",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/microsoft/GUI-Actor/HEAD/README.md",
+      "target_id": "arxiv:2506.03143",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "GUI grounding model with attention-based action localization.",
+  "topics": [
+    "grounding"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/microsoft/GUI-Actor"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Slow-Fast Architecture for Video Multi-Modal Large Lang
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-01328/record.json
+
 ## Authors
 
 Min Shi, Shihao Wang, Chieh-Yun Chen, Jitesh Jain, Kai Wang, Junjun Xiong, Guilin Liu, Zhiding Yu, Humphrey Shi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-01328/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-01328/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Design and Construction of a Brain-Like Computer: A New
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1401-7411/record.json
+
 ## Authors
 
 Subrata Ghosh, Krishna Aswani, Surabhi Singh, Satyajit Sahu, Daisuke Fujita, Anirban Bandyopadhyay
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1401-7411/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1401-7411/citation.csl.json
 
 ## Recorded arXiv snapshot
 

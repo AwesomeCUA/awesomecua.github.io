@@ -16,9 +16,16 @@ Bibliographic record for OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-24411/record.json
+
 ## Authors
 
 Qiushi Sun, Mukai Li, Zhoumianze Liu, Zhihui Xie, Fangzhi Xu, Zhangyue Yin, Kanzhi Cheng, Zehao Li, Zichen Ding, Qi Liu, Zhiyong Wu, Zhuosheng Zhang, Ben Kao, Lingpeng Kong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-24411/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-24411/citation.csl.json
 
 ## Recorded arXiv snapshot
 

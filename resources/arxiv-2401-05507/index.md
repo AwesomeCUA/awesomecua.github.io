@@ -16,9 +16,16 @@ Bibliographic record for InfiAgent-DABench: Evaluating Agents on Data Analysis T
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2401-05507/record.json
+
 ## Authors
 
 Xueyu Hu, Ziyu Zhao, Shuang Wei, Ziwei Chai, Qianli Ma, Guoyin Wang, Xuwu Wang, Jing Su, Jingjing Xu, Ming Zhu, Yao Cheng, Jianbo Yuan, Jiwei Li, Kun Kuang, Yang Yang, Hongxia Yang, Fei Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2401-05507/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-05507/citation.csl.json
 
 ## Recorded arXiv snapshot
 

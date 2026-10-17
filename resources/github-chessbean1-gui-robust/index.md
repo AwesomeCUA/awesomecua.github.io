@@ -16,6 +16,8 @@ Evaluation scripts and linked data for comparing GUI action predictions and task
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-chessbean1-gui-robust/record.json
+
 ## License declarations
 
 - code: not recorded

@@ -16,9 +16,16 @@ Bibliographic record for GTA: Generating Long-Horizon Tasks for Web Agents at Sc
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-29218/record.json
+
 ## Authors
 
 Tenghao Huang, Kung-Hsiang Huang, Prafulla Kumar Choubey, Yilun Zhou, Muhao Chen, Jonathan May, Chien-Sheng Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-29218/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-29218/citation.csl.json
 
 ## Recorded arXiv snapshot
 

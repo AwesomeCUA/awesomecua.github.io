@@ -16,9 +16,16 @@ Introduces enterprise web tasks on ServiceNow and BrowserGym interfaces for eval
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-07718/record.json
+
 ## Authors
 
 Alexandre Drouin, Maxime Gasse, Massimo Caccia, Issam H. Laradji, Manuel Del Verme, Tom Marty, Léo Boisvert, Megh Thakkar, Quentin Cappart, David Vazquez, Nicolas Chapados, Alexandre Lacoste
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-07718/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-07718/citation.csl.json
 
 ## Recorded arXiv snapshot
 

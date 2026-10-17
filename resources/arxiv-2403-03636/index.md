@@ -16,9 +16,16 @@ Bibliographic record for SheetAgent: Towards A Generalist Agent for Spreadsheet 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-03636/record.json
+
 ## Authors
 
 Yibin Chen, Yifu Yuan, Zeyu Zhang, Yan Zheng, Jinyi Liu, Fei Ni, Jianye Hao, Hangyu Mao, Fuzheng Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-03636/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-03636/citation.csl.json
 
 ## Recorded arXiv snapshot
 

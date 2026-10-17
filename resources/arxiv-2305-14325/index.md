@@ -16,9 +16,16 @@ Bibliographic record for Improving Factuality and Reasoning in Language Models t
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2305-14325/record.json
+
 ## Authors
 
 Yilun Du, Shuang Li, Antonio Torralba, Joshua B. Tenenbaum, Igor Mordatch
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2305-14325/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-14325/citation.csl.json
 
 ## Recorded arXiv snapshot
 

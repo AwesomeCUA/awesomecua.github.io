@@ -16,9 +16,16 @@ Bibliographic record for WIPI: A New Web Threat for LLM-Driven Web Agents. Title
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-16965/record.json
+
 ## Authors
 
 Fangzhou Wu, Shutong Wu, Yulong Cao, Chaowei Xiao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-16965/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-16965/citation.csl.json
 
 ## Recorded arXiv snapshot
 

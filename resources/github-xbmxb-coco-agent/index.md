@@ -16,6 +16,8 @@ Research implementation combining screen and layout perception with conditional 
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-xbmxb-coco-agent/record.json
+
 ## License declarations
 
 - code: not recorded

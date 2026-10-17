@@ -16,9 +16,16 @@ Uses active perception and hierarchical agents for instruction decomposition, pr
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-14282/record.json
+
 ## Authors
 
 Haowei Liu, Xi Zhang, Haiyang Xu, Yuyang Wanyan, Junyang Wang, Ming Yan, Ji Zhang, Chunfeng Yuan, Changsheng Xu, Weiming Hu, Fei Huang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-14282/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-14282/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Shifts 2.0: Extending The Dataset of Real Distributiona
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2206-15407/record.json
+
 ## Authors
 
 Andrey Malinin, Andreas Athanasopoulos, Muhamed Barakovic, Meritxell Bach Cuadra, Mark J. F. Gales, Cristina Granziera, Mara Graziani, Nikolay Kartashev, Konstantinos Kyriakopoulos, Po-Jui Lu, Nataliia Molchanova, Antonis Nikitakis, Vatsal Raina, Francesco La Rosa, Eli Sivena, Vasileios Tsarsitalidis, Efi Tsompopoulou, Elena Volf
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2206-15407/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2206-15407/citation.csl.json
 
 ## Recorded arXiv snapshot
 

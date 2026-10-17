@@ -16,6 +16,8 @@ GUI model family for interface grounding and navigation.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-inclusionai-ui-venus/record.json
+
 ## License declarations
 
 - code: not recorded

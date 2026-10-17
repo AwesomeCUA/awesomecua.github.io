@@ -1,0 +1,75 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "metrics": [],
+    "task_count": null
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:35:58Z",
+      "role": "primary",
+      "sha256": "bd1354c8008d7d79d4883c0c037b7918392f86fab61391b39b52e507b04672ce",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/readme.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:41:58Z",
+      "role": "primary",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:jylee425/b-moca",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-16T06:35:58Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T06:41:58Z",
+      "url": "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/jylee425/b-moca"
+    }
+  ],
+  "name": "B-MoCA",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Mobile control benchmark with varied interface configurations.",
+  "topics": [
+    "evaluation",
+    "robustness"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/jylee425/b-moca"
+}

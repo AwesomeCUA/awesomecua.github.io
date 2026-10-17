@@ -16,6 +16,8 @@ Evaluation toolkit and tasks for mobile agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-mobileagentbench-mobile-agent-bench/record.json
+
 ## License declarations
 
 - code: not recorded

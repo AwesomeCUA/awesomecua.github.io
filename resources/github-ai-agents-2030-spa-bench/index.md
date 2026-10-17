@@ -16,6 +16,8 @@ Smartphone agent evaluation benchmark.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-ai-agents-2030-spa-bench/record.json
+
 ## Structured profile
 
 - actions: agent-specific Android actions

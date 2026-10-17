@@ -16,6 +16,8 @@ Android environment with programmatic task evaluation for mobile agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-google-research-android-world/record.json
+
 ## Structured profile
 
 - actions: Android device interactions

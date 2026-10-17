@@ -16,9 +16,16 @@ Combines reinforcement learning with behavioral priors from human interactions t
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2202-08137/record.json
+
 ## Authors
 
 Peter C Humphreys, David Raposo, Toby Pohlen, Gregory Thornton, Rachita Chhaparia, Alistair Muldal, Josh Abramson, Petko Georgiev, Alex Goldin, Adam Santoro, Timothy Lillicrap
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2202-08137/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2202-08137/citation.csl.json
 
 ## Recorded arXiv snapshot
 

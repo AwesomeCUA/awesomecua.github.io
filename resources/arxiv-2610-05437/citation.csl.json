@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2610.05437",
+  "citation-key": "arxiv_2610_05437",
+  "type": "article",
+  "title": "TeleTune: Evolving Agent Skills From Offline Telemetry",
+  "URL": "https://arxiv.org/abs/2610.05437v2",
+  "custom": {
+    "catalog_id": "arxiv:2610.05437",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.05437",
+    "identifiers": {
+      "arxiv": "2610.05437"
+    },
+    "first_published_at": "2026-10-04",
+    "record_updated_at": "2026-10-06",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b9e40e7a3404f7aef992270e54986e655995ae88dd0c50db55ccd7f61cc90fb3",
+      "submitted_at": "2026-10-04T18:19:33Z",
+      "updated_at": "2026-10-06T03:17:00Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2610.05437v2"
+    }
+  },
+  "note": "First published: 2026-10-04; Recorded arXiv version: v2; Recorded version updated: 2026-10-06T03:17:00Z.",
+  "author": [
+    {
+      "literal": "Justin Chih-Yao Chen"
+    },
+    {
+      "literal": "Elias Stengel-Eskin"
+    },
+    {
+      "literal": "Yan Chen"
+    },
+    {
+      "literal": "Pol Llado"
+    },
+    {
+      "literal": "Scott Counts"
+    },
+    {
+      "literal": "Mohit Bansal"
+    },
+    {
+      "literal": "Benjamin Van Durme"
+    },
+    {
+      "literal": "Harsh Jhamtani"
+    },
+    {
+      "literal": "Gaurav Verma"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.05437",
+  "genre": "preprint",
+  "version": "2"
+}

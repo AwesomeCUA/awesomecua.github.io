@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2504.10127",
+  "citation-key": "arxiv_2504_10127",
+  "type": "article",
+  "title": "Breaking the Data Barrier -- Building GUI Agents Through Task Generalization",
+  "URL": "https://arxiv.org/abs/2504.10127v2",
+  "custom": {
+    "catalog_id": "arxiv:2504.10127",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2504.10127",
+    "identifiers": {
+      "arxiv": "2504.10127"
+    },
+    "first_published_at": "2025-04-14",
+    "record_updated_at": "2025-04-15",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "171517999164a3581f71cf363ec6eed357b28ca86908cb97e8498c6958762a5f",
+      "submitted_at": "2025-04-14T11:35:02Z",
+      "updated_at": "2025-04-15T17:13:46Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2504.10127v2"
+    }
+  },
+  "note": "First published: 2025-04-14; Recorded arXiv version: v2; Recorded version updated: 2025-04-15T17:13:46Z.",
+  "author": [
+    {
+      "literal": "Junlei Zhang"
+    },
+    {
+      "literal": "Zichen Ding"
+    },
+    {
+      "literal": "Chang Ma"
+    },
+    {
+      "literal": "Zijie Chen"
+    },
+    {
+      "literal": "Qiushi Sun"
+    },
+    {
+      "literal": "Zhenzhong Lan"
+    },
+    {
+      "literal": "Junxian He"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.10127",
+  "genre": "preprint",
+  "version": "2"
+}

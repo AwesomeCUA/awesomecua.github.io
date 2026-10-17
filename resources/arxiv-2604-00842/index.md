@@ -16,9 +16,16 @@ Bibliographic record for Proactive Agent Research Environment: Simulating Active
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-00842/record.json
+
 ## Authors
 
 Deepak Nathani, Cheng Zhang, Chang Huan, Jiaming Shan, Yinfei Yang, Alkesh Patel, Zhe Gan, William Yang Wang, Michael Saxon, Xin Eric Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-00842/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-00842/citation.csl.json
 
 ## Recorded arXiv snapshot
 

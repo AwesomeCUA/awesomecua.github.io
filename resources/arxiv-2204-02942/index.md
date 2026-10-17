@@ -16,9 +16,16 @@ Bibliographic record for A Design Methodology for Fault-Tolerant Computing using
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2204-02942/record.json
+
 ## Authors
 
 Murat Işık, Ankita Paul, M. Lakshmi Varshika, Anup Das
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2204-02942/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2204-02942/citation.csl.json
 
 ## Recorded arXiv snapshot
 

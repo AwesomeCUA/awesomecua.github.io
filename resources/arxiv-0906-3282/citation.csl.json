@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:0906.3282",
+  "citation-key": "arxiv_0906_3282",
+  "type": "article",
+  "title": "Maximum Error Modeling for Fault-Tolerant Computation using Maximum a posteriori (MAP) Hypothesis",
+  "URL": "https://arxiv.org/abs/0906.3282v3",
+  "custom": {
+    "catalog_id": "arxiv:0906.3282",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/0906.3282",
+    "identifiers": {
+      "arxiv": "0906.3282"
+    },
+    "first_published_at": "2009-06-17",
+    "record_updated_at": "2009-10-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "869f06d18cfbc038ec2d30c9575570966ea82a154caa8be3c7e724802f444c82",
+      "submitted_at": "2009-06-17T19:23:28Z",
+      "updated_at": "2009-10-27T13:57:19Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/0906.3282v3"
+    }
+  },
+  "note": "First published: 2009-06-17; Recorded arXiv version: v3; Recorded version updated: 2009-10-27T13:57:19Z.",
+  "author": [
+    {
+      "literal": "Karthikeyan Lingasubramanian"
+    },
+    {
+      "literal": "Syed M. Alam"
+    },
+    {
+      "literal": "Sanjukta Bhanja"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2009,
+        6,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "0906.3282",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -1,0 +1,130 @@
+{
+  "id": "arxiv:2508.04482",
+  "citation-key": "arxiv_2508_04482",
+  "type": "article",
+  "title": "OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use",
+  "URL": "https://arxiv.org/abs/2508.04482v1",
+  "custom": {
+    "catalog_id": "arxiv:2508.04482",
+    "catalog_kind": "survey",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2508.04482",
+    "identifiers": {
+      "arxiv": "2508.04482"
+    },
+    "first_published_at": "2025-08-06",
+    "record_updated_at": "2025-08-06",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f14fdd895e52277a3695eeb83e5095472051d139aec63f22f9c63d344c051dad",
+      "submitted_at": "2025-08-06T14:33:45Z",
+      "updated_at": "2025-08-06T14:33:45Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2508.04482v1"
+    }
+  },
+  "note": "First published: 2025-08-06; Recorded arXiv version: v1; Recorded version updated: 2025-08-06T14:33:45Z.",
+  "author": [
+    {
+      "literal": "Xueyu Hu"
+    },
+    {
+      "literal": "Tao Xiong"
+    },
+    {
+      "literal": "Biao Yi"
+    },
+    {
+      "literal": "Zishu Wei"
+    },
+    {
+      "literal": "Ruixuan Xiao"
+    },
+    {
+      "literal": "Yurun Chen"
+    },
+    {
+      "literal": "Jiasheng Ye"
+    },
+    {
+      "literal": "Meiling Tao"
+    },
+    {
+      "literal": "Xiangxin Zhou"
+    },
+    {
+      "literal": "Ziyu Zhao"
+    },
+    {
+      "literal": "Yuhuai Li"
+    },
+    {
+      "literal": "Shengze Xu"
+    },
+    {
+      "literal": "Shenzhi Wang"
+    },
+    {
+      "literal": "Xinchen Xu"
+    },
+    {
+      "literal": "Shuofei Qiao"
+    },
+    {
+      "literal": "Zhaokai Wang"
+    },
+    {
+      "literal": "Kun Kuang"
+    },
+    {
+      "literal": "Tieyong Zeng"
+    },
+    {
+      "literal": "Liang Wang"
+    },
+    {
+      "literal": "Jiwei Li"
+    },
+    {
+      "literal": "Yuchen Eleanor Jiang"
+    },
+    {
+      "literal": "Wangchunshu Zhou"
+    },
+    {
+      "literal": "Guoyin Wang"
+    },
+    {
+      "literal": "Keting Yin"
+    },
+    {
+      "literal": "Zhou Zhao"
+    },
+    {
+      "literal": "Hongxia Yang"
+    },
+    {
+      "literal": "Fan Wu"
+    },
+    {
+      "literal": "Shengyu Zhang"
+    },
+    {
+      "literal": "Fei Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.04482",
+  "genre": "preprint",
+  "version": "1"
+}

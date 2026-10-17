@@ -16,6 +16,8 @@ GUI video data for understanding dynamic interfaces.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-dongping-chen-gui-world/record.json
+
 ## Structured profile
 
 - formats: not recorded

@@ -16,9 +16,16 @@ Bibliographic record for Inducing Programmatic Skills for Agentic Tasks. Title, 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-06821/record.json
+
 ## Authors
 
 Zora Zhiruo Wang, Apurva Gandhi, Graham Neubig, Daniel Fried
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-06821/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-06821/citation.csl.json
 
 ## Recorded arXiv snapshot
 

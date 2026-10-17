@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2606.22557",
+  "citation-key": "arxiv_2606_22557",
+  "type": "article",
+  "title": "MacAgentBench: Benchmarking AI Agents on Real-World macOS Desktop",
+  "URL": "https://arxiv.org/abs/2606.22557v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.22557",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2606.22557",
+    "identifiers": {
+      "arxiv": "2606.22557"
+    },
+    "first_published_at": "2026-06-21",
+    "record_updated_at": "2026-06-21",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6dc52f58bb2237d12041fa8b994b20bd1e41290aaab0c70d2c5dd79fcaca37b6",
+      "submitted_at": "2026-06-21T15:32:57Z",
+      "updated_at": "2026-06-21T15:32:57Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.22557v1"
+    }
+  },
+  "note": "First published: 2026-06-21; Recorded arXiv version: v1; Recorded version updated: 2026-06-21T15:32:57Z.",
+  "author": [
+    {
+      "literal": "Yikun Fu"
+    },
+    {
+      "literal": "Bowen Fu"
+    },
+    {
+      "literal": "Zhenyu Wu"
+    },
+    {
+      "literal": "Shuang Cheng"
+    },
+    {
+      "literal": "Xiaowei Sun"
+    },
+    {
+      "literal": "Bowen Yang"
+    },
+    {
+      "literal": "Zehao Li"
+    },
+    {
+      "literal": "Yibo Zhao"
+    },
+    {
+      "literal": "Zichen Ding"
+    },
+    {
+      "literal": "Zhoumianze Liu"
+    },
+    {
+      "literal": "Shijie Wang"
+    },
+    {
+      "literal": "Biqing Qi"
+    },
+    {
+      "literal": "Bowen Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.22557",
+  "genre": "preprint",
+  "version": "1"
+}

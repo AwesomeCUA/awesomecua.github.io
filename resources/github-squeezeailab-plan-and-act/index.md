@@ -16,6 +16,8 @@ A web-agent framework that separates high-level planning from action execution, 
 
 Runnable entry points, framework modules and synthetic-data tooling are published. The repository code declares MIT; separate model and dataset cards have their own declarations. Its setup targets WebArena-Lite and requires that external environment.
 
+- Record JSON: https://awesomecua.github.io/resources/github-squeezeailab-plan-and-act/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/SqueezeAILab/plan-and-act/HEAD/LICENSE

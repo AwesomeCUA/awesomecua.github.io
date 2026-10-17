@@ -16,9 +16,16 @@ Bibliographic record for Efficient Computation Using Spatial-Photonic Ising Mach
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-01400/record.json
+
 ## Authors
 
 Richard Zhipeng Wang, James S. Cummins, Marvin Syed, Nikita Stroev, George Pastras, Jason Sakellariou, Symeon Tsintzos, Alexis Askitopoulos, Daniele Veraldi, Marcello Calvanese Strinati, Silvia Gentilini, Davide Pierangeli, Claudio Conti, Natalia G. Berloff
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-01400/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-01400/citation.csl.json
 
 ## Recorded arXiv snapshot
 

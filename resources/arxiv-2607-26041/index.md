@@ -16,9 +16,16 @@ Introduces Desktop-Delta Bench, an offline diagnostic of GUI transition understa
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-26041/record.json
+
 ## Authors
 
 Abhishek Pillai, Samir Kumar Nayak, Yuan Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-26041/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-26041/citation.csl.json
 
 ## Recorded arXiv snapshot
 

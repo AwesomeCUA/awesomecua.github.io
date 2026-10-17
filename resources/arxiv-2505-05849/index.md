@@ -16,9 +16,16 @@ Bibliographic record for AgentVigil: Generic Black-Box Red-teaming for Indirect 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-05849/record.json
+
 ## Authors
 
 Zhun Wang, Vincent Siu, Zhe Ye, Tianneng Shi, Yuzhou Nie, Xuandong Zhao, Chenguang Wang, Wenbo Guo, Dawn Song
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-05849/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-05849/citation.csl.json
 
 ## Recorded arXiv snapshot
 

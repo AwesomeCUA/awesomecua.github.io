@@ -16,9 +16,16 @@ Bibliographic record for Toward Visual Grounding: A Survey. Title, authors and d
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-20206/record.json
+
 ## Authors
 
 Linhui Xiao, Xiaoshan Yang, Xiangyuan Lan, Yaowei Wang, Changsheng Xu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-20206/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-20206/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,6 +16,8 @@ Android device-control platform with screenshots, accessibility telemetry, input
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-google-deepmind-android-env/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/google-deepmind/android_env/HEAD/LICENSE

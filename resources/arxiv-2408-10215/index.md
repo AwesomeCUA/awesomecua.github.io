@@ -16,9 +16,16 @@ Bibliographic record for Comprehensive Overview of Reward Engineering and Shapin
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2408-10215/record.json
+
 ## Authors
 
 Sinan Ibrahim, Mostafa Mostafa, Ali Jnadi, Hadi Salloum, Pavel Osinenko
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2408-10215/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2408-10215/citation.csl.json
 
 ## Recorded arXiv snapshot
 

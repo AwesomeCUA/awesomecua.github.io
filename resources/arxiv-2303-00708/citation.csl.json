@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2303.00708",
+  "citation-key": "arxiv_2303_00708",
+  "type": "article",
+  "title": "Perspective on unconventional computing using magnetic skyrmions",
+  "URL": "https://arxiv.org/abs/2303.00708v2",
+  "custom": {
+    "catalog_id": "arxiv:2303.00708",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2303.00708",
+    "identifiers": {
+      "arxiv": "2303.00708"
+    },
+    "first_published_at": "2023-03-01",
+    "record_updated_at": "2023-05-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "77f649ac9e825553091236c5c0c04f26f033c8c02627e3484d36e6dc06649280",
+      "submitted_at": "2023-03-01T18:06:26Z",
+      "updated_at": "2023-05-21T10:44:21Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2303.00708v2"
+    }
+  },
+  "note": "First published: 2023-03-01; Recorded arXiv version: v2; Recorded version updated: 2023-05-21T10:44:21Z.",
+  "author": [
+    {
+      "literal": "Oscar Lee"
+    },
+    {
+      "literal": "Robin Msiska"
+    },
+    {
+      "literal": "Maarten A. Brems"
+    },
+    {
+      "literal": "Mathias Klaui"
+    },
+    {
+      "literal": "Hidekazu Kurebayashi"
+    },
+    {
+      "literal": "Karin Everschor-Sitte"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        3,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2303.00708",
+  "genre": "preprint",
+  "version": "2"
+}

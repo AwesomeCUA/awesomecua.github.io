@@ -16,6 +16,8 @@ GUI grounding benchmark focused on professional high-resolution interfaces.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-likaixin2000-screenspot-pro-gui-grounding/record.json
+
 ## Structured profile
 
 - actions: predicted target coordinates

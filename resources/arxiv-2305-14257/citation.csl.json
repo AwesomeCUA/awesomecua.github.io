@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2305.14257",
+  "citation-key": "arxiv_2305_14257",
+  "type": "article",
+  "title": "Hierarchical Prompting Assists Large Language Model on Web Navigation",
+  "URL": "https://arxiv.org/abs/2305.14257v3",
+  "custom": {
+    "catalog_id": "arxiv:2305.14257",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2305.14257",
+    "identifiers": {
+      "arxiv": "2305.14257"
+    },
+    "first_published_at": "2023-05-23",
+    "record_updated_at": "2023-10-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "896d5f5e9248e2e49da254fb383f84e5b6ce4286b6d30a37ed7944fcfa1f4958",
+      "submitted_at": "2023-05-23T17:10:39Z",
+      "updated_at": "2023-10-30T00:55:53Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2305.14257v3"
+    }
+  },
+  "note": "First published: 2023-05-23; Recorded arXiv version: v3; Recorded version updated: 2023-10-30T00:55:53Z.",
+  "author": [
+    {
+      "literal": "Abishek Sridhar"
+    },
+    {
+      "literal": "Robert Lo"
+    },
+    {
+      "literal": "Frank F. Xu"
+    },
+    {
+      "literal": "Hao Zhu"
+    },
+    {
+      "literal": "Shuyan Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2305.14257",
+  "genre": "preprint",
+  "version": "3"
+}

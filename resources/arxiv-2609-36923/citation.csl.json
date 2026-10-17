@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2609.36923",
+  "citation-key": "arxiv_2609_36923",
+  "type": "article",
+  "title": "PrecogUI: Proactive GUI Agents via Pre-cognitive Simulation and Experience Retrieval",
+  "URL": "https://arxiv.org/abs/2609.36923v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.36923",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.36923",
+    "identifiers": {
+      "arxiv": "2609.36923"
+    },
+    "first_published_at": "2026-09-29",
+    "record_updated_at": "2026-09-29",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e3af30198735ca9b9d192e15acbb7f8a37fe222fa2c0c1d2ccff448ef5e79f55",
+      "submitted_at": "2026-09-29T07:41:34Z",
+      "updated_at": "2026-09-29T07:41:34Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.36923v1"
+    }
+  },
+  "note": "First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T07:41:34Z.",
+  "author": [
+    {
+      "literal": "Bin Kang"
+    },
+    {
+      "literal": "Jiarui Ouyang"
+    },
+    {
+      "literal": "Li Jiang"
+    },
+    {
+      "literal": "Bin Chen"
+    },
+    {
+      "literal": "Zhuotao Tian"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.36923",
+  "genre": "preprint",
+  "version": "1"
+}

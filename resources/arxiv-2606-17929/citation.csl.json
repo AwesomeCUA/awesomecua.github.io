@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:2606.17929",
+  "citation-key": "arxiv_2606_17929",
+  "type": "article",
+  "title": "PreAct: Computer-Using Agents that Get Faster on Repeated Tasks",
+  "URL": "https://arxiv.org/abs/2606.17929v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.17929",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.17929",
+    "identifiers": {
+      "arxiv": "2606.17929"
+    },
+    "first_published_at": "2026-06-16",
+    "record_updated_at": "2026-06-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "19fd8d8363ef6a7c58e42309f25dea1b9c5b6bca09b5d823f8a7cc7a80d61f0f",
+      "submitted_at": "2026-06-16T13:40:21Z",
+      "updated_at": "2026-06-16T13:40:21Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.17929v1"
+    }
+  },
+  "note": "First published: 2026-06-16; Recorded arXiv version: v1; Recorded version updated: 2026-06-16T13:40:21Z.",
+  "author": [
+    {
+      "literal": "Bojie Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.17929",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Android Coach: Improve Online Agentic Training Efficien
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-07277/record.json
+
 ## Authors
 
 Guo Gan, Yuxuan Ding, Cong Chen, Yuwei Ren, Yin Huang, Hong Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-07277/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-07277/citation.csl.json
 
 ## Recorded arXiv snapshot
 

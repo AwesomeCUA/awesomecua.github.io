@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2510.15863",
+  "citation-key": "arxiv_2510_15863",
+  "type": "article",
+  "title": "PolySkill: Learning Generalizable Skills Through Polymorphic Abstraction",
+  "URL": "https://arxiv.org/abs/2510.15863v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.15863",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.15863",
+    "identifiers": {
+      "arxiv": "2510.15863"
+    },
+    "first_published_at": "2025-10-17",
+    "record_updated_at": "2026-03-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "864f797fd3d3ea317ca29d225d67db3ea635f840afdb30639b4bd0368bc5ac17",
+      "submitted_at": "2025-10-17T17:56:00Z",
+      "updated_at": "2026-03-02T03:34:00Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.15863v2"
+    }
+  },
+  "note": "First published: 2025-10-17; Recorded arXiv version: v2; Recorded version updated: 2026-03-02T03:34:00Z.",
+  "author": [
+    {
+      "literal": "Simon Yu"
+    },
+    {
+      "literal": "Gang Li"
+    },
+    {
+      "literal": "Weiyan Shi"
+    },
+    {
+      "literal": "Peng Qi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.15863",
+  "genre": "preprint",
+  "version": "2"
+}

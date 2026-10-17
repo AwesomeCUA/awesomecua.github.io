@@ -16,9 +16,16 @@ Bibliographic record for PIPer: On-Device Environment Setup via Online Reinforce
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-25455/record.json
+
 ## Authors
 
 Alexander Kovrigin, Aleksandra Eliseeva, Konstantin Grotov, Egor Bogomolov, Yaroslav Zharov
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-25455/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-25455/citation.csl.json
 
 ## Recorded arXiv snapshot
 

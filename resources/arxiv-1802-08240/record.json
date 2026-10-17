@@ -1,0 +1,65 @@
+{
+  "aliases": [],
+  "authors": [
+    "David Goluskin",
+    "Giovanni Fantuzzi"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "907dc638cfa81c3a56af5795bf07b643b04aee7103a9d27c42d7f2ee84fd8bff",
+      "submitted_at": "2018-02-22T18:52:32Z",
+      "updated_at": "2018-09-06T18:23:09Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/1802.08240v2"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:37:05Z",
+      "role": "primary",
+      "sha256": "bb3d2692c294743a8d06d5065cc84b27b229a981c2c650ff20a2ec038797a0e3",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=1000&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:1802.08240",
+  "identifiers": {
+    "arxiv": "1802.08240"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:37:05Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/1802.08240"
+    }
+  ],
+  "name": "Bounds on mean energy in the Kuramoto-Sivashinsky equation computed using semidefinite programming",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2018-02-22",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2018-09-06",
+  "url": "https://arxiv.org/abs/1802.08240"
+}

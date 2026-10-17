@@ -16,9 +16,16 @@ Introduces screenshot question answering over mobile interfaces, linking answers
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2209-08199/record.json
+
 ## Authors
 
 Yu-Chung Hsiao, Fedir Zubach, Gilles Baechler, Srinivas Sunkara, Victor Carbune, Jason Lin, Maria Wang, Yun Zhu, Jindong Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2209-08199/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2209-08199/citation.csl.json
 
 ## Recorded arXiv snapshot
 

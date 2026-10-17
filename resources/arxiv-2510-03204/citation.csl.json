@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2510.03204",
+  "citation-key": "arxiv_2510_03204",
+  "type": "article",
+  "title": "FocusAgent: Simple Yet Effective Ways of Trimming the Large Context of Web Agents",
+  "URL": "https://arxiv.org/abs/2510.03204v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.03204",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.03204",
+    "identifiers": {
+      "arxiv": "2510.03204"
+    },
+    "first_published_at": "2025-10-03",
+    "record_updated_at": "2026-08-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "be30412c1d55634c466e062de8482478e298b8b447ae5996899a8a72cf5aa23c",
+      "submitted_at": "2025-10-03T17:41:30Z",
+      "updated_at": "2026-08-29T16:53:22Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.03204v2"
+    }
+  },
+  "note": "First published: 2025-10-03; Recorded arXiv version: v2; Recorded version updated: 2026-08-29T16:53:22Z.",
+  "author": [
+    {
+      "literal": "Imene Kerboua"
+    },
+    {
+      "literal": "Sahar Omidi Shayegan"
+    },
+    {
+      "literal": "Megh Thakkar"
+    },
+    {
+      "literal": "Xing Han Lù"
+    },
+    {
+      "literal": "Léo Boisvert"
+    },
+    {
+      "literal": "Massimo Caccia"
+    },
+    {
+      "literal": "Jérémy Espinas"
+    },
+    {
+      "literal": "Alexandre Aussem"
+    },
+    {
+      "literal": "Véronique Eglin"
+    },
+    {
+      "literal": "Alexandre Lacoste"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.03204",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,6 +16,8 @@ Browser-interaction data released with NNetNav for its live-website setting, wit
 
 The Hub card supplies a license but no detailed schema. Dataset purpose is supported by the project's README; exact sample counts and annotation quality remain unverified.
 
+- Record JSON: https://awesomecua.github.io/resources/url-4f47abde8cd28a1ec1e1/record.json
+
 ## License declarations
 
 - code: not recorded

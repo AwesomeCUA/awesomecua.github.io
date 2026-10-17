@@ -1,0 +1,241 @@
+{
+  "id": "arxiv:2606.11042",
+  "citation-key": "arxiv_2606_11042",
+  "type": "article",
+  "title": "Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields",
+  "URL": "https://arxiv.org/abs/2606.11042v4",
+  "custom": {
+    "catalog_id": "arxiv:2606.11042",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2606.11042",
+    "identifiers": {
+      "arxiv": "2606.11042"
+    },
+    "first_published_at": "2026-06-09",
+    "record_updated_at": "2026-07-17",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "037a3197137d27318320a3fd23fb5e606a1aa748133e57213cd02fd10aad4c4d",
+      "submitted_at": "2026-06-09T16:10:16Z",
+      "updated_at": "2026-07-17T12:22:12Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2606.11042v4"
+    }
+  },
+  "note": "First published: 2026-06-09; Recorded arXiv version: v4; Recorded version updated: 2026-07-17T12:22:12Z.",
+  "author": [
+    {
+      "literal": "Liya Zhu"
+    },
+    {
+      "literal": "Jingzhe Ding"
+    },
+    {
+      "literal": "Jian Zhang"
+    },
+    {
+      "literal": "Jianbo Xue"
+    },
+    {
+      "literal": "Shihao Liang"
+    },
+    {
+      "literal": "Ge Zhang"
+    },
+    {
+      "literal": "Yi Zhu"
+    },
+    {
+      "literal": "Duju Zeng"
+    },
+    {
+      "literal": "Xiang Gao"
+    },
+    {
+      "literal": "Qingshui Gu"
+    },
+    {
+      "literal": "Mailun Gao"
+    },
+    {
+      "literal": "Huimin Che"
+    },
+    {
+      "literal": "Yan Zhao"
+    },
+    {
+      "literal": "Peiheng Zhou"
+    },
+    {
+      "literal": "Haojun Wang"
+    },
+    {
+      "literal": "Chaobo Xian"
+    },
+    {
+      "literal": "Lili Le"
+    },
+    {
+      "literal": "Chi Wu"
+    },
+    {
+      "literal": "Yiwei Liu"
+    },
+    {
+      "literal": "Shengda Long"
+    },
+    {
+      "literal": "Jiale Yang"
+    },
+    {
+      "literal": "Fangzhi Xu"
+    },
+    {
+      "literal": "Sijin Wu"
+    },
+    {
+      "literal": "Haodong Duan"
+    },
+    {
+      "literal": "Chao He"
+    },
+    {
+      "literal": "Zhaojian Li"
+    },
+    {
+      "literal": "Minchao Wang"
+    },
+    {
+      "literal": "Huan Zhou"
+    },
+    {
+      "literal": "Jiani Hou"
+    },
+    {
+      "literal": "Chuqian Yu"
+    },
+    {
+      "literal": "Weiran Shi"
+    },
+    {
+      "literal": "Hongwan Gao"
+    },
+    {
+      "literal": "Jiamin Chen"
+    },
+    {
+      "literal": "Guanhong Chen"
+    },
+    {
+      "literal": "Tingqin Luo"
+    },
+    {
+      "literal": "Kaiyuan Zhang"
+    },
+    {
+      "literal": "Zhixin Yao"
+    },
+    {
+      "literal": "Qing Hua"
+    },
+    {
+      "literal": "Yuhao Jiang"
+    },
+    {
+      "literal": "Jin Chen"
+    },
+    {
+      "literal": "Pu Chen"
+    },
+    {
+      "literal": "Zhenyu Hu"
+    },
+    {
+      "literal": "Xingyu Li"
+    },
+    {
+      "literal": "Zhengxuan Jiang"
+    },
+    {
+      "literal": "Meng Cao"
+    },
+    {
+      "literal": "Tianfeng Long"
+    },
+    {
+      "literal": "Haozhe Wang"
+    },
+    {
+      "literal": "Mingzhang Wang"
+    },
+    {
+      "literal": "Yichen Zhang"
+    },
+    {
+      "literal": "Yiming Dai"
+    },
+    {
+      "literal": "Chenchen Zhang"
+    },
+    {
+      "literal": "Jiaying Wang"
+    },
+    {
+      "literal": "Xinying Liu"
+    },
+    {
+      "literal": "Xingzu Liu"
+    },
+    {
+      "literal": "Lingling Zhang"
+    },
+    {
+      "literal": "Xinjie Chen"
+    },
+    {
+      "literal": "Yujia Qin"
+    },
+    {
+      "literal": "Wangchunshu Zhou"
+    },
+    {
+      "literal": "Zhiyong Wu"
+    },
+    {
+      "literal": "Yang Liu"
+    },
+    {
+      "literal": "Jiaheng Liu"
+    },
+    {
+      "literal": "Lei Zhang"
+    },
+    {
+      "literal": "Shen Yan"
+    },
+    {
+      "literal": "Wenhao Huang"
+    },
+    {
+      "literal": "Zaiyuan Wang"
+    },
+    {
+      "literal": "Xiaolong Chang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.11042",
+  "genre": "preprint",
+  "version": "4"
+}

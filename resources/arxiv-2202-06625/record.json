@@ -1,0 +1,66 @@
+{
+  "aliases": [],
+  "authors": [
+    "Tommaso Sorgente",
+    "Silvia Biasotti",
+    "Michela Spagnuolo"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "39fba53b7c06d069f6da3c5a66e6215c8a9637e31dcf299ed2d57986b30f2860",
+      "submitted_at": "2022-02-14T11:25:14Z",
+      "updated_at": "2022-02-14T11:25:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2202.06625v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:37:01Z",
+      "role": "primary",
+      "sha256": "8bfa074910574410d7988771270feded31e7e1bd1fd0924d4754850d4a5f1914",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=900&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2202.06625",
+  "identifiers": {
+    "arxiv": "2202.06625"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:37:01Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2202.06625"
+    }
+  ],
+  "name": "Polyhedron Kernel Computation Using a Geometric Approach",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2022-02-14",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2022-02-14",
+  "url": "https://arxiv.org/abs/2202.06625"
+}

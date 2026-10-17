@@ -16,9 +16,16 @@ Bibliographic record for MIRAGE: Mobile Agents with Implicit Reasoning and Gener
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-04627/record.json
+
 ## Authors
 
 Zhichao Yang, Yuanze Hu, Haojie Hao, Longkun Hao, Dongshuo Huang, Hongyu Lin, Gen Li, Lanqing Hong, Yihang Lou, Yan Bai
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-04627/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-04627/citation.csl.json
 
 ## Recorded arXiv snapshot
 

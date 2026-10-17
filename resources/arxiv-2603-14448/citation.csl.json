@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2603.14448",
+  "citation-key": "arxiv_2603_14448",
+  "type": "article",
+  "title": "Zoom to Essence: Trainless GUI Grounding by Inferring upon Interface Elements",
+  "URL": "https://arxiv.org/abs/2603.14448v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.14448",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.14448",
+    "identifiers": {
+      "arxiv": "2603.14448"
+    },
+    "first_published_at": "2026-03-15",
+    "record_updated_at": "2026-03-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b4507a652e2b3c3857289763442fffd8db21726b97fb7b6304ad61a2139ef5af",
+      "submitted_at": "2026-03-15T15:47:47Z",
+      "updated_at": "2026-03-15T15:47:47Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.14448v1"
+    }
+  },
+  "note": "First published: 2026-03-15; Recorded arXiv version: v1; Recorded version updated: 2026-03-15T15:47:47Z.",
+  "author": [
+    {
+      "literal": "Ziwei Liu"
+    },
+    {
+      "literal": "Tao Feng"
+    },
+    {
+      "literal": "Borui Kang"
+    },
+    {
+      "literal": "Yanbing Yang"
+    },
+    {
+      "literal": "Jun Luo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.14448",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2503.23803",
+  "citation-key": "arxiv_2503_23803",
+  "type": "article",
+  "title": "Thinking Longer, Not Larger: Enhancing Software Engineering Agents via Scaling Test-Time Compute",
+  "URL": "https://arxiv.org/abs/2503.23803v2",
+  "custom": {
+    "catalog_id": "arxiv:2503.23803",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2503.23803",
+    "identifiers": {
+      "arxiv": "2503.23803"
+    },
+    "first_published_at": "2025-03-31",
+    "record_updated_at": "2025-04-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "579500087cb4dbd64580d983af737b9f559c8d693c24442aaf00b659051b8fc9",
+      "submitted_at": "2025-03-31T07:31:32Z",
+      "updated_at": "2025-04-08T12:36:08Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2503.23803v2"
+    }
+  },
+  "note": "First published: 2025-03-31; Recorded arXiv version: v2; Recorded version updated: 2025-04-08T12:36:08Z.",
+  "author": [
+    {
+      "literal": "Yingwei Ma"
+    },
+    {
+      "literal": "Yongbin Li"
+    },
+    {
+      "literal": "Yihong Dong"
+    },
+    {
+      "literal": "Xue Jiang"
+    },
+    {
+      "literal": "Rongyu Cao"
+    },
+    {
+      "literal": "Jue Chen"
+    },
+    {
+      "literal": "Fei Huang"
+    },
+    {
+      "literal": "Binhua Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.23803",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,9 +16,16 @@ Bibliographic record for CoAdapt-GUI: Joint Workflow Context and Policy Adaptati
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-11588/record.json
+
 ## Authors
 
 Linqiang Guo, Li Gu, Zihuan Jiang, Zhixiang Chi, Siobhan Reid, Ziqiang Wang, Yuanhao Yu, Wei Liu, Yang Wang, Tse-Hsun, Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-11588/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-11588/citation.csl.json
 
 ## Recorded arXiv snapshot
 

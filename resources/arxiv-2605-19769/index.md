@@ -16,9 +16,16 @@ Bibliographic record for OpenComputer: Verifiable Software Worlds for Computer-U
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-19769/record.json
+
 ## Authors
 
 Jinbiao Wei, Qianran Ma, Yilun Zhao, Xiao Zhou, Kangqi Ni, Guo Gan, Arman Cohan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-19769/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-19769/citation.csl.json
 
 ## Recorded arXiv snapshot
 

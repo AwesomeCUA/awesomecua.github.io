@@ -16,9 +16,16 @@ Bibliographic record for Permission Manifests for Web Agents. Title, authors and
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-02371/record.json
+
 ## Authors
 
 Samuele Marro, Alan Chan, Xinxing Ren, Lewis Hammond, Jesse Wright, Gurjyot Wanga, Tiziano Piccardi, Nuno Campos, Tobin South, Jialin Yu, Sunando Sengupta, Eric Sommerlade, Alex Pentland, Philip Torr, Jiaxin Pei
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-02371/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-02371/citation.csl.json
 
 ## Recorded arXiv snapshot
 

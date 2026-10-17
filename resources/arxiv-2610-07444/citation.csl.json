@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2610.07444",
+  "citation-key": "arxiv_2610_07444",
+  "type": "article",
+  "title": "Decoupling What from Where: How Should a Small GUI Grounding Model Receive the Action Type?",
+  "URL": "https://arxiv.org/abs/2610.07444v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.07444",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.07444",
+    "identifiers": {
+      "arxiv": "2610.07444"
+    },
+    "first_published_at": "2026-10-05",
+    "record_updated_at": "2026-10-05",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "81342daf25b0fb26f6481fcf836c3d958e26c2358be96eadb51e6914ea87e43c",
+      "submitted_at": "2026-10-05T21:50:50Z",
+      "updated_at": "2026-10-05T21:50:50Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.07444v1"
+    }
+  },
+  "note": "First published: 2026-10-05; Recorded arXiv version: v1; Recorded version updated: 2026-10-05T21:50:50Z.",
+  "author": [
+    {
+      "literal": "Aadi Chauhan"
+    },
+    {
+      "literal": "Arthur Ilyasov"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.07444",
+  "genre": "preprint",
+  "version": "1"
+}

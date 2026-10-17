@@ -16,6 +16,8 @@ Benchmark of tasks in macOS desktop applications.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-jetastra-macagentbench/record.json
+
 ## Structured profile
 
 - actions: GUI interactions, command-line operations

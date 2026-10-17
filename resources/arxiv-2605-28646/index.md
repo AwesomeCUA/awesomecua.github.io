@@ -16,9 +16,16 @@ Bibliographic record for MaskClaw: Edge-Side Personalized Privacy Arbitration fo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-28646/record.json
+
 ## Authors
 
 Yanqiu Zhao, Dongying Zheng, Kaibo Huang, Yukun Wei, Zhongliang Yang, Linna Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-28646/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-28646/citation.csl.json
 
 ## Recorded arXiv snapshot
 

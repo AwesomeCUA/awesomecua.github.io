@@ -1,0 +1,121 @@
+{
+  "id": "arxiv:2501.07927",
+  "citation-key": "arxiv_2501_07927",
+  "type": "article",
+  "title": "Gandalf the Red: Adaptive Security for LLMs",
+  "URL": "https://arxiv.org/abs/2501.07927v3",
+  "custom": {
+    "catalog_id": "arxiv:2501.07927",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2501.07927",
+    "identifiers": {
+      "arxiv": "2501.07927"
+    },
+    "first_published_at": "2025-01-14",
+    "record_updated_at": "2025-08-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1b1ccc6b13dd75414c880c0b83d79e43674a90be6c153e8165bfd10ff0825c77",
+      "submitted_at": "2025-01-14T08:30:49Z",
+      "updated_at": "2025-08-04T16:37:00Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2501.07927v3"
+    }
+  },
+  "note": "First published: 2025-01-14; Recorded arXiv version: v3; Recorded version updated: 2025-08-04T16:37:00Z.",
+  "author": [
+    {
+      "literal": "Niklas Pfister"
+    },
+    {
+      "literal": "Václav Volhejn"
+    },
+    {
+      "literal": "Manuel Knott"
+    },
+    {
+      "literal": "Santiago Arias"
+    },
+    {
+      "literal": "Julia Bazińska"
+    },
+    {
+      "literal": "Mykhailo Bichurin"
+    },
+    {
+      "literal": "Alan Commike"
+    },
+    {
+      "literal": "Janet Darling"
+    },
+    {
+      "literal": "Peter Dienes"
+    },
+    {
+      "literal": "Matthew Fiedler"
+    },
+    {
+      "literal": "David Haber"
+    },
+    {
+      "literal": "Matthias Kraft"
+    },
+    {
+      "literal": "Marco Lancini"
+    },
+    {
+      "literal": "Max Mathys"
+    },
+    {
+      "literal": "Damián Pascual-Ortiz"
+    },
+    {
+      "literal": "Jakub Podolak"
+    },
+    {
+      "literal": "Adrià Romero-López"
+    },
+    {
+      "literal": "Kyriacos Shiarlis"
+    },
+    {
+      "literal": "Andreas Signer"
+    },
+    {
+      "literal": "Zsolt Terek"
+    },
+    {
+      "literal": "Athanasios Theocharis"
+    },
+    {
+      "literal": "Daniel Timbrell"
+    },
+    {
+      "literal": "Samuel Trautwein"
+    },
+    {
+      "literal": "Samuel Watts"
+    },
+    {
+      "literal": "Yun-Han Wu"
+    },
+    {
+      "literal": "Mateo Rojas-Carulla"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2501.07927",
+  "genre": "preprint",
+  "version": "3"
+}

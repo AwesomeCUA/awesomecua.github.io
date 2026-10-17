@@ -16,6 +16,8 @@ General computer-control framework using visual interfaces.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-baai-agents-cradle/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/BAAI-Agents/Cradle/HEAD/LICENSE

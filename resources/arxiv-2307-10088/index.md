@@ -16,9 +16,16 @@ Collects Android interaction demonstrations with screens, actions, and instructi
 
 Annotation reviewed against the primary abstract. Original dataset scale and experimental results are not independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2307-10088/record.json
+
 ## Authors
 
 Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2307-10088/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2307-10088/citation.csl.json
 
 ## Recorded arXiv snapshot
 

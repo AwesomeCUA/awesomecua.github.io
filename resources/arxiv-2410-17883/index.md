@@ -16,9 +16,16 @@ LiMAC combines a compact Action Transformer with a fine-tuned vision-language mo
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-17883/record.json
+
 ## Authors
 
 Filippos Christianos, Georgios Papoudakis, Thomas Coste, Jianye Hao, Jun Wang, Kun Shao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-17883/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-17883/citation.csl.json
 
 ## Recorded arXiv snapshot
 

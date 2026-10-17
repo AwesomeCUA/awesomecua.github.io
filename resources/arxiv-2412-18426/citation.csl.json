@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2412.18426",
+  "citation-key": "arxiv_2412_18426",
+  "type": "article",
+  "title": "GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent",
+  "URL": "https://arxiv.org/abs/2412.18426v1",
+  "custom": {
+    "catalog_id": "arxiv:2412.18426",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2412.18426",
+    "identifiers": {
+      "arxiv": "2412.18426"
+    },
+    "first_published_at": "2024-12-24",
+    "record_updated_at": "2024-12-24",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9e509f015068bcf1294a97236ff3bbde5e3ceb167f3cb032fcfd84fc4a5b01d0",
+      "submitted_at": "2024-12-24T13:41:47Z",
+      "updated_at": "2024-12-24T13:41:47Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2412.18426v1"
+    }
+  },
+  "note": "First published: 2024-12-24; Recorded arXiv version: v1; Recorded version updated: 2024-12-24T13:41:47Z.",
+  "author": [
+    {
+      "literal": "Kangjia Zhao"
+    },
+    {
+      "literal": "Jiahui Song"
+    },
+    {
+      "literal": "Leigang Sha"
+    },
+    {
+      "literal": "Haozhan Shen"
+    },
+    {
+      "literal": "Zhi Chen"
+    },
+    {
+      "literal": "Tiancheng Zhao"
+    },
+    {
+      "literal": "Xiubo Liang"
+    },
+    {
+      "literal": "Jianwei Yin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.18426",
+  "genre": "preprint",
+  "version": "1"
+}

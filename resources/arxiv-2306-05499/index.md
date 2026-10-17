@@ -16,9 +16,16 @@ Bibliographic record for Prompt Injection attack against LLM-integrated Applicat
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2306-05499/record.json
+
 ## Authors
 
 Yi Liu, Gelei Deng, Yuekang Li, Kailong Wang, Zihao Wang, Xiaofeng Wang, Tianwei Zhang, Yepang Liu, Haoyu Wang, Yan Zheng, Leo Yu Zhang, Yang Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2306-05499/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2306-05499/citation.csl.json
 
 ## Recorded arXiv snapshot
 

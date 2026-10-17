@@ -16,9 +16,16 @@ Improves GUI-agent execution code by analyzing action effects and repeated-task 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-00948/record.json
+
 ## Authors
 
 Geyi Yang, Zikun Qu, Xiang Li, Zhiyong Wang, Min Zhang, Shipei Zeng, Zhongxiang Dai
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-00948/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-00948/citation.csl.json
 
 ## Recorded arXiv snapshot
 

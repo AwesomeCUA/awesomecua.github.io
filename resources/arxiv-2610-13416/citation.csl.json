@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2610.13416",
+  "citation-key": "arxiv_2610_13416",
+  "type": "article",
+  "title": "Web$hell: A Unified Interface for Agentic Web Access",
+  "URL": "https://arxiv.org/abs/2610.13416v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.13416",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.13416",
+    "identifiers": {
+      "arxiv": "2610.13416"
+    },
+    "first_published_at": "2026-10-09",
+    "record_updated_at": "2026-10-09",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cadcf2ab7be51b17d06975eba0e56573c333dca9ec034ade67b84e62d0096903",
+      "submitted_at": "2026-10-09T11:23:40Z",
+      "updated_at": "2026-10-09T11:23:40Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.13416v1"
+    }
+  },
+  "note": "First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T11:23:40Z.",
+  "author": [
+    {
+      "literal": "Sunghwan Kim"
+    },
+    {
+      "literal": "Deogyong Kim"
+    },
+    {
+      "literal": "Sangam Lee"
+    },
+    {
+      "literal": "Donguk Kwon"
+    },
+    {
+      "literal": "Dongha Lee"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.13416",
+  "genre": "preprint",
+  "version": "1"
+}

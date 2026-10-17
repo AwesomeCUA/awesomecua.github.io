@@ -16,9 +16,16 @@ Bibliographic record for High photon-loss threshold quantum computing using GHZ-
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2308-04192/record.json
+
 ## Authors
 
 Brendan Pankovich, Angus Kan, Kwok Ho Wan, Maike Ostmann, Alex Neville, Srikrishna Omkar, Adel Sohbi, Kamil Brádler
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2308-04192/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2308-04192/citation.csl.json
 
 ## Recorded arXiv snapshot
 

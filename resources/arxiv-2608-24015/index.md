@@ -16,9 +16,16 @@ Introduces Evidence-First Reflection, which separates extraction of action-induc
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-24015/record.json
+
 ## Authors
 
 Yijie Ma, Chaoyue Niu, Fan Wu, Guihai Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-24015/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-24015/citation.csl.json
 
 ## Recorded arXiv snapshot
 

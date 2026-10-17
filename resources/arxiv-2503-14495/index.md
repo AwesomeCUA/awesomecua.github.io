@@ -16,9 +16,16 @@ Bibliographic record for Temporal Consistency for LLM Reasoning Process Error Id
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-14495/record.json
+
 ## Authors
 
 Jiacheng Guo, Yue Wu, Jiahao Qiu, Kaixuan Huang, Xinzhe Juan, Ling Yang, Mengdi Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-14495/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-14495/citation.csl.json
 
 ## Recorded arXiv snapshot
 

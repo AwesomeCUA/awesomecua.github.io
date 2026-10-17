@@ -16,9 +16,16 @@ Bibliographic record for AgentLens: Adaptive Visual Modalities for Human-Agent I
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-20279/record.json
+
 ## Authors
 
 Jeonghyeon Kim, Byeongjun Joung, Junwon Lee, Joohyung Lee, Taehoon Min, Sunjae Lee
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-20279/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-20279/citation.csl.json
 
 ## Recorded arXiv snapshot
 

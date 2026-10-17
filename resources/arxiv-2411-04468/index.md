@@ -16,9 +16,16 @@ Introduces an orchestrated team of browsing, file, and coding agents with progre
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-04468/record.json
+
 ## Authors
 
 Adam Fourney, Gagan Bansal, Hussein Mozannar, Cheng Tan, Eduardo Salinas, Erkang, Zhu, Friederike Niedtner, Grace Proebsting, Griffin Bassman, Jack Gerrits, Jacob Alber, Peter Chang, Ricky Loynd, Robert West, Victor Dibia, Ahmed Awadallah, Ece Kamar, Rafah Hosn, Saleema Amershi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-04468/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-04468/citation.csl.json
 
 ## Recorded arXiv snapshot
 

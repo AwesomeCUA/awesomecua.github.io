@@ -16,9 +16,16 @@ Bibliographic record for Do LLMs Need to See Everything? A Benchmark and Study o
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-17817/record.json
+
 ## Authors
 
 Shiquan Zhang, Tianyi Zhang, Le Fang, Simon D'Alfonso, Hong Jia, Vassilis Kostakos
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-17817/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-17817/citation.csl.json
 
 ## Recorded arXiv snapshot
 

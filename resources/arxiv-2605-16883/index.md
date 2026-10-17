@@ -16,9 +16,16 @@ Bibliographic record for SE-GA: Memory-Augmented Self-Evolution for GUI Agents. 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-16883/record.json
+
 ## Authors
 
 Shilong Jin, Lanjun Wang, Zhuosheng Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-16883/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-16883/citation.csl.json
 
 ## Recorded arXiv snapshot
 

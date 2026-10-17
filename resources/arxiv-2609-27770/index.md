@@ -16,9 +16,16 @@ Bibliographic record for Improving LLM-based Autonomous Web Agents with Filterin
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-27770/record.json
+
 ## Authors
 
 Zhitong Guo, Jing Yu Koh, Ruiyu Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-27770/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-27770/citation.csl.json
 
 ## Recorded arXiv snapshot
 

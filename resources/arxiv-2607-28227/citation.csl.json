@@ -1,0 +1,91 @@
+{
+  "id": "arxiv:2607.28227",
+  "citation-key": "arxiv_2607_28227",
+  "type": "article",
+  "title": "Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents",
+  "URL": "https://arxiv.org/abs/2607.28227v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.28227",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2607.28227",
+    "identifiers": {
+      "arxiv": "2607.28227"
+    },
+    "first_published_at": "2026-07-30",
+    "record_updated_at": "2026-07-30",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "52fb1b49501132f1dbe3564daa02cca22a93fc8d7c28dec8ee6070a23889574a",
+      "submitted_at": "2026-07-30T13:58:41Z",
+      "updated_at": "2026-07-30T13:58:41Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.28227v1"
+    }
+  },
+  "note": "First published: 2026-07-30; Recorded arXiv version: v1; Recorded version updated: 2026-07-30T13:58:41Z.",
+  "author": [
+    {
+      "literal": "Hanzhang Zhou"
+    },
+    {
+      "literal": "Panrong Tong"
+    },
+    {
+      "literal": "Xu Zhang"
+    },
+    {
+      "literal": "Quyu Kong"
+    },
+    {
+      "literal": "Chenglin Cai"
+    },
+    {
+      "literal": "Tianyu Xia"
+    },
+    {
+      "literal": "Gongjie Zhang"
+    },
+    {
+      "literal": "Jianan Zhang"
+    },
+    {
+      "literal": "Long Li"
+    },
+    {
+      "literal": "Long Chen"
+    },
+    {
+      "literal": "Lei Wang"
+    },
+    {
+      "literal": "Gaole Dai"
+    },
+    {
+      "literal": "Pengxiang Li"
+    },
+    {
+      "literal": "Liangyu Chen"
+    },
+    {
+      "literal": "Yue Wang"
+    },
+    {
+      "literal": "Steven Hoi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.28227",
+  "genre": "preprint",
+  "version": "1"
+}

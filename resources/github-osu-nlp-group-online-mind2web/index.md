@@ -16,6 +16,8 @@ Live website evaluation of web agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-osu-nlp-group-online-mind2web/record.json
+
 ## Structured profile
 
 - actions: web interactions

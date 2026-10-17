@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2507.09884",
+  "citation-key": "arxiv_2507_09884",
+  "type": "article",
+  "title": "VerifyBench: A Systematic Benchmark for Evaluating Reasoning Verifiers Across Domains",
+  "URL": "https://arxiv.org/abs/2507.09884v3",
+  "custom": {
+    "catalog_id": "arxiv:2507.09884",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2507.09884",
+    "identifiers": {
+      "arxiv": "2507.09884"
+    },
+    "first_published_at": "2025-07-14",
+    "record_updated_at": "2025-07-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8dc1a5e14b7d7868acfc7796fe5a07980e0b5e092967407a3b155f7f8fd7607d",
+      "submitted_at": "2025-07-14T03:45:24Z",
+      "updated_at": "2025-07-26T11:17:08Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2507.09884v3"
+    }
+  },
+  "note": "First published: 2025-07-14; Recorded arXiv version: v3; Recorded version updated: 2025-07-26T11:17:08Z.",
+  "author": [
+    {
+      "literal": "Xuzhao Li"
+    },
+    {
+      "literal": "Xuchen Li"
+    },
+    {
+      "literal": "Shiyu Hu"
+    },
+    {
+      "literal": "Yongzhen Guo"
+    },
+    {
+      "literal": "Wentao Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.09884",
+  "genre": "preprint",
+  "version": "3"
+}

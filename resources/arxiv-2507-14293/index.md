@@ -16,9 +16,16 @@ Bibliographic record for WebGuard: Building a Generalizable Guardrail for Web Ag
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-14293/record.json
+
 ## Authors
 
 Boyuan Zheng, Zeyi Liao, Scott Salisbury, Zeyuan Liu, Michael Lin, Qinyuan Zheng, Zifan Wang, Xiang Deng, Dawn Song, Huan Sun, Yu Su
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-14293/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-14293/citation.csl.json
 
 ## Recorded arXiv snapshot
 

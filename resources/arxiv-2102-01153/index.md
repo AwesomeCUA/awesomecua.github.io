@@ -16,9 +16,16 @@ Bibliographic record for DisQ: A Novel Quantum Output State Classification Metho
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2102-01153/record.json
+
 ## Authors
 
 Tirthak Patel, Devesh Tiwari
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2102-01153/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2102-01153/citation.csl.json
 
 ## Recorded arXiv snapshot
 

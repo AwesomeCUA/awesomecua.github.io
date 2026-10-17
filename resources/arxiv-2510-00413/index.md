@@ -16,9 +16,16 @@ Bibliographic record for PAL-UI: Planning with Active Look-back for Vision-Based
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-00413/record.json
+
 ## Authors
 
 Zikang Liu, Junyi Li, Wayne Xin Zhao, Dawei Gao, Yaliang Li, Ji-rong Wen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-00413/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-00413/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2306.07863",
+  "citation-key": "arxiv_2306_07863",
+  "type": "article",
+  "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+  "URL": "https://arxiv.org/abs/2306.07863v3",
+  "custom": {
+    "catalog_id": "arxiv:2306.07863",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2306.07863",
+    "identifiers": {
+      "arxiv": "2306.07863"
+    },
+    "first_published_at": "2023-06-13",
+    "record_updated_at": "2024-01-19",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8fdb5fed2b2fa0ecbf5910dd6813d8de7910af286a1e4e00cdebb734a82e78b0",
+      "submitted_at": "2023-06-13T15:49:41Z",
+      "updated_at": "2024-01-19T06:59:26Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2306.07863v3"
+    }
+  },
+  "note": "First published: 2023-06-13; Recorded arXiv version: v3; Recorded version updated: 2024-01-19T06:59:26Z.",
+  "author": [
+    {
+      "literal": "Longtao Zheng"
+    },
+    {
+      "literal": "Rundong Wang"
+    },
+    {
+      "literal": "Xinrun Wang"
+    },
+    {
+      "literal": "Bo An"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        6,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2306.07863",
+  "genre": "preprint",
+  "version": "3"
+}

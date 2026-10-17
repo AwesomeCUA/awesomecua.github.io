@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2406.01400",
+  "citation-key": "arxiv_2406_01400",
+  "type": "article",
+  "title": "Efficient Computation Using Spatial-Photonic Ising Machines: Utilizing Low-Rank and Circulant Matrix Constraints",
+  "URL": "https://arxiv.org/abs/2406.01400v1",
+  "custom": {
+    "catalog_id": "arxiv:2406.01400",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2406.01400",
+    "identifiers": {
+      "arxiv": "2406.01400"
+    },
+    "first_published_at": "2024-06-03",
+    "record_updated_at": "2024-06-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b8347ba74a375970bcf070c5a390ab3fceddfc255234024089b1ad5fb7fb6960",
+      "submitted_at": "2024-06-03T15:03:31Z",
+      "updated_at": "2024-06-03T15:03:31Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2406.01400v1"
+    }
+  },
+  "note": "First published: 2024-06-03; Recorded arXiv version: v1; Recorded version updated: 2024-06-03T15:03:31Z.",
+  "author": [
+    {
+      "literal": "Richard Zhipeng Wang"
+    },
+    {
+      "literal": "James S. Cummins"
+    },
+    {
+      "literal": "Marvin Syed"
+    },
+    {
+      "literal": "Nikita Stroev"
+    },
+    {
+      "literal": "George Pastras"
+    },
+    {
+      "literal": "Jason Sakellariou"
+    },
+    {
+      "literal": "Symeon Tsintzos"
+    },
+    {
+      "literal": "Alexis Askitopoulos"
+    },
+    {
+      "literal": "Daniele Veraldi"
+    },
+    {
+      "literal": "Marcello Calvanese Strinati"
+    },
+    {
+      "literal": "Silvia Gentilini"
+    },
+    {
+      "literal": "Davide Pierangeli"
+    },
+    {
+      "literal": "Claudio Conti"
+    },
+    {
+      "literal": "Natalia G. Berloff"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.01400",
+  "genre": "preprint",
+  "version": "1"
+}

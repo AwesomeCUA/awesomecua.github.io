@@ -16,9 +16,16 @@ Bibliographic record for Bridging VideoQA and Video-Guided Agentic Tasks via Gen
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-29445/record.json
+
 ## Authors
 
 Sunqi Fan, Qingle Liu, Runqi Yin, Meng-Hao Guo, Shuojin Yang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-29445/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-29445/citation.csl.json
 
 ## Recorded arXiv snapshot
 

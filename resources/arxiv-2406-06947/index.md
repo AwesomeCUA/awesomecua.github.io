@@ -16,9 +16,16 @@ CAAP converts screenshots into textual observations and plans keyboard-and-mouse
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-06947/record.json
+
 ## Authors
 
 Junhee Cho, Jihoon Kim, Daseul Bae, Jinho Choo, Youngjune Gwon, Yeong-Dae Kwon
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-06947/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-06947/citation.csl.json
 
 ## Recorded arXiv snapshot
 

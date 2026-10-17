@@ -16,9 +16,16 @@ Combines operating-procedure context with user interaction to guide mobile task 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2401-04124/record.json
+
 ## Authors
 
 Tinghe Ding
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2401-04124/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-04124/citation.csl.json
 
 ## Recorded arXiv snapshot
 

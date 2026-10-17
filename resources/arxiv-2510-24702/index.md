@@ -16,9 +16,16 @@ Bibliographic record for Agent Data Protocol: Unifying Datasets for Diverse, Eff
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-24702/record.json
+
 ## Authors
 
 Yueqi Song, Ketan Ramaneti, Zaid Sheikh, Ziru Chen, Boyu Gou, Tianbao Xie, Yiheng Xu, Danyang Zhang, Apurva Gandhi, Fan Yang, Joseph Liu, Tianyue Ou, Zhihao Yuan, Frank Xu, Shuyan Zhou, Xingyao Wang, Xiang Yue, Tao Yu, Huan Sun, Yu Su, Graham Neubig
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-24702/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-24702/citation.csl.json
 
 ## Recorded arXiv snapshot
 

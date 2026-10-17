@@ -16,9 +16,16 @@ Evaluates agent safety across real browser, code, filesystem, shell, and messagi
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-06134/record.json
+
 ## Authors
 
 Sanidhya Vijayvargiya, Aditya Bharat Soni, Xuhui Zhou, Zora Zhiruo Wang, Nouha Dziri, Graham Neubig, Maarten Sap
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-06134/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-06134/citation.csl.json
 
 ## Recorded arXiv snapshot
 

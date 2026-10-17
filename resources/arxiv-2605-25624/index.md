@@ -16,9 +16,16 @@ Bibliographic record for CUA-Gym: Scaling Verifiable Training Environments and T
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-25624/record.json
+
 ## Authors
 
 Bowen Wang, Dunjie Lu, Junli Wang, Tianyi Bai, Shixuan Liu, Zhipeng Zhang, Haiquan Wang, Hao Hu, Tianbao Xie, Shuai Bai, Dayiheng Liu, Que Shen, Junyang Lin, Tao Yu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-25624/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-25624/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ VLM-Fuzz combines depth-first UI exploration with Android manifest analysis, run
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-11675/record.json
+
 ## Authors
 
 Biniam Fisseha Demissie, Yan Naing Tun, Lwin Khin Shar, Mariano Ceccato
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-11675/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-11675/citation.csl.json
 
 ## Recorded arXiv snapshot
 

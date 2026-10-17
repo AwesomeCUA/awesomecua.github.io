@@ -16,9 +16,16 @@ Bibliographic record for Intelligent Virtual Assistants with LLM-based Process A
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2312-06677/record.json
+
 ## Authors
 
 Yanchu Guan, Dong Wang, Zhixuan Chu, Shiyu Wang, Feiyue Ni, Ruihua Song, Longfei Li, Jinjie Gu, Chenyi Zhuang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2312-06677/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2312-06677/citation.csl.json
 
 ## Recorded arXiv snapshot
 

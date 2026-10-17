@@ -16,9 +16,16 @@ Bibliographic record for Constraining Host-Level Abuse in Self-Hosted Computer-U
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-06393/record.json
+
 ## Authors
 
 Di Lu, Bo Zhang, Xiyuan Li, Yongzhi Liao, Xuewen Dong, Yulong Shen, Zhiquan Liu, Jianfeng Ma
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-06393/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-06393/citation.csl.json
 
 ## Recorded arXiv snapshot
 

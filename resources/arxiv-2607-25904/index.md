@@ -16,9 +16,16 @@ Introduces an Interactive Reward Agent that proposes completion conditions and v
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-25904/record.json
+
 ## Authors
 
 Chenrui Shi, Yuwei Wu, Yang Liu, Ruining Feng, Zirui Shang, Zhi Gao, Lifeng Fan, Che Sun
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-25904/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-25904/citation.csl.json
 
 ## Recorded arXiv snapshot
 

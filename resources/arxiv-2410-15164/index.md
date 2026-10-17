@@ -16,9 +16,16 @@ Introduces a smartphone-agent benchmark with English and Chinese tasks, real-tim
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-15164/record.json
+
 ## Authors
 
 Jingxuan Chen, Derek Yuen, Bin Xie, Yuhao Yang, Gongwei Chen, Zhihao Wu, Li Yixing, Xurui Zhou, Weiwen Liu, Shuai Wang, Kaiwen Zhou, Rui Shao, Liqiang Nie, Yasheng Wang, Jianye Hao, Jun Wang, Kun Shao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-15164/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-15164/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2501.13896",
+  "citation-key": "arxiv_2501_13896",
+  "type": "article",
+  "title": "GUI-Bee: Align GUI Action Grounding to Novel Environments via Autonomous Exploration",
+  "URL": "https://arxiv.org/abs/2501.13896v2",
+  "custom": {
+    "catalog_id": "arxiv:2501.13896",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2501.13896",
+    "identifiers": {
+      "arxiv": "2501.13896"
+    },
+    "first_published_at": "2025-01-23",
+    "record_updated_at": "2025-01-27",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0804055deb6c3513990ed8d596486400f1cb791338b7866d9e949186a34eb9c5",
+      "submitted_at": "2025-01-23T18:16:21Z",
+      "updated_at": "2025-01-27T18:58:42Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2501.13896v2"
+    }
+  },
+  "note": "First published: 2025-01-23; Recorded arXiv version: v2; Recorded version updated: 2025-01-27T18:58:42Z.",
+  "author": [
+    {
+      "literal": "Yue Fan"
+    },
+    {
+      "literal": "Handong Zhao"
+    },
+    {
+      "literal": "Ruiyi Zhang"
+    },
+    {
+      "literal": "Yu Shen"
+    },
+    {
+      "literal": "Xin Eric Wang"
+    },
+    {
+      "literal": "Gang Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2501.13896",
+  "genre": "preprint",
+  "version": "2"
+}

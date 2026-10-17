@@ -16,9 +16,16 @@ Bibliographic record for Large Language Model-based Human-Agent Collaboration fo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-12914/record.json
+
 ## Authors
 
 Xueyang Feng, Zhi-Yuan Chen, Yujia Qin, Yankai Lin, Xu Chen, Zhiyuan Liu, Ji-Rong Wen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-12914/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-12914/citation.csl.json
 
 ## Recorded arXiv snapshot
 

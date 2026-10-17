@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:1802.02640",
+  "citation-key": "arxiv_1802_02640",
+  "type": "article",
+  "title": "Minimizing Latency for Secure Coded Computing Using Secret Sharing via Staircase Codes",
+  "URL": "https://arxiv.org/abs/1802.02640v1",
+  "custom": {
+    "catalog_id": "arxiv:1802.02640",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1802.02640",
+    "identifiers": {
+      "arxiv": "1802.02640"
+    },
+    "first_published_at": "2018-02-07",
+    "record_updated_at": "2018-02-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "46c74dbfa0944752c12e5606038ccd0e3cfe0930ccc5c1d000b5a56831a73fca",
+      "submitted_at": "2018-02-07T21:23:44Z",
+      "updated_at": "2018-02-07T21:23:44Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1802.02640v1"
+    }
+  },
+  "note": "First published: 2018-02-07; Recorded arXiv version: v1; Recorded version updated: 2018-02-07T21:23:44Z.",
+  "author": [
+    {
+      "literal": "Rawad Bitar"
+    },
+    {
+      "literal": "Parimal Parag"
+    },
+    {
+      "literal": "Salim El Rouayheb"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        2,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1802.02640",
+  "genre": "preprint",
+  "version": "1"
+}

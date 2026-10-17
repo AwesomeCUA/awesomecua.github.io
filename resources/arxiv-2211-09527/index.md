@@ -16,9 +16,16 @@ Bibliographic record for Ignore Previous Prompt: Attack Techniques For Language 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2211-09527/record.json
+
 ## Authors
 
 Fábio Perez, Ian Ribeiro
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2211-09527/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2211-09527/citation.csl.json
 
 ## Recorded arXiv snapshot
 

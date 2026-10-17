@@ -16,9 +16,16 @@ Bibliographic record for Resource Allocation in Cloud Computing Using Genetic Al
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2308-11782/record.json
+
 ## Authors
 
 Mahdi Manavi, Yunpeng Zhang, Guoning Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2308-11782/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2308-11782/citation.csl.json
 
 ## Recorded arXiv snapshot
 

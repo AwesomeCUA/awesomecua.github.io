@@ -16,9 +16,16 @@ Defines language grounding on webpages as choosing the UI element targeted by a 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1808-09132/record.json
+
 ## Authors
 
 Panupong Pasupat, Tian-Shun Jiang, Evan Zheran Liu, Kelvin Guu, Percy Liang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1808-09132/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1808-09132/citation.csl.json
 
 ## Recorded arXiv snapshot
 

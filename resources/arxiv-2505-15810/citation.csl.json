@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2505.15810",
+  "citation-key": "arxiv_2505_15810",
+  "type": "article",
+  "title": "GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents",
+  "URL": "https://arxiv.org/abs/2505.15810v2",
+  "custom": {
+    "catalog_id": "arxiv:2505.15810",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2505.15810",
+    "identifiers": {
+      "arxiv": "2505.15810"
+    },
+    "first_published_at": "2025-05-21",
+    "record_updated_at": "2025-05-22",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "321f2d627451d60e130c17574994648fae69fc784b0ed03f6560e7f1ef9eb023",
+      "submitted_at": "2025-05-21T17:59:09Z",
+      "updated_at": "2025-05-22T11:15:23Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2505.15810v2"
+    }
+  },
+  "note": "First published: 2025-05-21; Recorded arXiv version: v2; Recorded version updated: 2025-05-22T11:15:23Z.",
+  "author": [
+    {
+      "literal": "Yuqi Zhou"
+    },
+    {
+      "literal": "Sunhao Dai"
+    },
+    {
+      "literal": "Shuai Wang"
+    },
+    {
+      "literal": "Kaiwen Zhou"
+    },
+    {
+      "literal": "Qinglin Jia"
+    },
+    {
+      "literal": "Jun Xu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.15810",
+  "genre": "preprint",
+  "version": "2"
+}

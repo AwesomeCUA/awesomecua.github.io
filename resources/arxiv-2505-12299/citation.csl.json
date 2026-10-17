@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2505.12299",
+  "citation-key": "arxiv_2505_12299",
+  "type": "article",
+  "title": "MobileIPL: Enhancing Mobile Agents Thinking Process via Iterative Preference Learning",
+  "URL": "https://arxiv.org/abs/2505.12299v4",
+  "custom": {
+    "catalog_id": "arxiv:2505.12299",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2505.12299",
+    "identifiers": {
+      "arxiv": "2505.12299"
+    },
+    "first_published_at": "2025-05-18",
+    "record_updated_at": "2026-03-21",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9bc92029e16b5afb4b54837d2ab2304c7b8176548061c9deafdca101754128dc",
+      "submitted_at": "2025-05-18T08:28:05Z",
+      "updated_at": "2026-03-21T09:25:27Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2505.12299v4"
+    }
+  },
+  "note": "First published: 2025-05-18; Recorded arXiv version: v4; Recorded version updated: 2026-03-21T09:25:27Z.",
+  "author": [
+    {
+      "literal": "Kun Huang"
+    },
+    {
+      "literal": "Weikai Xu"
+    },
+    {
+      "literal": "Yuxuan Liu"
+    },
+    {
+      "literal": "Quandong Wang"
+    },
+    {
+      "literal": "Pengzhi Gao"
+    },
+    {
+      "literal": "Wei Liu"
+    },
+    {
+      "literal": "Jian Luan"
+    },
+    {
+      "literal": "Bin Wang"
+    },
+    {
+      "literal": "Bo An"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.12299",
+  "genre": "preprint",
+  "version": "4"
+}

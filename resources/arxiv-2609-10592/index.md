@@ -16,9 +16,16 @@ Bibliographic record for Tag-system computation using only powers and principal 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-10592/record.json
+
 ## Authors
 
 Trevor Cappallo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-10592/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-10592/citation.csl.json
 
 ## Recorded arXiv snapshot
 

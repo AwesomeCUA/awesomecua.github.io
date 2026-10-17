@@ -16,9 +16,16 @@ Bibliographic record for Neurocoder: Learning General-Purpose Computation Using 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2009-11443/record.json
+
 ## Authors
 
 Hung Le, Svetha Venkatesh
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2009-11443/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2009-11443/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Studies the gap between latent visual grounding and explicit coordinate output i
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-11548/record.json
+
 ## Authors
 
 Weiming Li, Yan Shao, Jing Yang, Yujing Lu, Ling Zhong, Yuhan Wang, Min Yu, Tongxiao Ruan, Manni Duan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-11548/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-11548/citation.csl.json
 
 ## Recorded arXiv snapshot
 

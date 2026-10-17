@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2606.02208",
+  "citation-key": "arxiv_2606_02208",
+  "type": "article",
+  "title": "Context-Aware Workflow Decomposition for Automated Mobile UI Annotation Using Multimodal Large Language Models",
+  "URL": "https://arxiv.org/abs/2606.02208v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.02208",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.02208",
+    "identifiers": {
+      "arxiv": "2606.02208"
+    },
+    "first_published_at": "2026-06-01",
+    "record_updated_at": "2026-06-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0b3bc81cb9da22783c39a05f459d242115c05d28c433e88f6e3df74c1a49caf0",
+      "submitted_at": "2026-06-01T13:08:07Z",
+      "updated_at": "2026-06-01T13:08:07Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.02208v1"
+    }
+  },
+  "note": "First published: 2026-06-01; Recorded arXiv version: v1; Recorded version updated: 2026-06-01T13:08:07Z.",
+  "author": [
+    {
+      "literal": "Athar Parvez"
+    },
+    {
+      "literal": "Muhammad Jawad Mufti"
+    },
+    {
+      "literal": "Muqaddas Gull"
+    },
+    {
+      "literal": "Omar Hammad"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.02208",
+  "genre": "preprint",
+  "version": "1"
+}

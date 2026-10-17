@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2603.07978",
+  "citation-key": "arxiv_2603_07978",
+  "type": "article",
+  "title": "OSExpert: Computer-Use Agents Learning Professional Skills via Exploration",
+  "URL": "https://arxiv.org/abs/2603.07978v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.07978",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.07978",
+    "identifiers": {
+      "arxiv": "2603.07978"
+    },
+    "first_published_at": "2026-03-09",
+    "record_updated_at": "2026-03-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "77eb68f31d616b8e542dbb41ada67f28bdc21f29f7da3f04a0077c0fa2d10196",
+      "submitted_at": "2026-03-09T05:27:56Z",
+      "updated_at": "2026-03-09T05:27:56Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.07978v1"
+    }
+  },
+  "note": "First published: 2026-03-09; Recorded arXiv version: v1; Recorded version updated: 2026-03-09T05:27:56Z.",
+  "author": [
+    {
+      "literal": "Jiateng Liu"
+    },
+    {
+      "literal": "Zhenhailong Wang"
+    },
+    {
+      "literal": "Rushi Wang"
+    },
+    {
+      "literal": "Bingxuan Li"
+    },
+    {
+      "literal": "Jeonghwan Kim"
+    },
+    {
+      "literal": "Aditi Tiwari"
+    },
+    {
+      "literal": "Pengfei Yu"
+    },
+    {
+      "literal": "Denghui Zhang"
+    },
+    {
+      "literal": "Heng Ji"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.07978",
+  "genre": "preprint",
+  "version": "1"
+}

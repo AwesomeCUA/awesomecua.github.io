@@ -16,9 +16,16 @@ Introduces GraceBench, using application transition graphs and recorded interact
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced. Android platform tagging is additionally supported by the primary project documentation.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-19900/record.json
+
 ## Authors
 
 Ridong Zhang, Shuxian Liang, Chaoqun Wan, Zhen Huang, Xian-Sheng Hua
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-19900/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-19900/citation.csl.json
 
 ## Recorded arXiv snapshot
 

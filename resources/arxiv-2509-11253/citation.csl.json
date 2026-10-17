@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2509.11253",
+  "citation-key": "arxiv_2509_11253",
+  "type": "article",
+  "title": "VideoAgent: Personalized Synthesis of Scientific Videos",
+  "URL": "https://arxiv.org/abs/2509.11253v2",
+  "custom": {
+    "catalog_id": "arxiv:2509.11253",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.11253",
+    "identifiers": {
+      "arxiv": "2509.11253"
+    },
+    "first_published_at": "2025-09-14",
+    "record_updated_at": "2026-04-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0b2fca1d3d96e2e85d875333b45c0ce99c80e5e5ae33faf90a242f7eefe26817",
+      "submitted_at": "2025-09-14T12:54:21Z",
+      "updated_at": "2026-04-21T04:59:36Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2509.11253v2"
+    }
+  },
+  "note": "First published: 2025-09-14; Recorded arXiv version: v2; Recorded version updated: 2026-04-21T04:59:36Z.",
+  "author": [
+    {
+      "literal": "Xiao Liang"
+    },
+    {
+      "literal": "Bangxin Li"
+    },
+    {
+      "literal": "Zixuan Chen"
+    },
+    {
+      "literal": "Hanyue Zheng"
+    },
+    {
+      "literal": "Zhi Ma"
+    },
+    {
+      "literal": "Di Wang"
+    },
+    {
+      "literal": "Cong Tian"
+    },
+    {
+      "literal": "Quan Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.11253",
+  "genre": "preprint",
+  "version": "2"
+}

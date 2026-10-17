@@ -16,9 +16,16 @@ Introduces EvoGUI, which derives temporal ordering, inverse action/value predict
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-17050/record.json
+
 ## Authors
 
 Yaohan Yang, Minglei Shi, Borui Zhang, Jie Zhou, Jiwen Lu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-17050/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-17050/citation.csl.json
 
 ## Recorded arXiv snapshot
 

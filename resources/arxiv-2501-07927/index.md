@@ -16,9 +16,16 @@ Bibliographic record for Gandalf the Red: Adaptive Security for LLMs. Title, aut
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-07927/record.json
+
 ## Authors
 
 Niklas Pfister, Václav Volhejn, Manuel Knott, Santiago Arias, Julia Bazińska, Mykhailo Bichurin, Alan Commike, Janet Darling, Peter Dienes, Matthew Fiedler, David Haber, Matthias Kraft, Marco Lancini, Max Mathys, Damián Pascual-Ortiz, Jakub Podolak, Adrià Romero-López, Kyriacos Shiarlis, Andreas Signer, Zsolt Terek, Athanasios Theocharis, Daniel Timbrell, Samuel Trautwein, Samuel Watts, Yun-Han Wu, Mateo Rojas-Carulla
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-07927/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-07927/citation.csl.json
 
 ## Recorded arXiv snapshot
 

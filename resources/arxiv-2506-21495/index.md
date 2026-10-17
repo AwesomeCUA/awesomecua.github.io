@@ -16,9 +16,16 @@ Bibliographic record for Bridging Offline and Online Reinforcement Learning for 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-21495/record.json
+
 ## Authors
 
 Jack Lanchantin, Angelica Chen, Janice Lan, Xian Li, Swarnadeep Saha, Tianlu Wang, Jing Xu, Ping Yu, Weizhe Yuan, Jason E Weston, Sainbayar Sukhbaatar, Ilia Kulikov
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-21495/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-21495/citation.csl.json
 
 ## Recorded arXiv snapshot
 

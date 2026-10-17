@@ -16,9 +16,16 @@ Bibliographic record for KnowU-Bench: Towards Interactive, Proactive, and Person
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-08455/record.json
+
 ## Authors
 
 Tongbo Chen, Zhengxi Lu, Zhan Xu, Guocheng Shao, Shaohan Zhao, Fei Tang, Yong Du, Kaitao Song, Yizhou Liu, Yuchen Yan, Wenqi Zhang, Xu Tan, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-08455/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-08455/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Scaling Verifiable Environments for Long-horizon Work A
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-04906/record.json
+
 ## Authors
 
 Jiazheng Zhang, Long Ma, Yunxian Yang, Zhiheng Xi, Zhikai Lei, Yajie Yang, Chenyang Liao, Enyu Zhou, Yang Nan, Yuchen Tian, Senjie Jin, Yibo Wang, Wei He, Boyang Liu, Jixuan Huang, Xin Guo, Shutong Jiang, Zhezheng Hao, Xinbing Liang, Zhihao Zhang, Changzhi Zhou, Wiggin Zhou, Tao Gui, Qi Zhang, Xuanjing Huang, Clarenceai, Aiden Adams
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-04906/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-04906/citation.csl.json
 
 ## Recorded arXiv snapshot
 

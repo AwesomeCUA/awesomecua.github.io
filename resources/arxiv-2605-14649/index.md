@@ -16,9 +16,16 @@ Bibliographic record for Multi-objective application placement in fog computing 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-14649/record.json
+
 ## Authors
 
 Isaac Lera, Carlos Guerrero
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-14649/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-14649/citation.csl.json
 
 ## Recorded arXiv snapshot
 

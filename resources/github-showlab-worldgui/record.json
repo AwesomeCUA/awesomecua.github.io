@@ -1,0 +1,66 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "metrics": [],
+    "task_count": null
+  },
+  "environments": [
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:35:58Z",
+      "role": "primary",
+      "sha256": "ea54ea82b86548ff38913ef328ec18152ace71a3fe9bb497bcabcaad24e6a678",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/showlab/WorldGUI/HEAD/README.md"
+    }
+  ],
+  "id": "github:showlab/worldgui",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-16T06:35:58Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/showlab/WorldGUI"
+    }
+  ],
+  "name": "WorldGUI",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/showlab/WorldGUI/HEAD/README.md",
+      "target_id": "arxiv:2502.08047",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "GUI agent evaluation with varied initial states.",
+  "topics": [
+    "evaluation",
+    "robustness"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/showlab/WorldGUI"
+}

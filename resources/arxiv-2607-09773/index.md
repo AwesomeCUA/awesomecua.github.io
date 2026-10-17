@@ -16,9 +16,16 @@ Bibliographic record for EvoCUA-1.5: Online Reinforcement Learning for Multi-tur
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-09773/record.json
+
 ## Authors
 
 Mianqiu Huang, Taofeng Xue, Chong Peng, Jinrui Ding, Jie Yang, Sicheng Fan, Jiale Hong, Yufei Gao, Xiaocheng Zhang, Linsen Guo, Xin Yang, Dengchang Zhao, Yuchen Xie, Peng Pei, Xunliang Xie, Xipeng Qiu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-09773/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-09773/citation.csl.json
 
 ## Recorded arXiv snapshot
 

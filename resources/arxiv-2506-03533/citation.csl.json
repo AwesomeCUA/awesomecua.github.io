@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2506.03533",
+  "citation-key": "arxiv_2506_03533",
+  "type": "article",
+  "title": "Go-Browse: Training Web Agents with Structured Exploration",
+  "URL": "https://arxiv.org/abs/2506.03533v2",
+  "custom": {
+    "catalog_id": "arxiv:2506.03533",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2506.03533",
+    "identifiers": {
+      "arxiv": "2506.03533"
+    },
+    "first_published_at": "2025-06-04",
+    "record_updated_at": "2026-03-02",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2bccee69e390b5170ff264e689c209d13317e7d3be9b37e6d3fbed0e0d089943",
+      "submitted_at": "2025-06-04T03:27:56Z",
+      "updated_at": "2026-03-02T22:31:00Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2506.03533v2"
+    }
+  },
+  "note": "First published: 2025-06-04; Recorded arXiv version: v2; Recorded version updated: 2026-03-02T22:31:00Z.",
+  "author": [
+    {
+      "literal": "Apurva Gandhi"
+    },
+    {
+      "literal": "Graham Neubig"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.03533",
+  "genre": "preprint",
+  "version": "2"
+}

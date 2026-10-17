@@ -16,9 +16,16 @@ Introduces FCPAgent, which attaches confirming and falsifying evidence to each s
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-24167/record.json
+
 ## Authors
 
 Guangyi Liu, Huan Zhao, Quanming Yao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-24167/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-24167/citation.csl.json
 
 ## Recorded arXiv snapshot
 

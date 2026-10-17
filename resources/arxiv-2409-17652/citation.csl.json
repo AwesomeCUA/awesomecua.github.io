@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2409.17652",
+  "citation-key": "arxiv_2409_17652",
+  "type": "article",
+  "title": "FactorSim: Generative Simulation via Factorized Representation",
+  "URL": "https://arxiv.org/abs/2409.17652v2",
+  "custom": {
+    "catalog_id": "arxiv:2409.17652",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2409.17652",
+    "identifiers": {
+      "arxiv": "2409.17652"
+    },
+    "first_published_at": "2024-09-26",
+    "record_updated_at": "2024-11-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f85da331d3960044260b572a9a00b8b1bf5a5bfa6e02079817b824c8b2d1d5e1",
+      "submitted_at": "2024-09-26T09:00:30Z",
+      "updated_at": "2024-11-11T08:16:40Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2409.17652v2"
+    }
+  },
+  "note": "First published: 2024-09-26; Recorded arXiv version: v2; Recorded version updated: 2024-11-11T08:16:40Z.",
+  "author": [
+    {
+      "literal": "Fan-Yun Sun"
+    },
+    {
+      "literal": "S. I. Harini"
+    },
+    {
+      "literal": "Angela Yi"
+    },
+    {
+      "literal": "Yihan Zhou"
+    },
+    {
+      "literal": "Alex Zook"
+    },
+    {
+      "literal": "Jonathan Tremblay"
+    },
+    {
+      "literal": "Logan Cross"
+    },
+    {
+      "literal": "Jiajun Wu"
+    },
+    {
+      "literal": "Nick Haber"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2409.17652",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2604.15309",
+  "citation-key": "arxiv_2604_15309",
+  "type": "article",
+  "title": "MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
+  "URL": "https://arxiv.org/abs/2604.15309v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.15309",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.15309",
+    "identifiers": {
+      "arxiv": "2604.15309"
+    },
+    "first_published_at": "2026-04-16",
+    "record_updated_at": "2026-04-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b178f722a69c4761bdc09f8a45665abb5d7936119215e362c80f357a1502f8f3",
+      "submitted_at": "2026-04-16T17:59:49Z",
+      "updated_at": "2026-04-16T17:59:49Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.15309v1"
+    }
+  },
+  "note": "First published: 2026-04-16; Recorded arXiv version: v1; Recorded version updated: 2026-04-16T17:59:49Z.",
+  "author": [
+    {
+      "literal": "Yan Li"
+    },
+    {
+      "literal": "Zezi Zeng"
+    },
+    {
+      "literal": "Yifan Yang"
+    },
+    {
+      "literal": "Yuqing Yang"
+    },
+    {
+      "literal": "Ning Liao"
+    },
+    {
+      "literal": "Weiwei Guo"
+    },
+    {
+      "literal": "Lili Qiu"
+    },
+    {
+      "literal": "Mingxi Cheng"
+    },
+    {
+      "literal": "Qi Dai"
+    },
+    {
+      "literal": "Zhendong Wang"
+    },
+    {
+      "literal": "Zhengyuan Yang"
+    },
+    {
+      "literal": "Xue Yang"
+    },
+    {
+      "literal": "Ji Li"
+    },
+    {
+      "literal": "Lijuan Wang"
+    },
+    {
+      "literal": "Chong Luo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.15309",
+  "genre": "preprint",
+  "version": "1"
+}

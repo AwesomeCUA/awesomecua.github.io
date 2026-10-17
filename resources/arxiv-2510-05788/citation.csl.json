@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2510.05788",
+  "citation-key": "arxiv_2510_05788",
+  "type": "article",
+  "title": "Mellum: Production-Grade in-IDE Contextual Code Completion with Multi-File Project Understanding",
+  "URL": "https://arxiv.org/abs/2510.05788v1",
+  "custom": {
+    "catalog_id": "arxiv:2510.05788",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.05788",
+    "identifiers": {
+      "arxiv": "2510.05788"
+    },
+    "first_published_at": "2025-10-07",
+    "record_updated_at": "2025-10-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bbeceac03b5f51a3e59710c9d8d1287b217d98f084714fa42f00f3fbeefd3484",
+      "submitted_at": "2025-10-07T11:09:11Z",
+      "updated_at": "2025-10-07T11:09:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2510.05788v1"
+    }
+  },
+  "note": "First published: 2025-10-07; Recorded arXiv version: v1; Recorded version updated: 2025-10-07T11:09:11Z.",
+  "author": [
+    {
+      "literal": "Nikita Pavlichenko"
+    },
+    {
+      "literal": "Iurii Nazarov"
+    },
+    {
+      "literal": "Ivan Dolgov"
+    },
+    {
+      "literal": "Ekaterina Garanina"
+    },
+    {
+      "literal": "Dmitry Ustalov"
+    },
+    {
+      "literal": "Ivan Bondyrev"
+    },
+    {
+      "literal": "Kseniia Lysaniuk"
+    },
+    {
+      "literal": "Evgeniia Vu"
+    },
+    {
+      "literal": "Kirill Chekmenev"
+    },
+    {
+      "literal": "Joseph Shtok"
+    },
+    {
+      "literal": "Yaroslav Golubev"
+    },
+    {
+      "literal": "Anton Semenkin"
+    },
+    {
+      "literal": "Uladzislau Sazanovich"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.05788",
+  "genre": "preprint",
+  "version": "1"
+}

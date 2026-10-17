@@ -1,0 +1,69 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:40:54Z",
+      "role": "primary",
+      "sha256": "42bf4aea8369ac2909bf27bcb1078756c2c26567e2b46284c8f3a9e4c4f636c1",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/OS-Copilot/OS-Sentinel/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:07Z",
+      "role": "primary",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/OS-Copilot/OS-Sentinel/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:os-copilot/os-sentinel",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-16T06:40:54Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T06:42:07Z",
+      "url": "https://raw.githubusercontent.com/OS-Copilot/OS-Sentinel/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/OS-Copilot/OS-Sentinel"
+    }
+  ],
+  "name": "OS-Sentinel",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Safety-oriented research for computer-use agents.",
+  "topics": [
+    "safety-security"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/OS-Copilot/OS-Sentinel"
+}

@@ -16,6 +16,8 @@ GUI grounding data released by the OS-Atlas project.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-0fdeb1cf5f49f84820e6/record.json
+
 ## Structured profile
 
 - formats: JSON annotations, image archives

@@ -16,9 +16,16 @@ Bibliographic record for Octopus v3: Technical Report for On-device Sub-billion 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-11459/record.json
+
 ## Authors
 
 Wei Chen, Zhiyuan Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-11459/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-11459/citation.csl.json
 
 ## Recorded arXiv snapshot
 

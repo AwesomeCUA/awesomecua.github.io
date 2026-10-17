@@ -16,9 +16,16 @@ Bibliographic record for RobustBench: a standardized adversarial robustness benc
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2010-09670/record.json
+
 ## Authors
 
 Francesco Croce, Maksym Andriushchenko, Vikash Sehwag, Edoardo Debenedetti, Nicolas Flammarion, Mung Chiang, Prateek Mittal, Matthias Hein
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2010-09670/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2010-09670/citation.csl.json
 
 ## Recorded arXiv snapshot
 

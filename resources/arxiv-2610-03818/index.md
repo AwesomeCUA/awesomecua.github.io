@@ -16,9 +16,16 @@ Pairs OSWorld tasks with harmful side objectives to evaluate monitors that detec
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-03818/record.json
+
 ## Authors
 
 Maria Sanchez del Rio, Mikhail Terekhov
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-03818/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-03818/citation.csl.json
 
 ## Recorded arXiv snapshot
 

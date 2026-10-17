@@ -16,9 +16,16 @@ Bibliographic record for Template-Based Financial Report Generation in Agentic a
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-14233/record.json
+
 ## Authors
 
 Yong-En Tian, Yu-Chien Tang, Kuang-Da Wang, An-Zi Yen, Wen-Chih Peng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-14233/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-14233/citation.csl.json
 
 ## Recorded arXiv snapshot
 

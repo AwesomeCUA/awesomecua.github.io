@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2009.08123",
+  "citation-key": "arxiv_2009_08123",
+  "type": "article",
+  "title": "DLBCL-Morph: Morphological features computed using deep learning for an annotated digital DLBCL image set",
+  "URL": "https://arxiv.org/abs/2009.08123v3",
+  "custom": {
+    "catalog_id": "arxiv:2009.08123",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2009.08123",
+    "identifiers": {
+      "arxiv": "2009.08123"
+    },
+    "first_published_at": "2020-09-17",
+    "record_updated_at": "2020-09-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7df8b548b51aca03479978db0808a1a301f308626f3acff6cad8cc80f7c51474",
+      "submitted_at": "2020-09-17T07:43:42Z",
+      "updated_at": "2020-09-24T11:02:28Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2009.08123v3"
+    }
+  },
+  "note": "First published: 2020-09-17; Recorded arXiv version: v3; Recorded version updated: 2020-09-24T11:02:28Z.",
+  "author": [
+    {
+      "literal": "Damir Vrabac"
+    },
+    {
+      "literal": "Akshay Smit"
+    },
+    {
+      "literal": "Rebecca Rojansky"
+    },
+    {
+      "literal": "Yasodha Natkunam"
+    },
+    {
+      "literal": "Ranjana H. Advani"
+    },
+    {
+      "literal": "Andrew Y. Ng"
+    },
+    {
+      "literal": "Sebastian Fernandez-Pol"
+    },
+    {
+      "literal": "Pranav Rajpurkar"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        9,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2009.08123",
+  "genre": "preprint",
+  "version": "3"
+}

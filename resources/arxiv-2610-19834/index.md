@@ -16,9 +16,16 @@ Introduces WebKD, which repairs failed student web-agent trajectories with minim
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-19834/record.json
+
 ## Authors
 
 Md Farhan Ishmam, Kenneth Marino
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-19834/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-19834/citation.csl.json
 
 ## Recorded arXiv snapshot
 

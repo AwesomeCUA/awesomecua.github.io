@@ -16,9 +16,16 @@ Bibliographic record for CORNET: Learning Table Formatting Rules By Example. Tit
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2208-06032/record.json
+
 ## Authors
 
 Mukul Singh, José Cambronero, Sumit Gulwani, Vu Le, Carina Negreanu, Mohammad Raza, Gust Verbruggen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2208-06032/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2208-06032/citation.csl.json
 
 ## Recorded arXiv snapshot
 

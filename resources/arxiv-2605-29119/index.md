@@ -16,9 +16,16 @@ Bibliographic record for PRO-CUA: Process-Reward Optimization for Computer Use A
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-29119/record.json
+
 ## Authors
 
 Yifei He, Rui Yang, Hao Bai, Tong Zhang, Han Zhao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-29119/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-29119/citation.csl.json
 
 ## Recorded arXiv snapshot
 

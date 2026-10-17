@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2410.13824",
+  "citation-key": "arxiv_2410_13824",
+  "type": "article",
+  "title": "Harnessing Webpage UIs for Text-Rich Visual Understanding",
+  "URL": "https://arxiv.org/abs/2410.13824v3",
+  "custom": {
+    "catalog_id": "arxiv:2410.13824",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2410.13824",
+    "identifiers": {
+      "arxiv": "2410.13824"
+    },
+    "first_published_at": "2024-10-17",
+    "record_updated_at": "2024-11-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2a3bcd26dff4f1d21a8a2772929c0c97cd1cc180a7606b0744e630dabae94609",
+      "submitted_at": "2024-10-17T17:48:54Z",
+      "updated_at": "2024-11-06T08:29:22Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2410.13824v3"
+    }
+  },
+  "note": "First published: 2024-10-17; Recorded arXiv version: v3; Recorded version updated: 2024-11-06T08:29:22Z.",
+  "author": [
+    {
+      "literal": "Junpeng Liu"
+    },
+    {
+      "literal": "Tianyue Ou"
+    },
+    {
+      "literal": "Yifan Song"
+    },
+    {
+      "literal": "Yuxiao Qu"
+    },
+    {
+      "literal": "Wai Lam"
+    },
+    {
+      "literal": "Chenyan Xiong"
+    },
+    {
+      "literal": "Wenhu Chen"
+    },
+    {
+      "literal": "Graham Neubig"
+    },
+    {
+      "literal": "Xiang Yue"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.13824",
+  "genre": "preprint",
+  "version": "3"
+}

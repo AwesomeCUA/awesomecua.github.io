@@ -16,9 +16,16 @@ Bibliographic record for Big Data Computing Using Cloud-Based Technologies, Chal
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1712-05233/record.json
+
 ## Authors
 
 Samiya Khan, Kashish Ara Shakil, Mansaf Alam
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1712-05233/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1712-05233/citation.csl.json
 
 ## Recorded arXiv snapshot
 

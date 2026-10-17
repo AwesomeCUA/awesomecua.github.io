@@ -16,9 +16,16 @@ RISK combines browser-interaction training data, a benchmark, and reinforcement 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-21982/record.json
+
 ## Authors
 
 Renqi Chen, Zeyin Tao, Jianming Guo, Jingzhe Zhu, Yiheng Peng, Qingqing Sun, Tianyi Zhang, Shuai Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-21982/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-21982/citation.csl.json
 
 ## Recorded arXiv snapshot
 

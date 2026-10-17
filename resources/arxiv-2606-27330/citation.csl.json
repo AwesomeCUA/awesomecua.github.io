@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2606.27330",
+  "citation-key": "arxiv_2606_27330",
+  "type": "article",
+  "title": "Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning",
+  "URL": "https://arxiv.org/abs/2606.27330v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.27330",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.27330",
+    "identifiers": {
+      "arxiv": "2606.27330"
+    },
+    "first_published_at": "2026-06-25",
+    "record_updated_at": "2026-06-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "42166ac3980296a53b56bc4a076634beec36ba885b3260b5d36115b5a5261cd0",
+      "submitted_at": "2026-06-25T17:44:48Z",
+      "updated_at": "2026-06-25T17:44:48Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.27330v1"
+    }
+  },
+  "note": "First published: 2026-06-25; Recorded arXiv version: v1; Recorded version updated: 2026-06-25T17:44:48Z.",
+  "author": [
+    {
+      "literal": "Tianyi Men"
+    },
+    {
+      "literal": "Zhuoran Jin"
+    },
+    {
+      "literal": "Pengfei Cao"
+    },
+    {
+      "literal": "Yubo Chen"
+    },
+    {
+      "literal": "Kang Liu"
+    },
+    {
+      "literal": "Jun Zhao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.27330",
+  "genre": "preprint",
+  "version": "1"
+}

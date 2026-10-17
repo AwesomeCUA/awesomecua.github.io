@@ -16,9 +16,16 @@ Bibliographic record for An Incentive-Based Mechanism for Volunteer Computing us
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2009-11901/record.json
+
 ## Authors
 
 Ismaeel Al Ridhawi, Moayad Aloqaily, Yaser Jararweh
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2009-11901/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2009-11901/citation.csl.json
 
 ## Recorded arXiv snapshot
 

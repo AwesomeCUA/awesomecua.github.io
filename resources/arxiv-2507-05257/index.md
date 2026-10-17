@@ -16,9 +16,16 @@ Bibliographic record for Evaluating Memory in LLM Agents via Incremental Multi-T
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-05257/record.json
+
 ## Authors
 
 Yuanzhe Hu, Yu Wang, Julian McAuley
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-05257/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-05257/citation.csl.json
 
 ## Recorded arXiv snapshot
 

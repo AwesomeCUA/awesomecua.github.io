@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2404.12195",
+  "citation-key": "arxiv_2404_12195",
+  "type": "article",
+  "title": "OpenBezoar: Small, Cost-Effective and Open Models Trained on Mixes of Instruction Data",
+  "URL": "https://arxiv.org/abs/2404.12195v1",
+  "custom": {
+    "catalog_id": "arxiv:2404.12195",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2404.12195",
+    "identifiers": {
+      "arxiv": "2404.12195"
+    },
+    "first_published_at": "2024-04-18",
+    "record_updated_at": "2024-04-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fbd0451584b2c384252c1c9212eb6c6f3cfd35b622ba1976a3fe3419e08bc0e8",
+      "submitted_at": "2024-04-18T13:57:18Z",
+      "updated_at": "2024-04-18T13:57:18Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2404.12195v1"
+    }
+  },
+  "note": "First published: 2024-04-18; Recorded arXiv version: v1; Recorded version updated: 2024-04-18T13:57:18Z.",
+  "author": [
+    {
+      "literal": "Chandeepa Dissanayake"
+    },
+    {
+      "literal": "Lahiru Lowe"
+    },
+    {
+      "literal": "Sachith Gunasekara"
+    },
+    {
+      "literal": "Yasiru Ratnayake"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.12195",
+  "genre": "preprint",
+  "version": "1"
+}

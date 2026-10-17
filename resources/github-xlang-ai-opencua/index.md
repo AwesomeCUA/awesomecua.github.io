@@ -16,6 +16,8 @@ Open computer-use research stack including models and training resources.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-xlang-ai-opencua/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/xlang-ai/OpenCUA/HEAD/LICENSE

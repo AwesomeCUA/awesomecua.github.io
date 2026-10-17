@@ -1,0 +1,96 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/HanXiao1999/UI-Genie-Agent-7B/tree/main",
+    "gated": false,
+    "hub_id": "HanXiao1999/UI-Genie-Agent-7B"
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:03:41Z",
+      "role": "primary",
+      "sha256": "3d4e2deda3e8ecc2e6bbba732c01a84dee2443bb7132ef1aeae444f001d23d69",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/HanXiao1999/UI-Genie-Agent-7B/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:03:41Z",
+      "role": "primary",
+      "sha256": "20e47378595ed007766a135c37fe6709d8853a780ecd5ef56792f0b88c05aeff",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/api/models/HanXiao1999/UI-Genie-Agent-7B"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T04:03:41Z",
+      "role": "primary",
+      "sha256": "3d4e2deda3e8ecc2e6bbba732c01a84dee2443bb7132ef1aeae444f001d23d69",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/HanXiao1999/UI-Genie-Agent-7B/raw/main/README.md"
+    }
+  ],
+  "id": "url:6d959b58bd4a2e98e417",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T04:03:41Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "mit",
+      "retrieved_at": "2026-10-17T04:03:41Z",
+      "url": "https://huggingface.co/HanXiao1999/UI-Genie-Agent-7B/raw/main/README.md"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/HanXiao1999/UI-Genie-Agent-7B"
+    }
+  ],
+  "name": "UI-Genie Agent 7B",
+  "notes": "Four public safetensors shards are present and the card declares MIT. Its training-data metadata/link uses UI-Genie-Agent-5k while prose labels it 16k; no precise training-set relationship or count is asserted across those inconsistent references. Larger announced models are not counted as released.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/HanXiao1999/UI-Genie-Agent-7B/raw/main/README.md",
+      "target_id": "arxiv:2505.21496",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A Qwen2.5-VL mobile action model trained using existing and reward-guided synthetic trajectories from the UI-Genie framework.",
+  "topics": [
+    "mobile-navigation",
+    "imitation-learning",
+    "action-prediction"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/HanXiao1999/UI-Genie-Agent-7B"
+}

@@ -16,9 +16,16 @@ Bibliographic record for LLaDA-UI: Bringing Block-wise Diffusion to Vision-Langu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-13287/record.json
+
 ## Authors
 
 Zhangxuan Gu, Haoxing Chen, Qi Qin, Yi Xin, Kai Gan, Lin Liu, Long Cui, Xiaomei Wang, Beitong Zhou, Yunzhu Zhang, Zhengwen Zeng, Changlong Gao, Weizhi Chen, Rongchao Zhang, Haoyuan Wu, Shuheng Shen, Changhua Meng, Weiqiang Wang, Jianguo Li, Zhenzhong Lan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-13287/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-13287/citation.csl.json
 
 ## Recorded arXiv snapshot
 

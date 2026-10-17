@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2403.02757",
+  "citation-key": "arxiv_2403_02757",
+  "type": "article",
+  "title": "In-Memory Learning: A Declarative Learning Framework for Large Language Models",
+  "URL": "https://arxiv.org/abs/2403.02757v1",
+  "custom": {
+    "catalog_id": "arxiv:2403.02757",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2403.02757",
+    "identifiers": {
+      "arxiv": "2403.02757"
+    },
+    "first_published_at": "2024-03-05",
+    "record_updated_at": "2024-03-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "86bca1cf8f8ee8dee6ed0ec94c2b6a838d84204451dc2f2ff4f20eb41c57e237",
+      "submitted_at": "2024-03-05T08:25:11Z",
+      "updated_at": "2024-03-05T08:25:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2403.02757v1"
+    }
+  },
+  "note": "First published: 2024-03-05; Recorded arXiv version: v1; Recorded version updated: 2024-03-05T08:25:11Z.",
+  "author": [
+    {
+      "literal": "Bo Wang"
+    },
+    {
+      "literal": "Tianxiang Sun"
+    },
+    {
+      "literal": "Hang Yan"
+    },
+    {
+      "literal": "Siyin Wang"
+    },
+    {
+      "literal": "Qingyuan Cheng"
+    },
+    {
+      "literal": "Xipeng Qiu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.02757",
+  "genre": "preprint",
+  "version": "1"
+}

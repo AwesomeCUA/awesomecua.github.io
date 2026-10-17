@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2506.14683",
+  "citation-key": "arxiv_2506_14683",
+  "type": "article",
+  "title": "Unified Software Engineering Agent as AI Software Engineer",
+  "URL": "https://arxiv.org/abs/2506.14683v2",
+  "custom": {
+    "catalog_id": "arxiv:2506.14683",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2506.14683",
+    "identifiers": {
+      "arxiv": "2506.14683"
+    },
+    "first_published_at": "2025-06-17",
+    "record_updated_at": "2025-12-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "25505a98668fe12a13b4868922229fcbf4634ad0104ba7023db0efcf08267c58",
+      "submitted_at": "2025-06-17T16:19:13Z",
+      "updated_at": "2025-12-08T09:06:06Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2506.14683v2"
+    }
+  },
+  "note": "First published: 2025-06-17; Recorded arXiv version: v2; Recorded version updated: 2025-12-08T09:06:06Z.",
+  "author": [
+    {
+      "literal": "Leonhard Applis"
+    },
+    {
+      "literal": "Yuntong Zhang"
+    },
+    {
+      "literal": "Shanchao Liang"
+    },
+    {
+      "literal": "Nan Jiang"
+    },
+    {
+      "literal": "Lin Tan"
+    },
+    {
+      "literal": "Abhik Roychoudhury"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.14683",
+  "genre": "preprint",
+  "version": "2"
+}

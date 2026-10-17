@@ -16,9 +16,16 @@ Bibliographic record for Inducing Task Models from Computer-Use Traces. Title, a
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-20319/record.json
+
 ## Authors
 
 Yucheng Jiang, Zora Zhiruo Wang, Ruishi Chen, Diyi Yang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-20319/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-20319/citation.csl.json
 
 ## Recorded arXiv snapshot
 

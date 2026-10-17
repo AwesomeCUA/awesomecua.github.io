@@ -16,6 +16,8 @@ VideoCADFormer training, action-log preprocessing and evaluation code for learni
 
 Model, data-loader, preprocessing and evaluation source files are released. The reviewed root metadata has no code-license declaration. The README links a checkpoint on Google Drive, but that binary was not fetched or counted as a separate verified model. The source describes CAD software without naming a supported operating system.
 
+- Record JSON: https://awesomecua.github.io/resources/github-udgok-videocad/record.json
+
 ## License declarations
 
 - code: not recorded

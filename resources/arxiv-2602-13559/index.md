@@ -16,9 +16,16 @@ Bibliographic record for OpAgent: Operator Agent for Web Navigation. Title, auth
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-13559/record.json
+
 ## Authors
 
 Yuyu Guo, Wenjie Yang, Siyuan Yang, Ziyang Liu, Cheng Chen, Yuan Wei, Yun Hu, Yang Huang, Guoliang Hao, Dongsheng Yuan, Jianming Wang, Xin Chen, Hang Yu, Lei Lei, Peng Di
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-13559/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-13559/citation.csl.json
 
 ## Recorded arXiv snapshot
 

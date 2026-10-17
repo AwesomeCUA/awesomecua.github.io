@@ -16,9 +16,16 @@ Bibliographic record for Agent-Dice: Disentangling Knowledge Updates via Geometr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-03641/record.json
+
 ## Authors
 
 Zheng Wu, Xingyu Lou, Xinbei Ma, Yansi Li, Weiwen Liu, Weinan Zhang, Jun Wang, Zhuosheng Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-03641/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-03641/citation.csl.json
 
 ## Recorded arXiv snapshot
 

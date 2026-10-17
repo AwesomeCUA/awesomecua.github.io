@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2504.01377",
+  "citation-key": "arxiv_2504_01377",
+  "type": "article",
+  "title": "Large-scale Evaluation of Notebook Checkpointing with AI Agents",
+  "URL": "https://arxiv.org/abs/2504.01377v1",
+  "custom": {
+    "catalog_id": "arxiv:2504.01377",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2504.01377",
+    "identifiers": {
+      "arxiv": "2504.01377"
+    },
+    "first_published_at": "2025-04-02",
+    "record_updated_at": "2025-04-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "450f3f3fb0fa31a44b8806678c84bfcd821564973f5af8d50c5b7090a3cf2206",
+      "submitted_at": "2025-04-02T05:41:12Z",
+      "updated_at": "2025-04-02T05:41:12Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2504.01377v1"
+    }
+  },
+  "note": "First published: 2025-04-02; Recorded arXiv version: v1; Recorded version updated: 2025-04-02T05:41:12Z.",
+  "author": [
+    {
+      "literal": "Hanxi Fang"
+    },
+    {
+      "literal": "Supawit Chockchowwat"
+    },
+    {
+      "literal": "Hari Sundaram"
+    },
+    {
+      "literal": "Yongjoo Park"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.01377",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Bibliographic record for State dependent computation using coupled recurrent net
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-0809-4296/record.json
+
 ## Authors
 
 Ueli Rutishauser, Rodney J. Douglas
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-0809-4296/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-0809-4296/citation.csl.json
 
 ## Recorded arXiv snapshot
 

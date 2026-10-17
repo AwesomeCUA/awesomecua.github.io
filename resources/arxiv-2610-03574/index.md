@@ -16,9 +16,16 @@ Bibliographic record for HyperBrowseComp: A Multilingual and Multimodal Stress T
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-03574/record.json
+
 ## Authors
 
 Alham Fikri Aji, Faiz Rizki Ramadhan, Zayd M. K. Zuhri, Seung Hun Eddie Han, Ryandito Diandaru, Qinrong Cui, Jan Christian Blaise Cruz, Badrinath Chandana, Peerawat Chomphooyod, Ahmed Attia, Jonibek Mansurov, Emilio Villa-Cueva, Canh Duong Nguyen, Imran Turganov, Minghao Wu, Peerat Limkonchotiwat, Irina Nikishina
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-03574/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-03574/citation.csl.json
 
 ## Recorded arXiv snapshot
 

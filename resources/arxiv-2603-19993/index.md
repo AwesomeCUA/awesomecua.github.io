@@ -16,9 +16,16 @@ Benchmarks sequential target localization in clinical software workflows, emphas
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-19993/record.json
+
 ## Authors
 
 Rozain Shakeel, Abdul Rahman Mohammad Ali, Muneeb Mushtaq, Tausifa Jan Saleem, Tajamul Ashraf
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-19993/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-19993/citation.csl.json
 
 ## Recorded arXiv snapshot
 

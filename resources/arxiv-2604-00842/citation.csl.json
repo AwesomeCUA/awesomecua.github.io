@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2604.00842",
+  "citation-key": "arxiv_2604_00842",
+  "type": "article",
+  "title": "Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants",
+  "URL": "https://arxiv.org/abs/2604.00842v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.00842",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.00842",
+    "identifiers": {
+      "arxiv": "2604.00842"
+    },
+    "first_published_at": "2026-04-01",
+    "record_updated_at": "2026-04-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2ae0f95c0c5ee3ca8a9eaf417143fb038f6f37f229a18eadffa8c1ade44a14c7",
+      "submitted_at": "2026-04-01T12:53:01Z",
+      "updated_at": "2026-04-01T12:53:01Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.00842v1"
+    }
+  },
+  "note": "First published: 2026-04-01; Recorded arXiv version: v1; Recorded version updated: 2026-04-01T12:53:01Z.",
+  "author": [
+    {
+      "literal": "Deepak Nathani"
+    },
+    {
+      "literal": "Cheng Zhang"
+    },
+    {
+      "literal": "Chang Huan"
+    },
+    {
+      "literal": "Jiaming Shan"
+    },
+    {
+      "literal": "Yinfei Yang"
+    },
+    {
+      "literal": "Alkesh Patel"
+    },
+    {
+      "literal": "Zhe Gan"
+    },
+    {
+      "literal": "William Yang Wang"
+    },
+    {
+      "literal": "Michael Saxon"
+    },
+    {
+      "literal": "Xin Eric Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.00842",
+  "genre": "preprint",
+  "version": "1"
+}

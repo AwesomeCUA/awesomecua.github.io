@@ -16,6 +16,8 @@ Managed web scraping platform with reusable browser interaction workflows.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-7ae2670859e3796e8607/record.json
+
 ## License declarations
 
 - code: not recorded

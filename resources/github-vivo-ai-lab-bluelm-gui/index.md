@@ -16,6 +16,8 @@ Mobile GUI agent research release with technical report, benchmark data, and eva
 
 The repository lists the agent as in-house. Public model weights were not established by this review; linked benchmark assets have their own access terms.
 
+- Record JSON: https://awesomecua.github.io/resources/github-vivo-ai-lab-bluelm-gui/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/vivo-ai-lab/BlueLM-GUI/HEAD/LICENSE

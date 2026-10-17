@@ -1,0 +1,76 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:02Z",
+      "role": "primary",
+      "sha256": "ac94cca1f69807d2d31d30bd5521fbf1bda6155996881054df87a85522cd8f5b",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/TencentQQGYLab/AppAgent/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:03Z",
+      "role": "primary",
+      "sha256": "d9e2b107cbaa3599336510dbb6703cb30210f1b4345221e76cf75cba85c2d113",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/TencentQQGYLab/AppAgent/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:tencentqqgylab/appagent",
+  "identifiers": {},
+  "kind": "agent",
+  "last_verified_at": "2026-10-16T06:36:02Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-16T06:42:03Z",
+      "url": "https://raw.githubusercontent.com/TencentQQGYLab/AppAgent/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/TencentQQGYLab/AppAgent"
+    }
+  ],
+  "name": "AppAgent",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/TencentQQGYLab/AppAgent/HEAD/README.md",
+      "target_id": "arxiv:2312.13771",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Mobile app agent using exploration and reusable knowledge.",
+  "topics": [
+    "mobile-navigation",
+    "memory"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/TencentQQGYLab/AppAgent"
+}

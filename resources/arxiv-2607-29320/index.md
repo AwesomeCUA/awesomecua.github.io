@@ -16,9 +16,16 @@ Bibliographic record for MAGA: Multi-Platform Self-Fusion of GUI Agents via Stru
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-29320/record.json
+
 ## Authors
 
 Hang Yan, Zhangxuan GU, Beitong Zhou, Jiaxuan Chen, Runze Li, Yusong Hu, Shuheng Shen, Changhua Meng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-29320/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-29320/citation.csl.json
 
 ## Recorded arXiv snapshot
 

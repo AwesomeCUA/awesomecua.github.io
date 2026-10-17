@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2402.15235",
+  "citation-key": "arxiv_2402_15235",
+  "type": "article",
+  "title": "MACRec: a Multi-Agent Collaboration Framework for Recommendation",
+  "URL": "https://arxiv.org/abs/2402.15235v3",
+  "custom": {
+    "catalog_id": "arxiv:2402.15235",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2402.15235",
+    "identifiers": {
+      "arxiv": "2402.15235"
+    },
+    "first_published_at": "2024-02-23",
+    "record_updated_at": "2024-11-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2f8d3b182658e13c5d0df41623eff76fbe011db0b7291de3b56528e70f245266",
+      "submitted_at": "2024-02-23T09:57:20Z",
+      "updated_at": "2024-11-01T02:00:49Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2402.15235v3"
+    }
+  },
+  "note": "First published: 2024-02-23; Recorded arXiv version: v3; Recorded version updated: 2024-11-01T02:00:49Z.",
+  "author": [
+    {
+      "literal": "Zhefan Wang"
+    },
+    {
+      "literal": "Yuanqing Yu"
+    },
+    {
+      "literal": "Wendi Zheng"
+    },
+    {
+      "literal": "Weizhi Ma"
+    },
+    {
+      "literal": "Min Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.15235",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2505.20013",
+  "citation-key": "arxiv_2505_20013",
+  "type": "article",
+  "title": "WebCoT: Enhancing Web Agent Reasoning by Reconstructing Chain-of-Thought in Reflection, Branching, and Rollback",
+  "URL": "https://arxiv.org/abs/2505.20013v2",
+  "custom": {
+    "catalog_id": "arxiv:2505.20013",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.20013",
+    "identifiers": {
+      "arxiv": "2505.20013"
+    },
+    "first_published_at": "2025-05-26",
+    "record_updated_at": "2025-09-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "171071f26a6dc8b9c8851d2f11d60b113983191c905631e431f352711e0d0e26",
+      "submitted_at": "2025-05-26T14:03:37Z",
+      "updated_at": "2025-09-18T11:32:15Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2505.20013v2"
+    }
+  },
+  "note": "First published: 2025-05-26; Recorded arXiv version: v2; Recorded version updated: 2025-09-18T11:32:15Z.",
+  "author": [
+    {
+      "literal": "Minda Hu"
+    },
+    {
+      "literal": "Tianqing Fang"
+    },
+    {
+      "literal": "Jianshu Zhang"
+    },
+    {
+      "literal": "Junyu Ma"
+    },
+    {
+      "literal": "Zhisong Zhang"
+    },
+    {
+      "literal": "Jingyan Zhou"
+    },
+    {
+      "literal": "Hongming Zhang"
+    },
+    {
+      "literal": "Haitao Mi"
+    },
+    {
+      "literal": "Dong Yu"
+    },
+    {
+      "literal": "Irwin King"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.20013",
+  "genre": "preprint",
+  "version": "2"
+}

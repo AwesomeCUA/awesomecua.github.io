@@ -16,9 +16,16 @@ Bibliographic record for MobileExperts: A Dynamic Tool-Enabled Agent Team in Mob
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-03913/record.json
+
 ## Authors
 
 Jiayi Zhang, Chuang Zhao, Yihan Zhao, Zhaoyang Yu, Ming He, Jianping Fan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-03913/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-03913/citation.csl.json
 
 ## Recorded arXiv snapshot
 

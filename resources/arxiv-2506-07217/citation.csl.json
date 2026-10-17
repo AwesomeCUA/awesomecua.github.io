@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2506.07217",
+  "citation-key": "arxiv_2506_07217",
+  "type": "article",
+  "title": "BIMgent: Towards Autonomous Building Modeling via Computer-use Agents",
+  "URL": "https://arxiv.org/abs/2506.07217v2",
+  "custom": {
+    "catalog_id": "arxiv:2506.07217",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2506.07217",
+    "identifiers": {
+      "arxiv": "2506.07217"
+    },
+    "first_published_at": "2025-06-08",
+    "record_updated_at": "2025-06-30",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2bf4f91de32fdf3bd9b81ba64ace02e4a7d02ff094794f30dfd560389f334cea",
+      "submitted_at": "2025-06-08T16:45:31Z",
+      "updated_at": "2025-06-30T08:31:07Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2506.07217v2"
+    }
+  },
+  "note": "First published: 2025-06-08; Recorded arXiv version: v2; Recorded version updated: 2025-06-30T08:31:07Z.",
+  "author": [
+    {
+      "literal": "Zihan Deng"
+    },
+    {
+      "literal": "Changyu Du"
+    },
+    {
+      "literal": "Stavros Nousias"
+    },
+    {
+      "literal": "André Borrmann"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.07217",
+  "genre": "preprint",
+  "version": "2"
+}

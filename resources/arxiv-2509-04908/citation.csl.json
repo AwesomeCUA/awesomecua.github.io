@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2509.04908",
+  "citation-key": "arxiv_2509_04908",
+  "type": "article",
+  "title": "SparkUI-Parser: Enhancing GUI Perception with Robust Grounding and Parsing",
+  "URL": "https://arxiv.org/abs/2509.04908v1",
+  "custom": {
+    "catalog_id": "arxiv:2509.04908",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.04908",
+    "identifiers": {
+      "arxiv": "2509.04908"
+    },
+    "first_published_at": "2025-09-05",
+    "record_updated_at": "2025-09-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f74081d31c98d18e10a5febc5de436a3788fc4156215e4be8fc54b1c53260f58",
+      "submitted_at": "2025-09-05T08:24:12Z",
+      "updated_at": "2025-09-05T08:24:12Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2509.04908v1"
+    }
+  },
+  "note": "First published: 2025-09-05; Recorded arXiv version: v1; Recorded version updated: 2025-09-05T08:24:12Z.",
+  "author": [
+    {
+      "literal": "Hongyi Jing"
+    },
+    {
+      "literal": "Jiafu Chen"
+    },
+    {
+      "literal": "Chen Rao"
+    },
+    {
+      "literal": "Ziqiang Dang"
+    },
+    {
+      "literal": "Jiajie Teng"
+    },
+    {
+      "literal": "Tianyi Chu"
+    },
+    {
+      "literal": "Juncheng Mo"
+    },
+    {
+      "literal": "Shuo Fang"
+    },
+    {
+      "literal": "Huaizhong Lin"
+    },
+    {
+      "literal": "Rui Lv"
+    },
+    {
+      "literal": "Chenguang Ma"
+    },
+    {
+      "literal": "Lei Zhao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.04908",
+  "genre": "preprint",
+  "version": "1"
+}

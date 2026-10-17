@@ -16,9 +16,16 @@ Introduces AgentHorizon, a benchmark for judging long computer-use trajectories 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-11050/record.json
+
 ## Authors
 
 Xing Han Lù, Dheeraj Vattikonda, Sina Hajimiri, Fatemeh Pesaran Zadeh, Parishad BehnamGhader, Ghazwa Darwiche, Amirhossein Kazemnejad, Christopher Pal, Alexandre Drouin, Siva Reddy
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-11050/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-11050/citation.csl.json
 
 ## Recorded arXiv snapshot
 

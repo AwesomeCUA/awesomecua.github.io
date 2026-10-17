@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2508.05294",
+  "citation-key": "arxiv_2508_05294",
+  "type": "article",
+  "title": "Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction",
+  "URL": "https://arxiv.org/abs/2508.05294v4",
+  "custom": {
+    "catalog_id": "arxiv:2508.05294",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.05294",
+    "identifiers": {
+      "arxiv": "2508.05294"
+    },
+    "first_published_at": "2025-08-07",
+    "record_updated_at": "2025-11-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "62076930f3b9024f3de7f8e1e3230d32cef98f16d00001ae3f3eefe58b20615f",
+      "submitted_at": "2025-08-07T11:48:03Z",
+      "updated_at": "2025-11-12T19:04:19Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2508.05294v4"
+    }
+  },
+  "note": "First published: 2025-08-07; Recorded arXiv version: v4; Recorded version updated: 2025-11-12T19:04:19Z.",
+  "author": [
+    {
+      "literal": "Sahar Salimpour"
+    },
+    {
+      "literal": "Lei Fu"
+    },
+    {
+      "literal": "Kajetan Rachwał"
+    },
+    {
+      "literal": "Pascal Bertrand"
+    },
+    {
+      "literal": "Kevin O'Sullivan"
+    },
+    {
+      "literal": "Robert Jakob"
+    },
+    {
+      "literal": "Farhad Keramat"
+    },
+    {
+      "literal": "Leonardo Militano"
+    },
+    {
+      "literal": "Giovanni Toffetti"
+    },
+    {
+      "literal": "Harry Edelman"
+    },
+    {
+      "literal": "Jorge Peña Queralta"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.05294",
+  "genre": "preprint",
+  "version": "4"
+}

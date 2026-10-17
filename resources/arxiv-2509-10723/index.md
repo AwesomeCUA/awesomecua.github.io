@@ -16,9 +16,16 @@ Bibliographic record for Dark Patterns Meet GUI Agents: LLM Agent Susceptibility
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-10723/record.json
+
 ## Authors
 
 Jingyu Tang, Chaoran Chen, Jiawen Li, Zhiping Zhang, Bingcan Guo, Ibrahim Khalilov, Simret Araya Gebreegziabher, Bingsheng Yao, Dakuo Wang, Yanfang Ye, Tianshi Li, Ziang Xiao, Yaxing Yao, Toby Jia-Jun Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-10723/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-10723/citation.csl.json
 
 ## Recorded arXiv snapshot
 

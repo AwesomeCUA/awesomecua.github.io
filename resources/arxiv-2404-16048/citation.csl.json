@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2404.16048",
+  "citation-key": "arxiv_2404_16048",
+  "type": "article",
+  "title": "GUIDE: Graphical User Interface Data for Execution",
+  "URL": "https://arxiv.org/abs/2404.16048v2",
+  "custom": {
+    "catalog_id": "arxiv:2404.16048",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2404.16048",
+    "identifiers": {
+      "arxiv": "2404.16048"
+    },
+    "first_published_at": "2024-04-09",
+    "record_updated_at": "2024-10-27",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e29d14a41d59942c88938b8e83217484a1cb619847c5dff0ec1f516095ee5654",
+      "submitted_at": "2024-04-09T11:59:41Z",
+      "updated_at": "2024-10-27T05:54:50Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2404.16048v2"
+    }
+  },
+  "note": "First published: 2024-04-09; Recorded arXiv version: v2; Recorded version updated: 2024-10-27T05:54:50Z.",
+  "author": [
+    {
+      "literal": "Rajat Chawla"
+    },
+    {
+      "literal": "Adarsh Jha"
+    },
+    {
+      "literal": "Muskaan Kumar"
+    },
+    {
+      "literal": "Mukunda NS"
+    },
+    {
+      "literal": "Ishaan Bhola"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.16048",
+  "genre": "preprint",
+  "version": "2"
+}

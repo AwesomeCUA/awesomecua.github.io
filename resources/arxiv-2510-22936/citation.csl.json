@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2510.22936",
+  "citation-key": "arxiv_2510_22936",
+  "type": "article",
+  "title": "PPE: Positional Preservation Embedding for Token Compression in Multimodal Large Language Models",
+  "URL": "https://arxiv.org/abs/2510.22936v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.22936",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.22936",
+    "identifiers": {
+      "arxiv": "2510.22936"
+    },
+    "first_published_at": "2025-10-27",
+    "record_updated_at": "2026-02-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "73a5fd857411428c5b9f8e53c7c6200452a1e06ad850f31dc99e1e14f798462e",
+      "submitted_at": "2025-10-27T02:40:02Z",
+      "updated_at": "2026-02-05T08:25:22Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.22936v2"
+    }
+  },
+  "note": "First published: 2025-10-27; Recorded arXiv version: v2; Recorded version updated: 2026-02-05T08:25:22Z.",
+  "author": [
+    {
+      "literal": "Mouxiao Huang"
+    },
+    {
+      "literal": "Borui Jiang"
+    },
+    {
+      "literal": "Dehua Zheng"
+    },
+    {
+      "literal": "Hailin Hu"
+    },
+    {
+      "literal": "Kai Han"
+    },
+    {
+      "literal": "Xinghao Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.22936",
+  "genre": "preprint",
+  "version": "2"
+}

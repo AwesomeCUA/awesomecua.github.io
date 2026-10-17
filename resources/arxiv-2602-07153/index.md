@@ -16,9 +16,16 @@ Bibliographic record for ANCHOR: Branch-Point Data Generation for GUI Agents. Ti
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-07153/record.json
+
 ## Authors
 
 Jinbiao Wei, Yilun Zhao, Kangqi Ni, Arman Cohan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-07153/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-07153/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2606.03236",
+  "citation-key": "arxiv_2606_03236",
+  "type": "article",
+  "title": "Perceive Before Reasoning: A Pre-Reasoning Perception Framework for Efficient and Reliable Proactive Mobile Agents",
+  "URL": "https://arxiv.org/abs/2606.03236v2",
+  "custom": {
+    "catalog_id": "arxiv:2606.03236",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.03236",
+    "identifiers": {
+      "arxiv": "2606.03236"
+    },
+    "first_published_at": "2026-06-02",
+    "record_updated_at": "2026-08-31",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "df42655cf7b061c55e50014ac1b66fb6580e9f54aac1efd0aa6c7f108b900a26",
+      "submitted_at": "2026-06-02T06:54:02Z",
+      "updated_at": "2026-08-31T12:02:52Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2606.03236v2"
+    }
+  },
+  "note": "First published: 2026-06-02; Recorded arXiv version: v2; Recorded version updated: 2026-08-31T12:02:52Z.",
+  "author": [
+    {
+      "literal": "Zhijie Ding"
+    },
+    {
+      "literal": "Weinan Hong"
+    },
+    {
+      "literal": "Zicheng Zhu"
+    },
+    {
+      "literal": "Lei Li"
+    },
+    {
+      "literal": "Dezhi Kong"
+    },
+    {
+      "literal": "Hao Wang"
+    },
+    {
+      "literal": "Peng Zhou"
+    },
+    {
+      "literal": "Xuchu Jiang"
+    },
+    {
+      "literal": "Jiaming Xu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.03236",
+  "genre": "preprint",
+  "version": "2"
+}

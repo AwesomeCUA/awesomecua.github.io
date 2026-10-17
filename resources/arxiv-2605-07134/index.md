@@ -16,9 +16,16 @@ Bibliographic record for Region4Web: Rethinking Observation Space Granularity fo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-07134/record.json
+
 ## Authors
 
 Donguk Kwon, Dongha Lee
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-07134/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-07134/citation.csl.json
 
 ## Recorded arXiv snapshot
 

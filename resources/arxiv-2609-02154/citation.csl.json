@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2609.02154",
+  "citation-key": "arxiv_2609_02154",
+  "type": "article",
+  "title": "WiP: Characterizing and Defending Against Mobile-Agent-Driven MFA Automation",
+  "URL": "https://arxiv.org/abs/2609.02154v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.02154",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.02154",
+    "identifiers": {
+      "arxiv": "2609.02154"
+    },
+    "first_published_at": "2026-09-02",
+    "record_updated_at": "2026-09-02",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b462dddd45e6b04a3bf6fa0bc73576a23a5f9617f61aeb257a845c0f456f731d",
+      "submitted_at": "2026-09-02T06:06:43Z",
+      "updated_at": "2026-09-02T06:06:43Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.02154v1"
+    }
+  },
+  "note": "First published: 2026-09-02; Recorded arXiv version: v1; Recorded version updated: 2026-09-02T06:06:43Z.",
+  "author": [
+    {
+      "literal": "Yimeng Liu"
+    },
+    {
+      "literal": "Hua Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.02154",
+  "genre": "preprint",
+  "version": "1"
+}

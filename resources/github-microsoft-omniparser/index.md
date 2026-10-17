@@ -16,6 +16,8 @@ Screen parsing tools for visually grounded agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-microsoft-omniparser/record.json
+
 ## License declarations
 
 - code: not recorded

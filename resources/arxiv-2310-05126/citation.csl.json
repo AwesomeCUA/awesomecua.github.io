@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2310.05126",
+  "citation-key": "arxiv_2310_05126",
+  "type": "article",
+  "title": "UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model",
+  "URL": "https://arxiv.org/abs/2310.05126v1",
+  "custom": {
+    "catalog_id": "arxiv:2310.05126",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2310.05126",
+    "identifiers": {
+      "arxiv": "2310.05126"
+    },
+    "first_published_at": "2023-10-08",
+    "record_updated_at": "2023-10-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "39d5cf803efe3abaf70a9b78483bb0e750a8741adec1c4b7f3c05b9754d88560",
+      "submitted_at": "2023-10-08T11:33:09Z",
+      "updated_at": "2023-10-08T11:33:09Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2310.05126v1"
+    }
+  },
+  "note": "First published: 2023-10-08; Recorded arXiv version: v1; Recorded version updated: 2023-10-08T11:33:09Z.",
+  "author": [
+    {
+      "literal": "Jiabo Ye"
+    },
+    {
+      "literal": "Anwen Hu"
+    },
+    {
+      "literal": "Haiyang Xu"
+    },
+    {
+      "literal": "Qinghao Ye"
+    },
+    {
+      "literal": "Ming Yan"
+    },
+    {
+      "literal": "Guohai Xu"
+    },
+    {
+      "literal": "Chenliang Li"
+    },
+    {
+      "literal": "Junfeng Tian"
+    },
+    {
+      "literal": "Qi Qian"
+    },
+    {
+      "literal": "Ji Zhang"
+    },
+    {
+      "literal": "Qin Jin"
+    },
+    {
+      "literal": "Liang He"
+    },
+    {
+      "literal": "Xin Alex Lin"
+    },
+    {
+      "literal": "Fei Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2310.05126",
+  "genre": "preprint",
+  "version": "1"
+}

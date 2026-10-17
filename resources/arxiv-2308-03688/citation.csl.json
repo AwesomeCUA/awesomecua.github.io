@@ -1,0 +1,109 @@
+{
+  "id": "arxiv:2308.03688",
+  "citation-key": "arxiv_2308_03688",
+  "type": "article",
+  "title": "AgentBench: Evaluating LLMs as Agents",
+  "URL": "https://arxiv.org/abs/2308.03688v3",
+  "custom": {
+    "catalog_id": "arxiv:2308.03688",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2308.03688",
+    "identifiers": {
+      "arxiv": "2308.03688"
+    },
+    "first_published_at": "2023-08-07",
+    "record_updated_at": "2025-10-04",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d8c4ba4db4aeed3a7b7ce7f77d610d7e34b0e8db26a36463e2c0bdffcad8f22a",
+      "submitted_at": "2023-08-07T16:08:11Z",
+      "updated_at": "2025-10-04T03:54:18Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2308.03688v3"
+    }
+  },
+  "note": "First published: 2023-08-07; Recorded arXiv version: v3; Recorded version updated: 2025-10-04T03:54:18Z.",
+  "author": [
+    {
+      "literal": "Xiao Liu"
+    },
+    {
+      "literal": "Hao Yu"
+    },
+    {
+      "literal": "Hanchen Zhang"
+    },
+    {
+      "literal": "Yifan Xu"
+    },
+    {
+      "literal": "Xuanyu Lei"
+    },
+    {
+      "literal": "Hanyu Lai"
+    },
+    {
+      "literal": "Yu Gu"
+    },
+    {
+      "literal": "Hangliang Ding"
+    },
+    {
+      "literal": "Kaiwen Men"
+    },
+    {
+      "literal": "Kejuan Yang"
+    },
+    {
+      "literal": "Shudan Zhang"
+    },
+    {
+      "literal": "Xiang Deng"
+    },
+    {
+      "literal": "Aohan Zeng"
+    },
+    {
+      "literal": "Zhengxiao Du"
+    },
+    {
+      "literal": "Chenhui Zhang"
+    },
+    {
+      "literal": "Sheng Shen"
+    },
+    {
+      "literal": "Tianjun Zhang"
+    },
+    {
+      "literal": "Yu Su"
+    },
+    {
+      "literal": "Huan Sun"
+    },
+    {
+      "literal": "Minlie Huang"
+    },
+    {
+      "literal": "Yuxiao Dong"
+    },
+    {
+      "literal": "Jie Tang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        8,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2308.03688",
+  "genre": "preprint",
+  "version": "3"
+}

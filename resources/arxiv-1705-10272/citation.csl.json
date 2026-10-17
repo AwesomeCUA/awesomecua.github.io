@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:1705.10272",
+  "citation-key": "arxiv_1705_10272",
+  "type": "article",
+  "title": "Who's to say what's funny? A computer using Language Models and Deep Learning, That's Who!",
+  "URL": "https://arxiv.org/abs/1705.10272v1",
+  "custom": {
+    "catalog_id": "arxiv:1705.10272",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1705.10272",
+    "identifiers": {
+      "arxiv": "1705.10272"
+    },
+    "first_published_at": "2017-05-29",
+    "record_updated_at": "2017-05-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "241ae1f89d67ac5f46ddb591ad8225f943afffc8aa4a56e68988b471c2778a7f",
+      "submitted_at": "2017-05-29T16:20:21Z",
+      "updated_at": "2017-05-29T16:20:21Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1705.10272v1"
+    }
+  },
+  "note": "First published: 2017-05-29; Recorded arXiv version: v1; Recorded version updated: 2017-05-29T16:20:21Z.",
+  "author": [
+    {
+      "literal": "Xinru Yan"
+    },
+    {
+      "literal": "Ted Pedersen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2017,
+        5,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1705.10272",
+  "genre": "preprint",
+  "version": "1"
+}

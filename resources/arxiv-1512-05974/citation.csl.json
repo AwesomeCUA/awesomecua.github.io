@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:1512.05974",
+  "citation-key": "arxiv_1512_05974",
+  "type": "article",
+  "title": "Improved Balanced Flow Computation Using Parametric Flow",
+  "URL": "https://arxiv.org/abs/1512.05974v2",
+  "custom": {
+    "catalog_id": "arxiv:1512.05974",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1512.05974",
+    "identifiers": {
+      "arxiv": "1512.05974"
+    },
+    "first_published_at": "2015-12-18",
+    "record_updated_at": "2016-05-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "28af23771f3e341dd126dc42d87be1812607fc29f364614af9bd88d8d8484f47",
+      "submitted_at": "2015-12-18T14:41:01Z",
+      "updated_at": "2016-05-13T11:34:17Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/1512.05974v2"
+    }
+  },
+  "note": "First published: 2015-12-18; Recorded arXiv version: v2; Recorded version updated: 2016-05-13T11:34:17Z.",
+  "author": [
+    {
+      "literal": "Omar Darwish"
+    },
+    {
+      "literal": "Kurt Mehlhorn"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2015,
+        12,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1512.05974",
+  "genre": "preprint",
+  "version": "2"
+}

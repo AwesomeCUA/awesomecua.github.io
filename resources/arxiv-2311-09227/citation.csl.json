@@ -1,0 +1,109 @@
+{
+  "id": "arxiv:2311.09227",
+  "citation-key": "arxiv_2311_09227",
+  "type": "article",
+  "title": "Open-Sourcing Highly Capable Foundation Models: An evaluation of risks, benefits, and alternative methods for pursuing open-source objectives",
+  "URL": "https://arxiv.org/abs/2311.09227v1",
+  "custom": {
+    "catalog_id": "arxiv:2311.09227",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2311.09227",
+    "identifiers": {
+      "arxiv": "2311.09227"
+    },
+    "first_published_at": "2023-09-29",
+    "record_updated_at": "2023-09-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "56f2a50b9bcf7969405d685352e46dda26fe8cc4c63715f83d01f479e068616d",
+      "submitted_at": "2023-09-29T17:03:45Z",
+      "updated_at": "2023-09-29T17:03:45Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2311.09227v1"
+    }
+  },
+  "note": "First published: 2023-09-29; Recorded arXiv version: v1; Recorded version updated: 2023-09-29T17:03:45Z.",
+  "author": [
+    {
+      "literal": "Elizabeth Seger"
+    },
+    {
+      "literal": "Noemi Dreksler"
+    },
+    {
+      "literal": "Richard Moulange"
+    },
+    {
+      "literal": "Emily Dardaman"
+    },
+    {
+      "literal": "Jonas Schuett"
+    },
+    {
+      "literal": "K. Wei"
+    },
+    {
+      "literal": "Christoph Winter"
+    },
+    {
+      "literal": "Mackenzie Arnold"
+    },
+    {
+      "literal": "Seán Ó hÉigeartaigh"
+    },
+    {
+      "literal": "Anton Korinek"
+    },
+    {
+      "literal": "Markus Anderljung"
+    },
+    {
+      "literal": "Ben Bucknall"
+    },
+    {
+      "literal": "Alan Chan"
+    },
+    {
+      "literal": "Eoghan Stafford"
+    },
+    {
+      "literal": "Leonie Koessler"
+    },
+    {
+      "literal": "Aviv Ovadya"
+    },
+    {
+      "literal": "Ben Garfinkel"
+    },
+    {
+      "literal": "Emma Bluemke"
+    },
+    {
+      "literal": "Michael Aird"
+    },
+    {
+      "literal": "Patrick Levermore"
+    },
+    {
+      "literal": "Julian Hazell"
+    },
+    {
+      "literal": "Abhishek Gupta"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.09227",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,106 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/KDEGroup/UI-AGILE/tree/main",
+    "gated": false,
+    "hub_id": "KDEGroup/UI-AGILE"
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:44:30Z",
+      "role": "primary",
+      "sha256": "75aed1ebff7dd54ab1dc0112fe524a118d9e8845c2e079080d2bb7954f7ab36e",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/KDEGroup/UI-AGILE/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:44:29Z",
+      "role": "primary",
+      "sha256": "a52032bb185885d47466f0bea26c15ccefeb8d6ff89f3bacc5eb4192c35d45f7",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/api/models/KDEGroup/UI-AGILE"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:43:19Z",
+      "role": "primary",
+      "sha256": "ce35413bc1ef28338bc6fd9f132fa271a4f5e0bf23cecd7346f54adf0a964fd7",
+      "supports": [
+        "environments"
+      ],
+      "url": "https://huggingface.co/datasets/KDEGroup/UI-AGILE-Data/raw/main/README.md"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T02:44:30Z",
+      "role": "primary",
+      "sha256": "75aed1ebff7dd54ab1dc0112fe524a118d9e8845c2e079080d2bb7954f7ab36e",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/KDEGroup/UI-AGILE/raw/main/README.md"
+    }
+  ],
+  "id": "url:b94e285c3f757e2d0f3a",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T02:44:30Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "mit",
+      "retrieved_at": "2026-10-17T02:44:30Z",
+      "url": "https://huggingface.co/KDEGroup/UI-AGILE/raw/main/README.md"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/KDEGroup/UI-AGILE"
+    }
+  ],
+  "name": "UI-AGILE checkpoint",
+  "notes": "Four safetensors shards and model/tokenizer files are public. The card declares MIT for these weights; the companion dataset has no declared license and is separate. The short card does not state a parameter count, so this entry does not infer one from shard sizes.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/KDEGroup/UI-AGILE/raw/main/README.md",
+      "target_id": "arxiv:2507.22025",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "The released UI-AGILE model for GUI grounding with reward shaping, crop-based resampling and decomposed selection during inference.",
+  "topics": [
+    "grounding",
+    "reinforcement-learning",
+    "efficiency"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/KDEGroup/UI-AGILE"
+}

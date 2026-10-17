@@ -16,9 +16,16 @@ Bibliographic record for MambaIC: State Space Models for High-Performance Learne
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-12461/record.json
+
 ## Authors
 
 Fanhu Zeng, Hao Tang, Yihua Shao, Siyu Chen, Ling Shao, Yan Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-12461/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-12461/citation.csl.json
 
 ## Recorded arXiv snapshot
 

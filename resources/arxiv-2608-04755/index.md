@@ -16,9 +16,16 @@ Bibliographic record for "Allow" to Achieve, Over-Privileged Inadvertently: The 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-04755/record.json
+
 ## Authors
 
 Dongsheng Chen, Yuxuan Li, Guanhua Chen, Jiaxin Zhang, Xiangyu Zhao, Lei Ma, Xin Yao, Xuetao Wei
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-04755/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-04755/citation.csl.json
 
 ## Recorded arXiv snapshot
 

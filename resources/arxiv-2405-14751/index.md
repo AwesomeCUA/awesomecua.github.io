@@ -16,9 +16,16 @@ Bibliographic record for AGILE: A Novel Reinforcement Learning Framework of LLM 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2405-14751/record.json
+
 ## Authors
 
 Peiyuan Feng, Yichen He, Guanhua Huang, Yuan Lin, Hanchong Zhang, Yuchen Zhang, Hang Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2405-14751/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-14751/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2510.20333",
+  "citation-key": "arxiv_2510_20333",
+  "type": "article",
+  "title": "GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?",
+  "URL": "https://arxiv.org/abs/2510.20333v3",
+  "custom": {
+    "catalog_id": "arxiv:2510.20333",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.20333",
+    "identifiers": {
+      "arxiv": "2510.20333"
+    },
+    "first_published_at": "2025-10-23",
+    "record_updated_at": "2026-03-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8582fa41bb5f4d5c464c3bb74285a4ef17545cde34e48e4a1b36cd35937337ae",
+      "submitted_at": "2025-10-23T08:33:24Z",
+      "updated_at": "2026-03-05T06:51:24Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2510.20333v3"
+    }
+  },
+  "note": "First published: 2025-10-23; Recorded arXiv version: v3; Recorded version updated: 2026-03-05T06:51:24Z.",
+  "author": [
+    {
+      "literal": "Chiyu Chen"
+    },
+    {
+      "literal": "Xinhao Song"
+    },
+    {
+      "literal": "Yunkai Chai"
+    },
+    {
+      "literal": "Yang Yao"
+    },
+    {
+      "literal": "Haodong Zhao"
+    },
+    {
+      "literal": "Lijun Li"
+    },
+    {
+      "literal": "Jie Li"
+    },
+    {
+      "literal": "Yan Teng"
+    },
+    {
+      "literal": "Gongshen Liu"
+    },
+    {
+      "literal": "Yingchun Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.20333",
+  "genre": "preprint",
+  "version": "3"
+}

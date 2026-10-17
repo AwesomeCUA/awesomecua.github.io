@@ -16,9 +16,16 @@ Bibliographic record for DRS-GUI: Dynamic Region Search for Training-Free GUI Gr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-15542/record.json
+
 ## Authors
 
 Yichao Liu, Huawen Shen, Liu Yu, Shiyu Liu, Zeyu Chen, Yu Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-15542/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-15542/citation.csl.json
 
 ## Recorded arXiv snapshot
 

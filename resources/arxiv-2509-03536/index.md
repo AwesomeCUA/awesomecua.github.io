@@ -16,9 +16,16 @@ Bibliographic record for PG-Agent: An Agent Powered by Page Graph. Title, author
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-03536/record.json
+
 ## Authors
 
 Weizhi Chen, Ziwei Wang, Leyang Yang, Sheng Zhou, Xiaoxuan Tang, Jiajun Bu, Yong Li, Wei Jiang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-03536/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-03536/citation.csl.json
 
 ## Recorded arXiv snapshot
 

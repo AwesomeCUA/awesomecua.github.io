@@ -16,9 +16,16 @@ Bibliographic record for In-Memory Learning: A Declarative Learning Framework fo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-02757/record.json
+
 ## Authors
 
 Bo Wang, Tianxiang Sun, Hang Yan, Siyin Wang, Qingyuan Cheng, Xipeng Qiu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-02757/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-02757/citation.csl.json
 
 ## Recorded arXiv snapshot
 

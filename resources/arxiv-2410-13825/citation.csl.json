@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2410.13825",
+  "citation-key": "arxiv_2410_13825",
+  "type": "article",
+  "title": "AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents",
+  "URL": "https://arxiv.org/abs/2410.13825v2",
+  "custom": {
+    "catalog_id": "arxiv:2410.13825",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.13825",
+    "identifiers": {
+      "arxiv": "2410.13825"
+    },
+    "first_published_at": "2024-10-17",
+    "record_updated_at": "2025-05-24",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "09268d51b3d810ffc0024ae332d840afc4501c8f6a2017128fca525be4809a13",
+      "submitted_at": "2024-10-17T17:50:38Z",
+      "updated_at": "2025-05-24T03:55:22Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2410.13825v2"
+    }
+  },
+  "note": "First published: 2024-10-17; Recorded arXiv version: v2; Recorded version updated: 2025-05-24T03:55:22Z.",
+  "author": [
+    {
+      "literal": "Ke Yang"
+    },
+    {
+      "literal": "Yao Liu"
+    },
+    {
+      "literal": "Sapana Chaudhary"
+    },
+    {
+      "literal": "Rasool Fakoor"
+    },
+    {
+      "literal": "Pratik Chaudhari"
+    },
+    {
+      "literal": "George Karypis"
+    },
+    {
+      "literal": "Huzefa Rangwala"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.13825",
+  "genre": "preprint",
+  "version": "2"
+}

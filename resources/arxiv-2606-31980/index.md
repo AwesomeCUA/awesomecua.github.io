@@ -16,9 +16,16 @@ DigitalCoach records expert–novice software coaching conversations aligned wit
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-31980/record.json
+
 ## Authors
 
 Meng Chen, Anya Ji, Tsung-Han Wu, Tobias Maringgele, David M. Chan, Alane Suhr, Amy Pavel
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-31980/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-31980/citation.csl.json
 
 ## Recorded arXiv snapshot
 

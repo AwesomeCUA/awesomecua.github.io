@@ -16,9 +16,16 @@ Studies a minimal terminal-based execution framework that lets digital agents co
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-04116/record.json
+
 ## Authors
 
 Yadong Lu, Theodore Lee, Yifei Li, Lawrence Keunho Jang, Tianci Xue, Yu Su, Huan Sun, Ahmed Hassan Awadallah
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-04116/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-04116/citation.csl.json
 
 ## Recorded arXiv snapshot
 

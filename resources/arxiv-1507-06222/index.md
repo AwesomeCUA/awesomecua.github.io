@@ -16,9 +16,16 @@ Bibliographic record for STICK: Spike Time Interval Computational Kernel, A Fram
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1507-06222/record.json
+
 ## Authors
 
 Xavier Lagorce, Ryad Benosman
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1507-06222/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1507-06222/citation.csl.json
 
 ## Recorded arXiv snapshot
 

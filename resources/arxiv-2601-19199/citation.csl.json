@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2601.19199",
+  "citation-key": "arxiv_2601_19199",
+  "type": "article",
+  "title": "MAGNET: Towards Adaptive GUI Agents with Memory-Driven Knowledge Evolution",
+  "URL": "https://arxiv.org/abs/2601.19199v2",
+  "custom": {
+    "catalog_id": "arxiv:2601.19199",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.19199",
+    "identifiers": {
+      "arxiv": "2601.19199"
+    },
+    "first_published_at": "2026-01-27",
+    "record_updated_at": "2026-01-31",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1930b4efca7ee38fc6cd1ceb283c14ed9b1388e7b758b951ba9469ed3067c3e0",
+      "submitted_at": "2026-01-27T04:58:48Z",
+      "updated_at": "2026-01-31T15:17:38Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2601.19199v2"
+    }
+  },
+  "note": "First published: 2026-01-27; Recorded arXiv version: v2; Recorded version updated: 2026-01-31T15:17:38Z.",
+  "author": [
+    {
+      "literal": "Libo Sun"
+    },
+    {
+      "literal": "Jiwen Zhang"
+    },
+    {
+      "literal": "Siyuan Wang"
+    },
+    {
+      "literal": "Zhongyu Wei"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.19199",
+  "genre": "preprint",
+  "version": "2"
+}

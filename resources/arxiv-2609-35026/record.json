@@ -1,0 +1,87 @@
+{
+  "aliases": [],
+  "authors": [
+    "Anton Emelyanov",
+    "Maria Tikhonova",
+    "Zaven Martirosian",
+    "Sergei Averkiev",
+    "Alena Fenogenova"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d5090c6b7879e38102b1180ee1e4dfd1552af777172e2f94bc0f9a684fb59dc7",
+      "submitted_at": "2026-09-28T12:24:23Z",
+      "updated_at": "2026-09-28T12:24:23Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.35026v1"
+    }
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:29Z",
+      "role": "primary",
+      "sha256": "74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:29Z",
+      "role": "primary",
+      "sha256": "74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2609.35026",
+  "identifiers": {
+    "arxiv": "2609.35026"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:29Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2609.35026"
+    }
+  ],
+  "name": "WebPageBench: Event-Level Verification and Controlled UI-Variant Generation for Web Agents",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2026-09-28",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Verifies web tasks through typed interface events and generates controlled UI variations while preserving instructions and success conditions.",
+  "topics": [
+    "evaluation",
+    "robustness"
+  ],
+  "updated_at": "2026-09-28",
+  "url": "https://arxiv.org/abs/2609.35026"
+}

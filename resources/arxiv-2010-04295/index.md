@@ -16,9 +16,16 @@ Introduces crowdsourced descriptions of mobile UI elements and studies multimoda
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2010-04295/record.json
+
 ## Authors
 
 Yang Li, Gang Li, Luheng He, Jingjie Zheng, Hong Li, Zhiwei Guan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2010-04295/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2010-04295/citation.csl.json
 
 ## Recorded arXiv snapshot
 

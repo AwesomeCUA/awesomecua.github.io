@@ -16,9 +16,16 @@ Bibliographic record for Naive Visual Memory is Not Enough: A Failure-Mode Study
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-14106/record.json
+
 ## Authors
 
 Seoyoung Choi, Minseok Ko, Hyunseok Lee, Kunwoong Kim, Woomin Song, Chanseok Jeon, Jinwoo Shin
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-14106/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-14106/citation.csl.json
 
 ## Recorded arXiv snapshot
 

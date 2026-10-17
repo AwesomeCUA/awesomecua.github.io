@@ -16,6 +16,8 @@ Execution-based evaluation of agents performing tasks in real desktop environmen
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-xlang-ai-osworld/record.json
+
 ## Structured profile
 
 - actions: mouse and keyboard via PyAutoGUI

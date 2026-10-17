@@ -16,9 +16,16 @@ Introduces macOS tasks spanning GUI and command-line interaction, with determini
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-22557/record.json
+
 ## Authors
 
 Yikun Fu, Bowen Fu, Zhenyu Wu, Shuang Cheng, Xiaowei Sun, Bowen Yang, Zehao Li, Yibo Zhao, Zichen Ding, Zhoumianze Liu, Shijie Wang, Biqing Qi, Bowen Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-22557/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-22557/citation.csl.json
 
 ## Recorded arXiv snapshot
 

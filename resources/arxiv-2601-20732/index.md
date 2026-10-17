@@ -16,9 +16,16 @@ Bibliographic record for Continual GUI Agents. Title, authors and dates checked 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-20732/record.json
+
 ## Authors
 
 Ziwei Liu, Borui Kang, Hangjie Yuan, Zixiang Zhao, Wei Li, Yifan Zhu, Tao Feng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-20732/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-20732/citation.csl.json
 
 ## Recorded arXiv snapshot
 

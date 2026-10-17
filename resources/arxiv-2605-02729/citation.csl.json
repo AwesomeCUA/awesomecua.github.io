@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2605.02729",
+  "citation-key": "arxiv_2605_02729",
+  "type": "article",
+  "title": "Augmenting Interface Usability Heuristics for Reliable Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2605.02729v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.02729",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.02729",
+    "identifiers": {
+      "arxiv": "2605.02729"
+    },
+    "first_published_at": "2026-05-04",
+    "record_updated_at": "2026-05-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c910dd10dd4bb33bf211f39ce8c1b928ddd5eb3d1cc875503405af9624a01b72",
+      "submitted_at": "2026-05-04T15:28:59Z",
+      "updated_at": "2026-05-04T15:28:59Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.02729v1"
+    }
+  },
+  "note": "First published: 2026-05-04; Recorded arXiv version: v1; Recorded version updated: 2026-05-04T15:28:59Z.",
+  "author": [
+    {
+      "literal": "Jiateng Liu"
+    },
+    {
+      "literal": "Rushi Wang"
+    },
+    {
+      "literal": "Bingxuan Li"
+    },
+    {
+      "literal": "Kunlun Zhu"
+    },
+    {
+      "literal": "Yifan Shen"
+    },
+    {
+      "literal": "Qingyun Wang"
+    },
+    {
+      "literal": "Ahmed Abbasi"
+    },
+    {
+      "literal": "Denghui Zhang"
+    },
+    {
+      "literal": "Heng Ji"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.02729",
+  "genre": "preprint",
+  "version": "1"
+}

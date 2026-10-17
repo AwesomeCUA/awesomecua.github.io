@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2604.04399",
+  "citation-key": "arxiv_2604_04399",
+  "type": "article",
+  "title": "GUIDE: Interpretable GUI Agent Evaluation via Hierarchical Diagnosis",
+  "URL": "https://arxiv.org/abs/2604.04399v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.04399",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.04399",
+    "identifiers": {
+      "arxiv": "2604.04399"
+    },
+    "first_published_at": "2026-04-06",
+    "record_updated_at": "2026-04-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "856e9920aea7d821061b3258b31aa32fd37b5579d628f5507f45ba83f237b77b",
+      "submitted_at": "2026-04-06T03:58:43Z",
+      "updated_at": "2026-04-06T03:58:43Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.04399v1"
+    }
+  },
+  "note": "First published: 2026-04-06; Recorded arXiv version: v1; Recorded version updated: 2026-04-06T03:58:43Z.",
+  "author": [
+    {
+      "literal": "Yuwen Zhai"
+    },
+    {
+      "literal": "Runze Li"
+    },
+    {
+      "literal": "Liang Wang"
+    },
+    {
+      "literal": "Nian Shi"
+    },
+    {
+      "literal": "Liwu Xu"
+    },
+    {
+      "literal": "Wei Zhang"
+    },
+    {
+      "literal": "Ran Lin"
+    },
+    {
+      "literal": "Bo Xu"
+    },
+    {
+      "literal": "Benlei Cui"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.04399",
+  "genre": "preprint",
+  "version": "1"
+}

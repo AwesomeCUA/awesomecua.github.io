@@ -1,0 +1,121 @@
+{
+  "id": "arxiv:2503.06378",
+  "citation-key": "arxiv_2503_06378",
+  "type": "article",
+  "title": "General Scales Unlock AI Evaluation with Explanatory and Predictive Power",
+  "URL": "https://arxiv.org/abs/2503.06378v2",
+  "custom": {
+    "catalog_id": "arxiv:2503.06378",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2503.06378",
+    "identifiers": {
+      "arxiv": "2503.06378"
+    },
+    "first_published_at": "2025-03-09",
+    "record_updated_at": "2025-03-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1163b1f7a4c9216cc549ab2e622fad2144c59c33b2936e99cf16d8db029481c1",
+      "submitted_at": "2025-03-09T01:13:56Z",
+      "updated_at": "2025-03-16T02:28:10Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2503.06378v2"
+    }
+  },
+  "note": "First published: 2025-03-09; Recorded arXiv version: v2; Recorded version updated: 2025-03-16T02:28:10Z.",
+  "author": [
+    {
+      "literal": "Lexin Zhou"
+    },
+    {
+      "literal": "Lorenzo Pacchiardi"
+    },
+    {
+      "literal": "Fernando Martínez-Plumed"
+    },
+    {
+      "literal": "Katherine M. Collins"
+    },
+    {
+      "literal": "Yael Moros-Daval"
+    },
+    {
+      "literal": "Seraphina Zhang"
+    },
+    {
+      "literal": "Qinlin Zhao"
+    },
+    {
+      "literal": "Yitian Huang"
+    },
+    {
+      "literal": "Luning Sun"
+    },
+    {
+      "literal": "Jonathan E. Prunty"
+    },
+    {
+      "literal": "Zongqian Li"
+    },
+    {
+      "literal": "Pablo Sánchez-García"
+    },
+    {
+      "literal": "Kexin Jiang Chen"
+    },
+    {
+      "literal": "Pablo A. M. Casares"
+    },
+    {
+      "literal": "Jiyun Zu"
+    },
+    {
+      "literal": "John Burden"
+    },
+    {
+      "literal": "Behzad Mehrbakhsh"
+    },
+    {
+      "literal": "David Stillwell"
+    },
+    {
+      "literal": "Manuel Cebrian"
+    },
+    {
+      "literal": "Jindong Wang"
+    },
+    {
+      "literal": "Peter Henderson"
+    },
+    {
+      "literal": "Sherry Tongshuang Wu"
+    },
+    {
+      "literal": "Patrick C. Kyllonen"
+    },
+    {
+      "literal": "Lucy Cheke"
+    },
+    {
+      "literal": "Xing Xie"
+    },
+    {
+      "literal": "José Hernández-Orallo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.06378",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,9 +16,16 @@ Introduces GUITestBench for interactive defect discovery and GUITester, which se
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-04500/record.json
+
 ## Authors
 
 Yifei Gao, Jiang Wu, Xiaoyi Chen, Yifan Yang, Zhe Cui, Tianyi Ma, Jiaming Zhang, Jitao Sang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-04500/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-04500/citation.csl.json
 
 ## Recorded arXiv snapshot
 

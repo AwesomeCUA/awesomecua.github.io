@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2507.09481",
+  "citation-key": "arxiv_2507_09481",
+  "type": "article",
+  "title": "Evaluating LLMs on Sequential API Call Through Automated Test Generation",
+  "URL": "https://arxiv.org/abs/2507.09481v2",
+  "custom": {
+    "catalog_id": "arxiv:2507.09481",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2507.09481",
+    "identifiers": {
+      "arxiv": "2507.09481"
+    },
+    "first_published_at": "2025-07-13",
+    "record_updated_at": "2025-12-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b83eb40eb9fa4dcaeba000111982e31fa6fc1eeb517cf2f7ee61d7d70053faf1",
+      "submitted_at": "2025-07-13T03:52:51Z",
+      "updated_at": "2025-12-02T16:25:02Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2507.09481v2"
+    }
+  },
+  "note": "First published: 2025-07-13; Recorded arXiv version: v2; Recorded version updated: 2025-12-02T16:25:02Z.",
+  "author": [
+    {
+      "literal": "Yuheng Huang"
+    },
+    {
+      "literal": "Jiayang Song"
+    },
+    {
+      "literal": "Da Song"
+    },
+    {
+      "literal": "Zhenlan Ji"
+    },
+    {
+      "literal": "Wenhan Wang"
+    },
+    {
+      "literal": "Shuai Wang"
+    },
+    {
+      "literal": "Lei Ma"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.09481",
+  "genre": "preprint",
+  "version": "2"
+}

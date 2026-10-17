@@ -16,9 +16,16 @@ Introduces MoTIF mobile-app interactions with feasible and infeasible commands, 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2202-02312/record.json
+
 ## Authors
 
 Andrea Burns, Deniz Arsan, Sanjna Agrawal, Ranjitha Kumar, Kate Saenko, Bryan A. Plummer
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2202-02312/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2202-02312/citation.csl.json
 
 ## Recorded arXiv snapshot
 

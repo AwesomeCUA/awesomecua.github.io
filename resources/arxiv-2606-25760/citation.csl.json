@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2606.25760",
+  "citation-key": "arxiv_2606_25760",
+  "type": "article",
+  "title": "Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets",
+  "URL": "https://arxiv.org/abs/2606.25760v2",
+  "custom": {
+    "catalog_id": "arxiv:2606.25760",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.25760",
+    "identifiers": {
+      "arxiv": "2606.25760"
+    },
+    "first_published_at": "2026-06-24",
+    "record_updated_at": "2026-09-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "628d08bdbf23ae9e599bf767f0503cecedcde72dfbfcc183f9ea9f044c6f2d44",
+      "submitted_at": "2026-06-24T12:34:28Z",
+      "updated_at": "2026-09-29T20:55:51Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2606.25760v2"
+    }
+  },
+  "note": "First published: 2026-06-24; Recorded arXiv version: v2; Recorded version updated: 2026-09-29T20:55:51Z.",
+  "author": [
+    {
+      "literal": "Divake Kumar"
+    },
+    {
+      "literal": "Sina Tayebati"
+    },
+    {
+      "literal": "Devashri Naik"
+    },
+    {
+      "literal": "Amanda Sofie Rios"
+    },
+    {
+      "literal": "Nilesh Ahuja"
+    },
+    {
+      "literal": "Omesh Tickoo"
+    },
+    {
+      "literal": "Ranganath Krishnan"
+    },
+    {
+      "literal": "Amit Ranjan Trivedi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.25760",
+  "genre": "preprint",
+  "version": "2"
+}

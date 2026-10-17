@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2502.16796",
+  "citation-key": "arxiv_2502_16796",
+  "type": "article",
+  "title": "MobileSteward: Integrating Multiple App-Oriented Agents with Self-Evolution to Automate Cross-App Instructions",
+  "URL": "https://arxiv.org/abs/2502.16796v1",
+  "custom": {
+    "catalog_id": "arxiv:2502.16796",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2502.16796",
+    "identifiers": {
+      "arxiv": "2502.16796"
+    },
+    "first_published_at": "2025-02-24",
+    "record_updated_at": "2025-02-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3522393279755638a2ca417e42a664f17fdad6991b9ce1103f2ef792090d4966",
+      "submitted_at": "2025-02-24T03:12:45Z",
+      "updated_at": "2025-02-24T03:12:45Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2502.16796v1"
+    }
+  },
+  "note": "First published: 2025-02-24; Recorded arXiv version: v1; Recorded version updated: 2025-02-24T03:12:45Z.",
+  "author": [
+    {
+      "literal": "Yuxuan Liu"
+    },
+    {
+      "literal": "Hongda Sun"
+    },
+    {
+      "literal": "Wei Liu"
+    },
+    {
+      "literal": "Jian Luan"
+    },
+    {
+      "literal": "Bo Du"
+    },
+    {
+      "literal": "Rui Yan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.16796",
+  "genre": "preprint",
+  "version": "1"
+}

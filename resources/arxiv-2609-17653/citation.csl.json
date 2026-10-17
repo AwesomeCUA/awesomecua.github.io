@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2609.17653",
+  "citation-key": "arxiv_2609_17653",
+  "type": "article",
+  "title": "Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents",
+  "URL": "https://arxiv.org/abs/2609.17653v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.17653",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.17653",
+    "identifiers": {
+      "arxiv": "2609.17653"
+    },
+    "first_published_at": "2026-09-15",
+    "record_updated_at": "2026-09-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "975662f216cc9a6b89856d4457f2125b733620e80bfac1b6424775253071d2e6",
+      "submitted_at": "2026-09-15T17:24:06Z",
+      "updated_at": "2026-09-15T17:24:06Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.17653v1"
+    }
+  },
+  "note": "First published: 2026-09-15; Recorded arXiv version: v1; Recorded version updated: 2026-09-15T17:24:06Z.",
+  "author": [
+    {
+      "literal": "Bofan Chen"
+    },
+    {
+      "literal": "Boxuan Zhang"
+    },
+    {
+      "literal": "Fei Tang"
+    },
+    {
+      "literal": "Zhengxi Lu"
+    },
+    {
+      "literal": "Yong Du"
+    },
+    {
+      "literal": "Tongbo Chen"
+    },
+    {
+      "literal": "Weiming Lu"
+    },
+    {
+      "literal": "Jun Xiao"
+    },
+    {
+      "literal": "Yueting Zhuang"
+    },
+    {
+      "literal": "Yongliang Shen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.17653",
+  "genre": "preprint",
+  "version": "1"
+}

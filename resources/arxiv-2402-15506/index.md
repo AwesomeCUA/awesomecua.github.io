@@ -16,9 +16,16 @@ Bibliographic record for AgentOhana: Design Unified Data and Training Pipeline f
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-15506/record.json
+
 ## Authors
 
 Jianguo Zhang, Tian Lan, Rithesh Murthy, Zhiwei Liu, Weiran Yao, Ming Zhu, Juntao Tan, Thai Hoang, Zuxin Liu, Liangwei Yang, Yihao Feng, Shirley Kokane, Tulika Awalgaonkar, Juan Carlos Niebles, Silvio Savarese, Shelby Heinecke, Huan Wang, Caiming Xiong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-15506/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-15506/citation.csl.json
 
 ## Recorded arXiv snapshot
 

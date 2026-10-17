@@ -16,6 +16,8 @@ Human-annotated browser-agent trajectories for comparing automated task-success 
 
 Public Parquet configs separate trajectories from per-reviewer annotations. The card declares MIT. The two splits have different review stages: Online-Mind2Web includes blind and verifier-informed annotations, whereas the internal split is blind-only. This measures verifier agreement rather than agent task success.
 
+- Record JSON: https://awesomecua.github.io/resources/url-d5140d438466c1e1348a/record.json
+
 ## Structured profile
 
 - actions: success verdict, process score

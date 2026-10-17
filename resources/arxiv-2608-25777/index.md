@@ -16,9 +16,16 @@ Introduces LocalLSTC, a training-free control architecture that maintains persis
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-25777/record.json
+
 ## Authors
 
 Weiming Li, Helen Paik, Yulei Sui
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-25777/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-25777/citation.csl.json
 
 ## Recorded arXiv snapshot
 

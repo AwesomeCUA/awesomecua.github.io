@@ -16,9 +16,16 @@ Bibliographic record for MedBrowseComp: Benchmarking Medical Deep Research and C
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-14963/record.json
+
 ## Authors
 
 Shan Chen, Pedro Moreira, Yuxin Xiao, Sam Schmidgall, Jeremy Warner, Hugo Aerts, Thomas Hartvigsen, Jack Gallifant, Danielle S. Bitterman
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-14963/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-14963/citation.csl.json
 
 ## Recorded arXiv snapshot
 

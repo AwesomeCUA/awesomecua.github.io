@@ -16,9 +16,16 @@ Audits WebArena-Lite outcomes and trajectories with human review to identify aut
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-01491/record.json
+
 ## Authors
 
 Chengguang Gan, Zimeng He, Yoshihiro Tsujii, Ken-ichiro Kobayashi, Hiroki Itoh, Kotaro Funakoshi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-01491/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-01491/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2307.12856",
+  "citation-key": "arxiv_2307_12856",
+  "type": "article",
+  "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+  "URL": "https://arxiv.org/abs/2307.12856v4",
+  "custom": {
+    "catalog_id": "arxiv:2307.12856",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2307.12856",
+    "identifiers": {
+      "arxiv": "2307.12856"
+    },
+    "first_published_at": "2023-07-24",
+    "record_updated_at": "2024-02-25",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "65328d525a6458ef8c401fb0ac4a9b6a5142bad462bd15a212d124c83a56209f",
+      "submitted_at": "2023-07-24T14:56:30Z",
+      "updated_at": "2024-02-25T16:17:43Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2307.12856v4"
+    }
+  },
+  "note": "First published: 2023-07-24; Recorded arXiv version: v4; Recorded version updated: 2024-02-25T16:17:43Z.",
+  "author": [
+    {
+      "literal": "Izzeddin Gur"
+    },
+    {
+      "literal": "Hiroki Furuta"
+    },
+    {
+      "literal": "Austin Huang"
+    },
+    {
+      "literal": "Mustafa Safdari"
+    },
+    {
+      "literal": "Yutaka Matsuo"
+    },
+    {
+      "literal": "Douglas Eck"
+    },
+    {
+      "literal": "Aleksandra Faust"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        7,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2307.12856",
+  "genre": "preprint",
+  "version": "4"
+}

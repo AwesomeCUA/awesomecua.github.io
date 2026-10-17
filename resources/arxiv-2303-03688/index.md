@@ -16,9 +16,16 @@ Bibliographic record for Blueprint for quantum computing using electrons on heli
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2303-03688/record.json
+
 ## Authors
 
 Erika Kawakami, Jiabao Chen, Mónica Benito, Denis Konstantinov
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2303-03688/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2303-03688/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for FedGUI: Benchmarking Federated GUI Agents across Hetero
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-14956/record.json
+
 ## Authors
 
 Wenhao Wang, Haoting Shi, Mengying Yuan, Yiquan Lin, Panrong Tong, Hanzhang Zhou, Guangyi Liu, Pengxiang Zhao, Yue Wang, Siheng Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-14956/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-14956/citation.csl.json
 
 ## Recorded arXiv snapshot
 

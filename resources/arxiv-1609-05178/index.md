@@ -16,9 +16,16 @@ Bibliographic record for Privacy Preserving Distance Computation using Somewhat-
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1609-05178/record.json
+
 ## Authors
 
 Abelino Jimenez, Bhiksha Raj
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1609-05178/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1609-05178/citation.csl.json
 
 ## Recorded arXiv snapshot
 

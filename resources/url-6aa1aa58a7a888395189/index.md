@@ -16,6 +16,8 @@ Computer-use environment and task resources for agent research.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-6aa1aa58a7a888395189/record.json
+
 ## License declarations
 
 - code: not recorded

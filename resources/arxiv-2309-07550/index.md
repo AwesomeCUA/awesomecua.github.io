@@ -16,9 +16,16 @@ Bibliographic record for Naturalistic Robot Arm Trajectory Generation via Repres
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2309-07550/record.json
+
 ## Authors
 
 Jayjun Lee, Adam J. Spiers
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2309-07550/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2309-07550/citation.csl.json
 
 ## Recorded arXiv snapshot
 

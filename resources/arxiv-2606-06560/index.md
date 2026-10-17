@@ -16,9 +16,16 @@ Bibliographic record for MacArena: Benchmarking Computer Use Agents on an Online
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-06560/record.json
+
 ## Authors
 
 Victor Muryn, Maksym Shamrai, Sofiia Mazepa, Yehor Khodysko
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-06560/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-06560/citation.csl.json
 
 ## Recorded arXiv snapshot
 

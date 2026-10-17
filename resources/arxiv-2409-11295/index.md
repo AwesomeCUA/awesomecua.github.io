@@ -16,9 +16,16 @@ Bibliographic record for EIA: Environmental Injection Attack on Generalist Web A
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-11295/record.json
+
 ## Authors
 
 Zeyi Liao, Lingbo Mo, Chejian Xu, Mintong Kang, Jiawei Zhang, Chaowei Xiao, Yuan Tian, Bo Li, Huan Sun
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-11295/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-11295/citation.csl.json
 
 ## Recorded arXiv snapshot
 

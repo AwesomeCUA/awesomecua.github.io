@@ -1,0 +1,61 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:38:27Z",
+      "role": "primary",
+      "sha256": "de16b4fd611982cfaa160cb0fbdc1b0f0559b90983e452964527704a6de4e72d",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/computer-use-tool"
+    }
+  ],
+  "id": "url:57f17b7d0c18b2d7c8bf",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-16T06:38:27Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/computer-use-tool"
+    }
+  ],
+  "name": "Claude Computer Use",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/computer-use-tool",
+      "target_id": "organization:anthropic",
+      "type": "published_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Claude tool capability for screenshot-based computer interaction.",
+  "topics": [
+    "planning",
+    "grounding"
+  ],
+  "updated_at": null,
+  "url": "https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/computer-use-tool"
+}

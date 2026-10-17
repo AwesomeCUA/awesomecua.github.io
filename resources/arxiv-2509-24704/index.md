@@ -16,9 +16,16 @@ Bibliographic record for MemGen: Weaving Generative Latent Memory for Self-Evolv
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-24704/record.json
+
 ## Authors
 
 Guibin Zhang, Muxin Fu, Shuicheng Yan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-24704/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-24704/citation.csl.json
 
 ## Recorded arXiv snapshot
 

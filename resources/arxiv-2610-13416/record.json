@@ -1,0 +1,89 @@
+{
+  "aliases": [],
+  "authors": [
+    "Sunghwan Kim",
+    "Deogyong Kim",
+    "Sangam Lee",
+    "Donguk Kwon",
+    "Dongha Lee"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cadcf2ab7be51b17d06975eba0e56573c333dca9ec034ade67b84e62d0096903",
+      "submitted_at": "2026-10-09T11:23:40Z",
+      "updated_at": "2026-10-09T11:23:40Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.13416v1"
+    }
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:33:24Z",
+      "role": "primary",
+      "sha256": "9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:33:24Z",
+      "role": "primary",
+      "sha256": "9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29"
+    }
+  ],
+  "id": "arxiv:2610.13416",
+  "identifiers": {
+    "arxiv": "2610.13416"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:33:24Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2610.13416"
+    }
+  ],
+  "name": "Web$hell: A Unified Interface for Agentic Web Access",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2026-10-09",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Introduces Web$hell, an interface that compiles live pages into persistent information and action objects so agents can gather evidence, navigate websites, and reuse acquired content through shared operations.",
+  "topics": [
+    "web-navigation",
+    "tool-integration",
+    "memory",
+    "efficiency"
+  ],
+  "updated_at": "2026-10-09",
+  "url": "https://arxiv.org/abs/2610.13416"
+}

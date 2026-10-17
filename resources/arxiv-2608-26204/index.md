@@ -16,9 +16,16 @@ Evaluates interface-embedded threats and whether computer-use agents seek clarif
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-26204/record.json
+
 ## Authors
 
 Joy Chen, Alejandro Castillejo Munoz, Pierluca D'Oro, Yuxuan Sun, Chloe Evans, Joseph Tighe
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-26204/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-26204/citation.csl.json
 
 ## Recorded arXiv snapshot
 

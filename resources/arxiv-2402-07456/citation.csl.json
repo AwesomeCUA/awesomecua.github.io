@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2402.07456",
+  "citation-key": "arxiv_2402_07456",
+  "type": "article",
+  "title": "OS-Copilot: Towards Generalist Computer Agents with Self-Improvement",
+  "URL": "https://arxiv.org/abs/2402.07456v2",
+  "custom": {
+    "catalog_id": "arxiv:2402.07456",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2402.07456",
+    "identifiers": {
+      "arxiv": "2402.07456"
+    },
+    "first_published_at": "2024-02-12",
+    "record_updated_at": "2024-02-15",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "674b005f670a3593bd215a8ff75eac05c90ee068578fc26afdd998c40f5b7b71",
+      "submitted_at": "2024-02-12T07:29:22Z",
+      "updated_at": "2024-02-15T09:30:48Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2402.07456v2"
+    }
+  },
+  "note": "First published: 2024-02-12; Recorded arXiv version: v2; Recorded version updated: 2024-02-15T09:30:48Z.",
+  "author": [
+    {
+      "literal": "Zhiyong Wu"
+    },
+    {
+      "literal": "Chengcheng Han"
+    },
+    {
+      "literal": "Zichen Ding"
+    },
+    {
+      "literal": "Zhenmin Weng"
+    },
+    {
+      "literal": "Zhoumianze Liu"
+    },
+    {
+      "literal": "Shunyu Yao"
+    },
+    {
+      "literal": "Tao Yu"
+    },
+    {
+      "literal": "Lingpeng Kong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.07456",
+  "genre": "preprint",
+  "version": "2"
+}

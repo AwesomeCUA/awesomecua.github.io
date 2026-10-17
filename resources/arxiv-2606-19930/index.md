@@ -16,9 +16,16 @@ Bibliographic record for MobileForge: Annotation-Free Adaptation for Mobile GUI 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-19930/record.json
+
 ## Authors
 
 Guangyi Liu, Pengxiang Zhao, Gao Wu, Yiwen Yin, Mading Li, Liang Liu, Congxiao Liu, Zhang Qi, Mengyan Wang, Liang Guo, Jiangning Zhang, Yong Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-19930/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-19930/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for MemGUI-Agent: An End-to-End Long-Horizon Mobile GUI Age
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-19926/record.json
+
 ## Authors
 
 Guangyi Liu, Gao Wu, Congxiao Liu, Pengxiang Zhao, Liang Liu, Mading Li, Qi Zhang, Mengyan Wang, Liang Guo, Yong Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-19926/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-19926/citation.csl.json
 
 ## Recorded arXiv snapshot
 

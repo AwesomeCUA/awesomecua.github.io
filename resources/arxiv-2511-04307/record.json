@@ -1,0 +1,100 @@
+{
+  "aliases": [],
+  "authors": [
+    "Jian Mu",
+    "Chaoyun Zhang",
+    "Chiming Ni",
+    "Lu Wang",
+    "Bo Qiao",
+    "Kartik Mathur",
+    "Qianhui Wu",
+    "Yuhang Xie",
+    "Xiaojun Ma",
+    "Mengyu Zhou",
+    "Si Qin",
+    "Liqun Li",
+    "Yu Kang",
+    "Minghua Ma",
+    "Qingwei Lin",
+    "Saravan Rajmohan",
+    "Dongmei Zhang"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6b063a4d2b3a552aa05a153745978473a7d165f2c6b4b97e4c91eff11b7b0f80",
+      "submitted_at": "2025-11-06T12:19:02Z",
+      "updated_at": "2025-11-10T12:27:15Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2511.04307v2"
+    }
+  },
+  "environments": [
+    "windows"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:47Z",
+      "role": "primary",
+      "sha256": "ae98e77b8bb125e45277aacec768a047e7bb0e13f33ca9ff6ca7c19e29e56cca",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=500&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:47Z",
+      "role": "primary",
+      "sha256": "ae98e77b8bb125e45277aacec768a047e7bb0e13f33ca9ff6ca7c19e29e56cca",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=500&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2511.04307",
+  "identifiers": {
+    "arxiv": "2511.04307"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:47Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2511.04307"
+    }
+  ],
+  "name": "GUI-360$^\\circ$: A Comprehensive Dataset and Benchmark for Computer-Using Agents",
+  "notes": "Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.",
+  "published_at": "2025-11-06",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Collects Windows application trajectories with screenshots and action traces for grounding, screen parsing, and action prediction.",
+  "topics": [
+    "data-generation",
+    "grounding",
+    "evaluation"
+  ],
+  "updated_at": "2025-11-10",
+  "url": "https://arxiv.org/abs/2511.04307"
+}

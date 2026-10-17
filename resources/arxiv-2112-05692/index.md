@@ -16,9 +16,16 @@ The Versatile UI Transformer jointly models interface screenshots, structure, an
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2112-05692/record.json
+
 ## Authors
 
 Yang Li, Gang Li, Xin Zhou, Mostafa Dehghani, Alexey Gritsenko
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2112-05692/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2112-05692/citation.csl.json
 
 ## Recorded arXiv snapshot
 

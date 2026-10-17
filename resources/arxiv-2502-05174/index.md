@@ -16,9 +16,16 @@ Bibliographic record for MELON: Provable Defense Against Indirect Prompt Injecti
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-05174/record.json
+
 ## Authors
 
 Kaijie Zhu, Xianjun Yang, Jindong Wang, Wenbo Guo, William Yang Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-05174/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-05174/citation.csl.json
 
 ## Recorded arXiv snapshot
 

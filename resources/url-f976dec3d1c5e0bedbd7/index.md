@@ -16,6 +16,8 @@ Desktop interaction data released with ShowUI.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-f976dec3d1c5e0bedbd7/record.json
+
 ## Structured profile
 
 - formats: Hub table with an image column

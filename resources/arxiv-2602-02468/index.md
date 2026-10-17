@@ -16,9 +16,16 @@ Bibliographic record for Avenir-Web: Human-Experience-Imitating Multimodal Web A
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-02468/record.json
+
 ## Authors
 
 Aiden Yiliu Li, Xinyue Hao, Shilong Liu, Mengdi Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-02468/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-02468/citation.csl.json
 
 ## Recorded arXiv snapshot
 

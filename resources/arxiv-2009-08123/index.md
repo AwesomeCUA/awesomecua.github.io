@@ -16,9 +16,16 @@ Bibliographic record for DLBCL-Morph: Morphological features computed using deep
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2009-08123/record.json
+
 ## Authors
 
 Damir Vrabac, Akshay Smit, Rebecca Rojansky, Yasodha Natkunam, Ranjana H. Advani, Andrew Y. Ng, Sebastian Fernandez-Pol, Pranav Rajpurkar
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2009-08123/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2009-08123/citation.csl.json
 
 ## Recorded arXiv snapshot
 

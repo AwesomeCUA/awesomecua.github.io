@@ -16,9 +16,16 @@ Bibliographic record for R-WoM: Retrieval-augmented World Model For Computer-use
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-11892/record.json
+
 ## Authors
 
 Kai Mei, Jiang Guo, Shuaichen Chang, Mingwen Dong, Dongkyu Lee, Xing Niu, Jiarong Jiang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-11892/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-11892/citation.csl.json
 
 ## Recorded arXiv snapshot
 

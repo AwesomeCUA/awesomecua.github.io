@@ -16,9 +16,16 @@ Bibliographic record for Agent Q: Advanced Reasoning and Learning for Autonomous
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2408-07199/record.json
+
 ## Authors
 
 Pranav Putta, Edmund Mills, Naman Garg, Sumeet Motwani, Chelsea Finn, Divyansh Garg, Rafael Rafailov
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2408-07199/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2408-07199/citation.csl.json
 
 ## Recorded arXiv snapshot
 

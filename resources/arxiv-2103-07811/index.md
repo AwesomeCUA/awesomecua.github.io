@@ -16,9 +16,16 @@ Bibliographic record for Delay-aware and Energy-Efficient Computation Offloading
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2103-07811/record.json
+
 ## Authors
 
 Laha Ale, Ning Zhang, Xiaojie Fang, Xianfu Chen, Shaohua Wu, Longzhuang Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2103-07811/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2103-07811/citation.csl.json
 
 ## Recorded arXiv snapshot
 

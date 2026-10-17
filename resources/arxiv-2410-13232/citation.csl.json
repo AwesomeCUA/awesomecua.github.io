@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2410.13232",
+  "citation-key": "arxiv_2410_13232",
+  "type": "article",
+  "title": "Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation",
+  "URL": "https://arxiv.org/abs/2410.13232v2",
+  "custom": {
+    "catalog_id": "arxiv:2410.13232",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.13232",
+    "identifiers": {
+      "arxiv": "2410.13232"
+    },
+    "first_published_at": "2024-10-17",
+    "record_updated_at": "2025-03-29",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cae86bff4412bbfa7b969ecd60fe7b695f4b7c5ea1be6a67e97919df762d1108",
+      "submitted_at": "2024-10-17T05:37:00Z",
+      "updated_at": "2025-03-29T08:59:09Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2410.13232v2"
+    }
+  },
+  "note": "First published: 2024-10-17; Recorded arXiv version: v2; Recorded version updated: 2025-03-29T08:59:09Z.",
+  "author": [
+    {
+      "literal": "Hyungjoo Chae"
+    },
+    {
+      "literal": "Namyoung Kim"
+    },
+    {
+      "literal": "Kai Tzu-iunn Ong"
+    },
+    {
+      "literal": "Minju Gwak"
+    },
+    {
+      "literal": "Gwanwoo Song"
+    },
+    {
+      "literal": "Jihoon Kim"
+    },
+    {
+      "literal": "Sunghwan Kim"
+    },
+    {
+      "literal": "Dongha Lee"
+    },
+    {
+      "literal": "Jinyoung Yeo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.13232",
+  "genre": "preprint",
+  "version": "2"
+}

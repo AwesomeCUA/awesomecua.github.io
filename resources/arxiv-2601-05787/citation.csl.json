@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2601.05787",
+  "citation-key": "arxiv_2601_05787",
+  "type": "article",
+  "title": "From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation",
+  "URL": "https://arxiv.org/abs/2601.05787v2",
+  "custom": {
+    "catalog_id": "arxiv:2601.05787",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.05787",
+    "identifiers": {
+      "arxiv": "2601.05787"
+    },
+    "first_published_at": "2026-01-09",
+    "record_updated_at": "2026-02-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e342723078b50e612df749df80eadfd16e0fe29f5875777c1b3189d8b5981512",
+      "submitted_at": "2026-01-09T13:26:38Z",
+      "updated_at": "2026-02-10T15:12:17Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2601.05787v2"
+    }
+  },
+  "note": "First published: 2026-01-09; Recorded arXiv version: v2; Recorded version updated: 2026-02-10T15:12:17Z.",
+  "author": [
+    {
+      "literal": "Zezhou Wang"
+    },
+    {
+      "literal": "Ziyun Zhang"
+    },
+    {
+      "literal": "Xiaoyi Zhang"
+    },
+    {
+      "literal": "Zhuzhong Qian"
+    },
+    {
+      "literal": "Yan Lu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.05787",
+  "genre": "preprint",
+  "version": "2"
+}

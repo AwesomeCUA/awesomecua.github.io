@@ -16,9 +16,16 @@ Bibliographic record for Towards Explaining Distribution Shifts. Title, authors 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2210-10275/record.json
+
 ## Authors
 
 Sean Kulinski, David I. Inouye
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2210-10275/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2210-10275/citation.csl.json
 
 ## Recorded arXiv snapshot
 

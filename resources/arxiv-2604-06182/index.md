@@ -16,9 +16,16 @@ Bibliographic record for VenusBench-Mobile: A Challenging and User-Centric Bench
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-06182/record.json
+
 ## Authors
 
 Yichen Gong, Zhuohan Cai, Sunhao Dai, Yuqi Zhou, Zhangxuan Gu, Changhua Meng, Shuheng Shen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-06182/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-06182/citation.csl.json
 
 ## Recorded arXiv snapshot
 

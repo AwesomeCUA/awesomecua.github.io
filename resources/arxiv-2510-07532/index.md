@@ -16,9 +16,16 @@ Bibliographic record for On Quantum Computation Using Bias-Preserving Gates. Tit
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-07532/record.json
+
 ## Authors
 
 Debadrito Roy, Aryaman Manish Kolhe, V. Lalitha, Navin Kashyap
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-07532/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-07532/citation.csl.json
 
 ## Recorded arXiv snapshot
 

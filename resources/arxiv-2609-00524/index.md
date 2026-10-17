@@ -16,9 +16,16 @@ A diary study deploys the screen-reader-accessible OLLA computer-use prototype w
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-00524/record.json
+
 ## Authors
 
 Satwik Ram Kodandaram, Monalika Padma Reddy, Xiaojun Bi, Jiawei Zhou, I. V. Ramakrishnan, Vikas Ashok
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-00524/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-00524/citation.csl.json
 
 ## Recorded arXiv snapshot
 

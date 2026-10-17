@@ -16,9 +16,16 @@ Bibliographic record for Say One Thing, Do Another? Diagnosing Reasoning-Executi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-02204/record.json
+
 ## Authors
 
 Lingzhong Dong, Ziqi Zhou, Shuaibo Yang, Haiyue Sheng, Pengzhou Cheng, Zongru Wu, Zheng Wu, Gongshen Liu, Zhuosheng Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-02204/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-02204/citation.csl.json
 
 ## Recorded arXiv snapshot
 

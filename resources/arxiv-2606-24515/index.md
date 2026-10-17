@@ -16,9 +16,16 @@ Bibliographic record for Reinforcement Learning for Computer-Use Agents with Aut
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-24515/record.json
+
 ## Authors
 
 Marta Sumyk, Oleksandr Kosovan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-24515/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-24515/citation.csl.json
 
 ## Recorded arXiv snapshot
 

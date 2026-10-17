@@ -16,9 +16,16 @@ MobiBench evaluates mobile GUI agents offline while allowing multiple valid acti
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-12634/record.json
+
 ## Authors
 
 Youngmin Im, Byeongung Jo, Jaeyoung Wi, Seungwoo Baek, Tae Hoon Min, Joo Hyung Lee, Sangeun Oh, Insik Shin, Sunjae Lee
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-12634/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-12634/citation.csl.json
 
 ## Recorded arXiv snapshot
 

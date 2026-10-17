@@ -16,9 +16,16 @@ Bibliographic record for SPIEval: Evaluating Large Language Models as Mobile Ass
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-10692/record.json
+
 ## Authors
 
 Junjie Ye, Zhuohui Sheng, Shaofan Liu, Yulun Zhu, Wenjie Fu, Dingwei Zhu, Ming Zhang, Yujiong Shen, Weichao Wang, Xin Zhao, Shihan Dou, Tao Gui, Qi Zhang, Xuanjing Huang, Pluto Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-10692/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-10692/citation.csl.json
 
 ## Recorded arXiv snapshot
 

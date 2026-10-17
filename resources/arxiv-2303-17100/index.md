@@ -16,9 +16,16 @@ Bibliographic record for Dependent Task Offloading in Edge Computing Using GNN a
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2303-17100/record.json
+
 ## Authors
 
 Zequn Cao, Xiaoheng Deng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2303-17100/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2303-17100/citation.csl.json
 
 ## Recorded arXiv snapshot
 

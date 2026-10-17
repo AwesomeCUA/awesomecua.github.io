@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2502.01562",
+  "citation-key": "arxiv_2502_01562",
+  "type": "article",
+  "title": "Memento No More: Coaching AI Agents to Master Multiple Tasks via Hints Internalization",
+  "URL": "https://arxiv.org/abs/2502.01562v3",
+  "custom": {
+    "catalog_id": "arxiv:2502.01562",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2502.01562",
+    "identifiers": {
+      "arxiv": "2502.01562"
+    },
+    "first_published_at": "2025-02-03",
+    "record_updated_at": "2026-09-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "907cc7ed7ac7651384af88703981d3136db68d66da38c4b47e90037ac8266aa7",
+      "submitted_at": "2025-02-03T17:45:46Z",
+      "updated_at": "2026-09-20T18:47:01Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2502.01562v3"
+    }
+  },
+  "note": "First published: 2025-02-03; Recorded arXiv version: v3; Recorded version updated: 2026-09-20T18:47:01Z.",
+  "author": [
+    {
+      "literal": "Minttu Alakuijala"
+    },
+    {
+      "literal": "Ya Gao"
+    },
+    {
+      "literal": "Georgy Ananov"
+    },
+    {
+      "literal": "Samuel Kaski"
+    },
+    {
+      "literal": "Pekka Marttinen"
+    },
+    {
+      "literal": "Alexander Ilin"
+    },
+    {
+      "literal": "Harri Valpola"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.01562",
+  "genre": "preprint",
+  "version": "3"
+}

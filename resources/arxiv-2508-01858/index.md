@@ -16,9 +16,16 @@ Bibliographic record for Web-CogReasoner: Towards Multimodal Knowledge-Induced C
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-01858/record.json
+
 ## Authors
 
 Yuhan Guo, Cong Guo, Aiwen Sun, Hongliang He, Xinyu Yang, Yue Lu, Yingji Zhang, Xuntao Guo, Dong Zhang, Jianzhuang Liu, Jiang Duan, Yijia Xiao, Liangjian Wen, Hai-Ming Xu, Yong Dai
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-01858/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-01858/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2511.15705",
+  "citation-key": "arxiv_2511_15705",
+  "type": "article",
+  "title": "GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization",
+  "URL": "https://arxiv.org/abs/2511.15705v2",
+  "custom": {
+    "catalog_id": "arxiv:2511.15705",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.15705",
+    "identifiers": {
+      "arxiv": "2511.15705"
+    },
+    "first_published_at": "2025-11-19",
+    "record_updated_at": "2025-12-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "682477be3363b830e0067537cbcf81c7fdd22b37d077904f2aafd24b83577d92",
+      "submitted_at": "2025-11-19T18:59:22Z",
+      "updated_at": "2025-12-18T16:47:33Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2511.15705v2"
+    }
+  },
+  "note": "First published: 2025-11-19; Recorded arXiv version: v2; Recorded version updated: 2025-12-18T16:47:33Z.",
+  "author": [
+    {
+      "literal": "Yikun Wang"
+    },
+    {
+      "literal": "Zuyan Liu"
+    },
+    {
+      "literal": "Ziyi Wang"
+    },
+    {
+      "literal": "Han Hu"
+    },
+    {
+      "literal": "Pengfei Liu"
+    },
+    {
+      "literal": "Yongming Rao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.15705",
+  "genre": "preprint",
+  "version": "2"
+}

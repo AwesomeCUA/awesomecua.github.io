@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2407.03037",
+  "citation-key": "arxiv_2407_03037",
+  "type": "article",
+  "title": "Seeing is Believing: Vision-driven Non-crash Functional Bug Detection for Mobile Apps",
+  "URL": "https://arxiv.org/abs/2407.03037v2",
+  "custom": {
+    "catalog_id": "arxiv:2407.03037",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2407.03037",
+    "identifiers": {
+      "arxiv": "2407.03037"
+    },
+    "first_published_at": "2024-07-03",
+    "record_updated_at": "2024-12-04",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "73b706ac6089a7d19836268437f3fea58d10b9d170ac596ac0d5a12f0d3a9668",
+      "submitted_at": "2024-07-03T11:58:09Z",
+      "updated_at": "2024-12-04T08:00:42Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2407.03037v2"
+    }
+  },
+  "note": "First published: 2024-07-03; Recorded arXiv version: v2; Recorded version updated: 2024-12-04T08:00:42Z.",
+  "author": [
+    {
+      "literal": "Zhe Liu"
+    },
+    {
+      "literal": "Cheng Li"
+    },
+    {
+      "literal": "Chunyang Chen"
+    },
+    {
+      "literal": "Junjie Wang"
+    },
+    {
+      "literal": "Mengzhuo Chen"
+    },
+    {
+      "literal": "Boyu Wu"
+    },
+    {
+      "literal": "Yawen Wang"
+    },
+    {
+      "literal": "Jun Hu"
+    },
+    {
+      "literal": "Qing Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.03037",
+  "genre": "preprint",
+  "version": "2"
+}

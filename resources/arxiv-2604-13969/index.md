@@ -16,9 +16,16 @@ Bibliographic record for GEM3D CIM General Purpose Matrix Computation Using 3D I
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-13969/record.json
+
 ## Authors
 
 Subhradip Chakraborty, Ankur Singh, Akhilesh R. Jaiswal
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-13969/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-13969/citation.csl.json
 
 ## Recorded arXiv snapshot
 

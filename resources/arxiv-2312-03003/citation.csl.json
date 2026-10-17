@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2312.03003",
+  "citation-key": "arxiv_2312_03003",
+  "type": "article",
+  "title": "Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation",
+  "URL": "https://arxiv.org/abs/2312.03003v3",
+  "custom": {
+    "catalog_id": "arxiv:2312.03003",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2312.03003",
+    "identifiers": {
+      "arxiv": "2312.03003"
+    },
+    "first_published_at": "2023-12-04",
+    "record_updated_at": "2024-10-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b9b6f10b17513f565a13e035802d8bd681b5b0d468ba000df1427a8d59591e2c",
+      "submitted_at": "2023-12-04T06:13:35Z",
+      "updated_at": "2024-10-16T08:15:53Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2312.03003v3"
+    }
+  },
+  "note": "First published: 2023-12-04; Recorded arXiv version: v3; Recorded version updated: 2024-10-16T08:15:53Z.",
+  "author": [
+    {
+      "literal": "Sunjae Lee"
+    },
+    {
+      "literal": "Junyoung Choi"
+    },
+    {
+      "literal": "Jungjae Lee"
+    },
+    {
+      "literal": "Munim Hasan Wasi"
+    },
+    {
+      "literal": "Hojun Choi"
+    },
+    {
+      "literal": "Steven Y. Ko"
+    },
+    {
+      "literal": "Sangeun Oh"
+    },
+    {
+      "literal": "Insik Shin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2312.03003",
+  "genre": "preprint",
+  "version": "3"
+}

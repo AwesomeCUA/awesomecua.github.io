@@ -16,6 +16,8 @@ Framework for GUI agent training, evaluation, and deployment.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-zju-real-clawgui/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/ZJU-REAL/ClawGUI/HEAD/LICENSE

@@ -16,9 +16,16 @@ Combines environment-grounded training with demonstration-conditioned workflows,
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-15930/record.json
+
 ## Authors
 
 Zihan Ding, Longxu Dou, Qi Gao, Xiangwu Guo, Shengchao Hu, Zilong Huang, Zihang Jiang, Lei Ke, Mengcheng Lan, Weixian Lei, Hanxuan Li, Honglin Li, Xiyun Li, Zaitang Li, Leowei Liang, Xin Luo, Haozhe Ma, Jiayi Mao, Zhoujie Pan, Can Qin, Tianyuan Qu, Weiqi Wang, Wenkai Wang, Yonglin Wang, Yuxin Wang, Chenxu Wu, Yingchen Yu, Chenyu Zhang, Yuhao Zheng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-15930/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-15930/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2406.14991",
+  "citation-key": "arxiv_2406_14991",
+  "type": "article",
+  "title": "SpreadsheetBench: Towards Challenging Real World Spreadsheet Manipulation",
+  "URL": "https://arxiv.org/abs/2406.14991v2",
+  "custom": {
+    "catalog_id": "arxiv:2406.14991",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2406.14991",
+    "identifiers": {
+      "arxiv": "2406.14991"
+    },
+    "first_published_at": "2024-06-21",
+    "record_updated_at": "2024-10-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0b967db7f54e65df2497abe2681d2bb63c2571d2ef8624f6f5af76766f43f487",
+      "submitted_at": "2024-06-21T09:06:45Z",
+      "updated_at": "2024-10-17T07:23:23Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2406.14991v2"
+    }
+  },
+  "note": "First published: 2024-06-21; Recorded arXiv version: v2; Recorded version updated: 2024-10-17T07:23:23Z.",
+  "author": [
+    {
+      "literal": "Zeyao Ma"
+    },
+    {
+      "literal": "Bohan Zhang"
+    },
+    {
+      "literal": "Jing Zhang"
+    },
+    {
+      "literal": "Jifan Yu"
+    },
+    {
+      "literal": "Xiaokang Zhang"
+    },
+    {
+      "literal": "Xiaohan Zhang"
+    },
+    {
+      "literal": "Sijia Luo"
+    },
+    {
+      "literal": "Xi Wang"
+    },
+    {
+      "literal": "Jie Tang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.14991",
+  "genre": "preprint",
+  "version": "2"
+}

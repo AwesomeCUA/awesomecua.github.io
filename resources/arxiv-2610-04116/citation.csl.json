@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2610.04116",
+  "citation-key": "arxiv_2610_04116",
+  "type": "article",
+  "title": "CUAWright: A Minimal Unified Interface for Digital Agents",
+  "URL": "https://arxiv.org/abs/2610.04116v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.04116",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.04116",
+    "identifiers": {
+      "arxiv": "2610.04116"
+    },
+    "first_published_at": "2026-10-02",
+    "record_updated_at": "2026-10-02",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "97af38af8647b769c129d917b65f8f744035308f6ace88706a4888a96fe345b9",
+      "submitted_at": "2026-10-02T22:43:06Z",
+      "updated_at": "2026-10-02T22:43:06Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.04116v1"
+    }
+  },
+  "note": "First published: 2026-10-02; Recorded arXiv version: v1; Recorded version updated: 2026-10-02T22:43:06Z.",
+  "author": [
+    {
+      "literal": "Yadong Lu"
+    },
+    {
+      "literal": "Theodore Lee"
+    },
+    {
+      "literal": "Yifei Li"
+    },
+    {
+      "literal": "Lawrence Keunho Jang"
+    },
+    {
+      "literal": "Tianci Xue"
+    },
+    {
+      "literal": "Yu Su"
+    },
+    {
+      "literal": "Huan Sun"
+    },
+    {
+      "literal": "Ahmed Hassan Awadallah"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.04116",
+  "genre": "preprint",
+  "version": "1"
+}

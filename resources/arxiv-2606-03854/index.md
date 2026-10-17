@@ -16,9 +16,16 @@ Bibliographic record for CLI-Anything: Towards Agent-Native Computer Use. Title,
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-03854/record.json
+
 ## Authors
 
 Yuhao Yang, Tianyu Fan, Chao Huang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-03854/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-03854/citation.csl.json
 
 ## Recorded arXiv snapshot
 

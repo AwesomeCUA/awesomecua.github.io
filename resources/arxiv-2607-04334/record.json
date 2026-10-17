@@ -1,0 +1,67 @@
+{
+  "aliases": [],
+  "authors": [
+    "Guijia Zhang",
+    "Yuxun Chen",
+    "Yuheng Qi",
+    "Harry Yang"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e7fdae5d6e5ea17639fe0e2b8e2d655df7201a438d84acdeb3e0d02a78051ae2",
+      "submitted_at": "2026-07-05T14:33:29Z",
+      "updated_at": "2026-07-18T16:56:38Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2607.04334v2"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:32Z",
+      "role": "primary",
+      "sha256": "13d3fb5811d203f2e6b80eb45d30ebc0b3cfefd88e2034ffa3b1b80687bef285",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2607.04334",
+  "identifiers": {
+    "arxiv": "2607.04334"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:32Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2607.04334"
+    }
+  ],
+  "name": "Do GUI Agents Believe Their Eyes? Diagnosing State-Belief Reliance on Pixels versus Structure",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2026-07-05",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-07-18",
+  "url": "https://arxiv.org/abs/2607.04334"
+}

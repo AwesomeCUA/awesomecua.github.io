@@ -16,9 +16,16 @@ Examines active environmental injection against mobile agents, testing whether a
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-13053/record.json
+
 ## Authors
 
 Yurun Chen, Xavier Hu, Keting Yin, Juncheng Li, Shengyu Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-13053/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-13053/citation.csl.json
 
 ## Recorded arXiv snapshot
 

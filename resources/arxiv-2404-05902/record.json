@@ -1,0 +1,88 @@
+{
+  "aliases": [],
+  "authors": [
+    "Michael Lutz",
+    "Arth Bohra",
+    "Manvel Saroyan",
+    "Artem Harutyunyan",
+    "Giovanni Campagna"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4c18dbfedcccf6434b3a50a9aa62552372df8b772ccda6a1aa699a8f052476bc",
+      "submitted_at": "2024-04-08T23:10:47Z",
+      "updated_at": "2024-04-08T23:10:47Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2404.05902v1"
+    }
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:58Z",
+      "role": "primary",
+      "sha256": "c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:58Z",
+      "role": "primary",
+      "sha256": "c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2404.05902",
+  "identifiers": {
+    "arxiv": "2404.05902"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:58Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2404.05902"
+    }
+  ],
+  "name": "WILBUR: Adaptive In-Context Learning for Robust and Accurate Web Agents",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2024-04-08",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "WILBUR learns to rank prior task demonstrations for a web agent’s prompt and synthesizes instructions from past runs. A generated task curriculum and a backtracking mechanism support adaptation and recovery, evaluated on WebVoyager.",
+  "topics": [
+    "web-navigation",
+    "memory",
+    "robustness",
+    "data-generation"
+  ],
+  "updated_at": "2024-04-08",
+  "url": "https://arxiv.org/abs/2404.05902"
+}

@@ -16,9 +16,16 @@ Bibliographic record for A True Random Number Generator for Probabilistic Comput
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2304-08808/record.json
+
 ## Authors
 
 Ankit Shukla, Laura Heller, Md Golam Morshed, Laura Rehm, Avik W. Ghosh, Andrew D. Kent, Shaloo Rakheja
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2304-08808/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2304-08808/citation.csl.json
 
 ## Recorded arXiv snapshot
 

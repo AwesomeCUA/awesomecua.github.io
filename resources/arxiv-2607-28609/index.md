@@ -16,9 +16,16 @@ Introduces OSReward and its harder and multidimensional variants for assessing j
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-28609/record.json
+
 ## Authors
 
 Qiushi Sun, Kanzhi Cheng, Yian Wang, Bowen Yang, Hang Yan, Liheng Chen, Fangzhi Xu, Zichen Ding, Nuo Chen, Jialin Cao, Xingdong Gong, Zehao Li, Kaiming Jin, Xinfeng Yuan, Zhoumianze Liu, Jingyang Gong, Zhangyue Yin, Jiahui Gao, Zhiyong Wu, Tianbao Xie, Jianbing Zhang, Ben Kao, Lingpeng Kong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-28609/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-28609/citation.csl.json
 
 ## Recorded arXiv snapshot
 

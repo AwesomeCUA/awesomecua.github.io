@@ -16,9 +16,16 @@ Combines visual token selection, interleaved visual-action history, and curated 
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-17465/record.json
+
 ## Authors
 
 Kevin Qinghong Lin, Linjie Li, Difei Gao, Zhengyuan Yang, Shiwei Wu, Zechen Bai, Weixian Lei, Lijuan Wang, Mike Zheng Shou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-17465/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-17465/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2507.22025",
+  "citation-key": "arxiv_2507_22025",
+  "type": "article",
+  "title": "UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding",
+  "URL": "https://arxiv.org/abs/2507.22025v4",
+  "custom": {
+    "catalog_id": "arxiv:2507.22025",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2507.22025",
+    "identifiers": {
+      "arxiv": "2507.22025"
+    },
+    "first_published_at": "2025-07-29",
+    "record_updated_at": "2026-04-08",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "741cce21b25e9b29b99e9804a399695bf8a0ae89df6307d9f9bff68e3e856e85",
+      "submitted_at": "2025-07-29T17:22:07Z",
+      "updated_at": "2026-04-08T16:03:48Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2507.22025v4"
+    }
+  },
+  "note": "First published: 2025-07-29; Recorded arXiv version: v4; Recorded version updated: 2026-04-08T16:03:48Z.",
+  "author": [
+    {
+      "literal": "Shuquan Lian"
+    },
+    {
+      "literal": "Yuhang Wu"
+    },
+    {
+      "literal": "Jia Ma"
+    },
+    {
+      "literal": "Yifan Ding"
+    },
+    {
+      "literal": "Zihan Song"
+    },
+    {
+      "literal": "Bingqi Chen"
+    },
+    {
+      "literal": "Xiawu Zheng"
+    },
+    {
+      "literal": "Hui Li"
+    },
+    {
+      "literal": "Rongrong Ji"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.22025",
+  "genre": "preprint",
+  "version": "4"
+}

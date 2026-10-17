@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2610.05185",
+  "citation-key": "arxiv_2610_05185",
+  "type": "article",
+  "title": "Recurrent Latent Visual Search for GUI Grounding",
+  "URL": "https://arxiv.org/abs/2610.05185v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.05185",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.05185",
+    "identifiers": {
+      "arxiv": "2610.05185"
+    },
+    "first_published_at": "2026-10-04",
+    "record_updated_at": "2026-10-04",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6d20eb090847d25deb8f69181caa6f964661bbf167223b5572cf3e1cafa52bbd",
+      "submitted_at": "2026-10-04T12:49:01Z",
+      "updated_at": "2026-10-04T12:49:01Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.05185v1"
+    }
+  },
+  "note": "First published: 2026-10-04; Recorded arXiv version: v1; Recorded version updated: 2026-10-04T12:49:01Z.",
+  "author": [
+    {
+      "literal": "Kaiyu Wu"
+    },
+    {
+      "literal": "Beichen Zheng"
+    },
+    {
+      "literal": "Weiyao Huang"
+    },
+    {
+      "literal": "Keze Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.05185",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,6 +16,8 @@ Training and evaluation environment for Android agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-thudm-android-lab/record.json
+
 ## Structured profile
 
 - actions: Android operations through the agent framework

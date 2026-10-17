@@ -16,9 +16,16 @@ Bibliographic record for Minimizing resource overhead in fusion-based quantum co
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-08611/record.json
+
 ## Authors
 
 Stephen C. Wein, Timothée Goubault de Brugière, Luka Music, Pascale Senellart, Boris Bourdoncle, Shane Mansfield
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-08611/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-08611/citation.csl.json
 
 ## Recorded arXiv snapshot
 

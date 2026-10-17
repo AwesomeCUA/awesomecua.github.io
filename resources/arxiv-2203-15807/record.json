@@ -1,0 +1,69 @@
+{
+  "aliases": [],
+  "authors": [
+    "K. Sozos",
+    "A. Bogris",
+    "P. Bienstman",
+    "G. Sarantoglou",
+    "S. Deligiannidis",
+    "C. Mesaritakis"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2e528a39d84abdbc6500d52e6578d82b78e706434d9da5587db3320eb4f8fe98",
+      "submitted_at": "2022-03-29T09:13:00Z",
+      "updated_at": "2022-03-29T09:13:00Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2203.15807v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:37:01Z",
+      "role": "primary",
+      "sha256": "8bfa074910574410d7988771270feded31e7e1bd1fd0924d4754850d4a5f1914",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=900&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2203.15807",
+  "identifiers": {
+    "arxiv": "2203.15807"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:37:01Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2203.15807"
+    }
+  ],
+  "name": "High Speed Photonic Neuromorphic Computing Using Recurrent Optical Spectrum Slicing Neural Networks",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2022-03-29",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2022-03-29",
+  "url": "https://arxiv.org/abs/2203.15807"
+}

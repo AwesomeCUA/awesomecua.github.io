@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2603.10268",
+  "citation-key": "arxiv_2603_10268",
+  "type": "article",
+  "title": "SpecOps: A Fully Automated AI Agent Testing Framework in Real-World GUI Environments",
+  "URL": "https://arxiv.org/abs/2603.10268v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.10268",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2603.10268",
+    "identifiers": {
+      "arxiv": "2603.10268"
+    },
+    "first_published_at": "2026-03-10",
+    "record_updated_at": "2026-03-10",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8ad18d7fe815f5529fef663130b7ce8841763589e7f4319c0c7556ec2df1da03",
+      "submitted_at": "2026-03-10T22:56:03Z",
+      "updated_at": "2026-03-10T22:56:03Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.10268v1"
+    }
+  },
+  "note": "First published: 2026-03-10; Recorded arXiv version: v1; Recorded version updated: 2026-03-10T22:56:03Z.",
+  "author": [
+    {
+      "literal": "Syed Yusuf Ahmed"
+    },
+    {
+      "literal": "Shiwei Feng"
+    },
+    {
+      "literal": "Chanwoo Bae"
+    },
+    {
+      "literal": "Calix Barrus Xiangyu Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.10268",
+  "genre": "preprint",
+  "version": "1"
+}

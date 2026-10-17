@@ -16,9 +16,16 @@ Bibliographic record for BAMI: Training-Free Bias Mitigation in GUI Grounding. T
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-06664/record.json
+
 ## Authors
 
 Borui Zhang, Bo Zhang, Bo Wang, Wenzhao Zheng, Yuhao Cheng, Liang Tang, Yiqiang Yan, Jie Zhou, Jiwen Lu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-06664/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-06664/citation.csl.json
 
 ## Recorded arXiv snapshot
 

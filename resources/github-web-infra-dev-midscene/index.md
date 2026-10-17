@@ -16,6 +16,8 @@ Visual automation toolkit for web, mobile, and desktop interfaces.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-web-infra-dev-midscene/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/web-infra-dev/midscene/HEAD/LICENSE

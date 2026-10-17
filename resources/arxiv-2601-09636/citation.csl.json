@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2601.09636",
+  "citation-key": "arxiv_2601_09636",
+  "type": "article",
+  "title": "PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records",
+  "URL": "https://arxiv.org/abs/2601.09636v2",
+  "custom": {
+    "catalog_id": "arxiv:2601.09636",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2601.09636",
+    "identifiers": {
+      "arxiv": "2601.09636"
+    },
+    "first_published_at": "2026-01-14",
+    "record_updated_at": "2026-05-13",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d8b697b91942291403491581a61c135c6bfc8b0f3c2a9b9bab0f926af7208fce",
+      "submitted_at": "2026-01-14T17:12:48Z",
+      "updated_at": "2026-05-13T02:54:19Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2601.09636v2"
+    }
+  },
+  "note": "First published: 2026-01-14; Recorded arXiv version: v2; Recorded version updated: 2026-05-13T02:54:19Z.",
+  "author": [
+    {
+      "literal": "Yibo Lyu"
+    },
+    {
+      "literal": "Gongwei Chen"
+    },
+    {
+      "literal": "Rui Shao"
+    },
+    {
+      "literal": "Weili Guan"
+    },
+    {
+      "literal": "Liqiang Nie"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.09636",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,9 +16,16 @@ Uses staged supervised training to combine GUI understanding and grounding with 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-04575/record.json
+
 ## Authors
 
 Yuhang Liu, Pengxiang Li, Zishu Wei, Congkai Xie, Xueyu Hu, Xinchen Xu, Shengyu Zhang, Xiaotian Han, Hongxia Yang, Fei Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-04575/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-04575/citation.csl.json
 
 ## Recorded arXiv snapshot
 

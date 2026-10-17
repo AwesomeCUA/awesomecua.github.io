@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2610.20390",
+  "citation-key": "arxiv_2610_20390",
+  "type": "article",
+  "title": "STP-GUI: Spatially-Aware Token Pruning for Efficient Web-GUI Agents",
+  "URL": "https://arxiv.org/abs/2610.20390v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.20390",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.20390",
+    "identifiers": {
+      "arxiv": "2610.20390"
+    },
+    "first_published_at": "2026-10-14",
+    "record_updated_at": "2026-10-14",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1f9d3ce7dffa8c726ce8129083c8d6c580449d1a32d87c7cd3aaade4fe6cf59b",
+      "submitted_at": "2026-10-14T15:53:48Z",
+      "updated_at": "2026-10-14T15:53:48Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.20390v1"
+    }
+  },
+  "note": "First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T15:53:48Z.",
+  "author": [
+    {
+      "literal": "Shuo Wang"
+    },
+    {
+      "literal": "Sifan Zhou"
+    },
+    {
+      "literal": "Xiaobo Wang"
+    },
+    {
+      "literal": "Tianyu Fu"
+    },
+    {
+      "literal": "Chenxu Zhao"
+    },
+    {
+      "literal": "Anyang Su"
+    },
+    {
+      "literal": "Hanning Wang"
+    },
+    {
+      "literal": "Ping Jiang"
+    },
+    {
+      "literal": "Minghui Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.20390",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Introduces visually grounded website tasks for evaluating multimodal agents that
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2401-13649/record.json
+
 ## Authors
 
 Jing Yu Koh, Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huang, Graham Neubig, Shuyan Zhou, Ruslan Salakhutdinov, Daniel Fried
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2401-13649/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-13649/citation.csl.json
 
 ## Recorded arXiv snapshot
 

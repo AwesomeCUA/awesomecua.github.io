@@ -16,9 +16,16 @@ Bibliographic record for WebChallenger: A Reliable and Efficient Generalist Web 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-10423/record.json
+
 ## Authors
 
 Jayoo Hwang, Xiaowen Zhang, Vedant Padwal
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-10423/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-10423/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2605.08310",
+  "citation-key": "arxiv_2605_08310",
+  "type": "article",
+  "title": "WebTrap: Stealthy Mid-Task Hijacking of Browser Agents During Navigation",
+  "URL": "https://arxiv.org/abs/2605.08310v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.08310",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.08310",
+    "identifiers": {
+      "arxiv": "2605.08310"
+    },
+    "first_published_at": "2026-05-08",
+    "record_updated_at": "2026-05-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "204e3c2627288c7ecd731c7b3c473c34cf9eec976df0a4c8e38b66ed2980f206",
+      "submitted_at": "2026-05-08T14:06:03Z",
+      "updated_at": "2026-05-08T14:06:03Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.08310v1"
+    }
+  },
+  "note": "First published: 2026-05-08; Recorded arXiv version: v1; Recorded version updated: 2026-05-08T14:06:03Z.",
+  "author": [
+    {
+      "literal": "Zhichao Liu"
+    },
+    {
+      "literal": "Wenbo Pan"
+    },
+    {
+      "literal": "Haining Yu"
+    },
+    {
+      "literal": "Ge Gao"
+    },
+    {
+      "literal": "Tianqing Zhu"
+    },
+    {
+      "literal": "Xiaohua Jia"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.08310",
+  "genre": "preprint",
+  "version": "1"
+}

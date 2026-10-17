@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2512.24965",
+  "citation-key": "arxiv_2512_24965",
+  "type": "article",
+  "title": "ShowUI-$π$: Flow-based Generative Models as GUI Dexterous Hands",
+  "URL": "https://arxiv.org/abs/2512.24965v1",
+  "custom": {
+    "catalog_id": "arxiv:2512.24965",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2512.24965",
+    "identifiers": {
+      "arxiv": "2512.24965"
+    },
+    "first_published_at": "2025-12-31",
+    "record_updated_at": "2025-12-31",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b7d1f358b450f2a6c3deb00f1b16c54d443f48fda3a7dc70c77456bebf35ad7c",
+      "submitted_at": "2025-12-31T16:51:14Z",
+      "updated_at": "2025-12-31T16:51:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2512.24965v1"
+    }
+  },
+  "note": "First published: 2025-12-31; Recorded arXiv version: v1; Recorded version updated: 2025-12-31T16:51:14Z.",
+  "author": [
+    {
+      "literal": "Siyuan Hu"
+    },
+    {
+      "literal": "Kevin Qinghong Lin"
+    },
+    {
+      "literal": "Mike Zheng Shou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2512.24965",
+  "genre": "preprint",
+  "version": "1"
+}

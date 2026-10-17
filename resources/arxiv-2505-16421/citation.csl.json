@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2505.16421",
+  "citation-key": "arxiv_2505_16421",
+  "type": "article",
+  "title": "WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2505.16421v2",
+  "custom": {
+    "catalog_id": "arxiv:2505.16421",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2505.16421",
+    "identifiers": {
+      "arxiv": "2505.16421"
+    },
+    "first_published_at": "2025-05-22",
+    "record_updated_at": "2025-10-08",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f311fb50b36c234787e652b5689246460153a8f442e83b312048cdf6a4fb1502",
+      "submitted_at": "2025-05-22T09:07:43Z",
+      "updated_at": "2025-10-08T21:16:43Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2505.16421v2"
+    }
+  },
+  "note": "First published: 2025-05-22; Recorded arXiv version: v2; Recorded version updated: 2025-10-08T21:16:43Z.",
+  "author": [
+    {
+      "literal": "Zhepei Wei"
+    },
+    {
+      "literal": "Wenlin Yao"
+    },
+    {
+      "literal": "Yao Liu"
+    },
+    {
+      "literal": "Weizhi Zhang"
+    },
+    {
+      "literal": "Qin Lu"
+    },
+    {
+      "literal": "Liang Qiu"
+    },
+    {
+      "literal": "Changlong Yu"
+    },
+    {
+      "literal": "Puyang Xu"
+    },
+    {
+      "literal": "Chao Zhang"
+    },
+    {
+      "literal": "Bing Yin"
+    },
+    {
+      "literal": "Hyokun Yun"
+    },
+    {
+      "literal": "Lihong Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.16421",
+  "genre": "preprint",
+  "version": "2"
+}

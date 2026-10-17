@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2502.14282",
+  "citation-key": "arxiv_2502_14282",
+  "type": "article",
+  "title": "PC-Agent: A Hierarchical Multi-Agent Collaboration Framework for Complex Task Automation on PC",
+  "URL": "https://arxiv.org/abs/2502.14282v2",
+  "custom": {
+    "catalog_id": "arxiv:2502.14282",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2502.14282",
+    "identifiers": {
+      "arxiv": "2502.14282"
+    },
+    "first_published_at": "2025-02-20",
+    "record_updated_at": "2025-02-21",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d75b417f4248397b73934f8b8e45199006e4db6e2ee69b62e0846621411b2dd7",
+      "submitted_at": "2025-02-20T05:41:55Z",
+      "updated_at": "2025-02-21T02:54:09Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2502.14282v2"
+    }
+  },
+  "note": "First published: 2025-02-20; Recorded arXiv version: v2; Recorded version updated: 2025-02-21T02:54:09Z.",
+  "author": [
+    {
+      "literal": "Haowei Liu"
+    },
+    {
+      "literal": "Xi Zhang"
+    },
+    {
+      "literal": "Haiyang Xu"
+    },
+    {
+      "literal": "Yuyang Wanyan"
+    },
+    {
+      "literal": "Junyang Wang"
+    },
+    {
+      "literal": "Ming Yan"
+    },
+    {
+      "literal": "Ji Zhang"
+    },
+    {
+      "literal": "Chunfeng Yuan"
+    },
+    {
+      "literal": "Changsheng Xu"
+    },
+    {
+      "literal": "Weiming Hu"
+    },
+    {
+      "literal": "Fei Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.14282",
+  "genre": "preprint",
+  "version": "2"
+}

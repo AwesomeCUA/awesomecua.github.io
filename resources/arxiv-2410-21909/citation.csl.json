@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2410.21909",
+  "citation-key": "arxiv_2410_21909",
+  "type": "article",
+  "title": "SceneGenAgent: Precise Industrial Scene Generation with Coding Agent",
+  "URL": "https://arxiv.org/abs/2410.21909v3",
+  "custom": {
+    "catalog_id": "arxiv:2410.21909",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2410.21909",
+    "identifiers": {
+      "arxiv": "2410.21909"
+    },
+    "first_published_at": "2024-10-29",
+    "record_updated_at": "2025-06-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0945222669ea174806a5f3d951d81ef4925eb264068e01ded866024fb479df11",
+      "submitted_at": "2024-10-29T10:01:40Z",
+      "updated_at": "2025-06-26T06:24:08Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2410.21909v3"
+    }
+  },
+  "note": "First published: 2024-10-29; Recorded arXiv version: v3; Recorded version updated: 2025-06-26T06:24:08Z.",
+  "author": [
+    {
+      "literal": "Xiao Xia"
+    },
+    {
+      "literal": "Dan Zhang"
+    },
+    {
+      "literal": "Zibo Liao"
+    },
+    {
+      "literal": "Zhenyu Hou"
+    },
+    {
+      "literal": "Tianrui Sun"
+    },
+    {
+      "literal": "Jing Li"
+    },
+    {
+      "literal": "Ling Fu"
+    },
+    {
+      "literal": "Yuxiao Dong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.21909",
+  "genre": "preprint",
+  "version": "3"
+}

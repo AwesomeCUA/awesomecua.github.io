@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2605.07505",
+  "citation-key": "arxiv_2605_07505",
+  "type": "article",
+  "title": "LiteGUI: Lightweight GUI Agents via Multi-Solution Guided Distillation and Dual-Level Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2605.07505v2",
+  "custom": {
+    "catalog_id": "arxiv:2605.07505",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.07505",
+    "identifiers": {
+      "arxiv": "2605.07505"
+    },
+    "first_published_at": "2026-05-08",
+    "record_updated_at": "2026-10-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ea5186a99b7dbc7860396835c8adf638c937dbcc673b955d51d85bc5fe7dbb9a",
+      "submitted_at": "2026-05-08T09:38:29Z",
+      "updated_at": "2026-10-08T08:52:00Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2605.07505v2"
+    }
+  },
+  "note": "First published: 2026-05-08; Recorded arXiv version: v2; Recorded version updated: 2026-10-08T08:52:00Z.",
+  "author": [
+    {
+      "literal": "Yubin Wu"
+    },
+    {
+      "literal": "Zicheng Cai"
+    },
+    {
+      "literal": "Liping Ning"
+    },
+    {
+      "literal": "Hua Wang"
+    },
+    {
+      "literal": "Zhi Chen"
+    },
+    {
+      "literal": "Yaohua Tang"
+    },
+    {
+      "literal": "Hao Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.07505",
+  "genre": "preprint",
+  "version": "2"
+}

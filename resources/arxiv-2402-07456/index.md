@@ -16,9 +16,16 @@ Provides an operating-system agent framework connecting applications, files, ter
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-07456/record.json
+
 ## Authors
 
 Zhiyong Wu, Chengcheng Han, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Yao, Tao Yu, Lingpeng Kong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-07456/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-07456/citation.csl.json
 
 ## Recorded arXiv snapshot
 

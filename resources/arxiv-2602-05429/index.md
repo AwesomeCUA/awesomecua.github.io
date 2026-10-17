@@ -16,9 +16,16 @@ Bibliographic record for M$^2$-Miner: Multi-Agent Enhanced MCTS for Mobile GUI A
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-05429/record.json
+
 ## Authors
 
 Rui Lv, Juncheng Mo, Tianyi Chu, Chen Rao, Hongyi Jing, Jiajie Teng, Jiafu Chen, Shiqi Zhang, Liangzi Ding, Shuo Fang, Huaizhong Lin, Ziqiang Dang, Chenguang Ma, Lei Zhao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-05429/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-05429/citation.csl.json
 
 ## Recorded arXiv snapshot
 

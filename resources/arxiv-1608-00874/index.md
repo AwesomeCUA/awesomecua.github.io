@@ -16,9 +16,16 @@ Bibliographic record for Modelling and computation using NCoRM mixtures for dens
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1608-00874/record.json
+
 ## Authors
 
 Jim Griffin, Fabrizio Leisen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1608-00874/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1608-00874/citation.csl.json
 
 ## Recorded arXiv snapshot
 

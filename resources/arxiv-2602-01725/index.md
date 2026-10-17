@@ -16,9 +16,16 @@ Bibliographic record for SafePred: A Predictive Guardrail for Computer-Using Age
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-01725/record.json
+
 ## Authors
 
 Yurun Chen, Zeyi Liao, Ping Yin, Taotao Xie, Keting Yin, Shengyu Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-01725/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-01725/citation.csl.json
 
 ## Recorded arXiv snapshot
 

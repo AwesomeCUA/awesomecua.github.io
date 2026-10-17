@@ -16,9 +16,16 @@ Bibliographic record for Cryptanalysis of Multi-Server Authenticated Key Agreeme
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1401-4790/record.json
+
 ## Authors
 
 Dheerendra Mishra
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1401-4790/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1401-4790/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2412.10742",
+  "citation-key": "arxiv_2412_10742",
+  "type": "article",
+  "title": "WEPO: Web Element Preference Optimization for LLM-based Web Navigation",
+  "URL": "https://arxiv.org/abs/2412.10742v1",
+  "custom": {
+    "catalog_id": "arxiv:2412.10742",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2412.10742",
+    "identifiers": {
+      "arxiv": "2412.10742"
+    },
+    "first_published_at": "2024-12-14",
+    "record_updated_at": "2024-12-14",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e2abbae042d20381aa218e6a2b14a1fc28074543e430ad09031237d22587be7a",
+      "submitted_at": "2024-12-14T08:25:28Z",
+      "updated_at": "2024-12-14T08:25:28Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2412.10742v1"
+    }
+  },
+  "note": "First published: 2024-12-14; Recorded arXiv version: v1; Recorded version updated: 2024-12-14T08:25:28Z.",
+  "author": [
+    {
+      "literal": "Jiarun Liu"
+    },
+    {
+      "literal": "Jia Hao"
+    },
+    {
+      "literal": "Chunhong Zhang"
+    },
+    {
+      "literal": "Zheng Hu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.10742",
+  "genre": "preprint",
+  "version": "1"
+}

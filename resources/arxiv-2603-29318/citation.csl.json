@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2603.29318",
+  "citation-key": "arxiv_2603_29318",
+  "type": "article",
+  "title": "PSPA-Bench: A Personalized Benchmark for Smartphone GUI Agent",
+  "URL": "https://arxiv.org/abs/2603.29318v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.29318",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2603.29318",
+    "identifiers": {
+      "arxiv": "2603.29318"
+    },
+    "first_published_at": "2026-03-31",
+    "record_updated_at": "2026-03-31",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1c71b713efd6ea47e7c78f5dd51d06c5cfdba750529bfbcdfc8e1c69897cbcc9",
+      "submitted_at": "2026-03-31T06:37:12Z",
+      "updated_at": "2026-03-31T06:37:12Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.29318v1"
+    }
+  },
+  "note": "First published: 2026-03-31; Recorded arXiv version: v1; Recorded version updated: 2026-03-31T06:37:12Z.",
+  "author": [
+    {
+      "literal": "Hongyi Nie"
+    },
+    {
+      "literal": "Xunyuan Liu"
+    },
+    {
+      "literal": "Yudong Bai"
+    },
+    {
+      "literal": "Yaqing Wang"
+    },
+    {
+      "literal": "Yang Liu"
+    },
+    {
+      "literal": "Quanming Yao"
+    },
+    {
+      "literal": "Zhen Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.29318",
+  "genre": "preprint",
+  "version": "1"
+}

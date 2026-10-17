@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2310.16588",
+  "citation-key": "arxiv_2310_16588",
+  "type": "article",
+  "title": "Multi-Task Wavelength-Multiplexed Reservoir Computing Using a Silicon Microring Resonator",
+  "URL": "https://arxiv.org/abs/2310.16588v2",
+  "custom": {
+    "catalog_id": "arxiv:2310.16588",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2310.16588",
+    "identifiers": {
+      "arxiv": "2310.16588"
+    },
+    "first_published_at": "2023-10-25",
+    "record_updated_at": "2024-04-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4414c8aa9183d05f24b76972f40b6d5fa3257b84ff45b7b497c5c7947d2a1590",
+      "submitted_at": "2023-10-25T12:24:56Z",
+      "updated_at": "2024-04-27T18:25:51Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2310.16588v2"
+    }
+  },
+  "note": "First published: 2023-10-25; Recorded arXiv version: v2; Recorded version updated: 2024-04-27T18:25:51Z.",
+  "author": [
+    {
+      "literal": "Bernard J. Giron Castro"
+    },
+    {
+      "literal": "Christophe Peucheret"
+    },
+    {
+      "literal": "Darko Zibar"
+    },
+    {
+      "literal": "Francesco Da Ros"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2310.16588",
+  "genre": "preprint",
+  "version": "2"
+}

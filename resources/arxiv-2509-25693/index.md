@@ -16,9 +16,16 @@ Bibliographic record for ScheduleMe: Multi-Agent Calendar Assistant. Title, auth
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-25693/record.json
+
 ## Authors
 
 Oshadha Wijerathne, Amandi Nimasha, Dushan Fernando, Nisansa de Silva, Srinath Perera
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-25693/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-25693/citation.csl.json
 
 ## Recorded arXiv snapshot
 

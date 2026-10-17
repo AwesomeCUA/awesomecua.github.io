@@ -16,9 +16,16 @@ Bibliographic record for Imitation Learning from Observation with Automatic Disc
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-07433/record.json
+
 ## Authors
 
 Yuyang Liu, Weijun Dong, Yingdong Hu, Chuan Wen, Zhao-Heng Yin, Chongjie Zhang, Yang Gao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-07433/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-07433/citation.csl.json
 
 ## Recorded arXiv snapshot
 

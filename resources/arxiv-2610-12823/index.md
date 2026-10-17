@@ -16,9 +16,16 @@ Introduces MisVisAgentBench, a paired executable benchmark that changes chart ev
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-12823/record.json
+
 ## Authors
 
 Yisheng Li, Dongming Han, Hongkun Pan, Bingcheng Mao, Zijian Wang, Yunlong Mao, Wei Tong, Sheng Zhong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-12823/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-12823/citation.csl.json
 
 ## Recorded arXiv snapshot
 

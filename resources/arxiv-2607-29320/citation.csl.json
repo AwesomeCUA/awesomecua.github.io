@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2607.29320",
+  "citation-key": "arxiv_2607_29320",
+  "type": "article",
+  "title": "MAGA: Multi-Platform Self-Fusion of GUI Agents via Structured Action Distillation",
+  "URL": "https://arxiv.org/abs/2607.29320v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.29320",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.29320",
+    "identifiers": {
+      "arxiv": "2607.29320"
+    },
+    "first_published_at": "2026-07-31",
+    "record_updated_at": "2026-07-31",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "dfffaffc68695489e2a705515378112b232e66b6f9e8e3a9bd5df04be95bd2c9",
+      "submitted_at": "2026-07-31T11:51:04Z",
+      "updated_at": "2026-07-31T11:51:04Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.29320v1"
+    }
+  },
+  "note": "First published: 2026-07-31; Recorded arXiv version: v1; Recorded version updated: 2026-07-31T11:51:04Z.",
+  "author": [
+    {
+      "literal": "Hang Yan"
+    },
+    {
+      "literal": "Zhangxuan GU"
+    },
+    {
+      "literal": "Beitong Zhou"
+    },
+    {
+      "literal": "Jiaxuan Chen"
+    },
+    {
+      "literal": "Runze Li"
+    },
+    {
+      "literal": "Yusong Hu"
+    },
+    {
+      "literal": "Shuheng Shen"
+    },
+    {
+      "literal": "Changhua Meng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.29320",
+  "genre": "preprint",
+  "version": "1"
+}

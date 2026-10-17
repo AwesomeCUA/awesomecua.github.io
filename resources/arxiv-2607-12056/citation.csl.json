@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2607.12056",
+  "citation-key": "arxiv_2607_12056",
+  "type": "article",
+  "title": "Designing Agent-Ready Websites for AI Web Agents: A Framework for Machine Readability, Actionability, and Decision Reliability",
+  "URL": "https://arxiv.org/abs/2607.12056v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.12056",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2607.12056",
+    "identifiers": {
+      "arxiv": "2607.12056"
+    },
+    "first_published_at": "2026-07-13",
+    "record_updated_at": "2026-07-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "78eb2b2b4aa393934f615fdd25d5c3887e117fe437e1f6ea33fd0a2ca8e7fa01",
+      "submitted_at": "2026-07-13T18:16:58Z",
+      "updated_at": "2026-07-13T18:16:58Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.12056v1"
+    }
+  },
+  "note": "First published: 2026-07-13; Recorded arXiv version: v1; Recorded version updated: 2026-07-13T18:16:58Z.",
+  "author": [
+    {
+      "literal": "Said Elnaffar"
+    },
+    {
+      "literal": "Farzad Rashidi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.12056",
+  "genre": "preprint",
+  "version": "1"
+}

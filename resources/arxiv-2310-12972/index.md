@@ -16,9 +16,16 @@ Bibliographic record for CCIL: Continuity-based Data Augmentation for Corrective
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-12972/record.json
+
 ## Authors
 
 Liyiming Ke, Yunchu Zhang, Abhay Deshpande, Siddhartha Srinivasa, Abhishek Gupta
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-12972/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-12972/citation.csl.json
 
 ## Recorded arXiv snapshot
 

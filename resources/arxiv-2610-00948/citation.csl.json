@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2610.00948",
+  "citation-key": "arxiv_2610_00948",
+  "type": "article",
+  "title": "GUI-HARVEST: Self-Improving GUI Agents through Evidence-Driven Harness Evolution",
+  "URL": "https://arxiv.org/abs/2610.00948v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.00948",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.00948",
+    "identifiers": {
+      "arxiv": "2610.00948"
+    },
+    "first_published_at": "2026-10-01",
+    "record_updated_at": "2026-10-01",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5c43224c865fba2a9f4c826a8e912ab0c07297716e4b7640bf312cce9c9c510e",
+      "submitted_at": "2026-10-01T02:31:20Z",
+      "updated_at": "2026-10-01T02:31:20Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.00948v1"
+    }
+  },
+  "note": "First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T02:31:20Z.",
+  "author": [
+    {
+      "literal": "Geyi Yang"
+    },
+    {
+      "literal": "Zikun Qu"
+    },
+    {
+      "literal": "Xiang Li"
+    },
+    {
+      "literal": "Zhiyong Wang"
+    },
+    {
+      "literal": "Min Zhang"
+    },
+    {
+      "literal": "Shipei Zeng"
+    },
+    {
+      "literal": "Zhongxiang Dai"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.00948",
+  "genre": "preprint",
+  "version": "1"
+}

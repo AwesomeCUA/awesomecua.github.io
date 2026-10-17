@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2607.18046",
+  "citation-key": "arxiv_2607_18046",
+  "type": "article",
+  "title": "SEE: Structure-aware Exploring & Exploiting for Long-horizon GUI Agent Trajectory Synthesis",
+  "URL": "https://arxiv.org/abs/2607.18046v2",
+  "custom": {
+    "catalog_id": "arxiv:2607.18046",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2607.18046",
+    "identifiers": {
+      "arxiv": "2607.18046"
+    },
+    "first_published_at": "2026-07-20",
+    "record_updated_at": "2026-08-18",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b85b453a688543477d31a940f9d1da2857b2cb7a8cb9eea91a39a3a2b8a1e1c7",
+      "submitted_at": "2026-07-20T15:16:59Z",
+      "updated_at": "2026-08-18T02:32:56Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2607.18046v2"
+    }
+  },
+  "note": "First published: 2026-07-20; Recorded arXiv version: v2; Recorded version updated: 2026-08-18T02:32:56Z.",
+  "author": [
+    {
+      "literal": "Zhuohang Fan"
+    },
+    {
+      "literal": "Beichen Zhang"
+    },
+    {
+      "literal": "Yuanfa Li"
+    },
+    {
+      "literal": "Changqiao Wu"
+    },
+    {
+      "literal": "Wei Liu"
+    },
+    {
+      "literal": "Jian Luan"
+    },
+    {
+      "literal": "Weigang Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.18046",
+  "genre": "preprint",
+  "version": "2"
+}

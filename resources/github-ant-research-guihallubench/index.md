@@ -16,6 +16,8 @@ Benchmark investigating hallucinations in GUI agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-ant-research-guihallubench/record.json
+
 ## License declarations
 
 - code: not recorded

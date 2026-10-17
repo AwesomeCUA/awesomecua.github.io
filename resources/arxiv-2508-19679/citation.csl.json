@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2508.19679",
+  "citation-key": "arxiv_2508_19679",
+  "type": "article",
+  "title": "InquireMobile: Teaching VLM-based Mobile Agent to Request Human Assistance via Reinforcement Fine-Tuning",
+  "URL": "https://arxiv.org/abs/2508.19679v2",
+  "custom": {
+    "catalog_id": "arxiv:2508.19679",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.19679",
+    "identifiers": {
+      "arxiv": "2508.19679"
+    },
+    "first_published_at": "2025-08-27",
+    "record_updated_at": "2026-04-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "385ed1b6e60c27660f0cbf281b0f2bbde052691801f7faae99cc053dfbc0d127",
+      "submitted_at": "2025-08-27T08:40:05Z",
+      "updated_at": "2026-04-25T13:29:08Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2508.19679v2"
+    }
+  },
+  "note": "First published: 2025-08-27; Recorded arXiv version: v2; Recorded version updated: 2026-04-25T13:29:08Z.",
+  "author": [
+    {
+      "literal": "Qihang Ai"
+    },
+    {
+      "literal": "Pi Bu"
+    },
+    {
+      "literal": "Yue Cao"
+    },
+    {
+      "literal": "Yingyao Wang"
+    },
+    {
+      "literal": "Jihao Gu"
+    },
+    {
+      "literal": "Jingxuan Xing"
+    },
+    {
+      "literal": "Zekun Zhu"
+    },
+    {
+      "literal": "Wei Jiang"
+    },
+    {
+      "literal": "Zhicheng Zheng"
+    },
+    {
+      "literal": "Jun Song"
+    },
+    {
+      "literal": "Yuning Jiang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.19679",
+  "genre": "preprint",
+  "version": "2"
+}

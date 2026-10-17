@@ -16,9 +16,16 @@ Bibliographic record for VeriGuard: Enhancing LLM Agent Safety via Verified Code
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-05156/record.json
+
 ## Authors
 
 Lesly Miculicich, Mihir Parmar, Hamid Palangi, Krishnamurthy Dj Dvijotham, Mirko Montanari, Tomas Pfister, Long T. Le
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-05156/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-05156/citation.csl.json
 
 ## Recorded arXiv snapshot
 

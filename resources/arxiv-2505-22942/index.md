@@ -16,9 +16,16 @@ Uses rule-based rewards for output structure and action correctness to train rea
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-22942/record.json
+
 ## Authors
 
 Yuchen Zhuang, Di Jin, Jiaao Chen, Wenqi Shi, Hanrui Wang, Chao Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-22942/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-22942/citation.csl.json
 
 ## Recorded arXiv snapshot
 

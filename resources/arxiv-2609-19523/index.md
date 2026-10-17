@@ -16,9 +16,16 @@ Bibliographic record for EconSkills: Studying Skill Transfer and Retrieval for W
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-19523/record.json
+
 ## Authors
 
 Yinzhu Quan, Zefang Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-19523/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-19523/citation.csl.json
 
 ## Recorded arXiv snapshot
 

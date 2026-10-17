@@ -16,9 +16,16 @@ Bibliographic record for Grounding Computer Use Agents on Human Demonstrations. 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-07332/record.json
+
 ## Authors
 
 Aarash Feizi, Shravan Nayak, Xiangru Jian, Kevin Qinghong Lin, Kaixin Li, Rabiul Awal, Xing Han Lù, Johan Obando-Ceron, Juan A. Rodriguez, Nicolas Chapados, David Vazquez, Adriana Romero-Soriano, Reihaneh Rabbany, Perouz Taslakian, Christopher Pal, Spandana Gella, Sai Rajeswar
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-07332/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-07332/citation.csl.json
 
 ## Recorded arXiv snapshot
 

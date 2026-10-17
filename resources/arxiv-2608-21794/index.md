@@ -16,9 +16,16 @@ Studies whether text-embedding GUI grounding scores reflect semantic matching or
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-21794/record.json
+
 ## Authors
 
 Qijia Chen, Giulio Jacucci
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-21794/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-21794/citation.csl.json
 
 ## Recorded arXiv snapshot
 

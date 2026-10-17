@@ -16,6 +16,8 @@ Evaluation resources for adversarial attacks on multimodal web agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-chenwu98-agent-attack/record.json
+
 ## License declarations
 
 - code: not recorded

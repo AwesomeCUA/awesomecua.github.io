@@ -1,0 +1,93 @@
+{
+  "aliases": [],
+  "authors": [
+    "Miaosen Zhang",
+    "Ziqiang Xu",
+    "Jialiang Zhu",
+    "Qi Dai",
+    "Kai Qiu",
+    "Yifan Yang",
+    "Chong Luo",
+    "Tianyi Chen",
+    "Justin Wagle",
+    "Tim Franklin",
+    "Baining Guo"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2a7a32f30d2ada7f739e460429b6453d0e0e56364dda8653b0511ef2e9e6df2a",
+      "submitted_at": "2025-07-31T17:59:09Z",
+      "updated_at": "2025-07-31T17:59:09Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2507.23779v1"
+    }
+  },
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:50Z",
+      "role": "primary",
+      "sha256": "26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:50Z",
+      "role": "primary",
+      "sha256": "26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2507.23779",
+  "identifiers": {
+    "arxiv": "2507.23779"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:50Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2507.23779"
+    }
+  ],
+  "name": "Phi-Ground Tech Report: Advancing Perception in GUI Grounding",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2025-07-31",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Reports a GUI-grounding model family and empirical design choices covering source data, perception training, and coordinate prediction.",
+  "topics": [
+    "grounding",
+    "screen-understanding"
+  ],
+  "updated_at": "2025-07-31",
+  "url": "https://arxiv.org/abs/2507.23779"
+}

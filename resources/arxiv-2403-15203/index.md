@@ -16,9 +16,16 @@ Bibliographic record for DITTO: Demonstration Imitation by Trajectory Transforma
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-15203/record.json
+
 ## Authors
 
 Nick Heppert, Max Argus, Tim Welschehold, Thomas Brox, Abhinav Valada
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-15203/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-15203/citation.csl.json
 
 ## Recorded arXiv snapshot
 

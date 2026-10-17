@@ -16,9 +16,16 @@ Introduces AskEase, an on-demand assistant that combines contextual information 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-18092/record.json
+
 ## Authors
 
 Nan Chen, Jing Lu, Zilong Wang, Luna K. Qiu, Siming Chen, Yuqing Yang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-18092/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-18092/citation.csl.json
 
 ## Recorded arXiv snapshot
 

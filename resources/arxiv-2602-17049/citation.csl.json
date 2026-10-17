@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2602.17049",
+  "citation-key": "arxiv_2602_17049",
+  "type": "article",
+  "title": "IntentCUA: Learning Intent-level Representations for Skill Abstraction and Multi-Agent Planning in Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2602.17049v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.17049",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.17049",
+    "identifiers": {
+      "arxiv": "2602.17049"
+    },
+    "first_published_at": "2026-02-19",
+    "record_updated_at": "2026-02-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "32c3c5005eddd3f748bdfbfdb9d82fefc77cf11e77fcc36d74aae648df8f3103",
+      "submitted_at": "2026-02-19T03:42:15Z",
+      "updated_at": "2026-02-27T03:23:32Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.17049v2"
+    }
+  },
+  "note": "First published: 2026-02-19; Recorded arXiv version: v2; Recorded version updated: 2026-02-27T03:23:32Z.",
+  "author": [
+    {
+      "literal": "Seoyoung Lee"
+    },
+    {
+      "literal": "Seobin Yoon"
+    },
+    {
+      "literal": "Seongbeen Lee"
+    },
+    {
+      "literal": "Yoojung Chun"
+    },
+    {
+      "literal": "Dayoung Park"
+    },
+    {
+      "literal": "Doyeon Kim"
+    },
+    {
+      "literal": "Joo Yong Sim"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.17049",
+  "genre": "preprint",
+  "version": "2"
+}

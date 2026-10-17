@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2112.08086",
+  "citation-key": "arxiv_2112_08086",
+  "type": "article",
+  "title": "Photonic neuromorphic computing using vertical cavity semiconductor lasers",
+  "URL": "https://arxiv.org/abs/2112.08086v1",
+  "custom": {
+    "catalog_id": "arxiv:2112.08086",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2112.08086",
+    "identifiers": {
+      "arxiv": "2112.08086"
+    },
+    "first_published_at": "2021-12-15",
+    "record_updated_at": "2021-12-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f85e7b074d23fe141edf952cdc4850565f813fd6f0d411979c7366073f8bb7c3",
+      "submitted_at": "2021-12-15T12:45:39Z",
+      "updated_at": "2021-12-15T12:45:39Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2112.08086v1"
+    }
+  },
+  "note": "First published: 2021-12-15; Recorded arXiv version: v1; Recorded version updated: 2021-12-15T12:45:39Z.",
+  "author": [
+    {
+      "literal": "Anas Skalli"
+    },
+    {
+      "literal": "Joshua Robertson"
+    },
+    {
+      "literal": "Dafydd Owen-Newns"
+    },
+    {
+      "literal": "Matej Hejda"
+    },
+    {
+      "literal": "Xavier Porte"
+    },
+    {
+      "literal": "Stephan Reitzenstein"
+    },
+    {
+      "literal": "Antonio Hurtado"
+    },
+    {
+      "literal": "D. Brunner"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        12,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2112.08086",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:1609.05178",
+  "citation-key": "arxiv_1609_05178",
+  "type": "article",
+  "title": "Privacy Preserving Distance Computation using Somewhat-trusted Third Parties",
+  "URL": "https://arxiv.org/abs/1609.05178v2",
+  "custom": {
+    "catalog_id": "arxiv:1609.05178",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1609.05178",
+    "identifiers": {
+      "arxiv": "1609.05178"
+    },
+    "first_published_at": "2016-09-16",
+    "record_updated_at": "2016-09-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "28e003f11dad4a1d2be839fb4d1c7736cd64a812d124fda63e7ba8dfd0da71cb",
+      "submitted_at": "2016-09-16T19:02:04Z",
+      "updated_at": "2016-09-23T16:12:08Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/1609.05178v2"
+    }
+  },
+  "note": "First published: 2016-09-16; Recorded arXiv version: v2; Recorded version updated: 2016-09-23T16:12:08Z.",
+  "author": [
+    {
+      "literal": "Abelino Jimenez"
+    },
+    {
+      "literal": "Bhiksha Raj"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2016,
+        9,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1609.05178",
+  "genre": "preprint",
+  "version": "2"
+}

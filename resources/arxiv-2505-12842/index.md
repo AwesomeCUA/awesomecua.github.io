@@ -16,9 +16,16 @@ Bibliographic record for GEM: Gaussian Embedding Modeling for Out-of-Distributio
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-12842/record.json
+
 ## Authors
 
 Zheng Wu, Pengzhou Cheng, Zongru Wu, Lingzhong Dong, Zhuosheng Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-12842/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-12842/citation.csl.json
 
 ## Recorded arXiv snapshot
 

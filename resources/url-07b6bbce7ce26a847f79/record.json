@@ -1,0 +1,65 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "access": "publisher-managed",
+    "availability": "not independently tested",
+    "pricing_url": null
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:40:54Z",
+      "role": "primary",
+      "sha256": "bd3e99c1e12588bc3136dfa27de2c0d5790b6f6f25f2696988eb182c6b1ef670",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://claude.com/chrome"
+    }
+  ],
+  "id": "url:07b6bbce7ce26a847f79",
+  "identifiers": {},
+  "kind": "product",
+  "last_verified_at": "2026-10-16T06:40:54Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://claude.com/chrome"
+    }
+  ],
+  "name": "Claude for Chrome",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://claude.com/chrome",
+      "target_id": "organization:anthropic",
+      "type": "published_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Claude browser extension for interacting with websites.",
+  "topics": [
+    "web-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://claude.com/chrome"
+}

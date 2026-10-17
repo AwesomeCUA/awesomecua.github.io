@@ -16,6 +16,8 @@ Browser automation framework combining code and natural-language actions.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-browserbase-stagehand/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/browserbase/stagehand/HEAD/LICENSE

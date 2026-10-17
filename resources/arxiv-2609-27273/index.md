@@ -16,9 +16,16 @@ Introduces CAVEAT, a controlled marketplace benchmark for testing whether delega
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-27273/record.json
+
 ## Authors
 
 Yuxuan Li, Will Epperson, Wesley Deng, Zezhou Huang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-27273/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-27273/citation.csl.json
 
 ## Recorded arXiv snapshot
 

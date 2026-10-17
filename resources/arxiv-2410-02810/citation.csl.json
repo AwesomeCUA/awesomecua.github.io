@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2410.02810",
+  "citation-key": "arxiv_2410_02810",
+  "type": "article",
+  "title": "StateAct: Enhancing LLM Base Agents via Self-prompting and State-tracking",
+  "URL": "https://arxiv.org/abs/2410.02810v3",
+  "custom": {
+    "catalog_id": "arxiv:2410.02810",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.02810",
+    "identifiers": {
+      "arxiv": "2410.02810"
+    },
+    "first_published_at": "2024-09-21",
+    "record_updated_at": "2025-04-08",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8a2e16e978f50c8d7161a11a11fba6aeda9617663de1746422151d38c4874cc9",
+      "submitted_at": "2024-09-21T05:54:35Z",
+      "updated_at": "2025-04-08T06:37:51Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2410.02810v3"
+    }
+  },
+  "note": "First published: 2024-09-21; Recorded arXiv version: v3; Recorded version updated: 2025-04-08T06:37:51Z.",
+  "author": [
+    {
+      "literal": "Nikolai Rozanov"
+    },
+    {
+      "literal": "Marek Rei"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.02810",
+  "genre": "preprint",
+  "version": "3"
+}

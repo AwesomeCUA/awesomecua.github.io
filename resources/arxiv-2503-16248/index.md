@@ -16,9 +16,16 @@ Bibliographic record for Real AI Agents with Fake Memories: Fatal Context Manipu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-16248/record.json
+
 ## Authors
 
 Atharv Singh Patlan, Peiyao Sheng, S. Ashwin Hebbar, Prateek Mittal, Pramod Viswanath
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-16248/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-16248/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Mirage-1 organizes interaction trajectories into execution, core, and meta-skill
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-10387/record.json
+
 ## Authors
 
 Yuquan Xie, Zaijing Li, Rui Shao, Gongwei Chen, Kaiwen Zhou, Yinchuan Li, Dongmei Jiang, Liqiang Nie
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-10387/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-10387/citation.csl.json
 
 ## Recorded arXiv snapshot
 

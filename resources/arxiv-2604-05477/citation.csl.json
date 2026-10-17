@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2604.05477",
+  "citation-key": "arxiv_2604_05477",
+  "type": "article",
+  "title": "Don't Act Blindly: Robust GUI Automation via Action-Effect Verification and Self-Correction",
+  "URL": "https://arxiv.org/abs/2604.05477v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.05477",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.05477",
+    "identifiers": {
+      "arxiv": "2604.05477"
+    },
+    "first_published_at": "2026-04-07",
+    "record_updated_at": "2026-04-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7c9ef656cbee786bec0d37ac4915bfd04adb36410eda8e647fab0d8605f90753",
+      "submitted_at": "2026-04-07T06:16:23Z",
+      "updated_at": "2026-04-07T06:16:23Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.05477v1"
+    }
+  },
+  "note": "First published: 2026-04-07; Recorded arXiv version: v1; Recorded version updated: 2026-04-07T06:16:23Z.",
+  "author": [
+    {
+      "literal": "Yuzhe Zhang"
+    },
+    {
+      "literal": "Xianwei Xue"
+    },
+    {
+      "literal": "Xingyong Wu"
+    },
+    {
+      "literal": "Mengke Chen"
+    },
+    {
+      "literal": "Chen Liu"
+    },
+    {
+      "literal": "Xinran He"
+    },
+    {
+      "literal": "Run Shao"
+    },
+    {
+      "literal": "Feiran Liu"
+    },
+    {
+      "literal": "Huanmin Xu"
+    },
+    {
+      "literal": "Qiutong Pan"
+    },
+    {
+      "literal": "Haiwei Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.05477",
+  "genre": "preprint",
+  "version": "1"
+}

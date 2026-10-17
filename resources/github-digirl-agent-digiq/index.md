@@ -16,6 +16,8 @@ Offline device-control training code that learns action values and uses them to 
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-digirl-agent-digiq/record.json
+
 ## License declarations
 
 - code: not recorded

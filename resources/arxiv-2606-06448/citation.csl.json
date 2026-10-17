@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2606.06448",
+  "citation-key": "arxiv_2606_06448",
+  "type": "article",
+  "title": "Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads",
+  "URL": "https://arxiv.org/abs/2606.06448v2",
+  "custom": {
+    "catalog_id": "arxiv:2606.06448",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.06448",
+    "identifiers": {
+      "arxiv": "2606.06448"
+    },
+    "first_published_at": "2026-06-04",
+    "record_updated_at": "2026-09-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2b97e46f1c9ef1f5ecac50cc0a0a918860dd1e76f8016ba64c459db7ea095186",
+      "submitted_at": "2026-06-04T17:44:18Z",
+      "updated_at": "2026-09-22T17:40:09Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2606.06448v2"
+    }
+  },
+  "note": "First published: 2026-06-04; Recorded arXiv version: v2; Recorded version updated: 2026-09-22T17:40:09Z.",
+  "author": [
+    {
+      "literal": "Yasmine Omri"
+    },
+    {
+      "literal": "Ziyu Gan"
+    },
+    {
+      "literal": "Zachary Broveak"
+    },
+    {
+      "literal": "Robin Geens"
+    },
+    {
+      "literal": "Zexue He"
+    },
+    {
+      "literal": "Alex Pentland"
+    },
+    {
+      "literal": "Marian Verhelst"
+    },
+    {
+      "literal": "Tsachy Weissman"
+    },
+    {
+      "literal": "Thierry Tambe"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.06448",
+  "genre": "preprint",
+  "version": "2"
+}

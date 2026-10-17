@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2604.00073",
+  "citation-key": "arxiv_2604_00073",
+  "type": "article",
+  "title": "Terminal Agents Suffice for Enterprise Automation",
+  "URL": "https://arxiv.org/abs/2604.00073v4",
+  "custom": {
+    "catalog_id": "arxiv:2604.00073",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.00073",
+    "identifiers": {
+      "arxiv": "2604.00073"
+    },
+    "first_published_at": "2026-03-31",
+    "record_updated_at": "2026-10-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "93eb667bf6af8fe98bdbf5930c6a2f67a7fa0b74dda8b3f0667ddefa58a0aa7b",
+      "submitted_at": "2026-03-31T14:14:47Z",
+      "updated_at": "2026-10-14T14:23:23Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2604.00073v4"
+    }
+  },
+  "note": "First published: 2026-03-31; Recorded arXiv version: v4; Recorded version updated: 2026-10-14T14:23:23Z.",
+  "author": [
+    {
+      "literal": "Patrice Bechard"
+    },
+    {
+      "literal": "Orlando Marquez Ayala"
+    },
+    {
+      "literal": "Emily Chen"
+    },
+    {
+      "literal": "Jordan Skelton"
+    },
+    {
+      "literal": "Sagar Davasam"
+    },
+    {
+      "literal": "Srinivas Sunkara"
+    },
+    {
+      "literal": "Vikas Yadav"
+    },
+    {
+      "literal": "Sai Rajeswar"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.00073",
+  "genre": "preprint",
+  "version": "4"
+}

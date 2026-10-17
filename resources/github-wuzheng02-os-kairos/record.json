@@ -1,0 +1,62 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T13:14:29Z",
+      "role": "primary",
+      "sha256": "15d40c50df8493575a94aa2aa4913c654fea7b7f821d99b7bf443a64f1cc50d3",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/Wuzheng02/OS-Kairos/HEAD/README.md"
+    }
+  ],
+  "id": "github:wuzheng02/os-kairos",
+  "identifiers": {},
+  "kind": "agent",
+  "last_verified_at": "2026-10-16T13:14:29Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/Wuzheng02/OS-Kairos"
+    }
+  ],
+  "name": "OS-Kairos",
+  "notes": "The documented evaluation modes distinguish model-simulated human feedback from actual human interaction; preserve that distinction when interpreting results.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/Wuzheng02/OS-Kairos/HEAD/README.md",
+      "target_id": "arxiv:2503.16465",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Android GUI-agent research implementation that uses confidence-guided interaction to choose between autonomous actions and human assistance.",
+  "topics": [
+    "human-in-the-loop",
+    "safety-security",
+    "mobile-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/Wuzheng02/OS-Kairos"
+}

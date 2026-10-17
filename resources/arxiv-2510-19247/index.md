@@ -16,9 +16,16 @@ Bibliographic record for SheetBrain: A Neuro-Symbolic Agent for Accurate Reasoni
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-19247/record.json
+
 ## Authors
 
 Ziwei Wang, Jiayuan Su, Mengyu Zhou, Huaxing Zeng, Mengni Jia, Xiao Lv, Haoyu Dong, Xiaojun Ma, Shi Han, Dongmei Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-19247/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-19247/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2508.09981",
+  "citation-key": "arxiv_2508_09981",
+  "type": "article",
+  "title": "LLMC+: Benchmarking Vision-Language Model Compression with a Plug-and-play Toolkit",
+  "URL": "https://arxiv.org/abs/2508.09981v2",
+  "custom": {
+    "catalog_id": "arxiv:2508.09981",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.09981",
+    "identifiers": {
+      "arxiv": "2508.09981"
+    },
+    "first_published_at": "2025-08-13",
+    "record_updated_at": "2025-11-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "16ce6a3892dc02d73eed4e8d7032ee732b28e3b1b983790806454f1c57d1f5a9",
+      "submitted_at": "2025-08-13T17:54:49Z",
+      "updated_at": "2025-11-17T13:22:24Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2508.09981v2"
+    }
+  },
+  "note": "First published: 2025-08-13; Recorded arXiv version: v2; Recorded version updated: 2025-11-17T13:22:24Z.",
+  "author": [
+    {
+      "literal": "Chengtao Lv"
+    },
+    {
+      "literal": "Bilang Zhang"
+    },
+    {
+      "literal": "Yang Yong"
+    },
+    {
+      "literal": "Ruihao Gong"
+    },
+    {
+      "literal": "Yushi Huang"
+    },
+    {
+      "literal": "Shiqiao Gu"
+    },
+    {
+      "literal": "Jiajun Wu"
+    },
+    {
+      "literal": "Yumeng Shi"
+    },
+    {
+      "literal": "Jinyang Guo"
+    },
+    {
+      "literal": "Wenya Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.09981",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Who Puts the "Social" in "Social Computing"?: Using A N
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-15527/record.json
+
 ## Authors
 
 Philip Baillargeon, Jina Yoon, Amy Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-15527/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-15527/citation.csl.json
 
 ## Recorded arXiv snapshot
 

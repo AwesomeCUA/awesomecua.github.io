@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2510.14621",
+  "citation-key": "arxiv_2510_14621",
+  "type": "article",
+  "title": "ColorBench: Benchmarking Mobile Agents with Graph-Structured Framework for Complex Long-Horizon Tasks",
+  "URL": "https://arxiv.org/abs/2510.14621v1",
+  "custom": {
+    "catalog_id": "arxiv:2510.14621",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.14621",
+    "identifiers": {
+      "arxiv": "2510.14621"
+    },
+    "first_published_at": "2025-10-16",
+    "record_updated_at": "2025-10-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fc45dc62068c971cd831fc3db64bd3d8995d4e5fd60e9c83953476d4fb24f7f3",
+      "submitted_at": "2025-10-16T12:30:05Z",
+      "updated_at": "2025-10-16T12:30:05Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2510.14621v1"
+    }
+  },
+  "note": "First published: 2025-10-16; Recorded arXiv version: v1; Recorded version updated: 2025-10-16T12:30:05Z.",
+  "author": [
+    {
+      "literal": "Yuanyi Song"
+    },
+    {
+      "literal": "Heyuan Huang"
+    },
+    {
+      "literal": "Qiqiang Lin"
+    },
+    {
+      "literal": "Yin Zhao"
+    },
+    {
+      "literal": "Xiangmou Qu"
+    },
+    {
+      "literal": "Jun Wang"
+    },
+    {
+      "literal": "Xingyu Lou"
+    },
+    {
+      "literal": "Weiwen Liu"
+    },
+    {
+      "literal": "Zhuosheng Zhang"
+    },
+    {
+      "literal": "Jun Wang"
+    },
+    {
+      "literal": "Yong Yu"
+    },
+    {
+      "literal": "Weinan Zhang"
+    },
+    {
+      "literal": "Zhaoxiang Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.14621",
+  "genre": "preprint",
+  "version": "1"
+}

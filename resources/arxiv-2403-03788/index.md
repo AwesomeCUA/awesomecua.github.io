@@ -16,9 +16,16 @@ Bibliographic record for PPTC-R benchmark: Towards Evaluating the Robustness of 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-03788/record.json
+
 ## Authors
 
 Zekai Zhang, Yiduo Guo, Yaobo Liang, Dongyan Zhao, Nan Duan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-03788/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-03788/citation.csl.json
 
 ## Recorded arXiv snapshot
 

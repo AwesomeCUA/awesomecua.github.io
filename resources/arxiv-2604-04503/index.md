@@ -16,9 +16,16 @@ Bibliographic record for Memory Intelligence Agent. Title, authors and dates che
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-04503/record.json
+
 ## Authors
 
 Jingyang Qiao, Weicheng Meng, Yu Cheng, Zhihang Lin, Zhizhong Zhang, Xin Tan, Jingyu Gong, Kun Shao, Yuan Xie
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-04503/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-04503/citation.csl.json
 
 ## Recorded arXiv snapshot
 

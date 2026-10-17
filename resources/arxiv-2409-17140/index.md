@@ -16,9 +16,16 @@ Bibliographic record for AXIS: Efficient Human-Agent-Computer Interaction with A
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-17140/record.json
+
 ## Authors
 
 Junting Lu, Zhiyang Zhang, Fangkai Yang, Jue Zhang, Lu Wang, Chao Du, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-17140/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-17140/citation.csl.json
 
 ## Recorded arXiv snapshot
 

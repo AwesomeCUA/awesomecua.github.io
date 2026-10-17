@@ -16,9 +16,16 @@ Bibliographic record for CrossLMM: Decoupling Long Video Sequences from LMMs via
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-17020/record.json
+
 ## Authors
 
 Shilin Yan, Jiaming Han, Joey Tsai, Hongwei Xue, Rongyao Fang, Lingyi Hong, Ziyu Guo, Ray Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-17020/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-17020/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2603.10577",
+  "citation-key": "arxiv_2603_10577",
+  "type": "article",
+  "title": "CUAAudit: Meta-Evaluation of Vision-Language Models as Auditors of Autonomous Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2603.10577v2",
+  "custom": {
+    "catalog_id": "arxiv:2603.10577",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2603.10577",
+    "identifiers": {
+      "arxiv": "2603.10577"
+    },
+    "first_published_at": "2026-03-11",
+    "record_updated_at": "2026-03-12",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "048dc7332372585872f5fd3da47a10bd999c7520b2999e45ea6f578b7c856400",
+      "submitted_at": "2026-03-11T09:28:41Z",
+      "updated_at": "2026-03-12T07:30:09Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2603.10577v2"
+    }
+  },
+  "note": "First published: 2026-03-11; Recorded arXiv version: v2; Recorded version updated: 2026-03-12T07:30:09Z.",
+  "author": [
+    {
+      "literal": "Marta Sumyk"
+    },
+    {
+      "literal": "Oleksandr Kosovan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.10577",
+  "genre": "preprint",
+  "version": "2"
+}

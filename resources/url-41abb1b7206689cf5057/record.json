@@ -1,0 +1,85 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/datasets/KDEGroup/UI-AGILE-Data/tree/main",
+    "gated": false,
+    "hub_id": "KDEGroup/UI-AGILE-Data",
+    "languages": [],
+    "modalities": [],
+    "sample_count": null,
+    "sample_unit": null
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:43:19Z",
+      "role": "primary",
+      "sha256": "ce35413bc1ef28338bc6fd9f132fa271a4f5e0bf23cecd7346f54adf0a964fd7",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/datasets/KDEGroup/UI-AGILE-Data/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:43:19Z",
+      "role": "primary",
+      "sha256": "7782422de88830a497d9eb530bd2f0fb6283904cbb25dafcf2ff4d03358a377a",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/api/datasets/KDEGroup/UI-AGILE-Data"
+    }
+  ],
+  "id": "url:41abb1b7206689cf5057",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-17T02:43:19Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/KDEGroup/UI-AGILE-Data"
+    }
+  ],
+  "name": "UI-AGILE-Data",
+  "notes": "Public JSON, image archives and Parquet evaluation files are present. The card has no data-license declaration; the model’s MIT declaration is not inherited. The publisher describes fixes to AndroidControl action parameters, but those corrections were not independently reproduced or applied to upstream resources.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/KDEGroup/UI-AGILE-Data/raw/main/README.md",
+      "target_id": "arxiv:2507.22025",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "UI-AGILE training annotations and screenshots together with converted GUI-grounding and AndroidControl evaluation files.",
+  "topics": [
+    "grounding",
+    "reinforcement-learning",
+    "evaluation"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/KDEGroup/UI-AGILE-Data"
+}

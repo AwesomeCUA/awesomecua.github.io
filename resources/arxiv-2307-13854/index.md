@@ -16,9 +16,16 @@ Introduces reproducible web environments with task-completion checks for evaluat
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2307-13854/record.json
+
 ## Authors
 
 Shuyan Zhou, Frank F. Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Tianyue Ou, Yonatan Bisk, Daniel Fried, Uri Alon, Graham Neubig
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2307-13854/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2307-13854/citation.csl.json
 
 ## Recorded arXiv snapshot
 

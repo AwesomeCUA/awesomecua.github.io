@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2503.02197",
+  "citation-key": "arxiv_2503_02197",
+  "type": "article",
+  "title": "ATLaS: Agent Tuning via Learning Critical Steps",
+  "URL": "https://arxiv.org/abs/2503.02197v2",
+  "custom": {
+    "catalog_id": "arxiv:2503.02197",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2503.02197",
+    "identifiers": {
+      "arxiv": "2503.02197"
+    },
+    "first_published_at": "2025-03-04",
+    "record_updated_at": "2025-06-05",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2a58e33cd2b60a8c734968dd92f031b9aa4811932b1a666d947b20ec4c6035a7",
+      "submitted_at": "2025-03-04T02:14:55Z",
+      "updated_at": "2025-06-05T01:42:08Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2503.02197v2"
+    }
+  },
+  "note": "First published: 2025-03-04; Recorded arXiv version: v2; Recorded version updated: 2025-06-05T01:42:08Z.",
+  "author": [
+    {
+      "literal": "Zhixun Chen"
+    },
+    {
+      "literal": "Ming Li"
+    },
+    {
+      "literal": "Yuxuan Huang"
+    },
+    {
+      "literal": "Yali Du"
+    },
+    {
+      "literal": "Meng Fang"
+    },
+    {
+      "literal": "Tianyi Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.02197",
+  "genre": "preprint",
+  "version": "2"
+}

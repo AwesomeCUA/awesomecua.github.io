@@ -16,9 +16,16 @@ Orcust combines principle-constrained reward modeling with GUI trajectory collec
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-17917/record.json
+
 ## Authors
 
 Junyu Lu, Songxin Zhang, Zejian Xie, Zhuoyang Song, Jiaxing Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-17917/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-17917/citation.csl.json
 
 ## Recorded arXiv snapshot
 

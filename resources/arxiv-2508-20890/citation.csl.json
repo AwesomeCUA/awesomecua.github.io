@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2508.20890",
+  "citation-key": "arxiv_2508_20890",
+  "type": "article",
+  "title": "PromptSleuth: Detecting Prompt Injection via Semantic Intent Invariance",
+  "URL": "https://arxiv.org/abs/2508.20890v2",
+  "custom": {
+    "catalog_id": "arxiv:2508.20890",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.20890",
+    "identifiers": {
+      "arxiv": "2508.20890"
+    },
+    "first_published_at": "2025-08-28",
+    "record_updated_at": "2025-09-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "64f50da9df01912b7f17e1c58be1974829cd3785c864b682e40f1a85ee51fd66",
+      "submitted_at": "2025-08-28T15:19:07Z",
+      "updated_at": "2025-09-16T01:18:20Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2508.20890v2"
+    }
+  },
+  "note": "First published: 2025-08-28; Recorded arXiv version: v2; Recorded version updated: 2025-09-16T01:18:20Z.",
+  "author": [
+    {
+      "literal": "Mengxiao Wang"
+    },
+    {
+      "literal": "Yuxuan Zhang"
+    },
+    {
+      "literal": "Guofei Gu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.20890",
+  "genre": "preprint",
+  "version": "2"
+}

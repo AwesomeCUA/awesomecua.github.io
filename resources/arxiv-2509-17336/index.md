@@ -16,9 +16,16 @@ Bibliographic record for Mano Technical Report. Title, authors and dates checked
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-17336/record.json
+
 ## Authors
 
 Tianyu Fu, Anyang Su, Chenxu Zhao, Hanning Wang, Minghui Wu, Zhe Yu, Fei Hu, Mingjia Shi, Wei Dong, Jiayao Wang, Yuyang Chen, Ruiyang Yu, Siran Peng, Menglin Li, Nan Huang, Haitian Wei, Jiawei Yu, Yi Xin, Xilin Zhao, Kai Gu, Ping Jiang, Sifan Zhou, Shuo Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-17336/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-17336/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Componentwise accurate Brownian motion computations usi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1605-01482/record.json
+
 ## Authors
 
 Giang T. Nguyen, Federico Poloni
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1605-01482/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1605-01482/citation.csl.json
 
 ## Recorded arXiv snapshot
 

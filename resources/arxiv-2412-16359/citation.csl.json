@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2412.16359",
+  "citation-key": "arxiv_2412_16359",
+  "type": "article",
+  "title": "Human-Readable Adversarial Prompts: An Investigation into LLM Vulnerabilities Using Situational Context",
+  "URL": "https://arxiv.org/abs/2412.16359v3",
+  "custom": {
+    "catalog_id": "arxiv:2412.16359",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2412.16359",
+    "identifiers": {
+      "arxiv": "2412.16359"
+    },
+    "first_published_at": "2024-12-20",
+    "record_updated_at": "2025-05-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8c96e32d280d7b12add520ade56e4ecc1cb37c4fc84018693c572c7b3ab1fa9c",
+      "submitted_at": "2024-12-20T21:43:52Z",
+      "updated_at": "2025-05-29T05:54:54Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2412.16359v3"
+    }
+  },
+  "note": "First published: 2024-12-20; Recorded arXiv version: v3; Recorded version updated: 2025-05-29T05:54:54Z.",
+  "author": [
+    {
+      "literal": "Nilanjana Das"
+    },
+    {
+      "literal": "Edward Raff"
+    },
+    {
+      "literal": "Aman Chadha"
+    },
+    {
+      "literal": "Manas Gaur"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.16359",
+  "genre": "preprint",
+  "version": "3"
+}

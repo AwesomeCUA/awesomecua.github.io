@@ -16,6 +16,8 @@ Reinforcement learning for autonomous mobile device control.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-digirl-agent-digirl/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/DigiRL-agent/digirl/HEAD/LICENSE

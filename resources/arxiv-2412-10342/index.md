@@ -16,9 +16,16 @@ Combines information-sensitive image cropping with a learning loop between eleme
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-10342/record.json
+
 ## Authors
 
 Zhiqi Ge, Juncheng Li, Xinglei Pang, Minghe Gao, Kaihang Pan, Wang Lin, Hao Fei, Wenqiao Zhang, Siliang Tang, Yueting Zhuang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-10342/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-10342/citation.csl.json
 
 ## Recorded arXiv snapshot
 

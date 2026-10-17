@@ -16,9 +16,16 @@ Combines offline initialization and online reinforcement learning in Android env
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-11896/record.json
+
 ## Authors
 
 Hao Bai, Yifei Zhou, Mert Cemri, Jiayi Pan, Alane Suhr, Sergey Levine, Aviral Kumar
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-11896/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-11896/citation.csl.json
 
 ## Recorded arXiv snapshot
 

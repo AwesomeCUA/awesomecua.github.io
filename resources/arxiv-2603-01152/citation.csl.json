@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2603.01152",
+  "citation-key": "arxiv_2603_01152",
+  "type": "article",
+  "title": "DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent",
+  "URL": "https://arxiv.org/abs/2603.01152v2",
+  "custom": {
+    "catalog_id": "arxiv:2603.01152",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.01152",
+    "identifiers": {
+      "arxiv": "2603.01152"
+    },
+    "first_published_at": "2026-03-01",
+    "record_updated_at": "2026-06-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7fd295b5dfc35315af8fec5f900b06952bb762e04738453fd8c33fa96a01c956",
+      "submitted_at": "2026-03-01T15:36:10Z",
+      "updated_at": "2026-06-20T09:26:23Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2603.01152v2"
+    }
+  },
+  "note": "First published: 2026-03-01; Recorded arXiv version: v2; Recorded version updated: 2026-06-20T09:26:23Z.",
+  "author": [
+    {
+      "literal": "Tongzhou Wu"
+    },
+    {
+      "literal": "Yuhao Wang"
+    },
+    {
+      "literal": "Xinyu Ma"
+    },
+    {
+      "literal": "Xiuqiang He"
+    },
+    {
+      "literal": "Shuaiqiang Wang"
+    },
+    {
+      "literal": "Dawei Yin"
+    },
+    {
+      "literal": "Xiangyu Zhao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.01152",
+  "genre": "preprint",
+  "version": "2"
+}

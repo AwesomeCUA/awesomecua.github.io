@@ -16,9 +16,16 @@ Adapts a compact Florence-2 model to map user instructions to screen coordinates
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-11871/record.json
+
 ## Authors
 
 Pawel Pawlowski, Krystian Zawistowski, Wojciech Lapacz, Adam Wiacek, Marcin Skorupa, Sebastien Postansque, Jakub Hoscilowicz
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-11871/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-11871/citation.csl.json
 
 ## Recorded arXiv snapshot
 

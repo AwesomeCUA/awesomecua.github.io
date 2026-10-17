@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2407.01502",
+  "citation-key": "arxiv_2407_01502",
+  "type": "article",
+  "title": "AI Agents That Matter",
+  "URL": "https://arxiv.org/abs/2407.01502v1",
+  "custom": {
+    "catalog_id": "arxiv:2407.01502",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2407.01502",
+    "identifiers": {
+      "arxiv": "2407.01502"
+    },
+    "first_published_at": "2024-07-01",
+    "record_updated_at": "2024-07-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7c67699cfc21fc5ce4bafdaa57dd5b1191b89095bd86a4dbfcc066fef6833e26",
+      "submitted_at": "2024-07-01T17:48:14Z",
+      "updated_at": "2024-07-01T17:48:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2407.01502v1"
+    }
+  },
+  "note": "First published: 2024-07-01; Recorded arXiv version: v1; Recorded version updated: 2024-07-01T17:48:14Z.",
+  "author": [
+    {
+      "literal": "Sayash Kapoor"
+    },
+    {
+      "literal": "Benedikt Stroebl"
+    },
+    {
+      "literal": "Zachary S. Siegel"
+    },
+    {
+      "literal": "Nitya Nadgir"
+    },
+    {
+      "literal": "Arvind Narayanan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.01502",
+  "genre": "preprint",
+  "version": "1"
+}

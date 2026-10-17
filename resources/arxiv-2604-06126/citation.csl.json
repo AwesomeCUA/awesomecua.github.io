@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2604.06126",
+  "citation-key": "arxiv_2604_06126",
+  "type": "article",
+  "title": "Gym-Anything: Turn any Software into an Agent Environment",
+  "URL": "https://arxiv.org/abs/2604.06126v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.06126",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.06126",
+    "identifiers": {
+      "arxiv": "2604.06126"
+    },
+    "first_published_at": "2026-04-07",
+    "record_updated_at": "2026-04-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fdd9cb6daad8832261ebe861fc1cb74429b819305e14ecfeb9698616013e6ac8",
+      "submitted_at": "2026-04-07T17:38:15Z",
+      "updated_at": "2026-04-07T17:38:15Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.06126v1"
+    }
+  },
+  "note": "First published: 2026-04-07; Recorded arXiv version: v1; Recorded version updated: 2026-04-07T17:38:15Z.",
+  "author": [
+    {
+      "literal": "Pranjal Aggarwal"
+    },
+    {
+      "literal": "Graham Neubig"
+    },
+    {
+      "literal": "Sean Welleck"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.06126",
+  "genre": "preprint",
+  "version": "1"
+}

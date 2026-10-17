@@ -16,9 +16,16 @@ Bibliographic record for Cognitive computation using neural representations of t
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2003-11668/record.json
+
 ## Authors
 
 Marc W. Howard, Michael E. Hasselmo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2003-11668/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2003-11668/citation.csl.json
 
 ## Recorded arXiv snapshot
 

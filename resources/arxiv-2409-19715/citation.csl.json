@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2409.19715",
+  "citation-key": "arxiv_2409_19715",
+  "type": "article",
+  "title": "Coffee-Gym: An Environment for Evaluating and Improving Natural Language Feedback on Erroneous Code",
+  "URL": "https://arxiv.org/abs/2409.19715v2",
+  "custom": {
+    "catalog_id": "arxiv:2409.19715",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2409.19715",
+    "identifiers": {
+      "arxiv": "2409.19715"
+    },
+    "first_published_at": "2024-09-29",
+    "record_updated_at": "2024-10-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "128dd462c3d59ea76f770ccd855dac55d0adb1ae58df772852ccc665913b2aff",
+      "submitted_at": "2024-09-29T14:14:25Z",
+      "updated_at": "2024-10-04T08:48:56Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2409.19715v2"
+    }
+  },
+  "note": "First published: 2024-09-29; Recorded arXiv version: v2; Recorded version updated: 2024-10-04T08:48:56Z.",
+  "author": [
+    {
+      "literal": "Hyungjoo Chae"
+    },
+    {
+      "literal": "Taeyoon Kwon"
+    },
+    {
+      "literal": "Seungjun Moon"
+    },
+    {
+      "literal": "Yongho Song"
+    },
+    {
+      "literal": "Dongjin Kang"
+    },
+    {
+      "literal": "Kai Tzu-iunn Ong"
+    },
+    {
+      "literal": "Beong-woo Kwak"
+    },
+    {
+      "literal": "Seonghyeon Bae"
+    },
+    {
+      "literal": "Seung-won Hwang"
+    },
+    {
+      "literal": "Jinyoung Yeo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2409.19715",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2209.10571",
+  "citation-key": "arxiv_2209_10571",
+  "type": "article",
+  "title": "Subspace Diagonalization on Quantum Computers using Eigenvector Continuation",
+  "URL": "https://arxiv.org/abs/2209.10571v1",
+  "custom": {
+    "catalog_id": "arxiv:2209.10571",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2209.10571",
+    "identifiers": {
+      "arxiv": "2209.10571"
+    },
+    "first_published_at": "2022-09-21",
+    "record_updated_at": "2022-09-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "86a34ca793d86d573d0246c40f84281aef399d4622107a9822d93781bf08de66",
+      "submitted_at": "2022-09-21T18:01:33Z",
+      "updated_at": "2022-09-21T18:01:33Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2209.10571v1"
+    }
+  },
+  "note": "First published: 2022-09-21; Recorded arXiv version: v1; Recorded version updated: 2022-09-21T18:01:33Z.",
+  "author": [
+    {
+      "literal": "Akhil Francis"
+    },
+    {
+      "literal": "Anjali A. Agrawal"
+    },
+    {
+      "literal": "Jack H. Howard"
+    },
+    {
+      "literal": "Efekan Kökcü"
+    },
+    {
+      "literal": "A. F. Kemper"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        9,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2209.10571",
+  "genre": "preprint",
+  "version": "1"
+}

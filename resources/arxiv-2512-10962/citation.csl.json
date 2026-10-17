@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2512.10962",
+  "citation-key": "arxiv_2512_10962",
+  "type": "article",
+  "title": "WebSTAR: Scalable Data Synthesis for Computer Use Agents with Step-Level Filtering",
+  "URL": "https://arxiv.org/abs/2512.10962v3",
+  "custom": {
+    "catalog_id": "arxiv:2512.10962",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2512.10962",
+    "identifiers": {
+      "arxiv": "2512.10962"
+    },
+    "first_published_at": "2025-11-22",
+    "record_updated_at": "2026-02-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a7ccc7923f4e6f2ea296b4a6bfc28ba4dc7a52ed256008f153f13fccac3f018f",
+      "submitted_at": "2025-11-22T23:12:56Z",
+      "updated_at": "2026-02-04T19:36:03Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2512.10962v3"
+    }
+  },
+  "note": "First published: 2025-11-22; Recorded arXiv version: v3; Recorded version updated: 2026-02-04T19:36:03Z.",
+  "author": [
+    {
+      "literal": "Yifei He"
+    },
+    {
+      "literal": "Pranit Chawla"
+    },
+    {
+      "literal": "Yaser Souri"
+    },
+    {
+      "literal": "Subhojit Som"
+    },
+    {
+      "literal": "Xia Song"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2512.10962",
+  "genre": "preprint",
+  "version": "3"
+}

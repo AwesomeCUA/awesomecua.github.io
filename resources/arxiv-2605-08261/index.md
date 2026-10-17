@@ -16,9 +16,16 @@ Bibliographic record for Computer Use at the Edge of the Statistical Precipice. 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-08261/record.json
+
 ## Authors
 
 Pierluca D'Oro, Sneha Silwal, William Wong, Yuxuan Sun, Fanyi Xiao, Manchen Wang, Eric Gan, Allen Bolourchi, Joseph Tighe
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-08261/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-08261/citation.csl.json
 
 ## Recorded arXiv snapshot
 

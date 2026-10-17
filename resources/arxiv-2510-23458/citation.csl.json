@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2510.23458",
+  "citation-key": "arxiv_2510_23458",
+  "type": "article",
+  "title": "BrowseConf: Confidence-Guided Test-Time Scaling for Web Agents",
+  "URL": "https://arxiv.org/abs/2510.23458v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.23458",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.23458",
+    "identifiers": {
+      "arxiv": "2510.23458"
+    },
+    "first_published_at": "2025-10-27",
+    "record_updated_at": "2025-10-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "042a4e25e1440d3716a943cd1fc6487279b7c35ff9b44481738bc8f3161f1ba7",
+      "submitted_at": "2025-10-27T15:58:51Z",
+      "updated_at": "2025-10-28T16:23:04Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.23458v2"
+    }
+  },
+  "note": "First published: 2025-10-27; Recorded arXiv version: v2; Recorded version updated: 2025-10-28T16:23:04Z.",
+  "author": [
+    {
+      "literal": "Litu Ou"
+    },
+    {
+      "literal": "Kuan Li"
+    },
+    {
+      "literal": "Huifeng Yin"
+    },
+    {
+      "literal": "Liwen Zhang"
+    },
+    {
+      "literal": "Zhongwang Zhang"
+    },
+    {
+      "literal": "Xixi Wu"
+    },
+    {
+      "literal": "Rui Ye"
+    },
+    {
+      "literal": "Zile Qiao"
+    },
+    {
+      "literal": "Pengjun Xie"
+    },
+    {
+      "literal": "Jingren Zhou"
+    },
+    {
+      "literal": "Yong Jiang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.23458",
+  "genre": "preprint",
+  "version": "2"
+}

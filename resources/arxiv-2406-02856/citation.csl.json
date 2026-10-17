@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2406.02856",
+  "citation-key": "arxiv_2406_02856",
+  "type": "article",
+  "title": "Xmodel-LM Technical Report",
+  "URL": "https://arxiv.org/abs/2406.02856v5",
+  "custom": {
+    "catalog_id": "arxiv:2406.02856",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2406.02856",
+    "identifiers": {
+      "arxiv": "2406.02856"
+    },
+    "first_published_at": "2024-06-05",
+    "record_updated_at": "2024-11-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cf9a85f509aec7b65f882bd2ba8591463d6483f061124071f1aadd77132df06d",
+      "submitted_at": "2024-06-05T02:12:06Z",
+      "updated_at": "2024-11-19T08:38:55Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2406.02856v5"
+    }
+  },
+  "note": "First published: 2024-06-05; Recorded arXiv version: v5; Recorded version updated: 2024-11-19T08:38:55Z.",
+  "author": [
+    {
+      "literal": "Yichuan Wang"
+    },
+    {
+      "literal": "Yang Liu"
+    },
+    {
+      "literal": "Yu Yan"
+    },
+    {
+      "literal": "Qun Wang"
+    },
+    {
+      "literal": "Xucheng Huang"
+    },
+    {
+      "literal": "Ling Jiang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.02856",
+  "genre": "preprint",
+  "version": "5"
+}

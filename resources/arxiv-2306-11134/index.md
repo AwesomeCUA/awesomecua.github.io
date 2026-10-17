@@ -16,9 +16,16 @@ Bibliographic record for OpenP5: An Open-Source Platform for Developing, Trainin
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2306-11134/record.json
+
 ## Authors
 
 Shuyuan Xu, Wenyue Hua, Yongfeng Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2306-11134/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2306-11134/citation.csl.json
 
 ## Recorded arXiv snapshot
 

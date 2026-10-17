@@ -16,6 +16,8 @@ Benchmark for agents interacting with SaaS applications.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-unipat-ai-saas-bench/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/UniPat-AI/SaaS-Bench/HEAD/LICENSE

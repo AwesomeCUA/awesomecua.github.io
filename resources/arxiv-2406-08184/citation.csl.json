@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2406.08184",
+  "citation-key": "arxiv_2406_08184",
+  "type": "article",
+  "title": "MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents",
+  "URL": "https://arxiv.org/abs/2406.08184v1",
+  "custom": {
+    "catalog_id": "arxiv:2406.08184",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2406.08184",
+    "identifiers": {
+      "arxiv": "2406.08184"
+    },
+    "first_published_at": "2024-06-12",
+    "record_updated_at": "2024-06-12",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "637843b1b8634e608bed71fc0f3df205ae218d1b0b5550ce480046c67bb14b0f",
+      "submitted_at": "2024-06-12T13:14:50Z",
+      "updated_at": "2024-06-12T13:14:50Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2406.08184v1"
+    }
+  },
+  "note": "First published: 2024-06-12; Recorded arXiv version: v1; Recorded version updated: 2024-06-12T13:14:50Z.",
+  "author": [
+    {
+      "literal": "Luyuan Wang"
+    },
+    {
+      "literal": "Yongyu Deng"
+    },
+    {
+      "literal": "Yiwei Zha"
+    },
+    {
+      "literal": "Guodong Mao"
+    },
+    {
+      "literal": "Qinmin Wang"
+    },
+    {
+      "literal": "Tianchen Min"
+    },
+    {
+      "literal": "Wei Chen"
+    },
+    {
+      "literal": "Shoufa Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.08184",
+  "genre": "preprint",
+  "version": "1"
+}

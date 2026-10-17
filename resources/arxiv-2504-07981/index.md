@@ -16,9 +16,16 @@ Evaluates GUI target localization in high-resolution professional software and s
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-07981/record.json
+
 ## Authors
 
 Kaixin Li, Ziyang Meng, Hongzhan Lin, Ziyang Luo, Yuchen Tian, Jing Ma, Zhiyong Huang, Tat-Seng Chua
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-07981/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-07981/citation.csl.json
 
 ## Recorded arXiv snapshot
 

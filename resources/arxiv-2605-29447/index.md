@@ -16,9 +16,16 @@ Bibliographic record for Recovering Policy-Induced Errors: Benchmarking and Traj
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-29447/record.json
+
 ## Authors
 
 Tianpeng Bu, Xin Liu, Qihua Chen, Hao Jiang, Shurui Li, Hongtao Duan, Lu Jiang, Lulu Hu, Bin Yang, Minying Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-29447/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-29447/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2301.04668",
+  "citation-key": "arxiv_2301_04668",
+  "type": "article",
+  "title": "Trapped Ion Quantum Computing using Optical Tweezers and the Magnus Effect",
+  "URL": "https://arxiv.org/abs/2301.04668v1",
+  "custom": {
+    "catalog_id": "arxiv:2301.04668",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2301.04668",
+    "identifiers": {
+      "arxiv": "2301.04668"
+    },
+    "first_published_at": "2023-01-11",
+    "record_updated_at": "2023-01-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a4c9544ad60f0958a9d701de430c0c0d070bb8d90c1d23e01bcd8b92ba3e42b4",
+      "submitted_at": "2023-01-11T19:00:09Z",
+      "updated_at": "2023-01-11T19:00:09Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2301.04668v1"
+    }
+  },
+  "note": "First published: 2023-01-11; Recorded arXiv version: v1; Recorded version updated: 2023-01-11T19:00:09Z.",
+  "author": [
+    {
+      "literal": "M. Mazzanti"
+    },
+    {
+      "literal": "R. Gerritsma"
+    },
+    {
+      "literal": "R. J. C. Spreeuw"
+    },
+    {
+      "literal": "A. Safavi-Naini"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        1,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2301.04668",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:1803.01022",
+  "citation-key": "arxiv_1803_01022",
+  "type": "article",
+  "title": "Programming Quantum Computers Using Design Automation",
+  "URL": "https://arxiv.org/abs/1803.01022v1",
+  "custom": {
+    "catalog_id": "arxiv:1803.01022",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1803.01022",
+    "identifiers": {
+      "arxiv": "1803.01022"
+    },
+    "first_published_at": "2018-03-02",
+    "record_updated_at": "2018-03-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "68f2d0ad784d0bd4d8b91fb14c3a004b2e85ca0586882049fd894ab6812de98e",
+      "submitted_at": "2018-03-02T19:41:14Z",
+      "updated_at": "2018-03-02T19:41:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1803.01022v1"
+    }
+  },
+  "note": "First published: 2018-03-02; Recorded arXiv version: v1; Recorded version updated: 2018-03-02T19:41:14Z.",
+  "author": [
+    {
+      "literal": "Mathias Soeken"
+    },
+    {
+      "literal": "Thomas Häner"
+    },
+    {
+      "literal": "Martin Roetteler"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        3,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1803.01022",
+  "genre": "preprint",
+  "version": "1"
+}

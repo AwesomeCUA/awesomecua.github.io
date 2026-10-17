@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2505.12493",
+  "citation-key": "arxiv_2505_12493",
+  "type": "article",
+  "title": "GUI-Shift: Enhancing VLM-Based GUI Agents through Self-supervised Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2505.12493v3",
+  "custom": {
+    "catalog_id": "arxiv:2505.12493",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2505.12493",
+    "identifiers": {
+      "arxiv": "2505.12493"
+    },
+    "first_published_at": "2025-05-18",
+    "record_updated_at": "2025-10-10",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "10d826ea7715ab7054522a9dcba622d5dae3e6c3faee421e4b168e16104d184b",
+      "submitted_at": "2025-05-18T16:34:30Z",
+      "updated_at": "2025-10-10T09:28:53Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2505.12493v3"
+    }
+  },
+  "note": "First published: 2025-05-18; Recorded arXiv version: v3; Recorded version updated: 2025-10-10T09:28:53Z.",
+  "author": [
+    {
+      "literal": "Longxi Gao"
+    },
+    {
+      "literal": "Li Zhang"
+    },
+    {
+      "literal": "Pengzhi Gao"
+    },
+    {
+      "literal": "Wei Liu"
+    },
+    {
+      "literal": "Jian Luan"
+    },
+    {
+      "literal": "Mengwei Xu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.12493",
+  "genre": "preprint",
+  "version": "3"
+}

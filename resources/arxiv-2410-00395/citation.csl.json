@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:2410.00395",
+  "citation-key": "arxiv_2410_00395",
+  "type": "article",
+  "title": "Performance Improvement of IaaS Type of Cloud Computing Using Virtualization Technique",
+  "URL": "https://arxiv.org/abs/2410.00395v1",
+  "custom": {
+    "catalog_id": "arxiv:2410.00395",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2410.00395",
+    "identifiers": {
+      "arxiv": "2410.00395"
+    },
+    "first_published_at": "2024-10-01",
+    "record_updated_at": "2024-10-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8c65f99aa129a9aa4b151238575e34b771172e633baa032abc2412808e3ad042",
+      "submitted_at": "2024-10-01T04:35:44Z",
+      "updated_at": "2024-10-01T04:35:44Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2410.00395v1"
+    }
+  },
+  "note": "First published: 2024-10-01; Recorded arXiv version: v1; Recorded version updated: 2024-10-01T04:35:44Z.",
+  "author": [
+    {
+      "literal": "Dawit Zeleke Admassu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.00395",
+  "genre": "preprint",
+  "version": "1"
+}

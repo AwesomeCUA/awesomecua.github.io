@@ -16,9 +16,16 @@ Bibliographic record for Affora: A Design System for Agent-Friendly Interfaces. 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-19125/record.json
+
 ## Authors
 
 Jin Gao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-19125/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-19125/citation.csl.json
 
 ## Recorded arXiv snapshot
 

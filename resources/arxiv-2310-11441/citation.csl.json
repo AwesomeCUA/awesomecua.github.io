@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2310.11441",
+  "citation-key": "arxiv_2310_11441",
+  "type": "article",
+  "title": "Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V",
+  "URL": "https://arxiv.org/abs/2310.11441v2",
+  "custom": {
+    "catalog_id": "arxiv:2310.11441",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2310.11441",
+    "identifiers": {
+      "arxiv": "2310.11441"
+    },
+    "first_published_at": "2023-10-17",
+    "record_updated_at": "2023-11-06",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "abafe2b974ddd80416b215cd4c48d801e18fe9162b9c097d819d42eaff68a069",
+      "submitted_at": "2023-10-17T17:51:31Z",
+      "updated_at": "2023-11-06T07:39:49Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2310.11441v2"
+    }
+  },
+  "note": "First published: 2023-10-17; Recorded arXiv version: v2; Recorded version updated: 2023-11-06T07:39:49Z.",
+  "author": [
+    {
+      "literal": "Jianwei Yang"
+    },
+    {
+      "literal": "Hao Zhang"
+    },
+    {
+      "literal": "Feng Li"
+    },
+    {
+      "literal": "Xueyan Zou"
+    },
+    {
+      "literal": "Chunyuan Li"
+    },
+    {
+      "literal": "Jianfeng Gao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2310.11441",
+  "genre": "preprint",
+  "version": "2"
+}

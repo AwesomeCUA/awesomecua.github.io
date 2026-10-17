@@ -1,0 +1,66 @@
+{
+  "aliases": [],
+  "authors": [
+    "N. Rasha Shanaz",
+    "K. Murali",
+    "P. Muruganandam"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f7dc71c9a60ce1f2ed7e0a13e0f7809a53724e89bb318b34e37b19dc89d68bde",
+      "submitted_at": "2022-12-17T00:25:56Z",
+      "updated_at": "2022-12-17T00:25:56Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2212.11141v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:37:01Z",
+      "role": "primary",
+      "sha256": "8bfa074910574410d7988771270feded31e7e1bd1fd0924d4754850d4a5f1914",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=900&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2212.11141",
+  "identifiers": {
+    "arxiv": "2212.11141"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:37:01Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2212.11141"
+    }
+  ],
+  "name": "Reservoir Computing Using Complex Systems",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2022-12-17",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2022-12-17",
+  "url": "https://arxiv.org/abs/2212.11141"
+}

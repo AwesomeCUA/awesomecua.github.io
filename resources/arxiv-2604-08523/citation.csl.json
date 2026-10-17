@@ -1,0 +1,127 @@
+{
+  "id": "arxiv:2604.08523",
+  "citation-key": "arxiv_2604_08523",
+  "type": "article",
+  "title": "ClawBench: Can AI Agents Complete Everyday Online Tasks?",
+  "URL": "https://arxiv.org/abs/2604.08523v2",
+  "custom": {
+    "catalog_id": "arxiv:2604.08523",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.08523",
+    "identifiers": {
+      "arxiv": "2604.08523"
+    },
+    "first_published_at": "2026-04-09",
+    "record_updated_at": "2026-07-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "07c1dc2c31d2012b790a3497b5dfab558e8a663f92064c9f6996a770d3f5b8ad",
+      "submitted_at": "2026-04-09T17:57:13Z",
+      "updated_at": "2026-07-20T17:58:40Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2604.08523v2"
+    }
+  },
+  "note": "First published: 2026-04-09; Recorded arXiv version: v2; Recorded version updated: 2026-07-20T17:58:40Z.",
+  "author": [
+    {
+      "literal": "Yuxuan Zhang"
+    },
+    {
+      "literal": "Yubo Wang"
+    },
+    {
+      "literal": "Yipeng Zhu"
+    },
+    {
+      "literal": "Penghui Du"
+    },
+    {
+      "literal": "Junwen Miao"
+    },
+    {
+      "literal": "Xuan Lu"
+    },
+    {
+      "literal": "Zhuofeng Li"
+    },
+    {
+      "literal": "Xingwei Qu"
+    },
+    {
+      "literal": "Zhengkang Guo"
+    },
+    {
+      "literal": "Yuanzhe Shen"
+    },
+    {
+      "literal": "Dingjie Song"
+    },
+    {
+      "literal": "Han Zhou"
+    },
+    {
+      "literal": "Tuney Zheng"
+    },
+    {
+      "literal": "Xian Wu"
+    },
+    {
+      "literal": "Hao Yu"
+    },
+    {
+      "literal": "Songcheng Cai"
+    },
+    {
+      "literal": "Yi Lu"
+    },
+    {
+      "literal": "Yunzhuo Hao"
+    },
+    {
+      "literal": "Minyi Lei"
+    },
+    {
+      "literal": "Liang Chen"
+    },
+    {
+      "literal": "Kai Zou"
+    },
+    {
+      "literal": "Huifeng Yin"
+    },
+    {
+      "literal": "Wendong Xu"
+    },
+    {
+      "literal": "Dongfu Jiang"
+    },
+    {
+      "literal": "Ping Nie"
+    },
+    {
+      "literal": "Jiaheng Liu"
+    },
+    {
+      "literal": "Wenhu Chen"
+    },
+    {
+      "literal": "Kelsey R. Allen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.08523",
+  "genre": "preprint",
+  "version": "2"
+}

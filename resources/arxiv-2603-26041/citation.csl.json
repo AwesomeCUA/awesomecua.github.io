@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2603.26041",
+  "citation-key": "arxiv_2603_26041",
+  "type": "article",
+  "title": "Where and How to Prune: An Empirical Study of Visual Token Pruning for GUI Agent Navigation",
+  "URL": "https://arxiv.org/abs/2603.26041v4",
+  "custom": {
+    "catalog_id": "arxiv:2603.26041",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.26041",
+    "identifiers": {
+      "arxiv": "2603.26041"
+    },
+    "first_published_at": "2026-03-27",
+    "record_updated_at": "2026-08-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "738d5048bb7a137d848b6f6068a7ce92694469f1e7bce0702dce422c230a3d0b",
+      "submitted_at": "2026-03-27T03:21:19Z",
+      "updated_at": "2026-08-09T16:37:37Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2603.26041v4"
+    }
+  },
+  "note": "First published: 2026-03-27; Recorded arXiv version: v4; Recorded version updated: 2026-08-09T16:37:37Z.",
+  "author": [
+    {
+      "literal": "Daiqiang Li"
+    },
+    {
+      "literal": "Zihao Pan"
+    },
+    {
+      "literal": "Zeyu Zhang"
+    },
+    {
+      "literal": "Xuyang Liu"
+    },
+    {
+      "literal": "Shijia Xu"
+    },
+    {
+      "literal": "Ronghao Chen"
+    },
+    {
+      "literal": "Huacan Wang"
+    },
+    {
+      "literal": "Honggang Chen"
+    },
+    {
+      "literal": "Linfeng Zhang"
+    },
+    {
+      "literal": "Zhangquan Chen"
+    },
+    {
+      "literal": "Haiyun Jiang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.26041",
+  "genre": "preprint",
+  "version": "4"
+}

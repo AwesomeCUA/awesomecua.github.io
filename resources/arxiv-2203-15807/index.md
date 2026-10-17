@@ -16,9 +16,16 @@ Bibliographic record for High Speed Photonic Neuromorphic Computing Using Recurr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2203-15807/record.json
+
 ## Authors
 
 K. Sozos, A. Bogris, P. Bienstman, G. Sarantoglou, S. Deligiannidis, C. Mesaritakis
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2203-15807/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2203-15807/citation.csl.json
 
 ## Recorded arXiv snapshot
 

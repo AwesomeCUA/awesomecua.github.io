@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2602.03255",
+  "citation-key": "arxiv_2602_03255",
+  "type": "article",
+  "title": "LPS-Bench: Benchmarking Safety Awareness of Computer-Use Agents in Long-Horizon Planning under Benign and Adversarial Scenarios",
+  "URL": "https://arxiv.org/abs/2602.03255v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.03255",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.03255",
+    "identifiers": {
+      "arxiv": "2602.03255"
+    },
+    "first_published_at": "2026-02-03",
+    "record_updated_at": "2026-10-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e35743f909d7649d08d8b154486a49c0393149ba0e24a2c4bdea519079da6359",
+      "submitted_at": "2026-02-03T08:40:24Z",
+      "updated_at": "2026-10-02T00:39:45Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.03255v2"
+    }
+  },
+  "note": "First published: 2026-02-03; Recorded arXiv version: v2; Recorded version updated: 2026-10-02T00:39:45Z.",
+  "author": [
+    {
+      "literal": "Tianyu Chen"
+    },
+    {
+      "literal": "Chujia Hu"
+    },
+    {
+      "literal": "Dongrui Liu"
+    },
+    {
+      "literal": "Xia Hu"
+    },
+    {
+      "literal": "Wenjie Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.03255",
+  "genre": "preprint",
+  "version": "2"
+}

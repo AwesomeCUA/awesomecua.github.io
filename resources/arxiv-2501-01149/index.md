@@ -16,9 +16,16 @@ Introduces Android Agent Arena with online application tasks and procedural eval
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-01149/record.json
+
 ## Authors
 
 Yuxiang Chai, Shunye Tang, Han Xiao, Weifeng Lin, Hanhao Li, Jiayu Zhang, Liang Liu, Pengxiang Zhao, Guangyi Liu, Guozhi Wang, Shuai Ren, Rongduo Han, Haining Zhang, Siyuan Huang, Hongsheng Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-01149/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-01149/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,151 @@
+{
+  "id": "arxiv:2606.29537",
+  "citation-key": "arxiv_2606_29537",
+  "type": "article",
+  "title": "OSWorld 2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks",
+  "URL": "https://arxiv.org/abs/2606.29537v2",
+  "custom": {
+    "catalog_id": "arxiv:2606.29537",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2606.29537",
+    "identifiers": {
+      "arxiv": "2606.29537"
+    },
+    "first_published_at": "2026-06-28",
+    "record_updated_at": "2026-07-13",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "03035fcbc6cd3e6bf40f244870fb35694ba985ff7f809da66e2a376cbf99d66b",
+      "submitted_at": "2026-06-28T17:59:17Z",
+      "updated_at": "2026-07-13T10:30:17Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2606.29537v2"
+    }
+  },
+  "note": "First published: 2026-06-28; Recorded arXiv version: v2; Recorded version updated: 2026-07-13T10:30:17Z.",
+  "author": [
+    {
+      "literal": "Mengqi Yuan"
+    },
+    {
+      "literal": "Zilong Zhou"
+    },
+    {
+      "literal": "Xinzhuang Xiong"
+    },
+    {
+      "literal": "Weiming Wu"
+    },
+    {
+      "literal": "Jiayang Sun"
+    },
+    {
+      "literal": "Jiamin Song"
+    },
+    {
+      "literal": "Kaiqian Cui"
+    },
+    {
+      "literal": "Bowen Wang"
+    },
+    {
+      "literal": "Haoyuan Wu"
+    },
+    {
+      "literal": "Yitong Li"
+    },
+    {
+      "literal": "Dunjie Lu"
+    },
+    {
+      "literal": "Haikong Lu"
+    },
+    {
+      "literal": "Qi Zhen"
+    },
+    {
+      "literal": "Xinyuan Wang"
+    },
+    {
+      "literal": "Jiaqi Deng"
+    },
+    {
+      "literal": "Yuhao Yang"
+    },
+    {
+      "literal": "Cheng Chen"
+    },
+    {
+      "literal": "Boyuan Zheng"
+    },
+    {
+      "literal": "Alex Su"
+    },
+    {
+      "literal": "Xiao Yu"
+    },
+    {
+      "literal": "Hao Zou"
+    },
+    {
+      "literal": "Saaket Agashe"
+    },
+    {
+      "literal": "Xing Han Lu"
+    },
+    {
+      "literal": "Manpreet Kaur"
+    },
+    {
+      "literal": "Zhengyang Qi"
+    },
+    {
+      "literal": "Vincent Sunn Chen"
+    },
+    {
+      "literal": "Frederic Sala"
+    },
+    {
+      "literal": "Dayiheng Liu"
+    },
+    {
+      "literal": "Junyang Lin"
+    },
+    {
+      "literal": "Zhou Yu"
+    },
+    {
+      "literal": "Yu Su"
+    },
+    {
+      "literal": "Siva Reddy"
+    },
+    {
+      "literal": "Xin Eric Wang"
+    },
+    {
+      "literal": "Peng Qi"
+    },
+    {
+      "literal": "Tianbao Xie"
+    },
+    {
+      "literal": "Tao Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.29537",
+  "genre": "preprint",
+  "version": "2"
+}

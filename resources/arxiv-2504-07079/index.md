@@ -16,9 +16,16 @@ SkillWeaver explores websites, practices interactions, and converts the resultin
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-07079/record.json
+
 ## Authors
 
 Boyuan Zheng, Michael Y. Fatemi, Xiaolong Jin, Zora Zhiruo Wang, Apurva Gandhi, Yueqi Song, Yu Gu, Jayanth Srinivasa, Gaowen Liu, Graham Neubig, Yu Su
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-07079/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-07079/citation.csl.json
 
 ## Recorded arXiv snapshot
 

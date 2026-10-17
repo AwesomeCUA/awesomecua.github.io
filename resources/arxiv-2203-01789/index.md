@@ -16,9 +16,16 @@ Bibliographic record for Quantum circuit compilation and hybrid computation usin
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2203-01789/record.json
+
 ## Authors
 
 Filipa C. R. Peres, Ernesto F. Galvão
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2203-01789/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2203-01789/citation.csl.json
 
 ## Recorded arXiv snapshot
 

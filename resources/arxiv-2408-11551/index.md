@@ -16,9 +16,16 @@ Bibliographic record for High Performance Unstructured SpMM Computation Using Te
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2408-11551/record.json
+
 ## Authors
 
 Patrik Okanovic, Grzegorz Kwasniewski, Paolo Sylos Labini, Maciej Besta, Flavio Vella, Torsten Hoefler
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2408-11551/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2408-11551/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,60 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:38:28Z",
+      "role": "primary",
+      "sha256": "832b84c366eaadc69e328f207f2659cf07a0901c47662244831c0f1695d02efd",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://manus.im/"
+    }
+  ],
+  "id": "organization:manus",
+  "identifiers": {},
+  "kind": "company",
+  "last_verified_at": "2026-10-16T06:38:28Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://manus.im/"
+    }
+  ],
+  "name": "Manus",
+  "notes": "Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://manus.im/",
+      "target_id": "organization:manus",
+      "type": "published_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Publisher or product brand associated with Manus computer-use or browser automation offerings.",
+  "topics": [
+    "industry"
+  ],
+  "updated_at": null,
+  "url": "https://manus.im/"
+}

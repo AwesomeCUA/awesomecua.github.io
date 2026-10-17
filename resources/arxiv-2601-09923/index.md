@@ -16,9 +16,16 @@ Bibliographic record for CaMeLs Can Use Computers Too: System-level Security for
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-09923/record.json
+
 ## Authors
 
 Hanna Foerster, Tom Blanchard, Kristina Nikolić, Ilia Shumailov, Cheng Zhang, Robert Mullins, Nicolas Papernot, Florian Tramèr, Yiren Zhao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-09923/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-09923/citation.csl.json
 
 ## Recorded arXiv snapshot
 

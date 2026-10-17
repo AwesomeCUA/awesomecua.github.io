@@ -1,0 +1,93 @@
+{
+  "aliases": [],
+  "authors": [
+    "Bofei Zhang",
+    "Zirui Shang",
+    "Zhi Gao",
+    "Wang Zhang",
+    "Rui Xie",
+    "Xiaojian Ma",
+    "Tao Yuan",
+    "Xinxiao Wu",
+    "Song-Chun Zhu",
+    "Qing Li"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "346fc4db7f8fbf2dc66c32e36f5cc5ace22228d60bdd4c61b6b7ac65487a4a8c",
+      "submitted_at": "2025-04-17T06:15:56Z",
+      "updated_at": "2025-12-04T15:01:09Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2504.12679v4"
+    }
+  },
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:54Z",
+      "role": "primary",
+      "sha256": "4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:54Z",
+      "role": "primary",
+      "sha256": "4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2504.12679",
+  "identifiers": {
+    "arxiv": "2504.12679"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:54Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2504.12679"
+    }
+  ],
+  "name": "TongUI: Internet-Scale Trajectories from Multimodal Web Tutorials for Generalized GUI Agents",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2025-04-17",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "TongUI converts multimodal online tutorials, including videos and articles, into GUI-agent trajectories. Its GUI-Net dataset contains 143,000 trajectories spanning five operating systems and more than 200 applications, and supports fine-tuning for grounding and navigation.",
+  "topics": [
+    "data-generation",
+    "grounding",
+    "video"
+  ],
+  "updated_at": "2025-12-04",
+  "url": "https://arxiv.org/abs/2504.12679"
+}

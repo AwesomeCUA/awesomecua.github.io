@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2405.04497",
+  "citation-key": "arxiv_2405_04497",
+  "type": "article",
+  "title": "Unveiling Disparities in Web Task Handling Between Human and Web Agent",
+  "URL": "https://arxiv.org/abs/2405.04497v2",
+  "custom": {
+    "catalog_id": "arxiv:2405.04497",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2405.04497",
+    "identifiers": {
+      "arxiv": "2405.04497"
+    },
+    "first_published_at": "2024-05-07",
+    "record_updated_at": "2024-05-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a358d417d8bef89a01e799d88564e3ede4678ebda4950e87c96cf1e1954b85e1",
+      "submitted_at": "2024-05-07T17:10:31Z",
+      "updated_at": "2024-05-08T05:44:21Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2405.04497v2"
+    }
+  },
+  "note": "First published: 2024-05-07; Recorded arXiv version: v2; Recorded version updated: 2024-05-08T05:44:21Z.",
+  "author": [
+    {
+      "literal": "Kihoon Son"
+    },
+    {
+      "literal": "Jinhyeon Kwon"
+    },
+    {
+      "literal": "DaEun Choi"
+    },
+    {
+      "literal": "Tae Soo Kim"
+    },
+    {
+      "literal": "Young-Ho Kim"
+    },
+    {
+      "literal": "Sangdoo Yun"
+    },
+    {
+      "literal": "Juho Kim"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2405.04497",
+  "genre": "preprint",
+  "version": "2"
+}

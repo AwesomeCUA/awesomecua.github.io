@@ -16,9 +16,16 @@ Bibliographic record for Towards Understanding Visual Grounding in Visual Langua
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-10345/record.json
+
 ## Authors
 
 Georgios Pantazopoulos, Eda B. Özyiğit
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-10345/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-10345/citation.csl.json
 
 ## Recorded arXiv snapshot
 

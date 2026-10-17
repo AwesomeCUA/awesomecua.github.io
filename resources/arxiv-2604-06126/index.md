@@ -16,9 +16,16 @@ Bibliographic record for Gym-Anything: Turn any Software into an Agent Environme
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-06126/record.json
+
 ## Authors
 
 Pranjal Aggarwal, Graham Neubig, Sean Welleck
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-06126/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-06126/citation.csl.json
 
 ## Recorded arXiv snapshot
 

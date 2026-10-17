@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2309.15056",
+  "citation-key": "arxiv_2309_15056",
+  "type": "article",
+  "title": "QUILT: Effective Multi-Class Classification on Quantum Computers Using an Ensemble of Diverse Quantum Classifiers",
+  "URL": "https://arxiv.org/abs/2309.15056v1",
+  "custom": {
+    "catalog_id": "arxiv:2309.15056",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2309.15056",
+    "identifiers": {
+      "arxiv": "2309.15056"
+    },
+    "first_published_at": "2023-09-26",
+    "record_updated_at": "2023-09-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b4f55a7f2d4bdf2b0d15449ed63a91d116e649161942ef683509615b3df631f6",
+      "submitted_at": "2023-09-26T16:36:11Z",
+      "updated_at": "2023-09-26T16:36:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2309.15056v1"
+    }
+  },
+  "note": "First published: 2023-09-26; Recorded arXiv version: v1; Recorded version updated: 2023-09-26T16:36:11Z.",
+  "author": [
+    {
+      "literal": "Daniel Silver"
+    },
+    {
+      "literal": "Tirthak Patel"
+    },
+    {
+      "literal": "Devesh Tiwari"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2309.15056",
+  "genre": "preprint",
+  "version": "1"
+}

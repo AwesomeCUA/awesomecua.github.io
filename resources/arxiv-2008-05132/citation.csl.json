@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2008.05132",
+  "citation-key": "arxiv_2008_05132",
+  "type": "article",
+  "title": "Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?",
+  "URL": "https://arxiv.org/abs/2008.05132v2",
+  "custom": {
+    "catalog_id": "arxiv:2008.05132",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2008.05132",
+    "identifiers": {
+      "arxiv": "2008.05132"
+    },
+    "first_published_at": "2020-08-12",
+    "record_updated_at": "2020-09-07",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d6352985532945fd562ce0382aef0e977ce1ec5909b6872e5fe048167e9732a0",
+      "submitted_at": "2020-08-12T06:36:33Z",
+      "updated_at": "2020-09-07T12:57:33Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2008.05132v2"
+    }
+  },
+  "note": "First published: 2020-08-12; Recorded arXiv version: v2; Recorded version updated: 2020-09-07T12:57:33Z.",
+  "author": [
+    {
+      "literal": "Jieshan Chen"
+    },
+    {
+      "literal": "Mulong Xie"
+    },
+    {
+      "literal": "Zhenchang Xing"
+    },
+    {
+      "literal": "Chunyang Chen"
+    },
+    {
+      "literal": "Xiwei Xu"
+    },
+    {
+      "literal": "Liming Zhu"
+    },
+    {
+      "literal": "Guoqiang Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        8,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2008.05132",
+  "genre": "preprint",
+  "version": "2"
+}

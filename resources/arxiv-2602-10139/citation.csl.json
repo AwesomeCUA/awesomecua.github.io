@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2602.10139",
+  "citation-key": "arxiv_2602_10139",
+  "type": "article",
+  "title": "Anonymization-Enhanced Privacy Protection for Mobile GUI Agents: Available but Invisible",
+  "URL": "https://arxiv.org/abs/2602.10139v3",
+  "custom": {
+    "catalog_id": "arxiv:2602.10139",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2602.10139",
+    "identifiers": {
+      "arxiv": "2602.10139"
+    },
+    "first_published_at": "2026-02-08",
+    "record_updated_at": "2026-04-26",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "727279bf83a67f66fa8f173d028936fe0bdae63e9f23800d98476da10201ad0d",
+      "submitted_at": "2026-02-08T15:50:04Z",
+      "updated_at": "2026-04-26T01:34:23Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2602.10139v3"
+    }
+  },
+  "note": "First published: 2026-02-08; Recorded arXiv version: v3; Recorded version updated: 2026-04-26T01:34:23Z.",
+  "author": [
+    {
+      "literal": "Lepeng Zhao"
+    },
+    {
+      "literal": "Zhenhua Zou"
+    },
+    {
+      "literal": "Shuo Li"
+    },
+    {
+      "literal": "Zhuotao Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.10139",
+  "genre": "preprint",
+  "version": "3"
+}

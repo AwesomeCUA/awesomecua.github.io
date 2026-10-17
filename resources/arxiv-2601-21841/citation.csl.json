@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2601.21841",
+  "citation-key": "arxiv_2601_21841",
+  "type": "article",
+  "title": "Embodied Task Planning via Graph-Informed Action Generation with Large Language Models",
+  "URL": "https://arxiv.org/abs/2601.21841v3",
+  "custom": {
+    "catalog_id": "arxiv:2601.21841",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.21841",
+    "identifiers": {
+      "arxiv": "2601.21841"
+    },
+    "first_published_at": "2026-01-29",
+    "record_updated_at": "2026-05-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7bfb69c1569e80d8505e91f2083151076c032f0c27624341655c8aa2189cb411",
+      "submitted_at": "2026-01-29T15:18:58Z",
+      "updated_at": "2026-05-17T22:32:46Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2601.21841v3"
+    }
+  },
+  "note": "First published: 2026-01-29; Recorded arXiv version: v3; Recorded version updated: 2026-05-17T22:32:46Z.",
+  "author": [
+    {
+      "literal": "Xiang Li"
+    },
+    {
+      "literal": "Ning Yan"
+    },
+    {
+      "literal": "Masood Mortazavi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.21841",
+  "genre": "preprint",
+  "version": "3"
+}

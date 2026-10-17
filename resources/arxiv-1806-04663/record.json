@@ -1,0 +1,23 @@
+{
+  "status": "excluded",
+  "id": "arxiv:1806.04663",
+  "reason": "The abstract studies fractal symmetry-protected quantum phases as resources for universal measurement-based quantum computation. This quantum many-body theory is outside the GUI/computer-use agent scope.",
+  "decision": {
+    "id": "arxiv:1806.04663",
+    "name": "Universal quantum computation using fractal symmetry-protected cluster phases",
+    "url": "https://arxiv.org/abs/1806.04663",
+    "decision": "out_of_scope",
+    "basis": "primary_abstract_review",
+    "reason": "The abstract studies fractal symmetry-protected quantum phases as resources for universal measurement-based quantum computation. This quantum many-body theory is outside the GUI/computer-use agent scope.",
+    "reviewed_at": "2026-10-17T02:12:19Z",
+    "metadata_fingerprint": "f96fdf7022a9e0840619d751b4d3557736a4e9b9c0b13afe0363f7bddf1e65ce",
+    "evidence": {
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=1000&max_results=100&sortBy=submittedDate&sortOrder=descending",
+      "sha256": "bb3d2692c294743a8d06d5065cc84b27b229a981c2c650ff20a2ec038797a0e3",
+      "retrieved_at": "2026-10-16T06:37:05Z"
+    },
+    "status": "excluded",
+    "status_reason": "Reviewed snapshot matches retained metadata."
+  },
+  "ledger_url": "https://awesomecua.github.io/downloads/exclusions.json"
+}

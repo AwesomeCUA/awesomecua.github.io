@@ -16,9 +16,16 @@ Compares ways to condition a small GUI grounding model on action type under matc
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-07444/record.json
+
 ## Authors
 
 Aadi Chauhan, Arthur Ilyasov
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-07444/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-07444/citation.csl.json
 
 ## Recorded arXiv snapshot
 

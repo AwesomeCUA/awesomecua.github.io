@@ -16,6 +16,8 @@ Benchmark for desktop GUI tasks derived from instructional videos.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-showlab-videogui/record.json
+
 ## License declarations
 
 - code: not recorded

@@ -1,0 +1,102 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "artifact_inspection": "Public file-manifest inspection only; weights were not downloaded.",
+    "base_model": "Qwen/Qwen3.5-9B",
+    "gated": false,
+    "hub_revision": "76b7e9f7ce97675b7d4e1ea6d88a6adc9ced2886",
+    "listed_weight_files": [
+      "model.safetensors",
+      "phase1_mask_decoder.safetensors"
+    ]
+  },
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T01:48:10Z",
+      "role": "primary",
+      "sha256": "feeb30bda7f86e10d87bdc1b0148d0632aba6df1676931a3d6c65cbdf197df3e",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-9B/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T01:49:48Z",
+      "role": "primary",
+      "sha256": "f215590b7a7b510085f7f99a8c236816604d4c11a8f5ae544b4ee75771dd4f82",
+      "supports": [
+        "details.gated",
+        "details.hub_revision",
+        "details.listed_weight_files"
+      ],
+      "url": "https://huggingface.co/api/models/jcwang0602/Seg2Click-Qwen3.5-9B"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T01:48:10Z",
+      "role": "primary",
+      "sha256": "feeb30bda7f86e10d87bdc1b0148d0632aba6df1676931a3d6c65cbdf197df3e",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-9B/raw/main/README.md"
+    }
+  ],
+  "id": "url:826f3753905c5c43bf46",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T01:48:10Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "apache-2.0",
+      "retrieved_at": "2026-10-17T01:48:10Z",
+      "url": "https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-9B/raw/main/README.md"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-9B"
+    }
+  ],
+  "name": "Seg2Click Qwen3.5 9B",
+  "notes": "The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-9B/raw/main/README.md",
+      "target_id": "github:jcwang0602/seg2click",
+      "type": "uses"
+    },
+    {
+      "evidence_url": "https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-9B/raw/main/README.md",
+      "target_id": "arxiv:2610.16234",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Seg2Click checkpoint pairing a 9B Qwen3.5 backbone with a decoder for valid GUI click regions.",
+  "topics": [
+    "grounding"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-9B"
+}

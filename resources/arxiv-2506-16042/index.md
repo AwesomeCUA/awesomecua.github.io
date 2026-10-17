@@ -16,9 +16,16 @@ OSWorld-Human adds human-determined trajectories to OSWorld to evaluate the effi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-16042/record.json
+
 ## Authors
 
 Reyna Abhyankar, Qi Qi, Yiying Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-16042/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-16042/citation.csl.json
 
 ## Recorded arXiv snapshot
 

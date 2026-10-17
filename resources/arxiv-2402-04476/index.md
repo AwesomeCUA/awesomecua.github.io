@@ -16,9 +16,16 @@ Uses screenshot geometry and visual content to enrich HTML element representatio
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-04476/record.json
+
 ## Authors
 
 Jihyung Kil, Chan Hee Song, Boyuan Zheng, Xiang Deng, Yu Su, Wei-Lun Chao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-04476/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-04476/citation.csl.json
 
 ## Recorded arXiv snapshot
 

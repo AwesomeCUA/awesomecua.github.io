@@ -16,9 +16,16 @@ Bibliographic record for Homomorphically Encrypted Computation using Stochastic 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2203-02547/record.json
+
 ## Authors
 
 Hsuan Hsiao, Vincent Lee, Brandon Reagen, Armin Alaghi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2203-02547/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2203-02547/citation.csl.json
 
 ## Recorded arXiv snapshot
 

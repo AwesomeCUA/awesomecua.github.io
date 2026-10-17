@@ -16,9 +16,16 @@ Bibliographic record for Are GUI Agents Focused Enough? Automated Distraction vi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-07831/record.json
+
 ## Authors
 
 Wenkui Yang, Chao Jin, Haisu Zhu, Weilin Luo, Derek Yuen, Kun Shao, Junxian Duan, Huaibo Huang, Jie Cao, Ran He
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-07831/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-07831/citation.csl.json
 
 ## Recorded arXiv snapshot
 

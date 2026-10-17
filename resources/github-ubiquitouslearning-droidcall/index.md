@@ -16,6 +16,8 @@ Data-generation, fine-tuning and evaluation utilities for teaching small languag
 
 Source utilities are published under MIT. This component operates through Android intent functions and is marked adjacent to visual GUI agents. Training data is separately released under its own card declaration; no checkpoint release is inferred from the fine-tuning instructions.
 
+- Record JSON: https://awesomecua.github.io/resources/github-ubiquitouslearning-droidcall/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/UbiquitousLearning/DroidCall/HEAD/LICENSE

@@ -16,9 +16,16 @@ Bibliographic record for Planning from Imagination: Episodic Simulation and Epis
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-01857/record.json
+
 ## Authors
 
 Yiyuan Pan, Yunzhe Xu, Zhe Liu, Hesheng Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-01857/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-01857/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,6 +16,8 @@ Verifiable web information-seeking benchmark renamed from VeriGUI; desktop evalu
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-verigui-team-verigui/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/VeriGUI-Team/VeriGUI/HEAD/LICENSE

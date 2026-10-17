@@ -16,9 +16,16 @@ Bibliographic record for Agent Memory: Characterization and System Implications 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-06448/record.json
+
 ## Authors
 
 Yasmine Omri, Ziyu Gan, Zachary Broveak, Robin Geens, Zexue He, Alex Pentland, Marian Verhelst, Tsachy Weissman, Thierry Tambe
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-06448/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-06448/citation.csl.json
 
 ## Recorded arXiv snapshot
 

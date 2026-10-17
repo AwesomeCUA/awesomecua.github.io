@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2609.22083",
+  "citation-key": "arxiv_2609_22083",
+  "type": "article",
+  "title": "MintAct: A Unified Visual Agent for Digital Environments",
+  "URL": "https://arxiv.org/abs/2609.22083v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.22083",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.22083",
+    "identifiers": {
+      "arxiv": "2609.22083"
+    },
+    "first_published_at": "2026-09-18",
+    "record_updated_at": "2026-09-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4dfb0703133032426ff8f40ed6a2c8131025b07658c0b643603f8d50ba163d16",
+      "submitted_at": "2026-09-18T17:59:34Z",
+      "updated_at": "2026-09-18T17:59:34Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.22083v1"
+    }
+  },
+  "note": "First published: 2026-09-18; Recorded arXiv version: v1; Recorded version updated: 2026-09-18T17:59:34Z.",
+  "author": [
+    {
+      "literal": "Mingfei Gao"
+    },
+    {
+      "literal": "Rui Tian"
+    },
+    {
+      "literal": "Haiming Gang"
+    },
+    {
+      "literal": "Bohan Zhai"
+    },
+    {
+      "literal": "Le Zhang"
+    },
+    {
+      "literal": "Yuanzheng Gong"
+    },
+    {
+      "literal": "Di Feng"
+    },
+    {
+      "literal": "Ege Özsoy"
+    },
+    {
+      "literal": "Kaixin Ma"
+    },
+    {
+      "literal": "Vishwesh Kirthivasan"
+    },
+    {
+      "literal": "Oğuzhan Fatih Kar"
+    },
+    {
+      "literal": "Roman Bachmann"
+    },
+    {
+      "literal": "Anders Boesen Lindbo Larsen"
+    },
+    {
+      "literal": "Afshin Dehghan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.22083",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Separates planning from execution and creates synthetic plan annotations for tra
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-09572/record.json
+
 ## Authors
 
 Lutfi Eren Erdogan, Nicholas Lee, Sehoon Kim, Suhong Moon, Hiroki Furuta, Gopala Anumanchipalli, Kurt Keutzer, Amir Gholami
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-09572/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-09572/citation.csl.json
 
 ## Recorded arXiv snapshot
 

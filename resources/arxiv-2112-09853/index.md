@@ -16,9 +16,16 @@ Bibliographic record for Scalable randomized benchmarking of quantum computers u
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2112-09853/record.json
+
 ## Authors
 
 Timothy Proctor, Stefan Seritan, Kenneth Rudinger, Erik Nielsen, Robin Blume-Kohout, Kevin Young
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2112-09853/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2112-09853/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for SWITCH: Benchmarking Modeling and Handling of Tangible 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-17649/record.json
+
 ## Authors
 
 Juntao Cheng, Wanyue Zhang, Zhiwei Yu, Shuo Ren, Zheqi He, Shaoxuan Xie, Guocai Yao, Jieru Lin, Börje F. Karlsson, Jiajun Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-17649/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-17649/citation.csl.json
 
 ## Recorded arXiv snapshot
 

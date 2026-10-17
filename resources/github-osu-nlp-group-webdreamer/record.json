@@ -1,0 +1,61 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T10:43:11Z",
+      "role": "primary",
+      "sha256": "6602cb260b52ae5b2b93db231a51a38d0463c78d8e71321620e05b4fa31caacb",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/OSU-NLP-Group/WebDreamer/HEAD/README.md"
+    }
+  ],
+  "id": "github:osu-nlp-group/webdreamer",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-16T10:43:11Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/OSU-NLP-Group/WebDreamer"
+    }
+  ],
+  "name": "WebDreamer",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/OSU-NLP-Group/WebDreamer/HEAD/README.md",
+      "target_id": "arxiv:2411.06559",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "World-model and planning components that simulate web-action outcomes, with linked training data and model checkpoints.",
+  "topics": [
+    "world-models",
+    "planning"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/OSU-NLP-Group/WebDreamer"
+}

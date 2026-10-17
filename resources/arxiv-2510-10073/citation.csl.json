@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2510.10073",
+  "citation-key": "arxiv_2510_10073",
+  "type": "article",
+  "title": "SecureWebArena: A Holistic Security Evaluation Benchmark for LVLM-based Web Agents",
+  "URL": "https://arxiv.org/abs/2510.10073v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.10073",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.10073",
+    "identifiers": {
+      "arxiv": "2510.10073"
+    },
+    "first_published_at": "2025-10-11",
+    "record_updated_at": "2026-04-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "43c9f7c91539df587a4f08888820731aef5bb3fca2cfb9e742443330aaf1c35f",
+      "submitted_at": "2025-10-11T07:18:12Z",
+      "updated_at": "2026-04-14T02:53:37Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.10073v2"
+    }
+  },
+  "note": "First published: 2025-10-11; Recorded arXiv version: v2; Recorded version updated: 2026-04-14T02:53:37Z.",
+  "author": [
+    {
+      "literal": "Zonghao Ying"
+    },
+    {
+      "literal": "Yangguang Shao"
+    },
+    {
+      "literal": "Jianle Gan"
+    },
+    {
+      "literal": "Gan Xu"
+    },
+    {
+      "literal": "Wenxin Zhang"
+    },
+    {
+      "literal": "Quanchen Zou"
+    },
+    {
+      "literal": "Junzheng Shi"
+    },
+    {
+      "literal": "Zhenfei Yin"
+    },
+    {
+      "literal": "Mingchuan Zhang"
+    },
+    {
+      "literal": "Aishan Liu"
+    },
+    {
+      "literal": "Xianglong Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.10073",
+  "genre": "preprint",
+  "version": "2"
+}

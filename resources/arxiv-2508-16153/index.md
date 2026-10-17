@@ -16,9 +16,16 @@ Bibliographic record for Memento: Fine-tuning LLM Agents without Fine-tuning LLM
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-16153/record.json
+
 ## Authors
 
 Huichi Zhou, Yihang Chen, Siyuan Guo, Xue Yan, Kin Hei Lee, Zihan Wang, Ka Yiu Lee, Guchun Zhang, Kun Shao, Linyi Yang, Jun Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-16153/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-16153/citation.csl.json
 
 ## Recorded arXiv snapshot
 

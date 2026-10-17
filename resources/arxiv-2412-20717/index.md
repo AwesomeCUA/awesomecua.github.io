@@ -16,9 +16,16 @@ Bibliographic record for Closing Speed Computation using Stereo Camera and Appli
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-20717/record.json
+
 ## Authors
 
 Gautam Kumar, Ashwini Ratnoo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-20717/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-20717/citation.csl.json
 
 ## Recorded arXiv snapshot
 

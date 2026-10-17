@@ -16,9 +16,16 @@ Bibliographic record for ClawGUI: A Unified Framework for Training, Evaluating, 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-11784/record.json
+
 ## Authors
 
 Fei Tang, Zhiqiong Lu, Boxuan Zhang, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-11784/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-11784/citation.csl.json
 
 ## Recorded arXiv snapshot
 

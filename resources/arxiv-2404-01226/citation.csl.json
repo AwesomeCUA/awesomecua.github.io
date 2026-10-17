@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2404.01226",
+  "citation-key": "arxiv_2404_01226",
+  "type": "article",
+  "title": "Stable Code Technical Report",
+  "URL": "https://arxiv.org/abs/2404.01226v1",
+  "custom": {
+    "catalog_id": "arxiv:2404.01226",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2404.01226",
+    "identifiers": {
+      "arxiv": "2404.01226"
+    },
+    "first_published_at": "2024-04-01",
+    "record_updated_at": "2024-04-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a093ee5a9d9821e2b0118032715e040d5a4a9071cb2cc445a4c819a71a4d3450",
+      "submitted_at": "2024-04-01T16:39:36Z",
+      "updated_at": "2024-04-01T16:39:36Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2404.01226v1"
+    }
+  },
+  "note": "First published: 2024-04-01; Recorded arXiv version: v1; Recorded version updated: 2024-04-01T16:39:36Z.",
+  "author": [
+    {
+      "literal": "Nikhil Pinnaparaju"
+    },
+    {
+      "literal": "Reshinth Adithyan"
+    },
+    {
+      "literal": "Duy Phung"
+    },
+    {
+      "literal": "Jonathan Tow"
+    },
+    {
+      "literal": "James Baicoianu"
+    },
+    {
+      "literal": "Ashish Datta"
+    },
+    {
+      "literal": "Maksym Zhuravinskyi"
+    },
+    {
+      "literal": "Dakota Mahan"
+    },
+    {
+      "literal": "Marco Bellagente"
+    },
+    {
+      "literal": "Carlos Riquelme"
+    },
+    {
+      "literal": "Nathan Cooper"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.01226",
+  "genre": "preprint",
+  "version": "1"
+}

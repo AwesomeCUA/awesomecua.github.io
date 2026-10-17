@@ -16,9 +16,16 @@ Bibliographic record for MUSES: 3D-Controllable Image Generation via Multi-Modal
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2408-10605/record.json
+
 ## Authors
 
 Yanbo Ding, Shaobin Zhuang, Kunchang Li, Zhengrong Yue, Yu Qiao, Yali Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2408-10605/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2408-10605/citation.csl.json
 
 ## Recorded arXiv snapshot
 

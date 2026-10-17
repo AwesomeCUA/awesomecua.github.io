@@ -16,9 +16,16 @@ Bibliographic record for Diagnostic tools of approximate Bayesian computation us
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1301-3166/record.json
+
 ## Authors
 
 D. Prangle, M. G. B. Blum, G. Popovic, S. A. Sisson
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1301-3166/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1301-3166/citation.csl.json
 
 ## Recorded arXiv snapshot
 

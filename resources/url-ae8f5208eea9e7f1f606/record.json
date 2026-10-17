@@ -1,0 +1,85 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/datasets/mllmTeam/DroidCall/tree/main",
+    "gated": false,
+    "hub_id": "mllmTeam/DroidCall",
+    "languages": [],
+    "modalities": [],
+    "sample_count": null,
+    "sample_unit": null
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:28Z",
+      "role": "primary",
+      "sha256": "08a6c5cfa655e1ecd774a41a9a815e845ad0afd47b289378bc1d6ee66c81dda9",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/datasets/mllmTeam/DroidCall/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:28Z",
+      "role": "primary",
+      "sha256": "c7804987d56b03314a4c48e3ddf2e5819fc0d9c83cc65ba54a981a2f4a584dd9",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/api/datasets/mllmTeam/DroidCall"
+    }
+  ],
+  "id": "url:ae8f5208eea9e7f1f606",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-17T02:02:28Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/mllmTeam/DroidCall"
+    }
+  ],
+  "name": "DroidCall data",
+  "notes": "The release provides JSONL data and API annotations. This is Android intent-calling supervision rather than screenshot-and-click trajectories, so it is marked adjacent. The dataset card declares Apache-2.0; the companion repository’s MIT code license is a separate declaration.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/mllmTeam/DroidCall/raw/main/README.md",
+      "target_id": "arxiv:2412.00402",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "adjacent",
+  "summary": "Instruction-to-function-call examples for learning Android intent invocation, with training, testing and API-annotation files for mobile task execution.",
+  "topics": [
+    "mobile-navigation",
+    "tool-integration",
+    "data-generation"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/mllmTeam/DroidCall"
+}

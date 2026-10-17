@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2502.08047",
+  "citation-key": "arxiv_2502_08047",
+  "type": "article",
+  "title": "WorldGUI: An Interactive Benchmark for Desktop GUI Automation from Any Starting Point",
+  "URL": "https://arxiv.org/abs/2502.08047v5",
+  "custom": {
+    "catalog_id": "arxiv:2502.08047",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2502.08047",
+    "identifiers": {
+      "arxiv": "2502.08047"
+    },
+    "first_published_at": "2025-02-12",
+    "record_updated_at": "2026-05-23",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "68e6ecfcdff0163debe96f6440fb33529356bf9fd2c8743b5953ae52ae71c9ef",
+      "submitted_at": "2025-02-12T01:06:10Z",
+      "updated_at": "2026-05-23T20:19:43Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2502.08047v5"
+    }
+  },
+  "note": "First published: 2025-02-12; Recorded arXiv version: v5; Recorded version updated: 2026-05-23T20:19:43Z.",
+  "author": [
+    {
+      "literal": "Henry Hengyuan Zhao"
+    },
+    {
+      "literal": "Kaiming Yang"
+    },
+    {
+      "literal": "Wendi Yu"
+    },
+    {
+      "literal": "Difei Gao"
+    },
+    {
+      "literal": "Mike Zheng Shou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.08047",
+  "genre": "preprint",
+  "version": "5"
+}

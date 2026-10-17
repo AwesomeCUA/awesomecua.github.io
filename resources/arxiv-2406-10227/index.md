@@ -16,9 +16,16 @@ Evaluates GUI automation from instructional videos at separate levels of high-le
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-10227/record.json
+
 ## Authors
 
 Kevin Qinghong Lin, Linjie Li, Difei Gao, Qinchen WU, Mingyi Yan, Zhengyuan Yang, Lijuan Wang, Mike Zheng Shou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-10227/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-10227/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,6 +16,8 @@ Visual browser workflow automation framework.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-skyvern-ai-skyvern/record.json
+
 ## License declarations
 
 - code: not recorded

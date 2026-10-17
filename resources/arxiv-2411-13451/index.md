@@ -16,9 +16,16 @@ Adapts multimodal web agents to unfamiliar websites using a small number of huma
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-13451/record.json
+
 ## Authors
 
 Gaurav Verma, Rachneet Kaur, Nishan Srishankar, Zhen Zeng, Tucker Balch, Manuela Veloso
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-13451/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-13451/citation.csl.json
 
 ## Recorded arXiv snapshot
 

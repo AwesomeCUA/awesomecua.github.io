@@ -16,9 +16,16 @@ GUI-CEval evaluates Chinese mobile GUI agents through a hierarchy of atomic abil
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-15039/record.json
+
 ## Authors
 
 Yang Li, Yuchen Liu, Haoyu Lu, Zhiqiang Xia, Hongzhen Wang, Kaiyang Han, Changpeng Yang, Jinyang Wu, Jiaming Xu, Runyu Shi, Ying Huang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-15039/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-15039/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,6 +16,8 @@ Collects human GUI demonstrations and inspects multimodal evidence to derive reu
 
 The README reports that evaluation integration and live cross-platform acceptance testing remain pending.
 
+- Record JSON: https://awesomecua.github.io/resources/github-china-qijizhifeng-work2skill/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/china-qijizhifeng/Work2Skill/HEAD/LICENSE

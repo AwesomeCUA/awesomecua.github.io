@@ -16,9 +16,16 @@ UI-S1 simulates multi-turn online learning over offline trajectories, using a pa
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-11543/record.json
+
 ## Authors
 
 Zhengxi Lu, Jiabo Ye, Fei Tang, Yongliang Shen, Haiyang Xu, Ziwei Zheng, Weiming Lu, Ming Yan, Fei Huang, Jun Xiao, Yueting Zhuang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-11543/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-11543/citation.csl.json
 
 ## Recorded arXiv snapshot
 

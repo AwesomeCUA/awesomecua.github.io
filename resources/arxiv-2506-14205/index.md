@@ -16,9 +16,16 @@ Bibliographic record for AgentSynth: Scalable Task Generation for Generalist Com
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-14205/record.json
+
 ## Authors
 
 Jingxu Xie, Dylan Xu, Xuandong Zhao, Dawn Song
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-14205/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-14205/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2510.16051",
+  "citation-key": "arxiv_2510_16051",
+  "type": "article",
+  "title": "GUIrilla: A Scalable Framework for Automated Desktop UI Exploration",
+  "URL": "https://arxiv.org/abs/2510.16051v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.16051",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2510.16051",
+    "identifiers": {
+      "arxiv": "2510.16051"
+    },
+    "first_published_at": "2025-10-16",
+    "record_updated_at": "2026-03-24",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6e4377fd6b510455afa1eb04c64e8e0b551e89d3b54ce31f241f283233985e1c",
+      "submitted_at": "2025-10-16T19:03:45Z",
+      "updated_at": "2026-03-24T14:39:38Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.16051v2"
+    }
+  },
+  "note": "First published: 2025-10-16; Recorded arXiv version: v2; Recorded version updated: 2026-03-24T14:39:38Z.",
+  "author": [
+    {
+      "literal": "Sofiya Garkot"
+    },
+    {
+      "literal": "Maksym Shamrai"
+    },
+    {
+      "literal": "Ivan Synytsia"
+    },
+    {
+      "literal": "Mariya Hirna"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.16051",
+  "genre": "preprint",
+  "version": "2"
+}

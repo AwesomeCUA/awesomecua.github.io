@@ -16,9 +16,16 @@ Bibliographic record for Framework for understanding quantum computing use cases
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2212-13909/record.json
+
 ## Authors
 
 Dandison Ukpabi, Heikki Karjaluoto, Astrid Bötticher, Anastasija Nikiforova, Dragoş Petrescu, Paulina Schindler, Visvaldis Valtenbergs, Lennard Lehmann, Abuzer Yakaryilmaz
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2212-13909/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2212-13909/citation.csl.json
 
 ## Recorded arXiv snapshot
 

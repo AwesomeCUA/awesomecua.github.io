@@ -16,9 +16,16 @@ Introduces EntWorld, an enterprise GUI benchmark built by deriving task logic fr
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-17722/record.json
+
 ## Authors
 
 Ying Mo, Yu Bai, Dapeng Sun, Yuqian Shi, Yukai Miao, Li Chen, Dan Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-17722/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-17722/citation.csl.json
 
 ## Recorded arXiv snapshot
 

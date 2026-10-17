@@ -16,9 +16,16 @@ Bibliographic record for AsyncVoice Agent: Real-Time Explanation for LLM Plannin
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-16156/record.json
+
 ## Authors
 
 Yueqian Lin, Zhengmian Hu, Jayakumar Subramanian, Qinsi Wang, Nikos Vlassis, Hai "Helen" Li, Yiran Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-16156/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-16156/citation.csl.json
 
 ## Recorded arXiv snapshot
 

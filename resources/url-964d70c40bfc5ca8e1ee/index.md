@@ -16,6 +16,8 @@ Computer-use demonstrations released with OpenCUA.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-964d70c40bfc5ca8e1ee/record.json
+
 ## Structured profile
 
 - formats: JSONL, image archives

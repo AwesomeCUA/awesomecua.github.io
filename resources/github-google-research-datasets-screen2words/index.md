@@ -16,6 +16,8 @@ Mobile screen descriptions for language-based screen understanding.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-google-research-datasets-screen2words/record.json
+
 ## Structured profile
 
 - formats: CSV

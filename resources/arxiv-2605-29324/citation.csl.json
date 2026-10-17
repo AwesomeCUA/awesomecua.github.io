@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2605.29324",
+  "citation-key": "arxiv_2605_29324",
+  "type": "article",
+  "title": "STAMP: Training Explicit Memory for Mobile GUI Agents in Controllable and Scalable Virtual Environments",
+  "URL": "https://arxiv.org/abs/2605.29324v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.29324",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.29324",
+    "identifiers": {
+      "arxiv": "2605.29324"
+    },
+    "first_published_at": "2026-05-28",
+    "record_updated_at": "2026-05-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fdef1adbf2ae7142ffee8cd40906e5fbfc7903ef84b688ae891f7ddf5e75d228",
+      "submitted_at": "2026-05-28T04:00:13Z",
+      "updated_at": "2026-05-28T04:00:13Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.29324v1"
+    }
+  },
+  "note": "First published: 2026-05-28; Recorded arXiv version: v1; Recorded version updated: 2026-05-28T04:00:13Z.",
+  "author": [
+    {
+      "literal": "Junyang Wang"
+    },
+    {
+      "literal": "Haiyang Xu"
+    },
+    {
+      "literal": "Xi Zhang"
+    },
+    {
+      "literal": "Zhaoqing Zhu"
+    },
+    {
+      "literal": "Ming Yan"
+    },
+    {
+      "literal": "Jieping Ye"
+    },
+    {
+      "literal": "Jitao Sang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.29324",
+  "genre": "preprint",
+  "version": "1"
+}

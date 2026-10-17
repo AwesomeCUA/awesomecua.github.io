@@ -16,9 +16,16 @@ Bibliographic record for Emergence WebVoyager: Toward Consistent and Transparent
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-29020/record.json
+
 ## Authors
 
 Deepak Akkil, Mowafak Allaham, Amal Raj, Tamer Abuelsaad, Ravi Kokku
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-29020/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-29020/citation.csl.json
 
 ## Recorded arXiv snapshot
 

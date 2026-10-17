@@ -16,9 +16,16 @@ Bibliographic record for MGA: Memory-Driven GUI Agent for Observation-Centric In
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-24168/record.json
+
 ## Authors
 
 Weihua Cheng, Junming Liu, Yifei Sun, Botian Shi, Yirong Chen, Ding Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-24168/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-24168/citation.csl.json
 
 ## Recorded arXiv snapshot
 

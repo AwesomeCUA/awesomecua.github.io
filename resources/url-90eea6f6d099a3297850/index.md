@@ -16,6 +16,8 @@ A Qwen2.5-VL grounding checkpoint trained with Gaussian point and coverage rewar
 
 The model card and four public safetensors shards establish this specific release. Apache-2.0 is declared for the model. The release targets element grounding; its grounding results do not establish long-horizon task-completion success.
 
+- Record JSON: https://awesomecua.github.io/resources/url-90eea6f6d099a3297850/record.json
+
 ## License declarations
 
 - code: not recorded

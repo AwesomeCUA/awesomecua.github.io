@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2506.10387",
+  "citation-key": "arxiv_2506_10387",
+  "type": "article",
+  "title": "Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills",
+  "URL": "https://arxiv.org/abs/2506.10387v1",
+  "custom": {
+    "catalog_id": "arxiv:2506.10387",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2506.10387",
+    "identifiers": {
+      "arxiv": "2506.10387"
+    },
+    "first_published_at": "2025-06-12",
+    "record_updated_at": "2025-06-12",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9b353606ce29a5bc60d263e86827a825af46883e25da5bd290b48affa9dd3838",
+      "submitted_at": "2025-06-12T06:21:19Z",
+      "updated_at": "2025-06-12T06:21:19Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2506.10387v1"
+    }
+  },
+  "note": "First published: 2025-06-12; Recorded arXiv version: v1; Recorded version updated: 2025-06-12T06:21:19Z.",
+  "author": [
+    {
+      "literal": "Yuquan Xie"
+    },
+    {
+      "literal": "Zaijing Li"
+    },
+    {
+      "literal": "Rui Shao"
+    },
+    {
+      "literal": "Gongwei Chen"
+    },
+    {
+      "literal": "Kaiwen Zhou"
+    },
+    {
+      "literal": "Yinchuan Li"
+    },
+    {
+      "literal": "Dongmei Jiang"
+    },
+    {
+      "literal": "Liqiang Nie"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.10387",
+  "genre": "preprint",
+  "version": "1"
+}

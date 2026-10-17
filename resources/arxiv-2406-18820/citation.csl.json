@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2406.18820",
+  "citation-key": "arxiv_2406_18820",
+  "type": "article",
+  "title": "Universal Checkpointing: A Flexible and Efficient Distributed Checkpointing System for Large-Scale DNN Training with Reconfigurable Parallelis",
+  "URL": "https://arxiv.org/abs/2406.18820v3",
+  "custom": {
+    "catalog_id": "arxiv:2406.18820",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2406.18820",
+    "identifiers": {
+      "arxiv": "2406.18820"
+    },
+    "first_published_at": "2024-06-27",
+    "record_updated_at": "2025-07-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6418efa56cb187a65af5779748ca29b508e66545cd517fad1f0c9b815aa5cb5c",
+      "submitted_at": "2024-06-27T01:28:30Z",
+      "updated_at": "2025-07-04T06:16:30Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2406.18820v3"
+    }
+  },
+  "note": "First published: 2024-06-27; Recorded arXiv version: v3; Recorded version updated: 2025-07-04T06:16:30Z.",
+  "author": [
+    {
+      "literal": "Xinyu Lian"
+    },
+    {
+      "literal": "Sam Ade Jacobs"
+    },
+    {
+      "literal": "Lev Kurilenko"
+    },
+    {
+      "literal": "Masahiro Tanaka"
+    },
+    {
+      "literal": "Stas Bekman"
+    },
+    {
+      "literal": "Olatunji Ruwase"
+    },
+    {
+      "literal": "Minjia Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.18820",
+  "genre": "preprint",
+  "version": "3"
+}

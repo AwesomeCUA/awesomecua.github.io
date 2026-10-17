@@ -1,0 +1,112 @@
+{
+  "id": "arxiv:2506.18959",
+  "citation-key": "arxiv_2506_18959",
+  "type": "article",
+  "title": "From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents",
+  "URL": "https://arxiv.org/abs/2506.18959v3",
+  "custom": {
+    "catalog_id": "arxiv:2506.18959",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2506.18959",
+    "identifiers": {
+      "arxiv": "2506.18959"
+    },
+    "first_published_at": "2025-06-23",
+    "record_updated_at": "2025-07-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fda1759e7e120089a27129c6e76e0cf5702a9afcf4d254c835f27fce2e99fb17",
+      "submitted_at": "2025-06-23T17:27:19Z",
+      "updated_at": "2025-07-03T17:48:36Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2506.18959v3"
+    }
+  },
+  "note": "First published: 2025-06-23; Recorded arXiv version: v3; Recorded version updated: 2025-07-03T17:48:36Z.",
+  "author": [
+    {
+      "literal": "Weizhi Zhang"
+    },
+    {
+      "literal": "Yangning Li"
+    },
+    {
+      "literal": "Yuanchen Bei"
+    },
+    {
+      "literal": "Junyu Luo"
+    },
+    {
+      "literal": "Guancheng Wan"
+    },
+    {
+      "literal": "Liangwei Yang"
+    },
+    {
+      "literal": "Chenxuan Xie"
+    },
+    {
+      "literal": "Yuyao Yang"
+    },
+    {
+      "literal": "Wei-Chieh Huang"
+    },
+    {
+      "literal": "Chunyu Miao"
+    },
+    {
+      "literal": "Henry Peng Zou"
+    },
+    {
+      "literal": "Xiao Luo"
+    },
+    {
+      "literal": "Yusheng Zhao"
+    },
+    {
+      "literal": "Yankai Chen"
+    },
+    {
+      "literal": "Chunkit Chan"
+    },
+    {
+      "literal": "Peilin Zhou"
+    },
+    {
+      "literal": "Xinyang Zhang"
+    },
+    {
+      "literal": "Chenwei Zhang"
+    },
+    {
+      "literal": "Jingbo Shang"
+    },
+    {
+      "literal": "Ming Zhang"
+    },
+    {
+      "literal": "Yangqiu Song"
+    },
+    {
+      "literal": "Irwin King"
+    },
+    {
+      "literal": "Philip S. Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.18959",
+  "genre": "preprint",
+  "version": "3"
+}

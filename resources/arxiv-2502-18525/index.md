@@ -16,9 +16,16 @@ Introduces a visual IDE environment and benchmark for software-engineering tasks
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-18525/record.json
+
 ## Authors
 
 Pranjal Aggarwal, Sean Welleck
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-18525/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-18525/citation.csl.json
 
 ## Recorded arXiv snapshot
 

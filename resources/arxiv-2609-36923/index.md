@@ -16,9 +16,16 @@ Presents PrecogUI, which retrieves prior anomaly and success patterns and predic
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-36923/record.json
+
 ## Authors
 
 Bin Kang, Jiarui Ouyang, Li Jiang, Bin Chen, Zhuotao Tian
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-36923/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-36923/citation.csl.json
 
 ## Recorded arXiv snapshot
 

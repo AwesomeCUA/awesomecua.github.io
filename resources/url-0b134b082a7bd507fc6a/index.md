@@ -16,6 +16,8 @@ Mobile app screenshots, view hierarchies, and interaction traces for UI research
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-0b134b082a7bd507fc6a/record.json
+
 ## License declarations
 
 - code: not recorded

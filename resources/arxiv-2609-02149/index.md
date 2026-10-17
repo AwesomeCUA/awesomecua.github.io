@@ -16,9 +16,16 @@ Bibliographic record for OmegaUse-SOP: SOP Engineering for Professional Computer
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-02149/record.json
+
 ## Authors
 
 Yixiong Xiao, Lang An, Hucheng Yang, Pinxue Ma, Yongquan Chen, Jingjia Cao, Yusai Zhao, Ting Wang, Ting Liu, Siqi Bao, Jingbo Zhou, Hua Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-02149/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-02149/citation.csl.json
 
 ## Recorded arXiv snapshot
 

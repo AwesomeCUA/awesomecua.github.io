@@ -16,6 +16,8 @@ Released model checkpoint associated with UI-Venus.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-611df37e5f3caa6befd7/record.json
+
 ## License declarations
 
 - code: not recorded

@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:0809.4296",
+  "citation-key": "arxiv_0809_4296",
+  "type": "article",
+  "title": "State dependent computation using coupled recurrent networks",
+  "URL": "https://arxiv.org/abs/0809.4296v1",
+  "custom": {
+    "catalog_id": "arxiv:0809.4296",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/0809.4296",
+    "identifiers": {
+      "arxiv": "0809.4296"
+    },
+    "first_published_at": "2008-09-24",
+    "record_updated_at": "2008-09-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a3be76f3a45f7279a9819895708c439a4014369b8bcd9da7bd70212ad3d26112",
+      "submitted_at": "2008-09-24T22:52:05Z",
+      "updated_at": "2008-09-24T22:52:05Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/0809.4296v1"
+    }
+  },
+  "note": "First published: 2008-09-24; Recorded arXiv version: v1; Recorded version updated: 2008-09-24T22:52:05Z.",
+  "author": [
+    {
+      "literal": "Ueli Rutishauser"
+    },
+    {
+      "literal": "Rodney J. Douglas"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2008,
+        9,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "0809.4296",
+  "genre": "preprint",
+  "version": "1"
+}

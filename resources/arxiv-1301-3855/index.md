@@ -16,9 +16,16 @@ Bibliographic record for Likelihood Computations Using Value Abstractions. Title
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1301-3855/record.json
+
 ## Authors
 
 Nir Friedman, Dan Geiger, Noam Lotner
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1301-3855/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1301-3855/citation.csl.json
 
 ## Recorded arXiv snapshot
 

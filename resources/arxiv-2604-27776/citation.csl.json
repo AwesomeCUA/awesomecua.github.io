@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2604.27776",
+  "citation-key": "arxiv_2604_27776",
+  "type": "article",
+  "title": "WindowsWorld: A Process-Centric Benchmark of Autonomous GUI Agents in Professional Cross-Application Environments",
+  "URL": "https://arxiv.org/abs/2604.27776v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.27776",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.27776",
+    "identifiers": {
+      "arxiv": "2604.27776"
+    },
+    "first_published_at": "2026-04-30",
+    "record_updated_at": "2026-04-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2120860b9c735466a1538ad26c7cda0bc436ab0c6204febdefa08ad66f0036b7",
+      "submitted_at": "2026-04-30T12:13:27Z",
+      "updated_at": "2026-04-30T12:13:27Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.27776v1"
+    }
+  },
+  "note": "First published: 2026-04-30; Recorded arXiv version: v1; Recorded version updated: 2026-04-30T12:13:27Z.",
+  "author": [
+    {
+      "literal": "Jinchao Li"
+    },
+    {
+      "literal": "Yunxin Li"
+    },
+    {
+      "literal": "Chenrui Zhao"
+    },
+    {
+      "literal": "Zhenran Xu"
+    },
+    {
+      "literal": "Baotian Hu"
+    },
+    {
+      "literal": "Min Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.27776",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2410.14803",
+  "citation-key": "arxiv_2410_14803",
+  "type": "article",
+  "title": "DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents",
+  "URL": "https://arxiv.org/abs/2410.14803v5",
+  "custom": {
+    "catalog_id": "arxiv:2410.14803",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.14803",
+    "identifiers": {
+      "arxiv": "2410.14803"
+    },
+    "first_published_at": "2024-10-18",
+    "record_updated_at": "2025-02-21",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a9e3d8350cd0be5d4f3e82b3b35a15fe89403cd602e8bb20b7cd783c7a7067a0",
+      "submitted_at": "2024-10-18T18:19:56Z",
+      "updated_at": "2025-02-21T16:23:59Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2410.14803v5"
+    }
+  },
+  "note": "First published: 2024-10-18; Recorded arXiv version: v5; Recorded version updated: 2025-02-21T16:23:59Z.",
+  "author": [
+    {
+      "literal": "Taiyi Wang"
+    },
+    {
+      "literal": "Zhihao Wu"
+    },
+    {
+      "literal": "Jianheng Liu"
+    },
+    {
+      "literal": "Jianye Hao"
+    },
+    {
+      "literal": "Jun Wang"
+    },
+    {
+      "literal": "Kun Shao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.14803",
+  "genre": "preprint",
+  "version": "5"
+}

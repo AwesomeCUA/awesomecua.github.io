@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2105.13231",
+  "citation-key": "arxiv_2105_13231",
+  "type": "article",
+  "title": "AndroidEnv: A Reinforcement Learning Platform for Android",
+  "URL": "https://arxiv.org/abs/2105.13231v1",
+  "custom": {
+    "catalog_id": "arxiv:2105.13231",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2105.13231",
+    "identifiers": {
+      "arxiv": "2105.13231"
+    },
+    "first_published_at": "2021-05-27",
+    "record_updated_at": "2021-05-27",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7f0caf694223bc2569cdd01662cadf54cbc96cad370866a231c15437c5d5d0ba",
+      "submitted_at": "2021-05-27T15:20:14Z",
+      "updated_at": "2021-05-27T15:20:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2105.13231v1"
+    }
+  },
+  "note": "First published: 2021-05-27; Recorded arXiv version: v1; Recorded version updated: 2021-05-27T15:20:14Z.",
+  "author": [
+    {
+      "literal": "Daniel Toyama"
+    },
+    {
+      "literal": "Philippe Hamel"
+    },
+    {
+      "literal": "Anita Gergely"
+    },
+    {
+      "literal": "Gheorghe Comanici"
+    },
+    {
+      "literal": "Amelia Glaese"
+    },
+    {
+      "literal": "Zafarali Ahmed"
+    },
+    {
+      "literal": "Tyler Jackson"
+    },
+    {
+      "literal": "Shibl Mourad"
+    },
+    {
+      "literal": "Doina Precup"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        5,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2105.13231",
+  "genre": "preprint",
+  "version": "1"
+}

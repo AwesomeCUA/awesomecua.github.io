@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2505.00416",
+  "citation-key": "arxiv_2505_00416",
+  "type": "article",
+  "title": "ScaleTrack: Scaling and back-tracking Automated GUI Agents",
+  "URL": "https://arxiv.org/abs/2505.00416v1",
+  "custom": {
+    "catalog_id": "arxiv:2505.00416",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2505.00416",
+    "identifiers": {
+      "arxiv": "2505.00416"
+    },
+    "first_published_at": "2025-05-01",
+    "record_updated_at": "2025-05-01",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e582c92521ec41a0a3daa0ca72b8c00250621289352b28400ee6d311c4a106eb",
+      "submitted_at": "2025-05-01T09:27:13Z",
+      "updated_at": "2025-05-01T09:27:13Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2505.00416v1"
+    }
+  },
+  "note": "First published: 2025-05-01; Recorded arXiv version: v1; Recorded version updated: 2025-05-01T09:27:13Z.",
+  "author": [
+    {
+      "literal": "Jing Huang"
+    },
+    {
+      "literal": "Zhixiong Zeng"
+    },
+    {
+      "literal": "Wenkang Han"
+    },
+    {
+      "literal": "Yufeng Zhong"
+    },
+    {
+      "literal": "Liming Zheng"
+    },
+    {
+      "literal": "Shuai Fu"
+    },
+    {
+      "literal": "Jingyuan Chen"
+    },
+    {
+      "literal": "Lin Ma"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.00416",
+  "genre": "preprint",
+  "version": "1"
+}

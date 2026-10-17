@@ -16,9 +16,16 @@ Bibliographic record for StepReflect: Structured UI Transition Reflection for Mo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-05587/record.json
+
 ## Authors
 
 Linqiang Guo, Wei Liu, Li Gu, Yang Wang, Tse-Hsun, Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-05587/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-05587/citation.csl.json
 
 ## Recorded arXiv snapshot
 

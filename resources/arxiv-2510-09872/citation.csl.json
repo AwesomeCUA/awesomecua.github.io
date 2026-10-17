@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2510.09872",
+  "citation-key": "arxiv_2510_09872",
+  "type": "article",
+  "title": "WARC-Bench: Web Archive Based Benchmark for GUI Subtask Executions",
+  "URL": "https://arxiv.org/abs/2510.09872v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.09872",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.09872",
+    "identifiers": {
+      "arxiv": "2510.09872"
+    },
+    "first_published_at": "2025-10-10",
+    "record_updated_at": "2026-05-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3af3fb75d012ebcf4ad082ab7b83b0553596bbbb8598751d0a70c86d929a22ee",
+      "submitted_at": "2025-10-10T21:20:51Z",
+      "updated_at": "2026-05-18T22:06:26Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.09872v2"
+    }
+  },
+  "note": "First published: 2025-10-10; Recorded arXiv version: v2; Recorded version updated: 2026-05-18T22:06:26Z.",
+  "author": [
+    {
+      "literal": "Sanjari Srivastava"
+    },
+    {
+      "literal": "Gang Li"
+    },
+    {
+      "literal": "Cheng Chang"
+    },
+    {
+      "literal": "Rishu Garg"
+    },
+    {
+      "literal": "Manpreet Kaur"
+    },
+    {
+      "literal": "Charlene Y. Lee"
+    },
+    {
+      "literal": "Yuezhang Li"
+    },
+    {
+      "literal": "Yining Mao"
+    },
+    {
+      "literal": "Ignacio Cases"
+    },
+    {
+      "literal": "Yanan Xie"
+    },
+    {
+      "literal": "Peng Qi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.09872",
+  "genre": "preprint",
+  "version": "2"
+}

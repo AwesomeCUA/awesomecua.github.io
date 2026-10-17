@@ -16,6 +16,8 @@ A WebRL browser-policy checkpoint for performing actions in the five website env
 
 The official Hub API resolves the former THUDM namespace to zai-org. Seven safetensors shards and configuration/tokenizer files are public and ungated. The card marks the weight license as other without naming complete terms, so no permissive weight license is inferred. The card’s evaluation prose also names GLM-4 despite the Llama checkpoint identity; no score is imported.
 
+- Record JSON: https://awesomecua.github.io/resources/url-a6ee20fea67438d91e06/record.json
+
 ## License declarations
 
 - code: not recorded

@@ -16,9 +16,16 @@ Bibliographic record for Pragmatic Instruction Following and Goal Assistance via
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-17930/record.json
+
 ## Authors
 
 Tan Zhi-Xuan, Lance Ying, Vikash Mansinghka, Joshua B. Tenenbaum
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-17930/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-17930/citation.csl.json
 
 ## Recorded arXiv snapshot
 

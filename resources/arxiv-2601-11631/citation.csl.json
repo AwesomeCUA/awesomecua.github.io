@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2601.11631",
+  "citation-key": "arxiv_2601_11631",
+  "type": "article",
+  "title": "Compress to Focus: Efficient Coordinate Compression for Policy Optimization in Multi-Turn GUI Agents",
+  "URL": "https://arxiv.org/abs/2601.11631v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.11631",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.11631",
+    "identifiers": {
+      "arxiv": "2601.11631"
+    },
+    "first_published_at": "2026-01-14",
+    "record_updated_at": "2026-01-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "600f2a44695886fc527b04e1a8b1ad07cec90cf5c58dee834605d5133a760b1e",
+      "submitted_at": "2026-01-14T03:52:57Z",
+      "updated_at": "2026-01-14T03:52:57Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.11631v1"
+    }
+  },
+  "note": "First published: 2026-01-14; Recorded arXiv version: v1; Recorded version updated: 2026-01-14T03:52:57Z.",
+  "author": [
+    {
+      "literal": "Yurun Song"
+    },
+    {
+      "literal": "Jiong Yin"
+    },
+    {
+      "literal": "Rongjunchen Zhang"
+    },
+    {
+      "literal": "Ian G. Harris"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.11631",
+  "genre": "preprint",
+  "version": "1"
+}

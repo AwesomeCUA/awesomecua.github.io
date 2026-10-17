@@ -16,9 +16,16 @@ Bibliographic record for Dual-Modality Multi-Stage Adversarial Safety Training: 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-04364/record.json
+
 ## Authors
 
 Haoyu Liu, Dingcheng Li, Lukas Rutishauser, Zeyu Zheng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-04364/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-04364/citation.csl.json
 
 ## Recorded arXiv snapshot
 

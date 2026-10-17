@@ -16,9 +16,16 @@ Bibliographic record for Agent-Environment Alignment via Automated Interface Gen
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-21055/record.json
+
 ## Authors
 
 Kaiming Liu, Xuanyu Lei, Ziyue Wang, Peng Li, Yang Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-21055/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-21055/citation.csl.json
 
 ## Recorded arXiv snapshot
 

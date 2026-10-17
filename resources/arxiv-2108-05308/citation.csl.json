@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2108.05308",
+  "citation-key": "arxiv_2108_05308",
+  "type": "article",
+  "title": "A Better Loss for Visual-Textual Grounding",
+  "URL": "https://arxiv.org/abs/2108.05308v2",
+  "custom": {
+    "catalog_id": "arxiv:2108.05308",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2108.05308",
+    "identifiers": {
+      "arxiv": "2108.05308"
+    },
+    "first_published_at": "2021-08-11",
+    "record_updated_at": "2022-02-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b08e1479450e2a0252346074060dc83c277263c083417305b07e21273c951d20",
+      "submitted_at": "2021-08-11T16:26:54Z",
+      "updated_at": "2022-02-02T10:57:29Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2108.05308v2"
+    }
+  },
+  "note": "First published: 2021-08-11; Recorded arXiv version: v2; Recorded version updated: 2022-02-02T10:57:29Z.",
+  "author": [
+    {
+      "literal": "Davide Rigoni"
+    },
+    {
+      "literal": "Luciano Serafini"
+    },
+    {
+      "literal": "Alessandro Sperduti"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        8,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2108.05308",
+  "genre": "preprint",
+  "version": "2"
+}

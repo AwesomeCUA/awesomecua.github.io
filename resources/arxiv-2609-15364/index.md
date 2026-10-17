@@ -16,9 +16,16 @@ Bibliographic record for RSIAgent: Autonomous Exploration for Recursive Self-imp
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-15364/record.json
+
 ## Authors
 
 Sibo Zhu, Shicheng Fan, Xinyue Wang, Wenyi Wu, Kun Zhou, Biwei Huang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-15364/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-15364/citation.csl.json
 
 ## Recorded arXiv snapshot
 

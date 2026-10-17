@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2604.15093",
+  "citation-key": "arxiv_2604_15093",
+  "type": "article",
+  "title": "OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis",
+  "URL": "https://arxiv.org/abs/2604.15093v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.15093",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.15093",
+    "identifiers": {
+      "arxiv": "2604.15093"
+    },
+    "first_published_at": "2026-04-16",
+    "record_updated_at": "2026-04-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "12c2e5e2ae9bdc871bb63d195194c5387129accf5e8b26d12b21650b92fe82b6",
+      "submitted_at": "2026-04-16T14:53:08Z",
+      "updated_at": "2026-04-16T14:53:08Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.15093v1"
+    }
+  },
+  "note": "First published: 2026-04-16; Recorded arXiv version: v1; Recorded version updated: 2026-04-16T14:53:08Z.",
+  "author": [
+    {
+      "literal": "Kanzhi Cheng"
+    },
+    {
+      "literal": "Zehao Li"
+    },
+    {
+      "literal": "Zheng Ma"
+    },
+    {
+      "literal": "Nuo Chen"
+    },
+    {
+      "literal": "Jialin Cao"
+    },
+    {
+      "literal": "Qiushi Sun"
+    },
+    {
+      "literal": "Zichen Ding"
+    },
+    {
+      "literal": "Fangzhi Xu"
+    },
+    {
+      "literal": "Hang Yan"
+    },
+    {
+      "literal": "Jiajun Chen"
+    },
+    {
+      "literal": "Anh Tuan Luu"
+    },
+    {
+      "literal": "Jianbing Zhang"
+    },
+    {
+      "literal": "Lewei Lu"
+    },
+    {
+      "literal": "Dahua Lin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.15093",
+  "genre": "preprint",
+  "version": "1"
+}

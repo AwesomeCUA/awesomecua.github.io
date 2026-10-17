@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2405.06682",
+  "citation-key": "arxiv_2405_06682",
+  "type": "article",
+  "title": "Self-Reflection in LLM Agents: Effects on Problem-Solving Performance",
+  "URL": "https://arxiv.org/abs/2405.06682v3",
+  "custom": {
+    "catalog_id": "arxiv:2405.06682",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2405.06682",
+    "identifiers": {
+      "arxiv": "2405.06682"
+    },
+    "first_published_at": "2024-05-05",
+    "record_updated_at": "2024-10-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "334ac570d7cfc00616ac9bd4d78273d7a27cd169b7d2d1afd732ff8571f5d498",
+      "submitted_at": "2024-05-05T18:56:46Z",
+      "updated_at": "2024-10-16T23:19:46Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2405.06682v3"
+    }
+  },
+  "note": "First published: 2024-05-05; Recorded arXiv version: v3; Recorded version updated: 2024-10-16T23:19:46Z.",
+  "author": [
+    {
+      "literal": "Matthew Renze"
+    },
+    {
+      "literal": "Erhan Guven"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2405.06682",
+  "genre": "preprint",
+  "version": "3"
+}

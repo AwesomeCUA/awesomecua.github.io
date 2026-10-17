@@ -16,9 +16,16 @@ Bibliographic record for Throttling Web Agents Using Reasoning Gates. Title, aut
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-01619/record.json
+
 ## Authors
 
 Abhinav Kumar, Jaechul Roh, Ali Naseh, Amir Houmansadr, Eugene Bagdasarian
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-01619/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-01619/citation.csl.json
 
 ## Recorded arXiv snapshot
 

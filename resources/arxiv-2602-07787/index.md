@@ -16,9 +16,16 @@ Bibliographic record for Do Multi-Agents Dream of Electric Screens? Achieving Pe
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-07787/record.json
+
 ## Authors
 
 Pierre-Louis Favreau, Jean-Pierre Lo, Clement Guiguet, Charles Simon-Meunier, Nicolas Dehandschoewercker, Allen G. Roush, Judah Goldfeder, Ravid Shwartz-Ziv
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-07787/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-07787/citation.csl.json
 
 ## Recorded arXiv snapshot
 

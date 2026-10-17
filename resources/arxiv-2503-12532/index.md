@@ -16,9 +16,16 @@ Labels individual computer-use actions by comparing surrounding screenshots, the
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-12532/record.json
+
 ## Authors
 
 Fanbin Lu, Zhisheng Zhong, Ziqin Wei, Shu Liu, Chi-Wing Fu, Jiaya Jia
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-12532/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-12532/citation.csl.json
 
 ## Recorded arXiv snapshot
 

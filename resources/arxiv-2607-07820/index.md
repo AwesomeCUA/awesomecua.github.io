@@ -16,9 +16,16 @@ Bibliographic record for DeepSearch-World: Self-Distillation for Deep Search Age
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-07820/record.json
+
 ## Authors
 
 Xinyu Geng, Xuanhua He, Sixiang Chen, Yanjing Xiao, Fan Zhang, Shijue Huang, Haitao Mi, Zhenwen Liang, Tianqing Fang, Yi R. Fung
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-07820/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-07820/citation.csl.json
 
 ## Recorded arXiv snapshot
 

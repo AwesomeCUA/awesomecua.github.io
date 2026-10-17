@@ -16,9 +16,16 @@ Bibliographic record for DocOS: Towards Proactive Document-Guided Actions in GUI
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-18048/record.json
+
 ## Authors
 
 Jingjing Liu, Ziye Huang, Zihao Cheng, Zeming Liu, Jiahong Wu, Yuhang Guo, Kehai Chen, Yunhong Wang, Haifeng Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-18048/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-18048/citation.csl.json
 
 ## Recorded arXiv snapshot
 

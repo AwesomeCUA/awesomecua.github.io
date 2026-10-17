@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2604.17284",
+  "citation-key": "arxiv_2604_17284",
+  "type": "article",
+  "title": "HalluClear: Diagnosing, Evaluating and Mitigating Hallucinations in GUI Agents",
+  "URL": "https://arxiv.org/abs/2604.17284v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.17284",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.17284",
+    "identifiers": {
+      "arxiv": "2604.17284"
+    },
+    "first_published_at": "2026-04-19",
+    "record_updated_at": "2026-04-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2b102c9363b1be77273c7fab6f7f5cde74157c646671c93b9503770fe60dd70c",
+      "submitted_at": "2026-04-19T06:55:59Z",
+      "updated_at": "2026-04-19T06:55:59Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.17284v1"
+    }
+  },
+  "note": "First published: 2026-04-19; Recorded arXiv version: v1; Recorded version updated: 2026-04-19T06:55:59Z.",
+  "author": [
+    {
+      "literal": "Chao Jin"
+    },
+    {
+      "literal": "Wenkui Yang"
+    },
+    {
+      "literal": "Hao Sun"
+    },
+    {
+      "literal": "Yuqi Liao"
+    },
+    {
+      "literal": "Qianyi Jiang"
+    },
+    {
+      "literal": "Kai Zhou"
+    },
+    {
+      "literal": "Jie Cao"
+    },
+    {
+      "literal": "Ran He"
+    },
+    {
+      "literal": "Huaibo Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.17284",
+  "genre": "preprint",
+  "version": "1"
+}

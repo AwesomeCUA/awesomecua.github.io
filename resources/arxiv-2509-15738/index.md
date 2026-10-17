@@ -16,9 +16,16 @@ GUI-ReWalk begins with stochastic interface exploration and then infers goals to
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-15738/record.json
+
 ## Authors
 
 Musen Lin, Minghao Liu, Taoran Lu, Lichen Yuan, Yiwei Liu, Haonan Xu, Yu Miao, Yuhao Chao, Zhaojian Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-15738/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-15738/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Benchmarking Agentic Workflow Generation. Title, author
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-07869/record.json
+
 ## Authors
 
 Shuofei Qiao, Runnan Fang, Zhisong Qiu, Xiaobin Wang, Ningyu Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-07869/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-07869/citation.csl.json
 
 ## Recorded arXiv snapshot
 

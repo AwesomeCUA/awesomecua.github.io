@@ -16,9 +16,16 @@ Proposes GUI grounding training that combines curated seed examples, continuous 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-12370/record.json
+
 ## Authors
 
 Xinbin Yuan, Jian Zhang, Kaixin Li, Zhuoxuan Cai, Lujian Yao, Jie Chen, Enguang Wang, Qibin Hou, Jinwei Chen, Peng-Tao Jiang, Bo Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-12370/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-12370/citation.csl.json
 
 ## Recorded arXiv snapshot
 

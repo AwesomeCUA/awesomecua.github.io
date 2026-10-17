@@ -1,0 +1,94 @@
+{
+  "id": "arxiv:2410.15164",
+  "citation-key": "arxiv_2410_15164",
+  "type": "article",
+  "title": "SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation",
+  "URL": "https://arxiv.org/abs/2410.15164v3",
+  "custom": {
+    "catalog_id": "arxiv:2410.15164",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.15164",
+    "identifiers": {
+      "arxiv": "2410.15164"
+    },
+    "first_published_at": "2024-10-19",
+    "record_updated_at": "2025-03-31",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "206059754652205f1e036fac8ee117f71dd356bfe2d35fd84aff8d2935ea242d",
+      "submitted_at": "2024-10-19T17:28:48Z",
+      "updated_at": "2025-03-31T20:39:17Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2410.15164v3"
+    }
+  },
+  "note": "First published: 2024-10-19; Recorded arXiv version: v3; Recorded version updated: 2025-03-31T20:39:17Z.",
+  "author": [
+    {
+      "literal": "Jingxuan Chen"
+    },
+    {
+      "literal": "Derek Yuen"
+    },
+    {
+      "literal": "Bin Xie"
+    },
+    {
+      "literal": "Yuhao Yang"
+    },
+    {
+      "literal": "Gongwei Chen"
+    },
+    {
+      "literal": "Zhihao Wu"
+    },
+    {
+      "literal": "Li Yixing"
+    },
+    {
+      "literal": "Xurui Zhou"
+    },
+    {
+      "literal": "Weiwen Liu"
+    },
+    {
+      "literal": "Shuai Wang"
+    },
+    {
+      "literal": "Kaiwen Zhou"
+    },
+    {
+      "literal": "Rui Shao"
+    },
+    {
+      "literal": "Liqiang Nie"
+    },
+    {
+      "literal": "Yasheng Wang"
+    },
+    {
+      "literal": "Jianye Hao"
+    },
+    {
+      "literal": "Jun Wang"
+    },
+    {
+      "literal": "Kun Shao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.15164",
+  "genre": "preprint",
+  "version": "3"
+}

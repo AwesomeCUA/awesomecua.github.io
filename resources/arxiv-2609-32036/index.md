@@ -16,9 +16,16 @@ Moves controlled target icons across high-resolution interfaces to diagnose spat
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-32036/record.json
+
 ## Authors
 
 Chenyue Li, Xiaoxiao Sun, Yubo Deng, Qinlin Zhao, Serena Yeung-Levy, Yuhui Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-32036/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-32036/citation.csl.json
 
 ## Recorded arXiv snapshot
 

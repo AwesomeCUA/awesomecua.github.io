@@ -1,0 +1,60 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:38:28Z",
+      "role": "primary",
+      "sha256": "461de0060fae1ded024dfa724624b001665b463b14f454afafebd0c9a2dce71d",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://www.tinyfish.ai/"
+    }
+  ],
+  "id": "organization:tinyfish",
+  "identifiers": {},
+  "kind": "company",
+  "last_verified_at": "2026-10-16T06:38:28Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://www.tinyfish.ai/"
+    }
+  ],
+  "name": "TinyFish",
+  "notes": "Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://www.tinyfish.ai/",
+      "target_id": "organization:tinyfish",
+      "type": "published_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Publisher or product brand associated with TinyFish computer-use or browser automation offerings.",
+  "topics": [
+    "industry"
+  ],
+  "updated_at": null,
+  "url": "https://www.tinyfish.ai/"
+}

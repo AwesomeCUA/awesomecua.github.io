@@ -16,6 +16,8 @@ Instruction-oriented GUI data and research resources.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-alibaba-ui-ins/record.json
+
 ## License declarations
 
 - code: not recorded

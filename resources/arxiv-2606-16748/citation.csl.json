@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2606.16748",
+  "citation-key": "arxiv_2606_16748",
+  "type": "article",
+  "title": "MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2606.16748v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.16748",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2606.16748",
+    "identifiers": {
+      "arxiv": "2606.16748"
+    },
+    "first_published_at": "2026-06-15",
+    "record_updated_at": "2026-06-15",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "acc529f96d6df52e3560f66df8e0630dabdae3ab30cadc8b59123f347eba187a",
+      "submitted_at": "2026-06-15T14:08:09Z",
+      "updated_at": "2026-06-15T14:08:09Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.16748v1"
+    }
+  },
+  "note": "First published: 2026-06-15; Recorded arXiv version: v1; Recorded version updated: 2026-06-15T14:08:09Z.",
+  "author": [
+    {
+      "literal": "Lawrence Keunho Jang"
+    },
+    {
+      "literal": "Andrew Keunwoo Jang"
+    },
+    {
+      "literal": "Jing Yu Koh"
+    },
+    {
+      "literal": "Ruslan Salakhutdinov"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.16748",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Augmenting Autotelic Agents with Large Language Models.
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2305-12487/record.json
+
 ## Authors
 
 Cédric Colas, Laetitia Teodorescu, Pierre-Yves Oudeyer, Xingdi Yuan, Marc-Alexandre Côté
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2305-12487/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-12487/citation.csl.json
 
 ## Recorded arXiv snapshot
 

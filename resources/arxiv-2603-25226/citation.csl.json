@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2603.25226",
+  "citation-key": "arxiv_2603_25226",
+  "type": "article",
+  "title": "WebTestBench: Evaluating Computer-Use Agents towards End-to-End Automated Web Testing",
+  "URL": "https://arxiv.org/abs/2603.25226v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.25226",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.25226",
+    "identifiers": {
+      "arxiv": "2603.25226"
+    },
+    "first_published_at": "2026-03-26",
+    "record_updated_at": "2026-03-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8414eb53c66f745fb074d9f2699f76ffea81cb55f98aacf9ce896401937f80c5",
+      "submitted_at": "2026-03-26T09:27:29Z",
+      "updated_at": "2026-03-26T09:27:29Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.25226v1"
+    }
+  },
+  "note": "First published: 2026-03-26; Recorded arXiv version: v1; Recorded version updated: 2026-03-26T09:27:29Z.",
+  "author": [
+    {
+      "literal": "Fanheng Kong"
+    },
+    {
+      "literal": "Jingyuan Zhang"
+    },
+    {
+      "literal": "Yang Yue"
+    },
+    {
+      "literal": "Chenxi Sun"
+    },
+    {
+      "literal": "Yang Tian"
+    },
+    {
+      "literal": "Shi Feng"
+    },
+    {
+      "literal": "Xiaocui Yang"
+    },
+    {
+      "literal": "Daling Wang"
+    },
+    {
+      "literal": "Yu Tian"
+    },
+    {
+      "literal": "Jun Du"
+    },
+    {
+      "literal": "Wenchong Zeng"
+    },
+    {
+      "literal": "Han Li"
+    },
+    {
+      "literal": "Kun Gai"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.25226",
+  "genre": "preprint",
+  "version": "1"
+}

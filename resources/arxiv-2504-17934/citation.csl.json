@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2504.17934",
+  "citation-key": "arxiv_2504_17934",
+  "type": "article",
+  "title": "Toward a Human-Centered Evaluation Framework for Trustworthy LLM-Powered GUI Agents",
+  "URL": "https://arxiv.org/abs/2504.17934v2",
+  "custom": {
+    "catalog_id": "arxiv:2504.17934",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2504.17934",
+    "identifiers": {
+      "arxiv": "2504.17934"
+    },
+    "first_published_at": "2025-04-24",
+    "record_updated_at": "2025-06-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d2a55e347bc10e5571464924d9301ff2c32d5e9f1f990ca91725ec8c9f6da594",
+      "submitted_at": "2025-04-24T20:51:20Z",
+      "updated_at": "2025-06-05T12:40:53Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2504.17934v2"
+    }
+  },
+  "note": "First published: 2025-04-24; Recorded arXiv version: v2; Recorded version updated: 2025-06-05T12:40:53Z.",
+  "author": [
+    {
+      "literal": "Chaoran Chen"
+    },
+    {
+      "literal": "Zhiping Zhang"
+    },
+    {
+      "literal": "Ibrahim Khalilov"
+    },
+    {
+      "literal": "Bingcan Guo"
+    },
+    {
+      "literal": "Simret A Gebreegziabher"
+    },
+    {
+      "literal": "Yanfang Ye"
+    },
+    {
+      "literal": "Ziang Xiao"
+    },
+    {
+      "literal": "Yaxing Yao"
+    },
+    {
+      "literal": "Tianshi Li"
+    },
+    {
+      "literal": "Toby Jia-Jun Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.17934",
+  "genre": "preprint",
+  "version": "2"
+}

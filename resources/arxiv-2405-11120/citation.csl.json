@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2405.11120",
+  "citation-key": "arxiv_2405_11120",
+  "type": "article",
+  "title": "Latent State Estimation Helps UI Agents to Reason",
+  "URL": "https://arxiv.org/abs/2405.11120v1",
+  "custom": {
+    "catalog_id": "arxiv:2405.11120",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2405.11120",
+    "identifiers": {
+      "arxiv": "2405.11120"
+    },
+    "first_published_at": "2024-05-17",
+    "record_updated_at": "2024-05-17",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "81f62326dddc5c512fb05472eb1f387064c0a5aad77453e9d2e85415bb627fa9",
+      "submitted_at": "2024-05-17T23:27:33Z",
+      "updated_at": "2024-05-17T23:27:33Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2405.11120v1"
+    }
+  },
+  "note": "First published: 2024-05-17; Recorded arXiv version: v1; Recorded version updated: 2024-05-17T23:27:33Z.",
+  "author": [
+    {
+      "literal": "William E Bishop"
+    },
+    {
+      "literal": "Alice Li"
+    },
+    {
+      "literal": "Christopher Rawles"
+    },
+    {
+      "literal": "Oriana Riva"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2405.11120",
+  "genre": "preprint",
+  "version": "1"
+}

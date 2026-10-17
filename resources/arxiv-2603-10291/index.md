@@ -16,9 +16,16 @@ Bibliographic record for Hybrid Self-evolving Structured Memory for GUI Agents. 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-10291/record.json
+
 ## Authors
 
 Sibo Zhu, Wenyi Wu, Kun Zhou, Stephen Wang, Biwei Huang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-10291/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-10291/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for AgentHijack: Visual Patch Attacks on Multimodal Compute
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-09212/record.json
+
 ## Authors
 
 Zhihao Liu, Hongyu Sun, Zhiyuan Fu, Xiaonan Duan, Jice Wang, Shangru Zhao, Weizhi Meng, Wuxin Yang, Yangfan Zhou, Yuqing Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-09212/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-09212/citation.csl.json
 
 ## Recorded arXiv snapshot
 

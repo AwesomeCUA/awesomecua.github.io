@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2605.14649",
+  "citation-key": "arxiv_2605_14649",
+  "type": "article",
+  "title": "Multi-objective application placement in fog computing using graph neural network-based reinforcement learning",
+  "URL": "https://arxiv.org/abs/2605.14649v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.14649",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.14649",
+    "identifiers": {
+      "arxiv": "2605.14649"
+    },
+    "first_published_at": "2026-05-14",
+    "record_updated_at": "2026-05-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5312785e1b1ba5b3b7566b5536a155e741b360438ace1186a567aa2cd794e3c0",
+      "submitted_at": "2026-05-14T10:06:49Z",
+      "updated_at": "2026-05-14T10:06:49Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.14649v1"
+    }
+  },
+  "note": "First published: 2026-05-14; Recorded arXiv version: v1; Recorded version updated: 2026-05-14T10:06:49Z.",
+  "author": [
+    {
+      "literal": "Isaac Lera"
+    },
+    {
+      "literal": "Carlos Guerrero"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.14649",
+  "genre": "preprint",
+  "version": "1"
+}

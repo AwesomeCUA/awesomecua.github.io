@@ -16,9 +16,16 @@ Uses rule-based action rewards and policy optimization to train GUI action predi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-21620/record.json
+
 ## Authors
 
 Zhengxi Lu, Yuxiang Chai, Yaxuan Guo, Xi Yin, Liang Liu, Hao Wang, Han Xiao, Shuai Ren, Guanjing Xiong, Hongsheng Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-21620/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-21620/citation.csl.json
 
 ## Recorded arXiv snapshot
 

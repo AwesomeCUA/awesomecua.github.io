@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2601.09928",
+  "citation-key": "arxiv_2601_09928",
+  "type": "article",
+  "title": "In-Browser Agents for Search Assistance",
+  "URL": "https://arxiv.org/abs/2601.09928v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.09928",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.09928",
+    "identifiers": {
+      "arxiv": "2601.09928"
+    },
+    "first_published_at": "2026-01-14",
+    "record_updated_at": "2026-01-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bf4e40090009768a4cbe46d0701fd1c81513cb14e953476476d1e3180d299697",
+      "submitted_at": "2026-01-14T23:18:54Z",
+      "updated_at": "2026-01-14T23:18:54Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.09928v1"
+    }
+  },
+  "note": "First published: 2026-01-14; Recorded arXiv version: v1; Recorded version updated: 2026-01-14T23:18:54Z.",
+  "author": [
+    {
+      "literal": "Saber Zerhoudi"
+    },
+    {
+      "literal": "Michael Granitzer"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.09928",
+  "genre": "preprint",
+  "version": "1"
+}

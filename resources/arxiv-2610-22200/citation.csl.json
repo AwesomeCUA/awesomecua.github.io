@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2610.22200",
+  "citation-key": "arxiv_2610_22200",
+  "type": "article",
+  "title": "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use",
+  "URL": "https://arxiv.org/abs/2610.22200v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.22200",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.22200",
+    "identifiers": {
+      "arxiv": "2610.22200"
+    },
+    "first_published_at": "2026-10-15",
+    "record_updated_at": "2026-10-15",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "beab15a2bf8a6aca19d219dbe0a047e8c6d6bd84a580df33633b5d366c175a0e",
+      "submitted_at": "2026-10-15T16:51:35Z",
+      "updated_at": "2026-10-15T16:51:35Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.22200v1"
+    }
+  },
+  "note": "First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T16:51:35Z.",
+  "author": [
+    {
+      "literal": "Hanzhang Zhou"
+    },
+    {
+      "literal": "Long Li"
+    },
+    {
+      "literal": "Quyu Kong"
+    },
+    {
+      "literal": "Lei Wang"
+    },
+    {
+      "literal": "Panrong Tong"
+    },
+    {
+      "literal": "Long Chen"
+    },
+    {
+      "literal": "Tianyu Xia"
+    },
+    {
+      "literal": "Gongjie Zhang"
+    },
+    {
+      "literal": "Xu Zhang"
+    },
+    {
+      "literal": "Chen Liu"
+    },
+    {
+      "literal": "Jianan Zhang"
+    },
+    {
+      "literal": "Chenglin Cai"
+    },
+    {
+      "literal": "Zhengwen Zeng"
+    },
+    {
+      "literal": "Steven Hoi"
+    },
+    {
+      "literal": "Yue Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.22200",
+  "genre": "preprint",
+  "version": "1"
+}

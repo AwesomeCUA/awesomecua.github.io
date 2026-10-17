@@ -16,9 +16,16 @@ CADWorld evaluates screenshot-and-GUI agents on long FreeCAD workflows, from mod
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-16251/record.json
+
 ## Authors
 
 Zihan Dong, Yuanzhe Liu, Zhiyuan Ma, Qishi Zhan, Dehan Kong, Guohao Li, Kaixin Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-16251/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-16251/citation.csl.json
 
 ## Recorded arXiv snapshot
 

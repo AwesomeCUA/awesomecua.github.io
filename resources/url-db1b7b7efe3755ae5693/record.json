@@ -1,0 +1,91 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/apurvaga/go-browse-wa-qwen-7B/tree/main",
+    "gated": false,
+    "hub_id": "apurvaga/go-browse-wa-qwen-7B"
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:44:50Z",
+      "role": "primary",
+      "sha256": "470ef6f975990518f9622b259a6b8e5761b26dcd22985c248f1df2beb4aa2760",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/apurvaga/go-browse-wa-qwen-7B/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:44:50Z",
+      "role": "primary",
+      "sha256": "d083bf53b20c6c6124f1df29a83ce783799d46a1ab5600d19d658729fc6d67bb",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/api/models/apurvaga/go-browse-wa-qwen-7B"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:44:04Z",
+      "role": "primary",
+      "sha256": "0d4b28c993ccb977c7910ff3fecb5de29db364a7a7ad55523c8e052c9bae2566",
+      "supports": [
+        "summary",
+        "environments"
+      ],
+      "url": "https://raw.githubusercontent.com/ApGa/Go-Browse/HEAD/README.md"
+    }
+  ],
+  "id": "url:db1b7b7efe3755ae5693",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T02:44:50Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/apurvaga/go-browse-wa-qwen-7B"
+    }
+  ],
+  "name": "Go-Browse WebArena Qwen 7B",
+  "notes": "Seven public safetensors shards and model/tokenizer files are present. The card links the official code and paper but declares no weight license. The code repository’s MIT license is not inherited by this checkpoint, and the separate NNetNav-trained comparison model is not treated as an alias.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/apurvaga/go-browse-wa-qwen-7B/raw/main/README.md",
+      "target_id": "arxiv:2506.03533",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A Qwen-2.5-7B-Instruct checkpoint fine-tuned on Go-Browse WebArena trajectories for website task execution.",
+  "topics": [
+    "web-navigation",
+    "imitation-learning"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/apurvaga/go-browse-wa-qwen-7B"
+}

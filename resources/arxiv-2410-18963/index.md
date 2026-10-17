@@ -16,9 +16,16 @@ OSCAR translates user instructions into Python control code while observing scre
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-18963/record.json
+
 ## Authors
 
 Xiaoqiang Wang, Bang Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-18963/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-18963/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,75 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:00Z",
+      "role": "primary",
+      "sha256": "021cf14ec9482d1dab04dfeaadc3e39cdc405a284991cd540f5eeae7dea47a12",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/OS-Copilot/OS-Atlas/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:00Z",
+      "role": "primary",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/OS-Copilot/OS-Atlas/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:os-copilot/os-atlas",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-16T06:36:00Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T06:42:00Z",
+      "url": "https://raw.githubusercontent.com/OS-Copilot/OS-Atlas/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/OS-Copilot/OS-Atlas"
+    }
+  ],
+  "name": "OS-Atlas",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/OS-Copilot/OS-Atlas/HEAD/README.md",
+      "target_id": "arxiv:2410.23218",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Foundation action models and data for GUI interaction.",
+  "topics": [
+    "grounding"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/OS-Copilot/OS-Atlas"
+}

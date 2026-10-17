@@ -16,6 +16,8 @@ Data for learning text-dragging interactions in graphical interfaces.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-aa28e1329a52e341d285/record.json
+
 ## License declarations
 
 - code: not recorded

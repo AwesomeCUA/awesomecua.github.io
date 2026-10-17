@@ -16,9 +16,16 @@ Bibliographic record for Whose Agent Are You? Multi-Layer Fingerprinting and Att
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-20910/record.json
+
 ## Authors
 
 Dayeon Kang, Hyejun Jeong, Jade Sheffey, Pubali Datta, Amir Houmansadr
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-20910/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-20910/citation.csl.json
 
 ## Recorded arXiv snapshot
 

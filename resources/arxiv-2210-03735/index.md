@@ -16,9 +16,16 @@ Bibliographic record for "Help Me Help the AI": Understanding How Explainability
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2210-03735/record.json
+
 ## Authors
 
 Sunnie S. Y. Kim, Elizabeth Anne Watkins, Olga Russakovsky, Ruth Fong, Andrés Monroy-Hernández
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2210-03735/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2210-03735/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2512.23044",
+  "citation-key": "arxiv_2512_23044",
+  "type": "article",
+  "title": "Video-Browser: Towards Open-web Agentic Video Browsing",
+  "URL": "https://arxiv.org/abs/2512.23044v3",
+  "custom": {
+    "catalog_id": "arxiv:2512.23044",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2512.23044",
+    "identifiers": {
+      "arxiv": "2512.23044"
+    },
+    "first_published_at": "2025-12-28",
+    "record_updated_at": "2026-10-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "07c9818c14aa54422bde58b1bdf6933a8a4885f35dd00855f64e57ef7aea08ec",
+      "submitted_at": "2025-12-28T19:08:27Z",
+      "updated_at": "2026-10-13T17:54:58Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2512.23044v3"
+    }
+  },
+  "note": "First published: 2025-12-28; Recorded arXiv version: v3; Recorded version updated: 2026-10-13T17:54:58Z.",
+  "author": [
+    {
+      "literal": "Zhengyang Liang"
+    },
+    {
+      "literal": "Yan Shu"
+    },
+    {
+      "literal": "Xiangrui Liu"
+    },
+    {
+      "literal": "Minghao Qin"
+    },
+    {
+      "literal": "Nicu Sebe"
+    },
+    {
+      "literal": "Jiaxin Mao"
+    },
+    {
+      "literal": "Zheng Liu"
+    },
+    {
+      "literal": "Lizi Liao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2512.23044",
+  "genre": "preprint",
+  "version": "3"
+}

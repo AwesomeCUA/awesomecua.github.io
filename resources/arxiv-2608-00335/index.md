@@ -16,9 +16,16 @@ Bibliographic record for RMSWeb: Reflection, Failure-Mode Mining, and Salvage-DS
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-00335/record.json
+
 ## Authors
 
 Chengbo Liu, Lifang Zhou, Ruijie Yan, Pei Tan, Ao Sun, Haojun Huang, Guichun Hua, Sining Wei, Yining Chen, Yingying He, Yutao Xie
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-00335/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-00335/citation.csl.json
 
 ## Recorded arXiv snapshot
 

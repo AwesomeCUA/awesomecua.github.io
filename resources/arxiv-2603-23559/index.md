@@ -16,9 +16,16 @@ Bibliographic record for CAPTCHA Solving for Native GUI Agents: Automated Reason
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-23559/record.json
+
 ## Authors
 
 Yuxi Chen, Haoyu Zhai, Chenkai Wang, Rui Yang, Lingming Zhang, Gang Wang, Huan Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-23559/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-23559/citation.csl.json
 
 ## Recorded arXiv snapshot
 

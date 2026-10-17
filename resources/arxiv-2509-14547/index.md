@@ -16,9 +16,16 @@ Bibliographic record for (P)rior(D)yna(F)low: A Priori Dynamic Workflow Construc
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-14547/record.json
+
 ## Authors
 
 Yi Lin, Lujin Zhao, Yijie Shi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-14547/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-14547/citation.csl.json
 
 ## Recorded arXiv snapshot
 

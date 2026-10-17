@@ -16,9 +16,16 @@ Bibliographic record for Comment on "Electron transport through correlated molec
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-0912-3431/record.json
+
 ## Authors
 
 J. C. Greer, P. Delaney, G. Fagas
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-0912-3431/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-0912-3431/citation.csl.json
 
 ## Recorded arXiv snapshot
 

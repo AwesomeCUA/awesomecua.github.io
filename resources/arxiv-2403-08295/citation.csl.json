@@ -1,0 +1,367 @@
+{
+  "id": "arxiv:2403.08295",
+  "citation-key": "arxiv_2403_08295",
+  "type": "article",
+  "title": "Gemma: Open Models Based on Gemini Research and Technology",
+  "URL": "https://arxiv.org/abs/2403.08295v4",
+  "custom": {
+    "catalog_id": "arxiv:2403.08295",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2403.08295",
+    "identifiers": {
+      "arxiv": "2403.08295"
+    },
+    "first_published_at": "2024-03-13",
+    "record_updated_at": "2024-04-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c0dca710f82058729257a49070b14af85da99e6f6a6c70457179d48df6d28704",
+      "submitted_at": "2024-03-13T06:59:16Z",
+      "updated_at": "2024-04-16T12:52:47Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2403.08295v4"
+    }
+  },
+  "note": "First published: 2024-03-13; Recorded arXiv version: v4; Recorded version updated: 2024-04-16T12:52:47Z.",
+  "author": [
+    {
+      "literal": "Gemma Team"
+    },
+    {
+      "literal": "Thomas Mesnard"
+    },
+    {
+      "literal": "Cassidy Hardin"
+    },
+    {
+      "literal": "Robert Dadashi"
+    },
+    {
+      "literal": "Surya Bhupatiraju"
+    },
+    {
+      "literal": "Shreya Pathak"
+    },
+    {
+      "literal": "Laurent Sifre"
+    },
+    {
+      "literal": "Morgane Rivière"
+    },
+    {
+      "literal": "Mihir Sanjay Kale"
+    },
+    {
+      "literal": "Juliette Love"
+    },
+    {
+      "literal": "Pouya Tafti"
+    },
+    {
+      "literal": "Léonard Hussenot"
+    },
+    {
+      "literal": "Pier Giuseppe Sessa"
+    },
+    {
+      "literal": "Aakanksha Chowdhery"
+    },
+    {
+      "literal": "Adam Roberts"
+    },
+    {
+      "literal": "Aditya Barua"
+    },
+    {
+      "literal": "Alex Botev"
+    },
+    {
+      "literal": "Alex Castro-Ros"
+    },
+    {
+      "literal": "Ambrose Slone"
+    },
+    {
+      "literal": "Amélie Héliou"
+    },
+    {
+      "literal": "Andrea Tacchetti"
+    },
+    {
+      "literal": "Anna Bulanova"
+    },
+    {
+      "literal": "Antonia Paterson"
+    },
+    {
+      "literal": "Beth Tsai"
+    },
+    {
+      "literal": "Bobak Shahriari"
+    },
+    {
+      "literal": "Charline Le Lan"
+    },
+    {
+      "literal": "Christopher A. Choquette-Choo"
+    },
+    {
+      "literal": "Clément Crepy"
+    },
+    {
+      "literal": "Daniel Cer"
+    },
+    {
+      "literal": "Daphne Ippolito"
+    },
+    {
+      "literal": "David Reid"
+    },
+    {
+      "literal": "Elena Buchatskaya"
+    },
+    {
+      "literal": "Eric Ni"
+    },
+    {
+      "literal": "Eric Noland"
+    },
+    {
+      "literal": "Geng Yan"
+    },
+    {
+      "literal": "George Tucker"
+    },
+    {
+      "literal": "George-Christian Muraru"
+    },
+    {
+      "literal": "Grigory Rozhdestvenskiy"
+    },
+    {
+      "literal": "Henryk Michalewski"
+    },
+    {
+      "literal": "Ian Tenney"
+    },
+    {
+      "literal": "Ivan Grishchenko"
+    },
+    {
+      "literal": "Jacob Austin"
+    },
+    {
+      "literal": "James Keeling"
+    },
+    {
+      "literal": "Jane Labanowski"
+    },
+    {
+      "literal": "Jean-Baptiste Lespiau"
+    },
+    {
+      "literal": "Jeff Stanway"
+    },
+    {
+      "literal": "Jenny Brennan"
+    },
+    {
+      "literal": "Jeremy Chen"
+    },
+    {
+      "literal": "Johan Ferret"
+    },
+    {
+      "literal": "Justin Chiu"
+    },
+    {
+      "literal": "Justin Mao-Jones"
+    },
+    {
+      "literal": "Katherine Lee"
+    },
+    {
+      "literal": "Kathy Yu"
+    },
+    {
+      "literal": "Katie Millican"
+    },
+    {
+      "literal": "Lars Lowe Sjoesund"
+    },
+    {
+      "literal": "Lisa Lee"
+    },
+    {
+      "literal": "Lucas Dixon"
+    },
+    {
+      "literal": "Machel Reid"
+    },
+    {
+      "literal": "Maciej Mikuła"
+    },
+    {
+      "literal": "Mateo Wirth"
+    },
+    {
+      "literal": "Michael Sharman"
+    },
+    {
+      "literal": "Nikolai Chinaev"
+    },
+    {
+      "literal": "Nithum Thain"
+    },
+    {
+      "literal": "Olivier Bachem"
+    },
+    {
+      "literal": "Oscar Chang"
+    },
+    {
+      "literal": "Oscar Wahltinez"
+    },
+    {
+      "literal": "Paige Bailey"
+    },
+    {
+      "literal": "Paul Michel"
+    },
+    {
+      "literal": "Petko Yotov"
+    },
+    {
+      "literal": "Rahma Chaabouni"
+    },
+    {
+      "literal": "Ramona Comanescu"
+    },
+    {
+      "literal": "Reena Jana"
+    },
+    {
+      "literal": "Rohan Anil"
+    },
+    {
+      "literal": "Ross McIlroy"
+    },
+    {
+      "literal": "Ruibo Liu"
+    },
+    {
+      "literal": "Ryan Mullins"
+    },
+    {
+      "literal": "Samuel L Smith"
+    },
+    {
+      "literal": "Sebastian Borgeaud"
+    },
+    {
+      "literal": "Sertan Girgin"
+    },
+    {
+      "literal": "Sholto Douglas"
+    },
+    {
+      "literal": "Shree Pandya"
+    },
+    {
+      "literal": "Siamak Shakeri"
+    },
+    {
+      "literal": "Soham De"
+    },
+    {
+      "literal": "Ted Klimenko"
+    },
+    {
+      "literal": "Tom Hennigan"
+    },
+    {
+      "literal": "Vlad Feinberg"
+    },
+    {
+      "literal": "Wojciech Stokowiec"
+    },
+    {
+      "literal": "Yu-hui Chen"
+    },
+    {
+      "literal": "Zafarali Ahmed"
+    },
+    {
+      "literal": "Zhitao Gong"
+    },
+    {
+      "literal": "Tris Warkentin"
+    },
+    {
+      "literal": "Ludovic Peran"
+    },
+    {
+      "literal": "Minh Giang"
+    },
+    {
+      "literal": "Clément Farabet"
+    },
+    {
+      "literal": "Oriol Vinyals"
+    },
+    {
+      "literal": "Jeff Dean"
+    },
+    {
+      "literal": "Koray Kavukcuoglu"
+    },
+    {
+      "literal": "Demis Hassabis"
+    },
+    {
+      "literal": "Zoubin Ghahramani"
+    },
+    {
+      "literal": "Douglas Eck"
+    },
+    {
+      "literal": "Joelle Barral"
+    },
+    {
+      "literal": "Fernando Pereira"
+    },
+    {
+      "literal": "Eli Collins"
+    },
+    {
+      "literal": "Armand Joulin"
+    },
+    {
+      "literal": "Noah Fiedel"
+    },
+    {
+      "literal": "Evan Senter"
+    },
+    {
+      "literal": "Alek Andreev"
+    },
+    {
+      "literal": "Kathleen Kenealy"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.08295",
+  "genre": "preprint",
+  "version": "4"
+}

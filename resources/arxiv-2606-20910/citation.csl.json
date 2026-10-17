@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2606.20910",
+  "citation-key": "arxiv_2606_20910",
+  "type": "article",
+  "title": "Whose Agent Are You? Multi-Layer Fingerprinting and Attribution of Autonomous Web Agents",
+  "URL": "https://arxiv.org/abs/2606.20910v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.20910",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.20910",
+    "identifiers": {
+      "arxiv": "2606.20910"
+    },
+    "first_published_at": "2026-06-18",
+    "record_updated_at": "2026-06-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8b2c6080f0de11c06fe73c30195c7c8529e07de283dc45fa47709072846d385a",
+      "submitted_at": "2026-06-18T20:07:39Z",
+      "updated_at": "2026-06-18T20:07:39Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.20910v1"
+    }
+  },
+  "note": "First published: 2026-06-18; Recorded arXiv version: v1; Recorded version updated: 2026-06-18T20:07:39Z.",
+  "author": [
+    {
+      "literal": "Dayeon Kang"
+    },
+    {
+      "literal": "Hyejun Jeong"
+    },
+    {
+      "literal": "Jade Sheffey"
+    },
+    {
+      "literal": "Pubali Datta"
+    },
+    {
+      "literal": "Amir Houmansadr"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.20910",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Bibliographic record for When Benign Inputs Lead to Severe Harms: Eliciting Unsa
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-08235/record.json
+
 ## Authors
 
 Jaylen Jones, Zhehao Zhang, Yuting Ning, Eric Fosler-Lussier, Pierre-Luc St-Charles, Yoshua Bengio, Dawn Song, Yu Su, Huan Sun
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-08235/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-08235/citation.csl.json
 
 ## Recorded arXiv snapshot
 

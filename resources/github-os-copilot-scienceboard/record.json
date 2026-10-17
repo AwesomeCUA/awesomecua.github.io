@@ -1,0 +1,75 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "metrics": [],
+    "task_count": null
+  },
+  "environments": [
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:35:58Z",
+      "role": "primary",
+      "sha256": "4c3fe93aa740dbf4a279a246ddd836f2590a2a36f39b820abe166e38cb484577",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:41:59Z",
+      "role": "primary",
+      "sha256": "cbb1d28b515a39c294963d4bfc24077e669a483fc5ebba9b84a727afd4187426",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:os-copilot/scienceboard",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-16T06:35:58Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-16T06:41:59Z",
+      "url": "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/OS-Copilot/ScienceBoard"
+    }
+  ],
+  "name": "ScienceBoard",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Desktop tasks involving scientific software workflows.",
+  "topics": [
+    "evaluation",
+    "science"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/OS-Copilot/ScienceBoard"
+}

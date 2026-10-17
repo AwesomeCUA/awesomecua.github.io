@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2411.13451",
+  "citation-key": "arxiv_2411_13451",
+  "type": "article",
+  "title": "AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations",
+  "URL": "https://arxiv.org/abs/2411.13451v1",
+  "custom": {
+    "catalog_id": "arxiv:2411.13451",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2411.13451",
+    "identifiers": {
+      "arxiv": "2411.13451"
+    },
+    "first_published_at": "2024-11-20",
+    "record_updated_at": "2024-11-20",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "94d908dd89ff27434805fe7915c5a93d5c2b1d873449babc1c566c5582cca734",
+      "submitted_at": "2024-11-20T16:54:15Z",
+      "updated_at": "2024-11-20T16:54:15Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2411.13451v1"
+    }
+  },
+  "note": "First published: 2024-11-20; Recorded arXiv version: v1; Recorded version updated: 2024-11-20T16:54:15Z.",
+  "author": [
+    {
+      "literal": "Gaurav Verma"
+    },
+    {
+      "literal": "Rachneet Kaur"
+    },
+    {
+      "literal": "Nishan Srishankar"
+    },
+    {
+      "literal": "Zhen Zeng"
+    },
+    {
+      "literal": "Tucker Balch"
+    },
+    {
+      "literal": "Manuela Veloso"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2411.13451",
+  "genre": "preprint",
+  "version": "1"
+}

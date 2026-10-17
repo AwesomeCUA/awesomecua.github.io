@@ -16,9 +16,16 @@ Bibliographic record for Predictive Performance Modeling for Distributed Computi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1805-11877/record.json
+
 ## Authors
 
 Carl Witt, Marc Bux, Wladislaw Gusew, Ulf Leser
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1805-11877/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1805-11877/citation.csl.json
 
 ## Recorded arXiv snapshot
 

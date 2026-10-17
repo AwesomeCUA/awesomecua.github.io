@@ -16,6 +16,8 @@ GUI-grounding training code that modifies reasoning templates, reward functions,
 
 The README retains an older release-pending notice alongside a later checkpoint-release announcement. Check the linked model card for current weight availability and terms.
 
+- Record JSON: https://awesomecua.github.io/resources/github-yuqi-zhou-gui-g1/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/Yuqi-Zhou/GUI-G1/HEAD/LICENSE

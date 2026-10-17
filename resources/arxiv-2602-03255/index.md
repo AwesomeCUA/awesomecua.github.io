@@ -16,9 +16,16 @@ Bibliographic record for LPS-Bench: Benchmarking Safety Awareness of Computer-Us
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-03255/record.json
+
 ## Authors
 
 Tianyu Chen, Chujia Hu, Dongrui Liu, Xia Hu, Wenjie Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-03255/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-03255/citation.csl.json
 
 ## Recorded arXiv snapshot
 

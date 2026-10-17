@@ -16,9 +16,16 @@ Trains a smartphone assistant from sequences of screenshots paired with earlier 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-08755/record.json
+
 ## Authors
 
 Nicolai Dorka, Janusz Marecki, Ammar Anwar
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-08755/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-08755/citation.csl.json
 
 ## Recorded arXiv snapshot
 

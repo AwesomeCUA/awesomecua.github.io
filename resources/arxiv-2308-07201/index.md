@@ -16,9 +16,16 @@ Bibliographic record for ChatEval: Towards Better LLM-based Evaluators through M
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2308-07201/record.json
+
 ## Authors
 
 Chi-Min Chan, Weize Chen, Yusheng Su, Jianxuan Yu, Wei Xue, Shanghang Zhang, Jie Fu, Zhiyuan Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2308-07201/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2308-07201/citation.csl.json
 
 ## Recorded arXiv snapshot
 

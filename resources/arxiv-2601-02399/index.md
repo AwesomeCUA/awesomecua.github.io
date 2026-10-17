@@ -16,9 +16,16 @@ ProSoftArena evaluates 436 professional-software tasks across six disciplines an
 
 The paper abstract and official full-text sections were reviewed. The full text supports Windows 11 virtual-machine execution, screenshot/state observations, and mouse/keyboard actions. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-02399/record.json
+
 ## Authors
 
 Jiaxin Ai, Yukang Feng, Fanrui Zhang, Jianwen Sun, Zizhen Li, Chuanhao Li, Yifan Chang, Wenxiao Wu, Ruoxi Wang, Mingliang Zhai, Kaipeng Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-02399/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-02399/citation.csl.json
 
 ## Recorded arXiv snapshot
 

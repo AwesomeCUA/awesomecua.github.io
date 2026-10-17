@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2603.17441",
+  "citation-key": "arxiv_2603_17441",
+  "type": "article",
+  "title": "AdaZoom-GUI: Adaptive Zoom-based GUI Grounding with Instruction Refinement",
+  "URL": "https://arxiv.org/abs/2603.17441v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.17441",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.17441",
+    "identifiers": {
+      "arxiv": "2603.17441"
+    },
+    "first_published_at": "2026-03-18",
+    "record_updated_at": "2026-03-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2101a32746d6c668bff79461983b2e12138959f49ab3cfcb542ecbd629317f1d",
+      "submitted_at": "2026-03-18T07:26:18Z",
+      "updated_at": "2026-03-18T07:26:18Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.17441v1"
+    }
+  },
+  "note": "First published: 2026-03-18; Recorded arXiv version: v1; Recorded version updated: 2026-03-18T07:26:18Z.",
+  "author": [
+    {
+      "literal": "Siqi Pei"
+    },
+    {
+      "literal": "Liang Tang"
+    },
+    {
+      "literal": "Tiaonan Duan"
+    },
+    {
+      "literal": "Long Chen"
+    },
+    {
+      "literal": "Shuxian Li"
+    },
+    {
+      "literal": "Kaer Huang"
+    },
+    {
+      "literal": "Yanzhe Jing"
+    },
+    {
+      "literal": "Yiqiang Yan"
+    },
+    {
+      "literal": "Bo Zhang"
+    },
+    {
+      "literal": "Chenghao Jiang"
+    },
+    {
+      "literal": "Borui Zhang"
+    },
+    {
+      "literal": "Jiwen Lu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.17441",
+  "genre": "preprint",
+  "version": "1"
+}

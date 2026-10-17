@@ -16,9 +16,16 @@ Replaces future-screenshot generation with a shared latent representation for GU
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-14228/record.json
+
 ## Authors
 
 Seungjun Yu, Hojun Choi, Seojeong Park, Jaeyo Shin, Hyunjung Shim
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-14228/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-14228/citation.csl.json
 
 ## Recorded arXiv snapshot
 

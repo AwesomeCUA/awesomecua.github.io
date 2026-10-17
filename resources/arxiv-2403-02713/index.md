@@ -16,9 +16,16 @@ Introduces Chain-of-Action-Thought and Android-In-The-Zoo annotations that conne
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-02713/record.json
+
 ## Authors
 
 Jiwen Zhang, Jihao Wu, Yihua Teng, Minghui Liao, Nuo Xu, Xiao Xiao, Zhongyu Wei, Duyu Tang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-02713/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-02713/citation.csl.json
 
 ## Recorded arXiv snapshot
 

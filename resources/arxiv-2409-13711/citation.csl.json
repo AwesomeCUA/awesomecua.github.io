@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2409.13711",
+  "citation-key": "arxiv_2409_13711",
+  "type": "article",
+  "title": "WebQuest: A Benchmark for Multimodal QA on Web Page Sequences",
+  "URL": "https://arxiv.org/abs/2409.13711v2",
+  "custom": {
+    "catalog_id": "arxiv:2409.13711",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2409.13711",
+    "identifiers": {
+      "arxiv": "2409.13711"
+    },
+    "first_published_at": "2024-09-06",
+    "record_updated_at": "2024-09-24",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1ca44e6c98c09a2261b2cf8f3b6d18584b2d2471934b2dcac8d5b72c17b32e61",
+      "submitted_at": "2024-09-06T18:44:25Z",
+      "updated_at": "2024-09-24T18:38:02Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2409.13711v2"
+    }
+  },
+  "note": "First published: 2024-09-06; Recorded arXiv version: v2; Recorded version updated: 2024-09-24T18:38:02Z.",
+  "author": [
+    {
+      "literal": "Maria Wang"
+    },
+    {
+      "literal": "Srinivas Sunkara"
+    },
+    {
+      "literal": "Gilles Baechler"
+    },
+    {
+      "literal": "Jason Lin"
+    },
+    {
+      "literal": "Yun Zhu"
+    },
+    {
+      "literal": "Fedir Zubach"
+    },
+    {
+      "literal": "Lei Shu"
+    },
+    {
+      "literal": "Jindong Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2409.13711",
+  "genre": "preprint",
+  "version": "2"
+}

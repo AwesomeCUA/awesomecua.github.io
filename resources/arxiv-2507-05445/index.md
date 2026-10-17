@@ -16,9 +16,16 @@ Bibliographic record for A Systematization of Security Vulnerabilities in Comput
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-05445/record.json
+
 ## Authors
 
 Daniel Jones, Giorgio Severi, Martin Pouliot, Gary Lopez, Joris de Gruyter, Santiago Zanella-Beguelin, Justin Song, Blake Bullwinkel, Pamela Cortez, Amanda Minnich
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-05445/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-05445/citation.csl.json
 
 ## Recorded arXiv snapshot
 

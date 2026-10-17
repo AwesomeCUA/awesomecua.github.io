@@ -16,9 +16,16 @@ Bibliographic record for SecAgent: Efficient Mobile GUI Agent with Semantic Cont
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-08533/record.json
+
 ## Authors
 
 Yiping Xie, Song Chen, Jingxuan Xing, Wei Jiang, Zekun Zhu, Yingyao Wang, Pi Bu, Jun Song, Yuning Jiang, Bo Zheng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-08533/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-08533/citation.csl.json
 
 ## Recorded arXiv snapshot
 

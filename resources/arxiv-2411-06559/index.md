@@ -16,9 +16,16 @@ Introduces WebDreamer, which simulates candidate web actions with language-model
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-06559/record.json
+
 ## Authors
 
 Yu Gu, Kai Zhang, Yuting Ning, Boyuan Zheng, Boyu Gou, Tianci Xue, Cheng Chang, Sanjari Srivastava, Yanan Xie, Peng Qi, Huan Sun, Yu Su
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-06559/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-06559/citation.csl.json
 
 ## Recorded arXiv snapshot
 

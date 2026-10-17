@@ -16,9 +16,16 @@ Bibliographic record for EvoCUA: Evolving Computer Use Agents via Learning from 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-15876/record.json
+
 ## Authors
 
 Taofeng Xue, Chong Peng, Mianqiu Huang, Linsen Guo, Tiancheng Han, Haozhe Wang, Jianing Wang, Xiaocheng Zhang, Xin Yang, Dengchang Zhao, Jinrui Ding, Xiandi Ma, Yuchen Xie, Peng Pei, Xunliang Cai, Xipeng Qiu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-15876/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-15876/citation.csl.json
 
 ## Recorded arXiv snapshot
 

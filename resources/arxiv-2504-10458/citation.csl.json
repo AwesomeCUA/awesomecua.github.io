@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2504.10458",
+  "citation-key": "arxiv_2504_10458",
+  "type": "article",
+  "title": "GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents",
+  "URL": "https://arxiv.org/abs/2504.10458v4",
+  "custom": {
+    "catalog_id": "arxiv:2504.10458",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2504.10458",
+    "identifiers": {
+      "arxiv": "2504.10458"
+    },
+    "first_published_at": "2025-04-14",
+    "record_updated_at": "2025-10-01",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b875617b795e0f8d7d6348e22ec85ccc9ab4dd931e66850182348927b1e5209f",
+      "submitted_at": "2025-04-14T17:45:54Z",
+      "updated_at": "2025-10-01T04:55:20Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2504.10458v4"
+    }
+  },
+  "note": "First published: 2025-04-14; Recorded arXiv version: v4; Recorded version updated: 2025-10-01T04:55:20Z.",
+  "author": [
+    {
+      "literal": "Run Luo"
+    },
+    {
+      "literal": "Lu Wang"
+    },
+    {
+      "literal": "Wanwei He"
+    },
+    {
+      "literal": "Longze Chen"
+    },
+    {
+      "literal": "Jiaming Li"
+    },
+    {
+      "literal": "Xiaobo Xia"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.10458",
+  "genre": "preprint",
+  "version": "4"
+}

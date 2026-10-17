@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2508.04700",
+  "citation-key": "arxiv_2508_04700",
+  "type": "article",
+  "title": "SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience",
+  "URL": "https://arxiv.org/abs/2508.04700v2",
+  "custom": {
+    "catalog_id": "arxiv:2508.04700",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2508.04700",
+    "identifiers": {
+      "arxiv": "2508.04700"
+    },
+    "first_published_at": "2025-08-06",
+    "record_updated_at": "2025-08-12",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "268c38e6f11f11771a1251fc522112ff052557b5753dff6cadf2ba49c0ec04b2",
+      "submitted_at": "2025-08-06T17:58:46Z",
+      "updated_at": "2025-08-12T15:11:53Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2508.04700v2"
+    }
+  },
+  "note": "First published: 2025-08-06; Recorded arXiv version: v2; Recorded version updated: 2025-08-12T15:11:53Z.",
+  "author": [
+    {
+      "literal": "Zeyi Sun"
+    },
+    {
+      "literal": "Ziyu Liu"
+    },
+    {
+      "literal": "Yuhang Zang"
+    },
+    {
+      "literal": "Yuhang Cao"
+    },
+    {
+      "literal": "Xiaoyi Dong"
+    },
+    {
+      "literal": "Tong Wu"
+    },
+    {
+      "literal": "Dahua Lin"
+    },
+    {
+      "literal": "Jiaqi Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.04700",
+  "genre": "preprint",
+  "version": "2"
+}

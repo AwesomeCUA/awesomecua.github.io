@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2606.00254",
+  "citation-key": "arxiv_2606_00254",
+  "type": "article",
+  "title": "Symmetry-Protected Quantum Computing using Metamaterials",
+  "URL": "https://arxiv.org/abs/2606.00254v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.00254",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.00254",
+    "identifiers": {
+      "arxiv": "2606.00254"
+    },
+    "first_published_at": "2026-05-29",
+    "record_updated_at": "2026-05-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7189466bcee61c41c106c01f6118090d084a9d759482ed475cb9c334f949c10a",
+      "submitted_at": "2026-05-29T18:41:16Z",
+      "updated_at": "2026-05-29T18:41:16Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.00254v1"
+    }
+  },
+  "note": "First published: 2026-05-29; Recorded arXiv version: v1; Recorded version updated: 2026-05-29T18:41:16Z.",
+  "author": [
+    {
+      "literal": "Neil F. Johnson"
+    },
+    {
+      "literal": "Ferney J. Rodriguez"
+    },
+    {
+      "literal": "Luis Quiroga"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.00254",
+  "genre": "preprint",
+  "version": "1"
+}

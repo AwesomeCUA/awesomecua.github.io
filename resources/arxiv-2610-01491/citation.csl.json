@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2610.01491",
+  "citation-key": "arxiv_2610_01491",
+  "type": "article",
+  "title": "Auditing Web Agent Evaluation on WebArena-Lite: Human Review of Outcomes and Trajectories",
+  "URL": "https://arxiv.org/abs/2610.01491v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.01491",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.01491",
+    "identifiers": {
+      "arxiv": "2610.01491"
+    },
+    "first_published_at": "2026-10-01",
+    "record_updated_at": "2026-10-01",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9a5b97264b3928c8dc74b955cc4baa7005cd34b0ce9e42cbc48a63bc6dd1f5a7",
+      "submitted_at": "2026-10-01T11:31:37Z",
+      "updated_at": "2026-10-01T11:31:37Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.01491v1"
+    }
+  },
+  "note": "First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T11:31:37Z.",
+  "author": [
+    {
+      "literal": "Chengguang Gan"
+    },
+    {
+      "literal": "Zimeng He"
+    },
+    {
+      "literal": "Yoshihiro Tsujii"
+    },
+    {
+      "literal": "Ken-ichiro Kobayashi"
+    },
+    {
+      "literal": "Hiroki Itoh"
+    },
+    {
+      "literal": "Kotaro Funakoshi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.01491",
+  "genre": "preprint",
+  "version": "1"
+}

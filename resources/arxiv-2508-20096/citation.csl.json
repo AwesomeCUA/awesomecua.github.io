@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2508.20096",
+  "citation-key": "arxiv_2508_20096",
+  "type": "article",
+  "title": "CODA: Coordinating the Cerebrum and Cerebellum for a Dual-Brain Computer Use Agent with Decoupled Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2508.20096v1",
+  "custom": {
+    "catalog_id": "arxiv:2508.20096",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2508.20096",
+    "identifiers": {
+      "arxiv": "2508.20096"
+    },
+    "first_published_at": "2025-08-27",
+    "record_updated_at": "2025-08-27",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ac401f8d5c56050e72839f3bffba4f2c78bbdf34a00cab05fe504f03efd96a19",
+      "submitted_at": "2025-08-27T17:59:50Z",
+      "updated_at": "2025-08-27T17:59:50Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2508.20096v1"
+    }
+  },
+  "note": "First published: 2025-08-27; Recorded arXiv version: v1; Recorded version updated: 2025-08-27T17:59:50Z.",
+  "author": [
+    {
+      "literal": "Zeyi Sun"
+    },
+    {
+      "literal": "Yuhang Cao"
+    },
+    {
+      "literal": "Jianze Liang"
+    },
+    {
+      "literal": "Qiushi Sun"
+    },
+    {
+      "literal": "Ziyu Liu"
+    },
+    {
+      "literal": "Zhixiong Zhang"
+    },
+    {
+      "literal": "Yuhang Zang"
+    },
+    {
+      "literal": "Xiaoyi Dong"
+    },
+    {
+      "literal": "Kai Chen"
+    },
+    {
+      "literal": "Dahua Lin"
+    },
+    {
+      "literal": "Jiaqi Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.20096",
+  "genre": "preprint",
+  "version": "1"
+}

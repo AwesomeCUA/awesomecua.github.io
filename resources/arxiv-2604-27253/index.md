@@ -16,9 +16,16 @@ Bibliographic record for AutoSurfer -- Teaching Web Agents through Comprehensive
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-27253/record.json
+
 ## Authors
 
 Fazle Elahi Faisal, Qianhui Wu, Baolin Peng, Jianfeng Gao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-27253/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-27253/citation.csl.json
 
 ## Recorded arXiv snapshot
 

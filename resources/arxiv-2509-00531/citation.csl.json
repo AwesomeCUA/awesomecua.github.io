@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2509.00531",
+  "citation-key": "arxiv_2509_00531",
+  "type": "article",
+  "title": "MobiAgent: A Systematic Framework for Customizable Mobile Agents",
+  "URL": "https://arxiv.org/abs/2509.00531v1",
+  "custom": {
+    "catalog_id": "arxiv:2509.00531",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.00531",
+    "identifiers": {
+      "arxiv": "2509.00531"
+    },
+    "first_published_at": "2025-08-30",
+    "record_updated_at": "2025-08-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "dbf26f28382245db085fd48f15e905bfa31f1c289a9a7f0799d35440069b442a",
+      "submitted_at": "2025-08-30T15:24:47Z",
+      "updated_at": "2025-08-30T15:24:47Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2509.00531v1"
+    }
+  },
+  "note": "First published: 2025-08-30; Recorded arXiv version: v1; Recorded version updated: 2025-08-30T15:24:47Z.",
+  "author": [
+    {
+      "literal": "Cheng Zhang"
+    },
+    {
+      "literal": "Erhu Feng"
+    },
+    {
+      "literal": "Xi Zhao"
+    },
+    {
+      "literal": "Yisheng Zhao"
+    },
+    {
+      "literal": "Wangbo Gong"
+    },
+    {
+      "literal": "Jiahui Sun"
+    },
+    {
+      "literal": "Dong Du"
+    },
+    {
+      "literal": "Zhichao Hua"
+    },
+    {
+      "literal": "Yubin Xia"
+    },
+    {
+      "literal": "Haibo Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.00531",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2410.13886",
+  "citation-key": "arxiv_2410_13886",
+  "type": "article",
+  "title": "Refusal-Trained LLMs Are Easily Jailbroken As Browser Agents",
+  "URL": "https://arxiv.org/abs/2410.13886v2",
+  "custom": {
+    "catalog_id": "arxiv:2410.13886",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.13886",
+    "identifiers": {
+      "arxiv": "2410.13886"
+    },
+    "first_published_at": "2024-10-11",
+    "record_updated_at": "2024-10-21",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4922d9362b23bc0e41d47dacf590c6e9bd6e88cfa6418cf3517814131295270c",
+      "submitted_at": "2024-10-11T06:54:12Z",
+      "updated_at": "2024-10-21T18:06:58Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2410.13886v2"
+    }
+  },
+  "note": "First published: 2024-10-11; Recorded arXiv version: v2; Recorded version updated: 2024-10-21T18:06:58Z.",
+  "author": [
+    {
+      "literal": "Priyanshu Kumar"
+    },
+    {
+      "literal": "Elaine Lau"
+    },
+    {
+      "literal": "Saranya Vijayakumar"
+    },
+    {
+      "literal": "Tu Trinh"
+    },
+    {
+      "literal": "Scale Red Team"
+    },
+    {
+      "literal": "Elaine Chang"
+    },
+    {
+      "literal": "Vaughn Robinson"
+    },
+    {
+      "literal": "Sean Hendryx"
+    },
+    {
+      "literal": "Shuyan Zhou"
+    },
+    {
+      "literal": "Matt Fredrikson"
+    },
+    {
+      "literal": "Summer Yue"
+    },
+    {
+      "literal": "Zifan Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.13886",
+  "genre": "preprint",
+  "version": "2"
+}

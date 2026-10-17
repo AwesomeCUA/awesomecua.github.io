@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2306.01203",
+  "citation-key": "arxiv_2306_01203",
+  "type": "article",
+  "title": "Topo-Geometrically Distinct Path Computation using Neighborhood-augmented Graph, and its Application to Path Planning for a Tethered Robot in 3D",
+  "URL": "https://arxiv.org/abs/2306.01203v2",
+  "custom": {
+    "catalog_id": "arxiv:2306.01203",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2306.01203",
+    "identifiers": {
+      "arxiv": "2306.01203"
+    },
+    "first_published_at": "2023-06-01",
+    "record_updated_at": "2023-07-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "99729608976eec31fb82286f7de82738f12fa7d809e3a71d5057adedd9cf7c0a",
+      "submitted_at": "2023-06-01T23:33:53Z",
+      "updated_at": "2023-07-10T21:55:15Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2306.01203v2"
+    }
+  },
+  "note": "First published: 2023-06-01; Recorded arXiv version: v2; Recorded version updated: 2023-07-10T21:55:15Z.",
+  "author": [
+    {
+      "literal": "Alp Sahin"
+    },
+    {
+      "literal": "Subhrajit Bhattacharya"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        6,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2306.01203",
+  "genre": "preprint",
+  "version": "2"
+}

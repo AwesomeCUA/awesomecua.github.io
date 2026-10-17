@@ -16,9 +16,16 @@ Bibliographic record for ColorBrowserAgent: Complex Long-Horizon Browser Agent w
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-07262/record.json
+
 ## Authors
 
 Jihong Wang, Jiamu Zhou, Weiming Zhang, Teng Wang, Weiwen Liu, Zhuosheng Zhang, Xingyu Lou, Weinan Zhang, Huarong Deng, Jun Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-07262/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-07262/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for StructAgent: Harness Long-horizon Digital Agents with U
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-11388/record.json
+
 ## Authors
 
 Wenyi Wu, Sibo Zhu, Kun Zhou, Aayush Salvi, Zixuan Song, Biwei Huang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-11388/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-11388/citation.csl.json
 
 ## Recorded arXiv snapshot
 

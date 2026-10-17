@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:1609.04493",
+  "citation-key": "arxiv_1609_04493",
+  "type": "article",
+  "title": "Parallel Dynamics Computation using Prefix Sum Operations",
+  "URL": "https://arxiv.org/abs/1609.04493v1",
+  "custom": {
+    "catalog_id": "arxiv:1609.04493",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1609.04493",
+    "identifiers": {
+      "arxiv": "1609.04493"
+    },
+    "first_published_at": "2016-09-15",
+    "record_updated_at": "2016-09-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "709757eaaf55b9e76dab9732dd4a578e5b16fb66645cb886be8fca725cac5970",
+      "submitted_at": "2016-09-15T02:11:16Z",
+      "updated_at": "2016-09-15T02:11:16Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1609.04493v1"
+    }
+  },
+  "note": "First published: 2016-09-15; Recorded arXiv version: v1; Recorded version updated: 2016-09-15T02:11:16Z.",
+  "author": [
+    {
+      "literal": "Yajue Yang"
+    },
+    {
+      "literal": "Yuanqing Wu"
+    },
+    {
+      "literal": "Jia Pan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2016,
+        9,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1609.04493",
+  "genre": "preprint",
+  "version": "1"
+}

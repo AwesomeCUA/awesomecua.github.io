@@ -16,9 +16,16 @@ Bibliographic record for CS-PaperSum: A Large-Scale Dataset of AI-Generated Summ
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-20582/record.json
+
 ## Authors
 
 Javin Liu, Aryan Vats, Zihao He
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-20582/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-20582/citation.csl.json
 
 ## Recorded arXiv snapshot
 

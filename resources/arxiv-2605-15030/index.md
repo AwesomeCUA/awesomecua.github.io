@@ -16,9 +16,16 @@ Bibliographic record for WARD: Adversarially Robust Defense of Web Agents Agains
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-15030/record.json
+
 ## Authors
 
 Tri Cao, Yulin Chen, Hieu Cao, Yibo Li, Khoi Le, Thong Nguyen, Yuexin Li, Yufei He, Yue Liu, Shuicheng Yan, Bryan Hooi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-15030/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-15030/citation.csl.json
 
 ## Recorded arXiv snapshot
 

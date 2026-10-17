@@ -16,9 +16,16 @@ Bibliographic record for Signal-Driven Observation for Long-Horizon Web Agents. 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-06708/record.json
+
 ## Authors
 
 Shubham Gaur, Ian Lane
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-06708/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-06708/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Experimental quantum mechanics in the class room: Testi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1805-06275/record.json
+
 ## Authors
 
 Anirban Pathak
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1805-06275/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1805-06275/citation.csl.json
 
 ## Recorded arXiv snapshot
 

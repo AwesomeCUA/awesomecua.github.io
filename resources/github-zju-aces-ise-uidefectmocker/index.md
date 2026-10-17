@@ -16,6 +16,8 @@ Synthesizes visual UI defects from mobile screenshots and Android layout metadat
 
 This entry describes the released screenshot-defect tool, separately from the under-construction ChatUITest project hub.
 
+- Record JSON: https://awesomecua.github.io/resources/github-zju-aces-ise-uidefectmocker/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/ZJU-ACES-ISE/UIDefectMocker/HEAD/LICENSE

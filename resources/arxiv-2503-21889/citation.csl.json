@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2503.21889",
+  "citation-key": "arxiv_2503_21889",
+  "type": "article",
+  "title": "StarFlow: Generating Structured Workflow Outputs From Sketch Images",
+  "URL": "https://arxiv.org/abs/2503.21889v2",
+  "custom": {
+    "catalog_id": "arxiv:2503.21889",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2503.21889",
+    "identifiers": {
+      "arxiv": "2503.21889"
+    },
+    "first_published_at": "2025-03-27",
+    "record_updated_at": "2026-01-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "59eefcf29997b2ed674265cae019ecc3c2a9c844be870574204748fd7fbeaea3",
+      "submitted_at": "2025-03-27T18:04:05Z",
+      "updated_at": "2026-01-12T18:27:42Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2503.21889v2"
+    }
+  },
+  "note": "First published: 2025-03-27; Recorded arXiv version: v2; Recorded version updated: 2026-01-12T18:27:42Z.",
+  "author": [
+    {
+      "literal": "Patrice Bechard"
+    },
+    {
+      "literal": "Chao Wang"
+    },
+    {
+      "literal": "Amirhossein Abaskohi"
+    },
+    {
+      "literal": "Juan Rodriguez"
+    },
+    {
+      "literal": "Christopher Pal"
+    },
+    {
+      "literal": "David Vazquez"
+    },
+    {
+      "literal": "Spandana Gella"
+    },
+    {
+      "literal": "Sai Rajeswar"
+    },
+    {
+      "literal": "Perouz Taslakian"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.21889",
+  "genre": "preprint",
+  "version": "2"
+}

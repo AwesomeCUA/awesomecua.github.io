@@ -16,9 +16,16 @@ Bibliographic record for WALT: Web Agents that Learn Tools. Title, authors and d
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-01524/record.json
+
 ## Authors
 
 Viraj Prabhu, Yutong Dai, Matthew Fernandez, Jing Gu, Krithika Ramakrishnan, Yanqi Luo, Silvio Savarese, Caiming Xiong, Junnan Li, Zeyuan Chen, Ran Xu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-01524/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-01524/citation.csl.json
 
 ## Recorded arXiv snapshot
 

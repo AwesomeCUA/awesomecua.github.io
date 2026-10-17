@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2605.08261",
+  "citation-key": "arxiv_2605_08261",
+  "type": "article",
+  "title": "Computer Use at the Edge of the Statistical Precipice",
+  "URL": "https://arxiv.org/abs/2605.08261v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.08261",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.08261",
+    "identifiers": {
+      "arxiv": "2605.08261"
+    },
+    "first_published_at": "2026-05-07",
+    "record_updated_at": "2026-05-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "803dd9a5acac5754110a770a21ac7d882339ea0e16a9852a84a657da20355a25",
+      "submitted_at": "2026-05-07T22:43:43Z",
+      "updated_at": "2026-05-07T22:43:43Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.08261v1"
+    }
+  },
+  "note": "First published: 2026-05-07; Recorded arXiv version: v1; Recorded version updated: 2026-05-07T22:43:43Z.",
+  "author": [
+    {
+      "literal": "Pierluca D'Oro"
+    },
+    {
+      "literal": "Sneha Silwal"
+    },
+    {
+      "literal": "William Wong"
+    },
+    {
+      "literal": "Yuxuan Sun"
+    },
+    {
+      "literal": "Fanyi Xiao"
+    },
+    {
+      "literal": "Manchen Wang"
+    },
+    {
+      "literal": "Eric Gan"
+    },
+    {
+      "literal": "Allen Bolourchi"
+    },
+    {
+      "literal": "Joseph Tighe"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.08261",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2605.14747",
+  "citation-key": "arxiv_2605_14747",
+  "type": "article",
+  "title": "Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining",
+  "URL": "https://arxiv.org/abs/2605.14747v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.14747",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.14747",
+    "identifiers": {
+      "arxiv": "2605.14747"
+    },
+    "first_published_at": "2026-05-14",
+    "record_updated_at": "2026-05-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d0403b56b03da2f8264cbfbd6083c37bfdd32e47fdd2e39b4543d9ef2070c610",
+      "submitted_at": "2026-05-14T12:14:24Z",
+      "updated_at": "2026-05-14T12:14:24Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.14747v1"
+    }
+  },
+  "note": "First published: 2026-05-14; Recorded arXiv version: v1; Recorded version updated: 2026-05-14T12:14:24Z.",
+  "author": [
+    {
+      "literal": "Weimin Xiong"
+    },
+    {
+      "literal": "Shuhao Gu"
+    },
+    {
+      "literal": "Bowen Ye"
+    },
+    {
+      "literal": "Zihao Yue"
+    },
+    {
+      "literal": "Lei Li"
+    },
+    {
+      "literal": "Feifan Song"
+    },
+    {
+      "literal": "Sujian Li"
+    },
+    {
+      "literal": "Hao Tian"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.14747",
+  "genre": "preprint",
+  "version": "1"
+}

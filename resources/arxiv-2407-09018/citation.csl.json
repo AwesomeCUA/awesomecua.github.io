@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2407.09018",
+  "citation-key": "arxiv_2407_09018",
+  "type": "article",
+  "title": "AUITestAgent: Automatic Requirements Oriented GUI Function Testing",
+  "URL": "https://arxiv.org/abs/2407.09018v1",
+  "custom": {
+    "catalog_id": "arxiv:2407.09018",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2407.09018",
+    "identifiers": {
+      "arxiv": "2407.09018"
+    },
+    "first_published_at": "2024-07-12",
+    "record_updated_at": "2024-07-12",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a594fa7e150c9f5c22ed4d88f0551305f801f5780851ecf844802f2d2cd07c48",
+      "submitted_at": "2024-07-12T06:14:46Z",
+      "updated_at": "2024-07-12T06:14:46Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2407.09018v1"
+    }
+  },
+  "note": "First published: 2024-07-12; Recorded arXiv version: v1; Recorded version updated: 2024-07-12T06:14:46Z.",
+  "author": [
+    {
+      "literal": "Yongxiang Hu"
+    },
+    {
+      "literal": "Xuan Wang"
+    },
+    {
+      "literal": "Yingchuan Wang"
+    },
+    {
+      "literal": "Yu Zhang"
+    },
+    {
+      "literal": "Shiyu Guo"
+    },
+    {
+      "literal": "Chaoyi Chen"
+    },
+    {
+      "literal": "Xin Wang"
+    },
+    {
+      "literal": "Yangfan Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.09018",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Reward Design with Language Models. Title, authors and 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2303-00001/record.json
+
 ## Authors
 
 Minae Kwon, Sang Michael Xie, Kalesha Bullard, Dorsa Sadigh
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2303-00001/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2303-00001/citation.csl.json
 
 ## Recorded arXiv snapshot
 

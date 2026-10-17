@@ -16,9 +16,16 @@ Bibliographic record for CUADebug: Diagnosing and Repairing Computer-Use Agent F
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-02643/record.json
+
 ## Authors
 
 Weijia Zhang, Kunlun Zhu, Zeyi Liu, Yinting Chen, Tianyi Ma, Jiateng Liu, Jiaxun Zhang, Bingxuan Li, Xiangru Tang, Heng Ji, Jiaxuan You
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-02643/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-02643/citation.csl.json
 
 ## Recorded arXiv snapshot
 

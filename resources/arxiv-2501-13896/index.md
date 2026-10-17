@@ -16,9 +16,16 @@ Collects environment-specific interaction data through autonomous exploration to
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-13896/record.json
+
 ## Authors
 
 Yue Fan, Handong Zhao, Ruiyi Zhang, Yu Shen, Xin Eric Wang, Gang Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-13896/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-13896/citation.csl.json
 
 ## Recorded arXiv snapshot
 

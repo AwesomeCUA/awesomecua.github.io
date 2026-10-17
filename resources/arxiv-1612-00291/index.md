@@ -16,9 +16,16 @@ Bibliographic record for Aggressive Quadrotor Flight through Narrow Gaps with On
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1612-00291/record.json
+
 ## Authors
 
 Davide Falanga, Elias Mueggler, Matthias Faessler, Davide Scaramuzza
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1612-00291/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1612-00291/citation.csl.json
 
 ## Recorded arXiv snapshot
 

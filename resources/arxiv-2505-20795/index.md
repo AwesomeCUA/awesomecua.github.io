@@ -16,9 +16,16 @@ Bibliographic record for Learning Generalizable Robot Policy with Human Demonstr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-20795/record.json
+
 ## Authors
 
 Xiang Zhu, Yichen Liu, Hezhong Li, Jianyu Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-20795/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-20795/citation.csl.json
 
 ## Recorded arXiv snapshot
 

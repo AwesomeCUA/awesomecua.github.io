@@ -16,9 +16,16 @@ Bibliographic record for PolySkill: Learning Generalizable Skills Through Polymo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-15863/record.json
+
 ## Authors
 
 Simon Yu, Gang Li, Weiyan Shi, Peng Qi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-15863/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-15863/citation.csl.json
 
 ## Recorded arXiv snapshot
 

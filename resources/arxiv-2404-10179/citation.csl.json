@@ -1,0 +1,325 @@
+{
+  "id": "arxiv:2404.10179",
+  "citation-key": "arxiv_2404_10179",
+  "type": "article",
+  "title": "Scaling Instructable Agents Across Many Simulated Worlds",
+  "URL": "https://arxiv.org/abs/2404.10179v3",
+  "custom": {
+    "catalog_id": "arxiv:2404.10179",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2404.10179",
+    "identifiers": {
+      "arxiv": "2404.10179"
+    },
+    "first_published_at": "2024-03-13",
+    "record_updated_at": "2024-10-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cbfdedf6a9130e395a06c97b46079dc7a158483cffebe8a8b2b6961f19ab5a46",
+      "submitted_at": "2024-03-13T17:50:32Z",
+      "updated_at": "2024-10-11T16:30:24Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2404.10179v3"
+    }
+  },
+  "note": "First published: 2024-03-13; Recorded arXiv version: v3; Recorded version updated: 2024-10-11T16:30:24Z.",
+  "author": [
+    {
+      "literal": "SIMA Team"
+    },
+    {
+      "literal": "Maria Abi Raad"
+    },
+    {
+      "literal": "Arun Ahuja"
+    },
+    {
+      "literal": "Catarina Barros"
+    },
+    {
+      "literal": "Frederic Besse"
+    },
+    {
+      "literal": "Andrew Bolt"
+    },
+    {
+      "literal": "Adrian Bolton"
+    },
+    {
+      "literal": "Bethanie Brownfield"
+    },
+    {
+      "literal": "Gavin Buttimore"
+    },
+    {
+      "literal": "Max Cant"
+    },
+    {
+      "literal": "Sarah Chakera"
+    },
+    {
+      "literal": "Stephanie C. Y. Chan"
+    },
+    {
+      "literal": "Jeff Clune"
+    },
+    {
+      "literal": "Adrian Collister"
+    },
+    {
+      "literal": "Vikki Copeman"
+    },
+    {
+      "literal": "Alex Cullum"
+    },
+    {
+      "literal": "Ishita Dasgupta"
+    },
+    {
+      "literal": "Dario de Cesare"
+    },
+    {
+      "literal": "Julia Di Trapani"
+    },
+    {
+      "literal": "Yani Donchev"
+    },
+    {
+      "literal": "Emma Dunleavy"
+    },
+    {
+      "literal": "Martin Engelcke"
+    },
+    {
+      "literal": "Ryan Faulkner"
+    },
+    {
+      "literal": "Frankie Garcia"
+    },
+    {
+      "literal": "Charles Gbadamosi"
+    },
+    {
+      "literal": "Zhitao Gong"
+    },
+    {
+      "literal": "Lucy Gonzales"
+    },
+    {
+      "literal": "Kshitij Gupta"
+    },
+    {
+      "literal": "Karol Gregor"
+    },
+    {
+      "literal": "Arne Olav Hallingstad"
+    },
+    {
+      "literal": "Tim Harley"
+    },
+    {
+      "literal": "Sam Haves"
+    },
+    {
+      "literal": "Felix Hill"
+    },
+    {
+      "literal": "Ed Hirst"
+    },
+    {
+      "literal": "Drew A. Hudson"
+    },
+    {
+      "literal": "Jony Hudson"
+    },
+    {
+      "literal": "Steph Hughes-Fitt"
+    },
+    {
+      "literal": "Danilo J. Rezende"
+    },
+    {
+      "literal": "Mimi Jasarevic"
+    },
+    {
+      "literal": "Laura Kampis"
+    },
+    {
+      "literal": "Rosemary Ke"
+    },
+    {
+      "literal": "Thomas Keck"
+    },
+    {
+      "literal": "Junkyung Kim"
+    },
+    {
+      "literal": "Oscar Knagg"
+    },
+    {
+      "literal": "Kavya Kopparapu"
+    },
+    {
+      "literal": "Rory Lawton"
+    },
+    {
+      "literal": "Andrew Lampinen"
+    },
+    {
+      "literal": "Shane Legg"
+    },
+    {
+      "literal": "Alexander Lerchner"
+    },
+    {
+      "literal": "Marjorie Limont"
+    },
+    {
+      "literal": "Yulan Liu"
+    },
+    {
+      "literal": "Maria Loks-Thompson"
+    },
+    {
+      "literal": "Joseph Marino"
+    },
+    {
+      "literal": "Kathryn Martin Cussons"
+    },
+    {
+      "literal": "Loic Matthey"
+    },
+    {
+      "literal": "Siobhan Mcloughlin"
+    },
+    {
+      "literal": "Piermaria Mendolicchio"
+    },
+    {
+      "literal": "Hamza Merzic"
+    },
+    {
+      "literal": "Anna Mitenkova"
+    },
+    {
+      "literal": "Alexandre Moufarek"
+    },
+    {
+      "literal": "Valeria Oliveira"
+    },
+    {
+      "literal": "Yanko Oliveira"
+    },
+    {
+      "literal": "Hannah Openshaw"
+    },
+    {
+      "literal": "Renke Pan"
+    },
+    {
+      "literal": "Aneesh Pappu"
+    },
+    {
+      "literal": "Alex Platonov"
+    },
+    {
+      "literal": "Ollie Purkiss"
+    },
+    {
+      "literal": "David Reichert"
+    },
+    {
+      "literal": "John Reid"
+    },
+    {
+      "literal": "Pierre Harvey Richemond"
+    },
+    {
+      "literal": "Tyson Roberts"
+    },
+    {
+      "literal": "Giles Ruscoe"
+    },
+    {
+      "literal": "Jaume Sanchez Elias"
+    },
+    {
+      "literal": "Tasha Sandars"
+    },
+    {
+      "literal": "Daniel P. Sawyer"
+    },
+    {
+      "literal": "Tim Scholtes"
+    },
+    {
+      "literal": "Guy Simmons"
+    },
+    {
+      "literal": "Daniel Slater"
+    },
+    {
+      "literal": "Hubert Soyer"
+    },
+    {
+      "literal": "Heiko Strathmann"
+    },
+    {
+      "literal": "Peter Stys"
+    },
+    {
+      "literal": "Allison C. Tam"
+    },
+    {
+      "literal": "Denis Teplyashin"
+    },
+    {
+      "literal": "Tayfun Terzi"
+    },
+    {
+      "literal": "Davide Vercelli"
+    },
+    {
+      "literal": "Bojan Vujatovic"
+    },
+    {
+      "literal": "Marcus Wainwright"
+    },
+    {
+      "literal": "Jane X. Wang"
+    },
+    {
+      "literal": "Zhengdong Wang"
+    },
+    {
+      "literal": "Daan Wierstra"
+    },
+    {
+      "literal": "Duncan Williams"
+    },
+    {
+      "literal": "Nathaniel Wong"
+    },
+    {
+      "literal": "Sarah York"
+    },
+    {
+      "literal": "Nick Young"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.10179",
+  "genre": "preprint",
+  "version": "3"
+}

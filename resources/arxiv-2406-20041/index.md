@@ -16,9 +16,16 @@ Bibliographic record for BMW Agents -- A Framework For Task Automation Through M
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-20041/record.json
+
 ## Authors
 
 Noel Crawford, Edward B. Duffy, Iman Evazzade, Torsten Foehr, Gregory Robbins, Debbrata Kumar Saha, Jiya Varma, Marcin Ziolkowski
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-20041/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-20041/citation.csl.json
 
 ## Recorded arXiv snapshot
 

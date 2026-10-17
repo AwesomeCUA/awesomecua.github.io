@@ -16,9 +16,16 @@ OS-MAP organizes 416 computer-use tasks across 15 applications by a five-level a
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-19132/record.json
+
 ## Authors
 
 Xuetian Chen, Yinghao Chen, Xinfeng Yuan, Zhuo Peng, Lu Chen, Yuekeng Li, Zhoujia Zhang, Yingqian Huang, Leyan Huang, Jiaqing Liang, Tianbao Xie, Zhiyong Wu, Qiushi Sun, Biqing Qi, Bowen Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-19132/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-19132/citation.csl.json
 
 ## Recorded arXiv snapshot
 

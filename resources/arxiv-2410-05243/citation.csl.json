@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2410.05243",
+  "citation-key": "arxiv_2410_05243",
+  "type": "article",
+  "title": "Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents",
+  "URL": "https://arxiv.org/abs/2410.05243v3",
+  "custom": {
+    "catalog_id": "arxiv:2410.05243",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.05243",
+    "identifiers": {
+      "arxiv": "2410.05243"
+    },
+    "first_published_at": "2024-10-07",
+    "record_updated_at": "2025-06-17",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "08ece826d135b9ab9dfed2a3baf9deeab99489120da749cd67517b636649c5a6",
+      "submitted_at": "2024-10-07T17:47:50Z",
+      "updated_at": "2025-06-17T15:06:02Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2410.05243v3"
+    }
+  },
+  "note": "First published: 2024-10-07; Recorded arXiv version: v3; Recorded version updated: 2025-06-17T15:06:02Z.",
+  "author": [
+    {
+      "literal": "Boyu Gou"
+    },
+    {
+      "literal": "Ruohan Wang"
+    },
+    {
+      "literal": "Boyuan Zheng"
+    },
+    {
+      "literal": "Yanan Xie"
+    },
+    {
+      "literal": "Cheng Chang"
+    },
+    {
+      "literal": "Yiheng Shu"
+    },
+    {
+      "literal": "Huan Sun"
+    },
+    {
+      "literal": "Yu Su"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.05243",
+  "genre": "preprint",
+  "version": "3"
+}

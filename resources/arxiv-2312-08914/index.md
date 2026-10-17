@@ -16,9 +16,16 @@ Introduces a visual-language model with low- and high-resolution image encoders 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2312-08914/record.json
+
 ## Authors
 
 Wenyi Hong, Weihan Wang, Qingsong Lv, Jiazheng Xu, Wenmeng Yu, Junhui Ji, Yan Wang, Zihan Wang, Yuxuan Zhang, Juanzi Li, Bin Xu, Yuxiao Dong, Ming Ding, Jie Tang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2312-08914/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2312-08914/citation.csl.json
 
 ## Recorded arXiv snapshot
 

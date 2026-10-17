@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:1506.01406",
+  "citation-key": "arxiv_1506_01406",
+  "type": "article",
+  "title": "M-Flash: Fast Billion-scale Graph Computation Using a Bimodal Block Processing Model",
+  "URL": "https://arxiv.org/abs/1506.01406v5",
+  "custom": {
+    "catalog_id": "arxiv:1506.01406",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1506.01406",
+    "identifiers": {
+      "arxiv": "1506.01406"
+    },
+    "first_published_at": "2015-06-03",
+    "record_updated_at": "2016-09-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1d35ecbf8487999c4ec09c5a5c59ffd80a181c2cfb8cf6e1c0502fd350bb2f63",
+      "submitted_at": "2015-06-03T20:56:30Z",
+      "updated_at": "2016-09-14T20:26:33Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/1506.01406v5"
+    }
+  },
+  "note": "First published: 2015-06-03; Recorded arXiv version: v5; Recorded version updated: 2016-09-14T20:26:33Z.",
+  "author": [
+    {
+      "literal": "Hugo Gualdron"
+    },
+    {
+      "literal": "Robson Cordeiro"
+    },
+    {
+      "literal": "Jose Rodrigues-Jr"
+    },
+    {
+      "literal": "Duen Chau"
+    },
+    {
+      "literal": "Minsuk Kahng"
+    },
+    {
+      "literal": "U Kang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2015,
+        6,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1506.01406",
+  "genre": "preprint",
+  "version": "5"
+}

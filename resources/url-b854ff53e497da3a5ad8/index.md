@@ -16,6 +16,8 @@ GUI interaction dataset focused on drag operations.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-b854ff53e497da3a5ad8/record.json
+
 ## License declarations
 
 - code: not recorded

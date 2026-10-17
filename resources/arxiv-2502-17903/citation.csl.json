@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2502.17903",
+  "citation-key": "arxiv_2502_17903",
+  "type": "article",
+  "title": "Towards Sustainable Web Agents: A Plea for Transparency and Dedicated Metrics for Energy Consumption",
+  "URL": "https://arxiv.org/abs/2502.17903v1",
+  "custom": {
+    "catalog_id": "arxiv:2502.17903",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2502.17903",
+    "identifiers": {
+      "arxiv": "2502.17903"
+    },
+    "first_published_at": "2025-02-25",
+    "record_updated_at": "2025-02-25",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3903e97e6db6bd470699f0d7b2785e53e15291234f1e5f717bae8d2ccd851ca4",
+      "submitted_at": "2025-02-25T06:58:40Z",
+      "updated_at": "2025-02-25T06:58:40Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2502.17903v1"
+    }
+  },
+  "note": "First published: 2025-02-25; Recorded arXiv version: v1; Recorded version updated: 2025-02-25T06:58:40Z.",
+  "author": [
+    {
+      "literal": "Lars Krupp"
+    },
+    {
+      "literal": "Daniel Geißler"
+    },
+    {
+      "literal": "Paul Lukowicz"
+    },
+    {
+      "literal": "Jakob Karolus"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        2,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2502.17903",
+  "genre": "preprint",
+  "version": "1"
+}

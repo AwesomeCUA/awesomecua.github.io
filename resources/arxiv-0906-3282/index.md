@@ -16,9 +16,16 @@ Bibliographic record for Maximum Error Modeling for Fault-Tolerant Computation u
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-0906-3282/record.json
+
 ## Authors
 
 Karthikeyan Lingasubramanian, Syed M. Alam, Sanjukta Bhanja
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-0906-3282/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-0906-3282/citation.csl.json
 
 ## Recorded arXiv snapshot
 

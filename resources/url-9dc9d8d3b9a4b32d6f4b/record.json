@@ -1,0 +1,95 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/Yuqi-Zhou/GUI-G1-3B-v1/tree/main",
+    "gated": false,
+    "hub_id": "Yuqi-Zhou/GUI-G1-3B-v1"
+  },
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:44:30Z",
+      "role": "primary",
+      "sha256": "b7a4628a4d65ae226b50086075f3977b8f69ad12d15238a194675875bb9113e8",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/Yuqi-Zhou/GUI-G1-3B-v1/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:44:30Z",
+      "role": "primary",
+      "sha256": "2f4b2084ca9cfd67f0952ea8c578c87f3a5d721064b5de3a191d7489373125aa",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/api/models/Yuqi-Zhou/GUI-G1-3B-v1"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T02:44:30Z",
+      "role": "primary",
+      "sha256": "b7a4628a4d65ae226b50086075f3977b8f69ad12d15238a194675875bb9113e8",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/Yuqi-Zhou/GUI-G1-3B-v1/raw/main/README.md"
+    }
+  ],
+  "id": "url:9dc9d8d3b9a4b32d6f4b",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T02:44:30Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "mit",
+      "retrieved_at": "2026-10-17T02:44:30Z",
+      "url": "https://huggingface.co/Yuqi-Zhou/GUI-G1-3B-v1/raw/main/README.md"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/Yuqi-Zhou/GUI-G1-3B-v1"
+    }
+  ],
+  "name": "GUI-G1 3B v1",
+  "notes": "Two public safetensors shards and model/tokenizer configuration are present. The card declares MIT. Its inference example loads the v1 model but names a different 0.1K processor checkpoint; that example was not executed, and compatibility is not asserted.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/Yuqi-Zhou/GUI-G1-3B-v1/raw/main/README.md",
+      "target_id": "arxiv:2505.15810",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A Qwen2.5-VL-3B checkpoint released for R1-style visual grounding experiments, predicting interface target locations from screenshots and instructions.",
+  "topics": [
+    "grounding",
+    "reinforcement-learning"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/Yuqi-Zhou/GUI-G1-3B-v1"
+}

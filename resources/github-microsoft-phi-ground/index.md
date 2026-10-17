@@ -16,6 +16,8 @@ GUI grounding model and associated evaluation resources.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-microsoft-phi-ground/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/microsoft/Phi-Ground/HEAD/LICENSE

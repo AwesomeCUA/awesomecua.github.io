@@ -16,9 +16,16 @@ Defines compositional enterprise workflows to evaluate planning and reasoning, w
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-05291/record.json
+
 ## Authors
 
 Léo Boisvert, Megh Thakkar, Maxime Gasse, Massimo Caccia, Thibault Le Sellier De Chezelles, Quentin Cappart, Nicolas Chapados, Alexandre Lacoste, Alexandre Drouin
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-05291/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-05291/citation.csl.json
 
 ## Recorded arXiv snapshot
 

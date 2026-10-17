@@ -16,9 +16,16 @@ Bibliographic record for AI PERSONA: Towards Life-long Personalization of LLMs. 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-13103/record.json
+
 ## Authors
 
 Tiannan Wang, Meiling Tao, Ruoyu Fang, Huilin Wang, Shuai Wang, Yuchen Eleanor Jiang, Wangchunshu Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-13103/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-13103/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Trains a screenshot-based instruction-grounding model to predict target coordina
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-04716/record.json
+
 ## Authors
 
 Zhizheng Zhang, Wenxuan Xie, Xiaoyi Zhang, Yan Lu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-04716/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-04716/citation.csl.json
 
 ## Recorded arXiv snapshot
 

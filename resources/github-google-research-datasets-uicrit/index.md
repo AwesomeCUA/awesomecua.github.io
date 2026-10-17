@@ -16,6 +16,8 @@ Mobile-interface critiques and quality ratings with region coordinates and RICO 
 
 The published CSV contains critique text, normalized boxes, ratings and RICO IDs; screenshots are referenced through RICO. The README explicitly licenses the work CC-BY-4.0. Its current 1,000-screen, 11,344-critique release differs from the original paper population. The README cites an ACM DOI rather than an arXiv ID, so no paper relation is asserted here. Its README establishes mobile interfaces without naming an operating system.
 
+- Record JSON: https://awesomecua.github.io/resources/github-google-research-datasets-uicrit/record.json
+
 ## Structured profile
 
 - formats: CSV

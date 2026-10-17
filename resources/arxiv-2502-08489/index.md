@@ -16,9 +16,16 @@ Bibliographic record for Salamandra Technical Report. Title, authors and dates c
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-08489/record.json
+
 ## Authors
 
 Aitor Gonzalez-Agirre, Marc Pàmies, Joan Llop, Irene Baucells, Severino Da Dalt, Daniel Tamayo, José Javier Saiz, Ferran Espuña, Jaume Prats, Javier Aula-Blasco, Mario Mina, Iñigo Pikabea, Adrián Rubio, Alexander Shvets, Anna Sallés, Iñaki Lacunza, Jorge Palomar, Júlia Falcão, Lucía Tormo, Luis Vasquez-Reina, Montserrat Marimon, Oriol Pareras, Valle Ruiz-Fernández, Marta Villegas
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-08489/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-08489/citation.csl.json
 
 ## Recorded arXiv snapshot
 

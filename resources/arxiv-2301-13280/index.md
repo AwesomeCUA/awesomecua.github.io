@@ -16,9 +16,16 @@ Collects rendered webpages and structural metadata for visual UI modeling, study
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2301-13280/record.json
+
 ## Authors
 
 Jason Wu, Siyan Wang, Siman Shen, Yi-Hao Peng, Jeffrey Nichols, Jeffrey P. Bigham
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2301-13280/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2301-13280/citation.csl.json
 
 ## Recorded arXiv snapshot
 

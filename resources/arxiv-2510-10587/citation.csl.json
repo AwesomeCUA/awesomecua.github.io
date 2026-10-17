@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2510.10587",
+  "citation-key": "arxiv_2510_10587",
+  "type": "article",
+  "title": "A Simple and Better Baseline for Visual Grounding",
+  "URL": "https://arxiv.org/abs/2510.10587v1",
+  "custom": {
+    "catalog_id": "arxiv:2510.10587",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.10587",
+    "identifiers": {
+      "arxiv": "2510.10587"
+    },
+    "first_published_at": "2025-10-12",
+    "record_updated_at": "2025-10-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c3518df14fc6d92f640dca5b20d666f8802b45ed5914d94e4a2ac4cca813321b",
+      "submitted_at": "2025-10-12T13:06:59Z",
+      "updated_at": "2025-10-12T13:06:59Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2510.10587v1"
+    }
+  },
+  "note": "First published: 2025-10-12; Recorded arXiv version: v1; Recorded version updated: 2025-10-12T13:06:59Z.",
+  "author": [
+    {
+      "literal": "Jingchao Wang"
+    },
+    {
+      "literal": "Wenlong Zhang"
+    },
+    {
+      "literal": "Dingjiang Huang"
+    },
+    {
+      "literal": "Hong Wang"
+    },
+    {
+      "literal": "Yefeng Zheng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.10587",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,6 +16,8 @@ H computer-use model family and its release-specific access options.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-c0bd07d82ce25ad1d99d/record.json
+
 ## License declarations
 
 - code: not recorded

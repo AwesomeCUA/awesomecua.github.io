@@ -16,9 +16,16 @@ Combines hierarchical planning, retrieved experience, and a computer interaction
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-08164/record.json
+
 ## Authors
 
 Saaket Agashe, Jiuzhou Han, Shuyu Gan, Jiachen Yang, Ang Li, Xin Eric Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-08164/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-08164/citation.csl.json
 
 ## Recorded arXiv snapshot
 

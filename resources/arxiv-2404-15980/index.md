@@ -16,9 +16,16 @@ Bibliographic record for Minimizing the Number of Teleportations in Distributed 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-15980/record.json
+
 ## Authors
 
 Ali Ebnenasir, Kieran Young
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-15980/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-15980/citation.csl.json
 
 ## Recorded arXiv snapshot
 

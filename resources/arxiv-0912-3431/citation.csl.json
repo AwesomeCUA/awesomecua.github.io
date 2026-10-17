@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:0912.3431",
+  "citation-key": "arxiv_0912_3431",
+  "type": "article",
+  "title": "Comment on \"Electron transport through correlated molecules computed using the time-independent Wigner function: Two critical tests\"",
+  "URL": "https://arxiv.org/abs/0912.3431v1",
+  "custom": {
+    "catalog_id": "arxiv:0912.3431",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/0912.3431",
+    "identifiers": {
+      "arxiv": "0912.3431"
+    },
+    "first_published_at": "2009-12-17",
+    "record_updated_at": "2009-12-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "797dab7ed4827951d5e811f0b88cc1a2624d01efbc74396745023db03aa095a5",
+      "submitted_at": "2009-12-17T18:05:36Z",
+      "updated_at": "2009-12-17T18:05:36Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/0912.3431v1"
+    }
+  },
+  "note": "First published: 2009-12-17; Recorded arXiv version: v1; Recorded version updated: 2009-12-17T18:05:36Z.",
+  "author": [
+    {
+      "literal": "J. C. Greer"
+    },
+    {
+      "literal": "P. Delaney"
+    },
+    {
+      "literal": "G. Fagas"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2009,
+        12,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "0912.3431",
+  "genre": "preprint",
+  "version": "1"
+}

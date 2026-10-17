@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2609.15134",
+  "citation-key": "arxiv_2609_15134",
+  "type": "article",
+  "title": "HazardAuditor: From Executable Threats to Safer Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2609.15134v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.15134",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.15134",
+    "identifiers": {
+      "arxiv": "2609.15134"
+    },
+    "first_published_at": "2026-09-14",
+    "record_updated_at": "2026-09-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4dd204d4efcb620479f444d4551cfb0037cff0dba0cc7c40ef4fc50b39376d10",
+      "submitted_at": "2026-09-14T07:09:33Z",
+      "updated_at": "2026-09-14T07:09:33Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.15134v1"
+    }
+  },
+  "note": "First published: 2026-09-14; Recorded arXiv version: v1; Recorded version updated: 2026-09-14T07:09:33Z.",
+  "author": [
+    {
+      "literal": "Yunhao Feng"
+    },
+    {
+      "literal": "Ruixiao Lin"
+    },
+    {
+      "literal": "Ming Wen"
+    },
+    {
+      "literal": "Yanming Guo"
+    },
+    {
+      "literal": "Xingjun Ma"
+    },
+    {
+      "literal": "Yutao Wu"
+    },
+    {
+      "literal": "Xinhao Deng"
+    },
+    {
+      "literal": "Shouling Ji"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.15134",
+  "genre": "preprint",
+  "version": "1"
+}

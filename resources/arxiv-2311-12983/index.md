@@ -16,9 +16,16 @@ Introduces questions that test assistant reasoning, multimodal understanding, br
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-12983/record.json
+
 ## Authors
 
 Grégoire Mialon, Clémentine Fourrier, Craig Swift, Thomas Wolf, Yann LeCun, Thomas Scialom
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-12983/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-12983/citation.csl.json
 
 ## Recorded arXiv snapshot
 

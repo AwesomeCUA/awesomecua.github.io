@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2602.09012",
+  "citation-key": "arxiv_2602_09012",
+  "type": "article",
+  "title": "Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense",
+  "URL": "https://arxiv.org/abs/2602.09012v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.09012",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2602.09012",
+    "identifiers": {
+      "arxiv": "2602.09012"
+    },
+    "first_published_at": "2026-02-09",
+    "record_updated_at": "2026-06-21",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3178684a322fcf07f847473139efdddf0b02213af468f1afbd285549d15bde56",
+      "submitted_at": "2026-02-09T18:55:33Z",
+      "updated_at": "2026-06-21T08:25:39Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.09012v2"
+    }
+  },
+  "note": "First published: 2026-02-09; Recorded arXiv version: v2; Recorded version updated: 2026-06-21T08:25:39Z.",
+  "author": [
+    {
+      "literal": "Jiacheng Liu"
+    },
+    {
+      "literal": "Yaxin Luo"
+    },
+    {
+      "literal": "Jiacheng Cui"
+    },
+    {
+      "literal": "Xinyi Shang"
+    },
+    {
+      "literal": "Xiaohan Zhao"
+    },
+    {
+      "literal": "Zhiqiang Shen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.09012",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,76 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:00Z",
+      "role": "primary",
+      "sha256": "2cf79e21b5438bf6a2e6bd450ba8c4d86404560dfb61836f7e300112ce74a59d",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/OpenBMB/AgentCPM-GUI/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:01Z",
+      "role": "primary",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/OpenBMB/AgentCPM-GUI/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:openbmb/agentcpm-gui",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-16T06:36:00Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T06:42:01Z",
+      "url": "https://raw.githubusercontent.com/OpenBMB/AgentCPM-GUI/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/OpenBMB/AgentCPM-GUI"
+    }
+  ],
+  "name": "AgentCPM-GUI",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/OpenBMB/AgentCPM-GUI/HEAD/README.md",
+      "target_id": "arxiv:2506.01391",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "GUI agent model with a focus on mobile interaction.",
+  "topics": [
+    "grounding",
+    "mobile-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/OpenBMB/AgentCPM-GUI"
+}

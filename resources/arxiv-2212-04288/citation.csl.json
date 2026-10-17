@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2212.04288",
+  "citation-key": "arxiv_2212_04288",
+  "type": "article",
+  "title": "Secure Over-the-Air Computation using Zero-Forced Artificial Noise",
+  "URL": "https://arxiv.org/abs/2212.04288v2",
+  "custom": {
+    "catalog_id": "arxiv:2212.04288",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2212.04288",
+    "identifiers": {
+      "arxiv": "2212.04288"
+    },
+    "first_published_at": "2022-12-08",
+    "record_updated_at": "2022-12-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0e9e9c926dfe176758a299ff28a578c054cef1fb48ee99e4a07bf61a0f8b6f20",
+      "submitted_at": "2022-12-08T14:30:59Z",
+      "updated_at": "2022-12-22T16:13:33Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2212.04288v2"
+    }
+  },
+  "note": "First published: 2022-12-08; Recorded arXiv version: v2; Recorded version updated: 2022-12-22T16:13:33Z.",
+  "author": [
+    {
+      "literal": "Luis Maßny"
+    },
+    {
+      "literal": "Antonia Wachter-Zeh"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        12,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2212.04288",
+  "genre": "preprint",
+  "version": "2"
+}

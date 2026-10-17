@@ -16,9 +16,16 @@ Bibliographic record for A Multi-Dataset Benchmark for Evaluating LLM Agents in 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-29193/record.json
+
 ## Authors
 
 Yuanhong Cai, Xiaohui Nie, Kanglin Yin, Changhua Pei, Yongqian Sun, Shenglin Zhang, Haibin Liu, Guiyang Liu, Xidao Wen, Fang Situ, Dan Pei
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-29193/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-29193/citation.csl.json
 
 ## Recorded arXiv snapshot
 

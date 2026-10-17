@@ -1,0 +1,75 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "metrics": [],
+    "task_count": null
+  },
+  "environments": [
+    "windows"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:35:59Z",
+      "role": "primary",
+      "sha256": "9857bd8ae9f521f152761ae3bd85debe4e7471aad34c9eb47618332948bca6c9",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:41:59Z",
+      "role": "primary",
+      "sha256": "a8d1d88a0f9cce3cdbff73b03a80dc5e5d69e3ba2443946c268815a550c9e0ec",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:hitsz-tmg/windowsworld",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-16T06:35:59Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T06:41:59Z",
+      "url": "https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/HITsz-TMG/WindowsWorld"
+    }
+  ],
+  "name": "WindowsWorld",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Cross-application Windows benchmark with intermediate task evaluation.",
+  "topics": [
+    "evaluation",
+    "cross-app"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/HITsz-TMG/WindowsWorld"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Perspective on unconventional computing using magnetic 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2303-00708/record.json
+
 ## Authors
 
 Oscar Lee, Robin Msiska, Maarten A. Brems, Mathias Klaui, Hidekazu Kurebayashi, Karin Everschor-Sitte
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2303-00708/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2303-00708/citation.csl.json
 
 ## Recorded arXiv snapshot
 

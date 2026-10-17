@@ -1,0 +1,90 @@
+{
+  "aliases": [],
+  "authors": [
+    "Yong Du",
+    "Tongbo Chen",
+    "Zhengxi Lu",
+    "Yizhou Liu",
+    "Bofan Chen",
+    "Tao Jiang",
+    "Wenhao Xu",
+    "Yongliang Shen"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8f3745b6b497c8819dc990bdb5d74e7af463d23654cbc7cdd76ade0faf2b3e0c",
+      "submitted_at": "2026-09-30T17:40:09Z",
+      "updated_at": "2026-10-01T17:50:14Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2609.40253v2"
+    }
+  },
+  "environments": [
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:29Z",
+      "role": "primary",
+      "sha256": "74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:29Z",
+      "role": "primary",
+      "sha256": "74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2609.40253",
+  "identifiers": {
+    "arxiv": "2609.40253"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:29Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2609.40253"
+    }
+  ],
+  "name": "ComputerSD: Online Self-Distillation from Real-Time Feedback for Computer-Use Agents",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2026-09-30",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Introduces ComputerSD, which turns feedback from executed GUI transitions into online self-distillation guidance and step-level scores. A GUI analyzer supplies these signals, which are combined with trajectory-level reinforcement learning in asynchronous training.",
+  "topics": [
+    "reinforcement-learning",
+    "evaluation"
+  ],
+  "updated_at": "2026-10-01",
+  "url": "https://arxiv.org/abs/2609.40253"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2510.01354",
+  "citation-key": "arxiv_2510_01354",
+  "type": "article",
+  "title": "WAInjectBench: Benchmarking Prompt Injection Detections for Web Agents",
+  "URL": "https://arxiv.org/abs/2510.01354v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.01354",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.01354",
+    "identifiers": {
+      "arxiv": "2510.01354"
+    },
+    "first_published_at": "2025-10-01",
+    "record_updated_at": "2026-09-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e997e87268cfe66869bf19fdc8445e5487c980736a63cbe76f779bd1f142c396",
+      "submitted_at": "2025-10-01T18:34:06Z",
+      "updated_at": "2026-09-23T16:44:27Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.01354v2"
+    }
+  },
+  "note": "First published: 2025-10-01; Recorded arXiv version: v2; Recorded version updated: 2026-09-23T16:44:27Z.",
+  "author": [
+    {
+      "literal": "Yinuo Liu"
+    },
+    {
+      "literal": "Xilong Wang"
+    },
+    {
+      "literal": "Ruohan Xu"
+    },
+    {
+      "literal": "Yuqi Jia"
+    },
+    {
+      "literal": "Neil Zhenqiang Gong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.01354",
+  "genre": "preprint",
+  "version": "2"
+}

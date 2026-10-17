@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2510.22009",
+  "citation-key": "arxiv_2510_22009",
+  "type": "article",
+  "title": "OpenPhone: Mobile Agentic Foundation Models",
+  "URL": "https://arxiv.org/abs/2510.22009v3",
+  "custom": {
+    "catalog_id": "arxiv:2510.22009",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.22009",
+    "identifiers": {
+      "arxiv": "2510.22009"
+    },
+    "first_published_at": "2025-10-24",
+    "record_updated_at": "2026-10-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "09bd73dff01641593f31f7d40effd60df42e3d9460ffa010f76c00a32be3593b",
+      "submitted_at": "2025-10-24T20:23:12Z",
+      "updated_at": "2026-10-05T01:17:12Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2510.22009v3"
+    }
+  },
+  "note": "First published: 2025-10-24; Recorded arXiv version: v3; Recorded version updated: 2026-10-05T01:17:12Z.",
+  "author": [
+    {
+      "literal": "Yangqin Jiang"
+    },
+    {
+      "literal": "Chao Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.22009",
+  "genre": "preprint",
+  "version": "3"
+}

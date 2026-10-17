@@ -16,9 +16,16 @@ Compares seven traditional and learned GUI element detectors on more than 50,000
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2008-05132/record.json
+
 ## Authors
 
 Jieshan Chen, Mulong Xie, Zhenchang Xing, Chunyang Chen, Xiwei Xu, Liming Zhu, Guoqiang Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2008-05132/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2008-05132/citation.csl.json
 
 ## Recorded arXiv snapshot
 

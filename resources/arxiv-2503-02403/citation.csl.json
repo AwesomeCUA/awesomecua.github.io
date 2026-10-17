@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2503.02403",
+  "citation-key": "arxiv_2503_02403",
+  "type": "article",
+  "title": "AutoEval: A Practical Framework for Autonomous Evaluation of Mobile Agents",
+  "URL": "https://arxiv.org/abs/2503.02403v2",
+  "custom": {
+    "catalog_id": "arxiv:2503.02403",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2503.02403",
+    "identifiers": {
+      "arxiv": "2503.02403"
+    },
+    "first_published_at": "2025-03-04",
+    "record_updated_at": "2025-09-24",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a0c393d109ab0f8da2bf25bb39581236babd50f7554f2ec99679a99fb7215171",
+      "submitted_at": "2025-03-04T08:44:30Z",
+      "updated_at": "2025-09-24T05:11:34Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2503.02403v2"
+    }
+  },
+  "note": "First published: 2025-03-04; Recorded arXiv version: v2; Recorded version updated: 2025-09-24T05:11:34Z.",
+  "author": [
+    {
+      "literal": "Jiahui Sun"
+    },
+    {
+      "literal": "Zhichao Hua"
+    },
+    {
+      "literal": "Yubin Xia"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.02403",
+  "genre": "preprint",
+  "version": "2"
+}

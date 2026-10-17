@@ -16,9 +16,16 @@ Combines autonomous task proposal, web interaction, and visual success evaluatio
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-13194/record.json
+
 ## Authors
 
 Yifei Zhou, Qianlan Yang, Kaixiang Lin, Min Bai, Xiong Zhou, Yu-Xiong Wang, Sergey Levine, Erran Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-13194/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-13194/citation.csl.json
 
 ## Recorded arXiv snapshot
 

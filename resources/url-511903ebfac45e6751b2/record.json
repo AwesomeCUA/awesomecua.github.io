@@ -1,0 +1,143 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "dataset_profile": {
+      "counts": [
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/hflqf88888/GUIOdyssey/raw/main/README.md",
+          "population": "recommended hflqf88888/GUIOdyssey release",
+          "qualifier": "exact",
+          "unit": "episodes",
+          "value": 8334
+        }
+      ],
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/OpenGVLab/GUI-Odyssey/HEAD/README.md",
+        "https://huggingface.co/datasets/hflqf88888/GUIOdyssey/raw/main/README.md",
+        "https://raw.githubusercontent.com/OpenGVLab/GUI-Odyssey/HEAD/introduction.md"
+      ],
+      "formats": [
+        "JSON annotations",
+        "PNG screenshots"
+      ],
+      "modalities": [
+        "screenshots",
+        "instructions",
+        "actions",
+        "bounding boxes",
+        "step context"
+      ],
+      "notes": "The repository gives conflicting episode totals (8,334 and 8,834). This profile uses 8,334 from the specifically recommended current dataset card. No independent archive recount was performed. Coordinates are normalized to 0–1000.",
+      "splits": [
+        "random",
+        "task",
+        "device",
+        "app"
+      ],
+      "supervision": [
+        "cross-app trajectories",
+        "action grounding"
+      ]
+    },
+    "download_url": "https://huggingface.co/datasets/hflqf88888/GUIOdyssey/tree/main",
+    "languages": [],
+    "modalities": [],
+    "sample_count": 8334,
+    "sample_unit": "episodes reported by the current release card"
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T11:39:52Z",
+      "role": "primary",
+      "sha256": "fd627ee0a6ee0596e0ee8147996b9a7a3436f754fc95ed63cf5f408d778b2831",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/datasets/hflqf88888/GUIOdyssey/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:01Z",
+      "role": "primary",
+      "sha256": "4585b765d7c8b3e9bb6187d36d576edde454d4c0158a6aa8b3fdbedf34c89a15",
+      "supports": [
+        "details.dataset_profile"
+      ],
+      "url": "https://raw.githubusercontent.com/OpenGVLab/GUI-Odyssey/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T11:39:52Z",
+      "role": "primary",
+      "sha256": "78c19ee712487af60df1913f11572958564e59a1a2cc663b1b30d971855d7a28",
+      "supports": [
+        "details.dataset_profile"
+      ],
+      "url": "https://raw.githubusercontent.com/OpenGVLab/GUI-Odyssey/HEAD/introduction.md"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-16T11:39:52Z",
+      "role": "primary",
+      "sha256": "fd627ee0a6ee0596e0ee8147996b9a7a3436f754fc95ed63cf5f408d778b2831",
+      "supports": [
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/datasets/hflqf88888/GUIOdyssey/raw/main/README.md"
+    }
+  ],
+  "id": "url:511903ebfac45e6751b2",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-16T11:39:52Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "cc-by-4.0",
+      "retrieved_at": "2026-10-16T11:39:52Z",
+      "url": "https://huggingface.co/datasets/hflqf88888/GUIOdyssey/raw/main/README.md"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/hflqf88888/GUIOdyssey"
+    }
+  ],
+  "name": "GUIOdyssey — current data release",
+  "notes": "The project recommends this release over its earlier OpenGVLab/GUI-Odyssey upload. Episode count follows the current data card; conflicting repository prose is documented in the profile.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/hflqf88888/GUIOdyssey/raw/main/README.md",
+      "target_id": "arxiv:2406.08451",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Cross-app Android interaction episodes with fine-grained step instructions, screen descriptions, action context, and target boxes.",
+  "topics": [
+    "mobile-navigation",
+    "cross-app",
+    "data-generation"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/hflqf88888/GUIOdyssey"
+}

@@ -16,9 +16,16 @@ Bibliographic record for DiffSpot: Can VLMs Spot Fine-Grained Visual Differences
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-29615/record.json
+
 ## Authors
 
 Linhao Zhang, Aiwei Liu, Yuan Liu, Xiao Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-29615/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-29615/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Repository-Level Prompt Generation for Large Language M
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2206-12839/record.json
+
 ## Authors
 
 Disha Shrivastava, Hugo Larochelle, Daniel Tarlow
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2206-12839/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2206-12839/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,114 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "benchmark_protocol": {
+      "actions": [
+        "mobile GUI operations"
+      ],
+      "counts": [
+        {
+          "basis": "reported",
+          "evidence_url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending",
+          "population": "AppSim-Bench paper-described release",
+          "qualifier": "exact",
+          "reference_url": "https://arxiv.org/abs/2609.07712",
+          "unit": "tasks",
+          "value": 557
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim/HEAD/README.md",
+          "population": "published simulated app set",
+          "qualifier": "exact",
+          "unit": "applications",
+          "value": 17
+        }
+      ],
+      "evaluation": "Controlled backend data and outcome-based task verification.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim/HEAD/README.md",
+        "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending"
+      ],
+      "focus": [
+        "mobile task completion"
+      ],
+      "notes": "Use the simulated apps and controlled backend state supplied by the benchmark. Desktop host instructions are not the platform being evaluated.",
+      "observations": [
+        "mobile interfaces"
+      ],
+      "setting": "interactive"
+    },
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "metrics": [],
+    "task_count": null
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T10:42:12Z",
+      "role": "primary",
+      "sha256": "12dc2afe339c1ed66e4a6a4ccf5ae13d27ce32f452960341529a4b9016f69059",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:32Z",
+      "role": "primary",
+      "sha256": "13d3fb5811d203f2e6b80eb45d30ebc0b3cfefd88e2034ffa3b1b80687bef285",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "github:acrab-agentic-labs/appsim",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-16T10:42:12Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/Acrab-Agentic-Labs/AppSim"
+    }
+  ],
+  "name": "AppSim-Bench",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/Acrab-Agentic-Labs/AppSim/HEAD/README.md",
+      "target_id": "arxiv:2609.07712",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Simulated mobile applications and evaluation tooling for reproducible GUI-agent tasks with controlled application state.",
+  "topics": [
+    "evaluation",
+    "sandbox"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/Acrab-Agentic-Labs/AppSim"
+}

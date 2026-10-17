@@ -16,9 +16,16 @@ Bibliographic record for Impatient Users Confuse AI Agents: High-fidelity Simula
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-04491/record.json
+
 ## Authors
 
 Muyu He, Anand Kumar, Tsach Mackey, Meghana Rajeev, James Zou, Nazneen Rajani
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-04491/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-04491/citation.csl.json
 
 ## Recorded arXiv snapshot
 

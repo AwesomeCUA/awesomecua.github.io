@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:1808.04222",
+  "citation-key": "arxiv_1808_04222",
+  "type": "article",
+  "title": "Addressing Client Needs for Cloud Computing using Formal Foundations",
+  "URL": "https://arxiv.org/abs/1808.04222v1",
+  "custom": {
+    "catalog_id": "arxiv:1808.04222",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1808.04222",
+    "identifiers": {
+      "arxiv": "1808.04222"
+    },
+    "first_published_at": "2018-08-13",
+    "record_updated_at": "2018-08-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6befbb4701dd818e9951d687e266834bcd75bbea46305874bbbc13f9f95c5592",
+      "submitted_at": "2018-08-13T13:59:38Z",
+      "updated_at": "2018-08-13T13:59:38Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1808.04222v1"
+    }
+  },
+  "note": "First published: 2018-08-13; Recorded arXiv version: v1; Recorded version updated: 2018-08-13T13:59:38Z.",
+  "author": [
+    {
+      "literal": "Andreea Buga"
+    },
+    {
+      "literal": "Sorana Tania Nemes"
+    },
+    {
+      "literal": "Atif Mashkoor"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        8,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1808.04222",
+  "genre": "preprint",
+  "version": "1"
+}

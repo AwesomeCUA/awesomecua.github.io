@@ -1,0 +1,111 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/datasets/SenseLLM/GUI-Lasagne-L1/tree/main",
+    "gated": false,
+    "hub_id": "SenseLLM/GUI-Lasagne-L1",
+    "languages": [],
+    "modalities": [],
+    "sample_count": null,
+    "sample_unit": null
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:28Z",
+      "role": "primary",
+      "sha256": "270b3af0904a2a50d040948100a327458839dffa5083fc74bb030298f5ab3985",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/datasets/SenseLLM/GUI-Lasagne-L1/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:28Z",
+      "role": "primary",
+      "sha256": "224d6487de47cc63251c3b5c5c9f6e75e692b5ef0e12f0a7f71000da0b866e6f",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/api/datasets/SenseLLM/GUI-Lasagne-L1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:28Z",
+      "role": "primary",
+      "sha256": "916bde91ff00aba22ff13ed3d8b4ca679bc8c198632f1d3bc9469660287cb5d3",
+      "supports": [
+        "environments",
+        "summary"
+      ],
+      "url": "https://huggingface.co/SenseLLM/SpiritSight-Agent-8B/raw/main/README.md"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T02:02:28Z",
+      "role": "primary",
+      "sha256": "270b3af0904a2a50d040948100a327458839dffa5083fc74bb030298f5ab3985",
+      "supports": [
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/datasets/SenseLLM/GUI-Lasagne-L1/raw/main/README.md"
+    }
+  ],
+  "id": "url:0c5659ca9e59d942aea3",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-17T02:02:28Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "apache-2.0",
+      "retrieved_at": "2026-10-17T02:02:28Z",
+      "url": "https://huggingface.co/datasets/SenseLLM/GUI-Lasagne-L1/raw/main/README.md"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/SenseLLM/GUI-Lasagne-L1"
+    }
+  ],
+  "name": "GUI-Lasagne L1",
+  "notes": "Public archive shards are present. The dataset card declares Apache-2.0; it does not resolve rights in third-party interface content. The short card supplies no reliable sample count or explicit train/test partition, so these remain unspecified. The dataset card and archive inventory do not establish its platform distribution; the associated model's platform coverage is not inherited. An associated SpiritSight model card still describes dataset release as forthcoming; the independent dataset card and public archive manifest establish this release's availability.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/SenseLLM/GUI-Lasagne-L1/raw/main/README.md",
+      "target_id": "arxiv:2503.03196",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "The published GUI-Lasagne training-data collection used for SpiritSight, distributed as dated archive shards for visual interface learning.",
+  "topics": [
+    "grounding",
+    "screen-understanding",
+    "data-generation"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/SenseLLM/GUI-Lasagne-L1"
+}

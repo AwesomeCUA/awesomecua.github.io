@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2311.18751",
+  "citation-key": "arxiv_2311_18751",
+  "type": "article",
+  "title": "Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web",
+  "URL": "https://arxiv.org/abs/2311.18751v3",
+  "custom": {
+    "catalog_id": "arxiv:2311.18751",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2311.18751",
+    "identifiers": {
+      "arxiv": "2311.18751"
+    },
+    "first_published_at": "2023-11-30",
+    "record_updated_at": "2024-12-31",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4b00e0a9c74b7ac8819bdda540a1069c33cbac45f0c7fb853dee995f2feb9a59",
+      "submitted_at": "2023-11-30T17:50:47Z",
+      "updated_at": "2024-12-31T04:24:16Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2311.18751v3"
+    }
+  },
+  "note": "First published: 2023-11-30; Recorded arXiv version: v3; Recorded version updated: 2024-12-31T04:24:16Z.",
+  "author": [
+    {
+      "literal": "Hiroki Furuta"
+    },
+    {
+      "literal": "Yutaka Matsuo"
+    },
+    {
+      "literal": "Aleksandra Faust"
+    },
+    {
+      "literal": "Izzeddin Gur"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.18751",
+  "genre": "preprint",
+  "version": "3"
+}

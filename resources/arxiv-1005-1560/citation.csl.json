@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:1005.1560",
+  "citation-key": "arxiv_1005_1560",
+  "type": "article",
+  "title": "Computation using Noise-based Logic: Efficient String Verification over a Slow Communication Channel",
+  "URL": "https://arxiv.org/abs/1005.1560v3",
+  "custom": {
+    "catalog_id": "arxiv:1005.1560",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1005.1560",
+    "identifiers": {
+      "arxiv": "1005.1560"
+    },
+    "first_published_at": "2010-05-10",
+    "record_updated_at": "2010-11-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c54ef95b46663c787d27e991c3c1b106ab690dae5842af23be6412d3614d4fba",
+      "submitted_at": "2010-05-10T14:24:33Z",
+      "updated_at": "2010-11-11T23:22:02Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/1005.1560v3"
+    }
+  },
+  "note": "First published: 2010-05-10; Recorded arXiv version: v3; Recorded version updated: 2010-11-11T23:22:02Z.",
+  "author": [
+    {
+      "literal": "Laszlo B. Kish"
+    },
+    {
+      "literal": "Sunil Khatri"
+    },
+    {
+      "literal": "Tamas Horvath"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2010,
+        5,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1005.1560",
+  "genre": "preprint",
+  "version": "3"
+}

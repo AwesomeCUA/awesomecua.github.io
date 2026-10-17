@@ -1,0 +1,115 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "availability": "Published source; official release metadata inspected",
+    "release_tag": "v3.0.0"
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T03:59:54Z",
+      "role": "primary",
+      "sha256": "5047bcf2f0e92f0d34a57ac7d83166903a16a9909c700c0647b8a48363bd94f9",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://raw.githubusercontent.com/browser-use/web-ui/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T03:59:53Z",
+      "role": "primary",
+      "sha256": "7fb0738bc9b837f7b3e645c406e04d5c7c4d0860ea636a96e4e9d84d9510dd82",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/browser-use/web-ui"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T03:59:54Z",
+      "role": "primary",
+      "sha256": "fcbf1775e3513625103d389c737e98e939e17140baac9bc8000b582ab2729a46",
+      "supports": [
+        "release_status"
+      ],
+      "url": "https://api.github.com/repos/browser-use/web-ui/git/trees/main?recursive=1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:01:00Z",
+      "role": "primary",
+      "sha256": "f87ee752c38653c447eed4a9abd83e71dedd40298758bcb9aa993b731362c453",
+      "supports": [
+        "release_status"
+      ],
+      "url": "https://api.github.com/repos/browser-use/web-ui/releases/latest"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:01:01Z",
+      "role": "primary",
+      "sha256": "612d1382ec1a426eaf3672aafb13bafcfe91b2c90a0fe339822ffc9c895003ca",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/browser-use/web-ui/HEAD/LICENSE"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-17T04:01:01Z",
+      "role": "primary",
+      "sha256": "612d1382ec1a426eaf3672aafb13bafcfe91b2c90a0fe339822ffc9c895003ca",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/browser-use/web-ui/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:browser-use/web-ui",
+  "identifiers": {},
+  "kind": "tool",
+  "last_verified_at": "2026-10-17T03:59:54Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-17T04:01:01Z",
+      "url": "https://raw.githubusercontent.com/browser-use/web-ui/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/browser-use/web-ui"
+    }
+  ],
+  "name": "Browser Use WebUI",
+  "notes": "The repository publishes UI source and release v3.0.0 under MIT. It is a distinct user interface built on the existing Browser Use framework, not a second framework identity. The UI supports several external model providers whose terms are separate; no dependencies were installed.",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A Gradio interface for configuring and running Browser Use agents, including persistent browser sessions and interaction recordings.",
+  "topics": [
+    "web-navigation",
+    "tool-integration",
+    "recording"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/browser-use/web-ui"
+}

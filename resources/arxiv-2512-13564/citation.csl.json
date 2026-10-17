@@ -1,0 +1,184 @@
+{
+  "id": "arxiv:2512.13564",
+  "citation-key": "arxiv_2512_13564",
+  "type": "article",
+  "title": "Memory in the Age of AI Agents",
+  "URL": "https://arxiv.org/abs/2512.13564v2",
+  "custom": {
+    "catalog_id": "arxiv:2512.13564",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2512.13564",
+    "identifiers": {
+      "arxiv": "2512.13564"
+    },
+    "first_published_at": "2025-12-15",
+    "record_updated_at": "2026-01-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5b6ea4aa5a4b7f8406226b05f384a40d60ecf3ce4774a3dd958fdc3c1a50e701",
+      "submitted_at": "2025-12-15T17:22:34Z",
+      "updated_at": "2026-01-13T09:33:57Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2512.13564v2"
+    }
+  },
+  "note": "First published: 2025-12-15; Recorded arXiv version: v2; Recorded version updated: 2026-01-13T09:33:57Z.",
+  "author": [
+    {
+      "literal": "Yuyang Hu"
+    },
+    {
+      "literal": "Shichun Liu"
+    },
+    {
+      "literal": "Yanwei Yue"
+    },
+    {
+      "literal": "Guibin Zhang"
+    },
+    {
+      "literal": "Boyang Liu"
+    },
+    {
+      "literal": "Fangyi Zhu"
+    },
+    {
+      "literal": "Jiahang Lin"
+    },
+    {
+      "literal": "Honglin Guo"
+    },
+    {
+      "literal": "Shihan Dou"
+    },
+    {
+      "literal": "Zhiheng Xi"
+    },
+    {
+      "literal": "Senjie Jin"
+    },
+    {
+      "literal": "Jiejun Tan"
+    },
+    {
+      "literal": "Yanbin Yin"
+    },
+    {
+      "literal": "Jiongnan Liu"
+    },
+    {
+      "literal": "Zeyu Zhang"
+    },
+    {
+      "literal": "Zhongxiang Sun"
+    },
+    {
+      "literal": "Yutao Zhu"
+    },
+    {
+      "literal": "Hao Sun"
+    },
+    {
+      "literal": "Boci Peng"
+    },
+    {
+      "literal": "Zhenrong Cheng"
+    },
+    {
+      "literal": "Xuanbo Fan"
+    },
+    {
+      "literal": "Jiaxin Guo"
+    },
+    {
+      "literal": "Xinlei Yu"
+    },
+    {
+      "literal": "Zhenhong Zhou"
+    },
+    {
+      "literal": "Zewen Hu"
+    },
+    {
+      "literal": "Jiahao Huo"
+    },
+    {
+      "literal": "Junhao Wang"
+    },
+    {
+      "literal": "Yuwei Niu"
+    },
+    {
+      "literal": "Yu Wang"
+    },
+    {
+      "literal": "Zhenfei Yin"
+    },
+    {
+      "literal": "Xiaobin Hu"
+    },
+    {
+      "literal": "Yue Liao"
+    },
+    {
+      "literal": "Qiankun Li"
+    },
+    {
+      "literal": "Kun Wang"
+    },
+    {
+      "literal": "Wangchunshu Zhou"
+    },
+    {
+      "literal": "Yixin Liu"
+    },
+    {
+      "literal": "Dawei Cheng"
+    },
+    {
+      "literal": "Qi Zhang"
+    },
+    {
+      "literal": "Tao Gui"
+    },
+    {
+      "literal": "Shirui Pan"
+    },
+    {
+      "literal": "Yan Zhang"
+    },
+    {
+      "literal": "Philip Torr"
+    },
+    {
+      "literal": "Zhicheng Dou"
+    },
+    {
+      "literal": "Ji-Rong Wen"
+    },
+    {
+      "literal": "Xuanjing Huang"
+    },
+    {
+      "literal": "Yu-Gang Jiang"
+    },
+    {
+      "literal": "Shuicheng Yan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2512.13564",
+  "genre": "preprint",
+  "version": "2"
+}

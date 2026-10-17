@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2610.04800",
+  "citation-key": "arxiv_2610_04800",
+  "type": "article",
+  "title": "MedImageOSWorld: Benchmarking GUI Agents for Medical Image Consoles",
+  "URL": "https://arxiv.org/abs/2610.04800v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.04800",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.04800",
+    "identifiers": {
+      "arxiv": "2610.04800"
+    },
+    "first_published_at": "2026-10-03",
+    "record_updated_at": "2026-10-03",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "baacd8b4fad7b146bb9152a54d60a617fdbed5d0142c0c0768dacea2e7f18e60",
+      "submitted_at": "2026-10-03T22:56:09Z",
+      "updated_at": "2026-10-03T22:56:09Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.04800v1"
+    }
+  },
+  "note": "First published: 2026-10-03; Recorded arXiv version: v1; Recorded version updated: 2026-10-03T22:56:09Z.",
+  "author": [
+    {
+      "literal": "Ziyang Long"
+    },
+    {
+      "literal": "Xinqi Li"
+    },
+    {
+      "literal": "Lujing Xing"
+    },
+    {
+      "literal": "Hsin-Jung Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.04800",
+  "genre": "preprint",
+  "version": "1"
+}

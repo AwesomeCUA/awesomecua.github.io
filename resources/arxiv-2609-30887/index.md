@@ -16,9 +16,16 @@ Bibliographic record for From Tapping to Hopping: Augmenting Mobile GUI Agents w
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-30887/record.json
+
 ## Authors
 
 Yuchen Sun, Chenglin Cai, Gongjie Zhang, Tianyu Xia, Quyu Kong, Panrong Tong, Zhengwen Zeng, Long Chen, Steven Hoi, Chongyang Zhang, Yue Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-30887/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-30887/citation.csl.json
 
 ## Recorded arXiv snapshot
 

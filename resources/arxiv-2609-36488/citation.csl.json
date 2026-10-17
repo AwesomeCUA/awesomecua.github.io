@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2609.36488",
+  "citation-key": "arxiv_2609_36488",
+  "type": "article",
+  "title": "AdaptArena: Evaluating Test-Time Personalization of Web Agents",
+  "URL": "https://arxiv.org/abs/2609.36488v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.36488",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.36488",
+    "identifiers": {
+      "arxiv": "2609.36488"
+    },
+    "first_published_at": "2026-09-29",
+    "record_updated_at": "2026-09-29",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2fe39365133228daa770445f19002f6abe34ca1151cf4952a225ba0001de5250",
+      "submitted_at": "2026-09-29T01:46:48Z",
+      "updated_at": "2026-09-29T01:46:48Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.36488v1"
+    }
+  },
+  "note": "First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T01:46:48Z.",
+  "author": [
+    {
+      "literal": "Dongchan Shin"
+    },
+    {
+      "literal": "Xing Han Lù"
+    },
+    {
+      "literal": "Jiaqi Deng"
+    },
+    {
+      "literal": "Jay Gala"
+    },
+    {
+      "literal": "Tomás Vergara Browne"
+    },
+    {
+      "literal": "Jaewon Moon"
+    },
+    {
+      "literal": "Fengyuan Liu"
+    },
+    {
+      "literal": "Alexandre Drouin"
+    },
+    {
+      "literal": "Siva Reddy"
+    },
+    {
+      "literal": "Alexandre Lacoste"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.36488",
+  "genre": "preprint",
+  "version": "1"
+}

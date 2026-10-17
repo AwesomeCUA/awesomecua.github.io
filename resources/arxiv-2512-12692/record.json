@@ -1,0 +1,67 @@
+{
+  "aliases": [],
+  "authors": [
+    "Mahir Labib Dihan",
+    "Tanzima Hashem",
+    "Mohammed Eunus Ali",
+    "Md Rizwan Parvez"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "44caacf6646fdbc53e36b4aef93c583e8fae6589109b525816fa12e30ba0b6e3",
+      "submitted_at": "2025-12-14T13:56:54Z",
+      "updated_at": "2025-12-14T13:56:54Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2512.12692v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:32:55Z",
+      "role": "primary",
+      "sha256": "e6061c8dd9c00a70fcf1d4325b671c50a6912063ecbe2b6359175ae4622983a0",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2511.13091%2C2511.21398%2C2511.22235%2C2512.00756%2C2512.00846%2C2512.01174%2C2512.01763%2C2512.02423%2C2512.04105%2C2512.05941%2C2512.07725%2C2512.09396%2C2512.11611%2C2512.12692%2C2512.17221%2C2512.19396%2C2512.21302%2C2512.22009%2C2512.22047%2C2512.22322%2C2512.23128%2C2601.02371%2C2601.02439%2C2601.03641%2C2601.04035%2C2601.04126%2C2601.04500%2C2601.05787%2C2601.06899%2C2601.08605%2C2601.09636%2C2601.09770%2C2601.11631%2C2601.12349%2C2601.16356%2C2601.17418%2C2601.18197%2C2601.18305%2C2601.19199%2C2601.20732%2C2601.21352%2C2601.21872%2C2601.21961%2C2601.22149%2C2601.22491%2C2601.22528%2C2602.02468%2C2602.05354%2C2602.06090%2C2602.06351&max_results=50"
+    }
+  ],
+  "id": "arxiv:2512.12692",
+  "identifiers": {
+    "arxiv": "2512.12692"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:32:55Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2512.12692"
+    }
+  ],
+  "name": "WebOperator: Action-Aware Tree Search for Autonomous Agents in Web Environment",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2025-12-14",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2025-12-14",
+  "url": "https://arxiv.org/abs/2512.12692"
+}

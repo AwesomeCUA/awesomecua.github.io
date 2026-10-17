@@ -16,9 +16,16 @@ Bibliographic record for Understanding User Experiences of Computer Use Agents: 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-04452/record.json
+
 ## Authors
 
 Jenny T. Liang, Titus Barik, Jeffrey Nichols, Eldon Schoop, Ruijia Cheng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-04452/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-04452/citation.csl.json
 
 ## Recorded arXiv snapshot
 

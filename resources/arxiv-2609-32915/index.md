@@ -16,9 +16,16 @@ Introduces AgentTell, a benchmark for privacy leakage through browser actions af
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-32915/record.json
+
 ## Authors
 
 Asif Shahriar, Md Nafiu Rahman, Sadif Ahmed, Farig Sadeque, Md Rizwan Parvez
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-32915/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-32915/citation.csl.json
 
 ## Recorded arXiv snapshot
 

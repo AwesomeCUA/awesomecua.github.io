@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2511.06251",
+  "citation-key": "arxiv_2511_06251",
+  "type": "article",
+  "title": "WebVIA: A Web-based Vision-Language Agentic Framework for Interactive and Verifiable UI-to-Code Generation",
+  "URL": "https://arxiv.org/abs/2511.06251v1",
+  "custom": {
+    "catalog_id": "arxiv:2511.06251",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.06251",
+    "identifiers": {
+      "arxiv": "2511.06251"
+    },
+    "first_published_at": "2025-11-09",
+    "record_updated_at": "2025-11-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cde22b8d0792803657599b0f81729a165190a699a8044039edf86a80518921a3",
+      "submitted_at": "2025-11-09T06:58:52Z",
+      "updated_at": "2025-11-09T06:58:52Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2511.06251v1"
+    }
+  },
+  "note": "First published: 2025-11-09; Recorded arXiv version: v1; Recorded version updated: 2025-11-09T06:58:52Z.",
+  "author": [
+    {
+      "literal": "Mingde Xu"
+    },
+    {
+      "literal": "Zhen Yang"
+    },
+    {
+      "literal": "Wenyi Hong"
+    },
+    {
+      "literal": "Lihang Pan"
+    },
+    {
+      "literal": "Xinyue Fan"
+    },
+    {
+      "literal": "Yan Wang"
+    },
+    {
+      "literal": "Xiaotao Gu"
+    },
+    {
+      "literal": "Bin Xu"
+    },
+    {
+      "literal": "Jie Tang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.06251",
+  "genre": "preprint",
+  "version": "1"
+}

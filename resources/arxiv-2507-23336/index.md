@@ -16,9 +16,16 @@ Bibliographic record for DSBC : Data Science task Benchmarking with Context engi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-23336/record.json
+
 ## Authors
 
 Ram Mohan Rao Kadiyala, Siddhant Gupta, Jebish Purbey, Giulio Martini, Ali Shafique, Suman Debnath, Hamza Farooq
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-23336/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-23336/citation.csl.json
 
 ## Recorded arXiv snapshot
 

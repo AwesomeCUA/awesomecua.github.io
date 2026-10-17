@@ -16,6 +16,8 @@ Browser automation library used as an execution layer by agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-microsoft-playwright/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/microsoft/playwright/HEAD/LICENSE

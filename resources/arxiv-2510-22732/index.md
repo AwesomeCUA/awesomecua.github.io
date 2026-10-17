@@ -16,9 +16,16 @@ Bibliographic record for WebATLAS: An LLM Agent with Experience-Driven Memory an
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-22732/record.json
+
 ## Authors
 
 Jiali Cheng, Anjishnu Kumar, Roshan Lal, Rishi Rajasekaran, Hani Ramezani, Omar Zia Khan, Oleg Rokhlenko, Sunny Chiu-Webster, Gang Hua, Hadi Amiri
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-22732/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-22732/citation.csl.json
 
 ## Recorded arXiv snapshot
 

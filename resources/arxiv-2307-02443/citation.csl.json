@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2307.02443",
+  "citation-key": "arxiv_2307_02443",
+  "type": "article",
+  "title": "An Exploratory Literature Study on Sharing and Energy Use of Language Models for Source Code",
+  "URL": "https://arxiv.org/abs/2307.02443v1",
+  "custom": {
+    "catalog_id": "arxiv:2307.02443",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2307.02443",
+    "identifiers": {
+      "arxiv": "2307.02443"
+    },
+    "first_published_at": "2023-07-05",
+    "record_updated_at": "2023-07-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ea2ae720a4cad7bdcb5f210fd82cb3bfe5a24de2ce370aea92650e87528f9559",
+      "submitted_at": "2023-07-05T17:13:00Z",
+      "updated_at": "2023-07-05T17:13:00Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2307.02443v1"
+    }
+  },
+  "note": "First published: 2023-07-05; Recorded arXiv version: v1; Recorded version updated: 2023-07-05T17:13:00Z.",
+  "author": [
+    {
+      "literal": "Max Hort"
+    },
+    {
+      "literal": "Anastasiia Grishina"
+    },
+    {
+      "literal": "Leon Moonen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        7,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2307.02443",
+  "genre": "preprint",
+  "version": "1"
+}

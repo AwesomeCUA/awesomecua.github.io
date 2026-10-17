@@ -1,0 +1,64 @@
+{
+  "aliases": [
+    "ShowUI-pi",
+    "ShowUI Pi"
+  ],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T11:09:28Z",
+      "role": "primary",
+      "sha256": "88df552ccbe80efd7020905d77d526f4f9efe2d09a11fed2714b083988f9dcef",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/showlab/showui-pi/HEAD/README.md"
+    }
+  ],
+  "id": "github:showlab/showui-pi",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-16T11:09:28Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/showlab/showui-pi"
+    }
+  ],
+  "name": "ShowUI-π",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/showlab/showui-pi/HEAD/README.md",
+      "target_id": "arxiv:2512.24965",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Vision-language-action model and training code for GUI dragging, with links to checkpoints and continuous-action evaluation data.",
+  "topics": [
+    "grounding",
+    "automation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/showlab/showui-pi"
+}

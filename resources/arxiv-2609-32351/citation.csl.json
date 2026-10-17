@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2609.32351",
+  "citation-key": "arxiv_2609_32351",
+  "type": "article",
+  "title": "From Trajectories to Grounded Preferences: Process Preference Synthesis via Interaction Element Graphs for Web PRMs",
+  "URL": "https://arxiv.org/abs/2609.32351v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.32351",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.32351",
+    "identifiers": {
+      "arxiv": "2609.32351"
+    },
+    "first_published_at": "2026-09-26",
+    "record_updated_at": "2026-09-26",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7cc6fd87d2299e2881eab9a2db96e4022663e2d94da5549dcde166c0c8b8be11",
+      "submitted_at": "2026-09-26T08:14:50Z",
+      "updated_at": "2026-09-26T08:14:50Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.32351v1"
+    }
+  },
+  "note": "First published: 2026-09-26; Recorded arXiv version: v1; Recorded version updated: 2026-09-26T08:14:50Z.",
+  "author": [
+    {
+      "literal": "Yangzhe Peng"
+    },
+    {
+      "literal": "Xiaoyang Wang"
+    },
+    {
+      "literal": "Yiyang Zhao"
+    },
+    {
+      "literal": "Lijun Wu"
+    },
+    {
+      "literal": "Kun He"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.32351",
+  "genre": "preprint",
+  "version": "1"
+}

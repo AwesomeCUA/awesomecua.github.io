@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2405.20309",
+  "citation-key": "arxiv_2405_20309",
+  "type": "article",
+  "title": "Large Language Models Can Self-Improve At Web Agent Tasks",
+  "URL": "https://arxiv.org/abs/2405.20309v2",
+  "custom": {
+    "catalog_id": "arxiv:2405.20309",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2405.20309",
+    "identifiers": {
+      "arxiv": "2405.20309"
+    },
+    "first_published_at": "2024-05-30",
+    "record_updated_at": "2024-10-01",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "77b292052a2ab4e8db61606ffe1da8bd5e63b3ce8c84b2e0e4b7a2fdc2f926ca",
+      "submitted_at": "2024-05-30T17:52:36Z",
+      "updated_at": "2024-10-01T21:28:29Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2405.20309v2"
+    }
+  },
+  "note": "First published: 2024-05-30; Recorded arXiv version: v2; Recorded version updated: 2024-10-01T21:28:29Z.",
+  "author": [
+    {
+      "literal": "Ajay Patel"
+    },
+    {
+      "literal": "Markus Hofmarcher"
+    },
+    {
+      "literal": "Claudiu Leoveanu-Condrei"
+    },
+    {
+      "literal": "Marius-Constantin Dinu"
+    },
+    {
+      "literal": "Chris Callison-Burch"
+    },
+    {
+      "literal": "Sepp Hochreiter"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2405.20309",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,9 +16,16 @@ Bibliographic record for CoME: Empowering Channel-of-Mobile-Experts with Informa
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-24142/record.json
+
 ## Authors
 
 Yuxuan Liu, Weikai Xu, Kun Huang, Changyu Chen, Jiankun Zhao, Pengzhi Gao, Wei Liu, Jian Luan, Shuo Shang, Bo Du, Ji-Rong Wen, Rui Yan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-24142/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-24142/citation.csl.json
 
 ## Recorded arXiv snapshot
 

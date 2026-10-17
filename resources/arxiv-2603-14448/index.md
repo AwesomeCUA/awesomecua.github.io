@@ -16,9 +16,16 @@ Bibliographic record for Zoom to Essence: Trainless GUI Grounding by Inferring u
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-14448/record.json
+
 ## Authors
 
 Ziwei Liu, Tao Feng, Borui Kang, Yanbing Yang, Jun Luo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-14448/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-14448/citation.csl.json
 
 ## Recorded arXiv snapshot
 

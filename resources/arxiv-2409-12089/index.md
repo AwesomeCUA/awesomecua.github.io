@@ -16,9 +16,16 @@ Bibliographic record for The Impact of Element Ordering on LM Agent Performance.
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-12089/record.json
+
 ## Authors
 
 Wayne Chi, Ameet Talwalkar, Chris Donahue
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-12089/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-12089/citation.csl.json
 
 ## Recorded arXiv snapshot
 

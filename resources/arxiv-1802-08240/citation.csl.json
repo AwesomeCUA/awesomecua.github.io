@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:1802.08240",
+  "citation-key": "arxiv_1802_08240",
+  "type": "article",
+  "title": "Bounds on mean energy in the Kuramoto-Sivashinsky equation computed using semidefinite programming",
+  "URL": "https://arxiv.org/abs/1802.08240v2",
+  "custom": {
+    "catalog_id": "arxiv:1802.08240",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1802.08240",
+    "identifiers": {
+      "arxiv": "1802.08240"
+    },
+    "first_published_at": "2018-02-22",
+    "record_updated_at": "2018-09-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "907dc638cfa81c3a56af5795bf07b643b04aee7103a9d27c42d7f2ee84fd8bff",
+      "submitted_at": "2018-02-22T18:52:32Z",
+      "updated_at": "2018-09-06T18:23:09Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/1802.08240v2"
+    }
+  },
+  "note": "First published: 2018-02-22; Recorded arXiv version: v2; Recorded version updated: 2018-09-06T18:23:09Z.",
+  "author": [
+    {
+      "literal": "David Goluskin"
+    },
+    {
+      "literal": "Giovanni Fantuzzi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        2,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1802.08240",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,9 +16,16 @@ Introduces Screen Point-and-Read and a hierarchical layout approach that interpr
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-19263/record.json
+
 ## Authors
 
 Yue Fan, Lei Ding, Ching-Chen Kuo, Shan Jiang, Yang Zhao, Xinze Guan, Jie Yang, Yi Zhang, Xin Eric Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-19263/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-19263/citation.csl.json
 
 ## Recorded arXiv snapshot
 

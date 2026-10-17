@@ -16,9 +16,16 @@ Bibliographic record for PlaySuite: A Large-Scale Benchmark for Interactive Visu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-07127/record.json
+
 ## Authors
 
 Dheeraj Varghese, Anna Vettoruzzo, Walter Simoncini, Michelle Lorena Acevedo Callejas, Mohammad Mahdi Derakhshani, Kristof Meding, Joaquin Vanschoren, Cees G. M. Snoek
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-07127/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-07127/citation.csl.json
 
 ## Recorded arXiv snapshot
 

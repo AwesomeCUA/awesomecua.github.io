@@ -16,9 +16,16 @@ Bibliographic record for PVC: Progressive Visual Token Compression for Unified I
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-09613/record.json
+
 ## Authors
 
 Chenyu Yang, Xuan Dong, Xizhou Zhu, Weijie Su, Jiahao Wang, Hao Tian, Zhe Chen, Wenhai Wang, Lewei Lu, Jifeng Dai
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-09613/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-09613/citation.csl.json
 
 ## Recorded arXiv snapshot
 

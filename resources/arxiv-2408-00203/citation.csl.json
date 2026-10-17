@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2408.00203",
+  "citation-key": "arxiv_2408_00203",
+  "type": "article",
+  "title": "OmniParser for Pure Vision Based GUI Agent",
+  "URL": "https://arxiv.org/abs/2408.00203v1",
+  "custom": {
+    "catalog_id": "arxiv:2408.00203",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2408.00203",
+    "identifiers": {
+      "arxiv": "2408.00203"
+    },
+    "first_published_at": "2024-08-01",
+    "record_updated_at": "2024-08-01",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "dfe55dd83d2f5ac48f9e3efb6bdf4aab7f11d81c0118725555456cce276adae3",
+      "submitted_at": "2024-08-01T00:00:43Z",
+      "updated_at": "2024-08-01T00:00:43Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2408.00203v1"
+    }
+  },
+  "note": "First published: 2024-08-01; Recorded arXiv version: v1; Recorded version updated: 2024-08-01T00:00:43Z.",
+  "author": [
+    {
+      "literal": "Yadong Lu"
+    },
+    {
+      "literal": "Jianwei Yang"
+    },
+    {
+      "literal": "Yelong Shen"
+    },
+    {
+      "literal": "Ahmed Awadallah"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2408.00203",
+  "genre": "preprint",
+  "version": "1"
+}

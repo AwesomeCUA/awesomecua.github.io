@@ -16,9 +16,16 @@ Bibliographic record for Gesture recognition with Brownian reservoir computing u
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-01877/record.json
+
 ## Authors
 
 Grischa Beneke, Thomas Brian Winkler, Klaus Raab, Maarten A. Brems, Fabian Kammerbauer, Pascal Gerhards, Klaus Knobloch, Johan Mentink, Mathias Kläui
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-01877/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-01877/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-08997/record.json
+
 ## Authors
 
 Sizhe Yuen, Francisco Gomez Medina, Ting Su, Yali Du, Adam J. Sobey
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-08997/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-08997/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,6 +16,8 @@ Framework and evaluation resources for real-world web agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-imeanai-webcanvas/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/iMeanAI/WebCanvas/HEAD/LICENSE

@@ -16,9 +16,16 @@ Introduces ScreenAI and screen-annotation training that supports UI question ans
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-04615/record.json
+
 ## Authors
 
 Gilles Baechler, Srinivas Sunkara, Maria Wang, Fedir Zubach, Hassan Mansoor, Vincent Etter, Victor Cărbune, Jason Lin, Jindong Chen, Abhanshu Sharma
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-04615/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-04615/citation.csl.json
 
 ## Recorded arXiv snapshot
 

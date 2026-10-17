@@ -16,9 +16,16 @@ Bibliographic record for Beyond Clicking:A Step Towards Generalist GUI Grounding
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-06031/record.json
+
 ## Authors
 
 Zeyi Liao, Yadong Lu, Boyu Gou, Huan Sun, Ahmed Awadallah
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-06031/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-06031/citation.csl.json
 
 ## Recorded arXiv snapshot
 

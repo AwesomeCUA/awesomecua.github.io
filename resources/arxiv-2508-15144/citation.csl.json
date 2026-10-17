@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2508.15144",
+  "citation-key": "arxiv_2508_15144",
+  "type": "article",
+  "title": "Mobile-Agent-v3: Fundamental Agents for GUI Automation",
+  "URL": "https://arxiv.org/abs/2508.15144v2",
+  "custom": {
+    "catalog_id": "arxiv:2508.15144",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2508.15144",
+    "identifiers": {
+      "arxiv": "2508.15144"
+    },
+    "first_published_at": "2025-08-21",
+    "record_updated_at": "2025-09-01",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "629421d60bb8beeba3f087854ebaddc5461f9af0e5fb0bc572d0c20394ba9dcd",
+      "submitted_at": "2025-08-21T00:39:12Z",
+      "updated_at": "2025-09-01T05:38:34Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2508.15144v2"
+    }
+  },
+  "note": "First published: 2025-08-21; Recorded arXiv version: v2; Recorded version updated: 2025-09-01T05:38:34Z.",
+  "author": [
+    {
+      "literal": "Jiabo Ye"
+    },
+    {
+      "literal": "Xi Zhang"
+    },
+    {
+      "literal": "Haiyang Xu"
+    },
+    {
+      "literal": "Haowei Liu"
+    },
+    {
+      "literal": "Junyang Wang"
+    },
+    {
+      "literal": "Zhaoqing Zhu"
+    },
+    {
+      "literal": "Ziwei Zheng"
+    },
+    {
+      "literal": "Feiyu Gao"
+    },
+    {
+      "literal": "Junjie Cao"
+    },
+    {
+      "literal": "Zhengxi Lu"
+    },
+    {
+      "literal": "Jitong Liao"
+    },
+    {
+      "literal": "Qi Zheng"
+    },
+    {
+      "literal": "Fei Huang"
+    },
+    {
+      "literal": "Jingren Zhou"
+    },
+    {
+      "literal": "Ming Yan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.15144",
+  "genre": "preprint",
+  "version": "2"
+}

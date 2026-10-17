@@ -16,9 +16,16 @@ Bibliographic record for AdInject: Real-World Black-Box Attacks on Web Agents vi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-21499/record.json
+
 ## Authors
 
 Haowei Wang, Junjie Wang, Xiaojun Jia, Rupeng Zhang, Mingyang Li, Zhe Liu, Yang Liu, Qing Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-21499/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-21499/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2410.07481",
+  "citation-key": "arxiv_2410_07481",
+  "type": "article",
+  "title": "Effects of dissipation in reservoir computing using a spin qubit array",
+  "URL": "https://arxiv.org/abs/2410.07481v2",
+  "custom": {
+    "catalog_id": "arxiv:2410.07481",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2410.07481",
+    "identifiers": {
+      "arxiv": "2410.07481"
+    },
+    "first_published_at": "2024-10-09",
+    "record_updated_at": "2025-04-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b05f14bc0bdb4438929b3afbc2d699f3e606ea71ebb28af5c1da5967bb4f75fd",
+      "submitted_at": "2024-10-09T23:23:50Z",
+      "updated_at": "2025-04-04T01:11:11Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2410.07481v2"
+    }
+  },
+  "note": "First published: 2024-10-09; Recorded arXiv version: v2; Recorded version updated: 2025-04-04T01:11:11Z.",
+  "author": [
+    {
+      "literal": "Shion Mifune"
+    },
+    {
+      "literal": "Taro Kanao"
+    },
+    {
+      "literal": "Tetsufumi Tanamoto"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.07481",
+  "genre": "preprint",
+  "version": "2"
+}

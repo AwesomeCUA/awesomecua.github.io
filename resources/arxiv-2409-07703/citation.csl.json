@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2409.07703",
+  "citation-key": "arxiv_2409_07703",
+  "type": "article",
+  "title": "DSBench: How Far Are Data Science Agents from Becoming Data Science Experts?",
+  "URL": "https://arxiv.org/abs/2409.07703v3",
+  "custom": {
+    "catalog_id": "arxiv:2409.07703",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2409.07703",
+    "identifiers": {
+      "arxiv": "2409.07703"
+    },
+    "first_published_at": "2024-09-12",
+    "record_updated_at": "2025-04-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "96be578ba08ac6c865bdbcf2bd08abf44a81ae1df1fc222e9c5ab59ba5f79a22",
+      "submitted_at": "2024-09-12T02:08:00Z",
+      "updated_at": "2025-04-11T14:12:58Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2409.07703v3"
+    }
+  },
+  "note": "First published: 2024-09-12; Recorded arXiv version: v3; Recorded version updated: 2025-04-11T14:12:58Z.",
+  "author": [
+    {
+      "literal": "Liqiang Jing"
+    },
+    {
+      "literal": "Zhehui Huang"
+    },
+    {
+      "literal": "Xiaoyang Wang"
+    },
+    {
+      "literal": "Wenlin Yao"
+    },
+    {
+      "literal": "Wenhao Yu"
+    },
+    {
+      "literal": "Kaixin Ma"
+    },
+    {
+      "literal": "Hongming Zhang"
+    },
+    {
+      "literal": "Xinya Du"
+    },
+    {
+      "literal": "Dong Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2409.07703",
+  "genre": "preprint",
+  "version": "3"
+}

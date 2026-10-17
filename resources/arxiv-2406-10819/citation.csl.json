@@ -1,0 +1,103 @@
+{
+  "id": "arxiv:2406.10819",
+  "citation-key": "arxiv_2406_10819",
+  "type": "article",
+  "title": "GUI-World: A Video Benchmark and Dataset for Multimodal GUI-oriented Understanding",
+  "URL": "https://arxiv.org/abs/2406.10819v2",
+  "custom": {
+    "catalog_id": "arxiv:2406.10819",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2406.10819",
+    "identifiers": {
+      "arxiv": "2406.10819"
+    },
+    "first_published_at": "2024-06-16",
+    "record_updated_at": "2025-03-24",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9997c3ab43f0e3e69ad4dcbe15257ea4392d36fa3c82f90c6b7730667a067f99",
+      "submitted_at": "2024-06-16T06:56:53Z",
+      "updated_at": "2025-03-24T11:46:14Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2406.10819v2"
+    }
+  },
+  "note": "First published: 2024-06-16; Recorded arXiv version: v2; Recorded version updated: 2025-03-24T11:46:14Z.",
+  "author": [
+    {
+      "literal": "Dongping Chen"
+    },
+    {
+      "literal": "Yue Huang"
+    },
+    {
+      "literal": "Siyuan Wu"
+    },
+    {
+      "literal": "Jingyu Tang"
+    },
+    {
+      "literal": "Liuyi Chen"
+    },
+    {
+      "literal": "Yilin Bai"
+    },
+    {
+      "literal": "Zhigang He"
+    },
+    {
+      "literal": "Chenlong Wang"
+    },
+    {
+      "literal": "Huichi Zhou"
+    },
+    {
+      "literal": "Yiqiang Li"
+    },
+    {
+      "literal": "Tianshuo Zhou"
+    },
+    {
+      "literal": "Yue Yu"
+    },
+    {
+      "literal": "Chujie Gao"
+    },
+    {
+      "literal": "Qihui Zhang"
+    },
+    {
+      "literal": "Yi Gui"
+    },
+    {
+      "literal": "Zhen Li"
+    },
+    {
+      "literal": "Yao Wan"
+    },
+    {
+      "literal": "Pan Zhou"
+    },
+    {
+      "literal": "Jianfeng Gao"
+    },
+    {
+      "literal": "Lichao Sun"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.10819",
+  "genre": "preprint",
+  "version": "2"
+}

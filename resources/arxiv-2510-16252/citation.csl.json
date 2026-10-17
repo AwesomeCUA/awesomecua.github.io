@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2510.16252",
+  "citation-key": "arxiv_2510_16252",
+  "type": "article",
+  "title": "WEBSERV: A Full-Stack and RL-Ready Web Environment for Training Web Agents at Scale",
+  "URL": "https://arxiv.org/abs/2510.16252v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.16252",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2510.16252",
+    "identifiers": {
+      "arxiv": "2510.16252"
+    },
+    "first_published_at": "2025-10-17",
+    "record_updated_at": "2026-05-17",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a9a1f8ebdf70ff2fa7b0c807160cd583c0f017a536457ff5915e589fca5fa751",
+      "submitted_at": "2025-10-17T22:54:33Z",
+      "updated_at": "2026-05-17T17:26:55Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.16252v2"
+    }
+  },
+  "note": "First published: 2025-10-17; Recorded arXiv version: v2; Recorded version updated: 2026-05-17T17:26:55Z.",
+  "author": [
+    {
+      "literal": "Yuxuan Lu"
+    },
+    {
+      "literal": "Ziyi Wang"
+    },
+    {
+      "literal": "Jing Huang"
+    },
+    {
+      "literal": "Hui Liu"
+    },
+    {
+      "literal": "Jiri Gesi"
+    },
+    {
+      "literal": "Yan Han"
+    },
+    {
+      "literal": "Shihan Fu"
+    },
+    {
+      "literal": "Tianqi Zheng"
+    },
+    {
+      "literal": "Xianfeng Tang"
+    },
+    {
+      "literal": "Chen Luo"
+    },
+    {
+      "literal": "Yisi Sang"
+    },
+    {
+      "literal": "Jin Lai"
+    },
+    {
+      "literal": "Dakuo Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.16252",
+  "genre": "preprint",
+  "version": "2"
+}

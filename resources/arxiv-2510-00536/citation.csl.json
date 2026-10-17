@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2510.00536",
+  "citation-key": "arxiv_2510_00536",
+  "type": "article",
+  "title": "GUI-KV: Efficient GUI Agents via KV Cache with Spatio-Temporal Awareness",
+  "URL": "https://arxiv.org/abs/2510.00536v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.00536",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.00536",
+    "identifiers": {
+      "arxiv": "2510.00536"
+    },
+    "first_published_at": "2025-10-01",
+    "record_updated_at": "2026-10-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e07a5a8f9c0aa39643bb919c2d637435669318420223d7d72b0ef3d733308852",
+      "submitted_at": "2025-10-01T05:37:54Z",
+      "updated_at": "2026-10-07T23:23:10Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.00536v2"
+    }
+  },
+  "note": "First published: 2025-10-01; Recorded arXiv version: v2; Recorded version updated: 2026-10-07T23:23:10Z.",
+  "author": [
+    {
+      "literal": "Kung-Hsiang Huang"
+    },
+    {
+      "literal": "Haoyi Qiu"
+    },
+    {
+      "literal": "Yutong Dai"
+    },
+    {
+      "literal": "Caiming Xiong"
+    },
+    {
+      "literal": "Chien-Sheng Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.00536",
+  "genre": "preprint",
+  "version": "2"
+}

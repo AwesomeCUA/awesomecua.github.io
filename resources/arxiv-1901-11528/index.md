@@ -16,9 +16,16 @@ Bibliographic record for Shaping the Narrative Arc: An Information-Theoretic App
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1901-11528/record.json
+
 ## Authors
 
 Kory W. Mathewson, Pablo Samuel Castro, Colin Cherry, George Foster, Marc G. Bellemare
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1901-11528/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1901-11528/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,149 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "dataset_profile": {
+      "counts": [
+        {
+          "basis": "reported",
+          "evidence_url": "https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi:10.7910/DVN/WX8PCK",
+          "population": "VideoCAD published collection",
+          "qualifier": "more-than",
+          "unit": "video recordings",
+          "value": 41000
+        }
+      ],
+      "evidence_urls": [
+        "https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi:10.7910/DVN/WX8PCK",
+        "https://raw.githubusercontent.com/UDGOK/videocad/HEAD/README.md"
+      ],
+      "formats": [
+        "ZIP",
+        "MP4",
+        "JSON",
+        "PNG"
+      ],
+      "modalities": [
+        "video",
+        "UI action logs",
+        "target CAD images"
+      ],
+      "notes": "The reported video total is distinct from the Dataverse package-file count. The source does not specify OS compatibility.",
+      "splits": [],
+      "supervision": [
+        "timestamped UI actions",
+        "target model images"
+      ]
+    },
+    "dataverse": {
+      "file_count": 261,
+      "license": {
+        "iconUri": "https://licensebuttons.net/p/zero/1.0/88x31.png",
+        "languageCode": "en",
+        "name": "CC0 1.0",
+        "rightsIdentifier": "CC0-1.0",
+        "rightsIdentifierScheme": "SPDX",
+        "schemeUri": "https://spdx.org/licenses/",
+        "uri": "http://creativecommons.org/publicdomain/zero/1.0"
+      },
+      "persistent_url": "https://doi.org/10.7910/DVN/WX8PCK",
+      "publication_date": "2025-05-15",
+      "publisher": "Harvard Dataverse",
+      "released_at": "2026-03-11T01:35:02Z",
+      "version_minor_number": 0,
+      "version_number": 5,
+      "version_state": "RELEASED"
+    },
+    "download_url": null,
+    "languages": [],
+    "modalities": [],
+    "sample_count": null,
+    "sample_unit": null
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:03:20Z",
+      "role": "primary",
+      "sha256": "f67df0a4422a0484aaa2f93cd185b7000070d2a88d919d9ef995587f5e724007",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi:10.7910/DVN/WX8PCK"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:45Z",
+      "role": "primary",
+      "sha256": "6c182da7783e740539ce49d91794d299f2ca477a5b0d946bce48649b8fa2e49c",
+      "supports": [
+        "summary",
+        "relations",
+        "details.dataset_profile"
+      ],
+      "url": "https://raw.githubusercontent.com/UDGOK/videocad/HEAD/README.md"
+    },
+    {
+      "method": "dataverse_api",
+      "retrieved_at": "2026-10-17T02:03:20Z",
+      "role": "primary",
+      "sha256": "f67df0a4422a0484aaa2f93cd185b7000070d2a88d919d9ef995587f5e724007",
+      "supports": [
+        "details.dataverse",
+        "licenses.data"
+      ],
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi:10.7910/DVN/WX8PCK"
+    }
+  ],
+  "id": "url:2b5dead3172c0b70da7e",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-17T02:03:20Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "publisher Dataverse dataset-version license metadata; original declaration and URI retained in details.dataverse.license",
+      "declared": "CC0 1.0",
+      "retrieved_at": "2026-10-17T02:03:20Z",
+      "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi:10.7910/DVN/WX8PCK"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WX8PCK"
+    }
+  ],
+  "name": "VideoCAD data",
+  "notes": "Dataverse reports a RELEASED version 5.0 with 261 unrestricted files and a CC0-1.0 dataset declaration. Archive count is not a video or trajectory count. The linked repository documents the action and video formats. No archives or training samples were downloaded; operating-system coverage is unspecified.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/UDGOK/videocad/HEAD/README.md",
+      "target_id": "arxiv:2505.24838",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "CAD screen recordings paired with action logs and target model images for studying precise interface control and long-horizon visual imitation.",
+  "topics": [
+    "grounding",
+    "imitation-learning",
+    "video"
+  ],
+  "updated_at": null,
+  "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WX8PCK"
+}

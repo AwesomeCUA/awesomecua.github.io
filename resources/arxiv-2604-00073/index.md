@@ -16,9 +16,16 @@ Bibliographic record for Terminal Agents Suffice for Enterprise Automation. Titl
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-00073/record.json
+
 ## Authors
 
 Patrice Bechard, Orlando Marquez Ayala, Emily Chen, Jordan Skelton, Sagar Davasam, Srinivas Sunkara, Vikas Yadav, Sai Rajeswar
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-00073/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-00073/citation.csl.json
 
 ## Recorded arXiv snapshot
 

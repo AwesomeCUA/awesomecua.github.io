@@ -16,9 +16,16 @@ Bibliographic record for Video Compression Commander: Plug-and-Play Inference Ac
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-14454/record.json
+
 ## Authors
 
 Xuyang Liu, Yiyu Wang, Junpeng Ma, Linfeng Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-14454/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-14454/citation.csl.json
 
 ## Recorded arXiv snapshot
 

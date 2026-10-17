@@ -16,9 +16,16 @@ Bibliographic record for DSBench: How Far Are Data Science Agents from Becoming 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-07703/record.json
+
 ## Authors
 
 Liqiang Jing, Zhehui Huang, Xiaoyang Wang, Wenlin Yao, Wenhao Yu, Kaixin Ma, Hongming Zhang, Xinya Du, Dong Yu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-07703/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-07703/citation.csl.json
 
 ## Recorded arXiv snapshot
 

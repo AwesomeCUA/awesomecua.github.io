@@ -16,9 +16,16 @@ Bibliographic record for From Pixels to UI Actions: Learning to Follow Instructi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2306-00245/record.json
+
 ## Authors
 
 Peter Shaw, Mandar Joshi, James Cohan, Jonathan Berant, Panupong Pasupat, Hexiang Hu, Urvashi Khandelwal, Kenton Lee, Kristina Toutanova
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2306-00245/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2306-00245/citation.csl.json
 
 ## Recorded arXiv snapshot
 

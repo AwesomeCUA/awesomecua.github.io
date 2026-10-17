@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2507.12844",
+  "citation-key": "arxiv_2507_12844",
+  "type": "article",
+  "title": "Machine-Readable Ads: Accessibility and Trust Patterns for AI Web Agents interacting with Online Advertisements",
+  "URL": "https://arxiv.org/abs/2507.12844v2",
+  "custom": {
+    "catalog_id": "arxiv:2507.12844",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2507.12844",
+    "identifiers": {
+      "arxiv": "2507.12844"
+    },
+    "first_published_at": "2025-07-17",
+    "record_updated_at": "2025-11-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9fe2d9d877a0666d46a065bd8b673c282c879ef0a2620e3b267793a91858b519",
+      "submitted_at": "2025-07-17T07:10:27Z",
+      "updated_at": "2025-11-12T13:34:24Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2507.12844v2"
+    }
+  },
+  "note": "First published: 2025-07-17; Recorded arXiv version: v2; Recorded version updated: 2025-11-12T13:34:24Z.",
+  "author": [
+    {
+      "literal": "Joel Nitu"
+    },
+    {
+      "literal": "Heidrun Mühle"
+    },
+    {
+      "literal": "Andreas Stöckl"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.12844",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Skill-Guided Continuation Distillation for GUI Agents. 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-18890/record.json
+
 ## Authors
 
 Zhimin Fan, Hongwei Yu, Yeqing Shen, Haolong Yan, Guozhen Peng, Tianhao Peng, Yudong Zhang, Xiaowen Zhang, Kaijun Tan, Zheng Ge, Xiangyu Zhang, Daxin Jiang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-18890/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-18890/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Agent-RLVR: Training Software Engineering Agents via Gu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-11425/record.json
+
 ## Authors
 
 Jeff Da, Clinton Wang, Xiang Deng, Yuntao Ma, Nikhil Barhate, Sean Hendryx
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-11425/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-11425/citation.csl.json
 
 ## Recorded arXiv snapshot
 

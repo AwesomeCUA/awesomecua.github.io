@@ -16,6 +16,8 @@ Screenshot-based grounding and captioning samples with UI functionality descript
 
 The row count is not a unique-screen count. The data card documents image scaling conventions that affect coordinate interpretation.
 
+- Record JSON: https://awesomecua.github.io/resources/url-79287058342289aa5d45/record.json
+
 ## Structured profile
 
 - formats: not recorded

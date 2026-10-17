@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2602.07624",
+  "citation-key": "arxiv_2602_07624",
+  "type": "article",
+  "title": "M2A: Multimodal Memory Agent with Dual-Layer Hybrid Memory for Long-Term Personalized Interactions",
+  "URL": "https://arxiv.org/abs/2602.07624v1",
+  "custom": {
+    "catalog_id": "arxiv:2602.07624",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.07624",
+    "identifiers": {
+      "arxiv": "2602.07624"
+    },
+    "first_published_at": "2026-02-07",
+    "record_updated_at": "2026-02-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f39306d72f1b0b04cf4c43e068009fae45e92f34309ae88dc2a5b9a77b37fddd",
+      "submitted_at": "2026-02-07T17:13:56Z",
+      "updated_at": "2026-02-07T17:13:56Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2602.07624v1"
+    }
+  },
+  "note": "First published: 2026-02-07; Recorded arXiv version: v1; Recorded version updated: 2026-02-07T17:13:56Z.",
+  "author": [
+    {
+      "literal": "Junyu Feng"
+    },
+    {
+      "literal": "Binxiao Xu"
+    },
+    {
+      "literal": "Jiayi Chen"
+    },
+    {
+      "literal": "Mengyu Dai"
+    },
+    {
+      "literal": "Cenyang Wu"
+    },
+    {
+      "literal": "Haodong Li"
+    },
+    {
+      "literal": "Bohan Zeng"
+    },
+    {
+      "literal": "Yunliu Xie"
+    },
+    {
+      "literal": "Hao Liang"
+    },
+    {
+      "literal": "Ming Lu"
+    },
+    {
+      "literal": "Wentao Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.07624",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2303.03688",
+  "citation-key": "arxiv_2303_03688",
+  "type": "article",
+  "title": "Blueprint for quantum computing using electrons on helium",
+  "URL": "https://arxiv.org/abs/2303.03688v3",
+  "custom": {
+    "catalog_id": "arxiv:2303.03688",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2303.03688",
+    "identifiers": {
+      "arxiv": "2303.03688"
+    },
+    "first_published_at": "2023-03-07",
+    "record_updated_at": "2023-10-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c6c35a50d40ec61800596081f99b24b7bf8402293f799886f505b71686b99405",
+      "submitted_at": "2023-03-07T07:13:04Z",
+      "updated_at": "2023-10-19T04:31:35Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2303.03688v3"
+    }
+  },
+  "note": "First published: 2023-03-07; Recorded arXiv version: v3; Recorded version updated: 2023-10-19T04:31:35Z.",
+  "author": [
+    {
+      "literal": "Erika Kawakami"
+    },
+    {
+      "literal": "Jiabao Chen"
+    },
+    {
+      "literal": "Mónica Benito"
+    },
+    {
+      "literal": "Denis Konstantinov"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        3,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2303.03688",
+  "genre": "preprint",
+  "version": "3"
+}

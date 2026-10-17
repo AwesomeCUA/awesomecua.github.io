@@ -16,9 +16,16 @@ Bibliographic record for Singularities of serial robots: Identification and dist
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2109-12470/record.json
+
 ## Authors
 
 Isiah Zaplana, Hugo Hadfield, Joan Lasenby
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2109-12470/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2109-12470/citation.csl.json
 
 ## Recorded arXiv snapshot
 

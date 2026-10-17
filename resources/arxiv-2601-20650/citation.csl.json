@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2601.20650",
+  "citation-key": "arxiv_2601_20650",
+  "type": "article",
+  "title": "OS-Marathon: Benchmarking Computer-Use Agents on Vast-Horizon, Repetitive Tasks",
+  "URL": "https://arxiv.org/abs/2601.20650v3",
+  "custom": {
+    "catalog_id": "arxiv:2601.20650",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2601.20650",
+    "identifiers": {
+      "arxiv": "2601.20650"
+    },
+    "first_published_at": "2026-01-28",
+    "record_updated_at": "2026-08-26",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0139f7a1402d8dbfdecf65cc53c032495b2084f24cc38ff43841642c9102f29c",
+      "submitted_at": "2026-01-28T14:35:23Z",
+      "updated_at": "2026-08-26T22:31:44Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2601.20650v3"
+    }
+  },
+  "note": "First published: 2026-01-28; Recorded arXiv version: v3; Recorded version updated: 2026-08-26T22:31:44Z.",
+  "author": [
+    {
+      "literal": "Jing Wu"
+    },
+    {
+      "literal": "Wenjie Ai"
+    },
+    {
+      "literal": "Daphne Barretto"
+    },
+    {
+      "literal": "Yiye Chen"
+    },
+    {
+      "literal": "Qingyu Chen"
+    },
+    {
+      "literal": "Yuhang He"
+    },
+    {
+      "literal": "Pranit Chawla"
+    },
+    {
+      "literal": "Nicholas Gydé"
+    },
+    {
+      "literal": "Yanan Jian"
+    },
+    {
+      "literal": "Vibhav Vineet"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.20650",
+  "genre": "preprint",
+  "version": "3"
+}

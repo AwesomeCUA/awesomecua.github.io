@@ -16,9 +16,16 @@ Bibliographic record for TRACE: Trajectory-robust Admission with Evidence Orderi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-10297/record.json
+
 ## Authors
 
 Yuhao Wang, Mu Qiao, Xindong Zhang, Yunzhi Zhuge, Lei Zhang, Huchuan Lu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-10297/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-10297/citation.csl.json
 
 ## Recorded arXiv snapshot
 

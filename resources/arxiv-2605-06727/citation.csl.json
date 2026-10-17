@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2605.06727",
+  "citation-key": "arxiv_2605_06727",
+  "type": "article",
+  "title": "Medical Imaging Classification with Cold-Atom Reservoir Computing using Auto-Encoders and Surrogate-Driven Training",
+  "URL": "https://arxiv.org/abs/2605.06727v2",
+  "custom": {
+    "catalog_id": "arxiv:2605.06727",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.06727",
+    "identifiers": {
+      "arxiv": "2605.06727"
+    },
+    "first_published_at": "2026-05-07",
+    "record_updated_at": "2026-10-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b17a28ceff743f76bb6d63c1d2f672c04918ce0875afd12c9cb1391029034b87",
+      "submitted_at": "2026-05-07T11:26:09Z",
+      "updated_at": "2026-10-14T15:02:17Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2605.06727v2"
+    }
+  },
+  "note": "First published: 2026-05-07; Recorded arXiv version: v2; Recorded version updated: 2026-10-14T15:02:17Z.",
+  "author": [
+    {
+      "literal": "Nuno Batista"
+    },
+    {
+      "literal": "Ana Morgado"
+    },
+    {
+      "literal": "Oscar Ferraz"
+    },
+    {
+      "literal": "Sagar Silva Pratapsi"
+    },
+    {
+      "literal": "Jorge Lobo"
+    },
+    {
+      "literal": "Gabriel Falcao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.06727",
+  "genre": "preprint",
+  "version": "2"
+}

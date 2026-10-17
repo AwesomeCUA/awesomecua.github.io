@@ -16,9 +16,16 @@ Studies action-rebinding attacks in which an Android GUI agent’s planned input
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-12349/record.json
+
 ## Authors
 
 Yi Qian, Kunwei Qian, Xingbang He, Ligeng Chen, Jikang Zhang, Tiantai Zhang, Haiyang Wei, Linzhang Wang, Hao Wu, Bing Mao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-12349/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-12349/citation.csl.json
 
 ## Recorded arXiv snapshot
 

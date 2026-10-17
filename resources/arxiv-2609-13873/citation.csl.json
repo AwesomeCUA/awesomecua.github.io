@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2609.13873",
+  "citation-key": "arxiv_2609_13873",
+  "type": "article",
+  "title": "PriMobiBench: Characterizing Visual Privacy Leakage in VLM-Driven Mobile GUI Agents",
+  "URL": "https://arxiv.org/abs/2609.13873v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.13873",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.13873",
+    "identifiers": {
+      "arxiv": "2609.13873"
+    },
+    "first_published_at": "2026-09-12",
+    "record_updated_at": "2026-09-12",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1eda33b358d4c4caf8c1fb0b1bd92698c3b37cee995d820f40ecffe82010edb4",
+      "submitted_at": "2026-09-12T10:55:54Z",
+      "updated_at": "2026-09-12T10:55:54Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.13873v1"
+    }
+  },
+  "note": "First published: 2026-09-12; Recorded arXiv version: v1; Recorded version updated: 2026-09-12T10:55:54Z.",
+  "author": [
+    {
+      "literal": "Qihang Cen"
+    },
+    {
+      "literal": "Tianshuo Cong"
+    },
+    {
+      "literal": "Da Song"
+    },
+    {
+      "literal": "Xinlei He"
+    },
+    {
+      "literal": "Jiaxing Song"
+    },
+    {
+      "literal": "Ke Xu"
+    },
+    {
+      "literal": "Qi Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.13873",
+  "genre": "preprint",
+  "version": "1"
+}

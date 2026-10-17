@@ -16,9 +16,16 @@ Recasts mobile UI automation as on-device code generation, using app-specific do
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-18116/record.json
+
 ## Authors
 
 Hao Wen, Shizuo Tian, Borislav Pavlov, Wenjie Du, Yixuan Li, Ge Chang, Shanhui Zhao, Jiacheng Liu, Yunxin Liu, Ya-Qin Zhang, Yuanchun Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-18116/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-18116/citation.csl.json
 
 ## Recorded arXiv snapshot
 

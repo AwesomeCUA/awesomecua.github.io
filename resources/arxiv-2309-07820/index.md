@@ -16,9 +16,16 @@ Bibliographic record for Sufficient condition for universal quantum computation 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2309-07820/record.json
+
 ## Authors
 
 Cameron Calcluth, Nicolas Reichel, Alessandro Ferraro, Giulia Ferrini
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2309-07820/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2309-07820/citation.csl.json
 
 ## Recorded arXiv snapshot
 

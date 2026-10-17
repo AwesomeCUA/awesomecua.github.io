@@ -16,9 +16,16 @@ Bibliographic record for Exploring the Universal Vulnerability of Prompt-based L
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2204-05239/record.json
+
 ## Authors
 
 Lei Xu, Yangyi Chen, Ganqu Cui, Hongcheng Gao, Zhiyuan Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2204-05239/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2204-05239/citation.csl.json
 
 ## Recorded arXiv snapshot
 

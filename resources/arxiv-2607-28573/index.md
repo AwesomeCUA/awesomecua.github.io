@@ -16,9 +16,16 @@ Examines inference-time scaling for local computer-use models by varying context
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-28573/record.json
+
 ## Authors
 
 Woongkyu Lee, Jungwook Choi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-28573/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-28573/citation.csl.json
 
 ## Recorded arXiv snapshot
 

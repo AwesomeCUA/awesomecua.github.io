@@ -16,9 +16,16 @@ Bibliographic record for AndroidDaily: A Verifiable Benchmark for Mobile GUI Age
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-27761/record.json
+
 ## Authors
 
 Yifan Sui, Xin Huang, Hongbing Li, Fang Xu, Jiahe Lv, Haolong Yan, Yeqing Shen, Litao Liu, Zhimin Fan, Ziyang Meng, Jia Wang, Junbo Qi, Kaijun Tan, Zheng Ge, Xiangyu Zhang, Daxin Jiang, Osamu Yoshie
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-27761/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-27761/citation.csl.json
 
 ## Recorded arXiv snapshot
 

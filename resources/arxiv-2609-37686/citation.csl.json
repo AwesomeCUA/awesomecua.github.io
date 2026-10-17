@@ -1,0 +1,109 @@
+{
+  "id": "arxiv:2609.37686",
+  "citation-key": "arxiv_2609_37686",
+  "type": "article",
+  "title": "EngiWorld: What Can Frontier Agents Deliver in Professional Engineering Environments?",
+  "URL": "https://arxiv.org/abs/2609.37686v2",
+  "custom": {
+    "catalog_id": "arxiv:2609.37686",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.37686",
+    "identifiers": {
+      "arxiv": "2609.37686"
+    },
+    "first_published_at": "2026-09-29",
+    "record_updated_at": "2026-10-09",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "aab7f586cb58a1f2d20267fd810ba34d6d4d166e3da715d2b3ff0b77e464473e",
+      "submitted_at": "2026-09-29T14:32:35Z",
+      "updated_at": "2026-10-09T08:15:21Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2609.37686v2"
+    }
+  },
+  "note": "First published: 2026-09-29; Recorded arXiv version: v2; Recorded version updated: 2026-10-09T08:15:21Z.",
+  "author": [
+    {
+      "literal": "Hongcheng Gao"
+    },
+    {
+      "literal": "Hailong Qu"
+    },
+    {
+      "literal": "Yu Lei"
+    },
+    {
+      "literal": "Henghui Sun"
+    },
+    {
+      "literal": "Haoyang Li"
+    },
+    {
+      "literal": "Yipeng Wei"
+    },
+    {
+      "literal": "Naihao Xue"
+    },
+    {
+      "literal": "Xiaohan Yu"
+    },
+    {
+      "literal": "Zhuo Tao"
+    },
+    {
+      "literal": "Yihe Zang"
+    },
+    {
+      "literal": "Yajiao Wang"
+    },
+    {
+      "literal": "Jingyi Tang"
+    },
+    {
+      "literal": "Yi Li"
+    },
+    {
+      "literal": "Jingjing Zhou"
+    },
+    {
+      "literal": "Jie Luo"
+    },
+    {
+      "literal": "Bohan Zeng"
+    },
+    {
+      "literal": "Chengyu Shen"
+    },
+    {
+      "literal": "Hao Jiang"
+    },
+    {
+      "literal": "Chong Chen"
+    },
+    {
+      "literal": "Bowen Qu"
+    },
+    {
+      "literal": "Olive Huang"
+    },
+    {
+      "literal": "Zeqiang Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.37686",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Tree Search for Language Model Agents. Title, authors a
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-01476/record.json
+
 ## Authors
 
 Jing Yu Koh, Stephen McAleer, Daniel Fried, Ruslan Salakhutdinov
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-01476/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-01476/citation.csl.json
 
 ## Recorded arXiv snapshot
 

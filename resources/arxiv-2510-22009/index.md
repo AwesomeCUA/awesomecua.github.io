@@ -16,9 +16,16 @@ Bibliographic record for OpenPhone: Mobile Agentic Foundation Models. Title, aut
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-22009/record.json
+
 ## Authors
 
 Yangqin Jiang, Chao Huang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-22009/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-22009/citation.csl.json
 
 ## Recorded arXiv snapshot
 

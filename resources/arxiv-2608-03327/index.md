@@ -16,9 +16,16 @@ Bibliographic record for Screenshots or Tools? Eliciting Tool Use and Managing M
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-03327/record.json
+
 ## Authors
 
 Siqi Fan, Minghao Li, Xiaoqian Ma, Wenhui Tan, Xiusheng Huang, Juntong Wu, Liujie Zhang, Shuo Shang, Weihang Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-03327/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-03327/citation.csl.json
 
 ## Recorded arXiv snapshot
 

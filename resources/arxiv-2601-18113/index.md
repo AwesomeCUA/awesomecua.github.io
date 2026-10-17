@@ -16,9 +16,16 @@ Bibliographic record for MalURLBench: A Benchmark Evaluating Agents' Vulnerabili
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-18113/record.json
+
 ## Authors
 
 Dezhang Kong, Zhuxi Wu, Shiqi Liu, Zhicheng Tan, Kuichen Lu, Minghao Li, Qichen Liu, Shengyu Chu, Zhenhua Xu, Xuan Liu, Meng Han
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-18113/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-18113/citation.csl.json
 
 ## Recorded arXiv snapshot
 

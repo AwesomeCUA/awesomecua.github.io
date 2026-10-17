@@ -16,9 +16,16 @@ Introduces WebMirage, a visual red-teaming framework that models webpage element
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-09240/record.json
+
 ## Authors
 
 Wanjing Han, Levi Taiji Li, Mu Zhang, Yue Jiang, Guanhong Tao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-09240/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-09240/citation.csl.json
 
 ## Recorded arXiv snapshot
 

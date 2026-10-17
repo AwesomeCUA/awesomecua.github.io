@@ -16,9 +16,16 @@ Bibliographic record for Selective Knowledge Control for Continual GUI Agent Lea
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-06530/record.json
+
 ## Authors
 
 Zirui Shang, Xin Shu, Yang Liu, Zhi Gao, Xinxiao Wu, Lifeng Fan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-06530/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-06530/citation.csl.json
 
 ## Recorded arXiv snapshot
 

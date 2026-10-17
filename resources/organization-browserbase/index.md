@@ -16,6 +16,8 @@ Publisher or product brand associated with Browserbase computer-use or browser a
 
 Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
 
+- Record JSON: https://awesomecua.github.io/resources/organization-browserbase/record.json
+
 ## License declarations
 
 - code: not recorded

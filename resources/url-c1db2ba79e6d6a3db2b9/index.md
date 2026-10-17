@@ -16,6 +16,8 @@ Annotation files, task recipes, and image manifests for ScreenRef; screenshots r
 
 The card declares restricted academic research use and no redistribution. Annotation coordinates use a normalized 1000 by 1000 space. Some source instructions name gestures other than the single-click target; the publisher recommends treating those as location supervision.
 
+- Record JSON: https://awesomecua.github.io/resources/url-c1db2ba79e6d6a3db2b9/record.json
+
 ## Structured profile
 
 - formats: JSONL, JSON task recipes, TSV manifests

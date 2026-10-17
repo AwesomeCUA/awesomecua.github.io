@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2205.11029",
+  "citation-key": "arxiv_2205_11029",
+  "type": "article",
+  "title": "META-GUI: Towards Multi-modal Conversational Agents on Mobile GUI",
+  "URL": "https://arxiv.org/abs/2205.11029v2",
+  "custom": {
+    "catalog_id": "arxiv:2205.11029",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2205.11029",
+    "identifiers": {
+      "arxiv": "2205.11029"
+    },
+    "first_published_at": "2022-05-23",
+    "record_updated_at": "2022-11-24",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fbe2a4ece7ef72dfa008740991a5c46d9ab4b9de73f3de02f5dabcee2a5c1aa5",
+      "submitted_at": "2022-05-23T04:05:37Z",
+      "updated_at": "2022-11-24T06:34:43Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2205.11029v2"
+    }
+  },
+  "note": "First published: 2022-05-23; Recorded arXiv version: v2; Recorded version updated: 2022-11-24T06:34:43Z.",
+  "author": [
+    {
+      "literal": "Liangtai Sun"
+    },
+    {
+      "literal": "Xingyu Chen"
+    },
+    {
+      "literal": "Lu Chen"
+    },
+    {
+      "literal": "Tianle Dai"
+    },
+    {
+      "literal": "Zichen Zhu"
+    },
+    {
+      "literal": "Kai Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        5,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2205.11029",
+  "genre": "preprint",
+  "version": "2"
+}

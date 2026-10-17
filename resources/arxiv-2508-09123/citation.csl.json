@@ -1,0 +1,169 @@
+{
+  "id": "arxiv:2508.09123",
+  "citation-key": "arxiv_2508_09123",
+  "type": "article",
+  "title": "OpenCUA: Open Foundations for Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2508.09123v3",
+  "custom": {
+    "catalog_id": "arxiv:2508.09123",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2508.09123",
+    "identifiers": {
+      "arxiv": "2508.09123"
+    },
+    "first_published_at": "2025-08-12",
+    "record_updated_at": "2025-10-04",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "40e46f27128d066358fcee6279b26bb2b708dacaf1f7b5794b755520fe892243",
+      "submitted_at": "2025-08-12T17:52:32Z",
+      "updated_at": "2025-10-04T17:38:02Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2508.09123v3"
+    }
+  },
+  "note": "First published: 2025-08-12; Recorded arXiv version: v3; Recorded version updated: 2025-10-04T17:38:02Z.",
+  "author": [
+    {
+      "literal": "Xinyuan Wang"
+    },
+    {
+      "literal": "Bowen Wang"
+    },
+    {
+      "literal": "Dunjie Lu"
+    },
+    {
+      "literal": "Junlin Yang"
+    },
+    {
+      "literal": "Tianbao Xie"
+    },
+    {
+      "literal": "Junli Wang"
+    },
+    {
+      "literal": "Jiaqi Deng"
+    },
+    {
+      "literal": "Xiaole Guo"
+    },
+    {
+      "literal": "Yiheng Xu"
+    },
+    {
+      "literal": "Chen Henry Wu"
+    },
+    {
+      "literal": "Zhennan Shen"
+    },
+    {
+      "literal": "Zhuokai Li"
+    },
+    {
+      "literal": "Ryan Li"
+    },
+    {
+      "literal": "Xiaochuan Li"
+    },
+    {
+      "literal": "Junda Chen"
+    },
+    {
+      "literal": "Boyuan Zheng"
+    },
+    {
+      "literal": "Peihang Li"
+    },
+    {
+      "literal": "Fangyu Lei"
+    },
+    {
+      "literal": "Ruisheng Cao"
+    },
+    {
+      "literal": "Yeqiao Fu"
+    },
+    {
+      "literal": "Dongchan Shin"
+    },
+    {
+      "literal": "Martin Shin"
+    },
+    {
+      "literal": "Jiarui Hu"
+    },
+    {
+      "literal": "Yuyan Wang"
+    },
+    {
+      "literal": "Jixuan Chen"
+    },
+    {
+      "literal": "Yuxiao Ye"
+    },
+    {
+      "literal": "Danyang Zhang"
+    },
+    {
+      "literal": "Dikang Du"
+    },
+    {
+      "literal": "Hao Hu"
+    },
+    {
+      "literal": "Huarong Chen"
+    },
+    {
+      "literal": "Zaida Zhou"
+    },
+    {
+      "literal": "Haotian Yao"
+    },
+    {
+      "literal": "Ziwei Chen"
+    },
+    {
+      "literal": "Qizheng Gu"
+    },
+    {
+      "literal": "Yipu Wang"
+    },
+    {
+      "literal": "Heng Wang"
+    },
+    {
+      "literal": "Diyi Yang"
+    },
+    {
+      "literal": "Victor Zhong"
+    },
+    {
+      "literal": "Flood Sung"
+    },
+    {
+      "literal": "Y. Charles"
+    },
+    {
+      "literal": "Zhilin Yang"
+    },
+    {
+      "literal": "Tao Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.09123",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -16,6 +16,8 @@ Collects and labels browser-exploration trajectories for agent training, with co
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-murtyshikhar-nnetnav/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/MurtyShikhar/NNetnav/HEAD/LICENSE

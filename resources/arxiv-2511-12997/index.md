@@ -16,9 +16,16 @@ Bibliographic record for WebCoach: Self-Evolving Web Agents with Cross-Session M
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-12997/record.json
+
 ## Authors
 
 Genglin Liu, Shijie Geng, Sha Li, Hejie Cui, Sarah Zhang, Xin Liu, Tianyi Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-12997/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-12997/citation.csl.json
 
 ## Recorded arXiv snapshot
 

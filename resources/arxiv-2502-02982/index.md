@@ -16,9 +16,16 @@ Studies automatic annotation and federated training of mobile GUI agents from de
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-02982/record.json
+
 ## Authors
 
 Wenhao Wang, Mengying Yuan, Zijie Yu, Guangyi Liu, Rui Ye, Tian Jin, Siheng Chen, Yanfeng Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-02982/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-02982/citation.csl.json
 
 ## Recorded arXiv snapshot
 

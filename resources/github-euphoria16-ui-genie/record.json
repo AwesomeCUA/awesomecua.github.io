@@ -1,0 +1,94 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "license_review": {
+      "code": {
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/Euphoria16/UI-Genie/HEAD/README.md",
+          "https://api.github.com/repos/Euphoria16/UI-Genie/git/trees/main?recursive=1"
+        ],
+        "reason": "The README declares MIT and links a root LICENSE, but the complete retained tree has no root LICENSE; bundled ms-swift has its own license. Preserve this unresolved scope instead of treating a component license as the whole project license."
+      }
+    }
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T03:59:54Z",
+      "role": "primary",
+      "sha256": "e08569bd9d8a6ff44537d4fe69243ddfeb8a41ae5c9f87ef84af50a67c64c726",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/Euphoria16/UI-Genie/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T03:59:54Z",
+      "role": "primary",
+      "sha256": "a53e4cd3b4391c03c9334745152f8c1f66aff7590051f9bdb7e78b81c6c99a24",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/Euphoria16/UI-Genie"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T03:59:55Z",
+      "role": "primary",
+      "sha256": "c27c6d88d043c964776c04a74517d48644418dca2f5ae9c8ba778d082c12a6ae",
+      "supports": [
+        "release_status",
+        "licenses.code"
+      ],
+      "url": "https://api.github.com/repos/Euphoria16/UI-Genie/git/trees/main?recursive=1"
+    }
+  ],
+  "id": "github:euphoria16/ui-genie",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-17T03:59:54Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/Euphoria16/UI-Genie"
+    }
+  ],
+  "name": "UI-Genie",
+  "notes": "The tree contains ms-swift-based training and AndroidControl evaluation scripts. The README says AndroidLab/Android Arena scripts and the 72B checkpoint are still forthcoming; these are not claimed released. It declares MIT but links a root LICENSE absent from the inspected tree, so the exact code-license scope remains unresolved. Separate Hub weights and data have their own declarations.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/Euphoria16/UI-Genie/HEAD/README.md",
+      "target_id": "arxiv:2505.21496",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Training and evaluation code for a mobile-agent framework that iteratively generates trajectories using agent and reward-model feedback.",
+  "topics": [
+    "data-generation",
+    "reward-models",
+    "imitation-learning"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/Euphoria16/UI-Genie"
+}

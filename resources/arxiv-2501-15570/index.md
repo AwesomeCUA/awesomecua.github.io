@@ -16,9 +16,16 @@ Bibliographic record for ARWKV: Pretrain is not what we need, an RNN-Attention-B
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-15570/record.json
+
 ## Authors
 
 Lin Yueyu, Li Zhiyuan, Peter Yue, Liu Xiao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-15570/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-15570/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,142 @@
+{
+  "id": "arxiv:2609.22000",
+  "citation-key": "arxiv_2609_22000",
+  "type": "article",
+  "title": "RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2609.22000v2",
+  "custom": {
+    "catalog_id": "arxiv:2609.22000",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.22000",
+    "identifiers": {
+      "arxiv": "2609.22000"
+    },
+    "first_published_at": "2026-09-18",
+    "record_updated_at": "2026-09-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3b312c5a4d638ec9f9a7408fd9ce2d8cbf74fa462d48c8aa37f59e4ad3bd8edc",
+      "submitted_at": "2026-09-18T17:00:56Z",
+      "updated_at": "2026-09-21T07:09:10Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2609.22000v2"
+    }
+  },
+  "note": "First published: 2026-09-18; Recorded arXiv version: v2; Recorded version updated: 2026-09-21T07:09:10Z.",
+  "author": [
+    {
+      "literal": "Shuai Bai"
+    },
+    {
+      "literal": "Jiayong Deng"
+    },
+    {
+      "literal": "Sicheng Fan"
+    },
+    {
+      "literal": "Yikun Fu"
+    },
+    {
+      "literal": "Chang Gao"
+    },
+    {
+      "literal": "Xuhao Hu"
+    },
+    {
+      "literal": "Mianqiu Huang"
+    },
+    {
+      "literal": "Yizhen Jiang"
+    },
+    {
+      "literal": "Yuheng Jing"
+    },
+    {
+      "literal": "Dehui Kong"
+    },
+    {
+      "literal": "Keliang Li"
+    },
+    {
+      "literal": "Ning Li"
+    },
+    {
+      "literal": "Wanli Li"
+    },
+    {
+      "literal": "Dayiheng Liu"
+    },
+    {
+      "literal": "Dunjie Lu"
+    },
+    {
+      "literal": "Changwei Luo"
+    },
+    {
+      "literal": "Que Shen"
+    },
+    {
+      "literal": "Zheyuan Wang"
+    },
+    {
+      "literal": "Zijian Wang"
+    },
+    {
+      "literal": "Jie Wu"
+    },
+    {
+      "literal": "Gao Wu"
+    },
+    {
+      "literal": "Zhihui Xie"
+    },
+    {
+      "literal": "Rui Xie"
+    },
+    {
+      "literal": "Haiyang Xu"
+    },
+    {
+      "literal": "An Yang"
+    },
+    {
+      "literal": "Jiakang Yuan"
+    },
+    {
+      "literal": "Yanming Zhang"
+    },
+    {
+      "literal": "Jiajun Zhang"
+    },
+    {
+      "literal": "Xi Zhang"
+    },
+    {
+      "literal": "Zhenru Zhang"
+    },
+    {
+      "literal": "Zhuo Zhen"
+    },
+    {
+      "literal": "Mingkang Zhu"
+    },
+    {
+      "literal": "Bowen Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.22000",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,9 +16,16 @@ Bibliographic record for MissClick: Execution-Aware Adversarial Attacks on Coord
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-03740/record.json
+
 ## Authors
 
 Yu Ran, Wentao Zhao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-03740/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-03740/citation.csl.json
 
 ## Recorded arXiv snapshot
 

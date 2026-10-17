@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2412.06224",
+  "citation-key": "arxiv_2412_06224",
+  "type": "article",
+  "title": "Uni-NaVid: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks",
+  "URL": "https://arxiv.org/abs/2412.06224v2",
+  "custom": {
+    "catalog_id": "arxiv:2412.06224",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2412.06224",
+    "identifiers": {
+      "arxiv": "2412.06224"
+    },
+    "first_published_at": "2024-12-09",
+    "record_updated_at": "2025-02-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "db7005e67ec26142c94fc915d0410d211e1a2ae75277c93a893c1206ed84e3cc",
+      "submitted_at": "2024-12-09T05:55:55Z",
+      "updated_at": "2025-02-06T10:14:36Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2412.06224v2"
+    }
+  },
+  "note": "First published: 2024-12-09; Recorded arXiv version: v2; Recorded version updated: 2025-02-06T10:14:36Z.",
+  "author": [
+    {
+      "literal": "Jiazhao Zhang"
+    },
+    {
+      "literal": "Kunyu Wang"
+    },
+    {
+      "literal": "Shaoan Wang"
+    },
+    {
+      "literal": "Minghan Li"
+    },
+    {
+      "literal": "Haoran Liu"
+    },
+    {
+      "literal": "Songlin Wei"
+    },
+    {
+      "literal": "Zhongyuan Wang"
+    },
+    {
+      "literal": "Zhizheng Zhang"
+    },
+    {
+      "literal": "He Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.06224",
+  "genre": "preprint",
+  "version": "2"
+}

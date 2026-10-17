@@ -16,9 +16,16 @@ Bibliographic record for The Art of Building Verifiers for Computer Use Agents. 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-06240/record.json
+
 ## Authors
 
 Corby Rosset, Pratyusha Sharma, Andrew Zhao, Miguel Gonzalez-Fernandez, Ahmed Awadallah
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-06240/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-06240/citation.csl.json
 
 ## Recorded arXiv snapshot
 

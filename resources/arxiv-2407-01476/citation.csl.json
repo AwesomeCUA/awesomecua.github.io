@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2407.01476",
+  "citation-key": "arxiv_2407_01476",
+  "type": "article",
+  "title": "Tree Search for Language Model Agents",
+  "URL": "https://arxiv.org/abs/2407.01476v4",
+  "custom": {
+    "catalog_id": "arxiv:2407.01476",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2407.01476",
+    "identifiers": {
+      "arxiv": "2407.01476"
+    },
+    "first_published_at": "2024-07-01",
+    "record_updated_at": "2026-02-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ec7aaf2a34e38f72da652bb2d8350c951229c154e2bc368a927a79287b36c439",
+      "submitted_at": "2024-07-01T17:07:55Z",
+      "updated_at": "2026-02-08T15:06:40Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2407.01476v4"
+    }
+  },
+  "note": "First published: 2024-07-01; Recorded arXiv version: v4; Recorded version updated: 2026-02-08T15:06:40Z.",
+  "author": [
+    {
+      "literal": "Jing Yu Koh"
+    },
+    {
+      "literal": "Stephen McAleer"
+    },
+    {
+      "literal": "Daniel Fried"
+    },
+    {
+      "literal": "Ruslan Salakhutdinov"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.01476",
+  "genre": "preprint",
+  "version": "4"
+}

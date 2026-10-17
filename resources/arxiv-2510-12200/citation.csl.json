@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2510.12200",
+  "citation-key": "arxiv_2510_12200",
+  "type": "article",
+  "title": "HackWorld: Evaluating Computer-Use Agents on Exploiting Web Application Vulnerabilities",
+  "URL": "https://arxiv.org/abs/2510.12200v1",
+  "custom": {
+    "catalog_id": "arxiv:2510.12200",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.12200",
+    "identifiers": {
+      "arxiv": "2510.12200"
+    },
+    "first_published_at": "2025-10-14",
+    "record_updated_at": "2025-10-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e92db1e568c3c512aa00e2363bbdc9869cf834d638c331b45d4753d29a282004",
+      "submitted_at": "2025-10-14T06:52:15Z",
+      "updated_at": "2025-10-14T06:52:15Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2510.12200v1"
+    }
+  },
+  "note": "First published: 2025-10-14; Recorded arXiv version: v1; Recorded version updated: 2025-10-14T06:52:15Z.",
+  "author": [
+    {
+      "literal": "Xiaoxue Ren"
+    },
+    {
+      "literal": "Penghao Jiang"
+    },
+    {
+      "literal": "Kaixin Li"
+    },
+    {
+      "literal": "Zhiyong Huang"
+    },
+    {
+      "literal": "Xiaoning Du"
+    },
+    {
+      "literal": "Jiaojiao Jiang"
+    },
+    {
+      "literal": "Zhenchang Xing"
+    },
+    {
+      "literal": "Jiamou Sun"
+    },
+    {
+      "literal": "Terry Yue Zhuo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.12200",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2203.06831",
+  "citation-key": "arxiv_2203_06831",
+  "type": "article",
+  "title": "Enhanced-Fidelity Ultrafast Geometric Quantum Computation Using Strong Classical Drives",
+  "URL": "https://arxiv.org/abs/2203.06831v3",
+  "custom": {
+    "catalog_id": "arxiv:2203.06831",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2203.06831",
+    "identifiers": {
+      "arxiv": "2203.06831"
+    },
+    "first_published_at": "2022-03-14",
+    "record_updated_at": "2022-12-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5dde2a79c532ede977bdc5c9bf5d98074c32528b800540d944717498d8b267f9",
+      "submitted_at": "2022-03-14T03:06:15Z",
+      "updated_at": "2022-12-21T10:55:06Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2203.06831v3"
+    }
+  },
+  "note": "First published: 2022-03-14; Recorded arXiv version: v3; Recorded version updated: 2022-12-21T10:55:06Z.",
+  "author": [
+    {
+      "literal": "Ye-Hong Chen"
+    },
+    {
+      "literal": "Adam Miranowicz"
+    },
+    {
+      "literal": "Xi Chen"
+    },
+    {
+      "literal": "Yan Xia"
+    },
+    {
+      "literal": "Franco Nori"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        3,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2203.06831",
+  "genre": "preprint",
+  "version": "3"
+}

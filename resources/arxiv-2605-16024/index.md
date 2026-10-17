@@ -16,9 +16,16 @@ Bibliographic record for ScreenSearch: Uncertainty-Aware OS Exploration. Title, 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-16024/record.json
+
 ## Authors
 
 Michael Solodko, Justin Wagle
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-16024/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-16024/citation.csl.json
 
 ## Recorded arXiv snapshot
 

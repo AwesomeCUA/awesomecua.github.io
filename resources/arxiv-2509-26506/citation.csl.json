@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2509.26506",
+  "citation-key": "arxiv_2509_26506",
+  "type": "article",
+  "title": "SCUBA: Salesforce Computer Use Benchmark",
+  "URL": "https://arxiv.org/abs/2509.26506v1",
+  "custom": {
+    "catalog_id": "arxiv:2509.26506",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2509.26506",
+    "identifiers": {
+      "arxiv": "2509.26506"
+    },
+    "first_published_at": "2025-09-30",
+    "record_updated_at": "2025-09-30",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0e22d26dfbda8530f32d4686f26d91ea1a8e8c5470e857f2e13803258a2f7aaf",
+      "submitted_at": "2025-09-30T16:48:49Z",
+      "updated_at": "2025-09-30T16:48:49Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2509.26506v1"
+    }
+  },
+  "note": "First published: 2025-09-30; Recorded arXiv version: v1; Recorded version updated: 2025-09-30T16:48:49Z.",
+  "author": [
+    {
+      "literal": "Yutong Dai"
+    },
+    {
+      "literal": "Krithika Ramakrishnan"
+    },
+    {
+      "literal": "Jing Gu"
+    },
+    {
+      "literal": "Matthew Fernandez"
+    },
+    {
+      "literal": "Yanqi Luo"
+    },
+    {
+      "literal": "Viraj Prabhu"
+    },
+    {
+      "literal": "Zhenyu Hu"
+    },
+    {
+      "literal": "Silvio Savarese"
+    },
+    {
+      "literal": "Caiming Xiong"
+    },
+    {
+      "literal": "Zeyuan Chen"
+    },
+    {
+      "literal": "Ran Xu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.26506",
+  "genre": "preprint",
+  "version": "1"
+}

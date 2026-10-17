@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2505.24838",
+  "citation-key": "arxiv_2505_24838",
+  "type": "article",
+  "title": "VideoCAD: A Dataset and Model for Learning Long-Horizon 3D CAD UI Interactions from Video",
+  "URL": "https://arxiv.org/abs/2505.24838v2",
+  "custom": {
+    "catalog_id": "arxiv:2505.24838",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2505.24838",
+    "identifiers": {
+      "arxiv": "2505.24838"
+    },
+    "first_published_at": "2025-05-30",
+    "record_updated_at": "2025-11-08",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f913b87f07fdad0e4c45264c58c8d9b9d13ca26695306d9e0644eb856f18ced7",
+      "submitted_at": "2025-05-30T17:39:52Z",
+      "updated_at": "2025-11-08T18:27:03Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2505.24838v2"
+    }
+  },
+  "note": "First published: 2025-05-30; Recorded arXiv version: v2; Recorded version updated: 2025-11-08T18:27:03Z.",
+  "author": [
+    {
+      "literal": "Brandon Man"
+    },
+    {
+      "literal": "Ghadi Nehme"
+    },
+    {
+      "literal": "Md Ferdous Alam"
+    },
+    {
+      "literal": "Faez Ahmed"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.24838",
+  "genre": "preprint",
+  "version": "2"
+}

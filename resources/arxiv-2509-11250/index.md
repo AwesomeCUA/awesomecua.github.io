@@ -16,9 +16,16 @@ Bibliographic record for Environmental Injection Attacks against GUI Agents in R
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-11250/record.json
+
 ## Authors
 
 Yitong Zhang, Ximo Li, Liyi Cai, Jia Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-11250/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-11250/citation.csl.json
 
 ## Recorded arXiv snapshot
 

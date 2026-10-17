@@ -1,0 +1,91 @@
+{
+  "id": "arxiv:2012.04108",
+  "citation-key": "arxiv_2012_04108",
+  "type": "article",
+  "title": "Building a fault-tolerant quantum computer using concatenated cat codes",
+  "URL": "https://arxiv.org/abs/2012.04108v2",
+  "custom": {
+    "catalog_id": "arxiv:2012.04108",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2012.04108",
+    "identifiers": {
+      "arxiv": "2012.04108"
+    },
+    "first_published_at": "2020-12-07",
+    "record_updated_at": "2022-01-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9579123a555581245446558157e6596405e1c40137ad5c7a7ab33b2a06c98793",
+      "submitted_at": "2020-12-07T23:22:40Z",
+      "updated_at": "2022-01-27T08:21:04Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2012.04108v2"
+    }
+  },
+  "note": "First published: 2020-12-07; Recorded arXiv version: v2; Recorded version updated: 2022-01-27T08:21:04Z.",
+  "author": [
+    {
+      "literal": "Christopher Chamberland"
+    },
+    {
+      "literal": "Kyungjoo Noh"
+    },
+    {
+      "literal": "Patricio Arrangoiz-Arriola"
+    },
+    {
+      "literal": "Earl T. Campbell"
+    },
+    {
+      "literal": "Connor T. Hann"
+    },
+    {
+      "literal": "Joseph Iverson"
+    },
+    {
+      "literal": "Harald Putterman"
+    },
+    {
+      "literal": "Thomas C. Bohdanowicz"
+    },
+    {
+      "literal": "Steven T. Flammia"
+    },
+    {
+      "literal": "Andrew Keller"
+    },
+    {
+      "literal": "Gil Refael"
+    },
+    {
+      "literal": "John Preskill"
+    },
+    {
+      "literal": "Liang Jiang"
+    },
+    {
+      "literal": "Amir H. Safavi-Naeini"
+    },
+    {
+      "literal": "Oskar Painter"
+    },
+    {
+      "literal": "Fernando G. S. L. Brandão"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        12,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2012.04108",
+  "genre": "preprint",
+  "version": "2"
+}

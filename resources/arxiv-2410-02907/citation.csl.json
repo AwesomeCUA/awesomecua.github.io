@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2410.02907",
+  "citation-key": "arxiv_2410_02907",
+  "type": "article",
+  "title": "NNetNav: Unsupervised Learning of Browser Agents Through Environment Interaction in the Wild",
+  "URL": "https://arxiv.org/abs/2410.02907v2",
+  "custom": {
+    "catalog_id": "arxiv:2410.02907",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.02907",
+    "identifiers": {
+      "arxiv": "2410.02907"
+    },
+    "first_published_at": "2024-10-03",
+    "record_updated_at": "2025-02-05",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5e227f3686b3234745ca1749cb8fb7c2b19383ac9dfebf68976f61f07d1ddf3b",
+      "submitted_at": "2024-10-03T18:56:51Z",
+      "updated_at": "2025-02-05T18:56:51Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2410.02907v2"
+    }
+  },
+  "note": "First published: 2024-10-03; Recorded arXiv version: v2; Recorded version updated: 2025-02-05T18:56:51Z.",
+  "author": [
+    {
+      "literal": "Shikhar Murty"
+    },
+    {
+      "literal": "Hao Zhu"
+    },
+    {
+      "literal": "Dzmitry Bahdanau"
+    },
+    {
+      "literal": "Christopher D. Manning"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.02907",
+  "genre": "preprint",
+  "version": "2"
+}

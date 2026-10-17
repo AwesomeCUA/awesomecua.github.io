@@ -1,0 +1,103 @@
+{
+  "id": "arxiv:2602.01443",
+  "citation-key": "arxiv_2602_01443",
+  "type": "article",
+  "title": "SimGym: Traffic-Grounded Browser Agents for Offline A/B Testing in E-Commerce",
+  "URL": "https://arxiv.org/abs/2602.01443v1",
+  "custom": {
+    "catalog_id": "arxiv:2602.01443",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.01443",
+    "identifiers": {
+      "arxiv": "2602.01443"
+    },
+    "first_published_at": "2026-02-01",
+    "record_updated_at": "2026-02-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6276599a10318323b7845753a0e0a3eecf518fbec32e3355d7ace6bff796660b",
+      "submitted_at": "2026-02-01T21:23:04Z",
+      "updated_at": "2026-02-01T21:23:04Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2602.01443v1"
+    }
+  },
+  "note": "First published: 2026-02-01; Recorded arXiv version: v1; Recorded version updated: 2026-02-01T21:23:04Z.",
+  "author": [
+    {
+      "literal": "Alberto Castelo"
+    },
+    {
+      "literal": "Zahra Zanjani Foumani"
+    },
+    {
+      "literal": "Ailin Fan"
+    },
+    {
+      "literal": "Keat Yang Koay"
+    },
+    {
+      "literal": "Vibhor Malik"
+    },
+    {
+      "literal": "Yuanzheng Zhu"
+    },
+    {
+      "literal": "Han Li"
+    },
+    {
+      "literal": "Meysam Feghhi"
+    },
+    {
+      "literal": "Ronie Uliana"
+    },
+    {
+      "literal": "Shuang Xie"
+    },
+    {
+      "literal": "Zhaoyu Zhang"
+    },
+    {
+      "literal": "Angelo Ocana Martins"
+    },
+    {
+      "literal": "Mingyu Zhao"
+    },
+    {
+      "literal": "Francis Pelland"
+    },
+    {
+      "literal": "Jonathan Faerman"
+    },
+    {
+      "literal": "Nikolas LeBlanc"
+    },
+    {
+      "literal": "Aaron Glazer"
+    },
+    {
+      "literal": "Andrew McNamara"
+    },
+    {
+      "literal": "Lingyun Wang"
+    },
+    {
+      "literal": "Zhong Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.01443",
+  "genre": "preprint",
+  "version": "1"
+}

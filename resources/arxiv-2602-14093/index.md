@@ -16,9 +16,16 @@ Bibliographic record for GUI-GENESIS: Automated Synthesis of Efficient Environme
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-14093/record.json
+
 ## Authors
 
 Yuan Cao, Dezhi Ran, Mengzhou Wu, Yuzhe Guo, Xin Chen, Ang Li, Gang Cao, Gong Zhi, Hao Yu, Linyi Li, Wei Yang, Tao Xie
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-14093/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-14093/citation.csl.json
 
 ## Recorded arXiv snapshot
 

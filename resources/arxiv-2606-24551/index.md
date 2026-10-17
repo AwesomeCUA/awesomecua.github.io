@@ -16,9 +16,16 @@ Bibliographic record for GUI vs. CLI: Execution Bottlenecks in Screen-Only and S
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-24551/record.json
+
 ## Authors
 
 Xiao Zhou, Siyue Zhang, Yilun Zhao, Jinbiao Wei, Tingyu Song, Arman Cohan, Chen Zhao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-24551/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-24551/citation.csl.json
 
 ## Recorded arXiv snapshot
 

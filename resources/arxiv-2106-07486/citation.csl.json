@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2106.07486",
+  "citation-key": "arxiv_2106_07486",
+  "type": "article",
+  "title": "Trapped Ion Quantum Computing using Optical Tweezers and Electric Fields",
+  "URL": "https://arxiv.org/abs/2106.07486v1",
+  "custom": {
+    "catalog_id": "arxiv:2106.07486",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2106.07486",
+    "identifiers": {
+      "arxiv": "2106.07486"
+    },
+    "first_published_at": "2021-06-14",
+    "record_updated_at": "2021-06-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6ec85c314761779632c44e05601644cf1e150618c0aba2cd4e2743c41e1892f4",
+      "submitted_at": "2021-06-14T15:16:16Z",
+      "updated_at": "2021-06-14T15:16:16Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2106.07486v1"
+    }
+  },
+  "note": "First published: 2021-06-14; Recorded arXiv version: v1; Recorded version updated: 2021-06-14T15:16:16Z.",
+  "author": [
+    {
+      "literal": "M. Mazzanti"
+    },
+    {
+      "literal": "R. X. Schüssler"
+    },
+    {
+      "literal": "J. D. Arias Espinoza"
+    },
+    {
+      "literal": "Z. Wu"
+    },
+    {
+      "literal": "R. Gerritsma"
+    },
+    {
+      "literal": "A. Safavi-Naini"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        6,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2106.07486",
+  "genre": "preprint",
+  "version": "1"
+}

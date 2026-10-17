@@ -16,9 +16,16 @@ Introduces CUA-SWE, a benchmark and execution environment that combines code cha
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-32600/record.json
+
 ## Authors
 
 Prince Zizhuang Wang, Chenhao Liang, Zelong Xu, Aojie Yuan, Xiaolin Zhou, Haiyue Zhang, Yue Zhao, Xiyang Hu, Shuli Jiang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-32600/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-32600/citation.csl.json
 
 ## Recorded arXiv snapshot
 

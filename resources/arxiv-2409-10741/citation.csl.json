@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2409.10741",
+  "citation-key": "arxiv_2409_10741",
+  "type": "article",
+  "title": "NaviQAte: Functionality-Guided Web Application Navigation",
+  "URL": "https://arxiv.org/abs/2409.10741v1",
+  "custom": {
+    "catalog_id": "arxiv:2409.10741",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2409.10741",
+    "identifiers": {
+      "arxiv": "2409.10741"
+    },
+    "first_published_at": "2024-09-16",
+    "record_updated_at": "2024-09-16",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5bdbd80e252cfa37dc62d666a202e647f93813549c55dde82daf36afe309c7f2",
+      "submitted_at": "2024-09-16T21:18:39Z",
+      "updated_at": "2024-09-16T21:18:39Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2409.10741v1"
+    }
+  },
+  "note": "First published: 2024-09-16; Recorded arXiv version: v1; Recorded version updated: 2024-09-16T21:18:39Z.",
+  "author": [
+    {
+      "literal": "Mobina Shahbandeh"
+    },
+    {
+      "literal": "Parsa Alian"
+    },
+    {
+      "literal": "Noor Nashid"
+    },
+    {
+      "literal": "Ali Mesbah"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2409.10741",
+  "genre": "preprint",
+  "version": "1"
+}

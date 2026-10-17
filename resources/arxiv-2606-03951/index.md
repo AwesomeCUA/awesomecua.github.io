@@ -16,9 +16,16 @@ Bibliographic record for Demo2Tutorial: From Human Experience to Multimodal Soft
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-03951/record.json
+
 ## Authors
 
 Zechen Bai, Zhiheng Chen, Yiqi Lin, Kevin Qinghong Lin, Difei Gao, Xiangwu Guo, Xin Wang, Mike Zheng Shou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-03951/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-03951/citation.csl.json
 
 ## Recorded arXiv snapshot
 

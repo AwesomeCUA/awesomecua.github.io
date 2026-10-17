@@ -16,9 +16,16 @@ Bibliographic record for Accelerating eigenvector and pseudospectra computation 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1607-01477/record.json
+
 ## Authors
 
 Tim Moon, Jack Poulson
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1607-01477/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1607-01477/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,6 +16,8 @@ Screenshot-based GUI element grounding benchmark.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-7abb418096432f56c685/record.json
+
 ## License declarations
 
 - code: not recorded

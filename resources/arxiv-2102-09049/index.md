@@ -16,9 +16,16 @@ Bibliographic record for Efficient Reservoir Computing using Field Programmable 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2102-09049/record.json
+
 ## Authors
 
 Prajnesh Kumar, Mingwei Jin, Ting Bu, Santosh Kumar, Yu-Ping Huang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2102-09049/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2102-09049/citation.csl.json
 
 ## Recorded arXiv snapshot
 

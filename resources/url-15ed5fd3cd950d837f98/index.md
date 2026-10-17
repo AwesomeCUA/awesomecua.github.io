@@ -16,6 +16,8 @@ Hosted visual browser workflow automation service.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-15ed5fd3cd950d837f98/record.json
+
 ## License declarations
 
 - code: not recorded

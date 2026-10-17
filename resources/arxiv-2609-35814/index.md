@@ -16,9 +16,16 @@ Bibliographic record for Constructing Challenging Browser-Use Tasks by Controlle
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-35814/record.json
+
 ## Authors
 
 Xunjian Yin, Tianchen Guan, Jinao Wang, Weili Cao, Daisy Xinlei Lin, Royce Cheng-Yue, Keagan Long, Kyle Wong, Bhuwan Dhingra, Xiangjun Wang, Shuyan Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-35814/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-35814/citation.csl.json
 
 ## Recorded arXiv snapshot
 

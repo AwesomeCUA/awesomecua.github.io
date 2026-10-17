@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2409.10033",
+  "citation-key": "arxiv_2409_10033",
+  "type": "article",
+  "title": "Can GPT-O1 Kill All Bugs? An Evaluation of GPT-Family LLMs on QuixBugs",
+  "URL": "https://arxiv.org/abs/2409.10033v3",
+  "custom": {
+    "catalog_id": "arxiv:2409.10033",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2409.10033",
+    "identifiers": {
+      "arxiv": "2409.10033"
+    },
+    "first_published_at": "2024-09-16",
+    "record_updated_at": "2024-12-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6806b863d40cb4bb79c45c87409a87a2def1e57b6eb6457a787ee2f645fd899a",
+      "submitted_at": "2024-09-16T06:51:32Z",
+      "updated_at": "2024-12-17T13:16:56Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2409.10033v3"
+    }
+  },
+  "note": "First published: 2024-09-16; Recorded arXiv version: v3; Recorded version updated: 2024-12-17T13:16:56Z.",
+  "author": [
+    {
+      "literal": "Haichuan Hu"
+    },
+    {
+      "literal": "Ye Shang"
+    },
+    {
+      "literal": "Guolin Xu"
+    },
+    {
+      "literal": "Congqing He"
+    },
+    {
+      "literal": "Quanjun Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2409.10033",
+  "genre": "preprint",
+  "version": "3"
+}

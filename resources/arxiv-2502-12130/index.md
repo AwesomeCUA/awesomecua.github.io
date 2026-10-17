@@ -16,9 +16,16 @@ Bibliographic record for Scaling Autonomous Agents via Automatic Reward Modeling
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-12130/record.json
+
 ## Authors
 
 Zhenfang Chen, Delin Chen, Rui Sun, Wenjun Liu, Chuang Gan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-12130/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-12130/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for HuggingGPT: Solving AI Tasks with ChatGPT and its Frien
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2303-17580/record.json
+
 ## Authors
 
 Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2303-17580/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2303-17580/citation.csl.json
 
 ## Recorded arXiv snapshot
 

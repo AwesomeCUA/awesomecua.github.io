@@ -16,9 +16,16 @@ DrawingBench evaluates sequences of low-level mouse-based GUI actions through 25
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-01174/record.json
+
 ## Authors
 
 Hyunjun Kim, Sooyoung Ryu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-01174/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-01174/citation.csl.json
 
 ## Recorded arXiv snapshot
 

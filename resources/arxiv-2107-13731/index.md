@@ -16,9 +16,16 @@ Learns shared image, text, and structural UI representations through self-superv
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2107-13731/record.json
+
 ## Authors
 
 Chongyang Bai, Xiaoxue Zang, Ying Xu, Srinivas Sunkara, Abhinav Rastogi, Jindong Chen, Blaise Aguera y Arcas
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2107-13731/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2107-13731/citation.csl.json
 
 ## Recorded arXiv snapshot
 

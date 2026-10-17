@@ -16,9 +16,16 @@ Introduces a controlled web-task testbed for studying how stated preferences and
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-16356/record.json
+
 ## Authors
 
 Simret Araya Gebreegziabher, Yukun Yang, Charles Chiang, Hojun Yoo, Chaoran Chen, Hyo Jin Do, Zahra Ashktorab, Werner Geyer, Diego Gómez-Zará, Toby Jia-Jun Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-16356/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-16356/citation.csl.json
 
 ## Recorded arXiv snapshot
 

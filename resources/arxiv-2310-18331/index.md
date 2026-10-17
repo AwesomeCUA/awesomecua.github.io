@@ -16,9 +16,16 @@ AllTogether standardizes prompts for HTML-based web navigation and compares prom
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-18331/record.json
+
 ## Authors
 
 Jiarun Liu, Wentao Hu, Chunhong Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-18331/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-18331/citation.csl.json
 
 ## Recorded arXiv snapshot
 

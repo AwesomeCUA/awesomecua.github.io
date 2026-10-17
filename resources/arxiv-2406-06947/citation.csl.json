@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2406.06947",
+  "citation-key": "arxiv_2406_06947",
+  "type": "article",
+  "title": "CAAP: Context-Aware Action Planning Prompting to Solve Computer Tasks with Front-End UI Only",
+  "URL": "https://arxiv.org/abs/2406.06947v3",
+  "custom": {
+    "catalog_id": "arxiv:2406.06947",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2406.06947",
+    "identifiers": {
+      "arxiv": "2406.06947"
+    },
+    "first_published_at": "2024-06-11",
+    "record_updated_at": "2024-12-26",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5f85b2cf7650f41ba9ee6e4ae83cd9041e077a44adcb685e702d644bd5779963",
+      "submitted_at": "2024-06-11T05:21:20Z",
+      "updated_at": "2024-12-26T11:02:28Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2406.06947v3"
+    }
+  },
+  "note": "First published: 2024-06-11; Recorded arXiv version: v3; Recorded version updated: 2024-12-26T11:02:28Z.",
+  "author": [
+    {
+      "literal": "Junhee Cho"
+    },
+    {
+      "literal": "Jihoon Kim"
+    },
+    {
+      "literal": "Daseul Bae"
+    },
+    {
+      "literal": "Jinho Choo"
+    },
+    {
+      "literal": "Youngjune Gwon"
+    },
+    {
+      "literal": "Yeong-Dae Kwon"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.06947",
+  "genre": "preprint",
+  "version": "3"
+}

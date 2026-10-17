@@ -16,9 +16,16 @@ Bibliographic record for Near-Term Distributed Quantum Computation using Mean-Fi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2309-05693/record.json
+
 ## Authors
 
 Abigail McClain Gomez, Taylor L. Patti, Anima Anandkumar, Susanne F. Yelin
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2309-05693/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2309-05693/citation.csl.json
 
 ## Recorded arXiv snapshot
 

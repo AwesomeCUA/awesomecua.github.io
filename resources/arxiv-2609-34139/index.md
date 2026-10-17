@@ -16,9 +16,16 @@ Introduces AnyAppBench, a live Android benchmark that holds user goals fixed whi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-34139/record.json
+
 ## Authors
 
 Tien Tran, Namho Koh, Daiki E. Matsunaga, Ayush Jain, Kee Eung Kim
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-34139/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-34139/citation.csl.json
 
 ## Recorded arXiv snapshot
 

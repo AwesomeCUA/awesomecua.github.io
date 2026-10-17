@@ -16,9 +16,16 @@ Bibliographic record for Harnessing Webpage UIs for Text-Rich Visual Understandi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-13824/record.json
+
 ## Authors
 
 Junpeng Liu, Tianyue Ou, Yifan Song, Yuxiao Qu, Wai Lam, Chenyan Xiong, Wenhu Chen, Graham Neubig, Xiang Yue
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-13824/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-13824/citation.csl.json
 
 ## Recorded arXiv snapshot
 

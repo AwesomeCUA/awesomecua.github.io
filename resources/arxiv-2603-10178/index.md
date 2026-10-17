@@ -16,9 +16,16 @@ Bibliographic record for Video-Based Reward Modeling for Computer-Use Agents. Ti
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-10178/record.json
+
 ## Authors
 
 Linxin Song, Jieyu Zhang, Huanxin Sheng, Taiwei Shi, Gupta Rahul, Yang Liu, Ranjay Krishna, Jian Kang, Jieyu Zhao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-10178/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-10178/citation.csl.json
 
 ## Recorded arXiv snapshot
 

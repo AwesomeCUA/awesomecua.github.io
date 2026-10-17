@@ -16,9 +16,16 @@ Bibliographic record for Polyhedron Kernel Computation Using a Geometric Approac
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2202-06625/record.json
+
 ## Authors
 
 Tommaso Sorgente, Silvia Biasotti, Michela Spagnuolo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2202-06625/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2202-06625/citation.csl.json
 
 ## Recorded arXiv snapshot
 

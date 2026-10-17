@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2312.09370",
+  "citation-key": "arxiv_2312_09370",
+  "type": "article",
+  "title": "Dataset: Copy-based Reuse in Open Source Software",
+  "URL": "https://arxiv.org/abs/2312.09370v1",
+  "custom": {
+    "catalog_id": "arxiv:2312.09370",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2312.09370",
+    "identifiers": {
+      "arxiv": "2312.09370"
+    },
+    "first_published_at": "2023-12-14",
+    "record_updated_at": "2023-12-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6908c92138adb51e53ded75650ef9c825d9ae71f79baca6b9121546b3fe01be7",
+      "submitted_at": "2023-12-14T22:08:09Z",
+      "updated_at": "2023-12-14T22:08:09Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2312.09370v1"
+    }
+  },
+  "note": "First published: 2023-12-14; Recorded arXiv version: v1; Recorded version updated: 2023-12-14T22:08:09Z.",
+  "author": [
+    {
+      "literal": "Mahmoud Jahanshahi"
+    },
+    {
+      "literal": "Audris Mockus"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2312.09370",
+  "genre": "preprint",
+  "version": "1"
+}

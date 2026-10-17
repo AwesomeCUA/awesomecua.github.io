@@ -16,9 +16,16 @@ Studies text and visual validation for web agents and uses the resulting validat
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-00689/record.json
+
 ## Authors
 
 Ruhana Azam, Tamer Abuelsaad, Aditya Vempaty, Ashish Jagmohan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-00689/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-00689/citation.csl.json
 
 ## Recorded arXiv snapshot
 

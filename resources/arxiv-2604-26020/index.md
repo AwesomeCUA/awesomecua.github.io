@@ -16,9 +16,16 @@ Bibliographic record for Training Computer Use Agents to Assess the Usability of
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-26020/record.json
+
 ## Authors
 
 Alice Gao, Weixi Tong, Rishab Vempati, Katharina Reinecke, R. Benjamin Shapiro, Tianyi Zhang, Jason Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-26020/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-26020/citation.csl.json
 
 ## Recorded arXiv snapshot
 

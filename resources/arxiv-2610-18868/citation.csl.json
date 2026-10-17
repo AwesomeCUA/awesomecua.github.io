@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2610.18868",
+  "citation-key": "arxiv_2610_18868",
+  "type": "article",
+  "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
+  "URL": "https://arxiv.org/abs/2610.18868v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.18868",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.18868",
+    "identifiers": {
+      "arxiv": "2610.18868"
+    },
+    "first_published_at": "2026-10-13",
+    "record_updated_at": "2026-10-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0a9f020520d7945cf0034b1701043a806d1550687ed2fc38c55fa7e96cea9377",
+      "submitted_at": "2026-10-13T17:59:51Z",
+      "updated_at": "2026-10-13T17:59:51Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.18868v1"
+    }
+  },
+  "note": "First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T17:59:51Z.",
+  "author": [
+    {
+      "literal": "Wenbo Hu"
+    },
+    {
+      "literal": "Shraman Pramanick"
+    },
+    {
+      "literal": "Krishna Kumar Singh"
+    },
+    {
+      "literal": "Nanyun Peng"
+    },
+    {
+      "literal": "Kai-Wei Chang"
+    },
+    {
+      "literal": "Yong Jae Lee"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.18868",
+  "genre": "preprint",
+  "version": "1"
+}

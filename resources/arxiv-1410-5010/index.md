@@ -16,9 +16,16 @@ Bibliographic record for Quantifying performance bottlenecks of stencil computat
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1410-5010/record.json
+
 ## Authors
 
 Holger Stengel, Jan Treibig, Georg Hager, Gerhard Wellein
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1410-5010/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1410-5010/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,90 @@
+{
+  "aliases": [],
+  "authors": [
+    "Jiwen Zhang",
+    "Jihao Wu",
+    "Yihua Teng",
+    "Minghui Liao",
+    "Nuo Xu",
+    "Xiao Xiao",
+    "Zhongyu Wei",
+    "Duyu Tang"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4de9e7d68aa8450cab65ecb300524e85b1d2b2a91d58fecef370deceaba64b1e",
+      "submitted_at": "2024-03-05T07:09:35Z",
+      "updated_at": "2024-07-13T02:12:30Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2403.02713v2"
+    }
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:58Z",
+      "role": "primary",
+      "sha256": "c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:58Z",
+      "role": "primary",
+      "sha256": "c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2403.02713",
+  "identifiers": {
+    "arxiv": "2403.02713"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:58Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2403.02713"
+    }
+  ],
+  "name": "Android in the Zoo: Chain-of-Action-Thought for GUI Agents",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2024-03-05",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Introduces Chain-of-Action-Thought and Android-In-The-Zoo annotations that connect prior actions, screen observations, intended actions, and expected outcomes.",
+  "topics": [
+    "mobile-navigation",
+    "planning"
+  ],
+  "updated_at": "2024-07-13",
+  "url": "https://arxiv.org/abs/2403.02713"
+}

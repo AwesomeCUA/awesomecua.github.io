@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2511.14945",
+  "citation-key": "arxiv_2511_14945",
+  "type": "article",
+  "title": "Unsupervised Discovery of Long-Term Spatiotemporal Periodic Workflows in Human Activities",
+  "URL": "https://arxiv.org/abs/2511.14945v2",
+  "custom": {
+    "catalog_id": "arxiv:2511.14945",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.14945",
+    "identifiers": {
+      "arxiv": "2511.14945"
+    },
+    "first_published_at": "2025-11-18",
+    "record_updated_at": "2025-11-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8646f87e7763ebbfd40db237c7f6943eb7ac73d259c2c4674b99c40724f5fb63",
+      "submitted_at": "2025-11-18T22:07:30Z",
+      "updated_at": "2025-11-20T16:11:12Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2511.14945v2"
+    }
+  },
+  "note": "First published: 2025-11-18; Recorded arXiv version: v2; Recorded version updated: 2025-11-20T16:11:12Z.",
+  "author": [
+    {
+      "literal": "Fan Yang"
+    },
+    {
+      "literal": "Quanting Xie"
+    },
+    {
+      "literal": "Atsunori Moteki"
+    },
+    {
+      "literal": "Shoichi Masui"
+    },
+    {
+      "literal": "Shan Jiang"
+    },
+    {
+      "literal": "Kanji Uchino"
+    },
+    {
+      "literal": "Yonatan Bisk"
+    },
+    {
+      "literal": "Graham Neubig"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.14945",
+  "genre": "preprint",
+  "version": "2"
+}

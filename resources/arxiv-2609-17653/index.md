@@ -16,9 +16,16 @@ Bibliographic record for Reflect, Revise, Reuse: Training-Free Skill Evolution f
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-17653/record.json
+
 ## Authors
 
 Bofan Chen, Boxuan Zhang, Fei Tang, Zhengxi Lu, Yong Du, Tongbo Chen, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-17653/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-17653/citation.csl.json
 
 ## Recorded arXiv snapshot
 

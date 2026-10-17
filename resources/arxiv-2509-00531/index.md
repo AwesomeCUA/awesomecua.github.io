@@ -16,9 +16,16 @@ Bibliographic record for MobiAgent: A Systematic Framework for Customizable Mobi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-00531/record.json
+
 ## Authors
 
 Cheng Zhang, Erhu Feng, Xi Zhao, Yisheng Zhao, Wangbo Gong, Jiahui Sun, Dong Du, Zhichao Hua, Yubin Xia, Haibo Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-00531/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-00531/citation.csl.json
 
 ## Recorded arXiv snapshot
 

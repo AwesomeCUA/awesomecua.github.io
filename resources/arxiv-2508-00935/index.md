@@ -16,9 +16,16 @@ Bibliographic record for Measuring Harmfulness of Computer-Using Agents. Title, 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-00935/record.json
+
 ## Authors
 
 Aaron Xuxiang Tian, Ruofan Zhang, Janet Tang, Ji Wang, Tianyu Shi, Jiaxin Wen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-00935/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-00935/citation.csl.json
 
 ## Recorded arXiv snapshot
 

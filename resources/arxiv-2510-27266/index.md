@@ -16,9 +16,16 @@ Bibliographic record for Enhancing Trustworthy GUI Grounding via Self-Critiqued 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-27266/record.json
+
 ## Authors
 
 Shaojie Zhang, Pei Fu, Ruoceng Zhang, Jiahui Yang, Anan Du, Xiuwen Xi, Shaokang Wang, Ying Huang, Bin Qin, Zhenbo Luo, Jian Luan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-27266/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-27266/citation.csl.json
 
 ## Recorded arXiv snapshot
 

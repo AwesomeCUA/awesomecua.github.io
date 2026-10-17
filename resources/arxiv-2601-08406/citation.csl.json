@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2601.08406",
+  "citation-key": "arxiv_2601_08406",
+  "type": "article",
+  "title": "WebTrap Park: An Automated Platform for Systematic Security Evaluation of Web Agents",
+  "URL": "https://arxiv.org/abs/2601.08406v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.08406",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2601.08406",
+    "identifiers": {
+      "arxiv": "2601.08406"
+    },
+    "first_published_at": "2026-01-13",
+    "record_updated_at": "2026-01-13",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "626702d22786336ff65b6e89d97e2034ff7aa144fab4ecc286d169fca6993410",
+      "submitted_at": "2026-01-13T10:21:28Z",
+      "updated_at": "2026-01-13T10:21:28Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.08406v1"
+    }
+  },
+  "note": "First published: 2026-01-13; Recorded arXiv version: v1; Recorded version updated: 2026-01-13T10:21:28Z.",
+  "author": [
+    {
+      "literal": "Xinyi Wu"
+    },
+    {
+      "literal": "Jiagui Chen"
+    },
+    {
+      "literal": "Geng Hong"
+    },
+    {
+      "literal": "Jiayi Dong"
+    },
+    {
+      "literal": "Xudong Pan"
+    },
+    {
+      "literal": "Jiarun Dai"
+    },
+    {
+      "literal": "Min Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.08406",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2407.01558",
+  "citation-key": "arxiv_2407_01558",
+  "type": "article",
+  "title": "Visual Grounding Methods for Efficient Interaction with Desktop Graphical User Interfaces",
+  "URL": "https://arxiv.org/abs/2407.01558v3",
+  "custom": {
+    "catalog_id": "arxiv:2407.01558",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2407.01558",
+    "identifiers": {
+      "arxiv": "2407.01558"
+    },
+    "first_published_at": "2024-05-05",
+    "record_updated_at": "2025-07-18",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "01d3b3a013f3b10249b8197a8e18aa695bdc20febaa34f07128791f36afdcbac",
+      "submitted_at": "2024-05-05T19:10:19Z",
+      "updated_at": "2025-07-18T11:35:01Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2407.01558v3"
+    }
+  },
+  "note": "First published: 2024-05-05; Recorded arXiv version: v3; Recorded version updated: 2025-07-18T11:35:01Z.",
+  "author": [
+    {
+      "literal": "El Hassane Ettifouri"
+    },
+    {
+      "literal": "Jessica López Espejel"
+    },
+    {
+      "literal": "Laura Minkova"
+    },
+    {
+      "literal": "Tassnim Dardouri"
+    },
+    {
+      "literal": "Walid Dahhane"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.01558",
+  "genre": "preprint",
+  "version": "3"
+}

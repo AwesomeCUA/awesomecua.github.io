@@ -16,9 +16,16 @@ Bibliographic record for Internet Computing: Using Reputation to Select Workers 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1603-04394/record.json
+
 ## Authors
 
 Evgenia Christoforou, Antonio Fernández Anta, Chryssis Georgiou, Miguel A. Mosteiro
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1603-04394/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1603-04394/citation.csl.json
 
 ## Recorded arXiv snapshot
 

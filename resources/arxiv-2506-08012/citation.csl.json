@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2506.08012",
+  "citation-key": "arxiv_2506_08012",
+  "type": "article",
+  "title": "GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior",
+  "URL": "https://arxiv.org/abs/2506.08012v1",
+  "custom": {
+    "catalog_id": "arxiv:2506.08012",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2506.08012",
+    "identifiers": {
+      "arxiv": "2506.08012"
+    },
+    "first_published_at": "2025-06-09",
+    "record_updated_at": "2025-06-09",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ce3b7d2c25b5a99f110f00be7389d4230d625ac1f7f33d5ab81f3d6f441f3610",
+      "submitted_at": "2025-06-09T17:59:57Z",
+      "updated_at": "2025-06-09T17:59:57Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2506.08012v1"
+    }
+  },
+  "note": "First published: 2025-06-09; Recorded arXiv version: v1; Recorded version updated: 2025-06-09T17:59:57Z.",
+  "author": [
+    {
+      "literal": "Penghao Wu"
+    },
+    {
+      "literal": "Shengnan Ma"
+    },
+    {
+      "literal": "Bo Wang"
+    },
+    {
+      "literal": "Jiaheng Yu"
+    },
+    {
+      "literal": "Lewei Lu"
+    },
+    {
+      "literal": "Ziwei Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.08012",
+  "genre": "preprint",
+  "version": "1"
+}

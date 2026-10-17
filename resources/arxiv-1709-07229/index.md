@@ -16,9 +16,16 @@ Bibliographic record for High-Performance Derivative Computations using CoDiPack
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1709-07229/record.json
+
 ## Authors
 
 Max Sagebaum, Tim Albring, Nicolas R. Gauger
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1709-07229/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1709-07229/citation.csl.json
 
 ## Recorded arXiv snapshot
 

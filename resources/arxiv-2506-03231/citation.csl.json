@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2506.03231",
+  "citation-key": "arxiv_2506_03231",
+  "type": "article",
+  "title": "NetArena: Dynamic Benchmarks for AI Agents in Network Automation",
+  "URL": "https://arxiv.org/abs/2506.03231v2",
+  "custom": {
+    "catalog_id": "arxiv:2506.03231",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2506.03231",
+    "identifiers": {
+      "arxiv": "2506.03231"
+    },
+    "first_published_at": "2025-06-03",
+    "record_updated_at": "2026-03-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cd16221e7bdfb06a4acd96a4f2348597d789483b5f9b50d24ff660334b00c570",
+      "submitted_at": "2025-06-03T14:04:22Z",
+      "updated_at": "2026-03-13T19:41:00Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2506.03231v2"
+    }
+  },
+  "note": "First published: 2025-06-03; Recorded arXiv version: v2; Recorded version updated: 2026-03-13T19:41:00Z.",
+  "author": [
+    {
+      "literal": "Yajie Zhou"
+    },
+    {
+      "literal": "Jiajun Ruan"
+    },
+    {
+      "literal": "Eric S. Wang"
+    },
+    {
+      "literal": "Sadjad Fouladi"
+    },
+    {
+      "literal": "Francis Y. Yan"
+    },
+    {
+      "literal": "Kevin Hsieh"
+    },
+    {
+      "literal": "Zaoxing Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.03231",
+  "genre": "preprint",
+  "version": "2"
+}

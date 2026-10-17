@@ -16,6 +16,8 @@ Universal visual grounding models for GUI agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-osu-nlp-group-uground/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/OSU-NLP-Group/UGround/HEAD/LICENSE.txt

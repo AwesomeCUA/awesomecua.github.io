@@ -16,6 +16,8 @@ Mobile-app task definitions covering everyday scenarios, with annotated precondi
 
 Public task files are available as JSONL and XLSX with documentation. The card explicitly declares Apache-2.0 for the dataset, despite having no license field in its YAML metadata. It identifies mobile apps without fixing an operating-system taxonomy; model scores are not imported.
 
+- Record JSON: https://awesomecua.github.io/resources/url-d7a4f34a6a5202af5f64/record.json
+
 ## Structured profile
 
 - actions: mobile interface operations, clarification requests

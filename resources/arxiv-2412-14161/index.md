@@ -16,9 +16,16 @@ Simulates a software-company workplace to evaluate agents on professional tasks 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-14161/record.json
+
 ## Authors
 
 Frank F. Xu, Yufan Song, Boxuan Li, Yuxuan Tang, Kritanjali Jain, Mengxue Bao, Zora Z. Wang, Xuhui Zhou, Zhitong Guo, Murong Cao, Mingyang Yang, Hao Yang Lu, Amaad Martin, Zhe Su, Leander Maben, Raj Mehta, Wayne Chi, Lawrence Jang, Yiqing Xie, Shuyan Zhou, Graham Neubig
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-14161/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-14161/citation.csl.json
 
 ## Recorded arXiv snapshot
 

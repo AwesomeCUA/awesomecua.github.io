@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2501.03895",
+  "citation-key": "arxiv_2501_03895",
+  "type": "article",
+  "title": "LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token",
+  "URL": "https://arxiv.org/abs/2501.03895v2",
+  "custom": {
+    "catalog_id": "arxiv:2501.03895",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2501.03895",
+    "identifiers": {
+      "arxiv": "2501.03895"
+    },
+    "first_published_at": "2025-01-07",
+    "record_updated_at": "2025-03-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "40a28b429af78ed0bda8bb61d0604f4befe061bbb65ecfea0d988c59a0b36821",
+      "submitted_at": "2025-01-07T16:03:14Z",
+      "updated_at": "2025-03-02T15:55:07Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2501.03895v2"
+    }
+  },
+  "note": "First published: 2025-01-07; Recorded arXiv version: v2; Recorded version updated: 2025-03-02T15:55:07Z.",
+  "author": [
+    {
+      "literal": "Shaolei Zhang"
+    },
+    {
+      "literal": "Qingkai Fang"
+    },
+    {
+      "literal": "Zhe Yang"
+    },
+    {
+      "literal": "Yang Feng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2501.03895",
+  "genre": "preprint",
+  "version": "2"
+}

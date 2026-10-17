@@ -16,6 +16,8 @@ Simulated mobile applications and evaluation tooling for reproducible GUI-agent 
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-acrab-agentic-labs-appsim/record.json
+
 ## Structured profile
 
 - actions: mobile GUI operations

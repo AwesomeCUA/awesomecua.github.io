@@ -16,9 +16,16 @@ Bibliographic record for Toward PDDL Planning Copilot. Title, authors and dates 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-12987/record.json
+
 ## Authors
 
 Yarin Benyamin, Argaman Mordoch, Shahaf S. Shperberg, Roni Stern
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-12987/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-12987/citation.csl.json
 
 ## Recorded arXiv snapshot
 

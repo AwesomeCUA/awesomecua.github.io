@@ -16,6 +16,8 @@ Vision-language-action model for GUI interaction.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-showlab-showui/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/showlab/ShowUI/HEAD/LICENSE

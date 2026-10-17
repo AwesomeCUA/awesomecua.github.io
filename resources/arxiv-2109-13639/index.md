@@ -16,9 +16,16 @@ Bibliographic record for Quantum Computation Using Action Variables. Title, auth
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2109-13639/record.json
+
 ## Authors
 
 Yong Zhang, Konglong Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2109-13639/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2109-13639/citation.csl.json
 
 ## Recorded arXiv snapshot
 

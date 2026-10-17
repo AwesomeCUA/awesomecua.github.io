@@ -16,9 +16,16 @@ Bibliographic record for Design Patterns for Securing LLM Agents against Prompt 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-08837/record.json
+
 ## Authors
 
 Luca Beurer-Kellner, Beat Buesser, Ana-Maria Creţu, Edoardo Debenedetti, Daniel Dobos, Daniel Fabian, Marc Fischer, David Froelicher, Kathrin Grosse, Daniel Naeff, Ezinwanne Ozoani, Andrew Paverd, Florian Tramèr, Václav Volhejn
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-08837/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-08837/citation.csl.json
 
 ## Recorded arXiv snapshot
 

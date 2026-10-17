@@ -16,9 +16,16 @@ Bibliographic record for MementoGUI: Learning Agentic Multimodal Memory Control 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-18652/record.json
+
 ## Authors
 
 Ziyun Zeng, Hang Hua, Bocheng Zou, Mu Cai, Rogerio Feris, Jiebo Luo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-18652/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-18652/citation.csl.json
 
 ## Recorded arXiv snapshot
 

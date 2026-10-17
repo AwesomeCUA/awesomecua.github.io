@@ -16,9 +16,16 @@ Bibliographic record for BrowserArena: Evaluating LLM Agents on Real-World Web N
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-02418/record.json
+
 ## Authors
 
 Sagnik Anupam, Davis Brown, Shuo Li, Eric Wong, Hamed Hassani, Osbert Bastani
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-02418/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-02418/citation.csl.json
 
 ## Recorded arXiv snapshot
 

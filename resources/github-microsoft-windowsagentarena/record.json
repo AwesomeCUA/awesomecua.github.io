@@ -1,0 +1,144 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "benchmark_protocol": {
+      "actions": [
+        "agent-defined Windows interactions"
+      ],
+      "counts": [
+        {
+          "basis": "computed",
+          "evidence_url": "https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/src/win-arena-container/client/evaluation_examples_windows/test_all.json",
+          "population": "evaluation_examples_windows/test_all.json",
+          "qualifier": "exact",
+          "unit": "task definitions",
+          "value": 154
+        }
+      ],
+      "evaluation": "Task configuration selects an evaluator and expected application or system outcome; evaluators return a reward for the resulting state.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/README.md",
+        "https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/docs/Develop-Tasks.md",
+        "https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/src/win-arena-container/client/evaluation_examples_windows/test_all.json"
+      ],
+      "focus": [
+        "Windows task completion",
+        "desktop workflows"
+      ],
+      "notes": "Counted unique identifiers in the inspected manifest. Normal and hard modes differ in how much task setup the agent must perform. Record the difficulty and observation/backend configuration with each result; no VM was launched.",
+      "observations": [
+        "screenshots",
+        "accessibility information",
+        "screen-element detections"
+      ],
+      "setting": "interactive"
+    },
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "metrics": [],
+    "task_count": null
+  },
+  "environments": [
+    "windows",
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:35:57Z",
+      "role": "primary",
+      "sha256": "e481abd422a4cc8b819ad84b32684e4af641e18a7c0d277dd608cfd5d3c5e6ad",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:35:57Z",
+      "role": "primary",
+      "sha256": "e481abd422a4cc8b819ad84b32684e4af641e18a7c0d277dd608cfd5d3c5e6ad",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:06:30Z",
+      "role": "primary",
+      "sha256": "c565dc02ab0049bf9710b87e2760dda8d7c92268ea78f0354952695ab59c0de3",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/docs/Develop-Tasks.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:06:30Z",
+      "role": "primary",
+      "sha256": "902fb24cf0a9e146bf6c29288e74a7254fe40294e49dd47363e0b15d65608fef",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/src/win-arena-container/client/evaluation_examples_windows/test_all.json"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:41:57Z",
+      "role": "primary",
+      "sha256": "9906940f61b1f0b533fa7d99baf55178b2808fbe113ea51dfbfad8572ccd5f2b",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:microsoft/windowsagentarena",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-16T06:35:57Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-16T06:41:57Z",
+      "url": "https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/microsoft/WindowsAgentArena"
+    }
+  ],
+  "name": "Windows Agent Arena",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/README.md",
+      "target_id": "arxiv:2409.08264",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Windows desktop agent evaluation environment.",
+  "topics": [
+    "evaluation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/microsoft/WindowsAgentArena"
+}

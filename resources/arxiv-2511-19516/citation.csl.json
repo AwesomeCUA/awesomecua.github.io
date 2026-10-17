@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2511.19516",
+  "citation-key": "arxiv_2511_19516",
+  "type": "article",
+  "title": "Connecting the Dots: Training-Free Visual Grounding via Agentic Reasoning",
+  "URL": "https://arxiv.org/abs/2511.19516v2",
+  "custom": {
+    "catalog_id": "arxiv:2511.19516",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.19516",
+    "identifiers": {
+      "arxiv": "2511.19516"
+    },
+    "first_published_at": "2025-11-24",
+    "record_updated_at": "2025-11-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "50c67671308298167793cbd7a11f24796a3e8008e8ea2d7fdb5a98b5c4d7ffa2",
+      "submitted_at": "2025-11-24T03:11:08Z",
+      "updated_at": "2025-11-26T15:38:35Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2511.19516v2"
+    }
+  },
+  "note": "First published: 2025-11-24; Recorded arXiv version: v2; Recorded version updated: 2025-11-26T15:38:35Z.",
+  "author": [
+    {
+      "literal": "Liqin Luo"
+    },
+    {
+      "literal": "Guangyao Chen"
+    },
+    {
+      "literal": "Xiawu Zheng"
+    },
+    {
+      "literal": "Yongxing Dai"
+    },
+    {
+      "literal": "Yixiong Zou"
+    },
+    {
+      "literal": "Yonghong Tian"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.19516",
+  "genre": "preprint",
+  "version": "2"
+}

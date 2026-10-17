@@ -16,9 +16,16 @@ Go-Browse frames web-environment exploration as graph search so that information
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-03533/record.json
+
 ## Authors
 
 Apurva Gandhi, Graham Neubig
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-03533/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-03533/citation.csl.json
 
 ## Recorded arXiv snapshot
 

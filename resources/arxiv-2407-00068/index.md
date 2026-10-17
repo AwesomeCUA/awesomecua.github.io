@@ -16,9 +16,16 @@ Bibliographic record for D&A: Resource Optimisation in Personalised PageRank Com
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-00068/record.json
+
 ## Authors
 
 Kai Siong Yow, Chunbo Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-00068/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-00068/citation.csl.json
 
 ## Recorded arXiv snapshot
 

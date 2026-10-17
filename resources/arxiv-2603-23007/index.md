@@ -16,9 +16,16 @@ Bibliographic record for AgentRAE: Remote Action Execution through Notification-
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-23007/record.json
+
 ## Authors
 
 Yutao Luo, Haotian Zhu, Shuchao Pang, Zhigang Lu, Tian Dong, Yongbin Zhou, Minhui Xue
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-23007/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-23007/citation.csl.json
 
 ## Recorded arXiv snapshot
 

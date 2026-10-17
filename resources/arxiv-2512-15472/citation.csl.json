@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2512.15472",
+  "citation-key": "arxiv_2512_15472",
+  "type": "article",
+  "title": "Energy Inference of Black-Box Quantum Computers Using Quantum Speed Limit",
+  "URL": "https://arxiv.org/abs/2512.15472v1",
+  "custom": {
+    "catalog_id": "arxiv:2512.15472",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2512.15472",
+    "identifiers": {
+      "arxiv": "2512.15472"
+    },
+    "first_published_at": "2025-12-17",
+    "record_updated_at": "2025-12-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a2ce0ff5029aced93b1fbf1fdad4e1b9068f24f869a4b758e3fe80c67e7bf352",
+      "submitted_at": "2025-12-17T14:16:05Z",
+      "updated_at": "2025-12-17T14:16:05Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2512.15472v1"
+    }
+  },
+  "note": "First published: 2025-12-17; Recorded arXiv version: v1; Recorded version updated: 2025-12-17T14:16:05Z.",
+  "author": [
+    {
+      "literal": "Nobumasa Ishida"
+    },
+    {
+      "literal": "Yoshihiko Hasegawa"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2512.15472",
+  "genre": "preprint",
+  "version": "1"
+}

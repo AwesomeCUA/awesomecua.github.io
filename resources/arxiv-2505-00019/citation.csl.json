@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2505.00019",
+  "citation-key": "arxiv_2505_00019",
+  "type": "article",
+  "title": "An Empirical Study on Prompt Compression for Large Language Models",
+  "URL": "https://arxiv.org/abs/2505.00019v1",
+  "custom": {
+    "catalog_id": "arxiv:2505.00019",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.00019",
+    "identifiers": {
+      "arxiv": "2505.00019"
+    },
+    "first_published_at": "2025-04-24",
+    "record_updated_at": "2025-04-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "678919c145c11002704b37fd7b2d68c3ea51d29e0933799ae2719bde6e16634c",
+      "submitted_at": "2025-04-24T14:15:13Z",
+      "updated_at": "2025-04-24T14:15:13Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2505.00019v1"
+    }
+  },
+  "note": "First published: 2025-04-24; Recorded arXiv version: v1; Recorded version updated: 2025-04-24T14:15:13Z.",
+  "author": [
+    {
+      "literal": "Zheng Zhang"
+    },
+    {
+      "literal": "Jinyi Li"
+    },
+    {
+      "literal": "Yihuai Lan"
+    },
+    {
+      "literal": "Xiang Wang"
+    },
+    {
+      "literal": "Hao Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.00019",
+  "genre": "preprint",
+  "version": "1"
+}

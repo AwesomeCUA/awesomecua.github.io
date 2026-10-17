@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2412.13103",
+  "citation-key": "arxiv_2412_13103",
+  "type": "article",
+  "title": "AI PERSONA: Towards Life-long Personalization of LLMs",
+  "URL": "https://arxiv.org/abs/2412.13103v1",
+  "custom": {
+    "catalog_id": "arxiv:2412.13103",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2412.13103",
+    "identifiers": {
+      "arxiv": "2412.13103"
+    },
+    "first_published_at": "2024-12-17",
+    "record_updated_at": "2024-12-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d6187ac36c2c4e7f78155cc6a1aea504aeb7350386697031220195d1aeaba9ea",
+      "submitted_at": "2024-12-17T17:17:03Z",
+      "updated_at": "2024-12-17T17:17:03Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2412.13103v1"
+    }
+  },
+  "note": "First published: 2024-12-17; Recorded arXiv version: v1; Recorded version updated: 2024-12-17T17:17:03Z.",
+  "author": [
+    {
+      "literal": "Tiannan Wang"
+    },
+    {
+      "literal": "Meiling Tao"
+    },
+    {
+      "literal": "Ruoyu Fang"
+    },
+    {
+      "literal": "Huilin Wang"
+    },
+    {
+      "literal": "Shuai Wang"
+    },
+    {
+      "literal": "Yuchen Eleanor Jiang"
+    },
+    {
+      "literal": "Wangchunshu Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.13103",
+  "genre": "preprint",
+  "version": "1"
+}

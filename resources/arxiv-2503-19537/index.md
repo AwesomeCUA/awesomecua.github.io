@@ -16,9 +16,16 @@ Defines when phone agents should request user interaction and introduces Android
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-19537/record.json
+
 ## Authors
 
 Noam Kahlon, Guy Rom, Anatoly Efros, Filippo Galgani, Omri Berkovitch, Sapir Caduri, William E. Bishop, Oriana Riva, Ido Dagan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-19537/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-19537/citation.csl.json
 
 ## Recorded arXiv snapshot
 

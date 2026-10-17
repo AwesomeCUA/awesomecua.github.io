@@ -16,6 +16,8 @@ A Windows MCP bridge exposing application, window, keyboard and mouse operations
 
 Public source and official release metadata are present. The README explicitly supports Windows 10 and 11 and includes a browser DOM inspection mode. Code is MIT-licensed. This is an execution tool, not a trained model; runtime behavior and latency claims were not independently tested.
 
+- Record JSON: https://awesomecua.github.io/resources/github-cursortouch-windows-mcp/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/CursorTouch/Windows-MCP/HEAD/LICENSE.md

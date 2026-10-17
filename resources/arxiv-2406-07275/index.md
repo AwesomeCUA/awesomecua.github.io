@@ -16,9 +16,16 @@ Bibliographic record for DCA-Bench: A Benchmark for Dataset Curation Agents. Tit
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-07275/record.json
+
 ## Authors
 
 Benhao Huang, Yingzhuo Yu, Jin Huang, Xingjian Zhang, Jiaqi Ma
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-07275/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-07275/citation.csl.json
 
 ## Recorded arXiv snapshot
 

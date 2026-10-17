@@ -16,9 +16,16 @@ Extends computer-use policies to game control through synthetic training environ
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-20584/record.json
+
 ## Authors
 
 Mingyu Ouyang, Yiran Wang, Siyuan Hu, Xingyilang Yin, Huiqiang Sun, Guangzhi Wang, Junfu Pu, Cheng Cheng, Honghao Chen, Ying Shan, Mike Zheng Shou, Hwee Tou Ng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-20584/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-20584/citation.csl.json
 
 ## Recorded arXiv snapshot
 

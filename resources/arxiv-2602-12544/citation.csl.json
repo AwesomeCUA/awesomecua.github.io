@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2602.12544",
+  "citation-key": "arxiv_2602_12544",
+  "type": "article",
+  "title": "Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation",
+  "URL": "https://arxiv.org/abs/2602.12544v1",
+  "custom": {
+    "catalog_id": "arxiv:2602.12544",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.12544",
+    "identifiers": {
+      "arxiv": "2602.12544"
+    },
+    "first_published_at": "2026-02-13",
+    "record_updated_at": "2026-02-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "555285a1ab51e02661067bdf8bcc3fa7f6ee0fdd63f52f786a03eb2483bd1a31",
+      "submitted_at": "2026-02-13T02:52:18Z",
+      "updated_at": "2026-02-13T02:52:18Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2602.12544v1"
+    }
+  },
+  "note": "First published: 2026-02-13; Recorded arXiv version: v1; Recorded version updated: 2026-02-13T02:52:18Z.",
+  "author": [
+    {
+      "literal": "Lajanugen Logeswaran"
+    },
+    {
+      "literal": "Jaekyeom Kim"
+    },
+    {
+      "literal": "Sungryull Sohn"
+    },
+    {
+      "literal": "Creighton Glasscock"
+    },
+    {
+      "literal": "Honglak Lee"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.12544",
+  "genre": "preprint",
+  "version": "1"
+}

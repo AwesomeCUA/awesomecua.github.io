@@ -16,9 +16,16 @@ Agent-E combines hierarchical web-task control with DOM distillation and observa
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-13032/record.json
+
 ## Authors
 
 Tamer Abuelsaad, Deepak Akkil, Prasenjit Dey, Ashish Jagmohan, Aditya Vempaty, Ravi Kokku
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-13032/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-13032/citation.csl.json
 
 ## Recorded arXiv snapshot
 

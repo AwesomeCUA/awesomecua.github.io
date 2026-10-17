@@ -16,9 +16,16 @@ Bibliographic record for Scalable Constant-Time Logical Gates for Large-Scale Qu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-16963/record.json
+
 ## Authors
 
 Jiaxuan Zhang, Zhao-Yun Chen, Jia-Ning Li, Tian-Hao Wei, Huan-Yu Liu, Xi-Ning Zhuang, Qing-Song Li, Yu-Chun Wu, Guo-Ping Guo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-16963/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-16963/citation.csl.json
 
 ## Recorded arXiv snapshot
 

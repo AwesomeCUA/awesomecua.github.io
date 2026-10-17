@@ -16,6 +16,8 @@ Released model checkpoint associated with OS-Atlas.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-30c831a1198b9bc2a0f5/record.json
+
 ## License declarations
 
 - code: not recorded

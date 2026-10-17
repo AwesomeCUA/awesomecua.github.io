@@ -16,9 +16,16 @@ Bibliographic record for WebGraphEval: Multi-Turn Trajectory Evaluation for Web 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-19205/record.json
+
 ## Authors
 
 Yaoyao Qian, Yuanli Wang, Jinda Zhang, Yun Zong, Meixu Chen, Hanhan Zhou, Jindan Huang, Yifan Zeng, Xinyu Hu, Chan Hee Song, Danqing Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-19205/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-19205/citation.csl.json
 
 ## Recorded arXiv snapshot
 

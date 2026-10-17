@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2410.17520",
+  "citation-key": "arxiv_2410_17520",
+  "type": "article",
+  "title": "MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control",
+  "URL": "https://arxiv.org/abs/2410.17520v3",
+  "custom": {
+    "catalog_id": "arxiv:2410.17520",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.17520",
+    "identifiers": {
+      "arxiv": "2410.17520"
+    },
+    "first_published_at": "2024-10-23",
+    "record_updated_at": "2026-01-27",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "362cbf7ea267ddc4a64505aa95c4f16a9f3631f95319ce10eef9981e2c85937b",
+      "submitted_at": "2024-10-23T02:51:43Z",
+      "updated_at": "2026-01-27T01:51:55Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2410.17520v3"
+    }
+  },
+  "note": "First published: 2024-10-23; Recorded arXiv version: v3; Recorded version updated: 2026-01-27T01:51:55Z.",
+  "author": [
+    {
+      "literal": "Juyong Lee"
+    },
+    {
+      "literal": "Dongyoon Hahm"
+    },
+    {
+      "literal": "June Suk Choi"
+    },
+    {
+      "literal": "W. Bradley Knox"
+    },
+    {
+      "literal": "Kimin Lee"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.17520",
+  "genre": "preprint",
+  "version": "3"
+}

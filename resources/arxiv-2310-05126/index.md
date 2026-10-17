@@ -16,9 +16,16 @@ Bibliographic record for UReader: Universal OCR-free Visually-situated Language 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-05126/record.json
+
 ## Authors
 
 Jiabo Ye, Anwen Hu, Haiyang Xu, Qinghao Ye, Ming Yan, Guohai Xu, Chenliang Li, Junfeng Tian, Qi Qian, Ji Zhang, Qin Jin, Liang He, Xin Alex Lin, Fei Huang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-05126/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-05126/citation.csl.json
 
 ## Recorded arXiv snapshot
 

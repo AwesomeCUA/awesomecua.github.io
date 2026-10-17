@@ -16,9 +16,16 @@ Introduces Chinese-language GUI navigation traces and annotated screenshots coll
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-14250/record.json
+
 ## Authors
 
 Ke Wang, Tianyu Xia, Zhangxuan Gu, Yi Zhao, Shuheng Shen, Changhua Meng, Weiqiang Wang, Ke Xu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-14250/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-14250/citation.csl.json
 
 ## Recorded arXiv snapshot
 

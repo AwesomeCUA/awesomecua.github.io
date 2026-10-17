@@ -1,0 +1,148 @@
+{
+  "id": "arxiv:2501.12326",
+  "citation-key": "arxiv_2501_12326",
+  "type": "article",
+  "title": "UI-TARS: Pioneering Automated GUI Interaction with Native Agents",
+  "URL": "https://arxiv.org/abs/2501.12326v1",
+  "custom": {
+    "catalog_id": "arxiv:2501.12326",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2501.12326",
+    "identifiers": {
+      "arxiv": "2501.12326"
+    },
+    "first_published_at": "2025-01-21",
+    "record_updated_at": "2025-01-21",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d19aa758e66411a31dd1fea6f07c83d1c828bd4aad86f1564a9d7f3670c3f79f",
+      "submitted_at": "2025-01-21T17:48:10Z",
+      "updated_at": "2025-01-21T17:48:10Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2501.12326v1"
+    }
+  },
+  "note": "First published: 2025-01-21; Recorded arXiv version: v1; Recorded version updated: 2025-01-21T17:48:10Z.",
+  "author": [
+    {
+      "literal": "Yujia Qin"
+    },
+    {
+      "literal": "Yining Ye"
+    },
+    {
+      "literal": "Junjie Fang"
+    },
+    {
+      "literal": "Haoming Wang"
+    },
+    {
+      "literal": "Shihao Liang"
+    },
+    {
+      "literal": "Shizuo Tian"
+    },
+    {
+      "literal": "Junda Zhang"
+    },
+    {
+      "literal": "Jiahao Li"
+    },
+    {
+      "literal": "Yunxin Li"
+    },
+    {
+      "literal": "Shijue Huang"
+    },
+    {
+      "literal": "Wanjun Zhong"
+    },
+    {
+      "literal": "Kuanye Li"
+    },
+    {
+      "literal": "Jiale Yang"
+    },
+    {
+      "literal": "Yu Miao"
+    },
+    {
+      "literal": "Woyu Lin"
+    },
+    {
+      "literal": "Longxiang Liu"
+    },
+    {
+      "literal": "Xu Jiang"
+    },
+    {
+      "literal": "Qianli Ma"
+    },
+    {
+      "literal": "Jingyu Li"
+    },
+    {
+      "literal": "Xiaojun Xiao"
+    },
+    {
+      "literal": "Kai Cai"
+    },
+    {
+      "literal": "Chuang Li"
+    },
+    {
+      "literal": "Yaowei Zheng"
+    },
+    {
+      "literal": "Chaolin Jin"
+    },
+    {
+      "literal": "Chen Li"
+    },
+    {
+      "literal": "Xiao Zhou"
+    },
+    {
+      "literal": "Minchao Wang"
+    },
+    {
+      "literal": "Haoli Chen"
+    },
+    {
+      "literal": "Zhaojian Li"
+    },
+    {
+      "literal": "Haihua Yang"
+    },
+    {
+      "literal": "Haifeng Liu"
+    },
+    {
+      "literal": "Feng Lin"
+    },
+    {
+      "literal": "Tao Peng"
+    },
+    {
+      "literal": "Xin Liu"
+    },
+    {
+      "literal": "Guang Shi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2501.12326",
+  "genre": "preprint",
+  "version": "1"
+}

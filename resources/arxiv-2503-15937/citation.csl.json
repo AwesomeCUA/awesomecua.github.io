@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2503.15937",
+  "citation-key": "arxiv_2503_15937",
+  "type": "article",
+  "title": "Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment",
+  "URL": "https://arxiv.org/abs/2503.15937v5",
+  "custom": {
+    "catalog_id": "arxiv:2503.15937",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2503.15937",
+    "identifiers": {
+      "arxiv": "2503.15937"
+    },
+    "first_published_at": "2025-03-20",
+    "record_updated_at": "2026-02-21",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6449576cb8ba45569b57844d87f22d01645b3639a222c648d914dc38e3421553",
+      "submitted_at": "2025-03-20T08:25:00Z",
+      "updated_at": "2026-02-21T01:36:43Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2503.15937v5"
+    }
+  },
+  "note": "First published: 2025-03-20; Recorded arXiv version: v5; Recorded version updated: 2026-02-21T01:36:43Z.",
+  "author": [
+    {
+      "literal": "Gaole Dai"
+    },
+    {
+      "literal": "Shiqi Jiang"
+    },
+    {
+      "literal": "Ting Cao"
+    },
+    {
+      "literal": "Yuanchun Li"
+    },
+    {
+      "literal": "Yuqing Yang"
+    },
+    {
+      "literal": "Rui Tan"
+    },
+    {
+      "literal": "Mo Li"
+    },
+    {
+      "literal": "Lili Qiu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.15937",
+  "genre": "preprint",
+  "version": "5"
+}

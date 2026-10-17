@@ -1,0 +1,95 @@
+{
+  "aliases": [],
+  "authors": [
+    "Zhixiong Zeng",
+    "Jing Huang",
+    "Liming Zheng",
+    "Wenkang Han",
+    "Yufeng Zhong",
+    "Lei Chen",
+    "Longrong Yang",
+    "Yingjie Chu",
+    "Yuzhi He",
+    "Lin Ma"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b2a14819c7d7e8258947c9db8cc89012f4d133eaced4e4b904c3bfd1761181e5",
+      "submitted_at": "2025-08-29T16:40:57Z",
+      "updated_at": "2025-08-29T16:40:57Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2508.21767v1"
+    }
+  },
+  "environments": [
+    "desktop",
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:50Z",
+      "role": "primary",
+      "sha256": "26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:50Z",
+      "role": "primary",
+      "sha256": "26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2508.21767",
+  "identifiers": {
+    "arxiv": "2508.21767"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:50Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2508.21767"
+    }
+  ],
+  "name": "UItron: Foundational GUI Agent with Advanced Perception and Planning",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2025-08-29",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "UItron combines GUI perception and planning data engineering with supervised training and curriculum reinforcement learning in connected mobile and PC environments. It also collects more than one million operation steps across 100 Chinese apps and builds offline and online evaluation environments.",
+  "topics": [
+    "data-generation",
+    "reinforcement-learning",
+    "planning",
+    "grounding"
+  ],
+  "updated_at": "2025-08-29",
+  "url": "https://arxiv.org/abs/2508.21767"
+}

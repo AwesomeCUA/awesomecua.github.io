@@ -16,9 +16,16 @@ Bibliographic record for Towards Automated Crowdsourced Testing via Personified-
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-24160/record.json
+
 ## Authors
 
 Shengcheng Yu, Yuchen Ling, Chunrong Fang, Zhenyu Chen, Chunyang Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-24160/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-24160/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,91 @@
+{
+  "aliases": [],
+  "authors": [
+    "Yichun Zhang",
+    "Xiangwu Guo",
+    "Yauhong Goh",
+    "Jessica Hu",
+    "Zhiheng Chen",
+    "Xin Wang",
+    "Difei Gao",
+    "Mike Zheng Shou"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "60c6a513f53c16ea6d989a7b2be56ad26b83e531bcea46b00f2e08476b686c97",
+      "submitted_at": "2026-01-12T04:04:20Z",
+      "updated_at": "2026-01-12T04:04:20Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.07181v1"
+    }
+  },
+  "environments": [
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:43Z",
+      "role": "primary",
+      "sha256": "c432f419481a105a8ce71174ec4aea23c4f0d36ddf89cfe1d0974fa349f6cb59",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=400&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:43Z",
+      "role": "primary",
+      "sha256": "c432f419481a105a8ce71174ec4aea23c4f0d36ddf89cfe1d0974fa349f6cb59",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=400&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2601.07181",
+  "identifiers": {
+    "arxiv": "2601.07181"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:43Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2601.07181"
+    }
+  ],
+  "name": "ShowUI-Aloha: Human-Taught GUI Agent",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2026-01-12",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Transforms human screen recordings and input events into annotated demonstrations used by planning and execution components for GUI tasks.",
+  "topics": [
+    "recording",
+    "workflow",
+    "data-generation"
+  ],
+  "updated_at": "2026-01-12",
+  "url": "https://arxiv.org/abs/2601.07181"
+}

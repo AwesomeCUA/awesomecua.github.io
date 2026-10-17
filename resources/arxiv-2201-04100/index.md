@@ -16,9 +16,16 @@ Bibliographic record for Learning to Denoise Raw Mobile UI Layouts for Improving
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2201-04100/record.json
+
 ## Authors
 
 Gang Li, Gilles Baechler, Manuel Tragut, Yang Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2201-04100/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2201-04100/citation.csl.json
 
 ## Recorded arXiv snapshot
 

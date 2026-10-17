@@ -16,9 +16,16 @@ Bibliographic record for Detecting Active Attacks in Over-the-Air Computation us
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2312-08950/record.json
+
 ## Authors
 
 David Nordlund, Zheng Chen, Erik G. Larsson
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2312-08950/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2312-08950/citation.csl.json
 
 ## Recorded arXiv snapshot
 

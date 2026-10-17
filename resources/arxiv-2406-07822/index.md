@@ -16,9 +16,16 @@ Textual Foresight learns UI representations by describing the future screen expe
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-07822/record.json
+
 ## Authors
 
 Andrea Burns, Kate Saenko, Bryan A. Plummer
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-07822/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-07822/citation.csl.json
 
 ## Recorded arXiv snapshot
 

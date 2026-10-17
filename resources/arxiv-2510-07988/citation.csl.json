@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2510.07988",
+  "citation-key": "arxiv_2510_07988",
+  "type": "article",
+  "title": "ReInAgent: A Context-Aware GUI Agent Enabling Human-in-the-Loop Mobile Task Navigation",
+  "URL": "https://arxiv.org/abs/2510.07988v1",
+  "custom": {
+    "catalog_id": "arxiv:2510.07988",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.07988",
+    "identifiers": {
+      "arxiv": "2510.07988"
+    },
+    "first_published_at": "2025-10-09",
+    "record_updated_at": "2025-10-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9460a0926936d3db23c36c6c0e069d664265a8a9513c08c1a04f5a49970d6567",
+      "submitted_at": "2025-10-09T09:22:05Z",
+      "updated_at": "2025-10-09T09:22:05Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2510.07988v1"
+    }
+  },
+  "note": "First published: 2025-10-09; Recorded arXiv version: v1; Recorded version updated: 2025-10-09T09:22:05Z.",
+  "author": [
+    {
+      "literal": "Haitao Jia"
+    },
+    {
+      "literal": "Ming He"
+    },
+    {
+      "literal": "Zimo Yin"
+    },
+    {
+      "literal": "Likang Wu"
+    },
+    {
+      "literal": "Jianping Fan"
+    },
+    {
+      "literal": "Jitao Sang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.07988",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2303.06463",
+  "citation-key": "arxiv_2303_06463",
+  "type": "article",
+  "title": "Power efficient ReLU design for neuromorphic computing using spin Hall effect",
+  "URL": "https://arxiv.org/abs/2303.06463v1",
+  "custom": {
+    "catalog_id": "arxiv:2303.06463",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2303.06463",
+    "identifiers": {
+      "arxiv": "2303.06463"
+    },
+    "first_published_at": "2023-03-11",
+    "record_updated_at": "2023-03-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7feb19db8c64b32d373a12d53c79a6b3c1df098eec6c7cc06ce61376ff1e08e3",
+      "submitted_at": "2023-03-11T17:27:22Z",
+      "updated_at": "2023-03-11T17:27:22Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2303.06463v1"
+    }
+  },
+  "note": "First published: 2023-03-11; Recorded arXiv version: v1; Recorded version updated: 2023-03-11T17:27:22Z.",
+  "author": [
+    {
+      "literal": "Venkatesh Vadde"
+    },
+    {
+      "literal": "Bhaskaran Muralidharan"
+    },
+    {
+      "literal": "Abhishek Sharma"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        3,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2303.06463",
+  "genre": "preprint",
+  "version": "1"
+}

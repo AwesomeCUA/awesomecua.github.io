@@ -16,9 +16,16 @@ Bibliographic record for Enhanced delegated computing using coherence. Title, au
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1501-06730/record.json
+
 ## Authors
 
 Stefanie Barz, Vedran Dunjko, Florian Schlederer, Merritt Moore, Elham Kashefi, Ian A. Walmsley
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1501-06730/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1501-06730/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Speculative Rollback Correction for Quality-Diverse Web
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-12485/record.json
+
 ## Authors
 
 Longkun Hao, Hongyu Lin, Hao Li, Zhuowen Liu, Zhichao Yang, Haojie Hao, Dongshuo Huang, Haitao Yang, Hongyu Ge, Ming jie Xie, Yanjun Wu, Zi Hao Yin, Yan Bai, Yihang Lou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-12485/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-12485/citation.csl.json
 
 ## Recorded arXiv snapshot
 

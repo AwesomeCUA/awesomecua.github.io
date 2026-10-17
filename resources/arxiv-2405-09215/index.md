@@ -16,9 +16,16 @@ Bibliographic record for Xmodel-VLM: A Simple Baseline for Multimodal Vision Lan
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2405-09215/record.json
+
 ## Authors
 
 Wanting Xu, Yang Liu, Langping He, Xucheng Huang, Ling Jiang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2405-09215/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-09215/citation.csl.json
 
 ## Recorded arXiv snapshot
 

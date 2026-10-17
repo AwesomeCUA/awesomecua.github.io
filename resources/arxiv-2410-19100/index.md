@@ -16,9 +16,16 @@ Evaluates whether web agents can retain procedural skills and factual informatio
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-19100/record.json
+
 ## Authors
 
 Lawrence Jang, Yinheng Li, Dan Zhao, Charles Ding, Justin Lin, Paul Pu Liang, Rogerio Bonatti, Kazuhito Koishida
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-19100/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-19100/citation.csl.json
 
 ## Recorded arXiv snapshot
 

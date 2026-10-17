@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:2311.12960",
+  "citation-key": "arxiv_2311_12960",
+  "type": "article",
+  "title": "Teaching Quantum Computing using Microsoft Quantum Development Kit and Azure Quantum",
+  "URL": "https://arxiv.org/abs/2311.12960v2",
+  "custom": {
+    "catalog_id": "arxiv:2311.12960",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2311.12960",
+    "identifiers": {
+      "arxiv": "2311.12960"
+    },
+    "first_published_at": "2023-11-21",
+    "record_updated_at": "2023-12-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2e9f519c737eff3384333269d68c6b78c0236d634c87566cab93389dd45eb5d8",
+      "submitted_at": "2023-11-21T19:55:23Z",
+      "updated_at": "2023-12-15T23:37:14Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2311.12960v2"
+    }
+  },
+  "note": "First published: 2023-11-21; Recorded arXiv version: v2; Recorded version updated: 2023-12-15T23:37:14Z.",
+  "author": [
+    {
+      "literal": "Mariia Mykhailova"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.12960",
+  "genre": "preprint",
+  "version": "2"
+}

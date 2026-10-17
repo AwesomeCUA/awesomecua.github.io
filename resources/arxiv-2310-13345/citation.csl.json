@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2310.13345",
+  "citation-key": "arxiv_2310_13345",
+  "type": "article",
+  "title": "An LLM can Fool Itself: A Prompt-Based Adversarial Attack",
+  "URL": "https://arxiv.org/abs/2310.13345v1",
+  "custom": {
+    "catalog_id": "arxiv:2310.13345",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2310.13345",
+    "identifiers": {
+      "arxiv": "2310.13345"
+    },
+    "first_published_at": "2023-10-20",
+    "record_updated_at": "2023-10-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f0575dc1e01cbad3f6321dd0ecfc995b7a8f0ad00d5d9e43163ee80a39170da8",
+      "submitted_at": "2023-10-20T08:16:46Z",
+      "updated_at": "2023-10-20T08:16:46Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2310.13345v1"
+    }
+  },
+  "note": "First published: 2023-10-20; Recorded arXiv version: v1; Recorded version updated: 2023-10-20T08:16:46Z.",
+  "author": [
+    {
+      "literal": "Xilie Xu"
+    },
+    {
+      "literal": "Keyi Kong"
+    },
+    {
+      "literal": "Ning Liu"
+    },
+    {
+      "literal": "Lizhen Cui"
+    },
+    {
+      "literal": "Di Wang"
+    },
+    {
+      "literal": "Jingfeng Zhang"
+    },
+    {
+      "literal": "Mohan Kankanhalli"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2310.13345",
+  "genre": "preprint",
+  "version": "1"
+}

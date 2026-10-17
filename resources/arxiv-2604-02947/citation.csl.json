@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2604.02947",
+  "citation-key": "arxiv_2604_02947",
+  "type": "article",
+  "title": "AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2604.02947v2",
+  "custom": {
+    "catalog_id": "arxiv:2604.02947",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.02947",
+    "identifiers": {
+      "arxiv": "2604.02947"
+    },
+    "first_published_at": "2026-04-03",
+    "record_updated_at": "2026-09-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "04d7feef296b78f107d7a718f8784962359a29a44569c4f128d89ad5640c736b",
+      "submitted_at": "2026-04-03T10:29:31Z",
+      "updated_at": "2026-09-22T02:57:31Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2604.02947v2"
+    }
+  },
+  "note": "First published: 2026-04-03; Recorded arXiv version: v2; Recorded version updated: 2026-09-22T02:57:31Z.",
+  "author": [
+    {
+      "literal": "Yunhao Feng"
+    },
+    {
+      "literal": "Yifan Ding"
+    },
+    {
+      "literal": "Yingshui Tan"
+    },
+    {
+      "literal": "Xingjun Ma"
+    },
+    {
+      "literal": "Yige Li"
+    },
+    {
+      "literal": "Yutao Wu"
+    },
+    {
+      "literal": "Yifeng Gao"
+    },
+    {
+      "literal": "Kun Zhai"
+    },
+    {
+      "literal": "Yanming Guo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.02947",
+  "genre": "preprint",
+  "version": "2"
+}

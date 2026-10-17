@@ -16,9 +16,16 @@ Bibliographic record for BlenderLLM: Training Large Language Models for Computer
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-14203/record.json
+
 ## Authors
 
 Yuhao Du, Shunian Chen, Wenbo Zan, Peizhao Li, Mingxuan Wang, Dingjie Song, Bo Li, Yan Hu, Benyou Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-14203/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-14203/citation.csl.json
 
 ## Recorded arXiv snapshot
 

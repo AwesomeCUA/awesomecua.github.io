@@ -16,9 +16,16 @@ Bibliographic record for Improving Proficiency and Efficiency of Android GUI Age
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-06792/record.json
+
 ## Authors
 
 Juyong Lee, Woogyeol Jin, Kimin Lee
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-06792/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-06792/citation.csl.json
 
 ## Recorded arXiv snapshot
 

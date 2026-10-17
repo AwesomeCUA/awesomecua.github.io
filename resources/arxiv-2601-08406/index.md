@@ -16,9 +16,16 @@ Introduces WebTrap Park, a platform that turns web-agent security risks into exe
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-08406/record.json
+
 ## Authors
 
 Xinyi Wu, Jiagui Chen, Geng Hong, Jiayi Dong, Xudong Pan, Jiarun Dai, Min Yang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-08406/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-08406/citation.csl.json
 
 ## Recorded arXiv snapshot
 

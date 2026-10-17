@@ -16,9 +16,16 @@ Bibliographic record for GUI-KV: Efficient GUI Agents via KV Cache with Spatio-T
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-00536/record.json
+
 ## Authors
 
 Kung-Hsiang Huang, Haoyi Qiu, Yutong Dai, Caiming Xiong, Chien-Sheng Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-00536/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-00536/citation.csl.json
 
 ## Recorded arXiv snapshot
 

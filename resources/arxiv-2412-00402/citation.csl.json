@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2412.00402",
+  "citation-key": "arxiv_2412_00402",
+  "type": "article",
+  "title": "DroidCall: A Dataset for LLM-powered Android Intent Invocation",
+  "URL": "https://arxiv.org/abs/2412.00402v1",
+  "custom": {
+    "catalog_id": "arxiv:2412.00402",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2412.00402",
+    "identifiers": {
+      "arxiv": "2412.00402"
+    },
+    "first_published_at": "2024-11-30",
+    "record_updated_at": "2024-11-30",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9c22d6a9aafb89e5628198fb4f6ea50fe40b1e955a2fa367571459753cea61df",
+      "submitted_at": "2024-11-30T08:55:39Z",
+      "updated_at": "2024-11-30T08:55:39Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2412.00402v1"
+    }
+  },
+  "note": "First published: 2024-11-30; Recorded arXiv version: v1; Recorded version updated: 2024-11-30T08:55:39Z.",
+  "author": [
+    {
+      "literal": "Weikai Xie"
+    },
+    {
+      "literal": "Li Zhang"
+    },
+    {
+      "literal": "Shihe Wang"
+    },
+    {
+      "literal": "Rongjie Yi"
+    },
+    {
+      "literal": "Mengwei Xu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.00402",
+  "genre": "preprint",
+  "version": "1"
+}

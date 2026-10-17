@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2206.12839",
+  "citation-key": "arxiv_2206_12839",
+  "type": "article",
+  "title": "Repository-Level Prompt Generation for Large Language Models of Code",
+  "URL": "https://arxiv.org/abs/2206.12839v3",
+  "custom": {
+    "catalog_id": "arxiv:2206.12839",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2206.12839",
+    "identifiers": {
+      "arxiv": "2206.12839"
+    },
+    "first_published_at": "2022-06-26",
+    "record_updated_at": "2023-06-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d2af01219f5119954d3568903179a5be96f2c856e5019043622bdf252909af6a",
+      "submitted_at": "2022-06-26T10:51:25Z",
+      "updated_at": "2023-06-05T18:43:50Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2206.12839v3"
+    }
+  },
+  "note": "First published: 2022-06-26; Recorded arXiv version: v3; Recorded version updated: 2023-06-05T18:43:50Z.",
+  "author": [
+    {
+      "literal": "Disha Shrivastava"
+    },
+    {
+      "literal": "Hugo Larochelle"
+    },
+    {
+      "literal": "Daniel Tarlow"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        6,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2206.12839",
+  "genre": "preprint",
+  "version": "3"
+}

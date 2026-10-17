@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:1307.3088",
+  "citation-key": "arxiv_1307_3088",
+  "type": "article",
+  "title": "The Declaratron, semantic specification for scientific computation using MathML",
+  "URL": "https://arxiv.org/abs/1307.3088v1",
+  "custom": {
+    "catalog_id": "arxiv:1307.3088",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1307.3088",
+    "identifiers": {
+      "arxiv": "1307.3088"
+    },
+    "first_published_at": "2013-07-11",
+    "record_updated_at": "2013-07-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "38f8d515d8e5ba7e0ba7fde396ebbb23f1e983e58c748b37c83e44fd9e9486c0",
+      "submitted_at": "2013-07-11T12:35:11Z",
+      "updated_at": "2013-07-11T12:35:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1307.3088v1"
+    }
+  },
+  "note": "First published: 2013-07-11; Recorded arXiv version: v1; Recorded version updated: 2013-07-11T12:35:11Z.",
+  "author": [
+    {
+      "literal": "Dave Murray-Rust"
+    },
+    {
+      "literal": "Peter Murray-Rust"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2013,
+        7,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1307.3088",
+  "genre": "preprint",
+  "version": "1"
+}

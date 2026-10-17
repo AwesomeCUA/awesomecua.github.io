@@ -16,6 +16,8 @@ Publisher or product brand associated with BrowserAct computer-use or browser au
 
 Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
 
+- Record JSON: https://awesomecua.github.io/resources/organization-browseract/record.json
+
 ## License declarations
 
 - code: not recorded

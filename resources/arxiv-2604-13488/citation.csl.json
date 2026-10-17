@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2604.13488",
+  "citation-key": "arxiv_2604_13488",
+  "type": "article",
+  "title": "Towards Scalable Lightweight GUI Agents via Multi-role Orchestration",
+  "URL": "https://arxiv.org/abs/2604.13488v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.13488",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.13488",
+    "identifiers": {
+      "arxiv": "2604.13488"
+    },
+    "first_published_at": "2026-04-15",
+    "record_updated_at": "2026-04-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "54cbfa1e0e7848b6022ae0b52f3a4ca94202fcb47e36e4e70ad8f3c0d36a11d6",
+      "submitted_at": "2026-04-15T05:23:04Z",
+      "updated_at": "2026-04-15T05:23:04Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.13488v1"
+    }
+  },
+  "note": "First published: 2026-04-15; Recorded arXiv version: v1; Recorded version updated: 2026-04-15T05:23:04Z.",
+  "author": [
+    {
+      "literal": "Ziwei Wang"
+    },
+    {
+      "literal": "Junjie Zheng"
+    },
+    {
+      "literal": "Leyang Yang"
+    },
+    {
+      "literal": "Sheng Zhou"
+    },
+    {
+      "literal": "Xiaoxuan Tang"
+    },
+    {
+      "literal": "Zhouhua Fang"
+    },
+    {
+      "literal": "Zhiwei Liu"
+    },
+    {
+      "literal": "Dajun Chen"
+    },
+    {
+      "literal": "Yong Li"
+    },
+    {
+      "literal": "Jiajun Bu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.13488",
+  "genre": "preprint",
+  "version": "1"
+}

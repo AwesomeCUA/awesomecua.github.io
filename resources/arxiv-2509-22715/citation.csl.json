@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2509.22715",
+  "citation-key": "arxiv_2509_22715",
+  "type": "article",
+  "title": "TRUEBench: Can LLM Response Meet Real-world Constraints as Productivity Assistant?",
+  "URL": "https://arxiv.org/abs/2509.22715v1",
+  "custom": {
+    "catalog_id": "arxiv:2509.22715",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.22715",
+    "identifiers": {
+      "arxiv": "2509.22715"
+    },
+    "first_published_at": "2025-09-24",
+    "record_updated_at": "2025-09-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ce6f90688112c42387eeed2e6a8e107e5026a1f8ab2a5d8814052eeabb282892",
+      "submitted_at": "2025-09-24T08:05:32Z",
+      "updated_at": "2025-09-24T08:05:32Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2509.22715v1"
+    }
+  },
+  "note": "First published: 2025-09-24; Recorded arXiv version: v1; Recorded version updated: 2025-09-24T08:05:32Z.",
+  "author": [
+    {
+      "literal": "Jiho Park"
+    },
+    {
+      "literal": "Jongyoon Song"
+    },
+    {
+      "literal": "Minjin Choi"
+    },
+    {
+      "literal": "Kyuho Heo"
+    },
+    {
+      "literal": "Taehun Huh"
+    },
+    {
+      "literal": "Ji Won Kim"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.22715",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Mobile GUI Agents under Real-world Threats: Are We Ther
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-04227/record.json
+
 ## Authors
 
 Guohong Liu, Jialei Ye, Jiacheng Liu, Yuanchun Li, Wei Liu, Pengzhi Gao, Jian Luan, Yunxin Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-04227/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-04227/citation.csl.json
 
 ## Recorded arXiv snapshot
 

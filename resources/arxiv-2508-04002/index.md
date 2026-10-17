@@ -16,9 +16,16 @@ Bibliographic record for CAD-Judge: Toward Efficient Morphological Grading and V
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-04002/record.json
+
 ## Authors
 
 Zheyuan Zhou, Jiayi Han, Liang Du, Naiyu Fang, Lemiao Qiu, Shuyou Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-04002/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-04002/citation.csl.json
 
 ## Recorded arXiv snapshot
 

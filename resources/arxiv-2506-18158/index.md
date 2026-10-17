@@ -16,9 +16,16 @@ Chain-of-Memory explicitly records action descriptions and task-relevant screen 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-18158/record.json
+
 ## Authors
 
 Xinzge Gao, Chuanrui Hu, Bin Chen, Teng Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-18158/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-18158/citation.csl.json
 
 ## Recorded arXiv snapshot
 

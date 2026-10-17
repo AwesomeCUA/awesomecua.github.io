@@ -16,9 +16,16 @@ Bibliographic record for G-Memory: Tracing Hierarchical Memory for Multi-Agent S
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-07398/record.json
+
 ## Authors
 
 Guibin Zhang, Muxin Fu, Guancheng Wan, Miao Yu, Kun Wang, Shuicheng Yan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-07398/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-07398/citation.csl.json
 
 ## Recorded arXiv snapshot
 

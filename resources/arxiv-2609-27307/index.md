@@ -16,9 +16,16 @@ Bibliographic record for Learn How to Act from Your Own Interactions: On-Policy 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-27307/record.json
+
 ## Authors
 
 Yan Zhang, Daiqing Wu, Huawen Shen, Liang Li, Gang Cao, Zhi Gong, Wei Dai, Xiaode Zhang, Can Ma, Yu Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-27307/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-27307/citation.csl.json
 
 ## Recorded arXiv snapshot
 

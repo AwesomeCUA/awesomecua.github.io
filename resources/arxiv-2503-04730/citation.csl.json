@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2503.04730",
+  "citation-key": "arxiv_2503_04730",
+  "type": "article",
+  "title": "WinClick: GUI Grounding with Multimodal Large Language Models",
+  "URL": "https://arxiv.org/abs/2503.04730v1",
+  "custom": {
+    "catalog_id": "arxiv:2503.04730",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2503.04730",
+    "identifiers": {
+      "arxiv": "2503.04730"
+    },
+    "first_published_at": "2025-01-27",
+    "record_updated_at": "2025-01-27",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cc499e361f0bc46c3c5ee5a8abebd911396e383a004655de56db1ec7cec8e231",
+      "submitted_at": "2025-01-27T08:29:17Z",
+      "updated_at": "2025-01-27T08:29:17Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2503.04730v1"
+    }
+  },
+  "note": "First published: 2025-01-27; Recorded arXiv version: v1; Recorded version updated: 2025-01-27T08:29:17Z.",
+  "author": [
+    {
+      "literal": "Zheng Hui"
+    },
+    {
+      "literal": "Yinheng Li"
+    },
+    {
+      "literal": "Dan zhao"
+    },
+    {
+      "literal": "Tianyi Chen"
+    },
+    {
+      "literal": "Colby Banbury"
+    },
+    {
+      "literal": "Kazuhito Koishida"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.04730",
+  "genre": "preprint",
+  "version": "1"
+}

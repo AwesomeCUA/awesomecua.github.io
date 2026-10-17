@@ -16,9 +16,16 @@ Bibliographic record for Interactive Task and Concept Learning from Natural Lang
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1909-00031/record.json
+
 ## Authors
 
 Toby Jia-Jun Li, Marissa Radensky, Justin Jia, Kirielle Singarajah, Tom M. Mitchell, Brad A. Myers
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1909-00031/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1909-00031/citation.csl.json
 
 ## Recorded arXiv snapshot
 

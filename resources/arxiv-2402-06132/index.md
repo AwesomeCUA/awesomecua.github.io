@@ -16,9 +16,16 @@ Bibliographic record for TETRIS: Towards Exploring the Robustness of Interactive
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-06132/record.json
+
 ## Authors
 
 Andrey Moskalenko, Vlad Shakhuro, Anna Vorontsova, Anton Konushin, Anton Antonov, Alexander Krapukhin, Denis Shepelev, Konstantin Soshin
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-06132/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-06132/citation.csl.json
 
 ## Recorded arXiv snapshot
 

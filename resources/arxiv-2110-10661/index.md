@@ -16,9 +16,16 @@ Bibliographic record for SILG: The Multi-environment Symbolic Interactive Langua
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2110-10661/record.json
+
 ## Authors
 
 Victor Zhong, Austin W. Hanjie, Sida I. Wang, Karthik Narasimhan, Luke Zettlemoyer
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2110-10661/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2110-10661/citation.csl.json
 
 ## Recorded arXiv snapshot
 

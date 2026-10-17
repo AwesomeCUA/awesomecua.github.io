@@ -16,6 +16,8 @@ Sandbox environments supporting computer and browser interaction.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-agent-infra-sandbox/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/agent-infra/sandbox/HEAD/LICENSE

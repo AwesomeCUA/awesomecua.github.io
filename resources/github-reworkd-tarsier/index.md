@@ -16,6 +16,8 @@ Visual and text representation tools for browser agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-reworkd-tarsier/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/reworkd/tarsier/HEAD/LICENSE

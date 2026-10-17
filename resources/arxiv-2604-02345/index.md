@@ -16,9 +16,16 @@ Bibliographic record for UI-Oceanus: Scaling GUI Agents with Synthetic Environme
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-02345/record.json
+
 ## Authors
 
 Mengzhou Wu, Yuzhe Guo, Yuan Cao, Haochuan Lu, Songhe Zhu, Pingzhe Qu, Xin Chen, Kang Qin, Zhongpu Wang, Xiaode Zhang, Xinyi Wang, Wei Dai, Gang Cao, Yuetang Deng, Zhi Gong, Dezhi Ran, Linyi Li, Wei Yang, Tao Xie
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-02345/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-02345/citation.csl.json
 
 ## Recorded arXiv snapshot
 

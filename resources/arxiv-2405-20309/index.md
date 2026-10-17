@@ -16,9 +16,16 @@ Examines self-improvement by fine-tuning web agents on three mixtures of model-g
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2405-20309/record.json
+
 ## Authors
 
 Ajay Patel, Markus Hofmarcher, Claudiu Leoveanu-Condrei, Marius-Constantin Dinu, Chris Callison-Burch, Sepp Hochreiter
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2405-20309/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-20309/citation.csl.json
 
 ## Recorded arXiv snapshot
 

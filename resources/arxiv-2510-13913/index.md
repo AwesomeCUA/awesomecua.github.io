@@ -16,9 +16,16 @@ Bibliographic record for Synthesizing Agentic Data for Web Agents with Progressi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-13913/record.json
+
 ## Authors
 
 Shrey Pandit, Xuan-Phi Nguyen, Yifei Ming, Austin Xu, Jiayu Wang, Caiming Xiong, Shafiq Joty
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-13913/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-13913/citation.csl.json
 
 ## Recorded arXiv snapshot
 

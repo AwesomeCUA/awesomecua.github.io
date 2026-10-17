@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2507.15846",
+  "citation-key": "arxiv_2507_15846",
+  "type": "article",
+  "title": "GUI-G$^2$: Gaussian Reward Modeling for GUI Grounding",
+  "URL": "https://arxiv.org/abs/2507.15846v3",
+  "custom": {
+    "catalog_id": "arxiv:2507.15846",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2507.15846",
+    "identifiers": {
+      "arxiv": "2507.15846"
+    },
+    "first_published_at": "2025-07-21",
+    "record_updated_at": "2025-07-28",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d2a2a49373259cb5903fad8c2fb48a7380732642bedd81a644e735af4f028c63",
+      "submitted_at": "2025-07-21T17:53:42Z",
+      "updated_at": "2025-07-28T16:54:13Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2507.15846v3"
+    }
+  },
+  "note": "First published: 2025-07-21; Recorded arXiv version: v3; Recorded version updated: 2025-07-28T16:54:13Z.",
+  "author": [
+    {
+      "literal": "Fei Tang"
+    },
+    {
+      "literal": "Zhangxuan Gu"
+    },
+    {
+      "literal": "Zhengxi Lu"
+    },
+    {
+      "literal": "Xuyang Liu"
+    },
+    {
+      "literal": "Shuheng Shen"
+    },
+    {
+      "literal": "Changhua Meng"
+    },
+    {
+      "literal": "Wen Wang"
+    },
+    {
+      "literal": "Wenqi Zhang"
+    },
+    {
+      "literal": "Yongliang Shen"
+    },
+    {
+      "literal": "Weiming Lu"
+    },
+    {
+      "literal": "Jun Xiao"
+    },
+    {
+      "literal": "Yueting Zhuang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.15846",
+  "genre": "preprint",
+  "version": "3"
+}

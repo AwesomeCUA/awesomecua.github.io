@@ -16,9 +16,16 @@ Develops multimodal browser agents through repeated cycles of real-web explorati
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-19609/record.json
+
 ## Authors
 
 Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Hongming Zhang, Tianqing Fang, Zhenzhong Lan, Dong Yu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-19609/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-19609/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Introduces AutoGUIWorld, which combines task planning and image editing to synth
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-01215/record.json
+
 ## Authors
 
 Cheng Yang, Yifan Wu, Yutao Huang, Zhaohua Zhang, Beiduo Chen, Muxi Chen, Chenchen Zhao, Hexuan Deng, Haolin Yang, Geyuan Zhu, Sa Zhu, Jianhuan Zhuo, Qiuyong Xiao, Jianhao Ruan, Yiran Peng, Jiayi Zhang, Tian Ye, Xinlei Yu, Tianwen Jiang, Jihong Zhang, Yuyu Luo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-01215/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-01215/citation.csl.json
 
 ## Recorded arXiv snapshot
 

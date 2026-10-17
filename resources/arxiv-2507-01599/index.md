@@ -16,9 +16,16 @@ Bibliographic record for Data Agent: A Holistic Architecture for Orchestrating D
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-01599/record.json
+
 ## Authors
 
 Zhaoyan Sun, Jiayi Wang, Xinyang Zhao, Jiachi Wang, Guoliang Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-01599/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-01599/citation.csl.json
 
 ## Recorded arXiv snapshot
 

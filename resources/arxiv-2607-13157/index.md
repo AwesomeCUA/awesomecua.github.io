@@ -16,9 +16,16 @@ Bibliographic record for Oracle Agent Memory as an Enterprise Memory Substrate f
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-13157/record.json
+
 ## Authors
 
 Richmond Alake, Cesare Bernardis, Paul Cayet, Luca Engel, Damien Hilloulin, Sungpack Hong, Allen Hosler, Nickolas Kavantzas, Ingo Kossyk, Son Le, Rhicheek Patra, Kartik Talamadupula, Valentin Venzin
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-13157/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-13157/citation.csl.json
 
 ## Recorded arXiv snapshot
 

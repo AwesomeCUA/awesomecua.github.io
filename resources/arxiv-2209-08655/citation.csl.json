@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2209.08655",
+  "citation-key": "arxiv_2209_08655",
+  "type": "article",
+  "title": "Enabling Conversational Interaction with Mobile UI using Large Language Models",
+  "URL": "https://arxiv.org/abs/2209.08655v2",
+  "custom": {
+    "catalog_id": "arxiv:2209.08655",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2209.08655",
+    "identifiers": {
+      "arxiv": "2209.08655"
+    },
+    "first_published_at": "2022-09-18",
+    "record_updated_at": "2023-02-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "65813c1784ba00e354aff4e38796b1bdc8e9b691cba9dd56b8232b5d86555d1b",
+      "submitted_at": "2022-09-18T20:58:39Z",
+      "updated_at": "2023-02-17T21:24:09Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2209.08655v2"
+    }
+  },
+  "note": "First published: 2022-09-18; Recorded arXiv version: v2; Recorded version updated: 2023-02-17T21:24:09Z.",
+  "author": [
+    {
+      "literal": "Bryan Wang"
+    },
+    {
+      "literal": "Gang Li"
+    },
+    {
+      "literal": "Yang Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        9,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2209.08655",
+  "genre": "preprint",
+  "version": "2"
+}

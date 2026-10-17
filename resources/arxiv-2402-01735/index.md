@@ -16,9 +16,16 @@ Bibliographic record for VIALM: A Survey and Benchmark of Visually Impaired Assi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-01735/record.json
+
 ## Authors
 
 Yi Zhao, Yilin Zhang, Rong Xiang, Jing Li, Hillming Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-01735/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-01735/citation.csl.json
 
 ## Recorded arXiv snapshot
 

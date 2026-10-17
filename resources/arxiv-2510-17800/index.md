@@ -16,9 +16,16 @@ Bibliographic record for Glyph: Scaling Context Windows via Visual-Text Compress
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-17800/record.json
+
 ## Authors
 
 Jiale Cheng, Yusen Liu, Xinyu Zhang, Yulin Fei, Wenyi Hong, Ruiliang Lyu, Weihan Wang, Zhe Su, Xiaotao Gu, Xiao Liu, Yushi Bai, Jie Tang, Hongning Wang, Minlie Huang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-17800/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-17800/citation.csl.json
 
 ## Recorded arXiv snapshot
 

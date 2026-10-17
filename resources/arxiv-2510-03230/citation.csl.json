@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2510.03230",
+  "citation-key": "arxiv_2510_03230",
+  "type": "article",
+  "title": "Improving GUI Grounding with Explicit Position-to-Coordinate Mapping",
+  "URL": "https://arxiv.org/abs/2510.03230v1",
+  "custom": {
+    "catalog_id": "arxiv:2510.03230",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.03230",
+    "identifiers": {
+      "arxiv": "2510.03230"
+    },
+    "first_published_at": "2025-10-03",
+    "record_updated_at": "2025-10-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7f0c7eedadb9a321b222d4081271d6c979a25e1f64714cea8cf2ff088c5e61df",
+      "submitted_at": "2025-10-03T17:59:34Z",
+      "updated_at": "2025-10-03T17:59:34Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2510.03230v1"
+    }
+  },
+  "note": "First published: 2025-10-03; Recorded arXiv version: v1; Recorded version updated: 2025-10-03T17:59:34Z.",
+  "author": [
+    {
+      "literal": "Suyuchen Wang"
+    },
+    {
+      "literal": "Tianyu Zhang"
+    },
+    {
+      "literal": "Ahmed Masry"
+    },
+    {
+      "literal": "Christopher Pal"
+    },
+    {
+      "literal": "Spandana Gella"
+    },
+    {
+      "literal": "Bang Liu"
+    },
+    {
+      "literal": "Perouz Taslakian"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.03230",
+  "genre": "preprint",
+  "version": "1"
+}

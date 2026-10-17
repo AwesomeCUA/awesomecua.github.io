@@ -16,9 +16,16 @@ DART separates GUI reinforcement learning into asynchronous environment, rollout
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-23866/record.json
+
 ## Authors
 
 Pengxiang Li, Zechen Hu, Zirui Shang, Jingrong Wu, Yang Liu, Hui Liu, Zhi Gao, Chenrui Shi, Bofei Zhang, Zihao Zhang, Xiaochuan Shi, Zedong YU, Yuwei Wu, Xinxiao Wu, Yunde Jia, Liuyu Xiang, Zhaofeng He, Qing Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-23866/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-23866/citation.csl.json
 
 ## Recorded arXiv snapshot
 

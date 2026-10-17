@@ -16,9 +16,16 @@ Bibliographic record for OpenAGI: When LLM Meets Domain Experts. Title, authors 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2304-04370/record.json
+
 ## Authors
 
 Yingqiang Ge, Wenyue Hua, Kai Mei, Jianchao Ji, Juntao Tan, Shuyuan Xu, Zelong Li, Yongfeng Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2304-04370/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2304-04370/citation.csl.json
 
 ## Recorded arXiv snapshot
 

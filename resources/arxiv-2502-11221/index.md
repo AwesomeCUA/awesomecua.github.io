@@ -16,9 +16,16 @@ Bibliographic record for PlanGenLLMs: A Modern Survey of LLM Planning Capabiliti
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-11221/record.json
+
 ## Authors
 
 Hui Wei, Zihao Zhang, Shenghua He, Tian Xia, Shijia Pan, Fei Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-11221/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-11221/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Learning from Reliable Negatives: Confidence-Anchored T
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-15307/record.json
+
 ## Authors
 
 Yizhou Liu, Fei Tang, Yuchen Yan, Zhengxi Lu, Songqin Nong, Tao Jiang, Wenhao Xu, Wenqi Zhang, Weiming Lu, Jun Xiao, Yongliang Shen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-15307/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-15307/citation.csl.json
 
 ## Recorded arXiv snapshot
 

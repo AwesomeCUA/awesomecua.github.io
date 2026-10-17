@@ -16,9 +16,16 @@ Introduces a vision-based grounding model trained with diverse synthetic instruc
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-16256/record.json
+
 ## Authors
 
 Yuhao Yang, Yue Wang, Dongxu Li, Ziyang Luo, Bei Chen, Chao Huang, Junnan Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-16256/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-16256/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Uses a staged reasoning-focused training framework to move GUI agents from react
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-14239/record.json
+
 ## Authors
 
 Yuhang Liu, Pengxiang Li, Congkai Xie, Xavier Hu, Xiaotian Han, Shengyu Zhang, Hongxia Yang, Fei Wu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-14239/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-14239/citation.csl.json
 
 ## Recorded arXiv snapshot
 

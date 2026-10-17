@@ -16,9 +16,16 @@ Bibliographic record for StepJack: Benchmarking Computer-Use Agent Safety Agains
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-06477/record.json
+
 ## Authors
 
 Zhuoxin Zhan, Akbar Rafiey, Avery Ma, Leila Pishdad, Layla El Asri
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-06477/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-06477/citation.csl.json
 
 ## Recorded arXiv snapshot
 

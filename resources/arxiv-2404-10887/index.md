@@ -16,9 +16,16 @@ Bibliographic record for Grounded Language Agent for Product Search via Intellig
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-10887/record.json
+
 ## Authors
 
 Moghis Fereidouni, Adib Mosharrof, A. B. Siddique
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-10887/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-10887/citation.csl.json
 
 ## Recorded arXiv snapshot
 

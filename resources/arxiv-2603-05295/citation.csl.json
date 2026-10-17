@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2603.05295",
+  "citation-key": "arxiv_2603_05295",
+  "type": "article",
+  "title": "WebChain: A Large-Scale Human-Annotated Dataset of Real-World Web Interaction Traces",
+  "URL": "https://arxiv.org/abs/2603.05295v3",
+  "custom": {
+    "catalog_id": "arxiv:2603.05295",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2603.05295",
+    "identifiers": {
+      "arxiv": "2603.05295"
+    },
+    "first_published_at": "2026-03-05",
+    "record_updated_at": "2026-04-14",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "db52246d9f5f305046e6dd14f2ef15440c371678e1db0d05282c84a3667c6f10",
+      "submitted_at": "2026-03-05T15:37:34Z",
+      "updated_at": "2026-04-14T08:41:56Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2603.05295v3"
+    }
+  },
+  "note": "First published: 2026-03-05; Recorded arXiv version: v3; Recorded version updated: 2026-04-14T08:41:56Z.",
+  "author": [
+    {
+      "literal": "Sicheng Fan"
+    },
+    {
+      "literal": "Rui Wan"
+    },
+    {
+      "literal": "Yifei Leng"
+    },
+    {
+      "literal": "Gaoning Liang"
+    },
+    {
+      "literal": "Li Ling"
+    },
+    {
+      "literal": "Yanyi Shang"
+    },
+    {
+      "literal": "Dehan Kong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.05295",
+  "genre": "preprint",
+  "version": "3"
+}

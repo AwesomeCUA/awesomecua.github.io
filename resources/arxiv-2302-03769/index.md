@@ -16,9 +16,16 @@ Bibliographic record for Computational capability for physical reservoir computi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2302-03769/record.json
+
 ## Authors
 
 Terufumi Yamaguchi, Sumito Tsunegi, Kohei Nakajima, Tomohiro Taniguchi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2302-03769/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2302-03769/citation.csl.json
 
 ## Recorded arXiv snapshot
 

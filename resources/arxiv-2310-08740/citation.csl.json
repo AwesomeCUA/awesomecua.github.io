@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2310.08740",
+  "citation-key": "arxiv_2310_08740",
+  "type": "article",
+  "title": "A Zero-Shot Language Agent for Computer Control with Structured Reflection",
+  "URL": "https://arxiv.org/abs/2310.08740v3",
+  "custom": {
+    "catalog_id": "arxiv:2310.08740",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2310.08740",
+    "identifiers": {
+      "arxiv": "2310.08740"
+    },
+    "first_published_at": "2023-10-12",
+    "record_updated_at": "2023-10-23",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "95092986184a232af62c61fa2aedefb837851dce9e0ff7a1128a67d47edfde40",
+      "submitted_at": "2023-10-12T21:53:37Z",
+      "updated_at": "2023-10-23T17:39:51Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2310.08740v3"
+    }
+  },
+  "note": "First published: 2023-10-12; Recorded arXiv version: v3; Recorded version updated: 2023-10-23T17:39:51Z.",
+  "author": [
+    {
+      "literal": "Tao Li"
+    },
+    {
+      "literal": "Gang Li"
+    },
+    {
+      "literal": "Zhiwei Deng"
+    },
+    {
+      "literal": "Bryan Wang"
+    },
+    {
+      "literal": "Yang Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2310.08740",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -16,9 +16,16 @@ Studies a zero-shot computer-control agent that plans executable actions and org
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-08740/record.json
+
 ## Authors
 
 Tao Li, Gang Li, Zhiwei Deng, Bryan Wang, Yang Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-08740/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-08740/citation.csl.json
 
 ## Recorded arXiv snapshot
 

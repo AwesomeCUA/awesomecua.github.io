@@ -16,9 +16,16 @@ Bibliographic record for UI-Mem: Self-Evolving Experience Memory for Online Rein
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-05832/record.json
+
 ## Authors
 
 Han Xiao, Guozhi Wang, Hao Wang, Shilong Liu, Yuxiang Chai, Yue Pan, Yufeng Zhou, Xiaoxin Chen, Yafei Wen, Hongsheng Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-05832/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-05832/citation.csl.json
 
 ## Recorded arXiv snapshot
 

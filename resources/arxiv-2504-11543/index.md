@@ -16,9 +16,16 @@ Bibliographic record for REAL: Benchmarking Autonomous Agents on Deterministic S
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-11543/record.json
+
 ## Authors
 
 Divyansh Garg, Shaun VanWeelden, Diego Caples, Andis Draguns, Nikil Ravi, Pranav Putta, Naman Garg, Tomas Abraham, Michael Lara, Federico Lopez, James Liu, Atharva Gundawar, Prannay Hebbar, Youngchul Joo, Jindong Gu, Charles London, Christian Schroeder de Witt, Sumeet Motwani
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-11543/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-11543/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for InfiniteWeb: Scalable Web Environment Synthesis for GUI
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-04126/record.json
+
 ## Authors
 
 Ziyun Zhang, Zezhou Wang, Xiaoyi Zhang, Zongyu Guo, Jiahao Li, Bin Li, Yan Lu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-04126/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-04126/citation.csl.json
 
 ## Recorded arXiv snapshot
 

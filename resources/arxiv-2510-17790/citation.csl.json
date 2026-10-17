@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2510.17790",
+  "citation-key": "arxiv_2510_17790",
+  "type": "article",
+  "title": "UltraCUA: A Foundation Model for Computer Use Agents with Hybrid Action",
+  "URL": "https://arxiv.org/abs/2510.17790v3",
+  "custom": {
+    "catalog_id": "arxiv:2510.17790",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2510.17790",
+    "identifiers": {
+      "arxiv": "2510.17790"
+    },
+    "first_published_at": "2025-10-20",
+    "record_updated_at": "2026-05-26",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "33569f6ccca9c7e2675796191124424e76636828179c300d35da01ad9ccef1ce",
+      "submitted_at": "2025-10-20T17:48:26Z",
+      "updated_at": "2026-05-26T11:29:37Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2510.17790v3"
+    }
+  },
+  "note": "First published: 2025-10-20; Recorded arXiv version: v3; Recorded version updated: 2026-05-26T11:29:37Z.",
+  "author": [
+    {
+      "literal": "Yuhao Yang"
+    },
+    {
+      "literal": "Zhen Yang"
+    },
+    {
+      "literal": "Zi-Yi Dou"
+    },
+    {
+      "literal": "Anh Nguyen"
+    },
+    {
+      "literal": "Keen You"
+    },
+    {
+      "literal": "Omar Attia"
+    },
+    {
+      "literal": "Andrew Szot"
+    },
+    {
+      "literal": "Michael Feng"
+    },
+    {
+      "literal": "Ram Ramrakhya"
+    },
+    {
+      "literal": "Alexander Toshev"
+    },
+    {
+      "literal": "Chao Huang"
+    },
+    {
+      "literal": "Yinfei Yang"
+    },
+    {
+      "literal": "Zhe Gan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.17790",
+  "genre": "preprint",
+  "version": "3"
+}

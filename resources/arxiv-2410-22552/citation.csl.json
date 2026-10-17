@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2410.22552",
+  "citation-key": "arxiv_2410_22552",
+  "type": "article",
+  "title": "Auto-Intent: Automated Intent Discovery and Self-Exploration for Large Language Model Web Agents",
+  "URL": "https://arxiv.org/abs/2410.22552v1",
+  "custom": {
+    "catalog_id": "arxiv:2410.22552",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.22552",
+    "identifiers": {
+      "arxiv": "2410.22552"
+    },
+    "first_published_at": "2024-10-29",
+    "record_updated_at": "2024-10-29",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bf1fb8aa2e289a72f3c44c99e2d531eaa5eeea08b78ff6f3a21e139d47502b17",
+      "submitted_at": "2024-10-29T21:37:04Z",
+      "updated_at": "2024-10-29T21:37:04Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2410.22552v1"
+    }
+  },
+  "note": "First published: 2024-10-29; Recorded arXiv version: v1; Recorded version updated: 2024-10-29T21:37:04Z.",
+  "author": [
+    {
+      "literal": "Jaekyeom Kim"
+    },
+    {
+      "literal": "Dong-Ki Kim"
+    },
+    {
+      "literal": "Lajanugen Logeswaran"
+    },
+    {
+      "literal": "Sungryull Sohn"
+    },
+    {
+      "literal": "Honglak Lee"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.22552",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2508.16153",
+  "citation-key": "arxiv_2508_16153",
+  "type": "article",
+  "title": "Memento: Fine-tuning LLM Agents without Fine-tuning LLMs",
+  "URL": "https://arxiv.org/abs/2508.16153v2",
+  "custom": {
+    "catalog_id": "arxiv:2508.16153",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.16153",
+    "identifiers": {
+      "arxiv": "2508.16153"
+    },
+    "first_published_at": "2025-08-22",
+    "record_updated_at": "2025-08-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "902f573aeeb78f4a0bcd4b5c16db103de4673cadd752caa27d5473aa6c401410",
+      "submitted_at": "2025-08-22T07:25:30Z",
+      "updated_at": "2025-08-25T13:32:12Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2508.16153v2"
+    }
+  },
+  "note": "First published: 2025-08-22; Recorded arXiv version: v2; Recorded version updated: 2025-08-25T13:32:12Z.",
+  "author": [
+    {
+      "literal": "Huichi Zhou"
+    },
+    {
+      "literal": "Yihang Chen"
+    },
+    {
+      "literal": "Siyuan Guo"
+    },
+    {
+      "literal": "Xue Yan"
+    },
+    {
+      "literal": "Kin Hei Lee"
+    },
+    {
+      "literal": "Zihan Wang"
+    },
+    {
+      "literal": "Ka Yiu Lee"
+    },
+    {
+      "literal": "Guchun Zhang"
+    },
+    {
+      "literal": "Kun Shao"
+    },
+    {
+      "literal": "Linyi Yang"
+    },
+    {
+      "literal": "Jun Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.16153",
+  "genre": "preprint",
+  "version": "2"
+}

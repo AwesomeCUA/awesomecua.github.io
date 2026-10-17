@@ -1,0 +1,108 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/datasets/Miaosen/Grounding-Anything-GUI/tree/main",
+    "gated": false,
+    "hub_id": "Miaosen/Grounding-Anything-GUI",
+    "languages": [
+      "en"
+    ],
+    "modalities": [
+      "image",
+      "text"
+    ],
+    "sample_count": null,
+    "sample_unit": null,
+    "size_category_reported": null
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:42:32Z",
+      "role": "primary",
+      "sha256": "c64f72eae3dd50d28996f99ab744a5093896e8bb29caa6f7b33a2f60a0b530a5",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/api/datasets/Miaosen/Grounding-Anything-GUI"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:42:32Z",
+      "role": "primary",
+      "sha256": "31b964cfd198f99491f0f480024b2322fbdf3a237f7806847e83978109bc5856",
+      "supports": [
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/datasets/Miaosen/Grounding-Anything-GUI/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:00Z",
+      "role": "primary",
+      "sha256": "a0609394a736dc495d077cd57a2945b018123e5b3f9514d7d5bafb9e690aeae2",
+      "supports": [
+        "summary",
+        "release_status"
+      ],
+      "url": "https://raw.githubusercontent.com/microsoft/Phi-Ground/HEAD/README.md"
+    },
+    {
+      "method": "huggingface_api",
+      "retrieved_at": "2026-10-17T02:42:32Z",
+      "role": "primary",
+      "sha256": "c64f72eae3dd50d28996f99ab744a5093896e8bb29caa6f7b33a2f60a0b530a5",
+      "supports": [
+        "details",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/api/datasets/Miaosen/Grounding-Anything-GUI"
+    }
+  ],
+  "id": "url:d1830de02226155ee16d",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-17T02:42:32Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "publisher model/dataset card",
+      "declared": "apache-2.0",
+      "retrieved_at": "2026-10-17T02:42:32Z",
+      "url": "https://huggingface.co/datasets/Miaosen/Grounding-Anything-GUI"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/Miaosen/Grounding-Anything-GUI"
+    }
+  ],
+  "name": "Grounding-Anything-GUI",
+  "notes": "The Hub exposes train.zip and a card containing only license/language metadata. The official repository marks this training-data release complete, but its Phi-Ground-Any paper is still pending. No binding to the earlier Phi-Ground paper, sample count, split structure or operating-system coverage is inferred.",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "The public training archive linked by the Phi-Ground project for its Phi-Ground-Any model.",
+  "topics": [
+    "grounding",
+    "data-generation"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/Miaosen/Grounding-Anything-GUI"
+}

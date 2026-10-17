@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2606.31612",
+  "citation-key": "arxiv_2606_31612",
+  "type": "article",
+  "title": "What Memory Do GUI Agents Really Need? From Passive Records to Active Task-Driving States",
+  "URL": "https://arxiv.org/abs/2606.31612v2",
+  "custom": {
+    "catalog_id": "arxiv:2606.31612",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.31612",
+    "identifiers": {
+      "arxiv": "2606.31612"
+    },
+    "first_published_at": "2026-06-30",
+    "record_updated_at": "2026-07-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6765a1dc51ee1141d09d23dcff091495333db731d02c7067d833e14cce713925",
+      "submitted_at": "2026-06-30T13:01:19Z",
+      "updated_at": "2026-07-02T06:42:39Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2606.31612v2"
+    }
+  },
+  "note": "First published: 2026-06-30; Recorded arXiv version: v2; Recorded version updated: 2026-07-02T06:42:39Z.",
+  "author": [
+    {
+      "literal": "Chen Liu"
+    },
+    {
+      "literal": "Ling Chen"
+    },
+    {
+      "literal": "Hanzhang Zhou"
+    },
+    {
+      "literal": "Xu Zhang"
+    },
+    {
+      "literal": "Quyu Kong"
+    },
+    {
+      "literal": "Panrong Tong"
+    },
+    {
+      "literal": "Wenhao Wang"
+    },
+    {
+      "literal": "Xin Yu"
+    },
+    {
+      "literal": "Steven Hoi"
+    },
+    {
+      "literal": "Yue Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.31612",
+  "genre": "preprint",
+  "version": "2"
+}

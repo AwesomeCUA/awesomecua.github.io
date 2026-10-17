@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2505.13227",
+  "citation-key": "arxiv_2505_13227",
+  "type": "article",
+  "title": "Scaling Computer-Use Grounding via User Interface Decomposition and Synthesis",
+  "URL": "https://arxiv.org/abs/2505.13227v3",
+  "custom": {
+    "catalog_id": "arxiv:2505.13227",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2505.13227",
+    "identifiers": {
+      "arxiv": "2505.13227"
+    },
+    "first_published_at": "2025-05-19",
+    "record_updated_at": "2025-10-24",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1bec4ad578c01ebdfb58bd269562d3ca7a2bd8d2687cde07cb867db0b78cb105",
+      "submitted_at": "2025-05-19T15:09:23Z",
+      "updated_at": "2025-10-24T19:08:03Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2505.13227v3"
+    }
+  },
+  "note": "First published: 2025-05-19; Recorded arXiv version: v3; Recorded version updated: 2025-10-24T19:08:03Z.",
+  "author": [
+    {
+      "literal": "Tianbao Xie"
+    },
+    {
+      "literal": "Jiaqi Deng"
+    },
+    {
+      "literal": "Xiaochuan Li"
+    },
+    {
+      "literal": "Junlin Yang"
+    },
+    {
+      "literal": "Haoyuan Wu"
+    },
+    {
+      "literal": "Jixuan Chen"
+    },
+    {
+      "literal": "Wenjing Hu"
+    },
+    {
+      "literal": "Xinyuan Wang"
+    },
+    {
+      "literal": "Yuhui Xu"
+    },
+    {
+      "literal": "Zekun Wang"
+    },
+    {
+      "literal": "Yiheng Xu"
+    },
+    {
+      "literal": "Junli Wang"
+    },
+    {
+      "literal": "Doyen Sahoo"
+    },
+    {
+      "literal": "Tao Yu"
+    },
+    {
+      "literal": "Caiming Xiong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.13227",
+  "genre": "preprint",
+  "version": "3"
+}

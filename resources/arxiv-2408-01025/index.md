@@ -16,9 +16,16 @@ Bibliographic record for CALA-$n$: A Quantum Library for Realizing Cost-Effectiv
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2408-01025/record.json
+
 ## Authors
 
 Ali Al-Bayaty, Xiaoyu Song, Marek Perkowski
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2408-01025/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2408-01025/citation.csl.json
 
 ## Recorded arXiv snapshot
 

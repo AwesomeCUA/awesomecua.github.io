@@ -1,0 +1,87 @@
+{
+  "aliases": [],
+  "authors": [
+    "Yang Li",
+    "Gang Li",
+    "Xin Zhou",
+    "Mostafa Dehghani",
+    "Alexey Gritsenko"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6e88e6e2659df232174d9fc71a2fac61a021941f096355f8ea3cd4c618c223d3",
+      "submitted_at": "2021-12-10T17:37:26Z",
+      "updated_at": "2021-12-10T17:37:26Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2112.05692v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:42:42Z",
+      "role": "primary",
+      "sha256": "d1c1bc3fee56d124427abd2aabbcf876418633a8adf7a03f4ef0317cba6a42ae",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2008.05132%2C2010.04295%2C2101.04893%2C2112.05692%2C2306.01242%2C2311.03079%2C2401.05459%2C2402.03746%2C2402.15506%2C2403.20329%2C2404.06395%2C2404.10179%2C2405.10292%2C2406.09187%2C2406.14596%2C2408.03326%2C2409.12089%2C2501.10893%2C2504.09352&max_results=19"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:42:42Z",
+      "role": "primary",
+      "sha256": "d1c1bc3fee56d124427abd2aabbcf876418633a8adf7a03f4ef0317cba6a42ae",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2008.05132%2C2010.04295%2C2101.04893%2C2112.05692%2C2306.01242%2C2311.03079%2C2401.05459%2C2402.03746%2C2402.15506%2C2403.20329%2C2404.06395%2C2404.10179%2C2405.10292%2C2406.09187%2C2406.14596%2C2408.03326%2C2409.12089%2C2501.10893%2C2504.09352&max_results=19"
+    }
+  ],
+  "id": "arxiv:2112.05692",
+  "identifiers": {
+    "arxiv": "2112.05692"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:42:42Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2112.05692"
+    }
+  ],
+  "name": "VUT: Versatile UI Transformer for Multi-Modal Multi-Task User Interface Modeling",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2021-12-10",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "The Versatile UI Transformer jointly models interface screenshots, structure, and language for five UI tasks. Its encoder supports element detection when structural metadata is absent, while an autoregressive component handles UI question answering and command grounding.",
+  "topics": [
+    "screen-understanding",
+    "grounding",
+    "efficiency"
+  ],
+  "updated_at": "2021-12-10",
+  "url": "https://arxiv.org/abs/2112.05692"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Scientific Computing Using Consumer Video-Gaming Hardwa
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1607-05537/record.json
+
 ## Authors
 
 Glenn Volkema, Gaurav Khanna
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1607-05537/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1607-05537/citation.csl.json
 
 ## Recorded arXiv snapshot
 

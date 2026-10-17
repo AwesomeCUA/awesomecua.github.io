@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2311.11855",
+  "citation-key": "arxiv_2311_11855",
+  "type": "article",
+  "title": "Evil Geniuses: Delving into the Safety of LLM-based Agents",
+  "URL": "https://arxiv.org/abs/2311.11855v2",
+  "custom": {
+    "catalog_id": "arxiv:2311.11855",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2311.11855",
+    "identifiers": {
+      "arxiv": "2311.11855"
+    },
+    "first_published_at": "2023-11-20",
+    "record_updated_at": "2024-02-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "df779dcc767b085fec4500f7461c9909a941279c3a31fe3e2efd5f775170a61e",
+      "submitted_at": "2023-11-20T15:50:09Z",
+      "updated_at": "2024-02-02T08:28:01Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2311.11855v2"
+    }
+  },
+  "note": "First published: 2023-11-20; Recorded arXiv version: v2; Recorded version updated: 2024-02-02T08:28:01Z.",
+  "author": [
+    {
+      "literal": "Yu Tian"
+    },
+    {
+      "literal": "Xiao Yang"
+    },
+    {
+      "literal": "Jingyuan Zhang"
+    },
+    {
+      "literal": "Yinpeng Dong"
+    },
+    {
+      "literal": "Hang Su"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.11855",
+  "genre": "preprint",
+  "version": "2"
+}

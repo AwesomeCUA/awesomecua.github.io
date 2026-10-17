@@ -16,9 +16,16 @@ Introduces FaraGen synthetic web trajectories, a compact screenshot-based action
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-19663/record.json
+
 ## Authors
 
 Ahmed Awadallah, Yash Lara, Raghav Magazine, Hussein Mozannar, Akshay Nambi, Yash Pandya, Aravind Rajeswaran, Corby Rosset, Alexey Taymanov, Vibhav Vineet, Spencer Whitehead, Andrew Zhao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-19663/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-19663/citation.csl.json
 
 ## Recorded arXiv snapshot
 

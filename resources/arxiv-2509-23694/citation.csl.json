@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2509.23694",
+  "citation-key": "arxiv_2509_23694",
+  "type": "article",
+  "title": "SafeSearch: Automated Red-Teaming of LLM-Based Search Agents",
+  "URL": "https://arxiv.org/abs/2509.23694v6",
+  "custom": {
+    "catalog_id": "arxiv:2509.23694",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.23694",
+    "identifiers": {
+      "arxiv": "2509.23694"
+    },
+    "first_published_at": "2025-09-28",
+    "record_updated_at": "2026-06-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4086e28c460007ea347c4e4c0bae15b4d3484f835763cd863d14f87fb6dda773",
+      "submitted_at": "2025-09-28T07:05:17Z",
+      "updated_at": "2026-06-03T04:13:57Z",
+      "version": 6,
+      "versioned_url": "https://arxiv.org/abs/2509.23694v6"
+    }
+  },
+  "note": "First published: 2025-09-28; Recorded arXiv version: v6; Recorded version updated: 2026-06-03T04:13:57Z.",
+  "author": [
+    {
+      "literal": "Jianshuo Dong"
+    },
+    {
+      "literal": "Sheng Guo"
+    },
+    {
+      "literal": "Hao Wang"
+    },
+    {
+      "literal": "Xun Chen"
+    },
+    {
+      "literal": "Zhuotao Liu"
+    },
+    {
+      "literal": "Tianwei Zhang"
+    },
+    {
+      "literal": "Ke Xu"
+    },
+    {
+      "literal": "Minlie Huang"
+    },
+    {
+      "literal": "Han Qiu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.23694",
+  "genre": "preprint",
+  "version": "6"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2412.08611",
+  "citation-key": "arxiv_2412_08611",
+  "type": "article",
+  "title": "Minimizing resource overhead in fusion-based quantum computation using hybrid spin-photon devices",
+  "URL": "https://arxiv.org/abs/2412.08611v2",
+  "custom": {
+    "catalog_id": "arxiv:2412.08611",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2412.08611",
+    "identifiers": {
+      "arxiv": "2412.08611"
+    },
+    "first_published_at": "2024-12-11",
+    "record_updated_at": "2025-12-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "38cb8ddd16d03b9fc6d9e2168198b1a9cfd97ab253aa66f6e74216e339876d20",
+      "submitted_at": "2024-12-11T18:34:53Z",
+      "updated_at": "2025-12-19T16:12:31Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2412.08611v2"
+    }
+  },
+  "note": "First published: 2024-12-11; Recorded arXiv version: v2; Recorded version updated: 2025-12-19T16:12:31Z.",
+  "author": [
+    {
+      "literal": "Stephen C. Wein"
+    },
+    {
+      "literal": "Timothée Goubault de Brugière"
+    },
+    {
+      "literal": "Luka Music"
+    },
+    {
+      "literal": "Pascale Senellart"
+    },
+    {
+      "literal": "Boris Bourdoncle"
+    },
+    {
+      "literal": "Shane Mansfield"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.08611",
+  "genre": "preprint",
+  "version": "2"
+}

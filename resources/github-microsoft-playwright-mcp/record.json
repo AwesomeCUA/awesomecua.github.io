@@ -1,0 +1,70 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:40:53Z",
+      "role": "primary",
+      "sha256": "b33aa71a13d655e96e6b736d0c9de1e5ddea52f205916ca20b876387ff830e87",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/microsoft/playwright-mcp/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:07Z",
+      "role": "primary",
+      "sha256": "9a7110fc2d2f964038e5dc49128f908f29f47a574c961cba16085914e879cbda",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/microsoft/playwright-mcp/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:microsoft/playwright-mcp",
+  "identifiers": {},
+  "kind": "tool",
+  "last_verified_at": "2026-10-16T06:40:53Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T06:42:07Z",
+      "url": "https://raw.githubusercontent.com/microsoft/playwright-mcp/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/microsoft/playwright-mcp"
+    }
+  ],
+  "name": "Playwright MCP",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "MCP server exposing browser interaction tools for agents.",
+  "topics": [
+    "automation",
+    "tool-integration"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/microsoft/playwright-mcp"
+}

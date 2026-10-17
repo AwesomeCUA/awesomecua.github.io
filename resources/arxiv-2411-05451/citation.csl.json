@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2411.05451",
+  "citation-key": "arxiv_2411_05451",
+  "type": "article",
+  "title": "WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models",
+  "URL": "https://arxiv.org/abs/2411.05451v1",
+  "custom": {
+    "catalog_id": "arxiv:2411.05451",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2411.05451",
+    "identifiers": {
+      "arxiv": "2411.05451"
+    },
+    "first_published_at": "2024-11-08",
+    "record_updated_at": "2024-11-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2407fd35164680db7422e4dc57c51855ba8d244f997e5a4cfe75d8dfba8ab691",
+      "submitted_at": "2024-11-08T09:58:02Z",
+      "updated_at": "2024-11-08T09:58:02Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2411.05451v1"
+    }
+  },
+  "note": "First published: 2024-11-08; Recorded arXiv version: v1; Recorded version updated: 2024-11-08T09:58:02Z.",
+  "author": [
+    {
+      "literal": "Shengda Fan"
+    },
+    {
+      "literal": "Xin Cong"
+    },
+    {
+      "literal": "Yuepeng Fu"
+    },
+    {
+      "literal": "Zhong Zhang"
+    },
+    {
+      "literal": "Shuyan Zhang"
+    },
+    {
+      "literal": "Yuanwei Liu"
+    },
+    {
+      "literal": "Yesai Wu"
+    },
+    {
+      "literal": "Yankai Lin"
+    },
+    {
+      "literal": "Zhiyuan Liu"
+    },
+    {
+      "literal": "Maosong Sun"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2411.05451",
+  "genre": "preprint",
+  "version": "1"
+}

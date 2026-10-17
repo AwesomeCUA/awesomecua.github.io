@@ -16,6 +16,8 @@ Agent trajectory generation using web tutorial resources.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-xlang-ai-agenttrek/record.json
+
 ## License declarations
 
 - code: not recorded

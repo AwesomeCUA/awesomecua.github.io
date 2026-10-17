@@ -16,9 +16,16 @@ Bibliographic record for Chain of Thought Imitation with Procedure Cloning. Titl
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2205-10816/record.json
+
 ## Authors
 
 Mengjiao Yang, Dale Schuurmans, Pieter Abbeel, Ofir Nachum
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2205-10816/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2205-10816/citation.csl.json
 
 ## Recorded arXiv snapshot
 

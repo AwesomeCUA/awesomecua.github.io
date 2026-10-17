@@ -1,0 +1,96 @@
+{
+  "aliases": [],
+  "authors": [
+    "Shuai Bai",
+    "Jiayong Deng",
+    "Sicheng Fan",
+    "Yikun Fu",
+    "Chang Gao",
+    "Xuhao Hu",
+    "Mianqiu Huang",
+    "Yizhen Jiang",
+    "Yuheng Jing",
+    "Dehui Kong",
+    "Keliang Li",
+    "Ning Li",
+    "Wanli Li",
+    "Dayiheng Liu",
+    "Dunjie Lu",
+    "Changwei Luo",
+    "Que Shen",
+    "Zheyuan Wang",
+    "Zijian Wang",
+    "Jie Wu",
+    "Gao Wu",
+    "Zhihui Xie",
+    "Rui Xie",
+    "Haiyang Xu",
+    "An Yang",
+    "Jiakang Yuan",
+    "Yanming Zhang",
+    "Jiajun Zhang",
+    "Xi Zhang",
+    "Zhenru Zhang",
+    "Zhuo Zhen",
+    "Mingkang Zhu",
+    "Bowen Zhou"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3b312c5a4d638ec9f9a7408fd9ce2d8cbf74fa462d48c8aa37f59e4ad3bd8edc",
+      "submitted_at": "2026-09-18T17:00:56Z",
+      "updated_at": "2026-09-21T07:09:10Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2609.22000v2"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:29Z",
+      "role": "primary",
+      "sha256": "74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2609.22000",
+  "identifiers": {
+    "arxiv": "2609.22000"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:29Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2609.22000"
+    }
+  ],
+  "name": "RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2026-09-18",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-09-21",
+  "url": "https://arxiv.org/abs/2609.22000"
+}

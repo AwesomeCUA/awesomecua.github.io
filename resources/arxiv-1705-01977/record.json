@@ -1,0 +1,68 @@
+{
+  "aliases": [],
+  "authors": [
+    "Jarilyn M. Hernández Jiménez",
+    "Jeffrey A. Nichols",
+    "Katerina Goseva-Popstojanova",
+    "Stacy Prowell",
+    "Robert A. Bridges"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3ea790044a82612a87c28fec60f6479c0e5aaca8ad5db1ccc8c8d3dfa6535e6b",
+      "submitted_at": "2017-05-04T19:09:12Z",
+      "updated_at": "2017-05-04T19:09:12Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1705.01977v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:37:09Z",
+      "role": "primary",
+      "sha256": "a3ebf2fcfa181413d078dc3408f17bfabfac87f9aee1c78994840197df701e9d",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=1100&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:1705.01977",
+  "identifiers": {
+    "arxiv": "1705.01977"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:37:09Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/1705.01977"
+    }
+  ],
+  "name": "Malware Detection on General-Purpose Computers Using Power Consumption Monitoring: A Proof of Concept and Case Study",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2017-05-04",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2017-05-04",
+  "url": "https://arxiv.org/abs/1705.01977"
+}

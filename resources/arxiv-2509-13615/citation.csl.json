@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2509.13615",
+  "citation-key": "arxiv_2509_13615",
+  "type": "article",
+  "title": "See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles",
+  "URL": "https://arxiv.org/abs/2509.13615v5",
+  "custom": {
+    "catalog_id": "arxiv:2509.13615",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.13615",
+    "identifiers": {
+      "arxiv": "2509.13615"
+    },
+    "first_published_at": "2025-09-17",
+    "record_updated_at": "2026-03-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "be8620b021bd9218c1143282f1c7a7ea06be2abe6fc0928a310cfc8ac3172a18",
+      "submitted_at": "2025-09-17T01:14:14Z",
+      "updated_at": "2026-03-18T08:12:54Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2509.13615v5"
+    }
+  },
+  "note": "First published: 2025-09-17; Recorded arXiv version: v5; Recorded version updated: 2026-03-18T08:12:54Z.",
+  "author": [
+    {
+      "literal": "Zongru Wu"
+    },
+    {
+      "literal": "Rui Mao"
+    },
+    {
+      "literal": "Zhiyuan Tian"
+    },
+    {
+      "literal": "Pengzhou Cheng"
+    },
+    {
+      "literal": "Tianjie Ju"
+    },
+    {
+      "literal": "Zheng Wu"
+    },
+    {
+      "literal": "Lingzhong Dong"
+    },
+    {
+      "literal": "Haiyue Sheng"
+    },
+    {
+      "literal": "Zhuosheng Zhang"
+    },
+    {
+      "literal": "Gongshen Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.13615",
+  "genre": "preprint",
+  "version": "5"
+}

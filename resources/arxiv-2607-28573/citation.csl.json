@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2607.28573",
+  "citation-key": "arxiv_2607_28573",
+  "type": "article",
+  "title": "Rethinking Inference-Time Scaling in Local Computer-Use Agents: Failure Modes and Compute Tradeoffs",
+  "URL": "https://arxiv.org/abs/2607.28573v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.28573",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2607.28573",
+    "identifiers": {
+      "arxiv": "2607.28573"
+    },
+    "first_published_at": "2026-07-30",
+    "record_updated_at": "2026-07-30",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bacd1c5df5bf3163c83fae546ae4ced36996f33115568dfbc9e44b17fe507a31",
+      "submitted_at": "2026-07-30T17:36:36Z",
+      "updated_at": "2026-07-30T17:36:36Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.28573v1"
+    }
+  },
+  "note": "First published: 2026-07-30; Recorded arXiv version: v1; Recorded version updated: 2026-07-30T17:36:36Z.",
+  "author": [
+    {
+      "literal": "Woongkyu Lee"
+    },
+    {
+      "literal": "Jungwook Choi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.28573",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Discourse Coherence, Reference Grounding and Goal Orien
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2007-04428/record.json
+
 ## Authors
 
 Baber Khalid, Malihe Alikhani, Michael Fellner, Brian McMahan, Matthew Stone
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2007-04428/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2007-04428/citation.csl.json
 
 ## Recorded arXiv snapshot
 

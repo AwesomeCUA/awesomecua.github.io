@@ -1,0 +1,160 @@
+{
+  "id": "arxiv:2510.21652",
+  "citation-key": "arxiv_2510_21652",
+  "type": "article",
+  "title": "AstaBench: Rigorous Benchmarking of AI Agents with a Scientific Research Suite",
+  "URL": "https://arxiv.org/abs/2510.21652v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.21652",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.21652",
+    "identifiers": {
+      "arxiv": "2510.21652"
+    },
+    "first_published_at": "2025-10-24",
+    "record_updated_at": "2026-04-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2767d4d11e6f3ab54232d093fa84c96d35ff01f0009f2be7b06f51d114fc249f",
+      "submitted_at": "2025-10-24T17:10:26Z",
+      "updated_at": "2026-04-21T23:10:09Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.21652v2"
+    }
+  },
+  "note": "First published: 2025-10-24; Recorded arXiv version: v2; Recorded version updated: 2026-04-21T23:10:09Z.",
+  "author": [
+    {
+      "literal": "Jonathan Bragg"
+    },
+    {
+      "literal": "Mike D'Arcy"
+    },
+    {
+      "literal": "Nishant Balepur"
+    },
+    {
+      "literal": "Dan Bareket"
+    },
+    {
+      "literal": "Bhavana Dalvi"
+    },
+    {
+      "literal": "Sergey Feldman"
+    },
+    {
+      "literal": "Dany Haddad"
+    },
+    {
+      "literal": "Jena D. Hwang"
+    },
+    {
+      "literal": "Peter Jansen"
+    },
+    {
+      "literal": "Varsha Kishore"
+    },
+    {
+      "literal": "Bodhisattwa Prasad Majumder"
+    },
+    {
+      "literal": "Aakanksha Naik"
+    },
+    {
+      "literal": "Sigal Rahamimov"
+    },
+    {
+      "literal": "Kyle Richardson"
+    },
+    {
+      "literal": "Amanpreet Singh"
+    },
+    {
+      "literal": "Harshit Surana"
+    },
+    {
+      "literal": "Aryeh Tiktinsky"
+    },
+    {
+      "literal": "Rosni Vasu"
+    },
+    {
+      "literal": "Guy Wiener"
+    },
+    {
+      "literal": "Chloe Anastasiades"
+    },
+    {
+      "literal": "Stefan Candra"
+    },
+    {
+      "literal": "Jason Dunkelberger"
+    },
+    {
+      "literal": "Dan Emery"
+    },
+    {
+      "literal": "Rob Evans"
+    },
+    {
+      "literal": "Malachi Hamada"
+    },
+    {
+      "literal": "Regan Huff"
+    },
+    {
+      "literal": "Rodney Kinney"
+    },
+    {
+      "literal": "Matt Latzke"
+    },
+    {
+      "literal": "Jaron Lochner"
+    },
+    {
+      "literal": "Ruben Lozano-Aguilera"
+    },
+    {
+      "literal": "Cecile Nguyen"
+    },
+    {
+      "literal": "Smita Rao"
+    },
+    {
+      "literal": "Amber Tanaka"
+    },
+    {
+      "literal": "Brooke Vlahos"
+    },
+    {
+      "literal": "Peter Clark"
+    },
+    {
+      "literal": "Doug Downey"
+    },
+    {
+      "literal": "Yoav Goldberg"
+    },
+    {
+      "literal": "Ashish Sabharwal"
+    },
+    {
+      "literal": "Daniel S. Weld"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.21652",
+  "genre": "preprint",
+  "version": "2"
+}

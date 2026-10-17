@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2606.04701",
+  "citation-key": "arxiv_2606_04701",
+  "type": "article",
+  "title": "Benchmarking Living-Screen-Native GUI Agents on Short-Video Platforms",
+  "URL": "https://arxiv.org/abs/2606.04701v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.04701",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.04701",
+    "identifiers": {
+      "arxiv": "2606.04701"
+    },
+    "first_published_at": "2026-06-03",
+    "record_updated_at": "2026-06-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4d5a90333c4f6be0b8d203a2f5938f7e7eefcb09fbe7ea47b85eba8c7c1c422a",
+      "submitted_at": "2026-06-03T10:25:46Z",
+      "updated_at": "2026-06-03T10:25:46Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.04701v1"
+    }
+  },
+  "note": "First published: 2026-06-03; Recorded arXiv version: v1; Recorded version updated: 2026-06-03T10:25:46Z.",
+  "author": [
+    {
+      "literal": "Jiashu Yao"
+    },
+    {
+      "literal": "Heyan Huang"
+    },
+    {
+      "literal": "Daiqing Wu"
+    },
+    {
+      "literal": "Wangke Chen"
+    },
+    {
+      "literal": "Huaxi Ai"
+    },
+    {
+      "literal": "Haoyu Wen"
+    },
+    {
+      "literal": "Zeming Liu"
+    },
+    {
+      "literal": "Yuhang Guo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.04701",
+  "genre": "preprint",
+  "version": "1"
+}

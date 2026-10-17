@@ -16,9 +16,16 @@ Synthesizes multimodal web trajectories through exploration and refinement, then
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-11357/record.json
+
 ## Authors
 
 Vardaan Pahuja, Yadong Lu, Corby Rosset, Boyu Gou, Arindam Mitra, Spencer Whitehead, Yu Su, Ahmed Awadallah
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-11357/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-11357/citation.csl.json
 
 ## Recorded arXiv snapshot
 

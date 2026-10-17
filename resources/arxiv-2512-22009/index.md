@@ -16,9 +16,16 @@ Bibliographic record for iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive P
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-22009/record.json
+
 ## Authors
 
 Sarthak Mehrotra, Sairam V C Rebbapragada, Mani Hemanth Reddy Bonthu, Vineeth N Balasubramanian
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-22009/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-22009/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2609.24890",
+  "citation-key": "arxiv_2609_24890",
+  "type": "article",
+  "title": "OSWorld-Pro: Process-based Evaluation for Computer Use Agents",
+  "URL": "https://arxiv.org/abs/2609.24890v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.24890",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.24890",
+    "identifiers": {
+      "arxiv": "2609.24890"
+    },
+    "first_published_at": "2026-09-21",
+    "record_updated_at": "2026-09-21",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0d3cb920a677108910530788eb68c263127dba9510274f182910aed9c2f848c9",
+      "submitted_at": "2026-09-21T16:55:24Z",
+      "updated_at": "2026-09-21T16:55:24Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.24890v1"
+    }
+  },
+  "note": "First published: 2026-09-21; Recorded arXiv version: v1; Recorded version updated: 2026-09-21T16:55:24Z.",
+  "author": [
+    {
+      "literal": "Zhilin Wang"
+    },
+    {
+      "literal": "Shaokun Zhang"
+    },
+    {
+      "literal": "Yifan Zhang"
+    },
+    {
+      "literal": "Hao Zhang"
+    },
+    {
+      "literal": "Jin Xu"
+    },
+    {
+      "literal": "Binfeng Xu"
+    },
+    {
+      "literal": "Jian Hu"
+    },
+    {
+      "literal": "Yunheng Zou"
+    },
+    {
+      "literal": "Karan Sapra"
+    },
+    {
+      "literal": "Andrew Tao"
+    },
+    {
+      "literal": "Jan Kautz"
+    },
+    {
+      "literal": "Yi Dong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.24890",
+  "genre": "preprint",
+  "version": "1"
+}

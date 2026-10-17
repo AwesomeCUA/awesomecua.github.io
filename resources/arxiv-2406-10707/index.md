@@ -16,9 +16,16 @@ Bibliographic record for DataStates-LLM: Lazy Asynchronous Checkpointing for Lar
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-10707/record.json
+
 ## Authors
 
 Avinash Maurya, Robert Underwood, M. Mustafa Rafique, Franck Cappello, Bogdan Nicolae
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-10707/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-10707/citation.csl.json
 
 ## Recorded arXiv snapshot
 

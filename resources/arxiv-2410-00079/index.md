@@ -16,9 +16,16 @@ Studies agent-system and interface co-design that incorporates user interruption
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-00079/record.json
+
 ## Authors
 
 Wenyue Hua, Mengting Wan, Shashank Vadrevu, Ryan Nadel, Yongfeng Zhang, Chi Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-00079/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-00079/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Introduces SCOUT, a safety verifier that first derives task-specific completion 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-36201/record.json
+
 ## Authors
 
 Jianxing Chen, Xiao Yu, Shipra Agrawal, Zhou Yu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-36201/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-36201/citation.csl.json
 
 ## Recorded arXiv snapshot
 

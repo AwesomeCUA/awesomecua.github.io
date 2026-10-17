@@ -16,9 +16,16 @@ Introduces DeltaReplay, which stores mobile GUI trajectories as transition graph
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-11707/record.json
+
 ## Authors
 
 Yudong Bai, Yihong Chen, Quanming Yao, Yaqing Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-11707/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-11707/citation.csl.json
 
 ## Recorded arXiv snapshot
 

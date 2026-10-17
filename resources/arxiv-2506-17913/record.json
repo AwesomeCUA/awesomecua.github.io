@@ -1,0 +1,95 @@
+{
+  "aliases": [],
+  "authors": [
+    "Jinjie Wei",
+    "Jiyao Liu",
+    "Lihao Liu",
+    "Ming Hu",
+    "Junzhi Ning",
+    "Mingcheng Li",
+    "Weijie Yin",
+    "Junjun He",
+    "Xiao Liang",
+    "Chao Feng",
+    "Dingkang Yang"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f12d2ae58243b5f89a6a510e8f3ef4073a605c4bafdf63c37fd38db57ea84602",
+      "submitted_at": "2025-06-22T06:30:52Z",
+      "updated_at": "2026-07-21T05:30:48Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2506.17913v2"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:50Z",
+      "role": "primary",
+      "sha256": "26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:50Z",
+      "role": "primary",
+      "sha256": "26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2506.17913",
+  "identifiers": {
+    "arxiv": "2506.17913"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:50Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2506.17913"
+    }
+  ],
+  "name": "Learning, Reasoning, Refinement: A Framework for Kahneman's Dual-System Intelligence in GUI Agents",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2025-06-22",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "CogniGUI combines hierarchical visual parsing of interface elements with a GRPO-based grounding agent that compares alternative interaction paths. Its ScreenSeek benchmark evaluates navigation across applications, changing interface states, and consistency between interfaces.",
+  "topics": [
+    "grounding",
+    "planning",
+    "reinforcement-learning",
+    "evaluation"
+  ],
+  "updated_at": "2026-07-21",
+  "url": "https://arxiv.org/abs/2506.17913"
+}

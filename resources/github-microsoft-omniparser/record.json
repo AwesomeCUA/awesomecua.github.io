@@ -1,0 +1,61 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:04Z",
+      "role": "primary",
+      "sha256": "f4ebaafcc0ab0b9e9cc55cb587678e5c83a5bbd64469fb2cc52bc63843c5cc6d",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/microsoft/OmniParser/HEAD/README.md"
+    }
+  ],
+  "id": "github:microsoft/omniparser",
+  "identifiers": {},
+  "kind": "tool",
+  "last_verified_at": "2026-10-16T06:36:04Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/microsoft/OmniParser"
+    }
+  ],
+  "name": "OmniParser",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/microsoft/OmniParser/HEAD/README.md",
+      "target_id": "arxiv:2408.00203",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Screen parsing tools for visually grounded agents.",
+  "topics": [
+    "screen-understanding",
+    "grounding"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/microsoft/OmniParser"
+}

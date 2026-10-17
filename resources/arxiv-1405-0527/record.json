@@ -1,0 +1,66 @@
+{
+  "aliases": [],
+  "authors": [
+    "Moya Chen",
+    "Doris Xin",
+    "Damien Woods"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "777d82287ef412cd97969a4af72e49c10ebb8af4b9d03096f3c3b8e7b59a80f6",
+      "submitted_at": "2014-05-02T22:19:53Z",
+      "updated_at": "2014-09-05T16:27:14Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/1405.0527v2"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:37:09Z",
+      "role": "primary",
+      "sha256": "a3ebf2fcfa181413d078dc3408f17bfabfac87f9aee1c78994840197df701e9d",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=1100&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:1405.0527",
+  "identifiers": {
+    "arxiv": "1405.0527"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:37:09Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/1405.0527"
+    }
+  ],
+  "name": "Parallel computation using active self-assembly",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2014-05-02",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2014-09-05",
+  "url": "https://arxiv.org/abs/1405.0527"
+}

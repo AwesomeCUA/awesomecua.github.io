@@ -16,9 +16,16 @@ Bibliographic record for EchoTrail-GUI: Building Actionable Memory for GUI Agent
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-19396/record.json
+
 ## Authors
 
 Runze Li, Yuwen Zhai, Bo Xu, LiWu Xu, Nian Shi, Wei Zhang, Ran Lin, Liang Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-19396/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-19396/citation.csl.json
 
 ## Recorded arXiv snapshot
 

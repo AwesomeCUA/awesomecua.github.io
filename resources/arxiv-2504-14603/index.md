@@ -16,9 +16,16 @@ Bibliographic record for UFO2: The Desktop AgentOS. Title, authors and dates che
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-14603/record.json
+
 ## Authors
 
 Chaoyun Zhang, He Huang, Chiming Ni, Jian Mu, Si Qin, Shilin He, Lu Wang, Fangkai Yang, Pu Zhao, Chao Du, Liqun Li, Yu Kang, Zhao Jiang, Suzhen Zheng, Rujia Wang, Jiaxu Qian, Minghua Ma, Jian-Guang Lou, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-14603/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-14603/citation.csl.json
 
 ## Recorded arXiv snapshot
 

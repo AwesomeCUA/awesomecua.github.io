@@ -16,9 +16,16 @@ Bibliographic record for VisionThink: Smart and Efficient Vision Language Model 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-13348/record.json
+
 ## Authors
 
 Senqiao Yang, Junyi Li, Xin Lai, Bei Yu, Hengshuang Zhao, Jiaya Jia
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-13348/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-13348/citation.csl.json
 
 ## Recorded arXiv snapshot
 

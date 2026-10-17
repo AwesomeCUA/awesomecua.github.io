@@ -16,9 +16,16 @@ Bibliographic record for The Dawn of GUI Agent: A Preliminary Case Study with Cl
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-10323/record.json
+
 ## Authors
 
 Siyuan Hu, Mingyu Ouyang, Difei Gao, Mike Zheng Shou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-10323/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-10323/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,6 +16,8 @@ Browser extension for filtering potentially unsafe agent input.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-pixiebrix-agent-browser-shield/record.json
+
 ## License declarations
 
 - code: not recorded

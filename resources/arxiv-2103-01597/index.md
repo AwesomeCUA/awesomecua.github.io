@@ -16,9 +16,16 @@ Bibliographic record for Scalable communication for high-order stencil computati
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2103-01597/record.json
+
 ## Authors
 
 Johannes Pekkilä, Miikka S. Väisälä, Maarit J. Käpylä, Matthias Rheinhardt, Oskar Lappi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2103-01597/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2103-01597/citation.csl.json
 
 ## Recorded arXiv snapshot
 

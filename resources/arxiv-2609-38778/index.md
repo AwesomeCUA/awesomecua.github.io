@@ -16,9 +16,16 @@ Defines a GUI-memory merge rule that treats two states as equivalent only when s
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-38778/record.json
+
 ## Authors
 
 Hongbo Zhang, Liuyang Song, Quanquan Li, Daqian Yang, Yan Wen, Zhengtao Yao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-38778/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-38778/citation.csl.json
 
 ## Recorded arXiv snapshot
 

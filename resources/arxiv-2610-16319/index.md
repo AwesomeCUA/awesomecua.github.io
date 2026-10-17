@@ -16,9 +16,16 @@ Introduces HyWe, which switches between information search and browser operation
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-16319/record.json
+
 ## Authors
 
 Zijian Cai, Haowei Liu, Kailai Chen, Lin Peng, Cong Wan, Ziqi Zhang, Chunfeng Yuan, Bing Li, Weiming Hu, Haiyang Xu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-16319/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-16319/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2412.19723",
+  "citation-key": "arxiv_2412_19723",
+  "type": "article",
+  "title": "OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis",
+  "URL": "https://arxiv.org/abs/2412.19723v3",
+  "custom": {
+    "catalog_id": "arxiv:2412.19723",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2412.19723",
+    "identifiers": {
+      "arxiv": "2412.19723"
+    },
+    "first_published_at": "2024-12-27",
+    "record_updated_at": "2025-06-27",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "40b5e3090c25f80d8d786f623812459b329acc2772f945419a585ffb27c54db3",
+      "submitted_at": "2024-12-27T16:21:58Z",
+      "updated_at": "2025-06-27T08:25:48Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2412.19723v3"
+    }
+  },
+  "note": "First published: 2024-12-27; Recorded arXiv version: v3; Recorded version updated: 2025-06-27T08:25:48Z.",
+  "author": [
+    {
+      "literal": "Qiushi Sun"
+    },
+    {
+      "literal": "Kanzhi Cheng"
+    },
+    {
+      "literal": "Zichen Ding"
+    },
+    {
+      "literal": "Chuanyang Jin"
+    },
+    {
+      "literal": "Yian Wang"
+    },
+    {
+      "literal": "Fangzhi Xu"
+    },
+    {
+      "literal": "Zhenyu Wu"
+    },
+    {
+      "literal": "Chengyou Jia"
+    },
+    {
+      "literal": "Liheng Chen"
+    },
+    {
+      "literal": "Zhoumianze Liu"
+    },
+    {
+      "literal": "Ben Kao"
+    },
+    {
+      "literal": "Guohao Li"
+    },
+    {
+      "literal": "Junxian He"
+    },
+    {
+      "literal": "Yu Qiao"
+    },
+    {
+      "literal": "Zhiyong Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.19723",
+  "genre": "preprint",
+  "version": "3"
+}

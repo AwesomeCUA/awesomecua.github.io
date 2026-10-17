@@ -16,9 +16,16 @@ Bibliographic record for Reflexion: Language Agents with Verbal Reinforcement Le
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2303-11366/record.json
+
 ## Authors
 
 Noah Shinn, Federico Cassano, Edward Berman, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2303-11366/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2303-11366/citation.csl.json
 
 ## Recorded arXiv snapshot
 

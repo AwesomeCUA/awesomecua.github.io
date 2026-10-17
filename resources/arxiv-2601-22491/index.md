@@ -16,9 +16,16 @@ Bibliographic record for SSL: Sweet Spot Learning for Differentiated Guidance in
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-22491/record.json
+
 ## Authors
 
 Jinyang Wu, Changpeng Yang, Yuhao Shen, Fangzhi Xu, Bolin Ni, Chonghua Liao, Yuchen Liu, Hongzhen Wang, Shuai Nie, Shuai Zhang, Haoran Luo, Jiaming Xu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-22491/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-22491/citation.csl.json
 
 ## Recorded arXiv snapshot
 

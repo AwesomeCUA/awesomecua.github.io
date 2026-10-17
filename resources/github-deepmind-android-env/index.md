@@ -16,6 +16,8 @@ Environment toolkit for interacting with Android devices in agent research.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-deepmind-android-env/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/deepmind/android_env/HEAD/LICENSE

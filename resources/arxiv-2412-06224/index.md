@@ -16,9 +16,16 @@ Bibliographic record for Uni-NaVid: A Video-based Vision-Language-Action Model f
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-06224/record.json
+
 ## Authors
 
 Jiazhao Zhang, Kunyu Wang, Shaoan Wang, Minghan Li, Haoran Liu, Songlin Wei, Zhongyuan Wang, Zhizheng Zhang, He Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-06224/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-06224/citation.csl.json
 
 ## Recorded arXiv snapshot
 

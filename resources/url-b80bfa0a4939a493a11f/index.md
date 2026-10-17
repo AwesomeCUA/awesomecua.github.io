@@ -16,6 +16,8 @@ Mobile interface data for multimodal UI research.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-b80bfa0a4939a493a11f/record.json
+
 ## License declarations
 
 - code: not recorded

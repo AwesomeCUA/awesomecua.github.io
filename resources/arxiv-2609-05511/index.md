@@ -16,9 +16,16 @@ Introduces SCAFFOLD, which extracts executable skills from web trajectories, com
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-05511/record.json
+
 ## Authors
 
 Bowei He, Xiaokun Zhang, Meng Ding, Xue Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-05511/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-05511/citation.csl.json
 
 ## Recorded arXiv snapshot
 

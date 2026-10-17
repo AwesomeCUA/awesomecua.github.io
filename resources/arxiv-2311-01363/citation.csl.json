@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2311.01363",
+  "citation-key": "arxiv_2311_01363",
+  "type": "article",
+  "title": "Application-level Benchmarking of Quantum Computers using Nonlocal Game Strategies",
+  "URL": "https://arxiv.org/abs/2311.01363v5",
+  "custom": {
+    "catalog_id": "arxiv:2311.01363",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2311.01363",
+    "identifiers": {
+      "arxiv": "2311.01363"
+    },
+    "first_published_at": "2023-11-02",
+    "record_updated_at": "2025-06-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f455da827db0194e05ca06686e3d05239ebf0475b15fefde1fcf1fb51e01ad06",
+      "submitted_at": "2023-11-02T16:17:18Z",
+      "updated_at": "2025-06-28T07:42:43Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2311.01363v5"
+    }
+  },
+  "note": "First published: 2023-11-02; Recorded arXiv version: v5; Recorded version updated: 2025-06-28T07:42:43Z.",
+  "author": [
+    {
+      "literal": "Jim Furches"
+    },
+    {
+      "literal": "Sarah Chehade"
+    },
+    {
+      "literal": "Kathleen Hamilton"
+    },
+    {
+      "literal": "Nathan Wiebe"
+    },
+    {
+      "literal": "Carlos Ortiz Marrero"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.01363",
+  "genre": "preprint",
+  "version": "5"
+}

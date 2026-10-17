@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2408.16119",
+  "citation-key": "arxiv_2408_16119",
+  "type": "article",
+  "title": "Data Formulator 2: Iterative Creation of Data Visualizations, with AI Transforming Data Along the Way",
+  "URL": "https://arxiv.org/abs/2408.16119v2",
+  "custom": {
+    "catalog_id": "arxiv:2408.16119",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2408.16119",
+    "identifiers": {
+      "arxiv": "2408.16119"
+    },
+    "first_published_at": "2024-08-28",
+    "record_updated_at": "2025-02-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "629bdc799882be093f8850e4031a69551278978a884fbd105ebcc9e739738cc3",
+      "submitted_at": "2024-08-28T20:12:17Z",
+      "updated_at": "2025-02-21T00:50:26Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2408.16119v2"
+    }
+  },
+  "note": "First published: 2024-08-28; Recorded arXiv version: v2; Recorded version updated: 2025-02-21T00:50:26Z.",
+  "author": [
+    {
+      "literal": "Chenglong Wang"
+    },
+    {
+      "literal": "Bongshin Lee"
+    },
+    {
+      "literal": "Steven Drucker"
+    },
+    {
+      "literal": "Dan Marshall"
+    },
+    {
+      "literal": "Jianfeng Gao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2408.16119",
+  "genre": "preprint",
+  "version": "2"
+}

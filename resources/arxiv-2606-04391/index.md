@@ -16,9 +16,16 @@ Bibliographic record for Online Skill Learning for Web Agents via State-Grounded
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-04391/record.json
+
 ## Authors
 
 Jiaxi Li, Ke Deng, Yun Wang, Jingyuan Huang, Yucheng Shi, Qiaoyu Tan, Jin Lu, Ninghao Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-04391/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-04391/citation.csl.json
 
 ## Recorded arXiv snapshot
 

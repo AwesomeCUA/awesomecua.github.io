@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2609.35814",
+  "citation-key": "arxiv_2609_35814",
+  "type": "article",
+  "title": "Constructing Challenging Browser-Use Tasks by Controlled Environment Interventions",
+  "URL": "https://arxiv.org/abs/2609.35814v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.35814",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.35814",
+    "identifiers": {
+      "arxiv": "2609.35814"
+    },
+    "first_published_at": "2026-09-20",
+    "record_updated_at": "2026-09-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "197cfb8424584955bc85602d6559037ad31ee815f89b45dc8f9f18c8636552ad",
+      "submitted_at": "2026-09-20T16:16:23Z",
+      "updated_at": "2026-09-20T16:16:23Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.35814v1"
+    }
+  },
+  "note": "First published: 2026-09-20; Recorded arXiv version: v1; Recorded version updated: 2026-09-20T16:16:23Z.",
+  "author": [
+    {
+      "literal": "Xunjian Yin"
+    },
+    {
+      "literal": "Tianchen Guan"
+    },
+    {
+      "literal": "Jinao Wang"
+    },
+    {
+      "literal": "Weili Cao"
+    },
+    {
+      "literal": "Daisy Xinlei Lin"
+    },
+    {
+      "literal": "Royce Cheng-Yue"
+    },
+    {
+      "literal": "Keagan Long"
+    },
+    {
+      "literal": "Kyle Wong"
+    },
+    {
+      "literal": "Bhuwan Dhingra"
+    },
+    {
+      "literal": "Xiangjun Wang"
+    },
+    {
+      "literal": "Shuyan Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.35814",
+  "genre": "preprint",
+  "version": "1"
+}

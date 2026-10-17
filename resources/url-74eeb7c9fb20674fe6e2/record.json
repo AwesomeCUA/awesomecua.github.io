@@ -1,0 +1,62 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "web",
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:38:27Z",
+      "role": "primary",
+      "sha256": "14f573af0c4ea3e5922b8831b7f03724936963e293d7c0aaa3fccbb71dbb0cfa",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://openai.com/index/computer-using-agent/"
+    }
+  ],
+  "id": "url:74eeb7c9fb20674fe6e2",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-16T06:38:27Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://openai.com/index/computer-using-agent/"
+    }
+  ],
+  "name": "OpenAI CUA",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://openai.com/index/computer-using-agent/",
+      "target_id": "organization:openai",
+      "type": "published_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Computer-using model introduced with the Operator research preview.",
+  "topics": [
+    "planning",
+    "grounding"
+  ],
+  "updated_at": null,
+  "url": "https://openai.com/index/computer-using-agent/"
+}

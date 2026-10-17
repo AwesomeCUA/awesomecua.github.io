@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2407.04346",
+  "citation-key": "arxiv_2407_04346",
+  "type": "article",
+  "title": "MobileFlow: A Multimodal LLM For Mobile GUI Agent",
+  "URL": "https://arxiv.org/abs/2407.04346v3",
+  "custom": {
+    "catalog_id": "arxiv:2407.04346",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2407.04346",
+    "identifiers": {
+      "arxiv": "2407.04346"
+    },
+    "first_published_at": "2024-07-05",
+    "record_updated_at": "2024-12-06",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "59708ce4edeba4e913ae890f458b51907dd2f3b0b10bb18c86469b36375c84e4",
+      "submitted_at": "2024-07-05T08:37:10Z",
+      "updated_at": "2024-12-06T07:43:34Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2407.04346v3"
+    }
+  },
+  "note": "First published: 2024-07-05; Recorded arXiv version: v3; Recorded version updated: 2024-12-06T07:43:34Z.",
+  "author": [
+    {
+      "literal": "Songqin Nong"
+    },
+    {
+      "literal": "Jiali Zhu"
+    },
+    {
+      "literal": "Rui Wu"
+    },
+    {
+      "literal": "Jiongchao Jin"
+    },
+    {
+      "literal": "Shuo Shan"
+    },
+    {
+      "literal": "Xiutian Huang"
+    },
+    {
+      "literal": "Wenhao Xu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.04346",
+  "genre": "preprint",
+  "version": "3"
+}

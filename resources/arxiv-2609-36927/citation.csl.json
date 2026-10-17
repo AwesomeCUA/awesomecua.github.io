@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2609.36927",
+  "citation-key": "arxiv_2609_36927",
+  "type": "article",
+  "title": "Neuro-Symbolic Computer Use: Learning Reusable Policies for Reliable and Efficient Execution",
+  "URL": "https://arxiv.org/abs/2609.36927v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.36927",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.36927",
+    "identifiers": {
+      "arxiv": "2609.36927"
+    },
+    "first_published_at": "2026-09-29",
+    "record_updated_at": "2026-09-29",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fdd9890482c07ef44f6e274c802bae5decd9d883b381545b3034ebd4001cdb34",
+      "submitted_at": "2026-09-29T07:44:22Z",
+      "updated_at": "2026-09-29T07:44:22Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.36927v1"
+    }
+  },
+  "note": "First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T07:44:22Z.",
+  "author": [
+    {
+      "literal": "Hyewon Suh"
+    },
+    {
+      "literal": "Thanh Minh Nguyen"
+    },
+    {
+      "literal": "Chih-Lun Lee"
+    },
+    {
+      "literal": "Darrow Hartman"
+    },
+    {
+      "literal": "Lizhao Liu"
+    },
+    {
+      "literal": "Xin Eric Wang"
+    },
+    {
+      "literal": "Ang Li"
+    },
+    {
+      "literal": "Jiachen Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.36927",
+  "genre": "preprint",
+  "version": "1"
+}

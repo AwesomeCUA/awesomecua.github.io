@@ -16,9 +16,16 @@ Bibliographic record for Understanding HTML with Large Language Models. Title, a
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2210-03945/record.json
+
 ## Authors
 
 Izzeddin Gur, Ofir Nachum, Yingjie Miao, Mustafa Safdari, Austin Huang, Aakanksha Chowdhery, Sharan Narang, Noah Fiedel, Aleksandra Faust
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2210-03945/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2210-03945/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Introduces LatentGUIWorld to test learning interface semantics and dynamics thro
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-16720/record.json
+
 ## Authors
 
 Jiahao Lu, Yize Shen, Chuanyuan Tan, Mianqiu Huang, Shicheng Fang, Xinchi Chen, Yining Zheng, Yuxin Wang, Xipeng Qiu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-16720/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-16720/citation.csl.json
 
 ## Recorded arXiv snapshot
 

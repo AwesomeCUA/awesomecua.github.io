@@ -16,9 +16,16 @@ Bibliographic record for Genie: Generative Interactive Environments. Title, auth
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-15391/record.json
+
 ## Authors
 
 Jake Bruce, Michael Dennis, Ashley Edwards, Jack Parker-Holder, Yuge Shi, Edward Hughes, Matthew Lai, Aditi Mavalankar, Richie Steigerwald, Chris Apps, Yusuf Aytar, Sarah Bechtle, Feryal Behbahani, Stephanie Chan, Nicolas Heess, Lucy Gonzalez, Simon Osindero, Sherjil Ozair, Scott Reed, Jingwei Zhang, Konrad Zolna, Jeff Clune, Nando de Freitas, Satinder Singh, Tim Rocktäschel
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-15391/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-15391/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,61 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T10:42:12Z",
+      "role": "primary",
+      "sha256": "55de0ed6627a5812d1f26d2a920e0af47afb17f8a99cae41b70a85ba30a23370",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/xbmxb/CoCo-Agent/HEAD/README.md"
+    }
+  ],
+  "id": "github:xbmxb/coco-agent",
+  "identifiers": {},
+  "kind": "agent",
+  "last_verified_at": "2026-10-16T10:42:12Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/xbmxb/CoCo-Agent"
+    }
+  ],
+  "name": "CoCo-Agent",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/xbmxb/CoCo-Agent/HEAD/README.md",
+      "target_id": "arxiv:2402.11941",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Research implementation combining screen and layout perception with conditional action prediction for smartphone automation.",
+  "topics": [
+    "mobile-navigation",
+    "screen-understanding"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/xbmxb/CoCo-Agent"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Casper: Accelerating Stencil Computation using Near-cac
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2112-14216/record.json
+
 ## Authors
 
 Alain Denzler, Rahul Bera, Nastaran Hajinazar, Gagandeep Singh, Geraldo F. Oliveira, Juan Gómez-Luna, Onur Mutlu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2112-14216/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2112-14216/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for WebFactory: Automated Compression of Foundational Langu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-05044/record.json
+
 ## Authors
 
 Sicheng Fan, Qingyun Shi, Shengze Xu, Shengbo Cai, Tieyong Zeng, Li Ling, Yanyi Shang, Dehan Kong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-05044/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-05044/citation.csl.json
 
 ## Recorded arXiv snapshot
 

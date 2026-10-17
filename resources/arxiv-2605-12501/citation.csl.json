@@ -1,0 +1,94 @@
+{
+  "id": "arxiv:2605.12501",
+  "citation-key": "arxiv_2605_12501",
+  "type": "article",
+  "title": "Covering Human Action Space for Computer Use: Data Synthesis and Benchmark",
+  "URL": "https://arxiv.org/abs/2605.12501v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.12501",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.12501",
+    "identifiers": {
+      "arxiv": "2605.12501"
+    },
+    "first_published_at": "2026-05-12",
+    "record_updated_at": "2026-05-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1fb57ba3cd858513d1da58d64a7c85388f12e331c9ea9f89204be5f43e6fec38",
+      "submitted_at": "2026-05-12T17:59:58Z",
+      "updated_at": "2026-05-12T17:59:58Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.12501v1"
+    }
+  },
+  "note": "First published: 2026-05-12; Recorded arXiv version: v1; Recorded version updated: 2026-05-12T17:59:58Z.",
+  "author": [
+    {
+      "literal": "Miaosen Zhang"
+    },
+    {
+      "literal": "Xiaohan Zhao"
+    },
+    {
+      "literal": "Zhihong Tan"
+    },
+    {
+      "literal": "Zhou Huoshen"
+    },
+    {
+      "literal": "Yijia Fan"
+    },
+    {
+      "literal": "Yifan Yang"
+    },
+    {
+      "literal": "Kai Qiu"
+    },
+    {
+      "literal": "Bei Liu"
+    },
+    {
+      "literal": "Justin Wagle"
+    },
+    {
+      "literal": "Chenzhong Yin"
+    },
+    {
+      "literal": "Mingxi Cheng"
+    },
+    {
+      "literal": "Ji Li"
+    },
+    {
+      "literal": "Qi Dai"
+    },
+    {
+      "literal": "Chong Luo"
+    },
+    {
+      "literal": "Xu Yang"
+    },
+    {
+      "literal": "Xin Geng"
+    },
+    {
+      "literal": "Baining Guo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.12501",
+  "genre": "preprint",
+  "version": "1"
+}

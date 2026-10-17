@@ -16,9 +16,16 @@ Uses hierarchical mobile agents and persistent tips and reusable action shortcut
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-11733/record.json
+
 ## Authors
 
 Zhenhailong Wang, Haiyang Xu, Junyang Wang, Xi Zhang, Ming Yan, Ji Zhang, Fei Huang, Heng Ji
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-11733/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-11733/citation.csl.json
 
 ## Recorded arXiv snapshot
 

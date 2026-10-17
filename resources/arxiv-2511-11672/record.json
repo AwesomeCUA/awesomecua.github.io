@@ -1,0 +1,111 @@
+{
+  "aliases": [],
+  "authors": [
+    "Zengyi Qin",
+    "Jinyuan Chen",
+    "Yunze Man",
+    "Shengcao Cao",
+    "Ziqi Pang",
+    "Zhuoyuan Wang",
+    "Han Fang",
+    "Ling Zhu",
+    "Zixin Xie",
+    "Zibu Wei",
+    "Tianshu Ran",
+    "Haoran Geng",
+    "Ray Pan",
+    "Qizhen Sun",
+    "Zachary Bright",
+    "Yuyang Cai",
+    "Chongye Yang",
+    "Jiace Zhao",
+    "Tianrui Liu",
+    "Han Cao",
+    "Yeyang Zhou",
+    "Rui Wang",
+    "Song Wang",
+    "Xiang Ren",
+    "Bo Zhang",
+    "Yutong Ban",
+    "Pieter Abbeel",
+    "Brian Anthony"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "755d41575ae8ee5d07be0022c8f078c742da4628f12ecd1cad984269441021cf",
+      "submitted_at": "2025-11-11T20:03:38Z",
+      "updated_at": "2026-04-02T02:42:36Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2511.11672v5"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:47Z",
+      "role": "primary",
+      "sha256": "ae98e77b8bb125e45277aacec768a047e7bb0e13f33ca9ff6ca7c19e29e56cca",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=500&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:47Z",
+      "role": "primary",
+      "sha256": "ae98e77b8bb125e45277aacec768a047e7bb0e13f33ca9ff6ca7c19e29e56cca",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=500&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2511.11672",
+  "identifiers": {
+    "arxiv": "2511.11672"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:47Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2511.11672"
+    }
+  ],
+  "name": "OSGym: Scalable OS Infra for Computer Use Agents",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2025-11-11",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "OSGym supplies full operating-system sandboxes with GUIs for parallel computer-use data collection and training. It combines per-replica state management, hardware-aware orchestration, copy-on-write virtual-machine disks, and layered failure recovery.",
+  "topics": [
+    "sandbox",
+    "efficiency",
+    "reinforcement-learning",
+    "data-generation"
+  ],
+  "updated_at": "2026-04-02",
+  "url": "https://arxiv.org/abs/2511.11672"
+}

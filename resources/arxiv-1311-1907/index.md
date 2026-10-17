@@ -16,9 +16,16 @@ Bibliographic record for Proactive bottleneck performance analysis in parallel c
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1311-1907/record.json
+
 ## Authors
 
 Vibha Rajput, Alok Katiyar
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1311-1907/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1311-1907/citation.csl.json
 
 ## Recorded arXiv snapshot
 

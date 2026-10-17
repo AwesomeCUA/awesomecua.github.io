@@ -16,9 +16,16 @@ Bibliographic record for IntentCUA: Learning Intent-level Representations for Sk
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-17049/record.json
+
 ## Authors
 
 Seoyoung Lee, Seobin Yoon, Seongbeen Lee, Yoojung Chun, Dayoung Park, Doyeon Kim, Joo Yong Sim
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-17049/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-17049/citation.csl.json
 
 ## Recorded arXiv snapshot
 

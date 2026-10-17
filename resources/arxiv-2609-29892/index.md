@@ -16,9 +16,16 @@ Bibliographic record for Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework f
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-29892/record.json
+
 ## Authors
 
 Tingyu Qu, Weigao Sun, Yuecheng Liu, Yucheng Zhao, Yi Zhu, Yifeng Ding, Qiyi Wang, Sihan Cao, Pengkun Jiao, Hanlei Xie, Xiongwei Wu, Qichao Wang, Haodong Zhang, Jiajun Liu, Yuhao Wang, Yuqing Xie, Junpeng Zhao, Long Chen, Ming Ma, Sihan Yang, Ziwang Zhao, Yanhao Jia, Liangquan Gong, Feida Zhu, Yiran Zhong, Steven Hoi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-29892/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-29892/citation.csl.json
 
 ## Recorded arXiv snapshot
 

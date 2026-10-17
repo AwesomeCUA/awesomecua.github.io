@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2503.06470",
+  "citation-key": "arxiv_2503_06470",
+  "type": "article",
+  "title": "Think Twice, Click Once: Enhancing GUI Grounding via Fast and Slow Systems",
+  "URL": "https://arxiv.org/abs/2503.06470v1",
+  "custom": {
+    "catalog_id": "arxiv:2503.06470",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2503.06470",
+    "identifiers": {
+      "arxiv": "2503.06470"
+    },
+    "first_published_at": "2025-03-09",
+    "record_updated_at": "2025-03-09",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ebc104ee6a868092ae0215f84a3c5c71894bfb321671476a74b794e1645210c7",
+      "submitted_at": "2025-03-09T06:14:17Z",
+      "updated_at": "2025-03-09T06:14:17Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2503.06470v1"
+    }
+  },
+  "note": "First published: 2025-03-09; Recorded arXiv version: v1; Recorded version updated: 2025-03-09T06:14:17Z.",
+  "author": [
+    {
+      "literal": "Fei Tang"
+    },
+    {
+      "literal": "Yongliang Shen"
+    },
+    {
+      "literal": "Hang Zhang"
+    },
+    {
+      "literal": "Siqi Chen"
+    },
+    {
+      "literal": "Guiyang Hou"
+    },
+    {
+      "literal": "Wenqi Zhang"
+    },
+    {
+      "literal": "Wenqiao Zhang"
+    },
+    {
+      "literal": "Kaitao Song"
+    },
+    {
+      "literal": "Weiming Lu"
+    },
+    {
+      "literal": "Yueting Zhuang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.06470",
+  "genre": "preprint",
+  "version": "1"
+}

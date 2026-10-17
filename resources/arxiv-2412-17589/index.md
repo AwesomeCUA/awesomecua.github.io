@@ -16,9 +16,16 @@ Combines PC Tracker interaction capture, completion of action and reasoning anno
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-17589/record.json
+
 ## Authors
 
 Yanheng He, Jiahe Jin, Shijie Xia, Jiadi Su, Runze Fan, Haoyang Zou, Xiangkun Hu, Pengfei Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-17589/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-17589/citation.csl.json
 
 ## Recorded arXiv snapshot
 

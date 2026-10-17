@@ -16,9 +16,16 @@ UFO uses two agents to inspect Windows application interfaces and their control 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-07939/record.json
+
 ## Authors
 
 Chaoyun Zhang, Liqun Li, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma, Yu Kang, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-07939/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-07939/citation.csl.json
 
 ## Recorded arXiv snapshot
 

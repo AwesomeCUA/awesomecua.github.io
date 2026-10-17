@@ -16,9 +16,16 @@ Bibliographic record for Trapped Ion Quantum Computing using Optical Tweezers an
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2106-07486/record.json
+
 ## Authors
 
 M. Mazzanti, R. X. Schüssler, J. D. Arias Espinoza, Z. Wu, R. Gerritsma, A. Safavi-Naini
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2106-07486/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2106-07486/citation.csl.json
 
 ## Recorded arXiv snapshot
 

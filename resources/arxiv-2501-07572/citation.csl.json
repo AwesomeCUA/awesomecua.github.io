@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2501.07572",
+  "citation-key": "arxiv_2501_07572",
+  "type": "article",
+  "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+  "URL": "https://arxiv.org/abs/2501.07572v3",
+  "custom": {
+    "catalog_id": "arxiv:2501.07572",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2501.07572",
+    "identifiers": {
+      "arxiv": "2501.07572"
+    },
+    "first_published_at": "2025-01-13",
+    "record_updated_at": "2025-08-10",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "32cf550b1e1d5b671b3a4c834787cb67c32c01f508494c5610dac91e95bd92ba",
+      "submitted_at": "2025-01-13T18:58:07Z",
+      "updated_at": "2025-08-10T05:59:20Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2501.07572v3"
+    }
+  },
+  "note": "First published: 2025-01-13; Recorded arXiv version: v3; Recorded version updated: 2025-08-10T05:59:20Z.",
+  "author": [
+    {
+      "literal": "Jialong Wu"
+    },
+    {
+      "literal": "Wenbiao Yin"
+    },
+    {
+      "literal": "Yong Jiang"
+    },
+    {
+      "literal": "Zhenglin Wang"
+    },
+    {
+      "literal": "Zekun Xi"
+    },
+    {
+      "literal": "Runnan Fang"
+    },
+    {
+      "literal": "Linhai Zhang"
+    },
+    {
+      "literal": "Yulan He"
+    },
+    {
+      "literal": "Deyu Zhou"
+    },
+    {
+      "literal": "Pengjun Xie"
+    },
+    {
+      "literal": "Fei Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2501.07572",
+  "genre": "preprint",
+  "version": "3"
+}

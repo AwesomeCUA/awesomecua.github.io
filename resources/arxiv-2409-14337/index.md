@@ -16,9 +16,16 @@ Builds mobile screenshot and view-hierarchy pairs through automated application 
 
 Summary and topic tags reviewed against the primary abstract. Reported experiments, task counts, and artifact availability are not independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2409-14337/record.json
+
 ## Authors
 
 Longxi Gao, Li Zhang, Shihe Wang, Pengzhi Gao, Wei Liu, Jian Luan, Shangguang Wang, Yuanchun Li, Mengwei Xu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2409-14337/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2409-14337/citation.csl.json
 
 ## Recorded arXiv snapshot
 

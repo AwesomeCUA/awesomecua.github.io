@@ -1,0 +1,23 @@
+{
+  "status": "excluded",
+  "id": "arxiv:2004.04114",
+  "reason": "The abstract proposes oscillator-based reservoir computing using synchronization metrics and demonstrates an XOR operation with coupled VO2 oscillators. This physical computing mechanism is outside the GUI/computer-use agent scope.",
+  "decision": {
+    "id": "arxiv:2004.04114",
+    "name": "Reservoir Computing using High Order Synchronization of Coupled Oscillators",
+    "url": "https://arxiv.org/abs/2004.04114",
+    "decision": "out_of_scope",
+    "basis": "primary_abstract_review",
+    "reason": "The abstract proposes oscillator-based reservoir computing using synchronization metrics and demonstrates an XOR operation with coupled VO2 oscillators. This physical computing mechanism is outside the GUI/computer-use agent scope.",
+    "reviewed_at": "2026-10-17T02:13:56Z",
+    "metadata_fingerprint": "cc104b74fd88b46d168c9eb3271e7e52ffa44c6c9ae12ca494c43a27f2eb7523",
+    "evidence": {
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=1000&max_results=100&sortBy=submittedDate&sortOrder=descending",
+      "sha256": "bb3d2692c294743a8d06d5065cc84b27b229a981c2c650ff20a2ec038797a0e3",
+      "retrieved_at": "2026-10-16T06:37:05Z"
+    },
+    "status": "excluded",
+    "status_reason": "Reviewed snapshot matches retained metadata."
+  },
+  "ledger_url": "https://awesomecua.github.io/downloads/exclusions.json"
+}

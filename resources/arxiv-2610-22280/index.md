@@ -16,9 +16,16 @@ Uses weak-agent uncertainty to decide when to escalate to a stronger model and m
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-22280/record.json
+
 ## Authors
 
 Qingni Wang, Changdae Oh, Yuzhe Yang, Sharon Li, Jiachen Yang, Ang Li, Xin Eric Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-22280/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-22280/citation.csl.json
 
 ## Recorded arXiv snapshot
 

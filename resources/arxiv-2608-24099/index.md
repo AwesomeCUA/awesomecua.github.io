@@ -16,9 +16,16 @@ Introduces AnTrap, which injects task-solvable runtime anomalies into Android GU
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-24099/record.json
+
 ## Authors
 
 Guo Gan, Yilun Zhao, Cong Chen, Jinbiao Wei, Tingyu Song, Zheyuan Yang, Lin Fu, Hong Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-24099/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-24099/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Autonomous Continual Learning for Environment Adaptatio
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-10356/record.json
+
 ## Authors
 
 Tianci Xue, Zeyi Liao, Tianneng Shi, Zilu Wang, Kai Zhang, Dawn Song, Yu Su, Huan Sun
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-10356/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-10356/citation.csl.json
 
 ## Recorded arXiv snapshot
 

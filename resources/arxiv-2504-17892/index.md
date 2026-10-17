@@ -16,9 +16,16 @@ Bibliographic record for Token Sequence Compression for Efficient Multimodal Com
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-17892/record.json
+
 ## Authors
 
 Yasmine Omri, Parth Shroff, Thierry Tambe
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-17892/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-17892/citation.csl.json
 
 ## Recorded arXiv snapshot
 

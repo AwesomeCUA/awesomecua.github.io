@@ -16,9 +16,16 @@ Bibliographic record for LongPuzzleBench: Evaluating GUI Agents on Long-Horizon 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-34769/record.json
+
 ## Authors
 
 Bingo Zhang, Haochuan Lu, Zongjie Li, Genjian Li, Ari Yu Zhang, Chaozheng Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-34769/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-34769/citation.csl.json
 
 ## Recorded arXiv snapshot
 

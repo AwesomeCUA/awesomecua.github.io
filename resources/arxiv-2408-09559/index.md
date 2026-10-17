@@ -16,9 +16,16 @@ Bibliographic record for HiAgent: Hierarchical Working Memory Management for Sol
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2408-09559/record.json
+
 ## Authors
 
 Mengkang Hu, Tianxing Chen, Qiguang Chen, Yao Mu, Wenqi Shao, Ping Luo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2408-09559/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2408-09559/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for SlideGen: Collaborative Multimodal Agents for Scientifi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-04529/record.json
+
 ## Authors
 
 Xin Liang, Zhilin Zhang, Xiang Zhang, Haoran Su, Yiwei Xu, Siqi Sun, Chenyu You
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-04529/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-04529/citation.csl.json
 
 ## Recorded arXiv snapshot
 

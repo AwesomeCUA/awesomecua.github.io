@@ -16,9 +16,16 @@ Bibliographic record for Discriminative World Models for Web Agents. Title, auth
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-02885/record.json
+
 ## Authors
 
 Kelvin Li, Dhruv Pendharkar, Anish Pahilajani, Chuyi Shang, Leon Oks, Leonid Karlinsky, Rogerio Feris, Trevor Darrell, Roei Herzig
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-02885/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-02885/citation.csl.json
 
 ## Recorded arXiv snapshot
 

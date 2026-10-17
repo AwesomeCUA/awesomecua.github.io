@@ -16,9 +16,16 @@ Bibliographic record for Automated Membership Inference Attacks (AutoMIA): Disco
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-19375/record.json
+
 ## Authors
 
 Toan Tran, Olivera Kotevska, Li Xiong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-19375/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-19375/citation.csl.json
 
 ## Recorded arXiv snapshot
 

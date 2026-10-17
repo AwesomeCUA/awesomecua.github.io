@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2406.11775",
+  "citation-key": "arxiv_2406_11775",
+  "type": "article",
+  "title": "Task Me Anything",
+  "URL": "https://arxiv.org/abs/2406.11775v2",
+  "custom": {
+    "catalog_id": "arxiv:2406.11775",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2406.11775",
+    "identifiers": {
+      "arxiv": "2406.11775"
+    },
+    "first_published_at": "2024-06-17",
+    "record_updated_at": "2025-01-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4b32dd32bc566e458346242abe354579f14edb16e56ea0e438949284d634bec5",
+      "submitted_at": "2024-06-17T17:32:42Z",
+      "updated_at": "2025-01-27T06:25:11Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2406.11775v2"
+    }
+  },
+  "note": "First published: 2024-06-17; Recorded arXiv version: v2; Recorded version updated: 2025-01-27T06:25:11Z.",
+  "author": [
+    {
+      "literal": "Jieyu Zhang"
+    },
+    {
+      "literal": "Weikai Huang"
+    },
+    {
+      "literal": "Zixian Ma"
+    },
+    {
+      "literal": "Oscar Michel"
+    },
+    {
+      "literal": "Dong He"
+    },
+    {
+      "literal": "Tanmay Gupta"
+    },
+    {
+      "literal": "Wei-Chiu Ma"
+    },
+    {
+      "literal": "Ali Farhadi"
+    },
+    {
+      "literal": "Aniruddha Kembhavi"
+    },
+    {
+      "literal": "Ranjay Krishna"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.11775",
+  "genre": "preprint",
+  "version": "2"
+}

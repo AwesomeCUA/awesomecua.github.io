@@ -16,6 +16,8 @@ GUI grounding model and training resources.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-infixai-infigui-g1/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/InfiXAI/InfiGUI-G1/HEAD/LICENSE

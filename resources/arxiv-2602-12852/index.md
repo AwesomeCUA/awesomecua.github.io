@@ -16,9 +16,16 @@ Bibliographic record for WebClipper: Efficient Evolution of Web Agents with Grap
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-12852/record.json
+
 ## Authors
 
 Junjie Wang, Zequn Xie, Dan Yang, Jie Feng, Yue Shen, Duolin Sun, Meixiu Long, Yihan Jiao, Zhehao Tan, Jian Wang, Peng Wei, Jinjie Gu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-12852/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-12852/citation.csl.json
 
 ## Recorded arXiv snapshot
 

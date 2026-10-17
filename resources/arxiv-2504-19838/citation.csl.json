@@ -1,0 +1,106 @@
+{
+  "id": "arxiv:2504.19838",
+  "citation-key": "arxiv_2504_19838",
+  "type": "article",
+  "title": "LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects",
+  "URL": "https://arxiv.org/abs/2504.19838v3",
+  "custom": {
+    "catalog_id": "arxiv:2504.19838",
+    "catalog_kind": "survey",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2504.19838",
+    "identifiers": {
+      "arxiv": "2504.19838"
+    },
+    "first_published_at": "2025-04-28",
+    "record_updated_at": "2025-11-17",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9103197fa1274fac79ae9e4472f5fbdc9a210548afb024f1d4259c6bb0131bf2",
+      "submitted_at": "2025-04-28T14:39:25Z",
+      "updated_at": "2025-11-17T15:51:58Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2504.19838v3"
+    }
+  },
+  "note": "First published: 2025-04-28; Recorded arXiv version: v3; Recorded version updated: 2025-11-17T15:51:58Z.",
+  "author": [
+    {
+      "literal": "Guangyi Liu"
+    },
+    {
+      "literal": "Pengxiang Zhao"
+    },
+    {
+      "literal": "Yaozhen Liang"
+    },
+    {
+      "literal": "Liang Liu"
+    },
+    {
+      "literal": "Yaxuan Guo"
+    },
+    {
+      "literal": "Han Xiao"
+    },
+    {
+      "literal": "Weifeng Lin"
+    },
+    {
+      "literal": "Yuxiang Chai"
+    },
+    {
+      "literal": "Yue Han"
+    },
+    {
+      "literal": "Shuai Ren"
+    },
+    {
+      "literal": "Hao Wang"
+    },
+    {
+      "literal": "Xiaoyu Liang"
+    },
+    {
+      "literal": "WenHao Wang"
+    },
+    {
+      "literal": "Tianze Wu"
+    },
+    {
+      "literal": "Zhengxi Lu"
+    },
+    {
+      "literal": "Siheng Chen"
+    },
+    {
+      "literal": "LiLinghao"
+    },
+    {
+      "literal": "Hao Wang"
+    },
+    {
+      "literal": "Guanjing Xiong"
+    },
+    {
+      "literal": "Yong Liu"
+    },
+    {
+      "literal": "Hongsheng Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.19838",
+  "genre": "preprint",
+  "version": "3"
+}

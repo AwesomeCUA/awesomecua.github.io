@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2610.17710",
+  "citation-key": "arxiv_2610_17710",
+  "type": "article",
+  "title": "Adaptive-Group Process Rewards for GUI Agents",
+  "URL": "https://arxiv.org/abs/2610.17710v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.17710",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.17710",
+    "identifiers": {
+      "arxiv": "2610.17710"
+    },
+    "first_published_at": "2026-10-13",
+    "record_updated_at": "2026-10-13",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "46ea5a1a350ccfcc12d22ab3783e05e3c580719962831561b01aeb3fcc6f6c28",
+      "submitted_at": "2026-10-13T04:37:18Z",
+      "updated_at": "2026-10-13T04:37:18Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.17710v1"
+    }
+  },
+  "note": "First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T04:37:18Z.",
+  "author": [
+    {
+      "literal": "Zirui Shang"
+    },
+    {
+      "literal": "Yang Liu"
+    },
+    {
+      "literal": "Xin Shu"
+    },
+    {
+      "literal": "Zhi Gao"
+    },
+    {
+      "literal": "Xinxiao Wu"
+    },
+    {
+      "literal": "Lifeng Fan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.17710",
+  "genre": "preprint",
+  "version": "1"
+}

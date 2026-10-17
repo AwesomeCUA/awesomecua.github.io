@@ -16,9 +16,16 @@ Studies how mobile automation can combine authentication factors within one agen
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-02154/record.json
+
 ## Authors
 
 Yimeng Liu, Hua Huang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-02154/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-02154/citation.csl.json
 
 ## Recorded arXiv snapshot
 

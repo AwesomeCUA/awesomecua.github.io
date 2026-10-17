@@ -16,9 +16,16 @@ Bibliographic record for Cost-Effective Realization of n-Bit Toffoli Gates for I
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-13104/record.json
+
 ## Authors
 
 Ali Al-Bayaty, Marek Perkowski
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-13104/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-13104/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Introduces GUI-Xplore exploration videos and downstream tasks, with an agent tha
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-17709/record.json
+
 ## Authors
 
 Yuchen Sun, Shanhui Zhao, Tao Yu, Hao Wen, Samith Va, Mengwei Xu, Yuanchun Li, Chongyang Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-17709/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-17709/citation.csl.json
 
 ## Recorded arXiv snapshot
 

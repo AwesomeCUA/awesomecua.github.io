@@ -1,0 +1,107 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/tencent/POINTS-GUI-G/tree/main",
+    "gated": false,
+    "hub_id": "tencent/POINTS-GUI-G"
+  },
+  "environments": [
+    "web",
+    "desktop",
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:03:33Z",
+      "role": "primary",
+      "sha256": "ac679d3cfdda8754e945d127935c9ed9030e6c9d0c9872f6224909ab2abe5c3f",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/tencent/POINTS-GUI-G/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:03:33Z",
+      "role": "primary",
+      "sha256": "3b97405c0a7f50298cf31a4933d31da356363c2ba5ecfaf73144cedeebc44db2",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/api/models/tencent/POINTS-GUI-G"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:00Z",
+      "role": "primary",
+      "sha256": "9f851237932688c15d261c016d51ff5ae80c43c5d0b4eaccac0b48d941118d80",
+      "supports": [
+        "environments"
+      ],
+      "url": "https://raw.githubusercontent.com/Tencent/POINTS-GUI/HEAD/README.md"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T02:03:33Z",
+      "role": "primary",
+      "sha256": "ac679d3cfdda8754e945d127935c9ed9030e6c9d0c9872f6224909ab2abe5c3f",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/tencent/POINTS-GUI-G/raw/main/README.md"
+    }
+  ],
+  "id": "url:cc931199bda2bdf1f5f7",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T02:03:33Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "other",
+      "retrieved_at": "2026-10-17T02:03:33Z",
+      "url": "https://huggingface.co/tencent/POINTS-GUI-G/raw/main/README.md"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/tencent/POINTS-GUI-G"
+    }
+  ],
+  "name": "POINTS-GUI-G 8B",
+  "notes": "Four safetensors shards and model code/configuration are public and ungated. The card declares license other without specifying a named weight license. This release is the grounding model; the same card says the end-to-end GUI agent model is still under development. No end-to-end agent capability is inferred from grounding scores.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/tencent/POINTS-GUI-G/raw/main/README.md",
+      "target_id": "arxiv:2602.06391",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A specialized interface-grounding checkpoint that returns normalized point coordinates for a requested element in a screenshot.",
+  "topics": [
+    "grounding",
+    "screen-understanding"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/tencent/POINTS-GUI-G"
+}

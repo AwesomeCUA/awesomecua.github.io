@@ -16,9 +16,16 @@ Bibliographic record for UEyes: An Eye-Tracking Dataset across User Interface Ty
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-05202/record.json
+
 ## Authors
 
 Yue Jiang, Luis A. Leiva, Paul R. B. Houssel, Hamed R. Tavakoli, Julia Kylmälä, Antti Oulasvirta
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-05202/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-05202/citation.csl.json
 
 ## Recorded arXiv snapshot
 

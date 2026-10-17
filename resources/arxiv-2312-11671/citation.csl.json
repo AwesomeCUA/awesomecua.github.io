@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2312.11671",
+  "citation-key": "arxiv_2312_11671",
+  "type": "article",
+  "title": "Evaluating Language-Model Agents on Realistic Autonomous Tasks",
+  "URL": "https://arxiv.org/abs/2312.11671v2",
+  "custom": {
+    "catalog_id": "arxiv:2312.11671",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2312.11671",
+    "identifiers": {
+      "arxiv": "2312.11671"
+    },
+    "first_published_at": "2023-12-18",
+    "record_updated_at": "2024-01-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "998715dd4203d6c1254c773975320f7105614b0359a1eaf845626a0fbca15106",
+      "submitted_at": "2023-12-18T19:27:09Z",
+      "updated_at": "2024-01-04T18:46:39Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2312.11671v2"
+    }
+  },
+  "note": "First published: 2023-12-18; Recorded arXiv version: v2; Recorded version updated: 2024-01-04T18:46:39Z.",
+  "author": [
+    {
+      "literal": "Megan Kinniment"
+    },
+    {
+      "literal": "Lucas Jun Koba Sato"
+    },
+    {
+      "literal": "Haoxing Du"
+    },
+    {
+      "literal": "Brian Goodrich"
+    },
+    {
+      "literal": "Max Hasin"
+    },
+    {
+      "literal": "Lawrence Chan"
+    },
+    {
+      "literal": "Luke Harold Miles"
+    },
+    {
+      "literal": "Tao R. Lin"
+    },
+    {
+      "literal": "Hjalmar Wijk"
+    },
+    {
+      "literal": "Joel Burget"
+    },
+    {
+      "literal": "Aaron Ho"
+    },
+    {
+      "literal": "Elizabeth Barnes"
+    },
+    {
+      "literal": "Paul Christiano"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2312.11671",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2506.19502",
+  "citation-key": "arxiv_2506_19502",
+  "type": "article",
+  "title": "MATE: LLM-Powered Multi-Agent Translation Environment for Accessibility Applications",
+  "URL": "https://arxiv.org/abs/2506.19502v2",
+  "custom": {
+    "catalog_id": "arxiv:2506.19502",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2506.19502",
+    "identifiers": {
+      "arxiv": "2506.19502"
+    },
+    "first_published_at": "2025-06-24",
+    "record_updated_at": "2025-07-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "615cc74d3dc42e042e07853f0528cadc9ab46b01dbcfaeadbfc659910415fa2f",
+      "submitted_at": "2025-06-24T10:40:23Z",
+      "updated_at": "2025-07-15T06:04:25Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2506.19502v2"
+    }
+  },
+  "note": "First published: 2025-06-24; Recorded arXiv version: v2; Recorded version updated: 2025-07-15T06:04:25Z.",
+  "author": [
+    {
+      "literal": "Aleksandr Algazinov"
+    },
+    {
+      "literal": "Matt Laing"
+    },
+    {
+      "literal": "Paul Laban"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.19502",
+  "genre": "preprint",
+  "version": "2"
+}

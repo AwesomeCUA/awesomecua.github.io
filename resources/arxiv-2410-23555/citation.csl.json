@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2410.23555",
+  "citation-key": "arxiv_2410_23555",
+  "type": "article",
+  "title": "From Context to Action: Analysis of the Impact of State Representation and Context on the Generalization of Multi-Turn Web Navigation Agents",
+  "URL": "https://arxiv.org/abs/2410.23555v1",
+  "custom": {
+    "catalog_id": "arxiv:2410.23555",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2410.23555",
+    "identifiers": {
+      "arxiv": "2410.23555"
+    },
+    "first_published_at": "2024-10-31",
+    "record_updated_at": "2024-10-31",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1c67b1559410152607fc9d54abf25c37ef939c9f755f089bdf87d4f39393c085",
+      "submitted_at": "2024-10-31T01:51:41Z",
+      "updated_at": "2024-10-31T01:51:41Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2410.23555v1"
+    }
+  },
+  "note": "First published: 2024-10-31; Recorded arXiv version: v1; Recorded version updated: 2024-10-31T01:51:41Z.",
+  "author": [
+    {
+      "literal": "Nalin Tiwary"
+    },
+    {
+      "literal": "Vardhan Dongre"
+    },
+    {
+      "literal": "Sanil Arun Chawla"
+    },
+    {
+      "literal": "Ashwin Lamani"
+    },
+    {
+      "literal": "Dilek Hakkani-Tür"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.23555",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2410.11872",
+  "citation-key": "arxiv_2410_11872",
+  "type": "article",
+  "title": "ClickAgent: Enhancing UI Location Capabilities of Autonomous Agents",
+  "URL": "https://arxiv.org/abs/2410.11872v2",
+  "custom": {
+    "catalog_id": "arxiv:2410.11872",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.11872",
+    "identifiers": {
+      "arxiv": "2410.11872"
+    },
+    "first_published_at": "2024-10-09",
+    "record_updated_at": "2024-10-17",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e804944da205076ac6cf88c7966c471697e526f657bda339e09df240257f7217",
+      "submitted_at": "2024-10-09T14:49:02Z",
+      "updated_at": "2024-10-17T07:12:31Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2410.11872v2"
+    }
+  },
+  "note": "First published: 2024-10-09; Recorded arXiv version: v2; Recorded version updated: 2024-10-17T07:12:31Z.",
+  "author": [
+    {
+      "literal": "Jakub Hoscilowicz"
+    },
+    {
+      "literal": "Bartosz Maj"
+    },
+    {
+      "literal": "Bartosz Kozakiewicz"
+    },
+    {
+      "literal": "Oleksii Tymoshchuk"
+    },
+    {
+      "literal": "Artur Janicki"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.11872",
+  "genre": "preprint",
+  "version": "2"
+}

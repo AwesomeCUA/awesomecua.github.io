@@ -1,0 +1,67 @@
+{
+  "aliases": [],
+  "authors": [
+    "Ilan Tzitrin",
+    "J. Eli Bourassa",
+    "Nicolas C. Menicucci",
+    "Krishna Kumar Sabapathy"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5f2489e3f61201b6f8c40ffbc0c97c7b3f2480d7af2a9a259617e6fe964b07c4",
+      "submitted_at": "2019-10-08T20:32:27Z",
+      "updated_at": "2020-03-16T14:18:14Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/1910.03673v2"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:37:05Z",
+      "role": "primary",
+      "sha256": "bb3d2692c294743a8d06d5065cc84b27b229a981c2c650ff20a2ec038797a0e3",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=1000&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:1910.03673",
+  "identifiers": {
+    "arxiv": "1910.03673"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:37:05Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/1910.03673"
+    }
+  ],
+  "name": "Progress towards practical qubit computation using approximate Gottesman-Kitaev-Preskill codes",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2019-10-08",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2020-03-16",
+  "url": "https://arxiv.org/abs/1910.03673"
+}

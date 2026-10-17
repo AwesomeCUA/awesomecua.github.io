@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2609.31957",
+  "citation-key": "arxiv_2609_31957",
+  "type": "article",
+  "title": "CaptchaArena: A Large-Scale, Fine-Grained Dataset for Training Computer-Use Agents on Interactive CAPTCHAs",
+  "URL": "https://arxiv.org/abs/2609.31957v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.31957",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.31957",
+    "identifiers": {
+      "arxiv": "2609.31957"
+    },
+    "first_published_at": "2026-09-25",
+    "record_updated_at": "2026-09-25",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fa2bcfa05fcbd6937af6ba3d23e892e5a105248939538dcdc9d7b015daf38593",
+      "submitted_at": "2026-09-25T20:04:24Z",
+      "updated_at": "2026-09-25T20:04:24Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.31957v1"
+    }
+  },
+  "note": "First published: 2026-09-25; Recorded arXiv version: v1; Recorded version updated: 2026-09-25T20:04:24Z.",
+  "author": [
+    {
+      "literal": "Zhenhao Zhang"
+    },
+    {
+      "literal": "Zhaoyu Fan"
+    },
+    {
+      "literal": "Haohan Ying"
+    },
+    {
+      "literal": "Jingwen Hu"
+    },
+    {
+      "literal": "Hancen Fan"
+    },
+    {
+      "literal": "Junhao Zhou"
+    },
+    {
+      "literal": "Zitian Chen"
+    },
+    {
+      "literal": "Linchao Zhu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.31957",
+  "genre": "preprint",
+  "version": "1"
+}

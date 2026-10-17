@@ -16,6 +16,8 @@ Browser-agent application associated with Steel.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-steel-dev-surf-new/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/steel-dev/surf.new/HEAD/LICENSE

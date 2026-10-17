@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2610.02320",
+  "citation-key": "arxiv_2610_02320",
+  "type": "article",
+  "title": "DeskForge: Dense Supervision from Desktop Environments for Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2610.02320v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.02320",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.02320",
+    "identifiers": {
+      "arxiv": "2610.02320"
+    },
+    "first_published_at": "2026-10-01",
+    "record_updated_at": "2026-10-01",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bd66468c2670ec22216e1592719a05e0b56af69606237a50f2067a340172553e",
+      "submitted_at": "2026-10-01T18:00:05Z",
+      "updated_at": "2026-10-01T18:00:05Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.02320v1"
+    }
+  },
+  "note": "First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T18:00:05Z.",
+  "author": [
+    {
+      "literal": "A. Said Gurbuz"
+    },
+    {
+      "literal": "Ahmed Nassar"
+    },
+    {
+      "literal": "Sunghwan Hong"
+    },
+    {
+      "literal": "Marc Pollefeys"
+    },
+    {
+      "literal": "Peter W. J. Staar"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.02320",
+  "genre": "preprint",
+  "version": "1"
+}

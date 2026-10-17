@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2602.10915",
+  "citation-key": "arxiv_2602_10915",
+  "type": "article",
+  "title": "Blind Gods and Broken Screens: Architecting a Secure, Intent-Centric Mobile Agent Operating System",
+  "URL": "https://arxiv.org/abs/2602.10915v3",
+  "custom": {
+    "catalog_id": "arxiv:2602.10915",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.10915",
+    "identifiers": {
+      "arxiv": "2602.10915"
+    },
+    "first_published_at": "2026-02-11",
+    "record_updated_at": "2026-02-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f973754a1630fac3c37307f39fc7346601f2bf269a0a2804e8c0841895d1a9d5",
+      "submitted_at": "2026-02-11T14:52:27Z",
+      "updated_at": "2026-02-13T12:42:39Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2602.10915v3"
+    }
+  },
+  "note": "First published: 2026-02-11; Recorded arXiv version: v3; Recorded version updated: 2026-02-13T12:42:39Z.",
+  "author": [
+    {
+      "literal": "Zhenhua Zou"
+    },
+    {
+      "literal": "Sheng Guo"
+    },
+    {
+      "literal": "Qiuyang Zhan"
+    },
+    {
+      "literal": "Lepeng Zhao"
+    },
+    {
+      "literal": "Shuo Li"
+    },
+    {
+      "literal": "Qi Li"
+    },
+    {
+      "literal": "Ke Xu"
+    },
+    {
+      "literal": "Mingwei Xu"
+    },
+    {
+      "literal": "Zhuotao Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.10915",
+  "genre": "preprint",
+  "version": "3"
+}

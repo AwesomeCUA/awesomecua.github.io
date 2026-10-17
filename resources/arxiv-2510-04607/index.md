@@ -16,9 +16,16 @@ Bibliographic record for From Imperative to Declarative: Towards LLM-friendly OS
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-04607/record.json
+
 ## Authors
 
 Yuan Wang, Mingyu Li, Haibo Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-04607/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-04607/citation.csl.json
 
 ## Recorded arXiv snapshot
 

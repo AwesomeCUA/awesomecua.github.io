@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2606.13385",
+  "citation-key": "arxiv_2606_13385",
+  "type": "article",
+  "title": "Who Pays the Price? Stakeholder-Centric Prompt Injection Benchmarking for Real-world Web Agents",
+  "URL": "https://arxiv.org/abs/2606.13385v2",
+  "custom": {
+    "catalog_id": "arxiv:2606.13385",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2606.13385",
+    "identifiers": {
+      "arxiv": "2606.13385"
+    },
+    "first_published_at": "2026-06-11",
+    "record_updated_at": "2026-07-27",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "88b7e2ee8717661e4f8b417916e35b844171ecd8a8a2add657cf341c8f759536",
+      "submitted_at": "2026-06-11T14:12:43Z",
+      "updated_at": "2026-07-27T14:19:24Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2606.13385v2"
+    }
+  },
+  "note": "First published: 2026-06-11; Recorded arXiv version: v2; Recorded version updated: 2026-07-27T14:19:24Z.",
+  "author": [
+    {
+      "literal": "Zihao Wang"
+    },
+    {
+      "literal": "Yiming Li"
+    },
+    {
+      "literal": "Yutong Wu"
+    },
+    {
+      "literal": "Kangjie Chen"
+    },
+    {
+      "literal": "Zheyu Liu"
+    },
+    {
+      "literal": "Fok Kar Wai"
+    },
+    {
+      "literal": "Pin-Yu Chen"
+    },
+    {
+      "literal": "Vrizlynn L. L. Thing"
+    },
+    {
+      "literal": "Bo Li"
+    },
+    {
+      "literal": "Dacheng Tao"
+    },
+    {
+      "literal": "Tianwei Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.13385",
+  "genre": "preprint",
+  "version": "2"
+}

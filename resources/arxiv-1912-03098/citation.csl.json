@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:1912.03098",
+  "citation-key": "arxiv_1912_03098",
+  "type": "article",
+  "title": "Connecting Vision and Language with Localized Narratives",
+  "URL": "https://arxiv.org/abs/1912.03098v4",
+  "custom": {
+    "catalog_id": "arxiv:1912.03098",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1912.03098",
+    "identifiers": {
+      "arxiv": "1912.03098"
+    },
+    "first_published_at": "2019-12-06",
+    "record_updated_at": "2020-07-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e370bd79e2b80f3f18713989448c794a51ea56dfde61b4c1708aa3b14bf6cb6e",
+      "submitted_at": "2019-12-06T13:21:16Z",
+      "updated_at": "2020-07-20T17:18:38Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/1912.03098v4"
+    }
+  },
+  "note": "First published: 2019-12-06; Recorded arXiv version: v4; Recorded version updated: 2020-07-20T17:18:38Z.",
+  "author": [
+    {
+      "literal": "Jordi Pont-Tuset"
+    },
+    {
+      "literal": "Jasper Uijlings"
+    },
+    {
+      "literal": "Soravit Changpinyo"
+    },
+    {
+      "literal": "Radu Soricut"
+    },
+    {
+      "literal": "Vittorio Ferrari"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        12,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1912.03098",
+  "genre": "preprint",
+  "version": "4"
+}

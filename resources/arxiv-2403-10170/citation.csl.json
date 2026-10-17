@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2403.10170",
+  "citation-key": "arxiv_2403_10170",
+  "type": "article",
+  "title": "Computer User Interface Understanding. A New Dataset and a Learning Framework",
+  "URL": "https://arxiv.org/abs/2403.10170v2",
+  "custom": {
+    "catalog_id": "arxiv:2403.10170",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2403.10170",
+    "identifiers": {
+      "arxiv": "2403.10170"
+    },
+    "first_published_at": "2024-03-15",
+    "record_updated_at": "2024-08-27",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "aacb4d2cac31e478aa56ee25b6b39e5ba8fe164f89102e665f8fb25cf3822e7b",
+      "submitted_at": "2024-03-15T10:26:52Z",
+      "updated_at": "2024-08-27T18:36:12Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2403.10170v2"
+    }
+  },
+  "note": "First published: 2024-03-15; Recorded arXiv version: v2; Recorded version updated: 2024-08-27T18:36:12Z.",
+  "author": [
+    {
+      "literal": "Andrés Muñoz"
+    },
+    {
+      "literal": "Daniel Borrajo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.10170",
+  "genre": "preprint",
+  "version": "2"
+}

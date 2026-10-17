@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2512.01763",
+  "citation-key": "arxiv_2512_01763",
+  "type": "article",
+  "title": "HiconAgent: History Context-aware Policy Optimization for GUI Agents",
+  "URL": "https://arxiv.org/abs/2512.01763v2",
+  "custom": {
+    "catalog_id": "arxiv:2512.01763",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2512.01763",
+    "identifiers": {
+      "arxiv": "2512.01763"
+    },
+    "first_published_at": "2025-12-01",
+    "record_updated_at": "2026-03-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3a6eb58f9b6349ab9cc33444d8ea82c8f17653cc4a7f4b19ffc94e3b4fb894b3",
+      "submitted_at": "2025-12-01T15:06:45Z",
+      "updated_at": "2026-03-08T10:18:14Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2512.01763v2"
+    }
+  },
+  "note": "First published: 2025-12-01; Recorded arXiv version: v2; Recorded version updated: 2026-03-08T10:18:14Z.",
+  "author": [
+    {
+      "literal": "Xurui Zhou"
+    },
+    {
+      "literal": "Gongwei Chen"
+    },
+    {
+      "literal": "Yuquan Xie"
+    },
+    {
+      "literal": "Zaijing Li"
+    },
+    {
+      "literal": "Kaiwen Zhou"
+    },
+    {
+      "literal": "Shuai Wang"
+    },
+    {
+      "literal": "Shuo Yang"
+    },
+    {
+      "literal": "Zhuotao Tian"
+    },
+    {
+      "literal": "Rui Shao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2512.01763",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "arxiv:2404.07972",
+  "citation-key": "arxiv_2404_07972",
+  "type": "article",
+  "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+  "URL": "https://arxiv.org/abs/2404.07972v2",
+  "custom": {
+    "catalog_id": "arxiv:2404.07972",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2404.07972",
+    "identifiers": {
+      "arxiv": "2404.07972"
+    },
+    "first_published_at": "2024-04-11",
+    "record_updated_at": "2024-05-30",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a347bfcb4de03a60410392b52d522e5b7ad5dbabb474d60fc1ec097e74c4008d",
+      "submitted_at": "2024-04-11T17:56:05Z",
+      "updated_at": "2024-05-30T08:55:12Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2404.07972v2"
+    }
+  },
+  "note": "First published: 2024-04-11; Recorded arXiv version: v2; Recorded version updated: 2024-05-30T08:55:12Z.",
+  "author": [
+    {
+      "literal": "Tianbao Xie"
+    },
+    {
+      "literal": "Danyang Zhang"
+    },
+    {
+      "literal": "Jixuan Chen"
+    },
+    {
+      "literal": "Xiaochuan Li"
+    },
+    {
+      "literal": "Siheng Zhao"
+    },
+    {
+      "literal": "Ruisheng Cao"
+    },
+    {
+      "literal": "Toh Jing Hua"
+    },
+    {
+      "literal": "Zhoujun Cheng"
+    },
+    {
+      "literal": "Dongchan Shin"
+    },
+    {
+      "literal": "Fangyu Lei"
+    },
+    {
+      "literal": "Yitao Liu"
+    },
+    {
+      "literal": "Yiheng Xu"
+    },
+    {
+      "literal": "Shuyan Zhou"
+    },
+    {
+      "literal": "Silvio Savarese"
+    },
+    {
+      "literal": "Caiming Xiong"
+    },
+    {
+      "literal": "Victor Zhong"
+    },
+    {
+      "literal": "Tao Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.07972",
+  "genre": "preprint",
+  "version": "2"
+}

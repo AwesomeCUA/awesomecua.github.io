@@ -16,9 +16,16 @@ Bibliographic record for Can AI Agents Answer Your Data Questions? A Benchmark f
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-20576/record.json
+
 ## Authors
 
 Ruiying Ma, Shreya Shankar, Ruiqi Chen, Yiming Lin, Sepanta Zeighami, Rajoshi Ghosh, Abhinav Gupta, Anushrut Gupta, Tanmai Gopal, Aditya G. Parameswaran
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-20576/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-20576/citation.csl.json
 
 ## Recorded arXiv snapshot
 

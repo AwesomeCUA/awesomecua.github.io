@@ -16,9 +16,16 @@ Splits mobile tasks into reaching the required page and operating on it, using s
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-02955/record.json
+
 ## Authors
 
 Qinzhuo Wu, Wei Liu, Jian Luan, Bin Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-02955/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-02955/citation.csl.json
 
 ## Recorded arXiv snapshot
 

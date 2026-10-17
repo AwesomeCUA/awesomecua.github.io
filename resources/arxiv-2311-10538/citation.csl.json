@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2311.10538",
+  "citation-key": "arxiv_2311_10538",
+  "type": "article",
+  "title": "Testing Language Model Agents Safely in the Wild",
+  "URL": "https://arxiv.org/abs/2311.10538v3",
+  "custom": {
+    "catalog_id": "arxiv:2311.10538",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2311.10538",
+    "identifiers": {
+      "arxiv": "2311.10538"
+    },
+    "first_published_at": "2023-11-17",
+    "record_updated_at": "2023-12-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cbce7e5d2ad2b6d29136b52b0532eb118f71a926ddcac32ba672ce177c3132e6",
+      "submitted_at": "2023-11-17T14:06:05Z",
+      "updated_at": "2023-12-03T13:18:09Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2311.10538v3"
+    }
+  },
+  "note": "First published: 2023-11-17; Recorded arXiv version: v3; Recorded version updated: 2023-12-03T13:18:09Z.",
+  "author": [
+    {
+      "literal": "Silen Naihin"
+    },
+    {
+      "literal": "David Atkinson"
+    },
+    {
+      "literal": "Marc Green"
+    },
+    {
+      "literal": "Merwane Hamadi"
+    },
+    {
+      "literal": "Craig Swift"
+    },
+    {
+      "literal": "Douglas Schonholtz"
+    },
+    {
+      "literal": "Adam Tauman Kalai"
+    },
+    {
+      "literal": "David Bau"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.10538",
+  "genre": "preprint",
+  "version": "3"
+}

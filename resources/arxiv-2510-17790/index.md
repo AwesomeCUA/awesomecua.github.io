@@ -16,9 +16,16 @@ UltraCUA trains a shared policy for primitive GUI actions and high-level tool ca
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-17790/record.json
+
 ## Authors
 
 Yuhao Yang, Zhen Yang, Zi-Yi Dou, Anh Nguyen, Keen You, Omar Attia, Andrew Szot, Michael Feng, Ram Ramrakhya, Alexander Toshev, Chao Huang, Yinfei Yang, Zhe Gan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-17790/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-17790/citation.csl.json
 
 ## Recorded arXiv snapshot
 

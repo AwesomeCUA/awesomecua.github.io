@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:1811.06521",
+  "citation-key": "arxiv_1811_06521",
+  "type": "article",
+  "title": "Reward learning from human preferences and demonstrations in Atari",
+  "URL": "https://arxiv.org/abs/1811.06521v1",
+  "custom": {
+    "catalog_id": "arxiv:1811.06521",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1811.06521",
+    "identifiers": {
+      "arxiv": "1811.06521"
+    },
+    "first_published_at": "2018-11-15",
+    "record_updated_at": "2018-11-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d19839b8c60b94d4e6b12973bdf92cfd9aaa74d5140ecdc97b133793bcc15177",
+      "submitted_at": "2018-11-15T18:33:43Z",
+      "updated_at": "2018-11-15T18:33:43Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1811.06521v1"
+    }
+  },
+  "note": "First published: 2018-11-15; Recorded arXiv version: v1; Recorded version updated: 2018-11-15T18:33:43Z.",
+  "author": [
+    {
+      "literal": "Borja Ibarz"
+    },
+    {
+      "literal": "Jan Leike"
+    },
+    {
+      "literal": "Tobias Pohlen"
+    },
+    {
+      "literal": "Geoffrey Irving"
+    },
+    {
+      "literal": "Shane Legg"
+    },
+    {
+      "literal": "Dario Amodei"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        11,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1811.06521",
+  "genre": "preprint",
+  "version": "1"
+}

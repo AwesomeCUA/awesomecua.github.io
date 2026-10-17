@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2607.15550",
+  "citation-key": "arxiv_2607_15550",
+  "type": "article",
+  "title": "SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction",
+  "URL": "https://arxiv.org/abs/2607.15550v3",
+  "custom": {
+    "catalog_id": "arxiv:2607.15550",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2607.15550",
+    "identifiers": {
+      "arxiv": "2607.15550"
+    },
+    "first_published_at": "2026-07-17",
+    "record_updated_at": "2026-09-02",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6a15963a7fb4dfd488f0e79732d9ea0c9a03d43c1e3d5e50dd1ee8e00f1072be",
+      "submitted_at": "2026-07-17T01:45:54Z",
+      "updated_at": "2026-09-02T01:49:21Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2607.15550v3"
+    }
+  },
+  "note": "First published: 2026-07-17; Recorded arXiv version: v3; Recorded version updated: 2026-09-02T01:49:21Z.",
+  "author": [
+    {
+      "literal": "Xue Yu"
+    },
+    {
+      "literal": "Bo Yuan"
+    },
+    {
+      "literal": "Kailin Zhao"
+    },
+    {
+      "literal": "Pengshuai Yang"
+    },
+    {
+      "literal": "Hong Hu"
+    },
+    {
+      "literal": "Junlan Feng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.15550",
+  "genre": "preprint",
+  "version": "3"
+}

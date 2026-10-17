@@ -1,0 +1,64 @@
+{
+  "aliases": [],
+  "authors": [
+    "Kuntal Roy"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "31eb4c33a8a0da280eb17388d1909206315555aae925d634e93ba2a93d130c87",
+      "submitted_at": "2014-12-06T06:15:46Z",
+      "updated_at": "2015-01-22T20:53:34Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/1412.2200v2"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:37:09Z",
+      "role": "primary",
+      "sha256": "a3ebf2fcfa181413d078dc3408f17bfabfac87f9aee1c78994840197df701e9d",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=1100&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:1412.2200",
+  "identifiers": {
+    "arxiv": "1412.2200"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:37:09Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/1412.2200"
+    }
+  ],
+  "name": "Response to \"Comment on \"Ultra-low-energy non-volatile straintronic computing using single multiferroic composites\"\" [Appl. Phys. Lett. 103, 173110 (2013)]",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2014-12-06",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2015-01-22",
+  "url": "https://arxiv.org/abs/1412.2200"
+}

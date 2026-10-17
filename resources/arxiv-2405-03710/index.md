@@ -16,9 +16,16 @@ Bibliographic record for Automating the Enterprise with Foundation Models. Title
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2405-03710/record.json
+
 ## Authors
 
 Michael Wornow, Avanika Narayan, Krista Opsahl-Ong, Quinn McIntyre, Nigam H. Shah, Christopher Re
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2405-03710/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-03710/citation.csl.json
 
 ## Recorded arXiv snapshot
 

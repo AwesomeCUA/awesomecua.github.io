@@ -16,9 +16,16 @@ Aligns human screen recordings, input events, and accessibility information to d
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-12984/record.json
+
 ## Authors
 
 Yuqi Huang, Hui Li, Yifei Cao, Zikun Cai, Tianci Xie, Yangfan Gao, Pinxue Guo, Chaoyun Zhang, Bingxuan Li, Rui Zheng, Hang Yan, Ning Liao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-12984/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-12984/citation.csl.json
 
 ## Recorded arXiv snapshot
 

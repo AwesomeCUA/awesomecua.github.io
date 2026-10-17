@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2509.06501",
+  "citation-key": "arxiv_2509_06501",
+  "type": "article",
+  "title": "WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents",
+  "URL": "https://arxiv.org/abs/2509.06501v3",
+  "custom": {
+    "catalog_id": "arxiv:2509.06501",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.06501",
+    "identifiers": {
+      "arxiv": "2509.06501"
+    },
+    "first_published_at": "2025-09-08",
+    "record_updated_at": "2025-09-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "120d73f67e9e530b252df457e6157bba1d0a520a6825b9101db41fe65f9b83b7",
+      "submitted_at": "2025-09-08T10:07:03Z",
+      "updated_at": "2025-09-26T02:31:59Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2509.06501v3"
+    }
+  },
+  "note": "First published: 2025-09-08; Recorded arXiv version: v3; Recorded version updated: 2025-09-26T02:31:59Z.",
+  "author": [
+    {
+      "literal": "Junteng Liu"
+    },
+    {
+      "literal": "Yunji Li"
+    },
+    {
+      "literal": "Chi Zhang"
+    },
+    {
+      "literal": "Jingyang Li"
+    },
+    {
+      "literal": "Aili Chen"
+    },
+    {
+      "literal": "Ke Ji"
+    },
+    {
+      "literal": "Weiyu Cheng"
+    },
+    {
+      "literal": "Zijia Wu"
+    },
+    {
+      "literal": "Chengyu Du"
+    },
+    {
+      "literal": "Qidi Xu"
+    },
+    {
+      "literal": "Jiayuan Song"
+    },
+    {
+      "literal": "Zhengmao Zhu"
+    },
+    {
+      "literal": "Wenhu Chen"
+    },
+    {
+      "literal": "Pengyu Zhao"
+    },
+    {
+      "literal": "Junxian He"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.06501",
+  "genre": "preprint",
+  "version": "3"
+}

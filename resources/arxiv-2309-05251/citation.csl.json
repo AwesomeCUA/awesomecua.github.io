@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2309.05251",
+  "citation-key": "arxiv_2309_05251",
+  "type": "article",
+  "title": "Multi3DRefer: Grounding Text Description to Multiple 3D Objects",
+  "URL": "https://arxiv.org/abs/2309.05251v1",
+  "custom": {
+    "catalog_id": "arxiv:2309.05251",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2309.05251",
+    "identifiers": {
+      "arxiv": "2309.05251"
+    },
+    "first_published_at": "2023-09-11",
+    "record_updated_at": "2023-09-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a3aa030d97353c0e0d77fa7956509b38316a9497250ecde52479d2c19893bde4",
+      "submitted_at": "2023-09-11T06:03:39Z",
+      "updated_at": "2023-09-11T06:03:39Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2309.05251v1"
+    }
+  },
+  "note": "First published: 2023-09-11; Recorded arXiv version: v1; Recorded version updated: 2023-09-11T06:03:39Z.",
+  "author": [
+    {
+      "literal": "Yiming Zhang"
+    },
+    {
+      "literal": "ZeMing Gong"
+    },
+    {
+      "literal": "Angel X. Chang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2309.05251",
+  "genre": "preprint",
+  "version": "1"
+}

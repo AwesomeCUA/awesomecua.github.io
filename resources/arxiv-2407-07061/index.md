@@ -16,9 +16,16 @@ Bibliographic record for Internet of Agents: Weaving a Web of Heterogeneous Agen
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-07061/record.json
+
 ## Authors
 
 Weize Chen, Ziming You, Ran Li, Yitong Guan, Chen Qian, Chenyang Zhao, Cheng Yang, Ruobing Xie, Zhiyuan Liu, Maosong Sun
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-07061/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-07061/citation.csl.json
 
 ## Recorded arXiv snapshot
 

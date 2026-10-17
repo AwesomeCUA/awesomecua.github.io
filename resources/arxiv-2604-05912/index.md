@@ -16,9 +16,16 @@ Bibliographic record for FrontierFinance: A Long-Horizon Computer-Use Benchmark 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-05912/record.json
+
 ## Authors
 
 Michael Krumdick, Varshini Reddy, Shivani Chaudhary, William Day, Maarij Ahmed, Hayan Haqqi, Muhammad Ahsen Fahim, Hanzallah Amjad, Ahmad Orakzai, Aqsa Gul, Chris Tanner
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-05912/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-05912/citation.csl.json
 
 ## Recorded arXiv snapshot
 

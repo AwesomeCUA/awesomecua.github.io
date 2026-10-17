@@ -16,9 +16,16 @@ Bibliographic record for Benchmarking General Mobile Assistants in Challenging R
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-27477/record.json
+
 ## Authors
 
 Yiqi Zhu, Feiyu Gao, Jiaxing Fan, Jiahui Zeng, Minggang Wu, Chenliang Li, Haiyang Xu, Peng Li, Ming Yan, Yang Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-27477/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-27477/citation.csl.json
 
 ## Recorded arXiv snapshot
 

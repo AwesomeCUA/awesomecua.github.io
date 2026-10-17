@@ -16,9 +16,16 @@ Bibliographic record for Orchard: An Open-Source Agentic Modeling Framework. Tit
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-15040/record.json
+
 ## Authors
 
 Baolin Peng, Wenlin Yao, Qianhui Wu, Hao Cheng, Xiao Yu, Rui Yang, Tao Ge, Alessandro Sordoni, Xingdi Yuan, Yelong Shen, Pengcheng He, Tong Zhang, Zhou Yu, Jianfeng Gao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-15040/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-15040/citation.csl.json
 
 ## Recorded arXiv snapshot
 

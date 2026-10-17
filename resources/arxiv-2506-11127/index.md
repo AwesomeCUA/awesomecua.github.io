@@ -16,9 +16,16 @@ Bibliographic record for UITron-Speech: Towards Automated GUI Agents Based on Sp
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-11127/record.json
+
 ## Authors
 
 Wenkang Han, Zhixiong Zeng, Jing Huang, Shu Jiang, Liming Zheng, Longrong Yang, Haibo Qiu, Chang Yao, Jingyuan Chen, Lin Ma
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-11127/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-11127/citation.csl.json
 
 ## Recorded arXiv snapshot
 

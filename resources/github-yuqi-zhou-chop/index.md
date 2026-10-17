@@ -16,6 +16,8 @@ Mobile automation framework that uses reusable basis subtasks to constrain and r
 
 The README says the complete CHOP-ZH dataset remains unreleased. Android and HarmonyOS compatibility is publisher-documented and has not been runtime-tested here.
 
+- Record JSON: https://awesomecua.github.io/resources/github-yuqi-zhou-chop/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/Yuqi-Zhou/CHOP/HEAD/LICENSE

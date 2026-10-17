@@ -16,9 +16,16 @@ Bibliographic record for Efficient encoding of the weighted MAX k-CUT on a quant
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2009-01095/record.json
+
 ## Authors
 
 Franz Georg Fuchs, Herman Øie Kolden, Niels Henrik Aase, Giorgio Sartor
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2009-01095/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2009-01095/citation.csl.json
 
 ## Recorded arXiv snapshot
 

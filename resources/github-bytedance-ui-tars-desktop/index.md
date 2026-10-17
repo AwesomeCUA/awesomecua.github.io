@@ -16,6 +16,8 @@ Desktop application for running GUI agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-bytedance-ui-tars-desktop/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/bytedance/UI-TARS-desktop/HEAD/LICENSE

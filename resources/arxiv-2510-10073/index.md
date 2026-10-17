@@ -16,9 +16,16 @@ Bibliographic record for SecureWebArena: A Holistic Security Evaluation Benchmar
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-10073/record.json
+
 ## Authors
 
 Zonghao Ying, Yangguang Shao, Jianle Gan, Gan Xu, Wenxin Zhang, Quanchen Zou, Junzheng Shi, Zhenfei Yin, Mingchuan Zhang, Aishan Liu, Xianglong Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-10073/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-10073/citation.csl.json
 
 ## Recorded arXiv snapshot
 

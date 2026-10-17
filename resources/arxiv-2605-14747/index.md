@@ -16,9 +16,16 @@ Bibliographic record for Video2GUI: Synthesizing Large-Scale Interaction Traject
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-14747/record.json
+
 ## Authors
 
 Weimin Xiong, Shuhao Gu, Bowen Ye, Zihao Yue, Lei Li, Feifan Song, Sujian Li, Hao Tian
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-14747/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-14747/citation.csl.json
 
 ## Recorded arXiv snapshot
 

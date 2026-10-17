@@ -16,9 +16,16 @@ Bibliographic record for MineDojo: Building Open-Ended Embodied Agents with Inte
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2206-08853/record.json
+
 ## Authors
 
 Linxi Fan, Guanzhi Wang, Yunfan Jiang, Ajay Mandlekar, Yuncong Yang, Haoyi Zhu, Andrew Tang, De-An Huang, Yuke Zhu, Anima Anandkumar
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2206-08853/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2206-08853/citation.csl.json
 
 ## Recorded arXiv snapshot
 

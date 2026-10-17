@@ -16,9 +16,16 @@ Dynamic Planning of Thoughts revises a mobile GUI plan using current environment
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-00467/record.json
+
 ## Authors
 
 Shaoqing Zhang, Zhuosheng Zhang, Kehai Chen, Xinbei Ma, Muyun Yang, Tiejun Zhao, Min Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-00467/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-00467/citation.csl.json
 
 ## Recorded arXiv snapshot
 

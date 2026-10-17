@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2402.14073",
+  "citation-key": "arxiv_2402_14073",
+  "type": "article",
+  "title": "Improving Language Understanding from Screenshots",
+  "URL": "https://arxiv.org/abs/2402.14073v1",
+  "custom": {
+    "catalog_id": "arxiv:2402.14073",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2402.14073",
+    "identifiers": {
+      "arxiv": "2402.14073"
+    },
+    "first_published_at": "2024-02-21",
+    "record_updated_at": "2024-02-21",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0f3eed6e0021be438af9d056e97f71a838af905b948cfd6499423ab18df11e43",
+      "submitted_at": "2024-02-21T19:01:03Z",
+      "updated_at": "2024-02-21T19:01:03Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2402.14073v1"
+    }
+  },
+  "note": "First published: 2024-02-21; Recorded arXiv version: v1; Recorded version updated: 2024-02-21T19:01:03Z.",
+  "author": [
+    {
+      "literal": "Tianyu Gao"
+    },
+    {
+      "literal": "Zirui Wang"
+    },
+    {
+      "literal": "Adithya Bhaskar"
+    },
+    {
+      "literal": "Danqi Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.14073",
+  "genre": "preprint",
+  "version": "1"
+}

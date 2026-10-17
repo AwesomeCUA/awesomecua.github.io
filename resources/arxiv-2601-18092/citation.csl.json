@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2601.18092",
+  "citation-key": "arxiv_2601_18092",
+  "type": "article",
+  "title": "From Struggle to Success: Context-Aware Guidance for Screen Reader Users in Computer Use",
+  "URL": "https://arxiv.org/abs/2601.18092v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.18092",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2601.18092",
+    "identifiers": {
+      "arxiv": "2601.18092"
+    },
+    "first_published_at": "2026-01-26",
+    "record_updated_at": "2026-01-26",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ae1716f673e47cd0e61b5f2225ca4871dfd8522e35037fc8d226f9c7cd0e3e75",
+      "submitted_at": "2026-01-26T03:02:26Z",
+      "updated_at": "2026-01-26T03:02:26Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.18092v1"
+    }
+  },
+  "note": "First published: 2026-01-26; Recorded arXiv version: v1; Recorded version updated: 2026-01-26T03:02:26Z.",
+  "author": [
+    {
+      "literal": "Nan Chen"
+    },
+    {
+      "literal": "Jing Lu"
+    },
+    {
+      "literal": "Zilong Wang"
+    },
+    {
+      "literal": "Luna K. Qiu"
+    },
+    {
+      "literal": "Siming Chen"
+    },
+    {
+      "literal": "Yuqing Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.18092",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2508.21767",
+  "citation-key": "arxiv_2508_21767",
+  "type": "article",
+  "title": "UItron: Foundational GUI Agent with Advanced Perception and Planning",
+  "URL": "https://arxiv.org/abs/2508.21767v1",
+  "custom": {
+    "catalog_id": "arxiv:2508.21767",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2508.21767",
+    "identifiers": {
+      "arxiv": "2508.21767"
+    },
+    "first_published_at": "2025-08-29",
+    "record_updated_at": "2025-08-29",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b2a14819c7d7e8258947c9db8cc89012f4d133eaced4e4b904c3bfd1761181e5",
+      "submitted_at": "2025-08-29T16:40:57Z",
+      "updated_at": "2025-08-29T16:40:57Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2508.21767v1"
+    }
+  },
+  "note": "First published: 2025-08-29; Recorded arXiv version: v1; Recorded version updated: 2025-08-29T16:40:57Z.",
+  "author": [
+    {
+      "literal": "Zhixiong Zeng"
+    },
+    {
+      "literal": "Jing Huang"
+    },
+    {
+      "literal": "Liming Zheng"
+    },
+    {
+      "literal": "Wenkang Han"
+    },
+    {
+      "literal": "Yufeng Zhong"
+    },
+    {
+      "literal": "Lei Chen"
+    },
+    {
+      "literal": "Longrong Yang"
+    },
+    {
+      "literal": "Yingjie Chu"
+    },
+    {
+      "literal": "Yuzhi He"
+    },
+    {
+      "literal": "Lin Ma"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.21767",
+  "genre": "preprint",
+  "version": "1"
+}

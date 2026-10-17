@@ -16,6 +16,8 @@ Visual computer interaction and automation platform.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-69d6afe38a9a128ba9f7/record.json
+
 ## License declarations
 
 - code: not recorded

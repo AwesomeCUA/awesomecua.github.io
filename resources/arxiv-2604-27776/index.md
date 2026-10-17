@@ -16,9 +16,16 @@ Bibliographic record for WindowsWorld: A Process-Centric Benchmark of Autonomous
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-27776/record.json
+
 ## Authors
 
 Jinchao Li, Yunxin Li, Chenrui Zhao, Zhenran Xu, Baotian Hu, Min Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-27776/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-27776/citation.csl.json
 
 ## Recorded arXiv snapshot
 

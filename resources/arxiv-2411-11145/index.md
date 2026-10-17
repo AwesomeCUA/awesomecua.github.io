@@ -16,9 +16,16 @@ Bibliographic record for From 2D Document Interactions into Immersive Informatio
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-11145/record.json
+
 ## Authors
 
 Chen Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-11145/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-11145/citation.csl.json
 
 ## Recorded arXiv snapshot
 

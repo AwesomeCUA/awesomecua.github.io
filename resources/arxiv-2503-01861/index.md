@@ -16,9 +16,16 @@ Describes the CUGA enterprise-agent development process, emphasizing iterative e
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-01861/record.json
+
 ## Authors
 
 Sami Marreed, Alon Oved, Avi Yaeli, Segev Shlomov, Ido Levy, Offer Akrabi, Aviad Sela, Asaf Adi, Nir Mashkif
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-01861/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-01861/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,6 +16,8 @@ GUI grounding research using reinforcement learning.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-kdegroup-ui-agile/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/KDEGroup/UI-AGILE/HEAD/LICENSE

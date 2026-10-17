@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2609.10031",
+  "citation-key": "arxiv_2609_10031",
+  "type": "article",
+  "title": "GraphDroid: Asynchronous LLM-Based Mobile App GUI Testing via History-Aware Exploration and Hybrid Intent Fulfillment",
+  "URL": "https://arxiv.org/abs/2609.10031v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.10031",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.10031",
+    "identifiers": {
+      "arxiv": "2609.10031"
+    },
+    "first_published_at": "2026-09-09",
+    "record_updated_at": "2026-09-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3307d90ef09c16afaee160eacc9d2994d142be9b9a26ce9c4a57f61345e2e8ec",
+      "submitted_at": "2026-09-09T11:04:53Z",
+      "updated_at": "2026-09-09T11:04:53Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.10031v1"
+    }
+  },
+  "note": "First published: 2026-09-09; Recorded arXiv version: v1; Recorded version updated: 2026-09-09T11:04:53Z.",
+  "author": [
+    {
+      "literal": "Xiaolei Li"
+    },
+    {
+      "literal": "Jialun Cao"
+    },
+    {
+      "literal": "Zhijian Hou"
+    },
+    {
+      "literal": "Yuzhi Zhao"
+    },
+    {
+      "literal": "Yepang Liu"
+    },
+    {
+      "literal": "Shing-Chi Cheung"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.10031",
+  "genre": "preprint",
+  "version": "1"
+}

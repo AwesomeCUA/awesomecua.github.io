@@ -1,0 +1,96 @@
+{
+  "aliases": [],
+  "authors": [
+    "Zehan Qi",
+    "Xiao Liu",
+    "Iat Long Iong",
+    "Hanyu Lai",
+    "Xueqiao Sun",
+    "Wenyi Zhao",
+    "Yu Yang",
+    "Xinyue Yang",
+    "Jiadai Sun",
+    "Shuntian Yao",
+    "Tianjie Zhang",
+    "Wei Xu",
+    "Jie Tang",
+    "Yuxiao Dong"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "db039a2592cd79a1f8f7f1c985c2ddf42447c63d1f58d2815ba1d6ef2369da47",
+      "submitted_at": "2024-11-04T17:59:58Z",
+      "updated_at": "2025-01-27T11:56:15Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2411.02337v3"
+    }
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:58Z",
+      "role": "primary",
+      "sha256": "c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:58Z",
+      "role": "primary",
+      "sha256": "c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2411.02337",
+  "identifiers": {
+    "arxiv": "2411.02337"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:58Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2411.02337"
+    }
+  ],
+  "name": "WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2024-11-04",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Trains web agents with an evolving task curriculum, outcome supervision, and reinforcement-learning updates intended to manage policy drift.",
+  "topics": [
+    "reinforcement-learning",
+    "web-navigation"
+  ],
+  "updated_at": "2025-01-27",
+  "url": "https://arxiv.org/abs/2411.02337"
+}

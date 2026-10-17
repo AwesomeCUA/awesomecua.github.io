@@ -16,6 +16,8 @@ Desktop GUI trajectory data supporting multiple interface understanding tasks.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-0b590d03a3d5103a79e4/record.json
+
 ## License declarations
 
 - code: not recorded

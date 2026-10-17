@@ -16,9 +16,16 @@ Introduces ScreenRef screenshot grounding data and a training sequence from supe
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-19100/record.json
+
 ## Authors
 
 Qingsong Xie, Jiahao Tian, Jiacheng Tang, Zhifeng Li, Madalina Ciobanu, Navan Preet Singh, Qingqing Mao, Ritankar Das
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-19100/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-19100/citation.csl.json
 
 ## Recorded arXiv snapshot
 

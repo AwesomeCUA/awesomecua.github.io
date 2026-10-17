@@ -1,0 +1,178 @@
+{
+  "id": "arxiv:2204.01691",
+  "citation-key": "arxiv_2204_01691",
+  "type": "article",
+  "title": "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances",
+  "URL": "https://arxiv.org/abs/2204.01691v2",
+  "custom": {
+    "catalog_id": "arxiv:2204.01691",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2204.01691",
+    "identifiers": {
+      "arxiv": "2204.01691"
+    },
+    "first_published_at": "2022-04-04",
+    "record_updated_at": "2022-08-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ccf2ec995c14bd57bb0b111d02a3a1029f72930de8610f54ec3691143b29c0f5",
+      "submitted_at": "2022-04-04T17:57:11Z",
+      "updated_at": "2022-08-16T16:06:33Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2204.01691v2"
+    }
+  },
+  "note": "First published: 2022-04-04; Recorded arXiv version: v2; Recorded version updated: 2022-08-16T16:06:33Z.",
+  "author": [
+    {
+      "literal": "Michael Ahn"
+    },
+    {
+      "literal": "Anthony Brohan"
+    },
+    {
+      "literal": "Noah Brown"
+    },
+    {
+      "literal": "Yevgen Chebotar"
+    },
+    {
+      "literal": "Omar Cortes"
+    },
+    {
+      "literal": "Byron David"
+    },
+    {
+      "literal": "Chelsea Finn"
+    },
+    {
+      "literal": "Chuyuan Fu"
+    },
+    {
+      "literal": "Keerthana Gopalakrishnan"
+    },
+    {
+      "literal": "Karol Hausman"
+    },
+    {
+      "literal": "Alex Herzog"
+    },
+    {
+      "literal": "Daniel Ho"
+    },
+    {
+      "literal": "Jasmine Hsu"
+    },
+    {
+      "literal": "Julian Ibarz"
+    },
+    {
+      "literal": "Brian Ichter"
+    },
+    {
+      "literal": "Alex Irpan"
+    },
+    {
+      "literal": "Eric Jang"
+    },
+    {
+      "literal": "Rosario Jauregui Ruano"
+    },
+    {
+      "literal": "Kyle Jeffrey"
+    },
+    {
+      "literal": "Sally Jesmonth"
+    },
+    {
+      "literal": "Nikhil J Joshi"
+    },
+    {
+      "literal": "Ryan Julian"
+    },
+    {
+      "literal": "Dmitry Kalashnikov"
+    },
+    {
+      "literal": "Yuheng Kuang"
+    },
+    {
+      "literal": "Kuang-Huei Lee"
+    },
+    {
+      "literal": "Sergey Levine"
+    },
+    {
+      "literal": "Yao Lu"
+    },
+    {
+      "literal": "Linda Luu"
+    },
+    {
+      "literal": "Carolina Parada"
+    },
+    {
+      "literal": "Peter Pastor"
+    },
+    {
+      "literal": "Jornell Quiambao"
+    },
+    {
+      "literal": "Kanishka Rao"
+    },
+    {
+      "literal": "Jarek Rettinghouse"
+    },
+    {
+      "literal": "Diego Reyes"
+    },
+    {
+      "literal": "Pierre Sermanet"
+    },
+    {
+      "literal": "Nicolas Sievers"
+    },
+    {
+      "literal": "Clayton Tan"
+    },
+    {
+      "literal": "Alexander Toshev"
+    },
+    {
+      "literal": "Vincent Vanhoucke"
+    },
+    {
+      "literal": "Fei Xia"
+    },
+    {
+      "literal": "Ted Xiao"
+    },
+    {
+      "literal": "Peng Xu"
+    },
+    {
+      "literal": "Sichun Xu"
+    },
+    {
+      "literal": "Mengyuan Yan"
+    },
+    {
+      "literal": "Andy Zeng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        4,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2204.01691",
+  "genre": "preprint",
+  "version": "2"
+}

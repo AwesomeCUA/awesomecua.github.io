@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:1901.05708",
+  "citation-key": "arxiv_1901_05708",
+  "type": "article",
+  "title": "Efficient Matrix Profile Computation Using Different Distance Functions",
+  "URL": "https://arxiv.org/abs/1901.05708v1",
+  "custom": {
+    "catalog_id": "arxiv:1901.05708",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1901.05708",
+    "identifiers": {
+      "arxiv": "1901.05708"
+    },
+    "first_published_at": "2019-01-17",
+    "record_updated_at": "2019-01-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b45590ec9c42f765897551719914a8bc6c62394d0ee22ddce4954719acba1e49",
+      "submitted_at": "2019-01-17T10:05:37Z",
+      "updated_at": "2019-01-17T10:05:37Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/1901.05708v1"
+    }
+  },
+  "note": "First published: 2019-01-17; Recorded arXiv version: v1; Recorded version updated: 2019-01-17T10:05:37Z.",
+  "author": [
+    {
+      "literal": "Reza Akbarinia"
+    },
+    {
+      "literal": "Bertrand Cloez"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        1,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1901.05708",
+  "genre": "preprint",
+  "version": "1"
+}

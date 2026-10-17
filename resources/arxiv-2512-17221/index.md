@@ -16,9 +16,16 @@ Bibliographic record for DAVE: A VLM Vision Encoder for Document Understanding a
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-17221/record.json
+
 ## Authors
 
 Brandon Huang, Hang Hua, Zhuoran Yu, Trevor Darrell, Rogerio Feris, Roei Herzig
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-17221/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-17221/citation.csl.json
 
 ## Recorded arXiv snapshot
 

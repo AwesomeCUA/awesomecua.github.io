@@ -16,6 +16,8 @@ Mobile-agent checkpoint based on Qwen3.6-27B for GUI and app-native tool interac
 
 The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data.
 
+- Record JSON: https://awesomecua.github.io/resources/url-1611de0e6d606165d12d/record.json
+
 ## License declarations
 
 - code: not recorded

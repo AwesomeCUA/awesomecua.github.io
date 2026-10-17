@@ -16,9 +16,16 @@ Bibliographic record for A History-Aware Visually Grounded Critic for Computer U
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-11078/record.json
+
 ## Authors
 
 Jaewoo Lee, Zaid Khan, Archiki Prasad, Justin Chih-Yao Chen, Supriyo Chakraborty, Kartik Balasubramaniam, Sambit Sahu, Elias Stengel-Eskin, Hyunji Lee, Mohit Bansal
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-11078/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-11078/citation.csl.json
 
 ## Recorded arXiv snapshot
 

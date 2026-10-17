@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2601.02399",
+  "citation-key": "arxiv_2601_02399",
+  "type": "article",
+  "title": "ProSoftArena: Benchmarking Hierarchical Capabilities of Multimodal Agents in Professional Software Environments",
+  "URL": "https://arxiv.org/abs/2601.02399v1",
+  "custom": {
+    "catalog_id": "arxiv:2601.02399",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2601.02399",
+    "identifiers": {
+      "arxiv": "2601.02399"
+    },
+    "first_published_at": "2025-12-30",
+    "record_updated_at": "2025-12-30",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "afab3dcd2444bf8333f2a2fea887819f6fca55c41209d8c449f6211d1c62b819",
+      "submitted_at": "2025-12-30T01:49:46Z",
+      "updated_at": "2025-12-30T01:49:46Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2601.02399v1"
+    }
+  },
+  "note": "First published: 2025-12-30; Recorded arXiv version: v1; Recorded version updated: 2025-12-30T01:49:46Z.",
+  "author": [
+    {
+      "literal": "Jiaxin Ai"
+    },
+    {
+      "literal": "Yukang Feng"
+    },
+    {
+      "literal": "Fanrui Zhang"
+    },
+    {
+      "literal": "Jianwen Sun"
+    },
+    {
+      "literal": "Zizhen Li"
+    },
+    {
+      "literal": "Chuanhao Li"
+    },
+    {
+      "literal": "Yifan Chang"
+    },
+    {
+      "literal": "Wenxiao Wu"
+    },
+    {
+      "literal": "Ruoxi Wang"
+    },
+    {
+      "literal": "Mingliang Zhai"
+    },
+    {
+      "literal": "Kaipeng Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.02399",
+  "genre": "preprint",
+  "version": "1"
+}

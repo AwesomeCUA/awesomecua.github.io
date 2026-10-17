@@ -1,0 +1,133 @@
+{
+  "id": "arxiv:2509.15221",
+  "citation-key": "arxiv_2509_15221",
+  "type": "article",
+  "title": "ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data",
+  "URL": "https://arxiv.org/abs/2509.15221v2",
+  "custom": {
+    "catalog_id": "arxiv:2509.15221",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2509.15221",
+    "identifiers": {
+      "arxiv": "2509.15221"
+    },
+    "first_published_at": "2025-09-18",
+    "record_updated_at": "2025-09-19",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "70d09da7d4990118b2b0745cbddf2bab25852ba3ec26625902fee94cdab37c8d",
+      "submitted_at": "2025-09-18T17:59:22Z",
+      "updated_at": "2025-09-19T05:29:03Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2509.15221v2"
+    }
+  },
+  "note": "First published: 2025-09-18; Recorded arXiv version: v2; Recorded version updated: 2025-09-19T05:29:03Z.",
+  "author": [
+    {
+      "literal": "Zhaoyang Liu"
+    },
+    {
+      "literal": "Jingjing Xie"
+    },
+    {
+      "literal": "Zichen Ding"
+    },
+    {
+      "literal": "Zehao Li"
+    },
+    {
+      "literal": "Bowen Yang"
+    },
+    {
+      "literal": "Zhenyu Wu"
+    },
+    {
+      "literal": "Xuehui Wang"
+    },
+    {
+      "literal": "Qiushi Sun"
+    },
+    {
+      "literal": "Shi Liu"
+    },
+    {
+      "literal": "Weiyun Wang"
+    },
+    {
+      "literal": "Shenglong Ye"
+    },
+    {
+      "literal": "Qingyun Li"
+    },
+    {
+      "literal": "Xuan Dong"
+    },
+    {
+      "literal": "Yue Yu"
+    },
+    {
+      "literal": "Chenyu Lu"
+    },
+    {
+      "literal": "YunXiang Mo"
+    },
+    {
+      "literal": "Yao Yan"
+    },
+    {
+      "literal": "Zeyue Tian"
+    },
+    {
+      "literal": "Xiao Zhang"
+    },
+    {
+      "literal": "Yuan Huang"
+    },
+    {
+      "literal": "Yiqian Liu"
+    },
+    {
+      "literal": "Weijie Su"
+    },
+    {
+      "literal": "Gen Luo"
+    },
+    {
+      "literal": "Xiangyu Yue"
+    },
+    {
+      "literal": "Biqing Qi"
+    },
+    {
+      "literal": "Kai Chen"
+    },
+    {
+      "literal": "Bowen Zhou"
+    },
+    {
+      "literal": "Yu Qiao"
+    },
+    {
+      "literal": "Qifeng Chen"
+    },
+    {
+      "literal": "Wenhai Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.15221",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,82 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:06Z",
+      "role": "primary",
+      "sha256": "68cb0deb8a2eb49fb9236ae3d885b043d240dded0fce31cf7425130a56ff5819",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/HeimingX/TAG/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:05Z",
+      "role": "primary",
+      "sha256": "a33bee17685d64d23fb4d65b30b9c52f3a6dd5b21789d7b3509eb2e15145de6f",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/HeimingX/TAG"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:05Z",
+      "role": "primary",
+      "sha256": "fac4f5e38011bbcfef916063d495c21d49830759af4e8713a60d7bae992d2710",
+      "supports": [
+        "release_status"
+      ],
+      "url": "https://api.github.com/repos/HeimingX/TAG/git/trees/main?recursive=1"
+    }
+  ],
+  "id": "github:heimingx/tag",
+  "identifiers": {},
+  "kind": "tool",
+  "last_verified_at": "2026-10-17T02:02:06Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/HeimingX/TAG"
+    }
+  ],
+  "name": "TAG attention-driven GUI grounding",
+  "notes": "The release contains grounding and benchmark evaluation code. The inspected root repository metadata does not declare a code license. It uses external pretrained models rather than publishing a new trained checkpoint, and the README restricts redistribution of unzipped benchmark data.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/HeimingX/TAG/HEAD/README.md",
+      "target_id": "arxiv:2412.10840",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Grounding and evaluation code that aggregates a pretrained vision-language model’s attention maps to localize requested interface elements without fine-tuning.",
+  "topics": [
+    "grounding",
+    "evaluation",
+    "training-free"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/HeimingX/TAG"
+}

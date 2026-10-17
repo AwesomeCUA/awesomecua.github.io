@@ -16,9 +16,16 @@ Bibliographic record for Manipulating LLM Web Agents with Indirect Prompt Inject
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-14799/record.json
+
 ## Authors
 
 Sam Johnson, Viet Pham, Thai Le
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-14799/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-14799/citation.csl.json
 
 ## Recorded arXiv snapshot
 

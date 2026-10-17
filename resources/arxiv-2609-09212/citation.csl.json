@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2609.09212",
+  "citation-key": "arxiv_2609_09212",
+  "type": "article",
+  "title": "AgentHijack: Visual Patch Attacks on Multimodal Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2609.09212v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.09212",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2609.09212",
+    "identifiers": {
+      "arxiv": "2609.09212"
+    },
+    "first_published_at": "2026-09-06",
+    "record_updated_at": "2026-09-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5a3a7a81ffe43885d9c8362df4c8aff08000304fe60477f484a732caf35124b2",
+      "submitted_at": "2026-09-06T03:49:45Z",
+      "updated_at": "2026-09-06T03:49:45Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.09212v1"
+    }
+  },
+  "note": "First published: 2026-09-06; Recorded arXiv version: v1; Recorded version updated: 2026-09-06T03:49:45Z.",
+  "author": [
+    {
+      "literal": "Zhihao Liu"
+    },
+    {
+      "literal": "Hongyu Sun"
+    },
+    {
+      "literal": "Zhiyuan Fu"
+    },
+    {
+      "literal": "Xiaonan Duan"
+    },
+    {
+      "literal": "Jice Wang"
+    },
+    {
+      "literal": "Shangru Zhao"
+    },
+    {
+      "literal": "Weizhi Meng"
+    },
+    {
+      "literal": "Wuxin Yang"
+    },
+    {
+      "literal": "Yangfan Zhou"
+    },
+    {
+      "literal": "Yuqing Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.09212",
+  "genre": "preprint",
+  "version": "1"
+}

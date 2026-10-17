@@ -16,9 +16,16 @@ Generates dense desktop supervision by varying real application scenes and combi
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-02320/record.json
+
 ## Authors
 
 A. Said Gurbuz, Ahmed Nassar, Sunghwan Hong, Marc Pollefeys, Peter W. J. Staar
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-02320/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-02320/citation.csl.json
 
 ## Recorded arXiv snapshot
 

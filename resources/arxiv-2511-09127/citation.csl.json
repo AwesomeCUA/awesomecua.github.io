@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2511.09127",
+  "citation-key": "arxiv_2511_09127",
+  "type": "article",
+  "title": "History-Aware Reasoning for GUI Agents",
+  "URL": "https://arxiv.org/abs/2511.09127v1",
+  "custom": {
+    "catalog_id": "arxiv:2511.09127",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.09127",
+    "identifiers": {
+      "arxiv": "2511.09127"
+    },
+    "first_published_at": "2025-11-12",
+    "record_updated_at": "2025-11-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d0f61f09ce52b1e66fa81479483ea419aaa16e6b27ce331d3c1039927075fd91",
+      "submitted_at": "2025-11-12T09:06:25Z",
+      "updated_at": "2025-11-12T09:06:25Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2511.09127v1"
+    }
+  },
+  "note": "First published: 2025-11-12; Recorded arXiv version: v1; Recorded version updated: 2025-11-12T09:06:25Z.",
+  "author": [
+    {
+      "literal": "Ziwei Wang"
+    },
+    {
+      "literal": "Leyang Yang"
+    },
+    {
+      "literal": "Xiaoxuan Tang"
+    },
+    {
+      "literal": "Sheng Zhou"
+    },
+    {
+      "literal": "Dajun Chen"
+    },
+    {
+      "literal": "Wei Jiang"
+    },
+    {
+      "literal": "Yong Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.09127",
+  "genre": "preprint",
+  "version": "1"
+}

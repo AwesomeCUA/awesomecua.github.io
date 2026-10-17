@@ -16,9 +16,16 @@ Bibliographic record for Reply to Comment on "Electron transport through correla
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1006-4865/record.json
+
 ## Authors
 
 Ioan Baldea, Horst Koppel
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1006-4865/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1006-4865/citation.csl.json
 
 ## Recorded arXiv snapshot
 

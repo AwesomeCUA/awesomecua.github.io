@@ -16,9 +16,16 @@ Bibliographic record for Routing Is Least Learnable Where It Is Most Valuable: B
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-06171/record.json
+
 ## Authors
 
 Jiaming Wei, Zekun Wu, Adriano Koshiyama, Maria Perez-Ortiz
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-06171/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-06171/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2505.12728",
+  "citation-key": "arxiv_2505_12728",
+  "type": "article",
+  "title": "SpecFLASH: A Latent-Guided Semi-autoregressive Speculative Decoding Framework for Efficient Multimodal Generation",
+  "URL": "https://arxiv.org/abs/2505.12728v3",
+  "custom": {
+    "catalog_id": "arxiv:2505.12728",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.12728",
+    "identifiers": {
+      "arxiv": "2505.12728"
+    },
+    "first_published_at": "2025-05-19",
+    "record_updated_at": "2026-02-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5987a7a62c584df5ffdf13ee8d32f3e679e84d40d74f987c671f8c97f51afe4d",
+      "submitted_at": "2025-05-19T05:35:30Z",
+      "updated_at": "2026-02-03T12:51:29Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2505.12728v3"
+    }
+  },
+  "note": "First published: 2025-05-19; Recorded arXiv version: v3; Recorded version updated: 2026-02-03T12:51:29Z.",
+  "author": [
+    {
+      "literal": "Zihua Wang"
+    },
+    {
+      "literal": "Ruibo Li"
+    },
+    {
+      "literal": "Haozhe Du"
+    },
+    {
+      "literal": "Joey Tianyi Zhou"
+    },
+    {
+      "literal": "Yu Zhang"
+    },
+    {
+      "literal": "Xu Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.12728",
+  "genre": "preprint",
+  "version": "3"
+}

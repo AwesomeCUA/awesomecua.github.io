@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2605.25624",
+  "citation-key": "arxiv_2605_25624",
+  "type": "article",
+  "title": "CUA-Gym: Scaling Verifiable Training Environments and Tasks for Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2605.25624v2",
+  "custom": {
+    "catalog_id": "arxiv:2605.25624",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.25624",
+    "identifiers": {
+      "arxiv": "2605.25624"
+    },
+    "first_published_at": "2026-05-25",
+    "record_updated_at": "2026-06-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ecc0712f55ee90c237f9a48e013e396b1082f932a485c22d8249d1da7acbf307",
+      "submitted_at": "2026-05-25T09:28:03Z",
+      "updated_at": "2026-06-08T08:32:35Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2605.25624v2"
+    }
+  },
+  "note": "First published: 2026-05-25; Recorded arXiv version: v2; Recorded version updated: 2026-06-08T08:32:35Z.",
+  "author": [
+    {
+      "literal": "Bowen Wang"
+    },
+    {
+      "literal": "Dunjie Lu"
+    },
+    {
+      "literal": "Junli Wang"
+    },
+    {
+      "literal": "Tianyi Bai"
+    },
+    {
+      "literal": "Shixuan Liu"
+    },
+    {
+      "literal": "Zhipeng Zhang"
+    },
+    {
+      "literal": "Haiquan Wang"
+    },
+    {
+      "literal": "Hao Hu"
+    },
+    {
+      "literal": "Tianbao Xie"
+    },
+    {
+      "literal": "Shuai Bai"
+    },
+    {
+      "literal": "Dayiheng Liu"
+    },
+    {
+      "literal": "Que Shen"
+    },
+    {
+      "literal": "Junyang Lin"
+    },
+    {
+      "literal": "Tao Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.25624",
+  "genre": "preprint",
+  "version": "2"
+}

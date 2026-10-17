@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2606.15673",
+  "citation-key": "arxiv_2606_15673",
+  "type": "article",
+  "title": "Where Did It Go Wrong? Process-Level Evaluation of Web Agents with Semantic State Tracking",
+  "URL": "https://arxiv.org/abs/2606.15673v2",
+  "custom": {
+    "catalog_id": "arxiv:2606.15673",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.15673",
+    "identifiers": {
+      "arxiv": "2606.15673"
+    },
+    "first_published_at": "2026-04-08",
+    "record_updated_at": "2026-08-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "67454ecc0b32b52c65be8b2c37c32f73d793750f6c14d9cb5a7aecf6f094d85b",
+      "submitted_at": "2026-04-08T07:25:29Z",
+      "updated_at": "2026-08-04T05:22:33Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2606.15673v2"
+    }
+  },
+  "note": "First published: 2026-04-08; Recorded arXiv version: v2; Recorded version updated: 2026-08-04T05:22:33Z.",
+  "author": [
+    {
+      "literal": "Jiwan Chung"
+    },
+    {
+      "literal": "JiHyuk Byun"
+    },
+    {
+      "literal": "Vibhav Vineet"
+    },
+    {
+      "literal": "Seon Joo Kim"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.15673",
+  "genre": "preprint",
+  "version": "2"
+}

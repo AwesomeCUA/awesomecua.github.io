@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2602.15384",
+  "citation-key": "arxiv_2602_15384",
+  "type": "article",
+  "title": "World-Model-Augmented Web Agents with Action Correction",
+  "URL": "https://arxiv.org/abs/2602.15384v1",
+  "custom": {
+    "catalog_id": "arxiv:2602.15384",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.15384",
+    "identifiers": {
+      "arxiv": "2602.15384"
+    },
+    "first_published_at": "2026-02-17",
+    "record_updated_at": "2026-02-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "29fa4927311278ad8ad8aabc8b77dfc05ad7d21b87969b5fb330d7a3a8fd727b",
+      "submitted_at": "2026-02-17T06:37:31Z",
+      "updated_at": "2026-02-17T06:37:31Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2602.15384v1"
+    }
+  },
+  "note": "First published: 2026-02-17; Recorded arXiv version: v1; Recorded version updated: 2026-02-17T06:37:31Z.",
+  "author": [
+    {
+      "literal": "Zhouzhou Shen"
+    },
+    {
+      "literal": "Xueyu Hu"
+    },
+    {
+      "literal": "Xiyun Li"
+    },
+    {
+      "literal": "Tianqing Fang"
+    },
+    {
+      "literal": "Juncheng Li"
+    },
+    {
+      "literal": "Shengyu Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.15384",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Compares modular OCR-based and end-to-end methods for locating desktop GUI targe
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-01558/record.json
+
 ## Authors
 
 El Hassane Ettifouri, Jessica López Espejel, Laura Minkova, Tassnim Dardouri, Walid Dahhane
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-01558/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-01558/citation.csl.json
 
 ## Recorded arXiv snapshot
 

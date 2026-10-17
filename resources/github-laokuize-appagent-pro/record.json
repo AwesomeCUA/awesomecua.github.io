@@ -1,0 +1,75 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:02Z",
+      "role": "primary",
+      "sha256": "9b4b945f4514d261373ec08d4c3e4e86b6623f95f95b9469bec2b8e7e93d9807",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/LaoKuiZe/AppAgent-Pro/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:03Z",
+      "role": "primary",
+      "sha256": "f13a0d1aaaec0f7e32f034197b31b2bc0537685aff11af653381454288c75794",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/LaoKuiZe/AppAgent-Pro/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:laokuize/appagent-pro",
+  "identifiers": {},
+  "kind": "agent",
+  "last_verified_at": "2026-10-16T06:36:02Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-16T06:42:03Z",
+      "url": "https://raw.githubusercontent.com/LaoKuiZe/AppAgent-Pro/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/LaoKuiZe/AppAgent-Pro"
+    }
+  ],
+  "name": "AppAgent Pro",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/LaoKuiZe/AppAgent-Pro/HEAD/README.md",
+      "target_id": "arxiv:2508.18689",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Extended mobile app agent implementation.",
+  "topics": [
+    "mobile-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/LaoKuiZe/AppAgent-Pro"
+}

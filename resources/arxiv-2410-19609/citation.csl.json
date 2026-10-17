@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2410.19609",
+  "citation-key": "arxiv_2410_19609",
+  "type": "article",
+  "title": "OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization",
+  "URL": "https://arxiv.org/abs/2410.19609v1",
+  "custom": {
+    "catalog_id": "arxiv:2410.19609",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.19609",
+    "identifiers": {
+      "arxiv": "2410.19609"
+    },
+    "first_published_at": "2024-10-25",
+    "record_updated_at": "2024-10-25",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "db2a115281f831ea9333a03fc2a9ebb2f09528eb082060f00a33b125f9ef7762",
+      "submitted_at": "2024-10-25T15:01:27Z",
+      "updated_at": "2024-10-25T15:01:27Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2410.19609v1"
+    }
+  },
+  "note": "First published: 2024-10-25; Recorded arXiv version: v1; Recorded version updated: 2024-10-25T15:01:27Z.",
+  "author": [
+    {
+      "literal": "Hongliang He"
+    },
+    {
+      "literal": "Wenlin Yao"
+    },
+    {
+      "literal": "Kaixin Ma"
+    },
+    {
+      "literal": "Wenhao Yu"
+    },
+    {
+      "literal": "Hongming Zhang"
+    },
+    {
+      "literal": "Tianqing Fang"
+    },
+    {
+      "literal": "Zhenzhong Lan"
+    },
+    {
+      "literal": "Dong Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.19609",
+  "genre": "preprint",
+  "version": "1"
+}

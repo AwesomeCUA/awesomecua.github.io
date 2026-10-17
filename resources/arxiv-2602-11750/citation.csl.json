@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2602.11750",
+  "citation-key": "arxiv_2602_11750",
+  "type": "article",
+  "title": "AmbiBench: Benchmarking Mobile GUI Agents Beyond One-Shot Instructions in the Wild",
+  "URL": "https://arxiv.org/abs/2602.11750v1",
+  "custom": {
+    "catalog_id": "arxiv:2602.11750",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2602.11750",
+    "identifiers": {
+      "arxiv": "2602.11750"
+    },
+    "first_published_at": "2026-02-12",
+    "record_updated_at": "2026-02-12",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2bbba09ca845f4fb772516d26d59fc3d99f8e87ba3657bb29c3c062b50925ec5",
+      "submitted_at": "2026-02-12T09:25:15Z",
+      "updated_at": "2026-02-12T09:25:15Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2602.11750v1"
+    }
+  },
+  "note": "First published: 2026-02-12; Recorded arXiv version: v1; Recorded version updated: 2026-02-12T09:25:15Z.",
+  "author": [
+    {
+      "literal": "Jiazheng Sun"
+    },
+    {
+      "literal": "Mingxuan Li"
+    },
+    {
+      "literal": "Yingying Zhang"
+    },
+    {
+      "literal": "Jiayang Niu"
+    },
+    {
+      "literal": "Yachen Wu"
+    },
+    {
+      "literal": "Ruihan Jin"
+    },
+    {
+      "literal": "Shuyu Lei"
+    },
+    {
+      "literal": "Pengrongrui Tan"
+    },
+    {
+      "literal": "Zongyu Zhang"
+    },
+    {
+      "literal": "Ruoyi Wang"
+    },
+    {
+      "literal": "Jiachen Yang"
+    },
+    {
+      "literal": "Boyu Yang"
+    },
+    {
+      "literal": "Jiacheng Liu"
+    },
+    {
+      "literal": "Xin Peng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.11750",
+  "genre": "preprint",
+  "version": "1"
+}

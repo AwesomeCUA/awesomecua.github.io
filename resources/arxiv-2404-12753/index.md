@@ -16,9 +16,16 @@ Bibliographic record for AutoScraper: A Progressive Understanding Web Agent for 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-12753/record.json
+
 ## Authors
 
 Wenhao Huang, Zhouhong Gu, Chenghao Peng, Zhixu Li, Jiaqing Liang, Yanghua Xiao, Liqian Wen, Zulong Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-12753/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-12753/citation.csl.json
 
 ## Recorded arXiv snapshot
 

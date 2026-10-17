@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2606.29193",
+  "citation-key": "arxiv_2606_29193",
+  "type": "article",
+  "title": "A Multi-Dataset Benchmark for Evaluating LLM Agents in Microservice Failure Diagnosis",
+  "URL": "https://arxiv.org/abs/2606.29193v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.29193",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.29193",
+    "identifiers": {
+      "arxiv": "2606.29193"
+    },
+    "first_published_at": "2026-06-28",
+    "record_updated_at": "2026-06-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bd03c359ad7cd8ffafe00cdcd66db2dd8a3832c035a67ca6762f156eaad67db3",
+      "submitted_at": "2026-06-28T04:38:05Z",
+      "updated_at": "2026-06-28T04:38:05Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.29193v1"
+    }
+  },
+  "note": "First published: 2026-06-28; Recorded arXiv version: v1; Recorded version updated: 2026-06-28T04:38:05Z.",
+  "author": [
+    {
+      "literal": "Yuanhong Cai"
+    },
+    {
+      "literal": "Xiaohui Nie"
+    },
+    {
+      "literal": "Kanglin Yin"
+    },
+    {
+      "literal": "Changhua Pei"
+    },
+    {
+      "literal": "Yongqian Sun"
+    },
+    {
+      "literal": "Shenglin Zhang"
+    },
+    {
+      "literal": "Haibin Liu"
+    },
+    {
+      "literal": "Guiyang Liu"
+    },
+    {
+      "literal": "Xidao Wen"
+    },
+    {
+      "literal": "Fang Situ"
+    },
+    {
+      "literal": "Dan Pei"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.29193",
+  "genre": "preprint",
+  "version": "1"
+}

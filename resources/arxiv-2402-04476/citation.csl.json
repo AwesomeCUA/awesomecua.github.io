@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2402.04476",
+  "citation-key": "arxiv_2402_04476",
+  "type": "article",
+  "title": "Dual-View Visual Contextualization for Web Navigation",
+  "URL": "https://arxiv.org/abs/2402.04476v2",
+  "custom": {
+    "catalog_id": "arxiv:2402.04476",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2402.04476",
+    "identifiers": {
+      "arxiv": "2402.04476"
+    },
+    "first_published_at": "2024-02-06",
+    "record_updated_at": "2024-03-30",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3da421fc440f7dcfc53d8ef218f55389e4da4dbac196f54b40402bc877ff0365",
+      "submitted_at": "2024-02-06T23:52:10Z",
+      "updated_at": "2024-03-30T05:18:05Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2402.04476v2"
+    }
+  },
+  "note": "First published: 2024-02-06; Recorded arXiv version: v2; Recorded version updated: 2024-03-30T05:18:05Z.",
+  "author": [
+    {
+      "literal": "Jihyung Kil"
+    },
+    {
+      "literal": "Chan Hee Song"
+    },
+    {
+      "literal": "Boyuan Zheng"
+    },
+    {
+      "literal": "Xiang Deng"
+    },
+    {
+      "literal": "Yu Su"
+    },
+    {
+      "literal": "Wei-Lun Chao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        6
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.04476",
+  "genre": "preprint",
+  "version": "2"
+}

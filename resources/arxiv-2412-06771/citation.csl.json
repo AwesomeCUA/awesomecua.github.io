@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2412.06771",
+  "citation-key": "arxiv_2412_06771",
+  "type": "article",
+  "title": "Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty",
+  "URL": "https://arxiv.org/abs/2412.06771v3",
+  "custom": {
+    "catalog_id": "arxiv:2412.06771",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2412.06771",
+    "identifiers": {
+      "arxiv": "2412.06771"
+    },
+    "first_published_at": "2024-12-09",
+    "record_updated_at": "2025-10-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "045ce24c86866883018771f2ff9343312cb415385e586d218bf321f057237a1a",
+      "submitted_at": "2024-12-09T18:56:32Z",
+      "updated_at": "2025-10-24T02:32:07Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2412.06771v3"
+    }
+  },
+  "note": "First published: 2024-12-09; Recorded arXiv version: v3; Recorded version updated: 2025-10-24T02:32:07Z.",
+  "author": [
+    {
+      "literal": "Meera Hahn"
+    },
+    {
+      "literal": "Wenjun Zeng"
+    },
+    {
+      "literal": "Nithish Kannen"
+    },
+    {
+      "literal": "Rich Galt"
+    },
+    {
+      "literal": "Kartikeya Badola"
+    },
+    {
+      "literal": "Been Kim"
+    },
+    {
+      "literal": "Zi Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.06771",
+  "genre": "preprint",
+  "version": "3"
+}

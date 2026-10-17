@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2111.10956",
+  "citation-key": "arxiv_2111_10956",
+  "type": "article",
+  "title": "Quantum reservoir computing using arrays of Rydberg atoms",
+  "URL": "https://arxiv.org/abs/2111.10956v4",
+  "custom": {
+    "catalog_id": "arxiv:2111.10956",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2111.10956",
+    "identifiers": {
+      "arxiv": "2111.10956"
+    },
+    "first_published_at": "2021-11-22",
+    "record_updated_at": "2022-07-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5973800b41bd008bcf11962ad125068908931d45ff15b647913d330ba5f94633",
+      "submitted_at": "2021-11-22T02:45:18Z",
+      "updated_at": "2022-07-20T18:23:34Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2111.10956v4"
+    }
+  },
+  "note": "First published: 2021-11-22; Recorded arXiv version: v4; Recorded version updated: 2022-07-20T18:23:34Z.",
+  "author": [
+    {
+      "literal": "Rodrigo Araiza Bravo"
+    },
+    {
+      "literal": "Khadijeh Najafi"
+    },
+    {
+      "literal": "Xun Gao"
+    },
+    {
+      "literal": "Susanne F. Yelin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        11,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2111.10956",
+  "genre": "preprint",
+  "version": "4"
+}

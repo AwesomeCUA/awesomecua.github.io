@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2602.12852",
+  "citation-key": "arxiv_2602_12852",
+  "type": "article",
+  "title": "WebClipper: Efficient Evolution of Web Agents with Graph-based Trajectory Pruning",
+  "URL": "https://arxiv.org/abs/2602.12852v2",
+  "custom": {
+    "catalog_id": "arxiv:2602.12852",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2602.12852",
+    "identifiers": {
+      "arxiv": "2602.12852"
+    },
+    "first_published_at": "2026-02-13",
+    "record_updated_at": "2026-05-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7ebb062fd2746028659aebccb5e445bb1755c4def5a6f14b3a8a2e45c8d6d7dc",
+      "submitted_at": "2026-02-13T11:56:20Z",
+      "updated_at": "2026-05-08T07:17:45Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2602.12852v2"
+    }
+  },
+  "note": "First published: 2026-02-13; Recorded arXiv version: v2; Recorded version updated: 2026-05-08T07:17:45Z.",
+  "author": [
+    {
+      "literal": "Junjie Wang"
+    },
+    {
+      "literal": "Zequn Xie"
+    },
+    {
+      "literal": "Dan Yang"
+    },
+    {
+      "literal": "Jie Feng"
+    },
+    {
+      "literal": "Yue Shen"
+    },
+    {
+      "literal": "Duolin Sun"
+    },
+    {
+      "literal": "Meixiu Long"
+    },
+    {
+      "literal": "Yihan Jiao"
+    },
+    {
+      "literal": "Zhehao Tan"
+    },
+    {
+      "literal": "Jian Wang"
+    },
+    {
+      "literal": "Peng Wei"
+    },
+    {
+      "literal": "Jinjie Gu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.12852",
+  "genre": "preprint",
+  "version": "2"
+}

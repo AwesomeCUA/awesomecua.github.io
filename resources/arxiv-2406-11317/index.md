@@ -16,9 +16,16 @@ Introduces GUIEnv, GUIAct, and GUIChat datasets to develop OCR, grounding, compo
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2406-11317/record.json
+
 ## Authors
 
 Wentong Chen, Junbo Cui, Jinyi Hu, Yujia Qin, Junjie Fang, Yue Zhao, Chongyi Wang, Jun Liu, Guirong Chen, Yupeng Huo, Yuan Yao, Yankai Lin, Zhiyuan Liu, Maosong Sun
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2406-11317/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2406-11317/citation.csl.json
 
 ## Recorded arXiv snapshot
 

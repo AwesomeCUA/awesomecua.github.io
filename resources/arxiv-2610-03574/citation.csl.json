@@ -1,0 +1,94 @@
+{
+  "id": "arxiv:2610.03574",
+  "citation-key": "arxiv_2610_03574",
+  "type": "article",
+  "title": "HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents",
+  "URL": "https://arxiv.org/abs/2610.03574v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.03574",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.03574",
+    "identifiers": {
+      "arxiv": "2610.03574"
+    },
+    "first_published_at": "2026-10-02",
+    "record_updated_at": "2026-10-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "31b58479f71502134f996fbdedb1dfc6fcaf4053ea8dba617a7bb538336751ec",
+      "submitted_at": "2026-10-02T16:48:49Z",
+      "updated_at": "2026-10-02T16:48:49Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.03574v1"
+    }
+  },
+  "note": "First published: 2026-10-02; Recorded arXiv version: v1; Recorded version updated: 2026-10-02T16:48:49Z.",
+  "author": [
+    {
+      "literal": "Alham Fikri Aji"
+    },
+    {
+      "literal": "Faiz Rizki Ramadhan"
+    },
+    {
+      "literal": "Zayd M. K. Zuhri"
+    },
+    {
+      "literal": "Seung Hun Eddie Han"
+    },
+    {
+      "literal": "Ryandito Diandaru"
+    },
+    {
+      "literal": "Qinrong Cui"
+    },
+    {
+      "literal": "Jan Christian Blaise Cruz"
+    },
+    {
+      "literal": "Badrinath Chandana"
+    },
+    {
+      "literal": "Peerawat Chomphooyod"
+    },
+    {
+      "literal": "Ahmed Attia"
+    },
+    {
+      "literal": "Jonibek Mansurov"
+    },
+    {
+      "literal": "Emilio Villa-Cueva"
+    },
+    {
+      "literal": "Canh Duong Nguyen"
+    },
+    {
+      "literal": "Imran Turganov"
+    },
+    {
+      "literal": "Minghao Wu"
+    },
+    {
+      "literal": "Peerat Limkonchotiwat"
+    },
+    {
+      "literal": "Irina Nikishina"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.03574",
+  "genre": "preprint",
+  "version": "1"
+}

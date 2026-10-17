@@ -16,9 +16,16 @@ Bibliographic record for Ask-to-Clarify: Resolving Instruction Ambiguity through
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-15061/record.json
+
 ## Authors
 
 Xingyao Lin, Xinghao Zhu, Tianyi Lu, Guojin Zhong, Sicheng Xie, Hui Zhang, Xipeng Qiu, Zuxuan Wu, Yu-Gang Jiang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-15061/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-15061/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2505.23762",
+  "citation-key": "arxiv_2505_23762",
+  "type": "article",
+  "title": "ZeroGUI: Automating Online GUI Learning at Zero Human Cost",
+  "URL": "https://arxiv.org/abs/2505.23762v1",
+  "custom": {
+    "catalog_id": "arxiv:2505.23762",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2505.23762",
+    "identifiers": {
+      "arxiv": "2505.23762"
+    },
+    "first_published_at": "2025-05-29",
+    "record_updated_at": "2025-05-29",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "799e7b387f7d281f0aa9b182f37b215e3baca2041a0a0f6d414ddf1cec0de003",
+      "submitted_at": "2025-05-29T17:59:51Z",
+      "updated_at": "2025-05-29T17:59:51Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2505.23762v1"
+    }
+  },
+  "note": "First published: 2025-05-29; Recorded arXiv version: v1; Recorded version updated: 2025-05-29T17:59:51Z.",
+  "author": [
+    {
+      "literal": "Chenyu Yang"
+    },
+    {
+      "literal": "Shiqian Su"
+    },
+    {
+      "literal": "Shi Liu"
+    },
+    {
+      "literal": "Xuan Dong"
+    },
+    {
+      "literal": "Yue Yu"
+    },
+    {
+      "literal": "Weijie Su"
+    },
+    {
+      "literal": "Xuehui Wang"
+    },
+    {
+      "literal": "Zhaoyang Liu"
+    },
+    {
+      "literal": "Jinguo Zhu"
+    },
+    {
+      "literal": "Hao Li"
+    },
+    {
+      "literal": "Wenhai Wang"
+    },
+    {
+      "literal": "Yu Qiao"
+    },
+    {
+      "literal": "Xizhou Zhu"
+    },
+    {
+      "literal": "Jifeng Dai"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.23762",
+  "genre": "preprint",
+  "version": "1"
+}

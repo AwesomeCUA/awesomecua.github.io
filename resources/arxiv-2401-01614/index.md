@@ -16,9 +16,16 @@ Introduces SeeAct and live-website evaluation, examining how visual planning and
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2401-01614/record.json
+
 ## Authors
 
 Boyuan Zheng, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2401-01614/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-01614/citation.csl.json
 
 ## Recorded arXiv snapshot
 

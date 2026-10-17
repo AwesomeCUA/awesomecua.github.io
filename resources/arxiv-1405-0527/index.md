@@ -16,9 +16,16 @@ Bibliographic record for Parallel computation using active self-assembly. Title,
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1405-0527/record.json
+
 ## Authors
 
 Moya Chen, Doris Xin, Damien Woods
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1405-0527/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1405-0527/citation.csl.json
 
 ## Recorded arXiv snapshot
 

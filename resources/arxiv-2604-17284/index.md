@@ -16,9 +16,16 @@ Bibliographic record for HalluClear: Diagnosing, Evaluating and Mitigating Hallu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-17284/record.json
+
 ## Authors
 
 Chao Jin, Wenkui Yang, Hao Sun, Yuqi Liao, Qianyi Jiang, Kai Zhou, Jie Cao, Ran He, Huaibo Huang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-17284/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-17284/citation.csl.json
 
 ## Recorded arXiv snapshot
 

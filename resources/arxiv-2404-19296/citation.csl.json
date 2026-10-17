@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2404.19296",
+  "citation-key": "arxiv_2404_19296",
+  "type": "article",
+  "title": "Octopus v4: Graph of language models",
+  "URL": "https://arxiv.org/abs/2404.19296v2",
+  "custom": {
+    "catalog_id": "arxiv:2404.19296",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2404.19296",
+    "identifiers": {
+      "arxiv": "2404.19296"
+    },
+    "first_published_at": "2024-04-30",
+    "record_updated_at": "2026-07-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1f1ba53df7744bc7d6da5d6edb05e33e821343bc74b919576cd1c6db4d17111a",
+      "submitted_at": "2024-04-30T06:55:45Z",
+      "updated_at": "2026-07-20T02:16:43Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2404.19296v2"
+    }
+  },
+  "note": "First published: 2024-04-30; Recorded arXiv version: v2; Recorded version updated: 2026-07-20T02:16:43Z.",
+  "author": [
+    {
+      "literal": "Wei Chen"
+    },
+    {
+      "literal": "Zhiyuan Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.19296",
+  "genre": "preprint",
+  "version": "2"
+}

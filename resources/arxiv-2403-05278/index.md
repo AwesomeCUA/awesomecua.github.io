@@ -16,9 +16,16 @@ Bibliographic record for Load Balancing For High Performance Computing Using Qua
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-05278/record.json
+
 ## Authors
 
 Omer Rathore, Alastair Basden, Nicholas Chancellor, Halim Kusumaatmaja
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-05278/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-05278/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for An LLM can Fool Itself: A Prompt-Based Adversarial Atta
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-13345/record.json
+
 ## Authors
 
 Xilie Xu, Keyi Kong, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-13345/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-13345/citation.csl.json
 
 ## Recorded arXiv snapshot
 

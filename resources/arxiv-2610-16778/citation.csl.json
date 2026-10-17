@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2610.16778",
+  "citation-key": "arxiv_2610_16778",
+  "type": "article",
+  "title": "PrivacyGuard: Source-Linked Sanitization and Locally Resolvable PII References for Cloud GUI Agents",
+  "URL": "https://arxiv.org/abs/2610.16778v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.16778",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.16778",
+    "identifiers": {
+      "arxiv": "2610.16778"
+    },
+    "first_published_at": "2026-10-12",
+    "record_updated_at": "2026-10-12",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c5a2743a18bae1deeed13fbd1dd7379c3f21c67488627057ccb466ffe51d09dc",
+      "submitted_at": "2026-10-12T13:34:52Z",
+      "updated_at": "2026-10-12T13:34:52Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.16778v1"
+    }
+  },
+  "note": "First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T13:34:52Z.",
+  "author": [
+    {
+      "literal": "Zian Yuan"
+    },
+    {
+      "literal": "Wei Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.16778",
+  "genre": "preprint",
+  "version": "1"
+}

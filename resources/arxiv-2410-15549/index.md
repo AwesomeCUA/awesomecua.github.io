@@ -16,9 +16,16 @@ Bibliographic record for A Dual Process VLA: Efficient Robotic Manipulation Leve
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-15549/record.json
+
 ## Authors
 
 ByungOk Han, Jaehong Kim, Jinhyeok Jang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-15549/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-15549/citation.csl.json
 
 ## Recorded arXiv snapshot
 

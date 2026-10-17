@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2603.00676",
+  "citation-key": "arxiv_2603_00676",
+  "type": "article",
+  "title": "K^2-Agent: Co-Evolving Know-What and Know-How for Hierarchical Mobile Device Control",
+  "URL": "https://arxiv.org/abs/2603.00676v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.00676",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.00676",
+    "identifiers": {
+      "arxiv": "2603.00676"
+    },
+    "first_published_at": "2026-02-28",
+    "record_updated_at": "2026-02-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4196cc95428b3bc00393b053bc5d12b72bc2b16440aa117e98fa7ef05d68f0cc",
+      "submitted_at": "2026-02-28T14:33:14Z",
+      "updated_at": "2026-02-28T14:33:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.00676v1"
+    }
+  },
+  "note": "First published: 2026-02-28; Recorded arXiv version: v1; Recorded version updated: 2026-02-28T14:33:14Z.",
+  "author": [
+    {
+      "literal": "Zhe Wu"
+    },
+    {
+      "literal": "Donglin Mo"
+    },
+    {
+      "literal": "Hongjin Lu"
+    },
+    {
+      "literal": "Junliang Xing"
+    },
+    {
+      "literal": "Jianheng Liu"
+    },
+    {
+      "literal": "Yuheng Jing"
+    },
+    {
+      "literal": "Kai Li"
+    },
+    {
+      "literal": "Kun Shao"
+    },
+    {
+      "literal": "Jianye Hao"
+    },
+    {
+      "literal": "Yuanchun Shi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.00676",
+  "genre": "preprint",
+  "version": "1"
+}

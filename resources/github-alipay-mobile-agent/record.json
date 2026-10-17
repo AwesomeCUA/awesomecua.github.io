@@ -1,0 +1,62 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T11:09:28Z",
+      "role": "primary",
+      "sha256": "c4da2b089f97296ac6c7b3ef7273db57b650d12cf3595f6f6ea74c901e5277b8",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/alipay/mobile-agent/HEAD/README.md"
+    }
+  ],
+  "id": "github:alipay/mobile-agent",
+  "identifiers": {},
+  "kind": "agent",
+  "last_verified_at": "2026-10-16T11:09:28Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/alipay/mobile-agent"
+    }
+  ],
+  "name": "MobileAgent (Alipay)",
+  "notes": "Distinct from the X-PLUG/MobileAgent project despite the similar name.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/alipay/mobile-agent/HEAD/README.md",
+      "target_id": "arxiv:2401.04124",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Mobile-control research implementation combining operating-procedure context with human interaction for personalized task execution.",
+  "topics": [
+    "mobile-navigation",
+    "workflow",
+    "human-in-the-loop"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/alipay/mobile-agent"
+}

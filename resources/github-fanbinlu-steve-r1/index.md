@@ -16,6 +16,8 @@ Research code and linked models for step-verified computer-use training; the cur
 
 The repository has moved to STEVE-R1. Its README reports an SFT release, with RL tuning in progress, and describes evaluations using multiple attempts per task. These results are not independently reproduced here.
 
+- Record JSON: https://awesomecua.github.io/resources/github-fanbinlu-steve-r1/record.json
+
 ## License declarations
 
 - code: not recorded

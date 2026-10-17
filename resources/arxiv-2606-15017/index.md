@@ -16,9 +16,16 @@ Bibliographic record for Are Online Skill and Memory Modules Always Worth Their 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-15017/record.json
+
 ## Authors
 
 Sina Hajimiri, Masih Aminbeidokhti, Jose Dolz, Ismail Ben Ayed, Issam H. Laradji, Spandana Gella, Nicolas Gontier
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-15017/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-15017/citation.csl.json
 
 ## Recorded arXiv snapshot
 

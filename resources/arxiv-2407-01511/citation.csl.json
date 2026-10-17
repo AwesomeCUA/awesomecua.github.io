@@ -1,0 +1,91 @@
+{
+  "id": "arxiv:2407.01511",
+  "citation-key": "arxiv_2407_01511",
+  "type": "article",
+  "title": "CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents",
+  "URL": "https://arxiv.org/abs/2407.01511v4",
+  "custom": {
+    "catalog_id": "arxiv:2407.01511",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2407.01511",
+    "identifiers": {
+      "arxiv": "2407.01511"
+    },
+    "first_published_at": "2024-07-01",
+    "record_updated_at": "2025-07-20",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "12e5464ea0fc62bd566f19d301b887826b7ff317cfc27c86fa0cda8d3de271d9",
+      "submitted_at": "2024-07-01T17:55:04Z",
+      "updated_at": "2025-07-20T13:42:07Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2407.01511v4"
+    }
+  },
+  "note": "First published: 2024-07-01; Recorded arXiv version: v4; Recorded version updated: 2025-07-20T13:42:07Z.",
+  "author": [
+    {
+      "literal": "Tianqi Xu"
+    },
+    {
+      "literal": "Linyao Chen"
+    },
+    {
+      "literal": "Dai-Jie Wu"
+    },
+    {
+      "literal": "Yanjun Chen"
+    },
+    {
+      "literal": "Zecheng Zhang"
+    },
+    {
+      "literal": "Xiang Yao"
+    },
+    {
+      "literal": "Zhiqiang Xie"
+    },
+    {
+      "literal": "Yongchao Chen"
+    },
+    {
+      "literal": "Shilong Liu"
+    },
+    {
+      "literal": "Bochen Qian"
+    },
+    {
+      "literal": "Anjie Yang"
+    },
+    {
+      "literal": "Zhaoxuan Jin"
+    },
+    {
+      "literal": "Jianbo Deng"
+    },
+    {
+      "literal": "Philip Torr"
+    },
+    {
+      "literal": "Bernard Ghanem"
+    },
+    {
+      "literal": "Guohao Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.01511",
+  "genre": "preprint",
+  "version": "4"
+}

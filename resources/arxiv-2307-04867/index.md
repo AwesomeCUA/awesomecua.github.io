@@ -16,9 +16,16 @@ Bibliographic record for Measurement Noise Mitigation in a Quantum Computer Usin
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2307-04867/record.json
+
 ## Authors
 
 Wladimir Silva
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2307-04867/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2307-04867/citation.csl.json
 
 ## Recorded arXiv snapshot
 

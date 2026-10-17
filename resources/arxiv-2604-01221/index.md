@@ -16,9 +16,16 @@ Bibliographic record for HippoCamp: Benchmarking Contextual Agents on Personal C
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-01221/record.json
+
 ## Authors
 
 Zhe Yang, Shulin Tian, Kairui Hu, Shuai Liu, Hoang-Nhat Nguyen, Yichi Zhang, Zujin Guo, Mengying Yu, Zinan Zhang, Jingkang Yang, Chen Change Loy, Ziwei Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-01221/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-01221/citation.csl.json
 
 ## Recorded arXiv snapshot
 

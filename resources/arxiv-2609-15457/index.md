@@ -16,9 +16,16 @@ Bibliographic record for AnchorGUI: Asymmetric Memory for Dual-Scale Learning in
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-15457/record.json
+
 ## Authors
 
 Shengjie Jin, Zelong Sun, Hengbo Xu, Yanbiao Ma, Zhiwu Lu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-15457/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-15457/citation.csl.json
 
 ## Recorded arXiv snapshot
 

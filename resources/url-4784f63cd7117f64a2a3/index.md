@@ -16,6 +16,8 @@ Archives of ScienceBoard agent evaluation runs, separated by agent configuration
 
 The manifest exposes six ZIP archives but no README card or data-license declaration. The official project announces evaluation-result trajectories; this record does not label them as a training corpus or infer a trajectory count from archive names. Internal schemas and complete payload contents were not inspected.
 
+- Record JSON: https://awesomecua.github.io/resources/url-4784f63cd7117f64a2a3/record.json
+
 ## Structured profile
 
 - formats: ZIP

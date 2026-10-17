@@ -16,9 +16,16 @@ Bibliographic record for AgentAuditor: Human-Level Safety and Security Evaluatio
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-00641/record.json
+
 ## Authors
 
 Hanjun Luo, Shenyu Dai, Chiming Ni, Xinfeng Li, Guibin Zhang, Kun Wang, Tongliang Liu, Hanan Salam
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-00641/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-00641/citation.csl.json
 
 ## Recorded arXiv snapshot
 

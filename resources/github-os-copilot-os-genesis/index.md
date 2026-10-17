@@ -16,6 +16,8 @@ GUI trajectory synthesis using environment interaction.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-os-copilot-os-genesis/record.json
+
 ## Structured profile
 
 - formats: JSONL trajectories, JSON transition triples

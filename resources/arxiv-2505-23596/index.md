@@ -16,9 +16,16 @@ Models mobile application execution as a finite-state machine to support plannin
 
 Hugging Face discovery used the label MAPLE for this ID; the record follows the current primary arXiv title, Agent-SAMA. The secondary-title discrepancy is not treated as proof of a historical rename. Experiments not independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-23596/record.json
+
 ## Authors
 
 Linqiang Guo, Wei Liu, Yi Wen Heng, Tse-Hsun, Chen, Yang Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-23596/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-23596/citation.csl.json
 
 ## Recorded arXiv snapshot
 

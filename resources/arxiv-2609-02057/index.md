@@ -16,9 +16,16 @@ Bibliographic record for Monitoring Web Agents Without Internal Signals: Observa
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-02057/record.json
+
 ## Authors
 
 Sitong Pan, Yipeng Shen, Yilin Lu, Caiwen Ding, Lu Cheng, Qianwen Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-02057/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-02057/citation.csl.json
 
 ## Recorded arXiv snapshot
 

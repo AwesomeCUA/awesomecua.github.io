@@ -1,0 +1,68 @@
+{
+  "aliases": [],
+  "authors": [
+    "Yilin Zhang",
+    "Yingkai Hua",
+    "Chunyu Wei",
+    "Xin Wang",
+    "Yueguo Chen"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b57d784c70b50d2c25055c6d139c0a5acfc97da3a4effbd63536b72d6df38a69",
+      "submitted_at": "2026-05-10T12:11:52Z",
+      "updated_at": "2026-05-10T12:11:52Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.09497v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:39Z",
+      "role": "primary",
+      "sha256": "27c33576ed43c7bc63d4b290f6558553bd1d3aa112a7358138f4045e1bc14918",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=300&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2605.09497",
+  "identifiers": {
+    "arxiv": "2605.09497"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:39Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2605.09497"
+    }
+  ],
+  "name": "Don't Click That: Teaching Web Agents to Resist Deceptive Interfaces",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2026-05-10",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-05-10",
+  "url": "https://arxiv.org/abs/2605.09497"
+}

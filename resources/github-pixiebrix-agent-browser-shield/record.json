@@ -1,0 +1,54 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:05Z",
+      "role": "primary",
+      "sha256": "8682f83d71dd4d44772db3e531f2a9fcb168729211e0cc43493020a0773b0aba",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/pixiebrix/agent-browser-shield/HEAD/README.md"
+    }
+  ],
+  "id": "github:pixiebrix/agent-browser-shield",
+  "identifiers": {},
+  "kind": "tool",
+  "last_verified_at": "2026-10-16T06:36:05Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/pixiebrix/agent-browser-shield"
+    }
+  ],
+  "name": "Agent Browser Shield",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Browser extension for filtering potentially unsafe agent input.",
+  "topics": [
+    "safety-security"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/pixiebrix/agent-browser-shield"
+}

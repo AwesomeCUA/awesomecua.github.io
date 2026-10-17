@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2503.15515",
+  "citation-key": "arxiv_2503_15515",
+  "type": "article",
+  "title": "Towards Computer-Using Personal Agents",
+  "URL": "https://arxiv.org/abs/2503.15515v1",
+  "custom": {
+    "catalog_id": "arxiv:2503.15515",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2503.15515",
+    "identifiers": {
+      "arxiv": "2503.15515"
+    },
+    "first_published_at": "2025-01-31",
+    "record_updated_at": "2025-01-31",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4c778da33baa88916fbcb3e02a33f760dccea8b193d25087df9b56cd42c3c248",
+      "submitted_at": "2025-01-31T12:26:27Z",
+      "updated_at": "2025-01-31T12:26:27Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2503.15515v1"
+    }
+  },
+  "note": "First published: 2025-01-31; Recorded arXiv version: v1; Recorded version updated: 2025-01-31T12:26:27Z.",
+  "author": [
+    {
+      "literal": "Piero A. Bonatti"
+    },
+    {
+      "literal": "John Domingue"
+    },
+    {
+      "literal": "Anna Lisa Gentile"
+    },
+    {
+      "literal": "Andreas Harth"
+    },
+    {
+      "literal": "Olaf Hartig"
+    },
+    {
+      "literal": "Aidan Hogan"
+    },
+    {
+      "literal": "Katja Hose"
+    },
+    {
+      "literal": "Ernesto Jimenez-Ruiz"
+    },
+    {
+      "literal": "Deborah L. McGuinness"
+    },
+    {
+      "literal": "Chang Sun"
+    },
+    {
+      "literal": "Ruben Verborgh"
+    },
+    {
+      "literal": "Jesse Wright"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.15515",
+  "genre": "preprint",
+  "version": "1"
+}

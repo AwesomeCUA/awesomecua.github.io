@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2007.04428",
+  "citation-key": "arxiv_2007_04428",
+  "type": "article",
+  "title": "Discourse Coherence, Reference Grounding and Goal Oriented Dialogue",
+  "URL": "https://arxiv.org/abs/2007.04428v1",
+  "custom": {
+    "catalog_id": "arxiv:2007.04428",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2007.04428",
+    "identifiers": {
+      "arxiv": "2007.04428"
+    },
+    "first_published_at": "2020-07-08",
+    "record_updated_at": "2020-07-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f362a6a667671d472fce6909dd3396403e7acc5809ef9bbc8005fc864daf8621",
+      "submitted_at": "2020-07-08T20:53:14Z",
+      "updated_at": "2020-07-08T20:53:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2007.04428v1"
+    }
+  },
+  "note": "First published: 2020-07-08; Recorded arXiv version: v1; Recorded version updated: 2020-07-08T20:53:14Z.",
+  "author": [
+    {
+      "literal": "Baber Khalid"
+    },
+    {
+      "literal": "Malihe Alikhani"
+    },
+    {
+      "literal": "Michael Fellner"
+    },
+    {
+      "literal": "Brian McMahan"
+    },
+    {
+      "literal": "Matthew Stone"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        7,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2007.04428",
+  "genre": "preprint",
+  "version": "1"
+}

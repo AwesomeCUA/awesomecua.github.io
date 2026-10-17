@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2504.11257",
+  "citation-key": "arxiv_2504_11257",
+  "type": "article",
+  "title": "UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis",
+  "URL": "https://arxiv.org/abs/2504.11257v4",
+  "custom": {
+    "catalog_id": "arxiv:2504.11257",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2504.11257",
+    "identifiers": {
+      "arxiv": "2504.11257"
+    },
+    "first_published_at": "2025-04-15",
+    "record_updated_at": "2025-07-30",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "363e3c3e882fa93a19df74bbf77aa98525cf4639c8f62100c3ddc3e0a438997f",
+      "submitted_at": "2025-04-15T14:56:21Z",
+      "updated_at": "2025-07-30T13:57:49Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2504.11257v4"
+    }
+  },
+  "note": "First published: 2025-04-15; Recorded arXiv version: v4; Recorded version updated: 2025-07-30T13:57:49Z.",
+  "author": [
+    {
+      "literal": "Xinyi Liu"
+    },
+    {
+      "literal": "Xiaoyi Zhang"
+    },
+    {
+      "literal": "Ziyun Zhang"
+    },
+    {
+      "literal": "Yan Lu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.11257",
+  "genre": "preprint",
+  "version": "4"
+}

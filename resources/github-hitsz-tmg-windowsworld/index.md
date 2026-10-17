@@ -16,6 +16,8 @@ Cross-application Windows benchmark with intermediate task evaluation.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-hitsz-tmg-windowsworld/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/LICENSE

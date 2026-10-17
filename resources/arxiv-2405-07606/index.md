@@ -16,9 +16,16 @@ Bibliographic record for AIris: An AI-powered Wearable Assistive Device for the 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2405-07606/record.json
+
 ## Authors
 
 Dionysia Danai Brilli, Evangelos Georgaras, Stefania Tsilivaki, Nikos Melanitis, Konstantina Nikita
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2405-07606/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2405-07606/citation.csl.json
 
 ## Recorded arXiv snapshot
 

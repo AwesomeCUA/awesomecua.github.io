@@ -16,9 +16,16 @@ Develops a taxonomy of computer-use-agent interaction design through system revi
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-07283/record.json
+
 ## Authors
 
 Ruijia Cheng, Jenny T. Liang, Eldon Schoop, Jeffrey Nichols
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-07283/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-07283/citation.csl.json
 
 ## Recorded arXiv snapshot
 

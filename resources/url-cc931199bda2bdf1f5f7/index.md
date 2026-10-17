@@ -16,6 +16,8 @@ A specialized interface-grounding checkpoint that returns normalized point coord
 
 Four safetensors shards and model code/configuration are public and ungated. The card declares license other without specifying a named weight license. This release is the grounding model; the same card says the end-to-end GUI agent model is still under development. No end-to-end agent capability is inferred from grounding scores.
 
+- Record JSON: https://awesomecua.github.io/resources/url-cc931199bda2bdf1f5f7/record.json
+
 ## License declarations
 
 - code: not recorded

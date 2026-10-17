@@ -16,9 +16,16 @@ Bibliographic record for "I Strongly Suspect This Website Is a Scam": Benchmarki
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-00497/record.json
+
 ## Authors
 
 Soham Roy, Sarthakbrata Halder, Arya Bharaty, Vaibhav Bhaskar, Yash Sinha, Dhruv Kumar, Srikant Panda, Murari Mandal
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-00497/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-00497/citation.csl.json
 
 ## Recorded arXiv snapshot
 

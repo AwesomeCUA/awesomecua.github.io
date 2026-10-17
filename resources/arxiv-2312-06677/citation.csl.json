@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2312.06677",
+  "citation-key": "arxiv_2312_06677",
+  "type": "article",
+  "title": "Intelligent Virtual Assistants with LLM-based Process Automation",
+  "URL": "https://arxiv.org/abs/2312.06677v1",
+  "custom": {
+    "catalog_id": "arxiv:2312.06677",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2312.06677",
+    "identifiers": {
+      "arxiv": "2312.06677"
+    },
+    "first_published_at": "2023-12-04",
+    "record_updated_at": "2023-12-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "598c8c30348d454c638944c932dd55355b5d3ecda6eb6f3910a27fffcab9622a",
+      "submitted_at": "2023-12-04T07:51:58Z",
+      "updated_at": "2023-12-04T07:51:58Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2312.06677v1"
+    }
+  },
+  "note": "First published: 2023-12-04; Recorded arXiv version: v1; Recorded version updated: 2023-12-04T07:51:58Z.",
+  "author": [
+    {
+      "literal": "Yanchu Guan"
+    },
+    {
+      "literal": "Dong Wang"
+    },
+    {
+      "literal": "Zhixuan Chu"
+    },
+    {
+      "literal": "Shiyu Wang"
+    },
+    {
+      "literal": "Feiyue Ni"
+    },
+    {
+      "literal": "Ruihua Song"
+    },
+    {
+      "literal": "Longfei Li"
+    },
+    {
+      "literal": "Jinjie Gu"
+    },
+    {
+      "literal": "Chenyi Zhuang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2312.06677",
+  "genre": "preprint",
+  "version": "1"
+}

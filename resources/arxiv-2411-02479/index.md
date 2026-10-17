@@ -16,9 +16,16 @@ Bibliographic record for Digitizing Touch with an Artificial Multimodal Fingerti
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-02479/record.json
+
 ## Authors
 
 Mike Lambeta, Tingfan Wu, Ali Sengul, Victoria Rose Most, Nolan Black, Kevin Sawyer, Romeo Mercado, Haozhi Qi, Alexander Sohn, Byron Taylor, Norb Tydingco, Gregg Kammerer, Dave Stroud, Jake Khatha, Kurt Jenkins, Kyle Most, Neal Stein, Ricardo Chavira, Thomas Craven-Bartle, Eric Sanchez, Yitian Ding, Jitendra Malik, Roberto Calandra
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-02479/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-02479/citation.csl.json
 
 ## Recorded arXiv snapshot
 

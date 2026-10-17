@@ -1,0 +1,115 @@
+{
+  "id": "arxiv:2508.03700",
+  "citation-key": "arxiv_2508_03700",
+  "type": "article",
+  "title": "MagicGUI: A Foundational Mobile GUI Agent with Scalable Data Pipeline and Reinforcement Fine-tuning",
+  "URL": "https://arxiv.org/abs/2508.03700v5",
+  "custom": {
+    "catalog_id": "arxiv:2508.03700",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2508.03700",
+    "identifiers": {
+      "arxiv": "2508.03700"
+    },
+    "first_published_at": "2025-07-19",
+    "record_updated_at": "2025-09-11",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d5175e5ed0061660fa950512300daa878eb90e5c98bdac8f80d478414b0a2931",
+      "submitted_at": "2025-07-19T12:33:43Z",
+      "updated_at": "2025-09-11T14:28:11Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2508.03700v5"
+    }
+  },
+  "note": "First published: 2025-07-19; Recorded arXiv version: v5; Recorded version updated: 2025-09-11T14:28:11Z.",
+  "author": [
+    {
+      "literal": "Liujian Tang"
+    },
+    {
+      "literal": "Shaokang Dong"
+    },
+    {
+      "literal": "Yijia Huang"
+    },
+    {
+      "literal": "Minqi Xiang"
+    },
+    {
+      "literal": "Hongtao Ruan"
+    },
+    {
+      "literal": "Bin Wang"
+    },
+    {
+      "literal": "Shuo Li"
+    },
+    {
+      "literal": "Zhiheng Xi"
+    },
+    {
+      "literal": "Zhihui Cao"
+    },
+    {
+      "literal": "Hailiang Pang"
+    },
+    {
+      "literal": "Heng Kong"
+    },
+    {
+      "literal": "He Yang"
+    },
+    {
+      "literal": "Mingxu Chai"
+    },
+    {
+      "literal": "Zhilin Gao"
+    },
+    {
+      "literal": "Xingyu Liu"
+    },
+    {
+      "literal": "Yingnan Fu"
+    },
+    {
+      "literal": "Jiaming Liu"
+    },
+    {
+      "literal": "Xuanjing Huang"
+    },
+    {
+      "literal": "Yu-Gang Jiang"
+    },
+    {
+      "literal": "Tao Gui"
+    },
+    {
+      "literal": "Qi Zhang"
+    },
+    {
+      "literal": "Kang Wang"
+    },
+    {
+      "literal": "Yunke Zhang"
+    },
+    {
+      "literal": "Yuran Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.03700",
+  "genre": "preprint",
+  "version": "5"
+}

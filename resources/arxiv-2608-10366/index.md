@@ -16,9 +16,16 @@ DSAgentBench evaluates end-to-end data-science workflows spanning analysis, mode
 
 The paper abstract and official project README were reviewed. The README documents an Ubuntu desktop and GUI action interface and includes LLM-assisted evaluators; this annotation does not assert that every evaluator is deterministic. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-10366/record.json
+
 ## Authors
 
 Mizanur Rahman, Mohammed Saidul Islam, Ridwan Mahbub, Md Tahmid Rahman Laskar, Shafiq Joty, Enamul Hoque Prince
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-10366/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-10366/citation.csl.json
 
 ## Recorded arXiv snapshot
 

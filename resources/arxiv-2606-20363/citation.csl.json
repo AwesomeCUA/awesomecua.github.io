@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2606.20363",
+  "citation-key": "arxiv_2606_20363",
+  "type": "article",
+  "title": "Automating SKILL.md Generation for Computer-Using Agents via Interaction Trajectory Mining",
+  "URL": "https://arxiv.org/abs/2606.20363v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.20363",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.20363",
+    "identifiers": {
+      "arxiv": "2606.20363"
+    },
+    "first_published_at": "2026-06-18",
+    "record_updated_at": "2026-06-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b370491b37d5bf25c624f2bac654e438459c8084b5da292fb18a0bf9142adaa2",
+      "submitted_at": "2026-06-18T15:25:42Z",
+      "updated_at": "2026-06-18T15:25:42Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.20363v1"
+    }
+  },
+  "note": "First published: 2026-06-18; Recorded arXiv version: v1; Recorded version updated: 2026-06-18T15:25:42Z.",
+  "author": [
+    {
+      "literal": "Yuexing Hao"
+    },
+    {
+      "literal": "Xiaomin Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.20363",
+  "genre": "preprint",
+  "version": "1"
+}

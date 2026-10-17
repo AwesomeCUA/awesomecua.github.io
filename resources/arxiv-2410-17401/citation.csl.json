@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2410.17401",
+  "citation-key": "arxiv_2410_17401",
+  "type": "article",
+  "title": "AdvAgent: Controllable Blackbox Red-teaming on Web Agents",
+  "URL": "https://arxiv.org/abs/2410.17401v4",
+  "custom": {
+    "catalog_id": "arxiv:2410.17401",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.17401",
+    "identifiers": {
+      "arxiv": "2410.17401"
+    },
+    "first_published_at": "2024-10-22",
+    "record_updated_at": "2025-05-31",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "226a4acbbaab42c8cbc44a897651d8c745119426ea1223f1b849558af32fab02",
+      "submitted_at": "2024-10-22T20:18:26Z",
+      "updated_at": "2025-05-31T18:34:01Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2410.17401v4"
+    }
+  },
+  "note": "First published: 2024-10-22; Recorded arXiv version: v4; Recorded version updated: 2025-05-31T18:34:01Z.",
+  "author": [
+    {
+      "literal": "Chejian Xu"
+    },
+    {
+      "literal": "Mintong Kang"
+    },
+    {
+      "literal": "Jiawei Zhang"
+    },
+    {
+      "literal": "Zeyi Liao"
+    },
+    {
+      "literal": "Lingbo Mo"
+    },
+    {
+      "literal": "Mengqi Yuan"
+    },
+    {
+      "literal": "Huan Sun"
+    },
+    {
+      "literal": "Bo Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.17401",
+  "genre": "preprint",
+  "version": "4"
+}

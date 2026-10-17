@@ -16,9 +16,16 @@ Bibliographic record for DA-Code: Agent Data Science Code Generation Benchmark f
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-07331/record.json
+
 ## Authors
 
 Yiming Huang, Jianwen Luo, Yan Yu, Yitong Zhang, Fangyu Lei, Yifan Wei, Shizhu He, Lifu Huang, Xiao Liu, Jun Zhao, Kang Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-07331/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-07331/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for FingerTip 20K: A Benchmark for Proactive and Personaliz
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-21071/record.json
+
 ## Authors
 
 Qinglong Yang, Haoming Li, Haotian Zhao, Xiaokai Yan, Jingtao Ding, Fengli Xu, Yong Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-21071/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-21071/citation.csl.json
 
 ## Recorded arXiv snapshot
 

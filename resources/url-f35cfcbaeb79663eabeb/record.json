@@ -1,0 +1,96 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/Hcompany/Holo1-7B/tree/main",
+    "gated": false,
+    "hub_id": "Hcompany/Holo1-7B"
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:44:50Z",
+      "role": "primary",
+      "sha256": "a7e185380bb02150d761651420cccc9c4a57f67c70a5dec3b7f85af63fb8773b",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/Hcompany/Holo1-7B/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:44:50Z",
+      "role": "primary",
+      "sha256": "66076674ebbdcf9faeb408ebd137ac1283fb56b1011acd7037ebb73e09ba749d",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/api/models/Hcompany/Holo1-7B"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T02:44:50Z",
+      "role": "primary",
+      "sha256": "a7e185380bb02150d761651420cccc9c4a57f67c70a5dec3b7f85af63fb8773b",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/Hcompany/Holo1-7B/raw/main/README.md"
+    }
+  ],
+  "id": "url:f35cfcbaeb79663eabeb",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T02:44:50Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "apache-2.0",
+      "retrieved_at": "2026-10-17T02:44:50Z",
+      "url": "https://huggingface.co/Hcompany/Holo1-7B/raw/main/README.md"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/Hcompany/Holo1-7B"
+    }
+  ],
+  "name": "Holo1 7B",
+  "notes": "Four public safetensors shards and example navigation/localization files are present. The model card declares Apache-2.0. Reported Surfer-H results depend on the assembled policy/localizer/validator configuration and are not imported as standalone checkpoint scores.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/Hcompany/Holo1-7B/raw/main/README.md",
+      "target_id": "arxiv:2506.02865",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A Qwen2.5-VL-based action model released for the Surfer-H web-agent system, supporting policy, interface-localization and validation roles.",
+  "topics": [
+    "web-navigation",
+    "grounding",
+    "planning"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/Hcompany/Holo1-7B"
+}

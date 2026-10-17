@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2509.11548",
+  "citation-key": "arxiv_2509_11548",
+  "type": "article",
+  "title": "How Auxiliary Reasoning Unleashes GUI Grounding in VLMs",
+  "URL": "https://arxiv.org/abs/2509.11548v2",
+  "custom": {
+    "catalog_id": "arxiv:2509.11548",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2509.11548",
+    "identifiers": {
+      "arxiv": "2509.11548"
+    },
+    "first_published_at": "2025-09-15",
+    "record_updated_at": "2026-06-10",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "75ffc21abebbc2c362798f3455b9e6240b58407572e5633d5171e5612cfae71b",
+      "submitted_at": "2025-09-15T03:28:29Z",
+      "updated_at": "2026-06-10T01:13:27Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2509.11548v2"
+    }
+  },
+  "note": "First published: 2025-09-15; Recorded arXiv version: v2; Recorded version updated: 2026-06-10T01:13:27Z.",
+  "author": [
+    {
+      "literal": "Weiming Li"
+    },
+    {
+      "literal": "Yan Shao"
+    },
+    {
+      "literal": "Jing Yang"
+    },
+    {
+      "literal": "Yujing Lu"
+    },
+    {
+      "literal": "Ling Zhong"
+    },
+    {
+      "literal": "Yuhan Wang"
+    },
+    {
+      "literal": "Min Yu"
+    },
+    {
+      "literal": "Tongxiao Ruan"
+    },
+    {
+      "literal": "Manni Duan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.11548",
+  "genre": "preprint",
+  "version": "2"
+}

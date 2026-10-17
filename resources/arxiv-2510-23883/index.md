@@ -16,9 +16,16 @@ Bibliographic record for Agentic AI Security: Threats, Defenses, Evaluation, and
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-23883/record.json
+
 ## Authors
 
 Anshuman Chhabra, Shrestha Datta, Shahriar Kabir Nahin, Prasant Mohapatra
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-23883/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-23883/citation.csl.json
 
 ## Recorded arXiv snapshot
 

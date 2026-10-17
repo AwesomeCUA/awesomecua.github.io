@@ -16,9 +16,16 @@ Bibliographic record for Development of a hand pose recognition system on an emb
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1910-11100/record.json
+
 ## Authors
 
 Dennis Núñez Fernández
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1910-11100/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1910-11100/citation.csl.json
 
 ## Recorded arXiv snapshot
 

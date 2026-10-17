@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:1801.10323",
+  "citation-key": "arxiv_1801_10323",
+  "type": "article",
+  "title": "Privacy-Preserving Secret Shared Computations using MapReduce",
+  "URL": "https://arxiv.org/abs/1801.10323v3",
+  "custom": {
+    "catalog_id": "arxiv:1801.10323",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1801.10323",
+    "identifiers": {
+      "arxiv": "1801.10323"
+    },
+    "first_published_at": "2018-01-31",
+    "record_updated_at": "2019-08-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f69ba53a4df9a9de0e2f9fbc283505259237c448f2e6bc89ff664431273156f5",
+      "submitted_at": "2018-01-31T07:02:10Z",
+      "updated_at": "2019-08-06T03:15:04Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/1801.10323v3"
+    }
+  },
+  "note": "First published: 2018-01-31; Recorded arXiv version: v3; Recorded version updated: 2019-08-06T03:15:04Z.",
+  "author": [
+    {
+      "literal": "Shlomi Dolev"
+    },
+    {
+      "literal": "Peeyush Gupta"
+    },
+    {
+      "literal": "Yin Li"
+    },
+    {
+      "literal": "Sharad Mehrotra"
+    },
+    {
+      "literal": "Shantanu Sharma"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        1,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1801.10323",
+  "genre": "preprint",
+  "version": "3"
+}

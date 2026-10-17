@@ -16,9 +16,16 @@ Uses an attention-based action head and a verifier to select relevant screen reg
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-03143/record.json
+
 ## Authors
 
 Qianhui Wu, Kanzhi Cheng, Rui Yang, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang, Jian Mu, Baolin Peng, Bo Qiao, Reuben Tan, Si Qin, Lars Liden, Qingwei Lin, Huan Zhang, Tong Zhang, Jianbing Zhang, Dongmei Zhang, Jianfeng Gao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-03143/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-03143/citation.csl.json
 
 ## Recorded arXiv snapshot
 

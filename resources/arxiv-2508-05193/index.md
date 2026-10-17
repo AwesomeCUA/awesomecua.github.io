@@ -16,9 +16,16 @@ Bibliographic record for STEPWISE-CODEX-Bench: Evaluating Complex Multi-Function
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2508-05193/record.json
+
 ## Authors
 
 Kaiwen Yan, Yuhang Chang, Zirui Guo, Yaling Mou, Jiang Ming, Jingwei Sun
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2508-05193/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2508-05193/citation.csl.json
 
 ## Recorded arXiv snapshot
 

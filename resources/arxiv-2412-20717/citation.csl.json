@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2412.20717",
+  "citation-key": "arxiv_2412_20717",
+  "type": "article",
+  "title": "Closing Speed Computation using Stereo Camera and Applications in Unsignalized T-Intersection",
+  "URL": "https://arxiv.org/abs/2412.20717v1",
+  "custom": {
+    "catalog_id": "arxiv:2412.20717",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2412.20717",
+    "identifiers": {
+      "arxiv": "2412.20717"
+    },
+    "first_published_at": "2024-12-30",
+    "record_updated_at": "2024-12-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "470bbc3516973a331166d9b5ded35d55699708b539ea2fe81a12f47737c65a6d",
+      "submitted_at": "2024-12-30T05:14:36Z",
+      "updated_at": "2024-12-30T05:14:36Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2412.20717v1"
+    }
+  },
+  "note": "First published: 2024-12-30; Recorded arXiv version: v1; Recorded version updated: 2024-12-30T05:14:36Z.",
+  "author": [
+    {
+      "literal": "Gautam Kumar"
+    },
+    {
+      "literal": "Ashwini Ratnoo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.20717",
+  "genre": "preprint",
+  "version": "1"
+}

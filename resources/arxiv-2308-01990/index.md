@@ -16,9 +16,16 @@ Bibliographic record for From Prompt Injections to SQL Injection Attacks: How Pr
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2308-01990/record.json
+
 ## Authors
 
 Rodrigo Pedro, Daniel Castro, Paulo Carreira, Nuno Santos
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2308-01990/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2308-01990/citation.csl.json
 
 ## Recorded arXiv snapshot
 

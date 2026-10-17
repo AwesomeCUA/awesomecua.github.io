@@ -16,9 +16,16 @@ Bibliographic record for Predicting atmospheric optical properties for radiative
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2005-02265/record.json
+
 ## Authors
 
 Menno A. Veerman, Robert Pincus, Robin Stoffer, Caspar van Leeuwen, Damian Podareanu, Chiel C. van Heerwaarden
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2005-02265/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2005-02265/citation.csl.json
 
 ## Recorded arXiv snapshot
 

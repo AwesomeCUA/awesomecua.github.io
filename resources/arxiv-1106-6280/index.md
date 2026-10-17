@@ -16,9 +16,16 @@ Bibliographic record for On optimality of kernels for approximate Bayesian compu
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1106-6280/record.json
+
 ## Authors
 
 Sarah Filippi, Chris Barnes, Julien Cornebise, Michael P. H. Stumpf
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1106-6280/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1106-6280/citation.csl.json
 
 ## Recorded arXiv snapshot
 

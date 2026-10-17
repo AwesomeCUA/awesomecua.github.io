@@ -16,6 +16,8 @@ Human demonstrations and tasks for generalist web navigation research.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-osu-nlp-group-mind2web/record.json
+
 ## Structured profile
 
 - actions: CLICK, TYPE, SELECT

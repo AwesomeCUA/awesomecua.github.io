@@ -16,9 +16,16 @@ Introduces Uni-GUI, a collection of executable desktop and mobile trajectories, 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-04425/record.json
+
 ## Authors
 
 Niu Lian, Tongbo Chen, Zhehao Yu, Chengzhen Duan, Fazhan Liu, Hui Liu, Pei Fu, Jian Luan, Heng Qu, Shu-Tao Xia, Jinpeng Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-04425/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-04425/citation.csl.json
 
 ## Recorded arXiv snapshot
 

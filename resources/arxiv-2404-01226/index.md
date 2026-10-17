@@ -16,9 +16,16 @@ Bibliographic record for Stable Code Technical Report. Title, authors and dates 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-01226/record.json
+
 ## Authors
 
 Nikhil Pinnaparaju, Reshinth Adithyan, Duy Phung, Jonathan Tow, James Baicoianu, Ashish Datta, Maksym Zhuravinskyi, Dakota Mahan, Marco Bellagente, Carlos Riquelme, Nathan Cooper
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-01226/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-01226/citation.csl.json
 
 ## Recorded arXiv snapshot
 

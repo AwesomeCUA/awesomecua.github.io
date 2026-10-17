@@ -1,0 +1,76 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:00Z",
+      "role": "primary",
+      "sha256": "f025e4bc9d920ec982525394c69b87043aae87fbe719de4b9e973408a44211e2",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/THUDM/CogAgent/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:00Z",
+      "role": "primary",
+      "sha256": "c6a77f53ba7933f07b95807e972e50259921344e777e52a6a8bc690373df2d74",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/THUDM/CogAgent/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:thudm/cogagent",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-16T06:36:00Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T06:42:00Z",
+      "url": "https://raw.githubusercontent.com/THUDM/CogAgent/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/THUDM/CogAgent"
+    }
+  ],
+  "name": "CogAgent",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/THUDM/CogAgent/HEAD/README.md",
+      "target_id": "arxiv:2312.08914",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Visual language model for GUI understanding and interaction.",
+  "topics": [
+    "grounding",
+    "screen-understanding"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/THUDM/CogAgent"
+}

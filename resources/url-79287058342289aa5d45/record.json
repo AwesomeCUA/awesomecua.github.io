@@ -1,0 +1,116 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "dataset_profile": {
+      "counts": [
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md",
+          "population": "default/train in the dataset card metadata",
+          "qualifier": "exact",
+          "unit": "training rows",
+          "value": 701864
+        }
+      ],
+      "evidence_urls": [
+        "https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md"
+      ],
+      "formats": [],
+      "modalities": [
+        "screenshots",
+        "instructions",
+        "functionality labels",
+        "bounding boxes"
+      ],
+      "notes": "Rows are not unique screenshots. The card documents image-downscaling conventions that affect coordinates; preserve the device and original image-size fields.",
+      "splits": [
+        "train"
+      ],
+      "supervision": [
+        "element grounding",
+        "functionality captioning"
+      ]
+    },
+    "download_url": "https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/tree/main",
+    "languages": [],
+    "modalities": [
+      "image",
+      "text",
+      "bounding-box"
+    ],
+    "sample_count": 701864,
+    "sample_unit": "training rows reported in the dataset card"
+  },
+  "environments": [
+    "web",
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T10:42:13Z",
+      "role": "primary",
+      "sha256": "c73b46acc2ff034a443fb8dbde327de1888535267199c9fb1819adf66898f1d7",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details.sample_count",
+        "details.sample_unit",
+        "details.modalities",
+        "details.download_url",
+        "details.dataset_profile"
+      ],
+      "url": "https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-16T10:42:13Z",
+      "role": "primary",
+      "sha256": "c73b46acc2ff034a443fb8dbde327de1888535267199c9fb1819adf66898f1d7",
+      "supports": [
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md"
+    }
+  ],
+  "id": "url:79287058342289aa5d45",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-16T10:42:13Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "cc-by-4.0",
+      "retrieved_at": "2026-10-16T10:42:13Z",
+      "url": "https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/raw/main/README.md"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k"
+    }
+  ],
+  "name": "AutoGUI v1 training data",
+  "notes": "The row count is not a unique-screen count. The data card documents image scaling conventions that affect coordinate interpretation.",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Screenshot-based grounding and captioning samples with UI functionality descriptions, target coordinates, and bounding boxes.",
+  "topics": [
+    "grounding",
+    "screen-understanding"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k"
+}

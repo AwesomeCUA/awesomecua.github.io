@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2312.13771",
+  "citation-key": "arxiv_2312_13771",
+  "type": "article",
+  "title": "AppAgent: Multimodal Agents as Smartphone Users",
+  "URL": "https://arxiv.org/abs/2312.13771v3",
+  "custom": {
+    "catalog_id": "arxiv:2312.13771",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2312.13771",
+    "identifiers": {
+      "arxiv": "2312.13771"
+    },
+    "first_published_at": "2023-12-21",
+    "record_updated_at": "2026-07-05",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "61e54d83304755ce89c2ab69f7bb93a7fdc4d68cb5182daad9b5210f809d7ae1",
+      "submitted_at": "2023-12-21T11:52:45Z",
+      "updated_at": "2026-07-05T07:51:04Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2312.13771v3"
+    }
+  },
+  "note": "First published: 2023-12-21; Recorded arXiv version: v3; Recorded version updated: 2026-07-05T07:51:04Z.",
+  "author": [
+    {
+      "literal": "Chi Zhang"
+    },
+    {
+      "literal": "Zhao Yang"
+    },
+    {
+      "literal": "Jiaxuan Liu"
+    },
+    {
+      "literal": "Yanda Li"
+    },
+    {
+      "literal": "Yucheng Han"
+    },
+    {
+      "literal": "Xin Chen"
+    },
+    {
+      "literal": "Zebiao Huang"
+    },
+    {
+      "literal": "Bin Fu"
+    },
+    {
+      "literal": "Gang Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2312.13771",
+  "genre": "preprint",
+  "version": "3"
+}

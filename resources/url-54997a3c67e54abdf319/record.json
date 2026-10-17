@@ -1,0 +1,106 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/neulab/UIX-Qwen2/tree/main",
+    "gated": false,
+    "hub_id": "neulab/UIX-Qwen2"
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:03:41Z",
+      "role": "primary",
+      "sha256": "91f90e329b76c2ded26a62c41f648a73e685116aa732c86c201592e46a941c44",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/neulab/UIX-Qwen2/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:03:40Z",
+      "role": "primary",
+      "sha256": "19bd4d126f3ccb4cb3049125d384c76964bd3169c051369ac0c7b64cef9f48b4",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/api/models/neulab/UIX-Qwen2"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:01Z",
+      "role": "primary",
+      "sha256": "fe0c03fe73529a29788d559103c4aed48dca6ed9ba3bfd5f151f902fa8858b38",
+      "supports": [
+        "identity",
+        "summary"
+      ],
+      "url": "https://raw.githubusercontent.com/neulab/multiui/HEAD/README.md"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T04:03:41Z",
+      "role": "primary",
+      "sha256": "91f90e329b76c2ded26a62c41f648a73e685116aa732c86c201592e46a941c44",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/neulab/UIX-Qwen2/raw/main/README.md"
+    }
+  ],
+  "id": "url:54997a3c67e54abdf319",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T04:03:41Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "odc-by",
+      "retrieved_at": "2026-10-17T04:03:41Z",
+      "url": "https://huggingface.co/neulab/UIX-Qwen2/raw/main/README.md"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/neulab/UIX-Qwen2"
+    }
+  ],
+  "name": "UIX-Qwen2",
+  "notes": "Four public safetensors shards are present. The model card declares odc-by, a data-oriented license designation; it is preserved as a publisher declaration rather than replaced with the code or base-model license. No independent legal scope or evaluation result is asserted.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/neulab/UIX-Qwen2/raw/main/README.md",
+      "target_id": "arxiv:2410.13824",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A MultiUI-trained visual-language checkpoint for text-rich webpage understanding and interface tasks.",
+  "topics": [
+    "screen-understanding",
+    "grounding"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/neulab/UIX-Qwen2"
+}

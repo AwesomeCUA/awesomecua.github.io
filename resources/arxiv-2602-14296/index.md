@@ -16,9 +16,16 @@ Bibliographic record for AutoWebWorld: Synthesizing Infinite Verifiable Web Envi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-14296/record.json
+
 ## Authors
 
 Yifan Wu, Yiran Peng, Yiyu Chen, Jianhao Ruan, Zijie Zhuang, Cheng Yang, Jiayi Zhang, Man Chen, Yenchi Tseng, Zhaoyang Yu, Liang Chen, Yuyao Zhai, Bang Liu, Chenglin Wu, Yuyu Luo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-14296/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-14296/citation.csl.json
 
 ## Recorded arXiv snapshot
 

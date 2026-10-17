@@ -1,0 +1,172 @@
+{
+  "id": "arxiv:2412.04626",
+  "citation-key": "arxiv_2412_04626",
+  "type": "article",
+  "title": "BigDocs: An Open Dataset for Training Multimodal Models on Document and Code Tasks",
+  "URL": "https://arxiv.org/abs/2412.04626v2",
+  "custom": {
+    "catalog_id": "arxiv:2412.04626",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2412.04626",
+    "identifiers": {
+      "arxiv": "2412.04626"
+    },
+    "first_published_at": "2024-12-05",
+    "record_updated_at": "2025-03-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "84b72716d09298ff04a3b54e4c17f56b86a54927fddcb8f481890dbea7fb7e2b",
+      "submitted_at": "2024-12-05T21:41:20Z",
+      "updated_at": "2025-03-17T16:32:24Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2412.04626v2"
+    }
+  },
+  "note": "First published: 2024-12-05; Recorded arXiv version: v2; Recorded version updated: 2025-03-17T16:32:24Z.",
+  "author": [
+    {
+      "literal": "Juan Rodriguez"
+    },
+    {
+      "literal": "Xiangru Jian"
+    },
+    {
+      "literal": "Siba Smarak Panigrahi"
+    },
+    {
+      "literal": "Tianyu Zhang"
+    },
+    {
+      "literal": "Aarash Feizi"
+    },
+    {
+      "literal": "Abhay Puri"
+    },
+    {
+      "literal": "Akshay Kalkunte"
+    },
+    {
+      "literal": "François Savard"
+    },
+    {
+      "literal": "Ahmed Masry"
+    },
+    {
+      "literal": "Shravan Nayak"
+    },
+    {
+      "literal": "Rabiul Awal"
+    },
+    {
+      "literal": "Mahsa Massoud"
+    },
+    {
+      "literal": "Amirhossein Abaskohi"
+    },
+    {
+      "literal": "Zichao Li"
+    },
+    {
+      "literal": "Suyuchen Wang"
+    },
+    {
+      "literal": "Pierre-André Noël"
+    },
+    {
+      "literal": "Mats Leon Richter"
+    },
+    {
+      "literal": "Saverio Vadacchino"
+    },
+    {
+      "literal": "Shubham Agarwal"
+    },
+    {
+      "literal": "Sanket Biswas"
+    },
+    {
+      "literal": "Sara Shanian"
+    },
+    {
+      "literal": "Ying Zhang"
+    },
+    {
+      "literal": "Noah Bolger"
+    },
+    {
+      "literal": "Kurt MacDonald"
+    },
+    {
+      "literal": "Simon Fauvel"
+    },
+    {
+      "literal": "Sathwik Tejaswi"
+    },
+    {
+      "literal": "Srinivas Sunkara"
+    },
+    {
+      "literal": "Joao Monteiro"
+    },
+    {
+      "literal": "Krishnamurthy DJ Dvijotham"
+    },
+    {
+      "literal": "Torsten Scholak"
+    },
+    {
+      "literal": "Nicolas Chapados"
+    },
+    {
+      "literal": "Sepideh Kharagani"
+    },
+    {
+      "literal": "Sean Hughes"
+    },
+    {
+      "literal": "M. Özsu"
+    },
+    {
+      "literal": "Siva Reddy"
+    },
+    {
+      "literal": "Marco Pedersoli"
+    },
+    {
+      "literal": "Yoshua Bengio"
+    },
+    {
+      "literal": "Christopher Pal"
+    },
+    {
+      "literal": "Issam Laradji"
+    },
+    {
+      "literal": "Spandana Gella"
+    },
+    {
+      "literal": "Perouz Taslakian"
+    },
+    {
+      "literal": "David Vazquez"
+    },
+    {
+      "literal": "Sai Rajeswar"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.04626",
+  "genre": "preprint",
+  "version": "2"
+}

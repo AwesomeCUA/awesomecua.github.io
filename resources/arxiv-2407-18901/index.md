@@ -16,9 +16,16 @@ Introduces simulated application APIs and state-based task evaluation for intera
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-18901/record.json
+
 ## Authors
 
 Harsh Trivedi, Tushar Khot, Mareike Hartmann, Ruskin Manku, Vinty Dong, Edward Li, Shashank Gupta, Ashish Sabharwal, Niranjan Balasubramanian
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-18901/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-18901/citation.csl.json
 
 ## Recorded arXiv snapshot
 

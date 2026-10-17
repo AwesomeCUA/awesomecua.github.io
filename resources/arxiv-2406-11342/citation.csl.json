@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2406.11342",
+  "citation-key": "arxiv_2406_11342",
+  "type": "article",
+  "title": "KAOS: Large Model Multi-Agent Operating System",
+  "URL": "https://arxiv.org/abs/2406.11342v3",
+  "custom": {
+    "catalog_id": "arxiv:2406.11342",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2406.11342",
+    "identifiers": {
+      "arxiv": "2406.11342"
+    },
+    "first_published_at": "2024-06-17",
+    "record_updated_at": "2024-08-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5260b51d98495bbd128e32af8fd3c6327cf53ccad8aacc251c7e442762e4cf8a",
+      "submitted_at": "2024-06-17T08:59:32Z",
+      "updated_at": "2024-08-09T01:45:39Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2406.11342v3"
+    }
+  },
+  "note": "First published: 2024-06-17; Recorded arXiv version: v3; Recorded version updated: 2024-08-09T01:45:39Z.",
+  "author": [
+    {
+      "literal": "Zhao Zhuo"
+    },
+    {
+      "literal": "Rongzhen Li"
+    },
+    {
+      "literal": "Kai Liu"
+    },
+    {
+      "literal": "Huhai Zou"
+    },
+    {
+      "literal": "KaiMao Li"
+    },
+    {
+      "literal": "Jie Yu"
+    },
+    {
+      "literal": "Tianhao Sun"
+    },
+    {
+      "literal": "Qingbo Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.11342",
+  "genre": "preprint",
+  "version": "3"
+}

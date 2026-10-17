@@ -16,9 +16,16 @@ Bibliographic record for GUI-PRA: Process Reward Agent for GUI Tasks. Title, aut
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-23263/record.json
+
 ## Authors
 
 Tao Xiong, Xavier Hu, Yurun Chen, Yuhang Liu, Changqiao Wu, Pengzhi Gao, Wei Liu, Jian Luan, Shengyu Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-23263/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-23263/citation.csl.json
 
 ## Recorded arXiv snapshot
 

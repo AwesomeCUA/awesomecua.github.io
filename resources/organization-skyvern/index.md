@@ -16,6 +16,8 @@ Publisher or product brand associated with Skyvern computer-use or browser autom
 
 Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
 
+- Record JSON: https://awesomecua.github.io/resources/organization-skyvern/record.json
+
 ## License declarations
 
 - code: not recorded

@@ -16,9 +16,16 @@ Bibliographic record for Tell Me More! Towards Implicit User Intention Understan
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-09205/record.json
+
 ## Authors
 
 Cheng Qian, Bingxiang He, Zhong Zhuang, Jia Deng, Yujia Qin, Xin Cong, Zhong Zhang, Jie Zhou, Yankai Lin, Zhiyuan Liu, Maosong Sun
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-09205/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-09205/citation.csl.json
 
 ## Recorded arXiv snapshot
 

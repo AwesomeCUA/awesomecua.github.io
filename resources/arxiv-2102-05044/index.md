@@ -16,9 +16,16 @@ Bibliographic record for Simulating collider physics on quantum computers using 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2102-05044/record.json
+
 ## Authors
 
 Christian W. Bauer, Marat Freytsis, Benjamin Nachman
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2102-05044/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2102-05044/citation.csl.json
 
 ## Recorded arXiv snapshot
 

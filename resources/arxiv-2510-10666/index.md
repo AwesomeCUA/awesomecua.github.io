@@ -16,9 +16,16 @@ Bibliographic record for BrowserAgent: Building Web Agents with Human-Inspired W
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-10666/record.json
+
 ## Authors
 
 Tao Yu, Zhengbo Zhang, Zhiheng Lyu, Junhao Gong, Hongzhu Yi, Xinming Wang, Yuxuan Zhou, Jiabing Yang, Ping Nie, Yan Huang, Wenhu Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-10666/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-10666/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Reducing the complexity for class group computations us
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1810-12010/record.json
+
 ## Authors
 
 Alexandre Gélin
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1810-12010/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1810-12010/citation.csl.json
 
 ## Recorded arXiv snapshot
 

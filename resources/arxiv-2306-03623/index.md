@@ -16,9 +16,16 @@ Bibliographic record for Spike-based computation using classical recurrent neura
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2306-03623/record.json
+
 ## Authors
 
 Florent De Geeter, Damien Ernst, Guillaume Drion
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2306-03623/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2306-03623/citation.csl.json
 
 ## Recorded arXiv snapshot
 

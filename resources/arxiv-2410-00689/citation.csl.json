@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2410.00689",
+  "citation-key": "arxiv_2410_00689",
+  "type": "article",
+  "title": "Multimodal Auto Validation For Self-Refinement in Web Agents",
+  "URL": "https://arxiv.org/abs/2410.00689v2",
+  "custom": {
+    "catalog_id": "arxiv:2410.00689",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.00689",
+    "identifiers": {
+      "arxiv": "2410.00689"
+    },
+    "first_published_at": "2024-10-01",
+    "record_updated_at": "2024-10-11",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "69febc7aabfe38a6da439f1b4f673e0c36bc34c6afd1e8b06481433c1f43b1aa",
+      "submitted_at": "2024-10-01T13:43:55Z",
+      "updated_at": "2024-10-11T15:42:52Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2410.00689v2"
+    }
+  },
+  "note": "First published: 2024-10-01; Recorded arXiv version: v2; Recorded version updated: 2024-10-11T15:42:52Z.",
+  "author": [
+    {
+      "literal": "Ruhana Azam"
+    },
+    {
+      "literal": "Tamer Abuelsaad"
+    },
+    {
+      "literal": "Aditya Vempaty"
+    },
+    {
+      "literal": "Ashish Jagmohan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.00689",
+  "genre": "preprint",
+  "version": "2"
+}

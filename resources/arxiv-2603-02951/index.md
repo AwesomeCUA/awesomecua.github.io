@@ -16,9 +16,16 @@ Bibliographic record for CGL: Advancing Continual GUI Learning via Reinforcement
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-02951/record.json
+
 ## Authors
 
 Zhenquan Yao, Zitong Huang, Yihan Zeng, Jianhua Han, Hang Xu, Chun-Mei Feng, Jianwei Ma, Wangmeng Zuo
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-02951/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-02951/citation.csl.json
 
 ## Recorded arXiv snapshot
 

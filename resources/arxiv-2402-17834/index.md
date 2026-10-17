@@ -16,9 +16,16 @@ Bibliographic record for Stable LM 2 1.6B Technical Report. Title, authors and d
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2402-17834/record.json
+
 ## Authors
 
 Marco Bellagente, Jonathan Tow, Dakota Mahan, Duy Phung, Maksym Zhuravinskyi, Reshinth Adithyan, James Baicoianu, Ben Brooks, Nathan Cooper, Ashish Datta, Meng Lee, Emad Mostaque, Michael Pieler, Nikhil Pinnaparju, Paulo Rocha, Harry Saini, Hannah Teufel, Niccolo Zanichelli, Carlos Riquelme
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2402-17834/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-17834/citation.csl.json
 
 ## Recorded arXiv snapshot
 

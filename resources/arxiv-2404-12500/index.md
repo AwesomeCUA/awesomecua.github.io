@@ -16,9 +16,16 @@ Bibliographic record for UIClip: A Data-driven Model for Assessing User Interfac
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-12500/record.json
+
 ## Authors
 
 Jason Wu, Yi-Hao Peng, Amanda Li, Amanda Swearngin, Jeffrey P. Bigham, Jeffrey Nichols
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-12500/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-12500/citation.csl.json
 
 ## Recorded arXiv snapshot
 

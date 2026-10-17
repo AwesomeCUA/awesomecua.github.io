@@ -16,9 +16,16 @@ Prompt2Task converts textual goals or procedures into smartphone UI automation u
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-02475/record.json
+
 ## Authors
 
 Tian Huang, Chun Yu, Weinan Shi, Zijian Peng, David Yang, Weiqi Sun, Yuanchun Shi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-02475/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-02475/citation.csl.json
 
 ## Recorded arXiv snapshot
 

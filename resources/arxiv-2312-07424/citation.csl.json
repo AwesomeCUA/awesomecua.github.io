@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2312.07424",
+  "citation-key": "arxiv_2312_07424",
+  "type": "article",
+  "title": "How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation",
+  "URL": "https://arxiv.org/abs/2312.07424v3",
+  "custom": {
+    "catalog_id": "arxiv:2312.07424",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2312.07424",
+    "identifiers": {
+      "arxiv": "2312.07424"
+    },
+    "first_published_at": "2023-12-12",
+    "record_updated_at": "2024-02-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1c126a68b4c5e2248289fce10b3c33bd2b0a56cc42c629546b51cd99b8f34e03",
+      "submitted_at": "2023-12-12T16:48:07Z",
+      "updated_at": "2024-02-25T08:10:18Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2312.07424v3"
+    }
+  },
+  "note": "First published: 2023-12-12; Recorded arXiv version: v3; Recorded version updated: 2024-02-25T08:10:18Z.",
+  "author": [
+    {
+      "literal": "Zhongyi Han"
+    },
+    {
+      "literal": "Guanglin Zhou"
+    },
+    {
+      "literal": "Rundong He"
+    },
+    {
+      "literal": "Jindong Wang"
+    },
+    {
+      "literal": "Tailin Wu"
+    },
+    {
+      "literal": "Yilong Yin"
+    },
+    {
+      "literal": "Salman Khan"
+    },
+    {
+      "literal": "Lina Yao"
+    },
+    {
+      "literal": "Tongliang Liu"
+    },
+    {
+      "literal": "Kun Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2312.07424",
+  "genre": "preprint",
+  "version": "3"
+}

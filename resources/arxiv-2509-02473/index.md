@@ -16,9 +16,16 @@ Bibliographic record for FDABench: A Benchmark for Data Agents on Analytical Que
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-02473/record.json
+
 ## Authors
 
 Ziting Wang, Shize Zhang, Haitao Yuan, Jinwei Zhu, Wei Dong, Gao Cong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-02473/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-02473/citation.csl.json
 
 ## Recorded arXiv snapshot
 

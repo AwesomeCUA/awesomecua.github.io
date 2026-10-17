@@ -16,9 +16,16 @@ Bibliographic record for Agentic Reward Modeling: Verifying GUI Agent via Progre
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-00575/record.json
+
 ## Authors
 
 Chaoqun Cui, Jing Huang, Shijing Wang, Liming Zheng, Qingchao Kong, Zhixiong Zeng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-00575/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-00575/citation.csl.json
 
 ## Recorded arXiv snapshot
 

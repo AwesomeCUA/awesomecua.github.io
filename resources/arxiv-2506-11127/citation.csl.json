@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2506.11127",
+  "citation-key": "arxiv_2506_11127",
+  "type": "article",
+  "title": "UITron-Speech: Towards Automated GUI Agents Based on Speech Instructions",
+  "URL": "https://arxiv.org/abs/2506.11127v3",
+  "custom": {
+    "catalog_id": "arxiv:2506.11127",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2506.11127",
+    "identifiers": {
+      "arxiv": "2506.11127"
+    },
+    "first_published_at": "2025-06-10",
+    "record_updated_at": "2025-11-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3cce7c2e1623ec841e8afed03c2e8e0c6f969f3dd05d53ddc4ef11e74310c21c",
+      "submitted_at": "2025-06-10T12:16:27Z",
+      "updated_at": "2025-11-26T07:48:14Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2506.11127v3"
+    }
+  },
+  "note": "First published: 2025-06-10; Recorded arXiv version: v3; Recorded version updated: 2025-11-26T07:48:14Z.",
+  "author": [
+    {
+      "literal": "Wenkang Han"
+    },
+    {
+      "literal": "Zhixiong Zeng"
+    },
+    {
+      "literal": "Jing Huang"
+    },
+    {
+      "literal": "Shu Jiang"
+    },
+    {
+      "literal": "Liming Zheng"
+    },
+    {
+      "literal": "Longrong Yang"
+    },
+    {
+      "literal": "Haibo Qiu"
+    },
+    {
+      "literal": "Chang Yao"
+    },
+    {
+      "literal": "Jingyuan Chen"
+    },
+    {
+      "literal": "Lin Ma"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.11127",
+  "genre": "preprint",
+  "version": "3"
+}

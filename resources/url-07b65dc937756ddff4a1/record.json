@@ -1,0 +1,117 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "dataset_profile": {
+      "counts": [
+        {
+          "basis": "reported",
+          "evidence_url": "https://raw.githubusercontent.com/AriaUI/Aria-UI/HEAD/README.md",
+          "population": "context-aware episode training release",
+          "qualifier": "approximately",
+          "unit": "instruction-output pairs",
+          "value": 992000
+        }
+      ],
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/AriaUI/Aria-UI/HEAD/README.md"
+      ],
+      "formats": [],
+      "modalities": [
+        "screen observations",
+        "instructions",
+        "interaction history"
+      ],
+      "notes": "The Hub card contains only licensing metadata. The project README supports the episode-training description and rounded count; archive-level quality and exact row counts remain unverified.",
+      "splits": [],
+      "supervision": [
+        "context-aware grounding"
+      ]
+    },
+    "disabled": false,
+    "download_url": "https://huggingface.co/datasets/Aria-UI/Aria-UI_Context-aware_Data/tree/main",
+    "gated": false,
+    "hub_id": "Aria-UI/Aria-UI_Context-aware_Data",
+    "languages": [],
+    "modalities": [],
+    "sample_count": null,
+    "sample_unit": null,
+    "size_category_reported": null
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T11:11:53Z",
+      "role": "primary",
+      "sha256": "79f91aab71bb8a0ec3ad9859cbc42d70227e01db729ec80dc5690b466b259cad",
+      "supports": [
+        "name",
+        "kind"
+      ],
+      "url": "https://huggingface.co/api/datasets/Aria-UI/Aria-UI_Context-aware_Data"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:00Z",
+      "role": "primary",
+      "sha256": "a2a3c5ad115e4e2109b56686c9e0b073bcfec6d9f052a58bc92683af44933480",
+      "supports": [
+        "name",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "details.dataset_profile"
+      ],
+      "url": "https://raw.githubusercontent.com/AriaUI/Aria-UI/HEAD/README.md"
+    },
+    {
+      "method": "huggingface_api",
+      "retrieved_at": "2026-10-16T11:11:53Z",
+      "role": "primary",
+      "sha256": "79f91aab71bb8a0ec3ad9859cbc42d70227e01db729ec80dc5690b466b259cad",
+      "supports": [
+        "details",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/api/datasets/Aria-UI/Aria-UI_Context-aware_Data"
+    }
+  ],
+  "id": "url:07b65dc937756ddff4a1",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-16T11:11:53Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "publisher model/dataset card",
+      "declared": "apache-2.0",
+      "retrieved_at": "2026-10-16T11:11:53Z",
+      "url": "https://huggingface.co/datasets/Aria-UI/Aria-UI_Context-aware_Data"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/Aria-UI/Aria-UI_Context-aware_Data"
+    }
+  ],
+  "name": "Aria-UI Context-aware Data",
+  "notes": "The publisher reports approximately 992K instruction-output pairs in its repository. The Hub card contains only a license declaration; schema quality and exact sample counts were not independently verified.",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Episode-based mobile GUI grounding data released with Aria-UI for incorporating interaction history into target localization.",
+  "topics": [
+    "grounding",
+    "memory"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/Aria-UI/Aria-UI_Context-aware_Data"
+}

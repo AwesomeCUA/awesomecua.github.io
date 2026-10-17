@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2501.11425",
+  "citation-key": "arxiv_2501_11425",
+  "type": "article",
+  "title": "Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training",
+  "URL": "https://arxiv.org/abs/2501.11425v3",
+  "custom": {
+    "catalog_id": "arxiv:2501.11425",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2501.11425",
+    "identifiers": {
+      "arxiv": "2501.11425"
+    },
+    "first_published_at": "2025-01-20",
+    "record_updated_at": "2025-03-24",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "692a6984b464367c99beb9c5fbd4bbd8378e79f4a4b749503c8fbb72dd80b16f",
+      "submitted_at": "2025-01-20T11:46:04Z",
+      "updated_at": "2025-03-24T10:18:56Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2501.11425v3"
+    }
+  },
+  "note": "First published: 2025-01-20; Recorded arXiv version: v3; Recorded version updated: 2025-03-24T10:18:56Z.",
+  "author": [
+    {
+      "literal": "Siyu Yuan"
+    },
+    {
+      "literal": "Zehui Chen"
+    },
+    {
+      "literal": "Zhiheng Xi"
+    },
+    {
+      "literal": "Junjie Ye"
+    },
+    {
+      "literal": "Zhengyin Du"
+    },
+    {
+      "literal": "Jiecao Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2501.11425",
+  "genre": "preprint",
+  "version": "3"
+}

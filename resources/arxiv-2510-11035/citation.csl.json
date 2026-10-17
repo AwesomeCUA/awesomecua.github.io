@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2510.11035",
+  "citation-key": "arxiv_2510_11035",
+  "type": "article",
+  "title": "SusBench: An Online Benchmark for Evaluating Dark Pattern Susceptibility of Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2510.11035v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.11035",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.11035",
+    "identifiers": {
+      "arxiv": "2510.11035"
+    },
+    "first_published_at": "2025-10-13",
+    "record_updated_at": "2026-02-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e6152a61f81c435e76a432bc10086827c0cf0d2f44026bac03d6b80ebae8ca77",
+      "submitted_at": "2025-10-13T06:12:03Z",
+      "updated_at": "2026-02-23T08:31:13Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.11035v2"
+    }
+  },
+  "note": "First published: 2025-10-13; Recorded arXiv version: v2; Recorded version updated: 2026-02-23T08:31:13Z.",
+  "author": [
+    {
+      "literal": "Longjie Guo"
+    },
+    {
+      "literal": "Chenjie Yuan"
+    },
+    {
+      "literal": "Mingyuan Zhong"
+    },
+    {
+      "literal": "Robert Wolfe"
+    },
+    {
+      "literal": "Ruican Zhong"
+    },
+    {
+      "literal": "Yue Xu"
+    },
+    {
+      "literal": "Bingbing Wen"
+    },
+    {
+      "literal": "Hua Shen"
+    },
+    {
+      "literal": "Lucy Lu Wang"
+    },
+    {
+      "literal": "Alexis Hiniker"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.11035",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,6 +16,8 @@ The released local-supervision portion of GUIEnv, pairing webpage regions and te
 
 Public JSON annotations and Parquet image packages are present. The project README declares CC-BY-4.0 for datasets, while this Hub card declares Apache-2.0; these conflicting declarations are retained without asserting a single confirmed data license. The project code’s MIT declaration is separate. Only GUIEnv-local is marked released; the advertised 10M-example GUIEnv-global pretraining collection is still unchecked and is not counted here.
 
+- Record JSON: https://awesomecua.github.io/resources/url-0af07e00658a430cee6a/record.json
+
 ## Structured profile
 
 - formats: JSON, Parquet

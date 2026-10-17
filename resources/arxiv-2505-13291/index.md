@@ -16,9 +16,16 @@ Bibliographic record for TimeSeriesGym: A Scalable Benchmark for (Time Series) M
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-13291/record.json
+
 ## Authors
 
 Yifu Cai, Xinyu Li, Mononito Goswami, Michał Wiliński, Gus Welter, Artur Dubrawski
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-13291/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-13291/citation.csl.json
 
 ## Recorded arXiv snapshot
 

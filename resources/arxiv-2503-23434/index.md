@@ -16,9 +16,16 @@ Survey of research directions in GUI or computer-use agents.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2503-23434/record.json
+
 ## Authors
 
 Yucheng Shi, Wenhao Yu, Jingyuan Huang, Wenlin Yao, Wenhu Chen, Ninghao Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2503-23434/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2503-23434/citation.csl.json
 
 ## Recorded arXiv snapshot
 

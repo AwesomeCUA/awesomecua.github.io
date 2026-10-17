@@ -16,9 +16,16 @@ Bibliographic record for Do MLLMs Capture How Interfaces Guide User Behavior? A 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-05026/record.json
+
 ## Authors
 
 Jaehyun Jeon, Min Soo Kim, Jang Han Yoon, Sumin Shim, Yejin Choi, Hanbin Kim, Dae Hyun Kim, Youngjae Yu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-05026/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-05026/citation.csl.json
 
 ## Recorded arXiv snapshot
 

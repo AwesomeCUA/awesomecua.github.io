@@ -16,9 +16,16 @@ Bibliographic record for Learning from Failure: Inference-Time Self-Improvement 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-31270/record.json
+
 ## Authors
 
 Xueqiao Sun, Xiaohan Wang, Ludwig Schmidt, Serena Yeung-Levy, Yuhui Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-31270/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-31270/citation.csl.json
 
 ## Recorded arXiv snapshot
 

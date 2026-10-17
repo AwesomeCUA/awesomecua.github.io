@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2610.15765",
+  "citation-key": "arxiv_2610_15765",
+  "type": "article",
+  "title": "A Decade in a Day: Synthesizing Agent-Native Interfaces from Human-Oriented Software Evolution",
+  "URL": "https://arxiv.org/abs/2610.15765v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.15765",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.15765",
+    "identifiers": {
+      "arxiv": "2610.15765"
+    },
+    "first_published_at": "2026-10-11",
+    "record_updated_at": "2026-10-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0ef6fd8890648ae958340325edd3604fb78aa82510145169eb85f76c322b76d6",
+      "submitted_at": "2026-10-11T16:43:43Z",
+      "updated_at": "2026-10-11T16:43:43Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.15765v1"
+    }
+  },
+  "note": "First published: 2026-10-11; Recorded arXiv version: v1; Recorded version updated: 2026-10-11T16:43:43Z.",
+  "author": [
+    {
+      "literal": "Alan Wu"
+    },
+    {
+      "literal": "Wei Tao"
+    },
+    {
+      "literal": "Yiwen Guo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.15765",
+  "genre": "preprint",
+  "version": "1"
+}

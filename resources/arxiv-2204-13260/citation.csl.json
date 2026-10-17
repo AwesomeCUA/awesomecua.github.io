@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2204.13260",
+  "citation-key": "arxiv_2204_13260",
+  "type": "article",
+  "title": "Pattern recognition with neuromorphic computing using magnetic-field induced dynamics of skyrmions",
+  "URL": "https://arxiv.org/abs/2204.13260v1",
+  "custom": {
+    "catalog_id": "arxiv:2204.13260",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2204.13260",
+    "identifiers": {
+      "arxiv": "2204.13260"
+    },
+    "first_published_at": "2022-04-28",
+    "record_updated_at": "2022-04-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1dab800d473a203a5ec3f6f3912aacece4c7801a547b24de9fc6e64dfcc7b5f1",
+      "submitted_at": "2022-04-28T02:45:42Z",
+      "updated_at": "2022-04-28T02:45:42Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2204.13260v1"
+    }
+  },
+  "note": "First published: 2022-04-28; Recorded arXiv version: v1; Recorded version updated: 2022-04-28T02:45:42Z.",
+  "author": [
+    {
+      "literal": "Tomoyuki Yokouchi"
+    },
+    {
+      "literal": "Satoshi Sugimoto"
+    },
+    {
+      "literal": "Bivas Rana"
+    },
+    {
+      "literal": "Shinichiro Seki"
+    },
+    {
+      "literal": "Naoki Ogawa"
+    },
+    {
+      "literal": "Yuki Shiomi"
+    },
+    {
+      "literal": "Shinya Kasai"
+    },
+    {
+      "literal": "Yoshichika Otani"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        4,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2204.13260",
+  "genre": "preprint",
+  "version": "1"
+}

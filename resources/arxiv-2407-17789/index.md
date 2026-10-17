@@ -16,9 +16,16 @@ Bibliographic record for Very Large-Scale Multi-Agent Simulation in AgentScope. 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2407-17789/record.json
+
 ## Authors
 
 Xuchen Pan, Dawei Gao, Yuexiang Xie, Yushuo Chen, Zhewei Wei, Yaliang Li, Bolin Ding, Ji-Rong Wen, Jingren Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2407-17789/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2407-17789/citation.csl.json
 
 ## Recorded arXiv snapshot
 

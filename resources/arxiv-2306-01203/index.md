@@ -16,9 +16,16 @@ Bibliographic record for Topo-Geometrically Distinct Path Computation using Neig
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2306-01203/record.json
+
 ## Authors
 
 Alp Sahin, Subhrajit Bhattacharya
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2306-01203/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2306-01203/citation.csl.json
 
 ## Recorded arXiv snapshot
 

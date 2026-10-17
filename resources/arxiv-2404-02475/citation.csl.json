@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2404.02475",
+  "citation-key": "arxiv_2404_02475",
+  "type": "article",
+  "title": "Prompt2Task: Automating UI Tasks on Smartphones from Textual Prompts",
+  "URL": "https://arxiv.org/abs/2404.02475v2",
+  "custom": {
+    "catalog_id": "arxiv:2404.02475",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2404.02475",
+    "identifiers": {
+      "arxiv": "2404.02475"
+    },
+    "first_published_at": "2024-04-03",
+    "record_updated_at": "2025-03-18",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6b2f357e166bddc2bbb5db4ec102721fc12fd27ba45d953193be0354fa5c7bce",
+      "submitted_at": "2024-04-03T05:32:05Z",
+      "updated_at": "2025-03-18T09:59:25Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2404.02475v2"
+    }
+  },
+  "note": "First published: 2024-04-03; Recorded arXiv version: v2; Recorded version updated: 2025-03-18T09:59:25Z.",
+  "author": [
+    {
+      "literal": "Tian Huang"
+    },
+    {
+      "literal": "Chun Yu"
+    },
+    {
+      "literal": "Weinan Shi"
+    },
+    {
+      "literal": "Zijian Peng"
+    },
+    {
+      "literal": "David Yang"
+    },
+    {
+      "literal": "Weiqi Sun"
+    },
+    {
+      "literal": "Yuanchun Shi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.02475",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Benchmarking and Improving GUI Agents in High-Dynamic E
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-25380/record.json
+
 ## Authors
 
 Enqi Liu, Liyuan Pan, Zhi Gao, Yan Yang, Chenrui Shi, Yang Liu, Jingrong Wu, Qing Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-25380/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-25380/citation.csl.json
 
 ## Recorded arXiv snapshot
 

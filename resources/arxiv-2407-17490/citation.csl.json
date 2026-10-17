@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2407.17490",
+  "citation-key": "arxiv_2407_17490",
+  "type": "article",
+  "title": "AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents",
+  "URL": "https://arxiv.org/abs/2407.17490v2",
+  "custom": {
+    "catalog_id": "arxiv:2407.17490",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2407.17490",
+    "identifiers": {
+      "arxiv": "2407.17490"
+    },
+    "first_published_at": "2024-07-03",
+    "record_updated_at": "2025-05-29",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9c80665716bf665fe4688a27a4c7dcf26fcfe93cb7f79a6f28784a795e0bd3cb",
+      "submitted_at": "2024-07-03T17:59:58Z",
+      "updated_at": "2025-05-29T02:43:50Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2407.17490v2"
+    }
+  },
+  "note": "First published: 2024-07-03; Recorded arXiv version: v2; Recorded version updated: 2025-05-29T02:43:50Z.",
+  "author": [
+    {
+      "literal": "Yuxiang Chai"
+    },
+    {
+      "literal": "Siyuan Huang"
+    },
+    {
+      "literal": "Yazhe Niu"
+    },
+    {
+      "literal": "Han Xiao"
+    },
+    {
+      "literal": "Liang Liu"
+    },
+    {
+      "literal": "Dingyu Zhang"
+    },
+    {
+      "literal": "Shuai Ren"
+    },
+    {
+      "literal": "Hongsheng Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.17490",
+  "genre": "preprint",
+  "version": "2"
+}

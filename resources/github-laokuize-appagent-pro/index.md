@@ -16,6 +16,8 @@ Extended mobile app agent implementation.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-laokuize-appagent-pro/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/LaoKuiZe/AppAgent-Pro/HEAD/LICENSE

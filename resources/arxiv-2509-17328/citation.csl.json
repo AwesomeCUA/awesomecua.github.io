@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2509.17328",
+  "citation-key": "arxiv_2509_17328",
+  "type": "article",
+  "title": "UIPro: Unleashing Superior Interaction Capability For GUI Agents",
+  "URL": "https://arxiv.org/abs/2509.17328v1",
+  "custom": {
+    "catalog_id": "arxiv:2509.17328",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2509.17328",
+    "identifiers": {
+      "arxiv": "2509.17328"
+    },
+    "first_published_at": "2025-09-22",
+    "record_updated_at": "2025-09-22",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "97b7c0690ba7deb7dbbdac6ac94dd82e3864c440cb4325bf143ad735919bb08b",
+      "submitted_at": "2025-09-22T03:04:53Z",
+      "updated_at": "2025-09-22T03:04:53Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2509.17328v1"
+    }
+  },
+  "note": "First published: 2025-09-22; Recorded arXiv version: v1; Recorded version updated: 2025-09-22T03:04:53Z.",
+  "author": [
+    {
+      "literal": "Hongxin Li"
+    },
+    {
+      "literal": "Jingran Su"
+    },
+    {
+      "literal": "Jingfan Chen"
+    },
+    {
+      "literal": "Zheng Ju"
+    },
+    {
+      "literal": "Yuntao Chen"
+    },
+    {
+      "literal": "Qing Li"
+    },
+    {
+      "literal": "Zhaoxiang Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.17328",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ Bibliographic record for Benchmark Everything Everywhere All at Once. Title, aut
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-06462/record.json
+
 ## Authors
 
 Shiyun Xiong, Dongming Wu, Peiwen Sun, Yuang Ai, Bokang Yang, Wencheng Han, Xiao-Hui Li, Xiangyu Yue
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-06462/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-06462/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2403.17918",
+  "citation-key": "arxiv_2403_17918",
+  "type": "article",
+  "title": "AgentStudio: A Toolkit for Building General Virtual Agents",
+  "URL": "https://arxiv.org/abs/2403.17918v3",
+  "custom": {
+    "catalog_id": "arxiv:2403.17918",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2403.17918",
+    "identifiers": {
+      "arxiv": "2403.17918"
+    },
+    "first_published_at": "2024-03-26",
+    "record_updated_at": "2025-02-14",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fe1432b46c15566182418bf3fa2f918607e8b0e9a383459416d03e28dc7e347c",
+      "submitted_at": "2024-03-26T17:54:15Z",
+      "updated_at": "2025-02-14T08:13:39Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2403.17918v3"
+    }
+  },
+  "note": "First published: 2024-03-26; Recorded arXiv version: v3; Recorded version updated: 2025-02-14T08:13:39Z.",
+  "author": [
+    {
+      "literal": "Longtao Zheng"
+    },
+    {
+      "literal": "Zhiyuan Huang"
+    },
+    {
+      "literal": "Zhenghai Xue"
+    },
+    {
+      "literal": "Xinrun Wang"
+    },
+    {
+      "literal": "Bo An"
+    },
+    {
+      "literal": "Shuicheng Yan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.17918",
+  "genre": "preprint",
+  "version": "3"
+}

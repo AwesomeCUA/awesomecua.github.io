@@ -16,6 +16,8 @@ Visual agent evaluation on data-science and engineering workflows.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-xlang-ai-spider2-v/record.json
+
 ## Structured profile
 
 - actions: PyAutoGUI mouse and keyboard actions

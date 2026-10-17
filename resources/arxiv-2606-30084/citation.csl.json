@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2606.30084",
+  "citation-key": "arxiv_2606_30084",
+  "type": "article",
+  "title": "One Forward Beats Two: InnerZoom for Accurate and Efficient GUI Grounding",
+  "URL": "https://arxiv.org/abs/2606.30084v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.30084",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.30084",
+    "identifiers": {
+      "arxiv": "2606.30084"
+    },
+    "first_published_at": "2026-06-29",
+    "record_updated_at": "2026-06-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "50e44e08750d4152f9b5408885f8a6a016c5f789af9712e447ee147fb25adb8d",
+      "submitted_at": "2026-06-29T10:20:39Z",
+      "updated_at": "2026-06-29T10:20:39Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.30084v1"
+    }
+  },
+  "note": "First published: 2026-06-29; Recorded arXiv version: v1; Recorded version updated: 2026-06-29T10:20:39Z.",
+  "author": [
+    {
+      "literal": "Chen Liu"
+    },
+    {
+      "literal": "Ling Chen"
+    },
+    {
+      "literal": "Hanzhang Zhou"
+    },
+    {
+      "literal": "Liangyu Chen"
+    },
+    {
+      "literal": "Chenglin Cai"
+    },
+    {
+      "literal": "Xin Yu"
+    },
+    {
+      "literal": "Steven Hoi"
+    },
+    {
+      "literal": "Yue Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.30084",
+  "genre": "preprint",
+  "version": "1"
+}

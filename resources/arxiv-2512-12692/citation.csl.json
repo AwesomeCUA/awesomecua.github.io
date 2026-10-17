@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2512.12692",
+  "citation-key": "arxiv_2512_12692",
+  "type": "article",
+  "title": "WebOperator: Action-Aware Tree Search for Autonomous Agents in Web Environment",
+  "URL": "https://arxiv.org/abs/2512.12692v1",
+  "custom": {
+    "catalog_id": "arxiv:2512.12692",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2512.12692",
+    "identifiers": {
+      "arxiv": "2512.12692"
+    },
+    "first_published_at": "2025-12-14",
+    "record_updated_at": "2025-12-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "44caacf6646fdbc53e36b4aef93c583e8fae6589109b525816fa12e30ba0b6e3",
+      "submitted_at": "2025-12-14T13:56:54Z",
+      "updated_at": "2025-12-14T13:56:54Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2512.12692v1"
+    }
+  },
+  "note": "First published: 2025-12-14; Recorded arXiv version: v1; Recorded version updated: 2025-12-14T13:56:54Z.",
+  "author": [
+    {
+      "literal": "Mahir Labib Dihan"
+    },
+    {
+      "literal": "Tanzima Hashem"
+    },
+    {
+      "literal": "Mohammed Eunus Ali"
+    },
+    {
+      "literal": "Md Rizwan Parvez"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2512.12692",
+  "genre": "preprint",
+  "version": "1"
+}

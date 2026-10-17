@@ -16,6 +16,8 @@ Modular web-agent framework with browser control, planning, workflow memory, and
 
 The repository is maintained by the PathOnAI.org research community; its README explicitly disclaims affiliation with a for-profit company.
 
+- Record JSON: https://awesomecua.github.io/resources/github-pathonaiorg-litewebagent/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/PathOnAIOrg/LiteWebAgent/HEAD/LICENSE

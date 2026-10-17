@@ -16,6 +16,8 @@ SDK for agent environments, evaluation, and training.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-hud-evals-hud-python/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/hud-evals/hud-python/HEAD/LICENSE

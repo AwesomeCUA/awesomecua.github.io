@@ -16,9 +16,16 @@ Bibliographic record for Spotlight: Mobile UI Understanding using Vision-Languag
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2209-14927/record.json
+
 ## Authors
 
 Gang Li, Yang Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2209-14927/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2209-14927/citation.csl.json
 
 ## Recorded arXiv snapshot
 

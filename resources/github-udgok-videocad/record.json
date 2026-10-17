@@ -1,0 +1,82 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:45Z",
+      "role": "primary",
+      "sha256": "6c182da7783e740539ce49d91794d299f2ca477a5b0d946bce48649b8fa2e49c",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/UDGOK/videocad/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:45Z",
+      "role": "primary",
+      "sha256": "badf3a19e51a2a8bdf7a565b9fb6921d8caada051931bdfaf0453b0634d9c4de",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/UDGOK/videocad"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:05:40Z",
+      "role": "primary",
+      "sha256": "55b59b0642a8c28cda6c12e35ba4fcc39c0ba28ab5c846f58262746f32a9601d",
+      "supports": [
+        "release_status"
+      ],
+      "url": "https://api.github.com/repos/UDGOK/videocad/git/trees/main?recursive=1"
+    }
+  ],
+  "id": "github:udgok/videocad",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-17T02:02:45Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/UDGOK/videocad"
+    }
+  ],
+  "name": "VideoCAD training and evaluation code",
+  "notes": "Model, data-loader, preprocessing and evaluation source files are released. The reviewed root metadata has no code-license declaration. The README links a checkpoint on Google Drive, but that binary was not fetched or counted as a separate verified model. The source describes CAD software without naming a supported operating system.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/UDGOK/videocad/HEAD/README.md",
+      "target_id": "arxiv:2505.24838",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "VideoCADFormer training, action-log preprocessing and evaluation code for learning long sequences of CAD interface operations from screen recordings.",
+  "topics": [
+    "grounding",
+    "imitation-learning",
+    "evaluation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/UDGOK/videocad"
+}

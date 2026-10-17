@@ -16,6 +16,8 @@ Dataset and benchmark for generating computer interaction programs.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-849a86beaee006c6b147/record.json
+
 ## License declarations
 
 - code: not recorded

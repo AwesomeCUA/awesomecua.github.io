@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2503.02682",
+  "citation-key": "arxiv_2503_02682",
+  "type": "article",
+  "title": "MPO: Boosting LLM Agents with Meta Plan Optimization",
+  "URL": "https://arxiv.org/abs/2503.02682v2",
+  "custom": {
+    "catalog_id": "arxiv:2503.02682",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2503.02682",
+    "identifiers": {
+      "arxiv": "2503.02682"
+    },
+    "first_published_at": "2025-03-04",
+    "record_updated_at": "2025-09-10",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3395107d8c7db3562bf75a3c22fee55d3da0564bd2f413491bc0d381fc601323",
+      "submitted_at": "2025-03-04T14:54:45Z",
+      "updated_at": "2025-09-10T16:45:42Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2503.02682v2"
+    }
+  },
+  "note": "First published: 2025-03-04; Recorded arXiv version: v2; Recorded version updated: 2025-09-10T16:45:42Z.",
+  "author": [
+    {
+      "literal": "Weimin Xiong"
+    },
+    {
+      "literal": "Yifan Song"
+    },
+    {
+      "literal": "Qingxiu Dong"
+    },
+    {
+      "literal": "Bingchan Zhao"
+    },
+    {
+      "literal": "Feifan Song"
+    },
+    {
+      "literal": "Xun Wang"
+    },
+    {
+      "literal": "Sujian Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.02682",
+  "genre": "preprint",
+  "version": "2"
+}

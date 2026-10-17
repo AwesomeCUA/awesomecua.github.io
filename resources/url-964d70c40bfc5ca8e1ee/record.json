@@ -1,0 +1,129 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "dataset_profile": {
+      "counts": [
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/xlangai/AgentNet/raw/main/README.md",
+          "population": "AgentNet collection",
+          "qualifier": "approximately",
+          "unit": "tasks",
+          "value": 22600
+        }
+      ],
+      "evidence_urls": [
+        "https://huggingface.co/datasets/xlangai/AgentNet/raw/main/README.md"
+      ],
+      "formats": [
+        "JSONL",
+        "image archives"
+      ],
+      "modalities": [
+        "screenshots",
+        "instructions",
+        "actions",
+        "generated reasoning"
+      ],
+      "notes": "The card distinguishes human task instructions from generated summaries, reasoning, reflections, and quality fields. Generated labels are not independent human quality acceptance records.",
+      "splits": [],
+      "supervision": [
+        "computer-use trajectories",
+        "synthesized reasoning"
+      ]
+    },
+    "disabled": false,
+    "download_url": "https://huggingface.co/datasets/xlangai/AgentNet/tree/main",
+    "gated": false,
+    "hub_id": "xlangai/AgentNet",
+    "languages": [
+      "en"
+    ],
+    "modalities": [],
+    "sample_count": null,
+    "sample_unit": null,
+    "size_category_reported": null
+  },
+  "environments": [
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:38:26Z",
+      "role": "primary",
+      "sha256": "f23c588ea9fb27210f9d605e164a32527a24298ca516df98272ff7ca7110eac6",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://huggingface.co/api/datasets/xlangai/AgentNet"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T11:40:46Z",
+      "role": "primary",
+      "sha256": "327a77856df259db0a0c2405478f75a0d0f2bf17c51806abc7c509ad82c3ad57",
+      "supports": [
+        "details.dataset_profile"
+      ],
+      "url": "https://huggingface.co/datasets/xlangai/AgentNet/raw/main/README.md"
+    },
+    {
+      "method": "huggingface_api",
+      "retrieved_at": "2026-10-16T06:38:26Z",
+      "role": "primary",
+      "sha256": "f23c588ea9fb27210f9d605e164a32527a24298ca516df98272ff7ca7110eac6",
+      "supports": [
+        "details",
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/api/datasets/xlangai/AgentNet"
+    }
+  ],
+  "id": "url:964d70c40bfc5ca8e1ee",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-16T06:38:26Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "publisher model/dataset card",
+      "declared": "mit",
+      "retrieved_at": "2026-10-16T06:38:26Z",
+      "url": "https://huggingface.co/datasets/xlangai/AgentNet"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/xlangai/AgentNet"
+    }
+  ],
+  "name": "AgentNet",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/api/datasets/xlangai/AgentNet",
+      "target_id": "arxiv:2508.09123",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Computer-use demonstrations released with OpenCUA.",
+  "topics": [
+    "data-generation"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/xlangai/AgentNet"
+}

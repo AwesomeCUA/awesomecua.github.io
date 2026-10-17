@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2509.00969",
+  "citation-key": "arxiv_2509_00969",
+  "type": "article",
+  "title": "Seeing More, Saying More: Lightweight Language Experts are Dynamic Video Token Compressors",
+  "URL": "https://arxiv.org/abs/2509.00969v2",
+  "custom": {
+    "catalog_id": "arxiv:2509.00969",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.00969",
+    "identifiers": {
+      "arxiv": "2509.00969"
+    },
+    "first_published_at": "2025-08-31",
+    "record_updated_at": "2025-09-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fd30ee49237f62279edcb68be47768adad40a88f653674d5046069dd9096022b",
+      "submitted_at": "2025-08-31T19:27:29Z",
+      "updated_at": "2025-09-09T03:59:05Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2509.00969v2"
+    }
+  },
+  "note": "First published: 2025-08-31; Recorded arXiv version: v2; Recorded version updated: 2025-09-09T03:59:05Z.",
+  "author": [
+    {
+      "literal": "Xiangchen Wang"
+    },
+    {
+      "literal": "Jinrui Zhang"
+    },
+    {
+      "literal": "Teng Wang"
+    },
+    {
+      "literal": "Haigang Zhang"
+    },
+    {
+      "literal": "Feng Zheng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.00969",
+  "genre": "preprint",
+  "version": "2"
+}

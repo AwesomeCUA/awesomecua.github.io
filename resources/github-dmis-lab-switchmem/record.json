@@ -1,0 +1,71 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T01:46:05Z",
+      "role": "primary",
+      "sha256": "3fb5aabfb07df620955f0b74347f9d5926a1cd3d506b1098eccba9477627269f",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/dmis-lab/SwitchMem/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T01:48:10Z",
+      "role": "primary",
+      "sha256": "cec8e4679c883f13983915e9f77d175a84a234d69386e78f9ea75157cefbdcb4",
+      "supports": [
+        "relations"
+      ],
+      "url": "https://txxnrd.github.io/switchmem/"
+    }
+  ],
+  "id": "github:dmis-lab/switchmem",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-17T01:46:05Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/dmis-lab/SwitchMem"
+    }
+  ],
+  "name": "SwitchMem",
+  "notes": "The implementation distinguishes step-level AITW/LearnGUI scores from terminal task success on MobileMiniWoB++. Benchmark outcomes and local smoke-test outputs are different claims; neither was independently reproduced here.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://txxnrd.github.io/switchmem/",
+      "target_id": "arxiv:2610.17928",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Memory-routing implementation that chooses text or image demonstrations for a frozen GUI actor, with offline evaluation and Android transfer experiments.",
+  "topics": [
+    "memory",
+    "mobile-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/dmis-lab/SwitchMem"
+}

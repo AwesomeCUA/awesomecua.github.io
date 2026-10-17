@@ -16,9 +16,16 @@ Bibliographic record for DragOn: A Benchmark and Dataset for Drag-Based GUI Inte
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-06322/record.json
+
 ## Authors
 
 Nathan Bout, Maxime Langevin, Ronan Riochet
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-06322/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-06322/citation.csl.json
 
 ## Recorded arXiv snapshot
 

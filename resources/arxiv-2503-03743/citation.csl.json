@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2503.03743",
+  "citation-key": "arxiv_2503_03743",
+  "type": "article",
+  "title": "CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning",
+  "URL": "https://arxiv.org/abs/2503.03743v1",
+  "custom": {
+    "catalog_id": "arxiv:2503.03743",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2503.03743",
+    "identifiers": {
+      "arxiv": "2503.03743"
+    },
+    "first_published_at": "2025-03-05",
+    "record_updated_at": "2025-03-05",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "380d00c46e5dd221b7c481a68b4fbdc00826e64e4b70a98f06a56f8c12b8f5e4",
+      "submitted_at": "2025-03-05T18:56:16Z",
+      "updated_at": "2025-03-05T18:56:16Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2503.03743v1"
+    }
+  },
+  "note": "First published: 2025-03-05; Recorded arXiv version: v1; Recorded version updated: 2025-03-05T18:56:16Z.",
+  "author": [
+    {
+      "literal": "Yuqi Zhou"
+    },
+    {
+      "literal": "Shuai Wang"
+    },
+    {
+      "literal": "Sunhao Dai"
+    },
+    {
+      "literal": "Qinglin Jia"
+    },
+    {
+      "literal": "Zhaocheng Du"
+    },
+    {
+      "literal": "Zhenhua Dong"
+    },
+    {
+      "literal": "Jun Xu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2503.03743",
+  "genre": "preprint",
+  "version": "1"
+}

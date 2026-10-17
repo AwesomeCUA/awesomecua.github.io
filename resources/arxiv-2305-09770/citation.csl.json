@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2305.09770",
+  "citation-key": "arxiv_2305_09770",
+  "type": "article",
+  "title": "ConvXAI: Delivering Heterogeneous AI Explanations via Conversations to Support Human-AI Scientific Writing",
+  "URL": "https://arxiv.org/abs/2305.09770v6",
+  "custom": {
+    "catalog_id": "arxiv:2305.09770",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2305.09770",
+    "identifiers": {
+      "arxiv": "2305.09770"
+    },
+    "first_published_at": "2023-05-16",
+    "record_updated_at": "2023-10-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "025ca9d228de6d7513fe5fb4893b750b0bc05b5bd2ea3cad87228fb2884798c8",
+      "submitted_at": "2023-05-16T19:48:49Z",
+      "updated_at": "2023-10-27T16:08:32Z",
+      "version": 6,
+      "versioned_url": "https://arxiv.org/abs/2305.09770v6"
+    }
+  },
+  "note": "First published: 2023-05-16; Recorded arXiv version: v6; Recorded version updated: 2023-10-27T16:08:32Z.",
+  "author": [
+    {
+      "literal": "Hua Shen"
+    },
+    {
+      "literal": "Chieh-Yang Huang"
+    },
+    {
+      "literal": "Tongshuang Wu"
+    },
+    {
+      "literal": "Ting-Hao 'Kenneth' Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2305.09770",
+  "genre": "preprint",
+  "version": "6"
+}

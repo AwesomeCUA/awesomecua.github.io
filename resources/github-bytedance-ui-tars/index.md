@@ -16,6 +16,8 @@ Native GUI agent model family for perception and action.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-bytedance-ui-tars/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/bytedance/UI-TARS/HEAD/LICENSE

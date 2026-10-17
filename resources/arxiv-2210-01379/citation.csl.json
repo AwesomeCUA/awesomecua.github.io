@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2210.01379",
+  "citation-key": "arxiv_2210_01379",
+  "type": "article",
+  "title": "Extraneousness-Aware Imitation Learning",
+  "URL": "https://arxiv.org/abs/2210.01379v2",
+  "custom": {
+    "catalog_id": "arxiv:2210.01379",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2210.01379",
+    "identifiers": {
+      "arxiv": "2210.01379"
+    },
+    "first_published_at": "2022-10-04",
+    "record_updated_at": "2023-03-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "56ced20af8bc7eeb61c1fd5e373f63e5c536715066b3c81390aa1680f4c2de08",
+      "submitted_at": "2022-10-04T04:42:26Z",
+      "updated_at": "2023-03-01T08:01:44Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2210.01379v2"
+    }
+  },
+  "note": "First published: 2022-10-04; Recorded arXiv version: v2; Recorded version updated: 2023-03-01T08:01:44Z.",
+  "author": [
+    {
+      "literal": "Ray Chen Zheng"
+    },
+    {
+      "literal": "Kaizhe Hu"
+    },
+    {
+      "literal": "Zhecheng Yuan"
+    },
+    {
+      "literal": "Boyuan Chen"
+    },
+    {
+      "literal": "Huazhe Xu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        10,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2210.01379",
+  "genre": "preprint",
+  "version": "2"
+}

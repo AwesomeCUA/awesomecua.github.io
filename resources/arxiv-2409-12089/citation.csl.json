@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2409.12089",
+  "citation-key": "arxiv_2409_12089",
+  "type": "article",
+  "title": "The Impact of Element Ordering on LM Agent Performance",
+  "URL": "https://arxiv.org/abs/2409.12089v3",
+  "custom": {
+    "catalog_id": "arxiv:2409.12089",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2409.12089",
+    "identifiers": {
+      "arxiv": "2409.12089"
+    },
+    "first_published_at": "2024-09-18",
+    "record_updated_at": "2024-10-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a2f59976cec7adb9f9c88bd79bdfbeed040e4874b6d9ab0c229136f98101aa98",
+      "submitted_at": "2024-09-18T16:04:10Z",
+      "updated_at": "2024-10-06T21:25:34Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2409.12089v3"
+    }
+  },
+  "note": "First published: 2024-09-18; Recorded arXiv version: v3; Recorded version updated: 2024-10-06T21:25:34Z.",
+  "author": [
+    {
+      "literal": "Wayne Chi"
+    },
+    {
+      "literal": "Ameet Talwalkar"
+    },
+    {
+      "literal": "Chris Donahue"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2409.12089",
+  "genre": "preprint",
+  "version": "3"
+}

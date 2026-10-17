@@ -16,9 +16,16 @@ ViMo predicts the next mobile-app screenshot after a candidate action by separat
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2504-13936/record.json
+
 ## Authors
 
 Dezhao Luo, Bohan Tang, Kang Li, Georgios Papoudakis, Jifei Song, Shaogang Gong, Jianye Hao, Jun Wang, Kun Shao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2504-13936/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2504-13936/citation.csl.json
 
 ## Recorded arXiv snapshot
 

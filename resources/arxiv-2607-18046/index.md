@@ -16,9 +16,16 @@ Introduces SEE, which first explores mobile interfaces to build a screen-and-ele
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-18046/record.json
+
 ## Authors
 
 Zhuohang Fan, Beichen Zhang, Yuanfa Li, Changqiao Wu, Wei Liu, Jian Luan, Weigang Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-18046/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-18046/citation.csl.json
 
 ## Recorded arXiv snapshot
 

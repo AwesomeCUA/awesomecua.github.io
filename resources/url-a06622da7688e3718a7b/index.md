@@ -16,6 +16,8 @@ Mobile GUI data released by the OpenBMB team.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-a06622da7688e3718a7b/record.json
+
 ## License declarations
 
 - code: not recorded

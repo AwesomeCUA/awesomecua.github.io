@@ -1,0 +1,143 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "dataset_profile": {
+      "counts": [
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md",
+          "population": "packaged tasks/videos",
+          "qualifier": "exact",
+          "unit": "demonstrations",
+          "value": 350
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md",
+          "population": "final packaged images",
+          "qualifier": "exact",
+          "unit": "evidence images",
+          "value": 8388
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md",
+          "population": "packaged action traces",
+          "qualifier": "exact",
+          "unit": "action records",
+          "value": 11951
+        }
+      ],
+      "evidence_urls": [
+        "https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md"
+      ],
+      "formats": [
+        "MP4",
+        "PNG",
+        "JSON",
+        "JSONL",
+        "commented key logs"
+      ],
+      "modalities": [
+        "screen video",
+        "screenshots",
+        "input events",
+        "task text"
+      ],
+      "notes": "The OSWorld subset was selected post hoc using model outcomes; no train/test split is supplied. Coordinate calibration, task success, and complete anonymization are not established by package-format checks.",
+      "splits": [],
+      "supervision": [
+        "human workflow demonstrations",
+        "skill induction"
+      ]
+    },
+    "download_url": "https://huggingface.co/datasets/yuqi777/WorkDemo-350/tree/main",
+    "languages": [],
+    "modalities": [
+      "video",
+      "image",
+      "text",
+      "input-events"
+    ],
+    "sample_count": 350,
+    "sample_unit": "task demonstrations / videos"
+  },
+  "environments": [
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T10:47:49Z",
+      "role": "primary",
+      "sha256": "ae14cfe91c8c9a79edf1f306273a2ee9d1790b1dc5be0cd2d89e93df09db42f0",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details.sample_count",
+        "details.sample_unit",
+        "details.modalities",
+        "details.download_url",
+        "details.dataset_profile"
+      ],
+      "url": "https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-16T10:47:49Z",
+      "role": "primary",
+      "sha256": "ae14cfe91c8c9a79edf1f306273a2ee9d1790b1dc5be0cd2d89e93df09db42f0",
+      "supports": [
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md"
+    }
+  ],
+  "id": "url:243ab00712ba19cc2089",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-16T10:47:49Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "cc-by-4.0",
+      "retrieved_at": "2026-10-16T10:47:49Z",
+      "url": "https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/yuqi777/WorkDemo-350"
+    }
+  ],
+  "name": "WorkDemo-350",
+  "notes": "The card documents post hoc selection of the 286-task OSWorld subset based on model outcomes, uncalibrated coordinate annotations, and missing task-success acceptance records. It provides no train/test split or complete evaluator and does not claim complete anonymization. Review these limits before training or evaluation; the collection is an offline demonstration asset.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/yuqi777/WorkDemo-350/raw/main/README.md",
+      "target_id": "arxiv:2610.12984",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Desktop demonstrations with task descriptions, videos, input logs, and action-linked screenshot evidence for studying reusable agent skills.",
+  "topics": [
+    "recording",
+    "workflow",
+    "video"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/yuqi777/WorkDemo-350"
+}

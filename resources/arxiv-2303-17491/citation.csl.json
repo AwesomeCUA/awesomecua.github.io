@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2303.17491",
+  "citation-key": "arxiv_2303_17491",
+  "type": "article",
+  "title": "Language Models can Solve Computer Tasks",
+  "URL": "https://arxiv.org/abs/2303.17491v3",
+  "custom": {
+    "catalog_id": "arxiv:2303.17491",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2303.17491",
+    "identifiers": {
+      "arxiv": "2303.17491"
+    },
+    "first_published_at": "2023-03-30",
+    "record_updated_at": "2023-11-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8f36bd6088175b337b750d91d0b7c04d2c156742e5c4090a74f00a482157e386",
+      "submitted_at": "2023-03-30T16:01:52Z",
+      "updated_at": "2023-11-16T20:15:14Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2303.17491v3"
+    }
+  },
+  "note": "First published: 2023-03-30; Recorded arXiv version: v3; Recorded version updated: 2023-11-16T20:15:14Z.",
+  "author": [
+    {
+      "literal": "Geunwoo Kim"
+    },
+    {
+      "literal": "Pierre Baldi"
+    },
+    {
+      "literal": "Stephen McAleer"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        3,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2303.17491",
+  "genre": "preprint",
+  "version": "3"
+}

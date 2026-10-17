@@ -16,9 +16,16 @@ Bibliographic record for AFRAgent : An Adaptive Feature Renormalization Based Hi
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-00846/record.json
+
 ## Authors
 
 Neeraj Anand, Rishabh Jain, Sohan Patnaik, Balaji Krishnamurthy, Mausoom Sarkar
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-00846/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-00846/citation.csl.json
 
 ## Recorded arXiv snapshot
 

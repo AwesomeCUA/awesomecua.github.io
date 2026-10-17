@@ -16,9 +16,16 @@ Bibliographic record for Octopus v4: Graph of language models. Title, authors an
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-19296/record.json
+
 ## Authors
 
 Wei Chen, Zhiyuan Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-19296/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-19296/citation.csl.json
 
 ## Recorded arXiv snapshot
 

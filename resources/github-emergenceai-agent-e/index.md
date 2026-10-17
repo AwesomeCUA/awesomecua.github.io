@@ -16,6 +16,8 @@ Web automation agent with hierarchical task execution.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-emergenceai-agent-e/record.json
+
 ## License declarations
 
 - code: MIT — https://raw.githubusercontent.com/EmergenceAI/Agent-E/HEAD/LICENSE.txt

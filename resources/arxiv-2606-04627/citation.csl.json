@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2606.04627",
+  "citation-key": "arxiv_2606_04627",
+  "type": "article",
+  "title": "MIRAGE: Mobile Agents with Implicit Reasoning and Generative World Models",
+  "URL": "https://arxiv.org/abs/2606.04627v2",
+  "custom": {
+    "catalog_id": "arxiv:2606.04627",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.04627",
+    "identifiers": {
+      "arxiv": "2606.04627"
+    },
+    "first_published_at": "2026-06-03",
+    "record_updated_at": "2026-06-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "dcb2d643f4c802180577ec03ac8a3f42f8561d98a7008a0abd53c4f9b6f2348f",
+      "submitted_at": "2026-06-03T09:01:24Z",
+      "updated_at": "2026-06-06T08:34:56Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2606.04627v2"
+    }
+  },
+  "note": "First published: 2026-06-03; Recorded arXiv version: v2; Recorded version updated: 2026-06-06T08:34:56Z.",
+  "author": [
+    {
+      "literal": "Zhichao Yang"
+    },
+    {
+      "literal": "Yuanze Hu"
+    },
+    {
+      "literal": "Haojie Hao"
+    },
+    {
+      "literal": "Longkun Hao"
+    },
+    {
+      "literal": "Dongshuo Huang"
+    },
+    {
+      "literal": "Hongyu Lin"
+    },
+    {
+      "literal": "Gen Li"
+    },
+    {
+      "literal": "Lanqing Hong"
+    },
+    {
+      "literal": "Yihang Lou"
+    },
+    {
+      "literal": "Yan Bai"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.04627",
+  "genre": "preprint",
+  "version": "2"
+}

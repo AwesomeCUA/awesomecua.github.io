@@ -1,0 +1,70 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "android",
+    "ios"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:04Z",
+      "role": "primary",
+      "sha256": "ecd5b8033cbc17a2ce5aebf1b35260b77c4906aea7c549a0b86e5d55b9ebe135",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/appium/appium/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:42:06Z",
+      "role": "primary",
+      "sha256": "5cb791a45cafc4bdaef57f3ba49fb7691a98c756e8148467f9e241295728490f",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/appium/appium/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:appium/appium",
+  "identifiers": {},
+  "kind": "infrastructure",
+  "last_verified_at": "2026-10-16T06:36:04Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T06:42:06Z",
+      "url": "https://raw.githubusercontent.com/appium/appium/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/appium/appium"
+    }
+  ],
+  "name": "Appium",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "adjacent",
+  "summary": "Cross-platform UI automation infrastructure.",
+  "topics": [
+    "automation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/appium/appium"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2312.11190",
+  "citation-key": "arxiv_2312_11190",
+  "type": "article",
+  "title": "VisionTasker: Mobile Task Automation Using Vision Based UI Understanding and LLM Task Planning",
+  "URL": "https://arxiv.org/abs/2312.11190v2",
+  "custom": {
+    "catalog_id": "arxiv:2312.11190",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2312.11190",
+    "identifiers": {
+      "arxiv": "2312.11190"
+    },
+    "first_published_at": "2023-12-18",
+    "record_updated_at": "2024-07-29",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "df1390eab35db18dedaf135ddbbc9fdfcacbc9a70c51ec2609cf331cc05e06bd",
+      "submitted_at": "2023-12-18T13:35:46Z",
+      "updated_at": "2024-07-29T14:52:38Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2312.11190v2"
+    }
+  },
+  "note": "First published: 2023-12-18; Recorded arXiv version: v2; Recorded version updated: 2024-07-29T14:52:38Z.",
+  "author": [
+    {
+      "literal": "Yunpeng Song"
+    },
+    {
+      "literal": "Yiheng Bian"
+    },
+    {
+      "literal": "Yongtao Tang"
+    },
+    {
+      "literal": "Guiyu Ma"
+    },
+    {
+      "literal": "Zhongmin Cai"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2312.11190",
+  "genre": "preprint",
+  "version": "2"
+}

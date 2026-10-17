@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2508.05081",
+  "citation-key": "arxiv_2508_05081",
+  "type": "article",
+  "title": "Cognitive Duality for Adaptive Web Agents",
+  "URL": "https://arxiv.org/abs/2508.05081v1",
+  "custom": {
+    "catalog_id": "arxiv:2508.05081",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2508.05081",
+    "identifiers": {
+      "arxiv": "2508.05081"
+    },
+    "first_published_at": "2025-08-07",
+    "record_updated_at": "2025-08-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2d574d4157b775639c08ed12813892584b011dd3c0271ca2586f9d6a61d00c14",
+      "submitted_at": "2025-08-07T07:05:22Z",
+      "updated_at": "2025-08-07T07:05:22Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2508.05081v1"
+    }
+  },
+  "note": "First published: 2025-08-07; Recorded arXiv version: v1; Recorded version updated: 2025-08-07T07:05:22Z.",
+  "author": [
+    {
+      "literal": "Jiarun Liu"
+    },
+    {
+      "literal": "Chunhong Zhang"
+    },
+    {
+      "literal": "Zheng Hu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.05081",
+  "genre": "preprint",
+  "version": "1"
+}

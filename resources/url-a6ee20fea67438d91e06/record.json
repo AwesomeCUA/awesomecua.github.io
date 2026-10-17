@@ -1,0 +1,105 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/zai-org/webrl-llama-3.1-8b/tree/main",
+    "gated": false,
+    "hub_id": "zai-org/webrl-llama-3.1-8b"
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:05:40Z",
+      "role": "primary",
+      "sha256": "4712446382f106a115a317d0ec6273a975545386b9cedf56946a96a56479dc9f",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/zai-org/webrl-llama-3.1-8b/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:05:40Z",
+      "role": "primary",
+      "sha256": "6523b7f198d8debec2f3074190812955c6251590b61f8a6ea1bbb681b8ea128f",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/api/models/zai-org/webrl-llama-3.1-8b"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:02:28Z",
+      "role": "primary",
+      "sha256": "6523b7f198d8debec2f3074190812955c6251590b61f8a6ea1bbb681b8ea128f",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://huggingface.co/api/models/THUDM/webrl-llama-3.1-8b"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T02:05:40Z",
+      "role": "primary",
+      "sha256": "4712446382f106a115a317d0ec6273a975545386b9cedf56946a96a56479dc9f",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/zai-org/webrl-llama-3.1-8b/raw/main/README.md"
+    }
+  ],
+  "id": "url:a6ee20fea67438d91e06",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T02:05:40Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "other",
+      "retrieved_at": "2026-10-17T02:05:40Z",
+      "url": "https://huggingface.co/zai-org/webrl-llama-3.1-8b/raw/main/README.md"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/zai-org/webrl-llama-3.1-8b"
+    }
+  ],
+  "name": "WebRL Llama 3.1 8B",
+  "notes": "The official Hub API resolves the former THUDM namespace to zai-org. Seven safetensors shards and configuration/tokenizer files are public and ungated. The card marks the weight license as other without naming complete terms, so no permissive weight license is inferred. The card’s evaluation prose also names GLM-4 despite the Llama checkpoint identity; no score is imported.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/zai-org/webrl-llama-3.1-8b/raw/main/README.md",
+      "target_id": "arxiv:2411.02337",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A WebRL browser-policy checkpoint for performing actions in the five website environments of WebArena.",
+  "topics": [
+    "web-navigation",
+    "reinforcement-learning"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/zai-org/webrl-llama-3.1-8b"
+}

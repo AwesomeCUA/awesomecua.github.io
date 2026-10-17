@@ -16,9 +16,16 @@ Bibliographic record for StatEval: A Comprehensive Benchmark for Large Language 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-09517/record.json
+
 ## Authors
 
 Yuchen Lu, Run Yang, Yichen Zhang, Shuguang Yu, Ziwei Wang, Jiayi Xiang, Wenxin E, Changyu Zhu, Fan Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-09517/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-09517/citation.csl.json
 
 ## Recorded arXiv snapshot
 

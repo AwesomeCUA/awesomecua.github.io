@@ -16,9 +16,16 @@ Bibliographic record for Agent Alpha: Tree Search Unifying Generation, Explorati
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-02995/record.json
+
 ## Authors
 
 Sizhe Tang, Rongqian Chen, Tian Lan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-02995/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-02995/citation.csl.json
 
 ## Recorded arXiv snapshot
 

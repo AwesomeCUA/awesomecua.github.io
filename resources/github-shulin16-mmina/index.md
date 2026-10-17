@@ -16,6 +16,8 @@ Multihop multimodal internet navigation tasks.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-shulin16-mmina/record.json
+
 ## License declarations
 
 - code: not recorded

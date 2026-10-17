@@ -16,9 +16,16 @@ Bibliographic record for OpenMobile: Building Open Mobile Agents with Task and T
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-15093/record.json
+
 ## Authors
 
 Kanzhi Cheng, Zehao Li, Zheng Ma, Nuo Chen, Jialin Cao, Qiushi Sun, Zichen Ding, Fangzhi Xu, Hang Yan, Jiajun Chen, Anh Tuan Luu, Jianbing Zhang, Lewei Lu, Dahua Lin
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-15093/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-15093/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:1910.03673",
+  "citation-key": "arxiv_1910_03673",
+  "type": "article",
+  "title": "Progress towards practical qubit computation using approximate Gottesman-Kitaev-Preskill codes",
+  "URL": "https://arxiv.org/abs/1910.03673v2",
+  "custom": {
+    "catalog_id": "arxiv:1910.03673",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1910.03673",
+    "identifiers": {
+      "arxiv": "1910.03673"
+    },
+    "first_published_at": "2019-10-08",
+    "record_updated_at": "2020-03-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5f2489e3f61201b6f8c40ffbc0c97c7b3f2480d7af2a9a259617e6fe964b07c4",
+      "submitted_at": "2019-10-08T20:32:27Z",
+      "updated_at": "2020-03-16T14:18:14Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/1910.03673v2"
+    }
+  },
+  "note": "First published: 2019-10-08; Recorded arXiv version: v2; Recorded version updated: 2020-03-16T14:18:14Z.",
+  "author": [
+    {
+      "literal": "Ilan Tzitrin"
+    },
+    {
+      "literal": "J. Eli Bourassa"
+    },
+    {
+      "literal": "Nicolas C. Menicucci"
+    },
+    {
+      "literal": "Krishna Kumar Sabapathy"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        10,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1910.03673",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -16,9 +16,16 @@ Studies repetitive, unproductive actions in desktop agents through their interna
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-37176/record.json
+
 ## Authors
 
 Giulio Segalini, Zhi Wen Soi, Jérémie Decouchant, Lydia Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-37176/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-37176/citation.csl.json
 
 ## Recorded arXiv snapshot
 

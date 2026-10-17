@@ -16,6 +16,8 @@ Hosted browser infrastructure for automation applications.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-1e6b8682e0f1ddc3d36f/record.json
+
 ## License declarations
 
 - code: not recorded

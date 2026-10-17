@@ -16,9 +16,16 @@ Bibliographic record for Draw-and-Understand: Leveraging Visual Prompts to Enabl
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2403-20271/record.json
+
 ## Authors
 
 Weifeng Lin, Xinyu Wei, Ruichuan An, Peng Gao, Bocheng Zou, Yulin Luo, Siyuan Huang, Shanghang Zhang, Hongsheng Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2403-20271/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-20271/citation.csl.json
 
 ## Recorded arXiv snapshot
 

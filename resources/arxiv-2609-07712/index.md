@@ -16,9 +16,16 @@ Introduces controlled simulated mobile apps with deterministic backend data and 
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-07712/record.json
+
 ## Authors
 
 Jintian Feng, Long Chen, Xiao Yu, Jiayi Dai, Chenglong Liu, Haoru Wang, Zizhen Xue, Yuxuan Shi, Ziyang Wang, Yichen Gong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-07712/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-07712/citation.csl.json
 
 ## Recorded arXiv snapshot
 

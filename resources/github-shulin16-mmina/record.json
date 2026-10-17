@@ -1,0 +1,66 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "metrics": [],
+    "task_count": null
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:35:58Z",
+      "role": "primary",
+      "sha256": "abc848e7eb5181be22168dbc076446c5eb0f065fd57c7e10367284ca6e50bf5c",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/shulin16/MMInA/HEAD/README.md"
+    }
+  ],
+  "id": "github:shulin16/mmina",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-16T06:35:58Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/shulin16/MMInA"
+    }
+  ],
+  "name": "MMInA",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/shulin16/MMInA/HEAD/README.md",
+      "target_id": "arxiv:2404.09992",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Multihop multimodal internet navigation tasks.",
+  "topics": [
+    "evaluation",
+    "long-horizon"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/shulin16/MMInA"
+}

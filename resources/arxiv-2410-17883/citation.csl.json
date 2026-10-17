@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2410.17883",
+  "citation-key": "arxiv_2410_17883",
+  "type": "article",
+  "title": "Lightweight Neural App Control",
+  "URL": "https://arxiv.org/abs/2410.17883v2",
+  "custom": {
+    "catalog_id": "arxiv:2410.17883",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.17883",
+    "identifiers": {
+      "arxiv": "2410.17883"
+    },
+    "first_published_at": "2024-10-23",
+    "record_updated_at": "2025-02-12",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9f6eb76587ef91a21942d34ba9ee7ba0ebc846277b12c69ecb179c2b2d1720df",
+      "submitted_at": "2024-10-23T13:57:00Z",
+      "updated_at": "2025-02-12T17:51:51Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2410.17883v2"
+    }
+  },
+  "note": "First published: 2024-10-23; Recorded arXiv version: v2; Recorded version updated: 2025-02-12T17:51:51Z.",
+  "author": [
+    {
+      "literal": "Filippos Christianos"
+    },
+    {
+      "literal": "Georgios Papoudakis"
+    },
+    {
+      "literal": "Thomas Coste"
+    },
+    {
+      "literal": "Jianye Hao"
+    },
+    {
+      "literal": "Jun Wang"
+    },
+    {
+      "literal": "Kun Shao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        10,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2410.17883",
+  "genre": "preprint",
+  "version": "2"
+}

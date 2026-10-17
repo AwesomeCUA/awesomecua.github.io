@@ -16,6 +16,8 @@ Mobile interface interaction data.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-tsinghua-fib-lab-fingertip-20k/record.json
+
 ## License declarations
 
 - code: not recorded

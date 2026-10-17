@@ -16,9 +16,16 @@ Bibliographic record for Autonomic Intrusion Response in Distributed Computing u
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1811-05407/record.json
+
 ## Authors
 
 Kleber Vieira, Fernando Koch, Joao Bosco Mangueira Sobral, Carlos Becker Westphall, Jorge Lopes de Souza Leao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1811-05407/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1811-05407/citation.csl.json
 
 ## Recorded arXiv snapshot
 

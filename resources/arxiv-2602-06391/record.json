@@ -1,0 +1,92 @@
+{
+  "aliases": [],
+  "authors": [
+    "Zhongyin Zhao",
+    "Yuan Liu",
+    "Yikun Liu",
+    "Haicheng Wang",
+    "Le Tian",
+    "Xiao Zhou",
+    "Yangxiu You",
+    "Zilin Yu",
+    "Yang Yu",
+    "Jie Zhou"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "852813305299178baeda3540cbad539dc30b840681e7bbdaed34dac1341dc0de",
+      "submitted_at": "2026-02-06T05:14:11Z",
+      "updated_at": "2026-02-06T05:14:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2602.06391v1"
+    }
+  },
+  "environments": [
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:43Z",
+      "role": "primary",
+      "sha256": "c432f419481a105a8ce71174ec4aea23c4f0d36ddf89cfe1d0974fa349f6cb59",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=400&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:43Z",
+      "role": "primary",
+      "sha256": "c432f419481a105a8ce71174ec4aea23c4f0d36ddf89cfe1d0974fa349f6cb59",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=400&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2602.06391",
+  "identifiers": {
+    "arxiv": "2602.06391"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:43Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2602.06391"
+    }
+  ],
+  "name": "POINTS-GUI-G: GUI-Grounding Journey",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2026-02-06",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Studies GUI-grounding development from a weakly grounded base model through data preparation, visual training, and verifiable rewards.",
+  "topics": [
+    "grounding",
+    "reinforcement-learning"
+  ],
+  "updated_at": "2026-02-06",
+  "url": "https://arxiv.org/abs/2602.06391"
+}

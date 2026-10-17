@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2412.09362",
+  "citation-key": "arxiv_2412_09362",
+  "type": "article",
+  "title": "Falcon-UI: Understanding GUI Before Following User Instructions",
+  "URL": "https://arxiv.org/abs/2412.09362v1",
+  "custom": {
+    "catalog_id": "arxiv:2412.09362",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2412.09362",
+    "identifiers": {
+      "arxiv": "2412.09362"
+    },
+    "first_published_at": "2024-12-12",
+    "record_updated_at": "2024-12-12",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ee5840bbd1404674f0e9509b305e995c4dece9257e3f2a79348dde9aee99928b",
+      "submitted_at": "2024-12-12T15:29:36Z",
+      "updated_at": "2024-12-12T15:29:36Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2412.09362v1"
+    }
+  },
+  "note": "First published: 2024-12-12; Recorded arXiv version: v1; Recorded version updated: 2024-12-12T15:29:36Z.",
+  "author": [
+    {
+      "literal": "Huawen Shen"
+    },
+    {
+      "literal": "Chang Liu"
+    },
+    {
+      "literal": "Gengluo Li"
+    },
+    {
+      "literal": "Xinlong Wang"
+    },
+    {
+      "literal": "Yu Zhou"
+    },
+    {
+      "literal": "Can Ma"
+    },
+    {
+      "literal": "Xiangyang Ji"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.09362",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2604.27253",
+  "citation-key": "arxiv_2604_27253",
+  "type": "article",
+  "title": "AutoSurfer -- Teaching Web Agents through Comprehensive Surfing, Learning, and Modeling",
+  "URL": "https://arxiv.org/abs/2604.27253v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.27253",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.27253",
+    "identifiers": {
+      "arxiv": "2604.27253"
+    },
+    "first_published_at": "2026-04-29",
+    "record_updated_at": "2026-04-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "276d8a62192c0ad576a1d986bb27d3978963b93466a822858e3313957dd83a81",
+      "submitted_at": "2026-04-29T22:57:35Z",
+      "updated_at": "2026-04-29T22:57:35Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.27253v1"
+    }
+  },
+  "note": "First published: 2026-04-29; Recorded arXiv version: v1; Recorded version updated: 2026-04-29T22:57:35Z.",
+  "author": [
+    {
+      "literal": "Fazle Elahi Faisal"
+    },
+    {
+      "literal": "Qianhui Wu"
+    },
+    {
+      "literal": "Baolin Peng"
+    },
+    {
+      "literal": "Jianfeng Gao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.27253",
+  "genre": "preprint",
+  "version": "1"
+}

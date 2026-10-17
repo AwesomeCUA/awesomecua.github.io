@@ -16,9 +16,16 @@ Bibliographic record for PlanViz: Evaluating Planning-Oriented Image Generation 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-06663/record.json
+
 ## Authors
 
 Junxian Li, Kai Liu, Leyang Chen, Weida Wang, Zhixin Wang, Jiaqi Xu, Fan Li, Renjing Pei, Linghe Kong, Yulun Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-06663/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-06663/citation.csl.json
 
 ## Recorded arXiv snapshot
 

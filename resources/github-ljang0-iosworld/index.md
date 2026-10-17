@@ -16,6 +16,8 @@ Native iPhone-simulator benchmark with shared user data, application workflows, 
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-ljang0-iosworld/record.json
+
 ## Structured profile
 
 - actions: touch actions, MCP tools (optional)

@@ -1,0 +1,75 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "evaluation_type": null,
+    "leaderboard_url": null,
+    "metrics": [],
+    "task_count": null
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:35:58Z",
+      "role": "primary",
+      "sha256": "e733115d9b2fbe910cb3891162f04a89af8cbda25255c8f0bf60f78101e4309a",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/jylee425/mobilesafetybench/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-16T06:41:58Z",
+      "role": "primary",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/jylee425/mobilesafetybench/HEAD/LICENSE.txt"
+    }
+  ],
+  "id": "github:jylee425/mobilesafetybench",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-16T06:35:58Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-16T06:41:58Z",
+      "url": "https://raw.githubusercontent.com/jylee425/mobilesafetybench/HEAD/LICENSE.txt"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/jylee425/mobilesafetybench"
+    }
+  ],
+  "name": "MobileSafetyBench",
+  "notes": "",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Benchmark for safety behavior of mobile device agents.",
+  "topics": [
+    "safety-security",
+    "evaluation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/jylee425/mobilesafetybench"
+}

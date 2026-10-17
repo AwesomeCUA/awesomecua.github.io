@@ -16,9 +16,16 @@ Bibliographic record for From Off-Policy to On-Policy: Enhancing GUI Agents via 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-05787/record.json
+
 ## Authors
 
 Zezhou Wang, Ziyun Zhang, Xiaoyi Zhang, Zhuzhong Qian, Yan Lu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-05787/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-05787/citation.csl.json
 
 ## Recorded arXiv snapshot
 

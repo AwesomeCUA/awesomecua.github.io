@@ -16,9 +16,16 @@ Bibliographic record for Understanding Mobile GUI: from Pixel-Words to Screen-Se
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2105-11941/record.json
+
 ## Authors
 
 Jingwen Fu, Xiaoyi Zhang, Yuwang Wang, Wenjun Zeng, Sam Yang, Grayson Hilliard
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2105-11941/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2105-11941/citation.csl.json
 
 ## Recorded arXiv snapshot
 

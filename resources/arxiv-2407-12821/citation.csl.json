@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2407.12821",
+  "citation-key": "arxiv_2407_12821",
+  "type": "article",
+  "title": "AutoFlow: Automated Workflow Generation for Large Language Model Agents",
+  "URL": "https://arxiv.org/abs/2407.12821v1",
+  "custom": {
+    "catalog_id": "arxiv:2407.12821",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2407.12821",
+    "identifiers": {
+      "arxiv": "2407.12821"
+    },
+    "first_published_at": "2024-07-01",
+    "record_updated_at": "2024-07-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7312bcd35ac6a90f4c420db74f2d9ae779a0a731659b4d0c471820397795da68",
+      "submitted_at": "2024-07-01T21:05:02Z",
+      "updated_at": "2024-07-01T21:05:02Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2407.12821v1"
+    }
+  },
+  "note": "First published: 2024-07-01; Recorded arXiv version: v1; Recorded version updated: 2024-07-01T21:05:02Z.",
+  "author": [
+    {
+      "literal": "Zelong Li"
+    },
+    {
+      "literal": "Shuyuan Xu"
+    },
+    {
+      "literal": "Kai Mei"
+    },
+    {
+      "literal": "Wenyue Hua"
+    },
+    {
+      "literal": "Balaji Rama"
+    },
+    {
+      "literal": "Om Raheja"
+    },
+    {
+      "literal": "Hao Wang"
+    },
+    {
+      "literal": "He Zhu"
+    },
+    {
+      "literal": "Yongfeng Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        7,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2407.12821",
+  "genre": "preprint",
+  "version": "1"
+}

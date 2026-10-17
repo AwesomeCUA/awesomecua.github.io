@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2501.06497",
+  "citation-key": "arxiv_2501_06497",
+  "type": "article",
+  "title": "PASS: Presentation Automation for Slide Generation and Speech",
+  "URL": "https://arxiv.org/abs/2501.06497v2",
+  "custom": {
+    "catalog_id": "arxiv:2501.06497",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2501.06497",
+    "identifiers": {
+      "arxiv": "2501.06497"
+    },
+    "first_published_at": "2025-01-11",
+    "record_updated_at": "2025-01-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6024567fca43c3280ddfa1fe0a2c99e2614a59af6cb9779a3f6c633ff361ad71",
+      "submitted_at": "2025-01-11T10:22:04Z",
+      "updated_at": "2025-01-15T20:43:44Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2501.06497v2"
+    }
+  },
+  "note": "First published: 2025-01-11; Recorded arXiv version: v2; Recorded version updated: 2025-01-15T20:43:44Z.",
+  "author": [
+    {
+      "literal": "Tushar Aggarwal"
+    },
+    {
+      "literal": "Aarohi Bhand"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2501.06497",
+  "genre": "preprint",
+  "version": "2"
+}

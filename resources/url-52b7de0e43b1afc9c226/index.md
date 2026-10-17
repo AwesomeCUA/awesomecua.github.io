@@ -16,6 +16,8 @@ An InternVL2-based visual GUI checkpoint distributed for grounding and interface
 
 The Hub manifest exposes four safetensors shards under SpiritSight-Agent-8B-base. The card declares Apache-2.0 and separately links InternVL terms in its model table. This is the published base checkpoint; benchmark-specific fine-tuning is discussed separately. No model code was executed.
 
+- Record JSON: https://awesomecua.github.io/resources/url-52b7de0e43b1afc9c226/record.json
+
 ## License declarations
 
 - code: not recorded

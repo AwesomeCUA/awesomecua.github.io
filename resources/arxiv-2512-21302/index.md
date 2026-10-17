@@ -16,9 +16,16 @@ AndroidLens provides 571 extended mobile tasks in Chinese and English, with mult
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-21302/record.json
+
 ## Authors
 
 Yue Cao, Yingyao Wang, Pi Bu, Jingxuan Xing, Wei Jiang, Zekun Zhu, Junpeng Ma, Sashuai Zhou, Tong Lu, Jun Song, Yu Cheng, Yuning Jiang, Bo Zheng
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-21302/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-21302/citation.csl.json
 
 ## Recorded arXiv snapshot
 

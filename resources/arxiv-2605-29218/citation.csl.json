@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2605.29218",
+  "citation-key": "arxiv_2605_29218",
+  "type": "article",
+  "title": "GTA: Generating Long-Horizon Tasks for Web Agents at Scale",
+  "URL": "https://arxiv.org/abs/2605.29218v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.29218",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.29218",
+    "identifiers": {
+      "arxiv": "2605.29218"
+    },
+    "first_published_at": "2026-05-28",
+    "record_updated_at": "2026-05-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0f756d85a19896642fe8f2f4aecd24fac486715c012ba2196cf1a7fcac6c0d76",
+      "submitted_at": "2026-05-28T01:05:50Z",
+      "updated_at": "2026-05-28T01:05:50Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.29218v1"
+    }
+  },
+  "note": "First published: 2026-05-28; Recorded arXiv version: v1; Recorded version updated: 2026-05-28T01:05:50Z.",
+  "author": [
+    {
+      "literal": "Tenghao Huang"
+    },
+    {
+      "literal": "Kung-Hsiang Huang"
+    },
+    {
+      "literal": "Prafulla Kumar Choubey"
+    },
+    {
+      "literal": "Yilun Zhou"
+    },
+    {
+      "literal": "Muhao Chen"
+    },
+    {
+      "literal": "Jonathan May"
+    },
+    {
+      "literal": "Chien-Sheng Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.29218",
+  "genre": "preprint",
+  "version": "1"
+}

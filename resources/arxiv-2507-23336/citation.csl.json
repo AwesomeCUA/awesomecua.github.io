@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2507.23336",
+  "citation-key": "arxiv_2507_23336",
+  "type": "article",
+  "title": "DSBC : Data Science task Benchmarking with Context engineering",
+  "URL": "https://arxiv.org/abs/2507.23336v2",
+  "custom": {
+    "catalog_id": "arxiv:2507.23336",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2507.23336",
+    "identifiers": {
+      "arxiv": "2507.23336"
+    },
+    "first_published_at": "2025-07-31",
+    "record_updated_at": "2025-08-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "21a2172cb4776b1a0f5dec89002d913b86ba463f434c452a048b2eaeb2a2c4e6",
+      "submitted_at": "2025-07-31T08:32:37Z",
+      "updated_at": "2025-08-06T18:41:57Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2507.23336v2"
+    }
+  },
+  "note": "First published: 2025-07-31; Recorded arXiv version: v2; Recorded version updated: 2025-08-06T18:41:57Z.",
+  "author": [
+    {
+      "literal": "Ram Mohan Rao Kadiyala"
+    },
+    {
+      "literal": "Siddhant Gupta"
+    },
+    {
+      "literal": "Jebish Purbey"
+    },
+    {
+      "literal": "Giulio Martini"
+    },
+    {
+      "literal": "Ali Shafique"
+    },
+    {
+      "literal": "Suman Debnath"
+    },
+    {
+      "literal": "Hamza Farooq"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.23336",
+  "genre": "preprint",
+  "version": "2"
+}

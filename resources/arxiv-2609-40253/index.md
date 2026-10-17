@@ -16,9 +16,16 @@ Introduces ComputerSD, which turns feedback from executed GUI transitions into o
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-40253/record.json
+
 ## Authors
 
 Yong Du, Tongbo Chen, Zhengxi Lu, Yizhou Liu, Bofan Chen, Tao Jiang, Wenhao Xu, Yongliang Shen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-40253/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-40253/citation.csl.json
 
 ## Recorded arXiv snapshot
 

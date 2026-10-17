@@ -16,9 +16,16 @@ Bibliographic record for JEF-Hinter: Leveraging Offline Knowledge for Improving 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-04373/record.json
+
 ## Authors
 
 Hadi Nekoei, Aman Jaiswal, Patrice Bechard, Oleh Shliazhko, Orlando Marquez Ayala, Mathieu Reymond, Massimo Caccia, Alexandre Drouin, Sarath Chandar, Alexandre Lacoste
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-04373/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-04373/citation.csl.json
 
 ## Recorded arXiv snapshot
 

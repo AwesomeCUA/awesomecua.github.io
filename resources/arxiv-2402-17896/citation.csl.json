@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2402.17896",
+  "citation-key": "arxiv_2402_17896",
+  "type": "article",
+  "title": "Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents",
+  "URL": "https://arxiv.org/abs/2402.17896v1",
+  "custom": {
+    "catalog_id": "arxiv:2402.17896",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2402.17896",
+    "identifiers": {
+      "arxiv": "2402.17896"
+    },
+    "first_published_at": "2024-02-27",
+    "record_updated_at": "2024-02-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1b538ae272b6b534fc8697b9a43078abd84b755eec2d666d221bd87c6f91411e",
+      "submitted_at": "2024-02-27T21:27:16Z",
+      "updated_at": "2024-02-27T21:27:16Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2402.17896v1"
+    }
+  },
+  "note": "First published: 2024-02-27; Recorded arXiv version: v1; Recorded version updated: 2024-02-27T21:27:16Z.",
+  "author": [
+    {
+      "literal": "Corby Rosset"
+    },
+    {
+      "literal": "Ho-Lam Chung"
+    },
+    {
+      "literal": "Guanghui Qin"
+    },
+    {
+      "literal": "Ethan C. Chau"
+    },
+    {
+      "literal": "Zhuo Feng"
+    },
+    {
+      "literal": "Ahmed Awadallah"
+    },
+    {
+      "literal": "Jennifer Neville"
+    },
+    {
+      "literal": "Nikhil Rao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.17896",
+  "genre": "preprint",
+  "version": "1"
+}

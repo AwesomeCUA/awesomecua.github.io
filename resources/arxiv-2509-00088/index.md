@@ -16,9 +16,16 @@ Bibliographic record for AEGIS : Automated Co-Evolutionary Framework for Guardin
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2509-00088/record.json
+
 ## Authors
 
 Ting-Chun Liu, Ching-Yu Hsu, Kuan-Yi Lee, Chi-An Fu, Hung-yi Lee
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2509-00088/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2509-00088/citation.csl.json
 
 ## Recorded arXiv snapshot
 

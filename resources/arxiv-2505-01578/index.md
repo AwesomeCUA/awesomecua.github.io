@@ -16,9 +16,16 @@ Bibliographic record for Grounding Task Assistance with Multimodal Cues from a S
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2505-01578/record.json
+
 ## Authors
 
 Gabriel Sarch, Balasaravanan Thoravi Kumaravel, Sahithya Ravi, Vibhav Vineet, Andrew D. Wilson
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2505-01578/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2505-01578/citation.csl.json
 
 ## Recorded arXiv snapshot
 

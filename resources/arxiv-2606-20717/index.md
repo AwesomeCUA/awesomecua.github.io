@@ -16,9 +16,16 @@ Bibliographic record for MIRAGE: Stealthy Visual Prompt Injection for Vulnerabil
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-20717/record.json
+
 ## Authors
 
 Xuelong Dai, Jianyu Ma, Boyang Ma, Biwei Yan, Yijun Yang, Yue Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-20717/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-20717/citation.csl.json
 
 ## Recorded arXiv snapshot
 

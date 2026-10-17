@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2510.10909",
+  "citation-key": "arxiv_2510_10909",
+  "type": "article",
+  "title": "PaperArena: An Evaluation Benchmark for Tool-Augmented Agentic Reasoning on Scientific Literature",
+  "URL": "https://arxiv.org/abs/2510.10909v4",
+  "custom": {
+    "catalog_id": "arxiv:2510.10909",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.10909",
+    "identifiers": {
+      "arxiv": "2510.10909"
+    },
+    "first_published_at": "2025-10-13",
+    "record_updated_at": "2026-01-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5990c9223d3391b54d9a42a74cbed99986f336016812fefdfaeccce5fb454821",
+      "submitted_at": "2025-10-13T02:10:39Z",
+      "updated_at": "2026-01-30T02:57:53Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2510.10909v4"
+    }
+  },
+  "note": "First published: 2025-10-13; Recorded arXiv version: v4; Recorded version updated: 2026-01-30T02:57:53Z.",
+  "author": [
+    {
+      "literal": "Daoyu Wang"
+    },
+    {
+      "literal": "Mingyue Cheng"
+    },
+    {
+      "literal": "Shuo Yu"
+    },
+    {
+      "literal": "Zirui Liu"
+    },
+    {
+      "literal": "Ze Guo"
+    },
+    {
+      "literal": "Xin Li"
+    },
+    {
+      "literal": "Qi Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.10909",
+  "genre": "preprint",
+  "version": "4"
+}

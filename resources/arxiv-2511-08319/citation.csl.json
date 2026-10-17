@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2511.08319",
+  "citation-key": "arxiv_2511_08319",
+  "type": "article",
+  "title": "Adaptive Multi-Agent Response Refinement in Conversational Systems",
+  "URL": "https://arxiv.org/abs/2511.08319v1",
+  "custom": {
+    "catalog_id": "arxiv:2511.08319",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2511.08319",
+    "identifiers": {
+      "arxiv": "2511.08319"
+    },
+    "first_published_at": "2025-11-11",
+    "record_updated_at": "2025-11-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "aab4bffe546c0f1caf8b1acd8f760038e0875ec04436de09869eadc220687ca2",
+      "submitted_at": "2025-11-11T14:48:34Z",
+      "updated_at": "2025-11-11T14:48:34Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2511.08319v1"
+    }
+  },
+  "note": "First published: 2025-11-11; Recorded arXiv version: v1; Recorded version updated: 2025-11-11T14:48:34Z.",
+  "author": [
+    {
+      "literal": "Soyeong Jeong"
+    },
+    {
+      "literal": "Aparna Elangovan"
+    },
+    {
+      "literal": "Emine Yilmaz"
+    },
+    {
+      "literal": "Oleg Rokhlenko"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2511.08319",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -16,9 +16,16 @@ LASER represents web navigation as exploration over a defined set of states, all
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2309-08172/record.json
+
 ## Authors
 
 Kaixin Ma, Hongming Zhang, Hongwei Wang, Xiaoman Pan, Wenhao Yu, Dong Yu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2309-08172/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2309-08172/citation.csl.json
 
 ## Recorded arXiv snapshot
 

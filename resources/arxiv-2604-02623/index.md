@@ -16,9 +16,16 @@ Bibliographic record for Poison Once, Exploit Forever: Environment-Injected Memo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-02623/record.json
+
 ## Authors
 
 Wei Zou, Mingwen Dong, Miguel Romero Calvo, Shuaichen Chang, Jiang Guo, Dongkyu Lee, Xing Niu, Xiaofei Ma, Yanjun Qi, Jiarong Jiang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-02623/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-02623/citation.csl.json
 
 ## Recorded arXiv snapshot
 

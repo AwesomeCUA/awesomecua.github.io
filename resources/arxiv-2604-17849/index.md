@@ -16,9 +16,16 @@ Bibliographic record for On the Reliability of Computer Use Agents. Title, autho
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-17849/record.json
+
 ## Authors
 
 Gonzalo Gonzalez-Pumariega, Saaket Agashe, Jiachen Yang, Ang Li, Xin Eric Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-17849/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-17849/citation.csl.json
 
 ## Recorded arXiv snapshot
 

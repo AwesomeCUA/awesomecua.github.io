@@ -16,6 +16,8 @@ GUI action-model training and evaluation code with verifiable rewards, plus link
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/github-ritzz-ai-gui-r1/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/ritzz-ai/GUI-R1/HEAD/LICENSE

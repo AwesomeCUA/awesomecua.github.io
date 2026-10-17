@@ -16,9 +16,16 @@ Bibliographic record for Quantum reservoir computing using arrays of Rydberg ato
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2111-10956/record.json
+
 ## Authors
 
 Rodrigo Araiza Bravo, Khadijeh Najafi, Xun Gao, Susanne F. Yelin
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2111-10956/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2111-10956/citation.csl.json
 
 ## Recorded arXiv snapshot
 

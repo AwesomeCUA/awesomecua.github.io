@@ -16,9 +16,16 @@ Bibliographic record for MagicGUI-RMS: A Multi-Agent Reward Model System for Sel
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-13060/record.json
+
 ## Authors
 
 Zecheng Li, Zhihui Cao, Wenke Huang, Yudong Zhang, Keying Qi, Rui Wang, Zeyu Zheng, Jian Zhao, Hao Zhu, Hengxin Wu, Yuran Wang, Guitao Fan, Guokun Wu, Yicong Liu, Zhilin Gao, Haikun Xu, He Yang, Minqi Xiang, Xingyu Liu, Zuojian Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-13060/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-13060/citation.csl.json
 
 ## Recorded arXiv snapshot
 

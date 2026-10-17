@@ -16,9 +16,16 @@ Introduces a native iOS simulator benchmark with persistent user data, multi-app
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-09764/record.json
+
 ## Authors
 
 Lawrence Keunho Jang, Mareks Woodside, Geronimo Carom, Andrew Keunwoo Jang, Jing Yu Koh, Ruslan Salakhutdinov
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-09764/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-09764/citation.csl.json
 
 ## Recorded arXiv snapshot
 

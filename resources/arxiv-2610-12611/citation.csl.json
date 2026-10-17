@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2610.12611",
+  "citation-key": "arxiv_2610_12611",
+  "type": "article",
+  "title": "SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments",
+  "URL": "https://arxiv.org/abs/2610.12611v2",
+  "custom": {
+    "catalog_id": "arxiv:2610.12611",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.12611",
+    "identifiers": {
+      "arxiv": "2610.12611"
+    },
+    "first_published_at": "2026-10-08",
+    "record_updated_at": "2026-10-14",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "06b25b25e804683e11305e21dd04feb9131aad27f901998eda70ac91e527c6b9",
+      "submitted_at": "2026-10-08T18:31:16Z",
+      "updated_at": "2026-10-14T08:40:10Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2610.12611v2"
+    }
+  },
+  "note": "First published: 2026-10-08; Recorded arXiv version: v2; Recorded version updated: 2026-10-14T08:40:10Z.",
+  "author": [
+    {
+      "literal": "Tian Jin"
+    },
+    {
+      "literal": "Wenhao Wang"
+    },
+    {
+      "literal": "Jing Kang"
+    },
+    {
+      "literal": "Haoting Shi"
+    },
+    {
+      "literal": "Rui Ye"
+    },
+    {
+      "literal": "Yijun Lu"
+    },
+    {
+      "literal": "Siheng Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.12611",
+  "genre": "preprint",
+  "version": "2"
+}

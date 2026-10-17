@@ -16,9 +16,16 @@ Bibliographic record for AutoGUI-v2: A Comprehensive Multi-Modal GUI Functionali
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-24441/record.json
+
 ## Authors
 
 Hongxin Li, Xiping Wang, Jingran Su, Zheng Ju, Yuntao Chen, Qing Li, Zhaoxiang Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-24441/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-24441/citation.csl.json
 
 ## Recorded arXiv snapshot
 

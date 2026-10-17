@@ -16,6 +16,8 @@ Human demonstrations of Android tasks with screenshots and touch actions.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/component-google-research-android-in-the-wild/record.json
+
 ## Structured profile
 
 - formats: GZIP-compressed TFRecord

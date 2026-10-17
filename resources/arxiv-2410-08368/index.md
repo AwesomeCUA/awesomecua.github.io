@@ -16,9 +16,16 @@ Bibliographic record for ElasticTok: Adaptive Tokenization for Image and Video. 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2410-08368/record.json
+
 ## Authors
 
 Wilson Yan, Volodymyr Mnih, Aleksandra Faust, Matei Zaharia, Pieter Abbeel, Hao Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2410-08368/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2410-08368/citation.csl.json
 
 ## Recorded arXiv snapshot
 

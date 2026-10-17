@@ -16,9 +16,16 @@ Bibliographic record for Agent Skills Enable a New Class of Realistic and Trivia
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-26328/record.json
+
 ## Authors
 
 David Schmotz, Sahar Abdelnabi, Maksym Andriushchenko
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-26328/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-26328/citation.csl.json
 
 ## Recorded arXiv snapshot
 

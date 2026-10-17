@@ -16,6 +16,8 @@ Mobile-agent supervision from emulator and simulator trajectories, plus executab
 
 The reviewed card contains no explicit license declaration, so data-license status remains unknown. The repository code license is not inherited. The current code README points to the v2 dataset; an older project-page URL was not counted as a separate asset.
 
+- Record JSON: https://awesomecua.github.io/resources/url-546e6c95825d1318c98d/record.json
+
 ## Structured profile
 
 - formats: JSON, JSONL, PNG

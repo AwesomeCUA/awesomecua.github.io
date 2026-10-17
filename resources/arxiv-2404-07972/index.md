@@ -16,9 +16,16 @@ Introduces a real-computer evaluation environment with execution-based checks fo
 
 Editorial summary based on the primary paper abstract; experiments and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2404-07972/record.json
+
 ## Authors
 
 Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, Tao Yu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2404-07972/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2404-07972/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2004.08495",
+  "citation-key": "arxiv_2004_08495",
+  "type": "article",
+  "title": "BReG-NeXt: Facial Affect Computing Using Adaptive Residual Networks With Bounded Gradient",
+  "URL": "https://arxiv.org/abs/2004.08495v1",
+  "custom": {
+    "catalog_id": "arxiv:2004.08495",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2004.08495",
+    "identifiers": {
+      "arxiv": "2004.08495"
+    },
+    "first_published_at": "2020-04-18",
+    "record_updated_at": "2020-04-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "325421d070c8a503b0beb13c5c1d0be0d989335027874269e754ab88e940856f",
+      "submitted_at": "2020-04-18T00:26:36Z",
+      "updated_at": "2020-04-18T00:26:36Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2004.08495v1"
+    }
+  },
+  "note": "First published: 2020-04-18; Recorded arXiv version: v1; Recorded version updated: 2020-04-18T00:26:36Z.",
+  "author": [
+    {
+      "literal": "Behzad Hasani"
+    },
+    {
+      "literal": "Pooran Singh Negi"
+    },
+    {
+      "literal": "Mohammad H. Mahoor"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        4,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2004.08495",
+  "genre": "preprint",
+  "version": "1"
+}

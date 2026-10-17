@@ -16,9 +16,16 @@ Bibliographic record for AutoTailor: Automatic, User-Aligned Capability Selectio
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-13548/record.json
+
 ## Authors
 
 Xinyun Cao, Adriana Szekeres, Fazle Elahi Faisal
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-13548/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-13548/citation.csl.json
 
 ## Recorded arXiv snapshot
 

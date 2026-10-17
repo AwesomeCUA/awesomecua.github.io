@@ -16,6 +16,8 @@ Released model checkpoint associated with Open-AutoGLM.
 
 Inclusion does not establish reproducibility or endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/url-d236e7ec7a2b0028950a/record.json
+
 ## License declarations
 
 - code: not recorded

@@ -16,9 +16,16 @@ Bibliographic record for Toward a standardized methodology for constructing quan
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2006-05846/record.json
+
 ## Authors
 
 Nicholas Chancellor, Robert Cumming, Tim Thomas
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2006-05846/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2006-05846/citation.csl.json
 
 ## Recorded arXiv snapshot
 

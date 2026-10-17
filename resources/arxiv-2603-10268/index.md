@@ -16,9 +16,16 @@ SpecOps divides testing of GUI-based agents into test generation, environment se
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2603-10268/record.json
+
 ## Authors
 
 Syed Yusuf Ahmed, Shiwei Feng, Chanwoo Bae, Calix Barrus Xiangyu Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2603-10268/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2603-10268/citation.csl.json
 
 ## Recorded arXiv snapshot
 

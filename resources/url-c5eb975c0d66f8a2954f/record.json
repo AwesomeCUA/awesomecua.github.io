@@ -1,0 +1,112 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/zai-org/cogagent-9b-20241220/tree/main",
+    "gated": false,
+    "hub_id": "zai-org/cogagent-9b-20241220"
+  },
+  "environments": [
+    "windows",
+    "macos",
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:44:29Z",
+      "role": "primary",
+      "sha256": "de2c8e7a9792c3d129451ec813d458f83263460a5808cf87c45b04b260a376c9",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/zai-org/cogagent-9b-20241220/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:45:05Z",
+      "role": "primary",
+      "sha256": "ae72fbc40f9c8afd52d1688b2233e5c915571de33618cfd1ffcb7f3fadfb4402",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/api/models/zai-org/cogagent-9b-20241220"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:44:29Z",
+      "role": "primary",
+      "sha256": "ae72fbc40f9c8afd52d1688b2233e5c915571de33618cfd1ffcb7f3fadfb4402",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://huggingface.co/api/models/THUDM/cogagent-9b-20241220"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T02:45:20Z",
+      "role": "primary",
+      "sha256": "c1ad1d99a8d46a00610db35d97c787d10b7e81661e48a1e389ae6cbb51a45630",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/zai-org/cogagent-9b-20241220/raw/main/LICENSE"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T02:44:29Z",
+      "role": "primary",
+      "sha256": "de2c8e7a9792c3d129451ec813d458f83263460a5808cf87c45b04b260a376c9",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/zai-org/cogagent-9b-20241220/raw/main/README.md"
+    }
+  ],
+  "id": "url:c5eb975c0d66f8a2954f",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T02:44:29Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "other",
+      "retrieved_at": "2026-10-17T02:44:29Z",
+      "url": "https://huggingface.co/zai-org/cogagent-9b-20241220/raw/main/README.md"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/zai-org/cogagent-9b-20241220"
+    }
+  ],
+  "name": "CogAgent 9B 20241220",
+  "notes": "The former THUDM model URL resolves to zai-org. Six public safetensors shards are present. Weights use the custom CogAgent License, including a registration requirement for commercial use, rather than a blanket permissive license. The card cites the 2023 CogAgent paper as previous work and links a later technical report; no claim that the old paper documents this 2024 checkpoint is asserted.",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A bilingual GLM-4V-based execution model that uses screenshots, task instructions and action history to predict GUI operations.",
+  "topics": [
+    "grounding",
+    "action-prediction",
+    "screen-understanding"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/zai-org/cogagent-9b-20241220"
+}

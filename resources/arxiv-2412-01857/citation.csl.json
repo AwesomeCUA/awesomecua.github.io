@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2412.01857",
+  "citation-key": "arxiv_2412_01857",
+  "type": "article",
+  "title": "Planning from Imagination: Episodic Simulation and Episodic Memory for Vision-and-Language Navigation",
+  "URL": "https://arxiv.org/abs/2412.01857v2",
+  "custom": {
+    "catalog_id": "arxiv:2412.01857",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2412.01857",
+    "identifiers": {
+      "arxiv": "2412.01857"
+    },
+    "first_published_at": "2024-11-30",
+    "record_updated_at": "2024-12-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "60ef3b209e3106b94c11703c505501e3530df8247c4df5418514490a60b75227",
+      "submitted_at": "2024-11-30T16:49:14Z",
+      "updated_at": "2024-12-25T08:59:53Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2412.01857v2"
+    }
+  },
+  "note": "First published: 2024-11-30; Recorded arXiv version: v2; Recorded version updated: 2024-12-25T08:59:53Z.",
+  "author": [
+    {
+      "literal": "Yiyuan Pan"
+    },
+    {
+      "literal": "Yunzhe Xu"
+    },
+    {
+      "literal": "Zhe Liu"
+    },
+    {
+      "literal": "Hesheng Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2412.01857",
+  "genre": "preprint",
+  "version": "2"
+}

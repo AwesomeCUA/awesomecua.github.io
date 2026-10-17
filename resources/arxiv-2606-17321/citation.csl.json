@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2606.17321",
+  "citation-key": "arxiv_2606_17321",
+  "type": "article",
+  "title": "ProCUA-SFT Technical Report",
+  "URL": "https://arxiv.org/abs/2606.17321v1",
+  "custom": {
+    "catalog_id": "arxiv:2606.17321",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.17321",
+    "identifiers": {
+      "arxiv": "2606.17321"
+    },
+    "first_published_at": "2026-06-15",
+    "record_updated_at": "2026-06-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d7e6e0b66f2923cb66ab7aa404bedf9f4e1c73ae00df2e9fbfa7a5c3795cac4c",
+      "submitted_at": "2026-06-15T22:04:11Z",
+      "updated_at": "2026-06-15T22:04:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2606.17321v1"
+    }
+  },
+  "note": "First published: 2026-06-15; Recorded arXiv version: v1; Recorded version updated: 2026-06-15T22:04:11Z.",
+  "author": [
+    {
+      "literal": "Jaehun Jung"
+    },
+    {
+      "literal": "Ximing Lu"
+    },
+    {
+      "literal": "Brandon Cui"
+    },
+    {
+      "literal": "Muhammad Khalifa"
+    },
+    {
+      "literal": "Shaokun Zhang"
+    },
+    {
+      "literal": "Hao Zhang"
+    },
+    {
+      "literal": "Jin Xu"
+    },
+    {
+      "literal": "Amala Sanjay Deshmukh"
+    },
+    {
+      "literal": "Karan Sapra"
+    },
+    {
+      "literal": "Andrew Tao"
+    },
+    {
+      "literal": "Yejin Choi"
+    },
+    {
+      "literal": "Jan Kautz"
+    },
+    {
+      "literal": "Mingjie Liu"
+    },
+    {
+      "literal": "Yi Dong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.17321",
+  "genre": "preprint",
+  "version": "1"
+}

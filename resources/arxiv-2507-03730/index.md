@@ -16,9 +16,16 @@ SimpAgent prunes distracting interface elements with visual masks and compresses
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2507-03730/record.json
+
 ## Authors
 
 Gongwei Chen, Xurui Zhou, Rui Shao, Yibo Lyu, Kaiwen Zhou, Shuai Wang, Wentao Li, Yinchuan Li, Zhongang Qi, Liqiang Nie
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2507-03730/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2507-03730/citation.csl.json
 
 ## Recorded arXiv snapshot
 

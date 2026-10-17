@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2504.11788",
+  "citation-key": "arxiv_2504_11788",
+  "type": "article",
+  "title": "WebRollback: Enhancing Web Agents with Explicit Rollback Mechanisms",
+  "URL": "https://arxiv.org/abs/2504.11788v3",
+  "custom": {
+    "catalog_id": "arxiv:2504.11788",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2504.11788",
+    "identifiers": {
+      "arxiv": "2504.11788"
+    },
+    "first_published_at": "2025-04-16",
+    "record_updated_at": "2026-01-15",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "76f84d5375ab7321512a1f4f8724c011cf180bf5a7a0d532ff3218cc9d7a6e75",
+      "submitted_at": "2025-04-16T05:41:20Z",
+      "updated_at": "2026-01-15T02:00:45Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2504.11788v3"
+    }
+  },
+  "note": "First published: 2025-04-16; Recorded arXiv version: v3; Recorded version updated: 2026-01-15T02:00:45Z.",
+  "author": [
+    {
+      "literal": "Zhisong Zhang"
+    },
+    {
+      "literal": "Tianqing Fang"
+    },
+    {
+      "literal": "Kaixin Ma"
+    },
+    {
+      "literal": "Wenhao Yu"
+    },
+    {
+      "literal": "Hongming Zhang"
+    },
+    {
+      "literal": "Haitao Mi"
+    },
+    {
+      "literal": "Dong Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.11788",
+  "genre": "preprint",
+  "version": "3"
+}

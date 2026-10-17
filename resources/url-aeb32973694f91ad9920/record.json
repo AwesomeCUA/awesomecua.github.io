@@ -1,0 +1,97 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/mPLUG/GUI-Owl-7B/tree/main",
+    "gated": false,
+    "hub_id": "mPLUG/GUI-Owl-7B"
+  },
+  "environments": [
+    "android",
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:03:41Z",
+      "role": "primary",
+      "sha256": "a0e6dd76aee6f138c15f244f4e2e8ba650b8829295397fdbfa839a8edf852b57",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "details"
+      ],
+      "url": "https://huggingface.co/mPLUG/GUI-Owl-7B/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T04:03:40Z",
+      "role": "primary",
+      "sha256": "4822eab7fd35e583d52db7369d7d929d69dbde66b27c9da3d370cad9ec06ec89",
+      "supports": [
+        "identity",
+        "release_status",
+        "details",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/api/models/mPLUG/GUI-Owl-7B"
+    },
+    {
+      "method": "huggingface_card",
+      "retrieved_at": "2026-10-17T04:03:41Z",
+      "role": "primary",
+      "sha256": "a0e6dd76aee6f138c15f244f4e2e8ba650b8829295397fdbfa839a8edf852b57",
+      "supports": [
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/mPLUG/GUI-Owl-7B/raw/main/README.md"
+    }
+  ],
+  "id": "url:aeb32973694f91ad9920",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T04:03:41Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+      "declared": "mit",
+      "retrieved_at": "2026-10-17T04:03:41Z",
+      "url": "https://huggingface.co/mPLUG/GUI-Owl-7B/raw/main/README.md"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/mPLUG/GUI-Owl-7B"
+    }
+  ],
+  "name": "GUI-Owl 7B",
+  "notes": "Five public safetensors shards are present. MIT is declared in this model card. This record identifies the original 7B release; other sizes and later GUI-Owl generations are not aliases or assumed to share its exact terms. The online demo is still marked forthcoming.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/mPLUG/GUI-Owl-7B/raw/main/README.md",
+      "target_id": "arxiv:2508.15144",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A Qwen2.5-VL-based GUI checkpoint released with Mobile-Agent-v3 for grounded actions and specialized roles in its agent framework.",
+  "topics": [
+    "grounding",
+    "action-prediction",
+    "planning"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/mPLUG/GUI-Owl-7B"
+}

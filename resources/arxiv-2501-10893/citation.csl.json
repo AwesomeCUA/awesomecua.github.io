@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2501.10893",
+  "citation-key": "arxiv_2501_10893",
+  "type": "article",
+  "title": "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments",
+  "URL": "https://arxiv.org/abs/2501.10893v1",
+  "custom": {
+    "catalog_id": "arxiv:2501.10893",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2501.10893",
+    "identifiers": {
+      "arxiv": "2501.10893"
+    },
+    "first_published_at": "2025-01-18",
+    "record_updated_at": "2025-01-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cd2a8cf1ddaced56f7a2a74ef2c1a6b8b0822b3fdbdde30796d08635b68484b0",
+      "submitted_at": "2025-01-18T22:34:41Z",
+      "updated_at": "2025-01-18T22:34:41Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2501.10893v1"
+    }
+  },
+  "note": "First published: 2025-01-18; Recorded arXiv version: v1; Recorded version updated: 2025-01-18T22:34:41Z.",
+  "author": [
+    {
+      "literal": "Hongjin Su"
+    },
+    {
+      "literal": "Ruoxi Sun"
+    },
+    {
+      "literal": "Jinsung Yoon"
+    },
+    {
+      "literal": "Pengcheng Yin"
+    },
+    {
+      "literal": "Tao Yu"
+    },
+    {
+      "literal": "Sercan Ö. Arık"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2501.10893",
+  "genre": "preprint",
+  "version": "1"
+}

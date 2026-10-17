@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2605.19260",
+  "citation-key": "arxiv_2605_19260",
+  "type": "article",
+  "title": "AQuaUI: Visual Token Reduction for GUI Agents with Adaptive Quadtrees",
+  "URL": "https://arxiv.org/abs/2605.19260v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.19260",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.19260",
+    "identifiers": {
+      "arxiv": "2605.19260"
+    },
+    "first_published_at": "2026-05-19",
+    "record_updated_at": "2026-05-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d4fc83b6ed8bdaf4d2ab9512c41d7217c95973e6bac59a2c0892a51d4531dc0a",
+      "submitted_at": "2026-05-19T02:13:29Z",
+      "updated_at": "2026-05-19T02:13:29Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.19260v1"
+    }
+  },
+  "note": "First published: 2026-05-19; Recorded arXiv version: v1; Recorded version updated: 2026-05-19T02:13:29Z.",
+  "author": [
+    {
+      "literal": "Yuankai Li"
+    },
+    {
+      "literal": "Tinghui Zhu"
+    },
+    {
+      "literal": "Ha Min Son"
+    },
+    {
+      "literal": "Zhe Zhao"
+    },
+    {
+      "literal": "Xin Liu"
+    },
+    {
+      "literal": "Muhao Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.19260",
+  "genre": "preprint",
+  "version": "1"
+}

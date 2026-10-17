@@ -16,9 +16,16 @@ Bibliographic record for InterMimic: Towards Universal Whole-Body Control for Ph
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2502-20390/record.json
+
 ## Authors
 
 Sirui Xu, Hung Yu Ling, Yu-Xiong Wang, Liang-Yan Gui
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2502-20390/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2502-20390/citation.csl.json
 
 ## Recorded arXiv snapshot
 

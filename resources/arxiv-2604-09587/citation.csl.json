@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2604.09587",
+  "citation-key": "arxiv_2604_09587",
+  "type": "article",
+  "title": "MobiFlow: Real-World Mobile Agent Benchmarking through Trajectory Fusion",
+  "URL": "https://arxiv.org/abs/2604.09587v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.09587",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.09587",
+    "identifiers": {
+      "arxiv": "2604.09587"
+    },
+    "first_published_at": "2026-02-28",
+    "record_updated_at": "2026-02-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "564a51339bcf082a06f42ead8eb1b475f9cc267773f2703084c502c084983c4d",
+      "submitted_at": "2026-02-28T14:30:33Z",
+      "updated_at": "2026-02-28T14:30:33Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.09587v1"
+    }
+  },
+  "note": "First published: 2026-02-28; Recorded arXiv version: v1; Recorded version updated: 2026-02-28T14:30:33Z.",
+  "author": [
+    {
+      "literal": "Yunfei Feng"
+    },
+    {
+      "literal": "Xi Zhao"
+    },
+    {
+      "literal": "Cheng Zhang"
+    },
+    {
+      "literal": "Dahu Feng"
+    },
+    {
+      "literal": "Daolin Cheng"
+    },
+    {
+      "literal": "Jianqi Yu"
+    },
+    {
+      "literal": "Yubin Xia"
+    },
+    {
+      "literal": "Erhu Feng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.09587",
+  "genre": "preprint",
+  "version": "1"
+}

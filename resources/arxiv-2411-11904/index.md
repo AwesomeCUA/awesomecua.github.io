@@ -16,9 +16,16 @@ Bibliographic record for GeoGround: A Unified Large Vision-Language Model for Re
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-11904/record.json
+
 ## Authors
 
 Yue Zhou, Mengcheng Lan, Xiang Li, Litong Feng, Yiping Ke, Xue Jiang, Qingyun Li, Xue Yang, Wayne Zhang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-11904/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-11904/citation.csl.json
 
 ## Recorded arXiv snapshot
 

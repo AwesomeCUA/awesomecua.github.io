@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2601.20732",
+  "citation-key": "arxiv_2601_20732",
+  "type": "article",
+  "title": "Continual GUI Agents",
+  "URL": "https://arxiv.org/abs/2601.20732v4",
+  "custom": {
+    "catalog_id": "arxiv:2601.20732",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.20732",
+    "identifiers": {
+      "arxiv": "2601.20732"
+    },
+    "first_published_at": "2026-01-28",
+    "record_updated_at": "2026-03-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1083cf063ccf1781f2cdfe5e266b75b52079fd12ad16d05755577b880c010aec",
+      "submitted_at": "2026-01-28T16:06:31Z",
+      "updated_at": "2026-03-25T10:25:50Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2601.20732v4"
+    }
+  },
+  "note": "First published: 2026-01-28; Recorded arXiv version: v4; Recorded version updated: 2026-03-25T10:25:50Z.",
+  "author": [
+    {
+      "literal": "Ziwei Liu"
+    },
+    {
+      "literal": "Borui Kang"
+    },
+    {
+      "literal": "Hangjie Yuan"
+    },
+    {
+      "literal": "Zixiang Zhao"
+    },
+    {
+      "literal": "Wei Li"
+    },
+    {
+      "literal": "Yifan Zhu"
+    },
+    {
+      "literal": "Tao Feng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.20732",
+  "genre": "preprint",
+  "version": "4"
+}

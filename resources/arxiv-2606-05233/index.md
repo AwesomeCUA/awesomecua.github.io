@@ -16,9 +16,16 @@ Bibliographic record for Domain-Conditioned Safety in Frontier Computer-Using Ag
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-05233/record.json
+
 ## Authors
 
 Nicholas Saban
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-05233/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-05233/citation.csl.json
 
 ## Recorded arXiv snapshot
 

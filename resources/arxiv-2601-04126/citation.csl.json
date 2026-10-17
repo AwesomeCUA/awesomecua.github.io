@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2601.04126",
+  "citation-key": "arxiv_2601_04126",
+  "type": "article",
+  "title": "InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training",
+  "URL": "https://arxiv.org/abs/2601.04126v3",
+  "custom": {
+    "catalog_id": "arxiv:2601.04126",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.04126",
+    "identifiers": {
+      "arxiv": "2601.04126"
+    },
+    "first_published_at": "2026-01-07",
+    "record_updated_at": "2026-06-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d4d0a59f1eb8197b4d389f5f40957fb8aeb1e22d0739f9877b26d57ed70fe59b",
+      "submitted_at": "2026-01-07T17:40:08Z",
+      "updated_at": "2026-06-30T13:54:32Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2601.04126v3"
+    }
+  },
+  "note": "First published: 2026-01-07; Recorded arXiv version: v3; Recorded version updated: 2026-06-30T13:54:32Z.",
+  "author": [
+    {
+      "literal": "Ziyun Zhang"
+    },
+    {
+      "literal": "Zezhou Wang"
+    },
+    {
+      "literal": "Xiaoyi Zhang"
+    },
+    {
+      "literal": "Zongyu Guo"
+    },
+    {
+      "literal": "Jiahao Li"
+    },
+    {
+      "literal": "Bin Li"
+    },
+    {
+      "literal": "Yan Lu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.04126",
+  "genre": "preprint",
+  "version": "3"
+}

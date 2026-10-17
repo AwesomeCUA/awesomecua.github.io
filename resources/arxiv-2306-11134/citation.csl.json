@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2306.11134",
+  "citation-key": "arxiv_2306_11134",
+  "type": "article",
+  "title": "OpenP5: An Open-Source Platform for Developing, Training, and Evaluating LLM-based Recommender Systems",
+  "URL": "https://arxiv.org/abs/2306.11134v2",
+  "custom": {
+    "catalog_id": "arxiv:2306.11134",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2306.11134",
+    "identifiers": {
+      "arxiv": "2306.11134"
+    },
+    "first_published_at": "2023-06-19",
+    "record_updated_at": "2024-04-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "71a97724462f60a55159087d5fbe43befffca0b4a5055dc9fab5423a522ab5e4",
+      "submitted_at": "2023-06-19T19:38:29Z",
+      "updated_at": "2024-04-11T02:42:07Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2306.11134v2"
+    }
+  },
+  "note": "First published: 2023-06-19; Recorded arXiv version: v2; Recorded version updated: 2024-04-11T02:42:07Z.",
+  "author": [
+    {
+      "literal": "Shuyuan Xu"
+    },
+    {
+      "literal": "Wenyue Hua"
+    },
+    {
+      "literal": "Yongfeng Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        6,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2306.11134",
+  "genre": "preprint",
+  "version": "2"
+}

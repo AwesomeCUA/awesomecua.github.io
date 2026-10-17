@@ -16,6 +16,8 @@ Code for screenshot grounding through supervised training, teacher-guided distil
 
 The repository documents separate training-stage environments. Code, model weights, and ScreenRef data have distinct license declarations; no training or benchmark execution was reproduced here.
 
+- Record JSON: https://awesomecua.github.io/resources/github-prentisai-groundgui/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/PrentisAI/GroundGUI/HEAD/LICENSE

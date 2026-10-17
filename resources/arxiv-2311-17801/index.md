@@ -16,9 +16,16 @@ Bibliographic record for Towards Efficient Hyperdimensional Computing Using Phot
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-17801/record.json
+
 ## Authors
 
 Farbin Fayza, Cansu Demirkiran, Hanning Chen, Che-Kai Liu, Avi Mohan, Hamza Errahmouni, Sanggeon Yun, Mohsen Imani, David Zhang, Darius Bunandar, Ajay Joshi
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-17801/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-17801/citation.csl.json
 
 ## Recorded arXiv snapshot
 

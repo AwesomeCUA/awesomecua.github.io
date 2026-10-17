@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2505.14963",
+  "citation-key": "arxiv_2505_14963",
+  "type": "article",
+  "title": "MedBrowseComp: Benchmarking Medical Deep Research and Computer Use",
+  "URL": "https://arxiv.org/abs/2505.14963v1",
+  "custom": {
+    "catalog_id": "arxiv:2505.14963",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.14963",
+    "identifiers": {
+      "arxiv": "2505.14963"
+    },
+    "first_published_at": "2025-05-20",
+    "record_updated_at": "2025-05-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a227e1d3ab5d05be9df0de9df0de1ae4842c2757ba522304feca3b6008473661",
+      "submitted_at": "2025-05-20T22:42:33Z",
+      "updated_at": "2025-05-20T22:42:33Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2505.14963v1"
+    }
+  },
+  "note": "First published: 2025-05-20; Recorded arXiv version: v1; Recorded version updated: 2025-05-20T22:42:33Z.",
+  "author": [
+    {
+      "literal": "Shan Chen"
+    },
+    {
+      "literal": "Pedro Moreira"
+    },
+    {
+      "literal": "Yuxin Xiao"
+    },
+    {
+      "literal": "Sam Schmidgall"
+    },
+    {
+      "literal": "Jeremy Warner"
+    },
+    {
+      "literal": "Hugo Aerts"
+    },
+    {
+      "literal": "Thomas Hartvigsen"
+    },
+    {
+      "literal": "Jack Gallifant"
+    },
+    {
+      "literal": "Danielle S. Bitterman"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.14963",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2606.23189",
+  "citation-key": "arxiv_2606_23189",
+  "type": "article",
+  "title": "Capable but Careless: Do Computer-Use Agents Follow Contextual Integrity?",
+  "URL": "https://arxiv.org/abs/2606.23189v2",
+  "custom": {
+    "catalog_id": "arxiv:2606.23189",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2606.23189",
+    "identifiers": {
+      "arxiv": "2606.23189"
+    },
+    "first_published_at": "2026-06-22",
+    "record_updated_at": "2026-09-10",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "da8190bc5afc0bae400fc8ab5e7d80a7f34488c3400dce4477ca61635b19d5b7",
+      "submitted_at": "2026-06-22T11:36:58Z",
+      "updated_at": "2026-09-10T18:49:54Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2606.23189v2"
+    }
+  },
+  "note": "First published: 2026-06-22; Recorded arXiv version: v2; Recorded version updated: 2026-09-10T18:49:54Z.",
+  "author": [
+    {
+      "literal": "Anmol Goel"
+    },
+    {
+      "literal": "Iryna Gurevych"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.23189",
+  "genre": "preprint",
+  "version": "2"
+}

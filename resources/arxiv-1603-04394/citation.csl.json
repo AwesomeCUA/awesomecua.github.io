@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:1603.04394",
+  "citation-key": "arxiv_1603_04394",
+  "type": "article",
+  "title": "Internet Computing: Using Reputation to Select Workers from a Pool",
+  "URL": "https://arxiv.org/abs/1603.04394v2",
+  "custom": {
+    "catalog_id": "arxiv:1603.04394",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1603.04394",
+    "identifiers": {
+      "arxiv": "1603.04394"
+    },
+    "first_published_at": "2016-03-14",
+    "record_updated_at": "2016-03-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "db570f4f7c1af30eb3738cbda9cd694eb12e562744716b5495247cd98aeb26b0",
+      "submitted_at": "2016-03-14T19:07:53Z",
+      "updated_at": "2016-03-30T09:09:13Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/1603.04394v2"
+    }
+  },
+  "note": "First published: 2016-03-14; Recorded arXiv version: v2; Recorded version updated: 2016-03-30T09:09:13Z.",
+  "author": [
+    {
+      "literal": "Evgenia Christoforou"
+    },
+    {
+      "literal": "Antonio Fernández Anta"
+    },
+    {
+      "literal": "Chryssis Georgiou"
+    },
+    {
+      "literal": "Miguel A. Mosteiro"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2016,
+        3,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1603.04394",
+  "genre": "preprint",
+  "version": "2"
+}

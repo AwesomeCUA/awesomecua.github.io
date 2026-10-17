@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2406.01623",
+  "citation-key": "arxiv_2406_01623",
+  "type": "article",
+  "title": "WebSuite: Systematically Evaluating Why Web Agents Fail",
+  "URL": "https://arxiv.org/abs/2406.01623v1",
+  "custom": {
+    "catalog_id": "arxiv:2406.01623",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2406.01623",
+    "identifiers": {
+      "arxiv": "2406.01623"
+    },
+    "first_published_at": "2024-06-01",
+    "record_updated_at": "2024-06-01",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b9a728edf0b834adb72abfc50e13d5b2b52f532f444b3e8af34effd3d86beb1b",
+      "submitted_at": "2024-06-01T00:32:26Z",
+      "updated_at": "2024-06-01T00:32:26Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2406.01623v1"
+    }
+  },
+  "note": "First published: 2024-06-01; Recorded arXiv version: v1; Recorded version updated: 2024-06-01T00:32:26Z.",
+  "author": [
+    {
+      "literal": "Eric Li"
+    },
+    {
+      "literal": "Jim Waldo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2406.01623",
+  "genre": "preprint",
+  "version": "1"
+}

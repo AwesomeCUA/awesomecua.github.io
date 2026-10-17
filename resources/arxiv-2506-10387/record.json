@@ -1,0 +1,95 @@
+{
+  "aliases": [],
+  "authors": [
+    "Yuquan Xie",
+    "Zaijing Li",
+    "Rui Shao",
+    "Gongwei Chen",
+    "Kaiwen Zhou",
+    "Yinchuan Li",
+    "Dongmei Jiang",
+    "Liqiang Nie"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9b353606ce29a5bc60d263e86827a825af46883e25da5bd290b48affa9dd3838",
+      "submitted_at": "2025-06-12T06:21:19Z",
+      "updated_at": "2025-06-12T06:21:19Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2506.10387v1"
+    }
+  },
+  "environments": [
+    "android",
+    "web",
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-16T06:36:50Z",
+      "role": "primary",
+      "sha256": "26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:50Z",
+      "role": "primary",
+      "sha256": "26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2506.10387",
+  "identifiers": {
+    "arxiv": "2506.10387"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-16T06:36:50Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2506.10387"
+    }
+  ],
+  "name": "Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills",
+  "notes": "The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.",
+  "published_at": "2025-06-12",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Mirage-1 organizes interaction trajectories into execution, core, and meta-skills, then uses them to guide Monte Carlo tree search during online GUI tasks. It introduces AndroidLH for long-horizon evaluation and tests the approach on Android and web-navigation benchmarks.",
+  "topics": [
+    "planning",
+    "memory",
+    "long-horizon",
+    "mobile-navigation",
+    "web-navigation"
+  ],
+  "updated_at": "2025-06-12",
+  "url": "https://arxiv.org/abs/2506.10387"
+}

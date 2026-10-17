@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2510.19207",
+  "citation-key": "arxiv_2510_19207",
+  "type": "article",
+  "title": "Defending Against Prompt Injection with DataFilter",
+  "URL": "https://arxiv.org/abs/2510.19207v2",
+  "custom": {
+    "catalog_id": "arxiv:2510.19207",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.19207",
+    "identifiers": {
+      "arxiv": "2510.19207"
+    },
+    "first_published_at": "2025-10-22",
+    "record_updated_at": "2026-02-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5a44ad3762b1b547e22d24b45197ed887b1c57df1227cf89912700b0f0cc682d",
+      "submitted_at": "2025-10-22T03:30:49Z",
+      "updated_at": "2026-02-04T07:26:47Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2510.19207v2"
+    }
+  },
+  "note": "First published: 2025-10-22; Recorded arXiv version: v2; Recorded version updated: 2026-02-04T07:26:47Z.",
+  "author": [
+    {
+      "literal": "Yizhu Wang"
+    },
+    {
+      "literal": "Sizhe Chen"
+    },
+    {
+      "literal": "Raghad Alkhudair"
+    },
+    {
+      "literal": "Basel Alomair"
+    },
+    {
+      "literal": "David Wagner"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.19207",
+  "genre": "preprint",
+  "version": "2"
+}

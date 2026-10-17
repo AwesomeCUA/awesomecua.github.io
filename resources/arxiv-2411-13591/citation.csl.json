@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:2411.13591",
+  "citation-key": "arxiv_2411_13591",
+  "type": "article",
+  "title": "Improved GUI Grounding via Iterative Narrowing",
+  "URL": "https://arxiv.org/abs/2411.13591v7",
+  "custom": {
+    "catalog_id": "arxiv:2411.13591",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2411.13591",
+    "identifiers": {
+      "arxiv": "2411.13591"
+    },
+    "first_published_at": "2024-11-18",
+    "record_updated_at": "2025-09-11",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b639d016daf616a5f58656d2a291505cd82f7765c47638a515e359210fd56779",
+      "submitted_at": "2024-11-18T05:47:12Z",
+      "updated_at": "2025-09-11T16:37:00Z",
+      "version": 7,
+      "versioned_url": "https://arxiv.org/abs/2411.13591v7"
+    }
+  },
+  "note": "First published: 2024-11-18; Recorded arXiv version: v7; Recorded version updated: 2025-09-11T16:37:00Z.",
+  "author": [
+    {
+      "literal": "Anthony Nguyen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2411.13591",
+  "genre": "preprint",
+  "version": "7"
+}

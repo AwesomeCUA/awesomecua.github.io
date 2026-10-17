@@ -16,6 +16,8 @@ Trajectory collection and revision utilities that use tree search and model-guid
 
 The canonical repository is ByteDance-Seed/Agent-R and is archived but readable. MCTS collection, revision and evaluation scripts are released under Apache-2.0. It also supports non-GUI text environments; this entry covers its WebShop interaction component. No separate weight release was verified.
 
+- Record JSON: https://awesomecua.github.io/resources/github-bytedance-seed-agent-r/record.json
+
 ## License declarations
 
 - code: Apache-2.0 — https://raw.githubusercontent.com/ByteDance-Seed/Agent-R/HEAD/LICENSE

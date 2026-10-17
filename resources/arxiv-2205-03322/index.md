@@ -16,9 +16,16 @@ Bibliographic record for Private delegated computations using strong isolation. 
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2205-03322/record.json
+
 ## Authors
 
 Mathias Brossard, Guilhem Bryant, Basma El Gaabouri, Xinxin Fan, Alexandre Ferreira, Edmund Grimley-Evans, Christopher Haster, Evan Johnson, Derek Miller, Fan Mo, Dominic P. Mulligan, Nick Spinale, Eric van Hensbergen, Hugo J. M. Vincent, Shale Xiong
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2205-03322/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2205-03322/citation.csl.json
 
 ## Recorded arXiv snapshot
 

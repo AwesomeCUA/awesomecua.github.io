@@ -16,9 +16,16 @@ Bibliographic record for Secure Serverless Computing Using Dynamic Information F
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1802-08984/record.json
+
 ## Authors
 
 Kalev Alpernas, Cormac Flanagan, Sadjad Fouladi, Leonid Ryzhyk, Mooly Sagiv, Thomas Schmitz, Keith Winstein
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1802-08984/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1802-08984/citation.csl.json
 
 ## Recorded arXiv snapshot
 

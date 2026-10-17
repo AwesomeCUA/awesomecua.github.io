@@ -16,6 +16,8 @@ Planner and action-executor training examples for WebArena-Lite and WebVoyager, 
 
 The public manifest exposes JSON/JSONL data for planner and actor roles, including train and validation variants. The card declares MIT. Its loading examples use a different Hub repository identifier and omit the data/ prefix for one file; use the inspected xTRam1 manifest rather than copying those examples verbatim. Third-party site content retains its own terms.
 
+- Record JSON: https://awesomecua.github.io/resources/url-ba6453cfdae0eb049ced/record.json
+
 ## Structured profile
 
 - formats: JSON, JSONL

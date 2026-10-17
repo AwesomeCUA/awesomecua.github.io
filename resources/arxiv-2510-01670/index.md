@@ -16,9 +16,16 @@ Bibliographic record for Just Do It!? Computer-Use Agents Exhibit Blind Goal-Dir
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2510-01670/record.json
+
 ## Authors
 
 Erfan Shayegani, Keegan Hines, Yue Dong, Nael Abu-Ghazaleh, Roman Lutz, Spencer Whitehead, Vidhisha Balachandran, Besmira Nushi, Vibhav Vineet
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2510-01670/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2510-01670/citation.csl.json
 
 ## Recorded arXiv snapshot
 

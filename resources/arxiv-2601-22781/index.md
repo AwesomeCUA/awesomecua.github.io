@@ -16,9 +16,16 @@ Bibliographic record for Learning with Challenges: Adaptive Difficulty-Aware Dat
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2601-22781/record.json
+
 ## Authors
 
 Linjia Kang, Zhimin Wang, Yongkang Zhang, Duo Wu, Jinghe Wang, Ming Ma, Haopeng Yan, Zhi Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2601-22781/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2601-22781/citation.csl.json
 
 ## Recorded arXiv snapshot
 

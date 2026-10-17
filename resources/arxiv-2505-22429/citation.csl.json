@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2505.22429",
+  "citation-key": "arxiv_2505_22429",
+  "type": "article",
+  "title": "Zero-Shot 3D Visual Grounding from Vision-Language Models",
+  "URL": "https://arxiv.org/abs/2505.22429v1",
+  "custom": {
+    "catalog_id": "arxiv:2505.22429",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2505.22429",
+    "identifiers": {
+      "arxiv": "2505.22429"
+    },
+    "first_published_at": "2025-05-28",
+    "record_updated_at": "2025-05-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a4a784e6849a4191603d40ffd5f13cd7900c73063bec7a2aa3f939355ba4b9df",
+      "submitted_at": "2025-05-28T14:53:53Z",
+      "updated_at": "2025-05-28T14:53:53Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2505.22429v1"
+    }
+  },
+  "note": "First published: 2025-05-28; Recorded arXiv version: v1; Recorded version updated: 2025-05-28T14:53:53Z.",
+  "author": [
+    {
+      "literal": "Rong Li"
+    },
+    {
+      "literal": "Shijie Li"
+    },
+    {
+      "literal": "Lingdong Kong"
+    },
+    {
+      "literal": "Xulei Yang"
+    },
+    {
+      "literal": "Junwei Liang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.22429",
+  "genre": "preprint",
+  "version": "1"
+}

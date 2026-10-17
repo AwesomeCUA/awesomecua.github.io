@@ -16,9 +16,16 @@ Bibliographic record for Verifiable Computing Using Computation Fingerprints Wit
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2105-01762/record.json
+
 ## Authors
 
 Shlomi Dolev, Arseni Kalma
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2105-01762/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2105-01762/citation.csl.json
 
 ## Recorded arXiv snapshot
 

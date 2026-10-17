@@ -16,9 +16,16 @@ Bibliographic record for BetterBench: Assessing AI Benchmarks, Uncovering Issues
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2411-12990/record.json
+
 ## Authors
 
 Anka Reuel, Amelia Hardy, Chandler Smith, Max Lamparth, Malcolm Hardy, Mykel J. Kochenderfer
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2411-12990/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2411-12990/citation.csl.json
 
 ## Recorded arXiv snapshot
 

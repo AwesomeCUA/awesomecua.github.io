@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2610.02932",
+  "citation-key": "arxiv_2610_02932",
+  "type": "article",
+  "title": "When to Compile a Computer-Use Agent? Measuring Payback and Making Compilation Decisions for Token Efficiency",
+  "URL": "https://arxiv.org/abs/2610.02932v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.02932",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.02932",
+    "identifiers": {
+      "arxiv": "2610.02932"
+    },
+    "first_published_at": "2026-10-02",
+    "record_updated_at": "2026-10-02",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "923a2e8c6f95b38f84e66e4d2cacdfd54aae8348e17b3fab858d2d7151e82d5b",
+      "submitted_at": "2026-10-02T07:22:46Z",
+      "updated_at": "2026-10-02T07:22:46Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.02932v1"
+    }
+  },
+  "note": "First published: 2026-10-02; Recorded arXiv version: v1; Recorded version updated: 2026-10-02T07:22:46Z.",
+  "author": [
+    {
+      "literal": "Yulong Ming"
+    },
+    {
+      "literal": "Jie Xu"
+    },
+    {
+      "literal": "Zihan Wu"
+    },
+    {
+      "literal": "Xiaohua Jia"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.02932",
+  "genre": "preprint",
+  "version": "1"
+}

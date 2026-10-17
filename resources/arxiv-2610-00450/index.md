@@ -16,9 +16,16 @@ Bibliographic record for ZoneClaw: Mitigating Persistent Memory Attacks by Estab
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-00450/record.json
+
 ## Authors
 
 Haokai Ma, Chieh Lin, Yupeng Qiu, Ee-Chien Chang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-00450/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-00450/citation.csl.json
 
 ## Recorded arXiv snapshot
 

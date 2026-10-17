@@ -16,9 +16,16 @@ Bibliographic record for Dynamic-VLM: Simple Dynamic Visual Token Compression fo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-09530/record.json
+
 ## Authors
 
 Han Wang, Yuxiang Nie, Yongjie Ye, Deng GuanYu, Yanjie Wang, Shuai Li, Haiyang Yu, Jinghui Lu, Can Huang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-09530/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-09530/citation.csl.json
 
 ## Recorded arXiv snapshot
 

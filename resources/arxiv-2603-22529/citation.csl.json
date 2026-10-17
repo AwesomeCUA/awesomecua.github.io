@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2603.22529",
+  "citation-key": "arxiv_2603_22529",
+  "type": "article",
+  "title": "Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos",
+  "URL": "https://arxiv.org/abs/2603.22529v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.22529",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2603.22529",
+    "identifiers": {
+      "arxiv": "2603.22529"
+    },
+    "first_published_at": "2026-03-23",
+    "record_updated_at": "2026-03-23",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3e4ed7391969359c2594e8b96b8a3a559ef98d2c84a10c1a2c39b3bd962b58c5",
+      "submitted_at": "2026-03-23T19:47:58Z",
+      "updated_at": "2026-03-23T19:47:58Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.22529v1"
+    }
+  },
+  "note": "First published: 2026-03-23; Recorded arXiv version: v1; Recorded version updated: 2026-03-23T19:47:58Z.",
+  "author": [
+    {
+      "literal": "Shoubin Yu"
+    },
+    {
+      "literal": "Lei Shu"
+    },
+    {
+      "literal": "Antoine Yang"
+    },
+    {
+      "literal": "Yao Fu"
+    },
+    {
+      "literal": "Srinivas Sunkara"
+    },
+    {
+      "literal": "Maria Wang"
+    },
+    {
+      "literal": "Jindong Chen"
+    },
+    {
+      "literal": "Mohit Bansal"
+    },
+    {
+      "literal": "Boqing Gong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.22529",
+  "genre": "preprint",
+  "version": "1"
+}

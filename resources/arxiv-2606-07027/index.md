@@ -16,9 +16,16 @@ Bibliographic record for StainFlow: Entity-Stain Tracking and Evidence Linking f
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-07027/record.json
+
 ## Authors
 
 Haojie Hao, Longkun Hao, Yihang Lou, Yan Bai, Zhenyang Li, Zhichao Yang, Dongshuo Huang, Hongyu Lin, Lanqing Hong, Jiakai Wang, Xianglong Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-07027/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-07027/citation.csl.json
 
 ## Recorded arXiv snapshot
 

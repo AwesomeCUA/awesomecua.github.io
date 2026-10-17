@@ -16,9 +16,16 @@ Introduces long mobile workflows that combine agent-user interaction, cross-appl
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2512-19432/record.json
+
 ## Authors
 
 Quyu Kong, Xu Zhang, Zhenyu Yang, Nolan Gao, Chen Liu, Panrong Tong, Chenglin Cai, Hanzhang Zhou, Jianan Zhang, Liangyu Chen, Zhidan Liu, Steven Hoi, Yue Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2512-19432/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2512-19432/citation.csl.json
 
 ## Recorded arXiv snapshot
 

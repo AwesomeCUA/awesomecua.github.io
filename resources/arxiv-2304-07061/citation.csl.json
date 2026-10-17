@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2304.07061",
+  "citation-key": "arxiv_2304_07061",
+  "type": "article",
+  "title": "DroidBot-GPT: GPT-powered UI Automation for Android",
+  "URL": "https://arxiv.org/abs/2304.07061v5",
+  "custom": {
+    "catalog_id": "arxiv:2304.07061",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2304.07061",
+    "identifiers": {
+      "arxiv": "2304.07061"
+    },
+    "first_published_at": "2023-04-14",
+    "record_updated_at": "2024-01-07",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "420c9005fd0c687c27c758da70ef05a60b3b2d9b9efbf91a5d7661bf893a8b09",
+      "submitted_at": "2023-04-14T11:31:56Z",
+      "updated_at": "2024-01-07T08:23:47Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2304.07061v5"
+    }
+  },
+  "note": "First published: 2023-04-14; Recorded arXiv version: v5; Recorded version updated: 2024-01-07T08:23:47Z.",
+  "author": [
+    {
+      "literal": "Hao Wen"
+    },
+    {
+      "literal": "Hongming Wang"
+    },
+    {
+      "literal": "Jiaxuan Liu"
+    },
+    {
+      "literal": "Yuanchun Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        4,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2304.07061",
+  "genre": "preprint",
+  "version": "5"
+}

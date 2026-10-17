@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2509.11543",
+  "citation-key": "arxiv_2509_11543",
+  "type": "article",
+  "title": "UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2509.11543v2",
+  "custom": {
+    "catalog_id": "arxiv:2509.11543",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2509.11543",
+    "identifiers": {
+      "arxiv": "2509.11543"
+    },
+    "first_published_at": "2025-09-15",
+    "record_updated_at": "2025-09-24",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1e31638e531aff49fe59bef6e80b35069b1f851ea0cbf1901130557148df4783",
+      "submitted_at": "2025-09-15T03:24:08Z",
+      "updated_at": "2025-09-24T15:05:34Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2509.11543v2"
+    }
+  },
+  "note": "First published: 2025-09-15; Recorded arXiv version: v2; Recorded version updated: 2025-09-24T15:05:34Z.",
+  "author": [
+    {
+      "literal": "Zhengxi Lu"
+    },
+    {
+      "literal": "Jiabo Ye"
+    },
+    {
+      "literal": "Fei Tang"
+    },
+    {
+      "literal": "Yongliang Shen"
+    },
+    {
+      "literal": "Haiyang Xu"
+    },
+    {
+      "literal": "Ziwei Zheng"
+    },
+    {
+      "literal": "Weiming Lu"
+    },
+    {
+      "literal": "Ming Yan"
+    },
+    {
+      "literal": "Fei Huang"
+    },
+    {
+      "literal": "Jun Xiao"
+    },
+    {
+      "literal": "Yueting Zhuang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.11543",
+  "genre": "preprint",
+  "version": "2"
+}

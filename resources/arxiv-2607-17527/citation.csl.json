@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2607.17527",
+  "citation-key": "arxiv_2607_17527",
+  "type": "article",
+  "title": "Sidekick: Designing Communication for Effective Multitasking with Computer Use Agents",
+  "URL": "https://arxiv.org/abs/2607.17527v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.17527",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2607.17527",
+    "identifiers": {
+      "arxiv": "2607.17527"
+    },
+    "first_published_at": "2026-07-20",
+    "record_updated_at": "2026-07-20",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2069acf693e0dced49d0e10e21bf9fe28b99f50f1b932837f16137e0d3170a80",
+      "submitted_at": "2026-07-20T04:03:38Z",
+      "updated_at": "2026-07-20T04:03:38Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.17527v1"
+    }
+  },
+  "note": "First published: 2026-07-20; Recorded arXiv version: v1; Recorded version updated: 2026-07-20T04:03:38Z.",
+  "author": [
+    {
+      "literal": "Ruei-Che Chang"
+    },
+    {
+      "literal": "Wenqian Xu"
+    },
+    {
+      "literal": "Dingzeyu Li"
+    },
+    {
+      "literal": "Bryan Wang"
+    },
+    {
+      "literal": "Anhong Guo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.17527",
+  "genre": "preprint",
+  "version": "1"
+}

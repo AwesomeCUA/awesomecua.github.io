@@ -16,9 +16,16 @@ Bibliographic record for When Actions Go Off-Task: Detecting and Correcting Misa
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2602-08995/record.json
+
 ## Authors
 
 Yuting Ning, Jaylen Jones, Zhehao Zhang, Chentao Ye, Weitong Ruan, Junyi Li, Rahul Gupta, Huan Sun
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2602-08995/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2602-08995/citation.csl.json
 
 ## Recorded arXiv snapshot
 

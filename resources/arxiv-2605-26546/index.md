@@ -16,9 +16,16 @@ Bibliographic record for MobileExplorer: Accelerating On-Device Inference for Mo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2605-26546/record.json
+
 ## Authors
 
 Runxi Huang, Liyu Zhang, Shengzhong Liu, Xiaomin Ouyang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2605-26546/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2605-26546/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for Mobile App Tasks with Iterative Feedback (MoTIF): Addre
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2104-08560/record.json
+
 ## Authors
 
 Andrea Burns, Deniz Arsan, Sanjna Agrawal, Ranjitha Kumar, Kate Saenko, Bryan A. Plummer
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2104-08560/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2104-08560/citation.csl.json
 
 ## Recorded arXiv snapshot
 

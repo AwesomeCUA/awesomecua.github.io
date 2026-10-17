@@ -16,9 +16,16 @@ Bibliographic record for The Many Faces of Robustness: A Critical Analysis of Ou
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2006-16241/record.json
+
 ## Authors
 
 Dan Hendrycks, Steven Basart, Norman Mu, Saurav Kadavath, Frank Wang, Evan Dorundo, Rahul Desai, Tyler Zhu, Samyak Parajuli, Mike Guo, Dawn Song, Jacob Steinhardt, Justin Gilmer
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2006-16241/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2006-16241/citation.csl.json
 
 ## Recorded arXiv snapshot
 

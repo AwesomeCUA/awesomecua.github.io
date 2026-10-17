@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2508.14104",
+  "citation-key": "arxiv_2508_14104",
+  "type": "article",
+  "title": "You Don't Know Until You Click:Automated GUI Testing for Production-Ready Software Evaluation",
+  "URL": "https://arxiv.org/abs/2508.14104v1",
+  "custom": {
+    "catalog_id": "arxiv:2508.14104",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2508.14104",
+    "identifiers": {
+      "arxiv": "2508.14104"
+    },
+    "first_published_at": "2025-08-17",
+    "record_updated_at": "2025-08-17",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c5034c06e63607a1279668964e91c14ed762a95b6e3953337ef8b8b63c4fd57d",
+      "submitted_at": "2025-08-17T07:31:11Z",
+      "updated_at": "2025-08-17T07:31:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2508.14104v1"
+    }
+  },
+  "note": "First published: 2025-08-17; Recorded arXiv version: v1; Recorded version updated: 2025-08-17T07:31:11Z.",
+  "author": [
+    {
+      "literal": "Yutong Bian"
+    },
+    {
+      "literal": "Xianhao Lin"
+    },
+    {
+      "literal": "Yupeng Xie"
+    },
+    {
+      "literal": "Tianyang Liu"
+    },
+    {
+      "literal": "Mingchen Zhuge"
+    },
+    {
+      "literal": "Siyuan Lu"
+    },
+    {
+      "literal": "Haoming Tang"
+    },
+    {
+      "literal": "Jinlin Wang"
+    },
+    {
+      "literal": "Jiayi Zhang"
+    },
+    {
+      "literal": "Jiaqi Chen"
+    },
+    {
+      "literal": "Xiangru Tang"
+    },
+    {
+      "literal": "Yongxin Ni"
+    },
+    {
+      "literal": "Sirui Hong"
+    },
+    {
+      "literal": "Chenglin Wu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.14104",
+  "genre": "preprint",
+  "version": "1"
+}

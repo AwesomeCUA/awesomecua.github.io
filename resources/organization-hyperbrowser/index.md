@@ -16,6 +16,8 @@ Publisher or product brand associated with Hyperbrowser computer-use or browser 
 
 Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
 
+- Record JSON: https://awesomecua.github.io/resources/organization-hyperbrowser/record.json
+
 ## License declarations
 
 - code: not recorded

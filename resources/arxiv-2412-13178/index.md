@@ -16,9 +16,16 @@ Bibliographic record for SafeAgentBench: A Benchmark for Safe Task Planning of E
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2412-13178/record.json
+
 ## Authors
 
 Sheng Yin, Xianghe Pang, Yuanzhuo Ding, Menglan Chen, Yutong Bi, Yichen Xiong, Wenhao Huang, Zhen Xiang, Jing Shao, Siheng Chen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2412-13178/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2412-13178/citation.csl.json
 
 ## Recorded arXiv snapshot
 

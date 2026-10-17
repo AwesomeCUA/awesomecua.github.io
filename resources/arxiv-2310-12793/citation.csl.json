@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2310.12793",
+  "citation-key": "arxiv_2310_12793",
+  "type": "article",
+  "title": "OODRobustBench: a Benchmark and Large-Scale Analysis of Adversarial Robustness under Distribution Shift",
+  "URL": "https://arxiv.org/abs/2310.12793v2",
+  "custom": {
+    "catalog_id": "arxiv:2310.12793",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2310.12793",
+    "identifiers": {
+      "arxiv": "2310.12793"
+    },
+    "first_published_at": "2023-10-19",
+    "record_updated_at": "2024-06-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "dc49c8a21781108d18f3e0b55d93854d99e9aa8787a6bfa0c2102efa3b21ad78",
+      "submitted_at": "2023-10-19T14:50:46Z",
+      "updated_at": "2024-06-04T03:01:05Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2310.12793v2"
+    }
+  },
+  "note": "First published: 2023-10-19; Recorded arXiv version: v2; Recorded version updated: 2024-06-04T03:01:05Z.",
+  "author": [
+    {
+      "literal": "Lin Li"
+    },
+    {
+      "literal": "Yifei Wang"
+    },
+    {
+      "literal": "Chawin Sitawarin"
+    },
+    {
+      "literal": "Michael Spratling"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2310.12793",
+  "genre": "preprint",
+  "version": "2"
+}

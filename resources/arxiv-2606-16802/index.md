@@ -16,9 +16,16 @@ LabOSBench evaluates GUI agents on browser-based scientific instrument simulator
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2606-16802/record.json
+
 ## Authors
 
 Anqi Zou, Han Deng, Chengyu Zhang, Junquan Hu, Yu Wang, Yuxiang Xing, Aokai Zhang, Hanling Zhang, Zhaoyang Liu, Ben Fei, Zhihui Wang, Wanli Ouyang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2606-16802/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2606-16802/citation.csl.json
 
 ## Recorded arXiv snapshot
 

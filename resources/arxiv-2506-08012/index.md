@@ -16,9 +16,16 @@ GUI-Reflection synthesizes reflection and error-correction examples from success
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2506-08012/record.json
+
 ## Authors
 
 Penghao Wu, Shengnan Ma, Bo Wang, Jiaheng Yu, Lewei Lu, Ziwei Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2506-08012/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2506-08012/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Bibliographic record for When AI Meets the Web: Prompt Injection Risks in Third-
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2511-05797/record.json
+
 ## Authors
 
 Yigitcan Kaya, Anton Landerer, Stijn Pletinckx, Michelle Zimmermann, Christopher Kruegel, Giovanni Vigna
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2511-05797/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2511-05797/citation.csl.json
 
 ## Recorded arXiv snapshot
 

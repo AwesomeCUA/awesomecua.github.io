@@ -16,9 +16,16 @@ Bibliographic record for Improved Balanced Flow Computation Using Parametric Flo
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-1512-05974/record.json
+
 ## Authors
 
 Omar Darwish, Kurt Mehlhorn
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-1512-05974/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-1512-05974/citation.csl.json
 
 ## Recorded arXiv snapshot
 

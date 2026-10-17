@@ -16,9 +16,16 @@ Bibliographic record for CogVLM: Visual Expert for Pretrained Language Models. T
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2311-03079/record.json
+
 ## Authors
 
 Weihan Wang, Qingsong Lv, Wenmeng Yu, Wenyi Hong, Ji Qi, Yan Wang, Junhui Ji, Zhuoyi Yang, Lei Zhao, Xixuan Song, Jiazheng Xu, Bin Xu, Juanzi Li, Yuxiao Dong, Ming Ding, Jie Tang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2311-03079/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2311-03079/citation.csl.json
 
 ## Recorded arXiv snapshot
 

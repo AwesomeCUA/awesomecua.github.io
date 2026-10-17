@@ -16,9 +16,16 @@ Bibliographic record for Motion Tracks: A Unified Representation for Human-Robot
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2501-06994/record.json
+
 ## Authors
 
 Juntao Ren, Priya Sundaresan, Dorsa Sadigh, Sanjiban Choudhury, Jeannette Bohg
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2501-06994/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2501-06994/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,9 +16,16 @@ Introduces State Transition Pretraining, which jointly learns to infer actions f
 
 The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2607-24112/record.json
+
 ## Authors
 
 Xiangyan Liu, Kaixin Li, Haonan Wang, Biao Wu, Meng Fang, Longxu Dou, Chao Du, Michael Qizhe Shieh, Tianyu Pang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2607-24112/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2607-24112/citation.csl.json
 
 ## Recorded arXiv snapshot
 

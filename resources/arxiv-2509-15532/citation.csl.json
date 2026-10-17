@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2509.15532",
+  "citation-key": "arxiv_2509_15532",
+  "type": "article",
+  "title": "GUI-ARP: Enhancing Grounding with Adaptive Region Perception for GUI Agents",
+  "URL": "https://arxiv.org/abs/2509.15532v1",
+  "custom": {
+    "catalog_id": "arxiv:2509.15532",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2509.15532",
+    "identifiers": {
+      "arxiv": "2509.15532"
+    },
+    "first_published_at": "2025-09-19",
+    "record_updated_at": "2025-09-19",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e415074c6a4b4995350d6936d338682b9a4469f1cbed3a83e0ac44eee6f02bef",
+      "submitted_at": "2025-09-19T02:34:50Z",
+      "updated_at": "2025-09-19T02:34:50Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2509.15532v1"
+    }
+  },
+  "note": "First published: 2025-09-19; Recorded arXiv version: v1; Recorded version updated: 2025-09-19T02:34:50Z.",
+  "author": [
+    {
+      "literal": "Xianhang Ye"
+    },
+    {
+      "literal": "Yiqing Li"
+    },
+    {
+      "literal": "Wei Dai"
+    },
+    {
+      "literal": "Miancan Liu"
+    },
+    {
+      "literal": "Ziyuan Chen"
+    },
+    {
+      "literal": "Zhangye Han"
+    },
+    {
+      "literal": "Hongbo Min"
+    },
+    {
+      "literal": "Jinkui Ren"
+    },
+    {
+      "literal": "Xiantao Zhang"
+    },
+    {
+      "literal": "Wen Yang"
+    },
+    {
+      "literal": "Zhi Jin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.15532",
+  "genre": "preprint",
+  "version": "1"
+}

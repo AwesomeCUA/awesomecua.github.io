@@ -16,9 +16,16 @@ Bibliographic record for Read More, Think More: Revisiting Observation Reduction
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-01535/record.json
+
 ## Authors
 
 Masafumi Enomoto, Ryoma Obara, Haochen Zhang, Masafumi Oyamada
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-01535/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-01535/citation.csl.json
 
 ## Recorded arXiv snapshot
 

@@ -16,6 +16,8 @@ Publisher or product brand associated with TinyFish computer-use or browser auto
 
 Publisher/brand identity only. Corporate ownership, jurisdiction, financing, and commercial traction are not inferred.
 
+- Record JSON: https://awesomecua.github.io/resources/organization-tinyfish/record.json
+
 ## License declarations
 
 - code: not recorded

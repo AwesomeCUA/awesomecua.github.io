@@ -16,9 +16,16 @@ Bibliographic record for RoboCLIP: One Demonstration is Enough to Learn Robot Po
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2310-07899/record.json
+
 ## Authors
 
 Sumedh A Sontakke, Jesse Zhang, Sébastien M. R. Arnold, Karl Pertsch, Erdem Bıyık, Dorsa Sadigh, Chelsea Finn, Laurent Itti
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2310-07899/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2310-07899/citation.csl.json
 
 ## Recorded arXiv snapshot
 

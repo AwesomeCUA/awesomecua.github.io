@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2609.35026",
+  "citation-key": "arxiv_2609_35026",
+  "type": "article",
+  "title": "WebPageBench: Event-Level Verification and Controlled UI-Variant Generation for Web Agents",
+  "URL": "https://arxiv.org/abs/2609.35026v1",
+  "custom": {
+    "catalog_id": "arxiv:2609.35026",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2609.35026",
+    "identifiers": {
+      "arxiv": "2609.35026"
+    },
+    "first_published_at": "2026-09-28",
+    "record_updated_at": "2026-09-28",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d5090c6b7879e38102b1180ee1e4dfd1552af777172e2f94bc0f9a684fb59dc7",
+      "submitted_at": "2026-09-28T12:24:23Z",
+      "updated_at": "2026-09-28T12:24:23Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.35026v1"
+    }
+  },
+  "note": "First published: 2026-09-28; Recorded arXiv version: v1; Recorded version updated: 2026-09-28T12:24:23Z.",
+  "author": [
+    {
+      "literal": "Anton Emelyanov"
+    },
+    {
+      "literal": "Maria Tikhonova"
+    },
+    {
+      "literal": "Zaven Martirosian"
+    },
+    {
+      "literal": "Sergei Averkiev"
+    },
+    {
+      "literal": "Alena Fenogenova"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2609.35026",
+  "genre": "preprint",
+  "version": "1"
+}

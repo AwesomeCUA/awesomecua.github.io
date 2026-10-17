@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2512.22047",
+  "citation-key": "arxiv_2512_22047",
+  "type": "article",
+  "title": "MAI-UI Technical Report: Real-World Centric Foundation GUI Agents",
+  "URL": "https://arxiv.org/abs/2512.22047v1",
+  "custom": {
+    "catalog_id": "arxiv:2512.22047",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2512.22047",
+    "identifiers": {
+      "arxiv": "2512.22047"
+    },
+    "first_published_at": "2025-12-26",
+    "record_updated_at": "2025-12-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a89eb3fd173680c127245933d252d4e245b7179d77bca4b463d50800c78f7238",
+      "submitted_at": "2025-12-26T14:51:52Z",
+      "updated_at": "2025-12-26T14:51:52Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2512.22047v1"
+    }
+  },
+  "note": "First published: 2025-12-26; Recorded arXiv version: v1; Recorded version updated: 2025-12-26T14:51:52Z.",
+  "author": [
+    {
+      "literal": "Hanzhang Zhou"
+    },
+    {
+      "literal": "Xu Zhang"
+    },
+    {
+      "literal": "Panrong Tong"
+    },
+    {
+      "literal": "Jianan Zhang"
+    },
+    {
+      "literal": "Liangyu Chen"
+    },
+    {
+      "literal": "Quyu Kong"
+    },
+    {
+      "literal": "Chenglin Cai"
+    },
+    {
+      "literal": "Chen Liu"
+    },
+    {
+      "literal": "Yue Wang"
+    },
+    {
+      "literal": "Jingren Zhou"
+    },
+    {
+      "literal": "Steven Hoi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2512.22047",
+  "genre": "preprint",
+  "version": "1"
+}

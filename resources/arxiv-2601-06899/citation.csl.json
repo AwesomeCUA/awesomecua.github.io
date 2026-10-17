@@ -1,0 +1,72 @@
+{
+  "id": "arxiv:2601.06899",
+  "citation-key": "arxiv_2601_06899",
+  "type": "article",
+  "title": "V2P: Visual Attention Calibration for GUI Grounding via Background Suppression and Center Peaking",
+  "URL": "https://arxiv.org/abs/2601.06899v2",
+  "custom": {
+    "catalog_id": "arxiv:2601.06899",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2601.06899",
+    "identifiers": {
+      "arxiv": "2601.06899",
+      "preferred_arxiv": "2508.13634"
+    },
+    "first_published_at": "2026-01-11",
+    "record_updated_at": "2026-01-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fd2b645b974322737d5b3398eb3d57bff0c86f0b083bb8202d7bc5c0316ce12b",
+      "submitted_at": "2026-01-11T12:54:54Z",
+      "updated_at": "2026-01-16T06:33:17Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2601.06899v2"
+    },
+    "preferred_record_id": "arxiv:2508.13634"
+  },
+  "note": "First published: 2026-01-11; Recorded arXiv version: v2; Recorded version updated: 2026-01-16T06:33:17Z; Preferred arXiv record recorded by catalog: arXiv:2508.13634 (https://arxiv.org/abs/2508.13634); this citation retains arxiv:2601.06899.",
+  "author": [
+    {
+      "literal": "Jikai Chen"
+    },
+    {
+      "literal": "Long Chen"
+    },
+    {
+      "literal": "Dong Wang"
+    },
+    {
+      "literal": "Qinglin Su"
+    },
+    {
+      "literal": "Zhixuan Chu"
+    },
+    {
+      "literal": "Bingguang Hao"
+    },
+    {
+      "literal": "Leilei Gan"
+    },
+    {
+      "literal": "Chenyi Zhuang"
+    },
+    {
+      "literal": "Jinjie Gu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        1,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2601.06899",
+  "genre": "preprint",
+  "version": "2"
+}

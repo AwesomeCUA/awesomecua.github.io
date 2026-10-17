@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2605.15542",
+  "citation-key": "arxiv_2605_15542",
+  "type": "article",
+  "title": "DRS-GUI: Dynamic Region Search for Training-Free GUI Grounding",
+  "URL": "https://arxiv.org/abs/2605.15542v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.15542",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.15542",
+    "identifiers": {
+      "arxiv": "2605.15542"
+    },
+    "first_published_at": "2026-05-15",
+    "record_updated_at": "2026-05-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fd85c0d0a8b6bc5c687bc301b1b84d6a019c5713012890e0a23c08ae2d83a1e6",
+      "submitted_at": "2026-05-15T02:27:41Z",
+      "updated_at": "2026-05-15T02:27:41Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.15542v1"
+    }
+  },
+  "note": "First published: 2026-05-15; Recorded arXiv version: v1; Recorded version updated: 2026-05-15T02:27:41Z.",
+  "author": [
+    {
+      "literal": "Yichao Liu"
+    },
+    {
+      "literal": "Huawen Shen"
+    },
+    {
+      "literal": "Liu Yu"
+    },
+    {
+      "literal": "Shiyu Liu"
+    },
+    {
+      "literal": "Zeyu Chen"
+    },
+    {
+      "literal": "Yu Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.15542",
+  "genre": "preprint",
+  "version": "1"
+}

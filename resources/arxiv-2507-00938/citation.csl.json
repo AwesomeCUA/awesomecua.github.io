@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2507.00938",
+  "citation-key": "arxiv_2507_00938",
+  "type": "article",
+  "title": "WebArxiv: A Reproducible Benchmark for Evaluating Multimodal Web Agents on arXiv Tasks",
+  "URL": "https://arxiv.org/abs/2507.00938v4",
+  "custom": {
+    "catalog_id": "arxiv:2507.00938",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2507.00938",
+    "identifiers": {
+      "arxiv": "2507.00938"
+    },
+    "first_published_at": "2025-07-01",
+    "record_updated_at": "2026-09-24",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1745ec9cf10c465c0f389f885df6db502f1884cca271bccea1b45acd2c787af9",
+      "submitted_at": "2025-07-01T16:43:57Z",
+      "updated_at": "2026-09-24T12:58:22Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2507.00938v4"
+    }
+  },
+  "note": "First published: 2025-07-01; Recorded arXiv version: v4; Recorded version updated: 2026-09-24T12:58:22Z.",
+  "author": [
+    {
+      "literal": "Zihao Sun"
+    },
+    {
+      "literal": "Zijing Shi"
+    },
+    {
+      "literal": "Ling Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.00938",
+  "genre": "preprint",
+  "version": "4"
+}

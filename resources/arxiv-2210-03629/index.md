@@ -16,9 +16,16 @@ Bibliographic record for ReAct: Synergizing Reasoning and Acting in Language Mod
 
 Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
 
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2210-03629/record.json
+
 ## Authors
 
 Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2210-03629/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2210-03629/citation.csl.json
 
 ## Recorded arXiv snapshot
 
