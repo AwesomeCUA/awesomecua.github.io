@@ -1,5 +1,5 @@
 {
-  "relation_count": 283,
+  "relation_count": 295,
   "semantics": "Reviewed semantic links only. Documentation does not establish training or evaluation dependency.",
   "relations": [
     {
@@ -144,6 +144,30 @@
       "source_kind": "framework",
       "evidence_url": "https://raw.githubusercontent.com/ByteDance-Seed/Agent-R/HEAD/README.md",
       "target_id": "arxiv:2501.11425",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:bytedance/gui-rewalk",
+      "source_name": "GUI-ReWalk",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/bytedance/GUI-ReWalk/HEAD/README.md",
+      "target_id": "github:xlang-ai/osworld",
+      "type": "uses"
+    },
+    {
+      "source_id": "github:bytedance/gui-rewalk",
+      "source_name": "GUI-ReWalk",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/bytedance/GUI-ReWalk/HEAD/README.md",
+      "target_id": "github:microsoft/omniparser",
+      "type": "uses"
+    },
+    {
+      "source_id": "github:bytedance/gui-rewalk",
+      "source_name": "GUI-ReWalk",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/bytedance/GUI-ReWalk/HEAD/README.md",
+      "target_id": "arxiv:2509.15738",
       "type": "documented_by"
     },
     {
@@ -307,6 +331,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:hazyresearch/wonderbread",
+      "source_name": "WONDERBREAD",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/HazyResearch/wonderbread/HEAD/README.md",
+      "target_id": "arxiv:2406.13264",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:heimingx/tag",
       "source_name": "TAG attention-driven GUI grounding",
       "source_kind": "tool",
@@ -448,6 +480,14 @@
       "source_kind": "model",
       "evidence_url": "https://raw.githubusercontent.com/microsoft/GUI-Actor/HEAD/README.md",
       "target_id": "arxiv:2506.03143",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:microsoft/gui-agent-rl",
+      "source_name": "VEM GUI-Agent-RL",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/microsoft/GUI-Agent-RL/HEAD/README.md",
+      "target_id": "arxiv:2502.18906",
       "type": "documented_by"
     },
     {
@@ -611,6 +651,22 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:os-copilot/os-map",
+      "source_name": "OS-Map",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/OS-Copilot/OS-Map/HEAD/README.md",
+      "target_id": "github:xlang-ai/osworld",
+      "type": "uses"
+    },
+    {
+      "source_id": "github:os-copilot/os-map",
+      "source_name": "OS-Map",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/OS-Copilot/OS-Map/HEAD/README.md",
+      "target_id": "arxiv:2507.19132",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:osu-nlp-group/mind2web",
       "source_name": "Mind2Web",
       "source_kind": "benchmark",
@@ -664,6 +720,14 @@
       "source_kind": "framework",
       "evidence_url": "https://raw.githubusercontent.com/PathOnAI/LiteWebAgent/HEAD/README.md",
       "target_id": "arxiv:2503.02950",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:posgnu/rci-agent",
+      "source_name": "RCI Agent",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/posgnu/rci-agent/HEAD/README.md",
+      "target_id": "arxiv:2303.17491",
       "type": "documented_by"
     },
     {
@@ -928,6 +992,14 @@
       "source_kind": "framework",
       "evidence_url": "https://raw.githubusercontent.com/Tongyi-MAI/MAI-UI/HEAD/MAI-UI/README.md",
       "target_id": "arxiv:2512.22047",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:tongyi-mai/mobileworld",
+      "source_name": "MobileWorld (Tongyi-MAI)",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/Tongyi-MAI/MobileWorld/HEAD/README.md",
+      "target_id": "arxiv:2512.19432",
       "type": "documented_by"
     },
     {
@@ -1507,6 +1579,22 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:4a0b1692589594745a3c",
+      "source_name": "OpenCUA 72B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/xlangai/OpenCUA-72B/raw/main/README.md",
+      "target_id": "github:xlang-ai/opencua",
+      "type": "variant_of"
+    },
+    {
+      "source_id": "url:4a0b1692589594745a3c",
+      "source_name": "OpenCUA 72B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/xlangai/OpenCUA-72B/raw/main/README.md",
+      "target_id": "arxiv:2508.09123",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:4a47a6df845735984bf1",
       "source_name": "HoloTab",
       "source_kind": "product",
@@ -1809,6 +1897,14 @@
       "evidence_url": "https://www.browserbase.com/",
       "target_id": "organization:browserbase",
       "type": "published_by"
+    },
+    {
+      "source_id": "url:9a3506ca6ef034adb424",
+      "source_name": "AutoDroid V2 training data",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/MobileLLM/AutoDroid-V2/HEAD/step_3_training/README.md",
+      "target_id": "github:mobilellm/autodroid-v2",
+      "type": "component_of"
     },
     {
       "source_id": "url:9dc9d8d3b9a4b32d6f4b",

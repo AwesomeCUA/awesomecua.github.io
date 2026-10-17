@@ -8,7 +8,7 @@ LiMAC combines a compact Action Transformer with a fine-tuned vision-language mo
 - Review: curated
 - Scope: core
 - Environments: android
-- Topics: mobile-navigation, action-prediction, efficiency, history
+- Topics: mobile-navigation, action-prediction, efficiency, interaction-history
 - Evidence checked: 2026-10-16T06:31:35Z
 - ID: arxiv:2410.17883
 

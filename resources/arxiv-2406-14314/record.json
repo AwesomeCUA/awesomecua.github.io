@@ -82,7 +82,7 @@
   "summary": "Defines goal identification from observed UI trajectories and an evaluation method for comparing intent descriptions within the same interface context. Experiments reuse Android and web automation data to compare human and model inference of users’ detailed goals.",
   "topics": [
     "evaluation",
-    "history",
+    "interaction-history",
     "screen-understanding"
   ],
   "updated_at": "2025-03-03",

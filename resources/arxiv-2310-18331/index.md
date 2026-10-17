@@ -8,7 +8,7 @@ AllTogether standardizes prompts for HTML-based web navigation and compares prom
 - Review: curated
 - Scope: core
 - Environments: web
-- Topics: web-navigation, history, evaluation
+- Topics: web-navigation, interaction-history, evaluation
 - Evidence checked: 2026-10-16T06:31:24Z
 - ID: arxiv:2310.18331
 

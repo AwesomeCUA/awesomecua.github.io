@@ -8,7 +8,7 @@ Dynamic Planning of Thoughts revises a mobile GUI plan using current environment
 - Review: curated
 - Scope: core
 - Environments: unspecified
-- Topics: planning, history, mobile-navigation, robustness
+- Topics: planning, interaction-history, mobile-navigation, robustness
 - Evidence checked: 2026-10-16T06:31:35Z
 - ID: arxiv:2410.00467
 

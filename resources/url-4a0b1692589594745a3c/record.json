@@ -1,0 +1,121 @@
+{
+  "aliases": [
+    "OpenCUA 72B Preview",
+    "OpenCUA-72B-preview"
+  ],
+  "authors": [],
+  "details": {
+    "availability": "Public ungated checkpoint with 82 safetensors shards and model index.",
+    "base_model": "Qwen/Qwen2.5-VL-72B-Instruct",
+    "disabled": false,
+    "download_url": "https://huggingface.co/xlangai/OpenCUA-72B/tree/main",
+    "gated": false,
+    "hub_id": "xlangai/OpenCUA-72B",
+    "license_review": {
+      "weights": {
+        "evidence_urls": [
+          "https://huggingface.co/xlangai/OpenCUA-72B/raw/main/README.md"
+        ],
+        "reason": "Publisher model card explicitly declares MIT for the released model; other code and training-data scopes are not generalized."
+      }
+    },
+    "release_revision": "3cc4af5337a1d0010f934284df3c482797266547"
+  },
+  "environments": [
+    "desktop",
+    "linux",
+    "windows",
+    "macos"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:14:12Z",
+      "role": "primary",
+      "sha256": "ebe551af1008a2307d16cf68715fc1861f8c501c4981660dbe08f691cf73d787",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "relations",
+        "details",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/xlangai/OpenCUA-72B/raw/main/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:14:12Z",
+      "role": "primary",
+      "sha256": "ff0ee40df2f44a2b3aa1b8117c31752013a40fdb6a85d66cdc596e096583ac5d",
+      "supports": [
+        "identity",
+        "release_status",
+        "details"
+      ],
+      "url": "https://huggingface.co/api/models/xlangai/OpenCUA-72B"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:15:35Z",
+      "role": "primary",
+      "sha256": "ff0ee40df2f44a2b3aa1b8117c31752013a40fdb6a85d66cdc596e096583ac5d",
+      "supports": [
+        "identity",
+        "notes"
+      ],
+      "url": "https://huggingface.co/api/models/xlangai/OpenCUA-72B-preview"
+    }
+  ],
+  "id": "url:4a0b1692589594745a3c",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-17T09:14:12Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "Publisher model card explicitly declares MIT for the released model; other code and training-data scopes are not generalized.",
+      "declared": "mit",
+      "retrieved_at": "2026-10-17T09:14:12Z",
+      "url": "https://huggingface.co/xlangai/OpenCUA-72B/raw/main/README.md"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/xlangai/OpenCUA-72B"
+    }
+  ],
+  "name": "OpenCUA 72B",
+  "notes": "The former OpenCUA-72B-preview API redirects to the canonical xlangai/OpenCUA-72B repository. The public manifest lists 82 safetensors weight shards plus an index and custom model/tokenizer code. The card declares MIT for the released model and describes absolute coordinates after smart resizing. Weight files and remote code were not downloaded or executed.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/xlangai/OpenCUA-72B/raw/main/README.md",
+      "target_id": "github:xlang-ai/opencua",
+      "type": "variant_of"
+    },
+    {
+      "evidence_url": "https://huggingface.co/xlangai/OpenCUA-72B/raw/main/README.md",
+      "target_id": "arxiv:2508.09123",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "A Qwen2.5-VL-based computer-use checkpoint that combines screenshot history and reflective reasoning to predict executable desktop actions.",
+  "topics": [
+    "grounding",
+    "planning",
+    "action-prediction",
+    "self-reflection"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/xlangai/OpenCUA-72B"
+}

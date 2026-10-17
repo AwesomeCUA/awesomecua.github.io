@@ -86,7 +86,7 @@
   "summary": "SimpAgent prunes distracting interface elements with visual masks and compresses interaction history using consistency-based guidance. The study evaluates these two forms of context reduction during GUI navigation in web and mobile environments.",
   "topics": [
     "efficiency",
-    "history",
+    "interaction-history",
     "web-navigation",
     "mobile-navigation"
   ],

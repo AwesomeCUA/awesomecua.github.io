@@ -8,7 +8,7 @@ Trains a smartphone assistant from sequences of screenshots paired with earlier 
 - Review: curated
 - Scope: core
 - Environments: android
-- Topics: mobile-navigation, history, action-prediction
+- Topics: mobile-navigation, interaction-history, action-prediction
 - Evidence checked: 2026-10-16T06:31:28Z
 - ID: arxiv:2404.08755
 

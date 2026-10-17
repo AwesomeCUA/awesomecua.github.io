@@ -31,7 +31,7 @@
     }
   },
   "environments": [
-    "unspecified"
+    "web"
   ],
   "evidence": [
     {
@@ -48,6 +48,33 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=2406.10290%2C2406.10707%2C2406.11342%2C2406.11775%2C2406.12045%2C2406.12275%2C2406.12934%2C2406.13264%2C2406.13352%2C2406.14884%2C2406.14991%2C2406.18820%2C2406.20041%2C2406.20092%2C2407.01502%2C2407.03502%2C2407.04363%2C2407.04856%2C2407.06048%2C2407.08898%2C2407.09025%2C2407.10839%2C2407.12821%2C2407.13696%2C2407.17789%2C2407.20143%2C2407.20727%2C2408.00545%2C2408.02248%2C2408.04168%2C2408.07720%2C2408.09559%2C2408.10215%2C2408.10605%2C2408.11791%2C2408.16119%2C2409.00608%2C2409.03402%2C2409.04999%2C2409.05655%2C2409.07703%2C2409.08273%2C2409.08831%2C2409.10033%2C2409.17652%2C2409.19715%2C2410.01039%2C2410.01606%2C2410.05340%2C2410.05656&max_results=50"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:15:30Z",
+      "role": "primary",
+      "sha256": "95c08b3a28f77a248d6f990345ef4b2b16cbf196492920bfa1ce0ec7e398345e",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "topics",
+        "notes"
+      ],
+      "url": "https://arxiv.org/abs/2406.13264v2"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:16:02Z",
+      "role": "primary",
+      "sha256": "07de7eac76877364a2d9e9d31f6c65f5f2cace2f97f7821862a1441f83d9f95c",
+      "supports": [
+        "summary",
+        "environments",
+        "scope",
+        "notes"
+      ],
+      "url": "https://arxiv.org/html/2406.13264v2"
     }
   ],
   "id": "arxiv:2406.13264",
@@ -55,7 +82,7 @@
     "arxiv": "2406.13264"
   },
   "kind": "paper",
-  "last_verified_at": "2026-10-17T07:57:37Z",
+  "last_verified_at": "2026-10-17T09:15:30Z",
   "licenses": {
     "code": null,
     "data": null,
@@ -64,18 +91,22 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2406.13264"
     }
   ],
   "name": "WONDERBREAD: A Benchmark for Evaluating Multimodal Foundation Models on Business Process Management Tasks",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced. The demonstrations were rehearsed, so their completion rate is not a zero-shot human performance estimate.",
   "published_at": "2024-06-19",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Introduces WONDERBREAD, a benchmark pairing human WebArena workflow demonstrations with screen recordings, action logs, and written procedures. Six evaluation tasks cover documentation, knowledge transfer, and process improvement beyond end-to-end execution.",
+  "topics": [
+    "evaluation",
+    "workflow",
+    "video"
+  ],
   "updated_at": "2024-10-11",
   "url": "https://arxiv.org/abs/2406.13264"
 }

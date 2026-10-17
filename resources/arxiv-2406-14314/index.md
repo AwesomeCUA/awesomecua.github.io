@@ -8,7 +8,7 @@ Defines goal identification from observed UI trajectories and an evaluation meth
 - Review: curated
 - Scope: core
 - Environments: android, web, cross-platform
-- Topics: evaluation, history, screen-understanding
+- Topics: evaluation, interaction-history, screen-understanding
 - Evidence checked: 2026-10-16T06:31:32Z
 - ID: arxiv:2406.14314
 

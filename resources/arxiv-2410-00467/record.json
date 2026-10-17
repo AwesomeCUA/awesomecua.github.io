@@ -81,7 +81,7 @@
   "summary": "Dynamic Planning of Thoughts revises a mobile GUI plan using current environmental feedback and execution history. The study compares this planning strategy with long-dialogue prompting and examines its behavior on unfamiliar tasks and different language-model backbones.",
   "topics": [
     "planning",
-    "history",
+    "interaction-history",
     "mobile-navigation",
     "robustness"
   ],

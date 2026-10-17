@@ -8,7 +8,7 @@ UI-Genie jointly improves a mobile GUI agent and a reward model that processes s
 - Review: curated
 - Scope: core
 - Environments: unspecified
-- Topics: data-generation, reinforcement-learning, mobile-navigation, history
+- Topics: data-generation, reinforcement-learning, mobile-navigation, interaction-history
 - Evidence checked: 2026-10-16T06:36:54Z
 - ID: arxiv:2505.21496
 

@@ -8,7 +8,7 @@ ScaleTrack combines a unified collection of GUI grounding samples with a plannin
 - Review: curated
 - Scope: core
 - Environments: unspecified
-- Topics: grounding, planning, data-generation, history
+- Topics: grounding, planning, data-generation, interaction-history
 - Evidence checked: 2026-10-16T06:36:54Z
 - ID: arxiv:2505.00416
 

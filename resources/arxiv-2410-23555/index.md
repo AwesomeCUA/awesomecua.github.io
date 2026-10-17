@@ -1,20 +1,20 @@
 # From Context to Action: Analysis of the Impact of State Representation and Context on the Generalization of Multi-Turn Web Navigation Agents
 
-Bibliographic record for From Context to Action: Analysis of the Impact of State Representation and Context on the Generalization of Multi-Turn Web Navigation Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Analyzes how interaction history and webpage representation affect multiturn web-agent generalization across unfamiliar websites, task categories, and geographic settings.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2410-23555/
 - Original source: https://arxiv.org/abs/2410.23555
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-17T07:57:41Z
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, interaction-history, state-tracking
+- Evidence checked: 2026-10-17T09:13:27Z
 - ID: arxiv:2410.23555
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced.
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2410-23555/record.json
 
@@ -46,3 +46,4 @@ Nalin Tiwary, Vardhan Dongre, Sanil Arun Chawla, Ashwin Lamani, Dilek Hakkani-TÃ
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2410.06212%2C2410.06215%2C2410.07283%2C2410.07331%2C2410.07869%2C2410.08209%2C2410.08368%2C2410.10570%2C2410.12481%2C2410.12669%2C2410.15549%2C2410.16950%2C2410.21909%2C2410.22584%2C2410.22770%2C2410.23022%2C2410.23555%2C2411.02006%2C2411.02393%2C2411.02479%2C2411.03312%2C2411.03817%2C2411.05451%2C2411.11145%2C2411.11904%2C2411.11916%2C2411.12990%2C2411.14228%2C2411.15397%2C2412.01857%2C2412.04144%2C2412.04383%2C2412.05819%2C2412.06224%2C2412.06771%2C2412.09530%2C2412.09613%2C2412.10047%2C2412.10380%2C2412.10673%2C2412.12004%2C2412.13178%2C2412.13810%2C2412.14203%2C2412.14222%2C2412.16359%2C2412.19638%2C2412.20206%2C2501.03895%2C2501.05179&max_results=50 (retrieved 2026-10-17T07:57:41Z; SHA-256 0ba893415123ecc1763614ef5fc97e5c8bb7835f10b26b43f1b921ea860484cf)
+- https://arxiv.org/abs/2410.23555v1 (retrieved 2026-10-17T09:13:27Z; SHA-256 fced2234354232b8834eef0cf2557b2932990e74b3530fc95459cd3fa0e11792)

@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "kind": "dataset",
-  "profile_count": 47,
-  "curated_resource_count": 73,
+  "profile_count": 48,
+  "curated_resource_count": 74,
   "unit": "resource profile; count observations retain their own units and populations",
   "limitations": "Source-reviewed descriptions and reported or computed inventory counts. No performance ranking, independent reproduction, or global-completeness claim.",
   "records": [
@@ -492,6 +492,80 @@
             "licenses.data"
           ],
           "url": "https://huggingface.co/datasets/Aria-UI/Aria-UI_Data/raw/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:9a3506ca6ef034adb424",
+      "name": "AutoDroid V2 training data",
+      "url": "https://huggingface.co/datasets/BlitherBoom/AutoDroid-V2-Dataset",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "counts": [],
+        "evidence_urls": [
+          "https://huggingface.co/api/datasets/BlitherBoom/AutoDroid-V2-Dataset",
+          "https://raw.githubusercontent.com/MobileLLM/AutoDroid-V2/HEAD/step_3_training/README.md"
+        ],
+        "formats": [
+          "JSON in ShareGPT conversation format"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "notes": "The card has license metadata only. The project training README supplies formatting and purpose. No sample count or split inventory is inferred from the training configuration.",
+        "splits": [],
+        "supervision": [
+          "supervised conversations for AutoDroid-V2 fine-tuning"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "Publisher dataset-card license declaration; does not establish permissions for model weights or third-party application content.",
+          "declared": "mit",
+          "retrieved_at": "2026-10-17T09:15:33Z",
+          "url": "https://huggingface.co/datasets/BlitherBoom/AutoDroid-V2-Dataset/raw/main/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T09:15:33Z",
+          "role": "primary",
+          "sha256": "1b300edfbf44167da71639a56f8ab668dabd33769575fb313ebef5220fc1bddb",
+          "supports": [
+            "name",
+            "kind",
+            "identity",
+            "release_status",
+            "details.hub_id",
+            "details.gated",
+            "details.disabled",
+            "details.release_revision",
+            "details.availability",
+            "details.download_url",
+            "details.dataset_profile.modalities"
+          ],
+          "url": "https://huggingface.co/api/datasets/BlitherBoom/AutoDroid-V2-Dataset"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T09:14:58Z",
+          "role": "primary",
+          "sha256": "8ba37983a2c2da53d96a52696c07e4bdbea4e987a1a07b557935d614c3be46d2",
+          "supports": [
+            "summary",
+            "topics",
+            "scope",
+            "notes",
+            "details.dataset_profile",
+            "relations"
+          ],
+          "url": "https://raw.githubusercontent.com/MobileLLM/AutoDroid-V2/HEAD/step_3_training/README.md"
         }
       ]
     },

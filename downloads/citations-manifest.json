@@ -1,41 +1,41 @@
 {
   "bibtex_compatibility": "UTF-8 literal names; non-ASCII rendering requires a Unicode-capable bibliography/TeX toolchain. Older styles may ignore url, doi, eprint, and archivePrefix.",
-  "catalog_sha256": "726be85123dd7b5c2f44ddcf0e56f38b45756e407acc1438b69786ee7bf79882",
+  "catalog_sha256": "4a1f70bf57987241a9bdc8f222b1c94779e2acd14d59a0237ebf8b37a6cd94d7",
   "citation_policy": "Recorded source versions and full literal author names; unknown venues and dates are omitted.",
   "date_policy": "issued/year use first published_at only; version updates remain separate in note/custom.",
   "encoding": "UTF-8",
   "exports": [
     {
-      "bytes": 410938,
+      "bytes": 468891,
       "file": "citations.bib",
       "format": "bibtex",
       "includes_metadata_only": false,
-      "records": 615,
-      "sha256": "dd9d5a548c652c2f3a729ddec5859daadfea0d7b97b2572e2ab20dec91ce28a2"
+      "records": 701,
+      "sha256": "9036e6a9e3645120119bb2cce54b4292dfad64eebacb0e1c689f18d90ea42783"
     },
     {
-      "bytes": 1106922,
+      "bytes": 1262713,
       "file": "citations.csl.json",
       "format": "csl-json",
       "includes_metadata_only": false,
-      "records": 615,
-      "sha256": "bd5db5e0fabc0eca9b6aa8eebe86578a508d43841fff85ba1ae02ce3608e7619"
+      "records": 701,
+      "sha256": "bdf7af0c9f44bfff1cf9ee0c672c55c2d91c59939a1dbbc26f6a8d0915a9dc81"
     },
     {
-      "bytes": 1463963,
+      "bytes": 1462001,
       "file": "citations-all.bib",
       "format": "bibtex",
       "includes_metadata_only": true,
       "records": 2164,
-      "sha256": "04148c107eb760a273fe377cc8c0233db1b0075c68b1379457d59dd2878fc656"
+      "sha256": "9887beb90d613d907a415741e31723e29d77357f206a606e3ae780b9a78f6933"
     },
     {
-      "bytes": 3857596,
+      "bytes": 3855635,
       "file": "citations-all.csl.json",
       "format": "csl-json",
       "includes_metadata_only": true,
       "records": 2164,
-      "sha256": "1f4e1601994b9d9657e936eff5ba71c72c4895cf5fc242d30502326ef04e795e"
+      "sha256": "c8f111fa7e638216fde81d1e24340a521b66245ff1cad53743b81032facd43e0"
     }
   ],
   "format_sources": [

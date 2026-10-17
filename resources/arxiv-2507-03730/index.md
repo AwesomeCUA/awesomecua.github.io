@@ -8,7 +8,7 @@ SimpAgent prunes distracting interface elements with visual masks and compresses
 - Review: curated
 - Scope: core
 - Environments: web, cross-platform
-- Topics: efficiency, history, web-navigation, mobile-navigation
+- Topics: efficiency, interaction-history, web-navigation, mobile-navigation
 - Evidence checked: 2026-10-16T06:36:50Z
 - ID: arxiv:2507.03730
 

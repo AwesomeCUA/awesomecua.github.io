@@ -8,7 +8,7 @@ The context-aware Aria-UI release that uses interaction context to support groun
 - Review: curated
 - Scope: core
 - Environments: android, desktop
-- Topics: grounding, history, action-prediction
+- Topics: grounding, interaction-history, action-prediction
 - Evidence checked: 2026-10-17T02:44:29Z
 - ID: url:085b6811ddd6f797475d
 

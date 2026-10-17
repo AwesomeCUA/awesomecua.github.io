@@ -25,7 +25,6 @@
         "kind",
         "summary",
         "environments",
-        "topics",
         "scope",
         "relations",
         "details"
@@ -41,7 +40,8 @@
         "summary",
         "environments",
         "relations",
-        "release_status"
+        "release_status",
+        "topics"
       ],
       "url": "https://raw.githubusercontent.com/AriaUI/Aria-UI/HEAD/README.md"
     },
@@ -88,7 +88,7 @@
   "summary": "The context-aware Aria-UI release that uses interaction context to support grounding in dynamic Android and desktop agent tasks.",
   "topics": [
     "grounding",
-    "history",
+    "interaction-history",
     "action-prediction"
   ],
   "updated_at": null,

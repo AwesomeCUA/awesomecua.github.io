@@ -31,7 +31,8 @@
     }
   },
   "environments": [
-    "unspecified"
+    "desktop",
+    "windows"
   ],
   "evidence": [
     {
@@ -48,6 +49,22 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=2410.06212%2C2410.06215%2C2410.07283%2C2410.07331%2C2410.07869%2C2410.08209%2C2410.08368%2C2410.10570%2C2410.12481%2C2410.12669%2C2410.15549%2C2410.16950%2C2410.21909%2C2410.22584%2C2410.22770%2C2410.23022%2C2410.23555%2C2411.02006%2C2411.02393%2C2411.02479%2C2411.03312%2C2411.03817%2C2411.05451%2C2411.11145%2C2411.11904%2C2411.11916%2C2411.12990%2C2411.14228%2C2411.15397%2C2412.01857%2C2412.04144%2C2412.04383%2C2412.05819%2C2412.06224%2C2412.06771%2C2412.09530%2C2412.09613%2C2412.10047%2C2412.10380%2C2412.10673%2C2412.12004%2C2412.13178%2C2412.13810%2C2412.14203%2C2412.14222%2C2412.16359%2C2412.19638%2C2412.20206%2C2501.03895%2C2501.05179&max_results=50"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:13:28Z",
+      "role": "primary",
+      "sha256": "aaddc3cae2fcadc9780390fceb663c0200ecb042639e2c69bccea19607cd78ea",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes"
+      ],
+      "url": "https://arxiv.org/abs/2412.10047v2"
     }
   ],
   "id": "arxiv:2412.10047",
@@ -55,7 +72,7 @@
     "arxiv": "2412.10047"
   },
   "kind": "paper",
-  "last_verified_at": "2026-10-17T07:57:41Z",
+  "last_verified_at": "2026-10-17T09:13:28Z",
   "licenses": {
     "code": null,
     "data": null,
@@ -64,18 +81,22 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2412.10047"
     }
   ],
   "name": "Large Action Models: From Inception to Implementation",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced.",
   "published_at": "2024-12-13",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Uses a Windows-agent case study to describe a development workflow for large action models, covering data collection, training, grounding, environment integration, and evaluation.",
+  "topics": [
+    "automation",
+    "data-generation",
+    "evaluation"
+  ],
   "updated_at": "2025-01-13",
   "url": "https://arxiv.org/abs/2412.10047"
 }

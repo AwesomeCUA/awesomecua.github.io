@@ -77,7 +77,7 @@
   "summary": "Trains a smartphone assistant from sequences of screenshots paired with earlier actions. The model predicts UI-only interactions such as taps and swipes, with evaluation on Android in the Wild.",
   "topics": [
     "mobile-navigation",
-    "history",
+    "interaction-history",
     "action-prediction"
   ],
   "updated_at": "2024-04-12",

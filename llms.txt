@@ -8,6 +8,7 @@ Resource counts are not independent project counts. Primary-source retrieval doe
 
 - [Catalog](https://awesomecua.github.io/catalog/): resource categories
 - [Research](https://awesomecua.github.io/papers/): reviewed papers and surveys
+- [中文论文库](https://awesomecua.github.io/zh/papers/): 按年份浏览论文与综述
 - [Guides](https://awesomecua.github.io/guides/): definitions and practical reading guides
 - [Editorial policy](https://awesomecua.github.io/about/): review states and limits
 - [Coverage](https://awesomecua.github.io/coverage/): source populations and known gaps

@@ -15,7 +15,7 @@
     }
   },
   "environments": [
-    "unspecified"
+    "web"
   ],
   "evidence": [
     {
@@ -32,6 +32,22 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=1511.03745%2C1602.02261%2C1809.04860%2C1811.06521%2C1811.07871%2C1812.03426%2C1901.11528%2C1909.00031%2C1912.03098%2C2003.00431%2C2004.14973%2C2006.16241%2C2007.04428%2C2010.09670%2C2010.12083%2C2012.12350%2C2104.08244%2C2105.11941%2C2106.09422%2C2106.13500%2C2107.05911%2C2108.03298%2C2108.05308%2C2110.10661%2C2201.04100%2C2201.11676%2C2203.10897%2C2204.05239%2C2205.10816%2C2206.08853%2C2206.12839%2C2206.15407%2C2208.06032%2C2208.08080%2C2209.14981%2C2210.01379%2C2210.03735%2C2210.08073%2C2210.10275%2C2210.11435%2C2211.07912%2C2211.09527%2C2212.13326%2C2301.10677%2C2301.13779%2C2302.12173%2C2303.00001%2C2303.11366%2C2303.12027%2C2304.03442&max_results=50"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:11:46Z",
+      "role": "primary",
+      "sha256": "5f99bcea7c1585129af46fa5c978002778dedc3d98e3a907e92030f4a5588f00",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes"
+      ],
+      "url": "https://arxiv.org/abs/1602.02261v2"
     }
   ],
   "id": "arxiv:1602.02261",
@@ -39,7 +55,7 @@
     "arxiv": "1602.02261"
   },
   "kind": "paper",
-  "last_verified_at": "2026-10-17T07:57:26Z",
+  "last_verified_at": "2026-10-17T09:11:46Z",
   "licenses": {
     "code": null,
     "data": null,
@@ -48,18 +64,22 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/1602.02261"
     }
   ],
   "name": "End-to-End Goal-Driven Web Navigation",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "Reviewed against the exact-version official arXiv abstract page; its normalized abstract SHA-256 matches the retained bibliographic snapshot. The original API response body was not locally available for this review. Experimental results and artifact availability have not been independently reproduced.",
   "published_at": "2016-02-06",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Introduces WebNav for converting websites into goal-directed hyperlink navigation tasks and WikiNav for evaluating language-conditioned navigation and question answering on Wikipedia.",
+  "topics": [
+    "web-navigation",
+    "evaluation",
+    "planning"
+  ],
   "updated_at": "2016-05-20",
   "url": "https://arxiv.org/abs/1602.02261"
 }
