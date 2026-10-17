@@ -1,20 +1,20 @@
 # CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents
 
-Bibliographic record for CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+CUA-Suite combines continuous expert desktop demonstrations in VideoCUA with the UI-Vision evaluation benchmark and GroundCUA grounding data. Screen recordings, cursor traces and layered annotations support study of temporal behavior and professional software workflows.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-24440/
 - Original source: https://arxiv.org/abs/2603.24440
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: data-generation, video, evaluation, grounding, workflow
 - Evidence checked: 2026-10-16T06:36:39Z
 - ID: arxiv:2603.24440
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
 ## Authors
 
@@ -38,4 +38,5 @@ Xiangru Jian, Shravan Nayak, Kevin Qinghong Lin, Aarash Feizi, Kaixin Li, Patric
 
 ## Primary evidence
 
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=300&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:39Z; SHA-256 27c33576ed43c7bc63d4b290f6558553bd1d3aa112a7358138f4045e1bc14918)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=300&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:39Z; SHA-256 27c33576ed43c7bc63d4b290f6558553bd1d3aa112a7358138f4045e1bc14918)

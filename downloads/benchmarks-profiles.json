@@ -1,11 +1,92 @@
 {
   "schema_version": 1,
   "kind": "benchmark",
-  "profile_count": 30,
-  "curated_resource_count": 65,
+  "profile_count": 35,
+  "curated_resource_count": 70,
   "unit": "resource profile; count observations retain their own units and populations",
   "limitations": "Source-reviewed descriptions and reported or computed inventory counts. No performance ranking, independent reproduction, or global-completeness claim.",
   "records": [
+    {
+      "id": "github:mcgill-nlp/agent-reward-bench",
+      "name": "AgentRewardBench",
+      "url": "https://github.com/McGill-NLP/agent-reward-bench",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "judge verdicts"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending",
+            "population": "paper-reported expert-reviewed set",
+            "qualifier": "exact",
+            "unit": "trajectories",
+            "value": 1302
+          }
+        ],
+        "evaluation": "Compare automatic judgments with expert answers on task success, side effects and repetitiveness.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/McGill-NLP/agent-reward-bench/HEAD/README.md",
+          "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending"
+        ],
+        "focus": [
+          "automatic evaluator agreement",
+          "task success",
+          "side effects",
+          "repetition"
+        ],
+        "notes": "Counts refer to the paper study; current Hub package files are not converted into trajectory totals.",
+        "observations": [
+          "web trajectories",
+          "screenshots",
+          "actions"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "Publisher dataset-card Terms of Use, including third-party restrictions; no standard SPDX or unrestricted permission is asserted.",
+          "declared": "Custom AgentRewardBench Terms of Use",
+          "retrieved_at": "2026-10-17T04:03:20Z",
+          "url": "https://huggingface.co/datasets/McGill-NLP/agent-reward-bench/raw/main/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T03:59:54Z",
+          "role": "primary",
+          "sha256": "fb753e41c3eb19be172e9e7fccbc6bcadf44288507f82b190ca99e64144294b6",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details"
+          ],
+          "url": "https://raw.githubusercontent.com/McGill-NLP/agent-reward-bench/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:36:54Z",
+          "role": "primary",
+          "sha256": "4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending"
+        }
+      ]
+    },
     {
       "id": "github:thudm/android-lab",
       "name": "AndroidLab",
@@ -1037,6 +1118,74 @@
       ]
     },
     {
+      "id": "url:1d5b85321b98765141fc",
+      "name": "Mobile-Bench-v2 released data",
+      "url": "https://huggingface.co/datasets/xwk123/MobileBench-v2",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "actions": [
+          "mobile UI actions",
+          "clarification responses"
+        ],
+        "counts": [],
+        "evaluation": "Paper defines multi-path and noise/ambiguity evaluations; the public card identifies which files are full common-task sets and which are samples.",
+        "evidence_urls": [
+          "https://huggingface.co/datasets/xwk123/MobileBench-v2/raw/main/README.md",
+          "https://export.arxiv.org/api/query?id_list=2503.16788%2C2503.17709%2C2503.18492%2C2503.19537%2C2503.20978%2C2503.21620%2C2503.23434%2C2504.01382%2C2504.07981%2C2504.10445%2C2504.10458%2C2504.11257%2C2504.11281%2C2504.12679%2C2504.13805%2C2504.13865%2C2504.14239%2C2504.18575%2C2504.19838%2C2504.20464%2C2505.10924%2C2505.11891%2C2505.12299%2C2505.12632%2C2505.13227%2C2505.13887%2C2505.13909%2C2505.14289%2C2505.15810%2C2505.16282%2C2505.16827%2C2505.18829%2C2505.19897%2C2505.21496%2C2505.21499%2C2505.21936%2C2505.22648%2C2505.23762%2C2505.24838%2C2506.00618%2C2506.01391%2C2506.01968%2C2506.02456%2C2506.03143%2C2506.03569%2C2506.04135%2C2506.04614%2C2506.07672%2C2506.08012%2C2506.08972&max_results=50"
+        ],
+        "focus": [
+          "offline multi-path evaluation",
+          "noisy interfaces",
+          "ambiguous instructions"
+        ],
+        "notes": "Release completeness differs by split. No full-benchmark sample total is inferred from the archive manifest.",
+        "observations": [
+          "mobile screenshots",
+          "XML UI state",
+          "instructions"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T04:01:33Z",
+          "role": "primary",
+          "sha256": "13424be795c7b75b8c2195469c1252a7b3ec633e8bb31f1f6d7e44476611cbe9",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "topics",
+            "scope",
+            "relations",
+            "details",
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/xwk123/MobileBench-v2/raw/main/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:31:42Z",
+          "role": "primary",
+          "sha256": "afe4e75ffb8a5c44f4c088a90ffa5f53553036f514aa768f5aee0c5aa38d731e",
+          "supports": [
+            "relations",
+            "summary"
+          ],
+          "url": "https://export.arxiv.org/api/query?id_list=2503.16788%2C2503.17709%2C2503.18492%2C2503.19537%2C2503.20978%2C2503.21620%2C2503.23434%2C2504.01382%2C2504.07981%2C2504.10445%2C2504.10458%2C2504.11257%2C2504.11281%2C2504.12679%2C2504.13805%2C2504.13865%2C2504.14239%2C2504.18575%2C2504.19838%2C2504.20464%2C2505.10924%2C2505.11891%2C2505.12299%2C2505.12632%2C2505.13227%2C2505.13887%2C2505.13909%2C2505.14289%2C2505.15810%2C2505.16282%2C2505.16827%2C2505.18829%2C2505.19897%2C2505.21496%2C2505.21499%2C2505.21936%2C2505.22648%2C2505.23762%2C2505.24838%2C2506.00618%2C2506.01391%2C2506.01968%2C2506.02456%2C2506.03143%2C2506.03569%2C2506.04135%2C2506.04614%2C2506.07672%2C2506.08012%2C2506.08972&max_results=50"
+        }
+      ]
+    },
+    {
       "id": "url:d7a4f34a6a5202af5f64",
       "name": "MobileGUI-VBench",
       "url": "https://huggingface.co/datasets/vivo-ai/MobileGUI-VBench",
@@ -1384,6 +1533,58 @@
       ]
     },
     {
+      "id": "github:wuklab/osworld-human",
+      "name": "OSWorld-Human",
+      "url": "https://github.com/WukLab/osworld-human",
+      "environments": [
+        "desktop"
+      ],
+      "profile": {
+        "actions": [
+          "efficiency scores"
+        ],
+        "counts": [],
+        "evaluation": "The scorer consumes OSWorld results and a specified maximum step budget; the README distinguishes single-action and grouped-action WES+ and WES-.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/WukLab/osworld-human/HEAD/README.md"
+        ],
+        "focus": [
+          "action efficiency relative to humans"
+        ],
+        "notes": "Reference solutions are published for evaluation and expressly discouraged for training. No task count is inferred from file count.",
+        "observations": [
+          "OSWorld result trajectories",
+          "human reference actions"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T03:59:54Z",
+          "role": "primary",
+          "sha256": "35c2f4dbed9d9bfc57f4c5a3f2fd70d313d6b463403b482c2fd4066d27b02cc1",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details"
+          ],
+          "url": "https://raw.githubusercontent.com/WukLab/osworld-human/HEAD/README.md"
+        }
+      ]
+    },
+    {
       "id": "github:mcgill-nlp/safearena",
       "name": "SafeArena",
       "url": "https://github.com/McGill-NLP/safearena",
@@ -1552,6 +1753,82 @@
             "environments"
           ],
           "url": "https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:17729e1c532ba7043404",
+      "name": "ScreenSpot-v2 instruction variants",
+      "url": "https://huggingface.co/datasets/likaixin/ScreenSpot-v2-variants",
+      "environments": [
+        "cross-platform"
+      ],
+      "profile": {
+        "actions": [
+          "target localization",
+          "identification of impossible requests"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/likaixin/ScreenSpot-v2-variants/raw/main/README.md",
+            "population": "instruction-variant design",
+            "qualifier": "exact",
+            "unit": "instruction types",
+            "value": 4
+          }
+        ],
+        "evaluation": "Publisher supplies original, action, description and negative instruction types; no common end-to-end success metric is asserted.",
+        "evidence_urls": [
+          "https://huggingface.co/datasets/likaixin/ScreenSpot-v2-variants/raw/main/README.md",
+          "https://huggingface.co/api/datasets/likaixin/ScreenSpot-v2-variants"
+        ],
+        "focus": [
+          "instruction-form robustness",
+          "negative grounding requests"
+        ],
+        "notes": "Reuses ScreenSpot-v2 imagery. Image-file count is not treated as a count of independent screenshots or tasks.",
+        "observations": [
+          "screenshots",
+          "instructions"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T04:07:19Z",
+          "role": "primary",
+          "sha256": "7fb2bc9499d8a2b37b663c116af49d11bba493e6767d76a5305fad93257bebf2",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "topics",
+            "scope",
+            "relations",
+            "details"
+          ],
+          "url": "https://huggingface.co/datasets/likaixin/ScreenSpot-v2-variants/raw/main/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T04:07:19Z",
+          "role": "primary",
+          "sha256": "dea98efa75e063eee2d6bfb5d46da94b41df3d779e2fb0bdaea7866534b5c469",
+          "supports": [
+            "identity",
+            "release_status",
+            "details",
+            "environments"
+          ],
+          "url": "https://huggingface.co/api/datasets/likaixin/ScreenSpot-v2-variants"
         }
       ]
     },
@@ -1974,6 +2251,67 @@
             "details.benchmark_protocol"
           ],
           "url": "https://export.arxiv.org/api/query?id_list=1802.08802%2C1808.09132%2C2005.03776%2C2101.09465%2C2103.16057%2C2104.08560%2C2105.13231%2C2107.03374%2C2107.13731%2C2108.03353%2C2202.02312%2C2202.08137%2C2204.01691%2C2205.11029%2C2207.01206%2C2209.08199%2C2209.08655%2C2209.14927%2C2209.15099%2C2210.02663%2C2210.03629%2C2210.03945%2C2211.07615%2C2301.10165%2C2301.13280%2C2302.04761%2C2303.07280%2C2303.08774%2C2303.17491%2C2303.17580%2C2304.04370%2C2304.07061%2C2305.04091%2C2305.05662%2C2305.08144%2C2305.10601%2C2305.11854%2C2305.12487%2C2305.14257%2C2305.14325%2C2305.16504%2C2305.16653%2C2305.19308%2C2306.00245%2C2306.06070%2C2306.07863%2C2307.10088%2C2307.12856%2C2307.13854%2C2308.01990&max_results=50"
+        }
+      ]
+    },
+    {
+      "id": "url:5e2bd1b3398974b79c9c",
+      "name": "WebClick",
+      "url": "https://huggingface.co/datasets/Hcompany/WebClick",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "click target or bounding box"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/Hcompany/WebClick/raw/main/README.md",
+            "population": "test split",
+            "qualifier": "exact",
+            "unit": "examples",
+            "value": 1639
+          }
+        ],
+        "evaluation": "Assess localization against annotated targets; agentbrowse, humanbrowse and calendars are distinct source buckets.",
+        "evidence_urls": [
+          "https://huggingface.co/datasets/Hcompany/WebClick/raw/main/README.md"
+        ],
+        "focus": [
+          "instruction-conditioned web localization"
+        ],
+        "notes": "The card reports more than 100 websites but does not provide a precise website total. Grounding accuracy does not establish task completion.",
+        "observations": [
+          "web screenshots",
+          "instructions"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T04:01:33Z",
+          "role": "primary",
+          "sha256": "958bbf0eb9f61afd6c576673fbe6f7d84e6c4b8a9d4d8c4fc0e1224b5d8da30b",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details"
+          ],
+          "url": "https://huggingface.co/datasets/Hcompany/WebClick/raw/main/README.md"
         }
       ]
     },

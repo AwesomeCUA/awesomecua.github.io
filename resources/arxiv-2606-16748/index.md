@@ -1,20 +1,20 @@
 # MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents
 
-Bibliographic record for MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+MyPCBench tests personal-assistant tasks on a Linux desktop with simulated web applications and data for a single fictional persona. A shared computer-and-shell interface enables evaluation of cross-application workflows that depend on personal context and account-like state.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2606-16748/
 - Original source: https://arxiv.org/abs/2606.16748
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
+- Review: curated
+- Scope: core
+- Environments: linux, web
+- Topics: evaluation, cross-app, workflow
 - Evidence checked: 2026-10-16T06:36:36Z
 - ID: arxiv:2606.16748
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
 ## Authors
 
@@ -38,4 +38,5 @@ Lawrence Keunho Jang, Andrew Keunwoo Jang, Jing Yu Koh, Ruslan Salakhutdinov
 
 ## Primary evidence
 
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:36Z; SHA-256 aeacc1a41bb90f3d296823356174fe77d1547ffbe7cd56652cf9d98fca09206c)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:36Z; SHA-256 aeacc1a41bb90f3d296823356174fe77d1547ffbe7cd56652cf9d98fca09206c)

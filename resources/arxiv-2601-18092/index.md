@@ -1,20 +1,20 @@
 # From Struggle to Success: Context-Aware Guidance for Screen Reader Users in Computer Use
 
-Bibliographic record for From Struggle to Success: Context-Aware Guidance for Screen Reader Users in Computer Use. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Introduces AskEase, an on-demand assistant that combines contextual information to provide screen-reader-friendly computer-use guidance. A study with screen-reader users evaluates task completion and perceived workload while preserving human control of the interaction.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-18092/
 - Original source: https://arxiv.org/abs/2601.18092
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
+- Review: curated
+- Scope: adjacent
 - Environments: unspecified
-- Topics:
+- Topics: human-in-the-loop, evaluation, workflow
 - Evidence checked: 2026-10-16T06:36:43Z
 - ID: arxiv:2601.18092
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
 ## Authors
 
@@ -38,4 +38,5 @@ Nan Chen, Jing Lu, Zilong Wang, Luna K. Qiu, Siming Chen, Yuqing Yang
 
 ## Primary evidence
 
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=400&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:43Z; SHA-256 c432f419481a105a8ce71174ec4aea23c4f0d36ddf89cfe1d0974fa349f6cb59)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=400&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:43Z; SHA-256 c432f419481a105a8ce71174ec4aea23c4f0d36ddf89cfe1d0974fa349f6cb59)

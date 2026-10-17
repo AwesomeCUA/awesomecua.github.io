@@ -27,3 +27,16 @@ Resource HTML pages have a companion `index.md` at the same path. This file is a
 - [Dataset profiles](https://awesomecua.github.io/compare/datasets/)
 - [Benchmark profiles JSON](https://awesomecua.github.io/downloads/benchmarks-profiles.json)
 - [Dataset profiles JSON](https://awesomecua.github.io/downloads/datasets-profiles.json)
+
+## Agent and RAG access
+
+```sh
+git clone https://github.com/reacher-z/Awesome-CUA.git
+```
+
+- [Agent instructions](https://awesomecua.github.io/AGENTS.md)
+- [Human and agent guide](https://awesomecua.github.io/agents/)
+- [中文指南](https://awesomecua.github.io/zh/agents/)
+- [Reviewed retrieval documents](https://awesomecua.github.io/downloads/rag-documents.jsonl)
+- [All retrieval documents](https://awesomecua.github.io/downloads/rag-all-records.jsonl)
+- [Export manifest](https://awesomecua.github.io/downloads/rag-manifest.json)

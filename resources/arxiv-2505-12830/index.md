@@ -1,41 +1,12 @@
 # 2T1R Regulated Memristor Conductance Control Array Architecture for Neuromorphic Computing using 28nm CMOS Technology
 
-Bibliographic record for 2T1R Regulated Memristor Conductance Control Array Architecture for Neuromorphic Computing using 28nm CMOS Technology. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Status: excluded from the active CUA catalog after scope review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2505-12830/
-- Original source: https://arxiv.org/abs/2505.12830
-- Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-16T06:36:54Z
-- ID: arxiv:2505.12830
+The abstract designs a regulated memristor crossbar architecture for conductance control and vector-matrix multiplication. This neuromorphic circuit design is outside the GUI/computer-use agent scope.
 
-## Limitations
+Original paper: https://arxiv.org/abs/2505.12830
+Evidence: https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending
+Reviewed: 2026-10-17T05:29:09Z
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
-
-## Authors
-
-Neethu Kuriakose, Arun Ashok, Christian Grewing, André Zambanini, Stefan van Waasen
-
-## Recorded arXiv snapshot
-
-- Version: 1
-- Version source: https://arxiv.org/abs/2505.12830v1
-- First submission: 2025-05-19T08:16:47Z
-- Version updated: 2025-05-19T08:16:47Z
-- Abstract SHA-256: a855449bcbc955c849c762d4f4dd9dbfb6ffc153a102c88ebf1ee9a21f65be7c
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-## License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-## Primary evidence
-
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:54Z; SHA-256 4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089)
+Scope decisions: https://awesomecua.github.io/downloads/exclusions.json
+Raw metadata archive: https://awesomecua.github.io/downloads/arxiv-archive.jsonl

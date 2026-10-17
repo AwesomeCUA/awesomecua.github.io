@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "kind": "dataset",
-  "profile_count": 36,
-  "curated_resource_count": 62,
+  "profile_count": 47,
+  "curated_resource_count": 73,
   "unit": "resource profile; count observations retain their own units and populations",
   "limitations": "Source-reviewed descriptions and reported or computed inventory counts. No performance ranking, independent reproduction, or global-completeness claim.",
   "records": [
@@ -1060,6 +1060,221 @@
       ]
     },
     {
+      "id": "url:6cd150ec23361b4d2e84",
+      "name": "GUIAct",
+      "url": "https://huggingface.co/datasets/yiye2023/GUIAct",
+      "environments": [
+        "web",
+        "android"
+      ],
+      "profile": {
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md",
+            "population": "single-step portion",
+            "qualifier": "approximately",
+            "unit": "action instructions",
+            "value": 67000
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md",
+            "population": "multi-step portion",
+            "qualifier": "approximately",
+            "unit": "action instructions",
+            "value": 15000
+          }
+        ],
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md"
+        ],
+        "formats": [
+          "JSON",
+          "Parquet"
+        ],
+        "modalities": [
+          "screenshots",
+          "instructions",
+          "actions"
+        ],
+        "notes": "Quantities are rounded publisher descriptions, not downloaded sample counts. Data-license declarations conflict across first-party sources; no permissive license is inferred.",
+        "splits": [
+          "train",
+          "test"
+        ],
+        "supervision": [
+          "single-step actions",
+          "multi-step navigation"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:36:01Z",
+          "role": "primary",
+          "sha256": "0968273442bfb9a6478fe78f8b9a6247a3bb8e6d028880939b432fd009961e98",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details",
+            "licenses.data"
+          ],
+          "url": "https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:edf38d43800be8c955ae",
+      "name": "GUIChat",
+      "url": "https://huggingface.co/datasets/yiye2023/GUIChat",
+      "environments": [
+        "unspecified"
+      ],
+      "profile": {
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md",
+            "population": "single-turn portion",
+            "qualifier": "approximately",
+            "unit": "QA pairs",
+            "value": 44000
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md",
+            "population": "multi-turn portion",
+            "qualifier": "approximately",
+            "unit": "dialogues",
+            "value": 6000
+          }
+        ],
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md"
+        ],
+        "formats": [
+          "JSON",
+          "Parquet"
+        ],
+        "modalities": [
+          "screenshots",
+          "text",
+          "bounding boxes"
+        ],
+        "notes": "Quantities are rounded publisher descriptions, not downloaded sample counts. Data-license declarations conflict across first-party sources; no permissive license is inferred.",
+        "splits": [],
+        "supervision": [
+          "single-turn question answering",
+          "multi-turn dialogue"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:36:01Z",
+          "role": "primary",
+          "sha256": "0968273442bfb9a6478fe78f8b9a6247a3bb8e6d028880939b432fd009961e98",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details",
+            "licenses.data"
+          ],
+          "url": "https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:0af07e00658a430cee6a",
+      "name": "GUIEnv-local",
+      "url": "https://huggingface.co/datasets/yiye2023/GUIEnv",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md",
+            "population": "GUIEnv-local SFT data",
+            "qualifier": "approximately",
+            "unit": "region-text QA pairs",
+            "value": 700000
+          }
+        ],
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md"
+        ],
+        "formats": [
+          "JSON",
+          "Parquet"
+        ],
+        "modalities": [
+          "screenshots",
+          "text",
+          "bounding boxes"
+        ],
+        "notes": "Quantities are rounded publisher descriptions, not downloaded sample counts. Data-license declarations conflict across first-party sources; no permissive license is inferred.",
+        "splits": [
+          "train",
+          "test"
+        ],
+        "supervision": [
+          "OCR",
+          "region-text grounding"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:36:01Z",
+          "role": "primary",
+          "sha256": "0968273442bfb9a6478fe78f8b9a6247a3bb8e6d028880939b432fd009961e98",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details",
+            "licenses.data"
+          ],
+          "url": "https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md"
+        }
+      ]
+    },
+    {
       "id": "url:511903ebfac45e6751b2",
       "name": "GUIOdyssey — current data release",
       "url": "https://huggingface.co/datasets/hflqf88888/GUIOdyssey",
@@ -1581,6 +1796,101 @@
       ]
     },
     {
+      "id": "url:d3ec5122a2b52fd5ae4b",
+      "name": "OS-Genesis mobile training data",
+      "url": "https://huggingface.co/datasets/OS-Copilot/OS-Genesis-mobile-data",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "counts": [],
+        "evidence_urls": [
+          "https://huggingface.co/datasets/OS-Copilot/OS-Genesis-mobile-data/raw/main/README.md",
+          "https://huggingface.co/api/datasets/OS-Copilot/OS-Genesis-mobile-data",
+          "https://raw.githubusercontent.com/OS-Copilot/OS-Genesis/HEAD/README.md"
+        ],
+        "formats": [
+          "JSONL",
+          "ZIP"
+        ],
+        "modalities": [
+          "screenshots",
+          "text",
+          "actions"
+        ],
+        "notes": "AC and AW refer to distinct target training sets; no sample count is inferred from the two JSONL files or ZIP packaging.",
+        "splits": [
+          "AndroidControl training",
+          "AndroidWorld training"
+        ],
+        "supervision": [
+          "mobile action trajectories"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "declared": "mit",
+          "retrieved_at": "2026-10-17T04:01:34Z",
+          "url": "https://huggingface.co/datasets/OS-Copilot/OS-Genesis-mobile-data/raw/main/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T04:01:34Z",
+          "role": "primary",
+          "sha256": "de9de63e21e60e882277a6268e8153abb6c14aaf3e9a7f83e7f98ac14bf37170",
+          "supports": [
+            "name",
+            "kind",
+            "relations",
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/OS-Copilot/OS-Genesis-mobile-data/raw/main/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T04:01:33Z",
+          "role": "primary",
+          "sha256": "6a5e0c2baecc2dc8bf4466903798f5ecda07cdac917042bbd4cfbe54d895c11e",
+          "supports": [
+            "identity",
+            "release_status",
+            "details",
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/api/datasets/OS-Copilot/OS-Genesis-mobile-data"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:36:01Z",
+          "role": "primary",
+          "sha256": "430e495ab250395d666854bd18b0fc29b819cd784cd7730215ef65e461834d0d",
+          "supports": [
+            "summary",
+            "environments",
+            "topics",
+            "scope"
+          ],
+          "url": "https://raw.githubusercontent.com/OS-Copilot/OS-Genesis/HEAD/README.md"
+        },
+        {
+          "method": "huggingface_card",
+          "retrieved_at": "2026-10-17T04:01:34Z",
+          "role": "primary",
+          "sha256": "de9de63e21e60e882277a6268e8153abb6c14aaf3e9a7f83e7f98ac14bf37170",
+          "supports": [
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/OS-Copilot/OS-Genesis-mobile-data/raw/main/README.md"
+        }
+      ]
+    },
+    {
       "id": "url:ba6453cfdae0eb049ced",
       "name": "Plan-and-Act training data",
       "url": "https://huggingface.co/datasets/xTRam1/plan-and-act-data",
@@ -1799,6 +2109,82 @@
             "details.dataset_profile"
           ],
           "url": "https://huggingface.co/datasets/OpenGVLab/ScaleCUA-Data/raw/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:4784f63cd7117f64a2a3",
+      "name": "ScienceBoard evaluation trajectories",
+      "url": "https://huggingface.co/datasets/OS-Copilot/ScienceBoard-Traj",
+      "environments": [
+        "desktop",
+        "linux"
+      ],
+      "profile": {
+        "counts": [],
+        "evidence_urls": [
+          "https://huggingface.co/api/datasets/OS-Copilot/ScienceBoard-Traj",
+          "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/README.md"
+        ],
+        "formats": [
+          "ZIP"
+        ],
+        "modalities": [
+          "screenshots",
+          "accessibility trees",
+          "text"
+        ],
+        "notes": "Observation modes follow publisher archive labels rather than inspected record schemas. No count or training-use permission is inferred.",
+        "splits": [],
+        "supervision": [
+          "evaluation rollout logs"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T04:07:19Z",
+          "role": "primary",
+          "sha256": "0a97233bd9132fdddc6ddb26fd3cf9f2af06ae086429f367a61cfab0c16c4f44",
+          "supports": [
+            "name",
+            "kind",
+            "identity",
+            "release_status",
+            "details"
+          ],
+          "url": "https://huggingface.co/api/datasets/OS-Copilot/ScienceBoard-Traj"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:35:58Z",
+          "role": "primary",
+          "sha256": "4c3fe93aa740dbf4a279a246ddd836f2590a2a36f39b820abe166e38cb484577",
+          "supports": [
+            "summary",
+            "environments",
+            "relations",
+            "topics",
+            "scope"
+          ],
+          "url": "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/README.md"
+        },
+        {
+          "method": "huggingface_api",
+          "retrieved_at": "2026-10-17T04:07:19Z",
+          "role": "primary",
+          "sha256": "0a97233bd9132fdddc6ddb26fd3cf9f2af06ae086429f367a61cfab0c16c4f44",
+          "supports": [
+            "details",
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/api/datasets/OS-Copilot/ScienceBoard-Traj"
         }
       ]
     },
@@ -2417,6 +2803,303 @@
       ]
     },
     {
+      "id": "url:3dab53c6c38c9e7217ea",
+      "name": "ShowUI-π training data",
+      "url": "https://huggingface.co/datasets/showlab/ShowUI-pi-data",
+      "environments": [
+        "desktop"
+      ],
+      "profile": {
+        "counts": [],
+        "evidence_urls": [
+          "https://huggingface.co/datasets/showlab/ShowUI-pi-data/raw/main/README.md"
+        ],
+        "formats": [
+          "Parquet",
+          "LeRobot metadata"
+        ],
+        "modalities": [
+          "screenshots",
+          "instructions",
+          "actions"
+        ],
+        "notes": "No sample or episode count is inferred from the size tag or package manifest. Main-branch files were inspected; the card’s v3.0 usage example was not executed.",
+        "splits": [],
+        "supervision": [
+          "drag trajectories",
+          "click episodes"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T04:01:33Z",
+          "role": "primary",
+          "sha256": "0e3a2a923865ae24d0de590143e9e32564b0e20db059579582d6181cdcf75bf1",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details"
+          ],
+          "url": "https://huggingface.co/datasets/showlab/ShowUI-pi-data/raw/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:84e5aeeffaf561baa966",
+      "name": "UI-Genie reward data",
+      "url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-RM-517k",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "counts": [],
+        "evidence_urls": [
+          "https://huggingface.co/datasets/HanXiao1999/UI-Genie-RM-517k/raw/main/README.md",
+          "https://raw.githubusercontent.com/Euphoria16/UI-Genie/HEAD/README.md"
+        ],
+        "formats": [
+          "JSONL"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "notes": "The public manifest contains reward_data.jsonl but no separately packaged image archive. The card declares MIT. The 517k identifier is not converted into a verified sample count, and complete image packaging is not inferred from the JSONL filename.",
+        "splits": [],
+        "supervision": [
+          "trajectory rewards"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "declared": "mit",
+          "retrieved_at": "2026-10-17T04:01:34Z",
+          "url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-RM-517k/raw/main/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T04:01:34Z",
+          "role": "primary",
+          "sha256": "dddb70b2b6986525f3980cbe50c3241d17f840a81fda9715b01ac3b25dd35d63",
+          "supports": [
+            "name",
+            "kind",
+            "relations",
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-RM-517k/raw/main/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T03:59:54Z",
+          "role": "primary",
+          "sha256": "e08569bd9d8a6ff44537d4fe69243ddfeb8a41ae5c9f87ef84af50a67c64c726",
+          "supports": [
+            "summary",
+            "environments",
+            "topics",
+            "scope"
+          ],
+          "url": "https://raw.githubusercontent.com/Euphoria16/UI-Genie/HEAD/README.md"
+        },
+        {
+          "method": "huggingface_card",
+          "retrieved_at": "2026-10-17T04:01:34Z",
+          "role": "primary",
+          "sha256": "dddb70b2b6986525f3980cbe50c3241d17f840a81fda9715b01ac3b25dd35d63",
+          "supports": [
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-RM-517k/raw/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:2e1927450da2183a5abe",
+      "name": "UI-Genie trajectory data",
+      "url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-16k",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "counts": [],
+        "evidence_urls": [
+          "https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-16k/raw/main/README.md",
+          "https://raw.githubusercontent.com/Euphoria16/UI-Genie/HEAD/README.md"
+        ],
+        "formats": [
+          "JSONL",
+          "PNG"
+        ],
+        "modalities": [
+          "screenshots",
+          "text",
+          "actions"
+        ],
+        "notes": "Public JSONL annotations and screenshots are present. MIT is declared in the dataset card. The release name, model-card links and annotation filename use different size labels; this review does not infer a reliable trajectory count from them.",
+        "splits": [],
+        "supervision": [
+          "GUI action trajectories"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "declared": "mit",
+          "retrieved_at": "2026-10-17T04:01:34Z",
+          "url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-16k/raw/main/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T04:01:34Z",
+          "role": "primary",
+          "sha256": "a748fc7dbb53d5d751c5ee109e437c377e214b1d837762f8d09995349d86cec9",
+          "supports": [
+            "name",
+            "kind",
+            "relations",
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-16k/raw/main/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T03:59:54Z",
+          "role": "primary",
+          "sha256": "e08569bd9d8a6ff44537d4fe69243ddfeb8a41ae5c9f87ef84af50a67c64c726",
+          "supports": [
+            "summary",
+            "environments",
+            "topics",
+            "scope"
+          ],
+          "url": "https://raw.githubusercontent.com/Euphoria16/UI-Genie/HEAD/README.md"
+        },
+        {
+          "method": "huggingface_card",
+          "retrieved_at": "2026-10-17T04:01:34Z",
+          "role": "primary",
+          "sha256": "a748fc7dbb53d5d751c5ee109e437c377e214b1d837762f8d09995349d86cec9",
+          "supports": [
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-16k/raw/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:16184830c0f4bdb146fa",
+      "name": "UI-S1 released training examples",
+      "url": "https://huggingface.co/datasets/mPLUG/UI_S1_dataset",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/UI-S1/README.md",
+            "population": "public example subset",
+            "qualifier": "exact",
+            "unit": "training examples",
+            "value": 1000
+          }
+        ],
+        "evidence_urls": [
+          "https://huggingface.co/datasets/mPLUG/UI_S1_dataset/raw/main/README.md",
+          "https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/UI-S1/README.md"
+        ],
+        "formats": [
+          "JSONL",
+          "Parquet"
+        ],
+        "modalities": [
+          "images",
+          "text",
+          "actions"
+        ],
+        "notes": "The count is explicitly reported by the publisher, not inferred from the filename. Full training data remains outside this release.",
+        "splits": [
+          "training example subset"
+        ],
+        "supervision": [
+          "GUI actions"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card metadata; third-party assets retain their own terms",
+          "declared": "apache-2.0",
+          "retrieved_at": "2026-10-17T04:07:19Z",
+          "url": "https://huggingface.co/datasets/mPLUG/UI_S1_dataset/raw/main/README.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T04:07:19Z",
+          "role": "primary",
+          "sha256": "d826463e2aa159f083dc74869bfabb8abb5b8ea4f2cdf4aeb7676172b18aaaa5",
+          "supports": [
+            "name",
+            "kind",
+            "relations",
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/mPLUG/UI_S1_dataset/raw/main/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T04:06:57Z",
+          "role": "primary",
+          "sha256": "f668c890a5a87953a243715d0d47367c23f0c99b524d80f48bbdde8163f3e942",
+          "supports": [
+            "summary",
+            "environments",
+            "details.dataset_profile",
+            "topics",
+            "scope"
+          ],
+          "url": "https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/UI-S1/README.md"
+        },
+        {
+          "method": "huggingface_card",
+          "retrieved_at": "2026-10-17T04:07:19Z",
+          "role": "primary",
+          "sha256": "d826463e2aa159f083dc74869bfabb8abb5b8ea4f2cdf4aeb7676172b18aaaa5",
+          "supports": [
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/mPLUG/UI_S1_dataset/raw/main/README.md"
+        }
+      ]
+    },
+    {
       "id": "url:2c2004baae4669f8169a",
       "name": "UI-Vision",
       "url": "https://huggingface.co/datasets/ServiceNow/ui-vision",
@@ -2641,6 +3324,166 @@
             "licenses.data"
           ],
           "url": "https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi:10.7910/DVN/WX8PCK"
+        }
+      ]
+    },
+    {
+      "id": "url:0dbb55f127da04d95222",
+      "name": "Wave UI",
+      "url": "https://huggingface.co/datasets/agentsea/wave-ui",
+      "environments": [
+        "unspecified"
+      ],
+      "profile": {
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/agentsea/wave-ui/raw/main/README.md",
+            "population": "train split",
+            "qualifier": "exact",
+            "unit": "rows",
+            "value": 63530
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/agentsea/wave-ui/raw/main/README.md",
+            "population": "validation split",
+            "qualifier": "exact",
+            "unit": "rows",
+            "value": 7944
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/agentsea/wave-ui/raw/main/README.md",
+            "population": "test split",
+            "qualifier": "exact",
+            "unit": "rows",
+            "value": 7938
+          }
+        ],
+        "evidence_urls": [
+          "https://huggingface.co/datasets/agentsea/wave-ui/raw/main/README.md",
+          "https://huggingface.co/datasets/agentsea/wave-ui/raw/main/LICENSE.md"
+        ],
+        "formats": [
+          "Parquet"
+        ],
+        "modalities": [
+          "images",
+          "text",
+          "bounding boxes",
+          "OCR metadata"
+        ],
+        "notes": "Card-reported row counts are not unique-screen counts. The source field is important for the per-image license terms; the compilation does not relicense original images.",
+        "splits": [
+          "train",
+          "validation",
+          "test"
+        ],
+        "supervision": [
+          "instruction-to-target boxes"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "Publisher compilation license; individual images keep their source-dataset terms and receive no additional rights from this compilation.",
+          "declared": "Wave UI Dataset License; per-image source terms retained",
+          "retrieved_at": "2026-10-17T04:06:57Z",
+          "url": "https://huggingface.co/datasets/agentsea/wave-ui/raw/main/LICENSE.md"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T04:01:33Z",
+          "role": "primary",
+          "sha256": "27ec13aa77dc55113e4d1a19c2269070e2d69d2fe8df8e2313721a1e3fc66bd9",
+          "supports": [
+            "details"
+          ],
+          "url": "https://huggingface.co/datasets/agentsea/wave-ui/raw/main/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T04:06:57Z",
+          "role": "primary",
+          "sha256": "63c6b3ce6a3d9c21a505865ceed698df2894bcb292590c59686e9477df867942",
+          "supports": [
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/datasets/agentsea/wave-ui/raw/main/LICENSE.md"
+        }
+      ]
+    },
+    {
+      "id": "url:fcc98b149272bbf31b05",
+      "name": "WebPRM checklist-generation data",
+      "url": "https://huggingface.co/datasets/LangAGI-Lab/WebPRMCollection_checklist_generation",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/LangAGI-Lab/WebPRMCollection_checklist_generation/raw/main/README.md",
+            "population": "Hub split named test",
+            "qualifier": "exact",
+            "unit": "rows",
+            "value": 3630
+          }
+        ],
+        "evidence_urls": [
+          "https://huggingface.co/datasets/LangAGI-Lab/WebPRMCollection_checklist_generation/raw/main/README.md",
+          "https://huggingface.co/api/collections/LangAGI-Lab/web-shepherd-advancing-prms-for-reinforcing-web-agents-682b4f4ad607fc27c4dc49e8"
+        ],
+        "formats": [
+          "Parquet"
+        ],
+        "modalities": [
+          "screenshots",
+          "text",
+          "action history"
+        ],
+        "notes": "This is the checklist-generation release rather than the separate preference-pair collection. No unique-task count or data permission is inferred.",
+        "splits": [
+          "test"
+        ],
+        "supervision": [
+          "checklist generation",
+          "subgoal analysis"
+        ]
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T04:01:33Z",
+          "role": "primary",
+          "sha256": "3693cb307065a6ced63a4789a7f592b5eba0ad6a5ffe1a3caf0649decd5cb6e8",
+          "supports": [
+            "details"
+          ],
+          "url": "https://huggingface.co/datasets/LangAGI-Lab/WebPRMCollection_checklist_generation/raw/main/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T02:45:05Z",
+          "role": "primary",
+          "sha256": "647d9e7bdad5fe2c03a8cfcd34d93f3b2bf7c1553b517a4a843bc0113fa47456",
+          "supports": [
+            "identity",
+            "summary"
+          ],
+          "url": "https://huggingface.co/api/collections/LangAGI-Lab/web-shepherd-advancing-prms-for-reinforcing-web-agents-682b4f4ad607fc27c4dc49e8"
         }
       ]
     },

@@ -1,20 +1,20 @@
 # ProSoftArena: Benchmarking Hierarchical Capabilities of Multimodal Agents in Professional Software Environments
 
-Bibliographic record for ProSoftArena: Benchmarking Hierarchical Capabilities of Multimodal Agents in Professional Software Environments. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+ProSoftArena evaluates 436 professional-software tasks across six disciplines and 13 applications in a Windows 11 virtual-machine environment. Its capability hierarchy, execution-based checks, and human-in-the-loop evaluation cover precise GUI operations and multi-software workflows.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2601-02399/
 - Original source: https://arxiv.org/abs/2601.02399
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
+- Review: curated
+- Scope: core
+- Environments: windows, desktop
+- Topics: evaluation, industry, science, cross-app
 - Evidence checked: 2026-10-16T06:31:52Z
 - ID: arxiv:2601.02399
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The paper abstract and official full-text sections were reviewed. The full text supports Windows 11 virtual-machine execution, screenshot/state observations, and mouse/keyboard actions. Experimental results and released artifacts have not been independently reproduced.
 
 ## Authors
 
@@ -39,3 +39,5 @@ Jiaxin Ai, Yukang Feng, Fanrui Zhang, Jianwen Sun, Zizhen Li, Chuanhao Li, Yifan
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2510.01670%2C2510.04673%2C2510.10073%2C2510.12200%2C2510.14621%2C2510.16051%2C2510.17790%2C2510.18488%2C2510.18596%2C2510.19488%2C2510.19949%2C2510.20286%2C2510.22009%2C2510.24168%2C2510.24411%2C2510.24563%2C2511.00810%2C2511.04307%2C2511.07332%2C2511.09157%2C2511.12254%2C2511.13087%2C2511.15567%2C2511.16590%2C2511.19663%2C2511.20597%2C2511.20766%2C2512.08529%2C2512.10371%2C2512.10962%2C2512.12634%2C2512.14014%2C2512.15431%2C2512.16295%2C2512.16501%2C2512.19432%2C2512.22894%2C2512.24965%2C2601.02399%2C2601.06031%2C2601.07181%2C2601.07262%2C2601.07779%2C2601.08406%2C2601.09923%2C2601.11044%2C2601.11868%2C2601.12822%2C2601.13060%2C2601.15876&max_results=50 (retrieved 2026-10-16T06:31:52Z; SHA-256 8623b0ff7ef9d2e8ba484cd67359e7b8817e78e9ca22b8f27432c2533f5b90a0)
+- https://export.arxiv.org/api/query?id_list=2510.01670%2C2510.04673%2C2510.10073%2C2510.12200%2C2510.14621%2C2510.16051%2C2510.17790%2C2510.18488%2C2510.18596%2C2510.19488%2C2510.19949%2C2510.20286%2C2510.22009%2C2510.24168%2C2510.24411%2C2510.24563%2C2511.00810%2C2511.04307%2C2511.07332%2C2511.09157%2C2511.12254%2C2511.13087%2C2511.15567%2C2511.16590%2C2511.19663%2C2511.20597%2C2511.20766%2C2512.08529%2C2512.10371%2C2512.10962%2C2512.12634%2C2512.14014%2C2512.15431%2C2512.16295%2C2512.16501%2C2512.19432%2C2512.22894%2C2512.24965%2C2601.02399%2C2601.06031%2C2601.07181%2C2601.07262%2C2601.07779%2C2601.08406%2C2601.09923%2C2601.11044%2C2601.11868%2C2601.12822%2C2601.13060%2C2601.15876&max_results=50 (retrieved 2026-10-16T06:31:52Z; SHA-256 8623b0ff7ef9d2e8ba484cd67359e7b8817e78e9ca22b8f27432c2533f5b90a0)
+- https://arxiv.org/html/2601.02399v1 (retrieved 2026-10-17T04:06:36Z; SHA-256 f9a44f8090369a296a584a9b94c4491662ee25bb8f7239ef75dfd8f775be8887)

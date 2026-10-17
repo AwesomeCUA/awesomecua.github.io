@@ -1,41 +1,12 @@
 # Performance Portable Gradient Computations Using Source Transformation
 
-Bibliographic record for Performance Portable Gradient Computations Using Source Transformation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Status: excluded from the active CUA catalog after scope review.
 
-- Catalog URL: https://awesomecua.github.io/resources/arxiv-2507-13204/
-- Original source: https://arxiv.org/abs/2507.13204
-- Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-16T06:36:50Z
-- ID: arxiv:2507.13204
+The abstract uses source transformation to differentiate Kokkos-based C++ numerical code on GPUs. This automatic-differentiation and scientific-computing method is outside the GUI/computer-use agent scope.
 
-## Limitations
+Original paper: https://arxiv.org/abs/2507.13204
+Evidence: https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending
+Reviewed: 2026-10-17T05:31:21Z
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
-
-## Authors
-
-Kim Liegeois, Brian Kelley, Eric Phipps, Sivasankaran Rajamanickam, Vassil Vassilev
-
-## Recorded arXiv snapshot
-
-- Version: 1
-- Version source: https://arxiv.org/abs/2507.13204v1
-- First submission: 2025-07-17T15:15:25Z
-- Version updated: 2025-07-17T15:15:25Z
-- Abstract SHA-256: f88a290780b4e0527ea2be95d2408e8b0ca7dba47143cdd3a8ef4df3fd17603e
-- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
-
-## License declarations
-
-- code: not recorded
-- data: not recorded
-- document: not recorded
-- weights: not recorded
-
-## Primary evidence
-
-- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:50Z; SHA-256 26fb4922c4c0bb5c9069935ed0aef0a9f56938cf8ae1af9724894fa1409955fb)
+Scope decisions: https://awesomecua.github.io/downloads/exclusions.json
+Raw metadata archive: https://awesomecua.github.io/downloads/arxiv-archive.jsonl

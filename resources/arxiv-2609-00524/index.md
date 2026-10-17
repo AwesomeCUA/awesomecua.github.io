@@ -1,20 +1,20 @@
 # Are We There Yet? Assessing Computer-Use Agents for Blind Users' Accessible Interaction with Desktop Applications
 
-Bibliographic record for Are We There Yet? Assessing Computer-Use Agents for Blind Users' Accessible Interaction with Desktop Applications. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+A diary study deploys the screen-reader-accessible OLLA computer-use prototype with blind users across desktop applications. Recorded commands and interaction traces support model comparisons and analysis of grounding, planning, constraint tracking and termination failures.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-00524/
 - Original source: https://arxiv.org/abs/2609.00524
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: evaluation, human-in-the-loop, grounding
 - Evidence checked: 2026-10-16T06:36:32Z
 - ID: arxiv:2609.00524
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
 ## Authors
 
@@ -38,4 +38,5 @@ Satwik Ram Kodandaram, Monalika Padma Reddy, Xiaojun Bi, Jiawei Zhou, I. V. Rama
 
 ## Primary evidence
 
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:32Z; SHA-256 13d3fb5811d203f2e6b80eb45d30ebc0b3cfefd88e2034ffa3b1b80687bef285)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:32Z; SHA-256 13d3fb5811d203f2e6b80eb45d30ebc0b3cfefd88e2034ffa3b1b80687bef285)

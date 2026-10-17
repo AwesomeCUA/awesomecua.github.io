@@ -19,9 +19,12 @@ Inclusion does not establish reproducibility or endorsement.
 ## License declarations
 
 - code: not recorded
-- data: apache-2.0 — https://huggingface.co/datasets/xwk123/Mobile3M
+- data: not recorded
 - document: not recorded
 - weights: not recorded
+
+- data review: The retained first-party API has Apache-2.0 card metadata but its publisher description explicitly assigns Apache to source code and CC-BY-NC-SA-4.0 to the dataset. A single permissive dataset declaration is unresolved.
+  Sources: https://huggingface.co/api/datasets/xwk123/Mobile3M
 
 ## Primary evidence
 

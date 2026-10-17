@@ -1,20 +1,20 @@
 # GUI-CEval: A Hierarchical and Comprehensive Chinese Benchmark for Mobile GUI Agents
 
-Bibliographic record for GUI-CEval: A Hierarchical and Comprehensive Chinese Benchmark for Mobile GUI Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+GUI-CEval evaluates Chinese mobile GUI agents through a hierarchy of atomic abilities and application-level tasks collected on physical devices. Its diagnostics cover perception, planning, reflection, execution and post-action evaluation across a broad set of apps.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2603-15039/
 - Original source: https://arxiv.org/abs/2603.15039
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
+- Review: curated
+- Scope: core
 - Environments: unspecified
-- Topics:
+- Topics: evaluation, mobile-navigation, self-reflection, screen-understanding
 - Evidence checked: 2026-10-16T06:36:39Z
 - ID: arxiv:2603.15039
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
 
 ## Authors
 
@@ -38,4 +38,5 @@ Yang Li, Yuchen Liu, Haoyu Lu, Zhiqiang Xia, Hongzhen Wang, Kaiyang Han, Changpe
 
 ## Primary evidence
 
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=300&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:39Z; SHA-256 27c33576ed43c7bc63d4b290f6558553bd1d3aa112a7358138f4045e1bc14918)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=300&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:39Z; SHA-256 27c33576ed43c7bc63d4b290f6558553bd1d3aa112a7358138f4045e1bc14918)
