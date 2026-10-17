@@ -1,0 +1,153 @@
+{
+  "aliases": [],
+  "authors": [
+    "James Allen",
+    "Nathanael Chambers",
+    "George Ferguson",
+    "Lucian Galescu",
+    "Hyuckchul Jung",
+    "Mary Swift",
+    "William Taysom"
+  ],
+  "details": {
+    "publication": {
+      "authors": [
+        "James Allen",
+        "Nathanael Chambers",
+        "George Ferguson",
+        "Lucian Galescu",
+        "Hyuckchul Jung",
+        "Mary Swift",
+        "William Taysom"
+      ],
+      "date_basis": "Supplied year precision: 2007. Papers section: AAAI-2007",
+      "date_parts": [
+        2007
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf",
+        "https://www.cs.rochester.edu/research/cisd/projects/plow/"
+      ],
+      "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+      "issue": null,
+      "notes": "The ordered names follow the original published paper, without expanding initials or replacing names from secondary indexes. DOI and volume number are not supplied in the retained primary sources. No exact publication month/day is established.",
+      "pages": "1514-1519",
+      "pdf_url": "https://cdn.aaai.org/AAAI/2007/AAAI07-240.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "PLOW: A Collaborative Task Learning Agent",
+      "type": "conference-paper",
+      "url": "https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf",
+      "venue": "Twenty-Second AAAI National Conference on Artificial Intelligence",
+      "volume": null
+    }
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:26Z",
+      "role": "primary",
+      "sha256": "795d275c9f85180561fd101652221d30fb98daca2c2a00faf2b57c397bdfd68d",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.pdf_url",
+        "details.publication.title",
+        "details.publication.url"
+      ],
+      "url": "https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:24Z",
+      "role": "primary",
+      "sha256": "c0b3571efd5f2e137e42b38107de29aca6668819bec84109912d514867d85b8c",
+      "supports": [
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.notes",
+        "details.publication.type",
+        "details.publication.venue"
+      ],
+      "url": "https://www.cs.rochester.edu/research/cisd/projects/plow/"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:26Z",
+      "role": "primary",
+      "sha256": "795d275c9f85180561fd101652221d30fb98daca2c2a00faf2b57c397bdfd68d",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.pdf_url",
+        "details.publication.title",
+        "details.publication.url",
+        "environments",
+        "name",
+        "scope",
+        "summary",
+        "topics"
+      ],
+      "url": "https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:24Z",
+      "role": "primary",
+      "sha256": "c0b3571efd5f2e137e42b38107de29aca6668819bec84109912d514867d85b8c",
+      "supports": [
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.notes",
+        "details.publication.type",
+        "details.publication.venue",
+        "environments",
+        "kind"
+      ],
+      "url": "https://www.cs.rochester.edu/research/cisd/projects/plow/"
+    }
+  ],
+  "id": "url:628b5251757bb3888e89",
+  "identifiers": {},
+  "kind": "paper",
+  "last_verified_at": "2026-10-17T09:53:26Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf"
+    },
+    {
+      "rel": "publication_pdf",
+      "url": "https://cdn.aaai.org/AAAI/2007/AAAI07-240.pdf"
+    }
+  ],
+  "name": "PLOW: A Collaborative Task Learning Agent",
+  "notes": "The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. The ordered names follow the original published paper, without expanding initials or replacing names from secondary indexes.",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Describes PLOW, which learns executable web-task models from a session combining demonstrations, natural-language explanations, and dialogue. Browser instrumentation connects user actions with DOM structure to support task generalization.",
+  "topics": [
+    "web-navigation",
+    "human-in-the-loop",
+    "planning"
+  ],
+  "updated_at": null,
+  "url": "https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf"
+}

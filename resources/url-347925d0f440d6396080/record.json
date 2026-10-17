@@ -1,0 +1,199 @@
+{
+  "aliases": [],
+  "authors": [
+    "Shaon Barman",
+    "Sarah Chasins",
+    "Ras Bodik",
+    "Sumit Gulwani"
+  ],
+  "details": {
+    "publication": {
+      "authors": [
+        "Shaon Barman",
+        "Sarah Chasins",
+        "Ras Bodik",
+        "Sumit Gulwani"
+      ],
+      "date_basis": "Supplied month precision: 2016-11. year=2016, month=November",
+      "date_parts": [
+        2016,
+        11
+      ],
+      "doi": "10.1145/2983990.2984020",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://www.microsoft.com/en-us/research/publication/ringer-web-automation-demonstration/bibtex/",
+        "https://2016.splashcon.org/track/splash-2016-oopsla",
+        "https://www.microsoft.com/en-us/research/publication/ringer-web-automation-demonstration/",
+        "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/oopsla16-web.pdf"
+      ],
+      "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+      "issue": null,
+      "notes": "The original manuscript and MSR BibTeX print Sarah Chasins and Ras Bodik. The official conference profiles expand these to Sarah E. Chasins and Rastislav Bodík; the printed publication names are preserved. Page range, volume and exact publication day are not established by the retained citation sources.",
+      "pages": null,
+      "pdf_url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/oopsla16-web.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "Ringer: Web Automation by Demonstration",
+      "type": "conference-paper",
+      "url": "https://doi.org/10.1145/2983990.2984020",
+      "venue": "OOPSLA 2016",
+      "volume": null
+    }
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:57:36Z",
+      "role": "primary",
+      "sha256": "633aa15e2e14346241de5385cc19d99f1fcdc9ef79fd06d27176dbfa8f38149a",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.type",
+        "details.publication.venue"
+      ],
+      "url": "https://www.microsoft.com/en-us/research/publication/ringer-web-automation-demonstration/bibtex/"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:57:36Z",
+      "role": "primary",
+      "sha256": "94c6b6bbd127126c9dd259bd346a7757d75366b4d805bdee2959c4c73226df74",
+      "supports": [
+        "details.publication.doi",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.url"
+      ],
+      "url": "https://2016.splashcon.org/track/splash-2016-oopsla"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:24Z",
+      "role": "primary",
+      "sha256": "45f65483c3801dac142f4657c4cbe45e17b6a3e081497731e984c1e670c6e8f6",
+      "supports": [
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.title"
+      ],
+      "url": "https://www.microsoft.com/en-us/research/publication/ringer-web-automation-demonstration/"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:55:00Z",
+      "role": "primary",
+      "sha256": "bfbb69f57aaed39e3a210fae832e1fd98ed62ba1c01217b792238fe57e1a0ad1",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pdf_url"
+      ],
+      "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/oopsla16-web.pdf"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:24Z",
+      "role": "primary",
+      "sha256": "45f65483c3801dac142f4657c4cbe45e17b6a3e081497731e984c1e670c6e8f6",
+      "supports": [
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.title",
+        "environments",
+        "name",
+        "scope",
+        "topics"
+      ],
+      "url": "https://www.microsoft.com/en-us/research/publication/ringer-web-automation-demonstration/"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:57:36Z",
+      "role": "primary",
+      "sha256": "633aa15e2e14346241de5385cc19d99f1fcdc9ef79fd06d27176dbfa8f38149a",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.type",
+        "details.publication.venue",
+        "kind"
+      ],
+      "url": "https://www.microsoft.com/en-us/research/publication/ringer-web-automation-demonstration/bibtex/"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:57:36Z",
+      "role": "primary",
+      "sha256": "94c6b6bbd127126c9dd259bd346a7757d75366b4d805bdee2959c4c73226df74",
+      "supports": [
+        "details.publication.doi",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.url"
+      ],
+      "url": "https://2016.splashcon.org/track/splash-2016-oopsla"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:55:00Z",
+      "role": "primary",
+      "sha256": "bfbb69f57aaed39e3a210fae832e1fd98ed62ba1c01217b792238fe57e1a0ad1",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pdf_url",
+        "summary"
+      ],
+      "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/oopsla16-web.pdf"
+    }
+  ],
+  "id": "url:347925d0f440d6396080",
+  "identifiers": {
+    "doi": "10.1145/2983990.2984020"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-17T09:53:24Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://doi.org/10.1145/2983990.2984020"
+    },
+    {
+      "rel": "publication_pdf",
+      "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/oopsla16-web.pdf"
+    }
+  ],
+  "name": "Ringer: Web Automation by Demonstration",
+  "notes": "The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. The original manuscript and MSR BibTeX print Sarah Chasins and Ras Bodik. The official conference profiles expand these to Sarah E. Chasins and Rastislav Bodík; the printed publication names are preserved.",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Introduces Ringer, which converts demonstrated webpage interactions into scripts combining actions, target selectors, and waiting conditions. It evaluates replay robustness on tasks recorded from real websites.",
+  "topics": [
+    "web-navigation",
+    "recording",
+    "robustness"
+  ],
+  "updated_at": null,
+  "url": "https://doi.org/10.1145/2983990.2984020"
+}

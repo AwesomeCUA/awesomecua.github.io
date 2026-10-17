@@ -1,0 +1,99 @@
+{
+  "id": "arxiv:2305.11854:publication",
+  "citation-key": "arxiv_2305_11854_publication",
+  "type": "paper-conference",
+  "title": "Multimodal Web Navigation with Instruction-Finetuned Foundation Models",
+  "URL": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/7ef7d8359036afd8c2378d82c21058a4-Abstract-Conference.html",
+  "custom": {
+    "catalog_id": "arxiv:2305.11854",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2305.11854",
+    "identifiers": {
+      "arxiv": "2305.11854"
+    },
+    "first_published_at": "2023-05-19",
+    "record_updated_at": "2024-02-25",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ac0ea5a462890317ea29ade32c879d016181afbe5962e2d28cc175e251df41e6",
+      "submitted_at": "2023-05-19T17:44:34Z",
+      "updated_at": "2024-02-25T16:21:00Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2305.11854v4"
+    },
+    "publication": {
+      "authors": [
+        "Hiroki Furuta",
+        "Kuang-Huei Lee",
+        "Ofir Nachum",
+        "Yutaka Matsuo",
+        "Aleksandra Faust",
+        "Shixiang Shane Gu",
+        "Izzeddin Gur"
+      ],
+      "date_basis": "Explicit publisher metadata: 2024-05-31; precision=day.",
+      "date_parts": [
+        2024,
+        5,
+        31
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://proceedings.iclr.cc/paper_files/paper/2024/hash/7ef7d8359036afd8c2378d82c21058a4-Abstract-Conference.html",
+        "https://proceedings.iclr.cc/paper_files/paper/2024/file/7ef7d8359036afd8c2378d82c21058a4-Paper-Conference.pdf"
+      ],
+      "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+      "issue": null,
+      "notes": "The ICLR landing shortens Shixiang Shane Gu to Shixiang Gu. Publication authors use the full PDF title-page form. Volume 2024 and pages 29528–29558 are explicit publisher citation metadata, not values inferred from the event year or PDF page count. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+      "pages": "29528-29558",
+      "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2024/file/7ef7d8359036afd8c2378d82c21058a4-Paper-Conference.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "Multimodal Web Navigation with Instruction-Finetuned Foundation Models",
+      "type": "conference-paper",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/7ef7d8359036afd8c2378d82c21058a4-Abstract-Conference.html",
+      "venue": "International Conference on Learning Representations",
+      "volume": "2024"
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2024-05-31.",
+  "author": [
+    {
+      "literal": "Hiroki Furuta"
+    },
+    {
+      "literal": "Kuang-Huei Lee"
+    },
+    {
+      "literal": "Ofir Nachum"
+    },
+    {
+      "literal": "Yutaka Matsuo"
+    },
+    {
+      "literal": "Aleksandra Faust"
+    },
+    {
+      "literal": "Shixiang Shane Gu"
+    },
+    {
+      "literal": "Izzeddin Gur"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        31
+      ]
+    ]
+  },
+  "container-title": "International Conference on Learning Representations",
+  "volume": "2024",
+  "page": "29528-29558"
+}

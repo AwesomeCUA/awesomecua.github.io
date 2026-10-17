@@ -1,0 +1,157 @@
+{
+  "aliases": [],
+  "authors": [
+    "Tianlin Shi",
+    "Andrej Karpathy",
+    "Linxi Fan",
+    "Jonathan Hernandez",
+    "Percy Liang"
+  ],
+  "details": {
+    "publication": {
+      "authors": [
+        "Tianlin Shi",
+        "Andrej Karpathy",
+        "Linxi Fan",
+        "Jonathan Hernandez",
+        "Percy Liang"
+      ],
+      "date_basis": "Publisher citation_publication_date metadata explicitly states 2017/07/17; this is separate from the conference interval.",
+      "date_parts": [
+        2017,
+        7,
+        17
+      ],
+      "doi": null,
+      "event_dates": "06--11 Aug (conference interval reported in the publisher BibTeX month field)",
+      "evidence_urls": [
+        "https://proceedings.mlr.press/v70/shi17a.html",
+        "https://proceedings.mlr.press/v70/shi17a/shi17a.pdf"
+      ],
+      "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+      "issue": null,
+      "notes": "Publisher citation uses Tianlin Shi and Linxi Fan; the PDF also prints the nicknames Tim and Jim. The ordered publisher author names are retained. DOI not supplied in the retained publisher citation. Publisher metadata supplies the publication date separately from the conference interval.",
+      "pages": "3135-3144",
+      "pdf_url": "https://proceedings.mlr.press/v70/shi17a/shi17a.pdf",
+      "publisher": "PMLR",
+      "series": "Proceedings of Machine Learning Research",
+      "title": "World of Bits: An Open-Domain Platform for Web-Based Agents",
+      "type": "conference-paper",
+      "url": "https://proceedings.mlr.press/v70/shi17a.html",
+      "venue": "Proceedings of the 34th International Conference on Machine Learning",
+      "volume": "70"
+    }
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:21Z",
+      "role": "primary",
+      "sha256": "749d2a150e4c2bcde1b219a0ecb86c95546134a057892544e8495b5e45323c44",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.event_dates",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.publisher",
+        "details.publication.series",
+        "details.publication.title",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue",
+        "details.publication.volume"
+      ],
+      "url": "https://proceedings.mlr.press/v70/shi17a.html"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:54:39Z",
+      "role": "primary",
+      "sha256": "087008efb9d056df5fd9fbc724413d6a3f20cb14c7f1597d00bacac53d8342d6",
+      "supports": [
+        "details.publication.notes",
+        "details.publication.pdf_url"
+      ],
+      "url": "https://proceedings.mlr.press/v70/shi17a/shi17a.pdf"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:21Z",
+      "role": "primary",
+      "sha256": "749d2a150e4c2bcde1b219a0ecb86c95546134a057892544e8495b5e45323c44",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.series",
+        "details.publication.title",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue",
+        "details.publication.volume",
+        "kind",
+        "name",
+        "scope",
+        "summary",
+        "topics"
+      ],
+      "url": "https://proceedings.mlr.press/v70/shi17a.html"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:54:39Z",
+      "role": "primary",
+      "sha256": "087008efb9d056df5fd9fbc724413d6a3f20cb14c7f1597d00bacac53d8342d6",
+      "supports": [
+        "details.publication.notes",
+        "details.publication.pdf_url",
+        "environments"
+      ],
+      "url": "https://proceedings.mlr.press/v70/shi17a/shi17a.pdf"
+    }
+  ],
+  "id": "url:52a3261eb6a19b402e88",
+  "identifiers": {},
+  "kind": "paper",
+  "last_verified_at": "2026-10-17T09:53:21Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://proceedings.mlr.press/v70/shi17a.html"
+    },
+    {
+      "rel": "publication_pdf",
+      "url": "https://proceedings.mlr.press/v70/shi17a/shi17a.pdf"
+    }
+  ],
+  "name": "World of Bits: An Open-Domain Platform for Web-Based Agents",
+  "notes": "The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. Publisher citation uses Tianlin Shi and Linxi Fan; the PDF also prints the nicknames Tim and Jim. The ordered publisher author names are retained.",
+  "published_at": "2017-07-17",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Introduces World of Bits, a web-task platform combining human demonstrations, keyboard and mouse actions, and cached HTTP traffic for repeatable task environments. It evaluates agents trained through behavioral cloning and reinforcement learning.",
+  "topics": [
+    "web-navigation",
+    "reinforcement-learning",
+    "evaluation",
+    "data-generation"
+  ],
+  "updated_at": null,
+  "url": "https://proceedings.mlr.press/v70/shi17a.html"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "arxiv:2202.08137:publication",
+  "citation-key": "arxiv_2202_08137_publication",
+  "type": "paper-conference",
+  "title": "A Data-Driven Approach for Learning to Control Computers",
+  "URL": "https://proceedings.mlr.press/v162/humphreys22a.html",
+  "custom": {
+    "catalog_id": "arxiv:2202.08137",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2202.08137",
+    "identifiers": {
+      "arxiv": "2202.08137"
+    },
+    "first_published_at": "2022-02-16",
+    "record_updated_at": "2022-11-11",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "94129847ac85f4a8aeab74907cc68a31c435b078ab950695d9328b6c3896b46d",
+      "submitted_at": "2022-02-16T15:23:46Z",
+      "updated_at": "2022-11-11T13:45:44Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2202.08137v2"
+    },
+    "publication": {
+      "authors": [
+        "Peter Humphreys",
+        "David Raposo",
+        "Toby Pohlen",
+        "Gregory Thornton",
+        "Rachita Chhaparia",
+        "Alistair Muldal",
+        "Josh Abramson",
+        "Petko Georgiev",
+        "Adam Santoro",
+        "Timothy Lillicrap"
+      ],
+      "date_basis": "Explicit publisher metadata: 2022/06/28; precision=day.",
+      "date_parts": [
+        2022,
+        6,
+        28
+      ],
+      "doi": null,
+      "event_dates": "17--23 Jul 2022",
+      "evidence_urls": [
+        "https://proceedings.mlr.press/v162/humphreys22a.html",
+        "https://proceedings.mlr.press/v162/humphreys22a/humphreys22a.pdf"
+      ],
+      "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+      "issue": null,
+      "notes": "The formal ICML PDF lists 10 authors beginning Peter Humphreys and uses Toby Pohlen. The landing lists Peter C Humphreys and Tobias Pohlen. The retained arXiv snapshot lists 11 authors, including Alex Goldin. These are preserved as distinct version-specific author lists; the publication field uses only the formal PDF list. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher issue date is 2022-06-28; the July 17–23 conference range is an event date, not a substitute publication day. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+      "pages": "9466-9482",
+      "pdf_url": "https://proceedings.mlr.press/v162/humphreys22a/humphreys22a.pdf",
+      "publisher": "PMLR",
+      "series": "Proceedings of Machine Learning Research",
+      "title": "A Data-Driven Approach for Learning to Control Computers",
+      "type": "conference-paper",
+      "url": "https://proceedings.mlr.press/v162/humphreys22a.html",
+      "venue": "Proceedings of the 39th International Conference on Machine Learning",
+      "volume": "162"
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2022-06-28.",
+  "author": [
+    {
+      "literal": "Peter Humphreys"
+    },
+    {
+      "literal": "David Raposo"
+    },
+    {
+      "literal": "Toby Pohlen"
+    },
+    {
+      "literal": "Gregory Thornton"
+    },
+    {
+      "literal": "Rachita Chhaparia"
+    },
+    {
+      "literal": "Alistair Muldal"
+    },
+    {
+      "literal": "Josh Abramson"
+    },
+    {
+      "literal": "Petko Georgiev"
+    },
+    {
+      "literal": "Adam Santoro"
+    },
+    {
+      "literal": "Timothy Lillicrap"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        6,
+        28
+      ]
+    ]
+  },
+  "container-title": "Proceedings of the 39th International Conference on Machine Learning",
+  "publisher": "PMLR",
+  "collection-title": "Proceedings of Machine Learning Research",
+  "volume": "162",
+  "page": "9466-9482"
+}

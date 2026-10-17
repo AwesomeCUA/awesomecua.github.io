@@ -1,0 +1,71 @@
+{
+  "id": "url:392a602c660ffa91be46",
+  "citation-key": "cua_6b7f9d608ed89d1625610eb1",
+  "type": "paper-conference",
+  "title": "SUGILITE: Creating Multimodal Smartphone Automation by Demonstration",
+  "URL": "https://doi.org/10.1145/3025453.3025483",
+  "custom": {
+    "catalog_id": "url:392a602c660ffa91be46",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://doi.org/10.1145/3025453.3025483",
+    "identifiers": {
+      "doi": "10.1145/3025453.3025483"
+    },
+    "first_published_at": null,
+    "record_updated_at": null,
+    "catalog_scope": "core",
+    "publication": {
+      "authors": [
+        "Toby Jia-Jun Li",
+        "Amos Azaria",
+        "Brad A. Myers"
+      ],
+      "date_basis": "Supplied year precision: 2017. Publications: SUGILITE, CHI 2017 Only publication year is asserted; event dates are kept separate.",
+      "date_parts": [
+        2017
+      ],
+      "doi": "10.1145/3025453.3025483",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://www.cs.cmu.edu/~NatProg/sugilite.html",
+        "https://toby.li/files/TobyLi-CHI2017-Sugilite.pdf"
+      ],
+      "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+      "issue": null,
+      "notes": "Related to later APPINITE and PUMICE work but distinguished here by its 2017 three-author publication and base demonstration-automation contribution. Publication month/day are not independently identified by the retained sources.",
+      "pages": "6038-6049",
+      "pdf_url": "https://toby.li/files/TobyLi-CHI2017-Sugilite.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "SUGILITE: Creating Multimodal Smartphone Automation by Demonstration",
+      "type": "conference-paper",
+      "url": "https://doi.org/10.1145/3025453.3025483",
+      "venue": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2017.",
+  "author": [
+    {
+      "literal": "Toby Jia-Jun Li"
+    },
+    {
+      "literal": "Amos Azaria"
+    },
+    {
+      "literal": "Brad A. Myers"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2017
+      ]
+    ]
+  },
+  "DOI": "10.1145/3025453.3025483",
+  "container-title": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems",
+  "page": "6038-6049"
+}

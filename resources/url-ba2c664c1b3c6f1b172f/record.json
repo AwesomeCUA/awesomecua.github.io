@@ -1,0 +1,175 @@
+{
+  "aliases": [],
+  "authors": [
+    "Toby Jia-Jun Li",
+    "Igor Labutov",
+    "Xiaohan Nancy Li",
+    "Xiaoyi Zhang",
+    "Wenze Shi",
+    "Wanling Ding",
+    "Tom M. Mitchell",
+    "Brad A. Myers"
+  ],
+  "details": {
+    "publication": {
+      "authors": [
+        "Toby Jia-Jun Li",
+        "Igor Labutov",
+        "Xiaohan Nancy Li",
+        "Xiaoyi Zhang",
+        "Wenze Shi",
+        "Wanling Ding",
+        "Tom M. Mitchell",
+        "Brad A. Myers"
+      ],
+      "date_basis": "Supplied year precision: 2018. APPINITE publication citation: VL/HCC 2018",
+      "date_parts": [
+        2018
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://toby.li/files/TobyLi-VLHCC18-APPINITE.pdf",
+        "https://www.cs.cmu.edu/~NatProg/sugilite.html",
+        "https://toby.li/publications/"
+      ],
+      "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+      "issue": null,
+      "notes": "The base SUGILITE framework and later PUMICE work are distinct publications; this paper focuses on resolving data-description ambiguity in demonstrations. Author-hosted manuscript and institutional publication lists supply the retained evidence. DOI, final page range, and exact publication day remain unknown.",
+      "pages": null,
+      "pdf_url": "https://toby.li/files/TobyLi-VLHCC18-APPINITE.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "APPINITE: A Multi-Modal Interface for Specifying Data Descriptions in Programming by Demonstration Using Natural Language Instructions",
+      "type": "conference-paper",
+      "url": "https://ieeexplore.ieee.org/document/8506506",
+      "venue": "Proceedings of the 2018 IEEE Symposium on Visual Languages and Human-Centric Computing",
+      "volume": null
+    }
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:54:46Z",
+      "role": "primary",
+      "sha256": "6e05fd08b187adba32148e0835ef6b9e20cd6a3ba5e0de6e2778eb18c02788ee",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pdf_url",
+        "details.publication.title"
+      ],
+      "url": "https://toby.li/files/TobyLi-VLHCC18-APPINITE.pdf"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:22Z",
+      "role": "primary",
+      "sha256": "32ee05ff1a91ed4a22d4bc156a462872aa4e28f5c79abfbce5dbf3655f412033",
+      "supports": [
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.notes",
+        "details.publication.type",
+        "details.publication.venue"
+      ],
+      "url": "https://www.cs.cmu.edu/~NatProg/sugilite.html"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:55:20Z",
+      "role": "primary",
+      "sha256": "adfcec73830b612b181d4846ace3fbaab1768e906715c1d90fe657e23fe4d985",
+      "supports": [
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.url"
+      ],
+      "url": "https://toby.li/publications/"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:54:46Z",
+      "role": "primary",
+      "sha256": "6e05fd08b187adba32148e0835ef6b9e20cd6a3ba5e0de6e2778eb18c02788ee",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pdf_url",
+        "details.publication.title",
+        "environments",
+        "name",
+        "scope",
+        "summary",
+        "topics"
+      ],
+      "url": "https://toby.li/files/TobyLi-VLHCC18-APPINITE.pdf"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:22Z",
+      "role": "primary",
+      "sha256": "32ee05ff1a91ed4a22d4bc156a462872aa4e28f5c79abfbce5dbf3655f412033",
+      "supports": [
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.notes",
+        "details.publication.type",
+        "details.publication.venue",
+        "kind"
+      ],
+      "url": "https://www.cs.cmu.edu/~NatProg/sugilite.html"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:55:20Z",
+      "role": "primary",
+      "sha256": "adfcec73830b612b181d4846ace3fbaab1768e906715c1d90fe657e23fe4d985",
+      "supports": [
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.url"
+      ],
+      "url": "https://toby.li/publications/"
+    }
+  ],
+  "id": "url:ba2c664c1b3c6f1b172f",
+  "identifiers": {},
+  "kind": "paper",
+  "last_verified_at": "2026-10-17T09:54:46Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://ieeexplore.ieee.org/document/8506506"
+    },
+    {
+      "rel": "publication_pdf",
+      "url": "https://toby.li/files/TobyLi-VLHCC18-APPINITE.pdf"
+    }
+  ],
+  "name": "APPINITE: A Multi-Modal Interface for Specifying Data Descriptions in Programming by Demonstration Using Natural Language Instructions",
+  "notes": "The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. The base SUGILITE framework and later PUMICE work are distinct publications; this paper focuses on resolving data-description ambiguity in demonstrations.",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Introduces APPINITE, a conversational interface for specifying the intended targets of demonstrated Android actions. It constructs semantic UI representations and uses an on-screen overlay to preview and refine executable data descriptions.",
+  "topics": [
+    "grounding",
+    "human-in-the-loop",
+    "mobile-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://ieeexplore.ieee.org/document/8506506"
+}

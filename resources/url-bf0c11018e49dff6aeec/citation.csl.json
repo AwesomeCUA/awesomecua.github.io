@@ -1,0 +1,60 @@
+{
+  "id": "url:bf0c11018e49dff6aeec",
+  "citation-key": "cua_79e3af204750d438f5d43781",
+  "type": "paper-conference",
+  "title": "Eager: Programming Repetitive Tasks by Example",
+  "URL": "https://acypher.com/Publications/CHI91/EagerCHI.html",
+  "custom": {
+    "catalog_id": "url:bf0c11018e49dff6aeec",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://acypher.com/Publications/CHI91/EagerCHI.html",
+    "identifiers": {},
+    "first_published_at": null,
+    "record_updated_at": null,
+    "catalog_scope": "core",
+    "publication": {
+      "authors": [
+        "Allen Cypher"
+      ],
+      "date_basis": "Supplied year precision: 1991. Opening CHI 1991 citation and copyright",
+      "date_parts": [
+        1991
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://acypher.com/Eager/",
+        "https://acypher.com/Publications/CHI91/EagerCHI.html"
+      ],
+      "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+      "issue": null,
+      "notes": "The 1991 conference paper is kept distinct from the 1991 video and 1993/1995 reprints listed on the author project page. Macintosh/HyperCard is tagged desktop; it is not represented as support for contemporary macOS. DOI not verified in a retained first-party source. Exact publication month/day is not inferred from conference dates.",
+      "pages": "33-39",
+      "pdf_url": null,
+      "publisher": null,
+      "series": null,
+      "title": "Eager: Programming Repetitive Tasks by Example",
+      "type": "conference-paper",
+      "url": "https://acypher.com/Publications/CHI91/EagerCHI.html",
+      "venue": "Proceedings of CHI '91",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 1991.",
+  "author": [
+    {
+      "literal": "Allen Cypher"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        1991
+      ]
+    ]
+  },
+  "container-title": "Proceedings of CHI '91",
+  "page": "33-39"
+}

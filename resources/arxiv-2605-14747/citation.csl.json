@@ -22,7 +22,43 @@
       "updated_at": "2026-05-14T12:14:24Z",
       "version": 1,
       "versioned_url": "https://arxiv.org/abs/2605.14747v1"
-    }
+    },
+    "publication": {
+      "authors": [
+        "Weimin Xiong",
+        "Shuhao Gu",
+        "Bowen Ye",
+        "Zihao Yue",
+        "Lei Li",
+        "Feifan Song",
+        "Sujian Li",
+        "Hao Tian"
+      ],
+      "date_basis": "Explicit publisher metadata: 2026/09/29; precision=day.",
+      "date_parts": [
+        2026,
+        9,
+        29
+      ],
+      "doi": null,
+      "event_dates": "06--11 Jul 2026",
+      "evidence_urls": [
+        "https://proceedings.mlr.press/v306/xiong26c.html"
+      ],
+      "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+      "issue": null,
+      "notes": "This work already exists as metadata_verified arxiv:2605.14747. The official publication abstract still promises a future release; current release status is not inferred from publication. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+      "pages": "140253-140283",
+      "pdf_url": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/xiong26c/xiong26c.pdf",
+      "publisher": "PMLR",
+      "series": "Proceedings of Machine Learning Research",
+      "title": "Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining",
+      "type": "conference-paper",
+      "url": "https://proceedings.mlr.press/v306/xiong26c.html",
+      "venue": "Proceedings of the 43rd International Conference on Machine Learning",
+      "volume": "306"
+    },
+    "citation_edition": "record"
   },
   "note": "First published: 2026-05-14; Recorded arXiv version: v1; Recorded version updated: 2026-05-14T12:14:24Z.",
   "author": [

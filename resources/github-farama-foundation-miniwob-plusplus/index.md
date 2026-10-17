@@ -14,7 +14,7 @@ Browser interaction task environment derived from MiniWoB.
 
 ## Limitations
 
-Inclusion does not establish reproducibility or endorsement.
+The maintainer README identifies MiniWoB++ as the extension introduced in the 2018 workflow-guided exploration paper. It separately links World of Bits as the source for the original MiniWoB predecessor. The current Farama interface, environment inventory, and maintenance status belong to the retained repository snapshot.
 
 - Record JSON: https://awesomecua.github.io/resources/github-farama-foundation-miniwob-plusplus/record.json
 

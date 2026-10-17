@@ -1,0 +1,106 @@
+{
+  "id": "url:beb8f1fd6b945ffc9d93",
+  "citation-key": "cua_a6fbf231c6d3a11f67403503",
+  "type": "paper-conference",
+  "title": "GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning",
+  "URL": "https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html",
+  "custom": {
+    "catalog_id": "url:beb8f1fd6b945ffc9d93",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html",
+    "identifiers": {},
+    "first_published_at": null,
+    "record_updated_at": null,
+    "catalog_scope": "core",
+    "publication": {
+      "authors": [
+        "Fei Tang",
+        "Zhangxuan Gu",
+        "Zhengxi Lu",
+        "Shangzhan Zhang",
+        "Zhengwen Zeng",
+        "Shuheng Shen",
+        "Changhua Meng",
+        "Yuchen Yan",
+        "Wenqi Zhang",
+        "Yongliang Shen",
+        "Weiming Lu",
+        "Yueting Zhuang"
+      ],
+      "date_basis": "Explicit publisher metadata: month = {June}, year = {2026}; precision=month.",
+      "date_parts": [
+        2026,
+        6
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html",
+        "https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.pdf"
+      ],
+      "identity_basis": "No title/DOI/canonical URL match in the current paper catalog or raw archive; closest substantive same-team works were reread and have different contributions.",
+      "issue": null,
+      "notes": "CVF open-access accepted version; PDF states that the final proceedings version is on IEEE Xplore.",
+      "pages": "13007-13016",
+      "pdf_url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning",
+      "type": "conference-paper",
+      "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html",
+      "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2026-06.",
+  "author": [
+    {
+      "literal": "Fei Tang"
+    },
+    {
+      "literal": "Zhangxuan Gu"
+    },
+    {
+      "literal": "Zhengxi Lu"
+    },
+    {
+      "literal": "Shangzhan Zhang"
+    },
+    {
+      "literal": "Zhengwen Zeng"
+    },
+    {
+      "literal": "Shuheng Shen"
+    },
+    {
+      "literal": "Changhua Meng"
+    },
+    {
+      "literal": "Yuchen Yan"
+    },
+    {
+      "literal": "Wenqi Zhang"
+    },
+    {
+      "literal": "Yongliang Shen"
+    },
+    {
+      "literal": "Weiming Lu"
+    },
+    {
+      "literal": "Yueting Zhuang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6
+      ]
+    ]
+  },
+  "container-title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+  "page": "13007-13016"
+}

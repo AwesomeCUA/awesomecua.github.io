@@ -1,0 +1,122 @@
+{
+  "aliases": [],
+  "authors": [
+    "Tom Yeh",
+    "Tsung-Hsiang Chang",
+    "Robert C. Miller"
+  ],
+  "details": {
+    "publication": {
+      "authors": [
+        "Tom Yeh",
+        "Tsung-Hsiang Chang",
+        "Robert C. Miller"
+      ],
+      "date_basis": "Supplied month precision: 2009-10. Date Issued: October 2009",
+      "date_parts": [
+        2009,
+        10
+      ],
+      "doi": "10.1145/1622176.1622213",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://dspace.mit.edu/entities/publication/604a3f79-451d-4186-a94e-d12690ffe40a"
+      ],
+      "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+      "issue": null,
+      "notes": "Institutional abstract and published-version citation supply the retained evidence; the institution identifies an author final manuscript record. Exact publication day is not supplied. Operating-system-specific experiments are not asserted.",
+      "pages": "183-192",
+      "pdf_url": null,
+      "publisher": null,
+      "series": null,
+      "title": "Sikuli: Using GUI screenshots for search and automation",
+      "type": "conference-paper",
+      "url": "https://doi.org/10.1145/1622176.1622213",
+      "venue": "Proceedings of the 22nd Annual ACM Symposium on User Interface Software and Technology (UIST '09)",
+      "volume": null
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:21Z",
+      "role": "primary",
+      "sha256": "dbaaf21982522b34857be014b39d6c43fedcda20f808efe40d04958c77243a5a",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.doi",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.title",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue"
+      ],
+      "url": "https://dspace.mit.edu/entities/publication/604a3f79-451d-4186-a94e-d12690ffe40a"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:21Z",
+      "role": "primary",
+      "sha256": "dbaaf21982522b34857be014b39d6c43fedcda20f808efe40d04958c77243a5a",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.doi",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.title",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue",
+        "environments",
+        "kind",
+        "name",
+        "scope",
+        "summary",
+        "topics"
+      ],
+      "url": "https://dspace.mit.edu/entities/publication/604a3f79-451d-4186-a94e-d12690ffe40a"
+    }
+  ],
+  "id": "url:a4cdb2ee0d07d3980651",
+  "identifiers": {
+    "doi": "10.1145/1622176.1622213"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-17T09:53:21Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://doi.org/10.1145/1622176.1622213"
+    }
+  ],
+  "name": "Sikuli: Using GUI screenshots for search and automation",
+  "notes": "The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. MIT identifies the retained content as an author final manuscript record. Its PDF download returned HTTP 429; no retry was made. The complete institutional abstract and bibliographic record were read.",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Introduces screenshot-based GUI search and visual scripting, using image patterns to locate interface targets and direct mouse and keyboard events. It evaluates screenshot queries and demonstrates automation and interactive-help tasks.",
+  "topics": [
+    "grounding",
+    "automation",
+    "screen-understanding"
+  ],
+  "updated_at": null,
+  "url": "https://doi.org/10.1145/1622176.1622213"
+}

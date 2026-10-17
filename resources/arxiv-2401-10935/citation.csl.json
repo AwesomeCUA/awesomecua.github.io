@@ -22,7 +22,42 @@
       "updated_at": "2024-02-23T04:36:51Z",
       "version": 2,
       "versioned_url": "https://arxiv.org/abs/2401.10935v2"
-    }
+    },
+    "publication": {
+      "authors": [
+        "Kanzhi Cheng",
+        "Qiushi Sun",
+        "Yougang Chu",
+        "Fangzhi Xu",
+        "Yantao Li",
+        "Jianbing Zhang",
+        "Zhiyong Wu"
+      ],
+      "date_basis": "Explicit publisher metadata: 2024/8; precision=month.",
+      "date_parts": [
+        2024,
+        8
+      ],
+      "doi": "10.18653/v1/2024.acl-long.505",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2024.acl-long.505/",
+        "https://aclanthology.org/2024.acl-long.505.pdf"
+      ],
+      "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+      "issue": null,
+      "notes": "The ACL landing metadata spells the fifth author Li YanTao. The formal PDF title page spells Yantao Li; the publication author field uses the PDF. The retained arXiv author list is untouched. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+      "pages": "9313-9332",
+      "pdf_url": "https://aclanthology.org/2024.acl-long.505.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2024.acl-long.505/",
+      "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "volume": null
+    },
+    "citation_edition": "record"
   },
   "note": "First published: 2024-01-17; Recorded arXiv version: v2; Recorded version updated: 2024-02-23T04:36:51Z.",
   "author": [

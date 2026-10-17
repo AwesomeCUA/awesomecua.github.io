@@ -22,7 +22,43 @@
       "updated_at": "2024-02-25T16:21:00Z",
       "version": 4,
       "versioned_url": "https://arxiv.org/abs/2305.11854v4"
-    }
+    },
+    "publication": {
+      "authors": [
+        "Hiroki Furuta",
+        "Kuang-Huei Lee",
+        "Ofir Nachum",
+        "Yutaka Matsuo",
+        "Aleksandra Faust",
+        "Shixiang Shane Gu",
+        "Izzeddin Gur"
+      ],
+      "date_basis": "Explicit publisher metadata: 2024-05-31; precision=day.",
+      "date_parts": [
+        2024,
+        5,
+        31
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://proceedings.iclr.cc/paper_files/paper/2024/hash/7ef7d8359036afd8c2378d82c21058a4-Abstract-Conference.html",
+        "https://proceedings.iclr.cc/paper_files/paper/2024/file/7ef7d8359036afd8c2378d82c21058a4-Paper-Conference.pdf"
+      ],
+      "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+      "issue": null,
+      "notes": "The ICLR landing shortens Shixiang Shane Gu to Shixiang Gu. Publication authors use the full PDF title-page form. Volume 2024 and pages 29528–29558 are explicit publisher citation metadata, not values inferred from the event year or PDF page count. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+      "pages": "29528-29558",
+      "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2024/file/7ef7d8359036afd8c2378d82c21058a4-Paper-Conference.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "Multimodal Web Navigation with Instruction-Finetuned Foundation Models",
+      "type": "conference-paper",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/7ef7d8359036afd8c2378d82c21058a4-Abstract-Conference.html",
+      "venue": "International Conference on Learning Representations",
+      "volume": "2024"
+    },
+    "citation_edition": "record"
   },
   "note": "First published: 2023-05-19; Recorded arXiv version: v4; Recorded version updated: 2024-02-25T16:21:00Z.",
   "author": [

@@ -22,7 +22,39 @@
       "updated_at": "2020-06-05T02:11:56Z",
       "version": 2,
       "versioned_url": "https://arxiv.org/abs/2005.03776v2"
-    }
+    },
+    "publication": {
+      "authors": [
+        "Yang Li",
+        "Jiacong He",
+        "Xin Zhou",
+        "Yuan Zhang",
+        "Jason Baldridge"
+      ],
+      "date_basis": "Explicit publisher metadata: 2020/7; precision=month.",
+      "date_parts": [
+        2020,
+        7
+      ],
+      "doi": "10.18653/v1/2020.acl-main.729",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2020.acl-main.729/"
+      ],
+      "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+      "issue": null,
+      "notes": "Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+      "pages": "8198-8210",
+      "pdf_url": "https://aclanthology.org/2020.acl-main.729.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "Mapping Natural Language Instructions to Mobile UI Action Sequences",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2020.acl-main.729/",
+      "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+      "volume": null
+    },
+    "citation_edition": "record"
   },
   "note": "First published: 2020-05-07; Recorded arXiv version: v2; Recorded version updated: 2020-06-05T02:11:56Z.",
   "author": [

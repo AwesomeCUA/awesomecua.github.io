@@ -1,5 +1,5 @@
 {
-  "relation_count": 295,
+  "relation_count": 297,
   "semantics": "Reviewed semantic links only. Documentation does not establish training or evaluation dependency.",
   "relations": [
     {
@@ -289,6 +289,14 @@
       "evidence_url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending",
       "target_id": "arxiv:2503.12532",
       "type": "documented_by"
+    },
+    {
+      "source_id": "github:farama-foundation/miniwob-plusplus",
+      "source_name": "MiniWoB++",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/Farama-Foundation/miniwob-plusplus/HEAD/README.md",
+      "target_id": "arxiv:1802.08802",
+      "type": "introduced_by"
     },
     {
       "source_id": "github:gair-nlp/pc-agent",
@@ -1344,6 +1352,14 @@
       "source_kind": "dataset",
       "evidence_url": "https://raw.githubusercontent.com/yiye3/GUICourse/HEAD/README.md",
       "target_id": "arxiv:2406.11317",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:0b134b082a7bd507fc6a",
+      "source_name": "Rico",
+      "source_kind": "dataset",
+      "evidence_url": "https://www.interactionmining.org/archive/rico",
+      "target_id": "url:b560b5d6abaab98483f6",
       "type": "documented_by"
     },
     {

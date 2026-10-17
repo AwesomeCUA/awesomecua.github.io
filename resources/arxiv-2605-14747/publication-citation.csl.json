@@ -1,0 +1,104 @@
+{
+  "id": "arxiv:2605.14747:publication",
+  "citation-key": "arxiv_2605_14747_publication",
+  "type": "paper-conference",
+  "title": "Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining",
+  "URL": "https://proceedings.mlr.press/v306/xiong26c.html",
+  "custom": {
+    "catalog_id": "arxiv:2605.14747",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.14747",
+    "identifiers": {
+      "arxiv": "2605.14747"
+    },
+    "first_published_at": "2026-05-14",
+    "record_updated_at": "2026-05-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d0403b56b03da2f8264cbfbd6083c37bfdd32e47fdd2e39b4543d9ef2070c610",
+      "submitted_at": "2026-05-14T12:14:24Z",
+      "updated_at": "2026-05-14T12:14:24Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.14747v1"
+    },
+    "publication": {
+      "authors": [
+        "Weimin Xiong",
+        "Shuhao Gu",
+        "Bowen Ye",
+        "Zihao Yue",
+        "Lei Li",
+        "Feifan Song",
+        "Sujian Li",
+        "Hao Tian"
+      ],
+      "date_basis": "Explicit publisher metadata: 2026/09/29; precision=day.",
+      "date_parts": [
+        2026,
+        9,
+        29
+      ],
+      "doi": null,
+      "event_dates": "06--11 Jul 2026",
+      "evidence_urls": [
+        "https://proceedings.mlr.press/v306/xiong26c.html"
+      ],
+      "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+      "issue": null,
+      "notes": "This work already exists as metadata_verified arxiv:2605.14747. The official publication abstract still promises a future release; current release status is not inferred from publication. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+      "pages": "140253-140283",
+      "pdf_url": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/xiong26c/xiong26c.pdf",
+      "publisher": "PMLR",
+      "series": "Proceedings of Machine Learning Research",
+      "title": "Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining",
+      "type": "conference-paper",
+      "url": "https://proceedings.mlr.press/v306/xiong26c.html",
+      "venue": "Proceedings of the 43rd International Conference on Machine Learning",
+      "volume": "306"
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2026-09-29.",
+  "author": [
+    {
+      "literal": "Weimin Xiong"
+    },
+    {
+      "literal": "Shuhao Gu"
+    },
+    {
+      "literal": "Bowen Ye"
+    },
+    {
+      "literal": "Zihao Yue"
+    },
+    {
+      "literal": "Lei Li"
+    },
+    {
+      "literal": "Feifan Song"
+    },
+    {
+      "literal": "Sujian Li"
+    },
+    {
+      "literal": "Hao Tian"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        29
+      ]
+    ]
+  },
+  "container-title": "Proceedings of the 43rd International Conference on Machine Learning",
+  "publisher": "PMLR",
+  "collection-title": "Proceedings of Machine Learning Research",
+  "volume": "306",
+  "page": "140253-140283"
+}

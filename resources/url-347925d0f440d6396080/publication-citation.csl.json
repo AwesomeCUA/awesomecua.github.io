@@ -1,0 +1,78 @@
+{
+  "id": "url:347925d0f440d6396080",
+  "citation-key": "cua_07942b5af1a8c0ffa9c7322a",
+  "type": "paper-conference",
+  "title": "Ringer: Web Automation by Demonstration",
+  "URL": "https://doi.org/10.1145/2983990.2984020",
+  "custom": {
+    "catalog_id": "url:347925d0f440d6396080",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://doi.org/10.1145/2983990.2984020",
+    "identifiers": {
+      "doi": "10.1145/2983990.2984020"
+    },
+    "first_published_at": null,
+    "record_updated_at": null,
+    "catalog_scope": "core",
+    "publication": {
+      "authors": [
+        "Shaon Barman",
+        "Sarah Chasins",
+        "Ras Bodik",
+        "Sumit Gulwani"
+      ],
+      "date_basis": "Supplied month precision: 2016-11. year=2016, month=November",
+      "date_parts": [
+        2016,
+        11
+      ],
+      "doi": "10.1145/2983990.2984020",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://www.microsoft.com/en-us/research/publication/ringer-web-automation-demonstration/bibtex/",
+        "https://2016.splashcon.org/track/splash-2016-oopsla",
+        "https://www.microsoft.com/en-us/research/publication/ringer-web-automation-demonstration/",
+        "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/oopsla16-web.pdf"
+      ],
+      "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+      "issue": null,
+      "notes": "The original manuscript and MSR BibTeX print Sarah Chasins and Ras Bodik. The official conference profiles expand these to Sarah E. Chasins and Rastislav Bodík; the printed publication names are preserved. Page range, volume and exact publication day are not established by the retained citation sources.",
+      "pages": null,
+      "pdf_url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/oopsla16-web.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "Ringer: Web Automation by Demonstration",
+      "type": "conference-paper",
+      "url": "https://doi.org/10.1145/2983990.2984020",
+      "venue": "OOPSLA 2016",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2016-11.",
+  "author": [
+    {
+      "literal": "Shaon Barman"
+    },
+    {
+      "literal": "Sarah Chasins"
+    },
+    {
+      "literal": "Ras Bodik"
+    },
+    {
+      "literal": "Sumit Gulwani"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2016,
+        11
+      ]
+    ]
+  },
+  "DOI": "10.1145/2983990.2984020",
+  "container-title": "OOPSLA 2016"
+}

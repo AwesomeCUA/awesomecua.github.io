@@ -19,6 +19,43 @@
       "updated_at": "2023-12-06T23:46:36Z",
       "version": 2,
       "versioned_url": "https://arxiv.org/abs/2306.00245v2"
+    },
+    "publication": {
+      "authors": [
+        "Peter Shaw",
+        "Mandar Joshi",
+        "James Cohan",
+        "Jonathan Berant",
+        "Panupong Pasupat",
+        "Hexiang Hu",
+        "Urvashi Khandelwal",
+        "Kenton Lee",
+        "Kristina Toutanova"
+      ],
+      "date_basis": "Explicit publisher metadata: 2023-12-15; precision=day.",
+      "date_parts": [
+        2023,
+        12,
+        15
+      ],
+      "doi": "10.52202/075280-1490",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://papers.nips.cc/paper_files/paper/2023/hash/6c52a8a4fadc9129c6e1d1745f2dfd0f-Abstract-Conference.html",
+        "https://proceedings.neurips.cc/paper_files/paper/2023/file/6c52a8a4fadc9129c6e1d1745f2dfd0f-Paper-Conference.pdf"
+      ],
+      "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+      "issue": null,
+      "notes": "The NeurIPS landing metadata adds the initial N to Kristina Toutanova; the formal paper title page does not. Publication authors use the PDF. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+      "pages": "34354-34370",
+      "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2023/file/6c52a8a4fadc9129c6e1d1745f2dfd0f-Paper-Conference.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces",
+      "type": "conference-paper",
+      "url": "https://papers.nips.cc/paper_files/paper/2023/hash/6c52a8a4fadc9129c6e1d1745f2dfd0f-Abstract-Conference.html",
+      "venue": "Advances in Neural Information Processing Systems",
+      "volume": "36"
     }
   },
   "environments": [
@@ -39,6 +76,39 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=1802.08802%2C1808.09132%2C2005.03776%2C2101.09465%2C2103.16057%2C2104.08560%2C2105.13231%2C2107.03374%2C2107.13731%2C2108.03353%2C2202.02312%2C2202.08137%2C2204.01691%2C2205.11029%2C2207.01206%2C2209.08199%2C2209.08655%2C2209.14927%2C2209.15099%2C2210.02663%2C2210.03629%2C2210.03945%2C2211.07615%2C2301.10165%2C2301.13280%2C2302.04761%2C2303.07280%2C2303.08774%2C2303.17491%2C2303.17580%2C2304.04370%2C2304.07061%2C2305.04091%2C2305.05662%2C2305.08144%2C2305.10601%2C2305.11854%2C2305.12487%2C2305.14257%2C2305.14325%2C2305.16504%2C2305.16653%2C2305.19308%2C2306.00245%2C2306.06070%2C2306.07863%2C2307.10088%2C2307.12856%2C2307.13854%2C2308.01990&max_results=50"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:48+00:00",
+      "role": "primary",
+      "sha256": "938e0a31512bb9a7793b568858f81eb3ceb650a71aae2d91b5292990e890201b",
+      "supports": [
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.doi",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.pdf_url",
+        "details.publication.title",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue",
+        "details.publication.volume"
+      ],
+      "url": "https://papers.nips.cc/paper_files/paper/2023/hash/6c52a8a4fadc9129c6e1d1745f2dfd0f-Abstract-Conference.html"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:59:47+00:00",
+      "role": "primary",
+      "sha256": "3827298f44d2f24f1333b4d46ecb5eb88c8b028d192b11424580655b38e024f9",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.identity_basis",
+        "details.publication.notes"
+      ],
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2023/file/6c52a8a4fadc9129c6e1d1745f2dfd0f-Paper-Conference.pdf"
     },
     {
       "method": "editorial_primary_review",
@@ -73,6 +143,14 @@
     {
       "rel": "primary",
       "url": "https://arxiv.org/abs/2306.00245"
+    },
+    {
+      "rel": "publication",
+      "url": "https://papers.nips.cc/paper_files/paper/2023/hash/6c52a8a4fadc9129c6e1d1745f2dfd0f-Abstract-Conference.html"
+    },
+    {
+      "rel": "publication_pdf",
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2023/file/6c52a8a4fadc9129c6e1d1745f2dfd0f-Paper-Conference.pdf"
     }
   ],
   "name": "From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces",

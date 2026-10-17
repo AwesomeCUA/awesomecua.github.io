@@ -1,0 +1,136 @@
+{
+  "aliases": [],
+  "authors": [
+    "Allen Cypher"
+  ],
+  "details": {
+    "publication": {
+      "authors": [
+        "Allen Cypher"
+      ],
+      "date_basis": "Supplied year precision: 1991. Opening CHI 1991 citation and copyright",
+      "date_parts": [
+        1991
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://acypher.com/Eager/",
+        "https://acypher.com/Publications/CHI91/EagerCHI.html"
+      ],
+      "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+      "issue": null,
+      "notes": "The 1991 conference paper is kept distinct from the 1991 video and 1993/1995 reprints listed on the author project page. Macintosh/HyperCard is tagged desktop; it is not represented as support for contemporary macOS. DOI not verified in a retained first-party source. Exact publication month/day is not inferred from conference dates.",
+      "pages": "33-39",
+      "pdf_url": null,
+      "publisher": null,
+      "series": null,
+      "title": "Eager: Programming Repetitive Tasks by Example",
+      "type": "conference-paper",
+      "url": "https://acypher.com/Publications/CHI91/EagerCHI.html",
+      "venue": "Proceedings of CHI '91",
+      "volume": null
+    }
+  },
+  "environments": [
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:27Z",
+      "role": "primary",
+      "sha256": "64cffd3fca934465e1ea28bdf62e087bc9abdf50b9b72d04c2e57df0bcf41adb",
+      "supports": [
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.title"
+      ],
+      "url": "https://acypher.com/Eager/"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:55:21Z",
+      "role": "primary",
+      "sha256": "876d4c8dfac48443336a5ee97b463642db013631a2b97cacd090e61afd95ad59",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue"
+      ],
+      "url": "https://acypher.com/Publications/CHI91/EagerCHI.html"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:55:21Z",
+      "role": "primary",
+      "sha256": "876d4c8dfac48443336a5ee97b463642db013631a2b97cacd090e61afd95ad59",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue",
+        "environments",
+        "kind",
+        "scope",
+        "summary",
+        "topics"
+      ],
+      "url": "https://acypher.com/Publications/CHI91/EagerCHI.html"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:27Z",
+      "role": "primary",
+      "sha256": "64cffd3fca934465e1ea28bdf62e087bc9abdf50b9b72d04c2e57df0bcf41adb",
+      "supports": [
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.title",
+        "name"
+      ],
+      "url": "https://acypher.com/Eager/"
+    }
+  ],
+  "id": "url:bf0c11018e49dff6aeec",
+  "identifiers": {},
+  "kind": "paper",
+  "last_verified_at": "2026-10-17T09:55:21Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://acypher.com/Publications/CHI91/EagerCHI.html"
+    }
+  ],
+  "name": "Eager: Programming Repetitive Tasks by Example",
+  "notes": "The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. The 1991 conference paper is kept distinct from the 1991 video and 1993/1995 reprints listed on the author project page. Macintosh/HyperCard is tagged desktop; it is not represented as support for contemporary macOS.",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Describes Eager, which detects repeated HyperCard interactions, generalizes them into loops, and previews predicted actions by highlighting interface objects. Users can then ask it to execute the inferred repetitive task.",
+  "topics": [
+    "automation",
+    "human-in-the-loop",
+    "interaction-history"
+  ],
+  "updated_at": null,
+  "url": "https://acypher.com/Publications/CHI91/EagerCHI.html"
+}

@@ -1,4 +1,4 @@
-import {normalize} from './catalog-core.js?v=ef40656be80981339fd4df7511fbe3de763abc7b76ad92daefd53daf7d281568';
+import {normalize} from './catalog-core.js?v=ce02abc9d6ca7569a3bfb1063a9e32648d655dacb3de37b6e6660fd9c3daa98e';
 
 const query = document.querySelector('#compare-query');
 const environment = document.querySelector('#compare-environment');

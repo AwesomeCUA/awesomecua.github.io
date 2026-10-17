@@ -1,6 +1,6 @@
 # AwesomeCUA curated resource annotations
 
-Evidence snapshot: 2026-10-17T09:27:51+00:00. These records were reviewed with AI assistance; experiments are not independently reproduced.
+Evidence snapshot: 2026-10-17T10:01:32Z. These records were reviewed with AI assistance; experiments are not independently reproduced.
 
 # End-to-End Goal-Driven Web Navigation
 
@@ -239,6 +239,23 @@ Yang Li, Jiacong He, Xin Zhou, Yuan Zhang, Jason Baldridge
 - BibTeX: https://awesomecua.github.io/resources/arxiv-2005-03776/citation.bib
 - CSL JSON: https://awesomecua.github.io/resources/arxiv-2005-03776/citation.csl.json
 
+## Publication record
+
+- Title: Mapping Natural Language Instructions to Mobile UI Action Sequences
+- Authors: Yang Li, Jiacong He, Xin Zhou, Yuan Zhang, Jason Baldridge
+- Publication date (recorded precision): 2020-07
+- Publication source: https://aclanthology.org/2020.acl-main.729/
+- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2005-03776/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2005-03776/publication-citation.csl.json
+- venue: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics
+- publisher: Association for Computational Linguistics
+- pages: 8198-8210
+- doi: 10.18653/v1/2020.acl-main.729
+- date basis: Explicit publisher metadata: 2020/7; precision=month.
+- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- notes: Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Publication evidence: https://aclanthology.org/2020.acl-main.729/
+
 ## Recorded arXiv snapshot
 
 - Version: 2
@@ -258,6 +275,7 @@ Yang Li, Jiacong He, Xin Zhou, Yuan Zhang, Jason Baldridge
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=1802.08802%2C1808.09132%2C2005.03776%2C2101.09465%2C2103.16057%2C2104.08560%2C2105.13231%2C2107.03374%2C2107.13731%2C2108.03353%2C2202.02312%2C2202.08137%2C2204.01691%2C2205.11029%2C2207.01206%2C2209.08199%2C2209.08655%2C2209.14927%2C2209.15099%2C2210.02663%2C2210.03629%2C2210.03945%2C2211.07615%2C2301.10165%2C2301.13280%2C2302.04761%2C2303.07280%2C2303.08774%2C2303.17491%2C2303.17580%2C2304.04370%2C2304.07061%2C2305.04091%2C2305.05662%2C2305.08144%2C2305.10601%2C2305.11854%2C2305.12487%2C2305.14257%2C2305.14325%2C2305.16504%2C2305.16653%2C2305.19308%2C2306.00245%2C2306.06070%2C2306.07863%2C2307.10088%2C2307.12856%2C2307.13854%2C2308.01990&max_results=50 (retrieved 2026-10-16T06:31:20Z; SHA-256 cbe8bfcbce4170a94a6cf42de01fbe0a448e7b1d29fa75a0de877105a98ec08e)
+- https://aclanthology.org/2020.acl-main.729/ (retrieved 2026-10-17T09:53:48+00:00; SHA-256 c196294e19378d08d71a7cfd41c2e368f5a6b49ee7c3601257537b9ae5c42add)
 - https://export.arxiv.org/api/query?id_list=1802.08802%2C1808.09132%2C2005.03776%2C2101.09465%2C2103.16057%2C2104.08560%2C2105.13231%2C2107.03374%2C2107.13731%2C2108.03353%2C2202.02312%2C2202.08137%2C2204.01691%2C2205.11029%2C2207.01206%2C2209.08199%2C2209.08655%2C2209.14927%2C2209.15099%2C2210.02663%2C2210.03629%2C2210.03945%2C2211.07615%2C2301.10165%2C2301.13280%2C2302.04761%2C2303.07280%2C2303.08774%2C2303.17491%2C2303.17580%2C2304.04370%2C2304.07061%2C2305.04091%2C2305.05662%2C2305.08144%2C2305.10601%2C2305.11854%2C2305.12487%2C2305.14257%2C2305.14325%2C2305.16504%2C2305.16653%2C2305.19308%2C2306.00245%2C2306.06070%2C2306.07863%2C2307.10088%2C2307.12856%2C2307.13854%2C2308.01990&max_results=50 (retrieved 2026-10-16T06:31:20Z; SHA-256 cbe8bfcbce4170a94a6cf42de01fbe0a448e7b1d29fa75a0de877105a98ec08e)
 
 ---
@@ -343,6 +361,23 @@ Yang Li, Gang Li, Luheng He, Jingjie Zheng, Hong Li, Zhiwei Guan
 - BibTeX: https://awesomecua.github.io/resources/arxiv-2010-04295/citation.bib
 - CSL JSON: https://awesomecua.github.io/resources/arxiv-2010-04295/citation.csl.json
 
+## Publication record
+
+- Title: Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements
+- Authors: Yang Li, Gang Li, Luheng He, Jingjie Zheng, Hong Li, Zhiwei Guan
+- Publication date (recorded precision): 2020-11
+- Publication source: https://aclanthology.org/2020.emnlp-main.443/
+- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2010-04295/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2010-04295/publication-citation.csl.json
+- venue: Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)
+- publisher: Association for Computational Linguistics
+- pages: 5495-5510
+- doi: 10.18653/v1/2020.emnlp-main.443
+- date basis: Explicit publisher metadata: 2020/11; precision=month.
+- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- notes: The retained arXiv abstract reports 162,859 phrases; the ACL abstract reports 162,860. This publication proposal does not overwrite the arXiv annotation or assert a unified dataset count. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Publication evidence: https://aclanthology.org/2020.emnlp-main.443/
+
 ## Recorded arXiv snapshot
 
 - Version: 1
@@ -362,6 +397,7 @@ Yang Li, Gang Li, Luheng He, Jingjie Zheng, Hong Li, Zhiwei Guan
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2008.05132%2C2010.04295%2C2101.04893%2C2112.05692%2C2306.01242%2C2311.03079%2C2401.05459%2C2402.03746%2C2402.15506%2C2403.20329%2C2404.06395%2C2404.10179%2C2405.10292%2C2406.09187%2C2406.14596%2C2408.03326%2C2409.12089%2C2501.10893%2C2504.09352&max_results=19 (retrieved 2026-10-16T06:42:42Z; SHA-256 d1c1bc3fee56d124427abd2aabbcf876418633a8adf7a03f4ef0317cba6a42ae)
+- https://aclanthology.org/2020.emnlp-main.443/ (retrieved 2026-10-17T09:53:48+00:00; SHA-256 750e60b4d28e5b97a46595ea2280b520bf9edcc445b9931bad225e0028935c5e)
 - https://export.arxiv.org/api/query?id_list=2008.05132%2C2010.04295%2C2101.04893%2C2112.05692%2C2306.01242%2C2311.03079%2C2401.05459%2C2402.03746%2C2402.15506%2C2403.20329%2C2404.06395%2C2404.10179%2C2405.10292%2C2406.09187%2C2406.14596%2C2408.03326%2C2409.12089%2C2501.10893%2C2504.09352&max_results=19 (retrieved 2026-10-16T06:42:42Z; SHA-256 d1c1bc3fee56d124427abd2aabbcf876418633a8adf7a03f4ef0317cba6a42ae)
 
 ---
@@ -967,6 +1003,25 @@ Peter C Humphreys, David Raposo, Toby Pohlen, Gregory Thornton, Rachita Chhapari
 - BibTeX: https://awesomecua.github.io/resources/arxiv-2202-08137/citation.bib
 - CSL JSON: https://awesomecua.github.io/resources/arxiv-2202-08137/citation.csl.json
 
+## Publication record
+
+- Title: A Data-Driven Approach for Learning to Control Computers
+- Authors: Peter Humphreys, David Raposo, Toby Pohlen, Gregory Thornton, Rachita Chhaparia, Alistair Muldal, Josh Abramson, Petko Georgiev, Adam Santoro, Timothy Lillicrap
+- Publication date (recorded precision): 2022-06-28
+- Publication source: https://proceedings.mlr.press/v162/humphreys22a.html
+- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2202-08137/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2202-08137/publication-citation.csl.json
+- venue: Proceedings of the 39th International Conference on Machine Learning
+- publisher: PMLR
+- series: Proceedings of Machine Learning Research
+- volume: 162
+- pages: 9466-9482
+- date basis: Explicit publisher metadata: 2022/06/28; precision=day.
+- event dates: 17--23 Jul 2022
+- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- notes: The formal ICML PDF lists 10 authors beginning Peter Humphreys and uses Toby Pohlen. The landing lists Peter C Humphreys and Tobias Pohlen. The retained arXiv snapshot lists 11 authors, including Alex Goldin. These are preserved as distinct version-specific author lists; the publication field uses only the formal PDF list. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher issue date is 2022-06-28; the July 17–23 conference range is an event date, not a substitute publication day. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Publication evidence: https://proceedings.mlr.press/v162/humphreys22a.html, https://proceedings.mlr.press/v162/humphreys22a/humphreys22a.pdf
+
 ## Recorded arXiv snapshot
 
 - Version: 2
@@ -986,6 +1041,8 @@ Peter C Humphreys, David Raposo, Toby Pohlen, Gregory Thornton, Rachita Chhapari
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=1802.08802%2C1808.09132%2C2005.03776%2C2101.09465%2C2103.16057%2C2104.08560%2C2105.13231%2C2107.03374%2C2107.13731%2C2108.03353%2C2202.02312%2C2202.08137%2C2204.01691%2C2205.11029%2C2207.01206%2C2209.08199%2C2209.08655%2C2209.14927%2C2209.15099%2C2210.02663%2C2210.03629%2C2210.03945%2C2211.07615%2C2301.10165%2C2301.13280%2C2302.04761%2C2303.07280%2C2303.08774%2C2303.17491%2C2303.17580%2C2304.04370%2C2304.07061%2C2305.04091%2C2305.05662%2C2305.08144%2C2305.10601%2C2305.11854%2C2305.12487%2C2305.14257%2C2305.14325%2C2305.16504%2C2305.16653%2C2305.19308%2C2306.00245%2C2306.06070%2C2306.07863%2C2307.10088%2C2307.12856%2C2307.13854%2C2308.01990&max_results=50 (retrieved 2026-10-16T06:31:20Z; SHA-256 cbe8bfcbce4170a94a6cf42de01fbe0a448e7b1d29fa75a0de877105a98ec08e)
+- https://proceedings.mlr.press/v162/humphreys22a.html (retrieved 2026-10-17T09:53:47+00:00; SHA-256 b0ac6ec4bf3aad3773c53a0fffe8688a6287f25f28faf3743603ec2c1ae08a8b)
+- https://proceedings.mlr.press/v162/humphreys22a/humphreys22a.pdf (retrieved 2026-10-17T09:59:46+00:00; SHA-256 ba2a9a0a5e46aa5f34cfc720ac08049253917407e2fbd4a8cdbd2c8ca3ec8455)
 - https://export.arxiv.org/api/query?id_list=1802.08802%2C1808.09132%2C2005.03776%2C2101.09465%2C2103.16057%2C2104.08560%2C2105.13231%2C2107.03374%2C2107.13731%2C2108.03353%2C2202.02312%2C2202.08137%2C2204.01691%2C2205.11029%2C2207.01206%2C2209.08199%2C2209.08655%2C2209.14927%2C2209.15099%2C2210.02663%2C2210.03629%2C2210.03945%2C2211.07615%2C2301.10165%2C2301.13280%2C2302.04761%2C2303.07280%2C2303.08774%2C2303.17491%2C2303.17580%2C2304.04370%2C2304.07061%2C2305.04091%2C2305.05662%2C2305.08144%2C2305.10601%2C2305.11854%2C2305.12487%2C2305.14257%2C2305.14325%2C2305.16504%2C2305.16653%2C2305.19308%2C2306.00245%2C2306.06070%2C2306.07863%2C2307.10088%2C2307.12856%2C2307.13854%2C2308.01990&max_results=50 (retrieved 2026-10-16T06:31:20Z; SHA-256 cbe8bfcbce4170a94a6cf42de01fbe0a448e7b1d29fa75a0de877105a98ec08e)
 
 ---
@@ -1695,6 +1752,22 @@ Hiroki Furuta, Kuang-Huei Lee, Ofir Nachum, Yutaka Matsuo, Aleksandra Faust, Shi
 - BibTeX: https://awesomecua.github.io/resources/arxiv-2305-11854/citation.bib
 - CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-11854/citation.csl.json
 
+## Publication record
+
+- Title: Multimodal Web Navigation with Instruction-Finetuned Foundation Models
+- Authors: Hiroki Furuta, Kuang-Huei Lee, Ofir Nachum, Yutaka Matsuo, Aleksandra Faust, Shixiang Shane Gu, Izzeddin Gur
+- Publication date (recorded precision): 2024-05-31
+- Publication source: https://proceedings.iclr.cc/paper_files/paper/2024/hash/7ef7d8359036afd8c2378d82c21058a4-Abstract-Conference.html
+- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2305-11854/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2305-11854/publication-citation.csl.json
+- venue: International Conference on Learning Representations
+- volume: 2024
+- pages: 29528-29558
+- date basis: Explicit publisher metadata: 2024-05-31; precision=day.
+- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- notes: The ICLR landing shortens Shixiang Shane Gu to Shixiang Gu. Publication authors use the full PDF title-page form. Volume 2024 and pages 29528–29558 are explicit publisher citation metadata, not values inferred from the event year or PDF page count. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Publication evidence: https://proceedings.iclr.cc/paper_files/paper/2024/hash/7ef7d8359036afd8c2378d82c21058a4-Abstract-Conference.html, https://proceedings.iclr.cc/paper_files/paper/2024/file/7ef7d8359036afd8c2378d82c21058a4-Paper-Conference.pdf
+
 ## Recorded arXiv snapshot
 
 - Version: 4
@@ -1714,6 +1787,8 @@ Hiroki Furuta, Kuang-Huei Lee, Ofir Nachum, Yutaka Matsuo, Aleksandra Faust, Shi
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=1802.08802%2C1808.09132%2C2005.03776%2C2101.09465%2C2103.16057%2C2104.08560%2C2105.13231%2C2107.03374%2C2107.13731%2C2108.03353%2C2202.02312%2C2202.08137%2C2204.01691%2C2205.11029%2C2207.01206%2C2209.08199%2C2209.08655%2C2209.14927%2C2209.15099%2C2210.02663%2C2210.03629%2C2210.03945%2C2211.07615%2C2301.10165%2C2301.13280%2C2302.04761%2C2303.07280%2C2303.08774%2C2303.17491%2C2303.17580%2C2304.04370%2C2304.07061%2C2305.04091%2C2305.05662%2C2305.08144%2C2305.10601%2C2305.11854%2C2305.12487%2C2305.14257%2C2305.14325%2C2305.16504%2C2305.16653%2C2305.19308%2C2306.00245%2C2306.06070%2C2306.07863%2C2307.10088%2C2307.12856%2C2307.13854%2C2308.01990&max_results=50 (retrieved 2026-10-16T06:31:20Z; SHA-256 cbe8bfcbce4170a94a6cf42de01fbe0a448e7b1d29fa75a0de877105a98ec08e)
+- https://proceedings.iclr.cc/paper_files/paper/2024/hash/7ef7d8359036afd8c2378d82c21058a4-Abstract-Conference.html (retrieved 2026-10-17T09:53:48+00:00; SHA-256 6669190c7fc2a37f9cd68d0c49431b8f17b626c16bb3ef4093fc83a6ac62acd3)
+- https://proceedings.iclr.cc/paper_files/paper/2024/file/7ef7d8359036afd8c2378d82c21058a4-Paper-Conference.pdf (retrieved 2026-10-17T09:59:46+00:00; SHA-256 da26ea085252edfda4c084058aa81ea023f885ff97c67f2ffae0698bab6f568b)
 - https://export.arxiv.org/api/query?id_list=1802.08802%2C1808.09132%2C2005.03776%2C2101.09465%2C2103.16057%2C2104.08560%2C2105.13231%2C2107.03374%2C2107.13731%2C2108.03353%2C2202.02312%2C2202.08137%2C2204.01691%2C2205.11029%2C2207.01206%2C2209.08199%2C2209.08655%2C2209.14927%2C2209.15099%2C2210.02663%2C2210.03629%2C2210.03945%2C2211.07615%2C2301.10165%2C2301.13280%2C2302.04761%2C2303.07280%2C2303.08774%2C2303.17491%2C2303.17580%2C2304.04370%2C2304.07061%2C2305.04091%2C2305.05662%2C2305.08144%2C2305.10601%2C2305.11854%2C2305.12487%2C2305.14257%2C2305.14325%2C2305.16504%2C2305.16653%2C2305.19308%2C2306.00245%2C2306.06070%2C2306.07863%2C2307.10088%2C2307.12856%2C2307.13854%2C2308.01990&max_results=50 (retrieved 2026-10-16T06:31:20Z; SHA-256 cbe8bfcbce4170a94a6cf42de01fbe0a448e7b1d29fa75a0de877105a98ec08e)
 
 ---
@@ -1799,6 +1874,23 @@ Peter Shaw, Mandar Joshi, James Cohan, Jonathan Berant, Panupong Pasupat, Hexian
 - BibTeX: https://awesomecua.github.io/resources/arxiv-2306-00245/citation.bib
 - CSL JSON: https://awesomecua.github.io/resources/arxiv-2306-00245/citation.csl.json
 
+## Publication record
+
+- Title: From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces
+- Authors: Peter Shaw, Mandar Joshi, James Cohan, Jonathan Berant, Panupong Pasupat, Hexiang Hu, Urvashi Khandelwal, Kenton Lee, Kristina Toutanova
+- Publication date (recorded precision): 2023-12-15
+- Publication source: https://papers.nips.cc/paper_files/paper/2023/hash/6c52a8a4fadc9129c6e1d1745f2dfd0f-Abstract-Conference.html
+- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2306-00245/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2306-00245/publication-citation.csl.json
+- venue: Advances in Neural Information Processing Systems
+- volume: 36
+- pages: 34354-34370
+- doi: 10.52202/075280-1490
+- date basis: Explicit publisher metadata: 2023-12-15; precision=day.
+- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- notes: The NeurIPS landing metadata adds the initial N to Kristina Toutanova; the formal paper title page does not. Publication authors use the PDF. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Publication evidence: https://papers.nips.cc/paper_files/paper/2023/hash/6c52a8a4fadc9129c6e1d1745f2dfd0f-Abstract-Conference.html, https://proceedings.neurips.cc/paper_files/paper/2023/file/6c52a8a4fadc9129c6e1d1745f2dfd0f-Paper-Conference.pdf
+
 ## Recorded arXiv snapshot
 
 - Version: 2
@@ -1818,6 +1910,8 @@ Peter Shaw, Mandar Joshi, James Cohan, Jonathan Berant, Panupong Pasupat, Hexian
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=1802.08802%2C1808.09132%2C2005.03776%2C2101.09465%2C2103.16057%2C2104.08560%2C2105.13231%2C2107.03374%2C2107.13731%2C2108.03353%2C2202.02312%2C2202.08137%2C2204.01691%2C2205.11029%2C2207.01206%2C2209.08199%2C2209.08655%2C2209.14927%2C2209.15099%2C2210.02663%2C2210.03629%2C2210.03945%2C2211.07615%2C2301.10165%2C2301.13280%2C2302.04761%2C2303.07280%2C2303.08774%2C2303.17491%2C2303.17580%2C2304.04370%2C2304.07061%2C2305.04091%2C2305.05662%2C2305.08144%2C2305.10601%2C2305.11854%2C2305.12487%2C2305.14257%2C2305.14325%2C2305.16504%2C2305.16653%2C2305.19308%2C2306.00245%2C2306.06070%2C2306.07863%2C2307.10088%2C2307.12856%2C2307.13854%2C2308.01990&max_results=50 (retrieved 2026-10-16T06:31:20Z; SHA-256 cbe8bfcbce4170a94a6cf42de01fbe0a448e7b1d29fa75a0de877105a98ec08e)
+- https://papers.nips.cc/paper_files/paper/2023/hash/6c52a8a4fadc9129c6e1d1745f2dfd0f-Abstract-Conference.html (retrieved 2026-10-17T09:53:48+00:00; SHA-256 938e0a31512bb9a7793b568858f81eb3ceb650a71aae2d91b5292990e890201b)
+- https://proceedings.neurips.cc/paper_files/paper/2023/file/6c52a8a4fadc9129c6e1d1745f2dfd0f-Paper-Conference.pdf (retrieved 2026-10-17T09:59:47+00:00; SHA-256 3827298f44d2f24f1333b4d46ecb5eb88c8b028d192b11424580655b38e024f9)
 - https://export.arxiv.org/api/query?id_list=1802.08802%2C1808.09132%2C2005.03776%2C2101.09465%2C2103.16057%2C2104.08560%2C2105.13231%2C2107.03374%2C2107.13731%2C2108.03353%2C2202.02312%2C2202.08137%2C2204.01691%2C2205.11029%2C2207.01206%2C2209.08199%2C2209.08655%2C2209.14927%2C2209.15099%2C2210.02663%2C2210.03629%2C2210.03945%2C2211.07615%2C2301.10165%2C2301.13280%2C2302.04761%2C2303.07280%2C2303.08774%2C2303.17491%2C2303.17580%2C2304.04370%2C2304.07061%2C2305.04091%2C2305.05662%2C2305.08144%2C2305.10601%2C2305.11854%2C2305.12487%2C2305.14257%2C2305.14325%2C2305.16504%2C2305.16653%2C2305.19308%2C2306.00245%2C2306.06070%2C2306.07863%2C2307.10088%2C2307.12856%2C2307.13854%2C2308.01990&max_results=50 (retrieved 2026-10-16T06:31:20Z; SHA-256 cbe8bfcbce4170a94a6cf42de01fbe0a448e7b1d29fa75a0de877105a98ec08e)
 
 ---
@@ -3307,6 +3401,25 @@ Boyuan Zheng, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su
 - BibTeX: https://awesomecua.github.io/resources/arxiv-2401-01614/citation.bib
 - CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-01614/citation.csl.json
 
+## Publication record
+
+- Title: GPT-4V(ision) is a Generalist Web Agent, if Grounded
+- Authors: Boyuan Zheng, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su
+- Publication date (recorded precision): 2024-07-08
+- Publication source: https://proceedings.mlr.press/v235/zheng24e.html
+- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2401-01614/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-01614/publication-citation.csl.json
+- venue: Proceedings of the 41st International Conference on Machine Learning
+- publisher: PMLR
+- series: Proceedings of Machine Learning Research
+- volume: 235
+- pages: 61349-61385
+- date basis: Explicit publisher metadata: 2024/07/08; precision=day.
+- event dates: 21--27 Jul 2024
+- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- notes: The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Publication evidence: https://proceedings.mlr.press/v235/zheng24e.html
+
 ## Recorded arXiv snapshot
 
 - Version: 2
@@ -3326,6 +3439,7 @@ Boyuan Zheng, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
+- https://proceedings.mlr.press/v235/zheng24e.html (retrieved 2026-10-17T09:53:47+00:00; SHA-256 eb144b5dfe51e5a9092d273fcffb85343808d011b03d22e059c9cc65e642ef33)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
 
 ---
@@ -3411,6 +3525,23 @@ Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zh
 - BibTeX: https://awesomecua.github.io/resources/arxiv-2401-10935/citation.bib
 - CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-10935/citation.csl.json
 
+## Publication record
+
+- Title: SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents
+- Authors: Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu
+- Publication date (recorded precision): 2024-08
+- Publication source: https://aclanthology.org/2024.acl-long.505/
+- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2401-10935/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-10935/publication-citation.csl.json
+- venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+- publisher: Association for Computational Linguistics
+- pages: 9313-9332
+- doi: 10.18653/v1/2024.acl-long.505
+- date basis: Explicit publisher metadata: 2024/8; precision=month.
+- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- notes: The ACL landing metadata spells the fifth author Li YanTao. The formal PDF title page spells Yantao Li; the publication author field uses the PDF. The retained arXiv author list is untouched. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Publication evidence: https://aclanthology.org/2024.acl-long.505/, https://aclanthology.org/2024.acl-long.505.pdf
+
 ## Recorded arXiv snapshot
 
 - Version: 2
@@ -3430,6 +3561,8 @@ Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zh
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
+- https://aclanthology.org/2024.acl-long.505/ (retrieved 2026-10-17T09:53:48+00:00; SHA-256 62d56e417487461c8b34da15167eafd5f14f58092e4269222dc5c1c9048731a9)
+- https://aclanthology.org/2024.acl-long.505.pdf (retrieved 2026-10-17T09:56:04+00:00; SHA-256 8e1f6809e35751d762714286c55e79e81bae071608f90ef561d804aa59d7e406)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
 
 ---
@@ -3516,6 +3649,23 @@ Jing Yu Koh, Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huan
 - BibTeX: https://awesomecua.github.io/resources/arxiv-2401-13649/citation.bib
 - CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-13649/citation.csl.json
 
+## Publication record
+
+- Title: VisualWebArena: Evaluating Multimodal Agents on Realistic Visually Grounded Web Tasks
+- Authors: Jing Yu Koh, Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huang, Graham Neubig, Shuyan Zhou, Ruslan Salakhutdinov, Daniel Fried
+- Publication date (recorded precision): 2024-08
+- Publication source: https://aclanthology.org/2024.acl-long.50/
+- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2401-13649/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2401-13649/publication-citation.csl.json
+- venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+- publisher: Association for Computational Linguistics
+- pages: 881-905
+- doi: 10.18653/v1/2024.acl-long.50
+- date basis: Explicit publisher metadata: 2024/8; precision=month.
+- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- notes: The formal PDF title adds Visually Grounded; the landing metadata uses Visual Web Tasks. PDF authors include Ming Chong Lim and Ruslan Salakhutdinov; the landing abbreviates them to Ming Lim and Russ Salakhutdinov. Publication title/authors use the PDF; the retained arXiv title remains unchanged. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Publication evidence: https://aclanthology.org/2024.acl-long.50/, https://aclanthology.org/2024.acl-long.50.pdf
+
 ## Recorded arXiv snapshot
 
 - Version: 2
@@ -3535,6 +3685,8 @@ Jing Yu Koh, Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huan
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50 (retrieved 2026-10-16T06:31:24Z; SHA-256 3aac6e9748769efff3c475ede0da192776daa03431d231b5f67e2aa50f8a3be9)
+- https://aclanthology.org/2024.acl-long.50/ (retrieved 2026-10-17T09:53:48+00:00; SHA-256 fc908d474b12a6c0f3ff3e48129d29c809e9f3a0365a3cf647b70273f266849a)
+- https://aclanthology.org/2024.acl-long.50.pdf (retrieved 2026-10-17T09:56:04+00:00; SHA-256 6fc85c38c975c2af170c1d1a28f72ba557906d9019d1d9106a15215868bb491e)
 - https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50 (retrieved 2026-10-16T06:31:24Z; SHA-256 3aac6e9748769efff3c475ede0da192776daa03431d231b5f67e2aa50f8a3be9)
 
 ---
@@ -3828,6 +3980,25 @@ Xing Han Lù, Zdeněk Kasner, Siva Reddy
 - BibTeX: https://awesomecua.github.io/resources/arxiv-2402-05930/citation.bib
 - CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-05930/citation.csl.json
 
+## Publication record
+
+- Title: WebLINX: Real-World Website Navigation with Multi-Turn Dialogue
+- Authors: Xing Han Lù, Zdeněk Kasner, Siva Reddy
+- Publication date (recorded precision): 2024-07-08
+- Publication source: https://proceedings.mlr.press/v235/lu24e.html
+- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2402-05930/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-05930/publication-citation.csl.json
+- venue: Proceedings of the 41st International Conference on Machine Learning
+- publisher: PMLR
+- series: Proceedings of Machine Learning Research
+- volume: 235
+- pages: 33007-33056
+- date basis: Explicit publisher metadata: 2024/07/08; precision=day.
+- event dates: 21--27 Jul 2024
+- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- notes: The PMLR landing renders Xing Han Lu; the paper title page has Xing Han Lù. Publication authors use the PDF. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Publication evidence: https://proceedings.mlr.press/v235/lu24e.html, https://raw.githubusercontent.com/mlresearch/v235/main/assets/lu24e/lu24e.pdf
+
 ## Recorded arXiv snapshot
 
 - Version: 2
@@ -3847,6 +4018,8 @@ Xing Han Lù, Zdeněk Kasner, Siva Reddy
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50 (retrieved 2026-10-16T06:31:24Z; SHA-256 3aac6e9748769efff3c475ede0da192776daa03431d231b5f67e2aa50f8a3be9)
+- https://proceedings.mlr.press/v235/lu24e.html (retrieved 2026-10-17T09:53:47+00:00; SHA-256 1b30008f833b3b06238d87d0509a10876a08153a78a06c79bc7590c30c471777)
+- https://raw.githubusercontent.com/mlresearch/v235/main/assets/lu24e/lu24e.pdf (retrieved 2026-10-17T09:59:46+00:00; SHA-256 c644b1e3f071879aec8ea0e741e31e84193905dd730382ada54f1f24d04298ab)
 - https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50 (retrieved 2026-10-16T06:31:24Z; SHA-256 3aac6e9748769efff3c475ede0da192776daa03431d231b5f67e2aa50f8a3be9)
 
 ---
@@ -4400,6 +4573,25 @@ Weihao Tan, Wentao Zhang, Xinrun Xu, Haochong Xia, Ziluo Ding, Boyu Li, Bohan Zh
 - BibTeX: https://awesomecua.github.io/resources/arxiv-2403-03186/citation.bib
 - CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-03186/citation.csl.json
 
+## Publication record
+
+- Title: Cradle: Empowering Foundation Agents towards General Computer Control
+- Authors: Weihao Tan, Wentao Zhang, Xinrun Xu, Haochong Xia, Ziluo Ding, Boyu Li, Bohan Zhou, Junpeng Yue, Jiechuan Jiang, Yewen Li, Ruyi An, Molei Qin, Chuqiao Zong, Longtao Zheng, Yujie Wu, Xiaoqiang Chai, Yifei Bi, Tianbao Xie, Pengjie Gu, Xiyun Li, Ceyao Zhang, Long Tian, Chaojie Wang, Xinrun Wang, Börje F. Karlsson, Bo An, Shuicheng Yan, Zongqing Lu
+- Publication date (recorded precision): 2025-10-06
+- Publication source: https://proceedings.mlr.press/v267/tan25h.html
+- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2403-03186/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2403-03186/publication-citation.csl.json
+- venue: Proceedings of the 42nd International Conference on Machine Learning
+- publisher: PMLR
+- series: Proceedings of Machine Learning Research
+- volume: 267
+- pages: 58658-58725
+- date basis: Explicit publisher metadata: 2025/10/06; precision=day.
+- event dates: 13--19 Jul 2025
+- identity basis: Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.
+- notes: The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.
+- Publication evidence: https://proceedings.mlr.press/v267/tan25h.html
+
 ## Recorded arXiv snapshot
 
 - Version: 3
@@ -4419,6 +4611,7 @@ Weihao Tan, Wentao Zhang, Xinrun Xu, Haochong Xia, Ziluo Ding, Boyu Li, Bohan Zh
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2403.03186%2C2403.03788%2C2403.07718%2C2403.10170%2C2403.11905%2C2403.16971%2C2403.17918%2C2403.20271%2C2404.01549%2C2404.01744%2C2404.02475%2C2404.03648%2C2404.05427%2C2404.05719%2C2404.05955%2C2404.06474%2C2404.07972%2C2404.08755%2C2404.08860%2C2404.08948%2C2404.09992%2C2404.10887%2C2404.11459%2C2404.16006%2C2404.16048%2C2404.16054%2C2404.16660%2C2404.18074%2C2404.19296%2C2405.00516%2C2405.11120%2C2405.12842%2C2405.14573%2C2405.14751%2C2405.15793%2C2405.16247%2C2405.20309%2C2406.01014%2C2406.01623%2C2406.03679%2C2406.06947%2C2406.07822%2C2406.08184%2C2406.08340%2C2406.08451%2C2406.10227%2C2406.10819%2C2406.11317%2C2406.11896%2C2406.12373&max_results=50 (retrieved 2026-10-16T06:31:28Z; SHA-256 be244bfae7f89ef9449b69d85aac44295eb7b5f7e5e1bbedd76df312696676a7)
+- https://proceedings.mlr.press/v267/tan25h.html (retrieved 2026-10-17T09:53:47+00:00; SHA-256 c081bdd38f20d6c3aac756da474b8cb8a6d782ece213f67ebc333bf2b99de2fc)
 - https://export.arxiv.org/api/query?id_list=2403.03186%2C2403.03788%2C2403.07718%2C2403.10170%2C2403.11905%2C2403.16971%2C2403.17918%2C2403.20271%2C2404.01549%2C2404.01744%2C2404.02475%2C2404.03648%2C2404.05427%2C2404.05719%2C2404.05955%2C2404.06474%2C2404.07972%2C2404.08755%2C2404.08860%2C2404.08948%2C2404.09992%2C2404.10887%2C2404.11459%2C2404.16006%2C2404.16048%2C2404.16054%2C2404.16660%2C2404.18074%2C2404.19296%2C2405.00516%2C2405.11120%2C2405.12842%2C2405.14573%2C2405.14751%2C2405.15793%2C2405.16247%2C2405.20309%2C2406.01014%2C2406.01623%2C2406.03679%2C2406.06947%2C2406.07822%2C2406.08184%2C2406.08340%2C2406.08451%2C2406.10227%2C2406.10819%2C2406.11317%2C2406.11896%2C2406.12373&max_results=50 (retrieved 2026-10-16T06:31:28Z; SHA-256 be244bfae7f89ef9449b69d85aac44295eb7b5f7e5e1bbedd76df312696676a7)
 
 ---
@@ -38543,7 +38736,7 @@ Browser interaction task environment derived from MiniWoB.
 
 ## Limitations
 
-Inclusion does not establish reproducibility or endorsement.
+The maintainer README identifies MiniWoB++ as the extension introduced in the 2018 workflow-guided exploration paper. It separately links World of Bits as the source for the original MiniWoB predecessor. The current Farama interface, environment inventory, and maintenance status belong to the retained repository snapshot.
 
 - Record JSON: https://awesomecua.github.io/resources/github-farama-foundation-miniwob-plusplus/record.json
 
@@ -45662,7 +45855,7 @@ Mobile app screenshots, view hierarchies, and interaction traces for UI research
 
 ## Limitations
 
-Inclusion does not establish reproducibility or endorsement.
+The official project page cites the 2017 Rico paper. The project page reports more than 66,000 screens, while the original publication reports more than 72,000. These source-specific counts are kept separate; the reason for the difference is not established by these sources.
 
 - Record JSON: https://awesomecua.github.io/resources/url-0b134b082a7bd507fc6a/record.json
 
@@ -45676,6 +45869,7 @@ Inclusion does not establish reproducibility or endorsement.
 ## Primary evidence
 
 - https://www.interactionmining.org/archive/rico (retrieved 2026-10-16T06:38:29Z; SHA-256 daa370b9aae5bce9f5171ea81fa4574c6155e04177af1db138529efd76377f89)
+- https://danafergan.com/publications/deka2017rico.pdf (retrieved 2026-10-17T10:01:32Z; SHA-256 a1ec58c526b152c052c5c72f9a62725f1026b5f0e4f45c8fe85fce284295da84)
 
 ---
 
@@ -46679,6 +46873,70 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+# Ringer: Web Automation by Demonstration
+
+Introduces Ringer, which converts demonstrated webpage interactions into scripts combining actions, target selectors, and waiting conditions. It evaluates replay robustness on tasks recorded from real websites.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-347925d0f440d6396080/
+- Original source: https://doi.org/10.1145/2983990.2984020
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, recording, robustness
+- Evidence checked: 2026-10-17T09:53:24Z
+- ID: url:347925d0f440d6396080
+
+## Limitations
+
+The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. The original manuscript and MSR BibTeX print Sarah Chasins and Ras Bodik. The official conference profiles expand these to Sarah E. Chasins and Rastislav Bodík; the printed publication names are preserved.
+
+- Record JSON: https://awesomecua.github.io/resources/url-347925d0f440d6396080/record.json
+
+## Authors
+
+Shaon Barman, Sarah Chasins, Ras Bodik, Sumit Gulwani
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/url-347925d0f440d6396080/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/url-347925d0f440d6396080/citation.csl.json
+
+## Publication record
+
+- Title: Ringer: Web Automation by Demonstration
+- Authors: Shaon Barman, Sarah Chasins, Ras Bodik, Sumit Gulwani
+- Publication date (recorded precision): 2016-11
+- Publication source: https://doi.org/10.1145/2983990.2984020
+- Publication BibTeX: https://awesomecua.github.io/resources/url-347925d0f440d6396080/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/url-347925d0f440d6396080/publication-citation.csl.json
+- venue: OOPSLA 2016
+- doi: 10.1145/2983990.2984020
+- date basis: Supplied month precision: 2016-11. year=2016, month=November
+- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- notes: The original manuscript and MSR BibTeX print Sarah Chasins and Ras Bodik. The official conference profiles expand these to Sarah E. Chasins and Rastislav Bodík; the printed publication names are preserved. Page range, volume and exact publication day are not established by the retained citation sources.
+- Publication evidence: https://www.microsoft.com/en-us/research/publication/ringer-web-automation-demonstration/bibtex/, https://2016.splashcon.org/track/splash-2016-oopsla, https://www.microsoft.com/en-us/research/publication/ringer-web-automation-demonstration/, https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/oopsla16-web.pdf
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://www.microsoft.com/en-us/research/publication/ringer-web-automation-demonstration/bibtex/ (retrieved 2026-10-17T09:57:36Z; SHA-256 633aa15e2e14346241de5385cc19d99f1fcdc9ef79fd06d27176dbfa8f38149a)
+- https://2016.splashcon.org/track/splash-2016-oopsla (retrieved 2026-10-17T09:57:36Z; SHA-256 94c6b6bbd127126c9dd259bd346a7757d75366b4d805bdee2959c4c73226df74)
+- https://www.microsoft.com/en-us/research/publication/ringer-web-automation-demonstration/ (retrieved 2026-10-17T09:53:24Z; SHA-256 45f65483c3801dac142f4657c4cbe45e17b6a3e081497731e984c1e670c6e8f6)
+- https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/oopsla16-web.pdf (retrieved 2026-10-17T09:55:00Z; SHA-256 bfbb69f57aaed39e3a210fae832e1fd98ed62ba1c01217b792238fe57e1a0ad1)
+- https://www.microsoft.com/en-us/research/publication/ringer-web-automation-demonstration/ (retrieved 2026-10-17T09:53:24Z; SHA-256 45f65483c3801dac142f4657c4cbe45e17b6a3e081497731e984c1e670c6e8f6)
+- https://www.microsoft.com/en-us/research/publication/ringer-web-automation-demonstration/bibtex/ (retrieved 2026-10-17T09:57:36Z; SHA-256 633aa15e2e14346241de5385cc19d99f1fcdc9ef79fd06d27176dbfa8f38149a)
+- https://2016.splashcon.org/track/splash-2016-oopsla (retrieved 2026-10-17T09:57:36Z; SHA-256 94c6b6bbd127126c9dd259bd346a7757d75366b4d805bdee2959c4c73226df74)
+- https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/oopsla16-web.pdf (retrieved 2026-10-17T09:55:00Z; SHA-256 bfbb69f57aaed39e3a210fae832e1fd98ed62ba1c01217b792238fe57e1a0ad1)
+
+---
+
 # InfiGUI-R1 3B
 
 A Qwen2.5-VL checkpoint trained with the Actor2Reasoner procedure to combine interface grounding with planning and recovery reasoning.
@@ -46713,6 +46971,67 @@ The official Hub API resolves the former Reallm-Labs model namespace to InfiX-ai
 - https://huggingface.co/api/models/Reallm-Labs/InfiGUI-R1-3B (retrieved 2026-10-17T02:03:33Z; SHA-256 213a5181a3516cf15d5f7b746986bc1e36cd6579acabd8aa1c2fb16a23a51ee0)
 - https://raw.githubusercontent.com/Reallm-Labs/InfiGUI-R1/HEAD/README.md (retrieved 2026-10-16T06:36:00Z; SHA-256 5fd1399c88bdf406e7689765ccf0599b3b7e0ddbed082fa92bffdd7b120bd41a)
 - https://huggingface.co/InfiX-ai/InfiGUI-R1-3B/raw/main/README.md (retrieved 2026-10-17T02:05:41Z; SHA-256 73496fb30838ba9ea291bb6d1e14004ac3318ac03a1ae7b5d6044e0dc14fd46f)
+
+---
+
+# SUGILITE: Creating Multimodal Smartphone Automation by Demonstration
+
+Introduces SUGILITE, which combines spoken instructions, demonstrated Android actions, and UI hierarchies to generate reusable automation scripts. Its interface includes context checking and repairs for unfamiliar situations and changing app interfaces.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-392a602c660ffa91be46/
+- Original source: https://doi.org/10.1145/3025453.3025483
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, recording, human-in-the-loop, cross-app
+- Evidence checked: 2026-10-17T09:54:39Z
+- ID: url:392a602c660ffa91be46
+
+## Limitations
+
+The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. Related to later APPINITE and PUMICE work but distinguished here by its 2017 three-author publication and base demonstration-automation contribution.
+
+- Record JSON: https://awesomecua.github.io/resources/url-392a602c660ffa91be46/record.json
+
+## Authors
+
+Toby Jia-Jun Li, Amos Azaria, Brad A. Myers
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/url-392a602c660ffa91be46/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/url-392a602c660ffa91be46/citation.csl.json
+
+## Publication record
+
+- Title: SUGILITE: Creating Multimodal Smartphone Automation by Demonstration
+- Authors: Toby Jia-Jun Li, Amos Azaria, Brad A. Myers
+- Publication date (recorded precision): 2017
+- Publication source: https://doi.org/10.1145/3025453.3025483
+- Publication BibTeX: https://awesomecua.github.io/resources/url-392a602c660ffa91be46/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/url-392a602c660ffa91be46/publication-citation.csl.json
+- venue: Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems
+- pages: 6038-6049
+- doi: 10.1145/3025453.3025483
+- date basis: Supplied year precision: 2017. Publications: SUGILITE, CHI 2017 Only publication year is asserted; event dates are kept separate.
+- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- notes: Related to later APPINITE and PUMICE work but distinguished here by its 2017 three-author publication and base demonstration-automation contribution. Publication month/day are not independently identified by the retained sources.
+- Publication evidence: https://www.cs.cmu.edu/~NatProg/sugilite.html, https://toby.li/files/TobyLi-CHI2017-Sugilite.pdf
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://www.cs.cmu.edu/~NatProg/sugilite.html (retrieved 2026-10-17T09:53:22Z; SHA-256 32ee05ff1a91ed4a22d4bc156a462872aa4e28f5c79abfbce5dbf3655f412033)
+- https://toby.li/files/TobyLi-CHI2017-Sugilite.pdf (retrieved 2026-10-17T09:54:39Z; SHA-256 cc23c19284f0a558c4b99b8b051abca8ed61e274e9e1f1fed1ae91487f4368ad)
+- https://toby.li/files/TobyLi-CHI2017-Sugilite.pdf (retrieved 2026-10-17T09:54:39Z; SHA-256 cc23c19284f0a558c4b99b8b051abca8ed61e274e9e1f1fed1ae91487f4368ad)
+- https://www.cs.cmu.edu/~NatProg/sugilite.html (retrieved 2026-10-17T09:53:22Z; SHA-256 32ee05ff1a91ed4a22d4bc156a462872aa4e28f5c79abfbce5dbf3655f412033)
 
 ---
 
@@ -47168,6 +47487,70 @@ The repository gives conflicting episode totals (8,334 and 8,834). This profile 
 
 ---
 
+# World of Bits: An Open-Domain Platform for Web-Based Agents
+
+Introduces World of Bits, a web-task platform combining human demonstrations, keyboard and mouse actions, and cached HTTP traffic for repeatable task environments. It evaluates agents trained through behavioral cloning and reinforcement learning.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-52a3261eb6a19b402e88/
+- Original source: https://proceedings.mlr.press/v70/shi17a.html
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, reinforcement-learning, evaluation, data-generation
+- Evidence checked: 2026-10-17T09:53:21Z
+- ID: url:52a3261eb6a19b402e88
+
+## Limitations
+
+The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. Publisher citation uses Tianlin Shi and Linxi Fan; the PDF also prints the nicknames Tim and Jim. The ordered publisher author names are retained.
+
+- Record JSON: https://awesomecua.github.io/resources/url-52a3261eb6a19b402e88/record.json
+
+## Authors
+
+Tianlin Shi, Andrej Karpathy, Linxi Fan, Jonathan Hernandez, Percy Liang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/url-52a3261eb6a19b402e88/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/url-52a3261eb6a19b402e88/citation.csl.json
+
+## Publication record
+
+- Title: World of Bits: An Open-Domain Platform for Web-Based Agents
+- Authors: Tianlin Shi, Andrej Karpathy, Linxi Fan, Jonathan Hernandez, Percy Liang
+- Publication date (recorded precision): 2017-07-17
+- Publication source: https://proceedings.mlr.press/v70/shi17a.html
+- Publication BibTeX: https://awesomecua.github.io/resources/url-52a3261eb6a19b402e88/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/url-52a3261eb6a19b402e88/publication-citation.csl.json
+- venue: Proceedings of the 34th International Conference on Machine Learning
+- publisher: PMLR
+- series: Proceedings of Machine Learning Research
+- volume: 70
+- pages: 3135-3144
+- date basis: Publisher citation_publication_date metadata explicitly states 2017/07/17; this is separate from the conference interval.
+- event dates: 06--11 Aug (conference interval reported in the publisher BibTeX month field)
+- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- notes: Publisher citation uses Tianlin Shi and Linxi Fan; the PDF also prints the nicknames Tim and Jim. The ordered publisher author names are retained. DOI not supplied in the retained publisher citation. Publisher metadata supplies the publication date separately from the conference interval.
+- Publication evidence: https://proceedings.mlr.press/v70/shi17a.html, https://proceedings.mlr.press/v70/shi17a/shi17a.pdf
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://proceedings.mlr.press/v70/shi17a.html (retrieved 2026-10-17T09:53:21Z; SHA-256 749d2a150e4c2bcde1b219a0ecb86c95546134a057892544e8495b5e45323c44)
+- https://proceedings.mlr.press/v70/shi17a/shi17a.pdf (retrieved 2026-10-17T09:54:39Z; SHA-256 087008efb9d056df5fd9fbc724413d6a3f20cb14c7f1597d00bacac53d8342d6)
+- https://proceedings.mlr.press/v70/shi17a.html (retrieved 2026-10-17T09:53:21Z; SHA-256 749d2a150e4c2bcde1b219a0ecb86c95546134a057892544e8495b5e45323c44)
+- https://proceedings.mlr.press/v70/shi17a/shi17a.pdf (retrieved 2026-10-17T09:54:39Z; SHA-256 087008efb9d056df5fd9fbc724413d6a3f20cb14c7f1597d00bacac53d8342d6)
+
+---
+
 # SpiritSight-Agent 8B base
 
 An InternVL2-based visual GUI checkpoint distributed for grounding and interface navigation, with the publisher recommending task-specific fine-tuning of the base release.
@@ -47556,6 +47939,125 @@ The manifest contains two safetensors shards in GUI-R1-3B and four in GUI-R1-7B.
 - https://huggingface.co/api/models/ritzzai/GUI-R1 (retrieved 2026-10-17T02:44:29Z; SHA-256 3eff86951de7c36dbd4af006ab3f1350213bdfea384494e59c8abc007793c979)
 - https://raw.githubusercontent.com/ritzz-ai/GUI-R1/HEAD/README.md (retrieved 2026-10-16T10:43:11Z; SHA-256 94c7c78bede11dde727940f56592a04594c1c59438812dff47540bf53c1bed7d)
 - https://huggingface.co/ritzzai/GUI-R1/raw/main/README.md (retrieved 2026-10-17T02:44:30Z; SHA-256 7b14996d1a99675990cb2f3aeada2b2f9898f9daee46d3680988e16f6365abe3)
+
+---
+
+# GUI Testing Using Computer Vision
+
+Presents visual GUI test scripts that use images to specify actions and expected screen feedback. Recording both input events and screenshots can generate tests from demonstrations, supporting unit, regression, and test-driven workflows.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-6262c757080f8838e62c/
+- Original source: https://doi.org/10.1145/1753326.1753555
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: evaluation, grounding, automation
+- Evidence checked: 2026-10-17T09:53:21Z
+- ID: url:6262c757080f8838e62c
+
+## Limitations
+
+The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. This is a separate visual-testing contribution from the 2009 Sikuli paper, not another version of the same article. MIT PDF download returned HTTP 429; its complete institutional abstract and citation metadata remain the retained review source.
+
+- Record JSON: https://awesomecua.github.io/resources/url-6262c757080f8838e62c/record.json
+
+## Authors
+
+Tsung-Hsiang Chang, Tom Yeh, Robert C. Miller
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/url-6262c757080f8838e62c/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/url-6262c757080f8838e62c/citation.csl.json
+
+## Publication record
+
+- Title: GUI Testing Using Computer Vision
+- Authors: Tsung-Hsiang Chang, Tom Yeh, Robert C. Miller
+- Publication date (recorded precision): 2010-04
+- Publication source: https://doi.org/10.1145/1753326.1753555
+- Publication BibTeX: https://awesomecua.github.io/resources/url-6262c757080f8838e62c/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/url-6262c757080f8838e62c/publication-citation.csl.json
+- venue: Proceedings of the 28th International Conference on Human Factors in Computing Systems (CHI '10)
+- pages: 1535-1544
+- doi: 10.1145/1753326.1753555
+- date basis: Supplied month precision: 2010-04. Date Issued: April 2010
+- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- notes: Distinct visual-testing contribution from the 2009 Sikuli paper. The institutional abstract and published-version citation supply the retained evidence. Exact publication day and operating-system coverage are not established in the accessible institutional abstract.
+- Publication evidence: https://dspace.mit.edu/entities/publication/6a6097ba-1d97-43cf-bc70-04b5af02efd5
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://dspace.mit.edu/entities/publication/6a6097ba-1d97-43cf-bc70-04b5af02efd5 (retrieved 2026-10-17T09:53:21Z; SHA-256 dbace77c54d1b4ed5dcf825dcb0f4525c32e33ac885e70312e8bb4a731a94e80)
+- https://dspace.mit.edu/entities/publication/6a6097ba-1d97-43cf-bc70-04b5af02efd5 (retrieved 2026-10-17T09:53:21Z; SHA-256 dbace77c54d1b4ed5dcf825dcb0f4525c32e33ac885e70312e8bb4a731a94e80)
+
+---
+
+# PLOW: A Collaborative Task Learning Agent
+
+Describes PLOW, which learns executable web-task models from a session combining demonstrations, natural-language explanations, and dialogue. Browser instrumentation connects user actions with DOM structure to support task generalization.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-628b5251757bb3888e89/
+- Original source: https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, human-in-the-loop, planning
+- Evidence checked: 2026-10-17T09:53:26Z
+- ID: url:628b5251757bb3888e89
+
+## Limitations
+
+The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. The ordered names follow the original published paper, without expanding initials or replacing names from secondary indexes.
+
+- Record JSON: https://awesomecua.github.io/resources/url-628b5251757bb3888e89/record.json
+
+## Authors
+
+James Allen, Nathanael Chambers, George Ferguson, Lucian Galescu, Hyuckchul Jung, Mary Swift, William Taysom
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/url-628b5251757bb3888e89/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/url-628b5251757bb3888e89/citation.csl.json
+
+## Publication record
+
+- Title: PLOW: A Collaborative Task Learning Agent
+- Authors: James Allen, Nathanael Chambers, George Ferguson, Lucian Galescu, Hyuckchul Jung, Mary Swift, William Taysom
+- Publication date (recorded precision): 2007
+- Publication source: https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf
+- Publication BibTeX: https://awesomecua.github.io/resources/url-628b5251757bb3888e89/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/url-628b5251757bb3888e89/publication-citation.csl.json
+- venue: Twenty-Second AAAI National Conference on Artificial Intelligence
+- pages: 1514-1519
+- date basis: Supplied year precision: 2007. Papers section: AAAI-2007
+- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- notes: The ordered names follow the original published paper, without expanding initials or replacing names from secondary indexes. DOI and volume number are not supplied in the retained primary sources. No exact publication month/day is established.
+- Publication evidence: https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf, https://www.cs.rochester.edu/research/cisd/projects/plow/
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf (retrieved 2026-10-17T09:53:26Z; SHA-256 795d275c9f85180561fd101652221d30fb98daca2c2a00faf2b57c397bdfd68d)
+- https://www.cs.rochester.edu/research/cisd/projects/plow/ (retrieved 2026-10-17T09:53:24Z; SHA-256 c0b3571efd5f2e137e42b38107de29aca6668819bec84109912d514867d85b8c)
+- https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf (retrieved 2026-10-17T09:53:26Z; SHA-256 795d275c9f85180561fd101652221d30fb98daca2c2a00faf2b57c397bdfd68d)
+- https://www.cs.rochester.edu/research/cisd/projects/plow/ (retrieved 2026-10-17T09:53:24Z; SHA-256 c0b3571efd5f2e137e42b38107de29aca6668819bec84109912d514867d85b8c)
 
 ---
 
@@ -48572,6 +49074,66 @@ The Hub provides four safetensors shards and associated model files without gati
 
 ---
 
+# Kite: Building Conversational Bots from Mobile Apps
+
+Derives task graphs from demonstrated Android app interactions and layers a conversational question-answer interface over those graphs. The evaluation examines task-model extraction and developer use of the resulting bot templates.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-901ca855640457dfe2f1/
+- Original source: https://doi.org/10.1145/3210240.3210339
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, workflow, human-in-the-loop
+- Evidence checked: 2026-10-17T09:59:27Z
+- ID: url:901ca855640457dfe2f1
+
+## Limitations
+
+The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced.
+
+- Record JSON: https://awesomecua.github.io/resources/url-901ca855640457dfe2f1/record.json
+
+## Authors
+
+Toby Jia-Jun Li, Oriana Riva
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/url-901ca855640457dfe2f1/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/url-901ca855640457dfe2f1/citation.csl.json
+
+## Publication record
+
+- Title: Kite: Building Conversational Bots from Mobile Apps
+- Authors: Toby Jia-Jun Li, Oriana Riva
+- Publication date (recorded precision): 2018-06
+- Publication source: https://doi.org/10.1145/3210240.3210339
+- Publication BibTeX: https://awesomecua.github.io/resources/url-901ca855640457dfe2f1/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/url-901ca855640457dfe2f1/publication-citation.csl.json
+- venue: The 16th Annual International Conference on Mobile Systems, Applications, and Services
+- doi: 10.1145/3210240.3210339
+- date basis: Supplied month precision: 2018-06. Publication line: MobiSys 2018, June 2018
+- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- notes: Final proceedings page range and volume are not established in the retained first-party citation. The paper states a 14-page extent, not a page range. Exact publication day is unknown.
+- Publication evidence: https://www.microsoft.com/en-us/research/publication/kite-building-conversational-bots-mobile-apps/, https://www.microsoft.com/en-us/research/wp-content/uploads/2018/05/kite_mobisys18.pdf
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://www.microsoft.com/en-us/research/publication/kite-building-conversational-bots-mobile-apps/ (retrieved 2026-10-17T09:59:26Z; SHA-256 e2f5403d77f563ec6a88458e32d057559a8f8ba4d2a80304e70c2c793fb60bb5)
+- https://www.microsoft.com/en-us/research/wp-content/uploads/2018/05/kite_mobisys18.pdf (retrieved 2026-10-17T09:59:27Z; SHA-256 bfb67283f49dad7974d97e3b3da9d9ff24744d18e83c4d25cbe4f12ecf807071)
+- https://www.microsoft.com/en-us/research/wp-content/uploads/2018/05/kite_mobisys18.pdf (retrieved 2026-10-17T09:59:27Z; SHA-256 bfb67283f49dad7974d97e3b3da9d9ff24744d18e83c4d25cbe4f12ecf807071)
+- https://www.microsoft.com/en-us/research/publication/kite-building-conversational-bots-mobile-apps/ (retrieved 2026-10-17T09:59:26Z; SHA-256 e2f5403d77f563ec6a88458e32d057559a8f8ba4d2a80304e70c2c793fb60bb5)
+
+---
+
 # GUI-G2 7B
 
 A Qwen2.5-VL grounding checkpoint trained with Gaussian point and coverage rewards whose granularity adapts to interface-element scale.
@@ -48685,6 +49247,66 @@ Inclusion does not establish reproducibility or endorsement.
 ## Primary evidence
 
 - https://www.browserbase.com/ (retrieved 2026-10-16T06:38:27Z; SHA-256 d86315819750e4a5fde12bce85a03c61cf68e704cb54146e6180027a37471b72)
+
+---
+
+# Rousillon: Scraping Distributed Hierarchical Web Data
+
+Introduces Rousillon, which generalizes a demonstration of collecting one hierarchical data row into a browser-automation program that traverses related pages. The paper develops relation-selection and generalization methods and evaluates users building such scripts.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-97c0b1896525632434e2/
+- Original source: https://doi.org/10.1145/3242587.3242661
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, recording, automation
+- Evidence checked: 2026-10-17T09:55:12Z
+- ID: url:97c0b1896525632434e2
+
+## Limitations
+
+The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. This is browser interaction learned from demonstrations, rather than a generic server-side crawling library.
+
+- Record JSON: https://awesomecua.github.io/resources/url-97c0b1896525632434e2/record.json
+
+## Authors
+
+Sarah E. Chasins, Maria Mueller, Rastislav Bodik
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/url-97c0b1896525632434e2/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/url-97c0b1896525632434e2/citation.csl.json
+
+## Publication record
+
+- Title: Rousillon: Scraping Distributed Hierarchical Web Data
+- Authors: Sarah E. Chasins, Maria Mueller, Rastislav Bodik
+- Publication date (recorded precision): 2018
+- Publication source: https://doi.org/10.1145/3242587.3242661
+- Publication BibTeX: https://awesomecua.github.io/resources/url-97c0b1896525632434e2/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/url-97c0b1896525632434e2/publication-citation.csl.json
+- venue: Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology
+- doi: 10.1145/3242587.3242661
+- date basis: Supplied year precision: 2018. Rousillon entry: UIST 2018
+- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- notes: This is browser interaction learned from demonstrations, rather than a generic server-side crawling library. Final proceedings page range and volume are not established. Manuscript pages 1-13 are not substituted for publisher pagination. Exact publication month/day is not inferred from conference dates.
+- Publication evidence: https://schasins.com/papers/, https://schasins.com/assets/papers/rousillon.pdf
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://schasins.com/papers/ (retrieved 2026-10-17T09:57:38Z; SHA-256 6b7e584bb3862e0de51ca164d0f311c2a853e97bd63d56658ce62f0b49d86557)
+- https://schasins.com/assets/papers/rousillon.pdf (retrieved 2026-10-17T09:55:12Z; SHA-256 764dd1f5fe1db398188f403b4b1f6e3658e3238e4d8aac9ceed360dcad87e818)
+- https://schasins.com/assets/papers/rousillon.pdf (retrieved 2026-10-17T09:55:12Z; SHA-256 764dd1f5fe1db398188f403b4b1f6e3658e3238e4d8aac9ceed360dcad87e818)
+- https://schasins.com/papers/ (retrieved 2026-10-17T09:57:38Z; SHA-256 6b7e584bb3862e0de51ca164d0f311c2a853e97bd63d56658ce62f0b49d86557)
 
 ---
 
@@ -48890,6 +49512,65 @@ Fourteen public safetensors shards are present. The card declares Apache-2.0 for
 - https://huggingface.co/Hcompany/Holo3-35B-A3B/raw/main/README.md (retrieved 2026-10-17T04:07:19Z; SHA-256 0681f87b059110a4e5dff8955e9feca6c5ea118b326f729f9c0ed0fe49e42d03)
 - https://huggingface.co/api/models/Hcompany/Holo3-35B-A3B (retrieved 2026-10-17T04:07:18Z; SHA-256 bc5324dd6ceea9a0cc6bf0639b99d24cdd172af3c5d247bf923fdce1dc11f582)
 - https://huggingface.co/Hcompany/Holo3-35B-A3B/raw/main/README.md (retrieved 2026-10-17T04:07:19Z; SHA-256 0681f87b059110a4e5dff8955e9feca6c5ea118b326f729f9c0ed0fe49e42d03)
+
+---
+
+# Sikuli: Using GUI screenshots for search and automation
+
+Introduces screenshot-based GUI search and visual scripting, using image patterns to locate interface targets and direct mouse and keyboard events. It evaluates screenshot queries and demonstrates automation and interactive-help tasks.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-a4cdb2ee0d07d3980651/
+- Original source: https://doi.org/10.1145/1622176.1622213
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: grounding, automation, screen-understanding
+- Evidence checked: 2026-10-17T09:53:21Z
+- ID: url:a4cdb2ee0d07d3980651
+
+## Limitations
+
+The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. MIT identifies the retained content as an author final manuscript record. Its PDF download returned HTTP 429; no retry was made. The complete institutional abstract and bibliographic record were read.
+
+- Record JSON: https://awesomecua.github.io/resources/url-a4cdb2ee0d07d3980651/record.json
+
+## Authors
+
+Tom Yeh, Tsung-Hsiang Chang, Robert C. Miller
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/url-a4cdb2ee0d07d3980651/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/url-a4cdb2ee0d07d3980651/citation.csl.json
+
+## Publication record
+
+- Title: Sikuli: Using GUI screenshots for search and automation
+- Authors: Tom Yeh, Tsung-Hsiang Chang, Robert C. Miller
+- Publication date (recorded precision): 2009-10
+- Publication source: https://doi.org/10.1145/1622176.1622213
+- Publication BibTeX: https://awesomecua.github.io/resources/url-a4cdb2ee0d07d3980651/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/url-a4cdb2ee0d07d3980651/publication-citation.csl.json
+- venue: Proceedings of the 22nd Annual ACM Symposium on User Interface Software and Technology (UIST '09)
+- pages: 183-192
+- doi: 10.1145/1622176.1622213
+- date basis: Supplied month precision: 2009-10. Date Issued: October 2009
+- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- notes: Institutional abstract and published-version citation supply the retained evidence; the institution identifies an author final manuscript record. Exact publication day is not supplied. Operating-system-specific experiments are not asserted.
+- Publication evidence: https://dspace.mit.edu/entities/publication/604a3f79-451d-4186-a94e-d12690ffe40a
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://dspace.mit.edu/entities/publication/604a3f79-451d-4186-a94e-d12690ffe40a (retrieved 2026-10-17T09:53:21Z; SHA-256 dbaaf21982522b34857be014b39d6c43fedcda20f808efe40d04958c77243a5a)
+- https://dspace.mit.edu/entities/publication/604a3f79-451d-4186-a94e-d12690ffe40a (retrieved 2026-10-17T09:53:21Z; SHA-256 dbaaf21982522b34857be014b39d6c43fedcda20f808efe40d04958c77243a5a)
 
 ---
 
@@ -49217,6 +49898,67 @@ The launch page identifies itself as outdated. This entry records the product in
 
 ---
 
+# Rico: A Mobile App Dataset for Building Data-Driven Design Applications
+
+Introduces Rico, collecting Android interface designs and interaction traces through crowdsourced use followed by automated exploration. The paper demonstrates UI-layout retrieval using learned representations and describes visual, textual, structural, and interaction data.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-b560b5d6abaab98483f6/
+- Original source: https://doi.org/10.1145/3126594.3126651
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: data-generation, screen-understanding, ui-design
+- Evidence checked: 2026-10-17T10:01:32Z
+- ID: url:b560b5d6abaab98483f6
+
+## Limitations
+
+The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. The paper is a distinct resource from the already cataloged Rico dataset (url:0b134b082a7bd507fc6a). The publisher PDF describes 9.7k apps and 72k screens; the project page describes 9.3k apps and 66k screens. The annotation intentionally supplies no merged size claim.
+
+- Record JSON: https://awesomecua.github.io/resources/url-b560b5d6abaab98483f6/record.json
+
+## Authors
+
+Biplab Deka, Zifeng Huang, Chad Franzen, Joshua Hibschman, Daniel Afergan, Yang Li, Jeffrey Nichols, Ranjitha Kumar
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/url-b560b5d6abaab98483f6/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/url-b560b5d6abaab98483f6/citation.csl.json
+
+## Publication record
+
+- Title: Rico: A Mobile App Dataset for Building Data-Driven Design Applications
+- Authors: Biplab Deka, Zifeng Huang, Chad Franzen, Joshua Hibschman, Daniel Afergan, Yang Li, Jeffrey Nichols, Ranjitha Kumar
+- Publication date (recorded precision): 2017-10-20
+- Publication source: https://doi.org/10.1145/3126594.3126651
+- Publication BibTeX: https://awesomecua.github.io/resources/url-b560b5d6abaab98483f6/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/url-b560b5d6abaab98483f6/publication-citation.csl.json
+- venue: UIST '17: Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology
+- pages: 845-854
+- doi: 10.1145/3126594.3126651
+- date basis: Supplied day precision: 2017-10-20. PDF cover, Published: 20 October 2017 The 18 January 2026 download date and October 22-25 conference dates are not publication dates.
+- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- notes: The paper is a distinct resource from the already cataloged Rico dataset (url:0b134b082a7bd507fc6a). The publisher PDF describes 9.7k apps and 72k screens; the project page describes 9.3k apps and 66k screens. The annotation intentionally supplies no merged size claim. No volume number is supplied for this proceedings article.
+- Publication evidence: https://danafergan.com/publications/deka2017rico.pdf, https://dev.interactionmining.org/archive/rico
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://danafergan.com/publications/deka2017rico.pdf (retrieved 2026-10-17T10:01:32Z; SHA-256 a1ec58c526b152c052c5c72f9a62725f1026b5f0e4f45c8fe85fce284295da84)
+- https://dev.interactionmining.org/archive/rico (retrieved 2026-10-17T09:53:23Z; SHA-256 fb00401fe531ca3aed078dccc57147bcaad33207dacf7cd4cfd4af14f1487ff5)
+- https://danafergan.com/publications/deka2017rico.pdf (retrieved 2026-10-17T10:01:32Z; SHA-256 a1ec58c526b152c052c5c72f9a62725f1026b5f0e4f45c8fe85fce284295da84)
+- https://dev.interactionmining.org/archive/rico (retrieved 2026-10-17T09:53:23Z; SHA-256 fb00401fe531ca3aed078dccc57147bcaad33207dacf7cd4cfd4af14f1487ff5)
+
+---
+
 # Aguvis stage 2 trajectory data
 
 The second-stage Aguvis collection of interface trajectories for learning action sequences, planning and reasoning after grounding pretraining.
@@ -49393,6 +50135,67 @@ Four safetensors shards and model/tokenizer files are public. The card declares 
 
 ---
 
+# APPINITE: A Multi-Modal Interface for Specifying Data Descriptions in Programming by Demonstration Using Natural Language Instructions
+
+Introduces APPINITE, a conversational interface for specifying the intended targets of demonstrated Android actions. It constructs semantic UI representations and uses an on-screen overlay to preview and refine executable data descriptions.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-ba2c664c1b3c6f1b172f/
+- Original source: https://ieeexplore.ieee.org/document/8506506
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: grounding, human-in-the-loop, mobile-navigation
+- Evidence checked: 2026-10-17T09:54:46Z
+- ID: url:ba2c664c1b3c6f1b172f
+
+## Limitations
+
+The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. The base SUGILITE framework and later PUMICE work are distinct publications; this paper focuses on resolving data-description ambiguity in demonstrations.
+
+- Record JSON: https://awesomecua.github.io/resources/url-ba2c664c1b3c6f1b172f/record.json
+
+## Authors
+
+Toby Jia-Jun Li, Igor Labutov, Xiaohan Nancy Li, Xiaoyi Zhang, Wenze Shi, Wanling Ding, Tom M. Mitchell, Brad A. Myers
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/url-ba2c664c1b3c6f1b172f/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/url-ba2c664c1b3c6f1b172f/citation.csl.json
+
+## Publication record
+
+- Title: APPINITE: A Multi-Modal Interface for Specifying Data Descriptions in Programming by Demonstration Using Natural Language Instructions
+- Authors: Toby Jia-Jun Li, Igor Labutov, Xiaohan Nancy Li, Xiaoyi Zhang, Wenze Shi, Wanling Ding, Tom M. Mitchell, Brad A. Myers
+- Publication date (recorded precision): 2018
+- Publication source: https://ieeexplore.ieee.org/document/8506506
+- Publication BibTeX: https://awesomecua.github.io/resources/url-ba2c664c1b3c6f1b172f/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/url-ba2c664c1b3c6f1b172f/publication-citation.csl.json
+- venue: Proceedings of the 2018 IEEE Symposium on Visual Languages and Human-Centric Computing
+- date basis: Supplied year precision: 2018. APPINITE publication citation: VL/HCC 2018
+- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- notes: The base SUGILITE framework and later PUMICE work are distinct publications; this paper focuses on resolving data-description ambiguity in demonstrations. Author-hosted manuscript and institutional publication lists supply the retained evidence. DOI, final page range, and exact publication day remain unknown.
+- Publication evidence: https://toby.li/files/TobyLi-VLHCC18-APPINITE.pdf, https://www.cs.cmu.edu/~NatProg/sugilite.html, https://toby.li/publications/
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://toby.li/files/TobyLi-VLHCC18-APPINITE.pdf (retrieved 2026-10-17T09:54:46Z; SHA-256 6e05fd08b187adba32148e0835ef6b9e20cd6a3ba5e0de6e2778eb18c02788ee)
+- https://www.cs.cmu.edu/~NatProg/sugilite.html (retrieved 2026-10-17T09:53:22Z; SHA-256 32ee05ff1a91ed4a22d4bc156a462872aa4e28f5c79abfbce5dbf3655f412033)
+- https://toby.li/publications/ (retrieved 2026-10-17T09:55:20Z; SHA-256 adfcec73830b612b181d4846ace3fbaab1768e906715c1d90fe657e23fe4d985)
+- https://toby.li/files/TobyLi-VLHCC18-APPINITE.pdf (retrieved 2026-10-17T09:54:46Z; SHA-256 6e05fd08b187adba32148e0835ef6b9e20cd6a3ba5e0de6e2778eb18c02788ee)
+- https://www.cs.cmu.edu/~NatProg/sugilite.html (retrieved 2026-10-17T09:53:22Z; SHA-256 32ee05ff1a91ed4a22d4bc156a462872aa4e28f5c79abfbce5dbf3655f412033)
+- https://toby.li/publications/ (retrieved 2026-10-17T09:55:20Z; SHA-256 adfcec73830b612b181d4846ace3fbaab1768e906715c1d90fe657e23fe4d985)
+
+---
+
 # Plan-and-Act training data
 
 Planner and action-executor training examples for WebArena-Lite and WebVoyager, with model-specific processed files and raw trajectory annotations.
@@ -49472,6 +50275,126 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://huggingface.co/api/datasets/OS-Copilot/ScreenSpot-v2 (retrieved 2026-10-16T06:38:26Z; SHA-256 7feddadc306e384f8df6a3d9c8afc0c776cb3734c4c7fe3eb842eab85537f408)
 - https://huggingface.co/api/datasets/OS-Copilot/ScreenSpot-v2 (retrieved 2026-10-16T06:38:26Z; SHA-256 7feddadc306e384f8df6a3d9c8afc0c776cb3734c4c7fe3eb842eab85537f408)
+
+---
+
+# GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning
+
+GUI-SAGE generates reasoning conditioned on known actions and weights policy updates using confidence and reward signals. Its experiments use AndroidControl and GUIOdyssey data and separately evaluate interactive AndroidWorld tasks.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-beb8f1fd6b945ffc9d93/
+- Original source: https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: reinforcement-learning, data-generation, evaluation, robustness
+- Evidence checked: 2026-10-17T09:53:48+00:00
+- ID: url:beb8f1fd6b945ffc9d93
+
+## Limitations
+
+The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. New work proposal from the official CVF accepted open-access version. No invented day, DOI, or arXiv identifier; original annotations describe the reviewed sources and not independent reproduction.
+
+- Record JSON: https://awesomecua.github.io/resources/url-beb8f1fd6b945ffc9d93/record.json
+
+## Authors
+
+Fei Tang, Zhangxuan Gu, Zhengxi Lu, Shangzhan Zhang, Zhengwen Zeng, Shuheng Shen, Changhua Meng, Yuchen Yan, Wenqi Zhang, Yongliang Shen, Weiming Lu, Yueting Zhuang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/url-beb8f1fd6b945ffc9d93/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/url-beb8f1fd6b945ffc9d93/citation.csl.json
+
+## Publication record
+
+- Title: GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning
+- Authors: Fei Tang, Zhangxuan Gu, Zhengxi Lu, Shangzhan Zhang, Zhengwen Zeng, Shuheng Shen, Changhua Meng, Yuchen Yan, Wenqi Zhang, Yongliang Shen, Weiming Lu, Yueting Zhuang
+- Publication date (recorded precision): 2026-06
+- Publication source: https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html
+- Publication BibTeX: https://awesomecua.github.io/resources/url-beb8f1fd6b945ffc9d93/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/url-beb8f1fd6b945ffc9d93/publication-citation.csl.json
+- venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+- pages: 13007-13016
+- date basis: Explicit publisher metadata: month = {June}, year = {2026}; precision=month.
+- identity basis: No title/DOI/canonical URL match in the current paper catalog or raw archive; closest substantive same-team works were reread and have different contributions.
+- notes: CVF open-access accepted version; PDF states that the final proceedings version is on IEEE Xplore.
+- Publication evidence: https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html, https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.pdf
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html (retrieved 2026-10-17T09:53:48+00:00; SHA-256 1d5ed4e24cf9763cc43f0a8ce14f0e98c01504c73578e5632cea573dfb7da647)
+- https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.pdf (retrieved 2026-10-17T09:56:04+00:00; SHA-256 244f40d77a40dfd184e78cf8e1e2dd9e469d3e594a8ce214279c2ce17b8f1012)
+- https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html (retrieved 2026-10-17T09:53:48+00:00; SHA-256 1d5ed4e24cf9763cc43f0a8ce14f0e98c01504c73578e5632cea573dfb7da647)
+- https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.pdf (retrieved 2026-10-17T09:56:04+00:00; SHA-256 244f40d77a40dfd184e78cf8e1e2dd9e469d3e594a8ce214279c2ce17b8f1012)
+
+---
+
+# Eager: Programming Repetitive Tasks by Example
+
+Describes Eager, which detects repeated HyperCard interactions, generalizes them into loops, and previews predicted actions by highlighting interface objects. Users can then ask it to execute the inferred repetitive task.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-bf0c11018e49dff6aeec/
+- Original source: https://acypher.com/Publications/CHI91/EagerCHI.html
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: automation, human-in-the-loop, interaction-history
+- Evidence checked: 2026-10-17T09:55:21Z
+- ID: url:bf0c11018e49dff6aeec
+
+## Limitations
+
+The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. The 1991 conference paper is kept distinct from the 1991 video and 1993/1995 reprints listed on the author project page. Macintosh/HyperCard is tagged desktop; it is not represented as support for contemporary macOS.
+
+- Record JSON: https://awesomecua.github.io/resources/url-bf0c11018e49dff6aeec/record.json
+
+## Authors
+
+Allen Cypher
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/url-bf0c11018e49dff6aeec/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/url-bf0c11018e49dff6aeec/citation.csl.json
+
+## Publication record
+
+- Title: Eager: Programming Repetitive Tasks by Example
+- Authors: Allen Cypher
+- Publication date (recorded precision): 1991
+- Publication source: https://acypher.com/Publications/CHI91/EagerCHI.html
+- Publication BibTeX: https://awesomecua.github.io/resources/url-bf0c11018e49dff6aeec/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/url-bf0c11018e49dff6aeec/publication-citation.csl.json
+- venue: Proceedings of CHI '91
+- pages: 33-39
+- date basis: Supplied year precision: 1991. Opening CHI 1991 citation and copyright
+- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- notes: The 1991 conference paper is kept distinct from the 1991 video and 1993/1995 reprints listed on the author project page. Macintosh/HyperCard is tagged desktop; it is not represented as support for contemporary macOS. DOI not verified in a retained first-party source. Exact publication month/day is not inferred from conference dates.
+- Publication evidence: https://acypher.com/Eager/, https://acypher.com/Publications/CHI91/EagerCHI.html
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://acypher.com/Eager/ (retrieved 2026-10-17T09:53:27Z; SHA-256 64cffd3fca934465e1ea28bdf62e087bc9abdf50b9b72d04c2e57df0bcf41adb)
+- https://acypher.com/Publications/CHI91/EagerCHI.html (retrieved 2026-10-17T09:55:21Z; SHA-256 876d4c8dfac48443336a5ee97b463642db013631a2b97cacd090e61afd95ad59)
+- https://acypher.com/Publications/CHI91/EagerCHI.html (retrieved 2026-10-17T09:55:21Z; SHA-256 876d4c8dfac48443336a5ee97b463642db013631a2b97cacd090e61afd95ad59)
+- https://acypher.com/Eager/ (retrieved 2026-10-17T09:53:27Z; SHA-256 64cffd3fca934465e1ea28bdf62e087bc9abdf50b9b72d04c2e57df0bcf41adb)
 
 ---
 
@@ -49810,6 +50733,67 @@ Four safetensors shards and model code/configuration are public and ungated. The
 - https://huggingface.co/api/models/tencent/POINTS-GUI-G (retrieved 2026-10-17T02:03:33Z; SHA-256 3b97405c0a7f50298cf31a4933d31da356363c2ba5ecfaf73144cedeebc44db2)
 - https://raw.githubusercontent.com/Tencent/POINTS-GUI/HEAD/README.md (retrieved 2026-10-16T06:36:00Z; SHA-256 9f851237932688c15d261c016d51ff5ae80c43c5d0b4eaccac0b48d941118d80)
 - https://huggingface.co/tencent/POINTS-GUI-G/raw/main/README.md (retrieved 2026-10-17T02:03:33Z; SHA-256 ac679d3cfdda8754e945d127935c9ed9030e6c9d0c9872f6224909ab2abe5c3f)
+
+---
+
+# Koala: Capture, Share, Automate, Personalize Business Processes on the Web
+
+Introduces Koala, a collaborative web automation system that records browser interactions as editable pseudo-natural-language scripts. Scripts are shared through a wiki and instantiated with personal or corporate data for reuse by other users.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-cccd967aa993404d74d0/
+- Original source: https://doi.org/10.1145/1240624.1240767
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, workflow, recording
+- Evidence checked: 2026-10-17T09:55:21Z
+- ID: url:cccd967aa993404d74d0
+
+## Limitations
+
+The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. This proposal is the specific Koala paper. It does not automatically merge every later CoScripter publication or project record.
+
+- Record JSON: https://awesomecua.github.io/resources/url-cccd967aa993404d74d0/record.json
+
+## Authors
+
+Greg Little, Tessa A. Lau, Allen Cypher, James Lin, Eben M. Haber, Eser Kandogan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/url-cccd967aa993404d74d0/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/url-cccd967aa993404d74d0/citation.csl.json
+
+## Publication record
+
+- Title: Koala: Capture, Share, Automate, Personalize Business Processes on the Web
+- Authors: Greg Little, Tessa A. Lau, Allen Cypher, James Lin, Eben M. Haber, Eser Kandogan
+- Publication date (recorded precision): 2007
+- Publication source: https://doi.org/10.1145/1240624.1240767
+- Publication BibTeX: https://awesomecua.github.io/resources/url-cccd967aa993404d74d0/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/url-cccd967aa993404d74d0/publication-citation.csl.json
+- venue: CHI 2007 Proceedings
+- pages: 943-946
+- doi: 10.1145/1240624.1240767
+- date basis: Supplied year precision: 2007. CHI 2007 proceedings heading and copyright year The IBM page has an unlabeled Date of 22 Oct 2007, while the paper gives April/May event dates. Their roles do not establish a reliable day-level publication date.
+- identity basis: No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.
+- notes: This proposal is the specific Koala paper. It does not automatically merge every later CoScripter publication or project record. Exact publication date is unresolved; only the clearly established year is proposed.
+- Publication evidence: https://research.ibm.com/publications/koala-capture-share-automate-personalize-business-processes-on-the-web, https://plunk.org/eben/PublishedPapers/KoalaCHI.pdf
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://research.ibm.com/publications/koala-capture-share-automate-personalize-business-processes-on-the-web (retrieved 2026-10-17T09:53:23Z; SHA-256 ae61a94cca68e058858244b6ff54ed9409973a5cecaf25c0e325b27adaf0e3dd)
+- https://plunk.org/eben/PublishedPapers/KoalaCHI.pdf (retrieved 2026-10-17T09:55:21Z; SHA-256 944b6f74a6cdb88fc253009f364dcc71cc42186b4907e04720da128c5292e357)
+- https://plunk.org/eben/PublishedPapers/KoalaCHI.pdf (retrieved 2026-10-17T09:55:21Z; SHA-256 944b6f74a6cdb88fc253009f364dcc71cc42186b4907e04720da128c5292e357)
+- https://research.ibm.com/publications/koala-capture-share-automate-personalize-business-processes-on-the-web (retrieved 2026-10-17T09:53:23Z; SHA-256 ae61a94cca68e058858244b6ff54ed9409973a5cecaf25c0e325b27adaf0e3dd)
 
 ---
 

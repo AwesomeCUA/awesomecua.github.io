@@ -1,0 +1,70 @@
+{
+  "id": "url:97c0b1896525632434e2",
+  "citation-key": "cua_b85f11762562177944b6898f",
+  "type": "paper-conference",
+  "title": "Rousillon: Scraping Distributed Hierarchical Web Data",
+  "URL": "https://doi.org/10.1145/3242587.3242661",
+  "custom": {
+    "catalog_id": "url:97c0b1896525632434e2",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://doi.org/10.1145/3242587.3242661",
+    "identifiers": {
+      "doi": "10.1145/3242587.3242661"
+    },
+    "first_published_at": null,
+    "record_updated_at": null,
+    "catalog_scope": "core",
+    "publication": {
+      "authors": [
+        "Sarah E. Chasins",
+        "Maria Mueller",
+        "Rastislav Bodik"
+      ],
+      "date_basis": "Supplied year precision: 2018. Rousillon entry: UIST 2018",
+      "date_parts": [
+        2018
+      ],
+      "doi": "10.1145/3242587.3242661",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://schasins.com/papers/",
+        "https://schasins.com/assets/papers/rousillon.pdf"
+      ],
+      "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+      "issue": null,
+      "notes": "This is browser interaction learned from demonstrations, rather than a generic server-side crawling library. Final proceedings page range and volume are not established. Manuscript pages 1-13 are not substituted for publisher pagination. Exact publication month/day is not inferred from conference dates.",
+      "pages": null,
+      "pdf_url": "https://schasins.com/assets/papers/rousillon.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "Rousillon: Scraping Distributed Hierarchical Web Data",
+      "type": "conference-paper",
+      "url": "https://doi.org/10.1145/3242587.3242661",
+      "venue": "Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2018.",
+  "author": [
+    {
+      "literal": "Sarah E. Chasins"
+    },
+    {
+      "literal": "Maria Mueller"
+    },
+    {
+      "literal": "Rastislav Bodik"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2018
+      ]
+    ]
+  },
+  "DOI": "10.1145/3242587.3242661",
+  "container-title": "Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology"
+}

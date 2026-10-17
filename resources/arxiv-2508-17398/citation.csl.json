@@ -22,7 +22,45 @@
       "updated_at": "2025-08-24T15:11:44Z",
       "version": 1,
       "versioned_url": "https://arxiv.org/abs/2508.17398v1"
-    }
+    },
+    "publication": {
+      "authors": [
+        "Aaryaman Kartha",
+        "Ahmed Masry",
+        "Mohammed Saidul Islam",
+        "Thinh Lang",
+        "Shadikur Rahman",
+        "Ridwan Mahbub",
+        "Mizanur Rahman",
+        "Mahir Ahmed",
+        "Md. Rizwan Parvez",
+        "Enamul Hoque",
+        "Shafiq Joty"
+      ],
+      "date_basis": "Explicit publisher metadata: 2026/3; precision=month.",
+      "date_parts": [
+        2026,
+        3
+      ],
+      "doi": "10.18653/v1/2026.findings-eacl.177",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2026.findings-eacl.177/"
+      ],
+      "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+      "issue": null,
+      "notes": "This work already exists as metadata_verified arxiv:2508.17398. Its retained Atom body was unavailable locally, so identity is based on the exact title and full author list (minor Md. punctuation variant) in the existing record and publisher source. No arXiv API refresh or second work is proposed. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+      "pages": "3385-3407",
+      "pdf_url": "https://aclanthology.org/2026.findings-eacl.177.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2026.findings-eacl.177/",
+      "venue": "Findings of the Association for Computational Linguistics: EACL 2026",
+      "volume": null
+    },
+    "citation_edition": "record"
   },
   "note": "First published: 2025-08-24; Recorded arXiv version: v1; Recorded version updated: 2025-08-24T15:11:44Z.",
   "author": [

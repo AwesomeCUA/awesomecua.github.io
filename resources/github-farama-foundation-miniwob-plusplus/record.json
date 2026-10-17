@@ -67,7 +67,9 @@
       "role": "primary",
       "sha256": "90499776fa1b23e08ac85190ad3be709caa9172ff4f2a0a106b0fa350568e86f",
       "supports": [
-        "details.benchmark_protocol"
+        "details.benchmark_protocol",
+        "relations",
+        "notes"
       ],
       "url": "https://raw.githubusercontent.com/Farama-Foundation/miniwob-plusplus/HEAD/README.md"
     },
@@ -124,9 +126,15 @@
     }
   ],
   "name": "MiniWoB++",
-  "notes": "",
+  "notes": "The maintainer README identifies MiniWoB++ as the extension introduced in the 2018 workflow-guided exploration paper. It separately links World of Bits as the source for the original MiniWoB predecessor. The current Farama interface, environment inventory, and maintenance status belong to the retained repository snapshot.",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/Farama-Foundation/miniwob-plusplus/HEAD/README.md",
+      "target_id": "arxiv:1802.08802",
+      "type": "introduced_by"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
   "summary": "Browser interaction task environment derived from MiniWoB.",

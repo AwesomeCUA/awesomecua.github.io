@@ -16,6 +16,38 @@
       "updated_at": "2020-10-08T22:56:03Z",
       "version": 1,
       "versioned_url": "https://arxiv.org/abs/2010.04295v1"
+    },
+    "publication": {
+      "authors": [
+        "Yang Li",
+        "Gang Li",
+        "Luheng He",
+        "Jingjie Zheng",
+        "Hong Li",
+        "Zhiwei Guan"
+      ],
+      "date_basis": "Explicit publisher metadata: 2020/11; precision=month.",
+      "date_parts": [
+        2020,
+        11
+      ],
+      "doi": "10.18653/v1/2020.emnlp-main.443",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2020.emnlp-main.443/"
+      ],
+      "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+      "issue": null,
+      "notes": "The retained arXiv abstract reports 162,859 phrases; the ACL abstract reports 162,860. This publication proposal does not overwrite the arXiv annotation or assert a unified dataset count. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+      "pages": "5495-5510",
+      "pdf_url": "https://aclanthology.org/2020.emnlp-main.443.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2020.emnlp-main.443/",
+      "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+      "volume": null
     }
   },
   "environments": [
@@ -36,6 +68,28 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=2008.05132%2C2010.04295%2C2101.04893%2C2112.05692%2C2306.01242%2C2311.03079%2C2401.05459%2C2402.03746%2C2402.15506%2C2403.20329%2C2404.06395%2C2404.10179%2C2405.10292%2C2406.09187%2C2406.14596%2C2408.03326%2C2409.12089%2C2501.10893%2C2504.09352&max_results=19"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:48+00:00",
+      "role": "primary",
+      "sha256": "750e60b4d28e5b97a46595ea2280b520bf9edcc445b9931bad225e0028935c5e",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.doi",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.pdf_url",
+        "details.publication.publisher",
+        "details.publication.title",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue"
+      ],
+      "url": "https://aclanthology.org/2020.emnlp-main.443/"
     },
     {
       "method": "editorial_primary_review",
@@ -70,6 +124,14 @@
     {
       "rel": "primary",
       "url": "https://arxiv.org/abs/2010.04295"
+    },
+    {
+      "rel": "publication",
+      "url": "https://aclanthology.org/2020.emnlp-main.443/"
+    },
+    {
+      "rel": "publication_pdf",
+      "url": "https://aclanthology.org/2020.emnlp-main.443.pdf"
     }
   ],
   "name": "Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements",

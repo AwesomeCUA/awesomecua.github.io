@@ -20,6 +20,43 @@
       "updated_at": "2024-06-06T02:01:09Z",
       "version": 2,
       "versioned_url": "https://arxiv.org/abs/2401.13649v2"
+    },
+    "publication": {
+      "authors": [
+        "Jing Yu Koh",
+        "Robert Lo",
+        "Lawrence Jang",
+        "Vikram Duvvur",
+        "Ming Chong Lim",
+        "Po-Yu Huang",
+        "Graham Neubig",
+        "Shuyan Zhou",
+        "Ruslan Salakhutdinov",
+        "Daniel Fried"
+      ],
+      "date_basis": "Explicit publisher metadata: 2024/8; precision=month.",
+      "date_parts": [
+        2024,
+        8
+      ],
+      "doi": "10.18653/v1/2024.acl-long.50",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2024.acl-long.50/",
+        "https://aclanthology.org/2024.acl-long.50.pdf"
+      ],
+      "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+      "issue": null,
+      "notes": "The formal PDF title adds Visually Grounded; the landing metadata uses Visual Web Tasks. PDF authors include Ming Chong Lim and Ruslan Salakhutdinov; the landing abbreviates them to Ming Lim and Russ Salakhutdinov. Publication title/authors use the PDF; the retained arXiv title remains unchanged. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+      "pages": "881-905",
+      "pdf_url": "https://aclanthology.org/2024.acl-long.50.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "VisualWebArena: Evaluating Multimodal Agents on Realistic Visually Grounded Web Tasks",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2024.acl-long.50/",
+      "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "volume": null
     }
   },
   "environments": [
@@ -40,6 +77,39 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=2308.03688%2C2308.15272%2C2309.08172%2C2309.11436%2C2310.04716%2C2310.04869%2C2310.05126%2C2310.06770%2C2310.08740%2C2310.10634%2C2310.11441%2C2310.16042%2C2310.18331%2C2311.01767%2C2311.07562%2C2311.09278%2C2311.12983%2C2311.18751%2C2312.03003%2C2312.06677%2C2312.08914%2C2312.11671%2C2312.13108%2C2312.13771%2C2312.15820%2C2312.16062%2C2401.01614%2C2401.04124%2C2401.07781%2C2401.10935%2C2401.13178%2C2401.13649%2C2401.13919%2C2401.14268%2C2401.16158%2C2402.01030%2C2402.04476%2C2402.04615%2C2402.05930%2C2402.06596%2C2402.07456%2C2402.07939%2C2402.07945%2C2402.08567%2C2402.11941%2C2402.14073%2C2402.15057%2C2402.16965%2C2402.17553%2C2403.02713&max_results=50"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:48+00:00",
+      "role": "primary",
+      "sha256": "fc908d474b12a6c0f3ff3e48129d29c809e9f3a0365a3cf647b70273f266849a",
+      "supports": [
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.doi",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.pdf_url",
+        "details.publication.publisher",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue"
+      ],
+      "url": "https://aclanthology.org/2024.acl-long.50/"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:56:04+00:00",
+      "role": "primary",
+      "sha256": "6fc85c38c975c2af170c1d1a28f72ba557906d9019d1d9106a15215868bb491e",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.title"
+      ],
+      "url": "https://aclanthology.org/2024.acl-long.50.pdf"
     },
     {
       "method": "editorial_primary_review",
@@ -74,6 +144,14 @@
     {
       "rel": "primary",
       "url": "https://arxiv.org/abs/2401.13649"
+    },
+    {
+      "rel": "publication",
+      "url": "https://aclanthology.org/2024.acl-long.50/"
+    },
+    {
+      "rel": "publication_pdf",
+      "url": "https://aclanthology.org/2024.acl-long.50.pdf"
     }
   ],
   "name": "VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks",

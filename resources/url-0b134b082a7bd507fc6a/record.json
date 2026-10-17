@@ -34,9 +34,20 @@
         "topics",
         "scope",
         "relations",
-        "details"
+        "details",
+        "notes"
       ],
       "url": "https://www.interactionmining.org/archive/rico"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T10:01:32Z",
+      "role": "primary",
+      "sha256": "a1ec58c526b152c052c5c72f9a62725f1026b5f0e4f45c8fe85fce284295da84",
+      "supports": [
+        "notes"
+      ],
+      "url": "https://danafergan.com/publications/deka2017rico.pdf"
     }
   ],
   "id": "url:0b134b082a7bd507fc6a",
@@ -56,9 +67,15 @@
     }
   ],
   "name": "Rico",
-  "notes": "",
+  "notes": "The official project page cites the 2017 Rico paper. The project page reports more than 66,000 screens, while the original publication reports more than 72,000. These source-specific counts are kept separate; the reason for the difference is not established by these sources.",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://www.interactionmining.org/archive/rico",
+      "target_id": "url:b560b5d6abaab98483f6",
+      "type": "documented_by"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
   "summary": "Mobile app screenshots, view hierarchies, and interaction traces for UI research.",

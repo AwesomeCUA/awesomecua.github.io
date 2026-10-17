@@ -1,0 +1,83 @@
+{
+  "id": "url:52a3261eb6a19b402e88",
+  "citation-key": "cua_ba263493b78b0263c7933138",
+  "type": "paper-conference",
+  "title": "World of Bits: An Open-Domain Platform for Web-Based Agents",
+  "URL": "https://proceedings.mlr.press/v70/shi17a.html",
+  "custom": {
+    "catalog_id": "url:52a3261eb6a19b402e88",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://proceedings.mlr.press/v70/shi17a.html",
+    "identifiers": {},
+    "first_published_at": "2017-07-17",
+    "record_updated_at": null,
+    "catalog_scope": "core",
+    "publication": {
+      "authors": [
+        "Tianlin Shi",
+        "Andrej Karpathy",
+        "Linxi Fan",
+        "Jonathan Hernandez",
+        "Percy Liang"
+      ],
+      "date_basis": "Publisher citation_publication_date metadata explicitly states 2017/07/17; this is separate from the conference interval.",
+      "date_parts": [
+        2017,
+        7,
+        17
+      ],
+      "doi": null,
+      "event_dates": "06--11 Aug (conference interval reported in the publisher BibTeX month field)",
+      "evidence_urls": [
+        "https://proceedings.mlr.press/v70/shi17a.html",
+        "https://proceedings.mlr.press/v70/shi17a/shi17a.pdf"
+      ],
+      "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+      "issue": null,
+      "notes": "Publisher citation uses Tianlin Shi and Linxi Fan; the PDF also prints the nicknames Tim and Jim. The ordered publisher author names are retained. DOI not supplied in the retained publisher citation. Publisher metadata supplies the publication date separately from the conference interval.",
+      "pages": "3135-3144",
+      "pdf_url": "https://proceedings.mlr.press/v70/shi17a/shi17a.pdf",
+      "publisher": "PMLR",
+      "series": "Proceedings of Machine Learning Research",
+      "title": "World of Bits: An Open-Domain Platform for Web-Based Agents",
+      "type": "conference-paper",
+      "url": "https://proceedings.mlr.press/v70/shi17a.html",
+      "venue": "Proceedings of the 34th International Conference on Machine Learning",
+      "volume": "70"
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2017-07-17.",
+  "author": [
+    {
+      "literal": "Tianlin Shi"
+    },
+    {
+      "literal": "Andrej Karpathy"
+    },
+    {
+      "literal": "Linxi Fan"
+    },
+    {
+      "literal": "Jonathan Hernandez"
+    },
+    {
+      "literal": "Percy Liang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2017,
+        7,
+        17
+      ]
+    ]
+  },
+  "container-title": "Proceedings of the 34th International Conference on Machine Learning",
+  "publisher": "PMLR",
+  "collection-title": "Proceedings of Machine Learning Research",
+  "volume": "70",
+  "page": "3135-3144"
+}

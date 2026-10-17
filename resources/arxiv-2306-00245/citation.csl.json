@@ -22,7 +22,45 @@
       "updated_at": "2023-12-06T23:46:36Z",
       "version": 2,
       "versioned_url": "https://arxiv.org/abs/2306.00245v2"
-    }
+    },
+    "publication": {
+      "authors": [
+        "Peter Shaw",
+        "Mandar Joshi",
+        "James Cohan",
+        "Jonathan Berant",
+        "Panupong Pasupat",
+        "Hexiang Hu",
+        "Urvashi Khandelwal",
+        "Kenton Lee",
+        "Kristina Toutanova"
+      ],
+      "date_basis": "Explicit publisher metadata: 2023-12-15; precision=day.",
+      "date_parts": [
+        2023,
+        12,
+        15
+      ],
+      "doi": "10.52202/075280-1490",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://papers.nips.cc/paper_files/paper/2023/hash/6c52a8a4fadc9129c6e1d1745f2dfd0f-Abstract-Conference.html",
+        "https://proceedings.neurips.cc/paper_files/paper/2023/file/6c52a8a4fadc9129c6e1d1745f2dfd0f-Paper-Conference.pdf"
+      ],
+      "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+      "issue": null,
+      "notes": "The NeurIPS landing metadata adds the initial N to Kristina Toutanova; the formal paper title page does not. Publication authors use the PDF. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+      "pages": "34354-34370",
+      "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2023/file/6c52a8a4fadc9129c6e1d1745f2dfd0f-Paper-Conference.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces",
+      "type": "conference-paper",
+      "url": "https://papers.nips.cc/paper_files/paper/2023/hash/6c52a8a4fadc9129c6e1d1745f2dfd0f-Abstract-Conference.html",
+      "venue": "Advances in Neural Information Processing Systems",
+      "volume": "36"
+    },
+    "citation_edition": "record"
   },
   "note": "First published: 2023-05-31; Recorded arXiv version: v2; Recorded version updated: 2023-12-06T23:46:36Z.",
   "author": [

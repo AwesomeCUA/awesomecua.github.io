@@ -1030,7 +1030,9 @@
           "role": "primary",
           "sha256": "90499776fa1b23e08ac85190ad3be709caa9172ff4f2a0a106b0fa350568e86f",
           "supports": [
-            "details.benchmark_protocol"
+            "details.benchmark_protocol",
+            "relations",
+            "notes"
           ],
           "url": "https://raw.githubusercontent.com/Farama-Foundation/miniwob-plusplus/HEAD/README.md"
         },

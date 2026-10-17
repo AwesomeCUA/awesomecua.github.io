@@ -1,0 +1,170 @@
+{
+  "aliases": [],
+  "authors": [
+    "Fei Tang",
+    "Zhangxuan Gu",
+    "Zhengxi Lu",
+    "Shangzhan Zhang",
+    "Zhengwen Zeng",
+    "Shuheng Shen",
+    "Changhua Meng",
+    "Yuchen Yan",
+    "Wenqi Zhang",
+    "Yongliang Shen",
+    "Weiming Lu",
+    "Yueting Zhuang"
+  ],
+  "details": {
+    "publication": {
+      "authors": [
+        "Fei Tang",
+        "Zhangxuan Gu",
+        "Zhengxi Lu",
+        "Shangzhan Zhang",
+        "Zhengwen Zeng",
+        "Shuheng Shen",
+        "Changhua Meng",
+        "Yuchen Yan",
+        "Wenqi Zhang",
+        "Yongliang Shen",
+        "Weiming Lu",
+        "Yueting Zhuang"
+      ],
+      "date_basis": "Explicit publisher metadata: month = {June}, year = {2026}; precision=month.",
+      "date_parts": [
+        2026,
+        6
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html",
+        "https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.pdf"
+      ],
+      "identity_basis": "No title/DOI/canonical URL match in the current paper catalog or raw archive; closest substantive same-team works were reread and have different contributions.",
+      "issue": null,
+      "notes": "CVF open-access accepted version; PDF states that the final proceedings version is on IEEE Xplore.",
+      "pages": "13007-13016",
+      "pdf_url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning",
+      "type": "conference-paper",
+      "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html",
+      "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "volume": null
+    }
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:48+00:00",
+      "role": "primary",
+      "sha256": "1d5ed4e24cf9763cc43f0a8ce14f0e98c01504c73578e5632cea573dfb7da647",
+      "supports": [
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.pdf_url",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue"
+      ],
+      "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:56:04+00:00",
+      "role": "primary",
+      "sha256": "244f40d77a40dfd184e78cf8e1e2dd9e469d3e594a8ce214279c2ce17b8f1012",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.title"
+      ],
+      "url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.pdf"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:48+00:00",
+      "role": "primary",
+      "sha256": "1d5ed4e24cf9763cc43f0a8ce14f0e98c01504c73578e5632cea573dfb7da647",
+      "supports": [
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.pdf_url",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue",
+        "environments",
+        "kind",
+        "scope",
+        "summary",
+        "topics"
+      ],
+      "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:56:04+00:00",
+      "role": "primary",
+      "sha256": "244f40d77a40dfd184e78cf8e1e2dd9e469d3e594a8ce214279c2ce17b8f1012",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.title",
+        "environments",
+        "name",
+        "scope",
+        "summary",
+        "topics"
+      ],
+      "url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.pdf"
+    }
+  ],
+  "id": "url:beb8f1fd6b945ffc9d93",
+  "identifiers": {},
+  "kind": "paper",
+  "last_verified_at": "2026-10-17T09:53:48+00:00",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html"
+    },
+    {
+      "rel": "publication_pdf",
+      "url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.pdf"
+    }
+  ],
+  "name": "GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning",
+  "notes": "The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. New work proposal from the official CVF accepted open-access version. No invented day, DOI, or arXiv identifier; original annotations describe the reviewed sources and not independent reproduction.",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "GUI-SAGE generates reasoning conditioned on known actions and weights policy updates using confidence and reward signals. Its experiments use AndroidControl and GUIOdyssey data and separately evaluate interactive AndroidWorld tasks.",
+  "topics": [
+    "reinforcement-learning",
+    "data-generation",
+    "evaluation",
+    "robustness"
+  ],
+  "updated_at": null,
+  "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html"
+}

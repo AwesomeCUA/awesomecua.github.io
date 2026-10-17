@@ -17,6 +17,40 @@
       "updated_at": "2024-02-23T04:36:51Z",
       "version": 2,
       "versioned_url": "https://arxiv.org/abs/2401.10935v2"
+    },
+    "publication": {
+      "authors": [
+        "Kanzhi Cheng",
+        "Qiushi Sun",
+        "Yougang Chu",
+        "Fangzhi Xu",
+        "Yantao Li",
+        "Jianbing Zhang",
+        "Zhiyong Wu"
+      ],
+      "date_basis": "Explicit publisher metadata: 2024/8; precision=month.",
+      "date_parts": [
+        2024,
+        8
+      ],
+      "doi": "10.18653/v1/2024.acl-long.505",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2024.acl-long.505/",
+        "https://aclanthology.org/2024.acl-long.505.pdf"
+      ],
+      "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+      "issue": null,
+      "notes": "The ACL landing metadata spells the fifth author Li YanTao. The formal PDF title page spells Yantao Li; the publication author field uses the PDF. The retained arXiv author list is untouched. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+      "pages": "9313-9332",
+      "pdf_url": "https://aclanthology.org/2024.acl-long.505.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2024.acl-long.505/",
+      "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "volume": null
     }
   },
   "environments": [
@@ -37,6 +71,39 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:48+00:00",
+      "role": "primary",
+      "sha256": "62d56e417487461c8b34da15167eafd5f14f58092e4269222dc5c1c9048731a9",
+      "supports": [
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.doi",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.pdf_url",
+        "details.publication.publisher",
+        "details.publication.title",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue"
+      ],
+      "url": "https://aclanthology.org/2024.acl-long.505/"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:56:04+00:00",
+      "role": "primary",
+      "sha256": "8e1f6809e35751d762714286c55e79e81bae071608f90ef561d804aa59d7e406",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.identity_basis",
+        "details.publication.notes"
+      ],
+      "url": "https://aclanthology.org/2024.acl-long.505.pdf"
     },
     {
       "method": "editorial_primary_review",
@@ -71,6 +138,14 @@
     {
       "rel": "primary",
       "url": "https://arxiv.org/abs/2401.10935"
+    },
+    {
+      "rel": "publication",
+      "url": "https://aclanthology.org/2024.acl-long.505/"
+    },
+    {
+      "rel": "publication_pdf",
+      "url": "https://aclanthology.org/2024.acl-long.505.pdf"
     }
   ],
   "name": "SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents",

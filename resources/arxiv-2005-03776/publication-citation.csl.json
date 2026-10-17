@@ -1,0 +1,89 @@
+{
+  "id": "arxiv:2005.03776:publication",
+  "citation-key": "arxiv_2005_03776_publication",
+  "type": "paper-conference",
+  "title": "Mapping Natural Language Instructions to Mobile UI Action Sequences",
+  "URL": "https://aclanthology.org/2020.acl-main.729/",
+  "custom": {
+    "catalog_id": "arxiv:2005.03776",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2005.03776",
+    "identifiers": {
+      "arxiv": "2005.03776"
+    },
+    "first_published_at": "2020-05-07",
+    "record_updated_at": "2020-06-05",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3af7b45455ffbd616e8cdf5612b19275ecb7bf07b1065af9f5b724ae19e96fb4",
+      "submitted_at": "2020-05-07T21:41:40Z",
+      "updated_at": "2020-06-05T02:11:56Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2005.03776v2"
+    },
+    "publication": {
+      "authors": [
+        "Yang Li",
+        "Jiacong He",
+        "Xin Zhou",
+        "Yuan Zhang",
+        "Jason Baldridge"
+      ],
+      "date_basis": "Explicit publisher metadata: 2020/7; precision=month.",
+      "date_parts": [
+        2020,
+        7
+      ],
+      "doi": "10.18653/v1/2020.acl-main.729",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2020.acl-main.729/"
+      ],
+      "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+      "issue": null,
+      "notes": "Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+      "pages": "8198-8210",
+      "pdf_url": "https://aclanthology.org/2020.acl-main.729.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "Mapping Natural Language Instructions to Mobile UI Action Sequences",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2020.acl-main.729/",
+      "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2020-07.",
+  "author": [
+    {
+      "literal": "Yang Li"
+    },
+    {
+      "literal": "Jiacong He"
+    },
+    {
+      "literal": "Xin Zhou"
+    },
+    {
+      "literal": "Yuan Zhang"
+    },
+    {
+      "literal": "Jason Baldridge"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.18653/v1/2020.acl-main.729",
+  "container-title": "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+  "publisher": "Association for Computational Linguistics",
+  "page": "8198-8210"
+}

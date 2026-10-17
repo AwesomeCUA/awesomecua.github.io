@@ -1,0 +1,83 @@
+{
+  "id": "url:cccd967aa993404d74d0",
+  "citation-key": "cua_1b4a3a269ca9f1884a566476",
+  "type": "paper-conference",
+  "title": "Koala: Capture, Share, Automate, Personalize Business Processes on the Web",
+  "URL": "https://doi.org/10.1145/1240624.1240767",
+  "custom": {
+    "catalog_id": "url:cccd967aa993404d74d0",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://doi.org/10.1145/1240624.1240767",
+    "identifiers": {
+      "doi": "10.1145/1240624.1240767"
+    },
+    "first_published_at": null,
+    "record_updated_at": null,
+    "catalog_scope": "core",
+    "publication": {
+      "authors": [
+        "Greg Little",
+        "Tessa A. Lau",
+        "Allen Cypher",
+        "James Lin",
+        "Eben M. Haber",
+        "Eser Kandogan"
+      ],
+      "date_basis": "Supplied year precision: 2007. CHI 2007 proceedings heading and copyright year The IBM page has an unlabeled Date of 22 Oct 2007, while the paper gives April/May event dates. Their roles do not establish a reliable day-level publication date.",
+      "date_parts": [
+        2007
+      ],
+      "doi": "10.1145/1240624.1240767",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://research.ibm.com/publications/koala-capture-share-automate-personalize-business-processes-on-the-web",
+        "https://plunk.org/eben/PublishedPapers/KoalaCHI.pdf"
+      ],
+      "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+      "issue": null,
+      "notes": "This proposal is the specific Koala paper. It does not automatically merge every later CoScripter publication or project record. Exact publication date is unresolved; only the clearly established year is proposed.",
+      "pages": "943-946",
+      "pdf_url": "https://plunk.org/eben/PublishedPapers/KoalaCHI.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "Koala: Capture, Share, Automate, Personalize Business Processes on the Web",
+      "type": "conference-paper",
+      "url": "https://doi.org/10.1145/1240624.1240767",
+      "venue": "CHI 2007 Proceedings",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2007.",
+  "author": [
+    {
+      "literal": "Greg Little"
+    },
+    {
+      "literal": "Tessa A. Lau"
+    },
+    {
+      "literal": "Allen Cypher"
+    },
+    {
+      "literal": "James Lin"
+    },
+    {
+      "literal": "Eben M. Haber"
+    },
+    {
+      "literal": "Eser Kandogan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2007
+      ]
+    ]
+  },
+  "DOI": "10.1145/1240624.1240767",
+  "container-title": "CHI 2007 Proceedings",
+  "page": "943-946"
+}

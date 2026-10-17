@@ -1,0 +1,2103 @@
+[
+  {
+    "DOI": "10.18653/v1/2020.acl-main.729",
+    "URL": "https://aclanthology.org/2020.acl-main.729/",
+    "author": [
+      {
+        "literal": "Yang Li"
+      },
+      {
+        "literal": "Jiacong He"
+      },
+      {
+        "literal": "Xin Zhou"
+      },
+      {
+        "literal": "Yuan Zhang"
+      },
+      {
+        "literal": "Jason Baldridge"
+      }
+    ],
+    "citation-key": "arxiv_2005_03776_publication",
+    "container-title": "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3af7b45455ffbd616e8cdf5612b19275ecb7bf07b1065af9f5b724ae19e96fb4",
+        "submitted_at": "2020-05-07T21:41:40Z",
+        "updated_at": "2020-06-05T02:11:56Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2005.03776v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2005.03776",
+      "catalog_id": "arxiv:2005.03776",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2020-05-07",
+      "identifiers": {
+        "arxiv": "2005.03776"
+      },
+      "publication": {
+        "authors": [
+          "Yang Li",
+          "Jiacong He",
+          "Xin Zhou",
+          "Yuan Zhang",
+          "Jason Baldridge"
+        ],
+        "date_basis": "Explicit publisher metadata: 2020/7; precision=month.",
+        "date_parts": [
+          2020,
+          7
+        ],
+        "doi": "10.18653/v1/2020.acl-main.729",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2020.acl-main.729/"
+        ],
+        "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+        "issue": null,
+        "notes": "Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+        "pages": "8198-8210",
+        "pdf_url": "https://aclanthology.org/2020.acl-main.729.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "Mapping Natural Language Instructions to Mobile UI Action Sequences",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2020.acl-main.729/",
+        "venue": "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+        "volume": null
+      },
+      "record_updated_at": "2020-06-05"
+    },
+    "id": "arxiv:2005.03776:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          7
+        ]
+      ]
+    },
+    "note": "Publication date: 2020-07.",
+    "page": "8198-8210",
+    "publisher": "Association for Computational Linguistics",
+    "title": "Mapping Natural Language Instructions to Mobile UI Action Sequences",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2020.emnlp-main.443",
+    "URL": "https://aclanthology.org/2020.emnlp-main.443/",
+    "author": [
+      {
+        "literal": "Yang Li"
+      },
+      {
+        "literal": "Gang Li"
+      },
+      {
+        "literal": "Luheng He"
+      },
+      {
+        "literal": "Jingjie Zheng"
+      },
+      {
+        "literal": "Hong Li"
+      },
+      {
+        "literal": "Zhiwei Guan"
+      }
+    ],
+    "citation-key": "arxiv_2010_04295_publication",
+    "container-title": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "68af0a0a4b605d0c968e8913232fde16e3eadf6361099e8fc3d015dcdb26302b",
+        "submitted_at": "2020-10-08T22:56:03Z",
+        "updated_at": "2020-10-08T22:56:03Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2010.04295v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2010.04295",
+      "catalog_id": "arxiv:2010.04295",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2020-10-08",
+      "identifiers": {
+        "arxiv": "2010.04295"
+      },
+      "publication": {
+        "authors": [
+          "Yang Li",
+          "Gang Li",
+          "Luheng He",
+          "Jingjie Zheng",
+          "Hong Li",
+          "Zhiwei Guan"
+        ],
+        "date_basis": "Explicit publisher metadata: 2020/11; precision=month.",
+        "date_parts": [
+          2020,
+          11
+        ],
+        "doi": "10.18653/v1/2020.emnlp-main.443",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2020.emnlp-main.443/"
+        ],
+        "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+        "issue": null,
+        "notes": "The retained arXiv abstract reports 162,859 phrases; the ACL abstract reports 162,860. This publication proposal does not overwrite the arXiv annotation or assert a unified dataset count. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+        "pages": "5495-5510",
+        "pdf_url": "https://aclanthology.org/2020.emnlp-main.443.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2020.emnlp-main.443/",
+        "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+        "volume": null
+      },
+      "record_updated_at": "2020-10-08"
+    },
+    "id": "arxiv:2010.04295:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          11
+        ]
+      ]
+    },
+    "note": "Publication date: 2020-11.",
+    "page": "5495-5510",
+    "publisher": "Association for Computational Linguistics",
+    "title": "Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://proceedings.mlr.press/v162/humphreys22a.html",
+    "author": [
+      {
+        "literal": "Peter Humphreys"
+      },
+      {
+        "literal": "David Raposo"
+      },
+      {
+        "literal": "Toby Pohlen"
+      },
+      {
+        "literal": "Gregory Thornton"
+      },
+      {
+        "literal": "Rachita Chhaparia"
+      },
+      {
+        "literal": "Alistair Muldal"
+      },
+      {
+        "literal": "Josh Abramson"
+      },
+      {
+        "literal": "Petko Georgiev"
+      },
+      {
+        "literal": "Adam Santoro"
+      },
+      {
+        "literal": "Timothy Lillicrap"
+      }
+    ],
+    "citation-key": "arxiv_2202_08137_publication",
+    "collection-title": "Proceedings of Machine Learning Research",
+    "container-title": "Proceedings of the 39th International Conference on Machine Learning",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "94129847ac85f4a8aeab74907cc68a31c435b078ab950695d9328b6c3896b46d",
+        "submitted_at": "2022-02-16T15:23:46Z",
+        "updated_at": "2022-11-11T13:45:44Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2202.08137v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2202.08137",
+      "catalog_id": "arxiv:2202.08137",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2022-02-16",
+      "identifiers": {
+        "arxiv": "2202.08137"
+      },
+      "publication": {
+        "authors": [
+          "Peter Humphreys",
+          "David Raposo",
+          "Toby Pohlen",
+          "Gregory Thornton",
+          "Rachita Chhaparia",
+          "Alistair Muldal",
+          "Josh Abramson",
+          "Petko Georgiev",
+          "Adam Santoro",
+          "Timothy Lillicrap"
+        ],
+        "date_basis": "Explicit publisher metadata: 2022/06/28; precision=day.",
+        "date_parts": [
+          2022,
+          6,
+          28
+        ],
+        "doi": null,
+        "event_dates": "17--23 Jul 2022",
+        "evidence_urls": [
+          "https://proceedings.mlr.press/v162/humphreys22a.html",
+          "https://proceedings.mlr.press/v162/humphreys22a/humphreys22a.pdf"
+        ],
+        "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+        "issue": null,
+        "notes": "The formal ICML PDF lists 10 authors beginning Peter Humphreys and uses Toby Pohlen. The landing lists Peter C Humphreys and Tobias Pohlen. The retained arXiv snapshot lists 11 authors, including Alex Goldin. These are preserved as distinct version-specific author lists; the publication field uses only the formal PDF list. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher issue date is 2022-06-28; the July 17–23 conference range is an event date, not a substitute publication day. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+        "pages": "9466-9482",
+        "pdf_url": "https://proceedings.mlr.press/v162/humphreys22a/humphreys22a.pdf",
+        "publisher": "PMLR",
+        "series": "Proceedings of Machine Learning Research",
+        "title": "A Data-Driven Approach for Learning to Control Computers",
+        "type": "conference-paper",
+        "url": "https://proceedings.mlr.press/v162/humphreys22a.html",
+        "venue": "Proceedings of the 39th International Conference on Machine Learning",
+        "volume": "162"
+      },
+      "record_updated_at": "2022-11-11"
+    },
+    "id": "arxiv:2202.08137:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          6,
+          28
+        ]
+      ]
+    },
+    "note": "Publication date: 2022-06-28.",
+    "page": "9466-9482",
+    "publisher": "PMLR",
+    "title": "A Data-Driven Approach for Learning to Control Computers",
+    "type": "paper-conference",
+    "volume": "162"
+  },
+  {
+    "URL": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/7ef7d8359036afd8c2378d82c21058a4-Abstract-Conference.html",
+    "author": [
+      {
+        "literal": "Hiroki Furuta"
+      },
+      {
+        "literal": "Kuang-Huei Lee"
+      },
+      {
+        "literal": "Ofir Nachum"
+      },
+      {
+        "literal": "Yutaka Matsuo"
+      },
+      {
+        "literal": "Aleksandra Faust"
+      },
+      {
+        "literal": "Shixiang Shane Gu"
+      },
+      {
+        "literal": "Izzeddin Gur"
+      }
+    ],
+    "citation-key": "arxiv_2305_11854_publication",
+    "container-title": "International Conference on Learning Representations",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ac0ea5a462890317ea29ade32c879d016181afbe5962e2d28cc175e251df41e6",
+        "submitted_at": "2023-05-19T17:44:34Z",
+        "updated_at": "2024-02-25T16:21:00Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2305.11854v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2305.11854",
+      "catalog_id": "arxiv:2305.11854",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2023-05-19",
+      "identifiers": {
+        "arxiv": "2305.11854"
+      },
+      "publication": {
+        "authors": [
+          "Hiroki Furuta",
+          "Kuang-Huei Lee",
+          "Ofir Nachum",
+          "Yutaka Matsuo",
+          "Aleksandra Faust",
+          "Shixiang Shane Gu",
+          "Izzeddin Gur"
+        ],
+        "date_basis": "Explicit publisher metadata: 2024-05-31; precision=day.",
+        "date_parts": [
+          2024,
+          5,
+          31
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.iclr.cc/paper_files/paper/2024/hash/7ef7d8359036afd8c2378d82c21058a4-Abstract-Conference.html",
+          "https://proceedings.iclr.cc/paper_files/paper/2024/file/7ef7d8359036afd8c2378d82c21058a4-Paper-Conference.pdf"
+        ],
+        "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+        "issue": null,
+        "notes": "The ICLR landing shortens Shixiang Shane Gu to Shixiang Gu. Publication authors use the full PDF title-page form. Volume 2024 and pages 29528–29558 are explicit publisher citation metadata, not values inferred from the event year or PDF page count. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+        "pages": "29528-29558",
+        "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2024/file/7ef7d8359036afd8c2378d82c21058a4-Paper-Conference.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "Multimodal Web Navigation with Instruction-Finetuned Foundation Models",
+        "type": "conference-paper",
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/7ef7d8359036afd8c2378d82c21058a4-Abstract-Conference.html",
+        "venue": "International Conference on Learning Representations",
+        "volume": "2024"
+      },
+      "record_updated_at": "2024-02-25"
+    },
+    "id": "arxiv:2305.11854:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          31
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-05-31.",
+    "page": "29528-29558",
+    "title": "Multimodal Web Navigation with Instruction-Finetuned Foundation Models",
+    "type": "paper-conference",
+    "volume": "2024"
+  },
+  {
+    "DOI": "10.52202/075280-1490",
+    "URL": "https://papers.nips.cc/paper_files/paper/2023/hash/6c52a8a4fadc9129c6e1d1745f2dfd0f-Abstract-Conference.html",
+    "author": [
+      {
+        "literal": "Peter Shaw"
+      },
+      {
+        "literal": "Mandar Joshi"
+      },
+      {
+        "literal": "James Cohan"
+      },
+      {
+        "literal": "Jonathan Berant"
+      },
+      {
+        "literal": "Panupong Pasupat"
+      },
+      {
+        "literal": "Hexiang Hu"
+      },
+      {
+        "literal": "Urvashi Khandelwal"
+      },
+      {
+        "literal": "Kenton Lee"
+      },
+      {
+        "literal": "Kristina Toutanova"
+      }
+    ],
+    "citation-key": "arxiv_2306_00245_publication",
+    "container-title": "Advances in Neural Information Processing Systems",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d06f7480695f45546b62b5b8c3d8c174ca52936e158d46e626689d0918711417",
+        "submitted_at": "2023-05-31T23:39:18Z",
+        "updated_at": "2023-12-06T23:46:36Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2306.00245v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2306.00245",
+      "catalog_id": "arxiv:2306.00245",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2023-05-31",
+      "identifiers": {
+        "arxiv": "2306.00245"
+      },
+      "publication": {
+        "authors": [
+          "Peter Shaw",
+          "Mandar Joshi",
+          "James Cohan",
+          "Jonathan Berant",
+          "Panupong Pasupat",
+          "Hexiang Hu",
+          "Urvashi Khandelwal",
+          "Kenton Lee",
+          "Kristina Toutanova"
+        ],
+        "date_basis": "Explicit publisher metadata: 2023-12-15; precision=day.",
+        "date_parts": [
+          2023,
+          12,
+          15
+        ],
+        "doi": "10.52202/075280-1490",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://papers.nips.cc/paper_files/paper/2023/hash/6c52a8a4fadc9129c6e1d1745f2dfd0f-Abstract-Conference.html",
+          "https://proceedings.neurips.cc/paper_files/paper/2023/file/6c52a8a4fadc9129c6e1d1745f2dfd0f-Paper-Conference.pdf"
+        ],
+        "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+        "issue": null,
+        "notes": "The NeurIPS landing metadata adds the initial N to Kristina Toutanova; the formal paper title page does not. Publication authors use the PDF. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+        "pages": "34354-34370",
+        "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2023/file/6c52a8a4fadc9129c6e1d1745f2dfd0f-Paper-Conference.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces",
+        "type": "conference-paper",
+        "url": "https://papers.nips.cc/paper_files/paper/2023/hash/6c52a8a4fadc9129c6e1d1745f2dfd0f-Abstract-Conference.html",
+        "venue": "Advances in Neural Information Processing Systems",
+        "volume": "36"
+      },
+      "record_updated_at": "2023-12-06"
+    },
+    "id": "arxiv:2306.00245:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          15
+        ]
+      ]
+    },
+    "note": "Publication date: 2023-12-15.",
+    "page": "34354-34370",
+    "title": "From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces",
+    "type": "paper-conference",
+    "volume": "36"
+  },
+  {
+    "URL": "https://proceedings.mlr.press/v235/zheng24e.html",
+    "author": [
+      {
+        "literal": "Boyuan Zheng"
+      },
+      {
+        "literal": "Boyu Gou"
+      },
+      {
+        "literal": "Jihyung Kil"
+      },
+      {
+        "literal": "Huan Sun"
+      },
+      {
+        "literal": "Yu Su"
+      }
+    ],
+    "citation-key": "arxiv_2401_01614_publication",
+    "collection-title": "Proceedings of Machine Learning Research",
+    "container-title": "Proceedings of the 41st International Conference on Machine Learning",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a005fb14b21cf17521f4ea966e555d9963092b709bd9280c6e72a9bf0f5fa93a",
+        "submitted_at": "2024-01-03T08:33:09Z",
+        "updated_at": "2024-03-12T23:14:33Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2401.01614v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2401.01614",
+      "catalog_id": "arxiv:2401.01614",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-01-03",
+      "identifiers": {
+        "arxiv": "2401.01614"
+      },
+      "publication": {
+        "authors": [
+          "Boyuan Zheng",
+          "Boyu Gou",
+          "Jihyung Kil",
+          "Huan Sun",
+          "Yu Su"
+        ],
+        "date_basis": "Explicit publisher metadata: 2024/07/08; precision=day.",
+        "date_parts": [
+          2024,
+          7,
+          8
+        ],
+        "doi": null,
+        "event_dates": "21--27 Jul 2024",
+        "evidence_urls": [
+          "https://proceedings.mlr.press/v235/zheng24e.html"
+        ],
+        "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+        "issue": null,
+        "notes": "The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+        "pages": "61349-61385",
+        "pdf_url": "https://raw.githubusercontent.com/mlresearch/v235/main/assets/zheng24e/zheng24e.pdf",
+        "publisher": "PMLR",
+        "series": "Proceedings of Machine Learning Research",
+        "title": "GPT-4V(ision) is a Generalist Web Agent, if Grounded",
+        "type": "conference-paper",
+        "url": "https://proceedings.mlr.press/v235/zheng24e.html",
+        "venue": "Proceedings of the 41st International Conference on Machine Learning",
+        "volume": "235"
+      },
+      "record_updated_at": "2024-03-12"
+    },
+    "id": "arxiv:2401.01614:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          8
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-07-08.",
+    "page": "61349-61385",
+    "publisher": "PMLR",
+    "title": "GPT-4V(ision) is a Generalist Web Agent, if Grounded",
+    "type": "paper-conference",
+    "volume": "235"
+  },
+  {
+    "DOI": "10.18653/v1/2024.acl-long.505",
+    "URL": "https://aclanthology.org/2024.acl-long.505/",
+    "author": [
+      {
+        "literal": "Kanzhi Cheng"
+      },
+      {
+        "literal": "Qiushi Sun"
+      },
+      {
+        "literal": "Yougang Chu"
+      },
+      {
+        "literal": "Fangzhi Xu"
+      },
+      {
+        "literal": "Yantao Li"
+      },
+      {
+        "literal": "Jianbing Zhang"
+      },
+      {
+        "literal": "Zhiyong Wu"
+      }
+    ],
+    "citation-key": "arxiv_2401_10935_publication",
+    "container-title": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c92ec9323eec9362aa07984f9fb1cbfbe98ecae426a9f8adc9d436328a87aed3",
+        "submitted_at": "2024-01-17T08:10:35Z",
+        "updated_at": "2024-02-23T04:36:51Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2401.10935v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2401.10935",
+      "catalog_id": "arxiv:2401.10935",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-01-17",
+      "identifiers": {
+        "arxiv": "2401.10935"
+      },
+      "publication": {
+        "authors": [
+          "Kanzhi Cheng",
+          "Qiushi Sun",
+          "Yougang Chu",
+          "Fangzhi Xu",
+          "Yantao Li",
+          "Jianbing Zhang",
+          "Zhiyong Wu"
+        ],
+        "date_basis": "Explicit publisher metadata: 2024/8; precision=month.",
+        "date_parts": [
+          2024,
+          8
+        ],
+        "doi": "10.18653/v1/2024.acl-long.505",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2024.acl-long.505/",
+          "https://aclanthology.org/2024.acl-long.505.pdf"
+        ],
+        "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+        "issue": null,
+        "notes": "The ACL landing metadata spells the fifth author Li YanTao. The formal PDF title page spells Yantao Li; the publication author field uses the PDF. The retained arXiv author list is untouched. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+        "pages": "9313-9332",
+        "pdf_url": "https://aclanthology.org/2024.acl-long.505.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2024.acl-long.505/",
+        "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "volume": null
+      },
+      "record_updated_at": "2024-02-23"
+    },
+    "id": "arxiv:2401.10935:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          8
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-08.",
+    "page": "9313-9332",
+    "publisher": "Association for Computational Linguistics",
+    "title": "SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2024.acl-long.50",
+    "URL": "https://aclanthology.org/2024.acl-long.50/",
+    "author": [
+      {
+        "literal": "Jing Yu Koh"
+      },
+      {
+        "literal": "Robert Lo"
+      },
+      {
+        "literal": "Lawrence Jang"
+      },
+      {
+        "literal": "Vikram Duvvur"
+      },
+      {
+        "literal": "Ming Chong Lim"
+      },
+      {
+        "literal": "Po-Yu Huang"
+      },
+      {
+        "literal": "Graham Neubig"
+      },
+      {
+        "literal": "Shuyan Zhou"
+      },
+      {
+        "literal": "Ruslan Salakhutdinov"
+      },
+      {
+        "literal": "Daniel Fried"
+      }
+    ],
+    "citation-key": "arxiv_2401_13649_publication",
+    "container-title": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3a705b87b43464120ebb01b28b0f6a9e31fad68f3d463c88354f2005dab940c3",
+        "submitted_at": "2024-01-24T18:35:21Z",
+        "updated_at": "2024-06-06T02:01:09Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2401.13649v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2401.13649",
+      "catalog_id": "arxiv:2401.13649",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-01-24",
+      "identifiers": {
+        "arxiv": "2401.13649"
+      },
+      "publication": {
+        "authors": [
+          "Jing Yu Koh",
+          "Robert Lo",
+          "Lawrence Jang",
+          "Vikram Duvvur",
+          "Ming Chong Lim",
+          "Po-Yu Huang",
+          "Graham Neubig",
+          "Shuyan Zhou",
+          "Ruslan Salakhutdinov",
+          "Daniel Fried"
+        ],
+        "date_basis": "Explicit publisher metadata: 2024/8; precision=month.",
+        "date_parts": [
+          2024,
+          8
+        ],
+        "doi": "10.18653/v1/2024.acl-long.50",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2024.acl-long.50/",
+          "https://aclanthology.org/2024.acl-long.50.pdf"
+        ],
+        "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+        "issue": null,
+        "notes": "The formal PDF title adds Visually Grounded; the landing metadata uses Visual Web Tasks. PDF authors include Ming Chong Lim and Ruslan Salakhutdinov; the landing abbreviates them to Ming Lim and Russ Salakhutdinov. Publication title/authors use the PDF; the retained arXiv title remains unchanged. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+        "pages": "881-905",
+        "pdf_url": "https://aclanthology.org/2024.acl-long.50.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "VisualWebArena: Evaluating Multimodal Agents on Realistic Visually Grounded Web Tasks",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2024.acl-long.50/",
+        "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "volume": null
+      },
+      "record_updated_at": "2024-06-06"
+    },
+    "id": "arxiv:2401.13649:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          8
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-08.",
+    "page": "881-905",
+    "publisher": "Association for Computational Linguistics",
+    "title": "VisualWebArena: Evaluating Multimodal Agents on Realistic Visually Grounded Web Tasks",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://proceedings.mlr.press/v235/lu24e.html",
+    "author": [
+      {
+        "literal": "Xing Han Lù"
+      },
+      {
+        "literal": "Zdeněk Kasner"
+      },
+      {
+        "literal": "Siva Reddy"
+      }
+    ],
+    "citation-key": "arxiv_2402_05930_publication",
+    "collection-title": "Proceedings of Machine Learning Research",
+    "container-title": "Proceedings of the 41st International Conference on Machine Learning",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6a7c1a1f260f9287e8999525e1adc5534a70f7b96271d469973fceee1ac23609",
+        "submitted_at": "2024-02-08T18:58:02Z",
+        "updated_at": "2024-09-10T22:22:43Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2402.05930v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2402.05930",
+      "catalog_id": "arxiv:2402.05930",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-02-08",
+      "identifiers": {
+        "arxiv": "2402.05930"
+      },
+      "publication": {
+        "authors": [
+          "Xing Han Lù",
+          "Zdeněk Kasner",
+          "Siva Reddy"
+        ],
+        "date_basis": "Explicit publisher metadata: 2024/07/08; precision=day.",
+        "date_parts": [
+          2024,
+          7,
+          8
+        ],
+        "doi": null,
+        "event_dates": "21--27 Jul 2024",
+        "evidence_urls": [
+          "https://proceedings.mlr.press/v235/lu24e.html",
+          "https://raw.githubusercontent.com/mlresearch/v235/main/assets/lu24e/lu24e.pdf"
+        ],
+        "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+        "issue": null,
+        "notes": "The PMLR landing renders Xing Han Lu; the paper title page has Xing Han Lù. Publication authors use the PDF. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+        "pages": "33007-33056",
+        "pdf_url": "https://raw.githubusercontent.com/mlresearch/v235/main/assets/lu24e/lu24e.pdf",
+        "publisher": "PMLR",
+        "series": "Proceedings of Machine Learning Research",
+        "title": "WebLINX: Real-World Website Navigation with Multi-Turn Dialogue",
+        "type": "conference-paper",
+        "url": "https://proceedings.mlr.press/v235/lu24e.html",
+        "venue": "Proceedings of the 41st International Conference on Machine Learning",
+        "volume": "235"
+      },
+      "record_updated_at": "2024-09-10"
+    },
+    "id": "arxiv:2402.05930:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          8
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-07-08.",
+    "page": "33007-33056",
+    "publisher": "PMLR",
+    "title": "WebLINX: Real-World Website Navigation with Multi-Turn Dialogue",
+    "type": "paper-conference",
+    "volume": "235"
+  },
+  {
+    "URL": "https://proceedings.mlr.press/v267/tan25h.html",
+    "author": [
+      {
+        "literal": "Weihao Tan"
+      },
+      {
+        "literal": "Wentao Zhang"
+      },
+      {
+        "literal": "Xinrun Xu"
+      },
+      {
+        "literal": "Haochong Xia"
+      },
+      {
+        "literal": "Ziluo Ding"
+      },
+      {
+        "literal": "Boyu Li"
+      },
+      {
+        "literal": "Bohan Zhou"
+      },
+      {
+        "literal": "Junpeng Yue"
+      },
+      {
+        "literal": "Jiechuan Jiang"
+      },
+      {
+        "literal": "Yewen Li"
+      },
+      {
+        "literal": "Ruyi An"
+      },
+      {
+        "literal": "Molei Qin"
+      },
+      {
+        "literal": "Chuqiao Zong"
+      },
+      {
+        "literal": "Longtao Zheng"
+      },
+      {
+        "literal": "Yujie Wu"
+      },
+      {
+        "literal": "Xiaoqiang Chai"
+      },
+      {
+        "literal": "Yifei Bi"
+      },
+      {
+        "literal": "Tianbao Xie"
+      },
+      {
+        "literal": "Pengjie Gu"
+      },
+      {
+        "literal": "Xiyun Li"
+      },
+      {
+        "literal": "Ceyao Zhang"
+      },
+      {
+        "literal": "Long Tian"
+      },
+      {
+        "literal": "Chaojie Wang"
+      },
+      {
+        "literal": "Xinrun Wang"
+      },
+      {
+        "literal": "Börje F. Karlsson"
+      },
+      {
+        "literal": "Bo An"
+      },
+      {
+        "literal": "Shuicheng Yan"
+      },
+      {
+        "literal": "Zongqing Lu"
+      }
+    ],
+    "citation-key": "arxiv_2403_03186_publication",
+    "collection-title": "Proceedings of Machine Learning Research",
+    "container-title": "Proceedings of the 42nd International Conference on Machine Learning",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "63c68c596f1c81485e77f98beae696deca9785a5d8725ab4456ee35870e64a99",
+        "submitted_at": "2024-03-05T18:22:29Z",
+        "updated_at": "2024-07-02T17:23:13Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2403.03186v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2403.03186",
+      "catalog_id": "arxiv:2403.03186",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-03-05",
+      "identifiers": {
+        "arxiv": "2403.03186"
+      },
+      "publication": {
+        "authors": [
+          "Weihao Tan",
+          "Wentao Zhang",
+          "Xinrun Xu",
+          "Haochong Xia",
+          "Ziluo Ding",
+          "Boyu Li",
+          "Bohan Zhou",
+          "Junpeng Yue",
+          "Jiechuan Jiang",
+          "Yewen Li",
+          "Ruyi An",
+          "Molei Qin",
+          "Chuqiao Zong",
+          "Longtao Zheng",
+          "Yujie Wu",
+          "Xiaoqiang Chai",
+          "Yifei Bi",
+          "Tianbao Xie",
+          "Pengjie Gu",
+          "Xiyun Li",
+          "Ceyao Zhang",
+          "Long Tian",
+          "Chaojie Wang",
+          "Xinrun Wang",
+          "Börje F. Karlsson",
+          "Bo An",
+          "Shuicheng Yan",
+          "Zongqing Lu"
+        ],
+        "date_basis": "Explicit publisher metadata: 2025/10/06; precision=day.",
+        "date_parts": [
+          2025,
+          10,
+          6
+        ],
+        "doi": null,
+        "event_dates": "13--19 Jul 2025",
+        "evidence_urls": [
+          "https://proceedings.mlr.press/v267/tan25h.html"
+        ],
+        "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+        "issue": null,
+        "notes": "The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+        "pages": "58658-58725",
+        "pdf_url": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/tan25h/tan25h.pdf",
+        "publisher": "PMLR",
+        "series": "Proceedings of Machine Learning Research",
+        "title": "Cradle: Empowering Foundation Agents towards General Computer Control",
+        "type": "conference-paper",
+        "url": "https://proceedings.mlr.press/v267/tan25h.html",
+        "venue": "Proceedings of the 42nd International Conference on Machine Learning",
+        "volume": "267"
+      },
+      "record_updated_at": "2024-07-02"
+    },
+    "id": "arxiv:2403.03186:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          6
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-10-06.",
+    "page": "58658-58725",
+    "publisher": "PMLR",
+    "title": "Cradle: Empowering Foundation Agents towards General Computer Control",
+    "type": "paper-conference",
+    "volume": "267"
+  },
+  {
+    "DOI": "10.1145/2983990.2984020",
+    "URL": "https://doi.org/10.1145/2983990.2984020",
+    "author": [
+      {
+        "literal": "Shaon Barman"
+      },
+      {
+        "literal": "Sarah Chasins"
+      },
+      {
+        "literal": "Ras Bodik"
+      },
+      {
+        "literal": "Sumit Gulwani"
+      }
+    ],
+    "citation-key": "cua_07942b5af1a8c0ffa9c7322a",
+    "container-title": "OOPSLA 2016",
+    "custom": {
+      "canonical_source_url": "https://doi.org/10.1145/2983990.2984020",
+      "catalog_id": "url:347925d0f440d6396080",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.1145/2983990.2984020"
+      },
+      "publication": {
+        "authors": [
+          "Shaon Barman",
+          "Sarah Chasins",
+          "Ras Bodik",
+          "Sumit Gulwani"
+        ],
+        "date_basis": "Supplied month precision: 2016-11. year=2016, month=November",
+        "date_parts": [
+          2016,
+          11
+        ],
+        "doi": "10.1145/2983990.2984020",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://www.microsoft.com/en-us/research/publication/ringer-web-automation-demonstration/bibtex/",
+          "https://2016.splashcon.org/track/splash-2016-oopsla",
+          "https://www.microsoft.com/en-us/research/publication/ringer-web-automation-demonstration/",
+          "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/oopsla16-web.pdf"
+        ],
+        "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+        "issue": null,
+        "notes": "The original manuscript and MSR BibTeX print Sarah Chasins and Ras Bodik. The official conference profiles expand these to Sarah E. Chasins and Rastislav Bodík; the printed publication names are preserved. Page range, volume and exact publication day are not established by the retained citation sources.",
+        "pages": null,
+        "pdf_url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/oopsla16-web.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "Ringer: Web Automation by Demonstration",
+        "type": "conference-paper",
+        "url": "https://doi.org/10.1145/2983990.2984020",
+        "venue": "OOPSLA 2016",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:347925d0f440d6396080",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11
+        ]
+      ]
+    },
+    "note": "Publication date: 2016-11.",
+    "title": "Ringer: Web Automation by Demonstration",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1145/3025453.3025483",
+    "URL": "https://doi.org/10.1145/3025453.3025483",
+    "author": [
+      {
+        "literal": "Toby Jia-Jun Li"
+      },
+      {
+        "literal": "Amos Azaria"
+      },
+      {
+        "literal": "Brad A. Myers"
+      }
+    ],
+    "citation-key": "cua_6b7f9d608ed89d1625610eb1",
+    "container-title": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems",
+    "custom": {
+      "canonical_source_url": "https://doi.org/10.1145/3025453.3025483",
+      "catalog_id": "url:392a602c660ffa91be46",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.1145/3025453.3025483"
+      },
+      "publication": {
+        "authors": [
+          "Toby Jia-Jun Li",
+          "Amos Azaria",
+          "Brad A. Myers"
+        ],
+        "date_basis": "Supplied year precision: 2017. Publications: SUGILITE, CHI 2017 Only publication year is asserted; event dates are kept separate.",
+        "date_parts": [
+          2017
+        ],
+        "doi": "10.1145/3025453.3025483",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://www.cs.cmu.edu/~NatProg/sugilite.html",
+          "https://toby.li/files/TobyLi-CHI2017-Sugilite.pdf"
+        ],
+        "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+        "issue": null,
+        "notes": "Related to later APPINITE and PUMICE work but distinguished here by its 2017 three-author publication and base demonstration-automation contribution. Publication month/day are not independently identified by the retained sources.",
+        "pages": "6038-6049",
+        "pdf_url": "https://toby.li/files/TobyLi-CHI2017-Sugilite.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "SUGILITE: Creating Multimodal Smartphone Automation by Demonstration",
+        "type": "conference-paper",
+        "url": "https://doi.org/10.1145/3025453.3025483",
+        "venue": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:392a602c660ffa91be46",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "note": "Publication date: 2017.",
+    "page": "6038-6049",
+    "title": "SUGILITE: Creating Multimodal Smartphone Automation by Demonstration",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://proceedings.mlr.press/v70/shi17a.html",
+    "author": [
+      {
+        "literal": "Tianlin Shi"
+      },
+      {
+        "literal": "Andrej Karpathy"
+      },
+      {
+        "literal": "Linxi Fan"
+      },
+      {
+        "literal": "Jonathan Hernandez"
+      },
+      {
+        "literal": "Percy Liang"
+      }
+    ],
+    "citation-key": "cua_ba263493b78b0263c7933138",
+    "collection-title": "Proceedings of Machine Learning Research",
+    "container-title": "Proceedings of the 34th International Conference on Machine Learning",
+    "custom": {
+      "canonical_source_url": "https://proceedings.mlr.press/v70/shi17a.html",
+      "catalog_id": "url:52a3261eb6a19b402e88",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2017-07-17",
+      "identifiers": {},
+      "publication": {
+        "authors": [
+          "Tianlin Shi",
+          "Andrej Karpathy",
+          "Linxi Fan",
+          "Jonathan Hernandez",
+          "Percy Liang"
+        ],
+        "date_basis": "Publisher citation_publication_date metadata explicitly states 2017/07/17; this is separate from the conference interval.",
+        "date_parts": [
+          2017,
+          7,
+          17
+        ],
+        "doi": null,
+        "event_dates": "06--11 Aug (conference interval reported in the publisher BibTeX month field)",
+        "evidence_urls": [
+          "https://proceedings.mlr.press/v70/shi17a.html",
+          "https://proceedings.mlr.press/v70/shi17a/shi17a.pdf"
+        ],
+        "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+        "issue": null,
+        "notes": "Publisher citation uses Tianlin Shi and Linxi Fan; the PDF also prints the nicknames Tim and Jim. The ordered publisher author names are retained. DOI not supplied in the retained publisher citation. Publisher metadata supplies the publication date separately from the conference interval.",
+        "pages": "3135-3144",
+        "pdf_url": "https://proceedings.mlr.press/v70/shi17a/shi17a.pdf",
+        "publisher": "PMLR",
+        "series": "Proceedings of Machine Learning Research",
+        "title": "World of Bits: An Open-Domain Platform for Web-Based Agents",
+        "type": "conference-paper",
+        "url": "https://proceedings.mlr.press/v70/shi17a.html",
+        "venue": "Proceedings of the 34th International Conference on Machine Learning",
+        "volume": "70"
+      },
+      "record_updated_at": null
+    },
+    "id": "url:52a3261eb6a19b402e88",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          7,
+          17
+        ]
+      ]
+    },
+    "note": "Publication date: 2017-07-17.",
+    "page": "3135-3144",
+    "publisher": "PMLR",
+    "title": "World of Bits: An Open-Domain Platform for Web-Based Agents",
+    "type": "paper-conference",
+    "volume": "70"
+  },
+  {
+    "DOI": "10.1145/1753326.1753555",
+    "URL": "https://doi.org/10.1145/1753326.1753555",
+    "author": [
+      {
+        "literal": "Tsung-Hsiang Chang"
+      },
+      {
+        "literal": "Tom Yeh"
+      },
+      {
+        "literal": "Robert C. Miller"
+      }
+    ],
+    "citation-key": "cua_08a6c6d3e0e8b509ecb90301",
+    "container-title": "Proceedings of the 28th International Conference on Human Factors in Computing Systems (CHI '10)",
+    "custom": {
+      "canonical_source_url": "https://doi.org/10.1145/1753326.1753555",
+      "catalog_id": "url:6262c757080f8838e62c",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.1145/1753326.1753555"
+      },
+      "publication": {
+        "authors": [
+          "Tsung-Hsiang Chang",
+          "Tom Yeh",
+          "Robert C. Miller"
+        ],
+        "date_basis": "Supplied month precision: 2010-04. Date Issued: April 2010",
+        "date_parts": [
+          2010,
+          4
+        ],
+        "doi": "10.1145/1753326.1753555",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://dspace.mit.edu/entities/publication/6a6097ba-1d97-43cf-bc70-04b5af02efd5"
+        ],
+        "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+        "issue": null,
+        "notes": "Distinct visual-testing contribution from the 2009 Sikuli paper. The institutional abstract and published-version citation supply the retained evidence. Exact publication day and operating-system coverage are not established in the accessible institutional abstract.",
+        "pages": "1535-1544",
+        "pdf_url": null,
+        "publisher": null,
+        "series": null,
+        "title": "GUI Testing Using Computer Vision",
+        "type": "conference-paper",
+        "url": "https://doi.org/10.1145/1753326.1753555",
+        "venue": "Proceedings of the 28th International Conference on Human Factors in Computing Systems (CHI '10)",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:6262c757080f8838e62c",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          4
+        ]
+      ]
+    },
+    "note": "Publication date: 2010-04.",
+    "page": "1535-1544",
+    "title": "GUI Testing Using Computer Vision",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf",
+    "author": [
+      {
+        "literal": "James Allen"
+      },
+      {
+        "literal": "Nathanael Chambers"
+      },
+      {
+        "literal": "George Ferguson"
+      },
+      {
+        "literal": "Lucian Galescu"
+      },
+      {
+        "literal": "Hyuckchul Jung"
+      },
+      {
+        "literal": "Mary Swift"
+      },
+      {
+        "literal": "William Taysom"
+      }
+    ],
+    "citation-key": "cua_4e2f12a215bd1cadd864f498",
+    "container-title": "Twenty-Second AAAI National Conference on Artificial Intelligence",
+    "custom": {
+      "canonical_source_url": "https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf",
+      "catalog_id": "url:628b5251757bb3888e89",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {},
+      "publication": {
+        "authors": [
+          "James Allen",
+          "Nathanael Chambers",
+          "George Ferguson",
+          "Lucian Galescu",
+          "Hyuckchul Jung",
+          "Mary Swift",
+          "William Taysom"
+        ],
+        "date_basis": "Supplied year precision: 2007. Papers section: AAAI-2007",
+        "date_parts": [
+          2007
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf",
+          "https://www.cs.rochester.edu/research/cisd/projects/plow/"
+        ],
+        "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+        "issue": null,
+        "notes": "The ordered names follow the original published paper, without expanding initials or replacing names from secondary indexes. DOI and volume number are not supplied in the retained primary sources. No exact publication month/day is established.",
+        "pages": "1514-1519",
+        "pdf_url": "https://cdn.aaai.org/AAAI/2007/AAAI07-240.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "PLOW: A Collaborative Task Learning Agent",
+        "type": "conference-paper",
+        "url": "https://aaai.org/Papers/AAAI/2007/AAAI07-240.pdf",
+        "venue": "Twenty-Second AAAI National Conference on Artificial Intelligence",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:628b5251757bb3888e89",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "note": "Publication date: 2007.",
+    "page": "1514-1519",
+    "title": "PLOW: A Collaborative Task Learning Agent",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1145/3210240.3210339",
+    "URL": "https://doi.org/10.1145/3210240.3210339",
+    "author": [
+      {
+        "literal": "Toby Jia-Jun Li"
+      },
+      {
+        "literal": "Oriana Riva"
+      }
+    ],
+    "citation-key": "cua_93605b13ec414a1e08029b6d",
+    "container-title": "The 16th Annual International Conference on Mobile Systems, Applications, and Services",
+    "custom": {
+      "canonical_source_url": "https://doi.org/10.1145/3210240.3210339",
+      "catalog_id": "url:901ca855640457dfe2f1",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.1145/3210240.3210339"
+      },
+      "publication": {
+        "authors": [
+          "Toby Jia-Jun Li",
+          "Oriana Riva"
+        ],
+        "date_basis": "Supplied month precision: 2018-06. Publication line: MobiSys 2018, June 2018",
+        "date_parts": [
+          2018,
+          6
+        ],
+        "doi": "10.1145/3210240.3210339",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://www.microsoft.com/en-us/research/publication/kite-building-conversational-bots-mobile-apps/",
+          "https://www.microsoft.com/en-us/research/wp-content/uploads/2018/05/kite_mobisys18.pdf"
+        ],
+        "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+        "issue": null,
+        "notes": "Final proceedings page range and volume are not established in the retained first-party citation. The paper states a 14-page extent, not a page range. Exact publication day is unknown.",
+        "pages": null,
+        "pdf_url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2018/05/kite_mobisys18.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "Kite: Building Conversational Bots from Mobile Apps",
+        "type": "conference-paper",
+        "url": "https://doi.org/10.1145/3210240.3210339",
+        "venue": "The 16th Annual International Conference on Mobile Systems, Applications, and Services",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:901ca855640457dfe2f1",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          6
+        ]
+      ]
+    },
+    "note": "Publication date: 2018-06.",
+    "title": "Kite: Building Conversational Bots from Mobile Apps",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1145/3242587.3242661",
+    "URL": "https://doi.org/10.1145/3242587.3242661",
+    "author": [
+      {
+        "literal": "Sarah E. Chasins"
+      },
+      {
+        "literal": "Maria Mueller"
+      },
+      {
+        "literal": "Rastislav Bodik"
+      }
+    ],
+    "citation-key": "cua_b85f11762562177944b6898f",
+    "container-title": "Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology",
+    "custom": {
+      "canonical_source_url": "https://doi.org/10.1145/3242587.3242661",
+      "catalog_id": "url:97c0b1896525632434e2",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.1145/3242587.3242661"
+      },
+      "publication": {
+        "authors": [
+          "Sarah E. Chasins",
+          "Maria Mueller",
+          "Rastislav Bodik"
+        ],
+        "date_basis": "Supplied year precision: 2018. Rousillon entry: UIST 2018",
+        "date_parts": [
+          2018
+        ],
+        "doi": "10.1145/3242587.3242661",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://schasins.com/papers/",
+          "https://schasins.com/assets/papers/rousillon.pdf"
+        ],
+        "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+        "issue": null,
+        "notes": "This is browser interaction learned from demonstrations, rather than a generic server-side crawling library. Final proceedings page range and volume are not established. Manuscript pages 1-13 are not substituted for publisher pagination. Exact publication month/day is not inferred from conference dates.",
+        "pages": null,
+        "pdf_url": "https://schasins.com/assets/papers/rousillon.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "Rousillon: Scraping Distributed Hierarchical Web Data",
+        "type": "conference-paper",
+        "url": "https://doi.org/10.1145/3242587.3242661",
+        "venue": "Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:97c0b1896525632434e2",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "note": "Publication date: 2018.",
+    "title": "Rousillon: Scraping Distributed Hierarchical Web Data",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1145/1622176.1622213",
+    "URL": "https://doi.org/10.1145/1622176.1622213",
+    "author": [
+      {
+        "literal": "Tom Yeh"
+      },
+      {
+        "literal": "Tsung-Hsiang Chang"
+      },
+      {
+        "literal": "Robert C. Miller"
+      }
+    ],
+    "citation-key": "cua_510831381c08385eb74fb95e",
+    "container-title": "Proceedings of the 22nd Annual ACM Symposium on User Interface Software and Technology (UIST '09)",
+    "custom": {
+      "canonical_source_url": "https://doi.org/10.1145/1622176.1622213",
+      "catalog_id": "url:a4cdb2ee0d07d3980651",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.1145/1622176.1622213"
+      },
+      "publication": {
+        "authors": [
+          "Tom Yeh",
+          "Tsung-Hsiang Chang",
+          "Robert C. Miller"
+        ],
+        "date_basis": "Supplied month precision: 2009-10. Date Issued: October 2009",
+        "date_parts": [
+          2009,
+          10
+        ],
+        "doi": "10.1145/1622176.1622213",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://dspace.mit.edu/entities/publication/604a3f79-451d-4186-a94e-d12690ffe40a"
+        ],
+        "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+        "issue": null,
+        "notes": "Institutional abstract and published-version citation supply the retained evidence; the institution identifies an author final manuscript record. Exact publication day is not supplied. Operating-system-specific experiments are not asserted.",
+        "pages": "183-192",
+        "pdf_url": null,
+        "publisher": null,
+        "series": null,
+        "title": "Sikuli: Using GUI screenshots for search and automation",
+        "type": "conference-paper",
+        "url": "https://doi.org/10.1145/1622176.1622213",
+        "venue": "Proceedings of the 22nd Annual ACM Symposium on User Interface Software and Technology (UIST '09)",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:a4cdb2ee0d07d3980651",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          10
+        ]
+      ]
+    },
+    "note": "Publication date: 2009-10.",
+    "page": "183-192",
+    "title": "Sikuli: Using GUI screenshots for search and automation",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1145/3126594.3126651",
+    "URL": "https://doi.org/10.1145/3126594.3126651",
+    "author": [
+      {
+        "literal": "Biplab Deka"
+      },
+      {
+        "literal": "Zifeng Huang"
+      },
+      {
+        "literal": "Chad Franzen"
+      },
+      {
+        "literal": "Joshua Hibschman"
+      },
+      {
+        "literal": "Daniel Afergan"
+      },
+      {
+        "literal": "Yang Li"
+      },
+      {
+        "literal": "Jeffrey Nichols"
+      },
+      {
+        "literal": "Ranjitha Kumar"
+      }
+    ],
+    "citation-key": "cua_402ed654426712089390317c",
+    "container-title": "UIST '17: Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology",
+    "custom": {
+      "canonical_source_url": "https://doi.org/10.1145/3126594.3126651",
+      "catalog_id": "url:b560b5d6abaab98483f6",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2017-10-20",
+      "identifiers": {
+        "doi": "10.1145/3126594.3126651"
+      },
+      "publication": {
+        "authors": [
+          "Biplab Deka",
+          "Zifeng Huang",
+          "Chad Franzen",
+          "Joshua Hibschman",
+          "Daniel Afergan",
+          "Yang Li",
+          "Jeffrey Nichols",
+          "Ranjitha Kumar"
+        ],
+        "date_basis": "Supplied day precision: 2017-10-20. PDF cover, Published: 20 October 2017 The 18 January 2026 download date and October 22-25 conference dates are not publication dates.",
+        "date_parts": [
+          2017,
+          10,
+          20
+        ],
+        "doi": "10.1145/3126594.3126651",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://danafergan.com/publications/deka2017rico.pdf",
+          "https://dev.interactionmining.org/archive/rico"
+        ],
+        "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+        "issue": null,
+        "notes": "The paper is a distinct resource from the already cataloged Rico dataset (url:0b134b082a7bd507fc6a). The publisher PDF describes 9.7k apps and 72k screens; the project page describes 9.3k apps and 66k screens. The annotation intentionally supplies no merged size claim. No volume number is supplied for this proceedings article.",
+        "pages": "845-854",
+        "pdf_url": "https://danafergan.com/publications/deka2017rico.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "Rico: A Mobile App Dataset for Building Data-Driven Design Applications",
+        "type": "conference-paper",
+        "url": "https://doi.org/10.1145/3126594.3126651",
+        "venue": "UIST '17: Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:b560b5d6abaab98483f6",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          20
+        ]
+      ]
+    },
+    "note": "Publication date: 2017-10-20.",
+    "page": "845-854",
+    "title": "Rico: A Mobile App Dataset for Building Data-Driven Design Applications",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://ieeexplore.ieee.org/document/8506506",
+    "author": [
+      {
+        "literal": "Toby Jia-Jun Li"
+      },
+      {
+        "literal": "Igor Labutov"
+      },
+      {
+        "literal": "Xiaohan Nancy Li"
+      },
+      {
+        "literal": "Xiaoyi Zhang"
+      },
+      {
+        "literal": "Wenze Shi"
+      },
+      {
+        "literal": "Wanling Ding"
+      },
+      {
+        "literal": "Tom M. Mitchell"
+      },
+      {
+        "literal": "Brad A. Myers"
+      }
+    ],
+    "citation-key": "cua_753e73012e6a2483f242138b",
+    "container-title": "Proceedings of the 2018 IEEE Symposium on Visual Languages and Human-Centric Computing",
+    "custom": {
+      "canonical_source_url": "https://ieeexplore.ieee.org/document/8506506",
+      "catalog_id": "url:ba2c664c1b3c6f1b172f",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {},
+      "publication": {
+        "authors": [
+          "Toby Jia-Jun Li",
+          "Igor Labutov",
+          "Xiaohan Nancy Li",
+          "Xiaoyi Zhang",
+          "Wenze Shi",
+          "Wanling Ding",
+          "Tom M. Mitchell",
+          "Brad A. Myers"
+        ],
+        "date_basis": "Supplied year precision: 2018. APPINITE publication citation: VL/HCC 2018",
+        "date_parts": [
+          2018
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://toby.li/files/TobyLi-VLHCC18-APPINITE.pdf",
+          "https://www.cs.cmu.edu/~NatProg/sugilite.html",
+          "https://toby.li/publications/"
+        ],
+        "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+        "issue": null,
+        "notes": "The base SUGILITE framework and later PUMICE work are distinct publications; this paper focuses on resolving data-description ambiguity in demonstrations. Author-hosted manuscript and institutional publication lists supply the retained evidence. DOI, final page range, and exact publication day remain unknown.",
+        "pages": null,
+        "pdf_url": "https://toby.li/files/TobyLi-VLHCC18-APPINITE.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "APPINITE: A Multi-Modal Interface for Specifying Data Descriptions in Programming by Demonstration Using Natural Language Instructions",
+        "type": "conference-paper",
+        "url": "https://ieeexplore.ieee.org/document/8506506",
+        "venue": "Proceedings of the 2018 IEEE Symposium on Visual Languages and Human-Centric Computing",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:ba2c664c1b3c6f1b172f",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "note": "Publication date: 2018.",
+    "title": "APPINITE: A Multi-Modal Interface for Specifying Data Descriptions in Programming by Demonstration Using Natural Language Instructions",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html",
+    "author": [
+      {
+        "literal": "Fei Tang"
+      },
+      {
+        "literal": "Zhangxuan Gu"
+      },
+      {
+        "literal": "Zhengxi Lu"
+      },
+      {
+        "literal": "Shangzhan Zhang"
+      },
+      {
+        "literal": "Zhengwen Zeng"
+      },
+      {
+        "literal": "Shuheng Shen"
+      },
+      {
+        "literal": "Changhua Meng"
+      },
+      {
+        "literal": "Yuchen Yan"
+      },
+      {
+        "literal": "Wenqi Zhang"
+      },
+      {
+        "literal": "Yongliang Shen"
+      },
+      {
+        "literal": "Weiming Lu"
+      },
+      {
+        "literal": "Yueting Zhuang"
+      }
+    ],
+    "citation-key": "cua_a6fbf231c6d3a11f67403503",
+    "container-title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "custom": {
+      "canonical_source_url": "https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html",
+      "catalog_id": "url:beb8f1fd6b945ffc9d93",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {},
+      "publication": {
+        "authors": [
+          "Fei Tang",
+          "Zhangxuan Gu",
+          "Zhengxi Lu",
+          "Shangzhan Zhang",
+          "Zhengwen Zeng",
+          "Shuheng Shen",
+          "Changhua Meng",
+          "Yuchen Yan",
+          "Wenqi Zhang",
+          "Yongliang Shen",
+          "Weiming Lu",
+          "Yueting Zhuang"
+        ],
+        "date_basis": "Explicit publisher metadata: month = {June}, year = {2026}; precision=month.",
+        "date_parts": [
+          2026,
+          6
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html",
+          "https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.pdf"
+        ],
+        "identity_basis": "No title/DOI/canonical URL match in the current paper catalog or raw archive; closest substantive same-team works were reread and have different contributions.",
+        "issue": null,
+        "notes": "CVF open-access accepted version; PDF states that the final proceedings version is on IEEE Xplore.",
+        "pages": "13007-13016",
+        "pdf_url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning",
+        "type": "conference-paper",
+        "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Tang_GUI-SAGE_Enhancing_GUI_Automation_with_Self-Explanatory_Learning_CVPR_2026_paper.html",
+        "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:beb8f1fd6b945ffc9d93",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6
+        ]
+      ]
+    },
+    "note": "Publication date: 2026-06.",
+    "page": "13007-13016",
+    "title": "GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://acypher.com/Publications/CHI91/EagerCHI.html",
+    "author": [
+      {
+        "literal": "Allen Cypher"
+      }
+    ],
+    "citation-key": "cua_79e3af204750d438f5d43781",
+    "container-title": "Proceedings of CHI '91",
+    "custom": {
+      "canonical_source_url": "https://acypher.com/Publications/CHI91/EagerCHI.html",
+      "catalog_id": "url:bf0c11018e49dff6aeec",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {},
+      "publication": {
+        "authors": [
+          "Allen Cypher"
+        ],
+        "date_basis": "Supplied year precision: 1991. Opening CHI 1991 citation and copyright",
+        "date_parts": [
+          1991
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://acypher.com/Eager/",
+          "https://acypher.com/Publications/CHI91/EagerCHI.html"
+        ],
+        "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+        "issue": null,
+        "notes": "The 1991 conference paper is kept distinct from the 1991 video and 1993/1995 reprints listed on the author project page. Macintosh/HyperCard is tagged desktop; it is not represented as support for contemporary macOS. DOI not verified in a retained first-party source. Exact publication month/day is not inferred from conference dates.",
+        "pages": "33-39",
+        "pdf_url": null,
+        "publisher": null,
+        "series": null,
+        "title": "Eager: Programming Repetitive Tasks by Example",
+        "type": "conference-paper",
+        "url": "https://acypher.com/Publications/CHI91/EagerCHI.html",
+        "venue": "Proceedings of CHI '91",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:bf0c11018e49dff6aeec",
+    "issued": {
+      "date-parts": [
+        [
+          1991
+        ]
+      ]
+    },
+    "note": "Publication date: 1991.",
+    "page": "33-39",
+    "title": "Eager: Programming Repetitive Tasks by Example",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1145/1240624.1240767",
+    "URL": "https://doi.org/10.1145/1240624.1240767",
+    "author": [
+      {
+        "literal": "Greg Little"
+      },
+      {
+        "literal": "Tessa A. Lau"
+      },
+      {
+        "literal": "Allen Cypher"
+      },
+      {
+        "literal": "James Lin"
+      },
+      {
+        "literal": "Eben M. Haber"
+      },
+      {
+        "literal": "Eser Kandogan"
+      }
+    ],
+    "citation-key": "cua_1b4a3a269ca9f1884a566476",
+    "container-title": "CHI 2007 Proceedings",
+    "custom": {
+      "canonical_source_url": "https://doi.org/10.1145/1240624.1240767",
+      "catalog_id": "url:cccd967aa993404d74d0",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": null,
+      "identifiers": {
+        "doi": "10.1145/1240624.1240767"
+      },
+      "publication": {
+        "authors": [
+          "Greg Little",
+          "Tessa A. Lau",
+          "Allen Cypher",
+          "James Lin",
+          "Eben M. Haber",
+          "Eser Kandogan"
+        ],
+        "date_basis": "Supplied year precision: 2007. CHI 2007 proceedings heading and copyright year The IBM page has an unlabeled Date of 22 Oct 2007, while the paper gives April/May event dates. Their roles do not establish a reliable day-level publication date.",
+        "date_parts": [
+          2007
+        ],
+        "doi": "10.1145/1240624.1240767",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://research.ibm.com/publications/koala-capture-share-automate-personalize-business-processes-on-the-web",
+          "https://plunk.org/eben/PublishedPapers/KoalaCHI.pdf"
+        ],
+        "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+        "issue": null,
+        "notes": "This proposal is the specific Koala paper. It does not automatically merge every later CoScripter publication or project record. Exact publication date is unresolved; only the clearly established year is proposed.",
+        "pages": "943-946",
+        "pdf_url": "https://plunk.org/eben/PublishedPapers/KoalaCHI.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "Koala: Capture, Share, Automate, Personalize Business Processes on the Web",
+        "type": "conference-paper",
+        "url": "https://doi.org/10.1145/1240624.1240767",
+        "venue": "CHI 2007 Proceedings",
+        "volume": null
+      },
+      "record_updated_at": null
+    },
+    "id": "url:cccd967aa993404d74d0",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "note": "Publication date: 2007.",
+    "page": "943-946",
+    "title": "Koala: Capture, Share, Automate, Personalize Business Processes on the Web",
+    "type": "paper-conference"
+  }
+]

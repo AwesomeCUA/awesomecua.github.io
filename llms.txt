@@ -49,3 +49,14 @@ Each active resource page serves its complete record at `record.json`. Scope-exc
 - [Reviewed paper BibTeX](https://awesomecua.github.io/downloads/citations.bib)
 - [Reviewed paper CSL JSON](https://awesomecua.github.io/downloads/citations.csl.json)
 - [Citation manifest](https://awesomecua.github.io/downloads/citations-manifest.json)
+
+## Publication editions
+
+Default arXiv citations retain the recorded preprint. Publication editions use their own title/authors/date and do not create extra catalog papers. Date components keep their recorded precision.
+
+- [Reviewed publication BibTeX](https://awesomecua.github.io/downloads/publication-citations.bib)
+- [Reviewed publication CSL JSON](https://awesomecua.github.io/downloads/publication-citations.csl.json)
+- [Publication observations](https://awesomecua.github.io/downloads/publications.jsonl)
+- [Publication observation schema](https://awesomecua.github.io/schemas/publication-observation.schema.json)
+
+Resources with publication metadata also serve `publication-citation.bib` and `publication-citation.csl.json` next to their retained-source citation files.

@@ -1,0 +1,160 @@
+{
+  "aliases": [],
+  "authors": [
+    "Biplab Deka",
+    "Zifeng Huang",
+    "Chad Franzen",
+    "Joshua Hibschman",
+    "Daniel Afergan",
+    "Yang Li",
+    "Jeffrey Nichols",
+    "Ranjitha Kumar"
+  ],
+  "details": {
+    "publication": {
+      "authors": [
+        "Biplab Deka",
+        "Zifeng Huang",
+        "Chad Franzen",
+        "Joshua Hibschman",
+        "Daniel Afergan",
+        "Yang Li",
+        "Jeffrey Nichols",
+        "Ranjitha Kumar"
+      ],
+      "date_basis": "Supplied day precision: 2017-10-20. PDF cover, Published: 20 October 2017 The 18 January 2026 download date and October 22-25 conference dates are not publication dates.",
+      "date_parts": [
+        2017,
+        10,
+        20
+      ],
+      "doi": "10.1145/3126594.3126651",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://danafergan.com/publications/deka2017rico.pdf",
+        "https://dev.interactionmining.org/archive/rico"
+      ],
+      "identity_basis": "No same-work record located in the full active catalog. Similarity screening was not used as automatic identity approval. The raw archive and exclusions are additionally checked during normalization.",
+      "issue": null,
+      "notes": "The paper is a distinct resource from the already cataloged Rico dataset (url:0b134b082a7bd507fc6a). The publisher PDF describes 9.7k apps and 72k screens; the project page describes 9.3k apps and 66k screens. The annotation intentionally supplies no merged size claim. No volume number is supplied for this proceedings article.",
+      "pages": "845-854",
+      "pdf_url": "https://danafergan.com/publications/deka2017rico.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "Rico: A Mobile App Dataset for Building Data-Driven Design Applications",
+      "type": "conference-paper",
+      "url": "https://doi.org/10.1145/3126594.3126651",
+      "venue": "UIST '17: Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology",
+      "volume": null
+    }
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T10:01:32Z",
+      "role": "primary",
+      "sha256": "a1ec58c526b152c052c5c72f9a62725f1026b5f0e4f45c8fe85fce284295da84",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.doi",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.pdf_url",
+        "details.publication.title",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue"
+      ],
+      "url": "https://danafergan.com/publications/deka2017rico.pdf"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:23Z",
+      "role": "primary",
+      "sha256": "fb00401fe531ca3aed078dccc57147bcaad33207dacf7cd4cfd4af14f1487ff5",
+      "supports": [
+        "details.publication.notes"
+      ],
+      "url": "https://dev.interactionmining.org/archive/rico"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T10:01:32Z",
+      "role": "primary",
+      "sha256": "a1ec58c526b152c052c5c72f9a62725f1026b5f0e4f45c8fe85fce284295da84",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.doi",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.pdf_url",
+        "details.publication.title",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue",
+        "environments",
+        "kind",
+        "name",
+        "scope",
+        "summary",
+        "topics"
+      ],
+      "url": "https://danafergan.com/publications/deka2017rico.pdf"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:23Z",
+      "role": "primary",
+      "sha256": "fb00401fe531ca3aed078dccc57147bcaad33207dacf7cd4cfd4af14f1487ff5",
+      "supports": [
+        "details.publication.notes"
+      ],
+      "url": "https://dev.interactionmining.org/archive/rico"
+    }
+  ],
+  "id": "url:b560b5d6abaab98483f6",
+  "identifiers": {
+    "doi": "10.1145/3126594.3126651"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-17T10:01:32Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://doi.org/10.1145/3126594.3126651"
+    },
+    {
+      "rel": "publication_pdf",
+      "url": "https://danafergan.com/publications/deka2017rico.pdf"
+    }
+  ],
+  "name": "Rico: A Mobile App Dataset for Building Data-Driven Design Applications",
+  "notes": "The annotation was reviewed against retained primary publication sources. Experiments have not been independently reproduced. The paper is a distinct resource from the already cataloged Rico dataset (url:0b134b082a7bd507fc6a). The publisher PDF describes 9.7k apps and 72k screens; the project page describes 9.3k apps and 66k screens. The annotation intentionally supplies no merged size claim.",
+  "published_at": "2017-10-20",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Introduces Rico, collecting Android interface designs and interaction traces through crowdsourced use followed by automated exploration. The paper demonstrates UI-layout retrieval using learned representations and describes visual, textual, structural, and interaction data.",
+  "topics": [
+    "data-generation",
+    "screen-understanding",
+    "ui-design"
+  ],
+  "updated_at": null,
+  "url": "https://doi.org/10.1145/3126594.3126651"
+}

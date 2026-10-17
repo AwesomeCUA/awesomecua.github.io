@@ -18,6 +18,41 @@
       "updated_at": "2026-05-14T12:14:24Z",
       "version": 1,
       "versioned_url": "https://arxiv.org/abs/2605.14747v1"
+    },
+    "publication": {
+      "authors": [
+        "Weimin Xiong",
+        "Shuhao Gu",
+        "Bowen Ye",
+        "Zihao Yue",
+        "Lei Li",
+        "Feifan Song",
+        "Sujian Li",
+        "Hao Tian"
+      ],
+      "date_basis": "Explicit publisher metadata: 2026/09/29; precision=day.",
+      "date_parts": [
+        2026,
+        9,
+        29
+      ],
+      "doi": null,
+      "event_dates": "06--11 Jul 2026",
+      "evidence_urls": [
+        "https://proceedings.mlr.press/v306/xiong26c.html"
+      ],
+      "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+      "issue": null,
+      "notes": "This work already exists as metadata_verified arxiv:2605.14747. The official publication abstract still promises a future release; current release status is not inferred from publication. The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+      "pages": "140253-140283",
+      "pdf_url": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/xiong26c/xiong26c.pdf",
+      "publisher": "PMLR",
+      "series": "Proceedings of Machine Learning Research",
+      "title": "Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining",
+      "type": "conference-paper",
+      "url": "https://proceedings.mlr.press/v306/xiong26c.html",
+      "venue": "Proceedings of the 43rd International Conference on Machine Learning",
+      "volume": "306"
     }
   },
   "environments": [
@@ -38,6 +73,30 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=300&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:48+00:00",
+      "role": "primary",
+      "sha256": "fea22076271c2c45814795b5b0c04b6f6a2246803d82785af20496c4787a5c2e",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.event_dates",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.pdf_url",
+        "details.publication.publisher",
+        "details.publication.series",
+        "details.publication.title",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue",
+        "details.publication.volume"
+      ],
+      "url": "https://proceedings.mlr.press/v306/xiong26c.html"
     }
   ],
   "id": "arxiv:2605.14747",
@@ -56,6 +115,14 @@
     {
       "rel": "paper",
       "url": "https://arxiv.org/abs/2605.14747"
+    },
+    {
+      "rel": "publication",
+      "url": "https://proceedings.mlr.press/v306/xiong26c.html"
+    },
+    {
+      "rel": "publication_pdf",
+      "url": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/xiong26c/xiong26c.pdf"
     }
   ],
   "name": "Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining",

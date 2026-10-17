@@ -15,6 +15,38 @@
       "updated_at": "2024-03-12T23:14:33Z",
       "version": 2,
       "versioned_url": "https://arxiv.org/abs/2401.01614v2"
+    },
+    "publication": {
+      "authors": [
+        "Boyuan Zheng",
+        "Boyu Gou",
+        "Jihyung Kil",
+        "Huan Sun",
+        "Yu Su"
+      ],
+      "date_basis": "Explicit publisher metadata: 2024/07/08; precision=day.",
+      "date_parts": [
+        2024,
+        7,
+        8
+      ],
+      "doi": null,
+      "event_dates": "21--27 Jul 2024",
+      "evidence_urls": [
+        "https://proceedings.mlr.press/v235/zheng24e.html"
+      ],
+      "identity_basis": "Same work: exact normalized landing title, corresponding author list, and matching specific contribution. Publisher and arXiv versions remain distinct.",
+      "issue": null,
+      "notes": "The publisher issue date comes from citation_publication_date; the conference date range is retained separately and does not replace it. Publisher-hosted proceedings record; distinct from the retained arXiv preprint snapshot.",
+      "pages": "61349-61385",
+      "pdf_url": "https://raw.githubusercontent.com/mlresearch/v235/main/assets/zheng24e/zheng24e.pdf",
+      "publisher": "PMLR",
+      "series": "Proceedings of Machine Learning Research",
+      "title": "GPT-4V(ision) is a Generalist Web Agent, if Grounded",
+      "type": "conference-paper",
+      "url": "https://proceedings.mlr.press/v235/zheng24e.html",
+      "venue": "Proceedings of the 41st International Conference on Machine Learning",
+      "volume": "235"
     }
   },
   "environments": [
@@ -35,6 +67,30 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T09:53:47+00:00",
+      "role": "primary",
+      "sha256": "eb144b5dfe51e5a9092d273fcffb85343808d011b03d22e059c9cc65e642ef33",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.event_dates",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.pdf_url",
+        "details.publication.publisher",
+        "details.publication.series",
+        "details.publication.title",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue",
+        "details.publication.volume"
+      ],
+      "url": "https://proceedings.mlr.press/v235/zheng24e.html"
     },
     {
       "method": "editorial_primary_review",
@@ -69,6 +125,14 @@
     {
       "rel": "primary",
       "url": "https://arxiv.org/abs/2401.01614"
+    },
+    {
+      "rel": "publication",
+      "url": "https://proceedings.mlr.press/v235/zheng24e.html"
+    },
+    {
+      "rel": "publication_pdf",
+      "url": "https://raw.githubusercontent.com/mlresearch/v235/main/assets/zheng24e/zheng24e.pdf"
     }
   ],
   "name": "GPT-4V(ision) is a Generalist Web Agent, if Grounded",
