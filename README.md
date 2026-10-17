@@ -4,9 +4,9 @@
 
 [Website](https://awesomecua.github.io/) · [Research papers](https://awesomecua.github.io/papers/) · [中文指南](https://awesomecua.github.io/zh/) · [GitHub organization](https://github.com/AwesomeCUA)
 
-**1,993 resource records** · **569 curated** · **1,724 arXiv records** · **29 discovery documents**
+**2,010 resource records** · **606 curated** · **1,724 arXiv records** · **36 discovery documents**
 
-Evidence snapshot: 2026-10-16T13:29:25Z. Bibliography counts overlap review-state counts. Resources are not independent projects.
+Evidence snapshot: 2026-10-17T01:52:51Z. Bibliography counts overlap review-state counts. Resources are not independent projects.
 
 ## What is a computer-use agent?
 
@@ -18,11 +18,11 @@ A computer-use agent observes software interfaces, chooses and executes actions,
 | --- | ---: | --- |
 | Research papers | 1,713 | [Open directory](https://awesomecua.github.io/categories/paper/) |
 | Surveys | 11 | [Open directory](https://awesomecua.github.io/categories/survey/) |
-| Models and checkpoints | 48 | [Open directory](https://awesomecua.github.io/categories/model/) |
-| Datasets | 43 | [Open directory](https://awesomecua.github.io/categories/dataset/) |
-| Benchmarks | 60 | [Open directory](https://awesomecua.github.io/categories/benchmark/) |
+| Models and checkpoints | 56 | [Open directory](https://awesomecua.github.io/categories/model/) |
+| Datasets | 47 | [Open directory](https://awesomecua.github.io/categories/dataset/) |
+| Benchmarks | 61 | [Open directory](https://awesomecua.github.io/categories/benchmark/) |
 | Agents | 30 | [Open directory](https://awesomecua.github.io/categories/agent/) |
-| Frameworks | 31 | [Open directory](https://awesomecua.github.io/categories/framework/) |
+| Frameworks | 35 | [Open directory](https://awesomecua.github.io/categories/framework/) |
 | Infrastructure | 12 | [Open directory](https://awesomecua.github.io/categories/infrastructure/) |
 | Tools | 10 | [Open directory](https://awesomecua.github.io/categories/tool/) |
 | Products | 19 | [Open directory](https://awesomecua.github.io/categories/product/) |
@@ -35,13 +35,13 @@ Category pages highlight reviewed resources; the [interactive catalog](https://a
 - [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://awesomecua.github.io/resources/arxiv-2610-22200/) — Introduces an open generalist computer-use stack combining visual and programmatic interaction, with model-controlled observation and task-state decisions. [Original paper](https://arxiv.org/abs/2610.22200).
 - [OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents](https://awesomecua.github.io/resources/arxiv-2610-22234/) — Trains native computer-use models to coordinate GUI actions and code execution using hybrid demonstrations and online reinforcement learning. [Original paper](https://arxiv.org/abs/2610.22234).
 - [LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents](https://awesomecua.github.io/resources/arxiv-2610-22280/) — Uses weak-agent uncertainty to decide when to escalate to a stronger model and monitor its subsequent task execution. [Original paper](https://arxiv.org/abs/2610.22280).
+- [Teaching Agents in their Own Style: Blackbox Teacher Distillation for Web Agents](https://awesomecua.github.io/resources/arxiv-2610-19834/) — Introduces WebKD, which repairs failed student web-agent trajectories with minimal teacher edits and trains on corrections that preserve the student's reasoning style. [Original paper](https://arxiv.org/abs/2610.19834).
+- [How GUI Agents Fail: GraceBench for Execution Stability Diagnosis](https://awesomecua.github.io/resources/arxiv-2610-19900/) — Introduces GraceBench, using application transition graphs and recorded interaction evidence to diagnose deviations, loops, and recovery that final task-success scores can hide. [Original paper](https://arxiv.org/abs/2610.19900).
+- [Task-State Governance: A Virtual Machine for Verifiable and Recoverable GUI Agent Execution](https://awesomecua.github.io/resources/arxiv-2610-20100/) — Presents TaskVM, an interface for specifying desired and preserved application state, checking agent actions, and exposing whether changes can be reversed or compensated. [Original paper](https://arxiv.org/abs/2610.20100).
+- [Why Generate a Click? Plug-in Decision Heads for Web Agents](https://awesomecua.github.io/resources/arxiv-2610-20107/) — Adds decision heads to a frozen vision-language generator for selecting web actions and targets, with a confidence gate that falls back to text generation. [Original paper](https://arxiv.org/abs/2610.20107).
+- [STP-GUI: Spatially-Aware Token Pruning for Efficient Web-GUI Agents](https://awesomecua.github.io/resources/arxiv-2610-20390/) — Introduces STP-GUI, which selects spatially coherent screenshot windows conditioned on the instruction to reduce visual tokens while retaining useful interface structure. [Original paper](https://arxiv.org/abs/2610.20390).
+- [Player-1: Learning to Play from Synthetic Experience](https://awesomecua.github.io/resources/arxiv-2610-20584/) — Extends computer-use policies to game control through synthetic training environments and richer keyboard and pointer actions. Its evaluation concerns games rather than ordinary productivity workflows. [Original paper](https://arxiv.org/abs/2610.20584).
 - [MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments](https://awesomecua.github.io/resources/arxiv-2610-20939/) — Unifies GUI evaluation, trajectory collection, environment synthesis, and online reinforcement learning across mobile, computer, and web tasks. [Original paper](https://arxiv.org/abs/2610.20939).
-- [Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction](https://awesomecua.github.io/resources/arxiv-2610-12984/) — Aligns human screen recordings, input events, and accessibility information to derive reusable workflow skills from desktop demonstrations. [Original paper](https://arxiv.org/abs/2610.12984).
-- [MedImageOSWorld: Benchmarking GUI Agents for Medical Image Consoles](https://awesomecua.github.io/resources/arxiv-2610-04800/) — Evaluates GUI agents in simulated medical-imaging consoles, separately checking workflow completion and acquisition outcomes against hidden anatomical targets. [Original paper](https://arxiv.org/abs/2610.04800).
-- [Control OSWorld: An AI Control Environment for GUI Computer Use Agents](https://awesomecua.github.io/resources/arxiv-2610-03818/) — Pairs OSWorld tasks with harmful side objectives to evaluate monitors that detect malicious behavior in computer-use agent trajectories. [Original paper](https://arxiv.org/abs/2610.03818).
-- [CUAWright: A Minimal Unified Interface for Digital Agents](https://awesomecua.github.io/resources/arxiv-2610-04116/) — Studies a minimal terminal-based execution framework that lets digital agents construct tools and manage context across browser, desktop, and CAD tasks. [Original paper](https://arxiv.org/abs/2610.04116).
-- [GUI-HARVEST: Self-Improving GUI Agents through Evidence-Driven Harness Evolution](https://awesomecua.github.io/resources/arxiv-2610-00948/) — Improves GUI-agent execution code by analyzing action effects and repeated-task failures, then validating bounded changes with frozen model weights. [Original paper](https://arxiv.org/abs/2610.00948).
-- [DeskForge: Dense Supervision from Desktop Environments for Computer-Use Agents](https://awesomecua.github.io/resources/arxiv-2610-02320/) — Generates dense desktop supervision by varying real application scenes and combining screenshots, accessibility trees, and window geometry. [Original paper](https://arxiv.org/abs/2610.02320).
 
 [All reviewed papers and surveys](https://awesomecua.github.io/papers/). Annotations do not independently reproduce experimental findings.
 

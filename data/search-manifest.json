@@ -1,7 +1,7 @@
 {
   "site_url": "https://awesomecua.github.io",
-  "indexable_pages": 595,
-  "metadata_only_pages": 1424,
+  "indexable_pages": 632,
+  "metadata_only_pages": 1404,
   "excluded_pages": 40,
   "pages": [
     {
@@ -8486,8 +8486,8 @@
     },
     {
       "path": "/resources/arxiv-2610-14157/",
-      "indexable": false,
-      "sha256": "9578364b4a6c2d5e09a0b1b75b4757b2058b506705155d4b300cf0cc0bb35734"
+      "indexable": true,
+      "sha256": "820516a0cad549ddd684441585997249efb25c4fe85b206809a9f52302e70fbd"
     },
     {
       "path": "/resources/arxiv-2610-14228/",
@@ -8506,58 +8506,58 @@
     },
     {
       "path": "/resources/arxiv-2610-16234/",
-      "indexable": false,
-      "sha256": "579b5fa2b91e95ce6999c17015099f5efef7ea824701d43dabecd12649fae3d8"
+      "indexable": true,
+      "sha256": "d32d344e84de5cb971f374670371f35dc10112da28113379823ad26690f2b105"
     },
     {
       "path": "/resources/arxiv-2610-16319/",
-      "indexable": false,
-      "sha256": "a0a6b1c7c9ca962ec670759808c90895a398d74c99169f5862f815a722f13f69"
+      "indexable": true,
+      "sha256": "13a03c164593af1f6603077b74838f00d730176f757ab5cc3dccb6a6d90c0507"
     },
     {
       "path": "/resources/arxiv-2610-16720/",
-      "indexable": false,
-      "sha256": "0197ae9f40d5ef651fe086a7810fd3b4de90fb658c08bb691fcaaae9ffa93c60"
+      "indexable": true,
+      "sha256": "113c7c1d43fde8160d631fcb04f5be533f9e29268052f55c9b70e3a06f0d2767"
     },
     {
       "path": "/resources/arxiv-2610-16778/",
-      "indexable": false,
-      "sha256": "c1118c8e234cd3a49b9c04e49573dddbccf2cb80b8ea1beebf1093ce2f1f9dca"
+      "indexable": true,
+      "sha256": "280c2ac5e6e179d4f28895b7f141a8c007d42954c2fd7057faf825ec31ba5940"
     },
     {
       "path": "/resources/arxiv-2610-17457/",
-      "indexable": false,
-      "sha256": "3c5e0eb50d6764f4aa16f39b00f50e5e5fe896eafe3ee6d158aff9231fa7f1e6"
+      "indexable": true,
+      "sha256": "4628217716f26d9b727dbe7d197d06fe5f18b339c37b4b4eb453339111b1e09d"
     },
     {
       "path": "/resources/arxiv-2610-17710/",
-      "indexable": false,
-      "sha256": "97d457ea3a2b7304d98b793a94c04e051312208d856bb576318c51beeb7ff9bc"
+      "indexable": true,
+      "sha256": "a9cc2264d42efbb4aea7bff3e79a913cc3eccb25afb97844964a32bb3f4e367d"
     },
     {
       "path": "/resources/arxiv-2610-17792/",
-      "indexable": false,
-      "sha256": "0d0bef30f12d35247b2057f9eebf15257b31699e42c38eac6cb39875e98d2fa2"
+      "indexable": true,
+      "sha256": "2290f4e3d5d99ddc97a3b85ad2e31994a34b0b85a9ac9f632c01068928528ea5"
     },
     {
       "path": "/resources/arxiv-2610-17895/",
-      "indexable": false,
-      "sha256": "e4beaafa1dd86a08281146ec9685e2ead92ffed2804b17d223de8f8a803dcb41"
+      "indexable": true,
+      "sha256": "4df0ab3a3830b4a8def5f00787e3a487b06d4e0ade241336a523a7d0ba6da031"
     },
     {
       "path": "/resources/arxiv-2610-17928/",
-      "indexable": false,
-      "sha256": "aec0b3b4146c6382582b48159097cd30d3ba066162a0f94acfabc4ee5b2178f3"
+      "indexable": true,
+      "sha256": "0b873d6752c65f1f6885d761b962da2423e2935b173c0c1f2b51f041f4e26edd"
     },
     {
       "path": "/resources/arxiv-2610-18508/",
-      "indexable": false,
-      "sha256": "d4b088bb5f77747e683719e1add9e2a98265678977665fcd8f75ac0d820b27a9"
+      "indexable": true,
+      "sha256": "c76172dbcb8fda5a9feadee08a42e84bc5d56605fbd81819e7101f345149d6fe"
     },
     {
       "path": "/resources/arxiv-2610-18784/",
-      "indexable": false,
-      "sha256": "2027f9f1c532a41ea279d1aefbcfa83a3fb68b9b689a8927f2dd26ba26750510"
+      "indexable": true,
+      "sha256": "bd9e2db250763161f88472a15e8e98a482374824fc55a8333cfa3ad1c20daf57"
     },
     {
       "path": "/resources/arxiv-2610-18868/",
@@ -8566,43 +8566,43 @@
     },
     {
       "path": "/resources/arxiv-2610-19100/",
-      "indexable": false,
-      "sha256": "faa7f3eba5d8dcd8c2a26d25067708f2b984a31ae493a80177c18a8bbf92f021"
+      "indexable": true,
+      "sha256": "93d975be01b446e5e0b49dc7c97f9956ce93c563bcb67f26ee8af87e1e901d0a"
     },
     {
       "path": "/resources/arxiv-2610-19128/",
-      "indexable": false,
-      "sha256": "331ecc8c0bc334803ce9c199ccdfb77d12a3e2ba913daa59f3a11831c99edf3b"
+      "indexable": true,
+      "sha256": "553c1cea825e86a1ef4057c93908adb6fef8b8518c78358d779a36baf6560837"
     },
     {
       "path": "/resources/arxiv-2610-19834/",
-      "indexable": false,
-      "sha256": "155bb47f00730c86d34f8e6b8bea73f1efa307920f388bef78d1618219aa501a"
+      "indexable": true,
+      "sha256": "c605a4652c8070d282a84c6cc468f0bef9c07c94c21bb8a30aa68c2c7d5dee45"
     },
     {
       "path": "/resources/arxiv-2610-19900/",
-      "indexable": false,
-      "sha256": "bc6a27efbf1df0c0deeecaad4ec28320f362f90bfc4a8c2bfa4979f9ac1728a8"
+      "indexable": true,
+      "sha256": "0e1216293d5dbe6f7430ca1c87a8e3e6ff794c9597d6ee35241008cef8717ec8"
     },
     {
       "path": "/resources/arxiv-2610-20100/",
-      "indexable": false,
-      "sha256": "a84070fedc3c9b83b9c837f73522856509dc768cbfc23b20f42fd87f56a1ebfd"
+      "indexable": true,
+      "sha256": "378c1bef8cea0e5c0a9467c6c42e330883d35b97d1211c2e0c748a81f32ab825"
     },
     {
       "path": "/resources/arxiv-2610-20107/",
-      "indexable": false,
-      "sha256": "76939d5796dc2f3fcf0cc210cddbb2bbbae285460d537fc6daccc05f32523f12"
+      "indexable": true,
+      "sha256": "1907e264ef2e2755c2c4598027e12f749f2895817c02dede4262b248b2240e99"
     },
     {
       "path": "/resources/arxiv-2610-20390/",
-      "indexable": false,
-      "sha256": "ff306e05616c73d32e09396f23b122263feb2c26301ce5824a46a17e35e7173e"
+      "indexable": true,
+      "sha256": "5227677b9cb312f0011e801fde79d5b6eb60ec5e3c8d8c3276c744c21afee4eb"
     },
     {
       "path": "/resources/arxiv-2610-20584/",
-      "indexable": false,
-      "sha256": "f5a6ae17103094f8b453d881884f07992baf2e4e66339aed629e49b565be3cfb"
+      "indexable": true,
+      "sha256": "05290356f6970762bb5e2aa79a4818b599694f392a21de8e8615b998236ff5ca"
     },
     {
       "path": "/resources/arxiv-2610-20939/",
@@ -8810,6 +8810,11 @@
       "sha256": "5cd2efc8ceda6c57422f0567a60a61e5fe19b968d8773fe40ecd5c4f4849eba0"
     },
     {
+      "path": "/resources/github-dmis-lab-switchmem/",
+      "indexable": true,
+      "sha256": "164e5d462d6b1657e1bbb671954ecb1affe6e22891cf8722687d8f26649eabe3"
+    },
+    {
       "path": "/resources/github-dongping-chen-gui-world/",
       "indexable": true,
       "sha256": "8f0987947da23c2b57e72a0a1676112158cd550ef732c8746ee9749ac340d045"
@@ -8913,6 +8918,11 @@
       "path": "/resources/github-jacklishufan-mobileworld/",
       "indexable": true,
       "sha256": "57a737daeefbb35a2a1fa71cd1e9c01a56070640d47b8e92a983534f308fc0b0"
+    },
+    {
+      "path": "/resources/github-jcwang0602-seg2click/",
+      "indexable": true,
+      "sha256": "9293d6c66791b8ae476708e7f3380db17660c6670dba2be49564a3864c784d5e"
     },
     {
       "path": "/resources/github-jetastra-macagentbench/",
@@ -9125,6 +9135,16 @@
       "sha256": "ee6011079ccaafce50cda764e1ac886b546c892d4dbee81cc5008fa847a3157d"
     },
     {
+      "path": "/resources/github-openmobile2-mobilegym-plusplus/",
+      "indexable": true,
+      "sha256": "3295f987fb6253c7b849eadc014d43585fb3ed9fa9f1a2286f78863404699cc0"
+    },
+    {
+      "path": "/resources/github-openmobile2-openmobile2-code/",
+      "indexable": true,
+      "sha256": "44703911fb72ae719ac5d3f82744cdae0e0e81024cc482e06888625ba9ca5749"
+    },
+    {
       "path": "/resources/github-os-copilot-os-atlas/",
       "indexable": true,
       "sha256": "b1fef37df1f9ebb184099fdeafb572cf3e91a6fe20a501a6c1ec336067b81d9e"
@@ -9188,6 +9208,11 @@
       "path": "/resources/github-pixiebrix-agent-browser-shield/",
       "indexable": true,
       "sha256": "1b4b8611dba24733505dbc53ebb04d309df7e19f013af13129a7a36b0d47ba66"
+    },
+    {
+      "path": "/resources/github-prentisai-groundgui/",
+      "indexable": true,
+      "sha256": "fb480628b4f9b2240f5b74688ced17cb59134352fa77b7e76f1c74f16606130c"
     },
     {
       "path": "/resources/github-princeton-nlp-webshop/",
@@ -9665,9 +9690,19 @@
       "sha256": "1ec4bed991d256ce8feff361f59475b3b8e3a5400308767a1d9c5d9780cbaa32"
     },
     {
+      "path": "/resources/url-1611de0e6d606165d12d/",
+      "indexable": true,
+      "sha256": "921b23c387d12d992598e9652c26823bf3a0d322c4f2f485a7e765522f01c55b"
+    },
+    {
       "path": "/resources/url-1e6b8682e0f1ddc3d36f/",
       "indexable": true,
       "sha256": "6afabd8d0431f508acdeafef7d188a6fa969145198a5b6dfe3d8a9e91eb82ead"
+    },
+    {
+      "path": "/resources/url-23ad240757185c6f7eac/",
+      "indexable": true,
+      "sha256": "6c543bf99b299752fd45d63c53baa29dfb64a99189584013e0782891615cd0d9"
     },
     {
       "path": "/resources/url-240a05c02f85d4da60dc/",
@@ -9683,6 +9718,11 @@
       "path": "/resources/url-25a4d0ab29b60250863a/",
       "indexable": true,
       "sha256": "7e31c5d3aa30c098e59cd2f7a32398bb5285addc30dc9ac26e14d9cb95ca16c2"
+    },
+    {
+      "path": "/resources/url-29588aa5651b5839c045/",
+      "indexable": true,
+      "sha256": "256bcb2fc23afc4d22dc5c0f851ba1acf716387433f6cb8bc725c5bd1f5b40bc"
     },
     {
       "path": "/resources/url-2a2682f86dcb8ebc9a80/",
@@ -9710,6 +9750,11 @@
       "sha256": "ba43caf53fb2d0a6f755e830ff745cd521f1c533a51aadbbc9c8db2656acd0b3"
     },
     {
+      "path": "/resources/url-4e71dc456c4112eed727/",
+      "indexable": true,
+      "sha256": "8919a50fb2b2142f2a2449c17dbe0b49b06f5e471965628a998fe07952174b2d"
+    },
+    {
       "path": "/resources/url-4f47abde8cd28a1ec1e1/",
       "indexable": true,
       "sha256": "bacf6edb0e083b782b9010dac354cb1947fd382ffb9511940a05ec431028689c"
@@ -9718,6 +9763,16 @@
       "path": "/resources/url-511903ebfac45e6751b2/",
       "indexable": true,
       "sha256": "fd03a6763630948098e475dee3bde31e58d07ced575ac74eff4ce5b66f5752b1"
+    },
+    {
+      "path": "/resources/url-546e6c95825d1318c98d/",
+      "indexable": true,
+      "sha256": "f385fd74582e5bb3804903cc0619e67b6e8f31917ab3b8e04faf3da2c11f8c8a"
+    },
+    {
+      "path": "/resources/url-56bda04bd8d3a438deb3/",
+      "indexable": true,
+      "sha256": "b5fa124e59e3860397e5d3296037d57b9aab6a9aa400cdd1d9bd9afbaae6d0b1"
     },
     {
       "path": "/resources/url-57f17b7d0c18b2d7c8bf/",
@@ -9760,6 +9815,11 @@
       "sha256": "71f01015ae77d8ed6d9abda476b0bfcd932a09835317eece617af557feacb33b"
     },
     {
+      "path": "/resources/url-7405463ba56f9a41e79a/",
+      "indexable": true,
+      "sha256": "4aaab7d0ffb2b64de22de82218a4e80f0f8de2e7a696c4ff6fc48dc4448075a4"
+    },
+    {
       "path": "/resources/url-74eeb7c9fb20674fe6e2/",
       "indexable": true,
       "sha256": "909cd142437df0850bd1be9a714d5900c4ac863f310455f85a7a99b69fb67bd7"
@@ -9778,6 +9838,11 @@
       "path": "/resources/url-7ae2670859e3796e8607/",
       "indexable": true,
       "sha256": "dc0a315a6e6524c998094477fbdf52652fece25ee35116f9b4e9aa0c136aad1a"
+    },
+    {
+      "path": "/resources/url-826f3753905c5c43bf46/",
+      "indexable": true,
+      "sha256": "fc186439a9dbe9e45b70d5f11e0dede38e671a3da817b7e6504ca6ba220715ac"
     },
     {
       "path": "/resources/url-82a30f45d9e855f423c7/",
@@ -9865,6 +9930,11 @@
       "sha256": "d6579de354f5cf4f22d60a35d0d4953ac9b894027ef02781ada96fa48c8c44b7"
     },
     {
+      "path": "/resources/url-c1db2ba79e6d6a3db2b9/",
+      "indexable": true,
+      "sha256": "6200af534fe34b439c1032982e43eb32233510286802ae1d0a147bdc044105e3"
+    },
+    {
       "path": "/resources/url-c4898ad1bfc049926a63/",
       "indexable": true,
       "sha256": "b61ef141877788b550f4a5d103e5d3d765dda9b90d6b6192045e16145de2b3b3"
@@ -9900,6 +9970,11 @@
       "sha256": "c50a41def887419b05394e1a35ff54b2e11c4333690141fe0ff7b3065f7b430c"
     },
     {
+      "path": "/resources/url-d35224f787e7ec21ce36/",
+      "indexable": true,
+      "sha256": "516cb2cc21d5670d0400b51ae71c75aafdb183045f802d799d086c1c9ccd9128"
+    },
+    {
       "path": "/resources/url-d7ad447ecd712c6d51b8/",
       "indexable": true,
       "sha256": "1c944f799b381fedb72ede10714453c4f534ff93f50a8592b5cac29f96f4143f"
@@ -9913,6 +9988,11 @@
       "path": "/resources/url-d9d8e68f19ef0956d189/",
       "indexable": true,
       "sha256": "db38acd3e21af207817b35dd61093b5be26c8a8cfd35f041fe0c134fab038d91"
+    },
+    {
+      "path": "/resources/url-de31b07ff24ab15d9bdf/",
+      "indexable": true,
+      "sha256": "d7a535fa15f468132e6064e4cf6b5c6aa41fabb2729f51f7949badd362f51af1"
     },
     {
       "path": "/resources/url-e062cf1445eaee0f3ade/",
@@ -9968,6 +10048,11 @@
       "path": "/resources/url-fe43af1801032be708cc/",
       "indexable": true,
       "sha256": "85ed32861977eda4d385154f0cb26220c2bde74ec1f2f3dfd3d8f65f144c8870"
+    },
+    {
+      "path": "/resources/url-fec1c5aa8fd93cb78923/",
+      "indexable": true,
+      "sha256": "123e941e3c30ce87f47e6550b3db274751029b39142663a3b145b30739783dcd"
     },
     {
       "path": "/resources/arxiv-0804-0272/",
@@ -10212,12 +10297,12 @@
     {
       "path": "/catalog/",
       "indexable": true,
-      "sha256": "f37b611234809ffafeaeaba3c669cf8ff586c5f23ce928b356587170e43698d9"
+      "sha256": "849e3afb4eef5aac100a72b7610bf007d117df32156d40f6ba0f9f96ca83d055"
     },
     {
       "path": "/categories/paper/",
       "indexable": true,
-      "sha256": "f0086213318dfdecc70c10a5d208692ecc19b451ce01220890a8b3e1a099d2d9"
+      "sha256": "6784ab04d44bb68103980c0ed81b9ea4610030a2a6b58d6f19f738e420f6b89f"
     },
     {
       "path": "/categories/survey/",
@@ -10227,17 +10312,17 @@
     {
       "path": "/categories/model/",
       "indexable": true,
-      "sha256": "85875335909e8c1b798e259265d059ae427f7c2600f5b1bc593873a95767feb9"
+      "sha256": "b4f17116646100505dcb25b65bb101c662d94b4f949c494c6796a8bd6c3e85a2"
     },
     {
       "path": "/categories/dataset/",
       "indexable": true,
-      "sha256": "0b4e93c654896741cf7ca57c61324a0df3e9eee799151b5b5f957dba9662ebc7"
+      "sha256": "e21a98f9ad24b19ec07f3254f5db8717073cd6fc60c898e17d212e882c4d5d97"
     },
     {
       "path": "/categories/benchmark/",
       "indexable": true,
-      "sha256": "b84576c60968db51b6402e2664f7ab2281196ca6fef77ece33dbb4da343785e7"
+      "sha256": "838909dee2269da42e6fd2d15849a458ba6dd059bc5361457eb95449f0171012"
     },
     {
       "path": "/categories/agent/",
@@ -10247,7 +10332,7 @@
     {
       "path": "/categories/framework/",
       "indexable": true,
-      "sha256": "64f211de3c74f2b8160b3914a227e1072385b75844c16f943e25fcd7e06da0bc"
+      "sha256": "41685eccb9b46f440e60ebc99a00ba4549567e0fc5021d3abb22004de84fd774"
     },
     {
       "path": "/categories/infrastructure/",
@@ -10272,32 +10357,32 @@
     {
       "path": "/compare/benchmarks/",
       "indexable": true,
-      "sha256": "91312ea5bcedd3a7be2fdeaecc9200f3bd2c63bff5e002b9c467a36877d90a4d"
+      "sha256": "3602457116f0a376cbc3a2ac7b14c80b8aee0c074842724d014a4b6ff2466705"
     },
     {
       "path": "/compare/datasets/",
       "indexable": true,
-      "sha256": "0817f1ec58853e2439b94bce2e0d8cb39344b85109da1e97ee0522bc135744e4"
+      "sha256": "1589ed48264040da9e1429ddf7a6ae2c3357e502fffbca5ad554295cd08d4bcb"
     },
     {
       "path": "/papers/",
       "indexable": true,
-      "sha256": "301e9f051d3827c1fe7b3d4b64ed07d5ca6cd6bc028af63af7b188b5eae0dfec"
+      "sha256": "813dc507c45c287603a41d62524167ccded355c20f7fdaefa56d32e7c150ac69"
     },
     {
       "path": "/connections/",
       "indexable": true,
-      "sha256": "8e27949a7fb61de81a1cfccff6c82446c27ff6e9868a424d362e65ac693f30ed"
+      "sha256": "f376901899d4fb312f2a9b7f6804a2b3180f5737c556a91b6a331ceeacf4e287"
     },
     {
       "path": "/coverage/",
       "indexable": true,
-      "sha256": "b03245ea5ff6b562d0ad28e243c12b28e35e34b72acd53880b95b3cec40ff122"
+      "sha256": "a5557f028f6fa6b437bbae19a9dedd77d8880293da3c664b56bab90581e5336c"
     },
     {
       "path": "/updates/",
       "indexable": true,
-      "sha256": "d7a24ba8fe3027f81a7f02dfb88a2fd65377b2cd040fecb420cb8ba1f42e48fa"
+      "sha256": "f9129f380123075306890d0ff3c69d0de3be06e72bdb64f9396d9c05094538b2"
     },
     {
       "path": "/about/",
@@ -10307,7 +10392,7 @@
     {
       "path": "/data/",
       "indexable": true,
-      "sha256": "a5038163f35c41d28fb46f861c282a22b1d0aa9b46e3b6d784ef4cd9e27a947c"
+      "sha256": "c1a00b233cfc46f723cfe30e1e4f6a0a3d2932f8951b32cd4def4e4ea2b4dae5"
     },
     {
       "path": "/guides/what-are-computer-use-agents/",
@@ -10332,12 +10417,12 @@
     {
       "path": "/zh/",
       "indexable": true,
-      "sha256": "319b372af7fdfbd3424a4b1dff5b2e06a63ff8d89817b1e8a6c91a24f25b2c83"
+      "sha256": "8219b80088543c63048f92eb1e32f772578e48d965a6d647c22acab444cea49a"
     },
     {
       "path": "/",
       "indexable": true,
-      "sha256": "ec6bcf2ff81694aecf44996062723ab88a30b5d9fdc4a5a9937c83e8b8728a1d"
+      "sha256": "082e45df56b07dfd933cd9ec902b9e57b39f447e5a9fa860a3898cfcf17324b6"
     }
   ]
 }

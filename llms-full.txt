@@ -1,6 +1,6 @@
 # AwesomeCUA curated resource annotations
 
-Evidence snapshot: 2026-10-16T13:29:25Z. These records were reviewed with AI assistance; experiments are not independently reproduced.
+Evidence snapshot: 2026-10-17T01:52:51Z. These records were reviewed with AI assistance; experiments are not independently reproduced.
 
 # Reinforcement Learning on Web Interfaces Using Workflow-Guided Exploration
 
@@ -10661,6 +10661,729 @@ Yuqi Huang, Hui Li, Yifei Cao, Zikun Cai, Tianci Xie, Yangfan Gao, Pinxue Guo, C
 
 ---
 
+# OpenMobile-2: Building Versatile Mobile Agents with Scalable Environments and App-Native Tools
+
+Introduces OpenMobile-2, combining simulated mobile apps, emulator tasks, released training data, and policies that can alternate GUI interaction with app-native tools.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-14157/
+- Original source: https://arxiv.org/abs/2610.14157
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android, web
+- Topics: mobile-navigation, tool-integration, data-generation, reinforcement-learning
+- Evidence checked: 2026-10-16T06:33:24Z
+- ID: arxiv:2610.14157
+
+## Limitations
+
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+
+## Authors
+
+Chenyang Yan, Yingying Zhang, Kanzhi Cheng, Qiushi Sun, Zhengyuan Pan, Zheng Ma, Hang Yan, Yian Wang, Nuo Chen, Jialin Cao, Xingdong Gong, Wenpo Song, Han Chen, Zichen Ding, Fangzhi Xu, Shujian Huang, Xinyu Dai, Yichen Liu, Tiankuo Yao, Bo Wang, Ben Kao, Jianbing Zhang, Lewei Lu, Dahua Lin
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29 (retrieved 2026-10-16T06:33:24Z; SHA-256 9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1)
+- https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29 (retrieved 2026-10-16T06:33:24Z; SHA-256 9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1)
+- https://os-copilot.github.io/OpenMobile2-Home/ (retrieved 2026-10-17T01:46:06Z; SHA-256 9b385e9f6aa2f7169f616a76887df3b76df605cb2bea071d99ee7ca3f9b659cc)
+
+---
+
+# Seg2Click: Learning Pixel-Level Action Masks for GUI Visual Grounding
+
+Recasts GUI grounding as predicting a mask of valid click locations from bounding-box supervision, then derives a click point with a deterministic selection rule.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-16234/
+- Original source: https://arxiv.org/abs/2610.16234
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: grounding, screen-understanding
+- Evidence checked: 2026-10-16T06:33:24Z
+- ID: arxiv:2610.16234
+
+## Limitations
+
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+
+## Authors
+
+Jingchao Wang, Dingjiang Huang
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29 (retrieved 2026-10-16T06:33:24Z; SHA-256 9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1)
+- https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29 (retrieved 2026-10-16T06:33:24Z; SHA-256 9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1)
+
+---
+
+# HyWe: Unifying Search and Operation for Real-World Hybrid Web Tasks
+
+Introduces HyWe, which switches between information search and browser operation within one trajectory, alongside a demonstration pipeline and a benchmark of hybrid web tasks.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-16319/
+- Original source: https://arxiv.org/abs/2610.16319
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, planning, data-generation
+- Evidence checked: 2026-10-16T06:33:24Z
+- ID: arxiv:2610.16319
+
+## Limitations
+
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+
+## Authors
+
+Zijian Cai, Haowei Liu, Kailai Chen, Lin Peng, Cong Wan, Ziqi Zhang, Chunfeng Yuan, Bing Li, Weiming Hu, Haiyang Xu
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29 (retrieved 2026-10-16T06:33:24Z; SHA-256 9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1)
+- https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29 (retrieved 2026-10-16T06:33:24Z; SHA-256 9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1)
+
+---
+
+# Learn from Move: the Next Step for GUI Agents
+
+Introduces LatentGUIWorld to test learning interface semantics and dynamics through interaction, and studies finer movement actions with intermediate visual feedback and exploration demonstrations.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-16720/
+- Original source: https://arxiv.org/abs/2610.16720
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: evaluation, grounding, reinforcement-learning
+- Evidence checked: 2026-10-16T06:36:29Z
+- ID: arxiv:2610.16720
+
+## Limitations
+
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+
+## Authors
+
+Jiahao Lu, Yize Shen, Chuanyuan Tan, Mianqiu Huang, Shicheng Fang, Xinchi Chen, Yining Zheng, Yuxin Wang, Xipeng Qiu
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+
+---
+
+# PrivacyGuard: Source-Linked Sanitization and Locally Resolvable PII References for Cloud GUI Agents
+
+Introduces PrivacyGuard, which sanitizes source-linked personal information and maintains locally resolvable references across mobile-agent turns to reduce exposure to remote planners.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-16778/
+- Original source: https://arxiv.org/abs/2610.16778
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: safety-security, mobile-navigation, evaluation
+- Evidence checked: 2026-10-16T06:36:29Z
+- ID: arxiv:2610.16778
+
+## Limitations
+
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+
+## Authors
+
+Zian Yuan, Wei Li
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+
+---
+
+# BrowseSafe++: Benchmarking Prompt Injection Detection Across Web Contexts, Languages, and Browser Views
+
+Extends BrowseSafe with paired attacked and clean webpages in several representations, and studies text and screenshot detectors plus feedback-adapted prompt injections.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-17457/
+- Original source: https://arxiv.org/abs/2610.17457
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: safety-security, evaluation, web-navigation
+- Evidence checked: 2026-10-16T06:33:24Z
+- ID: arxiv:2610.17457
+
+## Limitations
+
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+
+## Authors
+
+Yuetian Chen, Kaiyuan Zhang, Yuntao Du, Thomas Li, Mark Tenenholtz, Kyle Polley, Jerry Ma, Denis Yarats, Ninghui Li
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29 (retrieved 2026-10-16T06:33:24Z; SHA-256 9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1)
+- https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29 (retrieved 2026-10-16T06:33:24Z; SHA-256 9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1)
+
+---
+
+# Adaptive-Group Process Rewards for GUI Agents
+
+Groups GUI trajectories by subgoal and combines action-level and group-level assessments into intermediate rewards for training agents with sparse task outcomes.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-17710/
+- Original source: https://arxiv.org/abs/2610.17710
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: reinforcement-learning, long-horizon, planning
+- Evidence checked: 2026-10-16T06:36:29Z
+- ID: arxiv:2610.17710
+
+## Limitations
+
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+
+## Authors
+
+Zirui Shang, Yang Liu, Xin Shu, Zhi Gao, Xinxiao Wu, Lifeng Fan
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+
+---
+
+# MHVF: Training-Free GUI Grounding via Verification-Guided Multi-Hypothesis Search
+
+Introduces MHVF, a training-free grounding method that explores several candidate screen regions, verifies them in local views, and uses those checks to guide further search.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-17792/
+- Original source: https://arxiv.org/abs/2610.17792
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: grounding, screen-understanding, robustness
+- Evidence checked: 2026-10-16T06:36:29Z
+- ID: arxiv:2610.17792
+
+## Limitations
+
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+
+## Authors
+
+Minghua Chen, Xingming Liao, Weiqiang Zhong, Zhuowei Wang
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+
+---
+
+# Interaction-as-a-Judge
+
+Uses computer-use agents to interact with generated applications, studying whether interaction improves preference judging, requirement checks, and feedback for application generation.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-17895/
+- Original source: https://arxiv.org/abs/2610.17895
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, data-generation, automation
+- Evidence checked: 2026-10-16T06:33:24Z
+- ID: arxiv:2610.17895
+
+## Limitations
+
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+
+## Authors
+
+Wayne Chi, I-Hung Hsu, Li Chen, Wei-Lin Chiang, Ion Stoica, Anastasios Nikolas Angelopoulos, Ameet Talwalkar, Chris Donahue, Cho-Jui Hsieh
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29 (retrieved 2026-10-16T06:33:24Z; SHA-256 9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1)
+- https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29 (retrieved 2026-10-16T06:33:24Z; SHA-256 9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1)
+
+---
+
+# Learning How to Remember: Memory Modality Selection for GUI Agents
+
+Introduces SwitchMem, which chooses a textual or visual representation of retrieved experience at each GUI interaction step instead of fixing one memory modality for a task.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-17928/
+- Original source: https://arxiv.org/abs/2610.17928
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: memory, mobile-navigation
+- Evidence checked: 2026-10-16T06:36:29Z
+- ID: arxiv:2610.17928
+
+## Limitations
+
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced. Android platform tagging is additionally supported by the primary project documentation.
+
+## Authors
+
+Taeyun Roh, Suhyeong Park, Gijin Kim, Wonjune Jang, Jaewoo Kang
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+- https://raw.githubusercontent.com/dmis-lab/SwitchMem/HEAD/README.md (retrieved 2026-10-17T01:46:05Z; SHA-256 3fb5aabfb07df620955f0b74347f9d5926a1cd3d506b1098eccba9477627269f)
+
+---
+
+# Towards Safe Autonomy for Computer Use
+
+Presents SA-CUA, separating trusted and untrusted visual content using accessibility-derived masking rules and a controlled channel for verifying information before endorsement.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-18508/
+- Original source: https://arxiv.org/abs/2610.18508
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: safety-security, screen-understanding
+- Evidence checked: 2026-10-16T06:36:29Z
+- ID: arxiv:2610.18508
+
+## Limitations
+
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+
+## Authors
+
+Dominik Seip, Bartol Markovinović, Matthias Hein
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+
+---
+
+# Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents
+
+Introduces CarryOn, which maintains evidence-linked task objects and remaining-work context across history compression, with evaluations on desktop tasks and web research.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-18784/
+- Original source: https://arxiv.org/abs/2610.18784
+- Kind: paper
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, web
+- Topics: memory, long-horizon, efficiency
+- Evidence checked: 2026-10-16T06:33:24Z
+- ID: arxiv:2610.18784
+
+## Limitations
+
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+
+## Authors
+
+Yuchen Lu, Julian McAuley, Lei Zhang
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29 (retrieved 2026-10-16T06:33:24Z; SHA-256 9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1)
+- https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29 (retrieved 2026-10-16T06:33:24Z; SHA-256 9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1)
+
+---
+
+# GroundGUI: GUI Grounding by High-Quality Data and Distillation-to-Reinforcement Learning
+
+Introduces ScreenRef screenshot grounding data and a training sequence from supervised learning through teacher-guided distillation to reinforcement learning for GroundGUI-8B.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-19100/
+- Original source: https://arxiv.org/abs/2610.19100
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: desktop, web, cross-platform
+- Topics: grounding, data-generation, reinforcement-learning
+- Evidence checked: 2026-10-16T06:36:29Z
+- ID: arxiv:2610.19100
+
+## Limitations
+
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+
+## Authors
+
+Qingsong Xie, Jiahao Tian, Jiacheng Tang, Zhifeng Li, Madalina Ciobanu, Navan Preet Singh, Qingqing Mao, Ritankar Das
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+
+---
+
+# CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a Controllable and Verifiable Generation Pipeline
+
+Introduces CLASHarness, generating verifiable computer-use tasks with conflicting agent reports, shared-state constraints, and coordination requirements to evaluate conflict detection and resolution.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-19128/
+- Original source: https://arxiv.org/abs/2610.19128
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: evaluation, robustness, workflow
+- Evidence checked: 2026-10-16T06:36:29Z
+- ID: arxiv:2610.19128
+
+## Limitations
+
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+
+## Authors
+
+Yuxiang Lai, Jike Zhong, Chengzhi Liu, Ming Li, Haonan Wang, Xiaofeng Yang, Liang Zhao, Youbao Tang, Ruixi Fan
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+
+---
+
+# Teaching Agents in their Own Style: Blackbox Teacher Distillation for Web Agents
+
+Introduces WebKD, which repairs failed student web-agent trajectories with minimal teacher edits and trains on corrections that preserve the student's reasoning style.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-19834/
+- Original source: https://arxiv.org/abs/2610.19834
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: data-generation, web-navigation, efficiency
+- Evidence checked: 2026-10-16T06:36:29Z
+- ID: arxiv:2610.19834
+
+## Limitations
+
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+
+## Authors
+
+Md Farhan Ishmam, Kenneth Marino
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+
+---
+
+# How GUI Agents Fail: GraceBench for Execution Stability Diagnosis
+
+Introduces GraceBench, using application transition graphs and recorded interaction evidence to diagnose deviations, loops, and recovery that final task-success scores can hide.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-19900/
+- Original source: https://arxiv.org/abs/2610.19900
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: evaluation, mobile-navigation, robustness
+- Evidence checked: 2026-10-16T06:36:29Z
+- ID: arxiv:2610.19900
+
+## Limitations
+
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced. Android platform tagging is additionally supported by the primary project documentation.
+
+## Authors
+
+Ridong Zhang, Shuxian Liang, Chaoqun Wan, Zhen Huang, Xian-Sheng Hua
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+- https://iaie-physicalai.github.io/GraceBench (retrieved 2026-10-17T01:46:06Z; SHA-256 652e8369ef11334d76c0eb67afeaa5c9f7841fd31ca02243b0dfb1493316849a)
+
+---
+
+# Task-State Governance: A Virtual Machine for Verifiable and Recoverable GUI Agent Execution
+
+Presents TaskVM, an interface for specifying desired and preserved application state, checking agent actions, and exposing whether changes can be reversed or compensated.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-20100/
+- Original source: https://arxiv.org/abs/2610.20100
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: human-in-the-loop, safety-security, workflow
+- Evidence checked: 2026-10-16T06:36:29Z
+- ID: arxiv:2610.20100
+
+## Limitations
+
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+
+## Authors
+
+Wenkui Yang, Yiming Hao, Kai Zhou, Chengyu Pu, Yuzhe Zhang, Jie Cao, Jin Huang, Shuai Ma, Feng Tian
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+
+---
+
+# Why Generate a Click? Plug-in Decision Heads for Web Agents
+
+Adds decision heads to a frozen vision-language generator for selecting web actions and targets, with a confidence gate that falls back to text generation.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-20107/
+- Original source: https://arxiv.org/abs/2610.20107
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: efficiency, grounding, web-navigation
+- Evidence checked: 2026-10-16T06:36:29Z
+- ID: arxiv:2610.20107
+
+## Limitations
+
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+
+## Authors
+
+Chengguang Gan, Yunhao Liang, Hanjun Wei, Qinghao Zhang, Zhixi Cai, Shiwen Ni
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+
+---
+
+# STP-GUI: Spatially-Aware Token Pruning for Efficient Web-GUI Agents
+
+Introduces STP-GUI, which selects spatially coherent screenshot windows conditioned on the instruction to reduce visual tokens while retaining useful interface structure.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-20390/
+- Original source: https://arxiv.org/abs/2610.20390
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web, android
+- Topics: efficiency, grounding, screen-understanding
+- Evidence checked: 2026-10-16T06:36:29Z
+- ID: arxiv:2610.20390
+
+## Limitations
+
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+
+## Authors
+
+Shuo Wang, Sifan Zhou, Xiaobo Wang, Tianyu Fu, Chenxu Zhao, Anyang Su, Hanning Wang, Ping Jiang, Minghui Wu
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+
+---
+
+# Player-1: Learning to Play from Synthetic Experience
+
+Extends computer-use policies to game control through synthetic training environments and richer keyboard and pointer actions. Its evaluation concerns games rather than ordinary productivity workflows.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-20584/
+- Original source: https://arxiv.org/abs/2610.20584
+- Kind: paper
+- Review: curated
+- Scope: adjacent
+- Environments: unspecified
+- Topics: data-generation, reinforcement-learning, evaluation
+- Evidence checked: 2026-10-16T06:33:24Z
+- ID: arxiv:2610.20584
+
+## Limitations
+
+The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+
+## Authors
+
+Mingyu Ouyang, Yiran Wang, Siyuan Hu, Xingyilang Yin, Huiqiang Sun, Guangzhi Wang, Junfu Pu, Cheng Cheng, Honghao Chen, Ying Shan, Mike Zheng Shou, Hwee Tou Ng
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29 (retrieved 2026-10-16T06:33:24Z; SHA-256 9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1)
+- https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29 (retrieved 2026-10-16T06:33:24Z; SHA-256 9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1)
+
+---
+
 # MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments
 
 Unifies GUI evaluation, trajectory collection, environment synthesis, and online reinforcement learning across mobile, computer, and web tasks.
@@ -12046,6 +12769,38 @@ The README identifies model weights and dataset release as pending; this entry c
 
 ---
 
+# SwitchMem
+
+Memory-routing implementation that chooses text or image demonstrations for a frozen GUI actor, with offline evaluation and Android transfer experiments.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-dmis-lab-switchmem/
+- Original source: https://github.com/dmis-lab/SwitchMem
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: memory, mobile-navigation
+- Evidence checked: 2026-10-17T01:46:05Z
+- ID: github:dmis-lab/switchmem
+
+## Limitations
+
+The implementation distinguishes step-level AITW/LearnGUI scores from terminal task success on MobileMiniWoB++. Benchmark outcomes and local smoke-test outputs are different claims; neither was independently reproduced here.
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/dmis-lab/SwitchMem/HEAD/README.md (retrieved 2026-10-17T01:46:05Z; SHA-256 3fb5aabfb07df620955f0b74347f9d5926a1cd3d506b1098eccba9477627269f)
+- https://txxnrd.github.io/switchmem/ (retrieved 2026-10-17T01:48:10Z; SHA-256 cec8e4679c883f13983915e9f77d175a84a234d69386e78f9ea75157cefbdcb4)
+
+---
+
 # GUI-World
 
 GUI video data for understanding dynamic interfaces.
@@ -12753,6 +13508,38 @@ Inclusion does not establish reproducibility or endorsement.
 ## Primary evidence
 
 - https://github.com/jacklishufan/MobileWorld (retrieved 2026-10-16T06:40:51Z; SHA-256 dfcbaa088cc21dd4e3c67d6eb3b3a1dc476217165ce2ca0daa2facfda71b5a38)
+
+---
+
+# Seg2Click
+
+Training and inference implementation that predicts an executable-region mask and derives a GUI click from that mask.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-jcwang0602-seg2click/
+- Original source: https://github.com/jcwang0602/Seg2Click
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: cross-platform
+- Topics: grounding, screen-understanding
+- Evidence checked: 2026-10-17T01:46:05Z
+- ID: github:jcwang0602/seg2click
+
+## Limitations
+
+The repository provides training, evaluation, and a custom mask decoder. Its code license does not determine the licenses of the five model checkpoints. No model execution was performed.
+
+## License declarations
+
+- code: MIT — https://raw.githubusercontent.com/jcwang0602/Seg2Click/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/jcwang0602/Seg2Click/HEAD/README.md (retrieved 2026-10-17T01:46:05Z; SHA-256 2316acbef1207925b10b4770e14bdf69f6f4b6b3bc0ddb12e6be107d6f1425da)
+- https://raw.githubusercontent.com/jcwang0602/Seg2Click/HEAD/LICENSE (retrieved 2026-10-17T01:52:51Z; SHA-256 57bcc2eb985fa6036bf2bde7f28c4fd359c6b3479a658fea768162cac2a75ba5)
 
 ---
 
@@ -14196,6 +14983,88 @@ The repository has evolved substantially; computer-use functionality is document
 
 ---
 
+# MobileGym++ / MobileGym++ Bench
+
+Browser-rendered mobile simulation with resettable app state and a shared task suite for GUI-only and GUI-plus-tool agents.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-openmobile2-mobilegym-plusplus/
+- Original source: https://github.com/OpenMobile2/MobileGym-plusplus
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: mobile-navigation, evaluation, cross-app, tool-integration
+- Evidence checked: 2026-10-17T01:48:10Z
+- ID: github:openmobile2/mobilegym-plusplus
+
+## Limitations
+
+These clients simulate named commercial applications and are not those commercial products. The code and simulator data have distinct license files. No benchmark run was performed.
+
+## Structured profile
+
+- actions: GUI gestures, foreground-app tool calls in hybrid mode
+- evaluation: Programmatic checkers inspect changes in application state; both modes share task definitions and initial states.
+- focus: task completion, cross-application workflows, GUI and app-native tool comparison
+- observations: screenshots
+- setting: interactive
+
+### Count observations
+
+- 215 task definitions — official.json (computed) (computed; source: https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/bench_env/benchmark/official.json)
+- 63 simulated clients — complete simulator installation (reported; source: https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/README.md)
+- 35 simulated clients — new clients in this release (reported; source: https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/README.md)
+
+The task count was checked against unique task_id values in the published manifest. The 35 new clients are a subset of 63 total clients. This simulator runs in a browser; Android-emulator apps are a separate part of OpenMobile-2.
+
+## License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 d9f850ec196e715650e679cb81515adaa64ddc5a60a882bfe97b0f6a098ddc83)
+- https://os-copilot.github.io/OpenMobile2-Home/ (retrieved 2026-10-17T01:46:06Z; SHA-256 9b385e9f6aa2f7169f616a76887df3b76df605cb2bea071d99ee7ca3f9b659cc)
+- https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/bench_env/benchmark/official.json (retrieved 2026-10-17T01:50:11Z; SHA-256 35c1641b349201c68917fbe4c4036814487678e9588d9b1c903af26917800316)
+- https://raw.githubusercontent.com/OpenMobile2/MobileGym-plusplus/HEAD/LICENSE (retrieved 2026-10-17T01:52:51Z; SHA-256 7618cd7de039c264759ca8ca0b9130c6de63a4536dcf436baedd4cfbf639073e)
+
+---
+
+# OpenMobile-2 code
+
+Evaluation adapters and training guidance for OpenMobile-2 across Android emulators and browser-rendered mobile simulation.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-openmobile2-openmobile2-code/
+- Original source: https://github.com/OpenMobile2/OpenMobile2-Code
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: android, web
+- Topics: mobile-navigation, tool-integration, evaluation
+- Evidence checked: 2026-10-17T01:48:10Z
+- ID: github:openmobile2/openmobile2-code
+
+## Limitations
+
+The README marks evaluation code, checkpoints, environments, and data as released; data-construction scripts and other resources remain pending. Each benchmark runtime is started separately. Code terms do not establish dataset permissions.
+
+## License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/OpenMobile2/OpenMobile2-Code/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/OpenMobile2/OpenMobile2-Code/HEAD/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 485279038266d9454df75e27a80a0a0d71c24e90700126d2dcfa0da921b1273d)
+- https://raw.githubusercontent.com/OpenMobile2/OpenMobile2-Code/HEAD/LICENSE (retrieved 2026-10-17T01:52:51Z; SHA-256 b09fcaf4fbc265223c2479c410beef2b98c5e687c78ecedf3452aa12ffc465f1)
+
+---
+
 # OS-Atlas
 
 Foundation action models and data for GUI interaction.
@@ -14620,6 +15489,38 @@ Inclusion does not establish reproducibility or endorsement.
 ## Primary evidence
 
 - https://raw.githubusercontent.com/pixiebrix/agent-browser-shield/HEAD/README.md (retrieved 2026-10-16T06:36:05Z; SHA-256 8682f83d71dd4d44772db3e531f2a9fcb168729211e0cc43493020a0773b0aba)
+
+---
+
+# GroundGUI training and evaluation code
+
+Code for screenshot grounding through supervised training, teacher-guided distillation, reinforcement learning, and benchmark evaluation.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-prentisai-groundgui/
+- Original source: https://github.com/PrentisAI/GroundGUI
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: desktop, web, cross-platform
+- Topics: grounding, reinforcement-learning, data-generation
+- Evidence checked: 2026-10-17T01:46:05Z
+- ID: github:prentisai/groundgui
+
+## Limitations
+
+The repository documents separate training-stage environments. Code, model weights, and ScreenRef data have distinct license declarations; no training or benchmark execution was reproduced here.
+
+## License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/PrentisAI/GroundGUI/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/PrentisAI/GroundGUI/HEAD/README.md (retrieved 2026-10-17T01:46:05Z; SHA-256 a495bb4c86cf54cd5e2276433cfecb401fd133287406b1a7e04c3eaaac6305ac)
+- https://raw.githubusercontent.com/PrentisAI/GroundGUI/HEAD/LICENSE (retrieved 2026-10-17T01:52:51Z; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
 
 ---
 
@@ -17774,6 +18675,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+# OpenMobile-2 27B
+
+Mobile-agent checkpoint based on Qwen3.6-27B for GUI and app-native tool interaction.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-1611de0e6d606165d12d/
+- Original source: https://huggingface.co/OpenMobile-2/OpenMobile-2-27B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: android, web
+- Topics: mobile-navigation, tool-integration
+- Evidence checked: 2026-10-17T01:48:51Z
+- ID: url:1611de0e6d606165d12d
+
+## Limitations
+
+The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data.
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/OpenMobile-2/OpenMobile-2-27B/raw/main/README.md
+
+## Primary evidence
+
+- https://huggingface.co/OpenMobile-2/OpenMobile-2-27B/raw/main/README.md (retrieved 2026-10-17T01:48:51Z; SHA-256 ba760ab75e997941dabf0845b34e5fb83daeb83a5cfa16b13929477cfc61a31c)
+- https://huggingface.co/api/models/OpenMobile-2/OpenMobile-2-27B (retrieved 2026-10-17T01:49:48Z; SHA-256 c7e388efe1ecfd415b7b5af7f296e62646a0a1380037f1e57ad1a43c26463b9a)
+- https://os-copilot.github.io/OpenMobile2-Home/ (retrieved 2026-10-17T01:46:06Z; SHA-256 9b385e9f6aa2f7169f616a76887df3b76df605cb2bea071d99ee7ca3f9b659cc)
+- https://huggingface.co/OpenMobile-2/OpenMobile-2-27B/raw/main/README.md (retrieved 2026-10-17T01:48:51Z; SHA-256 ba760ab75e997941dabf0845b34e5fb83daeb83a5cfa16b13929477cfc61a31c)
+
+---
+
 # Browserless
 
 Hosted browser infrastructure for automation applications.
@@ -17802,6 +18737,39 @@ Inclusion does not establish reproducibility or endorsement.
 ## Primary evidence
 
 - https://www.browserless.io/ (retrieved 2026-10-16T06:38:28Z; SHA-256 e044e75ec1c2a74f2bee8c02b6efae05c399ec3537e34dd861dcf4a0a25dc182)
+
+---
+
+# Seg2Click Qwen2.5-VL 3B
+
+Seg2Click checkpoint based on Qwen2.5-VL-3B with a custom action-mask decoder.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-23ad240757185c6f7eac/
+- Original source: https://huggingface.co/jcwang0602/Seg2Click-Qwen2.5-VL-3B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform
+- Topics: grounding
+- Evidence checked: 2026-10-17T01:48:10Z
+- ID: url:23ad240757185c6f7eac
+
+## Limitations
+
+The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference. The card names the Qwen Research license, unlike the Apache-2.0 declarations on the Qwen3.5 variants.
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: other — https://huggingface.co/jcwang0602/Seg2Click-Qwen2.5-VL-3B/raw/main/README.md
+
+## Primary evidence
+
+- https://huggingface.co/jcwang0602/Seg2Click-Qwen2.5-VL-3B/raw/main/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 399895cd711d703ff4e016417ca14d13b76988c5625ff120e7083991eb0bd8f2)
+- https://huggingface.co/api/models/jcwang0602/Seg2Click-Qwen2.5-VL-3B (retrieved 2026-10-17T01:49:48Z; SHA-256 c580cb5bd811285944337c4ebb461fa498bba09e6082b70e120ceb83e302fcce)
+- https://huggingface.co/jcwang0602/Seg2Click-Qwen2.5-VL-3B/raw/main/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 399895cd711d703ff4e016417ca14d13b76988c5625ff120e7083991eb0bd8f2)
 
 ---
 
@@ -17913,6 +18881,39 @@ The Hub card supplies a license but no detailed schema. Dataset purpose is suppo
 - https://huggingface.co/api/datasets/stanfordnlp/nnetnav-wa (retrieved 2026-10-16T11:11:53Z; SHA-256 3fe40a45aa2bf9d6f0cefffc65ea6382849c3543b44017200a4a8d43ab61e9eb)
 - https://raw.githubusercontent.com/MurtyShikhar/NNetnav/HEAD/README.md (retrieved 2026-10-16T10:42:34Z; SHA-256 3095f7262b7d4ff916c6f58c55e6fc9902c08f77d09bf3951199945501148bb3)
 - https://huggingface.co/api/datasets/stanfordnlp/nnetnav-wa (retrieved 2026-10-16T11:11:53Z; SHA-256 3fe40a45aa2bf9d6f0cefffc65ea6382849c3543b44017200a4a8d43ab61e9eb)
+
+---
+
+# Seg2Click Qwen3.5 4B
+
+Seg2Click checkpoint pairing a 4B Qwen3.5 backbone with pixel-level action-mask prediction.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-29588aa5651b5839c045/
+- Original source: https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-4B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform
+- Topics: grounding
+- Evidence checked: 2026-10-17T01:48:10Z
+- ID: url:29588aa5651b5839c045
+
+## Limitations
+
+The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference.
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-4B/raw/main/README.md
+
+## Primary evidence
+
+- https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-4B/raw/main/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 98409c81aeba5c9261075ab720204842465041f7df3aee833b28a8e5d4347c56)
+- https://huggingface.co/api/models/jcwang0602/Seg2Click-Qwen3.5-4B (retrieved 2026-10-17T01:49:48Z; SHA-256 8c94e2115879f474e122cffafe4d14a4e898d832fe094d7f0fffcdba4a14f9d9)
+- https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-4B/raw/main/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 98409c81aeba5c9261075ab720204842465041f7df3aee833b28a8e5d4347c56)
 
 ---
 
@@ -18075,6 +19076,53 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+# GroundGUI RL Dataset
+
+Desktop grounding prompts selected from GroundCUA and formatted for click-based reinforcement learning with target-box rewards.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-4e71dc456c4112eed727/
+- Original source: https://huggingface.co/datasets/PrentisAI/GroundGUI_RL
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: grounding, reinforcement-learning, data-generation
+- Evidence checked: 2026-10-17T01:48:10Z
+- ID: url:4e71dc456c4112eed727
+
+## Limitations
+
+The card declares MIT and attributes the source examples to GroundCUA. Its separate claim about UI-Vision overlap is not independently validated by this catalog.
+
+## Structured profile
+
+- formats: Parquet
+- modalities: screenshots, text, coordinates
+- splits: train
+- supervision: instruction-to-click grounding, target bounding boxes
+
+### Count observations
+
+- 12,600 prompts — RL training corpus (reported; source: https://huggingface.co/datasets/PrentisAI/GroundGUI_RL/raw/main/README.md)
+- 11,205 screenshots — RL training corpus (reported; source: https://huggingface.co/datasets/PrentisAI/GroundGUI_RL/raw/main/README.md)
+- 87 desktop applications — RL training corpus (reported; source: https://huggingface.co/datasets/PrentisAI/GroundGUI_RL/raw/main/README.md)
+
+Publisher-reported counts cover a selection and reformatting of GroundCUA, not a new disjoint image collection. No independent image-overlap audit was performed.
+
+## License declarations
+
+- code: not recorded
+- data: mit — https://huggingface.co/datasets/PrentisAI/GroundGUI_RL/raw/main/README.md
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://huggingface.co/datasets/PrentisAI/GroundGUI_RL/raw/main/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 34f0025f686d0e48e2baa5244056a4362018aaad77ac54abea7f1f6eb25c4276)
+- https://huggingface.co/datasets/PrentisAI/GroundGUI_RL/raw/main/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 34f0025f686d0e48e2baa5244056a4362018aaad77ac54abea7f1f6eb25c4276)
+
+---
+
 # NNetNav Live data
 
 Browser-interaction data released with NNetNav for its live-website setting, with separate training and test files.
@@ -18152,6 +19200,101 @@ The repository gives conflicting episode totals (8,334 and 8,834). This profile 
 - https://raw.githubusercontent.com/OpenGVLab/GUI-Odyssey/HEAD/README.md (retrieved 2026-10-16T06:36:01Z; SHA-256 4585b765d7c8b3e9bb6187d36d576edde454d4c0158a6aa8b3fdbedf34c89a15)
 - https://raw.githubusercontent.com/OpenGVLab/GUI-Odyssey/HEAD/introduction.md (retrieved 2026-10-16T11:39:52Z; SHA-256 78c19ee712487af60df1913f11572958564e59a1a2cc663b1b30d971855d7a28)
 - https://huggingface.co/datasets/hflqf88888/GUIOdyssey/raw/main/README.md (retrieved 2026-10-16T11:39:52Z; SHA-256 fd627ee0a6ee0596e0ee8147996b9a7a3436f754fc95ed63cf5f408d778b2831)
+
+---
+
+# OpenMobile-Data-v2
+
+Mobile-agent supervision from emulator and simulator trajectories, plus executable tasks with starting states and success checks for reinforcement learning.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-546e6c95825d1318c98d/
+- Original source: https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: android, web
+- Topics: mobile-navigation, data-generation, reinforcement-learning, tool-integration
+- Evidence checked: 2026-10-17T01:48:51Z
+- ID: url:546e6c95825d1318c98d
+
+## Limitations
+
+The reviewed card contains no explicit license declaration, so data-license status remains unknown. The repository code license is not inherited. The current code README points to the v2 dataset; an older project-page URL was not counted as a separate asset.
+
+## Structured profile
+
+- formats: JSON, JSONL, PNG
+- modalities: screenshots, text, tool calls
+- splits: sft/train, rl/train
+- supervision: next-action supervision, verifiable task outcomes
+
+### Count observations
+
+- 11,643 trajectories — SFT collection (reported; source: https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2/raw/main/README.md)
+- 118,582 decision steps — SFT collection (reported; source: https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2/raw/main/README.md)
+- 2,475 executable tasks — RL collection (reported; source: https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2/raw/main/README.md)
+
+These are publisher-reported totals at three distinct grains, not values to sum. Earlier screenshots may be collapsed; each SFT example keeps at most three images. The card and repository disagree on the singular/plural RL filename, so consumers should inspect the actual file manifest.
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2/raw/main/README.md (retrieved 2026-10-17T01:48:51Z; SHA-256 abacf9a10759a9e7a8eeec5a266c96ed83742bd9296a19be95d09c9717e18b7c)
+- https://raw.githubusercontent.com/OpenMobile2/OpenMobile2-Code/HEAD/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 485279038266d9454df75e27a80a0a0d71c24e90700126d2dcfa0da921b1273d)
+
+---
+
+# ScreenRef
+
+GUI screenshots paired with localization instructions and targets, including absent-target examples; image access is gated under publisher terms.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-56bda04bd8d3a438deb3/
+- Original source: https://huggingface.co/datasets/PrentisAI/ScreenRef
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, web, android, linux
+- Topics: grounding, data-generation, screen-understanding
+- Evidence checked: 2026-10-17T01:48:51Z
+- ID: url:56bda04bd8d3a438deb3
+
+## Limitations
+
+The public Hub API reports gated=auto and a Restricted Research-Only declaration. The companion card distinguishes annotations from screenshots and limits reuse. Access terms were inspected as public metadata; no access agreement was accepted or gated files downloaded.
+
+## Structured profile
+
+- formats: Parquet
+- modalities: screenshots, text, coordinates
+- splits: train
+- supervision: instruction-to-click grounding, bounding boxes, absent-target abstention
+
+### Count observations
+
+- 585,981 distinct screenshots — ScreenRef image inventory (reported; source: https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md)
+- 633,369 annotation rows — full recipe (reported; source: https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md)
+- 22,475 annotation rows — refusal subset of full recipe (reported; source: https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md)
+
+The publisher reports these inventories in the companion annotation card. The refusal subset is included in the full recipe. Screenshot access is gated; no image download or independent corpus recount was performed.
+
+## License declarations
+
+- code: not recorded
+- data: other — https://huggingface.co/datasets/PrentisAI/ScreenRef
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://huggingface.co/api/datasets/PrentisAI/ScreenRef (retrieved 2026-10-17T01:48:51Z; SHA-256 634b479c7d089e50735f6d4a25f78a63f4d0c2a8c1955015e7641b7afd61c317)
+- https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 96a87222645c3f823e6f67e50708792e2917ddeb8eea5aacdf2de8c5bbff165f)
+- https://huggingface.co/api/datasets/PrentisAI/ScreenRef (retrieved 2026-10-17T01:48:51Z; SHA-256 634b479c7d089e50735f6d4a25f78a63f4d0c2a8c1955015e7641b7afd61c317)
 
 ---
 
@@ -18408,6 +19551,39 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+# Seg2Click Qwen3.5 0.8B
+
+Compact Seg2Click checkpoint with a merged Qwen3.5 backbone and an action-mask decoder.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-7405463ba56f9a41e79a/
+- Original source: https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-0.8B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform
+- Topics: grounding
+- Evidence checked: 2026-10-17T01:48:10Z
+- ID: url:7405463ba56f9a41e79a
+
+## Limitations
+
+The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference.
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-0.8B/raw/main/README.md
+
+## Primary evidence
+
+- https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-0.8B/raw/main/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 8130a68ede5391bd158ce2cc49c36c5f8c8ebf22b897db6f68e27babbbc66965)
+- https://huggingface.co/api/models/jcwang0602/Seg2Click-Qwen3.5-0.8B (retrieved 2026-10-17T01:49:48Z; SHA-256 6bd2608de2715e3d76a0c9e9b8fd7540372bfd2f9864db0445d8e548c9afb518)
+- https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-0.8B/raw/main/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 8130a68ede5391bd158ce2cc49c36c5f8c8ebf22b897db6f68e27babbbc66965)
+
+---
+
 # OpenAI CUA
 
 Computer-using model introduced with the Operator research preview.
@@ -18544,6 +19720,39 @@ Inclusion does not establish reproducibility or endorsement.
 ## Primary evidence
 
 - https://www.browseract.com/ (retrieved 2026-10-16T06:38:28Z; SHA-256 463db02b607e7215a4421440c4d274ee3546bd9eefc50ed9e10f64d27d7f8f38)
+
+---
+
+# Seg2Click Qwen3.5 9B
+
+Seg2Click checkpoint pairing a 9B Qwen3.5 backbone with a decoder for valid GUI click regions.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-826f3753905c5c43bf46/
+- Original source: https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-9B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform
+- Topics: grounding
+- Evidence checked: 2026-10-17T01:48:10Z
+- ID: url:826f3753905c5c43bf46
+
+## Limitations
+
+The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference.
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-9B/raw/main/README.md
+
+## Primary evidence
+
+- https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-9B/raw/main/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 feeb30bda7f86e10d87bdc1b0148d0632aba6df1676931a3d6c65cbdf197df3e)
+- https://huggingface.co/api/models/jcwang0602/Seg2Click-Qwen3.5-9B (retrieved 2026-10-17T01:49:48Z; SHA-256 f215590b7a7b510085f7f99a8c236816604d4c11a8f5ae544b4ee75771dd4f82)
+- https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-9B/raw/main/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 feeb30bda7f86e10d87bdc1b0148d0632aba6df1676931a3d6c65cbdf197df3e)
 
 ---
 
@@ -19099,6 +20308,52 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+# ScreenRef Annotations
+
+Annotation files, task recipes, and image manifests for ScreenRef; screenshots reside in the separately gated image repository.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-c1db2ba79e6d6a3db2b9/
+- Original source: https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations
+- Kind: dataset
+- Review: curated
+- Scope: core
+- Environments: desktop, web, android, linux
+- Topics: grounding, data-generation
+- Evidence checked: 2026-10-17T01:48:10Z
+- ID: url:c1db2ba79e6d6a3db2b9
+
+## Limitations
+
+The card declares restricted academic research use and no redistribution. Annotation coordinates use a normalized 1000 by 1000 space. Some source instructions name gestures other than the single-click target; the publisher recommends treating those as location supervision.
+
+## Structured profile
+
+- formats: JSONL, JSON task recipes, TSV manifests
+- modalities: text, coordinates, image references
+- splits: full/train, point/train
+- supervision: instruction-to-click grounding, bounding boxes, absent-target abstention
+
+### Count observations
+
+- 633,369 annotation rows — full recipe (reported; source: https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md)
+- 610,894 annotation rows — point recipe (reported; source: https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md)
+
+The recipes reuse source images and are not additive datasets. This download contains no screenshots. Counts are publisher-reported; rows named for trajectories are independent decision examples, not full trajectories.
+
+## License declarations
+
+- code: not recorded
+- data: other — https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 96a87222645c3f823e6f67e50708792e2917ddeb8eea5aacdf2de8c5bbff165f)
+- https://huggingface.co/datasets/PrentisAI/ScreenRef-Annotations/raw/main/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 96a87222645c3f823e6f67e50708792e2917ddeb8eea5aacdf2de8c5bbff165f)
+
+---
+
 # UGround V1 Data
 
 Training data released with UGround V1.
@@ -19336,6 +20591,40 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+# OpenMobile-2 9B
+
+Mobile-agent checkpoint trained on OpenMobile-Data-v2 for screenshot actions and app-native tool calls.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-d35224f787e7ec21ce36/
+- Original source: https://huggingface.co/OpenMobile-2/OpenMobile-2-9B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: android, web
+- Topics: mobile-navigation, tool-integration
+- Evidence checked: 2026-10-17T01:48:51Z
+- ID: url:d35224f787e7ec21ce36
+
+## Limitations
+
+The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data.
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/OpenMobile-2/OpenMobile-2-9B/raw/main/README.md
+
+## Primary evidence
+
+- https://huggingface.co/OpenMobile-2/OpenMobile-2-9B/raw/main/README.md (retrieved 2026-10-17T01:48:51Z; SHA-256 09c59e6b35a5fe1eea528595f326546269ea8a2a75aa404f1f7950b9de5f30d1)
+- https://huggingface.co/api/models/OpenMobile-2/OpenMobile-2-9B (retrieved 2026-10-17T01:49:48Z; SHA-256 1aab6befd309e54ba71676670039b4098362974ce0ce89b25872f137d50c103f)
+- https://os-copilot.github.io/OpenMobile2-Home/ (retrieved 2026-10-17T01:46:06Z; SHA-256 9b385e9f6aa2f7169f616a76887df3b76df605cb2bea071d99ee7ca3f9b659cc)
+- https://huggingface.co/OpenMobile-2/OpenMobile-2-9B/raw/main/README.md (retrieved 2026-10-17T01:48:51Z; SHA-256 09c59e6b35a5fe1eea528595f326546269ea8a2a75aa404f1f7950b9de5f30d1)
+
+---
+
 # GELab Zero 4B Preview
 
 Released model checkpoint associated with GELab Zero.
@@ -19427,6 +20716,39 @@ Dataset card declares multiple upstream licenses; do not treat the package as ha
 ## Primary evidence
 
 - https://huggingface.co/datasets/Qwen/RecreationBench/raw/main/README.md (retrieved 2026-10-16T06:50:49Z; SHA-256 79deaa899d085ece77a127d53b12ddb9edea8a796943f35b75e9acec67bcb976)
+
+---
+
+# GroundGUI-8B
+
+Screenshot grounding checkpoint that emits a single click in a normalized coordinate space.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-de31b07ff24ab15d9bdf/
+- Original source: https://huggingface.co/PrentisAI/GroundGUI-8B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: desktop, web, cross-platform
+- Topics: grounding, screen-understanding
+- Evidence checked: 2026-10-17T01:48:10Z
+- ID: url:de31b07ff24ab15d9bdf
+
+## Limitations
+
+The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data.
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/PrentisAI/GroundGUI-8B/raw/main/README.md
+
+## Primary evidence
+
+- https://huggingface.co/PrentisAI/GroundGUI-8B/raw/main/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 73a4690fab49d3b08ea9b0b1e44d62d5ec1802614f5cf22c37ed92dca49aa520)
+- https://huggingface.co/api/models/PrentisAI/GroundGUI-8B (retrieved 2026-10-17T01:49:48Z; SHA-256 8b680b9a63e654fe0b43754201d30c91714859578f294f4781e035280e862657)
+- https://huggingface.co/PrentisAI/GroundGUI-8B/raw/main/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 73a4690fab49d3b08ea9b0b1e44d62d5ec1802614f5cf22c37ed92dca49aa520)
 
 ---
 
@@ -19819,3 +21141,36 @@ Raw and Parquet folders are alternative views of the same data. Each sample desc
 ## Primary evidence
 
 - https://huggingface.co/datasets/h-siyuan/ScreenDrag/raw/main/README.md (retrieved 2026-10-16T11:12:56Z; SHA-256 39c7c028f7ef5ca5c75f79b59a107c7e25444776095a2a08bb7535c4f523f7fa)
+
+---
+
+# Seg2Click Qwen3.5 2B
+
+Seg2Click checkpoint using a 2B Qwen3.5 backbone to predict a mask and select an interface click.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-fec1c5aa8fd93cb78923/
+- Original source: https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-2B
+- Kind: model
+- Review: curated
+- Scope: core
+- Environments: cross-platform
+- Topics: grounding
+- Evidence checked: 2026-10-17T01:48:10Z
+- ID: url:fec1c5aa8fd93cb78923
+
+## Limitations
+
+The public Hub manifest lists weight files; the catalog did not download weights or reproduce inference. License declarations apply to this checkpoint separately from code and training data. The checkpoint includes a merged backbone and mask decoder; a generic text-generation pipeline alone does not implement mask-to-click inference.
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: apache-2.0 — https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-2B/raw/main/README.md
+
+## Primary evidence
+
+- https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-2B/raw/main/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 08d14b9dc3010365e543cbb6707b67c5d792118451bbc2d0b70f1f0280cb20e1)
+- https://huggingface.co/api/models/jcwang0602/Seg2Click-Qwen3.5-2B (retrieved 2026-10-17T01:49:48Z; SHA-256 7b3242c3943537b6a26d8650a78c45044dce06a031ca2ce8bc67d5e482a332ce)
+- https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-2B/raw/main/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 08d14b9dc3010365e543cbb6707b67c5d792118451bbc2d0b70f1f0280cb20e1)
