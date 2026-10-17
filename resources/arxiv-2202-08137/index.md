@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Peter C Humphreys, David Raposo, Toby Pohlen, Gregory Thornton, Rachita Chhaparia, Alistair Muldal, Josh Abramson, Petko Georgiev, Alex Goldin, Adam Santoro, Timothy Lillicrap
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2202.08137v2
+- First submission: 2022-02-16T15:23:46Z
+- Version updated: 2022-11-11T13:45:44Z
+- Abstract SHA-256: 94129847ac85f4a8aeab74907cc68a31c435b078ab950695d9328b6c3896b46d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

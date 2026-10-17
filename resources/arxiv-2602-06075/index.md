@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Guangyi Liu, Pengxiang Zhao, Yaozhen Liang, Qinyi Luo, Shunye Tang, Yuxiang Chai, Weifeng Lin, Han Xiao, WenHao Wang, Siheng Chen, Zhengxi Lu, Gao Wu, Hao Wang, Liang Liu, Yong Liu
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2602.06075v3
+- First submission: 2026-02-03T17:01:59Z
+- Version updated: 2026-08-27T06:48:18Z
+- Abstract SHA-256: 0692d6936a3e3c20a7ad61c69ae770f5669c3783ff837092254f8b3fb170cd0a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

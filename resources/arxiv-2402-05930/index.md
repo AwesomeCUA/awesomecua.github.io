@@ -20,6 +20,15 @@ Summary and topic tags reviewed against the primary abstract. Reported experimen
 
 Xing Han Lù, Zdeněk Kasner, Siva Reddy
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2402.05930v2
+- First submission: 2024-02-08T18:58:02Z
+- Version updated: 2024-09-10T22:22:43Z
+- Abstract SHA-256: 6a7c1a1f260f9287e8999525e1adc5534a70f7b96271d469973fceee1ac23609
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Terufumi Yamaguchi, Sumito Tsunegi, Kohei Nakajima, Tomohiro Taniguchi
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2302.03769v1
+- First submission: 2023-02-07T22:00:18Z
+- Version updated: 2023-02-07T22:00:18Z
+- Abstract SHA-256: d9eb32a8c5d427c162222dfc93360c6258573fb870fb74956bcd90e4426ba1eb
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

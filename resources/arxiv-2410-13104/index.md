@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ali Al-Bayaty, Marek Perkowski
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2410.13104v1
+- First submission: 2024-10-17T00:29:29Z
+- Version updated: 2024-10-17T00:29:29Z
+- Abstract SHA-256: 427c6c6d0402ca03b8fc7cfbd856be6b5d9459d859aec93433e3635b06c75d93
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

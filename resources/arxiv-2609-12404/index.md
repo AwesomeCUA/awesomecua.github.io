@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yu Bai, Yukai Miao, Dawei Wang, Li Chen, Yanyu Ren, Yuqian Shi, Dan Li, Ying Xiong, Chengqiu Tan, Run Zhou, Li Li
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.12404v1
+- First submission: 2026-09-11T03:54:02Z
+- Version updated: 2026-09-11T03:54:02Z
+- Abstract SHA-256: ff3b4cec8066a54cd58a6d4dd2b245536fa36a3157622565dc0b69ae7eb151f6
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

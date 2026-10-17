@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Fereydoun Farrahi Moghaddam, Mohamed Cheriet
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/1510.05182v2
+- First submission: 2015-10-17T23:33:20Z
+- Version updated: 2017-11-01T12:55:42Z
+- Abstract SHA-256: 4b4cebcc4e12696ff0646e256ebece523ebc2d6a571faa640f8cf139b40131ca
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

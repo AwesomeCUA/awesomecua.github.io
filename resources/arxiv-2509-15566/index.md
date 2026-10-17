@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shaojie Zhang, Ruoceng Zhang, Pei Fu, Shaokang Wang, Jiahui Yang, Xin Du, Shiqi Cui, Bin Qin, Ying Huang, Zhenbo Luo, Jian Luan
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2509.15566v4
+- First submission: 2025-09-19T04:03:44Z
+- Version updated: 2025-10-27T11:34:58Z
+- Abstract SHA-256: d190eefae9309d87f4ea4780d3483ae0ebd834e0bf70e7f2af204c3788d87e7e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

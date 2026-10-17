@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Apurva Gandhi, Vishwas Suryanarayanan, Raja Hasnain Anwar, Firoz Shaik, Shubhang Desai, Thong Q. Nguyen, Muhammad Taqi Raza, Vishal Chowdhary, Graham Neubig
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.31154v1
+- First submission: 2026-06-30T05:26:51Z
+- Version updated: 2026-06-30T05:26:51Z
+- Abstract SHA-256: 47d2057e8cf064eac0e50c621a6fb2cccacc2aa57f92b9a552753d38c224c1ad
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

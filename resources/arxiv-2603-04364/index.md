@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Haoyu Liu, Dingcheng Li, Lukas Rutishauser, Zeyu Zheng
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2603.04364v2
+- First submission: 2026-03-04T18:29:54Z
+- Version updated: 2026-10-05T23:01:49Z
+- Abstract SHA-256: 971770e61bf0af91ad1f17b197f09fc166b26bfb4953d3f2c74d457a87e25f3a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

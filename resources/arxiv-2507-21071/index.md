@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Qinglong Yang, Haoming Li, Haotian Zhao, Xiaokai Yan, Jingtao Ding, Fengli Xu, Yong Li
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2507.21071v2
+- First submission: 2025-06-09T06:38:41Z
+- Version updated: 2026-03-16T09:14:01Z
+- Abstract SHA-256: 947c85efc189635a118b823b8ca0787ff6b1c922d1af8b21a8686b7df9a27cf8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

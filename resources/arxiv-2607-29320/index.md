@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Hang Yan, Zhangxuan GU, Beitong Zhou, Jiaxuan Chen, Runze Li, Yusong Hu, Shuheng Shen, Changhua Meng
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2607.29320v1
+- First submission: 2026-07-31T11:51:04Z
+- Version updated: 2026-07-31T11:51:04Z
+- Abstract SHA-256: dfffaffc68695489e2a705515378112b232e66b6f9e8e3a9bd5df04be95bd2c9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

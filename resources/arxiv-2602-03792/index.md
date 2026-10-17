@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xilong Wang, Yinuo Liu, Zhun Wang, Dawn Song, Neil Gong
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2602.03792v1
+- First submission: 2026-02-03T17:55:04Z
+- Version updated: 2026-02-03T17:55:04Z
+- Abstract SHA-256: 86702018906e64294d7b8daea618c5f152e8b94b604d27d6b164e82aff462564
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

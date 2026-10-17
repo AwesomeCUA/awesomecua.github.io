@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhe Wu, Donglin Mo, Hongjin Lu, Junliang Xing, Jianheng Liu, Yuheng Jing, Kai Li, Kun Shao, Jianye Hao, Yuanchun Shi
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2603.00676v1
+- First submission: 2026-02-28T14:33:14Z
+- Version updated: 2026-02-28T14:33:14Z
+- Abstract SHA-256: 4196cc95428b3bc00393b053bc5d12b72bc2b16440aa117e98fa7ef05d68f0cc
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

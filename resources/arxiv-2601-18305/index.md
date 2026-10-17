@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xuan Wang, Siyuan Su, Quantong Fu, Yongxiang Hu, Yangfan Zhou
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2601.18305v2
+- First submission: 2026-01-26T09:35:10Z
+- Version updated: 2026-08-20T07:50:44Z
+- Abstract SHA-256: cb90eed33e989d38cd4058d54ba7d073f1b8e5c1453a9106dfe5e533da7b08a1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Changsoo Je, Min Tang, Youngeun Lee, Minkyoung Lee, Young J. Kim
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1508.06181v1
+- First submission: 2015-08-25T15:01:47Z
+- Version updated: 2015-08-25T15:01:47Z
+- Abstract SHA-256: 8e846aba6270a7f2cfdb29e9cdba2a015282e8ba0a16077c036bb4c6b32843fa
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

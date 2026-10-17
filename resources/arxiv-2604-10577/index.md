@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xuwei Ding, Skylar Zhai, Linxin Song, Jiate Li, Taiwei Shi, Nicholas Meade, Siva Reddy, Jian Kang, Jieyu Zhao
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2604.10577v2
+- First submission: 2026-04-12T10:52:42Z
+- Version updated: 2026-04-17T07:20:03Z
+- Abstract SHA-256: cffb933e5ed31a9cdfb7d644b2ceecb8114630061b85860eb890cebdcd2d0a92
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Nir Friedman, Dan Geiger, Noam Lotner
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1301.3855v1
+- First submission: 2013-01-16T15:50:10Z
+- Version updated: 2013-01-16T15:50:10Z
+- Abstract SHA-256: 73fcc37132774c6279a3ebb2d5371679724bf9fe107733e21bd8efd466fb8d7f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

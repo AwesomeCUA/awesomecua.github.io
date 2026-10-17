@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Prasanna Date, Shruti Kulkarni, Aaron Young, Catherine Schuman, Thomas Potok, Jeffrey Vetter
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2208.07468v1
+- First submission: 2022-08-15T23:18:26Z
+- Version updated: 2022-08-15T23:18:26Z
+- Abstract SHA-256: 3f73cd8b8905f4aafd18ca6a3cbd98c03b341727c2dd3e0fbb8d915741a1b2bf
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

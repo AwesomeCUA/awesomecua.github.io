@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 William Lugoloobi, Samuelle Marro, Jabez Magomere, Joss Wright, Chris Russell
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.14786v1
+- First submission: 2026-05-14T12:55:19Z
+- Version updated: 2026-05-14T12:55:19Z
+- Abstract SHA-256: 69afd6b998ab3d284ef83513914b3892c6dc8d2a383f332467176b4dd7b03c7d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

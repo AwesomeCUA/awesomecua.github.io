@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yijie Lu, Manman Zhao, Tianjie Ju, Zihe Yan, Xinbei Ma, Yuan Guo, Daizong Ding, Gongshen Liu, Zhuosheng Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2505.14289v2
+- First submission: 2025-05-20T12:41:05Z
+- Version updated: 2026-06-05T10:24:33Z
+- Abstract SHA-256: 2c256d8b0d774efdeee896860f8c504c0d1593215508fdf0881d3fd3cdc3968c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

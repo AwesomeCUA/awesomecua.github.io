@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Nancy Xu, Sam Masling, Michael Du, Giovanni Campagna, Larry Heck, James Landay, Monica S Lam
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2103.16057v2
+- First submission: 2021-03-30T04:02:34Z
+- Version updated: 2021-04-04T23:51:14Z
+- Abstract SHA-256: e00b8f1b34097455ece2cf97efabbb64f398e3fffdec13394f731096672dc654
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Alain Denzler, Rahul Bera, Nastaran Hajinazar, Gagandeep Singh, Geraldo F. Oliveira, Juan Gómez-Luna, Onur Mutlu
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2112.14216v4
+- First submission: 2021-12-28T16:45:56Z
+- Version updated: 2023-09-05T20:13:46Z
+- Abstract SHA-256: 065a3310e52d540659bf73406838c93eabd6109b35cdb83b398835a5c9ad1149
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Alexander Gill, Md Farhan Ishmam, Xuyen Nguyen, Neha Bhat, Parker Henry DeYoung, Fateme Hashemi Chaleshtori, Nathan Stringham, Kenneth Marino, Ana Marasović
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.30604v1
+- First submission: 2026-09-24T22:36:10Z
+- Version updated: 2026-09-24T22:36:10Z
+- Abstract SHA-256: d6ed206d8f8fec53c03956fffcafec6b55d94a47fc705bbc8b77c832b76419e6
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

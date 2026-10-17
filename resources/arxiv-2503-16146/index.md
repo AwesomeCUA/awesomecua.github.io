@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Talip Tolga Sarı, Gökhan Seçinti, Angelo Trotta
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2503.16146v3
+- First submission: 2025-03-20T13:49:15Z
+- Version updated: 2026-04-08T17:16:15Z
+- Abstract SHA-256: 3427cf305d9270d51ab74b1ea5511f74eac68da3404a708875c9f149729a61fe
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

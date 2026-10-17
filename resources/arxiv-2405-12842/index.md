@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Arushi Jain, Shubham Paliwal, Monika Sharma, Lovekesh Vig, Gautam Shroff
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2405.12842v1
+- First submission: 2024-05-21T14:49:12Z
+- Version updated: 2024-05-21T14:49:12Z
+- Abstract SHA-256: ca8d7e7dc3a537573ac3990d532589cdca12bf441ee40521cc46044fd10c5263
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

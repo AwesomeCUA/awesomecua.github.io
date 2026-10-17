@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jingkang Yang, Yuhao Dong, Shuai Liu, Bo Li, Ziyue Wang, Chencheng Jiang, Haoran Tan, Jiamu Kang, Yuanhan Zhang, Kaiyang Zhou, Ziwei Liu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2310.08588v2
+- First submission: 2023-10-12T17:59:58Z
+- Version updated: 2024-10-20T17:57:03Z
+- Abstract SHA-256: af5f7992246baa7b724a7d30fcbedfd2d0823d47c1f5af0a71fcbe4c1782e8e0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Ruichen Zhang, Mufan Qiu, Zhen Tan, Mohan Zhang, Vincent Lu, Jie Peng, Kaidi Xu, Leandro Z. Agudelo, Peter Qian, Tianlong Chen
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2502.07942v2
+- First submission: 2025-02-11T20:41:49Z
+- Version updated: 2025-03-06T19:40:57Z
+- Abstract SHA-256: 0535de4778b6a31adb64f833733ebf94acf54ba872d98afd40b3e1012fb737fd
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

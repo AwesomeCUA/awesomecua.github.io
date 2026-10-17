@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yao Zhang, Shijie Tang, Zeyu Li, Zhen Han, Volker Tresp
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2601.21872v2
+- First submission: 2026-01-29T15:39:50Z
+- Version updated: 2026-04-09T17:48:11Z
+- Abstract SHA-256: 68ae67856eb871d9a8f259dfb180bde02d29ee97fd7abf0e60719fc2c7abd7ab
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

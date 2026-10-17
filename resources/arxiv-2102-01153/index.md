@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Tirthak Patel, Devesh Tiwari
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2102.01153v1
+- First submission: 2021-02-01T20:43:53Z
+- Version updated: 2021-02-01T20:43:53Z
+- Abstract SHA-256: 613756875bf96eff636d013d6bba333ff812229fa6e529d565c4d9e815d70719
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Segev Shlomov, Avi Yaeli, Sami Marreed, Sivan Schwartz, Netanel Eder, Offer Akrabi, Sergey Zeltyn
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2407.15673v3
+- First submission: 2024-07-22T14:41:32Z
+- Version updated: 2024-08-18T09:02:43Z
+- Abstract SHA-256: 4caa87e0b88d9375a23ca412ed19b3806f67712ca4ac222a39746e08ee80b07d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

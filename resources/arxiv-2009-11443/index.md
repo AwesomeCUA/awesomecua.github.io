@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Hung Le, Svetha Venkatesh
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2009.11443v1
+- First submission: 2020-09-24T01:39:16Z
+- Version updated: 2020-09-24T01:39:16Z
+- Abstract SHA-256: 840c735abb180e2226220e8ce09c177b50492666647e071a851b0e6e91ff2f9c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

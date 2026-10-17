@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Qian Yu, Alberto M. Alonso, Jackie Caminiti, Kristin M. Beck, R. Tyler Sutherland, Dietrich Leibfried, Kayla J. Rodriguez, Madhav Dhital, Boerge Hemmerling, Hartmut Häffner
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2112.04034v1
+- First submission: 2021-12-07T23:10:19Z
+- Version updated: 2021-12-07T23:10:19Z
+- Abstract SHA-256: 706d921629bedf0a1349c61933e754b24bb984acb8103f6d9d97e015bb73ad2b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

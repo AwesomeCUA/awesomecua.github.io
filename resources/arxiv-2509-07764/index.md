@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Haitao Hu, Peng Chen, Yanpeng Zhao, Yuqi Chen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2509.07764v1
+- First submission: 2025-09-09T13:59:00Z
+- Version updated: 2025-09-09T13:59:00Z
+- Abstract SHA-256: ae582aceb31075c460a9e4a6dce9978574c3e0ada731b26c13738a4a4fafcc32
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

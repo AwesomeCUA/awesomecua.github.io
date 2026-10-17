@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 K. Sozos, A. Bogris, P. Bienstman, G. Sarantoglou, S. Deligiannidis, C. Mesaritakis
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2203.15807v1
+- First submission: 2022-03-29T09:13:00Z
+- Version updated: 2022-03-29T09:13:00Z
+- Abstract SHA-256: 2e528a39d84abdbc6500d52e6578d82b78e706434d9da5587db3320eb4f8fe98
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

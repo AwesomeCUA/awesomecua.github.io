@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Aiden Yiliu Li, Xinyue Hao, Shilong Liu, Mengdi Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2602.02468v1
+- First submission: 2026-02-02T18:50:07Z
+- Version updated: 2026-02-02T18:50:07Z
+- Abstract SHA-256: a5b730fa81936d6a1b2b0a8b74a522a22de39b977929165c44a5050e490c301f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

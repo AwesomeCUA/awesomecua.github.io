@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 John P. T. Stenger, C. Stephen Hellberg, Daniel Gunlycke
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2305.19014v1
+- First submission: 2023-05-30T13:10:44Z
+- Version updated: 2023-05-30T13:10:44Z
+- Abstract SHA-256: 4fb07ca894b1c33070365ccf2ee8b75c8968a1e3fad6584a5e32533894e62aab
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

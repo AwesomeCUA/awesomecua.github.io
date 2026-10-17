@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Dawit Zeleke Admassu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2410.00395v1
+- First submission: 2024-10-01T04:35:44Z
+- Version updated: 2024-10-01T04:35:44Z
+- Abstract SHA-256: 8c65f99aa129a9aa4b151238575e34b771172e633baa032abc2412808e3ad042
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yong Du, Tongbo Chen, Zhengxi Lu, Yizhou Liu, Bofan Chen, Tao Jiang, Wenhao Xu, Yongliang Shen
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2609.40253v2
+- First submission: 2026-09-30T17:40:09Z
+- Version updated: 2026-10-01T17:50:14Z
+- Abstract SHA-256: 8f3745b6b497c8819dc990bdb5d74e7af463d23654cbc7cdd76ade0faf2b3e0c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

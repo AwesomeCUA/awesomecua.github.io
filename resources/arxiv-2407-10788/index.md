@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 A. Saxena, M. Salvato, W. Roster, R. Shirley, J. Buchner, J. Wolf, C. Kohl, H. Starck, T. Dwelly, J. Comparat, A. Malyali, S. Krippendorf, A. Zenteno, D. Lang, D. Schlegel, R. Zhou, A. Dey, F. Valdes, A. Myers, R. J. Assef, C. Ricci, M. J. Temple, A. Merloni, A. Koekemoer, S. F. Anderson, S. Morrison, X. Liu, K. Nandra
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2407.10788v2
+- First submission: 2024-07-15T15:07:30Z
+- Version updated: 2024-07-20T15:38:07Z
+- Abstract SHA-256: ee6439faa2c13d241edaec8a26e693694ec3720436b173c34580fb892ce5e739
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

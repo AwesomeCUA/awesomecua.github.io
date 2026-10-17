@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Vardaan Pahuja, Yadong Lu, Corby Rosset, Boyu Gou, Arindam Mitra, Spencer Whitehead, Yu Su, Ahmed Awadallah
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2502.11357v4
+- First submission: 2025-02-17T02:13:48Z
+- Version updated: 2025-05-30T02:30:57Z
+- Abstract SHA-256: d9f459a02b7a464d9e1e49579943d1b93d46308c1b00e795c903d2fa1502a2b2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

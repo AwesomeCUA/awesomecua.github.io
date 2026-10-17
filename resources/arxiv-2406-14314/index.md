@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Omri Berkovitch, Sapir Caduri, Noam Kahlon, Anatoly Efros, Avi Caciularu, Ido Dagan
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2406.14314v3
+- First submission: 2024-06-20T13:46:10Z
+- Version updated: 2025-03-03T15:47:10Z
+- Abstract SHA-256: a0bc798b69e59d1ec0ca8ecb0fab7a7ee6594f4d656ca4212b19be7e3085c0c5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

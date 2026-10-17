@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Iason Chaimalas, Arnas Vyšniauskas, Gabriel Brostow
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2504.09352v1
+- First submission: 2025-04-12T22:02:29Z
+- Version updated: 2025-04-12T22:02:29Z
+- Abstract SHA-256: bf23700bf7626733b0016b773852455c503617adc81025fc9e097879b5534cca
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

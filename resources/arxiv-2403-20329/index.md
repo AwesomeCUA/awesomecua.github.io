@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Joel Ruben Antony Moniz, Soundarya Krishnan, Melis Ozyildirim, Prathamesh Saraf, Halim Cagri Ates, Yuan Zhang, Hong Yu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2403.20329v2
+- First submission: 2024-03-29T17:59:06Z
+- Version updated: 2024-08-19T03:06:24Z
+- Abstract SHA-256: a3573a5cf66737178f164d9809b3e6dcadb7c6b2b4ae7d95283e8a136bf78851
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

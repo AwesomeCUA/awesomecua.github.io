@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Neil F. Johnson, Ferney J. Rodriguez, Luis Quiroga
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.00254v1
+- First submission: 2026-05-29T18:41:16Z
+- Version updated: 2026-05-29T18:41:16Z
+- Abstract SHA-256: 7189466bcee61c41c106c01f6118090d084a9d759482ed475cb9c334f949c10a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

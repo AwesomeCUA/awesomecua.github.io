@@ -20,6 +20,15 @@ Editorial summary based on the primary paper abstract; experiments and released 
 
 Qianhui Wu, Kanzhi Cheng, Rui Yang, Chaoyun Zhang, Jianwei Yang, Huiqiang Jiang, Jian Mu, Baolin Peng, Bo Qiao, Reuben Tan, Si Qin, Lars Liden, Qingwei Lin, Huan Zhang, Tong Zhang, Jianbing Zhang, Dongmei Zhang, Jianfeng Gao
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2506.03143v1
+- First submission: 2025-06-03T17:59:08Z
+- Version updated: 2025-06-03T17:59:08Z
+- Abstract SHA-256: 87b27d6caaaa3802629fdbf1e7bbe5557ed567f840cee88e45ba7e1fe12c548d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

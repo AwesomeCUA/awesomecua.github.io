@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuqing Du, Ksenia Konyushkova, Misha Denil, Akhil Raju, Jessica Landon, Felix Hill, Nando de Freitas, Serkan Cabi
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2303.07280v1
+- First submission: 2023-03-13T16:54:11Z
+- Version updated: 2023-03-13T16:54:11Z
+- Abstract SHA-256: 475860ad80e41d2cfc2f48a22c97d19f678445b1eb07b68bd0f66cce8647b3ce
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

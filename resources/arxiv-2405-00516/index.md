@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Lucas-Andreï Thil, Mirela Popa, Gerasimos Spanakis
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2405.00516v1
+- First submission: 2024-05-01T13:51:45Z
+- Version updated: 2024-05-01T13:51:45Z
+- Abstract SHA-256: 3498a7bc289c6537ab69780a56a9fd0a2bb697fb74c077949824c4fc018762c6
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

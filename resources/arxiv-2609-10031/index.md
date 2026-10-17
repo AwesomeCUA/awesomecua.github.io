@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xiaolei Li, Jialun Cao, Zhijian Hou, Yuzhi Zhao, Yepang Liu, Shing-Chi Cheung
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.10031v1
+- First submission: 2026-09-09T11:04:53Z
+- Version updated: 2026-09-09T11:04:53Z
+- Abstract SHA-256: 3307d90ef09c16afaee160eacc9d2994d142be9b9a26ce9c4a57f61345e2e8ec
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

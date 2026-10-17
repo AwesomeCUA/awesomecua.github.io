@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yaoqing Yang, Malhar Chaudhari, Pulkit Grover, Soummya Kar
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1805.06046v1
+- First submission: 2018-05-15T22:08:05Z
+- Version updated: 2018-05-15T22:08:05Z
+- Abstract SHA-256: 2411a453a99497bf460fba9807f8a9886b9400253f015fc62256ce10ef2cf2a8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ali Ebnenasir, Kieran Young
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2404.15980v1
+- First submission: 2024-04-24T16:55:29Z
+- Version updated: 2024-04-24T16:55:29Z
+- Abstract SHA-256: eb2dee25a109ac8a0a7d5b86751bbc5c5dbeceb058a3cb6029d15755a4abed99
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

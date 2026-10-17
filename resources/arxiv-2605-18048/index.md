@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jingjing Liu, Ziye Huang, Zihao Cheng, Zeming Liu, Jiahong Wu, Yuhang Guo, Kehai Chen, Yunhong Wang, Haifeng Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.18048v1
+- First submission: 2026-05-18T08:36:04Z
+- Version updated: 2026-05-18T08:36:04Z
+- Abstract SHA-256: 017909a697c6c661d3486d960042f4d691f70a660a60083e70512de34690cb51
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

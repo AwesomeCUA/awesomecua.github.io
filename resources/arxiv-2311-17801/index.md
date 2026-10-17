@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Farbin Fayza, Cansu Demirkiran, Hanning Chen, Che-Kai Liu, Avi Mohan, Hamza Errahmouni, Sanggeon Yun, Mohsen Imani, David Zhang, Darius Bunandar, Ajay Joshi
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2311.17801v2
+- First submission: 2023-11-29T16:51:21Z
+- Version updated: 2024-10-04T15:26:45Z
+- Abstract SHA-256: c4d5c0a824e15460a6cb0513aef31be70e056105ffafce8285f3128b6a0421b8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Felix Henry, Lihan Lin, Jiangyou Zhu, Yangfan, Bingqian Zhang, Min Chen, Shiyu Huang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2605.18758v2
+- First submission: 2026-04-03T08:57:06Z
+- Version updated: 2026-09-28T02:42:06Z
+- Abstract SHA-256: 99e8e0039ec99ef8f6a6ef3900cb74a62ddd5ae4f8df30629110969290028e6a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

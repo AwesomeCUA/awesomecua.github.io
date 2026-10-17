@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Zheng Hui, Yinheng Li, Dan zhao, Tianyi Chen, Colby Banbury, Kazuhito Koishida
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2503.04730v1
+- First submission: 2025-01-27T08:29:17Z
+- Version updated: 2025-01-27T08:29:17Z
+- Abstract SHA-256: cc499e361f0bc46c3c5ee5a8abebd911396e383a004655de56db1ec7cec8e231
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

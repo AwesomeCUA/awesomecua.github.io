@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuhao Wang, Mu Qiao, Xindong Zhang, Yunzhi Zhuge, Lei Zhang, Huchuan Lu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.10297v1
+- First submission: 2026-09-09T15:12:48Z
+- Version updated: 2026-09-09T15:12:48Z
+- Abstract SHA-256: 20d3bc3137e163f6b467b8c464101478b2375fbab8aebe9179e2e1113b34f503
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

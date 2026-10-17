@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ivan S. Maksymov
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2306.09095v1
+- First submission: 2023-06-15T12:47:22Z
+- Version updated: 2023-06-15T12:47:22Z
+- Abstract SHA-256: c76bea480a1764932e51083205b5513b52ee220fdbe9cd4effea227585c2cc4d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 John Yang, Carlos E. Jimenez, Alexander Wettig, Kilian Lieret, Shunyu Yao, Karthik Narasimhan, Ofir Press
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2405.15793v3
+- First submission: 2024-05-06T17:41:33Z
+- Version updated: 2024-11-11T20:01:15Z
+- Abstract SHA-256: ea972f3764419aa209152b1bb8ba9b7d2688da1cb009cbdd4aa62664c263911a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

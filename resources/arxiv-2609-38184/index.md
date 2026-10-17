@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yongjiang Wu, Junyuan Zhang, Ada Chen, Kuiyi Gao, Wenxuan Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.38184v1
+- First submission: 2026-08-07T07:51:13Z
+- Version updated: 2026-08-07T07:51:13Z
+- Abstract SHA-256: f14844abefab6b4eb464a1c7675f9de7f460849872ebb776230724ed5828feed
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

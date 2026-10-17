@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Marc W. Howard, Michael E. Hasselmo
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2003.11668v1
+- First submission: 2020-03-25T22:40:49Z
+- Version updated: 2020-03-25T22:40:49Z
+- Abstract SHA-256: c9c5d76c22a3d01392194e7dbf9837cd183c2dfeac4766282ba0a3009f43f4fd
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

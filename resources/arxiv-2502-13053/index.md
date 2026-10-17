@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yurun Chen, Xavier Hu, Keting Yin, Juncheng Li, Shengyu Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2502.13053v3
+- First submission: 2025-02-18T17:01:28Z
+- Version updated: 2025-08-06T07:04:43Z
+- Abstract SHA-256: 5af8d3a8b4db150bab0630f6040a0f3bced612f68b11d31985053f1f25c0f6f6
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

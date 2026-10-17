@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ruoyu Chen, Shangquan Sun, Xiaoqing Guo, Kangwei Liu, Sanyi Zhang, Zhangcheng Wang, Shiming Liu, Qunli Zhang, Hua Zhang, Wei Wang, Xiaochun Cao
 
+## Recorded arXiv snapshot
+
+- Version: 6
+- Version source: https://arxiv.org/abs/2602.07008v6
+- First submission: 2026-01-30T10:29:27Z
+- Version updated: 2026-09-26T09:11:54Z
+- Abstract SHA-256: d517d1cbd3bb6c7e835d777d6ed5211cf9f0eca7596a7acf8fbdff1aaae14ef4
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

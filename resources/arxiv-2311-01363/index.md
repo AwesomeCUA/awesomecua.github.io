@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jim Furches, Sarah Chehade, Kathleen Hamilton, Nathan Wiebe, Carlos Ortiz Marrero
 
+## Recorded arXiv snapshot
+
+- Version: 5
+- Version source: https://arxiv.org/abs/2311.01363v5
+- First submission: 2023-11-02T16:17:18Z
+- Version updated: 2025-06-28T07:42:43Z
+- Abstract SHA-256: f455da827db0194e05ca06686e3d05239ebf0475b15fefde1fcf1fb51e01ad06
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Masafumi Enomoto, Ryoma Obara, Haochen Zhang, Masafumi Oyamada
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.29397v1
+- First submission: 2026-05-28T05:46:39Z
+- Version updated: 2026-05-28T05:46:39Z
+- Abstract SHA-256: d0f765cdf6adacc06f55d3a279cce986ffd12da8c71dd6a2e486bf39ed151350
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

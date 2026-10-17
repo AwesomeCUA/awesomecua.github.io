@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yi-Hao Peng, Faria Huq, Yue Jiang, Jason Wu, Amanda Xin Yue Li, Jeffrey Bigham, Amy Pavel
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2410.00201v1
+- First submission: 2024-09-30T19:55:54Z
+- Version updated: 2024-09-30T19:55:54Z
+- Abstract SHA-256: a85dca895f00b442a60123c7c85cd26a90e3d1c2a810c91c32385f877bcd755a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

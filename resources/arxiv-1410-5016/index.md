@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jaijeet Roychowdhury
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/1410.5016v3
+- First submission: 2014-10-18T23:09:47Z
+- Version updated: 2015-08-11T04:38:14Z
+- Abstract SHA-256: e1831461b850140ad05899452754f76de34711af61676bbb9ce511988093fe4f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

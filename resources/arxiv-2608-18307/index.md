@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Tianchen Guan, Xinlei Lin, Royce Cheng-Yue, Xiangjun Wang, Shuyan Zhou
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.18307v1
+- First submission: 2026-08-18T20:38:26Z
+- Version updated: 2026-08-18T20:38:26Z
+- Abstract SHA-256: de4889c021f35c169092e17801fec414cce21b37c74a4ff72af6a6c67a1a0a25
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

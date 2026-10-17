@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Franz Georg Fuchs, Herman Øie Kolden, Niels Henrik Aase, Giorgio Sartor
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2009.01095v3
+- First submission: 2020-09-02T14:15:55Z
+- Version updated: 2020-11-09T21:35:28Z
+- Abstract SHA-256: ca83b0b7ce4d0f1c6b4cd65dfa7853f4f33c0e3f6046e2edc0cf088147354e75
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

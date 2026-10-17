@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Omer Rathore, Alastair Basden, Nicholas Chancellor, Halim Kusumaatmaja
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2403.05278v1
+- First submission: 2024-03-08T12:58:12Z
+- Version updated: 2024-03-08T12:58:12Z
+- Abstract SHA-256: 4e5cfc71460af6ecc5b7c54facfdc1fc3cd86c79229f5a56e03fdb405139ebb0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

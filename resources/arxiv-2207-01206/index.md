@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Shunyu Yao, Howard Chen, John Yang, Karthik Narasimhan
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2207.01206v4
+- First submission: 2022-07-04T05:30:22Z
+- Version updated: 2023-02-08T01:39:30Z
+- Abstract SHA-256: 6de4ab2a89875f1ccd99bbaa075c234d82979e845f27fe9530bdad0539c49570
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

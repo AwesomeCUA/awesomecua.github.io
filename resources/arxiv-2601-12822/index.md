@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Wenqi Zhang, Yulin Shen, Changyue Jiang, Jiarun Dai, Geng Hong, Xudong Pan
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2601.12822v1
+- First submission: 2026-01-19T08:32:09Z
+- Version updated: 2026-01-19T08:32:09Z
+- Abstract SHA-256: b57586682d4675387dea2687e7c15d70cc10aecac883e35fe1812c39abcbc1dc
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

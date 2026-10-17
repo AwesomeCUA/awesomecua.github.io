@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Wenkai Wang, Xiyun Li, Hongcan Guo, Wenhao Yu, Tianqing Fang, Haitao Mi, Dong Yu, Shengyu Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.21268v1
+- First submission: 2026-04-23T04:23:31Z
+- Version updated: 2026-04-23T04:23:31Z
+- Abstract SHA-256: 5e15661746ab05f2894e23d28b4675e13919bbcd71407fbc33260d84f330ea5d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

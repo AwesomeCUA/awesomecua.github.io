@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jiakai Tang, Yan Mi, Jing Yu, Yang Zhang, See-Kiong Ng, Qi Cao, Fei Sun, Xu Chen, Wen Chen, Jian Wu, Han Zhu, Bo Zheng
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.20707v1
+- First submission: 2026-08-21T03:24:32Z
+- Version updated: 2026-08-21T03:24:32Z
+- Abstract SHA-256: 52e89b35f989f17fce85c418e748f1de2d7bde635c078c7e7de29444d10ac2b8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

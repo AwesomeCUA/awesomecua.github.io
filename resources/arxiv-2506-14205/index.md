@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jingxu Xie, Dylan Xu, Xuandong Zhao, Dawn Song
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2506.14205v2
+- First submission: 2025-06-17T05:46:52Z
+- Version updated: 2026-03-02T00:51:36Z
+- Abstract SHA-256: ae36b271f9b4799093831cabee772845edfaeca97107414e424e170ccf89904d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

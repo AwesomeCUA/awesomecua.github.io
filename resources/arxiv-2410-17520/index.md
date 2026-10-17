@@ -20,6 +20,15 @@ Summary and topic tags reviewed against the primary abstract. Reported experimen
 
 Juyong Lee, Dongyoon Hahm, June Suk Choi, W. Bradley Knox, Kimin Lee
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2410.17520v3
+- First submission: 2024-10-23T02:51:43Z
+- Version updated: 2026-01-27T01:51:55Z
+- Abstract SHA-256: 362cbf7ea267ddc4a64505aa95c4f16a9f3631f95319ce10eef9981e2c85937b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhou Xu, Bowen Zhou, Qi Wang, Shuwen Feng, Jingyu Xiao
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2602.23235v1
+- First submission: 2026-02-26T17:12:40Z
+- Version updated: 2026-02-26T17:12:40Z
+- Abstract SHA-256: 4ac076fb0916a0ce436362f83d2b2dbece05e4abb8a854351c6a135f917e4bdc
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

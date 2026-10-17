@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Toan Tran, Olivera Kotevska, Li Xiong
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2603.19375v2
+- First submission: 2026-03-19T18:10:18Z
+- Version updated: 2026-09-16T23:23:42Z
+- Abstract SHA-256: b64315ec368626e3a4d1de41fac9dfbc7571a8af9447136a71ecf508171835d1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

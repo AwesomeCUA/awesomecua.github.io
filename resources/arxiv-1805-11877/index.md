@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Carl Witt, Marc Bux, Wladislaw Gusew, Ulf Leser
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1805.11877v1
+- First submission: 2018-05-30T09:24:08Z
+- Version updated: 2018-05-30T09:24:08Z
+- Abstract SHA-256: 8e6c51fce6f2e7b309e64580436e5f789ab0f3fbbfc5d2cd7e40e9e0b59f685a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

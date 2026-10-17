@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Zhuohao Jerry Zhang, Eldon Schoop, Jeffrey Nichols, Anuj Mahajan, Amanda Swearngin
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2410.09006v2
+- First submission: 2024-10-11T17:24:00Z
+- Version updated: 2025-03-22T18:01:37Z
+- Abstract SHA-256: ff649a0792864bd40b7bf2f825f6a8a815eb60cc795ed4dc0c6b55a942477758
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

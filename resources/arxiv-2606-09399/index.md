@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Radeen Mostafa, Sawradip Saha
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.09399v1
+- First submission: 2026-06-08T12:18:22Z
+- Version updated: 2026-06-08T12:18:22Z
+- Abstract SHA-256: d29dec745923e652654521f65a32f919a99d4577992006efc1a5e469bf775d81
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

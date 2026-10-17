@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kumar Gautam
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2408.17035v2
+- First submission: 2024-08-30T06:08:35Z
+- Version updated: 2024-09-02T05:54:06Z
+- Abstract SHA-256: 95aef43a349499537f8e8483417d8057c66a28a92bdb7a2fea57b45dbf658ac7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

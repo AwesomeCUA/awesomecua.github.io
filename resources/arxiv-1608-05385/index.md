@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Philip Korman
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1608.05385v1
+- First submission: 2016-08-18T19:39:22Z
+- Version updated: 2016-08-18T19:39:22Z
+- Abstract SHA-256: f11f846799031f0bf9fe6784b04cdd1b2e82104e2d2a825d57c85965859fd20a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

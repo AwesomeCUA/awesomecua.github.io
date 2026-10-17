@@ -20,6 +20,15 @@ Summary and topic tags reviewed against the primary abstract. Reported experimen
 
 Shravan Nayak, Xiangru Jian, Kevin Qinghong Lin, Juan A. Rodriguez, Montek Kalsi, Rabiul Awal, Nicolas Chapados, M. Tamer Özsu, Aishwarya Agrawal, David Vazquez, Christopher Pal, Perouz Taslakian, Spandana Gella, Sai Rajeswar
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2503.15661v2
+- First submission: 2025-03-19T19:26:17Z
+- Version updated: 2025-05-06T17:43:11Z
+- Abstract SHA-256: 5abf3c7b08a4331d4f634d8cc63a7f8ff40713f7344231887dac1b5e061a8eae
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xiaoce Wang, Guibin Zhang, Junzhe Li, Jinzhe Tu, Chun Li, Ming Li
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2602.02548v1
+- First submission: 2026-01-30T08:38:05Z
+- Version updated: 2026-01-30T08:38:05Z
+- Abstract SHA-256: 49b0dbff31dcf8c966bebd367ae05984e46a7fd13b2cfb1ad5ef061332b43f00
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

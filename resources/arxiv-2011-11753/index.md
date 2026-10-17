@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 M. F. Gonzalez-Zalba, S. de Franceschi, E. Charbon, T. Meunier, M. Vinet, A. S. Dzurak
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2011.11753v2
+- First submission: 2020-11-23T21:59:39Z
+- Version updated: 2023-04-08T10:59:37Z
+- Abstract SHA-256: 94bb1678ea49ca5f887a101c49271a1566f8f58a5596e8fa052ea3e6d982c649
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

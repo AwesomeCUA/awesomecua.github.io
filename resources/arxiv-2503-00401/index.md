@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Zongru Wu, Pengzhou Cheng, Zheng Wu, Tianjie Ju, Zhuosheng Zhang, Gongshen Liu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2503.00401v2
+- First submission: 2025-03-01T08:29:59Z
+- Version updated: 2025-03-04T12:04:26Z
+- Abstract SHA-256: 53781edbb107437b258d0c0e298f80ec14f8f32b51bc0dd11c0417473eb2c606
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

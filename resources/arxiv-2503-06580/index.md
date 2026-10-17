@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuxiang Zhang, Yuqi Yang, Jiangming Shu, Xinyan Wen, Jitao Sang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2503.06580v1
+- First submission: 2025-03-09T12:19:47Z
+- Version updated: 2025-03-09T12:19:47Z
+- Abstract SHA-256: 696c49ce990b243184b20f14feb50f1c7c4a9169c17edeff8fde40572095115d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

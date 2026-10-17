@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhuoxin Zhan, Akbar Rafiey, Avery Ma, Leila Pishdad, Layla El Asri
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.06477v1
+- First submission: 2026-08-06T18:14:30Z
+- Version updated: 2026-08-06T18:14:30Z
+- Abstract SHA-256: ce2f72dbbf1c60354c73869cef490de3417cdc93cff0ce3ad36f32efeda66639
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

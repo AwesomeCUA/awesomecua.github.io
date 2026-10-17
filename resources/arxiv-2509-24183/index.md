@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ran Xu, Kaixin Ma, Wenhao Yu, Hongming Zhang, Joyce C. Ho, Carl Yang, Dong Yu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2509.24183v1
+- First submission: 2025-09-29T02:04:20Z
+- Version updated: 2025-09-29T02:04:20Z
+- Abstract SHA-256: e1c6fd3e84212bac4c4c8341ffb3478c97becce08f92dac89e5de77ad42cd07d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

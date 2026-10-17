@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Wanli Li, Bowen Zhou, Yunyao Yu, Zhou Xu, Yifan Yang, Dongsheng Li, Caihua Shan
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2606.09426v3
+- First submission: 2026-06-08T12:39:23Z
+- Version updated: 2026-07-06T14:25:02Z
+- Abstract SHA-256: 73b751efd63d98fc81166a1a80cb0c162d68bf1ec4ecca0a1a1a7717ad62e680
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

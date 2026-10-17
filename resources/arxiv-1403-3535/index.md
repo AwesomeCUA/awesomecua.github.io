@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Mirza Cenanovic, Peter Hansbo, Mats G. Larson
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1403.3535v1
+- First submission: 2014-03-14T11:25:26Z
+- Version updated: 2014-03-14T11:25:26Z
+- Abstract SHA-256: 70fbf2668ed9d36a00726c781fe09dc237ad6be02dc8be2f56e59d447ad302d2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

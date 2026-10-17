@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Siyuan Hu, Mingyu Ouyang, Difei Gao, Mike Zheng Shou
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2411.10323v1
+- First submission: 2024-11-15T16:23:52Z
+- Version updated: 2024-11-15T16:23:52Z
+- Abstract SHA-256: 255e101e263c4e3a0cb491d4c34b3e75a8f3660cec2141e3a507a30cf5514dbd
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

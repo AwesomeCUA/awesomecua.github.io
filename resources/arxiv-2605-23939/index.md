@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xirui Liu, Sihang Zhou, Yanning Hou, Rong Zhou, Haoyuan Chen, Maolin He, Siwei Wang, Hao Chen, Jian Huang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.23939v1
+- First submission: 2026-04-28T11:39:20Z
+- Version updated: 2026-04-28T11:39:20Z
+- Abstract SHA-256: afe80d68ecd01287a04d88f2afc64d4722677deefc5b670d80c188b4e16145c2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

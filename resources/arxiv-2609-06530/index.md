@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zirui Shang, Xin Shu, Yang Liu, Zhi Gao, Xinxiao Wu, Lifeng Fan
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.06530v1
+- First submission: 2026-09-06T10:50:55Z
+- Version updated: 2026-09-06T10:50:55Z
+- Abstract SHA-256: a0d6c92c1bbf777119fdce5e9c4c5ded744c3459f8ae0b10ccc0fc75de11b237
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

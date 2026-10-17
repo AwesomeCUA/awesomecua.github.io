@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Ridong Zhang, Shuxian Liang, Chaoqun Wan, Zhen Huang, Xian-Sheng Hua
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.19900v1
+- First submission: 2026-10-14T09:58:40Z
+- Version updated: 2026-10-14T09:58:40Z
+- Abstract SHA-256: 50d5cb78e6715f0749c5973e900745ecdb3672febc2c8e090da94cb708127352
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

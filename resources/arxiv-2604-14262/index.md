@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yangyue Wang, Harshvardhan Sikka, Yash Mathur, Tony Zhou, Jinu Nyachhyon, Pranav Guruprasad
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2604.14262v2
+- First submission: 2026-04-15T16:39:22Z
+- Version updated: 2026-07-01T10:12:28Z
+- Abstract SHA-256: 5dc36ff0c9c4bd39de360824967e53c18fe57562cb8da1462d3e63c0dd348e71
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

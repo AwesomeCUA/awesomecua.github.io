@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Chao Jin, Wenkui Yang, Hao Sun, Yuqi Liao, Qianyi Jiang, Kai Zhou, Jie Cao, Ran He, Huaibo Huang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.17284v1
+- First submission: 2026-04-19T06:55:59Z
+- Version updated: 2026-04-19T06:55:59Z
+- Abstract SHA-256: 2b102c9363b1be77273c7fab6f7f5cde74157c646671c93b9503770fe60dd70c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

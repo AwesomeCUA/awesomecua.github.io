@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Renze Lou, Baolin Peng, Wenlin Yao, Qianhui Wu, Hao Cheng, Suman Nath, Wenpeng Yin, Jianfeng Gao
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2604.03465v2
+- First submission: 2026-04-03T21:18:26Z
+- Version updated: 2026-07-16T12:25:02Z
+- Abstract SHA-256: 959cf0d79bfcbf984b7aa1ea29359d7b25070fac07d30284caf7a86038efd715
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

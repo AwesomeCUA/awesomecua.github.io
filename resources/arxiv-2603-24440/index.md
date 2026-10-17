@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xiangru Jian, Shravan Nayak, Kevin Qinghong Lin, Aarash Feizi, Kaixin Li, Patrice Bechard, Spandana Gella, Sai Rajeswar
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2603.24440v1
+- First submission: 2026-03-25T15:52:56Z
+- Version updated: 2026-03-25T15:52:56Z
+- Abstract SHA-256: 15237fda2f3799314009635017487749dbedc9b1a0ffdd6b56a8d28eaf01481d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

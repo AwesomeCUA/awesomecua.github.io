@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Tianyu Chen, Chujia Hu, Dongrui Liu, Xia Hu, Wenjie Wang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2602.03255v2
+- First submission: 2026-02-03T08:40:24Z
+- Version updated: 2026-10-02T00:39:45Z
+- Abstract SHA-256: e35743f909d7649d08d8b154486a49c0393149ba0e24a2c4bdea519079da6359
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Anirban Pathak
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1805.06275v1
+- First submission: 2018-05-16T12:45:31Z
+- Version updated: 2018-05-16T12:45:31Z
+- Abstract SHA-256: 9917ea2c7d786b29891f611416894793190a5c7bf6559a3c22698b7a967e9510
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Pei Yang, Hai Ci, Mike Zheng Shou
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2506.04135v4
+- First submission: 2025-06-04T16:26:56Z
+- Version updated: 2025-10-18T12:11:31Z
+- Abstract SHA-256: 8a4c980694819dc5eb4ff322e6a703cccfe0b1e45efb60f22b120592d03edf36
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

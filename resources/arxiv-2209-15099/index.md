@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Tao Li, Gang Li, Jingjie Zheng, Purple Wang, Yang Li
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2209.15099v1
+- First submission: 2022-09-29T21:08:18Z
+- Version updated: 2022-09-29T21:08:18Z
+- Abstract SHA-256: 15e57e7dd30e6f3ae8b13cbd4a190b39339f2bbf7a551a6a5df5190dc62b5434
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

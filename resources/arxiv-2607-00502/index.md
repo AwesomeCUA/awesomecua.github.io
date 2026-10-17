@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yujie Zheng, Zikang Liu, Xin Zhao, Ji-Rong Wen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2607.00502v1
+- First submission: 2026-07-01T06:37:21Z
+- Version updated: 2026-07-01T06:37:21Z
+- Abstract SHA-256: 89f885061b8e590b05ff3c2138eb0f9c7a31aac038a04d330d435dc6f228f25d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

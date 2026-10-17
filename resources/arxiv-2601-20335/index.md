@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Qinzhuo Wu, Zhizhuo Yang, Hanhao Li, Pengzhi Gao, Wei Liu, Jian Luan
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2601.20335v2
+- First submission: 2026-01-28T07:49:48Z
+- Version updated: 2026-01-29T02:32:46Z
+- Abstract SHA-256: 1cbf16dd3c790996758e00c085a9c2bccabf5b24f945bbd8440cc1f953e38568
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

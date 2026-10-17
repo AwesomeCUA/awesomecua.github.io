@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yilin Cao, Yufeng Zhong, Zhixiong Zeng, Siran Dai, Liming Zheng, Jing Huang, Haibo Qiu, Peng Shi, Wenji Mao
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2601.04035v2
+- First submission: 2026-01-07T15:51:44Z
+- Version updated: 2026-08-31T13:27:52Z
+- Abstract SHA-256: c40e3db3f538f089c19d7c8233ea01174d0591c3211a7acc412ee4df28e902a8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

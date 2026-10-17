@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yong Zhang, Konglong Wu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2109.13639v1
+- First submission: 2021-09-24T12:04:27Z
+- Version updated: 2021-09-24T12:04:27Z
+- Abstract SHA-256: 0f4474b69c78cf9e057c5bebec9c09a5a5d31d756b99d2d610e578fc461334b8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

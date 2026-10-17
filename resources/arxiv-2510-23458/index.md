@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Litu Ou, Kuan Li, Huifeng Yin, Liwen Zhang, Zhongwang Zhang, Xixi Wu, Rui Ye, Zile Qiao, Pengjun Xie, Jingren Zhou, Yong Jiang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2510.23458v2
+- First submission: 2025-10-27T15:58:51Z
+- Version updated: 2025-10-28T16:23:04Z
+- Abstract SHA-256: 042a4e25e1440d3716a943cd1fc6487279b7c35ff9b44481738bc8f3161f1ba7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

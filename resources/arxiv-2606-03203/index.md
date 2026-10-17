@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jia Yu, Zilong Wang, Xinyang Jiang, Dongsheng Li, Shuo Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.03203v1
+- First submission: 2026-06-02T06:02:35Z
+- Version updated: 2026-06-02T06:02:35Z
+- Abstract SHA-256: b23c12cafdd2d4a3ef63027c914ed3894c61c555edd89468c56ae40c3ec6cea9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

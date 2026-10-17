@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhizheng Zhang, Xiaoyi Zhang, Wenxuan Xie, Yan Lu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2306.01242v2
+- First submission: 2023-06-02T02:42:58Z
+- Version updated: 2023-12-04T13:36:59Z
+- Abstract SHA-256: 631a39d2929c68bb93a7f95af22c17d2ab208668fd97d9082fe0601a73d123dd
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

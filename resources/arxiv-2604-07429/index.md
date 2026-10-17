@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Mingyu Ouyang, Siyuan Hu, Kevin Qinghong Lin, Hwee Tou Ng, Mike Zheng Shou
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.07429v1
+- First submission: 2026-04-08T17:49:03Z
+- Version updated: 2026-04-08T17:49:03Z
+- Abstract SHA-256: fc6b06c3b6c5bfad9b0ffc9dea79c7b623f03bb6be7538d94fddb334f68c63af
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

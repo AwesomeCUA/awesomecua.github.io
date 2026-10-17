@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Pratyay Banerjee, Shweti Mahajan, Kushal Arora, Chitta Baral, Oriana Riva
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2301.10165v1
+- First submission: 2023-01-23T09:05:49Z
+- Version updated: 2023-01-23T09:05:49Z
+- Abstract SHA-256: bb647a96c7f8263786e85a5061c8c5284cb92ed0b2ebc4c405e1243b2ca3fa2b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

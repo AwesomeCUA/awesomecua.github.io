@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhenghao Peng, Xuyang Chen, Chengwen Xu, Naifeng Jing, Xiaoyao Liang, Cewu Lu, Li Jiang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/1807.10458v2
+- First submission: 2018-07-27T06:59:46Z
+- Version updated: 2018-12-18T08:57:46Z
+- Abstract SHA-256: c03a8f92490d4c7aa414a5f4e0286683f035f1befe9016a58fe4d76af18870f6
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

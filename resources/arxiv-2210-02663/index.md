@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Srinivas Sunkara, Maria Wang, Lijuan Liu, Gilles Baechler, Yu-Chung Hsiao, Jindong, Chen, Abhanshu Sharma, James Stout
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2210.02663v1
+- First submission: 2022-10-06T03:48:54Z
+- Version updated: 2022-10-06T03:48:54Z
+- Abstract SHA-256: 24d037f1abeb7708852ac5517ce02cc46622e359d9feab407f188c0657cc72f4
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuankai Li, Tinghui Zhu, Ha Min Son, Zhe Zhao, Xin Liu, Muhao Chen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.19260v1
+- First submission: 2026-05-19T02:13:29Z
+- Version updated: 2026-05-19T02:13:29Z
+- Abstract SHA-256: d4fc83b6ed8bdaf4d2ab9512c41d7217c95973e6bac59a2c0892a51d4531dc0a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

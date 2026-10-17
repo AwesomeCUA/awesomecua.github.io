@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yurun Chen, Zeyi Liao, Ping Yin, Taotao Xie, Keting Yin, Shengyu Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2602.01725v1
+- First submission: 2026-02-02T07:04:06Z
+- Version updated: 2026-02-02T07:04:06Z
+- Abstract SHA-256: d1a6f98c0ab0a221c169796d9680e4b2a7bf7a0775c0493254f47d5e0a9b3c4e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

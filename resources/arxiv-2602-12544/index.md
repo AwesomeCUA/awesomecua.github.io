@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Lajanugen Logeswaran, Jaekyeom Kim, Sungryull Sohn, Creighton Glasscock, Honglak Lee
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2602.12544v1
+- First submission: 2026-02-13T02:52:18Z
+- Version updated: 2026-02-13T02:52:18Z
+- Abstract SHA-256: 555285a1ab51e02661067bdf8bcc3fa7f6ee0fdd63f52f786a03eb2483bd1a31
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

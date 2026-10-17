@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Luca Albieri, Sergei Kucherenko, Stefano Scoleri, Marco Bianchetti
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2504.11576v1
+- First submission: 2025-04-15T19:51:07Z
+- Version updated: 2025-04-15T19:51:07Z
+- Abstract SHA-256: bd289aa48848116fd629d95a8b3c0299426780c262aa6457dd03f9a2c60086e8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

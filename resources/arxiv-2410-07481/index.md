@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shion Mifune, Taro Kanao, Tetsufumi Tanamoto
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2410.07481v2
+- First submission: 2024-10-09T23:23:50Z
+- Version updated: 2025-04-04T01:11:11Z
+- Abstract SHA-256: b05f14bc0bdb4438929b3afbc2d699f3e606ea71ebb28af5c1da5967bb4f75fd
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

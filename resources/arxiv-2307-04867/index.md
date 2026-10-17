@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Wladimir Silva
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2307.04867v2
+- First submission: 2023-07-10T19:30:08Z
+- Version updated: 2023-07-14T15:52:47Z
+- Abstract SHA-256: f54712365dee089c3869ee6b8d7cf9f4720aaebe895675b7cb807eef7bf16fac
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

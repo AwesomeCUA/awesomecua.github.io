@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Suryansh Upadhyay, Swaroop Ghosh
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2305.01826v2
+- First submission: 2023-05-02T23:34:01Z
+- Version updated: 2024-11-14T20:47:01Z
+- Abstract SHA-256: 40ed53b48862c09a70992d60b1496e214f957a6ca9be950527cbbba6065719e9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Pengzhou Cheng, Haowen Hu, Zheng Wu, Zongru Wu, Tianjie Ju, Zhuosheng Zhang, Gongshen Liu
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2505.14418v3
+- First submission: 2025-05-20T14:29:18Z
+- Version updated: 2026-06-15T06:42:51Z
+- Abstract SHA-256: 815345ed44d70f40ce9784c212d269ffaaa476e5c2ea5cdbbaaeb98d22eba3cb
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

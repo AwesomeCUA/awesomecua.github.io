@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Lawrence Z. Cohen, Isaac H. Kim, Stephen D. Bartlett, Benjamin J. Brown
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2110.10794v2
+- First submission: 2021-10-20T21:49:48Z
+- Version updated: 2022-05-22T19:19:18Z
+- Abstract SHA-256: d0110623b83cc7684e6aa46b4cbf211c246cde0c317e01276b39031285af519f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

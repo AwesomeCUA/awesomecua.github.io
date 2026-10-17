@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Dennis Núñez Fernández
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1910.11100v1
+- First submission: 2019-10-18T08:09:23Z
+- Version updated: 2019-10-18T08:09:23Z
+- Abstract SHA-256: e331c5bcae6dad7380909a392cf6ddbd418307bfef5a572a2c1dfe56edbd5d2c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

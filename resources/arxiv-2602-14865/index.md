@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Chenyang Ma, Clyde Fare, Matthew Wilson, Dave Braines
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2602.14865v1
+- First submission: 2026-02-16T15:59:56Z
+- Version updated: 2026-02-16T15:59:56Z
+- Abstract SHA-256: 353036db8a5609d64792ea49523ca424cf265d981ff34d1e7bc8fed35ffb21c0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

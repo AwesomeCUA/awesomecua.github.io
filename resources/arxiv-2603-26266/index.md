@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Rui Xie, Zhi Gao, Chenrui Shi, Zirui Shang, Lu Chen, Qing Li
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2603.26266v3
+- First submission: 2026-03-27T10:33:08Z
+- Version updated: 2026-06-30T04:47:42Z
+- Abstract SHA-256: b388086aeb8ac47e386099e5cd68cb89bb03978ee7d5897950181035d0abb723
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

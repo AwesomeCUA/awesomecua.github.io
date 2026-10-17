@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Aagam Sogani, Botao Rui, Swetha Vaidyanathan, Rishi Agarwal, Minghao Yan, Shivaram Venkataraman
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2606.20724v2
+- First submission: 2026-06-16T23:00:25Z
+- Version updated: 2026-06-29T04:16:15Z
+- Abstract SHA-256: d9793279a8295c35cc745e2aeb1da499654130f53e145e6835ab03d309440f0d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Abishek Sridhar, Robert Lo, Frank F. Xu, Hao Zhu, Shuyan Zhou
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2305.14257v3
+- First submission: 2023-05-23T17:10:39Z
+- Version updated: 2023-10-30T00:55:53Z
+- Abstract SHA-256: 896d5f5e9248e2e49da254fb383f84e5b6ce4286b6d30a37ed7944fcfa1f4958
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

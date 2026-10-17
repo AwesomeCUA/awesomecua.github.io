@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jianping Zhu, Rui Hou, XiaoFeng Wang, Wenhao Wang, Jiangfeng Cao, Lutan Zhao, Fengkai Yuan, Peinan Li, Zhongpu Wang, Boyan Zhao, Lixin Zhang, Dan Meng
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/1904.04782v2
+- First submission: 2019-04-09T16:56:21Z
+- Version updated: 2019-04-10T07:19:40Z
+- Abstract SHA-256: f1c88da181a4409d49950dbeda6aac1e1fe78cdfafd310fb08ffde87ca4003d1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Chris Latimer, Nicoló Boschi, Andrew Neeser, Chris Bartholomew, Gaurav Srivastava, Xuan Wang, Naren Ramakrishnan
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2512.12818v1
+- First submission: 2025-12-14T19:47:23Z
+- Version updated: 2025-12-14T19:47:23Z
+- Abstract SHA-256: 029574328c1a3d854d03651438e8add96ec40f74cce251c39b3fef84d7a07b3c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

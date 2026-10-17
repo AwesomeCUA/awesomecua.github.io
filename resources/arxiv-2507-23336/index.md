@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ram Mohan Rao Kadiyala, Siddhant Gupta, Jebish Purbey, Giulio Martini, Ali Shafique, Suman Debnath, Hamza Farooq
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2507.23336v2
+- First submission: 2025-07-31T08:32:37Z
+- Version updated: 2025-08-06T18:41:57Z
+- Abstract SHA-256: 21a2172cb4776b1a0f5dec89002d913b86ba463f434c452a048b2eaeb2a2c4e6
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

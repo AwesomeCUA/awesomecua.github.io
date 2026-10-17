@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Weikai Xie, Li Zhang, Shihe Wang, Rongjie Yi, Mengwei Xu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2412.00402v1
+- First submission: 2024-11-30T08:55:39Z
+- Version updated: 2024-11-30T08:55:39Z
+- Abstract SHA-256: 9c22d6a9aafb89e5628198fb4f6ea50fe40b1e955a2fa367571459753cea61df
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

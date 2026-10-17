@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Noam Kahlon, Guy Rom, Anatoly Efros, Filippo Galgani, Omri Berkovitch, Sapir Caduri, William E. Bishop, Oriana Riva, Ido Dagan
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2503.19537v1
+- First submission: 2025-03-25T10:46:08Z
+- Version updated: 2025-03-25T10:46:08Z
+- Abstract SHA-256: 8a49d662eddf84690395b025e50f3378c3be2a3fc8abe02bd7202c6ff879bbe3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zheng Wu, Xingyu Lou, Xinbei Ma, Yansi Li, Weiwen Liu, Weinan Zhang, Jun Wang, Zhuosheng Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2601.03641v4
+- First submission: 2026-01-07T06:43:50Z
+- Version updated: 2026-04-11T14:07:11Z
+- Abstract SHA-256: 1f0592eb3fbfbf8cd2842a6f873ebac8773bf86f66f12dd1376a894f749606df
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kristina Nikolić, Egor Zverev, Javier Rando, Matthew Jagielski, Edoardo Debenedetti, Florian Tramèr
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2607.05277v1
+- First submission: 2026-07-06T16:22:37Z
+- Version updated: 2026-07-06T16:22:37Z
+- Abstract SHA-256: 97d6c625b6ebc08cec7471df543812a91c4252f50d8d35f8d51fbef802dcb5a2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Tamer Abuelsaad, Deepak Akkil, Prasenjit Dey, Ashish Jagmohan, Aditya Vempaty, Ravi Kokku
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2407.13032v1
+- First submission: 2024-07-17T21:44:28Z
+- Version updated: 2024-07-17T21:44:28Z
+- Abstract SHA-256: 18cfd29fcb66d703d90f747c162db1b3fc6a43f400b4eacbddf081bb83ed7947
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

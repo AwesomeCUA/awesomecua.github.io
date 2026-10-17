@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jiayi Zhang, Chuang Zhao, Yihan Zhao, Zhaoyang Yu, Ming He, Jianping Fan
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2407.03913v1
+- First submission: 2024-07-04T13:12:19Z
+- Version updated: 2024-07-04T13:12:19Z
+- Abstract SHA-256: aa74755c53e20b3a9ff4b72e03a557f455ecceaefc96a50587aefd78ac3c8176
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

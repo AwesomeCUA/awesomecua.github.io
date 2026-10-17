@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yu. I. Bogdanov, N. A. Bogdanova, D. V. Fastovets, V. F. Lukichev
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2201.03068v1
+- First submission: 2022-01-09T19:02:43Z
+- Version updated: 2022-01-09T19:02:43Z
+- Abstract SHA-256: 9e91ccc695c4d61c1e569a399864a3310c87d85d6b73c5b4159addcc86365c18
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

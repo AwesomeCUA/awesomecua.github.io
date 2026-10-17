@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuhang Han, Wenzheng Yang, Yujie Chen, Xiangqi Jin, Yaojie Zhang, Siteng Huang, Linfeng Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.01790v1
+- First submission: 2026-06-01T07:10:00Z
+- Version updated: 2026-06-01T07:10:00Z
+- Abstract SHA-256: 73364572c0f21976048c89cd7732a16c7a952b08986792d02681a5ad0288c3ca
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

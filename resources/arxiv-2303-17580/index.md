@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2303.17580v4
+- First submission: 2023-03-30T17:48:28Z
+- Version updated: 2023-12-03T18:17:21Z
+- Abstract SHA-256: 4ddab3ad61a046fe11ddf68025292f3d11b59ce43662479c06f5075267f04414
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

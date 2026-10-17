@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Abelino Jimenez, Bhiksha Raj
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/1609.05178v2
+- First submission: 2016-09-16T19:02:04Z
+- Version updated: 2016-09-23T16:12:08Z
+- Abstract SHA-256: 28e003f11dad4a1d2be839fb4d1c7736cd64a812d124fda63e7ba8dfd0da71cb
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

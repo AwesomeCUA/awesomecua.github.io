@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sagnik Anupam, Davis Brown, Shuo Li, Eric Wong, Hamed Hassani, Osbert Bastani
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2510.02418v2
+- First submission: 2025-10-02T15:22:21Z
+- Version updated: 2025-10-07T15:12:39Z
+- Abstract SHA-256: 7906e06c2efb8778a43ec774821f90947e70cec0b78d6d43ac8901f7f0562332
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

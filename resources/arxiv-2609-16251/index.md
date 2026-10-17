@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zihan Dong, Yuanzhe Liu, Zhiyuan Ma, Qishi Zhan, Dehan Kong, Guohao Li, Kaixin Li
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2609.16251v2
+- First submission: 2026-09-14T19:19:05Z
+- Version updated: 2026-09-21T14:30:34Z
+- Abstract SHA-256: 0f5fd0a3024311f9aba44a2971c9c752ee2c38444139823746b90a7c9a6d5ed4
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

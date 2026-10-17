@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Wanjing Han, Levi Taiji Li, Mu Zhang, Yue Jiang, Guanhong Tao
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.09240v1
+- First submission: 2026-10-07T00:05:53Z
+- Version updated: 2026-10-07T00:05:53Z
+- Abstract SHA-256: 3b6ef7e785ad509ebd13fdb3da97fc583ee4c28dd42b4eab842c6cd88d7ef51f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

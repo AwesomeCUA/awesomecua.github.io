@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shengcheng Yu, Yuchen Ling, Junyang Xing, Quan Zhou, Chunrong Fang, Zhenyu Chen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.09278v1
+- First submission: 2026-08-10T08:33:19Z
+- Version updated: 2026-08-10T08:33:19Z
+- Abstract SHA-256: fdd7c1df0fdb4999d4297a943bdee6f6da55e49c1170d9aaf292c000688a44c4
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

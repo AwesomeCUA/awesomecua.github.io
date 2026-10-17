@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Caleb Winston, Ron Yifeng Wang, Azalia Mirhoseini, Christos Kozyrakis
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2605.21470v2
+- First submission: 2026-05-20T17:54:27Z
+- Version updated: 2026-05-29T17:54:05Z
+- Abstract SHA-256: 9b73bf7776e280a9040b1d7d1e29957913723253014c1dfe84f64916b2a08e5e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

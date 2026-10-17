@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yibo Lyu, Gongwei Chen, Rui Shao, Weili Guan, Liqiang Nie
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2601.09636v2
+- First submission: 2026-01-14T17:12:48Z
+- Version updated: 2026-05-13T02:54:19Z
+- Abstract SHA-256: d8b697b91942291403491581a61c135c6bfc8b0f3c2a9b9bab0f926af7208fce
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

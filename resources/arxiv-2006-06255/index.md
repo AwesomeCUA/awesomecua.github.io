@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuichi Sano
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2006.06255v3
+- First submission: 2020-06-11T08:37:45Z
+- Version updated: 2020-09-10T09:59:34Z
+- Abstract SHA-256: 28e09af6f62d1a22c9a8e86b3b9c0398c75ebb4e733fbf58e1f2c8b20094c52c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

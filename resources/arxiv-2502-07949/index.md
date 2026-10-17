@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Qingyuan Wu, Jianheng Liu, Jianye Hao, Jun Wang, Kun Shao
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2502.07949v2
+- First submission: 2025-02-11T20:57:46Z
+- Version updated: 2025-05-20T19:54:36Z
+- Abstract SHA-256: 186b7fd8e79db290ea481645d8adab3989a12f787a13ecb11270f4756f5af42a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

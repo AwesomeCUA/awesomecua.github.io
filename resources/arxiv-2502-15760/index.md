@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Hao Bai, Yifei Zhou, Li Erran Li, Sergey Levine, Aviral Kumar
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2502.15760v1
+- First submission: 2025-02-13T18:55:14Z
+- Version updated: 2025-02-13T18:55:14Z
+- Abstract SHA-256: 99492dab54d9816104d47fca525277b033cadb7a53727dae06ed1a3221fcb416
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

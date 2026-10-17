@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yilun Du, Shuang Li, Antonio Torralba, Joshua B. Tenenbaum, Igor Mordatch
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2305.14325v1
+- First submission: 2023-05-23T17:55:11Z
+- Version updated: 2023-05-23T17:55:11Z
+- Abstract SHA-256: 297c58d2a4ad1af7b95985541bf1b6a33b0f476910e807b4fb709ac6f29df5e2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

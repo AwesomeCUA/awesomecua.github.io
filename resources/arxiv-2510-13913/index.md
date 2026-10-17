@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shrey Pandit, Xuan-Phi Nguyen, Yifei Ming, Austin Xu, Jiayu Wang, Caiming Xiong, Shafiq Joty
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2510.13913v1
+- First submission: 2025-10-15T06:34:46Z
+- Version updated: 2025-10-15T06:34:46Z
+- Abstract SHA-256: 2bd91d4bd8eb47c7350ceacd60e2b25e353b31be12fd852d3d7d02d099f62ac1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

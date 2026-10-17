@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Fatemeh Pesaran Zadeh, Seyeon Choi, Xing Han Lù, Siva Reddy, Gunhee Kim
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2605.20291v2
+- First submission: 2026-05-19T09:19:01Z
+- Version updated: 2026-05-26T02:53:26Z
+- Abstract SHA-256: aa6e11bae4d952d79276543ced6f81193b36868a6222fe51ee7b0816aa72fbab
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

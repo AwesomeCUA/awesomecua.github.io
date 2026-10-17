@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Ke Yang, Yao Liu, Sapana Chaudhary, Rasool Fakoor, Pratik Chaudhari, George Karypis, Huzefa Rangwala
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2410.13825v2
+- First submission: 2024-10-17T17:50:38Z
+- Version updated: 2025-05-24T03:55:22Z
+- Abstract SHA-256: 09268d51b3d810ffc0024ae332d840afc4501c8f6a2017128fca525be4809a13
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

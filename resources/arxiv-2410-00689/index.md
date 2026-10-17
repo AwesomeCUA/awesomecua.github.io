@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Ruhana Azam, Tamer Abuelsaad, Aditya Vempaty, Ashish Jagmohan
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2410.00689v2
+- First submission: 2024-10-01T13:43:55Z
+- Version updated: 2024-10-11T15:42:52Z
+- Abstract SHA-256: 69febc7aabfe38a6da439f1b4f673e0c36bc34c6afd1e8b06481433c1f43b1aa
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

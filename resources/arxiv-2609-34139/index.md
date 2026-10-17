@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Tien Tran, Namho Koh, Daiki E. Matsunaga, Ayush Jain, Kee Eung Kim
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.34139v1
+- First submission: 2026-09-28T02:21:13Z
+- Version updated: 2026-09-28T02:21:13Z
+- Abstract SHA-256: 0ee7ddc170afcd2fa09d1c8d12a07bbd6aac692bc12ffc27bd39f1de0c912dfa
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yunxin Li, Jinchao Li, Shibo Su, Zhenran Xu, Chenrui Zhao, Tongshu Bian, Xiaoman Liang, Meishan Zhang, Baotian Hu, Min Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2607.12625v2
+- First submission: 2026-07-14T11:04:01Z
+- Version updated: 2026-07-15T04:41:47Z
+- Abstract SHA-256: 281de2bb6e45a58efd047735accc2049deab0f8815931c86abbd38b86b6d23bf
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

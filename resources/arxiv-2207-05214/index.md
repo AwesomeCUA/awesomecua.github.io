@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhipu Zhou, Jie Chen, Linwei Hu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2207.05214v1
+- First submission: 2022-07-11T22:20:51Z
+- Version updated: 2022-07-11T22:20:51Z
+- Abstract SHA-256: 6d3b9d8120f170d9f14a43d260cdc02b38c1c67c27417d7e41567640f10fd07f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

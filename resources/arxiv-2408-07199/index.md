@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Pranav Putta, Edmund Mills, Naman Garg, Sumeet Motwani, Chelsea Finn, Divyansh Garg, Rafael Rafailov
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2408.07199v1
+- First submission: 2024-08-13T20:52:13Z
+- Version updated: 2024-08-13T20:52:13Z
+- Abstract SHA-256: d7171ec4f2a16cb7c0416172e93b04197aac992ec0d324bfbc13ddae8253450c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

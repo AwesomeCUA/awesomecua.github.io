@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kangrui Wang, Dalia Chakrabarty
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/1710.11292v3
+- First submission: 2017-10-31T01:48:23Z
+- Version updated: 2018-11-06T02:52:35Z
+- Abstract SHA-256: 1525756ad7365e26aac79528879a66dc60e1ebe66688180841b547328925989f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

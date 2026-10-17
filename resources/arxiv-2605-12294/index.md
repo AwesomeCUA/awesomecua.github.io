@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zerui Qin, Sheng Yue, Xingyuan Hua, Yongjian Fu, Ju Ren
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.12294v1
+- First submission: 2026-05-12T15:48:44Z
+- Version updated: 2026-05-12T15:48:44Z
+- Abstract SHA-256: 388eac2721929fc8211f40cc4edde61be0b6e6145fa60fbaa444ec80822fcc36
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

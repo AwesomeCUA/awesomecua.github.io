@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Junlei Zhang, Zichen Ding, Chang Ma, Zijie Chen, Qiushi Sun, Zhenzhong Lan, Junxian He
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2504.10127v2
+- First submission: 2025-04-14T11:35:02Z
+- Version updated: 2025-04-15T17:13:46Z
+- Abstract SHA-256: 171517999164a3581f71cf363ec6eed357b28ca86908cb97e8498c6958762a5f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

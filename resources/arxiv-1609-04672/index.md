@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Anders Pors, Michael G. Nielsen, Sergey I. Bozhevolnyi
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1609.04672v1
+- First submission: 2016-09-15T14:35:11Z
+- Version updated: 2016-09-15T14:35:11Z
+- Abstract SHA-256: 805f44633edc24170ba5b5e735cdd12a0e9e877d377d978e0b289e6e2cfebb60
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

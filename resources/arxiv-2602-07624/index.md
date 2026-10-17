@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Junyu Feng, Binxiao Xu, Jiayi Chen, Mengyu Dai, Cenyang Wu, Haodong Li, Bohan Zeng, Yunliu Xie, Hao Liang, Ming Lu, Wentao Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2602.07624v1
+- First submission: 2026-02-07T17:13:56Z
+- Version updated: 2026-02-07T17:13:56Z
+- Abstract SHA-256: f39306d72f1b0b04cf4c43e068009fae45e92f34309ae88dc2a5b9a77b37fddd
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

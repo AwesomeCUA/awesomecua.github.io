@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Dongsheng Chen, Yuxuan Li, Guanhua Chen, Jiaxin Zhang, Xiangyu Zhao, Lei Ma, Xin Yao, Xuetao Wei
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.04755v1
+- First submission: 2026-08-05T12:23:16Z
+- Version updated: 2026-08-05T12:23:16Z
+- Abstract SHA-256: 5f8b84135f72558eea1fae428df7cb30f62232631de49e690e73010aeca22d4c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

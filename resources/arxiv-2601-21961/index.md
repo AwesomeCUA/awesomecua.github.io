@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kuai Yu, Naicheng Yu, Han Wang, Rui Yang, Huan Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2601.21961v2
+- First submission: 2026-01-29T16:40:15Z
+- Version updated: 2026-02-27T16:47:40Z
+- Abstract SHA-256: 1380697158d3a91334427cf067f3f91a751bd89d31103edecfa68171b28b8d66
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

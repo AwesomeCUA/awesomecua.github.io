@@ -20,6 +20,15 @@ Hugging Face discovery used the label MAPLE for this ID; the record follows the 
 
 Linqiang Guo, Wei Liu, Yi Wen Heng, Tse-Hsun, Chen, Yang Wang
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2505.23596v3
+- First submission: 2025-05-29T16:08:51Z
+- Version updated: 2025-11-19T16:48:16Z
+- Abstract SHA-256: 6f0ec81429fb39e56414d3bfe621df6c6adf461e63fc1a1c8886ea2b6850b8ee
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

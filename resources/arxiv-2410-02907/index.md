@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Shikhar Murty, Hao Zhu, Dzmitry Bahdanau, Christopher D. Manning
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2410.02907v2
+- First submission: 2024-10-03T18:56:51Z
+- Version updated: 2025-02-05T18:56:51Z
+- Abstract SHA-256: 5e227f3686b3234745ca1749cb8fb7c2b19383ac9dfebf68976f61f07d1ddf3b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuncheng Guo, Zhanqiu Zhang, Yiwen Guo, Weijia Li
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2608.26200v2
+- First submission: 2026-08-25T17:21:15Z
+- Version updated: 2026-09-10T16:56:05Z
+- Abstract SHA-256: 58f3e6aa42b8233eb5165d111ee12e40ef78963df7acb56cdd8608bee429f372
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

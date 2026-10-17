@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Dominik Seip, Bartol Markovinović, Matthias Hein
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.18508v1
+- First submission: 2026-10-13T15:03:33Z
+- Version updated: 2026-10-13T15:03:33Z
+- Abstract SHA-256: 5565d38dd40b02b4158d7edcc2c5c27e7e285dbedefe1c7101a31c4f8d17b659
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

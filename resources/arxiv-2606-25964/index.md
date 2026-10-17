@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Chengheng Li-Chen, Zhiqian Zhou, Hao Chen, Nicolas Chauvin
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.25964v1
+- First submission: 2026-06-24T15:35:29Z
+- Version updated: 2026-06-24T15:35:29Z
+- Abstract SHA-256: 7a8efe4b9476d7f55ca4da17621ece653be2e33bf02be0183a339a12f5fac3ca
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

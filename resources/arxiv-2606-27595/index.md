@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Minbyul Jeong
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.27595v1
+- First submission: 2026-06-25T22:51:59Z
+- Version updated: 2026-06-25T22:51:59Z
+- Abstract SHA-256: fbca3da0f37ef8d6b61e7ad3498c24a4d5b111cc51021f31d59e75a44eefae2b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

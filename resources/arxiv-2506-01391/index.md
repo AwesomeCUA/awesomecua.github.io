@@ -20,6 +20,15 @@ Summary and topic tags reviewed against the primary abstract. Reported experimen
 
 Zhong Zhang, Yaxi Lu, Yikun Fu, Yupeng Huo, Shenzhi Yang, Yesai Wu, Han Si, Xin Cong, Haotian Chen, Yankai Lin, Jie Xie, Wei Zhou, Wang Xu, Yuanheng Zhang, Zhou Su, Zhongwu Zhai, Xiaoming Liu, Yudong Mei, Jianming Xu, Hongyan Tian, Chongyi Wang, Chi Chen, Yuan Yao, Zhiyuan Liu, Maosong Sun
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2506.01391v2
+- First submission: 2025-06-02T07:30:29Z
+- Version updated: 2025-06-17T02:57:04Z
+- Abstract SHA-256: 3c0b2a065898ba4f73fcb5e5b2e92d723b0b55ac6caa46d5bf02d44eb7a2cdd9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

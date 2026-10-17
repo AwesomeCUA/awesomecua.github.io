@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Lawrence Keunho Jang, Jing Yu Koh, Daniel Fried, Ruslan Salakhutdinov
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.24964v1
+- First submission: 2026-04-27T20:05:41Z
+- Version updated: 2026-04-27T20:05:41Z
+- Abstract SHA-256: db70a5736d04d26f10afe3d9a0cfb08955f65f69480a0345ff13b30b2e83df23
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

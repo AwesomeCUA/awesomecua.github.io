@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Murat Işık, Ankita Paul, M. Lakshmi Varshika, Anup Das
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2204.02942v1
+- First submission: 2022-04-06T17:15:14Z
+- Version updated: 2022-04-06T17:15:14Z
+- Abstract SHA-256: 03fa41fc3d96d0f4982b1c08ea08aeec80454b5c9810ade38fcce816580de52e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

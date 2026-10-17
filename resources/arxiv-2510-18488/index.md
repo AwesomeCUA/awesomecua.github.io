@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ho Fai Leung, Xiaoyan Xi, Fei Zuo
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2510.18488v1
+- First submission: 2025-10-21T10:11:33Z
+- Version updated: 2025-10-21T10:11:33Z
+- Abstract SHA-256: 33b21a63d51148f2b5c30478c302e3df9b92e03e2e106a1c68224f2c835a8608
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

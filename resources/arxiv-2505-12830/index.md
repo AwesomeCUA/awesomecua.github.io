@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Neethu Kuriakose, Arun Ashok, Christian Grewing, André Zambanini, Stefan van Waasen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2505.12830v1
+- First submission: 2025-05-19T08:16:47Z
+- Version updated: 2025-05-19T08:16:47Z
+- Abstract SHA-256: a855449bcbc955c849c762d4f4dd9dbfb6ffc153a102c88ebf1ee9a21f65be7c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sirui Hong, Zhijie Liu, Tengfei Li, Wei Tao, Yifan Wu, Chenglin Wu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2605.17439v2
+- First submission: 2026-05-17T13:22:22Z
+- Version updated: 2026-05-19T07:14:09Z
+- Abstract SHA-256: e9167646e6433e6ebbcb8f1cc10c19b9b027b6e4f53fadf6df16751591a48369
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

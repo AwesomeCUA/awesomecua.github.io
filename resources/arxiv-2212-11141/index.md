@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 N. Rasha Shanaz, K. Murali, P. Muruganandam
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2212.11141v1
+- First submission: 2022-12-17T00:25:56Z
+- Version updated: 2022-12-17T00:25:56Z
+- Abstract SHA-256: f7dc71c9a60ce1f2ed7e0a13e0f7809a53724e89bb318b34e37b19dc89d68bde
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

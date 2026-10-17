@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Petr Průcha, Michaela Matoušková, Jan Strnad
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2509.04198v1
+- First submission: 2025-09-04T13:22:44Z
+- Version updated: 2025-09-04T13:22:44Z
+- Abstract SHA-256: 9d2c3086aac59964b4c34a0ba890e6a9a1e55cf45c1af604f1f856180a5db746
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

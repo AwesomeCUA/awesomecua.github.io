@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Chengguang Gan, Zimeng He, Yoshihiro Tsujii, Ken-ichiro Kobayashi, Hiroki Itoh, Kotaro Funakoshi
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.01491v1
+- First submission: 2026-10-01T11:31:37Z
+- Version updated: 2026-10-01T11:31:37Z
+- Abstract SHA-256: 9a5b97264b3928c8dc74b955cc4baa7005cd34b0ce9e42cbc48a63bc6dd1f5a7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

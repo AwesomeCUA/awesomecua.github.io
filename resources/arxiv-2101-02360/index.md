@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Touheed Anwar Atif, S. Sandeep Pradhan
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2101.02360v3
+- First submission: 2021-01-07T04:22:15Z
+- Version updated: 2021-10-14T20:06:58Z
+- Abstract SHA-256: 0b4c64cd64a7d878b266b3be28cdb4336766d884f3d86b4ee60fad65e43e7e04
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Miaosen Zhang, Xiaohan Zhao, Zhihong Tan, Zhou Huoshen, Yijia Fan, Yifan Yang, Kai Qiu, Bei Liu, Justin Wagle, Chenzhong Yin, Mingxi Cheng, Ji Li, Qi Dai, Chong Luo, Xu Yang, Xin Geng, Baining Guo
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.12501v1
+- First submission: 2026-05-12T17:59:58Z
+- Version updated: 2026-05-12T17:59:58Z
+- Abstract SHA-256: 1fb57ba3cd858513d1da58d64a7c85388f12e331c9ea9f89204be5f43e6fec38
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

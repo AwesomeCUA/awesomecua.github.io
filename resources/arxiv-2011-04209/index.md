@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 S. Omkar, Y. S. Teo, Seung-Woo Lee, H. Jeong
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2011.04209v1
+- First submission: 2020-11-09T06:05:44Z
+- Version updated: 2020-11-09T06:05:44Z
+- Abstract SHA-256: 473acbcf33d4e2b58c92e42a129063daef5bbced4670a8048361565dd597cf3b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

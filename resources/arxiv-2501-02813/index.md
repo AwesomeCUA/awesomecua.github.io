@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Daiki Nishioka, Hina Kitano, Wataru Namiki, Kazuya Terabe, Takashi Tsuchiya
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2501.02813v1
+- First submission: 2025-01-06T07:25:05Z
+- Version updated: 2025-01-06T07:25:05Z
+- Abstract SHA-256: 35ab14637c9fb300fe66b262724c51acc3cad112db4a5992b9cad09379052bb2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

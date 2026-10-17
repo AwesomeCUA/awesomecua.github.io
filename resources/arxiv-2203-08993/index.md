@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Genji Fujii
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2203.08993v4
+- First submission: 2022-03-16T23:51:04Z
+- Version updated: 2025-09-30T06:19:50Z
+- Abstract SHA-256: 20caa27a6993167cdd1c1c9be912a91270ec28511ef0e670b0451a463f75e7a0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

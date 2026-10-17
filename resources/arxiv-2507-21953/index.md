@@ -20,6 +20,15 @@ Editorial summary based on the primary paper abstract; experiments and released 
 
 Yi Kong, Dianxi Shi, Guoli Yang, Zhang ke-di, Chenlin Huang, Xiaopeng Li, Songchang Jin
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2507.21953v1
+- First submission: 2025-07-29T16:05:32Z
+- Version updated: 2025-07-29T16:05:32Z
+- Abstract SHA-256: 197dbb0e2734f30349260444fca80a8ac830a5d4000a677d6417f46509737475
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

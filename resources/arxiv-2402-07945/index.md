@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Runliang Niu, Jindong Li, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2402.07945v1
+- First submission: 2024-02-09T02:33:45Z
+- Version updated: 2024-02-09T02:33:45Z
+- Abstract SHA-256: 63424a86302625b15a91ff0252ca16c0a6448160bfd748ba32e386c82883584e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

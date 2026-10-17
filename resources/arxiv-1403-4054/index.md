@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Daniel John Lawson, Niall M Adams
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1403.4054v1
+- First submission: 2014-03-17T10:22:16Z
+- Version updated: 2014-03-17T10:22:16Z
+- Abstract SHA-256: 385d0a84345a8d91e25bbd3e4bf2e3cf114cfff70abb9ba78371b0c6d8265cb6
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

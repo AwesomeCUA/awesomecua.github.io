@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yasmine Omri, Ziyu Gan, Zachary Broveak, Robin Geens, Zexue He, Alex Pentland, Marian Verhelst, Tsachy Weissman, Thierry Tambe
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2606.06448v2
+- First submission: 2026-06-04T17:44:18Z
+- Version updated: 2026-09-22T17:40:09Z
+- Abstract SHA-256: 2b97e46f1c9ef1f5ecac50cc0a0a918860dd1e76f8016ba64c459db7ea095186
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

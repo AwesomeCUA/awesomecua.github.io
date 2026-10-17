@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Qingni Wang, Yue Fan, Xin Eric Wang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2602.02419v2
+- First submission: 2026-02-02T18:22:45Z
+- Version updated: 2026-02-03T08:31:29Z
+- Abstract SHA-256: c9557fc608a7fd7667746e9b3e06bc699b1796cdd77fe5e975ba1bd5a64690c1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

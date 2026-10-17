@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ueli Rutishauser, Rodney J. Douglas
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/0809.4296v1
+- First submission: 2008-09-24T22:52:05Z
+- Version updated: 2008-09-24T22:52:05Z
+- Abstract SHA-256: a3be76f3a45f7279a9819895708c439a4014369b8bcd9da7bd70212ad3d26112
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

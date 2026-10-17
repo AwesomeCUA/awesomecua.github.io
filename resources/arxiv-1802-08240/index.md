@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 David Goluskin, Giovanni Fantuzzi
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/1802.08240v2
+- First submission: 2018-02-22T18:52:32Z
+- Version updated: 2018-09-06T18:23:09Z
+- Abstract SHA-256: 907dc638cfa81c3a56af5795bf07b643b04aee7103a9d27c42d7f2ee84fd8bff
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

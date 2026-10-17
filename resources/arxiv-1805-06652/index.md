@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jonny O'Dwyer, Niall Murray, Ronan Flynn
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1805.06652v1
+- First submission: 2018-05-17T08:34:49Z
+- Version updated: 2018-05-17T08:34:49Z
+- Abstract SHA-256: 3ffca92e9881bfba42bfa5cbf9de984a5a1aa5328913f076d55daac13f3b9701
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

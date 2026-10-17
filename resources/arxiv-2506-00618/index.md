@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jingyi Yang, Shuai Shao, Dongrui Liu, Jing Shao
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2506.00618v3
+- First submission: 2025-05-31T16:04:59Z
+- Version updated: 2025-06-20T01:24:06Z
+- Abstract SHA-256: bb94fdba775cb0fb54b312fdff9fa71afd3aefa56b812ff31ceccad33eb5f800
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

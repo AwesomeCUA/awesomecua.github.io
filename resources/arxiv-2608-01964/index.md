@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ziyu Ma, Hailang Huang, Shun Zou, Yong Wang, Shidong Yang, Yiming Hu, Fei Wei, XiangXiang Chu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.01964v1
+- First submission: 2026-08-03T09:32:21Z
+- Version updated: 2026-08-03T09:32:21Z
+- Abstract SHA-256: 9a8e00c323accb28a804e49ad903a47b92c01d12b9c7c3b8219ad752f8ba5883
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

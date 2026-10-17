@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Can Lin, Tao Feng, Hangjie Yuan, Dan Zhang, Yifan Zhu, Zhonghong Ou
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2606.10522v2
+- First submission: 2026-06-09T07:52:10Z
+- Version updated: 2026-07-06T06:23:24Z
+- Abstract SHA-256: 7523d3901755d8feeecbaf2f02dcc00fd0a40102e1498d49b9f789b0a7c02d75
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

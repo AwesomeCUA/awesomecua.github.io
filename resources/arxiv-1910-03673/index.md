@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ilan Tzitrin, J. Eli Bourassa, Nicolas C. Menicucci, Krishna Kumar Sabapathy
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/1910.03673v2
+- First submission: 2019-10-08T20:32:27Z
+- Version updated: 2020-03-16T14:18:14Z
+- Abstract SHA-256: 5f2489e3f61201b6f8c40ffbc0c97c7b3f2480d7af2a9a259617e6fe964b07c4
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

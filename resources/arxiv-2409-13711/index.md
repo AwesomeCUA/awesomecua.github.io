@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Maria Wang, Srinivas Sunkara, Gilles Baechler, Jason Lin, Yun Zhu, Fedir Zubach, Lei Shu, Jindong Chen
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2409.13711v2
+- First submission: 2024-09-06T18:44:25Z
+- Version updated: 2024-09-24T18:38:02Z
+- Abstract SHA-256: 1ca44e6c98c09a2261b2cf8f3b6d18584b2d2471934b2dcac8d5b72c17b32e61
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

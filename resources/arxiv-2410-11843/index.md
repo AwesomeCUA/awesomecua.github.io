@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zeru Shi, Kai Mei, Mingyu Jin, Yongye Su, Chaoji Zuo, Wenyue Hua, Wujiang Xu, Yujie Ren, Zirui Liu, Mengnan Du, Dong Deng, Yongfeng Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 5
+- Version source: https://arxiv.org/abs/2410.11843v5
+- First submission: 2024-09-23T08:39:16Z
+- Version updated: 2025-03-19T03:17:47Z
+- Abstract SHA-256: aa26cd90a9bcd0ef72e1721630f84b03cad381f5dff9c82eebf589be75d984f2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

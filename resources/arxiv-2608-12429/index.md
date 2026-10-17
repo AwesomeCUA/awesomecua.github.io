@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ruitao Wang, Yuwen Hao, Menglin Yang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.12429v1
+- First submission: 2026-08-12T12:03:20Z
+- Version updated: 2026-08-12T12:03:20Z
+- Abstract SHA-256: bf543ef0b77eb6fe430c8cef5382932f13e4e4136aaba9c14c44b5a591d6612a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

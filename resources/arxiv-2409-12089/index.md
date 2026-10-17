@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Wayne Chi, Ameet Talwalkar, Chris Donahue
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2409.12089v3
+- First submission: 2024-09-18T16:04:10Z
+- Version updated: 2024-10-06T21:25:34Z
+- Abstract SHA-256: a2f59976cec7adb9f9c88bd79bdfbeed040e4874b6d9ab0c229136f98101aa98
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

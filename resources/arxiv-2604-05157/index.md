@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Rongqian Chen, Yu Li, Zeyu Fang, Sizhe Tang, Weidong Cao, Tian Lan
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2604.05157v3
+- First submission: 2026-04-06T20:39:30Z
+- Version updated: 2026-05-28T08:13:55Z
+- Abstract SHA-256: 238aac264fb21022f7c546ae3aa3f4ea104c381f5d318f6d962f22fb00095216
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

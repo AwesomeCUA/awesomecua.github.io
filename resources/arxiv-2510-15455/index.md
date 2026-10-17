@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Gucongcong Fan, Chaoyue Niu, Chengfei Lyu, Fan Wu, Guihai Chen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2510.15455v1
+- First submission: 2025-10-17T09:11:05Z
+- Version updated: 2025-10-17T09:11:05Z
+- Abstract SHA-256: 8584797a1c12158b20da04c30e3a0f577c63f02f9e906a051579959de2cae480
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

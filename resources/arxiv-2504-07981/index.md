@@ -20,6 +20,15 @@ Editorial summary based on the primary paper abstract; experiments and released 
 
 Kaixin Li, Ziyang Meng, Hongzhan Lin, Ziyang Luo, Yuchen Tian, Jing Ma, Zhiyong Huang, Tat-Seng Chua
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2504.07981v1
+- First submission: 2025-04-04T14:25:17Z
+- Version updated: 2025-04-04T14:25:17Z
+- Abstract SHA-256: 679bfcac736544e9a241c579adfda0cacbc40838452ea56ad631f8086868415a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

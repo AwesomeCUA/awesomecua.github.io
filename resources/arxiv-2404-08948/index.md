@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Chenhui Cui, Tao Li, Junjie Wang, Chunyang Chen, Dave Towey, Rubing Huang
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2404.08948v4
+- First submission: 2024-04-13T09:56:50Z
+- Version updated: 2026-06-25T14:05:55Z
+- Abstract SHA-256: a844cdd06a32b8e89f362b7e924b36e27e72c1f1def81ed0b934f761ffcaba78
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

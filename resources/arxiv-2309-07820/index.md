@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Cameron Calcluth, Nicolas Reichel, Alessandro Ferraro, Giulia Ferrini
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2309.07820v2
+- First submission: 2023-09-14T16:15:14Z
+- Version updated: 2024-01-05T11:08:36Z
+- Abstract SHA-256: 9c4269deba97d892b29400d92784f8ec60be5ebe5155e82632f36be09c0cbe41
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

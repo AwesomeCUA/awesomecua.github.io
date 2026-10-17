@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Tomoyuki Yokouchi, Satoshi Sugimoto, Bivas Rana, Shinichiro Seki, Naoki Ogawa, Yuki Shiomi, Shinya Kasai, Yoshichika Otani
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2204.13260v1
+- First submission: 2022-04-28T02:45:42Z
+- Version updated: 2022-04-28T02:45:42Z
+- Abstract SHA-256: 1dab800d473a203a5ec3f6f3912aacece4c7801a547b24de9fc6e64dfcc7b5f1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zejun Xu, Taiyi Chen, Jin Li, Yongtong Gu, Qi Cheng, Aixuan Lv, Shuai Zhu, Pengfei Zhu, Kaichen Yang, Boyu Sun, Yixian Yang, Mulong Xie, Xin Liu, Dagang Li, Xiaoteng Ma, Hongru Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.08392v1
+- First submission: 2026-08-09T01:08:19Z
+- Version updated: 2026-08-09T01:08:19Z
+- Abstract SHA-256: d0e469cd7d84080e11df46d826460bea79eae71b8fa5786cacd96aac02b8b0a8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Daixuan Cheng, Shaohan Huang, Yuxian Gu, Huatong Song, Guoxin Chen, Li Dong, Wayne Xin Zhao, Ji-Rong Wen, Furu Wei
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2601.16206v3
+- First submission: 2026-01-22T18:57:09Z
+- Version updated: 2026-04-08T06:37:40Z
+- Abstract SHA-256: 6418171ce26fffaa9debd94806b28d6018e5485ff991a359485558cebfefaebb
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

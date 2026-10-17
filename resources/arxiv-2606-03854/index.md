@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuhao Yang, Tianyu Fan, Chao Huang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.03854v1
+- First submission: 2026-06-02T16:30:33Z
+- Version updated: 2026-06-02T16:30:33Z
+- Abstract SHA-256: f7490150e82a5abfc510c60401cccf21c821d829e66cc5f2b40fd2fbbf4b0df4
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

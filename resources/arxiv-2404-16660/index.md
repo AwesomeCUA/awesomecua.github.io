@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Juyong Lee, Taywon Min, Minyong An, Dongyoon Hahm, Haeone Lee, Changyeon Kim, Kimin Lee
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2404.16660v3
+- First submission: 2024-04-25T14:56:32Z
+- Version updated: 2025-07-21T02:55:09Z
+- Abstract SHA-256: 45c13064bbfbcf153566b86c8969f4de5b5e87dc133342c595b3b58bde3bb615
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

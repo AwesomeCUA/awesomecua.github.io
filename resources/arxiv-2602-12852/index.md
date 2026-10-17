@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Junjie Wang, Zequn Xie, Dan Yang, Jie Feng, Yue Shen, Duolin Sun, Meixiu Long, Yihan Jiao, Zhehao Tan, Jian Wang, Peng Wei, Jinjie Gu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2602.12852v2
+- First submission: 2026-02-13T11:56:20Z
+- Version updated: 2026-05-08T07:17:45Z
+- Abstract SHA-256: 7ebb062fd2746028659aebccb5e445bb1755c4def5a6f14b3a8a2e45c8d6d7dc
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

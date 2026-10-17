@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yanqiu Zhao, Dongying Zheng, Kaibo Huang, Yukun Wei, Zhongliang Yang, Linna Zhou
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2605.28646v2
+- First submission: 2026-05-27T15:51:22Z
+- Version updated: 2026-05-29T04:03:46Z
+- Abstract SHA-256: 6eb9b67f7e51edecfbe57af47b6bad445c05129c11c377d32ea84369b430f895
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

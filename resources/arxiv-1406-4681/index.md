@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Parul Kashyap, Rahul Singh
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1406.4681v1
+- First submission: 2014-06-18T11:15:33Z
+- Version updated: 2014-06-18T11:15:33Z
+- Abstract SHA-256: edc565fa73d24a2ff4f088a5f10f0935e3db4051f2c4ef72892f7553956039ac
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

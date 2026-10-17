@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Arman Zharmagambetov, Chuan Guo, Ivan Evtimov, Maya Pavlova, Ruslan Salakhutdinov, Kamalika Chaudhuri
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2503.09780v3
+- First submission: 2025-03-12T19:30:31Z
+- Version updated: 2025-10-01T23:55:58Z
+- Abstract SHA-256: bbb0726446c9679781b8e5930da0d3f406989a4b47759ce3440c9ad56d5839d8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

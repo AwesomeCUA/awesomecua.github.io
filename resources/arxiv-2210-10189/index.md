@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Luis A. Martínez-Martínez, Tzu-Ching Yen, Artur F. Izmaylov
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2210.10189v2
+- First submission: 2022-10-18T22:22:54Z
+- Version updated: 2023-08-07T22:32:00Z
+- Abstract SHA-256: dc77763eae9c5c80f7dc12f806ed73f708240f4f64d8d59c615eb620c0101c53
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

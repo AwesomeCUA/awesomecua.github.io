@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xiaoqiang Wang, Bang Liu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2410.18963v1
+- First submission: 2024-10-24T17:58:08Z
+- Version updated: 2024-10-24T17:58:08Z
+- Abstract SHA-256: 66fa51b108ac79cc43a895ba757ca463d5008bfe6db5cde4bdf3a3bb38c444eb
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

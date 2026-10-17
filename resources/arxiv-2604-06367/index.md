@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Guruprasad Viswanathan Ramesh, Asmit Nayak, Basieem Siddique, Kassem Fawaz
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2604.06367v2
+- First submission: 2026-04-07T18:43:21Z
+- Version updated: 2026-06-16T22:37:53Z
+- Abstract SHA-256: 400d8a9f7aed4f150dd5198d9a1561d2df0454069495594ca165ad4254a1be59
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

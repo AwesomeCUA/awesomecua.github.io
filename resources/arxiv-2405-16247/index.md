@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Minghao Chen, Yihang Li, Yanting Yang, Shiyu Yu, Binbin Lin, Xiaofei He
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2405.16247v4
+- First submission: 2024-05-25T14:11:44Z
+- Version updated: 2024-11-10T12:54:35Z
+- Abstract SHA-256: 0d2c250456b40ddd3c6dbe09aafe3377e13144b6b334cd629e3c4c4a62f6fc58
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

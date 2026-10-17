@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Kevin Xu, Yeganeh Kordi, Tanay Nayak, Adi Asija, Yizhong Wang, Kate Sanders, Adam Byerly, Jingyu Zhang, Benjamin Van Durme, Daniel Khashabi
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2403.11905v4
+- First submission: 2024-03-18T16:06:30Z
+- Version updated: 2025-02-22T01:33:54Z
+- Abstract SHA-256: d82424b84ebddfeb005ffae38c130c6a9c7dae7adcdc59e2b7d001284b785573
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Alex Devonport, Murat Arcak
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1910.02500v1
+- First submission: 2019-10-06T18:39:57Z
+- Version updated: 2019-10-06T18:39:57Z
+- Abstract SHA-256: 7dcf36ada74bcb7490e35df3038c3df5651b55556606a601d78c3f7f4bcbfcd5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

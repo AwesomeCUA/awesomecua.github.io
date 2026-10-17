@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Wenxuan Shen, Dongna Jin, Dongping Chen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.24680v1
+- First submission: 2026-08-25T15:13:32Z
+- Version updated: 2026-08-25T15:13:32Z
+- Abstract SHA-256: f154c8f8d49f75fb249ebf1e2928a7db4d0568a3f9cc195284576f365438fbdf
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

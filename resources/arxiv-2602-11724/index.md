@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xiwen Teoh, Yun Lin, Duc-Minh Nguyen, Ruofei Ren, Wenjie Zhang, Jin Song Dong
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2602.11724v3
+- First submission: 2026-02-12T08:51:07Z
+- Version updated: 2026-04-23T15:00:58Z
+- Abstract SHA-256: 2076fc8b0b7b37bdf43fe2e0b0cc5fa4c3a8cb7b44a41fdf80f59a8c05c7e1b3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

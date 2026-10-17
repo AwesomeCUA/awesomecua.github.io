@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Junpeng Liu, Tianyue Ou, Yifan Song, Yuxiao Qu, Wai Lam, Chenyan Xiong, Wenhu Chen, Graham Neubig, Xiang Yue
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2410.13824v3
+- First submission: 2024-10-17T17:48:54Z
+- Version updated: 2024-11-06T08:29:22Z
+- Abstract SHA-256: 2a3bcd26dff4f1d21a8a2772929c0c97cd1cc180a7606b0744e630dabae94609
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

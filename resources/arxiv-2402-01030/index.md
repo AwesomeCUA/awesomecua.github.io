@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xingyao Wang, Yangyi Chen, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2402.01030v4
+- First submission: 2024-02-01T21:38:58Z
+- Version updated: 2024-06-07T01:53:07Z
+- Abstract SHA-256: 7e053453816217e97c5909f22f49b67c2a007b69d1148761e0a83017200f035e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

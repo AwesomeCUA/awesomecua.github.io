@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Nan Chen, Jing Lu, Zilong Wang, Luna K. Qiu, Siming Chen, Yuqing Yang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2601.18092v1
+- First submission: 2026-01-26T03:02:26Z
+- Version updated: 2026-01-26T03:02:26Z
+- Abstract SHA-256: ae1716f673e47cd0e61b5f2225ca4871dfd8522e35037fc8d226f9c7cd0e3e75
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Bowen Lv, Xiao Liu, Yanyu Ren, Hanyu Lai, Bohao Jing, Hanchen Zhang, Yanxiao Zhao, Shuntian Yao, Jie Tang, Yuxiao Dong
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2607.11185v1
+- First submission: 2026-07-13T07:32:35Z
+- Version updated: 2026-07-13T07:32:35Z
+- Abstract SHA-256: 554844f23cddbdaadc3c52e93d07d06c756faadbd0136ffef0984b25423f84f8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

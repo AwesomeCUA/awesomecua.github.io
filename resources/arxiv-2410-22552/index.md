@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Jaekyeom Kim, Dong-Ki Kim, Lajanugen Logeswaran, Sungryull Sohn, Honglak Lee
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2410.22552v1
+- First submission: 2024-10-29T21:37:04Z
+- Version updated: 2024-10-29T21:37:04Z
+- Abstract SHA-256: bf1fb8aa2e289a72f3c44c99e2d531eaa5eeea08b78ff6f3a21e139d47502b17
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

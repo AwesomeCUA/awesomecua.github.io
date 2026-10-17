@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Nicholas J. Boyer, Christopher Shepard, Ruiyi Zhou, Jianhang Xu, Yosuke Kanai
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2412.05260v1
+- First submission: 2024-12-06T18:49:53Z
+- Version updated: 2024-12-06T18:49:53Z
+- Abstract SHA-256: b60f486694c7a9c77fc27ca1b5763d2af6f84084f5ad4dfa8066c94eb2ffc762
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

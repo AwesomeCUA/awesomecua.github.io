@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zechen Bai, Zhiheng Chen, Yiqi Lin, Kevin Qinghong Lin, Difei Gao, Xiangwu Guo, Xin Wang, Mike Zheng Shou
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.03951v1
+- First submission: 2026-06-02T17:39:07Z
+- Version updated: 2026-06-02T17:39:07Z
+- Abstract SHA-256: 20baed183b31118c23112d6396ad9ea15329ee8b54ef435caf003907f18d9c28
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

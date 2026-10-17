@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Linjia Kang, Zhimin Wang, Yongkang Zhang, Duo Wu, Jinghe Wang, Ming Ma, Haopeng Yan, Zhi Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2601.22781v1
+- First submission: 2026-01-30T10:03:20Z
+- Version updated: 2026-01-30T10:03:20Z
+- Abstract SHA-256: 0d66365682d0ea4cee744c6c59d3a585c9272a31da5f8ff7c27983d719f070a7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

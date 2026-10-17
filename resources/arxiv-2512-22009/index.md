@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sarthak Mehrotra, Sairam V C Rebbapragada, Mani Hemanth Reddy Bonthu, Vineeth N Balasubramanian
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2512.22009v1
+- First submission: 2025-12-26T12:09:15Z
+- Version updated: 2025-12-26T12:09:15Z
+- Abstract SHA-256: 041466768673c1ea49bceda2ad08784c0fa0e896bcee5452a1e41d51ac3b81d8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

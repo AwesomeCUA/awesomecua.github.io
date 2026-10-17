@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhen Xiang, Linzhi Zheng, Yanjie Li, Junyuan Hong, Qinbin Li, Han Xie, Jiawei Zhang, Zidi Xiong, Chulin Xie, Carl Yang, Dawn Song, Bo Li
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2406.09187v3
+- First submission: 2024-06-13T14:49:26Z
+- Version updated: 2025-05-29T03:09:05Z
+- Abstract SHA-256: 50a8ea492d3f1c2ff2bd00ebfb18e19077bacc96b44c751d985bfe0f7bef0247
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

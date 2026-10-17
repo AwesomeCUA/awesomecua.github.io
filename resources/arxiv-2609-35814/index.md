@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xunjian Yin, Tianchen Guan, Jinao Wang, Weili Cao, Daisy Xinlei Lin, Royce Cheng-Yue, Keagan Long, Kyle Wong, Bhuwan Dhingra, Xiangjun Wang, Shuyan Zhou
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.35814v1
+- First submission: 2026-09-20T16:16:23Z
+- Version updated: 2026-09-20T16:16:23Z
+- Abstract SHA-256: 197cfb8424584955bc85602d6559037ad31ee815f89b45dc8f9f18c8636552ad
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

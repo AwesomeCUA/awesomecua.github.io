@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Vincent Siu, Manasi Sharma, Dawn Song, Daniel Yue Zhang, Chenguang Wang, Ying Liu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2606.21654v2
+- First submission: 2026-06-19T18:00:14Z
+- Version updated: 2026-08-19T17:29:04Z
+- Abstract SHA-256: 69e668a9491a31e8d8849bab8cc63eede9878fff10ccb0ae0a211610e90819b3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

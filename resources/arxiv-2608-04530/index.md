@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhuoran Zhang, Bowen Li, Jingcheng Ju, Yang Shi, Qixun Wang, Haotian Wang, Wei Chen, Tengjiao Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.04530v1
+- First submission: 2026-08-05T07:02:30Z
+- Version updated: 2026-08-05T07:02:30Z
+- Abstract SHA-256: 9315b92fb8fdf4b99b984d9601ddcc3d9a75357d74660644324211f2e02eb54d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

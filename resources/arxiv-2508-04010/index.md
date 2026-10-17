@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yurun Chen, Xavier Hu, Yuhan Liu, Keting Yin, Juncheng Li, Zhuosheng Zhang, Shengyu Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2508.04010v1
+- First submission: 2025-08-06T01:49:32Z
+- Version updated: 2025-08-06T01:49:32Z
+- Abstract SHA-256: a0ff68ce8b01bd31135b3639c0613977539d5546983ab35b934be333ad66dd32
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

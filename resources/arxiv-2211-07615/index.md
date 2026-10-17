@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Sagar Gubbi Venkatesh, Partha Talukdar, Srini Narayanan
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2211.07615v2
+- First submission: 2022-11-14T18:36:19Z
+- Version updated: 2023-05-23T16:08:10Z
+- Abstract SHA-256: 52319819402cec76a69c0bb513f3a7000053208ddd9d2a8c675e055422402fbe
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

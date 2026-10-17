@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Fangzhou Wu, Shutong Wu, Yulong Cao, Chaowei Xiao
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2402.16965v1
+- First submission: 2024-02-26T19:01:54Z
+- Version updated: 2024-02-26T19:01:54Z
+- Abstract SHA-256: 2cf1458c8c4134b2195394a8acba4919f9b3a5a7c79b1bea017ac4558123f69c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

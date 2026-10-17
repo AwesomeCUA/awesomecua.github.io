@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Syed Yusuf Ahmed, Shiwei Feng, Chanwoo Bae, Calix Barrus Xiangyu Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2603.10268v1
+- First submission: 2026-03-10T22:56:03Z
+- Version updated: 2026-03-10T22:56:03Z
+- Abstract SHA-256: 8ad18d7fe815f5529fef663130b7ce8841763589e7f4319c0c7556ec2df1da03
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

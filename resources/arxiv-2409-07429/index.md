@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zora Zhiruo Wang, Jiayuan Mao, Daniel Fried, Graham Neubig
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2409.07429v1
+- First submission: 2024-09-11T17:21:00Z
+- Version updated: 2024-09-11T17:21:00Z
+- Abstract SHA-256: d4c142be3a9c37bbb0d4f401a02de25bd25b4c3968f42ad9a61513abff2b5460
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

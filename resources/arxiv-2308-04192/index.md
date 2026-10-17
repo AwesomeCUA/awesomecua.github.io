@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Brendan Pankovich, Angus Kan, Kwok Ho Wan, Maike Ostmann, Alex Neville, Srikrishna Omkar, Adel Sohbi, Kamil Brádler
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2308.04192v1
+- First submission: 2023-08-08T11:36:23Z
+- Version updated: 2023-08-08T11:36:23Z
+- Abstract SHA-256: e11a9d65f10fb8f5607d281f877e300a108f92e77fe1f5f5f69dbca59cb9d100
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

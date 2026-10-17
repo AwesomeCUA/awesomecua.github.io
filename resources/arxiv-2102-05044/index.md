@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Christian W. Bauer, Marat Freytsis, Benjamin Nachman
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2102.05044v1
+- First submission: 2021-02-09T19:00:00Z
+- Version updated: 2021-02-09T19:00:00Z
+- Abstract SHA-256: 0bf7a0cec466fe5584b67e2200c450c09437a5ad4e5a832eb9c0be98a826272a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

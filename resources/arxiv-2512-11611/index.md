@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Chunyi Li, Longfei Li, Zicheng Zhang, Xiaohong Liu, Min Tang, Weisi Lin, Guangtao Zhai
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2512.11611v1
+- First submission: 2025-12-12T14:49:32Z
+- Version updated: 2025-12-12T14:49:32Z
+- Abstract SHA-256: 484a51656db4466d5e8630d64fa78d3cf10043568488f5a2e9bae679fa800cbe
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

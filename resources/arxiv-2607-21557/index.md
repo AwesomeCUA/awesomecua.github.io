@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xiao Yu, Baolin Peng, Ruize Xu, Hao Zou, Qianhui Wu, Hao Cheng, Wenlin Yao, Nikhil Singh, Zhou Yu, Jianfeng Gao
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2607.21557v3
+- First submission: 2026-07-23T17:38:30Z
+- Version updated: 2026-08-07T17:40:50Z
+- Abstract SHA-256: 965fe5aabfb44b4c82290fc347a463eb58fb2be7a3761496efd38167d0f7d5b6
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

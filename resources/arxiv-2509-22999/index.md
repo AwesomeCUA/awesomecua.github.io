@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sachin Sachdeva, Jincong Lu, Wantong Li, Sheldon X. -D. Tan
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2509.22999v1
+- First submission: 2025-09-26T23:29:23Z
+- Version updated: 2025-09-26T23:29:23Z
+- Abstract SHA-256: 29b01211f1ea7a5f2bc4256eb06df75946d49e9b667e9e26c78f68fc1f9a31be
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

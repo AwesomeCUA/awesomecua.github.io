@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sunjae Lee, Junyoung Choi, Jungjae Lee, Munim Hasan Wasi, Hojun Choi, Steven Y. Ko, Sangeun Oh, Insik Shin
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2312.03003v3
+- First submission: 2023-12-04T06:13:35Z
+- Version updated: 2024-10-16T08:15:53Z
+- Abstract SHA-256: b9b6f10b17513f565a13e035802d8bd681b5b0d468ba000df1427a8d59591e2c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

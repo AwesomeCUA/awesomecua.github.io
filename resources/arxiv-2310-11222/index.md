@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Michele Coscia, Karel Devriendt
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2310.11222v1
+- First submission: 2023-10-17T12:55:14Z
+- Version updated: 2023-10-17T12:55:14Z
+- Abstract SHA-256: 83dacf536e94f372132419c0b1225cb0e6e52690f12d796cbc30009c48b5e90e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

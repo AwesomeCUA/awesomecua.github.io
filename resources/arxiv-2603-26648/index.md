@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zehai He, Wenyi Hong, Zhen Yang, Ziyang Pan, Mingdao Liu, Xiaotao Gu, Jie Tang
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2603.26648v3
+- First submission: 2026-03-27T17:50:45Z
+- Version updated: 2026-07-20T07:35:15Z
+- Abstract SHA-256: b2de420af47017d4c8aedd73ee07f749ab372e22dd7bac262bec684a68eb6880
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

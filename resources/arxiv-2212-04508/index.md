@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Nils Quetschlich, Lukas Burgholzer, Robert Wille
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2212.04508v2
+- First submission: 2022-12-08T19:00:01Z
+- Version updated: 2023-04-04T09:28:14Z
+- Abstract SHA-256: f76992f582117cb3659bf12bfa610744588c04b3e241b9b1ed104da069568c53
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

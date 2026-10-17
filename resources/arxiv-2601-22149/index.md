@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Hang Ding, Peidong Liu, Junqiao Wang, Ziwei Ji, Meng Cao, Rongzhao Zhang, Lynn Ai, Eric Yang, Tianyu Shi, Lei Yu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2601.22149v2
+- First submission: 2026-01-29T18:59:07Z
+- Version updated: 2026-04-17T18:27:53Z
+- Abstract SHA-256: aedb5ed90c91d72f62f5ab60be5374b6f431f887425bc760883ce3fb85a46d43
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

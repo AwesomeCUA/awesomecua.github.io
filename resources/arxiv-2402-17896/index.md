@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Corby Rosset, Ho-Lam Chung, Guanghui Qin, Ethan C. Chau, Zhuo Feng, Ahmed Awadallah, Jennifer Neville, Nikhil Rao
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2402.17896v1
+- First submission: 2024-02-27T21:27:16Z
+- Version updated: 2024-02-27T21:27:16Z
+- Abstract SHA-256: 1b538ae272b6b534fc8697b9a43078abd84b755eec2d666d221bd87c6f91411e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

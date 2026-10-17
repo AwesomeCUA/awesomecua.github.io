@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 John Li, Shehab Sarar Ahmed, Deepak Nair
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2409.02453v2
+- First submission: 2024-09-04T05:19:57Z
+- Version updated: 2024-09-10T08:20:36Z
+- Abstract SHA-256: e7af0ea04235e191b09892aa37932bd4465d0141c27cbd14bde671b4726f2927
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

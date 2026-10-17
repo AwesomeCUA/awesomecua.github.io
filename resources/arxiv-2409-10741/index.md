@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Mobina Shahbandeh, Parsa Alian, Noor Nashid, Ali Mesbah
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2409.10741v1
+- First submission: 2024-09-16T21:18:39Z
+- Version updated: 2024-09-16T21:18:39Z
+- Abstract SHA-256: 5bdbd80e252cfa37dc62d666a202e647f93813549c55dde82daf36afe309c7f2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

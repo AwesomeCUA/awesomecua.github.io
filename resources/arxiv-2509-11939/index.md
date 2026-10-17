@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shuning Zhang, Yutong Jiang, Rongjun Ma, Yuting Yang, Mingyao Xu, Zhixin Huang, Xin Yi, Hewu Li
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2509.11939v1
+- First submission: 2025-09-15T13:58:52Z
+- Version updated: 2025-09-15T13:58:52Z
+- Abstract SHA-256: f37ebc10535f96d17d28990e608a1f2eb6cc004f40d58b3288c4a81d781160ea
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

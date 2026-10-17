@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Riad Ladjel, Nicolas Anciaux, Aurélien Bellet, Guillaume Scerri
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2112.12411v1
+- First submission: 2021-12-23T08:30:17Z
+- Version updated: 2021-12-23T08:30:17Z
+- Abstract SHA-256: d0c554f0021e24d4843f94ce483b7a94f4c64843872b9bcf3710ca515616b956
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

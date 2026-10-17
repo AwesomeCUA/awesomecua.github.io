@@ -20,6 +20,15 @@ Editorial summary based on the primary paper abstract; experiments and released 
 
 Zhaorun Chen, Mintong Kang, Bo Li
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2503.22738v2
+- First submission: 2025-03-26T17:58:40Z
+- Version updated: 2025-11-27T22:01:17Z
+- Abstract SHA-256: 362fe117797181225641b71b23df95d82c2f90ebf2bbfa1bebea56427e502091
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

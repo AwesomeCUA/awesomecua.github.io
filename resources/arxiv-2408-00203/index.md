@@ -20,6 +20,15 @@ Summary and topic tags reviewed against the primary abstract. Reported experimen
 
 Yadong Lu, Jianwei Yang, Yelong Shen, Ahmed Awadallah
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2408.00203v1
+- First submission: 2024-08-01T00:00:43Z
+- Version updated: 2024-08-01T00:00:43Z
+- Abstract SHA-256: dfe55dd83d2f5ac48f9e3efb6bdf4aab7f11d81c0118725555456cce276adae3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

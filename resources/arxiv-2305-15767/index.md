@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Mengyu Zhang, Xiangyu Ren, Guanglei Xi, Zhenxing Zhang, Qiaonian Yu, Fuming Liu, Hualiang Zhang, Shengyu Zhang, Yi-Cong Zheng
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2305.15767v1
+- First submission: 2023-05-25T06:23:32Z
+- Version updated: 2023-05-25T06:23:32Z
+- Abstract SHA-256: 337989043423afbaf3e05c86ea3772b9498630c12b1fdce87d87b06510e430fd
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

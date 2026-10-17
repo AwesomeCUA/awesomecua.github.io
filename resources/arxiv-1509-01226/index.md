@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sajjad AbdollahRamezani, Kamalodin Arik, Amin Khavasi, Zahra Kavehvash
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1509.01226v1
+- First submission: 2015-09-02T19:54:03Z
+- Version updated: 2015-09-02T19:54:03Z
+- Abstract SHA-256: e0f9ff80e2dcd6fea47d8fb44295d880d6a201ef49cd092b01890f43b4e97755
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

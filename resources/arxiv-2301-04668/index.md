@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 M. Mazzanti, R. Gerritsma, R. J. C. Spreeuw, A. Safavi-Naini
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2301.04668v1
+- First submission: 2023-01-11T19:00:09Z
+- Version updated: 2023-01-11T19:00:09Z
+- Abstract SHA-256: a4c9544ad60f0958a9d701de430c0c0d070bb8d90c1d23e01bcd8b92ba3e42b4
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

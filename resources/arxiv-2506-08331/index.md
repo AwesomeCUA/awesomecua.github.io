@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Pan Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2506.08331v1
+- First submission: 2025-06-10T01:35:21Z
+- Version updated: 2025-06-10T01:35:21Z
+- Abstract SHA-256: 7a58ff1c911a1ed4dc3b9dbadf70ef698115173d4eb55aba1a47837f7201e809
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

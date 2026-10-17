@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Erick Lavoie, Laurie Hendren, Fréderic Desprez, Miguel Correia
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1904.11402v1
+- First submission: 2019-04-25T15:20:28Z
+- Version updated: 2019-04-25T15:20:28Z
+- Abstract SHA-256: bb2cb198f15e0049b286283eaff49c6e69415ddd76afc3d9ab7bf80bc5c088b2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

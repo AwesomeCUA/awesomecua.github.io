@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Changyue Jiang, Jiayi Wang, Xin Wen, Jiarun Dai, Geng Hong, Xudong Pan
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.22724v1
+- First submission: 2026-09-19T03:18:25Z
+- Version updated: 2026-09-19T03:18:25Z
+- Abstract SHA-256: 3d43e0803b924cacdc9b7af29757ed2539b6f3e09bed3c263d6465bbfc550733
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Glenn Volkema, Gaurav Khanna
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1607.05537v1
+- First submission: 2016-07-19T12:14:36Z
+- Version updated: 2016-07-19T12:14:36Z
+- Abstract SHA-256: a6b72ea7c5394d9a6f4c35c290dceae328e49a31913b4a3ac58df7a06d7a19c5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

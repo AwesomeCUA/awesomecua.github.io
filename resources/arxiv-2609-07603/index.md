@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jingpu Yang, Fengxian Ji, Jinri Guo, Tianhao Li, Qian Jiang, Fan Zhang, Min Peng, Qianqian Xie, Preslav Nakov, Zhuohan Xie
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.07603v1
+- First submission: 2026-09-07T15:13:23Z
+- Version updated: 2026-09-07T15:13:23Z
+- Abstract SHA-256: 08972b7b01a189a42be94363db08d89c6f97bdcbd9e10860168b122cef29e8fa
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

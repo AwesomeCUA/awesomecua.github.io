@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Segev Shlomov, Ben wiesel, Aviad Sela, Ido Levy, Liane Galanti, Roy Abitbol
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2409.01927v1
+- First submission: 2024-09-03T14:17:09Z
+- Version updated: 2024-09-03T14:17:09Z
+- Abstract SHA-256: cdb228e652218d7f8981d9d16ca29b465004675c510d1e9c5c7b543bec9dc454
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

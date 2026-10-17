@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Borui Zhang, Bo Zhang, Bo Wang, Wenzhao Zheng, Yuhao Cheng, Liang Tang, Yiqiang Yan, Jie Zhou, Jiwen Lu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.06664v1
+- First submission: 2026-05-07T17:59:31Z
+- Version updated: 2026-05-07T17:59:31Z
+- Abstract SHA-256: 61c1368f37c2ff80ca67985aff50e2fd26123f795cf2a8c6336a505b3fc02526
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

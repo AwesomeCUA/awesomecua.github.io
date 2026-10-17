@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Bofei Zhang, Zirui Shang, Zhi Gao, Wang Zhang, Rui Xie, Xiaojian Ma, Tao Yuan, Xinxiao Wu, Song-Chun Zhu, Qing Li
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2504.12679v4
+- First submission: 2025-04-17T06:15:56Z
+- Version updated: 2025-12-04T15:01:09Z
+- Abstract SHA-256: 346fc4db7f8fbf2dc66c32e36f5cc5ace22228d60bdd4c61b6b7ac65487a4a8c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

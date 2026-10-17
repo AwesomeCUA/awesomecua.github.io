@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Alberto Avila-Jimenez, David Barreda, Sarah-Laurie Evans, Austin Luchsinger, Aiden Massie, Robert Schweller, Evan Tomai, Tim Wylie
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2512.06574v1
+- First submission: 2025-12-06T21:32:31Z
+- Version updated: 2025-12-06T21:32:31Z
+- Abstract SHA-256: 315c1529f91779b8a65df4397f6af16d1cf621307c0882fba42b6b96212ef304
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xinyun Cao, Adriana Szekeres, Fazle Elahi Faisal
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.13548v1
+- First submission: 2026-09-11T21:24:40Z
+- Version updated: 2026-09-11T21:24:40Z
+- Abstract SHA-256: 0ce929c347ed5160b1f8455cc9d7e73ac2cc1b678e9d386d00dd4b2ef146b56d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

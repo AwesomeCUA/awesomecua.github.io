@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Joseph Harris, Elham Kashefi
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2306.04351v3
+- First submission: 2023-06-07T11:35:21Z
+- Version updated: 2025-02-05T09:43:03Z
+- Abstract SHA-256: ac195dda5e673407767878aa5c1cabfc65783aa82aac41fb748c8a49f366516a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

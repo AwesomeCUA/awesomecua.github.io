@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Mariia Mykhailova
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2311.12960v2
+- First submission: 2023-11-21T19:55:23Z
+- Version updated: 2023-12-15T23:37:14Z
+- Abstract SHA-256: 2e9f519c737eff3384333269d68c6b78c0236d634c87566cab93389dd45eb5d8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 B. Y. Yan, Chaofan Li, Hongjin Qian, Shuqi Lu, Zheng Liu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2511.18423v1
+- First submission: 2025-11-23T12:29:33Z
+- Version updated: 2025-11-23T12:29:33Z
+- Abstract SHA-256: ed3d008702ec93c56550f82e763534b9c35014392369d904a3fad0ee0e44405c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

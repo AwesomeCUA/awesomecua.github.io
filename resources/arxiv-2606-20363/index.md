@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuexing Hao, Xiaomin Li
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.20363v1
+- First submission: 2026-06-18T15:25:42Z
+- Version updated: 2026-06-18T15:25:42Z
+- Abstract SHA-256: b370491b37d5bf25c624f2bac654e438459c8084b5da292fb18a0bf9142adaa2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

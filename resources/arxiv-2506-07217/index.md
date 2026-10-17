@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zihan Deng, Changyu Du, Stavros Nousias, André Borrmann
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2506.07217v2
+- First submission: 2025-06-08T16:45:31Z
+- Version updated: 2025-06-30T08:31:07Z
+- Abstract SHA-256: 2bf4f91de32fdf3bd9b81ba64ace02e4a7d02ff094794f30dfd560389f334cea
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

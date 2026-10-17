@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Nicolas Bougie, Xiaotong Ye, Gian Maria Marconi, Narimasa Watanabe
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.05697v1
+- First submission: 2026-06-04T04:35:16Z
+- Version updated: 2026-06-04T04:35:16Z
+- Abstract SHA-256: 1aae315d74a497af3c4862b1d8712d49c5ec8b3fb9302e3ea0eaf6692d85e0a7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

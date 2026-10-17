@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Justin Chih-Yao Chen, Elias Stengel-Eskin, Yan Chen, Pol Llado, Scott Counts, Mohit Bansal, Benjamin Van Durme, Harsh Jhamtani, Gaurav Verma
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2610.05437v2
+- First submission: 2026-10-04T18:19:33Z
+- Version updated: 2026-10-06T03:17:00Z
+- Abstract SHA-256: b9e40e7a3404f7aef992270e54986e655995ae88dd0c50db55ccd7f61cc90fb3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

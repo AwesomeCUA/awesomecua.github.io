@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zehui Chen, Kuikun Liu, Qiuchen Wang, Jiangning Liu, Wenwei Zhang, Kai Chen, Feng Zhao
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2407.20183v2
+- First submission: 2024-07-29T17:12:40Z
+- Version updated: 2025-10-31T02:40:42Z
+- Abstract SHA-256: 652a6381d2a6f960a2775168711be531e4994daeca95bc022716a2babae7c2ed
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

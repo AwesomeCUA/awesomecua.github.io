@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Venkata Pavan Kumar Miriyala, Zhifeng Zhu, Gengchiau Liang, Xuanyao Fong
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/1902.06925v2
+- First submission: 2019-02-19T07:02:15Z
+- Version updated: 2019-05-21T01:31:02Z
+- Abstract SHA-256: 66ea8c2a5dd45879558e1fa5e77825e37482e1322f18bd33e183ec8baf4de20c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

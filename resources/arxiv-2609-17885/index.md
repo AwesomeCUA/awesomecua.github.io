@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kratika Bhagtani, Kusha Sridhar, Maziyar Baran Pouyan, Yuying Zhao, Eugene Siow
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2609.17885v2
+- First submission: 2026-09-15T22:23:17Z
+- Version updated: 2026-09-23T01:31:01Z
+- Abstract SHA-256: ab0dbea71d0b8bfe035d3b0a71d6ed99fbd261202976cdc322a0769074827d76
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

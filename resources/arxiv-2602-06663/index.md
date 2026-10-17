@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Junxian Li, Kai Liu, Leyang Chen, Weida Wang, Zhixin Wang, Jiaqi Xu, Fan Li, Renjing Pei, Linghe Kong, Yulun Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2602.06663v2
+- First submission: 2026-02-06T12:47:16Z
+- Version updated: 2026-04-20T06:42:55Z
+- Abstract SHA-256: e5678170e8db3f727f0fbae211f6cc9c2bdc6d748331ee964e2f12a34730d1aa
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

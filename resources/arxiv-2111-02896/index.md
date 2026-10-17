@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Duc M. Tran, Duy V. Nguyen, Le Bin Ho, Hung Q. Nguyen
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2111.02896v2
+- First submission: 2021-11-02T15:52:49Z
+- Version updated: 2022-02-08T04:05:26Z
+- Abstract SHA-256: 96437844b739d0b6e0a90e0df60ad41249f5cb6b9eb6015cc3bb2da189d8947e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

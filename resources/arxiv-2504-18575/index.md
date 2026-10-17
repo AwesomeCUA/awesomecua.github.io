@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ivan Evtimov, Arman Zharmagambetov, Aaron Grattafiori, Chuan Guo, Kamalika Chaudhuri
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2504.18575v3
+- First submission: 2025-04-22T17:51:03Z
+- Version updated: 2025-05-16T22:42:29Z
+- Abstract SHA-256: 3a104d9076797555795766749f6b4eeec9428d0efb9340f7e55cffecd5d727b0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 W. H. Ball, B. Beeck, R. H. Cameron, L. Gizon
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1606.02713v1
+- First submission: 2016-06-08T20:00:00Z
+- Version updated: 2016-06-08T20:00:00Z
+- Abstract SHA-256: 6ace750a18cb51d37771d1df851fe6f346a93697b71811e73603b3b0802337ae
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

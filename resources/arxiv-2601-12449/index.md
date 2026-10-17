@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Roy Betser, Amit Giloni, Shamik Bose, Sindhu Padakandla, Chiara Picardi, Lidor Erez, Roman Vainshtein
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2601.12449v2
+- First submission: 2026-01-18T15:10:18Z
+- Version updated: 2026-08-30T13:37:24Z
+- Abstract SHA-256: b4c876f51d4450e5fae0a3b4df1e502ee5d1918e0c0b542b6112226986e44480
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

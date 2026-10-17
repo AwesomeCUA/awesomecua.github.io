@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jayoo Hwang, Xiaowen Zhang, Vedant Padwal
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.10423v1
+- First submission: 2026-06-09T04:53:19Z
+- Version updated: 2026-06-09T04:53:19Z
+- Abstract SHA-256: 386bd82be97d5cbe64fdb3478e427362e710d78d423c9e52661a8a96ea2fdecf
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

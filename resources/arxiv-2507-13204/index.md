@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kim Liegeois, Brian Kelley, Eric Phipps, Sivasankaran Rajamanickam, Vassil Vassilev
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2507.13204v1
+- First submission: 2025-07-17T15:15:25Z
+- Version updated: 2025-07-17T15:15:25Z
+- Abstract SHA-256: f88a290780b4e0527ea2be95d2408e8b0ca7dba47143cdd3a8ef4df3fd17603e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

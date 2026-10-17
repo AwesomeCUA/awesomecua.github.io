@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shoubin Yu, Lei Shu, Antoine Yang, Yao Fu, Srinivas Sunkara, Maria Wang, Jindong Chen, Mohit Bansal, Boqing Gong
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2603.22529v1
+- First submission: 2026-03-23T19:47:58Z
+- Version updated: 2026-03-23T19:47:58Z
+- Abstract SHA-256: 3e4ed7391969359c2594e8b96b8a3a559ef98d2c84a10c1a2c39b3bd962b58c5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

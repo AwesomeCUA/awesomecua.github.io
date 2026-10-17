@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Takuma Yamaguchi, Kohei Fujita, Tsuyoshi Ichimura, Muneo Hori, Maddegedara Lalith, Kengo Nakajima
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1710.08679v1
+- First submission: 2017-10-24T09:51:31Z
+- Version updated: 2017-10-24T09:51:31Z
+- Abstract SHA-256: 046ac5d6c891f6ef487116662feae1ea995fab7aff8d207ad0f6784aa87fa1c9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

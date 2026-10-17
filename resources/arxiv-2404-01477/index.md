@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ashot Avanesov, Alexander Shurinov, Ivan Dyakonov, Stanislav Straupe
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2404.01477v3
+- First submission: 2024-04-01T20:58:35Z
+- Version updated: 2025-05-14T04:07:02Z
+- Abstract SHA-256: 3c9f02236d664249f5cef48925603e3db6672d74e0d4a7901201aa85d1060cf0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

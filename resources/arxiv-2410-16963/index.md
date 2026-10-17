@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jiaxuan Zhang, Zhao-Yun Chen, Jia-Ning Li, Tian-Hao Wei, Huan-Yu Liu, Xi-Ning Zhuang, Qing-Song Li, Yu-Chun Wu, Guo-Ping Guo
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2410.16963v2
+- First submission: 2024-10-22T12:44:41Z
+- Version updated: 2025-01-02T09:04:06Z
+- Abstract SHA-256: 7877e0507a3be6dc36cd543d484e24304715b6ebdeb6349cd7345d2d7f2cc595
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Wenyuan Zhang, Xinghua Zhang, Haiyang Yu, Shuaiyi Nie, Bingli Wu, Juwei Yue, Tingwen Liu, Yongbin Li
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2601.08605v2
+- First submission: 2026-01-13T14:48:34Z
+- Version updated: 2026-04-15T14:59:17Z
+- Abstract SHA-256: 73df8c5b417c3387530b7730be3aed8b69374c06fdd3573f56147b19359c6912
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

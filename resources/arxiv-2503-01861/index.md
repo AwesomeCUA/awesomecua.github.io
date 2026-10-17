@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Sami Marreed, Alon Oved, Avi Yaeli, Segev Shlomov, Ido Levy, Offer Akrabi, Aviad Sela, Asaf Adi, Nir Mashkif
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2503.01861v3
+- First submission: 2025-02-24T09:31:56Z
+- Version updated: 2025-07-09T13:52:32Z
+- Abstract SHA-256: 2248d423c954ee6e406e3f46f6da43fabd6e832ffacc05cfa32083f2ff0c2700
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

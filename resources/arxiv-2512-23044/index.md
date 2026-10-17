@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhengyang Liang, Yan Shu, Xiangrui Liu, Minghao Qin, Nicu Sebe, Jiaxin Mao, Zheng Liu, Lizi Liao
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2512.23044v3
+- First submission: 2025-12-28T19:08:27Z
+- Version updated: 2026-10-13T17:54:58Z
+- Abstract SHA-256: 07c9818c14aa54422bde58b1bdf6933a8a4885f35dd00855f64e57ef7aea08ec
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

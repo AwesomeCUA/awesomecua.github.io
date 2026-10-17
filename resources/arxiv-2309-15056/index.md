@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Daniel Silver, Tirthak Patel, Devesh Tiwari
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2309.15056v1
+- First submission: 2023-09-26T16:36:11Z
+- Version updated: 2023-09-26T16:36:11Z
+- Abstract SHA-256: b4f55a7f2d4bdf2b0d15449ed63a91d116e649161942ef683509615b3df631f6
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

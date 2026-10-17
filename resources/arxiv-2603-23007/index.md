@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yutao Luo, Haotian Zhu, Shuchao Pang, Zhigang Lu, Tian Dong, Yongbin Zhou, Minhui Xue
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2603.23007v1
+- First submission: 2026-03-24T09:51:43Z
+- Version updated: 2026-03-24T09:51:43Z
+- Abstract SHA-256: 37960f42162d2bff2fca5e71e350f1ef7c4d86e3f438fd777a88dc2280d3aabe
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Summary and topic tags reviewed against the primary abstract. Reported experimen
 
 Yiheng Xu, Zekun Wang, Junli Wang, Dunjie Lu, Tianbao Xie, Amrita Saha, Doyen Sahoo, Tao Yu, Caiming Xiong
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2412.04454v2
+- First submission: 2024-12-05T18:58:26Z
+- Version updated: 2025-05-05T16:17:20Z
+- Abstract SHA-256: 89dbdf874ace87db12fa321e67ecf818d3964622b045ea7d95e109101820d407
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

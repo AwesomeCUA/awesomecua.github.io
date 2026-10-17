@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Mina Mohammadmirzaei, Jeffrey Flanigan
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2606.15034v3
+- First submission: 2026-06-13T00:32:24Z
+- Version updated: 2026-10-09T19:45:15Z
+- Abstract SHA-256: 7bf0297fba942441b19bcfeba147838bdef888b428f1150c2462d8bf3d986882
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

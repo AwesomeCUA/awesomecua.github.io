@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Tinghe Ding
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2401.04124v3
+- First submission: 2024-01-04T03:44:42Z
+- Version updated: 2024-01-17T06:35:45Z
+- Abstract SHA-256: 9b8aaa2bccafd7f41802e5b7c25bc98f78307f77aeb36b7c75c57ef0f8e583a1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

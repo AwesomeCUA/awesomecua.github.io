@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xingjian Tao, Yiwei Wang, Yujun Cai, Zhicheng Yang, Jing Tang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2506.15425v1
+- First submission: 2025-06-18T12:55:35Z
+- Version updated: 2025-06-18T12:55:35Z
+- Abstract SHA-256: e3884b1807cbee971364947aa2f3756937c4c774d9942bb4da3d0fabb69bda07
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

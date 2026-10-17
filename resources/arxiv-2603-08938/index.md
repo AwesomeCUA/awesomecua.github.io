@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Rui Liu, Tao Zhe, Dongjie Wang, Zijun Yao, Kunpeng Liu, Yanjie Fu, Huan Liu, Jian Pei
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2603.08938v2
+- First submission: 2026-03-09T21:13:52Z
+- Version updated: 2026-03-11T20:38:50Z
+- Abstract SHA-256: ac52a18c24656e0605932488bae6d130207c888bb46773e5161cb6bab1e1d60a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

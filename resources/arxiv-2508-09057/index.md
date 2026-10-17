@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zeyu Huang, Juyuan Wang, Longfeng Chen, Boyi Xiao, Leng Cai, Yawen Zeng, Jin Xu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2508.09057v2
+- First submission: 2025-08-12T16:18:30Z
+- Version updated: 2025-08-14T16:36:45Z
+- Abstract SHA-256: d4efa329c3b106219c9b25f675be0c561743085ac999d2964458a5f22ff6e62f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

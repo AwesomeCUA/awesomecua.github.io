@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Mizanur Rahman, Mohammed Saidul Islam, Ridwan Mahbub, Md Tahmid Rahman Laskar, Shafiq Joty, Enamul Hoque Prince
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.10366v1
+- First submission: 2026-08-11T01:45:56Z
+- Version updated: 2026-08-11T01:45:56Z
+- Abstract SHA-256: e1089e57e0f0146f29a4a411c5c6f72da3c9f45be223fbbc5c9630315be6a680
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

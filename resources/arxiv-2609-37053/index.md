@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Mei Wu, Rui Xie, Runyu Zhang, Yuqiang Li, Tianfan Fu, Bo Chen, Kai Yu, Xin Chen, Lu Chen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.37053v1
+- First submission: 2026-09-29T08:58:51Z
+- Version updated: 2026-09-29T08:58:51Z
+- Abstract SHA-256: e032f67257a52dbc59310d921d802e4dc85af3af110d22bb6d005d202bbaa6b2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

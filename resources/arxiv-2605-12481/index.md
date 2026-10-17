@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xuhao Hu, Xi Zhang, Haiyang Xu, Kyle Qiao, Jingyi Yang, Xuanjing Huang, Jing Shao, Ming Yan, Jieping Ye
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2605.12481v2
+- First submission: 2026-05-12T17:57:04Z
+- Version updated: 2026-09-19T14:53:46Z
+- Abstract SHA-256: 09128e90b925ac0cd2cf6e967853180bbef1e97a0960c22065f1b0b50c30d58b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

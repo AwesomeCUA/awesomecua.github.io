@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yiduo Guo, Zekai Zhang, Yaobo Liang, Dongyan Zhao, Nan Duan
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2311.01767v2
+- First submission: 2023-11-03T08:06:35Z
+- Version updated: 2023-11-07T10:13:34Z
+- Abstract SHA-256: 58dfa75fd82a2cc1d41954f10feb1d987de6469782d11d04c3b8bfffc8a3b745
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

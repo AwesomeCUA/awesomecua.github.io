@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Dandison Ukpabi, Heikki Karjaluoto, Astrid Bötticher, Anastasija Nikiforova, Dragoş Petrescu, Paulina Schindler, Visvaldis Valtenbergs, Lennard Lehmann, Abuzer Yakaryilmaz
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2212.13909v2
+- First submission: 2022-12-19T12:27:12Z
+- Version updated: 2023-01-05T11:35:05Z
+- Abstract SHA-256: b365a86895c4b9e6e3c45f41b2e02847f0ca90659ba833d99ec49c4e5c01a4d2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

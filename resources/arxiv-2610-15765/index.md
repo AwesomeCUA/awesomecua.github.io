@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Alan Wu, Wei Tao, Yiwen Guo
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.15765v1
+- First submission: 2026-10-11T16:43:43Z
+- Version updated: 2026-10-11T16:43:43Z
+- Abstract SHA-256: 0ef6fd8890648ae958340325edd3604fb78aa82510145169eb85f76c322b76d6
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

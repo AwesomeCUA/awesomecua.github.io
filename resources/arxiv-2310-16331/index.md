@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Nicholas X. Armendarez, Ahmed S. Mohamed, Anurag Dhungel, Md Razuan Hossain, Md Sakib Hasan, Joseph S. Najem
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2310.16331v1
+- First submission: 2023-10-25T03:27:43Z
+- Version updated: 2023-10-25T03:27:43Z
+- Abstract SHA-256: bceb700b0b286bdeace9fb35e5023aefe0d1a28ecfa06f6a42a78c03b81fb670
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

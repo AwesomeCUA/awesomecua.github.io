@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuan Wang, Mingyu Li, Haibo Chen
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2510.04607v2
+- First submission: 2025-10-06T09:14:58Z
+- Version updated: 2026-03-25T11:29:08Z
+- Abstract SHA-256: 1c22547bf82eb2fb87e8bf6a3846d25c17cac296763726ed9a25faf88bdca33c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

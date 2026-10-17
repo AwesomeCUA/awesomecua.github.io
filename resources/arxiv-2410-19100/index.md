@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Lawrence Jang, Yinheng Li, Dan Zhao, Charles Ding, Justin Lin, Paul Pu Liang, Rogerio Bonatti, Kazuhito Koishida
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2410.19100v3
+- First submission: 2024-10-24T19:03:01Z
+- Version updated: 2025-02-15T05:19:38Z
+- Abstract SHA-256: 6f413943bd5c2a395ddb5cf38a1a5ad61754b35a9eb5de43e8d980bd83e4adff
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

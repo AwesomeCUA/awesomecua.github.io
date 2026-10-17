@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Chen Liu, Ling Chen, Hanzhang Zhou, Liangyu Chen, Chenglin Cai, Xin Yu, Steven Hoi, Yue Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.30084v1
+- First submission: 2026-06-29T10:20:39Z
+- Version updated: 2026-06-29T10:20:39Z
+- Abstract SHA-256: 50e44e08750d4152f9b5408885f8a6a016c5f789af9712e447ee147fb25adb8d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

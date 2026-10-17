@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Nicholas Saban
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.05233v1
+- First submission: 2026-06-03T01:21:59Z
+- Version updated: 2026-06-03T01:21:59Z
+- Abstract SHA-256: 7b649c0cef63bc15558aa4498a65043644c109faaf6403b610c2132fd3f5706d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

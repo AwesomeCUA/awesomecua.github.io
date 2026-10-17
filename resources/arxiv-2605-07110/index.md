@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zejian Chen, Zhanyuan Liu, Chaozhuo Li, Mengxiang Han, Songyang Liu, Litian Zhang, Feng Gao, Yiming Hei, Xi Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.07110v1
+- First submission: 2026-05-08T01:38:46Z
+- Version updated: 2026-05-08T01:38:46Z
+- Abstract SHA-256: 8d7751a82a92b1864f1afa63a2f2019c6606875767abd1f59815da55b1cd8a32
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

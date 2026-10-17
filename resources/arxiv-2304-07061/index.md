@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Hao Wen, Hongming Wang, Jiaxuan Liu, Yuanchun Li
 
+## Recorded arXiv snapshot
+
+- Version: 5
+- Version source: https://arxiv.org/abs/2304.07061v5
+- First submission: 2023-04-14T11:31:56Z
+- Version updated: 2024-01-07T08:23:47Z
+- Abstract SHA-256: 420c9005fd0c687c27c758da70ef05a60b3b2d9b9efbf91a5d7661bf893a8b09
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

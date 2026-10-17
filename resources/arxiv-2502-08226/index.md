@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Kunal Singh, Shreyas Singh, Mukund Khanna
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2502.08226v2
+- First submission: 2025-02-12T09:12:30Z
+- Version updated: 2025-02-14T06:23:57Z
+- Abstract SHA-256: a60d581e4318db66495a0333b864757ec896576c720e40da4a881f8740b9d9cf
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Nathan Bout, Maxime Langevin, Ronan Riochet
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.06322v1
+- First submission: 2026-06-04T15:57:29Z
+- Version updated: 2026-06-04T15:57:29Z
+- Abstract SHA-256: 27ffcb10d966946de9fa2353c4b96798e5f090bdfdc5610f5e8a5c6233cf70ea
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

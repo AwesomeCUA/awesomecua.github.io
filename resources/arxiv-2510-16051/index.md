@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sofiya Garkot, Maksym Shamrai, Ivan Synytsia, Mariya Hirna
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2510.16051v2
+- First submission: 2025-10-16T19:03:45Z
+- Version updated: 2026-03-24T14:39:38Z
+- Abstract SHA-256: 6e4377fd6b510455afa1eb04c64e8e0b551e89d3b54ce31f241f283233985e1c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Qi Chen, Dileepa Pitawela, Chongyang Zhao, Gengze Zhou, Hsiang-Ting Chen, Qi Wu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2312.15820v1
+- First submission: 2023-12-25T22:13:26Z
+- Version updated: 2023-12-25T22:13:26Z
+- Abstract SHA-256: 47dedddced8f06bf436ab5a101d1ec4ecf4380c710e457dc7a35fc86d2e1f230
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

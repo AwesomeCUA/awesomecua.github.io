@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zedong Yu, Qianxing Li, Zhi Gao, Liuyu Xiang, Chenrui Shi, Yang Liu, Huiming Wu, Yujie Wei, Yuhao Fei, Yubo Fu, Zhaofeng He
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2607.22689v1
+- First submission: 2026-07-17T12:48:03Z
+- Version updated: 2026-07-17T12:48:03Z
+- Abstract SHA-256: 078ff9a56b769923d15a98581685a3e2f47aac7d898ea731999cabaec3918fa7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

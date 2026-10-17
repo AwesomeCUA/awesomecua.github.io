@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Zhangheng Li, Keen You, Haotian Zhang, Di Feng, Harsh Agrawal, Xiujun Li, Mohana Prasad Sathya Moorthy, Jeff Nichols, Yinfei Yang, Zhe Gan
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2410.18967v2
+- First submission: 2024-10-24T17:58:31Z
+- Version updated: 2025-02-28T00:29:14Z
+- Abstract SHA-256: 299b7c631468e259ac9d25a1c4ebf507be57b7ee478c611d0a2597b588f6c4c8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

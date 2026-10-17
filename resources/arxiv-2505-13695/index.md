@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Valeria Cimini, Mandar M. Sohoni, Federico Presutti, Benjamin K. Malia, Shi-Yuan Ma, Ryotatsu Yanagimoto, Tianyu Wang, Tatsuhiro Onodera, Logan G. Wright, Peter L. McMahon
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2505.13695v1
+- First submission: 2025-05-19T19:55:44Z
+- Version updated: 2025-05-19T19:55:44Z
+- Abstract SHA-256: 0390725393d5914cad6cd525d69fef2c2309c43a7610bb2e60f0b6bf3e922123
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yuyang Zhao, Wentao Shi, Fuli Feng, Xiangnan He
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2508.18689v2
+- First submission: 2025-08-26T05:23:24Z
+- Version updated: 2025-08-27T04:25:35Z
+- Abstract SHA-256: 02f4a76ae220caa289b322b622be6356086c5b04bc0f1598d0cd580c9ee25b6d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

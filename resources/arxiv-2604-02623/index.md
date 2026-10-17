@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Wei Zou, Mingwen Dong, Miguel Romero Calvo, Shuaichen Chang, Jiang Guo, Dongkyu Lee, Xing Niu, Xiaofei Ma, Yanjun Qi, Jiarong Jiang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2604.02623v2
+- First submission: 2026-04-03T01:25:12Z
+- Version updated: 2026-04-07T14:45:15Z
+- Abstract SHA-256: a37f4bdc495e10e4ae301ebff6faa28cdfa6de152d4619c051083b5dce41e6ba
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

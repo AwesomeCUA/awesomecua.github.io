@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yiping Xie, Song Chen, Jingxuan Xing, Wei Jiang, Zekun Zhu, Yingyao Wang, Pi Bu, Jun Song, Yuning Jiang, Bo Zheng
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2603.08533v2
+- First submission: 2026-03-09T16:04:08Z
+- Version updated: 2026-03-31T03:08:51Z
+- Abstract SHA-256: db31c6ca303f0c7dc43f24dd1eea69621b1e557af33122386945154e8236ab78
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

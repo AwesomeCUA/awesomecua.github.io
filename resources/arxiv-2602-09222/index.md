@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Georgios Syros, Evan Rose, Brian Grinstead, Christoph Kerschbaumer, William Robertson, Cristina Nita-Rotaru, Alina Oprea
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2602.09222v2
+- First submission: 2026-02-09T21:46:18Z
+- Version updated: 2026-06-14T21:10:58Z
+- Abstract SHA-256: 77fa6f48314afe90107775dac6c54b56570a7284f2b542e3048a590d87c8c118
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

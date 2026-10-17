@@ -20,6 +20,15 @@ Annotation reviewed against the primary abstract. Original dataset scale and exp
 
 Wei Li, William Bishop, Alice Li, Chris Rawles, Folawiyo Campbell-Ajala, Divya Tyamagundlu, Oriana Riva
 
+## Recorded arXiv snapshot
+
+- Version: 6
+- Version source: https://arxiv.org/abs/2406.03679v6
+- First submission: 2024-06-06T01:49:29Z
+- Version updated: 2024-11-13T16:42:22Z
+- Abstract SHA-256: 6eb3209d8e2a431987fe19f01cd0818f9fb490e684d7369e7d3002dc388ff271
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

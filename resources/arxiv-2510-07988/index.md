@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Haitao Jia, Ming He, Zimo Yin, Likang Wu, Jianping Fan, Jitao Sang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2510.07988v1
+- First submission: 2025-10-09T09:22:05Z
+- Version updated: 2025-10-09T09:22:05Z
+- Abstract SHA-256: 9460a0926936d3db23c36c6c0e069d664265a8a9513c08c1a04f5a49970d6567
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

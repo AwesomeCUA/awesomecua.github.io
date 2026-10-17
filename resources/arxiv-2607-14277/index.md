@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Amirhosein Ghasemabadi, Ruichen Chen, Bahador Rashidi, Di Niu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2607.14277v1
+- First submission: 2026-07-15T18:36:54Z
+- Version updated: 2026-07-15T18:36:54Z
+- Abstract SHA-256: 2b0d7133dd4505dbbcc594827be358ecf5e5225f617297b08767742088c70419
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

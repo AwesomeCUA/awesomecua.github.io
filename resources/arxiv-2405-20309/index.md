@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ajay Patel, Markus Hofmarcher, Claudiu Leoveanu-Condrei, Marius-Constantin Dinu, Chris Callison-Burch, Sepp Hochreiter
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2405.20309v2
+- First submission: 2024-05-30T17:52:36Z
+- Version updated: 2024-10-01T21:28:29Z
+- Abstract SHA-256: 77b292052a2ab4e8db61606ffe1da8bd5e63b3ce8c84b2e0e4b7a2fdc2f926ca
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

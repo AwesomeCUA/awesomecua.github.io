@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jarilyn M. Hernández Jiménez, Jeffrey A. Nichols, Katerina Goseva-Popstojanova, Stacy Prowell, Robert A. Bridges
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1705.01977v1
+- First submission: 2017-05-04T19:09:12Z
+- Version updated: 2017-05-04T19:09:12Z
+- Abstract SHA-256: 3ea790044a82612a87c28fec60f6479c0e5aaca8ad5db1ccc8c8d3dfa6535e6b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

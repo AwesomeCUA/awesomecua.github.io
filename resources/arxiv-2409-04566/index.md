@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Pawel Horodecki, Łukasz Rudnicki, Karol Życzkowski
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2409.04566v1
+- First submission: 2024-09-06T19:05:15Z
+- Version updated: 2024-09-06T19:05:15Z
+- Abstract SHA-256: c6a9797a9dfa2e2cf87a1b25dd2a62b7a4765039370284f3b207c6e3000c6ed4
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

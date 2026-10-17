@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Junhong Shen, Atishay Jain, Zedian Xiao, Ishan Amlekar, Mouad Hadji, Aaron Podolny, Ameet Talwalkar
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2411.15004v2
+- First submission: 2024-11-22T15:26:23Z
+- Version updated: 2024-12-05T02:00:07Z
+- Abstract SHA-256: ef5e3848c3395a5620c5af422e6ebf198e405cfde1314cfac50d347daf68a429
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

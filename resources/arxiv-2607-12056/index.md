@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Said Elnaffar, Farzad Rashidi
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2607.12056v1
+- First submission: 2026-07-13T18:16:58Z
+- Version updated: 2026-07-13T18:16:58Z
+- Abstract SHA-256: 78eb2b2b4aa393934f615fdd25d5c3887e117fe437e1f6ea33fd0a2ca8e7fa01
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

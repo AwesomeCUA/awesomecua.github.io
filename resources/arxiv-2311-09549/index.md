@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Adhitha Dias, Logan Anderson, Kirshanthan Sundararajah, Artem Pelenitsyn, Milind Kulkarni
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2311.09549v3
+- First submission: 2023-11-16T04:05:50Z
+- Version updated: 2024-08-19T14:13:43Z
+- Abstract SHA-256: 6e7b085a57fb509a684583a8f5830e83ff735567b8049fda1eafcb4a86e3a02f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

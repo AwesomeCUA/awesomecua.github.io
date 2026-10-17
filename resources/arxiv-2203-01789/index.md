@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Filipa C. R. Peres, Ernesto F. Galvão
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2203.01789v2
+- First submission: 2022-03-03T16:01:55Z
+- Version updated: 2023-09-28T13:38:16Z
+- Abstract SHA-256: 5c0e60df1c4b4e057d5f12dd4fd03a55e221ec5d7f7c12416290fbb60459fb70
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

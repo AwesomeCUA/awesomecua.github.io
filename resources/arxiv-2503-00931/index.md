@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Andy Huynh, Benjamin Zwick, Michael Halle, Adam Wittek, Karol Miller
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2503.00931v1
+- First submission: 2025-03-02T15:13:33Z
+- Version updated: 2025-03-02T15:13:33Z
+- Abstract SHA-256: 35458c96625448bf9bd77a18b5f12155e51dd864d4c411b89c542c5d9c5bc7e9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

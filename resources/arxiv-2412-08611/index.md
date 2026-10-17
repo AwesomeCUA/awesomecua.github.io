@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Stephen C. Wein, Timothée Goubault de Brugière, Luka Music, Pascale Senellart, Boris Bourdoncle, Shane Mansfield
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2412.08611v2
+- First submission: 2024-12-11T18:34:53Z
+- Version updated: 2025-12-19T16:12:31Z
+- Abstract SHA-256: 38cb8ddd16d03b9fc6d9e2168198b1a9cfd97ab253aa66f6e74216e339876d20
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

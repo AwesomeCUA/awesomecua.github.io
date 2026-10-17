@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Fanglin Mo, Junzhe Chen, Haoxuan Zhu, Xuming Hu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2505.14141v1
+- First submission: 2025-05-20T09:45:55Z
+- Version updated: 2025-05-20T09:45:55Z
+- Abstract SHA-256: de6c501a42c3828bdf795ac59c38b982e738c38bd5d0c59cfb6cb10b51e39292
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

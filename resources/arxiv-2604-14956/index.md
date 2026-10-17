@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Wenhao Wang, Haoting Shi, Mengying Yuan, Yiquan Lin, Panrong Tong, Hanzhang Zhou, Guangyi Liu, Pengxiang Zhao, Yue Wang, Siheng Chen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.14956v1
+- First submission: 2026-04-16T12:53:03Z
+- Version updated: 2026-04-16T12:53:03Z
+- Abstract SHA-256: 1e2b5d7149adcbe634df0bfdc9c34ba436e51e6891df5c4836daea9795061164
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

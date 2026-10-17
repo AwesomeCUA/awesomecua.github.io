@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Tri Cao, Bennett Lim, Yue Liu, Yuan Sui, Yuexin Li, Shumin Deng, Lin Lu, Nay Oo, Shuicheng Yan, Bryan Hooi
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2506.02456v2
+- First submission: 2025-06-03T05:21:50Z
+- Version updated: 2026-03-01T16:12:40Z
+- Abstract SHA-256: 3cd988217d1e3371bec827b472abf46c205ac407b5b60b7b581d7105f86e8bc5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

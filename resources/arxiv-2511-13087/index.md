@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 SeokJoo Kwak, Jihoon Kim, Boyoun Kim, Jung Jae Yoon, Wooseok Jang, Jeonghoon Hong, Jaeho Yang, Yeong-Dae Kwon
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2511.13087v1
+- First submission: 2025-11-17T07:38:05Z
+- Version updated: 2025-11-17T07:38:05Z
+- Abstract SHA-256: 2cdabdd4fc56b95c2b0c801fefd76d4c724aa0a1d7f762623d4314ca9a38e85c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

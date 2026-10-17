@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yimeng Liu, Hua Huang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.02154v1
+- First submission: 2026-09-02T06:06:43Z
+- Version updated: 2026-09-02T06:06:43Z
+- Abstract SHA-256: b462dddd45e6b04a3bf6fa0bc73576a23a5f9617f61aeb257a845c0f456f731d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

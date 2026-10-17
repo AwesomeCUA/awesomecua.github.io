@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Robert-Jeron Reifert, Hayssam Dahrouj, Alaa Alameer Ahmad, Haris Gacanin, Aydin Sezgin
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2406.03548v1
+- First submission: 2024-06-05T18:00:09Z
+- Version updated: 2024-06-05T18:00:09Z
+- Abstract SHA-256: b0048b1a0718832e6cb40e06a9d150297c5e34f9d2929566bb3e011f91eff3a5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

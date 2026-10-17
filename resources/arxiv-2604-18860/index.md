@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Wenpeng Xu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.18860v1
+- First submission: 2026-04-20T21:36:16Z
+- Version updated: 2026-04-20T21:36:16Z
+- Abstract SHA-256: 8eb499729268ef287a9b9bf73275f526d47dabf2d7de399beaead2fe54cfd74e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

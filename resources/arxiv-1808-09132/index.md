@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Panupong Pasupat, Tian-Shun Jiang, Evan Zheran Liu, Kelvin Guu, Percy Liang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/1808.09132v2
+- First submission: 2018-08-28T06:09:39Z
+- Version updated: 2018-10-01T03:22:58Z
+- Abstract SHA-256: f368116f70e987cde111835a05b5b36e0d345dabb4e8351610e2bbfb691b3440
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

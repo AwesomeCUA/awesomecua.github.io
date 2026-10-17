@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xilong Wang, John Bloch, Zedian Shao, Yuepeng Hu, Shuyan Zhou, Neil Zhenqiang Gong
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2505.11717v4
+- First submission: 2025-05-16T22:00:26Z
+- Version updated: 2025-10-17T01:52:39Z
+- Abstract SHA-256: 989673e9cb9103f8c7a28a0b4d838bd83c6e5d87b7f5e44bdb6753d7f0c69a88
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

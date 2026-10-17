@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xurui Zhou, Gongwei Chen, Yuquan Xie, Zaijing Li, Kaiwen Zhou, Shuai Wang, Shuo Yang, Zhuotao Tian, Rui Shao
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2512.01763v2
+- First submission: 2025-12-01T15:06:45Z
+- Version updated: 2026-03-08T10:18:14Z
+- Abstract SHA-256: 3a6eb58f9b6349ab9cc33444d8ea82c8f17653cc4a7f4b19ffc94e3b4fb894b3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

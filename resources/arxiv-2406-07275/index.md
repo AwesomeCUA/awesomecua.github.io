@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Benhao Huang, Yingzhuo Yu, Jin Huang, Xingjian Zhang, Jiaqi Ma
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2406.07275v2
+- First submission: 2024-06-11T14:02:23Z
+- Version updated: 2025-05-26T18:23:06Z
+- Abstract SHA-256: 63c50612018569a90c5ce81532d87189089be234809ec92e39d4fc6ee40a8166
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

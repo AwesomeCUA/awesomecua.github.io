@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Lei Wang, Wanyu Xu, Yihuai Lan, Zhiqiang Hu, Yunshi Lan, Roy Ka-Wei Lee, Ee-Peng Lim
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2305.04091v3
+- First submission: 2023-05-06T16:34:37Z
+- Version updated: 2023-05-26T07:06:48Z
+- Abstract SHA-256: 3dc514e909b703f3f24440ca95d0ef3fe82285e17afd77a1bb2ec7b5c5a769b8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

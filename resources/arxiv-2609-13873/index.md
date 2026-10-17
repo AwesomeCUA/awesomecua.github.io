@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Qihang Cen, Tianshuo Cong, Da Song, Xinlei He, Jiaxing Song, Ke Xu, Qi Li
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.13873v1
+- First submission: 2026-09-12T10:55:54Z
+- Version updated: 2026-09-12T10:55:54Z
+- Abstract SHA-256: 1eda33b358d4c4caf8c1fb0b1bd92698c3b37cee995d820f40ecffe82010edb4
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

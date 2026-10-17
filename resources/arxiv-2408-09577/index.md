@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuki Kurokawa, Junichi Takahashi, Yoshiya Yamanaka
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2408.09577v2
+- First submission: 2024-08-18T19:34:24Z
+- Version updated: 2024-08-22T13:27:18Z
+- Abstract SHA-256: 29331803949aa69fb36927d21b66967cbe062859319c7aded2a2c83de8874ac6
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

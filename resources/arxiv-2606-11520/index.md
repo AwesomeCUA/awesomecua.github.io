@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Siyuan Luo, Nairong Zheng, Lin Zhou, Tiankuo Yao, Shengyou Yuan, Haojia Yu, Cong Pang, Jiapeng Luo, Lewei Lu
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2606.11520v4
+- First submission: 2026-06-09T23:44:26Z
+- Version updated: 2026-07-14T14:04:47Z
+- Abstract SHA-256: ddaaf4319fde0390c0caa19f5f9acd42049fa8c105f5f2d85594ed123548cdd3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

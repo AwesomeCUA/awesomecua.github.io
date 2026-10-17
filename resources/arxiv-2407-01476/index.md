@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jing Yu Koh, Stephen McAleer, Daniel Fried, Ruslan Salakhutdinov
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2407.01476v4
+- First submission: 2024-07-01T17:07:55Z
+- Version updated: 2026-02-08T15:06:40Z
+- Abstract SHA-256: ec7aaf2a34e38f72da652bb2d8350c951229c154e2bc368a927a79287b36c439
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Victor Lalleman, Pierre Gosselet, Cédric Hubert, Stéphane Salengro, Vincent Magnier
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2510.01741v1
+- First submission: 2025-10-02T07:26:56Z
+- Version updated: 2025-10-02T07:26:56Z
+- Abstract SHA-256: 90145a7a01333937d7f6da56cdc3cc67cf3089cf490ab1d23a351af99c18c850
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

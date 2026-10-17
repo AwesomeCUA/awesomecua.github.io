@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sunil Pai, Olav Solgaard, Shanhui Fan, David A. B. Miller
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2210.16935v1
+- First submission: 2022-10-30T19:41:33Z
+- Version updated: 2022-10-30T19:41:33Z
+- Abstract SHA-256: edc1a293c0b826f47ae5ede3e7c9b9d6e0c66d6b323de6d3bc3474850b0ac404
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

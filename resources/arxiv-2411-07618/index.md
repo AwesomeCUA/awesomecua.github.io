@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Qingyu Yin, Chak Tou Leong, Minjun Zhu, Hanqi Yan, Qiang Zhang, Yulan He, Wenjie Li, Jun Wang, Yue Zhang, Linyi Yang
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2411.07618v4
+- First submission: 2024-11-12T07:54:13Z
+- Version updated: 2025-07-10T15:03:47Z
+- Abstract SHA-256: 33883febbf6cdb7590120541b49433844dae8da3ce1e70bd2e3ab55030168e27
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Giulio Segalini, Zhi Wen Soi, Jérémie Decouchant, Lydia Chen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.37176v1
+- First submission: 2026-09-29T10:01:52Z
+- Version updated: 2026-09-29T10:01:52Z
+- Abstract SHA-256: 945184e8fc790979a1f7e466ef6b4e727ddd11c3f285be0371fa4dda42615f40
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

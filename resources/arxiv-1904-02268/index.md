@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ryan E. Scott, Paul M. Alsing, A. Matthew Smith, Michael L. Fanto, Christopher C. Tison, James Schneeloch, Edwin E. Hach,
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1904.02268v1
+- First submission: 2019-04-03T23:29:50Z
+- Version updated: 2019-04-03T23:29:50Z
+- Abstract SHA-256: 60030ee417f0a313d36cc6268699c1f2b65adb89ea7f6f797109e37c11800c54
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

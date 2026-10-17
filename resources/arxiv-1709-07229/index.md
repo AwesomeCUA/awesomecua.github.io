@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Max Sagebaum, Tim Albring, Nicolas R. Gauger
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1709.07229v1
+- First submission: 2017-09-21T09:28:36Z
+- Version updated: 2017-09-21T09:28:36Z
+- Abstract SHA-256: 7adf8333f9008f9994ce0383307c7169bb27dca85476c49d0e3ffaec2a151ff4
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

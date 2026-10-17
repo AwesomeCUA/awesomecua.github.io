@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuxi Chen, Haoyu Zhai, Chenkai Wang, Rui Yang, Lingming Zhang, Gang Wang, Huan Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2603.23559v2
+- First submission: 2026-03-23T23:35:59Z
+- Version updated: 2026-06-29T04:46:30Z
+- Abstract SHA-256: 2e699a4bd19fb8a0cd68ad47ee432a937323e21493da27e881b81f62c14c48ca
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

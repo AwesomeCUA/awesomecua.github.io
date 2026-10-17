@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yunzhu Zhang, Zeyu Pan, Zhengwen Zeng, Shuheng Shen, Changhua Meng, Linchao Zhu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2512.08529v1
+- First submission: 2025-12-09T12:19:00Z
+- Version updated: 2025-12-09T12:19:00Z
+- Abstract SHA-256: 95f6e22cda1084d32bbd3f102ea780bfbf392ee578b7c20542314ef76618a56b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

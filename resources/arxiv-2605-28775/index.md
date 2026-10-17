@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Suji Kim, Kangsan Kim, Sung Ju Hwang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.28775v1
+- First submission: 2026-05-27T17:37:00Z
+- Version updated: 2026-05-27T17:37:00Z
+- Abstract SHA-256: 7efd7a912c16dabc9e9bcf24752ce526e639ea34b52be1989aae544fc23af9f9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

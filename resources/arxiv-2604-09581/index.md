@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Wee Joe Tan, Zi Rui Lucas Lim, Shashank Durgad, Karim Obegi, Aiden Yiliu Li
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2604.09581v2
+- First submission: 2026-02-25T18:59:42Z
+- Version updated: 2026-04-14T20:54:46Z
+- Abstract SHA-256: 445e520a60e0e3cc0c3c519e21bfa8eebfa33d4fe4320c437e67b94a02d84504
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

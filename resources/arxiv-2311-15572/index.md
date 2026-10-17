@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jason Z. Kim, Bart Larsen, Linden Parkes
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2311.15572v1
+- First submission: 2023-11-27T06:45:31Z
+- Version updated: 2023-11-27T06:45:31Z
+- Abstract SHA-256: 1d07a8454a41c526056d99f5ad385cd5e8ee92384de27ed5f840f54253d03b0c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

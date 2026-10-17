@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Dip Manna, Koushik Mondal, Subhajit Karmakar, Pawan Kumar Ojha, Sourav Roy, Biswarup Satpati, Prasanta Karmakar, Supratic Chakraborty
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.11992v1
+- First submission: 2026-10-08T14:01:04Z
+- Version updated: 2026-10-08T14:01:04Z
+- Abstract SHA-256: d60174947994017bca6b71a685da533f7043ba0f723e0feb138793515cf218bd
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

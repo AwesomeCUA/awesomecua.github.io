@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jiarun Liu, Wentao Hu, Chunhong Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2310.18331v2
+- First submission: 2023-10-20T11:10:14Z
+- Version updated: 2023-10-31T06:25:59Z
+- Abstract SHA-256: c72eab40cdc28981cf83a753d88f5181b5441d82cd568265457fef96d75b36b6
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jingyang Qiao, Weicheng Meng, Yu Cheng, Zhihang Lin, Zhizhong Zhang, Xin Tan, Jingyu Gong, Kun Shao, Yuan Xie
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2604.04503v4
+- First submission: 2026-04-06T07:59:52Z
+- Version updated: 2026-04-19T09:08:36Z
+- Abstract SHA-256: 4a94c25fd6cca29a38820023d4084b557d7a920f9a0e071e5aa6b1a0373fb14e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

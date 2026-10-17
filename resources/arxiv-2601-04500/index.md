@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yifei Gao, Jiang Wu, Xiaoyi Chen, Yifan Yang, Zhe Cui, Tianyi Ma, Jiaming Zhang, Jitao Sang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2601.04500v1
+- First submission: 2026-01-08T02:07:53Z
+- Version updated: 2026-01-08T02:07:53Z
+- Abstract SHA-256: 47a340b19cf399f2ae7851482030d85e572b0f6ad8415c67657beec737a80e06
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

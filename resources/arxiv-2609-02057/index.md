@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sitong Pan, Yipeng Shen, Yilin Lu, Caiwen Ding, Lu Cheng, Qianwen Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.02057v1
+- First submission: 2026-09-02T03:34:47Z
+- Version updated: 2026-09-02T03:34:47Z
+- Abstract SHA-256: 967f1cdda69349da3280827c0b90301e4942c44398902ab6cfb868f1d3e94a84
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

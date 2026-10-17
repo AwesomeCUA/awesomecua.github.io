@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Corby Rosset, Pratyusha Sharma, Andrew Zhao, Miguel Gonzalez-Fernandez, Ahmed Awadallah
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.06240v1
+- First submission: 2026-04-05T06:26:05Z
+- Version updated: 2026-04-05T06:26:05Z
+- Abstract SHA-256: b452684b305c4f20ded686289b448fbe4f08bb3b34f515a43e2ce5d6dc4ef506
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

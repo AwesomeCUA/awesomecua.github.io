@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jieshan Chen, Mulong Xie, Zhenchang Xing, Chunyang Chen, Xiwei Xu, Liming Zhu, Guoqiang Li
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2008.05132v2
+- First submission: 2020-08-12T06:36:33Z
+- Version updated: 2020-09-07T12:57:33Z
+- Abstract SHA-256: d6352985532945fd562ce0382aef0e977ce1ec5909b6872e5fe048167e9732a0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

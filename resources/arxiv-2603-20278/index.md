@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhuofeng Li, Dongfu Jiang, Xueguang Ma, Haoxiang Zhang, Ping Nie, Yuyu Zhang, Kai Zou, Jianwen Xie, Yu Zhang, Wenhu Chen
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2603.20278v2
+- First submission: 2026-03-17T20:10:12Z
+- Version updated: 2026-09-10T09:50:11Z
+- Abstract SHA-256: 1bec4e8a0a3bc989ff2eab639473d8d03c3bb4e2243c14a9c2aa278a69a56896
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

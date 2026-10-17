@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Christian Duffee, Jordan Athas, Yixin Shao, Noraica Davila Melendez, Eleonora Raimondo, Jordan A. Katine, Kerem Y. Camsari, Giovanni Finocchio, Pedram Khalili Amiri
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2412.08017v1
+- First submission: 2024-12-11T01:55:13Z
+- Version updated: 2024-12-11T01:55:13Z
+- Abstract SHA-256: 59fe8531ff7f37261be8018c26aaf439a0dbe5b5b22b6ec08a9c250d664ad2e9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

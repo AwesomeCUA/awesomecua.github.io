@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Longtao Zheng, Zhiyuan Huang, Zhenghai Xue, Xinrun Wang, Bo An, Shuicheng Yan
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2403.17918v3
+- First submission: 2024-03-26T17:54:15Z
+- Version updated: 2025-02-14T08:13:39Z
+- Abstract SHA-256: fe1432b46c15566182418bf3fa2f918607e8b0e9a383459416d03e28dc7e347c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

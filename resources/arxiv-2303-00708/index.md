@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Oscar Lee, Robin Msiska, Maarten A. Brems, Mathias Klaui, Hidekazu Kurebayashi, Karin Everschor-Sitte
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2303.00708v2
+- First submission: 2023-03-01T18:06:26Z
+- Version updated: 2023-05-21T10:44:21Z
+- Abstract SHA-256: 77f649ac9e825553091236c5c0c04f26f033c8c02627e3484d36e6dc06649280
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

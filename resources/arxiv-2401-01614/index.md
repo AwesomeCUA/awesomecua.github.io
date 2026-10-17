@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Boyuan Zheng, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2401.01614v2
+- First submission: 2024-01-03T08:33:09Z
+- Version updated: 2024-03-12T23:14:33Z
+- Abstract SHA-256: a005fb14b21cf17521f4ea966e555d9963092b709bd9280c6e72a9bf0f5fa93a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

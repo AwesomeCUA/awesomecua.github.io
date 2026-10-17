@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Danqing Zhang, Balaji Rama, Jingyi Ni, Shiying He, Fu Zhao, Kunyu Chen, Arnold Chen, Junyu Cao
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2503.02950v2
+- First submission: 2025-03-04T19:13:10Z
+- Version updated: 2025-05-06T06:42:34Z
+- Abstract SHA-256: df682f883bed5e0e9917074dfa130839fabaa318c55714f26943d944774854fe
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

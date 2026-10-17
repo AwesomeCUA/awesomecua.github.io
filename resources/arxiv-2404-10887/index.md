@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Moghis Fereidouni, Adib Mosharrof, A. B. Siddique
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2404.10887v2
+- First submission: 2024-04-16T20:15:32Z
+- Version updated: 2025-01-26T19:07:41Z
+- Abstract SHA-256: 127d037bb462ae4ed7bd72c46a62e2c4427611b30b67193454e40cc5c83cca3f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

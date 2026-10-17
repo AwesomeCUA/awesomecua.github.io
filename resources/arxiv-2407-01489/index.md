@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Chunqiu Steven Xia, Yinlin Deng, Soren Dunn, Lingming Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2407.01489v2
+- First submission: 2024-07-01T17:24:45Z
+- Version updated: 2024-10-29T17:29:27Z
+- Abstract SHA-256: 6941fbccf6fac666381089814d39373d3a6c905bb8cb5cf16573bef8ed39fc40
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

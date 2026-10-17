@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ruijia Cheng, Jenny T. Liang, Eldon Schoop, Jeffrey Nichols
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2602.07283v1
+- First submission: 2026-02-07T00:19:08Z
+- Version updated: 2026-02-07T00:19:08Z
+- Abstract SHA-256: d556ebbfbf4fc5875395b449a92b8ff27a7ed59d41bc062ac60fcf175f9064f8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

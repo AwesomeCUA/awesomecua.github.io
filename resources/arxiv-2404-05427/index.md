@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuntong Zhang, Haifeng Ruan, Zhiyu Fan, Abhik Roychoudhury
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2404.05427v3
+- First submission: 2024-04-08T11:55:09Z
+- Version updated: 2024-07-25T16:54:41Z
+- Abstract SHA-256: a0332cfb0909325d94b5c927a0821873f32680a4f638119cd137a6251326203d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 El Hassane Ettifouri, Jessica López Espejel, Laura Minkova, Tassnim Dardouri, Walid Dahhane
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2407.01558v3
+- First submission: 2024-05-05T19:10:19Z
+- Version updated: 2025-07-18T11:35:01Z
+- Abstract SHA-256: 01d3b3a013f3b10249b8197a8e18aa695bdc20febaa34f07128791f36afdcbac
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

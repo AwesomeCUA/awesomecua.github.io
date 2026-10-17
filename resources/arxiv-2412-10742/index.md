@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Jiarun Liu, Jia Hao, Chunhong Zhang, Zheng Hu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2412.10742v1
+- First submission: 2024-12-14T08:25:28Z
+- Version updated: 2024-12-14T08:25:28Z
+- Abstract SHA-256: e2abbae042d20381aa218e6a2b14a1fc28074543e430ad09031237d22587be7a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

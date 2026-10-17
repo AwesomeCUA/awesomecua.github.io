@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Himangi Mittal, Gaurav Mittal, Nelson Daniel Troncoso, Yu Hu
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2604.13019v3
+- First submission: 2026-04-14T17:55:46Z
+- Version updated: 2026-05-28T06:47:16Z
+- Abstract SHA-256: aa89e3a09c0ce8b09bdb932f3f00bd2dccf8af4da11a727e675ddf8b2c578146
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

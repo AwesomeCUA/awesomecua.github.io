@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Min Ye, Andrii Maksymov, Nicolas Delfosse
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2608.25027v2
+- First submission: 2026-08-25T18:15:58Z
+- Version updated: 2026-09-03T11:57:28Z
+- Abstract SHA-256: 179656ecbcaed01bd83bf863f2483dd2c30bedcb1f90ded8363f6f077e19eca3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

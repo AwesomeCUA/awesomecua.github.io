@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kai Mei, Jiang Guo, Shuaichen Chang, Mingwen Dong, Dongkyu Lee, Xing Niu, Jiarong Jiang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2510.11892v2
+- First submission: 2025-10-13T19:52:04Z
+- Version updated: 2026-03-09T15:25:16Z
+- Abstract SHA-256: 7c37dae372655e8ef556163744e47ed42db3533175ca7d1db7560033774ed2a0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

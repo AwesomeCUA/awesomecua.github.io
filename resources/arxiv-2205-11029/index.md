@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Liangtai Sun, Xingyu Chen, Lu Chen, Tianle Dai, Zichen Zhu, Kai Yu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2205.11029v2
+- First submission: 2022-05-23T04:05:37Z
+- Version updated: 2022-11-24T06:34:43Z
+- Abstract SHA-256: fbe2a4ece7ef72dfa008740991a5c46d9ab4b9de73f3de02f5dabcee2a5c1aa5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Amirhossein Abaskohi, Yuhang He, Peter West, Giuseppe Carenini, Pranit Chawla, Vibhav Vineet
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2605.11212v3
+- First submission: 2026-05-11T20:27:54Z
+- Version updated: 2026-06-05T22:18:46Z
+- Abstract SHA-256: 422d2fdf2d7f665df1a5672e03d837ba41fe9c6832d64c40317f77481f642130
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

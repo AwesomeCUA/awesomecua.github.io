@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yulong Ming, Jie Xu, Zihan Wu, Xiaohua Jia
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.02932v1
+- First submission: 2026-10-02T07:22:46Z
+- Version updated: 2026-10-02T07:22:46Z
+- Abstract SHA-256: 923a2e8c6f95b38f84e66e4d2cacdfd54aae8348e17b3fab858d2d7151e82d5b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

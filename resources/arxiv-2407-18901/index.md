@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Harsh Trivedi, Tushar Khot, Mareike Hartmann, Ruskin Manku, Vinty Dong, Edward Li, Shashank Gupta, Ashish Sabharwal, Niranjan Balasubramanian
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2407.18901v1
+- First submission: 2024-07-26T17:55:45Z
+- Version updated: 2024-07-26T17:55:45Z
+- Abstract SHA-256: e59087ecf28d07baf81b60e4166a866d4bea4d8cd934bea06c2149dd61f38f1a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zengyi Qin, Jinyuan Chen, Yunze Man, Shengcao Cao, Ziqi Pang, Zhuoyuan Wang, Han Fang, Ling Zhu, Zixin Xie, Zibu Wei, Tianshu Ran, Haoran Geng, Ray Pan, Qizhen Sun, Zachary Bright, Yuyang Cai, Chongye Yang, Jiace Zhao, Tianrui Liu, Han Cao, Yeyang Zhou, Rui Wang, Song Wang, Xiang Ren, Bo Zhang, Yutong Ban, Pieter Abbeel, Brian Anthony
 
+## Recorded arXiv snapshot
+
+- Version: 5
+- Version source: https://arxiv.org/abs/2511.11672v5
+- First submission: 2025-11-11T20:03:38Z
+- Version updated: 2026-04-02T02:42:36Z
+- Abstract SHA-256: 755d41575ae8ee5d07be0022c8f078c742da4628f12ecd1cad984269441021cf
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

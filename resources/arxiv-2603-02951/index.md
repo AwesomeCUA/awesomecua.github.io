@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhenquan Yao, Zitong Huang, Yihan Zeng, Jianhua Han, Hang Xu, Chun-Mei Feng, Jianwei Ma, Wangmeng Zuo
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2603.02951v2
+- First submission: 2026-03-03T13:02:20Z
+- Version updated: 2026-03-07T10:11:08Z
+- Abstract SHA-256: 75f8eb625e969c2b180eeb3e90aa4e513ab5a1dc15657d3849c68b69bc5edf7c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

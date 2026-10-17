@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Siqi Fan, Minghao Li, Xiaoqian Ma, Wenhui Tan, Xiusheng Huang, Juntong Wu, Liujie Zhang, Shuo Shang, Weihang Chen
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2608.03327v2
+- First submission: 2026-08-04T08:35:51Z
+- Version updated: 2026-08-06T07:26:24Z
+- Abstract SHA-256: 2c8692712194d0ff822091d13324e6bb540339103a824f1030f7a971699d0a0b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

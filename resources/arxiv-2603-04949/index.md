@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Md Farhan Ishmam, Kenneth Marino
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2603.04949v4
+- First submission: 2026-03-05T08:43:06Z
+- Version updated: 2026-10-14T10:16:21Z
+- Abstract SHA-256: 1901125b21431e41eacb5d5f0fc7a439d9a637c43762d441ece46a90e135051b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

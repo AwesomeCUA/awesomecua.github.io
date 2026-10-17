@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Brandon Redding, Joseph B. Murray, Joseph D. Hart, Zheyuan Zhu, Shuo S. Pang, Raktim Sarma
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2308.14504v1
+- First submission: 2023-08-28T11:29:11Z
+- Version updated: 2023-08-28T11:29:11Z
+- Abstract SHA-256: 2f217c430bac81b083d6485cc5922847ba9f0e04c53d4a449cedf5b49e50d052
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

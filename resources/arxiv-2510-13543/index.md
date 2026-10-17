@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Avihay Cohen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2510.13543v1
+- First submission: 2025-10-15T13:39:13Z
+- Version updated: 2025-10-15T13:39:13Z
+- Abstract SHA-256: bedde658a28c57551c27563fa22cb037839dddd4e5eabe1c66afa27523d0d406
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

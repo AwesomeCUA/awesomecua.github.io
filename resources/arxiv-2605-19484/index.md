@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Haobo Hu, Xiangwu Guo, Zhiheng Chen, Difei Gao, Haotian Liu, Libiao Jin, Qi Mao
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.19484v1
+- First submission: 2026-05-19T07:35:22Z
+- Version updated: 2026-05-19T07:35:22Z
+- Abstract SHA-256: fd78832d2550ce38e5147e8779455242a62f1aabdab652c676f7324c19578d4c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

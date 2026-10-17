@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jikai Chen, Long Chen, Dong Wang, Qinglin Su, Zhixuan Chu, Bingguang Hao, Leilei Gan, Chenyi Zhuang, Jinjie Gu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2601.06899v2
+- First submission: 2026-01-11T12:54:54Z
+- Version updated: 2026-01-16T06:33:17Z
+- Abstract SHA-256: fd2b645b974322737d5b3398eb3d57bff0c86f0b083bb8202d7bc5c0316ce12b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

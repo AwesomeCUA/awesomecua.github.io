@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Giang T. Nguyen, Federico Poloni
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1605.01482v1
+- First submission: 2016-05-05T03:29:07Z
+- Version updated: 2016-05-05T03:29:07Z
+- Abstract SHA-256: 24ba6eff291b83333cf461f9c6b7a5648f8575210489d3612100b36a4b169d46
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Serin Kim, Sangam Lee, Dongha Lee
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2602.17003v3
+- First submission: 2026-02-19T01:54:26Z
+- Version updated: 2026-05-27T12:15:49Z
+- Abstract SHA-256: 28a23bf22920f8c33317e9d16f59d7085f188e79157301ff573abe773cf562ce
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Nathan Berkovits, Luis Alberto Ypanaqué
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1910.10511v1
+- First submission: 2019-10-23T12:07:34Z
+- Version updated: 2019-10-23T12:07:34Z
+- Abstract SHA-256: 9fd6c78bb6dbad4d5ced6ed92aeeec5c2530af73a18576543584a1511c23d261
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

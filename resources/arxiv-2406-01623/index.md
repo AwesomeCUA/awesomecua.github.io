@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Eric Li, Jim Waldo
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2406.01623v1
+- First submission: 2024-06-01T00:32:26Z
+- Version updated: 2024-06-01T00:32:26Z
+- Abstract SHA-256: b9a728edf0b834adb72abfc50e13d5b2b52f532f444b3e8af34effd3d86beb1b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

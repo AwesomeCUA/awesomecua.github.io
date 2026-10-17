@@ -20,6 +20,15 @@ Editorial summary based on the primary paper abstract; experiments and released 
 
 Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2306.06070v3
+- First submission: 2023-06-09T17:44:31Z
+- Version updated: 2023-12-09T05:57:46Z
+- Abstract SHA-256: de055dfa452130f3576839c99c007053c62a0c96c9bfbcdd79ecad1a9f74f830
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

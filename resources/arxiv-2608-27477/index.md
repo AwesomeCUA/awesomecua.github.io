@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yiqi Zhu, Feiyu Gao, Jiaxing Fan, Jiahui Zeng, Minggang Wu, Chenliang Li, Haiyang Xu, Peng Li, Ming Yan, Yang Liu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.27477v1
+- First submission: 2026-08-21T12:17:14Z
+- Version updated: 2026-08-21T12:17:14Z
+- Abstract SHA-256: 3a5ee0ab2cc4e3ae641c4ba27d64b7399e2f75d4b5533b2cdc42e3ace6a5dbdf
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Lutfi Eren Erdogan, Nicholas Lee, Sehoon Kim, Suhong Moon, Hiroki Furuta, Gopala Anumanchipalli, Kurt Keutzer, Amir Gholami
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2503.09572v3
+- First submission: 2025-03-12T17:40:52Z
+- Version updated: 2025-04-22T17:56:22Z
+- Abstract SHA-256: 6b03d84f29bb524d7950039624e0d460d8381f2ba63d70c69f5f958013730db9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

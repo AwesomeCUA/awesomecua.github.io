@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Dongchan Shin, Xing Han Lù, Jiaqi Deng, Jay Gala, Tomás Vergara Browne, Jaewon Moon, Fengyuan Liu, Alexandre Drouin, Siva Reddy, Alexandre Lacoste
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.36488v1
+- First submission: 2026-09-29T01:46:48Z
+- Version updated: 2026-09-29T01:46:48Z
+- Abstract SHA-256: 2fe39365133228daa770445f19002f6abe34ca1151cf4952a225ba0001de5250
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ashwin Aravind
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.16265v1
+- First submission: 2026-03-24T11:39:35Z
+- Version updated: 2026-03-24T11:39:35Z
+- Abstract SHA-256: feeac1fa65eddc5e9d7e53c8ff492d2db2f4f5dfe05368221f917f151f05fa17
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

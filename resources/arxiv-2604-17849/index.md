@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Gonzalo Gonzalez-Pumariega, Saaket Agashe, Jiachen Yang, Ang Li, Xin Eric Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.17849v1
+- First submission: 2026-04-20T05:59:04Z
+- Version updated: 2026-04-20T05:59:04Z
+- Abstract SHA-256: a508db9eba8a7db5b52273bff32a16189f5a8eed19d6563e0f84313188a0aad1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Manuel Grimm, Adrian Beckert, Gabriel Aeppli, Markus Müller
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2009.14126v1
+- First submission: 2020-09-29T16:20:00Z
+- Version updated: 2020-09-29T16:20:00Z
+- Abstract SHA-256: 4422c6436dcdaae7894fd339a6c8d8586363917e7aec81ee52b5046363f37fc7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

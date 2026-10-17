@@ -20,6 +20,15 @@ Summary and topic tags reviewed against the primary abstract. Reported experimen
 
 Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2401.10935v2
+- First submission: 2024-01-17T08:10:35Z
+- Version updated: 2024-02-23T04:36:51Z
+- Abstract SHA-256: c92ec9323eec9362aa07984f9fb1cbfbe98ecae426a9f8adc9d436328a87aed3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

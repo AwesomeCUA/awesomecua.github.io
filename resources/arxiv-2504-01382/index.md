@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Tianci Xue, Weijian Qi, Tianneng Shi, Chan Hee Song, Boyu Gou, Dawn Song, Huan Sun, Yu Su
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2504.01382v4
+- First submission: 2025-04-02T05:51:29Z
+- Version updated: 2025-10-08T02:22:45Z
+- Abstract SHA-256: ccad667f7c5bb75e58d75d5eab5cc24c7c3610be9eed1a09079de5e23c85af04
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

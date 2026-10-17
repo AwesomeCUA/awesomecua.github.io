@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Wujiang Xu, Zujie Liang, Kai Mei, Hang Gao, Juntao Tan, Yongfeng Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 11
+- Version source: https://arxiv.org/abs/2502.12110v11
+- First submission: 2025-02-17T18:36:14Z
+- Version updated: 2025-10-08T01:46:37Z
+- Abstract SHA-256: 3d301f1761cacf9d4be63256126070f29bcfd02d4769499764bee812b424c5d6
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

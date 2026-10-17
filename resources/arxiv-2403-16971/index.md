@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kai Mei, Xi Zhu, Wujiang Xu, Wenyue Hua, Mingyu Jin, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 5
+- Version source: https://arxiv.org/abs/2403.16971v5
+- First submission: 2024-03-25T17:32:23Z
+- Version updated: 2025-08-12T14:37:01Z
+- Abstract SHA-256: 351f10b771f554317b058b00b6b406cc947656a5d915af04ea69e2e30827a79a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

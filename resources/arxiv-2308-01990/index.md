@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Rodrigo Pedro, Daniel Castro, Paulo Carreira, Nuno Santos
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2308.01990v4
+- First submission: 2023-08-03T19:03:18Z
+- Version updated: 2025-01-27T20:37:59Z
+- Abstract SHA-256: 1c03a2f49769e42104ead027ef68972638189d643d36eb6d14276ef39cdf21f2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

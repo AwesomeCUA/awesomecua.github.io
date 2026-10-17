@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuting Ning, Jaylen Jones, Zhehao Zhang, Chentao Ye, Weitong Ruan, Junyi Li, Rahul Gupta, Huan Sun
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2602.08995v2
+- First submission: 2026-02-09T18:41:15Z
+- Version updated: 2026-06-25T04:36:12Z
+- Abstract SHA-256: 853f64c020f47129be01778d5212ade8ef78251959ad634ee04ad0fb9fe2989c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

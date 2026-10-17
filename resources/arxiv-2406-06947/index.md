@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Junhee Cho, Jihoon Kim, Daseul Bae, Jinho Choo, Youngjune Gwon, Yeong-Dae Kwon
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2406.06947v3
+- First submission: 2024-06-11T05:21:20Z
+- Version updated: 2024-12-26T11:02:28Z
+- Abstract SHA-256: 5f85b2cf7650f41ba9ee6e4ae83cd9041e077a44adcb685e702d644bd5779963
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

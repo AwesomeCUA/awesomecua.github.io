@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kihoon Son, Jinhyeon Kwon, DaEun Choi, Tae Soo Kim, Young-Ho Kim, Sangdoo Yun, Juho Kim
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2405.04497v2
+- First submission: 2024-05-07T17:10:31Z
+- Version updated: 2024-05-08T05:44:21Z
+- Abstract SHA-256: a358d417d8bef89a01e799d88564e3ede4678ebda4950e87c96cf1e1954b85e1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

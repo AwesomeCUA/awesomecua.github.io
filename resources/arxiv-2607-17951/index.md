@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Di Lu, Bo Zhang, Xiyuan Li, Yongzhi Liao, Xuewen Dong, Yulong Shen, Zhiquan Liu, Jianfeng Ma
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2607.17951v1
+- First submission: 2026-07-20T13:52:24Z
+- Version updated: 2026-07-20T13:52:24Z
+- Abstract SHA-256: 5a8253e94ce43c0a614d4f56ad4e68c574b174de62d3ac6dafcd8bc2f360aced
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 René Bødker Christensen, Petar Popovski
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2305.05993v2
+- First submission: 2023-05-10T09:01:38Z
+- Version updated: 2023-10-27T09:50:25Z
+- Abstract SHA-256: 488909fbd51001b1e656d1376261595666f30253aca115a994b998d82ca28615
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

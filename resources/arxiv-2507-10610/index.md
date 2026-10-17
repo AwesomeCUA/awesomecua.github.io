@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zihe Yan, Jiaping Gui, Zhuosheng Zhang, Gongshen Liu
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2507.10610v3
+- First submission: 2025-07-13T08:36:09Z
+- Version updated: 2026-04-07T11:46:55Z
+- Abstract SHA-256: 5db0008a053357b6dba38b55f29642ddbcbf38761c64684fd1725183ff8e56d3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

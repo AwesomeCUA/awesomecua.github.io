@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Nicholas Lee, Lutfi Eren Erdogan, Chris Joseph John, Surya Krishnapillai, Michael W. Mahoney, Kurt Keutzer, Amir Gholami
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2602.12276v2
+- First submission: 2026-02-12T18:58:30Z
+- Version updated: 2026-08-14T21:25:10Z
+- Abstract SHA-256: c64cd65fc7fec601658baf7836bdbe9c0e494bde2b0a4b66ec9d3090ee106b1f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

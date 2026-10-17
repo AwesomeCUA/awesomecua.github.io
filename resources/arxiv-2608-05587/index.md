@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Linqiang Guo, Wei Liu, Li Gu, Yang Wang, Tse-Hsun, Chen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.05587v1
+- First submission: 2026-08-06T04:17:27Z
+- Version updated: 2026-08-06T04:17:27Z
+- Abstract SHA-256: dc7934927c82a43e6ae6a246ade1d50c4551cc49d263ca67cfb32906cbec9ea4
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

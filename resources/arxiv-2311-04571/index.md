@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Edgar Andres Ruiz Guzman, Denis Lacroix
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2311.04571v1
+- First submission: 2023-11-08T10:11:01Z
+- Version updated: 2023-11-08T10:11:01Z
+- Abstract SHA-256: 53121a28239d2ce78a1757d79a717b391805f6f6145b2649a5f2dba896214fde
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

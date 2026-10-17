@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Bojie Li, Noah Shi
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.29472v1
+- First submission: 2026-06-28T15:59:31Z
+- Version updated: 2026-06-28T15:59:31Z
+- Abstract SHA-256: 54de4e93f4f3e39d904b4661a193765e02c29f8ec7787264aee5616579c32210
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Daiqiang Li, Zihao Pan, Zeyu Zhang, Xuyang Liu, Shijia Xu, Ronghao Chen, Huacan Wang, Honggang Chen, Linfeng Zhang, Zhangquan Chen, Haiyun Jiang
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2603.26041v4
+- First submission: 2026-03-27T03:21:19Z
+- Version updated: 2026-08-09T16:37:37Z
+- Abstract SHA-256: 738d5048bb7a137d848b6f6068a7ce92694469f1e7bce0702dce422c230a3d0b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

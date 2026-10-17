@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Abhinav Kumar, Jaechul Roh, Ali Naseh, Amir Houmansadr, Eugene Bagdasarian
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2509.01619v1
+- First submission: 2025-09-01T16:56:16Z
+- Version updated: 2025-09-01T16:56:16Z
+- Abstract SHA-256: 0f6ff68c59cede9cf59c039416a87ea39b926e3a3179b9f81af9354767befb93
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

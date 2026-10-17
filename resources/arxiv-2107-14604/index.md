@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Armin Galetzka, Dimitrios Loukrezis, Herbert De Gersem
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2107.14604v2
+- First submission: 2021-07-30T12:57:36Z
+- Version updated: 2021-12-01T07:21:33Z
+- Abstract SHA-256: 32967e61b255926860ad60ac9a82f22e1d1002ce4a71caaa0df862e356a50fc3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

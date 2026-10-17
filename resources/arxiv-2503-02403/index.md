@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Jiahui Sun, Zhichao Hua, Yubin Xia
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2503.02403v2
+- First submission: 2025-03-04T08:44:30Z
+- Version updated: 2025-09-24T05:11:34Z
+- Abstract SHA-256: a0c393d109ab0f8da2bf25bb39581236babd50f7554f2ec99679a99fb7215171
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

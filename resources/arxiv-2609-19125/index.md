@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jin Gao
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.19125v1
+- First submission: 2026-09-16T17:46:34Z
+- Version updated: 2026-09-16T17:46:34Z
+- Abstract SHA-256: d5744036c81b58b4e49cf52001390e1e2aa5341599b30faac09afa755ba1b14b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

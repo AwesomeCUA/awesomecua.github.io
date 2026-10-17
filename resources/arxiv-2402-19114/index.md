@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Takashi Imoto, Yuki Susa, Ryoji Miyazaki, Yuichiro Matsuzaki
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2402.19114v2
+- First submission: 2024-02-29T12:47:29Z
+- Version updated: 2025-03-12T04:29:42Z
+- Abstract SHA-256: 5cf10b4e648cbcefbba49875190bd229b66c8ee626916558df74de113b712f02
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

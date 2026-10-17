@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Terumi Chiba, Guangzhi Sun, Zheqi Yuan, Chao Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.38867v1
+- First submission: 2026-09-30T03:19:25Z
+- Version updated: 2026-09-30T03:19:25Z
+- Abstract SHA-256: bded059a37101b0e6a91ba662e0d70e5e010ddb8c3557598dff2ba82afa45e34
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

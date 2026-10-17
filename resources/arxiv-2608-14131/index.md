@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Thilo Reintjes, Sivajeet Chand, Derui Zhu, Sushant Kumar Pandey, Alexander Pretschner
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.14131v1
+- First submission: 2026-08-14T09:36:33Z
+- Version updated: 2026-08-14T09:36:33Z
+- Abstract SHA-256: f8a6bd69d421bdfb9a21c22e715a59d0afb0b0cab75510f28ff569903ecffae5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

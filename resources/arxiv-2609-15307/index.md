@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yizhou Liu, Fei Tang, Yuchen Yan, Zhengxi Lu, Songqin Nong, Tao Jiang, Wenhao Xu, Wenqi Zhang, Weiming Lu, Jun Xiao, Yongliang Shen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.15307v1
+- First submission: 2026-09-14T09:56:10Z
+- Version updated: 2026-09-14T09:56:10Z
+- Abstract SHA-256: 3e2081a382ae815b48eb3166d18ee7c6e53afb4cd6d75538f3ff3e29f2ed5954
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

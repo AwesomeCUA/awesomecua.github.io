@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Xue Yu, Bo Yuan, Kailin Zhao, Pengshuai Yang, Hong Hu, Junlan Feng
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2607.15550v3
+- First submission: 2026-07-17T01:45:54Z
+- Version updated: 2026-09-02T01:49:21Z
+- Abstract SHA-256: 6a15963a7fb4dfd488f0e79732d9ea0c9a03d43c1e3d5e50dd1ee8e00f1072be
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

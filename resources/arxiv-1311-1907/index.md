@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Vibha Rajput, Alok Katiyar
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1311.1907v1
+- First submission: 2013-11-08T09:17:36Z
+- Version updated: 2013-11-08T09:17:36Z
+- Abstract SHA-256: 6eabcbb79af1f7212e269d1dfc18e4e43bbdc78fcbbe7823658841e12b006894
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Enqi Liu, Liyuan Pan, Zhi Gao, Yan Yang, Chenrui Shi, Yang Liu, Jingrong Wu, Qing Li
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2604.25380v2
+- First submission: 2026-04-28T08:43:58Z
+- Version updated: 2026-05-08T04:29:20Z
+- Abstract SHA-256: 54b49f54319922268ba880a1c1e8a27ffa7597e228b18be04caa1a6952a6456a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

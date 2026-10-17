@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Youngmin Im, Byeongung Jo, Jaeyoung Wi, Seungwoo Baek, Tae Hoon Min, Joo Hyung Lee, Sangeun Oh, Insik Shin, Sunjae Lee
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2512.12634v4
+- First submission: 2025-12-14T10:41:39Z
+- Version updated: 2026-05-31T23:48:10Z
+- Abstract SHA-256: 5982901598e43dcadf63b4a950b2fff68e85be71d0f483648b535d82d7745bd7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

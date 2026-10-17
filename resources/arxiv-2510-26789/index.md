@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shao-Hua Hu, Po-Sung Liu, Jun-Yi Wu
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2510.26789v3
+- First submission: 2025-10-30T17:58:13Z
+- Version updated: 2026-04-16T01:46:35Z
+- Abstract SHA-256: a931d8151e40507bed801bb7fcc36d5a2ff3c782d34bb4e7dbea175b70781524
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Rodrigo Araiza Bravo, Khadijeh Najafi, Xun Gao, Susanne F. Yelin
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2111.10956v4
+- First submission: 2021-11-22T02:45:18Z
+- Version updated: 2022-07-20T18:23:34Z
+- Abstract SHA-256: 5973800b41bd008bcf11962ad125068908931d45ff15b647913d330ba5f94633
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

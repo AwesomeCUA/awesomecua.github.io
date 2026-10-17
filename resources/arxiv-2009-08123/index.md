@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Damir Vrabac, Akshay Smit, Rebecca Rojansky, Yasodha Natkunam, Ranjana H. Advani, Andrew Y. Ng, Sebastian Fernandez-Pol, Pranav Rajpurkar
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2009.08123v3
+- First submission: 2020-09-17T07:43:42Z
+- Version updated: 2020-09-24T11:02:28Z
+- Abstract SHA-256: 7df8b548b51aca03479978db0808a1a301f308626f3acff6cad8cc80f7c51474
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

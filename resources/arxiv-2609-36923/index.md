@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Bin Kang, Jiarui Ouyang, Li Jiang, Bin Chen, Zhuotao Tian
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.36923v1
+- First submission: 2026-09-29T07:41:34Z
+- Version updated: 2026-09-29T07:41:34Z
+- Abstract SHA-256: e3af30198735ca9b9d192e15acbb7f8a37fe222fa2c0c1d2ccff448ef5e79f55
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

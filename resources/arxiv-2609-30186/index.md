@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Linghua Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.30186v1
+- First submission: 2026-09-24T17:30:32Z
+- Version updated: 2026-09-24T17:30:32Z
+- Abstract SHA-256: b387c1cfe77f6e06477415944b3923189a1f0ca30be0680f01815cb65b0067bc
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

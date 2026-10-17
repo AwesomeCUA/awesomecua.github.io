@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yushi Feng, Junye Du, Qifan Wang, Zizhan Ma, Qian Niu, Yutaka Matsuo, Long Feng, Lequan Yu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.09155v1
+- First submission: 2026-04-10T09:41:21Z
+- Version updated: 2026-04-10T09:41:21Z
+- Abstract SHA-256: e53647528b9ee9d98f93ee665d0d886f9b400a129873e240704041df291f5749
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

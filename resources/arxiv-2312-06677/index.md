@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yanchu Guan, Dong Wang, Zhixuan Chu, Shiyu Wang, Feiyue Ni, Ruihua Song, Longfei Li, Jinjie Gu, Chenyi Zhuang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2312.06677v1
+- First submission: 2023-12-04T07:51:58Z
+- Version updated: 2023-12-04T07:51:58Z
+- Abstract SHA-256: 598c8c30348d454c638944c932dd55355b5d3ecda6eb6f3910a27fffcab9622a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

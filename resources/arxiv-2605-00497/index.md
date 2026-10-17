@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shardul Sapkota, Matthew Jörke, Zane Sabbagh, Omar Shaikh, Grace Wang, James A. Landay
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2605.00497v2
+- First submission: 2026-05-01T08:13:32Z
+- Version updated: 2026-09-09T17:20:07Z
+- Abstract SHA-256: 570b8449c666bdfbf90fa380ac52cea7a7351ceafe301ce383ca10e4716600a3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

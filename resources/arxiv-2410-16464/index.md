@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yueqi Song, Frank Xu, Shuyan Zhou, Graham Neubig
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2410.16464v3
+- First submission: 2024-10-21T19:46:06Z
+- Version updated: 2025-06-16T22:23:37Z
+- Abstract SHA-256: 0944387dd3c65ea7b2f5ca52721496cf10b3c9860b303063201e7811318f4950
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Gaole Dai, Shiqi Jiang, Ting Cao, Yuanchun Li, Yuqing Yang, Rui Tan, Mo Li, Lili Qiu
 
+## Recorded arXiv snapshot
+
+- Version: 5
+- Version source: https://arxiv.org/abs/2503.15937v5
+- First submission: 2025-03-20T08:25:00Z
+- Version updated: 2026-02-21T01:36:43Z
+- Abstract SHA-256: 6449576cb8ba45569b57844d87f22d01645b3639a222c648d914dc38e3421553
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

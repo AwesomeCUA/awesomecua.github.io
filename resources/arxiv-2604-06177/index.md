@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuelin Hu, Zhengxue Cheng, Ronghua Wu, Qunshan Gu, Hongwei Hu, Wei Liu, Qiao Liang, Li Song
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.06177v1
+- First submission: 2026-02-03T08:13:05Z
+- Version updated: 2026-02-03T08:13:05Z
+- Abstract SHA-256: f051480f6f95d0c8b8a387d780a0de138beca556cb93dca470ed8818cdaf0d5e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

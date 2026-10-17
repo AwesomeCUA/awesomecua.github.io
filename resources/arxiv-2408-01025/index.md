@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ali Al-Bayaty, Xiaoyu Song, Marek Perkowski
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2408.01025v1
+- First submission: 2024-08-02T05:50:35Z
+- Version updated: 2024-08-02T05:50:35Z
+- Abstract SHA-256: c8f8ef90c35eab96bcadd20478e85ba850e691d9db6f3671849fbad15492352b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

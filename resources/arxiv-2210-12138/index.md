@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Juha Leppäkangas, Nicolas Vogt, Keith R. Fratus, Kirsten Bark, Jesse A. Vaitkus, Pascal Stadler, Jan-Michael Reiner, Sebastian Zanker, Michael Marthaler
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2210.12138v3
+- First submission: 2022-10-21T17:47:32Z
+- Version updated: 2023-12-11T14:39:31Z
+- Abstract SHA-256: 0dc16e6d55eebd54b326ffe9bbdea69d7fd050a05c2f56151f500b5ef1d8ab7a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Hans G. W. van Dam
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2510.06223v2
+- First submission: 2025-08-31T14:40:11Z
+- Version updated: 2025-10-09T12:55:47Z
+- Abstract SHA-256: 9538fa696994dc6ccb25cdc6c3f07e4745063f87bbfd9250e930100092965b83
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Wanying Mo, Jijia Lai, Xiaoming Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2603.22917v1
+- First submission: 2026-03-24T08:05:05Z
+- Version updated: 2026-03-24T08:05:05Z
+- Abstract SHA-256: 5a4616e7df202d8e0ae3185ac5625fbc68ef6e72f54d2693d6be34dd6b0693c0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

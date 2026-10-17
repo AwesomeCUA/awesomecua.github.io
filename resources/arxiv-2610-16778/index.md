@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Zian Yuan, Wei Li
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.16778v1
+- First submission: 2026-10-12T13:34:52Z
+- Version updated: 2026-10-12T13:34:52Z
+- Abstract SHA-256: c5a2743a18bae1deeed13fbd1dd7379c3f21c67488627057ccb466ffe51d09dc
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

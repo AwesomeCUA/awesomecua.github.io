@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kelin Fu, Yang Tian, Kaigui Bian
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2409.09354v1
+- First submission: 2024-09-14T07:54:25Z
+- Version updated: 2024-09-14T07:54:25Z
+- Abstract SHA-256: b46dabe4135f0caca15d54f84cfe805cdb7fe7f1abcce6b004483d99eb21e637
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Saelyne Yang, Jaesang Yu, Yi-Hao Peng, Kevin Qinghong Lin, Jae Won Cho, Yale Song, Juho Kim
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2603.25864v1
+- First submission: 2026-03-26T19:37:53Z
+- Version updated: 2026-03-26T19:37:53Z
+- Abstract SHA-256: 9b3dd3efca196fa3dd168431102dbb5f0f763e7d9e54b3d709ad2362a9c6f154
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

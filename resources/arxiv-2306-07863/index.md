@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Longtao Zheng, Rundong Wang, Xinrun Wang, Bo An
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2306.07863v3
+- First submission: 2023-06-13T15:49:41Z
+- Version updated: 2024-01-19T06:59:26Z
+- Abstract SHA-256: 8fdb5fed2b2fa0ecbf5910dd6813d8de7910af286a1e4e00cdebb734a82e78b0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

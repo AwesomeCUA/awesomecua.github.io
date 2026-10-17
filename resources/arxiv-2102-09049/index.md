@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Prajnesh Kumar, Mingwei Jin, Ting Bu, Santosh Kumar, Yu-Ping Huang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2102.09049v1
+- First submission: 2021-02-11T23:59:14Z
+- Version updated: 2021-02-11T23:59:14Z
+- Abstract SHA-256: 953df741630f66a845d7d7b83c76c51292714c93fe56fb05686fd638dc5d24c4
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

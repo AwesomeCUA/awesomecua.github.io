@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Joel Nitu, Heidrun Mühle, Andreas Stöckl
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2507.12844v2
+- First submission: 2025-07-17T07:10:27Z
+- Version updated: 2025-11-12T13:34:24Z
+- Abstract SHA-256: 9fe2d9d877a0666d46a065bd8b673c282c879ef0a2620e3b267793a91858b519
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

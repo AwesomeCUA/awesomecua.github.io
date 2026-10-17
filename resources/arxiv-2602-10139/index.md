@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Lepeng Zhao, Zhenhua Zou, Shuo Li, Zhuotao Liu
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2602.10139v3
+- First submission: 2026-02-08T15:50:04Z
+- Version updated: 2026-04-26T01:34:23Z
+- Abstract SHA-256: 727279bf83a67f66fa8f173d028936fe0bdae63e9f23800d98476da10201ad0d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

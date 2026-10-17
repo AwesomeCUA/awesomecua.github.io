@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zeyi Liao, Yadong Lu, Boyu Gou, Huan Sun, Ahmed Awadallah
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2601.06031v1
+- First submission: 2025-11-07T19:40:09Z
+- Version updated: 2025-11-07T19:40:09Z
+- Abstract SHA-256: d8e95ae74671c37b630f10acd23cf36ef2fca9570858647a165d78a6f9a4695b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

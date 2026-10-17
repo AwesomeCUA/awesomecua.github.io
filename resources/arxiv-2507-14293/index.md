@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Boyuan Zheng, Zeyi Liao, Scott Salisbury, Zeyuan Liu, Michael Lin, Qinyuan Zheng, Zifan Wang, Xiang Deng, Dawn Song, Huan Sun, Yu Su
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2507.14293v1
+- First submission: 2025-07-18T18:06:27Z
+- Version updated: 2025-07-18T18:06:27Z
+- Abstract SHA-256: a8f082fd40174e01f40e97d64f7aa3d90e5f76e831df8f93afdc21aa2e35bfd5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

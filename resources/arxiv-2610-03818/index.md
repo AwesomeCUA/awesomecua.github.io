@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Maria Sanchez del Rio, Mikhail Terekhov
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2610.03818v2
+- First submission: 2026-10-02T00:31:34Z
+- Version updated: 2026-10-12T23:17:28Z
+- Abstract SHA-256: f9dd28bdfb8879cbdb68f539c286365a06f4e9d04eba2420bb46f3575fdbfa05
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

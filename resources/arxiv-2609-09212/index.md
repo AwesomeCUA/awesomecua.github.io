@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhihao Liu, Hongyu Sun, Zhiyuan Fu, Xiaonan Duan, Jice Wang, Shangru Zhao, Weizhi Meng, Wuxin Yang, Yangfan Zhou, Yuqing Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.09212v1
+- First submission: 2026-09-06T03:49:45Z
+- Version updated: 2026-09-06T03:49:45Z
+- Abstract SHA-256: 5a3a7a81ffe43885d9c8362df4c8aff08000304fe60477f484a732caf35124b2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

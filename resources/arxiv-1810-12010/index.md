@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Alexandre Gélin
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1810.12010v1
+- First submission: 2018-10-29T09:10:39Z
+- Version updated: 2018-10-29T09:10:39Z
+- Abstract SHA-256: cc926400155a41d1ffc4f5bcdea4e1ab5f3737cd469f8480bd033db796eded7c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

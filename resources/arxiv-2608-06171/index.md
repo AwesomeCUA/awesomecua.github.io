@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jiaming Wei, Zekun Wu, Adriano Koshiyama, Maria Perez-Ortiz
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.06171v1
+- First submission: 2026-08-06T15:37:04Z
+- Version updated: 2026-08-06T15:37:04Z
+- Abstract SHA-256: 9055ec9c70777fc94179983d82bf841bac12332ebed7f49342883c8d842d0fbc
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

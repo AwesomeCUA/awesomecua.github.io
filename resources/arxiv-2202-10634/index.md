@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Bolin Zhang, Yu Liu, Tianqi Gao, Deming Zhang, Weisheng Zhao, Lang Zeng
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2202.10634v1
+- First submission: 2022-02-22T02:47:08Z
+- Version updated: 2022-02-22T02:47:08Z
+- Abstract SHA-256: c7aa8a13e656ce3060de53fa719e3b5d9d6cbcf50a6c273dda9e1e3bde576844
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Teresa Klatzer, Savvas Melidonis, Marcelo Pereyra, Konstantinos C. Zygalakis
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2503.16222v2
+- First submission: 2025-03-20T15:17:05Z
+- Version updated: 2026-01-09T17:33:02Z
+- Abstract SHA-256: 27758240241d02f129a45ccdfc2c18f525f67caa9e27f190714f1d22b77e9afc
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

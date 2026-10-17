@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Bin Xie, Rui Shao, Gongwei Chen, Kaiwen Zhou, Yinchuan Li, Jie Liu, Min Zhang, Liqiang Nie
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2505.16827v1
+- First submission: 2025-05-22T16:01:06Z
+- Version updated: 2025-05-22T16:01:06Z
+- Abstract SHA-256: 641001c49fccac1e1c0659fe765eba5a30cefd2a7ff5d00c821f79092c45a1df
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

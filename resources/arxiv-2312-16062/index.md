@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Lihang Pan, Bowen Wang, Chun Yu, Yuxuan Chen, Xiangyu Zhang, Yuanchun Shi
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2312.16062v1
+- First submission: 2023-12-26T14:20:36Z
+- Version updated: 2023-12-26T14:20:36Z
+- Abstract SHA-256: 0f592712517da90bfeb807ab445034c3974b406e0ed6b4933fbd19078984b9b8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

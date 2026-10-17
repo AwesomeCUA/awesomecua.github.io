@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Run Luo, Lu Wang, Wanwei He, Longze Chen, Jiaming Li, Xiaobo Xia
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2504.10458v4
+- First submission: 2025-04-14T17:45:54Z
+- Version updated: 2025-10-01T04:55:20Z
+- Abstract SHA-256: b875617b795e0f8d7d6348e22ec85ccc9ab4dd931e66850182348927b1e5209f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

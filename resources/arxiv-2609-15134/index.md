@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yunhao Feng, Ruixiao Lin, Ming Wen, Yanming Guo, Xingjun Ma, Yutao Wu, Xinhao Deng, Shouling Ji
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.15134v1
+- First submission: 2026-09-14T07:09:33Z
+- Version updated: 2026-09-14T07:09:33Z
+- Abstract SHA-256: 4dd204d4efcb620479f444d4551cfb0037cff0dba0cc7c40ef4fc50b39376d10
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

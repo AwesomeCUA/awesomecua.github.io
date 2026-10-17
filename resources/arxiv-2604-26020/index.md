@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Alice Gao, Weixi Tong, Rishab Vempati, Katharina Reinecke, R. Benjamin Shapiro, Tianyi Zhang, Jason Wu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.26020v1
+- First submission: 2026-04-28T18:04:11Z
+- Version updated: 2026-04-28T18:04:11Z
+- Abstract SHA-256: bb6d24f7dc38921da883c4850b37f1c7eb48a03de920356d4ec2e095dbb44b04
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

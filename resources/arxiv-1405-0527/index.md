@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Moya Chen, Doris Xin, Damien Woods
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/1405.0527v2
+- First submission: 2014-05-02T22:19:53Z
+- Version updated: 2014-09-05T16:27:14Z
+- Abstract SHA-256: 777d82287ef412cd97969a4af72e49c10ebb8af4b9d03096f3c3b8e7b59a80f6
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Haoyi Qiu, Alexander R. Fabbri, Divyansh Agarwal, Kung-Hsiang Huang, Sarah Tan, Nanyun Peng, Chien-Sheng Wu
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2410.23252v3
+- First submission: 2024-10-30T17:35:44Z
+- Version updated: 2025-03-08T23:37:49Z
+- Abstract SHA-256: 26fac89c78ab03fcbaf25bbfe93ebce090dec9adbf5c6dd5440641f154cffac9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

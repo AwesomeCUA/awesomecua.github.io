@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kaixin Ma, Hongming Zhang, Hongwei Wang, Xiaoman Pan, Wenhao Yu, Dong Yu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2309.08172v2
+- First submission: 2023-09-15T05:44:08Z
+- Version updated: 2024-02-21T17:42:32Z
+- Abstract SHA-256: 399c97382cac325a9d60a073a14221dee6ee6254cb0b8aa88a5341a7bb758c97
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

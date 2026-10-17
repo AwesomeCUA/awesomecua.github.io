@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ziyun Zeng, Hang Hua, Bocheng Zou, Mu Cai, Rogerio Feris, Jiebo Luo
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.18652v1
+- First submission: 2026-05-18T16:57:36Z
+- Version updated: 2026-05-18T16:57:36Z
+- Abstract SHA-256: d96c8844274f79adea167169a0853e3a7cd82fee4a8a666913f97898a0836e7c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

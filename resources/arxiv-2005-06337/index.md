@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ahmed Abid Moueddene, Nader Khammassi, Koen Bertels, Carmen G. Almudever
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2005.06337v1
+- First submission: 2020-05-13T14:29:18Z
+- Version updated: 2020-05-13T14:29:18Z
+- Abstract SHA-256: 66144b9c35b8bf0157e0b774a012c08a9146e33f8fddc95144e97ab8b97c8d59
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

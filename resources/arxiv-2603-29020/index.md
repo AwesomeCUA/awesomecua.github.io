@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Deepak Akkil, Mowafak Allaham, Amal Raj, Tamer Abuelsaad, Ravi Kokku
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2603.29020v1
+- First submission: 2026-03-30T21:27:28Z
+- Version updated: 2026-03-30T21:27:28Z
+- Abstract SHA-256: b4f03e65387e3aad99b8c4cef166a7a8b4a9e2954ad932b8daf566e30f156595
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

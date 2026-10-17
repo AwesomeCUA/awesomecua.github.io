@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Seungjun Yu, Hojun Choi, Seojeong Park, Jaeyo Shin, Hyunjung Shim
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.14228v1
+- First submission: 2026-10-09T18:45:11Z
+- Version updated: 2026-10-09T18:45:11Z
+- Abstract SHA-256: 191e88c19124ddaddc2fed2f0e3f8e197a4c0c7f8adbc3997c056d3333754042
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Aram Vardanyan
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2511.19477v1
+- First submission: 2025-11-22T12:18:35Z
+- Version updated: 2025-11-22T12:18:35Z
+- Abstract SHA-256: 17debfa3b59e5a2fcae950c2659e5851ae101cc58181e0cc4e0320befe9b4cb1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

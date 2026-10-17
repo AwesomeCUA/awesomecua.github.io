@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Brandon Man, Ghadi Nehme, Md Ferdous Alam, Faez Ahmed
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2505.24838v2
+- First submission: 2025-05-30T17:39:52Z
+- Version updated: 2025-11-08T18:27:03Z
+- Abstract SHA-256: f913b87f07fdad0e4c45264c58c8d9b9d13ca26695306d9e0644eb856f18ced7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

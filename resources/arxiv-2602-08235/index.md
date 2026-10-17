@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jaylen Jones, Zhehao Zhang, Yuting Ning, Eric Fosler-Lussier, Pierre-Luc St-Charles, Yoshua Bengio, Dawn Song, Yu Su, Huan Sun
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2602.08235v2
+- First submission: 2026-02-09T03:20:11Z
+- Version updated: 2026-06-06T21:46:49Z
+- Abstract SHA-256: 7d6e474c42c3e43b36530810134c68cf13491ceab43de3e2d5fcc0bc65587163
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

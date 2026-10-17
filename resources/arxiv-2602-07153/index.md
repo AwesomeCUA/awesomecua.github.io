@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jinbiao Wei, Yilun Zhao, Kangqi Ni, Arman Cohan
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2602.07153v2
+- First submission: 2026-02-06T19:55:26Z
+- Version updated: 2026-04-12T06:09:23Z
+- Abstract SHA-256: ce896d4d846bf07fedc68b7f952532c4fefe24dcb49b51556e0d6c2bc648bb91
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

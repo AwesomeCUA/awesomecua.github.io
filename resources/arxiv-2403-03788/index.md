@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zekai Zhang, Yiduo Guo, Yaobo Liang, Dongyan Zhao, Nan Duan
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2403.03788v1
+- First submission: 2024-03-06T15:33:32Z
+- Version updated: 2024-03-06T15:33:32Z
+- Abstract SHA-256: 51abf6b165b84c647c9a4870a6441900cac5e9a933199fe8a47d1b7f065eb11e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

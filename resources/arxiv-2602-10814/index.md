@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xingyi Zhang, Yulei Ye, Kaifeng Huang, Wenhao Li, Xiangfeng Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2602.10814v1
+- First submission: 2026-02-11T12:54:53Z
+- Version updated: 2026-02-11T12:54:53Z
+- Abstract SHA-256: 86a47f084b23cc70e754808f6404bed0bbd500f78fcac4ccc104f95052a49868
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

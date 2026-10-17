@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Renqi Chen, Zeyin Tao, Jianming Guo, Jing Wang, Zezhou Xu, Jingzhe Zhu, Qingqing Sun, Tianyi Zhang, Shuai Chen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.13531v1
+- First submission: 2026-04-15T06:27:49Z
+- Version updated: 2026-04-15T06:27:49Z
+- Abstract SHA-256: 580d3643d55d47160d790bda593ee07279ed6f7fd6ba62b3bfe3491a859db315
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sarah Filippi, Chris Barnes, Julien Cornebise, Michael P. H. Stumpf
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/1106.6280v4
+- First submission: 2011-06-30T15:54:26Z
+- Version updated: 2012-10-15T14:52:40Z
+- Abstract SHA-256: ed821bbb4f6303febe4f0abab97d7532c6ce0fe0eca798791d76e43c090e6c37
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

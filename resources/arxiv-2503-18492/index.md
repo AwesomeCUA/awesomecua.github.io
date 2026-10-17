@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Jungjae Lee, Dongjae Lee, Chihun Choi, Youngmin Im, Jaeyoung Wi, Kihong Heo, Sangeun Oh, Sunjae Lee, Insik Shin
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2503.18492v2
+- First submission: 2025-03-24T09:46:05Z
+- Version updated: 2025-09-11T04:15:45Z
+- Abstract SHA-256: 10e7a9a4471555c6e4001cd10c1e4b375b503adfe6ea48d5808d1d7721dfc162
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

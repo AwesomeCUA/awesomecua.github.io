@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yujin Zhang, Daye Nam
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.18671v1
+- First submission: 2026-06-17T04:13:20Z
+- Version updated: 2026-06-17T04:13:20Z
+- Abstract SHA-256: c52695e860206d02735839853416965ec3d42fac134ebfa0e8f2f5f5ea043914
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

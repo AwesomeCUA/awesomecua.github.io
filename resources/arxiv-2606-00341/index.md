@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jeremy Tien, Abishek Anand, Yu-Rou Tuan, Yuchen Shen, J. Zico Kolter, Aran Nayebi
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2606.00341v2
+- First submission: 2026-05-29T20:29:35Z
+- Version updated: 2026-10-01T15:01:58Z
+- Abstract SHA-256: 469c3b75b7dc63318d7ba777d9ae522d71247afdccc3d8cfd723a8780bcbde76
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

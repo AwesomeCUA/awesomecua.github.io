@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jiateng Liu, Rushi Wang, Bingxuan Li, Kunlun Zhu, Yifan Shen, Qingyun Wang, Ahmed Abbasi, Denghui Zhang, Heng Ji
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.02729v1
+- First submission: 2026-05-04T15:28:59Z
+- Version updated: 2026-05-04T15:28:59Z
+- Abstract SHA-256: c910dd10dd4bb33bf211f39ce8c1b928ddd5eb3d1cc875503405af9624a01b72
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Paloma Sodhi, S. R. K. Branavan, Yoav Artzi, Ryan McDonald
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2310.03720v4
+- First submission: 2023-10-05T17:40:09Z
+- Version updated: 2024-08-08T18:00:48Z
+- Abstract SHA-256: d843f3c65e5961da773ec0265c2cfbf51d7c8214d9232ecad1638cc0dbb9ef64
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

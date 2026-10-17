@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Anthony Nguyen
 
+## Recorded arXiv snapshot
+
+- Version: 7
+- Version source: https://arxiv.org/abs/2411.13591v7
+- First submission: 2024-11-18T05:47:12Z
+- Version updated: 2025-09-11T16:37:00Z
+- Abstract SHA-256: b639d016daf616a5f58656d2a291505cd82f7765c47638a515e359210fd56779
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

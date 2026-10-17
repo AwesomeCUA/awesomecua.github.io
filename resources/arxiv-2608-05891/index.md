@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Weikai Xu, Yunren Feng, Haoxiang Lei, Kun Huang, Yuxuan Liu, Kang Zhao, Xiaolin Hu, Shuo Shang, Bo An
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.05891v1
+- First submission: 2026-08-06T11:15:41Z
+- Version updated: 2026-08-06T11:15:41Z
+- Abstract SHA-256: ce37dd8217afbaa07ddea25c0daf78cdbfb449851ca6ab17b7f3ecacd451eb2f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

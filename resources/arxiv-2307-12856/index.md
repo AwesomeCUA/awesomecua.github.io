@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Izzeddin Gur, Hiroki Furuta, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2307.12856v4
+- First submission: 2023-07-24T14:56:30Z
+- Version updated: 2024-02-25T16:17:43Z
+- Abstract SHA-256: 65328d525a6458ef8c401fb0ac4a9b6a5142bad462bd15a212d124c83a56209f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Wenbo Hu, Shraman Pramanick, Krishna Kumar Singh, Nanyun Peng, Kai-Wei Chang, Yong Jae Lee
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.18868v1
+- First submission: 2026-10-13T17:59:51Z
+- Version updated: 2026-10-13T17:59:51Z
+- Abstract SHA-256: 0a9f020520d7945cf0034b1701043a806d1550687ed2fc38c55fa7e96cea9377
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

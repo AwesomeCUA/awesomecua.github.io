@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Chenyue Li, Xiaoxiao Sun, Yubo Deng, Qinlin Zhao, Serena Yeung-Levy, Yuhui Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.32036v1
+- First submission: 2026-09-25T22:07:29Z
+- Version updated: 2026-09-25T22:07:29Z
+- Abstract SHA-256: 12976e58eb48d9c4709fb03508ac7ed7eeafffd3df675d3dccfd09bdc354f3db
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

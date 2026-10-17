@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhichao Liu, Wenbo Pan, Haining Yu, Ge Gao, Tianqing Zhu, Xiaohua Jia
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.08310v1
+- First submission: 2026-05-08T14:06:03Z
+- Version updated: 2026-05-08T14:06:03Z
+- Abstract SHA-256: 204e3c2627288c7ecd731c7b3c473c34cf9eec976df0a4c8e38b66ed2980f206
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

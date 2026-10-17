@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Xiaolei Li, Jialun Cao, Yepang Liu, Shing-Chi Cheung, Hailong Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2504.02357v1
+- First submission: 2025-04-03T07:45:09Z
+- Version updated: 2025-04-03T07:45:09Z
+- Abstract SHA-256: a646bb2136cdaf47a0d8b3f485d3e1973fc15ac4f844e1beddedf6021b56ffe4
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

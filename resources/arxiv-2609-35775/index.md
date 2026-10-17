@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhan Qu, Hui Zang, Ran Chen, Tao Wang, Shengyu Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.35775v1
+- First submission: 2026-07-31T02:08:54Z
+- Version updated: 2026-07-31T02:08:54Z
+- Abstract SHA-256: 903b60e1ffb8a7b695f034d8ca1cc827e7d601b506d39a1cbbde404921f364b9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

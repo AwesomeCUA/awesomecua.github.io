@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Martin Zeppenfeld
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2311.14133v1
+- First submission: 2023-11-23T18:04:56Z
+- Version updated: 2023-11-23T18:04:56Z
+- Abstract SHA-256: 272c4f18dacf1a16c6d0e21e122259d6d125affbf0fe7b178631813b5dc55dff
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

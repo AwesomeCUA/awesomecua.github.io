@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Hiroki Ohta, Aaron Merlin Müller, Shunji Tsuchiya
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2511.12000v4
+- First submission: 2025-11-15T02:38:34Z
+- Version updated: 2026-05-04T19:32:12Z
+- Abstract SHA-256: 2f632962bf14387f7d24d6224be0127b3d14f8ae2339abe673f1ab89151edcaa
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

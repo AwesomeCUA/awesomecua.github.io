@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Guohao Li, Hasan Abed Al Kader Hammoud, Hani Itani, Dmitrii Khizbullin, Bernard Ghanem
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2303.17760v2
+- First submission: 2023-03-31T01:09:00Z
+- Version updated: 2023-11-02T17:34:57Z
+- Abstract SHA-256: 6cc05737de8b8876ba8abef085b0ffb777377971da7f2f3934152351c7c0d674
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

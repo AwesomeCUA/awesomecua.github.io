@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Runxi Huang, Liyu Zhang, Shengzhong Liu, Xiaomin Ouyang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.26546v1
+- First submission: 2026-05-26T04:53:53Z
+- Version updated: 2026-05-26T04:53:53Z
+- Abstract SHA-256: 97467a9a1d3c456a0078e96ebb128efa43412a3139a7a68beb4e6dd7b5f0674d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

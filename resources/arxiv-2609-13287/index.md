@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhangxuan Gu, Haoxing Chen, Qi Qin, Yi Xin, Kai Gan, Lin Liu, Long Cui, Xiaomei Wang, Beitong Zhou, Yunzhu Zhang, Zhengwen Zeng, Changlong Gao, Weizhi Chen, Rongchao Zhang, Haoyuan Wu, Shuheng Shen, Changhua Meng, Weiqiang Wang, Jianguo Li, Zhenzhong Lan
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.13287v1
+- First submission: 2026-09-09T05:53:39Z
+- Version updated: 2026-09-09T05:53:39Z
+- Abstract SHA-256: 2d7e9643c0543f088e5d2b17699c843a7643c611315f20ce92e83aea849b931a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

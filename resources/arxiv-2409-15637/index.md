@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Tianyue Ou, Frank F. Xu, Aman Madaan, Jiarui Liu, Robert Lo, Abishek Sridhar, Sudipta Sengupta, Dan Roth, Graham Neubig, Shuyan Zhou
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2409.15637v2
+- First submission: 2024-09-24T00:51:45Z
+- Version updated: 2024-11-27T16:34:52Z
+- Abstract SHA-256: 6c19b869b10f0b4c985b88b032f78e0e72f83e7ca8d9f346417054cd2a9002e3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

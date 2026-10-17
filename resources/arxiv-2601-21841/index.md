@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xiang Li, Ning Yan, Masood Mortazavi
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2601.21841v3
+- First submission: 2026-01-29T15:18:58Z
+- Version updated: 2026-05-17T22:32:46Z
+- Abstract SHA-256: 7bfb69c1569e80d8505e91f2083151076c032f0c27624341655c8aa2189cb411
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

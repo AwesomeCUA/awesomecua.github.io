@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Dominik Seip, Matthias Hein
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2604.08005v2
+- First submission: 2026-04-09T09:08:40Z
+- Version updated: 2026-08-10T12:07:58Z
+- Abstract SHA-256: b97eed6788278e23f3aca57d11357c169d25396e90617ddefbf122b60a92e715
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yichen Gong, Zhuohan Cai, Sunhao Dai, Yuqi Zhou, Zhangxuan Gu, Changhua Meng, Shuheng Shen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.06182v1
+- First submission: 2026-02-06T18:54:42Z
+- Version updated: 2026-02-06T18:54:42Z
+- Abstract SHA-256: 8790de644f655f4e2a27fa300e9e9e07de1071fa5b50bf3e7a0945c9989eacfc
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

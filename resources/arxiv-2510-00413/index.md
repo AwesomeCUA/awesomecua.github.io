@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zikang Liu, Junyi Li, Wayne Xin Zhao, Dawei Gao, Yaliang Li, Ji-rong Wen
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2510.00413v2
+- First submission: 2025-10-01T01:48:39Z
+- Version updated: 2025-10-04T15:23:55Z
+- Abstract SHA-256: 277315ecc1a341c0a511bce84b87190fc0aeeb2306666ea8d4746aa8e9b39984
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

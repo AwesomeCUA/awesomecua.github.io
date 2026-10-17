@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Mordechai Guri, Yosef Solewicz, Andrey Daidakulov, Yuval Elovici
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/1803.03422v2
+- First submission: 2018-03-09T09:01:30Z
+- Version updated: 2018-03-16T10:38:38Z
+- Abstract SHA-256: cb851ac90a57feee2726280d9304d750aaa353d1c905d0922080e0f7927a8aa5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

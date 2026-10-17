@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Nozomu Kobayashi, Yoshiyuki Suimon, Koichi Miyamoto
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2402.17148v2
+- First submission: 2024-02-27T02:29:24Z
+- Version updated: 2026-04-09T00:31:14Z
+- Abstract SHA-256: a8f97eb8c47e32209d5782fe273619e2b6ea68824827cb6e750b7d4ac19418a7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

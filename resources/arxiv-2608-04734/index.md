@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Benedikt Schaible, Anirudh Suresh Bharadwaj, Ulf Schlichtmann, Jiang Hu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.04734v1
+- First submission: 2026-08-05T11:58:02Z
+- Version updated: 2026-08-05T11:58:02Z
+- Abstract SHA-256: 5e3ffc861e86469082ef0c5ccabfc5951249ce09a9deb6ca3ec17cbe8381b41d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

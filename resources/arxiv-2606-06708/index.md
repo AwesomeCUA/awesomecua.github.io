@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shubham Gaur, Ian Lane
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2606.06708v2
+- First submission: 2026-06-04T20:48:37Z
+- Version updated: 2026-08-04T18:57:23Z
+- Abstract SHA-256: a449bb2706d5d18cbd176dcfd2f14d814cf1c1a22a08e9210c99e0722e10ea93
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

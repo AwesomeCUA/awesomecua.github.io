@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Gowen Loo, Chang Liu, Qinghong Yin, Xiang Chen, Jiawei Chen, Jingyuan Zhang, Yu Tian
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2509.03891v1
+- First submission: 2025-09-04T05:22:42Z
+- Version updated: 2025-09-04T05:22:42Z
+- Abstract SHA-256: a8b2db00f62afe350e55e2266b3627de9b0cf089178b0cf80eb13b06275eee15
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

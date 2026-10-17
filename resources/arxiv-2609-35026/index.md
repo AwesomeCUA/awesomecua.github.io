@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Anton Emelyanov, Maria Tikhonova, Zaven Martirosian, Sergei Averkiev, Alena Fenogenova
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.35026v1
+- First submission: 2026-09-28T12:24:23Z
+- Version updated: 2026-09-28T12:24:23Z
+- Abstract SHA-256: d5090c6b7879e38102b1180ee1e4dfd1552af777172e2f94bc0f9a684fb59dc7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

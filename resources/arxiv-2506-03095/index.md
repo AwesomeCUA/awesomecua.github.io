@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Man Luo, David Cobbley, Xin Su, Shachar Rosenman, Vasudev Lal, Shao-Yen Tseng, Phillip Howard
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2506.03095v1
+- First submission: 2025-06-03T17:27:04Z
+- Version updated: 2025-06-03T17:27:04Z
+- Abstract SHA-256: 068eae2cab9899967850f21616a701f3eeb258b9654c83d34f68be266e48854e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Nobumasa Ishida, Yoshihiko Hasegawa
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2512.15472v1
+- First submission: 2025-12-17T14:16:05Z
+- Version updated: 2025-12-17T14:16:05Z
+- Abstract SHA-256: a2ce0ff5029aced93b1fbf1fdad4e1b9068f24f869a4b758e3fe80c67e7bf352
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

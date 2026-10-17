@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Syed Nazmus Sakib, Nafiul Haque, Tapodhir Karmakar Taton, Shahrear Bin Amin, Shifat E. Arman
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2602.05354v3
+- First submission: 2026-02-05T06:24:23Z
+- Version updated: 2026-09-08T14:40:01Z
+- Abstract SHA-256: 76fbeae086fb9ef21f820b02777a2ceb66ee37f8f1c978c7426589ea4e888e49
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

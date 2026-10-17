@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Abigail McClain Gomez, Taylor L. Patti, Anima Anandkumar, Susanne F. Yelin
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2309.05693v1
+- First submission: 2023-09-11T18:00:00Z
+- Version updated: 2023-09-11T18:00:00Z
+- Abstract SHA-256: 429f10be4783831cf87ccc3eb49e7bf8baedddfa16b74029cac6e62c6f88684f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

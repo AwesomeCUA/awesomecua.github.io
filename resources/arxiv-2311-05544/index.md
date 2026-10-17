@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Conor Mc Keever, Michael Lubasch
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2311.05544v3
+- First submission: 2023-11-09T17:45:07Z
+- Version updated: 2024-06-20T15:53:10Z
+- Abstract SHA-256: 85eed520299cd238f99d7927ef552d37c211e5db7f005f3d274f179c1a31f3ed
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

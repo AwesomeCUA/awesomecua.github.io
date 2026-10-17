@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Menno A. Veerman, Robert Pincus, Robin Stoffer, Caspar van Leeuwen, Damian Podareanu, Chiel C. van Heerwaarden
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2005.02265v3
+- First submission: 2020-05-05T15:00:58Z
+- Version updated: 2020-08-16T08:59:30Z
+- Abstract SHA-256: 57e29ef0da84b40450999995e17459c4b73cf0b1f9262650753aa5c524913f11
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

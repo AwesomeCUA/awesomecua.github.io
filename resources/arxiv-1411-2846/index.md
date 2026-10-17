@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ioannis Emiris, Tatjana Kalinka, Christos Konaxis
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1411.2846v1
+- First submission: 2014-11-11T15:13:03Z
+- Version updated: 2014-11-11T15:13:03Z
+- Abstract SHA-256: 3678aa2497f62747d0a27e9b8da1186f9488d88ebf41eeea1232e967105ac4d5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

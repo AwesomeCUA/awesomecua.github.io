@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zheng Wu, Chengcheng Han, Zhengxi Lu, Tianjie Ju, Yanyu Chen, Qi Gu, Xunliang Cai, Zhuosheng Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.28534v1
+- First submission: 2026-05-27T14:29:41Z
+- Version updated: 2026-05-27T14:29:41Z
+- Abstract SHA-256: 78a5f5d7df9a8b6f1dbdb5693849c728a4b97e1f25c6e2e24d0c2418628c64e7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

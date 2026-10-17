@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Grégoire Mialon, Clémentine Fourrier, Craig Swift, Thomas Wolf, Yann LeCun, Thomas Scialom
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2311.12983v1
+- First submission: 2023-11-21T20:34:47Z
+- Version updated: 2023-11-21T20:34:47Z
+- Abstract SHA-256: 29ddf2b7b4d495ee18bbd263cd77f86a71b3014b58a6f140c3bfce7cbae9c922
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

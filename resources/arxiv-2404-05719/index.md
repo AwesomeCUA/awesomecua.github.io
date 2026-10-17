@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Keen You, Haotian Zhang, Eldon Schoop, Floris Weers, Amanda Swearngin, Jeffrey Nichols, Yinfei Yang, Zhe Gan
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2404.05719v1
+- First submission: 2024-04-08T17:55:44Z
+- Version updated: 2024-04-08T17:55:44Z
+- Abstract SHA-256: 67e139ad83ab4804dfdc4c91f3fd344d7d3d279b97efb25bd11bab1532968e46
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

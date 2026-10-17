@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuan Tian, Bing Hu, Hao Wang, Binghang Lu, Fang Wu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.11655v1
+- First submission: 2026-10-08T10:33:29Z
+- Version updated: 2026-10-08T10:33:29Z
+- Abstract SHA-256: 506af2da01ecd6c5ee98613c634a0a5f22b50498ac32422663546a8c181f0f76
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

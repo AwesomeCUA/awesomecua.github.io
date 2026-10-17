@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xueqiao Sun, Xiaohan Wang, Ludwig Schmidt, Serena Yeung-Levy, Yuhui Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.31270v1
+- First submission: 2026-06-30T07:44:37Z
+- Version updated: 2026-06-30T07:44:37Z
+- Abstract SHA-256: 8911abdc0c9c481d82abb213d368c16fba9fee909c354e0bc6272e14c59abfb7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

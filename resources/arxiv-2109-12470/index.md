@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Isiah Zaplana, Hugo Hadfield, Joan Lasenby
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2109.12470v1
+- First submission: 2021-09-26T00:58:42Z
+- Version updated: 2021-09-26T00:58:42Z
+- Abstract SHA-256: fc2c2a63f4d1a21cc32e5ae59412424842a05e4bc16408d17773f2a996b09a58
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Niklas Budinger, Akira Furusawa, Peter van Loock
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2211.09060v2
+- First submission: 2022-11-16T17:21:30Z
+- Version updated: 2024-07-13T21:17:37Z
+- Abstract SHA-256: c1808982568795d288e32bb3911cb685b6bd55a123df86d08c146f19c6a3c6ae
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

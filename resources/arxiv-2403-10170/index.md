@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Andrés Muñoz, Daniel Borrajo
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2403.10170v2
+- First submission: 2024-03-15T10:26:52Z
+- Version updated: 2024-08-27T18:36:12Z
+- Abstract SHA-256: aacb4d2cac31e478aa56ee25b6b39e5ba8fe164f89102e665f8fb25cf3822e7b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Erik Saule, Erdeniz Ö. Baş, Ümit V. Çatalyürek
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1104.2566v1
+- First submission: 2011-04-13T18:08:57Z
+- Version updated: 2011-04-13T18:08:57Z
+- Abstract SHA-256: 4578d3c3b0b0e18f07245b1febad33a52a55c96b501fdea1d65e3137213c78b0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

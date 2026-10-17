@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Beining Wu, Zihao Ding, Jun Huang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.01787v1
+- First submission: 2026-10-01T14:34:32Z
+- Version updated: 2026-10-01T14:34:32Z
+- Abstract SHA-256: 7e85a601c31c6d06831ed1c590deef29d1c365e5d4751a308e42e8496ef11b19
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

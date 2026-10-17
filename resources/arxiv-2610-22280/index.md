@@ -20,6 +20,15 @@ Editorial summary based on the primary paper abstract; experiments and released 
 
 Qingni Wang, Changdae Oh, Yuzhe Yang, Sharon Li, Jiachen Yang, Ang Li, Xin Eric Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.22280v1
+- First submission: 2026-10-15T17:40:12Z
+- Version updated: 2026-10-15T17:40:12Z
+- Abstract SHA-256: 6a249a56a61ebb14b456500f9b245efe7b72997af5d5f515e5cc7707fe68b018
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Karthikeyan Lingasubramanian, Syed M. Alam, Sanjukta Bhanja
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/0906.3282v3
+- First submission: 2009-06-17T19:23:28Z
+- Version updated: 2009-10-27T13:57:19Z
+- Abstract SHA-256: 869f06d18cfbc038ec2d30c9575570966ea82a154caa8be3c7e724802f444c82
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

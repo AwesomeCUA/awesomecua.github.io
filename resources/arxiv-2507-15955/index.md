@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Frederik K. Marqversen, Andreas B. Michelsen, Janus H. Wesenberg, Nikolaj T. Zinner
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2507.15955v1
+- First submission: 2025-07-21T18:00:10Z
+- Version updated: 2025-07-21T18:00:10Z
+- Abstract SHA-256: d957e23a415bb80134823827943ad2805c71edb60d75105abcdd2946620db77d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Summary and topic tags reviewed against the primary abstract. Reported experimen
 
 Jing Yu Koh, Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huang, Graham Neubig, Shuyan Zhou, Ruslan Salakhutdinov, Daniel Fried
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2401.13649v2
+- First submission: 2024-01-24T18:35:21Z
+- Version updated: 2024-06-06T02:01:09Z
+- Abstract SHA-256: 3a705b87b43464120ebb01b28b0f6a9e31fad68f3d463c88354f2005dab940c3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

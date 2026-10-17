@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Filippo Iulianelli, Sung Kim, Joshua Sussan, Aaron D. Lauda
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2410.14860v2
+- First submission: 2024-10-18T21:03:07Z
+- Version updated: 2025-04-26T18:57:08Z
+- Abstract SHA-256: 954b0b115dca3a02c90a4c08fd5b6b8a21960ba4ee138839840baba95ff63d3f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

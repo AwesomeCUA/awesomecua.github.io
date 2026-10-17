@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Mohamed Aghzal, Gregory J. Stein, Ziyu Yao
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2603.14248v2
+- First submission: 2026-03-15T06:52:06Z
+- Version updated: 2026-04-27T17:57:15Z
+- Abstract SHA-256: 71bd0cbadafc5171fe0f46ba74f9764d29fba590f0d24d49a6f9eb6ca5be1cf4
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

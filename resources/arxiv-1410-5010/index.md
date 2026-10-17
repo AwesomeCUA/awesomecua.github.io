@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Holger Stengel, Jan Treibig, Georg Hager, Gerhard Wellein
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/1410.5010v2
+- First submission: 2014-10-18T21:49:45Z
+- Version updated: 2015-01-17T14:07:26Z
+- Abstract SHA-256: d97dbc4cfc7f3ac67ae1a8957f3c6bcaa79971f2bc19ae3342d8a8bee60b4485
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

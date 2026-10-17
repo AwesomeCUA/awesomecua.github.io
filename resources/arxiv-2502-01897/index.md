@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Bryce Fuller, Minh C. Tran, Danylo Lykov, Caleb Johnson, Max Rossmannek, Ken Xuan Wei, Andre He, Youngseok Kim, DinhDuy Vu, Kunal Sharma, Yuri Alexeev, Abhinav Kandala, Antonio Mezzacapo
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2502.01897v1
+- First submission: 2025-02-04T00:03:07Z
+- Version updated: 2025-02-04T00:03:07Z
+- Abstract SHA-256: 70a72cce49fbcc41f7ca63f81b17cce2e578412889278831a2476ffa04c6c393
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

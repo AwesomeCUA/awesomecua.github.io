@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Simon Yu, Gang Li, Weiyan Shi, Peng Qi
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2510.15863v2
+- First submission: 2025-10-17T17:56:00Z
+- Version updated: 2026-03-02T03:34:00Z
+- Abstract SHA-256: 864f797fd3d3ea317ca29d225d67db3ea635f840afdb30639b4bd0368bc5ac17
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

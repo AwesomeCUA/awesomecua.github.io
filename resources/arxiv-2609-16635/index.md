@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yao Zhao, Aditya Shanmugham, Swastik Roy, Yanxun Xu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.16635v1
+- First submission: 2026-09-15T04:56:17Z
+- Version updated: 2026-09-15T04:56:17Z
+- Abstract SHA-256: e8dcd34beebb8a4660d8d7b9f4c76c3f86069926b9856d26b1c20d87dec83bb5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

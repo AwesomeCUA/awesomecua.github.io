@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Brandon Huang, Hang Hua, Zhuoran Yu, Trevor Darrell, Rogerio Feris, Roei Herzig
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2512.17221v3
+- First submission: 2025-12-19T04:09:24Z
+- Version updated: 2025-12-31T17:30:11Z
+- Abstract SHA-256: 37cd0aa99ed8bad167e25f6e2b48e7cd1cf01249508555f657215213ee94a301
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

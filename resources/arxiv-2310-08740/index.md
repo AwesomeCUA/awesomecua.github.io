@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Tao Li, Gang Li, Zhiwei Deng, Bryan Wang, Yang Li
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2310.08740v3
+- First submission: 2023-10-12T21:53:37Z
+- Version updated: 2023-10-23T17:39:51Z
+- Abstract SHA-256: 95092986184a232af62c61fa2aedefb837851dce9e0ff7a1128a67d47edfde40
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Deyang Jiang, Jing Huang, Xuanle Zhao, Lei Chen, Liming Zheng, Fanfan Liu, Haibo Qiu, Peng Shi, Zhixiong Zeng
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2602.09662v1
+- First submission: 2026-02-10T11:16:57Z
+- Version updated: 2026-02-10T11:16:57Z
+- Abstract SHA-256: b5080050b85e38c8c03078c96c206e92d4ed63d106d55983563d51fcbc9f66c5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

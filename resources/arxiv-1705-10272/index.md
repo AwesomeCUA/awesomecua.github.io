@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xinru Yan, Ted Pedersen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1705.10272v1
+- First submission: 2017-05-29T16:20:21Z
+- Version updated: 2017-05-29T16:20:21Z
+- Abstract SHA-256: 241ae1f89d67ac5f46ddb591ad8225f943afffc8aa4a56e68988b471c2778a7f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

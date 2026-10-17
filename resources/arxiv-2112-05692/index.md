@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yang Li, Gang Li, Xin Zhou, Mostafa Dehghani, Alexey Gritsenko
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2112.05692v1
+- First submission: 2021-12-10T17:37:26Z
+- Version updated: 2021-12-10T17:37:26Z
+- Abstract SHA-256: 6e88e6e2659df232174d9fc71a2fac61a021941f096355f8ea3cd4c618c223d3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

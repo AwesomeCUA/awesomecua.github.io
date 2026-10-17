@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Soleh Kh. Muminov, Evgeniy O. Kiktenko, Anastasiia S. Nikolaeva, Denis A. Drozhzhin, Sergey I. Matveenko, Aleksey K. Fedorov, Georgy V. Shlyapnikov
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2508.10850v3
+- First submission: 2025-08-14T17:20:10Z
+- Version updated: 2026-04-20T19:54:26Z
+- Abstract SHA-256: 11a115234d860a84b7c36fa7035e7ff51f93318e4d52c7c8ce7ca7b344ff6ec5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

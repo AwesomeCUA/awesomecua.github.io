@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shijie Zhou, Viet Dac Lai, Hao Tan, Jihyung Kil, Wanrong Zhu, Changyou Chen, Ruiyi Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2511.00810v4
+- First submission: 2025-11-02T05:34:21Z
+- Version updated: 2026-06-30T10:43:39Z
+- Abstract SHA-256: c2224c58c8fbac7a68f3757391f5e6a4f62c32fa42aae86bf9821c0755b402b1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

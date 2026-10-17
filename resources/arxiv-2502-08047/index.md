@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Henry Hengyuan Zhao, Kaiming Yang, Wendi Yu, Difei Gao, Mike Zheng Shou
 
+## Recorded arXiv snapshot
+
+- Version: 5
+- Version source: https://arxiv.org/abs/2502.08047v5
+- First submission: 2025-02-12T01:06:10Z
+- Version updated: 2026-05-23T20:19:43Z
+- Abstract SHA-256: 68e6ecfcdff0163debe96f6440fb33529356bf9fd2c8743b5953ae52ae71c9ef
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

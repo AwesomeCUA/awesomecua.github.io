@@ -20,6 +20,15 @@ Summary and topic tags reviewed against the primary abstract. Reported experimen
 
 Quanfeng Lu, Wenqi Shao, Zitao Liu, Lingxiao Du, Fanqing Meng, Boxuan Li, Botong Chen, Siyuan Huang, Kaipeng Zhang, Ping Luo
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2406.08451v2
+- First submission: 2024-06-12T17:44:26Z
+- Version updated: 2025-08-01T03:37:57Z
+- Abstract SHA-256: 8b45039151353cc0fede71e2e9ba109ec53d0c1f495037a82d8fb742c9e97bbb
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

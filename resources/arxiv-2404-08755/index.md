@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Nicolai Dorka, Janusz Marecki, Ammar Anwar
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2404.08755v1
+- First submission: 2024-04-12T18:28:44Z
+- Version updated: 2024-04-12T18:28:44Z
+- Abstract SHA-256: a2f255b2c2870d9fbe5a543f2a0e09a30c3154fa0c13e9f46eedcefc11d2be43
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jiazhen Jiang, Boxi Cao, Lingyong Yan, Yaojie Lu, Hongyu Lin, Shuaiqiang Wang, Dawei Yin, Xianpei Han, Le Sun
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2607.19865v1
+- First submission: 2026-07-22T07:52:59Z
+- Version updated: 2026-07-22T07:52:59Z
+- Abstract SHA-256: 83e4346ec3a6b7e2de767fd4bb18df73288172d8eac4b9504684223dd45b2e3b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

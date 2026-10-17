@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ruilin Yao, Shegnwu Xiong, Tianyu Zou, Shili Xiong, Yi Rong
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.02630v1
+- First submission: 2026-05-04T14:18:46Z
+- Version updated: 2026-05-04T14:18:46Z
+- Abstract SHA-256: 2dc8c2f5a5a97bc372a1bf5ab3fe0537e53a681f808d45877f55cdef6556858c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

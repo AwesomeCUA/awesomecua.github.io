@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Laszlo B. Kish, Sunil Khatri, Tamas Horvath
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/1005.1560v3
+- First submission: 2010-05-10T14:24:33Z
+- Version updated: 2010-11-11T23:22:02Z
+- Abstract SHA-256: c54ef95b46663c787d27e991c3c1b106ab690dae5842af23be6412d3614d4fba
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

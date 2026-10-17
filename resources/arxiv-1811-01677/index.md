@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 David Diego, Kristian Agasøster Haaga, Bjarte Hannisdal
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/1811.01677v2
+- First submission: 2018-11-05T13:40:47Z
+- Version updated: 2019-04-02T16:25:17Z
+- Abstract SHA-256: 22296e71f90e80313a34388538d7db35e8a7ba1a438afcf7357dbf303b7a8f0c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

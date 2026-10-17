@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zirui Zhao, Jun Hao Liew, Yan Yang, Wenzhuo Yang, Ziyang Luo, Doyen Sahoo, Silvio Savarese, Junnan Li
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2604.01676v2
+- First submission: 2026-04-02T06:27:52Z
+- Version updated: 2026-04-04T01:55:00Z
+- Abstract SHA-256: 47e2cb6818c8e26889da590d26073ccc84474bb2e3391f9b184e5d7f8a31ef1d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

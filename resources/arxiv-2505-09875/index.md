@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shuning Zhang, Jingruo Chen, Zhiqi Gao, Jiajing Gao, Xin Yi, Hewu Li
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2505.09875v2
+- First submission: 2025-05-15T00:42:51Z
+- Version updated: 2025-05-16T07:01:20Z
+- Abstract SHA-256: 63f4a505645fec16eac6b59923a6c1979c53376f19c6a4ea53c9a5d32a45e3d4
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

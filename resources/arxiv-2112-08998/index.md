@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Moein Owhadi-Kareshk, Pierre Boulanger
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2112.08998v1
+- First submission: 2021-12-16T16:30:23Z
+- Version updated: 2021-12-16T16:30:23Z
+- Abstract SHA-256: b51674fae971f4d30255e6167143d2793c6e0270914f79ce7b46634623eaedb0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

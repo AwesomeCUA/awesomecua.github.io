@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Pranjal Aggarwal, Sean Welleck
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2502.18525v2
+- First submission: 2025-02-24T18:41:33Z
+- Version updated: 2025-10-03T02:09:59Z
+- Abstract SHA-256: 9e4091fc740249b6406dd9e96f2692d7fac9323759ec6fad6ba5a05f3e445844
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

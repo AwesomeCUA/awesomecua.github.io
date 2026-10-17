@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuke Li, Xuehan Hou
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.09654v1
+- First submission: 2026-08-10T14:29:07Z
+- Version updated: 2026-08-10T14:29:07Z
+- Abstract SHA-256: f05f128cccb514987b7defb52c8f43b45d917e0e0f9570db4e75c4fe23b38533
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

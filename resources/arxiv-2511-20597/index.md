@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kaiyuan Zhang, Mark Tenenholtz, Kyle Polley, Jerry Ma, Denis Yarats, Ninghui Li
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2511.20597v2
+- First submission: 2025-11-25T18:28:35Z
+- Version updated: 2026-08-12T00:08:22Z
+- Abstract SHA-256: 9ffa50cf03aa91fb1ac2be0588b116c5ae28eb71485d468aceaa0c9b65750339
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

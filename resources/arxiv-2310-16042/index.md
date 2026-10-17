@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Heyi Tao, Sethuraman T, Michal Shlapentokh-Rothman, Derek Hoiem
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2310.16042v2
+- First submission: 2023-10-24T17:57:03Z
+- Version updated: 2023-10-25T03:54:11Z
+- Abstract SHA-256: 7defced3e3beb77a5a6513dbfdff3f102edd922907b523bd062522e54720fa5e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

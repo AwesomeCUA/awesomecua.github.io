@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Corban Villa, Alp Eren Ozdarendeli, Sijun Tan, Raluca Ada Popa
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2607.08147v1
+- First submission: 2026-07-09T06:37:52Z
+- Version updated: 2026-07-09T06:37:52Z
+- Abstract SHA-256: f2e44014824a9bf9590885c227482da71a305f461de88b5b6ff6adb01ad42d7f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Tongzhou Wu, Yuhao Wang, Xinyu Ma, Xiuqiang He, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2603.01152v2
+- First submission: 2026-03-01T15:36:10Z
+- Version updated: 2026-06-20T09:26:23Z
+- Abstract SHA-256: 7fd295b5dfc35315af8fec5f900b06952bb762e04738453fd8c33fa96a01c956
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

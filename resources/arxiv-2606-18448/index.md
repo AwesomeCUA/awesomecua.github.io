@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ziyan Jiang, Li An, Yujian Liu, Jiabao Ji, Qiucheng Wu, Jacob Andreas, Yang Zhang, Shiyu Chang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.18448v1
+- First submission: 2026-06-16T19:57:07Z
+- Version updated: 2026-06-16T19:57:07Z
+- Abstract SHA-256: 2605cedb4359aa0cf1e694455903871ed334dd37b7b8e15edf31bac9d5e51b13
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

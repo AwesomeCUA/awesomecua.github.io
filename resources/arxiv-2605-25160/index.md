@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Guohong Liu, Jialei Ye, Pengzhi Gao, Wei Liu, Jian Luan, Yunxin Liu, Yuanchun Li
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2605.25160v2
+- First submission: 2026-05-24T16:33:14Z
+- Version updated: 2026-06-18T02:24:07Z
+- Abstract SHA-256: eb40c8bf005d56139d263e1b5dc4553ddcd68522124686b7f0865e6d8d1725ad
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

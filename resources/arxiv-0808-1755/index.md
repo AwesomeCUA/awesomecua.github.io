@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Oscar A. Bedoya
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/0808.1755v1
+- First submission: 2008-08-12T23:22:42Z
+- Version updated: 2008-08-12T23:22:42Z
+- Abstract SHA-256: e83013e816eeaf295fed06c75182b06c1aec274469568d4670e8b4cffe4af000
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

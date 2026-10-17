@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yan Zhang, Daiqing Wu, Huawen Shen, Liang Li, Gang Cao, Zhi Gong, Wei Dai, Xiaode Zhang, Can Ma, Yu Zhou
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.27307v1
+- First submission: 2026-09-23T03:38:11Z
+- Version updated: 2026-09-23T03:38:11Z
+- Abstract SHA-256: 0ae6c83c017a05c2916f31e388f6584cc2cab7b87e1eb0038c33a707bbd66e24
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Luis Maßny, Antonia Wachter-Zeh
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2212.04288v2
+- First submission: 2022-12-08T14:30:59Z
+- Version updated: 2022-12-22T16:13:33Z
+- Abstract SHA-256: 0e9e9c926dfe176758a299ff28a578c054cef1fb48ee99e4a07bf61a0f8b6f20
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Shengtian Yang, Ziyu Xiong, Kaibing Yang, Guangfeng Cai, Yewen Li, Peng Jiang, Gai Kun, Qingpeng Cai, Lei Feng
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.36939v1
+- First submission: 2026-09-29T07:51:57Z
+- Version updated: 2026-09-29T07:51:57Z
+- Abstract SHA-256: d45cee8117e302aa190d38c8298bf479936a5a27aa9b85716a76a2a90499069c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Mordechai Guri, Matan Monitz, Yisroel Mirski, Yuval Elovici
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1503.07919v1
+- First submission: 2015-03-26T22:14:07Z
+- Version updated: 2015-03-26T22:14:07Z
+- Abstract SHA-256: 6ccfb8fc7fe1a6b4e5ca9d5ee7c5fcad3c79cab98f40572f7deaa07fcbdfe257
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

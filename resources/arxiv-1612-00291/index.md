@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Davide Falanga, Elias Mueggler, Matthias Faessler, Davide Scaramuzza
 
+## Recorded arXiv snapshot
+
+- Version: 6
+- Version source: https://arxiv.org/abs/1612.00291v6
+- First submission: 2016-12-01T15:03:07Z
+- Version updated: 2018-04-05T14:40:20Z
+- Abstract SHA-256: 489803f9aee3b5f1eacc3cd8ced93c5bc0f7237769411d7c949a4844c796a28e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

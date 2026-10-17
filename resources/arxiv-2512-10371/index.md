@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shizuo Tian, Hao Wen, Yuxuan Chen, Jiacheng Liu, Shanhui Zhao, Guohong Liu, Ju Ren, Yunxin Liu, Yuanchun Li
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2512.10371v2
+- First submission: 2025-12-11T07:37:38Z
+- Version updated: 2026-05-08T09:40:02Z
+- Abstract SHA-256: 72b2db237a52ae31eaba58183a2777e79379aa8e849d18de5d8633daf27ccbf9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

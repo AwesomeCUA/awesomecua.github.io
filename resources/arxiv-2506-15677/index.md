@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yining Hong, Rui Sun, Bingxuan Li, Xingcheng Yao, Maxine Wu, Alexander Chien, Da Yin, Ying Nian Wu, Zhecan James Wang, Kai-Wei Chang
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2506.15677v3
+- First submission: 2025-06-18T17:58:17Z
+- Version updated: 2025-07-29T22:40:49Z
+- Abstract SHA-256: 3e8f714b234a1aad60d0306df23c90410aebfd257fb5906644d0382479e8f3d0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

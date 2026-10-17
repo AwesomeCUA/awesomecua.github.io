@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Hongbin Zhong, Fazle Faisal, Luis França, Tanakorn Leesatapornwongsa, Adriana Szekeres, Kexin Rong, Suman Nath
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2602.20502v2
+- First submission: 2026-02-24T03:03:18Z
+- Version updated: 2026-09-28T17:40:20Z
+- Abstract SHA-256: e179c833d43a88098d576e31e726eb3e4289f728659697364d0b448282df3fc1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

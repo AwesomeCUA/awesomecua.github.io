@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Hang Wu, Hongkai Chen, Yujun Cai, Chang Liu, Qingwen Ye, Ming-Hsuan Yang, Yiwei Wang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2507.00008v2
+- First submission: 2025-06-12T03:13:21Z
+- Version updated: 2025-09-05T17:21:02Z
+- Abstract SHA-256: e423834b07e74155214597c0fbb66c26b949e2b726568a65617a670a9ab157fa
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

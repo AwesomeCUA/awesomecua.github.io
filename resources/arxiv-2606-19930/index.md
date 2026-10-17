@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Guangyi Liu, Pengxiang Zhao, Gao Wu, Yiwen Yin, Mading Li, Liang Liu, Congxiao Liu, Zhang Qi, Mengyan Wang, Liang Guo, Jiangning Zhang, Yong Liu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2606.19930v2
+- First submission: 2026-06-18T08:29:33Z
+- Version updated: 2026-08-07T03:54:59Z
+- Abstract SHA-256: cab809618ea4e218da26b4ae11bf937859c3a4bc240c91dd27b3a0d333737069
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

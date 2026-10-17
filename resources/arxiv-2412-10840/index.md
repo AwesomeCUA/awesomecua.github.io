@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Hai-Ming Xu, Qi Chen, Lei Wang, Lingqiao Liu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2412.10840v1
+- First submission: 2024-12-14T14:30:05Z
+- Version updated: 2024-12-14T14:30:05Z
+- Abstract SHA-256: b6e0aefcd3eca9e37d25a2c5195c0d502caec9be83b8f6b4b7ee5778bff9e150
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

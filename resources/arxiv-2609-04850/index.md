@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Weide Zhan, Qumu Shaqu, Yuanqing Liu, Peng Zhang, Jiahao Liu, Kam Him Lam, Ning Gu, Zhan Hu, Tun Lu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.04850v1
+- First submission: 2026-09-04T08:09:47Z
+- Version updated: 2026-09-04T08:09:47Z
+- Abstract SHA-256: 61587798aefd8e9592ddaef756a13e02f0e4a987e4068ef582d0aaf66e8eb680
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

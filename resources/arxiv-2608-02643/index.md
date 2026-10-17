@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Weijia Zhang, Kunlun Zhu, Zeyi Liu, Yinting Chen, Tianyi Ma, Jiateng Liu, Jiaxun Zhang, Bingxuan Li, Xiangru Tang, Heng Ji, Jiaxuan You
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2608.02643v2
+- First submission: 2026-07-31T13:59:45Z
+- Version updated: 2026-09-06T04:43:23Z
+- Abstract SHA-256: a11e065bef4cf860c36ca2f682801ca21b552fbd40bd1b6f5d9ae39b56e7d77a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

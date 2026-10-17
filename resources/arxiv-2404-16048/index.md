@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Rajat Chawla, Adarsh Jha, Muskaan Kumar, Mukunda NS, Ishaan Bhola
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2404.16048v2
+- First submission: 2024-04-09T11:59:41Z
+- Version updated: 2024-10-27T05:54:50Z
+- Abstract SHA-256: e29d14a41d59942c88938b8e83217484a1cb619847c5dff0ec1f516095ee5654
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

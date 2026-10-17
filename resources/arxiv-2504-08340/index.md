@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 João Paulo C. de Lima, Mehran Shoushtari Moghadam, Sercan Aygun, Jeronimo Castrillon, M. Hassan Najafi, Asif Ali Khan
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2504.08340v1
+- First submission: 2025-04-11T08:11:20Z
+- Version updated: 2025-04-11T08:11:20Z
+- Abstract SHA-256: aacb95c6a791446c780b002a63c77ef4a3c6337e12523cfcb257fe10255c89d1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

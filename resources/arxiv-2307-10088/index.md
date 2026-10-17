@@ -20,6 +20,15 @@ Annotation reviewed against the primary abstract. Original dataset scale and exp
 
 Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2307.10088v2
+- First submission: 2023-07-19T15:57:24Z
+- Version updated: 2023-10-27T14:24:31Z
+- Abstract SHA-256: def4616f7cb13fe839e500c4b3171eafbe37b155b5d14301137806d6a5cde939
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

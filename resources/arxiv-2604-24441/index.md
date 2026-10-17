@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Hongxin Li, Xiping Wang, Jingran Su, Zheng Ju, Yuntao Chen, Qing Li, Zhaoxiang Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.24441v1
+- First submission: 2026-04-27T13:06:27Z
+- Version updated: 2026-04-27T13:06:27Z
+- Abstract SHA-256: 65325912365effe8adbc39301a378d7526c60d1185691f3a89cb8acd4aa53c3f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

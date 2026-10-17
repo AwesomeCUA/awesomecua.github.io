@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Junxian Li, Tu Lan, Haozhen Tan, Yan Meng, Haojin Zhu
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2603.08316v3
+- First submission: 2026-03-09T12:38:28Z
+- Version updated: 2026-07-01T07:09:02Z
+- Abstract SHA-256: c051a0cf72638e060636630f1778d452cc7625b746f6ce81265e093110c7931c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

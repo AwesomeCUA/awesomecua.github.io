@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yingkai Ouyang, Yumang Jing, Gavin K. Brennen
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2411.13142v4
+- First submission: 2024-11-20T09:16:07Z
+- Version updated: 2025-09-16T01:31:02Z
+- Abstract SHA-256: 9bd104cedc3a3cd1d5f786fed5e7f6fefe2f21530cef3355e9d1c0c337e64b1f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

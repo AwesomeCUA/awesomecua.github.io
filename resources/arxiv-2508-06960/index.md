@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Keyu Li, Mohan Jiang, Dayuan Fu, Yunze Wu, Xiangkun Hu, Dequan Wang, Pengfei Liu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2508.06960v1
+- First submission: 2025-08-09T12:15:08Z
+- Version updated: 2025-08-09T12:15:08Z
+- Abstract SHA-256: 5e471175e25a5f0b6f4d3643a215dd43702c0defa996fc41a75bc50581c33730
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

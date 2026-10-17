@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Aiden Yiliu Li, Bizhi Yu, Daoan Lei, Tianhe Ren, Shilong Liu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2512.01979v1
+- First submission: 2025-12-01T18:37:19Z
+- Version updated: 2025-12-01T18:37:19Z
+- Abstract SHA-256: 4868c3c85545532e9c208623596d3810c85e32e3cf11429a68847ac11c2ba1cb
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Hailin Liu, Eugene Ilyushin, Jie Ni, Min Zhu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.17562v1
+- First submission: 2026-04-19T18:02:21Z
+- Version updated: 2026-04-19T18:02:21Z
+- Abstract SHA-256: 279b5bf3affad907645fa2fb34a0017f92ce15a2c7cab5e215013b5f3717097c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

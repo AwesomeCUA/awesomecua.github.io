@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sunqi Fan, Lingshan Chen, Runqi Yin, Qingle Liu, Yongming Rao, Meng-Hao Guo, Shi-Min Hu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.29705v1
+- First submission: 2026-06-29T02:16:21Z
+- Version updated: 2026-06-29T02:16:21Z
+- Abstract SHA-256: 7beb70ac91463b77a8babaf2b077c46c5072e8f86d22f4d9afc9c1e77680f309
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

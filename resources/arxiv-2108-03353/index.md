@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Bryan Wang, Gang Li, Xin Zhou, Zhourong Chen, Tovi Grossman, Yang Li
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2108.03353v1
+- First submission: 2021-08-07T03:01:23Z
+- Version updated: 2021-08-07T03:01:23Z
+- Abstract SHA-256: 9cf8d8521e643e1a888e706dff4e5106f178061d9af4ed2c2ba5ae42f194785a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

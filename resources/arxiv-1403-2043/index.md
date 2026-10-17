@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ruhi Gupta
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1403.2043v1
+- First submission: 2014-03-09T09:59:32Z
+- Version updated: 2014-03-09T09:59:32Z
+- Abstract SHA-256: a5a27335ed40dd9f02e9a0a4bc3f0e0913a4f2add521448367871aca00e5e727
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

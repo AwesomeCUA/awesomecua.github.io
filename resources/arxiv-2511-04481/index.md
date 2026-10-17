@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Lars Krupp, Daniel Geißler, Vishal Banwari, Paul Lukowicz, Jakob Karolus
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2511.04481v1
+- First submission: 2025-11-06T15:59:59Z
+- Version updated: 2025-11-06T15:59:59Z
+- Abstract SHA-256: 015d30321b5dad38ce010402c7df8dfcd9aea3dd1c8859ef24696f5eb3f4437f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yao Zhang, Zijian Ma, Yunpu Ma, Zhen Han, Yu Wu, Volker Tresp
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2408.15978v1
+- First submission: 2024-08-28T17:49:29Z
+- Version updated: 2024-08-28T17:49:29Z
+- Abstract SHA-256: 9e3a34f16101df7a96ffdabbdf86b060e195494f16499f20bdf54110a0394cae
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

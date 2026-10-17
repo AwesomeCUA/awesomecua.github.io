@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Haowei Wang, Junjie Wang, Xiaojun Jia, Rupeng Zhang, Mingyang Li, Zhe Liu, Yang Liu, Qing Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2505.21499v1
+- First submission: 2025-05-27T17:59:05Z
+- Version updated: 2025-05-27T17:59:05Z
+- Abstract SHA-256: f8aade17e67471c87f259d49aef43b3caf764b6ac14f99e1a4114f4a25dda3d6
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ioan Baldea, Horst Koppel
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1006.4865v1
+- First submission: 2010-06-24T19:42:39Z
+- Version updated: 2010-06-24T19:42:39Z
+- Abstract SHA-256: 5a54bfbc37bd5d7332b6167175f671496fc33ab1e074ba394b81233d6d7ffb9f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

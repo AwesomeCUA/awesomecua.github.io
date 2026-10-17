@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sandeep Kumar Patel, Avtar Singh
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2201.09242v1
+- First submission: 2022-01-23T12:20:21Z
+- Version updated: 2022-01-23T12:20:21Z
+- Abstract SHA-256: 5180b6e42f65d68297a82fab7ac68cb52f2598b8699d12228f24339166102157
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

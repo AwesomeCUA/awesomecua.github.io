@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Chengbo Liu, Lifang Zhou, Ruijie Yan, Pei Tan, Ao Sun, Haojun Huang, Guichun Hua, Sining Wei, Yining Chen, Yingying He, Yutao Xie
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.00335v1
+- First submission: 2026-07-31T22:57:16Z
+- Version updated: 2026-07-31T22:57:16Z
+- Abstract SHA-256: 1736defb4099677df47f882e02b6aad4066f8efa3065d76a1b2fb0f424d2fa19
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

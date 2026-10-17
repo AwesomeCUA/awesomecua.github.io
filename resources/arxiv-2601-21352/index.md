@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ziyu Lu, Tengjin Weng, Yiying Yang, Yuhang Zhao, Xinxin Huang, Wenhao Jiang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2601.21352v1
+- First submission: 2026-01-29T07:22:50Z
+- Version updated: 2026-01-29T07:22:50Z
+- Abstract SHA-256: fa36a9fbd0b189717b2a5311f06b6127d54f2eca09961cedd2a0b9d2a78b1b8b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

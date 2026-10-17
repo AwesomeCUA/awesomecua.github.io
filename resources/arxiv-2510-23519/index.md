@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Scott Jones, Prakash Murali
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2510.23519v3
+- First submission: 2025-10-27T16:58:00Z
+- Version updated: 2026-04-30T21:36:04Z
+- Abstract SHA-256: f64e5bdf959da65ed0d2f90a8bbb2e600f7cddd9122ee468137108c00722bb0d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

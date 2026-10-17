@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Peilin Du
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2503.14988v2
+- First submission: 2025-03-19T08:35:50Z
+- Version updated: 2025-03-26T07:37:36Z
+- Abstract SHA-256: de1856aee74404093478e7f2b0b5dd75ee7a67914d5775cc00d6dcb598702978
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

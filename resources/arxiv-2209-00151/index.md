@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Hudson Leone, S Srikara, Peter P. Rohde, Simon Devitt
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2209.00151v2
+- First submission: 2022-08-31T23:14:45Z
+- Version updated: 2024-02-15T05:57:40Z
+- Abstract SHA-256: aad3ddeba4cb300a117039b7680446651fee79257c5d4f2358373edfe6b12972
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

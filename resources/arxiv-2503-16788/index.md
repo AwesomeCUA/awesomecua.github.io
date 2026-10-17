@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Li Zhang, Longxi Gao, Mengwei Xu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2503.16788v1
+- First submission: 2025-03-21T01:52:43Z
+- Version updated: 2025-03-21T01:52:43Z
+- Abstract SHA-256: e450216f8f802d8f3d16c5886097cef801d051951af0c57fdf195cc176ac744f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

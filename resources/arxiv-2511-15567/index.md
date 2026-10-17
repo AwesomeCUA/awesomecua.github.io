@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kevin Qinghong Lin, Siyuan Hu, Linjie Li, Zhengyuan Yang, Lijuan Wang, Philip Torr, Mike Zheng Shou
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2511.15567v1
+- First submission: 2025-11-19T16:00:02Z
+- Version updated: 2025-11-19T16:00:02Z
+- Abstract SHA-256: 7d63831bc0ff00979615415ce94abc140b646a4375cb33b950c4a7ccf00bf166
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

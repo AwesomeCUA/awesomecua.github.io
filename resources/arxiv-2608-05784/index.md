@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Nossa Iyamu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.05784v1
+- First submission: 2026-08-06T09:17:43Z
+- Version updated: 2026-08-06T09:17:43Z
+- Abstract SHA-256: e5a48c8436a16957f1bda4f45cd412af32a39d075774a2d28cb8fb98d418664d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Fanbin Lu, Zhisheng Zhong, Ziqin Wei, Shu Liu, Chi-Wing Fu, Jiaya Jia
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2503.12532v2
+- First submission: 2025-03-16T14:53:43Z
+- Version updated: 2025-03-24T16:33:28Z
+- Abstract SHA-256: e883289bafee01759a0f4f3f7051cbbebdcd8059e7520d68c25ba313b8da69a6
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

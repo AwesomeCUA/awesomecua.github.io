@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Pengshuai Yang, Zijing Gao, Xue Yu, Benhui Zhuang, Bo Yuan, Junlan Feng
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.20797v1
+- First submission: 2026-08-21T07:16:36Z
+- Version updated: 2026-08-21T07:16:36Z
+- Abstract SHA-256: 28c1d4284da8ba18bf3d40a0402a9ec4d6b85cdb381e4ce9da3ae675c1cc741f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

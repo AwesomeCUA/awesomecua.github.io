@@ -20,6 +20,15 @@ Editorial summary based on the primary paper abstract; experiments and released 
 
 Saaket Agashe, Jiuzhou Han, Shuyu Gan, Jiachen Yang, Ang Li, Xin Eric Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2410.08164v1
+- First submission: 2024-10-10T17:43:51Z
+- Version updated: 2024-10-10T17:43:51Z
+- Abstract SHA-256: 284888d16b049767f76448f23f5d35fda25b109fd67f450105950173ae81c97b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

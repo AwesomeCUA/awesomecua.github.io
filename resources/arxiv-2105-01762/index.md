@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shlomi Dolev, Arseni Kalma
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2105.01762v1
+- First submission: 2021-05-04T21:03:06Z
+- Version updated: 2021-05-04T21:03:06Z
+- Abstract SHA-256: bf9873a3d61a09e4a5210d6ae26f80d24784b2e3ed6a476074fd74430fb464ca
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

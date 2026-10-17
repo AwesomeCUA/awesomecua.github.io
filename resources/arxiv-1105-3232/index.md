@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sokol Kosta, Andrius Aucinas, Pan Hui, Richard Mortier, Xinwen Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1105.3232v1
+- First submission: 2011-05-16T21:45:54Z
+- Version updated: 2011-05-16T21:45:54Z
+- Abstract SHA-256: a210e90f8a91f7c984bba4ec082b7b1c50431630dd67110c2e1e81acd5910722
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

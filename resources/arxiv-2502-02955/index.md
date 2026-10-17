@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Qinzhuo Wu, Wei Liu, Jian Luan, Bin Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2502.02955v1
+- First submission: 2025-02-05T07:35:23Z
+- Version updated: 2025-02-05T07:35:23Z
+- Abstract SHA-256: d3e0b19f259bcdb57b0dea92578d0ee1c7c229ea11e622c56e808f17ca2568cc
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

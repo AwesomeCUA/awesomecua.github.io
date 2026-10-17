@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kalev Alpernas, Cormac Flanagan, Sadjad Fouladi, Leonid Ryzhyk, Mooly Sagiv, Thomas Schmitz, Keith Winstein
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1802.08984v1
+- First submission: 2018-02-25T10:36:56Z
+- Version updated: 2018-02-25T10:36:56Z
+- Abstract SHA-256: 218feae88402c4aa28ef9f446a7cc752212c7d224baf4d9a284ff8ea3d5fbea9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

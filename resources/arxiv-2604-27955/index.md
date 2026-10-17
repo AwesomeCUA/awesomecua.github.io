@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Junan Hu, Jian Liu, Jingxiang Lai, Jiarui Hu, Yiwei Sheng, Shuang Chen, Jian Li, Dazhao Du, Song Guo
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.27955v1
+- First submission: 2026-04-30T14:51:49Z
+- Version updated: 2026-04-30T14:51:49Z
+- Abstract SHA-256: b06f2787f7268d91820270502c5b6d68356a52a551da53c2cdd97fcacb7c1cc9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

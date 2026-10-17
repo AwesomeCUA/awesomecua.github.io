@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Raghav Kapoor, Yash Parag Butala, Melisa Russak, Jing Yu Koh, Kiran Kamble, Waseem Alshikh, Ruslan Salakhutdinov
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2402.17553v3
+- First submission: 2024-02-27T14:47:53Z
+- Version updated: 2024-07-21T23:16:13Z
+- Abstract SHA-256: 54b548ac2bee529d3a769e7ea14b6bfce2270cdf349d832cc8c146e7d779b81a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

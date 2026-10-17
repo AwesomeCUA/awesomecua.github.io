@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yan Zhang, Daiqing Wu, Huawen Shen, Can Ma, Yu Zhou
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2605.00642v3
+- First submission: 2026-05-01T13:23:26Z
+- Version updated: 2026-05-10T03:40:15Z
+- Abstract SHA-256: b755ff13cddeaf691dfcd902e5f8a1e73cb0e1899be3ce7c4322ed8be18e654e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

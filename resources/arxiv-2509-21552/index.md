@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yu Zhao, Wei-Ning Chen, Huseyin Atahan Inan, Samuel Kessler, Lu Wang, Lukas Wutschitz, Fangkai Yang, Chaoyun Zhang, Pasquale Minervini, Saravan Rajmohan, Robert Sim
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2509.21552v2
+- First submission: 2025-09-25T20:38:01Z
+- Version updated: 2026-05-25T20:58:59Z
+- Abstract SHA-256: 83fa51d3642fa7786f7f6c44fcf5d5ab5876d7ae26e5f6184ddff4d5e2009181
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

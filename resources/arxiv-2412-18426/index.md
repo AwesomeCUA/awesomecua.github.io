@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Kangjia Zhao, Jiahui Song, Leigang Sha, Haozhan Shen, Zhi Chen, Tiancheng Zhao, Xiubo Liang, Jianwei Yin
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2412.18426v1
+- First submission: 2024-12-24T13:41:47Z
+- Version updated: 2024-12-24T13:41:47Z
+- Abstract SHA-256: 9e509f015068bcf1294a97236ff3bbde5e3ceb167f3cb032fcfd84fc4a5b01d0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

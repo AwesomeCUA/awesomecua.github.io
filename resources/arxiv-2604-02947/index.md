@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yunhao Feng, Yifan Ding, Yingshui Tan, Xingjun Ma, Yige Li, Yutao Wu, Yifeng Gao, Kun Zhai, Yanming Guo
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2604.02947v2
+- First submission: 2026-04-03T10:29:31Z
+- Version updated: 2026-09-22T02:57:31Z
+- Abstract SHA-256: 04d7feef296b78f107d7a718f8784962359a29a44569c4f128d89ad5640c736b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

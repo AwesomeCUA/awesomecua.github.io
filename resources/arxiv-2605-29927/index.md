@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Alejandra Zambrano, Sara Vera Marjanovic, Imene Kerboua, Xing Han Lù, Leila Kosseim
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.29927v1
+- First submission: 2026-05-28T13:39:49Z
+- Version updated: 2026-05-28T13:39:49Z
+- Abstract SHA-256: 4ce309f6b2b4bce74fe5991599b7117ee7d0d89645987f99a89844b93d93ce6f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

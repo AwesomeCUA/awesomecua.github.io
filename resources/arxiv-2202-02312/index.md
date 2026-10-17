@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Andrea Burns, Deniz Arsan, Sanjna Agrawal, Ranjitha Kumar, Kate Saenko, Bryan A. Plummer
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2202.02312v3
+- First submission: 2022-02-04T18:51:50Z
+- Version updated: 2022-08-15T00:24:24Z
+- Abstract SHA-256: 1687369e31b0ad3632381d4a46b1d555c2e2ed1d6504e9c1b63006dd29f3445e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

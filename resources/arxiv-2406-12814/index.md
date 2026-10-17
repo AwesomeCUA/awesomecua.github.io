@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Chen Henry Wu, Rishi Shah, Jing Yu Koh, Ruslan Salakhutdinov, Daniel Fried, Aditi Raghunathan
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2406.12814v3
+- First submission: 2024-06-18T17:32:48Z
+- Version updated: 2025-02-04T20:02:17Z
+- Abstract SHA-256: 7cc1c1ac93f8e328d33accf7cdaa1d65487c4f7abec15234b9e596a501947550
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

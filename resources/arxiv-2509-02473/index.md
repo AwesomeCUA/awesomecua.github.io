@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ziting Wang, Shize Zhang, Haitao Yuan, Jinwei Zhu, Wei Dong, Gao Cong
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2509.02473v3
+- First submission: 2025-09-02T16:25:12Z
+- Version updated: 2026-08-15T04:45:55Z
+- Abstract SHA-256: 1850899f0cb84621c69fe11ab13f2ba0997afb8ad5541ca47d29edaa2400839a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

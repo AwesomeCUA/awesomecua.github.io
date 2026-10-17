@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yongxin Ning, Runliang Niu, Qianli Xing, Zhiyi Duan, Qingzu He, Pan Wang, Qi Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.05861v1
+- First submission: 2026-10-05T06:28:58Z
+- Version updated: 2026-10-05T06:28:58Z
+- Abstract SHA-256: 43845ad64843a0b019c1988d4ba861eccee3c48a7b2c09d0bae7794e5e86347a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Haoyue Bai, Dong Wang, Long Chen, Bingguang Hao, Pengyang Shao, Yonghui Yang, Yicheng He, Chenyi Zhuang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.16385v1
+- First submission: 2026-03-27T02:41:38Z
+- Version updated: 2026-03-27T02:41:38Z
+- Abstract SHA-256: 3ae241d6d51fe73020d8d39c78ba0fb6ef6ffcb5b9fdb2e43bdb1b6f12931210
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shrinidhi Kumbhar, Haofu Liao, Srikar Appalaraju, Kunwar Yashraj Singh
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2603.26211v1
+- First submission: 2026-03-27T09:34:07Z
+- Version updated: 2026-03-27T09:34:07Z
+- Abstract SHA-256: 0838afd6777af3e3995fa3bf9645102f98962cccd81c1db438a007b4cd33c442
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

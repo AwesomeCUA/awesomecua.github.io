@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jihong Wang, Jiamu Zhou, Weiming Zhang, Teng Wang, Weiwen Liu, Zhuosheng Zhang, Xingyu Lou, Weinan Zhang, Huarong Deng, Jun Wang
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2601.07262v3
+- First submission: 2026-01-12T07:08:42Z
+- Version updated: 2026-04-23T09:34:51Z
+- Abstract SHA-256: a2afe8d0d8d83f91003b7885635e098e19f69024306c43c3edb23c110e553f63
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

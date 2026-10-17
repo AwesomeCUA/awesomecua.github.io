@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Georgios Papoudakis, Thomas Coste, Zhihao Wu, Jianye Hao, Jun Wang, Kun Shao
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2502.06395v1
+- First submission: 2025-02-10T12:32:21Z
+- Version updated: 2025-02-10T12:32:21Z
+- Abstract SHA-256: 44ec9907c8d536488e59dea307aa05bd8adcadf96cb4f3ba25a355ffe4cf8ff7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

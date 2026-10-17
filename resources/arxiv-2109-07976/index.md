@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Cong Wang, Shi-Jun Liang, Chen-Yu Wang, Zai-Zheng Yang, Yingmeng Ge, Chen Pan, Xi Shen, Wei Wei, Yichen Zhao, Zaichen Zhang, Bin Cheng, Chuan Zhang, Feng Miao
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2109.07976v1
+- First submission: 2021-09-16T13:37:31Z
+- Version updated: 2021-09-16T13:37:31Z
+- Abstract SHA-256: 9666a8537233c1bf7f329589e394cc34f21609dd06fb535ac04f26345b9ea0b9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

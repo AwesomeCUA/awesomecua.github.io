@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yulin Chen, Tri Cao, Haoran Li, Yue Liu, Yibo Li, Yufei He, Le Minh Khoi, Yangqiu Song, Shuicheng Yan, Bryan Hooi
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.12284v1
+- First submission: 2026-04-14T04:50:35Z
+- Version updated: 2026-04-14T04:50:35Z
+- Abstract SHA-256: 64d4323050a5ad0f7265231337eb22a4c0823cee41587099c8bdc5db6b320dea
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

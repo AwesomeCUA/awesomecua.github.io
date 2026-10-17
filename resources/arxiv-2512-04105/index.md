@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jinzhe Tan, Karim Benyekhlef
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2512.04105v1
+- First submission: 2025-11-28T07:26:29Z
+- Version updated: 2025-11-28T07:26:29Z
+- Abstract SHA-256: d362a839fd1ee917ebdde6fcd794640523e930cd711769154532200903fe7de5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

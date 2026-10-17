@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Gabriel Sarch, Lawrence Jang, Michael J. Tarr, William W. Cohen, Kenneth Marino, Katerina Fragkiadaki
 
+## Recorded arXiv snapshot
+
+- Version: 6
+- Version source: https://arxiv.org/abs/2406.14596v6
+- First submission: 2024-06-20T17:45:02Z
+- Version updated: 2025-09-18T02:44:34Z
+- Abstract SHA-256: 698e2c444a587a109bbc7b3d64b812a3d0cf2ef7148ff02e3e6fe13f19f193fd
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

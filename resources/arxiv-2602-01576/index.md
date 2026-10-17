@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Woosung Koh, Sungjun Han, Segyu Lee, Se-Young Yun, Jamin Shin
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2602.01576v2
+- First submission: 2026-02-02T03:12:16Z
+- Version updated: 2026-05-23T02:41:44Z
+- Abstract SHA-256: 7c29d1404b02c4f5ef2cdaf78bdb0f9062b1b85ec1a154408bc8f49446c28d08
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

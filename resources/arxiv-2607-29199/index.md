@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Haoxin An, Yunpeng Song, Zihao Bai, Zhongmin Cai, Guojun Xiong, Chenhao Lin, Wentao Chen, Feng Wei, Chao Shen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2607.29199v1
+- First submission: 2026-07-31T09:18:55Z
+- Version updated: 2026-07-31T09:18:55Z
+- Abstract SHA-256: 45e0f558caad8e513c8672239dc04ce5f1557151aa984c6e9a138ad71c184a4c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

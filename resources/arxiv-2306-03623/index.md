@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Florent De Geeter, Damien Ernst, Guillaume Drion
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2306.03623v3
+- First submission: 2023-06-06T12:19:12Z
+- Version updated: 2024-05-06T12:08:09Z
+- Abstract SHA-256: d660e7c8ddf6f5f8663f07ece23b73ea2fd4605c8a5a39ee74c87f5bf8dc9fde
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

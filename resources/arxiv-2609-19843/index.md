@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Haya Halimeh, Sascha Kaltenpoth, Kevin Bösch, Oliver Müller
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.19843v1
+- First submission: 2026-09-17T07:54:15Z
+- Version updated: 2026-09-17T07:54:15Z
+- Abstract SHA-256: 70a7588abcf345418ed759fb2bdb96fc60c6e1444a3e0dc98766510c755f8478
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Tianyu Gao, Zirui Wang, Adithya Bhaskar, Danqi Chen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2402.14073v1
+- First submission: 2024-02-21T19:01:03Z
+- Version updated: 2024-02-21T19:01:03Z
+- Abstract SHA-256: 0f3eed6e0021be438af9d056e97f71a838af905b948cfd6499423ab18df11e43
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

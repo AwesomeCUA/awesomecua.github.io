@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Marta Sumyk, Oleksandr Kosovan
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.24515v1
+- First submission: 2026-06-23T12:46:29Z
+- Version updated: 2026-06-23T12:46:29Z
+- Abstract SHA-256: 0aeb8c28b570133f575c2f336b6dab0dcbecdfaec78549115407b21722816e8a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

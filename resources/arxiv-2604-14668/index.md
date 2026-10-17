@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Pan Hao, Rishi Selvakumaran, Jacob Sun, Qianwen Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.14668v1
+- First submission: 2026-04-16T06:22:48Z
+- Version updated: 2026-04-16T06:22:48Z
+- Abstract SHA-256: bd3b5e5b9a607023c82150673255eaf2f90c22db86d3c049b2a2fd536aaef17f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

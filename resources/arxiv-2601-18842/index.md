@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yanxi Wang, Zhiling Zhang, Wenbo Zhou, Weiming Zhang, Jie Zhang, Qiannan Zhu, Yu Shi, Shuxin Zheng, Jiyan He
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2601.18842v3
+- First submission: 2026-01-26T11:33:40Z
+- Version updated: 2026-05-13T07:11:36Z
+- Abstract SHA-256: 1ca912ad67a681e8e908a5a403e982f39b5080bee4df376eb0b598468f3bb504
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

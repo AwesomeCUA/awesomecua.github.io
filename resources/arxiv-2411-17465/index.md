@@ -20,6 +20,15 @@ Summary and topic tags reviewed against the primary abstract. Reported experimen
 
 Kevin Qinghong Lin, Linjie Li, Difei Gao, Zhengyuan Yang, Shiwei Wu, Zechen Bai, Weixian Lei, Lijuan Wang, Mike Zheng Shou
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2411.17465v1
+- First submission: 2024-11-26T14:29:47Z
+- Version updated: 2024-11-26T14:29:47Z
+- Abstract SHA-256: 8c8f5c0a7fc5f194ffa6ca914619b9402c947d15f100b124505883ad8ff23ac7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

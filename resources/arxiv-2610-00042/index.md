@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Gene Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.00042v1
+- First submission: 2026-09-03T03:40:18Z
+- Version updated: 2026-09-03T03:40:18Z
+- Abstract SHA-256: bc7f3c818eb8b0813f3855e0f006aa63ce2fcc8f9ab6bbb6e65c14bf485aa444
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

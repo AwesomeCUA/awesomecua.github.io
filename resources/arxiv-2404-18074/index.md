@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zirui Song, Yaohang Li, Meng Fang, Yanda Li, Zhenhao Chen, Zecheng Shi, Yuan Huang, Xiuying Chen, Ling Chen
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2404.18074v3
+- First submission: 2024-04-28T05:33:15Z
+- Version updated: 2025-03-23T13:04:57Z
+- Abstract SHA-256: 5e531ec2ef9e5d90586b8f3052e16d41da95114b7382047d0a02fd671a0db355
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

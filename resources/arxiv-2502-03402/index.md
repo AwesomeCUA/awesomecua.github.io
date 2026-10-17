@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Javed Absar, Samarth Narang, Muthu Baskaran
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2502.03402v2
+- First submission: 2025-02-05T17:43:17Z
+- Version updated: 2025-02-07T16:07:14Z
+- Abstract SHA-256: 24f4ec11527daab210641d60ae1d00cae9bbcdbe9cba65dc267636d316ac626c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

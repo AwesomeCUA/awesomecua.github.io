@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuan Zhao, Hualei Zhu, Tingyu Jiang, Shen Li, Xiaohang Xu, Hao Henry Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2511.10705v1
+- First submission: 2025-11-13T03:41:02Z
+- Version updated: 2025-11-13T03:41:02Z
+- Abstract SHA-256: 101d38ed439c41ebfa826e990697b502b9126728956295d25b0ea9d539ff23e3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

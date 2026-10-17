@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yutong Huang, Vikranth Srivatsa, Alex Asch, Hansin Tushar Patwa, Yiying Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.17320v1
+- First submission: 2026-05-17T08:24:01Z
+- Version updated: 2026-05-17T08:24:01Z
+- Abstract SHA-256: 51576fb9bde23f769d3200a0d593ad610eb27248917132aff1bcf6eb7ff03cea
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

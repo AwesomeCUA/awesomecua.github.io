@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Weiwei Li, Junzhuo Liu, Tong Chu, Hengfu Yu, Wen Li
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.06065v1
+- First submission: 2026-08-06T14:10:23Z
+- Version updated: 2026-08-06T14:10:23Z
+- Abstract SHA-256: bb90627131765746e3a138ab0862dd68ea963106db4055760d78041c856acc8b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

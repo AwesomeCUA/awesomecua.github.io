@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Reza Akbarinia, Bertrand Cloez
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1901.05708v1
+- First submission: 2019-01-17T10:05:37Z
+- Version updated: 2019-01-17T10:05:37Z
+- Abstract SHA-256: b45590ec9c42f765897551719914a8bc6c62394d0ee22ddce4954719acba1e49
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Maria Movin, Claudia Hauff, Aron Henriksson, Panagiotis Papapetrou
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.07929v1
+- First submission: 2026-04-09T07:49:02Z
+- Version updated: 2026-04-09T07:49:02Z
+- Abstract SHA-256: 1f60f69f90ea1bec03745d3f72acea4a1f7b9810e0b46adaba6829a0d38cf626
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Suyoung Lee, Myungsub Choi
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.05535v1
+- First submission: 2026-09-02T07:03:03Z
+- Version updated: 2026-09-02T07:03:03Z
+- Abstract SHA-256: c0a3b1dc46d9a875e2cfb2f9ec40dba631c999a6088b6d39d755239945f59d74
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

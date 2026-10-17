@@ -20,6 +20,15 @@ Editorial summary based on the primary paper abstract; experiments and released 
 
 Rozain Shakeel, Abdul Rahman Mohammad Ali, Muneeb Mushtaq, Tausifa Jan Saleem, Tajamul Ashraf
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2603.19993v1
+- First submission: 2026-03-20T14:43:53Z
+- Version updated: 2026-03-20T14:43:53Z
+- Abstract SHA-256: cfa6cd9aead44150fdc997654ded7253b2890e936b94e44be2fb33642b24d302
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

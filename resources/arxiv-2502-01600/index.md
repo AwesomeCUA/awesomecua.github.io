@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kevin Chen, Marco Cusumano-Towner, Brody Huval, Aleksei Petrenko, Jackson Hamburger, Vladlen Koltun, Philipp Krähenbühl
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2502.01600v3
+- First submission: 2025-02-03T18:35:42Z
+- Version updated: 2025-03-08T05:23:57Z
+- Abstract SHA-256: e04fe57f9bc51d03f3fff4bf177ff512316ee9df20aaea034662f3ea3104cd97
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

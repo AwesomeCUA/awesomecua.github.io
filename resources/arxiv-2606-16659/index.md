@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Y. H. Zhou, Z. M. Ma, Y. J. Zhou, Y. T. Li, H. X. Xiang, Y. M. Cheng, T. L. Chen, K. J. Zhang, Z. H. Nan, J. H. Ni, Z. Wu, Q. Y. Pan, S. Zhang, S. Cheng, M. Y. Luo
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.16659v1
+- First submission: 2026-06-15T12:53:55Z
+- Version updated: 2026-06-15T12:53:55Z
+- Abstract SHA-256: 6311b22ddb2262c74efbe79acc8856335f6870aa24197c507f3f7b048d6f7901
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

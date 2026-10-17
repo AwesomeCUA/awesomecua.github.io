@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Mokter M. Chowdhury, Robinson Cortes-Huerto, Debashish Mukherji
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2407.13063v1
+- First submission: 2024-07-18T00:13:12Z
+- Version updated: 2024-07-18T00:13:12Z
+- Abstract SHA-256: a5151732ea57dac1d7e4ad730d5cf9c53caa8ba97035645b8509ef4e211171ac
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

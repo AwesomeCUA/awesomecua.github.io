@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yanheng He, Jiahe Jin, Pengfei Liu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2505.13909v2
+- First submission: 2025-05-20T04:20:18Z
+- Version updated: 2026-03-03T03:55:55Z
+- Abstract SHA-256: 026a64046926912a54e6a7c6cf62a17740a6f89a94713615f9750f8bf8302c78
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xuelong Dai, Jianyu Ma, Boyang Ma, Biwei Yan, Yijun Yang, Yue Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2606.20717v2
+- First submission: 2026-06-16T15:31:33Z
+- Version updated: 2026-10-15T04:29:19Z
+- Abstract SHA-256: fea441692131ec677e4a9ae54f9ecef1f31d422e20884b496b124e99392e59c1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zijian Lu, Yiping Zuo, Yupeng Nie, Xin He, Weibei Fan, Lianyong Qi, Shi Jin
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2603.20340v3
+- First submission: 2026-03-20T09:25:50Z
+- Version updated: 2026-04-15T07:34:34Z
+- Abstract SHA-256: 8e8182e64c7a57a2dd6eb381762bc9a60b08e13ba5a337d0e9125ab6a5518b6c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Tian Jin, Wenhao Wang, Jing Kang, Haoting Shi, Rui Ye, Yijun Lu, Siheng Chen
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2610.12611v2
+- First submission: 2026-10-08T18:31:16Z
+- Version updated: 2026-10-14T08:40:10Z
+- Abstract SHA-256: 06b25b25e804683e11305e21dd04feb9131aad27f901998eda70ac91e527c6b9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

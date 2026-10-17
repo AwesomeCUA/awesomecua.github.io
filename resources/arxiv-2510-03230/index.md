@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Suyuchen Wang, Tianyu Zhang, Ahmed Masry, Christopher Pal, Spandana Gella, Bang Liu, Perouz Taslakian
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2510.03230v1
+- First submission: 2025-10-03T17:59:34Z
+- Version updated: 2025-10-03T17:59:34Z
+- Abstract SHA-256: 7f0c7eedadb9a321b222d4081271d6c979a25e1f64714cea8cf2ff088c5e61df
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

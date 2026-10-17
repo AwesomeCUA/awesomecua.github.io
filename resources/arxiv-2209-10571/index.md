@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Akhil Francis, Anjali A. Agrawal, Jack H. Howard, Efekan Kökcü, A. F. Kemper
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2209.10571v1
+- First submission: 2022-09-21T18:01:33Z
+- Version updated: 2022-09-21T18:01:33Z
+- Abstract SHA-256: 86a34ca793d86d573d0246c40f84281aef399d4622107a9822d93781bf08de66
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

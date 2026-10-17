@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Dayuan Fu, Keqing He, Yejie Wang, Wentao Hong, Zhuoma Gongque, Weihao Zeng, Wei Wang, Jingang Wang, Xunliang Cai, Weiran Xu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2501.01702v2
+- First submission: 2025-01-03T08:55:19Z
+- Version updated: 2025-02-24T12:42:14Z
+- Abstract SHA-256: 45d2725c84686673c06e76083f1a145b5ad9a74d3d7e34df016b19071c94fc9d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

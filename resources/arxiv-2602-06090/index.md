@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jincheng Wang, Liwei Luo, Xiaoxuan Tang, Jingxuan Xu, Sheng Zhou, Dajun Chen, Wei Jiang, Yong Li
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2602.06090v2
+- First submission: 2026-02-05T06:26:46Z
+- Version updated: 2026-08-03T12:05:20Z
+- Abstract SHA-256: ccb28161c4665de8ff69d7142c91d5531b77350a04df5692dfc9fcfc8744814b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

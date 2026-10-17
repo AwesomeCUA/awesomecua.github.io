@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Tianqing Fang, Hongming Zhang, Zhisong Zhang, Kaixin Ma, Wenhao Yu, Haitao Mi, Dong Yu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2504.21024v2
+- First submission: 2025-04-23T02:54:31Z
+- Version updated: 2025-08-21T05:55:43Z
+- Abstract SHA-256: 86ca58c92ffc2cbbcb0297d8c7618dfab966e36a07b141c068998b0f2934d11e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

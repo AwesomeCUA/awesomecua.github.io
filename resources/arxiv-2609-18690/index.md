@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Liyang Fan, Xinping Bi, Yitai Li, Shuaimin Li, Hui Li, Min Yang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.18690v1
+- First submission: 2026-09-16T14:06:38Z
+- Version updated: 2026-09-16T14:06:38Z
+- Abstract SHA-256: ccbc85f4d2598b4cb1e6e1a96b3b9184ddeba838cb610658070fd2d1ac9c8d06
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

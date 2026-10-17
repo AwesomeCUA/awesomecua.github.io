@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Nathan Zhao
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2603.17357v1
+- First submission: 2026-03-18T04:41:16Z
+- Version updated: 2026-03-18T04:41:16Z
+- Abstract SHA-256: e3b429d277ec776af18977a72aaeb95000a4fedf66aa89c0366ab02120d4cdbe
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

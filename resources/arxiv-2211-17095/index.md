@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Joseph D. Hart, Francesco Sorrentino, Thomas L. Carroll
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2211.17095v3
+- First submission: 2022-11-29T14:55:51Z
+- Version updated: 2023-04-25T22:24:31Z
+- Abstract SHA-256: 02c684d2a0f41a902b37c4174aebdc72ef6b002bb5af4f0327edb32fa1f1780b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

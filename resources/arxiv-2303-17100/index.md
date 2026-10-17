@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zequn Cao, Xiaoheng Deng
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2303.17100v1
+- First submission: 2023-03-30T02:18:51Z
+- Version updated: 2023-03-30T02:18:51Z
+- Abstract SHA-256: 8c5ec98167dd51f96e66cee1dff03713fd2a4d279da0ccff7b34659646886acc
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

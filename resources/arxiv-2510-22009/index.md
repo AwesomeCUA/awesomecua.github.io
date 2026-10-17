@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yangqin Jiang, Chao Huang
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2510.22009v3
+- First submission: 2025-10-24T20:23:12Z
+- Version updated: 2026-10-05T01:17:12Z
+- Abstract SHA-256: 09bd73dff01641593f31f7d40effd60df42e3d9460ffa010f76c00a32be3593b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Andrea Burns, Kate Saenko, Bryan A. Plummer
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2406.07822v2
+- First submission: 2024-06-12T02:43:19Z
+- Version updated: 2024-08-08T02:36:04Z
+- Abstract SHA-256: 47d0ca0467a104f9b8be037ec73131f12b66a22b0a89fe975bec7680073c8f39
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Mahir Labib Dihan, Tanzima Hashem, Mohammed Eunus Ali, Md Rizwan Parvez
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2512.12692v1
+- First submission: 2025-12-14T13:56:54Z
+- Version updated: 2025-12-14T13:56:54Z
+- Abstract SHA-256: 44caacf6646fdbc53e36b4aef93c583e8fae6589109b525816fa12e30ba0b6e3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

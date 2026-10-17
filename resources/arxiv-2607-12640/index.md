@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Chengguang Gan, Zhixi Cai, Yunhao Liang, Hanjun Wei, Shiwen Ni, Qinghao Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2607.12640v1
+- First submission: 2026-07-14T11:17:35Z
+- Version updated: 2026-07-14T11:17:35Z
+- Abstract SHA-256: e96ea0cf71ff705c064db1bcd1d2cbf8b8cd712bb4e8030931cafbb31ff29b10
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

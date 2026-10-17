@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Fangzhi Xu, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Yu Qiao, Jun Liu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2311.09278v2
+- First submission: 2023-11-15T18:59:56Z
+- Version updated: 2024-02-18T06:24:12Z
+- Abstract SHA-256: e8b60e5ace8c14ff850fef7a35225d7bfa6045922adfda3d6edd155ecea4830c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

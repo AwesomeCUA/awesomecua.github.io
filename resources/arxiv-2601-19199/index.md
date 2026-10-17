@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Libo Sun, Jiwen Zhang, Siyuan Wang, Zhongyu Wei
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2601.19199v2
+- First submission: 2026-01-27T04:58:48Z
+- Version updated: 2026-01-31T15:17:38Z
+- Abstract SHA-256: 1930b4efca7ee38fc6cd1ceb283c14ed9b1388e7b758b951ba9469ed3067c3e0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

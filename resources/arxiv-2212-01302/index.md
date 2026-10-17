@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shreshth Tuli, Giuliano Casale, Ludmila Cherkasova, Nicholas R. Jennings
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2212.01302v1
+- First submission: 2022-12-02T16:51:58Z
+- Version updated: 2022-12-02T16:51:58Z
+- Abstract SHA-256: 51fef00bdd85f0c17fade5a4f567f178b6fb7a994fe36bc38912d2eb34af2861
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

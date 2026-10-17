@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Haowen Hu, Pengzhou Cheng, Zheng Wu, Lingzhong Dong, Gongshen Liu, Zhuosheng Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.01208v1
+- First submission: 2026-05-02T02:54:36Z
+- Version updated: 2026-05-02T02:54:36Z
+- Abstract SHA-256: 8738f2584f096c1d54555adcf8bdbbb283f0d3178eb1f5e7b7c8a61b2965c15e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

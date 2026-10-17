@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yucheng Jiang, Zora Zhiruo Wang, Ruishi Chen, Diyi Yang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.20319v1
+- First submission: 2026-08-20T17:57:00Z
+- Version updated: 2026-08-20T17:57:00Z
+- Abstract SHA-256: a85b3a99d551fcdffdd306d839b39cdfbe7f0f7654aa9adbf81f939aa874e3b9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

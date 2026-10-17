@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sibo Zhu, Shicheng Fan, Xinyue Wang, Wenyi Wu, Kun Zhou, Biwei Huang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2609.15364v2
+- First submission: 2026-09-14T10:46:40Z
+- Version updated: 2026-09-18T21:46:52Z
+- Abstract SHA-256: c6ae88afe647542ffcd6715fa21ba7027a834fbb4399ea2107b014227783b5b5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

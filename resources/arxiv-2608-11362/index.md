@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Saptarshi Biswas, James I. Lathrop, Rana D. Parshad
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2608.11362v2
+- First submission: 2026-08-11T19:15:18Z
+- Version updated: 2026-09-07T03:07:09Z
+- Abstract SHA-256: 1344dc28e0edaeec2a35bc7493c276bc9c830bfaf9e113339e0e7f8dfb4e2ec0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

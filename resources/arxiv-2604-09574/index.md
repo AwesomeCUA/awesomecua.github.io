@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jiachen Zhu, Lingyu Yang, Rong Shan, Congmin Zheng, Zeyu Zheng, Weiwen Liu, Yong Yu, Weinan Zhang, Jianghao Lin
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.09574v1
+- First submission: 2026-02-24T04:29:42Z
+- Version updated: 2026-02-24T04:29:42Z
+- Abstract SHA-256: d756e951c214d59e782faad5f12b784b2bea431a2ca08ae907f68dc07d61b50f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

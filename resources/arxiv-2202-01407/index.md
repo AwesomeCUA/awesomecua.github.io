@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Mohammad Reza Jokar, Richard Rines, Ghasem Pasandi, Haolin Cong, Adam Holmes, Yunong Shi, Massoud Pedram, Frederic T. Chong
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2202.01407v1
+- First submission: 2022-02-03T04:52:14Z
+- Version updated: 2022-02-03T04:52:14Z
+- Abstract SHA-256: f244ab0734c6e8969e5e09ad8138f4de6854004fa2ecb1a560eb26d672b2337d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Cédric Colas, Laetitia Teodorescu, Pierre-Yves Oudeyer, Xingdi Yuan, Marc-Alexandre Côté
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2305.12487v1
+- First submission: 2023-05-21T15:42:41Z
+- Version updated: 2023-05-21T15:42:41Z
+- Abstract SHA-256: 444a44752af982de9b0147c891e31dc71f9733ddffba862340f09455fe87d272
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

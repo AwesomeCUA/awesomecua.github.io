@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Patrice Bechard, Orlando Marquez Ayala, Emily Chen, Jordan Skelton, Sagar Davasam, Srinivas Sunkara, Vikas Yadav, Sai Rajeswar
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2604.00073v4
+- First submission: 2026-03-31T14:14:47Z
+- Version updated: 2026-10-14T14:23:23Z
+- Abstract SHA-256: 93eb667bf6af8fe98bdbf5930c6a2f67a7fa0b74dda8b3f0667ddefa58a0aa7b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

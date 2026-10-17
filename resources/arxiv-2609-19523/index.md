@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yinzhu Quan, Zefang Liu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2609.19523v2
+- First submission: 2026-09-17T00:29:46Z
+- Version updated: 2026-10-08T04:53:11Z
+- Abstract SHA-256: 5e7fb5704932a99147ff7c64a82a6a4041565f3edf6506a6252f75f832834d96
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

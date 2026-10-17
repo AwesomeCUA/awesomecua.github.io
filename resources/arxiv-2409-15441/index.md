@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Brian Tang, Kang G. Shin
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2409.15441v1
+- First submission: 2024-09-23T18:06:32Z
+- Version updated: 2024-09-23T18:06:32Z
+- Abstract SHA-256: 377d46c738f1a6f3e1c22ea99971a2fcfcf25ded82b2d2a24f728e614e22a1b3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

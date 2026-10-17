@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yogeswar Reddy Thota
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.30697v1
+- First submission: 2026-06-29T03:19:40Z
+- Version updated: 2026-06-29T03:19:40Z
+- Abstract SHA-256: 6f3f2ae1438986c11146fec508dd61fd3e848ddcbf830f86a7dfa759280d730a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

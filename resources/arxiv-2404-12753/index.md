@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Wenhao Huang, Zhouhong Gu, Chenghao Peng, Zhixu Li, Jiaqing Liang, Yanghua Xiao, Liqian Wen, Zulong Chen
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2404.12753v2
+- First submission: 2024-04-19T09:59:44Z
+- Version updated: 2024-09-26T09:17:10Z
+- Abstract SHA-256: 9197968c51e668d3737496aaebadaa324e2b20b182aad541cabb491e491d3b41
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

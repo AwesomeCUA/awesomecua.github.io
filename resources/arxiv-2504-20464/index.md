@@ -20,6 +20,15 @@ Inclusion does not establish reproducibility or endorsement.
 
 Jiahao Li, Kaer Huang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2504.20464v2
+- First submission: 2025-04-29T06:55:15Z
+- Version updated: 2025-05-13T01:59:29Z
+- Abstract SHA-256: 5040073e7c278734df219d71d94e236468468621f5971ef3ccbc97b94e1792b9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

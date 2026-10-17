@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zehao Deng, Tianjie Ju, Zheng Wu, Zhuosheng Zhang, Gongshen Liu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2511.22235v2
+- First submission: 2025-11-27T09:01:38Z
+- Version updated: 2026-03-04T12:15:06Z
+- Abstract SHA-256: 9acb395dfaad18b84ea4b52d97be194a42eb42d6ac922c55f2179e38cc258a31
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

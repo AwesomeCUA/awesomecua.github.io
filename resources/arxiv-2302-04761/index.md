@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2302.04761v1
+- First submission: 2023-02-09T16:49:57Z
+- Version updated: 2023-02-09T16:49:57Z
+- Abstract SHA-256: d131ed654bcc879a2cc35030ad2658788743592dd5f0e10697fb2de943c4014e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

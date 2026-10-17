@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Deepak Nathani, Cheng Zhang, Chang Huan, Jiaming Shan, Yinfei Yang, Alkesh Patel, Zhe Gan, William Yang Wang, Michael Saxon, Xin Eric Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.00842v1
+- First submission: 2026-04-01T12:53:01Z
+- Version updated: 2026-04-01T12:53:01Z
+- Abstract SHA-256: 2ae0f95c0c5ee3ca8a9eaf417143fb038f6f37f229a18eadffa8c1ade44a14c7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

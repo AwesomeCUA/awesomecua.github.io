@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yurun Chen, Biao Yi, Keting Yin, Shengyu Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.20636v1
+- First submission: 2026-06-02T06:33:51Z
+- Version updated: 2026-06-02T06:33:51Z
+- Abstract SHA-256: 735799024784157d28a03727b9d39b5c21ef747f6978b657e2fa793fe9f39e1e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

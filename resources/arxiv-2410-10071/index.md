@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jinjin Shen, Yan Lin, Yijin Zhang, Weibin Zhang, Feng Shu, Jun Li
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2410.10071v1
+- First submission: 2024-10-14T01:25:56Z
+- Version updated: 2024-10-14T01:25:56Z
+- Abstract SHA-256: bb3c4a5cbbfe3b48af743f891f58fa52d2929483cb0639829ec23a3e6a733883
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

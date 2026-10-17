@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jiayuan Zhang, Kaiquan Chen, Zhihao Lu, Enshen Zhou, Qian Yu, Jing Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2511.21398v1
+- First submission: 2025-11-26T13:49:39Z
+- Version updated: 2025-11-26T13:49:39Z
+- Abstract SHA-256: af9da8a618674b5a40f95029c4797b48a850e0a99de827d3e526b21797f8eef4
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

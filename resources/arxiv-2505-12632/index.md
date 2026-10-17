@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yunseok Jang, Yeda Song, Sungryull Sohn, Lajanugen Logeswaran, Tiange Luo, Dong-Ki Kim, Kyunghoon Bae, Honglak Lee
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2505.12632v1
+- First submission: 2025-05-19T02:39:03Z
+- Version updated: 2025-05-19T02:39:03Z
+- Abstract SHA-256: 64672e6a3450256a8b04d9db231e885e2dd4e8688235f6c7853d70d6276610ff
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

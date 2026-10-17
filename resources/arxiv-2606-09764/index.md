@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Lawrence Keunho Jang, Mareks Woodside, Geronimo Carom, Andrew Keunwoo Jang, Jing Yu Koh, Ruslan Salakhutdinov
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.09764v1
+- First submission: 2026-06-08T17:27:13Z
+- Version updated: 2026-06-08T17:27:13Z
+- Abstract SHA-256: 495420bd87ba06ae2ec1763865b1145271e964b4bd40145c8e591653a1581c42
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

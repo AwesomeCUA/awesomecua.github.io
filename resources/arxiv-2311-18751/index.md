@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Hiroki Furuta, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2311.18751v3
+- First submission: 2023-11-30T17:50:47Z
+- Version updated: 2024-12-31T04:24:16Z
+- Abstract SHA-256: 4b00e0a9c74b7ac8819bdda540a1069c33cbac45f0c7fb853dee995f2feb9a59
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

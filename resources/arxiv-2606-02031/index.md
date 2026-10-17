@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Rui Yang, Qianhui Wu, Yuxi Chen, Hao Bai, Wenlin Yao, Hao Cheng, Baolin Peng, Huan Zhang, Tong Zhang, Jianfeng Gao
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2606.02031v2
+- First submission: 2026-06-01T10:20:10Z
+- Version updated: 2026-06-04T09:03:30Z
+- Abstract SHA-256: 4d5fdcffb29f45407f41a5e00d7c4052051b05f4ca5b320feffad9e8f070b7c2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

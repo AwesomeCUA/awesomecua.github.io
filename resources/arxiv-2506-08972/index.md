@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuan Guo, Tingjia Miao, Zheng Wu, Pengzhou Cheng, Ming Zhou, Zhuosheng Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2506.08972v1
+- First submission: 2025-06-10T16:45:29Z
+- Version updated: 2025-06-10T16:45:29Z
+- Abstract SHA-256: 8dbc84aa582b94775d490cf84e17eff05be84af7dbcc2de7de61b886fa3c9178
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

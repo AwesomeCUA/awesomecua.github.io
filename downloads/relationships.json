@@ -1,5 +1,5 @@
 {
-  "relation_count": 234,
+  "relation_count": 258,
   "semantics": "Reviewed semantic links only. Documentation does not establish training or evaluation dependency.",
   "relations": [
     {
@@ -80,6 +80,14 @@
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/AndroidArenaAgent/AndroidArena/HEAD/README.md",
       "target_id": "arxiv:2402.06596",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:apga/go-browse",
+      "source_name": "Go-Browse",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/ApGa/Go-Browse/HEAD/README.md",
+      "target_id": "arxiv:2506.03533",
       "type": "documented_by"
     },
     {
@@ -587,11 +595,27 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:osu-nlp-group/redteamcua",
+      "source_name": "RedTeamCUA",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/OSU-NLP-Group/RedTeamCUA/HEAD/README.md",
+      "target_id": "arxiv:2505.21936",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:osu-nlp-group/seeact",
       "source_name": "SeeAct",
       "source_kind": "agent",
       "evidence_url": "https://raw.githubusercontent.com/OSU-NLP-Group/SeeAct/HEAD/README.md",
       "target_id": "arxiv:2401.01614",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:osu-nlp-group/skillweaver",
+      "source_name": "SkillWeaver",
+      "source_kind": "framework",
+      "evidence_url": "https://osu-nlp-group.github.io/SkillWeaver/",
+      "target_id": "arxiv:2504.07079",
       "type": "documented_by"
     },
     {
@@ -1187,6 +1211,14 @@
       "type": "published_by"
     },
     {
+      "source_id": "url:085b6811ddd6f797475d",
+      "source_name": "Aria-UI context-aware checkpoint",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/AriaUI/Aria-UI/HEAD/README.md",
+      "target_id": "arxiv:2412.16256",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:0b590d03a3d5103a79e4",
       "source_name": "GUI-360",
       "source_kind": "dataset",
@@ -1355,6 +1387,22 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:3b6dfd52f98bfe76bc7f",
+      "source_name": "WebTailBench",
+      "source_kind": "benchmark",
+      "evidence_url": "https://huggingface.co/datasets/microsoft/WebTailBench/raw/main/README.md",
+      "target_id": "arxiv:2511.19663",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:41abb1b7206689cf5057",
+      "source_name": "UI-AGILE-Data",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/KDEGroup/UI-AGILE-Data/raw/main/README.md",
+      "target_id": "arxiv:2507.22025",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:4a47a6df845735984bf1",
       "source_name": "HoloTab",
       "source_kind": "product",
@@ -1441,6 +1489,22 @@
       "evidence_url": "https://huggingface.co/api/models/inclusionAI/UI-Venus-2-9b",
       "target_id": "github:inclusionai/ui-venus",
       "type": "variant_of"
+    },
+    {
+      "source_id": "url:61a5321db10fc8a312b9",
+      "source_name": "GUI-R1 checkpoint bundle",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/ritzzai/GUI-R1/raw/main/README.md",
+      "target_id": "arxiv:2504.10458",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:66096ad4057a3d3726f5",
+      "source_name": "GUI-Actor data",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/cckevinn/GUI-Actor-Data/raw/main/README.md",
+      "target_id": "arxiv:2506.03143",
+      "type": "documented_by"
     },
     {
       "source_id": "url:69d6afe38a9a128ba9f7",
@@ -1531,11 +1595,35 @@
       "type": "published_by"
     },
     {
+      "source_id": "url:8933977bb0a57940ed23",
+      "source_name": "ShowUI-web",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/showlab/ShowUI-web/raw/main/README.md",
+      "target_id": "arxiv:2411.17465",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:8dfc84eb4016204fe70a",
+      "source_name": "WebPRM Collection preference data",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/LangAGI-Lab/WebPRMCollection_preference_pair/raw/main/README.md",
+      "target_id": "arxiv:2505.15277",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:8ef3985dce697e5feea9",
       "source_name": "AgentCPM-GUI 8B checkpoint",
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/openbmb/AgentCPM-GUI/raw/main/README.md",
       "target_id": "arxiv:2506.01391",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:90eea6f6d099a3297850",
+      "source_name": "GUI-G2 7B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/inclusionAI/GUI-G2-7B/raw/main/README.md",
+      "target_id": "arxiv:2507.15846",
       "type": "documented_by"
     },
     {
@@ -1555,11 +1643,27 @@
       "type": "published_by"
     },
     {
+      "source_id": "url:9dc9d8d3b9a4b32d6f4b",
+      "source_name": "GUI-G1 3B v1",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/Yuqi-Zhou/GUI-G1-3B-v1/raw/main/README.md",
+      "target_id": "arxiv:2505.15810",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:a06622da7688e3718a7b",
       "source_name": "CAGUI",
       "source_kind": "dataset",
       "evidence_url": "https://huggingface.co/api/datasets/openbmb/CAGUI",
       "target_id": "arxiv:2506.01391",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:a13a187bc058fbb4f6af",
+      "source_name": "Go-Browse-WA processed data",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/ApGa/Go-Browse/HEAD/README.md",
+      "target_id": "arxiv:2506.03533",
       "type": "documented_by"
     },
     {
@@ -1576,6 +1680,22 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/zai-org/webrl-llama-3.1-8b/raw/main/README.md",
       "target_id": "arxiv:2411.02337",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:ac6d0f80765f5a32255a",
+      "source_name": "WebRewardBench",
+      "source_kind": "benchmark",
+      "evidence_url": "https://huggingface.co/datasets/LangAGI-Lab/WebRewardBench/raw/main/README.md",
+      "target_id": "arxiv:2505.15277",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:ad7f176848fd84de64e2",
+      "source_name": "OpenCUA 32B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/xlangai/OpenCUA-32B/raw/main/README.md",
+      "target_id": "arxiv:2508.09123",
       "type": "documented_by"
     },
     {
@@ -1609,6 +1729,14 @@
       "evidence_url": "https://steel.dev/",
       "target_id": "organization:steel",
       "type": "published_by"
+    },
+    {
+      "source_id": "url:b94e285c3f757e2d0f3a",
+      "source_name": "UI-AGILE checkpoint",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/KDEGroup/UI-AGILE/raw/main/README.md",
+      "target_id": "arxiv:2507.22025",
+      "type": "documented_by"
     },
     {
       "source_id": "url:ba6453cfdae0eb049ced",
@@ -1739,6 +1867,30 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:d5140d438466c1e1348a",
+      "source_name": "CUAVerifierBench",
+      "source_kind": "benchmark",
+      "evidence_url": "https://huggingface.co/datasets/microsoft/CUAVerifierBench/raw/main/README.md",
+      "target_id": "arxiv:2604.06240",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:d70a755e3b2102f25f34",
+      "source_name": "InfiGUI-G1 7B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/InfiX-ai/InfiGUI-G1-7B/raw/main/README.md",
+      "target_id": "arxiv:2508.05731",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:d7a4f34a6a5202af5f64",
+      "source_name": "MobileGUI-VBench",
+      "source_kind": "benchmark",
+      "evidence_url": "https://huggingface.co/datasets/vivo-ai/MobileGUI-VBench/raw/main/README.md",
+      "target_id": "arxiv:2609.12394",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:d7ad447ecd712c6d51b8",
       "source_name": "GELab Zero 4B Preview",
       "source_kind": "model",
@@ -1753,6 +1905,14 @@
       "evidence_url": "https://www.tinyfish.ai/",
       "target_id": "organization:tinyfish",
       "type": "published_by"
+    },
+    {
+      "source_id": "url:db1b7b7efe3755ae5693",
+      "source_name": "Go-Browse WebArena Qwen 7B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/apurvaga/go-browse-wa-qwen-7B/raw/main/README.md",
+      "target_id": "arxiv:2506.03533",
+      "type": "documented_by"
     },
     {
       "source_id": "url:de31b07ff24ab15d9bdf",
@@ -1776,6 +1936,14 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/PrentisAI/GroundGUI-8B/raw/main/README.md",
       "target_id": "arxiv:2610.19100",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:df680385f18b01a825be",
+      "source_name": "GUI-R1 data bundle",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/ritzzai/GUI-R1/raw/main/README.md",
+      "target_id": "arxiv:2504.10458",
       "type": "documented_by"
     },
     {
@@ -1843,6 +2011,22 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:f35cfcbaeb79663eabeb",
+      "source_name": "Holo1 7B",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/Hcompany/Holo1-7B/raw/main/README.md",
+      "target_id": "arxiv:2506.02865",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:f70aa7c95824a8729516",
+      "source_name": "ShowUI-π checkpoint",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/showlab/ShowUI-pi/raw/main/README.md",
+      "target_id": "arxiv:2512.24965",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:f8566bd0394d36ed4f8e",
       "source_name": "Aria-UI Data",
       "source_kind": "dataset",
@@ -1872,6 +2056,14 @@
       "source_kind": "model",
       "evidence_url": "https://huggingface.co/jcwang0602/Seg2Click-Qwen3.5-2B/raw/main/README.md",
       "target_id": "arxiv:2610.16234",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:ff7b1873a3eead89607a",
+      "source_name": "ScaleCUA 7B",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/OpenGVLab/ScaleCUA/HEAD/README.md",
+      "target_id": "arxiv:2509.15221",
       "type": "documented_by"
     }
   ]

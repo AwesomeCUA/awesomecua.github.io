@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Pakhrur Razi, Amalia Putri, Josaphat Tetuko Sri Sumantyo, Akmam
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2501.02210v1
+- First submission: 2025-01-04T06:36:27Z
+- Version updated: 2025-01-04T06:36:27Z
+- Abstract SHA-256: 758d3f0863bef3cbc5fa5d3cd074b629d9516cb7b12ee3bc0f1358cb0e1e4f85
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

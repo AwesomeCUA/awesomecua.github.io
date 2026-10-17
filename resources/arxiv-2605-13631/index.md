@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kebin Contreras, Carlos Hinojosa, Jorge Bacca, Bernard Ghanem
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2605.13631v2
+- First submission: 2026-05-13T14:58:24Z
+- Version updated: 2026-06-10T08:07:41Z
+- Abstract SHA-256: f7dcca695e0d360449d87220082826faffefcd9b0e543b60718f00e60db40739
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

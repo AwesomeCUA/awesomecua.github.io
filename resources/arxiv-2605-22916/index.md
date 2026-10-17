@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 P. Ondratschek, D. Przybylski, H. N. Smitha, J. Leenaarts, R. Cameron, S. K. Solanki
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.22916v1
+- First submission: 2026-05-21T18:00:34Z
+- Version updated: 2026-05-21T18:00:34Z
+- Abstract SHA-256: 5b8a033df037c77f764cfbea0e487b6c2be972752164d9e047df4e9b8f595170
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

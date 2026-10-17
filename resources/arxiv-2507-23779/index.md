@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Miaosen Zhang, Ziqiang Xu, Jialiang Zhu, Qi Dai, Kai Qiu, Yifan Yang, Chong Luo, Tianyi Chen, Justin Wagle, Tim Franklin, Baining Guo
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2507.23779v1
+- First submission: 2025-07-31T17:59:09Z
+- Version updated: 2025-07-31T17:59:09Z
+- Abstract SHA-256: 2a7a32f30d2ada7f739e460429b6453d0e0e56364dda8653b0511ef2e9e6df2a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Michael Lutz, Arth Bohra, Manvel Saroyan, Artem Harutyunyan, Giovanni Campagna
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2404.05902v1
+- First submission: 2024-04-08T23:10:47Z
+- Version updated: 2024-04-08T23:10:47Z
+- Abstract SHA-256: 4c18dbfedcccf6434b3a50a9aa62552372df8b772ccda6a1aa699a8f052476bc
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

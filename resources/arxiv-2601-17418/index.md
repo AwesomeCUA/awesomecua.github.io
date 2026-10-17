@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Mingxian Yu, Siqi Luo, Xu Chen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2601.17418v1
+- First submission: 2026-01-24T11:35:37Z
+- Version updated: 2026-01-24T11:35:37Z
+- Abstract SHA-256: 4ce0909d1c9081f099ae0dc0b0182e0442fd71fd58c62b13d486d154afc2187e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

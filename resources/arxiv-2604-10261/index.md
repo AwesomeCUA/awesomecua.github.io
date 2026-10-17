@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zae Myung Kim, Dongseok Lee, Jaehyung Kim, Vipul Raheja, Dongyeop Kang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2604.10261v2
+- First submission: 2026-04-11T15:58:29Z
+- Version updated: 2026-04-17T01:52:26Z
+- Abstract SHA-256: ebd6aa6ffaabd40e023f4b69cdacbb59b108ef2a79b5a184b99ec4d3676fc12d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

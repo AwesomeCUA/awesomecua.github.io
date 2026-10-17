@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Wenyue Hua, Mengting Wan, Shashank Vadrevu, Ryan Nadel, Yongfeng Zhang, Chi Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2410.00079v1
+- First submission: 2024-09-30T16:52:51Z
+- Version updated: 2024-09-30T16:52:51Z
+- Abstract SHA-256: 6f4c873d1dd443ffc18fc4b63595fdfc726eb84388eddbfced0dcde67c5e19a7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

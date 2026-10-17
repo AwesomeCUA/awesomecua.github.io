@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yanhang Li, Zhichao Fan, Zexin Zhuang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.22864v1
+- First submission: 2026-06-22T05:13:25Z
+- Version updated: 2026-06-22T05:13:25Z
+- Abstract SHA-256: 64d3fde34f6900366244901080c8c987da5bec6af51df37a5b03f6de179745ab
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Runhua Xu, James Joshi
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2011.06191v2
+- First submission: 2020-11-12T04:28:04Z
+- Version updated: 2020-12-07T17:39:03Z
+- Abstract SHA-256: c526d1a627dbe5a03c3a82067133368ea68788b1f5480fc08ac783b8ccbc613b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

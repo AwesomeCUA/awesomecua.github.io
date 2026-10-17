@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jiazheng Sun, Ruimeng Yang, Xu Han, Jiayang Niu, Mingxuan Li, Te Yang, Yongyong Lu, Xin Peng
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2509.20729v2
+- First submission: 2025-09-25T04:21:31Z
+- Version updated: 2025-12-01T08:01:05Z
+- Abstract SHA-256: 571eee6476c9e75ffae65cf98ec589e98fd3b953313cc6d2191bb48bd27303fe
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

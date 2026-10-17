@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Peitong Duan, Chin-yi Chen, Gang Li, Bjoern Hartmann, Yang Li
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2407.08850v3
+- First submission: 2024-07-11T20:18:19Z
+- Version updated: 2024-08-13T23:41:43Z
+- Abstract SHA-256: 390a7415ad5f665de43f7d294e0a575785ef7e2810dead3363632174b2986af4
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

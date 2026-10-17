@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Wenkui Yang, Chao Jin, Haisu Zhu, Weilin Luo, Derek Yuen, Kun Shao, Junxian Duan, Huaibo Huang, Jie Cao, Ran He
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2604.07831v2
+- First submission: 2026-04-09T05:32:34Z
+- Version updated: 2026-07-08T02:39:35Z
+- Abstract SHA-256: a5427eedff0e97f9c73101403754c38e8928ad71abab7b7eff5f136a30ee2205
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

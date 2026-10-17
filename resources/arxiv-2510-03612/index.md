@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Tanqiu Jiang, Min Bai, Nikolaos Pappas, Yanjun Qi, Sandesh Swamy
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2510.03612v1
+- First submission: 2025-10-04T01:57:20Z
+- Version updated: 2025-10-04T01:57:20Z
+- Abstract SHA-256: 1389b3ccafad820f5b9f5c306bbcdbaa27fe4d5918c83bb8535c9eadd6ff2468
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

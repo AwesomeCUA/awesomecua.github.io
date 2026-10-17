@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Ori Yoran, Samuel Joseph Amouyal, Chaitanya Malaviya, Ben Bogin, Ofir Press, Jonathan Berant
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2407.15711v2
+- First submission: 2024-07-22T15:18:45Z
+- Version updated: 2024-10-21T15:45:31Z
+- Abstract SHA-256: 2f028fb7f4d64fd4c29886d49b5d6f0fabddba309b669e019edf13586deb9c90
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

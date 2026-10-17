@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zikai Xiao, Jianhong Tu, Chuhang Zou, Yuxin Zuo, Zhi Li, Peng Wang, Bowen Yu, Fei Huang, Junyang Lin, Zuozhu Liu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2602.14721v1
+- First submission: 2026-02-16T13:06:49Z
+- Version updated: 2026-02-16T13:06:49Z
+- Abstract SHA-256: 2dca0e4219a788205bbb060911d0f004d1db4cf2ff8a4962c04fd5777ea194d7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

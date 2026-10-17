@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Tao Xiong, Xavier Hu, Yurun Chen, Yuhang Liu, Changqiao Wu, Pengzhi Gao, Wei Liu, Jian Luan, Shengyu Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2509.23263v3
+- First submission: 2025-09-27T11:42:36Z
+- Version updated: 2026-08-30T18:12:14Z
+- Abstract SHA-256: 5b5375e77f087367383bb5de96cec46d8de6550d9a44bff6965b9201b6718a05
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

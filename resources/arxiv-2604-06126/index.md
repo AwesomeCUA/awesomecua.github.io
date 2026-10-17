@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Pranjal Aggarwal, Graham Neubig, Sean Welleck
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.06126v1
+- First submission: 2026-04-07T17:38:15Z
+- Version updated: 2026-04-07T17:38:15Z
+- Abstract SHA-256: fdd9cb6daad8832261ebe861fc1cb74429b819305e14ecfeb9698616013e6ac8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

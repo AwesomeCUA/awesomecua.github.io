@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Junlong Li, Chao Hao, Lap-Pui Chau, Yi Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.30884v1
+- First submission: 2026-05-29T06:17:53Z
+- Version updated: 2026-05-29T06:17:53Z
+- Abstract SHA-256: dca6a268882b5e740d88188c625f3587f9c8c18b62a8e302428680e68f0f3978
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

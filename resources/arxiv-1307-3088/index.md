@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Dave Murray-Rust, Peter Murray-Rust
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1307.3088v1
+- First submission: 2013-07-11T12:35:11Z
+- Version updated: 2013-07-11T12:35:11Z
+- Abstract SHA-256: 38f8d515d8e5ba7e0ba7fde396ebbb23f1e983e58c748b37c83e44fd9e9486c0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

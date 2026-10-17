@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Behzad Hasani, Pooran Singh Negi, Mohammad H. Mahoor
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2004.08495v1
+- First submission: 2020-04-18T00:26:36Z
+- Version updated: 2020-04-18T00:26:36Z
+- Abstract SHA-256: 325421d070c8a503b0beb13c5c1d0be0d989335027874269e754ab88e940856f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jingwei Sun, Jianing Zhu, Yuanyi Li, Tongliang Liu, Xia HU, Bo Han
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.25707v1
+- First submission: 2026-05-25T11:09:22Z
+- Version updated: 2026-05-25T11:09:22Z
+- Abstract SHA-256: d48aff278b0f77b0f28505ca16ffc121b5c10ab838b92c8c17254000b763c0ad
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

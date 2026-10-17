@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ankit Shukla, Laura Heller, Md Golam Morshed, Laura Rehm, Avik W. Ghosh, Andrew D. Kent, Shaloo Rakheja
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2304.08808v1
+- First submission: 2023-04-18T08:17:31Z
+- Version updated: 2023-04-18T08:17:31Z
+- Abstract SHA-256: 008aed6959b4bf8ebda80c63cea9857b8c6ffa5d3f566dfdbcaed070550bbc31
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

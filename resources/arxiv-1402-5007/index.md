@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Romain Garnier, André Barka, Olivier Pascal
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1402.5007v1
+- First submission: 2014-02-20T14:16:33Z
+- Version updated: 2014-02-20T14:16:33Z
+- Abstract SHA-256: 4b97b702ea1f18a0f73cafe5db027ef3466ef022dafe4fa702f0cd8028b9a2bd
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

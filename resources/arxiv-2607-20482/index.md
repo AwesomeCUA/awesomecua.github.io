@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Seungbin Yang, Chaewoon Ki, Dohyun Lee, Jaegul Choo, ChaeHun Park
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2607.20482v2
+- First submission: 2026-05-30T13:27:55Z
+- Version updated: 2026-08-04T07:30:15Z
+- Abstract SHA-256: 36e975245dab12dcbf586a7bc4ff5fca95402d58740146d210da37d4e6d6afe0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

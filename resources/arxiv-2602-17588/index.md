@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Faria Huq, Zora Zhiruo Wang, Zhanqiu Guo, Venu Arvind Arangarajan, Tianyue Ou, Frank Xu, Shuyan Zhou, Graham Neubig, Jeffrey P. Bigham
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2602.17588v4
+- First submission: 2026-02-19T18:11:28Z
+- Version updated: 2026-07-07T23:37:46Z
+- Abstract SHA-256: fe83d38ece7cd8f39d932611abaf7a170e7cb9b7c9744bd1176eb42e73be85b5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

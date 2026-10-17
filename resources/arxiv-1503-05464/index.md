@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 François-Henry Rouet, Xiaoye S. Li, Pieter Ghysels, Artem Napov
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/1503.05464v2
+- First submission: 2015-03-18T16:01:25Z
+- Version updated: 2015-06-26T18:59:36Z
+- Abstract SHA-256: 284b1d8a91fd59b678404e204f97753d5eeaed12f4911b114e8baca226ccd60c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

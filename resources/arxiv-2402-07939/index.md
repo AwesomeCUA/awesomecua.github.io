@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Chaoyun Zhang, Liqun Li, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma, Yu Kang, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 5
+- Version source: https://arxiv.org/abs/2402.07939v5
+- First submission: 2024-02-08T15:40:35Z
+- Version updated: 2024-05-23T05:18:58Z
+- Abstract SHA-256: 533acb1c9aa3f1c77adb2c67779da86e3d5de95264ba3ec1f81d803f67da7753
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

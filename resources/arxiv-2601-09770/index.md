@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Chen Chen, Jiawei Shao, Dakuan Lu, Haoyi Hu, Xiangcheng Liu, Hantao Yao, Wu Liu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2601.09770v1
+- First submission: 2026-01-14T14:27:28Z
+- Version updated: 2026-01-14T14:27:28Z
+- Abstract SHA-256: 0d5ed7e72534fc55d028d4f25cb98b2373c88b622cf76396933d7a49d8ecf2e8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

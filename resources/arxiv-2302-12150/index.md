@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xiaoguo Li, Bowen Zhao, Guomin Yang, Tao Xiang, Jian Weng, Robert H. Deng
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2302.12150v1
+- First submission: 2023-02-23T16:33:56Z
+- Version updated: 2023-02-23T16:33:56Z
+- Abstract SHA-256: 84d589792ed9edffdec9ca1a81b044d222463e824a64593ef3671009610fe598
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shengjie Jin, Hengbo Xu, Zelong Sun, YuJie Guo, Zhiwu Lu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.39306v1
+- First submission: 2026-09-30T08:49:03Z
+- Version updated: 2026-09-30T08:49:03Z
+- Abstract SHA-256: b7206bc9c4842e6488955151a161a526dbbf81407ccb83865029cfef02542fe9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

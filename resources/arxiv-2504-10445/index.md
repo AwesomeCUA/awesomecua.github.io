@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Suyu Ye, Haojun Shi, Darren Shih, Hyokun Yun, Tanya Roosta, Tianmin Shu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2504.10445v2
+- First submission: 2025-04-14T17:36:46Z
+- Version updated: 2025-12-01T15:22:40Z
+- Abstract SHA-256: 268adf347e1f224f434e6dba838873c99a4050686cae1495643d9638d840d809
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

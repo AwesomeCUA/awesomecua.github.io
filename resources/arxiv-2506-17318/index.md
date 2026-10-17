@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Atharv Singh Patlan, Ashwin Hebbar, Pramod Viswanath, Prateek Mittal
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2506.17318v1
+- First submission: 2025-06-18T14:29:02Z
+- Version updated: 2025-06-18T14:29:02Z
+- Abstract SHA-256: 2d346389013d465f578417a7fca80ee527f5e7b582e93eb73dae148f11479971
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

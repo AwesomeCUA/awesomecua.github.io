@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yincheng Zhou, Athena Zhuoming Zhong, Shijie Zhang, Kevin Zhang, Teresa Xiaotao Shang, Shanghang Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.22948v1
+- First submission: 2026-06-22T07:28:55Z
+- Version updated: 2026-06-22T07:28:55Z
+- Abstract SHA-256: fbd8892e06a5e847c16aa3101b98b3d669a783b84ee8e3d4d4d810754914028b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yubo Dong, Xukun Zhu, Zhengzhe Pan, Linchao Zhu, Yi Yang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2406.05720v1
+- First submission: 2024-06-09T10:21:47Z
+- Version updated: 2024-06-09T10:21:47Z
+- Abstract SHA-256: 433d4543f0f4a3a23dfff71f44c3233d940169380a63d531cfec052041cd2720
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

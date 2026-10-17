@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sivaprasad Omanakuttan
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2405.07885v1
+- First submission: 2024-05-13T16:19:31Z
+- Version updated: 2024-05-13T16:19:31Z
+- Abstract SHA-256: ed5c7083362c3a9b5d659f2560030f4be488aa3a83f4c77aa5832e2358bf6ec6
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

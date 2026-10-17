@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Akira Imakura, Keiichi Morikuni, Akitoshi Takayasu
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2110.01822v3
+- First submission: 2021-10-05T05:04:27Z
+- Version updated: 2022-10-25T06:19:04Z
+- Abstract SHA-256: 979e942932bd25fff3f0b97bb6d06a2ace61e02c2b40de4823b794a41c384fd6
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

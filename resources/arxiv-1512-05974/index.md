@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Omar Darwish, Kurt Mehlhorn
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/1512.05974v2
+- First submission: 2015-12-18T14:41:01Z
+- Version updated: 2016-05-13T11:34:17Z
+- Abstract SHA-256: 28af23771f3e341dd126dc42d87be1812607fc29f364614af9bd88d8d8484f47
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

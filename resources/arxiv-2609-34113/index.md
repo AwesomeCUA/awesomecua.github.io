@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Shaoqing Zhang, Kehai Chen, Xuefeng Bai, Zhuosheng Zhang, Pengfei Zhang, Yang Xiang, Min Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2609.34113v2
+- First submission: 2026-09-28T01:48:48Z
+- Version updated: 2026-09-29T09:05:42Z
+- Abstract SHA-256: 2f4116455785579ece9a2ff1bae304b62f1cbe13a91db8d146bd281a27d19eb0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

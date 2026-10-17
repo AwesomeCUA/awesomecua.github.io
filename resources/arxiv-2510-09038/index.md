@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Wenyi Wu, Kun Zhou, Ruoxin Yuan, Vivian Yu, Stephen Wang, Zhiting Hu, Biwei Huang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2510.09038v1
+- First submission: 2025-10-10T06:16:45Z
+- Version updated: 2025-10-10T06:16:45Z
+- Abstract SHA-256: 43c41dfbef8b76bbdccd7c435694cee8788b116db278122f64a22e7498bd5a5a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

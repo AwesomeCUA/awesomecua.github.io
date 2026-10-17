@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yu Han, Tianwen Qian
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.27508v1
+- First submission: 2026-08-27T07:09:28Z
+- Version updated: 2026-08-27T07:09:28Z
+- Abstract SHA-256: 576702fae164cbcb4adc86a81115487aae7e1c40cf07a1ecf3ef7c4c7e822c3b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 David Schwerdt, Lee Peleg, Yotam Shapira, Nadav Priel, Yanay Florshaim, Avram Gross, Ayelet Zalic, Gadi Afek, Nitzan Akerman, Ady Stern, Amit Ben Kish, Roee Ozeri
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2311.01168v3
+- First submission: 2023-11-02T12:06:49Z
+- Version updated: 2024-11-04T13:35:50Z
+- Abstract SHA-256: a62d6e7b8b614a319cdcf60d2a960196abcd881cf1fd3a32b85b7f4fe183bf93
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Alham Fikri Aji, Faiz Rizki Ramadhan, Zayd M. K. Zuhri, Seung Hun Eddie Han, Ryandito Diandaru, Qinrong Cui, Jan Christian Blaise Cruz, Badrinath Chandana, Peerawat Chomphooyod, Ahmed Attia, Jonibek Mansurov, Emilio Villa-Cueva, Canh Duong Nguyen, Imran Turganov, Minghao Wu, Peerat Limkonchotiwat, Irina Nikishina
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.03574v1
+- First submission: 2026-10-02T16:48:49Z
+- Version updated: 2026-10-02T16:48:49Z
+- Abstract SHA-256: 31b58479f71502134f996fbdedb1dfc6fcaf4053ea8dba617a7bb538336751ec
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

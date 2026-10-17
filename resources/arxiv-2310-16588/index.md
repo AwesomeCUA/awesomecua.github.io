@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Bernard J. Giron Castro, Christophe Peucheret, Darko Zibar, Francesco Da Ros
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2310.16588v2
+- First submission: 2023-10-25T12:24:56Z
+- Version updated: 2024-04-27T18:25:51Z
+- Abstract SHA-256: 4414c8aa9183d05f24b76972f40b6d5fa3257b84ff45b7b497c5c7947d2a1590
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

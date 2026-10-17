@@ -20,6 +20,15 @@ Inclusion does not establish reproducibility or endorsement.
 
 Fei Tang, Haolei Xu, Hang Zhang, Siqi Chen, Xingyu Wu, Yongliang Shen, Wenqi Zhang, Guiyang Hou, Zeqi Tan, Yuchen Yan, Kaitao Song, Jian Shao, Weiming Lu, Jun Xiao, Yueting Zhuang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2504.13865v2
+- First submission: 2025-03-27T17:58:31Z
+- Version updated: 2025-06-04T17:29:13Z
+- Abstract SHA-256: 216d0605205cfd7f17ffd7d7f4c9752577ca427f370df42faf4a2250b80bcc39
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

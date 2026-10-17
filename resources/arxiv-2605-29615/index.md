@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Linhao Zhang, Aiwei Liu, Yuan Liu, Xiao Zhou
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.29615v1
+- First submission: 2026-05-28T08:50:34Z
+- Version updated: 2026-05-28T08:50:34Z
+- Abstract SHA-256: b56124d77060b30f678642bc046d4295822255bf14b4087659be403da01f2f25
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

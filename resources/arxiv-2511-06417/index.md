@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xiangwu Guo, Difei Gao, Mike Zheng Shou
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2511.06417v1
+- First submission: 2025-11-09T15:13:45Z
+- Version updated: 2025-11-09T15:13:45Z
+- Abstract SHA-256: 8a5f43873a47e5b47250cedd3d860abe2dc5ec9b85fe657444bf2b7378f3e8f7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

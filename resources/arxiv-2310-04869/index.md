@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yue Jiang, Eldon Schoop, Amanda Swearngin, Jeffrey Nichols
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2310.04869v1
+- First submission: 2023-10-07T16:32:34Z
+- Version updated: 2023-10-07T16:32:34Z
+- Abstract SHA-256: a49e879891017071fce4df0ff4b07bd9e8b5a6e14385af565549aadbde1bc1cf
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

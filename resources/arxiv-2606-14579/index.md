@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xinyu Qiu, Yunzhu Zhang, Heng Jia, Shuheng Shen, Changhua Meng, Linchao Zhu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.14579v1
+- First submission: 2026-06-12T15:58:18Z
+- Version updated: 2026-06-12T15:58:18Z
+- Abstract SHA-256: 1a5e949a760f236c08ae3cebc32d8a52220b1101f5324770d40bd7d054351f6a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

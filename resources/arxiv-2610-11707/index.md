@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yudong Bai, Yihong Chen, Quanming Yao, Yaqing Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.11707v1
+- First submission: 2026-10-08T11:12:57Z
+- Version updated: 2026-10-08T11:12:57Z
+- Abstract SHA-256: 2627960a5698d4c2f245e91ca5033be8c09e8a1ddea02490fcc1ed9f3d42217d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Aradhana Nayak, Mussadiq Nazeer, Wang Peng, Feng Liu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.25705v1
+- First submission: 2026-06-24T11:18:01Z
+- Version updated: 2026-06-24T11:18:01Z
+- Abstract SHA-256: 3c5a2d0e461b011e2d5b9dbd73012d007261d8df37bd1d687fa3bd86dc6f2246
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

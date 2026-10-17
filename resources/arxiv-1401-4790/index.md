@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Dheerendra Mishra
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1401.4790v1
+- First submission: 2014-01-20T04:29:25Z
+- Version updated: 2014-01-20T04:29:25Z
+- Abstract SHA-256: 37c102076739ba033479f05e1750acf1e65414c812c3f80eeec966fc723c8bad
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

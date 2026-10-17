@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sefik Serengil, Alper Ozpinar
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2503.05850v1
+- First submission: 2025-03-07T09:52:16Z
+- Version updated: 2025-03-07T09:52:16Z
+- Abstract SHA-256: 2338dbb1948fd9123684063d040409e5949783c862bfa7656139b52ee2cb5530
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

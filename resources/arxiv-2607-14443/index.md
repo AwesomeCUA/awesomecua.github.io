@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yong Liu, Zhenyi Zhong, Zhanpeng Shi
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2607.14443v1
+- First submission: 2026-07-16T00:35:25Z
+- Version updated: 2026-07-16T00:35:25Z
+- Abstract SHA-256: a779b2c1ff9ba3b531d399204b0986e3affcea81c67fdd7951e3b7da343b0e17
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

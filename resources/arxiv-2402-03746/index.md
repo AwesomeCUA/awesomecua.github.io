@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Daechul Ahn, Yura Choi, Youngjae Yu, Dongyeop Kang, Jonghyun Choi
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2402.03746v3
+- First submission: 2024-02-06T06:27:40Z
+- Version updated: 2024-06-17T08:20:33Z
+- Abstract SHA-256: e58de9044baa1c996b2297d0fb9a9cedc2e2f62621ad0adc7e155f81d92ec277
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

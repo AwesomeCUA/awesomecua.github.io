@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Neeraj Anand, Rishabh Jain, Sohan Patnaik, Balaji Krishnamurthy, Mausoom Sarkar
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2512.00846v2
+- First submission: 2025-11-30T11:32:54Z
+- Version updated: 2025-12-11T18:16:38Z
+- Abstract SHA-256: faad266b89aed9b210a813b69184d7236f9098c0e095cc426402e154cbdd067b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

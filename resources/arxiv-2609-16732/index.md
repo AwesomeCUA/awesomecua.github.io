@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Heng Li, Fulin Zhao, Zhe Geng, Zhiyuan Yao, Wei Yuan, Xiapu Luo
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.16732v1
+- First submission: 2026-09-15T07:02:10Z
+- Version updated: 2026-09-15T07:02:10Z
+- Abstract SHA-256: b86516b7695d23ffc9179c0829209dc28b96c3c819525eab62a293a68ab5daf0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

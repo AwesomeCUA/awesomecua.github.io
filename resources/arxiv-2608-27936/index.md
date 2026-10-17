@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Dong-Yeop Na, Somyeong Lee, Chung Hyun Lee
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.27936v1
+- First submission: 2026-08-28T05:26:54Z
+- Version updated: 2026-08-28T05:26:54Z
+- Abstract SHA-256: 2b72b85257a47ae99244ea761428e7ea5fd629fe7b8f659e4a498a808963cc15
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

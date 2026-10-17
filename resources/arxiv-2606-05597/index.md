@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Hao Bai, Rui Yang, Chenlu Ye, Spencer Whitehead, Aviral Kumar, Tong Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2606.05597v3
+- First submission: 2026-06-04T02:18:44Z
+- Version updated: 2026-08-07T17:58:32Z
+- Abstract SHA-256: 8a8afe44ffa73739505070c5f8004d8b4bbe98455fc0f5f3cef4b450bf441c74
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

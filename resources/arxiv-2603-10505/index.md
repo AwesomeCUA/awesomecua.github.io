@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Hyungjoo Chae, Jungsoo Park, Alan Ritter
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2603.10505v1
+- First submission: 2026-03-11T07:58:53Z
+- Version updated: 2026-03-11T07:58:53Z
+- Abstract SHA-256: 178b2140d0c70ded39fede20bc91d1459d0a4bf65c5cb6a63c09c9db73828513
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

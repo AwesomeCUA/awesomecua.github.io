@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Jingqi Yang, Zhilong Song, Jiawei Chen, Mingli Song, Sheng Zhou, linjun sun, Xiaogang Ouyang, Chun Chen, Can Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2506.14477v1
+- First submission: 2025-06-17T12:50:35Z
+- Version updated: 2025-06-17T12:50:35Z
+- Abstract SHA-256: f9e64118f03c2a9f3f55e35f79c38835f1eb823265c83c933fdceca2610b9904
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

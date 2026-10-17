@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Sarim Hashmi, Mukul Ranjan, Kshitij Mishra, Mikhail Kuznetsov, Praneeth Vepakomma, Nils Lukas
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.08773v1
+- First submission: 2026-10-06T17:56:43Z
+- Version updated: 2026-10-06T17:56:43Z
+- Abstract SHA-256: 7113025e0dfd784d6994108c24681000625b13598e33ad0e4324e90fd2832c19
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

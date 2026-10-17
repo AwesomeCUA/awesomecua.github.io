@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuxuan Lu, Ziyi Wang, Jing Huang, Hui Liu, Jiri Gesi, Yan Han, Shihan Fu, Tianqi Zheng, Xianfeng Tang, Chen Luo, Yisi Sang, Jin Lai, Dakuo Wang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2510.16252v2
+- First submission: 2025-10-17T22:54:33Z
+- Version updated: 2026-05-17T17:26:55Z
+- Abstract SHA-256: a9a1f8ebdf70ff2fa7b0c807160cd583c0f017a536457ff5915e589fca5fa751
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

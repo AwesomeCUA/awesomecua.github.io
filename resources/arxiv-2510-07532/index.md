@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Debadrito Roy, Aryaman Manish Kolhe, V. Lalitha, Navin Kashyap
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2510.07532v2
+- First submission: 2025-10-08T20:49:49Z
+- Version updated: 2025-10-10T09:52:40Z
+- Abstract SHA-256: 729eddd4d6c75381ae286635ed8aecd97e9d92f735c377c51570adc2728e56c6
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

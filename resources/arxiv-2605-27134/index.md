@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Heng Qu, Yike Liu, Renren Jin, Wenzong Zhang, Pengzhi Gao, Wei Liu, Jian Luan
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.27134v1
+- First submission: 2026-05-26T15:03:56Z
+- Version updated: 2026-05-26T15:03:56Z
+- Abstract SHA-256: c12f0337cbc49b1dbb7e4192a5af1a1704d4c561712118ab92147ba09ea8d880
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

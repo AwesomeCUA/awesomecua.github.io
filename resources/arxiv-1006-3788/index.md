@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jonathan Thornburg
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1006.3788v1
+- First submission: 2010-06-18T19:54:32Z
+- Version updated: 2010-06-18T19:54:32Z
+- Abstract SHA-256: e0673aecc4ea60ef5f73e38c4ce6b6a95d48d0f446c190c414f4c989f50efce1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

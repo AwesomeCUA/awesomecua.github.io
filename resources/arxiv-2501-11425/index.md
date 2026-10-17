@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Siyu Yuan, Zehui Chen, Zhiheng Xi, Junjie Ye, Zhengyin Du, Jiecao Chen
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2501.11425v3
+- First submission: 2025-01-20T11:46:04Z
+- Version updated: 2025-03-24T10:18:56Z
+- Abstract SHA-256: 692a6984b464367c99beb9c5fbd4bbd8378e79f4a4b749503c8fbb72dd80b16f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

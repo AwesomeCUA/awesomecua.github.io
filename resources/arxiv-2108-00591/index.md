@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Mohammad Goudarzi, Qifan Deng, Rajkumar Buyya
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2108.00591v1
+- First submission: 2021-08-02T01:55:41Z
+- Version updated: 2021-08-02T01:55:41Z
+- Abstract SHA-256: fc2cd57d488b6f7575f3a740590371a200bb1c21d73029adb0126af7c53fb4a3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

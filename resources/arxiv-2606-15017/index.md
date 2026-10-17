@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sina Hajimiri, Masih Aminbeidokhti, Jose Dolz, Ismail Ben Ayed, Issam H. Laradji, Spandana Gella, Nicolas Gontier
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2606.15017v2
+- First submission: 2026-06-12T23:30:14Z
+- Version updated: 2026-08-30T17:49:13Z
+- Abstract SHA-256: 50f1acd5727f84946cf95d181f270dbc4f46f15d24339e6cb257fea1b23b21a0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

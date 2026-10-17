@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ash Jennings, Xianjing Zhou, Ivan Grytsenko, Erika Kawakami
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2310.04119v3
+- First submission: 2023-10-06T09:38:37Z
+- Version updated: 2023-12-28T07:23:16Z
+- Abstract SHA-256: 7c8a6868e58d7b4e3c754620f904f976f79c0b0a4360cb5e5457d9e0e69ed0ab
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

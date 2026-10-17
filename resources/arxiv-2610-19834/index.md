@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Md Farhan Ishmam, Kenneth Marino
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.19834v1
+- First submission: 2026-10-14T09:06:49Z
+- Version updated: 2026-10-14T09:06:49Z
+- Abstract SHA-256: 6d154a14c5ac85fb352721c203fe7bd709eaba4287ef7376e6a6f5fc395708f1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

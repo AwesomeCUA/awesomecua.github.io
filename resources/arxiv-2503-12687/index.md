@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Naveen Krishnan
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2503.12687v1
+- First submission: 2025-03-16T23:07:48Z
+- Version updated: 2025-03-16T23:07:48Z
+- Abstract SHA-256: 1c7d22ba984bb2ddf84a45dd9abfbfc6f770682133a124229ae680f2d6afbed3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

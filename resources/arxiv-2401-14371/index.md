@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Enrico Picco, Lina Jaurigue, Kathy Lüdge, Serge Massar
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2401.14371v1
+- First submission: 2024-01-25T18:20:37Z
+- Version updated: 2024-01-25T18:20:37Z
+- Abstract SHA-256: 3288597edca7b77ba05d5c11a24732582385874404ee728bd5ebba40b25d8be0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

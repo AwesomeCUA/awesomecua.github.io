@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Chang Ma, Junlei Zhang, Zhihao Zhu, Cheng Yang, Yujiu Yang, Yaohui Jin, Zhenzhong Lan, Lingpeng Kong, Junxian He
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2401.13178v2
+- First submission: 2024-01-24T01:51:00Z
+- Version updated: 2024-12-23T20:12:48Z
+- Abstract SHA-256: 22c5a60f9ed7a8488ec31fbf24d392e9674b0cae79ab1b269fd9d57202025801
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Joshua Adamek, Natalie Carl, Trever Schirmer, Moritz Heinlein, David Bermbach, Sergio Lucia
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2608.14427v2
+- First submission: 2026-08-14T16:08:49Z
+- Version updated: 2026-08-26T13:00:40Z
+- Abstract SHA-256: f02e6b123dd26e8ed15ce9d8ed1acd615e2249b4e254453c5e6a26f15929a78d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

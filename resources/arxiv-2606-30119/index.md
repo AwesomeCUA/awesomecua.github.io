@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Iliana Fayolle, Sihem Bouhenniche, Samuel Pélissier, Pierre Laperdrix, Clémentine Maurice, Walter Rudametkin
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.30119v1
+- First submission: 2026-06-29T10:51:13Z
+- Version updated: 2026-06-29T10:51:13Z
+- Abstract SHA-256: 770c901e3490b2a43b02296136825e8e6bd035fb7494ea74b3a9af74be1afed1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

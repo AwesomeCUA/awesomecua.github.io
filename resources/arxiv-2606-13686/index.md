@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zijing Shi, Meng Fang, Ling Chen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.13686v1
+- First submission: 2026-04-26T17:46:28Z
+- Version updated: 2026-04-26T17:46:28Z
+- Abstract SHA-256: 73b6da2bbce19e91f4aedbabb7544051ac898c78aad3069cbce71b3c2b44865a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

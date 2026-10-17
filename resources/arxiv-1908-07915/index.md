@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Takahiro Maekawa, Ayana Kawamura, Takayuki Nakachi, Hitoshi Kiya
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1908.07915v1
+- First submission: 2019-08-20T08:05:18Z
+- Version updated: 2019-08-20T08:05:18Z
+- Abstract SHA-256: 4333c5305d850e58c014b54de83bc2fbaabe2bce6bf2d9cf3320b13b6a9b11b8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

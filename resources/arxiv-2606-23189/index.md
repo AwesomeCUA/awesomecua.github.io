@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Anmol Goel, Iryna Gurevych
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2606.23189v2
+- First submission: 2026-06-22T11:36:58Z
+- Version updated: 2026-09-10T18:49:54Z
+- Abstract SHA-256: da8190bc5afc0bae400fc8ab5e7d80a7f34488c3400dce4477ca61635b19d5b7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

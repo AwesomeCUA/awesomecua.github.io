@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jiateng Liu, Zhenhailong Wang, Rushi Wang, Bingxuan Li, Jeonghwan Kim, Aditi Tiwari, Pengfei Yu, Denghui Zhang, Heng Ji
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2603.07978v1
+- First submission: 2026-03-09T05:27:56Z
+- Version updated: 2026-03-09T05:27:56Z
+- Abstract SHA-256: 77eb68f31d616b8e542dbb41ada67f28bdc21f29f7da3f04a0077c0fa2d10196
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

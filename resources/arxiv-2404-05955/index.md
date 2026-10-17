@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Junpeng Liu, Yifan Song, Bill Yuchen Lin, Wai Lam, Graham Neubig, Yuanzhi Li, Xiang Yue
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2404.05955v1
+- First submission: 2024-04-09T02:29:39Z
+- Version updated: 2024-04-09T02:29:39Z
+- Abstract SHA-256: 7414bfa289baf86a8f2bb54f3f69f25a6a4cc8516fb0296a1899d21ad3020d4f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

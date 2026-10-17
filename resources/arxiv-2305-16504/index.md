@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Qiantong Xu, Fenglu Hong, Bo Li, Changran Hu, Zhengyu Chen, Jian Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2305.16504v1
+- First submission: 2023-05-25T22:10:20Z
+- Version updated: 2023-05-25T22:10:20Z
+- Abstract SHA-256: 819b5bf1cef7b8f674cab337c972e1fd365ffc3f188cf4c169d55a3b5e692593
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

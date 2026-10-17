@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuxiang Chai, Shunye Tang, Han Xiao, Rui Liu, Hongsheng Li
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2603.08013v1
+- First submission: 2026-03-09T06:41:32Z
+- Version updated: 2026-03-09T06:41:32Z
+- Abstract SHA-256: 7334e01b1fbf5cdd02c275c73d2a1b5c2931718d6019fcf6a0ea72b449704d94
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

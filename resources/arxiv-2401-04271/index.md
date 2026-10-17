@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sivaprasad Omanakuttan, Vikas Buchemmavari, Jonathan A. Gross, Ivan H Deutsch, Milad Marvian
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2401.04271v4
+- First submission: 2024-01-08T22:56:05Z
+- Version updated: 2024-06-11T18:18:00Z
+- Abstract SHA-256: 5ca2bf9307655e4cf7acac9e17ad3ba5eab1c065b10d12caa4f5c8bb7035f1dc
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

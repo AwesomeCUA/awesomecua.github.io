@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sabrina Haque, Christoph Csallner
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2409.18060v2
+- First submission: 2024-09-26T17:01:33Z
+- Version updated: 2024-10-07T19:04:38Z
+- Abstract SHA-256: 2d927b7644f0c6b3a49fbdf1aa976a00f2409adf9a72e1c04333438f66f1014b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jianshuo Dong, Sheng Guo, Hao Wang, Xun Chen, Zhuotao Liu, Tianwei Zhang, Ke Xu, Minlie Huang, Han Qiu
 
+## Recorded arXiv snapshot
+
+- Version: 6
+- Version source: https://arxiv.org/abs/2509.23694v6
+- First submission: 2025-09-28T07:05:17Z
+- Version updated: 2026-06-03T04:13:57Z
+- Abstract SHA-256: 4086e28c460007ea347c4e4c0bae15b4d3484f835763cd863d14f87fb6dda773
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

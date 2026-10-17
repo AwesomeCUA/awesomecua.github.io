@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yadong Lu, Theodore Lee, Yifei Li, Lawrence Keunho Jang, Tianci Xue, Yu Su, Huan Sun, Ahmed Hassan Awadallah
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.04116v1
+- First submission: 2026-10-02T22:43:06Z
+- Version updated: 2026-10-02T22:43:06Z
+- Abstract SHA-256: 97af38af8647b769c129d917b65f8f744035308f6ace88706a4888a96fe345b9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Gonzalo Gonzalez-Pumariega, Vincent Tu, Chih-Lun Lee, Jiachen Yang, Ang Li, Xin Eric Wang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2510.02250v2
+- First submission: 2025-10-02T17:37:08Z
+- Version updated: 2026-02-03T23:48:45Z
+- Abstract SHA-256: 29c00ba4713da26f912fec8046d498b4fd10cf71a3109f66e92fa23f7cebcf44
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

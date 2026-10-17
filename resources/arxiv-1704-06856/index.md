@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Adam Strzebonski
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1704.06856v1
+- First submission: 2017-04-22T23:26:57Z
+- Version updated: 2017-04-22T23:26:57Z
+- Abstract SHA-256: 3fb0d1da953ceccefac54b5826652a966ede2517ac4bc4251be7f7872edb3f1d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

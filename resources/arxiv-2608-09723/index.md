@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Renshan Zhang, Haoyang Meng, Yixiao He, Rui Shao, April Hua Liu, Liqiang Nie
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.09723v1
+- First submission: 2026-08-10T15:23:52Z
+- Version updated: 2026-08-10T15:23:52Z
+- Abstract SHA-256: 87e9b3463232f606aea60df7d86626d5aa188e774b0fe515af43e1be49b1c66b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

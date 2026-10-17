@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Mathias Soeken, Thomas Häner, Martin Roetteler
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1803.01022v1
+- First submission: 2018-03-02T19:41:14Z
+- Version updated: 2018-03-02T19:41:14Z
+- Abstract SHA-256: 68f2d0ad784d0bd4d8b91fb14c3a004b2e85ca0586882049fd894ab6812de98e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

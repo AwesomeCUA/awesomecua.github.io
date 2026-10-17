@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Qingsong Xie, Jiahao Tian, Jiacheng Tang, Zhifeng Li, Madalina Ciobanu, Navan Preet Singh, Qingqing Mao, Ritankar Das
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.19100v1
+- First submission: 2026-10-13T19:37:49Z
+- Version updated: 2026-10-13T19:37:49Z
+- Abstract SHA-256: 08d90bcec690b238be96207602ca694759c8672fecbed85e30372dd314e4006e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

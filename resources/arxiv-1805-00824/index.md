@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Malik Hassanaly, Venkat Raman
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1805.00824v1
+- First submission: 2018-05-01T17:08:34Z
+- Version updated: 2018-05-01T17:08:34Z
+- Abstract SHA-256: a9d493eb3e359d5077262f00b2b9d95935ccadfaf7102d02867e23d9d9ddbceb
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

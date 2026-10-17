@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Han Xiao, Guozhi Wang, Hao Wang, Shilong Liu, Yuxiang Chai, Yue Pan, Yufeng Zhou, Xiaoxin Chen, Yafei Wen, Hongsheng Li
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2602.05832v1
+- First submission: 2026-02-05T16:21:43Z
+- Version updated: 2026-02-05T16:21:43Z
+- Abstract SHA-256: f51eb0b7102a37fcc705c53640c5a1d30fcc115cedcdca4a00493ed45b9d5507
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Qinchen Wu, Difei Gao, Kevin Qinghong Lin, Zhuoyu Wu, Xiangwu Guo, Peiran Li, Weichen Zhang, Hengxu Wang, Mike Zheng Shou
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2406.13719v1
+- First submission: 2024-06-19T17:22:11Z
+- Version updated: 2024-06-19T17:22:11Z
+- Abstract SHA-256: 369c32dba4bab0cfc05b41db16c73d5672605b7f81caabb2dbd72f581b3290ec
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

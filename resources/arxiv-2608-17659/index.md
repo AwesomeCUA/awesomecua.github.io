@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Sujin Chen, Lijun Li, Tianyi Du, Jing Shao
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.17659v1
+- First submission: 2026-08-18T11:33:22Z
+- Version updated: 2026-08-18T11:33:22Z
+- Abstract SHA-256: c49a67b38314152b83e793b9ade7ce4102a44aa27c331504a8758b94df906c67
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

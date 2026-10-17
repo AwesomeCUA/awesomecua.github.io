@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Pierluca D'Oro, Sneha Silwal, William Wong, Yuxuan Sun, Fanyi Xiao, Manchen Wang, Eric Gan, Allen Bolourchi, Joseph Tighe
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.08261v1
+- First submission: 2026-05-07T22:43:43Z
+- Version updated: 2026-05-07T22:43:43Z
+- Abstract SHA-256: 803dd9a5acac5754110a770a21ac7d882339ea0e16a9852a84a657da20355a25
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

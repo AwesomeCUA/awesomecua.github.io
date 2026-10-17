@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Linxin Song, Jieyu Zhang, Huanxin Sheng, Taiwei Shi, Gupta Rahul, Yang Liu, Ranjay Krishna, Jian Kang, Jieyu Zhao
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2603.10178v1
+- First submission: 2026-03-10T19:17:22Z
+- Version updated: 2026-03-10T19:17:22Z
+- Abstract SHA-256: 22b3001540ac8cc75117cdfb4f381462fe7df3fe7700a86e14b9f522803316ac
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yanzhe Zhang, Tao Yu, Diyi Yang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2411.02391v2
+- First submission: 2024-11-04T18:56:42Z
+- Version updated: 2025-05-24T16:15:46Z
+- Abstract SHA-256: 085c64595365cc6439c8c5fa8a479259a3d59b7e9740e0f9d43e48d00e1439c0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

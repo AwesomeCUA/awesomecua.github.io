@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Li Zhang, Shihe Wang, Xianqing Jia, Zhihan Zheng, Yunhe Yan, Longxi Gao, Yuanchun Li, Mengwei Xu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2404.16054v2
+- First submission: 2024-04-12T15:39:09Z
+- Version updated: 2024-08-02T13:49:32Z
+- Abstract SHA-256: 28c3ad086106ec4199dcc9da2b8aa3b20eac9347d9354b9dfb373e50ea4c3f50
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

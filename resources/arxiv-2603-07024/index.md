@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yunteng Tan, Zhi Gao, Xinxiao Wu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2603.07024v1
+- First submission: 2026-03-07T04:07:47Z
+- Version updated: 2026-03-07T04:07:47Z
+- Abstract SHA-256: e9be07c38eb6bff2190126c61978d7202d7982a669f19ba7241fa6c3b6e54c71
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

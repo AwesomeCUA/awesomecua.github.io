@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 George Karabatsos
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2402.18450v4
+- First submission: 2024-02-28T16:21:20Z
+- Version updated: 2024-09-11T17:44:35Z
+- Abstract SHA-256: a6589e8eed68504eef005067d0636cdec18449a4c972ae1fad3f73da2c747858
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

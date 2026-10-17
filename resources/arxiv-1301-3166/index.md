@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 D. Prangle, M. G. B. Blum, G. Popovic, S. A. Sisson
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1301.3166v1
+- First submission: 2013-01-14T21:47:58Z
+- Version updated: 2013-01-14T21:47:58Z
+- Abstract SHA-256: e2557be7dcb980b7a2e277f98aace41c30c1821a98b0658f283f00d4f75b418c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

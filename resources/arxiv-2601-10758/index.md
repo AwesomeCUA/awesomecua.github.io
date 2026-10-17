@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Fengchao Chen, Tingmin Wu, Van Nguyen, Surya Nepal, Carsten Rudolph
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2601.10758v4
+- First submission: 2026-01-14T03:29:13Z
+- Version updated: 2026-10-10T08:59:27Z
+- Abstract SHA-256: 9443151152dc7caa3a3789f505f187d2d32aa7475b4b186b84bcc7afba537532
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

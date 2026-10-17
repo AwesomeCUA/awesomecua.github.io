@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Saeed Ahmed Khan, Fangjun Hu, Gerasimos Angelatos, Hakan E. Türeci
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2110.13849v2
+- First submission: 2021-10-26T16:46:14Z
+- Version updated: 2021-11-05T17:38:07Z
+- Abstract SHA-256: da12f225a80a6784a1d57f30f90e39712f33385367cf7e4bb2eb729975eb46c1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

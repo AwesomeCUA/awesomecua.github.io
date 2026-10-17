@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Fazle Elahi Faisal, Qianhui Wu, Baolin Peng, Jianfeng Gao
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.27253v1
+- First submission: 2026-04-29T22:57:35Z
+- Version updated: 2026-04-29T22:57:35Z
+- Abstract SHA-256: 276d8a62192c0ad576a1d986bb27d3978963b93466a822858e3313957dd83a81
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

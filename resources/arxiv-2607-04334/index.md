@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Guijia Zhang, Yuxun Chen, Yuheng Qi, Harry Yang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2607.04334v2
+- First submission: 2026-07-05T14:33:29Z
+- Version updated: 2026-07-18T16:56:38Z
+- Abstract SHA-256: e7fdae5d6e5ea17639fe0e2b8e2d655df7201a438d84acdeb3e0d02a78051ae2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

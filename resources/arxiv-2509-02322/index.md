@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Longrong Yang, Zhixiong Zeng, Yufeng Zhong, Jing Huang, Liming Zheng, Lei Chen, Haibo Qiu, Zequn Qin, Lin Ma, Xi Li
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2509.02322v1
+- First submission: 2025-09-02T13:47:54Z
+- Version updated: 2025-09-02T13:47:54Z
+- Abstract SHA-256: 227630b3a257557262ed25eb21906a129eb35c6c5d2de7c5754f919dd281c4bd
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

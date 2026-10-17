@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xuan Zhang, Yang Deng, Zifeng Ren, See-Kiong Ng, Tat-Seng Chua
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2406.12639v2
+- First submission: 2024-06-18T14:07:28Z
+- Version updated: 2024-10-02T02:02:56Z
+- Abstract SHA-256: 2aec6a074d7abb8d7c9c71f78ff481a7af23d90f586baa3e9633fcf9cb62022b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

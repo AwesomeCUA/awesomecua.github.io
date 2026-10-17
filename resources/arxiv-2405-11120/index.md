@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 William E Bishop, Alice Li, Christopher Rawles, Oriana Riva
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2405.11120v1
+- First submission: 2024-05-17T23:27:33Z
+- Version updated: 2024-05-17T23:27:33Z
+- Abstract SHA-256: 81f62326dddc5c512fb05472eb1f387064c0a5aad77453e9d2e85415bb627fa9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

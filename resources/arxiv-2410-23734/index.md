@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Cihan Okay, Atak Talay Yucel, Selman Ipek
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2410.23734v1
+- First submission: 2024-10-31T08:40:51Z
+- Version updated: 2024-10-31T08:40:51Z
+- Abstract SHA-256: 3c2e51fcb2f87b288b79ed479a74e157ffed0e45d35e21197bd3d9c2b0f253e5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

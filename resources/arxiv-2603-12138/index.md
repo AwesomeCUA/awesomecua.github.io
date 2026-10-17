@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Rui Shao, Ruize Gao, Bin Xie, Yixing Li, Kaiwen Zhou, Shuai Wang, Weili Guan, Gongwei Chen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2603.12138v1
+- First submission: 2026-03-12T16:40:59Z
+- Version updated: 2026-03-12T16:40:59Z
+- Abstract SHA-256: 6421a7928b502cd431964e6f84a1a58d4cd16dbbf1d9b3d1ecc1c2b3dae863bf
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

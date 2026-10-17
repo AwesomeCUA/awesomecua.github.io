@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Longhui Ma, Di Zhao, Siwei Wang, Zhao Lv, Miao Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2602.06351v1
+- First submission: 2026-02-06T03:27:55Z
+- Version updated: 2026-02-06T03:27:55Z
+- Abstract SHA-256: 2591e0dab6a84b5db2631ddc94a2c0b65b13a97d06d411ab6ad4e243fe3d3e1e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

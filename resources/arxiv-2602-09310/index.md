@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ananya Gubbi Mohanbabu, Rosiana Natalie, Brandon Kim, Anhong Guo, Amy Pavel
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2602.09310v1
+- First submission: 2026-02-10T01:00:55Z
+- Version updated: 2026-02-10T01:00:55Z
+- Abstract SHA-256: c3606d090749737d4223a9f826400c2b2aebde245c623391f2a8c6702b2468f8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

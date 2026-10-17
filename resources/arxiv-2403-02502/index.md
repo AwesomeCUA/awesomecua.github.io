@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yifan Song, Da Yin, Xiang Yue, Jie Huang, Sujian Li, Bill Yuchen Lin
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2403.02502v2
+- First submission: 2024-03-04T21:50:29Z
+- Version updated: 2024-07-10T17:36:25Z
+- Abstract SHA-256: af4dbaf0179c52ad858c63b925d4c798ebf5b797a15f0b0d60c3690bdb8ca22a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Siyuan Hu, Kevin Qinghong Lin, Mike Zheng Shou
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2512.24965v1
+- First submission: 2025-12-31T16:51:14Z
+- Version updated: 2025-12-31T16:51:14Z
+- Abstract SHA-256: b7d1f358b450f2a6c3deb00f1b16c54d443f48fda3a7dc70c77456bebf35ad7c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

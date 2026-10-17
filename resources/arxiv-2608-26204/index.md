@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Joy Chen, Alejandro Castillejo Munoz, Pierluca D'Oro, Yuxuan Sun, Chloe Evans, Joseph Tighe
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2608.26204v2
+- First submission: 2026-08-25T23:21:57Z
+- Version updated: 2026-09-15T04:43:00Z
+- Abstract SHA-256: 50c26a7ab741ecb3cb855305ee4f7d5b5729296248d650c469600aeb73101781
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

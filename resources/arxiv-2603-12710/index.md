@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Orit Shahnovsky, Rotem Dror
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2603.12710v1
+- First submission: 2026-03-13T06:46:32Z
+- Version updated: 2026-03-13T06:46:32Z
+- Abstract SHA-256: 2442ff48e3a112401c9f8910d904d800432a9760cc35aa3615670f9bf52b7ef2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

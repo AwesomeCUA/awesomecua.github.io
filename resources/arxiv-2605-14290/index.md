@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Julien Piet, Annabella Chow, Yiwei Hou, Muxi Lyu, Sylvie Venuto, Jinhao Zhu, Raluca Ada Popa, David Wagner
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.14290v1
+- First submission: 2026-05-14T02:48:57Z
+- Version updated: 2026-05-14T02:48:57Z
+- Abstract SHA-256: 572be49190554bbfb6accac4c87ef91608f88e90d06250f229db2922e19fcd56
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Summary and topic tags reviewed against the primary abstract. Reported experimen
 
 Longxi Gao, Li Zhang, Shihe Wang, Pengzhi Gao, Wei Liu, Jian Luan, Shangguang Wang, Yuanchun Li, Mengwei Xu
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2409.14337v3
+- First submission: 2024-09-22T06:45:38Z
+- Version updated: 2025-11-25T02:43:11Z
+- Abstract SHA-256: 4bb00ad1be49c9bd51881827556b3a168d34c69a45e31053406f780ad2a62af1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

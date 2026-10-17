@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Antoine Paris, Hamed Mirghasemi, Ivan Stupia, Luc Vandendorpe
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1903.02294v1
+- First submission: 2019-03-06T10:33:38Z
+- Version updated: 2019-03-06T10:33:38Z
+- Abstract SHA-256: a8e71e656309f2fb7376a52b5f853a42f9001e501cd59528817f13e297ca7518
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

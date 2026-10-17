@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Haoren Zhao, Tianyi Chen, Zhen Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2504.04716v1
+- First submission: 2025-04-07T03:58:45Z
+- Version updated: 2025-04-07T03:58:45Z
+- Abstract SHA-256: ededfa864150f1b7b4ba53b265b5cbaa60bcf42690a8e22f5c13f915b6cd0108
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

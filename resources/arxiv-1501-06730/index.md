@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Stefanie Barz, Vedran Dunjko, Florian Schlederer, Merritt Moore, Elham Kashefi, Ian A. Walmsley
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1501.06730v1
+- First submission: 2015-01-27T10:36:41Z
+- Version updated: 2015-01-27T10:36:41Z
+- Abstract SHA-256: 4a9f1202f4469228e562c37f5ca09bf75f61b7971064a5a2b12e56a19c2711a2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

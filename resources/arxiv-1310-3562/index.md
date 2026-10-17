@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Brian Pepper
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/1310.3562v2
+- First submission: 2013-10-14T04:40:21Z
+- Version updated: 2013-12-06T19:30:30Z
+- Abstract SHA-256: ce881007284bbff943e7e5a823bdbef159d577c426854a8878a9d2a9c7ed0179
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

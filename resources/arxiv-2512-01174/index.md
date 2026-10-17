@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Hyunjun Kim, Sooyoung Ryu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2512.01174v1
+- First submission: 2025-12-01T01:18:21Z
+- Version updated: 2025-12-01T01:18:21Z
+- Abstract SHA-256: 7e445d0ca79f727a6c1d51e83381c3fd1d8e1fddeff7de99fe70ca06bc1bff49
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

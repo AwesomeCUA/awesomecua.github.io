@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Tiannan Wang, Meiling Tao, Ruoyu Fang, Huilin Wang, Shuai Wang, Yuchen Eleanor Jiang, Wangchunshu Zhou
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2412.13103v1
+- First submission: 2024-12-17T17:17:03Z
+- Version updated: 2024-12-17T17:17:03Z
+- Abstract SHA-256: d6187ac36c2c4e7f78155cc6a1aea504aeb7350386697031220195d1aeaba9ea
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

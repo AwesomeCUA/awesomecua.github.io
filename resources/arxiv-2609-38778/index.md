@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Hongbo Zhang, Liuyang Song, Quanquan Li, Daqian Yang, Yan Wen, Zhengtao Yao
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.38778v1
+- First submission: 2026-09-30T02:11:02Z
+- Version updated: 2026-09-30T02:11:02Z
+- Abstract SHA-256: bb910e64ebb65bd49e8729e4373c1c81ce4b2d0a32647a5abaf15f52737e578d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

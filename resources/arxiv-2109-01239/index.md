@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Vaibhav Kumar, Muhammad Fainan Hanif, Markku Juntti, Le-Nam Tran
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2109.01239v2
+- First submission: 2021-09-02T22:52:00Z
+- Version updated: 2023-10-12T21:12:37Z
+- Abstract SHA-256: c7ae4975b04c3638b7775475e837f9888af5854256f8311340af96bcd43c1f38
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

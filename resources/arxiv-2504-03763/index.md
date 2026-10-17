@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Weirong Dong, Kai Zhou, Zhen Kong, Quan Cheng, Junkai Huang, Zhengke Yang, Masanori Hashimoto, Longyang Lin
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2504.03763v1
+- First submission: 2025-04-02T11:58:08Z
+- Version updated: 2025-04-02T11:58:08Z
+- Abstract SHA-256: 1bc335530c58a2c87ff46e8f51017e010428187f07c3c66aa2d0eacd5460f851
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

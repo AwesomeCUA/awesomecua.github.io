@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Nikolai Rozanov, Marek Rei
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2410.02810v3
+- First submission: 2024-09-21T05:54:35Z
+- Version updated: 2025-04-08T06:37:51Z
+- Abstract SHA-256: 8a2e16e978f50c8d7161a11a11fba6aeda9617663de1746422151d38c4874cc9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Patrik Okanovic, Grzegorz Kwasniewski, Paolo Sylos Labini, Maciej Besta, Flavio Vella, Torsten Hoefler
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2408.11551v1
+- First submission: 2024-08-21T11:57:42Z
+- Version updated: 2024-08-21T11:57:42Z
+- Abstract SHA-256: 455cc3de1e2f38ec7a5f13118c67277c35efa58702cb07879dc73ec143918f0c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

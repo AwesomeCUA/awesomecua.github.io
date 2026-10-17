@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jun Ji, Zichen Xi, Bernadeta R. Srijanto, Ivan I. Kravchenko, Ming Jin, Wenjie Xiong, Linbo Shao
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2409.02689v1
+- First submission: 2024-09-04T13:21:43Z
+- Version updated: 2024-09-04T13:21:43Z
+- Abstract SHA-256: 7c26c4316ca4c7129407a1379ed660b2dbbc2f2caa4438ddb464be4f01643801
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

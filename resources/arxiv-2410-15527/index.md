@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Philip Baillargeon, Jina Yoon, Amy Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2410.15527v1
+- First submission: 2024-10-20T22:43:11Z
+- Version updated: 2024-10-20T22:43:11Z
+- Abstract SHA-256: eca3e724763c6596cbd9a2ebf325b5bf2e2162ef0a6be38e28e4c05781ab325a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

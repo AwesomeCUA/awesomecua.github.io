@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 E. Manuylovich, A. E. Bednyakova, D. A. Ivoilov, I. S. Terekhov, S. K. Turitsyn
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2407.02117v1
+- First submission: 2024-07-02T10:05:58Z
+- Version updated: 2024-07-02T10:05:58Z
+- Abstract SHA-256: 9fbad2b1110de23b08d29e8bf2417dff8b199170e97af36e37b17142abf63d06
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

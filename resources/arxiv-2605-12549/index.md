@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jiaping Lin, Fei Shen, Junzhe Li, Ping Nie, Fei Yu, Ming Li, Haizhou Li
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.12549v1
+- First submission: 2026-05-10T07:04:07Z
+- Version updated: 2026-05-10T07:04:07Z
+- Abstract SHA-256: cb60b76fca3a8825030b1a31a7b97ff31e06f30ac3852f243efe440f965e5578
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Subhradip Chakraborty, Ankur Singh, Akhilesh R. Jaiswal
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.13969v1
+- First submission: 2026-04-15T15:18:33Z
+- Version updated: 2026-04-15T15:18:33Z
+- Abstract SHA-256: e93119d075175dbc389be98eb0d38019687a64b9a362024923458326757e07cc
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

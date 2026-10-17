@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Rodrick Kuate Defo, Steven L. Richardson
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2402.17083v2
+- First submission: 2024-02-26T23:41:19Z
+- Version updated: 2024-05-05T03:23:32Z
+- Abstract SHA-256: 60a0ced1950b0cfb1d3b23915fd66322f31d47095ffaf334d4612256705e75be
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

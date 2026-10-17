@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Anas Skalli, Joshua Robertson, Dafydd Owen-Newns, Matej Hejda, Xavier Porte, Stephan Reitzenstein, Antonio Hurtado, D. Brunner
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2112.08086v1
+- First submission: 2021-12-15T12:45:39Z
+- Version updated: 2021-12-15T12:45:39Z
+- Abstract SHA-256: f85e7b074d23fe141edf952cdc4850565f813fd6f0d411979c7366073f8bb7c3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

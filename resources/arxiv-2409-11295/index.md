@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zeyi Liao, Lingbo Mo, Chejian Xu, Mintong Kang, Jiawei Zhang, Chaowei Xiao, Yuan Tian, Bo Li, Huan Sun
 
+## Recorded arXiv snapshot
+
+- Version: 5
+- Version source: https://arxiv.org/abs/2409.11295v5
+- First submission: 2024-09-17T15:49:44Z
+- Version updated: 2025-03-12T20:54:00Z
+- Abstract SHA-256: 897cdbb6aa52478b260ecba830e0a13527c2614454f7c766c9f5c8c9bdbfd4e3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

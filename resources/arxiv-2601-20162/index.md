@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shuoxin Wang, Chang Liu, Gowen Loo, Lifan Zheng, Kaiwen Wei, Xinyi Zeng, Jingyuan Zhang, Yu Tian
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2601.20162v1
+- First submission: 2026-01-28T01:44:19Z
+- Version updated: 2026-01-28T01:44:19Z
+- Abstract SHA-256: dbe8e4ef8611f99058d6a23d2c414af318b672e8369bebf47e633830ab0652ff
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

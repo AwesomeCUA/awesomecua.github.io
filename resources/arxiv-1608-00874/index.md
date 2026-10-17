@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jim Griffin, Fabrizio Leisen
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/1608.00874v3
+- First submission: 2016-08-02T15:47:42Z
+- Version updated: 2017-08-31T10:21:58Z
+- Abstract SHA-256: 160a7d339aacd4dc92342b8d7e7c519c1f4c8d9b549ee167662f8894f1f30495
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

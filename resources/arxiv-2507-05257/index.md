@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuanzhe Hu, Yu Wang, Julian McAuley
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2507.05257v4
+- First submission: 2025-07-07T17:59:54Z
+- Version updated: 2026-06-28T17:25:01Z
+- Abstract SHA-256: 0819dc2369db97e944f81981594f662b6b556bfaa79cd6b98be03a6807a4e90c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

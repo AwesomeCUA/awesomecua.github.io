@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Mengyao Du, Han Fang, Haokai Ma, Jiahao Chen, Kai Xu, Quanjun Yin, Ee-Chien Chang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.25562v1
+- First submission: 2026-04-28T12:32:21Z
+- Version updated: 2026-04-28T12:32:21Z
+- Abstract SHA-256: d2610c2658221d7da0bd888bf7b143ca6c4175791058570f6562cfa0c8c3a946
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

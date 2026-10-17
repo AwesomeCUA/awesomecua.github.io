@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zheng Wu, Pengzhou Cheng, Zongru Wu, Lingzhong Dong, Zhuosheng Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2505.12842v4
+- First submission: 2025-05-19T08:29:05Z
+- Version updated: 2025-11-22T15:07:27Z
+- Abstract SHA-256: ce9570eb6a52feb220cdd2eb4c7f37a2ea63082febe48888a2654c974138a82d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

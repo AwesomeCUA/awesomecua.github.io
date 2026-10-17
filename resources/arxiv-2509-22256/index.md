@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Haochen Gong, Chenxiao Li, Rui Chang, Wenbo Shen
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2509.22256v4
+- First submission: 2025-09-26T12:19:27Z
+- Version updated: 2026-01-14T06:07:30Z
+- Abstract SHA-256: 922c1d9b60db7c17b9019a320a4cfc2dd4eac325fd946f024ca82d43785f5eba
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

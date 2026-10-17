@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuchen Sun, Chenglin Cai, Gongjie Zhang, Tianyu Xia, Quyu Kong, Panrong Tong, Zhengwen Zeng, Long Chen, Steven Hoi, Chongyang Zhang, Yue Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.30887v1
+- First submission: 2026-09-25T06:50:04Z
+- Version updated: 2026-09-25T06:50:04Z
+- Abstract SHA-256: 838635f067b706c7b36a948c8100b30bf4cacd218470aaed6970e5186fa44fb9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

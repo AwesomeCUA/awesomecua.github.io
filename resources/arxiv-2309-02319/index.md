@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 J. Hamilton, K. Xu, A. Brown, C. A. Baron
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2309.02319v1
+- First submission: 2023-09-05T15:36:24Z
+- Version updated: 2023-09-05T15:36:24Z
+- Abstract SHA-256: 5f5efe3b79e51f1fc96614f12984ac8d3641e98f869e149a894075a655d2f581
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

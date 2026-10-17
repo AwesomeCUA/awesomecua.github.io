@@ -20,6 +20,15 @@ Editorial summary based on the primary paper abstract; experiments and released 
 
 Saaket Agashe, Kyle Wong, Vincent Tu, Jiachen Yang, Ang Li, Xin Eric Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2504.00906v1
+- First submission: 2025-04-01T15:40:27Z
+- Version updated: 2025-04-01T15:40:27Z
+- Abstract SHA-256: 11958f69503db514a91af8721870a4cbc1fa19dabf94e3f4ce4118d2fad9862a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhecheng Li, Guoxian Song, Yiwei Wang, Zhen Xiong, Junsong Yuan, Yujun Cai
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2509.24133v1
+- First submission: 2025-09-29T00:06:31Z
+- Version updated: 2025-09-29T00:06:31Z
+- Abstract SHA-256: 9b42e784de8dd007c60d234b7331bd98b5a04c58c13696bf436c81c7eccee37f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jiachen Qian
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.24525v1
+- First submission: 2026-06-23T12:57:02Z
+- Version updated: 2026-06-23T12:57:02Z
+- Abstract SHA-256: a3d0341f41a8ecba57fb7ed9e4b266bb4a176639c742be2b4fc98555754f5744
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

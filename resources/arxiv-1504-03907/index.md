@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kuntal Roy
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1504.03907v1
+- First submission: 2015-04-13T17:16:45Z
+- Version updated: 2015-04-13T17:16:45Z
+- Abstract SHA-256: 72b30e7793cfc68703f7b4b282e39201ef3d21da4f1e2958013a5a9caecb2818
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

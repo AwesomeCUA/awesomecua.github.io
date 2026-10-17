@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xinbei Ma, Yiting Wang, Yao Yao, Tongxin Yuan, Aston Zhang, Zhuosheng Zhang, Hai Zhao
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2408.02544v3
+- First submission: 2024-08-05T15:16:22Z
+- Version updated: 2025-09-05T09:21:10Z
+- Abstract SHA-256: d66c0c2102dd2734d5334faeb12b4971d50a2d2e50a6671ede2fa78a84a0c03f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

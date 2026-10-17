@@ -20,6 +20,15 @@ Inclusion does not establish reproducibility or endorsement.
 
 Yucheng Shi, Wenhao Yu, Jingyuan Huang, Wenlin Yao, Wenhu Chen, Ninghao Liu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2503.23434v2
+- First submission: 2025-03-30T13:26:00Z
+- Version updated: 2026-02-24T05:24:23Z
+- Abstract SHA-256: 5a6811c6d0c3b30d4e6af2f7b0beef8aa8f1ad99ceb325182305e571fe5c398f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

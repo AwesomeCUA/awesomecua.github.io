@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 J. C. Greer, P. Delaney, G. Fagas
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/0912.3431v1
+- First submission: 2009-12-17T18:05:36Z
+- Version updated: 2009-12-17T18:05:36Z
+- Abstract SHA-256: 797dab7ed4827951d5e811f0b88cc1a2624d01efbc74396745023db03aa095a5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

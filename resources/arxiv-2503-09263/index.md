@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Di Zhao, Longhui Ma, Siwei Wang, Miao Wang, Zhao Lv
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2503.09263v1
+- First submission: 2025-03-12T11:03:27Z
+- Version updated: 2025-03-12T11:03:27Z
+- Abstract SHA-256: 3ea50d595c5d82b4a5d538b4b20725fa1f5afe5b29b03c022b726c307c8cca6e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

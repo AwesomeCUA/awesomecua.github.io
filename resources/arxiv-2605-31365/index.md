@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Weile Chen, Bingchen Miao, Qifan Yu, Wendong Bu, Guoming Wang, Wenqiao Zhang, Shengyu Zhang, Juncheng Li, Siliang Tang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.31365v1
+- First submission: 2026-05-29T14:37:27Z
+- Version updated: 2026-05-29T14:37:27Z
+- Abstract SHA-256: 46c624e47b943201cceba50f85331506d6044522d4a3b3ef876553d1d29a8e83
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

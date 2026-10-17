@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Isaac Lera, Carlos Guerrero
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.14649v1
+- First submission: 2026-05-14T10:06:49Z
+- Version updated: 2026-05-14T10:06:49Z
+- Abstract SHA-256: 5312785e1b1ba5b3b7566b5536a155e741b360438ace1186a567aa2cd794e3c0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Alp Sahin, Subhrajit Bhattacharya
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2306.01203v2
+- First submission: 2023-06-01T23:33:53Z
+- Version updated: 2023-07-10T21:55:15Z
+- Abstract SHA-256: 99729608976eec31fb82286f7de82738f12fa7d809e3a71d5057adedd9cf7c0a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

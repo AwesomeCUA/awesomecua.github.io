@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jiaxi Li, Ke Deng, Yun Wang, Jingyuan Huang, Yucheng Shi, Qiaoyu Tan, Jin Lu, Ninghao Liu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.04391v1
+- First submission: 2026-06-03T03:11:50Z
+- Version updated: 2026-06-03T03:11:50Z
+- Abstract SHA-256: 6d891956bde9b8672859fcfcd2d54dfd3e4720964c25d77cc28bc1200ef3a56c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

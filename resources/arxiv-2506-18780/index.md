@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shuangbao Paul Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2506.18780v1
+- First submission: 2025-06-23T15:49:20Z
+- Version updated: 2025-06-23T15:49:20Z
+- Abstract SHA-256: 0b30a8448849358dee8a24a0a82f6dc98df8f3bab02209e3d6b4000cd1c0d1f3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

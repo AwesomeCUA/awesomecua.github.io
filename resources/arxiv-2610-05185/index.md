@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Kaiyu Wu, Beichen Zheng, Weiyao Huang, Keze Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.05185v1
+- First submission: 2026-10-04T12:49:01Z
+- Version updated: 2026-10-04T12:49:01Z
+- Abstract SHA-256: 6d20eb090847d25deb8f69181caa6f964661bbf167223b5572cf3e1cafa52bbd
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

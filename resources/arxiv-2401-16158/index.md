@@ -20,6 +20,15 @@ Summary and topic tags reviewed against the primary abstract. Reported experimen
 
 Junyang Wang, Haiyang Xu, Jiabo Ye, Ming Yan, Weizhou Shen, Ji Zhang, Fei Huang, Jitao Sang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2401.16158v2
+- First submission: 2024-01-29T13:46:37Z
+- Version updated: 2024-04-18T06:53:38Z
+- Abstract SHA-256: 81ac041a3e5f98bfc23c91f768b32ad7adc3f28d8c9d55a285bb29906c8b5a9c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

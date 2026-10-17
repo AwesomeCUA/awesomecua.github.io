@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sicheng Fan, Qingyun Shi, Shengze Xu, Shengbo Cai, Tieyong Zeng, Li Ling, Yanyi Shang, Dehan Kong
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2603.05044v2
+- First submission: 2026-03-05T10:51:34Z
+- Version updated: 2026-04-14T08:14:14Z
+- Abstract SHA-256: fcca36d9a28ace835ede3fa5a93cb9c54608f164240c18bfe007bc945273b460
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

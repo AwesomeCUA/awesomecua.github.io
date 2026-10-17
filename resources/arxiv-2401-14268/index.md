@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Minh Duc Vu, Han Wang, Zhuang Li, Jieshan Chen, Shengdong Zhao, Zhenchang Xing, Chunyang Chen
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2401.14268v3
+- First submission: 2024-01-25T16:02:56Z
+- Version updated: 2024-08-14T00:48:43Z
+- Abstract SHA-256: a1c95264a931b10a57ee4b364498e2d2795abaf9a3e89096a0f29d2408174693
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

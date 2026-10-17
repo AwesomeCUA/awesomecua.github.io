@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Apurva Gandhi, Graham Neubig
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2506.03533v2
+- First submission: 2025-06-04T03:27:56Z
+- Version updated: 2026-03-02T22:31:00Z
+- Abstract SHA-256: 2bccee69e390b5170ff264e689c209d13317e7d3be9b37e6d3fbed0e0d089943
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

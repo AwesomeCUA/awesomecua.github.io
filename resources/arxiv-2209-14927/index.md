@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Gang Li, Yang Li
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2209.14927v4
+- First submission: 2022-09-29T16:45:43Z
+- Version updated: 2023-02-24T01:41:32Z
+- Abstract SHA-256: eaa351e34fa6bdcbe26aa6714eacda1f667411090abfdd5575735605dc89e864
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

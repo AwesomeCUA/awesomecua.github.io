@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Hao Bai, Alexey Taymanov, Tong Zhang, Aviral Kumar, Spencer Whitehead
 
+## Recorded arXiv snapshot
+
+- Version: 6
+- Version source: https://arxiv.org/abs/2601.02439v6
+- First submission: 2026-01-05T09:35:11Z
+- Version updated: 2026-05-02T18:45:09Z
+- Abstract SHA-256: ae8751c4fae3b4f838eba59ffa8be37a1a5f4fa497dfd69fa3075f8581547f51
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

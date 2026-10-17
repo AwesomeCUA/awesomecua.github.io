@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Andrew Simon Johnson, William Winlow
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2012.06537v1
+- First submission: 2020-12-04T08:00:23Z
+- Version updated: 2020-12-04T08:00:23Z
+- Abstract SHA-256: 42104912771a1c5ec1487b8995367fa4ea5619c8c1f11d0dcb81450f467b8188
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

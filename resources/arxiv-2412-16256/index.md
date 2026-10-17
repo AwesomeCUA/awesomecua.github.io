@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yuhao Yang, Yue Wang, Dongxu Li, Ziyang Luo, Bei Chen, Chao Huang, Junnan Li
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2412.16256v2
+- First submission: 2024-12-20T07:16:57Z
+- Version updated: 2025-07-08T08:49:17Z
+- Abstract SHA-256: 9b49d45aa539c224846a7e14cee9b537d032228e19e86a9cb3cdd9f5004aa429
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

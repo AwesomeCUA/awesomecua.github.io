@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Chengguang Gan, Yunhao Liang, Hanjun Wei, Qinghao Zhang, Zhixi Cai, Shiwen Ni
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.20107v1
+- First submission: 2026-10-14T12:39:51Z
+- Version updated: 2026-10-14T12:39:51Z
+- Abstract SHA-256: 47488d3b5450753b4e1a4b0991e50dc92fbab197a9b54bd8d4e3e1a3d762ee96
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

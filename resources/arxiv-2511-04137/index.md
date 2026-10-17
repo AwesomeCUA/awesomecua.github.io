@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yujian Liu, Ze Wang, Hao Chen, Ximeng Sun, Xiaodong Yu, Jialian Wu, Jiang Liu, Emad Barsoum, Zicheng Liu, Shiyu Chang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2511.04137v1
+- First submission: 2025-11-06T07:29:02Z
+- Version updated: 2025-11-06T07:29:02Z
+- Abstract SHA-256: a91413c1e80869860d411402ab49f6e5968787b3bca83f0a9066a0e9c2f75d40
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jihyung Kil, Chan Hee Song, Boyuan Zheng, Xiang Deng, Yu Su, Wei-Lun Chao
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2402.04476v2
+- First submission: 2024-02-06T23:52:10Z
+- Version updated: 2024-03-30T05:18:05Z
+- Abstract SHA-256: 3da421fc440f7dcfc53d8ef218f55389e4da4dbac196f54b40402bc877ff0365
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

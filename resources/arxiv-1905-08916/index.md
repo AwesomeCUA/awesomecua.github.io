@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Craig Gidney, Austin G. Fowler
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1905.08916v1
+- First submission: 2019-05-22T01:44:12Z
+- Version updated: 2019-05-22T01:44:12Z
+- Abstract SHA-256: 71b006acd113660b66f2e008288015f29a0990f8793bdac1273e7f52349e662d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

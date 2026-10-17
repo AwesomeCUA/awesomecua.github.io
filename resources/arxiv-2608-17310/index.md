@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhi Zheng, Rongsheng Chen, Yunpeng Ba, Zhenkun Wang, Yee Whye Teh, Wee Sun Lee
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2608.17310v2
+- First submission: 2026-08-18T03:03:53Z
+- Version updated: 2026-08-21T05:30:17Z
+- Abstract SHA-256: f0404b10d82c520c75afa8ad517b2292771b48d019c186e0dff7753672a8703d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Ziyang Long, Xinqi Li, Lujing Xing, Hsin-Jung Yang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.04800v1
+- First submission: 2026-10-03T22:56:09Z
+- Version updated: 2026-10-03T22:56:09Z
+- Abstract SHA-256: baacd8b4fad7b146bb9152a54d60a617fdbed5d0142c0c0768dacea2e7f18e60
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

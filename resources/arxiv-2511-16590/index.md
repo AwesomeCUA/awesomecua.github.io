@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sen Chen, Tong Zhao, Yi Bin, Fei Ma, Wenqi Shao, Zheng Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2511.16590v1
+- First submission: 2025-11-20T17:43:46Z
+- Version updated: 2025-11-20T17:43:46Z
+- Abstract SHA-256: 1679f7b56c7b60f92195e488c887114bcdcce7975a80fafbf2572c2b1f01ce0b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

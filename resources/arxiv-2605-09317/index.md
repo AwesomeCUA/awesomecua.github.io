@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Guibin Zhang, Yaohui Ling, Fanci Meng, Kun Wang, Shuicheng Yan
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.09317v1
+- First submission: 2026-05-10T04:31:23Z
+- Version updated: 2026-05-10T04:31:23Z
+- Abstract SHA-256: 729ff6b37da62bb8a9a911865554520e3b29219d9735e087c3186705428d7b05
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

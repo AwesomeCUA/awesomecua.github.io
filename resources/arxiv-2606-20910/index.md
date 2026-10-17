@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Dayeon Kang, Hyejun Jeong, Jade Sheffey, Pubali Datta, Amir Houmansadr
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.20910v1
+- First submission: 2026-06-18T20:07:39Z
+- Version updated: 2026-06-18T20:07:39Z
+- Abstract SHA-256: 8b2c6080f0de11c06fe73c30195c7c8529e07de283dc45fa47709072846d385a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

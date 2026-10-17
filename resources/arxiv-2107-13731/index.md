@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Chongyang Bai, Xiaoxue Zang, Ying Xu, Srinivas Sunkara, Abhinav Rastogi, Jindong Chen, Blaise Aguera y Arcas
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2107.13731v2
+- First submission: 2021-07-29T03:51:36Z
+- Version updated: 2021-08-10T08:55:21Z
+- Abstract SHA-256: 8a4f582015ccaf5bbe9be4b7ab925b2bbf6bd8451a4e63d89e1fe38363e26b31
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

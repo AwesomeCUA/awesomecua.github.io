@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sinchan Snigdha Rej, Bimalendu Deb
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2511.04359v1
+- First submission: 2025-11-06T13:41:37Z
+- Version updated: 2025-11-06T13:41:37Z
+- Abstract SHA-256: 1487f811ee1d81fc2a09763ddb9ae68ef3c902448f5efb5c7ce4c061ca5e400b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

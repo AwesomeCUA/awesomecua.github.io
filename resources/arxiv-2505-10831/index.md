@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Omar Shaikh, Shardul Sapkota, Shan Rizvi, Eric Horvitz, Joon Sung Park, Diyi Yang, Michael S. Bernstein
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2505.10831v3
+- First submission: 2025-05-16T04:00:31Z
+- Version updated: 2025-09-21T00:03:34Z
+- Abstract SHA-256: d986ee6aa62b11759c366fa9f6a01a1a0b12eae715970eacd8053dbbb6622fe5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

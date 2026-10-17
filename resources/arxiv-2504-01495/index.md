@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Antoine Chevrot, Alexandre Vernotte, Jean-Rémy Falleri, Xavier Blanc, Bruno Legeard
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2504.01495v1
+- First submission: 2025-04-02T08:48:01Z
+- Version updated: 2025-04-02T08:48:01Z
+- Abstract SHA-256: 76d0ffb55478570499c8cddf92a27d346cf11749f8ae5f8e128c87653b2bdbdc
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

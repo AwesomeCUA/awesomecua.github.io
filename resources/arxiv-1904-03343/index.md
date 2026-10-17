@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Rahim K. Charania
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1904.03343v1
+- First submission: 2019-04-06T02:43:30Z
+- Version updated: 2019-04-06T02:43:30Z
+- Abstract SHA-256: c0b33f06099d0f7eb1bafe8091a034ee0a14849230d9b8c53cadf628824d870c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

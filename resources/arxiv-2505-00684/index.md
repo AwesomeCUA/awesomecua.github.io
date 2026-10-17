@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Tiange Luo, Lajanugen Logeswaran, Justin Johnson, Honglak Lee
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2505.00684v2
+- First submission: 2025-05-01T17:45:59Z
+- Version updated: 2025-07-14T17:45:50Z
+- Abstract SHA-256: 3d2dc8ca397adce1ecf6cf53afa82a8d4f1825bf00277aeb117966f965abfe48
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

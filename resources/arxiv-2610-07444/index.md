@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Aadi Chauhan, Arthur Ilyasov
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.07444v1
+- First submission: 2026-10-05T21:50:50Z
+- Version updated: 2026-10-05T21:50:50Z
+- Abstract SHA-256: 81342daf25b0fb26f6481fcf836c3d958e26c2358be96eadb51e6914ea87e43c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

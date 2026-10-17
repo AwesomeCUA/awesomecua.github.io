@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Giulio Zingrillo, Hanna Foerster, Ilia Shumailov, Yiren Zhao, Robert Mullins
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.03089v1
+- First submission: 2026-10-02T10:08:39Z
+- Version updated: 2026-10-02T10:08:39Z
+- Abstract SHA-256: 7469484bb1186dd633b26e41dddc890008e893c303f93d2352f93c9d47fd78c2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

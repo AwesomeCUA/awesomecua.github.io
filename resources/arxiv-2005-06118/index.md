@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shunsuke Horii
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2005.06118v1
+- First submission: 2020-05-13T02:11:54Z
+- Version updated: 2020-05-13T02:11:54Z
+- Abstract SHA-256: d8d29fadfc61192e151fcc1ae02d9643fdfe50c00a7a1bd049bd228ad2ff7d48
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Evan Zheran Liu, Kelvin Guu, Panupong Pasupat, Tianlin Shi, Percy Liang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1802.08802v1
+- First submission: 2018-02-24T05:32:47Z
+- Version updated: 2018-02-24T05:32:47Z
+- Abstract SHA-256: 75d19fa97ce85a93bb9665a8ae06607bc0b90fde1c8376cdd60e99b55e90729c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

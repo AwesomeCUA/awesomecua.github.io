@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Bryan Wang, Gang Li, Yang Li
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2209.08655v2
+- First submission: 2022-09-18T20:58:39Z
+- Version updated: 2023-02-17T21:24:09Z
+- Abstract SHA-256: 65813c1784ba00e354aff4e38796b1bdc8e9b691cba9dd56b8232b5d86555d1b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kazuhiro Seki, Yuichi Otsuka, Seiji Yunoki
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2201.11381v2
+- First submission: 2022-01-27T08:57:04Z
+- Version updated: 2022-04-14T01:07:57Z
+- Abstract SHA-256: 8bcd4e5acf5b762136ad9ce65f0397b22169449aa0ccd10c5175166795c47ecc
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

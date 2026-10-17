@@ -20,6 +20,15 @@ Inclusion does not establish reproducibility or endorsement.
 
 Guangyi Liu, Pengxiang Zhao, Yaozhen Liang, Liang Liu, Yaxuan Guo, Han Xiao, Weifeng Lin, Yuxiang Chai, Yue Han, Shuai Ren, Hao Wang, Xiaoyu Liang, WenHao Wang, Tianze Wu, Zhengxi Lu, Siheng Chen, LiLinghao, Hao Wang, Guanjing Xiong, Yong Liu, Hongsheng Li
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2504.19838v3
+- First submission: 2025-04-28T14:39:25Z
+- Version updated: 2025-11-17T15:51:58Z
+- Abstract SHA-256: 9103197fa1274fac79ae9e4472f5fbdc9a210548afb024f1d4259c6bb0131bf2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

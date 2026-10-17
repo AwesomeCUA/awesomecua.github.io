@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuxiang Chai, Han Xiao, Xinyu Fu, Jinpeng Chen, Rui Liu, Hongsheng Li
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.29534v1
+- First submission: 2026-05-28T07:49:09Z
+- Version updated: 2026-05-28T07:49:09Z
+- Abstract SHA-256: 461790f351a2816004027cc58d07f79ee7c670ed5064c59b1651a4efb84ff2bf
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

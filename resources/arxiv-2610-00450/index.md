@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Haokai Ma, Chieh Lin, Yupeng Qiu, Ee-Chien Chang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.00450v1
+- First submission: 2026-09-30T17:59:02Z
+- Version updated: 2026-09-30T17:59:02Z
+- Abstract SHA-256: 20dcdc313f032ac84dca7f7ba9e1b8af452fceb7774cd7ec6fea90fd893bbc7e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

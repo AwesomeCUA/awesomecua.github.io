@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Hongxin Li, Jingfan Chen, Jingran Su, Yuntao Chen, Qing Li, Zhaoxiang Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2502.01977v2
+- First submission: 2025-02-04T03:39:59Z
+- Version updated: 2025-06-07T05:23:58Z
+- Abstract SHA-256: 2b76ab1c6c44db9f86b2bfc11097c54e5c3115c0c498a58d896bef043d2113c8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

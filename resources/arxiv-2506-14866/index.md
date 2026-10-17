@@ -20,6 +20,15 @@ Summary and topic tags reviewed against the primary abstract. Reported experimen
 
 Thomas Kuntz, Agatha Duzan, Hao Zhao, Francesco Croce, Zico Kolter, Nicolas Flammarion, Maksym Andriushchenko
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2506.14866v2
+- First submission: 2025-06-17T17:59:31Z
+- Version updated: 2025-10-29T10:34:04Z
+- Abstract SHA-256: f551b861012fc4eddbf010a619bc65e77b524b05958761b738a88bcae377e9a9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

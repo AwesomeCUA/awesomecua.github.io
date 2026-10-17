@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Hongyi Nie, Xunyuan Liu, Yudong Bai, Yaqing Wang, Yang Liu, Quanming Yao, Zhen Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2603.29318v1
+- First submission: 2026-03-31T06:37:12Z
+- Version updated: 2026-03-31T06:37:12Z
+- Abstract SHA-256: 1c71b713efd6ea47e7c78f5dd51d06c5cfdba750529bfbcdfc8e1c69897cbcc9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 A. Said Gurbuz, Sunghwan Hong, Ahmed Nassar, Marc Pollefeys, Peter Staar
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2602.14276v2
+- First submission: 2026-02-15T19:00:02Z
+- Version updated: 2026-05-01T17:32:06Z
+- Abstract SHA-256: d7c6e23f704562c4ae4db9e0b4f8f2a8dde1318efc08876ee57f5967b178257e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

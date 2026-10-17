@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Alisha Ukani, Hamed Haddadi, Ali Shahin Shamsabadi, Peter Snyder
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2512.07725v1
+- First submission: 2025-12-08T17:16:12Z
+- Version updated: 2025-12-08T17:16:12Z
+- Abstract SHA-256: 2576701bbdc4fd8f1f571ed691b06185d1e16bf4955a5c99b10200d796ba6525
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

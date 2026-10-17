@@ -20,6 +20,15 @@ Inclusion does not establish reproducibility or endorsement.
 
 Ada Chen, Yongjiang Wu, Junyuan Zhang, Jingyu Xiao, Shu Yang, Jen-tse Huang, Kun Wang, Wenxuan Wang, Shuai Wang
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2505.10924v4
+- First submission: 2025-05-16T06:56:42Z
+- Version updated: 2026-04-29T05:56:22Z
+- Abstract SHA-256: e8a0890cd57809ff5e3bede6dc2b851b42fad9307a5bfa0ddd744cc2ac70d0c2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

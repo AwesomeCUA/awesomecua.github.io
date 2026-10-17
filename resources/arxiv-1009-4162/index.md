@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kevin Leung
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1009.4162v1
+- First submission: 2010-09-21T17:57:31Z
+- Version updated: 2010-09-21T17:57:31Z
+- Abstract SHA-256: aadbd3133e8c80ae902e47fbf242f696d81e1dce0a781ed26b935b36bd311d89
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

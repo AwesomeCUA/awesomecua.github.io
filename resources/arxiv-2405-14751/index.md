@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Peiyuan Feng, Yichen He, Guanhua Huang, Yuan Lin, Hanchong Zhang, Yuchen Zhang, Hang Li
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2405.14751v2
+- First submission: 2024-05-23T16:17:44Z
+- Version updated: 2024-11-05T09:42:40Z
+- Abstract SHA-256: 4cd4c5736e291dd7799681e33bbea0cfec630997be3b36ba078eb151cba7eded
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

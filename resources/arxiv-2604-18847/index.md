@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Christy Li, Sky CH-Wang, Andi Peng, Andreea Bobu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2604.18847v2
+- First submission: 2026-04-20T21:12:40Z
+- Version updated: 2026-05-28T03:46:47Z
+- Abstract SHA-256: 9064a2efc0e8952870ac5c498ee597622238c9daa77a3a9b89549eb768c5f240
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

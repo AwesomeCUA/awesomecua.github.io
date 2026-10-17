@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jeonghyeon Kim, Byeongjun Joung, Junwon Lee, Joohyung Lee, Taehoon Min, Sunjae Lee
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2604.20279v3
+- First submission: 2026-04-22T07:27:21Z
+- Version updated: 2026-09-07T13:53:30Z
+- Abstract SHA-256: 5bb365f901aa4afd09aeb6af45f35bb8b7ee0113d5cec188585062dff0328275
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

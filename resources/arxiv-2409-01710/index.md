@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhongze Tang, Mengmei Ye, Yao Liu, Sheng Wei
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2409.01710v1
+- First submission: 2024-09-03T08:47:17Z
+- Version updated: 2024-09-03T08:47:17Z
+- Abstract SHA-256: 27ac1bc0795cd8923a60de3cbe8aacf5f79a5fbeedfcfad6aae6f9457e16a9db
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

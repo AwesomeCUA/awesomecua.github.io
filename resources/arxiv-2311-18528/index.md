@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shin-Cheng Mu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2311.18528v2
+- First submission: 2023-11-30T13:08:46Z
+- Version updated: 2024-03-04T06:15:33Z
+- Abstract SHA-256: 37d2cb8816e3597e1aae87da684cf4568a5ff15d05e7a8ea02ccb86e1e6f7e27
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

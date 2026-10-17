@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yunan Lu, Shuang Xie, Meghna Allamudi, Mingyu Zhao, Han Li, Lingyun Wang, Zhou Yu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.38397v1
+- First submission: 2026-09-29T18:53:23Z
+- Version updated: 2026-09-29T18:53:23Z
+- Abstract SHA-256: f02e78f50d1c6065dfd8ebca78f2cc83421b67bc6cc74616c2861d42370e0cb2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

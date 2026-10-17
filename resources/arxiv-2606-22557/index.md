@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yikun Fu, Bowen Fu, Zhenyu Wu, Shuang Cheng, Xiaowei Sun, Bowen Yang, Zehao Li, Yibo Zhao, Zichen Ding, Zhoumianze Liu, Shijie Wang, Biqing Qi, Bowen Zhou
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.22557v1
+- First submission: 2026-06-21T15:32:57Z
+- Version updated: 2026-06-21T15:32:57Z
+- Abstract SHA-256: 6dc52f58bb2237d12041fa8b994b20bd1e41290aaab0c70d2c5dd79fcaca37b6
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Zhuosheng Zhang, Aston Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2309.11436v4
+- First submission: 2023-09-20T16:12:32Z
+- Version updated: 2024-06-07T04:52:29Z
+- Abstract SHA-256: 6d9cff1ece6115e87b7a9032f5720deb49694fbf570bea1f152018c4fa80d981
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

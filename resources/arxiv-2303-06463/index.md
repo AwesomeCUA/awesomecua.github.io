@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Venkatesh Vadde, Bhaskaran Muralidharan, Abhishek Sharma
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2303.06463v1
+- First submission: 2023-03-11T17:27:22Z
+- Version updated: 2023-03-11T17:27:22Z
+- Abstract SHA-256: 7feb19db8c64b32d373a12d53c79a6b3c1df098eec6c7cc06ce61376ff1e08e3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

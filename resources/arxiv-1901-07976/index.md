@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Mark J. Meyer, Jeffrey S. Morris, Regina Paxton Gazes, Brent A. Coull
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/1901.07976v2
+- First submission: 2019-01-23T16:17:20Z
+- Version updated: 2021-03-18T15:18:26Z
+- Abstract SHA-256: 9c657c6d96dd85ba7793cbe38a6736f71e33257ca0f51cb4954643c1b2463b41
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

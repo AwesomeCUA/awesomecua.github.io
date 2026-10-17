@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 ZhuoXin Liu, Zhiming Ma, Ying Zhang, Mengzheng Yang, Yifan Wang, Zhengqi Huang, Yanhan Zhou, Zekun Lin, Jun Zhang, Shun Zhang, Yue Chen, Qiao Zhao, Peng Chen
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2609.16900v2
+- First submission: 2026-09-15T09:32:45Z
+- Version updated: 2026-09-17T16:55:51Z
+- Abstract SHA-256: af3bdd004bf4ca0b8a0dfcea61c987b7ac958701f3ceae0159184fd78032fb68
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Haoren Zhao, Tianyi Chen, Zhen Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.16402v1
+- First submission: 2026-05-13T02:48:52Z
+- Version updated: 2026-05-13T02:48:52Z
+- Abstract SHA-256: 671f33dd87a7ebf9233494ef6fa0efd9c9772a3951f3c218bf4de822825f7af2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

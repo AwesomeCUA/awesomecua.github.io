@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Vincent T. Lee, Samuel Archibald Elliot, Armin Alaghi, Luis Ceze
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/1902.05971v2
+- First submission: 2019-02-15T19:23:30Z
+- Version updated: 2019-02-26T21:08:05Z
+- Abstract SHA-256: 4a0be3888d768c7145d2681d6c9beda5908f06f458ddc1bf4c1fff1ed8b32b8d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

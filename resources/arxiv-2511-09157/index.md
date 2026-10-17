@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Leyang Yang, Ziwei Wang, Xiaoxuan Tang, Sheng Zhou, Dajun Chen, Wei Jiang, Yong Li
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2511.09157v1
+- First submission: 2025-11-12T09:49:31Z
+- Version updated: 2025-11-12T09:49:31Z
+- Abstract SHA-256: dc7f5f0fe1ca373272cda4bbeca3a465e1a7eaec829e8a59bbecbe6049dc7b4a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

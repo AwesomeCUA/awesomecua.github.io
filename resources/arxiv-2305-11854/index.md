@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Hiroki Furuta, Kuang-Huei Lee, Ofir Nachum, Yutaka Matsuo, Aleksandra Faust, Shixiang Shane Gu, Izzeddin Gur
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2305.11854v4
+- First submission: 2023-05-19T17:44:34Z
+- Version updated: 2024-02-25T16:21:00Z
+- Abstract SHA-256: ac0ea5a462890317ea29ade32c879d016181afbe5962e2d28cc175e251df41e6
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

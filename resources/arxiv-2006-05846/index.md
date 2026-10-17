@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Nicholas Chancellor, Robert Cumming, Tim Thomas
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2006.05846v1
+- First submission: 2020-06-10T14:23:37Z
+- Version updated: 2020-06-10T14:23:37Z
+- Abstract SHA-256: 1a3d39bf7f85f18c442ebde594ba730dec4f2141d9ff35a25189dc6d4449953e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

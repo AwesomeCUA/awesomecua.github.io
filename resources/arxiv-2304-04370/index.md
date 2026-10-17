@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yingqiang Ge, Wenyue Hua, Kai Mei, Jianchao Ji, Juntao Tan, Shuyuan Xu, Zelong Li, Yongfeng Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 6
+- Version source: https://arxiv.org/abs/2304.04370v6
+- First submission: 2023-04-10T03:55:35Z
+- Version updated: 2023-11-03T15:24:18Z
+- Abstract SHA-256: a5197ad473544cfb8b6565408fbd467db4d0c1e1ede313e6308ec65ccfcac469
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Bin Lei, Nuo Xu, Ali Payani, Mingyi Hong, Chunhua Liao, Yu Cao, Caiwen Ding
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2510.04039v1
+- First submission: 2025-10-05T05:15:45Z
+- Version updated: 2025-10-05T05:15:45Z
+- Abstract SHA-256: 798fc5ca4fe483a1235f0979b0c641e9c1732660780c13340c5221319a1b28fc
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

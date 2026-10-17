@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yv Zhang, Hao Sun, Hao Fang, Kuofeng Gao, Fan Mo, Bin Chen, Shu-Tao Xia, Yaowei Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.10742v1
+- First submission: 2026-06-09T11:53:25Z
+- Version updated: 2026-06-09T11:53:25Z
+- Abstract SHA-256: 16c0eecd3208d9d4bc2ce806682e73ea6baf4691404595d2d57476a6a42facad
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

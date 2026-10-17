@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Samiya Khan, Kashish Ara Shakil, Mansaf Alam
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1712.05233v1
+- First submission: 2017-11-24T07:26:51Z
+- Version updated: 2017-11-24T07:26:51Z
+- Abstract SHA-256: d8911134e61280b9a73da7d30b123726cfc1b7ec200987921ba4f75c81efea3d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

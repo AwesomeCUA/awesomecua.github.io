@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Soham Roy, Sarthakbrata Halder, Arya Bharaty, Vaibhav Bhaskar, Yash Sinha, Dhruv Kumar, Srikant Panda, Murari Mandal
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.00497v1
+- First submission: 2026-05-30T03:00:28Z
+- Version updated: 2026-05-30T03:00:28Z
+- Abstract SHA-256: a17c8c0e0aa0f1a314472a0530c898bbf562a5b6bd9bae82615cc826796d0117
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

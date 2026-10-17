@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Filippos Christianos, Georgios Papoudakis, Thomas Coste, Jianye Hao, Jun Wang, Kun Shao
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2410.17883v2
+- First submission: 2024-10-23T13:57:00Z
+- Version updated: 2025-02-12T17:51:51Z
+- Abstract SHA-256: 9f6eb76587ef91a21942d34ba9ee7ba0ebc846277b12c69ecb179c2b2d1720df
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

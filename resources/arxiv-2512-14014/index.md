@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Shufan Li, Konstantinos Kallidromitis, Akash Gokul, Yusuke Kato, Kazuki Kozuka, Aditya Grover
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2512.14014v2
+- First submission: 2025-12-16T02:16:42Z
+- Version updated: 2026-10-07T23:06:49Z
+- Abstract SHA-256: e6228822cf64c6aeb1836bee52a6515123bd0d44d77cceb23e785bb4ff9aef47
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

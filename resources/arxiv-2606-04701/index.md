@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jiashu Yao, Heyan Huang, Daiqing Wu, Wangke Chen, Huaxi Ai, Haoyu Wen, Zeming Liu, Yuhang Guo
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.04701v1
+- First submission: 2026-06-03T10:25:46Z
+- Version updated: 2026-06-03T10:25:46Z
+- Abstract SHA-256: 4d5a90333c4f6be0b8d203a2f5938f7e7eefcb09fbe7ea47b85eba8c7c1c422a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

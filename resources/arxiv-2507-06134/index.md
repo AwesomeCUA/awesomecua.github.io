@@ -20,6 +20,15 @@ Editorial summary based on the primary paper abstract; experiments and released 
 
 Sanidhya Vijayvargiya, Aditya Bharat Soni, Xuhui Zhou, Zora Zhiruo Wang, Nouha Dziri, Graham Neubig, Maarten Sap
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2507.06134v2
+- First submission: 2025-07-08T16:18:54Z
+- Version updated: 2026-02-16T22:34:53Z
+- Abstract SHA-256: db56d120a7f04f9181a107bcd75c61a3eb3ac36939e2a0517d622332c70f3eac
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

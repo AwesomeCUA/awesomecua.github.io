@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yifei He, Pranit Chawla, Yaser Souri, Subhojit Som, Xia Song
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2512.10962v3
+- First submission: 2025-11-22T23:12:56Z
+- Version updated: 2026-02-04T19:36:03Z
+- Abstract SHA-256: a7ccc7923f4e6f2ea296b4a6bfc28ba4dc7a52ed256008f153f13fccac3f018f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

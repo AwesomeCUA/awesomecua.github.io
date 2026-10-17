@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Michito Takeshita, Takuro Kawada, Takumi Ohashi, Shunsuke Kitada, Hitoshi Iyatomi
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.00551v1
+- First submission: 2026-05-01T10:16:00Z
+- Version updated: 2026-05-01T10:16:00Z
+- Abstract SHA-256: 87ef518590e29328ce752791df974c9e2215eac656fcf43fed97dd3e847f3cf7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

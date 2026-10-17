@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Andrea D'Ambrosio, Miles Lifson, Richard Linares
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2206.05345v1
+- First submission: 2022-06-10T20:33:12Z
+- Version updated: 2022-06-10T20:33:12Z
+- Abstract SHA-256: 2cabf479a39dea50343d2bc9d464a0659f426e555c68dc5316e86a468907b89f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

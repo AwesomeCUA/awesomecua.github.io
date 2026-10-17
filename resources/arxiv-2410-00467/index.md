@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shaoqing Zhang, Zhuosheng Zhang, Kehai Chen, Xinbei Ma, Muyun Yang, Tiejun Zhao, Min Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2410.00467v3
+- First submission: 2024-10-01T07:49:24Z
+- Version updated: 2024-12-19T14:29:31Z
+- Abstract SHA-256: f370d105dc1fc1a377fd1b1fd5d1fc3d0f035694cc7c364e6326c587607c98c6
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

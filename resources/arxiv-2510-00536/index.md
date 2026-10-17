@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kung-Hsiang Huang, Haoyi Qiu, Yutong Dai, Caiming Xiong, Chien-Sheng Wu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2510.00536v2
+- First submission: 2025-10-01T05:37:54Z
+- Version updated: 2026-10-07T23:23:10Z
+- Abstract SHA-256: e07a5a8f9c0aa39643bb919c2d637435669318420223d7d72b0ef3d733308852
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

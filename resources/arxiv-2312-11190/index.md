@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yunpeng Song, Yiheng Bian, Yongtao Tang, Guiyu Ma, Zhongmin Cai
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2312.11190v2
+- First submission: 2023-12-18T13:35:46Z
+- Version updated: 2024-07-29T14:52:38Z
+- Abstract SHA-256: df1390eab35db18dedaf135ddbbc9fdfcacbc9a70c51ec2609cf331cc05e06bd
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

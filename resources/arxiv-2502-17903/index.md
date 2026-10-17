@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Lars Krupp, Daniel Geißler, Paul Lukowicz, Jakob Karolus
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2502.17903v1
+- First submission: 2025-02-25T06:58:40Z
+- Version updated: 2025-02-25T06:58:40Z
+- Abstract SHA-256: 3903e97e6db6bd470699f0d7b2785e53e15291234f1e5f717bae8d2ccd851ca4
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

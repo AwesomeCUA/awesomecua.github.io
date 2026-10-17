@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Juyong Lee, Woogyeol Jin, Kimin Lee
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.06792v1
+- First submission: 2026-09-06T19:22:53Z
+- Version updated: 2026-09-06T19:22:53Z
+- Abstract SHA-256: 14790f9565861cdba0b24661f6bfe87d7572cbad9d76d9a0b2d7216e9bac7ea7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

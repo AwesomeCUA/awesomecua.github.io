@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yunfei Feng, Xi Zhao, Cheng Zhang, Dahu Feng, Daolin Cheng, Jianqi Yu, Yubin Xia, Erhu Feng
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.09587v1
+- First submission: 2026-02-28T14:30:33Z
+- Version updated: 2026-02-28T14:30:33Z
+- Abstract SHA-256: 564a51339bcf082a06f42ead8eb1b475f9cc267773f2703084c502c084983c4d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

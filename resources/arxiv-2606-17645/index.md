@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shiqi He, Yue Cui, Feijie Wu, Xinyu Ma, Jiaheng Lu, Yaliang Li, Bolin Ding, Mosharaf Chowdhury
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.17645v1
+- First submission: 2026-06-16T08:04:35Z
+- Version updated: 2026-06-16T08:04:35Z
+- Abstract SHA-256: 81e6d5fdedfa7a16876f2a56f4f24a557562cedaffd2978c6fca994d9989685e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

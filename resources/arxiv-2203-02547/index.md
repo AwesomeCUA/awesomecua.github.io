@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Hsuan Hsiao, Vincent Lee, Brandon Reagen, Armin Alaghi
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2203.02547v1
+- First submission: 2022-03-04T19:53:10Z
+- Version updated: 2022-03-04T19:53:10Z
+- Abstract SHA-256: f0c7420280bb8f7deea17793c576a7eeed073ee1fcb7a157a60b960db27390ac
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

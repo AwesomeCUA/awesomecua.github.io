@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Qinzhuo Wu, Weikai Xu, Wei Liu, Tao Tan, Jianfeng Liu, Ang Li, Jian Luan, Bin Wang, Shuo Shang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2409.14818v2
+- First submission: 2024-09-23T08:47:54Z
+- Version updated: 2024-10-03T05:23:22Z
+- Abstract SHA-256: cc22337ef29946dffcf7149df1008fd6cf02350c68d21ec0386e6485f5a14ebf
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

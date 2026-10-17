@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Biniam Fisseha Demissie, Yan Naing Tun, Lwin Khin Shar, Mariano Ceccato
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2504.11675v1
+- First submission: 2025-04-16T00:19:31Z
+- Version updated: 2025-04-16T00:19:31Z
+- Abstract SHA-256: 1a25cb3ca680732a08cf2c461a65caa0c6a70404224bdfd919ba5bec7760ba72
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Mushahid Khan, Andriy Miranskyy
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2106.16173v1
+- First submission: 2021-06-30T16:09:29Z
+- Version updated: 2021-06-30T16:09:29Z
+- Abstract SHA-256: 8a497b59ad6829d4d2a349c3cbfe49a20abb0a198d88f7c27aac048f3fa06ac3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

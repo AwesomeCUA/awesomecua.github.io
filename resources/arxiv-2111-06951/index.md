@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Max Cubillos, Edwin Jimenez
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2111.06951v1
+- First submission: 2021-11-12T21:36:48Z
+- Version updated: 2021-11-12T21:36:48Z
+- Abstract SHA-256: 674e93fe46a816098c2542ce6f3c23a0ef4dc7e6444ec62a5cf16829a248da08
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

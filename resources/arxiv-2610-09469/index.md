@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Sarthak Choudhary, Mihai Christodorescu, Ashish Hooda, Somesh Jha, Tongxin Li, Damien Octeau
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.09469v1
+- First submission: 2026-10-07T05:24:40Z
+- Version updated: 2026-10-07T05:24:40Z
+- Abstract SHA-256: f38c9e37ab7fc8356a0c8c72370de673d1c2b6294e15dfdc72c280269f43439c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

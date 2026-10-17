@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Thong Q. Nguyen, Shubhang Desai, Raja Hasnain Anwar, Firoz Shaik, Vishwas Suryanarayanan, Vishal Chowdhary
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2506.02539v3
+- First submission: 2025-06-03T07:25:49Z
+- Version updated: 2025-08-07T21:48:01Z
+- Abstract SHA-256: 401ca18cadbf38045fa20985354988571b69e2280b1a090aff0e128cdf3c70e0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

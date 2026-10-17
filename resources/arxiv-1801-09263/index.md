@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ivan Carnimeo, Stefano Baroni, Paolo Giannozzi
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/1801.09263v3
+- First submission: 2018-01-28T18:33:53Z
+- Version updated: 2018-12-11T11:23:02Z
+- Abstract SHA-256: e75c618853743c075e2067a0df7696a8ecb3e694383ef192787994c9e095a670
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Chaoqun Cui, Jing Huang, Shijing Wang, Liming Zheng, Qingchao Kong, Zhixiong Zeng
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2602.00575v2
+- First submission: 2026-01-31T07:36:54Z
+- Version updated: 2026-07-25T06:54:35Z
+- Abstract SHA-256: 86225f2e52e1394e2a0a56b1e82327d756bff95739e01ce7cc5898af49944aba
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

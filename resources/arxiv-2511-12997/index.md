@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Genglin Liu, Shijie Geng, Sha Li, Hejie Cui, Sarah Zhang, Xin Liu, Tianyi Liu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2511.12997v2
+- First submission: 2025-11-17T05:38:50Z
+- Version updated: 2026-07-22T21:19:00Z
+- Abstract SHA-256: 8a105701d9265bacd3971f71f34a0e7ed315b6e54e9a7e675588c50713fcc4de
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

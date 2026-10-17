@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Laha Ale, Ning Zhang, Xiaojie Fang, Xianfu Chen, Shaohua Wu, Longzhuang Li
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2103.07811v1
+- First submission: 2021-03-13T23:10:40Z
+- Version updated: 2021-03-13T23:10:40Z
+- Abstract SHA-256: e85ab7fbeb46a1cc1a31da380858975a8b4581c1eabcfc823a3a2a970353d467
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

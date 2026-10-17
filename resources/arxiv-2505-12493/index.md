@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Longxi Gao, Li Zhang, Pengzhi Gao, Wei Liu, Jian Luan, Mengwei Xu
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2505.12493v3
+- First submission: 2025-05-18T16:34:30Z
+- Version updated: 2025-10-10T09:28:53Z
+- Abstract SHA-256: 10d826ea7715ab7054522a9dcba622d5dae3e6c3faee421e4b168e16104d184b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

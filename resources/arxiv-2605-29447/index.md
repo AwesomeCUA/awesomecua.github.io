@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Tianpeng Bu, Xin Liu, Qihua Chen, Hao Jiang, Shurui Li, Hongtao Duan, Lu Jiang, Lulu Hu, Bin Yang, Minying Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.29447v1
+- First submission: 2026-05-28T06:40:24Z
+- Version updated: 2026-05-28T06:40:24Z
+- Abstract SHA-256: 0b6e406ae5fd009cd0602360276a7df951977170840b8560c8ca10136d838848
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

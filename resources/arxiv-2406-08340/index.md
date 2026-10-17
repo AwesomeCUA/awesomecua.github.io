@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shengcheng Yu, Chunrong Fang, Mingzhe Du, Zimin Ding, Zhenyu Chen, Zhendong Su
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2406.08340v1
+- First submission: 2024-06-12T15:48:39Z
+- Version updated: 2024-06-12T15:48:39Z
+- Abstract SHA-256: 0061e9004afe11bf188164ea37de1acd15e1b95ae2fcad22044264a89e4636b3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

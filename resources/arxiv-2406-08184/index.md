@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Luyuan Wang, Yongyu Deng, Yiwei Zha, Guodong Mao, Qinmin Wang, Tianchen Min, Wei Chen, Shoufa Chen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2406.08184v1
+- First submission: 2024-06-12T13:14:50Z
+- Version updated: 2024-06-12T13:14:50Z
+- Abstract SHA-256: 637843b1b8634e608bed71fc0f3df205ae218d1b0b5550ce480046c67bb14b0f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

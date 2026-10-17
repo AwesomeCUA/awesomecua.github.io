@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yue Fan, Handong Zhao, Ruiyi Zhang, Yu Shen, Xin Eric Wang, Gang Wu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2501.13896v2
+- First submission: 2025-01-23T18:16:21Z
+- Version updated: 2025-01-27T18:58:42Z
+- Abstract SHA-256: 0804055deb6c3513990ed8d596486400f1cb791338b7866d9e949186a34eb9c5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

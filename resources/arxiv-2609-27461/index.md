@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zeyu Zhang, Dingyi Rong, Zijian Chen, Zicheng Zhang, Xiongkuo Min, Guangtao Zhai
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.27461v1
+- First submission: 2026-09-23T07:27:23Z
+- Version updated: 2026-09-23T07:27:23Z
+- Abstract SHA-256: 3a89489bb1ff3001a1d806c3eefd8a6aa19503d1dfbe0265b916766119f96ec2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

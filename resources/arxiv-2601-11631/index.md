@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yurun Song, Jiong Yin, Rongjunchen Zhang, Ian G. Harris
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2601.11631v1
+- First submission: 2026-01-14T03:52:57Z
+- Version updated: 2026-01-14T03:52:57Z
+- Abstract SHA-256: 600f2a44695886fc527b04e1a8b1ad07cec90cf5c58dee834605d5133a760b1e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

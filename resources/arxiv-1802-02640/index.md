@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Rawad Bitar, Parimal Parag, Salim El Rouayheb
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1802.02640v1
+- First submission: 2018-02-07T21:23:44Z
+- Version updated: 2018-02-07T21:23:44Z
+- Abstract SHA-256: 46c74dbfa0944752c12e5606038ccd0e3cfe0930ccc5c1d000b5a56831a73fca
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

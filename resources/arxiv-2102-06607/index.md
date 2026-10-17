@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sabrina Kirrane
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2102.06607v4
+- First submission: 2021-02-12T16:32:02Z
+- Version updated: 2021-09-24T14:16:41Z
+- Abstract SHA-256: 93e9974fafcc8d13c242c4787c1147b399ec345a965c3f7d6bee3760e6298527
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

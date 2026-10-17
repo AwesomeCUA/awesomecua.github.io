@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Horia Cristescu, Charles Park, Trong Canh Nguyen, Sergiu Talmacel, Alexandru-Gabriel Ilie, Stefan Adam
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2511.17131v1
+- First submission: 2025-11-21T10:47:22Z
+- Version updated: 2025-11-21T10:47:22Z
+- Abstract SHA-256: 4c746b329229d90dbe3d04a138f54c8b205b16ec6173cf681d47a319c8f24ddf
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

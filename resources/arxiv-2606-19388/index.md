@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Li Gu, Zihuan Jiang, Linqiang Guo, Zhixiang Chi, Ziqiang Wang, Huan Liu, Yuanhao Yu, Tse-Hsun Chen, Yang Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.19388v1
+- First submission: 2026-06-16T02:36:22Z
+- Version updated: 2026-06-16T02:36:22Z
+- Abstract SHA-256: 9bf8b07e08b275d90fcbfc63d867f54f5579509132cc9cf694d01447b7f91b78
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

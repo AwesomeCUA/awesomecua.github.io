@@ -20,6 +20,15 @@ Inclusion does not establish reproducibility or endorsement.
 
 Bizhe Bai, Jiakang Yuan, Hongming Wu, Xinyue Wang, Jie Ren, Siyao Chen, Yuchen Ya, Fan Bai, Pai Peng, Huafeng Qin, Tao Chen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.02309v1
+- First submission: 2026-09-02T08:54:58Z
+- Version updated: 2026-09-02T08:54:58Z
+- Abstract SHA-256: ec439fd2cfdf7319d77ef5ab58e50143bceb3f8205ccffa0d83555f10dece42a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

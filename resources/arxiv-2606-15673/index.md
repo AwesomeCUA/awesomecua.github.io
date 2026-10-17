@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jiwan Chung, JiHyuk Byun, Vibhav Vineet, Seon Joo Kim
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2606.15673v2
+- First submission: 2026-04-08T07:25:29Z
+- Version updated: 2026-08-04T05:22:33Z
+- Abstract SHA-256: 67454ecc0b32b52c65be8b2c37c32f73d793750f6c14d9cb5a7aecf6f094d85b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

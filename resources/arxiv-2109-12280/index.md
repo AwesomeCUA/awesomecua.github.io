@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Srikrishna Omkar, Seok-Hyung Lee, Yong Siah Teo, Seung-Woo Lee, Hyunseok Jeong
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2109.12280v4
+- First submission: 2021-09-25T05:48:40Z
+- Version updated: 2022-08-01T14:50:28Z
+- Abstract SHA-256: 953639b0817913b9fb328a77b7d9b2c8315a496b38d2822290c4451412ee72ee
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

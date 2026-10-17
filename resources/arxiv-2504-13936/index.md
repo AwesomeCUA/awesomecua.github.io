@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Dezhao Luo, Bohan Tang, Kang Li, Georgios Papoudakis, Jifei Song, Shaogang Gong, Jianye Hao, Jun Wang, Kun Shao
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2504.13936v2
+- First submission: 2025-04-15T14:03:10Z
+- Version updated: 2025-05-20T14:11:37Z
+- Abstract SHA-256: 15e00237ef710c37c0c9f7768d699f57e9d5dcc190e8de7e20e9ec3b21b82750
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

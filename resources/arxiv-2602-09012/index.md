@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jiacheng Liu, Yaxin Luo, Jiacheng Cui, Xinyi Shang, Xiaohan Zhao, Zhiqiang Shen
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2602.09012v2
+- First submission: 2026-02-09T18:55:33Z
+- Version updated: 2026-06-21T08:25:39Z
+- Abstract SHA-256: 3178684a322fcf07f847473139efdddf0b02213af468f1afbd285549d15bde56
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 M. Omer Mushtaq, Furrakh Shahzad, M. Owais Tariq, Mahina Riaz, Bushra Majeed
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1702.07140v1
+- First submission: 2017-02-23T09:06:07Z
+- Version updated: 2017-02-23T09:06:07Z
+- Abstract SHA-256: 03984b6d6d0ecb170bae9497480056838fb4ef6873650aaab4f33de44ecac697
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

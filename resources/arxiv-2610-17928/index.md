@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Taeyun Roh, Suhyeong Park, Gijin Kim, Wonjune Jang, Jaewoo Kang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.17928v1
+- First submission: 2026-10-13T08:15:52Z
+- Version updated: 2026-10-13T08:15:52Z
+- Abstract SHA-256: 551f198c0976c75693c6298400800cc66ce1b1b5ee304965155a6bb3ca9d68fe
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

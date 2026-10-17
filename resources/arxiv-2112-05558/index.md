@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Lorenz Baumgarten, Stefan Bornholdt
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2112.05558v1
+- First submission: 2021-12-10T14:12:21Z
+- Version updated: 2021-12-10T14:12:21Z
+- Abstract SHA-256: 16ef9da545ae180d03fbe9af1d13bc74c684fe3127f09b5ad8bd3b00353edf73
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

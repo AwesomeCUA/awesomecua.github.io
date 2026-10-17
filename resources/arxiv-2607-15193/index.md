@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Madhumitha Venkatesan, Shicheng Wen, Jiajing Guo, Jorge Piazentin Ono, Liu Ren, Dongyu Liu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2607.15193v1
+- First submission: 2026-07-16T16:48:39Z
+- Version updated: 2026-07-16T16:48:39Z
+- Abstract SHA-256: 1179c657434761187f3fa3bed99f46530a69878578b7a74c68febae20e64d6b3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

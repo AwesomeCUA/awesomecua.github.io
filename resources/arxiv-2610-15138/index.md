@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Md Imran Hossen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.15138v1
+- First submission: 2026-10-10T19:30:31Z
+- Version updated: 2026-10-10T19:30:31Z
+- Abstract SHA-256: 63e19265f1df2c336e28c4a13e11331021bd60866269c0b921d92a3c0fec080d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

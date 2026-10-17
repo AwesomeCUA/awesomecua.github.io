@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Vagner Figueredo de Santana, Diogo Cortiz
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.13703v1
+- First submission: 2026-10-09T14:59:24Z
+- Version updated: 2026-10-09T14:59:24Z
+- Abstract SHA-256: 447a4f283746069b2ea51d49c149379ad48a6e0b71f35dd15dedcb19417ab0cd
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yang Li, Gang Li, Luheng He, Jingjie Zheng, Hong Li, Zhiwei Guan
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2010.04295v1
+- First submission: 2020-10-08T22:56:03Z
+- Version updated: 2020-10-08T22:56:03Z
+- Abstract SHA-256: 68af0a0a4b605d0c968e8913232fde16e3eadf6361099e8fc3d015dcdb26302b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Frank Zhigang Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2512.11002v1
+- First submission: 2025-12-10T22:45:27Z
+- Version updated: 2025-12-10T22:45:27Z
+- Abstract SHA-256: 7f0257cc82d6b21083eab757cbb695a505797c369bc98fbd5f81e3ea9f3425d9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Songze Li, Xiaoke Guo, Tianqi Liu, Biao Yi, Zhaoyan Gong, Zhiqiang Liu, Huajun Chen, Wen Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2604.06995v3
+- First submission: 2026-04-08T12:12:09Z
+- Version updated: 2026-10-02T06:30:10Z
+- Abstract SHA-256: b99643e43c5e20af088d6fa62152e03256c947af76a6b3c0abfc6f74a0f7d648
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

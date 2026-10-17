@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Liangtao Lin, Zhaomeng Zhu, Tianwei Zhang, Yonggang Wen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2509.13704v1
+- First submission: 2025-09-17T05:14:11Z
+- Version updated: 2025-09-17T05:14:11Z
+- Abstract SHA-256: 2c1a4019df77278943829e16b155771abb1c8ca30726044cf5969227e0437f5f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

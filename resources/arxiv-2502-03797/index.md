@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yadi Wang, Bin Chen, Wenping Gao, Biying Ye, Chang Niu, Wenbin Wang, Yinyan Zhu, Weichao Yu, Hangwen Guo, Jian Shen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2502.03797v1
+- First submission: 2025-02-06T05:58:36Z
+- Version updated: 2025-02-06T05:58:36Z
+- Abstract SHA-256: 864f534a536ebf9b6dcd98e389baa85b01f5050f82e9e5196ffe4969356ea0b0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

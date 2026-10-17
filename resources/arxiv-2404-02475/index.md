@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Tian Huang, Chun Yu, Weinan Shi, Zijian Peng, David Yang, Weiqi Sun, Yuanchun Shi
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2404.02475v2
+- First submission: 2024-04-03T05:32:05Z
+- Version updated: 2025-03-18T09:59:25Z
+- Abstract SHA-256: 6b2f357e166bddc2bbb5db4ec102721fc12fd27ba45d953193be0354fa5c7bce
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kimmie Harding, Daniel M. Dunlavy
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2510.01495v1
+- First submission: 2025-10-01T22:14:17Z
+- Version updated: 2025-10-01T22:14:17Z
+- Abstract SHA-256: 23639c45cc076a183c9e38779fb38cc7c25650339570a5b1d751565ad10ae77b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

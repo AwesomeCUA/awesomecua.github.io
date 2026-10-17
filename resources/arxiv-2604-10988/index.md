@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Peng Yuan, Yuyang Yin, Yuxuan Cai, Zheng Wei
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.10988v1
+- First submission: 2026-04-13T04:45:27Z
+- Version updated: 2026-04-13T04:45:27Z
+- Abstract SHA-256: 1db8d789fb8ba2d5e61ca24536670fd83491c305f532adfecf7193821f7eea52
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

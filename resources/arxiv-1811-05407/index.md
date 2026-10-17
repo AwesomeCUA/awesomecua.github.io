@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kleber Vieira, Fernando Koch, Joao Bosco Mangueira Sobral, Carlos Becker Westphall, Jorge Lopes de Souza Leao
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1811.05407v1
+- First submission: 2018-11-13T16:58:48Z
+- Version updated: 2018-11-13T16:58:48Z
+- Abstract SHA-256: 05f0414eb54439b39381d3f53c37aa2e24efbf8d2b2a10a9be05d6533850a284
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Bingo Zhang, Haochuan Lu, Zongjie Li, Genjian Li, Ari Yu Zhang, Chaozheng Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.34769v1
+- First submission: 2026-09-28T09:49:25Z
+- Version updated: 2026-09-28T09:49:25Z
+- Abstract SHA-256: f81fd07262dccf6783729e4336fbd77835f2fcdea030eef8dc2272e7ef82b8fc
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

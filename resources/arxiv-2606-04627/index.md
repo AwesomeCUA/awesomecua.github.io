@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhichao Yang, Yuanze Hu, Haojie Hao, Longkun Hao, Dongshuo Huang, Hongyu Lin, Gen Li, Lanqing Hong, Yihang Lou, Yan Bai
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2606.04627v2
+- First submission: 2026-06-03T09:01:24Z
+- Version updated: 2026-06-06T08:34:56Z
+- Abstract SHA-256: dcb2d643f4c802180577ec03ac8a3f42f8561d98a7008a0abd53c4f9b6f2348f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

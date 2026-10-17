@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Richard Zhipeng Wang, James S. Cummins, Marvin Syed, Nikita Stroev, George Pastras, Jason Sakellariou, Symeon Tsintzos, Alexis Askitopoulos, Daniele Veraldi, Marcello Calvanese Strinati, Silvia Gentilini, Davide Pierangeli, Claudio Conti, Natalia G. Berloff
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2406.01400v1
+- First submission: 2024-06-03T15:03:31Z
+- Version updated: 2024-06-03T15:03:31Z
+- Abstract SHA-256: b8347ba74a375970bcf070c5a390ab3fceddfc255234024089b1ad5fb7fb6960
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

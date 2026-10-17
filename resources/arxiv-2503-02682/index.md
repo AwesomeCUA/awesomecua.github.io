@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Weimin Xiong, Yifan Song, Qingxiu Dong, Bingchan Zhao, Feifan Song, Xun Wang, Sujian Li
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2503.02682v2
+- First submission: 2025-03-04T14:54:45Z
+- Version updated: 2025-09-10T16:45:42Z
+- Abstract SHA-256: 3395107d8c7db3562bf75a3c22fee55d3da0564bd2f413491bc0d381fc601323
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

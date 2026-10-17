@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Weize Chen, Ziming You, Ran Li, Yitong Guan, Chen Qian, Chenyang Zhao, Cheng Yang, Ruobing Xie, Zhiyuan Liu, Maosong Sun
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2407.07061v2
+- First submission: 2024-07-09T17:33:24Z
+- Version updated: 2024-07-10T15:57:21Z
+- Abstract SHA-256: 9a33f39a6b7aea08e080646cc6c327ec944f79d3446aecdf4661090687702a90
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xavier Lagorce, Ryad Benosman
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1507.06222v1
+- First submission: 2015-07-22T15:09:07Z
+- Version updated: 2015-07-22T15:09:07Z
+- Abstract SHA-256: bf3e3a817b7a19c62960e0be0bc12e08d49577871cb53bd223922760786c4a96
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

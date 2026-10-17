@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ziming Cheng, Zhiyuan Huang, Junting Pan, Zhaohui Hou, Mingjie Zhan
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2503.24180v2
+- First submission: 2025-03-31T14:56:24Z
+- Version updated: 2025-08-24T08:39:18Z
+- Abstract SHA-256: 1bb09b54379d2fbc5b489f24a27f6311b91bb0821eefe5187aa160ffb00639d9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

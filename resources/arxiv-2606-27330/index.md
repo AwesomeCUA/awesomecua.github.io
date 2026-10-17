@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Tianyi Men, Zhuoran Jin, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.27330v1
+- First submission: 2026-06-25T17:44:48Z
+- Version updated: 2026-06-25T17:44:48Z
+- Abstract SHA-256: 42166ac3980296a53b56bc4a076634beec36ba885b3260b5d36115b5a5261cd0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

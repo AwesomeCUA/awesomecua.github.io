@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Subrata Ghosh, Krishna Aswani, Surabhi Singh, Satyajit Sahu, Daisuke Fujita, Anirban Bandyopadhyay
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1401.7411v1
+- First submission: 2014-01-29T04:44:08Z
+- Version updated: 2014-01-29T04:44:08Z
+- Abstract SHA-256: 58cb0b3ee7e8f9d4f458f0ab44e7ab689f7906ec5ef0bc7370d4946876733931
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

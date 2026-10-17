@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xingyuan Xu, Weiwei Han, Mengxi Tan, Yang Sun, Yang Li, Jiayang Wu, Roberto Morandotti, Arnan Mitchell, Kun Xu, David J. Moss
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2209.03252v1
+- First submission: 2022-09-07T16:02:06Z
+- Version updated: 2022-09-07T16:02:06Z
+- Abstract SHA-256: 18905f16d41664f97948524527c3cf3ee8b43f4c0c35add4515dd8e971b0c21e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

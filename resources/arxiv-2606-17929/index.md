@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Bojie Li
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.17929v1
+- First submission: 2026-06-16T13:40:21Z
+- Version updated: 2026-06-16T13:40:21Z
+- Abstract SHA-256: 19fd8d8363ef6a7c58e42309f25dea1b9c5b6bca09b5d823f8a7cc7a80d61f0f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

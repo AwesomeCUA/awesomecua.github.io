@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Tao Li, Jinlong Hu, Yang Wang, Junfeng Liu, Xuejun Liu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2510.11221v1
+- First submission: 2025-10-13T10:05:43Z
+- Version updated: 2025-10-13T10:05:43Z
+- Abstract SHA-256: baa5f70d4b6516b2c7fdda997ce3c4d074e26ccfd9a3ad0c00f83177bd9d4d4b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

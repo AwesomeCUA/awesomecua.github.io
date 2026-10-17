@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jingyuan Huang, Zuming Huang, Yucheng Shi, Tianze Yang, Xiaoming Zhai, Wei Chu, Ninghao Liu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2606.18101v2
+- First submission: 2026-06-16T16:02:41Z
+- Version updated: 2026-06-17T08:58:52Z
+- Abstract SHA-256: 49b935d8993be0d03ae778375f908b68b3ec3c614a7406b6b3f6a00f2a89ef1f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

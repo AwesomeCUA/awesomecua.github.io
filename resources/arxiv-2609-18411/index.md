@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Hasnain Irshad, Anam Mughees, Neelam Mughees, Abdullah Mughees, Imtiaz Ali Soomro
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2609.18411v2
+- First submission: 2026-09-16T10:06:24Z
+- Version updated: 2026-09-30T14:38:27Z
+- Abstract SHA-256: c0fcc5f2dde0b009516d13f055f6d43d4bd42deeb8d2f4751990a754a89a492d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

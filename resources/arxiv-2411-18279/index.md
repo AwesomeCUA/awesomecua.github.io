@@ -20,6 +20,15 @@ Inclusion does not establish reproducibility or endorsement.
 
 Chaoyun Zhang, Shilin He, Jiaxu Qian, Bowen Li, Liqun Li, Si Qin, Yu Kang, Minghua Ma, Guyue Liu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 12
+- Version source: https://arxiv.org/abs/2411.18279v12
+- First submission: 2024-11-27T12:13:39Z
+- Version updated: 2025-05-06T15:08:00Z
+- Abstract SHA-256: 2f692aa06152820ae60359fc2cc52aaed2ca8a97fe1efb9b8037de973956467a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

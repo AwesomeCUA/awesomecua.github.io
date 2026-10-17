@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ye-Hong Chen, Adam Miranowicz, Xi Chen, Yan Xia, Franco Nori
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2203.06831v3
+- First submission: 2022-03-14T03:06:15Z
+- Version updated: 2022-12-21T10:55:06Z
+- Abstract SHA-256: 5dde2a79c532ede977bdc5c9bf5d98074c32528b800540d944717498d8b267f9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

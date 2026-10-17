@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kei Hasegawa, Nobuaki Fuji, Kensuke Konishi
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/1801.02829v2
+- First submission: 2018-01-09T08:02:03Z
+- Version updated: 2019-02-15T03:09:25Z
+- Abstract SHA-256: 3137cba4546885424280fbdd22be9aa57203d16706f778adf3af75645baa9201
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

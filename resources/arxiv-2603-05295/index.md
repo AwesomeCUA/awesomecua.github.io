@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sicheng Fan, Rui Wan, Yifei Leng, Gaoning Liang, Li Ling, Yanyi Shang, Dehan Kong
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2603.05295v3
+- First submission: 2026-03-05T15:37:34Z
+- Version updated: 2026-04-14T08:41:56Z
+- Abstract SHA-256: db52246d9f5f305046e6dd14f2ef15440c371678e1db0d05282c84a3667c6f10
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

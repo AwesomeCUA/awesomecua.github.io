@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yilin Zhang, Yingkai Hua, Chunyu Wei, Xin Wang, Yueguo Chen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.09497v1
+- First submission: 2026-05-10T12:11:52Z
+- Version updated: 2026-05-10T12:11:52Z
+- Abstract SHA-256: b57d784c70b50d2c25055c6d139c0a5acfc97da3a4effbd63536b72d6df38a69
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

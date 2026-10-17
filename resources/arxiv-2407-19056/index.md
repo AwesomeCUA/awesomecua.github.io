@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Zilong Wang, Yuedong Cui, Li Zhong, Zimin Zhang, Da Yin, Bill Yuchen Lin, Jingbo Shang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2407.19056v1
+- First submission: 2024-07-26T19:27:17Z
+- Version updated: 2024-07-26T19:27:17Z
+- Abstract SHA-256: c443e6a508c438332ac5990cf254a4441f5bdcc24354fd8aeca36bcbf4604a29
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

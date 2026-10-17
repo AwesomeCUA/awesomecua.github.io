@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Daniel Toyama, Philippe Hamel, Anita Gergely, Gheorghe Comanici, Amelia Glaese, Zafarali Ahmed, Tyler Jackson, Shibl Mourad, Doina Precup
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2105.13231v1
+- First submission: 2021-05-27T15:20:14Z
+- Version updated: 2021-05-27T15:20:14Z
+- Abstract SHA-256: 7f0caf694223bc2569cdd01662cadf54cbc96cad370866a231c15437c5d5d0ba
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

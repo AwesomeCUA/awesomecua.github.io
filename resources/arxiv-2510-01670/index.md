@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Erfan Shayegani, Keegan Hines, Yue Dong, Nael Abu-Ghazaleh, Roman Lutz, Spencer Whitehead, Vidhisha Balachandran, Besmira Nushi, Vibhav Vineet
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2510.01670v1
+- First submission: 2025-10-02T04:52:15Z
+- Version updated: 2025-10-02T04:52:15Z
+- Abstract SHA-256: a6426fa5eeb3dfafef30e47dd46a6a43dff3e24bf0ff485b7d10ab9efe133f94
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Summary and topic tags reviewed against the primary abstract. Reported experimen
 
 Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Yong Dai, Hongming Zhang, Zhenzhong Lan, Dong Yu
 
+## Recorded arXiv snapshot
+
+- Version: 4
+- Version source: https://arxiv.org/abs/2401.13919v4
+- First submission: 2024-01-25T03:33:18Z
+- Version updated: 2024-06-06T18:37:34Z
+- Abstract SHA-256: dbc7121c9606c5987df0941b849c216ad8731bebcc74a061cf3f154379d7b8da
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

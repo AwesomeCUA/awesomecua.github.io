@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Erika Kawakami, Jiabao Chen, Mónica Benito, Denis Konstantinov
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2303.03688v3
+- First submission: 2023-03-07T07:13:04Z
+- Version updated: 2023-10-19T04:31:35Z
+- Abstract SHA-256: c6c35a50d40ec61800596081f99b24b7bf8402293f799886f505b71686b99405
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Guangyi Liu, Pengxiang Zhao, Liang Liu, Zhiming Chen, Yuxiang Chai, Shuai Ren, Hao Wang, Shibo He, Wenchao Meng
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2504.13805v1
+- First submission: 2025-04-18T17:13:34Z
+- Version updated: 2025-04-18T17:13:34Z
+- Abstract SHA-256: 2bbe6c4969a9557546752235809d25912bff96a97001fade30102d8d2c751054
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Dheeraj Varghese, Anna Vettoruzzo, Walter Simoncini, Michelle Lorena Acevedo Callejas, Mohammad Mahdi Derakhshani, Kristof Meding, Joaquin Vanschoren, Cees G. M. Snoek
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.07127v1
+- First submission: 2026-10-05T17:52:40Z
+- Version updated: 2026-10-05T17:52:40Z
+- Abstract SHA-256: 21a807604326825ca2159d3528f0c12c8127043703f7fd56f0dd0213c7697d50
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

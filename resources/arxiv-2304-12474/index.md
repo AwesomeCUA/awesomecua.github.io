@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Murat Isik, Kayode Inadagbo, Hakan Aktas
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2304.12474v1
+- First submission: 2023-04-24T22:20:42Z
+- Version updated: 2023-04-24T22:20:42Z
+- Abstract SHA-256: adae946c8b48280b5af191cce824df9187cb04aa48a2e1d821d091be1d54ebd1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

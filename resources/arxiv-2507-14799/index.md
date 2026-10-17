@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sam Johnson, Viet Pham, Thai Le
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2507.14799v1
+- First submission: 2025-07-20T03:10:13Z
+- Version updated: 2025-07-20T03:10:13Z
+- Abstract SHA-256: 79963ac401384f0c23ecc65d58e616daacc93103456ceb39241dcd6d71c6591c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

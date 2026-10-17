@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Pawel Pawlowski, Krystian Zawistowski, Wojciech Lapacz, Adam Wiacek, Marcin Skorupa, Sebastien Postansque, Jakub Hoscilowicz
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2410.11871v3
+- First submission: 2024-10-09T12:06:43Z
+- Version updated: 2025-05-21T06:52:31Z
+- Abstract SHA-256: 3f1594a51709f2a1283d3ac14734f08fa7894b436b85bafbbbe9b2eaba332129
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

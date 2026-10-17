@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhixin Lin, Jungang Li, Dongliang Xu, Shidong Pan, Yibo Shi, Yuchi Liu, Yuecong Min, Yue Yao
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.11259v1
+- First submission: 2026-04-13T10:12:03Z
+- Version updated: 2026-04-13T10:12:03Z
+- Abstract SHA-256: df9bec627d3ffda9d0b184c59d1e0a7502a766b880a6d78a73c32270f9fbc49f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

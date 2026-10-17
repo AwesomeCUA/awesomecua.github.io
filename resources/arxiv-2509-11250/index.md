@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yitong Zhang, Ximo Li, Liyi Cai, Jia Li
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2509.11250v3
+- First submission: 2025-09-14T12:47:54Z
+- Version updated: 2026-08-24T12:04:58Z
+- Abstract SHA-256: 9ab96edd8e52b3a490455b46878c92c23d15c0f9e105e71dbd6848e058da42ec
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

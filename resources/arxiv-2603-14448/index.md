@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ziwei Liu, Tao Feng, Borui Kang, Yanbing Yang, Jun Luo
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2603.14448v1
+- First submission: 2026-03-15T15:47:47Z
+- Version updated: 2026-03-15T15:47:47Z
+- Abstract SHA-256: b4507a652e2b3c3857289763442fffd8db21726b97fb7b6304ad61a2139ef5af
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

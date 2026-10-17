@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yu Ran, Wentao Zhao
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2608.03740v2
+- First submission: 2026-08-04T14:34:41Z
+- Version updated: 2026-09-28T13:07:55Z
+- Abstract SHA-256: 152e21cd4f1f290aafadfdcfaa10e15a03378404540a46b5f1a5464a2d432d23
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

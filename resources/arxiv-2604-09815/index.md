@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Tiantian He, Yihang Chen, Keyue Jiang, Ka Yiu Lee, Kaiwen Zhou, Kun Shao, Shuai Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.09815v1
+- First submission: 2026-04-10T18:46:05Z
+- Version updated: 2026-04-10T18:46:05Z
+- Abstract SHA-256: dd2bc0ee1955dbc8e98a9306a3d6260251cbab89d36ac117e4dc49b6fa99766e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

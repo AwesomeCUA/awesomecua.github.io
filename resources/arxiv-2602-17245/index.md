@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Linxi Jiang, Rui Xi, Zhijie Liu, Shuo Chen, Zhiqiang Lin, Suman Nath
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2602.17245v2
+- First submission: 2026-02-19T10:50:52Z
+- Version updated: 2026-06-07T07:49:30Z
+- Abstract SHA-256: 81cb12b4b7379a2f602ab9edeea4d1c3a2f16be486f93742829e7f65f2128968
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

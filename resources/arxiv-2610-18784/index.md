@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yuchen Lu, Julian McAuley, Lei Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2610.18784v2
+- First submission: 2026-10-13T17:35:27Z
+- Version updated: 2026-10-14T04:46:42Z
+- Abstract SHA-256: 6f4a9b6fae506d4dd35798c1930d5df4ec7fc7a2c452ab8bd5a5714cf385d505
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

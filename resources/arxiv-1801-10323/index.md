@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shlomi Dolev, Peeyush Gupta, Yin Li, Sharad Mehrotra, Shantanu Sharma
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/1801.10323v3
+- First submission: 2018-01-31T07:02:10Z
+- Version updated: 2019-08-06T03:15:04Z
+- Abstract SHA-256: f69ba53a4df9a9de0e2f9fbc283505259237c448f2e6bc89ff664431273156f5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

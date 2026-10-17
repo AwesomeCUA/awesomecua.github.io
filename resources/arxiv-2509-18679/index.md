@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shikhar Srivastava, Ritajit Majumdar, Padmanabha Venkatagiri Seshadri, Anupama Ray, Yogesh Simmhan
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2509.18679v2
+- First submission: 2025-09-23T05:54:21Z
+- Version updated: 2026-08-19T16:45:03Z
+- Abstract SHA-256: 62d090ffda92ef493bcc37ca272394394d5f5f98906303d32743886b0f5446f5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

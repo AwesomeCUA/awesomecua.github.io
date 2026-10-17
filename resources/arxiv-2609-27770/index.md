@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhitong Guo, Jing Yu Koh, Ruiyu Li
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.27770v1
+- First submission: 2026-08-16T19:54:53Z
+- Version updated: 2026-08-16T19:54:53Z
+- Abstract SHA-256: 80f6fb973e9f8d62e515d02105d08be774fc32ed5b20a7ecee92b45d112415aa
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

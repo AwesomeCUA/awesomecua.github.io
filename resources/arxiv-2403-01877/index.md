@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Grischa Beneke, Thomas Brian Winkler, Klaus Raab, Maarten A. Brems, Fabian Kammerbauer, Pascal Gerhards, Klaus Knobloch, Johan Mentink, Mathias Kläui
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2403.01877v1
+- First submission: 2024-03-04T09:32:13Z
+- Version updated: 2024-03-04T09:32:13Z
+- Abstract SHA-256: ed1e985985969c2d8d87d0e3de9e56c14b84b4269bda3b2ff8c89240698f9ba2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

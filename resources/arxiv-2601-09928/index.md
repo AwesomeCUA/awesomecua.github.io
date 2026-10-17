@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Saber Zerhoudi, Michael Granitzer
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2601.09928v1
+- First submission: 2026-01-14T23:18:54Z
+- Version updated: 2026-01-14T23:18:54Z
+- Abstract SHA-256: bf4e40090009768a4cbe46d0701fd1c81513cb14e953476476d1e3180d299697
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

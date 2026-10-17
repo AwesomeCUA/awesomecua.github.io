@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Geunwoo Kim, Pierre Baldi, Stephen McAleer
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2303.17491v3
+- First submission: 2023-03-30T16:01:52Z
+- Version updated: 2023-11-16T20:15:14Z
+- Abstract SHA-256: 8f36bd6088175b337b750d91d0b7c04d2c156742e5c4090a74f00a482157e386
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ying Mo, Yu Bai, Dapeng Sun, Yuqian Shi, Yukai Miao, Li Chen, Dan Li
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2601.17722v1
+- First submission: 2026-01-25T06:58:15Z
+- Version updated: 2026-01-25T06:58:15Z
+- Abstract SHA-256: fa7c8ce1b0e584c5279691ff06cd522d7c8ea1f4801d7074324c6845ce482efb
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Victor Muryn, Maksym Shamrai, Sofiia Mazepa, Yehor Khodysko
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2606.06560v1
+- First submission: 2026-06-04T14:01:32Z
+- Version updated: 2026-06-04T14:01:32Z
+- Abstract SHA-256: fd66adb4e99df2348f59e238d219d48cb6e758e694839367d2b9a64675429d87
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

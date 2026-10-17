@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Hyewon Suh, Thanh Minh Nguyen, Chih-Lun Lee, Darrow Hartman, Lizhao Liu, Xin Eric Wang, Ang Li, Jiachen Yang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.36927v1
+- First submission: 2026-09-29T07:44:22Z
+- Version updated: 2026-09-29T07:44:22Z
+- Abstract SHA-256: fdd9890482c07ef44f6e274c802bae5decd9d883b381545b3034ebd4001cdb34
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

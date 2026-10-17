@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jonas Kantic, Fabian C. Legl, Walter Stechele, Jakob Hermann
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2308.11522v1
+- First submission: 2023-08-22T15:52:37Z
+- Version updated: 2023-08-22T15:52:37Z
+- Abstract SHA-256: 515633a89f1cb6e8219133a38c6ce4b50663ae463fad073aa5e52bb06b17a4f8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

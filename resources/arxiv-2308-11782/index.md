@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Mahdi Manavi, Yunpeng Zhang, Guoning Chen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2308.11782v1
+- First submission: 2023-08-22T20:41:13Z
+- Version updated: 2023-08-22T20:41:13Z
+- Abstract SHA-256: 8a29170e23a4f79b5e9c8194206d3350d5bfb4c64bf7b86c75b5710a9d4d5ce9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

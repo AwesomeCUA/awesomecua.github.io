@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 T. R. Gopalakrishnan Nair, P Jayarekha
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1206.0419v1
+- First submission: 2012-06-03T04:42:23Z
+- Version updated: 2012-06-03T04:42:23Z
+- Abstract SHA-256: 747dbacc3170453ac255900c150cef4606232aa96869698cb54194c99a491c56
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

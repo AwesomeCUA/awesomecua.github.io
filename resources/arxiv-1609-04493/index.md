@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yajue Yang, Yuanqing Wu, Jia Pan
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1609.04493v1
+- First submission: 2016-09-15T02:11:16Z
+- Version updated: 2016-09-15T02:11:16Z
+- Abstract SHA-256: 709757eaaf55b9e76dab9732dd4a578e5b16fb66645cb886be8fca725cac5970
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

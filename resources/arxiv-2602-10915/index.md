@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhenhua Zou, Sheng Guo, Qiuyang Zhan, Lepeng Zhao, Shuo Li, Qi Li, Ke Xu, Mingwei Xu, Zhuotao Liu
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2602.10915v3
+- First submission: 2026-02-11T14:52:27Z
+- Version updated: 2026-02-13T12:42:39Z
+- Abstract SHA-256: f973754a1630fac3c37307f39fc7346601f2bf269a0a2804e8c0841895d1a9d5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

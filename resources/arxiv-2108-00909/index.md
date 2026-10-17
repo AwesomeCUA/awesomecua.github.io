@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Kirill Rivkin, Michael Montemorra
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2108.00909v1
+- First submission: 2021-08-02T14:00:17Z
+- Version updated: 2021-08-02T14:00:17Z
+- Abstract SHA-256: d62a6c19eb8633f0e14e6d8b195398a2696258e8f14bd15da1a3fe37651bce1d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

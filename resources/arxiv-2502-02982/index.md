@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Wenhao Wang, Mengying Yuan, Zijie Yu, Guangyi Liu, Rui Ye, Tian Jin, Siheng Chen, Yanfeng Wang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2502.02982v2
+- First submission: 2025-02-05T08:26:17Z
+- Version updated: 2025-05-20T07:03:02Z
+- Abstract SHA-256: ecab608111104ac044bb7d28996604e9b87bdad4543c250c57bf432f883b96d5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

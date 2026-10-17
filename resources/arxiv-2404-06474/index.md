@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jiayi Pan, Yichi Zhang, Nicholas Tomlin, Yifei Zhou, Sergey Levine, Alane Suhr
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2404.06474v3
+- First submission: 2024-04-09T17:25:47Z
+- Version updated: 2024-10-07T14:19:37Z
+- Abstract SHA-256: abc75ee55c7ac5992656dcec2106e286c670a58130a59b0eef7f5fd74d7496c5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

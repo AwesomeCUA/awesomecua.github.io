@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Chang Liu, Jiangrong Shen, Xuming Ran, Mingkun Xu, Qi Xu, Yi Xu, Gang Pan
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2506.01968v1
+- First submission: 2025-05-12T15:31:34Z
+- Version updated: 2025-05-12T15:31:34Z
+- Abstract SHA-256: 2f044f8d290ad01fd3a47141c3e85f58a808d45a6336a6a5f98de6003970cd7f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

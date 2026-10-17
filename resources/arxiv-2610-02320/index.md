@@ -20,6 +20,15 @@ Editorial summary based on the primary paper abstract; experiments and released 
 
 A. Said Gurbuz, Ahmed Nassar, Sunghwan Hong, Marc Pollefeys, Peter W. J. Staar
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.02320v1
+- First submission: 2026-10-01T18:00:05Z
+- Version updated: 2026-10-01T18:00:05Z
+- Abstract SHA-256: bd66468c2670ec22216e1592719a05e0b56af69606237a50f2067a340172553e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

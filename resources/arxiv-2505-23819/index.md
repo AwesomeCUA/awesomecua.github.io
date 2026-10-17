@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Keren Zhou, Mario Lezcano, Adam Goucher, Akhmed Rakhmati, Jeff Niu, Justin Lebar, Pawel Szczerbuk, Peter Bell, Phil Tillet, Thomas Raoux, Zahi Moudallal
 
+## Recorded arXiv snapshot
+
+- Version: 5
+- Version source: https://arxiv.org/abs/2505.23819v5
+- First submission: 2025-05-28T00:45:50Z
+- Version updated: 2026-03-06T16:48:24Z
+- Abstract SHA-256: 5c9ae2806eaa5473a5b15fa1bbc8cee7418fb9f0fc72f075df3daa2817553602
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

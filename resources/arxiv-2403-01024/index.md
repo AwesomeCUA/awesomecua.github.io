@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 A. H. Abbas, Ivan S. Maksymov
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2403.01024v1
+- First submission: 2024-03-01T22:59:41Z
+- Version updated: 2024-03-01T22:59:41Z
+- Abstract SHA-256: d1411cdfbb5cbca1c4c9b309d5db448f75747033c54bf41fac98d2c093197123
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

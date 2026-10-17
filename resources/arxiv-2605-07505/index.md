@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yubin Wu, Zicheng Cai, Liping Ning, Hua Wang, Zhi Chen, Yaohua Tang, Hao Chen
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2605.07505v2
+- First submission: 2026-05-08T09:38:29Z
+- Version updated: 2026-10-08T08:52:00Z
+- Abstract SHA-256: ea5186a99b7dbc7860396835c8adf638c937dbcc673b955d51d85bc5fe7dbb9a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

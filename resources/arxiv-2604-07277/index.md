@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Guo Gan, Yuxuan Ding, Cong Chen, Yuwei Ren, Yin Huang, Hong Zhou
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2604.07277v2
+- First submission: 2026-04-08T16:40:26Z
+- Version updated: 2026-05-08T03:06:31Z
+- Abstract SHA-256: f4d0dbeac950760f4f676ab7c651a881fd275f4adb69d46a94a11c4f10a03980
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

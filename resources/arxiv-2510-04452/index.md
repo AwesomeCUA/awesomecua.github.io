@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jenny T. Liang, Titus Barik, Jeffrey Nichols, Eldon Schoop, Ruijia Cheng
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2510.04452v3
+- First submission: 2025-10-06T02:58:42Z
+- Version updated: 2026-07-28T07:01:45Z
+- Abstract SHA-256: 15bc41d6223eb659fd4d99cb55b83b1dc60cdc98cf990cb641311ab1879c841f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

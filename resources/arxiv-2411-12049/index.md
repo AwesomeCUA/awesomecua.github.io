@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xiaohan Dan, Eitan Geva, Victor S. Batista
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2411.12049v2
+- First submission: 2024-11-18T20:41:10Z
+- Version updated: 2025-02-10T23:13:21Z
+- Abstract SHA-256: 489518d754a9f1fee56bf8f6ebd1efe927570c5e19e9fada1e778cdfd08546c0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Adhitha Dias, Kirshanthan Sundararajah, Charitha Saumya, Milind Kulkarni
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2205.11622v1
+- First submission: 2022-05-23T20:47:42Z
+- Version updated: 2022-05-23T20:47:42Z
+- Abstract SHA-256: 1050ed871bd4dda063ad93feb312a4d36fa8975f8a0927e0581b8f9fd440bd95
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

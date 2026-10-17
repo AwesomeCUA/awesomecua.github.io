@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Su Kara, Fazle Faisal, Suman Nath
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2510.03285v1
+- First submission: 2025-09-28T20:51:05Z
+- Version updated: 2025-09-28T20:51:05Z
+- Abstract SHA-256: 88e25f6d876dc6ad11219e3faa0e7d95f4abb39a9aba32213896225aff64ec42
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

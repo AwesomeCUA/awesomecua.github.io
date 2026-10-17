@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Divake Kumar, Sina Tayebati, Devashri Naik, Amanda Sofie Rios, Nilesh Ahuja, Omesh Tickoo, Ranganath Krishnan, Amit Ranjan Trivedi
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2606.25760v2
+- First submission: 2026-06-24T12:34:28Z
+- Version updated: 2026-09-29T20:55:51Z
+- Abstract SHA-256: 628d08bdbf23ae9e599bf767f0503cecedcde72dfbfcc183f9ea9f044c6f2d44
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

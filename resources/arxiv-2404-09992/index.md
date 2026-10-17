@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Shulin Tian, Ziniu Zhang, Liangyu Chen, Ziwei Liu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2404.09992v2
+- First submission: 2024-04-15T17:59:50Z
+- Version updated: 2025-06-29T05:24:54Z
+- Abstract SHA-256: 667b1f5053f3ae6ea712999932d5e9ee2f42e402cc72e713048d0790f5931976
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

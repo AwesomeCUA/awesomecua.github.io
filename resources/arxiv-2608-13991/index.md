@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Churchil Dwivedi, Hiya Shah, Hemanga Tahbildar
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2608.13991v2
+- First submission: 2026-08-14T06:16:33Z
+- Version updated: 2026-09-30T14:15:37Z
+- Abstract SHA-256: f627ba3336ac86d95066596b7ad6d1dace3d8cf92c4aba5993538c7c932d9569
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

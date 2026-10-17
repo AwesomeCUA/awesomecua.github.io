@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Tommaso Sorgente, Silvia Biasotti, Michela Spagnuolo
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2202.06625v1
+- First submission: 2022-02-14T11:25:14Z
+- Version updated: 2022-02-14T11:25:14Z
+- Abstract SHA-256: 39fba53b7c06d069f6da3c5a66e6215c8a9637e31dcf299ed2d57986b30f2860
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Peter Shaw, Mandar Joshi, James Cohan, Jonathan Berant, Panupong Pasupat, Hexiang Hu, Urvashi Khandelwal, Kenton Lee, Kristina Toutanova
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2306.00245v2
+- First submission: 2023-05-31T23:39:18Z
+- Version updated: 2023-12-06T23:46:36Z
+- Abstract SHA-256: d06f7480695f45546b62b5b8c3d8c174ca52936e158d46e626689d0918711417
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

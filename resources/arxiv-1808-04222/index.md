@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Andreea Buga, Sorana Tania Nemes, Atif Mashkoor
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1808.04222v1
+- First submission: 2018-08-13T13:59:38Z
+- Version updated: 2018-08-13T13:59:38Z
+- Abstract SHA-256: 6befbb4701dd818e9951d687e266834bcd75bbea46305874bbbc13f9f95c5592
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

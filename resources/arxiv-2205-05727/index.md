@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Artyom M. Grigoryan, Sos S. Agaian
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2205.05727v1
+- First submission: 2022-05-11T18:53:43Z
+- Version updated: 2022-05-11T18:53:43Z
+- Abstract SHA-256: 0220612dcd8ce2433e561ec455e61398dd9cf28572a8a791f247ebb2d6e7aba5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

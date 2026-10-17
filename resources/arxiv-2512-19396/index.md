@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Runze Li, Yuwen Zhai, Bo Xu, LiWu Xu, Nian Shi, Wei Zhang, Ran Lin, Liang Wang
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2512.19396v3
+- First submission: 2025-12-22T13:42:18Z
+- Version updated: 2026-04-10T06:20:00Z
+- Abstract SHA-256: 03cdf8514fa9f036b4614a880d842d49bb9cb0a821858b7215784fba209faa62
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

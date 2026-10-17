@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Evgenia Christoforou, Antonio Fernández Anta, Chryssis Georgiou, Miguel A. Mosteiro
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/1603.04394v2
+- First submission: 2016-03-14T19:07:53Z
+- Version updated: 2016-03-30T09:09:13Z
+- Abstract SHA-256: db570f4f7c1af30eb3738cbda9cd694eb12e562744716b5495247cd98aeb26b0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

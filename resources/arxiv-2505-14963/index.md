@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shan Chen, Pedro Moreira, Yuxin Xiao, Sam Schmidgall, Jeremy Warner, Hugo Aerts, Thomas Hartvigsen, Jack Gallifant, Danielle S. Bitterman
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2505.14963v1
+- First submission: 2025-05-20T22:42:33Z
+- Version updated: 2025-05-20T22:42:33Z
+- Abstract SHA-256: a227e1d3ab5d05be9df0de9df0de1ae4842c2757ba522304feca3b6008473661
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

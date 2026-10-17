@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Guangyi Liu, Yong Liu, Jiangning Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.08699v1
+- First submission: 2026-10-06T17:13:53Z
+- Version updated: 2026-10-06T17:13:53Z
+- Abstract SHA-256: 356c7eb45841a33a2420fbe88fd4487c72461c64da7fc308ed97c480e849617c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

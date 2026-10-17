@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Gaole Dai, Shiqi Jiang, Ting Cao, Yuqing Yang, Yuanchun Li, Rui Tan, Mo Li, Lili Qiu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2509.21823v2
+- First submission: 2025-09-26T03:29:36Z
+- Version updated: 2026-04-15T09:19:46Z
+- Abstract SHA-256: c96f310fb0f28888c59dce71d08697b603e7a7562fdf99b51e3504b93e9e81b3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

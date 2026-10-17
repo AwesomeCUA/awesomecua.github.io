@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Jiwen Zhang, Jihao Wu, Yihua Teng, Minghui Liao, Nuo Xu, Xiao Xiao, Zhongyu Wei, Duyu Tang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2403.02713v2
+- First submission: 2024-03-05T07:09:35Z
+- Version updated: 2024-07-13T02:12:30Z
+- Abstract SHA-256: 4de9e7d68aa8450cab65ecb300524e85b1d2b2a91d58fecef370deceaba64b1e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

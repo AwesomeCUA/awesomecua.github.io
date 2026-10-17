@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Xinbei Ma, Zhuosheng Zhang, Hai Zhao
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2402.11941v3
+- First submission: 2024-02-19T08:29:03Z
+- Version updated: 2024-06-02T13:25:05Z
+- Abstract SHA-256: 98930b10832d8169bdc60620f882b4b8f753440979c8e9a8de167b12d38d7060
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

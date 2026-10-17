@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Nathan Tibbetts, Sifat Ibtisum, Satish Puri
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2504.03653v2
+- First submission: 2025-03-03T22:08:24Z
+- Version updated: 2025-10-24T17:51:11Z
+- Abstract SHA-256: 1af6e8b5f06e272caf949fac460770cae62cf894ea8bd18af9a00ddaac337e08
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

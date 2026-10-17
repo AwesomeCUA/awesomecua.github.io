@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuhei Yamada
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2507.06063v2
+- First submission: 2025-07-08T15:06:40Z
+- Version updated: 2025-08-17T08:08:50Z
+- Abstract SHA-256: 0395dc36edd7a18e4e4471633b64a8d172d05737a92bfc7cadf7bcd0a50bb928
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

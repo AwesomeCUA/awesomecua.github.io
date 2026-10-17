@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuting Liu, Albert Lee, Kun Qian, Peng Zhang, Zhihua Xiao, Haoran He, Zheyu Ren, Shun Kong Cheung, Ruizi Liu, Yaoyin Li, Xu Zhang, Zichao Ma, Jianyuan Zhao, Weiwei Zhao, Guoqiang Yu, Xin Wang, Junwei Liu, Zhongrui Wang, Kang L. Wang, Qiming Shao
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2209.09443v2
+- First submission: 2022-09-20T03:44:49Z
+- Version updated: 2025-06-03T14:45:32Z
+- Abstract SHA-256: 47f45b2499c991923874b5a60893109193196e075ff7c4fa6c0425d74e89c186
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

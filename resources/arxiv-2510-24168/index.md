@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Weihua Cheng, Junming Liu, Yifei Sun, Botian Shi, Yirong Chen, Ding Wang
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2510.24168v3
+- First submission: 2025-10-28T08:19:58Z
+- Version updated: 2026-04-14T04:34:20Z
+- Abstract SHA-256: d80312fbd8f57cdc53cc10e03f2c68e2152d06945e5089967dceda50c02b9d4b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

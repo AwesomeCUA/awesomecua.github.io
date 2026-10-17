@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Hangyi Jia, Yuxi Qian, Hanwen Tong, Xinhui Wu, Lin Chen, Feng Wei
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2509.09321v1
+- First submission: 2025-09-11T10:10:48Z
+- Version updated: 2025-09-11T10:10:48Z
+- Abstract SHA-256: f17328cfdaacd90ec9578cb4168b1614c60c176d47f7b74012f188f7438882b0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

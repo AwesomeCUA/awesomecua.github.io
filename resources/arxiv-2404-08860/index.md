@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Lei Ding, Jeshwanth Bheemanpally, Yi Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2404.08860v3
+- First submission: 2024-04-13T00:20:09Z
+- Version updated: 2024-07-09T01:14:21Z
+- Abstract SHA-256: b3a030a53a942eacfabafc64af67591fd0a85af66291c5d1b48baea14556e8aa
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

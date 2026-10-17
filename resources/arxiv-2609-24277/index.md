@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yunxiang Li, Xixin Wu, Helen Meng
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.24277v1
+- First submission: 2026-09-21T08:42:08Z
+- Version updated: 2026-09-21T08:42:08Z
+- Abstract SHA-256: 64936af65d0ca351b19da3f63325f2bc2a5c9e0951e5a7806cd4dd82b18784a7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

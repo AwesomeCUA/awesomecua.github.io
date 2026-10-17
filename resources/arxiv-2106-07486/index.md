@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 M. Mazzanti, R. X. Schüssler, J. D. Arias Espinoza, Z. Wu, R. Gerritsma, A. Safavi-Naini
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2106.07486v1
+- First submission: 2021-06-14T15:16:16Z
+- Version updated: 2021-06-14T15:16:16Z
+- Abstract SHA-256: 6ec85c314761779632c44e05601644cf1e150618c0aba2cd4e2743c41e1892f4
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

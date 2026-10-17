@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Wenjia Jiang, Yangyang Zhuang, Chenxi Song, Xu Yang, Joey Tianyi Zhou, Chi Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2503.02268v3
+- First submission: 2025-03-04T04:34:09Z
+- Version updated: 2025-04-15T02:32:21Z
+- Abstract SHA-256: d396e4e249fc2aa1f4d53eadac38c3c814aae3f0208921b3388d5b009e6037b3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

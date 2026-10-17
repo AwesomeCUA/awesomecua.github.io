@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Theresa Farah, Loïc Flis, Pierre Laly, Guo-En Chang, Jun-Yu Ou, Yoshishige Tsuchiya, Yan Pennec, Bahram Djafari-Rouhani, Xin Zhou
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2601.02617v3
+- First submission: 2026-01-06T00:31:47Z
+- Version updated: 2026-03-24T10:48:35Z
+- Abstract SHA-256: 0d25ebe888d350bc36165e621c7811dea954bcd7bafba96bbfd27985da3bbc89
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Jakub Hoscilowicz, Bartosz Maj, Bartosz Kozakiewicz, Oleksii Tymoshchuk, Artur Janicki
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2410.11872v2
+- First submission: 2024-10-09T14:49:02Z
+- Version updated: 2024-10-17T07:12:31Z
+- Abstract SHA-256: e804944da205076ac6cf88c7966c471697e526f657bda339e09df240257f7217
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yiqiao Jin, Stefano Petrangeli, Yu Shen, Gang Wu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2503.20978v1
+- First submission: 2025-03-26T20:41:24Z
+- Version updated: 2025-03-26T20:41:24Z
+- Abstract SHA-256: 0888d0da1c5da9cf9956fd8b145a09f463aa432a60b142c4aea8d20b4aa84c4d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

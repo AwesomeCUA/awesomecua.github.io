@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yinuo Liu, Xilong Wang, Ruohan Xu, Yuqi Jia, Neil Zhenqiang Gong
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2510.01354v2
+- First submission: 2025-10-01T18:34:06Z
+- Version updated: 2026-09-23T16:44:27Z
+- Abstract SHA-256: e997e87268cfe66869bf19fdc8445e5487c980736a63cbe76f779bd1f142c396
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

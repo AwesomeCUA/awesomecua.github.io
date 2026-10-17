@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhe Liu, Cheng Li, Chunyang Chen, Junjie Wang, Mengzhuo Chen, Boyu Wu, Yawen Wang, Jun Hu, Qing Wang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2407.03037v2
+- First submission: 2024-07-03T11:58:09Z
+- Version updated: 2024-12-04T08:00:42Z
+- Abstract SHA-256: 73b706ac6089a7d19836268437f3fea58d10b9d170ac596ac0d5a12f0d3a9668
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

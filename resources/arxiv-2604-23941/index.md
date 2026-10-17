@@ -20,6 +20,15 @@ Editorial summary based on the primary paper abstract; experiments and released 
 
 Hongxin Li, Yuntao Chen, Zhaoxiang Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.23941v1
+- First submission: 2026-04-27T01:29:02Z
+- Version updated: 2026-04-27T01:29:02Z
+- Abstract SHA-256: 3fe6a322737dd58339673bb1c956345ff585d79df6185ce1f9eaa452b37a1e01
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

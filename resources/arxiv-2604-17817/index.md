@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shiquan Zhang, Tianyi Zhang, Le Fang, Simon D'Alfonso, Hong Jia, Vassilis Kostakos
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.17817v1
+- First submission: 2026-04-20T05:15:14Z
+- Version updated: 2026-04-20T05:15:14Z
+- Abstract SHA-256: 176f4d68e2f5084bee1938ee1399978052cdce2d2250ef06c16ddbf49c977da1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

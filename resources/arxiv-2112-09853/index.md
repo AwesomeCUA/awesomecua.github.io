@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Timothy Proctor, Stefan Seritan, Kenneth Rudinger, Erik Nielsen, Robin Blume-Kohout, Kevin Young
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2112.09853v2
+- First submission: 2021-12-18T06:04:22Z
+- Version updated: 2022-10-10T15:36:11Z
+- Abstract SHA-256: 100ab5b501d1ed147dccc539239ebbbd8bdc0f7d4c9f8de4f0ef1e4fc8c8bbff
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

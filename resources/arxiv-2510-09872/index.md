@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sanjari Srivastava, Gang Li, Cheng Chang, Rishu Garg, Manpreet Kaur, Charlene Y. Lee, Yuezhang Li, Yining Mao, Ignacio Cases, Yanan Xie, Peng Qi
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2510.09872v2
+- First submission: 2025-10-10T21:20:51Z
+- Version updated: 2026-05-18T22:06:26Z
+- Abstract SHA-256: 3af3fb75d012ebcf4ad082ab7b83b0553596bbbb8598751d0a70c86d929a22ee
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Luiz O. R. Solak, Daniel Z. Rossatto, Celso J. Villas-Boas
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2308.14881v2
+- First submission: 2023-08-28T20:09:54Z
+- Version updated: 2024-06-27T20:27:31Z
+- Abstract SHA-256: ab5df86d5dfaf16c1b67939c07c068997269557cd1e49ddb1dcc803b300aae72
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

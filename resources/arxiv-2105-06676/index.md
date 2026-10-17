@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zafar Ahmad, Rezaul Chowdhury, Rathish Das, Pramod Ganapathi, Aaron Gregory, Yimin Zhu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2105.06676v1
+- First submission: 2021-05-14T07:24:36Z
+- Version updated: 2021-05-14T07:24:36Z
+- Abstract SHA-256: 77deaa89199e6a22e888b78c34373256c3f050e758ddba1d803bae5f53f1baea
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

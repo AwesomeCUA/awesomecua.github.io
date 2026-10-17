@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jia-Chen Zhang, Ze-Yu Zhang, Kai-Wei Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2608.02018v2
+- First submission: 2026-08-03T10:16:53Z
+- Version updated: 2026-08-06T02:33:08Z
+- Abstract SHA-256: 1111a54a66183f6f0ab0bbde067937c1806214821e5ed487a3eb3367c57050ce
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Pranjal Aggarwal, Lawrence Keunho Jang, Sean Welleck, Daniel Fried, Ruslan Salakhutdinov, Jing Yu Koh
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.40284v1
+- First submission: 2026-09-30T17:48:06Z
+- Version updated: 2026-09-30T17:48:06Z
+- Abstract SHA-256: 502912cdc35afd61beeb0202d55fc8feefcd92cd3719cd0e85bc71561d6f5a3c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

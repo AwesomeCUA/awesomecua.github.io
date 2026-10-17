@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Johannes Pekkilä, Miikka S. Väisälä, Maarit J. Käpylä, Matthias Rheinhardt, Oskar Lappi
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2103.01597v2
+- First submission: 2021-03-02T09:44:42Z
+- Version updated: 2022-05-10T11:21:57Z
+- Abstract SHA-256: 3cfc9f29eb40b2694d19e952d999e0a923c802648b82faf8d70e9e72ec3858d8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

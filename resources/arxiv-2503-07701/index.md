@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Konstantinos Vergopoulos, Mark Niklas Müller, Martin Vechev
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2503.07701v1
+- First submission: 2025-03-10T17:42:49Z
+- Version updated: 2025-03-10T17:42:49Z
+- Abstract SHA-256: 8f7998d9e9b10f7157129a544560cc38c45abe8c3422b260c1eb9f9573606076
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

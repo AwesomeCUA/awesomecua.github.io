@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Jiani Zheng, Lu Wang, Fangkai Yang, Chaoyun Zhang, Lingrui Mei, Wenjie Yin, Qingwei Lin, Dongmei Zhang, Saravan Rajmohan, Qi Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2502.18906v1
+- First submission: 2025-02-26T07:52:02Z
+- Version updated: 2025-02-26T07:52:02Z
+- Abstract SHA-256: 6d69b006a298a591aacfe7f29df63f508113c0ec824ede82a0bb5bbb9cb66266
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

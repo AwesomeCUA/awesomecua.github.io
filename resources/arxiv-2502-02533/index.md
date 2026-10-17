@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Han Zhou, Xingchen Wan, Ruoxi Sun, Hamid Palangi, Shariq Iqbal, Ivan Vulić, Anna Korhonen, Sercan Ö. Arık
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2502.02533v2
+- First submission: 2025-02-04T17:56:44Z
+- Version updated: 2026-01-31T22:11:21Z
+- Abstract SHA-256: 8344d1f0c0cd6f82704d664e0ce563b72f38dfc37494b1c47aec962e679ed69a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

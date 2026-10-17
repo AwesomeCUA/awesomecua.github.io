@@ -20,6 +20,15 @@ Inclusion does not establish reproducibility or endorsement.
 
 Shuai Wang, Weiwen Liu, Jingxuan Chen, Yuqi Zhou, Weinan Gan, Xingshan Zeng, Yuhan Che, Shuai Yu, Xinlong Hao, Kun Shao, Bin Wang, Chuhan Wu, Yasheng Wang, Ruiming Tang, Jianye Hao
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2411.04890v2
+- First submission: 2024-11-07T17:28:10Z
+- Version updated: 2025-02-13T10:09:37Z
+- Abstract SHA-256: 57670445f9b0041bfb505a195d01a9ded6234e01e44c9aa43a6aee5ebd57dd93
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

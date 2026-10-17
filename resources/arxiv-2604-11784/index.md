@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Fei Tang, Zhiqiong Lu, Boxuan Zhang, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2604.11784v1
+- First submission: 2026-04-13T17:52:04Z
+- Version updated: 2026-04-13T17:52:04Z
+- Abstract SHA-256: df56b38203bc5ec8d7e871eb2ad9fca9891a049df62b7d72796fe400eb8bce5e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

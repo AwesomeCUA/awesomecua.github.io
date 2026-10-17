@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Michael Solodko, Justin Wagle
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2605.16024v2
+- First submission: 2026-05-15T14:58:28Z
+- Version updated: 2026-08-17T18:33:12Z
+- Abstract SHA-256: 681ea16cca0a4bcc15a51144692babce934b6fc831cb3d845bc1ed5d3d48b264
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

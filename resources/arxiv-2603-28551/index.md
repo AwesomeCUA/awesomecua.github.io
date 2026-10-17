@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zifan Peng, Mingchen Li
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2603.28551v2
+- First submission: 2026-03-30T15:12:55Z
+- Version updated: 2026-03-31T09:11:27Z
+- Abstract SHA-256: 31c9b9b8489ee3e241d86c191b9b3a17c756e292fae61cd09371ae11d04aef6b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

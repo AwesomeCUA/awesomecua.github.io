@@ -20,6 +20,15 @@ Summary and topic tags reviewed against the primary abstract. Reported experimen
 
 Ada Defne Tur, Nicholas Meade, Xing Han Lù, Alejandra Zambrano, Arkil Patel, Esin Durmus, Spandana Gella, Karolina Stańczak, Siva Reddy
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2503.04957v1
+- First submission: 2025-03-06T20:43:14Z
+- Version updated: 2025-03-06T20:43:14Z
+- Abstract SHA-256: e4588022dd47624058db8a16d7f7763c591241298e94594b56bfeb4ab2e01737
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

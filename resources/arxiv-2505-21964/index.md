@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ziyun Zhang, Xinyi Liu, Xiaoyi Zhang, Jun Wang, Gang Chen, Yan Lu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2505.21964v2
+- First submission: 2025-05-28T04:32:05Z
+- Version updated: 2025-11-03T08:44:04Z
+- Abstract SHA-256: 17c0dac4cbb7c3b7b94496dc225db061a0dc3bda0a34ef40c58ea451524fada7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

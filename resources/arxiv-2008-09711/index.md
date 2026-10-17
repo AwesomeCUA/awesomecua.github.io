@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Donald R. Short, Jerome A. Orosz, Gur Windmiller, William F. Welsh
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2008.09711v2
+- First submission: 2020-08-21T23:19:22Z
+- Version updated: 2020-10-27T22:52:25Z
+- Abstract SHA-256: a7d3b62598c344dfadd2ca129096a8aca338649bbed52fddb2842d98d4012084
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

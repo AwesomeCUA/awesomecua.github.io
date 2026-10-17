@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Hugo Gualdron, Robson Cordeiro, Jose Rodrigues-Jr, Duen Chau, Minsuk Kahng, U Kang
 
+## Recorded arXiv snapshot
+
+- Version: 5
+- Version source: https://arxiv.org/abs/1506.01406v5
+- First submission: 2015-06-03T20:56:30Z
+- Version updated: 2016-09-14T20:26:33Z
+- Abstract SHA-256: 1d35ecbf8487999c4ec09c5a5c59ffd80a181c2cfb8cf6e1c0502fd350bb2f63
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

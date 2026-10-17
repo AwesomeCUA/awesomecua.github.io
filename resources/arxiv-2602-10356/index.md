@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Tianci Xue, Zeyi Liao, Tianneng Shi, Zilu Wang, Kai Zhang, Dawn Song, Yu Su, Huan Sun
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2602.10356v2
+- First submission: 2026-02-10T23:06:02Z
+- Version updated: 2026-05-11T00:11:46Z
+- Abstract SHA-256: d3385966e7b483b33738b3c8e6c9a4d9cf17afa671e1f2e49de4f946cbc5f251
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

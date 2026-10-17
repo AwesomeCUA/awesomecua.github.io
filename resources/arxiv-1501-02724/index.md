@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Balaji Subramaniam, Wu-chun Feng
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1501.02724v1
+- First submission: 2015-01-12T17:18:17Z
+- Version updated: 2015-01-12T17:18:17Z
+- Abstract SHA-256: 0924ab5c486b24bc90661080fabc626dd0ebfe24203e74587180fe0c1310f043
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

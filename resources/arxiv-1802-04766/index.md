@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Peng Zhang, Yueming Liu, Meikang Qiu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1802.04766v1
+- First submission: 2018-02-09T20:20:14Z
+- Version updated: 2018-02-09T20:20:14Z
+- Abstract SHA-256: 60cfaccc87a976654d30fc98aac27038a5f1c1c63a55b907f7c9bf3c257f79ca
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

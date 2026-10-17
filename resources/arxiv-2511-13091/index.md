@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuhan Chen, Yuxuan Liu, Long Zhang, Pengzhi Gao, Jian Luan, Wei Liu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2511.13091v1
+- First submission: 2025-11-17T07:43:15Z
+- Version updated: 2025-11-17T07:43:15Z
+- Abstract SHA-256: 364ceefcbb692493f7da110ec8146411c6dadcb8855b75566f08e50913cbb293
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

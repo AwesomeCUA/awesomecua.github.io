@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yichun Zhang, Xiangwu Guo, Yauhong Goh, Jessica Hu, Zhiheng Chen, Xin Wang, Difei Gao, Mike Zheng Shou
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2601.07181v1
+- First submission: 2026-01-12T04:04:20Z
+- Version updated: 2026-01-12T04:04:20Z
+- Abstract SHA-256: 60c6a513f53c16ea6d989a7b2be56ad26b83e531bcea46b00f2e08476b686c97
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

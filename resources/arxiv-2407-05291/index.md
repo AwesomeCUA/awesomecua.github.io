@@ -20,6 +20,15 @@ Summary and topic tags reviewed against the primary abstract. Reported experimen
 
 Léo Boisvert, Megh Thakkar, Maxime Gasse, Massimo Caccia, Thibault Le Sellier De Chezelles, Quentin Cappart, Nicolas Chapados, Alexandre Lacoste, Alexandre Drouin
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2407.05291v2
+- First submission: 2024-07-07T07:15:49Z
+- Version updated: 2025-02-05T21:50:07Z
+- Abstract SHA-256: 2b56a6208e4fa3523cae3fbae673affcd5fe3d6a9c19df482d27fe71d43ffef5
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

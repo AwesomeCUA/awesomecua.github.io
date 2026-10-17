@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Zeyi Liao, Jaylen Jones, Linxi Jiang, Yuting Ning, Eric Fosler-Lussier, Yu Su, Zhiqiang Lin, Huan Sun
 
+## Recorded arXiv snapshot
+
+- Version: 5
+- Version source: https://arxiv.org/abs/2505.21936v5
+- First submission: 2025-05-28T03:42:09Z
+- Version updated: 2026-03-01T07:50:09Z
+- Abstract SHA-256: 7fe3bdb1357a375de0b1700a6eda7d5987f358bd47fddf3405c27272a3453f2f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

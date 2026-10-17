@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Nitish Kovuru, Prateek Jannu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.14239v1
+- First submission: 2026-09-13T02:22:37Z
+- Version updated: 2026-09-13T02:22:37Z
+- Abstract SHA-256: 9c397c67c00690b079786b9481086be997d192497a8eff2c823d43c5ecbaf7d7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

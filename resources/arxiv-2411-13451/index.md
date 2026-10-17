@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Gaurav Verma, Rachneet Kaur, Nishan Srishankar, Zhen Zeng, Tucker Balch, Manuela Veloso
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2411.13451v1
+- First submission: 2024-11-20T16:54:15Z
+- Version updated: 2024-11-20T16:54:15Z
+- Abstract SHA-256: 94d908dd89ff27434805fe7915c5a93d5c2b1d873449babc1c566c5582cca734
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

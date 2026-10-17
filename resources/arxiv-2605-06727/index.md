@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Nuno Batista, Ana Morgado, Oscar Ferraz, Sagar Silva Pratapsi, Jorge Lobo, Gabriel Falcao
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2605.06727v2
+- First submission: 2026-05-07T11:26:09Z
+- Version updated: 2026-10-14T15:02:17Z
+- Abstract SHA-256: b17a28ceff743f76bb6d63c1d2f672c04918ce0875afd12c9cb1391029034b87
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

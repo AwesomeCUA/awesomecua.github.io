@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Mathias Brossard, Guilhem Bryant, Basma El Gaabouri, Xinxin Fan, Alexandre Ferreira, Edmund Grimley-Evans, Christopher Haster, Evan Johnson, Derek Miller, Fan Mo, Dominic P. Mulligan, Nick Spinale, Eric van Hensbergen, Hugo J. M. Vincent, Shale Xiong
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2205.03322v1
+- First submission: 2022-05-06T15:56:40Z
+- Version updated: 2022-05-06T15:56:40Z
+- Abstract SHA-256: 683662afceb62c690da787e7d5c84ff559101de07e9de43d49394acfe1ebae9d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

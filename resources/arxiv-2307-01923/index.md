@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Dominic Gold, Koray Karabina, Francis C. Motta
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2307.01923v1
+- First submission: 2023-07-04T21:11:08Z
+- Version updated: 2023-07-04T21:11:08Z
+- Abstract SHA-256: 620d8bd887eaa8d4543b260cbb4fc9019c5a35632d74f0488c22bf2ff105a930
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

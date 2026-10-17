@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Gautam Kumar, Ashwini Ratnoo
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2412.20717v1
+- First submission: 2024-12-30T05:14:36Z
+- Version updated: 2024-12-30T05:14:36Z
+- Abstract SHA-256: 470bbc3516973a331166d9b5ded35d55699708b539ea2fe81a12f47737c65a6d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

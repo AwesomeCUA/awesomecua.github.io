@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xiongzhi Zeng, Huili Zhang, Shizheng Zhang, Pei Liu, Kehuan Linghu, Jiangyu Cui, Xiaoxia Cai, Jie Liu, Zhenyu Li, Jinlong Yang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2404.14038v1
+- First submission: 2024-04-22T09:52:50Z
+- Version updated: 2024-04-22T09:52:50Z
+- Abstract SHA-256: 969d0fcf178e094491e29884995d0b180125125381a23cfe0c64d040827ea5e4
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

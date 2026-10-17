@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Wei Chen, Zhiyuan Li, Zhen Guo, Yikang Shen
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2406.18082v2
+- First submission: 2024-06-26T05:40:10Z
+- Version updated: 2026-07-20T02:13:43Z
+- Abstract SHA-256: cd08cd743581099a5c2d346f2b227d5ace220ffa7df1281e5d6b5cd7a06edc1c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

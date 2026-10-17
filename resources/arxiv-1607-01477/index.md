@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Tim Moon, Jack Poulson
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/1607.01477v2
+- First submission: 2016-07-06T04:19:04Z
+- Version updated: 2016-07-30T16:52:39Z
+- Abstract SHA-256: 04ac1fad1f009911c7976c837b8e87fe2a23aa59a00a99f3706dfb8eb7b1ebe1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

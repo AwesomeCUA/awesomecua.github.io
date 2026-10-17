@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ziang Ye, Yang Zhang, Wentao Shi, Xiaoyu You, Fuli Feng, Tat-Seng Chua
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2507.06899v2
+- First submission: 2025-07-09T14:36:00Z
+- Version updated: 2025-09-24T14:33:17Z
+- Abstract SHA-256: 010a3a54ba37417c97e52434211375447418dd2e7ce1da6c339532534f0a920e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

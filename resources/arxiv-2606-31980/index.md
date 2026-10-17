@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Meng Chen, Anya Ji, Tsung-Han Wu, Tobias Maringgele, David M. Chan, Alane Suhr, Amy Pavel
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2606.31980v2
+- First submission: 2026-06-30T17:18:47Z
+- Version updated: 2026-09-01T04:17:49Z
+- Abstract SHA-256: a0a3e641e0a71051f5fbd20f57af3db06f2b65c61025e78adcdd122f773d034b
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

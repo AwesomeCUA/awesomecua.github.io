@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ismaeel Al Ridhawi, Moayad Aloqaily, Yaser Jararweh
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2009.11901v1
+- First submission: 2020-09-24T18:48:22Z
+- Version updated: 2020-09-24T18:48:22Z
+- Abstract SHA-256: 48e73cd9d3c058c01fca0ba5966816ed3ecab3a6a1555ad7ef3b4a82bbe5c1a2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Jing Wu, Wenjie Ai, Daphne Barretto, Yiye Chen, Qingyu Chen, Yuhang He, Pranit Chawla, Nicholas Gydé, Yanan Jian, Vibhav Vineet
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2601.20650v3
+- First submission: 2026-01-28T14:35:23Z
+- Version updated: 2026-08-26T22:31:44Z
+- Abstract SHA-256: 0139f7a1402d8dbfdecf65cc53c032495b2084f24cc38ff43841642c9102f29c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

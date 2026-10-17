@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Jiangang Han
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2610.03036v2
+- First submission: 2026-10-02T09:18:28Z
+- Version updated: 2026-10-07T13:46:51Z
+- Abstract SHA-256: c25f023b6ff66baa38661362d5730fc338e781db5bd23dd91216d3937ae730b0
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

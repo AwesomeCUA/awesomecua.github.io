@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Mike Wong, Kevin Hsieh, Suman Nath, Ravi Netravali
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2605.16565v2
+- First submission: 2026-05-15T19:12:43Z
+- Version updated: 2026-05-19T13:45:27Z
+- Abstract SHA-256: 660e6d4a10048411b7969bde7c55c8bb2b9521fe30892e09369196fd08846481
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

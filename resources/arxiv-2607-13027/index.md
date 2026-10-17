@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Hongru Cai, Yongqi Li, Ran Wei, Wenjie Li
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2607.13027v2
+- First submission: 2026-07-14T17:58:57Z
+- Version updated: 2026-09-03T15:20:29Z
+- Abstract SHA-256: 415b0502976dba375f39bded0ad3d5371dc83fd2248cea395063b776b3b129be
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

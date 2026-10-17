@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sizhe Tang, Rongqian Chen, Tian Lan
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2602.02995v1
+- First submission: 2026-02-03T02:07:12Z
+- Version updated: 2026-02-03T02:07:12Z
+- Abstract SHA-256: 0a01499ce704bb7916a3157ff2d3fc755a1115d9b27c7e529c153bce360a5404
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

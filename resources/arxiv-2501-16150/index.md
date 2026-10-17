@@ -20,6 +20,15 @@ Inclusion does not establish reproducibility or endorsement.
 
 Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan Etaiwi, Aref Enayati, Gabriel Nobel, Ahmed Abdulkadir, Benjamin F. Grewe, Thilo Stadelmann
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2501.16150v3
+- First submission: 2025-01-27T15:44:02Z
+- Version updated: 2026-03-27T07:41:10Z
+- Abstract SHA-256: b36fe818cb176c434b953fe8d2c97b67176b58cc6f8426b629231875de3c0896
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

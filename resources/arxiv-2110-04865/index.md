@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Tim Baer, Raghavendra Kanakagiri, Edgar Solomonik
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2110.04865v2
+- First submission: 2021-10-10T17:46:27Z
+- Version updated: 2021-12-15T03:36:50Z
+- Abstract SHA-256: 6877f400826214748e3af90436ff001f3969db6ee15746de11e8f8b49efb8f5c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

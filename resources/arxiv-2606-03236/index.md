@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zhijie Ding, Weinan Hong, Zicheng Zhu, Lei Li, Dezhi Kong, Hao Wang, Peng Zhou, Xuchu Jiang, Jiaming Xu
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2606.03236v2
+- First submission: 2026-06-02T06:54:02Z
+- Version updated: 2026-08-31T12:02:52Z
+- Abstract SHA-256: df42655cf7b061c55e50014ac1b66fb6580e9f54aac1efd0aa6c7f108b900a26
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

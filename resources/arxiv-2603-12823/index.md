@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xunzhuo Liu, Bowei He, Xue Liu, Andy Luo, Haichen Zhang, Huamin Chen
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2603.12823v1
+- First submission: 2026-03-13T09:21:25Z
+- Version updated: 2026-03-13T09:21:25Z
+- Abstract SHA-256: 274deff6cacfb5f1b7b620a86abe7ef6496b673d929de39376a9ad42dd3c4c02
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

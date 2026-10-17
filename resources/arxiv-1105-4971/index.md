@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 P. A. Castillo, M. G. Arenas, A. M. Mora, J. L. J. Laredo, G. Romero, V. M Rivas, J. J. Merelo
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/1105.4971v1
+- First submission: 2011-05-25T09:13:31Z
+- Version updated: 2011-05-25T09:13:31Z
+- Abstract SHA-256: 8516bf38c3d514a5ba981545a86e7452ecbf0eaa9f8f473ef819ce45392089d1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

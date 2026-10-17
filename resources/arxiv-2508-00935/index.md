@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Aaron Xuxiang Tian, Ruofan Zhang, Janet Tang, Ji Wang, Tianyu Shi, Jiaxin Wen
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2508.00935v3
+- First submission: 2025-07-31T07:02:19Z
+- Version updated: 2026-09-03T03:59:53Z
+- Abstract SHA-256: 6edb459a166897cbf878eea707817ba2f89c32968076ec14860fe0a619c33ddb
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

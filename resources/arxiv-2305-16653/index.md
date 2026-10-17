@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Haotian Sun, Yuchen Zhuang, Lingkai Kong, Bo Dai, Chao Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2305.16653v1
+- First submission: 2023-05-26T05:52:27Z
+- Version updated: 2023-05-26T05:52:27Z
+- Abstract SHA-256: c254a26ebb8e1bcdca70b7581c780aa6b0dd4e5f5ded85e456f7e8fb8b38fcc6
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2305.10601v2
+- First submission: 2023-05-17T23:16:17Z
+- Version updated: 2023-12-03T22:50:35Z
+- Abstract SHA-256: a0ab6699333caf8dc49aee0ea63a40a87e4d857489191f8d88d7dd38a8939ed9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

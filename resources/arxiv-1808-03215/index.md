@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Christopher J. Geoga, Mihai Anitescu, Michael L. Stein
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/1808.03215v2
+- First submission: 2018-08-09T16:04:25Z
+- Version updated: 2019-03-22T19:50:06Z
+- Abstract SHA-256: d3f397431751b9ece04b8040cc0e430e615d3e3659b74bcb33f37a5fa78f8e5d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

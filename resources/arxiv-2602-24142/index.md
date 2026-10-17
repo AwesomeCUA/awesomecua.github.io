@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yuxuan Liu, Weikai Xu, Kun Huang, Changyu Chen, Jiankun Zhao, Pengzhi Gao, Wei Liu, Jian Luan, Shuo Shang, Bo Du, Ji-Rong Wen, Rui Yan
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2602.24142v2
+- First submission: 2026-02-27T16:19:45Z
+- Version updated: 2026-03-06T18:07:28Z
+- Abstract SHA-256: 46bc8b5d5097f41a29d37b3fdf6245778acd82f3ae800d5fec38b2c4f7d3aecb
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

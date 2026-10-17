@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Grace Man Chen, Litao Guo, Yifan Wu, Yiyu Chen, Yenchi Tseng, Sicheng Liu, Yuyu Luo, Ying-Cong Chen
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2607.06306v2
+- First submission: 2026-07-07T14:08:55Z
+- Version updated: 2026-10-04T02:42:53Z
+- Abstract SHA-256: ff483463f0eda2e33526548ee91caeeccf719d88805ed90f0481876c71be150a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

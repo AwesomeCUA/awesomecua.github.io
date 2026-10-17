@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Wenyi Wu, Sibo Zhu, Kun Zhou, Biwei Huang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.02168v1
+- First submission: 2026-05-04T02:58:05Z
+- Version updated: 2026-05-04T02:58:05Z
+- Abstract SHA-256: c49b46d73d238ca69eca43d72f014356cbf8ef3809d4120888f7ea987962a653
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

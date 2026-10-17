@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Alexandru Ianta, Eleni Stroulia
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.13491v1
+- First submission: 2026-09-11T19:57:22Z
+- Version updated: 2026-09-11T19:57:22Z
+- Abstract SHA-256: 29b615736812b466b0df7133b7070184a1b7c8dacbe4c73fe32b878b654bb78d
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Xiangming Gu, Xiaosen Zheng, Tianyu Pang, Chao Du, Qian Liu, Ye Wang, Jing Jiang, Min Lin
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2402.08567v2
+- First submission: 2024-02-13T16:06:17Z
+- Version updated: 2024-06-03T14:15:03Z
+- Abstract SHA-256: 5c47a3db8231fd799c5c4586c03442dc63dbb78541fb528c522aed38b82059d7
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

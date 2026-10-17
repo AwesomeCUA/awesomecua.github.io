@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Lingfeng Zhang, Yongan Sun, Jinpeng Hu, Hui Ma, Yang Ying, Kuien Liu, Zenglin Shi, Meng Wang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2604.17821v2
+- First submission: 2026-04-20T05:19:49Z
+- Version updated: 2026-04-21T03:15:01Z
+- Abstract SHA-256: 123577fbb4431f22bc18d2d32187744268f9d63b3149e9e1775fb44673771feb
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

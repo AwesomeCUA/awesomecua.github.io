@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Chinmay Savadikar, Mingyu Zhao, Yuanzheng Zhu, Han Li, Shuang Xie, Alberto Castelo, Tianfu Wu, Lingyun Wang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.16116v1
+- First submission: 2026-05-15T16:00:38Z
+- Version updated: 2026-05-15T16:00:38Z
+- Abstract SHA-256: 6f5553ab9cf33840fefe0b5d3ec00229fd58898a98c09dc70902eca441c59fbd
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

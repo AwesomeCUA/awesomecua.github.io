@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Zheng Zhang, Jiarui He, Yuchen Cai, Deheng Ye, Peilin Zhao, Ruili Feng, Hao Wang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2510.18314v2
+- First submission: 2025-10-21T05:49:37Z
+- Version updated: 2026-04-01T16:25:41Z
+- Abstract SHA-256: 30123a470c2caa4b755ea696c9dd50d501e8d627e5b2cf1c80801807cd78a1f8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

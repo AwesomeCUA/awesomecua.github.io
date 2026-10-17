@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Chan Hee Song, Yiwen Song, Palash Goyal, Yu Su, Oriana Riva, Hamid Palangi, Tomas Pfister
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2510.04673v3
+- First submission: 2025-10-06T10:29:00Z
+- Version updated: 2026-03-16T04:38:26Z
+- Abstract SHA-256: 2f2d5507adeb42d289dd3fe654c097d7772b331bdc1754011d9a53bdaab21a60
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

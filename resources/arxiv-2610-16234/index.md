@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Jingchao Wang, Dingjiang Huang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.16234v1
+- First submission: 2026-10-12T06:09:02Z
+- Version updated: 2026-10-12T06:09:02Z
+- Abstract SHA-256: aa0e0ab6eb19ea55e65ccb354ae515f6552cd03dd688c6f43cdc6e2d59b11824
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

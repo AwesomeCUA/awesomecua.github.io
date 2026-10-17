@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yichen Pan, Dehan Kong, Sida Zhou, Cheng Cui, Yifei Leng, Bing Jiang, Hangyu Liu, Yanyi Shang, Shuyan Zhou, Tongshuang Wu, Zhengyang Wu
 
+## Recorded arXiv snapshot
+
+- Version: 3
+- Version source: https://arxiv.org/abs/2406.12373v3
+- First submission: 2024-06-18T07:58:33Z
+- Version updated: 2024-07-16T06:19:21Z
+- Abstract SHA-256: c5d0fbea7a4813a1da85c9ecb237c2115cc183b4c9e6fd0cbfd63764b0d418e3
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

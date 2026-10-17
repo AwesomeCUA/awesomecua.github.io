@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Satwik Ram Kodandaram, Monalika Padma Reddy, Xiaojun Bi, Jiawei Zhou, I. V. Ramakrishnan, Vikas Ashok
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.00524v1
+- First submission: 2026-09-01T00:44:19Z
+- Version updated: 2026-09-01T00:44:19Z
+- Abstract SHA-256: deb130d93bbbd6dfdc04c72d232a9dcfa1e92b0586831e5864070e7fe0de14dd
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

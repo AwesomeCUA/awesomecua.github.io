@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Yeji Park, Jaeyun Shim, Taesik Gong
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.07972v1
+- First submission: 2026-10-06T08:38:30Z
+- Version updated: 2026-10-06T08:38:30Z
+- Abstract SHA-256: b792cc0355a0947c61014c471c482aef173f761f7396a939c14816ac644abe66
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

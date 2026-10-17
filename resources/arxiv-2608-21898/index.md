@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Chenghao Zhang, Yuxi Cheng, Saisai Hu, Canran Xiao, Yikai Mao, Dan Roth
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2608.21898v2
+- First submission: 2026-08-22T10:18:45Z
+- Version updated: 2026-09-28T15:54:31Z
+- Abstract SHA-256: 7d862afa969c0b4d1c6edc8d126017749844158f786b29c3b0710afecdec2008
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

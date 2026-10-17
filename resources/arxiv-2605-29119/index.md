@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yifei He, Rui Yang, Hao Bai, Tong Zhang, Han Zhao
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.29119v1
+- First submission: 2026-05-27T21:28:26Z
+- Version updated: 2026-05-27T21:28:26Z
+- Abstract SHA-256: af13a82ab8469a5be0b5500f067cb32cb7ecb54ec15f7178c736d6470374def8
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Jason Wu, Siyan Wang, Siman Shen, Yi-Hao Peng, Jeffrey Nichols, Jeffrey P. Bigham
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2301.13280v1
+- First submission: 2023-01-30T20:47:12Z
+- Version updated: 2023-01-30T20:47:12Z
+- Abstract SHA-256: 0cc3b91aa85bc8c7d88a878c7b24926943eea0bcc92e25f517915242f2a82a39
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

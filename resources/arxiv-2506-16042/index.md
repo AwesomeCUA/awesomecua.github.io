@@ -20,6 +20,15 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 Reyna Abhyankar, Qi Qi, Yiying Zhang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2506.16042v2
+- First submission: 2025-06-19T05:26:40Z
+- Version updated: 2026-05-18T17:55:59Z
+- Abstract SHA-256: df3f654ef1364aeb6cdaeaea1c6334da949a798b2f8256c9ddc4e6a88a588e19
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

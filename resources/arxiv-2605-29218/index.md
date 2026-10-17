@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Tenghao Huang, Kung-Hsiang Huang, Prafulla Kumar Choubey, Yilun Zhou, Muhao Chen, Jonathan May, Chien-Sheng Wu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2605.29218v1
+- First submission: 2026-05-28T01:05:50Z
+- Version updated: 2026-05-28T01:05:50Z
+- Abstract SHA-256: 0f756d85a19896642fe8f2f4aecd24fac486715c012ba2196cf1a7fcac6c0d76
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

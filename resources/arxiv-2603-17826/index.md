@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Ruize Ma, Yilei Jiang, Shilin Zhang, Zheng Ma, Yi Feng, Vincent Ng, Zhi Wang, Xiangyu Yue, Chuanyi Li, Lewei Lu
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2603.17826v1
+- First submission: 2026-03-18T15:24:22Z
+- Version updated: 2026-03-18T15:24:22Z
+- Abstract SHA-256: 0d2427bb3c8b15d7a678389a141d3fc1b26c08e41410842e7fbc9040e3b92a25
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Olivier Bournez, Johanne Cohen, Mikaël Rabie
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/1412.2497v2
+- First submission: 2014-12-08T09:56:37Z
+- Version updated: 2019-02-20T11:58:01Z
+- Abstract SHA-256: 0c1029409e251f7125a49039aa906b7ce65cc3690dfeac91be0d289ef007b244
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Keisuke Fujii
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.35239v1
+- First submission: 2026-09-28T14:13:36Z
+- Version updated: 2026-09-28T14:13:36Z
+- Abstract SHA-256: 61536dbee2d03e8152a02b74a3338a8f4f0fd03ce8dff0dc912835615addd175
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

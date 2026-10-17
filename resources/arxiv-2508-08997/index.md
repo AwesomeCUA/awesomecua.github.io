@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Sizhe Yuen, Francisco Gomez Medina, Ting Su, Yali Du, Adam J. Sobey
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2508.08997v2
+- First submission: 2025-08-12T15:05:00Z
+- Version updated: 2026-01-12T11:46:09Z
+- Abstract SHA-256: 5a7aa5ee50fa6890749471907aaf5c96d785977bbdaadb915433c3e44734b63c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

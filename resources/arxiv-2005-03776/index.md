@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yang Li, Jiacong He, Xin Zhou, Yuan Zhang, Jason Baldridge
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2005.03776v2
+- First submission: 2020-05-07T21:41:40Z
+- Version updated: 2020-06-05T02:11:56Z
+- Abstract SHA-256: 3af7b45455ffbd616e8cdf5612b19275ecb7bf07b1065af9f5b724ae19e96fb4
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

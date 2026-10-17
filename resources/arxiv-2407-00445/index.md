@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Franz G. Fuchs, Alexander J. Stasik, Stanley Miao, Ola Tangen Kulseng, Ruben Pariente Bassa
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2407.00445v1
+- First submission: 2024-06-29T13:59:51Z
+- Version updated: 2024-06-29T13:59:51Z
+- Abstract SHA-256: f6e1e382909d57ab488fdb7a323c34a9df0f04d43ee379efc723b938932b0113
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

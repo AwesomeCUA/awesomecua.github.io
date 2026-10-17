@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Yu-Hong Lai, Chieh-Lin Tsai, Wen Sheng Lim, Han-Wen Hu, Tei-Wei Kuo, Yuan-Hao Chang
 
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2509.10627v1
+- First submission: 2025-09-12T18:16:18Z
+- Version updated: 2025-09-12T18:16:18Z
+- Abstract SHA-256: 84d36a3cf14557a88a92e3ebac16c94528a2bb8814856648da80c32cc4e5785e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

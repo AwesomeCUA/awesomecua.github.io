@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Enze Zhang, Jiaying Wang, Mengxi Xiao, Jifei Liu, Ziyan Kuang, Rui Dong, Eric Dong, Sophia Ananiadou, Min Peng, Qianqian Xie
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2510.09116v2
+- First submission: 2025-10-10T08:10:10Z
+- Version updated: 2025-10-13T05:51:38Z
+- Abstract SHA-256: 748e1a62c4db627fcf1f747d60ac9aa59de24a5a70f14a8ea4da793c1624111e
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded

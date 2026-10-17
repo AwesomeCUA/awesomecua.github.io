@@ -20,6 +20,15 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 Hongrui Jia, Jitong Liao, Xi Zhang, Haiyang Xu, Tianbao Xie, Chaoya Jiang, Ming Yan, Si Liu, Wei Ye, Fei Huang
 
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2510.24563v2
+- First submission: 2025-10-28T15:56:36Z
+- Version updated: 2025-11-11T04:10:32Z
+- Abstract SHA-256: d115356f723746ce95c3e40fed933786a0747b3b560c8f73a6b7af05ca22d24f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
 ## License declarations
 
 - code: not recorded
