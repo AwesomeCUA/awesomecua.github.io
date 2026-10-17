@@ -1,75 +1,23 @@
 {
-  "aliases": [],
-  "authors": [
-    "Xunzhe Zhou",
-    "Yiyang Cai",
-    "Fengyi Wang",
-    "Ran Ju",
-    "Hanxiang Ren",
-    "Ruizhe Liu",
-    "Yu Zhang",
-    "Qian Luo",
-    "Feng Chen",
-    "Pei Zhou",
-    "Yi Ma",
-    "Yanchao Yang"
-  ],
-  "details": {
-    "arxiv_snapshot": {
-      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-      "abstract_sha256": "56a1a508c3df679b2cbd8512a791218d576cf0768abf0d26613e37cf75c788a7",
-      "submitted_at": "2026-08-23T08:51:01Z",
-      "updated_at": "2026-08-23T08:51:01Z",
-      "version": 1,
-      "versioned_url": "https://arxiv.org/abs/2608.22301v1"
-    }
-  },
-  "environments": [
-    "unspecified"
-  ],
-  "evidence": [
-    {
-      "method": "arxiv_api",
-      "retrieved_at": "2026-10-17T12:31:35Z",
-      "role": "primary",
-      "sha256": "6499b4f4917eec0765d16d6e26a08d7edc5146a30753b19cf8218517656bb070",
-      "supports": [
-        "name",
-        "authors",
-        "published_at",
-        "updated_at",
-        "identifiers.arxiv",
-        "details.arxiv_snapshot"
-      ],
-      "url": "https://export.arxiv.org/api/query?id_list=2608.16211%2C2608.16391%2C2608.17067%2C2608.17975%2C2608.19741%2C2608.21500%2C2608.22301%2C2608.22510%2C2608.23035%2C2608.23320%2C2608.26238%2C2608.26546%2C2608.26991%2C2608.27260%2C2608.29814%2C2608.31076%2C2609.02292%2C2609.04173%2C2609.04298%2C2609.05776%2C2609.06059%2C2609.07529%2C2609.08149%2C2609.08418%2C2609.09187%2C2609.11561%2C2609.12533%2C2609.15096%2C2609.15544%2C2609.20732%2C2609.21293%2C2609.23986%2C2609.24971%2C2609.24997%2C2609.27455%2C2609.29647%2C2609.29964%2C2609.30798%2C2609.32835%2C2609.34428%2C2609.35002%2C2609.35232%2C2609.35394%2C2609.35581%2C2609.36071%2C2609.36352%2C2609.36777%2C2609.37017%2C2609.38923%2C2609.39222&max_results=50"
-    }
-  ],
+  "status": "excluded",
   "id": "arxiv:2608.22301",
-  "identifiers": {
-    "arxiv": "2608.22301"
+  "reason": "The Imitator Game evaluates physical robot imitation of human demonstrations across objects, layouts and affordances. Its paired human–robot dataset and manipulation tasks do not constitute computer-interface agent evaluation.",
+  "decision": {
+    "id": "arxiv:2608.22301",
+    "name": "The Imitator Game: Benchmarking Robot Imitative Ability Beyond Action Prediction",
+    "url": "https://arxiv.org/abs/2608.22301",
+    "decision": "out_of_scope",
+    "basis": "primary_abstract_review",
+    "reason": "The Imitator Game evaluates physical robot imitation of human demonstrations across objects, layouts and affordances. Its paired human–robot dataset and manipulation tasks do not constitute computer-interface agent evaluation.",
+    "reviewed_at": "2026-10-17T14:29:24.825113+00:00",
+    "metadata_fingerprint": "3338d4b4e7fc324aab1b9a0b8ea540da844994b33eba9d1087ff053171b247ce",
+    "evidence": {
+      "url": "https://export.arxiv.org/api/query?id_list=2608.16211%2C2608.16391%2C2608.17067%2C2608.17975%2C2608.19741%2C2608.21500%2C2608.22301%2C2608.22510%2C2608.23035%2C2608.23320%2C2608.26238%2C2608.26546%2C2608.26991%2C2608.27260%2C2608.29814%2C2608.31076%2C2609.02292%2C2609.04173%2C2609.04298%2C2609.05776%2C2609.06059%2C2609.07529%2C2609.08149%2C2609.08418%2C2609.09187%2C2609.11561%2C2609.12533%2C2609.15096%2C2609.15544%2C2609.20732%2C2609.21293%2C2609.23986%2C2609.24971%2C2609.24997%2C2609.27455%2C2609.29647%2C2609.29964%2C2609.30798%2C2609.32835%2C2609.34428%2C2609.35002%2C2609.35232%2C2609.35394%2C2609.35581%2C2609.36071%2C2609.36352%2C2609.36777%2C2609.37017%2C2609.38923%2C2609.39222&max_results=50",
+      "sha256": "6499b4f4917eec0765d16d6e26a08d7edc5146a30753b19cf8218517656bb070",
+      "retrieved_at": "2026-10-17T12:31:35Z"
+    },
+    "status": "excluded",
+    "status_reason": "Reviewed snapshot matches retained metadata."
   },
-  "kind": "paper",
-  "last_verified_at": "2026-10-17T12:31:35Z",
-  "licenses": {
-    "code": null,
-    "data": null,
-    "document": null,
-    "weights": null
-  },
-  "links": [
-    {
-      "rel": "paper",
-      "url": "https://arxiv.org/abs/2608.22301"
-    }
-  ],
-  "name": "The Imitator Game: Benchmarking Robot Imitative Ability Beyond Action Prediction",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
-  "published_at": "2026-08-23",
-  "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
-  "updated_at": "2026-08-23",
-  "url": "https://arxiv.org/abs/2608.22301"
+  "ledger_url": "https://awesomecua.github.io/downloads/exclusions.json"
 }

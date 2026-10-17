@@ -2,6 +2,46 @@
   "aliases": [],
   "authors": [],
   "details": {
+    "benchmark_protocol": {
+      "actions": [
+        "list of UI element boxes [x1,y1,x2,y2] and text descriptions"
+      ],
+      "counts": [
+        {
+          "basis": "reported",
+          "evidence_url": "https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/README.md",
+          "population": "English annotation subset reported by README",
+          "qualifier": "exact",
+          "unit": "page-annotation entries",
+          "value": 1000
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/README.md",
+          "population": "Chinese annotation subset reported by README",
+          "qualifier": "exact",
+          "unit": "page-annotation entries",
+          "value": 1000
+        }
+      ],
+      "evaluation": "Metrics use greedy one-to-one matching in descending IoU order, then micro precision/recall/F1 and lowercased difflib.SequenceMatcher description similarity on matched pairs. Actual metrics.py accepts IoU >= 0.5 at its default threshold; README prose says > 0.5. Predictions align to annotations by image_path; callers must supply complete prediction coverage because missing predictions are not independently enumerated by evaluate_dataset.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/README.md",
+        "https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/src/metrics.py",
+        "https://api.github.com/repos/ant-research/GUIHalluBench/git/trees/master?recursive=1",
+        "https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/LEGAL.md",
+        "https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/.gitattributes"
+      ],
+      "focus": [
+        "GUI page-element detection",
+        "element-description consistency"
+      ],
+      "notes": "Each annotation entry represents a page, not one UI element. README’s illustrative num_samples=4796 output is not adopted as a corpus count. Public tree contains both annotation JSON files and an images.tar.gz Git-LFS pointer; payload availability/integrity was not tested by downloading images. LEGAL.md only governs comment-language precedence, not a code/data license grant; both slots remain unknown. No benchmark run was performed.",
+      "observations": [
+        "page screenshot"
+      ],
+      "setting": "offline"
+    },
     "evaluation_type": null,
     "leaderboard_url": null,
     "metrics": [],
@@ -26,6 +66,56 @@
         "relations"
       ],
       "url": "https://github.com/ant-research/GUIHalluBench"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:35:59Z",
+      "role": "primary",
+      "sha256": "d9c476d6960a4ef99e20d4c3b5d35a63f3ae5e61fc20e9dea00b11e64b74c9e9",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:21:09Z",
+      "role": "primary",
+      "sha256": "f36707dfcd3e83fc9d7f57b50d0c27007801e5029cc1ac255e000560ecf778fc",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/src/metrics.py"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:14:07Z",
+      "role": "primary",
+      "sha256": "c0896bc90d515b7bd8fe86b062aeb199bd47570e6eca8474986f5b1ef1d98dbd",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://api.github.com/repos/ant-research/GUIHalluBench/git/trees/master?recursive=1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:21:09Z",
+      "role": "primary",
+      "sha256": "adba50d9794b9ef3f7ec8cbc680f7f1fa3fbf9df0ac8d1f9b9ccab6d941bc11b",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/LEGAL.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:34:56Z",
+      "role": "primary",
+      "sha256": "8f35fa75be42a7a53e4f96de1b62be84962d2cf1beb8b23dfcfaecfaea4a6b90",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/.gitattributes"
     }
   ],
   "id": "github:ant-research/guihallubench",

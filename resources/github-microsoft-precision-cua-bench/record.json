@@ -2,6 +2,29 @@
   "aliases": [],
   "authors": [],
   "details": {
+    "benchmark_protocol": {
+      "actions": [
+        "pixel (x,y) cursor coordinate"
+      ],
+      "counts": [],
+      "evaluation": "The inspected evaluator scales target boxes from a 1000×1000 reference grid into image pixels and tests pixel predictions, allowing ±10 pixels around the center along any target dimension narrower than 1 pixel after scaling. It reports cumulative hit accuracy by turn (earlier hits remain correct), miss distances, any-turn hit rate, and a correction rate whose denominator is all successfully processed samples. The default budget is five turns; retain prompt/feedback variant, turn budget, and processed/skipped coverage.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/microsoft/precision-cua-bench/HEAD/README.md",
+        "https://raw.githubusercontent.com/microsoft/precision-cua-bench/HEAD/eval/test_allturns_api.py",
+        "https://api.github.com/repos/microsoft/precision-cua-bench/git/trees/main?recursive=1"
+      ],
+      "focus": [
+        "pixel-precise editor cursor placement",
+        "multi-turn visual self-correction"
+      ],
+      "notes": "The release has four editor/theme JSONL partitions (Cursor/VS Code × dark/light) and screenshot files. Partitions are not train/test splits or independent task totals. README’s initial field table calls bbox pixel coordinates, but the evaluation-format section and actual ratio_h/ratio_w=dimension/1000 code use normalized target boxes; profile follows the inspected evaluator and retains the inconsistency. Source/images were not executed or downloaded as a dataset. MIT is recorded for repository code only.",
+      "observations": [
+        "code-editor screenshot",
+        "cursor-location instruction",
+        "red-cross feedback marking previous incorrect prediction"
+      ],
+      "setting": "offline"
+    },
     "evaluation_type": null,
     "leaderboard_url": null,
     "metrics": [],
@@ -26,6 +49,36 @@
         "relations"
       ],
       "url": "https://github.com/microsoft/precision-cua-bench"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:35:59Z",
+      "role": "primary",
+      "sha256": "84ad4fb798abb776dce813cf4dab296d6e03248d8ae29388e1f06cccd27d1241",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/microsoft/precision-cua-bench/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:21:08Z",
+      "role": "primary",
+      "sha256": "1fda7c3980fe7a7c373478eda6ecfabff227e92c2b1f19c6fe903b408f583797",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/microsoft/precision-cua-bench/HEAD/eval/test_allturns_api.py"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:14:06Z",
+      "role": "primary",
+      "sha256": "ede84e3dda47f80fada4234caa2423db08e21ff7667a37599c03aae657b2f84b",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://api.github.com/repos/microsoft/precision-cua-bench/git/trees/main?recursive=1"
     },
     {
       "method": "license_header",

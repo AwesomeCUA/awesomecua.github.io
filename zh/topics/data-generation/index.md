@@ -38,6 +38,12 @@ Full source records: https://awesomecua.github.io/downloads/topics/data-generati
   Introduces SURFPRM, which turns web demonstrations into an interaction-element graph for synthesizing grounded negative actions. Its contrastive preference data trains process reward models to distinguish plausible on-page alternatives and guide downstream trajectory search.
 - [CaptchaArena: A Large-Scale, Fine-Grained Dataset for Training Computer-Use Agents on Interactive CAPTCHAs](https://awesomecua.github.io/resources/arxiv-2609-31957/) — 2026-09-25
   Introduces CaptchaArena, a dataset of execution-verified interactive CAPTCHA solutions with screenshot–action trajectories, reasoning annotations, and pixel masks for irregular targets. The work trains a single policy across CAPTCHA types using supervised learning followed by verifier-reward reinforcement learning.
+- [Constructing Challenging Browser-Use Tasks by Controlled Environment Interventions](https://awesomecua.github.io/resources/arxiv-2609-35814/) — 2026-09-20
+  BreakingWeb pairs solvable browser tasks with controlled environment interventions that preserve the goal, target and backend success criterion. The paired evaluations isolate robustness failures, including agents declaring completion without the required state change.
+- [RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents](https://awesomecua.github.io/resources/arxiv-2609-22000/) — 2026-09-18
+  RecreationWorld gives hybrid agents running reference applications to explore and recreate using native GUI controls and coding tools. Its multi-platform benchmark checks interaction-dependent behavior with programmatic and visual assertions, while trajectory-training transfer is evaluated separately.
+- [RankGround: Efficient High-Resolution GUI Grounding via Lightweight Reranker-Guided Crop Selection](https://awesomecua.github.io/resources/arxiv-2609-18690/) — 2026-09-16
+  RankGround trains a lightweight reranker to select a promising screenshot crop before one VLM localization call. Ranking supervision uses containment and boundary-aware augmentation, with pointwise and listwise training stages.
 - [BlueLM-GUI Technical Report: A Real-Device-Centric Flywheel for Self-Improving Mobile GUI Agents](https://awesomecua.github.io/resources/arxiv-2609-12394/) — 2026-09-11
   Describes a mobile-agent training pipeline centered on real-device rollouts, recovery of useful supervision from failures, and evolving evaluation tasks.
 - [CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents](https://awesomecua.github.io/resources/arxiv-2609-05374/) — 2026-09-04
@@ -58,6 +64,12 @@ Full source records: https://awesomecua.github.io/downloads/topics/data-generati
   Builds synthetic websites with verified navigation, backend state, and feasible tasks to provide reliable supervision for web-agent training.
 - [UI-Mate: Advancing Open-Weight Foundation GUI Agents with In-Context Demonstrations](https://awesomecua.github.io/resources/arxiv-2608-15930/) — 2026-08-16
   Combines environment-grounded training with demonstration-conditioned workflows, and introduces OSWorkerBench for extended office-task evaluation.
+- [SynWeaver: Website-Prior Task and Trajectory Co-Synthesis for Web Agents](https://awesomecua.github.io/resources/arxiv-2608-12429/) — 2026-08-12
+  SynWeaver explores a website to build a map of page states and executable interactions, then learns website priors for task proposals. Joint task/trajectory synthesis revises inconsistent pairs and verifies or repairs the resulting supervision.
+- [AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents](https://awesomecua.github.io/resources/arxiv-2608-05891/) — 2026-08-06
+  AppDeltaWorld predicts executable code updates for the next mobile UI state, using transition-constrained retrieval and rendered visual assets. It evaluates reconstruction fidelity separately from policy training and adaptation using generated environments.
+- [Qwen-CUA: Native Computer Use for (almost) Everything](https://awesomecua.github.io/resources/arxiv-2608-02352/) — 2026-08-03
+  Qwen-CUA operates through screenshots and keyboard/mouse events while compressing older visual history into reusable context blocks. Its report combines verifiable task generation, trajectory-based training and separate browser and Bash-augmented studies.
 - [OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models](https://awesomecua.github.io/resources/arxiv-2607-28609/) — 2026-07-30
   Introduces OSReward and its harder and multidimensional variants for assessing judgments of computer-use trajectories. It also releases a reasoning-annotated judgment corpus and trains reward models, examining reliability, leniency bias, and evaluation cost.
 - [Echoverse: Deep, Evolving Environments for Training Computer-Use Agents at Scale](https://awesomecua.github.io/resources/arxiv-2607-28074/) — 2026-07-30
@@ -74,10 +86,16 @@ Full source records: https://awesomecua.github.io/downloads/topics/data-generati
   Scales computer-agent reinforcement learning through verifiable task generation, capability-aware rollout allocation, and segmented visual context.
 - [UI-MOPD: Multi-Platform On-Policy Distillation for Unified GUI Agents](https://awesomecua.github.io/resources/arxiv-2607-04425/) — 2026-07-05
   Introduces Uni-GUI, a collection of executable desktop and mobile trajectories, and UI-MOPD, which trains a shared policy from its own rollouts using platform-specific teachers. The distillation procedure routes each visited state to the appropriate teacher to preserve distinct interaction conventions.
+- [GUICrafter: Weakly-Supervised GUI Agent Leveraging Massive Unannotated Screenshots](https://awesomecua.github.io/resources/arxiv-2606-29705/) — 2026-06-29
+  GUICrafter first learns grounding from large collections of unannotated screenshots and webpages, then uses a smaller high-quality dataset for reinforcement-learning calibration. The curriculum targets reduced dependence on manually annotated GUI training data.
 - [GUI agent: Guided Exploration of User-Sensitive Screens](https://awesomecua.github.io/resources/arxiv-2606-25705/) — 2026-06-24
   This short paper develops an explorer agent that expands from a demonstrated GUI task to discover requests likely to reach user-sensitive screens. The proposed exploration supports identifying situations where task execution should be handed back to the user.
 - [Fara-1.5: Scalable Learning Environments for Computer Use Agents](https://awesomecua.github.io/resources/arxiv-2606-20785/) — 2026-06-18
   Builds browser-agent training trajectories with live and synthetic environments, solvers, user simulation, and complementary correctness and efficiency verifiers.
+- [ProCUA-SFT Technical Report](https://awesomecua.github.io/resources/arxiv-2606-17321/) — 2026-06-15
+  ProCUA-SFT generates tasks and synthetic trajectories on live desktops seeded with document content, checking task preconditions before rollout. The resulting step-prefix examples are formatted to match inference context and used for supervised GUI-agent fine-tuning.
+- [DragOn: A Benchmark and Dataset for Drag-Based GUI Interactions](https://awesomecua.github.io/resources/arxiv-2606-06322/) — 2026-06-04
+  DragOn supplies drag-grounding training data and a held-out benchmark for highlighting text, selecting cells, resizing elements and moving sliders. It evaluates existing vision-language models and a model fine-tuned on the drag tasks.
 - [GUI-SAGE: Enhancing GUI Automation with Self-Explanatory Learning](https://awesomecua.github.io/resources/url-beb8f1fd6b945ffc9d93/) — 2026-06
   GUI-SAGE generates reasoning conditioned on known actions and weights policy updates using confidence and reward signals. Its experiments use AndroidControl and GUIOdyssey data and separately evaluate interactive AndroidWorld tasks.
 - [PhoneWorld: From Real-App Trajectories to Dynamic and Verifiable Environments for Phone-Use Agents](https://awesomecua.github.io/resources/arxiv-2605-29486/) — 2026-05-28
@@ -88,16 +106,22 @@ Full source records: https://awesomecua.github.io/downloads/topics/data-generati
   Presents CUA-Gym, which co-generates instructions, initial and target states, and executable reward checks through generator-discriminator iterations. Mock web applications expand training environments, with learned agents evaluated on OSWorld-Verified and WebArena.
 - [ScaleWoB: Guiding GUI Agents with Coding Agents via Large-Scale Environmental Synthesis](https://awesomecua.github.io/resources/arxiv-2605-25160/) — 2026-05-24
   Introduces ScaleWoB, which synthesizes interactive GUI environments as backend-free webpages with verifiable rewards. Its mobile-oriented benchmark evaluates agent execution and compares selected synthetic tasks with real-app behavior.
+- [Weasel: Out-of-Domain Generalization for Web Agents via Importance-Diversity Data Selection](https://awesomecua.github.io/resources/arxiv-2605-20291/) — 2026-05-19
+  Weasel selects web-agent training steps by balancing importance and diversity across states, sites and interaction patterns. It also prunes training accessibility trees around known action targets and regenerates rationales to match the model’s reasoning style.
 - [OpenComputer: Verifiable Software Worlds for Computer-Use Agents](https://awesomecua.github.io/resources/arxiv-2605-19769/) — 2026-05-19
   Introduces OpenComputer, which builds desktop tasks around application-state verifiers and refines those verifiers using execution feedback. An evaluation harness records trajectories and assigns auditable partial credit across professional software workflows.
 - [MUIAnno: An Expert-Annotated Dataset and Evaluation Benchmark for Mobile UI Understanding](https://awesomecua.github.io/resources/arxiv-2605-17656/) — 2026-05-17
   MUIAnno provides expert labels for elements in manually explored mobile-app screens, with a web annotation tool that emits structured JSON. It also supplies UI-element detection baselines for the dataset.
+- [ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents](https://awesomecua.github.io/resources/arxiv-2605-12481/) — 2026-05-12
+  ToolCUA synthesizes interleaved GUI/tool trajectories and trains agents to choose between graphical actions and higher-level tools. Staged supervised and reinforcement learning culminate in online hybrid-environment training with a reward for efficient execution paths.
 - [How Mobile World Model Guides GUI Agents?](https://awesomecua.github.io/resources/arxiv-2605-10347/) — 2026-05-11
   Compares mobile world models that predict state changes as delta text, full text, images or renderable code. Downstream Android benchmarks examine synthetic training trajectories and test-time guidance, including limits of post-action reflection.
 - [Weblica: Scalable and Reproducible Training Environments for Visual Web Agents](https://awesomecua.github.io/resources/arxiv-2605-06761/) — 2026-05-07
   Introduces Weblica, which combines HTTP-level capture and replay with website-grounded environment synthesis. The resulting interactive web environments support reinforcement learning and tests of navigation transfer and inference-time scaling.
 - [OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis](https://awesomecua.github.io/resources/arxiv-2604-15093/) — 2026-04-16
   Presents OpenMobile, which builds exploration-based environment memory to synthesize task instructions and switches between learner and expert policies during trajectory collection. The resulting data includes recovery behavior and is tested through mobile-agent training and benchmark-overlap analysis.
+- [WebAgentGuard: A Reasoning-Driven Guard Model for Detecting Prompt Injection Attacks in Web Agents](https://awesomecua.github.io/resources/arxiv-2604-12284/) — 2026-04-14
+  WebAgentGuard separates prompt-injection detection from the operating web agent through a parallel multimodal guard. The guard is trained on synthetic visual/textual examples using reasoning-focused supervised fine-tuning followed by reinforcement learning.
 - [WebForge: Breaking the Realism-Reproducibility-Scalability Trilemma in Browser Agent Benchmark](https://awesomecua.github.io/resources/arxiv-2604-10988/) — 2026-04-13
   Presents WebForge, a pipeline that plans, generates, refines and validates self-contained interactive websites. WebForge-Bench uses these environments to evaluate browser agents across domains and controlled difficulty levels.
 - [MolmoWeb: Open Visual Web Agent and Open Data for the Open Web](https://awesomecua.github.io/resources/arxiv-2604-08516/) — 2026-04-09
@@ -196,12 +220,18 @@ Full source records: https://awesomecua.github.io/downloads/topics/data-generati
   Introduces OpenApps, a configurable app ecosystem for measuring UI-agent reliability under changes in appearance and content. Its evaluation compares task success and failure behavior across many versions of the same apps.
 - [Fara-7B: An Efficient Agentic Model for Computer Use](https://awesomecua.github.io/resources/arxiv-2511-19663/) — 2025-11-24
   Introduces FaraGen synthetic web trajectories, a compact screenshot-based action model, and WebTailBench for underrepresented browser tasks.
+- [WebSTAR: Scalable Data Synthesis for Computer Use Agents with Step-Level Filtering](https://awesomecua.github.io/resources/arxiv-2512-10962/) — 2025-11-22
+  Introduces a pipeline that filters individual steps from noisy computer-agent rollouts and augments them with reasoning for training. WebSTAR and WebSCORE support GUI-policy supervision and a distilled process reward model, StepRM.
 - [Co-EPG: A Framework for Co-Evolution of Planning and Grounding in Autonomous GUI Agents](https://awesomecua.github.io/resources/arxiv-2511-10705/) — 2025-11-13
   Co-EPG alternates reinforcement learning for a planner with updates to a grounding model using generated training examples. The evolving grounder provides feedback to the planner, and evaluation uses Multimodal Mind2Web and AndroidControl.
 - [OSGym: Scalable OS Infra for Computer Use Agents](https://awesomecua.github.io/resources/arxiv-2511-11672/) — 2025-11-11
   OSGym supplies full operating-system sandboxes with GUIs for parallel computer-use data collection and training. It combines per-replica state management, hardware-aware orchestration, copy-on-write virtual-machine disks, and layered failure recovery.
 - [Grounding Computer Use Agents on Human Demonstrations](https://awesomecua.github.io/resources/arxiv-2511-07332/) — 2025-11-10
   GroundCUA turns expert desktop demonstrations into densely annotated screenshots and grounding instructions. The GroundNext model family uses this supervision and subsequent reinforcement learning, with both grounding benchmarks and an OSWorld agent configuration used for evaluation.
+- [AUTO-Explorer: Automated Data Collection for GUI Agent](https://awesomecua.github.io/resources/arxiv-2511-06417/) — 2025-11-09
+  Introduces Auto-Explorer, an automated GUI exploration method that records software states for training-data collection. UIXplore evaluates exploration coverage, and collected data is used to fine-tune and test GUI element grounding.
+- [SynthAgent: Adapting Web Agents with Synthetic Supervision](https://awesomecua.github.io/resources/arxiv-2511-06101/) — 2025-11-08
+  Introduces SynthAgent, which generates tasks by exploring website elements and refines them when observations reveal conflicts. A later trajectory-refinement stage removes misaligned behavior before fine-tuning agents for the target websites.
 - [GUI-360$^\circ$: A Comprehensive Dataset and Benchmark for Computer-Using Agents](https://awesomecua.github.io/resources/arxiv-2511-04307/) — 2025-11-06
   Collects Windows application trajectories with screenshots and action traces for grounding, screen parsing, and action prediction.
 - [Learning from Online Videos at Inference Time for Computer-Use Agents](https://awesomecua.github.io/resources/arxiv-2511-04137/) — 2025-11-06
@@ -234,6 +264,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/data-generati
   LASER builds preference data for multi-step GUI perception by combining Monte Carlo quality estimates with region-overlap evaluation. Its self-evolving training encourages relevant region selection and adapts the amount of reasoning before predicting screen coordinates.
 - [UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning](https://awesomecua.github.io/resources/arxiv-2509-02544/) — 2025-09-02
   UI-TARS-2 combines scalable trajectory generation, stabilized multi-turn reinforcement learning, and a sandbox that supports GUI, filesystem, and terminal actions. The report evaluates the resulting agent across web, desktop, Android, and game tasks and analyzes training stability.
+- [OmniActor: A Generalist GUI and Embodied Agent for 2D&3D Worlds](https://awesomecua.github.io/resources/arxiv-2509-02322/) — 2025-09-02
+  Introduces OmniActor, which shares shallow model layers while separating deeper parameters to train jointly on GUI and embodied interactions. A unified action representation and mixed training data support evaluation in both task families.
 - [MobiAgent: A Systematic Framework for Customizable Mobile Agents](https://awesomecua.github.io/resources/arxiv-2509-00531/) — 2025-08-30
   Presents MobiAgent, combining MobiMind agent models, the AgentRR acceleration framework, and MobiFlow evaluation. It also introduces an AI-assisted data-collection pipeline for mobile GUI tasks.
 - [UItron: Foundational GUI Agent with Advanced Perception and Planning](https://awesomecua.github.io/resources/arxiv-2508-21767/) — 2025-08-29
@@ -422,6 +454,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/data-generati
   Collects rendered webpages and structural metadata for visual UI modeling, studying how web semantics transfer to interface-understanding tasks.
 - [Lexi: Self-Supervised Learning of the UI Language](https://awesomecua.github.io/resources/arxiv-2301-10165/) — 2023-01-23
   Introduces Lexi and UICaption to learn UI image-text representations from descriptions of interface functionality. Evaluation covers UI action entailment, instruction-based retrieval, referring-expression grounding, and UI entity recognition.
+- [Understanding HTML with Large Language Models](https://awesomecua.github.io/resources/arxiv-2210-03945/) — 2022-10-08
+  Studies language models for HTML element classification, page description and autonomous web navigation. Fine-tuned models are evaluated on MiniWoB, and a distilled, automatically labeled CommonCrawl HTML corpus supports the training approach.
 - [Towards Better Semantic Understanding of Mobile Interfaces](https://awesomecua.github.io/resources/arxiv-2210-02663/) — 2022-10-06
   Augments RICO screens and view hierarchies with human labels for icon shape and meaning and for links between UI elements and text labels. It compares image-only and multimodal models on semantic understanding of previously unseen apps.
 - [Learning to Denoise Raw Mobile UI Layouts for Improving Datasets at Scale](https://awesomecua.github.io/resources/arxiv-2201-04100/) — 2022-01-11

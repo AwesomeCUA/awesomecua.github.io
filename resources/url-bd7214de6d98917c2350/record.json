@@ -2,6 +2,28 @@
   "aliases": [],
   "authors": [],
   "details": {
+    "benchmark_protocol": {
+      "actions": [
+        "click coordinates"
+      ],
+      "counts": [],
+      "evaluation": "The inspected Jedi evaluation adapter reads the v2 mobile/desktop/web annotation files, scores a point against the target box, and reports overall, platform, and text/icon accuracy. This is a named compatible evaluator implementation; the OS-Atlas dataset card itself supplies no evaluator specification.",
+      "evidence_urls": [
+        "https://huggingface.co/api/datasets/OS-Copilot/ScreenSpot-v2",
+        "https://osatlas.github.io/",
+        "https://raw.githubusercontent.com/xlang-ai/OSWorld-G/HEAD/evaluation/qwen25_vllm_screenspot_v2_jedi.py",
+        "https://raw.githubusercontent.com/xlang-ai/OSWorld-G/HEAD/evaluation/eval.py"
+      ],
+      "focus": [
+        "single-step GUI grounding on the ScreenSpot-v2 release"
+      ],
+      "notes": "The public Hub revision 5efbb1f1 contains three platform JSON annotation files and an image ZIP; its card only declares Apache-2.0. No sample total or equivalence to the original ScreenSpot test count is asserted. Keep v2 separate from v1 and retain evaluator/version and coordinate conversion when comparing results. Files were listed, not downloaded as data.",
+      "observations": [
+        "screenshot",
+        "instruction"
+      ],
+      "setting": "offline"
+    },
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/OS-Copilot/ScreenSpot-v2/tree/main",
     "evaluation_type": null,
@@ -32,9 +54,40 @@
         "environments",
         "topics",
         "scope",
-        "relations"
+        "relations",
+        "details.benchmark_protocol"
       ],
       "url": "https://huggingface.co/api/datasets/OS-Copilot/ScreenSpot-v2"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:22:05Z",
+      "role": "primary",
+      "sha256": "94547cb88756cf6a36bfb86d5fe9bdca1e40d7edb9e452c33cb462bbe760fed0",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://osatlas.github.io/"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:21:09Z",
+      "role": "primary",
+      "sha256": "0e8772bc8fd5a25c50d3c2f6b0caee05ed2ab4659d46d99d60adf2b5ab29e997",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/xlang-ai/OSWorld-G/HEAD/evaluation/qwen25_vllm_screenspot_v2_jedi.py"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:21:09Z",
+      "role": "primary",
+      "sha256": "b85f5685ce6c200ea648471666177859693d7f40cf50c12d08765ae68580de4a",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/xlang-ai/OSWorld-G/HEAD/evaluation/eval.py"
     },
     {
       "method": "huggingface_api",

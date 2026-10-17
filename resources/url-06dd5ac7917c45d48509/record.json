@@ -2,6 +2,31 @@
   "aliases": [],
   "authors": [],
   "details": {
+    "dataset_profile": {
+      "counts": [],
+      "evidence_urls": [
+        "https://huggingface.co/datasets/xlangai/aguvis-stage1/raw/main/README.md",
+        "https://huggingface.co/api/datasets/xlangai/aguvis-stage1",
+        "https://raw.githubusercontent.com/xlang-ai/aguvis/HEAD/README.md",
+        "https://raw.githubusercontent.com/xlang-ai/aguvis/HEAD/data/stage1.yaml"
+      ],
+      "formats": [
+        "JSON annotations",
+        "ZIP image packages",
+        "multipart TAR image packages"
+      ],
+      "modalities": [
+        "GUI screenshots",
+        "grounding annotations"
+      ],
+      "notes": "Stage 1 grounding release, Hub revision 5d11f8f5. JSON annotations and ZIP/multipart TAR image packages are publicly listed. The official training configuration groups web, desktop and mobile inputs and selects all rows of its configured inputs; this is a training recipe, not a release sample count or held-out split. The config names omniact.json while the Hub manifest lists omniact_fix.json, so local paths need reconciliation. No sample total is inferred from names such as webui350k. Apache-2.0 is the release card declaration; upstream source rights remain separate.",
+      "splits": [
+        "training"
+      ],
+      "supervision": [
+        "GUI grounding supervised fine-tuning"
+      ]
+    },
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/xlangai/aguvis-stage1/tree/main",
     "gated": false,
@@ -28,7 +53,8 @@
         "topics",
         "scope",
         "relations",
-        "details"
+        "details",
+        "details.dataset_profile"
       ],
       "url": "https://huggingface.co/datasets/xlangai/aguvis-stage1/raw/main/README.md"
     },
@@ -41,7 +67,8 @@
         "identity",
         "release_status",
         "details",
-        "licenses.data"
+        "licenses.data",
+        "details.dataset_profile"
       ],
       "url": "https://huggingface.co/api/datasets/xlangai/aguvis-stage1"
     },
@@ -52,9 +79,20 @@
       "sha256": "2dd9f36b818c1b7b6bd772ba8575f6c0ebab6d9e0d307edcc2f196f3e4ba502e",
       "supports": [
         "environments",
-        "summary"
+        "summary",
+        "details.dataset_profile"
       ],
       "url": "https://raw.githubusercontent.com/xlang-ai/aguvis/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:21:11Z",
+      "role": "primary",
+      "sha256": "f6a9e55c5d48469e2c8f7799d917d25e7a758036f71c7c045fa92c35057d20da",
+      "supports": [
+        "details.dataset_profile"
+      ],
+      "url": "https://raw.githubusercontent.com/xlang-ai/aguvis/HEAD/data/stage1.yaml"
     },
     {
       "method": "huggingface_card",

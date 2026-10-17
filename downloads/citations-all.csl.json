@@ -13757,8 +13757,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2210.03945",
       "catalog_id": "arxiv:2210.03945",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2022-10-08",
       "identifiers": {
         "arxiv": "2210.03945"
@@ -18344,8 +18344,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2305.16653",
       "catalog_id": "arxiv:2305.16653",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2023-05-26",
       "identifiers": {
         "arxiv": "2305.16653"
@@ -18718,8 +18718,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2306.01242",
       "catalog_id": "arxiv:2306.01242",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2023-06-02",
       "identifiers": {
         "arxiv": "2306.01242"
@@ -21537,8 +21537,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2310.05126",
       "catalog_id": "arxiv:2310.05126",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2023-10-08",
       "identifiers": {
         "arxiv": "2310.05126"
@@ -24807,8 +24807,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2312.06677",
       "catalog_id": "arxiv:2312.06677",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2023-12-04",
       "identifiers": {
         "arxiv": "2312.06677"
@@ -31301,8 +31301,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2403.20329",
       "catalog_id": "arxiv:2403.20329",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2024-03-29",
       "identifiers": {
         "arxiv": "2403.20329"
@@ -32227,8 +32227,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2404.06474",
       "catalog_id": "arxiv:2404.06474",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2024-04-09",
       "identifiers": {
         "arxiv": "2404.06474"
@@ -33954,8 +33954,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2404.18074",
       "catalog_id": "arxiv:2404.18074",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2024-04-28",
       "identifiers": {
         "arxiv": "2404.18074"
@@ -34632,8 +34632,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2405.12842",
       "catalog_id": "arxiv:2405.12842",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2024-05-21",
       "identifiers": {
         "arxiv": "2405.12842"
@@ -35997,8 +35997,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2406.09187",
       "catalog_id": "arxiv:2406.09187",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2024-06-13",
       "identifiers": {
         "arxiv": "2406.09187"
@@ -36971,8 +36971,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2406.12814",
       "catalog_id": "arxiv:2406.12814",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2024-06-18",
       "identifiers": {
         "arxiv": "2406.12814"
@@ -38190,8 +38190,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2407.01476",
       "catalog_id": "arxiv:2407.01476",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2024-07-01",
       "identifiers": {
         "arxiv": "2407.01476"
@@ -41493,8 +41493,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2408.02544",
       "catalog_id": "arxiv:2408.02544",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2024-08-05",
       "identifiers": {
         "arxiv": "2408.02544"
@@ -43606,8 +43606,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2409.12089",
       "catalog_id": "arxiv:2409.12089",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2024-09-18",
       "identifiers": {
         "arxiv": "2409.12089"
@@ -44206,8 +44206,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2409.18060",
       "catalog_id": "arxiv:2409.18060",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2024-09-26",
       "identifiers": {
         "arxiv": "2409.18060"
@@ -72093,8 +72093,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2506.15677",
       "catalog_id": "arxiv:2506.15677",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-06-18",
       "identifiers": {
         "arxiv": "2506.15677"
@@ -74508,8 +74508,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2507.12844",
       "catalog_id": "arxiv:2507.12844",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-07-17",
       "identifiers": {
         "arxiv": "2507.12844"
@@ -77090,8 +77090,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2508.05081",
       "catalog_id": "arxiv:2508.05081",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-08-07",
       "identifiers": {
         "arxiv": "2508.05081"
@@ -80370,8 +80370,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2509.01619",
       "catalog_id": "arxiv:2509.01619",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2025-09-01",
       "identifiers": {
         "arxiv": "2509.01619"
@@ -80553,8 +80553,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2509.02322",
       "catalog_id": "arxiv:2509.02322",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-09-02",
       "identifiers": {
         "arxiv": "2509.02322"
@@ -84053,8 +84053,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2509.20729",
       "catalog_id": "arxiv:2509.20729",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-09-25",
       "identifiers": {
         "arxiv": "2509.20729"
@@ -84628,8 +84628,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2509.22256",
       "catalog_id": "arxiv:2509.22256",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-09-26",
       "identifiers": {
         "arxiv": "2509.22256"
@@ -86007,8 +86007,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2510.01354",
       "catalog_id": "arxiv:2510.01354",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-10-01",
       "identifiers": {
         "arxiv": "2510.01354"
@@ -86363,8 +86363,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2510.02250",
       "catalog_id": "arxiv:2510.02250",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-10-02",
       "identifiers": {
         "arxiv": "2510.02250"
@@ -86424,8 +86424,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2510.02418",
       "catalog_id": "arxiv:2510.02418",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-10-02",
       "identifiers": {
         "arxiv": "2510.02418"
@@ -86808,8 +86808,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2510.04373",
       "catalog_id": "arxiv:2510.04373",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-10-05",
       "identifiers": {
         "arxiv": "2510.04373"
@@ -86979,8 +86979,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2510.04607",
       "catalog_id": "arxiv:2510.04607",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-10-06",
       "identifiers": {
         "arxiv": "2510.04607"
@@ -88030,8 +88030,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2510.10073",
       "catalog_id": "arxiv:2510.10073",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-10-11",
       "identifiers": {
         "arxiv": "2510.10073"
@@ -88164,8 +88164,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2510.10666",
       "catalog_id": "arxiv:2510.10666",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-10-12",
       "identifiers": {
         "arxiv": "2510.10666"
@@ -88301,8 +88301,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2510.11035",
       "catalog_id": "arxiv:2510.11035",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-10-13",
       "identifiers": {
         "arxiv": "2510.11035"
@@ -88545,8 +88545,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2510.12200",
       "catalog_id": "arxiv:2510.12200",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-10-14",
       "identifiers": {
         "arxiv": "2510.12200"
@@ -88661,8 +88661,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2510.13543",
       "catalog_id": "arxiv:2510.13543",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-10-15",
       "identifiers": {
         "arxiv": "2510.13543"
@@ -89172,8 +89172,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2510.15455",
       "catalog_id": "arxiv:2510.15455",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-10-17",
       "identifiers": {
         "arxiv": "2510.15455"
@@ -89720,8 +89720,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2510.18113",
       "catalog_id": "arxiv:2510.18113",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-10-20",
       "identifiers": {
         "arxiv": "2510.18113"
@@ -89991,8 +89991,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2510.19205",
       "catalog_id": "arxiv:2510.19205",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-10-22",
       "identifiers": {
         "arxiv": "2510.19205"
@@ -91446,8 +91446,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2510.24168",
       "catalog_id": "arxiv:2510.24168",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-10-28",
       "identifiers": {
         "arxiv": "2510.24168"
@@ -92337,8 +92337,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2511.00810",
       "catalog_id": "arxiv:2511.00810",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-11-02",
       "identifiers": {
         "arxiv": "2511.00810"
@@ -93025,8 +93025,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2511.06101",
       "catalog_id": "arxiv:2511.06101",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-11-08",
       "identifiers": {
         "arxiv": "2511.06101"
@@ -93147,8 +93147,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2511.06417",
       "catalog_id": "arxiv:2511.06417",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-11-09",
       "identifiers": {
         "arxiv": "2511.06417"
@@ -93911,8 +93911,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2511.12997",
       "catalog_id": "arxiv:2511.12997",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-11-17",
       "identifiers": {
         "arxiv": "2511.12997"
@@ -93978,8 +93978,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2511.13087",
       "catalog_id": "arxiv:2511.13087",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-11-17",
       "identifiers": {
         "arxiv": "2511.13087"
@@ -94780,8 +94780,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2511.19477",
       "catalog_id": "arxiv:2511.19477",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-11-22",
       "identifiers": {
         "arxiv": "2511.19477"
@@ -95271,8 +95271,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2511.21398",
       "catalog_id": "arxiv:2511.21398",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-11-26",
       "identifiers": {
         "arxiv": "2511.21398"
@@ -95597,8 +95597,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2512.00846",
       "catalog_id": "arxiv:2512.00846",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-11-30",
       "identifiers": {
         "arxiv": "2512.00846"
@@ -96426,8 +96426,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2512.07725",
       "catalog_id": "arxiv:2512.07725",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-12-08",
       "identifiers": {
         "arxiv": "2512.07725"
@@ -96642,8 +96642,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2512.09396",
       "catalog_id": "arxiv:2512.09396",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-12-10",
       "identifiers": {
         "arxiv": "2512.09396"
@@ -96770,8 +96770,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2512.10962",
       "catalog_id": "arxiv:2512.10962",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-11-22",
       "identifiers": {
         "arxiv": "2512.10962"
@@ -98915,8 +98915,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2512.22009",
       "catalog_id": "arxiv:2512.22009",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-12-26",
       "identifiers": {
         "arxiv": "2512.22009"
@@ -99265,8 +99265,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2512.23128",
       "catalog_id": "arxiv:2512.23128",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2025-12-29",
       "identifiers": {
         "arxiv": "2512.23128"
@@ -107600,67 +107600,6 @@
     "version": "2"
   },
   {
-    "URL": "https://arxiv.org/abs/2602.03361v1",
-    "archive": "arXiv",
-    "archive_location": "2602.03361",
-    "author": [
-      {
-        "literal": "Nikita Drozdov"
-      },
-      {
-        "literal": "Andrey Lemeshko"
-      },
-      {
-        "literal": "Nikita Gavrilov"
-      },
-      {
-        "literal": "Anton Konushin"
-      },
-      {
-        "literal": "Danila Rukhovich"
-      },
-      {
-        "literal": "Maksim Kolodiazhnyi"
-      }
-    ],
-    "citation-key": "arxiv_2602_03361",
-    "custom": {
-      "arxiv_snapshot": {
-        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-        "abstract_sha256": "d54000f688728e4119de331829a0707b1b155aa0d800269c92814f816f795229",
-        "submitted_at": "2026-02-03T10:35:18Z",
-        "updated_at": "2026-02-03T10:35:18Z",
-        "version": 1,
-        "versioned_url": "https://arxiv.org/abs/2602.03361v1"
-      },
-      "canonical_source_url": "https://arxiv.org/abs/2602.03361",
-      "catalog_id": "arxiv:2602.03361",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
-      "first_published_at": "2026-02-03",
-      "identifiers": {
-        "arxiv": "2602.03361"
-      },
-      "record_updated_at": "2026-02-03"
-    },
-    "genre": "preprint",
-    "id": "arxiv:2602.03361",
-    "issued": {
-      "date-parts": [
-        [
-          2026,
-          2,
-          3
-        ]
-      ]
-    },
-    "note": "First published: 2026-02-03; Recorded arXiv version: v1; Recorded version updated: 2026-02-03T10:35:18Z.",
-    "title": "Z3D: Zero-Shot 3D Visual Grounding from Images",
-    "type": "article",
-    "version": "1"
-  },
-  {
     "URL": "https://arxiv.org/abs/2602.03792v1",
     "archive": "arXiv",
     "archive_location": "2602.03792",
@@ -112171,8 +112110,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2602.14865",
       "catalog_id": "arxiv:2602.14865",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-02-16",
       "identifiers": {
         "arxiv": "2602.14865"
@@ -116696,8 +116635,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2603.12823",
       "catalog_id": "arxiv:2603.12823",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-03-13",
       "identifiers": {
         "arxiv": "2603.12823"
@@ -117203,70 +117142,6 @@
     "title": "How Vulnerable Are AI Agents to Indirect Prompt Injections? Insights from a Large-Scale Public Competition",
     "type": "article",
     "version": "1"
-  },
-  {
-    "URL": "https://arxiv.org/abs/2603.16065v3",
-    "archive": "arXiv",
-    "archive_location": "2603.16065",
-    "author": [
-      {
-        "literal": "Yanru Wu"
-      },
-      {
-        "literal": "Weiduo Yuan"
-      },
-      {
-        "literal": "Esteban Martinez Licon"
-      },
-      {
-        "literal": "Ang Qi"
-      },
-      {
-        "literal": "Vitor Guizilini"
-      },
-      {
-        "literal": "Jiageng Mao"
-      },
-      {
-        "literal": "Yue Wang"
-      }
-    ],
-    "citation-key": "arxiv_2603_16065",
-    "custom": {
-      "arxiv_snapshot": {
-        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-        "abstract_sha256": "5b0c67c49f7533fad91d0a80ba549083e1cb7868136f72d157a429ff3711911e",
-        "submitted_at": "2026-03-17T02:22:16Z",
-        "updated_at": "2026-09-30T19:15:24Z",
-        "version": 3,
-        "versioned_url": "https://arxiv.org/abs/2603.16065v3"
-      },
-      "canonical_source_url": "https://arxiv.org/abs/2603.16065",
-      "catalog_id": "arxiv:2603.16065",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
-      "first_published_at": "2026-03-17",
-      "identifiers": {
-        "arxiv": "2603.16065"
-      },
-      "record_updated_at": "2026-09-30"
-    },
-    "genre": "preprint",
-    "id": "arxiv:2603.16065",
-    "issued": {
-      "date-parts": [
-        [
-          2026,
-          3,
-          17
-        ]
-      ]
-    },
-    "note": "First published: 2026-03-17; Recorded arXiv version: v3; Recorded version updated: 2026-09-30T19:15:24Z.",
-    "title": "Large Reward Models: Generalizable Online Robot Reward Generation with Vision-Language Models",
-    "type": "article",
-    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2603.16289v2",
@@ -118642,8 +118517,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2603.23007",
       "catalog_id": "arxiv:2603.23007",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-03-24",
       "identifiers": {
         "arxiv": "2603.23007"
@@ -122440,8 +122315,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.06367",
       "catalog_id": "arxiv:2604.06367",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-07",
       "identifiers": {
         "arxiv": "2604.06367"
@@ -122815,8 +122690,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.07831",
       "catalog_id": "arxiv:2604.07831",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-09",
       "identifiers": {
         "arxiv": "2604.07831"
@@ -124430,8 +124305,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.12284",
       "catalog_id": "arxiv:2604.12284",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-14",
       "identifiers": {
         "arxiv": "2604.12284"
@@ -124938,8 +124813,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.13822",
       "catalog_id": "arxiv:2604.13822",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-15",
       "identifiers": {
         "arxiv": "2604.13822"
@@ -125572,64 +125447,6 @@
     "version": "2"
   },
   {
-    "URL": "https://arxiv.org/abs/2604.15671v2",
-    "archive": "arXiv",
-    "archive_location": "2604.15671",
-    "author": [
-      {
-        "literal": "Xu Huang"
-      },
-      {
-        "literal": "Weixin Mao"
-      },
-      {
-        "literal": "Yinhao Li"
-      },
-      {
-        "literal": "Hua Chen"
-      },
-      {
-        "literal": "Jiabao Zhao"
-      }
-    ],
-    "citation-key": "arxiv_2604_15671",
-    "custom": {
-      "arxiv_snapshot": {
-        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-        "abstract_sha256": "cfa93ec492986399345fc84b1fec5ad0640fe95ebf77bc08421c930a8e95b24c",
-        "submitted_at": "2026-04-17T03:49:41Z",
-        "updated_at": "2026-08-03T03:27:10Z",
-        "version": 2,
-        "versioned_url": "https://arxiv.org/abs/2604.15671v2"
-      },
-      "canonical_source_url": "https://arxiv.org/abs/2604.15671",
-      "catalog_id": "arxiv:2604.15671",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
-      "first_published_at": "2026-04-17",
-      "identifiers": {
-        "arxiv": "2604.15671"
-      },
-      "record_updated_at": "2026-08-03"
-    },
-    "genre": "preprint",
-    "id": "arxiv:2604.15671",
-    "issued": {
-      "date-parts": [
-        [
-          2026,
-          4,
-          17
-        ]
-      ]
-    },
-    "note": "First published: 2026-04-17; Recorded arXiv version: v2; Recorded version updated: 2026-08-03T03:27:10Z.",
-    "title": "Long-Term Memory for VLA-based Agents in Open-World Task Execution",
-    "type": "article",
-    "version": "2"
-  },
-  {
     "URL": "https://arxiv.org/abs/2604.15715v1",
     "archive": "arXiv",
     "archive_location": "2604.15715",
@@ -125983,8 +125800,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.17817",
       "catalog_id": "arxiv:2604.17817",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-20",
       "identifiers": {
         "arxiv": "2604.17817"
@@ -126108,8 +125925,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.17849",
       "catalog_id": "arxiv:2604.17849",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-20",
       "identifiers": {
         "arxiv": "2604.17849"
@@ -126285,8 +126102,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.18860",
       "catalog_id": "arxiv:2604.18860",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-20",
       "identifiers": {
         "arxiv": "2604.18860"
@@ -126619,64 +126436,6 @@
     "title": "AgentLens: Adaptive Visual Modalities for Human-Agent Interaction in Mobile GUI Agents",
     "type": "article",
     "version": "3"
-  },
-  {
-    "URL": "https://arxiv.org/abs/2604.20841v2",
-    "archive": "arXiv",
-    "archive_location": "2604.20841",
-    "author": [
-      {
-        "literal": "Hyeonwoo Kim"
-      },
-      {
-        "literal": "Jeonghwan Kim"
-      },
-      {
-        "literal": "Kyungwon Cho"
-      },
-      {
-        "literal": "Junyoung Lee"
-      },
-      {
-        "literal": "Hanbyul Joo"
-      }
-    ],
-    "citation-key": "arxiv_2604_20841",
-    "custom": {
-      "arxiv_snapshot": {
-        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-        "abstract_sha256": "a2233fa5e27b466ac93ec1fea46e6dc546ed5d4b80019fba496409e1efa318f1",
-        "submitted_at": "2026-04-22T17:59:55Z",
-        "updated_at": "2026-10-08T21:23:25Z",
-        "version": 2,
-        "versioned_url": "https://arxiv.org/abs/2604.20841v2"
-      },
-      "canonical_source_url": "https://arxiv.org/abs/2604.20841",
-      "catalog_id": "arxiv:2604.20841",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
-      "first_published_at": "2026-04-22",
-      "identifiers": {
-        "arxiv": "2604.20841"
-      },
-      "record_updated_at": "2026-10-08"
-    },
-    "genre": "preprint",
-    "id": "arxiv:2604.20841",
-    "issued": {
-      "date-parts": [
-        [
-          2026,
-          4,
-          22
-        ]
-      ]
-    },
-    "note": "First published: 2026-04-22; Recorded arXiv version: v2; Recorded version updated: 2026-10-08T21:23:25Z.",
-    "title": "DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation",
-    "type": "article",
-    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2604.20987v1",
@@ -127475,8 +127234,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.25562",
       "catalog_id": "arxiv:2604.25562",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-28",
       "identifiers": {
         "arxiv": "2604.25562"
@@ -127539,8 +127298,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2604.26020",
       "catalog_id": "arxiv:2604.26020",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-04-28",
       "identifiers": {
         "arxiv": "2604.26020"
@@ -127731,70 +127490,6 @@
     },
     "note": "First published: 2026-04-29; Recorded arXiv version: v1; Recorded version updated: 2026-04-29T22:57:35Z.",
     "title": "AutoSurfer -- Teaching Web Agents through Comprehensive Surfing, Learning, and Modeling",
-    "type": "article",
-    "version": "1"
-  },
-  {
-    "URL": "https://arxiv.org/abs/2604.27621v1",
-    "archive": "arXiv",
-    "archive_location": "2604.27621",
-    "author": [
-      {
-        "literal": "Junyi Ma"
-      },
-      {
-        "literal": "Erhang Zhang"
-      },
-      {
-        "literal": "Haoran Yang"
-      },
-      {
-        "literal": "Ditao Li"
-      },
-      {
-        "literal": "Chenyang Xu"
-      },
-      {
-        "literal": "Guangming Wang"
-      },
-      {
-        "literal": "Hesheng Wang"
-      }
-    ],
-    "citation-key": "arxiv_2604_27621",
-    "custom": {
-      "arxiv_snapshot": {
-        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-        "abstract_sha256": "0e49df2548e1a8ee6a0ddc06fd6856c9c16314092745044998b9216f8512f332",
-        "submitted_at": "2026-04-30T09:11:25Z",
-        "updated_at": "2026-04-30T09:11:25Z",
-        "version": 1,
-        "versioned_url": "https://arxiv.org/abs/2604.27621v1"
-      },
-      "canonical_source_url": "https://arxiv.org/abs/2604.27621",
-      "catalog_id": "arxiv:2604.27621",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
-      "first_published_at": "2026-04-30",
-      "identifiers": {
-        "arxiv": "2604.27621"
-      },
-      "record_updated_at": "2026-04-30"
-    },
-    "genre": "preprint",
-    "id": "arxiv:2604.27621",
-    "issued": {
-      "date-parts": [
-        [
-          2026,
-          4,
-          30
-        ]
-      ]
-    },
-    "note": "First published: 2026-04-30; Recorded arXiv version: v1; Recorded version updated: 2026-04-30T09:11:25Z.",
-    "title": "Robot Learning from Human Videos: A Survey",
     "type": "article",
     "version": "1"
   },
@@ -130791,8 +130486,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.12481",
       "catalog_id": "arxiv:2605.12481",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-12",
       "identifiers": {
         "arxiv": "2605.12481"
@@ -131013,8 +130708,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.12549",
       "catalog_id": "arxiv:2605.12549",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-10",
       "identifiers": {
         "arxiv": "2605.12549"
@@ -131098,73 +130793,6 @@
     },
     "note": "First published: 2026-05-13; Recorded arXiv version: v2; Recorded version updated: 2026-08-29T19:20:59Z.",
     "title": "Useful Memories Become Faulty When Continuously Updated by LLMs",
-    "type": "article",
-    "version": "2"
-  },
-  {
-    "URL": "https://arxiv.org/abs/2605.13119v2",
-    "archive": "arXiv",
-    "archive_location": "2605.13119",
-    "author": [
-      {
-        "literal": "Zixing Lei"
-      },
-      {
-        "literal": "Changxing Liu"
-      },
-      {
-        "literal": "Yichen Xiong"
-      },
-      {
-        "literal": "Minhao Xiong"
-      },
-      {
-        "literal": "Yuanzhuo Ding"
-      },
-      {
-        "literal": "Zhipeng Zhang"
-      },
-      {
-        "literal": "Weixin Li"
-      },
-      {
-        "literal": "Siheng Chen"
-      }
-    ],
-    "citation-key": "arxiv_2605_13119",
-    "custom": {
-      "arxiv_snapshot": {
-        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-        "abstract_sha256": "43153a6afc0973da7828846d06d8247045c63a648a18b87f18ebcd845b275494",
-        "submitted_at": "2026-05-13T07:40:34Z",
-        "updated_at": "2026-10-12T18:03:31Z",
-        "version": 2,
-        "versioned_url": "https://arxiv.org/abs/2605.13119v2"
-      },
-      "canonical_source_url": "https://arxiv.org/abs/2605.13119",
-      "catalog_id": "arxiv:2605.13119",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
-      "first_published_at": "2026-05-13",
-      "identifiers": {
-        "arxiv": "2605.13119"
-      },
-      "record_updated_at": "2026-10-12"
-    },
-    "genre": "preprint",
-    "id": "arxiv:2605.13119",
-    "issued": {
-      "date-parts": [
-        [
-          2026,
-          5,
-          13
-        ]
-      ]
-    },
-    "note": "First published: 2026-05-13; Recorded arXiv version: v2; Recorded version updated: 2026-10-12T18:03:31Z.",
-    "title": "Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models",
     "type": "article",
     "version": "2"
   },
@@ -131774,8 +131402,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.15542",
       "catalog_id": "arxiv:2605.15542",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-15",
       "identifiers": {
         "arxiv": "2605.15542"
@@ -131865,8 +131493,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.15777",
       "catalog_id": "arxiv:2605.15777",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-15",
       "identifiers": {
         "arxiv": "2605.15777"
@@ -132186,8 +131814,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.16883",
       "catalog_id": "arxiv:2605.16883",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-16",
       "identifiers": {
         "arxiv": "2605.16883"
@@ -133244,8 +132872,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.20291",
       "catalog_id": "arxiv:2605.20291",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-19",
       "identifiers": {
         "arxiv": "2605.20291"
@@ -133267,58 +132895,6 @@
     "title": "Weasel: Out-of-Domain Generalization for Web Agents via Importance-Diversity Data Selection",
     "type": "article",
     "version": "2"
-  },
-  {
-    "URL": "https://arxiv.org/abs/2605.20894v1",
-    "archive": "arXiv",
-    "archive_location": "2605.20894",
-    "author": [
-      {
-        "literal": "Haoran Huang"
-      },
-      {
-        "literal": "Haonan Dong"
-      },
-      {
-        "literal": "Huixu Dong"
-      }
-    ],
-    "citation-key": "arxiv_2605_20894",
-    "custom": {
-      "arxiv_snapshot": {
-        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-        "abstract_sha256": "9d4adf247f2d48f72e49485b7e6bcab8a2fc68f073cfe84800d84f907d11e888",
-        "submitted_at": "2026-05-20T08:33:53Z",
-        "updated_at": "2026-05-20T08:33:53Z",
-        "version": 1,
-        "versioned_url": "https://arxiv.org/abs/2605.20894v1"
-      },
-      "canonical_source_url": "https://arxiv.org/abs/2605.20894",
-      "catalog_id": "arxiv:2605.20894",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
-      "first_published_at": "2026-05-20",
-      "identifiers": {
-        "arxiv": "2605.20894"
-      },
-      "record_updated_at": "2026-05-20"
-    },
-    "genre": "preprint",
-    "id": "arxiv:2605.20894",
-    "issued": {
-      "date-parts": [
-        [
-          2026,
-          5,
-          20
-        ]
-      ]
-    },
-    "note": "First published: 2026-05-20; Recorded arXiv version: v1; Recorded version updated: 2026-05-20T08:33:53Z.",
-    "title": "Mobile UMI: Cross-View Diffusion Policy with Decoupled Kinematics for Mobile Manipulation",
-    "type": "article",
-    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2605.21470v2",
@@ -134307,8 +133883,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.26546",
       "catalog_id": "arxiv:2605.26546",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-26",
       "identifiers": {
         "arxiv": "2605.26546"
@@ -135859,8 +135435,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2605.29534",
       "catalog_id": "arxiv:2605.29534",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-05-28",
       "identifiers": {
         "arxiv": "2605.29534"
@@ -136546,52 +136122,6 @@
     },
     "note": "First published: 2026-05-29; Recorded arXiv version: v1; Recorded version updated: 2026-05-29T06:43:23Z.",
     "title": "BlueFin: Benchmarking LLM Agents on Financial Spreadsheets",
-    "type": "article",
-    "version": "1"
-  },
-  {
-    "URL": "https://arxiv.org/abs/2605.30914v1",
-    "archive": "arXiv",
-    "archive_location": "2605.30914",
-    "author": [
-      {
-        "literal": "Max Tan"
-      }
-    ],
-    "citation-key": "arxiv_2605_30914",
-    "custom": {
-      "arxiv_snapshot": {
-        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-        "abstract_sha256": "72793ed66027d31740743f706a5ddf3fb73d48470e65619139515a26e20a27fe",
-        "submitted_at": "2026-05-29T06:59:28Z",
-        "updated_at": "2026-05-29T06:59:28Z",
-        "version": 1,
-        "versioned_url": "https://arxiv.org/abs/2605.30914v1"
-      },
-      "canonical_source_url": "https://arxiv.org/abs/2605.30914",
-      "catalog_id": "arxiv:2605.30914",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
-      "first_published_at": "2026-05-29",
-      "identifiers": {
-        "arxiv": "2605.30914"
-      },
-      "record_updated_at": "2026-05-29"
-    },
-    "genre": "preprint",
-    "id": "arxiv:2605.30914",
-    "issued": {
-      "date-parts": [
-        [
-          2026,
-          5,
-          29
-        ]
-      ]
-    },
-    "note": "First published: 2026-05-29; Recorded arXiv version: v1; Recorded version updated: 2026-05-29T06:59:28Z.",
-    "title": "Automating Formal Verification with Reinforcement Learning and Recursive Inference",
     "type": "article",
     "version": "1"
   },
@@ -137297,8 +136827,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.01533",
       "catalog_id": "arxiv:2606.01533",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-01",
       "identifiers": {
         "arxiv": "2606.01533"
@@ -137361,8 +136891,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.01790",
       "catalog_id": "arxiv:2606.01790",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-01",
       "identifiers": {
         "arxiv": "2606.01790"
@@ -137781,8 +137311,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.03203",
       "catalog_id": "arxiv:2606.03203",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-02",
       "identifiers": {
         "arxiv": "2606.03203"
@@ -137903,8 +137433,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.03854",
       "catalog_id": "arxiv:2606.03854",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-06-02",
       "identifiers": {
         "arxiv": "2606.03854"
@@ -138226,8 +137756,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.04391",
       "catalog_id": "arxiv:2606.04391",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-03",
       "identifiers": {
         "arxiv": "2606.04391"
@@ -138839,8 +138369,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.06322",
       "catalog_id": "arxiv:2606.06322",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-04",
       "identifiers": {
         "arxiv": "2606.06322"
@@ -139001,76 +138531,6 @@
     "version": "1"
   },
   {
-    "URL": "https://arxiv.org/abs/2606.06556v1",
-    "archive": "arXiv",
-    "archive_location": "2606.06556",
-    "author": [
-      {
-        "literal": "Elis Karcini"
-      },
-      {
-        "literal": "Faisal Mehrban"
-      },
-      {
-        "literal": "Quang Nguyen"
-      },
-      {
-        "literal": "Mac Schwager"
-      },
-      {
-        "literal": "Arash Ajoudani"
-      },
-      {
-        "literal": "Cesar Cadena"
-      },
-      {
-        "literal": "Jan Peters"
-      },
-      {
-        "literal": "Marco Hutter"
-      },
-      {
-        "literal": "Haitham Bou-Ammar"
-      }
-    ],
-    "citation-key": "arxiv_2606_06556",
-    "custom": {
-      "arxiv_snapshot": {
-        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-        "abstract_sha256": "4c468a17fbe78dcdd475c6c0d7ff806fa9a622668059ff21f407fb75310ffc92",
-        "submitted_at": "2026-06-04T10:43:14Z",
-        "updated_at": "2026-06-04T10:43:14Z",
-        "version": 1,
-        "versioned_url": "https://arxiv.org/abs/2606.06556v1"
-      },
-      "canonical_source_url": "https://arxiv.org/abs/2606.06556",
-      "catalog_id": "arxiv:2606.06556",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
-      "first_published_at": "2026-06-04",
-      "identifiers": {
-        "arxiv": "2606.06556"
-      },
-      "record_updated_at": "2026-06-04"
-    },
-    "genre": "preprint",
-    "id": "arxiv:2606.06556",
-    "issued": {
-      "date-parts": [
-        [
-          2026,
-          6,
-          4
-        ]
-      ]
-    },
-    "note": "First published: 2026-06-04; Recorded arXiv version: v1; Recorded version updated: 2026-06-04T10:43:14Z.",
-    "title": "Robots Need More than VLA and World Models",
-    "type": "article",
-    "version": "1"
-  },
-  {
     "URL": "https://arxiv.org/abs/2606.06560v1",
     "archive": "arXiv",
     "archive_location": "2606.06560",
@@ -139101,8 +138561,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.06560",
       "catalog_id": "arxiv:2606.06560",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-04",
       "identifiers": {
         "arxiv": "2606.06560"
@@ -139622,85 +139082,6 @@
     "version": "1"
   },
   {
-    "URL": "https://arxiv.org/abs/2606.07723v1",
-    "archive": "arXiv",
-    "archive_location": "2606.07723",
-    "author": [
-      {
-        "literal": "Siyi Chen"
-      },
-      {
-        "literal": "Hugo Hadfield"
-      },
-      {
-        "literal": "Alex Zook"
-      },
-      {
-        "literal": "Mikaela Angelina Uy"
-      },
-      {
-        "literal": "Chan Hee Song"
-      },
-      {
-        "literal": "Erwin Coumans"
-      },
-      {
-        "literal": "Xuning Yang"
-      },
-      {
-        "literal": "Faisal Ladhak"
-      },
-      {
-        "literal": "Qing Qu"
-      },
-      {
-        "literal": "Stan Birchfield"
-      },
-      {
-        "literal": "Jonathan Tremblay"
-      },
-      {
-        "literal": "Valts Blukis"
-      }
-    ],
-    "citation-key": "arxiv_2606_07723",
-    "custom": {
-      "arxiv_snapshot": {
-        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-        "abstract_sha256": "d2775933f9b0672bc779d2812b7e7aebbf01405d5751ad7f27b2f6a5170c7fdd",
-        "submitted_at": "2026-06-05T16:21:27Z",
-        "updated_at": "2026-06-05T16:21:27Z",
-        "version": 1,
-        "versioned_url": "https://arxiv.org/abs/2606.07723v1"
-      },
-      "canonical_source_url": "https://arxiv.org/abs/2606.07723",
-      "catalog_id": "arxiv:2606.07723",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
-      "first_published_at": "2026-06-05",
-      "identifiers": {
-        "arxiv": "2606.07723"
-      },
-      "record_updated_at": "2026-06-05"
-    },
-    "genre": "preprint",
-    "id": "arxiv:2606.07723",
-    "issued": {
-      "date-parts": [
-        [
-          2026,
-          6,
-          5
-        ]
-      ]
-    },
-    "note": "First published: 2026-06-05; Recorded arXiv version: v1; Recorded version updated: 2026-06-05T16:21:27Z.",
-    "title": "VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation",
-    "type": "article",
-    "version": "1"
-  },
-  {
     "URL": "https://arxiv.org/abs/2606.07867v2",
     "archive": "arXiv",
     "archive_location": "2606.07867",
@@ -139777,8 +139158,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.09399",
       "catalog_id": "arxiv:2606.09399",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-08",
       "identifiers": {
         "arxiv": "2606.09399"
@@ -140597,8 +139978,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.11078",
       "catalog_id": "arxiv:2606.11078",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-09",
       "identifiers": {
         "arxiv": "2606.11078"
@@ -141100,79 +140481,6 @@
     "title": "Benchmarking AI Agents for Addressing Scientific Challenges Across Scales",
     "type": "article",
     "version": "1"
-  },
-  {
-    "URL": "https://arxiv.org/abs/2606.13040v4",
-    "archive": "arXiv",
-    "archive_location": "2606.13040",
-    "author": [
-      {
-        "literal": "Dayu Xia"
-      },
-      {
-        "literal": "Yue Shi"
-      },
-      {
-        "literal": "Yao Mu"
-      },
-      {
-        "literal": "Huiting Ji"
-      },
-      {
-        "literal": "Chaofan Ma"
-      },
-      {
-        "literal": "Yingjie Zhou"
-      },
-      {
-        "literal": "Jiezhang Cao"
-      },
-      {
-        "literal": "Hua Chen"
-      },
-      {
-        "literal": "Yang Liu"
-      },
-      {
-        "literal": "Guangtao Zhai"
-      }
-    ],
-    "citation-key": "arxiv_2606_13040",
-    "custom": {
-      "arxiv_snapshot": {
-        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-        "abstract_sha256": "12ce2e0eecd81a51fc3597504316cbd146fd18c1bf695b3e01179c616f5ebe6e",
-        "submitted_at": "2026-06-11T08:20:42Z",
-        "updated_at": "2026-10-15T11:47:23Z",
-        "version": 4,
-        "versioned_url": "https://arxiv.org/abs/2606.13040v4"
-      },
-      "canonical_source_url": "https://arxiv.org/abs/2606.13040",
-      "catalog_id": "arxiv:2606.13040",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
-      "first_published_at": "2026-06-11",
-      "identifiers": {
-        "arxiv": "2606.13040"
-      },
-      "record_updated_at": "2026-10-15"
-    },
-    "genre": "preprint",
-    "id": "arxiv:2606.13040",
-    "issued": {
-      "date-parts": [
-        [
-          2026,
-          6,
-          11
-        ]
-      ]
-    },
-    "note": "First published: 2026-06-11; Recorded arXiv version: v4; Recorded version updated: 2026-10-15T11:47:23Z.",
-    "title": "Robo2Process: Benchmarking and Learning Process-Aware Understanding in Vision-Language Robotic Manipulation",
-    "type": "article",
-    "version": "4"
   },
   {
     "URL": "https://arxiv.org/abs/2606.13239v2",
@@ -141870,8 +141178,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.14106",
       "catalog_id": "arxiv:2606.14106",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-12",
       "identifiers": {
         "arxiv": "2606.14106"
@@ -142853,8 +142161,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.17321",
       "catalog_id": "arxiv:2606.17321",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-15",
       "identifiers": {
         "arxiv": "2606.17321"
@@ -144439,8 +143747,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.21654",
       "catalog_id": "arxiv:2606.21654",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-19",
       "identifiers": {
         "arxiv": "2606.21654"
@@ -144960,8 +144268,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.24515",
       "catalog_id": "arxiv:2606.24515",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-23",
       "identifiers": {
         "arxiv": "2606.24515"
@@ -145070,8 +144378,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.24551",
       "catalog_id": "arxiv:2606.24551",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-22",
       "identifiers": {
         "arxiv": "2606.24551"
@@ -146158,8 +145466,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2606.29705",
       "catalog_id": "arxiv:2606.29705",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-06-29",
       "identifiers": {
         "arxiv": "2606.29705"
@@ -148280,76 +147588,6 @@
     "version": "1"
   },
   {
-    "URL": "https://arxiv.org/abs/2607.07403v1",
-    "archive": "arXiv",
-    "archive_location": "2607.07403",
-    "author": [
-      {
-        "literal": "Kajetan Rachwał"
-      },
-      {
-        "literal": "Maciej Majek"
-      },
-      {
-        "literal": "Bartłomiej Boczek"
-      },
-      {
-        "literal": "Jakub Matejczyk"
-      },
-      {
-        "literal": "Dominik Matejkowski"
-      },
-      {
-        "literal": "Adam Dąbrowski"
-      },
-      {
-        "literal": "Tim Seyde"
-      },
-      {
-        "literal": "Alexander Amini"
-      },
-      {
-        "literal": "Maria Ganzha"
-      }
-    ],
-    "citation-key": "arxiv_2607_07403",
-    "custom": {
-      "arxiv_snapshot": {
-        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-        "abstract_sha256": "f6f9e15200bec625e6af76f86c77752f085b7ca4e02edc48ade5bc0b665974df",
-        "submitted_at": "2026-07-08T13:37:31Z",
-        "updated_at": "2026-07-08T13:37:31Z",
-        "version": 1,
-        "versioned_url": "https://arxiv.org/abs/2607.07403v1"
-      },
-      "canonical_source_url": "https://arxiv.org/abs/2607.07403",
-      "catalog_id": "arxiv:2607.07403",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
-      "first_published_at": "2026-07-08",
-      "identifiers": {
-        "arxiv": "2607.07403"
-      },
-      "record_updated_at": "2026-07-08"
-    },
-    "genre": "preprint",
-    "id": "arxiv:2607.07403",
-    "issued": {
-      "date-parts": [
-        [
-          2026,
-          7,
-          8
-        ]
-      ]
-    },
-    "note": "First published: 2026-07-08; Recorded arXiv version: v1; Recorded version updated: 2026-07-08T13:37:31Z.",
-    "title": "Multi-Agent Robotic Control with Onboard Vision-Language Models",
-    "type": "article",
-    "version": "1"
-  },
-  {
     "URL": "https://arxiv.org/abs/2607.07744v1",
     "archive": "arXiv",
     "archive_location": "2607.07744",
@@ -149828,8 +149066,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2607.14443",
       "catalog_id": "arxiv:2607.14443",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-07-16",
       "identifiers": {
         "arxiv": "2607.14443"
@@ -151864,64 +151102,6 @@
     "version": "2"
   },
   {
-    "URL": "https://arxiv.org/abs/2607.27881v1",
-    "archive": "arXiv",
-    "archive_location": "2607.27881",
-    "author": [
-      {
-        "literal": "Sihyung Yoon"
-      },
-      {
-        "literal": "Minjong Yoo"
-      },
-      {
-        "literal": "Sanghyun Ahn"
-      },
-      {
-        "literal": "Seojeong Choi"
-      },
-      {
-        "literal": "Honguk Woo"
-      }
-    ],
-    "citation-key": "arxiv_2607_27881",
-    "custom": {
-      "arxiv_snapshot": {
-        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-        "abstract_sha256": "29e1abc687da44f2da2ed049ee49e826b40bdaccb0f5353b34a495ed5bc50bfc",
-        "submitted_at": "2026-07-30T08:55:45Z",
-        "updated_at": "2026-07-30T08:55:45Z",
-        "version": 1,
-        "versioned_url": "https://arxiv.org/abs/2607.27881v1"
-      },
-      "canonical_source_url": "https://arxiv.org/abs/2607.27881",
-      "catalog_id": "arxiv:2607.27881",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
-      "first_published_at": "2026-07-30",
-      "identifiers": {
-        "arxiv": "2607.27881"
-      },
-      "record_updated_at": "2026-07-30"
-    },
-    "genre": "preprint",
-    "id": "arxiv:2607.27881",
-    "issued": {
-      "date-parts": [
-        [
-          2026,
-          7,
-          30
-        ]
-      ]
-    },
-    "note": "First published: 2026-07-30; Recorded arXiv version: v1; Recorded version updated: 2026-07-30T08:55:45Z.",
-    "title": "RoboBRIDGE: A Modular Framework for Bridging Policies to Robust Real-World Robotic Agents",
-    "type": "article",
-    "version": "1"
-  },
-  {
     "URL": "https://arxiv.org/abs/2607.28074v1",
     "archive": "arXiv",
     "archive_location": "2607.28074",
@@ -153225,8 +152405,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.02352",
       "catalog_id": "arxiv:2608.02352",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-08-03",
       "identifiers": {
         "arxiv": "2608.02352"
@@ -153520,8 +152700,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.03327",
       "catalog_id": "arxiv:2608.03327",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-08-04",
       "identifiers": {
         "arxiv": "2608.03327"
@@ -153959,8 +153139,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.04755",
       "catalog_id": "arxiv:2608.04755",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-08-05",
       "identifiers": {
         "arxiv": "2608.04755"
@@ -154133,8 +153313,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.05587",
       "catalog_id": "arxiv:2608.05587",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-08-06",
       "identifiers": {
         "arxiv": "2608.05587"
@@ -154249,8 +153429,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.05891",
       "catalog_id": "arxiv:2608.05891",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-08-06",
       "identifiers": {
         "arxiv": "2608.05891"
@@ -154307,8 +153487,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.06065",
       "catalog_id": "arxiv:2608.06065",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-08-06",
       "identifiers": {
         "arxiv": "2608.06065"
@@ -154874,8 +154054,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.09654",
       "catalog_id": "arxiv:2608.09654",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-08-10",
       "identifiers": {
         "arxiv": "2608.09654"
@@ -155508,8 +154688,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.12429",
       "catalog_id": "arxiv:2608.12429",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-08-12",
       "identifiers": {
         "arxiv": "2608.12429"
@@ -156469,8 +155649,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2608.18307",
       "catalog_id": "arxiv:2608.18307",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-08-18",
       "identifiers": {
         "arxiv": "2608.18307"
@@ -157125,85 +156305,6 @@
     "version": "1"
   },
   {
-    "URL": "https://arxiv.org/abs/2608.22301v1",
-    "archive": "arXiv",
-    "archive_location": "2608.22301",
-    "author": [
-      {
-        "literal": "Xunzhe Zhou"
-      },
-      {
-        "literal": "Yiyang Cai"
-      },
-      {
-        "literal": "Fengyi Wang"
-      },
-      {
-        "literal": "Ran Ju"
-      },
-      {
-        "literal": "Hanxiang Ren"
-      },
-      {
-        "literal": "Ruizhe Liu"
-      },
-      {
-        "literal": "Yu Zhang"
-      },
-      {
-        "literal": "Qian Luo"
-      },
-      {
-        "literal": "Feng Chen"
-      },
-      {
-        "literal": "Pei Zhou"
-      },
-      {
-        "literal": "Yi Ma"
-      },
-      {
-        "literal": "Yanchao Yang"
-      }
-    ],
-    "citation-key": "arxiv_2608_22301",
-    "custom": {
-      "arxiv_snapshot": {
-        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-        "abstract_sha256": "56a1a508c3df679b2cbd8512a791218d576cf0768abf0d26613e37cf75c788a7",
-        "submitted_at": "2026-08-23T08:51:01Z",
-        "updated_at": "2026-08-23T08:51:01Z",
-        "version": 1,
-        "versioned_url": "https://arxiv.org/abs/2608.22301v1"
-      },
-      "canonical_source_url": "https://arxiv.org/abs/2608.22301",
-      "catalog_id": "arxiv:2608.22301",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
-      "first_published_at": "2026-08-23",
-      "identifiers": {
-        "arxiv": "2608.22301"
-      },
-      "record_updated_at": "2026-08-23"
-    },
-    "genre": "preprint",
-    "id": "arxiv:2608.22301",
-    "issued": {
-      "date-parts": [
-        [
-          2026,
-          8,
-          23
-        ]
-      ]
-    },
-    "note": "First published: 2026-08-23; Recorded arXiv version: v1; Recorded version updated: 2026-08-23T08:51:01Z.",
-    "title": "The Imitator Game: Benchmarking Robot Imitative Ability Beyond Action Prediction",
-    "type": "article",
-    "version": "1"
-  },
-  {
     "URL": "https://arxiv.org/abs/2608.22510v1",
     "archive": "arXiv",
     "archive_location": "2608.22510",
@@ -157537,61 +156638,6 @@
     "title": "MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks",
     "type": "article",
     "version": "2"
-  },
-  {
-    "URL": "https://arxiv.org/abs/2608.23320v1",
-    "archive": "arXiv",
-    "archive_location": "2608.23320",
-    "author": [
-      {
-        "literal": "Nils Mandischer"
-      },
-      {
-        "literal": "Noah Böckmann"
-      },
-      {
-        "literal": "Ludwig Holl"
-      },
-      {
-        "literal": "Lars Mikelsons"
-      }
-    ],
-    "citation-key": "arxiv_2608_23320",
-    "custom": {
-      "arxiv_snapshot": {
-        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-        "abstract_sha256": "4524e279c7e99d86cfc331d0fb63efbb8cc516823dbe8cd426031ca6855a19b8",
-        "submitted_at": "2026-08-24T14:36:52Z",
-        "updated_at": "2026-08-24T14:36:52Z",
-        "version": 1,
-        "versioned_url": "https://arxiv.org/abs/2608.23320v1"
-      },
-      "canonical_source_url": "https://arxiv.org/abs/2608.23320",
-      "catalog_id": "arxiv:2608.23320",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
-      "first_published_at": "2026-08-24",
-      "identifiers": {
-        "arxiv": "2608.23320"
-      },
-      "record_updated_at": "2026-08-24"
-    },
-    "genre": "preprint",
-    "id": "arxiv:2608.23320",
-    "issued": {
-      "date-parts": [
-        [
-          2026,
-          8,
-          24
-        ]
-      ]
-    },
-    "note": "First published: 2026-08-24; Recorded arXiv version: v1; Recorded version updated: 2026-08-24T14:36:52Z.",
-    "title": "ROS2SmolVLA: Enabling Small Vision-Language-Action Models for Integration into Industrial-Grade Lightweight Robots",
-    "type": "article",
-    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2608.24015v1",
@@ -159491,8 +158537,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.02149",
       "catalog_id": "arxiv:2609.02149",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-02",
       "identifiers": {
         "arxiv": "2609.02149"
@@ -161698,8 +160744,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.06792",
       "catalog_id": "arxiv:2609.06792",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-06",
       "identifiers": {
         "arxiv": "2609.06792"
@@ -162182,8 +161228,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.09212",
       "catalog_id": "arxiv:2609.09212",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-06",
       "identifiers": {
         "arxiv": "2609.09212"
@@ -162911,8 +161957,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.13287",
       "catalog_id": "arxiv:2609.13287",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-09",
       "identifiers": {
         "arxiv": "2609.13287"
@@ -163012,8 +162058,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.13548",
       "catalog_id": "arxiv:2609.13548",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-11",
       "identifiers": {
         "arxiv": "2609.13548"
@@ -163365,8 +162411,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.15307",
       "catalog_id": "arxiv:2609.15307",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-14",
       "identifiers": {
         "arxiv": "2609.15307"
@@ -163484,8 +162530,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.15457",
       "catalog_id": "arxiv:2609.15457",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-14",
       "identifiers": {
         "arxiv": "2609.15457"
@@ -163655,8 +162701,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.16635",
       "catalog_id": "arxiv:2609.16635",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-15",
       "identifiers": {
         "arxiv": "2609.16635"
@@ -163871,8 +162917,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.17653",
       "catalog_id": "arxiv:2609.17653",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-15",
       "identifiers": {
         "arxiv": "2609.17653"
@@ -164048,8 +163094,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.18690",
       "catalog_id": "arxiv:2609.18690",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-16",
       "identifiers": {
         "arxiv": "2609.18690"
@@ -164450,8 +163496,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.22000",
       "catalog_id": "arxiv:2609.22000",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-18",
       "identifiers": {
         "arxiv": "2609.22000"
@@ -165181,8 +164227,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.27307",
       "catalog_id": "arxiv:2609.27307",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-23",
       "identifiers": {
         "arxiv": "2609.27307"
@@ -165355,8 +164401,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.27461",
       "catalog_id": "arxiv:2609.27461",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-23",
       "identifiers": {
         "arxiv": "2609.27461"
@@ -165610,97 +164656,6 @@
     },
     "note": "First published: 2026-09-24; Recorded arXiv version: v1; Recorded version updated: 2026-09-24T14:38:08Z.",
     "title": "Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents",
-    "type": "article",
-    "version": "1"
-  },
-  {
-    "URL": "https://arxiv.org/abs/2609.29964v1",
-    "archive": "arXiv",
-    "archive_location": "2609.29964",
-    "author": [
-      {
-        "literal": "Yehang Zhang"
-      },
-      {
-        "literal": "Haojian Huang"
-      },
-      {
-        "literal": "Yifan Chang"
-      },
-      {
-        "literal": "Jianchong Su"
-      },
-      {
-        "literal": "Bohan Zhou"
-      },
-      {
-        "literal": "Yingjie Xu"
-      },
-      {
-        "literal": "Wosong Chen"
-      },
-      {
-        "literal": "Tianhao Zhou"
-      },
-      {
-        "literal": "Chenxu Wang"
-      },
-      {
-        "literal": "Tianyi Zhang"
-      },
-      {
-        "literal": "Yangkai Wei"
-      },
-      {
-        "literal": "Wenqian Li"
-      },
-      {
-        "literal": "Shiyuan Deng"
-      },
-      {
-        "literal": "Yinchuan Li"
-      },
-      {
-        "literal": "Ying-Cong Chen"
-      },
-      {
-        "literal": "Zexi Li"
-      }
-    ],
-    "citation-key": "arxiv_2609_29964",
-    "custom": {
-      "arxiv_snapshot": {
-        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-        "abstract_sha256": "bf2e9c199812a41cea58e01d3cfd4d16da17ba99d92fcb2a9d9230b81d4556af",
-        "submitted_at": "2026-09-24T15:19:39Z",
-        "updated_at": "2026-09-24T15:19:39Z",
-        "version": 1,
-        "versioned_url": "https://arxiv.org/abs/2609.29964v1"
-      },
-      "canonical_source_url": "https://arxiv.org/abs/2609.29964",
-      "catalog_id": "arxiv:2609.29964",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
-      "first_published_at": "2026-09-24",
-      "identifiers": {
-        "arxiv": "2609.29964"
-      },
-      "record_updated_at": "2026-09-24"
-    },
-    "genre": "preprint",
-    "id": "arxiv:2609.29964",
-    "issued": {
-      "date-parts": [
-        [
-          2026,
-          9,
-          24
-        ]
-      ]
-    },
-    "note": "First published: 2026-09-24; Recorded arXiv version: v1; Recorded version updated: 2026-09-24T15:19:39Z.",
-    "title": "World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal",
     "type": "article",
     "version": "1"
   },
@@ -167428,52 +166383,6 @@
     "version": "1"
   },
   {
-    "URL": "https://arxiv.org/abs/2609.35581v1",
-    "archive": "arXiv",
-    "archive_location": "2609.35581",
-    "author": [
-      {
-        "literal": "Pranav Gupta"
-      }
-    ],
-    "citation-key": "arxiv_2609_35581",
-    "custom": {
-      "arxiv_snapshot": {
-        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-        "abstract_sha256": "3d9ef276a7697231e1d3f3d9413e64b9fff2ba3ca7698cae8d5bebae71e70864",
-        "submitted_at": "2026-09-28T16:36:12Z",
-        "updated_at": "2026-09-28T16:36:12Z",
-        "version": 1,
-        "versioned_url": "https://arxiv.org/abs/2609.35581v1"
-      },
-      "canonical_source_url": "https://arxiv.org/abs/2609.35581",
-      "catalog_id": "arxiv:2609.35581",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
-      "first_published_at": "2026-09-28",
-      "identifiers": {
-        "arxiv": "2609.35581"
-      },
-      "record_updated_at": "2026-09-28"
-    },
-    "genre": "preprint",
-    "id": "arxiv:2609.35581",
-    "issued": {
-      "date-parts": [
-        [
-          2026,
-          9,
-          28
-        ]
-      ]
-    },
-    "note": "First published: 2026-09-28; Recorded arXiv version: v1; Recorded version updated: 2026-09-28T16:36:12Z.",
-    "title": "QC-Stark: A Multi-Task Benchmark Revealing Capability Dissociations in LLMs Evaluated on Quantum Computing Tasks",
-    "type": "article",
-    "version": "1"
-  },
-  {
     "URL": "https://arxiv.org/abs/2609.35671v2",
     "archive": "arXiv",
     "archive_location": "2609.35671",
@@ -167635,8 +166544,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.35814",
       "catalog_id": "arxiv:2609.35814",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-20",
       "identifiers": {
         "arxiv": "2609.35814"
@@ -170032,94 +168941,6 @@
     "title": "Not All Experience Belongs in the Weights: Component Routing for Self-Improving GUI Agents",
     "type": "article",
     "version": "1"
-  },
-  {
-    "URL": "https://arxiv.org/abs/2610.01939v2",
-    "archive": "arXiv",
-    "archive_location": "2610.01939",
-    "author": [
-      {
-        "literal": "Ruiyang Si"
-      },
-      {
-        "literal": "Jianxin Bi"
-      },
-      {
-        "literal": "Shunyu Yang"
-      },
-      {
-        "literal": "Rui Ni"
-      },
-      {
-        "literal": "Wenbo Huang"
-      },
-      {
-        "literal": "Qiang Wang"
-      },
-      {
-        "literal": "Shulong Jiang"
-      },
-      {
-        "literal": "Yintianrun Zhang"
-      },
-      {
-        "literal": "Feixiang Ruan"
-      },
-      {
-        "literal": "Kewei Zhang"
-      },
-      {
-        "literal": "Duomin Wang"
-      },
-      {
-        "literal": "Xiuyu Li"
-      },
-      {
-        "literal": "Haiwen Feng"
-      },
-      {
-        "literal": "Zhen Dong"
-      },
-      {
-        "literal": "Daquan Zhou"
-      }
-    ],
-    "citation-key": "arxiv_2610_01939",
-    "custom": {
-      "arxiv_snapshot": {
-        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-        "abstract_sha256": "4ee9aec04e3dce1c2a0be2f1818987e087230d0a25e79c47fda6fbd4286a5410",
-        "submitted_at": "2026-10-01T16:07:49Z",
-        "updated_at": "2026-10-13T17:21:36Z",
-        "version": 2,
-        "versioned_url": "https://arxiv.org/abs/2610.01939v2"
-      },
-      "canonical_source_url": "https://arxiv.org/abs/2610.01939",
-      "catalog_id": "arxiv:2610.01939",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
-      "first_published_at": "2026-10-01",
-      "identifiers": {
-        "arxiv": "2610.01939"
-      },
-      "record_updated_at": "2026-10-13"
-    },
-    "genre": "preprint",
-    "id": "arxiv:2610.01939",
-    "issued": {
-      "date-parts": [
-        [
-          2026,
-          10,
-          1
-        ]
-      ]
-    },
-    "note": "First published: 2026-10-01; Recorded arXiv version: v2; Recorded version updated: 2026-10-13T17:21:36Z.",
-    "title": "Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens",
-    "type": "article",
-    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2610.02320v1",

@@ -44,6 +44,14 @@ Full source records: https://awesomecua.github.io/downloads/topics/grounding/rec
   Moves controlled target icons across high-resolution interfaces to diagnose spatial blind zones in grounding models and study targeted augmentation.
 - [CaptchaArena: A Large-Scale, Fine-Grained Dataset for Training Computer-Use Agents on Interactive CAPTCHAs](https://awesomecua.github.io/resources/arxiv-2609-31957/) — 2026-09-25
   Introduces CaptchaArena, a dataset of execution-verified interactive CAPTCHA solutions with screenshot–action trajectories, reasoning annotations, and pixel masks for irregular targets. The work trains a single policy across CAPTCHA types using supervised learning followed by verifier-reward reinforcement learning.
+- [RankGround: Efficient High-Resolution GUI Grounding via Lightweight Reranker-Guided Crop Selection](https://awesomecua.github.io/resources/arxiv-2609-18690/) — 2026-09-16
+  RankGround trains a lightweight reranker to select a promising screenshot crop before one VLM localization call. Ranking supervision uses containment and boundary-aware augmentation, with pointwise and listwise training stages.
+- [EchoPath: Execution-Level Replayable Memory for GUI Agents](https://awesomecua.github.io/resources/arxiv-2609-16635/) — 2026-09-15
+  EchoPath turns validated GUI trajectories into parameterized replay procedures with explicit runtime preconditions. Image-based target matching adjusts stored coordinates, while ambiguous steps fall back to bounded repair or fresh planning.
+- [Learning from Reliable Negatives: Confidence-Anchored Test-Time Adaptation for GUI Grounding](https://awesomecua.github.io/resources/arxiv-2609-15307/) — 2026-09-14
+  Confidence-Anchored Learning uses coordinate-token confidence to filter pseudo-supervision for GUI grounding. Its negative-only variant performs label-free test-time updates to reduce reliance on potentially incorrect positive examples.
+- [LLaDA-UI: Bringing Block-wise Diffusion to Vision-Language GUI Agents](https://awesomecua.github.io/resources/arxiv-2609-13287/) — 2026-09-09
+  LLaDA-UI adapts block-wise diffusion generation to a vision-language GUI agent through multimodal pretraining and GUI supervised fine-tuning. It evaluates grounding and navigation across multiple platform settings.
 - [Are We There Yet? Assessing Computer-Use Agents for Blind Users' Accessible Interaction with Desktop Applications](https://awesomecua.github.io/resources/arxiv-2609-00524/) — 2026-09-01
   A diary study deploys the screen-reader-accessible OLLA computer-use prototype with blind users across desktop applications. Recorded commands and interaction traces support model comparisons and analysis of grounding, planning, constraint tracking and termination failures.
 - [Iron: Intent-Aligned and Retrospective Dual Learning Framework for Enhancing Generalist Virtual Agents](https://awesomecua.github.io/resources/arxiv-2608-27866/) — 2026-08-28
@@ -52,10 +60,30 @@ Full source records: https://awesomecua.github.io/downloads/topics/grounding/rec
   Introduces GUI-Primitives, a paired-instruction benchmark that changes a spatial relation while holding the screenshot and anchor fixed. Its diagnostics separate failure to localize either candidate from failure to choose the candidate satisfying the relation.
 - [Lexical Coupling in GUI Element Grounding: Sentence Embeddings Track Labels across Mobile and Web](https://awesomecua.github.io/resources/arxiv-2608-21794/) — 2026-08-22
   Studies whether text-embedding GUI grounding scores reflect semantic matching or recovery of visible labels. Same-screen ranking comparisons with lexical baselines expose differences between deployable fusion, oracle selection, and performance on label-poor targets.
+- [Hallucination-Free GUI Grounding via Regression-Free Layout-Aware Matching](https://awesomecua.github.io/resources/arxiv-2608-09654/) — 2026-08-10
+  This framework separates frozen-model instruction expansion from a trained layout-aware matcher that localizes GUI elements without coordinate regression. Binary text/icon supervision supports the matcher, with evaluations on GUI grounding and Mind2Web element-selection tasks.
+- [Tactile: Giving Computer-Using Agents Hands and Feet](https://awesomecua.github.io/resources/arxiv-2607-14443/) — 2026-07-16
+  Tactile turns accessibility, OCR and visual evidence into explicit desktop targets with executable actions and verification cues. Its execution loop chooses semantic actions or coordinate fallbacks while retaining provenance for replay and diagnosis.
 - [DigitalCoach: Communication and Grounding Gaps in Human and Agentic Computer Use Coaching](https://awesomecua.github.io/resources/arxiv-2606-31980/) — 2026-06-30
   DigitalCoach records expert–novice software coaching conversations aligned with screen and input events. Automated and interactive evaluations examine how model coaches differ from humans in explanation, error diagnosis and visual grounding when helping a learner operate software.
+- [GUICrafter: Weakly-Supervised GUI Agent Leveraging Massive Unannotated Screenshots](https://awesomecua.github.io/resources/arxiv-2606-29705/) — 2026-06-29
+  GUICrafter first learns grounding from large collections of unannotated screenshots and webpages, then uses a smaller high-quality dataset for reinforcement-learning calibration. The curriculum targets reduced dependence on manually annotated GUI training data.
+- [Naive Visual Memory is Not Enough: A Failure-Mode Study of GUI Agents](https://awesomecua.github.io/resources/arxiv-2606-14106/) — 2026-06-12
+  This study finds that full-image visual memory can reduce some state errors while worsening action-level failures. Its AGMem alternative stores local crops associated with successful actions or recovery and evaluates their use in desktop GUI tasks.
+- [A History-Aware Visually Grounded Critic for Computer Use Agents](https://awesomecua.github.io/resources/arxiv-2606-11078/) — 2026-06-09
+  HiViG combines a compact history of completed actions with a visually grounded critic that checks proposed coordinates before execution. Its evaluations separate history-related planning failures from errors caused by targeting the wrong screen element.
+- [RunAgent SuperBrowser: A Theory of Autonomous Web Navigation Grounded in Human Browsing Behaviour](https://awesomecua.github.io/resources/arxiv-2606-09399/) — 2026-06-08
+  SUPERBROWSER combines screenshot-based target proposals with separate orchestration, planning and action roles. A bounded ledger and context-eviction process retain recent actions, task facts and checkpoints during browser execution.
+- [DragOn: A Benchmark and Dataset for Drag-Based GUI Interactions](https://awesomecua.github.io/resources/arxiv-2606-06322/) — 2026-06-04
+  DragOn supplies drag-grounding training data and a held-out benchmark for highlighting text, selecting cells, resizing elements and moving sliders. It evaluates existing vision-language models and a model fine-tuned on the drag tasks.
 - [MUIAnno: An Expert-Annotated Dataset and Evaluation Benchmark for Mobile UI Understanding](https://awesomecua.github.io/resources/arxiv-2605-17656/) — 2026-05-17
   MUIAnno provides expert labels for elements in manually explored mobile-app screens, with a web annotation tool that emits structured JSON. It also supplies UI-element detection baselines for the dataset.
+- [SE-GA: Memory-Augmented Self-Evolution for GUI Agents](https://awesomecua.github.io/resources/arxiv-2605-16883/) — 2026-05-16
+  SE-GA retrieves hierarchical memories during inference and uses the collected experience in a separate policy-improvement pipeline. Its evaluation includes offline grounding/action tasks and online Android interaction, which measure different capabilities.
+- [DRS-GUI: Dynamic Region Search for Training-Free GUI Grounding](https://awesomecua.github.io/resources/arxiv-2605-15542/) — 2026-05-15
+  DRS-GUI searches screenshot regions through focus, shift and scatter operations selected by a tree-search planner. A region-quality reward guides this training-free perceptual search before final GUI grounding.
+- [What Happens Before Decoding? Prefill Determines GUI Grounding in VLMs](https://awesomecua.github.io/resources/arxiv-2605-12549/) — 2026-05-10
+  Re-Prefill adds an attention-guided second prefill pass that revisits candidate screen regions before coordinate generation. The study evaluates this training-free intervention across GUI-grounding models and benchmarks.
 - [AutoFocus: Uncertainty-Aware Active Visual Search for GUI Grounding](https://awesomecua.github.io/resources/arxiv-2605-02630/) — 2026-05-04
   Presents AutoFocus, a training-free grounding method that turns sampled coordinates and token uncertainty into spatial region proposals. Shape-aware crops and visual comparison select a target while retaining surrounding interface context.
 - [GoClick: Lightweight Element Grounding Model for Autonomous GUI Interaction](https://awesomecua.github.io/resources/arxiv-2604-23941/) — 2026-04-27
@@ -70,6 +98,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/grounding/rec
   Introduces UI-Zoomer, a training-free grounding method that uses candidate agreement and token confidence to decide when to crop and retry. Prediction variance determines a separate crop radius for each uncertain interface target.
 - [PrecisionCUA: Iterative Visual Refinement for Pixel-Precise Cursor Grounding in Code Editors](https://awesomecua.github.io/resources/arxiv-2604-13019/) — 2026-04-14
   Studies iterative cursor grounding in dense code-editor interfaces, using visual feedback from earlier attempts to correct displacement. PrecisionCUA evaluates this closed-loop process across multiple model families on coding-interface tasks.
+- [Are GUI Agents Focused Enough? Automated Distraction via Semantic-level UI Element Injection](https://awesomecua.github.io/resources/arxiv-2604-07831/) — 2026-04-09
+  This study tests black-box GUI-grounding failures caused by strategically added, innocuous-looking UI elements. Its iterative overlay search is compared with random injection and repeated independent grounding trials to distinguish persistent misdirection from incidental clutter.
 - [What's Missing in Screen-to-Action? Towards a UI-in-the-Loop Paradigm for Multimodal GUI Reasoning](https://awesomecua.github.io/resources/arxiv-2604-06995/) — 2026-04-08
   Introduces UILoop, which inserts explicit UI-element localization, function and usage reasoning between screen observation and action. UI Comprehension-Bench evaluates these element-level capabilities with three metrics.
 - [MolmoPoint: Better Pointing for VLMs with Grounding Tokens](https://awesomecua.github.io/resources/arxiv-2603-28069/) — 2026-03-30
@@ -86,6 +116,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/grounding/rec
   Formalizes a visual confused-deputy failure in which a computer agent acts on a misperceived UI object. A separate guardrail checks both the visual target and the agent's action reasoning against deployment-specific knowledge before permitting execution.
 - [Zoom to Essence: Trainless GUI Grounding by Inferring upon Interface Elements](https://awesomecua.github.io/resources/arxiv-2603-14448/) — 2026-03-15
   Presents ZoomUI, a training-free grounding method that expresses instructions as visual element descriptions and uses model attention to zoom progressively into relevant interface regions. Evaluation examines instruction-to-element localization on GUI benchmarks.
+- [Adaptive Vision-Language Model Routing for Computer Use Agents](https://awesomecua.github.io/resources/arxiv-2603-12823/) — 2026-03-13
+  Adaptive VLM Routing estimates GUI-action difficulty and small-model confidence to select a model under a predicted reliability threshold. Grounding and agent-routing benchmarks assess the cost–accuracy trade-off, with prior interaction context used for warm agents.
 - [WebChain: A Large-Scale Human-Annotated Dataset of Real-World Web Interaction Traces](https://awesomecua.github.io/resources/arxiv-2603-05295/) — 2026-03-05
   WebChain aligns human web-interaction trajectories with visual, structural and action data for agent training. It also introduces WebChainBench and a mid-training approach that separates spatial grounding from planning.
 - [Avenir-UX: Automated UX Evaluation via Simulated Human Web Interaction with GUI Grounding](https://awesomecua.github.io/resources/arxiv-2604-09581/) — 2026-02-25
@@ -126,6 +158,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/grounding/rec
   FocusUI selects instruction-relevant screenshot patches while preserving their positional structure for GUI grounding. Its PosPad scheme replaces runs of dropped tokens with positional markers and is evaluated under reduced token budgets.
 - [ShowUI-$π$: Flow-based Generative Models as GUI Dexterous Hands](https://awesomecua.github.io/resources/arxiv-2512-24965/) — 2025-12-31
   Models discrete clicks and continuous drags with flow-based action generation, and introduces drag trajectories and the ScreenDrag benchmark.
+- [iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception](https://awesomecua.github.io/resources/arxiv-2512-22009/) — 2025-12-26
+  Introduces iSHIFT, which combines latent reasoning with perception-control tokens to adapt GUI inference. The agent switches between detailed regional grounding and faster use of global visual cues.
 - [DAVE: A VLM Vision Encoder for Document Understanding and Web Agents](https://awesomecua.github.io/resources/arxiv-2512-17221/) — 2025-12-19
   DAVE trains a vision encoder for document images and web agents using self-supervised pretraining followed by supervised parsing and localization. It combines decoder-specific encoder merging with feature fusion and evaluates web localization and agent benchmarks alongside document tasks.
 - [VenusBench-GD: A Comprehensive Multi-Platform GUI Benchmark for Diverse Grounding Tasks](https://awesomecua.github.io/resources/arxiv-2512-16501/) — 2025-12-18
@@ -138,12 +172,22 @@ Full source records: https://awesomecua.github.io/downloads/topics/grounding/rec
   Chain-of-Ground uses iterative visual reasoning and reference feedback to refine GUI localization without additional training. It evaluates on ScreenSpot-Pro and introduces TPanel-UI to probe grounding on industrial control panels with visual distortions.
 - [DrawingBench: Evaluating Spatial Reasoning and UI Interaction Capabilities of Large Language Models through Mouse-Based Drawing Tasks](https://awesomecua.github.io/resources/arxiv-2512-01174/) — 2025-12-01
   DrawingBench evaluates sequences of low-level mouse-based GUI actions through 250 drawing prompts and rule-based criteria. Action inspection and multi-turn external feedback support analysis of spatial reasoning, tool-state management, and refinement.
+- [AFRAgent : An Adaptive Feature Renormalization Based High Resolution Aware GUI agent](https://awesomecua.github.io/resources/arxiv-2512-00846/) — 2025-11-30
+  Introduces AFRAgent, which uses adaptive feature renormalization to combine low-resolution visual embeddings with high-resolution details. The architecture is evaluated for smartphone GUI automation on Meta-GUI and AITW.
+- [Prune4Web: DOM Tree Pruning Programming for Web Agent](https://awesomecua.github.io/resources/arxiv-2511-21398/) — 2025-11-26
+  Introduces Prune4Web, where generated scoring programs filter DOM elements according to decomposed subtasks before grounding. An annotation pipeline and two-turn training procedure coordinate the planner, programmatic filter and grounder.
+- [MEGA-GUI: Multi-stage Enhanced Grounding Agents for GUI Elements](https://awesomecua.github.io/resources/arxiv-2511-13087/) — 2025-11-17
+  Introduces MEGA-GUI, which separates coarse region selection from fine-grained interface-element grounding. Bidirectional zooming and context-aware instruction rewriting coordinate specialized vision-language agents across visual scales.
 - [Co-EPG: A Framework for Co-Evolution of Planning and Grounding in Autonomous GUI Agents](https://awesomecua.github.io/resources/arxiv-2511-10705/) — 2025-11-13
   Co-EPG alternates reinforcement learning for a planner with updates to a grounding model using generated training examples. The evolving grounder provides feedback to the planner, and evaluation uses Multimodal Mind2Web and AndroidControl.
 - [Grounding Computer Use Agents on Human Demonstrations](https://awesomecua.github.io/resources/arxiv-2511-07332/) — 2025-11-10
   GroundCUA turns expert desktop demonstrations into densely annotated screenshots and grounding instructions. The GroundNext model family uses this supervision and subsequent reinforcement learning, with both grounding benchmarks and an OSWorld agent configuration used for evaluation.
+- [AUTO-Explorer: Automated Data Collection for GUI Agent](https://awesomecua.github.io/resources/arxiv-2511-06417/) — 2025-11-09
+  Introduces Auto-Explorer, an automated GUI exploration method that records software states for training-data collection. UIXplore evaluates exploration coverage, and collected data is used to fine-tune and test GUI element grounding.
 - [GUI-360$^\circ$: A Comprehensive Dataset and Benchmark for Computer-Using Agents](https://awesomecua.github.io/resources/arxiv-2511-04307/) — 2025-11-06
   Collects Windows application trajectories with screenshots and action traces for grounding, screen parsing, and action prediction.
+- [GUI-AIMA: Aligning Intrinsic Multimodal Attention with a Context Anchor for GUI Grounding](https://awesomecua.github.io/resources/arxiv-2511-00810/) — 2025-11-02
+  Introduces GUI-AIMA, which supervises instruction-relevant attention over visual patches instead of directly training coordinate text generation. Patch-level grounding can be combined with an optional zoom stage and is evaluated across GUI localization benchmarks.
 - [Enhancing Trustworthy GUI Grounding via Self-Critiqued Reinforcement Learning](https://awesomecua.github.io/resources/arxiv-2510-27266/) — 2025-10-31
   HyperClick trains GUI grounders to produce a click and an accompanying confidence estimate using rewards for correctness and confidence alignment. Its evaluation examines localization, calibration, and abstention behavior.
 - [UI-Ins: Enhancing GUI Grounding with Multi-Perspective Instruction-as-Reasoning](https://awesomecua.github.io/resources/arxiv-2510-20286/) — 2025-10-23
@@ -316,6 +360,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/grounding/rec
   Adapts a compact Florence-2 model to map user instructions to screen coordinates using multitask training and augmented data.
 - [Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents](https://awesomecua.github.io/resources/arxiv-2410-05243/) — 2024-10-07
   Introduces UGround, a visual target-localization model trained with large-scale synthetic references to elements in GUI screenshots.
+- [The Impact of Element Ordering on LM Agent Performance](https://awesomecua.github.io/resources/arxiv-2409-12089/) — 2024-09-18
+  Studies how the ordering of UI elements in an agent observation affects web and desktop performance. A pixel-based element detector and dimensionality-reduction ordering are evaluated on OmniACT when document hierarchy is unavailable.
 - [From Grounding to Planning: Benchmarking Bottlenecks in Web Agents](https://awesomecua.github.io/resources/arxiv-2409-01927/) — 2024-09-03
   Separates web-agent planning and grounding evaluations on Mind2Web to analyze which components limit task performance.
 - [OmniParser for Pure Vision Based GUI Agent](https://awesomecua.github.io/resources/arxiv-2408-00203/) — 2024-08-01
@@ -338,6 +384,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/grounding/rec
   Separately evaluates web-page reading, understanding, and element grounding across tasks drawn from real websites.
 - [Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs](https://awesomecua.github.io/resources/arxiv-2404-05719/) — 2024-04-08
   Adapts multimodal modeling to mobile interfaces through detailed screen crops, region annotations, and UI reasoning tasks.
+- [ReALM: Reference Resolution As Language Modeling](https://awesomecua.github.io/resources/arxiv-2403-20329/) — 2024-03-29
+  Frames conversational and on-screen reference resolution as language modeling, allowing textual representations of screen entities to support user-reference interpretation. Evaluation separately examines on-screen references against an existing resolver and language-model baselines.
 - [AgentStudio: A Toolkit for Building General Virtual Agents](https://awesomecua.github.io/resources/arxiv-2403-17918/) — 2024-03-26
   AgentStudio combines an interactive GUI/API environment with tools for creating tasks, annotating interface elements, and labeling actions in videos. Its online suite and GroundUI, IDMBench, and CriticBench datasets examine interaction, grounding, learning from video, and success detection.
 - [OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web](https://awesomecua.github.io/resources/arxiv-2402-17553/) — 2024-02-27

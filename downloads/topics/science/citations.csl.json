@@ -483,6 +483,64 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2606.03203v1",
+    "archive": "arXiv",
+    "archive_location": "2606.03203",
+    "author": [
+      {
+        "literal": "Jia Yu"
+      },
+      {
+        "literal": "Zilong Wang"
+      },
+      {
+        "literal": "Xinyang Jiang"
+      },
+      {
+        "literal": "Dongsheng Li"
+      },
+      {
+        "literal": "Shuo Wang"
+      }
+    ],
+    "citation-key": "arxiv_2606_03203",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b23c12cafdd2d4a3ef63027c914ed3894c61c555edd89468c56ae40c3ec6cea9",
+        "submitted_at": "2026-06-02T06:02:35Z",
+        "updated_at": "2026-06-02T06:02:35Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.03203v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.03203",
+      "catalog_id": "arxiv:2606.03203",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-02",
+      "identifiers": {
+        "arxiv": "2606.03203"
+      },
+      "record_updated_at": "2026-06-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.03203",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-02; Recorded arXiv version: v1; Recorded version updated: 2026-06-02T06:02:35Z.",
+    "title": "MedCUA-Bench: A Screenshot-Only Benchmark for Clinical Computer-Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2606.13239v2",
     "archive": "arXiv",
     "archive_location": "2606.13239",

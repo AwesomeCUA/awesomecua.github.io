@@ -308,6 +308,85 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2609.02149v3",
+    "archive": "arXiv",
+    "archive_location": "2609.02149",
+    "author": [
+      {
+        "literal": "Yixiong Xiao"
+      },
+      {
+        "literal": "Lang An"
+      },
+      {
+        "literal": "Hucheng Yang"
+      },
+      {
+        "literal": "Pinxue Ma"
+      },
+      {
+        "literal": "Yongquan Chen"
+      },
+      {
+        "literal": "Jingjia Cao"
+      },
+      {
+        "literal": "Yusai Zhao"
+      },
+      {
+        "literal": "Ting Wang"
+      },
+      {
+        "literal": "Ting Liu"
+      },
+      {
+        "literal": "Siqi Bao"
+      },
+      {
+        "literal": "Jingbo Zhou"
+      },
+      {
+        "literal": "Hua Wu"
+      }
+    ],
+    "citation-key": "arxiv_2609_02149",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "52849171f507e126093411ba81dc580d460b84f831358b08bd57cb54ca41b665",
+        "submitted_at": "2026-09-02T06:03:18Z",
+        "updated_at": "2026-09-10T15:52:42Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2609.02149v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.02149",
+      "catalog_id": "arxiv:2609.02149",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-02",
+      "identifiers": {
+        "arxiv": "2609.02149"
+      },
+      "record_updated_at": "2026-09-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.02149",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-02; Recorded arXiv version: v3; Recorded version updated: 2026-09-10T15:52:42Z.",
+    "title": "OmegaUse-SOP: SOP Engineering for Professional Computer Use from Human Demonstrations",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.12984v1",
     "archive": "arXiv",
     "archive_location": "2610.12984",

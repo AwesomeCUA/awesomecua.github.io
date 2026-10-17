@@ -8,6 +8,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/recording/rec
 
 - [Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction](https://awesomecua.github.io/resources/arxiv-2610-12984/) — 2026-10-09
   Aligns human screen recordings, input events, and accessibility information to derive reusable workflow skills from desktop demonstrations.
+- [OmegaUse-SOP: SOP Engineering for Professional Computer Use from Human Demonstrations](https://awesomecua.github.io/resources/arxiv-2609-02149/) — 2026-09-02
+  OmegaUse-SOP converts expert GUI demonstrations into configurable procedures and refines them with domain rules and human input. It records, abstracts, grounds and verifies live execution, with a case study of photovoltaic simulation workflows in PVsyst 7.2.
 - [Syll: Open-Source Personal Automation with Cross-Surface Execution](https://awesomecua.github.io/resources/arxiv-2606-07594/) — 2026-05-28
   Syll combines tool calls, shell execution and visual GUI control in a personal-automation runtime. It turns user demonstrations into reusable skills and exposes execution logs, keyframes and approval checkpoints for inspection.
 - [ShowUI-Aloha: Human-Taught GUI Agent](https://awesomecua.github.io/resources/arxiv-2601-07181/) — 2026-01-12

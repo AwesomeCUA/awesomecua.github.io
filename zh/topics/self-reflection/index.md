@@ -6,8 +6,14 @@ Full source records: https://awesomecua.github.io/downloads/topics/self-reflecti
 
 ## 论文与综述
 
+- [Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents](https://awesomecua.github.io/resources/arxiv-2609-17653/) — 2026-09-15
+  EvoSkill-GUI revises reusable skill files from execution feedback through an executor–critic loop. It studies how training-free updates to localization, recovery and procedure information help subsequent mobile and desktop tasks.
+- [AnchorGUI: Asymmetric Memory for Dual-Scale Learning in GUI Navigation](https://awesomecua.github.io/resources/arxiv-2609-15457/) — 2026-09-14
+  AnchorGUI compares expected and observed UI transitions and selectively retains screenshots when they disagree. This asymmetric memory supports immediate correction and focuses cross-attempt experience distillation on likely failure steps.
 - [Reflection with Action-Induced Visual Differences for Desktop GUI Agents](https://awesomecua.github.io/resources/arxiv-2608-24015/) — 2026-08-25
   Introduces Evidence-First Reflection, which separates extraction of action-induced screen changes from judgment of whether an operation achieved its objective. It filters visual differences into relevant evidence before a desktop agent’s reflector decides how execution should continue.
+- [StepReflect: Structured UI Transition Reflection for Mobile GUI Agents](https://awesomecua.github.io/resources/arxiv-2608-05587/) — 2026-08-06
+  StepReflect predicts structured per-action reflections from transition specifications and paired visual evidence. The paper distinguishes offline transition-label accuracy from online task success when the reflection model is integrated into mobile agents.
 - [Falsifiable Commitment Planning for Self-Correcting Web Agents](https://awesomecua.github.io/resources/arxiv-2607-24167/) — 2026-07-27
   Introduces FCPAgent, which attaches confirming and falsifying evidence to each skill-grounded plan step. A plan–test–repair loop checks actions and observations, then localizes contradictions so execution, skills, or plans can be revised at the appropriate level.
 - [Measure Twice, Click Once: Co-evolving Proposer and Visual Critic via Reinforcement Learning for GUI Grounding](https://awesomecua.github.io/resources/arxiv-2604-21268/) — 2026-04-23
@@ -20,6 +26,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/self-reflecti
   OS-Symphony coordinates milestone-based reflection and memory with tools that build visually aligned tutorials through browser interaction. The framework evaluates trajectory correction and adaptation on online computer-use benchmarks including OSWorld.
 - [GUITester: Enabling GUI Agents for Exploratory Defect Discovery](https://awesomecua.github.io/resources/arxiv-2601-04500/) — 2026-01-08
   Introduces GUITestBench for interactive defect discovery and GUITester, which separates task navigation from anomaly verification. Testing-oriented plans and history-based reflection help distinguish software defects from agent execution mistakes.
+- [GAIR: GUI Automation via Information-Joint Reasoning and Group Reflection](https://awesomecua.github.io/resources/arxiv-2512-09396/) — 2025-12-10
+  Introduces GAIR, which combines information from specialized GUI models through a general-purpose coordinating model. When the available information is insufficient, group reflection sends targeted requests back to the specialists before selecting an operation.
 - ["Are We Done Yet?": A Vision-Based Judge for Autonomous Task Completion of Computer Use Agents](https://awesomecua.github.io/resources/arxiv-2511-20067/) — 2025-11-25
   This study tests vision-language models as task-completion judges using screenshots and instructions from 42 built-in macOS applications. It evaluates judgment accuracy on human-labeled tasks and separately studies how judge feedback affects agent task success.
 - [History-Aware Reasoning for GUI Agents](https://awesomecua.github.io/resources/arxiv-2511-09127/) — 2025-11-12
@@ -38,6 +46,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/self-reflecti
   MT-Mind2Web evaluates web navigation through sequences of conversational user instructions. Self-MAP combines memory-augmented planning with reflection to preserve context and dependencies across those interaction turns.
 - [A Zero-Shot Language Agent for Computer Control with Structured Reflection](https://awesomecua.github.io/resources/arxiv-2310-08740/) — 2023-10-12
   Studies a zero-shot computer-control agent that plans executable actions and organizes its own reflections after mistakes. MiniWoB++ experiments examine learning to complete tasks without supplied expert trajectories.
+- [AdaPlanner: Adaptive Planning from Feedback with Language Models](https://awesomecua.github.io/resources/arxiv-2305-16653/) — 2023-05-26
+  Introduces AdaPlanner, which revises code-structured plans in response to environmental feedback and reuses successful plans as exemplars. Experiments include MiniWoB++ web tasks alongside ALFWorld.
 - [Language Models can Solve Computer Tasks](https://awesomecua.github.io/resources/arxiv-2303-17491/) — 2023-03-30
   Introduces recursive criticism and improvement prompting for language-model agents performing computer tasks, evaluated on MiniWoB++ with a small number of demonstrations per task.
 

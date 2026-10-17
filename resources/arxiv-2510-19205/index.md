@@ -1,20 +1,20 @@
 # WebGraphEval: Multi-Turn Trajectory Evaluation for Web Agents using Graph Representation
 
-Bibliographic record for WebGraphEval: Multi-Turn Trajectory Evaluation for Web Agents using Graph Representation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Introduces WebGraphEval, which merges multiple agents' trajectories into a weighted graph of canonical actions. Structural analyses examine recurring behavior, inefficient paths and important decision points beyond a final success score.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2510-19205/
 - Original source: https://arxiv.org/abs/2510.19205
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, observability, interaction-history
 - Evidence checked: 2026-10-16T06:36:47Z
 - ID: arxiv:2510.19205
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation and scope were reviewed against the complete retained original arXiv abstract. Experimental findings and artifact availability have not been independently reproduced.
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2510-19205/record.json
 
@@ -45,4 +45,5 @@ Yaoyao Qian, Yuanli Wang, Jinda Zhang, Yun Zong, Meixu Chen, Hanhan Zhou, Jindan
 
 ## Primary evidence
 
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=500&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:47Z; SHA-256 ae98e77b8bb125e45277aacec768a047e7bb0e13f33ca9ff6ca7c19e29e56cca)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=500&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:47Z; SHA-256 ae98e77b8bb125e45277aacec768a047e7bb0e13f33ca9ff6ca7c19e29e56cca)

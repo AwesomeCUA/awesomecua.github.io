@@ -2,6 +2,51 @@
   "aliases": [],
   "authors": [],
   "details": {
+    "dataset_profile": {
+      "counts": [
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/mllmTeam/MobileViews/raw/c734715eb90a8f3ac0c80973f93ee63950e5a8c8/README.md",
+          "population": "publisher-reported MobileViews-600K first release",
+          "qualifier": "more-than",
+          "unit": "screenshot–view-hierarchy pairs",
+          "value": 600000
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/mllmTeam/MobileViews/raw/c734715eb90a8f3ac0c80973f93ee63950e5a8c8/README.md",
+          "population": "publisher-reported MobileViews-600K first release",
+          "qualifier": "more-than",
+          "unit": "Android apps",
+          "value": 20000
+        }
+      ],
+      "evidence_urls": [
+        "https://huggingface.co/datasets/mllmTeam/MobileViews/raw/c734715eb90a8f3ac0c80973f93ee63950e5a8c8/README.md",
+        "https://huggingface.co/api/datasets/mllmTeam/MobileViews"
+      ],
+      "formats": [
+        "JPEG",
+        "JSON",
+        "XML",
+        "Parquet",
+        "CSV",
+        "ZIP packages",
+        "HTML/JavaScript trace visualization"
+      ],
+      "modalities": [
+        "screenshots",
+        "view hierarchies",
+        "action traces",
+        "app metadata"
+      ],
+      "notes": "Counts describe the card’s first-release claim, not an independently counted archive inventory. The card distinguishes globally image-hash-deduplicated screenshot/VH pairs from the November 2024 complete-app traces; trace state counts must not be added as new unique screens. JPEG/JSON and Parquet are alternative representations. Listed filename ranges are examples, not a complete count proof. No train/validation/test split is documented. Hub revision c734715e is ungated; MIT is its data declaration, without resolving third-party app content rights.",
+      "splits": [],
+      "supervision": [
+        "paired screenshot/view-hierarchy structure",
+        "recorded app states, actions and transitions"
+      ]
+    },
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/mllmTeam/MobileViews/tree/main",
     "gated": false,
@@ -30,9 +75,20 @@
         "environments",
         "topics",
         "scope",
-        "relations"
+        "relations",
+        "details.dataset_profile"
       ],
       "url": "https://huggingface.co/api/datasets/mllmTeam/MobileViews"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:10:01Z",
+      "role": "primary",
+      "sha256": "94a4f04e180dbd597c271b0d7470c907e6526b95a6420f01b3183feb1ee24d6e",
+      "supports": [
+        "details.dataset_profile"
+      ],
+      "url": "https://huggingface.co/datasets/mllmTeam/MobileViews/raw/c734715eb90a8f3ac0c80973f93ee63950e5a8c8/README.md"
     },
     {
       "method": "huggingface_api",

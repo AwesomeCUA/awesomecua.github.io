@@ -2,6 +2,49 @@
   "aliases": [],
   "authors": [],
   "details": {
+    "benchmark_protocol": {
+      "actions": [
+        "PyAutoGUI desktop actions",
+        "code/tool commands and answer/stop actions according to configured agent mode"
+      ],
+      "counts": [
+        {
+          "basis": "computed",
+          "evidence_url": "https://api.github.com/repos/OS-Copilot/ScienceBoard/git/trees/main?recursive=1",
+          "population": "tasks/VM/**/*.json at tree 21b5eb0f; excludes tasks/Raw and tasks/Dual",
+          "qualifier": "exact",
+          "unit": "VM task definitions",
+          "value": 169
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/docs/verifier-audit.md",
+          "population": "VM suite: Celestia, ChimeraX, GrassGIS, KAlgebra, Lean, TeXstudio",
+          "qualifier": "exact",
+          "unit": "application families",
+          "value": 6
+        }
+      ],
+      "evaluation": "Application-specific verifiers inspect state, files, database values, equations, compilation or answer/stop conditions. The official audit records 242 verifier entries across its VM task suite. This profile covers the released VM task definitions; Docker smoke results and Raw/Dual alternatives are separate populations.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/README.md",
+        "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/docs/verifier-audit.md",
+        "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/docs/known-issues.md",
+        "https://api.github.com/repos/OS-Copilot/ScienceBoard/git/trees/main?recursive=1",
+        "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/sci/base/task.py"
+      ],
+      "focus": [
+        "scientific-software desktop workflows",
+        "GUI and code-assisted scientific tasks"
+      ],
+      "notes": "Manifest count 169 matches the official verifier audit. Other Raw/Dual definitions can represent alternative execution modes of the same problems and are not added. Official Docker migration documents a 20-task acceptance subset, not a full-suite performance result; legacy VMware remains. External service sign-in/rate limits, amd64 binaries and ChimeraX redistribution terms limit portability. Only code MIT is established; VM, scientific data and bundled apps need their own terms.",
+      "observations": [
+        "desktop screenshots",
+        "accessibility-tree observations",
+        "set-of-marks with accessibility tree"
+      ],
+      "setting": "interactive"
+    },
     "evaluation_type": null,
     "leaderboard_url": null,
     "metrics": [],
@@ -23,9 +66,50 @@
         "environments",
         "topics",
         "scope",
-        "relations"
+        "relations",
+        "details.benchmark_protocol"
       ],
       "url": "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:21:10Z",
+      "role": "primary",
+      "sha256": "d276e11127abc5826bd1b2aa2caf543fcd45a8a60477774e8c8b1054067997ec",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/docs/verifier-audit.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:21:10Z",
+      "role": "primary",
+      "sha256": "4f90270617c0c1d58f523c0a7f2e4603fa67a49560d68e2f88cfa080d764313b",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/docs/known-issues.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:14:07Z",
+      "role": "primary",
+      "sha256": "3398670a517a5d1d71f420dd866493d3f8a77853e3933fd4928103f9a8be1e4f",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://api.github.com/repos/OS-Copilot/ScienceBoard/git/trees/main?recursive=1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:35:24Z",
+      "role": "primary",
+      "sha256": "d6a1481b453c074e34739fd29def56efa35a1dc10e856418f557f067e9ff08c5",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/sci/base/task.py"
     },
     {
       "method": "license_header",

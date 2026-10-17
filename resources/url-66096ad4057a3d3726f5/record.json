@@ -2,6 +2,31 @@
   "aliases": [],
   "authors": [],
   "details": {
+    "dataset_profile": {
+      "counts": [],
+      "evidence_urls": [
+        "https://huggingface.co/datasets/cckevinn/GUI-Actor-Data/raw/main/README.md",
+        "https://huggingface.co/api/datasets/cckevinn/GUI-Actor-Data",
+        "https://raw.githubusercontent.com/microsoft/GUI-Actor/HEAD/data/data_config.yaml"
+      ],
+      "formats": [
+        "JSON annotations",
+        "ZIP image packages",
+        "multipart image archives"
+      ],
+      "modalities": [
+        "GUI screenshots",
+        "bounding boxes",
+        "grounding annotations"
+      ],
+      "notes": "Public Hub revision 5a0b35fb includes six bbox JSON files and associated image archives. The training configuration names six input paths with sampling_strategy=all; those input paths are not six disjoint datasets or a verified example count. The card’s source-list wording and mismatched hyperlinks remain unresolved, so its approximately 1M screenshots/10M elements headline is not adopted as a release inventory. No data license is established by the card, and the model repository license is not transferred to these data.",
+      "splits": [
+        "training"
+      ],
+      "supervision": [
+        "GUI grounding with bounding-box supervision"
+      ]
+    },
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/cckevinn/GUI-Actor-Data/tree/main",
     "gated": false,
@@ -28,7 +53,8 @@
         "topics",
         "scope",
         "relations",
-        "details"
+        "details",
+        "details.dataset_profile"
       ],
       "url": "https://huggingface.co/datasets/cckevinn/GUI-Actor-Data/raw/main/README.md"
     },
@@ -41,7 +67,8 @@
         "identity",
         "release_status",
         "details",
-        "licenses.data"
+        "licenses.data",
+        "details.dataset_profile"
       ],
       "url": "https://huggingface.co/api/datasets/cckevinn/GUI-Actor-Data"
     },
@@ -55,6 +82,16 @@
         "environments"
       ],
       "url": "https://raw.githubusercontent.com/microsoft/GUI-Actor/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:21:12Z",
+      "role": "primary",
+      "sha256": "3521c849b29d7fc88430a8e73a8b2aeb2e613d7fa16ca054dd5bf4ec011b36ca",
+      "supports": [
+        "details.dataset_profile"
+      ],
+      "url": "https://raw.githubusercontent.com/microsoft/GUI-Actor/HEAD/data/data_config.yaml"
     }
   ],
   "id": "url:66096ad4057a3d3726f5",

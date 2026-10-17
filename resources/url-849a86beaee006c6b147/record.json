@@ -2,6 +2,52 @@
   "aliases": [],
   "authors": [],
   "details": {
+    "benchmark_protocol": {
+      "actions": [
+        "PyAutoGUI script: pointer movement/click/drag, key presses, hotkeys, and text entry"
+      ],
+      "counts": [
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md",
+          "population": "train split, HF revision 5e4bcb26",
+          "qualifier": "exact",
+          "unit": "task examples",
+          "value": 6788
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md",
+          "population": "test split, HF revision 5e4bcb26",
+          "qualifier": "exact",
+          "unit": "task examples",
+          "value": 2020
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md",
+          "population": "val split, HF revision 5e4bcb26",
+          "qualifier": "exact",
+          "unit": "task examples",
+          "value": 991
+        }
+      ],
+      "evaluation": "The bundled evaluator reports weighted sequence match and action match, comparing action types and applying coordinate, key, and writing penalties. Target element-box metadata is evaluation-only. The retained scorer has a click-penalty defect: predicted coordinates are read from gold_line, so score reproduction requires explicit scorer-version review.",
+      "evidence_urls": [
+        "https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md",
+        "https://huggingface.co/api/datasets/Writer/omniact",
+        "https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/eval.py"
+      ],
+      "focus": [
+        "offline desktop/web action-script generation"
+      ],
+      "notes": "This released split table totals 9,799 examples; it is not silently substituted for any paper-level collection size. Public files include train/test/val JSON indexes, task/image archives, and eval.py. Evaluation is offline script comparison, not execution success on a live desktop. MIT is the Hub data declaration; original app/content rights are not resolved by it.",
+      "observations": [
+        "screenshot",
+        "natural-language task"
+      ],
+      "setting": "offline"
+    },
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/Writer/omniact/tree/main",
     "evaluation_type": null,
@@ -33,9 +79,30 @@
         "environments",
         "topics",
         "scope",
-        "relations"
+        "relations",
+        "details.benchmark_protocol"
       ],
       "url": "https://huggingface.co/api/datasets/Writer/omniact"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:10:00Z",
+      "role": "primary",
+      "sha256": "7b54ad557f89d621fe39c3d2fe9f02164a2bfcb7fef0db610d964586d3673693",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:22:06Z",
+      "role": "primary",
+      "sha256": "a786de678af46df5e2b6b1a2a69d2ee239fe8fd5b63663765d84d39e21fc2365",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/eval.py"
     },
     {
       "method": "huggingface_api",

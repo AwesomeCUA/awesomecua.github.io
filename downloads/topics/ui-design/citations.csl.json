@@ -1,5 +1,54 @@
 [
   {
+    "URL": "https://arxiv.org/abs/2409.18060v2",
+    "archive": "arXiv",
+    "archive_location": "2409.18060",
+    "author": [
+      {
+        "literal": "Sabrina Haque"
+      },
+      {
+        "literal": "Christoph Csallner"
+      }
+    ],
+    "citation-key": "arxiv_2409_18060",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2d927b7644f0c6b3a49fbdf1aa976a00f2409adf9a72e1c04333438f66f1014b",
+        "submitted_at": "2024-09-26T17:01:33Z",
+        "updated_at": "2024-10-07T19:04:38Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2409.18060v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2409.18060",
+      "catalog_id": "arxiv:2409.18060",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2024-09-26",
+      "identifiers": {
+        "arxiv": "2409.18060"
+      },
+      "record_updated_at": "2024-10-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2409.18060",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2024-09-26; Recorded arXiv version: v2; Recorded version updated: 2024-10-07T19:04:38Z.",
+    "title": "Inferring Alt-text For UI Icons With Large Language Models During App Development",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2505.05026v5",
     "archive": "arXiv",
     "archive_location": "2505.05026",
@@ -67,6 +116,195 @@
     "version": "5"
   },
   {
+    "URL": "https://arxiv.org/abs/2507.12844v2",
+    "archive": "arXiv",
+    "archive_location": "2507.12844",
+    "author": [
+      {
+        "literal": "Joel Nitu"
+      },
+      {
+        "literal": "Heidrun Mühle"
+      },
+      {
+        "literal": "Andreas Stöckl"
+      }
+    ],
+    "citation-key": "arxiv_2507_12844",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9fe2d9d877a0666d46a065bd8b673c282c879ef0a2620e3b267793a91858b519",
+        "submitted_at": "2025-07-17T07:10:27Z",
+        "updated_at": "2025-11-12T13:34:24Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2507.12844v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2507.12844",
+      "catalog_id": "arxiv:2507.12844",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-07-17",
+      "identifiers": {
+        "arxiv": "2507.12844"
+      },
+      "record_updated_at": "2025-11-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2507.12844",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2025-07-17; Recorded arXiv version: v2; Recorded version updated: 2025-11-12T13:34:24Z.",
+    "title": "Machine-Readable Ads: Accessibility and Trust Patterns for AI Web Agents interacting with Online Advertisements",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.11035v2",
+    "archive": "arXiv",
+    "archive_location": "2510.11035",
+    "author": [
+      {
+        "literal": "Longjie Guo"
+      },
+      {
+        "literal": "Chenjie Yuan"
+      },
+      {
+        "literal": "Mingyuan Zhong"
+      },
+      {
+        "literal": "Robert Wolfe"
+      },
+      {
+        "literal": "Ruican Zhong"
+      },
+      {
+        "literal": "Yue Xu"
+      },
+      {
+        "literal": "Bingbing Wen"
+      },
+      {
+        "literal": "Hua Shen"
+      },
+      {
+        "literal": "Lucy Lu Wang"
+      },
+      {
+        "literal": "Alexis Hiniker"
+      }
+    ],
+    "citation-key": "arxiv_2510_11035",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e6152a61f81c435e76a432bc10086827c0cf0d2f44026bac03d6b80ebae8ca77",
+        "submitted_at": "2025-10-13T06:12:03Z",
+        "updated_at": "2026-02-23T08:31:13Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2510.11035v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.11035",
+      "catalog_id": "arxiv:2510.11035",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-13",
+      "identifiers": {
+        "arxiv": "2510.11035"
+      },
+      "record_updated_at": "2026-02-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.11035",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          13
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-13; Recorded arXiv version: v2; Recorded version updated: 2026-02-23T08:31:13Z.",
+    "title": "SusBench: An Online Benchmark for Evaluating Dark Pattern Susceptibility of Computer-Use Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.18113v1",
+    "archive": "arXiv",
+    "archive_location": "2510.18113",
+    "author": [
+      {
+        "literal": "Devin Ersoy"
+      },
+      {
+        "literal": "Brandon Lee"
+      },
+      {
+        "literal": "Ananth Shreekumar"
+      },
+      {
+        "literal": "Arjun Arunasalam"
+      },
+      {
+        "literal": "Muhammad Ibrahim"
+      },
+      {
+        "literal": "Antonio Bianchi"
+      },
+      {
+        "literal": "Z. Berkay Celik"
+      }
+    ],
+    "citation-key": "arxiv_2510_18113",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "db3c25ba55221ca3d7c45ce4243a4a37b56a698909c0ea3eaaabdcd37388a1ec",
+        "submitted_at": "2025-10-20T21:26:26Z",
+        "updated_at": "2025-10-20T21:26:26Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2510.18113v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.18113",
+      "catalog_id": "arxiv:2510.18113",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-20",
+      "identifiers": {
+        "arxiv": "2510.18113"
+      },
+      "record_updated_at": "2025-10-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.18113",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-20; Recorded arXiv version: v1; Recorded version updated: 2025-10-20T21:26:26Z.",
+    "title": "Investigating the Impact of Dark Patterns on LLM-Based Web Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2511.15567v1",
     "archive": "arXiv",
     "archive_location": "2511.15567",
@@ -129,6 +367,79 @@
     "title": "Computer-Use Agents as Judges for Generative User Interface",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2512.23128v3",
+    "archive": "arXiv",
+    "archive_location": "2512.23128",
+    "author": [
+      {
+        "literal": "Karolina Korgul"
+      },
+      {
+        "literal": "Yushi Yang"
+      },
+      {
+        "literal": "Arkadiusz Drohomirecki"
+      },
+      {
+        "literal": "Piotr Błaszczyk"
+      },
+      {
+        "literal": "Will Howard"
+      },
+      {
+        "literal": "Lukas Aichberger"
+      },
+      {
+        "literal": "Chris Russell"
+      },
+      {
+        "literal": "Philip H. S. Torr"
+      },
+      {
+        "literal": "Adam Mahdi"
+      },
+      {
+        "literal": "Adel Bibi"
+      }
+    ],
+    "citation-key": "arxiv_2512_23128",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a255cccbe3f16f498918126724c391911e1d745c093189790cbab715fd28a2d2",
+        "submitted_at": "2025-12-29T01:09:10Z",
+        "updated_at": "2026-07-02T16:12:04Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2512.23128v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2512.23128",
+      "catalog_id": "arxiv:2512.23128",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-12-29",
+      "identifiers": {
+        "arxiv": "2512.23128"
+      },
+      "record_updated_at": "2026-07-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2512.23128",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2025-12-29; Recorded arXiv version: v3; Recorded version updated: 2026-07-02T16:12:04Z.",
+    "title": "It's a TRAP! Task-Redirecting Agent Persuasion Benchmark for Web Agents",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2601.16356v1",
@@ -480,6 +791,70 @@
     "title": "PlayCoder: Making LLM-Generated GUI Code Playable",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.26020v1",
+    "archive": "arXiv",
+    "archive_location": "2604.26020",
+    "author": [
+      {
+        "literal": "Alice Gao"
+      },
+      {
+        "literal": "Weixi Tong"
+      },
+      {
+        "literal": "Rishab Vempati"
+      },
+      {
+        "literal": "Katharina Reinecke"
+      },
+      {
+        "literal": "R. Benjamin Shapiro"
+      },
+      {
+        "literal": "Tianyi Zhang"
+      },
+      {
+        "literal": "Jason Wu"
+      }
+    ],
+    "citation-key": "arxiv_2604_26020",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "bb6d24f7dc38921da883c4850b37f1c7eb48a03de920356d4ec2e095dbb44b04",
+        "submitted_at": "2026-04-28T18:04:11Z",
+        "updated_at": "2026-04-28T18:04:11Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.26020v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.26020",
+      "catalog_id": "arxiv:2604.26020",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-28",
+      "identifiers": {
+        "arxiv": "2604.26020"
+      },
+      "record_updated_at": "2026-04-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.26020",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-28; Recorded arXiv version: v1; Recorded version updated: 2026-04-28T18:04:11Z.",
+    "title": "Training Computer Use Agents to Assess the Usability of Graphical User Interfaces",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2604.26148v3",

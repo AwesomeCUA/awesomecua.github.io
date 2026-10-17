@@ -1,7 +1,62 @@
 {
-  "aliases": [],
+  "aliases": [
+    "github:gimme1dollar/b-moca",
+    "gimme1dollar/b-moca",
+    "https://github.com/gimme1dollar/b-moca"
+  ],
   "authors": [],
   "details": {
+    "benchmark_protocol": {
+      "actions": [
+        "normalized touch/lift coordinate pairs for tap or swipe"
+      ],
+      "counts": [
+        {
+          "basis": "computed",
+          "evidence_url": "https://api.github.com/repos/jylee425/b-moca/git/trees/release/ver.3?recursive=1",
+          "population": "asset/tasks/**/*.textproto in retained release/ver.3 tree; not a paper test-task total",
+          "qualifier": "exact",
+          "unit": "task-definition files",
+          "value": 131
+        },
+        {
+          "basis": "computed",
+          "evidence_url": "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_train.csv",
+          "population": "environments_train.csv, retained release/ver.3 snapshot",
+          "qualifier": "exact",
+          "unit": "environment configuration rows",
+          "value": 35
+        },
+        {
+          "basis": "computed",
+          "evidence_url": "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_test.csv",
+          "population": "environments_test.csv, retained release/ver.3 snapshot",
+          "qualifier": "exact",
+          "unit": "environment configuration rows",
+          "value": 10
+        }
+      ],
+      "evaluation": "Task success is detected using Appium; positive task reward terminates the episode. Environment variants change device/locale/wallpaper/DPI/dark mode and are loaded as snapshots. The numeric action interface is (touch_y, touch_x, lift_y, lift_x); wrapper/tanh transformations must be kept with the evaluated agent.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/readme.md",
+        "https://api.github.com/repos/jylee425/b-moca/git/trees/release/ver.3?recursive=1",
+        "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/bmoca/environment/coordinator.py",
+        "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/bmoca/environment/environment.py",
+        "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_train.csv",
+        "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_test.csv"
+      ],
+      "focus": [
+        "Android control across visual/device variation",
+        "generalization across environment snapshots"
+      ],
+      "notes": "Current source inventory differs in grain from published experiment subsets: do not multiply 131 definitions by 35/10 configuration rows or label the product as evaluated tasks. Setup requires Android API 29, Appium, external app versions and generated AVD snapshots. No apps/snapshots were downloaded or run. Code Apache-2.0 does not establish data or app rights.",
+      "observations": [
+        "screenshot pixels",
+        "XML view hierarchy",
+        "goal instruction"
+      ],
+      "setting": "interactive"
+    },
     "evaluation_type": null,
     "leaderboard_url": null,
     "metrics": [],
@@ -23,9 +78,60 @@
         "environments",
         "topics",
         "scope",
-        "relations"
+        "relations",
+        "details.benchmark_protocol"
       ],
       "url": "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/readme.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:14:05Z",
+      "role": "primary",
+      "sha256": "06ba40a5e0d5fb52e7bf5e5df636cb8e8bbbc56a8308dc6d528012489f7650ee",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://api.github.com/repos/jylee425/b-moca/git/trees/release/ver.3?recursive=1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:24:53Z",
+      "role": "primary",
+      "sha256": "34bc0c23949732e0a8091e334d59d2d41cae49a82cde850247aa0e6d739d2464",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/bmoca/environment/coordinator.py"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:21:10Z",
+      "role": "primary",
+      "sha256": "d866af344c0cff5255b813576f2e9e9c5c2964e6809058b39e2b5180af71d946",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/bmoca/environment/environment.py"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:23:14Z",
+      "role": "primary",
+      "sha256": "c278cc28f8a0667b7fdc6ba638704cfbe43783cd496181231c45c865087543f3",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_train.csv"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:23:15Z",
+      "role": "primary",
+      "sha256": "4b92933fe4f4f66e71a694b579940db11bedd5ea8f153752a44e633825b06fa3",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_test.csv"
     },
     {
       "method": "license_header",
@@ -36,6 +142,26 @@
         "licenses.code"
       ],
       "url": "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/LICENSE"
+    },
+    {
+      "method": "github_repository_identity",
+      "retrieved_at": "2026-10-17T14:14:03Z",
+      "role": "primary",
+      "sha256": "9d4706306b04960f0eb4298887496961efdee6b7d41445e82abcac489d63779f",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://api.github.com/repos/gimme1dollar/b-moca"
+    },
+    {
+      "method": "github_repository_identity",
+      "retrieved_at": "2026-10-17T14:14:04Z",
+      "role": "primary",
+      "sha256": "9d4706306b04960f0eb4298887496961efdee6b7d41445e82abcac489d63779f",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://api.github.com/repos/jylee425/b-moca"
     }
   ],
   "id": "github:jylee425/b-moca",

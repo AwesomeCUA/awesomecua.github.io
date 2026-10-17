@@ -1,5 +1,9 @@
 {
-  "aliases": [],
+  "aliases": [
+    "github:mnotgod96/appagent",
+    "mnotgod96/AppAgent",
+    "https://github.com/mnotgod96/AppAgent"
+  ],
   "authors": [],
   "details": {},
   "environments": [
@@ -31,6 +35,26 @@
         "licenses.code"
       ],
       "url": "https://raw.githubusercontent.com/TencentQQGYLab/AppAgent/HEAD/LICENSE"
+    },
+    {
+      "method": "github_repository_identity",
+      "retrieved_at": "2026-10-17T14:13:57Z",
+      "role": "primary",
+      "sha256": "cd15c021e5023f43c17cc6365a58177c08ae91ac7e854c64c0e531f4ed3c5d5f",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://api.github.com/repos/mnotgod96/AppAgent"
+    },
+    {
+      "method": "github_repository_identity",
+      "retrieved_at": "2026-10-17T14:13:58Z",
+      "role": "primary",
+      "sha256": "cd15c021e5023f43c17cc6365a58177c08ae91ac7e854c64c0e531f4ed3c5d5f",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://api.github.com/repos/TencentQQGYLab/AppAgent"
     }
   ],
   "id": "github:tencentqqgylab/appagent",

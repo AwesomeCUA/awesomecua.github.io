@@ -18,7 +18,7 @@
     }
   },
   "environments": [
-    "unspecified"
+    "desktop"
   ],
   "evidence": [
     {
@@ -33,6 +33,22 @@
         "updated_at",
         "identifiers.arxiv",
         "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=300&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:39Z",
+      "role": "primary",
+      "sha256": "27c33576ed43c7bc63d4b290f6558553bd1d3aa112a7358138f4045e1bc14918",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes"
       ],
       "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=300&max_results=100&sortBy=submittedDate&sortOrder=descending"
     }
@@ -51,18 +67,21 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2604.17849"
     }
   ],
   "name": "On the Reliability of Computer Use Agents",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.",
   "published_at": "2026-04-20",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "This study examines repeated OSWorld executions to separate execution stochasticity, task-specification ambiguity and behavioral variation. Paired task-level tests show why one successful run is insufficient evidence of reliable computer use.",
+  "topics": [
+    "evaluation",
+    "robustness"
+  ],
   "updated_at": "2026-04-20",
   "url": "https://arxiv.org/abs/2604.17849"
 }

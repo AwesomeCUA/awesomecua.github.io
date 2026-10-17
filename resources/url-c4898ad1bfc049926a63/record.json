@@ -2,6 +2,25 @@
   "aliases": [],
   "authors": [],
   "details": {
+    "dataset_profile": {
+      "counts": [],
+      "evidence_urls": [
+        "https://huggingface.co/api/datasets/osunlp/UGround-V1-Data",
+        "https://raw.githubusercontent.com/OSU-NLP-Group/UGround/HEAD/README.md"
+      ],
+      "formats": [
+        "Parquet shards"
+      ],
+      "modalities": [
+        "GUI screenshots",
+        "natural-language grounding descriptions"
+      ],
+      "notes": "Public API revision 33325877 lists Parquet assets but gated=auto; the pinned raw card returned HTTP 401 and no access was requested. Official README identifies this as V1 training data; the API excerpt also announces a Web-Hybrid bounding-box variant with coordinates normalized to [0,999]. That does not establish every shard schema or a release-wide point/bbox count. No train/test partition, example total, or unrestricted downloadability is claimed. Preserve the recorded CC-BY-NC-SA-4.0 data declaration separately from model/code terms.",
+      "splits": [],
+      "supervision": [
+        "GUI visual-grounding training for the UGround-V1 family"
+      ]
+    },
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/osunlp/UGround-V1-Data/tree/main",
     "gated": "auto",
@@ -31,9 +50,20 @@
         "environments",
         "topics",
         "scope",
-        "relations"
+        "relations",
+        "details.dataset_profile"
       ],
       "url": "https://huggingface.co/api/datasets/osunlp/UGround-V1-Data"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:00Z",
+      "role": "primary",
+      "sha256": "72ca3f23114c3a08fefb724573acf10c9f0a1b3d4a50d811c98356264ecf6ffc",
+      "supports": [
+        "details.dataset_profile"
+      ],
+      "url": "https://raw.githubusercontent.com/OSU-NLP-Group/UGround/HEAD/README.md"
     },
     {
       "method": "huggingface_api",

@@ -1,5 +1,9 @@
 {
-  "aliases": [],
+  "aliases": [
+    "github:cooelf/auto-ui",
+    "cooelf/Auto-UI",
+    "https://github.com/cooelf/Auto-UI"
+  ],
   "authors": [],
   "details": {},
   "environments": [
@@ -31,6 +35,26 @@
         "licenses.code"
       ],
       "url": "https://raw.githubusercontent.com/cooelf/Auto-GUI/HEAD/LICENSE"
+    },
+    {
+      "method": "github_repository_identity",
+      "retrieved_at": "2026-10-17T14:13:59Z",
+      "role": "primary",
+      "sha256": "569f3c779e6a0b8210a764c9096e49e8a5199c107a64f7fcfb7a011257bf2a12",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://api.github.com/repos/cooelf/Auto-UI"
+    },
+    {
+      "method": "github_repository_identity",
+      "retrieved_at": "2026-10-17T14:14:00Z",
+      "role": "primary",
+      "sha256": "569f3c779e6a0b8210a764c9096e49e8a5199c107a64f7fcfb7a011257bf2a12",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://api.github.com/repos/cooelf/Auto-GUI"
     }
   ],
   "id": "github:cooelf/auto-gui",

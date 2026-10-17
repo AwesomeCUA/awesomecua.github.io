@@ -1,4 +1,4 @@
-# Surveys
+# Survey
 
 Reviewed topic membership; resources can appear in multiple topics. Shared membership is not a dependency claim.
 

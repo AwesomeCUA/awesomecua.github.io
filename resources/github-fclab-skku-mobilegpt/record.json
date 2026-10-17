@@ -1,5 +1,9 @@
 {
-  "aliases": [],
+  "aliases": [
+    "github:mobilegptsys/mobilegpt",
+    "mobilegptsys/MobileGPT",
+    "https://github.com/mobilegptsys/MobileGPT"
+  ],
   "authors": [],
   "details": {
     "availability": "Public Android client, Python server and manual offline-explorer source.",
@@ -73,6 +77,26 @@
         "licenses.code"
       ],
       "url": "https://raw.githubusercontent.com/fclab-skku/MobileGPT/HEAD/LICENSE"
+    },
+    {
+      "method": "github_repository_identity",
+      "retrieved_at": "2026-10-17T14:14:04Z",
+      "role": "primary",
+      "sha256": "3d3ceb084d374b706842cff1f4ec986fde50c13cba141dc4619d5afe8b631d55",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://api.github.com/repos/mobilegptsys/MobileGPT"
+    },
+    {
+      "method": "github_repository_identity",
+      "retrieved_at": "2026-10-17T14:14:06Z",
+      "role": "primary",
+      "sha256": "3d3ceb084d374b706842cff1f4ec986fde50c13cba141dc4619d5afe8b631d55",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://api.github.com/repos/fclab-skku/MobileGPT"
     }
   ],
   "id": "github:fclab-skku/mobilegpt",

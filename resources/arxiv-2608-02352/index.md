@@ -1,20 +1,20 @@
 # Qwen-CUA: Native Computer Use for (almost) Everything
 
-Bibliographic record for Qwen-CUA: Native Computer Use for (almost) Everything. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Qwen-CUA operates through screenshots and keyboard/mouse events while compressing older visual history into reusable context blocks. Its report combines verifiable task generation, trajectory-based training and separate browser and Bash-augmented studies.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-02352/
 - Original source: https://arxiv.org/abs/2608.02352
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
+- Review: curated
+- Scope: core
+- Environments: desktop, web
+- Topics: reinforcement-learning, imitation-learning, data-generation, interaction-history, long-horizon, evaluation
 - Evidence checked: 2026-10-16T06:36:32Z
 - ID: arxiv:2608.02352
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2608-02352/record.json
 
@@ -45,4 +45,5 @@ Dunjie Lu, Shuai Bai, Tianyi Bai, Sicheng Fan, Chang Gao, Jian Guan, Feng Hu, Mi
 
 ## Primary evidence
 
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:32Z; SHA-256 13d3fb5811d203f2e6b80eb45d30ebc0b3cfefd88e2034ffa3b1b80687bef285)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:32Z; SHA-256 13d3fb5811d203f2e6b80eb45d30ebc0b3cfefd88e2034ffa3b1b80687bef285)

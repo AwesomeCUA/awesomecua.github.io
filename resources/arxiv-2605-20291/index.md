@@ -1,20 +1,20 @@
 # Weasel: Out-of-Domain Generalization for Web Agents via Importance-Diversity Data Selection
 
-Bibliographic record for Weasel: Out-of-Domain Generalization for Web Agents via Importance-Diversity Data Selection. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Weasel selects web-agent training steps by balancing importance and diversity across states, sites and interaction patterns. It also prunes training accessibility trees around known action targets and regenerates rationales to match the model’s reasoning style.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2605-20291/
 - Original source: https://arxiv.org/abs/2605.20291
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, imitation-learning, efficiency, robustness, data-generation
 - Evidence checked: 2026-10-16T06:36:36Z
 - ID: arxiv:2605.20291
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2605-20291/record.json
 
@@ -45,4 +45,5 @@ Fatemeh Pesaran Zadeh, Seyeon Choi, Xing Han Lù, Siva Reddy, Gunhee Kim
 
 ## Primary evidence
 
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:36Z; SHA-256 aeacc1a41bb90f3d296823356174fe77d1547ffbe7cd56652cf9d98fca09206c)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:36Z; SHA-256 aeacc1a41bb90f3d296823356174fe77d1547ffbe7cd56652cf9d98fca09206c)

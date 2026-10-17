@@ -1691,6 +1691,97 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2605.15777v2",
+    "archive": "arXiv",
+    "archive_location": "2605.15777",
+    "author": [
+      {
+        "literal": "Kean Shi"
+      },
+      {
+        "literal": "Zihang Li"
+      },
+      {
+        "literal": "Tianyi Ma"
+      },
+      {
+        "literal": "Zengji Tu"
+      },
+      {
+        "literal": "Jialong Wu"
+      },
+      {
+        "literal": "Xinbo Xu"
+      },
+      {
+        "literal": "Qingyao Yang"
+      },
+      {
+        "literal": "Ruoyu Wu"
+      },
+      {
+        "literal": "Weichu Xie"
+      },
+      {
+        "literal": "Ming Wu"
+      },
+      {
+        "literal": "Jason Zeng"
+      },
+      {
+        "literal": "Michael Heinrich"
+      },
+      {
+        "literal": "Elvis Zhang"
+      },
+      {
+        "literal": "Liang Chen"
+      },
+      {
+        "literal": "Kuan Li"
+      },
+      {
+        "literal": "Baobao Chang"
+      }
+    ],
+    "citation-key": "arxiv_2605_15777",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c4ee2439dd31a375b6f64cbc7f1d0ff75c87e1346b1627a53db145ae42682f8a",
+        "submitted_at": "2026-05-15T09:35:15Z",
+        "updated_at": "2026-05-24T16:35:56Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2605.15777v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.15777",
+      "catalog_id": "arxiv:2605.15777",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-15",
+      "identifiers": {
+        "arxiv": "2605.15777"
+      },
+      "record_updated_at": "2026-05-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.15777",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-15; Recorded arXiv version: v2; Recorded version updated: 2026-05-24T16:35:56Z.",
+    "title": "SaaS-Bench: Can Computer-Use Agents Leverage Real-World SaaS to Solve Professional Workflows?",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2606.09764v1",
     "archive": "arXiv",
     "archive_location": "2606.09764",

@@ -42,6 +42,20 @@ Full source records: https://awesomecua.github.io/downloads/topics/planning/reco
   Plover exposes GUI-agent plans and replanning as persistent artifacts that users can inspect and edit during execution. Its planner–executor design supports localized correction through plan edits, language guidance and screenshot-grounded interventions, studied through failure repair and workflow scenarios.
 - [HyMobileAgent: Data-Environment Co-Scaling for Efficient GUI Agents](https://awesomecua.github.io/resources/arxiv-2607-14548/) — 2026-07-16
   Combines GUI perception data, instructional videos, real and simulated devices, and planning with reflection to develop a mobile agent.
+- [RunAgent SuperBrowser: A Theory of Autonomous Web Navigation Grounded in Human Browsing Behaviour](https://awesomecua.github.io/resources/arxiv-2606-09399/) — 2026-06-08
+  SUPERBROWSER combines screenshot-based target proposals with separate orchestration, planning and action roles. A bounded ledger and context-eviction process retain recent actions, task facts and checkpoints during browser execution.
+- [Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval](https://awesomecua.github.io/resources/arxiv-2606-04391/) — 2026-06-03
+  State-Grounded Dynamic Retrieval extracts reusable sub-procedures from completed web trajectories and represents them as paired text and code. Skills are retrieved against both the current webpage state and the task goal at intermediate execution steps.
+- [Multi-Agent Computer Use](https://awesomecua.github.io/resources/arxiv-2606-01533/) — 2026-06-01
+  MACU represents computer-use objectives as a dependency graph whose manager dispatches parallel subagents and revises tasks as new information arrives. Desktop and web experiments examine coordination, information handoff and task-completion time.
+- [UI-KOBE: Knowledge-Oriented Behavior Exploration for Lightweight Graph-Guided GUI Agents](https://awesomecua.github.io/resources/arxiv-2605-29534/) — 2026-05-28
+  UI-KOBE explores mobile applications to build graphs of UI states and executable transitions. A lightweight agent then matches its current screenshot to the graph and chooses a transition, local action, completion signal or fallback action.
+- [DRS-GUI: Dynamic Region Search for Training-Free GUI Grounding](https://awesomecua.github.io/resources/arxiv-2605-15542/) — 2026-05-15
+  DRS-GUI searches screenshot regions through focus, shift and scatter operations selected by a tree-search planner. A region-quality reward guides this training-free perceptual search before final GUI grounding.
+- [ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents](https://awesomecua.github.io/resources/arxiv-2605-12481/) — 2026-05-12
+  ToolCUA synthesizes interleaved GUI/tool trajectories and trains agents to choose between graphical actions and higher-level tools. Staged supervised and reinforcement learning culminate in online hybrid-environment training with a reward for efficient execution paths.
+- [UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization](https://awesomecua.github.io/resources/arxiv-2604-13822/) — 2026-04-15
+  UI-Copilot separates GUI execution from on-demand memory retrieval and numerical assistance. Its training procedure treats tool selection and multi-turn task execution as distinct optimization targets while keeping persistent observations outside transient context.
 - [IntentScore: Intent-Conditioned Action Evaluation for Computer-Use Agents](https://awesomecua.github.io/resources/arxiv-2604-05157/) — 2026-04-06
   Trains IntentScore on offline desktop GUI interactions to assess candidate actions using both their state relevance and planning intent. The reward model is evaluated as an action reranker for Agent S3 on OSWorld.
 - [CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare](https://awesomecua.github.io/resources/arxiv-2603-24157/) — 2026-03-25
@@ -100,6 +114,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/planning/reco
   NestBrowse organizes browser actions in a nested framework that separates interaction control from page exploration. It evaluates this design for deep information seeking beyond snippet retrieval and direct URL fetching.
 - [MobileWorldBench: Towards Semantic World Modeling For Mobile Agents](https://awesomecua.github.io/resources/arxiv-2512-14014/) — 2025-12-16
   Evaluates semantic world models for mobile interfaces and studies natural-language state transitions as a tool for agent planning.
+- [GAIR: GUI Automation via Information-Joint Reasoning and Group Reflection](https://awesomecua.github.io/resources/arxiv-2512-09396/) — 2025-12-10
+  Introduces GAIR, which combines information from specialized GUI models through a general-purpose coordinating model. When the available information is insufficient, group reflection sends targeted requests back to the specialists before selecting an operation.
 - [Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation](https://awesomecua.github.io/resources/arxiv-2511-22235/) — 2025-11-27
   This work trains high-level schedulers with staged reinforcement learning driven by execution feedback. Its CES framework separates a Coordinator for planning and decomposition, a StateTracker for compressed context, and a low-level Executor.
 - [Co-EPG: A Framework for Co-Evolution of Planning and Grounding in Autonomous GUI Agents](https://awesomecua.github.io/resources/arxiv-2511-10705/) — 2025-11-13
@@ -114,6 +130,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/planning/reco
   Introduces Hi-Agent, jointly training a high-level reasoning model and a low-level mobile action model. Execution feedback supplies a foresight advantage for optimizing subgoal decisions, with evaluations on Android control benchmarks.
 - [R-WoM: Retrieval-augmented World Model For Computer-use Agents](https://awesomecua.github.io/resources/arxiv-2510-11892/) — 2025-10-13
   R-WoM evaluates how well world models predict nearby GUI states, align complete procedures, and recognize milestone transitions. It retrieves external tutorials to guide simulated future interactions, with experiments on subsets of OSWorld and WebArena.
+- [From Imperative to Declarative: Towards LLM-friendly OS Interfaces for Boosted Computer-Use Agents](https://awesomecua.github.io/resources/arxiv-2510-04607/) — 2025-10-06
+  Introduces a Declarative Model Interface that maps existing GUIs to access, state and observation primitives while handling low-level interactions. Evaluation uses Word, PowerPoint and Excel on Windows with a GUI-agent baseline.
 - [\textsc{GUI-Spotlight}: Adaptive Iterative Focus Refinement for Enhanced GUI Visual Grounding](https://awesomecua.github.io/resources/arxiv-2510-04039/) — 2025-10-05
   GUI-Spotlight trains a grounding model to reason over images and call tools that iteratively narrow its visual focus. The paper evaluates this refinement method on ScreenSpot-Pro after training on 18,500 samples.
 - [PAL-UI: Planning with Active Look-back for Vision-Based GUI Agents](https://awesomecua.github.io/resources/arxiv-2510-00413/) — 2025-10-01
@@ -146,6 +164,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/planning/reco
   Introduces GUI-Owl models and Mobile-Agent-v3 orchestration, using environment-generated trajectories to support GUI capabilities.
 - [OpenCUA: Open Foundations for Computer-Use Agents](https://awesomecua.github.io/resources/arxiv-2508-09123/) — 2025-08-12
   Presents demonstration collection infrastructure, the AgentNet dataset, and a training pipeline for open computer-use models.
+- [Cognitive Duality for Adaptive Web Agents](https://awesomecua.github.io/resources/arxiv-2508-05081/) — 2025-08-07
+  Introduces CogniWeb, which switches between fast reactive processing and slower deliberative reasoning according to task complexity. WebArena experiments examine this combination of learned behaviors and online planning.
 - [Evolving in Tasks: Empowering the Multi-modality Large Language Model as the Computer Use Agent](https://awesomecua.github.io/resources/arxiv-2508-04037/) — 2025-08-06
   The Self-Evolution Agent combines automatic generation of verifiable computer-use trajectories with step-wise reinforcement learning for long-horizon training. It also describes a model-enhancement procedure that integrates grounding and planning capabilities without an additional training stage.
 - [CoAct-1: Computer-using Multi-Agent System with Coding Actions](https://awesomecua.github.io/resources/arxiv-2508-03923/) — 2025-08-05
@@ -166,6 +186,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/planning/reco
   LineRetriever uses a language model to select observation lines that matter for upcoming web-navigation actions. It reduces DOM or accessibility-tree context by considering the planning horizon instead of relying solely on semantic similarity.
 - [Learning, Reasoning, Refinement: A Framework for Kahneman's Dual-System Intelligence in GUI Agents](https://awesomecua.github.io/resources/arxiv-2506-17913/) — 2025-06-22
   CogniGUI combines hierarchical visual parsing of interface elements with a GRPO-based grounding agent that compares alternative interaction paths. Its ScreenSeek benchmark evaluates navigation across applications, changing interface states, and consistency between interfaces.
+- [Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence](https://awesomecua.github.io/resources/arxiv-2506-15677/) — 2025-06-18
+  Introduces environments that couple 3D physical-world simulations with functional web interfaces. The accompanying benchmark evaluates tasks requiring agents to coordinate online information and physical actions across cooking, navigation and shopping scenarios.
 - [Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills](https://awesomecua.github.io/resources/arxiv-2506-10387/) — 2025-06-12
   Mirage-1 organizes interaction trajectories into execution, core, and meta-skills, then uses them to guide Monte Carlo tree search during online GUI tasks. It introduces AndroidLH for long-horizon evaluation and tests the approach on Android and web-navigation benchmarks.
 - [Atomic-to-Compositional Generalization for Mobile Agents with A New Benchmark and Scheduling System](https://awesomecua.github.io/resources/arxiv-2506-08972/) — 2025-06-10
@@ -286,6 +308,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/planning/reco
   Defines compositional enterprise workflows to evaluate planning and reasoning, with generation of ground-truth interaction traces.
 - [MobileExperts: A Dynamic Tool-Enabled Agent Team in Mobile Devices](https://awesomecua.github.io/resources/arxiv-2407-03913/) — 2024-07-04
   Introduces MobileExperts, which assembles mobile-agent teams, lets agents explore and formulate tools, and coordinates them through two levels of planning. A benchmark organizes tasks by hierarchical intelligence levels.
+- [Tree Search for Language Model Agents](https://awesomecua.github.io/resources/arxiv-2407-01476/) — 2024-07-01
+  Applies best-first search to agent actions within interactive web environments, allowing exploration and multistep planning at inference time. WebArena and VisualWebArena experiments examine search behavior and test-time computation.
 - [VideoGUI: A Benchmark for GUI Automation from Instructional Videos](https://awesomecua.github.io/resources/arxiv-2406-10227/) — 2024-06-14
   Evaluates GUI automation from instructional videos at separate levels of high-level planning, action narration, and primitive execution.
 - [CAAP: Context-Aware Action Planning Prompting to Solve Computer Tasks with Front-End UI Only](https://awesomecua.github.io/resources/arxiv-2406-06947/) — 2024-06-11
@@ -296,6 +320,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/planning/reco
   Studies explicit textual estimates of latent UI state, including whether commanded actions occurred and how far a task has progressed. The experiments compare agents that reason with these estimates against agents that omit them across public and internal task benchmarks.
 - [Unveiling Disparities in Web Task Handling Between Human and Web Agent](https://awesomecua.github.io/resources/arxiv-2405-04497/) — 2024-05-07
   Compares human think-aloud web-task behavior with web-agent planning, action, and reflection. The analysis highlights differences in updating plans, handling ambiguity, and investigating failures.
+- [MMAC-Copilot: Multi-modal Agent Collaboration Operating Copilot](https://awesomecua.github.io/resources/arxiv-2404-18074/) — 2024-04-28
+  Introduces MMAC-Copilot, which coordinates agents with different expertise to operate PC applications. VIBench evaluates visual interaction with applications that lack usable APIs, spanning office, recreation and game tasks.
 - [Cradle: Empowering Foundation Agents Towards General Computer Control](https://awesomecua.github.io/resources/arxiv-2403-03186/) — 2024-03-05
   Uses screenshot observations, planning modules, and generated low-level keyboard and mouse control for general computer interaction.
 - [Android in the Zoo: Chain-of-Action-Thought for GUI Agents](https://awesomecua.github.io/resources/arxiv-2403-02713/) — 2024-03-05
@@ -312,6 +338,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/planning/reco
   Introduces Windows application tasks and an actor-critic agent framework for mouse-and-keyboard automation of desktop workflows.
 - [VisionTasker: Mobile Task Automation Using Vision Based UI Understanding and LLM Task Planning](https://awesomecua.github.io/resources/arxiv-2312-11190/) — 2023-12-18
   VisionTasker converts screenshots into textual UI interpretations and presents one interface at a time to an LLM planner for action selection. It evaluates visual representations and execution of 147 tasks on an Android smartphone, including integration with programming by demonstration.
+- [Intelligent Virtual Assistants with LLM-based Process Automation](https://awesomecua.github.io/resources/arxiv-2312-06677/) — 2023-12-04
+  Presents LLMPA, a mobile process-automation architecture that decomposes requests, identifies interface elements, predicts actions and checks errors. Demonstrations evaluate multistep operations in Alipay.
 - [Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation](https://awesomecua.github.io/resources/arxiv-2312-03003/) — 2023-12-04
   Introduces MobileGPT, which organizes mobile-app experience into reusable subtasks using an explore, select, derive, and recall cycle. Its memory supports learning task procedures and adapting them to new contexts.
 - [WebWISE: Web Interface Control and Sequential Exploration with Large Language Models](https://awesomecua.github.io/resources/arxiv-2310-16042/) — 2023-10-24
@@ -332,6 +360,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/planning/reco
   Combines task decomposition, HTML summarization, and generated Python programs to carry out instructions on websites.
 - [Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control](https://awesomecua.github.io/resources/arxiv-2306-07863/) — 2023-06-13
   Synapse filters task-irrelevant page state and places complete abstracted state-action trajectories into the prompt. An embedding-based exemplar memory retrieves relevant demonstrations for new tasks, evaluated on MiniWoB++ and Mind2Web.
+- [AdaPlanner: Adaptive Planning from Feedback with Language Models](https://awesomecua.github.io/resources/arxiv-2305-16653/) — 2023-05-26
+  Introduces AdaPlanner, which revises code-structured plans in response to environmental feedback and reuses successful plans as exemplars. Experiments include MiniWoB++ web tasks alongside ALFWorld.
 - [Hierarchical Prompting Assists Large Language Model on Web Navigation](https://awesomecua.github.io/resources/arxiv-2305-14257/) — 2023-05-23
   Separates web navigation prompting into a SUMMARIZER that extracts action-relevant observations and an ACTOR that chooses the next action from the condensed context.
 - [End-to-End Goal-Driven Web Navigation](https://awesomecua.github.io/resources/arxiv-1602-02261/) — 2016-02-06

@@ -2146,6 +2146,134 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2509.20729v2",
+    "archive": "arXiv",
+    "archive_location": "2509.20729",
+    "author": [
+      {
+        "literal": "Jiazheng Sun"
+      },
+      {
+        "literal": "Ruimeng Yang"
+      },
+      {
+        "literal": "Xu Han"
+      },
+      {
+        "literal": "Jiayang Niu"
+      },
+      {
+        "literal": "Mingxuan Li"
+      },
+      {
+        "literal": "Te Yang"
+      },
+      {
+        "literal": "Yongyong Lu"
+      },
+      {
+        "literal": "Xin Peng"
+      }
+    ],
+    "citation-key": "arxiv_2509_20729",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "571eee6476c9e75ffae65cf98ec589e98fd3b953313cc6d2191bb48bd27303fe",
+        "submitted_at": "2025-09-25T04:21:31Z",
+        "updated_at": "2025-12-01T08:01:05Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2509.20729v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.20729",
+      "catalog_id": "arxiv:2509.20729",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-25",
+      "identifiers": {
+        "arxiv": "2509.20729"
+      },
+      "record_updated_at": "2025-12-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.20729",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-25; Recorded arXiv version: v2; Recorded version updated: 2025-12-01T08:01:05Z.",
+    "title": "Robust, Observable, and Evolvable Agentic Systems Engineering: A Principled Framework Validated via the Fairy GUI Agent",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.02418v2",
+    "archive": "arXiv",
+    "archive_location": "2510.02418",
+    "author": [
+      {
+        "literal": "Sagnik Anupam"
+      },
+      {
+        "literal": "Davis Brown"
+      },
+      {
+        "literal": "Shuo Li"
+      },
+      {
+        "literal": "Eric Wong"
+      },
+      {
+        "literal": "Hamed Hassani"
+      },
+      {
+        "literal": "Osbert Bastani"
+      }
+    ],
+    "citation-key": "arxiv_2510_02418",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7906e06c2efb8778a43ec774821f90947e70cec0b78d6d43ac8901f7f0562332",
+        "submitted_at": "2025-10-02T15:22:21Z",
+        "updated_at": "2025-10-07T15:12:39Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2510.02418v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.02418",
+      "catalog_id": "arxiv:2510.02418",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-02",
+      "identifiers": {
+        "arxiv": "2510.02418"
+      },
+      "record_updated_at": "2025-10-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.02418",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-02; Recorded arXiv version: v2; Recorded version updated: 2025-10-07T15:12:39Z.",
+    "title": "BrowserArena: Evaluating LLM Agents on Real-World Web Navigation Tasks",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2510.07988v1",
     "archive": "arXiv",
     "archive_location": "2510.07988",
@@ -3723,6 +3851,85 @@
     "title": "Are We There Yet? Assessing Computer-Use Agents for Blind Users' Accessible Interaction with Desktop Applications",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2609.02149v3",
+    "archive": "arXiv",
+    "archive_location": "2609.02149",
+    "author": [
+      {
+        "literal": "Yixiong Xiao"
+      },
+      {
+        "literal": "Lang An"
+      },
+      {
+        "literal": "Hucheng Yang"
+      },
+      {
+        "literal": "Pinxue Ma"
+      },
+      {
+        "literal": "Yongquan Chen"
+      },
+      {
+        "literal": "Jingjia Cao"
+      },
+      {
+        "literal": "Yusai Zhao"
+      },
+      {
+        "literal": "Ting Wang"
+      },
+      {
+        "literal": "Ting Liu"
+      },
+      {
+        "literal": "Siqi Bao"
+      },
+      {
+        "literal": "Jingbo Zhou"
+      },
+      {
+        "literal": "Hua Wu"
+      }
+    ],
+    "citation-key": "arxiv_2609_02149",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "52849171f507e126093411ba81dc580d460b84f831358b08bd57cb54ca41b665",
+        "submitted_at": "2026-09-02T06:03:18Z",
+        "updated_at": "2026-09-10T15:52:42Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2609.02149v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.02149",
+      "catalog_id": "arxiv:2609.02149",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-02",
+      "identifiers": {
+        "arxiv": "2609.02149"
+      },
+      "record_updated_at": "2026-09-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.02149",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-02; Recorded arXiv version: v3; Recorded version updated: 2026-09-10T15:52:42Z.",
+    "title": "OmegaUse-SOP: SOP Engineering for Professional Computer Use from Human Demonstrations",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2609.04850v1",

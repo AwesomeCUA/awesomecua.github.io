@@ -2,6 +2,26 @@
   "aliases": [],
   "authors": [],
   "details": {
+    "dataset_profile": {
+      "counts": [],
+      "evidence_urls": [
+        "https://huggingface.co/datasets/xwk123/Mobile3M/raw/3df26694ff9186604eb44a8e633894d3ece67ed9/README.md",
+        "https://huggingface.co/api/datasets/xwk123/Mobile3M",
+        "https://raw.githubusercontent.com/XiaoMi/mobilevlm/HEAD/README.md"
+      ],
+      "formats": [
+        "7z app-graph archives",
+        "multipart 7z files"
+      ],
+      "modalities": [],
+      "notes": "Official README calls this a partial training release and says app data will be uploaded gradually. Its training-JSON and test-data links point to separate Hub repositories; those artifacts are not counted as files or splits of xwk123/Mobile3M. Public revision 3df26694 lists app-graph archives; their names do not establish a three-million-example downloadable inventory. Precise inner record/modalities schema is not inspected. The card YAML says Apache-2.0 while its prose and official README assign CC-BY-NC-SA-4.0 to data and Apache to code; the existing data-license value remains unknown with the conflict documented.",
+      "splits": [
+        "partial training release"
+      ],
+      "supervision": [
+        "mobile UI pretraining for MobileVLM"
+      ]
+    },
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/xwk123/Mobile3M/tree/main",
     "gated": false,
@@ -39,9 +59,30 @@
         "topics",
         "scope",
         "relations",
-        "licenses.data"
+        "licenses.data",
+        "details.dataset_profile"
       ],
       "url": "https://huggingface.co/api/datasets/xwk123/Mobile3M"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:10:01Z",
+      "role": "primary",
+      "sha256": "8a097dbc7384d3743f262dc0164c176ed577bf720cbbc92ff8b3cd820d1aed4f",
+      "supports": [
+        "details.dataset_profile"
+      ],
+      "url": "https://huggingface.co/datasets/xwk123/Mobile3M/raw/3df26694ff9186604eb44a8e633894d3ece67ed9/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:22:04Z",
+      "role": "primary",
+      "sha256": "e8a92a783b6b65cacedf105e5ede583668f8774f2a81a2005dc6897da6fa88ef",
+      "supports": [
+        "details.dataset_profile"
+      ],
+      "url": "https://raw.githubusercontent.com/XiaoMi/mobilevlm/HEAD/README.md"
     },
     {
       "method": "huggingface_api",

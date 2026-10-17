@@ -29,7 +29,7 @@
     }
   },
   "environments": [
-    "unspecified"
+    "web"
   ],
   "evidence": [
     {
@@ -46,6 +46,32 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:36Z",
+      "role": "primary",
+      "sha256": "aeacc1a41bb90f3d296823356174fe77d1547ffbe7cd56652cf9d98fca09206c",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "topics"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:35:59Z",
+      "role": "primary",
+      "sha256": "8cfab6fca80090adb47c4ef634f89eedd49a6204dbdc2b5b8e0d6f04c32db289",
+      "supports": [
+        "summary",
+        "environments",
+        "scope",
+        "notes"
+      ],
+      "url": "https://raw.githubusercontent.com/UniPat-AI/SaaS-Bench/HEAD/README.md"
     }
   ],
   "id": "arxiv:2605.15777",
@@ -62,18 +88,25 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2605.15777"
     }
   ],
   "name": "SaaS-Bench: Can Computer-Use Agents Leverage Real-World SaaS to Solve Professional Workflows?",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "The complete retained official abstract and cached official README were reviewed. The README establishes browser execution against running SaaS applications; no repository code was executed and benchmark results were not independently reproduced.",
   "published_at": "2026-05-15",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "SaaS-Bench evaluates browser agents on professional workflows across self-hosted applications. Weighted checkpoints measure task completion and partial progress, with application-state checks and configured content judges documented in the official harness.",
+  "topics": [
+    "web-navigation",
+    "evaluation",
+    "long-horizon",
+    "workflow",
+    "cross-app",
+    "state-tracking"
+  ],
   "updated_at": "2026-05-24",
   "url": "https://arxiv.org/abs/2605.15777"
 }

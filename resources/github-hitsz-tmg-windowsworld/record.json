@@ -2,6 +2,47 @@
   "aliases": [],
   "authors": [],
   "details": {
+    "benchmark_protocol": {
+      "actions": [
+        "PyAutoGUI",
+        "UiPath Computer_13 action interface"
+      ],
+      "counts": [
+        {
+          "basis": "reported",
+          "evidence_url": "https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md",
+          "population": "WindowsWorld benchmark described in the retained README",
+          "qualifier": "exact",
+          "unit": "tasks",
+          "value": 181
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md",
+          "population": "WindowsWorld coverage described in the retained README",
+          "qualifier": "exact",
+          "unit": "desktop applications",
+          "value": 17
+        }
+      ],
+      "evaluation": "Publisher distinguishes S_int (intermediate checkpoint score on L1–L3) and S_final (final completion on L1–L4). Documented step budgets are 15/25/40/20 for L1/L2/L3/L4. Preserve level, observation mode, agent interface and checkpoint/final metric when reporting a run.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md",
+        "https://api.github.com/repos/HITsz-TMG/WindowsWorld/git/trees/main?recursive=1"
+      ],
+      "focus": [
+        "multi-application Windows workflows",
+        "intermediate-state and final-goal completion"
+      ],
+      "notes": "Interactive VMware/Windows environment. The public repository includes benchmark.json, task/evaluator code and monitoring support; the README refers VM import to Installation Guide.md, whose distribution links and payloads were not inspected for this profile. Checkpoint counts and application counts are not extra tasks. Apache-2.0 is recorded for repository code; Windows, apps and VM artifacts retain separate terms.",
+      "observations": [
+        "screenshot",
+        "accessibility tree",
+        "screenshot plus accessibility tree",
+        "set-of-marks"
+      ],
+      "setting": "interactive"
+    },
     "evaluation_type": null,
     "leaderboard_url": null,
     "metrics": [],
@@ -23,9 +64,20 @@
         "environments",
         "topics",
         "scope",
-        "relations"
+        "relations",
+        "details.benchmark_protocol"
       ],
       "url": "https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:14:05Z",
+      "role": "primary",
+      "sha256": "490c9257d56f0a5214e6424e02490379b0b00ca2f7d4626fd5d14e17239d05ed",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://api.github.com/repos/HITsz-TMG/WindowsWorld/git/trees/main?recursive=1"
     },
     {
       "method": "license_header",

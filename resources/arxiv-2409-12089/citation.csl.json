@@ -7,14 +7,14 @@
   "custom": {
     "catalog_id": "arxiv:2409.12089",
     "catalog_kind": "paper",
-    "catalog_review_status": "metadata_verified",
+    "catalog_review_status": "curated",
     "canonical_source_url": "https://arxiv.org/abs/2409.12089",
     "identifiers": {
       "arxiv": "2409.12089"
     },
     "first_published_at": "2024-09-18",
     "record_updated_at": "2024-10-06",
-    "catalog_scope": "relevance_pending",
+    "catalog_scope": "core",
     "arxiv_snapshot": {
       "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
       "abstract_sha256": "a2f59976cec7adb9f9c88bd79bdfbeed040e4874b6d9ab0c229136f98101aa98",

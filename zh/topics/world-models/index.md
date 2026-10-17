@@ -24,6 +24,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/world-models/
   Introduces GUI-CC, a benchmark for assessing GUI world models as multi-step agent environments. Separate reference-action and agent-loop tracks test whether generated screens preserve context, plausible transitions, and task progress throughout interaction.
 - [WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning](https://awesomecua.github.io/resources/arxiv-2608-27508/) — 2026-08-27
   Uses learned world models for mobile-agent training rollouts and for reasoning about the consequences of candidate GUI actions.
+- [AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents](https://awesomecua.github.io/resources/arxiv-2608-05891/) — 2026-08-06
+  AppDeltaWorld predicts executable code updates for the next mobile UI state, using transition-constrained retrieval and rendered visual assets. It evaluates reconstruction fidelity separately from policy training and adaptation using generated environments.
 - [Scaling GUI Agents with Visual State Transitions](https://awesomecua.github.io/resources/arxiv-2607-24112/) — 2026-07-27
   Introduces State Transition Pretraining, which jointly learns to infer actions from GUI changes and predict future states from current screens and actions. Subsequent instruction-trajectory fine-tuning tests whether these representations transfer to desktop and mobile agent tasks.
 - [EvoGUI: An Evolution-Aware Benchmark for GUI State-Transition Understanding](https://awesomecua.github.io/resources/arxiv-2607-17050/) — 2026-07-19

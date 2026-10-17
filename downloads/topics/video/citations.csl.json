@@ -1709,5 +1709,66 @@
     "title": "DigitalCoach: Communication and Grounding Gaps in Human and Agentic Computer Use Coaching",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2609.27461v1",
+    "archive": "arXiv",
+    "archive_location": "2609.27461",
+    "author": [
+      {
+        "literal": "Zeyu Zhang"
+      },
+      {
+        "literal": "Dingyi Rong"
+      },
+      {
+        "literal": "Zijian Chen"
+      },
+      {
+        "literal": "Zicheng Zhang"
+      },
+      {
+        "literal": "Xiongkuo Min"
+      },
+      {
+        "literal": "Guangtao Zhai"
+      }
+    ],
+    "citation-key": "arxiv_2609_27461",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3a89489bb1ff3001a1d806c3eefd8a6aa19503d1dfbe0265b916766119f96ec2",
+        "submitted_at": "2026-09-23T07:27:23Z",
+        "updated_at": "2026-09-23T07:27:23Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.27461v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.27461",
+      "catalog_id": "arxiv:2609.27461",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-23",
+      "identifiers": {
+        "arxiv": "2609.27461"
+      },
+      "record_updated_at": "2026-09-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.27461",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-23; Recorded arXiv version: v1; Recorded version updated: 2026-09-23T07:27:23Z.",
+    "title": "Invisible in Space, Visible in Time: Motion Vision CAPTCHA against GUI Agents",
+    "type": "article",
+    "version": "1"
   }
 ]

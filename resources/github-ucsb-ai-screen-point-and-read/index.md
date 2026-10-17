@@ -29,3 +29,5 @@ The canonical repository now belongs to UCSB-AI. Its README lists additional set
 
 - https://raw.githubusercontent.com/eric-ai-lab/Screen-Point-and-Read/HEAD/README.md (retrieved 2026-10-16T10:43:11Z; SHA-256 7567287ceee0ad2d3d5605abb44ac50463c1008f9b6309393695763cf2ce89bb)
 - https://raw.githubusercontent.com/UCSB-AI/Screen-Point-and-Read/HEAD/LICENSE (retrieved 2026-10-16T10:48:42Z; SHA-256 4748fb7d92f7a3a2a4a93353db96f6a2df547e5ea9ae87afa811c5423e96f363)
+- https://api.github.com/repos/eric-ai-lab/Screen-Point-and-Read (retrieved 2026-10-17T14:14:01Z; SHA-256 868e18717ff76355c6552a5629b15de9fed1add1262fa5801ecabd7a7fb333d4)
+- https://api.github.com/repos/UCSB-AI/Screen-Point-and-Read (retrieved 2026-10-17T14:14:02Z; SHA-256 868e18717ff76355c6552a5629b15de9fed1add1262fa5801ecabd7a7fb333d4)

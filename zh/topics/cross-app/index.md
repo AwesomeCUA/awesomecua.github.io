@@ -22,6 +22,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/cross-app/rec
   MyPCBench tests personal-assistant tasks on a Linux desktop with simulated web applications and data for a single fictional persona. A shared computer-and-shell interface enables evaluation of cross-application workflows that depend on personal context and account-like state.
 - [iOSWorld: A Benchmark for Personally Intelligent Phone Agents](https://awesomecua.github.io/resources/arxiv-2606-09764/) — 2026-06-08
   Introduces a native iOS simulator benchmark with persistent user data, multi-app tasks, and personalization-dependent phone workflows.
+- [SaaS-Bench: Can Computer-Use Agents Leverage Real-World SaaS to Solve Professional Workflows?](https://awesomecua.github.io/resources/arxiv-2605-15777/) — 2026-05-15
+  SaaS-Bench evaluates browser agents on professional workflows across self-hosted applications. Weighted checkpoints measure task completion and partial progress, with application-state checks and configured content judges documented in the official harness.
 - [WindowsWorld: A Process-Centric Benchmark of Autonomous GUI Agents in Professional Cross-Application Environments](https://awesomecua.github.io/resources/arxiv-2604-27776/) — 2026-04-30
   Introduces WindowsWorld for professional workflows spanning multiple desktop applications, with generated tasks refined through human review. Intermediate subgoals support process-oriented evaluation of cross-application reasoning and execution efficiency.
 - [UI-Mem: Self-Evolving Experience Memory for Online Reinforcement Learning in Mobile GUI Agents](https://awesomecua.github.io/resources/arxiv-2602-05832/) — 2026-02-05

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "kind": "benchmark",
-  "profile_count": 44,
+  "profile_count": 57,
   "curated_resource_count": 79,
   "unit": "resource profile; count observations retain their own units and populations",
   "limitations": "Source-reviewed descriptions and reported or computed inventory counts. No performance ranking, independent reproduction, or global-completeness claim.",
@@ -84,6 +84,119 @@
             "details.benchmark_protocol"
           ],
           "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending"
+        }
+      ]
+    },
+    {
+      "id": "github:androidarenaagent/androidarena",
+      "name": "AndroidArena",
+      "url": "https://github.com/AndroidArenaAgent/AndroidArena",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "actions": [
+          "app launch/stop",
+          "click/double-click/long-click",
+          "text input",
+          "swipe/drag and Android navigation",
+          "finish"
+        ],
+        "counts": [],
+        "evaluation": "The released evaluator compares trajectories with reference actions using longest-common-subsequence-based task reward and completion. Its reversed redundancy metric is the reference/predicted action-length ratio (with 1e-6 denominator smoothing), multiplied by the LLM success flag. LLM success judgments and instruction-constraint checks are separate metrics. Full reference-dependent evaluation coverage cannot be assumed because complete annotated action sequences are not released.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/AndroidArenaAgent/AndroidArena/HEAD/README.md",
+          "https://raw.githubusercontent.com/AndroidArenaAgent/AndroidArena/HEAD/android_env2/README.md",
+          "https://api.github.com/repos/AndroidArenaAgent/AndroidArena/git/trees/main?recursive=1",
+          "https://raw.githubusercontent.com/AndroidArenaAgent/AndroidArena/HEAD/android_env2/observation.py",
+          "https://raw.githubusercontent.com/AndroidArenaAgent/AndroidArena/HEAD/android_env2/actions.py",
+          "https://raw.githubusercontent.com/AndroidArenaAgent/AndroidArena/HEAD/run_evaluator.py"
+        ],
+        "focus": [
+          "multi-step Android tasks",
+          "cross-app workflows and instruction constraints"
+        ],
+        "notes": "README states that task instructions are released but annotated action sequences, apart from the calendar example, will come later. Environment setup targets Android API 33 with uiautomator2 and manual Google-account setup. Public task YAML and evaluator code exist, but benchmark execution and full reference coverage were not verified. No task total is derived from app YAML file counts. Code and data licenses remain unknown.",
+        "observations": [
+          "UI hierarchy text",
+          "screenshots",
+          "combined text/image observations"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:35:58Z",
+          "role": "primary",
+          "sha256": "206bd0dc5220cf754cffc97767cce6a3cd27660ef050a569366bef2331241c60",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/AndroidArenaAgent/AndroidArena/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:21:10Z",
+          "role": "primary",
+          "sha256": "a1e7dc0c5facae030c2cf19aad6511996e7e1198d8d6619268d10c29a1b57bcf",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/AndroidArenaAgent/AndroidArena/HEAD/android_env2/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:14:05Z",
+          "role": "primary",
+          "sha256": "edc03388b67143644db4a412e4c888f8c796068daff29f63615f0b6a3a04262a",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://api.github.com/repos/AndroidArenaAgent/AndroidArena/git/trees/main?recursive=1"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:24:52Z",
+          "role": "primary",
+          "sha256": "cfa9d272c85398f54c18d6e7445d680009e8c16d128962235d899592d3094c2f",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/AndroidArenaAgent/AndroidArena/HEAD/android_env2/observation.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:24:53Z",
+          "role": "primary",
+          "sha256": "d25f2edf9202f59615341b62fc6046ac23a6f4cb072a6038ac562506cbdc891c",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/AndroidArenaAgent/AndroidArena/HEAD/android_env2/actions.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:21:10Z",
+          "role": "primary",
+          "sha256": "257c42e980a0b14bd74bfcc381a0ecbef2b538c0f1cc1a94d22925efe354fb8e",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/AndroidArenaAgent/AndroidArena/HEAD/run_evaluator.py"
         }
       ]
     },
@@ -432,6 +545,243 @@
       ]
     },
     {
+      "id": "github:jylee425/b-moca",
+      "name": "B-MoCA",
+      "url": "https://github.com/jylee425/b-moca",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "actions": [
+          "normalized touch/lift coordinate pairs for tap or swipe"
+        ],
+        "counts": [
+          {
+            "basis": "computed",
+            "evidence_url": "https://api.github.com/repos/jylee425/b-moca/git/trees/release/ver.3?recursive=1",
+            "population": "asset/tasks/**/*.textproto in retained release/ver.3 tree; not a paper test-task total",
+            "qualifier": "exact",
+            "unit": "task-definition files",
+            "value": 131
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_train.csv",
+            "population": "environments_train.csv, retained release/ver.3 snapshot",
+            "qualifier": "exact",
+            "unit": "environment configuration rows",
+            "value": 35
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_test.csv",
+            "population": "environments_test.csv, retained release/ver.3 snapshot",
+            "qualifier": "exact",
+            "unit": "environment configuration rows",
+            "value": 10
+          }
+        ],
+        "evaluation": "Task success is detected using Appium; positive task reward terminates the episode. Environment variants change device/locale/wallpaper/DPI/dark mode and are loaded as snapshots. The numeric action interface is (touch_y, touch_x, lift_y, lift_x); wrapper/tanh transformations must be kept with the evaluated agent.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/readme.md",
+          "https://api.github.com/repos/jylee425/b-moca/git/trees/release/ver.3?recursive=1",
+          "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/bmoca/environment/coordinator.py",
+          "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/bmoca/environment/environment.py",
+          "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_train.csv",
+          "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_test.csv"
+        ],
+        "focus": [
+          "Android control across visual/device variation",
+          "generalization across environment snapshots"
+        ],
+        "notes": "Current source inventory differs in grain from published experiment subsets: do not multiply 131 definitions by 35/10 configuration rows or label the product as evaluated tasks. Setup requires Android API 29, Appium, external app versions and generated AVD snapshots. No apps/snapshots were downloaded or run. Code Apache-2.0 does not establish data or app rights.",
+        "observations": [
+          "screenshot pixels",
+          "XML view hierarchy",
+          "goal instruction"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "Apache-2.0",
+          "retrieved_at": "2026-10-16T06:41:58Z",
+          "url": "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:35:58Z",
+          "role": "primary",
+          "sha256": "bd1354c8008d7d79d4883c0c037b7918392f86fab61391b39b52e507b04672ce",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/readme.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:14:05Z",
+          "role": "primary",
+          "sha256": "06ba40a5e0d5fb52e7bf5e5df636cb8e8bbbc56a8308dc6d528012489f7650ee",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://api.github.com/repos/jylee425/b-moca/git/trees/release/ver.3?recursive=1"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:24:53Z",
+          "role": "primary",
+          "sha256": "34bc0c23949732e0a8091e334d59d2d41cae49a82cde850247aa0e6d739d2464",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/bmoca/environment/coordinator.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:21:10Z",
+          "role": "primary",
+          "sha256": "d866af344c0cff5255b813576f2e9e9c5c2964e6809058b39e2b5180af71d946",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/bmoca/environment/environment.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:23:14Z",
+          "role": "primary",
+          "sha256": "c278cc28f8a0667b7fdc6ba638704cfbe43783cd496181231c45c865087543f3",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_train.csv"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:23:15Z",
+          "role": "primary",
+          "sha256": "4b92933fe4f4f66e71a694b579940db11bedd5ea8f153752a44e633825b06fa3",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/jylee425/b-moca/HEAD/asset/environments/config/environments_test.csv"
+        }
+      ]
+    },
+    {
+      "id": "github:servicenow/browsergym",
+      "name": "BrowserGym",
+      "url": "https://github.com/ServiceNow/BrowserGym",
+      "environments": [
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "element-ID actions",
+          "coordinate mouse and keyboard actions",
+          "tab/navigation/scroll operations",
+          "Python/Playwright action mode"
+        ],
+        "counts": [],
+        "evaluation": "Gymnasium reset/step interface delegates reward, completion, messages and task info to each adapter’s validate() method. There is no universal BrowserGym success metric or shared task total; retain benchmark/adapter version and action subset for comparisons.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/ServiceNow/BrowserGym/HEAD/README.md",
+          "https://raw.githubusercontent.com/ServiceNow/BrowserGym/HEAD/browsergym/core/src/browsergym/core/env.py",
+          "https://raw.githubusercontent.com/ServiceNow/BrowserGym/HEAD/docs/src/core/action_space.rst",
+          "https://api.github.com/repos/ServiceNow/BrowserGym/git/trees/main?recursive=1"
+        ],
+        "focus": [
+          "shared browser-agent evaluation interface",
+          "benchmark adapters with separate task definitions"
+        ],
+        "notes": "A framework with interactive browser adapters and a static WebLINX evaluation integration, so the profile setting is mixed. README-listed integrations are not added as disjoint tasks or datasets. Core requires Playwright/Chromium; individual benchmarks have their own setup, credentials, licenses and validation rules. Apache-2.0 covers repository code only. No browser tasks or third-party project code were executed.",
+        "observations": [
+          "browser screenshot",
+          "DOM snapshot",
+          "accessibility tree",
+          "tab/URL state",
+          "previous action and its error",
+          "chat messages and task goal"
+        ],
+        "setting": "mixed"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "Apache-2.0",
+          "retrieved_at": "2026-10-16T06:41:57Z",
+          "url": "https://raw.githubusercontent.com/ServiceNow/BrowserGym/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:35:57Z",
+          "role": "primary",
+          "sha256": "7b685115ef822989fac9093518d16c46f0202736d005eed56e7f9fc36b43f3ee",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/ServiceNow/BrowserGym/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:22:05Z",
+          "role": "primary",
+          "sha256": "867cc6efdfead356839fef8a26b492502b8b5e3d165d1b3c17d24aaeec268d63",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/ServiceNow/BrowserGym/HEAD/browsergym/core/src/browsergym/core/env.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:21:11Z",
+          "role": "primary",
+          "sha256": "c4bbe6b7d0cb36a5d5effab1aa5568301cead97fe4015273e1b82c667da3823a",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/ServiceNow/BrowserGym/HEAD/docs/src/core/action_space.rst"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:14:08Z",
+          "role": "primary",
+          "sha256": "418efbe8c65ad7ebab61d3a066339876c820a9c957506eb456b8078ab352f6bf",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://api.github.com/repos/ServiceNow/BrowserGym/git/trees/main?recursive=1"
+        }
+      ]
+    },
+    {
       "id": "github:madeagents/colorbench",
       "name": "ColorBench",
       "url": "https://github.com/MadeAgents/ColorBench",
@@ -774,6 +1124,112 @@
             "licenses.data"
           ],
           "url": "https://huggingface.co/datasets/wwh0411/FedMABench/raw/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "github:ant-research/guihallubench",
+      "name": "GUIHalluBench",
+      "url": "https://github.com/ant-research/GUIHalluBench",
+      "environments": [
+        "cross-platform"
+      ],
+      "profile": {
+        "actions": [
+          "list of UI element boxes [x1,y1,x2,y2] and text descriptions"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/README.md",
+            "population": "English annotation subset reported by README",
+            "qualifier": "exact",
+            "unit": "page-annotation entries",
+            "value": 1000
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/README.md",
+            "population": "Chinese annotation subset reported by README",
+            "qualifier": "exact",
+            "unit": "page-annotation entries",
+            "value": 1000
+          }
+        ],
+        "evaluation": "Metrics use greedy one-to-one matching in descending IoU order, then micro precision/recall/F1 and lowercased difflib.SequenceMatcher description similarity on matched pairs. Actual metrics.py accepts IoU >= 0.5 at its default threshold; README prose says > 0.5. Predictions align to annotations by image_path; callers must supply complete prediction coverage because missing predictions are not independently enumerated by evaluate_dataset.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/README.md",
+          "https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/src/metrics.py",
+          "https://api.github.com/repos/ant-research/GUIHalluBench/git/trees/master?recursive=1",
+          "https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/LEGAL.md",
+          "https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/.gitattributes"
+        ],
+        "focus": [
+          "GUI page-element detection",
+          "element-description consistency"
+        ],
+        "notes": "Each annotation entry represents a page, not one UI element. README’s illustrative num_samples=4796 output is not adopted as a corpus count. Public tree contains both annotation JSON files and an images.tar.gz Git-LFS pointer; payload availability/integrity was not tested by downloading images. LEGAL.md only governs comment-language precedence, not a code/data license grant; both slots remain unknown. No benchmark run was performed.",
+        "observations": [
+          "page screenshot"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:35:59Z",
+          "role": "primary",
+          "sha256": "d9c476d6960a4ef99e20d4c3b5d35a63f3ae5e61fc20e9dea00b11e64b74c9e9",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:21:09Z",
+          "role": "primary",
+          "sha256": "f36707dfcd3e83fc9d7f57b50d0c27007801e5029cc1ac255e000560ecf778fc",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/src/metrics.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:14:07Z",
+          "role": "primary",
+          "sha256": "c0896bc90d515b7bd8fe86b062aeb199bd47570e6eca8474986f5b1ef1d98dbd",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://api.github.com/repos/ant-research/GUIHalluBench/git/trees/master?recursive=1"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:21:09Z",
+          "role": "primary",
+          "sha256": "adba50d9794b9ef3f7ec8cbc680f7f1fa3fbf9df0ac8d1f9b9ccab6d941bc11b",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/LEGAL.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:34:56Z",
+          "role": "primary",
+          "sha256": "8f35fa75be42a7a53e4f96de1b62be84962d2cf1beb8b23dfcfaecfaea4a6b90",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/ant-research/GUIHalluBench/HEAD/.gitattributes"
         }
       ]
     },
@@ -1733,6 +2189,112 @@
       ]
     },
     {
+      "id": "github:jylee425/mobilesafetybench",
+      "name": "MobileSafetyBench",
+      "url": "https://github.com/jylee425/mobilesafetybench",
+      "environments": [
+        "android"
+      ],
+      "profile": {
+        "actions": [
+          "tap/long-tap/swipe",
+          "navigation buttons and text editing",
+          "refuse, ask-consent and complete",
+          "task-specific shortcut actions"
+        ],
+        "counts": [],
+        "evaluation": "Appium-backed task evaluators track goal achievement and harm prevention as separate booleans, plus risk-detection step and completion progress. The base evaluator defaults to max_step=15; task-specific overrides must be retained. Results are not a single generic success-rate metric.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/jylee425/mobilesafetybench/HEAD/README.md",
+          "https://api.github.com/repos/jylee425/mobilesafetybench/git/trees/release/ver.3?recursive=1",
+          "https://raw.githubusercontent.com/jylee425/mobilesafetybench/HEAD/mobile_safety/environment.py",
+          "https://raw.githubusercontent.com/jylee425/mobilesafetybench/HEAD/mobile_safety/component/parser.py",
+          "https://raw.githubusercontent.com/jylee425/mobilesafetybench/HEAD/mobile_safety/evaluator/_base_evaluator.py"
+        ],
+        "focus": [
+          "mobile task helpfulness",
+          "harm prevention during Android interaction"
+        ],
+        "notes": "Inspected release/ver.3 branch exposes task definitions, Android environment and per-task evaluators. It requires Android API 34, Appium/ADB and documented third-party app versions; those APKs/accounts were not acquired. The action parser includes semantic shortcuts in addition to screen gestures, so this is not a strictly coordinate-only action setting. No corpus task total is inferred from evaluator-module or file counts. Apache-2.0 applies to repository code, not automatically app/data assets.",
+        "observations": [
+          "screenshot pixels",
+          "parsed UI hierarchy text",
+          "task instruction and interaction history"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "Apache-2.0",
+          "retrieved_at": "2026-10-16T06:41:58Z",
+          "url": "https://raw.githubusercontent.com/jylee425/mobilesafetybench/HEAD/LICENSE.txt"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:35:58Z",
+          "role": "primary",
+          "sha256": "e733115d9b2fbe910cb3891162f04a89af8cbda25255c8f0bf60f78101e4309a",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/jylee425/mobilesafetybench/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:14:05Z",
+          "role": "primary",
+          "sha256": "8dc66f6c5087a32c5c9fb7b3104ea6f9e0082255e2ba3cf9ba8244ce5a24da6f",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://api.github.com/repos/jylee425/mobilesafetybench/git/trees/release/ver.3?recursive=1"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:21:09Z",
+          "role": "primary",
+          "sha256": "f56d6345546a9c67a2113cfba5b7148f5bd6b48fac5c34f1a5f4080e2d81ae2f",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/jylee425/mobilesafetybench/HEAD/mobile_safety/environment.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:21:10Z",
+          "role": "primary",
+          "sha256": "120487c3a6492371321dd3eebcd65dc59de6a82454d622d7fed3a7d86b8fa6c5",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/jylee425/mobilesafetybench/HEAD/mobile_safety/component/parser.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:23:14Z",
+          "role": "primary",
+          "sha256": "918e3aa64ab3f578fb54580da123c1ff4508022b64ce74f88ce28c7a612756a4",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/jylee425/mobilesafetybench/HEAD/mobile_safety/evaluator/_base_evaluator.py"
+        }
+      ]
+    },
+    {
       "id": "github:tongyi-mai/mobileworld",
       "name": "MobileWorld (Tongyi-MAI)",
       "url": "https://github.com/Tongyi-MAI/MobileWorld",
@@ -1808,6 +2370,122 @@
             "details"
           ],
           "url": "https://raw.githubusercontent.com/Tongyi-MAI/MobileWorld/HEAD/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:849a86beaee006c6b147",
+      "name": "OmniAct",
+      "url": "https://huggingface.co/datasets/Writer/omniact",
+      "environments": [
+        "desktop",
+        "web"
+      ],
+      "profile": {
+        "actions": [
+          "PyAutoGUI script: pointer movement/click/drag, key presses, hotkeys, and text entry"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md",
+            "population": "train split, HF revision 5e4bcb26",
+            "qualifier": "exact",
+            "unit": "task examples",
+            "value": 6788
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md",
+            "population": "test split, HF revision 5e4bcb26",
+            "qualifier": "exact",
+            "unit": "task examples",
+            "value": 2020
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md",
+            "population": "val split, HF revision 5e4bcb26",
+            "qualifier": "exact",
+            "unit": "task examples",
+            "value": 991
+          }
+        ],
+        "evaluation": "The bundled evaluator reports weighted sequence match and action match, comparing action types and applying coordinate, key, and writing penalties. Target element-box metadata is evaluation-only. The retained scorer has a click-penalty defect: predicted coordinates are read from gold_line, so score reproduction requires explicit scorer-version review.",
+        "evidence_urls": [
+          "https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md",
+          "https://huggingface.co/api/datasets/Writer/omniact",
+          "https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/eval.py"
+        ],
+        "focus": [
+          "offline desktop/web action-script generation"
+        ],
+        "notes": "This released split table totals 9,799 examples; it is not silently substituted for any paper-level collection size. Public files include train/test/val JSON indexes, task/image archives, and eval.py. Evaluation is offline script comparison, not execution success on a live desktop. MIT is the Hub data declaration; original app/content rights are not resolved by it.",
+        "observations": [
+          "screenshot",
+          "natural-language task"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card",
+          "declared": "mit",
+          "retrieved_at": "2026-10-16T06:38:27Z",
+          "url": "https://huggingface.co/datasets/Writer/omniact"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:38:27Z",
+          "role": "primary",
+          "sha256": "2db0a5dd2b983dded3b90a8ecd66cadbb39074f03778a339822418531661b3e3",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/api/datasets/Writer/omniact"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:10:00Z",
+          "role": "primary",
+          "sha256": "7b54ad557f89d621fe39c3d2fe9f02164a2bfcb7fef0db610d964586d3673693",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:22:06Z",
+          "role": "primary",
+          "sha256": "a786de678af46df5e2b6b1a2a69d2ee239fe8fd5b63663765d84d39e21fc2365",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/datasets/Writer/omniact/raw/5e4bcb26745afc8d58ba9519ea9c9fb832386d26/eval.py"
+        },
+        {
+          "method": "huggingface_api",
+          "retrieved_at": "2026-10-16T06:38:27Z",
+          "role": "primary",
+          "sha256": "2db0a5dd2b983dded3b90a8ecd66cadbb39074f03778a339822418531661b3e3",
+          "supports": [
+            "details",
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/api/datasets/Writer/omniact"
         }
       ]
     },
@@ -1960,6 +2638,150 @@
             "details.benchmark_protocol"
           ],
           "url": "https://huggingface.co/datasets/OS-Copilot/OS-Critic-Bench/raw/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "github:tml-epfl/os-harm",
+      "name": "OS-Harm",
+      "url": "https://github.com/tml-epfl/os-harm",
+      "environments": [
+        "desktop"
+      ],
+      "profile": {
+        "actions": [
+          "OSWorld/PyAutoGUI desktop interaction"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/README.md",
+            "population": "reported benchmark total; not a recount of unique released task IDs",
+            "qualifier": "exact",
+            "unit": "tasks as reported by the paper/README",
+            "value": 150
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_misuse.json",
+            "population": "released misuse task-ID list; before injection/goal expansion",
+            "qualifier": "exact",
+            "unit": "task IDs",
+            "value": 50
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_injection.json",
+            "population": "released injection task-ID list; before injection/goal expansion",
+            "qualifier": "exact",
+            "unit": "task IDs",
+            "value": 10
+          },
+          {
+            "basis": "computed",
+            "evidence_url": "https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_misbehavior.json",
+            "population": "released misbehavior task-ID list; before injection/goal expansion",
+            "qualifier": "exact",
+            "unit": "task IDs",
+            "value": 50
+          }
+        ],
+        "evaluation": "Automated LLM judge scores both task accuracy and safety from saved execution traces. Keep judge model/prompt version and harm category with a result; the scripts separately compute predicted metrics. This is an interactive desktop safety benchmark, not a single offline grounding score.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/README.md",
+          "https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/run.py",
+          "https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_misuse.json",
+          "https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_injection.json",
+          "https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_misbehavior.json"
+        ],
+        "focus": [
+          "deliberate misuse",
+          "prompt-injection safety",
+          "unintended harmful behavior during normal tasks"
+        ],
+        "notes": "README/paper reports 150 tasks, whereas retained misuse/injection/misbehavior lists contain 50/10/50 IDs. run.py expands injection vectors/goals, so the released ID inventory is not a direct recount of paper settings; the complete expanded total was not reconstructed. Judge agreement F1 values in the README measure agreement with human labels, not agent success. Experiments use OSWorld desktop apps, with VMware documented as tested and screenshot/a11y/SOM observation choices. Code Apache-2.0 does not establish VM/app/data rights. Publisher asks that the benchmark not be used directly as agent training data.",
+        "observations": [
+          "screenshot",
+          "accessibility tree",
+          "screenshot plus accessibility tree",
+          "set-of-marks"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "Apache-2.0",
+          "retrieved_at": "2026-10-16T09:39:34Z",
+          "url": "https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T09:36:33Z",
+          "role": "primary",
+          "sha256": "d001158f58ac37b01c8470224db1567a52feb8010877305f7966637cf7400706",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details",
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:23:14Z",
+          "role": "primary",
+          "sha256": "86dd59a252fd654fc3244268a75de37b2c7f97e16f6b1de8c4cf885458a422f7",
+          "supports": [
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/run.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:22:04Z",
+          "role": "primary",
+          "sha256": "8ff6092a51cc924c5225ace01c011c6481a2461eb0a47b7360eddaf6619b898c",
+          "supports": [
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_misuse.json"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:22:04Z",
+          "role": "primary",
+          "sha256": "b4c451236bb4ff36eb7e790dfa8cb517bffb245602bc441080314b13c8aba54f",
+          "supports": [
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_injection.json"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:22:05Z",
+          "role": "primary",
+          "sha256": "8eb6bade72696c3c0b53160a05b006a773c9e553ab5e401418b54d9acc98c0f2",
+          "supports": [
+            "details.benchmark_protocol",
+            "notes"
+          ],
+          "url": "https://raw.githubusercontent.com/tml-epfl/os-harm/HEAD/evaluation_examples/test_misbehavior.json"
         }
       ]
     },
@@ -2165,6 +2987,98 @@
       ]
     },
     {
+      "id": "github:xlang-ai/osworld-g",
+      "name": "OSWorld-G",
+      "url": "https://github.com/xlang-ai/OSWorld-G",
+      "environments": [
+        "desktop"
+      ],
+      "profile": {
+        "actions": [
+          "click point or box center",
+          "refusal represented by negative coordinates in the evaluator"
+        ],
+        "counts": [],
+        "evaluation": "The inspected Jedi runner maps predictions from resized-image coordinates back to the original image, then checks the predicted center against rectangle/polygon targets or the refusal rule. It reports overall and classification-group accuracy. This is offline grounding, not OSWorld task-execution success.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/xlang-ai/OSWorld-G/HEAD/README.md",
+          "https://api.github.com/repos/xlang-ai/OSWorld-G/git/trees/main?recursive=1",
+          "https://raw.githubusercontent.com/xlang-ai/OSWorld-G/HEAD/evaluation/qwen25_vllm_osworld_g_jedi.py",
+          "https://raw.githubusercontent.com/xlang-ai/OSWorld-G/HEAD/evaluation/eval.py"
+        ],
+        "focus": [
+          "desktop GUI grounding",
+          "infeasible-target refusal"
+        ],
+        "notes": "The repository retains original OSWorld-G.json and refined OSWorld-G_refined.json instructions; treat them as alternative benchmark versions, not additional disjoint tasks. Refined instructions reduce requirements beyond grounding. The same repository also contains Jedi training/rendering material, which is excluded from benchmark counts. The standalone generic eval.py entry point is a stub; the named model runner supplies image_size to its geometry helper. No task count or successful execution is inferred from repository file totals. Apache-2.0 is recorded for code only.",
+        "observations": [
+          "screenshot",
+          "instruction"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "Apache-2.0",
+          "retrieved_at": "2026-10-16T06:41:57Z",
+          "url": "https://raw.githubusercontent.com/xlang-ai/OSWorld-G/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:35:57Z",
+          "role": "primary",
+          "sha256": "e814851bc3016a2abf59358f99b80afd9c2bd5894fc34baddfb7e4d0aa03bd45",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/xlang-ai/OSWorld-G/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:14:05Z",
+          "role": "primary",
+          "sha256": "48308bba4f26b02cb7b8fbbc433bb31ec81c494dabd3af437ddbb10b8d9ce667",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://api.github.com/repos/xlang-ai/OSWorld-G/git/trees/main?recursive=1"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:22:04Z",
+          "role": "primary",
+          "sha256": "64f64e0b847e0fa200aa6051e20b8035a436df00e2ef0d769688ab13fa4d3046",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/xlang-ai/OSWorld-G/HEAD/evaluation/qwen25_vllm_osworld_g_jedi.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:21:09Z",
+          "role": "primary",
+          "sha256": "b85f5685ce6c200ea648471666177859693d7f40cf50c12d08765ae68580de4a",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/xlang-ai/OSWorld-G/HEAD/evaluation/eval.py"
+        }
+      ]
+    },
+    {
       "id": "github:wuklab/osworld-human",
       "name": "OSWorld-Human",
       "url": "https://github.com/WukLab/osworld-human",
@@ -2213,6 +3127,80 @@
             "details"
           ],
           "url": "https://raw.githubusercontent.com/WukLab/osworld-human/HEAD/README.md"
+        }
+      ]
+    },
+    {
+      "id": "github:microsoft/precision-cua-bench",
+      "name": "Precision CUA Bench",
+      "url": "https://github.com/microsoft/precision-cua-bench",
+      "environments": [
+        "cross-platform"
+      ],
+      "profile": {
+        "actions": [
+          "pixel (x,y) cursor coordinate"
+        ],
+        "counts": [],
+        "evaluation": "The inspected evaluator scales target boxes from a 1000×1000 reference grid into image pixels and tests pixel predictions, allowing ±10 pixels around the center along any target dimension narrower than 1 pixel after scaling. It reports cumulative hit accuracy by turn (earlier hits remain correct), miss distances, any-turn hit rate, and a correction rate whose denominator is all successfully processed samples. The default budget is five turns; retain prompt/feedback variant, turn budget, and processed/skipped coverage.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/microsoft/precision-cua-bench/HEAD/README.md",
+          "https://raw.githubusercontent.com/microsoft/precision-cua-bench/HEAD/eval/test_allturns_api.py",
+          "https://api.github.com/repos/microsoft/precision-cua-bench/git/trees/main?recursive=1"
+        ],
+        "focus": [
+          "pixel-precise editor cursor placement",
+          "multi-turn visual self-correction"
+        ],
+        "notes": "The release has four editor/theme JSONL partitions (Cursor/VS Code × dark/light) and screenshot files. Partitions are not train/test splits or independent task totals. README’s initial field table calls bbox pixel coordinates, but the evaluation-format section and actual ratio_h/ratio_w=dimension/1000 code use normalized target boxes; profile follows the inspected evaluator and retains the inconsistency. Source/images were not executed or downloaded as a dataset. MIT is recorded for repository code only.",
+        "observations": [
+          "code-editor screenshot",
+          "cursor-location instruction",
+          "red-cross feedback marking previous incorrect prediction"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "MIT",
+          "retrieved_at": "2026-10-16T06:41:59Z",
+          "url": "https://raw.githubusercontent.com/microsoft/precision-cua-bench/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:35:59Z",
+          "role": "primary",
+          "sha256": "84ad4fb798abb776dce813cf4dab296d6e03248d8ae29388e1f06cccd27d1241",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/microsoft/precision-cua-bench/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:21:08Z",
+          "role": "primary",
+          "sha256": "1fda7c3980fe7a7c373478eda6ecfabff227e92c2b1f19c6fe903b408f583797",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/microsoft/precision-cua-bench/HEAD/eval/test_allturns_api.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:14:06Z",
+          "role": "primary",
+          "sha256": "ede84e3dda47f80fada4234caa2423db08e21ff7667a37599c03aae657b2f84b",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://api.github.com/repos/microsoft/precision-cua-bench/git/trees/main?recursive=1"
         }
       ]
     },
@@ -2293,6 +3281,226 @@
             "details.benchmark_protocol"
           ],
           "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending"
+        }
+      ]
+    },
+    {
+      "id": "github:os-copilot/scienceboard",
+      "name": "ScienceBoard",
+      "url": "https://github.com/OS-Copilot/ScienceBoard",
+      "environments": [
+        "desktop"
+      ],
+      "profile": {
+        "actions": [
+          "PyAutoGUI desktop actions",
+          "code/tool commands and answer/stop actions according to configured agent mode"
+        ],
+        "counts": [
+          {
+            "basis": "computed",
+            "evidence_url": "https://api.github.com/repos/OS-Copilot/ScienceBoard/git/trees/main?recursive=1",
+            "population": "tasks/VM/**/*.json at tree 21b5eb0f; excludes tasks/Raw and tasks/Dual",
+            "qualifier": "exact",
+            "unit": "VM task definitions",
+            "value": 169
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/docs/verifier-audit.md",
+            "population": "VM suite: Celestia, ChimeraX, GrassGIS, KAlgebra, Lean, TeXstudio",
+            "qualifier": "exact",
+            "unit": "application families",
+            "value": 6
+          }
+        ],
+        "evaluation": "Application-specific verifiers inspect state, files, database values, equations, compilation or answer/stop conditions. The official audit records 242 verifier entries across its VM task suite. This profile covers the released VM task definitions; Docker smoke results and Raw/Dual alternatives are separate populations.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/README.md",
+          "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/docs/verifier-audit.md",
+          "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/docs/known-issues.md",
+          "https://api.github.com/repos/OS-Copilot/ScienceBoard/git/trees/main?recursive=1",
+          "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/sci/base/task.py"
+        ],
+        "focus": [
+          "scientific-software desktop workflows",
+          "GUI and code-assisted scientific tasks"
+        ],
+        "notes": "Manifest count 169 matches the official verifier audit. Other Raw/Dual definitions can represent alternative execution modes of the same problems and are not added. Official Docker migration documents a 20-task acceptance subset, not a full-suite performance result; legacy VMware remains. External service sign-in/rate limits, amd64 binaries and ChimeraX redistribution terms limit portability. Only code MIT is established; VM, scientific data and bundled apps need their own terms.",
+        "observations": [
+          "desktop screenshots",
+          "accessibility-tree observations",
+          "set-of-marks with accessibility tree"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "MIT",
+          "retrieved_at": "2026-10-16T06:41:59Z",
+          "url": "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:35:58Z",
+          "role": "primary",
+          "sha256": "4c3fe93aa740dbf4a279a246ddd836f2590a2a36f39b820abe166e38cb484577",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:21:10Z",
+          "role": "primary",
+          "sha256": "d276e11127abc5826bd1b2aa2caf543fcd45a8a60477774e8c8b1054067997ec",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/docs/verifier-audit.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:21:10Z",
+          "role": "primary",
+          "sha256": "4f90270617c0c1d58f523c0a7f2e4603fa67a49560d68e2f88cfa080d764313b",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/docs/known-issues.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:14:07Z",
+          "role": "primary",
+          "sha256": "3398670a517a5d1d71f420dd866493d3f8a77853e3933fd4928103f9a8be1e4f",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://api.github.com/repos/OS-Copilot/ScienceBoard/git/trees/main?recursive=1"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:35:24Z",
+          "role": "primary",
+          "sha256": "d6a1481b453c074e34739fd29def56efa35a1dc10e856418f557f067e9ff08c5",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/OS-Copilot/ScienceBoard/HEAD/sci/base/task.py"
+        }
+      ]
+    },
+    {
+      "id": "url:7abb418096432f56c685",
+      "name": "ScreenSpot",
+      "url": "https://huggingface.co/datasets/rootsautomation/ScreenSpot",
+      "environments": [
+        "cross-platform"
+      ],
+      "profile": {
+        "actions": [
+          "predicted click point; a predicted box is reduced to its center"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://huggingface.co/datasets/bevaya/ScreenSpot/raw/0be08781e2e188582f6131625ae1598d443b4d5d/README.md",
+            "population": "Hub test split at 0be08781; not unique screenshots",
+            "qualifier": "exact",
+            "unit": "instruction–target examples",
+            "value": 1272
+          }
+        ],
+        "evaluation": "The SeeClick evaluator scores whether the predicted point falls inside the target box, with platform and text/icon breakdowns. The Hub packaging uses xyxy boxes, whereas the original evaluator reads xywh and converts it; adapt the loader to the chosen release.",
+        "evidence_urls": [
+          "https://huggingface.co/datasets/bevaya/ScreenSpot/raw/0be08781e2e188582f6131625ae1598d443b4d5d/README.md",
+          "https://huggingface.co/api/datasets/rootsautomation/ScreenSpot",
+          "https://raw.githubusercontent.com/njucckevin/SeeClick/HEAD/pretrain/screenspot_test.py"
+        ],
+        "focus": [
+          "single-step GUI element grounding"
+        ],
+        "notes": "Offline, zero-shot evaluation across mobile, desktop, and web. The card explicitly excludes training use in its intended-use description. Public API reports ungated Parquet files and canonical Hub id bevaya/ScreenSpot; the catalog identity is preserved. Apache-2.0 is the Hub data declaration. No runtime or underlying screenshot rights audit was performed.",
+        "observations": [
+          "screenshot",
+          "English instruction"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card",
+          "declared": "apache-2.0",
+          "retrieved_at": "2026-10-16T06:38:26Z",
+          "url": "https://huggingface.co/datasets/rootsautomation/ScreenSpot"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:38:26Z",
+          "role": "primary",
+          "sha256": "9e2d2a2c076032225911ae1032b548eafa6331ea81a2779632610f0f1c82dfd9",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/api/datasets/rootsautomation/ScreenSpot"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:10:00Z",
+          "role": "primary",
+          "sha256": "5ab2240c064502f75a6726311e10e7724ab7055347697f883b15a6ee8e7d00a6",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/datasets/bevaya/ScreenSpot/raw/0be08781e2e188582f6131625ae1598d443b4d5d/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:22:04Z",
+          "role": "primary",
+          "sha256": "eb72113eefd4868114f8a8105eba2d3385da9034a5b3a4860661e03ae7dcae15",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/njucckevin/SeeClick/HEAD/pretrain/screenspot_test.py"
+        },
+        {
+          "method": "huggingface_api",
+          "retrieved_at": "2026-10-16T06:38:26Z",
+          "role": "primary",
+          "sha256": "9e2d2a2c076032225911ae1032b548eafa6331ea81a2779632610f0f1c82dfd9",
+          "supports": [
+            "details",
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/api/datasets/rootsautomation/ScreenSpot"
         }
       ]
     },
@@ -2385,6 +3593,107 @@
             "environments"
           ],
           "url": "https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "url:bd7214de6d98917c2350",
+      "name": "ScreenSpot v2",
+      "url": "https://huggingface.co/datasets/OS-Copilot/ScreenSpot-v2",
+      "environments": [
+        "cross-platform"
+      ],
+      "profile": {
+        "actions": [
+          "click coordinates"
+        ],
+        "counts": [],
+        "evaluation": "The inspected Jedi evaluation adapter reads the v2 mobile/desktop/web annotation files, scores a point against the target box, and reports overall, platform, and text/icon accuracy. This is a named compatible evaluator implementation; the OS-Atlas dataset card itself supplies no evaluator specification.",
+        "evidence_urls": [
+          "https://huggingface.co/api/datasets/OS-Copilot/ScreenSpot-v2",
+          "https://osatlas.github.io/",
+          "https://raw.githubusercontent.com/xlang-ai/OSWorld-G/HEAD/evaluation/qwen25_vllm_screenspot_v2_jedi.py",
+          "https://raw.githubusercontent.com/xlang-ai/OSWorld-G/HEAD/evaluation/eval.py"
+        ],
+        "focus": [
+          "single-step GUI grounding on the ScreenSpot-v2 release"
+        ],
+        "notes": "The public Hub revision 5efbb1f1 contains three platform JSON annotation files and an image ZIP; its card only declares Apache-2.0. No sample total or equivalence to the original ScreenSpot test count is asserted. Keep v2 separate from v1 and retain evaluator/version and coordinate conversion when comparing results. Files were listed, not downloaded as data.",
+        "observations": [
+          "screenshot",
+          "instruction"
+        ],
+        "setting": "offline"
+      },
+      "licenses": {
+        "code": null,
+        "data": {
+          "basis": "publisher model/dataset card",
+          "declared": "apache-2.0",
+          "retrieved_at": "2026-10-16T06:38:26Z",
+          "url": "https://huggingface.co/datasets/OS-Copilot/ScreenSpot-v2"
+        },
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:38:26Z",
+          "role": "primary",
+          "sha256": "7feddadc306e384f8df6a3d9c8afc0c776cb3734c4c7fe3eb842eab85537f408",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://huggingface.co/api/datasets/OS-Copilot/ScreenSpot-v2"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:22:05Z",
+          "role": "primary",
+          "sha256": "94547cb88756cf6a36bfb86d5fe9bdca1e40d7edb9e452c33cb462bbe760fed0",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://osatlas.github.io/"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:21:09Z",
+          "role": "primary",
+          "sha256": "0e8772bc8fd5a25c50d3c2f6b0caee05ed2ab4659d46d99d60adf2b5ab29e997",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/xlang-ai/OSWorld-G/HEAD/evaluation/qwen25_vllm_screenspot_v2_jedi.py"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:21:09Z",
+          "role": "primary",
+          "sha256": "b85f5685ce6c200ea648471666177859693d7f40cf50c12d08765ae68580de4a",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/xlang-ai/OSWorld-G/HEAD/evaluation/eval.py"
+        },
+        {
+          "method": "huggingface_api",
+          "retrieved_at": "2026-10-16T06:38:26Z",
+          "role": "primary",
+          "sha256": "7feddadc306e384f8df6a3d9c8afc0c776cb3734c4c7fe3eb842eab85537f408",
+          "supports": [
+            "details",
+            "licenses.data"
+          ],
+          "url": "https://huggingface.co/api/datasets/OS-Copilot/ScreenSpot-v2"
         }
       ]
     },
@@ -3583,6 +4892,95 @@
             "details.benchmark_protocol"
           ],
           "url": "https://raw.githubusercontent.com/microsoft/WindowsAgentArena/HEAD/src/win-arena-container/client/evaluation_examples_windows/test_all.json"
+        }
+      ]
+    },
+    {
+      "id": "github:hitsz-tmg/windowsworld",
+      "name": "WindowsWorld",
+      "url": "https://github.com/HITsz-TMG/WindowsWorld",
+      "environments": [
+        "windows"
+      ],
+      "profile": {
+        "actions": [
+          "PyAutoGUI",
+          "UiPath Computer_13 action interface"
+        ],
+        "counts": [
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md",
+            "population": "WindowsWorld benchmark described in the retained README",
+            "qualifier": "exact",
+            "unit": "tasks",
+            "value": 181
+          },
+          {
+            "basis": "reported",
+            "evidence_url": "https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md",
+            "population": "WindowsWorld coverage described in the retained README",
+            "qualifier": "exact",
+            "unit": "desktop applications",
+            "value": 17
+          }
+        ],
+        "evaluation": "Publisher distinguishes S_int (intermediate checkpoint score on L1–L3) and S_final (final completion on L1–L4). Documented step budgets are 15/25/40/20 for L1/L2/L3/L4. Preserve level, observation mode, agent interface and checkpoint/final metric when reporting a run.",
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md",
+          "https://api.github.com/repos/HITsz-TMG/WindowsWorld/git/trees/main?recursive=1"
+        ],
+        "focus": [
+          "multi-application Windows workflows",
+          "intermediate-state and final-goal completion"
+        ],
+        "notes": "Interactive VMware/Windows environment. The public repository includes benchmark.json, task/evaluator code and monitoring support; the README refers VM import to Installation Guide.md, whose distribution links and payloads were not inspected for this profile. Checkpoint counts and application counts are not extra tasks. Apache-2.0 is recorded for repository code; Windows, apps and VM artifacts retain separate terms.",
+        "observations": [
+          "screenshot",
+          "accessibility tree",
+          "screenshot plus accessibility tree",
+          "set-of-marks"
+        ],
+        "setting": "interactive"
+      },
+      "licenses": {
+        "code": {
+          "basis": "repository LICENSE header; not a weights/data license",
+          "declared": "Apache-2.0",
+          "retrieved_at": "2026-10-16T06:41:59Z",
+          "url": "https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/LICENSE"
+        },
+        "data": null,
+        "document": null,
+        "weights": null
+      },
+      "evidence": [
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-16T06:35:59Z",
+          "role": "primary",
+          "sha256": "9857bd8ae9f521f152761ae3bd85debe4e7471aad34c9eb47618332948bca6c9",
+          "supports": [
+            "name",
+            "kind",
+            "summary",
+            "environments",
+            "topics",
+            "scope",
+            "relations",
+            "details.benchmark_protocol"
+          ],
+          "url": "https://raw.githubusercontent.com/HITsz-TMG/WindowsWorld/HEAD/README.md"
+        },
+        {
+          "method": "editorial_primary_review",
+          "retrieved_at": "2026-10-17T14:14:05Z",
+          "role": "primary",
+          "sha256": "490c9257d56f0a5214e6424e02490379b0b00ca2f7d4626fd5d14e17239d05ed",
+          "supports": [
+            "details.benchmark_protocol"
+          ],
+          "url": "https://api.github.com/repos/HITsz-TMG/WindowsWorld/git/trees/main?recursive=1"
         }
       ]
     },

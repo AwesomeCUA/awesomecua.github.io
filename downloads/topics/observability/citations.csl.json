@@ -436,6 +436,149 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2509.20729v2",
+    "archive": "arXiv",
+    "archive_location": "2509.20729",
+    "author": [
+      {
+        "literal": "Jiazheng Sun"
+      },
+      {
+        "literal": "Ruimeng Yang"
+      },
+      {
+        "literal": "Xu Han"
+      },
+      {
+        "literal": "Jiayang Niu"
+      },
+      {
+        "literal": "Mingxuan Li"
+      },
+      {
+        "literal": "Te Yang"
+      },
+      {
+        "literal": "Yongyong Lu"
+      },
+      {
+        "literal": "Xin Peng"
+      }
+    ],
+    "citation-key": "arxiv_2509_20729",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "571eee6476c9e75ffae65cf98ec589e98fd3b953313cc6d2191bb48bd27303fe",
+        "submitted_at": "2025-09-25T04:21:31Z",
+        "updated_at": "2025-12-01T08:01:05Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2509.20729v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.20729",
+      "catalog_id": "arxiv:2509.20729",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-25",
+      "identifiers": {
+        "arxiv": "2509.20729"
+      },
+      "record_updated_at": "2025-12-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.20729",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-25; Recorded arXiv version: v2; Recorded version updated: 2025-12-01T08:01:05Z.",
+    "title": "Robust, Observable, and Evolvable Agentic Systems Engineering: A Principled Framework Validated via the Fairy GUI Agent",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.19205v1",
+    "archive": "arXiv",
+    "archive_location": "2510.19205",
+    "author": [
+      {
+        "literal": "Yaoyao Qian"
+      },
+      {
+        "literal": "Yuanli Wang"
+      },
+      {
+        "literal": "Jinda Zhang"
+      },
+      {
+        "literal": "Yun Zong"
+      },
+      {
+        "literal": "Meixu Chen"
+      },
+      {
+        "literal": "Hanhan Zhou"
+      },
+      {
+        "literal": "Jindan Huang"
+      },
+      {
+        "literal": "Yifan Zeng"
+      },
+      {
+        "literal": "Xinyu Hu"
+      },
+      {
+        "literal": "Chan Hee Song"
+      },
+      {
+        "literal": "Danqing Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2510_19205",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d404ff922ef38e57481c01a5e3108bd38457d88f83d7adf6d3c3c7b5ddf124e2",
+        "submitted_at": "2025-10-22T03:29:25Z",
+        "updated_at": "2025-10-22T03:29:25Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2510.19205v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.19205",
+      "catalog_id": "arxiv:2510.19205",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-22",
+      "identifiers": {
+        "arxiv": "2510.19205"
+      },
+      "record_updated_at": "2025-10-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.19205",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-22; Recorded arXiv version: v1; Recorded version updated: 2025-10-22T03:29:25Z.",
+    "title": "WebGraphEval: Multi-Turn Trajectory Evaluation for Web Agents using Graph Representation",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2511.09157v1",
     "archive": "arXiv",
     "archive_location": "2511.09157",
@@ -908,6 +1051,58 @@
     },
     "note": "First published: 2026-05-28; Recorded arXiv version: v1; Recorded version updated: 2026-05-28T17:59:31Z.",
     "title": "Syll: Open-Source Personal Automation with Cross-Surface Execution",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.14443v1",
+    "archive": "arXiv",
+    "archive_location": "2607.14443",
+    "author": [
+      {
+        "literal": "Yong Liu"
+      },
+      {
+        "literal": "Zhenyi Zhong"
+      },
+      {
+        "literal": "Zhanpeng Shi"
+      }
+    ],
+    "citation-key": "arxiv_2607_14443",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a779b2c1ff9ba3b531d399204b0986e3affcea81c67fdd7951e3b7da343b0e17",
+        "submitted_at": "2026-07-16T00:35:25Z",
+        "updated_at": "2026-07-16T00:35:25Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2607.14443v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.14443",
+      "catalog_id": "arxiv:2607.14443",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-16",
+      "identifiers": {
+        "arxiv": "2607.14443"
+      },
+      "record_updated_at": "2026-07-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.14443",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-16; Recorded arXiv version: v1; Recorded version updated: 2026-07-16T00:35:25Z.",
+    "title": "Tactile: Giving Computer-Using Agents Hands and Feet",
     "type": "article",
     "version": "1"
   },

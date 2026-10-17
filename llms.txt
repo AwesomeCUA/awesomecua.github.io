@@ -69,6 +69,11 @@ Resources with publication metadata also serve `publication-citation.bib` and `p
 
 Each topic page has index.md. Each /downloads/topics/<topic>/ directory serves records.jsonl, citations.bib and citations.csl.json. Pass records.jsonl to export_rag.py --input to build a topic-specific retrieval corpus.
 
+## Repository identity
+
+- [Verified former repository names](https://awesomecua.github.io/downloads/repository-aliases.json): paired official API observations with the same numeric GitHub repository ID. Use the canonical returned ID for retrieval upserts; aliases add no resources. Record fields and RAG documents retain former names and their alias-scoped evidence.
+- [Repository identity schema](https://awesomecua.github.io/schemas/repository-alias.schema.json)
+
 ## Download inventory
 
 - [Bilingual data hub](https://awesomecua.github.io/data/)

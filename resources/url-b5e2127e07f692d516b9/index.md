@@ -18,6 +18,19 @@ The manifest contains trajectory annotations and archives associated with mobile
 
 - Record JSON: https://awesomecua.github.io/resources/url-b5e2127e07f692d516b9/record.json
 
+## Structured profile
+
+- formats: JSON annotations, ZIP image packages, multipart TAR image packages
+- modalities: GUI screenshots, natural-language instructions, action trajectories
+- splits: training
+- supervision: GUI trajectory supervised fine-tuning, planning and reasoning with inner monologue
+
+### Count observations
+
+No count recorded.
+
+Stage 2 trajectory release, Hub revision bd6f1ed4, is distinct from Stage 1 grounding. The public manifest lists source-specific JSON levels and image ZIP/multipart TAR packages. The training recipe uses all rows for some inputs and random:33% for others; several l2 paths occur twice while the manifest also contains l3 files. Recipe rows/levels are neither independent datasets nor disjoint train/test splits. No example/action/trajectory count is inferred. Apache-2.0 is the card declaration, with separate underlying source terms.
+
 ## License declarations
 
 - code: not recorded
@@ -30,4 +43,5 @@ The manifest contains trajectory annotations and archives associated with mobile
 - https://huggingface.co/datasets/xlangai/aguvis-stage2/raw/main/README.md (retrieved 2026-10-17T02:03:33Z; SHA-256 550293f00905615e19e63ac896818f9875dad38fea0ffe196c6302a29719aa72)
 - https://huggingface.co/api/datasets/xlangai/aguvis-stage2 (retrieved 2026-10-17T02:03:33Z; SHA-256 f030264a7a8c7485dc7cf15ca554d84450cc492d2ac90e5965810a0207ef370b)
 - https://raw.githubusercontent.com/xlang-ai/aguvis/HEAD/README.md (retrieved 2026-10-16T06:36:00Z; SHA-256 2dd9f36b818c1b7b6bd772ba8575f6c0ebab6d9e0d307edcc2f196f3e4ba502e)
+- https://raw.githubusercontent.com/xlang-ai/aguvis/HEAD/data/stage2.yaml (retrieved 2026-10-17T14:21:11Z; SHA-256 8c1b39e9d16067018ce845fd4e996f34e2b47346c342b2ba26b030f4a5338b66)
 - https://huggingface.co/datasets/xlangai/aguvis-stage2/raw/main/README.md (retrieved 2026-10-17T02:03:33Z; SHA-256 550293f00905615e19e63ac896818f9875dad38fea0ffe196c6302a29719aa72)

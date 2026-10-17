@@ -2,6 +2,36 @@
   "aliases": [],
   "authors": [],
   "details": {
+    "benchmark_protocol": {
+      "actions": [
+        "element-ID actions",
+        "coordinate mouse and keyboard actions",
+        "tab/navigation/scroll operations",
+        "Python/Playwright action mode"
+      ],
+      "counts": [],
+      "evaluation": "Gymnasium reset/step interface delegates reward, completion, messages and task info to each adapter’s validate() method. There is no universal BrowserGym success metric or shared task total; retain benchmark/adapter version and action subset for comparisons.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/ServiceNow/BrowserGym/HEAD/README.md",
+        "https://raw.githubusercontent.com/ServiceNow/BrowserGym/HEAD/browsergym/core/src/browsergym/core/env.py",
+        "https://raw.githubusercontent.com/ServiceNow/BrowserGym/HEAD/docs/src/core/action_space.rst",
+        "https://api.github.com/repos/ServiceNow/BrowserGym/git/trees/main?recursive=1"
+      ],
+      "focus": [
+        "shared browser-agent evaluation interface",
+        "benchmark adapters with separate task definitions"
+      ],
+      "notes": "A framework with interactive browser adapters and a static WebLINX evaluation integration, so the profile setting is mixed. README-listed integrations are not added as disjoint tasks or datasets. Core requires Playwright/Chromium; individual benchmarks have their own setup, credentials, licenses and validation rules. Apache-2.0 covers repository code only. No browser tasks or third-party project code were executed.",
+      "observations": [
+        "browser screenshot",
+        "DOM snapshot",
+        "accessibility tree",
+        "tab/URL state",
+        "previous action and its error",
+        "chat messages and task goal"
+      ],
+      "setting": "mixed"
+    },
     "evaluation_type": null,
     "leaderboard_url": null,
     "metrics": [],
@@ -23,9 +53,40 @@
         "environments",
         "topics",
         "scope",
-        "relations"
+        "relations",
+        "details.benchmark_protocol"
       ],
       "url": "https://raw.githubusercontent.com/ServiceNow/BrowserGym/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:22:05Z",
+      "role": "primary",
+      "sha256": "867cc6efdfead356839fef8a26b492502b8b5e3d165d1b3c17d24aaeec268d63",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/ServiceNow/BrowserGym/HEAD/browsergym/core/src/browsergym/core/env.py"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:21:11Z",
+      "role": "primary",
+      "sha256": "c4bbe6b7d0cb36a5d5effab1aa5568301cead97fe4015273e1b82c667da3823a",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://raw.githubusercontent.com/ServiceNow/BrowserGym/HEAD/docs/src/core/action_space.rst"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T14:14:08Z",
+      "role": "primary",
+      "sha256": "418efbe8c65ad7ebab61d3a066339876c820a9c957506eb456b8078ab352f6bf",
+      "supports": [
+        "details.benchmark_protocol"
+      ],
+      "url": "https://api.github.com/repos/ServiceNow/BrowserGym/git/trees/main?recursive=1"
     },
     {
       "method": "license_header",

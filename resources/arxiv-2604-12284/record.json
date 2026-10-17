@@ -23,7 +23,7 @@
     }
   },
   "environments": [
-    "unspecified"
+    "web"
   ],
   "evidence": [
     {
@@ -38,6 +38,22 @@
         "updated_at",
         "identifiers.arxiv",
         "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=300&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:39Z",
+      "role": "primary",
+      "sha256": "27c33576ed43c7bc63d4b290f6558553bd1d3aa112a7358138f4045e1bc14918",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes"
       ],
       "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=300&max_results=100&sortBy=submittedDate&sortOrder=descending"
     }
@@ -56,18 +72,24 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2604.12284"
     }
   ],
   "name": "WebAgentGuard: A Reasoning-Driven Guard Model for Detecting Prompt Injection Attacks in Web Agents",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "The annotation was reviewed against the complete retained official abstract. Experimental findings and artifact availability have not been independently reproduced.",
   "published_at": "2026-04-14",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "WebAgentGuard separates prompt-injection detection from the operating web agent through a parallel multimodal guard. The guard is trained on synthetic visual/textual examples using reasoning-focused supervised fine-tuning followed by reinforcement learning.",
+  "topics": [
+    "safety-security",
+    "data-generation",
+    "imitation-learning",
+    "reinforcement-learning",
+    "evaluation"
+  ],
   "updated_at": "2026-04-14",
   "url": "https://arxiv.org/abs/2604.12284"
 }
