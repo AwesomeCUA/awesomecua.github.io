@@ -7,6 +7,8 @@
 **A source-backed catalog of computer-use, GUI, browser, and mobile agents.**
 
 [Website](https://awesomecua.github.io/) · [Research papers](https://awesomecua.github.io/papers/) · [中文指南](https://awesomecua.github.io/zh/) · [GitHub organization](https://github.com/AwesomeCUA)
+[Read the English research survey](https://awesomecua.github.io/survey/) — an evidence-traced working manuscript with its own frozen research snapshot.
+
 
 ## For people, RAG systems, and agents
 
@@ -120,6 +122,6 @@ GitHub Pages deploys the validated static artifact through the publication workf
 
 [Source catalog and scan code](https://github.com/reacher-z/Awesome-CUA) · [Scan status](https://awesomecua.github.io/updates/)
 
-Discovery runs at 08:17 and 20:17 America/Los_Angeles. This website rebuilds at 08:47 and 20:47 from validated source data. GitHub scheduling can be delayed; the status page records actual completion times.
+Discovery is scheduled three times daily at 00:17, 08:17, 16:17 UTC. This website rebuilds at 01:47, 09:47, 17:47 UTC from validated source data. Publication is scheduled 90 minutes after each scan slot and retains its own quality gate. GitHub scheduling can be delayed; the status page records actual completion times.
 
 New discoveries are bibliographic metadata or candidates until a separate editorial review. The publishing workflow uses repository-scoped GitHub tokens and does not require a stored personal access token.

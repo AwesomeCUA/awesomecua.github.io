@@ -84,3 +84,11 @@ The first page of each topic has an index.md listing all of its resources. Each 
 ## Versioned data
 
 - [Tagged data releases](https://github.com/reacher-z/Awesome-CUA/releases): complete data bundles containing catalog, RAG, citations and topic subsets. Verify SHA256SUMS and retain release-manifest.json, source_commit and catalog_sha256. Repository CLI commands require a source clone at the recorded commit.
+
+## English research survey
+
+- [Computer-use agent survey](https://awesomecua.github.io/survey/): working manuscript with a separately frozen research inventory; not an additional catalog record.
+- [Survey bibliography](https://awesomecua.github.io/survey/references.bib)
+- [Survey references JSON](https://awesomecua.github.io/survey/references.json)
+- [Source reading register](https://awesomecua.github.io/survey/evidence/reading-index.json)
+- [Survey file manifest](https://awesomecua.github.io/survey/build-manifest.json)

@@ -1614,6 +1614,7 @@ https://awesomecua.github.io/resources/url-fda52d641c6b482bda7b/
 https://awesomecua.github.io/resources/url-fe43af1801032be708cc/
 https://awesomecua.github.io/resources/url-fec1c5aa8fd93cb78923/
 https://awesomecua.github.io/resources/url-ff7b1873a3eead89607a/
+https://awesomecua.github.io/survey/
 https://awesomecua.github.io/topics/
 https://awesomecua.github.io/topics/action-prediction/
 https://awesomecua.github.io/topics/automation/
