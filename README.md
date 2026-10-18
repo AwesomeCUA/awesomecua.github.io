@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://awesomecua.github.io/"><img src="badges/featured-by-awesomecua-laurel.svg" alt="Featured by Awesome CUA" width="220"></a>
+</p>
+
 # Awesome Computer-Use Agents · AwesomeCUA
 
 **A source-backed catalog of computer-use, GUI, browser, and mobile agents.**
@@ -11,6 +15,32 @@ git clone https://github.com/reacher-z/Awesome-CUA.git
 ```
 
 [Agent instructions](https://awesomecua.github.io/AGENTS.md) · [Agent and RAG guide](https://awesomecua.github.io/agents/) · [中文使用指南](https://awesomecua.github.io/zh/agents/) · [Complete JSONL](https://awesomecua.github.io/downloads/catalog.jsonl)
+
+## Find by task
+
+| Your task | Start here | What you can find |
+| --- | --- | --- |
+| Find papers | [Research library](https://awesomecua.github.io/papers/) · [Topics](https://awesomecua.github.io/topics/) | Reviewed papers by year and topic, with original sources. |
+| Choose a benchmark | [Benchmark guide](https://awesomecua.github.io/guides/gui-agent-benchmarks/) | Platforms, tasks, evaluators, and versions to compare. |
+| Find training data | [Training-data guide](https://awesomecua.github.io/guides/gui-agent-training-data/) | Supervision, splits, count units, and data licenses. |
+| Build an agent | [Agents](https://awesomecua.github.io/categories/agent/) · [Frameworks](https://awesomecua.github.io/categories/framework/) | Implementation entry points, supported platforms, and papers. |
+| Use RAG or an agent | [Agent guide](https://awesomecua.github.io/agents/) · [Data hub](https://awesomecua.github.io/data/) | Complete records or retrieval documents with review states and sources. |
+| Trace papers to assets | [Paper–asset connections](https://awesomecua.github.io/connections/) | Code, datasets, and models linked through reviewed primary evidence. |
+
+<details>
+<summary>Local examples (after cloning; Python 3.11+, no dependencies required)</summary>
+
+```sh
+cd Awesome-CUA
+python3 scripts/catalog.py search "grounding" --kind paper --status curated --limit 0 --json
+python3 scripts/catalog.py search --kind benchmark --environment web --status curated --limit 0 --json
+python3 scripts/catalog.py search --kind dataset --environment android --status curated --limit 0 --json
+python3 scripts/catalog.py search --kind framework --status curated --limit 0 --json
+python3 scripts/export_rag.py --output dist/rag-documents.jsonl
+python3 scripts/catalog.py get arxiv:2404.07972 --related --json
+```
+
+</details>
 
 **3,055 resource records** · **1,572 curated** · **2,606 paper and survey records** · **47 discovery documents**
 
@@ -84,7 +114,7 @@ python3 -m http.server 4173 --bind 127.0.0.1
 
 GitHub Pages deploys the validated static artifact through the publication workflow. The `main` branch keeps an inspectable snapshot. Original code and annotations use [MIT](LICENSE); linked assets retain their own terms.
 
-[Suggest a resource or correction](https://github.com/AwesomeCUA/awesomecua.github.io/issues/new?template=resource.yml). Supply a primary source and explain uncertain facts. Global completeness is a goal, not a verified claim.
+[Suggest a resource or correction](https://github.com/reacher-z/Awesome-CUA/issues/new?template=resource.yml). Supply a primary source and explain uncertain facts. Global completeness is a goal, not a verified claim.
 
 ## Automatic updates
 

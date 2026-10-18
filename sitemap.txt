@@ -1,6 +1,7 @@
 https://awesomecua.github.io/
 https://awesomecua.github.io/about/
 https://awesomecua.github.io/agents/
+https://awesomecua.github.io/badges/
 https://awesomecua.github.io/catalog/
 https://awesomecua.github.io/categories/agent/
 https://awesomecua.github.io/categories/benchmark/
