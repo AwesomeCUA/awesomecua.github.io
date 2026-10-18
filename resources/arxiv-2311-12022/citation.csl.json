@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2311.12022",
+  "citation-key": "arxiv_2311_12022",
+  "type": "article",
+  "title": "GPQA: A Graduate-Level Google-Proof Q&A Benchmark",
+  "URL": "https://arxiv.org/abs/2311.12022v1",
+  "custom": {
+    "catalog_id": "arxiv:2311.12022",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2311.12022",
+    "identifiers": {
+      "arxiv": "2311.12022"
+    },
+    "first_published_at": "2023-11-20",
+    "record_updated_at": "2023-11-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7d7927e2ce748f8cf939fe1c7f97dc0adf9a22e8c2f4e6fbe4895d31c78e4d09",
+      "submitted_at": "2023-11-20T18:57:34Z",
+      "updated_at": "2023-11-20T18:57:34Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2311.12022v1"
+    }
+  },
+  "note": "First published: 2023-11-20; Recorded arXiv version: v1; Recorded version updated: 2023-11-20T18:57:34Z.",
+  "author": [
+    {
+      "literal": "David Rein"
+    },
+    {
+      "literal": "Betty Li Hou"
+    },
+    {
+      "literal": "Asa Cooper Stickland"
+    },
+    {
+      "literal": "Jackson Petty"
+    },
+    {
+      "literal": "Richard Yuanzhe Pang"
+    },
+    {
+      "literal": "Julien Dirani"
+    },
+    {
+      "literal": "Julian Michael"
+    },
+    {
+      "literal": "Samuel R. Bowman"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        11,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2311.12022",
+  "genre": "preprint",
+  "version": "1"
+}

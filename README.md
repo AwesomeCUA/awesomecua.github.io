@@ -12,9 +12,9 @@ git clone https://github.com/reacher-z/Awesome-CUA.git
 
 [Agent instructions](https://awesomecua.github.io/AGENTS.md) · [Agent and RAG guide](https://awesomecua.github.io/agents/) · [中文使用指南](https://awesomecua.github.io/zh/agents/) · [Complete JSONL](https://awesomecua.github.io/downloads/catalog.jsonl)
 
-**3,048 resource records** · **1,572 curated** · **2,599 paper and survey records** · **47 discovery documents**
+**3,055 resource records** · **1,572 curated** · **2,606 paper and survey records** · **47 discovery documents**
 
-Evidence snapshot: 2026-10-18T04:40:40Z. Bibliography counts overlap review-state counts. Resources are not independent projects.
+Evidence snapshot: 2026-10-18T08:01:28Z. Bibliography counts overlap review-state counts. Resources are not independent projects.
 
 ## What is a computer-use agent?
 
@@ -24,7 +24,7 @@ A computer-use agent observes software interfaces, chooses and executes actions,
 
 | Category | Records | Browse |
 | --- | ---: | --- |
-| Research papers | 2,584 | [Open directory](https://awesomecua.github.io/categories/paper/) |
+| Research papers | 2,591 | [Open directory](https://awesomecua.github.io/categories/paper/) |
 | Surveys | 15 | [Open directory](https://awesomecua.github.io/categories/survey/) |
 | Models and checkpoints | 98 | [Open directory](https://awesomecua.github.io/categories/model/) |
 | Datasets | 85 | [Open directory](https://awesomecua.github.io/categories/dataset/) |

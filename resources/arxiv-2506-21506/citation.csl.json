@@ -1,0 +1,121 @@
+{
+  "id": "arxiv:2506.21506",
+  "citation-key": "arxiv_2506_21506",
+  "type": "article",
+  "title": "Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge",
+  "URL": "https://arxiv.org/abs/2506.21506v2",
+  "custom": {
+    "catalog_id": "arxiv:2506.21506",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2506.21506",
+    "identifiers": {
+      "arxiv": "2506.21506"
+    },
+    "first_published_at": "2025-06-26",
+    "record_updated_at": "2025-07-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f0b614feb7733b9d8b287e370d7b61c491b51ef935e46451719002c85dc9ed6f",
+      "submitted_at": "2025-06-26T17:32:50Z",
+      "updated_at": "2025-07-03T15:47:40Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2506.21506v2"
+    }
+  },
+  "note": "First published: 2025-06-26; Recorded arXiv version: v2; Recorded version updated: 2025-07-03T15:47:40Z.",
+  "author": [
+    {
+      "literal": "Boyu Gou"
+    },
+    {
+      "literal": "Zanming Huang"
+    },
+    {
+      "literal": "Yuting Ning"
+    },
+    {
+      "literal": "Yu Gu"
+    },
+    {
+      "literal": "Michael Lin"
+    },
+    {
+      "literal": "Weijian Qi"
+    },
+    {
+      "literal": "Andrei Kopanev"
+    },
+    {
+      "literal": "Botao Yu"
+    },
+    {
+      "literal": "Bernal Jiménez Gutiérrez"
+    },
+    {
+      "literal": "Yiheng Shu"
+    },
+    {
+      "literal": "Chan Hee Song"
+    },
+    {
+      "literal": "Jiaman Wu"
+    },
+    {
+      "literal": "Shijie Chen"
+    },
+    {
+      "literal": "Hanane Nour Moussa"
+    },
+    {
+      "literal": "Tianshu Zhang"
+    },
+    {
+      "literal": "Jian Xie"
+    },
+    {
+      "literal": "Yifei Li"
+    },
+    {
+      "literal": "Tianci Xue"
+    },
+    {
+      "literal": "Zeyi Liao"
+    },
+    {
+      "literal": "Kai Zhang"
+    },
+    {
+      "literal": "Boyuan Zheng"
+    },
+    {
+      "literal": "Zhaowei Cai"
+    },
+    {
+      "literal": "Viktor Rozgic"
+    },
+    {
+      "literal": "Morteza Ziyadi"
+    },
+    {
+      "literal": "Huan Sun"
+    },
+    {
+      "literal": "Yu Su"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.21506",
+  "genre": "preprint",
+  "version": "2"
+}
