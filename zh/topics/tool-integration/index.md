@@ -144,6 +144,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/tool-integrat
   MCPWorld evaluates API, GUI, and hybrid computer-use agents with 201 tasks in applications whose source can be instrumented and extended with MCP support. It verifies completion from application behavior and packages the testbed in containers with GPU support.
 - [LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS](https://awesomecua.github.io/resources/arxiv-2505-18829/) — 2025-05-24
   AIOS 1.0 exposes computer states and actions through an MCP server to provide structured environmental context for agents. LiteCUA is a lightweight agent built on this interface, evaluated on OSWorld to study the effect of computer-environment contextualization.
+- [WebThinker: Empowering Large Reasoning Models with Deep Research Capability](https://awesomecua.github.io/resources/arxiv-2504-21776/) — 2025-04-30
+  Combines iterative web search and link-following with interleaved reasoning and report drafting for deep research. Its reported web explorer retrieves page content through a crawler rather than controlling a visual browser interface.
 - [UFO2: The Desktop AgentOS](https://awesomecua.github.io/resources/arxiv-2504-14603/) — 2025-04-20
   Introduces UFO2, a Windows desktop agent architecture combining a coordinating HostAgent, application-specialized agents, and a shared GUI/API action layer. It integrates UI Automation, visual parsing, speculative planning, and an isolated picture-in-picture desktop.
 - [SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills](https://awesomecua.github.io/resources/arxiv-2504-07079/) — 2025-04-09
@@ -186,6 +188,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/tool-integrat
   WebWISE filters DOM elements into observations and generates short programs for click, scroll, and text-entry steps. It evaluates in-context learning from either one supplied example or an example collected during a successful zero-shot MiniWoB++ trial.
 - [OpenAgents: An Open Platform for Language Agents in the Wild](https://awesomecua.github.io/resources/arxiv-2310-10634/) — 2023-10-16
   OpenAgents hosts three language agents, for data analysis, API plugins and autonomous web browsing, behind a web interface for non-expert users, with local deployment for developers.
+- [SheetCopilot: Bringing Software Productivity to the Next Level through Large Language Models](https://awesomecua.github.io/resources/arxiv-2305-19308/) — 2023-05-30
+  Introduces SheetCopilot, an agent that steers spreadsheet software via atomic virtual APIs, along with a 221-task spreadsheet manipulation benchmark.
 
 ## 评测基准
 
@@ -266,6 +270,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/tool-integrat
   Open-source library for generalist agents acting on an operating system's web, terminals, files and third-party apps, with the FRIDAY assistant, which takes custom tools and self-learns Excel tasks.
 - [Playwright MCP](https://awesomecua.github.io/resources/github-microsoft-playwright-mcp/) — Date not recorded
   MCP server that lets LLM clients drive Playwright browsers through structured accessibility snapshots instead of screenshots, with opt-in vision, PDF and devtools capabilities.
+- [SheetCopilot](https://awesomecua.github.io/resources/github-bravegroup-sheetcopilot/) — Date not recorded
+  Spreadsheet automation agent for Windows/Excel, with benchmark assets and a separately released headless Ubuntu evaluation backend.
 - [SkillWeaver](https://awesomecua.github.io/resources/github-osu-nlp-group-skillweaver/) — Date not recorded
   A web-agent framework that explores sites, synthesizes reusable interaction APIs and builds a skill library for later tasks.
 - [WebLlama](https://awesomecua.github.io/resources/github-mcgill-nlp-webllama/) — Date not recorded

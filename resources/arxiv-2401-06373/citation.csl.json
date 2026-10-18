@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2401.06373",
+  "citation-key": "arxiv_2401_06373",
+  "type": "article",
+  "title": "How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs",
+  "URL": "https://arxiv.org/abs/2401.06373v2",
+  "custom": {
+    "catalog_id": "arxiv:2401.06373",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2401.06373",
+    "identifiers": {
+      "arxiv": "2401.06373"
+    },
+    "first_published_at": "2024-01-12",
+    "record_updated_at": "2024-01-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "feacd6d6fd99c426b70a6540db82ccc7d03c56e9ce22346cf3684375c20b8e36",
+      "submitted_at": "2024-01-12T16:13:24Z",
+      "updated_at": "2024-01-23T22:46:12Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2401.06373v2"
+    }
+  },
+  "note": "First published: 2024-01-12; Recorded arXiv version: v2; Recorded version updated: 2024-01-23T22:46:12Z.",
+  "author": [
+    {
+      "literal": "Yi Zeng"
+    },
+    {
+      "literal": "Hongpeng Lin"
+    },
+    {
+      "literal": "Jingwen Zhang"
+    },
+    {
+      "literal": "Diyi Yang"
+    },
+    {
+      "literal": "Ruoxi Jia"
+    },
+    {
+      "literal": "Weiyan Shi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2401.06373",
+  "genre": "preprint",
+  "version": "2"
+}

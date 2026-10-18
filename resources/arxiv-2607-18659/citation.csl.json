@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2607.18659",
+  "citation-key": "arxiv_2607_18659",
+  "type": "article",
+  "title": "Broken Gates: Re-evaluating Web Bot Defenses in the Age of LLM Agents",
+  "URL": "https://arxiv.org/abs/2607.18659v1",
+  "custom": {
+    "catalog_id": "arxiv:2607.18659",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2607.18659",
+    "identifiers": {
+      "arxiv": "2607.18659"
+    },
+    "first_published_at": "2026-07-21",
+    "record_updated_at": "2026-07-21",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e382b15a9d25e99aa187a72c7d2a33bbeca82b2b347ba580ca0a1d73a8e01d19",
+      "submitted_at": "2026-07-21T03:02:57Z",
+      "updated_at": "2026-07-21T03:02:57Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.18659v1"
+    }
+  },
+  "note": "First published: 2026-07-21; Recorded arXiv version: v1; Recorded version updated: 2026-07-21T03:02:57Z.",
+  "author": [
+    {
+      "literal": "Behzad Ousat"
+    },
+    {
+      "literal": "Nikita Turkmen"
+    },
+    {
+      "literal": "Lalchandra Rampersaud"
+    },
+    {
+      "literal": "Dillan Bailey"
+    },
+    {
+      "literal": "Amin Kharraz"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2607.18659",
+  "genre": "preprint",
+  "version": "1"
+}

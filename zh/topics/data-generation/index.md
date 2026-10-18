@@ -587,6 +587,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/data-generati
   Cross-app Android interaction episodes with fine-grained step instructions, screen descriptions, action context, and target boxes.
 - [Jedi](https://awesomecua.github.io/resources/url-e062cf1445eaee0f3ade/) — Date not recorded
   Synthetic GUI grounding data associated with UI decomposition research and the OSWorld-G benchmark.
+- [MONDAY](https://awesomecua.github.io/resources/github-runamu-monday/) — Date not recorded
+  Cross-platform mobile GUI trajectory dataset derived from instructional videos, with released data-processing helpers and example evaluation code for Android and iOS data.
 - [MONDAY annotations](https://awesomecua.github.io/resources/url-570654ff67ecefa2b955/) — Date not recorded
   Video-derived mobile navigation annotations that pair scene boundaries and screen or element boxes with action labels for training and evaluating GUI agents.
 - [MultiUI](https://awesomecua.github.io/resources/github-neulab-multiui/) — Date not recorded

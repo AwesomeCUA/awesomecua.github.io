@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2306.17194",
+  "citation-key": "arxiv_2306_17194",
+  "type": "article",
+  "title": "On the Exploitability of Instruction Tuning",
+  "URL": "https://arxiv.org/abs/2306.17194v2",
+  "custom": {
+    "catalog_id": "arxiv:2306.17194",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2306.17194",
+    "identifiers": {
+      "arxiv": "2306.17194"
+    },
+    "first_published_at": "2023-06-28",
+    "record_updated_at": "2023-10-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "510e060f32d21c5f51974129e19c3581c676a53f9c83a21b72bec1cc84538113",
+      "submitted_at": "2023-06-28T17:54:04Z",
+      "updated_at": "2023-10-28T18:04:36Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2306.17194v2"
+    }
+  },
+  "note": "First published: 2023-06-28; Recorded arXiv version: v2; Recorded version updated: 2023-10-28T18:04:36Z.",
+  "author": [
+    {
+      "literal": "Manli Shu"
+    },
+    {
+      "literal": "Jiongxiao Wang"
+    },
+    {
+      "literal": "Chen Zhu"
+    },
+    {
+      "literal": "Jonas Geiping"
+    },
+    {
+      "literal": "Chaowei Xiao"
+    },
+    {
+      "literal": "Tom Goldstein"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        6,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2306.17194",
+  "genre": "preprint",
+  "version": "2"
+}

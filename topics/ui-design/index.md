@@ -8,6 +8,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/ui-design/rec
 
 - [A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents](https://awesomecua.github.io/resources/arxiv-2609-19843/) — 2026-09-17
   Studies how automatic defaults and reflective social-influence cues affect GUI-agent shopping decisions under different reasoning configurations. A randomized simulated-shopping experiment finds that reasoning changes the type of susceptibility rather than uniformly removing interface influence.
+- [From Blind Edits to Verified Repair: Building Trustworthy User-Side LLM Agents for Web Accessibility](https://awesomecua.github.io/resources/arxiv-2608-24913/) — 2026-07-26
+  Builds a local browser-extension agent that generates and verifies additive CSS repairs for WCAG web accessibility violations.
 - [VISTA: An End-to-End Benchmark for Visual Spec-to-Web-App Coding Agents](https://awesomecua.github.io/resources/arxiv-2605-26144/) — 2026-05-22
   VISTA evaluates coding agents that turn design handoffs into working web and Android applications. Its evaluator locates annotated interactive components and probes their behavior, keeping visual localization distinct from functional correctness.
 - [Beyond Screenshots: Evaluating VLMs' Understanding of UI Animations](https://awesomecua.github.io/resources/arxiv-2604-26148/) — 2026-04-28

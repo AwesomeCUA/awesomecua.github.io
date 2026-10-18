@@ -724,12 +724,14 @@ Full source records: https://awesomecua.github.io/downloads/topics/grounding/rec
 
 - [AgentQL](https://awesomecua.github.io/resources/url-8896d44370711136fd54/) — Date not recorded
   Natural-language querying and interaction tools for web interfaces.
+- [AgentStudio](https://awesomecua.github.io/resources/github-skyworkai-agent-studio/) — Date not recorded
+  Toolkit and Ubuntu-based environment for building and evaluating generalist computer-use agents through GUI and API interaction.
 - [GroundGUI training and evaluation code](https://awesomecua.github.io/resources/github-prentisai-groundgui/) — Date not recorded
   Code for screenshot grounding through supervised training, teacher-guided distillation, reinforcement learning, and benchmark evaluation.
 - [GUI-RC / GUI-RCPO](https://awesomecua.github.io/resources/github-zju-real-gui-rcpo/) — Date not recorded
   GUI-grounding research code for spatial voting across sampled predictions and test-time policy optimization using region-consistency rewards.
 - [GUIPivot](https://awesomecua.github.io/resources/github-zrw00-guipivot/) — Date not recorded
-  Research tooling for query-inference pivot tasks that connect screenshot grounding with GUI action reasoning, including preprocessing, query refinement and mobile-agent evaluation.
+  Query-inference training tools connecting screenshot grounding with GUI action reasoning, including preprocessing, query refinement and offline single-step evaluation on AndroidControl and AITZ.
 - [MAI-UI inference and evaluation code](https://awesomecua.github.io/resources/github-tongyi-mai-mai-ui/) — Date not recorded
   Published MAI-UI grounding and navigation-agent implementations with inference demos and evaluation scripts.
 - [Midscene.js](https://awesomecua.github.io/resources/github-web-infra-dev-midscene/) — Date not recorded
@@ -754,8 +756,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/grounding/rec
   Grounding and evaluation code that aggregates a pretrained vision-language model’s attention maps to localize requested interface elements without fine-tuning.
 - [TongUI training and inference framework](https://awesomecua.github.io/resources/github-tongui-agent-tongui-agent/) — Date not recorded
   Training configurations, preprocessing and inference examples for tutorial-trained GUI models, with a LLaMA-Factory fine-tuning workflow and screenshot-grounding interfaces.
-- [VideoCAD training and evaluation code](https://awesomecua.github.io/resources/github-udgok-videocad/) — Date not recorded
-  VideoCADFormer training, action-log preprocessing and evaluation code for learning long sequences of CAD interface operations from screen recordings.
+- [VideoCAD training and evaluation code](https://awesomecua.github.io/resources/github-ghadinehme-videocad/) — Date not recorded
+  VideoCADFormer training, action-log preprocessing and evaluation code for learning CAD interface action sequences from screen recordings of browser-based Onshape.
 - [WebMarker](https://awesomecua.github.io/resources/github-reidbarber-webmarker/) — Date not recorded
   A browser library that labels interactive elements and their boxes for visual prompting, preserving element mappings that automation code can use to execute selected actions.
 - [WebVLN research implementation](https://awesomecua.github.io/resources/github-webvln-webvln/) — Date not recorded

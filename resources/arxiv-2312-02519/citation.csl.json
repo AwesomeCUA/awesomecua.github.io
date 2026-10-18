@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2312.02519",
+  "citation-key": "arxiv_2312_02519",
+  "type": "article",
+  "title": "Creative Agents: Empowering Agents with Imagination for Creative Tasks",
+  "URL": "https://arxiv.org/abs/2312.02519v2",
+  "custom": {
+    "catalog_id": "arxiv:2312.02519",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2312.02519",
+    "identifiers": {
+      "arxiv": "2312.02519"
+    },
+    "first_published_at": "2023-12-05",
+    "record_updated_at": "2025-12-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "58b723b5f33af6f2b82f58470a763db5e942fcd9b4324d9e1412b912ccc6449a",
+      "submitted_at": "2023-12-05T06:00:52Z",
+      "updated_at": "2025-12-26T06:02:53Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2312.02519v2"
+    }
+  },
+  "note": "First published: 2023-12-05; Recorded arXiv version: v2; Recorded version updated: 2025-12-26T06:02:53Z.",
+  "author": [
+    {
+      "literal": "Penglin Cai"
+    },
+    {
+      "literal": "Chi Zhang"
+    },
+    {
+      "literal": "Yuhui Fu"
+    },
+    {
+      "literal": "Haoqi Yuan"
+    },
+    {
+      "literal": "Zongqing Lu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        12,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2312.02519",
+  "genre": "preprint",
+  "version": "2"
+}

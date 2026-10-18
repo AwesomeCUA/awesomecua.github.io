@@ -1,0 +1,63 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T10:59:56Z",
+      "role": "primary",
+      "sha256": "95184255b6ec021aac8ca062b944f3ed76d1e01405e5771d9e31368021523eec",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "notes"
+      ],
+      "url": "https://raw.githubusercontent.com/lgy0404/LearnAct/HEAD/README.md"
+    }
+  ],
+  "id": "github:lgy0404/learnact",
+  "identifiers": {},
+  "kind": "agent",
+  "last_verified_at": "2026-10-18T10:59:56Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/lgy0404/LearnAct"
+    }
+  ],
+  "name": "LearnAct",
+  "notes": "At the retained README snapshot, LearnGUI-Online code and the real-world deployment implementation were marked coming soon. The mobile operating system is not established by the reviewed release instructions; no code was executed.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/lgy0404/LearnAct/HEAD/README.md",
+      "target_id": "arxiv:2504.13805",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Released inference and evaluation code for demonstration-conditioned mobile GUI agents on LearnGUI-Offline. The repository describes a multi-agent adaptation method and links the LearnGUI demonstrations.",
+  "topics": [
+    "mobile-navigation",
+    "imitation-learning",
+    "evaluation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/lgy0404/LearnAct"
+}

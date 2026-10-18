@@ -2,7 +2,7 @@
   "schema_version": 1,
   "kind": "benchmark",
   "profile_count": 60,
-  "curated_resource_count": 83,
+  "curated_resource_count": 88,
   "unit": "resource profile; count observations retain their own units and populations",
   "limitations": "Source-reviewed descriptions and reported or computed inventory counts. No performance ranking, independent reproduction, or global-completeness claim.",
   "records": [

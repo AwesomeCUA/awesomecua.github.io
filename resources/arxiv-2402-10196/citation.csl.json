@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2402.10196",
+  "citation-key": "arxiv_2402_10196",
+  "type": "article",
+  "title": "A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents",
+  "URL": "https://arxiv.org/abs/2402.10196v1",
+  "custom": {
+    "catalog_id": "arxiv:2402.10196",
+    "catalog_kind": "survey",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2402.10196",
+    "identifiers": {
+      "arxiv": "2402.10196"
+    },
+    "first_published_at": "2024-02-15",
+    "record_updated_at": "2024-02-15",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b6d81a6b9de6fa32c8f5749d029d0819ddf3b310ae00a4872877ee72580e8879",
+      "submitted_at": "2024-02-15T18:51:32Z",
+      "updated_at": "2024-02-15T18:51:32Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2402.10196v1"
+    }
+  },
+  "note": "First published: 2024-02-15; Recorded arXiv version: v1; Recorded version updated: 2024-02-15T18:51:32Z.",
+  "author": [
+    {
+      "literal": "Lingbo Mo"
+    },
+    {
+      "literal": "Zeyi Liao"
+    },
+    {
+      "literal": "Boyuan Zheng"
+    },
+    {
+      "literal": "Yu Su"
+    },
+    {
+      "literal": "Chaowei Xiao"
+    },
+    {
+      "literal": "Huan Sun"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.10196",
+  "genre": "preprint",
+  "version": "1"
+}

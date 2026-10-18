@@ -1,0 +1,124 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "license_review": {
+      "code": {
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/ghadinehme/VideoCAD/2d69eeaf0ac44210c76dcab2d08b4d4610be236c/LICENSE"
+        ],
+        "reason": "MIT declaration in the author repository LICENSE; separate data, weights and document scopes are not inferred."
+      }
+    },
+    "repository_id": 1079441024,
+    "repository_revision": "2d69eeaf0ac44210c76dcab2d08b4d4610be236c"
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T12:02:53.536297+00:00",
+      "role": "primary",
+      "sha256": "cbb08803922b4b7736979ca0a5fe552b111fcd428fa9317401bc090b14bb4e54",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "topics",
+        "scope",
+        "notes",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/ghadinehme/VideoCAD/2d69eeaf0ac44210c76dcab2d08b4d4610be236c/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T12:02:30.768857+00:00",
+      "role": "primary",
+      "sha256": "ff80afd35c79d8dd27dd7b9284ce082fe238c13a113aa19400ca0dc2d18ff194",
+      "supports": [
+        "identity",
+        "details.repository_id"
+      ],
+      "url": "https://api.github.com/repos/ghadinehme/VideoCAD"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T12:02:52.564274+00:00",
+      "role": "primary",
+      "sha256": "9ded7c6ef25b88879e9d46939ca7ff3bef97362e76dbdb808e57c67008541557",
+      "supports": [
+        "release_status",
+        "details.repository_revision",
+        "notes"
+      ],
+      "url": "https://api.github.com/repos/ghadinehme/VideoCAD/git/trees/2d69eeaf0ac44210c76dcab2d08b4d4610be236c?recursive=1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T12:02:34.311949+00:00",
+      "role": "primary",
+      "sha256": "a303d95a811331cd6ee23b0340f1b9ef2dd996835bfbc66656a871ff94eead50",
+      "supports": [
+        "environments",
+        "summary",
+        "relations",
+        "notes"
+      ],
+      "url": "https://arxiv.org/html/2505.24838v2"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T12:03:24.765415+00:00",
+      "role": "primary",
+      "sha256": "8e02753a1016dc67c97b395934313027b5f91b74209c7a24438de70fdc19cad1",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/ghadinehme/VideoCAD/2d69eeaf0ac44210c76dcab2d08b4d4610be236c/LICENSE"
+    }
+  ],
+  "id": "github:ghadinehme/videocad",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-18T12:02:53.536297+00:00",
+  "licenses": {
+    "code": {
+      "basis": "The author repository at the inspected commit contains the standard MIT license. This declaration does not establish terms for externally hosted data or weights.",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-18T12:03:24.765415+00:00",
+      "url": "https://raw.githubusercontent.com/ghadinehme/VideoCAD/2d69eeaf0ac44210c76dcab2d08b4d4610be236c/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/ghadinehme/VideoCAD"
+    }
+  ],
+  "name": "VideoCAD training and evaluation code",
+  "notes": "The paper links this author repository. Training, preprocessing, model and evaluation source files are released; runtime behavior has not been independently reproduced. Onshape is a browser-based CAD environment; supported operating systems are not inferred. The full dataset and a checkpoint are linked separately, and their payloads were not downloaded for this review. MIT is recorded only for this repository code; external data and weight licenses remain unknown.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://arxiv.org/html/2505.24838v2",
+      "target_id": "arxiv:2505.24838",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "VideoCADFormer training, action-log preprocessing and evaluation code for learning CAD interface action sequences from screen recordings of browser-based Onshape.",
+  "topics": [
+    "grounding",
+    "imitation-learning",
+    "evaluation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/ghadinehme/VideoCAD"
+}

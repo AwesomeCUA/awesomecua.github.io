@@ -5051,6 +5051,64 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2505.12981v2",
+    "archive": "arXiv",
+    "archive_location": "2505.12981",
+    "author": [
+      {
+        "literal": "Liangxuan Wu"
+      },
+      {
+        "literal": "Chao Wang"
+      },
+      {
+        "literal": "Tianming Liu"
+      },
+      {
+        "literal": "Yanjie Zhao"
+      },
+      {
+        "literal": "Haoyu Wang"
+      }
+    ],
+    "citation-key": "arxiv_2505_12981",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9657a66aebe46151ed56bf76131ffe45f52459c1cf0e000907113776c91259d9",
+        "submitted_at": "2025-05-19T11:17:46Z",
+        "updated_at": "2025-05-20T07:02:05Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2505.12981v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.12981",
+      "catalog_id": "arxiv:2505.12981",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-05-19",
+      "identifiers": {
+        "arxiv": "2505.12981"
+      },
+      "record_updated_at": "2025-05-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.12981",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-19; Recorded arXiv version: v2; Recorded version updated: 2025-05-20T07:02:05Z.",
+    "title": "From Assistants to Adversaries: Exploring the Security Risks of Mobile LLM Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2505.14141v1",
     "archive": "arXiv",
     "archive_location": "2505.14141",
@@ -6024,6 +6082,73 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2506.13205v6",
+    "archive": "arXiv",
+    "archive_location": "2506.13205",
+    "author": [
+      {
+        "literal": "Xuan Wang"
+      },
+      {
+        "literal": "Siyuan Liang"
+      },
+      {
+        "literal": "Zhe Liu"
+      },
+      {
+        "literal": "Yi Yu"
+      },
+      {
+        "literal": "Aishan Liu"
+      },
+      {
+        "literal": "Yuliang Lu"
+      },
+      {
+        "literal": "Xitong Gao"
+      },
+      {
+        "literal": "Ee-Chien Chang"
+      }
+    ],
+    "citation-key": "arxiv_2506_13205",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "390304ce515886fa15fb8cd74d8b2df161a75b9adc0f4d2fad1f65976c6a6ce7",
+        "submitted_at": "2025-06-16T08:09:32Z",
+        "updated_at": "2025-09-05T14:19:03Z",
+        "version": 6,
+        "versioned_url": "https://arxiv.org/abs/2506.13205v6"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2506.13205",
+      "catalog_id": "arxiv:2506.13205",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-06-16",
+      "identifiers": {
+        "arxiv": "2506.13205"
+      },
+      "record_updated_at": "2025-09-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2506.13205",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2025-06-16; Recorded arXiv version: v6; Recorded version updated: 2025-09-05T14:19:03Z.",
+    "title": "Poison Once, Control Anywhere: Clean-Text Visual Backdoors in VLM-based Mobile Agents",
+    "type": "article",
+    "version": "6"
+  },
+  {
     "URL": "https://arxiv.org/abs/2506.20332v4",
     "archive": "arXiv",
     "archive_location": "2506.20332",
@@ -6897,6 +7022,67 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2508.19493v2",
+    "archive": "arXiv",
+    "archive_location": "2508.19493",
+    "author": [
+      {
+        "literal": "Zhixin Lin"
+      },
+      {
+        "literal": "Jungang Li"
+      },
+      {
+        "literal": "Shidong Pan"
+      },
+      {
+        "literal": "Yibo Shi"
+      },
+      {
+        "literal": "Yue Yao"
+      },
+      {
+        "literal": "Dongliang Xu"
+      }
+    ],
+    "citation-key": "arxiv_2508_19493",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "815c8c1fa5993d2ef58798abd43a2b8945c476c27c777d30c1cbfacadd87af84",
+        "submitted_at": "2025-08-27T00:41:28Z",
+        "updated_at": "2025-09-03T07:48:34Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2508.19493v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2508.19493",
+      "catalog_id": "arxiv:2508.19493",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-08-27",
+      "identifiers": {
+        "arxiv": "2508.19493"
+      },
+      "record_updated_at": "2025-09-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2508.19493",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2025-08-27; Recorded arXiv version: v2; Recorded version updated: 2025-09-03T07:48:34Z.",
+    "title": "Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2508.19679v2",
     "archive": "arXiv",
     "archive_location": "2508.19679",
@@ -7612,6 +7798,67 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2510.07809v4",
+    "archive": "arXiv",
+    "archive_location": "2510.07809",
+    "author": [
+      {
+        "literal": "Renhua Ding"
+      },
+      {
+        "literal": "Xiao Yang"
+      },
+      {
+        "literal": "Zhengwei Fang"
+      },
+      {
+        "literal": "Jun Luo"
+      },
+      {
+        "literal": "Kun He"
+      },
+      {
+        "literal": "Jun Zhu"
+      }
+    ],
+    "citation-key": "arxiv_2510_07809",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e80999148931b7485d51ef87887d06240f813747a9739282ed0daf53a912f9f6",
+        "submitted_at": "2025-10-09T05:34:57Z",
+        "updated_at": "2026-04-09T01:41:48Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2510.07809v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.07809",
+      "catalog_id": "arxiv:2510.07809",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-09",
+      "identifiers": {
+        "arxiv": "2510.07809"
+      },
+      "record_updated_at": "2026-04-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.07809",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-09; Recorded arXiv version: v4; Recorded version updated: 2026-04-09T01:41:48Z.",
+    "title": "Invisible to Humans, Triggered by Agents: Stealthy Jailbreak Attacks on Mobile Vision-Language Agents",
+    "type": "article",
+    "version": "4"
+  },
+  {
     "URL": "https://arxiv.org/abs/2510.07988v1",
     "archive": "arXiv",
     "archive_location": "2510.07988",
@@ -8029,6 +8276,67 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2510.27140v3",
+    "archive": "arXiv",
+    "archive_location": "2510.27140",
+    "author": [
+      {
+        "literal": "Chenghao Du"
+      },
+      {
+        "literal": "Quanfeng Huang"
+      },
+      {
+        "literal": "Tingxuan Tang"
+      },
+      {
+        "literal": "Zihao Wang"
+      },
+      {
+        "literal": "Adwait Nadkarni"
+      },
+      {
+        "literal": "Yue Xiao"
+      }
+    ],
+    "citation-key": "arxiv_2510_27140",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "61b611712fff54af25aae660f2353fa6c3aaa764b0767831ebf2278c120d9dea",
+        "submitted_at": "2025-10-31T03:35:59Z",
+        "updated_at": "2026-07-07T02:18:26Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2510.27140v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.27140",
+      "catalog_id": "arxiv:2510.27140",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-31",
+      "identifiers": {
+        "arxiv": "2510.27140"
+      },
+      "record_updated_at": "2026-07-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.27140",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          31
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-31; Recorded arXiv version: v3; Recorded version updated: 2026-07-07T02:18:26Z.",
+    "title": "Measuring the Security of Mobile LLM Agents under Adversarial Prompts from Untrusted Third-Party Channels",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2511.09157v1",
     "archive": "arXiv",
     "archive_location": "2511.09157",
@@ -8149,6 +8457,76 @@
     "title": "Mobile-Agent-RAG: Driving Smart Multi-Agent Coordination with Contextual Knowledge Empowerment for Long-Horizon Mobile Automation",
     "type": "article",
     "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2511.13248v1",
+    "archive": "arXiv",
+    "archive_location": "2511.13248",
+    "author": [
+      {
+        "literal": "Fuyao Zhang"
+      },
+      {
+        "literal": "Jiaming Zhang"
+      },
+      {
+        "literal": "Che Wang"
+      },
+      {
+        "literal": "Xiongtao Sun"
+      },
+      {
+        "literal": "Yurong Hao"
+      },
+      {
+        "literal": "Guowei Guan"
+      },
+      {
+        "literal": "Wenjie Li"
+      },
+      {
+        "literal": "Longtao Huang"
+      },
+      {
+        "literal": "Wei Yang Bryan Lim"
+      }
+    ],
+    "citation-key": "arxiv_2511_13248",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d918a5754fe907fc273639f3277a3566d649c08da244714d0d7737456bede230",
+        "submitted_at": "2025-11-17T11:08:45Z",
+        "updated_at": "2025-11-17T11:08:45Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2511.13248v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2511.13248",
+      "catalog_id": "arxiv:2511.13248",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-11-17",
+      "identifiers": {
+        "arxiv": "2511.13248"
+      },
+      "record_updated_at": "2025-11-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2511.13248",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2025-11-17; Recorded arXiv version: v1; Recorded version updated: 2025-11-17T11:08:45Z.",
+    "title": "DualTAP: A Dual-Task Adversarial Protector for Mobile MLLM Agents",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2511.16590v1",
@@ -10204,6 +10582,115 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2604.00986v2",
+    "archive": "arXiv",
+    "archive_location": "2604.00986",
+    "author": [
+      {
+        "literal": "Zhengyang Tang"
+      },
+      {
+        "literal": "Ke Ji"
+      },
+      {
+        "literal": "Xidong Wang"
+      },
+      {
+        "literal": "Zihan Ye"
+      },
+      {
+        "literal": "Xinyuan Wang"
+      },
+      {
+        "literal": "Yiduo Guo"
+      },
+      {
+        "literal": "Ziniu Li"
+      },
+      {
+        "literal": "Chenxin Li"
+      },
+      {
+        "literal": "Jingyuan Hu"
+      },
+      {
+        "literal": "Shunian Chen"
+      },
+      {
+        "literal": "Tongxu Luo"
+      },
+      {
+        "literal": "Jiaxi Bi"
+      },
+      {
+        "literal": "Zeyu Qin"
+      },
+      {
+        "literal": "Shaobo Wang"
+      },
+      {
+        "literal": "Xin Lai"
+      },
+      {
+        "literal": "Pengyuan Lyu"
+      },
+      {
+        "literal": "Junyi Li"
+      },
+      {
+        "literal": "Can Xu"
+      },
+      {
+        "literal": "Chengquan Zhang"
+      },
+      {
+        "literal": "Han Hu"
+      },
+      {
+        "literal": "Ming Yan"
+      },
+      {
+        "literal": "Benyou Wang"
+      }
+    ],
+    "citation-key": "arxiv_2604_00986",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3f137028b7608598fb1885a0bf1330e00c9404851571f856665aae1af1d9d63c",
+        "submitted_at": "2026-04-01T14:50:50Z",
+        "updated_at": "2026-04-02T13:51:55Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2604.00986v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.00986",
+      "catalog_id": "arxiv:2604.00986",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-01",
+      "identifiers": {
+        "arxiv": "2604.00986"
+      },
+      "record_updated_at": "2026-04-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.00986",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          1
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-01; Recorded arXiv version: v2; Recorded version updated: 2026-04-02T13:51:55Z.",
+    "title": "Do Phone-Use Agents Respect Your Privacy?",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2604.09155v1",
     "archive": "arXiv",
     "archive_location": "2604.09155",
@@ -11323,6 +11810,61 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2607.00333v2",
+    "archive": "arXiv",
+    "archive_location": "2607.00333",
+    "author": [
+      {
+        "literal": "Zidong Zhang"
+      },
+      {
+        "literal": "Zhentao Xie"
+      },
+      {
+        "literal": "Wenrui Diao"
+      },
+      {
+        "literal": "Jianliang Wu"
+      }
+    ],
+    "citation-key": "arxiv_2607_00333",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cd4d31e477d5915626d471682e52e5cd6083d9b0c67196f6de5de2a29c6a3058",
+        "submitted_at": "2026-07-01T02:17:19Z",
+        "updated_at": "2026-07-14T03:01:43Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2607.00333v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.00333",
+      "catalog_id": "arxiv:2607.00333",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-01",
+      "identifiers": {
+        "arxiv": "2607.00333"
+      },
+      "record_updated_at": "2026-07-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.00333",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          1
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-01; Recorded arXiv version: v2; Recorded version updated: 2026-07-14T03:01:43Z.",
+    "title": "(A)I Sees What You Don't: Exploiting New Attack Surfaces in Third-Party Mobile Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2607.12625v2",
     "archive": "arXiv",
     "archive_location": "2607.12625",
@@ -11696,6 +12238,64 @@
     },
     "note": "First published: 2026-08-06; Recorded arXiv version: v1; Recorded version updated: 2026-08-06T14:10:23Z.",
     "title": "The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2608.08939v1",
+    "archive": "arXiv",
+    "archive_location": "2608.08939",
+    "author": [
+      {
+        "literal": "Rahul Deivasigamani"
+      },
+      {
+        "literal": "Sayeda Faatin Alvi"
+      },
+      {
+        "literal": "Derqui Andrea"
+      },
+      {
+        "literal": "Kaushal Punjabi"
+      },
+      {
+        "literal": "Stjepan Picek"
+      }
+    ],
+    "citation-key": "arxiv_2608_08939",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "64e4845ce85dd67b7790cf5de357f12deb72b71eb72031298e1064809099f063",
+        "submitted_at": "2026-08-09T22:13:55Z",
+        "updated_at": "2026-08-09T22:13:55Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2608.08939v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.08939",
+      "catalog_id": "arxiv:2608.08939",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-08-09",
+      "identifiers": {
+        "arxiv": "2608.08939"
+      },
+      "record_updated_at": "2026-08-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.08939",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-09; Recorded arXiv version: v1; Recorded version updated: 2026-08-09T22:13:55Z.",
+    "title": "Not an A11y: How Android Accessibility Exposes Mobile AI Agents to Indirect Prompt Injection",
     "type": "article",
     "version": "1"
   },

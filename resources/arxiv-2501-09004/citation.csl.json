@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2501.09004",
+  "citation-key": "arxiv_2501_09004",
+  "type": "article",
+  "title": "Aegis2.0: A Diverse AI Safety Dataset and Risks Taxonomy for Alignment of LLM Guardrails",
+  "URL": "https://arxiv.org/abs/2501.09004v1",
+  "custom": {
+    "catalog_id": "arxiv:2501.09004",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2501.09004",
+    "identifiers": {
+      "arxiv": "2501.09004"
+    },
+    "first_published_at": "2025-01-15",
+    "record_updated_at": "2025-01-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "40a3db0ea51d2b06ad914ae1444da5bb3c1fe511b9154c8c84866797849921e3",
+      "submitted_at": "2025-01-15T18:37:08Z",
+      "updated_at": "2025-01-15T18:37:08Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2501.09004v1"
+    }
+  },
+  "note": "First published: 2025-01-15; Recorded arXiv version: v1; Recorded version updated: 2025-01-15T18:37:08Z.",
+  "author": [
+    {
+      "literal": "Shaona Ghosh"
+    },
+    {
+      "literal": "Prasoon Varshney"
+    },
+    {
+      "literal": "Makesh Narsimhan Sreedhar"
+    },
+    {
+      "literal": "Aishwarya Padmakumar"
+    },
+    {
+      "literal": "Traian Rebedea"
+    },
+    {
+      "literal": "Jibin Rajan Varghese"
+    },
+    {
+      "literal": "Christopher Parisien"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2501.09004",
+  "genre": "preprint",
+  "version": "1"
+}

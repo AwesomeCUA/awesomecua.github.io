@@ -40,6 +40,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/workflow/reco
   An online skill-evolution framework turns GUI interaction traces and evaluator feedback into a versioned library of reusable procedures without updating model parameters. Controlled OSWorld comparisons examine both the benefits of shared procedural memory and its domain-dependent instability under repeated revision.
 - [OmegaUse-SOP: SOP Engineering for Professional Computer Use from Human Demonstrations](https://awesomecua.github.io/resources/arxiv-2609-02149/) — 2026-09-02
   OmegaUse-SOP converts expert GUI demonstrations into configurable procedures and refines them with domain rules and human input. It records, abstracts, grounds and verifies live execution, with a case study of photovoltaic simulation workflows in PVsyst 7.2.
+- [A Systematic Survey of Agentic Skills: Architecture, Lifecycle, and Security](https://awesomecua.github.io/resources/arxiv-2608-29596/) — 2026-08-30
+  Surveys modular agentic skill architectures, skill lifecycles, and security risks in autonomous tool- and interface-using agents.
 - [Inducing Task Models from Computer-Use Traces](https://awesomecua.github.io/resources/arxiv-2608-20319/) — 2026-08-20
   Task Model Induction disentangles concurrent activities in screenshot and mouse/keyboard traces, then constructs hierarchical goals and procedural control flow for each task. Evaluation tests reconstruction of observed execution and reuse of derived skills on held-out tasks.
 - [UI-Mate: Advancing Open-Weight Foundation GUI Agents with In-Context Demonstrations](https://awesomecua.github.io/resources/arxiv-2608-15930/) — 2026-08-16
@@ -156,6 +158,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/workflow/reco
   Introduces InstructExcel, a benchmark for generating Excel OfficeScripts from natural-language requests, built using scripts recorded from user actions and a collection of existing spreadsheets.
 - [SteP: Stacked LLM Policies for Web Actions](https://awesomecua.github.io/resources/arxiv-2310-03720/) — 2023-10-05
   SteP dynamically composes specialized web-action policies through a stack that records the active chain of policy calls. It studies this control structure across WebArena, MiniWoB++, and CRM workflows.
+- [SheetCopilot: Bringing Software Productivity to the Next Level through Large Language Models](https://awesomecua.github.io/resources/arxiv-2305-19308/) — 2023-05-30
+  Introduces SheetCopilot, an agent that steers spreadsheet software via atomic virtual APIs, along with a 221-task spreadsheet manipulation benchmark.
 - [Kite: Building Conversational Bots from Mobile Apps](https://awesomecua.github.io/resources/url-901ca855640457dfe2f1/) — 2018-06
   Derives task graphs from demonstrated Android app interactions and layers a conversational question-answer interface over those graphs. The evaluation examines task-model extraction and developer use of the resulting bot templates.
 - [Reinforcement Learning on Web Interfaces Using Workflow-Guided Exploration](https://awesomecua.github.io/resources/arxiv-1802-08802/) — 2018-02-24
@@ -213,6 +217,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/workflow/reco
   Tools for learning and automating workflows from desktop demonstrations.
 - [Scribe](https://awesomecua.github.io/resources/url-63ef8c7e455951a20281/) — Date not recorded
   Workflow recording and documentation product adjacent to agent data collection.
+- [SheetCopilot](https://awesomecua.github.io/resources/github-bravegroup-sheetcopilot/) — Date not recorded
+  Spreadsheet automation agent for Windows/Excel, with benchmark assets and a separately released headless Ubuntu evaluation backend.
 - [ShowUI-Aloha](https://awesomecua.github.io/resources/github-showlab-showui-aloha/) — Date not recorded
   Desktop agent that records demonstrations, derives semantic action traces, and uses them to plan and execute related workflows.
 - [Simular](https://awesomecua.github.io/resources/url-0bdd6b5ebf2e1f248828/) — Date not recorded

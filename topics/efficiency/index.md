@@ -112,6 +112,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/efficiency/re
   UI-KOBE explores mobile applications to build graphs of UI states and executable transitions. A lightweight agent then matches its current screenshot to the graph and chooses a transition, local action, completion signal or fallback action.
 - [MobileExplorer: Accelerating On-Device Inference for Mobile GUI Agents via Online Exploration](https://awesomecua.github.io/resources/arxiv-2605-26546/) — 2026-05-26
   MobileExplorer probes relevant UI elements while an on-device model is reasoning, then supplies the exploration trace as compact context. A two-level rollback mechanism restores the working state when simple backtracking fails.
+- [PANDO: Efficient Multimodal AI Agents via Online Skill Distillation](https://awesomecua.github.io/resources/arxiv-2605-24785/) — 2026-05-24
+  Analyzes inefficiency in VisualWebArena trajectories and distills reusable online skills to reduce repeated actions and token overhead in multimodal web agents.
 - [Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling](https://awesomecua.github.io/resources/arxiv-2605-21470/) — 2026-05-20
   Agent JIT compilation turns browser task descriptions into validated executable plans containing model calls, tools and parallel work. A cost-based scheduler and pre/postcondition protocol target latency and incorrect tool use in web-agent execution.
 - [Weasel: Out-of-Domain Generalization for Web Agents via Importance-Diversity Data Selection](https://awesomecua.github.io/resources/arxiv-2605-20291/) — 2026-05-19
@@ -134,6 +136,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/efficiency/re
   SnapGuard detects screenshot-based prompt injection through complementary visual-stability and recovered textual cues. Its evaluation compares detection quality and inference cost across attack and benign-page settings, rather than establishing universal runtime prevention.
 - [Odysseys: Benchmarking Web Agents on Realistic Long Horizon Tasks](https://awesomecua.github.io/resources/arxiv-2604-24964/) — 2026-04-27
   Introduces Odysseys, a live-web benchmark of long, multi-site tasks derived from browsing sessions. Graded task rubrics and a rubric-score-per-step measure evaluate both partial progress and trajectory efficiency.
+- [OS-SPEAR: A Toolkit for the Safety, Performance,Efficiency, and Robustness Analysis of OS Agents](https://awesomecua.github.io/resources/arxiv-2604-24348/) — 2026-04-27
+  Provides an evaluation toolkit for joint safety, efficiency, and multimodal robustness analysis of operating-system GUI agents.
 - [GoClick: Lightweight Element Grounding Model for Autonomous GUI Interaction](https://awesomecua.github.io/resources/arxiv-2604-23941/) — 2026-04-27
   Studies a compact encoder-decoder grounding model and progressive training-data refinement for resource-constrained GUI interaction.
 - [UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In for GUI Grounding](https://awesomecua.github.io/resources/arxiv-2604-14113/) — 2026-04-15

@@ -42,6 +42,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/self-reflecti
   This study tests vision-language models as task-completion judges using screenshots and instructions from 42 built-in macOS applications. It evaluates judgment accuracy on human-labeled tasks and separately studies how judge feedback affects agent task success.
 - [History-Aware Reasoning for GUI Agents](https://awesomecua.github.io/resources/arxiv-2511-09127/) — 2025-11-12
   HAR-GUI combines episodic reasoning and short-term memory to use earlier interactions when selecting GUI actions. Its training constructs reflective scenarios and correction guidance and applies a hybrid reinforcement-learning reward to the 3B policy.
+- [ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://awesomecua.github.io/resources/arxiv-2509-25140/) — 2025-09-29
+  Distills generalizable reasoning strategies from both successful and failed agent trajectories into a persistent memory bank for test-time retrieval.
 - [MobileUse: A GUI Agent with Hierarchical Reflection for Autonomous Mobile Operation](https://awesomecua.github.io/resources/arxiv-2507-16853/) — 2025-07-21
   MobileUse reflects on errors at action and task timescales, invoking reflection when needed and using proactive exploration to learn unfamiliar apps. It evaluates this mobile execution framework on AndroidWorld and AndroidLab and describes a toolkit for physical-device operation.
 - [UI-Evol: Automatic Knowledge Evolving for Computer Use Agents](https://awesomecua.github.io/resources/arxiv-2505-21964/) — 2025-05-28

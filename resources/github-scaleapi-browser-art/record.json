@@ -1,0 +1,94 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "license_review": {
+      "code": {
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/scaleapi/browser-art/HEAD/README.md",
+          "https://raw.githubusercontent.com/scaleapi/browser-art/HEAD/LICENSE"
+        ],
+        "reason": "The retained README states that the project is MIT licensed, while the retained LICENSE contains Creative Commons Attribution-NonCommercial-NoDerivatives 4.0. These declarations conflict, so a settled code license is not asserted."
+      }
+    }
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T10:59:54Z",
+      "role": "primary",
+      "sha256": "a9d33536fae38485eb6aac9698ae22ed3533510d43f783d6c0e9f9cf95d9c58f",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "licenses.code",
+        "notes"
+      ],
+      "url": "https://raw.githubusercontent.com/scaleapi/browser-art/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-18T11:03:46Z",
+      "role": "primary",
+      "sha256": "f7f28b8c7a1af76b9874ca6d040e8b1eb6768fd1043106c9d315090ea96754e7",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/scaleapi/browser-art/HEAD/LICENSE"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-18T11:03:46Z",
+      "role": "primary",
+      "sha256": "f7f28b8c7a1af76b9874ca6d040e8b1eb6768fd1043106c9d315090ea96754e7",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/scaleapi/browser-art/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:scaleapi/browser-art",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-18T10:59:54Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/scaleapi/browser-art"
+    }
+  ],
+  "name": "BrowserART",
+  "notes": "The retained README and LICENSE contain conflicting code-license declarations. The catalog leaves the code-license value unknown pending an upstream clarification; it does not infer data or model permissions.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/scaleapi/browser-art/HEAD/README.md",
+      "target_id": "arxiv:2410.13886",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Red-teaming benchmark and test suite from Scale AI evaluating whether refusal-trained language models can be jailbroken when deployed as browser agents.",
+  "topics": [
+    "safety-security",
+    "evaluation",
+    "web-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/scaleapi/browser-art"
+}

@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "catalog_sha256": "3c943bd4d62222e1069392a703f7433b69b71bde0837e7272fd83fbc33717814",
+  "catalog_sha256": "dd87ca14e36042ccf95acc78559aa318bc541ba11bb4311c339a9649f24a4118",
   "membership_policy": "Explicit reviewed topic tags only; curated core/adjacent resources. No title-based inference.",
   "count_policy": "Resources are not independent projects. Topic memberships overlap; do not sum topic totals.",
   "citation_policy": "Default retained-source edition; source-specific author/date precision and paper versions are preserved.",
-  "reviewed_resources": 1572,
-  "resources_with_topics": 1572,
+  "reviewed_resources": 1614,
+  "resources_with_topics": 1614,
   "reviewed_resources_without_topics": 0,
   "topics": [
     {
@@ -351,10 +351,10 @@
         "zh": "数据生成"
       },
       "counts": {
-        "total": 337,
+        "total": 338,
         "papers": 258,
         "benchmarks": 0,
-        "datasets": 54,
+        "datasets": 55,
         "models": 2,
         "systems": 23
       },
@@ -636,6 +636,7 @@
         "github:os-copilot/os-genesis",
         "github:osu-nlp-group/skillweaver",
         "github:prentisai/groundgui",
+        "github:runamu/monday",
         "github:showlab/gui-action-narrator",
         "github:squeezeailab/plan-and-act",
         "github:sunblaze-ucb/agentsynth",
@@ -704,9 +705,9 @@
       "exports": [
         {
           "url": "/downloads/topics/data-generation/records.jsonl",
-          "records": 337,
-          "bytes": 1071952,
-          "sha256": "40dc4f1074f20c3533f207419e5022d9317a0f2bf7744e956c5690f7c6dd9c52"
+          "records": 338,
+          "bytes": 1074413,
+          "sha256": "1f3584057005159a1fba0caf349ec41d5e2e402d507db08c01b402f673594c5b"
         },
         {
           "url": "/downloads/topics/data-generation/citations.bib",
@@ -729,8 +730,8 @@
         "zh": "效率"
       },
       "counts": {
-        "total": 148,
-        "papers": 138,
+        "total": 150,
+        "papers": 140,
         "benchmarks": 1,
         "datasets": 0,
         "models": 5,
@@ -811,6 +812,7 @@
         "arxiv:2604.07277",
         "arxiv:2604.14113",
         "arxiv:2604.23941",
+        "arxiv:2604.24348",
         "arxiv:2604.24964",
         "arxiv:2604.25562",
         "arxiv:2604.27151",
@@ -822,6 +824,7 @@
         "arxiv:2605.17320",
         "arxiv:2605.20291",
         "arxiv:2605.21470",
+        "arxiv:2605.24785",
         "arxiv:2605.26546",
         "arxiv:2605.29534",
         "arxiv:2606.01533",
@@ -893,21 +896,21 @@
       "exports": [
         {
           "url": "/downloads/topics/efficiency/records.jsonl",
-          "records": 148,
-          "bytes": 442684,
-          "sha256": "6b47dcf22dc524d45762e41c5304f7de482a5e50c3258284a6402ff6dec3b297"
+          "records": 150,
+          "bytes": 448568,
+          "sha256": "8d2f37c69e1ec4961fe82b630e2448c95da17d6107be9f2e0a3fe7a58ff91621"
         },
         {
           "url": "/downloads/topics/efficiency/citations.bib",
-          "records": 138,
-          "bytes": 93603,
-          "sha256": "1c26fd4257cbe477c09f9505d6c5302735edbb3a7b52aac48e259ddace75b234"
+          "records": 140,
+          "bytes": 94904,
+          "sha256": "d292e8aa6791a9763acd49f3c4be11bfe9a7a8254a75a294cbfb2993378a4904"
         },
         {
           "url": "/downloads/topics/efficiency/citations.csl.json",
-          "records": 138,
-          "bytes": 242305,
-          "sha256": "ce84093e4d830716857c51d7078e9da8981918dfafee009a2f73fd72bbc14d08"
+          "records": 140,
+          "bytes": 245788,
+          "sha256": "28af9effb34b4d0d8d5d1942ba42a8a526013f6c47c5b65badf4603da17a8c40"
         }
       ]
     },
@@ -918,12 +921,12 @@
         "zh": "评测"
       },
       "counts": {
-        "total": 661,
-        "papers": 548,
-        "benchmarks": 81,
+        "total": 682,
+        "papers": 561,
+        "benchmarks": 86,
         "datasets": 9,
         "models": 1,
-        "systems": 22
+        "systems": 25
       },
       "resource_ids": [
         "arxiv:1602.02261",
@@ -935,6 +938,7 @@
         "arxiv:2209.08199",
         "arxiv:2305.08144",
         "arxiv:2305.16653",
+        "arxiv:2305.19308",
         "arxiv:2306.01242",
         "arxiv:2306.06070",
         "arxiv:2307.10088",
@@ -1024,7 +1028,6 @@
         "arxiv:2412.05467",
         "arxiv:2412.10047",
         "arxiv:2412.14161",
-        "arxiv:2412.14470",
         "arxiv:2412.18426",
         "arxiv:2501.01149",
         "arxiv:2501.07572",
@@ -1060,6 +1063,7 @@
         "arxiv:2504.11281",
         "arxiv:2504.11675",
         "arxiv:2504.13805",
+        "arxiv:2504.14064",
         "arxiv:2504.17934",
         "arxiv:2504.18575",
         "arxiv:2505.03570",
@@ -1067,6 +1071,8 @@
         "arxiv:2505.09875",
         "arxiv:2505.11891",
         "arxiv:2505.12842",
+        "arxiv:2505.12981",
+        "arxiv:2505.13076",
         "arxiv:2505.13227",
         "arxiv:2505.13909",
         "arxiv:2505.14289",
@@ -1077,6 +1083,7 @@
         "arxiv:2505.21936",
         "arxiv:2505.24878",
         "arxiv:2506.00618",
+        "arxiv:2506.01616",
         "arxiv:2506.02456",
         "arxiv:2506.02839",
         "arxiv:2506.02865",
@@ -1116,6 +1123,7 @@
         "arxiv:2508.13024",
         "arxiv:2508.14104",
         "arxiv:2508.15832",
+        "arxiv:2508.19493",
         "arxiv:2508.19679",
         "arxiv:2508.21456",
         "arxiv:2509.00366",
@@ -1130,6 +1138,7 @@
         "arxiv:2509.11543",
         "arxiv:2509.13615",
         "arxiv:2509.14382",
+        "arxiv:2509.21782",
         "arxiv:2509.21823",
         "arxiv:2509.21982",
         "arxiv:2509.23263",
@@ -1151,6 +1160,7 @@
         "arxiv:2510.19205",
         "arxiv:2510.24411",
         "arxiv:2510.24563",
+        "arxiv:2510.27140",
         "arxiv:2510.27266",
         "arxiv:2511.04307",
         "arxiv:2511.06417",
@@ -1223,6 +1233,7 @@
         "arxiv:2602.11750",
         "arxiv:2602.12276",
         "arxiv:2602.12544",
+        "arxiv:2602.13516",
         "arxiv:2602.14093",
         "arxiv:2602.14276",
         "arxiv:2602.14296",
@@ -1244,6 +1255,7 @@
         "arxiv:2603.15714",
         "arxiv:2603.17357",
         "arxiv:2603.18429",
+        "arxiv:2603.18762",
         "arxiv:2603.19191",
         "arxiv:2603.19685",
         "arxiv:2603.19993",
@@ -1256,6 +1268,7 @@
         "arxiv:2603.29020",
         "arxiv:2603.29318",
         "arxiv:2604.00886",
+        "arxiv:2604.00986",
         "arxiv:2604.02345",
         "arxiv:2604.04399",
         "arxiv:2604.04918",
@@ -1281,6 +1294,7 @@
         "arxiv:2604.18860",
         "arxiv:2604.19742",
         "arxiv:2604.21375",
+        "arxiv:2604.24348",
         "arxiv:2604.24441",
         "arxiv:2604.24964",
         "arxiv:2604.25380",
@@ -1291,6 +1305,7 @@
         "arxiv:2604.27776",
         "arxiv:2604.27996",
         "arxiv:2605.00551",
+        "arxiv:2605.05509",
         "arxiv:2605.09497",
         "arxiv:2605.10347",
         "arxiv:2605.10966",
@@ -1367,6 +1382,7 @@
         "arxiv:2607.12640",
         "arxiv:2607.14443",
         "arxiv:2607.17050",
+        "arxiv:2607.18659",
         "arxiv:2607.22689",
         "arxiv:2607.23263",
         "arxiv:2607.25904",
@@ -1476,6 +1492,7 @@
         "github:ai-secure/advagent",
         "github:androidarenaagent/androidarena",
         "github:ant-research/guihallubench",
+        "github:bravegroup/sheetcopilot",
         "github:bz-lab/auitestagent",
         "github:camel-ai/crab",
         "github:chessbean1/gui-robust",
@@ -1487,6 +1504,7 @@
         "github:farama-foundation/miniwob-plusplus",
         "github:friedrichor/webtestbench",
         "github:gair-nlp/windowsagentarena-v2",
+        "github:ghadinehme/videocad",
         "github:google-research-datasets/uibert",
         "github:google-research-datasets/uicrit",
         "github:google-research/android_world",
@@ -1502,6 +1520,7 @@
         "github:jylee425/b-moca",
         "github:jylee425/mobilesafetybench",
         "github:kyle8581/web-shepherd",
+        "github:lgy0404/learnact",
         "github:likaixin2000/screenspot-pro-gui-grounding",
         "github:ljang0/iosworld",
         "github:llamatouch/llamatouch",
@@ -1519,22 +1538,28 @@
         "github:openmobile2/openmobile2-code",
         "github:os-copilot/os-map",
         "github:os-copilot/scienceboard",
+        "github:osu-nlp-group/eia_against_webagent",
         "github:osu-nlp-group/mind2web",
         "github:osu-nlp-group/mind2web-2",
         "github:osu-nlp-group/online-mind2web",
         "github:osu-nlp-group/redteamcua",
+        "github:osu-nlp-group/webguard",
         "github:princeton-nlp/webshop",
         "github:purewhiter/mobilegym",
         "github:saagent/mcpworld",
+        "github:scaleapi/browser-art",
+        "github:segev-shlomov/st-webagentbench",
         "github:servicenow/agentlab",
         "github:servicenow/browsergym",
         "github:servicenow/workarena",
         "github:showlab/videogui",
         "github:showlab/worldgui",
         "github:shulin16/mmina",
+        "github:skyworkai/agent-studio",
         "github:sqzhang-lazy/d-pot",
         "github:stonybrooknlp/appworld",
         "github:theagentcompany/theagentcompany",
+        "github:thu-ml/mla-trust",
         "github:thudm/agentbench",
         "github:thudm/android-lab",
         "github:thudm/visualagentbench",
@@ -1543,7 +1568,6 @@
         "github:trycua/cua",
         "github:ubiquitouslearning/droidcall",
         "github:ucsb-ai/screen-point-and-read",
-        "github:udgok/videocad",
         "github:unipat-ai/saas-bench",
         "github:verigui-team/verigui",
         "github:visualwebbench/visualwebbench",
@@ -1595,21 +1619,21 @@
       "exports": [
         {
           "url": "/downloads/topics/evaluation/records.jsonl",
-          "records": 661,
-          "bytes": 2113031,
-          "sha256": "501f408bbece06d64fd60d91c047de9afd99609117a3ee77c845e5ead83917d7"
+          "records": 682,
+          "bytes": 2170558,
+          "sha256": "ebe52bbfc2091d181016ae9650cb8699ae2fcf225e1d141c886223d88b8ea8b4"
         },
         {
           "url": "/downloads/topics/evaluation/citations.bib",
-          "records": 548,
-          "bytes": 404265,
-          "sha256": "7a015533ef32cb7e90a7d8ef4e4ce1201382e04742dd3970f0ab29d69c16146d"
+          "records": 561,
+          "bytes": 412639,
+          "sha256": "5ed98ab91e2b446ab46bd122ced0d43890d37d8e5476710c1d10d73bebcff129"
         },
         {
           "url": "/downloads/topics/evaluation/citations.csl.json",
-          "records": 548,
-          "bytes": 1021678,
-          "sha256": "51df8b8d420804d7e5e58310bdcedac79ebd9105b07348f8dd1883c17f69b003"
+          "records": 561,
+          "bytes": 1044088,
+          "sha256": "a2598a12da379fce87a280f26db3a2f4e28ca6ef19887aae068ae377afaa7818"
         }
       ]
     },
@@ -1620,12 +1644,12 @@
         "zh": "GUI 定位"
       },
       "counts": {
-        "total": 371,
+        "total": 372,
         "papers": 244,
         "benchmarks": 9,
         "datasets": 32,
         "models": 67,
-        "systems": 19
+        "systems": 20
       },
       "resource_ids": [
         "arxiv:1808.09132",
@@ -1872,6 +1896,7 @@
         "github:apple/ml-ferret",
         "github:ariaui/aria-ui",
         "github:bytedance/ui-tars",
+        "github:ghadinehme/videocad",
         "github:google-research-datasets/uibert",
         "github:heimingx/tag",
         "github:huggingface/screensuite",
@@ -1901,12 +1926,12 @@
         "github:showlab/showui",
         "github:showlab/showui-pi",
         "github:sikuli/sikuli",
+        "github:skyworkai/agent-studio",
         "github:tencent/points-gui",
         "github:thudm/cogagent",
         "github:tongui-agent/tongui-agent",
         "github:tongyi-mai/mai-ui",
         "github:ucsb-ai/screen-point-and-read",
-        "github:udgok/videocad",
         "github:vivo/dimo-gui",
         "github:web-infra-dev/midscene",
         "github:webvln/webvln",
@@ -2007,9 +2032,9 @@
       "exports": [
         {
           "url": "/downloads/topics/grounding/records.jsonl",
-          "records": 371,
-          "bytes": 1111601,
-          "sha256": "5a63920785c74269ddb99d571c173f935f802ee287e1f18d83dd468ecfefac01"
+          "records": 372,
+          "bytes": 1116900,
+          "sha256": "f718128411e5894b909d05be192f03dab6f1e8f4b9e325d41aebf250a4f03192"
         },
         {
           "url": "/downloads/topics/grounding/citations.bib",
@@ -2077,12 +2102,12 @@
         "zh": "人机协作"
       },
       "counts": {
-        "total": 78,
+        "total": 79,
         "papers": 71,
         "benchmarks": 1,
         "datasets": 0,
         "models": 0,
-        "systems": 6
+        "systems": 7
       },
       "resource_ids": [
         "arxiv:1909.00031",
@@ -2157,6 +2182,7 @@
         "github:nanobrowser/nanobrowser",
         "github:tongyi-mai/mobileworld",
         "github:wuzheng02/os-kairos",
+        "github:wuzheng02/verios",
         "github:x-lance/meta-gui-baseline",
         "url:392a602c660ffa91be46",
         "url:628b5251757bb3888e89",
@@ -2171,9 +2197,9 @@
       "exports": [
         {
           "url": "/downloads/topics/human-in-the-loop/records.jsonl",
-          "records": 78,
-          "bytes": 245371,
-          "sha256": "df4f8fc8dfa9234df1fc7f32af2e1209f989a3e46eb2ccc11a1fdd4880206267"
+          "records": 79,
+          "bytes": 246872,
+          "sha256": "d8d57c383f63fca3d16c5aa7d6cb6c591d3c04947cd4f7c8c29383e057b91744"
         },
         {
           "url": "/downloads/topics/human-in-the-loop/citations.bib",
@@ -2196,12 +2222,12 @@
         "zh": "模仿学习"
       },
       "counts": {
-        "total": 73,
+        "total": 74,
         "papers": 44,
         "benchmarks": 1,
         "datasets": 14,
         "models": 5,
-        "systems": 9
+        "systems": 10
       },
       "resource_ids": [
         "arxiv:1909.00031",
@@ -2251,10 +2277,11 @@
         "github:apga/go-browse",
         "github:euphoria16/ui-genie",
         "github:gair-nlp/pc-agent-e",
+        "github:ghadinehme/videocad",
+        "github:lgy0404/learnact",
         "github:ltzheng/synapse",
         "github:mcgill-nlp/webllama",
         "github:tongui-agent/tongui-agent",
-        "github:udgok/videocad",
         "github:wuzheng02/gui-cider",
         "github:wwh0411/fedmabench",
         "github:zrw00/guipivot",
@@ -2285,9 +2312,9 @@
       "exports": [
         {
           "url": "/downloads/topics/imitation-learning/records.jsonl",
-          "records": 73,
-          "bytes": 244697,
-          "sha256": "38c1955adc9c352fde1e3316f3a4beb5378424fa2cb7b527f67eaf87365739d9"
+          "records": 74,
+          "bytes": 249748,
+          "sha256": "d067fef7cdbf1a1274600ac2f9548ef19b030381f819ba972f3a44bb1074780d"
         },
         {
           "url": "/downloads/topics/imitation-learning/citations.bib",
@@ -2378,8 +2405,8 @@
         "zh": "交互历史"
       },
       "counts": {
-        "total": 46,
-        "papers": 45,
+        "total": 47,
+        "papers": 46,
         "benchmarks": 0,
         "datasets": 0,
         "models": 1,
@@ -2402,6 +2429,7 @@
         "arxiv:2510.04373",
         "arxiv:2510.09038",
         "arxiv:2510.19205",
+        "arxiv:2510.27210",
         "arxiv:2511.09127",
         "arxiv:2511.12997",
         "arxiv:2512.01763",
@@ -2440,21 +2468,21 @@
       "exports": [
         {
           "url": "/downloads/topics/interaction-history/records.jsonl",
-          "records": 46,
-          "bytes": 143682,
-          "sha256": "d87a9a3b6399abe2cdd3242170faab08c63c3305121338612b0d651d4d7a9e2e"
+          "records": 47,
+          "bytes": 146601,
+          "sha256": "d07b26184bdbc3a77da901a80b9260cc5294c15a4fb0145105f3f5c1936645d0"
         },
         {
           "url": "/downloads/topics/interaction-history/citations.bib",
-          "records": 45,
-          "bytes": 32168,
-          "sha256": "8f5f8f5f6c26da0f9e8b169f85d626e00e2f6ecb65277af595a5cce67b4aa3c4"
+          "records": 46,
+          "bytes": 32778,
+          "sha256": "6842689fa5574f2551581058d3c6241f203db62485d107297371ae9b85865b9f"
         },
         {
           "url": "/downloads/topics/interaction-history/citations.csl.json",
-          "records": 45,
-          "bytes": 82052,
-          "sha256": "a7be9c09558a40cdf90caa3e029c7d213f4e7081bfb5eeb1bb28f77247009cb1"
+          "records": 46,
+          "bytes": 83706,
+          "sha256": "3df7e23ef41d98de5742b516f76313175959047b71c33d2513845e40d16f926b"
         }
       ]
     },
@@ -2581,8 +2609,8 @@
         {
           "url": "/downloads/topics/long-horizon/records.jsonl",
           "records": 99,
-          "bytes": 318196,
-          "sha256": "665b81a87fdb5387f2f24712925a621944549b15a2fbf4a3083b2cb397c0218a"
+          "bytes": 318617,
+          "sha256": "5b54a917668bc0abcc087cedb1d465541429483544f9b5db7b1d796cc69f94f5"
         },
         {
           "url": "/downloads/topics/long-horizon/citations.bib",
@@ -2605,8 +2633,8 @@
         "zh": "记忆"
       },
       "counts": {
-        "total": 158,
-        "papers": 140,
+        "total": 162,
+        "papers": 144,
         "benchmarks": 1,
         "datasets": 2,
         "models": 0,
@@ -2655,6 +2683,7 @@
         "arxiv:2509.13704",
         "arxiv:2509.20729",
         "arxiv:2509.24183",
+        "arxiv:2509.25140",
         "arxiv:2510.00413",
         "arxiv:2510.04373",
         "arxiv:2510.07988",
@@ -2697,12 +2726,14 @@
         "arxiv:2604.13318",
         "arxiv:2604.13822",
         "arxiv:2604.16520",
+        "arxiv:2604.16548",
         "arxiv:2604.27996",
         "arxiv:2605.09317",
         "arxiv:2605.12294",
         "arxiv:2605.12493",
         "arxiv:2605.16883",
         "arxiv:2605.18652",
+        "arxiv:2605.24785",
         "arxiv:2605.26546",
         "arxiv:2605.28646",
         "arxiv:2605.29534",
@@ -2723,6 +2754,7 @@
         "arxiv:2607.12625",
         "arxiv:2608.20319",
         "arxiv:2608.22577",
+        "arxiv:2608.29596",
         "arxiv:2609.04869",
         "arxiv:2609.05511",
         "arxiv:2609.06530",
@@ -2779,21 +2811,21 @@
       "exports": [
         {
           "url": "/downloads/topics/memory/records.jsonl",
-          "records": 158,
-          "bytes": 495910,
-          "sha256": "805f66462c924b16c6db3546b363ad62cf430ee58d644b9149f2d42b427e33ee"
+          "records": 162,
+          "bytes": 508384,
+          "sha256": "e3588b7215f0b233ef787d28ad8ab72327be25650cff9f8336b86b6aa8e5f9a6"
         },
         {
           "url": "/downloads/topics/memory/citations.bib",
-          "records": 140,
-          "bytes": 99253,
-          "sha256": "a4a2a6973c26e8fa726aaad0e625ed2882d2d5da30c644972e0d6217ffbfae40"
+          "records": 144,
+          "bytes": 101909,
+          "sha256": "2f711ccc6c68c189ab697b91c5fe2814e6d0c185277d93f24de26e105e9928e1"
         },
         {
           "url": "/downloads/topics/memory/citations.csl.json",
-          "records": 140,
-          "bytes": 252590,
-          "sha256": "57bc86e8099e98afc367a2166494b5f2774c929e2ac387888de07f20155eddbf"
+          "records": 144,
+          "bytes": 259708,
+          "sha256": "3ca08e16a612402f931d9459f7748c693245bf90b152c1f80bedaeddd7945ede"
         }
       ]
     },
@@ -2804,12 +2836,12 @@
         "zh": "手机操作"
       },
       "counts": {
-        "total": 248,
-        "papers": 181,
+        "total": 261,
+        "papers": 190,
         "benchmarks": 14,
-        "datasets": 12,
+        "datasets": 13,
         "models": 15,
-        "systems": 26
+        "systems": 29
       },
       "resource_ids": [
         "arxiv:1909.00031",
@@ -2882,6 +2914,7 @@
         "arxiv:2505.12299",
         "arxiv:2505.12493",
         "arxiv:2505.12632",
+        "arxiv:2505.12981",
         "arxiv:2505.14141",
         "arxiv:2505.14418",
         "arxiv:2505.16422",
@@ -2895,6 +2928,7 @@
         "arxiv:2506.08012",
         "arxiv:2506.08972",
         "arxiv:2506.10387",
+        "arxiv:2506.13205",
         "arxiv:2506.20332",
         "arxiv:2507.03730",
         "arxiv:2507.04227",
@@ -2907,6 +2941,7 @@
         "arxiv:2508.09057",
         "arxiv:2508.11360",
         "arxiv:2508.15144",
+        "arxiv:2508.19493",
         "arxiv:2508.19679",
         "arxiv:2509.00366",
         "arxiv:2509.00531",
@@ -2917,14 +2952,17 @@
         "arxiv:2509.18119",
         "arxiv:2509.24183",
         "arxiv:2510.00413",
+        "arxiv:2510.07809",
         "arxiv:2510.07988",
         "arxiv:2510.14388",
         "arxiv:2510.14621",
         "arxiv:2510.15455",
         "arxiv:2510.22009",
         "arxiv:2510.24411",
+        "arxiv:2510.27140",
         "arxiv:2511.09157",
         "arxiv:2511.12254",
+        "arxiv:2511.13248",
         "arxiv:2511.16590",
         "arxiv:2512.00846",
         "arxiv:2512.12634",
@@ -2950,6 +2988,7 @@
         "arxiv:2603.20351",
         "arxiv:2603.24533",
         "arxiv:2603.29318",
+        "arxiv:2604.00986",
         "arxiv:2604.09155",
         "arxiv:2604.11784",
         "arxiv:2604.13822",
@@ -2965,11 +3004,13 @@
         "arxiv:2606.14832",
         "arxiv:2606.19930",
         "arxiv:2606.31410",
+        "arxiv:2607.00333",
         "arxiv:2607.12625",
         "arxiv:2607.14548",
         "arxiv:2607.18046",
         "arxiv:2608.05891",
         "arxiv:2608.06065",
+        "arxiv:2608.08939",
         "arxiv:2608.30038",
         "arxiv:2609.04850",
         "arxiv:2609.06792",
@@ -3007,6 +3048,7 @@
         "github:imnearth/coat",
         "github:jacklishufan/mobileworld",
         "github:laokuize/appagent-pro",
+        "github:lgy0404/learnact",
         "github:madeagents/colorbench",
         "github:madeagents/mobile-use",
         "github:microsoft/gui-agent-rl",
@@ -3020,14 +3062,17 @@
         "github:openmobile2/mobilegym-plusplus",
         "github:openmobile2/openmobile2-code",
         "github:purewhiter/mobilegym",
+        "github:runamu/monday",
         "github:stepfun-ai/gelab-zero",
         "github:tencentqqgylab/appagent",
         "github:thudm/android-lab",
         "github:tongyi-mai/mai-ui",
         "github:tongyi-mai/mobileworld",
+        "github:verisafeagent/verisafeagent",
         "github:vivo-ai-lab/bluelm-gui",
         "github:westlake-agi-lab/appagentx",
         "github:wuzheng02/os-kairos",
+        "github:wuzheng02/verios",
         "github:wwh0411/fedmabench",
         "github:x-lance/meta-gui-baseline",
         "github:x-plug/mobileagent",
@@ -3068,21 +3113,21 @@
       "exports": [
         {
           "url": "/downloads/topics/mobile-navigation/records.jsonl",
-          "records": 248,
-          "bytes": 816399,
-          "sha256": "6bc653dd407a1c7dc4321bd874d6048ebcb2008bed6d2b0bbf3e2dffe981b0c7"
+          "records": 261,
+          "bytes": 850964,
+          "sha256": "c559133944b3ecd0436714d2269c669aa985cdf78344b738c8a6dcc4e6c1a726"
         },
         {
           "url": "/downloads/topics/mobile-navigation/citations.bib",
-          "records": 181,
-          "bytes": 149837,
-          "sha256": "4c80a3511e76aed3f171992d8fea7623f7c5e11f01b7587f203efbaa72db5d75"
+          "records": 190,
+          "bytes": 155749,
+          "sha256": "bd2f22228553be82c95c2ce96a4de158c835aaf04b426a80c9d2a037ba92f86c"
         },
         {
           "url": "/downloads/topics/mobile-navigation/citations.csl.json",
-          "records": 181,
-          "bytes": 358668,
-          "sha256": "525540d353a84e0d12fed4187b58945cddfd2365f285053887e2710c87e2433e"
+          "records": 190,
+          "bytes": 374510,
+          "sha256": "5441097b9007adff20b228532d15f51f127724f58674e061e523d3c15974335a"
         }
       ]
     },
@@ -3170,8 +3215,8 @@
         "zh": "规划"
       },
       "counts": {
-        "total": 269,
-        "papers": 206,
+        "total": 272,
+        "papers": 209,
         "benchmarks": 0,
         "datasets": 4,
         "models": 27,
@@ -3256,6 +3301,7 @@
         "arxiv:2504.13936",
         "arxiv:2504.14239",
         "arxiv:2504.21024",
+        "arxiv:2504.21776",
         "arxiv:2505.00416",
         "arxiv:2505.05440",
         "arxiv:2505.12299",
@@ -3305,6 +3351,7 @@
         "arxiv:2510.14388",
         "arxiv:2510.19949",
         "arxiv:2510.24563",
+        "arxiv:2510.27210",
         "arxiv:2511.04137",
         "arxiv:2511.10705",
         "arxiv:2511.22235",
@@ -3364,6 +3411,7 @@
         "arxiv:2607.22689",
         "arxiv:2607.24167",
         "arxiv:2607.28399",
+        "arxiv:2608.00202",
         "arxiv:2608.25777",
         "arxiv:2608.29305",
         "arxiv:2609.02885",
@@ -3455,21 +3503,21 @@
       "exports": [
         {
           "url": "/downloads/topics/planning/records.jsonl",
-          "records": 269,
-          "bytes": 820450,
-          "sha256": "74fd9abe7569d9795119cff7aad7bd959032b6719d43898e0bc036cbefba14d9"
+          "records": 272,
+          "bytes": 831327,
+          "sha256": "ca8aa45c07cba11eb0f276017a9ac6b7d54d80585e548f31742a61d2345354fa"
         },
         {
           "url": "/downloads/topics/planning/citations.bib",
-          "records": 206,
-          "bytes": 156829,
-          "sha256": "aca9583f284a8122110883e71efdb7a1e2fafd647ba9b21dfc59d691e58047e3"
+          "records": 209,
+          "bytes": 158678,
+          "sha256": "e7012906c5dd7ae6eafb39632da7b8ace2fc0ed1e7add7a846d2771b912adb29"
         },
         {
           "url": "/downloads/topics/planning/citations.csl.json",
-          "records": 206,
-          "bytes": 390204,
-          "sha256": "d2f9da5437a223b59a623765d465663ff23e28393b1878119a88b8238813ab7e"
+          "records": 209,
+          "bytes": 395119,
+          "sha256": "45b4638d37a2b5e3c4823e0d2553a223f644f082e5eb5e88cccc131b9016d4e1"
         }
       ]
     },
@@ -3480,12 +3528,12 @@
         "zh": "录制"
       },
       "counts": {
-        "total": 22,
+        "total": 23,
         "papers": 15,
         "benchmarks": 0,
         "datasets": 1,
         "models": 0,
-        "systems": 6
+        "systems": 7
       },
       "resource_ids": [
         "arxiv:2412.17589",
@@ -3504,6 +3552,7 @@
         "github:china-qijizhifeng/work2skill",
         "github:openadaptai/openadapt",
         "github:showlab/showui-aloha",
+        "github:skyworkai/agent-studio",
         "url:243ab00712ba19cc2089",
         "url:347925d0f440d6396080",
         "url:392a602c660ffa91be46",
@@ -3518,9 +3567,9 @@
       "exports": [
         {
           "url": "/downloads/topics/recording/records.jsonl",
-          "records": 22,
-          "bytes": 69254,
-          "sha256": "c5689b8689ab99fad9d75a0c624b0d569eb46eb555c5d138e80d1ed1d1f7b533"
+          "records": 23,
+          "bytes": 71056,
+          "sha256": "5f33501cedf981e6bd9c2f1b892c3759680786acc24ccdac96ab91157f8aa375"
         },
         {
           "url": "/downloads/topics/recording/citations.bib",
@@ -3543,8 +3592,8 @@
         "zh": "强化学习"
       },
       "counts": {
-        "total": 230,
-        "papers": 180,
+        "total": 231,
+        "papers": 181,
         "benchmarks": 2,
         "datasets": 5,
         "models": 23,
@@ -3628,6 +3677,7 @@
         "arxiv:2510.17790",
         "arxiv:2510.20286",
         "arxiv:2510.22009",
+        "arxiv:2510.27210",
         "arxiv:2510.27266",
         "arxiv:2511.07332",
         "arxiv:2511.09127",
@@ -3789,21 +3839,21 @@
       "exports": [
         {
           "url": "/downloads/topics/reinforcement-learning/records.jsonl",
-          "records": 230,
-          "bytes": 695961,
-          "sha256": "884ce134828f38286cabd7052c771f4b719a368b69fdec6e902fc0d24d5e2d4c"
+          "records": 231,
+          "bytes": 698880,
+          "sha256": "979e29690a614ec3566b003d7b3726289474614b2efc6a013db5f80d24f765c4"
         },
         {
           "url": "/downloads/topics/reinforcement-learning/citations.bib",
-          "records": 180,
-          "bytes": 137345,
-          "sha256": "26f827086a6dc5f73fceac25ece9b5d9c8550d4a6bc0ed04507f0ec0d83f6eee"
+          "records": 181,
+          "bytes": 137955,
+          "sha256": "c84ad9f0c381d319afd0acadf1cfa20a336684f70ce2262b2f9a20603f14a6bd"
         },
         {
           "url": "/downloads/topics/reinforcement-learning/citations.csl.json",
-          "records": 180,
-          "bytes": 355287,
-          "sha256": "6950e50c8ebc3a49571cf3a98a3d4f65982768c69b1b3d421274108422efc0f5"
+          "records": 181,
+          "bytes": 356941,
+          "sha256": "30a1d31462fb35e215b500e3d56e1c24a6eaa9db365f27b1f294cd780c579743"
         }
       ]
     },
@@ -3911,9 +3961,9 @@
         "zh": "鲁棒性"
       },
       "counts": {
-        "total": 174,
-        "papers": 162,
-        "benchmarks": 9,
+        "total": 183,
+        "papers": 170,
+        "benchmarks": 10,
         "datasets": 1,
         "models": 0,
         "systems": 2
@@ -3921,6 +3971,7 @@
       "resource_ids": [
         "arxiv:2309.08172",
         "arxiv:2311.18751",
+        "arxiv:2402.10196",
         "arxiv:2403.03788",
         "arxiv:2404.05902",
         "arxiv:2404.16660",
@@ -3938,9 +3989,11 @@
         "arxiv:2505.12842",
         "arxiv:2505.20660",
         "arxiv:2505.21964",
+        "arxiv:2506.01616",
         "arxiv:2506.04614",
         "arxiv:2506.07385",
         "arxiv:2506.08012",
+        "arxiv:2506.13205",
         "arxiv:2506.14477",
         "arxiv:2506.15425",
         "arxiv:2507.16853",
@@ -3948,10 +4001,12 @@
         "arxiv:2509.11250",
         "arxiv:2509.20729",
         "arxiv:2509.21552",
+        "arxiv:2509.21782",
         "arxiv:2510.01354",
         "arxiv:2510.01670",
         "arxiv:2510.03230",
         "arxiv:2510.03285",
+        "arxiv:2510.07809",
         "arxiv:2510.10073",
         "arxiv:2510.19949",
         "arxiv:2510.27266",
@@ -3964,6 +4019,7 @@
         "arxiv:2512.12594",
         "arxiv:2512.16501",
         "arxiv:2512.21302",
+        "arxiv:2601.07263",
         "arxiv:2601.09923",
         "arxiv:2601.12822",
         "arxiv:2601.13060",
@@ -3989,12 +4045,14 @@
         "arxiv:2604.13019",
         "arxiv:2604.14262",
         "arxiv:2604.14956",
+        "arxiv:2604.16515",
         "arxiv:2604.17284",
         "arxiv:2604.17817",
         "arxiv:2604.17821",
         "arxiv:2604.17849",
         "arxiv:2604.18860",
         "arxiv:2604.21375",
+        "arxiv:2604.24348",
         "arxiv:2604.27151",
         "arxiv:2605.01208",
         "arxiv:2605.09497",
@@ -4089,6 +4147,7 @@
         "github:garyyang12345/gui-harvest",
         "github:jylee425/b-moca",
         "github:showlab/worldgui",
+        "github:thu-ml/mla-trust",
         "url:17729e1c532ba7043404",
         "url:1d5b85321b98765141fc",
         "url:347925d0f440d6396080",
@@ -4101,21 +4160,21 @@
       "exports": [
         {
           "url": "/downloads/topics/robustness/records.jsonl",
-          "records": 174,
-          "bytes": 542734,
-          "sha256": "01efb6a08073f634c85e133729c8272017b44a49dc541852abbc8dc4e9b159c5"
+          "records": 183,
+          "bytes": 570460,
+          "sha256": "197a39dd0254ef86969e84a26032b0266189f87adc541b38f01b091e0492c17e"
         },
         {
           "url": "/downloads/topics/robustness/citations.bib",
-          "records": 162,
-          "bytes": 112342,
-          "sha256": "a0d37ca40906f9ea32c975d623a3e33a14977569a07fd0a4d25aeb831c1f3b88"
+          "records": 170,
+          "bytes": 117537,
+          "sha256": "cd245ac3b6c0b64651a38cc45e1f2aee8e3cf9632d3639c20fb2f6e0fa91c112"
         },
         {
           "url": "/downloads/topics/robustness/citations.csl.json",
-          "records": 162,
-          "bytes": 289481,
-          "sha256": "2cd95d8346b5feaa8c443363ebb18045f23cd3532ad33b5d92454c9a6e428019"
+          "records": 170,
+          "bytes": 303276,
+          "sha256": "cf0581d4492c4261cc764050797b6df5e38774501d91466782f50d3e01c1cab8"
         }
       ]
     },
@@ -4126,15 +4185,16 @@
         "zh": "安全与防护"
       },
       "counts": {
-        "total": 170,
-        "papers": 158,
-        "benchmarks": 7,
+        "total": 203,
+        "papers": 184,
+        "benchmarks": 12,
         "datasets": 0,
         "models": 0,
-        "systems": 5
+        "systems": 7
       },
       "resource_ids": [
         "arxiv:2306.01242",
+        "arxiv:2402.10196",
         "arxiv:2402.16965",
         "arxiv:2406.09187",
         "arxiv:2406.12814",
@@ -4148,7 +4208,6 @@
         "arxiv:2410.17520",
         "arxiv:2410.23252",
         "arxiv:2411.02391",
-        "arxiv:2412.14470",
         "arxiv:2502.13053",
         "arxiv:2502.20383",
         "arxiv:2503.04957",
@@ -4163,19 +4222,24 @@
         "arxiv:2503.23434",
         "arxiv:2504.04716",
         "arxiv:2504.11281",
+        "arxiv:2504.14064",
         "arxiv:2504.17934",
         "arxiv:2504.18575",
         "arxiv:2505.09875",
         "arxiv:2505.10924",
         "arxiv:2505.12842",
+        "arxiv:2505.12981",
+        "arxiv:2505.13076",
         "arxiv:2505.14289",
         "arxiv:2505.14418",
         "arxiv:2505.21499",
         "arxiv:2505.21936",
         "arxiv:2506.00618",
+        "arxiv:2506.01616",
         "arxiv:2506.02456",
         "arxiv:2506.02539",
         "arxiv:2506.04135",
+        "arxiv:2506.13205",
         "arxiv:2506.14866",
         "arxiv:2506.17318",
         "arxiv:2507.04227",
@@ -4189,6 +4253,7 @@
         "arxiv:2507.22358",
         "arxiv:2508.09057",
         "arxiv:2508.15832",
+        "arxiv:2508.19493",
         "arxiv:2509.01619",
         "arxiv:2509.07553",
         "arxiv:2509.07764",
@@ -4196,9 +4261,11 @@
         "arxiv:2509.11250",
         "arxiv:2509.11939",
         "arxiv:2509.13704",
+        "arxiv:2509.21782",
         "arxiv:2509.22256",
         "arxiv:2510.01354",
         "arxiv:2510.01670",
+        "arxiv:2510.07809",
         "arxiv:2510.10073",
         "arxiv:2510.11035",
         "arxiv:2510.12200",
@@ -4206,10 +4273,13 @@
         "arxiv:2510.15455",
         "arxiv:2510.18113",
         "arxiv:2510.24411",
+        "arxiv:2510.27140",
+        "arxiv:2511.13248",
         "arxiv:2511.19477",
         "arxiv:2512.07725",
         "arxiv:2512.12594",
         "arxiv:2512.23128",
+        "arxiv:2601.07263",
         "arxiv:2601.08406",
         "arxiv:2601.09923",
         "arxiv:2601.12349",
@@ -4221,20 +4291,29 @@
         "arxiv:2602.09012",
         "arxiv:2602.10139",
         "arxiv:2602.12430",
+        "arxiv:2602.13516",
+        "arxiv:2603.00476",
         "arxiv:2603.04364",
         "arxiv:2603.14707",
         "arxiv:2603.15714",
         "arxiv:2603.17357",
+        "arxiv:2603.18762",
         "arxiv:2603.20351",
         "arxiv:2603.23007",
+        "arxiv:2603.23791",
+        "arxiv:2604.00986",
         "arxiv:2604.02623",
         "arxiv:2604.04918",
         "arxiv:2604.06367",
         "arxiv:2604.07831",
         "arxiv:2604.09155",
         "arxiv:2604.12284",
+        "arxiv:2604.16515",
+        "arxiv:2604.16548",
         "arxiv:2604.18860",
+        "arxiv:2604.24348",
         "arxiv:2604.25562",
+        "arxiv:2605.05509",
         "arxiv:2605.09497",
         "arxiv:2605.14290",
         "arxiv:2605.17320",
@@ -4252,19 +4331,25 @@
         "arxiv:2606.25705",
         "arxiv:2606.25760",
         "arxiv:2606.30119",
+        "arxiv:2607.00333",
         "arxiv:2607.04334",
         "arxiv:2607.05120",
         "arxiv:2607.05277",
         "arxiv:2607.10608",
         "arxiv:2607.15550",
+        "arxiv:2607.18659",
+        "arxiv:2608.00202",
         "arxiv:2608.03740",
         "arxiv:2608.04741",
         "arxiv:2608.04755",
+        "arxiv:2608.08939",
         "arxiv:2608.14131",
         "arxiv:2608.17659",
         "arxiv:2608.24017",
+        "arxiv:2608.24913",
         "arxiv:2608.26204",
         "arxiv:2608.27808",
+        "arxiv:2608.29596",
         "arxiv:2608.30038",
         "arxiv:2608.30207",
         "arxiv:2609.00028",
@@ -4298,11 +4383,18 @@
         "github:jylee425/mobilesafetybench",
         "github:mcgill-nlp/safearena",
         "github:os-copilot/os-sentinel",
+        "github:osu-nlp-group/eia_against_webagent",
         "github:osu-nlp-group/redteamcua",
+        "github:osu-nlp-group/webguard",
         "github:pixiebrix/agent-browser-shield",
         "github:salt-nlp/popupattack",
+        "github:scaleapi/browser-art",
+        "github:segev-shlomov/st-webagentbench",
+        "github:thu-ml/mla-trust",
         "github:tml-epfl/os-harm",
+        "github:verisafeagent/verisafeagent",
         "github:wuzheng02/os-kairos",
+        "github:wuzheng02/verios",
         "url:3b6dfd52f98bfe76bc7f"
       ],
       "pages": {
@@ -4312,21 +4404,21 @@
       "exports": [
         {
           "url": "/downloads/topics/safety-security/records.jsonl",
-          "records": 170,
-          "bytes": 501692,
-          "sha256": "a07cc861eef35cf7d48ca65c7954006eaed0ff049f831403e07dd08b9a7c8a71"
+          "records": 203,
+          "bytes": 594367,
+          "sha256": "b01abf6c7f4957a92676d2937a2ebe52e51f8b8dc29ce7334cee9939e304b95f"
         },
         {
           "url": "/downloads/topics/safety-security/citations.bib",
-          "records": 158,
-          "bytes": 105176,
-          "sha256": "026f49d3986c7c59f02d08bdf197a446d51d0a42ff5ca1e8457d7e9d5cc109b0"
+          "records": 184,
+          "bytes": 121744,
+          "sha256": "2bcbc4154033146bb7c576122069aa8d24c07bd380ed3abba5f4677f3a012f92"
         },
         {
           "url": "/downloads/topics/safety-security/citations.csl.json",
-          "records": 158,
-          "bytes": 274114,
-          "sha256": "035b765f40f96e693ba2300891096c6dbcf71237fca58bde263b2f1474622c05"
+          "records": 184,
+          "bytes": 317959,
+          "sha256": "6d72c0ac21a811f139c5a2fccd2f2811e787ce671f2d7ac084d68f716af8ee1c"
         }
       ]
     },
@@ -4337,12 +4429,12 @@
         "zh": "沙箱"
       },
       "counts": {
-        "total": 54,
+        "total": 55,
         "papers": 38,
         "benchmarks": 3,
         "datasets": 0,
         "models": 0,
-        "systems": 13
+        "systems": 14
       },
       "resource_ids": [
         "arxiv:2105.13231",
@@ -4391,6 +4483,7 @@
         "github:google-deepmind/android_env",
         "github:osu-nlp-group/redteamcua",
         "github:purewhiter/mobilegym",
+        "github:skyworkai/agent-studio",
         "github:steel-dev/steel-browser",
         "github:trycua/lume",
         "url:053ebfe0afac66c86222",
@@ -4407,9 +4500,9 @@
       "exports": [
         {
           "url": "/downloads/topics/sandbox/records.jsonl",
-          "records": 54,
-          "bytes": 158548,
-          "sha256": "38d05742eef2a6d778a6e5e8bdd53bfc1e08d44c2a9f2a674a1a0a95dba77310"
+          "records": 55,
+          "bytes": 160350,
+          "sha256": "8081f72feaac5e3318369e3d12f7aad8d39360505cd9c7a57833b4f3203fde0e"
         },
         {
           "url": "/downloads/topics/sandbox/citations.bib",
@@ -4467,8 +4560,8 @@
         {
           "url": "/downloads/topics/science/records.jsonl",
           "records": 18,
-          "bytes": 63979,
-          "sha256": "6ff9be616062ab2a9add5b5591205bd75bc5b476464dadc34d8a6a4ccf4acfee"
+          "bytes": 64400,
+          "sha256": "f76e457674679252c506c96f6fbfec355497e6e588b639df3357e13b81b6460f"
         },
         {
           "url": "/downloads/topics/science/citations.bib",
@@ -4491,8 +4584,8 @@
         "zh": "界面理解"
       },
       "counts": {
-        "total": 205,
-        "papers": 160,
+        "total": 207,
+        "papers": 162,
         "benchmarks": 5,
         "datasets": 19,
         "models": 10,
@@ -4582,6 +4675,7 @@
         "arxiv:2509.04908",
         "arxiv:2509.11548",
         "arxiv:2509.15532",
+        "arxiv:2509.21782",
         "arxiv:2509.23263",
         "arxiv:2510.00536",
         "arxiv:2510.03230",
@@ -4638,6 +4732,7 @@
         "arxiv:2608.03270",
         "arxiv:2608.06171",
         "arxiv:2608.08392",
+        "arxiv:2608.08939",
         "arxiv:2608.09654",
         "arxiv:2608.18307",
         "arxiv:2608.21794",
@@ -4712,21 +4807,21 @@
       "exports": [
         {
           "url": "/downloads/topics/screen-understanding/records.jsonl",
-          "records": 205,
-          "bytes": 661733,
-          "sha256": "b3fa8983b90d2d315ea25aa7075c81c1e5fa4220c68fc234ad823d03a62e3c0f"
+          "records": 207,
+          "bytes": 667630,
+          "sha256": "7953c3ca037f5a765c5d7bb5f665afda2dddcac6773b98c1cd760ed48a29580c"
         },
         {
           "url": "/downloads/topics/screen-understanding/citations.bib",
-          "records": 160,
-          "bytes": 118311,
-          "sha256": "458e4424a114fff26252220b8a560dac7058693cb7f0ae1ba4a20d1f43c62452"
+          "records": 162,
+          "bytes": 119610,
+          "sha256": "0fc1bb926dad380bf65ca0c25c783e349a160335c421242dd76117762d957fd2"
         },
         {
           "url": "/downloads/topics/screen-understanding/citations.csl.json",
-          "records": 160,
-          "bytes": 291385,
-          "sha256": "11425dd62fd9d195dbb627516c6e0ff0b3d84d938dfb8ebb62b2f1baa3093805"
+          "records": 162,
+          "bytes": 294801,
+          "sha256": "c245666d2886549cb5fee2fbc3ac7e05cde1afeb5c48e793a5f2d9b830519179"
         }
       ]
     },
@@ -4737,8 +4832,8 @@
         "zh": "自我反思"
       },
       "counts": {
-        "total": 37,
-        "papers": 27,
+        "total": 38,
+        "papers": 28,
         "benchmarks": 0,
         "datasets": 0,
         "models": 3,
@@ -4754,6 +4849,7 @@
         "arxiv:2505.20013",
         "arxiv:2505.21964",
         "arxiv:2507.16853",
+        "arxiv:2509.25140",
         "arxiv:2511.09127",
         "arxiv:2511.20067",
         "arxiv:2512.09396",
@@ -4790,21 +4886,21 @@
       "exports": [
         {
           "url": "/downloads/topics/self-reflection/records.jsonl",
-          "records": 37,
-          "bytes": 119414,
-          "sha256": "f421355ec18bc91812522b78c4b27ba284e46920c72b74fef1d52bb236f5aa25"
+          "records": 38,
+          "bytes": 122484,
+          "sha256": "d117dbcd302895113178bb5048f3b4175a54bd3efe82964db87d33b271e745dc"
         },
         {
           "url": "/downloads/topics/self-reflection/citations.bib",
-          "records": 27,
-          "bytes": 18808,
-          "sha256": "e0e05c92d59c7d8416182f747c519df61464c0d83d123b7f9413357b833a64f4"
+          "records": 28,
+          "bytes": 19618,
+          "sha256": "55b04580515499da4f1532b0a6f84b8c5d51f33983194cf1c40262525b69c501"
         },
         {
           "url": "/downloads/topics/self-reflection/citations.csl.json",
-          "records": 27,
-          "bytes": 48897,
-          "sha256": "39c2ce7fe5672c123698e670ed805021881499a6ed151eb1fd1afe231aad02c7"
+          "records": 28,
+          "bytes": 51102,
+          "sha256": "56fc913a74ddb6b59284135956702741a8fbb2eaf31886821b6e5b69c28e32c4"
         }
       ]
     },
@@ -4815,12 +4911,12 @@
         "zh": "状态追踪"
       },
       "counts": {
-        "total": 46,
-        "papers": 44,
+        "total": 48,
+        "papers": 45,
         "benchmarks": 0,
         "datasets": 0,
         "models": 0,
-        "systems": 2
+        "systems": 3
       },
       "resource_ids": [
         "arxiv:2404.16054",
@@ -4836,6 +4932,7 @@
         "arxiv:2511.22235",
         "arxiv:2512.01174",
         "arxiv:2601.21352",
+        "arxiv:2603.00476",
         "arxiv:2603.08013",
         "arxiv:2604.02345",
         "arxiv:2604.04399",
@@ -4868,7 +4965,8 @@
         "arxiv:2609.34769",
         "arxiv:2609.35814",
         "github:ai-nikolai/stateact",
-        "github:mobilellm/agentprog"
+        "github:mobilellm/agentprog",
+        "github:verisafeagent/verisafeagent"
       ],
       "pages": {
         "en": "/topics/state-tracking/",
@@ -4877,21 +4975,21 @@
       "exports": [
         {
           "url": "/downloads/topics/state-tracking/records.jsonl",
-          "records": 46,
-          "bytes": 143090,
-          "sha256": "0a3873d96b10753cca87140e0bcd205ea58518719a1a944ebf6641e05870ed98"
+          "records": 48,
+          "bytes": 147788,
+          "sha256": "8afceed1cfaadd87135e0020e40239789aee72a87032db09c089509bf636f0a1"
         },
         {
           "url": "/downloads/topics/state-tracking/citations.bib",
-          "records": 44,
-          "bytes": 28116,
-          "sha256": "5d8d21becb5a0d083cd00b55ae0d75a2146ede1ee82483141b6f62e552ec8e64"
+          "records": 45,
+          "bytes": 28727,
+          "sha256": "bfc88fb70943de5190463d90f136c45a6717463e7e10a8f3fdd3e1a785d02e8e"
         },
         {
           "url": "/downloads/topics/state-tracking/citations.csl.json",
-          "records": 44,
-          "bytes": 75479,
-          "sha256": "3b1d368fe731e1987dea9b7bb7891ea9f5369b00036c0ac173419c360dd576a4"
+          "records": 45,
+          "bytes": 77069,
+          "sha256": "5734e0ebbf91831c484d2558e1d258a39421c347d4e132957690e968959a5ef5"
         }
       ]
     },
@@ -4902,14 +5000,15 @@
         "zh": "综述"
       },
       "counts": {
-        "total": 16,
-        "papers": 16,
+        "total": 19,
+        "papers": 19,
         "benchmarks": 0,
         "datasets": 0,
         "models": 0,
         "systems": 0
       },
       "resource_ids": [
+        "arxiv:2402.10196",
         "arxiv:2411.02006",
         "arxiv:2411.04890",
         "arxiv:2411.10943",
@@ -4925,6 +5024,8 @@
         "arxiv:2505.10924",
         "arxiv:2508.04482",
         "arxiv:2602.12430",
+        "arxiv:2604.16548",
+        "arxiv:2608.29596",
         "arxiv:2609.02309"
       ],
       "pages": {
@@ -4934,21 +5035,21 @@
       "exports": [
         {
           "url": "/downloads/topics/survey/records.jsonl",
-          "records": 16,
-          "bytes": 44439,
-          "sha256": "a6d9744fe6a07fddfdc0daf8b0fce9726e290aabd2974db8f460c6cf9d854446"
+          "records": 19,
+          "bytes": 54773,
+          "sha256": "c27fd78874281e1248936e68741be7c8de4107a319bd8794567bd0176aa2b573"
         },
         {
           "url": "/downloads/topics/survey/citations.bib",
-          "records": 16,
-          "bytes": 11572,
-          "sha256": "b24610a2d34b17f59de375b9d34261e313acfd0e4e6a13911de4a00d53de07f3"
+          "records": 19,
+          "bytes": 13466,
+          "sha256": "6731037908424141e748c1e79253207536020c6bb2727c482a480655c7c821a5"
         },
         {
           "url": "/downloads/topics/survey/citations.csl.json",
-          "records": 16,
-          "bytes": 31546,
-          "sha256": "ce320ca3e80bbfcd0c7ee1fd852157d115d1ab74ba86e67facf521b29c660845"
+          "records": 19,
+          "bytes": 36572,
+          "sha256": "45cb3b84375c99903006cf888483e9722129f253426c499714c481665f277a57"
         }
       ]
     },
@@ -4959,14 +5060,15 @@
         "zh": "工具集成"
       },
       "counts": {
-        "total": 128,
-        "papers": 90,
+        "total": 131,
+        "papers": 92,
         "benchmarks": 9,
         "datasets": 2,
         "models": 4,
-        "systems": 23
+        "systems": 24
       },
       "resource_ids": [
+        "arxiv:2305.19308",
         "arxiv:2310.10634",
         "arxiv:2310.16042",
         "arxiv:2311.01767",
@@ -4988,6 +5090,7 @@
         "arxiv:2503.11069",
         "arxiv:2504.07079",
         "arxiv:2504.14603",
+        "arxiv:2504.21776",
         "arxiv:2505.18829",
         "arxiv:2506.07672",
         "arxiv:2507.22358",
@@ -5058,6 +5161,7 @@
         "arxiv:2610.22200",
         "arxiv:2610.22234",
         "component:xlang-ai/openagents/web_agent",
+        "github:bravegroup/sheetcopilot",
         "github:browser-use/web-ui",
         "github:browseros-ai/browseros",
         "github:chromedevtools/chrome-devtools-mcp",
@@ -5103,21 +5207,21 @@
       "exports": [
         {
           "url": "/downloads/topics/tool-integration/records.jsonl",
-          "records": 128,
-          "bytes": 407533,
-          "sha256": "6a8ad094696698eb3f5f7ba69b1e1b56f3a7c44e915ec81a48d100c3d71d742f"
+          "records": 131,
+          "bytes": 417723,
+          "sha256": "fbf8f50591ed87715ad53b6f36390487eedec807059897ec051e8eb3dcbd0e74"
         },
         {
           "url": "/downloads/topics/tool-integration/citations.bib",
-          "records": 90,
-          "bytes": 67691,
-          "sha256": "785be6d8accb6eb321ebab7c68396da94ac22677a10a79a4b475b3f622e3a18d"
+          "records": 92,
+          "bytes": 68965,
+          "sha256": "85a5e6671e113e327b1795d41bf70384a268e17c45e65704eebc53b3dcd8c1ea"
         },
         {
           "url": "/downloads/topics/tool-integration/citations.csl.json",
-          "records": 90,
-          "bytes": 177658,
-          "sha256": "36e8a093110b764221da944351e65b4568a7cb475fc2f73b9471c321f1171954"
+          "records": 92,
+          "bytes": 181050,
+          "sha256": "c4a7604dfdfed47aadf7703fd741a7c1f3a301c81700772d197a15c732389727"
         }
       ]
     },
@@ -5199,8 +5303,8 @@
         "zh": "界面设计"
       },
       "counts": {
-        "total": 20,
-        "papers": 19,
+        "total": 21,
+        "papers": 20,
         "benchmarks": 0,
         "datasets": 1,
         "models": 0,
@@ -5224,6 +5328,7 @@
         "arxiv:2604.26020",
         "arxiv:2604.26148",
         "arxiv:2605.26144",
+        "arxiv:2608.24913",
         "arxiv:2609.19843",
         "github:google-research-datasets/uicrit",
         "url:b560b5d6abaab98483f6"
@@ -5235,21 +5340,21 @@
       "exports": [
         {
           "url": "/downloads/topics/ui-design/records.jsonl",
-          "records": 20,
-          "bytes": 62269,
-          "sha256": "ff007a98ff81bcb12bc6b335173ca50f826a01e23c4b32d2ab6f9ada142789f5"
+          "records": 21,
+          "bytes": 65221,
+          "sha256": "577d4b75dcd45996d9c4410ae096570f8285539b957d737ea90103d3dd8eecf7"
         },
         {
           "url": "/downloads/topics/ui-design/citations.bib",
-          "records": 19,
-          "bytes": 13734,
-          "sha256": "91f236fb29aff7a71b2e709d74ff8622012a553579d3d6e524c5cbbec5346ac6"
+          "records": 20,
+          "bytes": 14410,
+          "sha256": "ace6e2f2699ea7c2fa413595fdccb1ef1e057196c09154ad2e13eb4e68489f67"
         },
         {
           "url": "/downloads/topics/ui-design/citations.csl.json",
-          "records": 19,
-          "bytes": 33357,
-          "sha256": "5380bf13d90732742968e5fcc52852885b4b47f2333ca66be59182a33189085d"
+          "records": 20,
+          "bytes": 35044,
+          "sha256": "af507fd28a4fd12c52669f18763ae0b05bb448e80f2c6e099b18c16921b2c83c"
         }
       ]
     },
@@ -5260,10 +5365,10 @@
         "zh": "视频"
       },
       "counts": {
-        "total": 37,
+        "total": 38,
         "papers": 29,
         "benchmarks": 2,
-        "datasets": 6,
+        "datasets": 7,
         "models": 0,
         "systems": 0
       },
@@ -5299,6 +5404,7 @@
         "arxiv:2609.27461",
         "github:dongping-chen/gui-world",
         "github:hazyresearch/wonderbread",
+        "github:runamu/monday",
         "github:showlab/gui-action-narrator",
         "github:showlab/videogui",
         "github:xlang-ai/agenttrek",
@@ -5313,9 +5419,9 @@
       "exports": [
         {
           "url": "/downloads/topics/video/records.jsonl",
-          "records": 37,
-          "bytes": 124523,
-          "sha256": "496085ae856eccc4f99bb23f602b4af38a2e65f75314a7c264551dc0b7c73f88"
+          "records": 38,
+          "bytes": 127555,
+          "sha256": "1f1835e91c8ac0d601c58f2f014baccb4cd14679503db32c40147a61ca380db4"
         },
         {
           "url": "/downloads/topics/video/citations.bib",
@@ -5338,9 +5444,9 @@
         "zh": "网页导航"
       },
       "counts": {
-        "total": 275,
-        "papers": 198,
-        "benchmarks": 13,
+        "total": 292,
+        "papers": 211,
+        "benchmarks": 17,
         "datasets": 8,
         "models": 11,
         "systems": 45
@@ -5421,7 +5527,9 @@
         "arxiv:2504.11788",
         "arxiv:2504.18575",
         "arxiv:2504.21024",
+        "arxiv:2504.21776",
         "arxiv:2505.00684",
+        "arxiv:2505.13076",
         "arxiv:2505.15277",
         "arxiv:2505.16421",
         "arxiv:2505.20013",
@@ -5451,6 +5559,7 @@
         "arxiv:2509.14172",
         "arxiv:2509.14382",
         "arxiv:2509.24183",
+        "arxiv:2509.25140",
         "arxiv:2510.01524",
         "arxiv:2510.02418",
         "arxiv:2510.03285",
@@ -5469,6 +5578,7 @@
         "arxiv:2512.23647",
         "arxiv:2601.02439",
         "arxiv:2601.07262",
+        "arxiv:2601.07263",
         "arxiv:2601.08406",
         "arxiv:2601.08605",
         "arxiv:2601.21872",
@@ -5479,16 +5589,20 @@
         "arxiv:2602.05354",
         "arxiv:2602.12276",
         "arxiv:2602.12544",
+        "arxiv:2602.13516",
         "arxiv:2602.13559",
         "arxiv:2602.14296",
         "arxiv:2602.14865",
         "arxiv:2602.17003",
         "arxiv:2602.17588",
         "arxiv:2602.20502",
+        "arxiv:2603.00476",
         "arxiv:2603.04949",
         "arxiv:2603.05044",
+        "arxiv:2603.18762",
         "arxiv:2603.20340",
         "arxiv:2603.22529",
+        "arxiv:2603.23791",
         "arxiv:2603.25226",
         "arxiv:2603.29020",
         "arxiv:2604.02623",
@@ -5498,11 +5612,13 @@
         "arxiv:2604.13318",
         "arxiv:2604.17821",
         "arxiv:2604.27253",
+        "arxiv:2605.05509",
         "arxiv:2605.07134",
         "arxiv:2605.15777",
         "arxiv:2605.18048",
         "arxiv:2605.20291",
         "arxiv:2605.21470",
+        "arxiv:2605.24785",
         "arxiv:2606.04391",
         "arxiv:2606.05597",
         "arxiv:2606.09399",
@@ -5513,10 +5629,13 @@
         "arxiv:2606.27330",
         "arxiv:2607.05277",
         "arxiv:2607.06118",
+        "arxiv:2607.18659",
+        "arxiv:2608.00202",
         "arxiv:2608.08392",
         "arxiv:2608.12429",
         "arxiv:2608.17319",
         "arxiv:2608.24848",
+        "arxiv:2608.24913",
         "arxiv:2608.29305",
         "arxiv:2609.05511",
         "arxiv:2609.05513",
@@ -5567,14 +5686,18 @@
         "github:night-chen/workforceagent-r1",
         "github:nottelabs/notte",
         "github:omxyz/lumen",
+        "github:osu-nlp-group/eia_against_webagent",
         "github:osu-nlp-group/mind2web",
         "github:osu-nlp-group/mind2web-2",
         "github:osu-nlp-group/online-mind2web",
         "github:osu-nlp-group/seeact",
         "github:osu-nlp-group/skillweaver",
+        "github:osu-nlp-group/webguard",
         "github:pathonaiorg/litewebagent",
         "github:posgnu/rci-agent",
         "github:princeton-nlp/webshop",
+        "github:scaleapi/browser-art",
+        "github:segev-shlomov/st-webagentbench",
         "github:squeezeailab/plan-and-act",
         "github:stanfordnlp/wge",
         "github:steel-dev/steel-browser",
@@ -5629,21 +5752,21 @@
       "exports": [
         {
           "url": "/downloads/topics/web-navigation/records.jsonl",
-          "records": 275,
-          "bytes": 859259,
-          "sha256": "308c46f89bf3070d53c2e22a7a1fcf448959ce602808630d7980698881dc8ca5"
+          "records": 292,
+          "bytes": 905820,
+          "sha256": "748f3fdebf10b1ec298fa4a21ba0aa210c9471a064f224c508761f68abcad323"
         },
         {
           "url": "/downloads/topics/web-navigation/citations.bib",
-          "records": 198,
-          "bytes": 158689,
-          "sha256": "4318abd7a6797cbd7a62c5c17d0248da6fddac73d36f2ec6d9604d94185499a5"
+          "records": 211,
+          "bytes": 166718,
+          "sha256": "ae85a73b2cd7347db196ba1bbcde6f73f62be5a76c18a0cf137a4d80694e210a"
         },
         {
           "url": "/downloads/topics/web-navigation/citations.csl.json",
-          "records": 198,
-          "bytes": 376262,
-          "sha256": "c283d55c233355a99a2919d79a6282414c8ab42b23fb0ddde79f581abf901027"
+          "records": 211,
+          "bytes": 397529,
+          "sha256": "b3b3820242fba556b1f043a5b4db215f7daf2b2af202eb0e76b10f38aad1c5cc"
         }
       ]
     },
@@ -5654,15 +5777,16 @@
         "zh": "工作流"
       },
       "counts": {
-        "total": 107,
-        "papers": 78,
+        "total": 110,
+        "papers": 80,
         "benchmarks": 6,
         "datasets": 2,
         "models": 0,
-        "systems": 21
+        "systems": 22
       },
       "resource_ids": [
         "arxiv:1802.08802",
+        "arxiv:2305.19308",
         "arxiv:2310.03720",
         "arxiv:2310.14495",
         "arxiv:2401.04124",
@@ -5721,6 +5845,7 @@
         "arxiv:2608.14131",
         "arxiv:2608.15930",
         "arxiv:2608.20319",
+        "arxiv:2608.29596",
         "arxiv:2609.02149",
         "arxiv:2609.04869",
         "arxiv:2609.13548",
@@ -5740,6 +5865,7 @@
         "arxiv:2610.20100",
         "github:agentsea/surfkit",
         "github:alipay/mobile-agent",
+        "github:bravegroup/sheetcopilot",
         "github:bytebot-ai/bytebot",
         "github:bytedance/ui-tars-desktop",
         "github:china-qijizhifeng/work2skill",
@@ -5777,21 +5903,21 @@
       "exports": [
         {
           "url": "/downloads/topics/workflow/records.jsonl",
-          "records": 107,
-          "bytes": 316218,
-          "sha256": "54243e1dde2c19503a21a5bbf3eef4f3111a1f32633e31aaa20ce34f4f69dfa9"
+          "records": 110,
+          "bytes": 325796,
+          "sha256": "6b2e5790ae3a4747f4d604196906f27f53721c0998177ef3210d685a55e19170"
         },
         {
           "url": "/downloads/topics/workflow/citations.bib",
-          "records": 78,
-          "bytes": 59891,
-          "sha256": "4bcf4818b3b02011e282682bdf386a9a99598c2e469f4ebfcd3e774162ea77c9"
+          "records": 80,
+          "bytes": 61102,
+          "sha256": "fc8c92cf302628518be6b8c6659820d3247c081ed912293209207f2d5ea3c3f6"
         },
         {
           "url": "/downloads/topics/workflow/citations.csl.json",
-          "records": 78,
-          "bytes": 150050,
-          "sha256": "6dd180715378b4268e4733dc103f6bf79a2a006838591d51c4bc73ef773dba8c"
+          "records": 80,
+          "bytes": 153252,
+          "sha256": "8bef5fce09c7a28cdff84e3373de6272247f9be77a96a961559ea25a57643a32"
         }
       ]
     },

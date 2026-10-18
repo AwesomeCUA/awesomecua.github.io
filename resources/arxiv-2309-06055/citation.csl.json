@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2309.06055",
+  "citation-key": "arxiv_2309_06055",
+  "type": "article",
+  "title": "Backdoor Attacks and Countermeasures in Natural Language Processing Models: A Comprehensive Security Review",
+  "URL": "https://arxiv.org/abs/2309.06055v5",
+  "custom": {
+    "catalog_id": "arxiv:2309.06055",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2309.06055",
+    "identifiers": {
+      "arxiv": "2309.06055"
+    },
+    "first_published_at": "2023-09-12",
+    "record_updated_at": "2024-12-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fe4c2108f057be9130820b89f69f3621fa7ecd56ded0c980e015cd3478cd01f0",
+      "submitted_at": "2023-09-12T08:48:38Z",
+      "updated_at": "2024-12-04T05:04:46Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2309.06055v5"
+    }
+  },
+  "note": "First published: 2023-09-12; Recorded arXiv version: v5; Recorded version updated: 2024-12-04T05:04:46Z.",
+  "author": [
+    {
+      "literal": "Pengzhou Cheng"
+    },
+    {
+      "literal": "Zongru Wu"
+    },
+    {
+      "literal": "Wei Du"
+    },
+    {
+      "literal": "Haodong Zhao"
+    },
+    {
+      "literal": "Wei Lu"
+    },
+    {
+      "literal": "Gongshen Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2309.06055",
+  "genre": "preprint",
+  "version": "5"
+}

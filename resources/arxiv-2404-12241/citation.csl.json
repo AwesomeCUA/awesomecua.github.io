@@ -1,0 +1,343 @@
+{
+  "id": "arxiv:2404.12241",
+  "citation-key": "arxiv_2404_12241",
+  "type": "article",
+  "title": "Introducing v0.5 of the AI Safety Benchmark from MLCommons",
+  "URL": "https://arxiv.org/abs/2404.12241v2",
+  "custom": {
+    "catalog_id": "arxiv:2404.12241",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2404.12241",
+    "identifiers": {
+      "arxiv": "2404.12241"
+    },
+    "first_published_at": "2024-04-18",
+    "record_updated_at": "2024-05-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bc2acfe4b74b1e6e412ccdfc0ad036c0dd6e9eb32316e1591f98699f1291fd51",
+      "submitted_at": "2024-04-18T15:01:00Z",
+      "updated_at": "2024-05-13T20:46:10Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2404.12241v2"
+    }
+  },
+  "note": "First published: 2024-04-18; Recorded arXiv version: v2; Recorded version updated: 2024-05-13T20:46:10Z.",
+  "author": [
+    {
+      "literal": "Bertie Vidgen"
+    },
+    {
+      "literal": "Adarsh Agrawal"
+    },
+    {
+      "literal": "Ahmed M. Ahmed"
+    },
+    {
+      "literal": "Victor Akinwande"
+    },
+    {
+      "literal": "Namir Al-Nuaimi"
+    },
+    {
+      "literal": "Najla Alfaraj"
+    },
+    {
+      "literal": "Elie Alhajjar"
+    },
+    {
+      "literal": "Lora Aroyo"
+    },
+    {
+      "literal": "Trupti Bavalatti"
+    },
+    {
+      "literal": "Max Bartolo"
+    },
+    {
+      "literal": "Borhane Blili-Hamelin"
+    },
+    {
+      "literal": "Kurt Bollacker"
+    },
+    {
+      "literal": "Rishi Bomassani"
+    },
+    {
+      "literal": "Marisa Ferrara Boston"
+    },
+    {
+      "literal": "Siméon Campos"
+    },
+    {
+      "literal": "Kal Chakra"
+    },
+    {
+      "literal": "Canyu Chen"
+    },
+    {
+      "literal": "Cody Coleman"
+    },
+    {
+      "literal": "Zacharie Delpierre Coudert"
+    },
+    {
+      "literal": "Leon Derczynski"
+    },
+    {
+      "literal": "Debojyoti Dutta"
+    },
+    {
+      "literal": "Ian Eisenberg"
+    },
+    {
+      "literal": "James Ezick"
+    },
+    {
+      "literal": "Heather Frase"
+    },
+    {
+      "literal": "Brian Fuller"
+    },
+    {
+      "literal": "Ram Gandikota"
+    },
+    {
+      "literal": "Agasthya Gangavarapu"
+    },
+    {
+      "literal": "Ananya Gangavarapu"
+    },
+    {
+      "literal": "James Gealy"
+    },
+    {
+      "literal": "Rajat Ghosh"
+    },
+    {
+      "literal": "James Goel"
+    },
+    {
+      "literal": "Usman Gohar"
+    },
+    {
+      "literal": "Sujata Goswami"
+    },
+    {
+      "literal": "Scott A. Hale"
+    },
+    {
+      "literal": "Wiebke Hutiri"
+    },
+    {
+      "literal": "Joseph Marvin Imperial"
+    },
+    {
+      "literal": "Surgan Jandial"
+    },
+    {
+      "literal": "Nick Judd"
+    },
+    {
+      "literal": "Felix Juefei-Xu"
+    },
+    {
+      "literal": "Foutse Khomh"
+    },
+    {
+      "literal": "Bhavya Kailkhura"
+    },
+    {
+      "literal": "Hannah Rose Kirk"
+    },
+    {
+      "literal": "Kevin Klyman"
+    },
+    {
+      "literal": "Chris Knotz"
+    },
+    {
+      "literal": "Michael Kuchnik"
+    },
+    {
+      "literal": "Shachi H. Kumar"
+    },
+    {
+      "literal": "Srijan Kumar"
+    },
+    {
+      "literal": "Chris Lengerich"
+    },
+    {
+      "literal": "Bo Li"
+    },
+    {
+      "literal": "Zeyi Liao"
+    },
+    {
+      "literal": "Eileen Peters Long"
+    },
+    {
+      "literal": "Victor Lu"
+    },
+    {
+      "literal": "Sarah Luger"
+    },
+    {
+      "literal": "Yifan Mai"
+    },
+    {
+      "literal": "Priyanka Mary Mammen"
+    },
+    {
+      "literal": "Kelvin Manyeki"
+    },
+    {
+      "literal": "Sean McGregor"
+    },
+    {
+      "literal": "Virendra Mehta"
+    },
+    {
+      "literal": "Shafee Mohammed"
+    },
+    {
+      "literal": "Emanuel Moss"
+    },
+    {
+      "literal": "Lama Nachman"
+    },
+    {
+      "literal": "Dinesh Jinenhally Naganna"
+    },
+    {
+      "literal": "Amin Nikanjam"
+    },
+    {
+      "literal": "Besmira Nushi"
+    },
+    {
+      "literal": "Luis Oala"
+    },
+    {
+      "literal": "Iftach Orr"
+    },
+    {
+      "literal": "Alicia Parrish"
+    },
+    {
+      "literal": "Cigdem Patlak"
+    },
+    {
+      "literal": "William Pietri"
+    },
+    {
+      "literal": "Forough Poursabzi-Sangdeh"
+    },
+    {
+      "literal": "Eleonora Presani"
+    },
+    {
+      "literal": "Fabrizio Puletti"
+    },
+    {
+      "literal": "Paul Röttger"
+    },
+    {
+      "literal": "Saurav Sahay"
+    },
+    {
+      "literal": "Tim Santos"
+    },
+    {
+      "literal": "Nino Scherrer"
+    },
+    {
+      "literal": "Alice Schoenauer Sebag"
+    },
+    {
+      "literal": "Patrick Schramowski"
+    },
+    {
+      "literal": "Abolfazl Shahbazi"
+    },
+    {
+      "literal": "Vin Sharma"
+    },
+    {
+      "literal": "Xudong Shen"
+    },
+    {
+      "literal": "Vamsi Sistla"
+    },
+    {
+      "literal": "Leonard Tang"
+    },
+    {
+      "literal": "Davide Testuggine"
+    },
+    {
+      "literal": "Vithursan Thangarasa"
+    },
+    {
+      "literal": "Elizabeth Anne Watkins"
+    },
+    {
+      "literal": "Rebecca Weiss"
+    },
+    {
+      "literal": "Chris Welty"
+    },
+    {
+      "literal": "Tyler Wilbers"
+    },
+    {
+      "literal": "Adina Williams"
+    },
+    {
+      "literal": "Carole-Jean Wu"
+    },
+    {
+      "literal": "Poonam Yadav"
+    },
+    {
+      "literal": "Xianjun Yang"
+    },
+    {
+      "literal": "Yi Zeng"
+    },
+    {
+      "literal": "Wenhui Zhang"
+    },
+    {
+      "literal": "Fedor Zhdanov"
+    },
+    {
+      "literal": "Jiacheng Zhu"
+    },
+    {
+      "literal": "Percy Liang"
+    },
+    {
+      "literal": "Peter Mattson"
+    },
+    {
+      "literal": "Joaquin Vanschoren"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        4,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2404.12241",
+  "genre": "preprint",
+  "version": "2"
+}

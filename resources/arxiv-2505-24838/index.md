@@ -7,14 +7,14 @@ Introduces synthetic CAD interaction videos, a model for learning interface acti
 - Kind: paper
 - Review: curated
 - Scope: core
-- Environments: desktop
+- Environments: web
 - Topics: video, data-generation, science, long-horizon
 - Evidence checked: 2026-10-16T06:31:42Z
 - ID: arxiv:2505.24838
 
 ## Limitations
 
-The annotation and scope were reviewed against the primary paper abstract. Experimental results and released artifacts have not been independently reproduced.
+The contribution was reviewed from the retained abstract. Sections 1 and 3 of the exact-version v2 paper identify Onshape as the browser-based interaction environment; the use of pixel-level input does not make the operated surface a desktop application. No experimental results were independently reproduced.
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2505-24838/record.json
 
@@ -47,3 +47,4 @@ Brandon Man, Ghadi Nehme, Md Ferdous Alam, Faez Ahmed
 
 - https://export.arxiv.org/api/query?id_list=2503.16788%2C2503.17709%2C2503.18492%2C2503.19537%2C2503.20978%2C2503.21620%2C2503.23434%2C2504.01382%2C2504.07981%2C2504.10445%2C2504.10458%2C2504.11257%2C2504.11281%2C2504.12679%2C2504.13805%2C2504.13865%2C2504.14239%2C2504.18575%2C2504.19838%2C2504.20464%2C2505.10924%2C2505.11891%2C2505.12299%2C2505.12632%2C2505.13227%2C2505.13887%2C2505.13909%2C2505.14289%2C2505.15810%2C2505.16282%2C2505.16827%2C2505.18829%2C2505.19897%2C2505.21496%2C2505.21499%2C2505.21936%2C2505.22648%2C2505.23762%2C2505.24838%2C2506.00618%2C2506.01391%2C2506.01968%2C2506.02456%2C2506.03143%2C2506.03569%2C2506.04135%2C2506.04614%2C2506.07672%2C2506.08012%2C2506.08972&max_results=50 (retrieved 2026-10-16T06:31:42Z; SHA-256 afe4e75ffb8a5c44f4c088a90ffa5f53553036f514aa768f5aee0c5aa38d731e)
 - https://export.arxiv.org/api/query?id_list=2503.16788%2C2503.17709%2C2503.18492%2C2503.19537%2C2503.20978%2C2503.21620%2C2503.23434%2C2504.01382%2C2504.07981%2C2504.10445%2C2504.10458%2C2504.11257%2C2504.11281%2C2504.12679%2C2504.13805%2C2504.13865%2C2504.14239%2C2504.18575%2C2504.19838%2C2504.20464%2C2505.10924%2C2505.11891%2C2505.12299%2C2505.12632%2C2505.13227%2C2505.13887%2C2505.13909%2C2505.14289%2C2505.15810%2C2505.16282%2C2505.16827%2C2505.18829%2C2505.19897%2C2505.21496%2C2505.21499%2C2505.21936%2C2505.22648%2C2505.23762%2C2505.24838%2C2506.00618%2C2506.01391%2C2506.01968%2C2506.02456%2C2506.03143%2C2506.03569%2C2506.04135%2C2506.04614%2C2506.07672%2C2506.08012%2C2506.08972&max_results=50 (retrieved 2026-10-16T06:31:42Z; SHA-256 afe4e75ffb8a5c44f4c088a90ffa5f53553036f514aa768f5aee0c5aa38d731e)
+- https://arxiv.org/html/2505.24838v2 (retrieved 2026-10-18T12:02:34.311949+00:00; SHA-256 a303d95a811331cd6ee23b0340f1b9ef2dd996835bfbc66656a871ff94eead50)

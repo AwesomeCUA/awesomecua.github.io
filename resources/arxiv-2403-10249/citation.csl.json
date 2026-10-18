@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2403.10249",
+  "citation-key": "arxiv_2403_10249",
+  "type": "article",
+  "title": "A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges",
+  "URL": "https://arxiv.org/abs/2403.10249v1",
+  "custom": {
+    "catalog_id": "arxiv:2403.10249",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2403.10249",
+    "identifiers": {
+      "arxiv": "2403.10249"
+    },
+    "first_published_at": "2024-03-15",
+    "record_updated_at": "2024-03-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8497e90903223242fa595c853eec6eada92dc8833239d8e92f05517802712735",
+      "submitted_at": "2024-03-15T12:37:12Z",
+      "updated_at": "2024-03-15T12:37:12Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2403.10249v1"
+    }
+  },
+  "note": "First published: 2024-03-15; Recorded arXiv version: v1; Recorded version updated: 2024-03-15T12:37:12Z.",
+  "author": [
+    {
+      "literal": "Xinrun Xu"
+    },
+    {
+      "literal": "Yuxin Wang"
+    },
+    {
+      "literal": "Chaoyi Xu"
+    },
+    {
+      "literal": "Ziluo Ding"
+    },
+    {
+      "literal": "Jiechuan Jiang"
+    },
+    {
+      "literal": "Zhiming Ding"
+    },
+    {
+      "literal": "Börje F. Karlsson"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.10249",
+  "genre": "preprint",
+  "version": "1"
+}

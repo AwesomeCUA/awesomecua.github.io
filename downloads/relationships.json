@@ -1,5 +1,5 @@
 {
-  "relation_count": 398,
+  "relation_count": 409,
   "semantics": "Reviewed semantic links only. Documentation does not establish training or evaluation dependency.",
   "relations": [
     {
@@ -176,6 +176,14 @@
       "source_kind": "agent",
       "evidence_url": "https://raw.githubusercontent.com/BAAI-Agents/Cradle/HEAD/README.md",
       "target_id": "arxiv:2403.03186",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:bravegroup/sheetcopilot",
+      "source_name": "SheetCopilot",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/BraveGroup/SheetCopilot/HEAD/README.md",
+      "target_id": "arxiv:2305.19308",
       "type": "documented_by"
     },
     {
@@ -443,6 +451,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:ghadinehme/videocad",
+      "source_name": "VideoCAD training and evaluation code",
+      "source_kind": "framework",
+      "evidence_url": "https://arxiv.org/html/2505.24838v2",
+      "target_id": "arxiv:2505.24838",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:google-deepmind/android_env",
       "source_name": "AndroidEnv",
       "source_kind": "infrastructure",
@@ -616,6 +632,14 @@
       "source_kind": "agent",
       "evidence_url": "https://raw.githubusercontent.com/LaoKuiZe/AppAgent-Pro/HEAD/README.md",
       "target_id": "arxiv:2508.18689",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:lgy0404/learnact",
+      "source_name": "LearnAct",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/lgy0404/LearnAct/HEAD/README.md",
+      "target_id": "arxiv:2504.13805",
       "type": "documented_by"
     },
     {
@@ -995,6 +1019,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:osu-nlp-group/eia_against_webagent",
+      "source_name": "EIA",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/OSU-NLP-Group/EIA_against_webagent/HEAD/README.md",
+      "target_id": "arxiv:2409.11295",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:osu-nlp-group/mind2web",
       "source_name": "Mind2Web",
       "source_kind": "benchmark",
@@ -1040,6 +1072,14 @@
       "source_kind": "framework",
       "evidence_url": "https://raw.githubusercontent.com/OSU-NLP-Group/WebDreamer/HEAD/README.md",
       "target_id": "arxiv:2411.06559",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:osu-nlp-group/webguard",
+      "source_name": "WebGuard",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/OSU-NLP-Group/WebGuard/HEAD/README.md",
+      "target_id": "arxiv:2507.14293",
       "type": "documented_by"
     },
     {
@@ -1099,11 +1139,35 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:runamu/monday",
+      "source_name": "MONDAY",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/runamu/monday/HEAD/README.md",
+      "target_id": "arxiv:2505.12632",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:saagent/mcpworld",
       "source_name": "MCPWorld",
       "source_kind": "benchmark",
       "evidence_url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending",
       "target_id": "arxiv:2506.07672",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:scaleapi/browser-art",
+      "source_name": "BrowserART",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/scaleapi/browser-art/HEAD/README.md",
+      "target_id": "arxiv:2410.13886",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:segev-shlomov/st-webagentbench",
+      "source_name": "ST-WebAgentBench",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/segev-shlomov/ST-WebAgentBench/HEAD/README.md",
+      "target_id": "arxiv:2410.06703",
       "type": "documented_by"
     },
     {
@@ -1243,6 +1307,14 @@
       "type": "published_by"
     },
     {
+      "source_id": "github:skyworkai/agent-studio",
+      "source_name": "AgentStudio",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/skyworkai/agent-studio/HEAD/README.md",
+      "target_id": "arxiv:2403.17918",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:squeezeailab/plan-and-act",
       "source_name": "Plan-and-Act",
       "source_kind": "framework",
@@ -1312,6 +1384,14 @@
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/TheAgentCompany/TheAgentCompany/HEAD/README.md",
       "target_id": "arxiv:2412.14161",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:thu-ml/mla-trust",
+      "source_name": "MLA-Trust",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/thu-ml/MLA-Trust/HEAD/README.md",
+      "target_id": "arxiv:2506.01616",
       "type": "documented_by"
     },
     {
@@ -1443,14 +1523,6 @@
       "type": "documented_by"
     },
     {
-      "source_id": "github:udgok/videocad",
-      "source_name": "VideoCAD training and evaluation code",
-      "source_kind": "framework",
-      "evidence_url": "https://raw.githubusercontent.com/UDGOK/videocad/HEAD/README.md",
-      "target_id": "arxiv:2505.24838",
-      "type": "documented_by"
-    },
-    {
       "source_id": "github:uitron-hub/treecua",
       "source_name": "TreeCUA",
       "source_kind": "framework",
@@ -1464,6 +1536,14 @@
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/UniPat-AI/SaaS-Bench/HEAD/README.md",
       "target_id": "arxiv:2605.15777",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:verisafeagent/verisafeagent",
+      "source_name": "VeriSafe Agent",
+      "source_kind": "framework",
+      "evidence_url": "https://arxiv.org/html/2503.18492v2",
+      "target_id": "arxiv:2503.18492",
       "type": "documented_by"
     },
     {
@@ -1552,6 +1632,14 @@
       "source_kind": "agent",
       "evidence_url": "https://raw.githubusercontent.com/Wuzheng02/OS-Kairos/HEAD/README.md",
       "target_id": "arxiv:2503.16465",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:wuzheng02/verios",
+      "source_name": "VeriOS",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/Wuzheng02/VeriOS/HEAD/README.md",
+      "target_id": "arxiv:2509.07553",
       "type": "documented_by"
     },
     {
@@ -1742,7 +1830,7 @@
       "source_id": "github:zrw00/guipivot",
       "source_name": "GUIPivot",
       "source_kind": "framework",
-      "evidence_url": "https://raw.githubusercontent.com/ZrW00/GUIPivot/HEAD/README.md",
+      "evidence_url": "https://raw.githubusercontent.com/ZrW00/GUIPivot/b02e8efdbe02ab82169a2c54d724e33b4037330e/README.md",
       "target_id": "arxiv:2503.00401",
       "type": "documented_by"
     },
@@ -2070,7 +2158,7 @@
       "source_id": "url:2b5dead3172c0b70da7e",
       "source_name": "VideoCAD data",
       "source_kind": "dataset",
-      "evidence_url": "https://raw.githubusercontent.com/UDGOK/videocad/HEAD/README.md",
+      "evidence_url": "https://raw.githubusercontent.com/ghadinehme/VideoCAD/2d69eeaf0ac44210c76dcab2d08b4d4610be236c/README.md",
       "target_id": "arxiv:2505.24838",
       "type": "documented_by"
     },

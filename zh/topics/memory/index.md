@@ -66,6 +66,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/memory/record
   An online skill-evolution framework turns GUI interaction traces and evaluator feedback into a versioned library of reusable procedures without updating model parameters. Controlled OSWorld comparisons examine both the benefits of shared procedural memory and its domain-dependent instability under repeated revision.
 - [SCAFFOLD: Self-Improving Web Agents via Recursive Parametric Skill Abstraction](https://awesomecua.github.io/resources/arxiv-2609-05511/) — 2026-08-31
   Introduces SCAFFOLD, which extracts executable skills from web trajectories, composes them into a hierarchy, and compresses redundant skills through behavioral checks. It periodically distills skill-guided trajectories into the policy and studies repeated improvement across web benchmarks.
+- [A Systematic Survey of Agentic Skills: Architecture, Lifecycle, and Security](https://awesomecua.github.io/resources/arxiv-2608-29596/) — 2026-08-30
+  Surveys modular agentic skill architectures, skill lifecycles, and security risks in autonomous tool- and interface-using agents.
 - [CausalCache: Conditional High-Fidelity Restoration for Long-Horizon GUI Agents](https://awesomecua.github.io/resources/arxiv-2608-22577/) — 2026-08-23
   Introduces CausalCache, which selects archived screenshots to restore alongside text summaries under a fixed visual-memory budget. A history-gated adapter processes restored images, with evaluation distinguishing standard step limits from longer-horizon and mobile-transfer settings.
 - [Inducing Task Models from Computer-Use Traces](https://awesomecua.github.io/resources/arxiv-2608-20319/) — 2026-08-20
@@ -106,6 +108,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/memory/record
   MaskClaw makes local Allow, Mask or Ask decisions before GUI screenshots leave a trusted environment, using visual evidence and personalized policy memory. Its benchmark and designed evolution scenarios test how corrections and edits can become privacy skills checked by a sandbox gate.
 - [MobileExplorer: Accelerating On-Device Inference for Mobile GUI Agents via Online Exploration](https://awesomecua.github.io/resources/arxiv-2605-26546/) — 2026-05-26
   MobileExplorer probes relevant UI elements while an on-device model is reasoning, then supplies the exploration trace as compact context. A two-level rollback mechanism restores the working state when simple backtracking fails.
+- [PANDO: Efficient Multimodal AI Agents via Online Skill Distillation](https://awesomecua.github.io/resources/arxiv-2605-24785/) — 2026-05-24
+  Analyzes inefficiency in VisualWebArena trajectories and distills reusable online skills to reduce repeated actions and token overhead in multimodal web agents.
 - [MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents](https://awesomecua.github.io/resources/arxiv-2605-18652/) — 2026-05-18
   MementoGUI learns a controller for selecting, compressing and retrieving textual and region-level visual memories while leaving the GUI-agent backbone fixed. It also converts computer-use traces into controller training data and evaluates semantic actions, progress and memory consistency on long-horizon tasks.
 - [SE-GA: Memory-Augmented Self-Evolution for GUI Agents](https://awesomecua.github.io/resources/arxiv-2605-16883/) — 2026-05-16
@@ -118,6 +122,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/memory/record
   Introduces Mem-W, which compresses previous trajectories and current-session segments into latent memory tokens used directly by the GUI policy. Self-distillation and outcome supervision train this memory representation for web and mobile navigation.
 - [Exploring LLM Agent Designs and Interaction Modalities for Scientific Visualization](https://awesomecua.github.io/resources/arxiv-2604-27996/) — 2026-04-30
   This study compares specialized, computer-use and coding agents on scientific visualization workflows. It examines GUI, CLI, code and tool-call interaction modes, including how persistent memory changes performance across repeated trials.
+- [A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle](https://awesomecua.github.io/resources/arxiv-2604-16548/) — 2026-04-17
+  Organizes security risks and defenses for persistent agent memory into six lifecycle phases and proposes five verifiable governance primitives.
 - [AgentClick: A Skill-Based Human-in-the-Loop Review Layer for Terminal AI Agents](https://awesomecua.github.io/resources/arxiv-2604-16520/) — 2026-04-15
   AgentClick gives terminal-based agents a browser review interface for plans, drafts, execution traces and editable memory. A local server and skill plugin let users inspect proposed actions and provide structured feedback.
 - [UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization](https://awesomecua.github.io/resources/arxiv-2604-13822/) — 2026-04-15
@@ -202,6 +208,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/memory/record
   Introduces JEF-Hinter, which distills successful and failed trajectories into compact episodic hints and retrieves them for the current agent state. Web benchmark experiments examine guidance from decisive steps rather than full demonstration replay.
 - [PAL-UI: Planning with Active Look-back for Vision-Based GUI Agents](https://awesomecua.github.io/resources/arxiv-2510-00413/) — 2025-10-01
   PAL-UI combines observation/action summaries with selective retrieval of historical screenshots during planning. It trains mobile navigation models from step-level supervision and evaluates transfer to web navigation without additional training.
+- [ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://awesomecua.github.io/resources/arxiv-2509-25140/) — 2025-09-29
+  Distills generalizable reasoning strategies from both successful and failed agent trajectories into a persistent memory bank for test-time retrieval.
 - [Retrieval-augmented GUI Agents with Generative Guidelines](https://awesomecua.github.io/resources/arxiv-2509-24183/) — 2025-09-29
   RAG-GUI trains a small guidance adapter to filter and summarize retrieved web tutorials while keeping the acting agent fixed. Supervised and rejection-sampling stages prepare the adapter for inference-time assistance, tested on offline web/mobile tasks and interactive Android tasks.
 - [Robust, Observable, and Evolvable Agentic Systems Engineering: A Principled Framework Validated via the Fairy GUI Agent](https://awesomecua.github.io/resources/arxiv-2509-20729/) — 2025-09-25

@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2305.13300",
+  "citation-key": "arxiv_2305_13300",
+  "type": "article",
+  "title": "Adaptive Chameleon or Stubborn Sloth: Revealing the Behavior of Large Language Models in Knowledge Conflicts",
+  "URL": "https://arxiv.org/abs/2305.13300v4",
+  "custom": {
+    "catalog_id": "arxiv:2305.13300",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2305.13300",
+    "identifiers": {
+      "arxiv": "2305.13300"
+    },
+    "first_published_at": "2023-05-22",
+    "record_updated_at": "2024-02-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "92b4bb894fcc6c9d3a0a0b274b37eaf3b4595ea41301c6a6e40a36c2924c6c59",
+      "submitted_at": "2023-05-22T17:57:41Z",
+      "updated_at": "2024-02-27T17:08:49Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2305.13300v4"
+    }
+  },
+  "note": "First published: 2023-05-22; Recorded arXiv version: v4; Recorded version updated: 2024-02-27T17:08:49Z.",
+  "author": [
+    {
+      "literal": "Jian Xie"
+    },
+    {
+      "literal": "Kai Zhang"
+    },
+    {
+      "literal": "Jiangjie Chen"
+    },
+    {
+      "literal": "Renze Lou"
+    },
+    {
+      "literal": "Yu Su"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2305.13300",
+  "genre": "preprint",
+  "version": "4"
+}

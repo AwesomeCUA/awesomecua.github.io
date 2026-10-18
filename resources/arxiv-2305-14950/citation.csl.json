@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2305.14950",
+  "citation-key": "arxiv_2305_14950",
+  "type": "article",
+  "title": "Adversarial Demonstration Attacks on Large Language Models",
+  "URL": "https://arxiv.org/abs/2305.14950v2",
+  "custom": {
+    "catalog_id": "arxiv:2305.14950",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2305.14950",
+    "identifiers": {
+      "arxiv": "2305.14950"
+    },
+    "first_published_at": "2023-05-24",
+    "record_updated_at": "2023-10-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e131fe72d21e101568ee759c0236a4db5201ae14a0bb34ad80fd53071d0066f5",
+      "submitted_at": "2023-05-24T09:40:56Z",
+      "updated_at": "2023-10-14T05:03:53Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2305.14950v2"
+    }
+  },
+  "note": "First published: 2023-05-24; Recorded arXiv version: v2; Recorded version updated: 2023-10-14T05:03:53Z.",
+  "author": [
+    {
+      "literal": "Jiongxiao Wang"
+    },
+    {
+      "literal": "Zichen Liu"
+    },
+    {
+      "literal": "Keun Hee Park"
+    },
+    {
+      "literal": "Zhuojun Jiang"
+    },
+    {
+      "literal": "Zhaoheng Zheng"
+    },
+    {
+      "literal": "Zhuofeng Wu"
+    },
+    {
+      "literal": "Muhao Chen"
+    },
+    {
+      "literal": "Chaowei Xiao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2305.14950",
+  "genre": "preprint",
+  "version": "2"
+}

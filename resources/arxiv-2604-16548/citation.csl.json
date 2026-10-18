@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2604.16548",
+  "citation-key": "arxiv_2604_16548",
+  "type": "article",
+  "title": "A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle",
+  "URL": "https://arxiv.org/abs/2604.16548v3",
+  "custom": {
+    "catalog_id": "arxiv:2604.16548",
+    "catalog_kind": "survey",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2604.16548",
+    "identifiers": {
+      "arxiv": "2604.16548"
+    },
+    "first_published_at": "2026-04-17",
+    "record_updated_at": "2026-09-22",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fb75ea30086ecf069d8adda1513a6e906cfcfcedcd4cab01d0986a850aa8009a",
+      "submitted_at": "2026-04-17T06:28:22Z",
+      "updated_at": "2026-09-22T07:33:24Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2604.16548v3"
+    }
+  },
+  "note": "First published: 2026-04-17; Recorded arXiv version: v3; Recorded version updated: 2026-09-22T07:33:24Z.",
+  "author": [
+    {
+      "literal": "Zehao Lin"
+    },
+    {
+      "literal": "Xixuan Hao"
+    },
+    {
+      "literal": "Renyu Fu"
+    },
+    {
+      "literal": "Shaobo Cui"
+    },
+    {
+      "literal": "Kai Chen"
+    },
+    {
+      "literal": "Chunyu Li"
+    },
+    {
+      "literal": "Zhiyu Li"
+    },
+    {
+      "literal": "Feiyu Xiong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.16548",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2306.13213",
+  "citation-key": "arxiv_2306_13213",
+  "type": "article",
+  "title": "Visual Adversarial Examples Jailbreak Aligned Large Language Models",
+  "URL": "https://arxiv.org/abs/2306.13213v2",
+  "custom": {
+    "catalog_id": "arxiv:2306.13213",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2306.13213",
+    "identifiers": {
+      "arxiv": "2306.13213"
+    },
+    "first_published_at": "2023-06-22",
+    "record_updated_at": "2023-08-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1e610e5a98c7a94fb342ff1775f50879138b9732d73b22b1a0185c30bdd2fc78",
+      "submitted_at": "2023-06-22T22:13:03Z",
+      "updated_at": "2023-08-16T22:38:55Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2306.13213v2"
+    }
+  },
+  "note": "First published: 2023-06-22; Recorded arXiv version: v2; Recorded version updated: 2023-08-16T22:38:55Z.",
+  "author": [
+    {
+      "literal": "Xiangyu Qi"
+    },
+    {
+      "literal": "Kaixuan Huang"
+    },
+    {
+      "literal": "Ashwinee Panda"
+    },
+    {
+      "literal": "Peter Henderson"
+    },
+    {
+      "literal": "Mengdi Wang"
+    },
+    {
+      "literal": "Prateek Mittal"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        6,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2306.13213",
+  "genre": "preprint",
+  "version": "2"
+}

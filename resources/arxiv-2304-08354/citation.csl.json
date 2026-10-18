@@ -1,0 +1,166 @@
+{
+  "id": "arxiv:2304.08354",
+  "citation-key": "arxiv_2304_08354",
+  "type": "article",
+  "title": "Tool Learning with Foundation Models",
+  "URL": "https://arxiv.org/abs/2304.08354v3",
+  "custom": {
+    "catalog_id": "arxiv:2304.08354",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2304.08354",
+    "identifiers": {
+      "arxiv": "2304.08354"
+    },
+    "first_published_at": "2023-04-17",
+    "record_updated_at": "2024-08-06",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9987288e7dfa82bca811599beb8880732f90ea971ea15676e194360cbdd2a32e",
+      "submitted_at": "2023-04-17T15:16:10Z",
+      "updated_at": "2024-08-06T15:14:36Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2304.08354v3"
+    }
+  },
+  "note": "First published: 2023-04-17; Recorded arXiv version: v3; Recorded version updated: 2024-08-06T15:14:36Z.",
+  "author": [
+    {
+      "literal": "Yujia Qin"
+    },
+    {
+      "literal": "Shengding Hu"
+    },
+    {
+      "literal": "Yankai Lin"
+    },
+    {
+      "literal": "Weize Chen"
+    },
+    {
+      "literal": "Ning Ding"
+    },
+    {
+      "literal": "Ganqu Cui"
+    },
+    {
+      "literal": "Zheni Zeng"
+    },
+    {
+      "literal": "Yufei Huang"
+    },
+    {
+      "literal": "Chaojun Xiao"
+    },
+    {
+      "literal": "Chi Han"
+    },
+    {
+      "literal": "Yi Ren Fung"
+    },
+    {
+      "literal": "Yusheng Su"
+    },
+    {
+      "literal": "Huadong Wang"
+    },
+    {
+      "literal": "Cheng Qian"
+    },
+    {
+      "literal": "Runchu Tian"
+    },
+    {
+      "literal": "Kunlun Zhu"
+    },
+    {
+      "literal": "Shihao Liang"
+    },
+    {
+      "literal": "Xingyu Shen"
+    },
+    {
+      "literal": "Bokai Xu"
+    },
+    {
+      "literal": "Zhen Zhang"
+    },
+    {
+      "literal": "Yining Ye"
+    },
+    {
+      "literal": "Bowen Li"
+    },
+    {
+      "literal": "Ziwei Tang"
+    },
+    {
+      "literal": "Jing Yi"
+    },
+    {
+      "literal": "Yuzhang Zhu"
+    },
+    {
+      "literal": "Zhenning Dai"
+    },
+    {
+      "literal": "Lan Yan"
+    },
+    {
+      "literal": "Xin Cong"
+    },
+    {
+      "literal": "Yaxi Lu"
+    },
+    {
+      "literal": "Weilin Zhao"
+    },
+    {
+      "literal": "Yuxiang Huang"
+    },
+    {
+      "literal": "Junxi Yan"
+    },
+    {
+      "literal": "Xu Han"
+    },
+    {
+      "literal": "Xian Sun"
+    },
+    {
+      "literal": "Dahai Li"
+    },
+    {
+      "literal": "Jason Phang"
+    },
+    {
+      "literal": "Cheng Yang"
+    },
+    {
+      "literal": "Tongshuang Wu"
+    },
+    {
+      "literal": "Heng Ji"
+    },
+    {
+      "literal": "Zhiyuan Liu"
+    },
+    {
+      "literal": "Maosong Sun"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        4,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2304.08354",
+  "genre": "preprint",
+  "version": "3"
+}

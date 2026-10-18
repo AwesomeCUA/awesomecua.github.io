@@ -1,0 +1,63 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T10:59:55Z",
+      "role": "primary",
+      "sha256": "282883d02391a86c5a4d0cdafdc1d33f10a5073f31eba8c852095601d0aeb939",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "notes"
+      ],
+      "url": "https://raw.githubusercontent.com/Wuzheng02/VeriOS/HEAD/README.md"
+    }
+  ],
+  "id": "github:wuzheng02/verios",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-18T10:59:55Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/Wuzheng02/VeriOS"
+    }
+  ],
+  "name": "VeriOS",
+  "notes": "The released scripts evaluate recorded task inputs; the retained README does not establish a live Android execution environment. No runtime behavior or reported results were independently reproduced.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/Wuzheng02/VeriOS/HEAD/README.md",
+      "target_id": "arxiv:2509.07553",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Research code for proactive human–GUI-agent verification, including offline interaction-loop and dual-agent evaluation scripts plus LLaMA-Factory fine-tuning configurations.",
+  "topics": [
+    "safety-security",
+    "human-in-the-loop",
+    "mobile-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/Wuzheng02/VeriOS"
+}

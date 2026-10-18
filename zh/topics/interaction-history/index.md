@@ -62,6 +62,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/interaction-h
   Introduces WebCoach, which condenses navigation logs into persistent episodic memory and retrieves experiences by similarity and recency. Runtime hooks selectively supply advice to browser agents, evaluated on WebVoyager without retraining the underlying models.
 - [History-Aware Reasoning for GUI Agents](https://awesomecua.github.io/resources/arxiv-2511-09127/) — 2025-11-12
   HAR-GUI combines episodic reasoning and short-term memory to use earlier interactions when selecting GUI actions. Its training constructs reflective scenarios and correction guidance and applies a hybrid reinforcement-learning reward to the 3B policy.
+- [GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation](https://awesomecua.github.io/resources/arxiv-2510-27210/) — 2025-10-31
+  Combines structured progress-and-decision reasoning with history summarization to improve cross-domain generalization in GUI navigation agents.
 - [WebGraphEval: Multi-Turn Trajectory Evaluation for Web Agents using Graph Representation](https://awesomecua.github.io/resources/arxiv-2510-19205/) — 2025-10-22
   Introduces WebGraphEval, which merges multiple agents' trajectories into a weighted graph of canonical actions. Structural analyses examine recurring behavior, inefficient paths and important decision points beyond a final success score.
 - [Auto-scaling Continuous Memory for GUI Agent](https://awesomecua.github.io/resources/arxiv-2510-09038/) — 2025-10-10

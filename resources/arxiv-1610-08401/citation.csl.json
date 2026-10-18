@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:1610.08401",
+  "citation-key": "arxiv_1610_08401",
+  "type": "article",
+  "title": "Universal adversarial perturbations",
+  "URL": "https://arxiv.org/abs/1610.08401v3",
+  "custom": {
+    "catalog_id": "arxiv:1610.08401",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1610.08401",
+    "identifiers": {
+      "arxiv": "1610.08401"
+    },
+    "first_published_at": "2016-10-26",
+    "record_updated_at": "2017-03-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6e7ad7490d7f88202f585aad7011c2b1a4a995fee2ad59c9ad3d5da22f40f4ae",
+      "submitted_at": "2016-10-26T16:30:45Z",
+      "updated_at": "2017-03-09T17:01:25Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/1610.08401v3"
+    }
+  },
+  "note": "First published: 2016-10-26; Recorded arXiv version: v3; Recorded version updated: 2017-03-09T17:01:25Z.",
+  "author": [
+    {
+      "literal": "Seyed-Mohsen Moosavi-Dezfooli"
+    },
+    {
+      "literal": "Alhussein Fawzi"
+    },
+    {
+      "literal": "Omar Fawzi"
+    },
+    {
+      "literal": "Pascal Frossard"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2016,
+        10,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1610.08401",
+  "genre": "preprint",
+  "version": "3"
+}

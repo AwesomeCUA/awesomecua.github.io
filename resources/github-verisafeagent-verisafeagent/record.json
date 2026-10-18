@@ -1,0 +1,74 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T10:59:55Z",
+      "role": "primary",
+      "sha256": "2403ef3ec300e257dc631e3c569fc9aabaab1d3f385ac37abe1e4021aaae6e21",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/VeriSafeAgent/VeriSafeAgent/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T13:06:20.028238+00:00",
+      "role": "primary",
+      "sha256": "9b04efe4136a39e3e5f21a1d3bb8a44075f1370bdbeec6a4307783f3836f8311",
+      "supports": [
+        "summary",
+        "relations",
+        "notes"
+      ],
+      "url": "https://arxiv.org/html/2503.18492v2"
+    }
+  ],
+  "id": "github:verisafeagent/verisafeagent",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-18T10:59:55Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/VeriSafeAgent/VeriSafeAgent"
+    }
+  ],
+  "name": "VeriSafe Agent",
+  "notes": "The verification method requires developers to supply app-state predicates and transition hooks. The paper-to-repository relation is supported by the exact-version paper, not inferred from the repository name.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://arxiv.org/html/2503.18492v2",
+      "target_id": "arxiv:2503.18492",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Runtime verification framework for Android GUI agents that checks proposed actions against logical rules derived from user instructions and developer-defined app states.",
+  "topics": [
+    "safety-security",
+    "mobile-navigation",
+    "state-tracking"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/VeriSafeAgent/VeriSafeAgent"
+}

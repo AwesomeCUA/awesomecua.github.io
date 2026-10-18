@@ -44,6 +44,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/recording/rec
 
 ## 工程与产业
 
+- [AgentStudio](https://awesomecua.github.io/resources/github-skyworkai-agent-studio/) — Date not recorded
+  Toolkit and Ubuntu-based environment for building and evaluating generalist computer-use agents through GUI and API interaction.
 - [Browser Use WebUI](https://awesomecua.github.io/resources/github-browser-use-web-ui/) — Date not recorded
   A Gradio interface for configuring and running Browser Use agents, including persistent browser sessions and interaction recordings.
 - [BrowserOS / BrowserOS neo](https://awesomecua.github.io/resources/github-browseros-ai-browseros/) — Date not recorded

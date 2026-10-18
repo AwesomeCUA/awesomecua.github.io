@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2605.24785",
+  "citation-key": "arxiv_2605_24785",
+  "type": "article",
+  "title": "PANDO: Efficient Multimodal AI Agents via Online Skill Distillation",
+  "URL": "https://arxiv.org/abs/2605.24785v2",
+  "custom": {
+    "catalog_id": "arxiv:2605.24785",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2605.24785",
+    "identifiers": {
+      "arxiv": "2605.24785"
+    },
+    "first_published_at": "2026-05-24",
+    "record_updated_at": "2026-05-26",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e64d36e920a33851aacf93138a2081d0470424dfec6a8fd11915928660824851",
+      "submitted_at": "2026-05-24T00:07:25Z",
+      "updated_at": "2026-05-26T04:25:32Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2605.24785v2"
+    }
+  },
+  "note": "First published: 2026-05-24; Recorded arXiv version: v2; Recorded version updated: 2026-05-26T04:25:32Z.",
+  "author": [
+    {
+      "literal": "Yubo Li"
+    },
+    {
+      "literal": "Yidi Miao"
+    },
+    {
+      "literal": "Yuntian Shen"
+    },
+    {
+      "literal": "Yuxin Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.24785",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,96 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "license_review": {
+      "code": {
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/BraveGroup/SheetCopilot/HEAD/README.md",
+          "https://raw.githubusercontent.com/BraveGroup/SheetCopilot/HEAD/LICENSE"
+        ],
+        "reason": "The retained README restricts SheetCopilot and its dataset to noncommercial use, while the retained repository LICENSE contains the GNU GPL version 3 text. These declarations do not establish one unambiguous code license."
+      }
+    }
+  },
+  "environments": [
+    "desktop",
+    "windows",
+    "linux"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T10:59:56Z",
+      "role": "primary",
+      "sha256": "beb8c811bf2d070845aa6fcc7e94ffd43ca4f9f60ce42c72d958598790fbdffc",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "licenses.code",
+        "notes"
+      ],
+      "url": "https://raw.githubusercontent.com/BraveGroup/SheetCopilot/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-18T11:03:47Z",
+      "role": "primary",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/BraveGroup/SheetCopilot/HEAD/LICENSE"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-18T11:03:47Z",
+      "role": "primary",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/BraveGroup/SheetCopilot/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:bravegroup/sheetcopilot",
+  "identifiers": {},
+  "kind": "agent",
+  "last_verified_at": "2026-10-18T10:59:56Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/BraveGroup/SheetCopilot"
+    }
+  ],
+  "name": "SheetCopilot",
+  "notes": "The original agent and the later Ubuntu evaluator have different roles; the repository does not establish that the original agent runs on Ubuntu. Code licensing is unresolved because the retained README and LICENSE contain conflicting declarations.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/BraveGroup/SheetCopilot/HEAD/README.md",
+      "target_id": "arxiv:2305.19308",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Spreadsheet automation agent for Windows/Excel, with benchmark assets and a separately released headless Ubuntu evaluation backend.",
+  "topics": [
+    "workflow",
+    "tool-integration",
+    "evaluation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/BraveGroup/SheetCopilot"
+}

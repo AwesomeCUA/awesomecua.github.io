@@ -80,6 +80,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/video/records
   Action narration resources for GUI interaction trajectories.
 - [GUI-World](https://awesomecua.github.io/resources/github-dongping-chen-gui-world/) — Date not recorded
   GUI video benchmark and training data covering six scenarios, from Android and iOS to websites and XR, with eight question types for image and video LLMs and the GUI-Vid model.
+- [MONDAY](https://awesomecua.github.io/resources/github-runamu-monday/) — Date not recorded
+  Cross-platform mobile GUI trajectory dataset derived from instructional videos, with released data-processing helpers and example evaluation code for Android and iOS data.
 - [MONDAY annotations](https://awesomecua.github.io/resources/url-570654ff67ecefa2b955/) — Date not recorded
   Video-derived mobile navigation annotations that pair scene boundaries and screen or element boxes with action labels for training and evaluating GUI agents.
 - [VideoCAD data](https://awesomecua.github.io/resources/url-2b5dead3172c0b70da7e/) — Date not recorded

@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2303.16563",
+  "citation-key": "arxiv_2303_16563",
+  "type": "article",
+  "title": "Skill Reinforcement Learning and Planning for Open-World Long-Horizon Tasks",
+  "URL": "https://arxiv.org/abs/2303.16563v2",
+  "custom": {
+    "catalog_id": "arxiv:2303.16563",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2303.16563",
+    "identifiers": {
+      "arxiv": "2303.16563"
+    },
+    "first_published_at": "2023-03-29",
+    "record_updated_at": "2023-12-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bc98dfc5ab62a011837395e37de215b6cfba653c3d022296dd74a5b6bade1ff3",
+      "submitted_at": "2023-03-29T09:45:50Z",
+      "updated_at": "2023-12-04T14:53:15Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2303.16563v2"
+    }
+  },
+  "note": "First published: 2023-03-29; Recorded arXiv version: v2; Recorded version updated: 2023-12-04T14:53:15Z.",
+  "author": [
+    {
+      "literal": "Haoqi Yuan"
+    },
+    {
+      "literal": "Chi Zhang"
+    },
+    {
+      "literal": "Hongcheng Wang"
+    },
+    {
+      "literal": "Feiyang Xie"
+    },
+    {
+      "literal": "Penglin Cai"
+    },
+    {
+      "literal": "Hao Dong"
+    },
+    {
+      "literal": "Zongqing Lu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        3,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2303.16563",
+  "genre": "preprint",
+  "version": "2"
+}

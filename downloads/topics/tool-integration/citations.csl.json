@@ -1,5 +1,63 @@
 [
   {
+    "URL": "https://arxiv.org/abs/2305.19308v2",
+    "archive": "arXiv",
+    "archive_location": "2305.19308",
+    "author": [
+      {
+        "literal": "Hongxin Li"
+      },
+      {
+        "literal": "Jingran Su"
+      },
+      {
+        "literal": "Yuntao Chen"
+      },
+      {
+        "literal": "Qing Li"
+      },
+      {
+        "literal": "Zhaoxiang Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2305_19308",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "320ff40872677e9d32efae360dc289ca345076e037e7044188868f765e816008",
+        "submitted_at": "2023-05-30T17:59:30Z",
+        "updated_at": "2023-10-30T06:36:24Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2305.19308v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2305.19308",
+      "catalog_id": "arxiv:2305.19308",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2023-05-30",
+      "identifiers": {
+        "arxiv": "2305.19308"
+      },
+      "record_updated_at": "2023-10-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2305.19308",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2023-05-30; Recorded arXiv version: v2; Recorded version updated: 2023-10-30T06:36:24Z.",
+    "title": "SheetCopilot: Bringing Software Productivity to the Next Level through Large Language Models",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2310.10634v1",
     "archive": "arXiv",
     "archive_location": "2310.10634",
@@ -1563,6 +1621,73 @@
     },
     "note": "First published: 2025-04-20; Recorded arXiv version: v2; Recorded version updated: 2025-04-25T05:14:14Z.",
     "title": "UFO2: The Desktop AgentOS",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2504.21776v2",
+    "archive": "arXiv",
+    "archive_location": "2504.21776",
+    "author": [
+      {
+        "literal": "Xiaoxi Li"
+      },
+      {
+        "literal": "Jiajie Jin"
+      },
+      {
+        "literal": "Guanting Dong"
+      },
+      {
+        "literal": "Hongjin Qian"
+      },
+      {
+        "literal": "Yongkang Wu"
+      },
+      {
+        "literal": "Ji-Rong Wen"
+      },
+      {
+        "literal": "Yutao Zhu"
+      },
+      {
+        "literal": "Zhicheng Dou"
+      }
+    ],
+    "citation-key": "arxiv_2504_21776",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "351b6d7fbe4e217a5211884832c6ad07d76a0463e6a8c996815999ff3a5f1921",
+        "submitted_at": "2025-04-30T16:25:25Z",
+        "updated_at": "2025-10-13T12:40:15Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2504.21776v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2504.21776",
+      "catalog_id": "arxiv:2504.21776",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-04-30",
+      "identifiers": {
+        "arxiv": "2504.21776"
+      },
+      "record_updated_at": "2025-10-13"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2504.21776",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2025-04-30; Recorded arXiv version: v2; Recorded version updated: 2025-10-13T12:40:15Z.",
+    "title": "WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
     "type": "article",
     "version": "2"
   },

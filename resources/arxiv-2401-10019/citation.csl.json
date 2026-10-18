@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2401.10019",
+  "citation-key": "arxiv_2401_10019",
+  "type": "article",
+  "title": "R-Judge: Benchmarking Safety Risk Awareness for LLM Agents",
+  "URL": "https://arxiv.org/abs/2401.10019v3",
+  "custom": {
+    "catalog_id": "arxiv:2401.10019",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2401.10019",
+    "identifiers": {
+      "arxiv": "2401.10019"
+    },
+    "first_published_at": "2024-01-18",
+    "record_updated_at": "2024-10-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d9aeab527f85fd64aab821f5440967fad5350b70273a09c79463fe7959671228",
+      "submitted_at": "2024-01-18T14:40:46Z",
+      "updated_at": "2024-10-05T06:50:15Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2401.10019v3"
+    }
+  },
+  "note": "First published: 2024-01-18; Recorded arXiv version: v3; Recorded version updated: 2024-10-05T06:50:15Z.",
+  "author": [
+    {
+      "literal": "Tongxin Yuan"
+    },
+    {
+      "literal": "Zhiwei He"
+    },
+    {
+      "literal": "Lingzhong Dong"
+    },
+    {
+      "literal": "Yiming Wang"
+    },
+    {
+      "literal": "Ruijie Zhao"
+    },
+    {
+      "literal": "Tian Xia"
+    },
+    {
+      "literal": "Lizhen Xu"
+    },
+    {
+      "literal": "Binglin Zhou"
+    },
+    {
+      "literal": "Fangqi Li"
+    },
+    {
+      "literal": "Zhuosheng Zhang"
+    },
+    {
+      "literal": "Rui Wang"
+    },
+    {
+      "literal": "Gongshen Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2401.10019",
+  "genre": "preprint",
+  "version": "3"
+}

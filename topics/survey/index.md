@@ -8,6 +8,10 @@ Full source records: https://awesomecua.github.io/downloads/topics/survey/record
 
 - [Efficient GUI Agents: A Systems Survey of Observation, Memory, Action, and Runtime Optimization](https://awesomecua.github.io/resources/arxiv-2609-02309/) — 2026-09-02
   Surveys GUI-agent efficiency beyond task success: observation, context and memory, action, and planner or runtime cost.
+- [A Systematic Survey of Agentic Skills: Architecture, Lifecycle, and Security](https://awesomecua.github.io/resources/arxiv-2608-29596/) — 2026-08-30
+  Surveys modular agentic skill architectures, skill lifecycles, and security risks in autonomous tool- and interface-using agents.
+- [A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle](https://awesomecua.github.io/resources/arxiv-2604-16548/) — 2026-04-17
+  Organizes security risks and defenses for persistent agent memory into six lifecycle phases and proposes five verifiable governance primitives.
 - [Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward](https://awesomecua.github.io/resources/arxiv-2602-12430/) — 2026-02-12
   This survey organizes agent skills by architecture, acquisition, deployment and security, including their role in computer-use systems and GUI grounding. It also proposes a permission and lifecycle governance framework for skill deployment.
 - [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://awesomecua.github.io/resources/arxiv-2508-04482/) — 2025-08-06
@@ -38,3 +42,5 @@ Full source records: https://awesomecua.github.io/downloads/topics/survey/record
   Survey of (M)LLM-based GUI agents organized around their datasets and benchmarks, a unified agent framework with a taxonomy, and commercial applications.
 - [Foundations and Recent Trends in Multimodal Mobile Agents: A Survey](https://awesomecua.github.io/resources/arxiv-2411-02006/) — 2024-11-04
   Surveys multimodal mobile agents, organizing prompt-based and training-based approaches alongside evaluation benchmarks, supporting technologies, and open challenges in mobile task execution.
+- [A Trembling House of Cards? Mapping Adversarial Attacks against Language Agents](https://awesomecua.github.io/resources/arxiv-2402-10196/) — 2024-02-15
+  Presents a conceptual perception–reasoning–action framework and 12 potential attack scenarios for language agents, including hypothetical web-navigation attacks.

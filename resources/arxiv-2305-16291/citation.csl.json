@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2305.16291",
+  "citation-key": "arxiv_2305_16291",
+  "type": "article",
+  "title": "Voyager: An Open-Ended Embodied Agent with Large Language Models",
+  "URL": "https://arxiv.org/abs/2305.16291v2",
+  "custom": {
+    "catalog_id": "arxiv:2305.16291",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2305.16291",
+    "identifiers": {
+      "arxiv": "2305.16291"
+    },
+    "first_published_at": "2023-05-25",
+    "record_updated_at": "2023-10-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "86d47d4e1f2fdaa5a14c1efbc5c3d5986169f6c6a1e562b3d0ffff68154dbd64",
+      "submitted_at": "2023-05-25T17:46:38Z",
+      "updated_at": "2023-10-19T16:27:03Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2305.16291v2"
+    }
+  },
+  "note": "First published: 2023-05-25; Recorded arXiv version: v2; Recorded version updated: 2023-10-19T16:27:03Z.",
+  "author": [
+    {
+      "literal": "Guanzhi Wang"
+    },
+    {
+      "literal": "Yuqi Xie"
+    },
+    {
+      "literal": "Yunfan Jiang"
+    },
+    {
+      "literal": "Ajay Mandlekar"
+    },
+    {
+      "literal": "Chaowei Xiao"
+    },
+    {
+      "literal": "Yuke Zhu"
+    },
+    {
+      "literal": "Linxi Fan"
+    },
+    {
+      "literal": "Anima Anandkumar"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2305.16291",
+  "genre": "preprint",
+  "version": "2"
+}

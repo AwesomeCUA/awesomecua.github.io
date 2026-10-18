@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2308.00352",
+  "citation-key": "arxiv_2308_00352",
+  "type": "article",
+  "title": "MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework",
+  "URL": "https://arxiv.org/abs/2308.00352v7",
+  "custom": {
+    "catalog_id": "arxiv:2308.00352",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2308.00352",
+    "identifiers": {
+      "arxiv": "2308.00352"
+    },
+    "first_published_at": "2023-08-01",
+    "record_updated_at": "2024-11-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1209743a0f6299942572c774885dcbcdfa6f7ca5d68abf6f275bf4cd538f2a31",
+      "submitted_at": "2023-08-01T07:49:10Z",
+      "updated_at": "2024-11-01T14:36:52Z",
+      "version": 7,
+      "versioned_url": "https://arxiv.org/abs/2308.00352v7"
+    }
+  },
+  "note": "First published: 2023-08-01; Recorded arXiv version: v7; Recorded version updated: 2024-11-01T14:36:52Z.",
+  "author": [
+    {
+      "literal": "Sirui Hong"
+    },
+    {
+      "literal": "Mingchen Zhuge"
+    },
+    {
+      "literal": "Jiaqi Chen"
+    },
+    {
+      "literal": "Xiawu Zheng"
+    },
+    {
+      "literal": "Yuheng Cheng"
+    },
+    {
+      "literal": "Ceyao Zhang"
+    },
+    {
+      "literal": "Jinlin Wang"
+    },
+    {
+      "literal": "Zili Wang"
+    },
+    {
+      "literal": "Steven Ka Shing Yau"
+    },
+    {
+      "literal": "Zijuan Lin"
+    },
+    {
+      "literal": "Liyang Zhou"
+    },
+    {
+      "literal": "Chenyu Ran"
+    },
+    {
+      "literal": "Lingfeng Xiao"
+    },
+    {
+      "literal": "Chenglin Wu"
+    },
+    {
+      "literal": "Jürgen Schmidhuber"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        8,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2308.00352",
+  "genre": "preprint",
+  "version": "7"
+}

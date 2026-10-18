@@ -151,7 +151,9 @@ Full source records: https://awesomecua.github.io/downloads/topics/imitation-lea
 - [GUI-CIDER research code](https://awesomecua.github.io/resources/github-wuzheng02-gui-cider/) — Date not recorded
   Released data-synthesis and evaluation scripts that distill planning and causal GUI knowledge into text for mid-training mobile interface agents.
 - [GUIPivot](https://awesomecua.github.io/resources/github-zrw00-guipivot/) — Date not recorded
-  Research tooling for query-inference pivot tasks that connect screenshot grounding with GUI action reasoning, including preprocessing, query refinement and mobile-agent evaluation.
+  Query-inference training tools connecting screenshot grounding with GUI action reasoning, including preprocessing, query refinement and offline single-step evaluation on AndroidControl and AITZ.
+- [LearnAct](https://awesomecua.github.io/resources/github-lgy0404-learnact/) — Date not recorded
+  Released inference and evaluation code for demonstration-conditioned mobile GUI agents on LearnGUI-Offline. The repository describes a multi-agent adaptation method and links the LearnGUI demonstrations.
 - [PC-Agent-E training and deployment](https://awesomecua.github.io/resources/github-gair-nlp-pc-agent-e/) — Date not recorded
   Tools for refining and augmenting human computer-use trajectories, preparing supervised training data, and deploying a native PC-Agent-E scaffold.
 - [Synapse](https://awesomecua.github.io/resources/github-ltzheng-synapse/) — Date not recorded
@@ -160,7 +162,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/imitation-lea
   Training configurations, preprocessing and inference examples for tutorial-trained GUI models, with a LLaMA-Factory fine-tuning workflow and screenshot-grounding interfaces.
 - [UI-Genie](https://awesomecua.github.io/resources/github-euphoria16-ui-genie/) — Date not recorded
   Training and evaluation code for a mobile-agent framework that iteratively generates trajectories using agent and reward-model feedback.
-- [VideoCAD training and evaluation code](https://awesomecua.github.io/resources/github-udgok-videocad/) — Date not recorded
-  VideoCADFormer training, action-log preprocessing and evaluation code for learning long sequences of CAD interface operations from screen recordings.
+- [VideoCAD training and evaluation code](https://awesomecua.github.io/resources/github-ghadinehme-videocad/) — Date not recorded
+  VideoCADFormer training, action-log preprocessing and evaluation code for learning CAD interface action sequences from screen recordings of browser-based Onshape.
 - [WebLlama](https://awesomecua.github.io/resources/github-mcgill-nlp-webllama/) — Date not recorded
   Training, evaluation and integration tooling for dialogue-guided web agents, including Llama fine-tuning workflows and BrowserGym examples built around WebLINX.

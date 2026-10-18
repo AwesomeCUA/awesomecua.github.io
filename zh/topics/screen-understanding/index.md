@@ -44,6 +44,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/screen-unders
   Trains HTML-element relevance filters on Mind2Web trajectories and transfers them to WebArena to reduce irrelevant browser context. It also evaluates a zero-shot ColBERT retriever and documents baseline web-agent failure modes.
 - [Hallucination-Free GUI Grounding via Regression-Free Layout-Aware Matching](https://awesomecua.github.io/resources/arxiv-2608-09654/) — 2026-08-10
   This framework separates frozen-model instruction expansion from a trained layout-aware matcher that localizes GUI elements without coordinate regression. Binary text/icon supervision supports the matcher, with evaluations on GUI grounding and Mind2Web element-selection tasks.
+- [Not an A11y: How Android Accessibility Exposes Mobile AI Agents to Indirect Prompt Injection](https://awesomecua.github.io/resources/arxiv-2608-08939/) — 2026-08-09
+  Demonstrates that unsanitized Android accessibility tree metadata exposes mobile GUI agents to stealthy indirect prompt injection attacks.
 - [CAP: A Scalable Benchmark for Evaluating Cross-Site Browser Agents with Complex Actions and Perception](https://awesomecua.github.io/resources/arxiv-2608-08392/) — 2026-08-09
   CAP builds cross-site browser workflows by decomposing websites into operation and perception requirements and recomposing them into tasks. Its judge-based evaluation diagnoses complex interactions and visual-perception failures across real websites.
 - [Routing Is Least Learnable Where It Is Most Valuable: Bounds on Representation Routing for Web Agents](https://awesomecua.github.io/resources/arxiv-2608-06171/) — 2026-08-06
@@ -156,6 +158,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/screen-unders
   GUI-KV compresses vision-language agents’ attention caches using visual-token saliency and redundancy between screenshot frames. The method requires no retraining and evaluates how cache budgets affect GUI action accuracy and computational cost.
 - [GUI-PRA: Process Reward Agent for GUI Tasks](https://awesomecua.github.io/resources/arxiv-2509-23263/) — 2025-09-27
   GUI-PRA evaluates GUI progress by generating task-specific criteria and actively inspecting visual evidence with tools. It tests offline judgment on OS-Critic Bench and the effects of this feedback on online mobile policies in AndroidWorld.
+- [Benchmarking MLLM-based Web Understanding: Reasoning, Robustness and Safety](https://awesomecua.github.io/resources/arxiv-2509-21782/) — 2025-09-26
+  Evaluates multimodal LLMs on web interface reasoning, visual perturbation robustness, and safety-critical web understanding tasks.
 - [GUI-ARP: Enhancing Grounding with Adaptive Region Perception for GUI Agents](https://awesomecua.github.io/resources/arxiv-2509-15532/) — 2025-09-19
   GUI-ARP uses visual attention to crop relevant screenshot regions and decides whether a target needs single-stage or multi-stage analysis. Supervised fine-tuning followed by GRPO trains this adaptive procedure for high-resolution GUI grounding.
 - [How Auxiliary Reasoning Unleashes GUI Grounding in VLMs](https://awesomecua.github.io/resources/arxiv-2509-11548/) — 2025-09-15

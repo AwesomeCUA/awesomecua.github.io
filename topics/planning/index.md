@@ -44,6 +44,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/planning/reco
   Introduces Test-Time Environment Decomposition, which uses trial interaction to break complex web observations into simpler modules. A label-free adaptation procedure learns from these sub-environments and studies whether their gains compose in full web tasks.
 - [LocalLSTC: A Long Short-Term Control Architecture for Locally Deployed GUI Agents](https://awesomecua.github.io/resources/arxiv-2608-25777/) — 2026-08-26
   Introduces LocalLSTC, a training-free control architecture that maintains persistent task state and uses it to form short execution commitments. Outcomes feed back into that state for progress checks, recovery, and termination in locally deployed desktop agents.
+- [From Monoliths to Swarms: A Study of Attack Surface Evolution in the Transition to Multi-Agent Web Systems](https://awesomecua.github.io/resources/arxiv-2608-00202/) — 2026-07-31
+  Categorizes structural attack surfaces that emerge when single-agent browser systems are decomposed into multi-agent web workflows.
 - [Why Are GUI Agents Correct but Late? Decode on the Decision-Time Critical Path, Tested with Pre-Compiled Policy Trees](https://awesomecua.github.io/resources/arxiv-2607-28399/) — 2026-07-30
   Introduces Adaptive Anticipatory Policy Trees, which precompute guarded actions and deadlines during idle periods so transient GUI events can be handled without new text generation. Paired experiments examine when this prepared execution helps and when reactive control remains preferable.
 - [Falsifiable Commitment Planning for Self-Correcting Web Agents](https://awesomecua.github.io/resources/arxiv-2607-24167/) — 2026-07-27
@@ -162,6 +164,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/planning/reco
   Co-EPG alternates reinforcement learning for a planner with updates to a grounding model using generated training examples. The evolving grounder provides feedback to the planner, and evaluation uses Multimodal Mind2Web and AndroidControl.
 - [Learning from Online Videos at Inference Time for Computer-Use Agents](https://awesomecua.github.io/resources/arxiv-2511-04137/) — 2025-11-06
   This work retrieves online video tutorials and converts them into structured GUI action demonstrations with short objectives. A two-stage selection process supplies a relevant local trajectory as in-context guidance at each execution step.
+- [GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation](https://awesomecua.github.io/resources/arxiv-2510-27210/) — 2025-10-31
+  Combines structured progress-and-decision reasoning with history summarization to improve cross-domain generalization in GUI navigation agents.
 - [OSWorld-MCP: Benchmarking MCP Tool Invocation In Computer-Use Agents](https://awesomecua.github.io/resources/arxiv-2510-24563/) — 2025-10-28
   OSWorld-MCP evaluates how agents choose between GUI operations and MCP tool calls in computer tasks. It combines generated and curated tools, with 158 manually validated tools across seven applications, to examine tool use alongside task completion.
 - [Surfer 2: The Next Generation of Cross-Platform Computer Use Agents](https://awesomecua.github.io/resources/arxiv-2510-19949/) — 2025-10-22
@@ -260,6 +264,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/planning/reco
   EcoAgent splits mobile automation between cloud planning and on-device observation and verification. Compact screen descriptions and feedback reduce communication costs, with evaluation on AndroidWorld.
 - [ScaleTrack: Scaling and back-tracking Automated GUI Agents](https://awesomecua.github.io/resources/arxiv-2505-00416/) — 2025-05-01
   ScaleTrack combines a unified collection of GUI grounding samples with a planning objective that predicts the next action while reconstructing prior actions. This backward prediction links the current screenshot to interaction history during agent training.
+- [WebThinker: Empowering Large Reasoning Models with Deep Research Capability](https://awesomecua.github.io/resources/arxiv-2504-21776/) — 2025-04-30
+  Combines iterative web search and link-following with interleaved reasoning and report drafting for deep research. Its reported web explorer retrieves page content through a crawler rather than controlling a visual browser interface.
 - [WebEvolver: Enhancing Web Agent Self-Improvement with Coevolving World Model](https://awesomecua.github.io/resources/arxiv-2504-21024/) — 2025-04-23
   WebEvolver trains a co-evolving world model to predict web observations and generate additional agent-training trajectories. The same model supports look-ahead action selection at inference, with evaluation on live web-task benchmarks.
 - [InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners](https://awesomecua.github.io/resources/arxiv-2504-14239/) — 2025-04-19
@@ -514,7 +520,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/planning/reco
 - [GUI-ReWalk](https://awesomecua.github.io/resources/github-bytedance-gui-rewalk/) — Date not recorded
   A desktop trajectory-generation framework that moves from stochastic GUI exploration to inferred goals and multi-stage task completion, with retrospective reasoning annotations.
 - [GUIPivot](https://awesomecua.github.io/resources/github-zrw00-guipivot/) — Date not recorded
-  Research tooling for query-inference pivot tasks that connect screenshot grounding with GUI action reasoning, including preprocessing, query refinement and mobile-agent evaluation.
+  Query-inference training tools connecting screenshot grounding with GUI action reasoning, including preprocessing, query refinement and offline single-step evaluation on AndroidControl and AITZ.
 - [LiteWebAgent](https://awesomecua.github.io/resources/github-pathonaiorg-litewebagent/) — Date not recorded
   Modular web-agent framework with browser control, planning, workflow memory, and tree-search components, plus web and extension interfaces.
 - [MobA](https://awesomecua.github.io/resources/github-opendfm-moba/) — Date not recorded

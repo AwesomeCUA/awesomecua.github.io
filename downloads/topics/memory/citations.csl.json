@@ -2910,6 +2910,100 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2509.25140v2",
+    "archive": "arXiv",
+    "archive_location": "2509.25140",
+    "author": [
+      {
+        "literal": "Siru Ouyang"
+      },
+      {
+        "literal": "Jun Yan"
+      },
+      {
+        "literal": "I-Hung Hsu"
+      },
+      {
+        "literal": "Yanfei Chen"
+      },
+      {
+        "literal": "Ke Jiang"
+      },
+      {
+        "literal": "Zifeng Wang"
+      },
+      {
+        "literal": "Rujun Han"
+      },
+      {
+        "literal": "Long T. Le"
+      },
+      {
+        "literal": "Samira Daruki"
+      },
+      {
+        "literal": "Xiangru Tang"
+      },
+      {
+        "literal": "Vishy Tirumalashetty"
+      },
+      {
+        "literal": "George Lee"
+      },
+      {
+        "literal": "Mahsan Rofouei"
+      },
+      {
+        "literal": "Hangfei Lin"
+      },
+      {
+        "literal": "Jiawei Han"
+      },
+      {
+        "literal": "Chen-Yu Lee"
+      },
+      {
+        "literal": "Tomas Pfister"
+      }
+    ],
+    "citation-key": "arxiv_2509_25140",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d984883b65895d02debd54edbd198f0aadf8bd295da869680c3ebbe08d2e9492",
+        "submitted_at": "2025-09-29T17:51:03Z",
+        "updated_at": "2026-03-16T20:49:28Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2509.25140v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.25140",
+      "catalog_id": "arxiv:2509.25140",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-29",
+      "identifiers": {
+        "arxiv": "2509.25140"
+      },
+      "record_updated_at": "2026-03-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.25140",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-29; Recorded arXiv version: v2; Recorded version updated: 2026-03-16T20:49:28Z.",
+    "title": "ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2510.00413v2",
     "archive": "arXiv",
     "archive_location": "2510.00413",
@@ -5976,6 +6070,73 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2604.16548v3",
+    "archive": "arXiv",
+    "archive_location": "2604.16548",
+    "author": [
+      {
+        "literal": "Zehao Lin"
+      },
+      {
+        "literal": "Xixuan Hao"
+      },
+      {
+        "literal": "Renyu Fu"
+      },
+      {
+        "literal": "Shaobo Cui"
+      },
+      {
+        "literal": "Kai Chen"
+      },
+      {
+        "literal": "Chunyu Li"
+      },
+      {
+        "literal": "Zhiyu Li"
+      },
+      {
+        "literal": "Feiyu Xiong"
+      }
+    ],
+    "citation-key": "arxiv_2604_16548",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "fb75ea30086ecf069d8adda1513a6e906cfcfcedcd4cab01d0986a850aa8009a",
+        "submitted_at": "2026-04-17T06:28:22Z",
+        "updated_at": "2026-09-22T07:33:24Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2604.16548v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.16548",
+      "catalog_id": "arxiv:2604.16548",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-04-17",
+      "identifiers": {
+        "arxiv": "2604.16548"
+      },
+      "record_updated_at": "2026-09-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.16548",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-17; Recorded arXiv version: v3; Recorded version updated: 2026-09-22T07:33:24Z.",
+    "title": "A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2604.27996v3",
     "archive": "arXiv",
     "archive_location": "2604.27996",
@@ -6325,6 +6486,61 @@
     "title": "MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.24785v2",
+    "archive": "arXiv",
+    "archive_location": "2605.24785",
+    "author": [
+      {
+        "literal": "Yubo Li"
+      },
+      {
+        "literal": "Yidi Miao"
+      },
+      {
+        "literal": "Yuntian Shen"
+      },
+      {
+        "literal": "Yuxin Liu"
+      }
+    ],
+    "citation-key": "arxiv_2605_24785",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e64d36e920a33851aacf93138a2081d0470424dfec6a8fd11915928660824851",
+        "submitted_at": "2026-05-24T00:07:25Z",
+        "updated_at": "2026-05-26T04:25:32Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2605.24785v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.24785",
+      "catalog_id": "arxiv:2605.24785",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-24",
+      "identifiers": {
+        "arxiv": "2605.24785"
+      },
+      "record_updated_at": "2026-05-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.24785",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-24; Recorded arXiv version: v2; Recorded version updated: 2026-05-26T04:25:32Z.",
+    "title": "PANDO: Efficient Multimodal AI Agents via Online Skill Distillation",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2605.26546v1",
@@ -7516,6 +7732,61 @@
     },
     "note": "First published: 2026-08-23; Recorded arXiv version: v2; Recorded version updated: 2026-08-25T04:24:36Z.",
     "title": "CausalCache: Conditional High-Fidelity Restoration for Long-Horizon GUI Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2608.29596v2",
+    "archive": "arXiv",
+    "archive_location": "2608.29596",
+    "author": [
+      {
+        "literal": "Sanket Badhe"
+      },
+      {
+        "literal": "Deep Shah"
+      },
+      {
+        "literal": "Priyanka Tiwari"
+      },
+      {
+        "literal": "Nehal Kathrotia"
+      }
+    ],
+    "citation-key": "arxiv_2608_29596",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "13b6833243a543eb156ce7f4d943f8a3c608b3b38b7eaa77605ca7484cdedc43",
+        "submitted_at": "2026-08-30T06:36:42Z",
+        "updated_at": "2026-09-28T17:25:01Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2608.29596v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.29596",
+      "catalog_id": "arxiv:2608.29596",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-08-30",
+      "identifiers": {
+        "arxiv": "2608.29596"
+      },
+      "record_updated_at": "2026-09-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.29596",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-30; Recorded arXiv version: v2; Recorded version updated: 2026-09-28T17:25:01Z.",
+    "title": "A Systematic Survey of Agentic Skills: Architecture, Lifecycle, and Security",
     "type": "article",
     "version": "2"
   },

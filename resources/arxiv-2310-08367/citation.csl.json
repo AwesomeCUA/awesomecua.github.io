@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2310.08367",
+  "citation-key": "arxiv_2310_08367",
+  "type": "article",
+  "title": "MCU: An Evaluation Framework for Open-Ended Game Agents",
+  "URL": "https://arxiv.org/abs/2310.08367v4",
+  "custom": {
+    "catalog_id": "arxiv:2310.08367",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2310.08367",
+    "identifiers": {
+      "arxiv": "2310.08367"
+    },
+    "first_published_at": "2023-10-12",
+    "record_updated_at": "2025-06-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "62bad2be8b6f6e7ed7d31f7bd1465d10b8861da3bcb44302ebac90b68a974a91",
+      "submitted_at": "2023-10-12T14:38:25Z",
+      "updated_at": "2025-06-03T02:30:05Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2310.08367v4"
+    }
+  },
+  "note": "First published: 2023-10-12; Recorded arXiv version: v4; Recorded version updated: 2025-06-03T02:30:05Z.",
+  "author": [
+    {
+      "literal": "Xinyue Zheng"
+    },
+    {
+      "literal": "Haowei Lin"
+    },
+    {
+      "literal": "Kaichen He"
+    },
+    {
+      "literal": "Zihao Wang"
+    },
+    {
+      "literal": "Zilong Zheng"
+    },
+    {
+      "literal": "Yitao Liang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        10,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2310.08367",
+  "genre": "preprint",
+  "version": "4"
+}

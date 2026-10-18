@@ -210,6 +210,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/reinforcement
   GroundCUA turns expert desktop demonstrations into densely annotated screenshots and grounding instructions. The GroundNext model family uses this supervision and subsequent reinforcement learning, with both grounding benchmarks and an OSWorld agent configuration used for evaluation.
 - [Enhancing Trustworthy GUI Grounding via Self-Critiqued Reinforcement Learning](https://awesomecua.github.io/resources/arxiv-2510-27266/) — 2025-10-31
   HyperClick trains GUI grounders to produce a click and an accompanying confidence estimate using rewards for correctness and confidence alignment. Its evaluation examines localization, calibration, and abstention behavior.
+- [GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation](https://awesomecua.github.io/resources/arxiv-2510-27210/) — 2025-10-31
+  Combines structured progress-and-decision reasoning with history summarization to improve cross-domain generalization in GUI navigation agents.
 - [OpenPhone: Mobile Agentic Foundation Models](https://awesomecua.github.io/resources/arxiv-2510-22009/) — 2025-10-24
   OpenPhone trains a compact mobile policy with supervised learning followed by GRPO on synthetic GUI data, incorporating reasoning and memory management. Its device-cloud design handles routine work locally and delegates complex subtasks, with online evaluation on AndroidLab.
 - [UI-Ins: Enhancing GUI Grounding with Multi-Perspective Instruction-as-Reasoning](https://awesomecua.github.io/resources/arxiv-2510-20286/) — 2025-10-23

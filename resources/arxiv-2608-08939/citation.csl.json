@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2608.08939",
+  "citation-key": "arxiv_2608_08939",
+  "type": "article",
+  "title": "Not an A11y: How Android Accessibility Exposes Mobile AI Agents to Indirect Prompt Injection",
+  "URL": "https://arxiv.org/abs/2608.08939v1",
+  "custom": {
+    "catalog_id": "arxiv:2608.08939",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2608.08939",
+    "identifiers": {
+      "arxiv": "2608.08939"
+    },
+    "first_published_at": "2026-08-09",
+    "record_updated_at": "2026-08-09",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "64e4845ce85dd67b7790cf5de357f12deb72b71eb72031298e1064809099f063",
+      "submitted_at": "2026-08-09T22:13:55Z",
+      "updated_at": "2026-08-09T22:13:55Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2608.08939v1"
+    }
+  },
+  "note": "First published: 2026-08-09; Recorded arXiv version: v1; Recorded version updated: 2026-08-09T22:13:55Z.",
+  "author": [
+    {
+      "literal": "Rahul Deivasigamani"
+    },
+    {
+      "literal": "Sayeda Faatin Alvi"
+    },
+    {
+      "literal": "Derqui Andrea"
+    },
+    {
+      "literal": "Kaushal Punjabi"
+    },
+    {
+      "literal": "Stjepan Picek"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2608.08939",
+  "genre": "preprint",
+  "version": "1"
+}

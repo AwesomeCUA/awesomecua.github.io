@@ -1,0 +1,79 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "desktop",
+    "linux"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T10:59:56Z",
+      "role": "primary",
+      "sha256": "5653db27f736c0c77afb63f81ca051bf31f1e1f0579ac77cf00dca4ea751c159",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/skyworkai/agent-studio/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-18T11:03:47Z",
+      "role": "primary",
+      "sha256": "8486a10c4393cee1c25392769ddd3b2d6c242d6ec7928e1414efff7dfb2f07ef",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/skyworkai/agent-studio/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:skyworkai/agent-studio",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-18T10:59:56Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; GNU text does not say -only or -or-later; not a weights/data license",
+      "declared": "AGPL-3.0",
+      "retrieved_at": "2026-10-18T11:03:47Z",
+      "url": "https://raw.githubusercontent.com/skyworkai/agent-studio/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/skyworkai/agent-studio"
+    }
+  ],
+  "name": "AgentStudio",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/skyworkai/agent-studio/HEAD/README.md",
+      "target_id": "arxiv:2403.17918",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Toolkit and Ubuntu-based environment for building and evaluating generalist computer-use agents through GUI and API interaction.",
+  "topics": [
+    "sandbox",
+    "evaluation",
+    "grounding",
+    "recording"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/skyworkai/agent-studio"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2205.12700",
+  "citation-key": "arxiv_2205_12700",
+  "type": "article",
+  "title": "BITE: Textual Backdoor Attacks with Iterative Trigger Injection",
+  "URL": "https://arxiv.org/abs/2205.12700v3",
+  "custom": {
+    "catalog_id": "arxiv:2205.12700",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2205.12700",
+    "identifiers": {
+      "arxiv": "2205.12700"
+    },
+    "first_published_at": "2022-05-25",
+    "record_updated_at": "2023-05-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2825ba289924bc5d5ef08693b0e76be70b71f81b7b6a621403050a2a64e95bd5",
+      "submitted_at": "2022-05-25T11:58:38Z",
+      "updated_at": "2023-05-29T17:59:49Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2205.12700v3"
+    }
+  },
+  "note": "First published: 2022-05-25; Recorded arXiv version: v3; Recorded version updated: 2023-05-29T17:59:49Z.",
+  "author": [
+    {
+      "literal": "Jun Yan"
+    },
+    {
+      "literal": "Vansh Gupta"
+    },
+    {
+      "literal": "Xiang Ren"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        5,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2205.12700",
+  "genre": "preprint",
+  "version": "3"
+}

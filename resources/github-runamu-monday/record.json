@@ -1,0 +1,80 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "android",
+    "ios",
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T10:59:55Z",
+      "role": "primary",
+      "sha256": "cb3d2329571a80b6edeab98c04f8b63c7f4e976929788d6a8283238b0b7fdadc",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations",
+        "notes"
+      ],
+      "url": "https://raw.githubusercontent.com/runamu/monday/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-18T11:03:47Z",
+      "role": "primary",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/runamu/monday/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:runamu/monday",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-18T10:59:55Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-18T11:03:47Z",
+      "url": "https://raw.githubusercontent.com/runamu/monday/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/runamu/monday"
+    }
+  ],
+  "name": "MONDAY",
+  "notes": "The retained README marks release of the full data-generation pipeline, training scripts, and model checkpoints as pending. Linked video content and datasets remain subject to their original licenses; the repository code license does not establish a blanket data or weights license.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/runamu/monday/HEAD/README.md",
+      "target_id": "arxiv:2505.12632",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Cross-platform mobile GUI trajectory dataset derived from instructional videos, with released data-processing helpers and example evaluation code for Android and iOS data.",
+  "topics": [
+    "data-generation",
+    "mobile-navigation",
+    "video"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/runamu/monday"
+}

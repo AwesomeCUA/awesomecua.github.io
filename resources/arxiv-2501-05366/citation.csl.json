@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2501.05366",
+  "citation-key": "arxiv_2501_05366",
+  "type": "article",
+  "title": "Search-o1: Agentic Search-Enhanced Large Reasoning Models",
+  "URL": "https://arxiv.org/abs/2501.05366v1",
+  "custom": {
+    "catalog_id": "arxiv:2501.05366",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2501.05366",
+    "identifiers": {
+      "arxiv": "2501.05366"
+    },
+    "first_published_at": "2025-01-09",
+    "record_updated_at": "2025-01-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9a5c1bfacfb1a1e4c536f19c2aacbbd922fb4ce78816bab626a065505bcaebfc",
+      "submitted_at": "2025-01-09T16:48:17Z",
+      "updated_at": "2025-01-09T16:48:17Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2501.05366v1"
+    }
+  },
+  "note": "First published: 2025-01-09; Recorded arXiv version: v1; Recorded version updated: 2025-01-09T16:48:17Z.",
+  "author": [
+    {
+      "literal": "Xiaoxi Li"
+    },
+    {
+      "literal": "Guanting Dong"
+    },
+    {
+      "literal": "Jiajie Jin"
+    },
+    {
+      "literal": "Yuyao Zhang"
+    },
+    {
+      "literal": "Yujia Zhou"
+    },
+    {
+      "literal": "Yutao Zhu"
+    },
+    {
+      "literal": "Peitian Zhang"
+    },
+    {
+      "literal": "Zhicheng Dou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2501.05366",
+  "genre": "preprint",
+  "version": "1"
+}

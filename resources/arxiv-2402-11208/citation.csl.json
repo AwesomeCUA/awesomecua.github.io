@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2402.11208",
+  "citation-key": "arxiv_2402_11208",
+  "type": "article",
+  "title": "Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents",
+  "URL": "https://arxiv.org/abs/2402.11208v2",
+  "custom": {
+    "catalog_id": "arxiv:2402.11208",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2402.11208",
+    "identifiers": {
+      "arxiv": "2402.11208"
+    },
+    "first_published_at": "2024-02-17",
+    "record_updated_at": "2024-10-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8a00f68d32c29b7ab49b837363d41242db0bc2a4d2c4483a29eaf1d2c7aa88d2",
+      "submitted_at": "2024-02-17T06:48:45Z",
+      "updated_at": "2024-10-29T15:32:04Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2402.11208v2"
+    }
+  },
+  "note": "First published: 2024-02-17; Recorded arXiv version: v2; Recorded version updated: 2024-10-29T15:32:04Z.",
+  "author": [
+    {
+      "literal": "Wenkai Yang"
+    },
+    {
+      "literal": "Xiaohan Bi"
+    },
+    {
+      "literal": "Yankai Lin"
+    },
+    {
+      "literal": "Sishuo Chen"
+    },
+    {
+      "literal": "Jie Zhou"
+    },
+    {
+      "literal": "Xu Sun"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2402.11208",
+  "genre": "preprint",
+  "version": "2"
+}

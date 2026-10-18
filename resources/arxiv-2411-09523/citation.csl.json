@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2411.09523",
+  "citation-key": "arxiv_2411_09523",
+  "type": "article",
+  "title": "Navigating the Risks: A Survey of Security, Privacy, and Ethics Threats in LLM-Based Agents",
+  "URL": "https://arxiv.org/abs/2411.09523v1",
+  "custom": {
+    "catalog_id": "arxiv:2411.09523",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2411.09523",
+    "identifiers": {
+      "arxiv": "2411.09523"
+    },
+    "first_published_at": "2024-11-14",
+    "record_updated_at": "2024-11-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3a9274be626fa1d68036b3784f3093da99f2d8f1c45a2aebaff9d38e64921808",
+      "submitted_at": "2024-11-14T15:40:04Z",
+      "updated_at": "2024-11-14T15:40:04Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2411.09523v1"
+    }
+  },
+  "note": "First published: 2024-11-14; Recorded arXiv version: v1; Recorded version updated: 2024-11-14T15:40:04Z.",
+  "author": [
+    {
+      "literal": "Yuyou Gan"
+    },
+    {
+      "literal": "Yong Yang"
+    },
+    {
+      "literal": "Zhe Ma"
+    },
+    {
+      "literal": "Ping He"
+    },
+    {
+      "literal": "Rui Zeng"
+    },
+    {
+      "literal": "Yiming Wang"
+    },
+    {
+      "literal": "Qingming Li"
+    },
+    {
+      "literal": "Chunyi Zhou"
+    },
+    {
+      "literal": "Songze Li"
+    },
+    {
+      "literal": "Ting Wang"
+    },
+    {
+      "literal": "Yunjun Gao"
+    },
+    {
+      "literal": "Yingcai Wu"
+    },
+    {
+      "literal": "Shouling Ji"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2411.09523",
+  "genre": "preprint",
+  "version": "1"
+}

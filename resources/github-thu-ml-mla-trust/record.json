@@ -1,0 +1,79 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "web",
+    "android",
+    "cross-platform"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T10:59:55Z",
+      "role": "primary",
+      "sha256": "d69da19edaed185ad3071a97db3bb3fcfbdb14c0b514b7d27794b39fbe8e2541",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/thu-ml/MLA-Trust/HEAD/README.md"
+    },
+    {
+      "method": "license_header",
+      "retrieved_at": "2026-10-18T11:03:46Z",
+      "role": "primary",
+      "sha256": "240fb6820e7bcb0753617bcad6ffbd4a9ba83ca98e1e6aaa06c7b197b244bf16",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/thu-ml/MLA-Trust/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:thu-ml/mla-trust",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-18T10:59:55Z",
+  "licenses": {
+    "code": {
+      "basis": "repository LICENSE header; not a weights/data license",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-18T11:03:46Z",
+      "url": "https://raw.githubusercontent.com/thu-ml/MLA-Trust/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/thu-ml/MLA-Trust"
+    }
+  ],
+  "name": "MLA-Trust",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/thu-ml/MLA-Trust/HEAD/README.md",
+      "target_id": "arxiv:2506.01616",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Unified evaluation framework measuring truthfulness, controllability, safety, and privacy of multimodal LLM agents across interactive web and mobile GUI tasks.",
+  "topics": [
+    "safety-security",
+    "evaluation",
+    "robustness"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/thu-ml/MLA-Trust"
+}

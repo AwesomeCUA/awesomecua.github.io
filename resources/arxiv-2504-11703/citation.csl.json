@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2504.11703",
+  "citation-key": "arxiv_2504_11703",
+  "type": "article",
+  "title": "Progent: Securing AI Agents with Privilege Control",
+  "URL": "https://arxiv.org/abs/2504.11703v3",
+  "custom": {
+    "catalog_id": "arxiv:2504.11703",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2504.11703",
+    "identifiers": {
+      "arxiv": "2504.11703"
+    },
+    "first_published_at": "2025-04-16",
+    "record_updated_at": "2026-05-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2613f1b3e60cf7fd81d320bcb9d47841562992e0e2ea3b5b8d969656317d6d74",
+      "submitted_at": "2025-04-16T01:58:40Z",
+      "updated_at": "2026-05-14T02:36:38Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2504.11703v3"
+    }
+  },
+  "note": "First published: 2025-04-16; Recorded arXiv version: v3; Recorded version updated: 2026-05-14T02:36:38Z.",
+  "author": [
+    {
+      "literal": "Tianneng Shi"
+    },
+    {
+      "literal": "Jingxuan He"
+    },
+    {
+      "literal": "Zhun Wang"
+    },
+    {
+      "literal": "Hongwei Li"
+    },
+    {
+      "literal": "Linyu Wu"
+    },
+    {
+      "literal": "Wenbo Guo"
+    },
+    {
+      "literal": "Dawn Song"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.11703",
+  "genre": "preprint",
+  "version": "3"
+}

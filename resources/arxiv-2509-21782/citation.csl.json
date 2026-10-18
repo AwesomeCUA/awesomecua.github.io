@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2509.21782",
+  "citation-key": "arxiv_2509_21782",
+  "type": "article",
+  "title": "Benchmarking MLLM-based Web Understanding: Reasoning, Robustness and Safety",
+  "URL": "https://arxiv.org/abs/2509.21782v2",
+  "custom": {
+    "catalog_id": "arxiv:2509.21782",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2509.21782",
+    "identifiers": {
+      "arxiv": "2509.21782"
+    },
+    "first_published_at": "2025-09-26",
+    "record_updated_at": "2026-03-04",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8fed6f081e0330c54a304c79e8a4183865aae48f0e944545029d3de9852f8028",
+      "submitted_at": "2025-09-26T02:38:14Z",
+      "updated_at": "2026-03-04T16:31:39Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2509.21782v2"
+    }
+  },
+  "note": "First published: 2025-09-26; Recorded arXiv version: v2; Recorded version updated: 2026-03-04T16:31:39Z.",
+  "author": [
+    {
+      "literal": "Junliang Liu"
+    },
+    {
+      "literal": "Jingyu Xiao"
+    },
+    {
+      "literal": "Wenxin Tang"
+    },
+    {
+      "literal": "Zhixian Wang"
+    },
+    {
+      "literal": "Zipeng Xie"
+    },
+    {
+      "literal": "Wenxuan Wang"
+    },
+    {
+      "literal": "Minrui Zhang"
+    },
+    {
+      "literal": "Shuanghe Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.21782",
+  "genre": "preprint",
+  "version": "2"
+}

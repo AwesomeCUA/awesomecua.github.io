@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2603.23791",
+  "citation-key": "arxiv_2603_23791",
+  "type": "article",
+  "title": "The Cognitive Firewall:Securing Browser Based AI Agents Against Indirect Prompt Injection Via Hybrid Edge Cloud Defense",
+  "URL": "https://arxiv.org/abs/2603.23791v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.23791",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2603.23791",
+    "identifiers": {
+      "arxiv": "2603.23791"
+    },
+    "first_published_at": "2026-03-24",
+    "record_updated_at": "2026-03-24",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bb8164fa076c55cddf73508e6b68ce24a6594917e65862504ba9f08b4e97ee48",
+      "submitted_at": "2026-03-24T23:49:15Z",
+      "updated_at": "2026-03-24T23:49:15Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.23791v1"
+    }
+  },
+  "note": "First published: 2026-03-24; Recorded arXiv version: v1; Recorded version updated: 2026-03-24T23:49:15Z.",
+  "author": [
+    {
+      "literal": "Qianlong Lan"
+    },
+    {
+      "literal": "Anuj Kaul"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.23791",
+  "genre": "preprint",
+  "version": "1"
+}

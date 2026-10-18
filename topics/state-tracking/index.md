@@ -66,6 +66,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/state-trackin
   GUIDE evaluates GUI trajectories by segmenting them into subtasks, diagnosing each segment, and aggregating structured findings into a task verdict. It tests diagnostic judgments on e-commerce, web-agent and Android-control traces rather than relying on one holistic trajectory score.
 - [PIRA-Bench: A Transition from Reactive GUI Agents to GUI-based Proactive Intent Recommendation Agents](https://awesomecua.github.io/resources/arxiv-2603-08013/) — 2026-03-09
   PIRA-Bench evaluates proactive intent recommendations from noisy GUI screenshot sequences containing interleaved tasks and user context. Its PIRF baseline combines memory and state tracking to maintain multiple task threads and identify opportunities to assist.
+- [Atomicity for Agents: Exposing, Exploiting, and Mitigating TOCTOU Vulnerabilities in Browser-Use Agents](https://awesomecua.github.io/resources/arxiv-2603-00476/) — 2026-02-28
+  Identifies time-of-check to time-of-use (TOCTOU) race vulnerabilities when web pages mutate between agent planning and action execution.
 - [UI-Oceanus: Scaling GUI Agents with Synthetic Environmental Dynamics](https://awesomecua.github.io/resources/arxiv-2604-02345/) — 2026-02-11
   UI-Oceanus converts autonomous GUI exploration and execution feedback into supervision for predicting future interface states. It compares forward and inverse objectives during continual pretraining and examines downstream offline and online navigation as synthetic data scales.
 - [BEAP-Agent: Backtrackable Execution and Adaptive Planning for GUI Agents](https://awesomecua.github.io/resources/arxiv-2601-21352/) — 2026-01-29
@@ -101,3 +103,5 @@ Full source records: https://awesomecua.github.io/downloads/topics/state-trackin
   Android GUI-agent framework that keeps long-running task context in structured programs, variables and control flow, with a CLI and AndroidWorld integration.
 - [StateAct](https://awesomecua.github.io/resources/github-ai-nikolai-stateact/) — Date not recorded
   State-tracking prompts and experiment runners for language agents, including a WebShop implementation alongside text-based environments.
+- [VeriSafe Agent](https://awesomecua.github.io/resources/github-verisafeagent-verisafeagent/) — Date not recorded
+  Runtime verification framework for Android GUI agents that checks proposed actions against logical rules derived from user instructions and developer-defined app states.

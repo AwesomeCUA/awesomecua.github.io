@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2302.01560",
+  "citation-key": "arxiv_2302_01560",
+  "type": "article",
+  "title": "Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents",
+  "URL": "https://arxiv.org/abs/2302.01560v3",
+  "custom": {
+    "catalog_id": "arxiv:2302.01560",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2302.01560",
+    "identifiers": {
+      "arxiv": "2302.01560"
+    },
+    "first_published_at": "2023-02-03",
+    "record_updated_at": "2024-07-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "85475d5b76011627e8d576f316710b84cc2819cd1d686b322e1939402fa24b42",
+      "submitted_at": "2023-02-03T06:06:27Z",
+      "updated_at": "2024-07-08T05:56:47Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2302.01560v3"
+    }
+  },
+  "note": "First published: 2023-02-03; Recorded arXiv version: v3; Recorded version updated: 2024-07-08T05:56:47Z.",
+  "author": [
+    {
+      "literal": "Zihao Wang"
+    },
+    {
+      "literal": "Shaofei Cai"
+    },
+    {
+      "literal": "Guanzhou Chen"
+    },
+    {
+      "literal": "Anji Liu"
+    },
+    {
+      "literal": "Xiaojian Ma"
+    },
+    {
+      "literal": "Yitao Liang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        2,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2302.01560",
+  "genre": "preprint",
+  "version": "3"
+}

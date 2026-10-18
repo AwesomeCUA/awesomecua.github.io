@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2206.05751",
+  "citation-key": "arxiv_2206_05751",
+  "type": "article",
+  "title": "Consistent Attack: Universal Adversarial Perturbation on Embodied Vision Navigation",
+  "URL": "https://arxiv.org/abs/2206.05751v4",
+  "custom": {
+    "catalog_id": "arxiv:2206.05751",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2206.05751",
+    "identifiers": {
+      "arxiv": "2206.05751"
+    },
+    "first_published_at": "2022-06-12",
+    "record_updated_at": "2023-03-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bf9009d1334588adf31def65453ae184b83353e2c9ad4fb78106a2b0198d5b17",
+      "submitted_at": "2022-06-12T14:45:11Z",
+      "updated_at": "2023-03-25T08:43:16Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2206.05751v4"
+    }
+  },
+  "note": "First published: 2022-06-12; Recorded arXiv version: v4; Recorded version updated: 2023-03-25T08:43:16Z.",
+  "author": [
+    {
+      "literal": "Chengyang Ying"
+    },
+    {
+      "literal": "You Qiaoben"
+    },
+    {
+      "literal": "Xinning Zhou"
+    },
+    {
+      "literal": "Hang Su"
+    },
+    {
+      "literal": "Wenbo Ding"
+    },
+    {
+      "literal": "Jianyong Ai"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        6,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2206.05751",
+  "genre": "preprint",
+  "version": "4"
+}

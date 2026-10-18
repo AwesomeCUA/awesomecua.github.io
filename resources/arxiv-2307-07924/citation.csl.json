@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2307.07924",
+  "citation-key": "arxiv_2307_07924",
+  "type": "article",
+  "title": "ChatDev: Communicative Agents for Software Development",
+  "URL": "https://arxiv.org/abs/2307.07924v5",
+  "custom": {
+    "catalog_id": "arxiv:2307.07924",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2307.07924",
+    "identifiers": {
+      "arxiv": "2307.07924"
+    },
+    "first_published_at": "2023-07-16",
+    "record_updated_at": "2024-06-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4aa017a83671f0339cbcbd29f6bb0eb006673116bacdfb92d287aa1e1c6c6920",
+      "submitted_at": "2023-07-16T02:11:34Z",
+      "updated_at": "2024-06-05T13:23:49Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2307.07924v5"
+    }
+  },
+  "note": "First published: 2023-07-16; Recorded arXiv version: v5; Recorded version updated: 2024-06-05T13:23:49Z.",
+  "author": [
+    {
+      "literal": "Chen Qian"
+    },
+    {
+      "literal": "Wei Liu"
+    },
+    {
+      "literal": "Hongzhang Liu"
+    },
+    {
+      "literal": "Nuo Chen"
+    },
+    {
+      "literal": "Yufan Dang"
+    },
+    {
+      "literal": "Jiahao Li"
+    },
+    {
+      "literal": "Cheng Yang"
+    },
+    {
+      "literal": "Weize Chen"
+    },
+    {
+      "literal": "Yusheng Su"
+    },
+    {
+      "literal": "Xin Cong"
+    },
+    {
+      "literal": "Juyuan Xu"
+    },
+    {
+      "literal": "Dahai Li"
+    },
+    {
+      "literal": "Zhiyuan Liu"
+    },
+    {
+      "literal": "Maosong Sun"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        7,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2307.07924",
+  "genre": "preprint",
+  "version": "5"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2308.08155",
+  "citation-key": "arxiv_2308_08155",
+  "type": "article",
+  "title": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation",
+  "URL": "https://arxiv.org/abs/2308.08155v2",
+  "custom": {
+    "catalog_id": "arxiv:2308.08155",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2308.08155",
+    "identifiers": {
+      "arxiv": "2308.08155"
+    },
+    "first_published_at": "2023-08-16",
+    "record_updated_at": "2023-10-03",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2504f7ea12083689aa6346511f6e3f52bab31f31f75b74e91e6c71f2b2a23038",
+      "submitted_at": "2023-08-16T05:57:52Z",
+      "updated_at": "2023-10-03T20:47:10Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2308.08155v2"
+    }
+  },
+  "note": "First published: 2023-08-16; Recorded arXiv version: v2; Recorded version updated: 2023-10-03T20:47:10Z.",
+  "author": [
+    {
+      "literal": "Qingyun Wu"
+    },
+    {
+      "literal": "Gagan Bansal"
+    },
+    {
+      "literal": "Jieyu Zhang"
+    },
+    {
+      "literal": "Yiran Wu"
+    },
+    {
+      "literal": "Beibin Li"
+    },
+    {
+      "literal": "Erkang Zhu"
+    },
+    {
+      "literal": "Li Jiang"
+    },
+    {
+      "literal": "Xiaoyun Zhang"
+    },
+    {
+      "literal": "Shaokun Zhang"
+    },
+    {
+      "literal": "Jiale Liu"
+    },
+    {
+      "literal": "Ahmed Hassan Awadallah"
+    },
+    {
+      "literal": "Ryen W White"
+    },
+    {
+      "literal": "Doug Burger"
+    },
+    {
+      "literal": "Chi Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        8,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2308.08155",
+  "genre": "preprint",
+  "version": "2"
+}

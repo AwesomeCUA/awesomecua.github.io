@@ -6138,6 +6138,67 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2510.27210v1",
+    "archive": "arXiv",
+    "archive_location": "2510.27210",
+    "author": [
+      {
+        "literal": "Tao Liu"
+      },
+      {
+        "literal": "Chongyu Wang"
+      },
+      {
+        "literal": "Rongjie Li"
+      },
+      {
+        "literal": "Yingchen Yu"
+      },
+      {
+        "literal": "Xuming He"
+      },
+      {
+        "literal": "Bai Song"
+      }
+    ],
+    "citation-key": "arxiv_2510_27210",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "283b1a1de2a4e1d4ec8175f0c15af66c10097a7f5ad9fd2793e93b888526ff7e",
+        "submitted_at": "2025-10-31T06:10:57Z",
+        "updated_at": "2025-10-31T06:10:57Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2510.27210v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.27210",
+      "catalog_id": "arxiv:2510.27210",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-31",
+      "identifiers": {
+        "arxiv": "2510.27210"
+      },
+      "record_updated_at": "2025-10-31"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.27210",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          31
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-31; Recorded arXiv version: v1; Recorded version updated: 2025-10-31T06:10:57Z.",
+    "title": "GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2510.27266v2",
     "archive": "arXiv",
     "archive_location": "2510.27266",

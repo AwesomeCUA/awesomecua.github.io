@@ -46,6 +46,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/mobile-naviga
   ElderBench evaluates mobile GUI agents on smartphone requests elicited from older adults, including indirect and underspecified language. Online and offline tests, instruction normalization and linguistic analyses examine how these request patterns contribute to failures.
 - [ActReal: System-Level Mobile Agents Challenge Mobile Automation Detection](https://awesomecua.github.io/resources/arxiv-2608-30038/) — 2026-08-30
   Introduces ActReal, which translates semantic mobile-agent actions into coordinated touch and sensor signals to study automation-detection weaknesses. It evaluates detectors that observe touch events alone or together with inertial measurements under a privileged executor threat model.
+- [Not an A11y: How Android Accessibility Exposes Mobile AI Agents to Indirect Prompt Injection](https://awesomecua.github.io/resources/arxiv-2608-08939/) — 2026-08-09
+  Demonstrates that unsanitized Android accessibility tree metadata exposes mobile GUI agents to stealthy indirect prompt injection attacks.
 - [The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents](https://awesomecua.github.io/resources/arxiv-2608-06065/) — 2026-08-06
   Gated Hindsight Distillation gives a teacher access to the next screenshot during training while the student sees only the available trajectory prefix. Distillation is applied when hindsight repairs a student failure, and the resulting policies are evaluated on Android tasks.
 - [AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents](https://awesomecua.github.io/resources/arxiv-2608-05891/) — 2026-08-06
@@ -56,6 +58,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/mobile-naviga
   Combines GUI perception data, instructional videos, real and simulated devices, and planning with reflection to develop a mobile agent.
 - [KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill](https://awesomecua.github.io/resources/arxiv-2607-12625/) — 2026-07-14
   KnowAct-GUIClaw combines a host planner with pluggable GUI subagents, attributable experience memory and an evolving skill library. It uses user profiles and feedback for task decomposition and evaluates transfer across Android, iOS, HarmonyOS and Windows.
+- [(A)I Sees What You Don't: Exploiting New Attack Surfaces in Third-Party Mobile Agents](https://awesomecua.github.io/resources/arxiv-2607-00333/) — 2026-07-01
+  Analyzes cross-app privilege escalation and visual attack surfaces introduced by third-party VLM-powered mobile agents.
 - [Xiaomi-GUI-0 Technical Report](https://awesomecua.github.io/resources/arxiv-2606-31410/) — 2026-06-30
   Describes a mobile GUI agent trained through real-device interaction, corrected failure trajectories, supervised learning, and reinforcement learning.
 - [MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization](https://awesomecua.github.io/resources/arxiv-2606-19930/) — 2026-06-18
@@ -86,6 +90,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/mobile-naviga
   Introduces CORA, which calibrates a risk model to choose between executing and abstaining from mobile GUI actions, then diagnoses rejected actions to suggest interventions. Phone-Harm provides step-level safety labels for evaluating this safeguarding process.
 - [OmniGUI: Benchmarking GUI Agents in Omni-Modal Smartphone Environments](https://awesomecua.github.io/resources/arxiv-2605-18758/) — 2026-04-03
   OmniGUI evaluates step-level action prediction from interleaved smartphone screenshots, synchronous audio and video. Expert demonstrations carry multimodal-dependency annotations, and initial baselines use native multimodal models as agent proxies to study temporal and audio-related failures.
+- [Do Phone-Use Agents Respect Your Privacy?](https://awesomecua.github.io/resources/arxiv-2604-00986/) — 2026-04-01
+  Introduces MyPhoneBench to verify whether phone-use agents minimize personal data disclosure when filling forms during benign mobile tasks.
 - [PSPA-Bench: A Personalized Benchmark for Smartphone GUI Agent](https://awesomecua.github.io/resources/arxiv-2603-29318/) — 2026-03-31
   PSPA-Bench evaluates personalized smartphone GUI behavior using user-specific instructions and a process-aware assessment of interaction traces. Its comparison of GUI agents diagnoses weaknesses in adapting workflows and preferences rather than measuring generic task completion alone.
 - [UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience](https://awesomecua.github.io/resources/arxiv-2603-24533/) — 2026-03-25
@@ -136,10 +142,14 @@ Full source records: https://awesomecua.github.io/downloads/topics/mobile-naviga
   Introduces AFRAgent, which uses adaptive feature renormalization to combine low-resolution visual embeddings with high-resolution details. The architecture is evaluated for smartphone GUI automation on Meta-GUI and AITW.
 - [D-GARA: A Dynamic Benchmarking Framework for GUI Agent Robustness in Real-World Anomalies](https://awesomecua.github.io/resources/arxiv-2511-16590/) — 2025-11-20
   D-GARA evaluates Android GUI agents under runtime anomalies such as permission dialogs, battery warnings, and update prompts. Its modular environment embeds these interruptions in Android applications to study recovery and robustness.
+- [DualTAP: A Dual-Task Adversarial Protector for Mobile MLLM Agents](https://awesomecua.github.io/resources/arxiv-2511-13248/) — 2025-11-17
+  Applies dual-task adversarial perturbations to mobile screenshots to conceal personally identifiable information from untrusted MLLM routers while preserving agent task utility.
 - [Mobile-Agent-RAG: Driving Smart Multi-Agent Coordination with Contextual Knowledge Empowerment for Long-Horizon Mobile Automation](https://awesomecua.github.io/resources/arxiv-2511-12254/) — 2025-11-15
   Uses separate retrieval systems for high-level mobile-task planning and precise interface operations, with a benchmark for extended cross-app tasks.
 - [ProBench: Benchmarking GUI Agents with Accurate Process Information](https://awesomecua.github.io/resources/arxiv-2511-09157/) — 2025-11-12
   ProBench extends mobile GUI evaluation with tasks whose correctness depends on the interaction process as well as the final state. Its ProcessProvider supplies process information for assessing agent behavior and analyzing failure modes.
+- [Measuring the Security of Mobile LLM Agents under Adversarial Prompts from Untrusted Third-Party Channels](https://awesomecua.github.io/resources/arxiv-2510-27140/) — 2025-10-31
+  Measures how untrusted third-party notifications, messages, and app content can hijack mobile LLM agents into executing unauthorized cross-app actions.
 - [OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows](https://awesomecua.github.io/resources/arxiv-2510-24411/) — 2025-10-28
   Introduces MobileRisk-Live and OS-Sentinel, combining a formal verifier for system-level violations with a multimodal judge for contextual risks in mobile GUI workflows.
 - [OpenPhone: Mobile Agentic Foundation Models](https://awesomecua.github.io/resources/arxiv-2510-22009/) — 2025-10-24
@@ -152,6 +162,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/mobile-naviga
   Introduces Hi-Agent, jointly training a high-level reasoning model and a low-level mobile action model. Execution feedback supplies a foresight advantage for optimizing subgoal decisions, with evaluations on Android control benchmarks.
 - [ReInAgent: A Context-Aware GUI Agent Enabling Human-in-the-Loop Mobile Task Navigation](https://awesomecua.github.io/resources/arxiv-2510-07988/) — 2025-10-09
   Introduces ReInAgent, coordinating information management, planning, and reflection around a shared memory for mobile tasks. It proactively asks users for information and checks consistency when instructions are ambiguous or change during execution.
+- [Invisible to Humans, Triggered by Agents: Stealthy Jailbreak Attacks on Mobile Vision-Language Agents](https://awesomecua.github.io/resources/arxiv-2510-07809/) — 2025-10-09
+  Uses the near-zero contact-touch signals of automated mobile agents to expose malicious visual content selectively during agent interactions. The paper combines this agent-only perceptual injection with HG-IDA* prompt optimization to study unauthorized cross-app actions.
 - [PAL-UI: Planning with Active Look-back for Vision-Based GUI Agents](https://awesomecua.github.io/resources/arxiv-2510-00413/) — 2025-10-01
   PAL-UI combines observation/action summaries with selective retrieval of historical screenshots during planning. It trains mobile navigation models from step-level supervision and evaluates transfer to web navigation without additional training.
 - [Retrieval-augmented GUI Agents with Generative Guidelines](https://awesomecua.github.io/resources/arxiv-2509-24183/) — 2025-09-29
@@ -172,6 +184,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/mobile-naviga
   KG-RAG converts UI transition graphs into a searchable vector store and uses intent-guided retrieval to construct actionable navigation paths. It introduces KG-Android-Bench and KG-Harmony-Bench and evaluates transfer from mobile apps to web and desktop tasks.
 - [InquireMobile: Teaching VLM-based Mobile Agent to Request Human Assistance via Reinforcement Fine-Tuning](https://awesomecua.github.io/resources/arxiv-2508-19679/) — 2025-08-27
   InquireMobile trains mobile agents to seek human confirmation at critical decisions using staged reinforcement fine-tuning and pre-action reasoning. InquireBench evaluates safe interaction and proactive inquiry, distinguishing asking for help from completing the underlying task.
+- [Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents](https://awesomecua.github.io/resources/arxiv-2508-19493/) — 2025-08-27
+  Introduces SAPA-Bench with 7,138 smartphone scenarios to evaluate whether MLLM-powered mobile agents detect and protect sensitive personal information on screen.
 - [Mobile-Agent-v3: Fundamental Agents for GUI Automation](https://awesomecua.github.io/resources/arxiv-2508-15144/) — 2025-08-21
   Introduces GUI-Owl models and Mobile-Agent-v3 orchestration, using environment-generated trajectories to support GUI capabilities.
 - [CRAFT-GUI: Curriculum-Reinforced Agent For GUI Tasks](https://awesomecua.github.io/resources/arxiv-2508-11360/) — 2025-08-15
@@ -194,6 +208,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/mobile-naviga
   SimpAgent prunes distracting interface elements with visual masks and compresses interaction history using consistency-based guidance. The study evaluates these two forms of context reduction during GUI navigation in web and mobile environments.
 - [Mobile-R1: Towards Interactive Capability for VLM-Based Mobile Agent via Systematic Training](https://awesomecua.github.io/resources/arxiv-2506-20332/) — 2025-06-25
   Uses a staged curriculum from response-format alignment through action feedback to interactive task-level training for mobile agents.
+- [Poison Once, Control Anywhere: Clean-Text Visual Backdoors in VLM-based Mobile Agents](https://awesomecua.github.io/resources/arxiv-2506-13205/) — 2025-06-16
+  Demonstrates clean-text visual backdoor attacks (VIBMA) that compromise fine-tuned VLM mobile agents through visual triggers while keeping text instructions intact.
 - [Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills](https://awesomecua.github.io/resources/arxiv-2506-10387/) — 2025-06-12
   Mirage-1 organizes interaction trajectories into execution, core, and meta-skills, then uses them to guide Monte Carlo tree search during online GUI tasks. It introduces AndroidLH for long-horizon evaluation and tests the approach on Android and web-navigation benchmarks.
 - [Atomic-to-Compositional Generalization for Mobile Agents with A New Benchmark and Scheduling System](https://awesomecua.github.io/resources/arxiv-2506-08972/) — 2025-06-10
@@ -222,6 +238,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/mobile-naviga
   Studies backdoor risks in mobile GUI agents through AgentGhost, which combines goal-level and interaction-history triggers during model training. The paper evaluates multiple mobile agents and a tailored defense.
 - [Building a Stable Planner: An Extended Finite State Machine Based Planning Module for Mobile GUI Agent](https://awesomecua.github.io/resources/arxiv-2505-14141/) — 2025-05-20
   SPlanner models mobile-app functions and configurations with extended finite-state machines, traverses them to construct execution paths, and converts those paths into natural-language plans. A VLM follows these plans to perform GUI actions, with evaluation on AndroidWorld.
+- [From Assistants to Adversaries: Exploring the Security Risks of Mobile LLM Agents](https://awesomecua.github.io/resources/arxiv-2505-12981/) — 2025-05-19
+  Analyzes security vulnerabilities across OEM system-level, third-party, and research mobile LLM agents, covering GUI and cross-application attack surfaces.
 - [Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents](https://awesomecua.github.io/resources/arxiv-2505-12632/) — 2025-05-19
   Introduces MONDAY and an automated pipeline that extracts mobile-navigation training data from instructional videos across operating-system platforms.
 - [GUI-Shift: Enhancing VLM-Based GUI Agents through Self-supervised Reinforcement Learning](https://awesomecua.github.io/resources/arxiv-2505-12493/) — 2025-05-18
@@ -412,6 +430,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/mobile-naviga
   Instruction-to-function-call examples for learning Android intent invocation, with training, testing and API-annotation files for mobile task execution.
 - [GUIOdyssey — current data release](https://awesomecua.github.io/resources/url-511903ebfac45e6751b2/) — Date not recorded
   Cross-app Android interaction episodes with fine-grained step instructions, screen descriptions, action context, and target boxes.
+- [MONDAY](https://awesomecua.github.io/resources/github-runamu-monday/) — Date not recorded
+  Cross-platform mobile GUI trajectory dataset derived from instructional videos, with released data-processing helpers and example evaluation code for Android and iOS data.
 - [MONDAY annotations](https://awesomecua.github.io/resources/url-570654ff67ecefa2b955/) — Date not recorded
   Video-derived mobile navigation annotations that pair scene boundaries and screen or element boxes with action labels for training and evaluating GUI agents.
 - [MoTIF](https://awesomecua.github.io/resources/github-aburns4-motif/) — Date not recorded
@@ -480,6 +500,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/mobile-naviga
   Research scripts that generate screen descriptions, action reasoning and expected outcomes, then predict Android GUI actions using the resulting Chain-of-Action-Thought context.
 - [CoCo-Agent](https://awesomecua.github.io/resources/github-xbmxb-coco-agent/) — Date not recorded
   Research implementation combining screen and layout perception with conditional action prediction for smartphone automation.
+- [LearnAct](https://awesomecua.github.io/resources/github-lgy0404-learnact/) — Date not recorded
+  Released inference and evaluation code for demonstration-conditioned mobile GUI agents on LearnGUI-Offline. The repository describes a multi-agent adaptation method and links the LearnGUI demonstrations.
 - [MAI-UI inference and evaluation code](https://awesomecua.github.io/resources/github-tongyi-mai-mai-ui/) — Date not recorded
   Published MAI-UI grounding and navigation-agent implementations with inference demos and evaluation scripts.
 - [META-GUI baseline](https://awesomecua.github.io/resources/github-x-lance-meta-gui-baseline/) — Date not recorded
@@ -512,5 +534,9 @@ Full source records: https://awesomecua.github.io/downloads/topics/mobile-naviga
   Memory-routing implementation that chooses text or image demonstrations for a frozen GUI actor, with offline evaluation and Android transfer experiments.
 - [VEM GUI-Agent-RL](https://awesomecua.github.io/resources/github-microsoft-gui-agent-rl/) — Date not recorded
   Training code that learns a value environment model from offline Android interaction data and uses its frozen value estimates to guide GUI policy optimization.
+- [VeriOS](https://awesomecua.github.io/resources/github-wuzheng02-verios/) — Date not recorded
+  Research code for proactive human–GUI-agent verification, including offline interaction-loop and dual-agent evaluation scripts plus LLaMA-Factory fine-tuning configurations.
+- [VeriSafe Agent](https://awesomecua.github.io/resources/github-verisafeagent-verisafeagent/) — Date not recorded
+  Runtime verification framework for Android GUI agents that checks proposed actions against logical rules derived from user instructions and developer-defined app states.
 - [VisionTasker](https://awesomecua.github.io/resources/github-akimotoayako-visiontasker/) — Date not recorded
   An Android automation implementation that translates screenshot-based UI understanding into language descriptions for step-by-step LLM planning and action execution.

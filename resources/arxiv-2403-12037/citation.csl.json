@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2403.12037",
+  "citation-key": "arxiv_2403_12037",
+  "type": "article",
+  "title": "MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control",
+  "URL": "https://arxiv.org/abs/2403.12037v2",
+  "custom": {
+    "catalog_id": "arxiv:2403.12037",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2403.12037",
+    "identifiers": {
+      "arxiv": "2403.12037"
+    },
+    "first_published_at": "2024-03-18",
+    "record_updated_at": "2024-03-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "973133be9a1bc8ed5d6d1d9c6efb554d9114b1f16381456f7966b314ff8b1133",
+      "submitted_at": "2024-03-18T17:59:42Z",
+      "updated_at": "2024-03-19T14:52:28Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2403.12037v2"
+    }
+  },
+  "note": "First published: 2024-03-18; Recorded arXiv version: v2; Recorded version updated: 2024-03-19T14:52:28Z.",
+  "author": [
+    {
+      "literal": "Enshen Zhou"
+    },
+    {
+      "literal": "Yiran Qin"
+    },
+    {
+      "literal": "Zhenfei Yin"
+    },
+    {
+      "literal": "Yuzhou Huang"
+    },
+    {
+      "literal": "Ruimao Zhang"
+    },
+    {
+      "literal": "Lu Sheng"
+    },
+    {
+      "literal": "Yu Qiao"
+    },
+    {
+      "literal": "Jing Shao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.12037",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "kind": "dataset",
   "profile_count": 66,
-  "curated_resource_count": 85,
+  "curated_resource_count": 86,
   "unit": "resource profile; count observations retain their own units and populations",
   "limitations": "Source-reviewed descriptions and reported or computed inventory counts. No performance ranking, independent reproduction, or global-completeness claim.",
   "records": [
@@ -4800,7 +4800,7 @@
       "name": "VideoCAD data",
       "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WX8PCK",
       "environments": [
-        "unspecified"
+        "web"
       ],
       "profile": {
         "counts": [
@@ -4815,7 +4815,7 @@
         ],
         "evidence_urls": [
           "https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi:10.7910/DVN/WX8PCK",
-          "https://raw.githubusercontent.com/UDGOK/videocad/HEAD/README.md"
+          "https://raw.githubusercontent.com/ghadinehme/VideoCAD/2d69eeaf0ac44210c76dcab2d08b4d4610be236c/README.md"
         ],
         "formats": [
           "ZIP",
@@ -4828,7 +4828,7 @@
           "UI action logs",
           "target CAD images"
         ],
-        "notes": "The reported video total is distinct from the Dataverse package-file count. The source does not specify OS compatibility.",
+        "notes": "The reported video total is distinct from the Dataverse package-file count. The exact-version paper identifies the recorded interface as browser-based Onshape; operating-system compatibility is not established.",
         "splits": [],
         "supervision": [
           "timestamped UI actions",
@@ -4866,15 +4866,15 @@
         },
         {
           "method": "editorial_primary_review",
-          "retrieved_at": "2026-10-17T02:02:45Z",
+          "retrieved_at": "2026-10-18T12:02:53.536297+00:00",
           "role": "primary",
-          "sha256": "6c182da7783e740539ce49d91794d299f2ca477a5b0d946bce48649b8fa2e49c",
+          "sha256": "cbb08803922b4b7736979ca0a5fe552b111fcd428fa9317401bc090b14bb4e54",
           "supports": [
             "summary",
             "relations",
             "details.dataset_profile"
           ],
-          "url": "https://raw.githubusercontent.com/UDGOK/videocad/HEAD/README.md"
+          "url": "https://raw.githubusercontent.com/ghadinehme/VideoCAD/2d69eeaf0ac44210c76dcab2d08b4d4610be236c/README.md"
         },
         {
           "method": "dataverse_api",

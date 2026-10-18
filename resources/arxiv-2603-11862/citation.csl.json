@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2603.11862",
+  "citation-key": "arxiv_2603_11862",
+  "type": "article",
+  "title": "You Told Me to Do It: Measuring Instructional Text-induced Private Data Leakage in LLM Agents",
+  "URL": "https://arxiv.org/abs/2603.11862v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.11862",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.11862",
+    "identifiers": {
+      "arxiv": "2603.11862"
+    },
+    "first_published_at": "2026-03-12",
+    "record_updated_at": "2026-03-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "919a860952ce5fbb15c1bef9a5ef3766e46a15d3f4a504d10caa111ba0d9826a",
+      "submitted_at": "2026-03-12T12:35:46Z",
+      "updated_at": "2026-03-12T12:35:46Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.11862v1"
+    }
+  },
+  "note": "First published: 2026-03-12; Recorded arXiv version: v1; Recorded version updated: 2026-03-12T12:35:46Z.",
+  "author": [
+    {
+      "literal": "Ching-Yu Kao"
+    },
+    {
+      "literal": "Xinfeng Li"
+    },
+    {
+      "literal": "Shenyu Dai"
+    },
+    {
+      "literal": "Tianze Qiu"
+    },
+    {
+      "literal": "Pengcheng Zhou"
+    },
+    {
+      "literal": "Eric Hanchen Jiang"
+    },
+    {
+      "literal": "Philip Sperl"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.11862",
+  "genre": "preprint",
+  "version": "1"
+}

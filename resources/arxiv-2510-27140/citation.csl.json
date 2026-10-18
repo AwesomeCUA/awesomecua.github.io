@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2510.27140",
+  "citation-key": "arxiv_2510_27140",
+  "type": "article",
+  "title": "Measuring the Security of Mobile LLM Agents under Adversarial Prompts from Untrusted Third-Party Channels",
+  "URL": "https://arxiv.org/abs/2510.27140v3",
+  "custom": {
+    "catalog_id": "arxiv:2510.27140",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2510.27140",
+    "identifiers": {
+      "arxiv": "2510.27140"
+    },
+    "first_published_at": "2025-10-31",
+    "record_updated_at": "2026-07-07",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "61b611712fff54af25aae660f2353fa6c3aaa764b0767831ebf2278c120d9dea",
+      "submitted_at": "2025-10-31T03:35:59Z",
+      "updated_at": "2026-07-07T02:18:26Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2510.27140v3"
+    }
+  },
+  "note": "First published: 2025-10-31; Recorded arXiv version: v3; Recorded version updated: 2026-07-07T02:18:26Z.",
+  "author": [
+    {
+      "literal": "Chenghao Du"
+    },
+    {
+      "literal": "Quanfeng Huang"
+    },
+    {
+      "literal": "Tingxuan Tang"
+    },
+    {
+      "literal": "Zihao Wang"
+    },
+    {
+      "literal": "Adwait Nadkarni"
+    },
+    {
+      "literal": "Yue Xiao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        31
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.27140",
+  "genre": "preprint",
+  "version": "3"
+}

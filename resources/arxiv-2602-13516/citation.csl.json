@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2602.13516",
+  "citation-key": "arxiv_2602_13516",
+  "type": "article",
+  "title": "SPILLage: Agentic Oversharing on the Web",
+  "URL": "https://arxiv.org/abs/2602.13516v1",
+  "custom": {
+    "catalog_id": "arxiv:2602.13516",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2602.13516",
+    "identifiers": {
+      "arxiv": "2602.13516"
+    },
+    "first_published_at": "2026-02-13",
+    "record_updated_at": "2026-02-13",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "fb048b4e5d1d244d689957f30cdcb93cf4dbb750b24ae527b62ecfb04b554eb4",
+      "submitted_at": "2026-02-13T23:02:50Z",
+      "updated_at": "2026-02-13T23:02:50Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2602.13516v1"
+    }
+  },
+  "note": "First published: 2026-02-13; Recorded arXiv version: v1; Recorded version updated: 2026-02-13T23:02:50Z.",
+  "author": [
+    {
+      "literal": "Jaechul Roh"
+    },
+    {
+      "literal": "Eugene Bagdasarian"
+    },
+    {
+      "literal": "Hamed Haddadi"
+    },
+    {
+      "literal": "Ali Shahin Shamsabadi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2602.13516",
+  "genre": "preprint",
+  "version": "1"
+}

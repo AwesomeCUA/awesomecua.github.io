@@ -98,6 +98,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/sandbox/recor
   Sandbox environments supporting computer and browser interaction.
 - [AgentDesk](https://awesomecua.github.io/resources/github-agentsea-agentdesk/) — Date not recorded
   Desktop environments that AI agents control programmatically, run locally with Docker or remotely on Kubernetes, built on the agentd REST daemon and offering a coordinate-grid overlay for LMM input.
+- [AgentStudio](https://awesomecua.github.io/resources/github-skyworkai-agent-studio/) — Date not recorded
+  Toolkit and Ubuntu-based environment for building and evaluating generalist computer-use agents through GUI and API interaction.
 - [AndroidEnv](https://awesomecua.github.io/resources/github-google-deepmind-android-env/) — Date not recorded
   Android device-control platform with screenshots, accessibility telemetry, input actions, and an optional reinforcement-learning task interface.
 - [Browserbase Cloud](https://awesomecua.github.io/resources/url-978d1dcd70fde8661b9e/) — Date not recorded

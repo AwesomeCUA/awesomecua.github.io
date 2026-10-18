@@ -5098,6 +5098,82 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2604.24348v1",
+    "archive": "arXiv",
+    "archive_location": "2604.24348",
+    "author": [
+      {
+        "literal": "Zheng Wu"
+      },
+      {
+        "literal": "Yi Hua"
+      },
+      {
+        "literal": "Zhaoyuan Huang"
+      },
+      {
+        "literal": "Chenhao Xue"
+      },
+      {
+        "literal": "Yijie Lu"
+      },
+      {
+        "literal": "Pengzhou Cheng"
+      },
+      {
+        "literal": "Zongru Wu"
+      },
+      {
+        "literal": "Lingzhong Dong"
+      },
+      {
+        "literal": "Gongshen Liu"
+      },
+      {
+        "literal": "Xinghao Jiang"
+      },
+      {
+        "literal": "Zhuosheng Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2604_24348",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "772420683208561df8493c9ed5d68b341e9e098f5729945b972f3555e976d799",
+        "submitted_at": "2026-04-27T11:44:26Z",
+        "updated_at": "2026-04-27T11:44:26Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.24348v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.24348",
+      "catalog_id": "arxiv:2604.24348",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-27",
+      "identifiers": {
+        "arxiv": "2604.24348"
+      },
+      "record_updated_at": "2026-04-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.24348",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-27; Recorded arXiv version: v1; Recorded version updated: 2026-04-27T11:44:26Z.",
+    "title": "OS-SPEAR: A Toolkit for the Safety, Performance,Efficiency, and Robustness Analysis of OS Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2604.24964v1",
     "archive": "arXiv",
     "archive_location": "2604.24964",
@@ -5738,6 +5814,61 @@
     },
     "note": "First published: 2026-05-20; Recorded arXiv version: v2; Recorded version updated: 2026-05-29T17:54:05Z.",
     "title": "Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.24785v2",
+    "archive": "arXiv",
+    "archive_location": "2605.24785",
+    "author": [
+      {
+        "literal": "Yubo Li"
+      },
+      {
+        "literal": "Yidi Miao"
+      },
+      {
+        "literal": "Yuntian Shen"
+      },
+      {
+        "literal": "Yuxin Liu"
+      }
+    ],
+    "citation-key": "arxiv_2605_24785",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e64d36e920a33851aacf93138a2081d0470424dfec6a8fd11915928660824851",
+        "submitted_at": "2026-05-24T00:07:25Z",
+        "updated_at": "2026-05-26T04:25:32Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2605.24785v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.24785",
+      "catalog_id": "arxiv:2605.24785",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-24",
+      "identifiers": {
+        "arxiv": "2605.24785"
+      },
+      "record_updated_at": "2026-05-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.24785",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-24; Recorded arXiv version: v2; Recorded version updated: 2026-05-26T04:25:32Z.",
+    "title": "PANDO: Efficient Multimodal AI Agents via Online Skill Distillation",
     "type": "article",
     "version": "2"
   },

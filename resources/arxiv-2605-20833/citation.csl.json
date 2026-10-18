@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2605.20833",
+  "citation-key": "arxiv_2605_20833",
+  "type": "article",
+  "title": "MemGym: a Long-Horizon Memory Environment for LLM Agents",
+  "URL": "https://arxiv.org/abs/2605.20833v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.20833",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.20833",
+    "identifiers": {
+      "arxiv": "2605.20833"
+    },
+    "first_published_at": "2026-05-20",
+    "record_updated_at": "2026-05-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "89ee3bb59cd9293042d415b45ac4115f1931131a1f0ec443210c24614d9e337e",
+      "submitted_at": "2026-05-20T07:25:33Z",
+      "updated_at": "2026-05-20T07:25:33Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.20833v1"
+    }
+  },
+  "note": "First published: 2026-05-20; Recorded arXiv version: v1; Recorded version updated: 2026-05-20T07:25:33Z.",
+  "author": [
+    {
+      "literal": "Wujiang Xu"
+    },
+    {
+      "literal": "Yu Wang"
+    },
+    {
+      "literal": "Kai Mei"
+    },
+    {
+      "literal": "Kaiqu Liang"
+    },
+    {
+      "literal": "Zhenting Wang"
+    },
+    {
+      "literal": "Mingyu Jin"
+    },
+    {
+      "literal": "Han Zhang"
+    },
+    {
+      "literal": "Shi-Xiong Zhang"
+    },
+    {
+      "literal": "Wenyue Hua"
+    },
+    {
+      "literal": "Sambit Sahu"
+    },
+    {
+      "literal": "Dimitris N. Metaxas"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.20833",
+  "genre": "preprint",
+  "version": "1"
+}

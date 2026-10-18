@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2603.18762",
+  "citation-key": "arxiv_2603_18762",
+  "type": "article",
+  "title": "ClawTrap: A MITM-Based Red-Teaming Framework for Real-World OpenClaw Security Evaluation",
+  "URL": "https://arxiv.org/abs/2603.18762v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.18762",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2603.18762",
+    "identifiers": {
+      "arxiv": "2603.18762"
+    },
+    "first_published_at": "2026-03-19",
+    "record_updated_at": "2026-03-19",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0beb3fe342f080f0727181aba55fc1167d2512dd04542986448c5006b6b8213b",
+      "submitted_at": "2026-03-19T11:14:45Z",
+      "updated_at": "2026-03-19T11:14:45Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.18762v1"
+    }
+  },
+  "note": "First published: 2026-03-19; Recorded arXiv version: v1; Recorded version updated: 2026-03-19T11:14:45Z.",
+  "author": [
+    {
+      "literal": "Haochen Zhao"
+    },
+    {
+      "literal": "Shaoyang Cui"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.18762",
+  "genre": "preprint",
+  "version": "1"
+}

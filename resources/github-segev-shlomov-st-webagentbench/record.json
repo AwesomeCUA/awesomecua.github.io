@@ -1,0 +1,62 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T10:59:54Z",
+      "role": "primary",
+      "sha256": "e712feb15886d5a2aba1051d419dc69dc6e58c9a86a9d2d566090bbbf67492fc",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/segev-shlomov/ST-WebAgentBench/HEAD/README.md"
+    }
+  ],
+  "id": "github:segev-shlomov/st-webagentbench",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-18T10:59:54Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/segev-shlomov/ST-WebAgentBench"
+    }
+  ],
+  "name": "ST-WebAgentBench",
+  "notes": "",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/segev-shlomov/ST-WebAgentBench/HEAD/README.md",
+      "target_id": "arxiv:2410.06703",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "BrowserGym-based benchmark for evaluating the safety and policy compliance of enterprise web agents across six trustworthiness risk dimensions.",
+  "topics": [
+    "safety-security",
+    "evaluation",
+    "web-navigation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/segev-shlomov/ST-WebAgentBench"
+}

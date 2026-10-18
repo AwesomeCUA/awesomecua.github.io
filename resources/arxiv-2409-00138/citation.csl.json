@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2409.00138",
+  "citation-key": "arxiv_2409_00138",
+  "type": "article",
+  "title": "PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action",
+  "URL": "https://arxiv.org/abs/2409.00138v3",
+  "custom": {
+    "catalog_id": "arxiv:2409.00138",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2409.00138",
+    "identifiers": {
+      "arxiv": "2409.00138"
+    },
+    "first_published_at": "2024-08-29",
+    "record_updated_at": "2025-03-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d01fedde1aac1a0cf030291d3e152a586db8336dcb1a031e5786ca4af7a625fd",
+      "submitted_at": "2024-08-29T17:58:38Z",
+      "updated_at": "2025-03-14T06:03:20Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2409.00138v3"
+    }
+  },
+  "note": "First published: 2024-08-29; Recorded arXiv version: v3; Recorded version updated: 2025-03-14T06:03:20Z.",
+  "author": [
+    {
+      "literal": "Yijia Shao"
+    },
+    {
+      "literal": "Tianshi Li"
+    },
+    {
+      "literal": "Weiyan Shi"
+    },
+    {
+      "literal": "Yanchen Liu"
+    },
+    {
+      "literal": "Diyi Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2409.00138",
+  "genre": "preprint",
+  "version": "3"
+}

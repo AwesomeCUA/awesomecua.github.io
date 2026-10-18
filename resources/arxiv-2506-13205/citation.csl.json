@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2506.13205",
+  "citation-key": "arxiv_2506_13205",
+  "type": "article",
+  "title": "Poison Once, Control Anywhere: Clean-Text Visual Backdoors in VLM-based Mobile Agents",
+  "URL": "https://arxiv.org/abs/2506.13205v6",
+  "custom": {
+    "catalog_id": "arxiv:2506.13205",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2506.13205",
+    "identifiers": {
+      "arxiv": "2506.13205"
+    },
+    "first_published_at": "2025-06-16",
+    "record_updated_at": "2025-09-05",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "390304ce515886fa15fb8cd74d8b2df161a75b9adc0f4d2fad1f65976c6a6ce7",
+      "submitted_at": "2025-06-16T08:09:32Z",
+      "updated_at": "2025-09-05T14:19:03Z",
+      "version": 6,
+      "versioned_url": "https://arxiv.org/abs/2506.13205v6"
+    }
+  },
+  "note": "First published: 2025-06-16; Recorded arXiv version: v6; Recorded version updated: 2025-09-05T14:19:03Z.",
+  "author": [
+    {
+      "literal": "Xuan Wang"
+    },
+    {
+      "literal": "Siyuan Liang"
+    },
+    {
+      "literal": "Zhe Liu"
+    },
+    {
+      "literal": "Yi Yu"
+    },
+    {
+      "literal": "Aishan Liu"
+    },
+    {
+      "literal": "Yuliang Lu"
+    },
+    {
+      "literal": "Xitong Gao"
+    },
+    {
+      "literal": "Ee-Chien Chang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.13205",
+  "genre": "preprint",
+  "version": "6"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2504.14064",
+  "citation-key": "arxiv_2504_14064",
+  "type": "article",
+  "title": "DoomArena: A framework for Testing AI Agents Against Evolving Security Threats",
+  "URL": "https://arxiv.org/abs/2504.14064v3",
+  "custom": {
+    "catalog_id": "arxiv:2504.14064",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2504.14064",
+    "identifiers": {
+      "arxiv": "2504.14064"
+    },
+    "first_published_at": "2025-04-18",
+    "record_updated_at": "2025-10-07",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c5bdf5fefa1ee31126d99de08236991df559896212f60e0b3058fcd8cc8a134b",
+      "submitted_at": "2025-04-18T20:36:10Z",
+      "updated_at": "2025-10-07T13:10:30Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2504.14064v3"
+    }
+  },
+  "note": "First published: 2025-04-18; Recorded arXiv version: v3; Recorded version updated: 2025-10-07T13:10:30Z.",
+  "author": [
+    {
+      "literal": "Leo Boisvert"
+    },
+    {
+      "literal": "Mihir Bansal"
+    },
+    {
+      "literal": "Chandra Kiran Reddy Evuru"
+    },
+    {
+      "literal": "Gabriel Huang"
+    },
+    {
+      "literal": "Abhay Puri"
+    },
+    {
+      "literal": "Avinandan Bose"
+    },
+    {
+      "literal": "Maryam Fazel"
+    },
+    {
+      "literal": "Quentin Cappart"
+    },
+    {
+      "literal": "Jason Stanley"
+    },
+    {
+      "literal": "Alexandre Lacoste"
+    },
+    {
+      "literal": "Alexandre Drouin"
+    },
+    {
+      "literal": "Krishnamurthy Dvijotham"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2504.14064",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2305.17144",
+  "citation-key": "arxiv_2305_17144",
+  "type": "article",
+  "title": "Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory",
+  "URL": "https://arxiv.org/abs/2305.17144v2",
+  "custom": {
+    "catalog_id": "arxiv:2305.17144",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2305.17144",
+    "identifiers": {
+      "arxiv": "2305.17144"
+    },
+    "first_published_at": "2023-05-25",
+    "record_updated_at": "2023-06-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9e296992e6535846900a2651212d6d00e4db8427293d1dadad75ae6f4d7d47a0",
+      "submitted_at": "2023-05-25T17:59:49Z",
+      "updated_at": "2023-06-01T09:18:01Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2305.17144v2"
+    }
+  },
+  "note": "First published: 2023-05-25; Recorded arXiv version: v2; Recorded version updated: 2023-06-01T09:18:01Z.",
+  "author": [
+    {
+      "literal": "Xizhou Zhu"
+    },
+    {
+      "literal": "Yuntao Chen"
+    },
+    {
+      "literal": "Hao Tian"
+    },
+    {
+      "literal": "Chenxin Tao"
+    },
+    {
+      "literal": "Weijie Su"
+    },
+    {
+      "literal": "Chenyu Yang"
+    },
+    {
+      "literal": "Gao Huang"
+    },
+    {
+      "literal": "Bin Li"
+    },
+    {
+      "literal": "Lewei Lu"
+    },
+    {
+      "literal": "Xiaogang Wang"
+    },
+    {
+      "literal": "Yu Qiao"
+    },
+    {
+      "literal": "Zhaoxiang Zhang"
+    },
+    {
+      "literal": "Jifeng Dai"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2305.17144",
+  "genre": "preprint",
+  "version": "2"
+}

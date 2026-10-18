@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2604.16515",
+  "citation-key": "arxiv_2604_16515",
+  "type": "article",
+  "title": "Penny Wise, Pixel Foolish: Bypassing Price Constraints in Multimodal Agents via Visual Adversarial Perturbations",
+  "URL": "https://arxiv.org/abs/2604.16515v1",
+  "custom": {
+    "catalog_id": "arxiv:2604.16515",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2604.16515",
+    "identifiers": {
+      "arxiv": "2604.16515"
+    },
+    "first_published_at": "2026-04-15",
+    "record_updated_at": "2026-04-15",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "64e47028e752dd023e71414664a193beba74e1c4f1afe765fdf992d560dbea27",
+      "submitted_at": "2026-04-15T10:46:38Z",
+      "updated_at": "2026-04-15T10:46:38Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2604.16515v1"
+    }
+  },
+  "note": "First published: 2026-04-15; Recorded arXiv version: v1; Recorded version updated: 2026-04-15T10:46:38Z.",
+  "author": [
+    {
+      "literal": "Jiachen Qian"
+    },
+    {
+      "literal": "Zhaolu Kang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.16515",
+  "genre": "preprint",
+  "version": "1"
+}

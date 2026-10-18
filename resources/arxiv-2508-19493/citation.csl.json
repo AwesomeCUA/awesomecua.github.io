@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2508.19493",
+  "citation-key": "arxiv_2508_19493",
+  "type": "article",
+  "title": "Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents",
+  "URL": "https://arxiv.org/abs/2508.19493v2",
+  "custom": {
+    "catalog_id": "arxiv:2508.19493",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2508.19493",
+    "identifiers": {
+      "arxiv": "2508.19493"
+    },
+    "first_published_at": "2025-08-27",
+    "record_updated_at": "2025-09-03",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "815c8c1fa5993d2ef58798abd43a2b8945c476c27c777d30c1cbfacadd87af84",
+      "submitted_at": "2025-08-27T00:41:28Z",
+      "updated_at": "2025-09-03T07:48:34Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2508.19493v2"
+    }
+  },
+  "note": "First published: 2025-08-27; Recorded arXiv version: v2; Recorded version updated: 2025-09-03T07:48:34Z.",
+  "author": [
+    {
+      "literal": "Zhixin Lin"
+    },
+    {
+      "literal": "Jungang Li"
+    },
+    {
+      "literal": "Shidong Pan"
+    },
+    {
+      "literal": "Yibo Shi"
+    },
+    {
+      "literal": "Yue Yao"
+    },
+    {
+      "literal": "Dongliang Xu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.19493",
+  "genre": "preprint",
+  "version": "2"
+}

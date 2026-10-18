@@ -168,3 +168,5 @@ Full source records: https://awesomecua.github.io/downloads/topics/human-in-the-
   A browser-extension agent that reads pages, interacts with elements and moves between tabs from a side-panel task interface.
 - [OS-Kairos](https://awesomecua.github.io/resources/github-wuzheng02-os-kairos/) — Date not recorded
   Android GUI-agent research implementation that uses confidence-guided interaction to choose between autonomous actions and human assistance.
+- [VeriOS](https://awesomecua.github.io/resources/github-wuzheng02-verios/) — Date not recorded
+  Research code for proactive human–GUI-agent verification, including offline interaction-loop and dual-agent evaluation scripts plus LLaMA-Factory fine-tuning configurations.

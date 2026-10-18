@@ -1,0 +1,172 @@
+{
+  "id": "arxiv:2510.14276",
+  "citation-key": "arxiv_2510_14276",
+  "type": "article",
+  "title": "Qwen3Guard Technical Report",
+  "URL": "https://arxiv.org/abs/2510.14276v1",
+  "custom": {
+    "catalog_id": "arxiv:2510.14276",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.14276",
+    "identifiers": {
+      "arxiv": "2510.14276"
+    },
+    "first_published_at": "2025-10-16",
+    "record_updated_at": "2025-10-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "43a973ff47a0b656b23e227d4aa70fa4328b00a4d9f74fbdc682307924fe4bc3",
+      "submitted_at": "2025-10-16T04:00:18Z",
+      "updated_at": "2025-10-16T04:00:18Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2510.14276v1"
+    }
+  },
+  "note": "First published: 2025-10-16; Recorded arXiv version: v1; Recorded version updated: 2025-10-16T04:00:18Z.",
+  "author": [
+    {
+      "literal": "Haiquan Zhao"
+    },
+    {
+      "literal": "Chenhan Yuan"
+    },
+    {
+      "literal": "Fei Huang"
+    },
+    {
+      "literal": "Xiaomeng Hu"
+    },
+    {
+      "literal": "Yichang Zhang"
+    },
+    {
+      "literal": "An Yang"
+    },
+    {
+      "literal": "Bowen Yu"
+    },
+    {
+      "literal": "Dayiheng Liu"
+    },
+    {
+      "literal": "Jingren Zhou"
+    },
+    {
+      "literal": "Junyang Lin"
+    },
+    {
+      "literal": "Baosong Yang"
+    },
+    {
+      "literal": "Chen Cheng"
+    },
+    {
+      "literal": "Jialong Tang"
+    },
+    {
+      "literal": "Jiandong Jiang"
+    },
+    {
+      "literal": "Jianwei Zhang"
+    },
+    {
+      "literal": "Jijie Xu"
+    },
+    {
+      "literal": "Ming Yan"
+    },
+    {
+      "literal": "Minmin Sun"
+    },
+    {
+      "literal": "Pei Zhang"
+    },
+    {
+      "literal": "Pengjun Xie"
+    },
+    {
+      "literal": "Qiaoyu Tang"
+    },
+    {
+      "literal": "Qin Zhu"
+    },
+    {
+      "literal": "Rong Zhang"
+    },
+    {
+      "literal": "Shibin Wu"
+    },
+    {
+      "literal": "Shuo Zhang"
+    },
+    {
+      "literal": "Tao He"
+    },
+    {
+      "literal": "Tianyi Tang"
+    },
+    {
+      "literal": "Tingyu Xia"
+    },
+    {
+      "literal": "Wei Liao"
+    },
+    {
+      "literal": "Weizhou Shen"
+    },
+    {
+      "literal": "Wenbiao Yin"
+    },
+    {
+      "literal": "Wenmeng Zhou"
+    },
+    {
+      "literal": "Wenyuan Yu"
+    },
+    {
+      "literal": "Xiaobin Wang"
+    },
+    {
+      "literal": "Xiaodong Deng"
+    },
+    {
+      "literal": "Xiaodong Xu"
+    },
+    {
+      "literal": "Xinyu Zhang"
+    },
+    {
+      "literal": "Yang Liu"
+    },
+    {
+      "literal": "Yeqiu Li"
+    },
+    {
+      "literal": "Yi Zhang"
+    },
+    {
+      "literal": "Yong Jiang"
+    },
+    {
+      "literal": "Yu Wan"
+    },
+    {
+      "literal": "Yuxin Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.14276",
+  "genre": "preprint",
+  "version": "1"
+}

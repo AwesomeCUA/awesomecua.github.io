@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2305.10847",
+  "citation-key": "arxiv_2305_10847",
+  "type": "article",
+  "title": "Large Language Models can be Guided to Evade AI-Generated Text Detection",
+  "URL": "https://arxiv.org/abs/2305.10847v6",
+  "custom": {
+    "catalog_id": "arxiv:2305.10847",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2305.10847",
+    "identifiers": {
+      "arxiv": "2305.10847"
+    },
+    "first_published_at": "2023-05-18",
+    "record_updated_at": "2024-05-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f03e6fd3f0ac728fe86ff0eaf36e849c389dba4a071d11a6d204709a647f6cc0",
+      "submitted_at": "2023-05-18T10:03:25Z",
+      "updated_at": "2024-05-15T08:00:09Z",
+      "version": 6,
+      "versioned_url": "https://arxiv.org/abs/2305.10847v6"
+    }
+  },
+  "note": "First published: 2023-05-18; Recorded arXiv version: v6; Recorded version updated: 2024-05-15T08:00:09Z.",
+  "author": [
+    {
+      "literal": "Ning Lu"
+    },
+    {
+      "literal": "Shengcai Liu"
+    },
+    {
+      "literal": "Rui He"
+    },
+    {
+      "literal": "Qi Wang"
+    },
+    {
+      "literal": "Yew-Soon Ong"
+    },
+    {
+      "literal": "Ke Tang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        5,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2305.10847",
+  "genre": "preprint",
+  "version": "6"
+}

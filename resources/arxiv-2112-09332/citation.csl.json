@@ -1,0 +1,97 @@
+{
+  "id": "arxiv:2112.09332",
+  "citation-key": "arxiv_2112_09332",
+  "type": "article",
+  "title": "WebGPT: Browser-assisted question-answering with human feedback",
+  "URL": "https://arxiv.org/abs/2112.09332v3",
+  "custom": {
+    "catalog_id": "arxiv:2112.09332",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2112.09332",
+    "identifiers": {
+      "arxiv": "2112.09332"
+    },
+    "first_published_at": "2021-12-17",
+    "record_updated_at": "2022-06-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8a9122bd2c771071f93250e9e330b1f923f1e50c0d829cc3144be43c6b575195",
+      "submitted_at": "2021-12-17T05:43:43Z",
+      "updated_at": "2022-06-01T19:08:11Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2112.09332v3"
+    }
+  },
+  "note": "First published: 2021-12-17; Recorded arXiv version: v3; Recorded version updated: 2022-06-01T19:08:11Z.",
+  "author": [
+    {
+      "literal": "Reiichiro Nakano"
+    },
+    {
+      "literal": "Jacob Hilton"
+    },
+    {
+      "literal": "Suchir Balaji"
+    },
+    {
+      "literal": "Jeff Wu"
+    },
+    {
+      "literal": "Long Ouyang"
+    },
+    {
+      "literal": "Christina Kim"
+    },
+    {
+      "literal": "Christopher Hesse"
+    },
+    {
+      "literal": "Shantanu Jain"
+    },
+    {
+      "literal": "Vineet Kosaraju"
+    },
+    {
+      "literal": "William Saunders"
+    },
+    {
+      "literal": "Xu Jiang"
+    },
+    {
+      "literal": "Karl Cobbe"
+    },
+    {
+      "literal": "Tyna Eloundou"
+    },
+    {
+      "literal": "Gretchen Krueger"
+    },
+    {
+      "literal": "Kevin Button"
+    },
+    {
+      "literal": "Matthew Knight"
+    },
+    {
+      "literal": "Benjamin Chess"
+    },
+    {
+      "literal": "John Schulman"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        12,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2112.09332",
+  "genre": "preprint",
+  "version": "3"
+}

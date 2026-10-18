@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2401.12242",
+  "citation-key": "arxiv_2401_12242",
+  "type": "article",
+  "title": "BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models",
+  "URL": "https://arxiv.org/abs/2401.12242v1",
+  "custom": {
+    "catalog_id": "arxiv:2401.12242",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2401.12242",
+    "identifiers": {
+      "arxiv": "2401.12242"
+    },
+    "first_published_at": "2024-01-20",
+    "record_updated_at": "2024-01-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2294dcef3c75e7af37fbac6edfe91cf95bd2a61dd3bdb3f04e183406d6294bf5",
+      "submitted_at": "2024-01-20T04:53:35Z",
+      "updated_at": "2024-01-20T04:53:35Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2401.12242v1"
+    }
+  },
+  "note": "First published: 2024-01-20; Recorded arXiv version: v1; Recorded version updated: 2024-01-20T04:53:35Z.",
+  "author": [
+    {
+      "literal": "Zhen Xiang"
+    },
+    {
+      "literal": "Fengqing Jiang"
+    },
+    {
+      "literal": "Zidi Xiong"
+    },
+    {
+      "literal": "Bhaskar Ramasubramanian"
+    },
+    {
+      "literal": "Radha Poovendran"
+    },
+    {
+      "literal": "Bo Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        1,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2401.12242",
+  "genre": "preprint",
+  "version": "1"
+}

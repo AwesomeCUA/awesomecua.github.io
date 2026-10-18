@@ -15,7 +15,7 @@
       ],
       "evidence_urls": [
         "https://dataverse.harvard.edu/api/datasets/:persistentId/?persistentId=doi:10.7910/DVN/WX8PCK",
-        "https://raw.githubusercontent.com/UDGOK/videocad/HEAD/README.md"
+        "https://raw.githubusercontent.com/ghadinehme/VideoCAD/2d69eeaf0ac44210c76dcab2d08b4d4610be236c/README.md"
       ],
       "formats": [
         "ZIP",
@@ -28,7 +28,7 @@
         "UI action logs",
         "target CAD images"
       ],
-      "notes": "The reported video total is distinct from the Dataverse package-file count. The source does not specify OS compatibility.",
+      "notes": "The reported video total is distinct from the Dataverse package-file count. The exact-version paper identifies the recorded interface as browser-based Onshape; operating-system compatibility is not established.",
       "splits": [],
       "supervision": [
         "timestamped UI actions",
@@ -56,7 +56,7 @@
     }
   },
   "environments": [
-    "unspecified"
+    "web"
   ],
   "evidence": [
     {
@@ -78,15 +78,26 @@
     },
     {
       "method": "editorial_primary_review",
-      "retrieved_at": "2026-10-17T02:02:45Z",
+      "retrieved_at": "2026-10-18T12:02:53.536297+00:00",
       "role": "primary",
-      "sha256": "6c182da7783e740539ce49d91794d299f2ca477a5b0d946bce48649b8fa2e49c",
+      "sha256": "cbb08803922b4b7736979ca0a5fe552b111fcd428fa9317401bc090b14bb4e54",
       "supports": [
         "summary",
         "relations",
         "details.dataset_profile"
       ],
-      "url": "https://raw.githubusercontent.com/UDGOK/videocad/HEAD/README.md"
+      "url": "https://raw.githubusercontent.com/ghadinehme/VideoCAD/2d69eeaf0ac44210c76dcab2d08b4d4610be236c/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T12:02:34.311949+00:00",
+      "role": "primary",
+      "sha256": "a303d95a811331cd6ee23b0340f1b9ef2dd996835bfbc66656a871ff94eead50",
+      "supports": [
+        "environments",
+        "notes"
+      ],
+      "url": "https://arxiv.org/html/2505.24838v2"
     },
     {
       "method": "dataverse_api",
@@ -122,11 +133,11 @@
     }
   ],
   "name": "VideoCAD data",
-  "notes": "Dataverse reports a RELEASED version 5.0 with 261 unrestricted files and a CC0-1.0 dataset declaration. Archive count is not a video or trajectory count. The linked repository documents the action and video formats. No archives or training samples were downloaded; operating-system coverage is unspecified.",
+  "notes": "Dataverse reports a RELEASED version 5.0 with 261 unrestricted files and a CC0-1.0 dataset declaration. Archive count is not a video or trajectory count. The author repository documents the action and video formats, and Section 3 of the v2 paper identifies the recorded Onshape browser interface. No archives or training samples were downloaded; operating-system coverage is unspecified.",
   "published_at": null,
   "relations": [
     {
-      "evidence_url": "https://raw.githubusercontent.com/UDGOK/videocad/HEAD/README.md",
+      "evidence_url": "https://raw.githubusercontent.com/ghadinehme/VideoCAD/2d69eeaf0ac44210c76dcab2d08b4d4610be236c/README.md",
       "target_id": "arxiv:2505.24838",
       "type": "documented_by"
     }
