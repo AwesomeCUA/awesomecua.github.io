@@ -53,12 +53,7 @@
       "version_minor_number": 0,
       "version_number": 5,
       "version_state": "RELEASED"
-    },
-    "download_url": null,
-    "languages": [],
-    "modalities": [],
-    "sample_count": null,
-    "sample_unit": null
+    }
   },
   "environments": [
     "unspecified"

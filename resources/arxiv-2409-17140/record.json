@@ -20,6 +20,42 @@
       "updated_at": "2025-05-19T16:12:40Z",
       "version": 2,
       "versioned_url": "https://arxiv.org/abs/2409.17140v2"
+    },
+    "publication": {
+      "authors": [
+        "Junting Lu",
+        "Zhiyang Zhang",
+        "Fangkai Yang",
+        "Jue Zhang",
+        "Lu Wang",
+        "Chao Du",
+        "Qingwei Lin",
+        "Saravan Rajmohan",
+        "Dongmei Zhang",
+        "Qi Zhang"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        7
+      ],
+      "doi": "10.18653/v1/2025.acl-long.381",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.acl-long.381/"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+      "pages": "7711-7743",
+      "pdf_url": "https://aclanthology.org/2025.acl-long.381.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "AXIS: Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.acl-long.381/",
+      "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "volume": null
     }
   },
   "environments": [
@@ -40,6 +76,28 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:09:52Z",
+      "role": "primary",
+      "sha256": "31ab26306d5c41b25731db1ad7f73495330e637c1694c9da644f4e238a73917b",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.doi",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.pdf_url",
+        "details.publication.publisher",
+        "details.publication.title",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue"
+      ],
+      "url": "https://aclanthology.org/2025.acl-long.381/"
     },
     {
       "method": "editorial_primary_review",
@@ -74,6 +132,14 @@
     {
       "rel": "primary",
       "url": "https://arxiv.org/abs/2409.17140"
+    },
+    {
+      "rel": "publication",
+      "url": "https://aclanthology.org/2025.acl-long.381/"
+    },
+    {
+      "rel": "publication_pdf",
+      "url": "https://aclanthology.org/2025.acl-long.381.pdf"
     }
   ],
   "name": "AXIS: Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents",

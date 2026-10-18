@@ -1,5 +1,5 @@
 {
-  "relation_count": 366,
+  "relation_count": 398,
   "semantics": "Reviewed semantic links only. Documentation does not establish training or evaluation dependency.",
   "relations": [
     {
@@ -17,6 +17,46 @@
       "evidence_url": "https://raw.githubusercontent.com/google-research/google-research/master/android_in_the_wild/README.md",
       "target_id": "arxiv:2307.10088",
       "type": "introduced_by"
+    },
+    {
+      "source_id": "component:tencent/selfevolvingagent/webevolver",
+      "source_name": "WebEvolver code component",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/Tencent/SelfEvolvingAgent/HEAD/WebEvolver/README.md",
+      "target_id": "arxiv:2504.21024",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "component:x-plug/mobileagent/mobile-agent-e",
+      "source_name": "Mobile-Agent-E code component",
+      "source_kind": "agent",
+      "evidence_url": "https://api.github.com/repos/X-PLUG/MobileAgent/git/trees/main?recursive=1",
+      "target_id": "github:x-plug/mobileagent",
+      "type": "component_of"
+    },
+    {
+      "source_id": "component:x-plug/mobileagent/mobile-agent-e",
+      "source_name": "Mobile-Agent-E code component",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/Mobile-Agent-E/README.md",
+      "target_id": "arxiv:2501.11733",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "component:x-plug/mobileagent/pc-agent",
+      "source_name": "PC-Agent (X-PLUG component)",
+      "source_kind": "agent",
+      "evidence_url": "https://api.github.com/repos/X-PLUG/MobileAgent/git/trees/main?recursive=1",
+      "target_id": "github:x-plug/mobileagent",
+      "type": "component_of"
+    },
+    {
+      "source_id": "component:x-plug/mobileagent/pc-agent",
+      "source_name": "PC-Agent (X-PLUG component)",
+      "source_kind": "agent",
+      "evidence_url": "https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/PC-Agent/README.md",
+      "target_id": "arxiv:2502.14282",
+      "type": "documented_by"
     },
     {
       "source_id": "component:xlang-ai/openagents/web_agent",
@@ -203,11 +243,27 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:caap-agent/caap-agent",
+      "source_name": "CAAP Agent",
+      "source_kind": "agent",
+      "evidence_url": "https://export.arxiv.org/api/query?id_list=2403.03186%2C2403.03788%2C2403.07718%2C2403.10170%2C2403.11905%2C2403.16971%2C2403.17918%2C2403.20271%2C2404.01549%2C2404.01744%2C2404.02475%2C2404.03648%2C2404.05427%2C2404.05719%2C2404.05955%2C2404.06474%2C2404.07972%2C2404.08755%2C2404.08860%2C2404.08948%2C2404.09992%2C2404.10887%2C2404.11459%2C2404.16006%2C2404.16048%2C2404.16054%2C2404.16660%2C2404.18074%2C2404.19296%2C2405.00516%2C2405.11120%2C2405.12842%2C2405.14573%2C2405.14751%2C2405.15793%2C2405.16247%2C2405.20309%2C2406.01014%2C2406.01623%2C2406.03679%2C2406.06947%2C2406.07822%2C2406.08184%2C2406.08340%2C2406.08451%2C2406.10227%2C2406.10819%2C2406.11317%2C2406.11896%2C2406.12373&max_results=50",
+      "target_id": "arxiv:2406.06947",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:camel-ai/crab",
       "source_name": "CRAB",
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/camel-ai/crab/HEAD/README.md",
       "target_id": "arxiv:2407.01511",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:chenwu98/agent-attack",
+      "source_name": "Adversarial Web Agents",
+      "source_kind": "benchmark",
+      "evidence_url": "https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50",
+      "target_id": "arxiv:2406.12814",
       "type": "documented_by"
     },
     {
@@ -315,6 +371,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:facebookresearch/openapps",
+      "source_name": "OpenApps",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/facebookresearch/OpenApps/HEAD/README.md",
+      "target_id": "arxiv:2511.20766",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:fanbinlu/steve-r1",
       "source_name": "STEVE / STEVE-R1 research code",
       "source_kind": "framework",
@@ -352,6 +416,30 @@
       "source_kind": "agent",
       "evidence_url": "https://raw.githubusercontent.com/GAIR-NLP/PC-Agent/HEAD/README.md",
       "target_id": "arxiv:2412.17589",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:gair-nlp/pc-agent-e",
+      "source_name": "PC-Agent-E training and deployment",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/GAIR-NLP/PC-Agent-E/HEAD/README.md",
+      "target_id": "arxiv:2505.13909",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:gair-nlp/windowsagentarena-v2",
+      "source_name": "WindowsAgentArena-V2",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/GAIR-NLP/WindowsAgentArena-V2/HEAD/README.md",
+      "target_id": "arxiv:2505.13909",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:garyyang12345/gui-harvest",
+      "source_name": "GUI-HARVEST",
+      "source_kind": "framework",
+      "evidence_url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending",
+      "target_id": "arxiv:2610.00948",
       "type": "documented_by"
     },
     {
@@ -496,6 +584,22 @@
       "source_kind": "framework",
       "evidence_url": "https://raw.githubusercontent.com/jcwang0602/Seg2Click/HEAD/README.md",
       "target_id": "arxiv:2610.16234",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:jetastra/macagentbench",
+      "source_name": "MacAgentBench",
+      "source_kind": "benchmark",
+      "evidence_url": "https://export.arxiv.org/api/query?id_list=2605.06761%2C2605.07110%2C2605.07134%2C2605.09497%2C2605.11212%2C2605.12481%2C2605.12501%2C2605.12549%2C2605.13631%2C2605.14290%2C2605.14747%2C2605.15030%2C2605.15542%2C2605.15777%2C2605.16024%2C2605.16116%2C2605.16402%2C2605.17320%2C2605.18048%2C2605.18652%2C2605.18758%2C2605.19260%2C2605.19769%2C2605.21470%2C2605.25160%2C2605.25624%2C2605.25707%2C2605.26114%2C2605.27761%2C2605.28116%2C2605.28534%2C2605.28646%2C2605.28775%2C2605.29119%2C2605.29324%2C2605.29447%2C2605.29486%2C2605.29534%2C2605.29615%2C2606.06322%2C2606.09426%2C2606.11042%2C2606.22557%2C2606.23189%2C2606.24551%2C2608.17659%2C2609.22000%2C2609.34139&max_results=48",
+      "target_id": "arxiv:2606.22557",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:jia-lab-research/arpo",
+      "source_name": "ARPO training framework",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/JIA-Lab-research/ARPO/HEAD/README.md",
+      "target_id": "arxiv:2505.16282",
       "type": "documented_by"
     },
     {
@@ -659,6 +763,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:microsoft/precision-cua-bench",
+      "source_name": "Precision CUA Bench",
+      "source_kind": "benchmark",
+      "evidence_url": "https://export.arxiv.org/api/query?id_list=2603.12823%2C2603.14707%2C2603.15039%2C2603.17357%2C2603.18429%2C2603.19191%2C2603.24440%2C2603.25226%2C2603.25864%2C2603.26211%2C2603.26648%2C2603.29318%2C2604.01535%2C2604.02947%2C2604.04399%2C2604.05477%2C2604.06126%2C2604.06182%2C2604.06367%2C2604.07429%2C2604.08455%2C2604.08516%2C2604.08523%2C2604.09155%2C2604.09574%2C2604.09587%2C2604.09815%2C2604.09937%2C2604.11259%2C2604.11784%2C2604.12284%2C2604.13019%2C2604.13822%2C2604.14113%2C2604.14262%2C2604.14956%2C2604.15093%2C2604.15309%2C2604.17817%2C2604.17821%2C2604.18860%2C2604.24964%2C2604.25380%2C2604.25562%2C2604.27151%2C2604.27253%2C2604.27776%2C2605.00642%2C2605.06393%2C2605.06664&max_results=50",
+      "target_id": "arxiv:2604.13019",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:microsoft/som",
       "source_name": "Set of Mark",
       "source_kind": "tool",
@@ -699,11 +811,27 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:mobilellm/agentprog",
+      "source_name": "AgentProg",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/MobileLLM/AgentProg/HEAD/README.md",
+      "target_id": "arxiv:2512.10371",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:mobilellm/autodroid",
       "source_name": "AutoDroid",
       "source_kind": "agent",
       "evidence_url": "https://raw.githubusercontent.com/MobileLLM/AutoDroid/HEAD/README.md",
       "target_id": "arxiv:2308.15272",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:mobilellm/autodroid-v2",
+      "source_name": "AutoDroid V2",
+      "source_kind": "agent",
+      "evidence_url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending",
+      "target_id": "arxiv:2412.18116",
       "type": "documented_by"
     },
     {
@@ -971,6 +1099,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:saagent/mcpworld",
+      "source_name": "MCPWorld",
+      "source_kind": "benchmark",
+      "evidence_url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=600&max_results=100&sortBy=submittedDate&sortOrder=descending",
+      "target_id": "arxiv:2506.07672",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:servicenow/agentlab",
       "source_name": "AgentLab",
       "source_kind": "framework",
@@ -1000,6 +1136,14 @@
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/ServiceNow/WorkArena/HEAD/README.md",
       "target_id": "arxiv:2407.05291",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:showlab/computer_use_ootb",
+      "source_name": "Computer Use OOTB",
+      "source_kind": "framework",
+      "evidence_url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending",
+      "target_id": "arxiv:2411.10323",
       "type": "documented_by"
     },
     {
@@ -1107,6 +1251,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:sqzhang-lazy/d-pot",
+      "source_name": "D-PoT evaluation code",
+      "source_kind": "framework",
+      "evidence_url": "https://export.arxiv.org/api/query?id_list=2410.00467%2C2410.00689%2C2410.02810%2C2410.02907%2C2410.05243%2C2410.06703%2C2410.08164%2C2410.09006%2C2410.09024%2C2410.11843%2C2410.11871%2C2410.11872%2C2410.13232%2C2410.13757%2C2410.13824%2C2410.13825%2C2410.13886%2C2410.14803%2C2410.15164%2C2410.16464%2C2410.17236%2C2410.17401%2C2410.17520%2C2410.17883%2C2410.18603%2C2410.18963%2C2410.18967%2C2410.19054%2C2410.19100%2C2410.19461%2C2410.19609%2C2410.20745%2C2410.22552%2C2410.23218%2C2410.24024%2C2411.00820%2C2411.02337%2C2411.02391%2C2411.04468%2C2411.04890%2C2411.06559%2C2411.07618%2C2411.10323%2C2411.13451%2C2411.13591%2C2411.15004%2C2411.17465%2C2411.18279%2C2412.00402%2C2412.01268&max_results=50",
+      "target_id": "arxiv:2410.00467",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:stanfordnlp/wge",
       "source_name": "Workflow-Guided Exploration research code",
       "source_kind": "framework",
@@ -1128,6 +1280,14 @@
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/stonybrooknlp/appworld/HEAD/README.md",
       "target_id": "arxiv:2407.18901",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:sunblaze-ucb/agentsynth",
+      "source_name": "AgentSynth task-generation pipeline",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/sunblaze-ucb/AgentSynth/HEAD/README.md",
+      "target_id": "arxiv:2506.14205",
       "type": "documented_by"
     },
     {
@@ -1539,6 +1699,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "github:yuxiangchai/amex-codebase",
+      "source_name": "AMEX",
+      "source_kind": "dataset",
+      "evidence_url": "https://yxchai.com/AMEX/",
+      "target_id": "arxiv:2407.17490",
+      "type": "documented_by"
+    },
+    {
       "source_id": "github:zju-real/clawgui",
       "source_name": "ClawGUI",
       "source_kind": "framework",
@@ -1667,6 +1835,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:04aa7569d183379d615c",
+      "source_name": "PC-Agent-E checkpoint",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/henryhe0123/PC-Agent-E/raw/568ab45861d5dab041e158d47211c6f53ba343f2/README.md",
+      "target_id": "arxiv:2505.13909",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:053ebfe0afac66c86222",
       "source_name": "Hyperbrowser",
       "source_kind": "product",
@@ -1752,6 +1928,14 @@
       "source_kind": "dataset",
       "evidence_url": "https://huggingface.co/api/datasets/OS-Copilot/OS-Atlas-data",
       "target_id": "arxiv:2410.23218",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:14449fe321e0a1ca34ea",
+      "source_name": "PC-Agent-E training data",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/GAIR-NLP/PC-Agent-E/HEAD/README.md",
+      "target_id": "arxiv:2505.13909",
       "type": "documented_by"
     },
     {
@@ -1915,6 +2099,14 @@
       "type": "variant_of"
     },
     {
+      "source_id": "url:342b081c3668a8bbe155",
+      "source_name": "Mobile-Eval-E task definitions",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/X-PLUG/MobileAgent/HEAD/Mobile-Agent-E/README.md",
+      "target_id": "arxiv:2501.11733",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:35b9879a351cc3b3d7d5",
       "source_name": "InfiGUI-R1 3B",
       "source_kind": "model",
@@ -2073,6 +2265,14 @@
       "evidence_url": "https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/computer-use-tool",
       "target_id": "organization:anthropic",
       "type": "published_by"
+    },
+    {
+      "source_id": "url:58a209f2b3b970916396",
+      "source_name": "AgentSynth tasks and trajectories",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/sunblaze-ucb/AgentSynth/raw/9ec3f3139f9786e81aee14b7fff1eb487cc7e991/README.md",
+      "target_id": "arxiv:2506.14205",
+      "type": "documented_by"
     },
     {
       "source_id": "url:5d61c1b5fc8dd650518d",
@@ -2507,6 +2707,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:bc3deaf8eeecf569e73b",
+      "source_name": "Code2World-8B checkpoint",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/GD-ML/Code2World/raw/3e48194a8228570164ecd510f9d83ac839e9e931/README.md",
+      "target_id": "arxiv:2602.09856",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:bdfb50330deb97893ce4",
       "source_name": "MT-Mind2Web",
       "source_kind": "dataset",
@@ -2574,9 +2782,25 @@
       "source_id": "url:c79e152e6f7af1a9efed",
       "source_name": "ScreenSpot-Pro data",
       "source_kind": "dataset",
+      "evidence_url": "https://gui-agent.github.io/grounding-leaderboard/",
+      "target_id": "arxiv:2504.07981",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:c79e152e6f7af1a9efed",
+      "source_name": "ScreenSpot-Pro data",
+      "source_kind": "dataset",
       "evidence_url": "https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md",
       "target_id": "github:likaixin2000/screenspot-pro-gui-grounding",
       "type": "component_of"
+    },
+    {
+      "source_id": "url:c8c046847f829fea4821",
+      "source_name": "ZonUI-3B checkpoint",
+      "source_kind": "model",
+      "evidence_url": "https://huggingface.co/zonghanHZH/ZonUI-3B/raw/07212ea7724a69400422571e0f6e053212e66fe6/README.md",
+      "target_id": "arxiv:2506.23491",
+      "type": "documented_by"
     },
     {
       "source_id": "url:c918d5c828a3c6cfbc5d",
@@ -2609,6 +2833,14 @@
       "evidence_url": "https://huggingface.co/api/models/microsoft/Phi-Ground",
       "target_id": "github:microsoft/phi-ground",
       "type": "variant_of"
+    },
+    {
+      "source_id": "url:cf4d2d45a7314cb16acb",
+      "source_name": "AndroidCode",
+      "source_kind": "dataset",
+      "evidence_url": "https://raw.githubusercontent.com/AMAP-ML/Code2World/HEAD/readme.md",
+      "target_id": "arxiv:2602.09856",
+      "type": "documented_by"
     },
     {
       "source_id": "url:cfea8a0949472a637990",
@@ -2755,6 +2987,14 @@
       "type": "documented_by"
     },
     {
+      "source_id": "url:db6fc5f29f186d13991c",
+      "source_name": "ARPO UI-TARS-1.5-7B checkpoint",
+      "source_kind": "model",
+      "evidence_url": "https://raw.githubusercontent.com/JIA-Lab-research/ARPO/HEAD/README.md",
+      "target_id": "arxiv:2505.16282",
+      "type": "documented_by"
+    },
+    {
       "source_id": "url:de31b07ff24ab15d9bdf",
       "source_name": "GroundGUI-8B",
       "source_kind": "model",
@@ -2792,6 +3032,22 @@
       "source_kind": "dataset",
       "evidence_url": "https://huggingface.co/api/datasets/xlangai/Jedi",
       "target_id": "arxiv:2505.13227",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:e0ba328ae1a643b0a5aa",
+      "source_name": "WebSRC v1.0",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md",
+      "target_id": "arxiv:2101.09465",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "url:e126bbd9729ebdaf05ab",
+      "source_name": "WebEvolver SFT data",
+      "source_kind": "dataset",
+      "evidence_url": "https://huggingface.co/datasets/CognitiveKernel/WebEvolver/raw/13f4f45b359e138a45b1c89bd4e913298c586ca9/README.md",
+      "target_id": "arxiv:2504.21024",
       "type": "documented_by"
     },
     {

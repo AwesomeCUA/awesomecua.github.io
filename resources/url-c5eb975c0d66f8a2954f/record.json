@@ -1,5 +1,9 @@
 {
-  "aliases": [],
+  "aliases": [
+    "url:4a309ef39b33a7d1e543",
+    "THUDM/cogagent-9b-20241220",
+    "https://huggingface.co/THUDM/cogagent-9b-20241220"
+  ],
   "authors": [],
   "details": {
     "disabled": false,
@@ -73,6 +77,26 @@
         "licenses.weights"
       ],
       "url": "https://huggingface.co/zai-org/cogagent-9b-20241220/raw/main/README.md"
+    },
+    {
+      "method": "huggingface_repository_identity",
+      "retrieved_at": "2026-10-17T19:15:13Z",
+      "role": "primary",
+      "sha256": "35bbe72f95711e042dab7a94bf2711e30a3da50190c7315178c37de5725cc1d9",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://huggingface.co/api/models/THUDM/cogagent-9b-20241220"
+    },
+    {
+      "method": "huggingface_repository_identity",
+      "retrieved_at": "2026-10-17T19:15:14Z",
+      "role": "primary",
+      "sha256": "35bbe72f95711e042dab7a94bf2711e30a3da50190c7315178c37de5725cc1d9",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://huggingface.co/api/models/zai-org/cogagent-9b-20241220"
     }
   ],
   "id": "url:c5eb975c0d66f8a2954f",

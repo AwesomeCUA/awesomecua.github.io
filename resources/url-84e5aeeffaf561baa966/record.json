@@ -23,11 +23,7 @@
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-RM-517k/tree/main",
     "gated": false,
-    "hub_id": "HanXiao1999/UI-Genie-RM-517k",
-    "languages": [],
-    "modalities": [],
-    "sample_count": null,
-    "sample_unit": null
+    "hub_id": "HanXiao1999/UI-Genie-RM-517k"
   },
   "environments": [
     "android"

@@ -808,6 +808,67 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2603.26266v3",
+    "archive": "arXiv",
+    "archive_location": "2603.26266",
+    "author": [
+      {
+        "literal": "Rui Xie"
+      },
+      {
+        "literal": "Zhi Gao"
+      },
+      {
+        "literal": "Chenrui Shi"
+      },
+      {
+        "literal": "Zirui Shang"
+      },
+      {
+        "literal": "Lu Chen"
+      },
+      {
+        "literal": "Qing Li"
+      }
+    ],
+    "citation-key": "arxiv_2603_26266",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b388086aeb8ac47e386099e5cd68cb89bb03978ee7d5897950181035d0abb723",
+        "submitted_at": "2026-03-27T10:33:08Z",
+        "updated_at": "2026-06-30T04:47:42Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2603.26266v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.26266",
+      "catalog_id": "arxiv:2603.26266",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-27",
+      "identifiers": {
+        "arxiv": "2603.26266"
+      },
+      "record_updated_at": "2026-06-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.26266",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-27; Recorded arXiv version: v3; Recorded version updated: 2026-06-30T04:47:42Z.",
+    "title": "GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2604.00886v1",
     "archive": "arXiv",
     "archive_location": "2604.00886",
@@ -1186,6 +1247,58 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2606.10423v1",
+    "archive": "arXiv",
+    "archive_location": "2606.10423",
+    "author": [
+      {
+        "literal": "Jayoo Hwang"
+      },
+      {
+        "literal": "Xiaowen Zhang"
+      },
+      {
+        "literal": "Vedant Padwal"
+      }
+    ],
+    "citation-key": "arxiv_2606_10423",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "386bd82be97d5cbe64fdb3478e427362e710d78d423c9e52661a8a96ea2fdecf",
+        "submitted_at": "2026-06-09T04:53:19Z",
+        "updated_at": "2026-06-09T04:53:19Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.10423v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.10423",
+      "catalog_id": "arxiv:2606.10423",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-09",
+      "identifiers": {
+        "arxiv": "2606.10423"
+      },
+      "record_updated_at": "2026-06-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.10423",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-09; Recorded arXiv version: v1; Recorded version updated: 2026-06-09T04:53:19Z.",
+    "title": "WebChallenger: A Reliable and Efficient Generalist Web Agent",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2606.29472v1",
     "archive": "arXiv",
     "archive_location": "2606.29472",
@@ -1231,6 +1344,64 @@
     },
     "note": "First published: 2026-06-28; Recorded arXiv version: v1; Recorded version updated: 2026-06-28T15:59:31Z.",
     "title": "Agent-Computer Observation Interfaces Enable Dynamic Computer Use",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.31270v1",
+    "archive": "arXiv",
+    "archive_location": "2606.31270",
+    "author": [
+      {
+        "literal": "Xueqiao Sun"
+      },
+      {
+        "literal": "Xiaohan Wang"
+      },
+      {
+        "literal": "Ludwig Schmidt"
+      },
+      {
+        "literal": "Serena Yeung-Levy"
+      },
+      {
+        "literal": "Yuhui Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2606_31270",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8911abdc0c9c481d82abb213d368c16fba9fee909c354e0bc6272e14c59abfb7",
+        "submitted_at": "2026-06-30T07:44:37Z",
+        "updated_at": "2026-06-30T07:44:37Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.31270v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.31270",
+      "catalog_id": "arxiv:2606.31270",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-30",
+      "identifiers": {
+        "arxiv": "2606.31270"
+      },
+      "record_updated_at": "2026-06-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.31270",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-30; Recorded arXiv version: v1; Recorded version updated: 2026-06-30T07:44:37Z.",
+    "title": "Learning from Failure: Inference-Time Self-Improvement for Computer-Use Agents",
     "type": "article",
     "version": "1"
   },
@@ -1335,6 +1506,67 @@
     },
     "note": "First published: 2026-09-04; Recorded arXiv version: v1; Recorded version updated: 2026-09-04T08:29:45Z.",
     "title": "From Interaction Traces to Persistent Skills: Online Evolution for Computer-Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2609.10297v1",
+    "archive": "arXiv",
+    "archive_location": "2609.10297",
+    "author": [
+      {
+        "literal": "Yuhao Wang"
+      },
+      {
+        "literal": "Mu Qiao"
+      },
+      {
+        "literal": "Xindong Zhang"
+      },
+      {
+        "literal": "Yunzhi Zhuge"
+      },
+      {
+        "literal": "Lei Zhang"
+      },
+      {
+        "literal": "Huchuan Lu"
+      }
+    ],
+    "citation-key": "arxiv_2609_10297",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "20d3bc3137e163f6b467b8c464101478b2375fbab8aebe9179e2e1113b34f503",
+        "submitted_at": "2026-09-09T15:12:48Z",
+        "updated_at": "2026-09-09T15:12:48Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.10297v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.10297",
+      "catalog_id": "arxiv:2609.10297",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-09",
+      "identifiers": {
+        "arxiv": "2609.10297"
+      },
+      "record_updated_at": "2026-09-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.10297",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-09; Recorded arXiv version: v1; Recorded version updated: 2026-09-09T15:12:48Z.",
+    "title": "TRACE: Trajectory-robust Admission with Evidence Ordering for Efficient GUI Agents",
     "type": "article",
     "version": "1"
   },

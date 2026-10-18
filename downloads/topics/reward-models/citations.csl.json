@@ -2267,6 +2267,82 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2606.07027v2",
+    "archive": "arXiv",
+    "archive_location": "2606.07027",
+    "author": [
+      {
+        "literal": "Haojie Hao"
+      },
+      {
+        "literal": "Longkun Hao"
+      },
+      {
+        "literal": "Yihang Lou"
+      },
+      {
+        "literal": "Yan Bai"
+      },
+      {
+        "literal": "Zhenyang Li"
+      },
+      {
+        "literal": "Zhichao Yang"
+      },
+      {
+        "literal": "Dongshuo Huang"
+      },
+      {
+        "literal": "Hongyu Lin"
+      },
+      {
+        "literal": "Lanqing Hong"
+      },
+      {
+        "literal": "Jiakai Wang"
+      },
+      {
+        "literal": "Xianglong Liu"
+      }
+    ],
+    "citation-key": "arxiv_2606_07027",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2d530152b210a69cb458fecb036c10621c72daccfbcac7c8306c7e248c87cf14",
+        "submitted_at": "2026-06-05T08:17:28Z",
+        "updated_at": "2026-06-12T07:28:19Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2606.07027v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.07027",
+      "catalog_id": "arxiv:2606.07027",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-05",
+      "identifiers": {
+        "arxiv": "2606.07027"
+      },
+      "record_updated_at": "2026-06-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.07027",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-05; Recorded arXiv version: v2; Recorded version updated: 2026-06-12T07:28:19Z.",
+    "title": "StainFlow: Entity-Stain Tracking and Evidence Linking for Process Rewards in GUI Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2606.11078v1",
     "archive": "arXiv",
     "archive_location": "2606.11078",
@@ -2385,6 +2461,52 @@
     },
     "note": "First published: 2026-06-23; Recorded arXiv version: v1; Recorded version updated: 2026-06-23T12:46:29Z.",
     "title": "Reinforcement Learning for Computer-Use Agents with Autonomous Evaluation",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.24525v1",
+    "archive": "arXiv",
+    "archive_location": "2606.24525",
+    "author": [
+      {
+        "literal": "Jiachen Qian"
+      }
+    ],
+    "citation-key": "arxiv_2606_24525",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a3d0341f41a8ecba57fb7ed9e4b266bb4a176639c742be2b4fc98555754f5744",
+        "submitted_at": "2026-06-23T12:57:02Z",
+        "updated_at": "2026-06-23T12:57:02Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.24525v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.24525",
+      "catalog_id": "arxiv:2606.24525",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-23",
+      "identifiers": {
+        "arxiv": "2606.24525"
+      },
+      "record_updated_at": "2026-06-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.24525",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-23; Recorded arXiv version: v1; Recorded version updated: 2026-06-23T12:57:02Z.",
+    "title": "VisCritic: Visual State Comparison as Process Reward for GUI Agents",
     "type": "article",
     "version": "1"
   },
@@ -2890,6 +3012,76 @@
     },
     "note": "First published: 2026-08-25; Recorded arXiv version: v1; Recorded version updated: 2026-08-25T07:40:12Z.",
     "title": "Task-Adaptive Rubrics for GUI Reward Modeling",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2609.02885v1",
+    "archive": "arXiv",
+    "archive_location": "2609.02885",
+    "author": [
+      {
+        "literal": "Kelvin Li"
+      },
+      {
+        "literal": "Dhruv Pendharkar"
+      },
+      {
+        "literal": "Anish Pahilajani"
+      },
+      {
+        "literal": "Chuyi Shang"
+      },
+      {
+        "literal": "Leon Oks"
+      },
+      {
+        "literal": "Leonid Karlinsky"
+      },
+      {
+        "literal": "Rogerio Feris"
+      },
+      {
+        "literal": "Trevor Darrell"
+      },
+      {
+        "literal": "Roei Herzig"
+      }
+    ],
+    "citation-key": "arxiv_2609_02885",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8703474cb4f577b307731cf1a986f76f800470fde625b6ca4b3569d30e74f903",
+        "submitted_at": "2026-09-02T17:59:40Z",
+        "updated_at": "2026-09-02T17:59:40Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.02885v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.02885",
+      "catalog_id": "arxiv:2609.02885",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-02",
+      "identifiers": {
+        "arxiv": "2609.02885"
+      },
+      "record_updated_at": "2026-09-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.02885",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-02; Recorded arXiv version: v1; Recorded version updated: 2026-09-02T17:59:40Z.",
+    "title": "Discriminative World Models for Web Agents",
     "type": "article",
     "version": "1"
   },

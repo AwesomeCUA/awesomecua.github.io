@@ -1,0 +1,129 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "dataset_profile": {
+      "counts": [],
+      "evidence_urls": [
+        "https://huggingface.co/datasets/CognitiveKernel/WebEvolver/raw/13f4f45b359e138a45b1c89bd4e913298c586ca9/README.md",
+        "https://huggingface.co/api/datasets/CognitiveKernel/WebEvolver"
+      ],
+      "formats": [
+        "JSONL"
+      ],
+      "modalities": [],
+      "notes": "Two purpose-specific files are released: webevolver_policy_sft.jsonl and webevolver_world_model_sft.jsonl. They are not assumed disjoint train/test splits, and no modality or example count is inferred from filenames alone.",
+      "splits": [],
+      "supervision": [
+        "agent-policy supervised fine-tuning",
+        "web-world-model supervised fine-tuning"
+      ]
+    },
+    "disabled": false,
+    "download_url": "https://huggingface.co/datasets/CognitiveKernel/WebEvolver/tree/13f4f45b359e138a45b1c89bd4e913298c586ca9",
+    "gated": false,
+    "hub_id": "CognitiveKernel/WebEvolver",
+    "hub_revision": "13f4f45b359e138a45b1c89bd4e913298c586ca9",
+    "license_review": {
+      "data": {
+        "evidence_urls": [
+          "https://huggingface.co/datasets/CognitiveKernel/WebEvolver/raw/13f4f45b359e138a45b1c89bd4e913298c586ca9/README.md"
+        ],
+        "reason": "Publisher dataset-card declaration for this release; it does not establish rights to all upstream screenshots, applications or source content."
+      }
+    },
+    "repository_url": "https://github.com/Tencent/SelfEvolvingAgent/tree/main/WebEvolver"
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:35:17Z",
+      "role": "primary",
+      "sha256": "36ccdce12c1b1512ad4b21326c5d0c0379c73e85f0b8150779d43240b54686de",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "relations",
+        "licenses.data",
+        "details.dataset_profile"
+      ],
+      "url": "https://huggingface.co/datasets/CognitiveKernel/WebEvolver/raw/13f4f45b359e138a45b1c89bd4e913298c586ca9/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:33:29Z",
+      "role": "primary",
+      "sha256": "cbef3f8037405d311ed9fe8aa620ec3734f91c77ca8f4209fbe98167fb33bee8",
+      "supports": [
+        "identity",
+        "release_status",
+        "details.hub_id",
+        "details.hub_revision",
+        "details.gated",
+        "details.disabled",
+        "details.download_url",
+        "details.dataset_profile"
+      ],
+      "url": "https://huggingface.co/api/datasets/CognitiveKernel/WebEvolver"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:27:14Z",
+      "role": "primary",
+      "sha256": "447dfa1e52789f7f3f111e9e0d453fb1f9fd8bf2d7b858f28fbe21a2239b4b2e",
+      "supports": [
+        "details.repository_url"
+      ],
+      "url": "https://raw.githubusercontent.com/Tencent/SelfEvolvingAgent/HEAD/WebEvolver/README.md"
+    }
+  ],
+  "id": "url:e126bbd9729ebdaf05ab",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-18T04:35:17Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "Publisher dataset-card declaration for this release; it does not establish rights to all upstream screenshots, applications or source content.",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-18T04:35:17Z",
+      "url": "https://huggingface.co/datasets/CognitiveKernel/WebEvolver/raw/13f4f45b359e138a45b1c89bd4e913298c586ca9/README.md"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/CognitiveKernel/WebEvolver"
+    }
+  ],
+  "name": "WebEvolver SFT data",
+  "notes": "The card and public manifest identify separate policy-model and world-model JSONL files. No row total or complete record schema is documented in the inspected card; the files were not downloaded as training samples. MIT is the publisher’s data declaration.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/CognitiveKernel/WebEvolver/raw/13f4f45b359e138a45b1c89bd4e913298c586ca9/README.md",
+      "target_id": "arxiv:2504.21024",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Two JSONL collections for supervised fine-tuning the WebEvolver agent policy and web world model.",
+  "topics": [
+    "web-navigation",
+    "world-models",
+    "imitation-learning"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/CognitiveKernel/WebEvolver"
+}

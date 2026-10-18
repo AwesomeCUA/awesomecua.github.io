@@ -20,6 +20,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/survey/record
   Reviews LLM-driven phone GUI agents with a taxonomy of agent frameworks, prompt- and training-based modeling, datasets, and benchmarks.
 - [Towards Trustworthy GUI Agents: A Survey](https://awesomecua.github.io/resources/arxiv-2503-23434/) — 2025-03-30
   Frames GUI-agent trustworthiness as an execution gap and reviews failures, attacks, and defenses across perception, reasoning, and interaction.
+- [A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models](https://awesomecua.github.io/resources/arxiv-2503-23350/) — 2025-03-30
+  Surveys foundation-model web agents through their architectures, training methods and trustworthiness. It organizes research on completing browser tasks from user instructions and identifies directions for further development.
 - [A Survey on (M)LLM-Based GUI Agents](https://awesomecua.github.io/resources/arxiv-2504-13865/) — 2025-03-27
   Analyzes LLM-based GUI agents through four components (perception, exploration, planning, and interaction) and the methods used to evaluate them.
 - [API Agents vs. GUI Agents: Divergence and Convergence](https://awesomecua.github.io/resources/arxiv-2503-11069/) — 2025-03-14
@@ -30,6 +32,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/survey/record
   Categorizes GUI-agent benchmarks, evaluation metrics, architectures, and training methods, and proposes a unified perception, reasoning, planning, and acting framework.
 - [Large Language Model-Brained GUI Agents: A Survey](https://awesomecua.github.io/resources/arxiv-2411-18279/) — 2024-11-27
   Survey of LLM-brained GUI agents that carry out natural-language instructions across web, mobile, and desktop interfaces, organizing research and industry progress.
+- [Generalist Virtual Agents: A Survey on Autonomous Agents Across Digital Platforms](https://awesomecua.github.io/resources/arxiv-2411-10943/) — 2024-11-17
+  Surveys virtual agents for browsers, applications and operating systems, organizing prior work by task type, observation and action spaces, model strategies and evaluation methods. It examines screen-based interaction and keyboard, mouse and touch control, alongside transferability and long-sequence decision-making challenges.
 - [GUI Agents with Foundation Models: A Comprehensive Survey](https://awesomecua.github.io/resources/arxiv-2411-04890/) — 2024-11-07
   Survey of (M)LLM-based GUI agents organized around their datasets and benchmarks, a unified agent framework with a taxonomy, and commercial applications.
 - [Foundations and Recent Trends in Multimodal Mobile Agents: A Survey](https://awesomecua.github.io/resources/arxiv-2411-02006/) — 2024-11-04

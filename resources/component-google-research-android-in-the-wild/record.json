@@ -42,7 +42,6 @@
     },
     "download_url": "https://console.cloud.google.com/storage/browser/gresearch/android-in-the-wild",
     "example_count": 5689993,
-    "languages": [],
     "modalities": [
       "screenshot",
       "action",

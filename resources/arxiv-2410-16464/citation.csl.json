@@ -22,7 +22,38 @@
       "updated_at": "2025-06-16T22:23:37Z",
       "version": 3,
       "versioned_url": "https://arxiv.org/abs/2410.16464v3"
-    }
+    },
+    "publication": {
+      "authors": [
+        "Yueqi Song",
+        "Frank F. Xu",
+        "Shuyan Zhou",
+        "Graham Neubig"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        7
+      ],
+      "doi": "10.18653/v1/2025.findings-acl.577",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.findings-acl.577/"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+      "pages": "11066-11085",
+      "pdf_url": "https://aclanthology.org/2025.findings-acl.577.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "Beyond Browsing: API-Based Web Agents",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.findings-acl.577/",
+      "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+      "volume": null
+    },
+    "citation_edition": "record"
   },
   "note": "First published: 2024-10-21; Recorded arXiv version: v3; Recorded version updated: 2025-06-16T22:23:37Z.",
   "author": [

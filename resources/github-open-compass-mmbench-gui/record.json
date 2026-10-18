@@ -29,11 +29,7 @@
         "screenshots"
       ],
       "setting": "mixed"
-    },
-    "evaluation_type": null,
-    "leaderboard_url": null,
-    "metrics": [],
-    "task_count": null
+    }
   },
   "environments": [
     "cross-platform"

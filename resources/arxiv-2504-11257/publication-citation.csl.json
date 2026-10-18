@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2504.11257:publication",
+  "citation-key": "arxiv_2504_11257_publication",
+  "type": "paper-conference",
+  "title": "UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis",
+  "URL": "https://aclanthology.org/2025.findings-acl.809/",
+  "custom": {
+    "catalog_id": "arxiv:2504.11257",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2504.11257",
+    "identifiers": {
+      "arxiv": "2504.11257"
+    },
+    "first_published_at": "2025-04-15",
+    "record_updated_at": "2025-07-30",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "363e3c3e882fa93a19df74bbf77aa98525cf4639c8f62100c3ddc3e0a438997f",
+      "submitted_at": "2025-04-15T14:56:21Z",
+      "updated_at": "2025-07-30T13:57:49Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2504.11257v4"
+    },
+    "publication": {
+      "authors": [
+        "Xinyi Liu",
+        "Xiaoyi Zhang",
+        "Ziyun Zhang",
+        "Yan Lu"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        7
+      ],
+      "doi": "10.18653/v1/2025.findings-acl.809",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.findings-acl.809/"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+      "pages": "15668-15684",
+      "pdf_url": "https://aclanthology.org/2025.findings-acl.809.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.findings-acl.809/",
+      "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2025-07.",
+  "author": [
+    {
+      "literal": "Xinyi Liu"
+    },
+    {
+      "literal": "Xiaoyi Zhang"
+    },
+    {
+      "literal": "Ziyun Zhang"
+    },
+    {
+      "literal": "Yan Lu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.18653/v1/2025.findings-acl.809",
+  "container-title": "Findings of the Association for Computational Linguistics: ACL 2025",
+  "publisher": "Association for Computational Linguistics",
+  "page": "15668-15684"
+}

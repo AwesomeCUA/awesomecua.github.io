@@ -1,0 +1,89 @@
+{
+  "aliases": [],
+  "authors": [
+    "Biao Yi",
+    "Xavier Hu",
+    "Yurun Chen",
+    "Shengyu Zhang",
+    "Hongxia Yang",
+    "Fan Wu"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8f5fdf474c1cb0d7e9f42d617de27afae38a9fd8f5e0b07d1c86e082dc872a35",
+      "submitted_at": "2025-05-08T17:31:20Z",
+      "updated_at": "2025-11-17T09:12:00Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2505.05440v3"
+    }
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-18T04:21:52Z",
+      "role": "primary",
+      "sha256": "c194d15b7e422aae48b4e05216a1f1d84471b6666718b9d3dd4c9d250c356e77",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2210.03347%2C2403.04984%2C2405.07090%2C2406.06282%2C2409.00088%2C2409.10811%2C2411.10943%2C2503.09241%2C2503.20279%2C2503.23350%2C2505.05440%2C2505.10593%2C2505.16422%2C2505.21279%2C2505.24878%2C2506.02153%2C2506.02839%2C2506.05079%2C2506.07976%2C2508.02046%2C2511.07885%2C2511.11248%2C2512.21720%2C2603.20351%2C2604.19299&max_results=25"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:21:52Z",
+      "role": "primary",
+      "sha256": "c194d15b7e422aae48b4e05216a1f1d84471b6666718b9d3dd4c9d250c356e77",
+      "supports": [
+        "name",
+        "kind",
+        "scope",
+        "environments",
+        "topics",
+        "summary",
+        "notes"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2210.03347%2C2403.04984%2C2405.07090%2C2406.06282%2C2409.00088%2C2409.10811%2C2411.10943%2C2503.09241%2C2503.20279%2C2503.23350%2C2505.05440%2C2505.10593%2C2505.16422%2C2505.21279%2C2505.24878%2C2506.02153%2C2506.02839%2C2506.05079%2C2506.07976%2C2508.02046%2C2511.07885%2C2511.11248%2C2512.21720%2C2603.20351%2C2604.19299&max_results=25"
+    }
+  ],
+  "id": "arxiv:2505.05440",
+  "identifiers": {
+    "arxiv": "2505.05440"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-18T04:21:52Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2505.05440"
+    }
+  ],
+  "name": "EcoAgent: An Efficient Device-Cloud Collaborative Multi-Agent Framework for Mobile Automation",
+  "notes": "Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.",
+  "published_at": "2025-05-08",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "EcoAgent splits mobile automation between cloud planning and on-device observation and verification. Compact screen descriptions and feedback reduce communication costs, with evaluation on AndroidWorld.",
+  "topics": [
+    "mobile-navigation",
+    "planning",
+    "efficiency"
+  ],
+  "updated_at": "2025-11-17",
+  "url": "https://arxiv.org/abs/2505.05440"
+}

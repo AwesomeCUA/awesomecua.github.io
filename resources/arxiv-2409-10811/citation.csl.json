@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2409.10811",
+  "citation-key": "arxiv_2409_10811",
+  "type": "article",
+  "title": "Grounded GUI Understanding for Vision-Based Spatial Intelligent Agent: Exemplified by Extended Reality Apps",
+  "URL": "https://arxiv.org/abs/2409.10811v4",
+  "custom": {
+    "catalog_id": "arxiv:2409.10811",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2409.10811",
+    "identifiers": {
+      "arxiv": "2409.10811"
+    },
+    "first_published_at": "2024-09-17",
+    "record_updated_at": "2025-10-01",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2a32462e4cb09763750f8f22d7f4be32a6bdfe3db6c9b3de9c386dc7cd6b6f30",
+      "submitted_at": "2024-09-17T00:58:00Z",
+      "updated_at": "2025-10-01T17:58:44Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2409.10811v4"
+    }
+  },
+  "note": "First published: 2024-09-17; Recorded arXiv version: v4; Recorded version updated: 2025-10-01T17:58:44Z.",
+  "author": [
+    {
+      "literal": "Shuqing Li"
+    },
+    {
+      "literal": "Binchang Li"
+    },
+    {
+      "literal": "Yepang Liu"
+    },
+    {
+      "literal": "Cuiyun Gao"
+    },
+    {
+      "literal": "Jianping Zhang"
+    },
+    {
+      "literal": "Shing-Chi Cheung"
+    },
+    {
+      "literal": "Michael R. Lyu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        9,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2409.10811",
+  "genre": "preprint",
+  "version": "4"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2404.09992:publication",
+  "citation-key": "arxiv_2404_09992_publication",
+  "type": "paper-conference",
+  "title": "MMInA: Benchmarking Multihop Multimodal Internet Agents",
+  "URL": "https://aclanthology.org/2025.findings-acl.703/",
+  "custom": {
+    "catalog_id": "arxiv:2404.09992",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2404.09992",
+    "identifiers": {
+      "arxiv": "2404.09992"
+    },
+    "first_published_at": "2024-04-15",
+    "record_updated_at": "2025-06-29",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "667b1f5053f3ae6ea712999932d5e9ee2f42e402cc72e713048d0790f5931976",
+      "submitted_at": "2024-04-15T17:59:50Z",
+      "updated_at": "2025-06-29T05:24:54Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2404.09992v2"
+    },
+    "publication": {
+      "authors": [
+        "Shulin Tian",
+        "Ziniu Zhang",
+        "Liang-Yu Chen",
+        "Ziwei Liu"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        7
+      ],
+      "doi": "10.18653/v1/2025.findings-acl.703",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.findings-acl.703/"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+      "pages": "13682-13697",
+      "pdf_url": "https://aclanthology.org/2025.findings-acl.703.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "MMInA: Benchmarking Multihop Multimodal Internet Agents",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.findings-acl.703/",
+      "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2025-07.",
+  "author": [
+    {
+      "literal": "Shulin Tian"
+    },
+    {
+      "literal": "Ziniu Zhang"
+    },
+    {
+      "literal": "Liang-Yu Chen"
+    },
+    {
+      "literal": "Ziwei Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.18653/v1/2025.findings-acl.703",
+  "container-title": "Findings of the Association for Computational Linguistics: ACL 2025",
+  "publisher": "Association for Computational Linguistics",
+  "page": "13682-13697"
+}

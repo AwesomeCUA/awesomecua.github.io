@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2411.10943",
+  "citation-key": "arxiv_2411_10943",
+  "type": "article",
+  "title": "Generalist Virtual Agents: A Survey on Autonomous Agents Across Digital Platforms",
+  "URL": "https://arxiv.org/abs/2411.10943v1",
+  "custom": {
+    "catalog_id": "arxiv:2411.10943",
+    "catalog_kind": "survey",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2411.10943",
+    "identifiers": {
+      "arxiv": "2411.10943"
+    },
+    "first_published_at": "2024-11-17",
+    "record_updated_at": "2024-11-17",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "daa9b7092616e94a1d0124d36d8b75d0401b9647ec762c963524616a92def9a5",
+      "submitted_at": "2024-11-17T02:44:56Z",
+      "updated_at": "2024-11-17T02:44:56Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2411.10943v1"
+    }
+  },
+  "note": "First published: 2024-11-17; Recorded arXiv version: v1; Recorded version updated: 2024-11-17T02:44:56Z.",
+  "author": [
+    {
+      "literal": "Minghe Gao"
+    },
+    {
+      "literal": "Wendong Bu"
+    },
+    {
+      "literal": "Bingchen Miao"
+    },
+    {
+      "literal": "Yang Wu"
+    },
+    {
+      "literal": "Yunfei Li"
+    },
+    {
+      "literal": "Juncheng Li"
+    },
+    {
+      "literal": "Siliang Tang"
+    },
+    {
+      "literal": "Qi Wu"
+    },
+    {
+      "literal": "Yueting Zhuang"
+    },
+    {
+      "literal": "Meng Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2411.10943",
+  "genre": "preprint",
+  "version": "1"
+}

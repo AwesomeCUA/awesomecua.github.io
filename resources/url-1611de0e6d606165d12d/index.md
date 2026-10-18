@@ -31,3 +31,5 @@ The public Hub manifest lists weight files; the catalog did not download weights
 - https://huggingface.co/api/models/OpenMobile-2/OpenMobile-2-27B (retrieved 2026-10-17T01:49:48Z; SHA-256 c7e388efe1ecfd415b7b5af7f296e62646a0a1380037f1e57ad1a43c26463b9a)
 - https://os-copilot.github.io/OpenMobile2-Home/ (retrieved 2026-10-17T01:46:06Z; SHA-256 9b385e9f6aa2f7169f616a76887df3b76df605cb2bea071d99ee7ca3f9b659cc)
 - https://huggingface.co/OpenMobile-2/OpenMobile-2-27B/raw/main/README.md (retrieved 2026-10-17T01:48:51Z; SHA-256 ba760ab75e997941dabf0845b34e5fb83daeb83a5cfa16b13929477cfc61a31c)
+- https://huggingface.co/api/models/OpenMobile-2/OpenMobile-27B (retrieved 2026-10-17T19:15:11Z; SHA-256 f669181b7f1b92bbbcb8ab71f0d15d8c3cf93b3665d73d20e9b9f0dc3a36e158)
+- https://huggingface.co/api/models/OpenMobile-2/OpenMobile-2-27B (retrieved 2026-10-17T19:15:12Z; SHA-256 f669181b7f1b92bbbcb8ab71f0d15d8c3cf93b3665d73d20e9b9f0dc3a36e158)

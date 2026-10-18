@@ -1,0 +1,102 @@
+{
+  "id": "arxiv:2410.19100:publication",
+  "citation-key": "arxiv_2410_19100_publication",
+  "type": "paper-conference",
+  "title": "VideoWebArena:  Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks",
+  "URL": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/5b555804d495321df2e3208cc27f4fbc-Abstract-Conference.html",
+  "custom": {
+    "catalog_id": "arxiv:2410.19100",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.19100",
+    "identifiers": {
+      "arxiv": "2410.19100"
+    },
+    "first_published_at": "2024-10-24",
+    "record_updated_at": "2025-02-15",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6f413943bd5c2a395ddb5cf38a1a5ad61754b35a9eb5de43e8d980bd83e4adff",
+      "submitted_at": "2024-10-24T19:03:01Z",
+      "updated_at": "2025-02-15T05:19:38Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2410.19100v3"
+    },
+    "publication": {
+      "authors": [
+        "Lawrence Jang",
+        "Yinheng Li",
+        "Dan Zhao",
+        "Charles Ding",
+        "Justin Lin",
+        "Paul Pu Liang",
+        "Rogerio Bonatti",
+        "Kazuhito Koishida"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        5,
+        1
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://proceedings.iclr.cc/paper_files/paper/2025/hash/5b555804d495321df2e3208cc27f4fbc-Abstract-Conference.html"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+      "pages": "36934-36958",
+      "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/5b555804d495321df2e3208cc27f4fbc-Paper-Conference.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "VideoWebArena:  Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks",
+      "type": "conference-paper",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/5b555804d495321df2e3208cc27f4fbc-Abstract-Conference.html",
+      "venue": "International Conference on Learning Representations",
+      "volume": "2025"
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2025-05-01.",
+  "author": [
+    {
+      "literal": "Lawrence Jang"
+    },
+    {
+      "literal": "Yinheng Li"
+    },
+    {
+      "literal": "Dan Zhao"
+    },
+    {
+      "literal": "Charles Ding"
+    },
+    {
+      "literal": "Justin Lin"
+    },
+    {
+      "literal": "Paul Pu Liang"
+    },
+    {
+      "literal": "Rogerio Bonatti"
+    },
+    {
+      "literal": "Kazuhito Koishida"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        1
+      ]
+    ]
+  },
+  "container-title": "International Conference on Learning Representations",
+  "volume": "2025",
+  "page": "36934-36958"
+}

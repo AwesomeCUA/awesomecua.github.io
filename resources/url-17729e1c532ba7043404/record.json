@@ -35,12 +35,8 @@
     },
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/likaixin/ScreenSpot-v2-variants/tree/main",
-    "evaluation_type": null,
     "gated": false,
-    "hub_id": "likaixin/ScreenSpot-v2-variants",
-    "leaderboard_url": null,
-    "metrics": [],
-    "task_count": null
+    "hub_id": "likaixin/ScreenSpot-v2-variants"
   },
   "environments": [
     "cross-platform"

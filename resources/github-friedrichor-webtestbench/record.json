@@ -44,8 +44,6 @@
       ],
       "setting": "interactive"
     },
-    "evaluation_type": null,
-    "leaderboard_url": null,
     "license_review": {
       "code": {
         "evidence_urls": [
@@ -60,9 +58,7 @@
         "reason": "Publisher Hub-card license declaration for the released benchmark dataset."
       }
     },
-    "metrics": [],
-    "repository_revision": "04873065bdb0938ed53d809559d4ab473c7ccd31",
-    "task_count": null
+    "repository_revision": "04873065bdb0938ed53d809559d4ab473c7ccd31"
   },
   "environments": [
     "web"

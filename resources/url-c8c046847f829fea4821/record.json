@@ -1,0 +1,133 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/zonghanHZH/ZonUI-3B/tree/07212ea7724a69400422571e0f6e053212e66fe6",
+    "gated": false,
+    "hub_id": "zonghanHZH/ZonUI-3B",
+    "hub_revision": "07212ea7724a69400422571e0f6e053212e66fe6",
+    "license_review": {
+      "weights": {
+        "evidence_urls": [
+          "https://huggingface.co/zonghanHZH/ZonUI-3B/raw/07212ea7724a69400422571e0f6e053212e66fe6/README.md"
+        ],
+        "reason": "Publisher model-card declaration for the checkpoint; code and training-data terms are separate."
+      }
+    },
+    "repository_url": "https://github.com/Han1018/ZonUI-3B"
+  },
+  "environments": [
+    "cross-platform",
+    "desktop",
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:35:16Z",
+      "role": "primary",
+      "sha256": "0dcd557508c07c9569e642a0319e71162b50c7ac6a0449564760ac2d6fffb089",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "relations",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/zonghanHZH/ZonUI-3B/raw/07212ea7724a69400422571e0f6e053212e66fe6/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:33:22Z",
+      "role": "primary",
+      "sha256": "c419027b878ed7ebebd91f89a7395506d2f2aa8e1745918833cf1bac9e0a054e",
+      "supports": [
+        "identity",
+        "release_status",
+        "details.hub_id",
+        "details.hub_revision",
+        "details.gated",
+        "details.disabled",
+        "details.download_url"
+      ],
+      "url": "https://huggingface.co/api/models/zonghanHZH/ZonUI-3B"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:27:14Z",
+      "role": "primary",
+      "sha256": "9918231748808ea1af93b559b0a511f1f9687689766a09b43c7726f14f27248b",
+      "supports": [
+        "release_status",
+        "details.repository_url"
+      ],
+      "url": "https://raw.githubusercontent.com/Han1018/ZonUI-3B/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T15:37:02Z",
+      "role": "primary",
+      "sha256": "7e3e63c1f2b38daaf4bb222b51fa5ae6594a0185e618723371e044bee6f05f7d",
+      "supports": [
+        "notes"
+      ],
+      "url": "https://api.github.com/repos/Han1018/ZonUI-3B"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:25:20Z",
+      "role": "primary",
+      "sha256": "d4c1500dbaceba738565d766e7b7453abbb6c0b12edaa34e5600d351214bfe4f",
+      "supports": [
+        "notes"
+      ],
+      "url": "https://api.github.com/repos/Han1018/ZonUI-3B/git/trees/main?recursive=1"
+    }
+  ],
+  "id": "url:c8c046847f829fea4821",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-18T04:35:16Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": {
+      "basis": "Publisher model-card declaration for the checkpoint; code and training-data terms are separate.",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-18T04:35:16Z",
+      "url": "https://huggingface.co/zonghanHZH/ZonUI-3B/raw/07212ea7724a69400422571e0f6e053212e66fe6/README.md"
+    }
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/zonghanHZH/ZonUI-3B"
+    }
+  ],
+  "name": "ZonUI-3B checkpoint",
+  "notes": "The Hub manifest lists four-part PyTorch and Safetensors files as alternative representations of one checkpoint, plus configuration/tokenizer files. The card’s example rescales predicted locations through the resized image dimensions. No checkpoint was loaded and no benchmark score was reproduced. Apache-2.0 is the model-card weight declaration; the separate code repository has no project-level license in the inspected tree.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/zonghanHZH/ZonUI-3B/raw/07212ea7724a69400422571e0f6e053212e66fe6/README.md",
+      "target_id": "arxiv:2506.23491",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Qwen2.5-VL-3B-based GUI grounding checkpoint that predicts click locations from screenshots and text instructions across desktop, mobile and web screens.",
+  "topics": [
+    "grounding",
+    "screen-understanding",
+    "efficiency"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/zonghanHZH/ZonUI-3B"
+}

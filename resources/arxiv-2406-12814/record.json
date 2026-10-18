@@ -16,6 +16,39 @@
       "updated_at": "2025-02-04T20:02:17Z",
       "version": 3,
       "versioned_url": "https://arxiv.org/abs/2406.12814v3"
+    },
+    "publication": {
+      "authors": [
+        "Chen Wu",
+        "Rishi Shah",
+        "Jing Yu Koh",
+        "Russ Salakhutdinov",
+        "Daniel Fried",
+        "Aditi Raghunathan"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        5,
+        1
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://proceedings.iclr.cc/paper_files/paper/2025/hash/460a1d8eac34125dad453b28d6d64446-Abstract-Conference.html"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+      "pages": "28362-28383",
+      "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/460a1d8eac34125dad453b28d6d64446-Paper-Conference.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "Dissecting Adversarial Robustness of Multimodal LM Agents",
+      "type": "conference-paper",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/460a1d8eac34125dad453b28d6d64446-Abstract-Conference.html",
+      "venue": "International Conference on Learning Representations",
+      "volume": "2025"
     }
   },
   "environments": [
@@ -36,6 +69,27 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:10:01Z",
+      "role": "primary",
+      "sha256": "fa23fda1b80dac019741737fc6f611fccf9234a4d73ffbb8e24e54d8caf4dac3",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.pdf_url",
+        "details.publication.title",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue",
+        "details.publication.volume"
+      ],
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/460a1d8eac34125dad453b28d6d64446-Abstract-Conference.html"
     },
     {
       "method": "editorial_primary_review",
@@ -70,6 +124,14 @@
     {
       "rel": "primary",
       "url": "https://arxiv.org/abs/2406.12814"
+    },
+    {
+      "rel": "publication",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/460a1d8eac34125dad453b28d6d64446-Abstract-Conference.html"
+    },
+    {
+      "rel": "publication_pdf",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/460a1d8eac34125dad453b28d6d64446-Paper-Conference.pdf"
     }
   ],
   "name": "Dissecting Adversarial Robustness of Multimodal LM Agents",

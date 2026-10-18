@@ -1,0 +1,130 @@
+{
+  "id": "arxiv:2405.14573:publication",
+  "citation-key": "arxiv_2405_14573_publication",
+  "type": "paper-conference",
+  "title": "AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents",
+  "URL": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/01a83bc2f2732a58e6aa731e659e7101-Abstract-Conference.html",
+  "custom": {
+    "catalog_id": "arxiv:2405.14573",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2405.14573",
+    "identifiers": {
+      "arxiv": "2405.14573"
+    },
+    "first_published_at": "2024-05-23",
+    "record_updated_at": "2025-04-06",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a33b8b0a03c0dc7ac3f699c34193a526d20791bfedfdde2a2fb89604959e08c2",
+      "submitted_at": "2024-05-23T13:48:54Z",
+      "updated_at": "2025-04-06T20:37:50Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2405.14573v5"
+    },
+    "publication": {
+      "authors": [
+        "Chris Rawles",
+        "Sarah Clinckemaillie",
+        "Yifan Chang",
+        "Jonathan Waltz",
+        "Gabrielle Lau",
+        "Marybeth Fair",
+        "Alice Li",
+        "William Bishop",
+        "Wei Li",
+        "Folawiyo Campbell-Ajala",
+        "Daniel Toyama",
+        "Robert Berry",
+        "Divya Tyamagundlu",
+        "Timothy Lillicrap",
+        "Oriana Riva"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        5,
+        1
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://proceedings.iclr.cc/paper_files/paper/2025/hash/01a83bc2f2732a58e6aa731e659e7101-Abstract-Conference.html"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+      "pages": "406-441",
+      "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/01a83bc2f2732a58e6aa731e659e7101-Paper-Conference.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents",
+      "type": "conference-paper",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/01a83bc2f2732a58e6aa731e659e7101-Abstract-Conference.html",
+      "venue": "International Conference on Learning Representations",
+      "volume": "2025"
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2025-05-01.",
+  "author": [
+    {
+      "literal": "Chris Rawles"
+    },
+    {
+      "literal": "Sarah Clinckemaillie"
+    },
+    {
+      "literal": "Yifan Chang"
+    },
+    {
+      "literal": "Jonathan Waltz"
+    },
+    {
+      "literal": "Gabrielle Lau"
+    },
+    {
+      "literal": "Marybeth Fair"
+    },
+    {
+      "literal": "Alice Li"
+    },
+    {
+      "literal": "William Bishop"
+    },
+    {
+      "literal": "Wei Li"
+    },
+    {
+      "literal": "Folawiyo Campbell-Ajala"
+    },
+    {
+      "literal": "Daniel Toyama"
+    },
+    {
+      "literal": "Robert Berry"
+    },
+    {
+      "literal": "Divya Tyamagundlu"
+    },
+    {
+      "literal": "Timothy Lillicrap"
+    },
+    {
+      "literal": "Oriana Riva"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        1
+      ]
+    ]
+  },
+  "container-title": "International Conference on Learning Representations",
+  "volume": "2025",
+  "page": "406-441"
+}

@@ -30,11 +30,7 @@
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/cckevinn/GUI-Actor-Data/tree/main",
     "gated": false,
-    "hub_id": "cckevinn/GUI-Actor-Data",
-    "languages": [],
-    "modalities": [],
-    "sample_count": null,
-    "sample_unit": null
+    "hub_id": "cckevinn/GUI-Actor-Data"
   },
   "environments": [
     "unspecified"

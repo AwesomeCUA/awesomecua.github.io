@@ -43,8 +43,7 @@
       ],
       "setting": "interactive"
     },
-    "evaluation_type": null,
-    "leaderboard_url": null,
+    "leaderboard_url": "https://tongyi-mai.github.io/MobileWorld/#leaderboard",
     "license_review": {
       "code": {
         "evidence_urls": [
@@ -53,9 +52,7 @@
         "reason": "Repository code license; self-hosted applications, model APIs and MCP services keep their own terms."
       }
     },
-    "metrics": [],
-    "repository_revision": "e7eee8981135ecbe39005a231edf63574defd79c",
-    "task_count": null
+    "repository_revision": "e7eee8981135ecbe39005a231edf63574defd79c"
   },
   "environments": [
     "android"

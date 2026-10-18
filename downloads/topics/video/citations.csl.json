@@ -154,9 +154,45 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2024-06-14",
       "identifiers": {
         "arxiv": "2406.10227"
+      },
+      "publication": {
+        "authors": [
+          "Kevin Q. Lin",
+          "Linjie Li",
+          "Difei Gao",
+          "Qinchen Wu",
+          "Mingyi Yan",
+          "Zhengyuan Yang",
+          "Lijuan Wang",
+          "Mike Z. Shou"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          12,
+          16
+        ],
+        "doi": "10.52202/079017-2214",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.neurips.cc/paper_files/paper/2024/hash/804e757b7d7043c26701c3a313032101-Abstract-Datasets_and_Benchmarks_Track.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "69329-69360",
+        "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/804e757b7d7043c26701c3a313032101-Paper-Datasets_and_Benchmarks_Track.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "VideoGUI: A Benchmark for GUI Automation from Instructional Videos",
+        "type": "conference-paper",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/804e757b7d7043c26701c3a313032101-Abstract-Datasets_and_Benchmarks_Track.html",
+        "venue": "Advances in Neural Information Processing Systems",
+        "volume": "37"
       },
       "record_updated_at": "2024-06-14"
     },
@@ -491,9 +527,45 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2024-10-24",
       "identifiers": {
         "arxiv": "2410.19100"
+      },
+      "publication": {
+        "authors": [
+          "Lawrence Jang",
+          "Yinheng Li",
+          "Dan Zhao",
+          "Charles Ding",
+          "Justin Lin",
+          "Paul Pu Liang",
+          "Rogerio Bonatti",
+          "Kazuhito Koishida"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          5,
+          1
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.iclr.cc/paper_files/paper/2025/hash/5b555804d495321df2e3208cc27f4fbc-Abstract-Conference.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "36934-36958",
+        "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/5b555804d495321df2e3208cc27f4fbc-Paper-Conference.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "VideoWebArena:  Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks",
+        "type": "conference-paper",
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/5b555804d495321df2e3208cc27f4fbc-Abstract-Conference.html",
+        "venue": "International Conference on Learning Representations",
+        "volume": "2025"
       },
       "record_updated_at": "2025-02-15"
     },
@@ -1333,6 +1405,67 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2603.26266v3",
+    "archive": "arXiv",
+    "archive_location": "2603.26266",
+    "author": [
+      {
+        "literal": "Rui Xie"
+      },
+      {
+        "literal": "Zhi Gao"
+      },
+      {
+        "literal": "Chenrui Shi"
+      },
+      {
+        "literal": "Zirui Shang"
+      },
+      {
+        "literal": "Lu Chen"
+      },
+      {
+        "literal": "Qing Li"
+      }
+    ],
+    "citation-key": "arxiv_2603_26266",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b388086aeb8ac47e386099e5cd68cb89bb03978ee7d5897950181035d0abb723",
+        "submitted_at": "2026-03-27T10:33:08Z",
+        "updated_at": "2026-06-30T04:47:42Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2603.26266v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.26266",
+      "catalog_id": "arxiv:2603.26266",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-27",
+      "identifiers": {
+        "arxiv": "2603.26266"
+      },
+      "record_updated_at": "2026-06-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.26266",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-27; Recorded arXiv version: v3; Recorded version updated: 2026-06-30T04:47:42Z.",
+    "title": "GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2603.28069v1",
     "archive": "arXiv",
     "archive_location": "2603.28069",
@@ -1594,6 +1727,137 @@
     },
     "note": "First published: 2026-05-08; Recorded arXiv version: v1; Recorded version updated: 2026-05-08T10:57:19Z.",
     "title": "MMTB: Evaluating Terminal Agents on Multimedia-File Tasks",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.18758v2",
+    "archive": "arXiv",
+    "archive_location": "2605.18758",
+    "author": [
+      {
+        "literal": "Felix Henry"
+      },
+      {
+        "literal": "Lihan Lin"
+      },
+      {
+        "literal": "Jiangyou Zhu"
+      },
+      {
+        "literal": "Yangfan"
+      },
+      {
+        "literal": "Bingqian Zhang"
+      },
+      {
+        "literal": "Min Chen"
+      },
+      {
+        "literal": "Shiyu Huang"
+      }
+    ],
+    "citation-key": "arxiv_2605_18758",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "99e8e0039ec99ef8f6a6ef3900cb74a62ddd5ae4f8df30629110969290028e6a",
+        "submitted_at": "2026-04-03T08:57:06Z",
+        "updated_at": "2026-09-28T02:42:06Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2605.18758v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.18758",
+      "catalog_id": "arxiv:2605.18758",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-03",
+      "identifiers": {
+        "arxiv": "2605.18758"
+      },
+      "record_updated_at": "2026-09-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.18758",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-03; Recorded arXiv version: v2; Recorded version updated: 2026-09-28T02:42:06Z.",
+    "title": "OmniGUI: Benchmarking GUI Agents in Omni-Modal Smartphone Environments",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.04701v1",
+    "archive": "arXiv",
+    "archive_location": "2606.04701",
+    "author": [
+      {
+        "literal": "Jiashu Yao"
+      },
+      {
+        "literal": "Heyan Huang"
+      },
+      {
+        "literal": "Daiqing Wu"
+      },
+      {
+        "literal": "Wangke Chen"
+      },
+      {
+        "literal": "Huaxi Ai"
+      },
+      {
+        "literal": "Haoyu Wen"
+      },
+      {
+        "literal": "Zeming Liu"
+      },
+      {
+        "literal": "Yuhang Guo"
+      }
+    ],
+    "citation-key": "arxiv_2606_04701",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4d5a90333c4f6be0b8d203a2f5938f7e7eefcb09fbe7ea47b85eba8c7c1c422a",
+        "submitted_at": "2026-06-03T10:25:46Z",
+        "updated_at": "2026-06-03T10:25:46Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.04701v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.04701",
+      "catalog_id": "arxiv:2606.04701",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-03",
+      "identifiers": {
+        "arxiv": "2606.04701"
+      },
+      "record_updated_at": "2026-06-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.04701",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-03; Recorded arXiv version: v1; Recorded version updated: 2026-06-03T10:25:46Z.",
+    "title": "Benchmarking Living-Screen-Native GUI Agents on Short-Video Platforms",
     "type": "article",
     "version": "1"
   },

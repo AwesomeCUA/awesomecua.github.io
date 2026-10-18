@@ -55,8 +55,6 @@
       ],
       "setting": "interactive"
     },
-    "evaluation_type": null,
-    "leaderboard_url": null,
     "license_review": {
       "code": {
         "evidence_urls": [
@@ -71,9 +69,7 @@
         "reason": "Publisher metadata for the separately hosted screenshot archive; underlying third-party content retains applicable rights."
       }
     },
-    "metrics": [],
-    "repository_revision": "1f26a84230d26f99d84eab97d05032582b39018e",
-    "task_count": null
+    "repository_revision": "1f26a84230d26f99d84eab97d05032582b39018e"
   },
   "environments": [
     "android"

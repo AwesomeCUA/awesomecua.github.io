@@ -47,7 +47,6 @@
     "download_url": "https://huggingface.co/datasets/yiye2023/GUIAct/tree/main",
     "gated": false,
     "hub_id": "yiye2023/GUIAct",
-    "languages": [],
     "license_review": {
       "data": {
         "evidence_urls": [
@@ -56,10 +55,7 @@
         ],
         "reason": "Conflicting first-party dataset declarations: the GUICourse project README assigns CC-BY-4.0 to the datasets, while this exact Hub card declares Apache-2.0. The code MIT declaration does not resolve the data conflict."
       }
-    },
-    "modalities": [],
-    "sample_count": null,
-    "sample_unit": null
+    }
   },
   "environments": [
     "web",

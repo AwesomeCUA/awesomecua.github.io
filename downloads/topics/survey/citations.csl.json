@@ -149,6 +149,79 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2411.10943v1",
+    "archive": "arXiv",
+    "archive_location": "2411.10943",
+    "author": [
+      {
+        "literal": "Minghe Gao"
+      },
+      {
+        "literal": "Wendong Bu"
+      },
+      {
+        "literal": "Bingchen Miao"
+      },
+      {
+        "literal": "Yang Wu"
+      },
+      {
+        "literal": "Yunfei Li"
+      },
+      {
+        "literal": "Juncheng Li"
+      },
+      {
+        "literal": "Siliang Tang"
+      },
+      {
+        "literal": "Qi Wu"
+      },
+      {
+        "literal": "Yueting Zhuang"
+      },
+      {
+        "literal": "Meng Wang"
+      }
+    ],
+    "citation-key": "arxiv_2411_10943",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "daa9b7092616e94a1d0124d36d8b75d0401b9647ec762c963524616a92def9a5",
+        "submitted_at": "2024-11-17T02:44:56Z",
+        "updated_at": "2024-11-17T02:44:56Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2411.10943v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2411.10943",
+      "catalog_id": "arxiv:2411.10943",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-11-17",
+      "identifiers": {
+        "arxiv": "2411.10943"
+      },
+      "record_updated_at": "2024-11-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2411.10943",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2024-11-17; Recorded arXiv version: v1; Recorded version updated: 2024-11-17T02:44:56Z.",
+    "title": "Generalist Virtual Agents: A Survey on Autonomous Agents Across Digital Platforms",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2411.18279v12",
     "archive": "arXiv",
     "archive_location": "2411.18279",
@@ -502,6 +575,82 @@
     "title": "API Agents vs. GUI Agents: Divergence and Convergence",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2503.23350v4",
+    "archive": "arXiv",
+    "archive_location": "2503.23350",
+    "author": [
+      {
+        "literal": "Liangbo Ning"
+      },
+      {
+        "literal": "Ziran Liang"
+      },
+      {
+        "literal": "Zhuohang Jiang"
+      },
+      {
+        "literal": "Haohao Qu"
+      },
+      {
+        "literal": "Yujuan Ding"
+      },
+      {
+        "literal": "Wenqi Fan"
+      },
+      {
+        "literal": "Xiao-yong Wei"
+      },
+      {
+        "literal": "Shanru Lin"
+      },
+      {
+        "literal": "Hui Liu"
+      },
+      {
+        "literal": "Philip S. Yu"
+      },
+      {
+        "literal": "Qing Li"
+      }
+    ],
+    "citation-key": "arxiv_2503_23350",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4b214bd8e5a34c0e8ca16a3be4fcf638a59a17ca524276dbef3c6b75f08398bb",
+        "submitted_at": "2025-03-30T08:15:44Z",
+        "updated_at": "2025-08-05T11:47:41Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2503.23350v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2503.23350",
+      "catalog_id": "arxiv:2503.23350",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-03-30",
+      "identifiers": {
+        "arxiv": "2503.23350"
+      },
+      "record_updated_at": "2025-08-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2503.23350",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2025-03-30; Recorded arXiv version: v4; Recorded version updated: 2025-08-05T11:47:41Z.",
+    "title": "A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models",
+    "type": "article",
+    "version": "4"
   },
   {
     "URL": "https://arxiv.org/abs/2503.23434v2",

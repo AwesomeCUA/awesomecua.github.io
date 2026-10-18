@@ -1,0 +1,94 @@
+{
+  "id": "arxiv:2410.14803:publication",
+  "citation-key": "arxiv_2410_14803_publication",
+  "type": "paper-conference",
+  "title": "DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agent",
+  "URL": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/b9e472cd579c83e2f6aa3459f46aac28-Abstract-Conference.html",
+  "custom": {
+    "catalog_id": "arxiv:2410.14803",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.14803",
+    "identifiers": {
+      "arxiv": "2410.14803"
+    },
+    "first_published_at": "2024-10-18",
+    "record_updated_at": "2025-02-21",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a9e3d8350cd0be5d4f3e82b3b35a15fe89403cd602e8bb20b7cd783c7a7067a0",
+      "submitted_at": "2024-10-18T18:19:56Z",
+      "updated_at": "2025-02-21T16:23:59Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2410.14803v5"
+    },
+    "publication": {
+      "authors": [
+        "Taiyi Wang",
+        "Zhihao Wu",
+        "Jianheng Liu",
+        "Jianye HAO",
+        "Jun Wang",
+        "Kun Shao"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        5,
+        1
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://proceedings.iclr.cc/paper_files/paper/2025/hash/b9e472cd579c83e2f6aa3459f46aac28-Abstract-Conference.html"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher title uses singular Agent; the preprint uses Agents. The authors and DistRL contribution agree.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+      "pages": "74757-74782",
+      "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/b9e472cd579c83e2f6aa3459f46aac28-Paper-Conference.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agent",
+      "type": "conference-paper",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/b9e472cd579c83e2f6aa3459f46aac28-Abstract-Conference.html",
+      "venue": "International Conference on Learning Representations",
+      "volume": "2025"
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2025-05-01.",
+  "author": [
+    {
+      "literal": "Taiyi Wang"
+    },
+    {
+      "literal": "Zhihao Wu"
+    },
+    {
+      "literal": "Jianheng Liu"
+    },
+    {
+      "literal": "Jianye HAO"
+    },
+    {
+      "literal": "Jun Wang"
+    },
+    {
+      "literal": "Kun Shao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        1
+      ]
+    ]
+  },
+  "container-title": "International Conference on Learning Representations",
+  "volume": "2025",
+  "page": "74757-74782"
+}

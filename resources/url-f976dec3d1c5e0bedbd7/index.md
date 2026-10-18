@@ -43,3 +43,5 @@ The 8K release name is not an exact record count; the card declares 7,496 exampl
 - https://huggingface.co/api/datasets/showlab/ShowUI-desktop-8K (retrieved 2026-10-16T06:38:26Z; SHA-256 84bd2ef05ea837eaeebb248002b2942dd5c72f072beb29a9bd70eda1ea433a31)
 - https://huggingface.co/datasets/showlab/ShowUI-desktop-8K/raw/main/README.md (retrieved 2026-10-17T02:02:38Z; SHA-256 577a78efa03cde05141c23033222014094681cb5d04786dbb4a698df8543b3df)
 - https://huggingface.co/api/datasets/showlab/ShowUI-desktop-8K (retrieved 2026-10-16T06:38:26Z; SHA-256 84bd2ef05ea837eaeebb248002b2942dd5c72f072beb29a9bd70eda1ea433a31)
+- https://huggingface.co/api/datasets/showlab/ShowUI-desktop (retrieved 2026-10-17T19:14:57Z; SHA-256 57eaa720c20e9e3a4428c8292c150e1949f3372c75c6890e424ba3c6600a5e5d)
+- https://huggingface.co/api/datasets/showlab/ShowUI-desktop-8K (retrieved 2026-10-17T19:14:58Z; SHA-256 57eaa720c20e9e3a4428c8292c150e1949f3372c75c6890e424ba3c6600a5e5d)

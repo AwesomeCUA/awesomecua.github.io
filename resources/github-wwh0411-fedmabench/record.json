@@ -48,11 +48,7 @@
       ],
       "setting": "offline"
     },
-    "evaluation_type": null,
-    "leaderboard_url": null,
-    "metrics": [],
-    "repository_revision": "417d8b0006830f423c7d07c213fc57277d75d966",
-    "task_count": null
+    "repository_revision": "417d8b0006830f423c7d07c213fc57277d75d966"
   },
   "environments": [
     "android"

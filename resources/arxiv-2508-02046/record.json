@@ -1,0 +1,91 @@
+{
+  "aliases": [],
+  "authors": [
+    "Zhihao Luo",
+    "Wentao Yan",
+    "Jingyu Gong",
+    "Min Wang",
+    "Zhizhong Zhang",
+    "Xuhong Wang",
+    "Yuan Xie",
+    "Xin Tan"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e892ab93511f4164f37ef79ac0473e3c1eed7d6ec11fb6c8ec82092f26c5ca68",
+      "submitted_at": "2025-08-04T04:28:18Z",
+      "updated_at": "2026-05-02T12:32:44Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2508.02046v4"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-18T04:21:52Z",
+      "role": "primary",
+      "sha256": "c194d15b7e422aae48b4e05216a1f1d84471b6666718b9d3dd4c9d250c356e77",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2210.03347%2C2403.04984%2C2405.07090%2C2406.06282%2C2409.00088%2C2409.10811%2C2411.10943%2C2503.09241%2C2503.20279%2C2503.23350%2C2505.05440%2C2505.10593%2C2505.16422%2C2505.21279%2C2505.24878%2C2506.02153%2C2506.02839%2C2506.05079%2C2506.07976%2C2508.02046%2C2511.07885%2C2511.11248%2C2512.21720%2C2603.20351%2C2604.19299&max_results=25"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:21:52Z",
+      "role": "primary",
+      "sha256": "c194d15b7e422aae48b4e05216a1f1d84471b6666718b9d3dd4c9d250c356e77",
+      "supports": [
+        "name",
+        "kind",
+        "scope",
+        "environments",
+        "topics",
+        "summary",
+        "notes"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2210.03347%2C2403.04984%2C2405.07090%2C2406.06282%2C2409.00088%2C2409.10811%2C2411.10943%2C2503.09241%2C2503.20279%2C2503.23350%2C2505.05440%2C2505.10593%2C2505.16422%2C2505.21279%2C2505.24878%2C2506.02153%2C2506.02839%2C2506.05079%2C2506.07976%2C2508.02046%2C2511.07885%2C2511.11248%2C2512.21720%2C2603.20351%2C2604.19299&max_results=25"
+    }
+  ],
+  "id": "arxiv:2508.02046",
+  "identifiers": {
+    "arxiv": "2508.02046"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-18T04:21:52Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2508.02046"
+    }
+  ],
+  "name": "NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks",
+  "notes": "Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.",
+  "published_at": "2025-08-04",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "NaviMaster trains a shared policy for GUI and embodied navigation using a common visual-trajectory formulation. It combines trajectory collection, reinforcement learning and distance-aware rewards, with evaluation across both task families.",
+  "topics": [
+    "reinforcement-learning",
+    "data-generation",
+    "robustness"
+  ],
+  "updated_at": "2026-05-02",
+  "url": "https://arxiv.org/abs/2508.02046"
+}

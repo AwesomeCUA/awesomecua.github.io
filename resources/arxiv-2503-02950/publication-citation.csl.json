@@ -1,0 +1,101 @@
+{
+  "id": "arxiv:2503.02950:publication",
+  "citation-key": "arxiv_2503_02950_publication",
+  "type": "paper-conference",
+  "title": "LiteWebAgent: The Open-Source Suite for VLM-Based Web-Agent Applications",
+  "URL": "https://aclanthology.org/2025.naacl-demo.36/",
+  "custom": {
+    "catalog_id": "arxiv:2503.02950",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2503.02950",
+    "identifiers": {
+      "arxiv": "2503.02950"
+    },
+    "first_published_at": "2025-03-04",
+    "record_updated_at": "2025-05-06",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "df682f883bed5e0e9917074dfa130839fabaa318c55714f26943d944774854fe",
+      "submitted_at": "2025-03-04T19:13:10Z",
+      "updated_at": "2025-05-06T06:42:34Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2503.02950v2"
+    },
+    "publication": {
+      "authors": [
+        "Danqing Zhang",
+        "Balaji Rama",
+        "Jingyi Ni",
+        "Shiying He",
+        "Fu Zhao",
+        "Kunyu Chen",
+        "Arnold Chen",
+        "Junyu Cao"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        4
+      ],
+      "doi": "10.18653/v1/2025.naacl-demo.36",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.naacl-demo.36/"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+      "pages": "449-455",
+      "pdf_url": "https://aclanthology.org/2025.naacl-demo.36.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "LiteWebAgent: The Open-Source Suite for VLM-Based Web-Agent Applications",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.naacl-demo.36/",
+      "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (System Demonstrations)",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2025-04.",
+  "author": [
+    {
+      "literal": "Danqing Zhang"
+    },
+    {
+      "literal": "Balaji Rama"
+    },
+    {
+      "literal": "Jingyi Ni"
+    },
+    {
+      "literal": "Shiying He"
+    },
+    {
+      "literal": "Fu Zhao"
+    },
+    {
+      "literal": "Kunyu Chen"
+    },
+    {
+      "literal": "Arnold Chen"
+    },
+    {
+      "literal": "Junyu Cao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4
+      ]
+    ]
+  },
+  "DOI": "10.18653/v1/2025.naacl-demo.36",
+  "container-title": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (System Demonstrations)",
+  "publisher": "Association for Computational Linguistics",
+  "page": "449-455"
+}

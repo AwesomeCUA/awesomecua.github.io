@@ -12,6 +12,10 @@ Full source records: https://awesomecua.github.io/downloads/topics/cross-app/rec
   Introduces professional engineering tasks across software domains, with GUI and CLI access and artifact checks for geometric, physical, and design validity.
 - [MatToolBench: Benchmarking Multimodal Agents in Real-World Materials Science Workflows](https://awesomecua.github.io/resources/arxiv-2609-37053/) — 2026-09-29
   Introduces MatToolBench, a Windows-based materials-science benchmark combining GUI operation, scientific-software scripting, and database queries. Expert-defined subcriteria support partial-credit scoring, while the evaluation examines domain knowledge gaps and cross-tool handoff failures.
+- [JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition](https://awesomecua.github.io/resources/arxiv-2609-10451/) — 2026-09-09
+  JarvisGUI composes typed input-output task transformations into dynamic workflows spanning Android, Windows and Ubuntu devices. Its virtual-environment benchmark tests transfer of intermediate results, shared state and cross-device dependencies.
+- [CAP: A Scalable Benchmark for Evaluating Cross-Site Browser Agents with Complex Actions and Perception](https://awesomecua.github.io/resources/arxiv-2608-08392/) — 2026-08-09
+  CAP builds cross-site browser workflows by decomposing websites into operation and perception requirements and recomposing them into tasks. Its judge-based evaluation diagnoses complex interactions and visual-perception failures across real websites.
 - [Capable but Careless: Do Computer-Use Agents Follow Contextual Integrity?](https://awesomecua.github.io/resources/arxiv-2606-23189/) — 2026-06-22
   AgentCIBench evaluates whether computer-use agents disclose information in ways that violate its original context. Deterministically scored scenarios test nearby sensitive UI content, ambiguous requests and recipient mismatches, including end-to-end agent execution.
 - [MacAgentBench: Benchmarking AI Agents on Real-World macOS Desktop](https://awesomecua.github.io/resources/arxiv-2606-22557/) — 2026-06-21
@@ -83,16 +87,22 @@ Full source records: https://awesomecua.github.io/downloads/topics/cross-app/rec
   Cross-environment benchmark framework for multimodal agents.
 - [iOSWorld](https://awesomecua.github.io/resources/github-ljang0-iosworld/) — Date not recorded
   Native iPhone-simulator benchmark with shared user data, application workflows, agent runners, and rubric-based scoring.
+- [Mobile-Eval-E task definitions](https://awesomecua.github.io/resources/url-342b081c3668a8bbe155/) — Date not recorded
+  Task definitions for Mobile-Agent-E’s long-horizon, multi-app Android evaluation, packaged as a 25-record test split with rubrics and human-reference operation strings.
 - [MobileGUI-VBench](https://awesomecua.github.io/resources/url-d7a4f34a6a5202af5f64/) — Date not recorded
   Mobile-app task definitions covering everyday scenarios, with annotated preconditions and clarification requirements for evaluating agent behavior.
 - [MobileGym++ / MobileGym++ Bench](https://awesomecua.github.io/resources/github-openmobile2-mobilegym-plusplus/) — Date not recorded
   Browser-rendered mobile simulation with resettable app state and a shared task suite for GUI-only and GUI-plus-tool agents.
+- [OpenApps](https://awesomecua.github.io/resources/github-facebookresearch-openapps/) — Date not recorded
+  Configurable browser apps and task rewards for testing computer-use agents under changes in content, layout and appearance.
 - [OS-Map](https://awesomecua.github.io/resources/github-os-copilot-os-map/) — Date not recorded
   An OSWorld-derived desktop benchmark with an Ubuntu virtual-machine environment and expanded task configurations for measuring breadth and depth of computer interaction.
 - [OSWorld](https://awesomecua.github.io/resources/github-xlang-ai-osworld/) — Date not recorded
   Execution-based evaluation of agents performing tasks in real desktop environments.
 - [TheAgentCompany](https://awesomecua.github.io/resources/github-theagentcompany-theagentcompany/) — Date not recorded
   Self-contained workplace environment for evaluating agents on professional tasks involving websites, files, code, and simulated coworkers.
+- [WindowsAgentArena-V2](https://awesomecua.github.io/resources/github-gair-nlp-windowsagentarena-v2/) — Date not recorded
+  Windows benchmark revision with task/evaluator fixes and VM-initialization support, documented alongside PC-Agent-E.
 - [WindowsWorld](https://awesomecua.github.io/resources/github-hitsz-tmg-windowsworld/) — Date not recorded
   Cross-application Windows benchmark with intermediate task evaluation.
 
@@ -109,5 +119,7 @@ Full source records: https://awesomecua.github.io/downloads/topics/cross-app/rec
   A desktop trajectory-generation framework that moves from stochastic GUI exploration to inferred goals and multi-stage task completion, with retrospective reasoning annotations.
 - [PC-Agent](https://awesomecua.github.io/resources/github-gair-nlp-pc-agent/) — Date not recorded
   Human-cognition-transfer framework for PC agents: PC Tracker logs human computer use, cognition completion turns logs into cognitive trajectories, and a planner works with a grounding agent.
+- [PC-Agent (X-PLUG component)](https://awesomecua.github.io/resources/component-x-plug-mobileagent-pc-agent/) — Date not recorded
+  Multi-agent desktop automation component for Windows and macOS, combining active perception, task decomposition and reflection for workflows spanning applications.
 - [UFO](https://awesomecua.github.io/resources/github-microsoft-ufo/) — Date not recorded
   Windows agent framework for application and desktop automation.

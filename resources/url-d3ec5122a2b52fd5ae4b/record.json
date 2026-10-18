@@ -30,11 +30,7 @@
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/OS-Copilot/OS-Genesis-mobile-data/tree/main",
     "gated": false,
-    "hub_id": "OS-Copilot/OS-Genesis-mobile-data",
-    "languages": [],
-    "modalities": [],
-    "sample_count": null,
-    "sample_unit": null
+    "hub_id": "OS-Copilot/OS-Genesis-mobile-data"
   },
   "environments": [
     "android"

@@ -29,3 +29,6 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://huggingface.co/api/models/microsoft/Fara-7b (retrieved 2026-10-16T06:50:49Z; SHA-256 92bfa3c1f34e7e76a35f72389a3b3dd9fdab5fcff0569c9fc8aabe331c703f07)
 - https://huggingface.co/api/models/microsoft/Fara-7b (retrieved 2026-10-16T06:50:49Z; SHA-256 92bfa3c1f34e7e76a35f72389a3b3dd9fdab5fcff0569c9fc8aabe331c703f07)
+- https://huggingface.co/api/models/microsoft/Fara-7B (retrieved 2026-10-17T19:14:59Z; SHA-256 cd1f83cd2ebf30d45501d1a31ecbe3bcb2039928d580c750733d2edb49916398)
+- https://huggingface.co/api/models/microsoft/Fara-7b (retrieved 2026-10-17T19:15:00Z; SHA-256 cd1f83cd2ebf30d45501d1a31ecbe3bcb2039928d580c750733d2edb49916398)
+- https://huggingface.co/api/models/microsoft/fara-7b (retrieved 2026-10-17T19:15:01Z; SHA-256 cd1f83cd2ebf30d45501d1a31ecbe3bcb2039928d580c750733d2edb49916398)

@@ -1,0 +1,112 @@
+{
+  "id": "arxiv:2312.08914:publication",
+  "citation-key": "arxiv_2312_08914_publication",
+  "type": "paper-conference",
+  "title": "CogAgent: A Visual Language Model for GUI Agents",
+  "URL": "https://openaccess.thecvf.com/content/CVPR2024/html/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.html",
+  "custom": {
+    "catalog_id": "arxiv:2312.08914",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2312.08914",
+    "identifiers": {
+      "arxiv": "2312.08914"
+    },
+    "first_published_at": "2023-12-14",
+    "record_updated_at": "2024-12-27",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "755198d83a3af9fe6d032f1446ec9bf57bf7e6f314d37787ce8a6aaa16bddc47",
+      "submitted_at": "2023-12-14T13:20:57Z",
+      "updated_at": "2024-12-27T06:56:18Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2312.08914v3"
+    },
+    "publication": {
+      "authors": [
+        "Wenyi Hong",
+        "Weihan Wang",
+        "Qingsong Lv",
+        "Jiazheng Xu",
+        "Wenmeng Yu",
+        "Junhui Ji",
+        "Yan Wang",
+        "Zihan Wang",
+        "Yuxiao Dong",
+        "Ming Ding",
+        "Jie Tang"
+      ],
+      "date_basis": "Year from publisher citation metadata and month from the same page's embedded BibTeX; no day is supplied.",
+      "date_parts": [
+        2024,
+        6
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://openaccess.thecvf.com/content/CVPR2024/html/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.html",
+        "https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.pdf"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher page directly links this arXiv identifier. The publisher PDF title and complete first-page author list were visually checked.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. The publisher PDF, page 1, and landing page list eleven authors; the retained arXiv snapshot lists fourteen. Each edition retains its own authors.",
+      "pages": "14281-14290",
+      "pdf_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "CogAgent: A Visual Language Model for GUI Agents",
+      "type": "conference-paper",
+      "url": "https://openaccess.thecvf.com/content/CVPR2024/html/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.html",
+      "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2024-06.",
+  "author": [
+    {
+      "literal": "Wenyi Hong"
+    },
+    {
+      "literal": "Weihan Wang"
+    },
+    {
+      "literal": "Qingsong Lv"
+    },
+    {
+      "literal": "Jiazheng Xu"
+    },
+    {
+      "literal": "Wenmeng Yu"
+    },
+    {
+      "literal": "Junhui Ji"
+    },
+    {
+      "literal": "Yan Wang"
+    },
+    {
+      "literal": "Zihan Wang"
+    },
+    {
+      "literal": "Yuxiao Dong"
+    },
+    {
+      "literal": "Ming Ding"
+    },
+    {
+      "literal": "Jie Tang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        6
+      ]
+    ]
+  },
+  "container-title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+  "page": "14281-14290"
+}

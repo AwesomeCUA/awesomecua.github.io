@@ -14,6 +14,8 @@ git rev-parse HEAD
 
 Find public exports in the [English data hub](https://awesomecua.github.io/data/) or [中文数据中心](https://awesomecua.github.io/zh/data/). Both organize the published snapshot into six groups: complete catalog, RAG documents, citations, topics and comparisons, sources and review status, and schemas. Cloning remains the entry point to the complete source catalog.
 
+For repeatable ingestion, use a [tagged data release](https://github.com/reacher-z/Awesome-CUA/releases). `awesomecua-data.zip` packages the catalog, RAG documents, citations, topic subsets and their manifests together. Verify `SHA256SUMS` and retain `release-manifest.json`, the source commit and the catalog fingerprint. The ZIP contains data; the CLI commands in this guide require a source clone at that recorded commit.
+
 Read the [download manifest](https://awesomecua.github.io/downloads/manifest.json) to select an artifact by `path`, `format`, and `scope`. Each listed export records its actual `count.value` and `count.unit`, exact `bytes`, and `sha256`. Resource, document, citation, archive, and topic counts have different or overlapping populations; do not add them together. Verify the downloaded bytes and compare `catalog_sha256` with the RAG, citation, and topic manifests before combining snapshots. The [manifest schema](https://awesomecua.github.io/schemas/download-manifest.schema.json) defines the fields.
 
 ## Search before reading the whole catalog
@@ -48,7 +50,7 @@ python3 scripts/catalog.py get github:mnotgod96/appagent --json
 python3 scripts/catalog.py search "https://github.com/mnotgod96/AppAgent" --json
 ```
 
-Use the returned `id` for citations and upserts; a former name is not another resource. [Repository identity observations](https://awesomecua.github.io/downloads/repository-aliases.json) retain paired official API receipts and the same numeric repository ID. They describe the recorded snapshot, not release completeness or licensing. Aliases and their scoped evidence also travel with the catalog and RAG documents. Raw discovery occurrences and mention edges retain their original identifiers.
+Use the returned `id` for citations and upserts; a former name is not another resource. [Repository identity observations](https://awesomecua.github.io/downloads/repository-aliases.json) retain paired official API receipts and the same GitHub or Hugging Face repository ID. They describe the recorded snapshot, not release completeness or licensing. Aliases and their scoped evidence also travel with the catalog and RAG documents. Raw discovery occurrences and mention edges retain their original identifiers.
 
 Each resource page also serves its exact active record at `record.json`, for example <https://awesomecua.github.io/resources/arxiv-2404-07972/record.json>. A scope-excluded page returns an explicit `status: excluded` JSON decision instead. These are static files; inspect the JSON status/review fields rather than treating HTTP 200 as approval.
 

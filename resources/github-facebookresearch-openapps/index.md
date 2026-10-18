@@ -1,0 +1,52 @@
+# OpenApps
+
+Configurable browser apps and task rewards for testing computer-use agents under changes in content, layout and appearance.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-facebookresearch-openapps/
+- Original source: https://github.com/facebookresearch/OpenApps
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, robustness, cross-app, sandbox
+- Evidence checked: 2026-10-18T04:35:18Z
+- ID: github:facebookresearch/openapps
+
+## Limitations
+
+Public code includes app/task/configuration and agent-launching implementations. README distinguishes moving main from v1.0-paper and explicitly says even that tag is not a byte-exact snapshot of the published runs. CC-BY-NC-4.0 is the repository’s declared code license; third-party WebShop, map and icon content retain separate terms. No commercial-use permission or fixed downloadable task total is inferred.
+
+- Record JSON: https://awesomecua.github.io/resources/github-facebookresearch-openapps/record.json
+
+## Structured profile
+
+- actions: click, type, scroll, configured BrowserGym/AgentLab actions
+- evaluation: Tasks define check_if_task_is_complete(initial_state,current_state); app-specific reward logic evaluates underlying state, with custom checks for code-editor file contents. Observation/history flags are configurable. No universal single fixed task total or published-run reproduction is implied.
+- focus: UI-agent reliability under environment variation, state-based browser task evaluation
+- observations: screenshots, accessibility trees, set-of-marks and coordinates (configurable)
+- setting: interactive
+
+### Count observations
+
+No count recorded.
+
+Preserve the code/tag, app state, theme/layout/content choices, goal variant and action/observation configuration. Current main refactors the paper-era appearance surface, and the v1.0-paper tag includes post-publication fixes that may move rewards. The environments run as browser apps; phone/tablet viewports are not native Android/iOS environments.
+
+## License declarations
+
+- code: CC-BY-NC-4.0 — https://raw.githubusercontent.com/facebookresearch/OpenApps/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: Reviewed repository license declaration for code; third-party dependencies, data, weights and executable environment images are separate.
+  Sources: https://raw.githubusercontent.com/facebookresearch/OpenApps/HEAD/LICENSE
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/facebookresearch/OpenApps/HEAD/README.md (retrieved 2026-10-18T04:35:18Z; SHA-256 1df0f66584b37e7dba90811a7732d3b0c13c96cd7da4aec3970a18be36a6cec1)
+- https://api.github.com/repos/facebookresearch/OpenApps (retrieved 2026-10-18T04:33:19Z; SHA-256 2c57b627cb344e360480c10e74dcdd1d1ed321d9a7a4e3891bc970355b15f4cd)
+- https://api.github.com/repos/facebookresearch/OpenApps/git/trees/main?recursive=1 (retrieved 2026-10-18T04:35:18Z; SHA-256 34aa76fbd6cca6ac2f3949792144662b90d85d7a18988afabcb570167ea5c1d6)
+- https://raw.githubusercontent.com/facebookresearch/OpenApps/HEAD/docs/tasks.md (retrieved 2026-10-18T04:40:40Z; SHA-256 af030b93a7604c063b08f003b0a0124a6e95e560649d0306bfe40dd87fed563d)
+- https://raw.githubusercontent.com/facebookresearch/OpenApps/HEAD/docs/agents.md (retrieved 2026-10-18T04:40:40Z; SHA-256 aede4dfd965bd3484336f40ddb1bd6db48aed00ab45e27c048b76cc4601d71b3)
+- https://raw.githubusercontent.com/facebookresearch/OpenApps/HEAD/LICENSE (retrieved 2026-10-18T04:35:20Z; SHA-256 336255dc30193e8e15d689d9481bb05673d89055718f3a96923a7ffb99adbbaf)

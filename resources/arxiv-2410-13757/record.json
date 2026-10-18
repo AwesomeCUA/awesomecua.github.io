@@ -26,6 +26,48 @@
       "updated_at": "2025-05-13T06:25:09Z",
       "version": 3,
       "versioned_url": "https://arxiv.org/abs/2410.13757v3"
+    },
+    "publication": {
+      "authors": [
+        "Zichen Zhu",
+        "Hao Tang",
+        "Yansi Li",
+        "Dingye Liu",
+        "Hongshen Xu",
+        "Kunyao Lan",
+        "Danyang Zhang",
+        "Yixuan Jiang",
+        "Hao Zhou",
+        "Chenrun Wang",
+        "Situo Zhang",
+        "Liangtai Sun",
+        "Yixiao Wang",
+        "Yuheng Sun",
+        "Lu Chen",
+        "Kai Yu"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        4
+      ],
+      "doi": "10.18653/v1/2025.naacl-demo.43",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.naacl-demo.43/"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+      "pages": "535-549",
+      "pdf_url": "https://aclanthology.org/2025.naacl-demo.43.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "MobA: Multifaceted Memory-Enhanced Adaptive Planning for Efficient Mobile Task Automation",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.naacl-demo.43/",
+      "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (System Demonstrations)",
+      "volume": null
     }
   },
   "environments": [
@@ -46,6 +88,28 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=2410.00467%2C2410.00689%2C2410.02810%2C2410.02907%2C2410.05243%2C2410.06703%2C2410.08164%2C2410.09006%2C2410.09024%2C2410.11843%2C2410.11871%2C2410.11872%2C2410.13232%2C2410.13757%2C2410.13824%2C2410.13825%2C2410.13886%2C2410.14803%2C2410.15164%2C2410.16464%2C2410.17236%2C2410.17401%2C2410.17520%2C2410.17883%2C2410.18603%2C2410.18963%2C2410.18967%2C2410.19054%2C2410.19100%2C2410.19461%2C2410.19609%2C2410.20745%2C2410.22552%2C2410.23218%2C2410.24024%2C2411.00820%2C2411.02337%2C2411.02391%2C2411.04468%2C2411.04890%2C2411.06559%2C2411.07618%2C2411.10323%2C2411.13451%2C2411.13591%2C2411.15004%2C2411.17465%2C2411.18279%2C2412.00402%2C2412.01268&max_results=50"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:09:53Z",
+      "role": "primary",
+      "sha256": "a873b34264be14f64599c0897219ff2796ab74d111df8a2fdc667fd22ad87028",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.doi",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.pdf_url",
+        "details.publication.publisher",
+        "details.publication.title",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue"
+      ],
+      "url": "https://aclanthology.org/2025.naacl-demo.43/"
     },
     {
       "method": "editorial_primary_review",
@@ -80,6 +144,14 @@
     {
       "rel": "primary",
       "url": "https://arxiv.org/abs/2410.13757"
+    },
+    {
+      "rel": "publication",
+      "url": "https://aclanthology.org/2025.naacl-demo.43/"
+    },
+    {
+      "rel": "publication_pdf",
+      "url": "https://aclanthology.org/2025.naacl-demo.43.pdf"
     }
   ],
   "name": "MobA: Multifaceted Memory-Enhanced Adaptive Planning for Efficient Mobile Task Automation",

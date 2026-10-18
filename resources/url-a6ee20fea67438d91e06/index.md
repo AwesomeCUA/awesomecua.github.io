@@ -31,3 +31,5 @@ The official Hub API resolves the former THUDM namespace to zai-org. Seven safet
 - https://huggingface.co/api/models/zai-org/webrl-llama-3.1-8b (retrieved 2026-10-17T02:05:40Z; SHA-256 6523b7f198d8debec2f3074190812955c6251590b61f8a6ea1bbb681b8ea128f)
 - https://huggingface.co/api/models/THUDM/webrl-llama-3.1-8b (retrieved 2026-10-17T02:02:28Z; SHA-256 6523b7f198d8debec2f3074190812955c6251590b61f8a6ea1bbb681b8ea128f)
 - https://huggingface.co/zai-org/webrl-llama-3.1-8b/raw/main/README.md (retrieved 2026-10-17T02:05:40Z; SHA-256 4712446382f106a115a317d0ec6273a975545386b9cedf56946a96a56479dc9f)
+- https://huggingface.co/api/models/THUDM/webrl-llama-3.1-8b (retrieved 2026-10-17T19:15:06Z; SHA-256 96621f060dddec91453d8c2b451b3793a34b34810d82c7cd13ce4cb05ca90a76)
+- https://huggingface.co/api/models/zai-org/webrl-llama-3.1-8b (retrieved 2026-10-17T19:15:06Z; SHA-256 96621f060dddec91453d8c2b451b3793a34b34810d82c7cd13ce4cb05ca90a76)

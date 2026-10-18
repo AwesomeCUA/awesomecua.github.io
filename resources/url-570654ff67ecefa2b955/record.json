@@ -78,8 +78,6 @@
         "video-derived scene and action annotations"
       ]
     },
-    "download_url": null,
-    "languages": [],
     "license_review": {
       "data": {
         "evidence_urls": [
@@ -90,10 +88,7 @@
         "reason": "No dataset-license declaration in the inspected card; Apache-2.0 applies to companion code and is not transferred to YouTube content or this annotation package."
       }
     },
-    "modalities": [],
-    "release_revision": "d7bd929cf629bf0767f154cbdd984eea1eba01e9",
-    "sample_count": null,
-    "sample_unit": null
+    "release_revision": "d7bd929cf629bf0767f154cbdd984eea1eba01e9"
   },
   "environments": [
     "android",

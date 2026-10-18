@@ -1,0 +1,101 @@
+{
+  "id": "arxiv:2410.19609:publication",
+  "citation-key": "arxiv_2410_19609_publication",
+  "type": "paper-conference",
+  "title": "OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization",
+  "URL": "https://aclanthology.org/2025.acl-long.1336/",
+  "custom": {
+    "catalog_id": "arxiv:2410.19609",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.19609",
+    "identifiers": {
+      "arxiv": "2410.19609"
+    },
+    "first_published_at": "2024-10-25",
+    "record_updated_at": "2024-10-25",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "db2a115281f831ea9333a03fc2a9ebb2f09528eb082060f00a33b125f9ef7762",
+      "submitted_at": "2024-10-25T15:01:27Z",
+      "updated_at": "2024-10-25T15:01:27Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2410.19609v1"
+    },
+    "publication": {
+      "authors": [
+        "Hongliang He",
+        "Wenlin Yao",
+        "Kaixin Ma",
+        "Wenhao Yu",
+        "Hongming Zhang",
+        "Tianqing Fang",
+        "Zhenzhong Lan",
+        "Dong Yu"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        7
+      ],
+      "doi": "10.18653/v1/2025.acl-long.1336",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.acl-long.1336/"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+      "pages": "27545-27564",
+      "pdf_url": "https://aclanthology.org/2025.acl-long.1336.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.acl-long.1336/",
+      "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2025-07.",
+  "author": [
+    {
+      "literal": "Hongliang He"
+    },
+    {
+      "literal": "Wenlin Yao"
+    },
+    {
+      "literal": "Kaixin Ma"
+    },
+    {
+      "literal": "Wenhao Yu"
+    },
+    {
+      "literal": "Hongming Zhang"
+    },
+    {
+      "literal": "Tianqing Fang"
+    },
+    {
+      "literal": "Zhenzhong Lan"
+    },
+    {
+      "literal": "Dong Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.18653/v1/2025.acl-long.1336",
+  "container-title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "publisher": "Association for Computational Linguistics",
+  "page": "27545-27564"
+}

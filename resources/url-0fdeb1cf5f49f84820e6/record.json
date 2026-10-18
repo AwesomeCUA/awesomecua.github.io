@@ -53,8 +53,6 @@
     "hub_id": "OS-Copilot/OS-Atlas-data",
     "languages": [],
     "modalities": [],
-    "sample_count": null,
-    "sample_unit": null,
     "size_category_reported": null
   },
   "environments": [

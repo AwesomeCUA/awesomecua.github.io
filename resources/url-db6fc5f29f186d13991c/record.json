@@ -1,0 +1,106 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "disabled": false,
+    "download_url": "https://huggingface.co/Fanbin/ARPO_UITARS1.5_7B/tree/2c5604d86c529843ef346698edcf33b170c1e817",
+    "gated": false,
+    "hub_id": "Fanbin/ARPO_UITARS1.5_7B",
+    "hub_revision": "2c5604d86c529843ef346698edcf33b170c1e817",
+    "license_review": {
+      "weights": {
+        "evidence_urls": [
+          "https://huggingface.co/Fanbin/ARPO_UITARS1.5_7B/raw/2c5604d86c529843ef346698edcf33b170c1e817/README.md"
+        ],
+        "reason": "The inspected model card contains no checkpoint-license declaration. The code repository Apache license is not transferred to weights."
+      }
+    },
+    "repository_url": "https://github.com/JIA-Lab-research/ARPO"
+  },
+  "environments": [
+    "desktop",
+    "linux"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:27:12Z",
+      "role": "primary",
+      "sha256": "839b2de0e0c614fe8d2df4782d0f6a6e7d33f5c60d8020c9d4a01c61d533f39e",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/JIA-Lab-research/ARPO/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:33:21Z",
+      "role": "primary",
+      "sha256": "6e19a5339c4e52ca3753cce26ac2034883b96f5cb26383a4b41bc87a5fbf5bf6",
+      "supports": [
+        "identity",
+        "release_status",
+        "details.hub_id",
+        "details.hub_revision",
+        "details.gated",
+        "details.disabled",
+        "details.download_url"
+      ],
+      "url": "https://huggingface.co/api/models/Fanbin/ARPO_UITARS1.5_7B"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:35:16Z",
+      "role": "primary",
+      "sha256": "b6957fad37a7995e9dde4c7d4a4e0f6e2153b85354b2d234587c2a94ff95d0bd",
+      "supports": [
+        "summary",
+        "notes",
+        "licenses.weights"
+      ],
+      "url": "https://huggingface.co/Fanbin/ARPO_UITARS1.5_7B/raw/2c5604d86c529843ef346698edcf33b170c1e817/README.md"
+    }
+  ],
+  "id": "url:db6fc5f29f186d13991c",
+  "identifiers": {},
+  "kind": "model",
+  "last_verified_at": "2026-10-18T04:27:12Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/Fanbin/ARPO_UITARS1.5_7B"
+    }
+  ],
+  "name": "ARPO UI-TARS-1.5-7B checkpoint",
+  "notes": "The public Hub manifest lists four Safetensors shards, an index and configuration/tokenizer files. The model card reports a 15-step evaluation setting; no performance result is independently reproduced. No weight license is declared, despite Apache-2.0 being established for the separate code repository.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/JIA-Lab-research/ARPO/HEAD/README.md",
+      "target_id": "arxiv:2505.16282",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "UI-TARS-1.5-7B-derived checkpoint trained with ARPO on OSWorld desktop tasks.",
+  "topics": [
+    "reinforcement-learning",
+    "action-prediction"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/Fanbin/ARPO_UITARS1.5_7B"
+}

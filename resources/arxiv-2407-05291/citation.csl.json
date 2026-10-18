@@ -22,7 +22,44 @@
       "updated_at": "2025-02-05T21:50:07Z",
       "version": 2,
       "versioned_url": "https://arxiv.org/abs/2407.05291v2"
-    }
+    },
+    "publication": {
+      "authors": [
+        "Léo Boisvert",
+        "Megh Thakkar",
+        "Maxime Gasse",
+        "Massimo Caccia",
+        "Thibault L. De Chezelles",
+        "Quentin Cappart",
+        "Nicolas Chapados",
+        "Alexandre Lacoste",
+        "Alexandre Drouin"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2024,
+        12,
+        16
+      ],
+      "doi": "10.52202/079017-0195",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://proceedings.neurips.cc/paper_files/paper/2024/hash/0b82662b6c32e887bb252a74d8cb2d5e-Abstract-Datasets_and_Benchmarks_Track.html"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+      "pages": "5996-6051",
+      "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/0b82662b6c32e887bb252a74d8cb2d5e-Paper-Datasets_and_Benchmarks_Track.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks",
+      "type": "conference-paper",
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/0b82662b6c32e887bb252a74d8cb2d5e-Abstract-Datasets_and_Benchmarks_Track.html",
+      "venue": "Advances in Neural Information Processing Systems",
+      "volume": "37"
+    },
+    "citation_edition": "record"
   },
   "note": "First published: 2024-07-07; Recorded arXiv version: v2; Recorded version updated: 2025-02-05T21:50:07Z.",
   "author": [

@@ -64,8 +64,6 @@
       ],
       "setting": "interactive"
     },
-    "evaluation_type": null,
-    "leaderboard_url": null,
     "license_review": {
       "code": {
         "evidence_urls": [
@@ -80,10 +78,8 @@
         "reason": "Limited to maintainers’ dataset compilation/curation and authored synthetic content; third-party user content remains subject to platform terms and its authors’ rights."
       }
     },
-    "metrics": [],
     "release_tag": "v0.1.0",
-    "repository_revision": "5fbd3f34be0e9780ae4b1e9d5089963ddbd05d38",
-    "task_count": null
+    "repository_revision": "5fbd3f34be0e9780ae4b1e9d5089963ddbd05d38"
   },
   "environments": [
     "web"

@@ -35,10 +35,7 @@
       "observations": [],
       "setting": "interactive"
     },
-    "evaluation_type": null,
-    "leaderboard_url": null,
-    "metrics": [],
-    "task_count": null
+    "leaderboard_url": "https://huggingface.co/spaces/osunlp/Online_Mind2Web_Leaderboard"
   },
   "environments": [
     "web"
@@ -57,7 +54,8 @@
         "topics",
         "scope",
         "relations",
-        "details.benchmark_protocol"
+        "details.benchmark_protocol",
+        "details.leaderboard_url"
       ],
       "url": "https://raw.githubusercontent.com/OSU-NLP-Group/Online-Mind2Web/HEAD/README.md"
     },

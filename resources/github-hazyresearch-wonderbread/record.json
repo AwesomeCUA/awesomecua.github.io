@@ -64,8 +64,6 @@
       "setting": "offline"
     },
     "dataset_release": "10.5281/zenodo.14094162",
-    "evaluation_type": null,
-    "leaderboard_url": null,
     "license_review": {
       "data": {
         "evidence_urls": [
@@ -74,9 +72,7 @@
         "reason": "The linked Zenodo dataset release declares CC-BY-4.0; this does not assign a code license to the repository."
       }
     },
-    "metrics": [],
-    "repository_revision": "ed052c67aeada04167cdfe92ff8de454aa94627a",
-    "task_count": null
+    "repository_revision": "ed052c67aeada04167cdfe92ff8de454aa94627a"
   },
   "environments": [
     "web"

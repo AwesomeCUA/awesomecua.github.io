@@ -1,0 +1,111 @@
+{
+  "id": "arxiv:2409.15637:publication",
+  "citation-key": "arxiv_2409_15637_publication",
+  "type": "paper-conference",
+  "title": "Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale",
+  "URL": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/a6a6891cf1dfc64d664f086cf5976e93-Abstract-Conference.html",
+  "custom": {
+    "catalog_id": "arxiv:2409.15637",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2409.15637",
+    "identifiers": {
+      "arxiv": "2409.15637"
+    },
+    "first_published_at": "2024-09-24",
+    "record_updated_at": "2024-11-27",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6c19b869b10f0b4c985b88b032f78e0e72f83e7ca8d9f346417054cd2a9002e3",
+      "submitted_at": "2024-09-24T00:51:45Z",
+      "updated_at": "2024-11-27T16:34:52Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2409.15637v2"
+    },
+    "publication": {
+      "authors": [
+        "Tianyue Ou",
+        "Frank F. Xu",
+        "Aman Madaan",
+        "Jiarui Liu",
+        "Robert Lo",
+        "Abishek Sridhar",
+        "Sudipta Sengupta",
+        "Dan Roth",
+        "Graham Neubig",
+        "Shuyan Zhou"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2024,
+        12,
+        16
+      ],
+      "doi": "10.52202/079017-2908",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://proceedings.neurips.cc/paper_files/paper/2024/hash/a6a6891cf1dfc64d664f086cf5976e93-Abstract-Conference.html"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+      "pages": "91618-91652",
+      "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/a6a6891cf1dfc64d664f086cf5976e93-Paper-Conference.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale",
+      "type": "conference-paper",
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/a6a6891cf1dfc64d664f086cf5976e93-Abstract-Conference.html",
+      "venue": "Advances in Neural Information Processing Systems",
+      "volume": "37"
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2024-12-16.",
+  "author": [
+    {
+      "literal": "Tianyue Ou"
+    },
+    {
+      "literal": "Frank F. Xu"
+    },
+    {
+      "literal": "Aman Madaan"
+    },
+    {
+      "literal": "Jiarui Liu"
+    },
+    {
+      "literal": "Robert Lo"
+    },
+    {
+      "literal": "Abishek Sridhar"
+    },
+    {
+      "literal": "Sudipta Sengupta"
+    },
+    {
+      "literal": "Dan Roth"
+    },
+    {
+      "literal": "Graham Neubig"
+    },
+    {
+      "literal": "Shuyan Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        16
+      ]
+    ]
+  },
+  "DOI": "10.52202/079017-2908",
+  "container-title": "Advances in Neural Information Processing Systems",
+  "volume": "37",
+  "page": "91618-91652"
+}

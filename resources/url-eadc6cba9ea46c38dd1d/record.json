@@ -21,13 +21,10 @@
       ]
     },
     "download_url": "https://huggingface.co/datasets/osunlp/Dreamer-V1-Data/tree/main",
-    "languages": [],
     "modalities": [
       "image",
       "text"
-    ],
-    "sample_count": null,
-    "sample_unit": null
+    ]
   },
   "environments": [
     "web"

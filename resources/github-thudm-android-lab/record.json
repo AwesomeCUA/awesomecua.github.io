@@ -41,7 +41,7 @@
       "setting": "interactive"
     },
     "evaluation_type": "benchmark task evaluation",
-    "leaderboard_url": null,
+    "leaderboard_url": "https://docs.google.com/spreadsheets/d/1Zv6mBfd4Ibt8mke24K6zAFrXe4AvEFaBLW3hpJqSgjw/edit?gid=0#gid=0",
     "metrics": [
       "task success"
     ],

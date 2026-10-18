@@ -32,12 +32,8 @@
     },
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/Hcompany/WebClick/tree/main",
-    "evaluation_type": null,
     "gated": false,
-    "hub_id": "Hcompany/WebClick",
-    "leaderboard_url": null,
-    "metrics": [],
-    "task_count": null
+    "hub_id": "Hcompany/WebClick"
   },
   "environments": [
     "web"

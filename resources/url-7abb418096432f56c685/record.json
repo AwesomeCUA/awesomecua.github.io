@@ -1,5 +1,9 @@
 {
-  "aliases": [],
+  "aliases": [
+    "url:f4bcd696942ee04dcc42",
+    "bevaya/ScreenSpot",
+    "https://huggingface.co/datasets/bevaya/ScreenSpot"
+  ],
   "authors": [],
   "details": {
     "benchmark_protocol": {
@@ -34,20 +38,16 @@
     },
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/rootsautomation/ScreenSpot/tree/main",
-    "evaluation_type": null,
     "gated": false,
     "hub_id": "bevaya/ScreenSpot",
     "languages": [
       "en"
     ],
-    "leaderboard_url": null,
-    "metrics": [],
     "modalities": [
       "image",
       "text"
     ],
-    "size_category_reported": null,
-    "task_count": null
+    "size_category_reported": null
   },
   "environments": [
     "cross-platform"
@@ -98,6 +98,26 @@
       "supports": [
         "details",
         "licenses.data"
+      ],
+      "url": "https://huggingface.co/api/datasets/rootsautomation/ScreenSpot"
+    },
+    {
+      "method": "huggingface_repository_identity",
+      "retrieved_at": "2026-10-17T19:14:56Z",
+      "role": "primary",
+      "sha256": "af0c4babeff84158ff196b54bf47242923bbf502d2805a1dd4eb52dba44be89c",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://huggingface.co/api/datasets/bevaya/ScreenSpot"
+    },
+    {
+      "method": "huggingface_repository_identity",
+      "retrieved_at": "2026-10-17T19:14:56Z",
+      "role": "primary",
+      "sha256": "af0c4babeff84158ff196b54bf47242923bbf502d2805a1dd4eb52dba44be89c",
+      "supports": [
+        "aliases"
       ],
       "url": "https://huggingface.co/api/datasets/rootsautomation/ScreenSpot"
     }

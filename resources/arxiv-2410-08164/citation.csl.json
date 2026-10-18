@@ -22,7 +22,41 @@
       "updated_at": "2024-10-10T17:43:51Z",
       "version": 1,
       "versioned_url": "https://arxiv.org/abs/2410.08164v1"
-    }
+    },
+    "publication": {
+      "authors": [
+        "Saaket Agashe",
+        "Jiuzhou Han",
+        "Shuyu Gan",
+        "Jiachen Yang",
+        "Ang Li",
+        "Xin Wang"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        5,
+        1
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://proceedings.iclr.cc/paper_files/paper/2025/hash/394c7c30ea87b5c3521b4d9e9d419071-Abstract-Conference.html"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+      "pages": "22924-22946",
+      "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/394c7c30ea87b5c3521b4d9e9d419071-Paper-Conference.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "Agent S: An Open Agentic Framework that Uses Computers Like a Human",
+      "type": "conference-paper",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/394c7c30ea87b5c3521b4d9e9d419071-Abstract-Conference.html",
+      "venue": "International Conference on Learning Representations",
+      "volume": "2025"
+    },
+    "citation_edition": "record"
   },
   "note": "First published: 2024-10-10; Recorded arXiv version: v1; Recorded version updated: 2024-10-10T17:43:51Z.",
   "author": [

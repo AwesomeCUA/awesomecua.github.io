@@ -1,0 +1,106 @@
+{
+  "id": "arxiv:2409.14818:publication",
+  "citation-key": "arxiv_2409_14818_publication",
+  "type": "paper-conference",
+  "title": "MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding",
+  "URL": "https://aclanthology.org/2024.findings-emnlp.599/",
+  "custom": {
+    "catalog_id": "arxiv:2409.14818",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2409.14818",
+    "identifiers": {
+      "arxiv": "2409.14818"
+    },
+    "first_published_at": "2024-09-23",
+    "record_updated_at": "2024-10-03",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cc22337ef29946dffcf7149df1008fd6cf02350c68d21ec0386e6485f5a14ebf",
+      "submitted_at": "2024-09-23T08:47:54Z",
+      "updated_at": "2024-10-03T05:23:22Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2409.14818v2"
+    },
+    "publication": {
+      "authors": [
+        "Qinzhuo Wu",
+        "Weikai Xu",
+        "Wei Liu",
+        "Tao Tan",
+        "Jianfeng Liu",
+        "Ang Li",
+        "Jian Luan",
+        "Bin Wang",
+        "Shuo Shang"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2024,
+        11
+      ],
+      "doi": "10.18653/v1/2024.findings-emnlp.599",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2024.findings-emnlp.599/",
+        "https://aclanthology.org/2024.findings-emnlp.599.pdf"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256. The publisher PDF title and complete first-page author list were visually checked.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. Authors follow the publisher PDF, page 1. The landing page and its BibTeX list the fifth author as Liujian Liujianfeng; the PDF names Jianfeng Liu.",
+      "pages": "10231-10251",
+      "pdf_url": "https://aclanthology.org/2024.findings-emnlp.599.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2024.findings-emnlp.599/",
+      "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2024-11.",
+  "author": [
+    {
+      "literal": "Qinzhuo Wu"
+    },
+    {
+      "literal": "Weikai Xu"
+    },
+    {
+      "literal": "Wei Liu"
+    },
+    {
+      "literal": "Tao Tan"
+    },
+    {
+      "literal": "Jianfeng Liu"
+    },
+    {
+      "literal": "Ang Li"
+    },
+    {
+      "literal": "Jian Luan"
+    },
+    {
+      "literal": "Bin Wang"
+    },
+    {
+      "literal": "Shuo Shang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11
+      ]
+    ]
+  },
+  "DOI": "10.18653/v1/2024.findings-emnlp.599",
+  "container-title": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+  "publisher": "Association for Computational Linguistics",
+  "page": "10231-10251"
+}

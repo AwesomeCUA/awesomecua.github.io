@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2506.02839",
+  "citation-key": "arxiv_2506_02839",
+  "type": "article",
+  "title": "DeepShop: A Benchmark for Deep Research Shopping Agents",
+  "URL": "https://arxiv.org/abs/2506.02839v1",
+  "custom": {
+    "catalog_id": "arxiv:2506.02839",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2506.02839",
+    "identifiers": {
+      "arxiv": "2506.02839"
+    },
+    "first_published_at": "2025-06-03",
+    "record_updated_at": "2025-06-03",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bebdf1c8f34582408ef0050245f6b1e454d1bd2e75903a4e0817a4f3c00fb4db",
+      "submitted_at": "2025-06-03T13:08:17Z",
+      "updated_at": "2025-06-03T13:08:17Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2506.02839v1"
+    }
+  },
+  "note": "First published: 2025-06-03; Recorded arXiv version: v1; Recorded version updated: 2025-06-03T13:08:17Z.",
+  "author": [
+    {
+      "literal": "Yougang Lyu"
+    },
+    {
+      "literal": "Xiaoyu Zhang"
+    },
+    {
+      "literal": "Lingyong Yan"
+    },
+    {
+      "literal": "Maarten de Rijke"
+    },
+    {
+      "literal": "Zhaochun Ren"
+    },
+    {
+      "literal": "Xiuying Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.02839",
+  "genre": "preprint",
+  "version": "1"
+}

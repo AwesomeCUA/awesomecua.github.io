@@ -18,6 +18,41 @@
       "updated_at": "2025-05-30T02:30:57Z",
       "version": 4,
       "versioned_url": "https://arxiv.org/abs/2502.11357v4"
+    },
+    "publication": {
+      "authors": [
+        "Vardaan Pahuja",
+        "Yadong Lu",
+        "Corby Rosset",
+        "Boyu Gou",
+        "Arindam Mitra",
+        "Spencer Whitehead",
+        "Yu Su",
+        "Ahmed Awadallah"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        7
+      ],
+      "doi": "10.18653/v1/2025.findings-acl.326",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.findings-acl.326/",
+        "https://aclanthology.org/2025.findings-acl.326.pdf"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256. The publisher PDF title and complete first-page author list were visually checked.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. Authors follow the publisher PDF, page 1. Landing-page citation metadata gives Ahmed Hassan for the final author, while the supplied BibTeX expands the name to Ahmed Hassan Awadallah; the PDF uses Ahmed Awadallah.",
+      "pages": "6300-6323",
+      "pdf_url": "https://aclanthology.org/2025.findings-acl.326.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.findings-acl.326/",
+      "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+      "volume": null
     }
   },
   "environments": [
@@ -38,6 +73,39 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:09:58Z",
+      "role": "primary",
+      "sha256": "8ec40afe322b7c72c9f6d6db617fa2d4fae559cf6cd4e2fcc0ff5a9cc9485e05",
+      "supports": [
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.doi",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.pdf_url",
+        "details.publication.publisher",
+        "details.publication.title",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue"
+      ],
+      "url": "https://aclanthology.org/2025.findings-acl.326/"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:14:02.000475+00:00",
+      "role": "primary",
+      "sha256": "c1b232e161839514713789c408ae64f66684b49770033c7f3b04bf1d1a232157",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.identity_basis",
+        "details.publication.notes"
+      ],
+      "url": "https://aclanthology.org/2025.findings-acl.326.pdf"
     },
     {
       "method": "editorial_primary_review",
@@ -72,6 +140,14 @@
     {
       "rel": "primary",
       "url": "https://arxiv.org/abs/2502.11357"
+    },
+    {
+      "rel": "publication",
+      "url": "https://aclanthology.org/2025.findings-acl.326/"
+    },
+    {
+      "rel": "publication_pdf",
+      "url": "https://aclanthology.org/2025.findings-acl.326.pdf"
     }
   ],
   "name": "Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents",

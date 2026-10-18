@@ -22,7 +22,44 @@
       "updated_at": "2025-05-29T02:43:50Z",
       "version": 2,
       "versioned_url": "https://arxiv.org/abs/2407.17490v2"
-    }
+    },
+    "publication": {
+      "authors": [
+        "Yuxiang Chai",
+        "Siyuan Huang",
+        "Yazhe Niu",
+        "Han Xiao",
+        "Liang Liu",
+        "Guozhi Wang",
+        "Dingyu Zhang",
+        "Shuai Ren",
+        "Hongsheng Li"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        7
+      ],
+      "doi": "10.18653/v1/2025.findings-acl.110",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.findings-acl.110/",
+        "https://aclanthology.org/2025.findings-acl.110.pdf"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher PDF title and complete first-page author list were visually checked.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. The publisher PDF, page 1, lists nine authors including Guozhi Wang; the retained arXiv snapshot lists eight. Each edition retains its own authors.",
+      "pages": "2138-2156",
+      "pdf_url": "https://aclanthology.org/2025.findings-acl.110.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.findings-acl.110/",
+      "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+      "volume": null
+    },
+    "citation_edition": "record"
   },
   "note": "First published: 2024-07-03; Recorded arXiv version: v2; Recorded version updated: 2025-05-29T02:43:50Z.",
   "author": [

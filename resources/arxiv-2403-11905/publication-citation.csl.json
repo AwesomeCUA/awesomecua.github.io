@@ -1,0 +1,109 @@
+{
+  "id": "arxiv:2403.11905:publication",
+  "citation-key": "arxiv_2403_11905_publication",
+  "type": "paper-conference",
+  "title": "TurkingBench: A Challenge Benchmark for Web Agents",
+  "URL": "https://aclanthology.org/2025.naacl-long.188/",
+  "custom": {
+    "catalog_id": "arxiv:2403.11905",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2403.11905",
+    "identifiers": {
+      "arxiv": "2403.11905"
+    },
+    "first_published_at": "2024-03-18",
+    "record_updated_at": "2025-02-22",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d82424b84ebddfeb005ffae38c130c6a9c7dae7adcdc59e2b7d001284b785573",
+      "submitted_at": "2024-03-18T16:06:30Z",
+      "updated_at": "2025-02-22T01:33:54Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2403.11905v4"
+    },
+    "publication": {
+      "authors": [
+        "Kevin Xu",
+        "Yeganeh Kordi",
+        "Tanay Nayak",
+        "Adi Asija",
+        "Yizhong Wang",
+        "Kate Sanders",
+        "Adam Byerly",
+        "Jingyu Zhang",
+        "Benjamin Van Durme",
+        "Daniel Khashabi"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        4
+      ],
+      "doi": "10.18653/v1/2025.naacl-long.188",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.naacl-long.188/"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+      "pages": "3694-3710",
+      "pdf_url": "https://aclanthology.org/2025.naacl-long.188.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "TurkingBench: A Challenge Benchmark for Web Agents",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.naacl-long.188/",
+      "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2025-04.",
+  "author": [
+    {
+      "literal": "Kevin Xu"
+    },
+    {
+      "literal": "Yeganeh Kordi"
+    },
+    {
+      "literal": "Tanay Nayak"
+    },
+    {
+      "literal": "Adi Asija"
+    },
+    {
+      "literal": "Yizhong Wang"
+    },
+    {
+      "literal": "Kate Sanders"
+    },
+    {
+      "literal": "Adam Byerly"
+    },
+    {
+      "literal": "Jingyu Zhang"
+    },
+    {
+      "literal": "Benjamin Van Durme"
+    },
+    {
+      "literal": "Daniel Khashabi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4
+      ]
+    ]
+  },
+  "DOI": "10.18653/v1/2025.naacl-long.188",
+  "container-title": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+  "publisher": "Association for Computational Linguistics",
+  "page": "3694-3710"
+}

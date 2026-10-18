@@ -35,12 +35,8 @@
     },
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/LangAGI-Lab/WebRewardBench/tree/main",
-    "evaluation_type": null,
     "gated": false,
-    "hub_id": "LangAGI-Lab/WebRewardBench",
-    "leaderboard_url": null,
-    "metrics": [],
-    "task_count": null
+    "hub_id": "LangAGI-Lab/WebRewardBench"
   },
   "environments": [
     "web"

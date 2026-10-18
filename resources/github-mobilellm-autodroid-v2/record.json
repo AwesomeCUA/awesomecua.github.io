@@ -91,6 +91,16 @@
         "details"
       ],
       "url": "https://raw.githubusercontent.com/MobileLLM/AutoDroid-V2/HEAD/step_4_accuracy_validation/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:58Z",
+      "role": "primary",
+      "sha256": "c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249",
+      "supports": [
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending"
     }
   ],
   "id": "github:mobilellm/autodroid-v2",
@@ -112,7 +122,13 @@
   "name": "AutoDroid V2",
   "notes": "The repository uses README_minimal.md rather than README.md and includes a documented App Launcher experiment, training setup and DroidTask/LlamaTouch evaluation scripts. Its supplied emulator setup targets x86_64 Linux and Android API 31. No repository-level code license was found; code, APK, data and weight terms are not inferred from one another. Dependencies, external evaluation files and model service are still required; no software was run.",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending",
+      "target_id": "arxiv:2412.18116",
+      "type": "documented_by"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
   "summary": "An Android automation implementation that builds app documentation from exploration traces and evaluates language-model-generated execution code in emulator workflows.",

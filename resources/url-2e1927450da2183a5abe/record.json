@@ -1,5 +1,9 @@
 {
-  "aliases": [],
+  "aliases": [
+    "url:1ff6b78a764bdcc6dd03",
+    "HanXiao1999/UI-Genie-Agent-5k",
+    "https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-5k"
+  ],
   "authors": [],
   "details": {
     "dataset_profile": {
@@ -26,11 +30,7 @@
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-16k/tree/main",
     "gated": false,
-    "hub_id": "HanXiao1999/UI-Genie-Agent-16k",
-    "languages": [],
-    "modalities": [],
-    "sample_count": null,
-    "sample_unit": null
+    "hub_id": "HanXiao1999/UI-Genie-Agent-16k"
   },
   "environments": [
     "android"
@@ -84,6 +84,26 @@
         "licenses.data"
       ],
       "url": "https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-16k/raw/main/README.md"
+    },
+    {
+      "method": "huggingface_repository_identity",
+      "retrieved_at": "2026-10-17T19:15:09Z",
+      "role": "primary",
+      "sha256": "66006a586e03be3eb1dfc29dc9c951241fd7e4204430e7db258da1037e17ac6e",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://huggingface.co/api/datasets/HanXiao1999/UI-Genie-Agent-5k"
+    },
+    {
+      "method": "huggingface_repository_identity",
+      "retrieved_at": "2026-10-17T19:15:10Z",
+      "role": "primary",
+      "sha256": "66006a586e03be3eb1dfc29dc9c951241fd7e4204430e7db258da1037e17ac6e",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://huggingface.co/api/datasets/HanXiao1999/UI-Genie-Agent-16k"
     }
   ],
   "id": "url:2e1927450da2183a5abe",

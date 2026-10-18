@@ -1,0 +1,138 @@
+{
+  "id": "arxiv:2410.15164:publication",
+  "citation-key": "arxiv_2410_15164_publication",
+  "type": "paper-conference",
+  "title": "SPA-BENCH: A COMPREHENSIVE BENCHMARK FOR SMARTPHONE AGENT EVALUATION",
+  "URL": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/9a75f4dd9679aa4ff80a4e6f0a1dc700-Abstract-Conference.html",
+  "custom": {
+    "catalog_id": "arxiv:2410.15164",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.15164",
+    "identifiers": {
+      "arxiv": "2410.15164"
+    },
+    "first_published_at": "2024-10-19",
+    "record_updated_at": "2025-03-31",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "206059754652205f1e036fac8ee117f71dd356bfe2d35fd84aff8d2935ea242d",
+      "submitted_at": "2024-10-19T17:28:48Z",
+      "updated_at": "2025-03-31T20:39:17Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2410.15164v3"
+    },
+    "publication": {
+      "authors": [
+        "Jingxuan Chen",
+        "Derek Yuen",
+        "Bin Xie",
+        "Yuhao Yang",
+        "Gongwei Chen",
+        "Zhihao Wu",
+        "Li Yixing",
+        "Xurui Zhou",
+        "Weiwen Liu",
+        "Shuai Wang",
+        "Kaiwen Zhou",
+        "Rui Shao",
+        "Liqiang Nie",
+        "Yasheng Wang",
+        "Jianye HAO",
+        "Jun Wang",
+        "Kun Shao"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        5,
+        1
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://proceedings.iclr.cc/paper_files/paper/2025/hash/9a75f4dd9679aa4ff80a4e6f0a1dc700-Abstract-Conference.html"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+      "pages": "61769-61806",
+      "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/9a75f4dd9679aa4ff80a4e6f0a1dc700-Paper-Conference.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "SPA-BENCH: A COMPREHENSIVE BENCHMARK FOR SMARTPHONE AGENT EVALUATION",
+      "type": "conference-paper",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/9a75f4dd9679aa4ff80a4e6f0a1dc700-Abstract-Conference.html",
+      "venue": "International Conference on Learning Representations",
+      "volume": "2025"
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2025-05-01.",
+  "author": [
+    {
+      "literal": "Jingxuan Chen"
+    },
+    {
+      "literal": "Derek Yuen"
+    },
+    {
+      "literal": "Bin Xie"
+    },
+    {
+      "literal": "Yuhao Yang"
+    },
+    {
+      "literal": "Gongwei Chen"
+    },
+    {
+      "literal": "Zhihao Wu"
+    },
+    {
+      "literal": "Li Yixing"
+    },
+    {
+      "literal": "Xurui Zhou"
+    },
+    {
+      "literal": "Weiwen Liu"
+    },
+    {
+      "literal": "Shuai Wang"
+    },
+    {
+      "literal": "Kaiwen Zhou"
+    },
+    {
+      "literal": "Rui Shao"
+    },
+    {
+      "literal": "Liqiang Nie"
+    },
+    {
+      "literal": "Yasheng Wang"
+    },
+    {
+      "literal": "Jianye HAO"
+    },
+    {
+      "literal": "Jun Wang"
+    },
+    {
+      "literal": "Kun Shao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        1
+      ]
+    ]
+  },
+  "container-title": "International Conference on Learning Representations",
+  "volume": "2025",
+  "page": "61769-61806"
+}

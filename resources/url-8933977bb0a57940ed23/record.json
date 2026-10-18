@@ -38,11 +38,7 @@
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/showlab/ShowUI-web/tree/main",
     "gated": false,
-    "hub_id": "showlab/ShowUI-web",
-    "languages": [],
-    "modalities": [],
-    "sample_count": null,
-    "sample_unit": null
+    "hub_id": "showlab/ShowUI-web"
   },
   "environments": [
     "web"

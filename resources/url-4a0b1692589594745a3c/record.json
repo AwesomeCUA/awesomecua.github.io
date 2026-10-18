@@ -1,7 +1,10 @@
 {
   "aliases": [
     "OpenCUA 72B Preview",
-    "OpenCUA-72B-preview"
+    "OpenCUA-72B-preview",
+    "url:8c792416d297293422cf",
+    "xlangai/OpenCUA-72B-preview",
+    "https://huggingface.co/xlangai/OpenCUA-72B-preview"
   ],
   "authors": [],
   "details": {
@@ -69,6 +72,26 @@
         "notes"
       ],
       "url": "https://huggingface.co/api/models/xlangai/OpenCUA-72B-preview"
+    },
+    {
+      "method": "huggingface_repository_identity",
+      "retrieved_at": "2026-10-17T19:15:04Z",
+      "role": "primary",
+      "sha256": "ff0ee40df2f44a2b3aa1b8117c31752013a40fdb6a85d66cdc596e096583ac5d",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://huggingface.co/api/models/xlangai/OpenCUA-72B-preview"
+    },
+    {
+      "method": "huggingface_repository_identity",
+      "retrieved_at": "2026-10-17T19:15:05Z",
+      "role": "primary",
+      "sha256": "ff0ee40df2f44a2b3aa1b8117c31752013a40fdb6a85d66cdc596e096583ac5d",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://huggingface.co/api/models/xlangai/OpenCUA-72B"
     }
   ],
   "id": "url:4a0b1692589594745a3c",

@@ -33,8 +33,6 @@
       ],
       "setting": "interactive"
     },
-    "evaluation_type": null,
-    "leaderboard_url": null,
     "license_review": {
       "code": {
         "evidence_urls": [
@@ -43,9 +41,7 @@
         "reason": "Repository code LICENSE; no license is inferred for the VM image or bundled third-party applications."
       }
     },
-    "metrics": [],
-    "repository_revision": "191efd0e6766acab444a31685b437565e1a94ac2",
-    "task_count": null
+    "repository_revision": "191efd0e6766acab444a31685b437565e1a94ac2"
   },
   "environments": [
     "desktop",

@@ -31,11 +31,7 @@
         "chat messages and task goal"
       ],
       "setting": "mixed"
-    },
-    "evaluation_type": null,
-    "leaderboard_url": null,
-    "metrics": [],
-    "task_count": null
+    }
   },
   "environments": [
     "web"

@@ -1957,6 +1957,64 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2605.17320v1",
+    "archive": "arXiv",
+    "archive_location": "2605.17320",
+    "author": [
+      {
+        "literal": "Yutong Huang"
+      },
+      {
+        "literal": "Vikranth Srivatsa"
+      },
+      {
+        "literal": "Alex Asch"
+      },
+      {
+        "literal": "Hansin Tushar Patwa"
+      },
+      {
+        "literal": "Yiying Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2605_17320",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "51576fb9bde23f769d3200a0d593ad610eb27248917132aff1bcf6eb7ff03cea",
+        "submitted_at": "2026-05-17T08:24:01Z",
+        "updated_at": "2026-05-17T08:24:01Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.17320v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.17320",
+      "catalog_id": "arxiv:2605.17320",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-17",
+      "identifiers": {
+        "arxiv": "2605.17320"
+      },
+      "record_updated_at": "2026-05-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.17320",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-17; Recorded arXiv version: v1; Recorded version updated: 2026-05-17T08:24:01Z.",
+    "title": "TClone: Low-Latency Forking of Live GUI Environments for Computer-Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2605.25160v2",
     "archive": "arXiv",
     "archive_location": "2605.25160",
@@ -2293,6 +2351,231 @@
     },
     "note": "First published: 2026-05-28; Recorded arXiv version: v3; Recorded version updated: 2026-09-28T15:27:12Z.",
     "title": "PhoneWorld: From Real-App Trajectories to Dynamic and Verifiable Environments for Phone-Use Agents",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.05277v1",
+    "archive": "arXiv",
+    "archive_location": "2607.05277",
+    "author": [
+      {
+        "literal": "Kristina Nikolić"
+      },
+      {
+        "literal": "Egor Zverev"
+      },
+      {
+        "literal": "Javier Rando"
+      },
+      {
+        "literal": "Matthew Jagielski"
+      },
+      {
+        "literal": "Edoardo Debenedetti"
+      },
+      {
+        "literal": "Florian Tramèr"
+      }
+    ],
+    "citation-key": "arxiv_2607_05277",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "97d6c625b6ebc08cec7471df543812a91c4252f50d8d35f8d51fbef802dcb5a2",
+        "submitted_at": "2026-07-06T16:22:37Z",
+        "updated_at": "2026-07-06T16:22:37Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2607.05277v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.05277",
+      "catalog_id": "arxiv:2607.05277",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-06",
+      "identifiers": {
+        "arxiv": "2607.05277"
+      },
+      "record_updated_at": "2026-07-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.05277",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-06; Recorded arXiv version: v1; Recorded version updated: 2026-07-06T16:22:37Z.",
+    "title": "Untrusted Content Masking for Web Agents with Security Guarantees",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.09773v2",
+    "archive": "arXiv",
+    "archive_location": "2607.09773",
+    "author": [
+      {
+        "literal": "Mianqiu Huang"
+      },
+      {
+        "literal": "Taofeng Xue"
+      },
+      {
+        "literal": "Chong Peng"
+      },
+      {
+        "literal": "Jinrui Ding"
+      },
+      {
+        "literal": "Jie Yang"
+      },
+      {
+        "literal": "Sicheng Fan"
+      },
+      {
+        "literal": "Jiale Hong"
+      },
+      {
+        "literal": "Yufei Gao"
+      },
+      {
+        "literal": "Xiaocheng Zhang"
+      },
+      {
+        "literal": "Linsen Guo"
+      },
+      {
+        "literal": "Xin Yang"
+      },
+      {
+        "literal": "Dengchang Zhao"
+      },
+      {
+        "literal": "Yuchen Xie"
+      },
+      {
+        "literal": "Peng Pei"
+      },
+      {
+        "literal": "Xunliang Xie"
+      },
+      {
+        "literal": "Xipeng Qiu"
+      }
+    ],
+    "citation-key": "arxiv_2607_09773",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "53c254c53a834d4f28bb4b65317121f5c46f5dd6985d03a30f1cc1f0fa78707d",
+        "submitted_at": "2026-07-07T16:36:25Z",
+        "updated_at": "2026-09-04T15:47:10Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2607.09773v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.09773",
+      "catalog_id": "arxiv:2607.09773",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-07",
+      "identifiers": {
+        "arxiv": "2607.09773"
+      },
+      "record_updated_at": "2026-09-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.09773",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-07; Recorded arXiv version: v2; Recorded version updated: 2026-09-04T15:47:10Z.",
+    "title": "EvoCUA-1.5: Online Reinforcement Learning for Multi-turn Computer-Use Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.21557v3",
+    "archive": "arXiv",
+    "archive_location": "2607.21557",
+    "author": [
+      {
+        "literal": "Xiao Yu"
+      },
+      {
+        "literal": "Baolin Peng"
+      },
+      {
+        "literal": "Ruize Xu"
+      },
+      {
+        "literal": "Hao Zou"
+      },
+      {
+        "literal": "Qianhui Wu"
+      },
+      {
+        "literal": "Hao Cheng"
+      },
+      {
+        "literal": "Wenlin Yao"
+      },
+      {
+        "literal": "Nikhil Singh"
+      },
+      {
+        "literal": "Zhou Yu"
+      },
+      {
+        "literal": "Jianfeng Gao"
+      }
+    ],
+    "citation-key": "arxiv_2607_21557",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "965fe5aabfb44b4c82290fc347a463eb58fb2be7a3761496efd38167d0f7d5b6",
+        "submitted_at": "2026-07-23T17:38:30Z",
+        "updated_at": "2026-08-07T17:40:50Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2607.21557v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.21557",
+      "catalog_id": "arxiv:2607.21557",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-23",
+      "identifiers": {
+        "arxiv": "2607.21557"
+      },
+      "record_updated_at": "2026-08-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.21557",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-23; Recorded arXiv version: v3; Recorded version updated: 2026-08-07T17:40:50Z.",
+    "title": "OpenForgeRL: Train Harness-native Agents in Any Environment",
     "type": "article",
     "version": "3"
   },

@@ -5,11 +5,7 @@
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/KDEGroup/UI-AGILE-Data/tree/main",
     "gated": false,
-    "hub_id": "KDEGroup/UI-AGILE-Data",
-    "languages": [],
-    "modalities": [],
-    "sample_count": null,
-    "sample_unit": null
+    "hub_id": "KDEGroup/UI-AGILE-Data"
   },
   "environments": [
     "android"

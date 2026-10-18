@@ -32,3 +32,5 @@ The canonical repository is ByteDance-Seed/Agent-R and is archived but readable.
 - https://api.github.com/repos/ByteDance-Seed/Agent-R/git/trees/main?recursive=1 (retrieved 2026-10-17T02:05:40Z; SHA-256 e3c70b04094e8e77e249065b2b500ac197fc6fafee6e3275d78289b3790bf7ed)
 - https://raw.githubusercontent.com/ByteDance-Seed/Agent-R/HEAD/LICENSE (retrieved 2026-10-17T02:05:22Z; SHA-256 283ea6cc2997a1a70da0049e09adf9317bb60ca1b51279b65196b83a69e1996b)
 - https://raw.githubusercontent.com/ByteDance-Seed/Agent-R/HEAD/LICENSE (retrieved 2026-10-17T02:05:22Z; SHA-256 283ea6cc2997a1a70da0049e09adf9317bb60ca1b51279b65196b83a69e1996b)
+- https://api.github.com/repos/bytedance/Agent-R (retrieved 2026-10-17T18:05:46Z; SHA-256 3fff7137bc4f39a3a757f3b820892fb330449044ef2721e9f9d7719d23ff2b98)
+- https://api.github.com/repos/ByteDance-Seed/Agent-R (retrieved 2026-10-17T18:05:46Z; SHA-256 3fff7137bc4f39a3a757f3b820892fb330449044ef2721e9f9d7719d23ff2b98)

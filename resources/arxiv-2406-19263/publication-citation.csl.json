@@ -1,0 +1,105 @@
+{
+  "id": "arxiv:2406.19263:publication",
+  "citation-key": "arxiv_2406_19263_publication",
+  "type": "paper-conference",
+  "title": "Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding",
+  "URL": "https://aclanthology.org/2024.emnlp-main.533/",
+  "custom": {
+    "catalog_id": "arxiv:2406.19263",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2406.19263",
+    "identifiers": {
+      "arxiv": "2406.19263"
+    },
+    "first_published_at": "2024-06-27",
+    "record_updated_at": "2024-10-25",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0c86d68b5c3486b099f64792d5d3290d79e25b7c82c6eb2402869b893bb22fea",
+      "submitted_at": "2024-06-27T15:34:16Z",
+      "updated_at": "2024-10-25T18:16:21Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2406.19263v2"
+    },
+    "publication": {
+      "authors": [
+        "Yue Fan",
+        "Lei Ding",
+        "Ching-Chen Kuo",
+        "Shan Jiang",
+        "Yang Zhao",
+        "Xinze Guan",
+        "Jie Yang",
+        "Yi Zhang",
+        "Xin Eric Wang"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2024,
+        11
+      ],
+      "doi": "10.18653/v1/2024.emnlp-main.533",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2024.emnlp-main.533/"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+      "pages": "9503-9522",
+      "pdf_url": "https://aclanthology.org/2024.emnlp-main.533.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2024.emnlp-main.533/",
+      "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2024-11.",
+  "author": [
+    {
+      "literal": "Yue Fan"
+    },
+    {
+      "literal": "Lei Ding"
+    },
+    {
+      "literal": "Ching-Chen Kuo"
+    },
+    {
+      "literal": "Shan Jiang"
+    },
+    {
+      "literal": "Yang Zhao"
+    },
+    {
+      "literal": "Xinze Guan"
+    },
+    {
+      "literal": "Jie Yang"
+    },
+    {
+      "literal": "Yi Zhang"
+    },
+    {
+      "literal": "Xin Eric Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11
+      ]
+    ]
+  },
+  "DOI": "10.18653/v1/2024.emnlp-main.533",
+  "container-title": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+  "publisher": "Association for Computational Linguistics",
+  "page": "9503-9522"
+}

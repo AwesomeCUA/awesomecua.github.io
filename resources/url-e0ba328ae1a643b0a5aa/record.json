@@ -1,0 +1,190 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "dataset_profile": {
+      "counts": [
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md",
+          "population": "WebSRC v1.0 train",
+          "qualifier": "exact",
+          "unit": "question–answer examples",
+          "value": 307315
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md",
+          "population": "WebSRC v1.0 train",
+          "qualifier": "exact",
+          "unit": "web pages",
+          "value": 4549
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md",
+          "population": "WebSRC v1.0 dev",
+          "qualifier": "exact",
+          "unit": "question–answer examples",
+          "value": 52826
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md",
+          "population": "WebSRC v1.0 dev",
+          "qualifier": "exact",
+          "unit": "web pages",
+          "value": 913
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md",
+          "population": "WebSRC v1.0 test",
+          "qualifier": "exact",
+          "unit": "question–answer examples",
+          "value": 40357
+        },
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md",
+          "population": "WebSRC v1.0 test",
+          "qualifier": "exact",
+          "unit": "web pages",
+          "value": 985
+        }
+      ],
+      "evidence_urls": [
+        "https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md",
+        "https://huggingface.co/api/datasets/X-LANCE/WebSRC_v1.0",
+        "https://x-lance.github.io/WebSRC/"
+      ],
+      "formats": [
+        "CSV",
+        "HTML",
+        "JSON",
+        "ZIP packages"
+      ],
+      "modalities": [
+        "questions and answers",
+        "HTML",
+        "screenshots",
+        "layout metadata"
+      ],
+      "notes": "Each dataset.csv row is a QA example; web pages and QA examples are different units. Use the v1.0 split table rather than merging the older project headline into it. The card retains email-evaluation instructions, while the manifest now includes test answers; no submission was made. Payload archives were not downloaded.",
+      "splits": [
+        "train",
+        "dev",
+        "test"
+      ],
+      "supervision": [
+        "extractive or yes/no answers",
+        "answer DOM-element references"
+      ]
+    },
+    "disabled": false,
+    "download_url": "https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/tree/7aa0bc6efc7ef43f68c192e2091108541acbaf1a",
+    "gated": false,
+    "hub_id": "X-LANCE/WebSRC_v1.0",
+    "hub_revision": "7aa0bc6efc7ef43f68c192e2091108541acbaf1a",
+    "license_review": {
+      "data": {
+        "evidence_urls": [
+          "https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md"
+        ],
+        "reason": "Publisher dataset-card declaration for this release; it does not establish rights to all upstream screenshots, applications or source content."
+      }
+    }
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:35:16Z",
+      "role": "primary",
+      "sha256": "061e5bcaa49e819f0133afb912ad5ce20a8c2b6c28ca60319a4635d6ce835ddb",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "relations",
+        "licenses.data",
+        "details.dataset_profile"
+      ],
+      "url": "https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:33:29Z",
+      "role": "primary",
+      "sha256": "a7976dd931c3fcf11de2456614f95eb071978599bd70fb89c0ea009d31da4300",
+      "supports": [
+        "identity",
+        "release_status",
+        "details.hub_id",
+        "details.hub_revision",
+        "details.gated",
+        "details.disabled",
+        "details.download_url",
+        "details.dataset_profile"
+      ],
+      "url": "https://huggingface.co/api/datasets/X-LANCE/WebSRC_v1.0"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T15:37:04Z",
+      "role": "primary",
+      "sha256": "3c2c601d8b4ad2f379cac9b97a2cbb901883d9bc6c1a682359f9b4135e6dd4bc",
+      "supports": [
+        "notes",
+        "details.dataset_profile"
+      ],
+      "url": "https://x-lance.github.io/WebSRC/"
+    }
+  ],
+  "id": "url:e0ba328ae1a643b0a5aa",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-18T04:35:16Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "Publisher dataset-card declaration for this release; it does not establish rights to all upstream screenshots, applications or source content.",
+      "declared": "CC-BY-4.0",
+      "retrieved_at": "2026-10-18T04:35:16Z",
+      "url": "https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0"
+    }
+  ],
+  "name": "WebSRC v1.0",
+  "notes": "Public release includes train+dev and test ZIP packages plus a test-answer JSON file. The v1.0 card’s exact split table differs from the older project-page headline of 0.44M questions/6.5K pages; counts are kept with their sources. This is static webpage understanding, not an interactive browser-agent trajectory dataset. CC-BY-4.0 is the data-card declaration.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0/raw/7aa0bc6efc7ef43f68c192e2091108541acbaf1a/README.md",
+      "target_id": "arxiv:2101.09465",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "adjacent",
+  "summary": "Webpage segments, questions, answers, HTML, screenshots and layout metadata for structural reading comprehension.",
+  "topics": [
+    "screen-understanding",
+    "grounding"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/X-LANCE/WebSRC_v1.0"
+}

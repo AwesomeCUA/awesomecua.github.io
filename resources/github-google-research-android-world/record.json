@@ -40,7 +40,7 @@
       "setting": "interactive"
     },
     "evaluation_type": "programmatic state checks",
-    "leaderboard_url": null,
+    "leaderboard_url": "https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo/edit?gid=0#gid=0",
     "metrics": [
       "task success"
     ],
@@ -68,7 +68,8 @@
         "details.task_unit",
         "details.metrics",
         "details.evaluation_type",
-        "details.benchmark_protocol"
+        "details.benchmark_protocol",
+        "details.leaderboard_url"
       ],
       "url": "https://raw.githubusercontent.com/google-research/android_world/HEAD/README.md"
     },

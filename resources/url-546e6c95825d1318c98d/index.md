@@ -44,3 +44,5 @@ These are publisher-reported totals at three distinct grains, not values to sum.
 
 - https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data-v2/raw/main/README.md (retrieved 2026-10-17T01:48:51Z; SHA-256 abacf9a10759a9e7a8eeec5a266c96ed83742bd9296a19be95d09c9717e18b7c)
 - https://raw.githubusercontent.com/OpenMobile2/OpenMobile2-Code/HEAD/README.md (retrieved 2026-10-17T01:48:10Z; SHA-256 485279038266d9454df75e27a80a0a0d71c24e90700126d2dcfa0da921b1273d)
+- https://huggingface.co/api/datasets/OpenMobile-2/OpenMobile-Data (retrieved 2026-10-17T19:15:18Z; SHA-256 14b1211ed709147f4022f311c17303ca70faaffa22be143617eb431d966eec1a)
+- https://huggingface.co/api/datasets/OpenMobile-2/OpenMobile-Data-v2 (retrieved 2026-10-17T19:15:20Z; SHA-256 14b1211ed709147f4022f311c17303ca70faaffa22be143617eb431d966eec1a)

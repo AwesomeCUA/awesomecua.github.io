@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2502.02955:publication",
+  "citation-key": "arxiv_2502_02955_publication",
+  "type": "paper-conference",
+  "title": "ReachAgent: Enhancing Mobile Agent via Page Reaching and Operation",
+  "URL": "https://aclanthology.org/2025.naacl-long.244/",
+  "custom": {
+    "catalog_id": "arxiv:2502.02955",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2502.02955",
+    "identifiers": {
+      "arxiv": "2502.02955"
+    },
+    "first_published_at": "2025-02-05",
+    "record_updated_at": "2025-02-05",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d3e0b19f259bcdb57b0dea92578d0ee1c7c229ea11e622c56e808f17ca2568cc",
+      "submitted_at": "2025-02-05T07:35:23Z",
+      "updated_at": "2025-02-05T07:35:23Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2502.02955v1"
+    },
+    "publication": {
+      "authors": [
+        "Qinzhuo Wu",
+        "Wei Liu",
+        "Jian Luan",
+        "Bin Wang"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        4
+      ],
+      "doi": "10.18653/v1/2025.naacl-long.244",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.naacl-long.244/"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+      "pages": "4760-4775",
+      "pdf_url": "https://aclanthology.org/2025.naacl-long.244.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "ReachAgent: Enhancing Mobile Agent via Page Reaching and Operation",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.naacl-long.244/",
+      "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2025-04.",
+  "author": [
+    {
+      "literal": "Qinzhuo Wu"
+    },
+    {
+      "literal": "Wei Liu"
+    },
+    {
+      "literal": "Jian Luan"
+    },
+    {
+      "literal": "Bin Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        4
+      ]
+    ]
+  },
+  "DOI": "10.18653/v1/2025.naacl-long.244",
+  "container-title": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+  "publisher": "Association for Computational Linguistics",
+  "page": "4760-4775"
+}

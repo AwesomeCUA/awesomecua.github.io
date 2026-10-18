@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2603.20351",
+  "citation-key": "arxiv_2603_20351",
+  "type": "article",
+  "title": "MANA: Towards Efficient Mobile Ad Detection via Multimodal Agentic UI Navigation",
+  "URL": "https://arxiv.org/abs/2603.20351v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.20351",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2603.20351",
+    "identifiers": {
+      "arxiv": "2603.20351"
+    },
+    "first_published_at": "2026-03-20",
+    "record_updated_at": "2026-03-20",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f25f4999fc9d20433f96e22651311cccf78b5e2ad7cbc5578fe1765ac8be6a00",
+      "submitted_at": "2026-03-20T12:19:41Z",
+      "updated_at": "2026-03-20T12:19:41Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.20351v1"
+    }
+  },
+  "note": "First published: 2026-03-20; Recorded arXiv version: v1; Recorded version updated: 2026-03-20T12:19:41Z.",
+  "author": [
+    {
+      "literal": "Yizhe Zhao"
+    },
+    {
+      "literal": "Yongjian Fu"
+    },
+    {
+      "literal": "Zihao Feng"
+    },
+    {
+      "literal": "Hao Pan"
+    },
+    {
+      "literal": "Yongheng Deng"
+    },
+    {
+      "literal": "Yaoxue Zhang"
+    },
+    {
+      "literal": "Ju Ren"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.20351",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -35,8 +35,7 @@
       ],
       "setting": "offline"
     },
-    "evaluation_type": null,
-    "leaderboard_url": null,
+    "leaderboard_url": "https://huggingface.co/spaces/McGill-NLP/agent-reward-bench-leaderboard",
     "license_review": {
       "data": {
         "evidence_urls": [
@@ -44,9 +43,7 @@
         ],
         "reason": "The dataset card supplies custom Terms of Use and preserves third-party conditions. The repository has no root code license, and no dataset license is inherited from its benchmarks."
       }
-    },
-    "metrics": [],
-    "task_count": null
+    }
   },
   "environments": [
     "web"

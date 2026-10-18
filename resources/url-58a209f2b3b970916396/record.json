@@ -1,0 +1,148 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "dataset_profile": {
+      "counts": [
+        {
+          "basis": "reported",
+          "evidence_url": "https://huggingface.co/datasets/sunblaze-ucb/AgentSynth/raw/9ec3f3139f9786e81aee14b7fff1eb487cc7e991/README.md",
+          "population": "collection described in the dataset card; not an independently counted release-row total",
+          "qualifier": "more-than",
+          "unit": "tasks",
+          "value": 6000
+        }
+      ],
+      "evidence_urls": [
+        "https://huggingface.co/datasets/sunblaze-ucb/AgentSynth/raw/9ec3f3139f9786e81aee14b7fff1eb487cc7e991/README.md",
+        "https://huggingface.co/api/datasets/sunblaze-ucb/AgentSynth"
+      ],
+      "formats": [
+        "JSONL",
+        "ZIP trajectory packages"
+      ],
+      "modalities": [
+        "screenshots",
+        "task instructions",
+        "LLM thoughts",
+        "commands"
+      ],
+      "notes": "Card maps osworld/train to all_tasks.jsonl and insta/train to task_sequences.jsonl. Six difficulty levels and trajectory screenshots/thoughts/commands are documented. ZIP file labels are not trajectory counts; configurations and composed-task levels are not assumed disjoint.",
+      "splits": [
+        "train (osworld configuration)",
+        "train (insta configuration)"
+      ],
+      "supervision": [
+        "synthetic tasks",
+        "agent trajectories"
+      ]
+    },
+    "disabled": false,
+    "download_url": "https://huggingface.co/datasets/sunblaze-ucb/AgentSynth/tree/9ec3f3139f9786e81aee14b7fff1eb487cc7e991",
+    "gated": false,
+    "hub_id": "sunblaze-ucb/AgentSynth",
+    "hub_revision": "9ec3f3139f9786e81aee14b7fff1eb487cc7e991",
+    "license_review": {
+      "data": {
+        "evidence_urls": [
+          "https://huggingface.co/datasets/sunblaze-ucb/AgentSynth/raw/9ec3f3139f9786e81aee14b7fff1eb487cc7e991/README.md"
+        ],
+        "reason": "Publisher dataset-card declaration for this release; it does not establish rights to all upstream screenshots, applications or source content."
+      }
+    },
+    "repository_url": "https://github.com/sunblaze-ucb/AgentSynth"
+  },
+  "environments": [
+    "desktop",
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:35:17Z",
+      "role": "primary",
+      "sha256": "c1669d8e3caa27f8cd47c17b243b6a8d42807438d8a6a36074668adc57d33757",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "relations",
+        "licenses.data",
+        "details.dataset_profile"
+      ],
+      "url": "https://huggingface.co/datasets/sunblaze-ucb/AgentSynth/raw/9ec3f3139f9786e81aee14b7fff1eb487cc7e991/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:33:20Z",
+      "role": "primary",
+      "sha256": "0d3797d75dd4089ece8c8d4624f2a726024d25be255255d8770f78de21d75906",
+      "supports": [
+        "identity",
+        "release_status",
+        "details.hub_id",
+        "details.hub_revision",
+        "details.gated",
+        "details.disabled",
+        "details.download_url",
+        "details.dataset_profile"
+      ],
+      "url": "https://huggingface.co/api/datasets/sunblaze-ucb/AgentSynth"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:27:12Z",
+      "role": "primary",
+      "sha256": "42e8b8dead7caea3f8b21e93a075e8c895dfc30a25e1470bf97a90940bbf0106",
+      "supports": [
+        "details.repository_url"
+      ],
+      "url": "https://raw.githubusercontent.com/sunblaze-ucb/AgentSynth/HEAD/README.md"
+    }
+  ],
+  "id": "url:58a209f2b3b970916396",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-18T04:35:17Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "Publisher dataset-card declaration for this release; it does not establish rights to all upstream screenshots, applications or source content.",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-18T04:35:17Z",
+      "url": "https://huggingface.co/datasets/sunblaze-ucb/AgentSynth/raw/9ec3f3139f9786e81aee14b7fff1eb487cc7e991/README.md"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/sunblaze-ucb/AgentSynth"
+    }
+  ],
+  "name": "AgentSynth tasks and trajectories",
+  "notes": "Public Hub manifest contains JSONL task files and trajectory ZIP packages. Counts describe the publisher-reported task collection, not independently counted archive rows or numbers inferred from ZIP filenames.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://huggingface.co/datasets/sunblaze-ucb/AgentSynth/raw/9ec3f3139f9786e81aee14b7fff1eb487cc7e991/README.md",
+      "target_id": "arxiv:2506.14205",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Published AgentSynth task definitions and recorded GUI trajectories, with OSWorld and InSTA training configurations and packaged screenshots, thoughts and commands.",
+  "topics": [
+    "data-generation",
+    "long-horizon",
+    "imitation-learning"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/sunblaze-ucb/AgentSynth"
+}

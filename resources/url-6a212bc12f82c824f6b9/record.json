@@ -4,19 +4,15 @@
   "details": {
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/wanlilll/WeaveBench/tree/main",
-    "evaluation_type": null,
     "gated": false,
     "hub_id": "wanlilll/WeaveBench",
     "languages": [
       "en"
     ],
-    "leaderboard_url": null,
-    "metrics": [],
     "modalities": [],
     "size_category_reported": [
       "n<1K"
-    ],
-    "task_count": null
+    ]
   },
   "environments": [
     "desktop",

@@ -27,6 +27,23 @@ Yang Deng, Xuan Zhang, Wenxuan Zhang, Yifei Yuan, See-Kiong Ng, Tat-Seng Chua
 - BibTeX: https://awesomecua.github.io/resources/arxiv-2402-15057/citation.bib
 - CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-15057/citation.csl.json
 
+## Publication record
+
+- Title: On the Multi-turn Instruction Following for Conversational Web Agents
+- Authors: Yang Deng, Xuan Zhang, Wenxuan Zhang, Yifei Yuan, See Kiong Ng, Tat-Seng Chua
+- Publication date (recorded precision): 2024-08
+- Publication source: https://aclanthology.org/2024.acl-long.477/
+- Publication BibTeX: https://awesomecua.github.io/resources/arxiv-2402-15057/publication-citation.bib
+- Publication CSL JSON: https://awesomecua.github.io/resources/arxiv-2402-15057/publication-citation.csl.json
+- venue: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)
+- publisher: Association for Computational Linguistics
+- pages: 8795-8812
+- doi: 10.18653/v1/2024.acl-long.477
+- date basis: Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.
+- identity basis: Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.
+- notes: Publisher proceedings edition; retained separately from the arXiv snapshot.
+- Publication evidence: https://aclanthology.org/2024.acl-long.477/
+
 ## Recorded arXiv snapshot
 
 - Version: 1
@@ -46,4 +63,5 @@ Yang Deng, Xuan Zhang, Wenxuan Zhang, Yifei Yuan, See-Kiong Ng, Tat-Seng Chua
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)
+- https://aclanthology.org/2024.acl-long.477/ (retrieved 2026-10-18T04:09:49Z; SHA-256 ba56d6d0a422b340672036d5c872cd00d54a0f12cfe1326a3be65e8702786381)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:58Z; SHA-256 c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249)

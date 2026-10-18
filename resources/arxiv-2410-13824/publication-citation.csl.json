@@ -1,0 +1,106 @@
+{
+  "id": "arxiv:2410.13824:publication",
+  "citation-key": "arxiv_2410_13824_publication",
+  "type": "paper-conference",
+  "title": "Harnessing Webpage UIs for Text-Rich Visual Understanding",
+  "URL": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/2da53cd1abdae59150e35f4693834f32-Abstract-Conference.html",
+  "custom": {
+    "catalog_id": "arxiv:2410.13824",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.13824",
+    "identifiers": {
+      "arxiv": "2410.13824"
+    },
+    "first_published_at": "2024-10-17",
+    "record_updated_at": "2024-11-06",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2a3bcd26dff4f1d21a8a2772929c0c97cd1cc180a7606b0744e630dabae94609",
+      "submitted_at": "2024-10-17T17:48:54Z",
+      "updated_at": "2024-11-06T08:29:22Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2410.13824v3"
+    },
+    "publication": {
+      "authors": [
+        "Junpeng Liu",
+        "Tianyue Ou",
+        "Yifan Song",
+        "Yuxiao Qu",
+        "Wai Lam",
+        "Chenyan Xiong",
+        "Wenhu Chen",
+        "Graham Neubig",
+        "Xiang Yue"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        5,
+        1
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://proceedings.iclr.cc/paper_files/paper/2025/hash/2da53cd1abdae59150e35f4693834f32-Abstract-Conference.html"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+      "pages": "17971-18005",
+      "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/2da53cd1abdae59150e35f4693834f32-Paper-Conference.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "Harnessing Webpage UIs for Text-Rich Visual Understanding",
+      "type": "conference-paper",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/2da53cd1abdae59150e35f4693834f32-Abstract-Conference.html",
+      "venue": "International Conference on Learning Representations",
+      "volume": "2025"
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2025-05-01.",
+  "author": [
+    {
+      "literal": "Junpeng Liu"
+    },
+    {
+      "literal": "Tianyue Ou"
+    },
+    {
+      "literal": "Yifan Song"
+    },
+    {
+      "literal": "Yuxiao Qu"
+    },
+    {
+      "literal": "Wai Lam"
+    },
+    {
+      "literal": "Chenyan Xiong"
+    },
+    {
+      "literal": "Wenhu Chen"
+    },
+    {
+      "literal": "Graham Neubig"
+    },
+    {
+      "literal": "Xiang Yue"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        1
+      ]
+    ]
+  },
+  "container-title": "International Conference on Learning Representations",
+  "volume": "2025",
+  "page": "17971-18005"
+}

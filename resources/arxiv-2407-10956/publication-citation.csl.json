@@ -1,0 +1,163 @@
+{
+  "id": "arxiv:2407.10956:publication",
+  "citation-key": "arxiv_2407_10956_publication",
+  "type": "paper-conference",
+  "title": "Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?",
+  "URL": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/c2f71567cd53464161cab3336e8fc865-Abstract-Datasets_and_Benchmarks_Track.html",
+  "custom": {
+    "catalog_id": "arxiv:2407.10956",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2407.10956",
+    "identifiers": {
+      "arxiv": "2407.10956"
+    },
+    "first_published_at": "2024-07-15",
+    "record_updated_at": "2024-07-15",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7922a723142ac62018064fe5fc9357fb77c08e316ac4d6d6ba728f1b337df690",
+      "submitted_at": "2024-07-15T17:54:37Z",
+      "updated_at": "2024-07-15T17:54:37Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2407.10956v1"
+    },
+    "publication": {
+      "authors": [
+        "Ruisheng Cao",
+        "Fangyu Lei",
+        "Haoyuan Wu",
+        "Jixuan Chen",
+        "Yeqiao Fu",
+        "Hongcheng Gao",
+        "Xinzhuang Xiong",
+        "Hanchong Zhang",
+        "Yuchen Mao",
+        "Wenjing Hu",
+        "Tianbao Xie",
+        "Hongshen Xu",
+        "Danyang Zhang",
+        "Sida Wang",
+        "Ruoxi Sun",
+        "Pengcheng Yin",
+        "Caiming Xiong",
+        "Ansong Ni",
+        "Qian Liu",
+        "Victor Zhong",
+        "Lu Chen",
+        "Kai Yu",
+        "Tao Yu"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2024,
+        12,
+        16
+      ],
+      "doi": "10.52202/079017-3421",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://proceedings.neurips.cc/paper_files/paper/2024/hash/c2f71567cd53464161cab3336e8fc865-Abstract-Datasets_and_Benchmarks_Track.html"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+      "pages": "107703-107744",
+      "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/c2f71567cd53464161cab3336e8fc865-Paper-Datasets_and_Benchmarks_Track.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?",
+      "type": "conference-paper",
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/c2f71567cd53464161cab3336e8fc865-Abstract-Datasets_and_Benchmarks_Track.html",
+      "venue": "Advances in Neural Information Processing Systems",
+      "volume": "37"
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2024-12-16.",
+  "author": [
+    {
+      "literal": "Ruisheng Cao"
+    },
+    {
+      "literal": "Fangyu Lei"
+    },
+    {
+      "literal": "Haoyuan Wu"
+    },
+    {
+      "literal": "Jixuan Chen"
+    },
+    {
+      "literal": "Yeqiao Fu"
+    },
+    {
+      "literal": "Hongcheng Gao"
+    },
+    {
+      "literal": "Xinzhuang Xiong"
+    },
+    {
+      "literal": "Hanchong Zhang"
+    },
+    {
+      "literal": "Yuchen Mao"
+    },
+    {
+      "literal": "Wenjing Hu"
+    },
+    {
+      "literal": "Tianbao Xie"
+    },
+    {
+      "literal": "Hongshen Xu"
+    },
+    {
+      "literal": "Danyang Zhang"
+    },
+    {
+      "literal": "Sida Wang"
+    },
+    {
+      "literal": "Ruoxi Sun"
+    },
+    {
+      "literal": "Pengcheng Yin"
+    },
+    {
+      "literal": "Caiming Xiong"
+    },
+    {
+      "literal": "Ansong Ni"
+    },
+    {
+      "literal": "Qian Liu"
+    },
+    {
+      "literal": "Victor Zhong"
+    },
+    {
+      "literal": "Lu Chen"
+    },
+    {
+      "literal": "Kai Yu"
+    },
+    {
+      "literal": "Tao Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        16
+      ]
+    ]
+  },
+  "DOI": "10.52202/079017-3421",
+  "container-title": "Advances in Neural Information Processing Systems",
+  "volume": "37",
+  "page": "107703-107744"
+}

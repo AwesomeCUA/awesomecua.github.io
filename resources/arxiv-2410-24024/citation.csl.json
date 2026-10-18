@@ -22,7 +22,44 @@
       "updated_at": "2024-11-04T05:57:31Z",
       "version": 2,
       "versioned_url": "https://arxiv.org/abs/2410.24024v2"
-    }
+    },
+    "publication": {
+      "authors": [
+        "Yifan Xu",
+        "Xiao Liu",
+        "Xueqiao Sun",
+        "Siyi Cheng",
+        "Hao Yu (余浩)",
+        "Hanyu Lai",
+        "Shudan Zhang",
+        "Dan Zhang",
+        "Jie Tang",
+        "Yuxiao Dong"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        7
+      ],
+      "doi": "10.18653/v1/2025.acl-long.107",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.acl-long.107/"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+      "pages": "2144-2166",
+      "pdf_url": "https://aclanthology.org/2025.acl-long.107.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.acl-long.107/",
+      "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "volume": null
+    },
+    "citation_edition": "record"
   },
   "note": "First published: 2024-10-31; Recorded arXiv version: v2; Recorded version updated: 2024-11-04T05:57:31Z.",
   "author": [

@@ -71,7 +71,7 @@ The first page of each topic has an index.md listing all of its resources. Each 
 
 ## Repository identity
 
-- [Verified former repository names](https://awesomecua.github.io/downloads/repository-aliases.json): paired official API observations with the same numeric GitHub repository ID. Use the canonical returned ID for retrieval upserts; aliases add no resources. Record fields and RAG documents retain former names and their alias-scoped evidence.
+- [Verified former repository names](https://awesomecua.github.io/downloads/repository-aliases.json): paired official API observations with the same GitHub or Hugging Face repository ID. Use the canonical returned ID for retrieval upserts; aliases add no resources. Record fields and RAG documents retain former names and their alias-scoped evidence.
 - [Repository identity schema](https://awesomecua.github.io/schemas/repository-alias.schema.json)
 
 ## Download inventory
@@ -80,3 +80,7 @@ The first page of each topic has an index.md listing all of its resources. Each 
 - [中文数据中心](https://awesomecua.github.io/zh/data/)
 - [Download manifest](https://awesomecua.github.io/downloads/manifest.json): file paths, exact byte sizes, SHA-256 fingerprints, counts and units. Compare catalog_sha256 with the RAG, citation and topic manifests before combining artifacts.
 - [Download manifest schema](https://awesomecua.github.io/schemas/download-manifest.schema.json)
+
+## Versioned data
+
+- [Tagged data releases](https://github.com/reacher-z/Awesome-CUA/releases): complete data bundles containing catalog, RAG, citations and topic subsets. Verify SHA256SUMS and retain release-manifest.json, source_commit and catalog_sha256. Repository CLI commands require a source clone at the recorded commit.

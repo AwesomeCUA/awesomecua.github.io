@@ -37,11 +37,7 @@
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/mPLUG/UI_S1_dataset/tree/main",
     "gated": false,
-    "hub_id": "mPLUG/UI_S1_dataset",
-    "languages": [],
-    "modalities": [],
-    "sample_count": null,
-    "sample_unit": null
+    "hub_id": "mPLUG/UI_S1_dataset"
   },
   "environments": [
     "android"

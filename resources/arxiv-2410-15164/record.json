@@ -27,6 +27,50 @@
       "updated_at": "2025-03-31T20:39:17Z",
       "version": 3,
       "versioned_url": "https://arxiv.org/abs/2410.15164v3"
+    },
+    "publication": {
+      "authors": [
+        "Jingxuan Chen",
+        "Derek Yuen",
+        "Bin Xie",
+        "Yuhao Yang",
+        "Gongwei Chen",
+        "Zhihao Wu",
+        "Li Yixing",
+        "Xurui Zhou",
+        "Weiwen Liu",
+        "Shuai Wang",
+        "Kaiwen Zhou",
+        "Rui Shao",
+        "Liqiang Nie",
+        "Yasheng Wang",
+        "Jianye HAO",
+        "Jun Wang",
+        "Kun Shao"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        5,
+        1
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://proceedings.iclr.cc/paper_files/paper/2025/hash/9a75f4dd9679aa4ff80a4e6f0a1dc700-Abstract-Conference.html"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+      "pages": "61769-61806",
+      "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/9a75f4dd9679aa4ff80a4e6f0a1dc700-Paper-Conference.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "SPA-BENCH: A COMPREHENSIVE BENCHMARK FOR SMARTPHONE AGENT EVALUATION",
+      "type": "conference-paper",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/9a75f4dd9679aa4ff80a4e6f0a1dc700-Abstract-Conference.html",
+      "venue": "International Conference on Learning Representations",
+      "volume": "2025"
     }
   },
   "environments": [
@@ -47,6 +91,27 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=2410.00467%2C2410.00689%2C2410.02810%2C2410.02907%2C2410.05243%2C2410.06703%2C2410.08164%2C2410.09006%2C2410.09024%2C2410.11843%2C2410.11871%2C2410.11872%2C2410.13232%2C2410.13757%2C2410.13824%2C2410.13825%2C2410.13886%2C2410.14803%2C2410.15164%2C2410.16464%2C2410.17236%2C2410.17401%2C2410.17520%2C2410.17883%2C2410.18603%2C2410.18963%2C2410.18967%2C2410.19054%2C2410.19100%2C2410.19461%2C2410.19609%2C2410.20745%2C2410.22552%2C2410.23218%2C2410.24024%2C2411.00820%2C2411.02337%2C2411.02391%2C2411.04468%2C2411.04890%2C2411.06559%2C2411.07618%2C2411.10323%2C2411.13451%2C2411.13591%2C2411.15004%2C2411.17465%2C2411.18279%2C2412.00402%2C2412.01268&max_results=50"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:10:02Z",
+      "role": "primary",
+      "sha256": "56efdfea12b96edd94ad366f941d57668cdb75f6889fc03297e749497ff03e92",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.pdf_url",
+        "details.publication.title",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue",
+        "details.publication.volume"
+      ],
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/9a75f4dd9679aa4ff80a4e6f0a1dc700-Abstract-Conference.html"
     },
     {
       "method": "editorial_primary_review",
@@ -81,6 +146,14 @@
     {
       "rel": "primary",
       "url": "https://arxiv.org/abs/2410.15164"
+    },
+    {
+      "rel": "publication",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/9a75f4dd9679aa4ff80a4e6f0a1dc700-Abstract-Conference.html"
+    },
+    {
+      "rel": "publication_pdf",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/9a75f4dd9679aa4ff80a4e6f0a1dc700-Paper-Conference.pdf"
     }
   ],
   "name": "SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation",

@@ -1,0 +1,146 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "dataset_profile": {
+      "counts": [
+        {
+          "basis": "reported",
+          "evidence_url": "https://raw.githubusercontent.com/AMAP-ML/Code2World/HEAD/readme.md",
+          "population": "AndroidCode corpus described by Code2World README; released JSON rows not recounted",
+          "qualifier": "more-than",
+          "unit": "screen–action pairs",
+          "value": 80000
+        }
+      ],
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/AMAP-ML/Code2World/HEAD/readme.md",
+        "https://huggingface.co/api/datasets/GD-ML/AndroidCode"
+      ],
+      "formats": [
+        "HTML",
+        "JSON",
+        "Python extraction/loading scripts"
+      ],
+      "modalities": [
+        "GUI screenshots (described input)",
+        "GUI actions",
+        "HTML"
+      ],
+      "notes": "The manifest lists 58,953 HTML files, which are not converted into transition/example counts. The reported >80k pairs and the HTML-file inventory have different units. The card itself has no sample schema or count; archive/image completeness and JSON contents were not audited.",
+      "splits": [
+        "Android-Control train file",
+        "Android-Control test file"
+      ],
+      "supervision": [
+        "action-conditioned next-state code prediction",
+        "generated HTML supervision"
+      ]
+    },
+    "disabled": false,
+    "download_url": "https://huggingface.co/datasets/GD-ML/AndroidCode/tree/af316a6be79bbe08c4fc09ea588b5f80f177ed25",
+    "gated": false,
+    "hub_id": "GD-ML/AndroidCode",
+    "hub_revision": "af316a6be79bbe08c4fc09ea588b5f80f177ed25",
+    "license_review": {
+      "data": {
+        "evidence_urls": [
+          "https://huggingface.co/datasets/GD-ML/AndroidCode/raw/af316a6be79bbe08c4fc09ea588b5f80f177ed25/README.md"
+        ],
+        "reason": "Publisher dataset-card declaration for this release; it does not establish rights to all upstream screenshots, applications or source content."
+      }
+    },
+    "repository_url": "https://github.com/AMAP-ML/Code2World"
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:27:14Z",
+      "role": "primary",
+      "sha256": "26c14a14166d3b747454d1924ecdf6d96652ac857ae6ad488630dc843036a777",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "relations",
+        "details.dataset_profile"
+      ],
+      "url": "https://raw.githubusercontent.com/AMAP-ML/Code2World/HEAD/readme.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:33:22Z",
+      "role": "primary",
+      "sha256": "5774a3c096264fbba58b7a16587ea65f35628edb9ca39afe8a32c74ec7fd1ce7",
+      "supports": [
+        "identity",
+        "release_status",
+        "details.hub_id",
+        "details.hub_revision",
+        "details.gated",
+        "details.disabled",
+        "details.download_url",
+        "details.dataset_profile"
+      ],
+      "url": "https://huggingface.co/api/datasets/GD-ML/AndroidCode"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:35:17Z",
+      "role": "primary",
+      "sha256": "d8d7a46d41a1a37fe4f0a5f637bf55c649310185329127d8a2204632e480be17",
+      "supports": [
+        "licenses.data"
+      ],
+      "url": "https://huggingface.co/datasets/GD-ML/AndroidCode/raw/af316a6be79bbe08c4fc09ea588b5f80f177ed25/README.md"
+    }
+  ],
+  "id": "url:cf4d2d45a7314cb16acb",
+  "identifiers": {},
+  "kind": "dataset",
+  "last_verified_at": "2026-10-18T04:27:14Z",
+  "licenses": {
+    "code": null,
+    "data": {
+      "basis": "Publisher dataset-card declaration for this release; it does not establish rights to all upstream screenshots, applications or source content.",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-18T04:35:17Z",
+      "url": "https://huggingface.co/datasets/GD-ML/AndroidCode/raw/af316a6be79bbe08c4fc09ea588b5f80f177ed25/README.md"
+    },
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://huggingface.co/datasets/GD-ML/AndroidCode"
+    }
+  ],
+  "name": "AndroidCode",
+  "notes": "The Hub card is license-only; semantic description and reported scale come from the official Code2World README. The public manifest contains HTML files, Android-Control train/test JSON files and extraction/loading scripts. It does not list standalone screenshot image files, and embedded/reference image packaging was not inspected. MIT is the data-card declaration, not a grant for every upstream source dataset.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/AMAP-ML/Code2World/HEAD/readme.md",
+      "target_id": "arxiv:2602.09856",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "HTML and annotation release used for Code2World’s action-conditioned GUI-state prediction training, constructed from mobile GUI trajectories.",
+  "topics": [
+    "world-models",
+    "data-generation",
+    "screen-understanding"
+  ],
+  "updated_at": null,
+  "url": "https://huggingface.co/datasets/GD-ML/AndroidCode"
+}

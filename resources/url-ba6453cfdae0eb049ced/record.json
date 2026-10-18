@@ -30,11 +30,7 @@
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/xTRam1/plan-and-act-data/tree/main",
     "gated": false,
-    "hub_id": "xTRam1/plan-and-act-data",
-    "languages": [],
-    "modalities": [],
-    "sample_count": null,
-    "sample_unit": null
+    "hub_id": "xTRam1/plan-and-act-data"
   },
   "environments": [
     "web"

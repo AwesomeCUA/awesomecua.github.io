@@ -1,5 +1,9 @@
 {
-  "aliases": [],
+  "aliases": [
+    "url:a778c3411858c38c0f39",
+    "OpenMobile-2/OpenMobile-Data",
+    "https://huggingface.co/datasets/OpenMobile-2/OpenMobile-Data"
+  ],
   "authors": [],
   "details": {
     "dataset_profile": {
@@ -51,12 +55,7 @@
         "next-action supervision",
         "verifiable task outcomes"
       ]
-    },
-    "download_url": null,
-    "languages": [],
-    "modalities": [],
-    "sample_count": null,
-    "sample_unit": null
+    }
   },
   "environments": [
     "android",
@@ -90,6 +89,26 @@
         "environments"
       ],
       "url": "https://raw.githubusercontent.com/OpenMobile2/OpenMobile2-Code/HEAD/README.md"
+    },
+    {
+      "method": "huggingface_repository_identity",
+      "retrieved_at": "2026-10-17T19:15:18Z",
+      "role": "primary",
+      "sha256": "14b1211ed709147f4022f311c17303ca70faaffa22be143617eb431d966eec1a",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://huggingface.co/api/datasets/OpenMobile-2/OpenMobile-Data"
+    },
+    {
+      "method": "huggingface_repository_identity",
+      "retrieved_at": "2026-10-17T19:15:20Z",
+      "role": "primary",
+      "sha256": "14b1211ed709147f4022f311c17303ca70faaffa22be143617eb431d966eec1a",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://huggingface.co/api/datasets/OpenMobile-2/OpenMobile-Data-v2"
     }
   ],
   "id": "url:546e6c95825d1318c98d",

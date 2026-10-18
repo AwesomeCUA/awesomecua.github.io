@@ -1,0 +1,106 @@
+{
+  "id": "arxiv:2407.17490:publication",
+  "citation-key": "arxiv_2407_17490_publication",
+  "type": "paper-conference",
+  "title": "AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents",
+  "URL": "https://aclanthology.org/2025.findings-acl.110/",
+  "custom": {
+    "catalog_id": "arxiv:2407.17490",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2407.17490",
+    "identifiers": {
+      "arxiv": "2407.17490"
+    },
+    "first_published_at": "2024-07-03",
+    "record_updated_at": "2025-05-29",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9c80665716bf665fe4688a27a4c7dcf26fcfe93cb7f79a6f28784a795e0bd3cb",
+      "submitted_at": "2024-07-03T17:59:58Z",
+      "updated_at": "2025-05-29T02:43:50Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2407.17490v2"
+    },
+    "publication": {
+      "authors": [
+        "Yuxiang Chai",
+        "Siyuan Huang",
+        "Yazhe Niu",
+        "Han Xiao",
+        "Liang Liu",
+        "Guozhi Wang",
+        "Dingyu Zhang",
+        "Shuai Ren",
+        "Hongsheng Li"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        7
+      ],
+      "doi": "10.18653/v1/2025.findings-acl.110",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.findings-acl.110/",
+        "https://aclanthology.org/2025.findings-acl.110.pdf"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher PDF title and complete first-page author list were visually checked.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. The publisher PDF, page 1, lists nine authors including Guozhi Wang; the retained arXiv snapshot lists eight. Each edition retains its own authors.",
+      "pages": "2138-2156",
+      "pdf_url": "https://aclanthology.org/2025.findings-acl.110.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.findings-acl.110/",
+      "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2025-07.",
+  "author": [
+    {
+      "literal": "Yuxiang Chai"
+    },
+    {
+      "literal": "Siyuan Huang"
+    },
+    {
+      "literal": "Yazhe Niu"
+    },
+    {
+      "literal": "Han Xiao"
+    },
+    {
+      "literal": "Liang Liu"
+    },
+    {
+      "literal": "Guozhi Wang"
+    },
+    {
+      "literal": "Dingyu Zhang"
+    },
+    {
+      "literal": "Shuai Ren"
+    },
+    {
+      "literal": "Hongsheng Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.18653/v1/2025.findings-acl.110",
+  "container-title": "Findings of the Association for Computational Linguistics: ACL 2025",
+  "publisher": "Association for Computational Linguistics",
+  "page": "2138-2156"
+}

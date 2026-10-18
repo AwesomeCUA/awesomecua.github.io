@@ -28,11 +28,7 @@
       "notes": "CRAB is also an extensible framework. The 120-task count belongs to Benchmark-v0, not every environment that can be created with the framework.",
       "observations": [],
       "setting": "interactive"
-    },
-    "evaluation_type": null,
-    "leaderboard_url": null,
-    "metrics": [],
-    "task_count": null
+    }
   },
   "environments": [
     "desktop",

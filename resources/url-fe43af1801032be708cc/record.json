@@ -27,14 +27,11 @@
       ]
     },
     "download_url": "https://huggingface.co/datasets/h-siyuan/ScreenDrag/tree/main",
-    "languages": [],
     "modalities": [
       "image",
       "text",
       "continuous-actions"
-    ],
-    "sample_count": null,
-    "sample_unit": null
+    ]
   },
   "environments": [
     "desktop"

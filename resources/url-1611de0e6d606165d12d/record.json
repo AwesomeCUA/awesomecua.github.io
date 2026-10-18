@@ -1,5 +1,9 @@
 {
-  "aliases": [],
+  "aliases": [
+    "url:1ab38d1d6a4c46a8eb3e",
+    "OpenMobile-2/OpenMobile-27B",
+    "https://huggingface.co/OpenMobile-2/OpenMobile-27B"
+  ],
   "authors": [],
   "details": {
     "artifact_inspection": "Public file-manifest inspection only; weights were not downloaded.",
@@ -74,6 +78,26 @@
         "licenses.weights"
       ],
       "url": "https://huggingface.co/OpenMobile-2/OpenMobile-2-27B/raw/main/README.md"
+    },
+    {
+      "method": "huggingface_repository_identity",
+      "retrieved_at": "2026-10-17T19:15:11Z",
+      "role": "primary",
+      "sha256": "f669181b7f1b92bbbcb8ab71f0d15d8c3cf93b3665d73d20e9b9f0dc3a36e158",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://huggingface.co/api/models/OpenMobile-2/OpenMobile-27B"
+    },
+    {
+      "method": "huggingface_repository_identity",
+      "retrieved_at": "2026-10-17T19:15:12Z",
+      "role": "primary",
+      "sha256": "f669181b7f1b92bbbcb8ab71f0d15d8c3cf93b3665d73d20e9b9f0dc3a36e158",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://huggingface.co/api/models/OpenMobile-2/OpenMobile-2-27B"
     }
   ],
   "id": "url:1611de0e6d606165d12d",

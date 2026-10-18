@@ -1055,6 +1055,253 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2606.18671v1",
+    "archive": "arXiv",
+    "archive_location": "2606.18671",
+    "author": [
+      {
+        "literal": "Yujin Zhang"
+      },
+      {
+        "literal": "Daye Nam"
+      }
+    ],
+    "citation-key": "arxiv_2606_18671",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c52695e860206d02735839853416965ec3d42fac134ebfa0e8f2f5f5ea043914",
+        "submitted_at": "2026-06-17T04:13:20Z",
+        "updated_at": "2026-06-17T04:13:20Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.18671v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.18671",
+      "catalog_id": "arxiv:2606.18671",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-17",
+      "identifiers": {
+        "arxiv": "2606.18671"
+      },
+      "record_updated_at": "2026-06-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.18671",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-17; Recorded arXiv version: v1; Recorded version updated: 2026-06-17T04:13:20Z.",
+    "title": "HANSEL: Extracting Breadcrumbs from Web Agent Trajectories for Interactive Verification",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.20910v1",
+    "archive": "arXiv",
+    "archive_location": "2606.20910",
+    "author": [
+      {
+        "literal": "Dayeon Kang"
+      },
+      {
+        "literal": "Hyejun Jeong"
+      },
+      {
+        "literal": "Jade Sheffey"
+      },
+      {
+        "literal": "Pubali Datta"
+      },
+      {
+        "literal": "Amir Houmansadr"
+      }
+    ],
+    "citation-key": "arxiv_2606_20910",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8b2c6080f0de11c06fe73c30195c7c8529e07de283dc45fa47709072846d385a",
+        "submitted_at": "2026-06-18T20:07:39Z",
+        "updated_at": "2026-06-18T20:07:39Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.20910v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.20910",
+      "catalog_id": "arxiv:2606.20910",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-18",
+      "identifiers": {
+        "arxiv": "2606.20910"
+      },
+      "record_updated_at": "2026-06-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.20910",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-18; Recorded arXiv version: v1; Recorded version updated: 2026-06-18T20:07:39Z.",
+    "title": "Whose Agent Are You? Multi-Layer Fingerprinting and Attribution of Autonomous Web Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.30119v1",
+    "archive": "arXiv",
+    "archive_location": "2606.30119",
+    "author": [
+      {
+        "literal": "Iliana Fayolle"
+      },
+      {
+        "literal": "Sihem Bouhenniche"
+      },
+      {
+        "literal": "Samuel Pélissier"
+      },
+      {
+        "literal": "Pierre Laperdrix"
+      },
+      {
+        "literal": "Clémentine Maurice"
+      },
+      {
+        "literal": "Walter Rudametkin"
+      }
+    ],
+    "citation-key": "arxiv_2606_30119",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "770c901e3490b2a43b02296136825e8e6bd035fb7494ea74b3a9af74be1afed1",
+        "submitted_at": "2026-06-29T10:51:13Z",
+        "updated_at": "2026-06-29T10:51:13Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.30119v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.30119",
+      "catalog_id": "arxiv:2606.30119",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-29",
+      "identifiers": {
+        "arxiv": "2606.30119"
+      },
+      "record_updated_at": "2026-06-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.30119",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-29; Recorded arXiv version: v1; Recorded version updated: 2026-06-29T10:51:13Z.",
+    "title": "On the Internet, Nobody Knows You're an LLM Bot: Unmasking Web Agents with Multi-Layer Fingerprinting",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.06118v1",
+    "archive": "arXiv",
+    "archive_location": "2607.06118",
+    "author": [
+      {
+        "literal": "Wei Dong"
+      },
+      {
+        "literal": "Tianyu Fu"
+      },
+      {
+        "literal": "Zhe Yu"
+      },
+      {
+        "literal": "Hanning Wang"
+      },
+      {
+        "literal": "Anyang Su"
+      },
+      {
+        "literal": "Zhizhou Fang"
+      },
+      {
+        "literal": "Yuyang Chen"
+      },
+      {
+        "literal": "Shuo Wang"
+      },
+      {
+        "literal": "Minghui Wu"
+      },
+      {
+        "literal": "Ping Jiang"
+      },
+      {
+        "literal": "Zhen Lei"
+      },
+      {
+        "literal": "Chenxu Zhao"
+      }
+    ],
+    "citation-key": "arxiv_2607_06118",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cc6d846f43b9992388e94f3bcfdfc9a25d09b317fea62336aa22951c8fce9f8b",
+        "submitted_at": "2026-07-07T10:27:31Z",
+        "updated_at": "2026-07-07T10:27:31Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2607.06118v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.06118",
+      "catalog_id": "arxiv:2607.06118",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-07",
+      "identifiers": {
+        "arxiv": "2607.06118"
+      },
+      "record_updated_at": "2026-07-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.06118",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-07; Recorded arXiv version: v1; Recorded version updated: 2026-07-07T10:27:31Z.",
+    "title": "WebRetriever: A Large-Scale Comprehensive Benchmark for Efficient Web Agent Evaluation",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2607.14443v1",
     "archive": "arXiv",
     "archive_location": "2607.14443",
@@ -1356,6 +1603,67 @@
     },
     "note": "First published: 2026-08-28; Recorded arXiv version: v1; Recorded version updated: 2026-08-28T00:50:47Z.",
     "title": "CURA: Certified Runtime Alarms for Computer-Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2609.02057v1",
+    "archive": "arXiv",
+    "archive_location": "2609.02057",
+    "author": [
+      {
+        "literal": "Sitong Pan"
+      },
+      {
+        "literal": "Yipeng Shen"
+      },
+      {
+        "literal": "Yilin Lu"
+      },
+      {
+        "literal": "Caiwen Ding"
+      },
+      {
+        "literal": "Lu Cheng"
+      },
+      {
+        "literal": "Qianwen Wang"
+      }
+    ],
+    "citation-key": "arxiv_2609_02057",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "967f1cdda69349da3280827c0b90301e4942c44398902ab6cfb868f1d3e94a84",
+        "submitted_at": "2026-09-02T03:34:47Z",
+        "updated_at": "2026-09-02T03:34:47Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.02057v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.02057",
+      "catalog_id": "arxiv:2609.02057",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-02",
+      "identifiers": {
+        "arxiv": "2609.02057"
+      },
+      "record_updated_at": "2026-09-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.02057",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-02; Recorded arXiv version: v1; Recorded version updated: 2026-09-02T03:34:47Z.",
+    "title": "Monitoring Web Agents Without Internal Signals: Observable Trajectories and Key-Step Supervision",
     "type": "article",
     "version": "1"
   },

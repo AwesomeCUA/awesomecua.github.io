@@ -1,0 +1,89 @@
+{
+  "aliases": [],
+  "authors": [
+    "Sejin Lee",
+    "Jian Kim",
+    "Haon Park",
+    "Ashkan Yousefpour",
+    "Sangyoon Yu",
+    "Min Song"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5e90cbc547703a2673cfb30bbe9079496ce4c076b51f39e0557f5db9048947c8",
+      "submitted_at": "2025-03-26T07:08:15Z",
+      "updated_at": "2025-06-08T05:39:56Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2503.20279v3"
+    }
+  },
+  "environments": [
+    "desktop",
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-18T04:21:52Z",
+      "role": "primary",
+      "sha256": "c194d15b7e422aae48b4e05216a1f1d84471b6666718b9d3dd4c9d250c356e77",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2210.03347%2C2403.04984%2C2405.07090%2C2406.06282%2C2409.00088%2C2409.10811%2C2411.10943%2C2503.09241%2C2503.20279%2C2503.23350%2C2505.05440%2C2505.10593%2C2505.16422%2C2505.21279%2C2505.24878%2C2506.02153%2C2506.02839%2C2506.05079%2C2506.07976%2C2508.02046%2C2511.07885%2C2511.11248%2C2512.21720%2C2603.20351%2C2604.19299&max_results=25"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:21:52Z",
+      "role": "primary",
+      "sha256": "c194d15b7e422aae48b4e05216a1f1d84471b6666718b9d3dd4c9d250c356e77",
+      "supports": [
+        "name",
+        "kind",
+        "scope",
+        "environments",
+        "topics",
+        "summary",
+        "notes"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2210.03347%2C2403.04984%2C2405.07090%2C2406.06282%2C2409.00088%2C2409.10811%2C2411.10943%2C2503.09241%2C2503.20279%2C2503.23350%2C2505.05440%2C2505.10593%2C2505.16422%2C2505.21279%2C2505.24878%2C2506.02153%2C2506.02839%2C2506.05079%2C2506.07976%2C2508.02046%2C2511.07885%2C2511.11248%2C2512.21720%2C2603.20351%2C2604.19299&max_results=25"
+    }
+  ],
+  "id": "arxiv:2503.20279",
+  "identifiers": {
+    "arxiv": "2503.20279"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-18T04:21:52Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2503.20279"
+    }
+  ],
+  "name": "sudo rm -rf agentic_security",
+  "notes": "Reviewed against the complete official arXiv abstract. Experimental results and linked artifact availability have not been independently reproduced.",
+  "published_at": "2025-03-26",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Evaluates security failures of computer-use agents under adversarial requests and screen-context manipulation. The study examines refusal behavior while agents perform tasks in desktop and web environments.",
+  "topics": [
+    "safety-security",
+    "evaluation"
+  ],
+  "updated_at": "2025-06-08",
+  "url": "https://arxiv.org/abs/2503.20279"
+}

@@ -1,5 +1,9 @@
 {
-  "aliases": [],
+  "aliases": [
+    "url:a6db151f939a6748ff76",
+    "showlab/ShowUI-desktop",
+    "https://huggingface.co/datasets/showlab/ShowUI-desktop"
+  ],
   "authors": [],
   "details": {
     "dataset_profile": {
@@ -43,8 +47,6 @@
       "text",
       "timeseries"
     ],
-    "sample_count": null,
-    "sample_unit": null,
     "size_category_reported": null
   },
   "environments": [
@@ -87,6 +89,26 @@
       "supports": [
         "details",
         "licenses.data"
+      ],
+      "url": "https://huggingface.co/api/datasets/showlab/ShowUI-desktop-8K"
+    },
+    {
+      "method": "huggingface_repository_identity",
+      "retrieved_at": "2026-10-17T19:14:57Z",
+      "role": "primary",
+      "sha256": "57eaa720c20e9e3a4428c8292c150e1949f3372c75c6890e424ba3c6600a5e5d",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://huggingface.co/api/datasets/showlab/ShowUI-desktop"
+    },
+    {
+      "method": "huggingface_repository_identity",
+      "retrieved_at": "2026-10-17T19:14:58Z",
+      "role": "primary",
+      "sha256": "57eaa720c20e9e3a4428c8292c150e1949f3372c75c6890e424ba3c6600a5e5d",
+      "supports": [
+        "aliases"
       ],
       "url": "https://huggingface.co/api/datasets/showlab/ShowUI-desktop-8K"
     }

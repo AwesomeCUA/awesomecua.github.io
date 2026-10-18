@@ -34,8 +34,6 @@
         "GUI trajectory supervision from multimodal tutorials"
       ]
     },
-    "download_url": null,
-    "languages": [],
     "license_review": {
       "data": {
         "evidence_urls": [
@@ -44,10 +42,7 @@
         "reason": "Publisher declaration for this dataset packaging; original web/tutorial materials retain applicable rights."
       }
     },
-    "modalities": [],
-    "release_revision": "60d1e644fcff7d3b62093baec03fe7efeb0d98a1",
-    "sample_count": null,
-    "sample_unit": null
+    "release_revision": "60d1e644fcff7d3b62093baec03fe7efeb0d98a1"
   },
   "environments": [
     "unspecified"

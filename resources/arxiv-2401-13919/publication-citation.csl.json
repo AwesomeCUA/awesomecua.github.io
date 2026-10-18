@@ -1,0 +1,101 @@
+{
+  "id": "arxiv:2401.13919:publication",
+  "citation-key": "arxiv_2401_13919_publication",
+  "type": "paper-conference",
+  "title": "WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models",
+  "URL": "https://aclanthology.org/2024.acl-long.371/",
+  "custom": {
+    "catalog_id": "arxiv:2401.13919",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2401.13919",
+    "identifiers": {
+      "arxiv": "2401.13919"
+    },
+    "first_published_at": "2024-01-25",
+    "record_updated_at": "2024-06-06",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "dbc7121c9606c5987df0941b849c216ad8731bebcc74a061cf3f154379d7b8da",
+      "submitted_at": "2024-01-25T03:33:18Z",
+      "updated_at": "2024-06-06T18:37:34Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2401.13919v4"
+    },
+    "publication": {
+      "authors": [
+        "Hongliang He",
+        "Wenlin Yao",
+        "Kaixin Ma",
+        "Wenhao Yu",
+        "Yong Dai",
+        "Hongming Zhang",
+        "Zhenzhong Lan",
+        "Dong Yu"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2024,
+        8
+      ],
+      "doi": "10.18653/v1/2024.acl-long.371",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2024.acl-long.371/"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+      "pages": "6864-6890",
+      "pdf_url": "https://aclanthology.org/2024.acl-long.371.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2024.acl-long.371/",
+      "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2024-08.",
+  "author": [
+    {
+      "literal": "Hongliang He"
+    },
+    {
+      "literal": "Wenlin Yao"
+    },
+    {
+      "literal": "Kaixin Ma"
+    },
+    {
+      "literal": "Wenhao Yu"
+    },
+    {
+      "literal": "Yong Dai"
+    },
+    {
+      "literal": "Hongming Zhang"
+    },
+    {
+      "literal": "Zhenzhong Lan"
+    },
+    {
+      "literal": "Dong Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8
+      ]
+    ]
+  },
+  "DOI": "10.18653/v1/2024.acl-long.371",
+  "container-title": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "publisher": "Association for Computational Linguistics",
+  "page": "6864-6890"
+}

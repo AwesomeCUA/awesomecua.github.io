@@ -41,7 +41,6 @@
       "setting": "interactive"
     },
     "evaluation_type": "rubric-based",
-    "leaderboard_url": null,
     "metrics": [
       "mean rubric score",
       "full-task pass rate"

@@ -25,7 +25,6 @@
     "download_url": "https://huggingface.co/datasets/BlitherBoom/AutoDroid-V2-Dataset/tree/main",
     "gated": false,
     "hub_id": "BlitherBoom/AutoDroid-V2-Dataset",
-    "languages": [],
     "license_review": {
       "data": {
         "evidence_urls": [
@@ -34,10 +33,7 @@
         "reason": "Publisher dataset-card license declaration; does not establish permissions for model weights or third-party application content."
       }
     },
-    "modalities": [],
-    "release_revision": "f041810dd32a2f2999647b7d4f4b8438482c01b8",
-    "sample_count": null,
-    "sample_unit": null
+    "release_revision": "f041810dd32a2f2999647b7d4f4b8438482c01b8"
   },
   "environments": [
     "android"

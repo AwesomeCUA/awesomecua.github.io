@@ -16,6 +16,38 @@
       "updated_at": "2024-11-20T16:54:15Z",
       "version": 1,
       "versioned_url": "https://arxiv.org/abs/2411.13451v1"
+    },
+    "publication": {
+      "authors": [
+        "Gaurav Verma",
+        "Rachneet Kaur",
+        "Nishan Srishankar",
+        "Zhen Zeng",
+        "Tucker Balch",
+        "Manuela Veloso"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        7
+      ],
+      "doi": "10.18653/v1/2025.acl-long.1008",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.acl-long.1008/"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+      "pages": "20635-20651",
+      "pdf_url": "https://aclanthology.org/2025.acl-long.1008.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.acl-long.1008/",
+      "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "volume": null
     }
   },
   "environments": [
@@ -36,6 +68,28 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:09:56Z",
+      "role": "primary",
+      "sha256": "e8930e90d2d78f0d6ef35acc487ba355d3798cdafbcc1d2637258bad81407d41",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.doi",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.pdf_url",
+        "details.publication.publisher",
+        "details.publication.title",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue"
+      ],
+      "url": "https://aclanthology.org/2025.acl-long.1008/"
     },
     {
       "method": "editorial_primary_review",
@@ -70,6 +124,14 @@
     {
       "rel": "primary",
       "url": "https://arxiv.org/abs/2411.13451"
+    },
+    {
+      "rel": "publication",
+      "url": "https://aclanthology.org/2025.acl-long.1008/"
+    },
+    {
+      "rel": "publication_pdf",
+      "url": "https://aclanthology.org/2025.acl-long.1008.pdf"
     }
   ],
   "name": "AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations",

@@ -1,0 +1,103 @@
+{
+  "id": "arxiv:2411.17465:publication",
+  "citation-key": "arxiv_2411_17465_publication",
+  "type": "paper-conference",
+  "title": "ShowUI: One Vision-Language-Action Model for GUI Visual Agent",
+  "URL": "https://openaccess.thecvf.com/content/CVPR2025/html/Lin_ShowUI_One_Vision-Language-Action_Model_for_GUI_Visual_Agent_CVPR_2025_paper.html",
+  "custom": {
+    "catalog_id": "arxiv:2411.17465",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2411.17465",
+    "identifiers": {
+      "arxiv": "2411.17465"
+    },
+    "first_published_at": "2024-11-26",
+    "record_updated_at": "2024-11-26",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8c8f5c0a7fc5f194ffa6ca914619b9402c947d15f100b124505883ad8ff23ac7",
+      "submitted_at": "2024-11-26T14:29:47Z",
+      "updated_at": "2024-11-26T14:29:47Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2411.17465v1"
+    },
+    "publication": {
+      "authors": [
+        "Kevin Qinghong Lin",
+        "Linjie Li",
+        "Difei Gao",
+        "Zhengyuan Yang",
+        "Shiwei Wu",
+        "Zechen Bai",
+        "Stan Weixian Lei",
+        "Lijuan Wang",
+        "Mike Zheng Shou"
+      ],
+      "date_basis": "Year from publisher citation metadata and month from the same page's embedded BibTeX; no day is supplied.",
+      "date_parts": [
+        2025,
+        6
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://openaccess.thecvf.com/content/CVPR2025/html/Lin_ShowUI_One_Vision-Language-Action_Model_for_GUI_Visual_Agent_CVPR_2025_paper.html"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher page directly links this arXiv identifier.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+      "pages": "19498-19508",
+      "pdf_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lin_ShowUI_One_Vision-Language-Action_Model_for_GUI_Visual_Agent_CVPR_2025_paper.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "ShowUI: One Vision-Language-Action Model for GUI Visual Agent",
+      "type": "conference-paper",
+      "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Lin_ShowUI_One_Vision-Language-Action_Model_for_GUI_Visual_Agent_CVPR_2025_paper.html",
+      "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2025-06.",
+  "author": [
+    {
+      "literal": "Kevin Qinghong Lin"
+    },
+    {
+      "literal": "Linjie Li"
+    },
+    {
+      "literal": "Difei Gao"
+    },
+    {
+      "literal": "Zhengyuan Yang"
+    },
+    {
+      "literal": "Shiwei Wu"
+    },
+    {
+      "literal": "Zechen Bai"
+    },
+    {
+      "literal": "Stan Weixian Lei"
+    },
+    {
+      "literal": "Lijuan Wang"
+    },
+    {
+      "literal": "Mike Zheng Shou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6
+      ]
+    ]
+  },
+  "container-title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+  "page": "19498-19508"
+}

@@ -1,4 +1,4 @@
-import { KIND_ORDER, KINDS, PLATFORMS, PAGE_SIZE, FACT_LABELS, createRecordLoader, bibliographicDate, compactFacts, initials, matches, filtered, pageWindow, parseState, serializeState, recordSearchText, escapeHTML as e, safeURL, formatDate, formatFact } from './catalog-core.js?v=55e19b167c3d785f8e869c7ebc5c6483d86dc9b32f97b575cc61dc370317efe1';
+import { KIND_ORDER, KINDS, PLATFORMS, PAGE_SIZE, FACT_LABELS, createRecordLoader, bibliographicDate, compactFacts, initials, matches, filtered, pageWindow, parseState, serializeState, recordSearchText, escapeHTML as e, safeURL, formatDate, formatFact } from './catalog-core.js?v=a16c5d86ba193352001f7a1a7db7e91daa8183b8d5db5606e59fe01442abf3d0';
 
 const TEXT = {
   en: {

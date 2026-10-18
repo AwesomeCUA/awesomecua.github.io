@@ -467,9 +467,42 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2023-07-19",
       "identifiers": {
         "arxiv": "2307.10088"
+      },
+      "publication": {
+        "authors": [
+          "Christopher Rawles",
+          "Alice Li",
+          "Daniel Rodriguez",
+          "Oriana Riva",
+          "Timothy Lillicrap"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2023-12-15. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2023,
+          12,
+          15
+        ],
+        "doi": "10.52202/075280-2609",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.neurips.cc/paper_files/paper/2023/hash/bbbb6308b402fe909c39dd29950c32e0-Abstract-Datasets_and_Benchmarks.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "59708-59728",
+        "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2023/file/bbbb6308b402fe909c39dd29950c32e0-Paper-Datasets_and_Benchmarks.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "AndroidInTheWild: A Large-Scale Dataset For Android Device Control",
+        "type": "conference-paper",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/bbbb6308b402fe909c39dd29950c32e0-Abstract-Datasets_and_Benchmarks.html",
+        "venue": "Advances in Neural Information Processing Systems",
+        "volume": "36"
       },
       "record_updated_at": "2023-10-27"
     },
@@ -589,9 +622,38 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2023-09-20",
       "identifiers": {
         "arxiv": "2309.11436"
+      },
+      "publication": {
+        "authors": [
+          "Zhuosheng Zhang",
+          "Aston Zhang"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          8
+        ],
+        "doi": "10.18653/v1/2024.findings-acl.186",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2024.findings-acl.186/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "3132-3149",
+        "pdf_url": "https://aclanthology.org/2024.findings-acl.186.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "You Only Look at Screens: Multimodal Chain-of-Action Agents",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2024.findings-acl.186/",
+        "venue": "Findings of the Association for Computational Linguistics: ACL 2024",
+        "volume": null
       },
       "record_updated_at": "2024-06-07"
     },
@@ -1223,9 +1285,39 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2024-02-19",
       "identifiers": {
         "arxiv": "2402.11941"
+      },
+      "publication": {
+        "authors": [
+          "Xinbei Ma",
+          "Zhuosheng Zhang",
+          "Hai Zhao (赵海)"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          8
+        ],
+        "doi": "10.18653/v1/2024.findings-acl.539",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2024.findings-acl.539"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "9097-9110",
+        "pdf_url": "https://aclanthology.org/2024.findings-acl.539.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "CoCo-Agent: A Comprehensive Cognitive MLLM Agent for Smartphone GUI Automation",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2024.findings-acl.539",
+        "venue": "Findings of the Association for Computational Linguistics: ACL 2024",
+        "volume": null
       },
       "record_updated_at": "2024-06-02"
     },
@@ -1290,9 +1382,44 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2024-03-05",
       "identifiers": {
         "arxiv": "2403.02713"
+      },
+      "publication": {
+        "authors": [
+          "Jiwen Zhang (张霁雯)",
+          "Jihao Wu",
+          "Teng Yihua",
+          "Minghui Liao",
+          "Nuo Xu",
+          "Xiao Xiao",
+          "Zhongyu Wei (魏忠钰)",
+          "Duyu Tang"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          11
+        ],
+        "doi": "10.18653/v1/2024.findings-emnlp.702",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2024.findings-emnlp.702/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "12016-12031",
+        "pdf_url": "https://aclanthology.org/2024.findings-emnlp.702.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "Android in the Zoo: Chain-of-Action-Thought for GUI Agents",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2024.findings-emnlp.702/",
+        "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+        "volume": null
       },
       "record_updated_at": "2024-07-13"
     },
@@ -1613,9 +1740,52 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2024-05-23",
       "identifiers": {
         "arxiv": "2405.14573"
+      },
+      "publication": {
+        "authors": [
+          "Chris Rawles",
+          "Sarah Clinckemaillie",
+          "Yifan Chang",
+          "Jonathan Waltz",
+          "Gabrielle Lau",
+          "Marybeth Fair",
+          "Alice Li",
+          "William Bishop",
+          "Wei Li",
+          "Folawiyo Campbell-Ajala",
+          "Daniel Toyama",
+          "Robert Berry",
+          "Divya Tyamagundlu",
+          "Timothy Lillicrap",
+          "Oriana Riva"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          5,
+          1
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.iclr.cc/paper_files/paper/2025/hash/01a83bc2f2732a58e6aa731e659e7101-Abstract-Conference.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "406-441",
+        "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/01a83bc2f2732a58e6aa731e659e7101-Paper-Conference.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents",
+        "type": "conference-paper",
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/01a83bc2f2732a58e6aa731e659e7101-Abstract-Conference.html",
+        "venue": "International Conference on Learning Representations",
+        "volume": "2025"
       },
       "record_updated_at": "2025-04-06"
     },
@@ -1747,9 +1917,44 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2024-06-06",
       "identifiers": {
         "arxiv": "2406.03679"
+      },
+      "publication": {
+        "authors": [
+          "Wei Li",
+          "William Bishop",
+          "Alice Li",
+          "Chris Rawles",
+          "Folawiyo Campbell-Ajala",
+          "Divya Tyamagundlu",
+          "Oriana Riva"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          12,
+          16
+        ],
+        "doi": "10.52202/079017-2925",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.neurips.cc/paper_files/paper/2024/hash/a79f3ef3b445fd4659f44648f7ea8ffd-Abstract-Datasets_and_Benchmarks_Track.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "92130-92154",
+        "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/a79f3ef3b445fd4659f44648f7ea8ffd-Paper-Datasets_and_Benchmarks_Track.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "On the Effects of Data Scale on UI Control Agents",
+        "type": "conference-paper",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/a79f3ef3b445fd4659f44648f7ea8ffd-Abstract-Datasets_and_Benchmarks_Track.html",
+        "venue": "Advances in Neural Information Processing Systems",
+        "volume": "37"
       },
       "record_updated_at": "2024-11-13"
     },
@@ -1878,9 +2083,44 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2024-06-14",
       "identifiers": {
         "arxiv": "2406.11896"
+      },
+      "publication": {
+        "authors": [
+          "Hao Bai",
+          "Yifei Zhou",
+          "Mert Cemri",
+          "Jiayi Pan",
+          "Alane Suhr",
+          "Sergey Levine",
+          "Aviral Kumar"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          12,
+          16
+        ],
+        "doi": "10.52202/079017-0397",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.neurips.cc/paper_files/paper/2024/hash/1704ddd0bb89f159dfe609b32c889995-Abstract-Conference.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "12461-12495",
+        "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/1704ddd0bb89f159dfe609b32c889995-Paper-Conference.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning",
+        "type": "conference-paper",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/1704ddd0bb89f159dfe609b32c889995-Abstract-Conference.html",
+        "venue": "Advances in Neural Information Processing Systems",
+        "volume": "37"
       },
       "record_updated_at": "2024-06-14"
     },
@@ -2137,9 +2377,46 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2024-07-03",
       "identifiers": {
         "arxiv": "2407.17490"
+      },
+      "publication": {
+        "authors": [
+          "Yuxiang Chai",
+          "Siyuan Huang",
+          "Yazhe Niu",
+          "Han Xiao",
+          "Liang Liu",
+          "Guozhi Wang",
+          "Dingyu Zhang",
+          "Shuai Ren",
+          "Hongsheng Li"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          7
+        ],
+        "doi": "10.18653/v1/2025.findings-acl.110",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.findings-acl.110/",
+          "https://aclanthology.org/2025.findings-acl.110.pdf"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher PDF title and complete first-page author list were visually checked.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. The publisher PDF, page 1, lists nine authors including Guozhi Wang; the retained arXiv snapshot lists eight. Each edition retains its own authors.",
+        "pages": "2138-2156",
+        "pdf_url": "https://aclanthology.org/2025.findings-acl.110.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.findings-acl.110/",
+        "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+        "volume": null
       },
       "record_updated_at": "2025-05-29"
     },
@@ -2323,9 +2600,43 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2024-10-01",
       "identifiers": {
         "arxiv": "2410.00467"
+      },
+      "publication": {
+        "authors": [
+          "Shaoqing Zhang",
+          "Zhuosheng Zhang",
+          "Kehai Chen (陈科海)",
+          "Xinbei Ma",
+          "Muyun Yang (杨沐昀)",
+          "Tiejun Zhao (赵铁军)",
+          "Min Zhang"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          11
+        ],
+        "doi": "10.18653/v1/2024.findings-emnlp.70",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2024.findings-emnlp.70/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "1304-1320",
+        "pdf_url": "https://aclanthology.org/2024.findings-emnlp.70.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "Dynamic Planning for LLM-based Graphical User Interface Automation",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2024.findings-emnlp.70/",
+        "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+        "volume": null
       },
       "record_updated_at": "2024-12-19"
     },
@@ -2439,9 +2750,42 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2024-10-09",
       "identifiers": {
         "arxiv": "2410.11872"
+      },
+      "publication": {
+        "authors": [
+          "Jakub Hoscilowicz",
+          "Bartosz Maj",
+          "Bartosz Kozakiewicz",
+          "Oleksii Tymoshchuk",
+          "Artur Janicki"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/8. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          8
+        ],
+        "doi": "10.18653/v1/2025.sigdial-1.38",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.sigdial-1.38/",
+          "https://aclanthology.org/2025.sigdial-1.38.pdf"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher PDF title and complete first-page author list were visually checked.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. Authors follow the five-author list on page 1 of the publisher PDF. Landing-page citation metadata lists only Jakub Hoscilowicz and Artur Janicki.",
+        "pages": "471-476",
+        "pdf_url": "https://aclanthology.org/2025.sigdial-1.38.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "ClickAgent: Enhancing UI Location Capabilities of Autonomous Agents",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.sigdial-1.38/",
+        "venue": "Proceedings of the 26th Annual Meeting of the Special Interest Group on Discourse and Dialogue",
+        "volume": null
       },
       "record_updated_at": "2024-10-17"
     },
@@ -2530,9 +2874,52 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2024-10-17",
       "identifiers": {
         "arxiv": "2410.13757"
+      },
+      "publication": {
+        "authors": [
+          "Zichen Zhu",
+          "Hao Tang",
+          "Yansi Li",
+          "Dingye Liu",
+          "Hongshen Xu",
+          "Kunyao Lan",
+          "Danyang Zhang",
+          "Yixuan Jiang",
+          "Hao Zhou",
+          "Chenrun Wang",
+          "Situo Zhang",
+          "Liangtai Sun",
+          "Yixiao Wang",
+          "Yuheng Sun",
+          "Lu Chen",
+          "Kai Yu"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          4
+        ],
+        "doi": "10.18653/v1/2025.naacl-demo.43",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.naacl-demo.43/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "535-549",
+        "pdf_url": "https://aclanthology.org/2025.naacl-demo.43.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "MobA: Multifaceted Memory-Enhanced Adaptive Planning for Efficient Mobile Task Automation",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.naacl-demo.43/",
+        "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (System Demonstrations)",
+        "volume": null
       },
       "record_updated_at": "2025-05-13"
     },
@@ -2624,9 +3011,54 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2024-10-19",
       "identifiers": {
         "arxiv": "2410.15164"
+      },
+      "publication": {
+        "authors": [
+          "Jingxuan Chen",
+          "Derek Yuen",
+          "Bin Xie",
+          "Yuhao Yang",
+          "Gongwei Chen",
+          "Zhihao Wu",
+          "Li Yixing",
+          "Xurui Zhou",
+          "Weiwen Liu",
+          "Shuai Wang",
+          "Kaiwen Zhou",
+          "Rui Shao",
+          "Liqiang Nie",
+          "Yasheng Wang",
+          "Jianye HAO",
+          "Jun Wang",
+          "Kun Shao"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          5,
+          1
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.iclr.cc/paper_files/paper/2025/hash/9a75f4dd9679aa4ff80a4e6f0a1dc700-Abstract-Conference.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "61769-61806",
+        "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/9a75f4dd9679aa4ff80a4e6f0a1dc700-Paper-Conference.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "SPA-BENCH: A COMPREHENSIVE BENCHMARK FOR SMARTPHONE AGENT EVALUATION",
+        "type": "conference-paper",
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/9a75f4dd9679aa4ff80a4e6f0a1dc700-Abstract-Conference.html",
+        "venue": "International Conference on Learning Representations",
+        "volume": "2025"
       },
       "record_updated_at": "2025-03-31"
     },
@@ -2758,9 +3190,46 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2024-10-31",
       "identifiers": {
         "arxiv": "2410.24024"
+      },
+      "publication": {
+        "authors": [
+          "Yifan Xu",
+          "Xiao Liu",
+          "Xueqiao Sun",
+          "Siyi Cheng",
+          "Hao Yu (余浩)",
+          "Hanyu Lai",
+          "Shudan Zhang",
+          "Dan Zhang",
+          "Jie Tang",
+          "Yuxiao Dong"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          7
+        ],
+        "doi": "10.18653/v1/2025.acl-long.107",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.acl-long.107/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "2144-2166",
+        "pdf_url": "https://aclanthology.org/2025.acl-long.107.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.acl-long.107/",
+        "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "volume": null
       },
       "record_updated_at": "2024-11-04"
     },
@@ -2840,6 +3309,79 @@
     "title": "Foundations and Recent Trends in Multimodal Mobile Agents: A Survey",
     "type": "article",
     "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2411.10943v1",
+    "archive": "arXiv",
+    "archive_location": "2411.10943",
+    "author": [
+      {
+        "literal": "Minghe Gao"
+      },
+      {
+        "literal": "Wendong Bu"
+      },
+      {
+        "literal": "Bingchen Miao"
+      },
+      {
+        "literal": "Yang Wu"
+      },
+      {
+        "literal": "Yunfei Li"
+      },
+      {
+        "literal": "Juncheng Li"
+      },
+      {
+        "literal": "Siliang Tang"
+      },
+      {
+        "literal": "Qi Wu"
+      },
+      {
+        "literal": "Yueting Zhuang"
+      },
+      {
+        "literal": "Meng Wang"
+      }
+    ],
+    "citation-key": "arxiv_2411_10943",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "daa9b7092616e94a1d0124d36d8b75d0401b9647ec762c963524616a92def9a5",
+        "submitted_at": "2024-11-17T02:44:56Z",
+        "updated_at": "2024-11-17T02:44:56Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2411.10943v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2411.10943",
+      "catalog_id": "arxiv:2411.10943",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2024-11-17",
+      "identifiers": {
+        "arxiv": "2411.10943"
+      },
+      "record_updated_at": "2024-11-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2411.10943",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2024-11-17; Recorded arXiv version: v1; Recorded version updated: 2024-11-17T02:44:56Z.",
+    "title": "Generalist Virtual Agents: A Survey on Autonomous Agents Across Digital Platforms",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2412.18116v3",
@@ -3172,9 +3714,40 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2025-02-05",
       "identifiers": {
         "arxiv": "2502.02955"
+      },
+      "publication": {
+        "authors": [
+          "Qinzhuo Wu",
+          "Wei Liu",
+          "Jian Luan",
+          "Bin Wang"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          4
+        ],
+        "doi": "10.18653/v1/2025.naacl-long.244",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.naacl-long.244/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "4760-4775",
+        "pdf_url": "https://aclanthology.org/2025.naacl-long.244.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "ReachAgent: Enhancing Mobile Agent via Page Reaching and Operation",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.naacl-long.244/",
+        "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+        "volume": null
       },
       "record_updated_at": "2025-02-05"
     },
@@ -4079,6 +4652,134 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2505.05440v3",
+    "archive": "arXiv",
+    "archive_location": "2505.05440",
+    "author": [
+      {
+        "literal": "Biao Yi"
+      },
+      {
+        "literal": "Xavier Hu"
+      },
+      {
+        "literal": "Yurun Chen"
+      },
+      {
+        "literal": "Shengyu Zhang"
+      },
+      {
+        "literal": "Hongxia Yang"
+      },
+      {
+        "literal": "Fan Wu"
+      }
+    ],
+    "citation-key": "arxiv_2505_05440",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8f5fdf474c1cb0d7e9f42d617de27afae38a9fd8f5e0b07d1c86e082dc872a35",
+        "submitted_at": "2025-05-08T17:31:20Z",
+        "updated_at": "2025-11-17T09:12:00Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2505.05440v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.05440",
+      "catalog_id": "arxiv:2505.05440",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-05-08",
+      "identifiers": {
+        "arxiv": "2505.05440"
+      },
+      "record_updated_at": "2025-11-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.05440",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-08; Recorded arXiv version: v3; Recorded version updated: 2025-11-17T09:12:00Z.",
+    "title": "EcoAgent: An Efficient Device-Cloud Collaborative Multi-Agent Framework for Mobile Automation",
+    "type": "article",
+    "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2505.10593v1",
+    "archive": "arXiv",
+    "archive_location": "2505.10593",
+    "author": [
+      {
+        "literal": "Shanhui Zhao"
+      },
+      {
+        "literal": "Hao Wen"
+      },
+      {
+        "literal": "Wenjie Du"
+      },
+      {
+        "literal": "Cheng Liang"
+      },
+      {
+        "literal": "Yunxin Liu"
+      },
+      {
+        "literal": "Xiaozhou Ye"
+      },
+      {
+        "literal": "Ye Ouyang"
+      },
+      {
+        "literal": "Yuanchun Li"
+      }
+    ],
+    "citation-key": "arxiv_2505_10593",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "08cc5be720ac4e82560ad6b7549f4c38c24603d23d9d051894d1078c247059e2",
+        "submitted_at": "2025-05-15T05:28:35Z",
+        "updated_at": "2025-05-15T05:28:35Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2505.10593v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.10593",
+      "catalog_id": "arxiv:2505.10593",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-05-15",
+      "identifiers": {
+        "arxiv": "2505.10593"
+      },
+      "record_updated_at": "2025-05-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.10593",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-15; Recorded arXiv version: v1; Recorded version updated: 2025-05-15T05:28:35Z.",
+    "title": "LLM-Explorer: Towards Efficient and Affordable LLM-based Exploration for Mobile Apps",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2505.11891v3",
     "archive": "arXiv",
     "archive_location": "2505.11891",
@@ -4469,6 +5170,64 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2505.16422v3",
+    "archive": "arXiv",
+    "archive_location": "2505.16422",
+    "author": [
+      {
+        "literal": "Xiaoran Yin"
+      },
+      {
+        "literal": "Xu Luo"
+      },
+      {
+        "literal": "Hao Wu"
+      },
+      {
+        "literal": "Lianli Gao"
+      },
+      {
+        "literal": "Jingkuan Song"
+      }
+    ],
+    "citation-key": "arxiv_2505_16422",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "93c67222fb0f581e9f9cb3ff59c8d28faec9dc037180060ad5ac962b4469144c",
+        "submitted_at": "2025-05-22T09:08:47Z",
+        "updated_at": "2025-09-05T02:24:00Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2505.16422v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.16422",
+      "catalog_id": "arxiv:2505.16422",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-05-22",
+      "identifiers": {
+        "arxiv": "2505.16422"
+      },
+      "record_updated_at": "2025-09-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2505.16422",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2025-05-22; Recorded arXiv version: v3; Recorded version updated: 2025-09-05T02:24:00Z.",
+    "title": "Unlocking Smarter Device Control: Foresighted Planning with a World Model-Driven Code Execution Approach",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2505.16827v1",
     "archive": "arXiv",
     "archive_location": "2505.16827",
@@ -4513,9 +5272,44 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2025-05-22",
       "identifiers": {
         "arxiv": "2505.16827"
+      },
+      "publication": {
+        "authors": [
+          "Bin Xie",
+          "Rui Shao",
+          "Gongwei Chen",
+          "Kaiwen Zhou",
+          "Yinchuan Li",
+          "Jie Liu",
+          "Min Zhang",
+          "Liqiang Nie"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          7
+        ],
+        "doi": "10.18653/v1/2025.acl-long.282",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.acl-long.282/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "5650-5667",
+        "pdf_url": "https://aclanthology.org/2025.acl-long.282.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "GUI-explorer: Autonomous Exploration and Mining of Transition-aware Knowledge for GUI Agent",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.acl-long.282/",
+        "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "volume": null
       },
       "record_updated_at": "2025-05-22"
     },
@@ -4835,9 +5629,61 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2025-06-02",
       "identifiers": {
         "arxiv": "2506.01391"
+      },
+      "publication": {
+        "authors": [
+          "Zhong Zhang",
+          "Yaxi Lu",
+          "Yikun Fu",
+          "Yupeng Huo",
+          "Shenzhi Yang",
+          "Yesai Wu",
+          "Han Si (司函)",
+          "Xin Cong",
+          "Haotian Chen",
+          "Yankai Lin (林衍凯)",
+          "Jie Xie",
+          "Wei Zhou",
+          "Wang Xu",
+          "Yuanheng Zhang",
+          "Zhou Su",
+          "Zhongwu Zhai",
+          "Xiaoming Liu",
+          "Yudong Mei",
+          "Jianming Xu",
+          "Hongyan Tian",
+          "Chongyi Wang",
+          "Chi Chen",
+          "Yuan Yao",
+          "Zhiyuan Liu",
+          "Maosong Sun (孙茂松)"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/11. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          11
+        ],
+        "doi": "10.18653/v1/2025.emnlp-demos.12",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.emnlp-demos.12/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "155-180",
+        "pdf_url": "https://aclanthology.org/2025.emnlp-demos.12.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.emnlp-demos.12/",
+        "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: System Demonstrations",
+        "volume": null
       },
       "record_updated_at": "2025-06-17"
     },
@@ -4856,6 +5702,73 @@
     "title": "AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2506.05079v4",
+    "archive": "arXiv",
+    "archive_location": "2506.05079",
+    "author": [
+      {
+        "literal": "Shengcheng Yu"
+      },
+      {
+        "literal": "Yuchen Ling"
+      },
+      {
+        "literal": "Chunrong Fang"
+      },
+      {
+        "literal": "Quan Zhou"
+      },
+      {
+        "literal": "Yi Zhao"
+      },
+      {
+        "literal": "Chunyang Chen"
+      },
+      {
+        "literal": "Shaomin Zhu"
+      },
+      {
+        "literal": "Zhenyu Chen"
+      }
+    ],
+    "citation-key": "arxiv_2506_05079",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "bad447e8bca06f720a9476492de06978c73a356a38b00671203f8af0b81f1952",
+        "submitted_at": "2025-06-05T14:27:40Z",
+        "updated_at": "2026-05-03T08:25:53Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2506.05079v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2506.05079",
+      "catalog_id": "arxiv:2506.05079",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-06-05",
+      "identifiers": {
+        "arxiv": "2506.05079"
+      },
+      "record_updated_at": "2026-05-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2506.05079",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2025-06-05; Recorded arXiv version: v4; Recorded version updated: 2026-05-03T08:25:53Z.",
+    "title": "Scenario-Guided LLM-based Mobile App GUI Testing",
+    "type": "article",
+    "version": "4"
   },
   {
     "URL": "https://arxiv.org/abs/2506.07385v1",
@@ -9084,6 +9997,70 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2603.20351v1",
+    "archive": "arXiv",
+    "archive_location": "2603.20351",
+    "author": [
+      {
+        "literal": "Yizhe Zhao"
+      },
+      {
+        "literal": "Yongjian Fu"
+      },
+      {
+        "literal": "Zihao Feng"
+      },
+      {
+        "literal": "Hao Pan"
+      },
+      {
+        "literal": "Yongheng Deng"
+      },
+      {
+        "literal": "Yaoxue Zhang"
+      },
+      {
+        "literal": "Ju Ren"
+      }
+    ],
+    "citation-key": "arxiv_2603_20351",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f25f4999fc9d20433f96e22651311cccf78b5e2ad7cbc5578fe1765ac8be6a00",
+        "submitted_at": "2026-03-20T12:19:41Z",
+        "updated_at": "2026-03-20T12:19:41Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.20351v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.20351",
+      "catalog_id": "arxiv:2603.20351",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-20",
+      "identifiers": {
+        "arxiv": "2603.20351"
+      },
+      "record_updated_at": "2026-03-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.20351",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-20; Recorded arXiv version: v1; Recorded version updated: 2026-03-20T12:19:41Z.",
+    "title": "MANA: Towards Efficient Mobile Ad Detection via Multimodal Agentic UI Navigation",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2603.24533v1",
     "archive": "arXiv",
     "archive_location": "2603.24533",
@@ -9693,6 +10670,70 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2605.18758v2",
+    "archive": "arXiv",
+    "archive_location": "2605.18758",
+    "author": [
+      {
+        "literal": "Felix Henry"
+      },
+      {
+        "literal": "Lihan Lin"
+      },
+      {
+        "literal": "Jiangyou Zhu"
+      },
+      {
+        "literal": "Yangfan"
+      },
+      {
+        "literal": "Bingqian Zhang"
+      },
+      {
+        "literal": "Min Chen"
+      },
+      {
+        "literal": "Shiyu Huang"
+      }
+    ],
+    "citation-key": "arxiv_2605_18758",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "99e8e0039ec99ef8f6a6ef3900cb74a62ddd5ae4f8df30629110969290028e6a",
+        "submitted_at": "2026-04-03T08:57:06Z",
+        "updated_at": "2026-09-28T02:42:06Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2605.18758v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.18758",
+      "catalog_id": "arxiv:2605.18758",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-03",
+      "identifiers": {
+        "arxiv": "2605.18758"
+      },
+      "record_updated_at": "2026-09-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.18758",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-03; Recorded arXiv version: v2; Recorded version updated: 2026-09-28T02:42:06Z.",
+    "title": "OmniGUI: Benchmarking GUI Agents in Omni-Modal Smartphone Environments",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2605.26546v1",
     "archive": "arXiv",
     "archive_location": "2605.26546",
@@ -9744,6 +10785,100 @@
     },
     "note": "First published: 2026-05-26; Recorded arXiv version: v1; Recorded version updated: 2026-05-26T04:53:53Z.",
     "title": "MobileExplorer: Accelerating On-Device Inference for Mobile GUI Agents via Online Exploration",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.27761v1",
+    "archive": "arXiv",
+    "archive_location": "2605.27761",
+    "author": [
+      {
+        "literal": "Yifan Sui"
+      },
+      {
+        "literal": "Xin Huang"
+      },
+      {
+        "literal": "Hongbing Li"
+      },
+      {
+        "literal": "Fang Xu"
+      },
+      {
+        "literal": "Jiahe Lv"
+      },
+      {
+        "literal": "Haolong Yan"
+      },
+      {
+        "literal": "Yeqing Shen"
+      },
+      {
+        "literal": "Litao Liu"
+      },
+      {
+        "literal": "Zhimin Fan"
+      },
+      {
+        "literal": "Ziyang Meng"
+      },
+      {
+        "literal": "Jia Wang"
+      },
+      {
+        "literal": "Junbo Qi"
+      },
+      {
+        "literal": "Kaijun Tan"
+      },
+      {
+        "literal": "Zheng Ge"
+      },
+      {
+        "literal": "Xiangyu Zhang"
+      },
+      {
+        "literal": "Daxin Jiang"
+      },
+      {
+        "literal": "Osamu Yoshie"
+      }
+    ],
+    "citation-key": "arxiv_2605_27761",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0c89b8b5ef5aa17fe747201285104544648449804cc2229a77577d217763f497",
+        "submitted_at": "2026-05-26T23:19:42Z",
+        "updated_at": "2026-05-26T23:19:42Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.27761v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.27761",
+      "catalog_id": "arxiv:2605.27761",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-26",
+      "identifiers": {
+        "arxiv": "2605.27761"
+      },
+      "record_updated_at": "2026-05-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.27761",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-26; Recorded arXiv version: v1; Recorded version updated: 2026-05-26T23:19:42Z.",
+    "title": "AndroidDaily: A Verifiable Benchmark for Mobile GUI Agents on Real-World Closed-Source Applications",
     "type": "article",
     "version": "1"
   },
@@ -9860,6 +10995,191 @@
     },
     "note": "First published: 2026-06-10; Recorded arXiv version: v2; Recorded version updated: 2026-06-16T03:15:00Z.",
     "title": "CAPED: Context-Aware Privacy Exposure Defense for Mobile GUI Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.14832v1",
+    "archive": "arXiv",
+    "archive_location": "2606.14832",
+    "author": [
+      {
+        "literal": "Chenxin Li"
+      },
+      {
+        "literal": "Zhengyao Fang"
+      },
+      {
+        "literal": "Zhengyang Tang"
+      },
+      {
+        "literal": "Pengyuan Lyu"
+      },
+      {
+        "literal": "Xingran Zhou"
+      },
+      {
+        "literal": "Xin Lai"
+      },
+      {
+        "literal": "Fei Tang"
+      },
+      {
+        "literal": "Liang Wu"
+      },
+      {
+        "literal": "Yiduo Guo"
+      },
+      {
+        "literal": "Weinong Wang"
+      },
+      {
+        "literal": "Junyi Li"
+      },
+      {
+        "literal": "Yi Zhang"
+      },
+      {
+        "literal": "Yang Ding"
+      },
+      {
+        "literal": "Huawen Shen"
+      },
+      {
+        "literal": "Sunqi Fan"
+      },
+      {
+        "literal": "Shangpin Peng"
+      },
+      {
+        "literal": "Zheng Ruan"
+      },
+      {
+        "literal": "Anran Zhang"
+      },
+      {
+        "literal": "Benyou Wang"
+      },
+      {
+        "literal": "Chengquan Zhang"
+      },
+      {
+        "literal": "Han Hu"
+      }
+    ],
+    "citation-key": "arxiv_2606_14832",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "280ec12bcb246f1f07cf3627011945e8a9ff4afed93b1fb2937f2d6b1bc1323b",
+        "submitted_at": "2026-06-12T15:01:32Z",
+        "updated_at": "2026-06-12T15:01:32Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.14832v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.14832",
+      "catalog_id": "arxiv:2606.14832",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-12",
+      "identifiers": {
+        "arxiv": "2606.14832"
+      },
+      "record_updated_at": "2026-06-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.14832",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-12; Recorded arXiv version: v1; Recorded version updated: 2026-06-12T15:01:32Z.",
+    "title": "PhoneHarness: Harnessing Phone-Use Agents through Mixed GUI, CLI, and Tool Actions",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.19930v2",
+    "archive": "arXiv",
+    "archive_location": "2606.19930",
+    "author": [
+      {
+        "literal": "Guangyi Liu"
+      },
+      {
+        "literal": "Pengxiang Zhao"
+      },
+      {
+        "literal": "Gao Wu"
+      },
+      {
+        "literal": "Yiwen Yin"
+      },
+      {
+        "literal": "Mading Li"
+      },
+      {
+        "literal": "Liang Liu"
+      },
+      {
+        "literal": "Congxiao Liu"
+      },
+      {
+        "literal": "Zhang Qi"
+      },
+      {
+        "literal": "Mengyan Wang"
+      },
+      {
+        "literal": "Liang Guo"
+      },
+      {
+        "literal": "Jiangning Zhang"
+      },
+      {
+        "literal": "Yong Liu"
+      }
+    ],
+    "citation-key": "arxiv_2606_19930",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cab809618ea4e218da26b4ae11bf937859c3a4bc240c91dd27b3a0d333737069",
+        "submitted_at": "2026-06-18T08:29:33Z",
+        "updated_at": "2026-08-07T03:54:59Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2606.19930v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.19930",
+      "catalog_id": "arxiv:2606.19930",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-18",
+      "identifiers": {
+        "arxiv": "2606.19930"
+      },
+      "record_updated_at": "2026-08-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.19930",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-18; Recorded arXiv version: v2; Recorded version updated: 2026-08-07T03:54:59Z.",
+    "title": "MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization",
     "type": "article",
     "version": "2"
   },
@@ -9999,6 +11319,79 @@
     },
     "note": "First published: 2026-06-30; Recorded arXiv version: v2; Recorded version updated: 2026-07-01T03:59:21Z.",
     "title": "Xiaomi-GUI-0 Technical Report",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.12625v2",
+    "archive": "arXiv",
+    "archive_location": "2607.12625",
+    "author": [
+      {
+        "literal": "Yunxin Li"
+      },
+      {
+        "literal": "Jinchao Li"
+      },
+      {
+        "literal": "Shibo Su"
+      },
+      {
+        "literal": "Zhenran Xu"
+      },
+      {
+        "literal": "Chenrui Zhao"
+      },
+      {
+        "literal": "Tongshu Bian"
+      },
+      {
+        "literal": "Xiaoman Liang"
+      },
+      {
+        "literal": "Meishan Zhang"
+      },
+      {
+        "literal": "Baotian Hu"
+      },
+      {
+        "literal": "Min Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2607_12625",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "281de2bb6e45a58efd047735accc2049deab0f8815931c86abbd38b86b6d23bf",
+        "submitted_at": "2026-07-14T11:04:01Z",
+        "updated_at": "2026-07-15T04:41:47Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2607.12625v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.12625",
+      "catalog_id": "arxiv:2607.12625",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-14",
+      "identifiers": {
+        "arxiv": "2607.12625"
+      },
+      "record_updated_at": "2026-07-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.12625",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-14; Recorded arXiv version: v2; Recorded version updated: 2026-07-15T04:41:47Z.",
+    "title": "KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill",
     "type": "article",
     "version": "2"
   },
@@ -10559,6 +11952,67 @@
     },
     "note": "First published: 2026-09-07; Recorded arXiv version: v1; Recorded version updated: 2026-09-07T16:25:13Z.",
     "title": "APPSim-Bench: Bridging Real-world Apps and Reproducible Evaluation for Mobile GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2609.10031v1",
+    "archive": "arXiv",
+    "archive_location": "2609.10031",
+    "author": [
+      {
+        "literal": "Xiaolei Li"
+      },
+      {
+        "literal": "Jialun Cao"
+      },
+      {
+        "literal": "Zhijian Hou"
+      },
+      {
+        "literal": "Yuzhi Zhao"
+      },
+      {
+        "literal": "Yepang Liu"
+      },
+      {
+        "literal": "Shing-Chi Cheung"
+      }
+    ],
+    "citation-key": "arxiv_2609_10031",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3307d90ef09c16afaee160eacc9d2994d142be9b9a26ce9c4a57f61345e2e8ec",
+        "submitted_at": "2026-09-09T11:04:53Z",
+        "updated_at": "2026-09-09T11:04:53Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.10031v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.10031",
+      "catalog_id": "arxiv:2609.10031",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-09",
+      "identifiers": {
+        "arxiv": "2609.10031"
+      },
+      "record_updated_at": "2026-09-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.10031",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-09; Recorded arXiv version: v1; Recorded version updated: 2026-09-09T11:04:53Z.",
+    "title": "GraphDroid: Asynchronous LLM-Based Mobile App GUI Testing via History-Aware Exploration and Hybrid Intent Fulfillment",
     "type": "article",
     "version": "1"
   },

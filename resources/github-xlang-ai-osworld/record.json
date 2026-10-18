@@ -41,10 +41,7 @@
       ],
       "setting": "interactive"
     },
-    "evaluation_type": null,
-    "leaderboard_url": null,
-    "metrics": [],
-    "task_count": null
+    "leaderboard_url": "https://os-world.github.io/"
   },
   "environments": [
     "desktop",
@@ -66,7 +63,8 @@
         "topics",
         "scope",
         "relations",
-        "details.benchmark_protocol"
+        "details.benchmark_protocol",
+        "details.leaderboard_url"
       ],
       "url": "https://raw.githubusercontent.com/xlang-ai/OSWorld/HEAD/README.md"
     },

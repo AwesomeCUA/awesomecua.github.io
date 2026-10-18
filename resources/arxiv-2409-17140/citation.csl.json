@@ -22,7 +22,44 @@
       "updated_at": "2025-05-19T16:12:40Z",
       "version": 2,
       "versioned_url": "https://arxiv.org/abs/2409.17140v2"
-    }
+    },
+    "publication": {
+      "authors": [
+        "Junting Lu",
+        "Zhiyang Zhang",
+        "Fangkai Yang",
+        "Jue Zhang",
+        "Lu Wang",
+        "Chao Du",
+        "Qingwei Lin",
+        "Saravan Rajmohan",
+        "Dongmei Zhang",
+        "Qi Zhang"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        7
+      ],
+      "doi": "10.18653/v1/2025.acl-long.381",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.acl-long.381/"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+      "pages": "7711-7743",
+      "pdf_url": "https://aclanthology.org/2025.acl-long.381.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "AXIS: Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.acl-long.381/",
+      "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "volume": null
+    },
+    "citation_edition": "record"
   },
   "note": "First published: 2024-09-25; Recorded arXiv version: v2; Recorded version updated: 2025-05-19T16:12:40Z.",
   "author": [

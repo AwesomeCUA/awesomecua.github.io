@@ -33,3 +33,5 @@ The former OpenCUA-72B-preview API redirects to the canonical xlangai/OpenCUA-72
 - https://huggingface.co/xlangai/OpenCUA-72B/raw/main/README.md (retrieved 2026-10-17T09:14:12Z; SHA-256 ebe551af1008a2307d16cf68715fc1861f8c501c4981660dbe08f691cf73d787)
 - https://huggingface.co/api/models/xlangai/OpenCUA-72B (retrieved 2026-10-17T09:14:12Z; SHA-256 ff0ee40df2f44a2b3aa1b8117c31752013a40fdb6a85d66cdc596e096583ac5d)
 - https://huggingface.co/api/models/xlangai/OpenCUA-72B-preview (retrieved 2026-10-17T09:15:35Z; SHA-256 ff0ee40df2f44a2b3aa1b8117c31752013a40fdb6a85d66cdc596e096583ac5d)
+- https://huggingface.co/api/models/xlangai/OpenCUA-72B-preview (retrieved 2026-10-17T19:15:04Z; SHA-256 ff0ee40df2f44a2b3aa1b8117c31752013a40fdb6a85d66cdc596e096583ac5d)
+- https://huggingface.co/api/models/xlangai/OpenCUA-72B (retrieved 2026-10-17T19:15:05Z; SHA-256 ff0ee40df2f44a2b3aa1b8117c31752013a40fdb6a85d66cdc596e096583ac5d)

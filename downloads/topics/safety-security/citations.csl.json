@@ -227,9 +227,43 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2024-06-18",
       "identifiers": {
         "arxiv": "2406.12814"
+      },
+      "publication": {
+        "authors": [
+          "Chen Wu",
+          "Rishi Shah",
+          "Jing Yu Koh",
+          "Russ Salakhutdinov",
+          "Daniel Fried",
+          "Aditi Raghunathan"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          5,
+          1
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.iclr.cc/paper_files/paper/2025/hash/460a1d8eac34125dad453b28d6d64446-Abstract-Conference.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "28362-28383",
+        "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/460a1d8eac34125dad453b28d6d64446-Paper-Conference.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "Dissecting Adversarial Robustness of Multimodal LM Agents",
+        "type": "conference-paper",
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/460a1d8eac34125dad453b28d6d64446-Abstract-Conference.html",
+        "venue": "International Conference on Learning Representations",
+        "volume": "2025"
       },
       "record_updated_at": "2025-02-04"
     },
@@ -815,9 +849,43 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2024-10-30",
       "identifiers": {
         "arxiv": "2410.23252"
+      },
+      "publication": {
+        "authors": [
+          "Haoyi Qiu",
+          "Alexander Richard Fabbri",
+          "Divyansh Agarwal",
+          "Kung-Hsiang Huang",
+          "Sarah Tan",
+          "Nanyun Peng",
+          "Chien-Sheng Wu"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          4
+        ],
+        "doi": "10.18653/v1/2025.findings-naacl.222",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.findings-naacl.222/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "3978-4005",
+        "pdf_url": "https://aclanthology.org/2025.findings-naacl.222.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "Evaluating Cultural and Social Awareness of LLM Web Agents",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.findings-naacl.222/",
+        "venue": "Findings of the Association for Computational Linguistics: NAACL 2025",
+        "volume": null
       },
       "record_updated_at": "2025-03-08"
     },
@@ -867,9 +935,39 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2024-11-04",
       "identifiers": {
         "arxiv": "2411.02391"
+      },
+      "publication": {
+        "authors": [
+          "Yanzhe Zhang",
+          "Tao Yu",
+          "Diyi Yang"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          7
+        ],
+        "doi": "10.18653/v1/2025.acl-long.411",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.acl-long.411/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "8387-8401",
+        "pdf_url": "https://aclanthology.org/2025.acl-long.411.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "Attacking Vision-Language Computer Agents via Pop-ups",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.acl-long.411/",
+        "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "volume": null
       },
       "record_updated_at": "2025-05-24"
     },
@@ -1136,6 +1234,58 @@
     },
     "note": "First published: 2025-03-06; Recorded arXiv version: v1; Recorded version updated: 2025-03-06T20:43:14Z.",
     "title": "SafeArena: Evaluating the Safety of Autonomous Web Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2503.09241v1",
+    "archive": "arXiv",
+    "archive_location": "2503.09241",
+    "author": [
+      {
+        "literal": "Pei Yang"
+      },
+      {
+        "literal": "Hai Ci"
+      },
+      {
+        "literal": "Mike Zheng Shou"
+      }
+    ],
+    "citation-key": "arxiv_2503_09241",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7d4423ee1e7047a6228f5b29684618fc4108af0694484a7ceddf6c3b53fbb06c",
+        "submitted_at": "2025-03-12T10:38:15Z",
+        "updated_at": "2025-03-12T10:38:15Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2503.09241v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2503.09241",
+      "catalog_id": "arxiv:2503.09241",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-03-12",
+      "identifiers": {
+        "arxiv": "2503.09241"
+      },
+      "record_updated_at": "2025-03-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2503.09241",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2025-03-12; Recorded arXiv version: v1; Recorded version updated: 2025-03-12T10:38:15Z.",
+    "title": "In-Context Defense in Computer Agents: An Empirical Study",
     "type": "article",
     "version": "1"
   },
@@ -1411,6 +1561,67 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2503.20279v3",
+    "archive": "arXiv",
+    "archive_location": "2503.20279",
+    "author": [
+      {
+        "literal": "Sejin Lee"
+      },
+      {
+        "literal": "Jian Kim"
+      },
+      {
+        "literal": "Haon Park"
+      },
+      {
+        "literal": "Ashkan Yousefpour"
+      },
+      {
+        "literal": "Sangyoon Yu"
+      },
+      {
+        "literal": "Min Song"
+      }
+    ],
+    "citation-key": "arxiv_2503_20279",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5e90cbc547703a2673cfb30bbe9079496ce4c076b51f39e0557f5db9048947c8",
+        "submitted_at": "2025-03-26T07:08:15Z",
+        "updated_at": "2025-06-08T05:39:56Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2503.20279v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2503.20279",
+      "catalog_id": "arxiv:2503.20279",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-03-26",
+      "identifiers": {
+        "arxiv": "2503.20279"
+      },
+      "record_updated_at": "2025-06-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2503.20279",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2025-03-26; Recorded arXiv version: v3; Recorded version updated: 2025-06-08T05:39:56Z.",
+    "title": "sudo rm -rf agentic_security",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2503.22738v2",
     "archive": "arXiv",
     "archive_location": "2503.22738",
@@ -1461,6 +1672,82 @@
     "title": "ShieldAgent: Shielding Agents via Verifiable Safety Policy Reasoning",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2503.23350v4",
+    "archive": "arXiv",
+    "archive_location": "2503.23350",
+    "author": [
+      {
+        "literal": "Liangbo Ning"
+      },
+      {
+        "literal": "Ziran Liang"
+      },
+      {
+        "literal": "Zhuohang Jiang"
+      },
+      {
+        "literal": "Haohao Qu"
+      },
+      {
+        "literal": "Yujuan Ding"
+      },
+      {
+        "literal": "Wenqi Fan"
+      },
+      {
+        "literal": "Xiao-yong Wei"
+      },
+      {
+        "literal": "Shanru Lin"
+      },
+      {
+        "literal": "Hui Liu"
+      },
+      {
+        "literal": "Philip S. Yu"
+      },
+      {
+        "literal": "Qing Li"
+      }
+    ],
+    "citation-key": "arxiv_2503_23350",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4b214bd8e5a34c0e8ca16a3be4fcf638a59a17ca524276dbef3c6b75f08398bb",
+        "submitted_at": "2025-03-30T08:15:44Z",
+        "updated_at": "2025-08-05T11:47:41Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2503.23350v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2503.23350",
+      "catalog_id": "arxiv:2503.23350",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-03-30",
+      "identifiers": {
+        "arxiv": "2503.23350"
+      },
+      "record_updated_at": "2025-08-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2503.23350",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2025-03-30; Recorded arXiv version: v4; Recorded version updated: 2025-08-05T11:47:41Z.",
+    "title": "A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models",
+    "type": "article",
+    "version": "4"
   },
   {
     "URL": "https://arxiv.org/abs/2503.23434v2",
@@ -5653,6 +5940,70 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2603.20351v1",
+    "archive": "arXiv",
+    "archive_location": "2603.20351",
+    "author": [
+      {
+        "literal": "Yizhe Zhao"
+      },
+      {
+        "literal": "Yongjian Fu"
+      },
+      {
+        "literal": "Zihao Feng"
+      },
+      {
+        "literal": "Hao Pan"
+      },
+      {
+        "literal": "Yongheng Deng"
+      },
+      {
+        "literal": "Yaoxue Zhang"
+      },
+      {
+        "literal": "Ju Ren"
+      }
+    ],
+    "citation-key": "arxiv_2603_20351",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f25f4999fc9d20433f96e22651311cccf78b5e2ad7cbc5578fe1765ac8be6a00",
+        "submitted_at": "2026-03-20T12:19:41Z",
+        "updated_at": "2026-03-20T12:19:41Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.20351v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.20351",
+      "catalog_id": "arxiv:2603.20351",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-03-20",
+      "identifiers": {
+        "arxiv": "2603.20351"
+      },
+      "record_updated_at": "2026-03-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.20351",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-20; Recorded arXiv version: v1; Recorded version updated: 2026-03-20T12:19:41Z.",
+    "title": "MANA: Towards Efficient Mobile Ad Detection via Multimodal Agentic UI Navigation",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2603.23007v1",
     "archive": "arXiv",
     "archive_location": "2603.23007",
@@ -6247,6 +6598,323 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2605.09497v1",
+    "archive": "arXiv",
+    "archive_location": "2605.09497",
+    "author": [
+      {
+        "literal": "Yilin Zhang"
+      },
+      {
+        "literal": "Yingkai Hua"
+      },
+      {
+        "literal": "Chunyu Wei"
+      },
+      {
+        "literal": "Xin Wang"
+      },
+      {
+        "literal": "Yueguo Chen"
+      }
+    ],
+    "citation-key": "arxiv_2605_09497",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b57d784c70b50d2c25055c6d139c0a5acfc97da3a4effbd63536b72d6df38a69",
+        "submitted_at": "2026-05-10T12:11:52Z",
+        "updated_at": "2026-05-10T12:11:52Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.09497v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.09497",
+      "catalog_id": "arxiv:2605.09497",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-10",
+      "identifiers": {
+        "arxiv": "2605.09497"
+      },
+      "record_updated_at": "2026-05-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.09497",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          10
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-10; Recorded arXiv version: v1; Recorded version updated: 2026-05-10T12:11:52Z.",
+    "title": "Don't Click That: Teaching Web Agents to Resist Deceptive Interfaces",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.14290v1",
+    "archive": "arXiv",
+    "archive_location": "2605.14290",
+    "author": [
+      {
+        "literal": "Julien Piet"
+      },
+      {
+        "literal": "Annabella Chow"
+      },
+      {
+        "literal": "Yiwei Hou"
+      },
+      {
+        "literal": "Muxi Lyu"
+      },
+      {
+        "literal": "Sylvie Venuto"
+      },
+      {
+        "literal": "Jinhao Zhu"
+      },
+      {
+        "literal": "Raluca Ada Popa"
+      },
+      {
+        "literal": "David Wagner"
+      }
+    ],
+    "citation-key": "arxiv_2605_14290",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "572be49190554bbfb6accac4c87ef91608f88e90d06250f229db2922e19fcd56",
+        "submitted_at": "2026-05-14T02:48:57Z",
+        "updated_at": "2026-05-14T02:48:57Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.14290v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.14290",
+      "catalog_id": "arxiv:2605.14290",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-05-14",
+      "identifiers": {
+        "arxiv": "2605.14290"
+      },
+      "record_updated_at": "2026-05-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.14290",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-14; Recorded arXiv version: v1; Recorded version updated: 2026-05-14T02:48:57Z.",
+    "title": "Web Agents Should Adopt the Plan-Then-Execute Paradigm",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.17320v1",
+    "archive": "arXiv",
+    "archive_location": "2605.17320",
+    "author": [
+      {
+        "literal": "Yutong Huang"
+      },
+      {
+        "literal": "Vikranth Srivatsa"
+      },
+      {
+        "literal": "Alex Asch"
+      },
+      {
+        "literal": "Hansin Tushar Patwa"
+      },
+      {
+        "literal": "Yiying Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2605_17320",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "51576fb9bde23f769d3200a0d593ad610eb27248917132aff1bcf6eb7ff03cea",
+        "submitted_at": "2026-05-17T08:24:01Z",
+        "updated_at": "2026-05-17T08:24:01Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.17320v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.17320",
+      "catalog_id": "arxiv:2605.17320",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-17",
+      "identifiers": {
+        "arxiv": "2605.17320"
+      },
+      "record_updated_at": "2026-05-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.17320",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-17; Recorded arXiv version: v1; Recorded version updated: 2026-05-17T08:24:01Z.",
+    "title": "TClone: Low-Latency Forking of Live GUI Environments for Computer-Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.28116v1",
+    "archive": "arXiv",
+    "archive_location": "2605.28116",
+    "author": [
+      {
+        "literal": "Ruoqi Guo"
+      },
+      {
+        "literal": "Yi Liu"
+      },
+      {
+        "literal": "Gelei Deng"
+      },
+      {
+        "literal": "Yiheng Xiong"
+      },
+      {
+        "literal": "Yuekang Li"
+      },
+      {
+        "literal": "Ying Zhang"
+      },
+      {
+        "literal": "Leo Yu Zhang"
+      },
+      {
+        "literal": "Lida Zhao"
+      },
+      {
+        "literal": "Ji Jie"
+      },
+      {
+        "literal": "Yuxiao Lu"
+      }
+    ],
+    "citation-key": "arxiv_2605_28116",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4f39433695b9574b275fc844ca6b10a43baf66aed57048bf841f41bf08d4ac9a",
+        "submitted_at": "2026-05-27T08:09:53Z",
+        "updated_at": "2026-05-27T08:09:53Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.28116v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.28116",
+      "catalog_id": "arxiv:2605.28116",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-27",
+      "identifiers": {
+        "arxiv": "2605.28116"
+      },
+      "record_updated_at": "2026-05-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.28116",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-27; Recorded arXiv version: v1; Recorded version updated: 2026-05-27T08:09:53Z.",
+    "title": "MIRAGE: Context-Aware Prompt Injection against Mobile GUI Agents via User-Generated Content",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.28646v2",
+    "archive": "arXiv",
+    "archive_location": "2605.28646",
+    "author": [
+      {
+        "literal": "Yanqiu Zhao"
+      },
+      {
+        "literal": "Dongying Zheng"
+      },
+      {
+        "literal": "Kaibo Huang"
+      },
+      {
+        "literal": "Yukun Wei"
+      },
+      {
+        "literal": "Zhongliang Yang"
+      },
+      {
+        "literal": "Linna Zhou"
+      }
+    ],
+    "citation-key": "arxiv_2605_28646",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6eb9b67f7e51edecfbe57af47b6bad445c05129c11c377d32ea84369b430f895",
+        "submitted_at": "2026-05-27T15:51:22Z",
+        "updated_at": "2026-05-29T04:03:46Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2605.28646v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.28646",
+      "catalog_id": "arxiv:2605.28646",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-27",
+      "identifiers": {
+        "arxiv": "2605.28646"
+      },
+      "record_updated_at": "2026-05-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.28646",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-27; Recorded arXiv version: v2; Recorded version updated: 2026-05-29T04:03:46Z.",
+    "title": "MaskClaw: Edge-Side Personalized Privacy Arbitration for GUI Agents with Behavior-Driven Skill Evolution",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2606.03203v1",
     "archive": "arXiv",
     "archive_location": "2606.03203",
@@ -6301,6 +6969,52 @@
     },
     "note": "First published: 2026-06-02; Recorded arXiv version: v1; Recorded version updated: 2026-06-02T06:02:35Z.",
     "title": "MedCUA-Bench: A Screenshot-Only Benchmark for Clinical Computer-Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.05233v1",
+    "archive": "arXiv",
+    "archive_location": "2606.05233",
+    "author": [
+      {
+        "literal": "Nicholas Saban"
+      }
+    ],
+    "citation-key": "arxiv_2606_05233",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7b649c0cef63bc15558aa4498a65043644c109faaf6403b610c2132fd3f5706d",
+        "submitted_at": "2026-06-03T01:21:59Z",
+        "updated_at": "2026-06-03T01:21:59Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.05233v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.05233",
+      "catalog_id": "arxiv:2606.05233",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-03",
+      "identifiers": {
+        "arxiv": "2606.05233"
+      },
+      "record_updated_at": "2026-06-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.05233",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-03; Recorded arXiv version: v1; Recorded version updated: 2026-06-03T01:21:59Z.",
+    "title": "Domain-Conditioned Safety in Frontier Computer-Using Agents: A 793-Episode Browser Benchmark, a Coding-Domain Cross-Reference, and a Reproducibility Audit of Recent Red-Teaming",
     "type": "article",
     "version": "1"
   },
@@ -6485,6 +7199,213 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2606.16659v1",
+    "archive": "arXiv",
+    "archive_location": "2606.16659",
+    "author": [
+      {
+        "literal": "Y. H. Zhou"
+      },
+      {
+        "literal": "Z. M. Ma"
+      },
+      {
+        "literal": "Y. J. Zhou"
+      },
+      {
+        "literal": "Y. T. Li"
+      },
+      {
+        "literal": "H. X. Xiang"
+      },
+      {
+        "literal": "Y. M. Cheng"
+      },
+      {
+        "literal": "T. L. Chen"
+      },
+      {
+        "literal": "K. J. Zhang"
+      },
+      {
+        "literal": "Z. H. Nan"
+      },
+      {
+        "literal": "J. H. Ni"
+      },
+      {
+        "literal": "Z. Wu"
+      },
+      {
+        "literal": "Q. Y. Pan"
+      },
+      {
+        "literal": "S. Zhang"
+      },
+      {
+        "literal": "S. Cheng"
+      },
+      {
+        "literal": "M. Y. Luo"
+      }
+    ],
+    "citation-key": "arxiv_2606_16659",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6311b22ddb2262c74efbe79acc8856335f6870aa24197c507f3f7b048d6f7901",
+        "submitted_at": "2026-06-15T12:53:55Z",
+        "updated_at": "2026-06-15T12:53:55Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.16659v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.16659",
+      "catalog_id": "arxiv:2606.16659",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-15",
+      "identifiers": {
+        "arxiv": "2606.16659"
+      },
+      "record_updated_at": "2026-06-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.16659",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-15; Recorded arXiv version: v1; Recorded version updated: 2026-06-15T12:53:55Z.",
+    "title": "FraudSMSWalker: Benchmarking Agentic Large Language Models for SMS-to-Webpage Fraud Detection",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.20717v2",
+    "archive": "arXiv",
+    "archive_location": "2606.20717",
+    "author": [
+      {
+        "literal": "Xuelong Dai"
+      },
+      {
+        "literal": "Jianyu Ma"
+      },
+      {
+        "literal": "Boyang Ma"
+      },
+      {
+        "literal": "Biwei Yan"
+      },
+      {
+        "literal": "Yijun Yang"
+      },
+      {
+        "literal": "Yue Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2606_20717",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "fea441692131ec677e4a9ae54f9ecef1f31d422e20884b496b124e99392e59c1",
+        "submitted_at": "2026-06-16T15:31:33Z",
+        "updated_at": "2026-10-15T04:29:19Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2606.20717v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.20717",
+      "catalog_id": "arxiv:2606.20717",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-16",
+      "identifiers": {
+        "arxiv": "2606.20717"
+      },
+      "record_updated_at": "2026-10-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.20717",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-16; Recorded arXiv version: v2; Recorded version updated: 2026-10-15T04:29:19Z.",
+    "title": "MIRAGE: Stealthy Visual Prompt Injection for Vulnerability Detection in Web Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.20910v1",
+    "archive": "arXiv",
+    "archive_location": "2606.20910",
+    "author": [
+      {
+        "literal": "Dayeon Kang"
+      },
+      {
+        "literal": "Hyejun Jeong"
+      },
+      {
+        "literal": "Jade Sheffey"
+      },
+      {
+        "literal": "Pubali Datta"
+      },
+      {
+        "literal": "Amir Houmansadr"
+      }
+    ],
+    "citation-key": "arxiv_2606_20910",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8b2c6080f0de11c06fe73c30195c7c8529e07de283dc45fa47709072846d385a",
+        "submitted_at": "2026-06-18T20:07:39Z",
+        "updated_at": "2026-06-18T20:07:39Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.20910v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.20910",
+      "catalog_id": "arxiv:2606.20910",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-18",
+      "identifiers": {
+        "arxiv": "2606.20910"
+      },
+      "record_updated_at": "2026-06-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.20910",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-18; Recorded arXiv version: v1; Recorded version updated: 2026-06-18T20:07:39Z.",
+    "title": "Whose Agent Are You? Multi-Layer Fingerprinting and Attribution of Autonomous Web Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2606.23189v2",
     "archive": "arXiv",
     "archive_location": "2606.23189",
@@ -6589,6 +7510,189 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2606.25760v2",
+    "archive": "arXiv",
+    "archive_location": "2606.25760",
+    "author": [
+      {
+        "literal": "Divake Kumar"
+      },
+      {
+        "literal": "Sina Tayebati"
+      },
+      {
+        "literal": "Devashri Naik"
+      },
+      {
+        "literal": "Amanda Sofie Rios"
+      },
+      {
+        "literal": "Nilesh Ahuja"
+      },
+      {
+        "literal": "Omesh Tickoo"
+      },
+      {
+        "literal": "Ranganath Krishnan"
+      },
+      {
+        "literal": "Amit Ranjan Trivedi"
+      }
+    ],
+    "citation-key": "arxiv_2606_25760",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "628d08bdbf23ae9e599bf767f0503cecedcde72dfbfcc183f9ea9f044c6f2d44",
+        "submitted_at": "2026-06-24T12:34:28Z",
+        "updated_at": "2026-09-29T20:55:51Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2606.25760v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.25760",
+      "catalog_id": "arxiv:2606.25760",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-24",
+      "identifiers": {
+        "arxiv": "2606.25760"
+      },
+      "record_updated_at": "2026-09-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.25760",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-24; Recorded arXiv version: v2; Recorded version updated: 2026-09-29T20:55:51Z.",
+    "title": "Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.30119v1",
+    "archive": "arXiv",
+    "archive_location": "2606.30119",
+    "author": [
+      {
+        "literal": "Iliana Fayolle"
+      },
+      {
+        "literal": "Sihem Bouhenniche"
+      },
+      {
+        "literal": "Samuel Pélissier"
+      },
+      {
+        "literal": "Pierre Laperdrix"
+      },
+      {
+        "literal": "Clémentine Maurice"
+      },
+      {
+        "literal": "Walter Rudametkin"
+      }
+    ],
+    "citation-key": "arxiv_2606_30119",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "770c901e3490b2a43b02296136825e8e6bd035fb7494ea74b3a9af74be1afed1",
+        "submitted_at": "2026-06-29T10:51:13Z",
+        "updated_at": "2026-06-29T10:51:13Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.30119v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.30119",
+      "catalog_id": "arxiv:2606.30119",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-29",
+      "identifiers": {
+        "arxiv": "2606.30119"
+      },
+      "record_updated_at": "2026-06-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.30119",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-29; Recorded arXiv version: v1; Recorded version updated: 2026-06-29T10:51:13Z.",
+    "title": "On the Internet, Nobody Knows You're an LLM Bot: Unmasking Web Agents with Multi-Layer Fingerprinting",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.04334v2",
+    "archive": "arXiv",
+    "archive_location": "2607.04334",
+    "author": [
+      {
+        "literal": "Guijia Zhang"
+      },
+      {
+        "literal": "Yuxun Chen"
+      },
+      {
+        "literal": "Yuheng Qi"
+      },
+      {
+        "literal": "Harry Yang"
+      }
+    ],
+    "citation-key": "arxiv_2607_04334",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e7fdae5d6e5ea17639fe0e2b8e2d655df7201a438d84acdeb3e0d02a78051ae2",
+        "submitted_at": "2026-07-05T14:33:29Z",
+        "updated_at": "2026-07-18T16:56:38Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2607.04334v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.04334",
+      "catalog_id": "arxiv:2607.04334",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-05",
+      "identifiers": {
+        "arxiv": "2607.04334"
+      },
+      "record_updated_at": "2026-07-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.04334",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-05; Recorded arXiv version: v2; Recorded version updated: 2026-07-18T16:56:38Z.",
+    "title": "Do GUI Agents Believe Their Eyes? Diagnosing State-Belief Reliance on Pixels versus Structure",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2607.05120v1",
     "archive": "arXiv",
     "archive_location": "2607.05120",
@@ -6646,6 +7750,67 @@
     },
     "note": "First published: 2026-07-06; Recorded arXiv version: v1; Recorded version updated: 2026-07-06T14:07:49Z.",
     "title": "Agent Data Injection Attacks are Realistic Threats to AI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.05277v1",
+    "archive": "arXiv",
+    "archive_location": "2607.05277",
+    "author": [
+      {
+        "literal": "Kristina Nikolić"
+      },
+      {
+        "literal": "Egor Zverev"
+      },
+      {
+        "literal": "Javier Rando"
+      },
+      {
+        "literal": "Matthew Jagielski"
+      },
+      {
+        "literal": "Edoardo Debenedetti"
+      },
+      {
+        "literal": "Florian Tramèr"
+      }
+    ],
+    "citation-key": "arxiv_2607_05277",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "97d6c625b6ebc08cec7471df543812a91c4252f50d8d35f8d51fbef802dcb5a2",
+        "submitted_at": "2026-07-06T16:22:37Z",
+        "updated_at": "2026-07-06T16:22:37Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2607.05277v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.05277",
+      "catalog_id": "arxiv:2607.05277",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-06",
+      "identifiers": {
+        "arxiv": "2607.05277"
+      },
+      "record_updated_at": "2026-07-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.05277",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          6
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-06; Recorded arXiv version: v1; Recorded version updated: 2026-07-06T16:22:37Z.",
+    "title": "Untrusted Content Masking for Web Agents with Security Guarantees",
     "type": "article",
     "version": "1"
   },
@@ -6763,6 +7928,110 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2608.03740v2",
+    "archive": "arXiv",
+    "archive_location": "2608.03740",
+    "author": [
+      {
+        "literal": "Yu Ran"
+      },
+      {
+        "literal": "Wentao Zhao"
+      }
+    ],
+    "citation-key": "arxiv_2608_03740",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "152e21cd4f1f290aafadfdcfaa10e15a03378404540a46b5f1a5464a2d432d23",
+        "submitted_at": "2026-08-04T14:34:41Z",
+        "updated_at": "2026-09-28T13:07:55Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2608.03740v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.03740",
+      "catalog_id": "arxiv:2608.03740",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-08-04",
+      "identifiers": {
+        "arxiv": "2608.03740"
+      },
+      "record_updated_at": "2026-09-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.03740",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          4
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-04; Recorded arXiv version: v2; Recorded version updated: 2026-09-28T13:07:55Z.",
+    "title": "MissClick: Execution-Aware Adversarial Attacks on Coordinate Generation in GUI Grounding Models",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2608.04741v1",
+    "archive": "arXiv",
+    "archive_location": "2608.04741",
+    "author": [
+      {
+        "literal": "Longtao Guo"
+      },
+      {
+        "literal": "Zelin Zhang"
+      },
+      {
+        "literal": "Kaifeng Huang"
+      },
+      {
+        "literal": "Yang Shi"
+      }
+    ],
+    "citation-key": "arxiv_2608_04741",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "30e5ce3d86881041491ae507839b2f3d302691aea1d2fdfc92cfc00f35efefe7",
+        "submitted_at": "2026-08-05T12:08:16Z",
+        "updated_at": "2026-08-05T12:08:16Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2608.04741v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.04741",
+      "catalog_id": "arxiv:2608.04741",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-08-05",
+      "identifiers": {
+        "arxiv": "2608.04741"
+      },
+      "record_updated_at": "2026-08-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.04741",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-05; Recorded arXiv version: v1; Recorded version updated: 2026-08-05T12:08:16Z.",
+    "title": "LoginTrap: Uncovering Task-Agnostic Phishing-Style Indirect Prompt Injection Attacks against LLM-based Web Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2608.04755v1",
     "archive": "arXiv",
     "archive_location": "2608.04755",
@@ -6826,6 +8095,64 @@
     },
     "note": "First published: 2026-08-05; Recorded arXiv version: v1; Recorded version updated: 2026-08-05T12:23:16Z.",
     "title": "\"Allow\" to Achieve, Over-Privileged Inadvertently: The Unintended Cost of Task-Completion-Driven Pop-up Decisions in Mobile GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2608.14131v1",
+    "archive": "arXiv",
+    "archive_location": "2608.14131",
+    "author": [
+      {
+        "literal": "Thilo Reintjes"
+      },
+      {
+        "literal": "Sivajeet Chand"
+      },
+      {
+        "literal": "Derui Zhu"
+      },
+      {
+        "literal": "Sushant Kumar Pandey"
+      },
+      {
+        "literal": "Alexander Pretschner"
+      }
+    ],
+    "citation-key": "arxiv_2608_14131",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f8a6bd69d421bdfb9a21c22e715a59d0afb0b0cab75510f28ff569903ecffae5",
+        "submitted_at": "2026-08-14T09:36:33Z",
+        "updated_at": "2026-08-14T09:36:33Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2608.14131v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.14131",
+      "catalog_id": "arxiv:2608.14131",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-08-14",
+      "identifiers": {
+        "arxiv": "2608.14131"
+      },
+      "record_updated_at": "2026-08-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.14131",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-14; Recorded arXiv version: v1; Recorded version updated: 2026-08-14T09:36:33Z.",
+    "title": "LegacyWorld: Atomicity-Aware Evaluation of GUI Agents for Legacy Workflows",
     "type": "article",
     "version": "1"
   },
@@ -7369,6 +8696,79 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2609.03438v1",
+    "archive": "arXiv",
+    "archive_location": "2609.03438",
+    "author": [
+      {
+        "literal": "Zhaoyuan Huang"
+      },
+      {
+        "literal": "Tianjie Ju"
+      },
+      {
+        "literal": "Pengzhou Cheng"
+      },
+      {
+        "literal": "Zheng Wu"
+      },
+      {
+        "literal": "Yansi Li"
+      },
+      {
+        "literal": "Chuanbiao Song"
+      },
+      {
+        "literal": "Jun Lan"
+      },
+      {
+        "literal": "Huijia Zhu"
+      },
+      {
+        "literal": "Weiqiang Wang"
+      },
+      {
+        "literal": "Zhuosheng Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2609_03438",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a59f7d54845de6efebf6365a188e61e41fdf31e9ebe894b1d01ce7b86d6be4ec",
+        "submitted_at": "2026-09-03T06:48:41Z",
+        "updated_at": "2026-09-03T06:48:41Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.03438v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.03438",
+      "catalog_id": "arxiv:2609.03438",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-03",
+      "identifiers": {
+        "arxiv": "2609.03438"
+      },
+      "record_updated_at": "2026-09-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.03438",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-03; Recorded arXiv version: v1; Recorded version updated: 2026-09-03T06:48:41Z.",
+    "title": "Do GUI Agents Know When Not to Act? Enabling Conflict-Aware Termination for Multimodal GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2609.09212v1",
     "archive": "arXiv",
     "archive_location": "2609.09212",
@@ -7502,6 +8902,122 @@
     },
     "note": "First published: 2026-09-12; Recorded arXiv version: v1; Recorded version updated: 2026-09-12T10:55:54Z.",
     "title": "PriMobiBench: Characterizing Visual Privacy Leakage in VLM-Driven Mobile GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2609.16732v1",
+    "archive": "arXiv",
+    "archive_location": "2609.16732",
+    "author": [
+      {
+        "literal": "Heng Li"
+      },
+      {
+        "literal": "Fulin Zhao"
+      },
+      {
+        "literal": "Zhe Geng"
+      },
+      {
+        "literal": "Zhiyuan Yao"
+      },
+      {
+        "literal": "Wei Yuan"
+      },
+      {
+        "literal": "Xiapu Luo"
+      }
+    ],
+    "citation-key": "arxiv_2609_16732",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b86516b7695d23ffc9179c0829209dc28b96c3c819525eab62a293a68ab5daf0",
+        "submitted_at": "2026-09-15T07:02:10Z",
+        "updated_at": "2026-09-15T07:02:10Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.16732v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.16732",
+      "catalog_id": "arxiv:2609.16732",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-15",
+      "identifiers": {
+        "arxiv": "2609.16732"
+      },
+      "record_updated_at": "2026-09-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.16732",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-15; Recorded arXiv version: v1; Recorded version updated: 2026-09-15T07:02:10Z.",
+    "title": "When Agents See Differently: Exposing UI Desynchronization Threats in Mobile Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2609.19843v1",
+    "archive": "arXiv",
+    "archive_location": "2609.19843",
+    "author": [
+      {
+        "literal": "Haya Halimeh"
+      },
+      {
+        "literal": "Sascha Kaltenpoth"
+      },
+      {
+        "literal": "Kevin Bösch"
+      },
+      {
+        "literal": "Oliver Müller"
+      }
+    ],
+    "citation-key": "arxiv_2609_19843",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "70a7588abcf345418ed759fb2bdb96fc60c6e1444a3e0dc98766510c755f8478",
+        "submitted_at": "2026-09-17T07:54:15Z",
+        "updated_at": "2026-09-17T07:54:15Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.19843v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.19843",
+      "catalog_id": "arxiv:2609.19843",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-17",
+      "identifiers": {
+        "arxiv": "2609.19843"
+      },
+      "record_updated_at": "2026-09-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.19843",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-17; Recorded arXiv version: v1; Recorded version updated: 2026-09-17T07:54:15Z.",
+    "title": "A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents",
     "type": "article",
     "version": "1"
   },

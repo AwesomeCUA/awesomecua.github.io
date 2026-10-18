@@ -206,9 +206,43 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2024-10-01",
       "identifiers": {
         "arxiv": "2410.00467"
+      },
+      "publication": {
+        "authors": [
+          "Shaoqing Zhang",
+          "Zhuosheng Zhang",
+          "Kehai Chen (陈科海)",
+          "Xinbei Ma",
+          "Muyun Yang (杨沐昀)",
+          "Tiejun Zhao (赵铁军)",
+          "Min Zhang"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          11
+        ],
+        "doi": "10.18653/v1/2024.findings-emnlp.70",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2024.findings-emnlp.70/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "1304-1320",
+        "pdf_url": "https://aclanthology.org/2024.findings-emnlp.70.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "Dynamic Planning for LLM-based Graphical User Interface Automation",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2024.findings-emnlp.70/",
+        "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+        "volume": null
       },
       "record_updated_at": "2024-12-19"
     },
@@ -1520,6 +1554,64 @@
     "version": "4"
   },
   {
+    "URL": "https://arxiv.org/abs/2604.27151v1",
+    "archive": "arXiv",
+    "archive_location": "2604.27151",
+    "author": [
+      {
+        "literal": "Jinbiao Wei"
+      },
+      {
+        "literal": "Kangqi Ni"
+      },
+      {
+        "literal": "Yilun Zhao"
+      },
+      {
+        "literal": "Guo Gan"
+      },
+      {
+        "literal": "Arman Cohan"
+      }
+    ],
+    "citation-key": "arxiv_2604_27151",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "68183be37dbd78314aca35f7f1420e5f2f8da8d8c0042a258b45ae03c90606cf",
+        "submitted_at": "2026-04-29T19:59:36Z",
+        "updated_at": "2026-04-29T19:59:36Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2604.27151v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.27151",
+      "catalog_id": "arxiv:2604.27151",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-29",
+      "identifiers": {
+        "arxiv": "2604.27151"
+      },
+      "record_updated_at": "2026-04-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.27151",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-29; Recorded arXiv version: v1; Recorded version updated: 2026-04-29T19:59:36Z.",
+    "title": "Step-level Optimization for Efficient Computer-use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2605.11212v3",
     "archive": "arXiv",
     "archive_location": "2605.11212",
@@ -1693,6 +1785,67 @@
     },
     "note": "First published: 2026-05-16; Recorded arXiv version: v1; Recorded version updated: 2026-05-16T08:51:57Z.",
     "title": "SE-GA: Memory-Augmented Self-Evolution for GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.18652v1",
+    "archive": "arXiv",
+    "archive_location": "2605.18652",
+    "author": [
+      {
+        "literal": "Ziyun Zeng"
+      },
+      {
+        "literal": "Hang Hua"
+      },
+      {
+        "literal": "Bocheng Zou"
+      },
+      {
+        "literal": "Mu Cai"
+      },
+      {
+        "literal": "Rogerio Feris"
+      },
+      {
+        "literal": "Jiebo Luo"
+      }
+    ],
+    "citation-key": "arxiv_2605_18652",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d96c8844274f79adea167169a0853e3a7cd82fee4a8a666913f97898a0836e7c",
+        "submitted_at": "2026-05-18T16:57:36Z",
+        "updated_at": "2026-05-18T16:57:36Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.18652v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.18652",
+      "catalog_id": "arxiv:2605.18652",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-18",
+      "identifiers": {
+        "arxiv": "2605.18652"
+      },
+      "record_updated_at": "2026-05-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.18652",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-18; Recorded arXiv version: v1; Recorded version updated: 2026-05-18T16:57:36Z.",
+    "title": "MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents",
     "type": "article",
     "version": "1"
   },
@@ -2041,6 +2194,152 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2606.19926v1",
+    "archive": "arXiv",
+    "archive_location": "2606.19926",
+    "author": [
+      {
+        "literal": "Guangyi Liu"
+      },
+      {
+        "literal": "Gao Wu"
+      },
+      {
+        "literal": "Congxiao Liu"
+      },
+      {
+        "literal": "Pengxiang Zhao"
+      },
+      {
+        "literal": "Liang Liu"
+      },
+      {
+        "literal": "Mading Li"
+      },
+      {
+        "literal": "Qi Zhang"
+      },
+      {
+        "literal": "Mengyan Wang"
+      },
+      {
+        "literal": "Liang Guo"
+      },
+      {
+        "literal": "Yong Liu"
+      }
+    ],
+    "citation-key": "arxiv_2606_19926",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cbbb1bd57057e465ce9d991d3f6e2bb52112fc133a5846fc8cb6ce51eddc2121",
+        "submitted_at": "2026-06-18T08:26:09Z",
+        "updated_at": "2026-06-18T08:26:09Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.19926v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.19926",
+      "catalog_id": "arxiv:2606.19926",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-06-18",
+      "identifiers": {
+        "arxiv": "2606.19926"
+      },
+      "record_updated_at": "2026-06-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.19926",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-18; Recorded arXiv version: v1; Recorded version updated: 2026-06-18T08:26:09Z.",
+    "title": "MemGUI-Agent: An End-to-End Long-Horizon Mobile GUI Agent with Proactive Context Management",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.12625v2",
+    "archive": "arXiv",
+    "archive_location": "2607.12625",
+    "author": [
+      {
+        "literal": "Yunxin Li"
+      },
+      {
+        "literal": "Jinchao Li"
+      },
+      {
+        "literal": "Shibo Su"
+      },
+      {
+        "literal": "Zhenran Xu"
+      },
+      {
+        "literal": "Chenrui Zhao"
+      },
+      {
+        "literal": "Tongshu Bian"
+      },
+      {
+        "literal": "Xiaoman Liang"
+      },
+      {
+        "literal": "Meishan Zhang"
+      },
+      {
+        "literal": "Baotian Hu"
+      },
+      {
+        "literal": "Min Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2607_12625",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "281de2bb6e45a58efd047735accc2049deab0f8815931c86abbd38b86b6d23bf",
+        "submitted_at": "2026-07-14T11:04:01Z",
+        "updated_at": "2026-07-15T04:41:47Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2607.12625v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.12625",
+      "catalog_id": "arxiv:2607.12625",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-14",
+      "identifiers": {
+        "arxiv": "2607.12625"
+      },
+      "record_updated_at": "2026-07-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.12625",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-14; Recorded arXiv version: v2; Recorded version updated: 2026-07-15T04:41:47Z.",
+    "title": "KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2608.02352v1",
     "archive": "arXiv",
     "archive_location": "2608.02352",
@@ -2346,6 +2645,244 @@
     },
     "note": "First published: 2026-08-06; Recorded arXiv version: v1; Recorded version updated: 2026-08-06T14:10:23Z.",
     "title": "The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2608.20319v1",
+    "archive": "arXiv",
+    "archive_location": "2608.20319",
+    "author": [
+      {
+        "literal": "Yucheng Jiang"
+      },
+      {
+        "literal": "Zora Zhiruo Wang"
+      },
+      {
+        "literal": "Ruishi Chen"
+      },
+      {
+        "literal": "Diyi Yang"
+      }
+    ],
+    "citation-key": "arxiv_2608_20319",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a85b3a99d551fcdffdd306d839b39cdfbe7f0f7654aa9adbf81f939aa874e3b9",
+        "submitted_at": "2026-08-20T17:57:00Z",
+        "updated_at": "2026-08-20T17:57:00Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2608.20319v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.20319",
+      "catalog_id": "arxiv:2608.20319",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-08-20",
+      "identifiers": {
+        "arxiv": "2608.20319"
+      },
+      "record_updated_at": "2026-08-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.20319",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-20; Recorded arXiv version: v1; Recorded version updated: 2026-08-20T17:57:00Z.",
+    "title": "Inducing Task Models from Computer-Use Traces",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2609.02057v1",
+    "archive": "arXiv",
+    "archive_location": "2609.02057",
+    "author": [
+      {
+        "literal": "Sitong Pan"
+      },
+      {
+        "literal": "Yipeng Shen"
+      },
+      {
+        "literal": "Yilin Lu"
+      },
+      {
+        "literal": "Caiwen Ding"
+      },
+      {
+        "literal": "Lu Cheng"
+      },
+      {
+        "literal": "Qianwen Wang"
+      }
+    ],
+    "citation-key": "arxiv_2609_02057",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "967f1cdda69349da3280827c0b90301e4942c44398902ab6cfb868f1d3e94a84",
+        "submitted_at": "2026-09-02T03:34:47Z",
+        "updated_at": "2026-09-02T03:34:47Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.02057v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.02057",
+      "catalog_id": "arxiv:2609.02057",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-02",
+      "identifiers": {
+        "arxiv": "2609.02057"
+      },
+      "record_updated_at": "2026-09-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.02057",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-02; Recorded arXiv version: v1; Recorded version updated: 2026-09-02T03:34:47Z.",
+    "title": "Monitoring Web Agents Without Internal Signals: Observable Trajectories and Key-Step Supervision",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2609.10031v1",
+    "archive": "arXiv",
+    "archive_location": "2609.10031",
+    "author": [
+      {
+        "literal": "Xiaolei Li"
+      },
+      {
+        "literal": "Jialun Cao"
+      },
+      {
+        "literal": "Zhijian Hou"
+      },
+      {
+        "literal": "Yuzhi Zhao"
+      },
+      {
+        "literal": "Yepang Liu"
+      },
+      {
+        "literal": "Shing-Chi Cheung"
+      }
+    ],
+    "citation-key": "arxiv_2609_10031",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3307d90ef09c16afaee160eacc9d2994d142be9b9a26ce9c4a57f61345e2e8ec",
+        "submitted_at": "2026-09-09T11:04:53Z",
+        "updated_at": "2026-09-09T11:04:53Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.10031v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.10031",
+      "catalog_id": "arxiv:2609.10031",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-09",
+      "identifiers": {
+        "arxiv": "2609.10031"
+      },
+      "record_updated_at": "2026-09-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.10031",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-09; Recorded arXiv version: v1; Recorded version updated: 2026-09-09T11:04:53Z.",
+    "title": "GraphDroid: Asynchronous LLM-Based Mobile App GUI Testing via History-Aware Exploration and Hybrid Intent Fulfillment",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2609.10297v1",
+    "archive": "arXiv",
+    "archive_location": "2609.10297",
+    "author": [
+      {
+        "literal": "Yuhao Wang"
+      },
+      {
+        "literal": "Mu Qiao"
+      },
+      {
+        "literal": "Xindong Zhang"
+      },
+      {
+        "literal": "Yunzhi Zhuge"
+      },
+      {
+        "literal": "Lei Zhang"
+      },
+      {
+        "literal": "Huchuan Lu"
+      }
+    ],
+    "citation-key": "arxiv_2609_10297",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "20d3bc3137e163f6b467b8c464101478b2375fbab8aebe9179e2e1113b34f503",
+        "submitted_at": "2026-09-09T15:12:48Z",
+        "updated_at": "2026-09-09T15:12:48Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.10297v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.10297",
+      "catalog_id": "arxiv:2609.10297",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-09",
+      "identifiers": {
+        "arxiv": "2609.10297"
+      },
+      "record_updated_at": "2026-09-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.10297",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-09; Recorded arXiv version: v1; Recorded version updated: 2026-09-09T15:12:48Z.",
+    "title": "TRACE: Trajectory-robust Admission with Evidence Ordering for Efficient GUI Agents",
     "type": "article",
     "version": "1"
   },

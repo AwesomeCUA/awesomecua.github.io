@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2505.24878",
+  "citation-key": "arxiv_2505_24878",
+  "type": "article",
+  "title": "Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents",
+  "URL": "https://arxiv.org/abs/2505.24878v1",
+  "custom": {
+    "catalog_id": "arxiv:2505.24878",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2505.24878",
+    "identifiers": {
+      "arxiv": "2505.24878"
+    },
+    "first_published_at": "2025-05-30",
+    "record_updated_at": "2025-05-30",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3f2206333ca25b3f21df7ce49adfd8bc56521b9b8ace7a9b686eccf5b67276fa",
+      "submitted_at": "2025-05-30T17:59:55Z",
+      "updated_at": "2025-05-30T17:59:55Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2505.24878v1"
+    }
+  },
+  "note": "First published: 2025-05-30; Recorded arXiv version: v1; Recorded version updated: 2025-05-30T17:59:55Z.",
+  "author": [
+    {
+      "literal": "Yaxin Luo"
+    },
+    {
+      "literal": "Zhaoyi Li"
+    },
+    {
+      "literal": "Jiacheng Liu"
+    },
+    {
+      "literal": "Jiacheng Cui"
+    },
+    {
+      "literal": "Xiaohan Zhao"
+    },
+    {
+      "literal": "Zhiqiang Shen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        5,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2505.24878",
+  "genre": "preprint",
+  "version": "1"
+}

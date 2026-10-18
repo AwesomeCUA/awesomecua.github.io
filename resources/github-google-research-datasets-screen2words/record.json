@@ -41,8 +41,6 @@
         "screen summarization"
       ]
     },
-    "download_url": null,
-    "languages": [],
     "modalities": [
       "text",
       "screenshot-reference"

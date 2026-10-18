@@ -1,0 +1,107 @@
+{
+  "id": "arxiv:2407.05291:publication",
+  "citation-key": "arxiv_2407_05291_publication",
+  "type": "paper-conference",
+  "title": "WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks",
+  "URL": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/0b82662b6c32e887bb252a74d8cb2d5e-Abstract-Datasets_and_Benchmarks_Track.html",
+  "custom": {
+    "catalog_id": "arxiv:2407.05291",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2407.05291",
+    "identifiers": {
+      "arxiv": "2407.05291"
+    },
+    "first_published_at": "2024-07-07",
+    "record_updated_at": "2025-02-05",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2b56a6208e4fa3523cae3fbae673affcd5fe3d6a9c19df482d27fe71d43ffef5",
+      "submitted_at": "2024-07-07T07:15:49Z",
+      "updated_at": "2025-02-05T21:50:07Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2407.05291v2"
+    },
+    "publication": {
+      "authors": [
+        "Léo Boisvert",
+        "Megh Thakkar",
+        "Maxime Gasse",
+        "Massimo Caccia",
+        "Thibault L. De Chezelles",
+        "Quentin Cappart",
+        "Nicolas Chapados",
+        "Alexandre Lacoste",
+        "Alexandre Drouin"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2024,
+        12,
+        16
+      ],
+      "doi": "10.52202/079017-0195",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://proceedings.neurips.cc/paper_files/paper/2024/hash/0b82662b6c32e887bb252a74d8cb2d5e-Abstract-Datasets_and_Benchmarks_Track.html"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+      "pages": "5996-6051",
+      "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/0b82662b6c32e887bb252a74d8cb2d5e-Paper-Datasets_and_Benchmarks_Track.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks",
+      "type": "conference-paper",
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/0b82662b6c32e887bb252a74d8cb2d5e-Abstract-Datasets_and_Benchmarks_Track.html",
+      "venue": "Advances in Neural Information Processing Systems",
+      "volume": "37"
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2024-12-16.",
+  "author": [
+    {
+      "literal": "Léo Boisvert"
+    },
+    {
+      "literal": "Megh Thakkar"
+    },
+    {
+      "literal": "Maxime Gasse"
+    },
+    {
+      "literal": "Massimo Caccia"
+    },
+    {
+      "literal": "Thibault L. De Chezelles"
+    },
+    {
+      "literal": "Quentin Cappart"
+    },
+    {
+      "literal": "Nicolas Chapados"
+    },
+    {
+      "literal": "Alexandre Lacoste"
+    },
+    {
+      "literal": "Alexandre Drouin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        16
+      ]
+    ]
+  },
+  "DOI": "10.52202/079017-0195",
+  "container-title": "Advances in Neural Information Processing Systems",
+  "volume": "37",
+  "page": "5996-6051"
+}

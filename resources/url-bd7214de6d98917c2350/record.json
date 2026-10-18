@@ -26,17 +26,13 @@
     },
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/OS-Copilot/ScreenSpot-v2/tree/main",
-    "evaluation_type": null,
     "gated": false,
     "hub_id": "OS-Copilot/ScreenSpot-v2",
     "languages": [],
-    "leaderboard_url": null,
-    "metrics": [],
     "modalities": [
       "image"
     ],
-    "size_category_reported": null,
-    "task_count": null
+    "size_category_reported": null
   },
   "environments": [
     "cross-platform"

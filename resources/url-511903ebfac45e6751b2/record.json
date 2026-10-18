@@ -42,8 +42,6 @@
       ]
     },
     "download_url": "https://huggingface.co/datasets/hflqf88888/GUIOdyssey/tree/main",
-    "languages": [],
-    "modalities": [],
     "sample_count": 8334,
     "sample_unit": "episodes reported by the current release card"
   },

@@ -26,6 +26,48 @@
       "updated_at": "2025-07-20T13:42:07Z",
       "version": 4,
       "versioned_url": "https://arxiv.org/abs/2407.01511v4"
+    },
+    "publication": {
+      "authors": [
+        "Tianqi Xu",
+        "Linyao Chen",
+        "Dai-Jie Wu",
+        "Yanjun Chen",
+        "Zecheng Zhang",
+        "Xiang Yao",
+        "Zhiqiang Xie (谢志强)",
+        "Yongchao Chen",
+        "Shilong Liu",
+        "Bochen Qian",
+        "Anjie Yang",
+        "Zhaoxuan Jin",
+        "Jianbo Deng",
+        "Philip Torr",
+        "Bernard Ghanem",
+        "Guohao Li"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        7
+      ],
+      "doi": "10.18653/v1/2025.findings-acl.1113",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.findings-acl.1113/"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+      "pages": "21607-21647",
+      "pdf_url": "https://aclanthology.org/2025.findings-acl.1113.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.findings-acl.1113/",
+      "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+      "volume": null
     }
   },
   "environments": [
@@ -47,6 +89,28 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:09:51Z",
+      "role": "primary",
+      "sha256": "a8cf178f2faa088fd94b77d03785b8c6e2908db34b411287984066b4e5d1ef3f",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.doi",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.pdf_url",
+        "details.publication.publisher",
+        "details.publication.title",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue"
+      ],
+      "url": "https://aclanthology.org/2025.findings-acl.1113/"
     },
     {
       "method": "editorial_primary_review",
@@ -81,6 +145,14 @@
     {
       "rel": "primary",
       "url": "https://arxiv.org/abs/2407.01511"
+    },
+    {
+      "rel": "publication",
+      "url": "https://aclanthology.org/2025.findings-acl.1113/"
+    },
+    {
+      "rel": "publication_pdf",
+      "url": "https://aclanthology.org/2025.findings-acl.1113.pdf"
     }
   ],
   "name": "CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents",

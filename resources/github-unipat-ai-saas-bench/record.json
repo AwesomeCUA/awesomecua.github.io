@@ -2,10 +2,7 @@
   "aliases": [],
   "authors": [],
   "details": {
-    "evaluation_type": null,
-    "leaderboard_url": null,
-    "metrics": [],
-    "task_count": null
+    "leaderboard_url": "https://unipat.ai/benchmarks/SaaS-Bench"
   },
   "environments": [
     "web"
@@ -23,7 +20,8 @@
         "environments",
         "topics",
         "scope",
-        "relations"
+        "relations",
+        "details"
       ],
       "url": "https://raw.githubusercontent.com/UniPat-AI/SaaS-Bench/HEAD/README.md"
     },

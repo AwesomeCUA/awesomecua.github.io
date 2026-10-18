@@ -1,0 +1,103 @@
+{
+  "id": "arxiv:2406.10227:publication",
+  "citation-key": "arxiv_2406_10227_publication",
+  "type": "paper-conference",
+  "title": "VideoGUI: A Benchmark for GUI Automation from Instructional Videos",
+  "URL": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/804e757b7d7043c26701c3a313032101-Abstract-Datasets_and_Benchmarks_Track.html",
+  "custom": {
+    "catalog_id": "arxiv:2406.10227",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2406.10227",
+    "identifiers": {
+      "arxiv": "2406.10227"
+    },
+    "first_published_at": "2024-06-14",
+    "record_updated_at": "2024-06-14",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "66b5fb1e839490df80e9750fdc049f7fe3d2d4686c4090d78ea01bc542fe55b0",
+      "submitted_at": "2024-06-14T17:59:08Z",
+      "updated_at": "2024-06-14T17:59:08Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2406.10227v1"
+    },
+    "publication": {
+      "authors": [
+        "Kevin Q. Lin",
+        "Linjie Li",
+        "Difei Gao",
+        "Qinchen Wu",
+        "Mingyi Yan",
+        "Zhengyuan Yang",
+        "Lijuan Wang",
+        "Mike Z. Shou"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2024,
+        12,
+        16
+      ],
+      "doi": "10.52202/079017-2214",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://proceedings.neurips.cc/paper_files/paper/2024/hash/804e757b7d7043c26701c3a313032101-Abstract-Datasets_and_Benchmarks_Track.html"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+      "pages": "69329-69360",
+      "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/804e757b7d7043c26701c3a313032101-Paper-Datasets_and_Benchmarks_Track.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "VideoGUI: A Benchmark for GUI Automation from Instructional Videos",
+      "type": "conference-paper",
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/804e757b7d7043c26701c3a313032101-Abstract-Datasets_and_Benchmarks_Track.html",
+      "venue": "Advances in Neural Information Processing Systems",
+      "volume": "37"
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2024-12-16.",
+  "author": [
+    {
+      "literal": "Kevin Q. Lin"
+    },
+    {
+      "literal": "Linjie Li"
+    },
+    {
+      "literal": "Difei Gao"
+    },
+    {
+      "literal": "Qinchen Wu"
+    },
+    {
+      "literal": "Mingyi Yan"
+    },
+    {
+      "literal": "Zhengyuan Yang"
+    },
+    {
+      "literal": "Lijuan Wang"
+    },
+    {
+      "literal": "Mike Z. Shou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        16
+      ]
+    ]
+  },
+  "DOI": "10.52202/079017-2214",
+  "container-title": "Advances in Neural Information Processing Systems",
+  "volume": "37",
+  "page": "69329-69360"
+}

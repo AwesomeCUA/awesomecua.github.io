@@ -32,3 +32,5 @@ The official Hub API resolves the former Reallm-Labs model namespace to InfiX-ai
 - https://huggingface.co/api/models/Reallm-Labs/InfiGUI-R1-3B (retrieved 2026-10-17T02:03:33Z; SHA-256 213a5181a3516cf15d5f7b746986bc1e36cd6579acabd8aa1c2fb16a23a51ee0)
 - https://raw.githubusercontent.com/Reallm-Labs/InfiGUI-R1/HEAD/README.md (retrieved 2026-10-16T06:36:00Z; SHA-256 5fd1399c88bdf406e7689765ccf0599b3b7e0ddbed082fa92bffdd7b120bd41a)
 - https://huggingface.co/InfiX-ai/InfiGUI-R1-3B/raw/main/README.md (retrieved 2026-10-17T02:05:41Z; SHA-256 73496fb30838ba9ea291bb6d1e14004ac3318ac03a1ae7b5d6044e0dc14fd46f)
+- https://huggingface.co/api/models/Reallm-Labs/InfiGUI-R1-3B (retrieved 2026-10-17T19:15:15Z; SHA-256 213a5181a3516cf15d5f7b746986bc1e36cd6579acabd8aa1c2fb16a23a51ee0)
+- https://huggingface.co/api/models/InfiX-ai/InfiGUI-R1-3B (retrieved 2026-10-17T19:15:16Z; SHA-256 213a5181a3516cf15d5f7b746986bc1e36cd6579acabd8aa1c2fb16a23a51ee0)

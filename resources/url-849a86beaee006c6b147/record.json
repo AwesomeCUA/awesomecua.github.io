@@ -50,17 +50,13 @@
     },
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/Writer/omniact/tree/main",
-    "evaluation_type": null,
     "gated": false,
     "hub_id": "Writer/omniact",
     "languages": [
       "en"
     ],
-    "leaderboard_url": null,
-    "metrics": [],
     "modalities": [],
-    "size_category_reported": null,
-    "task_count": null
+    "size_category_reported": null
   },
   "environments": [
     "desktop",

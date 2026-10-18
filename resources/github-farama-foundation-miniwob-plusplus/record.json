@@ -34,11 +34,7 @@
         "visible DOM-element attributes"
       ],
       "setting": "interactive"
-    },
-    "evaluation_type": null,
-    "leaderboard_url": null,
-    "metrics": [],
-    "task_count": null
+    }
   },
   "environments": [
     "web"

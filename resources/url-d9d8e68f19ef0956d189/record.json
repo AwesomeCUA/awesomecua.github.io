@@ -2,10 +2,7 @@
   "aliases": [],
   "authors": [],
   "details": {
-    "evaluation_type": null,
-    "leaderboard_url": null,
-    "metrics": [],
-    "task_count": null
+    "leaderboard_url": "https://recreation-bench.cc/#leaderboard"
   },
   "environments": [
     "cross-platform"
@@ -23,7 +20,8 @@
         "environments",
         "topics",
         "scope",
-        "relations"
+        "relations",
+        "details"
       ],
       "url": "https://huggingface.co/datasets/Qwen/RecreationBench/raw/main/README.md"
     }

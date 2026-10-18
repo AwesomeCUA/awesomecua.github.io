@@ -95,8 +95,6 @@
         "element/action prediction"
       ]
     },
-    "download_url": null,
-    "languages": [],
     "license_review": {
       "data": {
         "evidence_urls": [
@@ -105,10 +103,7 @@
         "reason": "Publisher dataset-card declaration for the multi-turn annotation release."
       }
     },
-    "modalities": [],
-    "release_revision": "5ae9a3bedf431f54c2218fbb8ee474e5efbda3a8",
-    "sample_count": null,
-    "sample_unit": null
+    "release_revision": "5ae9a3bedf431f54c2218fbb8ee474e5efbda3a8"
   },
   "environments": [
     "web"

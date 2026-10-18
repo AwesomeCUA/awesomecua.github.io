@@ -1,5 +1,9 @@
 {
-  "aliases": [],
+  "aliases": [
+    "url:5f4cb613bda51b45d9c7",
+    "inclusionAI/UI-Venus-2-9B",
+    "https://huggingface.co/inclusionAI/UI-Venus-2-9B"
+  ],
   "authors": [],
   "details": {
     "artifact_type": "model-checkpoint",
@@ -40,6 +44,26 @@
       "supports": [
         "details",
         "licenses.weights"
+      ],
+      "url": "https://huggingface.co/api/models/inclusionAI/UI-Venus-2-9b"
+    },
+    {
+      "method": "huggingface_repository_identity",
+      "retrieved_at": "2026-10-17T19:15:02Z",
+      "role": "primary",
+      "sha256": "3ec7929329e8e1b09f31dee4a3e67128d68cddc95220a5944f4cd6102dae327e",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://huggingface.co/api/models/inclusionAI/UI-Venus-2-9B"
+    },
+    {
+      "method": "huggingface_repository_identity",
+      "retrieved_at": "2026-10-17T19:15:03Z",
+      "role": "primary",
+      "sha256": "3ec7929329e8e1b09f31dee4a3e67128d68cddc95220a5944f4cd6102dae327e",
+      "supports": [
+        "aliases"
       ],
       "url": "https://huggingface.co/api/models/inclusionAI/UI-Venus-2-9b"
     }

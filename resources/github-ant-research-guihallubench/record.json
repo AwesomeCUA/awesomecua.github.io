@@ -41,11 +41,7 @@
         "page screenshot"
       ],
       "setting": "offline"
-    },
-    "evaluation_type": null,
-    "leaderboard_url": null,
-    "metrics": [],
-    "task_count": null
+    }
   },
   "environments": [
     "cross-platform"

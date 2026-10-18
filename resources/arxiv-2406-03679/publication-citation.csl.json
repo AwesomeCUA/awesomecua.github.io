@@ -1,0 +1,99 @@
+{
+  "id": "arxiv:2406.03679:publication",
+  "citation-key": "arxiv_2406_03679_publication",
+  "type": "paper-conference",
+  "title": "On the Effects of Data Scale on UI Control Agents",
+  "URL": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/a79f3ef3b445fd4659f44648f7ea8ffd-Abstract-Datasets_and_Benchmarks_Track.html",
+  "custom": {
+    "catalog_id": "arxiv:2406.03679",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2406.03679",
+    "identifiers": {
+      "arxiv": "2406.03679"
+    },
+    "first_published_at": "2024-06-06",
+    "record_updated_at": "2024-11-13",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6eb3209d8e2a431987fe19f01cd0818f9fb490e684d7369e7d3002dc388ff271",
+      "submitted_at": "2024-06-06T01:49:29Z",
+      "updated_at": "2024-11-13T16:42:22Z",
+      "version": 6,
+      "versioned_url": "https://arxiv.org/abs/2406.03679v6"
+    },
+    "publication": {
+      "authors": [
+        "Wei Li",
+        "William Bishop",
+        "Alice Li",
+        "Chris Rawles",
+        "Folawiyo Campbell-Ajala",
+        "Divya Tyamagundlu",
+        "Oriana Riva"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2024,
+        12,
+        16
+      ],
+      "doi": "10.52202/079017-2925",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://proceedings.neurips.cc/paper_files/paper/2024/hash/a79f3ef3b445fd4659f44648f7ea8ffd-Abstract-Datasets_and_Benchmarks_Track.html"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+      "pages": "92130-92154",
+      "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/a79f3ef3b445fd4659f44648f7ea8ffd-Paper-Datasets_and_Benchmarks_Track.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "On the Effects of Data Scale on UI Control Agents",
+      "type": "conference-paper",
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/a79f3ef3b445fd4659f44648f7ea8ffd-Abstract-Datasets_and_Benchmarks_Track.html",
+      "venue": "Advances in Neural Information Processing Systems",
+      "volume": "37"
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2024-12-16.",
+  "author": [
+    {
+      "literal": "Wei Li"
+    },
+    {
+      "literal": "William Bishop"
+    },
+    {
+      "literal": "Alice Li"
+    },
+    {
+      "literal": "Chris Rawles"
+    },
+    {
+      "literal": "Folawiyo Campbell-Ajala"
+    },
+    {
+      "literal": "Divya Tyamagundlu"
+    },
+    {
+      "literal": "Oriana Riva"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        16
+      ]
+    ]
+  },
+  "DOI": "10.52202/079017-2925",
+  "container-title": "Advances in Neural Information Processing Systems",
+  "volume": "37",
+  "page": "92130-92154"
+}

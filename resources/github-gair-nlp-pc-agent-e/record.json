@@ -1,0 +1,113 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "license_review": {
+      "code": {
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/GAIR-NLP/PC-Agent-E/HEAD/LICENSE"
+        ],
+        "reason": "Reviewed repository license declaration for code; third-party dependencies, data, weights and executable environment images are separate."
+      }
+    },
+    "repository_tree_sha": "9b1b00b907b99a4a8dbfc9c01ea49010878dfbd6",
+    "repository_url": "https://github.com/GAIR-NLP/PC-Agent-E"
+  },
+  "environments": [
+    "desktop",
+    "windows",
+    "linux"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:27:13Z",
+      "role": "primary",
+      "sha256": "3ffb8c843c6acb8c2d5bbba11ba49d6b36cd566553a89974b6252a2bfd289d5d",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/GAIR-NLP/PC-Agent-E/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T15:37:01Z",
+      "role": "primary",
+      "sha256": "30761141ea62c5f20183f359bbc3fc8ccc5b458886d38c5426bae4802a23ee0b",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/GAIR-NLP/PC-Agent-E"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:25:23Z",
+      "role": "primary",
+      "sha256": "2fb2aa4ee6f02ccadb631dab4972f96c3fdf545cd92c5854fc191e81cf4ae88a",
+      "supports": [
+        "identity",
+        "release_status",
+        "details.repository_tree_sha"
+      ],
+      "url": "https://api.github.com/repos/GAIR-NLP/PC-Agent-E/git/trees/main?recursive=1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:35:19Z",
+      "role": "primary",
+      "sha256": "39e37b84c067596361c491e2e9e22af8805386a24b8352b87e9aca3bddf4f92c",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/GAIR-NLP/PC-Agent-E/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:gair-nlp/pc-agent-e",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-18T04:27:13Z",
+  "licenses": {
+    "code": {
+      "basis": "Reviewed repository license declaration for code; third-party dependencies, data, weights and executable environment images are separate.",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-18T04:35:19Z",
+      "url": "https://raw.githubusercontent.com/GAIR-NLP/PC-Agent-E/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/GAIR-NLP/PC-Agent-E"
+    }
+  ],
+  "name": "PC-Agent-E training and deployment",
+  "notes": "README demonstrates Windows and Linux operation and describes thought completion and trajectory augmentation. The released source tree contains postprocess, train and deploy code. The checkpoint, data archive and WindowsAgentArena-V2 are separate resources; external model APIs and a training framework are required.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/GAIR-NLP/PC-Agent-E/HEAD/README.md",
+      "target_id": "arxiv:2505.13909",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Tools for refining and augmenting human computer-use trajectories, preparing supervised training data, and deploying a native PC-Agent-E scaffold.",
+  "topics": [
+    "data-generation",
+    "imitation-learning",
+    "automation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/GAIR-NLP/PC-Agent-E"
+}

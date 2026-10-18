@@ -1,0 +1,97 @@
+{
+  "id": "arxiv:2410.00467:publication",
+  "citation-key": "arxiv_2410_00467_publication",
+  "type": "paper-conference",
+  "title": "Dynamic Planning for LLM-based Graphical User Interface Automation",
+  "URL": "https://aclanthology.org/2024.findings-emnlp.70/",
+  "custom": {
+    "catalog_id": "arxiv:2410.00467",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2410.00467",
+    "identifiers": {
+      "arxiv": "2410.00467"
+    },
+    "first_published_at": "2024-10-01",
+    "record_updated_at": "2024-12-19",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f370d105dc1fc1a377fd1b1fd5d1fc3d0f035694cc7c364e6326c587607c98c6",
+      "submitted_at": "2024-10-01T07:49:24Z",
+      "updated_at": "2024-12-19T14:29:31Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2410.00467v3"
+    },
+    "publication": {
+      "authors": [
+        "Shaoqing Zhang",
+        "Zhuosheng Zhang",
+        "Kehai Chen (陈科海)",
+        "Xinbei Ma",
+        "Muyun Yang (杨沐昀)",
+        "Tiejun Zhao (赵铁军)",
+        "Min Zhang"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2024,
+        11
+      ],
+      "doi": "10.18653/v1/2024.findings-emnlp.70",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2024.findings-emnlp.70/"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+      "pages": "1304-1320",
+      "pdf_url": "https://aclanthology.org/2024.findings-emnlp.70.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "Dynamic Planning for LLM-based Graphical User Interface Automation",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2024.findings-emnlp.70/",
+      "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2024-11.",
+  "author": [
+    {
+      "literal": "Shaoqing Zhang"
+    },
+    {
+      "literal": "Zhuosheng Zhang"
+    },
+    {
+      "literal": "Kehai Chen (陈科海)"
+    },
+    {
+      "literal": "Xinbei Ma"
+    },
+    {
+      "literal": "Muyun Yang (杨沐昀)"
+    },
+    {
+      "literal": "Tiejun Zhao (赵铁军)"
+    },
+    {
+      "literal": "Min Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11
+      ]
+    ]
+  },
+  "DOI": "10.18653/v1/2024.findings-emnlp.70",
+  "container-title": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+  "publisher": "Association for Computational Linguistics",
+  "page": "1304-1320"
+}

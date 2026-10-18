@@ -1,0 +1,102 @@
+{
+  "id": "arxiv:2502.11357:publication",
+  "citation-key": "arxiv_2502_11357_publication",
+  "type": "paper-conference",
+  "title": "Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents",
+  "URL": "https://aclanthology.org/2025.findings-acl.326/",
+  "custom": {
+    "catalog_id": "arxiv:2502.11357",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2502.11357",
+    "identifiers": {
+      "arxiv": "2502.11357"
+    },
+    "first_published_at": "2025-02-17",
+    "record_updated_at": "2025-05-30",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d9f459a02b7a464d9e1e49579943d1b93d46308c1b00e795c903d2fa1502a2b2",
+      "submitted_at": "2025-02-17T02:13:48Z",
+      "updated_at": "2025-05-30T02:30:57Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2502.11357v4"
+    },
+    "publication": {
+      "authors": [
+        "Vardaan Pahuja",
+        "Yadong Lu",
+        "Corby Rosset",
+        "Boyu Gou",
+        "Arindam Mitra",
+        "Spencer Whitehead",
+        "Yu Su",
+        "Ahmed Awadallah"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        7
+      ],
+      "doi": "10.18653/v1/2025.findings-acl.326",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.findings-acl.326/",
+        "https://aclanthology.org/2025.findings-acl.326.pdf"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256. The publisher PDF title and complete first-page author list were visually checked.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. Authors follow the publisher PDF, page 1. Landing-page citation metadata gives Ahmed Hassan for the final author, while the supplied BibTeX expands the name to Ahmed Hassan Awadallah; the PDF uses Ahmed Awadallah.",
+      "pages": "6300-6323",
+      "pdf_url": "https://aclanthology.org/2025.findings-acl.326.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.findings-acl.326/",
+      "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2025-07.",
+  "author": [
+    {
+      "literal": "Vardaan Pahuja"
+    },
+    {
+      "literal": "Yadong Lu"
+    },
+    {
+      "literal": "Corby Rosset"
+    },
+    {
+      "literal": "Boyu Gou"
+    },
+    {
+      "literal": "Arindam Mitra"
+    },
+    {
+      "literal": "Spencer Whitehead"
+    },
+    {
+      "literal": "Yu Su"
+    },
+    {
+      "literal": "Ahmed Awadallah"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.18653/v1/2025.findings-acl.326",
+  "container-title": "Findings of the Association for Computational Linguistics: ACL 2025",
+  "publisher": "Association for Computational Linguistics",
+  "page": "6300-6323"
+}

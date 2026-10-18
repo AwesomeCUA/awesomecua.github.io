@@ -23,14 +23,9 @@
         "synthesized dynamic causal knowledge"
       ]
     },
-    "download_url": null,
     "gated": false,
     "hub_id": "wuuuuuz/GUI-CIDER",
-    "languages": [],
-    "modalities": [],
-    "release_revision": "47ba5a55ed9ad993ad9562904ea6e978c4524d17",
-    "sample_count": null,
-    "sample_unit": null
+    "release_revision": "47ba5a55ed9ad993ad9562904ea6e978c4524d17"
   },
   "environments": [
     "android"

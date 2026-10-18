@@ -30,10 +30,7 @@
       ],
       "setting": "interactive"
     },
-    "evaluation_type": null,
-    "leaderboard_url": null,
-    "metrics": [],
-    "task_count": null
+    "leaderboard_url": "https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ/edit?usp=sharing"
   },
   "environments": [
     "web"
@@ -52,7 +49,8 @@
         "topics",
         "scope",
         "relations",
-        "details.benchmark_protocol"
+        "details.benchmark_protocol",
+        "details.leaderboard_url"
       ],
       "url": "https://raw.githubusercontent.com/web-arena-x/webarena/HEAD/README.md"
     },

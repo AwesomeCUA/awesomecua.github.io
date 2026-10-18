@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2409.00088",
+  "citation-key": "arxiv_2409_00088",
+  "type": "article",
+  "title": "On-Device Language Models: A Comprehensive Review",
+  "URL": "https://arxiv.org/abs/2409.00088v2",
+  "custom": {
+    "catalog_id": "arxiv:2409.00088",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2409.00088",
+    "identifiers": {
+      "arxiv": "2409.00088"
+    },
+    "first_published_at": "2024-08-26",
+    "record_updated_at": "2024-09-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5aec9e0fa7afad1a6d35e79a7de266eb392e78cc001fb734e68b9d0256e0fa13",
+      "submitted_at": "2024-08-26T03:33:36Z",
+      "updated_at": "2024-09-14T04:01:09Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2409.00088v2"
+    }
+  },
+  "note": "First published: 2024-08-26; Recorded arXiv version: v2; Recorded version updated: 2024-09-14T04:01:09Z.",
+  "author": [
+    {
+      "literal": "Jiajun Xu"
+    },
+    {
+      "literal": "Zhiyuan Li"
+    },
+    {
+      "literal": "Wei Chen"
+    },
+    {
+      "literal": "Qun Wang"
+    },
+    {
+      "literal": "Xin Gao"
+    },
+    {
+      "literal": "Qi Cai"
+    },
+    {
+      "literal": "Ziyuan Ling"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2409.00088",
+  "genre": "preprint",
+  "version": "2"
+}

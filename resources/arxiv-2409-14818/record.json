@@ -19,6 +19,42 @@
       "updated_at": "2024-10-03T05:23:22Z",
       "version": 2,
       "versioned_url": "https://arxiv.org/abs/2409.14818v2"
+    },
+    "publication": {
+      "authors": [
+        "Qinzhuo Wu",
+        "Weikai Xu",
+        "Wei Liu",
+        "Tao Tan",
+        "Jianfeng Liu",
+        "Ang Li",
+        "Jian Luan",
+        "Bin Wang",
+        "Shuo Shang"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2024,
+        11
+      ],
+      "doi": "10.18653/v1/2024.findings-emnlp.599",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2024.findings-emnlp.599/",
+        "https://aclanthology.org/2024.findings-emnlp.599.pdf"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256. The publisher PDF title and complete first-page author list were visually checked.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. Authors follow the publisher PDF, page 1. The landing page and its BibTeX list the fifth author as Liujian Liujianfeng; the PDF names Jianfeng Liu.",
+      "pages": "10231-10251",
+      "pdf_url": "https://aclanthology.org/2024.findings-emnlp.599.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2024.findings-emnlp.599/",
+      "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+      "volume": null
     }
   },
   "environments": [
@@ -39,6 +75,39 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:09:52Z",
+      "role": "primary",
+      "sha256": "c7f0e00d6102bac259b21a9422fba11f3da72da06535f37581b2670082c82a7b",
+      "supports": [
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.doi",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.pdf_url",
+        "details.publication.publisher",
+        "details.publication.title",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue"
+      ],
+      "url": "https://aclanthology.org/2024.findings-emnlp.599/"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:14:02.000149+00:00",
+      "role": "primary",
+      "sha256": "131e26bc7168b529a0db7c4bda0747cdf318b7ef16bfaf3b4dede3826cb85c1a",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.identity_basis",
+        "details.publication.notes"
+      ],
+      "url": "https://aclanthology.org/2024.findings-emnlp.599.pdf"
     },
     {
       "method": "editorial_primary_review",
@@ -72,6 +141,14 @@
     {
       "rel": "primary",
       "url": "https://arxiv.org/abs/2409.14818"
+    },
+    {
+      "rel": "publication",
+      "url": "https://aclanthology.org/2024.findings-emnlp.599/"
+    },
+    {
+      "rel": "publication_pdf",
+      "url": "https://aclanthology.org/2024.findings-emnlp.599.pdf"
     }
   ],
   "name": "MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding",

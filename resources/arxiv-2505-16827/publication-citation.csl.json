@@ -1,0 +1,101 @@
+{
+  "id": "arxiv:2505.16827:publication",
+  "citation-key": "arxiv_2505_16827_publication",
+  "type": "paper-conference",
+  "title": "GUI-explorer: Autonomous Exploration and Mining of Transition-aware Knowledge for GUI Agent",
+  "URL": "https://aclanthology.org/2025.acl-long.282/",
+  "custom": {
+    "catalog_id": "arxiv:2505.16827",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2505.16827",
+    "identifiers": {
+      "arxiv": "2505.16827"
+    },
+    "first_published_at": "2025-05-22",
+    "record_updated_at": "2025-05-22",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "641001c49fccac1e1c0659fe765eba5a30cefd2a7ff5d00c821f79092c45a1df",
+      "submitted_at": "2025-05-22T16:01:06Z",
+      "updated_at": "2025-05-22T16:01:06Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2505.16827v1"
+    },
+    "publication": {
+      "authors": [
+        "Bin Xie",
+        "Rui Shao",
+        "Gongwei Chen",
+        "Kaiwen Zhou",
+        "Yinchuan Li",
+        "Jie Liu",
+        "Min Zhang",
+        "Liqiang Nie"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        7
+      ],
+      "doi": "10.18653/v1/2025.acl-long.282",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.acl-long.282/"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+      "pages": "5650-5667",
+      "pdf_url": "https://aclanthology.org/2025.acl-long.282.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "GUI-explorer: Autonomous Exploration and Mining of Transition-aware Knowledge for GUI Agent",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.acl-long.282/",
+      "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2025-07.",
+  "author": [
+    {
+      "literal": "Bin Xie"
+    },
+    {
+      "literal": "Rui Shao"
+    },
+    {
+      "literal": "Gongwei Chen"
+    },
+    {
+      "literal": "Kaiwen Zhou"
+    },
+    {
+      "literal": "Yinchuan Li"
+    },
+    {
+      "literal": "Jie Liu"
+    },
+    {
+      "literal": "Min Zhang"
+    },
+    {
+      "literal": "Liqiang Nie"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.18653/v1/2025.acl-long.282",
+  "container-title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "publisher": "Association for Computational Linguistics",
+  "page": "5650-5667"
+}

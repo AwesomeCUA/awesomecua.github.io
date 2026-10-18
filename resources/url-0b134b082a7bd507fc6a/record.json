@@ -55,8 +55,6 @@
         "learned UI layout embeddings"
       ]
     },
-    "download_url": null,
-    "languages": [],
     "modalities": [
       "screenshot",
       "view-hierarchy",

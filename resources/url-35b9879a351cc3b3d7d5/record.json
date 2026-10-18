@@ -1,5 +1,9 @@
 {
-  "aliases": [],
+  "aliases": [
+    "url:cab7bd78abb1faa469e7",
+    "Reallm-Labs/InfiGUI-R1-3B",
+    "https://huggingface.co/Reallm-Labs/InfiGUI-R1-3B"
+  ],
   "authors": [],
   "details": {
     "disabled": false,
@@ -72,6 +76,26 @@
         "licenses.weights"
       ],
       "url": "https://huggingface.co/InfiX-ai/InfiGUI-R1-3B/raw/main/README.md"
+    },
+    {
+      "method": "huggingface_repository_identity",
+      "retrieved_at": "2026-10-17T19:15:15Z",
+      "role": "primary",
+      "sha256": "213a5181a3516cf15d5f7b746986bc1e36cd6579acabd8aa1c2fb16a23a51ee0",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://huggingface.co/api/models/Reallm-Labs/InfiGUI-R1-3B"
+    },
+    {
+      "method": "huggingface_repository_identity",
+      "retrieved_at": "2026-10-17T19:15:16Z",
+      "role": "primary",
+      "sha256": "213a5181a3516cf15d5f7b746986bc1e36cd6579acabd8aa1c2fb16a23a51ee0",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://huggingface.co/api/models/InfiX-ai/InfiGUI-R1-3B"
     }
   ],
   "id": "url:35b9879a351cc3b3d7d5",

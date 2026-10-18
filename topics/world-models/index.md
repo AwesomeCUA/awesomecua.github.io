@@ -20,6 +20,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/world-models/
   Presents PrecogUI, which retrieves prior anomaly and success patterns and predicts symbolic UI transitions before choosing actions. It also introduces InterfereBench, generated for evaluating long GUI workflows with disruptive events and recovery requirements.
 - [The GUI Is Not the State: Diagnosing State Aliasing in GUI World Models](https://awesomecua.github.io/resources/arxiv-2609-32679/) — 2026-09-26
   Introduces StateAliasBench to isolate GUI world-model ambiguities in which matching visible screens and actions can lead to different futures. It augments frozen world models with structured state recovered from interaction history and evaluates the effect on prediction and agent execution.
+- [Discriminative World Models for Web Agents](https://awesomecua.github.io/resources/arxiv-2609-02885/) — 2026-09-02
+  Trains discriminative web world models to distinguish the true next state from outcomes of alternative actions. Branching web trajectories support training, followed by tests of predicted-state matching, process-reward action ranking and end-to-end WebArena-Lite selection.
 - [GUI-CC: Benchmarking Contextual Consistency of GUI World Models as Agent Environments](https://awesomecua.github.io/resources/arxiv-2609-00048/) — 2026-08-30
   Introduces GUI-CC, a benchmark for assessing GUI world models as multi-step agent environments. Separate reference-action and agent-loop tracks test whether generated screens preserve context, plausible transitions, and task progress throughout interaction.
 - [WM-R1: Training GUI Agents to Reason and leverage World Models with Reinforcement Learning](https://awesomecua.github.io/resources/arxiv-2608-27508/) — 2026-08-27
@@ -38,6 +40,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/world-models/
   Presents a desktop world model that predicts textual UI changes before synthesizing the next screenshot. It learns from Microsoft Office transitions and is evaluated by letting a frozen agent compare simulated actions before execution.
 - [WebWorld: A Large-Scale World Model for Web Agent Training](https://awesomecua.github.io/resources/arxiv-2602-14721/) — 2026-02-16
   Introduces WebWorld, an open-web simulator trained on interaction trajectories for generating agent training data and testing candidate actions. WebWorld-Bench evaluates simulated transitions, alongside downstream web-agent training experiments.
+- [UI-Oceanus: Scaling GUI Agents with Synthetic Environmental Dynamics](https://awesomecua.github.io/resources/arxiv-2604-02345/) — 2026-02-11
+  UI-Oceanus converts autonomous GUI exploration and execution feedback into supervision for predicting future interface states. It compares forward and inverse objectives during continual pretraining and examines downstream offline and online navigation as synthetic data scales.
 - [Code2World: A GUI World Model via Renderable Code Generation](https://awesomecua.github.io/resources/arxiv-2602-09856/) — 2026-02-10
   Code2World predicts future GUI screens through renderable code, trained on AndroidCode trajectories with supervised learning and render-aware reinforcement learning. It evaluates visual prediction and downstream AndroidWorld navigation with the learned world model.
 - [GUI-GenBench: Evaluating Image Generation Models as Interactive GUI Environments](https://awesomecua.github.io/resources/arxiv-2602-09007/) — 2026-02-09
@@ -58,6 +62,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/world-models/
   SEAgent explores unfamiliar software using a world-state assessor and an automatically generated task curriculum. It learns from failed and successful interactions through adversarial imitation and GRPO, then combines specialist experience into a generalist agent evaluated on five OSWorld software environments.
 - [ScreenExplorer: Training a Vision-Language Model for Diverse Exploration in Open GUI World](https://awesomecua.github.io/resources/arxiv-2505-19095/) — 2025-05-25
   Trains ScreenExplorer with reinforcement learning in dynamic GUI environments, using a world-model curiosity reward and experience-stream distillation to support sustained exploration.
+- [Unlocking Smarter Device Control: Foresighted Planning with a World Model-Driven Code Execution Approach](https://awesomecua.github.io/resources/arxiv-2505-16422/) — 2025-05-22
+  FPWC builds and refines a task-oriented world model before planning mobile-device actions. It executes plans as code and evaluates the approach in simulated environments and on real mobile devices.
 - [WebEvolver: Enhancing Web Agent Self-Improvement with Coevolving World Model](https://awesomecua.github.io/resources/arxiv-2504-21024/) — 2025-04-23
   WebEvolver trains a co-evolving world model to predict web observations and generate additional agent-training trajectories. The same model supports look-ahead action selection at inference, with evaluation on live web-task benchmarks.
 - [ViMo: A Generative Visual GUI World Model for App Agents](https://awesomecua.github.io/resources/arxiv-2504-13936/) — 2025-04-15
@@ -73,11 +79,17 @@ Full source records: https://awesomecua.github.io/downloads/topics/world-models/
 
 ## Datasets
 
+- [AndroidCode](https://awesomecua.github.io/resources/url-cf4d2d45a7314cb16acb/) — Date not recorded
+  HTML and annotation release used for Code2World’s action-conditioned GUI-state prediction training, constructed from mobile GUI trajectories.
 - [Dreamer V1 Data](https://awesomecua.github.io/resources/url-eadc6cba9ea46c38dd1d/) — Date not recorded
   Web-world-model training data with prompts, images, action descriptions, and responses, released with the WebDreamer project.
+- [WebEvolver SFT data](https://awesomecua.github.io/resources/url-e126bbd9729ebdaf05ab/) — Date not recorded
+  Two JSONL collections for supervised fine-tuning the WebEvolver agent policy and web world model.
 
 ## Models
 
+- [Code2World-8B checkpoint](https://awesomecua.github.io/resources/url-bc3deaf8eeecf569e73b/) — Date not recorded
+  Released GUI world-model checkpoint that turns a screenshot and proposed action into HTML for rendering a predicted next screen.
 - [Dreamer-7B](https://awesomecua.github.io/resources/url-e3c1a2a2d556e4728953/) — Date not recorded
   WebDreamer model checkpoint that predicts the consequences of web actions from screenshots and textual descriptions.
 
@@ -85,3 +97,5 @@ Full source records: https://awesomecua.github.io/downloads/topics/world-models/
 
 - [WebDreamer](https://awesomecua.github.io/resources/github-osu-nlp-group-webdreamer/) — Date not recorded
   World-model and planning components that simulate web-action outcomes, with linked training data and model checkpoints.
+- [WebEvolver code component](https://awesomecua.github.io/resources/component-tencent-selfevolvingagent-webevolver/) — Date not recorded
+  Component for web-agent trajectory collection, supervised-data preparation and world-model-based trajectory synthesis.

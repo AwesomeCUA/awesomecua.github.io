@@ -1,5 +1,9 @@
 {
-  "aliases": [],
+  "aliases": [
+    "github:bytedance/agent-r",
+    "bytedance/Agent-R",
+    "https://github.com/bytedance/Agent-R"
+  ],
   "authors": [],
   "details": {},
   "environments": [
@@ -62,6 +66,26 @@
         "licenses.code"
       ],
       "url": "https://raw.githubusercontent.com/ByteDance-Seed/Agent-R/HEAD/LICENSE"
+    },
+    {
+      "method": "github_repository_identity",
+      "retrieved_at": "2026-10-17T18:05:46Z",
+      "role": "primary",
+      "sha256": "3fff7137bc4f39a3a757f3b820892fb330449044ef2721e9f9d7719d23ff2b98",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://api.github.com/repos/bytedance/Agent-R"
+    },
+    {
+      "method": "github_repository_identity",
+      "retrieved_at": "2026-10-17T18:05:46Z",
+      "role": "primary",
+      "sha256": "3fff7137bc4f39a3a757f3b820892fb330449044ef2721e9f9d7719d23ff2b98",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://api.github.com/repos/ByteDance-Seed/Agent-R"
     }
   ],
   "id": "github:bytedance-seed/agent-r",

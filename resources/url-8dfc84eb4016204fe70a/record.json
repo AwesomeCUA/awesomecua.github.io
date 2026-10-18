@@ -37,11 +37,7 @@
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/LangAGI-Lab/WebPRMCollection_preference_pair/tree/main",
     "gated": false,
-    "hub_id": "LangAGI-Lab/WebPRMCollection_preference_pair",
-    "languages": [],
-    "modalities": [],
-    "sample_count": null,
-    "sample_unit": null
+    "hub_id": "LangAGI-Lab/WebPRMCollection_preference_pair"
   },
   "environments": [
     "web"

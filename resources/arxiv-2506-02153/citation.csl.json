@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2506.02153",
+  "citation-key": "arxiv_2506_02153",
+  "type": "article",
+  "title": "Small Language Models are the Future of Agentic AI",
+  "URL": "https://arxiv.org/abs/2506.02153v3",
+  "custom": {
+    "catalog_id": "arxiv:2506.02153",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2506.02153",
+    "identifiers": {
+      "arxiv": "2506.02153"
+    },
+    "first_published_at": "2025-06-02",
+    "record_updated_at": "2026-09-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a83ee6f8b372e330cf421a6463bd9deaa348a6bfa37e80e0892e4ed9866469e0",
+      "submitted_at": "2025-06-02T18:35:16Z",
+      "updated_at": "2026-09-22T02:53:31Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2506.02153v3"
+    }
+  },
+  "note": "First published: 2025-06-02; Recorded arXiv version: v3; Recorded version updated: 2026-09-22T02:53:31Z.",
+  "author": [
+    {
+      "literal": "Peter Belcak"
+    },
+    {
+      "literal": "Greg Heinrich"
+    },
+    {
+      "literal": "Shizhe Diao"
+    },
+    {
+      "literal": "Yonggan Fu"
+    },
+    {
+      "literal": "Xin Dong"
+    },
+    {
+      "literal": "Saurav Muralidharan"
+    },
+    {
+      "literal": "Yingyan Celine Lin"
+    },
+    {
+      "literal": "Pavlo Molchanov"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.02153",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -1,5 +1,12 @@
 {
-  "aliases": [],
+  "aliases": [
+    "url:4338ec0f1a67bdb6a139",
+    "microsoft/Fara-7B",
+    "https://huggingface.co/microsoft/Fara-7B",
+    "url:d416331cdf9730afd6b9",
+    "microsoft/fara-7b",
+    "https://huggingface.co/microsoft/fara-7b"
+  ],
   "authors": [],
   "details": {
     "artifact_type": "model-checkpoint",
@@ -44,6 +51,36 @@
         "licenses.weights"
       ],
       "url": "https://huggingface.co/api/models/microsoft/Fara-7b"
+    },
+    {
+      "method": "huggingface_repository_identity",
+      "retrieved_at": "2026-10-17T19:14:59Z",
+      "role": "primary",
+      "sha256": "cd1f83cd2ebf30d45501d1a31ecbe3bcb2039928d580c750733d2edb49916398",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://huggingface.co/api/models/microsoft/Fara-7B"
+    },
+    {
+      "method": "huggingface_repository_identity",
+      "retrieved_at": "2026-10-17T19:15:00Z",
+      "role": "primary",
+      "sha256": "cd1f83cd2ebf30d45501d1a31ecbe3bcb2039928d580c750733d2edb49916398",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://huggingface.co/api/models/microsoft/Fara-7b"
+    },
+    {
+      "method": "huggingface_repository_identity",
+      "retrieved_at": "2026-10-17T19:15:01Z",
+      "role": "primary",
+      "sha256": "cd1f83cd2ebf30d45501d1a31ecbe3bcb2039928d580c750733d2edb49916398",
+      "supports": [
+        "aliases"
+      ],
+      "url": "https://huggingface.co/api/models/microsoft/fara-7b"
     }
   ],
   "id": "url:a4da77ee63f879cc8e63",

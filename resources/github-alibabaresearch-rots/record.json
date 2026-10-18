@@ -26,12 +26,7 @@
       "supervision": [
         "recovery trajectory synthesis"
       ]
-    },
-    "download_url": null,
-    "languages": [],
-    "modalities": [],
-    "sample_count": null,
-    "sample_unit": null
+    }
   },
   "environments": [
     "cross-platform"

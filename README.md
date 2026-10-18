@@ -12,9 +12,9 @@ git clone https://github.com/reacher-z/Awesome-CUA.git
 
 [Agent instructions](https://awesomecua.github.io/AGENTS.md) · [Agent and RAG guide](https://awesomecua.github.io/agents/) · [中文使用指南](https://awesomecua.github.io/zh/agents/) · [Complete JSONL](https://awesomecua.github.io/downloads/catalog.jsonl)
 
-**3,006 resource records** · **1,435 curated** · **2,578 paper and survey records** · **44 discovery documents**
+**3,048 resource records** · **1,572 curated** · **2,599 paper and survey records** · **47 discovery documents**
 
-Evidence snapshot: 2026-10-17T17:18:56Z. Bibliography counts overlap review-state counts. Resources are not independent projects.
+Evidence snapshot: 2026-10-18T04:40:40Z. Bibliography counts overlap review-state counts. Resources are not independent projects.
 
 ## What is a computer-use agent?
 
@@ -24,13 +24,13 @@ A computer-use agent observes software interfaces, chooses and executes actions,
 
 | Category | Records | Browse |
 | --- | ---: | --- |
-| Research papers | 2,565 | [Open directory](https://awesomecua.github.io/categories/paper/) |
-| Surveys | 13 | [Open directory](https://awesomecua.github.io/categories/survey/) |
-| Models and checkpoints | 94 | [Open directory](https://awesomecua.github.io/categories/model/) |
-| Datasets | 80 | [Open directory](https://awesomecua.github.io/categories/dataset/) |
-| Benchmarks | 80 | [Open directory](https://awesomecua.github.io/categories/benchmark/) |
-| Agents | 38 | [Open directory](https://awesomecua.github.io/categories/agent/) |
-| Frameworks | 66 | [Open directory](https://awesomecua.github.io/categories/framework/) |
+| Research papers | 2,584 | [Open directory](https://awesomecua.github.io/categories/paper/) |
+| Surveys | 15 | [Open directory](https://awesomecua.github.io/categories/survey/) |
+| Models and checkpoints | 98 | [Open directory](https://awesomecua.github.io/categories/model/) |
+| Datasets | 85 | [Open directory](https://awesomecua.github.io/categories/dataset/) |
+| Benchmarks | 83 | [Open directory](https://awesomecua.github.io/categories/benchmark/) |
+| Agents | 41 | [Open directory](https://awesomecua.github.io/categories/agent/) |
+| Frameworks | 72 | [Open directory](https://awesomecua.github.io/categories/framework/) |
 | Infrastructure | 14 | [Open directory](https://awesomecua.github.io/categories/infrastructure/) |
 | Tools | 20 | [Open directory](https://awesomecua.github.io/categories/tool/) |
 | Products | 20 | [Open directory](https://awesomecua.github.io/categories/product/) |

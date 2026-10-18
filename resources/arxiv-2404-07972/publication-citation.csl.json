@@ -1,0 +1,139 @@
+{
+  "id": "arxiv:2404.07972:publication",
+  "citation-key": "arxiv_2404_07972_publication",
+  "type": "paper-conference",
+  "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+  "URL": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d413e48f84dc61244b6be550f1cd8f5-Abstract-Datasets_and_Benchmarks_Track.html",
+  "custom": {
+    "catalog_id": "arxiv:2404.07972",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2404.07972",
+    "identifiers": {
+      "arxiv": "2404.07972"
+    },
+    "first_published_at": "2024-04-11",
+    "record_updated_at": "2024-05-30",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a347bfcb4de03a60410392b52d522e5b7ad5dbabb474d60fc1ec097e74c4008d",
+      "submitted_at": "2024-04-11T17:56:05Z",
+      "updated_at": "2024-05-30T08:55:12Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2404.07972v2"
+    },
+    "publication": {
+      "authors": [
+        "Tianbao Xie",
+        "Danyang Zhang",
+        "Jixuan Chen",
+        "Xiaochuan Li",
+        "Siheng Zhao",
+        "Ruisheng Cao",
+        "Toh J. Hua",
+        "Zhoujun Cheng",
+        "Dongchan Shin",
+        "Fangyu Lei",
+        "Yitao Liu",
+        "Yiheng Xu",
+        "Shuyan Zhou",
+        "Silvio Savarese",
+        "Caiming Xiong",
+        "Victor Zhong",
+        "Tao Yu"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2024,
+        12,
+        16
+      ],
+      "doi": "10.52202/079017-1650",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d413e48f84dc61244b6be550f1cd8f5-Abstract-Datasets_and_Benchmarks_Track.html"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+      "pages": "52040-52094",
+      "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/5d413e48f84dc61244b6be550f1cd8f5-Paper-Datasets_and_Benchmarks_Track.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+      "type": "conference-paper",
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d413e48f84dc61244b6be550f1cd8f5-Abstract-Datasets_and_Benchmarks_Track.html",
+      "venue": "Advances in Neural Information Processing Systems",
+      "volume": "37"
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2024-12-16.",
+  "author": [
+    {
+      "literal": "Tianbao Xie"
+    },
+    {
+      "literal": "Danyang Zhang"
+    },
+    {
+      "literal": "Jixuan Chen"
+    },
+    {
+      "literal": "Xiaochuan Li"
+    },
+    {
+      "literal": "Siheng Zhao"
+    },
+    {
+      "literal": "Ruisheng Cao"
+    },
+    {
+      "literal": "Toh J. Hua"
+    },
+    {
+      "literal": "Zhoujun Cheng"
+    },
+    {
+      "literal": "Dongchan Shin"
+    },
+    {
+      "literal": "Fangyu Lei"
+    },
+    {
+      "literal": "Yitao Liu"
+    },
+    {
+      "literal": "Yiheng Xu"
+    },
+    {
+      "literal": "Shuyan Zhou"
+    },
+    {
+      "literal": "Silvio Savarese"
+    },
+    {
+      "literal": "Caiming Xiong"
+    },
+    {
+      "literal": "Victor Zhong"
+    },
+    {
+      "literal": "Tao Yu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        12,
+        16
+      ]
+    ]
+  },
+  "DOI": "10.52202/079017-1650",
+  "container-title": "Advances in Neural Information Processing Systems",
+  "volume": "37",
+  "page": "52040-52094"
+}

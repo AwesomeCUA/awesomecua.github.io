@@ -1,0 +1,98 @@
+{
+  "aliases": [],
+  "authors": [
+    "Minghe Gao",
+    "Wendong Bu",
+    "Bingchen Miao",
+    "Yang Wu",
+    "Yunfei Li",
+    "Juncheng Li",
+    "Siliang Tang",
+    "Qi Wu",
+    "Yueting Zhuang",
+    "Meng Wang"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "daa9b7092616e94a1d0124d36d8b75d0401b9647ec762c963524616a92def9a5",
+      "submitted_at": "2024-11-17T02:44:56Z",
+      "updated_at": "2024-11-17T02:44:56Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2411.10943v1"
+    }
+  },
+  "environments": [
+    "web",
+    "desktop",
+    "android",
+    "windows"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-18T04:21:52Z",
+      "role": "primary",
+      "sha256": "c194d15b7e422aae48b4e05216a1f1d84471b6666718b9d3dd4c9d250c356e77",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2210.03347%2C2403.04984%2C2405.07090%2C2406.06282%2C2409.00088%2C2409.10811%2C2411.10943%2C2503.09241%2C2503.20279%2C2503.23350%2C2505.05440%2C2505.10593%2C2505.16422%2C2505.21279%2C2505.24878%2C2506.02153%2C2506.02839%2C2506.05079%2C2506.07976%2C2508.02046%2C2511.07885%2C2511.11248%2C2512.21720%2C2603.20351%2C2604.19299&max_results=25"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:29:13.577033+00:00",
+      "role": "primary",
+      "sha256": "92f18020e481d6f42a6d35e96dff820594e9370597f5392d038e9ee908c49f1e",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes"
+      ],
+      "url": "https://arxiv.org/html/2411.10943v1"
+    }
+  ],
+  "id": "arxiv:2411.10943",
+  "identifiers": {
+    "arxiv": "2411.10943"
+  },
+  "kind": "survey",
+  "last_verified_at": "2026-10-18T04:29:13.577033+00:00",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2411.10943"
+    }
+  ],
+  "name": "Generalist Virtual Agents: A Survey on Autonomous Agents Across Digital Platforms",
+  "notes": "Reviewed the complete retained arXiv abstract and exact-version official HTML sections on browser/application/OS environments, screen observations, input actions and evaluation. The HTML abstract fingerprint and ordered authors match the retained Atom entry. Literature claims and experiments were not independently reproduced.",
+  "published_at": "2024-11-17",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Surveys virtual agents for browsers, applications and operating systems, organizing prior work by task type, observation and action spaces, model strategies and evaluation methods. It examines screen-based interaction and keyboard, mouse and touch control, alongside transferability and long-sequence decision-making challenges.",
+  "topics": [
+    "survey",
+    "web-navigation",
+    "mobile-navigation",
+    "evaluation",
+    "planning"
+  ],
+  "updated_at": "2024-11-17",
+  "url": "https://arxiv.org/abs/2411.10943"
+}

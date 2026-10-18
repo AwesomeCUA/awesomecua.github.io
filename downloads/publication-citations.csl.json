@@ -502,6 +502,286 @@
     "volume": "36"
   },
   {
+    "DOI": "10.52202/075280-2609",
+    "URL": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/bbbb6308b402fe909c39dd29950c32e0-Abstract-Datasets_and_Benchmarks.html",
+    "author": [
+      {
+        "literal": "Christopher Rawles"
+      },
+      {
+        "literal": "Alice Li"
+      },
+      {
+        "literal": "Daniel Rodriguez"
+      },
+      {
+        "literal": "Oriana Riva"
+      },
+      {
+        "literal": "Timothy Lillicrap"
+      }
+    ],
+    "citation-key": "arxiv_2307_10088_publication",
+    "container-title": "Advances in Neural Information Processing Systems",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "def4616f7cb13fe839e500c4b3171eafbe37b155b5d14301137806d6a5cde939",
+        "submitted_at": "2023-07-19T15:57:24Z",
+        "updated_at": "2023-10-27T14:24:31Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2307.10088v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2307.10088",
+      "catalog_id": "arxiv:2307.10088",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2023-07-19",
+      "identifiers": {
+        "arxiv": "2307.10088"
+      },
+      "publication": {
+        "authors": [
+          "Christopher Rawles",
+          "Alice Li",
+          "Daniel Rodriguez",
+          "Oriana Riva",
+          "Timothy Lillicrap"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2023-12-15. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2023,
+          12,
+          15
+        ],
+        "doi": "10.52202/075280-2609",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.neurips.cc/paper_files/paper/2023/hash/bbbb6308b402fe909c39dd29950c32e0-Abstract-Datasets_and_Benchmarks.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "59708-59728",
+        "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2023/file/bbbb6308b402fe909c39dd29950c32e0-Paper-Datasets_and_Benchmarks.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "AndroidInTheWild: A Large-Scale Dataset For Android Device Control",
+        "type": "conference-paper",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/bbbb6308b402fe909c39dd29950c32e0-Abstract-Datasets_and_Benchmarks.html",
+        "venue": "Advances in Neural Information Processing Systems",
+        "volume": "36"
+      },
+      "record_updated_at": "2023-10-27"
+    },
+    "id": "arxiv:2307.10088:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          15
+        ]
+      ]
+    },
+    "note": "Publication date: 2023-12-15.",
+    "page": "59708-59728",
+    "title": "AndroidInTheWild: A Large-Scale Dataset For Android Device Control",
+    "type": "paper-conference",
+    "volume": "36"
+  },
+  {
+    "DOI": "10.18653/v1/2024.findings-acl.186",
+    "URL": "https://aclanthology.org/2024.findings-acl.186/",
+    "author": [
+      {
+        "literal": "Zhuosheng Zhang"
+      },
+      {
+        "literal": "Aston Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2309_11436_publication",
+    "container-title": "Findings of the Association for Computational Linguistics: ACL 2024",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6d9cff1ece6115e87b7a9032f5720deb49694fbf570bea1f152018c4fa80d981",
+        "submitted_at": "2023-09-20T16:12:32Z",
+        "updated_at": "2024-06-07T04:52:29Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2309.11436v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2309.11436",
+      "catalog_id": "arxiv:2309.11436",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2023-09-20",
+      "identifiers": {
+        "arxiv": "2309.11436"
+      },
+      "publication": {
+        "authors": [
+          "Zhuosheng Zhang",
+          "Aston Zhang"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          8
+        ],
+        "doi": "10.18653/v1/2024.findings-acl.186",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2024.findings-acl.186/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "3132-3149",
+        "pdf_url": "https://aclanthology.org/2024.findings-acl.186.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "You Only Look at Screens: Multimodal Chain-of-Action Agents",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2024.findings-acl.186/",
+        "venue": "Findings of the Association for Computational Linguistics: ACL 2024",
+        "volume": null
+      },
+      "record_updated_at": "2024-06-07"
+    },
+    "id": "arxiv:2309.11436:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          8
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-08.",
+    "page": "3132-3149",
+    "publisher": "Association for Computational Linguistics",
+    "title": "You Only Look at Screens: Multimodal Chain-of-Action Agents",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://openaccess.thecvf.com/content/CVPR2024/html/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.html",
+    "author": [
+      {
+        "literal": "Wenyi Hong"
+      },
+      {
+        "literal": "Weihan Wang"
+      },
+      {
+        "literal": "Qingsong Lv"
+      },
+      {
+        "literal": "Jiazheng Xu"
+      },
+      {
+        "literal": "Wenmeng Yu"
+      },
+      {
+        "literal": "Junhui Ji"
+      },
+      {
+        "literal": "Yan Wang"
+      },
+      {
+        "literal": "Zihan Wang"
+      },
+      {
+        "literal": "Yuxiao Dong"
+      },
+      {
+        "literal": "Ming Ding"
+      },
+      {
+        "literal": "Jie Tang"
+      }
+    ],
+    "citation-key": "arxiv_2312_08914_publication",
+    "container-title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "755198d83a3af9fe6d032f1446ec9bf57bf7e6f314d37787ce8a6aaa16bddc47",
+        "submitted_at": "2023-12-14T13:20:57Z",
+        "updated_at": "2024-12-27T06:56:18Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2312.08914v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2312.08914",
+      "catalog_id": "arxiv:2312.08914",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2023-12-14",
+      "identifiers": {
+        "arxiv": "2312.08914"
+      },
+      "publication": {
+        "authors": [
+          "Wenyi Hong",
+          "Weihan Wang",
+          "Qingsong Lv",
+          "Jiazheng Xu",
+          "Wenmeng Yu",
+          "Junhui Ji",
+          "Yan Wang",
+          "Zihan Wang",
+          "Yuxiao Dong",
+          "Ming Ding",
+          "Jie Tang"
+        ],
+        "date_basis": "Year from publisher citation metadata and month from the same page's embedded BibTeX; no day is supplied.",
+        "date_parts": [
+          2024,
+          6
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://openaccess.thecvf.com/content/CVPR2024/html/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.html",
+          "https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.pdf"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher page directly links this arXiv identifier. The publisher PDF title and complete first-page author list were visually checked.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. The publisher PDF, page 1, and landing page list eleven authors; the retained arXiv snapshot lists fourteen. Each edition retains its own authors.",
+        "pages": "14281-14290",
+        "pdf_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "CogAgent: A Visual Language Model for GUI Agents",
+        "type": "conference-paper",
+        "url": "https://openaccess.thecvf.com/content/CVPR2024/html/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.html",
+        "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "volume": null
+      },
+      "record_updated_at": "2024-12-27"
+    },
+    "id": "arxiv:2312.08914:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-06.",
+    "page": "14281-14290",
+    "title": "CogAgent: A Visual Language Model for GUI Agents",
+    "type": "paper-conference"
+  },
+  {
     "URL": "https://proceedings.mlr.press/v235/zheng24e.html",
     "author": [
       {
@@ -802,6 +1082,107 @@
     "type": "paper-conference"
   },
   {
+    "DOI": "10.18653/v1/2024.acl-long.371",
+    "URL": "https://aclanthology.org/2024.acl-long.371/",
+    "author": [
+      {
+        "literal": "Hongliang He"
+      },
+      {
+        "literal": "Wenlin Yao"
+      },
+      {
+        "literal": "Kaixin Ma"
+      },
+      {
+        "literal": "Wenhao Yu"
+      },
+      {
+        "literal": "Yong Dai"
+      },
+      {
+        "literal": "Hongming Zhang"
+      },
+      {
+        "literal": "Zhenzhong Lan"
+      },
+      {
+        "literal": "Dong Yu"
+      }
+    ],
+    "citation-key": "arxiv_2401_13919_publication",
+    "container-title": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "dbc7121c9606c5987df0941b849c216ad8731bebcc74a061cf3f154379d7b8da",
+        "submitted_at": "2024-01-25T03:33:18Z",
+        "updated_at": "2024-06-06T18:37:34Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2401.13919v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2401.13919",
+      "catalog_id": "arxiv:2401.13919",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-01-25",
+      "identifiers": {
+        "arxiv": "2401.13919"
+      },
+      "publication": {
+        "authors": [
+          "Hongliang He",
+          "Wenlin Yao",
+          "Kaixin Ma",
+          "Wenhao Yu",
+          "Yong Dai",
+          "Hongming Zhang",
+          "Zhenzhong Lan",
+          "Dong Yu"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          8
+        ],
+        "doi": "10.18653/v1/2024.acl-long.371",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2024.acl-long.371/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "6864-6890",
+        "pdf_url": "https://aclanthology.org/2024.acl-long.371.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2024.acl-long.371/",
+        "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "volume": null
+      },
+      "record_updated_at": "2024-06-06"
+    },
+    "id": "arxiv:2401.13919:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          8
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-08.",
+    "page": "6864-6890",
+    "publisher": "Association for Computational Linguistics",
+    "title": "WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models",
+    "type": "paper-conference"
+  },
+  {
     "URL": "https://proceedings.mlr.press/v235/lu24e.html",
     "author": [
       {
@@ -885,6 +1266,398 @@
     "title": "WebLINX: Real-World Website Navigation with Multi-Turn Dialogue",
     "type": "paper-conference",
     "volume": "235"
+  },
+  {
+    "DOI": "10.18653/v1/2025.naacl-long.26",
+    "URL": "https://aclanthology.org/2025.naacl-long.26/",
+    "author": [
+      {
+        "literal": "Chaoyun Zhang"
+      },
+      {
+        "literal": "Liqun Li"
+      },
+      {
+        "literal": "Shilin He"
+      },
+      {
+        "literal": "Xu Zhang"
+      },
+      {
+        "literal": "Bo Qiao"
+      },
+      {
+        "literal": "Si Qin"
+      },
+      {
+        "literal": "Minghua Ma"
+      },
+      {
+        "literal": "Yu Kang"
+      },
+      {
+        "literal": "Qingwei Lin"
+      },
+      {
+        "literal": "Saravan Rajmohan"
+      },
+      {
+        "literal": "Dongmei Zhang"
+      },
+      {
+        "literal": "Qi Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2402_07939_publication",
+    "container-title": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "533acb1c9aa3f1c77adb2c67779da86e3d5de95264ba3ec1f81d803f67da7753",
+        "submitted_at": "2024-02-08T15:40:35Z",
+        "updated_at": "2024-05-23T05:18:58Z",
+        "version": 5,
+        "versioned_url": "https://arxiv.org/abs/2402.07939v5"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2402.07939",
+      "catalog_id": "arxiv:2402.07939",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-02-08",
+      "identifiers": {
+        "arxiv": "2402.07939"
+      },
+      "publication": {
+        "authors": [
+          "Chaoyun Zhang",
+          "Liqun Li",
+          "Shilin He",
+          "Xu Zhang",
+          "Bo Qiao",
+          "Si Qin",
+          "Minghua Ma",
+          "Yu Kang",
+          "Qingwei Lin",
+          "Saravan Rajmohan",
+          "Dongmei Zhang",
+          "Qi Zhang"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          4
+        ],
+        "doi": "10.18653/v1/2025.naacl-long.26",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.naacl-long.26/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "597-622",
+        "pdf_url": "https://aclanthology.org/2025.naacl-long.26.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "UFO: A UI-Focused Agent for Windows OS Interaction",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.naacl-long.26/",
+        "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+        "volume": null
+      },
+      "record_updated_at": "2024-05-23"
+    },
+    "id": "arxiv:2402.07939:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-04.",
+    "page": "597-622",
+    "publisher": "Association for Computational Linguistics",
+    "title": "UFO: A UI-Focused Agent for Windows OS Interaction",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2024.findings-acl.539",
+    "URL": "https://aclanthology.org/2024.findings-acl.539",
+    "author": [
+      {
+        "literal": "Xinbei Ma"
+      },
+      {
+        "literal": "Zhuosheng Zhang"
+      },
+      {
+        "literal": "Hai Zhao (赵海)"
+      }
+    ],
+    "citation-key": "arxiv_2402_11941_publication",
+    "container-title": "Findings of the Association for Computational Linguistics: ACL 2024",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "98930b10832d8169bdc60620f882b4b8f753440979c8e9a8de167b12d38d7060",
+        "submitted_at": "2024-02-19T08:29:03Z",
+        "updated_at": "2024-06-02T13:25:05Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2402.11941v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2402.11941",
+      "catalog_id": "arxiv:2402.11941",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-02-19",
+      "identifiers": {
+        "arxiv": "2402.11941"
+      },
+      "publication": {
+        "authors": [
+          "Xinbei Ma",
+          "Zhuosheng Zhang",
+          "Hai Zhao (赵海)"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          8
+        ],
+        "doi": "10.18653/v1/2024.findings-acl.539",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2024.findings-acl.539"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "9097-9110",
+        "pdf_url": "https://aclanthology.org/2024.findings-acl.539.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "CoCo-Agent: A Comprehensive Cognitive MLLM Agent for Smartphone GUI Automation",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2024.findings-acl.539",
+        "venue": "Findings of the Association for Computational Linguistics: ACL 2024",
+        "volume": null
+      },
+      "record_updated_at": "2024-06-02"
+    },
+    "id": "arxiv:2402.11941:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          8
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-08.",
+    "page": "9097-9110",
+    "publisher": "Association for Computational Linguistics",
+    "title": "CoCo-Agent: A Comprehensive Cognitive MLLM Agent for Smartphone GUI Automation",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2024.acl-long.477",
+    "URL": "https://aclanthology.org/2024.acl-long.477/",
+    "author": [
+      {
+        "literal": "Yang Deng"
+      },
+      {
+        "literal": "Xuan Zhang"
+      },
+      {
+        "literal": "Wenxuan Zhang"
+      },
+      {
+        "literal": "Yifei Yuan"
+      },
+      {
+        "literal": "See Kiong Ng"
+      },
+      {
+        "literal": "Tat-Seng Chua"
+      }
+    ],
+    "citation-key": "arxiv_2402_15057_publication",
+    "container-title": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5e4b233e423e9043b6d615c7b185a1eb0d47f646590e4fb9fd43ca156a1a1b16",
+        "submitted_at": "2024-02-23T02:18:12Z",
+        "updated_at": "2024-02-23T02:18:12Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2402.15057v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2402.15057",
+      "catalog_id": "arxiv:2402.15057",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-02-23",
+      "identifiers": {
+        "arxiv": "2402.15057"
+      },
+      "publication": {
+        "authors": [
+          "Yang Deng",
+          "Xuan Zhang",
+          "Wenxuan Zhang",
+          "Yifei Yuan",
+          "See Kiong Ng",
+          "Tat-Seng Chua"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          8
+        ],
+        "doi": "10.18653/v1/2024.acl-long.477",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2024.acl-long.477/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "8795-8812",
+        "pdf_url": "https://aclanthology.org/2024.acl-long.477.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "On the Multi-turn Instruction Following for Conversational Web Agents",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2024.acl-long.477/",
+        "venue": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "volume": null
+      },
+      "record_updated_at": "2024-02-23"
+    },
+    "id": "arxiv:2402.15057:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          8
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-08.",
+    "page": "8795-8812",
+    "publisher": "Association for Computational Linguistics",
+    "title": "On the Multi-turn Instruction Following for Conversational Web Agents",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2024.findings-emnlp.702",
+    "URL": "https://aclanthology.org/2024.findings-emnlp.702/",
+    "author": [
+      {
+        "literal": "Jiwen Zhang (张霁雯)"
+      },
+      {
+        "literal": "Jihao Wu"
+      },
+      {
+        "literal": "Teng Yihua"
+      },
+      {
+        "literal": "Minghui Liao"
+      },
+      {
+        "literal": "Nuo Xu"
+      },
+      {
+        "literal": "Xiao Xiao"
+      },
+      {
+        "literal": "Zhongyu Wei (魏忠钰)"
+      },
+      {
+        "literal": "Duyu Tang"
+      }
+    ],
+    "citation-key": "arxiv_2403_02713_publication",
+    "container-title": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4de9e7d68aa8450cab65ecb300524e85b1d2b2a91d58fecef370deceaba64b1e",
+        "submitted_at": "2024-03-05T07:09:35Z",
+        "updated_at": "2024-07-13T02:12:30Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2403.02713v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2403.02713",
+      "catalog_id": "arxiv:2403.02713",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-03-05",
+      "identifiers": {
+        "arxiv": "2403.02713"
+      },
+      "publication": {
+        "authors": [
+          "Jiwen Zhang (张霁雯)",
+          "Jihao Wu",
+          "Teng Yihua",
+          "Minghui Liao",
+          "Nuo Xu",
+          "Xiao Xiao",
+          "Zhongyu Wei (魏忠钰)",
+          "Duyu Tang"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          11
+        ],
+        "doi": "10.18653/v1/2024.findings-emnlp.702",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2024.findings-emnlp.702/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "12016-12031",
+        "pdf_url": "https://aclanthology.org/2024.findings-emnlp.702.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "Android in the Zoo: Chain-of-Action-Thought for GUI Agents",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2024.findings-emnlp.702/",
+        "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+        "volume": null
+      },
+      "record_updated_at": "2024-07-13"
+    },
+    "id": "arxiv:2403.02713:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-11.",
+    "page": "12016-12031",
+    "publisher": "Association for Computational Linguistics",
+    "title": "Android in the Zoo: Chain-of-Action-Thought for GUI Agents",
+    "type": "paper-conference"
   },
   {
     "URL": "https://proceedings.mlr.press/v267/tan25h.html",
@@ -1071,6 +1844,3926 @@
     "volume": "267"
   },
   {
+    "DOI": "10.18653/v1/2025.naacl-long.188",
+    "URL": "https://aclanthology.org/2025.naacl-long.188/",
+    "author": [
+      {
+        "literal": "Kevin Xu"
+      },
+      {
+        "literal": "Yeganeh Kordi"
+      },
+      {
+        "literal": "Tanay Nayak"
+      },
+      {
+        "literal": "Adi Asija"
+      },
+      {
+        "literal": "Yizhong Wang"
+      },
+      {
+        "literal": "Kate Sanders"
+      },
+      {
+        "literal": "Adam Byerly"
+      },
+      {
+        "literal": "Jingyu Zhang"
+      },
+      {
+        "literal": "Benjamin Van Durme"
+      },
+      {
+        "literal": "Daniel Khashabi"
+      }
+    ],
+    "citation-key": "arxiv_2403_11905_publication",
+    "container-title": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d82424b84ebddfeb005ffae38c130c6a9c7dae7adcdc59e2b7d001284b785573",
+        "submitted_at": "2024-03-18T16:06:30Z",
+        "updated_at": "2025-02-22T01:33:54Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2403.11905v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2403.11905",
+      "catalog_id": "arxiv:2403.11905",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-03-18",
+      "identifiers": {
+        "arxiv": "2403.11905"
+      },
+      "publication": {
+        "authors": [
+          "Kevin Xu",
+          "Yeganeh Kordi",
+          "Tanay Nayak",
+          "Adi Asija",
+          "Yizhong Wang",
+          "Kate Sanders",
+          "Adam Byerly",
+          "Jingyu Zhang",
+          "Benjamin Van Durme",
+          "Daniel Khashabi"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          4
+        ],
+        "doi": "10.18653/v1/2025.naacl-long.188",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.naacl-long.188/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "3694-3710",
+        "pdf_url": "https://aclanthology.org/2025.naacl-long.188.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "TurkingBench: A Challenge Benchmark for Web Agents",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.naacl-long.188/",
+        "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+        "volume": null
+      },
+      "record_updated_at": "2025-02-22"
+    },
+    "id": "arxiv:2403.11905:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-04.",
+    "page": "3694-3710",
+    "publisher": "Association for Computational Linguistics",
+    "title": "TurkingBench: A Challenge Benchmark for Web Agents",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.52202/079017-1650",
+    "URL": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d413e48f84dc61244b6be550f1cd8f5-Abstract-Datasets_and_Benchmarks_Track.html",
+    "author": [
+      {
+        "literal": "Tianbao Xie"
+      },
+      {
+        "literal": "Danyang Zhang"
+      },
+      {
+        "literal": "Jixuan Chen"
+      },
+      {
+        "literal": "Xiaochuan Li"
+      },
+      {
+        "literal": "Siheng Zhao"
+      },
+      {
+        "literal": "Ruisheng Cao"
+      },
+      {
+        "literal": "Toh J. Hua"
+      },
+      {
+        "literal": "Zhoujun Cheng"
+      },
+      {
+        "literal": "Dongchan Shin"
+      },
+      {
+        "literal": "Fangyu Lei"
+      },
+      {
+        "literal": "Yitao Liu"
+      },
+      {
+        "literal": "Yiheng Xu"
+      },
+      {
+        "literal": "Shuyan Zhou"
+      },
+      {
+        "literal": "Silvio Savarese"
+      },
+      {
+        "literal": "Caiming Xiong"
+      },
+      {
+        "literal": "Victor Zhong"
+      },
+      {
+        "literal": "Tao Yu"
+      }
+    ],
+    "citation-key": "arxiv_2404_07972_publication",
+    "container-title": "Advances in Neural Information Processing Systems",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a347bfcb4de03a60410392b52d522e5b7ad5dbabb474d60fc1ec097e74c4008d",
+        "submitted_at": "2024-04-11T17:56:05Z",
+        "updated_at": "2024-05-30T08:55:12Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2404.07972v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2404.07972",
+      "catalog_id": "arxiv:2404.07972",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-04-11",
+      "identifiers": {
+        "arxiv": "2404.07972"
+      },
+      "publication": {
+        "authors": [
+          "Tianbao Xie",
+          "Danyang Zhang",
+          "Jixuan Chen",
+          "Xiaochuan Li",
+          "Siheng Zhao",
+          "Ruisheng Cao",
+          "Toh J. Hua",
+          "Zhoujun Cheng",
+          "Dongchan Shin",
+          "Fangyu Lei",
+          "Yitao Liu",
+          "Yiheng Xu",
+          "Shuyan Zhou",
+          "Silvio Savarese",
+          "Caiming Xiong",
+          "Victor Zhong",
+          "Tao Yu"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          12,
+          16
+        ],
+        "doi": "10.52202/079017-1650",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d413e48f84dc61244b6be550f1cd8f5-Abstract-Datasets_and_Benchmarks_Track.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "52040-52094",
+        "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/5d413e48f84dc61244b6be550f1cd8f5-Paper-Datasets_and_Benchmarks_Track.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+        "type": "conference-paper",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d413e48f84dc61244b6be550f1cd8f5-Abstract-Datasets_and_Benchmarks_Track.html",
+        "venue": "Advances in Neural Information Processing Systems",
+        "volume": "37"
+      },
+      "record_updated_at": "2024-05-30"
+    },
+    "id": "arxiv:2404.07972:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          16
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-12-16.",
+    "page": "52040-52094",
+    "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+    "type": "paper-conference",
+    "volume": "37"
+  },
+  {
+    "DOI": "10.18653/v1/2025.findings-acl.703",
+    "URL": "https://aclanthology.org/2025.findings-acl.703/",
+    "author": [
+      {
+        "literal": "Shulin Tian"
+      },
+      {
+        "literal": "Ziniu Zhang"
+      },
+      {
+        "literal": "Liang-Yu Chen"
+      },
+      {
+        "literal": "Ziwei Liu"
+      }
+    ],
+    "citation-key": "arxiv_2404_09992_publication",
+    "container-title": "Findings of the Association for Computational Linguistics: ACL 2025",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "667b1f5053f3ae6ea712999932d5e9ee2f42e402cc72e713048d0790f5931976",
+        "submitted_at": "2024-04-15T17:59:50Z",
+        "updated_at": "2025-06-29T05:24:54Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2404.09992v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2404.09992",
+      "catalog_id": "arxiv:2404.09992",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-04-15",
+      "identifiers": {
+        "arxiv": "2404.09992"
+      },
+      "publication": {
+        "authors": [
+          "Shulin Tian",
+          "Ziniu Zhang",
+          "Liang-Yu Chen",
+          "Ziwei Liu"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          7
+        ],
+        "doi": "10.18653/v1/2025.findings-acl.703",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.findings-acl.703/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "13682-13697",
+        "pdf_url": "https://aclanthology.org/2025.findings-acl.703.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "MMInA: Benchmarking Multihop Multimodal Internet Agents",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.findings-acl.703/",
+        "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+        "volume": null
+      },
+      "record_updated_at": "2025-06-29"
+    },
+    "id": "arxiv:2404.09992:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-07.",
+    "page": "13682-13697",
+    "publisher": "Association for Computational Linguistics",
+    "title": "MMInA: Benchmarking Multihop Multimodal Internet Agents",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/01a83bc2f2732a58e6aa731e659e7101-Abstract-Conference.html",
+    "author": [
+      {
+        "literal": "Chris Rawles"
+      },
+      {
+        "literal": "Sarah Clinckemaillie"
+      },
+      {
+        "literal": "Yifan Chang"
+      },
+      {
+        "literal": "Jonathan Waltz"
+      },
+      {
+        "literal": "Gabrielle Lau"
+      },
+      {
+        "literal": "Marybeth Fair"
+      },
+      {
+        "literal": "Alice Li"
+      },
+      {
+        "literal": "William Bishop"
+      },
+      {
+        "literal": "Wei Li"
+      },
+      {
+        "literal": "Folawiyo Campbell-Ajala"
+      },
+      {
+        "literal": "Daniel Toyama"
+      },
+      {
+        "literal": "Robert Berry"
+      },
+      {
+        "literal": "Divya Tyamagundlu"
+      },
+      {
+        "literal": "Timothy Lillicrap"
+      },
+      {
+        "literal": "Oriana Riva"
+      }
+    ],
+    "citation-key": "arxiv_2405_14573_publication",
+    "container-title": "International Conference on Learning Representations",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a33b8b0a03c0dc7ac3f699c34193a526d20791bfedfdde2a2fb89604959e08c2",
+        "submitted_at": "2024-05-23T13:48:54Z",
+        "updated_at": "2025-04-06T20:37:50Z",
+        "version": 5,
+        "versioned_url": "https://arxiv.org/abs/2405.14573v5"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2405.14573",
+      "catalog_id": "arxiv:2405.14573",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-05-23",
+      "identifiers": {
+        "arxiv": "2405.14573"
+      },
+      "publication": {
+        "authors": [
+          "Chris Rawles",
+          "Sarah Clinckemaillie",
+          "Yifan Chang",
+          "Jonathan Waltz",
+          "Gabrielle Lau",
+          "Marybeth Fair",
+          "Alice Li",
+          "William Bishop",
+          "Wei Li",
+          "Folawiyo Campbell-Ajala",
+          "Daniel Toyama",
+          "Robert Berry",
+          "Divya Tyamagundlu",
+          "Timothy Lillicrap",
+          "Oriana Riva"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          5,
+          1
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.iclr.cc/paper_files/paper/2025/hash/01a83bc2f2732a58e6aa731e659e7101-Abstract-Conference.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "406-441",
+        "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/01a83bc2f2732a58e6aa731e659e7101-Paper-Conference.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents",
+        "type": "conference-paper",
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/01a83bc2f2732a58e6aa731e659e7101-Abstract-Conference.html",
+        "venue": "International Conference on Learning Representations",
+        "volume": "2025"
+      },
+      "record_updated_at": "2025-04-06"
+    },
+    "id": "arxiv:2405.14573:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          1
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-05-01.",
+    "page": "406-441",
+    "title": "AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents",
+    "type": "paper-conference",
+    "volume": "2025"
+  },
+  {
+    "DOI": "10.52202/079017-2925",
+    "URL": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/a79f3ef3b445fd4659f44648f7ea8ffd-Abstract-Datasets_and_Benchmarks_Track.html",
+    "author": [
+      {
+        "literal": "Wei Li"
+      },
+      {
+        "literal": "William Bishop"
+      },
+      {
+        "literal": "Alice Li"
+      },
+      {
+        "literal": "Chris Rawles"
+      },
+      {
+        "literal": "Folawiyo Campbell-Ajala"
+      },
+      {
+        "literal": "Divya Tyamagundlu"
+      },
+      {
+        "literal": "Oriana Riva"
+      }
+    ],
+    "citation-key": "arxiv_2406_03679_publication",
+    "container-title": "Advances in Neural Information Processing Systems",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6eb3209d8e2a431987fe19f01cd0818f9fb490e684d7369e7d3002dc388ff271",
+        "submitted_at": "2024-06-06T01:49:29Z",
+        "updated_at": "2024-11-13T16:42:22Z",
+        "version": 6,
+        "versioned_url": "https://arxiv.org/abs/2406.03679v6"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.03679",
+      "catalog_id": "arxiv:2406.03679",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-06-06",
+      "identifiers": {
+        "arxiv": "2406.03679"
+      },
+      "publication": {
+        "authors": [
+          "Wei Li",
+          "William Bishop",
+          "Alice Li",
+          "Chris Rawles",
+          "Folawiyo Campbell-Ajala",
+          "Divya Tyamagundlu",
+          "Oriana Riva"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          12,
+          16
+        ],
+        "doi": "10.52202/079017-2925",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.neurips.cc/paper_files/paper/2024/hash/a79f3ef3b445fd4659f44648f7ea8ffd-Abstract-Datasets_and_Benchmarks_Track.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "92130-92154",
+        "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/a79f3ef3b445fd4659f44648f7ea8ffd-Paper-Datasets_and_Benchmarks_Track.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "On the Effects of Data Scale on UI Control Agents",
+        "type": "conference-paper",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/a79f3ef3b445fd4659f44648f7ea8ffd-Abstract-Datasets_and_Benchmarks_Track.html",
+        "venue": "Advances in Neural Information Processing Systems",
+        "volume": "37"
+      },
+      "record_updated_at": "2024-11-13"
+    },
+    "id": "arxiv:2406.03679:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          16
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-12-16.",
+    "page": "92130-92154",
+    "title": "On the Effects of Data Scale on UI Control Agents",
+    "type": "paper-conference",
+    "volume": "37"
+  },
+  {
+    "DOI": "10.52202/079017-2214",
+    "URL": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/804e757b7d7043c26701c3a313032101-Abstract-Datasets_and_Benchmarks_Track.html",
+    "author": [
+      {
+        "literal": "Kevin Q. Lin"
+      },
+      {
+        "literal": "Linjie Li"
+      },
+      {
+        "literal": "Difei Gao"
+      },
+      {
+        "literal": "Qinchen Wu"
+      },
+      {
+        "literal": "Mingyi Yan"
+      },
+      {
+        "literal": "Zhengyuan Yang"
+      },
+      {
+        "literal": "Lijuan Wang"
+      },
+      {
+        "literal": "Mike Z. Shou"
+      }
+    ],
+    "citation-key": "arxiv_2406_10227_publication",
+    "container-title": "Advances in Neural Information Processing Systems",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "66b5fb1e839490df80e9750fdc049f7fe3d2d4686c4090d78ea01bc542fe55b0",
+        "submitted_at": "2024-06-14T17:59:08Z",
+        "updated_at": "2024-06-14T17:59:08Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2406.10227v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.10227",
+      "catalog_id": "arxiv:2406.10227",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-06-14",
+      "identifiers": {
+        "arxiv": "2406.10227"
+      },
+      "publication": {
+        "authors": [
+          "Kevin Q. Lin",
+          "Linjie Li",
+          "Difei Gao",
+          "Qinchen Wu",
+          "Mingyi Yan",
+          "Zhengyuan Yang",
+          "Lijuan Wang",
+          "Mike Z. Shou"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          12,
+          16
+        ],
+        "doi": "10.52202/079017-2214",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.neurips.cc/paper_files/paper/2024/hash/804e757b7d7043c26701c3a313032101-Abstract-Datasets_and_Benchmarks_Track.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "69329-69360",
+        "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/804e757b7d7043c26701c3a313032101-Paper-Datasets_and_Benchmarks_Track.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "VideoGUI: A Benchmark for GUI Automation from Instructional Videos",
+        "type": "conference-paper",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/804e757b7d7043c26701c3a313032101-Abstract-Datasets_and_Benchmarks_Track.html",
+        "venue": "Advances in Neural Information Processing Systems",
+        "volume": "37"
+      },
+      "record_updated_at": "2024-06-14"
+    },
+    "id": "arxiv:2406.10227:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          16
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-12-16.",
+    "page": "69329-69360",
+    "title": "VideoGUI: A Benchmark for GUI Automation from Instructional Videos",
+    "type": "paper-conference",
+    "volume": "37"
+  },
+  {
+    "DOI": "10.52202/079017-0397",
+    "URL": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/1704ddd0bb89f159dfe609b32c889995-Abstract-Conference.html",
+    "author": [
+      {
+        "literal": "Hao Bai"
+      },
+      {
+        "literal": "Yifei Zhou"
+      },
+      {
+        "literal": "Mert Cemri"
+      },
+      {
+        "literal": "Jiayi Pan"
+      },
+      {
+        "literal": "Alane Suhr"
+      },
+      {
+        "literal": "Sergey Levine"
+      },
+      {
+        "literal": "Aviral Kumar"
+      }
+    ],
+    "citation-key": "arxiv_2406_11896_publication",
+    "container-title": "Advances in Neural Information Processing Systems",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2c5d4e75d6ba88574f6f033bb2c1cf44cf04149e94e017cd8a1a227e7a1c8238",
+        "submitted_at": "2024-06-14T17:49:55Z",
+        "updated_at": "2024-06-14T17:49:55Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2406.11896v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.11896",
+      "catalog_id": "arxiv:2406.11896",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-06-14",
+      "identifiers": {
+        "arxiv": "2406.11896"
+      },
+      "publication": {
+        "authors": [
+          "Hao Bai",
+          "Yifei Zhou",
+          "Mert Cemri",
+          "Jiayi Pan",
+          "Alane Suhr",
+          "Sergey Levine",
+          "Aviral Kumar"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          12,
+          16
+        ],
+        "doi": "10.52202/079017-0397",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.neurips.cc/paper_files/paper/2024/hash/1704ddd0bb89f159dfe609b32c889995-Abstract-Conference.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "12461-12495",
+        "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/1704ddd0bb89f159dfe609b32c889995-Paper-Conference.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning",
+        "type": "conference-paper",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/1704ddd0bb89f159dfe609b32c889995-Abstract-Conference.html",
+        "venue": "Advances in Neural Information Processing Systems",
+        "volume": "37"
+      },
+      "record_updated_at": "2024-06-14"
+    },
+    "id": "arxiv:2406.11896:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          16
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-12-16.",
+    "page": "12461-12495",
+    "title": "DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning",
+    "type": "paper-conference",
+    "volume": "37"
+  },
+  {
+    "URL": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/460a1d8eac34125dad453b28d6d64446-Abstract-Conference.html",
+    "author": [
+      {
+        "literal": "Chen Wu"
+      },
+      {
+        "literal": "Rishi Shah"
+      },
+      {
+        "literal": "Jing Yu Koh"
+      },
+      {
+        "literal": "Russ Salakhutdinov"
+      },
+      {
+        "literal": "Daniel Fried"
+      },
+      {
+        "literal": "Aditi Raghunathan"
+      }
+    ],
+    "citation-key": "arxiv_2406_12814_publication",
+    "container-title": "International Conference on Learning Representations",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7cc1c1ac93f8e328d33accf7cdaa1d65487c4f7abec15234b9e596a501947550",
+        "submitted_at": "2024-06-18T17:32:48Z",
+        "updated_at": "2025-02-04T20:02:17Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2406.12814v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.12814",
+      "catalog_id": "arxiv:2406.12814",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-06-18",
+      "identifiers": {
+        "arxiv": "2406.12814"
+      },
+      "publication": {
+        "authors": [
+          "Chen Wu",
+          "Rishi Shah",
+          "Jing Yu Koh",
+          "Russ Salakhutdinov",
+          "Daniel Fried",
+          "Aditi Raghunathan"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          5,
+          1
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.iclr.cc/paper_files/paper/2025/hash/460a1d8eac34125dad453b28d6d64446-Abstract-Conference.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "28362-28383",
+        "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/460a1d8eac34125dad453b28d6d64446-Paper-Conference.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "Dissecting Adversarial Robustness of Multimodal LM Agents",
+        "type": "conference-paper",
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/460a1d8eac34125dad453b28d6d64446-Abstract-Conference.html",
+        "venue": "International Conference on Learning Representations",
+        "volume": "2025"
+      },
+      "record_updated_at": "2025-02-04"
+    },
+    "id": "arxiv:2406.12814:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          1
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-05-01.",
+    "page": "28362-28383",
+    "title": "Dissecting Adversarial Robustness of Multimodal LM Agents",
+    "type": "paper-conference",
+    "volume": "2025"
+  },
+  {
+    "DOI": "10.18653/v1/2024.findings-emnlp.68",
+    "URL": "https://aclanthology.org/2024.findings-emnlp.68/",
+    "author": [
+      {
+        "literal": "Meng Ziyang"
+      },
+      {
+        "literal": "Yu Dai"
+      },
+      {
+        "literal": "Zezheng Gong"
+      },
+      {
+        "literal": "Shaoxiong Guo"
+      },
+      {
+        "literal": "Minglong Tang"
+      },
+      {
+        "literal": "Tongquan Wei"
+      }
+    ],
+    "citation-key": "arxiv_2406_14056_publication",
+    "container-title": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ea674b3aec3aee51c6f7fd4e99ad2b88394e7df43a4f3a02654d805e9a60343a",
+        "submitted_at": "2024-06-20T07:24:43Z",
+        "updated_at": "2024-11-04T09:31:06Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2406.14056v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.14056",
+      "catalog_id": "arxiv:2406.14056",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-06-20",
+      "identifiers": {
+        "arxiv": "2406.14056"
+      },
+      "publication": {
+        "authors": [
+          "Meng Ziyang",
+          "Yu Dai",
+          "Zezheng Gong",
+          "Shaoxiong Guo",
+          "Minglong Tang",
+          "Tongquan Wei"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          11
+        ],
+        "doi": "10.18653/v1/2024.findings-emnlp.68",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2024.findings-emnlp.68/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "1261-1279",
+        "pdf_url": "https://aclanthology.org/2024.findings-emnlp.68.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "VGA: Vision GUI Assistant - Minimizing Hallucinations through Image-Centric Fine-Tuning",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2024.findings-emnlp.68/",
+        "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+        "volume": null
+      },
+      "record_updated_at": "2024-11-04"
+    },
+    "id": "arxiv:2406.14056:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-11.",
+    "page": "1261-1279",
+    "publisher": "Association for Computational Linguistics",
+    "title": "VGA: Vision GUI Assistant - Minimizing Hallucinations through Image-Centric Fine-Tuning",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2024.emnlp-main.533",
+    "URL": "https://aclanthology.org/2024.emnlp-main.533/",
+    "author": [
+      {
+        "literal": "Yue Fan"
+      },
+      {
+        "literal": "Lei Ding"
+      },
+      {
+        "literal": "Ching-Chen Kuo"
+      },
+      {
+        "literal": "Shan Jiang"
+      },
+      {
+        "literal": "Yang Zhao"
+      },
+      {
+        "literal": "Xinze Guan"
+      },
+      {
+        "literal": "Jie Yang"
+      },
+      {
+        "literal": "Yi Zhang"
+      },
+      {
+        "literal": "Xin Eric Wang"
+      }
+    ],
+    "citation-key": "arxiv_2406_19263_publication",
+    "container-title": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0c86d68b5c3486b099f64792d5d3290d79e25b7c82c6eb2402869b893bb22fea",
+        "submitted_at": "2024-06-27T15:34:16Z",
+        "updated_at": "2024-10-25T18:16:21Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2406.19263v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2406.19263",
+      "catalog_id": "arxiv:2406.19263",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-06-27",
+      "identifiers": {
+        "arxiv": "2406.19263"
+      },
+      "publication": {
+        "authors": [
+          "Yue Fan",
+          "Lei Ding",
+          "Ching-Chen Kuo",
+          "Shan Jiang",
+          "Yang Zhao",
+          "Xinze Guan",
+          "Jie Yang",
+          "Yi Zhang",
+          "Xin Eric Wang"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          11
+        ],
+        "doi": "10.18653/v1/2024.emnlp-main.533",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2024.emnlp-main.533/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "9503-9522",
+        "pdf_url": "https://aclanthology.org/2024.emnlp-main.533.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2024.emnlp-main.533/",
+        "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+        "volume": null
+      },
+      "record_updated_at": "2024-10-25"
+    },
+    "id": "arxiv:2406.19263:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-11.",
+    "page": "9503-9522",
+    "publisher": "Association for Computational Linguistics",
+    "title": "Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2025.findings-acl.1113",
+    "URL": "https://aclanthology.org/2025.findings-acl.1113/",
+    "author": [
+      {
+        "literal": "Tianqi Xu"
+      },
+      {
+        "literal": "Linyao Chen"
+      },
+      {
+        "literal": "Dai-Jie Wu"
+      },
+      {
+        "literal": "Yanjun Chen"
+      },
+      {
+        "literal": "Zecheng Zhang"
+      },
+      {
+        "literal": "Xiang Yao"
+      },
+      {
+        "literal": "Zhiqiang Xie (谢志强)"
+      },
+      {
+        "literal": "Yongchao Chen"
+      },
+      {
+        "literal": "Shilong Liu"
+      },
+      {
+        "literal": "Bochen Qian"
+      },
+      {
+        "literal": "Anjie Yang"
+      },
+      {
+        "literal": "Zhaoxuan Jin"
+      },
+      {
+        "literal": "Jianbo Deng"
+      },
+      {
+        "literal": "Philip Torr"
+      },
+      {
+        "literal": "Bernard Ghanem"
+      },
+      {
+        "literal": "Guohao Li"
+      }
+    ],
+    "citation-key": "arxiv_2407_01511_publication",
+    "container-title": "Findings of the Association for Computational Linguistics: ACL 2025",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "12e5464ea0fc62bd566f19d301b887826b7ff317cfc27c86fa0cda8d3de271d9",
+        "submitted_at": "2024-07-01T17:55:04Z",
+        "updated_at": "2025-07-20T13:42:07Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2407.01511v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2407.01511",
+      "catalog_id": "arxiv:2407.01511",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-07-01",
+      "identifiers": {
+        "arxiv": "2407.01511"
+      },
+      "publication": {
+        "authors": [
+          "Tianqi Xu",
+          "Linyao Chen",
+          "Dai-Jie Wu",
+          "Yanjun Chen",
+          "Zecheng Zhang",
+          "Xiang Yao",
+          "Zhiqiang Xie (谢志强)",
+          "Yongchao Chen",
+          "Shilong Liu",
+          "Bochen Qian",
+          "Anjie Yang",
+          "Zhaoxuan Jin",
+          "Jianbo Deng",
+          "Philip Torr",
+          "Bernard Ghanem",
+          "Guohao Li"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          7
+        ],
+        "doi": "10.18653/v1/2025.findings-acl.1113",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.findings-acl.1113/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "21607-21647",
+        "pdf_url": "https://aclanthology.org/2025.findings-acl.1113.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.findings-acl.1113/",
+        "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+        "volume": null
+      },
+      "record_updated_at": "2025-07-20"
+    },
+    "id": "arxiv:2407.01511:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-07.",
+    "page": "21607-21647",
+    "publisher": "Association for Computational Linguistics",
+    "title": "CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.52202/079017-0195",
+    "URL": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/0b82662b6c32e887bb252a74d8cb2d5e-Abstract-Datasets_and_Benchmarks_Track.html",
+    "author": [
+      {
+        "literal": "Léo Boisvert"
+      },
+      {
+        "literal": "Megh Thakkar"
+      },
+      {
+        "literal": "Maxime Gasse"
+      },
+      {
+        "literal": "Massimo Caccia"
+      },
+      {
+        "literal": "Thibault L. De Chezelles"
+      },
+      {
+        "literal": "Quentin Cappart"
+      },
+      {
+        "literal": "Nicolas Chapados"
+      },
+      {
+        "literal": "Alexandre Lacoste"
+      },
+      {
+        "literal": "Alexandre Drouin"
+      }
+    ],
+    "citation-key": "arxiv_2407_05291_publication",
+    "container-title": "Advances in Neural Information Processing Systems",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2b56a6208e4fa3523cae3fbae673affcd5fe3d6a9c19df482d27fe71d43ffef5",
+        "submitted_at": "2024-07-07T07:15:49Z",
+        "updated_at": "2025-02-05T21:50:07Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2407.05291v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2407.05291",
+      "catalog_id": "arxiv:2407.05291",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-07-07",
+      "identifiers": {
+        "arxiv": "2407.05291"
+      },
+      "publication": {
+        "authors": [
+          "Léo Boisvert",
+          "Megh Thakkar",
+          "Maxime Gasse",
+          "Massimo Caccia",
+          "Thibault L. De Chezelles",
+          "Quentin Cappart",
+          "Nicolas Chapados",
+          "Alexandre Lacoste",
+          "Alexandre Drouin"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          12,
+          16
+        ],
+        "doi": "10.52202/079017-0195",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.neurips.cc/paper_files/paper/2024/hash/0b82662b6c32e887bb252a74d8cb2d5e-Abstract-Datasets_and_Benchmarks_Track.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "5996-6051",
+        "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/0b82662b6c32e887bb252a74d8cb2d5e-Paper-Datasets_and_Benchmarks_Track.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks",
+        "type": "conference-paper",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/0b82662b6c32e887bb252a74d8cb2d5e-Abstract-Datasets_and_Benchmarks_Track.html",
+        "venue": "Advances in Neural Information Processing Systems",
+        "volume": "37"
+      },
+      "record_updated_at": "2025-02-05"
+    },
+    "id": "arxiv:2407.05291:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          16
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-12-16.",
+    "page": "5996-6051",
+    "title": "WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks",
+    "type": "paper-conference",
+    "volume": "37"
+  },
+  {
+    "DOI": "10.52202/079017-3421",
+    "URL": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/c2f71567cd53464161cab3336e8fc865-Abstract-Datasets_and_Benchmarks_Track.html",
+    "author": [
+      {
+        "literal": "Ruisheng Cao"
+      },
+      {
+        "literal": "Fangyu Lei"
+      },
+      {
+        "literal": "Haoyuan Wu"
+      },
+      {
+        "literal": "Jixuan Chen"
+      },
+      {
+        "literal": "Yeqiao Fu"
+      },
+      {
+        "literal": "Hongcheng Gao"
+      },
+      {
+        "literal": "Xinzhuang Xiong"
+      },
+      {
+        "literal": "Hanchong Zhang"
+      },
+      {
+        "literal": "Yuchen Mao"
+      },
+      {
+        "literal": "Wenjing Hu"
+      },
+      {
+        "literal": "Tianbao Xie"
+      },
+      {
+        "literal": "Hongshen Xu"
+      },
+      {
+        "literal": "Danyang Zhang"
+      },
+      {
+        "literal": "Sida Wang"
+      },
+      {
+        "literal": "Ruoxi Sun"
+      },
+      {
+        "literal": "Pengcheng Yin"
+      },
+      {
+        "literal": "Caiming Xiong"
+      },
+      {
+        "literal": "Ansong Ni"
+      },
+      {
+        "literal": "Qian Liu"
+      },
+      {
+        "literal": "Victor Zhong"
+      },
+      {
+        "literal": "Lu Chen"
+      },
+      {
+        "literal": "Kai Yu"
+      },
+      {
+        "literal": "Tao Yu"
+      }
+    ],
+    "citation-key": "arxiv_2407_10956_publication",
+    "container-title": "Advances in Neural Information Processing Systems",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7922a723142ac62018064fe5fc9357fb77c08e316ac4d6d6ba728f1b337df690",
+        "submitted_at": "2024-07-15T17:54:37Z",
+        "updated_at": "2024-07-15T17:54:37Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2407.10956v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2407.10956",
+      "catalog_id": "arxiv:2407.10956",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-07-15",
+      "identifiers": {
+        "arxiv": "2407.10956"
+      },
+      "publication": {
+        "authors": [
+          "Ruisheng Cao",
+          "Fangyu Lei",
+          "Haoyuan Wu",
+          "Jixuan Chen",
+          "Yeqiao Fu",
+          "Hongcheng Gao",
+          "Xinzhuang Xiong",
+          "Hanchong Zhang",
+          "Yuchen Mao",
+          "Wenjing Hu",
+          "Tianbao Xie",
+          "Hongshen Xu",
+          "Danyang Zhang",
+          "Sida Wang",
+          "Ruoxi Sun",
+          "Pengcheng Yin",
+          "Caiming Xiong",
+          "Ansong Ni",
+          "Qian Liu",
+          "Victor Zhong",
+          "Lu Chen",
+          "Kai Yu",
+          "Tao Yu"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          12,
+          16
+        ],
+        "doi": "10.52202/079017-3421",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.neurips.cc/paper_files/paper/2024/hash/c2f71567cd53464161cab3336e8fc865-Abstract-Datasets_and_Benchmarks_Track.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "107703-107744",
+        "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/c2f71567cd53464161cab3336e8fc865-Paper-Datasets_and_Benchmarks_Track.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?",
+        "type": "conference-paper",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/c2f71567cd53464161cab3336e8fc865-Abstract-Datasets_and_Benchmarks_Track.html",
+        "venue": "Advances in Neural Information Processing Systems",
+        "volume": "37"
+      },
+      "record_updated_at": "2024-07-15"
+    },
+    "id": "arxiv:2407.10956:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          16
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-12-16.",
+    "page": "107703-107744",
+    "title": "Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?",
+    "type": "paper-conference",
+    "volume": "37"
+  },
+  {
+    "DOI": "10.18653/v1/2024.emnlp-main.505",
+    "URL": "https://aclanthology.org/2024.emnlp-main.505/",
+    "author": [
+      {
+        "literal": "Ori Yoran"
+      },
+      {
+        "literal": "Samuel Joseph Amouyal"
+      },
+      {
+        "literal": "Chaitanya Malaviya"
+      },
+      {
+        "literal": "Ben Bogin"
+      },
+      {
+        "literal": "Ofir Press"
+      },
+      {
+        "literal": "Jonathan Berant"
+      }
+    ],
+    "citation-key": "arxiv_2407_15711_publication",
+    "container-title": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2f028fb7f4d64fd4c29886d49b5d6f0fabddba309b669e019edf13586deb9c90",
+        "submitted_at": "2024-07-22T15:18:45Z",
+        "updated_at": "2024-10-21T15:45:31Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2407.15711v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2407.15711",
+      "catalog_id": "arxiv:2407.15711",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-07-22",
+      "identifiers": {
+        "arxiv": "2407.15711"
+      },
+      "publication": {
+        "authors": [
+          "Ori Yoran",
+          "Samuel Joseph Amouyal",
+          "Chaitanya Malaviya",
+          "Ben Bogin",
+          "Ofir Press",
+          "Jonathan Berant"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          11
+        ],
+        "doi": "10.18653/v1/2024.emnlp-main.505",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2024.emnlp-main.505/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "8938-8968",
+        "pdf_url": "https://aclanthology.org/2024.emnlp-main.505.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2024.emnlp-main.505/",
+        "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+        "volume": null
+      },
+      "record_updated_at": "2024-10-21"
+    },
+    "id": "arxiv:2407.15711:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-11.",
+    "page": "8938-8968",
+    "publisher": "Association for Computational Linguistics",
+    "title": "AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2025.findings-acl.110",
+    "URL": "https://aclanthology.org/2025.findings-acl.110/",
+    "author": [
+      {
+        "literal": "Yuxiang Chai"
+      },
+      {
+        "literal": "Siyuan Huang"
+      },
+      {
+        "literal": "Yazhe Niu"
+      },
+      {
+        "literal": "Han Xiao"
+      },
+      {
+        "literal": "Liang Liu"
+      },
+      {
+        "literal": "Guozhi Wang"
+      },
+      {
+        "literal": "Dingyu Zhang"
+      },
+      {
+        "literal": "Shuai Ren"
+      },
+      {
+        "literal": "Hongsheng Li"
+      }
+    ],
+    "citation-key": "arxiv_2407_17490_publication",
+    "container-title": "Findings of the Association for Computational Linguistics: ACL 2025",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9c80665716bf665fe4688a27a4c7dcf26fcfe93cb7f79a6f28784a795e0bd3cb",
+        "submitted_at": "2024-07-03T17:59:58Z",
+        "updated_at": "2025-05-29T02:43:50Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2407.17490v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2407.17490",
+      "catalog_id": "arxiv:2407.17490",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-07-03",
+      "identifiers": {
+        "arxiv": "2407.17490"
+      },
+      "publication": {
+        "authors": [
+          "Yuxiang Chai",
+          "Siyuan Huang",
+          "Yazhe Niu",
+          "Han Xiao",
+          "Liang Liu",
+          "Guozhi Wang",
+          "Dingyu Zhang",
+          "Shuai Ren",
+          "Hongsheng Li"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          7
+        ],
+        "doi": "10.18653/v1/2025.findings-acl.110",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.findings-acl.110/",
+          "https://aclanthology.org/2025.findings-acl.110.pdf"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher PDF title and complete first-page author list were visually checked.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. The publisher PDF, page 1, lists nine authors including Guozhi Wang; the retained arXiv snapshot lists eight. Each edition retains its own authors.",
+        "pages": "2138-2156",
+        "pdf_url": "https://aclanthology.org/2025.findings-acl.110.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.findings-acl.110/",
+        "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+        "volume": null
+      },
+      "record_updated_at": "2025-05-29"
+    },
+    "id": "arxiv:2407.17490:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-07.",
+    "page": "2138-2156",
+    "publisher": "Association for Computational Linguistics",
+    "title": "AMEX: Android Multi-annotation Expo Dataset for Mobile GUI Agents",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2024.findings-emnlp.599",
+    "URL": "https://aclanthology.org/2024.findings-emnlp.599/",
+    "author": [
+      {
+        "literal": "Qinzhuo Wu"
+      },
+      {
+        "literal": "Weikai Xu"
+      },
+      {
+        "literal": "Wei Liu"
+      },
+      {
+        "literal": "Tao Tan"
+      },
+      {
+        "literal": "Jianfeng Liu"
+      },
+      {
+        "literal": "Ang Li"
+      },
+      {
+        "literal": "Jian Luan"
+      },
+      {
+        "literal": "Bin Wang"
+      },
+      {
+        "literal": "Shuo Shang"
+      }
+    ],
+    "citation-key": "arxiv_2409_14818_publication",
+    "container-title": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cc22337ef29946dffcf7149df1008fd6cf02350c68d21ec0386e6485f5a14ebf",
+        "submitted_at": "2024-09-23T08:47:54Z",
+        "updated_at": "2024-10-03T05:23:22Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2409.14818v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2409.14818",
+      "catalog_id": "arxiv:2409.14818",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-09-23",
+      "identifiers": {
+        "arxiv": "2409.14818"
+      },
+      "publication": {
+        "authors": [
+          "Qinzhuo Wu",
+          "Weikai Xu",
+          "Wei Liu",
+          "Tao Tan",
+          "Jianfeng Liu",
+          "Ang Li",
+          "Jian Luan",
+          "Bin Wang",
+          "Shuo Shang"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          11
+        ],
+        "doi": "10.18653/v1/2024.findings-emnlp.599",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2024.findings-emnlp.599/",
+          "https://aclanthology.org/2024.findings-emnlp.599.pdf"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256. The publisher PDF title and complete first-page author list were visually checked.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. Authors follow the publisher PDF, page 1. The landing page and its BibTeX list the fifth author as Liujian Liujianfeng; the PDF names Jianfeng Liu.",
+        "pages": "10231-10251",
+        "pdf_url": "https://aclanthology.org/2024.findings-emnlp.599.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2024.findings-emnlp.599/",
+        "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+        "volume": null
+      },
+      "record_updated_at": "2024-10-03"
+    },
+    "id": "arxiv:2409.14818:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-11.",
+    "page": "10231-10251",
+    "publisher": "Association for Computational Linguistics",
+    "title": "MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.52202/079017-2908",
+    "URL": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/a6a6891cf1dfc64d664f086cf5976e93-Abstract-Conference.html",
+    "author": [
+      {
+        "literal": "Tianyue Ou"
+      },
+      {
+        "literal": "Frank F. Xu"
+      },
+      {
+        "literal": "Aman Madaan"
+      },
+      {
+        "literal": "Jiarui Liu"
+      },
+      {
+        "literal": "Robert Lo"
+      },
+      {
+        "literal": "Abishek Sridhar"
+      },
+      {
+        "literal": "Sudipta Sengupta"
+      },
+      {
+        "literal": "Dan Roth"
+      },
+      {
+        "literal": "Graham Neubig"
+      },
+      {
+        "literal": "Shuyan Zhou"
+      }
+    ],
+    "citation-key": "arxiv_2409_15637_publication",
+    "container-title": "Advances in Neural Information Processing Systems",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6c19b869b10f0b4c985b88b032f78e0e72f83e7ca8d9f346417054cd2a9002e3",
+        "submitted_at": "2024-09-24T00:51:45Z",
+        "updated_at": "2024-11-27T16:34:52Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2409.15637v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2409.15637",
+      "catalog_id": "arxiv:2409.15637",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-09-24",
+      "identifiers": {
+        "arxiv": "2409.15637"
+      },
+      "publication": {
+        "authors": [
+          "Tianyue Ou",
+          "Frank F. Xu",
+          "Aman Madaan",
+          "Jiarui Liu",
+          "Robert Lo",
+          "Abishek Sridhar",
+          "Sudipta Sengupta",
+          "Dan Roth",
+          "Graham Neubig",
+          "Shuyan Zhou"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024-12-16. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          12,
+          16
+        ],
+        "doi": "10.52202/079017-2908",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.neurips.cc/paper_files/paper/2024/hash/a6a6891cf1dfc64d664f086cf5976e93-Abstract-Conference.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "91618-91652",
+        "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/a6a6891cf1dfc64d664f086cf5976e93-Paper-Conference.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale",
+        "type": "conference-paper",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/a6a6891cf1dfc64d664f086cf5976e93-Abstract-Conference.html",
+        "venue": "Advances in Neural Information Processing Systems",
+        "volume": "37"
+      },
+      "record_updated_at": "2024-11-27"
+    },
+    "id": "arxiv:2409.15637:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          16
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-12-16.",
+    "page": "91618-91652",
+    "title": "Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale",
+    "type": "paper-conference",
+    "volume": "37"
+  },
+  {
+    "DOI": "10.18653/v1/2025.acl-long.381",
+    "URL": "https://aclanthology.org/2025.acl-long.381/",
+    "author": [
+      {
+        "literal": "Junting Lu"
+      },
+      {
+        "literal": "Zhiyang Zhang"
+      },
+      {
+        "literal": "Fangkai Yang"
+      },
+      {
+        "literal": "Jue Zhang"
+      },
+      {
+        "literal": "Lu Wang"
+      },
+      {
+        "literal": "Chao Du"
+      },
+      {
+        "literal": "Qingwei Lin"
+      },
+      {
+        "literal": "Saravan Rajmohan"
+      },
+      {
+        "literal": "Dongmei Zhang"
+      },
+      {
+        "literal": "Qi Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2409_17140_publication",
+    "container-title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "618f41c2253a532780766b38396f241a48b587c580d6b4d7065d1519e6149751",
+        "submitted_at": "2024-09-25T17:58:08Z",
+        "updated_at": "2025-05-19T16:12:40Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2409.17140v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2409.17140",
+      "catalog_id": "arxiv:2409.17140",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-09-25",
+      "identifiers": {
+        "arxiv": "2409.17140"
+      },
+      "publication": {
+        "authors": [
+          "Junting Lu",
+          "Zhiyang Zhang",
+          "Fangkai Yang",
+          "Jue Zhang",
+          "Lu Wang",
+          "Chao Du",
+          "Qingwei Lin",
+          "Saravan Rajmohan",
+          "Dongmei Zhang",
+          "Qi Zhang"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          7
+        ],
+        "doi": "10.18653/v1/2025.acl-long.381",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.acl-long.381/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "7711-7743",
+        "pdf_url": "https://aclanthology.org/2025.acl-long.381.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "AXIS: Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.acl-long.381/",
+        "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "volume": null
+      },
+      "record_updated_at": "2025-05-19"
+    },
+    "id": "arxiv:2409.17140:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-07.",
+    "page": "7711-7743",
+    "publisher": "Association for Computational Linguistics",
+    "title": "AXIS: Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2024.findings-emnlp.70",
+    "URL": "https://aclanthology.org/2024.findings-emnlp.70/",
+    "author": [
+      {
+        "literal": "Shaoqing Zhang"
+      },
+      {
+        "literal": "Zhuosheng Zhang"
+      },
+      {
+        "literal": "Kehai Chen (陈科海)"
+      },
+      {
+        "literal": "Xinbei Ma"
+      },
+      {
+        "literal": "Muyun Yang (杨沐昀)"
+      },
+      {
+        "literal": "Tiejun Zhao (赵铁军)"
+      },
+      {
+        "literal": "Min Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2410_00467_publication",
+    "container-title": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f370d105dc1fc1a377fd1b1fd5d1fc3d0f035694cc7c364e6326c587607c98c6",
+        "submitted_at": "2024-10-01T07:49:24Z",
+        "updated_at": "2024-12-19T14:29:31Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2410.00467v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.00467",
+      "catalog_id": "arxiv:2410.00467",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-10-01",
+      "identifiers": {
+        "arxiv": "2410.00467"
+      },
+      "publication": {
+        "authors": [
+          "Shaoqing Zhang",
+          "Zhuosheng Zhang",
+          "Kehai Chen (陈科海)",
+          "Xinbei Ma",
+          "Muyun Yang (杨沐昀)",
+          "Tiejun Zhao (赵铁军)",
+          "Min Zhang"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          11
+        ],
+        "doi": "10.18653/v1/2024.findings-emnlp.70",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2024.findings-emnlp.70/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "1304-1320",
+        "pdf_url": "https://aclanthology.org/2024.findings-emnlp.70.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "Dynamic Planning for LLM-based Graphical User Interface Automation",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2024.findings-emnlp.70/",
+        "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+        "volume": null
+      },
+      "record_updated_at": "2024-12-19"
+    },
+    "id": "arxiv:2410.00467:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11
+        ]
+      ]
+    },
+    "note": "Publication date: 2024-11.",
+    "page": "1304-1320",
+    "publisher": "Association for Computational Linguistics",
+    "title": "Dynamic Planning for LLM-based Graphical User Interface Automation",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/4ca0e369689dadb25a5345ba9755ad6f-Abstract-Conference.html",
+    "author": [
+      {
+        "literal": "Boyu Gou"
+      },
+      {
+        "literal": "Demi Ruohan Wang"
+      },
+      {
+        "literal": "Boyuan Zheng"
+      },
+      {
+        "literal": "Yanan Xie"
+      },
+      {
+        "literal": "Cheng Chang"
+      },
+      {
+        "literal": "Yiheng Shu"
+      },
+      {
+        "literal": "Huan Sun"
+      },
+      {
+        "literal": "Yu Su"
+      }
+    ],
+    "citation-key": "arxiv_2410_05243_publication",
+    "container-title": "International Conference on Learning Representations",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "08ece826d135b9ab9dfed2a3baf9deeab99489120da749cd67517b636649c5a6",
+        "submitted_at": "2024-10-07T17:47:50Z",
+        "updated_at": "2025-06-17T15:06:02Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2410.05243v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.05243",
+      "catalog_id": "arxiv:2410.05243",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-10-07",
+      "identifiers": {
+        "arxiv": "2410.05243"
+      },
+      "publication": {
+        "authors": [
+          "Boyu Gou",
+          "Demi Ruohan Wang",
+          "Boyuan Zheng",
+          "Yanan Xie",
+          "Cheng Chang",
+          "Yiheng Shu",
+          "Huan Sun",
+          "Yu Su"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          5,
+          1
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.iclr.cc/paper_files/paper/2025/hash/4ca0e369689dadb25a5345ba9755ad6f-Abstract-Conference.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "30851-30883",
+        "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/4ca0e369689dadb25a5345ba9755ad6f-Paper-Conference.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents",
+        "type": "conference-paper",
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/4ca0e369689dadb25a5345ba9755ad6f-Abstract-Conference.html",
+        "venue": "International Conference on Learning Representations",
+        "volume": "2025"
+      },
+      "record_updated_at": "2025-06-17"
+    },
+    "id": "arxiv:2410.05243:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          1
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-05-01.",
+    "page": "30851-30883",
+    "title": "Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents",
+    "type": "paper-conference",
+    "volume": "2025"
+  },
+  {
+    "URL": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/394c7c30ea87b5c3521b4d9e9d419071-Abstract-Conference.html",
+    "author": [
+      {
+        "literal": "Saaket Agashe"
+      },
+      {
+        "literal": "Jiuzhou Han"
+      },
+      {
+        "literal": "Shuyu Gan"
+      },
+      {
+        "literal": "Jiachen Yang"
+      },
+      {
+        "literal": "Ang Li"
+      },
+      {
+        "literal": "Xin Wang"
+      }
+    ],
+    "citation-key": "arxiv_2410_08164_publication",
+    "container-title": "International Conference on Learning Representations",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "284888d16b049767f76448f23f5d35fda25b109fd67f450105950173ae81c97b",
+        "submitted_at": "2024-10-10T17:43:51Z",
+        "updated_at": "2024-10-10T17:43:51Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2410.08164v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.08164",
+      "catalog_id": "arxiv:2410.08164",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-10-10",
+      "identifiers": {
+        "arxiv": "2410.08164"
+      },
+      "publication": {
+        "authors": [
+          "Saaket Agashe",
+          "Jiuzhou Han",
+          "Shuyu Gan",
+          "Jiachen Yang",
+          "Ang Li",
+          "Xin Wang"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          5,
+          1
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.iclr.cc/paper_files/paper/2025/hash/394c7c30ea87b5c3521b4d9e9d419071-Abstract-Conference.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "22924-22946",
+        "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/394c7c30ea87b5c3521b4d9e9d419071-Paper-Conference.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "Agent S: An Open Agentic Framework that Uses Computers Like a Human",
+        "type": "conference-paper",
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/394c7c30ea87b5c3521b4d9e9d419071-Abstract-Conference.html",
+        "venue": "International Conference on Learning Representations",
+        "volume": "2025"
+      },
+      "record_updated_at": "2024-10-10"
+    },
+    "id": "arxiv:2410.08164:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          1
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-05-01.",
+    "page": "22924-22946",
+    "title": "Agent S: An Open Agentic Framework that Uses Computers Like a Human",
+    "type": "paper-conference",
+    "volume": "2025"
+  },
+  {
+    "DOI": "10.18653/v1/2025.sigdial-1.38",
+    "URL": "https://aclanthology.org/2025.sigdial-1.38/",
+    "author": [
+      {
+        "literal": "Jakub Hoscilowicz"
+      },
+      {
+        "literal": "Bartosz Maj"
+      },
+      {
+        "literal": "Bartosz Kozakiewicz"
+      },
+      {
+        "literal": "Oleksii Tymoshchuk"
+      },
+      {
+        "literal": "Artur Janicki"
+      }
+    ],
+    "citation-key": "arxiv_2410_11872_publication",
+    "container-title": "Proceedings of the 26th Annual Meeting of the Special Interest Group on Discourse and Dialogue",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e804944da205076ac6cf88c7966c471697e526f657bda339e09df240257f7217",
+        "submitted_at": "2024-10-09T14:49:02Z",
+        "updated_at": "2024-10-17T07:12:31Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2410.11872v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.11872",
+      "catalog_id": "arxiv:2410.11872",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-10-09",
+      "identifiers": {
+        "arxiv": "2410.11872"
+      },
+      "publication": {
+        "authors": [
+          "Jakub Hoscilowicz",
+          "Bartosz Maj",
+          "Bartosz Kozakiewicz",
+          "Oleksii Tymoshchuk",
+          "Artur Janicki"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/8. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          8
+        ],
+        "doi": "10.18653/v1/2025.sigdial-1.38",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.sigdial-1.38/",
+          "https://aclanthology.org/2025.sigdial-1.38.pdf"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher PDF title and complete first-page author list were visually checked.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. Authors follow the five-author list on page 1 of the publisher PDF. Landing-page citation metadata lists only Jakub Hoscilowicz and Artur Janicki.",
+        "pages": "471-476",
+        "pdf_url": "https://aclanthology.org/2025.sigdial-1.38.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "ClickAgent: Enhancing UI Location Capabilities of Autonomous Agents",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.sigdial-1.38/",
+        "venue": "Proceedings of the 26th Annual Meeting of the Special Interest Group on Discourse and Dialogue",
+        "volume": null
+      },
+      "record_updated_at": "2024-10-17"
+    },
+    "id": "arxiv:2410.11872:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-08.",
+    "page": "471-476",
+    "publisher": "Association for Computational Linguistics",
+    "title": "ClickAgent: Enhancing UI Location Capabilities of Autonomous Agents",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2025.naacl-demo.43",
+    "URL": "https://aclanthology.org/2025.naacl-demo.43/",
+    "author": [
+      {
+        "literal": "Zichen Zhu"
+      },
+      {
+        "literal": "Hao Tang"
+      },
+      {
+        "literal": "Yansi Li"
+      },
+      {
+        "literal": "Dingye Liu"
+      },
+      {
+        "literal": "Hongshen Xu"
+      },
+      {
+        "literal": "Kunyao Lan"
+      },
+      {
+        "literal": "Danyang Zhang"
+      },
+      {
+        "literal": "Yixuan Jiang"
+      },
+      {
+        "literal": "Hao Zhou"
+      },
+      {
+        "literal": "Chenrun Wang"
+      },
+      {
+        "literal": "Situo Zhang"
+      },
+      {
+        "literal": "Liangtai Sun"
+      },
+      {
+        "literal": "Yixiao Wang"
+      },
+      {
+        "literal": "Yuheng Sun"
+      },
+      {
+        "literal": "Lu Chen"
+      },
+      {
+        "literal": "Kai Yu"
+      }
+    ],
+    "citation-key": "arxiv_2410_13757_publication",
+    "container-title": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (System Demonstrations)",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c0ef02f9c31bf2f095330cf018e7525aecc7644eb1552fb6b511ffced3889122",
+        "submitted_at": "2024-10-17T16:53:50Z",
+        "updated_at": "2025-05-13T06:25:09Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2410.13757v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.13757",
+      "catalog_id": "arxiv:2410.13757",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-10-17",
+      "identifiers": {
+        "arxiv": "2410.13757"
+      },
+      "publication": {
+        "authors": [
+          "Zichen Zhu",
+          "Hao Tang",
+          "Yansi Li",
+          "Dingye Liu",
+          "Hongshen Xu",
+          "Kunyao Lan",
+          "Danyang Zhang",
+          "Yixuan Jiang",
+          "Hao Zhou",
+          "Chenrun Wang",
+          "Situo Zhang",
+          "Liangtai Sun",
+          "Yixiao Wang",
+          "Yuheng Sun",
+          "Lu Chen",
+          "Kai Yu"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          4
+        ],
+        "doi": "10.18653/v1/2025.naacl-demo.43",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.naacl-demo.43/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "535-549",
+        "pdf_url": "https://aclanthology.org/2025.naacl-demo.43.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "MobA: Multifaceted Memory-Enhanced Adaptive Planning for Efficient Mobile Task Automation",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.naacl-demo.43/",
+        "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (System Demonstrations)",
+        "volume": null
+      },
+      "record_updated_at": "2025-05-13"
+    },
+    "id": "arxiv:2410.13757:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-04.",
+    "page": "535-549",
+    "publisher": "Association for Computational Linguistics",
+    "title": "MobA: Multifaceted Memory-Enhanced Adaptive Planning for Efficient Mobile Task Automation",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/2da53cd1abdae59150e35f4693834f32-Abstract-Conference.html",
+    "author": [
+      {
+        "literal": "Junpeng Liu"
+      },
+      {
+        "literal": "Tianyue Ou"
+      },
+      {
+        "literal": "Yifan Song"
+      },
+      {
+        "literal": "Yuxiao Qu"
+      },
+      {
+        "literal": "Wai Lam"
+      },
+      {
+        "literal": "Chenyan Xiong"
+      },
+      {
+        "literal": "Wenhu Chen"
+      },
+      {
+        "literal": "Graham Neubig"
+      },
+      {
+        "literal": "Xiang Yue"
+      }
+    ],
+    "citation-key": "arxiv_2410_13824_publication",
+    "container-title": "International Conference on Learning Representations",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2a3bcd26dff4f1d21a8a2772929c0c97cd1cc180a7606b0744e630dabae94609",
+        "submitted_at": "2024-10-17T17:48:54Z",
+        "updated_at": "2024-11-06T08:29:22Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2410.13824v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.13824",
+      "catalog_id": "arxiv:2410.13824",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-10-17",
+      "identifiers": {
+        "arxiv": "2410.13824"
+      },
+      "publication": {
+        "authors": [
+          "Junpeng Liu",
+          "Tianyue Ou",
+          "Yifan Song",
+          "Yuxiao Qu",
+          "Wai Lam",
+          "Chenyan Xiong",
+          "Wenhu Chen",
+          "Graham Neubig",
+          "Xiang Yue"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          5,
+          1
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.iclr.cc/paper_files/paper/2025/hash/2da53cd1abdae59150e35f4693834f32-Abstract-Conference.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "17971-18005",
+        "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/2da53cd1abdae59150e35f4693834f32-Paper-Conference.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "Harnessing Webpage UIs for Text-Rich Visual Understanding",
+        "type": "conference-paper",
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/2da53cd1abdae59150e35f4693834f32-Abstract-Conference.html",
+        "venue": "International Conference on Learning Representations",
+        "volume": "2025"
+      },
+      "record_updated_at": "2024-11-06"
+    },
+    "id": "arxiv:2410.13824:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          1
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-05-01.",
+    "page": "17971-18005",
+    "title": "Harnessing Webpage UIs for Text-Rich Visual Understanding",
+    "type": "paper-conference",
+    "volume": "2025"
+  },
+  {
+    "URL": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/b9e472cd579c83e2f6aa3459f46aac28-Abstract-Conference.html",
+    "author": [
+      {
+        "literal": "Taiyi Wang"
+      },
+      {
+        "literal": "Zhihao Wu"
+      },
+      {
+        "literal": "Jianheng Liu"
+      },
+      {
+        "literal": "Jianye HAO"
+      },
+      {
+        "literal": "Jun Wang"
+      },
+      {
+        "literal": "Kun Shao"
+      }
+    ],
+    "citation-key": "arxiv_2410_14803_publication",
+    "container-title": "International Conference on Learning Representations",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a9e3d8350cd0be5d4f3e82b3b35a15fe89403cd602e8bb20b7cd783c7a7067a0",
+        "submitted_at": "2024-10-18T18:19:56Z",
+        "updated_at": "2025-02-21T16:23:59Z",
+        "version": 5,
+        "versioned_url": "https://arxiv.org/abs/2410.14803v5"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.14803",
+      "catalog_id": "arxiv:2410.14803",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-10-18",
+      "identifiers": {
+        "arxiv": "2410.14803"
+      },
+      "publication": {
+        "authors": [
+          "Taiyi Wang",
+          "Zhihao Wu",
+          "Jianheng Liu",
+          "Jianye HAO",
+          "Jun Wang",
+          "Kun Shao"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          5,
+          1
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.iclr.cc/paper_files/paper/2025/hash/b9e472cd579c83e2f6aa3459f46aac28-Abstract-Conference.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher title uses singular Agent; the preprint uses Agents. The authors and DistRL contribution agree.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "74757-74782",
+        "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/b9e472cd579c83e2f6aa3459f46aac28-Paper-Conference.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agent",
+        "type": "conference-paper",
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/b9e472cd579c83e2f6aa3459f46aac28-Abstract-Conference.html",
+        "venue": "International Conference on Learning Representations",
+        "volume": "2025"
+      },
+      "record_updated_at": "2025-02-21"
+    },
+    "id": "arxiv:2410.14803:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          1
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-05-01.",
+    "page": "74757-74782",
+    "title": "DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agent",
+    "type": "paper-conference",
+    "volume": "2025"
+  },
+  {
+    "URL": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/9a75f4dd9679aa4ff80a4e6f0a1dc700-Abstract-Conference.html",
+    "author": [
+      {
+        "literal": "Jingxuan Chen"
+      },
+      {
+        "literal": "Derek Yuen"
+      },
+      {
+        "literal": "Bin Xie"
+      },
+      {
+        "literal": "Yuhao Yang"
+      },
+      {
+        "literal": "Gongwei Chen"
+      },
+      {
+        "literal": "Zhihao Wu"
+      },
+      {
+        "literal": "Li Yixing"
+      },
+      {
+        "literal": "Xurui Zhou"
+      },
+      {
+        "literal": "Weiwen Liu"
+      },
+      {
+        "literal": "Shuai Wang"
+      },
+      {
+        "literal": "Kaiwen Zhou"
+      },
+      {
+        "literal": "Rui Shao"
+      },
+      {
+        "literal": "Liqiang Nie"
+      },
+      {
+        "literal": "Yasheng Wang"
+      },
+      {
+        "literal": "Jianye HAO"
+      },
+      {
+        "literal": "Jun Wang"
+      },
+      {
+        "literal": "Kun Shao"
+      }
+    ],
+    "citation-key": "arxiv_2410_15164_publication",
+    "container-title": "International Conference on Learning Representations",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "206059754652205f1e036fac8ee117f71dd356bfe2d35fd84aff8d2935ea242d",
+        "submitted_at": "2024-10-19T17:28:48Z",
+        "updated_at": "2025-03-31T20:39:17Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2410.15164v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.15164",
+      "catalog_id": "arxiv:2410.15164",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-10-19",
+      "identifiers": {
+        "arxiv": "2410.15164"
+      },
+      "publication": {
+        "authors": [
+          "Jingxuan Chen",
+          "Derek Yuen",
+          "Bin Xie",
+          "Yuhao Yang",
+          "Gongwei Chen",
+          "Zhihao Wu",
+          "Li Yixing",
+          "Xurui Zhou",
+          "Weiwen Liu",
+          "Shuai Wang",
+          "Kaiwen Zhou",
+          "Rui Shao",
+          "Liqiang Nie",
+          "Yasheng Wang",
+          "Jianye HAO",
+          "Jun Wang",
+          "Kun Shao"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          5,
+          1
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.iclr.cc/paper_files/paper/2025/hash/9a75f4dd9679aa4ff80a4e6f0a1dc700-Abstract-Conference.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "61769-61806",
+        "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/9a75f4dd9679aa4ff80a4e6f0a1dc700-Paper-Conference.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "SPA-BENCH: A COMPREHENSIVE BENCHMARK FOR SMARTPHONE AGENT EVALUATION",
+        "type": "conference-paper",
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/9a75f4dd9679aa4ff80a4e6f0a1dc700-Abstract-Conference.html",
+        "venue": "International Conference on Learning Representations",
+        "volume": "2025"
+      },
+      "record_updated_at": "2025-03-31"
+    },
+    "id": "arxiv:2410.15164:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          1
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-05-01.",
+    "page": "61769-61806",
+    "title": "SPA-BENCH: A COMPREHENSIVE BENCHMARK FOR SMARTPHONE AGENT EVALUATION",
+    "type": "paper-conference",
+    "volume": "2025"
+  },
+  {
+    "DOI": "10.18653/v1/2025.findings-acl.577",
+    "URL": "https://aclanthology.org/2025.findings-acl.577/",
+    "author": [
+      {
+        "literal": "Yueqi Song"
+      },
+      {
+        "literal": "Frank F. Xu"
+      },
+      {
+        "literal": "Shuyan Zhou"
+      },
+      {
+        "literal": "Graham Neubig"
+      }
+    ],
+    "citation-key": "arxiv_2410_16464_publication",
+    "container-title": "Findings of the Association for Computational Linguistics: ACL 2025",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0944387dd3c65ea7b2f5ca52721496cf10b3c9860b303063201e7811318f4950",
+        "submitted_at": "2024-10-21T19:46:06Z",
+        "updated_at": "2025-06-16T22:23:37Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2410.16464v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.16464",
+      "catalog_id": "arxiv:2410.16464",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-10-21",
+      "identifiers": {
+        "arxiv": "2410.16464"
+      },
+      "publication": {
+        "authors": [
+          "Yueqi Song",
+          "Frank F. Xu",
+          "Shuyan Zhou",
+          "Graham Neubig"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          7
+        ],
+        "doi": "10.18653/v1/2025.findings-acl.577",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.findings-acl.577/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "11066-11085",
+        "pdf_url": "https://aclanthology.org/2025.findings-acl.577.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "Beyond Browsing: API-Based Web Agents",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.findings-acl.577/",
+        "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+        "volume": null
+      },
+      "record_updated_at": "2025-06-16"
+    },
+    "id": "arxiv:2410.16464:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-07.",
+    "page": "11066-11085",
+    "publisher": "Association for Computational Linguistics",
+    "title": "Beyond Browsing: API-Based Web Agents",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/5b555804d495321df2e3208cc27f4fbc-Abstract-Conference.html",
+    "author": [
+      {
+        "literal": "Lawrence Jang"
+      },
+      {
+        "literal": "Yinheng Li"
+      },
+      {
+        "literal": "Dan Zhao"
+      },
+      {
+        "literal": "Charles Ding"
+      },
+      {
+        "literal": "Justin Lin"
+      },
+      {
+        "literal": "Paul Pu Liang"
+      },
+      {
+        "literal": "Rogerio Bonatti"
+      },
+      {
+        "literal": "Kazuhito Koishida"
+      }
+    ],
+    "citation-key": "arxiv_2410_19100_publication",
+    "container-title": "International Conference on Learning Representations",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6f413943bd5c2a395ddb5cf38a1a5ad61754b35a9eb5de43e8d980bd83e4adff",
+        "submitted_at": "2024-10-24T19:03:01Z",
+        "updated_at": "2025-02-15T05:19:38Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2410.19100v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.19100",
+      "catalog_id": "arxiv:2410.19100",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-10-24",
+      "identifiers": {
+        "arxiv": "2410.19100"
+      },
+      "publication": {
+        "authors": [
+          "Lawrence Jang",
+          "Yinheng Li",
+          "Dan Zhao",
+          "Charles Ding",
+          "Justin Lin",
+          "Paul Pu Liang",
+          "Rogerio Bonatti",
+          "Kazuhito Koishida"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          5,
+          1
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://proceedings.iclr.cc/paper_files/paper/2025/hash/5b555804d495321df2e3208cc27f4fbc-Abstract-Conference.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "36934-36958",
+        "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/5b555804d495321df2e3208cc27f4fbc-Paper-Conference.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "VideoWebArena:  Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks",
+        "type": "conference-paper",
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/5b555804d495321df2e3208cc27f4fbc-Abstract-Conference.html",
+        "venue": "International Conference on Learning Representations",
+        "volume": "2025"
+      },
+      "record_updated_at": "2025-02-15"
+    },
+    "id": "arxiv:2410.19100:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          1
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-05-01.",
+    "page": "36934-36958",
+    "title": "VideoWebArena:  Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks",
+    "type": "paper-conference",
+    "volume": "2025"
+  },
+  {
+    "DOI": "10.18653/v1/2025.acl-long.1336",
+    "URL": "https://aclanthology.org/2025.acl-long.1336/",
+    "author": [
+      {
+        "literal": "Hongliang He"
+      },
+      {
+        "literal": "Wenlin Yao"
+      },
+      {
+        "literal": "Kaixin Ma"
+      },
+      {
+        "literal": "Wenhao Yu"
+      },
+      {
+        "literal": "Hongming Zhang"
+      },
+      {
+        "literal": "Tianqing Fang"
+      },
+      {
+        "literal": "Zhenzhong Lan"
+      },
+      {
+        "literal": "Dong Yu"
+      }
+    ],
+    "citation-key": "arxiv_2410_19609_publication",
+    "container-title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "db2a115281f831ea9333a03fc2a9ebb2f09528eb082060f00a33b125f9ef7762",
+        "submitted_at": "2024-10-25T15:01:27Z",
+        "updated_at": "2024-10-25T15:01:27Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2410.19609v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.19609",
+      "catalog_id": "arxiv:2410.19609",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-10-25",
+      "identifiers": {
+        "arxiv": "2410.19609"
+      },
+      "publication": {
+        "authors": [
+          "Hongliang He",
+          "Wenlin Yao",
+          "Kaixin Ma",
+          "Wenhao Yu",
+          "Hongming Zhang",
+          "Tianqing Fang",
+          "Zhenzhong Lan",
+          "Dong Yu"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          7
+        ],
+        "doi": "10.18653/v1/2025.acl-long.1336",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.acl-long.1336/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "27545-27564",
+        "pdf_url": "https://aclanthology.org/2025.acl-long.1336.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.acl-long.1336/",
+        "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "volume": null
+      },
+      "record_updated_at": "2024-10-25"
+    },
+    "id": "arxiv:2410.19609:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-07.",
+    "page": "27545-27564",
+    "publisher": "Association for Computational Linguistics",
+    "title": "OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2025.findings-naacl.222",
+    "URL": "https://aclanthology.org/2025.findings-naacl.222/",
+    "author": [
+      {
+        "literal": "Haoyi Qiu"
+      },
+      {
+        "literal": "Alexander Richard Fabbri"
+      },
+      {
+        "literal": "Divyansh Agarwal"
+      },
+      {
+        "literal": "Kung-Hsiang Huang"
+      },
+      {
+        "literal": "Sarah Tan"
+      },
+      {
+        "literal": "Nanyun Peng"
+      },
+      {
+        "literal": "Chien-Sheng Wu"
+      }
+    ],
+    "citation-key": "arxiv_2410_23252_publication",
+    "container-title": "Findings of the Association for Computational Linguistics: NAACL 2025",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "26fac89c78ab03fcbaf25bbfe93ebce090dec9adbf5c6dd5440641f154cffac9",
+        "submitted_at": "2024-10-30T17:35:44Z",
+        "updated_at": "2025-03-08T23:37:49Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2410.23252v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.23252",
+      "catalog_id": "arxiv:2410.23252",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-10-30",
+      "identifiers": {
+        "arxiv": "2410.23252"
+      },
+      "publication": {
+        "authors": [
+          "Haoyi Qiu",
+          "Alexander Richard Fabbri",
+          "Divyansh Agarwal",
+          "Kung-Hsiang Huang",
+          "Sarah Tan",
+          "Nanyun Peng",
+          "Chien-Sheng Wu"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          4
+        ],
+        "doi": "10.18653/v1/2025.findings-naacl.222",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.findings-naacl.222/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "3978-4005",
+        "pdf_url": "https://aclanthology.org/2025.findings-naacl.222.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "Evaluating Cultural and Social Awareness of LLM Web Agents",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.findings-naacl.222/",
+        "venue": "Findings of the Association for Computational Linguistics: NAACL 2025",
+        "volume": null
+      },
+      "record_updated_at": "2025-03-08"
+    },
+    "id": "arxiv:2410.23252:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-04.",
+    "page": "3978-4005",
+    "publisher": "Association for Computational Linguistics",
+    "title": "Evaluating Cultural and Social Awareness of LLM Web Agents",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2025.acl-long.107",
+    "URL": "https://aclanthology.org/2025.acl-long.107/",
+    "author": [
+      {
+        "literal": "Yifan Xu"
+      },
+      {
+        "literal": "Xiao Liu"
+      },
+      {
+        "literal": "Xueqiao Sun"
+      },
+      {
+        "literal": "Siyi Cheng"
+      },
+      {
+        "literal": "Hao Yu (余浩)"
+      },
+      {
+        "literal": "Hanyu Lai"
+      },
+      {
+        "literal": "Shudan Zhang"
+      },
+      {
+        "literal": "Dan Zhang"
+      },
+      {
+        "literal": "Jie Tang"
+      },
+      {
+        "literal": "Yuxiao Dong"
+      }
+    ],
+    "citation-key": "arxiv_2410_24024_publication",
+    "container-title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d29fe5262adf8677bbd5fead628c5fc28707af263aa7e800d1dee1f7e499784c",
+        "submitted_at": "2024-10-31T15:25:20Z",
+        "updated_at": "2024-11-04T05:57:31Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2410.24024v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2410.24024",
+      "catalog_id": "arxiv:2410.24024",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-10-31",
+      "identifiers": {
+        "arxiv": "2410.24024"
+      },
+      "publication": {
+        "authors": [
+          "Yifan Xu",
+          "Xiao Liu",
+          "Xueqiao Sun",
+          "Siyi Cheng",
+          "Hao Yu (余浩)",
+          "Hanyu Lai",
+          "Shudan Zhang",
+          "Dan Zhang",
+          "Jie Tang",
+          "Yuxiao Dong"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          7
+        ],
+        "doi": "10.18653/v1/2025.acl-long.107",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.acl-long.107/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "2144-2166",
+        "pdf_url": "https://aclanthology.org/2025.acl-long.107.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.acl-long.107/",
+        "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "volume": null
+      },
+      "record_updated_at": "2024-11-04"
+    },
+    "id": "arxiv:2410.24024:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-07.",
+    "page": "2144-2166",
+    "publisher": "Association for Computational Linguistics",
+    "title": "AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2025.acl-long.411",
+    "URL": "https://aclanthology.org/2025.acl-long.411/",
+    "author": [
+      {
+        "literal": "Yanzhe Zhang"
+      },
+      {
+        "literal": "Tao Yu"
+      },
+      {
+        "literal": "Diyi Yang"
+      }
+    ],
+    "citation-key": "arxiv_2411_02391_publication",
+    "container-title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "085c64595365cc6439c8c5fa8a479259a3d59b7e9740e0f9d43e48d00e1439c0",
+        "submitted_at": "2024-11-04T18:56:42Z",
+        "updated_at": "2025-05-24T16:15:46Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2411.02391v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2411.02391",
+      "catalog_id": "arxiv:2411.02391",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-11-04",
+      "identifiers": {
+        "arxiv": "2411.02391"
+      },
+      "publication": {
+        "authors": [
+          "Yanzhe Zhang",
+          "Tao Yu",
+          "Diyi Yang"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          7
+        ],
+        "doi": "10.18653/v1/2025.acl-long.411",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.acl-long.411/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "8387-8401",
+        "pdf_url": "https://aclanthology.org/2025.acl-long.411.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "Attacking Vision-Language Computer Agents via Pop-ups",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.acl-long.411/",
+        "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "volume": null
+      },
+      "record_updated_at": "2025-05-24"
+    },
+    "id": "arxiv:2411.02391:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-07.",
+    "page": "8387-8401",
+    "publisher": "Association for Computational Linguistics",
+    "title": "Attacking Vision-Language Computer Agents via Pop-ups",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2025.acl-long.1008",
+    "URL": "https://aclanthology.org/2025.acl-long.1008/",
+    "author": [
+      {
+        "literal": "Gaurav Verma"
+      },
+      {
+        "literal": "Rachneet Kaur"
+      },
+      {
+        "literal": "Nishan Srishankar"
+      },
+      {
+        "literal": "Zhen Zeng"
+      },
+      {
+        "literal": "Tucker Balch"
+      },
+      {
+        "literal": "Manuela Veloso"
+      }
+    ],
+    "citation-key": "arxiv_2411_13451_publication",
+    "container-title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "94d908dd89ff27434805fe7915c5a93d5c2b1d873449babc1c566c5582cca734",
+        "submitted_at": "2024-11-20T16:54:15Z",
+        "updated_at": "2024-11-20T16:54:15Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2411.13451v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2411.13451",
+      "catalog_id": "arxiv:2411.13451",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-11-20",
+      "identifiers": {
+        "arxiv": "2411.13451"
+      },
+      "publication": {
+        "authors": [
+          "Gaurav Verma",
+          "Rachneet Kaur",
+          "Nishan Srishankar",
+          "Zhen Zeng",
+          "Tucker Balch",
+          "Manuela Veloso"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          7
+        ],
+        "doi": "10.18653/v1/2025.acl-long.1008",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.acl-long.1008/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "20635-20651",
+        "pdf_url": "https://aclanthology.org/2025.acl-long.1008.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.acl-long.1008/",
+        "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "volume": null
+      },
+      "record_updated_at": "2024-11-20"
+    },
+    "id": "arxiv:2411.13451:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-07.",
+    "page": "20635-20651",
+    "publisher": "Association for Computational Linguistics",
+    "title": "AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://openaccess.thecvf.com/content/CVPR2025/html/Lin_ShowUI_One_Vision-Language-Action_Model_for_GUI_Visual_Agent_CVPR_2025_paper.html",
+    "author": [
+      {
+        "literal": "Kevin Qinghong Lin"
+      },
+      {
+        "literal": "Linjie Li"
+      },
+      {
+        "literal": "Difei Gao"
+      },
+      {
+        "literal": "Zhengyuan Yang"
+      },
+      {
+        "literal": "Shiwei Wu"
+      },
+      {
+        "literal": "Zechen Bai"
+      },
+      {
+        "literal": "Stan Weixian Lei"
+      },
+      {
+        "literal": "Lijuan Wang"
+      },
+      {
+        "literal": "Mike Zheng Shou"
+      }
+    ],
+    "citation-key": "arxiv_2411_17465_publication",
+    "container-title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8c8f5c0a7fc5f194ffa6ca914619b9402c947d15f100b124505883ad8ff23ac7",
+        "submitted_at": "2024-11-26T14:29:47Z",
+        "updated_at": "2024-11-26T14:29:47Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2411.17465v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2411.17465",
+      "catalog_id": "arxiv:2411.17465",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-11-26",
+      "identifiers": {
+        "arxiv": "2411.17465"
+      },
+      "publication": {
+        "authors": [
+          "Kevin Qinghong Lin",
+          "Linjie Li",
+          "Difei Gao",
+          "Zhengyuan Yang",
+          "Shiwei Wu",
+          "Zechen Bai",
+          "Stan Weixian Lei",
+          "Lijuan Wang",
+          "Mike Zheng Shou"
+        ],
+        "date_basis": "Year from publisher citation metadata and month from the same page's embedded BibTeX; no day is supplied.",
+        "date_parts": [
+          2025,
+          6
+        ],
+        "doi": null,
+        "event_dates": null,
+        "evidence_urls": [
+          "https://openaccess.thecvf.com/content/CVPR2025/html/Lin_ShowUI_One_Vision-Language-Action_Model_for_GUI_Visual_Agent_CVPR_2025_paper.html"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The publisher page directly links this arXiv identifier.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "19498-19508",
+        "pdf_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lin_ShowUI_One_Vision-Language-Action_Model_for_GUI_Visual_Agent_CVPR_2025_paper.pdf",
+        "publisher": null,
+        "series": null,
+        "title": "ShowUI: One Vision-Language-Action Model for GUI Visual Agent",
+        "type": "conference-paper",
+        "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Lin_ShowUI_One_Vision-Language-Action_Model_for_GUI_Visual_Agent_CVPR_2025_paper.html",
+        "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "volume": null
+      },
+      "record_updated_at": "2024-11-26"
+    },
+    "id": "arxiv:2411.17465:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-06.",
+    "page": "19498-19508",
+    "title": "ShowUI: One Vision-Language-Action Model for GUI Visual Agent",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2025.findings-acl.76",
+    "URL": "https://aclanthology.org/2025.findings-acl.76/",
+    "author": [
+      {
+        "literal": "Yiqin Wang"
+      },
+      {
+        "literal": "Haoji Zhang"
+      },
+      {
+        "literal": "Jingqi Tian"
+      },
+      {
+        "literal": "Yansong Tang"
+      }
+    ],
+    "citation-key": "arxiv_2412_01268_publication",
+    "container-title": "Findings of the Association for Computational Linguistics: ACL 2025",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6a4c750017de421d3ca9bf119834dfb96d2fe8a0610f12b30d2fae603e26c66b",
+        "submitted_at": "2024-12-02T08:35:31Z",
+        "updated_at": "2024-12-02T08:35:31Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2412.01268v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2412.01268",
+      "catalog_id": "arxiv:2412.01268",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-12-02",
+      "identifiers": {
+        "arxiv": "2412.01268"
+      },
+      "publication": {
+        "authors": [
+          "Yiqin Wang",
+          "Haoji Zhang",
+          "Jingqi Tian",
+          "Yansong Tang"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          7
+        ],
+        "doi": "10.18653/v1/2025.findings-acl.76",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.findings-acl.76/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "1461-1473",
+        "pdf_url": "https://aclanthology.org/2025.findings-acl.76.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "Ponder & Press: Advancing Visual GUI Agent towards General Computer Control",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.findings-acl.76/",
+        "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+        "volume": null
+      },
+      "record_updated_at": "2024-12-02"
+    },
+    "id": "arxiv:2412.01268:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-07.",
+    "page": "1461-1473",
+    "publisher": "Association for Computational Linguistics",
+    "title": "Ponder & Press: Advancing Visual GUI Agent towards General Computer Control",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2025.findings-acl.1152",
+    "URL": "https://aclanthology.org/2025.findings-acl.1152/",
+    "author": [
+      {
+        "literal": "Yuhao Yang"
+      },
+      {
+        "literal": "Yue Wang"
+      },
+      {
+        "literal": "Dongxu Li"
+      },
+      {
+        "literal": "Ziyang Luo"
+      },
+      {
+        "literal": "Bei Chen"
+      },
+      {
+        "literal": "Chao Huang"
+      },
+      {
+        "literal": "Junnan Li"
+      }
+    ],
+    "citation-key": "arxiv_2412_16256_publication",
+    "container-title": "Findings of the Association for Computational Linguistics: ACL 2025",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9b49d45aa539c224846a7e14cee9b537d032228e19e86a9cb3cdd9f5004aa429",
+        "submitted_at": "2024-12-20T07:16:57Z",
+        "updated_at": "2025-07-08T08:49:17Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2412.16256v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2412.16256",
+      "catalog_id": "arxiv:2412.16256",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-12-20",
+      "identifiers": {
+        "arxiv": "2412.16256"
+      },
+      "publication": {
+        "authors": [
+          "Yuhao Yang",
+          "Yue Wang",
+          "Dongxu Li",
+          "Ziyang Luo",
+          "Bei Chen",
+          "Chao Huang",
+          "Junnan Li"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          7
+        ],
+        "doi": "10.18653/v1/2025.findings-acl.1152",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.findings-acl.1152/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "22418-22433",
+        "pdf_url": "https://aclanthology.org/2025.findings-acl.1152.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "Aria-UI: Visual Grounding for GUI Instructions",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.findings-acl.1152/",
+        "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+        "volume": null
+      },
+      "record_updated_at": "2025-07-08"
+    },
+    "id": "arxiv:2412.16256:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-07.",
+    "page": "22418-22433",
+    "publisher": "Association for Computational Linguistics",
+    "title": "Aria-UI: Visual Grounding for GUI Instructions",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2025.acl-long.277",
+    "URL": "https://aclanthology.org/2025.acl-long.277/",
+    "author": [
+      {
+        "literal": "Qiushi Sun"
+      },
+      {
+        "literal": "Kanzhi Cheng"
+      },
+      {
+        "literal": "Zichen Ding"
+      },
+      {
+        "literal": "Chuanyang Jin"
+      },
+      {
+        "literal": "Yian Wang"
+      },
+      {
+        "literal": "Fangzhi Xu"
+      },
+      {
+        "literal": "Zhenyu Wu"
+      },
+      {
+        "literal": "Chengyou Jia"
+      },
+      {
+        "literal": "Liheng Chen"
+      },
+      {
+        "literal": "Zhoumianze Liu"
+      },
+      {
+        "literal": "Ben Kao"
+      },
+      {
+        "literal": "Guohao Li"
+      },
+      {
+        "literal": "Junxian He"
+      },
+      {
+        "literal": "Yu Qiao"
+      },
+      {
+        "literal": "Zhiyong Wu"
+      }
+    ],
+    "citation-key": "arxiv_2412_19723_publication",
+    "container-title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "40b5e3090c25f80d8d786f623812459b329acc2772f945419a585ffb27c54db3",
+        "submitted_at": "2024-12-27T16:21:58Z",
+        "updated_at": "2025-06-27T08:25:48Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2412.19723v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2412.19723",
+      "catalog_id": "arxiv:2412.19723",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2024-12-27",
+      "identifiers": {
+        "arxiv": "2412.19723"
+      },
+      "publication": {
+        "authors": [
+          "Qiushi Sun",
+          "Kanzhi Cheng",
+          "Zichen Ding",
+          "Chuanyang Jin",
+          "Yian Wang",
+          "Fangzhi Xu",
+          "Zhenyu Wu",
+          "Chengyou Jia",
+          "Liheng Chen",
+          "Zhoumianze Liu",
+          "Ben Kao",
+          "Guohao Li",
+          "Junxian He",
+          "Yu Qiao",
+          "Zhiyong Wu"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          7
+        ],
+        "doi": "10.18653/v1/2025.acl-long.277",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.acl-long.277/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "5555-5579",
+        "pdf_url": "https://aclanthology.org/2025.acl-long.277.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.acl-long.277/",
+        "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "volume": null
+      },
+      "record_updated_at": "2025-06-27"
+    },
+    "id": "arxiv:2412.19723:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-07.",
+    "page": "5555-5579",
+    "publisher": "Association for Computational Linguistics",
+    "title": "OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis",
+    "type": "paper-conference"
+  },
+  {
     "DOI": "10.18653/v1/2025.naacl-demo.17",
     "URL": "https://aclanthology.org/2025.naacl-demo.17/",
     "author": [
@@ -1166,6 +5859,649 @@
     "page": "163-172",
     "publisher": "Association for Computational Linguistics",
     "title": "CowPilot: A Framework for Autonomous and Human-Agent Collaborative Web Navigation",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2025.naacl-long.244",
+    "URL": "https://aclanthology.org/2025.naacl-long.244/",
+    "author": [
+      {
+        "literal": "Qinzhuo Wu"
+      },
+      {
+        "literal": "Wei Liu"
+      },
+      {
+        "literal": "Jian Luan"
+      },
+      {
+        "literal": "Bin Wang"
+      }
+    ],
+    "citation-key": "arxiv_2502_02955_publication",
+    "container-title": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d3e0b19f259bcdb57b0dea92578d0ee1c7c229ea11e622c56e808f17ca2568cc",
+        "submitted_at": "2025-02-05T07:35:23Z",
+        "updated_at": "2025-02-05T07:35:23Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2502.02955v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2502.02955",
+      "catalog_id": "arxiv:2502.02955",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2025-02-05",
+      "identifiers": {
+        "arxiv": "2502.02955"
+      },
+      "publication": {
+        "authors": [
+          "Qinzhuo Wu",
+          "Wei Liu",
+          "Jian Luan",
+          "Bin Wang"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          4
+        ],
+        "doi": "10.18653/v1/2025.naacl-long.244",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.naacl-long.244/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "4760-4775",
+        "pdf_url": "https://aclanthology.org/2025.naacl-long.244.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "ReachAgent: Enhancing Mobile Agent via Page Reaching and Operation",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.naacl-long.244/",
+        "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+        "volume": null
+      },
+      "record_updated_at": "2025-02-05"
+    },
+    "id": "arxiv:2502.02955:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-04.",
+    "page": "4760-4775",
+    "publisher": "Association for Computational Linguistics",
+    "title": "ReachAgent: Enhancing Mobile Agent via Page Reaching and Operation",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2025.findings-acl.326",
+    "URL": "https://aclanthology.org/2025.findings-acl.326/",
+    "author": [
+      {
+        "literal": "Vardaan Pahuja"
+      },
+      {
+        "literal": "Yadong Lu"
+      },
+      {
+        "literal": "Corby Rosset"
+      },
+      {
+        "literal": "Boyu Gou"
+      },
+      {
+        "literal": "Arindam Mitra"
+      },
+      {
+        "literal": "Spencer Whitehead"
+      },
+      {
+        "literal": "Yu Su"
+      },
+      {
+        "literal": "Ahmed Awadallah"
+      }
+    ],
+    "citation-key": "arxiv_2502_11357_publication",
+    "container-title": "Findings of the Association for Computational Linguistics: ACL 2025",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d9f459a02b7a464d9e1e49579943d1b93d46308c1b00e795c903d2fa1502a2b2",
+        "submitted_at": "2025-02-17T02:13:48Z",
+        "updated_at": "2025-05-30T02:30:57Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2502.11357v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2502.11357",
+      "catalog_id": "arxiv:2502.11357",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2025-02-17",
+      "identifiers": {
+        "arxiv": "2502.11357"
+      },
+      "publication": {
+        "authors": [
+          "Vardaan Pahuja",
+          "Yadong Lu",
+          "Corby Rosset",
+          "Boyu Gou",
+          "Arindam Mitra",
+          "Spencer Whitehead",
+          "Yu Su",
+          "Ahmed Awadallah"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          7
+        ],
+        "doi": "10.18653/v1/2025.findings-acl.326",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.findings-acl.326/",
+          "https://aclanthology.org/2025.findings-acl.326.pdf"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256. The publisher PDF title and complete first-page author list were visually checked.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. Authors follow the publisher PDF, page 1. Landing-page citation metadata gives Ahmed Hassan for the final author, while the supplied BibTeX expands the name to Ahmed Hassan Awadallah; the PDF uses Ahmed Awadallah.",
+        "pages": "6300-6323",
+        "pdf_url": "https://aclanthology.org/2025.findings-acl.326.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.findings-acl.326/",
+        "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+        "volume": null
+      },
+      "record_updated_at": "2025-05-30"
+    },
+    "id": "arxiv:2502.11357:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-07.",
+    "page": "6300-6323",
+    "publisher": "Association for Computational Linguistics",
+    "title": "Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2025.naacl-demo.36",
+    "URL": "https://aclanthology.org/2025.naacl-demo.36/",
+    "author": [
+      {
+        "literal": "Danqing Zhang"
+      },
+      {
+        "literal": "Balaji Rama"
+      },
+      {
+        "literal": "Jingyi Ni"
+      },
+      {
+        "literal": "Shiying He"
+      },
+      {
+        "literal": "Fu Zhao"
+      },
+      {
+        "literal": "Kunyu Chen"
+      },
+      {
+        "literal": "Arnold Chen"
+      },
+      {
+        "literal": "Junyu Cao"
+      }
+    ],
+    "citation-key": "arxiv_2503_02950_publication",
+    "container-title": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (System Demonstrations)",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "df682f883bed5e0e9917074dfa130839fabaa318c55714f26943d944774854fe",
+        "submitted_at": "2025-03-04T19:13:10Z",
+        "updated_at": "2025-05-06T06:42:34Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2503.02950v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2503.02950",
+      "catalog_id": "arxiv:2503.02950",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2025-03-04",
+      "identifiers": {
+        "arxiv": "2503.02950"
+      },
+      "publication": {
+        "authors": [
+          "Danqing Zhang",
+          "Balaji Rama",
+          "Jingyi Ni",
+          "Shiying He",
+          "Fu Zhao",
+          "Kunyu Chen",
+          "Arnold Chen",
+          "Junyu Cao"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/4. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          4
+        ],
+        "doi": "10.18653/v1/2025.naacl-demo.36",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.naacl-demo.36/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "449-455",
+        "pdf_url": "https://aclanthology.org/2025.naacl-demo.36.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "LiteWebAgent: The Open-Source Suite for VLM-Based Web-Agent Applications",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.naacl-demo.36/",
+        "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (System Demonstrations)",
+        "volume": null
+      },
+      "record_updated_at": "2025-05-06"
+    },
+    "id": "arxiv:2503.02950:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-04.",
+    "page": "449-455",
+    "publisher": "Association for Computational Linguistics",
+    "title": "LiteWebAgent: The Open-Source Suite for VLM-Based Web-Agent Applications",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2025.findings-acl.809",
+    "URL": "https://aclanthology.org/2025.findings-acl.809/",
+    "author": [
+      {
+        "literal": "Xinyi Liu"
+      },
+      {
+        "literal": "Xiaoyi Zhang"
+      },
+      {
+        "literal": "Ziyun Zhang"
+      },
+      {
+        "literal": "Yan Lu"
+      }
+    ],
+    "citation-key": "arxiv_2504_11257_publication",
+    "container-title": "Findings of the Association for Computational Linguistics: ACL 2025",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "363e3c3e882fa93a19df74bbf77aa98525cf4639c8f62100c3ddc3e0a438997f",
+        "submitted_at": "2025-04-15T14:56:21Z",
+        "updated_at": "2025-07-30T13:57:49Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2504.11257v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2504.11257",
+      "catalog_id": "arxiv:2504.11257",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2025-04-15",
+      "identifiers": {
+        "arxiv": "2504.11257"
+      },
+      "publication": {
+        "authors": [
+          "Xinyi Liu",
+          "Xiaoyi Zhang",
+          "Ziyun Zhang",
+          "Yan Lu"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          7
+        ],
+        "doi": "10.18653/v1/2025.findings-acl.809",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.findings-acl.809/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "15668-15684",
+        "pdf_url": "https://aclanthology.org/2025.findings-acl.809.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.findings-acl.809/",
+        "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+        "volume": null
+      },
+      "record_updated_at": "2025-07-30"
+    },
+    "id": "arxiv:2504.11257:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-07.",
+    "page": "15668-15684",
+    "publisher": "Association for Computational Linguistics",
+    "title": "UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2025.acl-long.282",
+    "URL": "https://aclanthology.org/2025.acl-long.282/",
+    "author": [
+      {
+        "literal": "Bin Xie"
+      },
+      {
+        "literal": "Rui Shao"
+      },
+      {
+        "literal": "Gongwei Chen"
+      },
+      {
+        "literal": "Kaiwen Zhou"
+      },
+      {
+        "literal": "Yinchuan Li"
+      },
+      {
+        "literal": "Jie Liu"
+      },
+      {
+        "literal": "Min Zhang"
+      },
+      {
+        "literal": "Liqiang Nie"
+      }
+    ],
+    "citation-key": "arxiv_2505_16827_publication",
+    "container-title": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "641001c49fccac1e1c0659fe765eba5a30cefd2a7ff5d00c821f79092c45a1df",
+        "submitted_at": "2025-05-22T16:01:06Z",
+        "updated_at": "2025-05-22T16:01:06Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2505.16827v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2505.16827",
+      "catalog_id": "arxiv:2505.16827",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2025-05-22",
+      "identifiers": {
+        "arxiv": "2505.16827"
+      },
+      "publication": {
+        "authors": [
+          "Bin Xie",
+          "Rui Shao",
+          "Gongwei Chen",
+          "Kaiwen Zhou",
+          "Yinchuan Li",
+          "Jie Liu",
+          "Min Zhang",
+          "Liqiang Nie"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          7
+        ],
+        "doi": "10.18653/v1/2025.acl-long.282",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.acl-long.282/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+        "pages": "5650-5667",
+        "pdf_url": "https://aclanthology.org/2025.acl-long.282.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "GUI-explorer: Autonomous Exploration and Mining of Transition-aware Knowledge for GUI Agent",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.acl-long.282/",
+        "venue": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        "volume": null
+      },
+      "record_updated_at": "2025-05-22"
+    },
+    "id": "arxiv:2505.16827:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-07.",
+    "page": "5650-5667",
+    "publisher": "Association for Computational Linguistics",
+    "title": "GUI-explorer: Autonomous Exploration and Mining of Transition-aware Knowledge for GUI Agent",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2025.emnlp-demos.12",
+    "URL": "https://aclanthology.org/2025.emnlp-demos.12/",
+    "author": [
+      {
+        "literal": "Zhong Zhang"
+      },
+      {
+        "literal": "Yaxi Lu"
+      },
+      {
+        "literal": "Yikun Fu"
+      },
+      {
+        "literal": "Yupeng Huo"
+      },
+      {
+        "literal": "Shenzhi Yang"
+      },
+      {
+        "literal": "Yesai Wu"
+      },
+      {
+        "literal": "Han Si (司函)"
+      },
+      {
+        "literal": "Xin Cong"
+      },
+      {
+        "literal": "Haotian Chen"
+      },
+      {
+        "literal": "Yankai Lin (林衍凯)"
+      },
+      {
+        "literal": "Jie Xie"
+      },
+      {
+        "literal": "Wei Zhou"
+      },
+      {
+        "literal": "Wang Xu"
+      },
+      {
+        "literal": "Yuanheng Zhang"
+      },
+      {
+        "literal": "Zhou Su"
+      },
+      {
+        "literal": "Zhongwu Zhai"
+      },
+      {
+        "literal": "Xiaoming Liu"
+      },
+      {
+        "literal": "Yudong Mei"
+      },
+      {
+        "literal": "Jianming Xu"
+      },
+      {
+        "literal": "Hongyan Tian"
+      },
+      {
+        "literal": "Chongyi Wang"
+      },
+      {
+        "literal": "Chi Chen"
+      },
+      {
+        "literal": "Yuan Yao"
+      },
+      {
+        "literal": "Zhiyuan Liu"
+      },
+      {
+        "literal": "Maosong Sun (孙茂松)"
+      }
+    ],
+    "citation-key": "arxiv_2506_01391_publication",
+    "container-title": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: System Demonstrations",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3c0b2a065898ba4f73fcb5e5b2e92d723b0b55ac6caa46d5bf02d44eb7a2cdd9",
+        "submitted_at": "2025-06-02T07:30:29Z",
+        "updated_at": "2025-06-17T02:57:04Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2506.01391v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2506.01391",
+      "catalog_id": "arxiv:2506.01391",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "citation_edition": "publication",
+      "first_published_at": "2025-06-02",
+      "identifiers": {
+        "arxiv": "2506.01391"
+      },
+      "publication": {
+        "authors": [
+          "Zhong Zhang",
+          "Yaxi Lu",
+          "Yikun Fu",
+          "Yupeng Huo",
+          "Shenzhi Yang",
+          "Yesai Wu",
+          "Han Si (司函)",
+          "Xin Cong",
+          "Haotian Chen",
+          "Yankai Lin (林衍凯)",
+          "Jie Xie",
+          "Wei Zhou",
+          "Wang Xu",
+          "Yuanheng Zhang",
+          "Zhou Su",
+          "Zhongwu Zhai",
+          "Xiaoming Liu",
+          "Yudong Mei",
+          "Jianming Xu",
+          "Hongyan Tian",
+          "Chongyi Wang",
+          "Chi Chen",
+          "Yuan Yao",
+          "Zhiyuan Liu",
+          "Maosong Sun (孙茂松)"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2025/11. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2025,
+          11
+        ],
+        "doi": "10.18653/v1/2025.emnlp-demos.12",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2025.emnlp-demos.12/"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+        "pages": "155-180",
+        "pdf_url": "https://aclanthology.org/2025.emnlp-demos.12.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2025.emnlp-demos.12/",
+        "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: System Demonstrations",
+        "volume": null
+      },
+      "record_updated_at": "2025-06-17"
+    },
+    "id": "arxiv:2506.01391:publication",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    },
+    "note": "Publication date: 2025-11.",
+    "page": "155-180",
+    "publisher": "Association for Computational Linguistics",
+    "title": "AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning",
     "type": "paper-conference"
   },
   {

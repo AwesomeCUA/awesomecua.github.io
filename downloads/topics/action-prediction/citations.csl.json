@@ -534,9 +534,46 @@
       "catalog_kind": "paper",
       "catalog_review_status": "curated",
       "catalog_scope": "core",
+      "citation_edition": "record",
       "first_published_at": "2024-09-23",
       "identifiers": {
         "arxiv": "2409.14818"
+      },
+      "publication": {
+        "authors": [
+          "Qinzhuo Wu",
+          "Weikai Xu",
+          "Wei Liu",
+          "Tao Tan",
+          "Jianfeng Liu",
+          "Ang Li",
+          "Jian Luan",
+          "Bin Wang",
+          "Shuo Shang"
+        ],
+        "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+        "date_parts": [
+          2024,
+          11
+        ],
+        "doi": "10.18653/v1/2024.findings-emnlp.599",
+        "event_dates": null,
+        "evidence_urls": [
+          "https://aclanthology.org/2024.findings-emnlp.599/",
+          "https://aclanthology.org/2024.findings-emnlp.599.pdf"
+        ],
+        "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256. The publisher PDF title and complete first-page author list were visually checked.",
+        "issue": null,
+        "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint. Authors follow the publisher PDF, page 1. The landing page and its BibTeX list the fifth author as Liujian Liujianfeng; the PDF names Jianfeng Liu.",
+        "pages": "10231-10251",
+        "pdf_url": "https://aclanthology.org/2024.findings-emnlp.599.pdf",
+        "publisher": "Association for Computational Linguistics",
+        "series": null,
+        "title": "MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding",
+        "type": "conference-paper",
+        "url": "https://aclanthology.org/2024.findings-emnlp.599/",
+        "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+        "volume": null
       },
       "record_updated_at": "2024-10-03"
     },
@@ -1251,6 +1288,164 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2605.12501v1",
+    "archive": "arXiv",
+    "archive_location": "2605.12501",
+    "author": [
+      {
+        "literal": "Miaosen Zhang"
+      },
+      {
+        "literal": "Xiaohan Zhao"
+      },
+      {
+        "literal": "Zhihong Tan"
+      },
+      {
+        "literal": "Zhou Huoshen"
+      },
+      {
+        "literal": "Yijia Fan"
+      },
+      {
+        "literal": "Yifan Yang"
+      },
+      {
+        "literal": "Kai Qiu"
+      },
+      {
+        "literal": "Bei Liu"
+      },
+      {
+        "literal": "Justin Wagle"
+      },
+      {
+        "literal": "Chenzhong Yin"
+      },
+      {
+        "literal": "Mingxi Cheng"
+      },
+      {
+        "literal": "Ji Li"
+      },
+      {
+        "literal": "Qi Dai"
+      },
+      {
+        "literal": "Chong Luo"
+      },
+      {
+        "literal": "Xu Yang"
+      },
+      {
+        "literal": "Xin Geng"
+      },
+      {
+        "literal": "Baining Guo"
+      }
+    ],
+    "citation-key": "arxiv_2605_12501",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1fb57ba3cd858513d1da58d64a7c85388f12e331c9ea9f89204be5f43e6fec38",
+        "submitted_at": "2026-05-12T17:59:58Z",
+        "updated_at": "2026-05-12T17:59:58Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.12501v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.12501",
+      "catalog_id": "arxiv:2605.12501",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-12",
+      "identifiers": {
+        "arxiv": "2605.12501"
+      },
+      "record_updated_at": "2026-05-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.12501",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-12; Recorded arXiv version: v1; Recorded version updated: 2026-05-12T17:59:58Z.",
+    "title": "Covering Human Action Space for Computer Use: Data Synthesis and Benchmark",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.18758v2",
+    "archive": "arXiv",
+    "archive_location": "2605.18758",
+    "author": [
+      {
+        "literal": "Felix Henry"
+      },
+      {
+        "literal": "Lihan Lin"
+      },
+      {
+        "literal": "Jiangyou Zhu"
+      },
+      {
+        "literal": "Yangfan"
+      },
+      {
+        "literal": "Bingqian Zhang"
+      },
+      {
+        "literal": "Min Chen"
+      },
+      {
+        "literal": "Shiyu Huang"
+      }
+    ],
+    "citation-key": "arxiv_2605_18758",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "99e8e0039ec99ef8f6a6ef3900cb74a62ddd5ae4f8df30629110969290028e6a",
+        "submitted_at": "2026-04-03T08:57:06Z",
+        "updated_at": "2026-09-28T02:42:06Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2605.18758v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.18758",
+      "catalog_id": "arxiv:2605.18758",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-04-03",
+      "identifiers": {
+        "arxiv": "2605.18758"
+      },
+      "record_updated_at": "2026-09-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.18758",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-03; Recorded arXiv version: v2; Recorded version updated: 2026-09-28T02:42:06Z.",
+    "title": "OmniGUI: Benchmarking GUI Agents in Omni-Modal Smartphone Environments",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2607.04425v2",
     "archive": "arXiv",
     "archive_location": "2607.04425",
@@ -1325,6 +1520,67 @@
     "title": "UI-MOPD: Multi-Platform On-Policy Distillation for Unified GUI Agents",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.10079v3",
+    "archive": "arXiv",
+    "archive_location": "2607.10079",
+    "author": [
+      {
+        "literal": "Chengguang Gan"
+      },
+      {
+        "literal": "Hanjun Wei"
+      },
+      {
+        "literal": "Yunhao Liang"
+      },
+      {
+        "literal": "Zhixi Cai"
+      },
+      {
+        "literal": "Qinghao Zhang"
+      },
+      {
+        "literal": "Shiwen Ni"
+      }
+    ],
+    "citation-key": "arxiv_2607_10079",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "37cfa436d182ed8fbc8823213b9173fbfcf9fb421e8d2ae89a093a5393c374ba",
+        "submitted_at": "2026-07-11T02:08:46Z",
+        "updated_at": "2026-07-16T03:28:43Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2607.10079v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.10079",
+      "catalog_id": "arxiv:2607.10079",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-11",
+      "identifiers": {
+        "arxiv": "2607.10079"
+      },
+      "record_updated_at": "2026-07-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.10079",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-11; Recorded arXiv version: v3; Recorded version updated: 2026-07-16T03:28:43Z.",
+    "title": "MAG: A Web-Agent Benchmark and Harness for Multimodal Action and Guide Generation",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2607.17050v1",
@@ -1521,6 +1777,137 @@
     },
     "note": "First published: 2026-08-22; Recorded arXiv version: v1; Recorded version updated: 2026-08-22T08:01:47Z.",
     "title": "Beyond Success and Failure: Length-Aware Contrastive Learning for GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2609.25769v1",
+    "archive": "arXiv",
+    "archive_location": "2609.25769",
+    "author": [
+      {
+        "literal": "Yan Zhang"
+      },
+      {
+        "literal": "Pei Fu"
+      },
+      {
+        "literal": "Daiqing Wu"
+      },
+      {
+        "literal": "Huawen Shen"
+      },
+      {
+        "literal": "Ruoceng Zhang"
+      },
+      {
+        "literal": "Shaojie Zhang"
+      },
+      {
+        "literal": "Jiahui Yang"
+      },
+      {
+        "literal": "Yu Zhou"
+      },
+      {
+        "literal": "Can Ma"
+      },
+      {
+        "literal": "Zhenbo Luo"
+      },
+      {
+        "literal": "Jian Luan"
+      }
+    ],
+    "citation-key": "arxiv_2609_25769",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d184b111aa2a9ad65dd57391b72bcef369c2bcd01ceb8e4f00f7a2320db856d8",
+        "submitted_at": "2026-09-22T07:02:35Z",
+        "updated_at": "2026-09-22T07:02:35Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.25769v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.25769",
+      "catalog_id": "arxiv:2609.25769",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-22",
+      "identifiers": {
+        "arxiv": "2609.25769"
+      },
+      "record_updated_at": "2026-09-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.25769",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-22; Recorded arXiv version: v1; Recorded version updated: 2026-09-22T07:02:35Z.",
+    "title": "Towards Omni-dimensional GUI Agent Navigation with Masked Trajectory Prediction",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2609.27353v1",
+    "archive": "arXiv",
+    "archive_location": "2609.27353",
+    "author": [
+      {
+        "literal": "Chengguang Gan"
+      },
+      {
+        "literal": "Yunhao Liang"
+      },
+      {
+        "literal": "QingHao Zhang"
+      },
+      {
+        "literal": "Shiwen Ni"
+      }
+    ],
+    "citation-key": "arxiv_2609_27353",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2b2bda1c50fd47fabbe77c40a2938979a6a16b407b40f11737fc6f1fc795d090",
+        "submitted_at": "2026-09-23T04:49:07Z",
+        "updated_at": "2026-09-23T04:49:07Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.27353v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.27353",
+      "catalog_id": "arxiv:2609.27353",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-23",
+      "identifiers": {
+        "arxiv": "2609.27353"
+      },
+      "record_updated_at": "2026-09-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.27353",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-23; Recorded arXiv version: v1; Recorded version updated: 2026-09-23T04:49:07Z.",
+    "title": "Guides That Cause Actions: An Offline Study of Guide-Action Mutual Reinforcement in Multimodal Web Agents",
     "type": "article",
     "version": "1"
   }

@@ -32,10 +32,8 @@
       ],
       "setting": "offline"
     },
-    "evaluation_type": null,
     "gated": false,
     "hub_id": "OS-Copilot/OS-Critic-Bench",
-    "leaderboard_url": null,
     "license_review": {
       "data": {
         "evidence_urls": [
@@ -44,9 +42,7 @@
         "reason": "Publisher dataset-card license declaration for OS-Critic-Bench; not an evaluation-code or model-weight license."
       }
     },
-    "metrics": [],
-    "release_revision": "8fe774ef6a422c0e555f90205eb392f9132e272b",
-    "task_count": null
+    "release_revision": "8fe774ef6a422c0e555f90205eb392f9132e272b"
   },
   "environments": [
     "cross-platform",

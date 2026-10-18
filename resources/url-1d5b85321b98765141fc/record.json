@@ -28,10 +28,8 @@
     },
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/xwk123/MobileBench-v2/tree/main",
-    "evaluation_type": null,
     "gated": false,
     "hub_id": "xwk123/MobileBench-v2",
-    "leaderboard_url": null,
     "license_review": {
       "data": {
         "evidence_urls": [
@@ -39,9 +37,7 @@
         ],
         "reason": "The same first-party card has an Apache-2.0 metadata header but explicitly assigns Apache-2.0 to code and CC-BY-NC-SA-4.0 to the dataset in its License section. Preserve both declarations and leave a single data license unresolved instead of displaying the permissive header as the data permission."
       }
-    },
-    "metrics": [],
-    "task_count": null
+    }
   },
   "environments": [
     "android"

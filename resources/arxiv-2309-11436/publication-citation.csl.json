@@ -1,0 +1,77 @@
+{
+  "id": "arxiv:2309.11436:publication",
+  "citation-key": "arxiv_2309_11436_publication",
+  "type": "paper-conference",
+  "title": "You Only Look at Screens: Multimodal Chain-of-Action Agents",
+  "URL": "https://aclanthology.org/2024.findings-acl.186/",
+  "custom": {
+    "catalog_id": "arxiv:2309.11436",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2309.11436",
+    "identifiers": {
+      "arxiv": "2309.11436"
+    },
+    "first_published_at": "2023-09-20",
+    "record_updated_at": "2024-06-07",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6d9cff1ece6115e87b7a9032f5720deb49694fbf570bea1f152018c4fa80d981",
+      "submitted_at": "2023-09-20T16:12:32Z",
+      "updated_at": "2024-06-07T04:52:29Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2309.11436v4"
+    },
+    "publication": {
+      "authors": [
+        "Zhuosheng Zhang",
+        "Aston Zhang"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2024/8. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2024,
+        8
+      ],
+      "doi": "10.18653/v1/2024.findings-acl.186",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2024.findings-acl.186/"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot.",
+      "pages": "3132-3149",
+      "pdf_url": "https://aclanthology.org/2024.findings-acl.186.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "You Only Look at Screens: Multimodal Chain-of-Action Agents",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2024.findings-acl.186/",
+      "venue": "Findings of the Association for Computational Linguistics: ACL 2024",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2024-08.",
+  "author": [
+    {
+      "literal": "Zhuosheng Zhang"
+    },
+    {
+      "literal": "Aston Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        8
+      ]
+    ]
+  },
+  "DOI": "10.18653/v1/2024.findings-acl.186",
+  "container-title": "Findings of the Association for Computational Linguistics: ACL 2024",
+  "publisher": "Association for Computational Linguistics",
+  "page": "3132-3149"
+}

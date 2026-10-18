@@ -1,0 +1,112 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "license_review": {
+      "code": {
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/sunblaze-ucb/AgentSynth/HEAD/LICENSE"
+        ],
+        "reason": "Reviewed repository license declaration for code; third-party dependencies, data, weights and executable environment images are separate."
+      }
+    },
+    "repository_tree_sha": "cd42a4bd158fe3f0a1b0f376b9428d6a5fcb81b2",
+    "repository_url": "https://github.com/sunblaze-ucb/AgentSynth"
+  },
+  "environments": [
+    "desktop",
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:27:12Z",
+      "role": "primary",
+      "sha256": "42e8b8dead7caea3f8b21e93a075e8c895dfc30a25e1470bf97a90940bbf0106",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "relations"
+      ],
+      "url": "https://raw.githubusercontent.com/sunblaze-ucb/AgentSynth/HEAD/README.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-17T15:37:00Z",
+      "role": "primary",
+      "sha256": "e08f08a99b8cb3a4bb857a9fac976b2820f9ad406d66675b0286e880dfeeceaa",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/repos/sunblaze-ucb/AgentSynth"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:25:20Z",
+      "role": "primary",
+      "sha256": "b0998652a9b6b465444c2bbeef015bdbef50e83984a3bd15725f0e811645ca62",
+      "supports": [
+        "identity",
+        "release_status",
+        "details.repository_tree_sha"
+      ],
+      "url": "https://api.github.com/repos/sunblaze-ucb/AgentSynth/git/trees/main?recursive=1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:35:19Z",
+      "role": "primary",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/sunblaze-ucb/AgentSynth/HEAD/LICENSE"
+    }
+  ],
+  "id": "github:sunblaze-ucb/agentsynth",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-18T04:27:12Z",
+  "licenses": {
+    "code": {
+      "basis": "Reviewed repository license declaration for code; third-party dependencies, data, weights and executable environment images are separate.",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-18T04:35:19Z",
+      "url": "https://raw.githubusercontent.com/sunblaze-ucb/AgentSynth/HEAD/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/sunblaze-ucb/AgentSynth"
+    }
+  ],
+  "name": "AgentSynth task-generation pipeline",
+  "notes": "Released code includes task-generation and training-format conversion scripts. OSWorld/InSTA environments and model services require separate setup; the repository is not a bundled VM or model checkpoint. Code and the separately published dataset have distinct license declarations.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://raw.githubusercontent.com/sunblaze-ucb/AgentSynth/HEAD/README.md",
+      "target_id": "arxiv:2506.14205",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Generates synthetic computer-use tasks and records trajectories in OSWorld desktop environments and InSTA browser environments.",
+  "topics": [
+    "data-generation",
+    "long-horizon",
+    "automation"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/sunblaze-ucb/AgentSynth"
+}

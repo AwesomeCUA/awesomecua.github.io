@@ -43,10 +43,7 @@
       ],
       "setting": "interactive"
     },
-    "evaluation_type": null,
-    "leaderboard_url": null,
-    "metrics": [],
-    "task_count": null
+    "leaderboard_url": "https://appworld.dev/appworld/leaderboard"
   },
   "environments": [
     "unspecified"
@@ -65,7 +62,8 @@
         "topics",
         "scope",
         "relations",
-        "details.benchmark_protocol"
+        "details.benchmark_protocol",
+        "details.leaderboard_url"
       ],
       "url": "https://raw.githubusercontent.com/stonybrooknlp/appworld/HEAD/README.md"
     },

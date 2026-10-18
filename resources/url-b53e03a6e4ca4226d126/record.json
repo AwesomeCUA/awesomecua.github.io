@@ -30,8 +30,6 @@
       ],
       "setting": "interactive"
     },
-    "evaluation_type": null,
-    "leaderboard_url": null,
     "license_review": {
       "data": {
         "evidence_urls": [
@@ -40,9 +38,7 @@
         "reason": "Dataset-card declaration for the MobBench task-definition release only."
       }
     },
-    "metrics": [],
-    "release_revision": "28941d10c49a16efb991d4157e512e14204bf3d6",
-    "task_count": null
+    "release_revision": "28941d10c49a16efb991d4157e512e14204bf3d6"
   },
   "environments": [
     "android"

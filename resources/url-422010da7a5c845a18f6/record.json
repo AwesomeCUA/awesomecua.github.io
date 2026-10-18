@@ -26,10 +26,8 @@
         "GUI post-training trajectories"
       ]
     },
-    "download_url": null,
     "gated": false,
     "hub_id": "hkust-nlp/GUIMid",
-    "languages": [],
     "license_review": {
       "data": {
         "evidence_urls": [
@@ -38,10 +36,7 @@
         "reason": "Publisher dataset-card declaration for the released packaging; original source datasets retain their own terms."
       }
     },
-    "modalities": [],
-    "release_revision": "b6a360815c843b5733674191b6e6d7fa68b2ea8c",
-    "sample_count": null,
-    "sample_unit": null
+    "release_revision": "b6a360815c843b5733674191b6e6d7fa68b2ea8c"
   },
   "environments": [
     "web",

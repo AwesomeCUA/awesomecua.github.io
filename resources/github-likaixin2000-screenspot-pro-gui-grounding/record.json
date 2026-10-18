@@ -32,10 +32,7 @@
       ],
       "setting": "offline"
     },
-    "evaluation_type": null,
-    "leaderboard_url": null,
-    "metrics": [],
-    "task_count": null
+    "leaderboard_url": "https://gui-agent.github.io/grounding-leaderboard"
   },
   "environments": [
     "desktop",
@@ -57,7 +54,8 @@
         "topics",
         "scope",
         "relations",
-        "details.benchmark_protocol"
+        "details.benchmark_protocol",
+        "details.leaderboard_url"
       ],
       "url": "https://raw.githubusercontent.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding/HEAD/readme.md"
     },

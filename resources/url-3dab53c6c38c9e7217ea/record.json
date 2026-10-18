@@ -26,11 +26,7 @@
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/showlab/ShowUI-pi-data/tree/main",
     "gated": false,
-    "hub_id": "showlab/ShowUI-pi-data",
-    "languages": [],
-    "modalities": [],
-    "sample_count": null,
-    "sample_unit": null
+    "hub_id": "showlab/ShowUI-pi-data"
   },
   "environments": [
     "desktop"

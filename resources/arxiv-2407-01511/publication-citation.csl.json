@@ -1,0 +1,133 @@
+{
+  "id": "arxiv:2407.01511:publication",
+  "citation-key": "arxiv_2407_01511_publication",
+  "type": "paper-conference",
+  "title": "CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents",
+  "URL": "https://aclanthology.org/2025.findings-acl.1113/",
+  "custom": {
+    "catalog_id": "arxiv:2407.01511",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2407.01511",
+    "identifiers": {
+      "arxiv": "2407.01511"
+    },
+    "first_published_at": "2024-07-01",
+    "record_updated_at": "2025-07-20",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "12e5464ea0fc62bd566f19d301b887826b7ff317cfc27c86fa0cda8d3de271d9",
+      "submitted_at": "2024-07-01T17:55:04Z",
+      "updated_at": "2025-07-20T13:42:07Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2407.01511v4"
+    },
+    "publication": {
+      "authors": [
+        "Tianqi Xu",
+        "Linyao Chen",
+        "Dai-Jie Wu",
+        "Yanjun Chen",
+        "Zecheng Zhang",
+        "Xiang Yao",
+        "Zhiqiang Xie (谢志强)",
+        "Yongchao Chen",
+        "Shilong Liu",
+        "Bochen Qian",
+        "Anjie Yang",
+        "Zhaoxuan Jin",
+        "Jianbo Deng",
+        "Philip Torr",
+        "Bernard Ghanem",
+        "Guohao Li"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/7. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        7
+      ],
+      "doi": "10.18653/v1/2025.findings-acl.1113",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.findings-acl.1113/"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+      "pages": "21607-21647",
+      "pdf_url": "https://aclanthology.org/2025.findings-acl.1113.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.findings-acl.1113/",
+      "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2025-07.",
+  "author": [
+    {
+      "literal": "Tianqi Xu"
+    },
+    {
+      "literal": "Linyao Chen"
+    },
+    {
+      "literal": "Dai-Jie Wu"
+    },
+    {
+      "literal": "Yanjun Chen"
+    },
+    {
+      "literal": "Zecheng Zhang"
+    },
+    {
+      "literal": "Xiang Yao"
+    },
+    {
+      "literal": "Zhiqiang Xie (谢志强)"
+    },
+    {
+      "literal": "Yongchao Chen"
+    },
+    {
+      "literal": "Shilong Liu"
+    },
+    {
+      "literal": "Bochen Qian"
+    },
+    {
+      "literal": "Anjie Yang"
+    },
+    {
+      "literal": "Zhaoxuan Jin"
+    },
+    {
+      "literal": "Jianbo Deng"
+    },
+    {
+      "literal": "Philip Torr"
+    },
+    {
+      "literal": "Bernard Ghanem"
+    },
+    {
+      "literal": "Guohao Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7
+      ]
+    ]
+  },
+  "DOI": "10.18653/v1/2025.findings-acl.1113",
+  "container-title": "Findings of the Association for Computational Linguistics: ACL 2025",
+  "publisher": "Association for Computational Linguistics",
+  "page": "21607-21647"
+}

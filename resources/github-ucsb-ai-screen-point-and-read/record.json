@@ -5,12 +5,7 @@
     "https://github.com/eric-ai-lab/Screen-Point-and-Read"
   ],
   "authors": [],
-  "details": {
-    "evaluation_type": null,
-    "leaderboard_url": null,
-    "metrics": [],
-    "task_count": null
-  },
+  "details": {},
   "environments": [
     "cross-platform"
   ],

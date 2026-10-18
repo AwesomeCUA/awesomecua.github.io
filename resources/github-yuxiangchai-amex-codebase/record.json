@@ -32,12 +32,7 @@
         "UI functionality",
         "interaction trajectories"
       ]
-    },
-    "download_url": null,
-    "languages": [],
-    "modalities": [],
-    "sample_count": null,
-    "sample_unit": null
+    }
   },
   "environments": [
     "android"
@@ -66,9 +61,20 @@
       "role": "primary",
       "sha256": "c87e97eb397da04806d53145cf9c13be739fc657bb54dca9318c8c4ed2a36249",
       "supports": [
-        "details.dataset_profile"
+        "details.dataset_profile",
+        "relations"
       ],
       "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:27:11Z",
+      "role": "primary",
+      "sha256": "4aab61e6a95ab6b6598fb64b8e55d787cd49b5c4f242d15372aed2dd312f97aa",
+      "supports": [
+        "relations"
+      ],
+      "url": "https://yxchai.com/AMEX/"
     },
     {
       "method": "license_header",
@@ -105,7 +111,13 @@
   "name": "AMEX",
   "notes": "",
   "published_at": null,
-  "relations": [],
+  "relations": [
+    {
+      "evidence_url": "https://yxchai.com/AMEX/",
+      "target_id": "arxiv:2407.17490",
+      "type": "documented_by"
+    }
+  ],
   "review_status": "curated",
   "scope": "core",
   "summary": "Code for AMEX Android GUI data that converts its three annotation levels into question-answer pairs and fine-tunes a LLaMA2-Accessory model, with a released checkpoint.",

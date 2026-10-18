@@ -2,10 +2,7 @@
   "aliases": [],
   "authors": [],
   "details": {
-    "evaluation_type": null,
-    "leaderboard_url": null,
-    "metrics": [],
-    "task_count": null
+    "leaderboard_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRR3Wl7wsCgHpwUw1_eUXW_fptAPLL3FkhnW_rua0O1Ji_GIVrpTjY5LaKAhwO-WeARjnY_KNw0SYNJ/pubhtml"
   },
   "environments": [
     "cross-platform",
@@ -24,7 +21,8 @@
         "environments",
         "topics",
         "scope",
-        "relations"
+        "relations",
+        "details"
       ],
       "url": "https://raw.githubusercontent.com/THUDM/AgentBench/HEAD/README.md"
     },

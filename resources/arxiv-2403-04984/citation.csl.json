@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2403.04984",
+  "citation-key": "arxiv_2403_04984",
+  "type": "article",
+  "title": "UI Semantic Group Detection: Grouping UI Elements with Similar Semantics in Mobile Graphical User Interface",
+  "URL": "https://arxiv.org/abs/2403.04984v1",
+  "custom": {
+    "catalog_id": "arxiv:2403.04984",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2403.04984",
+    "identifiers": {
+      "arxiv": "2403.04984"
+    },
+    "first_published_at": "2024-03-08",
+    "record_updated_at": "2024-03-08",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f4bfed18cba0c946a8ae013c819d84d7f7b2c639b2e3471d6bf7890248c4530b",
+      "submitted_at": "2024-03-08T01:52:44Z",
+      "updated_at": "2024-03-08T01:52:44Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2403.04984v1"
+    }
+  },
+  "note": "First published: 2024-03-08; Recorded arXiv version: v1; Recorded version updated: 2024-03-08T01:52:44Z.",
+  "author": [
+    {
+      "literal": "Shuhong Xiao"
+    },
+    {
+      "literal": "Yunnong Chen"
+    },
+    {
+      "literal": "Yaxuan Song"
+    },
+    {
+      "literal": "Liuqing Chen"
+    },
+    {
+      "literal": "Lingyun Sun"
+    },
+    {
+      "literal": "Yankun Zhen"
+    },
+    {
+      "literal": "Yanfang Chang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2403.04984",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "arxiv:2403.02713:publication",
+  "citation-key": "arxiv_2403_02713_publication",
+  "type": "paper-conference",
+  "title": "Android in the Zoo: Chain-of-Action-Thought for GUI Agents",
+  "URL": "https://aclanthology.org/2024.findings-emnlp.702/",
+  "custom": {
+    "catalog_id": "arxiv:2403.02713",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2403.02713",
+    "identifiers": {
+      "arxiv": "2403.02713"
+    },
+    "first_published_at": "2024-03-05",
+    "record_updated_at": "2024-07-13",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4de9e7d68aa8450cab65ecb300524e85b1d2b2a91d58fecef370deceaba64b1e",
+      "submitted_at": "2024-03-05T07:09:35Z",
+      "updated_at": "2024-07-13T02:12:30Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2403.02713v2"
+    },
+    "publication": {
+      "authors": [
+        "Jiwen Zhang (张霁雯)",
+        "Jihao Wu",
+        "Teng Yihua",
+        "Minghui Liao",
+        "Nuo Xu",
+        "Xiao Xiao",
+        "Zhongyu Wei (魏忠钰)",
+        "Duyu Tang"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2024/11. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2024,
+        11
+      ],
+      "doi": "10.18653/v1/2024.findings-emnlp.702",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2024.findings-emnlp.702/"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity. The normalized publisher abstract matches the retained arXiv abstract SHA-256.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+      "pages": "12016-12031",
+      "pdf_url": "https://aclanthology.org/2024.findings-emnlp.702.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "Android in the Zoo: Chain-of-Action-Thought for GUI Agents",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2024.findings-emnlp.702/",
+      "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2024-11.",
+  "author": [
+    {
+      "literal": "Jiwen Zhang (张霁雯)"
+    },
+    {
+      "literal": "Jihao Wu"
+    },
+    {
+      "literal": "Teng Yihua"
+    },
+    {
+      "literal": "Minghui Liao"
+    },
+    {
+      "literal": "Nuo Xu"
+    },
+    {
+      "literal": "Xiao Xiao"
+    },
+    {
+      "literal": "Zhongyu Wei (魏忠钰)"
+    },
+    {
+      "literal": "Duyu Tang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        11
+      ]
+    ]
+  },
+  "DOI": "10.18653/v1/2024.findings-emnlp.702",
+  "container-title": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+  "publisher": "Association for Computational Linguistics",
+  "page": "12016-12031"
+}

@@ -33,7 +33,6 @@
       ]
     },
     "download_url": "https://huggingface.co/datasets/AutoGUI/AutoGUI-v1-702k/tree/main",
-    "languages": [],
     "modalities": [
       "image",
       "text",

@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2506.07976",
+  "citation-key": "arxiv_2506_07976",
+  "type": "article",
+  "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+  "URL": "https://arxiv.org/abs/2506.07976v2",
+  "custom": {
+    "catalog_id": "arxiv:2506.07976",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2506.07976",
+    "identifiers": {
+      "arxiv": "2506.07976"
+    },
+    "first_published_at": "2025-06-09",
+    "record_updated_at": "2025-06-10",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e4b6c8b297e88dae689ba2a48724a441698cd5309a3bbe1198f38343e88aceb1",
+      "submitted_at": "2025-06-09T17:50:02Z",
+      "updated_at": "2025-06-10T12:50:18Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2506.07976v2"
+    }
+  },
+  "note": "First published: 2025-06-09; Recorded arXiv version: v2; Recorded version updated: 2025-06-10T12:50:18Z.",
+  "author": [
+    {
+      "literal": "Junhong Shen"
+    },
+    {
+      "literal": "Hao Bai"
+    },
+    {
+      "literal": "Lunjun Zhang"
+    },
+    {
+      "literal": "Yifei Zhou"
+    },
+    {
+      "literal": "Amrith Setlur"
+    },
+    {
+      "literal": "Shengbang Tong"
+    },
+    {
+      "literal": "Diego Caples"
+    },
+    {
+      "literal": "Nan Jiang"
+    },
+    {
+      "literal": "Tong Zhang"
+    },
+    {
+      "literal": "Ameet Talwalkar"
+    },
+    {
+      "literal": "Aviral Kumar"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        6,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2506.07976",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -2,10 +2,7 @@
   "aliases": [],
   "authors": [],
   "details": {
-    "evaluation_type": null,
-    "leaderboard_url": null,
-    "metrics": [],
-    "task_count": null
+    "leaderboard_url": "https://osu-nlp-group.github.io/Mind2Web-2/#leaderboard"
   },
   "environments": [
     "web"
@@ -23,7 +20,8 @@
         "environments",
         "topics",
         "scope",
-        "relations"
+        "relations",
+        "details"
       ],
       "url": "https://raw.githubusercontent.com/OSU-NLP-Group/Mind2Web-2/HEAD/README.md"
     },

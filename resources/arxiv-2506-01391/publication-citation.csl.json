@@ -1,0 +1,169 @@
+{
+  "id": "arxiv:2506.01391:publication",
+  "citation-key": "arxiv_2506_01391_publication",
+  "type": "paper-conference",
+  "title": "AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning",
+  "URL": "https://aclanthology.org/2025.emnlp-demos.12/",
+  "custom": {
+    "catalog_id": "arxiv:2506.01391",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2506.01391",
+    "identifiers": {
+      "arxiv": "2506.01391"
+    },
+    "first_published_at": "2025-06-02",
+    "record_updated_at": "2025-06-17",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3c0b2a065898ba4f73fcb5e5b2e92d723b0b55ac6caa46d5bf02d44eb7a2cdd9",
+      "submitted_at": "2025-06-02T07:30:29Z",
+      "updated_at": "2025-06-17T02:57:04Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2506.01391v2"
+    },
+    "publication": {
+      "authors": [
+        "Zhong Zhang",
+        "Yaxi Lu",
+        "Yikun Fu",
+        "Yupeng Huo",
+        "Shenzhi Yang",
+        "Yesai Wu",
+        "Han Si (司函)",
+        "Xin Cong",
+        "Haotian Chen",
+        "Yankai Lin (林衍凯)",
+        "Jie Xie",
+        "Wei Zhou",
+        "Wang Xu",
+        "Yuanheng Zhang",
+        "Zhou Su",
+        "Zhongwu Zhai",
+        "Xiaoming Liu",
+        "Yudong Mei",
+        "Jianming Xu",
+        "Hongyan Tian",
+        "Chongyi Wang",
+        "Chi Chen",
+        "Yuan Yao",
+        "Zhiyuan Liu",
+        "Maosong Sun (孙茂松)"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025/11. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        11
+      ],
+      "doi": "10.18653/v1/2025.emnlp-demos.12",
+      "event_dates": null,
+      "evidence_urls": [
+        "https://aclanthology.org/2025.emnlp-demos.12/"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+      "pages": "155-180",
+      "pdf_url": "https://aclanthology.org/2025.emnlp-demos.12.pdf",
+      "publisher": "Association for Computational Linguistics",
+      "series": null,
+      "title": "AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning",
+      "type": "conference-paper",
+      "url": "https://aclanthology.org/2025.emnlp-demos.12/",
+      "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: System Demonstrations",
+      "volume": null
+    },
+    "citation_edition": "publication"
+  },
+  "note": "Publication date: 2025-11.",
+  "author": [
+    {
+      "literal": "Zhong Zhang"
+    },
+    {
+      "literal": "Yaxi Lu"
+    },
+    {
+      "literal": "Yikun Fu"
+    },
+    {
+      "literal": "Yupeng Huo"
+    },
+    {
+      "literal": "Shenzhi Yang"
+    },
+    {
+      "literal": "Yesai Wu"
+    },
+    {
+      "literal": "Han Si (司函)"
+    },
+    {
+      "literal": "Xin Cong"
+    },
+    {
+      "literal": "Haotian Chen"
+    },
+    {
+      "literal": "Yankai Lin (林衍凯)"
+    },
+    {
+      "literal": "Jie Xie"
+    },
+    {
+      "literal": "Wei Zhou"
+    },
+    {
+      "literal": "Wang Xu"
+    },
+    {
+      "literal": "Yuanheng Zhang"
+    },
+    {
+      "literal": "Zhou Su"
+    },
+    {
+      "literal": "Zhongwu Zhai"
+    },
+    {
+      "literal": "Xiaoming Liu"
+    },
+    {
+      "literal": "Yudong Mei"
+    },
+    {
+      "literal": "Jianming Xu"
+    },
+    {
+      "literal": "Hongyan Tian"
+    },
+    {
+      "literal": "Chongyi Wang"
+    },
+    {
+      "literal": "Chi Chen"
+    },
+    {
+      "literal": "Yuan Yao"
+    },
+    {
+      "literal": "Zhiyuan Liu"
+    },
+    {
+      "literal": "Maosong Sun (孙茂松)"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        11
+      ]
+    ]
+  },
+  "DOI": "10.18653/v1/2025.emnlp-demos.12",
+  "container-title": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: System Demonstrations",
+  "publisher": "Association for Computational Linguistics",
+  "page": "155-180"
+}

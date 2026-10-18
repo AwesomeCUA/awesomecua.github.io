@@ -45,12 +45,7 @@
         "absent-target abstention"
       ]
     },
-    "download_url": null,
-    "languages": [],
-    "license_name": "restricted-research-only",
-    "modalities": [],
-    "sample_count": null,
-    "sample_unit": null
+    "license_name": "restricted-research-only"
   },
   "environments": [
     "desktop",

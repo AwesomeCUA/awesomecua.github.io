@@ -40,10 +40,8 @@
     },
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/microsoft/WebTailBench/tree/main",
-    "evaluation_type": null,
     "gated": false,
     "hub_id": "microsoft/WebTailBench",
-    "leaderboard_url": null,
     "license_review": {
       "data": {
         "evidence_urls": [
@@ -51,9 +49,7 @@
         ],
         "reason": "The benchmark's Hub dataset card declares MIT in its metadata header (license: mit)."
       }
-    },
-    "metrics": [],
-    "task_count": null
+    }
   },
   "environments": [
     "web"

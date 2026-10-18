@@ -40,12 +40,7 @@
         "cross-app trajectories",
         "action grounding"
       ]
-    },
-    "download_url": null,
-    "languages": [],
-    "modalities": [],
-    "sample_count": null,
-    "sample_unit": null
+    }
   },
   "environments": [
     "android"

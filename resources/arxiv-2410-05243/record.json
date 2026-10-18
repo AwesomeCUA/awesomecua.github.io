@@ -18,6 +18,41 @@
       "updated_at": "2025-06-17T15:06:02Z",
       "version": 3,
       "versioned_url": "https://arxiv.org/abs/2410.05243v3"
+    },
+    "publication": {
+      "authors": [
+        "Boyu Gou",
+        "Demi Ruohan Wang",
+        "Boyuan Zheng",
+        "Yanan Xie",
+        "Cheng Chang",
+        "Yiheng Shu",
+        "Huan Sun",
+        "Yu Su"
+      ],
+      "date_basis": "Explicit publisher citation_publication_date: 2025-05-01. Preserve supplied precision; do not substitute conference event dates.",
+      "date_parts": [
+        2025,
+        5,
+        1
+      ],
+      "doi": null,
+      "event_dates": null,
+      "evidence_urls": [
+        "https://proceedings.iclr.cc/paper_files/paper/2025/hash/4ca0e369689dadb25a5345ba9755ad6f-Abstract-Conference.html"
+      ],
+      "identity_basis": "Same work: normalized title, ordered author correspondence and the specific contribution in the complete publisher abstract were reviewed against the retained arXiv identity.",
+      "issue": null,
+      "notes": "Publisher proceedings edition; retained separately from the arXiv snapshot. Publisher spelling, initials, name annotations or author lists differ from the retained preprint.",
+      "pages": "30851-30883",
+      "pdf_url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/4ca0e369689dadb25a5345ba9755ad6f-Paper-Conference.pdf",
+      "publisher": null,
+      "series": null,
+      "title": "Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents",
+      "type": "conference-paper",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/4ca0e369689dadb25a5345ba9755ad6f-Abstract-Conference.html",
+      "venue": "International Conference on Learning Representations",
+      "volume": "2025"
     }
   },
   "environments": [
@@ -38,6 +73,27 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=800&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:10:01Z",
+      "role": "primary",
+      "sha256": "4e7384659700d8bc8e1f56de671c0d943f15b8c682bdff0fbfb20f41c707b7ff",
+      "supports": [
+        "details.publication.authors",
+        "details.publication.date_basis",
+        "details.publication.date_parts",
+        "details.publication.identity_basis",
+        "details.publication.notes",
+        "details.publication.pages",
+        "details.publication.pdf_url",
+        "details.publication.title",
+        "details.publication.type",
+        "details.publication.url",
+        "details.publication.venue",
+        "details.publication.volume"
+      ],
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/4ca0e369689dadb25a5345ba9755ad6f-Abstract-Conference.html"
     },
     {
       "method": "editorial_primary_review",
@@ -72,6 +128,14 @@
     {
       "rel": "primary",
       "url": "https://arxiv.org/abs/2410.05243"
+    },
+    {
+      "rel": "publication",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/4ca0e369689dadb25a5345ba9755ad6f-Abstract-Conference.html"
+    },
+    {
+      "rel": "publication_pdf",
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/4ca0e369689dadb25a5345ba9755ad6f-Paper-Conference.pdf"
     }
   ],
   "name": "Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents",

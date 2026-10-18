@@ -32,11 +32,7 @@
         "GUI grounding"
       ]
     },
-    "download_url": "https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/tree/main",
-    "languages": [],
-    "modalities": [],
-    "sample_count": null,
-    "sample_unit": null
+    "download_url": "https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/tree/main"
   },
   "environments": [
     "desktop",
@@ -71,6 +67,26 @@
         "details.dataset_profile"
       ],
       "url": "https://raw.githubusercontent.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding/HEAD/eval_screenspot_pro.py"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-16T06:36:54Z",
+      "role": "primary",
+      "sha256": "4953a8e0f029016aef668bce98cec4d2873a7ae49c1fe33c4311fa5eb8d24089",
+      "supports": [
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T04:27:10Z",
+      "role": "primary",
+      "sha256": "2f7f635dee3c593b40efc61246c082ab1d76f7ce78f84a1d4b6391d30fa4e8fd",
+      "supports": [
+        "relations"
+      ],
+      "url": "https://gui-agent.github.io/grounding-leaderboard/"
     },
     {
       "method": "huggingface_card",
@@ -108,6 +124,11 @@
   "notes": "This is the benchmark data asset, distinct from its evaluation-code repository. Target counts are not unique image counts.",
   "published_at": null,
   "relations": [
+    {
+      "evidence_url": "https://gui-agent.github.io/grounding-leaderboard/",
+      "target_id": "arxiv:2504.07981",
+      "type": "documented_by"
+    },
     {
       "evidence_url": "https://huggingface.co/datasets/likaixin/ScreenSpot-Pro/raw/main/README.md",
       "target_id": "github:likaixin2000/screenspot-pro-gui-grounding",

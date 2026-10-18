@@ -5,11 +5,7 @@
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/ritzzai/GUI-R1/tree/main",
     "gated": false,
-    "hub_id": "ritzzai/GUI-R1",
-    "languages": [],
-    "modalities": [],
-    "sample_count": null,
-    "sample_unit": null
+    "hub_id": "ritzzai/GUI-R1"
   },
   "environments": [
     "desktop",

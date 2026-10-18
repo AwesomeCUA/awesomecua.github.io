@@ -42,12 +42,8 @@
     },
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/vivo-ai/MobileGUI-VBench/tree/main",
-    "evaluation_type": null,
     "gated": false,
-    "hub_id": "vivo-ai/MobileGUI-VBench",
-    "leaderboard_url": null,
-    "metrics": [],
-    "task_count": null
+    "hub_id": "vivo-ai/MobileGUI-VBench"
   },
   "environments": [
     "unspecified"

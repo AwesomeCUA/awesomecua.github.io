@@ -1,0 +1,23 @@
+{
+  "status": "excluded",
+  "id": "arxiv:2511.07885",
+  "reason": "The study benchmarks local language-model accuracy and energy efficiency on single-turn chat and reasoning queries across hardware configurations. Its evaluated task is language-model inference rather than computer-interface interaction.",
+  "decision": {
+    "id": "arxiv:2511.07885",
+    "name": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+    "url": "https://arxiv.org/abs/2511.07885",
+    "decision": "out_of_scope",
+    "basis": "primary_abstract_review",
+    "reason": "The study benchmarks local language-model accuracy and energy efficiency on single-turn chat and reasoning queries across hardware configurations. Its evaluated task is language-model inference rather than computer-interface interaction.",
+    "reviewed_at": "2026-10-18T04:30:20.087612+00:00",
+    "metadata_fingerprint": "5354243ba3be82ffd5f54c1de376f173c9a022d5e3e60f9958e85e2bd2461f9e",
+    "evidence": {
+      "url": "https://export.arxiv.org/api/query?id_list=2210.03347%2C2403.04984%2C2405.07090%2C2406.06282%2C2409.00088%2C2409.10811%2C2411.10943%2C2503.09241%2C2503.20279%2C2503.23350%2C2505.05440%2C2505.10593%2C2505.16422%2C2505.21279%2C2505.24878%2C2506.02153%2C2506.02839%2C2506.05079%2C2506.07976%2C2508.02046%2C2511.07885%2C2511.11248%2C2512.21720%2C2603.20351%2C2604.19299&max_results=25",
+      "sha256": "c194d15b7e422aae48b4e05216a1f1d84471b6666718b9d3dd4c9d250c356e77",
+      "retrieved_at": "2026-10-18T04:21:52Z"
+    },
+    "status": "excluded",
+    "status_reason": "Reviewed snapshot matches retained metadata."
+  },
+  "ledger_url": "https://awesomecua.github.io/downloads/exclusions.json"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2508.02046",
+  "citation-key": "arxiv_2508_02046",
+  "type": "article",
+  "title": "NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks",
+  "URL": "https://arxiv.org/abs/2508.02046v4",
+  "custom": {
+    "catalog_id": "arxiv:2508.02046",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2508.02046",
+    "identifiers": {
+      "arxiv": "2508.02046"
+    },
+    "first_published_at": "2025-08-04",
+    "record_updated_at": "2026-05-02",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e892ab93511f4164f37ef79ac0473e3c1eed7d6ec11fb6c8ec82092f26c5ca68",
+      "submitted_at": "2025-08-04T04:28:18Z",
+      "updated_at": "2026-05-02T12:32:44Z",
+      "version": 4,
+      "versioned_url": "https://arxiv.org/abs/2508.02046v4"
+    }
+  },
+  "note": "First published: 2025-08-04; Recorded arXiv version: v4; Recorded version updated: 2026-05-02T12:32:44Z.",
+  "author": [
+    {
+      "literal": "Zhihao Luo"
+    },
+    {
+      "literal": "Wentao Yan"
+    },
+    {
+      "literal": "Jingyu Gong"
+    },
+    {
+      "literal": "Min Wang"
+    },
+    {
+      "literal": "Zhizhong Zhang"
+    },
+    {
+      "literal": "Xuhong Wang"
+    },
+    {
+      "literal": "Yuan Xie"
+    },
+    {
+      "literal": "Xin Tan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        8,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2508.02046",
+  "genre": "preprint",
+  "version": "4"
+}

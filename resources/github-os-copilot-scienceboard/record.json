@@ -44,11 +44,7 @@
         "set-of-marks with accessibility tree"
       ],
       "setting": "interactive"
-    },
-    "evaluation_type": null,
-    "leaderboard_url": null,
-    "metrics": [],
-    "task_count": null
+    }
   },
   "environments": [
     "desktop"

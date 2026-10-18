@@ -33,11 +33,7 @@
         "screen-element detections"
       ],
       "setting": "interactive"
-    },
-    "evaluation_type": null,
-    "leaderboard_url": null,
-    "metrics": [],
-    "task_count": null
+    }
   },
   "environments": [
     "windows",

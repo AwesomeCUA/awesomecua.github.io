@@ -5,11 +5,7 @@
     "disabled": false,
     "download_url": "https://huggingface.co/datasets/LZXzju/UI-R1-3B-Train/tree/main",
     "gated": false,
-    "hub_id": "LZXzju/UI-R1-3B-Train",
-    "languages": [],
-    "modalities": [],
-    "sample_count": null,
-    "sample_unit": null
+    "hub_id": "LZXzju/UI-R1-3B-Train"
   },
   "environments": [
     "android"
