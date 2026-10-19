@@ -163392,6 +163392,88 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2607.28050v1",
+    "archive": "arXiv",
+    "archive_location": "2607.28050",
+    "author": [
+      {
+        "literal": "Nianchen Deng"
+      },
+      {
+        "literal": "Jiaxin Ai"
+      },
+      {
+        "literal": "Tao Hu"
+      },
+      {
+        "literal": "Shu Zou"
+      },
+      {
+        "literal": "Yurui Dong"
+      },
+      {
+        "literal": "Siqi Li"
+      },
+      {
+        "literal": "Xinyu Cai"
+      },
+      {
+        "literal": "Xuemeng Yang"
+      },
+      {
+        "literal": "Licheng Wen"
+      },
+      {
+        "literal": "Hongbin Zhou"
+      },
+      {
+        "literal": "Hairong Zhang"
+      },
+      {
+        "literal": "Pinlong Cai"
+      },
+      {
+        "literal": "Botian Shi"
+      }
+    ],
+    "citation-key": "arxiv_2607_28050",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "99c9308a622318b8ddd77cde6e843746e4039483f3e1e89f27bc99738890f003",
+        "submitted_at": "2026-07-30T11:28:21Z",
+        "updated_at": "2026-07-30T11:28:21Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2607.28050v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.28050",
+      "catalog_id": "arxiv:2607.28050",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-07-30",
+      "identifiers": {
+        "arxiv": "2607.28050"
+      },
+      "record_updated_at": "2026-07-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.28050",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-30; Recorded arXiv version: v1; Recorded version updated: 2026-07-30T11:28:21Z.",
+    "title": "IndustryForge-27B: A Domain-Enhanced Multimodal Foundation Model for Industrial CAD",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2607.28074v1",
     "archive": "arXiv",
     "archive_location": "2607.28074",

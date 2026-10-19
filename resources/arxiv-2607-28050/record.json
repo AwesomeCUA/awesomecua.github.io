@@ -1,0 +1,76 @@
+{
+  "aliases": [],
+  "authors": [
+    "Nianchen Deng",
+    "Jiaxin Ai",
+    "Tao Hu",
+    "Shu Zou",
+    "Yurui Dong",
+    "Siqi Li",
+    "Xinyu Cai",
+    "Xuemeng Yang",
+    "Licheng Wen",
+    "Hongbin Zhou",
+    "Hairong Zhang",
+    "Pinlong Cai",
+    "Botian Shi"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "99c9308a622318b8ddd77cde6e843746e4039483f3e1e89f27bc99738890f003",
+      "submitted_at": "2026-07-30T11:28:21Z",
+      "updated_at": "2026-07-30T11:28:21Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2607.28050v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-19T15:37:15Z",
+      "role": "primary",
+      "sha256": "4d02c402f4cadeee710c838f7edfd2c720346dc1afc54d9a3f1b75736035954b",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2607.28050&max_results=1"
+    }
+  ],
+  "id": "arxiv:2607.28050",
+  "identifiers": {
+    "arxiv": "2607.28050"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-19T15:37:15Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2607.28050"
+    }
+  ],
+  "name": "IndustryForge-27B: A Domain-Enhanced Multimodal Foundation Model for Industrial CAD",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2026-07-30",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-07-30",
+  "url": "https://arxiv.org/abs/2607.28050"
+}
