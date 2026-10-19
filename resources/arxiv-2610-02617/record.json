@@ -1,0 +1,88 @@
+{
+  "aliases": [],
+  "authors": [
+    "Yun-Yun Tsai",
+    "Yuning Mao",
+    "Shiqi Wang",
+    "Junfeng Yang",
+    "Sinong Wang"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7ed117876ece99f55e241e6365d0e785b907f9a7a24cceb01b1fd757191a35c9",
+      "submitted_at": "2026-10-02T00:17:11Z",
+      "updated_at": "2026-10-02T00:17:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.02617v1"
+    }
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-18T10:00:31.520084+00:00",
+      "role": "primary",
+      "sha256": "f053c4c65f6443acbda26e25cf36f7b6e8ea45f2916535604229f7c4e62ed679",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22UI+agent%22+OR+ti%3A%22desktop+agent%22+OR+ti%3A%22screen+grounding%22%29+AND+submittedDate%3A%5B200001010000+TO+202610180000%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T10:00:31.520084+00:00",
+      "role": "primary",
+      "sha256": "f053c4c65f6443acbda26e25cf36f7b6e8ea45f2916535604229f7c4e62ed679",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22UI+agent%22+OR+ti%3A%22desktop+agent%22+OR+ti%3A%22screen+grounding%22%29+AND+submittedDate%3A%5B200001010000+TO+202610180000%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2610.02617",
+  "identifiers": {
+    "arxiv": "2610.02617"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-18T10:00:31.520084+00:00",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2610.02617"
+    }
+  ],
+  "name": "WebUIProof: Benchmarking WebUI Code Generators with UI-Agent Execution Harness",
+  "notes": "Adjacent evaluation infrastructure: the target is generated WebUI functionality, not a general score for computer-use agents. This annotation is based on the complete retained abstract; released artifacts and experimental results were not independently inspected or reproduced.",
+  "published_at": "2026-10-02",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "adjacent",
+  "summary": "Introduces an execution-based benchmark for generated web interfaces, with a headless-browser UI-agent harness that checks DOM interactions and functional assertions.",
+  "topics": [
+    "evaluation",
+    "web-navigation",
+    "ui-design"
+  ],
+  "updated_at": "2026-10-02",
+  "url": "https://arxiv.org/abs/2610.02617"
+}

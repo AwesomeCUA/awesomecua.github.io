@@ -120,6 +120,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/grounding/rec
   Introduces CUActSpot to evaluate clicks, drags, drawing and other screen interactions across GUI, text, tables, canvases and natural images. A renderer-based pipeline records geometry and screenshots, then generates matching instructions and action traces for training a grounding model.
 - [What Happens Before Decoding? Prefill Determines GUI Grounding in VLMs](https://awesomecua.github.io/resources/arxiv-2605-12549/) — 2026-05-10
   Re-Prefill adds an attention-guided second prefill pass that revisits candidate screen regions before coordinate generation. The study evaluates this training-free intervention across GUI-grounding models and benchmarks.
+- [X-OmniClaw Technical Report: A Unified Mobile Agent for Multimodal Understanding and Interaction](https://awesomecua.github.io/resources/arxiv-2605-05765/) — 2026-05-07
+  Describes an Android agent architecture combining multimodal perception, working and personal memory, hybrid XML/visual grounding, and reusable skills captured from user interactions.
 - [AutoFocus: Uncertainty-Aware Active Visual Search for GUI Grounding](https://awesomecua.github.io/resources/arxiv-2605-02630/) — 2026-05-04
   Presents AutoFocus, a training-free grounding method that turns sampled coordinates and token uncertainty into spatial region proposals. Shape-aware crops and visual comparison select a target while retaining surrounding interface context.
 - [A11y-Compressor: A Framework for Enhancing the Efficiency of GUI Agent Observations through Visual Context Reconstruction and Redundancy Reduction](https://awesomecua.github.io/resources/arxiv-2605-00551/) — 2026-05-01
@@ -262,6 +264,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/grounding/rec
   Introduces SparkUI-Parser, which adds continuous coordinate decoding and a rejection mechanism for nonexistent targets to a multimodal model. It also presents ScreenParse for evaluating structural interface perception.
 - [Learning Active Perception via Self-Evolving Preference Optimization for GUI Grounding](https://awesomecua.github.io/resources/arxiv-2509-04243/) — 2025-09-04
   LASER builds preference data for multi-step GUI perception by combining Monte Carlo quality estimates with region-overlap evaluation. Its self-evolving training encourages relevant region selection and adapts the amount of reasoning before predicting screen coordinates.
+- [AppCopilot: Toward General, Accurate, Long-Horizon, and Efficient Mobile Agent](https://awesomecua.github.io/resources/arxiv-2509-02444/) — 2025-09-02
+  Describes a mobile-agent stack combining region-based coordinate correction, hierarchical task planning, multi-agent voting, and reuse of successful interaction traces.
 - [UItron: Foundational GUI Agent with Advanced Perception and Planning](https://awesomecua.github.io/resources/arxiv-2508-21767/) — 2025-08-29
   UItron combines GUI perception and planning data engineering with supervised training and curriculum reinforcement learning in connected mobile and PC environments. It also collects more than one million operation steps across 100 Chinese apps and builds offline and online evaluation environments.
 - [WebSight: A Vision-First Architecture for Robust Web Agents](https://awesomecua.github.io/resources/arxiv-2508-16987/) — 2025-08-23

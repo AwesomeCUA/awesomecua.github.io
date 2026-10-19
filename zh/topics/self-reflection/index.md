@@ -14,6 +14,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/self-reflecti
   Introduces Evidence-First Reflection, which separates extraction of action-induced screen changes from judgment of whether an operation achieved its objective. It filters visual differences into relevant evidence before a desktop agent’s reflector decides how execution should continue.
 - [LookAgain: Closed-Loop GUI Grounding with Visually Grounded Reflection](https://awesomecua.github.io/resources/arxiv-2608-09723/) — 2026-08-10
   LookAgain treats a GUI coordinate as a revisable hypothesis, rendering its marker and a local screenshot patch before confirmation. Reflective supervised trajectories provide a cold start, followed by GRPO using terminal grounding correctness.
+- [AndroidReality: How Far Are Mobile Agents from the Real World?](https://awesomecua.github.io/resources/arxiv-2608-07775/) — 2026-08-07
+  Extends AndroidWorld with controlled state, transition, and action perturbations to test mobile-agent robustness, and studies a training-free introspective recovery mechanism.
 - [StepReflect: Structured UI Transition Reflection for Mobile GUI Agents](https://awesomecua.github.io/resources/arxiv-2608-05587/) — 2026-08-06
   StepReflect predicts structured per-action reflections from transition specifications and paired visual evidence. The paper distinguishes offline transition-label accuracy from online task success when the reflection model is integrated into mobile agents.
 - [CUADebug: Diagnosing and Repairing Computer-Use Agent Failures](https://awesomecua.github.io/resources/arxiv-2608-02643/) — 2026-07-31

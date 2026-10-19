@@ -24,6 +24,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/web-navigatio
   Introduces CLIFT, which certifies agent-generated verification signals against training-time judges and reuses them for per-step rewards and trajectory selection. At inference, a frozen question bank helps compare candidate web rollouts without querying an external judge.
 - [WebFovea: When the Model Is Right but the Click Is Wrong -- Reliable Round Trips for Vision-Based Web Agents on Live Websites](https://awesomecua.github.io/resources/arxiv-2610-03036/) — 2026-10-02
   Describes WebFovea, a vision-based live-web agent whose execution loop checks action parsing, browser effects, feedback accuracy, and observation delivery. The report analyzes failures such as coordinate mismatches and silent control interactions and documents corresponding harness changes.
+- [WebUIProof: Benchmarking WebUI Code Generators with UI-Agent Execution Harness](https://awesomecua.github.io/resources/arxiv-2610-02617/) — 2026-10-02
+  Introduces an execution-based benchmark for generated web interfaces, with a headless-browser UI-agent harness that checks DOM interactions and functional assertions.
 - [Action Conditioned Bisimulation For GUI Agent Memory](https://awesomecua.github.io/resources/arxiv-2609-38778/) — 2026-09-30
   Defines a GUI-memory merge rule that treats two states as equivalent only when shared actions lead to matching outcomes and successor states. The training-free method replaces observation-similarity merging and is tested in closed-loop MiniWoB++ interaction.
 - [AdaptArena: Evaluating Test-Time Personalization of Web Agents](https://awesomecua.github.io/resources/arxiv-2609-36488/) — 2026-09-29
@@ -68,6 +70,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/web-navigatio
   WebRetriever evaluates navigation, knowledge-assisted interaction and end-to-end information-extraction workflows under separate protocols. Its NavEval judge uses richer interaction context to diagnose cases where navigation success does not translate into useful task completion.
 - [Untrusted Content Masking for Web Agents with Security Guarantees](https://awesomecua.github.io/resources/arxiv-2607-05277/) — 2026-07-06
   Untrusted Content Masking uses DOM structure to redact untrusted webpage regions before agent observation. A sandboxed interaction interface separates privileges so browser actions can proceed under the proposed trust-boundary model without exposing protected content to the planner.
+- [Navigation Alone Is Not Enough: Evaluating Explanatory Assistive UI Agents](https://awesomecua.github.io/resources/arxiv-2608-09944/) — 2026-07-01
+  Introduces NeXUI, an assistive UI-agent benchmark that evaluates navigation together with interface-grounded explanations and user oversight in recorded interface states.
 - [Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning](https://awesomecua.github.io/resources/arxiv-2606-27330/) — 2026-06-25
   PEEU explores web environments and turns hindsight experience into aligned high-level planning supervision. A hierarchical task-decomposition analysis examines why atomic-skill competence alone does not ensure planning generalization across websites.
 - [Fara-1.5: Scalable Learning Environments for Computer Use Agents](https://awesomecua.github.io/resources/arxiv-2606-20785/) — 2026-06-18

@@ -1,0 +1,46 @@
+{
+  "id": "arxiv:2608.09944",
+  "citation-key": "arxiv_2608_09944",
+  "type": "article",
+  "title": "Navigation Alone Is Not Enough: Evaluating Explanatory Assistive UI Agents",
+  "URL": "https://arxiv.org/abs/2608.09944v1",
+  "custom": {
+    "catalog_id": "arxiv:2608.09944",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2608.09944",
+    "identifiers": {
+      "arxiv": "2608.09944"
+    },
+    "first_published_at": "2026-07-01",
+    "record_updated_at": "2026-07-01",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d5ccb0d41798a1a3236e6f9b4361814cccdd40facf9b43bf0bf52932337484dc",
+      "submitted_at": "2026-07-01T16:24:07Z",
+      "updated_at": "2026-07-01T16:24:07Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2608.09944v1"
+    }
+  },
+  "note": "First published: 2026-07-01; Recorded arXiv version: v1; Recorded version updated: 2026-07-01T16:24:07Z.",
+  "author": [
+    {
+      "literal": "Santosh Patapati"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2608.09944",
+  "genre": "preprint",
+  "version": "1"
+}

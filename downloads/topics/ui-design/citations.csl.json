@@ -1147,6 +1147,64 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.02617v1",
+    "archive": "arXiv",
+    "archive_location": "2610.02617",
+    "author": [
+      {
+        "literal": "Yun-Yun Tsai"
+      },
+      {
+        "literal": "Yuning Mao"
+      },
+      {
+        "literal": "Shiqi Wang"
+      },
+      {
+        "literal": "Junfeng Yang"
+      },
+      {
+        "literal": "Sinong Wang"
+      }
+    ],
+    "citation-key": "arxiv_2610_02617",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7ed117876ece99f55e241e6365d0e785b907f9a7a24cceb01b1fd757191a35c9",
+        "submitted_at": "2026-10-02T00:17:11Z",
+        "updated_at": "2026-10-02T00:17:11Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.02617v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.02617",
+      "catalog_id": "arxiv:2610.02617",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-10-02",
+      "identifiers": {
+        "arxiv": "2610.02617"
+      },
+      "record_updated_at": "2026-10-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.02617",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-02; Recorded arXiv version: v1; Recorded version updated: 2026-10-02T00:17:11Z.",
+    "title": "WebUIProof: Benchmarking WebUI Code Generators with UI-Agent Execution Harness",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "DOI": "10.1145/3126594.3126651",
     "URL": "https://doi.org/10.1145/3126594.3126651",
     "author": [

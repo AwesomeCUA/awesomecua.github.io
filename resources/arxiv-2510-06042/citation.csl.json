@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2510.06042",
+  "citation-key": "arxiv_2510_06042",
+  "type": "article",
+  "title": "Agent+P: Guiding UI Agents via Symbolic Planning",
+  "URL": "https://arxiv.org/abs/2510.06042v3",
+  "custom": {
+    "catalog_id": "arxiv:2510.06042",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2510.06042",
+    "identifiers": {
+      "arxiv": "2510.06042"
+    },
+    "first_published_at": "2025-10-07",
+    "record_updated_at": "2026-09-27",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4bf0a561460c080b14da6fd13f6d92781e01e52b08dc691fe019e70b88e44c86",
+      "submitted_at": "2025-10-07T15:36:04Z",
+      "updated_at": "2026-09-27T17:25:57Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2510.06042v3"
+    }
+  },
+  "note": "First published: 2025-10-07; Recorded arXiv version: v3; Recorded version updated: 2026-09-27T17:25:57Z.",
+  "author": [
+    {
+      "literal": "Shang Ma"
+    },
+    {
+      "literal": "Xusheng Xiao"
+    },
+    {
+      "literal": "Yanfang Ye"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.06042",
+  "genre": "preprint",
+  "version": "3"
+}

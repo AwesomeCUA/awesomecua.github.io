@@ -6,6 +6,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/ui-design/rec
 
 ## 论文与综述
 
+- [WebUIProof: Benchmarking WebUI Code Generators with UI-Agent Execution Harness](https://awesomecua.github.io/resources/arxiv-2610-02617/) — 2026-10-02
+  Introduces an execution-based benchmark for generated web interfaces, with a headless-browser UI-agent harness that checks DOM interactions and functional assertions.
 - [A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents](https://awesomecua.github.io/resources/arxiv-2609-19843/) — 2026-09-17
   Studies how automatic defaults and reflective social-influence cues affect GUI-agent shopping decisions under different reasoning configurations. A randomized simulated-shopping experiment finds that reasoning changes the type of susceptibility rather than uniformly removing interface influence.
 - [From Blind Edits to Verified Repair: Building Trustworthy User-Side LLM Agents for Web Accessibility](https://awesomecua.github.io/resources/arxiv-2608-24913/) — 2026-07-26

@@ -1,0 +1,104 @@
+{
+  "aliases": [],
+  "authors": [
+    "Siyuan Liang",
+    "Tianmeng Fang",
+    "Zhe Liu",
+    "Aishan Liu",
+    "Yan Xiao",
+    "Jinyuan He",
+    "Ee-Chien Chang",
+    "Xiaochun Cao"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "78dd523ad6123fe1ee5164685a3853719c9a4442adac8661050f147ff6a9f619",
+      "submitted_at": "2025-07-01T15:10:00Z",
+      "updated_at": "2025-07-01T15:10:00Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2507.00841v1"
+    }
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-18T10:01:16.030926+00:00",
+      "role": "primary",
+      "sha256": "4dcd1ba66ba21c0f2cb2aeb00c8bcab7c0cee4da37ff2fa6c16b45066aaa9db0",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22UI+agent%22+OR+ti%3A%22desktop+agent%22+OR+ti%3A%22screen+grounding%22%29+AND+submittedDate%3A%5B200001010000+TO+202610180000%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T10:01:16.030926+00:00",
+      "role": "primary",
+      "sha256": "4dcd1ba66ba21c0f2cb2aeb00c8bcab7c0cee4da37ff2fa6c16b45066aaa9db0",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22UI+agent%22+OR+ti%3A%22desktop+agent%22+OR+ti%3A%22screen+grounding%22%29+AND+submittedDate%3A%5B200001010000+TO+202610180000%5D&start=700&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T10:10:56.912207+00:00",
+      "role": "primary",
+      "sha256": "a25da6700a238167d5e9915cf6fb3a4bcd910cefc300f4be6eed56271be26f00",
+      "supports": [
+        "summary",
+        "scope",
+        "environments",
+        "notes"
+      ],
+      "url": "https://arxiv.org/pdf/2507.00841v1"
+    }
+  ],
+  "id": "arxiv:2507.00841",
+  "identifiers": {
+    "arxiv": "2507.00841"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-18T10:01:16.030926+00:00",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2507.00841"
+    }
+  ],
+  "name": "SafeMobile: Chain-level Jailbreak Detection and Automated Evaluation for Multimodal Mobile Agents",
+  "notes": "The reviewed evaluation uses Android emulation and a specific MobileSafetyBench-derived setup. Its judge and score threshold are evaluator choices, not universal safety measurements, and its task population is not the whole later MobileSafetyBench corpus. No results were reproduced. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (II.B Defense objective; III Chain-level guard and GPTJudge; IV.B Evaluation setup; V.D Judge validity); not an entire-paper reading or reproduction claim.",
+  "published_at": "2025-07-01",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Studies chain-level risk detection for mobile multimodal agents and a language-model-assisted evaluator, assessing safety interventions together with functional preservation.",
+  "topics": [
+    "safety-security",
+    "evaluation",
+    "mobile-navigation"
+  ],
+  "updated_at": "2025-07-01",
+  "url": "https://arxiv.org/abs/2507.00841"
+}

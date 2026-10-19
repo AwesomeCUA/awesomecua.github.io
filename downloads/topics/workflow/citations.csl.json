@@ -1604,6 +1604,73 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2509.02444v2",
+    "archive": "arXiv",
+    "archive_location": "2509.02444",
+    "author": [
+      {
+        "literal": "Jingru Fan"
+      },
+      {
+        "literal": "Yufan Dang"
+      },
+      {
+        "literal": "Jingyao Wu"
+      },
+      {
+        "literal": "Huatao Li"
+      },
+      {
+        "literal": "Runde Yang"
+      },
+      {
+        "literal": "Xiyuan Yang"
+      },
+      {
+        "literal": "Yuheng Wang"
+      },
+      {
+        "literal": "Chen Qian"
+      }
+    ],
+    "citation-key": "arxiv_2509_02444",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "49a887b12b3395821aa100a66e61aac808309ef947ae752475df3d2db9a4fcd8",
+        "submitted_at": "2025-09-02T15:48:21Z",
+        "updated_at": "2025-10-17T00:57:58Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2509.02444v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.02444",
+      "catalog_id": "arxiv:2509.02444",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-02",
+      "identifiers": {
+        "arxiv": "2509.02444"
+      },
+      "record_updated_at": "2025-10-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.02444",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-02; Recorded arXiv version: v2; Recorded version updated: 2025-10-17T00:57:58Z.",
+    "title": "AppCopilot: Toward General, Accurate, Long-Horizon, and Efficient Mobile Agent",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2509.06477v2",
     "archive": "arXiv",
     "archive_location": "2509.06477",
@@ -2595,6 +2662,91 @@
     "title": "WindowsWorld: A Process-Centric Benchmark of Autonomous GUI Agents in Professional Cross-Application Environments",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.05765v2",
+    "archive": "arXiv",
+    "archive_location": "2605.05765",
+    "author": [
+      {
+        "literal": "Xiaoming Ren"
+      },
+      {
+        "literal": "Ru Zhen"
+      },
+      {
+        "literal": "Chao Li"
+      },
+      {
+        "literal": "Yang Song"
+      },
+      {
+        "literal": "Qiuxia Hou"
+      },
+      {
+        "literal": "Yanhao Zhang"
+      },
+      {
+        "literal": "Peng Liu"
+      },
+      {
+        "literal": "Qi Qi"
+      },
+      {
+        "literal": "Quanlong Zheng"
+      },
+      {
+        "literal": "Qi Wu"
+      },
+      {
+        "literal": "Zhenyi Liao"
+      },
+      {
+        "literal": "Binqiang Pan"
+      },
+      {
+        "literal": "Haobo Ji"
+      },
+      {
+        "literal": "Haonan Lu"
+      }
+    ],
+    "citation-key": "arxiv_2605_05765",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2ece93c00c5556dfe50ddd0ba3f52b725f34d1bee18ea3565951bb78343d8ed0",
+        "submitted_at": "2026-05-07T06:58:34Z",
+        "updated_at": "2026-05-21T06:55:40Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2605.05765v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.05765",
+      "catalog_id": "arxiv:2605.05765",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-07",
+      "identifiers": {
+        "arxiv": "2605.05765"
+      },
+      "record_updated_at": "2026-05-21"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.05765",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-07; Recorded arXiv version: v2; Recorded version updated: 2026-05-21T06:55:40Z.",
+    "title": "X-OmniClaw Technical Report: A Unified Mobile Agent for Multimodal Understanding and Interaction",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2605.12493v1",

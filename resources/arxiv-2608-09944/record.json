@@ -1,0 +1,97 @@
+{
+  "aliases": [],
+  "authors": [
+    "Santosh Patapati"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d5ccb0d41798a1a3236e6f9b4361814cccdd40facf9b43bf0bf52932337484dc",
+      "submitted_at": "2026-07-01T16:24:07Z",
+      "updated_at": "2026-07-01T16:24:07Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2608.09944v1"
+    }
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-18T10:00:45.064380+00:00",
+      "role": "primary",
+      "sha256": "f26fba818a44c6a7f541ab3b0341ca8f4798d837a425a2ac9fb0fc47a553b7bc",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22UI+agent%22+OR+ti%3A%22desktop+agent%22+OR+ti%3A%22screen+grounding%22%29+AND+submittedDate%3A%5B200001010000+TO+202610180000%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T10:00:45.064380+00:00",
+      "role": "primary",
+      "sha256": "f26fba818a44c6a7f541ab3b0341ca8f4798d837a425a2ac9fb0fc47a553b7bc",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "relations"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22UI+agent%22+OR+ti%3A%22desktop+agent%22+OR+ti%3A%22screen+grounding%22%29+AND+submittedDate%3A%5B200001010000+TO+202610180000%5D&start=200&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T10:05:26.923383+00:00",
+      "role": "primary",
+      "sha256": "777197864eeaa34d180bf6b91f32408b7b3d8cc5c9faecc95eca276f5bd426de",
+      "supports": [
+        "summary",
+        "scope",
+        "environments",
+        "notes"
+      ],
+      "url": "https://arxiv.org/html/2608.09944v1"
+    }
+  ],
+  "id": "arxiv:2608.09944",
+  "identifiers": {
+    "arxiv": "2608.09944"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-18T10:00:45.064380+00:00",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2608.09944"
+    }
+  ],
+  "name": "Navigation Alone Is Not Enough: Evaluating Explanatory Assistive UI Agents",
+  "notes": "Packaged tasks use recorded linear transition graphs. Reported model experiments use a text-input validation subset, so their results are not evidence of screenshot-based navigation performance. No results were independently reproduced. Basis: complete retained abstract and source-reviewed sections of the exact-version paper (3.3 Interface states and task annotations; 3.4 Evaluation; 4.1 Models and experimental setup; 5 Discussion); not an entire-paper reading or reproduction claim.",
+  "published_at": "2026-07-01",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Introduces NeXUI, an assistive UI-agent benchmark that evaluates navigation together with interface-grounded explanations and user oversight in recorded interface states.",
+  "topics": [
+    "evaluation",
+    "human-in-the-loop",
+    "web-navigation"
+  ],
+  "updated_at": "2026-07-01",
+  "url": "https://arxiv.org/abs/2608.09944"
+}

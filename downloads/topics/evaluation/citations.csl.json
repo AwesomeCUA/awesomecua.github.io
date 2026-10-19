@@ -12554,6 +12554,73 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2507.00841v1",
+    "archive": "arXiv",
+    "archive_location": "2507.00841",
+    "author": [
+      {
+        "literal": "Siyuan Liang"
+      },
+      {
+        "literal": "Tianmeng Fang"
+      },
+      {
+        "literal": "Zhe Liu"
+      },
+      {
+        "literal": "Aishan Liu"
+      },
+      {
+        "literal": "Yan Xiao"
+      },
+      {
+        "literal": "Jinyuan He"
+      },
+      {
+        "literal": "Ee-Chien Chang"
+      },
+      {
+        "literal": "Xiaochun Cao"
+      }
+    ],
+    "citation-key": "arxiv_2507_00841",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "78dd523ad6123fe1ee5164685a3853719c9a4442adac8661050f147ff6a9f619",
+        "submitted_at": "2025-07-01T15:10:00Z",
+        "updated_at": "2025-07-01T15:10:00Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2507.00841v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2507.00841",
+      "catalog_id": "arxiv:2507.00841",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-07-01",
+      "identifiers": {
+        "arxiv": "2507.00841"
+      },
+      "record_updated_at": "2025-07-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2507.00841",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          1
+        ]
+      ]
+    },
+    "note": "First published: 2025-07-01; Recorded arXiv version: v1; Recorded version updated: 2025-07-01T15:10:00Z.",
+    "title": "SafeMobile: Chain-level Jailbreak Detection and Automated Evaluation for Multimodal Mobile Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2507.00938v4",
     "archive": "arXiv",
     "archive_location": "2507.00938",
@@ -30132,6 +30199,73 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2606.20622v1",
+    "archive": "arXiv",
+    "archive_location": "2606.20622",
+    "author": [
+      {
+        "literal": "Daniel Beechey"
+      },
+      {
+        "literal": "Derek Yuen"
+      },
+      {
+        "literal": "Jianheng Liu"
+      },
+      {
+        "literal": "Dezhao Luo"
+      },
+      {
+        "literal": "Tiantian He"
+      },
+      {
+        "literal": "Weilin Luo"
+      },
+      {
+        "literal": "Jun Wang"
+      },
+      {
+        "literal": "Kun Shao"
+      }
+    ],
+    "citation-key": "arxiv_2606_20622",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9e761b20caa6882605ecfd6cd001aeda4a2d36b2e702eea9a6d70451fc0ea9eb",
+        "submitted_at": "2026-05-26T13:32:14Z",
+        "updated_at": "2026-05-26T13:32:14Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2606.20622v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.20622",
+      "catalog_id": "arxiv:2606.20622",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-05-26",
+      "identifiers": {
+        "arxiv": "2606.20622"
+      },
+      "record_updated_at": "2026-05-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.20622",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-26; Recorded arXiv version: v1; Recorded version updated: 2026-05-26T13:32:14Z.",
+    "title": "Darwin Mobile Agent: A Roadmap for Self-Evolution",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2606.20717v2",
     "archive": "arXiv",
     "archive_location": "2606.20717",
@@ -33055,6 +33189,64 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2608.07775v1",
+    "archive": "arXiv",
+    "archive_location": "2608.07775",
+    "author": [
+      {
+        "literal": "Xiaoou Liu"
+      },
+      {
+        "literal": "Longchao Da"
+      },
+      {
+        "literal": "Hanyang Chen"
+      },
+      {
+        "literal": "Yuan Ling"
+      },
+      {
+        "literal": "Hua Wei"
+      }
+    ],
+    "citation-key": "arxiv_2608_07775",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4d99685a75d2023db5c9ad943e103ec779eebd037fe7a113848d8a31e08fd68b",
+        "submitted_at": "2026-08-07T21:47:43Z",
+        "updated_at": "2026-08-07T21:47:43Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2608.07775v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.07775",
+      "catalog_id": "arxiv:2608.07775",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-08-07",
+      "identifiers": {
+        "arxiv": "2608.07775"
+      },
+      "record_updated_at": "2026-08-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.07775",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-07; Recorded arXiv version: v1; Recorded version updated: 2026-08-07T21:47:43Z.",
+    "title": "AndroidReality: How Far Are Mobile Agents from the Real World?",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2608.08392v1",
     "archive": "arXiv",
     "archive_location": "2608.08392",
@@ -33191,6 +33383,52 @@
     },
     "note": "First published: 2026-08-10; Recorded arXiv version: v1; Recorded version updated: 2026-08-10T14:29:07Z.",
     "title": "Hallucination-Free GUI Grounding via Regression-Free Layout-Aware Matching",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2608.09944v1",
+    "archive": "arXiv",
+    "archive_location": "2608.09944",
+    "author": [
+      {
+        "literal": "Santosh Patapati"
+      }
+    ],
+    "citation-key": "arxiv_2608_09944",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d5ccb0d41798a1a3236e6f9b4361814cccdd40facf9b43bf0bf52932337484dc",
+        "submitted_at": "2026-07-01T16:24:07Z",
+        "updated_at": "2026-07-01T16:24:07Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2608.09944v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.09944",
+      "catalog_id": "arxiv:2608.09944",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-01",
+      "identifiers": {
+        "arxiv": "2608.09944"
+      },
+      "record_updated_at": "2026-07-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.09944",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          1
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-01; Recorded arXiv version: v1; Recorded version updated: 2026-07-01T16:24:07Z.",
+    "title": "Navigation Alone Is Not Enough: Evaluating Explanatory Assistive UI Agents",
     "type": "article",
     "version": "1"
   },
@@ -33374,6 +33612,61 @@
     },
     "note": "First published: 2026-08-14; Recorded arXiv version: v1; Recorded version updated: 2026-08-14T09:36:33Z.",
     "title": "LegacyWorld: Atomicity-Aware Evaluation of GUI Agents for Legacy Workflows",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2608.14132v1",
+    "archive": "arXiv",
+    "archive_location": "2608.14132",
+    "author": [
+      {
+        "literal": "Xiaokai Yan"
+      },
+      {
+        "literal": "Jingtao Ding"
+      },
+      {
+        "literal": "Yong Li"
+      },
+      {
+        "literal": "Zhiwen Yu"
+      }
+    ],
+    "citation-key": "arxiv_2608_14132",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e2660e01921a78bed7280b34f35a1b587e62339c2e280d6294bbb6d6e666786e",
+        "submitted_at": "2026-08-14T09:36:59Z",
+        "updated_at": "2026-08-14T09:36:59Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2608.14132v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.14132",
+      "catalog_id": "arxiv:2608.14132",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-08-14",
+      "identifiers": {
+        "arxiv": "2608.14132"
+      },
+      "record_updated_at": "2026-08-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.14132",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-14; Recorded arXiv version: v1; Recorded version updated: 2026-08-14T09:36:59Z.",
+    "title": "Act2Intention: A Benchmark For Developing Active Mobile Agents Through Inferring User Intention from GUI Actions",
     "type": "article",
     "version": "1"
   },
@@ -37381,6 +37674,64 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.02617v1",
+    "archive": "arXiv",
+    "archive_location": "2610.02617",
+    "author": [
+      {
+        "literal": "Yun-Yun Tsai"
+      },
+      {
+        "literal": "Yuning Mao"
+      },
+      {
+        "literal": "Shiqi Wang"
+      },
+      {
+        "literal": "Junfeng Yang"
+      },
+      {
+        "literal": "Sinong Wang"
+      }
+    ],
+    "citation-key": "arxiv_2610_02617",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7ed117876ece99f55e241e6365d0e785b907f9a7a24cceb01b1fd757191a35c9",
+        "submitted_at": "2026-10-02T00:17:11Z",
+        "updated_at": "2026-10-02T00:17:11Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.02617v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.02617",
+      "catalog_id": "arxiv:2610.02617",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-10-02",
+      "identifiers": {
+        "arxiv": "2610.02617"
+      },
+      "record_updated_at": "2026-10-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.02617",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-02; Recorded arXiv version: v1; Recorded version updated: 2026-10-02T00:17:11Z.",
+    "title": "WebUIProof: Benchmarking WebUI Code Generators with UI-Agent Execution Harness",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.03089v1",
     "archive": "arXiv",
     "archive_location": "2610.03089",
@@ -37600,6 +37951,64 @@
     },
     "note": "First published: 2026-10-05; Recorded arXiv version: v1; Recorded version updated: 2026-10-05T17:57:51Z.",
     "title": "CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.06898v1",
+    "archive": "arXiv",
+    "archive_location": "2610.06898",
+    "author": [
+      {
+        "literal": "Li Hu"
+      },
+      {
+        "literal": "Kanghua Mo"
+      },
+      {
+        "literal": "Yingbin Jin"
+      },
+      {
+        "literal": "Qingqing Ye"
+      },
+      {
+        "literal": "Haibo Hu"
+      }
+    ],
+    "citation-key": "arxiv_2610_06898",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5afea9414462386ee921b9ead9381c0204963c710c9f616a96f4bc47079f059e",
+        "submitted_at": "2026-09-29T03:03:00Z",
+        "updated_at": "2026-09-29T03:03:00Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.06898v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.06898",
+      "catalog_id": "arxiv:2610.06898",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-29",
+      "identifiers": {
+        "arxiv": "2610.06898"
+      },
+      "record_updated_at": "2026-09-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.06898",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T03:03:00Z.",
+    "title": "DIBench: Benchmarking Decision Integrity of GUI-based Mobile Agents Under Deceptive Injections",
     "type": "article",
     "version": "1"
   },

@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2507.18165",
+  "citation-key": "arxiv_2507_18165",
+  "type": "article",
+  "title": "ProactiveVA: Proactive Visual Analytics with LLM-Based UI Agent",
+  "URL": "https://arxiv.org/abs/2507.18165v1",
+  "custom": {
+    "catalog_id": "arxiv:2507.18165",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2507.18165",
+    "identifiers": {
+      "arxiv": "2507.18165"
+    },
+    "first_published_at": "2025-07-24",
+    "record_updated_at": "2025-07-24",
+    "catalog_scope": "adjacent",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e3c271f330c5bf27e2831efd96fb1d6f843bd79942791686a866df1b4812de2f",
+      "submitted_at": "2025-07-24T08:02:35Z",
+      "updated_at": "2025-07-24T08:02:35Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2507.18165v1"
+    }
+  },
+  "note": "First published: 2025-07-24; Recorded arXiv version: v1; Recorded version updated: 2025-07-24T08:02:35Z.",
+  "author": [
+    {
+      "literal": "Yuheng Zhao"
+    },
+    {
+      "literal": "Xueli Shu"
+    },
+    {
+      "literal": "Liwen Fan"
+    },
+    {
+      "literal": "Lin Gao"
+    },
+    {
+      "literal": "Yu Zhang"
+    },
+    {
+      "literal": "Siming Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.18165",
+  "genre": "preprint",
+  "version": "1"
+}

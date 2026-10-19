@@ -470,6 +470,7 @@ https://awesomecua.github.io/resources/arxiv-2506-20332/
 https://awesomecua.github.io/resources/arxiv-2506-23491/
 https://awesomecua.github.io/resources/arxiv-2507-00008/
 https://awesomecua.github.io/resources/arxiv-2507-00210/
+https://awesomecua.github.io/resources/arxiv-2507-00841/
 https://awesomecua.github.io/resources/arxiv-2507-00938/
 https://awesomecua.github.io/resources/arxiv-2507-03730/
 https://awesomecua.github.io/resources/arxiv-2507-04103/
@@ -486,6 +487,7 @@ https://awesomecua.github.io/resources/arxiv-2507-14293/
 https://awesomecua.github.io/resources/arxiv-2507-14799/
 https://awesomecua.github.io/resources/arxiv-2507-15846/
 https://awesomecua.github.io/resources/arxiv-2507-16853/
+https://awesomecua.github.io/resources/arxiv-2507-18165/
 https://awesomecua.github.io/resources/arxiv-2507-19132/
 https://awesomecua.github.io/resources/arxiv-2507-19478/
 https://awesomecua.github.io/resources/arxiv-2507-21071/
@@ -519,6 +521,7 @@ https://awesomecua.github.io/resources/arxiv-2508-14104/
 https://awesomecua.github.io/resources/arxiv-2508-15144/
 https://awesomecua.github.io/resources/arxiv-2508-15832/
 https://awesomecua.github.io/resources/arxiv-2508-16987/
+https://awesomecua.github.io/resources/arxiv-2508-18040/
 https://awesomecua.github.io/resources/arxiv-2508-18689/
 https://awesomecua.github.io/resources/arxiv-2508-19493/
 https://awesomecua.github.io/resources/arxiv-2508-19679/
@@ -531,6 +534,7 @@ https://awesomecua.github.io/resources/arxiv-2509-01052/
 https://awesomecua.github.io/resources/arxiv-2509-01619/
 https://awesomecua.github.io/resources/arxiv-2509-01720/
 https://awesomecua.github.io/resources/arxiv-2509-02322/
+https://awesomecua.github.io/resources/arxiv-2509-02444/
 https://awesomecua.github.io/resources/arxiv-2509-02544/
 https://awesomecua.github.io/resources/arxiv-2509-03891/
 https://awesomecua.github.io/resources/arxiv-2509-04243/
@@ -580,6 +584,7 @@ https://awesomecua.github.io/resources/arxiv-2510-03285/
 https://awesomecua.github.io/resources/arxiv-2510-04039/
 https://awesomecua.github.io/resources/arxiv-2510-04373/
 https://awesomecua.github.io/resources/arxiv-2510-04607/
+https://awesomecua.github.io/resources/arxiv-2510-06042/
 https://awesomecua.github.io/resources/arxiv-2510-07809/
 https://awesomecua.github.io/resources/arxiv-2510-07988/
 https://awesomecua.github.io/resources/arxiv-2510-09038/
@@ -690,6 +695,7 @@ https://awesomecua.github.io/resources/arxiv-2601-18197/
 https://awesomecua.github.io/resources/arxiv-2601-18305/
 https://awesomecua.github.io/resources/arxiv-2601-18842/
 https://awesomecua.github.io/resources/arxiv-2601-19199/
+https://awesomecua.github.io/resources/arxiv-2601-19306/
 https://awesomecua.github.io/resources/arxiv-2601-20335/
 https://awesomecua.github.io/resources/arxiv-2601-20380/
 https://awesomecua.github.io/resources/arxiv-2601-20650/
@@ -851,6 +857,7 @@ https://awesomecua.github.io/resources/arxiv-2605-00551/
 https://awesomecua.github.io/resources/arxiv-2605-01208/
 https://awesomecua.github.io/resources/arxiv-2605-02630/
 https://awesomecua.github.io/resources/arxiv-2605-05509/
+https://awesomecua.github.io/resources/arxiv-2605-05765/
 https://awesomecua.github.io/resources/arxiv-2605-06761/
 https://awesomecua.github.io/resources/arxiv-2605-07134/
 https://awesomecua.github.io/resources/arxiv-2605-09317/
@@ -934,6 +941,7 @@ https://awesomecua.github.io/resources/arxiv-2606-19388/
 https://awesomecua.github.io/resources/arxiv-2606-19926/
 https://awesomecua.github.io/resources/arxiv-2606-19930/
 https://awesomecua.github.io/resources/arxiv-2606-20363/
+https://awesomecua.github.io/resources/arxiv-2606-20622/
 https://awesomecua.github.io/resources/arxiv-2606-20717/
 https://awesomecua.github.io/resources/arxiv-2606-20785/
 https://awesomecua.github.io/resources/arxiv-2606-20910/
@@ -1006,14 +1014,17 @@ https://awesomecua.github.io/resources/arxiv-2608-05587/
 https://awesomecua.github.io/resources/arxiv-2608-05891/
 https://awesomecua.github.io/resources/arxiv-2608-06065/
 https://awesomecua.github.io/resources/arxiv-2608-06171/
+https://awesomecua.github.io/resources/arxiv-2608-07775/
 https://awesomecua.github.io/resources/arxiv-2608-08392/
 https://awesomecua.github.io/resources/arxiv-2608-08939/
 https://awesomecua.github.io/resources/arxiv-2608-09654/
 https://awesomecua.github.io/resources/arxiv-2608-09723/
+https://awesomecua.github.io/resources/arxiv-2608-09944/
 https://awesomecua.github.io/resources/arxiv-2608-10366/
 https://awesomecua.github.io/resources/arxiv-2608-11434/
 https://awesomecua.github.io/resources/arxiv-2608-12429/
 https://awesomecua.github.io/resources/arxiv-2608-14131/
+https://awesomecua.github.io/resources/arxiv-2608-14132/
 https://awesomecua.github.io/resources/arxiv-2608-15930/
 https://awesomecua.github.io/resources/arxiv-2608-17319/
 https://awesomecua.github.io/resources/arxiv-2608-17659/
@@ -1132,6 +1143,7 @@ https://awesomecua.github.io/resources/arxiv-2610-01215/
 https://awesomecua.github.io/resources/arxiv-2610-01491/
 https://awesomecua.github.io/resources/arxiv-2610-01787/
 https://awesomecua.github.io/resources/arxiv-2610-02320/
+https://awesomecua.github.io/resources/arxiv-2610-02617/
 https://awesomecua.github.io/resources/arxiv-2610-02932/
 https://awesomecua.github.io/resources/arxiv-2610-03036/
 https://awesomecua.github.io/resources/arxiv-2610-03089/
@@ -1142,6 +1154,7 @@ https://awesomecua.github.io/resources/arxiv-2610-05185/
 https://awesomecua.github.io/resources/arxiv-2610-05437/
 https://awesomecua.github.io/resources/arxiv-2610-05861/
 https://awesomecua.github.io/resources/arxiv-2610-06829/
+https://awesomecua.github.io/resources/arxiv-2610-06898/
 https://awesomecua.github.io/resources/arxiv-2610-07118/
 https://awesomecua.github.io/resources/arxiv-2610-07444/
 https://awesomecua.github.io/resources/arxiv-2610-07972/

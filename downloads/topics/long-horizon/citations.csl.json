@@ -1277,6 +1277,73 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2509.02444v2",
+    "archive": "arXiv",
+    "archive_location": "2509.02444",
+    "author": [
+      {
+        "literal": "Jingru Fan"
+      },
+      {
+        "literal": "Yufan Dang"
+      },
+      {
+        "literal": "Jingyao Wu"
+      },
+      {
+        "literal": "Huatao Li"
+      },
+      {
+        "literal": "Runde Yang"
+      },
+      {
+        "literal": "Xiyuan Yang"
+      },
+      {
+        "literal": "Yuheng Wang"
+      },
+      {
+        "literal": "Chen Qian"
+      }
+    ],
+    "citation-key": "arxiv_2509_02444",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "49a887b12b3395821aa100a66e61aac808309ef947ae752475df3d2db9a4fcd8",
+        "submitted_at": "2025-09-02T15:48:21Z",
+        "updated_at": "2025-10-17T00:57:58Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2509.02444v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2509.02444",
+      "catalog_id": "arxiv:2509.02444",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-09-02",
+      "identifiers": {
+        "arxiv": "2509.02444"
+      },
+      "record_updated_at": "2025-10-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2509.02444",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2025-09-02; Recorded arXiv version: v2; Recorded version updated: 2025-10-17T00:57:58Z.",
+    "title": "AppCopilot: Toward General, Accurate, Long-Horizon, and Efficient Mobile Agent",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2509.03891v1",
     "archive": "arXiv",
     "archive_location": "2509.03891",
@@ -1470,6 +1537,58 @@
     "title": "Scaling Agents for Computer Use",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.06042v3",
+    "archive": "arXiv",
+    "archive_location": "2510.06042",
+    "author": [
+      {
+        "literal": "Shang Ma"
+      },
+      {
+        "literal": "Xusheng Xiao"
+      },
+      {
+        "literal": "Yanfang Ye"
+      }
+    ],
+    "citation-key": "arxiv_2510_06042",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4bf0a561460c080b14da6fd13f6d92781e01e52b08dc691fe019e70b88e44c86",
+        "submitted_at": "2025-10-07T15:36:04Z",
+        "updated_at": "2026-09-27T17:25:57Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2510.06042v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.06042",
+      "catalog_id": "arxiv:2510.06042",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-10-07",
+      "identifiers": {
+        "arxiv": "2510.06042"
+      },
+      "record_updated_at": "2026-09-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.06042",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-07; Recorded arXiv version: v3; Recorded version updated: 2026-09-27T17:25:57Z.",
+    "title": "Agent+P: Guiding UI Agents via Symbolic Planning",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2510.14621v1",

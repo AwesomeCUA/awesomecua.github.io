@@ -1568,6 +1568,67 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2507.18165v1",
+    "archive": "arXiv",
+    "archive_location": "2507.18165",
+    "author": [
+      {
+        "literal": "Yuheng Zhao"
+      },
+      {
+        "literal": "Xueli Shu"
+      },
+      {
+        "literal": "Liwen Fan"
+      },
+      {
+        "literal": "Lin Gao"
+      },
+      {
+        "literal": "Yu Zhang"
+      },
+      {
+        "literal": "Siming Chen"
+      }
+    ],
+    "citation-key": "arxiv_2507_18165",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e3c271f330c5bf27e2831efd96fb1d6f843bd79942791686a866df1b4812de2f",
+        "submitted_at": "2025-07-24T08:02:35Z",
+        "updated_at": "2025-07-24T08:02:35Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2507.18165v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2507.18165",
+      "catalog_id": "arxiv:2507.18165",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2025-07-24",
+      "identifiers": {
+        "arxiv": "2507.18165"
+      },
+      "record_updated_at": "2025-07-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2507.18165",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2025-07-24; Recorded arXiv version: v1; Recorded version updated: 2025-07-24T08:02:35Z.",
+    "title": "ProactiveVA: Proactive Visual Analytics with LLM-Based UI Agent",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2507.22358v1",
     "archive": "arXiv",
     "archive_location": "2507.22358",
@@ -1785,6 +1846,88 @@
     "title": "MVISU-Bench: Benchmarking Mobile Agents for Real-World Tasks by Multi-App, Vague, Interactive, Single-App and Unethical Instructions",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2508.18040v1",
+    "archive": "arXiv",
+    "archive_location": "2508.18040",
+    "author": [
+      {
+        "literal": "Xin Wang"
+      },
+      {
+        "literal": "Zhiyao Cui"
+      },
+      {
+        "literal": "Hao Li"
+      },
+      {
+        "literal": "Ya Zeng"
+      },
+      {
+        "literal": "Chenxu Wang"
+      },
+      {
+        "literal": "Ruiqi Song"
+      },
+      {
+        "literal": "Yihang Chen"
+      },
+      {
+        "literal": "Kun Shao"
+      },
+      {
+        "literal": "Qiaosheng Zhang"
+      },
+      {
+        "literal": "Jinzhuo Liu"
+      },
+      {
+        "literal": "Siyue Ren"
+      },
+      {
+        "literal": "Shuyue Hu"
+      },
+      {
+        "literal": "Zhen Wang"
+      }
+    ],
+    "citation-key": "arxiv_2508_18040",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "57d5fc98a2eb2232f237d71b34060df0acef89cfeaa4bc247580a4dda3223e0b",
+        "submitted_at": "2025-08-25T13:57:02Z",
+        "updated_at": "2025-08-25T13:57:02Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2508.18040v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2508.18040",
+      "catalog_id": "arxiv:2508.18040",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-08-25",
+      "identifiers": {
+        "arxiv": "2508.18040"
+      },
+      "record_updated_at": "2025-08-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2508.18040",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2025-08-25; Recorded arXiv version: v1; Recorded version updated: 2025-08-25T13:57:02Z.",
+    "title": "PerPilot: Personalizing VLM-based Mobile Agents via Memory and Exploration",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2508.19679v2",
@@ -3892,6 +4035,107 @@
     },
     "note": "First published: 2026-07-20; Recorded arXiv version: v1; Recorded version updated: 2026-07-20T04:03:38Z.",
     "title": "Sidekick: Designing Communication for Effective Multitasking with Computer Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2608.09944v1",
+    "archive": "arXiv",
+    "archive_location": "2608.09944",
+    "author": [
+      {
+        "literal": "Santosh Patapati"
+      }
+    ],
+    "citation-key": "arxiv_2608_09944",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d5ccb0d41798a1a3236e6f9b4361814cccdd40facf9b43bf0bf52932337484dc",
+        "submitted_at": "2026-07-01T16:24:07Z",
+        "updated_at": "2026-07-01T16:24:07Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2608.09944v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.09944",
+      "catalog_id": "arxiv:2608.09944",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-07-01",
+      "identifiers": {
+        "arxiv": "2608.09944"
+      },
+      "record_updated_at": "2026-07-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.09944",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          1
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-01; Recorded arXiv version: v1; Recorded version updated: 2026-07-01T16:24:07Z.",
+    "title": "Navigation Alone Is Not Enough: Evaluating Explanatory Assistive UI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2608.14132v1",
+    "archive": "arXiv",
+    "archive_location": "2608.14132",
+    "author": [
+      {
+        "literal": "Xiaokai Yan"
+      },
+      {
+        "literal": "Jingtao Ding"
+      },
+      {
+        "literal": "Yong Li"
+      },
+      {
+        "literal": "Zhiwen Yu"
+      }
+    ],
+    "citation-key": "arxiv_2608_14132",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e2660e01921a78bed7280b34f35a1b587e62339c2e280d6294bbb6d6e666786e",
+        "submitted_at": "2026-08-14T09:36:59Z",
+        "updated_at": "2026-08-14T09:36:59Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2608.14132v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.14132",
+      "catalog_id": "arxiv:2608.14132",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-08-14",
+      "identifiers": {
+        "arxiv": "2608.14132"
+      },
+      "record_updated_at": "2026-08-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.14132",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-14; Recorded arXiv version: v1; Recorded version updated: 2026-08-14T09:36:59Z.",
+    "title": "Act2Intention: A Benchmark For Developing Active Mobile Agents Through Inferring User Intention from GUI Actions",
     "type": "article",
     "version": "1"
   },

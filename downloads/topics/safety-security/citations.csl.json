@@ -3204,6 +3204,73 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2507.00841v1",
+    "archive": "arXiv",
+    "archive_location": "2507.00841",
+    "author": [
+      {
+        "literal": "Siyuan Liang"
+      },
+      {
+        "literal": "Tianmeng Fang"
+      },
+      {
+        "literal": "Zhe Liu"
+      },
+      {
+        "literal": "Aishan Liu"
+      },
+      {
+        "literal": "Yan Xiao"
+      },
+      {
+        "literal": "Jinyuan He"
+      },
+      {
+        "literal": "Ee-Chien Chang"
+      },
+      {
+        "literal": "Xiaochun Cao"
+      }
+    ],
+    "citation-key": "arxiv_2507_00841",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "78dd523ad6123fe1ee5164685a3853719c9a4442adac8661050f147ff6a9f619",
+        "submitted_at": "2025-07-01T15:10:00Z",
+        "updated_at": "2025-07-01T15:10:00Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2507.00841v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2507.00841",
+      "catalog_id": "arxiv:2507.00841",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2025-07-01",
+      "identifiers": {
+        "arxiv": "2507.00841"
+      },
+      "record_updated_at": "2025-07-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2507.00841",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          1
+        ]
+      ]
+    },
+    "note": "First published: 2025-07-01; Recorded arXiv version: v1; Recorded version updated: 2025-07-01T15:10:00Z.",
+    "title": "SafeMobile: Chain-level Jailbreak Detection and Automated Evaluation for Multimodal Mobile Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2507.04227v2",
     "archive": "arXiv",
     "archive_location": "2507.04227",
@@ -11134,6 +11201,64 @@
     "title": "Control OSWorld: An AI Control Environment for GUI Computer Use Agents",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.06898v1",
+    "archive": "arXiv",
+    "archive_location": "2610.06898",
+    "author": [
+      {
+        "literal": "Li Hu"
+      },
+      {
+        "literal": "Kanghua Mo"
+      },
+      {
+        "literal": "Yingbin Jin"
+      },
+      {
+        "literal": "Qingqing Ye"
+      },
+      {
+        "literal": "Haibo Hu"
+      }
+    ],
+    "citation-key": "arxiv_2610_06898",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5afea9414462386ee921b9ead9381c0204963c710c9f616a96f4bc47079f059e",
+        "submitted_at": "2026-09-29T03:03:00Z",
+        "updated_at": "2026-09-29T03:03:00Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.06898v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.06898",
+      "catalog_id": "arxiv:2610.06898",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-29",
+      "identifiers": {
+        "arxiv": "2610.06898"
+      },
+      "record_updated_at": "2026-09-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.06898",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T03:03:00Z.",
+    "title": "DIBench: Benchmarking Decision Integrity of GUI-based Mobile Agents Under Deceptive Injections",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2610.08773v1",

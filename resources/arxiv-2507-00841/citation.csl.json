@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2507.00841",
+  "citation-key": "arxiv_2507_00841",
+  "type": "article",
+  "title": "SafeMobile: Chain-level Jailbreak Detection and Automated Evaluation for Multimodal Mobile Agents",
+  "URL": "https://arxiv.org/abs/2507.00841v1",
+  "custom": {
+    "catalog_id": "arxiv:2507.00841",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2507.00841",
+    "identifiers": {
+      "arxiv": "2507.00841"
+    },
+    "first_published_at": "2025-07-01",
+    "record_updated_at": "2025-07-01",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "78dd523ad6123fe1ee5164685a3853719c9a4442adac8661050f147ff6a9f619",
+      "submitted_at": "2025-07-01T15:10:00Z",
+      "updated_at": "2025-07-01T15:10:00Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2507.00841v1"
+    }
+  },
+  "note": "First published: 2025-07-01; Recorded arXiv version: v1; Recorded version updated: 2025-07-01T15:10:00Z.",
+  "author": [
+    {
+      "literal": "Siyuan Liang"
+    },
+    {
+      "literal": "Tianmeng Fang"
+    },
+    {
+      "literal": "Zhe Liu"
+    },
+    {
+      "literal": "Aishan Liu"
+    },
+    {
+      "literal": "Yan Xiao"
+    },
+    {
+      "literal": "Jinyuan He"
+    },
+    {
+      "literal": "Ee-Chien Chang"
+    },
+    {
+      "literal": "Xiaochun Cao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2507.00841",
+  "genre": "preprint",
+  "version": "1"
+}
