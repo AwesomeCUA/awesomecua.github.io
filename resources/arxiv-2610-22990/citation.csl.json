@@ -1,0 +1,121 @@
+{
+  "id": "arxiv:2610.22990",
+  "citation-key": "arxiv_2610_22990",
+  "type": "article",
+  "title": "PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas",
+  "URL": "https://arxiv.org/abs/2610.22990v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.22990",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.22990",
+    "identifiers": {
+      "arxiv": "2610.22990"
+    },
+    "first_published_at": "2026-10-16",
+    "record_updated_at": "2026-10-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f613ef7ada260b494a411058bc733c7a5e0b074cdb01906c38132acf7275b9b1",
+      "submitted_at": "2026-10-16T06:14:55Z",
+      "updated_at": "2026-10-16T06:14:55Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.22990v1"
+    }
+  },
+  "note": "First published: 2026-10-16; Recorded arXiv version: v1; Recorded version updated: 2026-10-16T06:14:55Z.",
+  "author": [
+    {
+      "literal": "Haoming Li"
+    },
+    {
+      "literal": "Defu Cao"
+    },
+    {
+      "literal": "Xu Hu"
+    },
+    {
+      "literal": "Yingtao Luo"
+    },
+    {
+      "literal": "Yiyang Wang"
+    },
+    {
+      "literal": "Xianghe Xu"
+    },
+    {
+      "literal": "Jiashu He"
+    },
+    {
+      "literal": "Wanting Jiang"
+    },
+    {
+      "literal": "Yifan Zhang"
+    },
+    {
+      "literal": "Yunhan Zhao"
+    },
+    {
+      "literal": "Siyang Wu"
+    },
+    {
+      "literal": "Chen Yang"
+    },
+    {
+      "literal": "Haixin Wang"
+    },
+    {
+      "literal": "Zheyuan Deng"
+    },
+    {
+      "literal": "Taoran Li"
+    },
+    {
+      "literal": "Jingwen Zhang"
+    },
+    {
+      "literal": "Zhejian Peng"
+    },
+    {
+      "literal": "Shushu Liang"
+    },
+    {
+      "literal": "Yue Zhao"
+    },
+    {
+      "literal": "Bingzhe Li"
+    },
+    {
+      "literal": "Feng Chen"
+    },
+    {
+      "literal": "Yifan Wang"
+    },
+    {
+      "literal": "Jintao Huang"
+    },
+    {
+      "literal": "Yijun Wang"
+    },
+    {
+      "literal": "Yuexing Hao"
+    },
+    {
+      "literal": "Xiaomin Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.22990",
+  "genre": "preprint",
+  "version": "1"
+}

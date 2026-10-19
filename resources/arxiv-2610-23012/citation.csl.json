@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2610.23012",
+  "citation-key": "arxiv_2610_23012",
+  "type": "article",
+  "title": "Adaptation of Computer Use Agents to New Software with User Manuals",
+  "URL": "https://arxiv.org/abs/2610.23012v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.23012",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.23012",
+    "identifiers": {
+      "arxiv": "2610.23012"
+    },
+    "first_published_at": "2026-10-16",
+    "record_updated_at": "2026-10-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b9585696d256bacc710dce57bfd7cda6a8037ce5725a30f959028352bc07e97c",
+      "submitted_at": "2026-10-16T06:44:56Z",
+      "updated_at": "2026-10-16T06:44:56Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.23012v1"
+    }
+  },
+  "note": "First published: 2026-10-16; Recorded arXiv version: v1; Recorded version updated: 2026-10-16T06:44:56Z.",
+  "author": [
+    {
+      "literal": "Chulhoon Yoon"
+    },
+    {
+      "literal": "Kyungri Park"
+    },
+    {
+      "literal": "Jinyeong Yun"
+    },
+    {
+      "literal": "Daeyun Jeong"
+    },
+    {
+      "literal": "Sukmin Yun"
+    },
+    {
+      "literal": "Woohwan Jung"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        16
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.23012",
+  "genre": "preprint",
+  "version": "1"
+}
