@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2610.22448",
+  "citation-key": "arxiv_2610_22448",
+  "type": "article",
+  "title": "Lean4AgenticRL: Advancing Agentic RL with Verifiable Multi-level Process Rewards",
+  "URL": "https://arxiv.org/abs/2610.22448v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.22448",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.22448",
+    "identifiers": {
+      "arxiv": "2610.22448"
+    },
+    "first_published_at": "2026-10-15",
+    "record_updated_at": "2026-10-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "675d07a096cac3a71fde043d0c613ea212a8e8e6f5f4172d92d2db08579f9ac3",
+      "submitted_at": "2026-10-15T15:26:54Z",
+      "updated_at": "2026-10-15T15:26:54Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.22448v1"
+    }
+  },
+  "note": "First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T15:26:54Z.",
+  "author": [
+    {
+      "literal": "Ruida Wang"
+    },
+    {
+      "literal": "Gerald Friedland"
+    },
+    {
+      "literal": "Tong Zhang"
+    },
+    {
+      "literal": "Chris Kong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.22448",
+  "genre": "preprint",
+  "version": "1"
+}
