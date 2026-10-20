@@ -8,6 +8,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/interaction-h
 
 - [ScopeMem: Latent Memory That Learns Where to Revise Frozen GUI Agents](https://awesomecua.github.io/resources/arxiv-2610-26503/) — 2026-10-19
   ScopeMem conditions latent-memory prefixes on a frozen GUI agent's initial action and trains them to correct errors while preserving correct decisions. Its evaluation separates action repairs from harmful revisions.
+- [Focused Omni-Modal GUI Agents](https://awesomecua.github.io/resources/arxiv-2610-26203/) — 2026-10-19
+  FocusGUI learns step-specific weights over screenshot, audio, video and interaction-context channels, injecting a compact residual into a frozen decoder without pruning its inputs.
 - [Learn How to Act from Your Own Interactions: On-Policy Self-Distillation for GUI Agents](https://awesomecua.github.io/resources/arxiv-2609-27307/) — 2026-09-23
   GUI-SD-v2 extends on-policy self-distillation from grounding to multi-turn GUI interaction. It first strengthens responses to privileged guidance, then selectively distills step-specific reasoning and memory support for later actions.
 - [AnchorGUI: Asymmetric Memory for Dual-Scale Learning in GUI Navigation](https://awesomecua.github.io/resources/arxiv-2609-15457/) — 2026-09-14

@@ -21,7 +21,7 @@
     }
   },
   "environments": [
-    "unspecified"
+    "android"
   ],
   "evidence": [
     {
@@ -38,6 +38,32 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=2610.19384%2C2610.22672%2C2610.22697%2C2610.23303%2C2610.23307%2C2610.24729&max_results=6"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T08:27:26.236797+00:00",
+      "role": "primary",
+      "sha256": "80bed80786f939973d0d13b4f892300fee02a6110e326247131fc83d257796de",
+      "supports": [
+        "name",
+        "kind",
+        "scope"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22browser+agents%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22mobile+agents%22+OR+ti%3A%22desktop+agent%22%29+AND+submittedDate%3A%5B202610130000+TO+202610192359%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T09:17:36.223826+00:00",
+      "role": "primary",
+      "sha256": "3803984a185b6258276b87b87ac1991583878fb41dc22618ff743f6f69c7bc7e",
+      "supports": [
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes"
+      ],
+      "url": "https://arxiv.org/html/2610.23307v1"
     }
   ],
   "id": "arxiv:2610.23307",
@@ -45,7 +71,7 @@
     "arxiv": "2610.23307"
   },
   "kind": "paper",
-  "last_verified_at": "2026-10-20T05:52:01Z",
+  "last_verified_at": "2026-10-20T08:27:26.236797+00:00",
   "licenses": {
     "code": null,
     "data": null,
@@ -54,18 +80,24 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2610.23307"
     }
   ],
   "name": "MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "Reviewed the complete abstract and selected v1 construction, threat-model and evaluation sections. The attacker modifies observation surfaces, not system instructions, model parameters or the OS. State oracles are distinct from emitted-rationale diagnoses, whose labels include outcome-dependent constraints. Those diagnostics are not independent evidence of hidden-reasoning causality. No reproduction or release verification.",
   "published_at": "2026-10-16",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "MobileInject evaluates visual/textual observation injection in stateful Android workflows using resettable emulators, benign/adversarial state oracles and trace-based diagnosis of emitted rationales and actions.",
+  "topics": [
+    "safety-security",
+    "mobile-navigation",
+    "evaluation",
+    "observability",
+    "cross-app"
+  ],
   "updated_at": "2026-10-16",
   "url": "https://arxiv.org/abs/2610.23307"
 }

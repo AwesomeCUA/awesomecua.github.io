@@ -3311,6 +3311,76 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.26203v1",
+    "archive": "arXiv",
+    "archive_location": "2610.26203",
+    "author": [
+      {
+        "literal": "Fuyao Zhang"
+      },
+      {
+        "literal": "Wenwen He"
+      },
+      {
+        "literal": "Jiaming Zhang"
+      },
+      {
+        "literal": "Yurong Hao"
+      },
+      {
+        "literal": "Xuan Wang"
+      },
+      {
+        "literal": "Guowei Guan"
+      },
+      {
+        "literal": "Che Wang"
+      },
+      {
+        "literal": "Longtao Huang"
+      },
+      {
+        "literal": "Wei Yang Bryan Lim"
+      }
+    ],
+    "citation-key": "arxiv_2610_26203",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "41178d19a23653c0f49423b8f725584bded7ab8819a1a46e83a062794460b4cb",
+        "submitted_at": "2026-10-19T11:30:48Z",
+        "updated_at": "2026-10-19T11:30:48Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.26203v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.26203",
+      "catalog_id": "arxiv:2610.26203",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-19",
+      "identifiers": {
+        "arxiv": "2610.26203"
+      },
+      "record_updated_at": "2026-10-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.26203",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T11:30:48Z.",
+    "title": "Focused Omni-Modal GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.26503v1",
     "archive": "arXiv",
     "archive_location": "2610.26503",

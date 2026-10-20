@@ -1,20 +1,20 @@
 # Focused Omni-Modal GUI Agents
 
-Bibliographic record for Focused Omni-Modal GUI Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+FocusGUI learns step-specific weights over screenshot, audio, video and interaction-context channels, injecting a compact residual into a frozen decoder without pruning its inputs.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-26203/
 - Original source: https://arxiv.org/abs/2610.26203
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-20T05:52:00Z
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: screen-understanding, grounding, imitation-learning, interaction-history, mobile-navigation
+- Evidence checked: 2026-10-20T08:27:26.236797+00:00
 - ID: arxiv:2610.26203
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Reviewed the complete retained abstract and selected v1 method/evaluation sections. OmniGUI uses episode-disjoint reference-action evaluation; Type Match, Exact Match and Goal Progress are not presented as independently demonstrated live task-success gains. The Android role is explicit in Appendix D.1. No reproduction or artifact-release verification.
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2610-26203/record.json
 
@@ -46,3 +46,5 @@ Fuyao Zhang, Wenwen He, Jiaming Zhang, Yurong Hao, Xuan Wang, Guowei Guan, Che W
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B202610060000+TO+202610200000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T05:52:00Z; SHA-256 af310824eea97aac8209023ff53bad7bea77778816586b10bb94110148347af9)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22browser+agents%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22mobile+agents%22+OR+ti%3A%22desktop+agent%22%29+AND+submittedDate%3A%5B202610130000+TO+202610192359%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T08:27:26.236797+00:00; SHA-256 80bed80786f939973d0d13b4f892300fee02a6110e326247131fc83d257796de)
+- https://arxiv.org/html/2610.26203v1 (retrieved 2026-10-20T09:17:23.872790+00:00; SHA-256 28848f8f597b2a8865ad98f5aa1e4401e15a49f92b33f7bce4d4f044c168ada0)

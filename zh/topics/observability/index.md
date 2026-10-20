@@ -6,6 +6,10 @@ Full source records: https://awesomecua.github.io/downloads/topics/observability
 
 ## 论文与综述
 
+- [Comparing Computer Use Behavior Across Multiple Levels of Abstraction](https://awesomecua.github.io/resources/arxiv-2610-26703/) — 2026-10-19
+  MAP annotates computer-use traces at linked operation, function/consequence, method and goal levels, then compares human and agent workflows through sequence, pattern and effort metrics.
+- [MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection](https://awesomecua.github.io/resources/arxiv-2610-23307/) — 2026-10-16
+  MobileInject evaluates visual/textual observation injection in stateful Android workflows using resettable emulators, benign/adversarial state oracles and trace-based diagnosis of emitted rationales and actions.
 - [WebFovea: When the Model Is Right but the Click Is Wrong -- Reliable Round Trips for Vision-Based Web Agents on Live Websites](https://awesomecua.github.io/resources/arxiv-2610-03036/) — 2026-10-02
   Describes WebFovea, a vision-based live-web agent whose execution loop checks action parsing, browser effects, feedback accuracy, and observation delivery. The report analyzes failures such as coordinate mismatches and silent control interactions and documents corresponding harness changes.
 - [Auditing Web Agent Evaluation on WebArena-Lite: Human Review of Outcomes and Trajectories](https://awesomecua.github.io/resources/arxiv-2610-01491/) — 2026-10-01

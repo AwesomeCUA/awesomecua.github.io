@@ -1,20 +1,20 @@
 # MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection
 
-Bibliographic record for MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+MobileInject evaluates visual/textual observation injection in stateful Android workflows using resettable emulators, benign/adversarial state oracles and trace-based diagnosis of emitted rationales and actions.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-23307/
 - Original source: https://arxiv.org/abs/2610.23307
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-20T05:52:01Z
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: safety-security, mobile-navigation, evaluation, observability, cross-app
+- Evidence checked: 2026-10-20T08:27:26.236797+00:00
 - ID: arxiv:2610.23307
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Reviewed the complete abstract and selected v1 construction, threat-model and evaluation sections. The attacker modifies observation surfaces, not system instructions, model parameters or the OS. State oracles are distinct from emitted-rationale diagnoses, whose labels include outcome-dependent constraints. Those diagnostics are not independent evidence of hidden-reasoning causality. No reproduction or release verification.
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2610-23307/record.json
 
@@ -46,3 +46,5 @@ Songping Wang, Peiyang Li, Yi Huang, Fengting Li, Xuhao Ran, Yueming Lyu, Chao F
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2610.19384%2C2610.22672%2C2610.22697%2C2610.23303%2C2610.23307%2C2610.24729&max_results=6 (retrieved 2026-10-20T05:52:01Z; SHA-256 63e37cd26bfe69455a3fa835f3d6ba4cfcc5bb7dc91f90505920d37b1e08f0b6)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22browser+agents%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22mobile+agents%22+OR+ti%3A%22desktop+agent%22%29+AND+submittedDate%3A%5B202610130000+TO+202610192359%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T08:27:26.236797+00:00; SHA-256 80bed80786f939973d0d13b4f892300fee02a6110e326247131fc83d257796de)
+- https://arxiv.org/html/2610.23307v1 (retrieved 2026-10-20T09:17:36.223826+00:00; SHA-256 3803984a185b6258276b87b87ac1991583878fb41dc22618ff743f6f69c7bc7e)

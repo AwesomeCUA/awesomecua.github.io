@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "catalog_sha256": "6145afd5a0ca9359a89a6c6d765cb251f34fcbffd83fd9d70e3ce2542febe497",
+  "catalog_sha256": "9beabb10c42308ce91d760338d976f91404af60a96ba9a278d2d3abe78623803",
   "membership_policy": "Explicit reviewed topic tags only; curated core/adjacent resources. No title-based inference.",
   "count_policy": "Resources are not independent projects. Topic memberships overlap; do not sum topic totals.",
   "citation_policy": "Default retained-source edition; source-specific author/date precision and paper versions are preserved.",
-  "reviewed_resources": 1633,
-  "resources_with_topics": 1633,
+  "reviewed_resources": 1638,
+  "resources_with_topics": 1638,
   "reviewed_resources_without_topics": 0,
   "topics": [
     {
@@ -256,8 +256,8 @@
         "zh": "跨应用"
       },
       "counts": {
-        "total": 54,
-        "papers": 35,
+        "total": 55,
+        "papers": 36,
         "benchmarks": 13,
         "datasets": 2,
         "models": 0,
@@ -298,6 +298,7 @@
         "arxiv:2609.37053",
         "arxiv:2609.37686",
         "arxiv:2610.11050",
+        "arxiv:2610.23307",
         "component:x-plug/mobileagent/pc-agent",
         "github:bytedance/gui-rewalk",
         "github:camel-ai/crab",
@@ -326,21 +327,21 @@
       "exports": [
         {
           "url": "/downloads/topics/cross-app/records.jsonl",
-          "records": 54,
-          "bytes": 199322,
-          "sha256": "c56e209e20aa704de5321b9cb226158d70bbf230a50e9e38dbbd887691028379"
+          "records": 55,
+          "bytes": 202636,
+          "sha256": "efac675f06d728b56bd7d358fa87e7dc234e5eaa35aaf165190bf431abdca6e5"
         },
         {
           "url": "/downloads/topics/cross-app/citations.bib",
-          "records": 35,
-          "bytes": 30355,
-          "sha256": "db42e7a33746d5138644e93b61fa5cdbc21e0b71795aa855a989c3ba92231b98"
+          "records": 36,
+          "bytes": 31051,
+          "sha256": "e64049c116b3987f29029d0079ba9f65cdd91de1b3d6cca86a073e1c1892eb07"
         },
         {
           "url": "/downloads/topics/cross-app/citations.csl.json",
-          "records": 35,
-          "bytes": 72178,
-          "sha256": "5b687b69ba4078f5eec7c7f2f540dba60b38bef5badbf1d843bd32160252890b"
+          "records": 36,
+          "bytes": 73982,
+          "sha256": "c9c45845c97d3d2ed6021434f02d5bc5ce4e4ab3a359d873532770b7f848c174"
         }
       ]
     },
@@ -733,8 +734,8 @@
         "zh": "效率"
       },
       "counts": {
-        "total": 151,
-        "papers": 141,
+        "total": 152,
+        "papers": 142,
         "benchmarks": 1,
         "datasets": 0,
         "models": 5,
@@ -882,6 +883,7 @@
         "arxiv:2610.20390",
         "arxiv:2610.22280",
         "arxiv:2610.26469",
+        "arxiv:2610.26660",
         "github:digirl-agent/digiq",
         "github:distrl-lab/distrl-open",
         "github:showlab/showui",
@@ -900,21 +902,21 @@
       "exports": [
         {
           "url": "/downloads/topics/efficiency/records.jsonl",
-          "records": 151,
-          "bytes": 451935,
-          "sha256": "af55eaaba3319d4a75948d92850e6ba41895aba350b861d17bab8ec21cf2bcc6"
+          "records": 152,
+          "bytes": 455267,
+          "sha256": "62584ec42ab9075892891159ad59bc19e301bb9843c22c9f363ea8dc7e87bfc7"
         },
         {
           "url": "/downloads/topics/efficiency/citations.bib",
-          "records": 141,
-          "bytes": 95528,
-          "sha256": "3d24f9f8e9c8516bed2506519cec0e9efae17b4203c7a7e540e592ccdf29c55c"
+          "records": 142,
+          "bytes": 96146,
+          "sha256": "b1386a87d302ba7cb2fc8933eca182de2ccbb0e86e5e15b29e57d296dd1f668f"
         },
         {
           "url": "/downloads/topics/efficiency/citations.csl.json",
-          "records": 141,
-          "bytes": 247488,
-          "sha256": "fd573133eec15837e25cf23722a9b291fbb3c2c3acbfc849f43780ca22c35f86"
+          "records": 142,
+          "bytes": 249182,
+          "sha256": "46d43a5ebcfad9256909b6fcb2e97f20e25ab06d6540c5d744eedbd1d51ca737"
         }
       ]
     },
@@ -925,8 +927,8 @@
         "zh": "评测"
       },
       "counts": {
-        "total": 694,
-        "papers": 571,
+        "total": 697,
+        "papers": 574,
         "benchmarks": 86,
         "datasets": 9,
         "models": 1,
@@ -1498,9 +1500,12 @@
         "arxiv:2610.19900",
         "arxiv:2610.20584",
         "arxiv:2610.20939",
+        "arxiv:2610.23307",
+        "arxiv:2610.24277",
         "arxiv:2610.26071",
         "arxiv:2610.26469",
         "arxiv:2610.26503",
+        "arxiv:2610.26703",
         "github:acrab-agentic-labs/appsim",
         "github:ai-agents-2030/spa-bench",
         "github:ai-secure/advagent",
@@ -1635,21 +1640,21 @@
       "exports": [
         {
           "url": "/downloads/topics/evaluation/records.jsonl",
-          "records": 694,
-          "bytes": 2212234,
-          "sha256": "f792534e03f4d1d4bb12399f4501b59c9cfc926cc1c0e84eec71bbc7fa3760df"
+          "records": 697,
+          "bytes": 2222308,
+          "sha256": "3ae7bf553f3f872f5ac978b98dc1ba5138dd04b4c22bec0e49ac1135d3a68c9a"
         },
         {
           "url": "/downloads/topics/evaluation/citations.bib",
-          "records": 571,
-          "bytes": 418745,
-          "sha256": "170939c31f8a55b4c623b9e0409449e6bcb9f8b6bbc7c88de847194bc6a23941"
+          "records": 574,
+          "bytes": 420663,
+          "sha256": "802b9f193c8f0c5e6f074287444f24dcd68eeb1e99710d03ca1371a3c287d947"
         },
         {
           "url": "/downloads/topics/evaluation/citations.csl.json",
-          "records": 571,
-          "bytes": 1060496,
-          "sha256": "b483c6054c0cf8cc70832c1debbcfe05648d39e1577189da46eec9d1852a6ee5"
+          "records": 574,
+          "bytes": 1065578,
+          "sha256": "4fec9b2214953c0b81d18c2988bd0193b0bd60cd4d6a0de1378c51f269b9601e"
         }
       ]
     },
@@ -1660,8 +1665,8 @@
         "zh": "GUI 定位"
       },
       "counts": {
-        "total": 374,
-        "papers": 246,
+        "total": 375,
+        "papers": 247,
         "benchmarks": 9,
         "datasets": 32,
         "models": 67,
@@ -1911,6 +1916,7 @@
         "arxiv:2610.19100",
         "arxiv:2610.20107",
         "arxiv:2610.20390",
+        "arxiv:2610.26203",
         "github:apple/ml-ferret",
         "github:ariaui/aria-ui",
         "github:bytedance/ui-tars",
@@ -2050,21 +2056,21 @@
       "exports": [
         {
           "url": "/downloads/topics/grounding/records.jsonl",
-          "records": 374,
-          "bytes": 1124368,
-          "sha256": "d184722820ba7fd75b451b0c4ef8a0414667943a42df8096dec905c6caa3439f"
+          "records": 375,
+          "bytes": 1127749,
+          "sha256": "ba373e737e834cf56c7eb482cb8ab9757f64535d881b44ee63d8a7463973ae3c"
         },
         {
           "url": "/downloads/topics/grounding/citations.bib",
-          "records": 246,
-          "bytes": 190727,
-          "sha256": "5683b6ae1fad8ad44adf4a74a4d6ccf56e46ca24121bd3238c7cf3d4362880a2"
+          "records": 247,
+          "bytes": 191357,
+          "sha256": "6728914bfc2edd288defbd025c190a9e5d6fd052ae5a52424937ad5753ca69f4"
         },
         {
           "url": "/downloads/topics/grounding/citations.csl.json",
-          "records": 246,
-          "bytes": 465122,
-          "sha256": "d45f154991f08d1a5cb5c1e6f6fed6e7412bce8c5e0f5c602f2e3ce37e7fd4ba"
+          "records": 247,
+          "bytes": 466892,
+          "sha256": "609a65c7dc736f052db8ac275c94d53fc1072cc9319045955f2213e365ae8c75"
         }
       ]
     },
@@ -2120,8 +2126,8 @@
         "zh": "人机协作"
       },
       "counts": {
-        "total": 83,
-        "papers": 75,
+        "total": 84,
+        "papers": 76,
         "benchmarks": 1,
         "datasets": 0,
         "models": 0,
@@ -2198,6 +2204,7 @@
         "arxiv:2609.04850",
         "arxiv:2609.17885",
         "arxiv:2610.20100",
+        "arxiv:2610.24277",
         "github:alipay/mobile-agent",
         "github:alokia/cola-demo",
         "github:microsoft/magentic-ui",
@@ -2219,21 +2226,21 @@
       "exports": [
         {
           "url": "/downloads/topics/human-in-the-loop/records.jsonl",
-          "records": 83,
-          "bytes": 261358,
-          "sha256": "7776381795efb71d4c4ec12ce915116a69ada7faf490023247c6575a7b8ff21d"
+          "records": 84,
+          "bytes": 264781,
+          "sha256": "b4b4320b8b6fbea21c75a90504b4be5e92d4897ec9d15b67bf42e3ffd161ab3c"
         },
         {
           "url": "/downloads/topics/human-in-the-loop/citations.bib",
-          "records": 75,
-          "bytes": 57343,
-          "sha256": "50cc7f243993ddecaf6e5e89130000a151ab36241c80eca484ea863c088abfdd"
+          "records": 76,
+          "bytes": 57976,
+          "sha256": "4b63d98bc644563ac60b3c1aa6847033f4756979eddf86a50fb28c7da44b50bd"
         },
         {
           "url": "/downloads/topics/human-in-the-loop/citations.csl.json",
-          "records": 75,
-          "bytes": 136734,
-          "sha256": "fa3c72bfef6199dbb5c5b965834dc6fffdafad180c92773afab6e490d7b35b89"
+          "records": 76,
+          "bytes": 138443,
+          "sha256": "1762494b99a32a9bf27de865d83a57d152d5e662e0fd420c57ac64770f3d189a"
         }
       ]
     },
@@ -2244,8 +2251,8 @@
         "zh": "模仿学习"
       },
       "counts": {
-        "total": 78,
-        "papers": 47,
+        "total": 79,
+        "papers": 48,
         "benchmarks": 1,
         "datasets": 14,
         "models": 5,
@@ -2297,6 +2304,7 @@
         "arxiv:2609.27307",
         "arxiv:2609.27353",
         "arxiv:2610.26071",
+        "arxiv:2610.26203",
         "arxiv:2610.26503",
         "arxiv:2610.26828",
         "github:apga/go-browse",
@@ -2338,21 +2346,21 @@
       "exports": [
         {
           "url": "/downloads/topics/imitation-learning/records.jsonl",
-          "records": 78,
-          "bytes": 263174,
-          "sha256": "3e7be8ced395f338b71f2769b5d71c165956c2a3dfd56d50d2ca381192ce995d"
+          "records": 79,
+          "bytes": 266555,
+          "sha256": "c7e36d43e718bca5168403adfc1b9d7273778dc723a6fc9d70484877b354b981"
         },
         {
           "url": "/downloads/topics/imitation-learning/citations.bib",
-          "records": 47,
-          "bytes": 35209,
-          "sha256": "e041e10660470a26a7e0f1a6790816684fa43b951d5a031fdfa56df48b912f4b"
+          "records": 48,
+          "bytes": 35839,
+          "sha256": "e1d08ad01ebe6062fbba3ef9ae4b7875c891c6cc1973701ef357d7ed2ad98655"
         },
         {
           "url": "/downloads/topics/imitation-learning/citations.csl.json",
-          "records": 47,
-          "bytes": 90128,
-          "sha256": "97d2277bdb8ae3fe7640c68ace357079226f3ee4f3b9b2be1e211fcb242dcba8"
+          "records": 48,
+          "bytes": 91898,
+          "sha256": "4522825b264667453411c85c5804d08fc98a7fbf15ecc904b5aa7499b069a977"
         }
       ]
     },
@@ -2431,8 +2439,8 @@
         "zh": "交互历史"
       },
       "counts": {
-        "total": 49,
-        "papers": 47,
+        "total": 50,
+        "papers": 48,
         "benchmarks": 0,
         "datasets": 0,
         "models": 1,
@@ -2484,6 +2492,7 @@
         "arxiv:2609.10297",
         "arxiv:2609.15457",
         "arxiv:2609.27307",
+        "arxiv:2610.26203",
         "arxiv:2610.26503",
         "github:kwai/memgui-agent",
         "url:085b6811ddd6f797475d",
@@ -2496,21 +2505,21 @@
       "exports": [
         {
           "url": "/downloads/topics/interaction-history/records.jsonl",
-          "records": 49,
-          "bytes": 153107,
-          "sha256": "5006acb27fafaeda8eee3aceb01b08ee25d90860d11d335f64bfc4468510bbba"
+          "records": 50,
+          "bytes": 156488,
+          "sha256": "098bf6d8073188bb42e70b497514cc5b176e444769af9d7d11ad0b8a61095d75"
         },
         {
           "url": "/downloads/topics/interaction-history/citations.bib",
-          "records": 47,
-          "bytes": 33362,
-          "sha256": "33fda7882cb6b48415ddaeb0a900a751698d6b175f227a2fd86a405f339b4c66"
+          "records": 48,
+          "bytes": 33992,
+          "sha256": "4a09225e2787fe3599af0a816bfba065bcf41579a91bab2fab5432085e9def60"
         },
         {
           "url": "/downloads/topics/interaction-history/citations.csl.json",
-          "records": 47,
-          "bytes": 85270,
-          "sha256": "e6abf550d169a214fc49f72630202d9a2dd4f9eb8f42efc5c4e1dece15c1ce28"
+          "records": 48,
+          "bytes": 87040,
+          "sha256": "fa6ba12d5a60fdc0952a0e389e16dfd25a89a65d9fcbbb7010d588c324d5bdb0"
         }
       ]
     },
@@ -2873,8 +2882,8 @@
         "zh": "手机操作"
       },
       "counts": {
-        "total": 272,
-        "papers": 200,
+        "total": 275,
+        "papers": 203,
         "benchmarks": 14,
         "datasets": 13,
         "models": 15,
@@ -3078,6 +3087,9 @@
         "arxiv:2610.16778",
         "arxiv:2610.17928",
         "arxiv:2610.19900",
+        "arxiv:2610.23307",
+        "arxiv:2610.26203",
+        "arxiv:2610.26660",
         "component:google-research/android_control",
         "component:google-research/android_in_the_wild",
         "component:x-plug/mobileagent/mobile-agent-e",
@@ -3161,21 +3173,21 @@
       "exports": [
         {
           "url": "/downloads/topics/mobile-navigation/records.jsonl",
-          "records": 272,
-          "bytes": 891125,
-          "sha256": "c73284405e2649e2154ae4c5be454b9e9a0af2fb9e98408ffe145793f415feac"
+          "records": 275,
+          "bytes": 901152,
+          "sha256": "9c48241aa797872f12547b8b7268df5b06d7f54463a96ef59db58fff2ebf1b55"
         },
         {
           "url": "/downloads/topics/mobile-navigation/citations.bib",
-          "records": 200,
-          "bytes": 162116,
-          "sha256": "c5e80620fe503da159547a131a6be322a4fd33875c8ea5e3643ec653deb239a0"
+          "records": 203,
+          "bytes": 164060,
+          "sha256": "4a47e10061ca0304540b4568ab5250b921389dd46f48ab2247401bf76c3ed92a"
         },
         {
           "url": "/downloads/topics/mobile-navigation/citations.csl.json",
-          "records": 200,
-          "bytes": 391751,
-          "sha256": "a6467dbd02d6fa9f8651145ad9dd48726a4b460ec72c6ecdea00d6fd9e7f3273"
+          "records": 203,
+          "bytes": 397019,
+          "sha256": "ebcdacf6f0412d7c87fe82ea3d5d3f1b25f7397253668acf207e35fbd7ac9529"
         }
       ]
     },
@@ -3186,8 +3198,8 @@
         "zh": "可观测性"
       },
       "counts": {
-        "total": 36,
-        "papers": 33,
+        "total": 38,
+        "papers": 35,
         "benchmarks": 0,
         "datasets": 0,
         "models": 0,
@@ -3227,6 +3239,8 @@
         "arxiv:2610.00948",
         "arxiv:2610.01491",
         "arxiv:2610.03036",
+        "arxiv:2610.23307",
+        "arxiv:2610.26703",
         "github:aaronlab/browsertrace",
         "github:garyyang12345/gui-harvest",
         "github:omxyz/lumen"
@@ -3238,21 +3252,21 @@
       "exports": [
         {
           "url": "/downloads/topics/observability/records.jsonl",
-          "records": 36,
-          "bytes": 105005,
-          "sha256": "aa8c7b4347038b3290cbc0e09b9035bed6c8463f046cbbebf85cc9e8c55ad1c8"
+          "records": 38,
+          "bytes": 111656,
+          "sha256": "47e3329426d9278a0374dbf66633dee09743516400508720f67c007996fd4b16"
         },
         {
           "url": "/downloads/topics/observability/citations.bib",
-          "records": 33,
-          "bytes": 20704,
-          "sha256": "ed8387da2f3ddaa2a8afb11dffcae4c1b118b76e04eba93dd2ec85011d815344"
+          "records": 35,
+          "bytes": 21989,
+          "sha256": "618f4476f7208fbfb7b0e607d2b8cd54247f5028ef7313ad62426d501148b746"
         },
         {
           "url": "/downloads/topics/observability/citations.csl.json",
-          "records": 33,
-          "bytes": 55383,
-          "sha256": "f7445efb3ec172a8d0016c1dbb237d9d00632fa881d19ef711ee6dc78aee99ed"
+          "records": 35,
+          "bytes": 58756,
+          "sha256": "84f8c3c7f7e718ab4c1468ce13bb31f9303f8947c3e688c9fa9122808796f16e"
         }
       ]
     },
@@ -4247,8 +4261,8 @@
         "zh": "安全与防护"
       },
       "counts": {
-        "total": 205,
-        "papers": 186,
+        "total": 207,
+        "papers": 188,
         "benchmarks": 12,
         "datasets": 0,
         "models": 0,
@@ -4441,6 +4455,8 @@
         "arxiv:2610.17457",
         "arxiv:2610.18508",
         "arxiv:2610.20100",
+        "arxiv:2610.23307",
+        "arxiv:2610.24277",
         "github:ai-secure/advagent",
         "github:chenwu98/agent-attack",
         "github:facebookresearch/ai-agent-privacy",
@@ -4468,21 +4484,21 @@
       "exports": [
         {
           "url": "/downloads/topics/safety-security/records.jsonl",
-          "records": 205,
-          "bytes": 601709,
-          "sha256": "7ace37a6121d03bcda048da52e148654a1e2c41df7cff515c04256854085aa3c"
+          "records": 207,
+          "bytes": 608446,
+          "sha256": "707c033928ac1762942b5eaba6618766acd8013fbabc4edb1b4d4b50043416fa"
         },
         {
           "url": "/downloads/topics/safety-security/citations.bib",
-          "records": 186,
-          "bytes": 123029,
-          "sha256": "ed9ee883e9935a19538292fcbb6348c4cd1785bc11a9031f5065a46b63a3e851"
+          "records": 188,
+          "bytes": 124358,
+          "sha256": "b56bad485253ea96f32e04bdba01b2fac2adff9aa30a77cab8edfecca4e6ca73"
         },
         {
           "url": "/downloads/topics/safety-security/citations.csl.json",
-          "records": 186,
-          "bytes": 321361,
-          "sha256": "53b8ecd3599e0b55a8abaf6311b7f0905fe27046ca662303c413036c7c8efd84"
+          "records": 188,
+          "bytes": 324874,
+          "sha256": "f330b9afa521f6a36dd05b0932797a7c50e9d92becc496c41fe00d87d8372b0a"
         }
       ]
     },
@@ -4650,8 +4666,8 @@
         "zh": "界面理解"
       },
       "counts": {
-        "total": 207,
-        "papers": 162,
+        "total": 208,
+        "papers": 163,
         "benchmarks": 5,
         "datasets": 19,
         "models": 10,
@@ -4818,6 +4834,7 @@
         "arxiv:2610.17792",
         "arxiv:2610.18508",
         "arxiv:2610.20390",
+        "arxiv:2610.26203",
         "github:akimotoayako/visiontasker",
         "github:apple/ml-ferret",
         "github:caap-agent/caap-agent",
@@ -4873,21 +4890,21 @@
       "exports": [
         {
           "url": "/downloads/topics/screen-understanding/records.jsonl",
-          "records": 207,
-          "bytes": 667630,
-          "sha256": "7953c3ca037f5a765c5d7bb5f665afda2dddcac6773b98c1cd760ed48a29580c"
+          "records": 208,
+          "bytes": 671011,
+          "sha256": "c4b9ca68a05bc946525aa4586b8827d03d251632a9d8c93baa87555a55c32449"
         },
         {
           "url": "/downloads/topics/screen-understanding/citations.bib",
-          "records": 162,
-          "bytes": 119610,
-          "sha256": "0fc1bb926dad380bf65ca0c25c783e349a160335c421242dd76117762d957fd2"
+          "records": 163,
+          "bytes": 120240,
+          "sha256": "0cd21601c5b693169891e9fc79bb32e68be064252a22dca13e0500460c86f7dc"
         },
         {
           "url": "/downloads/topics/screen-understanding/citations.csl.json",
-          "records": 162,
-          "bytes": 294801,
-          "sha256": "c245666d2886549cb5fee2fbc3ac7e05cde1afeb5c48e793a5f2d9b830519179"
+          "records": 163,
+          "bytes": 296571,
+          "sha256": "b78e73ef340b6f1118b62db3a95c4fae53a92d62cf05bb118bd4d9638fbe83f7"
         }
       ]
     },
@@ -5514,8 +5531,8 @@
         "zh": "网页导航"
       },
       "counts": {
-        "total": 294,
-        "papers": 213,
+        "total": 295,
+        "papers": 214,
         "benchmarks": 17,
         "datasets": 8,
         "models": 11,
@@ -5730,6 +5747,7 @@
         "arxiv:2610.17457",
         "arxiv:2610.19834",
         "arxiv:2610.20107",
+        "arxiv:2610.24277",
         "component:tencent/selfevolvingagent/webevolver",
         "component:xlang-ai/openagents/web_agent",
         "github:ai-nikolai/stateact",
@@ -5824,21 +5842,21 @@
       "exports": [
         {
           "url": "/downloads/topics/web-navigation/records.jsonl",
-          "records": 294,
-          "bytes": 912397,
-          "sha256": "050ad2572df7acdc9573ca0099a573739970acb88adb2170ce09d486bd0fc5dd"
+          "records": 295,
+          "bytes": 915820,
+          "sha256": "5a2a8f39a278e5295234309eba27451ceecf8ec6cb0153bff361d83851db9f83"
         },
         {
           "url": "/downloads/topics/web-navigation/citations.bib",
-          "records": 213,
-          "bytes": 167859,
-          "sha256": "0315ca7deb6cfabb159156f4fda260dd4a0dd4f4bace258da36f19472183ca60"
+          "records": 214,
+          "bytes": 168492,
+          "sha256": "0d0062de68ae9fa366f597b6db8872bc04a60a0b47eeb60627b1e09e42b8271d"
         },
         {
           "url": "/downloads/topics/web-navigation/citations.csl.json",
-          "records": 213,
-          "bytes": 400563,
-          "sha256": "d647a1f30cf20cad5e7866073a3b0f81a3c5a3354f4c5a6f279466772946ea91"
+          "records": 214,
+          "bytes": 402272,
+          "sha256": "117847cb1b5799174cead53c26e4ac26a8bfa2aeca32b7c026384727e351eb0c"
         }
       ]
     },

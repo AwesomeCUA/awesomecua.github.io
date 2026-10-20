@@ -44,9 +44,9 @@ python3 scripts/catalog.py get arxiv:2404.07972 --related --json
 
 </details>
 
-**3,207 resource records** · **1,633 curated** · **2,745 paper and survey records** · **54 discovery documents**
+**3,207 resource records** · **1,638 curated** · **2,745 paper and survey records** · **54 discovery documents**
 
-Evidence snapshot: 2026-10-20T08:29:05.337543+00:00. Bibliography counts overlap review-state counts. Resources are not independent projects.
+Evidence snapshot: 2026-10-20T09:17:36.223826+00:00. Bibliography counts overlap review-state counts. Resources are not independent projects.
 
 ## What is a computer-use agent?
 
@@ -73,15 +73,15 @@ Category pages highlight reviewed resources; the [interactive catalog](https://a
 ## Research reading list
 
 - [CUA-Lite: An Open Platform for Computer Use Agents](https://awesomecua.github.io/resources/arxiv-2610-26071/) — CUA-Lite unifies environment interfaces, supervised data formats and per-model harnesses for evaluation, reinforcement learning and supervised fine-tuning across desktop, browser and mobile tasks. [Original paper](https://arxiv.org/abs/2610.26071).
+- [Focused Omni-Modal GUI Agents](https://awesomecua.github.io/resources/arxiv-2610-26203/) — FocusGUI learns step-specific weights over screenshot, audio, video and interaction-context channels, injecting a compact residual into a frozen decoder without pruning its inputs. [Original paper](https://arxiv.org/abs/2610.26203).
 - [VeriCUA: Learning Proactive Verification for Reliable GUI Agent Rewards](https://awesomecua.github.io/resources/arxiv-2610-26469/) — VeriCUA trains a Judge to select verification checks and stopping decisions while a frozen Probe inspects the post-task GUI. Single-attempt reinforcement learning balances verdict correctness and Probe use. [Original paper](https://arxiv.org/abs/2610.26469).
 - [ScopeMem: Latent Memory That Learns Where to Revise Frozen GUI Agents](https://awesomecua.github.io/resources/arxiv-2610-26503/) — ScopeMem conditions latent-memory prefixes on a frozen GUI agent's initial action and trains them to correct errors while preserving correct decisions. Its evaluation separates action repairs from harmful revisions. [Original paper](https://arxiv.org/abs/2610.26503).
+- [Tandem: Serving Hybrid Linear-Attention GUI Agents on Mobile NPUs](https://awesomecua.github.io/resources/arxiv-2610-26660/) — Tandem serves hybrid GUI-agent models on Android NPUs using divergence-point state checkpoints, rollback-aware speculative decoding and idle power release between request bursts. [Original paper](https://arxiv.org/abs/2610.26660).
+- [Comparing Computer Use Behavior Across Multiple Levels of Abstraction](https://awesomecua.github.io/resources/arxiv-2610-26703/) — MAP annotates computer-use traces at linked operation, function/consequence, method and goal levels, then compares human and agent workflows through sequence, pattern and effort metrics. [Original paper](https://arxiv.org/abs/2610.26703).
 - [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](https://awesomecua.github.io/resources/arxiv-2610-26828/) — WildAWM synthesizes resettable GUI/MCP/CLI environments and cross-interface tasks, using execution-based checks of solvability, difficulty and verifier consistency before supervised and reinforcement learning. [Original paper](https://arxiv.org/abs/2610.26828).
+- [MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection](https://awesomecua.github.io/resources/arxiv-2610-23307/) — MobileInject evaluates visual/textual observation injection in stateful Android workflows using resettable emulators, benign/adversarial state oracles and trace-based diagnosis of emitted rationales and actions. [Original paper](https://arxiv.org/abs/2610.23307).
+- [SPIDES: Information-Flow Control for Browser Agents](https://awesomecua.github.io/resources/arxiv-2610-24277/) — SPIDES propagates HTML integrity and confidentiality labels into agent context and mediates browser actions with information-flow policies and approval gates, evaluated in the labeled MicroNet ecosystem. [Original paper](https://arxiv.org/abs/2610.24277).
 - [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://awesomecua.github.io/resources/arxiv-2610-22200/) — Introduces an open generalist computer-use stack combining visual and programmatic interaction, with model-controlled observation and task-state decisions. [Original paper](https://arxiv.org/abs/2610.22200).
-- [OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents](https://awesomecua.github.io/resources/arxiv-2610-22234/) — Trains native computer-use models to coordinate GUI actions and code execution using hybrid demonstrations and online reinforcement learning. [Original paper](https://arxiv.org/abs/2610.22234).
-- [LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents](https://awesomecua.github.io/resources/arxiv-2610-22280/) — Uses weak-agent uncertainty to decide when to escalate to a stronger model and monitor its subsequent task execution. [Original paper](https://arxiv.org/abs/2610.22280).
-- [Teaching Agents in their Own Style: Blackbox Teacher Distillation for Web Agents](https://awesomecua.github.io/resources/arxiv-2610-19834/) — Introduces WebKD, which repairs failed student web-agent trajectories with minimal teacher edits and trains on corrections that preserve the student's reasoning style. [Original paper](https://arxiv.org/abs/2610.19834).
-- [How GUI Agents Fail: GraceBench for Execution Stability Diagnosis](https://awesomecua.github.io/resources/arxiv-2610-19900/) — Introduces GraceBench, using application transition graphs and recorded interaction evidence to diagnose deviations, loops, and recovery that final task-success scores can hide. [Original paper](https://arxiv.org/abs/2610.19900).
-- [Task-State Governance: A Virtual Machine for Verifiable and Recoverable GUI Agent Execution](https://awesomecua.github.io/resources/arxiv-2610-20100/) — Presents TaskVM, an interface for specifying desired and preserved application state, checking agent actions, and exposing whether changes can be reversed or compensated. [Original paper](https://arxiv.org/abs/2610.20100).
 
 [All reviewed papers and surveys](https://awesomecua.github.io/papers/). Annotations do not independently reproduce experimental findings.
 

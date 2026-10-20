@@ -1,20 +1,20 @@
 # Comparing Computer Use Behavior Across Multiple Levels of Abstraction
 
-Bibliographic record for Comparing Computer Use Behavior Across Multiple Levels of Abstraction. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+MAP annotates computer-use traces at linked operation, function/consequence, method and goal levels, then compares human and agent workflows through sequence, pattern and effort metrics.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-26703/
 - Original source: https://arxiv.org/abs/2610.26703
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
-- Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-20T05:52:00Z
+- Review: curated
+- Scope: core
+- Environments: desktop, web
+- Topics: evaluation, observability
+- Evidence checked: 2026-10-20T08:27:26.236797+00:00
 - ID: arxiv:2610.26703
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+Reviewed the complete abstract and selected v1 taxonomy, annotation, evaluation and limitations sections. MAP analyzes existing human/agent traces rather than deploying a new acting policy. Annotation and timing coverage depend on the source datasets; manual agreement reflects a particular labeling scheme. Behavioral findings do not establish a privacy guarantee. No independent reproduction.
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2610-26703/record.json
 
@@ -46,3 +46,5 @@ Ananya Gubbi Mohanbabu, Rosiana Natalie, Anhong Guo, Amy Pavel
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B202610060000+TO+202610200000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T05:52:00Z; SHA-256 af310824eea97aac8209023ff53bad7bea77778816586b10bb94110148347af9)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22browser+agents%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22mobile+agents%22+OR+ti%3A%22desktop+agent%22%29+AND+submittedDate%3A%5B202610130000+TO+202610192359%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T08:27:26.236797+00:00; SHA-256 80bed80786f939973d0d13b4f892300fee02a6110e326247131fc83d257796de)
+- https://arxiv.org/html/2610.26703v1 (retrieved 2026-10-20T09:17:30.049627+00:00; SHA-256 9a964cbf50123887ad20bf156e69c0bbe4567d6b2c28e4cf202d5538eab8294c)
