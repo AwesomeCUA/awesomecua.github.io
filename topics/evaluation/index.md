@@ -26,6 +26,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/evaluation/re
   PersonaCUABench varies simulated user requests and clarification dialogue over fixed web tasks, comparing task completion with requirement handling and persona-agent satisfaction ratings.
 - [Not All Graphs Are Maps: A Task-Agnostic Exploration Framework for Mobile GUI Navigation](https://awesomecua.github.io/resources/arxiv-2610-22672/) — 2026-10-15
   TAG-Nav supplies Android GUI agents with destination and route memory distilled from offline app exploration. DestBench measures arrival at a reference pre-action screen, separately from downstream task execution.
+- [BlenderWorld: Benchmarking Visual Agents for 3D Creation from Real-World References](https://awesomecua.github.io/resources/arxiv-2610-23986/) — 2026-10-14
+  Benchmarks agents creating editable Blender projects through shell, Python and MCP tools, judging delivered scenes with multi-view renders, task-specific rubrics and visual-quality ratings.
 - [ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation](https://awesomecua.github.io/resources/arxiv-2610-22408/) — 2026-10-14
   ECHOES learns recursive textual task memory through privileged screenshot-history distillation and GRPO, then predicts GUI actions from the current screenshot and memory.
 - [MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments](https://awesomecua.github.io/resources/arxiv-2610-20939/) — 2026-10-14
@@ -36,6 +38,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/evaluation/re
   Introduces GraceBench, using application transition graphs and recorded interaction evidence to diagnose deviations, loops, and recovery that final task-success scores can hide.
 - [CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a Controllable and Verifiable Generation Pipeline](https://awesomecua.github.io/resources/arxiv-2610-19128/) — 2026-10-13
   Introduces CLASHarness, generating verifiable computer-use tasks with conflicting agent reports, shared-state constraints, and coordination requirements to evaluate conflict detection and resolution.
+- [Reading Right, Acting Wrong: Diagnosing Decision Failures of System One Models in Agent Loops](https://awesomecua.github.io/resources/arxiv-2610-18579/) — 2026-10-13
+  Pairs factual probes with next-action choices on frozen agent traces, including Mind2Web, to diagnose reading-decision gaps without closed-loop execution.
 - [Interaction-as-a-Judge](https://awesomecua.github.io/resources/arxiv-2610-17895/) — 2026-10-13
   Uses computer-use agents to interact with generated applications, studying whether interaction improves preference judging, requirement checks, and feedback for application generation.
 - [BrowseSafe++: Benchmarking Prompt Injection Detection Across Web Contexts, Languages, and Browser Views](https://awesomecua.github.io/resources/arxiv-2610-17457/) — 2026-10-12
@@ -48,6 +52,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/evaluation/re
   Studies prompt-injected account-access approvals in browser agents and proposes a service-side authority envelope that checks authorization requests against the user task before allowing them to complete.
 - [A Baseline Assessment for the Agentic Web Technology Stack](https://awesomecua.github.io/resources/arxiv-2610-13703/) — 2026-10-09
   Presents MASTIF, a framework for comparing combinations of agent models, protocols, and implementation frameworks on web tasks, with an initial assessment using 300 Mind2Web tasks.
+- [When Faster Decisions Do Not Make Better Agents: An Empirical Study of Jev in Agent Workflows](https://awesomecua.github.io/resources/arxiv-2610-13092/) — 2026-10-09
+  Evaluates Jev as a bounded action selector inside three AndroidWorld agents and two text-based ALFWorld agents, separating decision savings from task success, recovery and resources per delivered outcome.
 - [CaptchaAgent: Verifiable Visual Reasoning for CAPTCHA Solving](https://awesomecua.github.io/resources/arxiv-2610-12866/) — 2026-10-09
   Presents CaptchaAgent, which builds an explicit visual representation of objects and relations, refines ambiguous regions, and checks counterfactual consistency before acting on interactive CAPTCHAs.
 - [When Charts Deceive Web Agents: A Paired Benchmark for Misleading Visualization-Grounded Tasks](https://awesomecua.github.io/resources/arxiv-2610-12823/) — 2026-10-09
@@ -60,6 +66,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/evaluation/re
   Presents LGWM, a decoder-free GUI world model that predicts the next screen representation from an action and compares it with the observed state to verify transitions. Its paired diagnostic separates legitimate and hijacked transitions that lead to the same credential screen.
 - [AgentHorizon: Evaluating Agentic Judges for Long-Horizon Computer-Use Tasks](https://awesomecua.github.io/resources/arxiv-2610-11050/) — 2026-10-08
   Introduces AgentHorizon, a benchmark for judging long computer-use trajectories using closely related instructions paired with recorded actions and screenshots. It tests whether judges can detect constraint violations and distinguish successful tasks from similar but incompatible requests.
+- [AgentTime: Can Agents Estimate and Control Their Own Runtime?](https://awesomecua.github.io/resources/arxiv-2610-09944/) — 2026-10-07
+  Evaluates duration following, runtime forecasts and elapsed-time estimates in native agent harnesses, including OSWorld desktop tasks, with external timers, native graders and work-versus-wait analysis.
 - [Adversarial Images Hijack Web Agents from Visual Grounding to Browser Execution](https://awesomecua.github.io/resources/arxiv-2610-09240/) — 2026-10-07
   Introduces WebMirage, a visual red-teaming framework that models webpage element competition and action post-processing to test whether manipulated grounding decisions lead to executed browser actions.
 - [Can Agents Work for Everyone? Cross-User Reliability for Mobile GUI Agents in Personalized User Interfaces](https://awesomecua.github.io/resources/arxiv-2610-07972/) — 2026-10-06
@@ -76,6 +84,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/evaluation/re
   Introduces STEER-Bench to study branch-steering attacks that manipulate untrusted web data toward hazardous paths already permitted by an agent’s plan. Its COBRA architecture combines trusted branching plans with advance constraints on the parameters and destinations each branch can use.
 - [WebUIProof: Benchmarking WebUI Code Generators with UI-Agent Execution Harness](https://awesomecua.github.io/resources/arxiv-2610-02617/) — 2026-10-02
   Introduces an execution-based benchmark for generated web interfaces, with a headless-browser UI-agent harness that checks DOM interactions and functional assertions.
+- [How To Train Your World Model: Fine-tuning vs RAG for LM-based World Modeling](https://awesomecua.github.io/resources/arxiv-2610-02542/) — 2026-10-01
+  Compares fine-tuned, retrieval-based and hybrid language-model world models for next-observation prediction and action selection in text environments including WebShop.
 - [Not All Experience Belongs in the Weights: Component Routing for Self-Improving GUI Agents](https://awesomecua.github.io/resources/arxiv-2610-01787/) — 2026-10-01
   Studies how to route different parts of GUI experience into model weights or runtime context rather than treating whole trajectories as a single unit. It separates locators, procedures, state facts, and lessons, then predicts their destination from recurrence and dependence on the current state.
 - [Auditing Web Agent Evaluation on WebArena-Lite: Human Review of Outcomes and Trajectories](https://awesomecua.github.io/resources/arxiv-2610-01491/) — 2026-10-01
@@ -118,6 +128,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/evaluation/re
   Introduces StateAliasBench to isolate GUI world-model ambiguities in which matching visible screens and actions can lead to different futures. It augments frozen world models with structured state recovered from interaction history and evaluates the effect on prediction and agent execution.
 - [CUA-SWE: When Computer-Use Agents Meet Visual Software Engineering](https://awesomecua.github.io/resources/arxiv-2609-32600/) — 2026-09-26
   Introduces CUA-SWE, a benchmark and execution environment that combines code changes with graphical interaction and visual inspection of running software. Task-specific tests verify repairs and changes whose required information may be available only through the application interface.
+- [Learning from Others, Acting for You: Cross-User Memory Sharing for LLM Agents](https://awesomecua.github.io/resources/arxiv-2609-32511/) — 2026-09-26
+  ShareMem consolidates reusable experience across users while keeping preference retrieval user-bound; its web evaluation predicts target elements and actions on recorded Mind2Web states.
 - [DashAct: A Progressive Diagnostic Benchmark for GUI Agents in Interactive Dashboard Analysis](https://awesomecua.github.io/resources/arxiv-2609-32385/) — 2026-09-26
   Diagnoses dashboard-agent failures by progressively restoring interaction context, next-action support, and visual target information within the same task.
 - [ScreenHaystack: Finding Blind Zones in GUI Grounding](https://awesomecua.github.io/resources/arxiv-2609-32036/) — 2026-09-25

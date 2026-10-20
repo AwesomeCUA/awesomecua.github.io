@@ -1912,6 +1912,125 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2609.32511v1",
+    "archive": "arXiv",
+    "archive_location": "2609.32511",
+    "author": [
+      {
+        "literal": "Jinming Hu"
+      },
+      {
+        "literal": "Haodong Zhao"
+      },
+      {
+        "literal": "Qi Jia"
+      },
+      {
+        "literal": "Die Chen"
+      },
+      {
+        "literal": "Tianhang Zhao"
+      },
+      {
+        "literal": "Sufeng Duan"
+      },
+      {
+        "literal": "Gongshen Liu"
+      }
+    ],
+    "citation-key": "arxiv_2609_32511",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ff1c4eff95094ea8ecf37b7bc621eebbd5e4a677b0e11240e802a72b9b229c7f",
+        "submitted_at": "2026-09-26T11:59:39Z",
+        "updated_at": "2026-09-26T11:59:39Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.32511v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.32511",
+      "catalog_id": "arxiv:2609.32511",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-26",
+      "identifiers": {
+        "arxiv": "2609.32511"
+      },
+      "record_updated_at": "2026-09-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.32511",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-26; Recorded arXiv version: v1; Recorded version updated: 2026-09-26T11:59:39Z.",
+    "title": "Learning from Others, Acting for You: Cross-User Memory Sharing for LLM Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.13092v1",
+    "archive": "arXiv",
+    "archive_location": "2610.13092",
+    "author": [
+      {
+        "literal": "Yuchen Ling"
+      },
+      {
+        "literal": "Shengcheng Yu"
+      },
+      {
+        "literal": "Zhenyu Chen"
+      },
+      {
+        "literal": "Chunrong Fang"
+      }
+    ],
+    "citation-key": "arxiv_2610_13092",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "fb5f0220266a43b74e7a5f547abbe78a54a2ef993fee5d27f67827cb9715f5dc",
+        "submitted_at": "2026-10-09T06:45:23Z",
+        "updated_at": "2026-10-09T06:45:23Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.13092v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.13092",
+      "catalog_id": "arxiv:2610.13092",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-09",
+      "identifiers": {
+        "arxiv": "2610.13092"
+      },
+      "record_updated_at": "2026-10-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.13092",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T06:45:23Z.",
+    "title": "When Faster Decisions Do Not Make Better Agents: An Empirical Study of Jev in Agent Workflows",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.24372v1",
     "archive": "arXiv",
     "archive_location": "2610.24372",

@@ -3079,6 +3079,58 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.18579v1",
+    "archive": "arXiv",
+    "archive_location": "2610.18579",
+    "author": [
+      {
+        "literal": "Yubo Li"
+      },
+      {
+        "literal": "Ramayya Krishnan"
+      },
+      {
+        "literal": "Rema Padman"
+      }
+    ],
+    "citation-key": "arxiv_2610_18579",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "070f02f1ea798369817f471df5fe1d002b68d544135a1ac8e3a2aed2830e8c01",
+        "submitted_at": "2026-10-13T15:43:30Z",
+        "updated_at": "2026-10-13T15:43:30Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.18579v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.18579",
+      "catalog_id": "arxiv:2610.18579",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-10-13",
+      "identifiers": {
+        "arxiv": "2610.18579"
+      },
+      "record_updated_at": "2026-10-13"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.18579",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          13
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T15:43:30Z.",
+    "title": "Reading Right, Acting Wrong: Diagnosing Decision Failures of System One Models in Agent Loops",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.22408v1",
     "archive": "arXiv",
     "archive_location": "2610.22408",

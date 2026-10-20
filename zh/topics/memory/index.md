@@ -48,6 +48,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/memory/record
   Introduces ExpActivator, which matches the current GUI state to relevant historical states before supplying past actions as guidance. A separate activation rule decides whether a recurring user intent is warranted by the current time and situation or should be withheld.
 - [AgentTell: Behavioural Side-Channel Leakage in Browser-Use Agents](https://awesomecua.github.io/resources/arxiv-2609-32915/) — 2026-09-26
   Introduces AgentTell, a benchmark for privacy leakage through browser actions after an agent learns a private fact on another website. It examines whether agents choose revealing options despite nondisclosure instructions and whether their final reports accurately describe that behavior.
+- [Learning from Others, Acting for You: Cross-User Memory Sharing for LLM Agents](https://awesomecua.github.io/resources/arxiv-2609-32511/) — 2026-09-26
+  ShareMem consolidates reusable experience across users while keeping preference retrieval user-bound; its web evaluation predicts target elements and actions on recorded Mind2Web states.
 - [PastForward: Faster On-Device GUI Agents via Computational Experience Reuse](https://awesomecua.github.io/resources/arxiv-2609-32166/) — 2026-09-26
   Introduces PastForward, which reuses earlier output sequences as verified decoding proposals and starts future action computation from predicted GUI transitions. Screen checks determine whether speculative computation and cached model states can be retained.
 - [REBASE: Device-Cloud Experience Coherence for GUI Agents Across App Updates](https://awesomecua.github.io/resources/arxiv-2609-32130/) — 2026-09-26

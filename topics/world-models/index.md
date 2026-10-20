@@ -16,6 +16,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/world-models/
   Presents AdvSim2Real, which jointly adapts web-task curricula, prompt-injection adversaries, and agent policies inside a frozen web world model. It evaluates robustness against an unseen adversary and transfer from simulated interaction to a real browser.
 - [Imagine to Act: High-Fidelity Data Synthesis via Image Editing World Model for Scalable GUI Agent Training](https://awesomecua.github.io/resources/arxiv-2610-05861/) — 2026-10-05
   Introduces Infinite-Dreamer, which learns action-conditioned screenshot editing from structured descriptions of GUI changes and uses it to synthesize robustness examples and multi-step trajectories. The synthetic data trains a mobile GUI agent evaluated on AndroidWorld, MobileWorld, and AndroidControl-Curated.
+- [How To Train Your World Model: Fine-tuning vs RAG for LM-based World Modeling](https://awesomecua.github.io/resources/arxiv-2610-02542/) — 2026-10-01
+  Compares fine-tuned, retrieval-based and hybrid language-model world models for next-observation prediction and action selection in text environments including WebShop.
 - [AutoGUIWorld: Image Generators as Visual World Models for GUI Agent](https://awesomecua.github.io/resources/arxiv-2610-01215/) — 2026-10-01
   Introduces AutoGUIWorld, which combines task planning and image editing to synthesize action-grounded GUI trajectories without running the depicted software. It filters generated transitions and tests whether training on them improves agents operating real desktop and scientific applications.
 - [PrecogUI: Proactive GUI Agents via Pre-cognitive Simulation and Experience Retrieval](https://awesomecua.github.io/resources/arxiv-2609-36923/) — 2026-09-29

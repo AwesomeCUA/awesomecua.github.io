@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2610-14966/record.json
 
+## Recorded reviewer hold
+
+Scope hold after exact\-v1 Sections 2–4 and Appendices A\.1, B\.1–B\.2, C and E\.5: constructed business environments expose operations and persistent state through tools\. The main actor has no terminal, arbitrary code execution or personal workspace; fixed scripts use a dedicated tool\. The supplementary Codex experiment disables shell, web and multi\-agent execution\. The inspected protocol does not establish GUI, browser or concrete OS interaction\. Need evaluated interface observations/actions before core or adjacent inclusion\. Preserve metadata; this is not a scope exclusion\.
+
+- Review ledger: https://awesomecua.github.io/downloads/coverage.json
+
 ## Authors
 
 Yuxuan Liu, Zhaochen Su, Hangyu Guo, Shijue Huang, Zhixiong Zhang, Kawai Chung, Zhongwei Xie, Tianshi Zheng, Wei Fan, Qing Zong, Haochen Shi, Baixuan Xu, Haoran Li, Yangqiu Song

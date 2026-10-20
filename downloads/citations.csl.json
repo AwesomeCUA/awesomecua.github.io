@@ -75099,6 +75099,70 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2609.32511v1",
+    "archive": "arXiv",
+    "archive_location": "2609.32511",
+    "author": [
+      {
+        "literal": "Jinming Hu"
+      },
+      {
+        "literal": "Haodong Zhao"
+      },
+      {
+        "literal": "Qi Jia"
+      },
+      {
+        "literal": "Die Chen"
+      },
+      {
+        "literal": "Tianhang Zhao"
+      },
+      {
+        "literal": "Sufeng Duan"
+      },
+      {
+        "literal": "Gongshen Liu"
+      }
+    ],
+    "citation-key": "arxiv_2609_32511",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ff1c4eff95094ea8ecf37b7bc621eebbd5e4a677b0e11240e802a72b9b229c7f",
+        "submitted_at": "2026-09-26T11:59:39Z",
+        "updated_at": "2026-09-26T11:59:39Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.32511v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.32511",
+      "catalog_id": "arxiv:2609.32511",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-26",
+      "identifiers": {
+        "arxiv": "2609.32511"
+      },
+      "record_updated_at": "2026-09-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.32511",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-26; Recorded arXiv version: v1; Recorded version updated: 2026-09-26T11:59:39Z.",
+    "title": "Learning from Others, Acting for You: Cross-User Memory Sharing for LLM Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2609.32600v1",
     "archive": "arXiv",
     "archive_location": "2609.32600",
@@ -77596,6 +77660,64 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.02542v1",
+    "archive": "arXiv",
+    "archive_location": "2610.02542",
+    "author": [
+      {
+        "literal": "Dhananjay Ashok"
+      },
+      {
+        "literal": "Shantanu Agarwal"
+      },
+      {
+        "literal": "Vivek Datla"
+      },
+      {
+        "literal": "Jonathan May"
+      },
+      {
+        "literal": "Alfy Samuel"
+      }
+    ],
+    "citation-key": "arxiv_2610_02542",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "35ded32e7bac9a875a0fa41efad43fed5fb0aab54fade5cfc2a0628b1e666587",
+        "submitted_at": "2026-10-01T22:30:08Z",
+        "updated_at": "2026-10-01T22:30:08Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.02542v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.02542",
+      "catalog_id": "arxiv:2610.02542",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-10-01",
+      "identifiers": {
+        "arxiv": "2610.02542"
+      },
+      "record_updated_at": "2026-10-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.02542",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          1
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T22:30:08Z.",
+    "title": "How To Train Your World Model: Fine-tuning vs RAG for LM-based World Modeling",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.02617v1",
     "archive": "arXiv",
     "archive_location": "2610.02617",
@@ -78637,6 +78759,55 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.09944v2",
+    "archive": "arXiv",
+    "archive_location": "2610.09944",
+    "author": [
+      {
+        "literal": "Michael Ofengenden"
+      },
+      {
+        "literal": "Maksym Andriushchenko"
+      }
+    ],
+    "citation-key": "arxiv_2610_09944",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "03aea09f3ed1b75a8a6584efdfa51d45d1cfa9dc53fb3a25efd820c5b72e094a",
+        "submitted_at": "2026-10-07T12:26:24Z",
+        "updated_at": "2026-10-08T09:06:36Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2610.09944v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.09944",
+      "catalog_id": "arxiv:2610.09944",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-07",
+      "identifiers": {
+        "arxiv": "2610.09944"
+      },
+      "record_updated_at": "2026-10-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.09944",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-07; Recorded arXiv version: v2; Recorded version updated: 2026-10-08T09:06:36Z.",
+    "title": "AgentTime: Can Agents Estimate and Control Their Own Runtime?",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.11050v1",
     "archive": "arXiv",
     "archive_location": "2610.11050",
@@ -79148,6 +79319,61 @@
     },
     "note": "First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T04:32:02Z.",
     "title": "Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.13092v1",
+    "archive": "arXiv",
+    "archive_location": "2610.13092",
+    "author": [
+      {
+        "literal": "Yuchen Ling"
+      },
+      {
+        "literal": "Shengcheng Yu"
+      },
+      {
+        "literal": "Zhenyu Chen"
+      },
+      {
+        "literal": "Chunrong Fang"
+      }
+    ],
+    "citation-key": "arxiv_2610_13092",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "fb5f0220266a43b74e7a5f547abbe78a54a2ef993fee5d27f67827cb9715f5dc",
+        "submitted_at": "2026-10-09T06:45:23Z",
+        "updated_at": "2026-10-09T06:45:23Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.13092v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.13092",
+      "catalog_id": "arxiv:2610.13092",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-09",
+      "identifiers": {
+        "arxiv": "2610.13092"
+      },
+      "record_updated_at": "2026-10-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.13092",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T06:45:23Z.",
+    "title": "When Faster Decisions Do Not Make Better Agents: An Empirical Study of Jev in Agent Workflows",
     "type": "article",
     "version": "1"
   },
@@ -80191,6 +80417,58 @@
     },
     "note": "First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T15:03:33Z.",
     "title": "Towards Safe Autonomy for Computer Use",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.18579v1",
+    "archive": "arXiv",
+    "archive_location": "2610.18579",
+    "author": [
+      {
+        "literal": "Yubo Li"
+      },
+      {
+        "literal": "Ramayya Krishnan"
+      },
+      {
+        "literal": "Rema Padman"
+      }
+    ],
+    "citation-key": "arxiv_2610_18579",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "070f02f1ea798369817f471df5fe1d002b68d544135a1ac8e3a2aed2830e8c01",
+        "submitted_at": "2026-10-13T15:43:30Z",
+        "updated_at": "2026-10-13T15:43:30Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.18579v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.18579",
+      "catalog_id": "arxiv:2610.18579",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-10-13",
+      "identifiers": {
+        "arxiv": "2610.18579"
+      },
+      "record_updated_at": "2026-10-13"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.18579",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          13
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T15:43:30Z.",
+    "title": "Reading Right, Acting Wrong: Diagnosing Decision Failures of System One Models in Agent Loops",
     "type": "article",
     "version": "1"
   },
@@ -81628,6 +81906,94 @@
     },
     "note": "First published: 2026-10-16; Recorded arXiv version: v1; Recorded version updated: 2026-10-16T11:10:30Z.",
     "title": "MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.23986v1",
+    "archive": "arXiv",
+    "archive_location": "2610.23986",
+    "author": [
+      {
+        "literal": "Xinyu Fang"
+      },
+      {
+        "literal": "Yuchi Wang"
+      },
+      {
+        "literal": "Weihao Yu"
+      },
+      {
+        "literal": "Rongyao Fang"
+      },
+      {
+        "literal": "Zhaohai Li"
+      },
+      {
+        "literal": "Zhixun Li"
+      },
+      {
+        "literal": "Tiancheng Gu"
+      },
+      {
+        "literal": "Xilin Wei"
+      },
+      {
+        "literal": "Yuhang Zang"
+      },
+      {
+        "literal": "Hongsheng Li"
+      },
+      {
+        "literal": "Dahua Lin"
+      },
+      {
+        "literal": "Guofeng Zhang"
+      },
+      {
+        "literal": "Shuai Bai"
+      },
+      {
+        "literal": "Zhibo Yang"
+      },
+      {
+        "literal": "Dayiheng Liu"
+      }
+    ],
+    "citation-key": "arxiv_2610_23986",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6dfa0c59ec1262cebcf2a4e61ab1e0b58c647513d8e6eedb2ce7e6a1a675558c",
+        "submitted_at": "2026-10-14T12:46:54Z",
+        "updated_at": "2026-10-14T12:46:54Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.23986v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.23986",
+      "catalog_id": "arxiv:2610.23986",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-10-14",
+      "identifiers": {
+        "arxiv": "2610.23986"
+      },
+      "record_updated_at": "2026-10-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.23986",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T12:46:54Z.",
+    "title": "BlenderWorld: Benchmarking Visual Agents for 3D Creation from Real-World References",
     "type": "article",
     "version": "1"
   },

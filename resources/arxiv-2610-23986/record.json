@@ -28,7 +28,8 @@
     }
   },
   "environments": [
-    "unspecified"
+    "desktop",
+    "linux"
   ],
   "evidence": [
     {
@@ -45,6 +46,22 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=2610.14966%2C2610.23986&max_results=2"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T15:09:58.148629Z",
+      "role": "primary",
+      "sha256": "bef4399f087e484b62ff5b8dc2c283f92e0357b94c93b464b86fd97fe7b069cb",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes"
+      ],
+      "url": "https://arxiv.org/html/2610.23986v1"
     }
   ],
   "id": "arxiv:2610.23986",
@@ -52,7 +69,7 @@
     "arxiv": "2610.23986"
   },
   "kind": "paper",
-  "last_verified_at": "2026-10-20T13:48:11Z",
+  "last_verified_at": "2026-10-20T15:09:58.148629Z",
   "licenses": {
     "code": null,
     "data": null,
@@ -61,18 +78,22 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2610.23986"
     }
   ],
   "name": "BlenderWorld: Benchmarking Visual Agents for 3D Creation from Real-World References",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "The evaluated agents use Linux shell/Python/MCP tools and can inspect viewport screenshots; graphical CUA control and Windows/macOS are future work. Each agent is run once per task, with different Codex/Claude Code harnesses across systems. Scores combine weighted rubric satisfaction and model-rated visual quality. Tool counts include unsuccessful calls and do not establish matched compute or successful actions. No independent reproduction or artifact-release verification.",
   "published_at": "2026-10-14",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "adjacent",
+  "summary": "Benchmarks agents creating editable Blender projects through shell, Python and MCP tools, judging delivered scenes with multi-view renders, task-specific rubrics and visual-quality ratings.",
+  "topics": [
+    "evaluation",
+    "tool-integration",
+    "sandbox"
+  ],
   "updated_at": "2026-10-14",
   "url": "https://arxiv.org/abs/2610.23986"
 }

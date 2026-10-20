@@ -13163,6 +13163,70 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2609.32511v1",
+    "archive": "arXiv",
+    "archive_location": "2609.32511",
+    "author": [
+      {
+        "literal": "Jinming Hu"
+      },
+      {
+        "literal": "Haodong Zhao"
+      },
+      {
+        "literal": "Qi Jia"
+      },
+      {
+        "literal": "Die Chen"
+      },
+      {
+        "literal": "Tianhang Zhao"
+      },
+      {
+        "literal": "Sufeng Duan"
+      },
+      {
+        "literal": "Gongshen Liu"
+      }
+    ],
+    "citation-key": "arxiv_2609_32511",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ff1c4eff95094ea8ecf37b7bc621eebbd5e4a677b0e11240e802a72b9b229c7f",
+        "submitted_at": "2026-09-26T11:59:39Z",
+        "updated_at": "2026-09-26T11:59:39Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.32511v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.32511",
+      "catalog_id": "arxiv:2609.32511",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-26",
+      "identifiers": {
+        "arxiv": "2609.32511"
+      },
+      "record_updated_at": "2026-09-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.32511",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-26; Recorded arXiv version: v1; Recorded version updated: 2026-09-26T11:59:39Z.",
+    "title": "Learning from Others, Acting for You: Cross-User Memory Sharing for LLM Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2609.33102v1",
     "archive": "arXiv",
     "archive_location": "2609.33102",
@@ -13461,6 +13525,64 @@
     },
     "note": "First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T02:11:02Z.",
     "title": "Action Conditioned Bisimulation For GUI Agent Memory",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.02542v1",
+    "archive": "arXiv",
+    "archive_location": "2610.02542",
+    "author": [
+      {
+        "literal": "Dhananjay Ashok"
+      },
+      {
+        "literal": "Shantanu Agarwal"
+      },
+      {
+        "literal": "Vivek Datla"
+      },
+      {
+        "literal": "Jonathan May"
+      },
+      {
+        "literal": "Alfy Samuel"
+      }
+    ],
+    "citation-key": "arxiv_2610_02542",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "35ded32e7bac9a875a0fa41efad43fed5fb0aab54fade5cfc2a0628b1e666587",
+        "submitted_at": "2026-10-01T22:30:08Z",
+        "updated_at": "2026-10-01T22:30:08Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.02542v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.02542",
+      "catalog_id": "arxiv:2610.02542",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-10-01",
+      "identifiers": {
+        "arxiv": "2610.02542"
+      },
+      "record_updated_at": "2026-10-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.02542",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          1
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T22:30:08Z.",
+    "title": "How To Train Your World Model: Fine-tuning vs RAG for LM-based World Modeling",
     "type": "article",
     "version": "1"
   },
@@ -13989,6 +14111,58 @@
     },
     "note": "First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T22:17:51Z.",
     "title": "BrowseSafe++: Benchmarking Prompt Injection Detection Across Web Contexts, Languages, and Browser Views",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.18579v1",
+    "archive": "arXiv",
+    "archive_location": "2610.18579",
+    "author": [
+      {
+        "literal": "Yubo Li"
+      },
+      {
+        "literal": "Ramayya Krishnan"
+      },
+      {
+        "literal": "Rema Padman"
+      }
+    ],
+    "citation-key": "arxiv_2610_18579",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "070f02f1ea798369817f471df5fe1d002b68d544135a1ac8e3a2aed2830e8c01",
+        "submitted_at": "2026-10-13T15:43:30Z",
+        "updated_at": "2026-10-13T15:43:30Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.18579v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.18579",
+      "catalog_id": "arxiv:2610.18579",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-10-13",
+      "identifiers": {
+        "arxiv": "2610.18579"
+      },
+      "record_updated_at": "2026-10-13"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.18579",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          13
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T15:43:30Z.",
+    "title": "Reading Right, Acting Wrong: Diagnosing Decision Failures of System One Models in Agent Loops",
     "type": "article",
     "version": "1"
   },

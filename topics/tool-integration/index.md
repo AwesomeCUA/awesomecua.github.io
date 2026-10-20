@@ -14,6 +14,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/tool-integrat
   Trains native computer-use models to coordinate GUI actions and code execution using hybrid demonstrations and online reinforcement learning.
 - [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://awesomecua.github.io/resources/arxiv-2610-22200/) — 2026-10-15
   Introduces an open generalist computer-use stack combining visual and programmatic interaction, with model-controlled observation and task-state decisions.
+- [BlenderWorld: Benchmarking Visual Agents for 3D Creation from Real-World References](https://awesomecua.github.io/resources/arxiv-2610-23986/) — 2026-10-14
+  Benchmarks agents creating editable Blender projects through shell, Python and MCP tools, judging delivered scenes with multi-view renders, task-specific rubrics and visual-quality ratings.
 - [From Observations to Authorized Actions: Measuring Source Information in Android Agents](https://awesomecua.github.io/resources/arxiv-2610-15502/) — 2026-10-11
   Measures source-attribution limits in Android accessibility and separately tests application-history and selected-WebView-object checks for authorizing AppFunctions actions.
 - [OpenMobile-2: Building Versatile Mobile Agents with Scalable Environments and App-Native Tools](https://awesomecua.github.io/resources/arxiv-2610-14157/) — 2026-10-09

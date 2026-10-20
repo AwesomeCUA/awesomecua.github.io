@@ -1,6 +1,6 @@
 # AwesomeCUA curated resource annotations
 
-Evidence snapshot: 2026-10-20T14:10:32.910533Z. These records were reviewed with AI assistance; experiments are not independently reproduced.
+Evidence snapshot: 2026-10-20T15:15:05.368243+00:00. These records were reviewed with AI assistance; experiments are not independently reproduced.
 
 Related reading: [English research survey](https://awesomecua.github.io/survey/). This working manuscript uses its own frozen inventory; its text is separate from the catalog annotations below.
 
@@ -56545,6 +56545,58 @@ Chuhan Zhang, Qi Xie, Ziyue Wang, Jianing Yin, Yunfan Zhou, Dazhen Deng, Yingcai
 
 ---
 
+# Learning from Others, Acting for You: Cross-User Memory Sharing for LLM Agents
+
+ShareMem consolidates reusable experience across users while keeping preference retrieval user-bound; its web evaluation predicts target elements and actions on recorded Mind2Web states.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-32511/
+- Original source: https://arxiv.org/abs/2609.32511
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: memory, web-navigation, action-prediction, evaluation
+- Evidence checked: 2026-10-20T15:08:56Z
+- ID: arxiv:2609.32511
+
+## Limitations
+
+Main Mind2Web evaluation uses 252 recorded tasks assigned to 20 simulated users, frozen demonstration-derived memory and task-macro step metrics; it is not a live-browser completion test. The main split withholds same-site local experience, and sharing gains shrink when local coverage rises. Mind2Web has no preference channel; preference claims come from separate service and coding settings. User-bound retrieval is not a demonstrated privacy or security guarantee. Selected sections were source-read; no independent reproduction.
+
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-32511/record.json
+
+## Authors
+
+Jinming Hu, Haodong Zhao, Qi Jia, Die Chen, Tianhang Zhao, Sufeng Duan, Gongshen Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-32511/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-32511/citation.csl.json
+
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.32511v1
+- First submission: 2026-09-26T11:59:39Z
+- Version updated: 2026-09-26T11:59:39Z
+- Abstract SHA-256: ff1c4eff95094ea8ecf37b7bc621eebbd5e4a677b0e11240e802a72b9b229c7f
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28abs%3A%22desktop+agent%22+OR+abs%3A%22computer+interaction%22+OR+abs%3A%22GUI+automation%22+OR+abs%3A%22web+navigation%22+OR+abs%3A%22browser+automation%22+OR+abs%3A%22visual+grounding%22+OR+abs%3A%22screen+understanding%22+OR+abs%3A%22mobile+agents%22%29+AND+submittedDate%3A%5B202609200000+TO+202610200000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T15:06:37Z; SHA-256 a3d753815e82190ee2de6f322cd816c32f2dd391f862845305fc7e57300303a6)
+- https://arxiv.org/html/2609.32511v1 (retrieved 2026-10-20T15:08:56Z; SHA-256 ce7210dccecb2896202639e6f7be41876fee20de1135b0d23278cead2d695339)
+
+---
+
 # CUA-SWE: When Computer-Use Agents Meet Visual Software Engineering
 
 Introduces CUA-SWE, a benchmark and execution environment that combines code changes with graphical interaction and visual inspection of running software. Task-specific tests verify repairs and changes whose required information may be available only through the application interface.
@@ -58469,6 +58521,61 @@ A. Said Gurbuz, Ahmed Nassar, Sunghwan Hong, Marc Pollefeys, Peter W. J. Staar
 
 ---
 
+# How To Train Your World Model: Fine-tuning vs RAG for LM-based World Modeling
+
+Compares fine-tuned, retrieval-based and hybrid language-model world models for next-observation prediction and action selection in text environments including WebShop.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-02542/
+- Original source: https://arxiv.org/abs/2610.02542
+- Kind: paper
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: world-models, planning, evaluation, web-navigation
+- Evidence checked: 2026-10-20T15:08:56Z
+- ID: arxiv:2610.02542
+
+## Limitations
+
+Adjacent cross-domain study with WebShop as its web evaluation. WebShop uses text-rendered search/product pages and an explicit valid-action menu, not screenshot control or live purchases. A frozen policy proposes five actions; a world model predicts their next observations and the policy scores them before one is executed in the simulator. Utility is normalized environment reward, while fidelity uses a model judge; neither is a universal GUI task-success rate. Fine-tuning and retrieval use collected training experience; the hybrid masks same-episode retrieval, which does not establish general contamination freedom. The retained Atom and v1 HTML abstract wording differs; original bibliographic metadata and its abstract digest are preserved.
+
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-02542/record.json
+
+## Authors
+
+Dhananjay Ashok, Shantanu Agarwal, Vivek Datla, Jonathan May, Alfy Samuel
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-02542/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-02542/citation.csl.json
+
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.02542v1
+- First submission: 2026-10-01T22:30:08Z
+- Version updated: 2026-10-01T22:30:08Z
+- Abstract SHA-256: 35ded32e7bac9a875a0fa41efad43fed5fb0aab54fade5cfc2a0628b1e666587
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: CC-BY-4.0 — https://arxiv.org/html/2610.02542v1
+- weights: not recorded
+
+- document review: The retained version-specific arXiv HTML infobox explicitly labels this paper License: CC BY 4.0. This document declaration does not establish code, training-data or model-weight licenses.
+  Sources: https://arxiv.org/html/2610.02542v1
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28abs%3A%22desktop+agent%22+OR+abs%3A%22computer+interaction%22+OR+abs%3A%22GUI+automation%22+OR+abs%3A%22web+navigation%22+OR+abs%3A%22browser+automation%22+OR+abs%3A%22visual+grounding%22+OR+abs%3A%22screen+understanding%22+OR+abs%3A%22mobile+agents%22%29+AND+submittedDate%3A%5B202609200000+TO+202610200000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T15:06:37Z; SHA-256 a3d753815e82190ee2de6f322cd816c32f2dd391f862845305fc7e57300303a6)
+- https://arxiv.org/html/2610.02542v1 (retrieved 2026-10-20T15:08:56Z; SHA-256 d8c22c6b3f07d4156c38af9dd7ca7c06a5d0a11889a7350d821a020e21604590)
+
+---
+
 # WebUIProof: Benchmarking WebUI Code Generators with UI-Agent Execution Harness
 
 Introduces an execution-based benchmark for generated web interfaces, with a headless-browser UI-agent harness that checks DOM interactions and functional assertions.
@@ -59406,6 +59513,59 @@ Sarthak Choudhary, Mihai Christodorescu, Ashish Hooda, Somesh Jha, Tongxin Li, D
 
 ---
 
+# AgentTime: Can Agents Estimate and Control Their Own Runtime?
+
+Evaluates duration following, runtime forecasts and elapsed-time estimates in native agent harnesses, including OSWorld desktop tasks, with external timers, native graders and work-versus-wait analysis.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-09944/
+- Original source: https://arxiv.org/abs/2610.09944
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: evaluation, observability
+- Evidence checked: 2026-10-20T15:08:56.488063+00:00
+- ID: arxiv:2610.09944
+
+## Limitations
+
+This cross-domain suite includes 16 OSWorld 2.0 tasks among 222 tasks from 18 sources. A single run per task and requested duration, provider effects and incomplete native grades limit comparisons; elapsed time is not evidence of productive work. The OSWorld task 092 video judge was skipped without an API key. The inspected repository README identifies desktop-VM timing and states that the current 222-task forecasting runs will be added; its existing forecasting code covers an earlier study, and transcript work/wait labels are not public. No code or benchmark was executed and no license was verified.
+
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-09944/record.json
+
+## Authors
+
+Michael Ofengenden, Maksym Andriushchenko
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-09944/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-09944/citation.csl.json
+
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2610.09944v2
+- First submission: 2026-10-07T12:26:24Z
+- Version updated: 2026-10-08T09:06:36Z
+- Abstract SHA-256: 03aea09f3ed1b75a8a6584efdfa51d45d1cfa9dc53fb3a25efd820c5b72e094a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22browser+agent%22+OR+ti%3AGUI+OR+ti%3A%22Android+agent%22+OR+abs%3A%22computer-use+agents%22+OR+abs%3A%22GUI+agents%22+OR+abs%3A%22browser+agents%22+OR+abs%3A%22mobile+GUI%22%29+AND+submittedDate%3A%5B202610060000+TO+202610200000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T13:48:10Z; SHA-256 6d8c0463b6d50320246021f0394d0e39c9fd839f1ef1f742c8cdfa231872b059)
+- https://arxiv.org/html/2610.09944v2 (retrieved 2026-10-20T15:08:56.488063+00:00; SHA-256 5424a5f9278ef276c84799a08d4e2e171ee93947a38c1d6670c36fa76dc84fe3)
+- https://github.com/michaelofengenden/agenttimebench (retrieved 2026-10-20T15:15:05.368243+00:00; SHA-256 9bef76f95b41a7ca39c6fa3276d6122e4b27e1e0bd56a777edcfd7e11e7d7342)
+
+---
+
 # AgentHorizon: Evaluating Agentic Judges for Long-Horizon Computer-Use Tasks
 
 Introduces AgentHorizon, a benchmark for judging long computer-use trajectories using closely related instructions paired with recorded actions and screenshots. It tests whether judges can detect constraint violations and distinguish successful tasks from similar but incompatible requests.
@@ -59819,6 +59979,58 @@ Yuqi Huang, Hui Li, Yifei Cao, Zikun Cai, Tianci Xie, Yangfan Gao, Pinxue Guo, C
 
 - https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29 (retrieved 2026-10-16T06:33:24Z; SHA-256 9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1)
 - https://export.arxiv.org/api/query?id_list=2610.11655%2C2610.11707%2C2610.11942%2C2610.12611%2C2610.12823%2C2610.12866%2C2610.12984%2C2610.13268%2C2610.13416%2C2610.13703%2C2610.14157%2C2610.14228%2C2610.15138%2C2610.15765%2C2610.16234%2C2610.16319%2C2610.16720%2C2610.16778%2C2610.17457%2C2610.17710%2C2610.17792%2C2610.17895%2C2610.17928%2C2610.18508%2C2610.18784%2C2610.18868%2C2610.19100%2C2610.19128%2C2610.20584&max_results=29 (retrieved 2026-10-16T06:33:24Z; SHA-256 9641755401e0e8ec9613f7c4509029d968ab4f10751ba4d43cab57e7d27c1da1)
+
+---
+
+# When Faster Decisions Do Not Make Better Agents: An Empirical Study of Jev in Agent Workflows
+
+Evaluates Jev as a bounded action selector inside three AndroidWorld agents and two text-based ALFWorld agents, separating decision savings from task success, recovery and resources per delivered outcome.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-13092/
+- Original source: https://arxiv.org/abs/2610.13092
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: efficiency, action-prediction, evaluation, mobile-navigation, self-reflection
+- Evidence checked: 2026-10-20T15:08:54Z
+- ID: arxiv:2610.13092
+
+## Limitations
+
+The mobile evaluation uses text UI observations and one fixed instance for each of 116 AndroidWorld task types; three repeats share seed 0. Five agent families use different budgets, with candidate-interface and tool-call granularity changes in some variants. Reported costs use fixed experimental prices, and outcome-selected trace labels are not population failure rates. Faster selection does not imply faster or more reliable task completion. Selected sections were source-read; no independent reproduction.
+
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-13092/record.json
+
+## Authors
+
+Yuchen Ling, Shengcheng Yu, Zhenyu Chen, Chunrong Fang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-13092/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-13092/citation.csl.json
+
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.13092v1
+- First submission: 2026-10-09T06:45:23Z
+- Version updated: 2026-10-09T06:45:23Z
+- Abstract SHA-256: fb5f0220266a43b74e7a5f547abbe78a54a2ef993fee5d27f67827cb9715f5dc
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28abs%3A%22desktop+agent%22+OR+abs%3A%22computer+interaction%22+OR+abs%3A%22GUI+automation%22+OR+abs%3A%22web+navigation%22+OR+abs%3A%22browser+automation%22+OR+abs%3A%22visual+grounding%22+OR+abs%3A%22screen+understanding%22+OR+abs%3A%22mobile+agents%22%29+AND+submittedDate%3A%5B202609200000+TO+202610200000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T15:06:37Z; SHA-256 a3d753815e82190ee2de6f322cd816c32f2dd391f862845305fc7e57300303a6)
+- https://arxiv.org/html/2610.13092v1 (retrieved 2026-10-20T15:08:54Z; SHA-256 3db7474953cbe5a3052fb22793038f2383bdd0e7c775af06494a5e8501646d18)
 
 ---
 
@@ -60705,6 +60917,61 @@ Dominik Seip, Bartol Markovinović, Matthias Hein
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+
+---
+
+# Reading Right, Acting Wrong: Diagnosing Decision Failures of System One Models in Agent Loops
+
+Pairs factual probes with next-action choices on frozen agent traces, including Mind2Web, to diagnose reading-decision gaps without closed-loop execution.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-18579/
+- Original source: https://arxiv.org/abs/2610.18579
+- Kind: paper
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: evaluation, web-navigation, interaction-history
+- Evidence checked: 2026-10-20T15:08:55Z
+- ID: arxiv:2610.18579
+
+## Limitations
+
+Adjacent diagnostic research across simulators, policies, tools, coding and an offline Mind2Web subset. Models choose among supplied admissible actions; they do not generate actions or execute a closed-loop browser policy in the reported evaluation. The paired probes measure selected visible facts, not complete understanding or internal causation. Pooled results are not a web-only leaderboard, and the paper reports coverage limits and label-sensitivity analyses. No benchmark release, code, data or weights were independently inspected.
+
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-18579/record.json
+
+## Authors
+
+Yubo Li, Ramayya Krishnan, Rema Padman
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-18579/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-18579/citation.csl.json
+
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.18579v1
+- First submission: 2026-10-13T15:43:30Z
+- Version updated: 2026-10-13T15:43:30Z
+- Abstract SHA-256: 070f02f1ea798369817f471df5fe1d002b68d544135a1ac8e3a2aed2830e8c01
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: CC-BY-4.0 — https://arxiv.org/html/2610.18579v1
+- weights: not recorded
+
+- document review: The retained version-specific arXiv HTML infobox explicitly labels this paper License: CC BY 4.0. This document declaration does not establish code, training-data or model-weight licenses.
+  Sources: https://arxiv.org/html/2610.18579v1
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28abs%3A%22desktop+agent%22+OR+abs%3A%22computer+interaction%22+OR+abs%3A%22GUI+automation%22+OR+abs%3A%22web+navigation%22+OR+abs%3A%22browser+automation%22+OR+abs%3A%22visual+grounding%22+OR+abs%3A%22screen+understanding%22+OR+abs%3A%22mobile+agents%22%29+AND+submittedDate%3A%5B202609200000+TO+202610200000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T15:06:37Z; SHA-256 a3d753815e82190ee2de6f322cd816c32f2dd391f862845305fc7e57300303a6)
+- https://arxiv.org/html/2610.18579v1 (retrieved 2026-10-20T15:08:55Z; SHA-256 bcbc640d1e732ba0415a9755bce120a811a13a2ba7fba3e58a167b3a9111c2a6)
 
 ---
 
@@ -61803,6 +62070,58 @@ Songping Wang, Peiyang Li, Yi Huang, Fengting Li, Xuhao Ran, Yueming Lyu, Chao F
 - https://export.arxiv.org/api/query?id_list=2610.19384%2C2610.22672%2C2610.22697%2C2610.23303%2C2610.23307%2C2610.24729&max_results=6 (retrieved 2026-10-20T05:52:01Z; SHA-256 63e37cd26bfe69455a3fa835f3d6ba4cfcc5bb7dc91f90505920d37b1e08f0b6)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22browser+agents%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22mobile+agents%22+OR+ti%3A%22desktop+agent%22%29+AND+submittedDate%3A%5B202610130000+TO+202610192359%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T08:27:26.236797+00:00; SHA-256 80bed80786f939973d0d13b4f892300fee02a6110e326247131fc83d257796de)
 - https://arxiv.org/html/2610.23307v1 (retrieved 2026-10-20T09:17:36.223826+00:00; SHA-256 3803984a185b6258276b87b87ac1991583878fb41dc22618ff743f6f69c7bc7e)
+
+---
+
+# BlenderWorld: Benchmarking Visual Agents for 3D Creation from Real-World References
+
+Benchmarks agents creating editable Blender projects through shell, Python and MCP tools, judging delivered scenes with multi-view renders, task-specific rubrics and visual-quality ratings.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-23986/
+- Original source: https://arxiv.org/abs/2610.23986
+- Kind: paper
+- Review: curated
+- Scope: adjacent
+- Environments: desktop, linux
+- Topics: evaluation, tool-integration, sandbox
+- Evidence checked: 2026-10-20T15:09:58.148629Z
+- ID: arxiv:2610.23986
+
+## Limitations
+
+The evaluated agents use Linux shell/Python/MCP tools and can inspect viewport screenshots; graphical CUA control and Windows/macOS are future work. Each agent is run once per task, with different Codex/Claude Code harnesses across systems. Scores combine weighted rubric satisfaction and model-rated visual quality. Tool counts include unsuccessful calls and do not establish matched compute or successful actions. No independent reproduction or artifact-release verification.
+
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-23986/record.json
+
+## Authors
+
+Xinyu Fang, Yuchi Wang, Weihao Yu, Rongyao Fang, Zhaohai Li, Zhixun Li, Tiancheng Gu, Xilin Wei, Yuhang Zang, Hongsheng Li, Dahua Lin, Guofeng Zhang, Shuai Bai, Zhibo Yang, Dayiheng Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-23986/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-23986/citation.csl.json
+
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.23986v1
+- First submission: 2026-10-14T12:46:54Z
+- Version updated: 2026-10-14T12:46:54Z
+- Abstract SHA-256: 6dfa0c59ec1262cebcf2a4e61ab1e0b58c647513d8e6eedb2ce7e6a1a675558c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2610.14966%2C2610.23986&max_results=2 (retrieved 2026-10-20T13:48:11Z; SHA-256 89e110b6fa882639fb73936cb27e5373d11b632938c31968f563152534bf5670)
+- https://arxiv.org/html/2610.23986v1 (retrieved 2026-10-20T15:09:58.148629Z; SHA-256 bef4399f087e484b62ff5b8dc2c283f92e0357b94c93b464b86fd97fe7b069cb)
 
 ---
 

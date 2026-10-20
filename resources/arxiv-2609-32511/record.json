@@ -1,0 +1,91 @@
+{
+  "aliases": [],
+  "authors": [
+    "Jinming Hu",
+    "Haodong Zhao",
+    "Qi Jia",
+    "Die Chen",
+    "Tianhang Zhao",
+    "Sufeng Duan",
+    "Gongshen Liu"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ff1c4eff95094ea8ecf37b7bc621eebbd5e4a677b0e11240e802a72b9b229c7f",
+      "submitted_at": "2026-09-26T11:59:39Z",
+      "updated_at": "2026-09-26T11:59:39Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.32511v1"
+    }
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-20T15:06:37Z",
+      "role": "primary",
+      "sha256": "a3d753815e82190ee2de6f322cd816c32f2dd391f862845305fc7e57300303a6",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28abs%3A%22desktop+agent%22+OR+abs%3A%22computer+interaction%22+OR+abs%3A%22GUI+automation%22+OR+abs%3A%22web+navigation%22+OR+abs%3A%22browser+automation%22+OR+abs%3A%22visual+grounding%22+OR+abs%3A%22screen+understanding%22+OR+abs%3A%22mobile+agents%22%29+AND+submittedDate%3A%5B202609200000+TO+202610200000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T15:08:56Z",
+      "role": "primary",
+      "sha256": "ce7210dccecb2896202639e6f7be41876fee20de1135b0d23278cead2d695339",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes"
+      ],
+      "url": "https://arxiv.org/html/2609.32511v1"
+    }
+  ],
+  "id": "arxiv:2609.32511",
+  "identifiers": {
+    "arxiv": "2609.32511"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-20T15:08:56Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2609.32511"
+    }
+  ],
+  "name": "Learning from Others, Acting for You: Cross-User Memory Sharing for LLM Agents",
+  "notes": "Main Mind2Web evaluation uses 252 recorded tasks assigned to 20 simulated users, frozen demonstration-derived memory and task-macro step metrics; it is not a live-browser completion test. The main split withholds same-site local experience, and sharing gains shrink when local coverage rises. Mind2Web has no preference channel; preference claims come from separate service and coding settings. User-bound retrieval is not a demonstrated privacy or security guarantee. Selected sections were source-read; no independent reproduction.",
+  "published_at": "2026-09-26",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "ShareMem consolidates reusable experience across users while keeping preference retrieval user-bound; its web evaluation predicts target elements and actions on recorded Mind2Web states.",
+  "topics": [
+    "memory",
+    "web-navigation",
+    "action-prediction",
+    "evaluation"
+  ],
+  "updated_at": "2026-09-26",
+  "url": "https://arxiv.org/abs/2609.32511"
+}

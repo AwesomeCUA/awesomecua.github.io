@@ -1,0 +1,100 @@
+{
+  "aliases": [],
+  "authors": [
+    "Yubo Li",
+    "Ramayya Krishnan",
+    "Rema Padman"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "070f02f1ea798369817f471df5fe1d002b68d544135a1ac8e3a2aed2830e8c01",
+      "submitted_at": "2026-10-13T15:43:30Z",
+      "updated_at": "2026-10-13T15:43:30Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.18579v1"
+    },
+    "license_review": {
+      "document": {
+        "evidence_urls": [
+          "https://arxiv.org/html/2610.18579v1"
+        ],
+        "reason": "The retained version-specific arXiv HTML infobox explicitly labels this paper License: CC BY 4.0. This document declaration does not establish code, training-data or model-weight licenses."
+      }
+    }
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-20T15:06:37Z",
+      "role": "primary",
+      "sha256": "a3d753815e82190ee2de6f322cd816c32f2dd391f862845305fc7e57300303a6",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28abs%3A%22desktop+agent%22+OR+abs%3A%22computer+interaction%22+OR+abs%3A%22GUI+automation%22+OR+abs%3A%22web+navigation%22+OR+abs%3A%22browser+automation%22+OR+abs%3A%22visual+grounding%22+OR+abs%3A%22screen+understanding%22+OR+abs%3A%22mobile+agents%22%29+AND+submittedDate%3A%5B202609200000+TO+202610200000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T15:08:55Z",
+      "role": "primary",
+      "sha256": "bcbc640d1e732ba0415a9755bce120a811a13a2ba7fba3e58a167b3a9111c2a6",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "licenses.document"
+      ],
+      "url": "https://arxiv.org/html/2610.18579v1"
+    }
+  ],
+  "id": "arxiv:2610.18579",
+  "identifiers": {
+    "arxiv": "2610.18579"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-20T15:08:55Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": {
+      "basis": "The retained version-specific arXiv HTML infobox explicitly labels this paper License: CC BY 4.0. This document declaration does not establish code, training-data or model-weight licenses.",
+      "declared": "CC-BY-4.0",
+      "retrieved_at": "2026-10-20T15:08:55Z",
+      "url": "https://arxiv.org/html/2610.18579v1"
+    },
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2610.18579"
+    }
+  ],
+  "name": "Reading Right, Acting Wrong: Diagnosing Decision Failures of System One Models in Agent Loops",
+  "notes": "Adjacent diagnostic research across simulators, policies, tools, coding and an offline Mind2Web subset. Models choose among supplied admissible actions; they do not generate actions or execute a closed-loop browser policy in the reported evaluation. The paired probes measure selected visible facts, not complete understanding or internal causation. Pooled results are not a web-only leaderboard, and the paper reports coverage limits and label-sensitivity analyses. No benchmark release, code, data or weights were independently inspected.",
+  "published_at": "2026-10-13",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "adjacent",
+  "summary": "Pairs factual probes with next-action choices on frozen agent traces, including Mind2Web, to diagnose reading-decision gaps without closed-loop execution.",
+  "topics": [
+    "evaluation",
+    "web-navigation",
+    "interaction-history"
+  ],
+  "updated_at": "2026-10-13",
+  "url": "https://arxiv.org/abs/2610.18579"
+}

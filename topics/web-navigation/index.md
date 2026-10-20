@@ -18,6 +18,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/web-navigatio
   Adds decision heads to a frozen vision-language generator for selecting web actions and targets, with a confidence gate that falls back to text generation.
 - [Teaching Agents in their Own Style: Blackbox Teacher Distillation for Web Agents](https://awesomecua.github.io/resources/arxiv-2610-19834/) — 2026-10-14
   Introduces WebKD, which repairs failed student web-agent trajectories with minimal teacher edits and trains on corrections that preserve the student's reasoning style.
+- [Reading Right, Acting Wrong: Diagnosing Decision Failures of System One Models in Agent Loops](https://awesomecua.github.io/resources/arxiv-2610-18579/) — 2026-10-13
+  Pairs factual probes with next-action choices on frozen agent traces, including Mind2Web, to diagnose reading-decision gaps without closed-loop execution.
 - [BrowseSafe++: Benchmarking Prompt Injection Detection Across Web Contexts, Languages, and Browser Views](https://awesomecua.github.io/resources/arxiv-2610-17457/) — 2026-10-12
   Extends BrowseSafe with paired attacked and clean webpages in several representations, and studies text and screenshot detectors plus feedback-adapted prompt injections.
 - [HyWe: Unifying Search and Operation for Real-World Hybrid Web Tasks](https://awesomecua.github.io/resources/arxiv-2610-16319/) — 2026-10-12
@@ -36,6 +38,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/web-navigatio
   Describes WebFovea, a vision-based live-web agent whose execution loop checks action parsing, browser effects, feedback accuracy, and observation delivery. The report analyzes failures such as coordinate mismatches and silent control interactions and documents corresponding harness changes.
 - [WebUIProof: Benchmarking WebUI Code Generators with UI-Agent Execution Harness](https://awesomecua.github.io/resources/arxiv-2610-02617/) — 2026-10-02
   Introduces an execution-based benchmark for generated web interfaces, with a headless-browser UI-agent harness that checks DOM interactions and functional assertions.
+- [How To Train Your World Model: Fine-tuning vs RAG for LM-based World Modeling](https://awesomecua.github.io/resources/arxiv-2610-02542/) — 2026-10-01
+  Compares fine-tuned, retrieval-based and hybrid language-model world models for next-observation prediction and action selection in text environments including WebShop.
 - [Action Conditioned Bisimulation For GUI Agent Memory](https://awesomecua.github.io/resources/arxiv-2609-38778/) — 2026-09-30
   Defines a GUI-memory merge rule that treats two states as equivalent only when shared actions lead to matching outcomes and successor states. The training-free method replaces observation-similarity merging and is tested in closed-loop MiniWoB++ interaction.
 - [AdaptArena: Evaluating Test-Time Personalization of Web Agents](https://awesomecua.github.io/resources/arxiv-2609-36488/) — 2026-09-29
@@ -46,6 +50,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/web-navigatio
   Introduces Probe to Act, which lets browser agents request visual evidence linking DOM handles and screen regions before committing an operation. It retains selected interaction evidence as memory and studies both prompted use and distillation into open models.
 - [ORBIT: A Framework for Multi-Agent Safety and Security Evaluations](https://awesomecua.github.io/resources/arxiv-2609-33102/) — 2026-09-27
   Inspect-based framework that varies multi-agent roles, communication, attacks and defenses, with BrowserGym and virtual-desktop GUI adapters alongside coding and other tool scenarios.
+- [Learning from Others, Acting for You: Cross-User Memory Sharing for LLM Agents](https://awesomecua.github.io/resources/arxiv-2609-32511/) — 2026-09-26
+  ShareMem consolidates reusable experience across users while keeping preference retrieval user-bound; its web evaluation predicts target elements and actions on recorded Mind2Web states.
 - [From Trajectories to Grounded Preferences: Process Preference Synthesis via Interaction Element Graphs for Web PRMs](https://awesomecua.github.io/resources/arxiv-2609-32351/) — 2026-09-26
   Introduces SURFPRM, which turns web demonstrations into an interaction-element graph for synthesizing grounded negative actions. Its contrastive preference data trains process reward models to distinguish plausible on-page alternatives and guide downstream trajectory search.
 - [The Hard Part Comes After Search: Benchmarking Web Agents on Synthesizing, Organizing, and Displaying Knowledge](https://awesomecua.github.io/resources/arxiv-2609-30604/) — 2026-09-24
