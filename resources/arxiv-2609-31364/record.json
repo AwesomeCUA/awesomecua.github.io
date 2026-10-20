@@ -1,0 +1,103 @@
+{
+  "aliases": [],
+  "authors": [
+    "Kiana Hooshanfar",
+    "Amirhossein Kazerouni",
+    "Alireza Hosseini",
+    "Michael Brudno",
+    "Babak Taati"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9ce76f34abe391289643321027a33ac3cac8b5bd64eaa901f9a5fbf7c5561362",
+      "submitted_at": "2026-09-25T14:59:14Z",
+      "updated_at": "2026-09-25T14:59:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.31364v1"
+    },
+    "license_review": {
+      "document": {
+        "evidence_urls": [
+          "https://arxiv.org/html/2609.31364v1"
+        ],
+        "reason": "Document declaration only. The paper does not establish code, model-weight or underlying dataset permissions through this license."
+      }
+    }
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-20T15:06:37Z",
+      "role": "primary",
+      "sha256": "a3d753815e82190ee2de6f322cd816c32f2dd391f862845305fc7e57300303a6",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28abs%3A%22desktop+agent%22+OR+abs%3A%22computer+interaction%22+OR+abs%3A%22GUI+automation%22+OR+abs%3A%22web+navigation%22+OR+abs%3A%22browser+automation%22+OR+abs%3A%22visual+grounding%22+OR+abs%3A%22screen+understanding%22+OR+abs%3A%22mobile+agents%22%29+AND+submittedDate%3A%5B202609200000+TO+202610200000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T19:01:29.156954Z",
+      "role": "primary",
+      "sha256": "cd4ba28778b725c63f4a7329f683b2a287db2e46ed228a0d47006fcd95bbce80",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "licenses.document"
+      ],
+      "url": "https://arxiv.org/html/2609.31364v1"
+    }
+  ],
+  "id": "arxiv:2609.31364",
+  "identifiers": {
+    "arxiv": "2609.31364"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-20T19:01:29.156954Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": {
+      "basis": "The exact-v1 arXiv HTML infobox (#license-tr) declares License: CC BY 4.0 for this paper document.",
+      "declared": "CC-BY-4.0",
+      "retrieved_at": "2026-10-20T19:01:29.156954Z",
+      "url": "https://arxiv.org/html/2609.31364v1"
+    },
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2609.31364"
+    }
+  ],
+  "name": "OpenVAM: Open-World Visual Attention Modeling with VLMs",
+  "notes": "Static human-attention modeling on U-EYE webpage screenshots, with FIWI held out from training; no live-browser, agent-action or task-success evaluation. Gemini-generated reference rationales are expert-checked, and JScore compares generated text with references; human validation covers a separate 100-image subset. Reference text and heatmap alignment do not establish causal explanations of gaze or temporal scanpaths. Several baseline scores come from prior papers. Code/data/weight releases and licenses were not verified; no independent reproduction.",
+  "published_at": "2026-09-25",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "adjacent",
+  "summary": "Combines dense saliency prediction with explanations of attended elements, including webpage layouts; evaluates human-attention agreement and textual rationales rather than agent actions.",
+  "topics": [
+    "screen-understanding",
+    "ui-design",
+    "evaluation",
+    "data-generation"
+  ],
+  "updated_at": "2026-09-25",
+  "url": "https://arxiv.org/abs/2609.31364"
+}

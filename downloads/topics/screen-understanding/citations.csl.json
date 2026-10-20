@@ -10088,6 +10088,64 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2609.31364v1",
+    "archive": "arXiv",
+    "archive_location": "2609.31364",
+    "author": [
+      {
+        "literal": "Kiana Hooshanfar"
+      },
+      {
+        "literal": "Amirhossein Kazerouni"
+      },
+      {
+        "literal": "Alireza Hosseini"
+      },
+      {
+        "literal": "Michael Brudno"
+      },
+      {
+        "literal": "Babak Taati"
+      }
+    ],
+    "citation-key": "arxiv_2609_31364",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9ce76f34abe391289643321027a33ac3cac8b5bd64eaa901f9a5fbf7c5561362",
+        "submitted_at": "2026-09-25T14:59:14Z",
+        "updated_at": "2026-09-25T14:59:14Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.31364v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.31364",
+      "catalog_id": "arxiv:2609.31364",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-09-25",
+      "identifiers": {
+        "arxiv": "2609.31364"
+      },
+      "record_updated_at": "2026-09-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.31364",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-25; Recorded arXiv version: v1; Recorded version updated: 2026-09-25T14:59:14Z.",
+    "title": "OpenVAM: Open-World Visual Attention Modeling with VLMs",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.05185v1",
     "archive": "arXiv",
     "archive_location": "2610.05185",

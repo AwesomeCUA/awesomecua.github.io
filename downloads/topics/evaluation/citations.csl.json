@@ -36094,6 +36094,64 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2609.31364v1",
+    "archive": "arXiv",
+    "archive_location": "2609.31364",
+    "author": [
+      {
+        "literal": "Kiana Hooshanfar"
+      },
+      {
+        "literal": "Amirhossein Kazerouni"
+      },
+      {
+        "literal": "Alireza Hosseini"
+      },
+      {
+        "literal": "Michael Brudno"
+      },
+      {
+        "literal": "Babak Taati"
+      }
+    ],
+    "citation-key": "arxiv_2609_31364",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9ce76f34abe391289643321027a33ac3cac8b5bd64eaa901f9a5fbf7c5561362",
+        "submitted_at": "2026-09-25T14:59:14Z",
+        "updated_at": "2026-09-25T14:59:14Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.31364v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.31364",
+      "catalog_id": "arxiv:2609.31364",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-09-25",
+      "identifiers": {
+        "arxiv": "2609.31364"
+      },
+      "record_updated_at": "2026-09-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.31364",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-25; Recorded arXiv version: v1; Recorded version updated: 2026-09-25T14:59:14Z.",
+    "title": "OpenVAM: Open-World Visual Attention Modeling with VLMs",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2609.32036v1",
     "archive": "arXiv",
     "archive_location": "2609.32036",
@@ -39240,6 +39298,100 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.18067v1",
+    "archive": "arXiv",
+    "archive_location": "2610.18067",
+    "author": [
+      {
+        "literal": "Hang He"
+      },
+      {
+        "literal": "Linting Wang"
+      },
+      {
+        "literal": "Guanming Liu"
+      },
+      {
+        "literal": "Bo Mao"
+      },
+      {
+        "literal": "Jinxiu Liu"
+      },
+      {
+        "literal": "Yiran Suo"
+      },
+      {
+        "literal": "Maosen Zhou"
+      },
+      {
+        "literal": "Zhiheng Xi"
+      },
+      {
+        "literal": "Guanting Dong"
+      },
+      {
+        "literal": "Zhou Shao"
+      },
+      {
+        "literal": "Rui Zheng"
+      },
+      {
+        "literal": "Jie Zhou"
+      },
+      {
+        "literal": "Chengcheng Wan"
+      },
+      {
+        "literal": "Tao Gui"
+      },
+      {
+        "literal": "Qi Zhang"
+      },
+      {
+        "literal": "Xipeng Qiu"
+      },
+      {
+        "literal": "Xuanjing Huang"
+      }
+    ],
+    "citation-key": "arxiv_2610_18067",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6add363f25f87ea1814c7b79ebf6b51f7431b3745a7d2d910960b78e2d97d13f",
+        "submitted_at": "2026-10-13T09:52:02Z",
+        "updated_at": "2026-10-13T09:52:02Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.18067v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.18067",
+      "catalog_id": "arxiv:2610.18067",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-13",
+      "identifiers": {
+        "arxiv": "2610.18067"
+      },
+      "record_updated_at": "2026-10-13"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.18067",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          13
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T09:52:02Z.",
+    "title": "WorkRover: Scaling Long-Horizon Cowork Agent Training Via Recursive Environment Evolution",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.18579v1",
     "archive": "arXiv",
     "archive_location": "2610.18579",
@@ -39358,6 +39510,362 @@
     },
     "note": "First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T20:01:18Z.",
     "title": "CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a Controllable and Verifiable Generation Pipeline",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.19366v1",
+    "archive": "arXiv",
+    "archive_location": "2610.19366",
+    "author": [
+      {
+        "literal": "Minghao Guo"
+      },
+      {
+        "literal": "Qingyue Jiao"
+      },
+      {
+        "literal": "Xiujin Liu"
+      },
+      {
+        "literal": "Jianhong Pang"
+      },
+      {
+        "literal": "Ruimeng Yang"
+      },
+      {
+        "literal": "Naihao Xu"
+      },
+      {
+        "literal": "Liwei Che"
+      },
+      {
+        "literal": "Haochen Xue"
+      },
+      {
+        "literal": "Ziqi Wang"
+      },
+      {
+        "literal": "Xinying Cai"
+      },
+      {
+        "literal": "Jiaxuan Luo"
+      },
+      {
+        "literal": "Jiaxin Deng"
+      },
+      {
+        "literal": "Xuesong Ye"
+      },
+      {
+        "literal": "Jintao Qu"
+      },
+      {
+        "literal": "Wenyao Gao"
+      },
+      {
+        "literal": "Jingwen Gu"
+      },
+      {
+        "literal": "Chenyang Zhao"
+      },
+      {
+        "literal": "Shichun Liu"
+      },
+      {
+        "literal": "Guibin Zhang"
+      },
+      {
+        "literal": "Zefang Liu"
+      },
+      {
+        "literal": "Siyin Wang"
+      },
+      {
+        "literal": "Wujiang Xu"
+      },
+      {
+        "literal": "Danrui Li"
+      },
+      {
+        "literal": "Zeru Shi"
+      },
+      {
+        "literal": "Woongyeong Yeo"
+      },
+      {
+        "literal": "Shuang Liu"
+      },
+      {
+        "literal": "Wei-Chieh Huang"
+      },
+      {
+        "literal": "Weizhi Zhang"
+      },
+      {
+        "literal": "Tianyu Yang"
+      },
+      {
+        "literal": "Kangsan Kim"
+      },
+      {
+        "literal": "Yebowen Hu"
+      },
+      {
+        "literal": "Bowen Wen"
+      },
+      {
+        "literal": "Bowen Jiang"
+      },
+      {
+        "literal": "Haohao Su"
+      },
+      {
+        "literal": "Ming Yin"
+      },
+      {
+        "literal": "Sheldon Yu"
+      },
+      {
+        "literal": "Mian Zhang"
+      },
+      {
+        "literal": "Yuyan Chen"
+      },
+      {
+        "literal": "Hanrong Zhang"
+      },
+      {
+        "literal": "Kai Mei"
+      },
+      {
+        "literal": "Zihao Zhang"
+      },
+      {
+        "literal": "Mingyu Jin"
+      },
+      {
+        "literal": "Xi Zhu"
+      },
+      {
+        "literal": "Hengyi Wang"
+      },
+      {
+        "literal": "Tianxin Wei"
+      },
+      {
+        "literal": "Linyong Nan"
+      },
+      {
+        "literal": "Zhenwen Liang"
+      },
+      {
+        "literal": "Zhendong Chu"
+      },
+      {
+        "literal": "Ziqi Huang"
+      },
+      {
+        "literal": "Yongye Su"
+      },
+      {
+        "literal": "Sixun Dong"
+      },
+      {
+        "literal": "Shujian Liu"
+      },
+      {
+        "literal": "Kaiqu Liang"
+      },
+      {
+        "literal": "Jiaojiao Han"
+      },
+      {
+        "literal": "Zhaoye Fei"
+      },
+      {
+        "literal": "Kun Wang"
+      },
+      {
+        "literal": "Shihan Dou"
+      },
+      {
+        "literal": "Zhichun Guo"
+      },
+      {
+        "literal": "Xingjian Diao"
+      },
+      {
+        "literal": "Zeqi Gu"
+      },
+      {
+        "literal": "Heng Wang"
+      },
+      {
+        "literal": "Tao Feng"
+      },
+      {
+        "literal": "Cheng Qian"
+      },
+      {
+        "literal": "Hamid Palangi"
+      },
+      {
+        "literal": "Silei Xu"
+      },
+      {
+        "literal": "Xi Yun"
+      },
+      {
+        "literal": "Yi Zhu"
+      },
+      {
+        "literal": "Shilong Liu"
+      },
+      {
+        "literal": "Qingsong Wen"
+      },
+      {
+        "literal": "Sung Ju Hwang"
+      },
+      {
+        "literal": "Zuxuan Wu"
+      },
+      {
+        "literal": "Yu-Gang Jiang"
+      },
+      {
+        "literal": "Yiyu Shi"
+      },
+      {
+        "literal": "Dimitris N. Metaxas"
+      },
+      {
+        "literal": "Jiaxuan You"
+      },
+      {
+        "literal": "Julian McAuley"
+      },
+      {
+        "literal": "Mengdi Wang"
+      },
+      {
+        "literal": "Jiawei Han"
+      },
+      {
+        "literal": "Philip S. Yu"
+      },
+      {
+        "literal": "Ziyi Ye"
+      }
+    ],
+    "citation-key": "arxiv_2610_19366",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7f1a48aa4b89fb97e8e1a186ba7345826a8b9efc9aa7b82e0dd1f5ce17d42b73",
+        "submitted_at": "2026-10-14T01:11:57Z",
+        "updated_at": "2026-10-14T01:11:57Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.19366v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.19366",
+      "catalog_id": "arxiv:2610.19366",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-10-14",
+      "identifiers": {
+        "arxiv": "2610.19366"
+      },
+      "record_updated_at": "2026-10-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.19366",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T01:11:57Z.",
+    "title": "Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.19384v1",
+    "archive": "arXiv",
+    "archive_location": "2610.19384",
+    "author": [
+      {
+        "literal": "Yuke Wang"
+      },
+      {
+        "literal": "Benlei Cui"
+      },
+      {
+        "literal": "Shen Pang"
+      },
+      {
+        "literal": "Xuemei Dong"
+      },
+      {
+        "literal": "Longtao Huang"
+      },
+      {
+        "literal": "Hui Xue"
+      },
+      {
+        "literal": "Yuwen Zhai"
+      },
+      {
+        "literal": "Junjie Li"
+      },
+      {
+        "literal": "Jingqun Tang"
+      },
+      {
+        "literal": "Haiwen Hong"
+      }
+    ],
+    "citation-key": "arxiv_2610_19384",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "da334d943d98b4bf9915c6ca28aab734d736f376e67cbab950aa1af65f540ebf",
+        "submitted_at": "2026-10-14T01:30:03Z",
+        "updated_at": "2026-10-14T01:30:03Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.19384v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.19384",
+      "catalog_id": "arxiv:2610.19384",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-14",
+      "identifiers": {
+        "arxiv": "2610.19384"
+      },
+      "record_updated_at": "2026-10-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.19384",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T01:30:03Z.",
+    "title": "MMA-SafetyBench: A Benchmark for Multimodal Agent Safety Evaluation",
     "type": "article",
     "version": "1"
   },

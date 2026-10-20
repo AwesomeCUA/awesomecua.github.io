@@ -12,6 +12,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/memory/record
   TAG-Nav supplies Android GUI agents with destination and route memory distilled from offline app exploration. DestBench measures arrival at a reference pre-action screen, separately from downstream task execution.
 - [ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation](https://awesomecua.github.io/resources/arxiv-2610-22408/) — 2026-10-14
   ECHOES learns recursive textual task memory through privileged screenshot-history distillation and GRPO, then predicts GUI actions from the current screenshot and memory.
+- [Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory](https://awesomecua.github.io/resources/arxiv-2610-19366/) — 2026-10-14
+  Surveys multimodal memory using representation and management axes, distinguishing fixed-policy updates from policy evolution and comparing GUI memory evaluation with other modalities.
 - [Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents](https://awesomecua.github.io/resources/arxiv-2610-18784/) — 2026-10-13
   Introduces CarryOn, which maintains evidence-linked task objects and remaining-work context across history compression, with evaluations on desktop tasks and web research.
 - [Learning How to Remember: Memory Modality Selection for GUI Agents](https://awesomecua.github.io/resources/arxiv-2610-17928/) — 2026-10-13

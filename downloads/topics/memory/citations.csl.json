@@ -9995,6 +9995,289 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.19366v1",
+    "archive": "arXiv",
+    "archive_location": "2610.19366",
+    "author": [
+      {
+        "literal": "Minghao Guo"
+      },
+      {
+        "literal": "Qingyue Jiao"
+      },
+      {
+        "literal": "Xiujin Liu"
+      },
+      {
+        "literal": "Jianhong Pang"
+      },
+      {
+        "literal": "Ruimeng Yang"
+      },
+      {
+        "literal": "Naihao Xu"
+      },
+      {
+        "literal": "Liwei Che"
+      },
+      {
+        "literal": "Haochen Xue"
+      },
+      {
+        "literal": "Ziqi Wang"
+      },
+      {
+        "literal": "Xinying Cai"
+      },
+      {
+        "literal": "Jiaxuan Luo"
+      },
+      {
+        "literal": "Jiaxin Deng"
+      },
+      {
+        "literal": "Xuesong Ye"
+      },
+      {
+        "literal": "Jintao Qu"
+      },
+      {
+        "literal": "Wenyao Gao"
+      },
+      {
+        "literal": "Jingwen Gu"
+      },
+      {
+        "literal": "Chenyang Zhao"
+      },
+      {
+        "literal": "Shichun Liu"
+      },
+      {
+        "literal": "Guibin Zhang"
+      },
+      {
+        "literal": "Zefang Liu"
+      },
+      {
+        "literal": "Siyin Wang"
+      },
+      {
+        "literal": "Wujiang Xu"
+      },
+      {
+        "literal": "Danrui Li"
+      },
+      {
+        "literal": "Zeru Shi"
+      },
+      {
+        "literal": "Woongyeong Yeo"
+      },
+      {
+        "literal": "Shuang Liu"
+      },
+      {
+        "literal": "Wei-Chieh Huang"
+      },
+      {
+        "literal": "Weizhi Zhang"
+      },
+      {
+        "literal": "Tianyu Yang"
+      },
+      {
+        "literal": "Kangsan Kim"
+      },
+      {
+        "literal": "Yebowen Hu"
+      },
+      {
+        "literal": "Bowen Wen"
+      },
+      {
+        "literal": "Bowen Jiang"
+      },
+      {
+        "literal": "Haohao Su"
+      },
+      {
+        "literal": "Ming Yin"
+      },
+      {
+        "literal": "Sheldon Yu"
+      },
+      {
+        "literal": "Mian Zhang"
+      },
+      {
+        "literal": "Yuyan Chen"
+      },
+      {
+        "literal": "Hanrong Zhang"
+      },
+      {
+        "literal": "Kai Mei"
+      },
+      {
+        "literal": "Zihao Zhang"
+      },
+      {
+        "literal": "Mingyu Jin"
+      },
+      {
+        "literal": "Xi Zhu"
+      },
+      {
+        "literal": "Hengyi Wang"
+      },
+      {
+        "literal": "Tianxin Wei"
+      },
+      {
+        "literal": "Linyong Nan"
+      },
+      {
+        "literal": "Zhenwen Liang"
+      },
+      {
+        "literal": "Zhendong Chu"
+      },
+      {
+        "literal": "Ziqi Huang"
+      },
+      {
+        "literal": "Yongye Su"
+      },
+      {
+        "literal": "Sixun Dong"
+      },
+      {
+        "literal": "Shujian Liu"
+      },
+      {
+        "literal": "Kaiqu Liang"
+      },
+      {
+        "literal": "Jiaojiao Han"
+      },
+      {
+        "literal": "Zhaoye Fei"
+      },
+      {
+        "literal": "Kun Wang"
+      },
+      {
+        "literal": "Shihan Dou"
+      },
+      {
+        "literal": "Zhichun Guo"
+      },
+      {
+        "literal": "Xingjian Diao"
+      },
+      {
+        "literal": "Zeqi Gu"
+      },
+      {
+        "literal": "Heng Wang"
+      },
+      {
+        "literal": "Tao Feng"
+      },
+      {
+        "literal": "Cheng Qian"
+      },
+      {
+        "literal": "Hamid Palangi"
+      },
+      {
+        "literal": "Silei Xu"
+      },
+      {
+        "literal": "Xi Yun"
+      },
+      {
+        "literal": "Yi Zhu"
+      },
+      {
+        "literal": "Shilong Liu"
+      },
+      {
+        "literal": "Qingsong Wen"
+      },
+      {
+        "literal": "Sung Ju Hwang"
+      },
+      {
+        "literal": "Zuxuan Wu"
+      },
+      {
+        "literal": "Yu-Gang Jiang"
+      },
+      {
+        "literal": "Yiyu Shi"
+      },
+      {
+        "literal": "Dimitris N. Metaxas"
+      },
+      {
+        "literal": "Jiaxuan You"
+      },
+      {
+        "literal": "Julian McAuley"
+      },
+      {
+        "literal": "Mengdi Wang"
+      },
+      {
+        "literal": "Jiawei Han"
+      },
+      {
+        "literal": "Philip S. Yu"
+      },
+      {
+        "literal": "Ziyi Ye"
+      }
+    ],
+    "citation-key": "arxiv_2610_19366",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7f1a48aa4b89fb97e8e1a186ba7345826a8b9efc9aa7b82e0dd1f5ce17d42b73",
+        "submitted_at": "2026-10-14T01:11:57Z",
+        "updated_at": "2026-10-14T01:11:57Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.19366v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.19366",
+      "catalog_id": "arxiv:2610.19366",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-10-14",
+      "identifiers": {
+        "arxiv": "2610.19366"
+      },
+      "record_updated_at": "2026-10-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.19366",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T01:11:57Z.",
+    "title": "Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.22408v1",
     "archive": "arXiv",
     "archive_location": "2610.22408",

@@ -11823,6 +11823,79 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.19384v1",
+    "archive": "arXiv",
+    "archive_location": "2610.19384",
+    "author": [
+      {
+        "literal": "Yuke Wang"
+      },
+      {
+        "literal": "Benlei Cui"
+      },
+      {
+        "literal": "Shen Pang"
+      },
+      {
+        "literal": "Xuemei Dong"
+      },
+      {
+        "literal": "Longtao Huang"
+      },
+      {
+        "literal": "Hui Xue"
+      },
+      {
+        "literal": "Yuwen Zhai"
+      },
+      {
+        "literal": "Junjie Li"
+      },
+      {
+        "literal": "Jingqun Tang"
+      },
+      {
+        "literal": "Haiwen Hong"
+      }
+    ],
+    "citation-key": "arxiv_2610_19384",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "da334d943d98b4bf9915c6ca28aab734d736f376e67cbab950aa1af65f540ebf",
+        "submitted_at": "2026-10-14T01:30:03Z",
+        "updated_at": "2026-10-14T01:30:03Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.19384v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.19384",
+      "catalog_id": "arxiv:2610.19384",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-14",
+      "identifiers": {
+        "arxiv": "2610.19384"
+      },
+      "record_updated_at": "2026-10-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.19384",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T01:30:03Z.",
+    "title": "MMA-SafetyBench: A Benchmark for Multimodal Agent Safety Evaluation",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.20100v1",
     "archive": "arXiv",
     "archive_location": "2610.20100",

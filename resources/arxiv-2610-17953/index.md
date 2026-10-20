@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2610-17953/record.json
 
+## Recorded reviewer hold
+
+Scope hold after v1 Sections3\.1,4\.1 and AppendicesB,D\.2,D\.5,F\. Evaluation uses standardized MCP function calls and simulated service workflows; GUI/browser/OS action evaluation is not established\. Construction agents use browser/OS tools, and failure mining includes file/OS benchmarks, but these are support stages rather than reported CUA policy results\. Need direct interface interaction or a demonstrated CUA consumer before core/adjacent annotation\. Preserve metadata; no permanent exclusion\.
+
+- Review ledger: https://awesomecua.github.io/downloads/coverage.json
+
 ## Authors
 
 Guanting Dong, Xinyu Yang, Jiajie Jin, Yuyang Hu, Xiaoshuai Song, Yifei Chen, Xiaoxi Li, Jiejun Tan, Yutao Zhu, Tat-Seng Chua, Ji-Rong Wen, Zhicheng Dou

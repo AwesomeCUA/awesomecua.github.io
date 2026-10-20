@@ -178197,6 +178197,64 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2609.31364v1",
+    "archive": "arXiv",
+    "archive_location": "2609.31364",
+    "author": [
+      {
+        "literal": "Kiana Hooshanfar"
+      },
+      {
+        "literal": "Amirhossein Kazerouni"
+      },
+      {
+        "literal": "Alireza Hosseini"
+      },
+      {
+        "literal": "Michael Brudno"
+      },
+      {
+        "literal": "Babak Taati"
+      }
+    ],
+    "citation-key": "arxiv_2609_31364",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9ce76f34abe391289643321027a33ac3cac8b5bd64eaa901f9a5fbf7c5561362",
+        "submitted_at": "2026-09-25T14:59:14Z",
+        "updated_at": "2026-09-25T14:59:14Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.31364v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.31364",
+      "catalog_id": "arxiv:2609.31364",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
+      "first_published_at": "2026-09-25",
+      "identifiers": {
+        "arxiv": "2609.31364"
+      },
+      "record_updated_at": "2026-09-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.31364",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-25; Recorded arXiv version: v1; Recorded version updated: 2026-09-25T14:59:14Z.",
+    "title": "OpenVAM: Open-World Visual Attention Modeling with VLMs",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2609.31957v1",
     "archive": "arXiv",
     "archive_location": "2609.31957",
@@ -185968,6 +186026,67 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.16260v1",
+    "archive": "arXiv",
+    "archive_location": "2610.16260",
+    "author": [
+      {
+        "literal": "Mingwei Fu"
+      },
+      {
+        "literal": "Zheshu Song"
+      },
+      {
+        "literal": "Zhikai Zhou"
+      },
+      {
+        "literal": "Shen Huang"
+      },
+      {
+        "literal": "Shidong Shang"
+      },
+      {
+        "literal": "Mengxiao Zhu"
+      }
+    ],
+    "citation-key": "arxiv_2610_16260",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3256b0858be826f8058f4ed714c798583421644067d388586ef89b38fd912192",
+        "submitted_at": "2026-10-12T06:36:20Z",
+        "updated_at": "2026-10-12T06:36:20Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.16260v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.16260",
+      "catalog_id": "arxiv:2610.16260",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-12",
+      "identifiers": {
+        "arxiv": "2610.16260"
+      },
+      "record_updated_at": "2026-10-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.16260",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T06:36:20Z.",
+    "title": "ScreenASR-Bench: A Tiered Benchmark for Speech Recognition with Visual Context",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.16319v1",
     "archive": "arXiv",
     "archive_location": "2610.16319",
@@ -186622,8 +186741,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.18067",
       "catalog_id": "arxiv:2610.18067",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-13",
       "identifiers": {
         "arxiv": "2610.18067"
@@ -187258,9 +187377,9 @@
       },
       "canonical_source_url": "https://arxiv.org/abs/2610.19366",
       "catalog_id": "arxiv:2610.19366",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_kind": "survey",
+      "catalog_review_status": "curated",
+      "catalog_scope": "adjacent",
       "first_published_at": "2026-10-14",
       "identifiers": {
         "arxiv": "2610.19366"
@@ -187332,8 +187451,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.19384",
       "catalog_id": "arxiv:2610.19384",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-14",
       "identifiers": {
         "arxiv": "2610.19384"
@@ -188933,6 +189052,64 @@
     },
     "note": "First published: 2026-10-17; Recorded arXiv version: v1; Recorded version updated: 2026-10-17T02:03:20Z.",
     "title": "Beyond Next-Screen Prediction: The Decision Value of GUI World Models",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.24453v1",
+    "archive": "arXiv",
+    "archive_location": "2610.24453",
+    "author": [
+      {
+        "literal": "Yutong Song"
+      },
+      {
+        "literal": "Jiang Wu"
+      },
+      {
+        "literal": "Yuxuan Ren"
+      },
+      {
+        "literal": "Tony Qin"
+      },
+      {
+        "literal": "Baoyuan Wang"
+      }
+    ],
+    "citation-key": "arxiv_2610_24453",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7c33c03c3ea483909eee134d737a77af59ca1fcc089f2eff030a3fff910e9d2a",
+        "submitted_at": "2026-10-17T04:43:26Z",
+        "updated_at": "2026-10-17T04:43:26Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.24453v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.24453",
+      "catalog_id": "arxiv:2610.24453",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-17",
+      "identifiers": {
+        "arxiv": "2610.24453"
+      },
+      "record_updated_at": "2026-10-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.24453",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-17; Recorded arXiv version: v1; Recorded version updated: 2026-10-17T04:43:26Z.",
+    "title": "Hippo: Training-Free Agent Self-Evolution via Hippocampal Replay",
     "type": "article",
     "version": "1"
   },

@@ -12,6 +12,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/grounding/rec
   Introduces STP-GUI, which selects spatially coherent screenshot windows conditioned on the instruction to reduce visual tokens while retaining useful interface structure.
 - [Why Generate a Click? Plug-in Decision Heads for Web Agents](https://awesomecua.github.io/resources/arxiv-2610-20107/) — 2026-10-14
   Adds decision heads to a frozen vision-language generator for selecting web actions and targets, with a confidence gate that falls back to text generation.
+- [MMA-SafetyBench: A Benchmark for Multimodal Agent Safety Evaluation](https://awesomecua.github.io/resources/arxiv-2610-19384/) — 2026-10-14
+  Builds trajectory-guided visual-injection tests for web, desktop and mobile observations, separating target-matching action predictions from broader semantic compromise.
 - [GroundGUI: GUI Grounding by High-Quality Data and Distillation-to-Reinforcement Learning](https://awesomecua.github.io/resources/arxiv-2610-19100/) — 2026-10-13
   Introduces ScreenRef screenshot grounding data and a training sequence from supervised learning through teacher-guided distillation to reinforcement learning for GroundGUI-8B.
 - [MHVF: Training-Free GUI Grounding via Verification-Guided Multi-Hypothesis Search](https://awesomecua.github.io/resources/arxiv-2610-17792/) — 2026-10-13

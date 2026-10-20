@@ -12,6 +12,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/interaction-h
   FocusGUI learns step-specific weights over screenshot, audio, video and interaction-context channels, injecting a compact residual into a frozen decoder without pruning its inputs.
 - [ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation](https://awesomecua.github.io/resources/arxiv-2610-22408/) — 2026-10-14
   ECHOES learns recursive textual task memory through privileged screenshot-history distillation and GRPO, then predicts GUI actions from the current screenshot and memory.
+- [Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory](https://awesomecua.github.io/resources/arxiv-2610-19366/) — 2026-10-14
+  Surveys multimodal memory using representation and management axes, distinguishing fixed-policy updates from policy evolution and comparing GUI memory evaluation with other modalities.
 - [Reading Right, Acting Wrong: Diagnosing Decision Failures of System One Models in Agent Loops](https://awesomecua.github.io/resources/arxiv-2610-18579/) — 2026-10-13
   Pairs factual probes with next-action choices on frozen agent traces, including Mind2Web, to diagnose reading-decision gaps without closed-loop execution.
 - [Learn How to Act from Your Own Interactions: On-Policy Self-Distillation for GUI Agents](https://awesomecua.github.io/resources/arxiv-2609-27307/) — 2026-09-23

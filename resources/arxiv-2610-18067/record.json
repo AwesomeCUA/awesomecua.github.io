@@ -27,6 +27,14 @@
       "updated_at": "2026-10-13T09:52:02Z",
       "version": 1,
       "versioned_url": "https://arxiv.org/abs/2610.18067v1"
+    },
+    "license_review": {
+      "document": {
+        "evidence_urls": [
+          "https://arxiv.org/html/2610.18067v1"
+        ],
+        "reason": "Document declaration only; code, data and weights permissions are not inferred."
+      }
     }
   },
   "environments": [
@@ -47,6 +55,23 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=2609.39924%2C2610.00346%2C2610.00583%2C2610.01939%2C2610.05099%2C2610.09127%2C2610.09484%2C2610.09633%2C2610.11251%2C2610.11922%2C2610.13098%2C2610.13166%2C2610.13361%2C2610.13623%2C2610.16117%2C2610.17953%2C2610.18067%2C2610.19366%2C2610.20424&max_results=19"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T19:02:20Z",
+      "role": "primary",
+      "sha256": "f1fbdd2ecb2a54b7723372118e2b0ac818420f3a3dd280c2486c8e064cf486d6",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "scope",
+        "environments",
+        "topics",
+        "notes",
+        "licenses.document"
+      ],
+      "url": "https://arxiv.org/html/2610.18067v1"
     }
   ],
   "id": "arxiv:2610.18067",
@@ -54,27 +79,39 @@
     "arxiv": "2610.18067"
   },
   "kind": "paper",
-  "last_verified_at": "2026-10-17T12:31:39Z",
+  "last_verified_at": "2026-10-20T19:02:20Z",
   "licenses": {
     "code": null,
     "data": null,
-    "document": null,
+    "document": {
+      "basis": "The exact-v1 arXiv HTML infobox explicitly declares CC BY 4.0 for this paper.",
+      "declared": "CC-BY-4.0",
+      "retrieved_at": "2026-10-20T19:02:20Z",
+      "url": "https://arxiv.org/html/2610.18067v1"
+    },
     "weights": null
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2610.18067"
     }
   ],
   "name": "WorkRover: Scaling Long-Horizon Cowork Agent Training Via Recursive Environment Evolution",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "App WorkEnvs expose UI observations and interaction interfaces alongside file and tool workflows; no specific operating system or pixel-control success is established. Verifier shaping depends on deterministic-check and dependency coverage. External reference scores use differing harnesses or subsets; GDPval Elo is not comparable to percentage metrics. A successful-trace analysis subset is separate from online RL outcomes. No implementation release or independent reproduction was verified.",
   "published_at": "2026-10-13",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Synthesizes resettable workspaces with files, application observations and skills; repairs environment incompatibilities and trains long-task agents using verifier-linked turn credit.",
+  "topics": [
+    "data-generation",
+    "long-horizon",
+    "evaluation",
+    "reward-models",
+    "reinforcement-learning",
+    "workflow"
+  ],
   "updated_at": "2026-10-13",
   "url": "https://arxiv.org/abs/2610.18067"
 }

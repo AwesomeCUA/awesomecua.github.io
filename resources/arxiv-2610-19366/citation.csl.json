@@ -6,15 +6,15 @@
   "URL": "https://arxiv.org/abs/2610.19366v1",
   "custom": {
     "catalog_id": "arxiv:2610.19366",
-    "catalog_kind": "paper",
-    "catalog_review_status": "metadata_verified",
+    "catalog_kind": "survey",
+    "catalog_review_status": "curated",
     "canonical_source_url": "https://arxiv.org/abs/2610.19366",
     "identifiers": {
       "arxiv": "2610.19366"
     },
     "first_published_at": "2026-10-14",
     "record_updated_at": "2026-10-14",
-    "catalog_scope": "relevance_pending",
+    "catalog_scope": "adjacent",
     "arxiv_snapshot": {
       "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
       "abstract_sha256": "7f1a48aa4b89fb97e8e1a186ba7345826a8b9efc9aa7b82e0dd1f5ce17d42b73",

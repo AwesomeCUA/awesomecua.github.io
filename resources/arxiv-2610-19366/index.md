@@ -1,20 +1,20 @@
 # Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory
 
-Bibliographic record for Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Surveys multimodal memory using representation and management axes, distinguishing fixed-policy updates from policy evolution and comparing GUI memory evaluation with other modalities.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-19366/
 - Original source: https://arxiv.org/abs/2610.19366
-- Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
+- Kind: survey
+- Review: curated
+- Scope: adjacent
 - Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-17T12:31:39Z
+- Topics: survey, memory, evaluation, interaction-history
+- Evidence checked: 2026-10-20T19:02:22.864948+00:00
 - ID: arxiv:2610.19366
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+A broad literature synthesis spanning images, video, audio, GUI and embodied settings. Its GUI section compares interface-state retention, action outcomes, cross-session reuse and visual evidence, but the paper does not provide a new GUI-agent experiment. Taxonomy corpus counts and benchmark classifications are authors' annotations, not independently audited field coverage. Updating stored content alone does not establish the survey's self-evolving-policy tier; endpoint task success does not isolate memory use. Lifecycle, resource-budget and provenance recommendations are proposed evaluation directions rather than demonstrated guarantees. Platform facets stay unspecified; cited systems and releases were not independently verified.
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2610-19366/record.json
 
@@ -40,9 +40,13 @@ Minghao Guo, Qingyue Jiao, Xiujin Liu, Jianhong Pang, Ruimeng Yang, Naihao Xu, L
 
 - code: not recorded
 - data: not recorded
-- document: not recorded
+- document: CC-BY-4.0 — https://arxiv.org/html/2610.19366v1
 - weights: not recorded
+
+- document review: Paper-specific document declaration only; no code, data or weights permissions are inferred.
+  Sources: https://arxiv.org/html/2610.19366v1
 
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2609.39924%2C2610.00346%2C2610.00583%2C2610.01939%2C2610.05099%2C2610.09127%2C2610.09484%2C2610.09633%2C2610.11251%2C2610.11922%2C2610.13098%2C2610.13166%2C2610.13361%2C2610.13623%2C2610.16117%2C2610.17953%2C2610.18067%2C2610.19366%2C2610.20424&max_results=19 (retrieved 2026-10-17T12:31:39Z; SHA-256 c52e4e283e0dae88ef8b3ce67b7424b1d4b48e8f41015d872f4da69f98782eaa)
+- https://arxiv.org/html/2610.19366v1 (retrieved 2026-10-20T19:02:22.864948+00:00; SHA-256 308796868bf9b1cb042bc6008e1e6f4ba6e776a2d4e13d40ad5684b477861563)

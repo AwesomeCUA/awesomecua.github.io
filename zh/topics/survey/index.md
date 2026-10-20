@@ -6,6 +6,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/survey/record
 
 ## 论文与综述
 
+- [Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory](https://awesomecua.github.io/resources/arxiv-2610-19366/) — 2026-10-14
+  Surveys multimodal memory using representation and management axes, distinguishing fixed-policy updates from policy evolution and comparing GUI memory evaluation with other modalities.
 - [Efficient GUI Agents: A Systems Survey of Observation, Memory, Action, and Runtime Optimization](https://awesomecua.github.io/resources/arxiv-2609-02309/) — 2026-09-02
   Surveys GUI-agent efficiency beyond task success: observation, context and memory, action, and planner or runtime cost.
 - [A Systematic Survey of Agentic Skills: Architecture, Lifecycle, and Security](https://awesomecua.github.io/resources/arxiv-2608-29596/) — 2026-08-30

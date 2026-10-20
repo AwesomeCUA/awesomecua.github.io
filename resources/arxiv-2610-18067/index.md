@@ -1,20 +1,20 @@
 # WorkRover: Scaling Long-Horizon Cowork Agent Training Via Recursive Environment Evolution
 
-Bibliographic record for WorkRover: Scaling Long-Horizon Cowork Agent Training Via Recursive Environment Evolution. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
+Synthesizes resettable workspaces with files, application observations and skills; repairs environment incompatibilities and trains long-task agents using verifier-linked turn credit.
 
 - Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-18067/
 - Original source: https://arxiv.org/abs/2610.18067
 - Kind: paper
-- Review: metadata_verified
-- Scope: relevance_pending
+- Review: curated
+- Scope: core
 - Environments: unspecified
-- Topics:
-- Evidence checked: 2026-10-17T12:31:39Z
+- Topics: data-generation, long-horizon, evaluation, reward-models, reinforcement-learning, workflow
+- Evidence checked: 2026-10-20T19:02:20Z
 - ID: arxiv:2610.18067
 
 ## Limitations
 
-Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.
+App WorkEnvs expose UI observations and interaction interfaces alongside file and tool workflows; no specific operating system or pixel-control success is established. Verifier shaping depends on deterministic-check and dependency coverage. External reference scores use differing harnesses or subsets; GDPval Elo is not comparable to percentage metrics. A successful-trace analysis subset is separate from online RL outcomes. No implementation release or independent reproduction was verified.
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2610-18067/record.json
 
@@ -40,9 +40,13 @@ Hang He, Linting Wang, Guanming Liu, Bo Mao, Jinxiu Liu, Yiran Suo, Maosen Zhou,
 
 - code: not recorded
 - data: not recorded
-- document: not recorded
+- document: CC-BY-4.0 — https://arxiv.org/html/2610.18067v1
 - weights: not recorded
+
+- document review: Document declaration only; code, data and weights permissions are not inferred.
+  Sources: https://arxiv.org/html/2610.18067v1
 
 ## Primary evidence
 
 - https://export.arxiv.org/api/query?id_list=2609.39924%2C2610.00346%2C2610.00583%2C2610.01939%2C2610.05099%2C2610.09127%2C2610.09484%2C2610.09633%2C2610.11251%2C2610.11922%2C2610.13098%2C2610.13166%2C2610.13361%2C2610.13623%2C2610.16117%2C2610.17953%2C2610.18067%2C2610.19366%2C2610.20424&max_results=19 (retrieved 2026-10-17T12:31:39Z; SHA-256 c52e4e283e0dae88ef8b3ce67b7424b1d4b48e8f41015d872f4da69f98782eaa)
+- https://arxiv.org/html/2610.18067v1 (retrieved 2026-10-20T19:02:20Z; SHA-256 f1fbdd2ecb2a54b7723372118e2b0ac818420f3a3dd280c2486c8e064cf486d6)

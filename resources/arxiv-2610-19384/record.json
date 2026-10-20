@@ -20,10 +20,19 @@
       "updated_at": "2026-10-14T01:30:03Z",
       "version": 1,
       "versioned_url": "https://arxiv.org/abs/2610.19384v1"
+    },
+    "license_review": {
+      "document": {
+        "evidence_urls": [
+          "https://arxiv.org/html/2610.19384v1"
+        ],
+        "reason": "Paper-specific document declaration only; no code, data or weights permissions are inferred."
+      }
     }
   },
   "environments": [
-    "unspecified"
+    "web",
+    "desktop"
   ],
   "evidence": [
     {
@@ -40,6 +49,23 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=2610.19384%2C2610.22672%2C2610.22697%2C2610.23303%2C2610.23307%2C2610.24729&max_results=6"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T19:02:16.329923+00:00",
+      "role": "primary",
+      "sha256": "ca995ec330f62a43d3d4fbbf28dfe83c5fa8b05f5c1e446929493409760268d1",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "licenses.document"
+      ],
+      "url": "https://arxiv.org/html/2610.19384v1"
     }
   ],
   "id": "arxiv:2610.19384",
@@ -47,27 +73,36 @@
     "arxiv": "2610.19384"
   },
   "kind": "paper",
-  "last_verified_at": "2026-10-20T05:52:01Z",
+  "last_verified_at": "2026-10-20T19:02:16.329923+00:00",
   "licenses": {
     "code": null,
     "data": null,
-    "document": null,
+    "document": {
+      "basis": "The retained exact-v1 arXiv HTML infobox explicitly declares License: CC BY 4.0 for this document.",
+      "declared": "CC-BY-4.0",
+      "retrieved_at": "2026-10-20T19:02:16.329923+00:00",
+      "url": "https://arxiv.org/html/2610.19384v1"
+    },
     "weights": null
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2610.19384"
     }
   ],
   "name": "MMA-SafetyBench: A Benchmark for Multimodal Agent Safety Evaluation",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "ASR measures predicted coordinates inside an annotated target or compromised generated content; actual clicks, environment changes and downstream harm are not verified. SCR additionally counts adopted adversarial intent or task/schema disruption. Clean-task and attacked-trajectory denominators differ, including 42 clean desktop tasks versus 209 adversarial desktop trajectories. Payloads and injection points are fixed, and neutral prompts change both compliance cues and instruction-priority guidance. GPT-5 judging has a 300-trajectory human-label check, with borderline disagreements. Android-style mobile dialogs do not establish an Android runtime. Code/data links were identified but not inspected; no independent reproduction.",
   "published_at": "2026-10-14",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Builds trajectory-guided visual-injection tests for web, desktop and mobile observations, separating target-matching action predictions from broader semantic compromise.",
+  "topics": [
+    "evaluation",
+    "safety-security",
+    "grounding"
+  ],
   "updated_at": "2026-10-14",
   "url": "https://arxiv.org/abs/2610.19384"
 }
