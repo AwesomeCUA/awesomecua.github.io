@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2409-00138/record.json
 
+## Recorded reviewer hold
+
+Reviewer hold: the retained abstract and full\-text Sections 3\.2–3\.3 describe ToolEmu/GPT\-4\-emulated tool trajectories and final\-action privacy evaluation\. They do not establish direct GUI or browser interaction for this method\. Preserve the bibliographic record as metadata\-only pending an explicit adjacent\-scope justification\.
+
+- Review ledger: https://awesomecua.github.io/downloads/coverage.json
+
 ## Authors
 
 Yijia Shao, Tianshi Li, Weiyan Shi, Yanchen Liu, Diyi Yang

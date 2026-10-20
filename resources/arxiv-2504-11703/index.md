@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2504-11703/record.json
 
+## Recorded reviewer hold
+
+Reviewer hold: the retained abstract and full\-text Sections 8–9 evaluate typed tool\-call policies on AgentDojo/ASB and MCP integrations\. Section 9 explicitly excludes graphical\-interface tool calls from the current method\. Preserve the bibliographic record as metadata\-only; do not describe this as a web/GUI defense\.
+
+- Review ledger: https://awesomecua.github.io/downloads/coverage.json
+
 ## Authors
 
 Tianneng Shi, Jingxuan He, Zhun Wang, Hongwei Li, Linyu Wu, Wenbo Guo, Dawn Song

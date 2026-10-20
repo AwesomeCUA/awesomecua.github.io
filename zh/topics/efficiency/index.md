@@ -297,6 +297,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/efficiency/re
 
 - [OSWorld-Human](https://awesomecua.github.io/resources/github-wuklab-osworld-human/) — Date not recorded
   Human reference trajectories and scoring code for measuring the action efficiency of computer-use agents on OSWorld tasks.
+- [Web Context Bench (Python)](https://awesomecua.github.io/resources/github-charlypoly-web-context-bench-python/) — Date not recorded
+  Local-page benchmark comparing six browser representations on token use, factual reading and target-element selection, with deterministic answer scoring.
 
 ## 模型
 
@@ -317,6 +319,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/efficiency/re
   Offline device-control training code that learns action values and uses them to select promising actions, with linked trajectories and checkpoints.
 - [DistRL](https://awesomecua.github.io/resources/github-distrl-lab-distrl-open/) — Date not recorded
   Distributed online reinforcement-learning framework for Android agents, with environment setup and trajectory collection tools.
+- [GUI Grounding Evaluation Harness](https://awesomecua.github.io/resources/github-patrickstarl-gui-grounding-eval/) — Date not recorded
+  ScreenSpot-Pro evaluation harness with explicit coordinate transforms, prompt and crop-based inference comparisons, and per-sample grounding accuracy and cost records.
 - [GUI-RC / GUI-RCPO](https://awesomecua.github.io/resources/github-zju-real-gui-rcpo/) — Date not recorded
   GUI-grounding research code for spatial voting across sampled predictions and test-time policy optimization using region-consistency rewards.
 - [SCALE-CUA (THUDM)](https://awesomecua.github.io/resources/github-thudm-scale-cua/) — Date not recorded

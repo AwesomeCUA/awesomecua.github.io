@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2512-21720/record.json
 
+## Recorded reviewer hold
+
+The abstract studies compressor\-predictor language\-model systems and Deep Research\. A concrete connection to GUI, browser or operating\-system interaction needs further primary\-source review\.
+
+- Review ledger: https://awesomecua.github.io/downloads/coverage.json
+
 ## Authors
 
 Shizhe He, Avanika Narayan, Ishan S. Khare, Scott W. Linderman, Christopher Ré, Dan Biderman

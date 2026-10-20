@@ -556,6 +556,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/mobile-naviga
   A framework that combines screenshots and accessibility state with agent tools for mobile-device tasks through command-line and Python interfaces.
 - [Mobilerun Portal (formerly Droidrun Portal)](https://awesomecua.github.io/resources/github-droidrun-mobilerun-portal/) — Date not recorded
   An Android accessibility service that exposes UI-element inspection, device-control interfaces and screen feedback to mobile automation agents.
+- [Mobster engine](https://awesomecua.github.io/resources/github-radishsoftware-mobster/) — Date not recorded
+  iOS agent engine organized around an observe, decide, verify and act loop, using WebDriverAgent screen state and phone actions such as taps, typing, swipes and app switches.
 - [Open-AutoGLM](https://awesomecua.github.io/resources/github-zai-org-open-autoglm/) — Date not recorded
   Phone agent model and framework with device interaction tooling.
 - [OpenMobile-2 code](https://awesomecua.github.io/resources/github-openmobile2-openmobile2-code/) — Date not recorded
@@ -572,3 +574,5 @@ Full source records: https://awesomecua.github.io/downloads/topics/mobile-naviga
   Runtime verification framework for Android GUI agents that checks proposed actions against logical rules derived from user instructions and developer-defined app states.
 - [VisionTasker](https://awesomecua.github.io/resources/github-akimotoayako-visiontasker/) — Date not recorded
   An Android automation implementation that translates screenshot-based UI understanding into language descriptions for step-by-step LLM planning and action execution.
+- [Yunkai](https://awesomecua.github.io/resources/github-solplum-yunkai/) — Date not recorded
+  Android phone assistant combining model-driven tool use with accessibility-tree reading, screenshots, and tap, swipe and text-entry primitives. Its documented interaction flow presents operation plans for user confirmation.

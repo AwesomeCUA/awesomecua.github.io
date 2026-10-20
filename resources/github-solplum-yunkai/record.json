@@ -1,0 +1,159 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "license_review": {
+      "code": {
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/LICENSE"
+        ],
+        "reason": "Complete root MIT license text inspected at the pinned commit. Repository software only; data, weights and third-party assets retain separate terms."
+      }
+    },
+    "repository_revision": "2aa6cd83165bfc201b0128c250e80892895d63af"
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T11:57:12.431753+00:00",
+      "role": "primary",
+      "sha256": "eea31b35aa0b55c97f8ccda3438382ad49d2453671b49bb817efb5bc3384e900",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes"
+      ],
+      "url": "https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/README.md"
+    },
+    {
+      "method": "github_repository_identity",
+      "retrieved_at": "2026-10-20T11:06:00.276978+00:00",
+      "role": "primary",
+      "sha256": "01f97a863952373bd10a1f849d79706344be63f5774fe7e0cfe9ba774e41d213",
+      "supports": [
+        "identity"
+      ],
+      "url": "https://api.github.com/search/repositories?q=topic%3Amobile-agent+is%3Apublic+fork%3Afalse+created%3A2008-01-01..2026-10-20&per_page=100&page=1&sort=updated&order=asc"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T11:54:02.419278+00:00",
+      "role": "primary",
+      "sha256": "e2797712132e69cc50fa7ad2ae815a48339f77eebec1e85a5dc0cd75702574f1",
+      "supports": [
+        "identity",
+        "details.repository_revision"
+      ],
+      "url": "https://api.github.com/repos/solplum/yunkai/commits/main"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T11:56:30.226860+00:00",
+      "role": "primary",
+      "sha256": "08f48cb5c15b8d505e76a91d996c656d87765946cc7137bce088e73e6e64cf06",
+      "supports": [
+        "identity",
+        "details.repository_revision",
+        "notes"
+      ],
+      "url": "https://api.github.com/repos/solplum/yunkai/git/trees/4ca94f2f7d8f13099ae2c351d9578ed5ef0cb509?recursive=1"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T11:57:22.238029+00:00",
+      "role": "primary",
+      "sha256": "c39441f92c303832d42f1f153c4442533ac925007e12d70f3199c568a0baac88",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/LICENSE"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T11:59:51.424713+00:00",
+      "role": "primary",
+      "sha256": "964aad706676fc7b74e532f8bc441fa766f3ce0ca3e4d0e115c7a90c70656883",
+      "supports": [
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes"
+      ],
+      "url": "https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/yunkai-android/app/src/main/java/com/zhuolin/yunkai/service/screen/ScreenSenseService.kt"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T11:59:54.745065+00:00",
+      "role": "primary",
+      "sha256": "628cc3015999176052a09e3f3bbb8635d87163a9430d98cb6a6a7c09117dfd37",
+      "supports": [
+        "notes"
+      ],
+      "url": "https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/yunkai-harmony/entry/src/main/ets/service/tools/M2Tools.ets"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T12:04:53.632582+00:00",
+      "role": "primary",
+      "sha256": "ba8c9b0f4b5cea5ac36a4b49f3cf27e77e5c6beb49022e43c667e359be2c6fca",
+      "supports": [
+        "environments",
+        "notes"
+      ],
+      "url": "https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/yunkai-harmony/entry/src/main/ets/service/screen/ScreenSenseExtension.ets"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T12:04:56.914360+00:00",
+      "role": "primary",
+      "sha256": "423a77e1fd57f3e105898f1adfc94c493de5c0de97fae4379f9cf540c89d4640",
+      "supports": [
+        "notes"
+      ],
+      "url": "https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/yunkai-harmony/tests/fullflow/drive_harmony.sh"
+    }
+  ],
+  "id": "github:solplum/yunkai",
+  "identifiers": {},
+  "kind": "agent",
+  "last_verified_at": "2026-10-20T11:57:12.431753+00:00",
+  "licenses": {
+    "code": {
+      "basis": "Complete root MIT license text inspected at the pinned commit. Repository software only; data, weights and third-party assets retain separate terms.",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-20T11:57:22.238029+00:00",
+      "url": "https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/solplum/yunkai"
+    }
+  ],
+  "name": "Yunkai",
+  "notes": "The Android AccessibilityService contains concrete screen-reading and action paths. The inspected HarmonyOS accessibility extension is a lifecycle/event scaffold with its screen-content probe disabled; HDC appears in an external UI-test driver, so Harmony GUI-control parity is not established by this review. Setup requires a configured OpenAI-compatible model endpoint and API key: local storage does not establish offline inference or a no-transmission guarantee. Documented approval and privacy mechanisms are not independently tested security guarantees. No app, device test or model inference was run.",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Android phone assistant combining model-driven tool use with accessibility-tree reading, screenshots, and tap, swipe and text-entry primitives. Its documented interaction flow presents operation plans for user confirmation.",
+  "topics": [
+    "mobile-navigation",
+    "screen-understanding",
+    "human-in-the-loop"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/solplum/yunkai"
+}

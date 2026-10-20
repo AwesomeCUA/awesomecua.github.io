@@ -1233,6 +1233,7 @@ https://awesomecua.github.io/resources/github-alipay-mobile-agent/
 https://awesomecua.github.io/resources/github-alokia-cola-demo/
 https://awesomecua.github.io/resources/github-amazon-science-pae/
 https://awesomecua.github.io/resources/github-androidarenaagent-androidarena/
+https://awesomecua.github.io/resources/github-anikasomaia-local-activity-recorder/
 https://awesomecua.github.io/resources/github-ant-research-guihallubench/
 https://awesomecua.github.io/resources/github-apga-go-browse/
 https://awesomecua.github.io/resources/github-appium-appium/
@@ -1253,6 +1254,8 @@ https://awesomecua.github.io/resources/github-bytedance-ui-tars/
 https://awesomecua.github.io/resources/github-bz-lab-auitestagent/
 https://awesomecua.github.io/resources/github-caap-agent-caap-agent/
 https://awesomecua.github.io/resources/github-camel-ai-crab/
+https://awesomecua.github.io/resources/github-charlypoly-web-context-bench-python/
+https://awesomecua.github.io/resources/github-chenghengli-windom/
 https://awesomecua.github.io/resources/github-chenwu98-agent-attack/
 https://awesomecua.github.io/resources/github-chessbean1-gui-robust/
 https://awesomecua.github.io/resources/github-china-qijizhifeng-work2skill/
@@ -1385,11 +1388,13 @@ https://awesomecua.github.io/resources/github-osu-nlp-group-webdreamer/
 https://awesomecua.github.io/resources/github-osu-nlp-group-webguard/
 https://awesomecua.github.io/resources/github-othersideai-self-operating-computer/
 https://awesomecua.github.io/resources/github-pathonaiorg-litewebagent/
+https://awesomecua.github.io/resources/github-patrickstarl-gui-grounding-eval/
 https://awesomecua.github.io/resources/github-pixiebrix-agent-browser-shield/
 https://awesomecua.github.io/resources/github-posgnu-rci-agent/
 https://awesomecua.github.io/resources/github-prentisai-groundgui/
 https://awesomecua.github.io/resources/github-princeton-nlp-webshop/
 https://awesomecua.github.io/resources/github-purewhiter-mobilegym/
+https://awesomecua.github.io/resources/github-radishsoftware-mobster/
 https://awesomecua.github.io/resources/github-reallm-labs-infigui-r1/
 https://awesomecua.github.io/resources/github-reidbarber-webmarker/
 https://awesomecua.github.io/resources/github-reworkd-tarsier/
@@ -1415,6 +1420,7 @@ https://awesomecua.github.io/resources/github-sikuli-sikuli/
 https://awesomecua.github.io/resources/github-simular-ai-agent-s/
 https://awesomecua.github.io/resources/github-skyvern-ai-skyvern/
 https://awesomecua.github.io/resources/github-skyworkai-agent-studio/
+https://awesomecua.github.io/resources/github-solplum-yunkai/
 https://awesomecua.github.io/resources/github-squeezeailab-plan-and-act/
 https://awesomecua.github.io/resources/github-sqzhang-lazy-d-pot/
 https://awesomecua.github.io/resources/github-stanfordnlp-wge/

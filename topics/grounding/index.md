@@ -519,6 +519,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/grounding/rec
   Second version of the ScreenSpot grounding test set, published by OS-Copilot as separate desktop, mobile and web annotation files with a shared screenshot archive.
 - [ScreenSpot-v2 instruction variants](https://awesomecua.github.io/resources/url-17729e1c532ba7043404/) — Date not recorded
   Instruction variants over ScreenSpot-v2 screenshots that distinguish original commands, explicit actions, target descriptions and impossible operations.
+- [Web Context Bench (Python)](https://awesomecua.github.io/resources/github-charlypoly-web-context-bench-python/) — Date not recorded
+  Local-page benchmark comparing six browser representations on token use, factual reading and target-element selection, with deterministic answer scoring.
 - [WebClick](https://awesomecua.github.io/resources/url-5e2bd1b3398974b79c9c/) — Date not recorded
   A web-interface localization benchmark with screenshot instructions and target boxes, including agent browsing, human browsing and calendar cases.
 
@@ -734,6 +736,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/grounding/rec
   Toolkit and Ubuntu-based environment for building and evaluating generalist computer-use agents through GUI and API interaction.
 - [GroundGUI training and evaluation code](https://awesomecua.github.io/resources/github-prentisai-groundgui/) — Date not recorded
   Code for screenshot grounding through supervised training, teacher-guided distillation, reinforcement learning, and benchmark evaluation.
+- [GUI Grounding Evaluation Harness](https://awesomecua.github.io/resources/github-patrickstarl-gui-grounding-eval/) — Date not recorded
+  ScreenSpot-Pro evaluation harness with explicit coordinate transforms, prompt and crop-based inference comparisons, and per-sample grounding accuracy and cost records.
 - [GUI-RC / GUI-RCPO](https://awesomecua.github.io/resources/github-zju-real-gui-rcpo/) — Date not recorded
   GUI-grounding research code for spatial voting across sampled predictions and test-time policy optimization using region-consistency rewards.
 - [GUIPivot](https://awesomecua.github.io/resources/github-zrw00-guipivot/) — Date not recorded
@@ -768,3 +772,5 @@ Full source records: https://awesomecua.github.io/downloads/topics/grounding/rec
   A browser library that labels interactive elements and their boxes for visual prompting, preserving element mappings that automation code can use to execute selected actions.
 - [WebVLN research implementation](https://awesomecua.github.io/resources/github-webvln-webvln/) — Date not recorded
   Training and evaluation code for question-guided website navigation that combines visual observations with web-specific HTML information.
+- [WinDOM code](https://awesomecua.github.io/resources/github-chenghengli-windom/) — Date not recorded
+  GUI-grounding training and evaluation code with same-family distillation, GRPO recipes and point-in-box scoring, using a Windows-style web environment.

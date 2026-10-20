@@ -1299,6 +1299,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/evaluation/re
   Evaluation of multimodal models on visual web understanding tasks.
 - [WeaveBench](https://awesomecua.github.io/resources/url-6a212bc12f82c824f6b9/) — Date not recorded
   Computer-use benchmark mixing graphical interaction and code execution.
+- [Web Context Bench (Python)](https://awesomecua.github.io/resources/github-charlypoly-web-context-bench-python/) — Date not recorded
+  Local-page benchmark comparing six browser representations on token use, factual reading and target-element selection, with deterministic answer scoring.
 - [WebArena](https://awesomecua.github.io/resources/github-web-arena-x-webarena/) — Date not recorded
   Self-hosted web environments and tasks for evaluating autonomous web agents.
 - [WebCanvas](https://awesomecua.github.io/resources/github-imeanai-webcanvas/) — Date not recorded
@@ -1380,6 +1382,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/evaluation/re
   Offline prompting and evaluation code for Dynamic Planning of Thoughts on Android-in-the-Wild, including action extraction and comparison with reference actions.
 - [DroidCall generation and evaluation code](https://awesomecua.github.io/resources/github-ubiquitouslearning-droidcall/) — Date not recorded
   Data-generation, fine-tuning and evaluation utilities for teaching small language models to invoke Android intents through predefined functions.
+- [GUI Grounding Evaluation Harness](https://awesomecua.github.io/resources/github-patrickstarl-gui-grounding-eval/) — Date not recorded
+  ScreenSpot-Pro evaluation harness with explicit coordinate transforms, prompt and crop-based inference comparisons, and per-sample grounding accuracy and cost records.
 - [HUD](https://awesomecua.github.io/resources/github-hud-evals-hud-python/) — Date not recorded
   SDK for RL environments and evals spanning coding, browser, computer-use and robotics agents, whose environments expose SSH, MCP, CDP or VNC capabilities behind a minimal start-and-grade protocol.
 - [LearnAct](https://awesomecua.github.io/resources/github-lgy0404-learnact/) — Date not recorded
@@ -1390,6 +1394,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/evaluation/re
   AndroidEnv-based platform for building GUI agent benchmarks and training agents, where task definition files emit instructions, rewards and episode ends from screen text, view hierarchy or log events.
 - [MobileForge](https://awesomecua.github.io/resources/github-kwai-mobileforge/) — Date not recorded
   Android GUI-agent adaptation framework combining app exploration, generated curricula and rollout feedback with hint-conditioned step-level GRPO; the documented public training path targets Qwen3-VL-8B.
+- [Mobster engine](https://awesomecua.github.io/resources/github-radishsoftware-mobster/) — Date not recorded
+  iOS agent engine organized around an observe, decide, verify and act loop, using WebDriverAgent screen state and phone actions such as taps, typing, swipes and app switches.
 - [OpenMobile-2 code](https://awesomecua.github.io/resources/github-openmobile2-openmobile2-code/) — Date not recorded
   Evaluation adapters and training guidance for OpenMobile-2 across Android emulators and browser-rendered mobile simulation.
 - [RedTeamCUA](https://awesomecua.github.io/resources/github-osu-nlp-group-redteamcua/) — Date not recorded
@@ -1416,3 +1422,5 @@ Full source records: https://awesomecua.github.io/downloads/topics/evaluation/re
   Training, evaluation and integration tooling for dialogue-guided web agents, including Llama fine-tuning workflows and BrowserGym examples built around WebLINX.
 - [WebVLN research implementation](https://awesomecua.github.io/resources/github-webvln-webvln/) — Date not recorded
   Training and evaluation code for question-guided website navigation that combines visual observations with web-specific HTML information.
+- [WinDOM code](https://awesomecua.github.io/resources/github-chenghengli-windom/) — Date not recorded
+  GUI-grounding training and evaluation code with same-family distillation, GRPO recipes and point-in-box scoring, using a Windows-style web environment.

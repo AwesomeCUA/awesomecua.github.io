@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "catalog_sha256": "fd71133ba3ad1174d3c34ce5d4b6811076c14507f71ac884bc1aa23d6f357736",
+  "catalog_sha256": "2536c7d65ab8ed43bd117279dd23ec429bb619d76f6507426561c0a423baa3f6",
   "membership_policy": "Explicit reviewed topic tags only; curated core/adjacent resources. No title-based inference.",
   "count_policy": "Resources are not independent projects. Topic memberships overlap; do not sum topic totals.",
   "citation_policy": "Default retained-source edition; source-specific author/date precision and paper versions are preserved.",
-  "reviewed_resources": 1643,
-  "resources_with_topics": 1643,
+  "reviewed_resources": 1649,
+  "resources_with_topics": 1649,
   "reviewed_resources_without_topics": 0,
   "topics": [
     {
@@ -353,12 +353,12 @@
         "zh": "数据生成"
       },
       "counts": {
-        "total": 343,
+        "total": 344,
         "papers": 262,
         "benchmarks": 0,
         "datasets": 55,
         "models": 2,
-        "systems": 24
+        "systems": 25
       },
       "resource_ids": [
         "arxiv:1808.09132",
@@ -626,6 +626,7 @@
         "github:alibaba/ui-ins",
         "github:alibabaresearch/rots",
         "github:amazon-science/pae",
+        "github:anikasomaia/local-activity-recorder",
         "github:apga/go-browse",
         "github:bytedance-seed/agent-r",
         "github:bytedance/gui-rewalk",
@@ -712,9 +713,9 @@
       "exports": [
         {
           "url": "/downloads/topics/data-generation/records.jsonl",
-          "records": 343,
-          "bytes": 1091728,
-          "sha256": "5477933d02af1818d7e4fe4864f930af5420c3f2a14004b06ef39be3c595617b"
+          "records": 344,
+          "bytes": 1096133,
+          "sha256": "7f922607edf9443f6d7dc6622ce20ba5e13d9a1410d4f0184e9c205264cd6356"
         },
         {
           "url": "/downloads/topics/data-generation/citations.bib",
@@ -737,12 +738,12 @@
         "zh": "效率"
       },
       "counts": {
-        "total": 153,
+        "total": 155,
         "papers": 143,
-        "benchmarks": 1,
+        "benchmarks": 2,
         "datasets": 0,
         "models": 5,
-        "systems": 4
+        "systems": 5
       },
       "resource_ids": [
         "arxiv:2112.05692",
@@ -888,8 +889,10 @@
         "arxiv:2610.22280",
         "arxiv:2610.26469",
         "arxiv:2610.26660",
+        "github:charlypoly/web-context-bench-python",
         "github:digirl-agent/digiq",
         "github:distrl-lab/distrl-open",
+        "github:patrickstarl/gui-grounding-eval",
         "github:showlab/showui",
         "github:thudm/scale-cua",
         "github:vivo/dimo-gui",
@@ -906,9 +909,9 @@
       "exports": [
         {
           "url": "/downloads/topics/efficiency/records.jsonl",
-          "records": 153,
-          "bytes": 458812,
-          "sha256": "77146f28922d32c8c83aa5e1378b55d8917735612ef3c80e8f8c639eba6391a3"
+          "records": 155,
+          "bytes": 468816,
+          "sha256": "a8ba5a97d662fbddc9313b09c19bb58f65f9656e21671a6e19889ce2f841c345"
         },
         {
           "url": "/downloads/topics/efficiency/citations.bib",
@@ -931,12 +934,12 @@
         "zh": "评测"
       },
       "counts": {
-        "total": 699,
+        "total": 703,
         "papers": 576,
-        "benchmarks": 86,
+        "benchmarks": 87,
         "datasets": 9,
         "models": 1,
-        "systems": 27
+        "systems": 30
       },
       "resource_ids": [
         "arxiv:1602.02261",
@@ -1520,6 +1523,8 @@
         "github:bravegroup/sheetcopilot",
         "github:bz-lab/auitestagent",
         "github:camel-ai/crab",
+        "github:charlypoly/web-context-bench-python",
+        "github:chenghengli/windom",
         "github:chessbean1/gui-robust",
         "github:convergence-ai/webgames",
         "github:cvc2233/androtmem",
@@ -1571,8 +1576,10 @@
         "github:osu-nlp-group/online-mind2web",
         "github:osu-nlp-group/redteamcua",
         "github:osu-nlp-group/webguard",
+        "github:patrickstarl/gui-grounding-eval",
         "github:princeton-nlp/webshop",
         "github:purewhiter/mobilegym",
+        "github:radishsoftware/mobster",
         "github:saagent/mcpworld",
         "github:scaleapi/browser-art",
         "github:segev-shlomov/st-webagentbench",
@@ -1646,9 +1653,9 @@
       "exports": [
         {
           "url": "/downloads/topics/evaluation/records.jsonl",
-          "records": 699,
-          "bytes": 2229368,
-          "sha256": "9d5702f724af68081eb5714ab33a38b484eb29337892ecf4c6e9538f99bfff70"
+          "records": 703,
+          "bytes": 2248718,
+          "sha256": "d8a9d96815121a4dcdc5d2cb64400c6f500cfd5905c6fb5b9e9347d2661bbd5c"
         },
         {
           "url": "/downloads/topics/evaluation/citations.bib",
@@ -1671,12 +1678,12 @@
         "zh": "GUI 定位"
       },
       "counts": {
-        "total": 375,
+        "total": 378,
         "papers": 247,
-        "benchmarks": 9,
+        "benchmarks": 10,
         "datasets": 32,
         "models": 67,
-        "systems": 20
+        "systems": 22
       },
       "resource_ids": [
         "arxiv:1808.09132",
@@ -1926,6 +1933,8 @@
         "github:apple/ml-ferret",
         "github:ariaui/aria-ui",
         "github:bytedance/ui-tars",
+        "github:charlypoly/web-context-bench-python",
+        "github:chenghengli/windom",
         "github:ghadinehme/videocad",
         "github:google-research-datasets/uibert",
         "github:heimingx/tag",
@@ -1950,6 +1959,7 @@
         "github:osu-nlp-group/seeact",
         "github:osu-nlp-group/uground",
         "github:othersideai/self-operating-computer",
+        "github:patrickstarl/gui-grounding-eval",
         "github:prentisai/groundgui",
         "github:reidbarber/webmarker",
         "github:ritzz-ai/gui-r1",
@@ -2062,9 +2072,9 @@
       "exports": [
         {
           "url": "/downloads/topics/grounding/records.jsonl",
-          "records": 375,
-          "bytes": 1127749,
-          "sha256": "ba373e737e834cf56c7eb482cb8ab9757f64535d881b44ee63d8a7463973ae3c"
+          "records": 378,
+          "bytes": 1142445,
+          "sha256": "7cebd8354e01f079ec13c819a8c62734af4bb5f22bde8785fa62a3f0cf8261b4"
         },
         {
           "url": "/downloads/topics/grounding/citations.bib",
@@ -2132,12 +2142,12 @@
         "zh": "人机协作"
       },
       "counts": {
-        "total": 85,
+        "total": 86,
         "papers": 77,
         "benchmarks": 1,
         "datasets": 0,
         "models": 0,
-        "systems": 7
+        "systems": 8
       },
       "resource_ids": [
         "arxiv:1909.00031",
@@ -2216,6 +2226,7 @@
         "github:alokia/cola-demo",
         "github:microsoft/magentic-ui",
         "github:nanobrowser/nanobrowser",
+        "github:solplum/yunkai",
         "github:tongyi-mai/mobileworld",
         "github:wuzheng02/os-kairos",
         "github:wuzheng02/verios",
@@ -2233,9 +2244,9 @@
       "exports": [
         {
           "url": "/downloads/topics/human-in-the-loop/records.jsonl",
-          "records": 85,
-          "bytes": 268442,
-          "sha256": "5d3a1f358f68b1b8a2293d5cdf1c79e0e1e2b27023aeb88c0ff557d2c6b3d2db"
+          "records": 86,
+          "bytes": 273992,
+          "sha256": "74a519a92c14deb3f086dbc4c0bc3996764efb14473fbf8f8b43ca66db1a8c22"
         },
         {
           "url": "/downloads/topics/human-in-the-loop/citations.bib",
@@ -2258,12 +2269,12 @@
         "zh": "模仿学习"
       },
       "counts": {
-        "total": 81,
+        "total": 82,
         "papers": 50,
         "benchmarks": 1,
         "datasets": 14,
         "models": 5,
-        "systems": 11
+        "systems": 12
       },
       "resource_ids": [
         "arxiv:1909.00031",
@@ -2317,6 +2328,7 @@
         "arxiv:2610.26503",
         "arxiv:2610.26828",
         "github:apga/go-browse",
+        "github:chenghengli/windom",
         "github:euphoria16/ui-genie",
         "github:gair-nlp/pc-agent-e",
         "github:ghadinehme/videocad",
@@ -2355,9 +2367,9 @@
       "exports": [
         {
           "url": "/downloads/topics/imitation-learning/records.jsonl",
-          "records": 81,
-          "bytes": 273456,
-          "sha256": "23da1fe0c6387cb160037567844d0dc907e50a426cad323c3a194b08a94fd731"
+          "records": 82,
+          "bytes": 278148,
+          "sha256": "0868bae617307db76f0f5f5ef72c856ee238253cab55729556041253a1e0a485"
         },
         {
           "url": "/downloads/topics/imitation-learning/citations.bib",
@@ -2891,12 +2903,12 @@
         "zh": "手机操作"
       },
       "counts": {
-        "total": 277,
+        "total": 279,
         "papers": 205,
         "benchmarks": 14,
         "datasets": 13,
         "models": 15,
-        "systems": 30
+        "systems": 32
       },
       "resource_ids": [
         "arxiv:1909.00031",
@@ -3133,7 +3145,9 @@
         "github:openmobile2/mobilegym-plusplus",
         "github:openmobile2/openmobile2-code",
         "github:purewhiter/mobilegym",
+        "github:radishsoftware/mobster",
         "github:runamu/monday",
+        "github:solplum/yunkai",
         "github:stepfun-ai/gelab-zero",
         "github:tencentqqgylab/appagent",
         "github:thudm/android-lab",
@@ -3184,9 +3198,9 @@
       "exports": [
         {
           "url": "/downloads/topics/mobile-navigation/records.jsonl",
-          "records": 277,
-          "bytes": 908096,
-          "sha256": "2baf9a4f10a063002778f1e0b75f45ac474df7598e358be346ac677d9f89f663"
+          "records": 279,
+          "bytes": 918300,
+          "sha256": "8c5bf84fbce7450e29c833b5b0489c1a018f561abdc7b1bd93af0174e4adb6e1"
         },
         {
           "url": "/downloads/topics/mobile-navigation/citations.bib",
@@ -3609,12 +3623,12 @@
         "zh": "录制"
       },
       "counts": {
-        "total": 23,
+        "total": 24,
         "papers": 15,
         "benchmarks": 0,
         "datasets": 1,
         "models": 0,
-        "systems": 7
+        "systems": 8
       },
       "resource_ids": [
         "arxiv:2412.17589",
@@ -3628,6 +3642,7 @@
         "arxiv:2608.20319",
         "arxiv:2609.02149",
         "arxiv:2610.12984",
+        "github:anikasomaia/local-activity-recorder",
         "github:browser-use/web-ui",
         "github:browseros-ai/browseros",
         "github:china-qijizhifeng/work2skill",
@@ -3648,9 +3663,9 @@
       "exports": [
         {
           "url": "/downloads/topics/recording/records.jsonl",
-          "records": 23,
-          "bytes": 71056,
-          "sha256": "5f33501cedf981e6bd9c2f1b892c3759680786acc24ccdac96ab91157f8aa375"
+          "records": 24,
+          "bytes": 75461,
+          "sha256": "9cb1801495c64118cb923c376dec1082d648af4701b253661824b801032cb592"
         },
         {
           "url": "/downloads/topics/recording/citations.bib",
@@ -3673,12 +3688,12 @@
         "zh": "强化学习"
       },
       "counts": {
-        "total": 238,
+        "total": 239,
         "papers": 187,
         "benchmarks": 2,
         "datasets": 5,
         "models": 23,
-        "systems": 21
+        "systems": 22
       },
       "resource_ids": [
         "arxiv:1802.08802",
@@ -3867,6 +3882,7 @@
         "arxiv:2610.26469",
         "arxiv:2610.26828",
         "github:amazon-science/pae",
+        "github:chenghengli/windom",
         "github:digirl-agent/digiq",
         "github:digirl-agent/digirl",
         "github:distrl-lab/distrl-open",
@@ -3927,9 +3943,9 @@
       "exports": [
         {
           "url": "/downloads/topics/reinforcement-learning/records.jsonl",
-          "records": 238,
-          "bytes": 723319,
-          "sha256": "3eae75bd221bc38c1522442adeb25e0e4c5721df363f1185567f8994053ccfe6"
+          "records": 239,
+          "bytes": 728011,
+          "sha256": "c788d84bb32c046649285d8043f2611b63d5c22955af901959df90dc8b144c96"
         },
         {
           "url": "/downloads/topics/reinforcement-learning/citations.bib",
@@ -4683,12 +4699,12 @@
         "zh": "界面理解"
       },
       "counts": {
-        "total": 208,
+        "total": 210,
         "papers": 163,
-        "benchmarks": 5,
+        "benchmarks": 6,
         "datasets": 19,
         "models": 10,
-        "systems": 11
+        "systems": 12
       },
       "resource_ids": [
         "arxiv:2008.05132",
@@ -4855,6 +4871,7 @@
         "github:akimotoayako/visiontasker",
         "github:apple/ml-ferret",
         "github:caap-agent/caap-agent",
+        "github:charlypoly/web-context-bench-python",
         "github:cursortouch/windows-mcp",
         "github:dongping-chen/gui-world",
         "github:droidrun/mobilerun-portal",
@@ -4869,6 +4886,7 @@
         "github:reidbarber/webmarker",
         "github:reworkd/tarsier",
         "github:sikuli/sikuli",
+        "github:solplum/yunkai",
         "github:thudm/cogagent",
         "github:ucsb-ai/screen-point-and-read",
         "github:visualwebbench/visualwebbench",
@@ -4907,9 +4925,9 @@
       "exports": [
         {
           "url": "/downloads/topics/screen-understanding/records.jsonl",
-          "records": 208,
-          "bytes": 671011,
-          "sha256": "c4b9ca68a05bc946525aa4586b8827d03d251632a9d8c93baa87555a55c32449"
+          "records": 210,
+          "bytes": 683085,
+          "sha256": "de053b695e3b78d5eadbd39ab0b2e7b844c61faa7427650211d7ff60f3a3baa9"
         },
         {
           "url": "/downloads/topics/screen-understanding/citations.bib",

@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2604-19299/record.json
 
+## Recorded reviewer hold
+
+The abstract compares base models, tool\-equipped agents and multi\-agent systems without identifying interface\-interaction tasks\. Retain as metadata pending a task\-level scope check\.
+
+- Review ledger: https://awesomecua.github.io/downloads/coverage.json
+
 ## Authors
 
 Xinlin Wang, Mats Brorsson

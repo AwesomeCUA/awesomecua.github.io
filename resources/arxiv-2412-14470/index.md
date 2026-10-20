@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2412-14470/record.json
 
+## Recorded reviewer hold
+
+Reviewer hold after a separate follow\-up review of the prior adjacent approval: the retained abstract and full\-text Section 3\.2\.1 and Appendix C describe JSON\-schema/Python simulated tool environments and content\-safety cases, without a specific GUI or browser execution basis\. Preserve the bibliography as metadata\-only pending a supported adjacent\-scope rationale; this is not a scope exclusion\.
+
+- Review ledger: https://awesomecua.github.io/downloads/coverage.json
+
 ## Authors
 
 Zhexin Zhang, Shiyao Cui, Yida Lu, Jingzhuo Zhou, Junxiao Yang, Hongning Wang, Minlie Huang

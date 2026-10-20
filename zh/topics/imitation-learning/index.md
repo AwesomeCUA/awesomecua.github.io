@@ -180,3 +180,5 @@ Full source records: https://awesomecua.github.io/downloads/topics/imitation-lea
   VideoCADFormer training, action-log preprocessing and evaluation code for learning CAD interface action sequences from screen recordings of browser-based Onshape.
 - [WebLlama](https://awesomecua.github.io/resources/github-mcgill-nlp-webllama/) — Date not recorded
   Training, evaluation and integration tooling for dialogue-guided web agents, including Llama fine-tuning workflows and BrowserGym examples built around WebLINX.
+- [WinDOM code](https://awesomecua.github.io/resources/github-chenghengli-windom/) — Date not recorded
+  GUI-grounding training and evaluation code with same-family distillation, GRPO recipes and point-in-box scoring, using a Windows-style web environment.

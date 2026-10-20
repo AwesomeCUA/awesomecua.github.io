@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2409-00088/record.json
 
+## Recorded reviewer hold
+
+This survey covers on\-device language\-model architectures, compression and deployment\. Further review is needed to establish substantive computer\-interface\-agent coverage\.
+
+- Review ledger: https://awesomecua.github.io/downloads/coverage.json
+
 ## Authors
 
 Jiajun Xu, Zhiyuan Li, Wei Chen, Qun Wang, Xin Gao, Qi Cai, Ziyuan Ling

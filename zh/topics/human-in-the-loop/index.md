@@ -182,3 +182,5 @@ Full source records: https://awesomecua.github.io/downloads/topics/human-in-the-
   Android GUI-agent research implementation that uses confidence-guided interaction to choose between autonomous actions and human assistance.
 - [VeriOS](https://awesomecua.github.io/resources/github-wuzheng02-verios/) — Date not recorded
   Research code for proactive human–GUI-agent verification, including offline interaction-loop and dual-agent evaluation scripts plus LLaMA-Factory fine-tuning configurations.
+- [Yunkai](https://awesomecua.github.io/resources/github-solplum-yunkai/) — Date not recorded
+  Android phone assistant combining model-driven tool use with accessibility-tree reading, screenshots, and tap, swipe and text-entry primitives. Its documented interaction flow presents operation plans for user confirmation.

@@ -343,6 +343,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/screen-unders
   Visually grounded web tasks extending the WebArena evaluation setting.
 - [VisualWebBench](https://awesomecua.github.io/resources/github-visualwebbench-visualwebbench/) — Date not recorded
   Evaluation of multimodal models on visual web understanding tasks.
+- [Web Context Bench (Python)](https://awesomecua.github.io/resources/github-charlypoly-web-context-bench-python/) — Date not recorded
+  Local-page benchmark comparing six browser representations on token use, factual reading and target-element selection, with deterministic answer scoring.
 - [WONDERBREAD](https://awesomecua.github.io/resources/github-hazyresearch-wonderbread/) — Date not recorded
   An offline benchmark of workflow documentation, quality assessment and knowledge transfer using human web-navigation demonstrations, action traces and written procedures.
 
@@ -434,3 +436,5 @@ Full source records: https://awesomecua.github.io/downloads/topics/screen-unders
   A browser library that labels interactive elements and their boxes for visual prompting, preserving element mappings that automation code can use to execute selected actions.
 - [Windows-MCP](https://awesomecua.github.io/resources/github-cursortouch-windows-mcp/) — Date not recorded
   A Windows MCP bridge exposing application, window, keyboard and mouse operations plus native UI-state inspection for agents.
+- [Yunkai](https://awesomecua.github.io/resources/github-solplum-yunkai/) — Date not recorded
+  Android phone assistant combining model-driven tool use with accessibility-tree reading, screenshots, and tap, swipe and text-entry primitives. Its documented interaction flow presents operation plans for user confirmation.

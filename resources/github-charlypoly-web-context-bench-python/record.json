@@ -1,0 +1,173 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "benchmark_protocol": {
+      "actions": [
+        "READ text answer",
+        "ACT selector, text/label, accessible role/name, DOM index, Stagehand reference or screenshot point, according to the representation"
+      ],
+      "counts": [],
+      "evaluation": "READ uses normalized exact match against an answer or allowed alias. ACT resolves predicted identifiers to ground-truth elements, or checks screenshot points inside the target box. Representation-token accounting subtracts fixed-prompt tokens; screenshots use billed input usage minus the fixed prompt. These are answer/target correctness and token metrics, not completed-task success.",
+      "evidence_urls": [
+        "https://raw.githubusercontent.com/charlypoly/web-context-bench-python/58d604bfaaac60ad42f02013f53f9fb301c1dcda/README.md",
+        "https://raw.githubusercontent.com/charlypoly/web-context-bench-python/58d604bfaaac60ad42f02013f53f9fb301c1dcda/METHODOLOGY.md",
+        "https://raw.githubusercontent.com/charlypoly/web-context-bench-python/58d604bfaaac60ad42f02013f53f9fb301c1dcda/src/wpbench/scoring.py"
+      ],
+      "focus": [
+        "Browser-representation token use",
+        "Factual READ accuracy",
+        "ACT target-element selection"
+      ],
+      "notes": "Fixed local-page observations; the reported run uses claude-sonnet-5 and a shared prompt, without scrolling or an agent loop. Browser Use disables its viewport cutoff and sends untruncated text; Stagehand uses a separate matched browser load. Short-string representability labels are approximate. Offline does not mean API-free. Third-party snapshot redistribution remains unresolved; results were not reproduced.",
+      "observations": [
+        "Top-document HTML",
+        "Markdown converted from HTML",
+        "Playwright accessibility snapshot",
+        "Browser Use indexed DOM",
+        "Stagehand hybrid snapshot",
+        "Viewport screenshot"
+      ],
+      "setting": "offline"
+    },
+    "license_review": {
+      "code": {
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/charlypoly/web-context-bench-python/58d604bfaaac60ad42f02013f53f9fb301c1dcda/LICENSE"
+        ],
+        "reason": "The inspected root LICENSE contains complete MIT terms for repository software. The methodology explicitly leaves redistribution permission for captured third-party practice-site pages unresolved; code MIT is not a blanket snapshot/data license."
+      }
+    }
+  },
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T11:51:30.874397Z",
+      "role": "primary",
+      "sha256": "14775f6e3daba69d4684380fd33bf717bdc3093b65be796eb863bbd27d0c0bab",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "topics",
+        "scope",
+        "notes",
+        "environments",
+        "details.benchmark_protocol.focus",
+        "details.benchmark_protocol.setting",
+        "details.benchmark_protocol.observations",
+        "details.benchmark_protocol.actions",
+        "details.benchmark_protocol.notes"
+      ],
+      "url": "https://raw.githubusercontent.com/charlypoly/web-context-bench-python/58d604bfaaac60ad42f02013f53f9fb301c1dcda/README.md"
+    },
+    {
+      "method": "github_repository_identity",
+      "retrieved_at": "2026-10-20T11:05:35.063004+00:00",
+      "role": "primary",
+      "sha256": "3e22e1cbfa47bcf98f6f70a5f6f162a31a509a9f2091a84679bb5231977e29d9",
+      "supports": [
+        "id",
+        "url"
+      ],
+      "url": "https://api.github.com/search/repositories?q=topic%3Aweb-agents+is%3Apublic+fork%3Afalse+created%3A2008-01-01..2026-10-20&per_page=100&page=1&sort=updated&order=asc"
+    },
+    {
+      "method": "github_repository_identity",
+      "retrieved_at": "2026-10-20T11:50:54.545491Z",
+      "role": "primary",
+      "sha256": "fd30e94e78e7167a49579922259fde1c7d7f8259e9f00afba15faf3a71966a94",
+      "supports": [
+        "id",
+        "url",
+        "notes"
+      ],
+      "url": "https://github.com/charlypoly/web-context-bench-python"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T11:52:30.131541Z",
+      "role": "primary",
+      "sha256": "1c3c0cbf9f9d9f7cd9e7a2f027ecb217fd5c16fa157916281a15bb7f403f6f1c",
+      "supports": [
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes",
+        "licenses.data",
+        "details.benchmark_protocol.focus",
+        "details.benchmark_protocol.setting",
+        "details.benchmark_protocol.observations",
+        "details.benchmark_protocol.actions",
+        "details.benchmark_protocol.evaluation",
+        "details.benchmark_protocol.notes"
+      ],
+      "url": "https://raw.githubusercontent.com/charlypoly/web-context-bench-python/58d604bfaaac60ad42f02013f53f9fb301c1dcda/METHODOLOGY.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T11:53:28.567861Z",
+      "role": "primary",
+      "sha256": "8cada5d71b5a61e7aff2e1ac2b951c266eb2db7c082c06c5a13aa127d42b3fc5",
+      "supports": [
+        "summary",
+        "topics",
+        "scope",
+        "notes",
+        "details.benchmark_protocol.evaluation",
+        "details.benchmark_protocol.notes"
+      ],
+      "url": "https://raw.githubusercontent.com/charlypoly/web-context-bench-python/58d604bfaaac60ad42f02013f53f9fb301c1dcda/src/wpbench/scoring.py"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T11:51:41.499735Z",
+      "role": "primary",
+      "sha256": "9b64ef672f5091b6074d02502f6d3c161d94308a3d9d142d7437dcddf611bbc4",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/charlypoly/web-context-bench-python/58d604bfaaac60ad42f02013f53f9fb301c1dcda/LICENSE"
+    }
+  ],
+  "id": "github:charlypoly/web-context-bench-python",
+  "identifiers": {},
+  "kind": "benchmark",
+  "last_verified_at": "2026-10-20T11:51:30.874397Z",
+  "licenses": {
+    "code": {
+      "basis": "Complete MIT license text in the repository root at the inspected commit; repository code only.",
+      "declared": "MIT",
+      "retrieved_at": "2026-10-20T11:51:41.499735Z",
+      "url": "https://raw.githubusercontent.com/charlypoly/web-context-bench-python/58d604bfaaac60ad42f02013f53f9fb301c1dcda/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/charlypoly/web-context-bench-python"
+    }
+  ],
+  "name": "Web Context Bench (Python)",
+  "notes": "This is a single-snapshot representation evaluation on local fixtures and captured pages, not a live multi-step agent benchmark. Its shared-prompt, one-model setup differs from complete Browser Use or Stagehand agents. The methodology notes unresolved redistribution licensing for third-party practice-site snapshots; MIT is recorded for repository code only. Selected scoring code was read, but no models, browser tasks or claimed results were run or reproduced.",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Local-page benchmark comparing six browser representations on token use, factual reading and target-element selection, with deterministic answer scoring.",
+  "topics": [
+    "evaluation",
+    "grounding",
+    "efficiency",
+    "screen-understanding"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/charlypoly/web-context-bench-python"
+}

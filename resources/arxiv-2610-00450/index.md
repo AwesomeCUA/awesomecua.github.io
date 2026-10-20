@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2610-00450/record.json
 
+## Recorded reviewer hold
+
+Scope hold after v1 Sections 3\.3, 4\.1 and Appendices A\.3\-A\.4: the OpenClaw service/workspace evaluation does not establish GUI/browser interaction\. Need concrete observation/action interfaces and execution\-trace evidence to decide core or adjacent relevance\. Retain metadata; this is not an abstract\-only exclusion\.
+
+- Review ledger: https://awesomecua.github.io/downloads/coverage.json
+
 ## Authors
 
 Haokai Ma, Chieh Lin, Yupeng Qiu, Ee-Chien Chang

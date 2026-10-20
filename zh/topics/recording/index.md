@@ -44,6 +44,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/recording/rec
 
 ## 工程与产业
 
+- [Activity Recorder](https://awesomecua.github.io/resources/github-anikasomaia-local-activity-recorder/) — Date not recorded
+  Windows tray utility that records primary-display screenshots, keyboard key codes and mouse events as local JPEG and JSON files for training-data collection.
 - [AgentStudio](https://awesomecua.github.io/resources/github-skyworkai-agent-studio/) — Date not recorded
   Toolkit and Ubuntu-based environment for building and evaluating generalist computer-use agents through GUI and API interaction.
 - [Browser Use WebUI](https://awesomecua.github.io/resources/github-browser-use-web-ui/) — Date not recorded

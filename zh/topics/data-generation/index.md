@@ -653,6 +653,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/data-generati
 
 ## 工程与产业
 
+- [Activity Recorder](https://awesomecua.github.io/resources/github-anikasomaia-local-activity-recorder/) — Date not recorded
+  Windows tray utility that records primary-display screenshots, keyboard key codes and mouse events as local JPEG and JSON files for training-data collection.
 - [Agent-R](https://awesomecua.github.io/resources/github-bytedance-seed-agent-r/) — Date not recorded
   Trajectory collection and revision utilities that use tree search and model-guided critique to train agents to recover from mistakes, including WebShop tasks.
 - [AgentSynth task-generation pipeline](https://awesomecua.github.io/resources/github-sunblaze-ucb-agentsynth/) — Date not recorded

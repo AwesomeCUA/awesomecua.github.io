@@ -1,5 +1,5 @@
 {
-  "relation_count": 411,
+  "relation_count": 412,
   "semantics": "Reviewed semantic links only. Documentation does not establish training or evaluation dependency.",
   "relations": [
     {
@@ -264,6 +264,14 @@
       "source_kind": "benchmark",
       "evidence_url": "https://raw.githubusercontent.com/camel-ai/crab/HEAD/README.md",
       "target_id": "arxiv:2407.01511",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:chenghengli/windom",
+      "source_name": "WinDOM code",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/ChenghengLi/WinDOM/ab52acffe2003fd0c98943a542b4114ef929de0d/README.md",
+      "target_id": "arxiv:2606.25964",
       "type": "documented_by"
     },
     {

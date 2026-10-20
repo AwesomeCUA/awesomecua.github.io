@@ -1,6 +1,6 @@
 # AwesomeCUA curated resource annotations
 
-Evidence snapshot: 2026-10-20T10:53:44.035673+00:00. These records were reviewed with AI assistance; experiments are not independently reproduced.
+Evidence snapshot: 2026-10-20T12:05:06.711971+00:00. These records were reviewed with AI assistance; experiments are not independently reproduced.
 
 Related reading: [English research survey](https://awesomecua.github.io/survey/). This working manuscript uses its own frozen inventory; its text is separate from the catalog annotations below.
 
@@ -62804,6 +62804,47 @@ README states that task instructions are released but annotated action sequences
 
 ---
 
+# Activity Recorder
+
+Windows tray utility that records primary-display screenshots, keyboard key codes and mouse events as local JPEG and JSON files for training-data collection.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-anikasomaia-local-activity-recorder/
+- Original source: https://github.com/anikasomaia/local-activity-recorder
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: desktop, windows
+- Topics: recording, data-generation
+- Evidence checked: 2026-10-20T11:57:15.716415+00:00
+- ID: github:anikasomaia/local-activity-recorder
+
+## Limitations
+
+Recording is started and stopped from the tray; screenshots use a five-second timer. The manual Upload Data action uses a built-in third-party demonstration endpoint unless changed in code, sending recorded files as base64 JSON. Successful uploads move files into uploaded subfolders rather than delete them; no automatic expiry policy was found in the inspected capture/upload path. Sensitive-application filters are listed as future work. The README's .NET version requirements are inconsistent, and long-session behavior was not established. No license declaration was found in the inspected files or complete tree's license-file names, so code permission remains unknown. No activity was captured and no uploader or executable was run.
+
+- Record JSON: https://awesomecua.github.io/resources/github-anikasomaia-local-activity-recorder/record.json
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: No license declaration was found in the inspected README/C# files, and the complete pinned tree has no LICENSE, LICENCE or COPYING-named file. Public source access does not establish reuse permission.
+  Sources: https://api.github.com/repos/anikasomaia/local-activity-recorder/git/trees/f7ec5b6ecf0ba1bfe6362d7f2bfb0f1af5ac6bc7?recursive=1
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/anikasomaia/local-activity-recorder/967cea087bf6496b3b82743fb96770fa29f8e203/README.md (retrieved 2026-10-20T11:57:15.716415+00:00; SHA-256 440e0e43026ba7a20eaca17507cec33bd697d8b1eed6fb056be34136b3f4f76f)
+- https://api.github.com/search/repositories?q=topic%3Acomputer-use-agents+is%3Apublic+fork%3Afalse+created%3A2008-01-01..2026-10-20&per_page=100&page=1&sort=updated&order=asc (retrieved 2026-10-20T11:04:41.685729+00:00; SHA-256 90c30399c8aa5031f82164978bc12eae3bebba172758d20877a87fec53566c12)
+- https://api.github.com/repos/anikasomaia/local-activity-recorder/commits/master (retrieved 2026-10-20T11:54:07.061516+00:00; SHA-256 f5b501fa132163d749c6695d81c76d45fdff2888ea890e31cbaa9bc4172fed3b)
+- https://api.github.com/repos/anikasomaia/local-activity-recorder/git/trees/f7ec5b6ecf0ba1bfe6362d7f2bfb0f1af5ac6bc7?recursive=1 (retrieved 2026-10-20T11:56:33.833893+00:00; SHA-256 ee9e5899d1f150982eb05ca1f8794406cef0ffc80eb8223811b504ff972370c1)
+- https://raw.githubusercontent.com/anikasomaia/local-activity-recorder/967cea087bf6496b3b82743fb96770fa29f8e203/Program.cs (retrieved 2026-10-20T12:05:00.168119+00:00; SHA-256 ce3022b4016d140eac554e392dbe42f54ffb3e8098b03e2bf72e92ff49c5d084)
+- https://raw.githubusercontent.com/anikasomaia/local-activity-recorder/967cea087bf6496b3b82743fb96770fa29f8e203/DataUploader.cs (retrieved 2026-10-20T12:05:03.421222+00:00; SHA-256 e70e2e68b5dd586e5ad0fb0b12c8b937b4614bd5237bac61d03d22144c4751f4)
+
+---
+
 # GUIHalluBench
 
 Measures hallucination in UI-element parsing by matching the boxes and descriptions a model lists for 1,000 English and 1,000 Chinese screenshots against human annotations.
@@ -63543,6 +63584,103 @@ CRAB is also an extensible framework. The 120-task count belongs to Benchmark-v0
 
 - https://raw.githubusercontent.com/camel-ai/crab/HEAD/README.md (retrieved 2026-10-16T06:35:58Z; SHA-256 7b894c5474ba78294427cfd4ef0eea8cb22d76dfa0c2e8c7f01e31ad927064e9)
 - https://export.arxiv.org/api/query?id_list=2406.12814%2C2406.13719%2C2406.14056%2C2406.14250%2C2406.14314%2C2406.18082%2C2406.19263%2C2407.00993%2C2407.01476%2C2407.01489%2C2407.01511%2C2407.01558%2C2407.03037%2C2407.03913%2C2407.04346%2C2407.05291%2C2407.07061%2C2407.08850%2C2407.09018%2C2407.09295%2C2407.10956%2C2407.13032%2C2407.13063%2C2407.15673%2C2407.15711%2C2407.16741%2C2407.17490%2C2407.18901%2C2407.19056%2C2407.20183%2C2408.00203%2C2408.02544%2C2408.06327%2C2408.07199%2C2408.11824%2C2408.15978%2C2409.02453%2C2409.04566%2C2409.07429%2C2409.08264%2C2409.09354%2C2409.10741%2C2409.11295%2C2409.13711%2C2409.14337%2C2409.14818%2C2409.15441%2C2409.15637%2C2409.17140%2C2409.20566&max_results=50 (retrieved 2026-10-16T06:31:32Z; SHA-256 b9a83994d8ac36ccdb606a5219511f8bb35ad3948ade4f9f3e28d386221aedfb)
+
+---
+
+# Web Context Bench (Python)
+
+Local-page benchmark comparing six browser representations on token use, factual reading and target-element selection, with deterministic answer scoring.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-charlypoly-web-context-bench-python/
+- Original source: https://github.com/charlypoly/web-context-bench-python
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, grounding, efficiency, screen-understanding
+- Evidence checked: 2026-10-20T11:51:30.874397Z
+- ID: github:charlypoly/web-context-bench-python
+
+## Limitations
+
+This is a single-snapshot representation evaluation on local fixtures and captured pages, not a live multi-step agent benchmark. Its shared-prompt, one-model setup differs from complete Browser Use or Stagehand agents. The methodology notes unresolved redistribution licensing for third-party practice-site snapshots; MIT is recorded for repository code only. Selected scoring code was read, but no models, browser tasks or claimed results were run or reproduced.
+
+- Record JSON: https://awesomecua.github.io/resources/github-charlypoly-web-context-bench-python/record.json
+
+## Structured profile
+
+- actions: READ text answer, ACT selector, text/label, accessible role/name, DOM index, Stagehand reference or screenshot point, according to the representation
+- evaluation: READ uses normalized exact match against an answer or allowed alias. ACT resolves predicted identifiers to ground-truth elements, or checks screenshot points inside the target box. Representation-token accounting subtracts fixed-prompt tokens; screenshots use billed input usage minus the fixed prompt. These are answer/target correctness and token metrics, not completed-task success.
+- focus: Browser-representation token use, Factual READ accuracy, ACT target-element selection
+- observations: Top-document HTML, Markdown converted from HTML, Playwright accessibility snapshot, Browser Use indexed DOM, Stagehand hybrid snapshot, Viewport screenshot
+- setting: offline
+
+### Count observations
+
+No count recorded.
+
+Fixed local-page observations; the reported run uses claude-sonnet-5 and a shared prompt, without scrolling or an agent loop. Browser Use disables its viewport cutoff and sends untruncated text; Stagehand uses a separate matched browser load. Short-string representability labels are approximate. Offline does not mean API-free. Third-party snapshot redistribution remains unresolved; results were not reproduced.
+
+## License declarations
+
+- code: MIT — https://raw.githubusercontent.com/charlypoly/web-context-bench-python/58d604bfaaac60ad42f02013f53f9fb301c1dcda/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: The inspected root LICENSE contains complete MIT terms for repository software. The methodology explicitly leaves redistribution permission for captured third-party practice-site pages unresolved; code MIT is not a blanket snapshot/data license.
+  Sources: https://raw.githubusercontent.com/charlypoly/web-context-bench-python/58d604bfaaac60ad42f02013f53f9fb301c1dcda/LICENSE
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/charlypoly/web-context-bench-python/58d604bfaaac60ad42f02013f53f9fb301c1dcda/README.md (retrieved 2026-10-20T11:51:30.874397Z; SHA-256 14775f6e3daba69d4684380fd33bf717bdc3093b65be796eb863bbd27d0c0bab)
+- https://api.github.com/search/repositories?q=topic%3Aweb-agents+is%3Apublic+fork%3Afalse+created%3A2008-01-01..2026-10-20&per_page=100&page=1&sort=updated&order=asc (retrieved 2026-10-20T11:05:35.063004+00:00; SHA-256 3e22e1cbfa47bcf98f6f70a5f6f162a31a509a9f2091a84679bb5231977e29d9)
+- https://github.com/charlypoly/web-context-bench-python (retrieved 2026-10-20T11:50:54.545491Z; SHA-256 fd30e94e78e7167a49579922259fde1c7d7f8259e9f00afba15faf3a71966a94)
+- https://raw.githubusercontent.com/charlypoly/web-context-bench-python/58d604bfaaac60ad42f02013f53f9fb301c1dcda/METHODOLOGY.md (retrieved 2026-10-20T11:52:30.131541Z; SHA-256 1c3c0cbf9f9d9f7cd9e7a2f027ecb217fd5c16fa157916281a15bb7f403f6f1c)
+- https://raw.githubusercontent.com/charlypoly/web-context-bench-python/58d604bfaaac60ad42f02013f53f9fb301c1dcda/src/wpbench/scoring.py (retrieved 2026-10-20T11:53:28.567861Z; SHA-256 8cada5d71b5a61e7aff2e1ac2b951c266eb2db7c082c06c5a13aa127d42b3fc5)
+- https://raw.githubusercontent.com/charlypoly/web-context-bench-python/58d604bfaaac60ad42f02013f53f9fb301c1dcda/LICENSE (retrieved 2026-10-20T11:51:41.499735Z; SHA-256 9b64ef672f5091b6074d02502f6d3c161d94308a3d9d142d7437dcddf611bbc4)
+
+---
+
+# WinDOM code
+
+GUI-grounding training and evaluation code with same-family distillation, GRPO recipes and point-in-box scoring, using a Windows-style web environment.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-chenghengli-windom/
+- Original source: https://github.com/ChenghengLi/WinDOM
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: grounding, imitation-learning, reinforcement-learning, evaluation
+- Evidence checked: 2026-10-20T11:51:34.292633Z
+- ID: github:chenghengli/windom
+
+## Limitations
+
+The Windows-style environment is win11React in Playwright, not native Windows control. The repository documents its predecessor trajectory pipeline but explicitly omits the final corpus harvester. The inspected ScreenSpot evaluator defaults to a privileged ground-truth-center demonstration; --no-demo and --official-prompt select other modes, so evaluation results require their prompt and coordinate settings. Linked datasets, weights and reported scores were not independently verified; MIT applies to inspected repository code.
+
+- Record JSON: https://awesomecua.github.io/resources/github-chenghengli-windom/record.json
+
+## License declarations
+
+- code: MIT — https://raw.githubusercontent.com/ChenghengLi/WinDOM/ab52acffe2003fd0c98943a542b4114ef929de0d/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: The inspected root LICENSE is complete MIT text for repository code. The local data README says same as parent repository, but the linked Hub dataset/model cards and artifacts were not inspected; their licenses are not inferred.
+  Sources: https://raw.githubusercontent.com/ChenghengLi/WinDOM/ab52acffe2003fd0c98943a542b4114ef929de0d/LICENSE
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/ChenghengLi/WinDOM/ab52acffe2003fd0c98943a542b4114ef929de0d/README.md (retrieved 2026-10-20T11:51:34.292633Z; SHA-256 7cda5207d8882bc8dedaefb93d2ccf54b310354917283b8f4890fffdc5764958)
+- https://api.github.com/search/repositories?q=topic%3Agui-grounding+is%3Apublic+fork%3Afalse+created%3A2008-01-01..2026-10-20&per_page=100&page=1&sort=updated&order=asc (retrieved 2026-10-20T11:04:53.470789+00:00; SHA-256 3d76d934e98641746085772b98ee17059749f980a616435498a7ad483bd4cec1)
+- https://github.com/ChenghengLi/WinDOM (retrieved 2026-10-20T11:50:58.795155Z; SHA-256 08b89c5e6143afa4c0cdde95f8ec016d9033ee004f7631fadd4457144c2b87c9)
+- https://raw.githubusercontent.com/ChenghengLi/WinDOM/ab52acffe2003fd0c98943a542b4114ef929de0d/data/README.md (retrieved 2026-10-20T11:52:41.278660Z; SHA-256 09488140d35408cc11bb9c12b1bb435b21814cf6525937a8309475c9326c4004)
+- https://raw.githubusercontent.com/ChenghengLi/WinDOM/ab52acffe2003fd0c98943a542b4114ef929de0d/src/windom/training/sfd_4b.py (retrieved 2026-10-20T11:52:45.091369Z; SHA-256 0ee33b1e416ea4c5d8834688e6f42fbd15ef493f1b82398d3bb985838cbdffb9)
+- https://raw.githubusercontent.com/ChenghengLi/WinDOM/ab52acffe2003fd0c98943a542b4114ef929de0d/src/windom/evaluation/screenspot.py (retrieved 2026-10-20T11:52:48.511963Z; SHA-256 c481b2f91f2d82bf801632da6ab6cce01bc42c780104d743156c272942d2cef3)
+- https://raw.githubusercontent.com/ChenghengLi/WinDOM/ab52acffe2003fd0c98943a542b4114ef929de0d/LICENSE (retrieved 2026-10-20T11:51:44.940106Z; SHA-256 d5a37ff86df9b231440ab1bcf3ecf77304a0a53e772182cdb622a3ab5d043447)
 
 ---
 
@@ -68771,6 +68909,44 @@ The repository is maintained by the PathOnAI.org research community; its README 
 
 ---
 
+# GUI Grounding Evaluation Harness
+
+ScreenSpot-Pro evaluation harness with explicit coordinate transforms, prompt and crop-based inference comparisons, and per-sample grounding accuracy and cost records.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-patrickstarl-gui-grounding-eval/
+- Original source: https://github.com/PatrickStarL/gui-grounding-eval
+- Kind: tool
+- Review: curated
+- Scope: core
+- Environments: unspecified
+- Topics: grounding, evaluation, efficiency
+- Evidence checked: 2026-10-20T11:51:38.123692Z
+- ID: github:patrickstarl/gui-grounding-eval
+
+## Limitations
+
+This is an independent harness using ScreenSpot-Pro, not a new dataset or verified leaderboard entry. The read code maps points back to original-image coordinates and scores point-in-box hits; documentation limits comparisons by prompt, model, subset and provider behavior. No OS support, code license or external data/weight license was established in this bounded review. Model calls, tests and reported results were not executed or reproduced.
+
+- Record JSON: https://awesomecua.github.io/resources/github-patrickstarl-gui-grounding-eval/record.json
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/PatrickStarL/gui-grounding-eval/d92b059caa0e0acf8db76f2164dd7be2617ccc72/README.md (retrieved 2026-10-20T11:51:38.123692Z; SHA-256 3226df7608039522072e59d459094fc45be9c5a6be7ea0d7ad76ddf9723a3aea)
+- https://api.github.com/search/repositories?q=topic%3Agui-grounding+is%3Apublic+fork%3Afalse+created%3A2008-01-01..2026-10-20&per_page=100&page=1&sort=updated&order=asc (retrieved 2026-10-20T11:04:53.470789+00:00; SHA-256 3d76d934e98641746085772b98ee17059749f980a616435498a7ad483bd4cec1)
+- https://github.com/PatrickStarL/gui-grounding-eval (retrieved 2026-10-20T11:51:05.389053Z; SHA-256 4fe6f65a21586dde0bf8b64f8c49e5c583b320bf5e0c2b8253baf2cd3fcfc5d2)
+- https://raw.githubusercontent.com/PatrickStarL/gui-grounding-eval/d92b059caa0e0acf8db76f2164dd7be2617ccc72/ssp_eval/metrics.py (retrieved 2026-10-20T11:53:32.022035Z; SHA-256 c3eb1708b7d57dcde7478ca2f5063241b1ab567b2ba2ba28b9956b043da2b6c2)
+- https://raw.githubusercontent.com/PatrickStarL/gui-grounding-eval/d92b059caa0e0acf8db76f2164dd7be2617ccc72/ssp_eval/geometry.py (retrieved 2026-10-20T11:53:35.461491Z; SHA-256 66fa5940f0c4f6265cb162cb0596402848dd2a49fd48b07ee950dc866b8730a5)
+- https://raw.githubusercontent.com/PatrickStarL/gui-grounding-eval/d92b059caa0e0acf8db76f2164dd7be2617ccc72/ssp_eval/runner.py (retrieved 2026-10-20T11:53:38.931130Z; SHA-256 f83bc0632a616e7b01c8a46b0e435733f0cc47b4a19f0c709b221eaee8a0db5f)
+
+---
+
 # Agent Browser Shield
 
 Browser extension for filtering potentially unsafe agent input.
@@ -68989,6 +69165,47 @@ The split-ID inventory is not a count of sampled trajectories, live Android apps
 - https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/LICENSE-DATA (retrieved 2026-10-17T11:22:59Z; SHA-256 e222fa518c5003d425ee9b371e987c95ba10e52b54fea078571254ae6a8eaf23)
 - https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/train.txt (retrieved 2026-10-17T11:27:49Z; SHA-256 0ecef460fecfd8aa91dcbb2cd4cca17b033f620f85a50d7f0b598ed19a27c0eb)
 - https://raw.githubusercontent.com/Purewhiter/mobilegym/HEAD/bench_env/splits/test.txt (retrieved 2026-10-17T11:27:48Z; SHA-256 a3d485015d480f4f1ebbd12dbbf02c25c0aa667d1afcf5f6fa35f0263a82c567)
+
+---
+
+# Mobster engine
+
+iOS agent engine organized around an observe, decide, verify and act loop, using WebDriverAgent screen state and phone actions such as taps, typing, swipes and app switches.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-radishsoftware-mobster/
+- Original source: https://github.com/RadishSoftware/mobster
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: ios
+- Topics: mobile-navigation, evaluation
+- Evidence checked: 2026-10-20T11:57:18.994340+00:00
+- ID: github:radishsoftware/mobster
+
+## Limitations
+
+This entry covers the published engine, not the separate Mobster for Mac product. The documented reference example requires an already-serving WebDriverAgent runner for an iPhone and a model-service key; it performs a fixed read-only Settings task and declines approvals. The repository lists benchmark/evaluation tooling, but dated simulator subsets, real-device trials and earlier engine results are different evaluation populations. The README explicitly places several product modules outside this repository. Source inspection confirms WDA dispatch paths, not task success, security guarantees or reproducible performance; no phone, simulator, model or benchmark was run. MIT applies to the inspected repository software, not automatically to external WDA code, images or other data.
+
+- Record JSON: https://awesomecua.github.io/resources/github-radishsoftware-mobster/record.json
+
+## License declarations
+
+- code: MIT — https://raw.githubusercontent.com/RadishSoftware/mobster/738cecdd3eacb9df88d48efb9efa53507bb4aeb4/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: Complete root MIT license text inspected at the pinned commit. Applies to repository software; data, weights, external WebDriverAgent code and separately distributed products do not inherit this declaration.
+  Sources: https://raw.githubusercontent.com/RadishSoftware/mobster/738cecdd3eacb9df88d48efb9efa53507bb4aeb4/LICENSE
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/RadishSoftware/mobster/738cecdd3eacb9df88d48efb9efa53507bb4aeb4/README.md (retrieved 2026-10-20T11:57:18.994340+00:00; SHA-256 dfffdc4b5850ed6bfe0bcfe705fa5918d61420f8c80df2e38f61b7d1fb3819ec)
+- https://api.github.com/search/repositories?q=topic%3Amobile-agent+is%3Apublic+fork%3Afalse+created%3A2008-01-01..2026-10-20&per_page=100&page=1&sort=updated&order=asc (retrieved 2026-10-20T11:06:00.276978+00:00; SHA-256 01f97a863952373bd10a1f849d79706344be63f5774fe7e0cfe9ba774e41d213)
+- https://api.github.com/repos/RadishSoftware/mobster/commits/main (retrieved 2026-10-20T11:54:17.260430+00:00; SHA-256 fde31e2fdae142655f09fa14fb3114bf39a22cc1ff7994204a66622f5cbfe2c7)
+- https://api.github.com/repos/RadishSoftware/mobster/git/trees/81f2c1990c07a3aaf001a5c3eb4f37a457f0fb3d?recursive=1 (retrieved 2026-10-20T11:56:37.457839+00:00; SHA-256 8c2b9647b33a93b1a33e9256307e09b0f3e6aa62608019defa6dcdc5d7bff3dc)
+- https://raw.githubusercontent.com/RadishSoftware/mobster/738cecdd3eacb9df88d48efb9efa53507bb4aeb4/LICENSE (retrieved 2026-10-20T11:57:25.539870+00:00; SHA-256 f9ad743798f16491100ea692069e346f82bbdb5a5df91e4e01c1d6168f2513cf)
+- https://raw.githubusercontent.com/RadishSoftware/mobster/738cecdd3eacb9df88d48efb9efa53507bb4aeb4/mobile_agent/drivers.py (retrieved 2026-10-20T12:05:06.711971+00:00; SHA-256 4296a186cc2c00b9de93ababae490dc99cba596d858eff195e40283d58d73a0a)
 
 ---
 
@@ -69900,6 +70117,50 @@ Inclusion does not establish reproducibility or endorsement.
 
 - https://raw.githubusercontent.com/skyworkai/agent-studio/HEAD/README.md (retrieved 2026-10-18T10:59:56Z; SHA-256 5653db27f736c0c77afb63f81ca051bf31f1e1f0579ac77cf00dca4ea751c159)
 - https://raw.githubusercontent.com/skyworkai/agent-studio/HEAD/LICENSE (retrieved 2026-10-18T11:03:47Z; SHA-256 8486a10c4393cee1c25392769ddd3b2d6c242d6ec7928e1414efff7dfb2f07ef)
+
+---
+
+# Yunkai
+
+Android phone assistant combining model-driven tool use with accessibility-tree reading, screenshots, and tap, swipe and text-entry primitives. Its documented interaction flow presents operation plans for user confirmation.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-solplum-yunkai/
+- Original source: https://github.com/solplum/yunkai
+- Kind: agent
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, screen-understanding, human-in-the-loop
+- Evidence checked: 2026-10-20T11:57:12.431753+00:00
+- ID: github:solplum/yunkai
+
+## Limitations
+
+The Android AccessibilityService contains concrete screen-reading and action paths. The inspected HarmonyOS accessibility extension is a lifecycle/event scaffold with its screen-content probe disabled; HDC appears in an external UI-test driver, so Harmony GUI-control parity is not established by this review. Setup requires a configured OpenAI-compatible model endpoint and API key: local storage does not establish offline inference or a no-transmission guarantee. Documented approval and privacy mechanisms are not independently tested security guarantees. No app, device test or model inference was run.
+
+- Record JSON: https://awesomecua.github.io/resources/github-solplum-yunkai/record.json
+
+## License declarations
+
+- code: MIT — https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: Complete root MIT license text inspected at the pinned commit. Repository software only; data, weights and third-party assets retain separate terms.
+  Sources: https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/LICENSE
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/README.md (retrieved 2026-10-20T11:57:12.431753+00:00; SHA-256 eea31b35aa0b55c97f8ccda3438382ad49d2453671b49bb817efb5bc3384e900)
+- https://api.github.com/search/repositories?q=topic%3Amobile-agent+is%3Apublic+fork%3Afalse+created%3A2008-01-01..2026-10-20&per_page=100&page=1&sort=updated&order=asc (retrieved 2026-10-20T11:06:00.276978+00:00; SHA-256 01f97a863952373bd10a1f849d79706344be63f5774fe7e0cfe9ba774e41d213)
+- https://api.github.com/repos/solplum/yunkai/commits/main (retrieved 2026-10-20T11:54:02.419278+00:00; SHA-256 e2797712132e69cc50fa7ad2ae815a48339f77eebec1e85a5dc0cd75702574f1)
+- https://api.github.com/repos/solplum/yunkai/git/trees/4ca94f2f7d8f13099ae2c351d9578ed5ef0cb509?recursive=1 (retrieved 2026-10-20T11:56:30.226860+00:00; SHA-256 08f48cb5c15b8d505e76a91d996c656d87765946cc7137bce088e73e6e64cf06)
+- https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/LICENSE (retrieved 2026-10-20T11:57:22.238029+00:00; SHA-256 c39441f92c303832d42f1f153c4442533ac925007e12d70f3199c568a0baac88)
+- https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/yunkai-android/app/src/main/java/com/zhuolin/yunkai/service/screen/ScreenSenseService.kt (retrieved 2026-10-20T11:59:51.424713+00:00; SHA-256 964aad706676fc7b74e532f8bc441fa766f3ce0ca3e4d0e115c7a90c70656883)
+- https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/yunkai-harmony/entry/src/main/ets/service/tools/M2Tools.ets (retrieved 2026-10-20T11:59:54.745065+00:00; SHA-256 628cc3015999176052a09e3f3bbb8635d87163a9430d98cb6a6a7c09117dfd37)
+- https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/yunkai-harmony/entry/src/main/ets/service/screen/ScreenSenseExtension.ets (retrieved 2026-10-20T12:04:53.632582+00:00; SHA-256 ba8c9b0f4b5cea5ac36a4b49f3cf27e77e5c6beb49022e43c667e359be2c6fca)
+- https://raw.githubusercontent.com/solplum/yunkai/2aa6cd83165bfc201b0128c250e80892895d63af/yunkai-harmony/tests/fullflow/drive_harmony.sh (retrieved 2026-10-20T12:04:56.914360+00:00; SHA-256 423a77e1fd57f3e105898f1adfc94c493de5c0de97fae4379f9cf540c89d4640)
 
 ---
 
