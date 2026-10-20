@@ -38,6 +38,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/planning/reco
   Diagnoses dashboard-agent failures by progressively restoring interaction context, next-action support, and visual target information within the same task.
 - [Jev-Mobile: Jev as an Executor for Mobile GUI Agents](https://awesomecua.github.io/resources/arxiv-2609-30186/) — 2026-09-24
   Separates occasional visual-language planning from frequent lightweight action selection over an accessibility-tree-based action space.
+- [Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents](https://awesomecua.github.io/resources/arxiv-2609-29892/) — 2026-09-24
+  Trains a mobile planner with supervised trajectories and competence-adaptive RL, then couples typed tool execution with memory, skills and offline model-harness refinement.
 - [Towards Omni-dimensional GUI Agent Navigation with Masked Trajectory Prediction](https://awesomecua.github.io/resources/arxiv-2609-25769/) — 2026-09-22
   MaP unifies GUI-navigation objectives by masking and predicting components of multi-turn trajectories. Role-aware adapters address heterogeneous training data, and evaluations compare the approach with direct task-mixture training across navigation benchmarks.
 - [JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition](https://awesomecua.github.io/resources/arxiv-2609-10451/) — 2026-09-09

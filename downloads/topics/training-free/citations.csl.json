@@ -1703,5 +1703,57 @@
     "title": "Relevance Does Not Imply Applicability: Experience Activation for Personal GUI Agents",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.15738v1",
+    "archive": "arXiv",
+    "archive_location": "2610.15738",
+    "author": [
+      {
+        "literal": "Jianlin Chen"
+      },
+      {
+        "literal": "Wenhui Chen"
+      },
+      {
+        "literal": "Chi Man Vong"
+      }
+    ],
+    "citation-key": "arxiv_2610_15738",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e6c60bb4d3b7bb2e2cba92201924d8da4f5e18ce5553c81fc9d5c6fb62b84751",
+        "submitted_at": "2026-10-11T16:18:11Z",
+        "updated_at": "2026-10-11T16:18:11Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.15738v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.15738",
+      "catalog_id": "arxiv:2610.15738",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-11",
+      "identifiers": {
+        "arxiv": "2610.15738"
+      },
+      "record_updated_at": "2026-10-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.15738",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-11; Recorded arXiv version: v1; Recorded version updated: 2026-10-11T16:18:11Z.",
+    "title": "Visible but Not Avoided: State-Dependent Re-Proposal of Rejected Candidates in Catalog-Based LLM Optimization Loops",
+    "type": "article",
+    "version": "1"
   }
 ]

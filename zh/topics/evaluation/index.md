@@ -48,6 +48,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/evaluation/re
   Introduces PrivacyGuard, which sanitizes source-linked personal information and maintains locally resolvable references across mobile-agent turns to reduce exposure to remote planners.
 - [Learn from Move: the Next Step for GUI Agents](https://awesomecua.github.io/resources/arxiv-2610-16720/) — 2026-10-12
   Introduces LatentGUIWorld to test learning interface semantics and dynamics through interaction, and studies finer movement actions with intermediate visual feedback and exploration demonstrations.
+- [Visible but Not Avoided: State-Dependent Re-Proposal of Rejected Candidates in Catalog-Based LLM Optimization Loops](https://awesomecua.github.io/resources/arxiv-2610-15738/) — 2026-10-11
+  Studies repeated rejected edits while optimizing a screenshot-only GUI agent, contrasting static probes with reached loop states and testing how rejection wording changes subsequent edit proposals.
 - [The Agent Clicks Approve: Injected Page Text Makes Browser Agents Authorize Access the Task Never Named](https://awesomecua.github.io/resources/arxiv-2610-15138/) — 2026-10-10
   Studies prompt-injected account-access approvals in browser agents and proposes a service-side authority envelope that checks authorization requests against the user task before allowing them to complete.
 - [A Baseline Assessment for the Agentic Web Technology Stack](https://awesomecua.github.io/resources/arxiv-2610-13703/) — 2026-10-09

@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2610-14855/record.json
 
+## Recorded reviewer hold
+
+Scope hold after v1 Methodology, Evaluation and Appendices A \(On\-Device Deployment\), B and D\. PEAM generates background network\-configuration rules and reports real cellular/Wi\-Fi switching on Android 16; active rules execute after explicit user acceptance\. The inspected work does not establish GUI observation/action control or a component actually used by a CUA workflow\. Native network switching alone does not establish that broader role\. Need direct interface/control or CUA\-support evidence before inclusion\. Preserve metadata; no permanent exclusion is proposed\.
+
+- Review ledger: https://awesomecua.github.io/downloads/coverage.json
+
 ## Authors
 
 Haowen Wan, Shangzhuo Xie, Syue-Ju Syue, Xianyue Wu, Runhua Li, Qianqian Yang

@@ -20,6 +20,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/grounding/rec
   Introduces LatentGUIWorld to test learning interface semantics and dynamics through interaction, and studies finer movement actions with intermediate visual feedback and exploration demonstrations.
 - [Seg2Click: Learning Pixel-Level Action Masks for GUI Visual Grounding](https://awesomecua.github.io/resources/arxiv-2610-16234/) — 2026-10-12
   Recasts GUI grounding as predicting a mask of valid click locations from bounding-box supervision, then derives a click point with a deterministic selection rule.
+- [Visible but Not Avoided: State-Dependent Re-Proposal of Rejected Candidates in Catalog-Based LLM Optimization Loops](https://awesomecua.github.io/resources/arxiv-2610-15738/) — 2026-10-11
+  Studies repeated rejected edits while optimizing a screenshot-only GUI agent, contrasting static probes with reached loop states and testing how rejection wording changes subsequent edit proposals.
 - [ConClick: Element-Wise Contrastive Learning Improves GUI Grounding](https://awesomecua.github.io/resources/arxiv-2610-13268/) — 2026-10-09
   Analyzes recurring distractor clicks in GUI grounding and introduces ConClick, a contrastive training method built from target–distractor pairs. Its ReClick inference procedure revisits candidate regions and compares competing predictions.
 - [CaptchaAgent: Verifiable Visual Reasoning for CAPTCHA Solving](https://awesomecua.github.io/resources/arxiv-2610-12866/) — 2026-10-09

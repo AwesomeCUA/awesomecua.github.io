@@ -6,6 +6,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/training-free
 
 ## Papers & surveys
 
+- [Visible but Not Avoided: State-Dependent Re-Proposal of Rejected Candidates in Catalog-Based LLM Optimization Loops](https://awesomecua.github.io/resources/arxiv-2610-15738/) — 2026-10-11
+  Studies repeated rejected edits while optimizing a screenshot-only GUI agent, contrasting static probes with reached loop states and testing how rejection wording changes subsequent edit proposals.
 - [Relevance Does Not Imply Applicability: Experience Activation for Personal GUI Agents](https://awesomecua.github.io/resources/arxiv-2609-33304/) — 2026-09-27
   Introduces ExpActivator, which matches the current GUI state to relevant historical states before supplying past actions as guidance. A separate activation rule decides whether a recurring user intent is warranted by the current time and situation or should be withheld.
 - [Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents](https://awesomecua.github.io/resources/arxiv-2609-17653/) — 2026-09-15

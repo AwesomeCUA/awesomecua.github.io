@@ -7917,6 +7917,127 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2609.29892v1",
+    "archive": "arXiv",
+    "archive_location": "2609.29892",
+    "author": [
+      {
+        "literal": "Tingyu Qu"
+      },
+      {
+        "literal": "Weigao Sun"
+      },
+      {
+        "literal": "Yuecheng Liu"
+      },
+      {
+        "literal": "Yucheng Zhao"
+      },
+      {
+        "literal": "Yi Zhu"
+      },
+      {
+        "literal": "Yifeng Ding"
+      },
+      {
+        "literal": "Qiyi Wang"
+      },
+      {
+        "literal": "Sihan Cao"
+      },
+      {
+        "literal": "Pengkun Jiao"
+      },
+      {
+        "literal": "Hanlei Xie"
+      },
+      {
+        "literal": "Xiongwei Wu"
+      },
+      {
+        "literal": "Qichao Wang"
+      },
+      {
+        "literal": "Haodong Zhang"
+      },
+      {
+        "literal": "Jiajun Liu"
+      },
+      {
+        "literal": "Yuhao Wang"
+      },
+      {
+        "literal": "Yuqing Xie"
+      },
+      {
+        "literal": "Junpeng Zhao"
+      },
+      {
+        "literal": "Long Chen"
+      },
+      {
+        "literal": "Ming Ma"
+      },
+      {
+        "literal": "Sihan Yang"
+      },
+      {
+        "literal": "Ziwang Zhao"
+      },
+      {
+        "literal": "Yanhao Jia"
+      },
+      {
+        "literal": "Liangquan Gong"
+      },
+      {
+        "literal": "Feida Zhu"
+      },
+      {
+        "literal": "Yiran Zhong"
+      },
+      {
+        "literal": "Steven Hoi"
+      }
+    ],
+    "citation-key": "arxiv_2609_29892",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "572ba5397fc1e4bb138febc3e7004e6e4f244e0ba8b628fb91debef4a854561f",
+        "submitted_at": "2026-09-24T14:38:08Z",
+        "updated_at": "2026-09-24T14:38:08Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.29892v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.29892",
+      "catalog_id": "arxiv:2609.29892",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-24",
+      "identifiers": {
+        "arxiv": "2609.29892"
+      },
+      "record_updated_at": "2026-09-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.29892",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-24; Recorded arXiv version: v1; Recorded version updated: 2026-09-24T14:38:08Z.",
+    "title": "Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2609.30186v1",
     "archive": "arXiv",
     "archive_location": "2609.30186",

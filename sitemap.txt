@@ -1100,6 +1100,7 @@ https://awesomecua.github.io/resources/arxiv-2609-27307/
 https://awesomecua.github.io/resources/arxiv-2609-27353/
 https://awesomecua.github.io/resources/arxiv-2609-27461/
 https://awesomecua.github.io/resources/arxiv-2609-27770/
+https://awesomecua.github.io/resources/arxiv-2609-29892/
 https://awesomecua.github.io/resources/arxiv-2609-30186/
 https://awesomecua.github.io/resources/arxiv-2609-30604/
 https://awesomecua.github.io/resources/arxiv-2609-30887/
@@ -1183,6 +1184,7 @@ https://awesomecua.github.io/resources/arxiv-2610-14157/
 https://awesomecua.github.io/resources/arxiv-2610-14228/
 https://awesomecua.github.io/resources/arxiv-2610-15138/
 https://awesomecua.github.io/resources/arxiv-2610-15502/
+https://awesomecua.github.io/resources/arxiv-2610-15738/
 https://awesomecua.github.io/resources/arxiv-2610-16234/
 https://awesomecua.github.io/resources/arxiv-2610-16319/
 https://awesomecua.github.io/resources/arxiv-2610-16720/
@@ -1771,6 +1773,7 @@ https://awesomecua.github.io/topics/reinforcement-learning/
 https://awesomecua.github.io/topics/reinforcement-learning/page/2/
 https://awesomecua.github.io/topics/reinforcement-learning/page/3/
 https://awesomecua.github.io/topics/reinforcement-learning/page/4/
+https://awesomecua.github.io/topics/reinforcement-learning/page/5/
 https://awesomecua.github.io/topics/reward-models/
 https://awesomecua.github.io/topics/robustness/
 https://awesomecua.github.io/topics/robustness/page/2/
@@ -1889,6 +1892,7 @@ https://awesomecua.github.io/zh/topics/reinforcement-learning/
 https://awesomecua.github.io/zh/topics/reinforcement-learning/page/2/
 https://awesomecua.github.io/zh/topics/reinforcement-learning/page/3/
 https://awesomecua.github.io/zh/topics/reinforcement-learning/page/4/
+https://awesomecua.github.io/zh/topics/reinforcement-learning/page/5/
 https://awesomecua.github.io/zh/topics/reward-models/
 https://awesomecua.github.io/zh/topics/robustness/
 https://awesomecua.github.io/zh/topics/robustness/page/2/

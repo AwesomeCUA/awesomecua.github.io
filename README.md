@@ -44,9 +44,9 @@ python3 scripts/catalog.py get arxiv:2404.07972 --related --json
 
 </details>
 
-**3,231 resource records** · **1,665 curated** · **2,760 paper and survey records** · **54 discovery documents**
+**3,231 resource records** · **1,667 curated** · **2,760 paper and survey records** · **54 discovery documents**
 
-Evidence snapshot: 2026-10-20T15:15:05.368243+00:00. Bibliography counts overlap review-state counts. Resources are not independent projects.
+Evidence snapshot: 2026-10-20T15:43:20.402537Z. Bibliography counts overlap review-state counts. Resources are not independent projects.
 
 ## What is a computer-use agent?
 
