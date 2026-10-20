@@ -1,0 +1,66 @@
+{
+  "aliases": [],
+  "authors": [
+    "Jianlin Chen",
+    "Wenhui Chen",
+    "Chi Man Vong"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e6c60bb4d3b7bb2e2cba92201924d8da4f5e18ce5553c81fc9d5c6fb62b84751",
+      "submitted_at": "2026-10-11T16:18:11Z",
+      "updated_at": "2026-10-11T16:18:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.15738v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-20T13:48:10Z",
+      "role": "primary",
+      "sha256": "6d8c0463b6d50320246021f0394d0e39c9fd839f1ef1f742c8cdfa231872b059",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22browser+agent%22+OR+ti%3AGUI+OR+ti%3A%22Android+agent%22+OR+abs%3A%22computer-use+agents%22+OR+abs%3A%22GUI+agents%22+OR+abs%3A%22browser+agents%22+OR+abs%3A%22mobile+GUI%22%29+AND+submittedDate%3A%5B202610060000+TO+202610200000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending"
+    }
+  ],
+  "id": "arxiv:2610.15738",
+  "identifiers": {
+    "arxiv": "2610.15738"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-20T13:48:10Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2610.15738"
+    }
+  ],
+  "name": "Visible but Not Avoided: State-Dependent Re-Proposal of Rejected Candidates in Catalog-Based LLM Optimization Loops",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2026-10-11",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-10-11",
+  "url": "https://arxiv.org/abs/2610.15738"
+}

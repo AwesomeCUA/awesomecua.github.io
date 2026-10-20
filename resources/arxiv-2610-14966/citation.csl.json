@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2610.14966",
+  "citation-key": "arxiv_2610_14966",
+  "type": "article",
+  "title": "SkillHorizon: Constructing Long-Horizon Agent Tasks through Skill Composition",
+  "URL": "https://arxiv.org/abs/2610.14966v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.14966",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.14966",
+    "identifiers": {
+      "arxiv": "2610.14966"
+    },
+    "first_published_at": "2026-10-10",
+    "record_updated_at": "2026-10-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5891d4fcb3ec4ecc58090ccd56bd03b9863ba67874de6a460940bc864966a5fd",
+      "submitted_at": "2026-10-10T14:36:39Z",
+      "updated_at": "2026-10-10T14:36:39Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.14966v1"
+    }
+  },
+  "note": "First published: 2026-10-10; Recorded arXiv version: v1; Recorded version updated: 2026-10-10T14:36:39Z.",
+  "author": [
+    {
+      "literal": "Yuxuan Liu"
+    },
+    {
+      "literal": "Zhaochen Su"
+    },
+    {
+      "literal": "Hangyu Guo"
+    },
+    {
+      "literal": "Shijue Huang"
+    },
+    {
+      "literal": "Zhixiong Zhang"
+    },
+    {
+      "literal": "Kawai Chung"
+    },
+    {
+      "literal": "Zhongwei Xie"
+    },
+    {
+      "literal": "Tianshi Zheng"
+    },
+    {
+      "literal": "Wei Fan"
+    },
+    {
+      "literal": "Qing Zong"
+    },
+    {
+      "literal": "Haochen Shi"
+    },
+    {
+      "literal": "Baixuan Xu"
+    },
+    {
+      "literal": "Haoran Li"
+    },
+    {
+      "literal": "Yangqiu Song"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.14966",
+  "genre": "preprint",
+  "version": "1"
+}

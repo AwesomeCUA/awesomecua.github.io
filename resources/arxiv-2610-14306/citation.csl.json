@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2610.14306",
+  "citation-key": "arxiv_2610_14306",
+  "type": "article",
+  "title": "Plottery: A Code-Integrated GUI for Matplotlib",
+  "URL": "https://arxiv.org/abs/2610.14306v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.14306",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.14306",
+    "identifiers": {
+      "arxiv": "2610.14306"
+    },
+    "first_published_at": "2026-10-09",
+    "record_updated_at": "2026-10-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b7c0f27063df5eaa6ed57cc160a0ddefff1bb5d010de9d9efa057fe925fbb6a6",
+      "submitted_at": "2026-10-09T20:32:04Z",
+      "updated_at": "2026-10-09T20:32:04Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.14306v1"
+    }
+  },
+  "note": "First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T20:32:04Z.",
+  "author": [
+    {
+      "literal": "Brian Hempel"
+    },
+    {
+      "literal": "Ruanqianqian Huang"
+    },
+    {
+      "literal": "Devamardeep Hayatpur"
+    },
+    {
+      "literal": "Sorin Lerner"
+    },
+    {
+      "literal": "Haijun Xia"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.14306",
+  "genre": "preprint",
+  "version": "1"
+}

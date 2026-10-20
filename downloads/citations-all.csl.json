@@ -183937,6 +183937,55 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.09944v2",
+    "archive": "arXiv",
+    "archive_location": "2610.09944",
+    "author": [
+      {
+        "literal": "Michael Ofengenden"
+      },
+      {
+        "literal": "Maksym Andriushchenko"
+      }
+    ],
+    "citation-key": "arxiv_2610_09944",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "03aea09f3ed1b75a8a6584efdfa51d45d1cfa9dc53fb3a25efd820c5b72e094a",
+        "submitted_at": "2026-10-07T12:26:24Z",
+        "updated_at": "2026-10-08T09:06:36Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2610.09944v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.09944",
+      "catalog_id": "arxiv:2610.09944",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-07",
+      "identifiers": {
+        "arxiv": "2610.09944"
+      },
+      "record_updated_at": "2026-10-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.09944",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-07; Recorded arXiv version: v2; Recorded version updated: 2026-10-08T09:06:36Z.",
+    "title": "AgentTime: Can Agents Estimate and Control Their Own Runtime?",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.11050v1",
     "archive": "arXiv",
     "archive_location": "2610.11050",
@@ -185232,6 +185281,210 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.14306v1",
+    "archive": "arXiv",
+    "archive_location": "2610.14306",
+    "author": [
+      {
+        "literal": "Brian Hempel"
+      },
+      {
+        "literal": "Ruanqianqian Huang"
+      },
+      {
+        "literal": "Devamardeep Hayatpur"
+      },
+      {
+        "literal": "Sorin Lerner"
+      },
+      {
+        "literal": "Haijun Xia"
+      }
+    ],
+    "citation-key": "arxiv_2610_14306",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b7c0f27063df5eaa6ed57cc160a0ddefff1bb5d010de9d9efa057fe925fbb6a6",
+        "submitted_at": "2026-10-09T20:32:04Z",
+        "updated_at": "2026-10-09T20:32:04Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.14306v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.14306",
+      "catalog_id": "arxiv:2610.14306",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-09",
+      "identifiers": {
+        "arxiv": "2610.14306"
+      },
+      "record_updated_at": "2026-10-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.14306",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T20:32:04Z.",
+    "title": "Plottery: A Code-Integrated GUI for Matplotlib",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.14855v1",
+    "archive": "arXiv",
+    "archive_location": "2610.14855",
+    "author": [
+      {
+        "literal": "Haowen Wan"
+      },
+      {
+        "literal": "Shangzhuo Xie"
+      },
+      {
+        "literal": "Syue-Ju Syue"
+      },
+      {
+        "literal": "Xianyue Wu"
+      },
+      {
+        "literal": "Runhua Li"
+      },
+      {
+        "literal": "Qianqian Yang"
+      }
+    ],
+    "citation-key": "arxiv_2610_14855",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "49c5ae7f6cb9e89a0e602f5c51bc754e39434d8c8588d46449626337a5e2da24",
+        "submitted_at": "2026-10-10T12:21:05Z",
+        "updated_at": "2026-10-10T12:21:05Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.14855v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.14855",
+      "catalog_id": "arxiv:2610.14855",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-10",
+      "identifiers": {
+        "arxiv": "2610.14855"
+      },
+      "record_updated_at": "2026-10-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.14855",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          10
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-10; Recorded arXiv version: v1; Recorded version updated: 2026-10-10T12:21:05Z.",
+    "title": "PEAM: On-device Communication Agent for Personalized, Efficient and Autonomous Mobile Network Configuration",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.14966v1",
+    "archive": "arXiv",
+    "archive_location": "2610.14966",
+    "author": [
+      {
+        "literal": "Yuxuan Liu"
+      },
+      {
+        "literal": "Zhaochen Su"
+      },
+      {
+        "literal": "Hangyu Guo"
+      },
+      {
+        "literal": "Shijue Huang"
+      },
+      {
+        "literal": "Zhixiong Zhang"
+      },
+      {
+        "literal": "Kawai Chung"
+      },
+      {
+        "literal": "Zhongwei Xie"
+      },
+      {
+        "literal": "Tianshi Zheng"
+      },
+      {
+        "literal": "Wei Fan"
+      },
+      {
+        "literal": "Qing Zong"
+      },
+      {
+        "literal": "Haochen Shi"
+      },
+      {
+        "literal": "Baixuan Xu"
+      },
+      {
+        "literal": "Haoran Li"
+      },
+      {
+        "literal": "Yangqiu Song"
+      }
+    ],
+    "citation-key": "arxiv_2610_14966",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5891d4fcb3ec4ecc58090ccd56bd03b9863ba67874de6a460940bc864966a5fd",
+        "submitted_at": "2026-10-10T14:36:39Z",
+        "updated_at": "2026-10-10T14:36:39Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.14966v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.14966",
+      "catalog_id": "arxiv:2610.14966",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-10",
+      "identifiers": {
+        "arxiv": "2610.14966"
+      },
+      "record_updated_at": "2026-10-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.14966",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          10
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-10; Recorded arXiv version: v1; Recorded version updated: 2026-10-10T14:36:39Z.",
+    "title": "SkillHorizon: Constructing Long-Horizon Agent Tasks through Skill Composition",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.15138v1",
     "archive": "arXiv",
     "archive_location": "2610.15138",
@@ -185323,6 +185576,58 @@
     },
     "note": "First published: 2026-10-11; Recorded arXiv version: v1; Recorded version updated: 2026-10-11T10:09:44Z.",
     "title": "From Observations to Authorized Actions: Measuring Source Information in Android Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.15738v1",
+    "archive": "arXiv",
+    "archive_location": "2610.15738",
+    "author": [
+      {
+        "literal": "Jianlin Chen"
+      },
+      {
+        "literal": "Wenhui Chen"
+      },
+      {
+        "literal": "Chi Man Vong"
+      }
+    ],
+    "citation-key": "arxiv_2610_15738",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e6c60bb4d3b7bb2e2cba92201924d8da4f5e18ce5553c81fc9d5c6fb62b84751",
+        "submitted_at": "2026-10-11T16:18:11Z",
+        "updated_at": "2026-10-11T16:18:11Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.15738v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.15738",
+      "catalog_id": "arxiv:2610.15738",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-11",
+      "identifiers": {
+        "arxiv": "2610.15738"
+      },
+      "record_updated_at": "2026-10-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.15738",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-11; Recorded arXiv version: v1; Recorded version updated: 2026-10-11T16:18:11Z.",
+    "title": "Visible but Not Avoided: State-Dependent Re-Proposal of Rejected Candidates in Catalog-Based LLM Optimization Loops",
     "type": "article",
     "version": "1"
   },
@@ -188192,6 +188497,94 @@
     },
     "note": "First published: 2026-10-16; Recorded arXiv version: v1; Recorded version updated: 2026-10-16T11:10:30Z.",
     "title": "MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.23986v1",
+    "archive": "arXiv",
+    "archive_location": "2610.23986",
+    "author": [
+      {
+        "literal": "Xinyu Fang"
+      },
+      {
+        "literal": "Yuchi Wang"
+      },
+      {
+        "literal": "Weihao Yu"
+      },
+      {
+        "literal": "Rongyao Fang"
+      },
+      {
+        "literal": "Zhaohai Li"
+      },
+      {
+        "literal": "Zhixun Li"
+      },
+      {
+        "literal": "Tiancheng Gu"
+      },
+      {
+        "literal": "Xilin Wei"
+      },
+      {
+        "literal": "Yuhang Zang"
+      },
+      {
+        "literal": "Hongsheng Li"
+      },
+      {
+        "literal": "Dahua Lin"
+      },
+      {
+        "literal": "Guofeng Zhang"
+      },
+      {
+        "literal": "Shuai Bai"
+      },
+      {
+        "literal": "Zhibo Yang"
+      },
+      {
+        "literal": "Dayiheng Liu"
+      }
+    ],
+    "citation-key": "arxiv_2610_23986",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6dfa0c59ec1262cebcf2a4e61ab1e0b58c647513d8e6eedb2ce7e6a1a675558c",
+        "submitted_at": "2026-10-14T12:46:54Z",
+        "updated_at": "2026-10-14T12:46:54Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.23986v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.23986",
+      "catalog_id": "arxiv:2610.23986",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-14",
+      "identifiers": {
+        "arxiv": "2610.23986"
+      },
+      "record_updated_at": "2026-10-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.23986",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T12:46:54Z.",
+    "title": "BlenderWorld: Benchmarking Visual Agents for 3D Creation from Real-World References",
     "type": "article",
     "version": "1"
   },

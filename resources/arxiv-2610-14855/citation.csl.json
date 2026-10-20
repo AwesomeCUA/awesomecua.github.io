@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2610.14855",
+  "citation-key": "arxiv_2610_14855",
+  "type": "article",
+  "title": "PEAM: On-device Communication Agent for Personalized, Efficient and Autonomous Mobile Network Configuration",
+  "URL": "https://arxiv.org/abs/2610.14855v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.14855",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.14855",
+    "identifiers": {
+      "arxiv": "2610.14855"
+    },
+    "first_published_at": "2026-10-10",
+    "record_updated_at": "2026-10-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "49c5ae7f6cb9e89a0e602f5c51bc754e39434d8c8588d46449626337a5e2da24",
+      "submitted_at": "2026-10-10T12:21:05Z",
+      "updated_at": "2026-10-10T12:21:05Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.14855v1"
+    }
+  },
+  "note": "First published: 2026-10-10; Recorded arXiv version: v1; Recorded version updated: 2026-10-10T12:21:05Z.",
+  "author": [
+    {
+      "literal": "Haowen Wan"
+    },
+    {
+      "literal": "Shangzhuo Xie"
+    },
+    {
+      "literal": "Syue-Ju Syue"
+    },
+    {
+      "literal": "Xianyue Wu"
+    },
+    {
+      "literal": "Runhua Li"
+    },
+    {
+      "literal": "Qianqian Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.14855",
+  "genre": "preprint",
+  "version": "1"
+}
