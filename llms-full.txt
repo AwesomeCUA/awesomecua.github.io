@@ -1,6 +1,6 @@
 # AwesomeCUA curated resource annotations
 
-Evidence snapshot: 2026-10-20T05:52:01Z. These records were reviewed with AI assistance; experiments are not independently reproduced.
+Evidence snapshot: 2026-10-20T08:29:05.337543+00:00. These records were reviewed with AI assistance; experiments are not independently reproduced.
 
 Related reading: [English research survey](https://awesomecua.github.io/survey/). This working manuscript uses its own frozen inventory; its text is separate from the catalog annotations below.
 
@@ -61173,6 +61173,218 @@ Qingni Wang, Changdae Oh, Yuzhe Yang, Sharon Li, Jiachen Yang, Ang Li, Xin Eric 
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+
+---
+
+# CUA-Lite: An Open Platform for Computer Use Agents
+
+CUA-Lite unifies environment interfaces, supervised data formats and per-model harnesses for evaluation, reinforcement learning and supervised fine-tuning across desktop, browser and mobile tasks.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-26071/
+- Original source: https://arxiv.org/abs/2610.26071
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, windows, web, android
+- Topics: tool-integration, data-generation, evaluation, imitation-learning, reinforcement-learning, sandbox
+- Evidence checked: 2026-10-20T08:27:26.236797+00:00
+- ID: arxiv:2610.26071
+
+## Limitations
+
+Reviewed the complete official abstract and selected v1 methods, training and limitations sections. WebVoyager uses offline mirrors; VM-free sandboxes are Linux-only, and reported desktop/mobile gains do not establish unseen-app transfer. No results or released artifacts were independently reproduced.
+
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-26071/record.json
+
+## Authors
+
+Zhanhui Zhou, Weichen Zhang, Haoran Liu, Lingjie Chen, Tianneng Shi, Kevin Lin, Zhengyuan Yang, Lijuan Wang, Dawn Song
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-26071/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-26071/citation.csl.json
+
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.26071v1
+- First submission: 2026-10-19T09:30:54Z
+- Version updated: 2026-10-19T09:30:54Z
+- Abstract SHA-256: 0a297401f7ad4dcd2f485ade6bab295e365280bb803dcecc111aebf0693dd203
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B202610060000+TO+202610200000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T05:52:00Z; SHA-256 af310824eea97aac8209023ff53bad7bea77778816586b10bb94110148347af9)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22browser+agents%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22mobile+agents%22+OR+ti%3A%22desktop+agent%22%29+AND+submittedDate%3A%5B202610130000+TO+202610192359%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T08:27:26.236797+00:00; SHA-256 80bed80786f939973d0d13b4f892300fee02a6110e326247131fc83d257796de)
+- https://arxiv.org/html/2610.26071v1 (retrieved 2026-10-20T08:28:55.967592+00:00; SHA-256 d4231fa9677e916ca8cc27493dfbbe9fb34c7430207150e6b9be10c2bad43bfb)
+
+---
+
+# VeriCUA: Learning Proactive Verification for Reliable GUI Agent Rewards
+
+VeriCUA trains a Judge to select verification checks and stopping decisions while a frozen Probe inspects the post-task GUI. Single-attempt reinforcement learning balances verdict correctness and Probe use.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-26469/
+- Original source: https://arxiv.org/abs/2610.26469
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: desktop, linux, web, android
+- Topics: reward-models, reinforcement-learning, evaluation, efficiency
+- Evidence checked: 2026-10-20T08:27:26.236797+00:00
+- ID: arxiv:2610.26469
+
+## Limitations
+
+Reviewed the complete abstract and selected v1 method/evaluation sections. The Judge is trained on OSWorld and frozen for MobileWorld/WebArena transfer; downstream Actor RL is separate. Evaluation uses screened terminal outcomes, and reported cost counts Probe tokens. No independent reproduction.
+
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-26469/record.json
+
+## Authors
+
+Zhizhou Wang, Yaxi Lu, Zhong Zhang, Zikun Hu, Xin Cong, Yankai Lin, Fangming Liu
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-26469/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-26469/citation.csl.json
+
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.26469v1
+- First submission: 2026-10-19T14:17:33Z
+- Version updated: 2026-10-19T14:17:33Z
+- Abstract SHA-256: 08ef7c9cdda652f60d3f2d4ab89e7218ad5a2b85f5c76f0277c289db06fd2796
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B202610060000+TO+202610200000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T05:52:00Z; SHA-256 af310824eea97aac8209023ff53bad7bea77778816586b10bb94110148347af9)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22browser+agents%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22mobile+agents%22+OR+ti%3A%22desktop+agent%22%29+AND+submittedDate%3A%5B202610130000+TO+202610192359%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T08:27:26.236797+00:00; SHA-256 80bed80786f939973d0d13b4f892300fee02a6110e326247131fc83d257796de)
+- https://arxiv.org/html/2610.26469v1 (retrieved 2026-10-20T08:28:59.073204+00:00; SHA-256 f13f0225c721d5aa430bb8aea1d1e7a7da5973760c4c3b82f26ba648aade82ba)
+
+---
+
+# ScopeMem: Latent Memory That Learns Where to Revise Frozen GUI Agents
+
+ScopeMem conditions latent-memory prefixes on a frozen GUI agent's initial action and trains them to correct errors while preserving correct decisions. Its evaluation separates action repairs from harmful revisions.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-26503/
+- Original source: https://arxiv.org/abs/2610.26503
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: memory, interaction-history, imitation-learning, robustness, evaluation
+- Evidence checked: 2026-10-20T08:27:26.236797+00:00
+- ID: arxiv:2610.26503
+
+## Limitations
+
+Reviewed the complete abstract and selected v1 controlled-study, method and limitations sections. Results are offline, step-level action matching; online task success is explicitly left untested. The frozen actor is queried twice per step. No independent reproduction or redistribution-license claim.
+
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-26503/record.json
+
+## Authors
+
+Zhicheng Zheng, Cheng Zhang, Shengping Yu, Tianxiang Zhao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-26503/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-26503/citation.csl.json
+
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.26503v1
+- First submission: 2026-10-19T14:38:41Z
+- Version updated: 2026-10-19T14:38:41Z
+- Abstract SHA-256: 7dc2ceb9aadbf7506efc068df99326fea5b60fdc6feb340c490841b88aa19c30
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B202610060000+TO+202610200000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T05:52:00Z; SHA-256 af310824eea97aac8209023ff53bad7bea77778816586b10bb94110148347af9)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22browser+agents%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22mobile+agents%22+OR+ti%3A%22desktop+agent%22%29+AND+submittedDate%3A%5B202610130000+TO+202610192359%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T08:27:26.236797+00:00; SHA-256 80bed80786f939973d0d13b4f892300fee02a6110e326247131fc83d257796de)
+- https://arxiv.org/html/2610.26503v1 (retrieved 2026-10-20T08:29:02.225995+00:00; SHA-256 0554aa531a5f94f51cba6c51bd1b13fb05b0f462497afa5d1dae7ec6fc6e375a)
+
+---
+
+# Agent World Model in the Wild: Computer-Use Agent Environment Synthesis
+
+WildAWM synthesizes resettable GUI/MCP/CLI environments and cross-interface tasks, using execution-based checks of solvability, difficulty and verifier consistency before supervised and reinforcement learning.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-26828/
+- Original source: https://arxiv.org/abs/2610.26828
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web, desktop, linux
+- Topics: data-generation, sandbox, tool-integration, long-horizon, imitation-learning, reinforcement-learning
+- Evidence checked: 2026-10-20T08:27:26.236797+00:00
+- ID: arxiv:2610.26828
+
+## Limitations
+
+Reviewed the complete abstract and selected v1 synthesis, training and evaluation sections. The system uses hybrid GUI/MCP/CLI interfaces. Evaluation includes benchmark subsets and model-based judgments, so reported scores are not treated as directly comparable GUI-only results. No independent reproduction.
+
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-26828/record.json
+
+## Authors
+
+Zhaoyang Wang, Qianhui Wu, Haorui Wang, Simon Yu, Baolin Peng, Canwen Xu, Hao Cheng, Wenlin Yao, Boyi Liu, Yite Wang, Jianfeng Gao, Huaxiu Yao
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-26828/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-26828/citation.csl.json
+
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.26828v1
+- First submission: 2026-10-19T17:55:35Z
+- Version updated: 2026-10-19T17:55:35Z
+- Abstract SHA-256: 1f1ff33859352b61f017709fff91fd8e32f08636e9423fb044e7ca8e28f06905
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B202610060000+TO+202610200000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T05:52:00Z; SHA-256 af310824eea97aac8209023ff53bad7bea77778816586b10bb94110148347af9)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22browser+agents%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22mobile+agents%22+OR+ti%3A%22desktop+agent%22%29+AND+submittedDate%3A%5B202610130000+TO+202610192359%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T08:27:26.236797+00:00; SHA-256 80bed80786f939973d0d13b4f892300fee02a6110e326247131fc83d257796de)
+- https://arxiv.org/html/2610.26828v1 (retrieved 2026-10-20T08:29:05.337543+00:00; SHA-256 b680e07a5a883e7bb0210a1734a628be6c47d91b7df0487a2044d56d1b7e227e)
 
 ---
 

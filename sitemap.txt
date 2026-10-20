@@ -1197,6 +1197,10 @@ https://awesomecua.github.io/resources/arxiv-2610-20939/
 https://awesomecua.github.io/resources/arxiv-2610-22200/
 https://awesomecua.github.io/resources/arxiv-2610-22234/
 https://awesomecua.github.io/resources/arxiv-2610-22280/
+https://awesomecua.github.io/resources/arxiv-2610-26071/
+https://awesomecua.github.io/resources/arxiv-2610-26469/
+https://awesomecua.github.io/resources/arxiv-2610-26503/
+https://awesomecua.github.io/resources/arxiv-2610-26828/
 https://awesomecua.github.io/resources/component-google-research-android-control/
 https://awesomecua.github.io/resources/component-google-research-android-in-the-wild/
 https://awesomecua.github.io/resources/component-tencent-selfevolvingagent-webevolver/

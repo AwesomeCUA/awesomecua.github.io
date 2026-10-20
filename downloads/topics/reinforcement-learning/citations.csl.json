@@ -13894,6 +13894,219 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.26071v1",
+    "archive": "arXiv",
+    "archive_location": "2610.26071",
+    "author": [
+      {
+        "literal": "Zhanhui Zhou"
+      },
+      {
+        "literal": "Weichen Zhang"
+      },
+      {
+        "literal": "Haoran Liu"
+      },
+      {
+        "literal": "Lingjie Chen"
+      },
+      {
+        "literal": "Tianneng Shi"
+      },
+      {
+        "literal": "Kevin Lin"
+      },
+      {
+        "literal": "Zhengyuan Yang"
+      },
+      {
+        "literal": "Lijuan Wang"
+      },
+      {
+        "literal": "Dawn Song"
+      }
+    ],
+    "citation-key": "arxiv_2610_26071",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0a297401f7ad4dcd2f485ade6bab295e365280bb803dcecc111aebf0693dd203",
+        "submitted_at": "2026-10-19T09:30:54Z",
+        "updated_at": "2026-10-19T09:30:54Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.26071v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.26071",
+      "catalog_id": "arxiv:2610.26071",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-19",
+      "identifiers": {
+        "arxiv": "2610.26071"
+      },
+      "record_updated_at": "2026-10-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.26071",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T09:30:54Z.",
+    "title": "CUA-Lite: An Open Platform for Computer Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.26469v1",
+    "archive": "arXiv",
+    "archive_location": "2610.26469",
+    "author": [
+      {
+        "literal": "Zhizhou Wang"
+      },
+      {
+        "literal": "Yaxi Lu"
+      },
+      {
+        "literal": "Zhong Zhang"
+      },
+      {
+        "literal": "Zikun Hu"
+      },
+      {
+        "literal": "Xin Cong"
+      },
+      {
+        "literal": "Yankai Lin"
+      },
+      {
+        "literal": "Fangming Liu"
+      }
+    ],
+    "citation-key": "arxiv_2610_26469",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "08ef7c9cdda652f60d3f2d4ab89e7218ad5a2b85f5c76f0277c289db06fd2796",
+        "submitted_at": "2026-10-19T14:17:33Z",
+        "updated_at": "2026-10-19T14:17:33Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.26469v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.26469",
+      "catalog_id": "arxiv:2610.26469",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-19",
+      "identifiers": {
+        "arxiv": "2610.26469"
+      },
+      "record_updated_at": "2026-10-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.26469",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T14:17:33Z.",
+    "title": "VeriCUA: Learning Proactive Verification for Reliable GUI Agent Rewards",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.26828v1",
+    "archive": "arXiv",
+    "archive_location": "2610.26828",
+    "author": [
+      {
+        "literal": "Zhaoyang Wang"
+      },
+      {
+        "literal": "Qianhui Wu"
+      },
+      {
+        "literal": "Haorui Wang"
+      },
+      {
+        "literal": "Simon Yu"
+      },
+      {
+        "literal": "Baolin Peng"
+      },
+      {
+        "literal": "Canwen Xu"
+      },
+      {
+        "literal": "Hao Cheng"
+      },
+      {
+        "literal": "Wenlin Yao"
+      },
+      {
+        "literal": "Boyi Liu"
+      },
+      {
+        "literal": "Yite Wang"
+      },
+      {
+        "literal": "Jianfeng Gao"
+      },
+      {
+        "literal": "Huaxiu Yao"
+      }
+    ],
+    "citation-key": "arxiv_2610_26828",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1f1ff33859352b61f017709fff91fd8e32f08636e9423fb044e7ca8e28f06905",
+        "submitted_at": "2026-10-19T17:55:35Z",
+        "updated_at": "2026-10-19T17:55:35Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.26828v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.26828",
+      "catalog_id": "arxiv:2610.26828",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-19",
+      "identifiers": {
+        "arxiv": "2610.26828"
+      },
+      "record_updated_at": "2026-10-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.26828",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T17:55:35Z.",
+    "title": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://proceedings.mlr.press/v70/shi17a.html",
     "author": [
       {

@@ -22,7 +22,11 @@
     }
   },
   "environments": [
-    "unspecified"
+    "desktop",
+    "linux",
+    "windows",
+    "web",
+    "android"
   ],
   "evidence": [
     {
@@ -39,6 +43,34 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B202610060000+TO+202610200000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T08:27:26.236797+00:00",
+      "role": "primary",
+      "sha256": "80bed80786f939973d0d13b4f892300fee02a6110e326247131fc83d257796de",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "topics",
+        "scope"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22browser+agents%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22mobile+agents%22+OR+ti%3A%22desktop+agent%22%29+AND+submittedDate%3A%5B202610130000+TO+202610192359%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T08:28:55.967592+00:00",
+      "role": "primary",
+      "sha256": "d4231fa9677e916ca8cc27493dfbbe9fb34c7430207150e6b9be10c2bad43bfb",
+      "supports": [
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes"
+      ],
+      "url": "https://arxiv.org/html/2610.26071v1"
     }
   ],
   "id": "arxiv:2610.26071",
@@ -46,7 +78,7 @@
     "arxiv": "2610.26071"
   },
   "kind": "paper",
-  "last_verified_at": "2026-10-20T05:52:00Z",
+  "last_verified_at": "2026-10-20T08:27:26.236797+00:00",
   "licenses": {
     "code": null,
     "data": null,
@@ -55,18 +87,25 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2610.26071"
     }
   ],
   "name": "CUA-Lite: An Open Platform for Computer Use Agents",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "Reviewed the complete official abstract and selected v1 methods, training and limitations sections. WebVoyager uses offline mirrors; VM-free sandboxes are Linux-only, and reported desktop/mobile gains do not establish unseen-app transfer. No results or released artifacts were independently reproduced.",
   "published_at": "2026-10-19",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "CUA-Lite unifies environment interfaces, supervised data formats and per-model harnesses for evaluation, reinforcement learning and supervised fine-tuning across desktop, browser and mobile tasks.",
+  "topics": [
+    "tool-integration",
+    "data-generation",
+    "evaluation",
+    "imitation-learning",
+    "reinforcement-learning",
+    "sandbox"
+  ],
   "updated_at": "2026-10-19",
   "url": "https://arxiv.org/abs/2610.26071"
 }

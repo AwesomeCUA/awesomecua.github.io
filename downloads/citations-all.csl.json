@@ -179569,52 +179569,6 @@
     "version": "2"
   },
   {
-    "URL": "https://arxiv.org/abs/2609.35239v1",
-    "archive": "arXiv",
-    "archive_location": "2609.35239",
-    "author": [
-      {
-        "literal": "Keisuke Fujii"
-      }
-    ],
-    "citation-key": "arxiv_2609_35239",
-    "custom": {
-      "arxiv_snapshot": {
-        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-        "abstract_sha256": "61536dbee2d03e8152a02b74a3338a8f4f0fd03ce8dff0dc912835615addd175",
-        "submitted_at": "2026-09-28T14:13:36Z",
-        "updated_at": "2026-09-28T14:13:36Z",
-        "version": 1,
-        "versioned_url": "https://arxiv.org/abs/2609.35239v1"
-      },
-      "canonical_source_url": "https://arxiv.org/abs/2609.35239",
-      "catalog_id": "arxiv:2609.35239",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
-      "first_published_at": "2026-09-28",
-      "identifiers": {
-        "arxiv": "2609.35239"
-      },
-      "record_updated_at": "2026-09-28"
-    },
-    "genre": "preprint",
-    "id": "arxiv:2609.35239",
-    "issued": {
-      "date-parts": [
-        [
-          2026,
-          9,
-          28
-        ]
-      ]
-    },
-    "note": "First published: 2026-09-28; Recorded arXiv version: v1; Recorded version updated: 2026-09-28T14:13:36Z.",
-    "title": "Computational Complexity of Clifford Template Compilation: Are Quantum Computers Useful for Compiling Quantum Circuits?",
-    "type": "article",
-    "version": "1"
-  },
-  {
     "URL": "https://arxiv.org/abs/2609.35394v1",
     "archive": "arXiv",
     "archive_location": "2609.35394",
@@ -184309,73 +184263,6 @@
     "version": "1"
   },
   {
-    "URL": "https://arxiv.org/abs/2610.11992v1",
-    "archive": "arXiv",
-    "archive_location": "2610.11992",
-    "author": [
-      {
-        "literal": "Dip Manna"
-      },
-      {
-        "literal": "Koushik Mondal"
-      },
-      {
-        "literal": "Subhajit Karmakar"
-      },
-      {
-        "literal": "Pawan Kumar Ojha"
-      },
-      {
-        "literal": "Sourav Roy"
-      },
-      {
-        "literal": "Biswarup Satpati"
-      },
-      {
-        "literal": "Prasanta Karmakar"
-      },
-      {
-        "literal": "Supratic Chakraborty"
-      }
-    ],
-    "citation-key": "arxiv_2610_11992",
-    "custom": {
-      "arxiv_snapshot": {
-        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
-        "abstract_sha256": "d60174947994017bca6b71a685da533f7043ba0f723e0feb138793515cf218bd",
-        "submitted_at": "2026-10-08T14:01:04Z",
-        "updated_at": "2026-10-08T14:01:04Z",
-        "version": 1,
-        "versioned_url": "https://arxiv.org/abs/2610.11992v1"
-      },
-      "canonical_source_url": "https://arxiv.org/abs/2610.11992",
-      "catalog_id": "arxiv:2610.11992",
-      "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
-      "first_published_at": "2026-10-08",
-      "identifiers": {
-        "arxiv": "2610.11992"
-      },
-      "record_updated_at": "2026-10-08"
-    },
-    "genre": "preprint",
-    "id": "arxiv:2610.11992",
-    "issued": {
-      "date-parts": [
-        [
-          2026,
-          10,
-          8
-        ]
-      ]
-    },
-    "note": "First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T14:01:04Z.",
-    "title": "Multifunctional synaptic learning and neuromorphic computing using crystalline TiO$_x$/NiO$_x$ heterojunction-based memory devices",
-    "type": "article",
-    "version": "1"
-  },
-  {
     "URL": "https://arxiv.org/abs/2610.12611v2",
     "archive": "arXiv",
     "archive_location": "2610.12611",
@@ -188256,8 +188143,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.26071",
       "catalog_id": "arxiv:2610.26071",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-19",
       "identifiers": {
         "arxiv": "2610.26071"
@@ -188390,8 +188277,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.26469",
       "catalog_id": "arxiv:2610.26469",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-19",
       "identifiers": {
         "arxiv": "2610.26469"
@@ -188445,8 +188332,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.26503",
       "catalog_id": "arxiv:2610.26503",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-19",
       "identifiers": {
         "arxiv": "2610.26503"
@@ -188643,8 +188530,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.26828",
       "catalog_id": "arxiv:2610.26828",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-19",
       "identifiers": {
         "arxiv": "2610.26828"
