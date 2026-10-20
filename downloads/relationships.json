@@ -1,5 +1,5 @@
 {
-  "relation_count": 409,
+  "relation_count": 411,
   "semantics": "Reviewed semantic links only. Documentation does not establish training or evaluation dependency.",
   "relations": [
     {
@@ -625,6 +625,22 @@
       "evidence_url": "https://raw.githubusercontent.com/KDEGroup/UI-AGILE/HEAD/README.md",
       "target_id": "arxiv:2507.22025",
       "type": "documented_by"
+    },
+    {
+      "source_id": "github:kwai/memgui-agent",
+      "source_name": "MemGUI-Agent",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/kwai/MemGUI-Agent/main/README.md",
+      "target_id": "arxiv:2606.19926",
+      "type": "introduced_by"
+    },
+    {
+      "source_id": "github:kwai/mobileforge",
+      "source_name": "MobileForge",
+      "source_kind": "framework",
+      "evidence_url": "https://raw.githubusercontent.com/kwai/MobileForge/main/README.md",
+      "target_id": "arxiv:2606.19930",
+      "type": "introduced_by"
     },
     {
       "source_id": "github:laokuize/appagent-pro",

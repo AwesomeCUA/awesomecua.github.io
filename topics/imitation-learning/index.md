@@ -154,6 +154,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/imitation-lea
   Query-inference training tools connecting screenshot grounding with GUI action reasoning, including preprocessing, query refinement and offline single-step evaluation on AndroidControl and AITZ.
 - [LearnAct](https://awesomecua.github.io/resources/github-lgy0404-learnact/) — Date not recorded
   Released inference and evaluation code for demonstration-conditioned mobile GUI agents on LearnGUI-Offline. The repository describes a multi-agent adaptation method and links the LearnGUI demonstrations.
+- [MemGUI-Agent](https://awesomecua.github.io/resources/github-kwai-memgui-agent/) — Date not recorded
+  MemGUI-Agent training and offline evaluation tools provide trajectory conversion, LoRA SFT templates, and step-level checks of GUI actions, memory updates and context folding.
 - [PC-Agent-E training and deployment](https://awesomecua.github.io/resources/github-gair-nlp-pc-agent-e/) — Date not recorded
   Tools for refining and augmenting human computer-use trajectories, preparing supervised training data, and deploying a native PC-Agent-E scaffold.
 - [Synapse](https://awesomecua.github.io/resources/github-ltzheng-synapse/) — Date not recorded

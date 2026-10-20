@@ -333,6 +333,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/memory/record
   Modular web-agent framework with browser control, planning, workflow memory, and tree-search components, plus web and extension interfaces.
 - [Lumen browser agent](https://awesomecua.github.io/resources/github-omxyz-lumen/) — Date not recorded
   A screenshot-driven browser agent over Chrome DevTools Protocol, with resumable sessions, context compression, action replay and configurable completion checks.
+- [MemGUI-Agent](https://awesomecua.github.io/resources/github-kwai-memgui-agent/) — Date not recorded
+  MemGUI-Agent training and offline evaluation tools provide trajectory conversion, LoRA SFT templates, and step-level checks of GUI actions, memory updates and context folding.
 - [MobA](https://awesomecua.github.io/resources/github-opendfm-moba/) — Date not recorded
   An Android agent that combines global task planning and memory with a local action executor, using reflection to revise mobile interaction steps.
 - [Mobile-Agent-E code component](https://awesomecua.github.io/resources/component-x-plug-mobileagent-mobile-agent-e/) — Date not recorded

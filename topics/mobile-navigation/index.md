@@ -538,6 +538,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/mobile-naviga
   Android automation component with hierarchical planning, reflection and persistent tips/shortcuts learned across task sequences.
 - [MobileAgent (Alipay)](https://awesomecua.github.io/resources/github-alipay-mobile-agent/) — Date not recorded
   Mobile-control research implementation combining operating-procedure context with human interaction for personalized task execution.
+- [MobileForge](https://awesomecua.github.io/resources/github-kwai-mobileforge/) — Date not recorded
+  Android GUI-agent adaptation framework combining app exploration, generated curricula and rollout feedback with hint-conditioned step-level GRPO; the documented public training path targets Qwen3-VL-8B.
 - [MobileGPT](https://awesomecua.github.io/resources/github-fclab-skku-mobilegpt/) — Date not recorded
   An Android client and Python-server agent that learns reusable app subtasks through exploration, selection, derivation and memory recall.
 - [Mobilerun (formerly Droidrun)](https://awesomecua.github.io/resources/github-droidrun-mobilerun/) — Date not recorded

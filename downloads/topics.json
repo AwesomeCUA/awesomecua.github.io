@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "catalog_sha256": "f3651124da8fca145288efe83b584b4e298af6a7aa807b5b53236e6d7f8d13ad",
+  "catalog_sha256": "35064aaf3459f4e4353684edf9be12fef156ba7f098181742114d5eeac3710e5",
   "membership_policy": "Explicit reviewed topic tags only; curated core/adjacent resources. No title-based inference.",
   "count_policy": "Resources are not independent projects. Topic memberships overlap; do not sum topic totals.",
   "citation_policy": "Default retained-source edition; source-specific author/date precision and paper versions are preserved.",
-  "reviewed_resources": 1627,
-  "resources_with_topics": 1627,
+  "reviewed_resources": 1629,
+  "resources_with_topics": 1629,
   "reviewed_resources_without_topics": 0,
   "topics": [
     {
@@ -351,12 +351,12 @@
         "zh": "数据生成"
       },
       "counts": {
-        "total": 338,
+        "total": 339,
         "papers": 258,
         "benchmarks": 0,
         "datasets": 55,
         "models": 2,
-        "systems": 23
+        "systems": 24
       },
       "resource_ids": [
         "arxiv:1808.09132",
@@ -627,6 +627,7 @@
         "github:euphoria16/ui-genie",
         "github:fanbinlu/steve-r1",
         "github:gair-nlp/pc-agent-e",
+        "github:kwai/mobileforge",
         "github:mobilellm/autodroid-v2",
         "github:murtyshikhar/nnetnav",
         "github:neulab/multiui",
@@ -705,9 +706,9 @@
       "exports": [
         {
           "url": "/downloads/topics/data-generation/records.jsonl",
-          "records": 338,
-          "bytes": 1074413,
-          "sha256": "1f3584057005159a1fba0caf349ec41d5e2e402d507db08c01b402f673594c5b"
+          "records": 339,
+          "bytes": 1077861,
+          "sha256": "40fe9336152aaf455800cfaea6128f9b219f88e8011dea835b57755fe52f1c15"
         },
         {
           "url": "/downloads/topics/data-generation/citations.bib",
@@ -921,12 +922,12 @@
         "zh": "评测"
       },
       "counts": {
-        "total": 689,
+        "total": 691,
         "papers": 568,
         "benchmarks": 86,
         "datasets": 9,
         "models": 1,
-        "systems": 25
+        "systems": 27
       },
       "resource_ids": [
         "arxiv:1602.02261",
@@ -1526,6 +1527,8 @@
         "github:jetastra/macagentbench",
         "github:jylee425/b-moca",
         "github:jylee425/mobilesafetybench",
+        "github:kwai/memgui-agent",
+        "github:kwai/mobileforge",
         "github:kyle8581/web-shepherd",
         "github:lgy0404/learnact",
         "github:likaixin2000/screenspot-pro-gui-grounding",
@@ -1626,9 +1629,9 @@
       "exports": [
         {
           "url": "/downloads/topics/evaluation/records.jsonl",
-          "records": 689,
-          "bytes": 2195478,
-          "sha256": "423a9c30812ae16ed36dbc79364bc9885590e6958707092084f4be54cb0fc48a"
+          "records": 691,
+          "bytes": 2202099,
+          "sha256": "4da01c4d50ead4787bc50a77eba86fd32c7b5446ca0f0dde3ddddebef486f0c4"
         },
         {
           "url": "/downloads/topics/evaluation/citations.bib",
@@ -2235,12 +2238,12 @@
         "zh": "模仿学习"
       },
       "counts": {
-        "total": 74,
+        "total": 75,
         "papers": 44,
         "benchmarks": 1,
         "datasets": 14,
         "models": 5,
-        "systems": 10
+        "systems": 11
       },
       "resource_ids": [
         "arxiv:1909.00031",
@@ -2291,6 +2294,7 @@
         "github:euphoria16/ui-genie",
         "github:gair-nlp/pc-agent-e",
         "github:ghadinehme/videocad",
+        "github:kwai/memgui-agent",
         "github:lgy0404/learnact",
         "github:ltzheng/synapse",
         "github:mcgill-nlp/webllama",
@@ -2325,9 +2329,9 @@
       "exports": [
         {
           "url": "/downloads/topics/imitation-learning/records.jsonl",
-          "records": 74,
-          "bytes": 249748,
-          "sha256": "d067fef7cdbf1a1274600ac2f9548ef19b030381f819ba972f3a44bb1074780d"
+          "records": 75,
+          "bytes": 252921,
+          "sha256": "3da8d7b929b5d025528bec21b720d98c306e4fec5ba00046abd670d97d9c8462"
         },
         {
           "url": "/downloads/topics/imitation-learning/citations.bib",
@@ -2418,12 +2422,12 @@
         "zh": "交互历史"
       },
       "counts": {
-        "total": 47,
+        "total": 48,
         "papers": 46,
         "benchmarks": 0,
         "datasets": 0,
         "models": 1,
-        "systems": 0
+        "systems": 1
       },
       "resource_ids": [
         "arxiv:2310.18331",
@@ -2471,6 +2475,7 @@
         "arxiv:2609.10297",
         "arxiv:2609.15457",
         "arxiv:2609.27307",
+        "github:kwai/memgui-agent",
         "url:085b6811ddd6f797475d",
         "url:bf0c11018e49dff6aeec"
       ],
@@ -2481,9 +2486,9 @@
       "exports": [
         {
           "url": "/downloads/topics/interaction-history/records.jsonl",
-          "records": 47,
-          "bytes": 146601,
-          "sha256": "d07b26184bdbc3a77da901a80b9260cc5294c15a4fb0145105f3f5c1936645d0"
+          "records": 48,
+          "bytes": 149774,
+          "sha256": "0a9b7987cfe3640a449bf84ff4827d4855850ce6923db84d9db41a92867858af"
         },
         {
           "url": "/downloads/topics/interaction-history/citations.bib",
@@ -2506,12 +2511,12 @@
         "zh": "长任务"
       },
       "counts": {
-        "total": 101,
+        "total": 102,
         "papers": 90,
         "benchmarks": 5,
         "datasets": 1,
         "models": 1,
-        "systems": 4
+        "systems": 5
       },
       "resource_ids": [
         "arxiv:2307.13854",
@@ -2606,6 +2611,7 @@
         "arxiv:2610.18784",
         "github:cvc2233/androtmem",
         "github:jia-lab-research/arpo",
+        "github:kwai/memgui-agent",
         "github:madeagents/colorbench",
         "github:mobilellm/agentprog",
         "github:os-copilot/os-map",
@@ -2623,9 +2629,9 @@
       "exports": [
         {
           "url": "/downloads/topics/long-horizon/records.jsonl",
-          "records": 101,
-          "bytes": 325875,
-          "sha256": "8203e6fb7fa4bc9ece5fde19e425c049723f81f2cf4a0fbfe449e6790961d7f7"
+          "records": 102,
+          "bytes": 329048,
+          "sha256": "d2e2695f203fa0e6f0c0703831ec8cb1287837845a9a27cba7bd9329b38aaa0d"
         },
         {
           "url": "/downloads/topics/long-horizon/citations.bib",
@@ -2648,12 +2654,12 @@
         "zh": "记忆"
       },
       "counts": {
-        "total": 165,
+        "total": 166,
         "papers": 147,
         "benchmarks": 1,
         "datasets": 2,
         "models": 0,
-        "systems": 15
+        "systems": 16
       },
       "resource_ids": [
         "arxiv:2306.07863",
@@ -2808,6 +2814,7 @@
         "github:cvc2233/androtmem",
         "github:dmis-lab/switchmem",
         "github:fclab-skku/mobilegpt",
+        "github:kwai/memgui-agent",
         "github:ljang0/iosworld",
         "github:ltzheng/synapse",
         "github:magicgh/self-map",
@@ -2829,9 +2836,9 @@
       "exports": [
         {
           "url": "/downloads/topics/memory/records.jsonl",
-          "records": 165,
-          "bytes": 519496,
-          "sha256": "25820a7192931c1f3d78a669daa684f73612d60972e07e0d7060ba0a6e37d825"
+          "records": 166,
+          "bytes": 522669,
+          "sha256": "cfbfbb8a0b4f59609dd7808e29606ece8aa23acefcae577c82ff90c015d0d494"
         },
         {
           "url": "/downloads/topics/memory/citations.bib",
@@ -2854,12 +2861,12 @@
         "zh": "手机操作"
       },
       "counts": {
-        "total": 271,
+        "total": 272,
         "papers": 200,
         "benchmarks": 14,
         "datasets": 13,
         "models": 15,
-        "systems": 29
+        "systems": 30
       },
       "resource_ids": [
         "arxiv:1909.00031",
@@ -3075,6 +3082,7 @@
         "github:google-research/android_world",
         "github:imnearth/coat",
         "github:jacklishufan/mobileworld",
+        "github:kwai/mobileforge",
         "github:laokuize/appagent-pro",
         "github:lgy0404/learnact",
         "github:madeagents/colorbench",
@@ -3141,9 +3149,9 @@
       "exports": [
         {
           "url": "/downloads/topics/mobile-navigation/records.jsonl",
-          "records": 271,
-          "bytes": 887677,
-          "sha256": "d01a145d542fc072a311238625b7d0246551ae26e42e658503f1d2fa8272493a"
+          "records": 272,
+          "bytes": 891125,
+          "sha256": "c73284405e2649e2154ae4c5be454b9e9a0af2fb9e98408ffe145793f415feac"
         },
         {
           "url": "/downloads/topics/mobile-navigation/citations.bib",
@@ -3626,12 +3634,12 @@
         "zh": "强化学习"
       },
       "counts": {
-        "total": 232,
+        "total": 233,
         "papers": 182,
         "benchmarks": 2,
         "datasets": 5,
         "models": 23,
-        "systems": 20
+        "systems": 21
       },
       "resource_ids": [
         "arxiv:1802.08802",
@@ -3823,6 +3831,7 @@
         "github:hud-evals/hud-python",
         "github:jia-lab-research/arpo",
         "github:kdegroup/ui-agile",
+        "github:kwai/mobileforge",
         "github:lll6gg/ui-r1",
         "github:meituan/evocua",
         "github:microsoft/gui-agent-rl",
@@ -3874,9 +3883,9 @@
       "exports": [
         {
           "url": "/downloads/topics/reinforcement-learning/records.jsonl",
-          "records": 232,
-          "bytes": 702637,
-          "sha256": "002ff747ca212711894fef155b97d9892c77225026b05899c85307887ae5245a"
+          "records": 233,
+          "bytes": 706085,
+          "sha256": "09427edc791ff6a944fd7bbdb976b40220c0bb13666e65626b8633d2438dbf24"
         },
         {
           "url": "/downloads/topics/reinforcement-learning/citations.bib",

@@ -462,6 +462,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/reinforcement
   GUI-grounding research code for spatial voting across sampled predictions and test-time policy optimization using region-consistency rewards.
 - [HUD](https://awesomecua.github.io/resources/github-hud-evals-hud-python/) — Date not recorded
   SDK for RL environments and evals spanning coding, browser, computer-use and robotics agents, whose environments expose SSH, MCP, CDP or VNC capabilities behind a minimal start-and-grade protocol.
+- [MobileForge](https://awesomecua.github.io/resources/github-kwai-mobileforge/) — Date not recorded
+  Android GUI-agent adaptation framework combining app exploration, generated curricula and rollout feedback with hint-conditioned step-level GRPO; the documented public training path targets Qwen3-VL-8B.
 - [MobileRL](https://awesomecua.github.io/resources/github-thudm-mobilerl/) — Date not recorded
   Online agentic RL framework for mobile GUI agents built around the difficulty-adaptive ADAGRPO algorithm, with Dockerized AndroidWorld and AndroidLab evaluation and a MobileRL-9B checkpoint.
 - [Proposer-Agent-Evaluator (PAE)](https://awesomecua.github.io/resources/github-amazon-science-pae/) — Date not recorded

@@ -220,3 +220,5 @@ Full source records: https://awesomecua.github.io/downloads/topics/long-horizon/
   A public Android GUI evaluation framework with action-history, summary and anchored-memory prompt modes, plus step-action and dependency-aware task scoring.
 - [ARPO training framework](https://awesomecua.github.io/resources/github-jia-lab-research-arpo/) — Date not recorded
   Replay-based policy-optimization framework for GUI agents, with distributed OSWorld rollouts and screenshot/action histories.
+- [MemGUI-Agent](https://awesomecua.github.io/resources/github-kwai-memgui-agent/) — Date not recorded
+  MemGUI-Agent training and offline evaluation tools provide trajectory conversion, LoRA SFT templates, and step-level checks of GUI actions, memory updates and context folding.

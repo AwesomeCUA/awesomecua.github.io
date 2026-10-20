@@ -661,6 +661,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/data-generati
   Released data-synthesis and evaluation scripts that distill planning and causal GUI knowledge into text for mid-training mobile interface agents.
 - [GUI-ReWalk](https://awesomecua.github.io/resources/github-bytedance-gui-rewalk/) — Date not recorded
   A desktop trajectory-generation framework that moves from stochastic GUI exploration to inferred goals and multi-stage task completion, with retrospective reasoning annotations.
+- [MobileForge](https://awesomecua.github.io/resources/github-kwai-mobileforge/) — Date not recorded
+  Android GUI-agent adaptation framework combining app exploration, generated curricula and rollout feedback with hint-conditioned step-level GRPO; the documented public training path targets Qwen3-VL-8B.
 - [NNetNav](https://awesomecua.github.io/resources/github-murtyshikhar-nnetnav/) — Date not recorded
   Collects and labels browser-exploration trajectories for agent training, with code for data processing, fine-tuning, and web evaluation.
 - [PC-Agent-E training and deployment](https://awesomecua.github.io/resources/github-gair-nlp-pc-agent-e/) — Date not recorded

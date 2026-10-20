@@ -1293,6 +1293,8 @@ https://awesomecua.github.io/resources/github-jia-lab-research-arpo/
 https://awesomecua.github.io/resources/github-jylee425-b-moca/
 https://awesomecua.github.io/resources/github-jylee425-mobilesafetybench/
 https://awesomecua.github.io/resources/github-kdegroup-ui-agile/
+https://awesomecua.github.io/resources/github-kwai-memgui-agent/
+https://awesomecua.github.io/resources/github-kwai-mobileforge/
 https://awesomecua.github.io/resources/github-kyle8581-web-shepherd/
 https://awesomecua.github.io/resources/github-laokuize-appagent-pro/
 https://awesomecua.github.io/resources/github-lavague-ai-lavague/
