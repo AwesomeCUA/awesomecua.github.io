@@ -14,6 +14,10 @@ Full source records: https://awesomecua.github.io/downloads/topics/imitation-lea
   FocusGUI learns step-specific weights over screenshot, audio, video and interaction-context channels, injecting a compact residual into a frozen decoder without pruning its inputs.
 - [CUA-Lite: An Open Platform for Computer Use Agents](https://awesomecua.github.io/resources/arxiv-2610-26071/) — 2026-10-19
   CUA-Lite unifies environment interfaces, supervised data formats and per-model harnesses for evaluation, reinforcement learning and supervised fine-tuning across desktop, browser and mobile tasks.
+- [Don't Retrain, Remix: Adaptation of Web Agents using Mixture Hypernetworks](https://awesomecua.github.io/resources/arxiv-2610-22539/) — 2026-10-15
+  WebMix uses a scout-produced interface manual to route mixtures of source-trained LoRA adapters for web agents, adapting to target interfaces without target-time gradient updates.
+- [From Tapping to Hopping: Augmenting Mobile GUI Agents with App-Native Deeplinks](https://awesomecua.github.io/resources/arxiv-2609-30887/) — 2026-09-25
+  GUI-Hopper combines verified Android deeplinks with GUI actions, using landing-screen descriptions, hybrid trajectory training and reinforcement learning to select navigation shortcuts and recover through GUI control.
 - [Guides That Cause Actions: An Offline Study of Guide-Action Mutual Reinforcement in Multimodal Web Agents](https://awesomecua.github.io/resources/arxiv-2609-27353/) — 2026-09-23
   WebMRE pairs guidance sentences with grounded actions in an offline benchmark derived from successful WebArena traces. Controlled decoding-prefix interventions test how guide content affects action selection, while separating offline prediction metrics from live browser task success.
 - [Learn How to Act from Your Own Interactions: On-Policy Self-Distillation for GUI Agents](https://awesomecua.github.io/resources/arxiv-2609-27307/) — 2026-09-23

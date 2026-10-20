@@ -19,7 +19,7 @@
     }
   },
   "environments": [
-    "unspecified"
+    "desktop"
   ],
   "evidence": [
     {
@@ -36,6 +36,32 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B202610050000+TO+202610190000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T08:27:26.236797+00:00",
+      "role": "primary",
+      "sha256": "80bed80786f939973d0d13b4f892300fee02a6110e326247131fc83d257796de",
+      "supports": [
+        "name",
+        "kind",
+        "scope"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22browser+agents%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22mobile+agents%22+OR+ti%3A%22desktop+agent%22%29+AND+submittedDate%3A%5B202610130000+TO+202610192359%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T10:34:04.380045+00:00",
+      "role": "primary",
+      "sha256": "75c025a862a046b8bcbdd84b800a37132edcc1ec271d40c57c18ec984652a0b0",
+      "supports": [
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes"
+      ],
+      "url": "https://arxiv.org/html/2610.23012v1"
     }
   ],
   "id": "arxiv:2610.23012",
@@ -43,7 +69,7 @@
     "arxiv": "2610.23012"
   },
   "kind": "paper",
-  "last_verified_at": "2026-10-19T04:42:05Z",
+  "last_verified_at": "2026-10-20T08:27:26.236797+00:00",
   "licenses": {
     "code": null,
     "data": null,
@@ -52,18 +78,22 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2610.23012"
     }
   ],
   "name": "Adaptation of Computer Use Agents to New Software with User Manuals",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "Reviewed the complete retained abstract and selected exact-v1 methods, evaluation and validation sections. Execution plans stay fixed per episode; policy training is separate and application-specific. Screenshot-based training/Slack judgments can miss task conditions, and OSWorld tasks may overlap backbone pretraining. No independent reproduction, safe-deployment guarantee or artifact-release verification.",
   "published_at": "2026-10-16",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "MAGE retrieves software-manual sections into fixed execution plans and generates setup/main task-plan pairs whose GUI rollouts support application-specific policy adaptation with round-based GRPO.",
+  "topics": [
+    "planning",
+    "data-generation",
+    "reinforcement-learning"
+  ],
   "updated_at": "2026-10-16",
   "url": "https://arxiv.org/abs/2610.23012"
 }

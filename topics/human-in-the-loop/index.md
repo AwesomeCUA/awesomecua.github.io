@@ -8,6 +8,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/human-in-the-
 
 - [SPIDES: Information-Flow Control for Browser Agents](https://awesomecua.github.io/resources/arxiv-2610-24277/) — 2026-10-16
   SPIDES propagates HTML integrity and confidentiality labels into agent context and mediates browser actions with information-flow policies and approval gates, evaluated in the labeled MicroNet ecosystem.
+- [PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas](https://awesomecua.github.io/resources/arxiv-2610-22990/) — 2026-10-16
+  PersonaCUABench varies simulated user requests and clarification dialogue over fixed web tasks, comparing task completion with requirement handling and persona-agent satisfaction ratings.
 - [Task-State Governance: A Virtual Machine for Verifiable and Recoverable GUI Agent Execution](https://awesomecua.github.io/resources/arxiv-2610-20100/) — 2026-10-14
   Presents TaskVM, an interface for specifying desired and preserved application state, checking agent actions, and exposing whether changes can be reversed or compensated.
 - [ERPBench: A State-Grounded Evaluation Paradigm for Computer-Use Agents in Enterprise Software](https://awesomecua.github.io/resources/arxiv-2609-17885/) — 2026-09-15

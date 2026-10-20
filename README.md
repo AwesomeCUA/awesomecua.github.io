@@ -44,9 +44,9 @@ python3 scripts/catalog.py get arxiv:2404.07972 --related --json
 
 </details>
 
-**3,207 resource records** · **1,638 curated** · **2,745 paper and survey records** · **54 discovery documents**
+**3,207 resource records** · **1,643 curated** · **2,745 paper and survey records** · **54 discovery documents**
 
-Evidence snapshot: 2026-10-20T09:17:36.223826+00:00. Bibliography counts overlap review-state counts. Resources are not independent projects.
+Evidence snapshot: 2026-10-20T10:53:44.035673+00:00. Bibliography counts overlap review-state counts. Resources are not independent projects.
 
 ## What is a computer-use agent?
 
@@ -79,9 +79,9 @@ Category pages highlight reviewed resources; the [interactive catalog](https://a
 - [Tandem: Serving Hybrid Linear-Attention GUI Agents on Mobile NPUs](https://awesomecua.github.io/resources/arxiv-2610-26660/) — Tandem serves hybrid GUI-agent models on Android NPUs using divergence-point state checkpoints, rollback-aware speculative decoding and idle power release between request bursts. [Original paper](https://arxiv.org/abs/2610.26660).
 - [Comparing Computer Use Behavior Across Multiple Levels of Abstraction](https://awesomecua.github.io/resources/arxiv-2610-26703/) — MAP annotates computer-use traces at linked operation, function/consequence, method and goal levels, then compares human and agent workflows through sequence, pattern and effort metrics. [Original paper](https://arxiv.org/abs/2610.26703).
 - [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](https://awesomecua.github.io/resources/arxiv-2610-26828/) — WildAWM synthesizes resettable GUI/MCP/CLI environments and cross-interface tasks, using execution-based checks of solvability, difficulty and verifier consistency before supervised and reinforcement learning. [Original paper](https://arxiv.org/abs/2610.26828).
-- [MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection](https://awesomecua.github.io/resources/arxiv-2610-23307/) — MobileInject evaluates visual/textual observation injection in stateful Android workflows using resettable emulators, benign/adversarial state oracles and trace-based diagnosis of emitted rationales and actions. [Original paper](https://arxiv.org/abs/2610.23307).
-- [SPIDES: Information-Flow Control for Browser Agents](https://awesomecua.github.io/resources/arxiv-2610-24277/) — SPIDES propagates HTML integrity and confidentiality labels into agent context and mediates browser actions with information-flow policies and approval gates, evaluated in the labeled MicroNet ecosystem. [Original paper](https://arxiv.org/abs/2610.24277).
-- [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://awesomecua.github.io/resources/arxiv-2610-22200/) — Introduces an open generalist computer-use stack combining visual and programmatic interaction, with model-controlled observation and task-state decisions. [Original paper](https://arxiv.org/abs/2610.22200).
+- [PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas](https://awesomecua.github.io/resources/arxiv-2610-22990/) — PersonaCUABench varies simulated user requests and clarification dialogue over fixed web tasks, comparing task completion with requirement handling and persona-agent satisfaction ratings. [Original paper](https://arxiv.org/abs/2610.22990).
+- [Adaptation of Computer Use Agents to New Software with User Manuals](https://awesomecua.github.io/resources/arxiv-2610-23012/) — MAGE retrieves software-manual sections into fixed execution plans and generates setup/main task-plan pairs whose GUI rollouts support application-specific policy adaptation with round-based GRPO. [Original paper](https://arxiv.org/abs/2610.23012).
+- [MobileJailBench: Red Queen Jailbreak Benchmarking for Mobile Agents](https://awesomecua.github.io/resources/arxiv-2610-23303/) — MobileJailBench evaluates mobile-agent jailbreaks in a browser-based Android-like simulator, combining feedback-driven attack evolution, separately admitted task expansions and evidence-grounded outcome adjudication. [Original paper](https://arxiv.org/abs/2610.23303).
 
 [All reviewed papers and surveys](https://awesomecua.github.io/papers/). Annotations do not independently reproduce experimental findings.
 

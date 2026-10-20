@@ -3241,6 +3241,134 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2609.30887v1",
+    "archive": "arXiv",
+    "archive_location": "2609.30887",
+    "author": [
+      {
+        "literal": "Yuchen Sun"
+      },
+      {
+        "literal": "Chenglin Cai"
+      },
+      {
+        "literal": "Gongjie Zhang"
+      },
+      {
+        "literal": "Tianyu Xia"
+      },
+      {
+        "literal": "Quyu Kong"
+      },
+      {
+        "literal": "Panrong Tong"
+      },
+      {
+        "literal": "Zhengwen Zeng"
+      },
+      {
+        "literal": "Long Chen"
+      },
+      {
+        "literal": "Steven Hoi"
+      },
+      {
+        "literal": "Chongyang Zhang"
+      },
+      {
+        "literal": "Yue Wang"
+      }
+    ],
+    "citation-key": "arxiv_2609_30887",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "838635f067b706c7b36a948c8100b30bf4cacd218470aaed6970e5186fa44fb9",
+        "submitted_at": "2026-09-25T06:50:04Z",
+        "updated_at": "2026-09-25T06:50:04Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.30887v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.30887",
+      "catalog_id": "arxiv:2609.30887",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-25",
+      "identifiers": {
+        "arxiv": "2609.30887"
+      },
+      "record_updated_at": "2026-09-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.30887",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-25; Recorded arXiv version: v1; Recorded version updated: 2026-09-25T06:50:04Z.",
+    "title": "From Tapping to Hopping: Augmenting Mobile GUI Agents with App-Native Deeplinks",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.22539v1",
+    "archive": "arXiv",
+    "archive_location": "2610.22539",
+    "author": [
+      {
+        "literal": "Md Farhan Ishmam"
+      },
+      {
+        "literal": "Minh Pham Dinh"
+      },
+      {
+        "literal": "Kenneth Marino"
+      }
+    ],
+    "citation-key": "arxiv_2610_22539",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0f064032a0b0d673273d90a9250c76a6b823b1728761635b8a555a0bd96b888a",
+        "submitted_at": "2026-10-15T18:37:41Z",
+        "updated_at": "2026-10-15T18:37:41Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.22539v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.22539",
+      "catalog_id": "arxiv:2610.22539",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-15",
+      "identifiers": {
+        "arxiv": "2610.22539"
+      },
+      "record_updated_at": "2026-10-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.22539",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T18:37:41Z.",
+    "title": "Don't Retrain, Remix: Adaptation of Web Agents using Mixture Hypernetworks",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.26071v1",
     "archive": "arXiv",
     "archive_location": "2610.26071",

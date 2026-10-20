@@ -8,6 +8,10 @@ Full source records: https://awesomecua.github.io/downloads/topics/web-navigatio
 
 - [SPIDES: Information-Flow Control for Browser Agents](https://awesomecua.github.io/resources/arxiv-2610-24277/) — 2026-10-16
   SPIDES propagates HTML integrity and confidentiality labels into agent context and mediates browser actions with information-flow policies and approval gates, evaluated in the labeled MicroNet ecosystem.
+- [PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas](https://awesomecua.github.io/resources/arxiv-2610-22990/) — 2026-10-16
+  PersonaCUABench varies simulated user requests and clarification dialogue over fixed web tasks, comparing task completion with requirement handling and persona-agent satisfaction ratings.
+- [Don't Retrain, Remix: Adaptation of Web Agents using Mixture Hypernetworks](https://awesomecua.github.io/resources/arxiv-2610-22539/) — 2026-10-15
+  WebMix uses a scout-produced interface manual to route mixtures of source-trained LoRA adapters for web agents, adapting to target interfaces without target-time gradient updates.
 - [Why Generate a Click? Plug-in Decision Heads for Web Agents](https://awesomecua.github.io/resources/arxiv-2610-20107/) — 2026-10-14
   Adds decision heads to a frozen vision-language generator for selecting web actions and targets, with a confidence gate that falls back to text generation.
 - [Teaching Agents in their Own Style: Blackbox Teacher Distillation for Web Agents](https://awesomecua.github.io/resources/arxiv-2610-19834/) — 2026-10-14

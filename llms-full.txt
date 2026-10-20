@@ -1,6 +1,6 @@
 # AwesomeCUA curated resource annotations
 
-Evidence snapshot: 2026-10-20T09:17:36.223826+00:00. These records were reviewed with AI assistance; experiments are not independently reproduced.
+Evidence snapshot: 2026-10-20T10:53:44.035673+00:00. These records were reviewed with AI assistance; experiments are not independently reproduced.
 
 Related reading: [English research survey](https://awesomecua.github.io/survey/). This working manuscript uses its own frozen inventory; its text is separate from the catalog annotations below.
 
@@ -56180,6 +56180,59 @@ Alexander Gill, Md Farhan Ishmam, Xuyen Nguyen, Neha Bhat, Parker Henry DeYoung,
 
 ---
 
+# From Tapping to Hopping: Augmenting Mobile GUI Agents with App-Native Deeplinks
+
+GUI-Hopper combines verified Android deeplinks with GUI actions, using landing-screen descriptions, hybrid trajectory training and reinforcement learning to select navigation shortcuts and recover through GUI control.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2609-30887/
+- Original source: https://arxiv.org/abs/2609.30887
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: android
+- Topics: mobile-navigation, tool-integration, data-generation, imitation-learning, reinforcement-learning, efficiency
+- Evidence checked: 2026-10-20T08:27:30.162100+00:00
+- ID: arxiv:2609.30887
+
+## Limitations
+
+Reviewed the complete retained Atom abstract and selected exact-v1 full text. The Atom has incomplete clauses; its text/hash remain unchanged and this annotation uses the explicit methods. Evaluation is Android-only, with a selected real-app subset. Landing-Activity verification is not task completion. Model/catalog release is prospective in the paper. No independent reproduction.
+
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2609-30887/record.json
+
+## Authors
+
+Yuchen Sun, Chenglin Cai, Gongjie Zhang, Tianyu Xia, Quyu Kong, Panrong Tong, Zhengwen Zeng, Long Chen, Steven Hoi, Chongyang Zhang, Yue Wang
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2609-30887/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2609-30887/citation.csl.json
+
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2609.30887v1
+- First submission: 2026-09-25T06:50:04Z
+- Version updated: 2026-09-25T06:50:04Z
+- Abstract SHA-256: 838635f067b706c7b36a948c8100b30bf4cacd218470aaed6970e5186fa44fb9
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22browser+agents%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22mobile+agents%22+OR+ti%3A%22desktop+agent%22%29+AND+submittedDate%3A%5B202609200000+TO+202610192359%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T08:27:30.162100+00:00; SHA-256 096098b62f82867ee39dfd7cf44095edc5c6a9307351265592e485d82eadf111)
+- https://arxiv.org/html/2609.30887v1 (retrieved 2026-10-20T10:53:44.035673+00:00; SHA-256 2b6b8147cf7b0e1fcded85f397c272bcf535ed179789e76c3ff4f15aa3fe53a7)
+
+---
+
 # CaptchaArena: A Large-Scale, Fine-Grained Dataset for Training Computer-Use Agents on Interactive CAPTCHAs
 
 Introduces CaptchaArena, a dataset of execution-verified interactive CAPTCHA solutions with screenshot–action trajectories, reasoning annotations, and pixel masks for irregular targets. The work trains a single policy across CAPTCHA types using supervised learning followed by verifier-reward reinforcement learning.
@@ -61173,6 +61226,218 @@ Qingni Wang, Changdae Oh, Yuzhe Yang, Sharon Li, Jiachen Yang, Ang Li, Xin Eric 
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:29Z; SHA-256 74e521e46c46489e48f9bad5d774625a85b5ccd32828969fd98e1a4c453b899f)
+
+---
+
+# Don't Retrain, Remix: Adaptation of Web Agents using Mixture Hypernetworks
+
+WebMix uses a scout-produced interface manual to route mixtures of source-trained LoRA adapters for web agents, adapting to target interfaces without target-time gradient updates.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-22539/
+- Original source: https://arxiv.org/abs/2610.22539
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, imitation-learning, robustness
+- Evidence checked: 2026-10-20T08:27:26.236797+00:00
+- ID: arxiv:2610.22539
+
+## Limitations
+
+Reviewed the complete retained abstract and selected exact-v1 method, evaluation and analysis sections. Adapter-bank and router training use source demonstrations. Domain scouting accesses target training-task intents and answer-stripped reference procedures; version scouting is task-free. No target-time gradients does not mean no target task information. No independent reproduction or artifact/license verification.
+
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-22539/record.json
+
+## Authors
+
+Md Farhan Ishmam, Minh Pham Dinh, Kenneth Marino
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-22539/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-22539/citation.csl.json
+
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.22539v1
+- First submission: 2026-10-15T18:37:41Z
+- Version updated: 2026-10-15T18:37:41Z
+- Abstract SHA-256: 0f064032a0b0d673273d90a9250c76a6b823b1728761635b8a555a0bd96b888a
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B202610050000+TO+202610190000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-19T04:42:05Z; SHA-256 ffbb3f28a3a0fc8888f30ea8b2cdaf441239685aaacc2d80f311581f4b5a1d5c)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22browser+agents%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22mobile+agents%22+OR+ti%3A%22desktop+agent%22%29+AND+submittedDate%3A%5B202610130000+TO+202610192359%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T08:27:26.236797+00:00; SHA-256 80bed80786f939973d0d13b4f892300fee02a6110e326247131fc83d257796de)
+- https://arxiv.org/html/2610.22539v1 (retrieved 2026-10-20T10:34:07.486792+00:00; SHA-256 0c95ddb42bbfc91aabf25e2dc2d2393a9977b6d979a2c891c5bcf80798dbfbc3)
+
+---
+
+# PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas
+
+PersonaCUABench varies simulated user requests and clarification dialogue over fixed web tasks, comparing task completion with requirement handling and persona-agent satisfaction ratings.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-22990/
+- Original source: https://arxiv.org/abs/2610.22990
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, human-in-the-loop
+- Evidence checked: 2026-10-20T08:27:26.236797+00:00
+- ID: arxiv:2610.22990
+
+## Limitations
+
+Reviewed the complete retained abstract and selected exact-v1 construction, evaluation and limitations sections. Main interactions and satisfaction ratings use LLM-simulated personas; human annotators validate selected outputs. The harness observes page text, with screenshots only for auditing. Results are not evidence about real demographic populations or desktop agents. No independent reproduction.
+
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-22990/record.json
+
+## Authors
+
+Haoming Li, Defu Cao, Xu Hu, Yingtao Luo, Yiyang Wang, Xianghe Xu, Jiashu He, Wanting Jiang, Yifan Zhang, Yunhan Zhao, Siyang Wu, Chen Yang, Haixin Wang, Zheyuan Deng, Taoran Li, Jingwen Zhang, Zhejian Peng, Shushu Liang, Yue Zhao, Bingzhe Li, Feng Chen, Yifan Wang, Jintao Huang, Yijun Wang, Yuexing Hao, Xiaomin Li
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-22990/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-22990/citation.csl.json
+
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.22990v1
+- First submission: 2026-10-16T06:14:55Z
+- Version updated: 2026-10-16T06:14:55Z
+- Abstract SHA-256: f613ef7ada260b494a411058bc733c7a5e0b074cdb01906c38132acf7275b9b1
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B202610050000+TO+202610190000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-19T04:42:05Z; SHA-256 ffbb3f28a3a0fc8888f30ea8b2cdaf441239685aaacc2d80f311581f4b5a1d5c)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22browser+agents%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22mobile+agents%22+OR+ti%3A%22desktop+agent%22%29+AND+submittedDate%3A%5B202610130000+TO+202610192359%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T08:27:26.236797+00:00; SHA-256 80bed80786f939973d0d13b4f892300fee02a6110e326247131fc83d257796de)
+- https://arxiv.org/html/2610.22990v1 (retrieved 2026-10-20T10:42:06.870916+00:00; SHA-256 bf9066e8b3472100f120e21534f92655f4d0814f2521b9d23d778e5239c7a2a4)
+
+---
+
+# Adaptation of Computer Use Agents to New Software with User Manuals
+
+MAGE retrieves software-manual sections into fixed execution plans and generates setup/main task-plan pairs whose GUI rollouts support application-specific policy adaptation with round-based GRPO.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-23012/
+- Original source: https://arxiv.org/abs/2610.23012
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: desktop
+- Topics: planning, data-generation, reinforcement-learning
+- Evidence checked: 2026-10-20T08:27:26.236797+00:00
+- ID: arxiv:2610.23012
+
+## Limitations
+
+Reviewed the complete retained abstract and selected exact-v1 methods, evaluation and validation sections. Execution plans stay fixed per episode; policy training is separate and application-specific. Screenshot-based training/Slack judgments can miss task conditions, and OSWorld tasks may overlap backbone pretraining. No independent reproduction, safe-deployment guarantee or artifact-release verification.
+
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-23012/record.json
+
+## Authors
+
+Chulhoon Yoon, Kyungri Park, Jinyeong Yun, Daeyun Jeong, Sukmin Yun, Woohwan Jung
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-23012/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-23012/citation.csl.json
+
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.23012v1
+- First submission: 2026-10-16T06:44:56Z
+- Version updated: 2026-10-16T06:44:56Z
+- Abstract SHA-256: b9585696d256bacc710dce57bfd7cda6a8037ce5725a30f959028352bc07e97c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B202610050000+TO+202610190000%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-19T04:42:05Z; SHA-256 ffbb3f28a3a0fc8888f30ea8b2cdaf441239685aaacc2d80f311581f4b5a1d5c)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22browser+agents%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22mobile+agents%22+OR+ti%3A%22desktop+agent%22%29+AND+submittedDate%3A%5B202610130000+TO+202610192359%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T08:27:26.236797+00:00; SHA-256 80bed80786f939973d0d13b4f892300fee02a6110e326247131fc83d257796de)
+- https://arxiv.org/html/2610.23012v1 (retrieved 2026-10-20T10:34:04.380045+00:00; SHA-256 75c025a862a046b8bcbdd84b800a37132edcc1ec271d40c57c18ec984652a0b0)
+
+---
+
+# MobileJailBench: Red Queen Jailbreak Benchmarking for Mobile Agents
+
+MobileJailBench evaluates mobile-agent jailbreaks in a browser-based Android-like simulator, combining feedback-driven attack evolution, separately admitted task expansions and evidence-grounded outcome adjudication.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-23303/
+- Original source: https://arxiv.org/abs/2610.23303
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: safety-security, mobile-navigation, evaluation, observability, cross-app
+- Evidence checked: 2026-10-20T08:27:26.236797+00:00
+- ID: arxiv:2610.23303
+
+## Limitations
+
+Reviewed the complete retained abstract and selected exact-v1 threat-model, construction and evaluation sections. Execution uses a browser-based Android-like simulator, not real Android isolation or live services. The attacker controls instructions and designated carriers, not privileged simulator state/APIs or system/model/harness internals. Rates depend on release, budget and adjudication coverage. SAF labels track observable expressions and actions, not latent reasoning; unresolved episodes are excluded from rate denominators. No independent reproduction.
+
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-23303/record.json
+
+## Authors
+
+Songping Wang, Borui Li, Qinglong Liu, Yueming Lyu, Yi Huang, Fengting Li, Chao Feng, Caifeng Shan
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-23303/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-23303/citation.csl.json
+
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.23303v1
+- First submission: 2026-10-16T11:06:37Z
+- Version updated: 2026-10-16T11:06:37Z
+- Abstract SHA-256: ea753c1cb0666950d89f2781511f26872e3d5b1c2fd2434896248214160fa22c
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2610.19384%2C2610.22672%2C2610.22697%2C2610.23303%2C2610.23307%2C2610.24729&max_results=6 (retrieved 2026-10-20T05:52:01Z; SHA-256 63e37cd26bfe69455a3fa835f3d6ba4cfcc5bb7dc91f90505920d37b1e08f0b6)
+- https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agent%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22+OR+ti%3A%22browser+agents%22+OR+ti%3A%22mobile+agent%22+OR+ti%3A%22mobile+agents%22+OR+ti%3A%22desktop+agent%22%29+AND+submittedDate%3A%5B202610130000+TO+202610192359%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-20T08:27:26.236797+00:00; SHA-256 80bed80786f939973d0d13b4f892300fee02a6110e326247131fc83d257796de)
+- https://arxiv.org/html/2610.23303v1 (retrieved 2026-10-20T10:42:09.967883+00:00; SHA-256 ec9d647818be346ddbf7807be87b4789cd53e50c5d3d7a7904ad4f49bc71c38e)
 
 ---
 

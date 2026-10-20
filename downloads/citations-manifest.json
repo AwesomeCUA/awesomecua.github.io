@@ -1,45 +1,45 @@
 {
   "bibtex_compatibility": "UTF-8 literal names; non-ASCII rendering requires a Unicode-capable bibliography/TeX toolchain. Older styles may ignore url, doi, eprint, and archivePrefix.",
-  "catalog_sha256": "9beabb10c42308ce91d760338d976f91404af60a96ba9a278d2d3abe78623803",
+  "catalog_sha256": "fd71133ba3ad1174d3c34ce5d4b6811076c14507f71ac884bc1aa23d6f357736",
   "citation_policy": "Record edition preserves retained arXiv versions; publisher-only records use their publication. Publication edition uses only its own title, full literal authors, venue, date and identifiers. Unknown facts are omitted.",
   "date_policy": "ArXiv record issued/year use first published_at. Publication issued uses supplied date_parts without adding a month or day; arXiv updates are not publication updates.",
   "encoding": "UTF-8",
   "exports": [
     {
-      "bytes": 888076,
+      "bytes": 891581,
       "edition": "record",
       "file": "citations.bib",
       "format": "bibtex",
       "includes_metadata_only": false,
-      "records": 1176,
-      "sha256": "9083ae41a30a2dd7b3a26875edb0a05a7e7cb68a33af40f6956d84bc4c67b988"
+      "records": 1181,
+      "sha256": "0bddf322f5b522885c44916392c000db19a00fa0c854c95ce0b03a460df9fb5e"
     },
     {
-      "bytes": 2214791,
+      "bytes": 2224283,
       "edition": "record",
       "file": "citations.csl.json",
       "format": "csl-json",
       "includes_metadata_only": false,
-      "records": 1176,
-      "sha256": "1637ca9fe439a4d02242f786ed6d9708d02793dd4d565852ea510a4d150a7527"
+      "records": 1181,
+      "sha256": "9c56fdfa4c87b983dc0ecd3aea3a346cb908fc9523a828d2ec02a9d5837af383"
     },
     {
-      "bytes": 1981879,
+      "bytes": 1981764,
       "edition": "record",
       "file": "citations-all.bib",
       "format": "bibtex",
       "includes_metadata_only": true,
       "records": 2745,
-      "sha256": "80f71a267e4431a9143ff75894d703137e35e044d232e37d4c72febbdb3533c6"
+      "sha256": "a91d91bcbb0f7ad8b69897a86ed74b0dd68814c282f6d093a9378a6b0d1d4474"
     },
     {
-      "bytes": 5065988,
+      "bytes": 5065873,
       "edition": "record",
       "file": "citations-all.csl.json",
       "format": "csl-json",
       "includes_metadata_only": true,
       "records": 2745,
-      "sha256": "d6c8887a3c8c1f1d8d23389a4d77a8c6c92971793f8786fa8ac878601c6b3a13"
+      "sha256": "0439f1733580ed28026da967da1da495604cde3673b3fc14f8c400e4b7140b34"
     },
     {
       "bytes": 168977,

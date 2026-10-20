@@ -12,6 +12,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/reinforcement
   VeriCUA trains a Judge to select verification checks and stopping decisions while a frozen Probe inspects the post-task GUI. Single-attempt reinforcement learning balances verdict correctness and Probe use.
 - [CUA-Lite: An Open Platform for Computer Use Agents](https://awesomecua.github.io/resources/arxiv-2610-26071/) — 2026-10-19
   CUA-Lite unifies environment interfaces, supervised data formats and per-model harnesses for evaluation, reinforcement learning and supervised fine-tuning across desktop, browser and mobile tasks.
+- [Adaptation of Computer Use Agents to New Software with User Manuals](https://awesomecua.github.io/resources/arxiv-2610-23012/) — 2026-10-16
+  MAGE retrieves software-manual sections into fixed execution plans and generates setup/main task-plan pairs whose GUI rollouts support application-specific policy adaptation with round-based GRPO.
 - [OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents](https://awesomecua.github.io/resources/arxiv-2610-22234/) — 2026-10-15
   Trains native computer-use models to coordinate GUI actions and code execution using hybrid demonstrations and online reinforcement learning.
 - [MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments](https://awesomecua.github.io/resources/arxiv-2610-20939/) — 2026-10-14
@@ -44,6 +46,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/reinforcement
   Introduces CUA-Sandbox, which separates each rollout’s mutable state from shared initialized software runtimes. State-scoped execution and transactional resets or branches aim to reduce training-environment costs while retaining original interfaces and evaluators.
 - [CaptchaArena: A Large-Scale, Fine-Grained Dataset for Training Computer-Use Agents on Interactive CAPTCHAs](https://awesomecua.github.io/resources/arxiv-2609-31957/) — 2026-09-25
   Introduces CaptchaArena, a dataset of execution-verified interactive CAPTCHA solutions with screenshot–action trajectories, reasoning annotations, and pixel masks for irregular targets. The work trains a single policy across CAPTCHA types using supervised learning followed by verifier-reward reinforcement learning.
+- [From Tapping to Hopping: Augmenting Mobile GUI Agents with App-Native Deeplinks](https://awesomecua.github.io/resources/arxiv-2609-30887/) — 2026-09-25
+  GUI-Hopper combines verified Android deeplinks with GUI actions, using landing-screen descriptions, hybrid trajectory training and reinforcement learning to select navigation shortcuts and recover through GUI control.
 - [MintAct: A Unified Visual Agent for Digital Environments](https://awesomecua.github.io/resources/arxiv-2609-22083/) — 2026-09-18
   MintAct trains a visual-agent family for grounding, navigation and tool use across mobile, desktop and web environments. Its shared infrastructure supports trajectory collection and asynchronous online RL while controlling cross-domain sampling and off-policy drift.
 - [BlueLM-GUI Technical Report: A Real-Device-Centric Flywheel for Self-Improving Mobile GUI Agents](https://awesomecua.github.io/resources/arxiv-2609-12394/) — 2026-09-11

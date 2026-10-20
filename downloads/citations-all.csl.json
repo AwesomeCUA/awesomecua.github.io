@@ -178172,8 +178172,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2609.30887",
       "catalog_id": "arxiv:2609.30887",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-09-25",
       "identifiers": {
         "arxiv": "2609.30887"
@@ -187522,8 +187522,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.22539",
       "catalog_id": "arxiv:2610.22539",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-15",
       "identifiers": {
         "arxiv": "2610.22539"
@@ -187756,8 +187756,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.22990",
       "catalog_id": "arxiv:2610.22990",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-16",
       "identifiers": {
         "arxiv": "2610.22990"
@@ -187817,8 +187817,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.23012",
       "catalog_id": "arxiv:2610.23012",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-16",
       "identifiers": {
         "arxiv": "2610.23012"
@@ -187884,8 +187884,8 @@
       "canonical_source_url": "https://arxiv.org/abs/2610.23303",
       "catalog_id": "arxiv:2610.23303",
       "catalog_kind": "paper",
-      "catalog_review_status": "metadata_verified",
-      "catalog_scope": "relevance_pending",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
       "first_published_at": "2026-10-16",
       "identifiers": {
         "arxiv": "2610.23303"

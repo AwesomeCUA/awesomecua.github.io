@@ -13996,6 +13996,179 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.22539v1",
+    "archive": "arXiv",
+    "archive_location": "2610.22539",
+    "author": [
+      {
+        "literal": "Md Farhan Ishmam"
+      },
+      {
+        "literal": "Minh Pham Dinh"
+      },
+      {
+        "literal": "Kenneth Marino"
+      }
+    ],
+    "citation-key": "arxiv_2610_22539",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0f064032a0b0d673273d90a9250c76a6b823b1728761635b8a555a0bd96b888a",
+        "submitted_at": "2026-10-15T18:37:41Z",
+        "updated_at": "2026-10-15T18:37:41Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.22539v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.22539",
+      "catalog_id": "arxiv:2610.22539",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-15",
+      "identifiers": {
+        "arxiv": "2610.22539"
+      },
+      "record_updated_at": "2026-10-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.22539",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T18:37:41Z.",
+    "title": "Don't Retrain, Remix: Adaptation of Web Agents using Mixture Hypernetworks",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.22990v1",
+    "archive": "arXiv",
+    "archive_location": "2610.22990",
+    "author": [
+      {
+        "literal": "Haoming Li"
+      },
+      {
+        "literal": "Defu Cao"
+      },
+      {
+        "literal": "Xu Hu"
+      },
+      {
+        "literal": "Yingtao Luo"
+      },
+      {
+        "literal": "Yiyang Wang"
+      },
+      {
+        "literal": "Xianghe Xu"
+      },
+      {
+        "literal": "Jiashu He"
+      },
+      {
+        "literal": "Wanting Jiang"
+      },
+      {
+        "literal": "Yifan Zhang"
+      },
+      {
+        "literal": "Yunhan Zhao"
+      },
+      {
+        "literal": "Siyang Wu"
+      },
+      {
+        "literal": "Chen Yang"
+      },
+      {
+        "literal": "Haixin Wang"
+      },
+      {
+        "literal": "Zheyuan Deng"
+      },
+      {
+        "literal": "Taoran Li"
+      },
+      {
+        "literal": "Jingwen Zhang"
+      },
+      {
+        "literal": "Zhejian Peng"
+      },
+      {
+        "literal": "Shushu Liang"
+      },
+      {
+        "literal": "Yue Zhao"
+      },
+      {
+        "literal": "Bingzhe Li"
+      },
+      {
+        "literal": "Feng Chen"
+      },
+      {
+        "literal": "Yifan Wang"
+      },
+      {
+        "literal": "Jintao Huang"
+      },
+      {
+        "literal": "Yijun Wang"
+      },
+      {
+        "literal": "Yuexing Hao"
+      },
+      {
+        "literal": "Xiaomin Li"
+      }
+    ],
+    "citation-key": "arxiv_2610_22990",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f613ef7ada260b494a411058bc733c7a5e0b074cdb01906c38132acf7275b9b1",
+        "submitted_at": "2026-10-16T06:14:55Z",
+        "updated_at": "2026-10-16T06:14:55Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.22990v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.22990",
+      "catalog_id": "arxiv:2610.22990",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-16",
+      "identifiers": {
+        "arxiv": "2610.22990"
+      },
+      "record_updated_at": "2026-10-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.22990",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-16; Recorded arXiv version: v1; Recorded version updated: 2026-10-16T06:14:55Z.",
+    "title": "PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.24277v1",
     "archive": "arXiv",
     "archive_location": "2610.24277",

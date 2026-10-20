@@ -12,6 +12,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/mobile-naviga
   FocusGUI learns step-specific weights over screenshot, audio, video and interaction-context channels, injecting a compact residual into a frozen decoder without pruning its inputs.
 - [MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection](https://awesomecua.github.io/resources/arxiv-2610-23307/) — 2026-10-16
   MobileInject evaluates visual/textual observation injection in stateful Android workflows using resettable emulators, benign/adversarial state oracles and trace-based diagnosis of emitted rationales and actions.
+- [MobileJailBench: Red Queen Jailbreak Benchmarking for Mobile Agents](https://awesomecua.github.io/resources/arxiv-2610-23303/) — 2026-10-16
+  MobileJailBench evaluates mobile-agent jailbreaks in a browser-based Android-like simulator, combining feedback-driven attack evolution, separately admitted task expansions and evidence-grounded outcome adjudication.
 - [How GUI Agents Fail: GraceBench for Execution Stability Diagnosis](https://awesomecua.github.io/resources/arxiv-2610-19900/) — 2026-10-14
   Introduces GraceBench, using application transition graphs and recorded interaction evidence to diagnose deviations, loops, and recovery that final task-success scores can hide.
 - [Learning How to Remember: Memory Modality Selection for GUI Agents](https://awesomecua.github.io/resources/arxiv-2610-17928/) — 2026-10-13
@@ -36,6 +38,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/mobile-naviga
   Introduces PastForward, which reuses earlier output sequences as verified decoding proposals and starts future action computation from predicted GUI transitions. Screen checks determine whether speculative computation and cached model states can be retained.
 - [REBASE: Device-Cloud Experience Coherence for GUI Agents Across App Updates](https://awesomecua.github.io/resources/arxiv-2609-32130/) — 2026-09-26
   Introduces REBASE, a device–cloud protocol for repairing cached GUI experience after app updates. It combines cloud replay, device-side step verification, and progressively richer failure reports to produce repairs tied to application versions.
+- [From Tapping to Hopping: Augmenting Mobile GUI Agents with App-Native Deeplinks](https://awesomecua.github.io/resources/arxiv-2609-30887/) — 2026-09-25
+  GUI-Hopper combines verified Android deeplinks with GUI actions, using landing-screen descriptions, hybrid trajectory training and reinforcement learning to select navigation shortcuts and recover through GUI control.
 - [Jev-Mobile: Jev as an Executor for Mobile GUI Agents](https://awesomecua.github.io/resources/arxiv-2609-30186/) — 2026-09-24
   Separates occasional visual-language planning from frequent lightweight action selection over an accessibility-tree-based action space.
 - [Learn How to Act from Your Own Interactions: On-Policy Self-Distillation for GUI Agents](https://awesomecua.github.io/resources/arxiv-2609-27307/) — 2026-09-23

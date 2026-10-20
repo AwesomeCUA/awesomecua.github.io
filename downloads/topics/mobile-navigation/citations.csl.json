@@ -13566,6 +13566,82 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2609.30887v1",
+    "archive": "arXiv",
+    "archive_location": "2609.30887",
+    "author": [
+      {
+        "literal": "Yuchen Sun"
+      },
+      {
+        "literal": "Chenglin Cai"
+      },
+      {
+        "literal": "Gongjie Zhang"
+      },
+      {
+        "literal": "Tianyu Xia"
+      },
+      {
+        "literal": "Quyu Kong"
+      },
+      {
+        "literal": "Panrong Tong"
+      },
+      {
+        "literal": "Zhengwen Zeng"
+      },
+      {
+        "literal": "Long Chen"
+      },
+      {
+        "literal": "Steven Hoi"
+      },
+      {
+        "literal": "Chongyang Zhang"
+      },
+      {
+        "literal": "Yue Wang"
+      }
+    ],
+    "citation-key": "arxiv_2609_30887",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "838635f067b706c7b36a948c8100b30bf4cacd218470aaed6970e5186fa44fb9",
+        "submitted_at": "2026-09-25T06:50:04Z",
+        "updated_at": "2026-09-25T06:50:04Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.30887v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.30887",
+      "catalog_id": "arxiv:2609.30887",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-25",
+      "identifiers": {
+        "arxiv": "2609.30887"
+      },
+      "record_updated_at": "2026-09-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.30887",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-25; Recorded arXiv version: v1; Recorded version updated: 2026-09-25T06:50:04Z.",
+    "title": "From Tapping to Hopping: Augmenting Mobile GUI Agents with App-Native Deeplinks",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2609.32130v1",
     "archive": "arXiv",
     "archive_location": "2609.32130",
@@ -14288,6 +14364,73 @@
     },
     "note": "First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T09:58:40Z.",
     "title": "How GUI Agents Fail: GraceBench for Execution Stability Diagnosis",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.23303v1",
+    "archive": "arXiv",
+    "archive_location": "2610.23303",
+    "author": [
+      {
+        "literal": "Songping Wang"
+      },
+      {
+        "literal": "Borui Li"
+      },
+      {
+        "literal": "Qinglong Liu"
+      },
+      {
+        "literal": "Yueming Lyu"
+      },
+      {
+        "literal": "Yi Huang"
+      },
+      {
+        "literal": "Fengting Li"
+      },
+      {
+        "literal": "Chao Feng"
+      },
+      {
+        "literal": "Caifeng Shan"
+      }
+    ],
+    "citation-key": "arxiv_2610_23303",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ea753c1cb0666950d89f2781511f26872e3d5b1c2fd2434896248214160fa22c",
+        "submitted_at": "2026-10-16T11:06:37Z",
+        "updated_at": "2026-10-16T11:06:37Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.23303v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.23303",
+      "catalog_id": "arxiv:2610.23303",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-16",
+      "identifiers": {
+        "arxiv": "2610.23303"
+      },
+      "record_updated_at": "2026-10-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.23303",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-16; Recorded arXiv version: v1; Recorded version updated: 2026-10-16T11:06:37Z.",
+    "title": "MobileJailBench: Red Queen Jailbreak Benchmarking for Mobile Agents",
     "type": "article",
     "version": "1"
   },

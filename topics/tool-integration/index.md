@@ -26,6 +26,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/tool-integrat
   Introduces SCOUT, a safety verifier that first derives task-specific completion and safety rubrics from a computer-use trajectory, then actively probes the resulting environment for evidence. It evaluates whether these two stages detect harmful consequences that screenshots alone can miss.
 - [CUA-SWE: When Computer-Use Agents Meet Visual Software Engineering](https://awesomecua.github.io/resources/arxiv-2609-32600/) — 2026-09-26
   Introduces CUA-SWE, a benchmark and execution environment that combines code changes with graphical interaction and visual inspection of running software. Task-specific tests verify repairs and changes whose required information may be available only through the application interface.
+- [From Tapping to Hopping: Augmenting Mobile GUI Agents with App-Native Deeplinks](https://awesomecua.github.io/resources/arxiv-2609-30887/) — 2026-09-25
+  GUI-Hopper combines verified Android deeplinks with GUI actions, using landing-screen descriptions, hybrid trajectory training and reinforcement learning to select navigation shortcuts and recover through GUI control.
 - [MintAct: A Unified Visual Agent for Digital Environments](https://awesomecua.github.io/resources/arxiv-2609-22083/) — 2026-09-18
   MintAct trains a visual-agent family for grounding, navigation and tool use across mobile, desktop and web environments. Its shared infrastructure supports trajectory collection and asynchronous online RL while controlling cross-domain sampling and off-policy drift.
 - [RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents](https://awesomecua.github.io/resources/arxiv-2609-22000/) — 2026-09-18

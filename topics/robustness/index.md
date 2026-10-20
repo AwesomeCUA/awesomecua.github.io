@@ -8,6 +8,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/robustness/re
 
 - [ScopeMem: Latent Memory That Learns Where to Revise Frozen GUI Agents](https://awesomecua.github.io/resources/arxiv-2610-26503/) — 2026-10-19
   ScopeMem conditions latent-memory prefixes on a frozen GUI agent's initial action and trains them to correct errors while preserving correct decisions. Its evaluation separates action repairs from harmful revisions.
+- [Don't Retrain, Remix: Adaptation of Web Agents using Mixture Hypernetworks](https://awesomecua.github.io/resources/arxiv-2610-22539/) — 2026-10-15
+  WebMix uses a scout-produced interface manual to route mixtures of source-trained LoRA adapters for web agents, adapting to target interfaces without target-time gradient updates.
 - [How GUI Agents Fail: GraceBench for Execution Stability Diagnosis](https://awesomecua.github.io/resources/arxiv-2610-19900/) — 2026-10-14
   Introduces GraceBench, using application transition graphs and recorded interaction evidence to diagnose deviations, loops, and recovery that final task-success scores can hide.
 - [CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a Controllable and Verifiable Generation Pipeline](https://awesomecua.github.io/resources/arxiv-2610-19128/) — 2026-10-13

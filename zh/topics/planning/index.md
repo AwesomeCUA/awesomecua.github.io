@@ -6,6 +6,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/planning/reco
 
 ## 论文与综述
 
+- [Adaptation of Computer Use Agents to New Software with User Manuals](https://awesomecua.github.io/resources/arxiv-2610-23012/) — 2026-10-16
+  MAGE retrieves software-manual sections into fixed execution plans and generates setup/main task-plan pairs whose GUI rollouts support application-specific policy adaptation with round-based GRPO.
 - [LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents](https://awesomecua.github.io/resources/arxiv-2610-22280/) — 2026-10-15
   Uses weak-agent uncertainty to decide when to escalate to a stronger model and monitor its subsequent task execution.
 - [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://awesomecua.github.io/resources/arxiv-2610-22200/) — 2026-10-15
