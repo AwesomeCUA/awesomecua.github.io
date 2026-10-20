@@ -1,0 +1,89 @@
+{
+  "aliases": [],
+  "authors": [
+    "Sizhe Tang",
+    "Hanhan Zhou",
+    "Jeffrey Svajlenko",
+    "Rashmi Gangadharaiah"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9d6808cf26a609b50b7835ae3ecece0a13580aafcd589823f0b1eeff54732f69",
+      "submitted_at": "2026-10-17T02:03:20Z",
+      "updated_at": "2026-10-17T02:03:20Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.24372v1"
+    }
+  },
+  "environments": [
+    "android",
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-20T12:58:15.922053Z",
+      "role": "primary",
+      "sha256": "b379e14eefa272f62641224fe1d839b7dfbc414d957124b8abeb103444a843ef",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28ti%3AGUI+OR+ti%3A%22computer-using%22+OR+ti%3A%22agentic+browsing%22+OR+ti%3A%22visual+grounding%22+OR+ti%3A%22UI+automation%22%29+AND+submittedDate%3A%5B202608210000+TO+202610201255%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T13:12:51.579373Z",
+      "role": "primary",
+      "sha256": "9dff18935a1faa7ec16366bac6a6e9e41f0381d561568c3aba39fe783efcfbd3",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes"
+      ],
+      "url": "https://arxiv.org/html/2610.24372v1"
+    }
+  ],
+  "id": "arxiv:2610.24372",
+  "identifiers": {
+    "arxiv": "2610.24372"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-20T13:12:51.579373Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2610.24372"
+    }
+  ],
+  "name": "Beyond Next-Screen Prediction: The Decision Value of GUI World Models",
+  "notes": "The matched augmentation experiment measures offline ranking; AndroidWorld task-success comparisons use differently trained evaluators and do not isolate prediction value. A separate web evaluator is trained on Mind2Web, and web results do not uniformly favor direct scoring. The main study concerns one-step selection. No independent reproduction.",
+  "published_at": "2026-10-17",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Separates next-screen prediction from action evaluation in GUI lookahead and trains Direct Action Ranking on reference actions, comparing prediction-augmented scoring under matched offline supervision.",
+  "topics": [
+    "evaluation",
+    "world-models",
+    "action-prediction",
+    "imitation-learning"
+  ],
+  "updated_at": "2026-10-17",
+  "url": "https://arxiv.org/abs/2610.24372"
+}

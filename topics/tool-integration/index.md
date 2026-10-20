@@ -14,6 +14,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/tool-integrat
   Trains native computer-use models to coordinate GUI actions and code execution using hybrid demonstrations and online reinforcement learning.
 - [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://awesomecua.github.io/resources/arxiv-2610-22200/) — 2026-10-15
   Introduces an open generalist computer-use stack combining visual and programmatic interaction, with model-controlled observation and task-state decisions.
+- [From Observations to Authorized Actions: Measuring Source Information in Android Agents](https://awesomecua.github.io/resources/arxiv-2610-15502/) — 2026-10-11
+  Measures source-attribution limits in Android accessibility and separately tests application-history and selected-WebView-object checks for authorizing AppFunctions actions.
 - [OpenMobile-2: Building Versatile Mobile Agents with Scalable Environments and App-Native Tools](https://awesomecua.github.io/resources/arxiv-2610-14157/) — 2026-10-09
   Introduces OpenMobile-2, combining simulated mobile apps, emulator tasks, released training data, and policies that can alternate GUI interaction with app-native tools.
 - [Web$hell: A Unified Interface for Agentic Web Access](https://awesomecua.github.io/resources/arxiv-2610-13416/) — 2026-10-09

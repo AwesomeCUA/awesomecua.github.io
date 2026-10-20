@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2610.22408",
+  "citation-key": "arxiv_2610_22408",
+  "type": "article",
+  "title": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation",
+  "URL": "https://arxiv.org/abs/2610.22408v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.22408",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.22408",
+    "identifiers": {
+      "arxiv": "2610.22408"
+    },
+    "first_published_at": "2026-10-14",
+    "record_updated_at": "2026-10-14",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "025c7018c86ae4de79a659242070b2f91c5913333e9ecd4bd7fd357d13d27a34",
+      "submitted_at": "2026-10-14T14:39:41Z",
+      "updated_at": "2026-10-14T14:39:41Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.22408v1"
+    }
+  },
+  "note": "First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T14:39:41Z.",
+  "author": [
+    {
+      "literal": "Tengda Guo"
+    },
+    {
+      "literal": "Jiawang Hu"
+    },
+    {
+      "literal": "Yifei Tao"
+    },
+    {
+      "literal": "Yin Wang"
+    },
+    {
+      "literal": "Haotian Hu"
+    },
+    {
+      "literal": "Fanyi Wang"
+    },
+    {
+      "literal": "Liujuan Tang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.22408",
+  "genre": "preprint",
+  "version": "1"
+}

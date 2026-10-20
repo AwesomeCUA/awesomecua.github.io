@@ -1,0 +1,95 @@
+{
+  "aliases": [],
+  "authors": [
+    "Tengda Guo",
+    "Jiawang Hu",
+    "Yifei Tao",
+    "Yin Wang",
+    "Haotian Hu",
+    "Fanyi Wang",
+    "Liujuan Tang"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "025c7018c86ae4de79a659242070b2f91c5913333e9ecd4bd7fd357d13d27a34",
+      "submitted_at": "2026-10-14T14:39:41Z",
+      "updated_at": "2026-10-14T14:39:41Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.22408v1"
+    }
+  },
+  "environments": [
+    "android"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-20T12:58:20.217517Z",
+      "role": "primary",
+      "sha256": "f275c47a8b6d349a70e39a9e55eea5a09d99d5f35cc896100f3bcfd5b0923e0b",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?search_query=%28abs%3A%22computer-use+agents%22+OR+abs%3A%22GUI+agents%22+OR+abs%3A%22browser+agents%22+OR+abs%3A%22mobile+GUI%22%29+AND+submittedDate%3A%5B202609200000+TO+202610201255%5D&start=0&max_results=200&sortBy=submittedDate&sortOrder=descending"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T13:12:54.814500Z",
+      "role": "primary",
+      "sha256": "0389d96a8f6c4975129f5c526e8df9ca4690f31364a2f4e66aaea4a75f0eabbc",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes"
+      ],
+      "url": "https://arxiv.org/html/2610.22408v1"
+    }
+  ],
+  "id": "arxiv:2610.22408",
+  "identifiers": {
+    "arxiv": "2610.22408"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-20T13:12:54.814500Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://arxiv.org/abs/2610.22408"
+    }
+  ],
+  "name": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation",
+  "notes": "Privileged screenshot history is used during training, while deployment retains self-generated textual state. GUI results use action/step metrics and model-specific history settings; online Sokoban transfer is separate. GRPO rewards action correctness, valid output format and compression length. Diagnostic memory replay is distinct from the validation gap used to schedule training. No independent reproduction.",
+  "published_at": "2026-10-14",
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "ECHOES learns recursive textual task memory through privileged screenshot-history distillation and GRPO, then predicts GUI actions from the current screenshot and memory.",
+  "topics": [
+    "memory",
+    "interaction-history",
+    "state-tracking",
+    "long-horizon",
+    "imitation-learning",
+    "reinforcement-learning",
+    "efficiency",
+    "evaluation"
+  ],
+  "updated_at": "2026-10-14",
+  "url": "https://arxiv.org/abs/2610.22408"
+}

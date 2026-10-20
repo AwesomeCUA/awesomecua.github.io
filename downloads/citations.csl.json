@@ -75385,6 +75385,61 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2609.33102v1",
+    "archive": "arXiv",
+    "archive_location": "2609.33102",
+    "author": [
+      {
+        "literal": "Ben Hagag"
+      },
+      {
+        "literal": "William L. Anderson"
+      },
+      {
+        "literal": "Srija Chakraborty"
+      },
+      {
+        "literal": "Christian Schroeder de Witt"
+      }
+    ],
+    "citation-key": "arxiv_2609_33102",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3c380079220050fbe354509238a5a79c7df2917a245490e4ec0cff512f7565ab",
+        "submitted_at": "2026-09-27T02:20:08Z",
+        "updated_at": "2026-09-27T02:20:08Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.33102v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.33102",
+      "catalog_id": "arxiv:2609.33102",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-27",
+      "identifiers": {
+        "arxiv": "2609.33102"
+      },
+      "record_updated_at": "2026-09-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.33102",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-27; Recorded arXiv version: v1; Recorded version updated: 2026-09-27T02:20:08Z.",
+    "title": "ORBIT: A Framework for Multi-Agent Safety and Security Evaluations",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2609.33304v1",
     "archive": "arXiv",
     "archive_location": "2609.33304",
@@ -78771,6 +78826,58 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.11963v1",
+    "archive": "arXiv",
+    "archive_location": "2610.11963",
+    "author": [
+      {
+        "literal": "Utku Boran Torun"
+      },
+      {
+        "literal": "Veli Karakaya"
+      },
+      {
+        "literal": "Eray Tüzün"
+      }
+    ],
+    "citation-key": "arxiv_2610_11963",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0e77dcf101ba95684aac51084e43b914c0aca86fc25d061612224118004bdb21",
+        "submitted_at": "2026-10-08T13:44:53Z",
+        "updated_at": "2026-10-08T13:44:53Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.11963v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.11963",
+      "catalog_id": "arxiv:2610.11963",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-08",
+      "identifiers": {
+        "arxiv": "2610.11963"
+      },
+      "record_updated_at": "2026-10-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.11963",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T13:44:53Z.",
+    "title": "Can LLMs Fix It Without Code? Toward Automated Verification of No-Code Bug Fixes",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.12611v2",
     "archive": "arXiv",
     "archive_location": "2610.12611",
@@ -79428,6 +79535,55 @@
     },
     "note": "First published: 2026-10-10; Recorded arXiv version: v1; Recorded version updated: 2026-10-10T19:30:31Z.",
     "title": "The Agent Clicks Approve: Injected Page Text Makes Browser Agents Authorize Access the Task Never Named",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.15502v1",
+    "archive": "arXiv",
+    "archive_location": "2610.15502",
+    "author": [
+      {
+        "literal": "Hyobin Ahn"
+      },
+      {
+        "literal": "Dongjae Lee"
+      }
+    ],
+    "citation-key": "arxiv_2610_15502",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ff5470e792d14ced2cdff648d97e2606eea4b3c822046b7c10272fd2a5f1695f",
+        "submitted_at": "2026-10-11T10:09:44Z",
+        "updated_at": "2026-10-11T10:09:44Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.15502v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.15502",
+      "catalog_id": "arxiv:2610.15502",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-11",
+      "identifiers": {
+        "arxiv": "2610.15502"
+      },
+      "record_updated_at": "2026-10-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.15502",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-11; Recorded arXiv version: v1; Recorded version updated: 2026-10-11T10:09:44Z.",
+    "title": "From Observations to Authorized Actions: Measuring Source Information in Android Agents",
     "type": "article",
     "version": "1"
   },
@@ -80931,6 +81087,70 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.22408v1",
+    "archive": "arXiv",
+    "archive_location": "2610.22408",
+    "author": [
+      {
+        "literal": "Tengda Guo"
+      },
+      {
+        "literal": "Jiawang Hu"
+      },
+      {
+        "literal": "Yifei Tao"
+      },
+      {
+        "literal": "Yin Wang"
+      },
+      {
+        "literal": "Haotian Hu"
+      },
+      {
+        "literal": "Fanyi Wang"
+      },
+      {
+        "literal": "Liujuan Tang"
+      }
+    ],
+    "citation-key": "arxiv_2610_22408",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "025c7018c86ae4de79a659242070b2f91c5913333e9ecd4bd7fd357d13d27a34",
+        "submitted_at": "2026-10-14T14:39:41Z",
+        "updated_at": "2026-10-14T14:39:41Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.22408v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.22408",
+      "catalog_id": "arxiv:2610.22408",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-14",
+      "identifiers": {
+        "arxiv": "2610.22408"
+      },
+      "record_updated_at": "2026-10-14"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.22408",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T14:39:41Z.",
+    "title": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.22539v1",
     "archive": "arXiv",
     "archive_location": "2610.22539",
@@ -80979,6 +81199,73 @@
     },
     "note": "First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T18:37:41Z.",
     "title": "Don't Retrain, Remix: Adaptation of Web Agents using Mixture Hypernetworks",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.22672v1",
+    "archive": "arXiv",
+    "archive_location": "2610.22672",
+    "author": [
+      {
+        "literal": "Adamo Orsini"
+      },
+      {
+        "literal": "Seyed Mehdi Ayyoubzadeh"
+      },
+      {
+        "literal": "Sadman Rakib Pinon"
+      },
+      {
+        "literal": "Hannuo Zhang"
+      },
+      {
+        "literal": "Koosha Gholipour Baradari"
+      },
+      {
+        "literal": "Yuanhao Yu"
+      },
+      {
+        "literal": "Xinxin Zuo"
+      },
+      {
+        "literal": "Yang Wang"
+      }
+    ],
+    "citation-key": "arxiv_2610_22672",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "caaf24ef4d8b86c8aaebc852235d0fe947a5ed859dc1ba8329ce07a2f7be9aa1",
+        "submitted_at": "2026-10-15T21:40:34Z",
+        "updated_at": "2026-10-15T21:40:34Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.22672v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.22672",
+      "catalog_id": "arxiv:2610.22672",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-15",
+      "identifiers": {
+        "arxiv": "2610.22672"
+      },
+      "record_updated_at": "2026-10-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.22672",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T21:40:34Z.",
+    "title": "Not All Graphs Are Maps: A Task-Agnostic Exploration Framework for Mobile GUI Navigation",
     "type": "article",
     "version": "1"
   },
@@ -81359,6 +81646,61 @@
     },
     "note": "First published: 2026-10-16; Recorded arXiv version: v1; Recorded version updated: 2026-10-16T22:12:45Z.",
     "title": "SPIDES: Information-Flow Control for Browser Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.24372v1",
+    "archive": "arXiv",
+    "archive_location": "2610.24372",
+    "author": [
+      {
+        "literal": "Sizhe Tang"
+      },
+      {
+        "literal": "Hanhan Zhou"
+      },
+      {
+        "literal": "Jeffrey Svajlenko"
+      },
+      {
+        "literal": "Rashmi Gangadharaiah"
+      }
+    ],
+    "citation-key": "arxiv_2610_24372",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9d6808cf26a609b50b7835ae3ecece0a13580aafcd589823f0b1eeff54732f69",
+        "submitted_at": "2026-10-17T02:03:20Z",
+        "updated_at": "2026-10-17T02:03:20Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.24372v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.24372",
+      "catalog_id": "arxiv:2610.24372",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-17",
+      "identifiers": {
+        "arxiv": "2610.24372"
+      },
+      "record_updated_at": "2026-10-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.24372",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-17; Recorded arXiv version: v1; Recorded version updated: 2026-10-17T02:03:20Z.",
+    "title": "Beyond Next-Screen Prediction: The Decision Value of GUI World Models",
     "type": "article",
     "version": "1"
   },

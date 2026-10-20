@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2610.11963",
+  "citation-key": "arxiv_2610_11963",
+  "type": "article",
+  "title": "Can LLMs Fix It Without Code? Toward Automated Verification of No-Code Bug Fixes",
+  "URL": "https://arxiv.org/abs/2610.11963v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.11963",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.11963",
+    "identifiers": {
+      "arxiv": "2610.11963"
+    },
+    "first_published_at": "2026-10-08",
+    "record_updated_at": "2026-10-08",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0e77dcf101ba95684aac51084e43b914c0aca86fc25d061612224118004bdb21",
+      "submitted_at": "2026-10-08T13:44:53Z",
+      "updated_at": "2026-10-08T13:44:53Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.11963v1"
+    }
+  },
+  "note": "First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T13:44:53Z.",
+  "author": [
+    {
+      "literal": "Utku Boran Torun"
+    },
+    {
+      "literal": "Veli Karakaya"
+    },
+    {
+      "literal": "Eray Tüzün"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.11963",
+  "genre": "preprint",
+  "version": "1"
+}

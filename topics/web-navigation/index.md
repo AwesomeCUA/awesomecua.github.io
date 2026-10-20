@@ -24,6 +24,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/web-navigatio
   Presents MASTIF, a framework for comparing combinations of agent models, protocols, and implementation frameworks on web tasks, with an initial assessment using 300 Mind2Web tasks.
 - [Web$hell: A Unified Interface for Agentic Web Access](https://awesomecua.github.io/resources/arxiv-2610-13416/) — 2026-10-09
   Introduces Web$hell, an interface that compiles live pages into persistent information and action objects so agents can gather evidence, navigate websites, and reuse acquired content through shared operations.
+- [Can LLMs Fix It Without Code? Toward Automated Verification of No-Code Bug Fixes](https://awesomecua.github.io/resources/arxiv-2610-11963/) — 2026-10-08
+  Tests natural-language no-code fixes through GUI execution in Linux Brave. Scripted fixed/buggy-state gates and issue-specific checkers distinguish fix outcomes from the executor's completion claims.
 - [Secure-CUA: Controlling Untrusted Influence in Computer-Use Agents](https://awesomecua.github.io/resources/arxiv-2610-09469/) — 2026-10-07
   Proposes Secure-CUA, which commits to per-action transactions before reading untrusted page content and separates content queries from GUI target selection. The paper formalizes its protection assumptions and evaluates benign task utility on WebArena.
 - [CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling](https://awesomecua.github.io/resources/arxiv-2610-06829/) — 2026-10-05
@@ -40,6 +42,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/web-navigatio
   Describes a WebRetriever agent that combines semantic webpage operations with visual localization when structured representations are insufficient. Hierarchical context management and fault-aware execution support processing tasks across concurrent browsers.
 - [Probe to Act: Elevating Browser-Use Agent via Active Visual Probing](https://awesomecua.github.io/resources/arxiv-2609-33646/) — 2026-09-27
   Introduces Probe to Act, which lets browser agents request visual evidence linking DOM handles and screen regions before committing an operation. It retains selected interaction evidence as memory and studies both prompted use and distillation into open models.
+- [ORBIT: A Framework for Multi-Agent Safety and Security Evaluations](https://awesomecua.github.io/resources/arxiv-2609-33102/) — 2026-09-27
+  Inspect-based framework that varies multi-agent roles, communication, attacks and defenses, with BrowserGym and virtual-desktop GUI adapters alongside coding and other tool scenarios.
 - [From Trajectories to Grounded Preferences: Process Preference Synthesis via Interaction Element Graphs for Web PRMs](https://awesomecua.github.io/resources/arxiv-2609-32351/) — 2026-09-26
   Introduces SURFPRM, which turns web demonstrations into an interaction-element graph for synthesizing grounded negative actions. Its contrastive preference data trains process reward models to distinguish plausible on-page alternatives and guide downstream trajectory search.
 - [The Hard Part Comes After Search: Benchmarking Web Agents on Synthesizing, Organizing, and Displaying Knowledge](https://awesomecua.github.io/resources/arxiv-2609-30604/) — 2026-09-24

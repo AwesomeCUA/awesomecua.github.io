@@ -6,6 +6,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/world-models/
 
 ## 论文与综述
 
+- [Beyond Next-Screen Prediction: The Decision Value of GUI World Models](https://awesomecua.github.io/resources/arxiv-2610-24372/) — 2026-10-17
+  Separates next-screen prediction from action evaluation in GUI lookahead and trains Direct Action Ranking on reference actions, comparing prediction-augmented scoring under matched offline supervision.
 - [Latent World Action Model for GUI Agents](https://awesomecua.github.io/resources/arxiv-2610-14228/) — 2026-10-09
   Replaces future-screenshot generation with a shared latent representation for GUI action selection and action-conditioned transition prediction. An action-aware contrastive objective encourages the transition representation to retain discriminative action-induced changes.
 - [Right Screen, Wrong Transition: World Models as Verifiers for GUI Agents](https://awesomecua.github.io/resources/arxiv-2610-11942/) — 2026-10-08

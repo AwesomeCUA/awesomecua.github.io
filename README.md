@@ -44,9 +44,9 @@ python3 scripts/catalog.py get arxiv:2404.07972 --related --json
 
 </details>
 
-**3,213 resource records** · **1,649 curated** · **2,745 paper and survey records** · **54 discovery documents**
+**3,218 resource records** · **1,655 curated** · **2,750 paper and survey records** · **54 discovery documents**
 
-Evidence snapshot: 2026-10-20T12:05:06.711971+00:00. Bibliography counts overlap review-state counts. Resources are not independent projects.
+Evidence snapshot: 2026-10-20T13:12:58.069698Z. Bibliography counts overlap review-state counts. Resources are not independent projects.
 
 ## What is a computer-use agent?
 
@@ -56,7 +56,7 @@ A computer-use agent observes software interfaces, chooses and executes actions,
 
 | Category | Records | Browse |
 | --- | ---: | --- |
-| Research papers | 2,727 | [Open directory](https://awesomecua.github.io/categories/paper/) |
+| Research papers | 2,732 | [Open directory](https://awesomecua.github.io/categories/paper/) |
 | Surveys | 18 | [Open directory](https://awesomecua.github.io/categories/survey/) |
 | Models and checkpoints | 98 | [Open directory](https://awesomecua.github.io/categories/model/) |
 | Datasets | 86 | [Open directory](https://awesomecua.github.io/categories/dataset/) |
@@ -79,9 +79,9 @@ Category pages highlight reviewed resources; the [interactive catalog](https://a
 - [Tandem: Serving Hybrid Linear-Attention GUI Agents on Mobile NPUs](https://awesomecua.github.io/resources/arxiv-2610-26660/) — Tandem serves hybrid GUI-agent models on Android NPUs using divergence-point state checkpoints, rollback-aware speculative decoding and idle power release between request bursts. [Original paper](https://arxiv.org/abs/2610.26660).
 - [Comparing Computer Use Behavior Across Multiple Levels of Abstraction](https://awesomecua.github.io/resources/arxiv-2610-26703/) — MAP annotates computer-use traces at linked operation, function/consequence, method and goal levels, then compares human and agent workflows through sequence, pattern and effort metrics. [Original paper](https://arxiv.org/abs/2610.26703).
 - [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](https://awesomecua.github.io/resources/arxiv-2610-26828/) — WildAWM synthesizes resettable GUI/MCP/CLI environments and cross-interface tasks, using execution-based checks of solvability, difficulty and verifier consistency before supervised and reinforcement learning. [Original paper](https://arxiv.org/abs/2610.26828).
+- [Beyond Next-Screen Prediction: The Decision Value of GUI World Models](https://awesomecua.github.io/resources/arxiv-2610-24372/) — Separates next-screen prediction from action evaluation in GUI lookahead and trains Direct Action Ranking on reference actions, comparing prediction-augmented scoring under matched offline supervision. [Original paper](https://arxiv.org/abs/2610.24372).
 - [PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas](https://awesomecua.github.io/resources/arxiv-2610-22990/) — PersonaCUABench varies simulated user requests and clarification dialogue over fixed web tasks, comparing task completion with requirement handling and persona-agent satisfaction ratings. [Original paper](https://arxiv.org/abs/2610.22990).
 - [Adaptation of Computer Use Agents to New Software with User Manuals](https://awesomecua.github.io/resources/arxiv-2610-23012/) — MAGE retrieves software-manual sections into fixed execution plans and generates setup/main task-plan pairs whose GUI rollouts support application-specific policy adaptation with round-based GRPO. [Original paper](https://arxiv.org/abs/2610.23012).
-- [MobileJailBench: Red Queen Jailbreak Benchmarking for Mobile Agents](https://awesomecua.github.io/resources/arxiv-2610-23303/) — MobileJailBench evaluates mobile-agent jailbreaks in a browser-based Android-like simulator, combining feedback-driven attack evolution, separately admitted task expansions and evidence-grounded outcome adjudication. [Original paper](https://arxiv.org/abs/2610.23303).
 
 [All reviewed papers and surveys](https://awesomecua.github.io/papers/). Annotations do not independently reproduce experimental findings.
 

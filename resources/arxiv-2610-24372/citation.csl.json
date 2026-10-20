@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2610.24372",
+  "citation-key": "arxiv_2610_24372",
+  "type": "article",
+  "title": "Beyond Next-Screen Prediction: The Decision Value of GUI World Models",
+  "URL": "https://arxiv.org/abs/2610.24372v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.24372",
+    "catalog_kind": "paper",
+    "catalog_review_status": "curated",
+    "canonical_source_url": "https://arxiv.org/abs/2610.24372",
+    "identifiers": {
+      "arxiv": "2610.24372"
+    },
+    "first_published_at": "2026-10-17",
+    "record_updated_at": "2026-10-17",
+    "catalog_scope": "core",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9d6808cf26a609b50b7835ae3ecece0a13580aafcd589823f0b1eeff54732f69",
+      "submitted_at": "2026-10-17T02:03:20Z",
+      "updated_at": "2026-10-17T02:03:20Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.24372v1"
+    }
+  },
+  "note": "First published: 2026-10-17; Recorded arXiv version: v1; Recorded version updated: 2026-10-17T02:03:20Z.",
+  "author": [
+    {
+      "literal": "Sizhe Tang"
+    },
+    {
+      "literal": "Hanhan Zhou"
+    },
+    {
+      "literal": "Jeffrey Svajlenko"
+    },
+    {
+      "literal": "Rashmi Gangadharaiah"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.24372",
+  "genre": "preprint",
+  "version": "1"
+}

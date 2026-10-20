@@ -10931,6 +10931,61 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2609.33102v1",
+    "archive": "arXiv",
+    "archive_location": "2609.33102",
+    "author": [
+      {
+        "literal": "Ben Hagag"
+      },
+      {
+        "literal": "William L. Anderson"
+      },
+      {
+        "literal": "Srija Chakraborty"
+      },
+      {
+        "literal": "Christian Schroeder de Witt"
+      }
+    ],
+    "citation-key": "arxiv_2609_33102",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3c380079220050fbe354509238a5a79c7df2917a245490e4ec0cff512f7565ab",
+        "submitted_at": "2026-09-27T02:20:08Z",
+        "updated_at": "2026-09-27T02:20:08Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.33102v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.33102",
+      "catalog_id": "arxiv:2609.33102",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-09-27",
+      "identifiers": {
+        "arxiv": "2609.33102"
+      },
+      "record_updated_at": "2026-09-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.33102",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-27; Recorded arXiv version: v1; Recorded version updated: 2026-09-27T02:20:08Z.",
+    "title": "ORBIT: A Framework for Multi-Agent Safety and Security Evaluations",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2609.34974v1",
     "archive": "arXiv",
     "archive_location": "2609.34974",
@@ -11544,6 +11599,55 @@
     },
     "note": "First published: 2026-10-10; Recorded arXiv version: v1; Recorded version updated: 2026-10-10T19:30:31Z.",
     "title": "The Agent Clicks Approve: Injected Page Text Makes Browser Agents Authorize Access the Task Never Named",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.15502v1",
+    "archive": "arXiv",
+    "archive_location": "2610.15502",
+    "author": [
+      {
+        "literal": "Hyobin Ahn"
+      },
+      {
+        "literal": "Dongjae Lee"
+      }
+    ],
+    "citation-key": "arxiv_2610_15502",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ff5470e792d14ced2cdff648d97e2606eea4b3c822046b7c10272fd2a5f1695f",
+        "submitted_at": "2026-10-11T10:09:44Z",
+        "updated_at": "2026-10-11T10:09:44Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.15502v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.15502",
+      "catalog_id": "arxiv:2610.15502",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-11",
+      "identifiers": {
+        "arxiv": "2610.15502"
+      },
+      "record_updated_at": "2026-10-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.15502",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-11; Recorded arXiv version: v1; Recorded version updated: 2026-10-11T10:09:44Z.",
+    "title": "From Observations to Authorized Actions: Measuring Source Information in Android Agents",
     "type": "article",
     "version": "1"
   },
