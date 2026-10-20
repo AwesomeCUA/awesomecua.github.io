@@ -1,0 +1,79 @@
+{
+  "id": "arxiv:2610.26828",
+  "citation-key": "arxiv_2610_26828",
+  "type": "article",
+  "title": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
+  "URL": "https://arxiv.org/abs/2610.26828v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.26828",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.26828",
+    "identifiers": {
+      "arxiv": "2610.26828"
+    },
+    "first_published_at": "2026-10-19",
+    "record_updated_at": "2026-10-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1f1ff33859352b61f017709fff91fd8e32f08636e9423fb044e7ca8e28f06905",
+      "submitted_at": "2026-10-19T17:55:35Z",
+      "updated_at": "2026-10-19T17:55:35Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.26828v1"
+    }
+  },
+  "note": "First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T17:55:35Z.",
+  "author": [
+    {
+      "literal": "Zhaoyang Wang"
+    },
+    {
+      "literal": "Qianhui Wu"
+    },
+    {
+      "literal": "Haorui Wang"
+    },
+    {
+      "literal": "Simon Yu"
+    },
+    {
+      "literal": "Baolin Peng"
+    },
+    {
+      "literal": "Canwen Xu"
+    },
+    {
+      "literal": "Hao Cheng"
+    },
+    {
+      "literal": "Wenlin Yao"
+    },
+    {
+      "literal": "Boyi Liu"
+    },
+    {
+      "literal": "Yite Wang"
+    },
+    {
+      "literal": "Jianfeng Gao"
+    },
+    {
+      "literal": "Huaxiu Yao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.26828",
+  "genre": "preprint",
+  "version": "1"
+}

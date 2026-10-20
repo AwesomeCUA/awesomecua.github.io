@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2610.19384",
+  "citation-key": "arxiv_2610_19384",
+  "type": "article",
+  "title": "MMA-SafetyBench: A Benchmark for Multimodal Agent Safety Evaluation",
+  "URL": "https://arxiv.org/abs/2610.19384v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.19384",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.19384",
+    "identifiers": {
+      "arxiv": "2610.19384"
+    },
+    "first_published_at": "2026-10-14",
+    "record_updated_at": "2026-10-14",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "da334d943d98b4bf9915c6ca28aab734d736f376e67cbab950aa1af65f540ebf",
+      "submitted_at": "2026-10-14T01:30:03Z",
+      "updated_at": "2026-10-14T01:30:03Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.19384v1"
+    }
+  },
+  "note": "First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T01:30:03Z.",
+  "author": [
+    {
+      "literal": "Yuke Wang"
+    },
+    {
+      "literal": "Benlei Cui"
+    },
+    {
+      "literal": "Shen Pang"
+    },
+    {
+      "literal": "Xuemei Dong"
+    },
+    {
+      "literal": "Longtao Huang"
+    },
+    {
+      "literal": "Hui Xue"
+    },
+    {
+      "literal": "Yuwen Zhai"
+    },
+    {
+      "literal": "Junjie Li"
+    },
+    {
+      "literal": "Jingqun Tang"
+    },
+    {
+      "literal": "Haiwen Hong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        14
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.19384",
+  "genre": "preprint",
+  "version": "1"
+}

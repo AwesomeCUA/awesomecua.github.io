@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2610.24729",
+  "citation-key": "arxiv_2610_24729",
+  "type": "article",
+  "title": "fxBench: Evaluating and Understanding Formula Suggestions in Spreadsheets",
+  "URL": "https://arxiv.org/abs/2610.24729v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.24729",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.24729",
+    "identifiers": {
+      "arxiv": "2610.24729"
+    },
+    "first_published_at": "2026-10-17",
+    "record_updated_at": "2026-10-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6581c87a59b65b764870cf98496512e9687f2ded254904dc6cdd021fd9cfe10a",
+      "submitted_at": "2026-10-17T14:49:08Z",
+      "updated_at": "2026-10-17T14:49:08Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.24729v1"
+    }
+  },
+  "note": "First published: 2026-10-17; Recorded arXiv version: v1; Recorded version updated: 2026-10-17T14:49:08Z.",
+  "author": [
+    {
+      "literal": "Sanket Mhatre"
+    },
+    {
+      "literal": "Sumit Gulwani"
+    },
+    {
+      "literal": "Vu Le"
+    },
+    {
+      "literal": "Yasharth Bajpai"
+    },
+    {
+      "literal": "Gust Verbruggen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.24729",
+  "genre": "preprint",
+  "version": "1"
+}

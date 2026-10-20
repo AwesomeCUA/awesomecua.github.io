@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2610.26503",
+  "citation-key": "arxiv_2610_26503",
+  "type": "article",
+  "title": "ScopeMem: Latent Memory That Learns Where to Revise Frozen GUI Agents",
+  "URL": "https://arxiv.org/abs/2610.26503v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.26503",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.26503",
+    "identifiers": {
+      "arxiv": "2610.26503"
+    },
+    "first_published_at": "2026-10-19",
+    "record_updated_at": "2026-10-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7dc2ceb9aadbf7506efc068df99326fea5b60fdc6feb340c490841b88aa19c30",
+      "submitted_at": "2026-10-19T14:38:41Z",
+      "updated_at": "2026-10-19T14:38:41Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.26503v1"
+    }
+  },
+  "note": "First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T14:38:41Z.",
+  "author": [
+    {
+      "literal": "Zhicheng Zheng"
+    },
+    {
+      "literal": "Cheng Zhang"
+    },
+    {
+      "literal": "Shengping Yu"
+    },
+    {
+      "literal": "Tianxiang Zhao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.26503",
+  "genre": "preprint",
+  "version": "1"
+}
