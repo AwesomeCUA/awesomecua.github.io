@@ -18,6 +18,12 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 - Record JSON: https://awesomecua.github.io/resources/arxiv-2610-20424/record.json
 
+## Recorded reviewer hold
+
+Scope hold after v1 Sections 3\.1–3\.3, 4\.2–4\.4 and 5\.1: the reconstructed environment uses documents, database states, business\-tool calls and an LLM user simulator\. The inspected execution protocol does not establish GUI, browser or concrete OS/terminal interaction; a portal approval is represented as a tool/state event\. Need explicit interface observations/actions and evaluated interaction evidence before core or adjacent inclusion\. Preserve metadata; this is not a scope exclusion\.
+
+- Review ledger: https://awesomecua.github.io/downloads/coverage.json
+
 ## Authors
 
 Enhan Zhao, Yongqi Tong, Xuejun Yu, Hang Wang, Pan Wang, Yichao Wang, Di He, Jianshe Li, Wei Wu

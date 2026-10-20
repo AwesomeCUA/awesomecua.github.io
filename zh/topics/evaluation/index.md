@@ -1408,6 +1408,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/evaluation/re
   iOS agent engine organized around an observe, decide, verify and act loop, using WebDriverAgent screen state and phone actions such as taps, typing, swipes and app switches.
 - [OpenMobile-2 code](https://awesomecua.github.io/resources/github-openmobile2-openmobile2-code/) — Date not recorded
   Evaluation adapters and training guidance for OpenMobile-2 across Android emulators and browser-rendered mobile simulation.
+- [ORBIT framework](https://awesomecua.github.io/resources/github-wlanderson0-orbit/) — Date not recorded
+  Inspect-based multi-agent evaluation framework with role, scheduling and communication controls, BrowserART accessibility-tree actions, and desktop mouse, keyboard and screenshot tools.
 - [RedTeamCUA](https://awesomecua.github.io/resources/github-osu-nlp-group-redteamcua/) — Date not recorded
   A controlled testing framework that combines desktop virtual machines and replicated websites to evaluate computer-use agents against indirect prompt injection.
 - [ScienceBoard VMware environment](https://awesomecua.github.io/resources/url-75917f2c2b2802aafd3e/) — Date not recorded

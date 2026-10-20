@@ -438,3 +438,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/screen-unders
   A Windows MCP bridge exposing application, window, keyboard and mouse operations plus native UI-state inspection for agents.
 - [Yunkai](https://awesomecua.github.io/resources/github-solplum-yunkai/) — Date not recorded
   Android phone assistant combining model-driven tool use with accessibility-tree reading, screenshots, and tap, swipe and text-entry primitives. Its documented interaction flow presents operation plans for user confirmation.
+
+## Learning resources
+
+- [Web Browser Automation with Agents (smolagents tutorial)](https://awesomecua.github.io/resources/url-5857c840372512cfe3fc/) — Date not recorded
+  Versioned tutorial building a vision-guided CodeAgent with Selenium/Helium browser tools, screenshot callbacks and example web-navigation tasks.

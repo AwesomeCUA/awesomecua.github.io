@@ -9,6 +9,7 @@ https://awesomecua.github.io/categories/company/
 https://awesomecua.github.io/categories/dataset/
 https://awesomecua.github.io/categories/framework/
 https://awesomecua.github.io/categories/infrastructure/
+https://awesomecua.github.io/categories/learning/
 https://awesomecua.github.io/categories/model/
 https://awesomecua.github.io/categories/paper/
 https://awesomecua.github.io/categories/product/
@@ -1204,6 +1205,7 @@ https://awesomecua.github.io/resources/arxiv-2610-22280/
 https://awesomecua.github.io/resources/arxiv-2610-22408/
 https://awesomecua.github.io/resources/arxiv-2610-22539/
 https://awesomecua.github.io/resources/arxiv-2610-22672/
+https://awesomecua.github.io/resources/arxiv-2610-22697/
 https://awesomecua.github.io/resources/arxiv-2610-22990/
 https://awesomecua.github.io/resources/arxiv-2610-23012/
 https://awesomecua.github.io/resources/arxiv-2610-23303/
@@ -1471,6 +1473,7 @@ https://awesomecua.github.io/resources/github-web-infra-dev-midscene/
 https://awesomecua.github.io/resources/github-webvln-webvln/
 https://awesomecua.github.io/resources/github-weizhepei-webagent-r1/
 https://awesomecua.github.io/resources/github-westlake-agi-lab-appagentx/
+https://awesomecua.github.io/resources/github-wlanderson0-orbit/
 https://awesomecua.github.io/resources/github-wuklab-osworld-human/
 https://awesomecua.github.io/resources/github-wuzheng02-gui-cider/
 https://awesomecua.github.io/resources/github-wuzheng02-os-kairos/
@@ -1572,6 +1575,7 @@ https://awesomecua.github.io/resources/url-54997a3c67e54abdf319/
 https://awesomecua.github.io/resources/url-56bda04bd8d3a438deb3/
 https://awesomecua.github.io/resources/url-570654ff67ecefa2b955/
 https://awesomecua.github.io/resources/url-57f17b7d0c18b2d7c8bf/
+https://awesomecua.github.io/resources/url-5857c840372512cfe3fc/
 https://awesomecua.github.io/resources/url-58a209f2b3b970916396/
 https://awesomecua.github.io/resources/url-5d61c1b5fc8dd650518d/
 https://awesomecua.github.io/resources/url-5e2bd1b3398974b79c9c/
@@ -1623,6 +1627,7 @@ https://awesomecua.github.io/resources/url-a4cdb2ee0d07d3980651/
 https://awesomecua.github.io/resources/url-a4da77ee63f879cc8e63/
 https://awesomecua.github.io/resources/url-a6ee20fea67438d91e06/
 https://awesomecua.github.io/resources/url-aa28e1329a52e341d285/
+https://awesomecua.github.io/resources/url-aa693ca3e8948623f31e/
 https://awesomecua.github.io/resources/url-ab26f9ef56d651cee587/
 https://awesomecua.github.io/resources/url-ac6d0f80765f5a32255a/
 https://awesomecua.github.io/resources/url-ad7f176848fd84de64e2/
@@ -1789,6 +1794,7 @@ https://awesomecua.github.io/topics/web-navigation/page/2/
 https://awesomecua.github.io/topics/web-navigation/page/3/
 https://awesomecua.github.io/topics/web-navigation/page/4/
 https://awesomecua.github.io/topics/web-navigation/page/5/
+https://awesomecua.github.io/topics/web-navigation/page/6/
 https://awesomecua.github.io/topics/workflow/
 https://awesomecua.github.io/topics/workflow/page/2/
 https://awesomecua.github.io/topics/world-models/
@@ -1906,6 +1912,7 @@ https://awesomecua.github.io/zh/topics/web-navigation/page/2/
 https://awesomecua.github.io/zh/topics/web-navigation/page/3/
 https://awesomecua.github.io/zh/topics/web-navigation/page/4/
 https://awesomecua.github.io/zh/topics/web-navigation/page/5/
+https://awesomecua.github.io/zh/topics/web-navigation/page/6/
 https://awesomecua.github.io/zh/topics/workflow/
 https://awesomecua.github.io/zh/topics/workflow/page/2/
 https://awesomecua.github.io/zh/topics/world-models/

@@ -4539,6 +4539,52 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.22697v1",
+    "archive": "arXiv",
+    "archive_location": "2610.22697",
+    "author": [
+      {
+        "literal": "Umar Iqbal"
+      }
+    ],
+    "citation-key": "arxiv_2610_22697",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "077dd623c980813e83197a38b6545161a3d2fc842d99fe291c53372b9770acd2",
+        "submitted_at": "2026-10-15T22:02:45Z",
+        "updated_at": "2026-10-15T22:02:45Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.22697v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.22697",
+      "catalog_id": "arxiv:2610.22697",
+      "catalog_kind": "paper",
+      "catalog_review_status": "curated",
+      "catalog_scope": "core",
+      "first_published_at": "2026-10-15",
+      "identifiers": {
+        "arxiv": "2610.22697"
+      },
+      "record_updated_at": "2026-10-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.22697",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          15
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T22:02:45Z.",
+    "title": "What It Is, Not What It Says: Securing Agentic Browsing Interactions with Web Semantics",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.22990v1",
     "archive": "arXiv",
     "archive_location": "2610.22990",

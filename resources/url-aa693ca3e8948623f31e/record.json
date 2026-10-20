@@ -1,0 +1,83 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {},
+  "environments": [
+    "web"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T12:51:44.325799+00:00",
+      "role": "primary",
+      "sha256": "1f0315e8758fe0edd97adb2c5253955dcdbe6d7bd8be393fe14dcd093483705f",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes"
+      ],
+      "url": "https://www.deeplearning.ai/courses/building-ai-browser-agents"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T13:41:10.403317+00:00",
+      "role": "primary",
+      "sha256": "0915d862638a308da6200d9603d668ab4d11bcabfa713ff0ccb82c7b21a5a92f",
+      "supports": [
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes"
+      ],
+      "url": "https://learn.deeplearning.ai/courses/building-ai-browser-agents/lesson/wwewm/building-a-simple-web-agent"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T13:42:56.029732+00:00",
+      "role": "primary",
+      "sha256": "20d17ca47d1d16826f8e2736d6639d0cf11e826ef28c788187e16adcac9d7561",
+      "supports": [
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes"
+      ],
+      "url": "https://learn.deeplearning.ai/courses/building-ai-browser-agents/lesson/lot5j/building-an-autonomous-web-agent"
+    }
+  ],
+  "id": "url:aa693ca3e8948623f31e",
+  "identifiers": {},
+  "kind": "learning",
+  "last_verified_at": "2026-10-20T12:51:44.325799+00:00",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://www.deeplearning.ai/courses/building-ai-browser-agents"
+    }
+  ],
+  "name": "Building AI Browser Agents",
+  "notes": "Review covers the public syllabus and complete published transcripts of the simple-agent and autonomous-agent lessons, not the whole course or its video frames. The first uses Playwright and structured HTML extraction; the second uses a MultiOn session API and shows missed steps, continuations and clarifications. Hosted notebooks and helper files were not retrieved, and current service access was not tested. No account, enrollment, terms acceptance, installation or execution occurred. Course and example-code reuse terms remain unknown.",
+  "published_at": null,
+  "relations": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Browser-agent course with worked lessons on structured web extraction and multi-step browser interaction, followed by AgentQ search and self-correction concepts.",
+  "topics": [
+    "web-navigation",
+    "planning"
+  ],
+  "updated_at": null,
+  "url": "https://www.deeplearning.ai/courses/building-ai-browser-agents"
+}

@@ -10,6 +10,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/web-navigatio
   SPIDES propagates HTML integrity and confidentiality labels into agent context and mediates browser actions with information-flow policies and approval gates, evaluated in the labeled MicroNet ecosystem.
 - [PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas](https://awesomecua.github.io/resources/arxiv-2610-22990/) — 2026-10-16
   PersonaCUABench varies simulated user requests and clarification dialogue over fixed web tasks, comparing task completion with requirement handling and persona-agent satisfaction ratings.
+- [What It Is, Not What It Says: Securing Agentic Browsing Interactions with Web Semantics](https://awesomecua.github.io/resources/arxiv-2610-22697/) — 2026-10-15
+  Intact records webpage element provenance and capabilities, isolates planning per element, and uses a browser harness to constrain actions and request consent for third-party interactions.
 - [Don't Retrain, Remix: Adaptation of Web Agents using Mixture Hypernetworks](https://awesomecua.github.io/resources/arxiv-2610-22539/) — 2026-10-15
   WebMix uses a scout-produced interface manual to route mixtures of source-trained LoRA adapters for web agents, adapting to target interfaces without target-time gradient updates.
 - [Why Generate a Click? Plug-in Decision Heads for Web Agents](https://awesomecua.github.io/resources/arxiv-2610-20107/) — 2026-10-14
@@ -576,6 +578,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/web-navigatio
   The OpenAgents browser-control component, connecting a Chrome extension to a web agent and local chat platform for navigating sites and completing interface tasks.
 - [Operator](https://awesomecua.github.io/resources/url-f0584842138a52158f51/) — Date not recorded
   Historical OpenAI browser-agent research preview.
+- [ORBIT framework](https://awesomecua.github.io/resources/github-wlanderson0-orbit/) — Date not recorded
+  Inspect-based multi-agent evaluation framework with role, scheduling and communication controls, BrowserART accessibility-tree actions, and desktop mouse, keyboard and screenshot tools.
 - [Plan-and-Act](https://awesomecua.github.io/resources/github-squeezeailab-plan-and-act/) — Date not recorded
   A web-agent framework that separates high-level planning from action execution, with replanning and synthetic planner-data generation components.
 - [Proposer-Agent-Evaluator (PAE)](https://awesomecua.github.io/resources/github-amazon-science-pae/) — Date not recorded
@@ -616,3 +620,10 @@ Full source records: https://awesomecua.github.io/downloads/topics/web-navigatio
   Research code that learns browser-control policies by constraining exploration with workflows induced from demonstrations, with a Selenium-based MiniWoB environment and experiment harness.
 - [WorkForceAgent-R1](https://awesomecua.github.io/resources/github-night-chen-workforceagent-r1/) — Date not recorded
   Web-task reward functions, WorkArena data processing and GRPO training configurations for reasoning-oriented language agents.
+
+## Learning resources
+
+- [Building AI Browser Agents](https://awesomecua.github.io/resources/url-aa693ca3e8948623f31e/) — Date not recorded
+  Browser-agent course with worked lessons on structured web extraction and multi-step browser interaction, followed by AgentQ search and self-correction concepts.
+- [Web Browser Automation with Agents (smolagents tutorial)](https://awesomecua.github.io/resources/url-5857c840372512cfe3fc/) — Date not recorded
+  Versioned tutorial building a vision-guided CodeAgent with Selenium/Helium browser tools, screenshot callbacks and example web-navigation tasks.

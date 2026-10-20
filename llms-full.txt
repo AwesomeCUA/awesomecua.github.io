@@ -1,6 +1,6 @@
 # AwesomeCUA curated resource annotations
 
-Evidence snapshot: 2026-10-20T13:48:11Z. These records were reviewed with AI assistance; experiments are not independently reproduced.
+Evidence snapshot: 2026-10-20T14:10:32.910533Z. These records were reviewed with AI assistance; experiments are not independently reproduced.
 
 Related reading: [English research survey](https://awesomecua.github.io/survey/). This working manuscript uses its own frozen inventory; its text is separate from the catalog annotations below.
 
@@ -61542,6 +61542,58 @@ Adamo Orsini, Seyed Mehdi Ayyoubzadeh, Sadman Rakib Pinon, Hannuo Zhang, Koosha 
 
 ---
 
+# What It Is, Not What It Says: Securing Agentic Browsing Interactions with Web Semantics
+
+Intact records webpage element provenance and capabilities, isolates planning per element, and uses a browser harness to constrain actions and request consent for third-party interactions.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2610-22697/
+- Original source: https://arxiv.org/abs/2610.22697
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: safety-security, web-navigation, planning, human-in-the-loop
+- Evidence checked: 2026-10-20T13:38:46.444001Z
+- ID: arxiv:2610.22697
+
+## Limitations
+
+Evaluation instructs the model to simulate compromise and measures planner outputs and permission appearance. Utility uses plan matching and LLM-judged element suitability; no steps are executed in that assessment. Assumes an honest first party, trusted browser/harness and untampered instrumentation; multi-page and availability attacks are outside scope. Parallel latency reduction is an unimplemented estimate. No independent reproduction.
+
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2610-22697/record.json
+
+## Authors
+
+Umar Iqbal
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2610-22697/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2610-22697/citation.csl.json
+
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2610.22697v1
+- First submission: 2026-10-15T22:02:45Z
+- Version updated: 2026-10-15T22:02:45Z
+- Abstract SHA-256: 077dd623c980813e83197a38b6545161a3d2fc842d99fe291c53372b9770acd2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2610.19384%2C2610.22672%2C2610.22697%2C2610.23303%2C2610.23307%2C2610.24729&max_results=6 (retrieved 2026-10-20T05:52:01Z; SHA-256 63e37cd26bfe69455a3fa835f3d6ba4cfcc5bb7dc91f90505920d37b1e08f0b6)
+- https://arxiv.org/html/2610.22697v1 (retrieved 2026-10-20T13:38:46.444001Z; SHA-256 cb6a8a9c0cc47be21b36b3d1831b26c6189d8f2e4af0d7e26d643c9c2a65452f)
+
+---
+
 # PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas
 
 PersonaCUABench varies simulated user requests and clarification dialogue over fixed web tasks, comparing task completion with requirement handling and persona-agent satisfaction ratings.
@@ -72132,6 +72184,50 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+# ORBIT framework
+
+Inspect-based multi-agent evaluation framework with role, scheduling and communication controls, BrowserART accessibility-tree actions, and desktop mouse, keyboard and screenshot tools.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-wlanderson0-orbit/
+- Original source: https://github.com/wlanderson0/orbit
+- Kind: framework
+- Review: curated
+- Scope: core
+- Environments: web, desktop
+- Topics: evaluation, safety-security, web-navigation, observability
+- Evidence checked: 2026-10-20T13:41:22.467183+00:00
+- ID: github:wlanderson0/orbit
+
+## Limitations
+
+Reviewed version 1.0.3 source at commit 588b3035, not an asserted reproduction of the paper. BrowserART tools return accessibility trees, including the screenshot-named refresh. Qualification is scenario-specific: the project documents browser-judge and desktop-scoring limits; its opt-in exact-send oracle covers one derived local task, not SMTP delivery. Runtime profiles and scoring policies are separate. Apache-2.0 is the top-level Orbit code declaration; third-party components and external data/environments retain separate terms. No installation, release archive or live evaluation was tested.
+
+- Record JSON: https://awesomecua.github.io/resources/github-wlanderson0-orbit/record.json
+
+## License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- code review: Record only the publisher's top-level Apache-2.0 declaration for Orbit-original code. NOTICE explicitly preserves per-component terms; neither bundled or external data nor model weights inherit this declaration. Its account of BrowserART licensing is not an independent resolution of upstream conflicting declarations.
+  Sources: https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/LICENSE, https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/NOTICE
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/README.md (retrieved 2026-10-20T13:41:22.467183+00:00; SHA-256 b6743e3e9e5256d7afa8bb411baf246b60ba71bcfb84eda5a816fba3ddd7d78b)
+- https://api.github.com/repos/wlanderson0/orbit (retrieved 2026-10-20T13:39:57.052202+00:00; SHA-256 0436414b9bcc4307f3bcde476a544da6fe1dd5baa90939eed392942490fbfbf7)
+- https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/orbit/scenarios/browser/browserart/tools.py (retrieved 2026-10-20T13:42:37.098639+00:00; SHA-256 c47d046b129999da5e63b7723a3f3e2e0cc31c27ce74b45f71f8c6d0df1fc0d8)
+- https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/orbit/scenarios/desktop/osworld/tools.py (retrieved 2026-10-20T14:10:32.910533Z; SHA-256 2cce76b22252a415d64c356b2062771e528b554dd83b6f88fca769f48fa8a826)
+- https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/docs/benchmark-qualification.md (retrieved 2026-10-20T14:09:35.060985Z; SHA-256 66515d7ee87eab5a2f42c26132d0bf3e2a3b9c006156d2378181cf91966a2903)
+- https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/orbit/scenarios/browser/browserart/scorer.py (retrieved 2026-10-20T14:10:29.541892Z; SHA-256 94c781028dc80b2a748d759fae2456f6a986da7487651a6bcbb179e8ad4fe023)
+- https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/LICENSE (retrieved 2026-10-20T13:41:29.036076+00:00; SHA-256 cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30)
+- https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/NOTICE (retrieved 2026-10-20T14:09:31.550310Z; SHA-256 f68a64f775b1f329416f2fe294bb07b5e475893f77d1cdb5300bdb08acf95410)
+- https://arxiv.org/html/2609.33102v1 (retrieved 2026-10-20T13:12:28.833839+00:00; SHA-256 3ea667f4187ba601011e5ff00c4d63676b6d9903d12b80a0d7d5dd9920f00c65)
+
+---
+
 # OSWorld-Human
 
 Human reference trajectories and scoring code for measuring the action efficiency of computer-use agents on OSWorld tasks.
@@ -76177,6 +76273,46 @@ Inclusion does not establish reproducibility or endorsement.
 
 ---
 
+# Web Browser Automation with Agents (smolagents tutorial)
+
+Versioned tutorial building a vision-guided CodeAgent with Selenium/Helium browser tools, screenshot callbacks and example web-navigation tasks.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-5857c840372512cfe3fc/
+- Original source: https://huggingface.co/docs/smolagents/examples/web_browser
+- Kind: learning
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, screen-understanding
+- Evidence checked: 2026-10-20T13:42:59.429802+00:00
+- ID: url:5857c840372512cfe3fc
+
+## Limitations
+
+The reviewed v1.26.0 page matches all eight code blocks in its commit-pinned Markdown source. It uses InferenceClientModel and a vision model, unlike the retained v1.8.0 example. The shown setup starts a local visible Chrome session, and its installation command does not pin dependency versions. Runtime API compatibility, model-provider access and example outcomes were not tested. The inspected repository root contains Apache-2.0 terms, but explicit applicability to this Markdown tutorial was not established from retained sources; document reuse terms remain unknown. Model weights, visited websites and hosted-service terms are separate. No installation or notebook execution occurred.
+
+- Record JSON: https://awesomecua.github.io/resources/url-5857c840372512cfe3fc/record.json
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+- document review: The retained repository-root file contains Apache-2.0 terms, but the reviewed Markdown has no license notice and the retained sources do not explicitly establish that this license applies to the tutorial document. Document reuse terms remain unknown; this is not a claim that no license exists. Code, data, weights and hosted-service terms are not inferred.
+  Sources: https://raw.githubusercontent.com/huggingface/smolagents/12c1bc820eca50ace6f80a21d90426d41d74f845/docs/source/en/examples/web_browser.md, https://raw.githubusercontent.com/huggingface/smolagents/12c1bc820eca50ace6f80a21d90426d41d74f845/LICENSE
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/huggingface/smolagents/12c1bc820eca50ace6f80a21d90426d41d74f845/docs/source/en/examples/web_browser.md (retrieved 2026-10-20T13:42:59.429802+00:00; SHA-256 0bd3804794c37f263db5cba3429523721854e95fe1477127f9fb83d4d0510f50)
+- https://huggingface.co/docs/smolagents/v1.26.0/examples/web_browser (retrieved 2026-10-20T13:41:14.002361+00:00; SHA-256 736281d4d96fc310050a09e830801f739729cc01217fef0be1fd45874e4c68f6)
+- https://api.github.com/repos/huggingface/smolagents/git/ref/tags/v1.26.0 (retrieved 2026-10-20T13:41:17.450466+00:00; SHA-256 cf08eff3ce4ca2fd85f85ba1eebca477277bca0cb2a54613e172741392061365)
+- https://huggingface.co/docs/smolagents/v1.8.0/examples/web_browser (retrieved 2026-10-20T12:51:48.091044+00:00; SHA-256 9def26af20ef4a6c4091e5873b53737940b360e6ff7db2d606add92d6586c8fb)
+- https://raw.githubusercontent.com/huggingface/smolagents/12c1bc820eca50ace6f80a21d90426d41d74f845/LICENSE (retrieved 2026-10-20T13:43:02.729855+00:00; SHA-256 c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4)
+
+---
+
 # AgentSynth tasks and trajectories
 
 Published AgentSynth task definitions and recorded GUI trajectories, with OSWorld and InSTA training configurations and packaged screenshots, thoughts and commands.
@@ -78298,6 +78434,41 @@ The card links its paper (arXiv 2601.06031) and code repository (OSU-NLP-Group/G
 - https://huggingface.co/api/datasets/osunlp/GUI-Drag-dataset (retrieved 2026-10-16T06:38:26Z; SHA-256 cdb8be8c4692a8ddcf8a66c1f0be666a9214718445925fb3c88615a0d641bf3a)
 - https://huggingface.co/datasets/osunlp/GUI-Drag-dataset/raw/main/README.md (retrieved 2026-10-17T16:10:54Z; SHA-256 907c8a5169c180491ef8c26c9428b2c67bc4e26f472d6423ce3715cbe47f76ef)
 - https://huggingface.co/api/datasets/osunlp/GUI-Drag-dataset (retrieved 2026-10-16T06:38:26Z; SHA-256 cdb8be8c4692a8ddcf8a66c1f0be666a9214718445925fb3c88615a0d641bf3a)
+
+---
+
+# Building AI Browser Agents
+
+Browser-agent course with worked lessons on structured web extraction and multi-step browser interaction, followed by AgentQ search and self-correction concepts.
+
+- Catalog URL: https://awesomecua.github.io/resources/url-aa693ca3e8948623f31e/
+- Original source: https://www.deeplearning.ai/courses/building-ai-browser-agents
+- Kind: learning
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: web-navigation, planning
+- Evidence checked: 2026-10-20T12:51:44.325799+00:00
+- ID: url:aa693ca3e8948623f31e
+
+## Limitations
+
+Review covers the public syllabus and complete published transcripts of the simple-agent and autonomous-agent lessons, not the whole course or its video frames. The first uses Playwright and structured HTML extraction; the second uses a MultiOn session API and shows missed steps, continuations and clarifications. Hosted notebooks and helper files were not retrieved, and current service access was not tested. No account, enrollment, terms acceptance, installation or execution occurred. Course and example-code reuse terms remain unknown.
+
+- Record JSON: https://awesomecua.github.io/resources/url-aa693ca3e8948623f31e/record.json
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://www.deeplearning.ai/courses/building-ai-browser-agents (retrieved 2026-10-20T12:51:44.325799+00:00; SHA-256 1f0315e8758fe0edd97adb2c5253955dcdbe6d7bd8be393fe14dcd093483705f)
+- https://learn.deeplearning.ai/courses/building-ai-browser-agents/lesson/wwewm/building-a-simple-web-agent (retrieved 2026-10-20T13:41:10.403317+00:00; SHA-256 0915d862638a308da6200d9603d668ab4d11bcabfa713ff0ccb82c7b21a5a92f)
+- https://learn.deeplearning.ai/courses/building-ai-browser-agents/lesson/lot5j/building-an-autonomous-web-agent (retrieved 2026-10-20T13:42:56.029732+00:00; SHA-256 20d17ca47d1d16826f8e2736d6639d0cf11e826ef28c788187e16adcac9d7561)
 
 ---
 

@@ -8,6 +8,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/planning/reco
 
 - [Adaptation of Computer Use Agents to New Software with User Manuals](https://awesomecua.github.io/resources/arxiv-2610-23012/) — 2026-10-16
   MAGE retrieves software-manual sections into fixed execution plans and generates setup/main task-plan pairs whose GUI rollouts support application-specific policy adaptation with round-based GRPO.
+- [What It Is, Not What It Says: Securing Agentic Browsing Interactions with Web Semantics](https://awesomecua.github.io/resources/arxiv-2610-22697/) — 2026-10-15
+  Intact records webpage element provenance and capabilities, isolates planning per element, and uses a browser harness to constrain actions and request consent for third-party interactions.
 - [LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents](https://awesomecua.github.io/resources/arxiv-2610-22280/) — 2026-10-15
   Uses weak-agent uncertainty to decide when to escalate to a stronger model and monitor its subsequent task execution.
 - [OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use](https://awesomecua.github.io/resources/arxiv-2610-22200/) — 2026-10-15
@@ -573,3 +575,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/planning/reco
   World-model and planning components that simulate web-action outcomes, with linked training data and model checkpoints.
 - [WorkForceAgent-R1](https://awesomecua.github.io/resources/github-night-chen-workforceagent-r1/) — Date not recorded
   Web-task reward functions, WorkArena data processing and GRPO training configurations for reasoning-oriented language agents.
+
+## 学习资源
+
+- [Building AI Browser Agents](https://awesomecua.github.io/resources/url-aa693ca3e8948623f31e/) — Date not recorded
+  Browser-agent course with worked lessons on structured web extraction and multi-step browser interaction, followed by AgentQ search and self-correction concepts.

@@ -1,7 +1,7 @@
 {
   "site_url": "https://awesomecua.github.io",
-  "indexable_pages": 1911,
-  "metadata_only_pages": 1569,
+  "indexable_pages": 1918,
+  "metadata_only_pages": 1568,
   "excluded_pages": 138,
   "pages": [
     {
@@ -12952,7 +12952,7 @@
     {
       "path": "/resources/arxiv-2609-33102/",
       "indexable": true,
-      "sha256": "31f75ea778e04af8684aa51b72976852f229fb3bc064db0dcd404daab4ac5afb"
+      "sha256": "0a1b98e2a4ffc5dcbb2c54173aff52721f5fc4adea747b595534930db6d3232c"
     },
     {
       "path": "/resources/arxiv-2609-33304/",
@@ -13597,7 +13597,7 @@
     {
       "path": "/resources/arxiv-2610-20424/",
       "indexable": false,
-      "sha256": "cdcbbd9f0866f428c4dc04789b8d9620cccc303ee4fcdbdd8a07101a8fbbb61f"
+      "sha256": "2b5e7bd2c7643a53ccdbfab00304f6dfefc345c742932230779d905b763fddf8"
     },
     {
       "path": "/resources/arxiv-2610-20584/",
@@ -13646,8 +13646,8 @@
     },
     {
       "path": "/resources/arxiv-2610-22697/",
-      "indexable": false,
-      "sha256": "d8259a2db32892e8ccba7075f49299e6a0f877de8de91f83152c4701a6916b3d"
+      "indexable": true,
+      "sha256": "96c8d84f206d84d25e9013eb422c5dcdccc3baf2ce9781aef1c2567ea3892d8f"
     },
     {
       "path": "/resources/arxiv-2610-22990/",
@@ -14995,6 +14995,11 @@
       "sha256": "645fcb751efc7482e25ddb587fdf72fe9dc7d7af144d86fcd2c07889a263e254"
     },
     {
+      "path": "/resources/github-wlanderson0-orbit/",
+      "indexable": true,
+      "sha256": "6595b8b3044b05042119eda8dafb559056e83b2cdd159d302855f181ace931e9"
+    },
+    {
       "path": "/resources/github-wuklab-osworld-human/",
       "indexable": true,
       "sha256": "c0b85cdab339c39900e5b575cfb1e80567540b0c8ebc529a8fc74eb20431a166"
@@ -15500,6 +15505,11 @@
       "sha256": "168939ea93f0e250d1519cb2e2f80bd20903894ec9950ab50b21b5e93a5da832"
     },
     {
+      "path": "/resources/url-5857c840372512cfe3fc/",
+      "indexable": true,
+      "sha256": "ae0b437b3366dbc6a16cd1504c6c01e9ee6406f044acf08ea7fd451baf68a279"
+    },
+    {
       "path": "/resources/url-58a209f2b3b970916396/",
       "indexable": true,
       "sha256": "1bb9a826d4d950157faf141d787257d0569ce64ced65acc80a1bafcc7fafe9ae"
@@ -15753,6 +15763,11 @@
       "path": "/resources/url-aa28e1329a52e341d285/",
       "indexable": true,
       "sha256": "8cf88942e10e33c7da1041246a7107537cec84d52c35deab3b4daf2bc4ffa435"
+    },
+    {
+      "path": "/resources/url-aa693ca3e8948623f31e/",
+      "indexable": true,
+      "sha256": "d7e1c626c0ab8b279fd6fa13cf2776afac9ae43bd7d6967adf13355c1b1a712e"
     },
     {
       "path": "/resources/url-ab26f9ef56d651cee587/",
@@ -16960,17 +16975,22 @@
     {
       "path": "/catalog/",
       "indexable": true,
-      "sha256": "26d24ab132d5c490acc730495235ee817bf98283bcfe443ddf3b6f6d67a268fd"
+      "sha256": "ac2516b1b0445e100014671db6adc5010f952257f3986b6cb12a472c7bffbd44"
     },
     {
       "path": "/categories/paper/",
       "indexable": true,
-      "sha256": "84a19ee7d7a380cd3cf3f8f7d6e3b4c2ca3263238bc61424900caa3a657d7c57"
+      "sha256": "96998d85b7b8f7cfdd956936c3971c3b8017b269f1ca0931f488df7e7dfc3341"
     },
     {
       "path": "/categories/survey/",
       "indexable": true,
       "sha256": "70fce8eaeac01359b8e4eb8b98ea810892b0a22222d4ad781d498199ef4a04a3"
+    },
+    {
+      "path": "/categories/learning/",
+      "indexable": true,
+      "sha256": "3a5ee8db9d512fa64d2c13002955d5f272edf86c0c762fd30847a58d3c83f9b8"
     },
     {
       "path": "/categories/model/",
@@ -16995,7 +17015,7 @@
     {
       "path": "/categories/framework/",
       "indexable": true,
-      "sha256": "6c48d5d5a9c4c6745a5092d5c968f690f4507db5482def9e853801dad48fdb50"
+      "sha256": "763195a929f11b0a98cb373fa22484e7b6b58e407f87177d1d8e0e15c469b07c"
     },
     {
       "path": "/categories/infrastructure/",
@@ -17020,217 +17040,217 @@
     {
       "path": "/compare/benchmarks/",
       "indexable": true,
-      "sha256": "dda2283c140e1f756b2c8125ba7bbb3b83bfbda04119a597772449ad46b0c971"
+      "sha256": "c2f0ebad67964aa9d8bc7fb73230d4e14104ed4d45c36d469955470b7dbcf63e"
     },
     {
       "path": "/compare/datasets/",
       "indexable": true,
-      "sha256": "8e05ff6929bec87a9035d68fb6b31c5e3d7ab7f6a5dcb017c1ae4de947648c38"
+      "sha256": "c276dba4899424c4f5db9f513bf11bd9c931cb7091e7991a6acfd2598544820e"
     },
     {
       "path": "/papers/",
       "indexable": true,
-      "sha256": "6466e4da9378d02d074035042e624224b85e8c9d2a4a5a6bff8f52834a7f7cdc"
+      "sha256": "39460141bad7890ef787ec0e38d31263cc852d90d4bcd9c4ed8a5f610c385fd8"
     },
     {
       "path": "/papers/page/2/",
       "indexable": true,
-      "sha256": "797a4073bd0f70240c7728e9ba8ae97ea0ec974ba02f69b6f4e5ffb36d505a30"
+      "sha256": "d7914c07dbeb753b55275e3d26195441283a8e5ecfeafb120730d2a6d851909e"
     },
     {
       "path": "/papers/page/3/",
       "indexable": true,
-      "sha256": "2220a3b4eac68e41ca6f61503b10443acf8e4b3829bb70e9aa41eac70f2bb770"
+      "sha256": "2eae5ee6aa220cda7206e7297c72fea1fb9952641c4121c5304268937634cb1a"
     },
     {
       "path": "/papers/page/4/",
       "indexable": true,
-      "sha256": "b1bf15ed562530d5c9c9598075fcdd62f94b8e24f14d3595244614869cd7f6f0"
+      "sha256": "30ccda951add02b79508e81d52d7438aac45b2dc3115a0e58213ff7bcc72d61a"
     },
     {
       "path": "/papers/page/5/",
       "indexable": true,
-      "sha256": "27db04f2da41f92779f373e68ce15825af02618a3a4f9f4234775a9ac7118d71"
+      "sha256": "6e781b960e3ca8bc22b1352ac7714fc599cc0c42d72c8db828dd941b08dbb1f1"
     },
     {
       "path": "/papers/page/6/",
       "indexable": true,
-      "sha256": "f54bec7291d053f08b6518e457fb974e5657c489d001292084832f6bf37c77d4"
+      "sha256": "5ee95b1de6a4bf8eb0cdf6683a192286794ec5e66fea44fa5d4e0d77857f6635"
     },
     {
       "path": "/papers/page/7/",
       "indexable": true,
-      "sha256": "97f4a2f019ae5c05bf598e5e1ca75a5e6fc5cb0e75f3fc9062dbb22856027a20"
+      "sha256": "086950842fd12ffe2630b5d0f79e5b34d219faa676dd932c7aff3eed06356d3e"
     },
     {
       "path": "/papers/page/8/",
       "indexable": true,
-      "sha256": "2ec01bb191e9e5f820cf4e30f0e42928d73c46b987b6f7e407ac9fc13ee2a222"
+      "sha256": "8fe17ca62ea4f2abfb320a7e1f5d8a49294608046a095bd81a8efb3d9a408548"
     },
     {
       "path": "/papers/page/9/",
       "indexable": true,
-      "sha256": "90e19ce0d83114d91a6ede418d6f85eac1fcba7d3fdefcbecc161be6e55cd942"
+      "sha256": "0f707dbde1fff8e2c318f56856efb9e7eff7136b8e2ccbcbf283c790b051171d"
     },
     {
       "path": "/papers/page/10/",
       "indexable": true,
-      "sha256": "5e2dcdf7968e46b832495e43cfabff1d96dfdb2af5e3f31972d36413b709df22"
+      "sha256": "b539a3b4ace4994cf08121bda9ab3d092aa3f0f8e3ec0fbcb7f23115719c1273"
     },
     {
       "path": "/papers/page/11/",
       "indexable": true,
-      "sha256": "093d5ab8b0abea5d6e5e79264719d3a868290960eabccacd011c2f3101c5272b"
+      "sha256": "94aad04ed77c80a59c7221722a2465d4b0a5a90fc9153f87c9370d8a98e36d5d"
     },
     {
       "path": "/papers/page/12/",
       "indexable": true,
-      "sha256": "997707becc0fb8fe6470b74c53a1e2013129ce74a84e56902b5e0477b4843fa8"
+      "sha256": "68c16a792090273071c282b87785a33f76a77b4449ed7c8ec17e8cba20bac4e6"
     },
     {
       "path": "/papers/page/13/",
       "indexable": true,
-      "sha256": "90c72dc4aa72d49b4661553f9f7824c4599d0c63ebac1dc34fc0baa8e4745169"
+      "sha256": "f64ff4655ff74db0befa0dbc02c3e347571a0f17b14b91e502f9ab2813d35a1a"
     },
     {
       "path": "/papers/page/14/",
       "indexable": true,
-      "sha256": "08e9f7c7e567868db61e581b1b11d91fc542d14f68d4a154ed92e8cf1ee06d18"
+      "sha256": "c51491b07960b9bdd734aa451508d043455dbe0b35b4390bdac5a8615e658a05"
     },
     {
       "path": "/papers/page/15/",
       "indexable": true,
-      "sha256": "a6e56102fe4d8fe2ece0e969ecc76f230a3cc3019026fcb1a5f7e3f9186abad6"
+      "sha256": "96661ebc36e7a84140778dc270b2df89bff657261db455c083e2a48d4e774de2"
     },
     {
       "path": "/papers/page/16/",
       "indexable": true,
-      "sha256": "c6635856f9e098c1e3dac011f55c9288c6cedc90b4af72b564816eb4339158d5"
+      "sha256": "08c1e412e3f3c6018fbbd202b3f4fd6f33e1af8accc84291d5b72b633ef9bf5e"
     },
     {
       "path": "/papers/page/17/",
       "indexable": true,
-      "sha256": "164f5177fe9500c35a1e1e86e26b80a760bcdbf1bdb28e26931c066a280f95c5"
+      "sha256": "45ba7ced2f20733637a94cc950bc1be0dc5f55264fc827bea8bd8606742753fd"
     },
     {
       "path": "/papers/page/18/",
       "indexable": true,
-      "sha256": "d1c7293f046ef3232f784dcd718b01a05875e95d6d55b03cb57601834bd270e3"
+      "sha256": "f13ed24c30d53262884ac3f6e1ecd7624ef50a4f8b3e04896c0b402b5218324e"
     },
     {
       "path": "/papers/page/19/",
       "indexable": true,
-      "sha256": "f2d86d5563cc0552889fa6b0927951c8563c023463786f9508157cbbd096c628"
+      "sha256": "b002c3dbbe3bc66a7d496723daf29edcfc444a58812484119a099094d40aaa05"
     },
     {
       "path": "/papers/page/20/",
       "indexable": true,
-      "sha256": "6625646a9f5a24372a9cb863d0a41ae1220218495fe97da6bb431e6643fe1361"
+      "sha256": "edd0e51a56167e71ad6d218fbb2a1d16414d6b6a29ed6a187523b8682385a5dd"
     },
     {
       "path": "/zh/papers/",
       "indexable": true,
-      "sha256": "ebf1ff65074dbbe04eca85020684645a4aeddc80d626a2dbafe1e15b793c9b9e"
+      "sha256": "5f3abc5c3f4df7c693f0e9c11901cebffe7aca2e0f27b59cf7a49c86debc3803"
     },
     {
       "path": "/zh/papers/page/2/",
       "indexable": true,
-      "sha256": "9923c0702463359f099858e91ca70af4921a9ed50507781fa9f076d4cf3b565d"
+      "sha256": "d0f156dad37783727e9f22bea0faed4d4681a260d1d50dfc9993f501ff9bee25"
     },
     {
       "path": "/zh/papers/page/3/",
       "indexable": true,
-      "sha256": "818b500f100a1332897c4f2757d83ab4d79748d2189e55de3e6abd54ec7eefe7"
+      "sha256": "47f5f1877c7088ad9e8ca1e75b266aecda683fad304d4cf7d6253967b6d7c6a8"
     },
     {
       "path": "/zh/papers/page/4/",
       "indexable": true,
-      "sha256": "d36be44f5e51457ff4dd3ed3f6f1d36e9cd422903cbc4f7bc962c7c0cdd14420"
+      "sha256": "bcf30ce7869adc21cb1ac70be1bd8d100804c16462935c5678afb8e5cf9d9067"
     },
     {
       "path": "/zh/papers/page/5/",
       "indexable": true,
-      "sha256": "ccd67c78e59cdb37bee38b901a5acf75fc29ea9cb2788ddbb20baf1af8d09998"
+      "sha256": "68f26317b6dfaf5141c1344ec9d57731c39e583635e1ee16b518b719cbba9e57"
     },
     {
       "path": "/zh/papers/page/6/",
       "indexable": true,
-      "sha256": "0d62cce65712e559baa4adfa2625aec4d9750d4f7db4cbdbf30fc87d1f1ba16c"
+      "sha256": "d610e714a2c8bb202b1565cddd3b5a4f9fe3bf48c409180aac3b9dbf147583e5"
     },
     {
       "path": "/zh/papers/page/7/",
       "indexable": true,
-      "sha256": "bbbd367df0d32a1af0b41f64747a614217ad809b0c3f515237b86c4e9e116fea"
+      "sha256": "a315e077bf6c5b8fedcd8fc05e9cea9d888ecb4aef14c87f7fe6432675d0ece6"
     },
     {
       "path": "/zh/papers/page/8/",
       "indexable": true,
-      "sha256": "0b0f2088afe3c119440a856a1505181e0b2e68cd1de14abd422b6c8c721c79d8"
+      "sha256": "b788ae31f7ef0af046b0a2c582d221d4d37e7682df652ca56fa373ea81b4a276"
     },
     {
       "path": "/zh/papers/page/9/",
       "indexable": true,
-      "sha256": "154d2913c8f8260d84d34970faefc14e9b029beeaa6eb12025f4d038563db2ef"
+      "sha256": "c33cede8056504279dd57dc93e78551671ff6d521c165e9882939e62714ee6ba"
     },
     {
       "path": "/zh/papers/page/10/",
       "indexable": true,
-      "sha256": "a18b7b82bfc8c1c5be2ff73b8a67e6c098495e29b8bc5502fb129cdf78df3a89"
+      "sha256": "29bba15d20220b27ebe13cdd92f09b94d0a1d4a877b78aca59d6f5646b0dce4d"
     },
     {
       "path": "/zh/papers/page/11/",
       "indexable": true,
-      "sha256": "09f5a1351fab81777613cbfc35a92350e14bd176a41deae7efb28580c31cfcfe"
+      "sha256": "98f1781968fe643cca49fa806843991aa4418d27152aa78c1d8de32d1a196b2a"
     },
     {
       "path": "/zh/papers/page/12/",
       "indexable": true,
-      "sha256": "e2f4bc21b9e77c8ad881e53b41d1e1a1163a0d5724557c1df6e52230e31c3d63"
+      "sha256": "ca5f44b87aae061036dabb6bbe384e938dafc2b7c049bcae4610b833f78389ef"
     },
     {
       "path": "/zh/papers/page/13/",
       "indexable": true,
-      "sha256": "951e1d22bd239c7a9e557cac5b4cafa8e3337c8abd09a74e7abe80c991aa99ca"
+      "sha256": "f0c967e2695d01c9caea931415b16c11fc670756321b195bd4f251583859dd78"
     },
     {
       "path": "/zh/papers/page/14/",
       "indexable": true,
-      "sha256": "f43ecc11cb2b7f894da813617b2c8eace798a0c387a4a64dd1c155de444c9bc9"
+      "sha256": "e3eaeb9f7001f17e4045ee2359d494c1b08add3759c6702a385f0c6a39b3c83c"
     },
     {
       "path": "/zh/papers/page/15/",
       "indexable": true,
-      "sha256": "d8c64992c9deea36e62e5bc7e3761babcbae1454b75e09e6279de4cbd225c118"
+      "sha256": "31371c19fca23649c4cb513b65abf32f96b02505abd973bef0bfc68af3391f32"
     },
     {
       "path": "/zh/papers/page/16/",
       "indexable": true,
-      "sha256": "80a6f8d2b11498512f64fd37a865a74874b8fb867376923469891260bc956893"
+      "sha256": "f599e9272bc1b37ab8b926bb76f3479509504b9b2e65933c88fb09432b5c764a"
     },
     {
       "path": "/zh/papers/page/17/",
       "indexable": true,
-      "sha256": "be2bbd1ff4661b02d32954b9e2e717282d0b24b186d9b06f086d45bc807cff8c"
+      "sha256": "9bf77d80b677eb1a5407041c7a53c397ed9b50780e3da3b21a64e2eda692a8d5"
     },
     {
       "path": "/zh/papers/page/18/",
       "indexable": true,
-      "sha256": "5eca9c52f41e3e97f2e3910ffd1bfb405b240ae5a9a9eaebb1f285080e91c657"
+      "sha256": "c7d2f257942dd66b23110f6f0167065cbe77d5c3db07026e718796cceb16d496"
     },
     {
       "path": "/zh/papers/page/19/",
       "indexable": true,
-      "sha256": "28103fd4d658bd5328611d444bee49c5e7cda53a183f65daec7086e8bc3e6ac7"
+      "sha256": "5275c2455fda138f0ce56ab29054e079c89505332efd1283f31d26b4153f8fd4"
     },
     {
       "path": "/zh/papers/page/20/",
       "indexable": true,
-      "sha256": "99eee43ae201b08ef274dea106424bb7b940f5e39912e8b21bd0e725103e455a"
+      "sha256": "ed78dd8b638b8f7da20879d5c04d0c9b56331df72714090ba7f93ee8d5d43939"
     },
     {
       "path": "/topics/",
       "indexable": true,
-      "sha256": "5a659480351b5cd69172e7ff3571955b4ca0d8b082cec6f07ea4594db5fc12f8"
+      "sha256": "828e882ba32e995007083dc965ec427ccaae5983cc45a08e70e97b85ae8ee9b8"
     },
     {
       "path": "/topics/action-prediction/",
@@ -17300,62 +17320,62 @@
     {
       "path": "/topics/evaluation/",
       "indexable": true,
-      "sha256": "f3a4cc140b719359d01c0e2eaf63e667d85e9f8047f7ef29a78f65b8504e3d34"
+      "sha256": "1705cd55d706d11c1244d771820387a0dedd4d2981c7dae12090be184fa5db94"
     },
     {
       "path": "/topics/evaluation/page/2/",
       "indexable": true,
-      "sha256": "a8068981cf98818335de78018edacb42126b69304ae3895a0bd41671abbc0de1"
+      "sha256": "b72631ddaa6011a971bca57540fefe65fa96c00076ca81fa63801ac417f595b5"
     },
     {
       "path": "/topics/evaluation/page/3/",
       "indexable": true,
-      "sha256": "f88bc8c42d9601cb08f281b3dec29be362456ae602ceb4a26366490d1645d68b"
+      "sha256": "5e6a3c8a28c8f6a19cc1cf974726a2b3ce3da61f5a98083edb4bf0f015ef2ac4"
     },
     {
       "path": "/topics/evaluation/page/4/",
       "indexable": true,
-      "sha256": "f1d5d6c0c43a666f1dc082cb887715a9c86d322dd3c14c8a335ab13af38f7b94"
+      "sha256": "d47506988213d984879d04215bce0a464de19da062c5cf106f65a9b123d3d9d1"
     },
     {
       "path": "/topics/evaluation/page/5/",
       "indexable": true,
-      "sha256": "17ee0c46398a6a1d72fe1819dd1d84354b6f61c037a38cf7f5e8441c39ac9a29"
+      "sha256": "4febf478df73a408f5f193c6e7aa668f638dde212ab51ce82ce33569084de60e"
     },
     {
       "path": "/topics/evaluation/page/6/",
       "indexable": true,
-      "sha256": "c3c5b149163c5204486b67c1bee2b7c4e74e67f6799bc055829ab1db8940d3b3"
+      "sha256": "c96ecc761f5460d0144050bd08d27b18125f8b004a991a5ae9f1a1201b22f32a"
     },
     {
       "path": "/topics/evaluation/page/7/",
       "indexable": true,
-      "sha256": "d89650a3893330850e6953f147502db5dc08ff7152bfbc783f7d9d1d6d00b73c"
+      "sha256": "fca4625e2fc70aa1b9d65226f0574c36ec30b966304511520093874b186fc755"
     },
     {
       "path": "/topics/evaluation/page/8/",
       "indexable": true,
-      "sha256": "092922c9c3c2a2559b1537890161652f78538be2739bfb81eb95ef1df4e8f338"
+      "sha256": "c0528920b7fdcfde897abf2886cac603e9c84cbb5ce3822b584d44fbadab86d8"
     },
     {
       "path": "/topics/evaluation/page/9/",
       "indexable": true,
-      "sha256": "8d8b731126f75b46b2d563b72fde3116d5397f8f8730e23447c419d5d14441ab"
+      "sha256": "a0b9f1009c16fc592755413c00c673e16a34ac42dc129d3978161ac5a5957f52"
     },
     {
       "path": "/topics/evaluation/page/10/",
       "indexable": true,
-      "sha256": "eb52943f03468e9ec9ace97fd1e0468456d2ddc1298c46a7c7e0867865d1ec3c"
+      "sha256": "c6a6a4ff1f854859994ffde2842713fc646dc980960bb8aa23a38dc2a51c816e"
     },
     {
       "path": "/topics/evaluation/page/11/",
       "indexable": true,
-      "sha256": "4b99c1ecb5ffb24e82784484e40ba4c957efbcd0ce0646af09e1740ddfafeccb"
+      "sha256": "6a9b17bb5abc288f265a315432def049b55f0d0260f451bb79a55af01fe95d8d"
     },
     {
       "path": "/topics/evaluation/page/12/",
       "indexable": true,
-      "sha256": "c4373430d808995de87d8c95c1b92757d827782443a937bc237b28d873928ca5"
+      "sha256": "346bd692b4c7c2d4610dd276fe70b9adc59d27dd12ac2ec988dd3b07ac30f070"
     },
     {
       "path": "/topics/grounding/",
@@ -17400,12 +17420,12 @@
     {
       "path": "/topics/human-in-the-loop/",
       "indexable": true,
-      "sha256": "b5c550328318ed09628c2555ffb73982239f12674e299a1de6598aa7772e3474"
+      "sha256": "cee9a92ad51eb03eead361d397965ae359d12d06cb78c5a8e46e9bfcead2fa67"
     },
     {
       "path": "/topics/human-in-the-loop/page/2/",
       "indexable": true,
-      "sha256": "148bf7a06fe61373a24fc1acc19abe42f17db373a5051e89aca9c5b92d85b5ab"
+      "sha256": "da9cb76e66f321e745347779fb65350369bee6488887253c16e78b15aecac4a8"
     },
     {
       "path": "/topics/imitation-learning/",
@@ -17480,32 +17500,32 @@
     {
       "path": "/topics/observability/",
       "indexable": true,
-      "sha256": "3d78ec24808fa473eef469c6a430dfdc9bbb0f38a36cdb1165c688b01fbb876a"
+      "sha256": "39c6814a78e7130715b3992d0673b1b3862ac630cef2ed38dc46e503c72f36e3"
     },
     {
       "path": "/topics/planning/",
       "indexable": true,
-      "sha256": "de335ece5d02608ce351e033a786558b4d6ffea9c148f81becbc5f075e6719c1"
+      "sha256": "1f9f779e819b8c4076264836a8378f4be13291d1b021dd183430db5c0c6e6384"
     },
     {
       "path": "/topics/planning/page/2/",
       "indexable": true,
-      "sha256": "595893f2eb6da389906eb492a27864427071464f020207ef43d2196a3da34107"
+      "sha256": "80bdd275fca19df4aa716d974f4814ff710993e3f751f40cd2b8b2fd31585a5a"
     },
     {
       "path": "/topics/planning/page/3/",
       "indexable": true,
-      "sha256": "5451df328f3ee09c8a4be90d5c59a89ec278c03eeb19aece1027b0b96fc4fbff"
+      "sha256": "a7269f789f0c47623412d8023465238156928967e05a5dc692024ae7e980572b"
     },
     {
       "path": "/topics/planning/page/4/",
       "indexable": true,
-      "sha256": "1483580e031253a45f40ab25e019b556b8eca952d66bd02b7058172855a2efed"
+      "sha256": "e9d377a5fa273c9defb969a0ec1d58c0a24c7fb4fa2c63f7848ced8b3dc1f8e2"
     },
     {
       "path": "/topics/planning/page/5/",
       "indexable": true,
-      "sha256": "bac38826cd15a66f9d5f7b4baaf9d9c54d42570221be6a284e2d111fca2dc554"
+      "sha256": "2b2da7c4aabf08b38a5cb58f471e9c721b6123ceedee851a7044bcffab93eea6"
     },
     {
       "path": "/topics/recording/",
@@ -17560,22 +17580,22 @@
     {
       "path": "/topics/safety-security/",
       "indexable": true,
-      "sha256": "b25a3f0caab1c8a11b7ba0588b32bb20f06d42ad1bda278905c55bd9d72a1459"
+      "sha256": "f9abd03d0184d54c700d5f63f4fdcd2261240d66043eb79d00870009590c73a6"
     },
     {
       "path": "/topics/safety-security/page/2/",
       "indexable": true,
-      "sha256": "be34fc3cce72922ef520798f5eeb6d0def108d0beb68defd713bc676e8735424"
+      "sha256": "c3bec86707fa5c35697f4c1ad9379345e54ae0c7a116c715144f4341a53007c3"
     },
     {
       "path": "/topics/safety-security/page/3/",
       "indexable": true,
-      "sha256": "0fb11990d0507644b88fc96afaafbdafccb2c2c69b8b9f6fadd5061e7a69419f"
+      "sha256": "4137f6e74b5e31afc20cc3a77eaa30e2b59c47c0b8e152b09bfaf2ac3c9eb7d9"
     },
     {
       "path": "/topics/safety-security/page/4/",
       "indexable": true,
-      "sha256": "d9b8997f7feba25414e5f13f95c9aa786040133211908ea953358f1b45dd95e3"
+      "sha256": "fa7ff1d58bff0bd69038a6e56ba1bb574988ac4ab911be4eb6fc1509c48069a5"
     },
     {
       "path": "/topics/sandbox/",
@@ -17590,22 +17610,22 @@
     {
       "path": "/topics/screen-understanding/",
       "indexable": true,
-      "sha256": "2fcfba6182ecbe81d000339e4c162e79466383d5ee71ace3cd780517de764c7f"
+      "sha256": "a7ddc8501701645673b82569eab44442efba5b2f1d7be13786f21de4c8b066dc"
     },
     {
       "path": "/topics/screen-understanding/page/2/",
       "indexable": true,
-      "sha256": "0c5ff99647224ece047965516bd98f5335a16c23b5426e1032368ef47302c1db"
+      "sha256": "cf0cdea70ace119eb655b1a342fc5ddd60e5fdc9f4b35389722a0e3f7fd02079"
     },
     {
       "path": "/topics/screen-understanding/page/3/",
       "indexable": true,
-      "sha256": "6e40c9cc8f46b61589be73c57e73f425ff8e5f823705664c8b0620be3c5acb9d"
+      "sha256": "9c54a4f3de6cd9587d712993145fee26af72337bd66393ae5e5cf3ba8ddf2ab7"
     },
     {
       "path": "/topics/screen-understanding/page/4/",
       "indexable": true,
-      "sha256": "c3d1d4b4c077ca20671836931b90bc125582f52dd8da836b99cebcd9d62cf918"
+      "sha256": "bb8bddf485ee7f5ac2b277b3c36f33e1b5ae0bce59c2f87066c91129a5a4ff61"
     },
     {
       "path": "/topics/self-reflection/",
@@ -17655,27 +17675,32 @@
     {
       "path": "/topics/web-navigation/",
       "indexable": true,
-      "sha256": "b6d63ea44cdc8c36683d1f822590c84c7245a8481a2f734ef10844f96085aaf6"
+      "sha256": "5743b4ab13d0122473df00095f17dfa8015b5336c8f4a1be7553473f0e0b79b1"
     },
     {
       "path": "/topics/web-navigation/page/2/",
       "indexable": true,
-      "sha256": "e72b9089c69d8437492227b0c6260abfbae8f633e3de46381007d5444c5ef30f"
+      "sha256": "c6e1ed8028b868c82b047f2273db572509d44e8ebfad372df07e745258d48aed"
     },
     {
       "path": "/topics/web-navigation/page/3/",
       "indexable": true,
-      "sha256": "06a0dcf165b19d3bc224581441e84222f2d5b6c63a32c36a1bfcbf8a70669875"
+      "sha256": "b967f3b004c1384a3d64716eb1a321252428378cb5af5fc1c2e4ac38566a5277"
     },
     {
       "path": "/topics/web-navigation/page/4/",
       "indexable": true,
-      "sha256": "2dae612ec480ea8d60a27748c1ccc86a25e42f6adf714b5c1ac7198d464ece36"
+      "sha256": "ddb84fadbf319c98cbf3b9b9289202efb741ef652ea0de01d70382101f9eb3c0"
     },
     {
       "path": "/topics/web-navigation/page/5/",
       "indexable": true,
-      "sha256": "e4d981ddc7516827e5d0dc756a07295bc573e25befdbb44ef44030489eb0b7d0"
+      "sha256": "3ec6e92db9ab7f003255967436e14f2e5154256a39097286c5bea6cb524f308c"
+    },
+    {
+      "path": "/topics/web-navigation/page/6/",
+      "indexable": true,
+      "sha256": "717f69e5febffdd81e1d97ec15778269f3428d5c0155bec3d371a84aa71e744c"
     },
     {
       "path": "/topics/workflow/",
@@ -17695,7 +17720,7 @@
     {
       "path": "/zh/topics/",
       "indexable": true,
-      "sha256": "773e515a82a5ceda504966edec96972bc43bf01ff815058f56005a1e1ced7f88"
+      "sha256": "118dede4385eb111533e9cd85b2b35d417564b44f03cb9706995984f7f7c5cdd"
     },
     {
       "path": "/zh/topics/action-prediction/",
@@ -17765,62 +17790,62 @@
     {
       "path": "/zh/topics/evaluation/",
       "indexable": true,
-      "sha256": "db6af620def20c063de9b16794840ebb9311daa726bc80a49e042b2f6d0c2135"
+      "sha256": "f4ba3c44b0b44617a7e358ad858b7a9eeee344431028db3e41cc3aa120c8b8e0"
     },
     {
       "path": "/zh/topics/evaluation/page/2/",
       "indexable": true,
-      "sha256": "954f81fcd79f9d39f094226e70ee6f59919b6ff7fcff47c88ef3655151cbc76c"
+      "sha256": "35f3f4657cb3309e67278a502221d0db0407a6ae61eeca5bff8bd93005bd8878"
     },
     {
       "path": "/zh/topics/evaluation/page/3/",
       "indexable": true,
-      "sha256": "123aa8c6e091946805c6c671d3461423acf655cdb59f66b3ad26bd94844b272e"
+      "sha256": "0714394f2a4ecb8868deb6b13571174ad2fbcc576faeffed6f84fea58fa5cdff"
     },
     {
       "path": "/zh/topics/evaluation/page/4/",
       "indexable": true,
-      "sha256": "88c890b8e0c5286d59965ae8d517eb498f1033ef68734bac2543dc09f69e3d3f"
+      "sha256": "1320e043d2d7e51678aec8ee0ec6ce6f18bf16a074305e07d1d558501001333a"
     },
     {
       "path": "/zh/topics/evaluation/page/5/",
       "indexable": true,
-      "sha256": "5b0a7dd89bf3338ba08524c90787f41acb2b80ce27d302b262f471f6bff1f2e0"
+      "sha256": "59bc2db4279361db8068b4c1f247c1f1c56bcb37b4a8980d96602214ba320e1c"
     },
     {
       "path": "/zh/topics/evaluation/page/6/",
       "indexable": true,
-      "sha256": "fef940151b4fe6f801593b56d4caa685801b3eaf21dc4af2aade90657c458b03"
+      "sha256": "8c612cff1a755ba41f3510cad0e9a6420a58936926b1c24f3c4607d737d807f2"
     },
     {
       "path": "/zh/topics/evaluation/page/7/",
       "indexable": true,
-      "sha256": "944451216bfd12646f75c03ec8424070b067f77898f10b4f474c44ea1a6f7702"
+      "sha256": "9f822026e3431996e49791de5c8461df8373da3f27e36dfa0bbe815ace4cccd9"
     },
     {
       "path": "/zh/topics/evaluation/page/8/",
       "indexable": true,
-      "sha256": "bd63fceafc99ffb6250d4eafea290a85d3ab05dd5bce7878c724d087c2954fe2"
+      "sha256": "3d82c671954d9b2de1d9486594a4c43ab80465dcbcc8d0a19cdf2c6dd4f5ce06"
     },
     {
       "path": "/zh/topics/evaluation/page/9/",
       "indexable": true,
-      "sha256": "fa31fe2fd68fc5b9fb1a28015de08dd78e724785421f9f84e804453236dafd17"
+      "sha256": "50d0aca59525ef29c63b2487d08117cb5d5ee4cdcc78fc372e78f3da9e43f743"
     },
     {
       "path": "/zh/topics/evaluation/page/10/",
       "indexable": true,
-      "sha256": "9d8fd058bd7c145b225ee9205c787ae7d85cb1385830452590a624cc1c309b0e"
+      "sha256": "9d11e37c26f44a1b85309adbcfa8da12daa21a368d45ce7fa17f896defeb5db3"
     },
     {
       "path": "/zh/topics/evaluation/page/11/",
       "indexable": true,
-      "sha256": "f511c95056b76db6588031caf5ac73467243afca3dce4cf3550ac9d87efa9f32"
+      "sha256": "4293f5526ae2b602de63d48957642071cf24e222d2ebb1cbe5e436e31a89f189"
     },
     {
       "path": "/zh/topics/evaluation/page/12/",
       "indexable": true,
-      "sha256": "333d5dd244bd46f45197bd52130aabb3a01dd5e54b87936d40752c27f2007e0f"
+      "sha256": "e806d2bd7a841394d966e6d4ec014b523f3aea5aacc257edc82ca5118e7aa2d1"
     },
     {
       "path": "/zh/topics/grounding/",
@@ -17865,12 +17890,12 @@
     {
       "path": "/zh/topics/human-in-the-loop/",
       "indexable": true,
-      "sha256": "9a7abbbd4a6454cee5c29a53097a4e7ba7b7adbae311eed7185c50dfb0528c0b"
+      "sha256": "53210a57dead34c4ebe778303d9b50c3d5827e2822aea1c6a80d01346b53505e"
     },
     {
       "path": "/zh/topics/human-in-the-loop/page/2/",
       "indexable": true,
-      "sha256": "421a3bdbae2e0b21287ecba6040bc95abb086fd632d543ef34cae1ede419622d"
+      "sha256": "0a5493716744768030a305a7ac50ae03f570dd9024ef1d000e3f45098ee565b3"
     },
     {
       "path": "/zh/topics/imitation-learning/",
@@ -17945,32 +17970,32 @@
     {
       "path": "/zh/topics/observability/",
       "indexable": true,
-      "sha256": "eaf9d17d5993b309cd27cf86bb41408fa65cb86fd5d452c7456a57f97da0b34a"
+      "sha256": "8daf68125da3db4b5a1d14040d9cf29a19aa61a6d05434ee571e66852a725865"
     },
     {
       "path": "/zh/topics/planning/",
       "indexable": true,
-      "sha256": "645ea07b4bb78698c44a1fbf6bb8954412f761c98b2351f639b284c8a7f2e4b3"
+      "sha256": "f2e11fefb13e9bb01ea0489ccb838cd82b29e322ae3524a101a46592c8aa7f98"
     },
     {
       "path": "/zh/topics/planning/page/2/",
       "indexable": true,
-      "sha256": "6f51d1867f25d398291a5adc5b86b0a7e3ef33ef1730fb7da404c9f60bc5ac79"
+      "sha256": "6c0482de7fd15534c41af9bdd7d5ba4ca0e13fd33a95a6dc5e16b2c2d95d3219"
     },
     {
       "path": "/zh/topics/planning/page/3/",
       "indexable": true,
-      "sha256": "52d45711f8f990ba428584180403555fbc75055af130a1fc29cdf5926436dcfe"
+      "sha256": "38a2916444468962550c045433ad67bd42167460ee113f5171cd806f9d4107d9"
     },
     {
       "path": "/zh/topics/planning/page/4/",
       "indexable": true,
-      "sha256": "d273a5d3b311fe8f42cabfc6eb5afb5d5f839931b79089722ef4167605b151b3"
+      "sha256": "fcb97ce302e909e2391eb280be04a094c84735657e6aa707f294bae37331161e"
     },
     {
       "path": "/zh/topics/planning/page/5/",
       "indexable": true,
-      "sha256": "3a17a60ab37c05eb47a332f2eb18033b927ebd621baf8bcff92fdc4b33a7874e"
+      "sha256": "83a43fa73927c950b8a1aceb1173696b4536d5d1828a17bc84680335c1e9b3a1"
     },
     {
       "path": "/zh/topics/recording/",
@@ -18025,22 +18050,22 @@
     {
       "path": "/zh/topics/safety-security/",
       "indexable": true,
-      "sha256": "f4cbfc5b1c049c3b41ce88e40cba6af731677b179bdcb00377fbd5b06d552b79"
+      "sha256": "8fce9535cd97c31428c73d827794cdd3c1896d3c7002f54740df71ed9826c557"
     },
     {
       "path": "/zh/topics/safety-security/page/2/",
       "indexable": true,
-      "sha256": "7c8f02a24861623c31a42e808b5fe172cb9a2a2dabc384bf2fac2c23a4bd90e9"
+      "sha256": "643391e216f53a327e2173e4f08117a9ed5c93bf394d0223bc8ecf643cfb4a94"
     },
     {
       "path": "/zh/topics/safety-security/page/3/",
       "indexable": true,
-      "sha256": "07c1d54d4e5f1cca87ead1859635501df619b0bf4aaa630d65aeef547de3e025"
+      "sha256": "11a3162b577cb5041847cccfc116e40e5a098168cfdc8950283538f3bc86e659"
     },
     {
       "path": "/zh/topics/safety-security/page/4/",
       "indexable": true,
-      "sha256": "d8302f0e4d0a91c00e42442a98445323a3785c1fec4b554ee7b69cdac7c5d3dd"
+      "sha256": "c29f1677fc96b30de30f6210c1d748ca7f9be6d8db0e3fd382dec5570de2c87c"
     },
     {
       "path": "/zh/topics/sandbox/",
@@ -18055,22 +18080,22 @@
     {
       "path": "/zh/topics/screen-understanding/",
       "indexable": true,
-      "sha256": "d47d985dfe3216abea04f774771c55e2d85de779ffc135f4b4b721753483f1bb"
+      "sha256": "f1c6687aa7b2ef819b0b390d2de52a755b44fa288b7d5c76fc7dd2ed68e3e918"
     },
     {
       "path": "/zh/topics/screen-understanding/page/2/",
       "indexable": true,
-      "sha256": "b9a2fad86bdedfca64142f18e892a2597161c90482c8af175c06714bbb494ba1"
+      "sha256": "8ea24c1f093034cca3e42d6ffbb0ae9b3514297d5509f7ad2caf405e32938452"
     },
     {
       "path": "/zh/topics/screen-understanding/page/3/",
       "indexable": true,
-      "sha256": "5cfd8fb2faf5569f597c416a8b49acc034a38e4c3f970519666c5373519105dc"
+      "sha256": "42c2e08540933b2e385a4a793a9229a6f884a2407194e1409f7af0d815003527"
     },
     {
       "path": "/zh/topics/screen-understanding/page/4/",
       "indexable": true,
-      "sha256": "0fae1c29eda2c545539f5cd89dce604d6f3266825542edf749ccd8b7626e5608"
+      "sha256": "dd234ef980408aff535bc6f8ccb8817f7ee2b51436d91d0fb09ad61a355db178"
     },
     {
       "path": "/zh/topics/self-reflection/",
@@ -18120,27 +18145,32 @@
     {
       "path": "/zh/topics/web-navigation/",
       "indexable": true,
-      "sha256": "c5d706c35b3787db5e7728c05a58e30d64d304b29e8b31d6f518d382e68ac64f"
+      "sha256": "37270a8d3db8c8207dd183095e674337712b1dbbb356a3b74b050c81786944f1"
     },
     {
       "path": "/zh/topics/web-navigation/page/2/",
       "indexable": true,
-      "sha256": "aea50da0469c4c064b88055f7989ed37ecf3e8cf014c4b445dfb0f001d8ce575"
+      "sha256": "5bf9ce38a6241759f73fa56264ba01e395ac6b98484a7104be2c4d2787a89842"
     },
     {
       "path": "/zh/topics/web-navigation/page/3/",
       "indexable": true,
-      "sha256": "6113b95a5635325695e389323ccc95f8f64a03d461f8707e194e8b66a9942b28"
+      "sha256": "ad13da8df63cbafc31dc6345e5036b4d4c7b8bceecfebb32afaeeba60b5cb772"
     },
     {
       "path": "/zh/topics/web-navigation/page/4/",
       "indexable": true,
-      "sha256": "03fbb8926ec600927b7daf0e7d748a6690ce972ae4ce47ac319b633cb505d928"
+      "sha256": "6fd63a210b56e3bcefec0bc0f92c0a279b9d97c3703fd71ed8fb5f120dfee9e6"
     },
     {
       "path": "/zh/topics/web-navigation/page/5/",
       "indexable": true,
-      "sha256": "1001946c83be08975c09a39c28ed16c4ff43624289841d3f5b3bf163cd471b3e"
+      "sha256": "d564d948fd0ea57c828a4399bfd15fd968060b361ddeb4809cd8ac33d2a27a36"
+    },
+    {
+      "path": "/zh/topics/web-navigation/page/6/",
+      "indexable": true,
+      "sha256": "b3f5264a66d1535185dbd4c4296f385ca360d03c999126f74f6b745040fa136a"
     },
     {
       "path": "/zh/topics/workflow/",
@@ -18160,12 +18190,12 @@
     {
       "path": "/connections/",
       "indexable": true,
-      "sha256": "2a8e6823f3be6e3010e3b84026fc72fcee4cba50923139ac1d9545dde82e8d83"
+      "sha256": "48dc053afb7555fb28f2a0e7e80fa79fc03520ac6fd3627f6dd3cf78f4337079"
     },
     {
       "path": "/coverage/",
       "indexable": true,
-      "sha256": "815def60261e36dac1dcce2293fea520362b97890b3998325682e2aafb00948b"
+      "sha256": "bbf6e056109d14b25ef804ad9e83c2e6ad0a907d9c2574e5e120d04104684bcd"
     },
     {
       "path": "/agents/",
@@ -18180,7 +18210,7 @@
     {
       "path": "/updates/",
       "indexable": true,
-      "sha256": "5e7eca6a336d41bd9cdb3ea3aa427355456443b1a499c6d9c16008d96cb6c9e6"
+      "sha256": "46fae274f08badb1050dabbd312fa98f6c446cde7c02c6b9e38e18da8c259ef3"
     },
     {
       "path": "/badges/",
@@ -18195,12 +18225,12 @@
     {
       "path": "/data/",
       "indexable": true,
-      "sha256": "ac031bf739586ac1d000c1b95eb00f3b910324a3f45023e73774a31baf77efee"
+      "sha256": "839483848e92287ae4cf630cbe558a882c23d8727485a2edb886293811cb4690"
     },
     {
       "path": "/zh/data/",
       "indexable": true,
-      "sha256": "f82a323674334179321a30df25547eac911619e120f6bcc2414e74bb40f8787c"
+      "sha256": "f4a6a83ccf9ef1480bfc2f6d8806ab405abfef5a1bebf817a7a70b23df2f1be9"
     },
     {
       "path": "/guides/what-are-computer-use-agents/",
@@ -18225,12 +18255,12 @@
     {
       "path": "/zh/",
       "indexable": true,
-      "sha256": "b2d3e2c3447cedf6e613121f5dbf8b1a532079ca2fe4828bfdba2c4e58c00477"
+      "sha256": "f066e72dbe5bd0e570bc079c2fccca79fa5d55221e0a261e4beb1887209a304a"
     },
     {
       "path": "/",
       "indexable": true,
-      "sha256": "461079888fd727ab87282dbbdd74bf349d7b816c54b1649fd26ff29dd86777f0"
+      "sha256": "8abf7c3aaebc4ff25a2225b98a98253a6fe48e7f31d04c9d86b648a52e67c70d"
     }
   ]
 }

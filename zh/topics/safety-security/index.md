@@ -12,6 +12,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/safety-securi
   MobileInject evaluates visual/textual observation injection in stateful Android workflows using resettable emulators, benign/adversarial state oracles and trace-based diagnosis of emitted rationales and actions.
 - [MobileJailBench: Red Queen Jailbreak Benchmarking for Mobile Agents](https://awesomecua.github.io/resources/arxiv-2610-23303/) — 2026-10-16
   MobileJailBench evaluates mobile-agent jailbreaks in a browser-based Android-like simulator, combining feedback-driven attack evolution, separately admitted task expansions and evidence-grounded outcome adjudication.
+- [What It Is, Not What It Says: Securing Agentic Browsing Interactions with Web Semantics](https://awesomecua.github.io/resources/arxiv-2610-22697/) — 2026-10-15
+  Intact records webpage element provenance and capabilities, isolates planning per element, and uses a browser harness to constrain actions and request consent for third-party interactions.
 - [Task-State Governance: A Virtual Machine for Verifiable and Recoverable GUI Agent Execution](https://awesomecua.github.io/resources/arxiv-2610-20100/) — 2026-10-14
   Presents TaskVM, an interface for specifying desired and preserved application state, checking agent actions, and exposing whether changes can be reversed or compensated.
 - [Towards Safe Autonomy for Computer Use](https://awesomecua.github.io/resources/arxiv-2610-18508/) — 2026-10-13
@@ -422,6 +424,8 @@ Full source records: https://awesomecua.github.io/downloads/topics/safety-securi
   Research code for constructing and evaluating adversarial inputs to web agents, with a black-box red-team pipeline using Mind2Web data and SeeAct.
 - [Agent Browser Shield](https://awesomecua.github.io/resources/github-pixiebrix-agent-browser-shield/) — Date not recorded
   Browser extension for filtering potentially unsafe agent input.
+- [ORBIT framework](https://awesomecua.github.io/resources/github-wlanderson0-orbit/) — Date not recorded
+  Inspect-based multi-agent evaluation framework with role, scheduling and communication controls, BrowserART accessibility-tree actions, and desktop mouse, keyboard and screenshot tools.
 - [OS-Kairos](https://awesomecua.github.io/resources/github-wuzheng02-os-kairos/) — Date not recorded
   Android GUI-agent research implementation that uses confidence-guided interaction to choose between autonomous actions and human assistance.
 - [OS-Sentinel](https://awesomecua.github.io/resources/github-os-copilot-os-sentinel/) — Date not recorded

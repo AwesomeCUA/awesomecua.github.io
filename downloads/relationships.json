@@ -1,5 +1,5 @@
 {
-  "relation_count": 412,
+  "relation_count": 413,
   "semantics": "Reviewed semantic links only. Documentation does not establish training or evaluation dependency.",
   "relations": [
     {
@@ -1632,6 +1632,14 @@
       "source_kind": "agent",
       "evidence_url": "https://raw.githubusercontent.com/Westlake-AGI-Lab/AppAgentX/HEAD/README.md",
       "target_id": "arxiv:2503.02268",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:wlanderson0/orbit",
+      "source_name": "ORBIT framework",
+      "source_kind": "framework",
+      "evidence_url": "https://arxiv.org/html/2609.33102v1",
+      "target_id": "arxiv:2609.33102",
       "type": "documented_by"
     },
     {

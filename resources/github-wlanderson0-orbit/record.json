@@ -1,0 +1,167 @@
+{
+  "aliases": [],
+  "authors": [],
+  "details": {
+    "license_review": {
+      "code": {
+        "evidence_urls": [
+          "https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/LICENSE",
+          "https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/NOTICE"
+        ],
+        "reason": "Record only the publisher's top-level Apache-2.0 declaration for Orbit-original code. NOTICE explicitly preserves per-component terms; neither bundled or external data nor model weights inherit this declaration. Its account of BrowserART licensing is not an independent resolution of upstream conflicting declarations."
+      }
+    }
+  },
+  "environments": [
+    "web",
+    "desktop"
+  ],
+  "evidence": [
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T13:41:22.467183+00:00",
+      "role": "primary",
+      "sha256": "b6743e3e9e5256d7afa8bb411baf246b60ba71bcfb84eda5a816fba3ddd7d78b",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "topics",
+        "scope",
+        "notes"
+      ],
+      "url": "https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/README.md"
+    },
+    {
+      "method": "github_repository_identity",
+      "retrieved_at": "2026-10-20T13:39:57.052202+00:00",
+      "role": "primary",
+      "sha256": "0436414b9bcc4307f3bcde476a544da6fe1dd5baa90939eed392942490fbfbf7",
+      "supports": [
+        "id",
+        "url"
+      ],
+      "url": "https://api.github.com/repos/wlanderson0/orbit"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T13:42:37.098639+00:00",
+      "role": "primary",
+      "sha256": "c47d046b129999da5e63b7723a3f3e2e0cc31c27ce74b45f71f8c6d0df1fc0d8",
+      "supports": [
+        "summary",
+        "environments",
+        "scope",
+        "notes"
+      ],
+      "url": "https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/orbit/scenarios/browser/browserart/tools.py"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T14:10:32.910533Z",
+      "role": "primary",
+      "sha256": "2cce76b22252a415d64c356b2062771e528b554dd83b6f88fca769f48fa8a826",
+      "supports": [
+        "summary",
+        "environments",
+        "scope",
+        "notes"
+      ],
+      "url": "https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/orbit/scenarios/desktop/osworld/tools.py"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T14:09:35.060985Z",
+      "role": "primary",
+      "sha256": "66515d7ee87eab5a2f42c26132d0bf3e2a3b9c006156d2378181cf91966a2903",
+      "supports": [
+        "notes"
+      ],
+      "url": "https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/docs/benchmark-qualification.md"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T14:10:29.541892Z",
+      "role": "primary",
+      "sha256": "94c781028dc80b2a748d759fae2456f6a986da7487651a6bcbb179e8ad4fe023",
+      "supports": [
+        "notes"
+      ],
+      "url": "https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/orbit/scenarios/browser/browserart/scorer.py"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T13:41:29.036076+00:00",
+      "role": "primary",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "supports": [
+        "licenses.code"
+      ],
+      "url": "https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/LICENSE"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T14:09:31.550310Z",
+      "role": "primary",
+      "sha256": "f68a64f775b1f329416f2fe294bb07b5e475893f77d1cdb5300bdb08acf95410",
+      "supports": [
+        "licenses.code",
+        "licenses.data",
+        "notes"
+      ],
+      "url": "https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/NOTICE"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-20T13:12:28.833839+00:00",
+      "role": "primary",
+      "sha256": "3ea667f4187ba601011e5ff00c4d63676b6d9903d12b80a0d7d5dd9920f00c65",
+      "supports": [
+        "relations"
+      ],
+      "url": "https://arxiv.org/html/2609.33102v1"
+    }
+  ],
+  "id": "github:wlanderson0/orbit",
+  "identifiers": {},
+  "kind": "framework",
+  "last_verified_at": "2026-10-20T13:41:22.467183+00:00",
+  "licenses": {
+    "code": {
+      "basis": "Complete root Apache License 2.0 text for Orbit-original code. NOTICE preserves separate third-party component terms, including MIT-vendored modules; this is not a uniform license for the entire dependency/data bundle.",
+      "declared": "Apache-2.0",
+      "retrieved_at": "2026-10-20T13:41:29.036076+00:00",
+      "url": "https://raw.githubusercontent.com/wlanderson0/orbit/588b3035f92450ec4f0496bb8b629daa205e84c7/LICENSE"
+    },
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "primary",
+      "url": "https://github.com/wlanderson0/orbit"
+    }
+  ],
+  "name": "ORBIT framework",
+  "notes": "Reviewed version 1.0.3 source at commit 588b3035, not an asserted reproduction of the paper. BrowserART tools return accessibility trees, including the screenshot-named refresh. Qualification is scenario-specific: the project documents browser-judge and desktop-scoring limits; its opt-in exact-send oracle covers one derived local task, not SMTP delivery. Runtime profiles and scoring policies are separate. Apache-2.0 is the top-level Orbit code declaration; third-party components and external data/environments retain separate terms. No installation, release archive or live evaluation was tested.",
+  "published_at": null,
+  "relations": [
+    {
+      "evidence_url": "https://arxiv.org/html/2609.33102v1",
+      "target_id": "arxiv:2609.33102",
+      "type": "documented_by"
+    }
+  ],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Inspect-based multi-agent evaluation framework with role, scheduling and communication controls, BrowserART accessibility-tree actions, and desktop mouse, keyboard and screenshot tools.",
+  "topics": [
+    "evaluation",
+    "safety-security",
+    "web-navigation",
+    "observability"
+  ],
+  "updated_at": null,
+  "url": "https://github.com/wlanderson0/orbit"
+}

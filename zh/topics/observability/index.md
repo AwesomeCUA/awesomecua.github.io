@@ -89,3 +89,5 @@ Full source records: https://awesomecua.github.io/downloads/topics/observability
   Optimizes GUI-agent execution code from repeated rollout evidence and checks proposed changes against fixed validation gates.
 - [Lumen browser agent](https://awesomecua.github.io/resources/github-omxyz-lumen/) — Date not recorded
   A screenshot-driven browser agent over Chrome DevTools Protocol, with resumable sessions, context compression, action replay and configurable completion checks.
+- [ORBIT framework](https://awesomecua.github.io/resources/github-wlanderson0-orbit/) — Date not recorded
+  Inspect-based multi-agent evaluation framework with role, scheduling and communication controls, BrowserART accessibility-tree actions, and desktop mouse, keyboard and screenshot tools.

@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "catalog_sha256": "1aa63526aca0a01a551520950ce0c1e4275f39794f22a686697edb9edd25c1d6",
+  "catalog_sha256": "28ff46506102f2e6082f051443477dd2e839e54d3b5c0261e7fb6edd7c1669cd",
   "membership_policy": "Explicit reviewed topic tags only; curated core/adjacent resources. No title-based inference.",
   "count_policy": "Resources are not independent projects. Topic memberships overlap; do not sum topic totals.",
   "citation_policy": "Default retained-source edition; source-specific author/date precision and paper versions are preserved.",
-  "reviewed_resources": 1655,
-  "resources_with_topics": 1655,
+  "reviewed_resources": 1659,
+  "resources_with_topics": 1659,
   "reviewed_resources_without_topics": 0,
   "topics": [
     {
@@ -20,7 +20,8 @@
         "benchmarks": 0,
         "datasets": 2,
         "models": 17,
-        "systems": 3
+        "systems": 3,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:2005.03776",
@@ -110,7 +111,8 @@
         "benchmarks": 0,
         "datasets": 0,
         "models": 1,
-        "systems": 27
+        "systems": 27,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:2202.08137",
@@ -262,7 +264,8 @@
         "benchmarks": 13,
         "datasets": 2,
         "models": 0,
-        "systems": 4
+        "systems": 4,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:2402.06596",
@@ -359,7 +362,8 @@
         "benchmarks": 0,
         "datasets": 55,
         "models": 2,
-        "systems": 25
+        "systems": 25,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:1808.09132",
@@ -744,7 +748,8 @@
         "benchmarks": 2,
         "datasets": 0,
         "models": 5,
-        "systems": 5
+        "systems": 5,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:2112.05692",
@@ -936,12 +941,13 @@
         "zh": "评测"
       },
       "counts": {
-        "total": 708,
+        "total": 709,
         "papers": 581,
         "benchmarks": 87,
         "datasets": 9,
         "models": 1,
-        "systems": 30
+        "systems": 31,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:1602.02261",
@@ -1616,6 +1622,7 @@
         "github:web-arena-x/webarena",
         "github:webvln/webvln",
         "github:weizhepei/webagent-r1",
+        "github:wlanderson0/orbit",
         "github:wuklab/osworld-human",
         "github:wwh0411/fedmabench",
         "github:x-lance/mobile-env",
@@ -1660,9 +1667,9 @@
       "exports": [
         {
           "url": "/downloads/topics/evaluation/records.jsonl",
-          "records": 708,
-          "bytes": 2262351,
-          "sha256": "b7280f244c46f23a2750a69b1629337204663b5306e125fd35b1a0da64e342df"
+          "records": 709,
+          "bytes": 2267988,
+          "sha256": "277dbc1e151ff44eabf6f166f72d7e3dd312e94d2b1d5f9b1b5544cf1cacd341"
         },
         {
           "url": "/downloads/topics/evaluation/citations.bib",
@@ -1690,7 +1697,8 @@
         "benchmarks": 10,
         "datasets": 32,
         "models": 67,
-        "systems": 22
+        "systems": 22,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:1808.09132",
@@ -2109,7 +2117,8 @@
         "benchmarks": 0,
         "datasets": 0,
         "models": 0,
-        "systems": 4
+        "systems": 4,
+        "learning": 0
       },
       "resource_ids": [
         "github:openai/universe",
@@ -2149,12 +2158,13 @@
         "zh": "人机协作"
       },
       "counts": {
-        "total": 86,
-        "papers": 77,
+        "total": 87,
+        "papers": 78,
         "benchmarks": 1,
         "datasets": 0,
         "models": 0,
-        "systems": 8
+        "systems": 8,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:1909.00031",
@@ -2227,6 +2237,7 @@
         "arxiv:2609.04850",
         "arxiv:2609.17885",
         "arxiv:2610.20100",
+        "arxiv:2610.22697",
         "arxiv:2610.22990",
         "arxiv:2610.24277",
         "github:alipay/mobile-agent",
@@ -2251,21 +2262,21 @@
       "exports": [
         {
           "url": "/downloads/topics/human-in-the-loop/records.jsonl",
-          "records": 86,
-          "bytes": 273992,
-          "sha256": "74a519a92c14deb3f086dbc4c0bc3996764efb14473fbf8f8b43ca66db1a8c22"
+          "records": 87,
+          "bytes": 276421,
+          "sha256": "4b26586dd716e670a868358ee154546a49ab6b90b468c8d38096c98e369d3686"
         },
         {
           "url": "/downloads/topics/human-in-the-loop/citations.bib",
-          "records": 77,
-          "bytes": 58934,
-          "sha256": "9be268ab2ee91b5db4e7ac6ee8efb17897bf742d9fa00f2c3cfba010d8393849"
+          "records": 78,
+          "bytes": 59474,
+          "sha256": "a2d2358a306c5ea130290b4d45b15f58abb6d41430124bd3d98699cfbd534163"
         },
         {
           "url": "/downloads/topics/human-in-the-loop/citations.csl.json",
-          "records": 77,
-          "bytes": 141085,
-          "sha256": "aa139e358306d0be7d3d26ded0d081828bc95f7123d258d5d884f18c6a1c037c"
+          "records": 78,
+          "bytes": 142509,
+          "sha256": "6250f383ae828962684c4a70f1f2d2e07560419f853916f4bee99a39cb909b32"
         }
       ]
     },
@@ -2281,7 +2292,8 @@
         "benchmarks": 1,
         "datasets": 14,
         "models": 5,
-        "systems": 12
+        "systems": 12,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:1909.00031",
@@ -2406,7 +2418,8 @@
         "benchmarks": 0,
         "datasets": 0,
         "models": 0,
-        "systems": 16
+        "systems": 16,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:2407.15673",
@@ -2474,7 +2487,8 @@
         "benchmarks": 0,
         "datasets": 0,
         "models": 1,
-        "systems": 1
+        "systems": 1,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:2310.18331",
@@ -2566,7 +2580,8 @@
         "benchmarks": 5,
         "datasets": 1,
         "models": 1,
-        "systems": 5
+        "systems": 5,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:2307.13854",
@@ -2711,7 +2726,8 @@
         "benchmarks": 1,
         "datasets": 2,
         "models": 0,
-        "systems": 16
+        "systems": 16,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:2306.07863",
@@ -2921,7 +2937,8 @@
         "benchmarks": 14,
         "datasets": 13,
         "models": 15,
-        "systems": 32
+        "systems": 32,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:1909.00031",
@@ -3237,12 +3254,13 @@
         "zh": "可观测性"
       },
       "counts": {
-        "total": 40,
+        "total": 41,
         "papers": 37,
         "benchmarks": 0,
         "datasets": 0,
         "models": 0,
-        "systems": 3
+        "systems": 4,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:2401.13178",
@@ -3284,7 +3302,8 @@
         "arxiv:2610.26703",
         "github:aaronlab/browsertrace",
         "github:garyyang12345/gui-harvest",
-        "github:omxyz/lumen"
+        "github:omxyz/lumen",
+        "github:wlanderson0/orbit"
       ],
       "pages": {
         "en": "/topics/observability/",
@@ -3293,9 +3312,9 @@
       "exports": [
         {
           "url": "/downloads/topics/observability/records.jsonl",
-          "records": 40,
-          "bytes": 117828,
-          "sha256": "d1c1702e352f2600b3f1666ba67ae7406693d67d9db6df1b40c7cf9ec0652c16"
+          "records": 41,
+          "bytes": 123465,
+          "sha256": "65b6cfaebb51c2f6ee5293f799d032b47b8e0eef982d45b535ff246d0a918ae5"
         },
         {
           "url": "/downloads/topics/observability/citations.bib",
@@ -3318,12 +3337,13 @@
         "zh": "规划"
       },
       "counts": {
-        "total": 279,
-        "papers": 216,
+        "total": 281,
+        "papers": 217,
         "benchmarks": 0,
         "datasets": 4,
         "models": 27,
-        "systems": 32
+        "systems": 32,
+        "learning": 1
       },
       "resource_ids": [
         "arxiv:1602.02261",
@@ -3540,6 +3560,7 @@
         "arxiv:2610.17710",
         "arxiv:2610.22200",
         "arxiv:2610.22280",
+        "arxiv:2610.22697",
         "arxiv:2610.23012",
         "component:x-plug/mobileagent/mobile-agent-e",
         "component:x-plug/mobileagent/pc-agent",
@@ -3596,6 +3617,7 @@
         "url:879d4e3e75e83582bde6",
         "url:a349aace3cfde25628a8",
         "url:a4da77ee63f879cc8e63",
+        "url:aa693ca3e8948623f31e",
         "url:ad7f176848fd84de64e2",
         "url:aeb32973694f91ad9920",
         "url:b5e2127e07f692d516b9",
@@ -3613,21 +3635,21 @@
       "exports": [
         {
           "url": "/downloads/topics/planning/records.jsonl",
-          "records": 279,
-          "bytes": 856551,
-          "sha256": "ff6ba715fe018523d41f4c97d54199d7305ec8dbd30af7d9f02e6973e9d1648f"
+          "records": 281,
+          "bytes": 861462,
+          "sha256": "861a782a1ef7306075114ff8c2736346e2a6602240aa4f3967334d32ed08d4e9"
         },
         {
           "url": "/downloads/topics/planning/citations.bib",
-          "records": 216,
-          "bytes": 163011,
-          "sha256": "bb0280a54449b5af90e8f68b124e8964339cb77a4c91bb74577ab9bce236fd63"
+          "records": 217,
+          "bytes": 163551,
+          "sha256": "3a0610f3d64c3422a0086b4be33daedccf2a1038551299628600896ce290b818"
         },
         {
           "url": "/downloads/topics/planning/citations.csl.json",
-          "records": 216,
-          "bytes": 406881,
-          "sha256": "860c8418377ccb8e9fd024b4df64992cd1d0ed34cf752a2d8ba2cd4d9fc9a778"
+          "records": 217,
+          "bytes": 408305,
+          "sha256": "ab5fddce5c956fda2764d380e2ad43c66a6b0c945f859b79ad9c6e99be771241"
         }
       ]
     },
@@ -3643,7 +3665,8 @@
         "benchmarks": 0,
         "datasets": 1,
         "models": 0,
-        "systems": 8
+        "systems": 8,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:2412.17589",
@@ -3708,7 +3731,8 @@
         "benchmarks": 2,
         "datasets": 5,
         "models": 23,
-        "systems": 22
+        "systems": 22,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:1802.08802",
@@ -3989,7 +4013,8 @@
         "benchmarks": 4,
         "datasets": 3,
         "models": 4,
-        "systems": 3
+        "systems": 3,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:2404.06474",
@@ -4087,7 +4112,8 @@
         "benchmarks": 10,
         "datasets": 1,
         "models": 0,
-        "systems": 2
+        "systems": 2,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:2309.08172",
@@ -4309,12 +4335,13 @@
         "zh": "安全与防护"
       },
       "counts": {
-        "total": 210,
-        "papers": 191,
+        "total": 212,
+        "papers": 192,
         "benchmarks": 12,
         "datasets": 0,
         "models": 0,
-        "systems": 7
+        "systems": 8,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:2306.01242",
@@ -4505,6 +4532,7 @@
         "arxiv:2610.17457",
         "arxiv:2610.18508",
         "arxiv:2610.20100",
+        "arxiv:2610.22697",
         "arxiv:2610.23303",
         "arxiv:2610.23307",
         "arxiv:2610.24277",
@@ -4524,6 +4552,7 @@
         "github:thu-ml/mla-trust",
         "github:tml-epfl/os-harm",
         "github:verisafeagent/verisafeagent",
+        "github:wlanderson0/orbit",
         "github:wuzheng02/os-kairos",
         "github:wuzheng02/verios",
         "url:3b6dfd52f98bfe76bc7f"
@@ -4535,21 +4564,21 @@
       "exports": [
         {
           "url": "/downloads/topics/safety-security/records.jsonl",
-          "records": 210,
-          "bytes": 617513,
-          "sha256": "c7e564651dcb750021ed7424c05dff73f1e6ffc03077569a588198345201676b"
+          "records": 212,
+          "bytes": 625579,
+          "sha256": "5731153689358700d61c24f0d9cdfb16309da921c6b6bb37efe1d2feadfe2bf7"
         },
         {
           "url": "/downloads/topics/safety-security/citations.bib",
-          "records": 191,
-          "bytes": 126161,
-          "sha256": "bcf4e190170d6351d2d1c5b187a70b5bf278349f7c1229f295ccc6947ad277b5"
+          "records": 192,
+          "bytes": 126701,
+          "sha256": "abcd3240ec6baea1e19db897f5f0c08d3446359b04ac2fabd2c093127eab2efb"
         },
         {
           "url": "/downloads/topics/safety-security/citations.csl.json",
-          "records": 191,
-          "bytes": 329680,
-          "sha256": "8568d9daf23044961ece4da5d169acd6b3c42ea52950bc81256585c85a3c5f5c"
+          "records": 192,
+          "bytes": 331104,
+          "sha256": "58965b880dd8afff31b186d43b03582a7f26829e5883d7742be6463d10e53204"
         }
       ]
     },
@@ -4565,7 +4594,8 @@
         "benchmarks": 3,
         "datasets": 0,
         "models": 0,
-        "systems": 14
+        "systems": 14,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:2105.13231",
@@ -4663,7 +4693,8 @@
         "benchmarks": 1,
         "datasets": 1,
         "models": 0,
-        "systems": 1
+        "systems": 1,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:2407.10956",
@@ -4717,12 +4748,13 @@
         "zh": "界面理解"
       },
       "counts": {
-        "total": 210,
+        "total": 211,
         "papers": 163,
         "benchmarks": 6,
         "datasets": 19,
         "models": 10,
-        "systems": 12
+        "systems": 12,
+        "learning": 1
       },
       "resource_ids": [
         "arxiv:2008.05132",
@@ -4920,6 +4952,7 @@
         "url:52b7de0e43b1afc9c226",
         "url:54997a3c67e54abdf319",
         "url:56bda04bd8d3a438deb3",
+        "url:5857c840372512cfe3fc",
         "url:79287058342289aa5d45",
         "url:a4cdb2ee0d07d3980651",
         "url:b560b5d6abaab98483f6",
@@ -4943,9 +4976,9 @@
       "exports": [
         {
           "url": "/downloads/topics/screen-understanding/records.jsonl",
-          "records": 210,
-          "bytes": 683085,
-          "sha256": "de053b695e3b78d5eadbd39ab0b2e7b844c61faa7427650211d7ff60f3a3baa9"
+          "records": 211,
+          "bytes": 687030,
+          "sha256": "b258629f7f5f8e507cc98a8751624f0993f0f30d5cc76d5e637700460c977b9f"
         },
         {
           "url": "/downloads/topics/screen-understanding/citations.bib",
@@ -4973,7 +5006,8 @@
         "benchmarks": 0,
         "datasets": 0,
         "models": 3,
-        "systems": 7
+        "systems": 7,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:2303.17491",
@@ -5053,7 +5087,8 @@
         "benchmarks": 0,
         "datasets": 0,
         "models": 0,
-        "systems": 3
+        "systems": 3,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:2404.16054",
@@ -5143,7 +5178,8 @@
         "benchmarks": 0,
         "datasets": 0,
         "models": 0,
-        "systems": 0
+        "systems": 0,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:2402.10196",
@@ -5203,7 +5239,8 @@
         "benchmarks": 9,
         "datasets": 2,
         "models": 4,
-        "systems": 24
+        "systems": 24,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:2305.19308",
@@ -5379,7 +5416,8 @@
         "benchmarks": 0,
         "datasets": 0,
         "models": 0,
-        "systems": 2
+        "systems": 2,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:2209.08655",
@@ -5450,7 +5488,8 @@
         "benchmarks": 0,
         "datasets": 1,
         "models": 0,
-        "systems": 0
+        "systems": 0,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:2409.18060",
@@ -5513,7 +5552,8 @@
         "benchmarks": 2,
         "datasets": 7,
         "models": 0,
-        "systems": 0
+        "systems": 0,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:2403.10170",
@@ -5587,12 +5627,13 @@
         "zh": "网页导航"
       },
       "counts": {
-        "total": 299,
-        "papers": 218,
+        "total": 303,
+        "papers": 219,
         "benchmarks": 17,
         "datasets": 8,
         "models": 11,
-        "systems": 45
+        "systems": 46,
+        "learning": 2
       },
       "resource_ids": [
         "arxiv:1602.02261",
@@ -5806,6 +5847,7 @@
         "arxiv:2610.19834",
         "arxiv:2610.20107",
         "arxiv:2610.22539",
+        "arxiv:2610.22697",
         "arxiv:2610.22990",
         "arxiv:2610.24277",
         "component:tencent/selfevolvingagent/webevolver",
@@ -5858,6 +5900,7 @@
         "github:web-arena-x/webarena",
         "github:webvln/webvln",
         "github:weizhepei/webagent-r1",
+        "github:wlanderson0/orbit",
         "github:zorazrw/agent-workflow-memory",
         "url:07b6bbce7ce26a847f79",
         "url:240a05c02f85d4da60dc",
@@ -5868,6 +5911,7 @@
         "url:4a47a6df845735984bf1",
         "url:4f47abde8cd28a1ec1e1",
         "url:52a3261eb6a19b402e88",
+        "url:5857c840372512cfe3fc",
         "url:5d61c1b5fc8dd650518d",
         "url:5e2bd1b3398974b79c9c",
         "url:628b5251757bb3888e89",
@@ -5880,6 +5924,7 @@
         "url:a13a187bc058fbb4f6af",
         "url:a4da77ee63f879cc8e63",
         "url:a6ee20fea67438d91e06",
+        "url:aa693ca3e8948623f31e",
         "url:ac6d0f80765f5a32255a",
         "url:ba6453cfdae0eb049ced",
         "url:bdfb50330deb97893ce4",
@@ -5902,21 +5947,21 @@
       "exports": [
         {
           "url": "/downloads/topics/web-navigation/records.jsonl",
-          "records": 299,
-          "bytes": 928521,
-          "sha256": "038069e91378ac2f9520774624abc71560d1ae59814a3fca0a8cf51df5348036"
+          "records": 303,
+          "bytes": 943014,
+          "sha256": "2e29c70bfe7231aaf1505cc8fe4ff461367b8f3c440b5ca647e9184214c4cdda"
         },
         {
           "url": "/downloads/topics/web-navigation/citations.bib",
-          "records": 218,
-          "bytes": 171205,
-          "sha256": "d4d5d54d6d9c05f2aa5022f7e41bd350fe1d0cee768fbcdb9902809b10e15d2d"
+          "records": 219,
+          "bytes": 171745,
+          "sha256": "13d57bec78b77217b985fc426b2a9afcbf93236518b57b9da37ff1f952706548"
         },
         {
           "url": "/downloads/topics/web-navigation/citations.csl.json",
-          "records": 218,
-          "bytes": 409543,
-          "sha256": "d11645346a9285d64306e62d4b717feecae812c4b46c8f4ef23222f4227063e9"
+          "records": 219,
+          "bytes": 410967,
+          "sha256": "7f791c1298bcf166614a8783501d868736272b0c8ee85550d7675a656091eddf"
         }
       ]
     },
@@ -5932,7 +5977,8 @@
         "benchmarks": 6,
         "datasets": 2,
         "models": 0,
-        "systems": 22
+        "systems": 22,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:1802.08802",
@@ -6085,7 +6131,8 @@
         "benchmarks": 0,
         "datasets": 3,
         "models": 2,
-        "systems": 2
+        "systems": 2,
+        "learning": 0
       },
       "resource_ids": [
         "arxiv:2406.07822",
