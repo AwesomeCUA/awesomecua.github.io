@@ -401,7 +401,7 @@
       },
       "scope": "provenance",
       "bytes": 216030,
-      "sha256": "5d295c2bedf79ceec51b48f2660ac4826ed1d9870e50672572fa39f240b9c2fb"
+      "sha256": "f01f37576b4c5d7515eb17f7cf70839fbda1e48a0e4e3a8d98f9dc9cf4827e18"
     },
     {
       "id": "sources",
@@ -554,8 +554,8 @@
         "unit": "reports"
       },
       "scope": "candidate-observations",
-      "bytes": 63586,
-      "sha256": "b46092b5812200152d16a5aba067f9674091a43461c840a1809e7e6dac34ddca"
+      "bytes": 65245,
+      "sha256": "03d19dc0865d4a81289b7b51e2a329fbfe2139870cfa8e3fc814727c2372997d"
     },
     {
       "id": "resource-schema-json",
