@@ -1,0 +1,71 @@
+{
+  "aliases": [],
+  "authors": [
+    "Pengcheng Huang",
+    "Zhenghao Liu",
+    "Shixin Ren",
+    "Shi Yu",
+    "Sijia Yao",
+    "Yukun Yan",
+    "Chaojun Xiao",
+    "Maosong Sun"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bad610c0ceb1b551c3485d3ab797967a51b800d9ff7ac79a9808def7c0e4a7af",
+      "submitted_at": "2026-10-13T06:40:22Z",
+      "updated_at": "2026-10-18T09:06:18Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2610.17816v2"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-21T04:48:34Z",
+      "role": "primary",
+      "sha256": "4b1219a8d3b34b9ecfabab989eed959ab7e2263500ab2034fc56105db1c559eb",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2606.22673%2C2610.17816%2C2610.20597%2C2610.23857%2C2610.25601&max_results=5"
+    }
+  ],
+  "id": "arxiv:2610.17816",
+  "identifiers": {
+    "arxiv": "2610.17816"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-21T04:48:34Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2610.17816"
+    }
+  ],
+  "name": "Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2026-10-13",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-10-18",
+  "url": "https://arxiv.org/abs/2610.17816"
+}

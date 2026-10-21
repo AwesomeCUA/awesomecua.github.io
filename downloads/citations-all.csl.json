@@ -156491,6 +156491,73 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2606.22673v2",
+    "archive": "arXiv",
+    "archive_location": "2606.22673",
+    "author": [
+      {
+        "literal": "Weidi Luo"
+      },
+      {
+        "literal": "Qiming Zhang"
+      },
+      {
+        "literal": "Yihao Quan"
+      },
+      {
+        "literal": "Mingyu Jin"
+      },
+      {
+        "literal": "Jie Cai"
+      },
+      {
+        "literal": "Chaowei Xiao"
+      },
+      {
+        "literal": "Jingcheng Niu"
+      },
+      {
+        "literal": "Zhen Xiang"
+      }
+    ],
+    "citation-key": "arxiv_2606_22673",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "dd97e92e0731e8b00dba47217fa60a3b53a84f19b716c3d4347c761294dd9d32",
+        "submitted_at": "2026-06-21T21:13:55Z",
+        "updated_at": "2026-10-05T17:21:29Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2606.22673v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.22673",
+      "catalog_id": "arxiv:2606.22673",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-06-21",
+      "identifiers": {
+        "arxiv": "2606.22673"
+      },
+      "record_updated_at": "2026-10-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.22673",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          21
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-21; Recorded arXiv version: v2; Recorded version updated: 2026-10-05T17:21:29Z.",
+    "title": "Agent MechSuits: Mechanistic Subspace Safety Steering for Multi-Turn CLI Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2606.22864v1",
     "archive": "arXiv",
     "archive_location": "2606.22864",
@@ -186465,6 +186532,73 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.17816v2",
+    "archive": "arXiv",
+    "archive_location": "2610.17816",
+    "author": [
+      {
+        "literal": "Pengcheng Huang"
+      },
+      {
+        "literal": "Zhenghao Liu"
+      },
+      {
+        "literal": "Shixin Ren"
+      },
+      {
+        "literal": "Shi Yu"
+      },
+      {
+        "literal": "Sijia Yao"
+      },
+      {
+        "literal": "Yukun Yan"
+      },
+      {
+        "literal": "Chaojun Xiao"
+      },
+      {
+        "literal": "Maosong Sun"
+      }
+    ],
+    "citation-key": "arxiv_2610_17816",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "bad610c0ceb1b551c3485d3ab797967a51b800d9ff7ac79a9808def7c0e4a7af",
+        "submitted_at": "2026-10-13T06:40:22Z",
+        "updated_at": "2026-10-18T09:06:18Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2610.17816v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.17816",
+      "catalog_id": "arxiv:2610.17816",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-13",
+      "identifiers": {
+        "arxiv": "2610.17816"
+      },
+      "record_updated_at": "2026-10-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.17816",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          13
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-13; Recorded arXiv version: v2; Recorded version updated: 2026-10-18T09:06:18Z.",
+    "title": "Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.17895v2",
     "archive": "arXiv",
     "archive_location": "2610.17895",
@@ -187933,6 +188067,76 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.20597v2",
+    "archive": "arXiv",
+    "archive_location": "2610.20597",
+    "author": [
+      {
+        "literal": "Haofei Yu"
+      },
+      {
+        "literal": "Yixing Chen"
+      },
+      {
+        "literal": "Yining Zhao"
+      },
+      {
+        "literal": "Xuyan Ye"
+      },
+      {
+        "literal": "Yuxiang Liu"
+      },
+      {
+        "literal": "Zhigang Hua"
+      },
+      {
+        "literal": "Yan Xie"
+      },
+      {
+        "literal": "Shuang Yang"
+      },
+      {
+        "literal": "Jiaxuan You"
+      }
+    ],
+    "citation-key": "arxiv_2610_20597",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "fede23bfd088bce8edb49f5b7e44b1626f4c5c94999f2ca56ade76fae818db84",
+        "submitted_at": "2026-10-14T17:59:28Z",
+        "updated_at": "2026-10-15T17:52:52Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2610.20597v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.20597",
+      "catalog_id": "arxiv:2610.20597",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-14",
+      "identifiers": {
+        "arxiv": "2610.20597"
+      },
+      "record_updated_at": "2026-10-15"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.20597",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-14; Recorded arXiv version: v2; Recorded version updated: 2026-10-15T17:52:52Z.",
+    "title": "Co-Evolving Acting and Forecasting for Language Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.20939v1",
     "archive": "arXiv",
     "archive_location": "2610.20939",
@@ -188849,6 +189053,64 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.23857v1",
+    "archive": "arXiv",
+    "archive_location": "2610.23857",
+    "author": [
+      {
+        "literal": "Qianli Ma"
+      },
+      {
+        "literal": "Limengxi Yue"
+      },
+      {
+        "literal": "Shuyang Xu"
+      },
+      {
+        "literal": "Yanpei Shi"
+      },
+      {
+        "literal": "Hongrui Liu"
+      }
+    ],
+    "citation-key": "arxiv_2610_23857",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8922fb54b82e6825cb3a841f2400c7773354a8a49db5e31035dc468f3bdf96b3",
+        "submitted_at": "2026-01-12T01:04:20Z",
+        "updated_at": "2026-01-12T01:04:20Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.23857v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.23857",
+      "catalog_id": "arxiv:2610.23857",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-01-12",
+      "identifiers": {
+        "arxiv": "2610.23857"
+      },
+      "record_updated_at": "2026-01-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.23857",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-12; Recorded arXiv version: v1; Recorded version updated: 2026-01-12T01:04:20Z.",
+    "title": "Web Agent Agentic Reinforcement Learning Decision Model Under Multi-Cost and Failure Risk",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.23986v1",
     "archive": "arXiv",
     "archive_location": "2610.23986",
@@ -189168,6 +189430,61 @@
     },
     "note": "First published: 2026-10-17; Recorded arXiv version: v1; Recorded version updated: 2026-10-17T14:49:08Z.",
     "title": "fxBench: Evaluating and Understanding Formula Suggestions in Spreadsheets",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.25601v1",
+    "archive": "arXiv",
+    "archive_location": "2610.25601",
+    "author": [
+      {
+        "literal": "Hridya Dhulipala"
+      },
+      {
+        "literal": "Xiaokai Rong"
+      },
+      {
+        "literal": "Aashish Yadavally"
+      },
+      {
+        "literal": "Tien N. Nguyen"
+      }
+    ],
+    "citation-key": "arxiv_2610_25601",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2e03ebe24ed7c3d3283d4c71f9244bf42e682f4e2ffa4f8e4482cfcab67b8ddb",
+        "submitted_at": "2026-10-19T00:07:30Z",
+        "updated_at": "2026-10-19T00:07:30Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.25601v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.25601",
+      "catalog_id": "arxiv:2610.25601",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-19",
+      "identifiers": {
+        "arxiv": "2610.25601"
+      },
+      "record_updated_at": "2026-10-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.25601",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T00:07:30Z.",
+    "title": "Step-Aligned Script Generation with Verification and Recovery for Web Automation Testing",
     "type": "article",
     "version": "1"
   },
@@ -189625,6 +189942,347 @@
     },
     "note": "First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T17:55:35Z.",
     "title": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.27205v1",
+    "archive": "arXiv",
+    "archive_location": "2610.27205",
+    "author": [
+      {
+        "literal": "Ocean Monjur"
+      },
+      {
+        "literal": "Daud Ahmad Nisar"
+      },
+      {
+        "literal": "Shahriar Kabir Nahin"
+      },
+      {
+        "literal": "Tadesse Destaw Belay"
+      },
+      {
+        "literal": "Sushruti Mishra"
+      },
+      {
+        "literal": "Israel Abebe Azime"
+      },
+      {
+        "literal": "Anshuman Chhabra"
+      }
+    ],
+    "citation-key": "arxiv_2610_27205",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "15531788fe6a9dab5a008ffc1d660fc2680bcf132215f1ce874ab36af9bb9a7a",
+        "submitted_at": "2026-10-19T19:40:15Z",
+        "updated_at": "2026-10-19T19:40:15Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.27205v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.27205",
+      "catalog_id": "arxiv:2610.27205",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-19",
+      "identifiers": {
+        "arxiv": "2610.27205"
+      },
+      "record_updated_at": "2026-10-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.27205",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T19:40:15Z.",
+    "title": "LoWAgent: A Low-Resource Multilingual Benchmark for Web Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.27645v1",
+    "archive": "arXiv",
+    "archive_location": "2610.27645",
+    "author": [
+      {
+        "literal": "Xu Hu"
+      },
+      {
+        "literal": "Haoming Li"
+      },
+      {
+        "literal": "Yuxiang Wang"
+      },
+      {
+        "literal": "Jinxin Yang"
+      },
+      {
+        "literal": "Kangshuo Li"
+      },
+      {
+        "literal": "Licheng Wang"
+      },
+      {
+        "literal": "Dingyi Kang"
+      },
+      {
+        "literal": "Jiayu Song"
+      },
+      {
+        "literal": "Tianhao Wang"
+      },
+      {
+        "literal": "Zhanhua Hu"
+      },
+      {
+        "literal": "Xu Yang"
+      },
+      {
+        "literal": "Qiannan Li"
+      },
+      {
+        "literal": "Bingzhe Li"
+      },
+      {
+        "literal": "Feng Chen"
+      }
+    ],
+    "citation-key": "arxiv_2610_27645",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a8a04fe46937c3a771a10373108d6979469a1b56aac823a3afc64e01deb8241a",
+        "submitted_at": "2026-10-20T05:06:00Z",
+        "updated_at": "2026-10-20T05:06:00Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.27645v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.27645",
+      "catalog_id": "arxiv:2610.27645",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-20",
+      "identifiers": {
+        "arxiv": "2610.27645"
+      },
+      "record_updated_at": "2026-10-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.27645",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-20; Recorded arXiv version: v1; Recorded version updated: 2026-10-20T05:06:00Z.",
+    "title": "CUA-Recovery: Benchmarking Error Recovery in Long-Horizon Computer-Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.27954v1",
+    "archive": "arXiv",
+    "archive_location": "2610.27954",
+    "author": [
+      {
+        "literal": "Byeonghun Bang"
+      },
+      {
+        "literal": "Sangwoo Park"
+      },
+      {
+        "literal": "Jinheon Baek"
+      },
+      {
+        "literal": "Kangsan Kim"
+      },
+      {
+        "literal": "Youngwan Lee"
+      },
+      {
+        "literal": "Sung Ju Hwang"
+      }
+    ],
+    "citation-key": "arxiv_2610_27954",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "566cdf36884edceec5842557c775396da69c25049ffd6f7498c9043b16dfac79",
+        "submitted_at": "2026-10-20T09:59:12Z",
+        "updated_at": "2026-10-20T09:59:12Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.27954v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.27954",
+      "catalog_id": "arxiv:2610.27954",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-20",
+      "identifiers": {
+        "arxiv": "2610.27954"
+      },
+      "record_updated_at": "2026-10-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.27954",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-20; Recorded arXiv version: v1; Recorded version updated: 2026-10-20T09:59:12Z.",
+    "title": "Lost in Recovery: Demystifying Recovery Behavior of Computer-Use Agents via Goal-Oriented Action Replay",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.28601v1",
+    "archive": "arXiv",
+    "archive_location": "2610.28601",
+    "author": [
+      {
+        "literal": "Saaket Agashe"
+      },
+      {
+        "literal": "Yuzhe Yang"
+      },
+      {
+        "literal": "Gonzalo Gonzalez-Pumariega"
+      },
+      {
+        "literal": "Bhuvan Chandra Koduru"
+      },
+      {
+        "literal": "Chih-Lun Li"
+      },
+      {
+        "literal": "Jiachen Yang"
+      },
+      {
+        "literal": "Ang Li"
+      },
+      {
+        "literal": "Xin Eric Wang"
+      }
+    ],
+    "citation-key": "arxiv_2610_28601",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b8b3a8a83d7fca0f8950110b74ffe51c11bb7d403677d4a822bc7597dea211e9",
+        "submitted_at": "2026-10-20T17:47:37Z",
+        "updated_at": "2026-10-20T17:47:37Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.28601v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.28601",
+      "catalog_id": "arxiv:2610.28601",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-20",
+      "identifiers": {
+        "arxiv": "2610.28601"
+      },
+      "record_updated_at": "2026-10-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.28601",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-20; Recorded arXiv version: v1; Recorded version updated: 2026-10-20T17:47:37Z.",
+    "title": "Evolving Agent Interfaces",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.28610v1",
+    "archive": "arXiv",
+    "archive_location": "2610.28610",
+    "author": [
+      {
+        "literal": "Jingyu Xiao"
+      },
+      {
+        "literal": "Dasen Dai"
+      },
+      {
+        "literal": "Yuxuan Wan"
+      },
+      {
+        "literal": "Jen-tse Huang"
+      },
+      {
+        "literal": "Yintong Huo"
+      },
+      {
+        "literal": "Hongyu Zhang"
+      },
+      {
+        "literal": "Michael R. Lyu"
+      }
+    ],
+    "citation-key": "arxiv_2610_28610",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d674ff8ea7ca3ce481e0c1d595a1f13fd0079d6a4f2752ed8bc6aedfea3db220",
+        "submitted_at": "2026-10-20T17:53:24Z",
+        "updated_at": "2026-10-20T17:53:24Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.28610v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.28610",
+      "catalog_id": "arxiv:2610.28610",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-20",
+      "identifiers": {
+        "arxiv": "2610.28610"
+      },
+      "record_updated_at": "2026-10-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.28610",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-20; Recorded arXiv version: v1; Recorded version updated: 2026-10-20T17:53:24Z.",
+    "title": "InterWebCoder: Learning Interactive Webpage Generation from Executable Tests via Reinforcement Learning",
     "type": "article",
     "version": "1"
   },

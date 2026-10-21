@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2610.28610",
+  "citation-key": "arxiv_2610_28610",
+  "type": "article",
+  "title": "InterWebCoder: Learning Interactive Webpage Generation from Executable Tests via Reinforcement Learning",
+  "URL": "https://arxiv.org/abs/2610.28610v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.28610",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.28610",
+    "identifiers": {
+      "arxiv": "2610.28610"
+    },
+    "first_published_at": "2026-10-20",
+    "record_updated_at": "2026-10-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d674ff8ea7ca3ce481e0c1d595a1f13fd0079d6a4f2752ed8bc6aedfea3db220",
+      "submitted_at": "2026-10-20T17:53:24Z",
+      "updated_at": "2026-10-20T17:53:24Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.28610v1"
+    }
+  },
+  "note": "First published: 2026-10-20; Recorded arXiv version: v1; Recorded version updated: 2026-10-20T17:53:24Z.",
+  "author": [
+    {
+      "literal": "Jingyu Xiao"
+    },
+    {
+      "literal": "Dasen Dai"
+    },
+    {
+      "literal": "Yuxuan Wan"
+    },
+    {
+      "literal": "Jen-tse Huang"
+    },
+    {
+      "literal": "Yintong Huo"
+    },
+    {
+      "literal": "Hongyu Zhang"
+    },
+    {
+      "literal": "Michael R. Lyu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.28610",
+  "genre": "preprint",
+  "version": "1"
+}

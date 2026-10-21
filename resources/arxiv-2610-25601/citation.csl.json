@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2610.25601",
+  "citation-key": "arxiv_2610_25601",
+  "type": "article",
+  "title": "Step-Aligned Script Generation with Verification and Recovery for Web Automation Testing",
+  "URL": "https://arxiv.org/abs/2610.25601v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.25601",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.25601",
+    "identifiers": {
+      "arxiv": "2610.25601"
+    },
+    "first_published_at": "2026-10-19",
+    "record_updated_at": "2026-10-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "2e03ebe24ed7c3d3283d4c71f9244bf42e682f4e2ffa4f8e4482cfcab67b8ddb",
+      "submitted_at": "2026-10-19T00:07:30Z",
+      "updated_at": "2026-10-19T00:07:30Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.25601v1"
+    }
+  },
+  "note": "First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T00:07:30Z.",
+  "author": [
+    {
+      "literal": "Hridya Dhulipala"
+    },
+    {
+      "literal": "Xiaokai Rong"
+    },
+    {
+      "literal": "Aashish Yadavally"
+    },
+    {
+      "literal": "Tien N. Nguyen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.25601",
+  "genre": "preprint",
+  "version": "1"
+}

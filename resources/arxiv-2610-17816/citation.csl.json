@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2610.17816",
+  "citation-key": "arxiv_2610_17816",
+  "type": "article",
+  "title": "Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution",
+  "URL": "https://arxiv.org/abs/2610.17816v2",
+  "custom": {
+    "catalog_id": "arxiv:2610.17816",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.17816",
+    "identifiers": {
+      "arxiv": "2610.17816"
+    },
+    "first_published_at": "2026-10-13",
+    "record_updated_at": "2026-10-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bad610c0ceb1b551c3485d3ab797967a51b800d9ff7ac79a9808def7c0e4a7af",
+      "submitted_at": "2026-10-13T06:40:22Z",
+      "updated_at": "2026-10-18T09:06:18Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2610.17816v2"
+    }
+  },
+  "note": "First published: 2026-10-13; Recorded arXiv version: v2; Recorded version updated: 2026-10-18T09:06:18Z.",
+  "author": [
+    {
+      "literal": "Pengcheng Huang"
+    },
+    {
+      "literal": "Zhenghao Liu"
+    },
+    {
+      "literal": "Shixin Ren"
+    },
+    {
+      "literal": "Shi Yu"
+    },
+    {
+      "literal": "Sijia Yao"
+    },
+    {
+      "literal": "Yukun Yan"
+    },
+    {
+      "literal": "Chaojun Xiao"
+    },
+    {
+      "literal": "Maosong Sun"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.17816",
+  "genre": "preprint",
+  "version": "2"
+}
