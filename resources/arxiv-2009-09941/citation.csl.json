@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2009.09941",
+  "citation-key": "arxiv_2009_09941",
+  "type": "article",
+  "title": "PP-OCR: A Practical Ultra Lightweight OCR System",
+  "URL": "https://arxiv.org/abs/2009.09941v3",
+  "custom": {
+    "catalog_id": "arxiv:2009.09941",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2009.09941",
+    "identifiers": {
+      "arxiv": "2009.09941"
+    },
+    "first_published_at": "2020-09-21",
+    "record_updated_at": "2020-10-15",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "222c26f82629db9e7298c21dd4a0a063e8af2a81b985220be69db99baba196fc",
+      "submitted_at": "2020-09-21T14:57:18Z",
+      "updated_at": "2020-10-15T14:21:53Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2009.09941v3"
+    }
+  },
+  "note": "First published: 2020-09-21; Recorded arXiv version: v3; Recorded version updated: 2020-10-15T14:21:53Z.",
+  "author": [
+    {
+      "literal": "Yuning Du"
+    },
+    {
+      "literal": "Chenxia Li"
+    },
+    {
+      "literal": "Ruoyu Guo"
+    },
+    {
+      "literal": "Xiaoting Yin"
+    },
+    {
+      "literal": "Weiwei Liu"
+    },
+    {
+      "literal": "Jun Zhou"
+    },
+    {
+      "literal": "Yifan Bai"
+    },
+    {
+      "literal": "Zilin Yu"
+    },
+    {
+      "literal": "Yehua Yang"
+    },
+    {
+      "literal": "Qingqing Dang"
+    },
+    {
+      "literal": "Haoshuang Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        9,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2009.09941",
+  "genre": "preprint",
+  "version": "3"
+}
