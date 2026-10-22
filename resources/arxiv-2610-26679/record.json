@@ -1,0 +1,72 @@
+{
+  "aliases": [],
+  "authors": [
+    "Hossein A. Rahmani",
+    "Bin Wu",
+    "Chaeeun Lee",
+    "Fanghua Ye",
+    "Sahan Bulathwela",
+    "Sujay Kumar Jauhar",
+    "Marzieh Fadaee",
+    "Nick Craswell",
+    "Emine Yilmaz"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0ea5f7386b9cc04494875171fa25b1374922313c37ed5f01341e6d515c984859",
+      "submitted_at": "2026-10-19T16:27:14Z",
+      "updated_at": "2026-10-19T16:27:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.26679v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-22T04:46:45Z",
+      "role": "primary",
+      "sha256": "aaabbb5ccd1734a9eb08f60f041c82b3d0f125105e9ebe30fe554724466c27a3",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2610.22686%2C2610.26679&max_results=2"
+    }
+  ],
+  "id": "arxiv:2610.26679",
+  "identifiers": {
+    "arxiv": "2610.26679"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-22T04:46:45Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2610.26679"
+    }
+  ],
+  "name": "StepBench: Diagnosing Real-World Procedural Understanding in AI Agents",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2026-10-19",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-10-19",
+  "url": "https://arxiv.org/abs/2610.26679"
+}

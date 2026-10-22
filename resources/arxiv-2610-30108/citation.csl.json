@@ -1,0 +1,94 @@
+{
+  "id": "arxiv:2610.30108",
+  "citation-key": "arxiv_2610_30108",
+  "type": "article",
+  "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use",
+  "URL": "https://arxiv.org/abs/2610.30108v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.30108",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.30108",
+    "identifiers": {
+      "arxiv": "2610.30108"
+    },
+    "first_published_at": "2026-10-21",
+    "record_updated_at": "2026-10-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "5be9e96cd0e1b7574aa96426b1bff6e6f93db605a2e803e39b0f2314d2293fb7",
+      "submitted_at": "2026-10-21T17:52:48Z",
+      "updated_at": "2026-10-21T17:52:48Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.30108v1"
+    }
+  },
+  "note": "First published: 2026-10-21; Recorded arXiv version: v1; Recorded version updated: 2026-10-21T17:52:48Z.",
+  "author": [
+    {
+      "literal": "Yanzhe Chen"
+    },
+    {
+      "literal": "Ziyi Yang"
+    },
+    {
+      "literal": "Jifeng Zhu"
+    },
+    {
+      "literal": "Qiming Huang"
+    },
+    {
+      "literal": "Ruihe An"
+    },
+    {
+      "literal": "Peiyao Xu"
+    },
+    {
+      "literal": "Hesen Yang"
+    },
+    {
+      "literal": "Runda Liu"
+    },
+    {
+      "literal": "Chang Gong"
+    },
+    {
+      "literal": "Zhijun Cao"
+    },
+    {
+      "literal": "Zechen Bai"
+    },
+    {
+      "literal": "Wenzheng Zeng"
+    },
+    {
+      "literal": "Yiqi Lin"
+    },
+    {
+      "literal": "Guoqiang Liang"
+    },
+    {
+      "literal": "Kevin Yuchen Ma"
+    },
+    {
+      "literal": "Kevin Qinghong Lin"
+    },
+    {
+      "literal": "Mike Zheng Shou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.30108",
+  "genre": "preprint",
+  "version": "1"
+}

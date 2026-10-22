@@ -1,7 +1,7 @@
 {
   "site_url": "https://awesomecua.github.io",
   "indexable_pages": 1932,
-  "metadata_only_pages": 1574,
+  "metadata_only_pages": 1578,
   "excluded_pages": 138,
   "pages": [
     {
@@ -13695,6 +13695,11 @@
       "sha256": "7a723f610368395bdb13c8b90b21ad8ce074538c39224c6a3c293c9a9e548936"
     },
     {
+      "path": "/resources/arxiv-2610-22686/",
+      "indexable": false,
+      "sha256": "7f03d5de7c998997855ef89aa9cf3d7ebe48754e72589aa62c8cbac4feb794aa"
+    },
+    {
       "path": "/resources/arxiv-2610-22697/",
       "indexable": true,
       "sha256": "96c8d84f206d84d25e9013eb422c5dcdccc3baf2ce9781aef1c2567ea3892d8f"
@@ -13780,6 +13785,11 @@
       "sha256": "6f4c2bd2845c22387b79b154ada42c8be060cd380a97a113f723b22adcb5ad52"
     },
     {
+      "path": "/resources/arxiv-2610-26679/",
+      "indexable": false,
+      "sha256": "2c9e349d74197d762e07aa268d7a97058bc378d24e559e30f78d8310a30dfbc1"
+    },
+    {
       "path": "/resources/arxiv-2610-26703/",
       "indexable": true,
       "sha256": "d38f8e5b0332e94b35e88b384692a5310dea0d3fc71e04da1d3b02d694c205ed"
@@ -13813,6 +13823,16 @@
       "path": "/resources/arxiv-2610-28610/",
       "indexable": false,
       "sha256": "7605ebc08572491a14b2ced1cea01d4bdc57851b2c3851d9c33a4b3bbbaf5aec"
+    },
+    {
+      "path": "/resources/arxiv-2610-29609/",
+      "indexable": false,
+      "sha256": "f316fe561ad4eb008f8e81a72e8278ee03282acfd0d99fa596f529e9640f9947"
+    },
+    {
+      "path": "/resources/arxiv-2610-30108/",
+      "indexable": false,
+      "sha256": "3435b06f5b5b0ac06419f479014c5779ec37f08064c4c80a81f7ffb5a5f01ade"
     },
     {
       "path": "/resources/component-google-research-android-control/",
@@ -17065,7 +17085,7 @@
     {
       "path": "/catalog/",
       "indexable": true,
-      "sha256": "d8ed1ed894d2c1ea978b162457d10743a0cf92a8cce53e5277a16b70c3e4df8f"
+      "sha256": "de45533e1fa68b8ac0f2adde1586cbf4650f78897f8b5b7d0af63151f5af98a8"
     },
     {
       "path": "/categories/paper/",
@@ -18295,7 +18315,7 @@
     {
       "path": "/coverage/",
       "indexable": true,
-      "sha256": "557c8954c3231cb1f4aafe245bd9c2f938fd71006edcf57c5a1d8eb3091aadc6"
+      "sha256": "4e9e33d4b9453ae01d08696d970d08fd369328347d7aefee78bdca24929668dd"
     },
     {
       "path": "/agents/",
@@ -18310,7 +18330,7 @@
     {
       "path": "/updates/",
       "indexable": true,
-      "sha256": "a2917fb2bab3099e040860a6b5e7f65c15a547ebacc3c82d2cf6cc685d570686"
+      "sha256": "2000a5fead68f46eb095a0ec49ce5f5ad8d4047d2dd2cd2353458d6fa1afa0c3"
     },
     {
       "path": "/badges/",
@@ -18325,12 +18345,12 @@
     {
       "path": "/data/",
       "indexable": true,
-      "sha256": "f3051dbe7b9d2793b81f70f62e36156875cc8f971cf4c53fbe0502b572916df8"
+      "sha256": "c648d932d7db78f244db8af66ac38b968d33f7b62295155e66abe7b705f24f67"
     },
     {
       "path": "/zh/data/",
       "indexable": true,
-      "sha256": "2c7383b7020431f730fd05c22cdbd4d5b24e1cd9b44901b72a94c5cd6b3f42a7"
+      "sha256": "ecdaf9e7dab54512c8ceffb8af0b4d321ea6e84525025e5b50ae66909dd1e367"
     },
     {
       "path": "/guides/what-are-computer-use-agents/",
@@ -18355,12 +18375,12 @@
     {
       "path": "/zh/",
       "indexable": true,
-      "sha256": "e4ff52fdc107e777a23a85109d4b84a7b319297f870d82cdd293e7eb202ed120"
+      "sha256": "7e08577e5621f2d45b9e8f82684d9820c0dc4127354a972f3d8c3dd7a9ada9bc"
     },
     {
       "path": "/",
       "indexable": true,
-      "sha256": "5bbf6005f987e094243bd72418c596dddb1cd657768f7004be6061d641c4dcee"
+      "sha256": "295a3788f43049e94bdbfb38c77be9db7ee5cced426b0031cd4d9fd93c4d8b68"
     }
   ]
 }

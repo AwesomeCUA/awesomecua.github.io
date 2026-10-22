@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2610.29609",
+  "citation-key": "arxiv_2610_29609",
+  "type": "article",
+  "title": "Who Verifies the Agent's Success Claim? Self-Report Leakage in GUI-Agent Completion Judging",
+  "URL": "https://arxiv.org/abs/2610.29609v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.29609",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.29609",
+    "identifiers": {
+      "arxiv": "2610.29609"
+    },
+    "first_published_at": "2026-10-21",
+    "record_updated_at": "2026-10-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "549ebe784b04c1acde6875e369708b1b566d449b81b6fea38d2e9cb6ee11a11c",
+      "submitted_at": "2026-10-21T11:50:17Z",
+      "updated_at": "2026-10-21T11:50:17Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.29609v1"
+    }
+  },
+  "note": "First published: 2026-10-21; Recorded arXiv version: v1; Recorded version updated: 2026-10-21T11:50:17Z.",
+  "author": [
+    {
+      "literal": "Yunfeng Zhu"
+    },
+    {
+      "literal": "Shengcheng Yu"
+    },
+    {
+      "literal": "Zihan Li"
+    },
+    {
+      "literal": "Zhenyu Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.29609",
+  "genre": "preprint",
+  "version": "1"
+}
