@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2610.27861",
+  "citation-key": "arxiv_2610_27861",
+  "type": "article",
+  "title": "RoboCasa-Shift: Stage-Aware Robustness Evaluation of Vision-Language-Action Policies in Long-Horizon Household Manipulation",
+  "URL": "https://arxiv.org/abs/2610.27861v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.27861",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.27861",
+    "identifiers": {
+      "arxiv": "2610.27861"
+    },
+    "first_published_at": "2026-10-20",
+    "record_updated_at": "2026-10-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ecd5f01ccdc4fa4875768b72c15d77b68b6cabd99ef6d9125f3462ae1af12949",
+      "submitted_at": "2026-10-20T08:42:42Z",
+      "updated_at": "2026-10-20T08:42:42Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.27861v1"
+    }
+  },
+  "note": "First published: 2026-10-20; Recorded arXiv version: v1; Recorded version updated: 2026-10-20T08:42:42Z.",
+  "author": [
+    {
+      "literal": "Haocheng Wang"
+    },
+    {
+      "literal": "Youquan Liu"
+    },
+    {
+      "literal": "Weiyu Guo"
+    },
+    {
+      "literal": "Aokai Zhang"
+    },
+    {
+      "literal": "Donghang Wu"
+    },
+    {
+      "literal": "Hongyu Liu"
+    },
+    {
+      "literal": "Sha Zhang"
+    },
+    {
+      "literal": "Weidong Yang"
+    },
+    {
+      "literal": "Ben Fei"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.27861",
+  "genre": "preprint",
+  "version": "1"
+}
