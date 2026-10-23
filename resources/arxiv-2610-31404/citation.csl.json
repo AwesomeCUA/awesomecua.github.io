@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2610.31404",
+  "citation-key": "arxiv_2610_31404",
+  "type": "article",
+  "title": "AgentPhishing: A Benchmark of LLM Email Agents Under Adaptive Attack",
+  "URL": "https://arxiv.org/abs/2610.31404v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.31404",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.31404",
+    "identifiers": {
+      "arxiv": "2610.31404"
+    },
+    "first_published_at": "2026-10-22",
+    "record_updated_at": "2026-10-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "946e2b83a6483e54d4693b2a7256254948f1f9e2b66a4da390cf89bef4c88909",
+      "submitted_at": "2026-10-22T15:07:49Z",
+      "updated_at": "2026-10-22T15:07:49Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.31404v1"
+    }
+  },
+  "note": "First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T15:07:49Z.",
+  "author": [
+    {
+      "literal": "Justin Tan"
+    },
+    {
+      "literal": "Miao Li"
+    },
+    {
+      "literal": "Ding Zhao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.31404",
+  "genre": "preprint",
+  "version": "1"
+}

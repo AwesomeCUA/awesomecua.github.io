@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2610.31307",
+  "citation-key": "arxiv_2610_31307",
+  "type": "article",
+  "title": "Subgoal-aware Memory Graph for GUI Agent",
+  "URL": "https://arxiv.org/abs/2610.31307v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.31307",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.31307",
+    "identifiers": {
+      "arxiv": "2610.31307"
+    },
+    "first_published_at": "2026-10-22",
+    "record_updated_at": "2026-10-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a0f0ebf3e08e8c279c1d62ae785fc16ebec823282ad396b97cfdf5a08aac9891",
+      "submitted_at": "2026-10-22T14:06:00Z",
+      "updated_at": "2026-10-22T14:06:00Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.31307v1"
+    }
+  },
+  "note": "First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T14:06:00Z.",
+  "author": [
+    {
+      "literal": "Dezhao Luo"
+    },
+    {
+      "literal": "Daniel Beechey"
+    },
+    {
+      "literal": "Derek Yuen"
+    },
+    {
+      "literal": "Weilin Luo"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.31307",
+  "genre": "preprint",
+  "version": "1"
+}

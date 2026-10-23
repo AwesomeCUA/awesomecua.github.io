@@ -163145,6 +163145,73 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2607.21635v1",
+    "archive": "arXiv",
+    "archive_location": "2607.21635",
+    "author": [
+      {
+        "literal": "Pin Qian"
+      },
+      {
+        "literal": "Su Wang"
+      },
+      {
+        "literal": "Yihang Chen"
+      },
+      {
+        "literal": "Qiaolin Yu"
+      },
+      {
+        "literal": "Xiaoyuan Wang"
+      },
+      {
+        "literal": "Zhitong Guo"
+      },
+      {
+        "literal": "Zhicheng Wang"
+      },
+      {
+        "literal": "Junxian You"
+      }
+    ],
+    "citation-key": "arxiv_2607_21635",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "42389ba5b205c23f6e27e5966e57a97e45d51cdab651a7936552825e784d7c2d",
+        "submitted_at": "2026-07-20T23:14:36Z",
+        "updated_at": "2026-07-20T23:14:36Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2607.21635v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.21635",
+      "catalog_id": "arxiv:2607.21635",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-07-20",
+      "identifiers": {
+        "arxiv": "2607.21635"
+      },
+      "record_updated_at": "2026-07-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.21635",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-20; Recorded arXiv version: v1; Recorded version updated: 2026-07-20T23:14:36Z.",
+    "title": "Toward User-Conditioned Evaluation of Personal LLM Agents under Temporal Interventions",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2607.22689v1",
     "archive": "arXiv",
     "archive_location": "2607.22689",
@@ -190779,6 +190846,366 @@
     },
     "note": "First published: 2026-10-21; Recorded arXiv version: v1; Recorded version updated: 2026-10-21T17:52:48Z.",
     "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.30573v1",
+    "archive": "arXiv",
+    "archive_location": "2610.30573",
+    "author": [
+      {
+        "literal": "Zhixin Lin"
+      },
+      {
+        "literal": "Dongliang Xu"
+      },
+      {
+        "literal": "Jungang Li"
+      },
+      {
+        "literal": "Shidong Pan"
+      },
+      {
+        "literal": "Jun Feng"
+      },
+      {
+        "literal": "Yanbin Sun"
+      },
+      {
+        "literal": "Jing Li"
+      },
+      {
+        "literal": "Liang Liu"
+      },
+      {
+        "literal": "Yue Yao"
+      }
+    ],
+    "citation-key": "arxiv_2610_30573",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1d149f4343ffe37b0e47c711989bbf6ea9393042698bb2c95ad6d4ef030f9a4d",
+        "submitted_at": "2026-10-22T01:04:24Z",
+        "updated_at": "2026-10-22T01:04:24Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.30573v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.30573",
+      "catalog_id": "arxiv:2610.30573",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-22",
+      "identifiers": {
+        "arxiv": "2610.30573"
+      },
+      "record_updated_at": "2026-10-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.30573",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T01:04:24Z.",
+    "title": "Diagnosing Personalization Failures in Mobile GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.30792v1",
+    "archive": "arXiv",
+    "archive_location": "2610.30792",
+    "author": [
+      {
+        "literal": "Zezhou Wang"
+      },
+      {
+        "literal": "Hanzhang Zhou"
+      },
+      {
+        "literal": "Panrong Tong"
+      },
+      {
+        "literal": "Quyu Kong"
+      },
+      {
+        "literal": "Pengxiang Li"
+      },
+      {
+        "literal": "Steven Hoi"
+      },
+      {
+        "literal": "Zhuzhong Qian"
+      },
+      {
+        "literal": "Yue Wang"
+      }
+    ],
+    "citation-key": "arxiv_2610_30792",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ec691941c200e932ac0e85b45ab1e3cb7d67662b517aaddc3e6247cec18c5824",
+        "submitted_at": "2026-10-22T06:10:53Z",
+        "updated_at": "2026-10-22T06:10:53Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.30792v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.30792",
+      "catalog_id": "arxiv:2610.30792",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-22",
+      "identifiers": {
+        "arxiv": "2610.30792"
+      },
+      "record_updated_at": "2026-10-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.30792",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T06:10:53Z.",
+    "title": "Trace2World: Reconstructing App Worlds from Real Interaction Traces for Scalable GUI Agent Training",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.31107v1",
+    "archive": "arXiv",
+    "archive_location": "2610.31107",
+    "author": [
+      {
+        "literal": "Yiqi Wang"
+      },
+      {
+        "literal": "Zizhi Zeng"
+      },
+      {
+        "literal": "Jiaqi Zhang"
+      },
+      {
+        "literal": "Yiqun Duan"
+      },
+      {
+        "literal": "Mingkai Zheng"
+      },
+      {
+        "literal": "Taotao Cai"
+      }
+    ],
+    "citation-key": "arxiv_2610_31107",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4b1bde09752ac7bbb83116744a0ae970aa8ff98184d4de70446fbb4d6ca9e17e",
+        "submitted_at": "2026-10-22T11:16:24Z",
+        "updated_at": "2026-10-22T11:16:24Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.31107v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.31107",
+      "catalog_id": "arxiv:2610.31107",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-22",
+      "identifiers": {
+        "arxiv": "2610.31107"
+      },
+      "record_updated_at": "2026-10-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.31107",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T11:16:24Z.",
+    "title": "Learning What to Ask for Tomorrow: Active Preference Acquisition for Long-Term Personalized Web Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.31274v1",
+    "archive": "arXiv",
+    "archive_location": "2610.31274",
+    "author": [
+      {
+        "literal": "Valentino Sacco"
+      },
+      {
+        "literal": "Saurabh Pandey"
+      },
+      {
+        "literal": "Alexander Florian Jercher"
+      },
+      {
+        "literal": "Maximilian Schilling"
+      }
+    ],
+    "citation-key": "arxiv_2610_31274",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "69c6fba8075fc71cf7c94ec421e18b592ac129a6d6bbc8feb0dc2821c85618f2",
+        "submitted_at": "2026-10-22T13:43:45Z",
+        "updated_at": "2026-10-22T13:43:45Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.31274v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.31274",
+      "catalog_id": "arxiv:2610.31274",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-22",
+      "identifiers": {
+        "arxiv": "2610.31274"
+      },
+      "record_updated_at": "2026-10-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.31274",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T13:43:45Z.",
+    "title": "PointerBench: A Diagnostic Benchmark for Fine-Grained GUI Grounding",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.31307v1",
+    "archive": "arXiv",
+    "archive_location": "2610.31307",
+    "author": [
+      {
+        "literal": "Dezhao Luo"
+      },
+      {
+        "literal": "Daniel Beechey"
+      },
+      {
+        "literal": "Derek Yuen"
+      },
+      {
+        "literal": "Weilin Luo"
+      }
+    ],
+    "citation-key": "arxiv_2610_31307",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a0f0ebf3e08e8c279c1d62ae785fc16ebec823282ad396b97cfdf5a08aac9891",
+        "submitted_at": "2026-10-22T14:06:00Z",
+        "updated_at": "2026-10-22T14:06:00Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.31307v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.31307",
+      "catalog_id": "arxiv:2610.31307",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-22",
+      "identifiers": {
+        "arxiv": "2610.31307"
+      },
+      "record_updated_at": "2026-10-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.31307",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T14:06:00Z.",
+    "title": "Subgoal-aware Memory Graph for GUI Agent",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.31404v1",
+    "archive": "arXiv",
+    "archive_location": "2610.31404",
+    "author": [
+      {
+        "literal": "Justin Tan"
+      },
+      {
+        "literal": "Miao Li"
+      },
+      {
+        "literal": "Ding Zhao"
+      }
+    ],
+    "citation-key": "arxiv_2610_31404",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "946e2b83a6483e54d4693b2a7256254948f1f9e2b66a4da390cf89bef4c88909",
+        "submitted_at": "2026-10-22T15:07:49Z",
+        "updated_at": "2026-10-22T15:07:49Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.31404v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.31404",
+      "catalog_id": "arxiv:2610.31404",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-22",
+      "identifiers": {
+        "arxiv": "2610.31404"
+      },
+      "record_updated_at": "2026-10-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.31404",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T15:07:49Z.",
+    "title": "AgentPhishing: A Benchmark of LLM Email Agents Under Adaptive Attack",
     "type": "article",
     "version": "1"
   },
