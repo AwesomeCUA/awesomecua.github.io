@@ -18325,7 +18325,7 @@
     {
       "path": "/coverage/",
       "indexable": true,
-      "sha256": "d113c3f77ab3dc596f65f114af6267779188efa2f4cba38138eb387d770e0961"
+      "sha256": "151318d86820971646de9a378b156d8c2cf8ceaa182c7997dcfe00307d1b8f3b"
     },
     {
       "path": "/agents/",
@@ -18340,7 +18340,7 @@
     {
       "path": "/updates/",
       "indexable": true,
-      "sha256": "8fe72d0d851d5ec20143161dacb7284308178b51c92214f06bc1bb28b7c4a9e3"
+      "sha256": "0866f5af20a219574f48ee47c9b16b80a7fbd8a32cc6d42da540b688599dcc1d"
     },
     {
       "path": "/badges/",
@@ -18355,12 +18355,12 @@
     {
       "path": "/data/",
       "indexable": true,
-      "sha256": "d197c891ff73be328d52eb26a150eaab15474e9c794a789567e09cddf5c63057"
+      "sha256": "dd79960005d595c395a96269758c482299eed05df5e88dcd07d4e79528587888"
     },
     {
       "path": "/zh/data/",
       "indexable": true,
-      "sha256": "95abd61865731e4a438356cae4bf078f0461b8c61d0df02394934e4828772433"
+      "sha256": "64355e3522aedfd5bdecded70a312935ef4461f6f01ed937b545f5a30cf3174e"
     },
     {
       "path": "/guides/what-are-computer-use-agents/",
