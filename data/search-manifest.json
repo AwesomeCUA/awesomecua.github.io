@@ -18385,7 +18385,7 @@
     {
       "path": "/updates/",
       "indexable": true,
-      "sha256": "3127e954048d46742c4a92d73276c6761ed826a528f1cf453c9f1eeb7724a90a"
+      "sha256": "0fb35d9bc87f5b051cd8b41bd3f67691c8ff5c72359330ad1d2d99a71a041c94"
     },
     {
       "path": "/badges/",
@@ -18400,12 +18400,12 @@
     {
       "path": "/data/",
       "indexable": true,
-      "sha256": "a647d44e75a5c7212ed3f7aed00ce8534b097b7624e2e99d89507a81299570df"
+      "sha256": "33070e19e94af873ca5e84d92e44ac61df8ad2f4f57f8258f54e5707e94e0dd5"
     },
     {
       "path": "/zh/data/",
       "indexable": true,
-      "sha256": "5a3a2f59f77694e533769f347ab9883ce5fc958c664d7350288f77f5ba17c5aa"
+      "sha256": "50da019f52e16e09173443520852649dad6580c2dc739dac6b5cb203636c095b"
     },
     {
       "path": "/guides/what-are-computer-use-agents/",
