@@ -183120,6 +183120,67 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.04184v2",
+    "archive": "arXiv",
+    "archive_location": "2610.04184",
+    "author": [
+      {
+        "literal": "Yaolun Zhang"
+      },
+      {
+        "literal": "Tianyi Xu"
+      },
+      {
+        "literal": "Yujie Zhao"
+      },
+      {
+        "literal": "Jishen Zhao"
+      },
+      {
+        "literal": "Qingyun Wu"
+      },
+      {
+        "literal": "Huazheng Wang"
+      }
+    ],
+    "citation-key": "arxiv_2610_04184",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "67a179764d25f3026877b4b628f72ac11eac9364d09284332c42d3df6c5fe009",
+        "submitted_at": "2026-10-03T00:49:27Z",
+        "updated_at": "2026-10-16T04:38:44Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2610.04184v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.04184",
+      "catalog_id": "arxiv:2610.04184",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-03",
+      "identifiers": {
+        "arxiv": "2610.04184"
+      },
+      "record_updated_at": "2026-10-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.04184",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-03; Recorded arXiv version: v2; Recorded version updated: 2026-10-16T04:38:44Z.",
+    "title": "EvalResearchBench: Can AI Agents Build Their Own Feedback for Recursive Self-Improvement?",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.04800v1",
     "archive": "arXiv",
     "archive_location": "2610.04800",
@@ -190846,6 +190907,124 @@
     },
     "note": "First published: 2026-10-21; Recorded arXiv version: v1; Recorded version updated: 2026-10-21T17:52:48Z.",
     "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.30181v1",
+    "archive": "arXiv",
+    "archive_location": "2610.30181",
+    "author": [
+      {
+        "literal": "Xiaomin Yu"
+      },
+      {
+        "literal": "Hongliang Chen"
+      },
+      {
+        "literal": "Zhe Huang"
+      },
+      {
+        "literal": "Shilin Yan"
+      },
+      {
+        "literal": "Shao-Rong Su"
+      },
+      {
+        "literal": "Xuqiao Ma"
+      },
+      {
+        "literal": "Feiyang Wang"
+      },
+      {
+        "literal": "Jiayu Chen"
+      },
+      {
+        "literal": "Jiwei Fang"
+      },
+      {
+        "literal": "Yu Yan"
+      },
+      {
+        "literal": "Yini Huang"
+      },
+      {
+        "literal": "Chen Chen"
+      },
+      {
+        "literal": "Ruoxi Cheng"
+      },
+      {
+        "literal": "Yuzhi He"
+      },
+      {
+        "literal": "Yuhui Zhang"
+      },
+      {
+        "literal": "Xiaoxing Hu"
+      },
+      {
+        "literal": "Chen Liu"
+      },
+      {
+        "literal": "Jianbo Lin"
+      },
+      {
+        "literal": "Yijiang Li"
+      },
+      {
+        "literal": "Xiaobin Hu"
+      },
+      {
+        "literal": "Menglong Li"
+      },
+      {
+        "literal": "Zhuoran Lu"
+      },
+      {
+        "literal": "Weishi Wang"
+      },
+      {
+        "literal": "Zhongqi Yue"
+      },
+      {
+        "literal": "Chengwei Qin"
+      }
+    ],
+    "citation-key": "arxiv_2610_30181",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b4b558af6e07e129df6b3b338dffb32d827a130752d8241324bb865f8e9a99a1",
+        "submitted_at": "2026-10-19T18:59:21Z",
+        "updated_at": "2026-10-19T18:59:21Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.30181v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.30181",
+      "catalog_id": "arxiv:2610.30181",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-19",
+      "identifiers": {
+        "arxiv": "2610.30181"
+      },
+      "record_updated_at": "2026-10-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.30181",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T18:59:21Z.",
+    "title": "Deep Search in Real-World Web Environments",
     "type": "article",
     "version": "1"
   },
