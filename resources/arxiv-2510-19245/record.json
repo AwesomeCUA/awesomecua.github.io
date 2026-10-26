@@ -1,0 +1,76 @@
+{
+  "aliases": [],
+  "authors": [
+    "Yimeng Zhang",
+    "Jiri Gesi",
+    "Ran Xue",
+    "Tian Wang",
+    "Ziyi Wang",
+    "Yuxuan Lu",
+    "Sinong Zhan",
+    "Huimin Zeng",
+    "Qingjun Cui",
+    "Yufan Guo",
+    "Jing Huang",
+    "Mubarak Shah",
+    "Dakuo Wang"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "54fbed347b9d43ca0b9367b219a506d2f8576bdee2665a341b9f7e9c04d52561",
+      "submitted_at": "2025-10-22T05:07:14Z",
+      "updated_at": "2025-10-22T05:07:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2510.19245v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-26T21:02:58Z",
+      "role": "primary",
+      "sha256": "f305e8fc397cdc523c0158cc9554405d364a881f0ca2e124804118b070cf7599",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2510.19245%2C2603.26512&max_results=2"
+    }
+  ],
+  "id": "arxiv:2510.19245",
+  "identifiers": {
+    "arxiv": "2510.19245"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-26T21:02:58Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2510.19245"
+    }
+  ],
+  "name": "See, Think, Act: Online Shopper Behavior Simulation with VLM Agents",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2025-10-22",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2025-10-22",
+  "url": "https://arxiv.org/abs/2510.19245"
+}

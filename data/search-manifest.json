@@ -1,7 +1,7 @@
 {
   "site_url": "https://awesomecua.github.io",
   "indexable_pages": 1932,
-  "metadata_only_pages": 1595,
+  "metadata_only_pages": 1597,
   "excluded_pages": 138,
   "pages": [
     {
@@ -7345,6 +7345,11 @@
       "sha256": "b01310190c1d058a052a90712897194f4f2e348b8ab8b0b9dd553af451f47188"
     },
     {
+      "path": "/resources/arxiv-2510-19245/",
+      "indexable": false,
+      "sha256": "939f3ef73c34536f8c0fe3b81a7ef12d42042c06cab0dd4e6a5471a2fe60a92a"
+    },
+    {
       "path": "/resources/arxiv-2510-19247/",
       "indexable": false,
       "sha256": "9d3329c5b286d88975292b817881a1894b1a55b2f6a8a61f6134dd46a5abf678"
@@ -9508,6 +9513,11 @@
       "path": "/resources/arxiv-2603-26266/",
       "indexable": true,
       "sha256": "003eb0fdd99cc26dca9a2f45f1449f757745a23586ea6c8cfd94842fb65726f4"
+    },
+    {
+      "path": "/resources/arxiv-2603-26512/",
+      "indexable": false,
+      "sha256": "c52cc4a2cf52157f426c9301fbafce706d968d5cbe85c89a68834c5cb4fc1700"
     },
     {
       "path": "/resources/arxiv-2603-26648/",
@@ -17170,7 +17180,7 @@
     {
       "path": "/catalog/",
       "indexable": true,
-      "sha256": "0bca5fb9edc6f843f56dc4e83669afc048893ef240b1be98739c124bd2174556"
+      "sha256": "0566f17bf4f07cfe51fae1113adc265222c8964734ddf95320d52f105d58a32a"
     },
     {
       "path": "/categories/paper/",
@@ -18400,7 +18410,7 @@
     {
       "path": "/coverage/",
       "indexable": true,
-      "sha256": "9da76a18ab2db468770834812eea07a25eab1c65926f18b4c3fa0986ffda53fb"
+      "sha256": "e1aecdef004ce706c203cf66ee1c9482ebdf1f380aa7a9c5078df11655c99b41"
     },
     {
       "path": "/agents/",
@@ -18415,7 +18425,7 @@
     {
       "path": "/updates/",
       "indexable": true,
-      "sha256": "3fa8e3e597ca384875cc46263d9a615798e1dd906c961c25fa8fb51fd85d0072"
+      "sha256": "adb42c73be9176b24c014daa8db38f96e3ee286e698c8a32c99ce69335776f71"
     },
     {
       "path": "/badges/",
@@ -18430,12 +18440,12 @@
     {
       "path": "/data/",
       "indexable": true,
-      "sha256": "5094f5837bb1986baf4068b4605465a43f1311e8f0c02811b93ff754a44f05ff"
+      "sha256": "f6efd71becba0cfa744cebde7662d1e2764376e3867bb3d3708a82a87fe0672c"
     },
     {
       "path": "/zh/data/",
       "indexable": true,
-      "sha256": "9e7c630a07a17487b69e10ccbfd64011e58eebe6750651dd1120a050fb528e8b"
+      "sha256": "35fe70e4e1a8de212a0c35e7703eafb897df5190bca617ed3c2f9a5c5f8c20fc"
     },
     {
       "path": "/guides/what-are-computer-use-agents/",
@@ -18460,12 +18470,12 @@
     {
       "path": "/zh/",
       "indexable": true,
-      "sha256": "0ea644390765ba625cce144a83e6341bcad8edc1419a017ae0c1e450d59161c2"
+      "sha256": "ea86653fc20c501b057faba56943f3a82a2b3f23544995d601ac8a72450f7f26"
     },
     {
       "path": "/",
       "indexable": true,
-      "sha256": "467a43357843f737e41dd39c4f93e2ca45b017008a995c598741cbd8366d190d"
+      "sha256": "0711924b023c8ef067087fbedba2a1ce72ffb007ebdfdaaaa2227aee199beae7"
     }
   ]
 }

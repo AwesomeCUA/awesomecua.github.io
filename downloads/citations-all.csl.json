@@ -101275,6 +101275,88 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2510.19245v1",
+    "archive": "arXiv",
+    "archive_location": "2510.19245",
+    "author": [
+      {
+        "literal": "Yimeng Zhang"
+      },
+      {
+        "literal": "Jiri Gesi"
+      },
+      {
+        "literal": "Ran Xue"
+      },
+      {
+        "literal": "Tian Wang"
+      },
+      {
+        "literal": "Ziyi Wang"
+      },
+      {
+        "literal": "Yuxuan Lu"
+      },
+      {
+        "literal": "Sinong Zhan"
+      },
+      {
+        "literal": "Huimin Zeng"
+      },
+      {
+        "literal": "Qingjun Cui"
+      },
+      {
+        "literal": "Yufan Guo"
+      },
+      {
+        "literal": "Jing Huang"
+      },
+      {
+        "literal": "Mubarak Shah"
+      },
+      {
+        "literal": "Dakuo Wang"
+      }
+    ],
+    "citation-key": "arxiv_2510_19245",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "54fbed347b9d43ca0b9367b219a506d2f8576bdee2665a341b9f7e9c04d52561",
+        "submitted_at": "2025-10-22T05:07:14Z",
+        "updated_at": "2025-10-22T05:07:14Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2510.19245v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.19245",
+      "catalog_id": "arxiv:2510.19245",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2025-10-22",
+      "identifiers": {
+        "arxiv": "2510.19245"
+      },
+      "record_updated_at": "2025-10-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.19245",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-22; Recorded arXiv version: v1; Recorded version updated: 2025-10-22T05:07:14Z.",
+    "title": "See, Think, Act: Online Shopper Behavior Simulation with VLM Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2510.19247v1",
     "archive": "arXiv",
     "archive_location": "2510.19247",
@@ -131408,6 +131490,58 @@
     "title": "GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation",
     "type": "article",
     "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.26512v1",
+    "archive": "arXiv",
+    "archive_location": "2603.26512",
+    "author": [
+      {
+        "literal": "Jesse Barkley"
+      },
+      {
+        "literal": "Rumi Loghmani"
+      },
+      {
+        "literal": "Amir Barati Farimani"
+      }
+    ],
+    "citation-key": "arxiv_2603_26512",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3a27083a8dee329fee477251d5cd1ccfaf01c875f4344e714ceb91d187080e7b",
+        "submitted_at": "2026-03-27T15:23:05Z",
+        "updated_at": "2026-03-27T15:23:05Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.26512v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.26512",
+      "catalog_id": "arxiv:2603.26512",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-03-27",
+      "identifiers": {
+        "arxiv": "2603.26512"
+      },
+      "record_updated_at": "2026-03-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.26512",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-27; Recorded arXiv version: v1; Recorded version updated: 2026-03-27T15:23:05Z.",
+    "title": "CADSmith: Multi-Agent CAD Generation with Programmatic Geometric Validation",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2603.26648v3",

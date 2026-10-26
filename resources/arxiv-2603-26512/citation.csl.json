@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2603.26512",
+  "citation-key": "arxiv_2603_26512",
+  "type": "article",
+  "title": "CADSmith: Multi-Agent CAD Generation with Programmatic Geometric Validation",
+  "URL": "https://arxiv.org/abs/2603.26512v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.26512",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.26512",
+    "identifiers": {
+      "arxiv": "2603.26512"
+    },
+    "first_published_at": "2026-03-27",
+    "record_updated_at": "2026-03-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3a27083a8dee329fee477251d5cd1ccfaf01c875f4344e714ceb91d187080e7b",
+      "submitted_at": "2026-03-27T15:23:05Z",
+      "updated_at": "2026-03-27T15:23:05Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.26512v1"
+    }
+  },
+  "note": "First published: 2026-03-27; Recorded arXiv version: v1; Recorded version updated: 2026-03-27T15:23:05Z.",
+  "author": [
+    {
+      "literal": "Jesse Barkley"
+    },
+    {
+      "literal": "Rumi Loghmani"
+    },
+    {
+      "literal": "Amir Barati Farimani"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.26512",
+  "genre": "preprint",
+  "version": "1"
+}
