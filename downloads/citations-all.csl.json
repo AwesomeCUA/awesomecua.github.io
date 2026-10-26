@@ -191389,6 +191389,317 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.31698v1",
+    "archive": "arXiv",
+    "archive_location": "2610.31698",
+    "author": [
+      {
+        "literal": "Yuchen Shao"
+      },
+      {
+        "literal": "Wenjing Liu"
+      },
+      {
+        "literal": "Yuheng Huang"
+      },
+      {
+        "literal": "Mengqian Xu"
+      },
+      {
+        "literal": "Ziqun Bao"
+      },
+      {
+        "literal": "Long Yang"
+      },
+      {
+        "literal": "Lei Ma"
+      },
+      {
+        "literal": "Ting Su"
+      },
+      {
+        "literal": "Chengcheng Wan"
+      }
+    ],
+    "citation-key": "arxiv_2610_31698",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1c3a90cbc689725a7eaebd028d1ff8463c596bd7c46dc83eb12967e6b751080d",
+        "submitted_at": "2026-10-21T13:27:32Z",
+        "updated_at": "2026-10-21T13:27:32Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.31698v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.31698",
+      "catalog_id": "arxiv:2610.31698",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-21",
+      "identifiers": {
+        "arxiv": "2610.31698"
+      },
+      "record_updated_at": "2026-10-21"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.31698",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          21
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-21; Recorded arXiv version: v1; Recorded version updated: 2026-10-21T13:27:32Z.",
+    "title": "Understanding Tool-Mediated Interaction Failures in Agentic GUI Software: An Empirical Study",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.31712v1",
+    "archive": "arXiv",
+    "archive_location": "2610.31712",
+    "author": [
+      {
+        "literal": "Bingyu Bai"
+      },
+      {
+        "literal": "Cheng Zhang"
+      },
+      {
+        "literal": "Erhu Feng"
+      }
+    ],
+    "citation-key": "arxiv_2610_31712",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2bba4524713d2e9efec4d67752ef10a9994af7e73f554790ac058303d4fc635a",
+        "submitted_at": "2026-10-22T03:09:20Z",
+        "updated_at": "2026-10-22T03:09:20Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.31712v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.31712",
+      "catalog_id": "arxiv:2610.31712",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-22",
+      "identifiers": {
+        "arxiv": "2610.31712"
+      },
+      "record_updated_at": "2026-10-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.31712",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T03:09:20Z.",
+    "title": "Reuse, Rewrite, or Reject: Evidence-Constrained Trace Reuse for Repeated Mobile GUI Control",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.32223v1",
+    "archive": "arXiv",
+    "archive_location": "2610.32223",
+    "author": [
+      {
+        "literal": "Xinhao Song"
+      },
+      {
+        "literal": "Haoxuan Peng"
+      },
+      {
+        "literal": "Su Su"
+      },
+      {
+        "literal": "Hongliang Wu"
+      },
+      {
+        "literal": "Sirui Song"
+      },
+      {
+        "literal": "Gongshen Liu"
+      },
+      {
+        "literal": "Linfeng Zhang"
+      },
+      {
+        "literal": "Dongrui Liu"
+      }
+    ],
+    "citation-key": "arxiv_2610_32223",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "6429bd7aa5423f5c604de8c352c5e09c1b922ceca986d2fbac3ee2caf6393197",
+        "submitted_at": "2026-10-23T06:27:37Z",
+        "updated_at": "2026-10-23T06:27:37Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.32223v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.32223",
+      "catalog_id": "arxiv:2610.32223",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-23",
+      "identifiers": {
+        "arxiv": "2610.32223"
+      },
+      "record_updated_at": "2026-10-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.32223",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-23; Recorded arXiv version: v1; Recorded version updated: 2026-10-23T06:27:37Z.",
+    "title": "Correct Answers, Closed Gates: SolveBind for GUI Agents at the Verification Barrier",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.32482v1",
+    "archive": "arXiv",
+    "archive_location": "2610.32482",
+    "author": [
+      {
+        "literal": "Shika Ikeura"
+      },
+      {
+        "literal": "Xuan Wang"
+      },
+      {
+        "literal": "Ziyi Kuang"
+      },
+      {
+        "literal": "Jianping Xu"
+      },
+      {
+        "literal": "Chao Kang"
+      },
+      {
+        "literal": "Yongxiang Hu"
+      },
+      {
+        "literal": "Xiaoyu Wang"
+      },
+      {
+        "literal": "Juxing Yuan"
+      },
+      {
+        "literal": "Yangfan Zhou"
+      }
+    ],
+    "citation-key": "arxiv_2610_32482",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "872daa88a641b4719553d210a82d6d91a446387dcab1110f591213ffebc205eb",
+        "submitted_at": "2026-10-23T10:54:18Z",
+        "updated_at": "2026-10-23T10:54:18Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.32482v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.32482",
+      "catalog_id": "arxiv:2610.32482",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-23",
+      "identifiers": {
+        "arxiv": "2610.32482"
+      },
+      "record_updated_at": "2026-10-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.32482",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-23; Recorded arXiv version: v1; Recorded version updated: 2026-10-23T10:54:18Z.",
+    "title": "WaitLens: Temporal VLM-Based Adaptive Waiting for Industrial GUI Testing Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.32536v1",
+    "archive": "arXiv",
+    "archive_location": "2610.32536",
+    "author": [
+      {
+        "literal": "Kyeongseon Kim"
+      },
+      {
+        "literal": "Jiyeon Son"
+      },
+      {
+        "literal": "Tae-Hyun Oh"
+      }
+    ],
+    "citation-key": "arxiv_2610_32536",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b3e2e446c11a02392709248c92b916eb3d7fcdb87d28c042ec210aa7e7fb9200",
+        "submitted_at": "2026-10-23T12:14:28Z",
+        "updated_at": "2026-10-23T12:14:28Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.32536v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.32536",
+      "catalog_id": "arxiv:2610.32536",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-23",
+      "identifiers": {
+        "arxiv": "2610.32536"
+      },
+      "record_updated_at": "2026-10-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.32536",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-23; Recorded arXiv version: v1; Recorded version updated: 2026-10-23T12:14:28Z.",
+    "title": "IGG: A Benchmark for Interactive GUI Grounding under Visibility Constraints",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "DOI": "10.1145/2983990.2984020",
     "URL": "https://doi.org/10.1145/2983990.2984020",
     "author": [

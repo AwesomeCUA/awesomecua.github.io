@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2610.31698",
+  "citation-key": "arxiv_2610_31698",
+  "type": "article",
+  "title": "Understanding Tool-Mediated Interaction Failures in Agentic GUI Software: An Empirical Study",
+  "URL": "https://arxiv.org/abs/2610.31698v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.31698",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.31698",
+    "identifiers": {
+      "arxiv": "2610.31698"
+    },
+    "first_published_at": "2026-10-21",
+    "record_updated_at": "2026-10-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1c3a90cbc689725a7eaebd028d1ff8463c596bd7c46dc83eb12967e6b751080d",
+      "submitted_at": "2026-10-21T13:27:32Z",
+      "updated_at": "2026-10-21T13:27:32Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.31698v1"
+    }
+  },
+  "note": "First published: 2026-10-21; Recorded arXiv version: v1; Recorded version updated: 2026-10-21T13:27:32Z.",
+  "author": [
+    {
+      "literal": "Yuchen Shao"
+    },
+    {
+      "literal": "Wenjing Liu"
+    },
+    {
+      "literal": "Yuheng Huang"
+    },
+    {
+      "literal": "Mengqian Xu"
+    },
+    {
+      "literal": "Ziqun Bao"
+    },
+    {
+      "literal": "Long Yang"
+    },
+    {
+      "literal": "Lei Ma"
+    },
+    {
+      "literal": "Ting Su"
+    },
+    {
+      "literal": "Chengcheng Wan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.31698",
+  "genre": "preprint",
+  "version": "1"
+}

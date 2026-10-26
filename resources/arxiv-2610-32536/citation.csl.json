@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2610.32536",
+  "citation-key": "arxiv_2610_32536",
+  "type": "article",
+  "title": "IGG: A Benchmark for Interactive GUI Grounding under Visibility Constraints",
+  "URL": "https://arxiv.org/abs/2610.32536v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.32536",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.32536",
+    "identifiers": {
+      "arxiv": "2610.32536"
+    },
+    "first_published_at": "2026-10-23",
+    "record_updated_at": "2026-10-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b3e2e446c11a02392709248c92b916eb3d7fcdb87d28c042ec210aa7e7fb9200",
+      "submitted_at": "2026-10-23T12:14:28Z",
+      "updated_at": "2026-10-23T12:14:28Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.32536v1"
+    }
+  },
+  "note": "First published: 2026-10-23; Recorded arXiv version: v1; Recorded version updated: 2026-10-23T12:14:28Z.",
+  "author": [
+    {
+      "literal": "Kyeongseon Kim"
+    },
+    {
+      "literal": "Jiyeon Son"
+    },
+    {
+      "literal": "Tae-Hyun Oh"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.32536",
+  "genre": "preprint",
+  "version": "1"
+}
