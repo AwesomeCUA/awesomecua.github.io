@@ -192493,6 +192493,73 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.34167v1",
+    "archive": "arXiv",
+    "archive_location": "2610.34167",
+    "author": [
+      {
+        "literal": "Jiaju Huang"
+      },
+      {
+        "literal": "Shaobin Chen"
+      },
+      {
+        "literal": "Xinglong Liang"
+      },
+      {
+        "literal": "Xinyu Ma"
+      },
+      {
+        "literal": "Hao Yang"
+      },
+      {
+        "literal": "Wei Ke"
+      },
+      {
+        "literal": "Tao Tan"
+      },
+      {
+        "literal": "Yue Sun"
+      }
+    ],
+    "citation-key": "arxiv_2610_34167",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "99844743bf54e2ff5544c3e57bc1d5122e7b1b7541b859bcadd42f1a069a346c",
+        "submitted_at": "2026-10-25T08:54:08Z",
+        "updated_at": "2026-10-25T08:54:08Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.34167v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.34167",
+      "catalog_id": "arxiv:2610.34167",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-25",
+      "identifiers": {
+        "arxiv": "2610.34167"
+      },
+      "record_updated_at": "2026-10-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.34167",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-25; Recorded arXiv version: v1; Recorded version updated: 2026-10-25T08:54:08Z.",
+    "title": "Task Success Is Not Enough: Side-effect-Aware Evaluation of Tool-Using Language Model Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.34241v1",
     "archive": "arXiv",
     "archive_location": "2610.34241",
@@ -192590,6 +192657,67 @@
     },
     "note": "First published: 2026-10-25; Recorded arXiv version: v1; Recorded version updated: 2026-10-25T15:39:24Z.",
     "title": "AndroidFlux: Evaluating and Reward Modeling Failure Recovery Capabilities in Mobile Use Multimodal Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.34577v1",
+    "archive": "arXiv",
+    "archive_location": "2610.34577",
+    "author": [
+      {
+        "literal": "Zhengxin Zhang"
+      },
+      {
+        "literal": "Erkang Zhu"
+      },
+      {
+        "literal": "Yin Lin"
+      },
+      {
+        "literal": "Claire Cardie"
+      },
+      {
+        "literal": "Bolin Ding"
+      },
+      {
+        "literal": "Jingren Zhou"
+      }
+    ],
+    "citation-key": "arxiv_2610_34577",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "52afce196a9f3af287af0af195b66bb0e9ceb8b4741daf9afd7d3822262d366a",
+        "submitted_at": "2026-10-25T21:17:26Z",
+        "updated_at": "2026-10-25T21:17:26Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.34577v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.34577",
+      "catalog_id": "arxiv:2610.34577",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-25",
+      "identifiers": {
+        "arxiv": "2610.34577"
+      },
+      "record_updated_at": "2026-10-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.34577",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-25; Recorded arXiv version: v1; Recorded version updated: 2026-10-25T21:17:26Z.",
+    "title": "Rethinking Verification in Agent Harnesses",
     "type": "article",
     "version": "1"
   },

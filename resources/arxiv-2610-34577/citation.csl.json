@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2610.34577",
+  "citation-key": "arxiv_2610_34577",
+  "type": "article",
+  "title": "Rethinking Verification in Agent Harnesses",
+  "URL": "https://arxiv.org/abs/2610.34577v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.34577",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.34577",
+    "identifiers": {
+      "arxiv": "2610.34577"
+    },
+    "first_published_at": "2026-10-25",
+    "record_updated_at": "2026-10-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "52afce196a9f3af287af0af195b66bb0e9ceb8b4741daf9afd7d3822262d366a",
+      "submitted_at": "2026-10-25T21:17:26Z",
+      "updated_at": "2026-10-25T21:17:26Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.34577v1"
+    }
+  },
+  "note": "First published: 2026-10-25; Recorded arXiv version: v1; Recorded version updated: 2026-10-25T21:17:26Z.",
+  "author": [
+    {
+      "literal": "Zhengxin Zhang"
+    },
+    {
+      "literal": "Erkang Zhu"
+    },
+    {
+      "literal": "Yin Lin"
+    },
+    {
+      "literal": "Claire Cardie"
+    },
+    {
+      "literal": "Bolin Ding"
+    },
+    {
+      "literal": "Jingren Zhou"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.34577",
+  "genre": "preprint",
+  "version": "1"
+}
