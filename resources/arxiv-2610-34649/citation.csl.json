@@ -1,0 +1,118 @@
+{
+  "id": "arxiv:2610.34649",
+  "citation-key": "arxiv_2610_34649",
+  "type": "article",
+  "title": "RobotAgentBench: Towards Open-world Robot Autonomy",
+  "URL": "https://arxiv.org/abs/2610.34649v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.34649",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.34649",
+    "identifiers": {
+      "arxiv": "2610.34649"
+    },
+    "first_published_at": "2026-10-26",
+    "record_updated_at": "2026-10-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f80086e20542d6cba2a28cb1ee52dde26a55bae05ea242b79e3099df14a54454",
+      "submitted_at": "2026-10-26T00:26:30Z",
+      "updated_at": "2026-10-26T00:26:30Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.34649v1"
+    }
+  },
+  "note": "First published: 2026-10-26; Recorded arXiv version: v1; Recorded version updated: 2026-10-26T00:26:30Z.",
+  "author": [
+    {
+      "literal": "Lingjun Mao"
+    },
+    {
+      "literal": "Jinglin Cao"
+    },
+    {
+      "literal": "Lukun He"
+    },
+    {
+      "literal": "Wenpeng Xu"
+    },
+    {
+      "literal": "Yuchen Yan"
+    },
+    {
+      "literal": "Hengyu Jin"
+    },
+    {
+      "literal": "Zijun Zhang"
+    },
+    {
+      "literal": "Jinzhou Tang"
+    },
+    {
+      "literal": "Songyao Jin"
+    },
+    {
+      "literal": "Ziche Liu"
+    },
+    {
+      "literal": "Yifei Shao"
+    },
+    {
+      "literal": "Junbo Huang"
+    },
+    {
+      "literal": "Fang Nan"
+    },
+    {
+      "literal": "Ruobing Han"
+    },
+    {
+      "literal": "Ziqiao Xi"
+    },
+    {
+      "literal": "Ziming Xu"
+    },
+    {
+      "literal": "Shuang Liang"
+    },
+    {
+      "literal": "Sibo Zhu"
+    },
+    {
+      "literal": "Wenyi Wu"
+    },
+    {
+      "literal": "Xinyue Wang"
+    },
+    {
+      "literal": "Yiming Huang"
+    },
+    {
+      "literal": "Xinkai Zou"
+    },
+    {
+      "literal": "Gao Zhu"
+    },
+    {
+      "literal": "Kun Zhou"
+    },
+    {
+      "literal": "Biwei Huang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.34649",
+  "genre": "preprint",
+  "version": "1"
+}

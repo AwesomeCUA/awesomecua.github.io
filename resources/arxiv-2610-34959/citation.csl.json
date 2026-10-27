@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2610.34959",
+  "citation-key": "arxiv_2610_34959",
+  "type": "article",
+  "title": "GUIFlow: Temporal Redundancy-Aware Incremental Inference for GUI Agents",
+  "URL": "https://arxiv.org/abs/2610.34959v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.34959",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.34959",
+    "identifiers": {
+      "arxiv": "2610.34959"
+    },
+    "first_published_at": "2026-10-26",
+    "record_updated_at": "2026-10-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4bea8a79620c8dd95d7dc261e6b6f4e86a7f143a67bdb698981391f64ac95e41",
+      "submitted_at": "2026-10-26T07:25:39Z",
+      "updated_at": "2026-10-26T07:25:39Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.34959v1"
+    }
+  },
+  "note": "First published: 2026-10-26; Recorded arXiv version: v1; Recorded version updated: 2026-10-26T07:25:39Z.",
+  "author": [
+    {
+      "literal": "Ye Li"
+    },
+    {
+      "literal": "Haoran Ding"
+    },
+    {
+      "literal": "Huanan Liu"
+    },
+    {
+      "literal": "Yuan Meng"
+    },
+    {
+      "literal": "Yutian Shen"
+    },
+    {
+      "literal": "Yuansong Wang"
+    },
+    {
+      "literal": "Kangye Ji"
+    },
+    {
+      "literal": "Hanyun Cui"
+    },
+    {
+      "literal": "Hongbo Duan"
+    },
+    {
+      "literal": "Chen Tang"
+    },
+    {
+      "literal": "Jiawei Li"
+    },
+    {
+      "literal": "Shu-Tao Xia"
+    },
+    {
+      "literal": "Zhi Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.34959",
+  "genre": "preprint",
+  "version": "1"
+}

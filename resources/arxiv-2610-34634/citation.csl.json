@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2610.34634",
+  "citation-key": "arxiv_2610_34634",
+  "type": "article",
+  "title": "AgentProofBench: Benchmarking Reusable Verifiers for Web Agents",
+  "URL": "https://arxiv.org/abs/2610.34634v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.34634",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.34634",
+    "identifiers": {
+      "arxiv": "2610.34634"
+    },
+    "first_published_at": "2026-10-25",
+    "record_updated_at": "2026-10-25",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "6784c9bfadb30939bd1ead0ad9df16074db1ed4833f13a617bc808b18911f8e7",
+      "submitted_at": "2026-10-25T23:20:28Z",
+      "updated_at": "2026-10-25T23:20:28Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.34634v1"
+    }
+  },
+  "note": "First published: 2026-10-25; Recorded arXiv version: v1; Recorded version updated: 2026-10-25T23:20:28Z.",
+  "author": [
+    {
+      "literal": "Jingjie Ning"
+    },
+    {
+      "literal": "Xueqi Li"
+    },
+    {
+      "literal": "Yi Lu"
+    },
+    {
+      "literal": "Yibo Kong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.34634",
+  "genre": "preprint",
+  "version": "1"
+}

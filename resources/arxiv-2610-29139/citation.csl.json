@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2610.29139",
+  "citation-key": "arxiv_2610_29139",
+  "type": "article",
+  "title": "Steering Black-Box Large Language Model Agents with Pitfall Anticipation World Model",
+  "URL": "https://arxiv.org/abs/2610.29139v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.29139",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.29139",
+    "identifiers": {
+      "arxiv": "2610.29139"
+    },
+    "first_published_at": "2026-10-21",
+    "record_updated_at": "2026-10-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "31ac5343df9976c1ff7b902506f396492f916786264cff955a3f6c018f5d9312",
+      "submitted_at": "2026-10-21T03:20:32Z",
+      "updated_at": "2026-10-21T03:20:32Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.29139v1"
+    }
+  },
+  "note": "First published: 2026-10-21; Recorded arXiv version: v1; Recorded version updated: 2026-10-21T03:20:32Z.",
+  "author": [
+    {
+      "literal": "Jiongxiao Wang"
+    },
+    {
+      "literal": "Han Ding"
+    },
+    {
+      "literal": "Youzhi Luo"
+    },
+    {
+      "literal": "Yawei Wang"
+    },
+    {
+      "literal": "Yun Zhou"
+    },
+    {
+      "literal": "Linbo Liu"
+    },
+    {
+      "literal": "Panpan Xu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.29139",
+  "genre": "preprint",
+  "version": "1"
+}

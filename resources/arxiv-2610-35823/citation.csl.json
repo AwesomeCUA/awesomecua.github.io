@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2610.35823",
+  "citation-key": "arxiv_2610_35823",
+  "type": "article",
+  "title": "Back to Basics: A Skill-Centric Approach to Generalist Web Agents",
+  "URL": "https://arxiv.org/abs/2610.35823v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.35823",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.35823",
+    "identifiers": {
+      "arxiv": "2610.35823"
+    },
+    "first_published_at": "2026-10-26",
+    "record_updated_at": "2026-10-26",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "333cec422aa1d712c1e1fb495543bb0b1af4deeff48a8b885124abde1bb1b32b",
+      "submitted_at": "2026-10-26T17:47:07Z",
+      "updated_at": "2026-10-26T17:47:07Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.35823v1"
+    }
+  },
+  "note": "First published: 2026-10-26; Recorded arXiv version: v1; Recorded version updated: 2026-10-26T17:47:07Z.",
+  "author": [
+    {
+      "literal": "Minh Pham-Dinh"
+    },
+    {
+      "literal": "Md Farhan Ishmam"
+    },
+    {
+      "literal": "Hernan Yupanqui"
+    },
+    {
+      "literal": "Reaz Hassan Joarder"
+    },
+    {
+      "literal": "Kenneth Marino"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        26
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.35823",
+  "genre": "preprint",
+  "version": "1"
+}

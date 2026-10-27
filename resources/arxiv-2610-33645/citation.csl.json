@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2610.33645",
+  "citation-key": "arxiv_2610_33645",
+  "type": "article",
+  "title": "PreView: Enhancing GUI Grounding with Preprocessed Views and Cues",
+  "URL": "https://arxiv.org/abs/2610.33645v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.33645",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.33645",
+    "identifiers": {
+      "arxiv": "2610.33645"
+    },
+    "first_published_at": "2026-10-24",
+    "record_updated_at": "2026-10-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "78615cee16d810e8d5902e8ae714905844aaaadf7b345b14725efb100b9ef6e8",
+      "submitted_at": "2026-10-24T12:54:08Z",
+      "updated_at": "2026-10-24T12:54:08Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.33645v1"
+    }
+  },
+  "note": "First published: 2026-10-24; Recorded arXiv version: v1; Recorded version updated: 2026-10-24T12:54:08Z.",
+  "author": [
+    {
+      "literal": "Wenjun Hou"
+    },
+    {
+      "literal": "Kaishuai Xu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.33645",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,7 +1,7 @@
 {
   "site_url": "https://awesomecua.github.io",
   "indexable_pages": 1932,
-  "metadata_only_pages": 1597,
+  "metadata_only_pages": 1616,
   "excluded_pages": 138,
   "pages": [
     {
@@ -13685,6 +13685,11 @@
       "sha256": "d9e9320ce6ff5cb272104898e3e044288bfb13cce63eb9ba3dd6778472d1b2ab"
     },
     {
+      "path": "/resources/arxiv-2610-21109/",
+      "indexable": false,
+      "sha256": "b74d6d3ea5691dbd814bcac5c6233ceb4279a9d6bdcb64843bb5798a603654ab"
+    },
+    {
       "path": "/resources/arxiv-2610-22200/",
       "indexable": true,
       "sha256": "9bb00b4055acdd4c618d29f2be30f576210e0f395d971778de8fe106c95f4f33"
@@ -13768,6 +13773,11 @@
       "path": "/resources/arxiv-2610-24372/",
       "indexable": true,
       "sha256": "cc4eead0d95e149c74d4d8b7d08af6fed1f274170b65211c64e03185d5a2945b"
+    },
+    {
+      "path": "/resources/arxiv-2610-24451/",
+      "indexable": false,
+      "sha256": "9923f9d3b127345c9d134d98a633ce09eb1bcfbe895b9d9abbe01529dab713c6"
     },
     {
       "path": "/resources/arxiv-2610-24453/",
@@ -13860,6 +13870,11 @@
       "sha256": "c8cb41d50761537c04436e3d6f8828986dcb271132d100c46ac9834b1d04086d"
     },
     {
+      "path": "/resources/arxiv-2610-29139/",
+      "indexable": false,
+      "sha256": "832c71224e95fc8f368da0569238e12be49cc3ec07342acfe8a6ed5c0c8e7ec9"
+    },
+    {
       "path": "/resources/arxiv-2610-29609/",
       "indexable": false,
       "sha256": "f316fe561ad4eb008f8e81a72e8278ee03282acfd0d99fa596f529e9640f9947"
@@ -13888,6 +13903,11 @@
       "path": "/resources/arxiv-2610-31107/",
       "indexable": false,
       "sha256": "fae0e420cab9043f933a60fab2619d7eb8cd89c51dd940f2fbb7f749c8701a9d"
+    },
+    {
+      "path": "/resources/arxiv-2610-31162/",
+      "indexable": false,
+      "sha256": "dc2f1b2ffae89ed088a6553aa6790e580ee57994c3c92771ec0b59c8c25377f3"
     },
     {
       "path": "/resources/arxiv-2610-31274/",
@@ -13928,6 +13948,81 @@
       "path": "/resources/arxiv-2610-32536/",
       "indexable": false,
       "sha256": "bcd3025c31106a07b340f296bed6a3af9240a81a7e0bf02ccb5f44b89fe28254"
+    },
+    {
+      "path": "/resources/arxiv-2610-33528/",
+      "indexable": false,
+      "sha256": "57f774475ca7e6be73cc38cf47ce594246e046a2d7d80f93f6208ed6e2a4af15"
+    },
+    {
+      "path": "/resources/arxiv-2610-33568/",
+      "indexable": false,
+      "sha256": "293ad1c99bc1c9479b1fd465cd463917fa78f95d0306dfd109fd65f48fe7f54c"
+    },
+    {
+      "path": "/resources/arxiv-2610-33636/",
+      "indexable": false,
+      "sha256": "b5ebbe129574fcb23202881690dea148cbf265b90cc52fd9f88059e42e884184"
+    },
+    {
+      "path": "/resources/arxiv-2610-33645/",
+      "indexable": false,
+      "sha256": "84b773f54e58a63723690b0127c49c80fb5a94b56d7ae35d54a20142f6a72173"
+    },
+    {
+      "path": "/resources/arxiv-2610-33702/",
+      "indexable": false,
+      "sha256": "1932f922824e3303e3748ae29874a7f8b31c33b0f5055e651d2bfd7e94f2c5ac"
+    },
+    {
+      "path": "/resources/arxiv-2610-33907/",
+      "indexable": false,
+      "sha256": "26622f77d40a988e7425ec2a4ec4a339190570093abd04e3ea675f3869547790"
+    },
+    {
+      "path": "/resources/arxiv-2610-34241/",
+      "indexable": false,
+      "sha256": "a07014a6f7dfe926d7a34eab390edb7be13d079cdafc485fdac76cf1ab32e89d"
+    },
+    {
+      "path": "/resources/arxiv-2610-34384/",
+      "indexable": false,
+      "sha256": "ac0ee4e18fac07812f9e3a3caaada7edf8b26a75a53e31f8a1097d14945c98ed"
+    },
+    {
+      "path": "/resources/arxiv-2610-34582/",
+      "indexable": false,
+      "sha256": "c20c6e5add9af282ec2b131630f3a925541d592be140d9b6b68d0f231bbfacbe"
+    },
+    {
+      "path": "/resources/arxiv-2610-34634/",
+      "indexable": false,
+      "sha256": "5bb9e941f2c5d5896040c5dcbe9df4e4aa1ffa33ff4841fdb89544fa3f45279e"
+    },
+    {
+      "path": "/resources/arxiv-2610-34649/",
+      "indexable": false,
+      "sha256": "8c1309b1ba4dc12968768a784d124b5bd42743f94efcb15e2d52f49ccbd699ee"
+    },
+    {
+      "path": "/resources/arxiv-2610-34735/",
+      "indexable": false,
+      "sha256": "6b777bdfdd5afdf59aaf708166bd3badd1251f6df68c2859417c528dbb53efba"
+    },
+    {
+      "path": "/resources/arxiv-2610-34959/",
+      "indexable": false,
+      "sha256": "ea382b01c806c9efae7fcd30a38b66c158431b76b08d24a8b2ea79c6e38920ab"
+    },
+    {
+      "path": "/resources/arxiv-2610-35237/",
+      "indexable": false,
+      "sha256": "ae17626e23bb1a3a03991af3ce81aa86c85078bb47da85024682fb81dcb1a023"
+    },
+    {
+      "path": "/resources/arxiv-2610-35823/",
+      "indexable": false,
+      "sha256": "d9596b830970f4848a6da3c7c1a51eb81779ae65f96e82789bef67ce7e7af9b7"
     },
     {
       "path": "/resources/component-google-research-android-control/",
@@ -17180,7 +17275,7 @@
     {
       "path": "/catalog/",
       "indexable": true,
-      "sha256": "0566f17bf4f07cfe51fae1113adc265222c8964734ddf95320d52f105d58a32a"
+      "sha256": "f305f8a76cdfe9fdda4277711fc9017e79cef4aa4581930b1d1f6dc1d2c592c9"
     },
     {
       "path": "/categories/paper/",
@@ -18410,7 +18505,7 @@
     {
       "path": "/coverage/",
       "indexable": true,
-      "sha256": "2522c8a1b689c0c94a01b27dac11b008db32ea7228112ba33583ad6990c2afa2"
+      "sha256": "55157033cb1e6a448347301f16388353711407cbd138e09d2656282839f2d8f3"
     },
     {
       "path": "/agents/",
@@ -18425,7 +18520,7 @@
     {
       "path": "/updates/",
       "indexable": true,
-      "sha256": "47aa211c89cb5d5d0ee99422891ae05db3ced30bf4d0ea531b18eafe5ce1cc89"
+      "sha256": "be72d7fce866914915b1399a974a31ec8bdf19905fbfdb44886fb46a4dbf40fa"
     },
     {
       "path": "/badges/",
@@ -18440,12 +18535,12 @@
     {
       "path": "/data/",
       "indexable": true,
-      "sha256": "61d01d86a275796de9e1745d1096e4dc776bc97c28753a475638c8b9e87e84ff"
+      "sha256": "78602c19e7346c32c49db0b6f8d0535f779215bfc653aaed434be288845b3413"
     },
     {
       "path": "/zh/data/",
       "indexable": true,
-      "sha256": "5b67c36ff576659c77ecf2076956fdf4ea686225bf477e0a9ffc7d3f1b65fae4"
+      "sha256": "9e4e328df32d0cac37cf92adcd9ed64547e48d705d1bfec26df4640f275b5646"
     },
     {
       "path": "/guides/what-are-computer-use-agents/",
@@ -18470,12 +18565,12 @@
     {
       "path": "/zh/",
       "indexable": true,
-      "sha256": "ea86653fc20c501b057faba56943f3a82a2b3f23544995d601ac8a72450f7f26"
+      "sha256": "a09fd627ba79c036d18032efeadde48fc4de7cd97dded905e6eee95ec105f0f8"
     },
     {
       "path": "/",
       "indexable": true,
-      "sha256": "0711924b023c8ef067087fbedba2a1ce72ffb007ebdfdaaaa2227aee199beae7"
+      "sha256": "191e8c709871eefcd6ee3e98e64c06c22c13d7eefe82a71ec0d2d6a077c97102"
     }
   ]
 }

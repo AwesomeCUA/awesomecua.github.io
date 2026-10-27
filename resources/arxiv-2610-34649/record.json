@@ -1,0 +1,88 @@
+{
+  "aliases": [],
+  "authors": [
+    "Lingjun Mao",
+    "Jinglin Cao",
+    "Lukun He",
+    "Wenpeng Xu",
+    "Yuchen Yan",
+    "Hengyu Jin",
+    "Zijun Zhang",
+    "Jinzhou Tang",
+    "Songyao Jin",
+    "Ziche Liu",
+    "Yifei Shao",
+    "Junbo Huang",
+    "Fang Nan",
+    "Ruobing Han",
+    "Ziqiao Xi",
+    "Ziming Xu",
+    "Shuang Liang",
+    "Sibo Zhu",
+    "Wenyi Wu",
+    "Xinyue Wang",
+    "Yiming Huang",
+    "Xinkai Zou",
+    "Gao Zhu",
+    "Kun Zhou",
+    "Biwei Huang"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f80086e20542d6cba2a28cb1ee52dde26a55bae05ea242b79e3099df14a54454",
+      "submitted_at": "2026-10-26T00:26:30Z",
+      "updated_at": "2026-10-26T00:26:30Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.34649v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-27T14:32:46Z",
+      "role": "primary",
+      "sha256": "3d74da2e7250cdb0a242c71f53ca16945ddd4636bfd5ca78f49430493f3b6f67",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2610.21109%2C2610.24451%2C2610.29139%2C2610.31162%2C2610.33568%2C2610.34241%2C2610.34649&max_results=7"
+    }
+  ],
+  "id": "arxiv:2610.34649",
+  "identifiers": {
+    "arxiv": "2610.34649"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-27T14:32:46Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2610.34649"
+    }
+  ],
+  "name": "RobotAgentBench: Towards Open-world Robot Autonomy",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2026-10-26",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-10-26",
+  "url": "https://arxiv.org/abs/2610.34649"
+}
