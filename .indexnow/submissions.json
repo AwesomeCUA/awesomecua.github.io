@@ -15072,5 +15072,33 @@
     "publication_run": "https://github.com/AwesomeCUA/awesomecua.github.io/actions/runs/40463570968",
     "meaning": "Submission accepted; indexing is not guaranteed.",
     "response": ""
+  },
+  {
+    "submitted_at": "2026-10-27T15:43:35+00:00",
+    "provider": "IndexNow",
+    "endpoint": "https://api.indexnow.org/indexnow",
+    "site": "https://awesomecua.github.io",
+    "status": 200,
+    "url_count": 7,
+    "urls": [
+      "https://awesomecua.github.io/",
+      "https://awesomecua.github.io/catalog/",
+      "https://awesomecua.github.io/coverage/",
+      "https://awesomecua.github.io/data/",
+      "https://awesomecua.github.io/updates/",
+      "https://awesomecua.github.io/zh/",
+      "https://awesomecua.github.io/zh/data/"
+    ],
+    "changes": {
+      "new": 0,
+      "changed": 7,
+      "removed": 0
+    },
+    "indexable_pages": 1932,
+    "manifest_sha256": "288c820dbb8598d73e4f1a73cdb121bb5a39e75337bbd604aed6fb0e54d99711",
+    "source_commit": "8d21a4d258f4f182bd5f864ed1cdf0fb671ff850",
+    "publication_run": "https://github.com/AwesomeCUA/awesomecua.github.io/actions/runs/40532192890",
+    "meaning": "Submission accepted; indexing is not guaranteed.",
+    "response": ""
   }
 ]
