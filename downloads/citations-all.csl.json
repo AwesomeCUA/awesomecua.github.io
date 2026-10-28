@@ -193160,6 +193160,61 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.35541v2",
+    "archive": "arXiv",
+    "archive_location": "2610.35541",
+    "author": [
+      {
+        "literal": "Ruozhao Yang"
+      },
+      {
+        "literal": "Jiongchi Yu"
+      },
+      {
+        "literal": "Ming Hu"
+      },
+      {
+        "literal": "Xiaofei Xie"
+      }
+    ],
+    "citation-key": "arxiv_2610_35541",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7b4bf57f5f2beb6489df4e4ca602e0742955d976a35a836f8fdad7fba8117554",
+        "submitted_at": "2026-10-26T14:53:22Z",
+        "updated_at": "2026-10-27T07:14:57Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2610.35541v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.35541",
+      "catalog_id": "arxiv:2610.35541",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-26",
+      "identifiers": {
+        "arxiv": "2610.35541"
+      },
+      "record_updated_at": "2026-10-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.35541",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          26
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-26; Recorded arXiv version: v2; Recorded version updated: 2026-10-27T07:14:57Z.",
+    "title": "The Agent in the Middle: How AI-Mediated Access Reshapes Web Vulnerability Exploitation",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.35823v1",
     "archive": "arXiv",
     "archive_location": "2610.35823",
@@ -193214,6 +193269,311 @@
     },
     "note": "First published: 2026-10-26; Recorded arXiv version: v1; Recorded version updated: 2026-10-26T17:47:07Z.",
     "title": "Back to Basics: A Skill-Centric Approach to Generalist Web Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.36831v1",
+    "archive": "arXiv",
+    "archive_location": "2610.36831",
+    "author": [
+      {
+        "literal": "Xiaokang Yuan"
+      },
+      {
+        "literal": "Binhui Yao"
+      },
+      {
+        "literal": "Luwei Yang"
+      },
+      {
+        "literal": "Ruimin Chen"
+      },
+      {
+        "literal": "Zeng Wang"
+      }
+    ],
+    "citation-key": "arxiv_2610_36831",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3d40ba4f8e3859e29abf269b79ac8013f953b16096193c32a6607459c9d15bfb",
+        "submitted_at": "2026-10-27T08:30:07Z",
+        "updated_at": "2026-10-27T08:30:07Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.36831v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.36831",
+      "catalog_id": "arxiv:2610.36831",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-27",
+      "identifiers": {
+        "arxiv": "2610.36831"
+      },
+      "record_updated_at": "2026-10-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.36831",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T08:30:07Z.",
+    "title": "Right Click, Wrong Box: Grading GUI Grounding by What a Click Does",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.36874v1",
+    "archive": "arXiv",
+    "archive_location": "2610.36874",
+    "author": [
+      {
+        "literal": "Bingchao Wang"
+      },
+      {
+        "literal": "Yongcheng Jing"
+      },
+      {
+        "literal": "Chengyu Wang"
+      },
+      {
+        "literal": "Jun Huang"
+      },
+      {
+        "literal": "Jie Yang"
+      },
+      {
+        "literal": "Wei Liu"
+      },
+      {
+        "literal": "Dacheng Tao"
+      }
+    ],
+    "citation-key": "arxiv_2610_36874",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f2ffbd7506bc1fac0f749e516ad2fb3d4da6b6be5403194104167c8388163f67",
+        "submitted_at": "2026-10-27T09:12:35Z",
+        "updated_at": "2026-10-27T09:12:35Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.36874v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.36874",
+      "catalog_id": "arxiv:2610.36874",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-27",
+      "identifiers": {
+        "arxiv": "2610.36874"
+      },
+      "record_updated_at": "2026-10-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.36874",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T09:12:35Z.",
+    "title": "AdaGround: Token-Normalized Adaptive Zooming with Verifier-in-the-Loop Refinement for GUI Grounding",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.36877v1",
+    "archive": "arXiv",
+    "archive_location": "2610.36877",
+    "author": [
+      {
+        "literal": "Bingchao Wang"
+      },
+      {
+        "literal": "Yongcheng Jing"
+      },
+      {
+        "literal": "Shunyu Liu"
+      },
+      {
+        "literal": "Chengyu Wang"
+      },
+      {
+        "literal": "Jun Huang"
+      },
+      {
+        "literal": "Jie Yang"
+      },
+      {
+        "literal": "Wei Liu"
+      },
+      {
+        "literal": "Dacheng Tao"
+      }
+    ],
+    "citation-key": "arxiv_2610_36877",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3fb7aa50a72ad938a0538cfb88f857a353ca680c311ee7548290c0f40c709218",
+        "submitted_at": "2026-10-27T09:17:51Z",
+        "updated_at": "2026-10-27T09:17:51Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.36877v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.36877",
+      "catalog_id": "arxiv:2610.36877",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-27",
+      "identifiers": {
+        "arxiv": "2610.36877"
+      },
+      "record_updated_at": "2026-10-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.36877",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T09:17:51Z.",
+    "title": "GUI-JEPA: Candidate-Conditioned JEPA Latents as a Fast Action Policy for Mobile GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.37093v1",
+    "archive": "arXiv",
+    "archive_location": "2610.37093",
+    "author": [
+      {
+        "literal": "Ruilin Yao"
+      },
+      {
+        "literal": "Xinyu Qiu"
+      },
+      {
+        "literal": "Tianyu Zou"
+      },
+      {
+        "literal": "Yi Rong"
+      },
+      {
+        "literal": "Shengwu Xiong"
+      },
+      {
+        "literal": "Shuheng Shen"
+      },
+      {
+        "literal": "Changhua Meng"
+      }
+    ],
+    "citation-key": "arxiv_2610_37093",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7ce74ddc9dfe35c5d6b6a0dafbf9034810e81a6826fe1fced7c68423911153fd",
+        "submitted_at": "2026-10-27T11:56:00Z",
+        "updated_at": "2026-10-27T11:56:00Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.37093v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.37093",
+      "catalog_id": "arxiv:2610.37093",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-27",
+      "identifiers": {
+        "arxiv": "2610.37093"
+      },
+      "record_updated_at": "2026-10-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.37093",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T11:56:00Z.",
+    "title": "Learning to Look Beyond Screens: Transferable Visual Observation from GUI Grounding",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.37482v1",
+    "archive": "arXiv",
+    "archive_location": "2610.37482",
+    "author": [
+      {
+        "literal": "Ziyang Chen"
+      },
+      {
+        "literal": "Qian Li"
+      },
+      {
+        "literal": "Chengwei Qin"
+      }
+    ],
+    "citation-key": "arxiv_2610_37482",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4878e91f3b660546ab5d97d1212e9942767f5d46474565d500ed0e22623d6543",
+        "submitted_at": "2026-10-27T16:09:25Z",
+        "updated_at": "2026-10-27T16:09:25Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.37482v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.37482",
+      "catalog_id": "arxiv:2610.37482",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-27",
+      "identifiers": {
+        "arxiv": "2610.37482"
+      },
+      "record_updated_at": "2026-10-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.37482",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T16:09:25Z.",
+    "title": "From Interaction to Capability: Task Advancement as State and Supervision for GUI Agents",
     "type": "article",
     "version": "1"
   },

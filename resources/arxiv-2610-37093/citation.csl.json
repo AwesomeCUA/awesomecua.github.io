@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2610.37093",
+  "citation-key": "arxiv_2610_37093",
+  "type": "article",
+  "title": "Learning to Look Beyond Screens: Transferable Visual Observation from GUI Grounding",
+  "URL": "https://arxiv.org/abs/2610.37093v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.37093",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.37093",
+    "identifiers": {
+      "arxiv": "2610.37093"
+    },
+    "first_published_at": "2026-10-27",
+    "record_updated_at": "2026-10-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7ce74ddc9dfe35c5d6b6a0dafbf9034810e81a6826fe1fced7c68423911153fd",
+      "submitted_at": "2026-10-27T11:56:00Z",
+      "updated_at": "2026-10-27T11:56:00Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.37093v1"
+    }
+  },
+  "note": "First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T11:56:00Z.",
+  "author": [
+    {
+      "literal": "Ruilin Yao"
+    },
+    {
+      "literal": "Xinyu Qiu"
+    },
+    {
+      "literal": "Tianyu Zou"
+    },
+    {
+      "literal": "Yi Rong"
+    },
+    {
+      "literal": "Shengwu Xiong"
+    },
+    {
+      "literal": "Shuheng Shen"
+    },
+    {
+      "literal": "Changhua Meng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.37093",
+  "genre": "preprint",
+  "version": "1"
+}
