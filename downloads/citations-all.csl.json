@@ -193273,6 +193273,67 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.36471v1",
+    "archive": "arXiv",
+    "archive_location": "2610.36471",
+    "author": [
+      {
+        "literal": "Chiming Duan"
+      },
+      {
+        "literal": "Tong Jia"
+      },
+      {
+        "literal": "Yingxi Chen"
+      },
+      {
+        "literal": "Minghua He"
+      },
+      {
+        "literal": "Lingzhe Zhang"
+      },
+      {
+        "literal": "Ying Li"
+      }
+    ],
+    "citation-key": "arxiv_2610_36471",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8bf9ffd2f5c84e847e9ff63a3697c34b08311921a82a9765c3253ec5637b266f",
+        "submitted_at": "2026-10-27T01:26:53Z",
+        "updated_at": "2026-10-27T01:26:53Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.36471v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.36471",
+      "catalog_id": "arxiv:2610.36471",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-27",
+      "identifiers": {
+        "arxiv": "2610.36471"
+      },
+      "record_updated_at": "2026-10-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.36471",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T01:26:53Z.",
+    "title": "When to Intervene? An Empirical Study of Errors and Self-Recovery in LLM Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.36831v1",
     "archive": "arXiv",
     "archive_location": "2610.36831",
