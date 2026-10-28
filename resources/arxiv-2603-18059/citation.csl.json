@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2603.18059",
+  "citation-key": "arxiv_2603_18059",
+  "type": "article",
+  "title": "Guardrails as Infrastructure: Policy-First Control for Tool-Orchestrated Workflows",
+  "URL": "https://arxiv.org/abs/2603.18059v1",
+  "custom": {
+    "catalog_id": "arxiv:2603.18059",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.18059",
+    "identifiers": {
+      "arxiv": "2603.18059"
+    },
+    "first_published_at": "2026-03-18",
+    "record_updated_at": "2026-03-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cece8b00832f4c19e9e6d9154ab562be54c50b8e8fd2a58dbca0e5a993147d08",
+      "submitted_at": "2026-03-18T01:19:33Z",
+      "updated_at": "2026-03-18T01:19:33Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2603.18059v1"
+    }
+  },
+  "note": "First published: 2026-03-18; Recorded arXiv version: v1; Recorded version updated: 2026-03-18T01:19:33Z.",
+  "author": [
+    {
+      "literal": "Akshey Sigdel"
+    },
+    {
+      "literal": "Rista Baral"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        18
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.18059",
+  "genre": "preprint",
+  "version": "1"
+}

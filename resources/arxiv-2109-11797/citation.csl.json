@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2109.11797",
+  "citation-key": "arxiv_2109_11797",
+  "type": "article",
+  "title": "CPT: Colorful Prompt Tuning for Pre-trained Vision-Language Models",
+  "URL": "https://arxiv.org/abs/2109.11797v3",
+  "custom": {
+    "catalog_id": "arxiv:2109.11797",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2109.11797",
+    "identifiers": {
+      "arxiv": "2109.11797"
+    },
+    "first_published_at": "2021-09-24",
+    "record_updated_at": "2022-05-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "71f9dc809f2f6b4a411f1c32df2abbc5cc34798c2fe2bd8164d90b6f650c741b",
+      "submitted_at": "2021-09-24T08:07:29Z",
+      "updated_at": "2022-05-20T07:05:41Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2109.11797v3"
+    }
+  },
+  "note": "First published: 2021-09-24; Recorded arXiv version: v3; Recorded version updated: 2022-05-20T07:05:41Z.",
+  "author": [
+    {
+      "literal": "Yuan Yao"
+    },
+    {
+      "literal": "Ao Zhang"
+    },
+    {
+      "literal": "Zhengyan Zhang"
+    },
+    {
+      "literal": "Zhiyuan Liu"
+    },
+    {
+      "literal": "Tat-Seng Chua"
+    },
+    {
+      "literal": "Maosong Sun"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        9,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2109.11797",
+  "genre": "preprint",
+  "version": "3"
+}

@@ -1,0 +1,65 @@
+{
+  "aliases": [],
+  "authors": [
+    "Kai Jiang",
+    "XiaoLong Qin"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "24615691cf05cdc3a40e8eefa4a977c54dbe3d56c57d555f6ce83543d1a005b2",
+      "submitted_at": "2020-01-01T02:37:34Z",
+      "updated_at": "2020-01-10T12:26:33Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2001.00127v2"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-28T21:06:09Z",
+      "role": "primary",
+      "sha256": "a786d3c000f2789396f868db466e585cdd733fcd31910880eb18c3f5b46c1d05",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2001.00127%2C2109.11797%2C2203.13474%2C2401.04621%2C2601.16956%2C2603.18059%2C2608.14929&max_results=7"
+    }
+  ],
+  "id": "arxiv:2001.00127",
+  "identifiers": {
+    "arxiv": "2001.00127"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-28T21:06:09Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2001.00127"
+    }
+  ],
+  "name": "Reinforcement Learning with Goal-Distance Gradient",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2020-01-01",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2020-01-10",
+  "url": "https://arxiv.org/abs/2001.00127"
+}

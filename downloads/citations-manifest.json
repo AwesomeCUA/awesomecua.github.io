@@ -1,6 +1,6 @@
 {
   "bibtex_compatibility": "UTF-8 literal names; non-ASCII rendering requires a Unicode-capable bibliography/TeX toolchain. Older styles may ignore url, doi, eprint, and archivePrefix.",
-  "catalog_sha256": "51451f7dedb244634241daaebc9ac12886f8e9eb7f021120777038692027a99b",
+  "catalog_sha256": "ae658d92501f989ee7e2e69b81588546dc252992c1629e61d60530f0e21179b8",
   "citation_policy": "Record edition preserves retained arXiv versions; publisher-only records use their publication. Publication edition uses only its own title, full literal authors, venue, date and identifiers. Unknown facts are omitted.",
   "date_policy": "ArXiv record issued/year use first published_at. Publication issued uses supplied date_parts without adding a month or day; arXiv updates are not publication updates.",
   "encoding": "UTF-8",
@@ -24,22 +24,22 @@
       "sha256": "5dbd93d13371d8c54f071f3fcae378b10d3f98c69fafd266d9e4a794cb1a607d"
     },
     {
-      "bytes": 2034267,
+      "bytes": 2038655,
       "edition": "record",
       "file": "citations-all.bib",
       "format": "bibtex",
       "includes_metadata_only": true,
-      "records": 2825,
-      "sha256": "325409bcac6bc14c788cb68d9515992c5cc0ad79acaf112fe651f0bbee868f93"
+      "records": 2832,
+      "sha256": "ad98856eb068f8f79537b46d2d3f9e26aa6c96efa91001b6ed5cf51d135bfa31"
     },
     {
-      "bytes": 5204058,
+      "bytes": 5215521,
       "edition": "record",
       "file": "citations-all.csl.json",
       "format": "csl-json",
       "includes_metadata_only": true,
-      "records": 2825,
-      "sha256": "9b806fa74302ef892ad82d8e61f80326ada4888d53424c38b8ab1a97fac4b1d4"
+      "records": 2832,
+      "sha256": "fbdc35a6047a74809695b7e974ca69336bd48f48f5fefeb44d1528b354ffbf9f"
     },
     {
       "bytes": 168977,

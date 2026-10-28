@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2001.00127",
+  "citation-key": "arxiv_2001_00127",
+  "type": "article",
+  "title": "Reinforcement Learning with Goal-Distance Gradient",
+  "URL": "https://arxiv.org/abs/2001.00127v2",
+  "custom": {
+    "catalog_id": "arxiv:2001.00127",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2001.00127",
+    "identifiers": {
+      "arxiv": "2001.00127"
+    },
+    "first_published_at": "2020-01-01",
+    "record_updated_at": "2020-01-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "24615691cf05cdc3a40e8eefa4a977c54dbe3d56c57d555f6ce83543d1a005b2",
+      "submitted_at": "2020-01-01T02:37:34Z",
+      "updated_at": "2020-01-10T12:26:33Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2001.00127v2"
+    }
+  },
+  "note": "First published: 2020-01-01; Recorded arXiv version: v2; Recorded version updated: 2020-01-10T12:26:33Z.",
+  "author": [
+    {
+      "literal": "Kai Jiang"
+    },
+    {
+      "literal": "XiaoLong Qin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        1,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2001.00127",
+  "genre": "preprint",
+  "version": "2"
+}

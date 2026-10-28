@@ -5874,6 +5874,55 @@
     "version": "4"
   },
   {
+    "URL": "https://arxiv.org/abs/2001.00127v2",
+    "archive": "arXiv",
+    "archive_location": "2001.00127",
+    "author": [
+      {
+        "literal": "Kai Jiang"
+      },
+      {
+        "literal": "XiaoLong Qin"
+      }
+    ],
+    "citation-key": "arxiv_2001_00127",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "24615691cf05cdc3a40e8eefa4a977c54dbe3d56c57d555f6ce83543d1a005b2",
+        "submitted_at": "2020-01-01T02:37:34Z",
+        "updated_at": "2020-01-10T12:26:33Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2001.00127v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2001.00127",
+      "catalog_id": "arxiv:2001.00127",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2020-01-01",
+      "identifiers": {
+        "arxiv": "2001.00127"
+      },
+      "record_updated_at": "2020-01-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2001.00127",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          1
+        ]
+      ]
+    },
+    "note": "First published: 2020-01-01; Recorded arXiv version: v2; Recorded version updated: 2020-01-10T12:26:33Z.",
+    "title": "Reinforcement Learning with Goal-Distance Gradient",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2003.00431v1",
     "archive": "arXiv",
     "archive_location": "2003.00431",
@@ -9943,6 +9992,67 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2109.11797v3",
+    "archive": "arXiv",
+    "archive_location": "2109.11797",
+    "author": [
+      {
+        "literal": "Yuan Yao"
+      },
+      {
+        "literal": "Ao Zhang"
+      },
+      {
+        "literal": "Zhengyan Zhang"
+      },
+      {
+        "literal": "Zhiyuan Liu"
+      },
+      {
+        "literal": "Tat-Seng Chua"
+      },
+      {
+        "literal": "Maosong Sun"
+      }
+    ],
+    "citation-key": "arxiv_2109_11797",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "71f9dc809f2f6b4a411f1c32df2abbc5cc34798c2fe2bd8164d90b6f650c741b",
+        "submitted_at": "2021-09-24T08:07:29Z",
+        "updated_at": "2022-05-20T07:05:41Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2109.11797v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2109.11797",
+      "catalog_id": "arxiv:2109.11797",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2021-09-24",
+      "identifiers": {
+        "arxiv": "2109.11797"
+      },
+      "record_updated_at": "2022-05-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2109.11797",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2021-09-24; Recorded arXiv version: v3; Recorded version updated: 2022-05-20T07:05:41Z.",
+    "title": "CPT: Colorful Prompt Tuning for Pre-trained Vision-Language Models",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2109.12280v4",
     "archive": "arXiv",
     "archive_location": "2109.12280",
@@ -11986,6 +12096,73 @@
     "title": "Unified Multivariate Gaussian Mixture for Efficient Neural Image Compression",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2203.13474v5",
+    "archive": "arXiv",
+    "archive_location": "2203.13474",
+    "author": [
+      {
+        "literal": "Erik Nijkamp"
+      },
+      {
+        "literal": "Bo Pang"
+      },
+      {
+        "literal": "Hiroaki Hayashi"
+      },
+      {
+        "literal": "Lifu Tu"
+      },
+      {
+        "literal": "Huan Wang"
+      },
+      {
+        "literal": "Yingbo Zhou"
+      },
+      {
+        "literal": "Silvio Savarese"
+      },
+      {
+        "literal": "Caiming Xiong"
+      }
+    ],
+    "citation-key": "arxiv_2203_13474",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e7162dfbeff6c327a6ea938b0176291157a24b9c6b06136f7bf9fddb8bea8a23",
+        "submitted_at": "2022-03-25T06:55:15Z",
+        "updated_at": "2023-02-27T21:26:48Z",
+        "version": 5,
+        "versioned_url": "https://arxiv.org/abs/2203.13474v5"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2203.13474",
+      "catalog_id": "arxiv:2203.13474",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2022-03-25",
+      "identifiers": {
+        "arxiv": "2203.13474"
+      },
+      "record_updated_at": "2023-02-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2203.13474",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2022-03-25; Recorded arXiv version: v5; Recorded version updated: 2023-02-27T21:26:48Z.",
+    "title": "CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis",
+    "type": "article",
+    "version": "5"
   },
   {
     "URL": "https://arxiv.org/abs/2203.15807v1",
@@ -30911,6 +31088,82 @@
     "title": "Fault-tolerant quantum computation using large spin cat-codes",
     "type": "article",
     "version": "4"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2401.04621v3",
+    "archive": "arXiv",
+    "archive_location": "2401.04621",
+    "author": [
+      {
+        "literal": "Runchu Tian"
+      },
+      {
+        "literal": "Yining Ye"
+      },
+      {
+        "literal": "Yujia Qin"
+      },
+      {
+        "literal": "Xin Cong"
+      },
+      {
+        "literal": "Yankai Lin"
+      },
+      {
+        "literal": "Yinxu Pan"
+      },
+      {
+        "literal": "Yesai Wu"
+      },
+      {
+        "literal": "Haotian Hui"
+      },
+      {
+        "literal": "Weichuan Liu"
+      },
+      {
+        "literal": "Zhiyuan Liu"
+      },
+      {
+        "literal": "Maosong Sun"
+      }
+    ],
+    "citation-key": "arxiv_2401_04621",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7695307a0f6f06b176ca9d08e7bbaef0188f984681b0625af5c2af2ad2274245",
+        "submitted_at": "2024-01-09T15:46:38Z",
+        "updated_at": "2024-06-06T06:10:00Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2401.04621v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2401.04621",
+      "catalog_id": "arxiv:2401.04621",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2024-01-09",
+      "identifiers": {
+        "arxiv": "2401.04621"
+      },
+      "record_updated_at": "2024-06-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2401.04621",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2024-01-09; Recorded arXiv version: v3; Recorded version updated: 2024-06-06T06:10:00Z.",
+    "title": "DebugBench: Evaluating Debugging Capability of Large Language Models",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2401.05459v2",
@@ -116105,6 +116358,61 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2601.16956v1",
+    "archive": "arXiv",
+    "archive_location": "2601.16956",
+    "author": [
+      {
+        "literal": "Avinash Maurya"
+      },
+      {
+        "literal": "M. Mustafa Rafique"
+      },
+      {
+        "literal": "Franck Cappello"
+      },
+      {
+        "literal": "Bogdan Nicolae"
+      }
+    ],
+    "citation-key": "arxiv_2601_16956",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "30f6cea120595e615a25098a9c4ca572eceed71aabb7b1355fdeba4d18264ad6",
+        "submitted_at": "2026-01-23T18:26:14Z",
+        "updated_at": "2026-01-23T18:26:14Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2601.16956v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2601.16956",
+      "catalog_id": "arxiv:2601.16956",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-01-23",
+      "identifiers": {
+        "arxiv": "2601.16956"
+      },
+      "record_updated_at": "2026-01-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2601.16956",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2026-01-23; Recorded arXiv version: v1; Recorded version updated: 2026-01-23T18:26:14Z.",
+    "title": "DataStates-LLM: Scalable Checkpointing for Transformer Models Using Composable State Providers",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2601.17418v1",
     "archive": "arXiv",
     "archive_location": "2601.17418",
@@ -129575,6 +129883,55 @@
     },
     "note": "First published: 2026-03-18; Recorded arXiv version: v1; Recorded version updated: 2026-03-18T15:24:22Z.",
     "title": "FailureMem: A Failure-Aware Multimodal Framework for Autonomous Software Repair",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2603.18059v1",
+    "archive": "arXiv",
+    "archive_location": "2603.18059",
+    "author": [
+      {
+        "literal": "Akshey Sigdel"
+      },
+      {
+        "literal": "Rista Baral"
+      }
+    ],
+    "citation-key": "arxiv_2603_18059",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cece8b00832f4c19e9e6d9154ab562be54c50b8e8fd2a58dbca0e5a993147d08",
+        "submitted_at": "2026-03-18T01:19:33Z",
+        "updated_at": "2026-03-18T01:19:33Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2603.18059v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.18059",
+      "catalog_id": "arxiv:2603.18059",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-03-18",
+      "identifiers": {
+        "arxiv": "2603.18059"
+      },
+      "record_updated_at": "2026-03-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.18059",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-18; Recorded arXiv version: v1; Recorded version updated: 2026-03-18T01:19:33Z.",
+    "title": "Guardrails as Infrastructure: Policy-First Control for Tool-Orchestrated Workflows",
     "type": "article",
     "version": "1"
   },
@@ -168459,6 +168816,55 @@
     },
     "note": "First published: 2026-08-14; Recorded arXiv version: v2; Recorded version updated: 2026-08-26T13:00:40Z.",
     "title": "Large-scale workflow placement in serverless computing using integer nonlinear programming",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2608.14929v2",
+    "archive": "arXiv",
+    "archive_location": "2608.14929",
+    "author": [
+      {
+        "literal": "Aman Singh Thakur"
+      },
+      {
+        "literal": "Rayan Khoury"
+      }
+    ],
+    "citation-key": "arxiv_2608_14929",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0bdd28b9114703a061b219fcb4da730ce43db86ff1f5d3d272dc1ae4616e65f9",
+        "submitted_at": "2026-08-14T22:36:58Z",
+        "updated_at": "2026-09-22T19:03:38Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2608.14929v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2608.14929",
+      "catalog_id": "arxiv:2608.14929",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-08-14",
+      "identifiers": {
+        "arxiv": "2608.14929"
+      },
+      "record_updated_at": "2026-09-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2608.14929",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2026-08-14; Recorded arXiv version: v2; Recorded version updated: 2026-09-22T19:03:38Z.",
+    "title": "Training Leaves Traces: Centered Residual Signatures for Language Model Lineage Verification",
     "type": "article",
     "version": "2"
   },

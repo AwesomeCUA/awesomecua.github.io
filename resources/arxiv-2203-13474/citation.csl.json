@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2203.13474",
+  "citation-key": "arxiv_2203_13474",
+  "type": "article",
+  "title": "CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis",
+  "URL": "https://arxiv.org/abs/2203.13474v5",
+  "custom": {
+    "catalog_id": "arxiv:2203.13474",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2203.13474",
+    "identifiers": {
+      "arxiv": "2203.13474"
+    },
+    "first_published_at": "2022-03-25",
+    "record_updated_at": "2023-02-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e7162dfbeff6c327a6ea938b0176291157a24b9c6b06136f7bf9fddb8bea8a23",
+      "submitted_at": "2022-03-25T06:55:15Z",
+      "updated_at": "2023-02-27T21:26:48Z",
+      "version": 5,
+      "versioned_url": "https://arxiv.org/abs/2203.13474v5"
+    }
+  },
+  "note": "First published: 2022-03-25; Recorded arXiv version: v5; Recorded version updated: 2023-02-27T21:26:48Z.",
+  "author": [
+    {
+      "literal": "Erik Nijkamp"
+    },
+    {
+      "literal": "Bo Pang"
+    },
+    {
+      "literal": "Hiroaki Hayashi"
+    },
+    {
+      "literal": "Lifu Tu"
+    },
+    {
+      "literal": "Huan Wang"
+    },
+    {
+      "literal": "Yingbo Zhou"
+    },
+    {
+      "literal": "Silvio Savarese"
+    },
+    {
+      "literal": "Caiming Xiong"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        3,
+        25
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2203.13474",
+  "genre": "preprint",
+  "version": "5"
+}
