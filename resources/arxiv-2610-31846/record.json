@@ -1,0 +1,70 @@
+{
+  "aliases": [],
+  "authors": [
+    "Yuval Kansal",
+    "Karen Ullrich",
+    "Polina Kirichenko",
+    "Ilia Kulikov",
+    "Niraj K. Jha",
+    "Mohammad Pezeshki",
+    "Mark Ibrahim"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "13e0ea97f652729bae4367a39958b24bf275a69ab1ed75af6298251e9285adb9",
+      "submitted_at": "2026-10-22T19:29:38Z",
+      "updated_at": "2026-10-22T19:29:38Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.31846v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-29T05:49:31Z",
+      "role": "primary",
+      "sha256": "2232b09931020871b5584b05fab3a55f9b4af2ab5db5eef0c06fb5a8867af524",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2610.31846%2C2610.37255&max_results=2"
+    }
+  ],
+  "id": "arxiv:2610.31846",
+  "identifiers": {
+    "arxiv": "2610.31846"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-29T05:49:31Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2610.31846"
+    }
+  ],
+  "name": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2026-10-22",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-10-22",
+  "url": "https://arxiv.org/abs/2610.31846"
+}

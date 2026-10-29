@@ -1,0 +1,66 @@
+{
+  "aliases": [],
+  "authors": [
+    "Jian Mu",
+    "Ruibo Shen",
+    "Yao Shu"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7f989cb88da50fade90d70ca06d200fb33a713cf4659cba13b8e6244a1999f2c",
+      "submitted_at": "2026-10-27T13:52:25Z",
+      "updated_at": "2026-10-27T13:52:25Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.37255v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-29T05:49:31Z",
+      "role": "primary",
+      "sha256": "2232b09931020871b5584b05fab3a55f9b4af2ab5db5eef0c06fb5a8867af524",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2610.31846%2C2610.37255&max_results=2"
+    }
+  ],
+  "id": "arxiv:2610.37255",
+  "identifiers": {
+    "arxiv": "2610.37255"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-29T05:49:31Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2610.37255"
+    }
+  ],
+  "name": "Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2026-10-27",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-10-27",
+  "url": "https://arxiv.org/abs/2610.37255"
+}

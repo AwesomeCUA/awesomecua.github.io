@@ -192356,6 +192356,70 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.31846v1",
+    "archive": "arXiv",
+    "archive_location": "2610.31846",
+    "author": [
+      {
+        "literal": "Yuval Kansal"
+      },
+      {
+        "literal": "Karen Ullrich"
+      },
+      {
+        "literal": "Polina Kirichenko"
+      },
+      {
+        "literal": "Ilia Kulikov"
+      },
+      {
+        "literal": "Niraj K. Jha"
+      },
+      {
+        "literal": "Mohammad Pezeshki"
+      },
+      {
+        "literal": "Mark Ibrahim"
+      }
+    ],
+    "citation-key": "arxiv_2610_31846",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "13e0ea97f652729bae4367a39958b24bf275a69ab1ed75af6298251e9285adb9",
+        "submitted_at": "2026-10-22T19:29:38Z",
+        "updated_at": "2026-10-22T19:29:38Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.31846v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.31846",
+      "catalog_id": "arxiv:2610.31846",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-22",
+      "identifiers": {
+        "arxiv": "2610.31846"
+      },
+      "record_updated_at": "2026-10-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.31846",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T19:29:38Z.",
+    "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.32223v1",
     "archive": "arXiv",
     "archive_location": "2610.32223",
@@ -193989,6 +194053,58 @@
     },
     "note": "First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T11:56:00Z.",
     "title": "Learning to Look Beyond Screens: Transferable Visual Observation from GUI Grounding",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.37255v1",
+    "archive": "arXiv",
+    "archive_location": "2610.37255",
+    "author": [
+      {
+        "literal": "Jian Mu"
+      },
+      {
+        "literal": "Ruibo Shen"
+      },
+      {
+        "literal": "Yao Shu"
+      }
+    ],
+    "citation-key": "arxiv_2610_37255",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7f989cb88da50fade90d70ca06d200fb33a713cf4659cba13b8e6244a1999f2c",
+        "submitted_at": "2026-10-27T13:52:25Z",
+        "updated_at": "2026-10-27T13:52:25Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.37255v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.37255",
+      "catalog_id": "arxiv:2610.37255",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-27",
+      "identifiers": {
+        "arxiv": "2610.37255"
+      },
+      "record_updated_at": "2026-10-27"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.37255",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T13:52:25Z.",
+    "title": "Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces",
     "type": "article",
     "version": "1"
   },

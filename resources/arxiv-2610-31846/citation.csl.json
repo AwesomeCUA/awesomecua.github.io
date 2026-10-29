@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2610.31846",
+  "citation-key": "arxiv_2610_31846",
+  "type": "article",
+  "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+  "URL": "https://arxiv.org/abs/2610.31846v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.31846",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.31846",
+    "identifiers": {
+      "arxiv": "2610.31846"
+    },
+    "first_published_at": "2026-10-22",
+    "record_updated_at": "2026-10-22",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "13e0ea97f652729bae4367a39958b24bf275a69ab1ed75af6298251e9285adb9",
+      "submitted_at": "2026-10-22T19:29:38Z",
+      "updated_at": "2026-10-22T19:29:38Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.31846v1"
+    }
+  },
+  "note": "First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T19:29:38Z.",
+  "author": [
+    {
+      "literal": "Yuval Kansal"
+    },
+    {
+      "literal": "Karen Ullrich"
+    },
+    {
+      "literal": "Polina Kirichenko"
+    },
+    {
+      "literal": "Ilia Kulikov"
+    },
+    {
+      "literal": "Niraj K. Jha"
+    },
+    {
+      "literal": "Mohammad Pezeshki"
+    },
+    {
+      "literal": "Mark Ibrahim"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        22
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.31846",
+  "genre": "preprint",
+  "version": "1"
+}
