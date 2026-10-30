@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2606.04329",
+  "citation-key": "arxiv_2606_04329",
+  "type": "article",
+  "title": "From Untrusted Input to Trusted Memory: A Systematic Study of Memory Poisoning Attacks in LLM Agents",
+  "URL": "https://arxiv.org/abs/2606.04329v2",
+  "custom": {
+    "catalog_id": "arxiv:2606.04329",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2606.04329",
+    "identifiers": {
+      "arxiv": "2606.04329"
+    },
+    "first_published_at": "2026-06-03",
+    "record_updated_at": "2026-06-18",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "19743ef5453b896036f492471a771c2c0243472374a82ec17931992520c01c07",
+      "submitted_at": "2026-06-03T01:04:13Z",
+      "updated_at": "2026-06-18T22:06:23Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2606.04329v2"
+    }
+  },
+  "note": "First published: 2026-06-03; Recorded arXiv version: v2; Recorded version updated: 2026-06-18T22:06:23Z.",
+  "author": [
+    {
+      "literal": "Pritam Dash"
+    },
+    {
+      "literal": "Tongyu Ge"
+    },
+    {
+      "literal": "Aditi Jain"
+    },
+    {
+      "literal": "Tanmay Shah"
+    },
+    {
+      "literal": "Zhiwei Shang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        3
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2606.04329",
+  "genre": "preprint",
+  "version": "2"
+}

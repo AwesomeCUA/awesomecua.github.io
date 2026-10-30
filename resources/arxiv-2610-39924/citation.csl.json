@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2610.39924",
+  "citation-key": "arxiv_2610_39924",
+  "type": "article",
+  "title": "PhysAg3D: Bridging 3D Generative and Agentic Models for High-Fidelity and Physically-Interactive Assets",
+  "URL": "https://arxiv.org/abs/2610.39924v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.39924",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.39924",
+    "identifiers": {
+      "arxiv": "2610.39924"
+    },
+    "first_published_at": "2026-10-29",
+    "record_updated_at": "2026-10-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "93ebb889646dbf53475b64a6b1971ebc3e537535eeb87e26e7b189e56d4cff03",
+      "submitted_at": "2026-10-29T12:29:27Z",
+      "updated_at": "2026-10-29T12:29:27Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.39924v1"
+    }
+  },
+  "note": "First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T12:29:27Z.",
+  "author": [
+    {
+      "literal": "Bi'an Du"
+    },
+    {
+      "literal": "Fanpeng Meng"
+    },
+    {
+      "literal": "Jiemin Fang"
+    },
+    {
+      "literal": "Chen Yang"
+    },
+    {
+      "literal": "Pufan Li"
+    },
+    {
+      "literal": "Daizong Liu"
+    },
+    {
+      "literal": "Qi Tian"
+    },
+    {
+      "literal": "Wei Hu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.39924",
+  "genre": "preprint",
+  "version": "1"
+}

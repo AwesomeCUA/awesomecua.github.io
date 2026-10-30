@@ -1,0 +1,72 @@
+{
+  "aliases": [],
+  "authors": [
+    "Debargha Ganguly",
+    "Divya Raghunathan",
+    "Dejan Jovanović",
+    "Vikash Singh",
+    "Soonho Kong",
+    "Aaron Tomb",
+    "Aman Goel",
+    "Ferhat Erata",
+    "Sam Bayless"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "94c7ecd3cde20346d16acefeb9a26930e6d149223e2070bba8de68bb324dd1a9",
+      "submitted_at": "2026-10-28T02:23:25Z",
+      "updated_at": "2026-10-28T02:23:25Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.38174v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-10-30T15:04:11Z",
+      "role": "primary",
+      "sha256": "7f9256183f3e2b1fab34f9f3216857e7c0ebe0945482301c048fb28b4301a0dd",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2603.22862%2C2604.01707%2C2605.07937%2C2605.17634%2C2606.04329%2C2610.38174%2C2610.39924&max_results=7"
+    }
+  ],
+  "id": "arxiv:2610.38174",
+  "identifiers": {
+    "arxiv": "2610.38174"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-10-30T15:04:11Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2610.38174"
+    }
+  ],
+  "name": "Scaling Lean Theorem Proving for Real-World Code Verification",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2026-10-28",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-10-28",
+  "url": "https://arxiv.org/abs/2610.38174"
+}

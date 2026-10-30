@@ -130871,6 +130871,94 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2603.22862v2",
+    "archive": "arXiv",
+    "archive_location": "2603.22862",
+    "author": [
+      {
+        "literal": "Haoyuan Xu"
+      },
+      {
+        "literal": "Chang Li"
+      },
+      {
+        "literal": "Xinyan Ma"
+      },
+      {
+        "literal": "Xianhao Ou"
+      },
+      {
+        "literal": "Zihan Zhang"
+      },
+      {
+        "literal": "Tao He"
+      },
+      {
+        "literal": "Xiangyu Liu"
+      },
+      {
+        "literal": "Zixiang Wang"
+      },
+      {
+        "literal": "Jiafeng Liang"
+      },
+      {
+        "literal": "Zheng Chu"
+      },
+      {
+        "literal": "Runxuan Liu"
+      },
+      {
+        "literal": "Rongchuan Mu"
+      },
+      {
+        "literal": "Dandan Tu"
+      },
+      {
+        "literal": "Ming Liu"
+      },
+      {
+        "literal": "Bing Qin"
+      }
+    ],
+    "citation-key": "arxiv_2603_22862",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7675ed4966084f420448bd1ccc0b8e635ec7c70da74f4e4f6e88cd6f37b4de51",
+        "submitted_at": "2026-03-24T07:05:05Z",
+        "updated_at": "2026-04-02T02:54:00Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2603.22862v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2603.22862",
+      "catalog_id": "arxiv:2603.22862",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-03-24",
+      "identifiers": {
+        "arxiv": "2603.22862"
+      },
+      "record_updated_at": "2026-04-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2603.22862",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2026-03-24; Recorded arXiv version: v2; Recorded version updated: 2026-04-02T02:54:00Z.",
+    "title": "The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2603.22917v1",
     "archive": "arXiv",
     "archive_location": "2603.22917",
@@ -133583,6 +133671,79 @@
     "title": "GPA: Learning GUI Process Automation from Demonstrations",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2604.01707v3",
+    "archive": "arXiv",
+    "archive_location": "2604.01707",
+    "author": [
+      {
+        "literal": "Yanchen Wu"
+      },
+      {
+        "literal": "Tenghui Lin"
+      },
+      {
+        "literal": "Yingli Zhou"
+      },
+      {
+        "literal": "Fangyuan Zhang"
+      },
+      {
+        "literal": "Qintian Guo"
+      },
+      {
+        "literal": "Xun Zhou"
+      },
+      {
+        "literal": "Sibo Wang"
+      },
+      {
+        "literal": "Xilin Liu"
+      },
+      {
+        "literal": "Yuchi Ma"
+      },
+      {
+        "literal": "Yixiang Fang"
+      }
+    ],
+    "citation-key": "arxiv_2604_01707",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "24da71a7248a39b187af800431d1a154b6cb2f092497c9921a7692be94bc9ce5",
+        "submitted_at": "2026-04-02T07:19:20Z",
+        "updated_at": "2026-08-06T02:59:56Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2604.01707v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.01707",
+      "catalog_id": "arxiv:2604.01707",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-04-02",
+      "identifiers": {
+        "arxiv": "2604.01707"
+      },
+      "record_updated_at": "2026-08-06"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.01707",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-02; Recorded arXiv version: v3; Recorded version updated: 2026-08-06T02:59:56Z.",
+    "title": "Memory in the LLM Era: Modular Architectures and Strategies in a Unified Framework",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2604.02345v1",
@@ -142396,6 +142557,64 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2605.07937v1",
+    "archive": "arXiv",
+    "archive_location": "2605.07937",
+    "author": [
+      {
+        "literal": "Anmol Gulati"
+      },
+      {
+        "literal": "Hariom Gupta"
+      },
+      {
+        "literal": "Elias Lumer"
+      },
+      {
+        "literal": "Sahil Sen"
+      },
+      {
+        "literal": "Vamse Kumar Subbiah"
+      }
+    ],
+    "citation-key": "arxiv_2605_07937",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "e60709cc61619fe665154f6cc3250c95a210da02b1cf25b6a84e39cd4342e166",
+        "submitted_at": "2026-05-08T16:08:03Z",
+        "updated_at": "2026-05-08T16:08:03Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.07937v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.07937",
+      "catalog_id": "arxiv:2605.07937",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-05-08",
+      "identifiers": {
+        "arxiv": "2605.07937"
+      },
+      "record_updated_at": "2026-05-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.07937",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-08; Recorded arXiv version: v1; Recorded version updated: 2026-05-08T16:08:03Z.",
+    "title": "Ask Early, Ask Late, Ask Right: When Does Clarification Timing Matter for Long-Horizon Agents?",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2605.08261v1",
     "archive": "arXiv",
     "archive_location": "2605.08261",
@@ -145209,6 +145428,55 @@
     "title": "Self-Improving CAD Generation Agents with Finite Element Analysis as Feedback",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.17634v1",
+    "archive": "arXiv",
+    "archive_location": "2605.17634",
+    "author": [
+      {
+        "literal": "Sahar Abdelnabi"
+      },
+      {
+        "literal": "Eugene Bagdasarian"
+      }
+    ],
+    "citation-key": "arxiv_2605_17634",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a443aedfcaa088a850dc57e585b958f178ef1e15e4461fa6aa0c68e6d74cbf09",
+        "submitted_at": "2026-05-17T19:55:39Z",
+        "updated_at": "2026-05-17T19:55:39Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.17634v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.17634",
+      "catalog_id": "arxiv:2605.17634",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-05-17",
+      "identifiers": {
+        "arxiv": "2605.17634"
+      },
+      "record_updated_at": "2026-05-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.17634",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-17; Recorded arXiv version: v1; Recorded version updated: 2026-05-17T19:55:39Z.",
+    "title": "AI Agents May Always Fall for Prompt Injections",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2605.17656v1",
@@ -150849,6 +151117,64 @@
     "title": "Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2606.04329v2",
+    "archive": "arXiv",
+    "archive_location": "2606.04329",
+    "author": [
+      {
+        "literal": "Pritam Dash"
+      },
+      {
+        "literal": "Tongyu Ge"
+      },
+      {
+        "literal": "Aditi Jain"
+      },
+      {
+        "literal": "Tanmay Shah"
+      },
+      {
+        "literal": "Zhiwei Shang"
+      }
+    ],
+    "citation-key": "arxiv_2606_04329",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "19743ef5453b896036f492471a771c2c0243472374a82ec17931992520c01c07",
+        "submitted_at": "2026-06-03T01:04:13Z",
+        "updated_at": "2026-06-18T22:06:23Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2606.04329v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2606.04329",
+      "catalog_id": "arxiv:2606.04329",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-06-03",
+      "identifiers": {
+        "arxiv": "2606.04329"
+      },
+      "record_updated_at": "2026-06-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2606.04329",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2026-06-03; Recorded arXiv version: v2; Recorded version updated: 2026-06-18T22:06:23Z.",
+    "title": "From Untrusted Input to Trusted Memory: A Systematic Study of Memory Poisoning Attacks in LLM Agents",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2606.04391v1",
@@ -194371,6 +194697,76 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.38174v1",
+    "archive": "arXiv",
+    "archive_location": "2610.38174",
+    "author": [
+      {
+        "literal": "Debargha Ganguly"
+      },
+      {
+        "literal": "Divya Raghunathan"
+      },
+      {
+        "literal": "Dejan Jovanović"
+      },
+      {
+        "literal": "Vikash Singh"
+      },
+      {
+        "literal": "Soonho Kong"
+      },
+      {
+        "literal": "Aaron Tomb"
+      },
+      {
+        "literal": "Aman Goel"
+      },
+      {
+        "literal": "Ferhat Erata"
+      },
+      {
+        "literal": "Sam Bayless"
+      }
+    ],
+    "citation-key": "arxiv_2610_38174",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "94c7ecd3cde20346d16acefeb9a26930e6d149223e2070bba8de68bb324dd1a9",
+        "submitted_at": "2026-10-28T02:23:25Z",
+        "updated_at": "2026-10-28T02:23:25Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.38174v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.38174",
+      "catalog_id": "arxiv:2610.38174",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-28",
+      "identifiers": {
+        "arxiv": "2610.38174"
+      },
+      "record_updated_at": "2026-10-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.38174",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          28
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-28; Recorded arXiv version: v1; Recorded version updated: 2026-10-28T02:23:25Z.",
+    "title": "Scaling Lean Theorem Proving for Real-World Code Verification",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.39234v1",
     "archive": "arXiv",
     "archive_location": "2610.39234",
@@ -194648,6 +195044,73 @@
     },
     "note": "First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T06:51:21Z.",
     "title": "InterA11y: Interactive Web Accessibility Error Detection with LLM Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.39924v1",
+    "archive": "arXiv",
+    "archive_location": "2610.39924",
+    "author": [
+      {
+        "literal": "Bi'an Du"
+      },
+      {
+        "literal": "Fanpeng Meng"
+      },
+      {
+        "literal": "Jiemin Fang"
+      },
+      {
+        "literal": "Chen Yang"
+      },
+      {
+        "literal": "Pufan Li"
+      },
+      {
+        "literal": "Daizong Liu"
+      },
+      {
+        "literal": "Qi Tian"
+      },
+      {
+        "literal": "Wei Hu"
+      }
+    ],
+    "citation-key": "arxiv_2610_39924",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "93ebb889646dbf53475b64a6b1971ebc3e537535eeb87e26e7b189e56d4cff03",
+        "submitted_at": "2026-10-29T12:29:27Z",
+        "updated_at": "2026-10-29T12:29:27Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.39924v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.39924",
+      "catalog_id": "arxiv:2610.39924",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-29",
+      "identifiers": {
+        "arxiv": "2610.39924"
+      },
+      "record_updated_at": "2026-10-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.39924",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T12:29:27Z.",
+    "title": "PhysAg3D: Bridging 3D Generative and Agentic Models for High-Fidelity and Physically-Interactive Assets",
     "type": "article",
     "version": "1"
   },

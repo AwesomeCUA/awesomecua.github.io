@@ -1,0 +1,88 @@
+{
+  "id": "arxiv:2603.22862",
+  "citation-key": "arxiv_2603_22862",
+  "type": "article",
+  "title": "The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration",
+  "URL": "https://arxiv.org/abs/2603.22862v2",
+  "custom": {
+    "catalog_id": "arxiv:2603.22862",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2603.22862",
+    "identifiers": {
+      "arxiv": "2603.22862"
+    },
+    "first_published_at": "2026-03-24",
+    "record_updated_at": "2026-04-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7675ed4966084f420448bd1ccc0b8e635ec7c70da74f4e4f6e88cd6f37b4de51",
+      "submitted_at": "2026-03-24T07:05:05Z",
+      "updated_at": "2026-04-02T02:54:00Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2603.22862v2"
+    }
+  },
+  "note": "First published: 2026-03-24; Recorded arXiv version: v2; Recorded version updated: 2026-04-02T02:54:00Z.",
+  "author": [
+    {
+      "literal": "Haoyuan Xu"
+    },
+    {
+      "literal": "Chang Li"
+    },
+    {
+      "literal": "Xinyan Ma"
+    },
+    {
+      "literal": "Xianhao Ou"
+    },
+    {
+      "literal": "Zihan Zhang"
+    },
+    {
+      "literal": "Tao He"
+    },
+    {
+      "literal": "Xiangyu Liu"
+    },
+    {
+      "literal": "Zixiang Wang"
+    },
+    {
+      "literal": "Jiafeng Liang"
+    },
+    {
+      "literal": "Zheng Chu"
+    },
+    {
+      "literal": "Runxuan Liu"
+    },
+    {
+      "literal": "Rongchuan Mu"
+    },
+    {
+      "literal": "Dandan Tu"
+    },
+    {
+      "literal": "Ming Liu"
+    },
+    {
+      "literal": "Bing Qin"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2603.22862",
+  "genre": "preprint",
+  "version": "2"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "arxiv:2610.38174",
+  "citation-key": "arxiv_2610_38174",
+  "type": "article",
+  "title": "Scaling Lean Theorem Proving for Real-World Code Verification",
+  "URL": "https://arxiv.org/abs/2610.38174v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.38174",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.38174",
+    "identifiers": {
+      "arxiv": "2610.38174"
+    },
+    "first_published_at": "2026-10-28",
+    "record_updated_at": "2026-10-28",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "94c7ecd3cde20346d16acefeb9a26930e6d149223e2070bba8de68bb324dd1a9",
+      "submitted_at": "2026-10-28T02:23:25Z",
+      "updated_at": "2026-10-28T02:23:25Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.38174v1"
+    }
+  },
+  "note": "First published: 2026-10-28; Recorded arXiv version: v1; Recorded version updated: 2026-10-28T02:23:25Z.",
+  "author": [
+    {
+      "literal": "Debargha Ganguly"
+    },
+    {
+      "literal": "Divya Raghunathan"
+    },
+    {
+      "literal": "Dejan Jovanović"
+    },
+    {
+      "literal": "Vikash Singh"
+    },
+    {
+      "literal": "Soonho Kong"
+    },
+    {
+      "literal": "Aaron Tomb"
+    },
+    {
+      "literal": "Aman Goel"
+    },
+    {
+      "literal": "Ferhat Erata"
+    },
+    {
+      "literal": "Sam Bayless"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        28
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.38174",
+  "genre": "preprint",
+  "version": "1"
+}
