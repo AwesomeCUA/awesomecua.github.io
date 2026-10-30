@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2610.40578",
+  "citation-key": "arxiv_2610_40578",
+  "type": "article",
+  "title": "VeriCUA: Verification as Agentic Exploration for Computer-Using Agents",
+  "URL": "https://arxiv.org/abs/2610.40578v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.40578",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.40578",
+    "identifiers": {
+      "arxiv": "2610.40578"
+    },
+    "first_published_at": "2026-10-29",
+    "record_updated_at": "2026-10-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "e980bb72fa77133e1252fc1863da696ec9cc147005176e3bd47f2422c43de5d5",
+      "submitted_at": "2026-10-29T17:45:26Z",
+      "updated_at": "2026-10-29T17:45:26Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.40578v1"
+    }
+  },
+  "note": "First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T17:45:26Z.",
+  "author": [
+    {
+      "literal": "Qiushi Sun"
+    },
+    {
+      "literal": "Da Yu"
+    },
+    {
+      "literal": "Alexander Knop"
+    },
+    {
+      "literal": "Amer Sinha"
+    },
+    {
+      "literal": "Lingpeng Kong"
+    },
+    {
+      "literal": "Ben Kao"
+    },
+    {
+      "literal": "Ravi Kumar"
+    },
+    {
+      "literal": "Pritish Kamath"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.40578",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2610.37786",
+  "citation-key": "arxiv_2610_37786",
+  "type": "article",
+  "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+  "URL": "https://arxiv.org/abs/2610.37786v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.37786",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.37786",
+    "identifiers": {
+      "arxiv": "2610.37786"
+    },
+    "first_published_at": "2026-10-27",
+    "record_updated_at": "2026-10-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f4747bb429a7b9c617f6119b4a94733b1bd6e6dc09573514b51da134b8a0144d",
+      "submitted_at": "2026-10-27T18:06:58Z",
+      "updated_at": "2026-10-27T18:06:58Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.37786v1"
+    }
+  },
+  "note": "First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T18:06:58Z.",
+  "author": [
+    {
+      "literal": "Tianci Xie"
+    },
+    {
+      "literal": "Zikun Cai"
+    },
+    {
+      "literal": "Chaoyun Zhang"
+    },
+    {
+      "literal": "Pinxue Guo"
+    },
+    {
+      "literal": "Bingxuan Li"
+    },
+    {
+      "literal": "Rui Zheng"
+    },
+    {
+      "literal": "Hang Yan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.37786",
+  "genre": "preprint",
+  "version": "1"
+}

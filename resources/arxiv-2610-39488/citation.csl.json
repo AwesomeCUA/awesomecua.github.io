@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2610.39488",
+  "citation-key": "arxiv_2610_39488",
+  "type": "article",
+  "title": "InterA11y: Interactive Web Accessibility Error Detection with LLM Agents",
+  "URL": "https://arxiv.org/abs/2610.39488v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.39488",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.39488",
+    "identifiers": {
+      "arxiv": "2610.39488"
+    },
+    "first_published_at": "2026-10-29",
+    "record_updated_at": "2026-10-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "37fb5f34af5db819aa5cd8c55dcccf6981a804af8ac4dfee6734e89658ce4380",
+      "submitted_at": "2026-10-29T06:51:21Z",
+      "updated_at": "2026-10-29T06:51:21Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.39488v1"
+    }
+  },
+  "note": "First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T06:51:21Z.",
+  "author": [
+    {
+      "literal": "Mingyuan Zhong"
+    },
+    {
+      "literal": "Mengqi Shi"
+    },
+    {
+      "literal": "Davin Win Kyi"
+    },
+    {
+      "literal": "Ajit Mallavarapu"
+    },
+    {
+      "literal": "Xia Chen"
+    },
+    {
+      "literal": "James Fogarty"
+    },
+    {
+      "literal": "Jacob O. Wobbrock"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.39488",
+  "genre": "preprint",
+  "version": "1"
+}

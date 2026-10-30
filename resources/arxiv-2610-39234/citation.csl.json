@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2610.39234",
+  "citation-key": "arxiv_2610_39234",
+  "type": "article",
+  "title": "AgentHeal: Evaluating Goal-Preserving Resource Recovery of Web Agents under Access Barriers",
+  "URL": "https://arxiv.org/abs/2610.39234v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.39234",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.39234",
+    "identifiers": {
+      "arxiv": "2610.39234"
+    },
+    "first_published_at": "2026-10-29",
+    "record_updated_at": "2026-10-29",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "cb7b5593eeb72f4ab572b395086f5226a477a9f7a59f61f6d4cefe009b3844ef",
+      "submitted_at": "2026-10-29T02:51:58Z",
+      "updated_at": "2026-10-29T02:51:58Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.39234v1"
+    }
+  },
+  "note": "First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T02:51:58Z.",
+  "author": [
+    {
+      "literal": "Zhiyi Liu"
+    },
+    {
+      "literal": "Haohua Du"
+    },
+    {
+      "literal": "Haoqi Sun"
+    },
+    {
+      "literal": "Haisheng Tan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.39234",
+  "genre": "preprint",
+  "version": "1"
+}
