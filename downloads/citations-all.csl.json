@@ -178158,6 +178158,61 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2609.22798v2",
+    "archive": "arXiv",
+    "archive_location": "2609.22798",
+    "author": [
+      {
+        "literal": "Seunghoon Cho"
+      },
+      {
+        "literal": "Wonsuhk Jung"
+      },
+      {
+        "literal": "Sundhar Vinodh Sangeetha"
+      },
+      {
+        "literal": "Shreyas Kousik"
+      }
+    ],
+    "citation-key": "arxiv_2609_22798",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5e4e23214d1352c95c3dfe4475ae59d24c04e64b541ee9c65f9940f0a4aab88e",
+        "submitted_at": "2026-09-19T06:01:54Z",
+        "updated_at": "2026-10-26T02:10:23Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2609.22798v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.22798",
+      "catalog_id": "arxiv:2609.22798",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-09-19",
+      "identifiers": {
+        "arxiv": "2609.22798"
+      },
+      "record_updated_at": "2026-10-26"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.22798",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-19; Recorded arXiv version: v2; Recorded version updated: 2026-10-26T02:10:23Z.",
+    "title": "Expert-Play Contouring Control: Faster-than-Demonstration Planning from Slow Expert and Fast Play",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2609.23986v1",
     "archive": "arXiv",
     "archive_location": "2609.23986",
