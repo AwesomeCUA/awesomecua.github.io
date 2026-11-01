@@ -1,0 +1,77 @@
+{
+  "aliases": [],
+  "authors": [
+    "Yuxuan Zhang",
+    "Cong Wei",
+    "Penghui Du",
+    "Bo Li",
+    "Junwen Miao",
+    "Huaisong Zhang",
+    "Songcheng Cai",
+    "Yubo Wang",
+    "Dongfu Jiang",
+    "Yuyu Zhang",
+    "Changqian Yu",
+    "Ping Nie",
+    "Wenhu Chen",
+    "Kelsey R. Allen"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "21450082f519548893921baa60c0980aa444f3be19d366e2966051f8949923cf",
+      "submitted_at": "2026-05-09T05:32:48Z",
+      "updated_at": "2026-10-12T10:20:42Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2605.08703v2"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-11-01T20:31:09Z",
+      "role": "primary",
+      "sha256": "a36304119442bb445e509560a71f2425314b744898011b6026e4da97a82ba37d",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2604.24696%2C2605.02661%2C2605.06717%2C2605.08703%2C2605.13831%2C2605.14271%2C2605.14678%2C2605.27882%2C2607.05804%2C2607.08768&max_results=10"
+    }
+  ],
+  "id": "arxiv:2605.08703",
+  "identifiers": {
+    "arxiv": "2605.08703"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-11-01T20:31:09Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2605.08703"
+    }
+  ],
+  "name": "RewardHarness: Self-Evolving Agentic Post-Training",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2026-05-09",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-10-12",
+  "url": "https://arxiv.org/abs/2605.08703"
+}

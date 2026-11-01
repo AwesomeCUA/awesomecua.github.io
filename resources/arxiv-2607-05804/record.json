@@ -1,0 +1,69 @@
+{
+  "aliases": [],
+  "authors": [
+    "Yuhang Zhou",
+    "Kai Zheng",
+    "Haoling Li",
+    "Dengyun Peng",
+    "Can Xu",
+    "Jingjing Chen"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c2992ed2a7c58d6315b5588c53e111532d04188d0fecb4901de6f399906c3cb8",
+      "submitted_at": "2026-07-07T03:56:35Z",
+      "updated_at": "2026-09-28T03:38:59Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2607.05804v2"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-11-01T20:31:09Z",
+      "role": "primary",
+      "sha256": "a36304119442bb445e509560a71f2425314b744898011b6026e4da97a82ba37d",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2604.24696%2C2605.02661%2C2605.06717%2C2605.08703%2C2605.13831%2C2605.14271%2C2605.14678%2C2605.27882%2C2607.05804%2C2607.08768&max_results=10"
+    }
+  ],
+  "id": "arxiv:2607.05804",
+  "identifiers": {
+    "arxiv": "2607.05804"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-11-01T20:31:09Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2607.05804"
+    }
+  ],
+  "name": "TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2026-07-07",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-09-28",
+  "url": "https://arxiv.org/abs/2607.05804"
+}

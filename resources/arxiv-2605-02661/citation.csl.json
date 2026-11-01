@@ -1,0 +1,277 @@
+{
+  "id": "arxiv:2605.02661",
+  "citation-key": "arxiv_2605_02661",
+  "type": "article",
+  "title": "AcademiClaw: When Students Set Challenges for AI Agents",
+  "URL": "https://arxiv.org/abs/2605.02661v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.02661",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.02661",
+    "identifiers": {
+      "arxiv": "2605.02661"
+    },
+    "first_published_at": "2026-05-04",
+    "record_updated_at": "2026-05-04",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3677e2a9247e01baea3294fafb808af019b014c163852da93a6c9b4c3a2390a2",
+      "submitted_at": "2026-05-04T14:40:42Z",
+      "updated_at": "2026-05-04T14:40:42Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.02661v1"
+    }
+  },
+  "note": "First published: 2026-05-04; Recorded arXiv version: v1; Recorded version updated: 2026-05-04T14:40:42Z.",
+  "author": [
+    {
+      "literal": "Junjie Yu"
+    },
+    {
+      "literal": "Pengrui Lu"
+    },
+    {
+      "literal": "Weiye Si"
+    },
+    {
+      "literal": "Hongliang Lu"
+    },
+    {
+      "literal": "Jiabao Wu"
+    },
+    {
+      "literal": "Kaiwen Tao"
+    },
+    {
+      "literal": "Kun Wang"
+    },
+    {
+      "literal": "Lingyu Yang"
+    },
+    {
+      "literal": "Qiran Zhang"
+    },
+    {
+      "literal": "Xiuting Guo"
+    },
+    {
+      "literal": "Xuanyu Wang"
+    },
+    {
+      "literal": "Yang Wang"
+    },
+    {
+      "literal": "Yanjie Wang"
+    },
+    {
+      "literal": "Yi Yang"
+    },
+    {
+      "literal": "Zijian Hu"
+    },
+    {
+      "literal": "Ziyi Yang"
+    },
+    {
+      "literal": "Zonghan Zhou"
+    },
+    {
+      "literal": "Binghao Qiang"
+    },
+    {
+      "literal": "Borui Zhang"
+    },
+    {
+      "literal": "Chenning Li"
+    },
+    {
+      "literal": "Enchang Zhang"
+    },
+    {
+      "literal": "Feifan Chen"
+    },
+    {
+      "literal": "Feng Jian"
+    },
+    {
+      "literal": "Fengyin Sun"
+    },
+    {
+      "literal": "Hao Qiu"
+    },
+    {
+      "literal": "Hao Zheng"
+    },
+    {
+      "literal": "Haoran Zhu"
+    },
+    {
+      "literal": "Hongyu Liu"
+    },
+    {
+      "literal": "Jianbin Deng"
+    },
+    {
+      "literal": "Jiaxin Song"
+    },
+    {
+      "literal": "Jiaying Chi"
+    },
+    {
+      "literal": "Jiayou Shi"
+    },
+    {
+      "literal": "Jie Fang"
+    },
+    {
+      "literal": "Jinghui Zhong"
+    },
+    {
+      "literal": "Jingyu Zhou"
+    },
+    {
+      "literal": "Jinze Li"
+    },
+    {
+      "literal": "Junfeng Yi"
+    },
+    {
+      "literal": "Junyan Yu"
+    },
+    {
+      "literal": "Junzhi Xue"
+    },
+    {
+      "literal": "Ni Song"
+    },
+    {
+      "literal": "Pengyi Chen"
+    },
+    {
+      "literal": "Qi Chen"
+    },
+    {
+      "literal": "Quansheng Li"
+    },
+    {
+      "literal": "Rui Tao"
+    },
+    {
+      "literal": "Shenghai Gong"
+    },
+    {
+      "literal": "Shenhang Lu"
+    },
+    {
+      "literal": "Tianqi Shen"
+    },
+    {
+      "literal": "Tianxiang Zhu"
+    },
+    {
+      "literal": "Tiehan Kang"
+    },
+    {
+      "literal": "Tingyu Li"
+    },
+    {
+      "literal": "Wendi Wu"
+    },
+    {
+      "literal": "Xiao Shen"
+    },
+    {
+      "literal": "Xiao Zhou"
+    },
+    {
+      "literal": "Xiaotao Zhang"
+    },
+    {
+      "literal": "Xinrong Li"
+    },
+    {
+      "literal": "Xuankun Yang"
+    },
+    {
+      "literal": "Xun Zhang"
+    },
+    {
+      "literal": "Yan Li"
+    },
+    {
+      "literal": "Ye Lu"
+    },
+    {
+      "literal": "Yi Wang"
+    },
+    {
+      "literal": "Yibo Zhou"
+    },
+    {
+      "literal": "Yichi Zhang"
+    },
+    {
+      "literal": "Yihao Sun"
+    },
+    {
+      "literal": "Yijun Huang"
+    },
+    {
+      "literal": "Yixin Zhu"
+    },
+    {
+      "literal": "Yixuan Wu"
+    },
+    {
+      "literal": "Yuchen Sun"
+    },
+    {
+      "literal": "Yue Wu"
+    },
+    {
+      "literal": "Yuheng Sun"
+    },
+    {
+      "literal": "Yukun Li"
+    },
+    {
+      "literal": "Yutian Tu"
+    },
+    {
+      "literal": "Yuxuan Qin"
+    },
+    {
+      "literal": "Yuzhuo Wu"
+    },
+    {
+      "literal": "Zeyu Li"
+    },
+    {
+      "literal": "Zhengyu Lou"
+    },
+    {
+      "literal": "Zhenning Ran"
+    },
+    {
+      "literal": "Zizhu He"
+    },
+    {
+      "literal": "Pengfei Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        4
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.02661",
+  "genre": "preprint",
+  "version": "1"
+}

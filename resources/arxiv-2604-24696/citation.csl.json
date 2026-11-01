@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2604.24696",
+  "citation-key": "arxiv_2604_24696",
+  "type": "article",
+  "title": "NeuroClaw Technical Report",
+  "URL": "https://arxiv.org/abs/2604.24696v3",
+  "custom": {
+    "catalog_id": "arxiv:2604.24696",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2604.24696",
+    "identifiers": {
+      "arxiv": "2604.24696"
+    },
+    "first_published_at": "2026-04-27",
+    "record_updated_at": "2026-06-16",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "154e3325754f7365954e8fc693dc12c314ba6029b809fe09fc6d2822fa7cb506",
+      "submitted_at": "2026-04-27T16:57:14Z",
+      "updated_at": "2026-06-16T05:47:56Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2604.24696v3"
+    }
+  },
+  "note": "First published: 2026-04-27; Recorded arXiv version: v3; Recorded version updated: 2026-06-16T05:47:56Z.",
+  "author": [
+    {
+      "literal": "Cheng Wang"
+    },
+    {
+      "literal": "Zhibin He"
+    },
+    {
+      "literal": "Zhihao Peng"
+    },
+    {
+      "literal": "Shengyuan Liu"
+    },
+    {
+      "literal": "Yufan Hu"
+    },
+    {
+      "literal": "Carl Yang"
+    },
+    {
+      "literal": "Lifang He"
+    },
+    {
+      "literal": "Lichao Sun"
+    },
+    {
+      "literal": "Xiang Li"
+    },
+    {
+      "literal": "Yixuan Yuan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2604.24696",
+  "genre": "preprint",
+  "version": "3"
+}

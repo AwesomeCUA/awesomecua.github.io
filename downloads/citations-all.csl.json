@@ -140106,6 +140106,79 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2604.24696v3",
+    "archive": "arXiv",
+    "archive_location": "2604.24696",
+    "author": [
+      {
+        "literal": "Cheng Wang"
+      },
+      {
+        "literal": "Zhibin He"
+      },
+      {
+        "literal": "Zhihao Peng"
+      },
+      {
+        "literal": "Shengyuan Liu"
+      },
+      {
+        "literal": "Yufan Hu"
+      },
+      {
+        "literal": "Carl Yang"
+      },
+      {
+        "literal": "Lifang He"
+      },
+      {
+        "literal": "Lichao Sun"
+      },
+      {
+        "literal": "Xiang Li"
+      },
+      {
+        "literal": "Yixuan Yuan"
+      }
+    ],
+    "citation-key": "arxiv_2604_24696",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "154e3325754f7365954e8fc693dc12c314ba6029b809fe09fc6d2822fa7cb506",
+        "submitted_at": "2026-04-27T16:57:14Z",
+        "updated_at": "2026-06-16T05:47:56Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2604.24696v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2604.24696",
+      "catalog_id": "arxiv:2604.24696",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-04-27",
+      "identifiers": {
+        "arxiv": "2604.24696"
+      },
+      "record_updated_at": "2026-06-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2604.24696",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-04-27; Recorded arXiv version: v3; Recorded version updated: 2026-06-16T05:47:56Z.",
+    "title": "NeuroClaw Technical Report",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2604.24964v1",
     "archive": "arXiv",
     "archive_location": "2604.24964",
@@ -141460,6 +141533,283 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2605.02661v1",
+    "archive": "arXiv",
+    "archive_location": "2605.02661",
+    "author": [
+      {
+        "literal": "Junjie Yu"
+      },
+      {
+        "literal": "Pengrui Lu"
+      },
+      {
+        "literal": "Weiye Si"
+      },
+      {
+        "literal": "Hongliang Lu"
+      },
+      {
+        "literal": "Jiabao Wu"
+      },
+      {
+        "literal": "Kaiwen Tao"
+      },
+      {
+        "literal": "Kun Wang"
+      },
+      {
+        "literal": "Lingyu Yang"
+      },
+      {
+        "literal": "Qiran Zhang"
+      },
+      {
+        "literal": "Xiuting Guo"
+      },
+      {
+        "literal": "Xuanyu Wang"
+      },
+      {
+        "literal": "Yang Wang"
+      },
+      {
+        "literal": "Yanjie Wang"
+      },
+      {
+        "literal": "Yi Yang"
+      },
+      {
+        "literal": "Zijian Hu"
+      },
+      {
+        "literal": "Ziyi Yang"
+      },
+      {
+        "literal": "Zonghan Zhou"
+      },
+      {
+        "literal": "Binghao Qiang"
+      },
+      {
+        "literal": "Borui Zhang"
+      },
+      {
+        "literal": "Chenning Li"
+      },
+      {
+        "literal": "Enchang Zhang"
+      },
+      {
+        "literal": "Feifan Chen"
+      },
+      {
+        "literal": "Feng Jian"
+      },
+      {
+        "literal": "Fengyin Sun"
+      },
+      {
+        "literal": "Hao Qiu"
+      },
+      {
+        "literal": "Hao Zheng"
+      },
+      {
+        "literal": "Haoran Zhu"
+      },
+      {
+        "literal": "Hongyu Liu"
+      },
+      {
+        "literal": "Jianbin Deng"
+      },
+      {
+        "literal": "Jiaxin Song"
+      },
+      {
+        "literal": "Jiaying Chi"
+      },
+      {
+        "literal": "Jiayou Shi"
+      },
+      {
+        "literal": "Jie Fang"
+      },
+      {
+        "literal": "Jinghui Zhong"
+      },
+      {
+        "literal": "Jingyu Zhou"
+      },
+      {
+        "literal": "Jinze Li"
+      },
+      {
+        "literal": "Junfeng Yi"
+      },
+      {
+        "literal": "Junyan Yu"
+      },
+      {
+        "literal": "Junzhi Xue"
+      },
+      {
+        "literal": "Ni Song"
+      },
+      {
+        "literal": "Pengyi Chen"
+      },
+      {
+        "literal": "Qi Chen"
+      },
+      {
+        "literal": "Quansheng Li"
+      },
+      {
+        "literal": "Rui Tao"
+      },
+      {
+        "literal": "Shenghai Gong"
+      },
+      {
+        "literal": "Shenhang Lu"
+      },
+      {
+        "literal": "Tianqi Shen"
+      },
+      {
+        "literal": "Tianxiang Zhu"
+      },
+      {
+        "literal": "Tiehan Kang"
+      },
+      {
+        "literal": "Tingyu Li"
+      },
+      {
+        "literal": "Wendi Wu"
+      },
+      {
+        "literal": "Xiao Shen"
+      },
+      {
+        "literal": "Xiao Zhou"
+      },
+      {
+        "literal": "Xiaotao Zhang"
+      },
+      {
+        "literal": "Xinrong Li"
+      },
+      {
+        "literal": "Xuankun Yang"
+      },
+      {
+        "literal": "Xun Zhang"
+      },
+      {
+        "literal": "Yan Li"
+      },
+      {
+        "literal": "Ye Lu"
+      },
+      {
+        "literal": "Yi Wang"
+      },
+      {
+        "literal": "Yibo Zhou"
+      },
+      {
+        "literal": "Yichi Zhang"
+      },
+      {
+        "literal": "Yihao Sun"
+      },
+      {
+        "literal": "Yijun Huang"
+      },
+      {
+        "literal": "Yixin Zhu"
+      },
+      {
+        "literal": "Yixuan Wu"
+      },
+      {
+        "literal": "Yuchen Sun"
+      },
+      {
+        "literal": "Yue Wu"
+      },
+      {
+        "literal": "Yuheng Sun"
+      },
+      {
+        "literal": "Yukun Li"
+      },
+      {
+        "literal": "Yutian Tu"
+      },
+      {
+        "literal": "Yuxuan Qin"
+      },
+      {
+        "literal": "Yuzhuo Wu"
+      },
+      {
+        "literal": "Zeyu Li"
+      },
+      {
+        "literal": "Zhengyu Lou"
+      },
+      {
+        "literal": "Zhenning Ran"
+      },
+      {
+        "literal": "Zizhu He"
+      },
+      {
+        "literal": "Pengfei Liu"
+      }
+    ],
+    "citation-key": "arxiv_2605_02661",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3677e2a9247e01baea3294fafb808af019b014c163852da93a6c9b4c3a2390a2",
+        "submitted_at": "2026-05-04T14:40:42Z",
+        "updated_at": "2026-05-04T14:40:42Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.02661v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.02661",
+      "catalog_id": "arxiv:2605.02661",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-05-04",
+      "identifiers": {
+        "arxiv": "2605.02661"
+      },
+      "record_updated_at": "2026-05-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.02661",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          4
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-04; Recorded arXiv version: v1; Recorded version updated: 2026-05-04T14:40:42Z.",
+    "title": "AcademiClaw: When Students Set Challenges for AI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2605.02729v1",
     "archive": "arXiv",
     "archive_location": "2605.02729",
@@ -142179,6 +142529,55 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2605.06717v1",
+    "archive": "arXiv",
+    "archive_location": "2605.06717",
+    "author": [
+      {
+        "literal": "Nghi D. Q. Bui"
+      },
+      {
+        "literal": "Georgios Evangelopoulos"
+      }
+    ],
+    "citation-key": "arxiv_2605_06717",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "191023ecfe1a3e49964ef5a7a051e817f3bf66393a1a3b75e07288da35126476",
+        "submitted_at": "2026-05-07T03:52:56Z",
+        "updated_at": "2026-05-07T03:52:56Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2605.06717v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.06717",
+      "catalog_id": "arxiv:2605.06717",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-05-07",
+      "identifiers": {
+        "arxiv": "2605.06717"
+      },
+      "record_updated_at": "2026-05-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.06717",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-07; Recorded arXiv version: v1; Recorded version updated: 2026-05-07T03:52:56Z.",
+    "title": "Agentic Coding Needs Proactivity, Not Just Autonomy",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2605.06727v2",
     "archive": "arXiv",
     "archive_location": "2605.06727",
@@ -142887,6 +143286,91 @@
     "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
     "type": "article",
     "version": "4"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.08703v2",
+    "archive": "arXiv",
+    "archive_location": "2605.08703",
+    "author": [
+      {
+        "literal": "Yuxuan Zhang"
+      },
+      {
+        "literal": "Cong Wei"
+      },
+      {
+        "literal": "Penghui Du"
+      },
+      {
+        "literal": "Bo Li"
+      },
+      {
+        "literal": "Junwen Miao"
+      },
+      {
+        "literal": "Huaisong Zhang"
+      },
+      {
+        "literal": "Songcheng Cai"
+      },
+      {
+        "literal": "Yubo Wang"
+      },
+      {
+        "literal": "Dongfu Jiang"
+      },
+      {
+        "literal": "Yuyu Zhang"
+      },
+      {
+        "literal": "Changqian Yu"
+      },
+      {
+        "literal": "Ping Nie"
+      },
+      {
+        "literal": "Wenhu Chen"
+      },
+      {
+        "literal": "Kelsey R. Allen"
+      }
+    ],
+    "citation-key": "arxiv_2605_08703",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "21450082f519548893921baa60c0980aa444f3be19d366e2966051f8949923cf",
+        "submitted_at": "2026-05-09T05:32:48Z",
+        "updated_at": "2026-10-12T10:20:42Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2605.08703v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.08703",
+      "catalog_id": "arxiv:2605.08703",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-05-09",
+      "identifiers": {
+        "arxiv": "2605.08703"
+      },
+      "record_updated_at": "2026-10-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.08703",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-09; Recorded arXiv version: v2; Recorded version updated: 2026-10-12T10:20:42Z.",
+    "title": "RewardHarness: Self-Evolving Agentic Post-Training",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2605.08876v3",
@@ -144141,6 +144625,85 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2605.13831v2",
+    "archive": "arXiv",
+    "archive_location": "2605.13831",
+    "author": [
+      {
+        "literal": "Zhaowei Wang"
+      },
+      {
+        "literal": "Lishu Luo"
+      },
+      {
+        "literal": "Haodong Duan"
+      },
+      {
+        "literal": "Weiwei Liu"
+      },
+      {
+        "literal": "Sijin Wu"
+      },
+      {
+        "literal": "Ji Luo"
+      },
+      {
+        "literal": "Shen Yan"
+      },
+      {
+        "literal": "Shuai Peng"
+      },
+      {
+        "literal": "Sihang Yuan"
+      },
+      {
+        "literal": "Chaoyi Huang"
+      },
+      {
+        "literal": "Yi Lin"
+      },
+      {
+        "literal": "Yangqiu Song"
+      }
+    ],
+    "citation-key": "arxiv_2605_13831",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cf1a5446f2e93d895c9807bb5d7bb0bc2ca3f52435b8cb2dc800dccfbb26defb",
+        "submitted_at": "2026-05-13T17:52:53Z",
+        "updated_at": "2026-10-18T16:19:51Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2605.13831v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.13831",
+      "catalog_id": "arxiv:2605.13831",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-05-13",
+      "identifiers": {
+        "arxiv": "2605.13831"
+      },
+      "record_updated_at": "2026-10-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.13831",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          13
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-13; Recorded arXiv version: v2; Recorded version updated: 2026-10-18T16:19:51Z.",
+    "title": "Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2605.14133v2",
     "archive": "arXiv",
     "archive_location": "2605.14133",
@@ -144213,6 +144776,82 @@
     },
     "note": "First published: 2026-05-13; Recorded arXiv version: v2; Recorded version updated: 2026-05-18T05:36:27Z.",
     "title": "ClawForge: Generating Executable Interactive Benchmarks for Command-Line Agents",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.14271v2",
+    "archive": "arXiv",
+    "archive_location": "2605.14271",
+    "author": [
+      {
+        "literal": "Chengzhi Liu"
+      },
+      {
+        "literal": "Yichen Guo"
+      },
+      {
+        "literal": "Yepeng Liu"
+      },
+      {
+        "literal": "Yuzhe Yang"
+      },
+      {
+        "literal": "Qianqi Yan"
+      },
+      {
+        "literal": "Xuandong Zhao"
+      },
+      {
+        "literal": "Wenyue Hua"
+      },
+      {
+        "literal": "Sheng Liu"
+      },
+      {
+        "literal": "Sharon Li"
+      },
+      {
+        "literal": "Yuheng Bu"
+      },
+      {
+        "literal": "Xin Eric Wang"
+      }
+    ],
+    "citation-key": "arxiv_2605_14271",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4dae76d7fe455a7c529188059105b42e449adfecd58914e4626f12fc5a69f4b5",
+        "submitted_at": "2026-05-14T02:14:28Z",
+        "updated_at": "2026-05-16T00:50:55Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2605.14271v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.14271",
+      "catalog_id": "arxiv:2605.14271",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-05-14",
+      "identifiers": {
+        "arxiv": "2605.14271"
+      },
+      "record_updated_at": "2026-05-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.14271",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-14; Recorded arXiv version: v2; Recorded version updated: 2026-05-16T00:50:55Z.",
+    "title": "Auditing Agent Harness Safety",
     "type": "article",
     "version": "2"
   },
@@ -144331,6 +144970,91 @@
     "title": "Multi-objective application placement in fog computing using graph neural network-based reinforcement learning",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.14678v3",
+    "archive": "arXiv",
+    "archive_location": "2605.14678",
+    "author": [
+      {
+        "literal": "Haoran Zhang"
+      },
+      {
+        "literal": "Luxin Xu"
+      },
+      {
+        "literal": "Zhilin Wang"
+      },
+      {
+        "literal": "Runquan Gui"
+      },
+      {
+        "literal": "Shunkai Zhang"
+      },
+      {
+        "literal": "Haodi Lei"
+      },
+      {
+        "literal": "Zihao He"
+      },
+      {
+        "literal": "Bingsu He"
+      },
+      {
+        "literal": "Chicheng Qin"
+      },
+      {
+        "literal": "Tong Zhu"
+      },
+      {
+        "literal": "Xiaoye Qu"
+      },
+      {
+        "literal": "Yang Yang"
+      },
+      {
+        "literal": "Yu Cheng"
+      },
+      {
+        "literal": "Yafu Li"
+      }
+    ],
+    "citation-key": "arxiv_2605_14678",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "cea582d98ba890c3969bfbda812c84fd9cd92c1ad62584d0d3f853c5b25c2ad4",
+        "submitted_at": "2026-05-14T10:47:04Z",
+        "updated_at": "2026-05-19T02:06:51Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2605.14678v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.14678",
+      "catalog_id": "arxiv:2605.14678",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-05-14",
+      "identifiers": {
+        "arxiv": "2605.14678"
+      },
+      "record_updated_at": "2026-05-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.14678",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          14
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-14; Recorded arXiv version: v3; Recorded version updated: 2026-05-19T02:06:51Z.",
+    "title": "$π$-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows",
+    "type": "article",
+    "version": "3"
   },
   {
     "URL": "https://arxiv.org/abs/2605.14747v1",
@@ -147761,6 +148485,52 @@
     "title": "AndroidDaily: A Verifiable Benchmark for Mobile GUI Agents on Real-World Closed-Source Applications",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2605.27882v2",
+    "archive": "arXiv",
+    "archive_location": "2605.27882",
+    "author": [
+      {
+        "literal": "Xiaohongshu Inc"
+      }
+    ],
+    "citation-key": "arxiv_2605_27882",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8c8b4ed07abc0581011ed3f997033226e9b8f3385ea09b767786e2c2ead4e0d5",
+        "submitted_at": "2026-05-27T03:06:18Z",
+        "updated_at": "2026-08-05T16:49:39Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2605.27882v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.27882",
+      "catalog_id": "arxiv:2605.27882",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-05-27",
+      "identifiers": {
+        "arxiv": "2605.27882"
+      },
+      "record_updated_at": "2026-08-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.27882",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          27
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-27; Recorded arXiv version: v2; Recorded version updated: 2026-08-05T16:49:39Z.",
+    "title": "VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2605.27898v3",
@@ -161039,6 +161809,67 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2607.05804v2",
+    "archive": "arXiv",
+    "archive_location": "2607.05804",
+    "author": [
+      {
+        "literal": "Yuhang Zhou"
+      },
+      {
+        "literal": "Kai Zheng"
+      },
+      {
+        "literal": "Haoling Li"
+      },
+      {
+        "literal": "Dengyun Peng"
+      },
+      {
+        "literal": "Can Xu"
+      },
+      {
+        "literal": "Jingjing Chen"
+      }
+    ],
+    "citation-key": "arxiv_2607_05804",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c2992ed2a7c58d6315b5588c53e111532d04188d0fecb4901de6f399906c3cb8",
+        "submitted_at": "2026-07-07T03:56:35Z",
+        "updated_at": "2026-09-28T03:38:59Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2607.05804v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.05804",
+      "catalog_id": "arxiv:2607.05804",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-07-07",
+      "identifiers": {
+        "arxiv": "2607.05804"
+      },
+      "record_updated_at": "2026-09-28"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.05804",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-07; Recorded arXiv version: v2; Recorded version updated: 2026-09-28T03:38:59Z.",
+    "title": "TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/2607.06008v3",
     "archive": "arXiv",
     "archive_location": "2607.06008",
@@ -161537,6 +162368,70 @@
     "title": "A Multi-Timescale Recursive Self-Improvement Engine for Open-Ended Persona Growth",
     "type": "article",
     "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.08768v1",
+    "archive": "arXiv",
+    "archive_location": "2607.08768",
+    "author": [
+      {
+        "literal": "Zhekai Chen"
+      },
+      {
+        "literal": "Chengqi Duan"
+      },
+      {
+        "literal": "Kaiyue Sun"
+      },
+      {
+        "literal": "Bohao Li"
+      },
+      {
+        "literal": "Yuqing Wang"
+      },
+      {
+        "literal": "Manyuan Zhang"
+      },
+      {
+        "literal": "Xihui Liu"
+      }
+    ],
+    "citation-key": "arxiv_2607_08768",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ba10828ed4aea0fe7907bcb3c98b3e6deca1e314aa1ff54310d6da506aedefcf",
+        "submitted_at": "2026-07-09T17:59:32Z",
+        "updated_at": "2026-07-09T17:59:32Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2607.08768v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.08768",
+      "catalog_id": "arxiv:2607.08768",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-07-09",
+      "identifiers": {
+        "arxiv": "2607.08768"
+      },
+      "record_updated_at": "2026-07-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.08768",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-09; Recorded arXiv version: v1; Recorded version updated: 2026-07-09T17:59:32Z.",
+    "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2607.08964v3",
