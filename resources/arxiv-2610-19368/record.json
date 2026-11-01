@@ -1,0 +1,74 @@
+{
+  "aliases": [],
+  "authors": [
+    "Qirui Jin",
+    "Kenan Li",
+    "Liao Zhu",
+    "Lingching Tung",
+    "Yikai Zhang",
+    "Yijia Wu",
+    "Zijian Jin",
+    "Pengfei Gao",
+    "Yu Kang",
+    "Qingwei Lin",
+    "Wenke Lee"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ba134964d3ab9913ed1d0da45cf22a2e355b0c18e1c9501e94a8a113bc41a2bf",
+      "submitted_at": "2026-10-14T01:12:46Z",
+      "updated_at": "2026-10-14T01:12:46Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.19368v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-11-01T15:10:23Z",
+      "role": "primary",
+      "sha256": "68cf050939b65c2147821ddd9b1508f1074aa589cb377f33b63c32ab810538be",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2610.19368&max_results=1"
+    }
+  ],
+  "id": "arxiv:2610.19368",
+  "identifiers": {
+    "arxiv": "2610.19368"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-11-01T15:10:23Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2610.19368"
+    }
+  ],
+  "name": "OS-Bench: Evaluating SWE Agents on Cross-OS Code Migration",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2026-10-14",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-10-14",
+  "url": "https://arxiv.org/abs/2610.19368"
+}

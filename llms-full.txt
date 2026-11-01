@@ -1,6 +1,6 @@
 # AwesomeCUA curated resource annotations
 
-Evidence snapshot: 2026-11-01T06:06:08Z. These records were reviewed with AI assistance; experiments are not independently reproduced.
+Evidence snapshot: 2026-11-01T15:10:23Z. These records were reviewed with AI assistance; experiments are not independently reproduced.
 
 Related reading: [English research survey](https://awesomecua.github.io/survey/). This working manuscript uses its own frozen inventory; its text is separate from the catalog annotations below.
 
@@ -41247,6 +41247,58 @@ Tanmay Gupta, Piper Wolters, Zixian Ma, Peter Sushko, Rock Yuren Pang, Diego Lla
 
 ---
 
+# ClawBench: Can AI Agents Complete Everyday Online Tasks?
+
+Introduces ClawBench, 153 everyday tasks on production websites in 15 categories; an interception layer blocks each final submission so bookings, purchases and job applications are scored without side effects.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2604-08523/
+- Original source: https://arxiv.org/abs/2604.08523
+- Kind: paper
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, workflow
+- Evidence checked: 2026-10-18T11:53:46Z
+- ID: arxiv:2604.08523
+
+## Limitations
+
+The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.
+
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2604-08523/record.json
+
+## Authors
+
+Yuxuan Zhang, Yubo Wang, Yipeng Zhu, Penghui Du, Junwen Miao, Xuan Lu, Zhuofeng Li, Xingwei Qu, Zhengkang Guo, Yuanzhe Shen, Dingjie Song, Han Zhou, Tuney Zheng, Xian Wu, Hao Yu, Songcheng Cai, Yi Lu, Yunzhuo Hao, Minyi Lei, Liang Chen, Kai Zou, Huifeng Yin, Wendong Xu, Dongfu Jiang, Ping Nie, Jiaheng Liu, Wenhu Chen, Kelsey R. Allen
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2604-08523/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2604-08523/citation.csl.json
+
+## Recorded arXiv snapshot
+
+- Version: 2
+- Version source: https://arxiv.org/abs/2604.08523v2
+- First submission: 2026-04-09T17:57:13Z
+- Version updated: 2026-07-20T17:58:40Z
+- Abstract SHA-256: 07c1dc2c31d2012b790a3497b5dfab558e8a663f92064c9f6996a770d3f5b8ad
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2603.12823%2C2603.14707%2C2603.15039%2C2603.17357%2C2603.18429%2C2603.19191%2C2603.24440%2C2603.25226%2C2603.25864%2C2603.26211%2C2603.26648%2C2603.29318%2C2604.01535%2C2604.02947%2C2604.04399%2C2604.05477%2C2604.06126%2C2604.06182%2C2604.06367%2C2604.07429%2C2604.08455%2C2604.08516%2C2604.08523%2C2604.09155%2C2604.09574%2C2604.09587%2C2604.09815%2C2604.09937%2C2604.11259%2C2604.11784%2C2604.12284%2C2604.13019%2C2604.13822%2C2604.14113%2C2604.14262%2C2604.14956%2C2604.15093%2C2604.15309%2C2604.17817%2C2604.17821%2C2604.18860%2C2604.24964%2C2604.25380%2C2604.25562%2C2604.27151%2C2604.27253%2C2604.27776%2C2605.00642%2C2605.06393%2C2605.06664&max_results=50 (retrieved 2026-10-16T06:32:00Z; SHA-256 4d09ebfb093e43a4c44adef86c8fa8374f90d907fc33bd8e12a1315e62d5a583)
+- https://export.arxiv.org/api/query?id_list=2604.08523 (retrieved 2026-10-18T11:53:46Z; SHA-256 e6011e7f11aab2272d1b5a38c317bfbe2eae9629258c726c7769985c5c566adb)
+
+---
+
 # CORA: Conformal Risk-Controlled Agents for Safeguarded Mobile GUI Automation
 
 Introduces CORA, which calibrates a risk model to choose between executing and abstaining from mobile GUI actions, then diagnoses rejected actions to suggest interventions. Phone-Harm provides step-level safety labels for evaluating this safeguarding process.
@@ -53629,6 +53681,58 @@ Chen Xiong, Zhiyuan He, Pin-Yu Chen, Stjepan Picek, Tsung-Yi Ho
 
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:32Z; SHA-256 13d3fb5811d203f2e6b80eb45d30ebc0b3cfefd88e2034ffa3b1b80687bef285)
 - https://export.arxiv.org/api/query?search_query=%28ti%3A%22computer+use%22+OR+ti%3A%22computer-use%22+OR+ti%3A%22GUI+agent%22+OR+ti%3A%22GUI+agents%22+OR+ti%3A%22GUI+grounding%22+OR+ti%3A%22web+agents%22+OR+ti%3A%22browser+agent%22%29+AND+submittedDate%3A%5B200001010000+TO+202610160636%5D&start=100&max_results=100&sortBy=submittedDate&sortOrder=descending (retrieved 2026-10-16T06:36:32Z; SHA-256 13d3fb5811d203f2e6b80eb45d30ebc0b3cfefd88e2034ffa3b1b80687bef285)
+
+---
+
+# WebWorld: The Browser as a World Model for Self-Improving Web Code
+
+Uses typed browser interaction contracts to accept web-code improvements only when target progress and previously verified capabilities are preserved. Accepted transitions supply self-improvement data.
+
+- Catalog URL: https://awesomecua.github.io/resources/arxiv-2608-30530/
+- Original source: https://arxiv.org/abs/2608.30530
+- Kind: paper
+- Review: curated
+- Scope: adjacent
+- Environments: web
+- Topics: evaluation, workflow, robustness, data-generation
+- Evidence checked: 2026-10-20T02:45:05Z
+- ID: arxiv:2608.30530
+
+## Limitations
+
+Adjacent browser-backed artifact validation, not a GUI navigation benchmark or original-source recovery. Distinct from WebWorld: A Large-Scale World Model for Web Agent Training. Results have not been independently reproduced.
+
+- Record JSON: https://awesomecua.github.io/resources/arxiv-2608-30530/record.json
+
+## Authors
+
+Jiajun Wu, Jian Yang, Yaxin Du, Wei Zhang, Haowen Wang, Junhang Cheng, Yuxuan Zhang, Tuney Zheng, Xianglong Liu, Ming Zhou
+
+## Citation exports
+
+- BibTeX: https://awesomecua.github.io/resources/arxiv-2608-30530/citation.bib
+- CSL JSON: https://awesomecua.github.io/resources/arxiv-2608-30530/citation.csl.json
+
+## Recorded arXiv snapshot
+
+- Version: 1
+- Version source: https://arxiv.org/abs/2608.30530v1
+- First submission: 2026-08-31T10:00:12Z
+- Version updated: 2026-08-31T10:00:12Z
+- Abstract SHA-256: 303922a5baff878afa9748fed22590c4838902b65682e5141f3a4a7de6ea5cb2
+- Abstract hash normalization: sha256-utf8-whitespace-collapsed-v1
+
+## License declarations
+
+- code: not recorded
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://export.arxiv.org/api/query?id_list=2212.04661%2C2508.20151%2C2604.05117%2C2604.08523%2C2605.08703%2C2605.30288%2C2606.06113%2C2606.06741%2C2606.11042%2C2606.11700%2C2606.18195%2C2607.04733%2C2607.12463%2C2607.15933%2C2608.14015%2C2608.17800%2C2608.19583%2C2608.30530%2C2608.31100%2C2608.31111%2C2609.00365%2C2609.01437%2C2609.07784%2C2609.34151%2C2609.36388%2C2610.02488%2C2610.20951%2C2610.21046&max_results=28 (retrieved 2026-10-20T02:45:05Z; SHA-256 f880f8415dd6faa6caa8d2a182345e7d7ed5e05d6812463a0b8259ef66893949)
+- https://export.arxiv.org/api/query?id_list=2212.04661%2C2508.20151%2C2604.05117%2C2604.08523%2C2605.08703%2C2605.30288%2C2606.06113%2C2606.06741%2C2606.11042%2C2606.11700%2C2606.18195%2C2607.04733%2C2607.12463%2C2607.15933%2C2608.14015%2C2608.17800%2C2608.19583%2C2608.30530%2C2608.31100%2C2608.31111%2C2609.00365%2C2609.01437%2C2609.07784%2C2609.34151%2C2609.36388%2C2610.02488%2C2610.20951%2C2610.21046&max_results=28 (retrieved 2026-10-20T02:45:05Z; SHA-256 f880f8415dd6faa6caa8d2a182345e7d7ed5e05d6812463a0b8259ef66893949)
 
 ---
 
@@ -71954,6 +72058,63 @@ Training code and checkpoint links are released. No root code-license declaratio
 - https://raw.githubusercontent.com/THUDM/WebRL/HEAD/README.md (retrieved 2026-10-17T02:02:06Z; SHA-256 eb217b96c54c3c2ccfd3a27255c6fd740df40c2d6743ae811858339bf7f740b0)
 - https://api.github.com/repos/THUDM/WebRL (retrieved 2026-10-17T02:02:05Z; SHA-256 42496cf0cff06a7f9e794f4313a10a670bc48df9909ec6d57763cb902bb229ea)
 - https://api.github.com/repos/THUDM/WebRL/git/trees/main?recursive=1 (retrieved 2026-10-17T02:02:05Z; SHA-256 bb1683c6fb5ff658c89f0ebf0f8baf8026bb703840e174c9e46b223c85a16856)
+
+---
+
+# ClawBench
+
+Everyday-task benchmark on live websites that runs browser agents in containerized Chromium, blocks each final submission request for scoring by URL match and an LLM judge, and records five layers of run evidence.
+
+- Catalog URL: https://awesomecua.github.io/resources/github-tiger-ai-lab-clawbench/
+- Original source: https://github.com/TIGER-AI-Lab/ClawBench
+- Kind: benchmark
+- Review: curated
+- Scope: core
+- Environments: web
+- Topics: evaluation, web-navigation, workflow, observability
+- Evidence checked: 2026-10-18T11:53:46Z
+- ID: github:tiger-ai-lab/clawbench
+
+## Limitations
+
+Renamed from reacher-z/ClawBench; both API names return repository 1206519531 (TIGER-AI-Lab/ClawBench), which is not a fork and not archived. Counts and scoring rules were read at commit 07eb50a3. The tree also holds v1-lite, claw-eval and environmental-observation task folders, which are not counted here. Task definitions and execution traces are also published as Hugging Face datasets (NAIL-Group/ClawBench, NAIL-Group/ClawBenchV1Trace, TIGER-Lab/ClawBenchV2Trace), whose cards and licenses were not reviewed for this record. Apache-2.0 is recorded for repository code only. Nothing was installed or run.
+
+- Record JSON: https://awesomecua.github.io/resources/github-tiger-ai-lab-clawbench/record.json
+
+## Structured profile
+
+- actions: harness-defined browser actions such as navigating, clicking and filling forms
+- evaluation: Two stages per task run: a request interceptor inside the container blocks the final HTTP request and marks the run intercepted when its URL regex and method match the task's eval_schema; an LLM judge (default deepseek-v4-pro at temperature 0) then checks the intercepted body against the instruction. A pass needs both. The original V1 paper rubric instead compares agent and human-reference trajectories.
+- focus: everyday online tasks on production websites, multi-step, write-heavy form workflows
+- observations: not recorded
+- setting: interactive
+
+### Count observations
+
+- 152 tasks — V1 corpus shipped in test-cases/v1 (task.json files) (computed) (computed; source: https://api.github.com/repos/TIGER-AI-Lab/ClawBench/git/trees/d12a2dda577f2c943a74d833e8253860eda81eaf?recursive=1)
+- 129 tasks — V2 corpus shipped in test-cases/v2 (task.json files) (computed) (computed; source: https://api.github.com/repos/TIGER-AI-Lab/ClawBench/git/trees/d12a2dda577f2c943a74d833e8253860eda81eaf?recursive=1)
+- 153 tasks — V1 corpus as published in the paper and used as the scoring denominator (reported; source: https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/07eb50a3d4c5a799f5ad4eebd57c67c10417787f/eval/scoring.md)
+- 130 tasks — V2 corpus as published and used as the scoring denominator (reported; source: https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/07eb50a3d4c5a799f5ad4eebd57c67c10417787f/eval/scoring.md)
+- 143 live websites — shipped V1 corpus (reported; source: https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/HEAD/README.md)
+- 63 live websites — shipped V2 corpus (reported; source: https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/HEAD/README.md)
+
+The README says two ASPCA tasks were removed after publication, so the shipped corpora hold 152 and 129 tasks while scoring.md still divides by 153 and 130. Live sites change over time, and the README asks for comparisons under the same corpus revision, harness and rubric. Agents run through selectable harnesses (for example Hermes and OpenClaw), so observations and actions depend on the harness.
+
+## License declarations
+
+- code: Apache-2.0 — https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/HEAD/LICENSE
+- data: not recorded
+- document: not recorded
+- weights: not recorded
+
+## Primary evidence
+
+- https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/HEAD/README.md (retrieved 2026-10-18T11:53:46Z; SHA-256 61bad2a8e6ab56df159237d75f1081e1246b294183b31ef7abe47193ac26b541)
+- https://api.github.com/repos/TIGER-AI-Lab/ClawBench/git/trees/d12a2dda577f2c943a74d833e8253860eda81eaf?recursive=1 (retrieved 2026-10-18T11:54:35Z; SHA-256 144a65c3dd92c7437e4ce065bed7b16e4c33496ea395d2bb1ecbd74132da29ce)
+- https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/07eb50a3d4c5a799f5ad4eebd57c67c10417787f/eval/scoring.md (retrieved 2026-10-18T11:54:36Z; SHA-256 8d8ade83a355e10800591435de5aa111e8d8297374b025ff88804358ee80b71a)
+- https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/HEAD/LICENSE (retrieved 2026-10-18T11:55:00Z; SHA-256 cb861e529412e9eec01498bdf4b74c5ee4f29139737a1193e39b24004019e606)
+- https://api.github.com/repos/reacher-z/ClawBench (retrieved 2026-10-18T11:54:36Z; SHA-256 4b80afa11f3998830090c9c186afc753f261cc05abbcd4d906400f757f41e4da)
+- https://api.github.com/repos/TIGER-AI-Lab/ClawBench (retrieved 2026-10-18T11:54:37Z; SHA-256 4b80afa11f3998830090c9c186afc753f261cc05abbcd4d906400f757f41e4da)
 
 ---
 

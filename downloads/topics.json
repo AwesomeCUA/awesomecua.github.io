@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "catalog_sha256": "21d94e65da6b2236b7e34a0c0fd578cfde57362edba25db7ceaf81b8491c4aeb",
+  "catalog_sha256": "8a224b2a22500feb17c9c8def9fca45417c9f100aa3fa38dd4329acc273939e5",
   "membership_policy": "Explicit reviewed topic tags only; curated core/adjacent resources. No title-based inference.",
   "count_policy": "Resources are not independent projects. Topic memberships overlap; do not sum topic totals.",
   "citation_policy": "Default retained-source edition; source-specific author/date precision and paper versions are preserved.",
-  "reviewed_resources": 1671,
-  "resources_with_topics": 1671,
+  "reviewed_resources": 1674,
+  "resources_with_topics": 1674,
   "reviewed_resources_without_topics": 0,
   "topics": [
     {
@@ -359,8 +359,8 @@
         "zh": "数据生成"
       },
       "counts": {
-        "total": 347,
-        "papers": 265,
+        "total": 348,
+        "papers": 266,
         "benchmarks": 0,
         "datasets": 55,
         "models": 2,
@@ -598,6 +598,7 @@
         "arxiv:2608.24848",
         "arxiv:2608.27866",
         "arxiv:2608.30207",
+        "arxiv:2608.30530",
         "arxiv:2609.02885",
         "arxiv:2609.05374",
         "arxiv:2609.05513",
@@ -723,21 +724,21 @@
       "exports": [
         {
           "url": "/downloads/topics/data-generation/records.jsonl",
-          "records": 347,
-          "bytes": 1106815,
-          "sha256": "d246186a08ebb46b727e665fea558b62f51a2d0f2cc3561dc735e68a0f559d13"
+          "records": 348,
+          "bytes": 1109804,
+          "sha256": "3b3ce47c03c7631631dfd9bfea5cb12820097ba2f10d125830fa7411c0cd7840"
         },
         {
           "url": "/downloads/topics/data-generation/citations.bib",
-          "records": 265,
-          "bytes": 213400,
-          "sha256": "94f8e6110a81e6071fec5b728f153e0a5d0d2809a9c31899bfceaa4dceb58cf5"
+          "records": 266,
+          "bytes": 214080,
+          "sha256": "824032658f6915f6f3f504427b517ee70c2c1f651772c480def6af67f163b4b7"
         },
         {
           "url": "/downloads/topics/data-generation/citations.csl.json",
-          "records": 265,
-          "bytes": 530748,
-          "sha256": "b9f081f02ec49df1df6573199eaeccd25fbcba44195664ca1e8310f726c0a183"
+          "records": 266,
+          "bytes": 532599,
+          "sha256": "22b700204531fcc186f6486488f8d3cf601bf603ef77bd22242fa4dfb663c141"
         }
       ]
     },
@@ -948,9 +949,9 @@
         "zh": "评测"
       },
       "counts": {
-        "total": 720,
-        "papers": 592,
-        "benchmarks": 87,
+        "total": 723,
+        "papers": 594,
+        "benchmarks": 88,
         "datasets": 9,
         "models": 1,
         "systems": 31,
@@ -1307,6 +1308,7 @@
         "arxiv:2604.06367",
         "arxiv:2604.06995",
         "arxiv:2604.07831",
+        "arxiv:2604.08523",
         "arxiv:2604.09155",
         "arxiv:2604.09581",
         "arxiv:2604.09937",
@@ -1448,6 +1450,7 @@
         "arxiv:2608.27808",
         "arxiv:2608.30038",
         "arxiv:2608.30207",
+        "arxiv:2608.30530",
         "arxiv:2609.00048",
         "arxiv:2609.00524",
         "arxiv:2609.02057",
@@ -1628,6 +1631,7 @@
         "github:thudm/agentbench",
         "github:thudm/android-lab",
         "github:thudm/visualagentbench",
+        "github:tiger-ai-lab/clawbench",
         "github:tml-epfl/os-harm",
         "github:tongyi-mai/mobileworld",
         "github:trycua/cua",
@@ -1685,21 +1689,21 @@
       "exports": [
         {
           "url": "/downloads/topics/evaluation/records.jsonl",
-          "records": 720,
-          "bytes": 2304375,
-          "sha256": "8c01fac810893fa10c45707cf4c7c618af05d24b3457b9f90f3693ae3be9261e"
+          "records": 723,
+          "bytes": 2317519,
+          "sha256": "8db37a3e65a5b6ddd9a20871ed7fff84f066b8edc7dd44f158b01ac84b3b2fcc"
         },
         {
           "url": "/downloads/topics/evaluation/citations.bib",
-          "records": 592,
-          "bytes": 433794,
-          "sha256": "35bbad28794e63fdd048ad90e7943081da13d5a16757d6a104c1ef94f01014a3"
+          "records": 594,
+          "bytes": 435443,
+          "sha256": "5c3fedfda88b84de80f54c226c2bc73664d9c6df2048fe1dc49408b8a5095105"
         },
         {
           "url": "/downloads/topics/evaluation/citations.csl.json",
-          "records": 592,
-          "bytes": 1100791,
-          "sha256": "dea14f3294d5ae64cd4230bce92b97ae3244762df5d23433a8c8c2f9c5f4e2bf"
+          "records": 594,
+          "bytes": 1105357,
+          "sha256": "1b919c1cec6f5f8ba07e47be1b24deeb01312c02425e4705a825b509bc9f7cd9"
         }
       ]
     },
@@ -3282,9 +3286,9 @@
         "zh": "可观测性"
       },
       "counts": {
-        "total": 42,
+        "total": 43,
         "papers": 38,
-        "benchmarks": 0,
+        "benchmarks": 1,
         "datasets": 0,
         "models": 0,
         "systems": 4,
@@ -3332,6 +3336,7 @@
         "github:aaronlab/browsertrace",
         "github:garyyang12345/gui-harvest",
         "github:omxyz/lumen",
+        "github:tiger-ai-lab/clawbench",
         "github:wlanderson0/orbit"
       ],
       "pages": {
@@ -3341,9 +3346,9 @@
       "exports": [
         {
           "url": "/downloads/topics/observability/records.jsonl",
-          "records": 42,
-          "bytes": 126708,
-          "sha256": "f985c09d97af44c70cb9f893227a43f7003d41cba2671f1974f819cdedaa28e9"
+          "records": 43,
+          "bytes": 133763,
+          "sha256": "ec8b51ac7ae9624375e0da167c17e2ca44e9c62d6a044672a80c8006b4703618"
         },
         {
           "url": "/downloads/topics/observability/citations.bib",
@@ -4141,8 +4146,8 @@
         "zh": "鲁棒性"
       },
       "counts": {
-        "total": 186,
-        "papers": 173,
+        "total": 187,
+        "papers": 174,
         "benchmarks": 10,
         "datasets": 1,
         "models": 0,
@@ -4283,6 +4288,7 @@
         "arxiv:2608.24015",
         "arxiv:2608.24099",
         "arxiv:2608.29305",
+        "arxiv:2608.30530",
         "arxiv:2609.02057",
         "arxiv:2609.03438",
         "arxiv:2609.04850",
@@ -4344,21 +4350,21 @@
       "exports": [
         {
           "url": "/downloads/topics/robustness/records.jsonl",
-          "records": 186,
-          "bytes": 580718,
-          "sha256": "5009347ea2b52d679ce96d01c2fee992289bb64c4b51f347f833f933fcdb3eeb"
+          "records": 187,
+          "bytes": 583707,
+          "sha256": "71a61d1dfc13e73786bd61c1bf43109f7cf59b4e6d6ea25161c5b2375eca4ef9"
         },
         {
           "url": "/downloads/topics/robustness/citations.bib",
-          "records": 173,
-          "bytes": 119278,
-          "sha256": "457e7d23ce9404b0f1d9fb6e8c02b10beef0c76c1152b02d4ef89032722759fa"
+          "records": 174,
+          "bytes": 119958,
+          "sha256": "2c85080507af5b213a0a762cbd9ca00592a98dc1128492bb97b90b4aac96fa17"
         },
         {
           "url": "/downloads/topics/robustness/citations.csl.json",
-          "records": 173,
-          "bytes": 307955,
-          "sha256": "9f1938a704f72be36410672c6310cd6612ed5ca8c5ac108cabb7619973bdb144"
+          "records": 174,
+          "bytes": 309806,
+          "sha256": "5bf537bddc7a925d12e386bea57ddd5243a63743a3533b6303657e23b7c3b941"
         }
       ]
     },
@@ -5669,9 +5675,9 @@
         "zh": "网页导航"
       },
       "counts": {
-        "total": 306,
-        "papers": 222,
-        "benchmarks": 17,
+        "total": 308,
+        "papers": 223,
+        "benchmarks": 18,
         "datasets": 8,
         "models": 11,
         "systems": 46,
@@ -5834,6 +5840,7 @@
         "arxiv:2604.02623",
         "arxiv:2604.06367",
         "arxiv:2604.08516",
+        "arxiv:2604.08523",
         "arxiv:2604.10988",
         "arxiv:2604.13318",
         "arxiv:2604.17821",
@@ -5941,6 +5948,7 @@
         "github:steel-dev/surf.new",
         "github:thudm/autowebglm",
         "github:thudm/webrl",
+        "github:tiger-ai-lab/clawbench",
         "github:vercel-labs/agent-browser",
         "github:web-arena-x/webarena",
         "github:webvln/webvln",
@@ -5992,21 +6000,21 @@
       "exports": [
         {
           "url": "/downloads/topics/web-navigation/records.jsonl",
-          "records": 306,
-          "bytes": 952983,
-          "sha256": "147301ca44c927d54ff9a3869bbe935fd0e298ec8af3b2b2a1246439db1df357"
+          "records": 308,
+          "bytes": 963138,
+          "sha256": "bffc1374842ada89b0c9ce8c1420fcfaa328059e2319b61e15994d0a0c83c837"
         },
         {
           "url": "/downloads/topics/web-navigation/citations.bib",
-          "records": 222,
-          "bytes": 173585,
-          "sha256": "aad5cd413284e53e8a4009f7dfdfcc69f3150227a8d1b45b8f1dd5f2132ada82"
+          "records": 223,
+          "bytes": 174554,
+          "sha256": "7674bb56db6176d6460d44a148209b7724d736fc34a8090d29c146ce9c30338b"
         },
         {
           "url": "/downloads/topics/web-navigation/citations.csl.json",
-          "records": 222,
-          "bytes": 415841,
-          "sha256": "3e5554cf032c5cb8310dcc0c28419a4957fe529ed19571d5f12745ece6d67e07"
+          "records": 223,
+          "bytes": 418556,
+          "sha256": "17fc4246c5eba22ca2398b7b2747cf762682dd2a84976318d201c0d6943e2eae"
         }
       ]
     },
@@ -6017,9 +6025,9 @@
         "zh": "工作流"
       },
       "counts": {
-        "total": 113,
-        "papers": 83,
-        "benchmarks": 6,
+        "total": 116,
+        "papers": 85,
+        "benchmarks": 7,
         "datasets": 2,
         "models": 0,
         "systems": 22,
@@ -6060,6 +6068,7 @@
         "arxiv:2603.24157",
         "arxiv:2603.24440",
         "arxiv:2604.01676",
+        "arxiv:2604.08523",
         "arxiv:2604.09937",
         "arxiv:2604.16520",
         "arxiv:2604.19742",
@@ -6089,6 +6098,7 @@
         "arxiv:2608.15930",
         "arxiv:2608.20319",
         "arxiv:2608.29596",
+        "arxiv:2608.30530",
         "arxiv:2609.02149",
         "arxiv:2609.04869",
         "arxiv:2609.13548",
@@ -6122,6 +6132,7 @@
         "github:skyvern-ai/skyvern",
         "github:stanfordnlp/wge",
         "github:theagentcompany/theagentcompany",
+        "github:tiger-ai-lab/clawbench",
         "github:trycua/cua",
         "github:unipat-ai/saas-bench",
         "github:wuklab/osworld-human",
@@ -6147,21 +6158,21 @@
       "exports": [
         {
           "url": "/downloads/topics/workflow/records.jsonl",
-          "records": 113,
-          "bytes": 336566,
-          "sha256": "ef7422a3ca4b6c3f05bd9edf989b78ada4955bdb825d43f9337ab3ca9fc5db0d"
+          "records": 116,
+          "bytes": 349710,
+          "sha256": "3933dff06097b8643ebea08823f1b1f73e039a98c1e9efa8b47bd5c1d6e69ca0"
         },
         {
           "url": "/downloads/topics/workflow/citations.bib",
-          "records": 83,
-          "bytes": 63324,
-          "sha256": "6e5f670bc0a8830df381b73da1ab1116a2196e896d184796058217d5145a9781"
+          "records": 85,
+          "bytes": 64973,
+          "sha256": "5574ffc8ddc1bb612f98002bea22675e4dabce0d47c48a9c5d2521827357ee0d"
         },
         {
           "url": "/downloads/topics/workflow/citations.csl.json",
-          "records": 83,
-          "bytes": 159274,
-          "sha256": "55a06bba697d3121da799910a9881977aafeec79b67456df1c9cd8ebff309a35"
+          "records": 85,
+          "bytes": 163840,
+          "sha256": "88bc34049d9afb35fab6c5b903f1a6b4acc9f34db69dbd6f5600409d179c6154"
         }
       ]
     },

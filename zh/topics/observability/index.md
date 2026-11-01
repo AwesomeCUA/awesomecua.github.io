@@ -83,6 +83,11 @@ Full source records: https://awesomecua.github.io/downloads/topics/observability
 - [AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents](https://awesomecua.github.io/resources/arxiv-2401-13178/) — 2024-01-24
   Introduces AgentBoard, a multiturn agent evaluation framework with intermediate progress metrics and analysis tools. Its broader task suite includes WebShop and WebArena interactions with stepwise progress measurements.
 
+## 评测基准
+
+- [ClawBench](https://awesomecua.github.io/resources/github-tiger-ai-lab-clawbench/) — Date not recorded
+  Everyday-task benchmark on live websites that runs browser agents in containerized Chromium, blocks each final submission request for scoring by URL match and an LLM judge, and records five layers of run evidence.
+
 ## 工程与产业
 
 - [BrowserTrace](https://awesomecua.github.io/resources/github-aaronlab-browsertrace/) — Date not recorded

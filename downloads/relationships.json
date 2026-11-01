@@ -1,5 +1,5 @@
 {
-  "relation_count": 413,
+  "relation_count": 414,
   "semantics": "Reviewed semantic links only. Documentation does not establish training or evaluation dependency.",
   "relations": [
     {
@@ -1480,6 +1480,14 @@
       "source_kind": "framework",
       "evidence_url": "https://raw.githubusercontent.com/THUDM/WebRL/HEAD/README.md",
       "target_id": "arxiv:2411.02337",
+      "type": "documented_by"
+    },
+    {
+      "source_id": "github:tiger-ai-lab/clawbench",
+      "source_name": "ClawBench",
+      "source_kind": "benchmark",
+      "evidence_url": "https://raw.githubusercontent.com/TIGER-AI-Lab/ClawBench/HEAD/README.md",
+      "target_id": "arxiv:2604.08523",
       "type": "documented_by"
     },
     {

@@ -41,7 +41,7 @@
     }
   },
   "environments": [
-    "unspecified"
+    "web"
   ],
   "evidence": [
     {
@@ -58,6 +58,22 @@
         "details.arxiv_snapshot"
       ],
       "url": "https://export.arxiv.org/api/query?id_list=2603.12823%2C2603.14707%2C2603.15039%2C2603.17357%2C2603.18429%2C2603.19191%2C2603.24440%2C2603.25226%2C2603.25864%2C2603.26211%2C2603.26648%2C2603.29318%2C2604.01535%2C2604.02947%2C2604.04399%2C2604.05477%2C2604.06126%2C2604.06182%2C2604.06367%2C2604.07429%2C2604.08455%2C2604.08516%2C2604.08523%2C2604.09155%2C2604.09574%2C2604.09587%2C2604.09815%2C2604.09937%2C2604.11259%2C2604.11784%2C2604.12284%2C2604.13019%2C2604.13822%2C2604.14113%2C2604.14262%2C2604.14956%2C2604.15093%2C2604.15309%2C2604.17817%2C2604.17821%2C2604.18860%2C2604.24964%2C2604.25380%2C2604.25562%2C2604.27151%2C2604.27253%2C2604.27776%2C2605.00642%2C2605.06393%2C2605.06664&max_results=50"
+    },
+    {
+      "method": "editorial_primary_review",
+      "retrieved_at": "2026-10-18T11:53:46Z",
+      "role": "primary",
+      "sha256": "e6011e7f11aab2272d1b5a38c317bfbe2eae9629258c726c7769985c5c566adb",
+      "supports": [
+        "name",
+        "kind",
+        "summary",
+        "environments",
+        "topics",
+        "scope",
+        "notes"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2604.08523"
     }
   ],
   "id": "arxiv:2604.08523",
@@ -65,7 +81,7 @@
     "arxiv": "2604.08523"
   },
   "kind": "paper",
-  "last_verified_at": "2026-10-16T06:32:00Z",
+  "last_verified_at": "2026-10-18T11:53:46Z",
   "licenses": {
     "code": null,
     "data": null,
@@ -74,18 +90,22 @@
   },
   "links": [
     {
-      "rel": "paper",
+      "rel": "primary",
       "url": "https://arxiv.org/abs/2604.08523"
     }
   ],
   "name": "ClawBench: Can AI Agents Complete Everyday Online Tasks?",
-  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "notes": "The annotation and scope were reviewed against the complete retained original arXiv abstract. Experiments, reported performance and artifact availability have not been independently reproduced.",
   "published_at": "2026-04-09",
   "relations": [],
-  "review_status": "metadata_verified",
-  "scope": "relevance_pending",
-  "summary": null,
-  "topics": [],
+  "review_status": "curated",
+  "scope": "core",
+  "summary": "Introduces ClawBench, 153 everyday tasks on production websites in 15 categories; an interception layer blocks each final submission so bookings, purchases and job applications are scored without side effects.",
+  "topics": [
+    "evaluation",
+    "web-navigation",
+    "workflow"
+  ],
   "updated_at": "2026-07-20",
   "url": "https://arxiv.org/abs/2604.08523"
 }

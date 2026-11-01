@@ -44,9 +44,9 @@ python3 scripts/catalog.py get arxiv:2404.07972 --related --json
 
 </details>
 
-**3,325 resource records** · **1,671 curated** · **2,854 paper and survey records** · **54 discovery documents**
+**3,328 resource records** · **1,674 curated** · **2,856 paper and survey records** · **54 discovery documents**
 
-Evidence snapshot: 2026-11-01T06:06:08Z. Bibliography counts overlap review-state counts. Resources are not independent projects.
+Evidence snapshot: 2026-11-01T15:10:23Z. Bibliography counts overlap review-state counts. Resources are not independent projects.
 
 ## What is a computer-use agent?
 
@@ -56,12 +56,12 @@ A computer-use agent observes software interfaces, chooses and executes actions,
 
 | Category | Records | Browse |
 | --- | ---: | --- |
-| Research papers | 2,835 | [Open directory](https://awesomecua.github.io/categories/paper/) |
+| Research papers | 2,837 | [Open directory](https://awesomecua.github.io/categories/paper/) |
 | Surveys | 19 | [Open directory](https://awesomecua.github.io/categories/survey/) |
 | Learning resources | 2 | [Open directory](https://awesomecua.github.io/categories/learning/) |
 | Models and checkpoints | 98 | [Open directory](https://awesomecua.github.io/categories/model/) |
 | Datasets | 86 | [Open directory](https://awesomecua.github.io/categories/dataset/) |
-| Benchmarks | 89 | [Open directory](https://awesomecua.github.io/categories/benchmark/) |
+| Benchmarks | 90 | [Open directory](https://awesomecua.github.io/categories/benchmark/) |
 | Agents | 45 | [Open directory](https://awesomecua.github.io/categories/agent/) |
 | Frameworks | 79 | [Open directory](https://awesomecua.github.io/categories/framework/) |
 | Infrastructure | 14 | [Open directory](https://awesomecua.github.io/categories/infrastructure/) |
