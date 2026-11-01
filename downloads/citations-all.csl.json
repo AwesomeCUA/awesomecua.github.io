@@ -79561,6 +79561,70 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2506.01520v1",
+    "archive": "arXiv",
+    "archive_location": "2506.01520",
+    "author": [
+      {
+        "literal": "Bobo Li"
+      },
+      {
+        "literal": "Yuheng Wang"
+      },
+      {
+        "literal": "Hao Fei"
+      },
+      {
+        "literal": "Juncheng Li"
+      },
+      {
+        "literal": "Wei Ji"
+      },
+      {
+        "literal": "Mong-Li Lee"
+      },
+      {
+        "literal": "Wynne Hsu"
+      }
+    ],
+    "citation-key": "arxiv_2506_01520",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d76a3740a32d528b3ee123b1b504be0ade628c6c44b842d835fddaa68ba649f7",
+        "submitted_at": "2025-06-02T10:34:57Z",
+        "updated_at": "2025-06-02T10:34:57Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2506.01520v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2506.01520",
+      "catalog_id": "arxiv:2506.01520",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2025-06-02",
+      "identifiers": {
+        "arxiv": "2506.01520"
+      },
+      "record_updated_at": "2025-06-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2506.01520",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2025-06-02; Recorded arXiv version: v1; Recorded version updated: 2025-06-02T10:34:57Z.",
+    "title": "FormFactory: An Interactive Benchmarking Suite for Multimodal Form-Filling Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2506.01616v1",
     "archive": "arXiv",
     "archive_location": "2506.01616",

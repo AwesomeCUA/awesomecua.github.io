@@ -1,7 +1,7 @@
 {
   "site_url": "https://awesomecua.github.io",
   "indexable_pages": 1932,
-  "metadata_only_pages": 1653,
+  "metadata_only_pages": 1654,
   "excluded_pages": 138,
   "pages": [
     {
@@ -5823,6 +5823,11 @@
       "path": "/resources/arxiv-2506-01423/",
       "indexable": false,
       "sha256": "b0d021f8bdc00143114fceda2b3ee9358b70c09bf57b708d4f547f23682a8738"
+    },
+    {
+      "path": "/resources/arxiv-2506-01520/",
+      "indexable": false,
+      "sha256": "23d3d4fb196b407a4fe179e80c04baa50b0408b8797feef4072885e951f5c52e"
     },
     {
       "path": "/resources/arxiv-2506-01616/",
@@ -17460,7 +17465,7 @@
     {
       "path": "/catalog/",
       "indexable": true,
-      "sha256": "3db47eed2a5428a3af7c4e63e94b548dc01e32ec91a6eb6cec19e3c623a3dd3c"
+      "sha256": "0afbb9461b517b0ffa7d0778b1bdb2bc52fad5df359374d4c9c0a7694a9923eb"
     },
     {
       "path": "/categories/paper/",
@@ -18690,7 +18695,7 @@
     {
       "path": "/coverage/",
       "indexable": true,
-      "sha256": "06193f439ffd1cac5447e6d4b4613aba741b55e638eb5f20cfb13409eed5d811"
+      "sha256": "d82088134059c9eef646615fd3ec89802ed0f891eb464f18c4e9cfc40131609f"
     },
     {
       "path": "/agents/",
@@ -18705,7 +18710,7 @@
     {
       "path": "/updates/",
       "indexable": true,
-      "sha256": "0fb2e3568c68755a8c9f8c7237a51ff028ebea6f283a16e12b53a633a6ce8fc4"
+      "sha256": "22822b8f004f2c556bf40049888a50ed4d98a9093d09c4ddb317ec88be16d00c"
     },
     {
       "path": "/badges/",
@@ -18720,12 +18725,12 @@
     {
       "path": "/data/",
       "indexable": true,
-      "sha256": "22aec36173b1513b08e889bd3ec6425af7a634141dd1de5daeac40e576cdcea1"
+      "sha256": "81055158d497266b47067dc856eb898c8b178be6bd452217a0c530b64f5bb8b6"
     },
     {
       "path": "/zh/data/",
       "indexable": true,
-      "sha256": "1064e304f5cb61482cc9028735ae0b3bb16da98dd44e0a22a76a13358137e13e"
+      "sha256": "0b414f22c13103afc07b7b2f41fbdffc4950fdd03cad5ff86ddfc336002a2b70"
     },
     {
       "path": "/guides/what-are-computer-use-agents/",
@@ -18750,12 +18755,12 @@
     {
       "path": "/zh/",
       "indexable": true,
-      "sha256": "e158de22372b445ed32a464fd0664703b554dca213130a769bf9dc2b44079b6c"
+      "sha256": "b708430f54965d0fa11ecd6a0ef1776827bf4e050e10bb838d9b3d12c4b9963e"
     },
     {
       "path": "/",
       "indexable": true,
-      "sha256": "08ac890f05fb0d1b4c364ad93c494cf1d5952a7dacfc3fcf7a1022d5df6595cc"
+      "sha256": "320744c4529160e79d52d40ad39fd5f92d0c0cf328a81a292b00706e94bab107"
     }
   ]
 }
