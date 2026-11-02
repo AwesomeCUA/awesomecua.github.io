@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2610.41272",
+  "citation-key": "arxiv_2610_41272",
+  "type": "article",
+  "title": "ANGLER: Verifier-Grounded Benchmarking with an Adaptive Attacker for Web Agents",
+  "URL": "https://arxiv.org/abs/2610.41272v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.41272",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.41272",
+    "identifiers": {
+      "arxiv": "2610.41272"
+    },
+    "first_published_at": "2026-10-30",
+    "record_updated_at": "2026-10-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "548f4dca75fedcce28f324be95bd045ae0e423460cd86288acfae298bf98b3cb",
+      "submitted_at": "2026-10-30T05:25:48Z",
+      "updated_at": "2026-10-30T05:25:48Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.41272v1"
+    }
+  },
+  "note": "First published: 2026-10-30; Recorded arXiv version: v1; Recorded version updated: 2026-10-30T05:25:48Z.",
+  "author": [
+    {
+      "literal": "Yini Huang"
+    },
+    {
+      "literal": "Aiwen LU"
+    },
+    {
+      "literal": "Zhen Sun"
+    },
+    {
+      "literal": "Yi Han"
+    },
+    {
+      "literal": "Yuzhi Zhao"
+    },
+    {
+      "literal": "Jiaheng Wei"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.41272",
+  "genre": "preprint",
+  "version": "1"
+}

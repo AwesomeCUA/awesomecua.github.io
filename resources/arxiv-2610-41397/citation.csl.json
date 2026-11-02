@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2610.41397",
+  "citation-key": "arxiv_2610_41397",
+  "type": "article",
+  "title": "Cross-Interface Authorization for AI Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2610.41397v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.41397",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.41397",
+    "identifiers": {
+      "arxiv": "2610.41397"
+    },
+    "first_published_at": "2026-10-30",
+    "record_updated_at": "2026-10-30",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0888b02c312139d5428277abd2cc950112313f75b391fefda50e70630c71c8a8",
+      "submitted_at": "2026-10-30T08:07:51Z",
+      "updated_at": "2026-10-30T08:07:51Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.41397v1"
+    }
+  },
+  "note": "First published: 2026-10-30; Recorded arXiv version: v1; Recorded version updated: 2026-10-30T08:07:51Z.",
+  "author": [
+    {
+      "literal": "Genliang Zhu"
+    },
+    {
+      "literal": "Chu Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        30
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.41397",
+  "genre": "preprint",
+  "version": "1"
+}
