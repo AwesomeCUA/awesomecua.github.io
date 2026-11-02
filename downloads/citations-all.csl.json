@@ -164107,6 +164107,55 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2607.16610v1",
+    "archive": "arXiv",
+    "archive_location": "2607.16610",
+    "author": [
+      {
+        "literal": "Chen Chen"
+      },
+      {
+        "literal": "Zhehuai Chen"
+      }
+    ],
+    "citation-key": "arxiv_2607_16610",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "08f20fd201af1932430da2a3429bd51d0dfc872c72171e3a016551b9746450b9",
+        "submitted_at": "2026-07-18T03:10:19Z",
+        "updated_at": "2026-07-18T03:10:19Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2607.16610v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.16610",
+      "catalog_id": "arxiv:2607.16610",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-07-18",
+      "identifiers": {
+        "arxiv": "2607.16610"
+      },
+      "record_updated_at": "2026-07-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.16610",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-18; Recorded arXiv version: v1; Recorded version updated: 2026-07-18T03:10:19Z.",
+    "title": "Just A Rather Very Intelligent Spoken Agent",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2607.16636v1",
     "archive": "arXiv",
     "archive_location": "2607.16636",
@@ -193350,6 +193399,55 @@
     },
     "note": "First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T18:59:21Z.",
     "title": "Deep Search in Real-World Web Environments",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.30202v1",
+    "archive": "arXiv",
+    "archive_location": "2610.30202",
+    "author": [
+      {
+        "literal": "Yiheng Li"
+      },
+      {
+        "literal": "Jingyue Li"
+      }
+    ],
+    "citation-key": "arxiv_2610_30202",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "f121404b2a3d1725036f25448be609cd9485141f32d7d7ace7525d19f228ebcb",
+        "submitted_at": "2026-10-21T10:27:56Z",
+        "updated_at": "2026-10-21T10:27:56Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.30202v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.30202",
+      "catalog_id": "arxiv:2610.30202",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-21",
+      "identifiers": {
+        "arxiv": "2610.30202"
+      },
+      "record_updated_at": "2026-10-21"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.30202",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          21
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-21; Recorded arXiv version: v1; Recorded version updated: 2026-10-21T10:27:56Z.",
+    "title": "MPIDetector: Detecting Multi-modal Prompt Injection via LLM-based Reasoning",
     "type": "article",
     "version": "1"
   },

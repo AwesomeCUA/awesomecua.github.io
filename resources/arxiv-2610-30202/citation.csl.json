@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2610.30202",
+  "citation-key": "arxiv_2610_30202",
+  "type": "article",
+  "title": "MPIDetector: Detecting Multi-modal Prompt Injection via LLM-based Reasoning",
+  "URL": "https://arxiv.org/abs/2610.30202v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.30202",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.30202",
+    "identifiers": {
+      "arxiv": "2610.30202"
+    },
+    "first_published_at": "2026-10-21",
+    "record_updated_at": "2026-10-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "f121404b2a3d1725036f25448be609cd9485141f32d7d7ace7525d19f228ebcb",
+      "submitted_at": "2026-10-21T10:27:56Z",
+      "updated_at": "2026-10-21T10:27:56Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.30202v1"
+    }
+  },
+  "note": "First published: 2026-10-21; Recorded arXiv version: v1; Recorded version updated: 2026-10-21T10:27:56Z.",
+  "author": [
+    {
+      "literal": "Yiheng Li"
+    },
+    {
+      "literal": "Jingyue Li"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.30202",
+  "genre": "preprint",
+  "version": "1"
+}

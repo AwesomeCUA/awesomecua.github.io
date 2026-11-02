@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "catalog_sha256": "5b2f2d0d8f315de8a563a7ae3d3c33633f15f48ad9d25125a466628e140d4f5b",
+  "catalog_sha256": "afaa204c58ead851231ea560f9a7dfc5ed2e1a63351d41e29fc55f99aba108a6",
   "document_grain": "One resource per document; related papers, code, models, and datasets remain separate resources.",
   "text_policy": "Catalog metadata and original annotations; no paper full text, copied full abstracts, weights, or training examples.",
   "review_policy": "Use review_status=curated for reviewed retrieval. metadata_verified records require an editorial relevance decision and can include source-reviewed holds.",
@@ -13,9 +13,9 @@
     },
     {
       "file": "rag-all-records.jsonl",
-      "records": 3344,
+      "records": 3346,
       "includes_metadata_only": true,
-      "sha256": "6c023694c431f5de1abcc86644493cefb93dc78cfca7cf4a91cdd985c4cfd376"
+      "sha256": "c9d38574395698532d31c63d16800066f2ea6d803fb44602ba4b0731904377a9"
     }
   ]
 }
