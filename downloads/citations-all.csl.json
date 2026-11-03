@@ -196958,6 +196958,294 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.41998v1",
+    "archive": "arXiv",
+    "archive_location": "2610.41998",
+    "author": [
+      {
+        "literal": "Sizhe Chen"
+      },
+      {
+        "literal": "Yibo Peng"
+      },
+      {
+        "literal": "Jaewon Chang"
+      },
+      {
+        "literal": "Chawin Sitawarin"
+      },
+      {
+        "literal": "David Wagner"
+      }
+    ],
+    "citation-key": "arxiv_2610_41998",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "2b6212241869749a4b314951fbe9f1b1add9a1cb31cf838b397b9582e3a6b708",
+        "submitted_at": "2026-10-30T16:43:17Z",
+        "updated_at": "2026-10-30T16:43:17Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.41998v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.41998",
+      "catalog_id": "arxiv:2610.41998",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-30",
+      "identifiers": {
+        "arxiv": "2610.41998"
+      },
+      "record_updated_at": "2026-10-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.41998",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-30; Recorded arXiv version: v1; Recorded version updated: 2026-10-30T16:43:17Z.",
+    "title": "SecPO: Principled Adversarial Training for Prompt Injection Security",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.02102v1",
+    "archive": "arXiv",
+    "archive_location": "2611.02102",
+    "author": [
+      {
+        "literal": "Chaoyun Zhang"
+      },
+      {
+        "literal": "Bingxuan Li"
+      },
+      {
+        "literal": "Pinxue Guo"
+      },
+      {
+        "literal": "Yangfan Gao"
+      },
+      {
+        "literal": "Zikun Cai"
+      },
+      {
+        "literal": "Tianci Xie"
+      },
+      {
+        "literal": "Hui Li"
+      },
+      {
+        "literal": "Yuqi Huang"
+      },
+      {
+        "literal": "Yifei Cao"
+      },
+      {
+        "literal": "Bo Mao"
+      },
+      {
+        "literal": "Tian Tang"
+      },
+      {
+        "literal": "Qichang Zheng"
+      },
+      {
+        "literal": "Tongtong Liu"
+      },
+      {
+        "literal": "Xiaoxing Wang"
+      },
+      {
+        "literal": "Jinxiu Liu"
+      },
+      {
+        "literal": "Lizhi Lin"
+      },
+      {
+        "literal": "Zhou Shao"
+      },
+      {
+        "literal": "Maosen Zhou"
+      },
+      {
+        "literal": "Miao Zheng"
+      },
+      {
+        "literal": "Shuo Zhang"
+      },
+      {
+        "literal": "Yangji He"
+      },
+      {
+        "literal": "Kepeng Lei"
+      },
+      {
+        "literal": "Ning Zhao"
+      },
+      {
+        "literal": "Wei Shen"
+      },
+      {
+        "literal": "Zhenjiang Jin"
+      },
+      {
+        "literal": "Xinyue Zhang"
+      },
+      {
+        "literal": "Peng Sun"
+      },
+      {
+        "literal": "Zhenhua Han"
+      },
+      {
+        "literal": "Rui Zheng"
+      },
+      {
+        "literal": "Hang Yan"
+      }
+    ],
+    "citation-key": "arxiv_2611_02102",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "412f07e169a733712e5230b5d6241398074c2a336686dd8bae06b79778078019",
+        "submitted_at": "2026-11-01T18:16:47Z",
+        "updated_at": "2026-11-01T18:16:47Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.02102v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.02102",
+      "catalog_id": "arxiv:2611.02102",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-01",
+      "identifiers": {
+        "arxiv": "2611.02102"
+      },
+      "record_updated_at": "2026-11-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.02102",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          1
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-01; Recorded arXiv version: v1; Recorded version updated: 2026-11-01T18:16:47Z.",
+    "title": "NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.03126v1",
+    "archive": "arXiv",
+    "archive_location": "2611.03126",
+    "author": [
+      {
+        "literal": "Xinlei Yu"
+      },
+      {
+        "literal": "Gen Li"
+      },
+      {
+        "literal": "Ji Zhao"
+      },
+      {
+        "literal": "Zhangquan Chen"
+      },
+      {
+        "literal": "Congcong Wang"
+      },
+      {
+        "literal": "Shuai Dong"
+      },
+      {
+        "literal": "Zelin Peng"
+      },
+      {
+        "literal": "Yuqi Xu"
+      },
+      {
+        "literal": "Hongrui Wu"
+      },
+      {
+        "literal": "Kaiwen Tuo"
+      },
+      {
+        "literal": "Cheng Yang"
+      },
+      {
+        "literal": "Kaituo Feng"
+      },
+      {
+        "literal": "Yifan Wu"
+      },
+      {
+        "literal": "Jiayi Zhang"
+      },
+      {
+        "literal": "Dongming Wu"
+      },
+      {
+        "literal": "Wenqi Shao"
+      },
+      {
+        "literal": "Jiaqi Wang"
+      },
+      {
+        "literal": "Xiangyu Yue"
+      }
+    ],
+    "citation-key": "arxiv_2611_03126",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b2baba048e4ada1e1d65899fc63c9285c751eb62fea5d53469d765f297759817",
+        "submitted_at": "2026-11-02T13:41:14Z",
+        "updated_at": "2026-11-02T13:41:14Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.03126v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.03126",
+      "catalog_id": "arxiv:2611.03126",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-02",
+      "identifiers": {
+        "arxiv": "2611.03126"
+      },
+      "record_updated_at": "2026-11-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.03126",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T13:41:14Z.",
+    "title": "CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "DOI": "10.1145/2983990.2984020",
     "URL": "https://doi.org/10.1145/2983990.2984020",
     "author": [

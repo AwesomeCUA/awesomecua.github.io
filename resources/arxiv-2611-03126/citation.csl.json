@@ -1,0 +1,97 @@
+{
+  "id": "arxiv:2611.03126",
+  "citation-key": "arxiv_2611_03126",
+  "type": "article",
+  "title": "CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements",
+  "URL": "https://arxiv.org/abs/2611.03126v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.03126",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.03126",
+    "identifiers": {
+      "arxiv": "2611.03126"
+    },
+    "first_published_at": "2026-11-02",
+    "record_updated_at": "2026-11-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b2baba048e4ada1e1d65899fc63c9285c751eb62fea5d53469d765f297759817",
+      "submitted_at": "2026-11-02T13:41:14Z",
+      "updated_at": "2026-11-02T13:41:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.03126v1"
+    }
+  },
+  "note": "First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T13:41:14Z.",
+  "author": [
+    {
+      "literal": "Xinlei Yu"
+    },
+    {
+      "literal": "Gen Li"
+    },
+    {
+      "literal": "Ji Zhao"
+    },
+    {
+      "literal": "Zhangquan Chen"
+    },
+    {
+      "literal": "Congcong Wang"
+    },
+    {
+      "literal": "Shuai Dong"
+    },
+    {
+      "literal": "Zelin Peng"
+    },
+    {
+      "literal": "Yuqi Xu"
+    },
+    {
+      "literal": "Hongrui Wu"
+    },
+    {
+      "literal": "Kaiwen Tuo"
+    },
+    {
+      "literal": "Cheng Yang"
+    },
+    {
+      "literal": "Kaituo Feng"
+    },
+    {
+      "literal": "Yifan Wu"
+    },
+    {
+      "literal": "Jiayi Zhang"
+    },
+    {
+      "literal": "Dongming Wu"
+    },
+    {
+      "literal": "Wenqi Shao"
+    },
+    {
+      "literal": "Jiaqi Wang"
+    },
+    {
+      "literal": "Xiangyu Yue"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.03126",
+  "genre": "preprint",
+  "version": "1"
+}
