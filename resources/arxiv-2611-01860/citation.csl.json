@@ -1,0 +1,85 @@
+{
+  "id": "arxiv:2611.01860",
+  "citation-key": "arxiv_2611_01860",
+  "type": "article",
+  "title": "Advances in Agentic Computer Graphics",
+  "URL": "https://arxiv.org/abs/2611.01860v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.01860",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.01860",
+    "identifiers": {
+      "arxiv": "2611.01860"
+    },
+    "first_published_at": "2026-11-01",
+    "record_updated_at": "2026-11-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3dbfa3d2ab1bb6fe5eb8e9e78d859671b4b5a0d54398ea64fb7b4935d2213db6",
+      "submitted_at": "2026-11-01T12:52:13Z",
+      "updated_at": "2026-11-01T12:52:13Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.01860v1"
+    }
+  },
+  "note": "First published: 2026-11-01; Recorded arXiv version: v1; Recorded version updated: 2026-11-01T12:52:13Z.",
+  "author": [
+    {
+      "literal": "Hengyu Liu"
+    },
+    {
+      "literal": "Jihyeon Je"
+    },
+    {
+      "literal": "Ruiqi Wang"
+    },
+    {
+      "literal": "Mingxuan Wu"
+    },
+    {
+      "literal": "Haven Feng"
+    },
+    {
+      "literal": "Qixing Huang"
+    },
+    {
+      "literal": "Georgios Pavlakos"
+    },
+    {
+      "literal": "Hao Zhang"
+    },
+    {
+      "literal": "Jiajun Wu"
+    },
+    {
+      "literal": "Maneesh Agrawala"
+    },
+    {
+      "literal": "Leonidas Guibas"
+    },
+    {
+      "literal": "R. Kenny Jones"
+    },
+    {
+      "literal": "Shangzhe Wu"
+    },
+    {
+      "literal": "Guandao Yang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.01860",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,0 +1,71 @@
+{
+  "aliases": [],
+  "authors": [
+    "Zheng Wu",
+    "Pengzhou Cheng",
+    "Zongru Wu",
+    "Yuan Guo",
+    "Tianjie Ju",
+    "Aston Zhang",
+    "Gongshen Liu",
+    "Zhuosheng Zhang"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "15542a3577d1cf52f37513b0dd85ff3fed32f752ec90de00dc7d85955d351a99",
+      "submitted_at": "2026-05-27T15:37:02Z",
+      "updated_at": "2026-05-27T15:37:02Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.28629v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-11-03T16:21:27Z",
+      "role": "primary",
+      "sha256": "18ce79259e66e3d119e3d1bd854de36ca5e269fbe7ac1d9e5f9f41a30948432a",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2605.28629%2C2610.32441%2C2610.40754%2C2611.01860%2C2611.03178%2C2611.03634&max_results=6"
+    }
+  ],
+  "id": "arxiv:2605.28629",
+  "identifiers": {
+    "arxiv": "2605.28629"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-11-03T16:21:27Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2605.28629"
+    }
+  ],
+  "name": "Mobile-Aptus: Confidence-Driven Proactive and Robust Interaction in MLLM-based Mobile-Using Agents",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2026-05-27",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-05-27",
+  "url": "https://arxiv.org/abs/2605.28629"
+}

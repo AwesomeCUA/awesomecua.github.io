@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "catalog_sha256": "882f840f048fb458e79ff303fa2cb80d05e4f33e7ed38b5852bc980b505b2c42",
+  "catalog_sha256": "6d5d5fb5fd096f11bb74e037899be8275ddfe6df444554715ab0e293ccc2a469",
   "membership_policy": "Explicit reviewed topic tags only; curated core/adjacent resources. No title-based inference.",
   "count_policy": "Resources are not independent projects. Topic memberships overlap; do not sum topic totals.",
   "citation_policy": "Default retained-source edition; source-specific author/date precision and paper versions are preserved.",

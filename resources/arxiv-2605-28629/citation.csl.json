@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2605.28629",
+  "citation-key": "arxiv_2605_28629",
+  "type": "article",
+  "title": "Mobile-Aptus: Confidence-Driven Proactive and Robust Interaction in MLLM-based Mobile-Using Agents",
+  "URL": "https://arxiv.org/abs/2605.28629v1",
+  "custom": {
+    "catalog_id": "arxiv:2605.28629",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.28629",
+    "identifiers": {
+      "arxiv": "2605.28629"
+    },
+    "first_published_at": "2026-05-27",
+    "record_updated_at": "2026-05-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "15542a3577d1cf52f37513b0dd85ff3fed32f752ec90de00dc7d85955d351a99",
+      "submitted_at": "2026-05-27T15:37:02Z",
+      "updated_at": "2026-05-27T15:37:02Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2605.28629v1"
+    }
+  },
+  "note": "First published: 2026-05-27; Recorded arXiv version: v1; Recorded version updated: 2026-05-27T15:37:02Z.",
+  "author": [
+    {
+      "literal": "Zheng Wu"
+    },
+    {
+      "literal": "Pengzhou Cheng"
+    },
+    {
+      "literal": "Zongru Wu"
+    },
+    {
+      "literal": "Yuan Guo"
+    },
+    {
+      "literal": "Tianjie Ju"
+    },
+    {
+      "literal": "Aston Zhang"
+    },
+    {
+      "literal": "Gongshen Liu"
+    },
+    {
+      "literal": "Zhuosheng Zhang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        27
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.28629",
+  "genre": "preprint",
+  "version": "1"
+}
