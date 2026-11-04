@@ -1,0 +1,68 @@
+{
+  "aliases": [],
+  "authors": [
+    "Yaxing Lyu",
+    "Shengjie Zhou",
+    "Binbin Toh",
+    "Pengyu Zhu",
+    "Lijun Li"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7ee7a69c666e4ec52d89d5c74c6861db7634ede354d2b15bd57715e4806c5636",
+      "submitted_at": "2026-09-03T09:35:14Z",
+      "updated_at": "2026-09-03T09:35:14Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2609.03588v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-11-04T00:39:09Z",
+      "role": "primary",
+      "sha256": "8ee154a79b7ac8ff7fe3db42ace23599c28300ee7458e007829a928534397af1",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2609.03588&max_results=1"
+    }
+  ],
+  "id": "arxiv:2609.03588",
+  "identifiers": {
+    "arxiv": "2609.03588"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-11-04T00:39:09Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2609.03588"
+    }
+  ],
+  "name": "KC-Bench: A Dynamic Interactive Benchmark for Evaluating Knowledge Conflicts in LLM Agents",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2026-09-03",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-09-03",
+  "url": "https://arxiv.org/abs/2609.03588"
+}

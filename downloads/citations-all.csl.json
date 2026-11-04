@@ -174460,6 +174460,64 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2609.03588v1",
+    "archive": "arXiv",
+    "archive_location": "2609.03588",
+    "author": [
+      {
+        "literal": "Yaxing Lyu"
+      },
+      {
+        "literal": "Shengjie Zhou"
+      },
+      {
+        "literal": "Binbin Toh"
+      },
+      {
+        "literal": "Pengyu Zhu"
+      },
+      {
+        "literal": "Lijun Li"
+      }
+    ],
+    "citation-key": "arxiv_2609_03588",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7ee7a69c666e4ec52d89d5c74c6861db7634ede354d2b15bd57715e4806c5636",
+        "submitted_at": "2026-09-03T09:35:14Z",
+        "updated_at": "2026-09-03T09:35:14Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2609.03588v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2609.03588",
+      "catalog_id": "arxiv:2609.03588",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-09-03",
+      "identifiers": {
+        "arxiv": "2609.03588"
+      },
+      "record_updated_at": "2026-09-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2609.03588",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-03; Recorded arXiv version: v1; Recorded version updated: 2026-09-03T09:35:14Z.",
+    "title": "KC-Bench: A Dynamic Interactive Benchmark for Evaluating Knowledge Conflicts in LLM Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2609.04173v2",
     "archive": "arXiv",
     "archive_location": "2609.04173",
@@ -197253,6 +197311,155 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2611.00191v1",
+    "archive": "arXiv",
+    "archive_location": "2611.00191",
+    "author": [
+      {
+        "literal": "Yizhou Liu"
+      },
+      {
+        "literal": "Zhengxi Lu"
+      },
+      {
+        "literal": "Fei Tang"
+      },
+      {
+        "literal": "Yiwen Qiu"
+      },
+      {
+        "literal": "Yong Du"
+      },
+      {
+        "literal": "Tongbo Chen"
+      },
+      {
+        "literal": "Bofan Chen"
+      },
+      {
+        "literal": "Tao Jiang"
+      },
+      {
+        "literal": "Wenhao Xu"
+      },
+      {
+        "literal": "Yunfeng Shu"
+      },
+      {
+        "literal": "Wenqi Zhang"
+      },
+      {
+        "literal": "Weiming Lu"
+      },
+      {
+        "literal": "Jun Xiao"
+      },
+      {
+        "literal": "Yueting Zhuang"
+      },
+      {
+        "literal": "Yongliang Shen"
+      }
+    ],
+    "citation-key": "arxiv_2611_00191",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0b177c726c0b424883b27fe84242632f4b270a8d9c0385cddfe9fa04d39196c9",
+        "submitted_at": "2026-10-30T17:41:46Z",
+        "updated_at": "2026-10-30T17:41:46Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.00191v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.00191",
+      "catalog_id": "arxiv:2611.00191",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-30",
+      "identifiers": {
+        "arxiv": "2611.00191"
+      },
+      "record_updated_at": "2026-10-30"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.00191",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          30
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-30; Recorded arXiv version: v1; Recorded version updated: 2026-10-30T17:41:46Z.",
+    "title": "MemU-Bench: Benchmarking GUI Agents on Long-Horizon User Interactions",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.01351v1",
+    "archive": "arXiv",
+    "archive_location": "2611.01351",
+    "author": [
+      {
+        "literal": "Jun Wang"
+      },
+      {
+        "literal": "Aurora Wei"
+      },
+      {
+        "literal": "Lucas Spangher"
+      },
+      {
+        "literal": "Ming Zhang"
+      },
+      {
+        "literal": "Eugene Ie"
+      },
+      {
+        "literal": "Yiannis Kantaros"
+      }
+    ],
+    "citation-key": "arxiv_2611_01351",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "457659cbb886b6dff8f1a434ebdf8982f1479a7ec6345c3aeff43ce809a8a749",
+        "submitted_at": "2026-10-31T23:44:52Z",
+        "updated_at": "2026-10-31T23:44:52Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.01351v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.01351",
+      "catalog_id": "arxiv:2611.01351",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-31",
+      "identifiers": {
+        "arxiv": "2611.01351"
+      },
+      "record_updated_at": "2026-10-31"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.01351",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          31
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-31; Recorded arXiv version: v1; Recorded version updated: 2026-10-31T23:44:52Z.",
+    "title": "MAPLE: A Multimodal Mobile Agent with Playbook-Learned Experience",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2611.01860v1",
     "archive": "arXiv",
     "archive_location": "2611.01860",
@@ -197334,6 +197541,64 @@
     },
     "note": "First published: 2026-11-01; Recorded arXiv version: v1; Recorded version updated: 2026-11-01T12:52:13Z.",
     "title": "Advances in Agentic Computer Graphics",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.01891v1",
+    "archive": "arXiv",
+    "archive_location": "2611.01891",
+    "author": [
+      {
+        "literal": "Leping Qiu"
+      },
+      {
+        "literal": "Jo Vermeulen"
+      },
+      {
+        "literal": "Tim Zindulka"
+      },
+      {
+        "literal": "George Fitzmaurice"
+      },
+      {
+        "literal": "Fraser Anderson"
+      }
+    ],
+    "citation-key": "arxiv_2611_01891",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d31a63e10d97c77517c1423a3ce546c55b312bf01370028c6ded06902a3ddd3f",
+        "submitted_at": "2026-11-01T13:34:04Z",
+        "updated_at": "2026-11-01T13:34:04Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.01891v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.01891",
+      "catalog_id": "arxiv:2611.01891",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-01",
+      "identifiers": {
+        "arxiv": "2611.01891"
+      },
+      "record_updated_at": "2026-11-01"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.01891",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          1
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-01; Recorded arXiv version: v1; Recorded version updated: 2026-11-01T13:34:04Z.",
+    "title": "Interface Quilt: Modifying Applications with Computer Use Agents and Generative UI",
     "type": "article",
     "version": "1"
   },
@@ -197467,6 +197732,186 @@
     },
     "note": "First published: 2026-11-01; Recorded arXiv version: v1; Recorded version updated: 2026-11-01T18:16:47Z.",
     "title": "NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.02472v1",
+    "archive": "arXiv",
+    "archive_location": "2611.02472",
+    "author": [
+      {
+        "literal": "Jingxuan Wei"
+      },
+      {
+        "literal": "Jiahao Fu"
+      },
+      {
+        "literal": "Fuqiang Wang"
+      },
+      {
+        "literal": "Xiaoming Wu"
+      },
+      {
+        "literal": "Yuwen Liu"
+      },
+      {
+        "literal": "Kaiwen Wei"
+      },
+      {
+        "literal": "Ming Yang"
+      },
+      {
+        "literal": "Junnan Zhu"
+      }
+    ],
+    "citation-key": "arxiv_2611_02472",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "587df3e746fbd39394bd52b68d984d2efbeb56ce5810c0983b4dd378bb033b8a",
+        "submitted_at": "2026-11-02T03:40:49Z",
+        "updated_at": "2026-11-02T03:40:49Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.02472v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.02472",
+      "catalog_id": "arxiv:2611.02472",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-02",
+      "identifiers": {
+        "arxiv": "2611.02472"
+      },
+      "record_updated_at": "2026-11-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.02472",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T03:40:49Z.",
+    "title": "MAGAR: Multimodal Agents for GUI-Based 3D Mechanical Assembly and Minimal Rework",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.02644v1",
+    "archive": "arXiv",
+    "archive_location": "2611.02644",
+    "author": [
+      {
+        "literal": "Yudou Ying"
+      },
+      {
+        "literal": "Pu Shi"
+      },
+      {
+        "literal": "Hanlei Shi"
+      },
+      {
+        "literal": "Yuhua Zheng"
+      }
+    ],
+    "citation-key": "arxiv_2611_02644",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8bd4bb23cf059fe53fab50b2bc29344841d9bdc74d7f7073121ccc11afa89dbf",
+        "submitted_at": "2026-11-02T07:06:26Z",
+        "updated_at": "2026-11-02T07:06:26Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.02644v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.02644",
+      "catalog_id": "arxiv:2611.02644",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-02",
+      "identifiers": {
+        "arxiv": "2611.02644"
+      },
+      "record_updated_at": "2026-11-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.02644",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T07:06:26Z.",
+    "title": "Coati: Host-Grounded Execution for Installable Mobile GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.03116v1",
+    "archive": "arXiv",
+    "archive_location": "2611.03116",
+    "author": [
+      {
+        "literal": "Xueyang Feng"
+      },
+      {
+        "literal": "Xiaohe Bo"
+      },
+      {
+        "literal": "Xu Chen"
+      },
+      {
+        "literal": "Quanyu Dai"
+      },
+      {
+        "literal": "Feng Wen"
+      }
+    ],
+    "citation-key": "arxiv_2611_03116",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0de510657d576e0c40a9518d597c4bb994f92fc2d978d47839ed4828efd2acc5",
+        "submitted_at": "2026-11-02T13:32:59Z",
+        "updated_at": "2026-11-02T13:32:59Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.03116v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.03116",
+      "catalog_id": "arxiv:2611.03116",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-02",
+      "identifiers": {
+        "arxiv": "2611.03116"
+      },
+      "record_updated_at": "2026-11-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.03116",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T13:32:59Z.",
+    "title": "From Local Skills to Long-Horizon Web Tasks: Progressive Skill Exploration for LLM Web Agents",
     "type": "article",
     "version": "1"
   },
@@ -197727,6 +198172,79 @@
     },
     "note": "First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T14:15:11Z.",
     "title": "CoworkOS:Scaling Agent Coworkers for Real-world Automation",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.03238v1",
+    "archive": "arXiv",
+    "archive_location": "2611.03238",
+    "author": [
+      {
+        "literal": "Daiqiang Li"
+      },
+      {
+        "literal": "Jingyi Peng"
+      },
+      {
+        "literal": "Rui Hu"
+      },
+      {
+        "literal": "Jia Li"
+      },
+      {
+        "literal": "Xuyang Liu"
+      },
+      {
+        "literal": "Guanren Qiao"
+      },
+      {
+        "literal": "Yujia Xiang"
+      },
+      {
+        "literal": "Qiuzhuang Sun"
+      },
+      {
+        "literal": "Zhiping Xu"
+      },
+      {
+        "literal": "Mingrui Luo"
+      }
+    ],
+    "citation-key": "arxiv_2611_03238",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "17f294fd8318b9bd60a3044d784432f62dcbc36101e74aa9b28806aa6890e4a6",
+        "submitted_at": "2026-11-02T14:50:06Z",
+        "updated_at": "2026-11-02T14:50:06Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.03238v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.03238",
+      "catalog_id": "arxiv:2611.03238",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-02",
+      "identifiers": {
+        "arxiv": "2611.03238"
+      },
+      "record_updated_at": "2026-11-02"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.03238",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          2
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T14:50:06Z.",
+    "title": "ScienceCUA: Resource-to-Skill Construction and Execution-Guided Skill Evolution for Scientific Computer Use Agents",
     "type": "article",
     "version": "1"
   },

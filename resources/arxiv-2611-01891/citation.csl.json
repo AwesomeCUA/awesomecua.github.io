@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2611.01891",
+  "citation-key": "arxiv_2611_01891",
+  "type": "article",
+  "title": "Interface Quilt: Modifying Applications with Computer Use Agents and Generative UI",
+  "URL": "https://arxiv.org/abs/2611.01891v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.01891",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.01891",
+    "identifiers": {
+      "arxiv": "2611.01891"
+    },
+    "first_published_at": "2026-11-01",
+    "record_updated_at": "2026-11-01",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d31a63e10d97c77517c1423a3ce546c55b312bf01370028c6ded06902a3ddd3f",
+      "submitted_at": "2026-11-01T13:34:04Z",
+      "updated_at": "2026-11-01T13:34:04Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.01891v1"
+    }
+  },
+  "note": "First published: 2026-11-01; Recorded arXiv version: v1; Recorded version updated: 2026-11-01T13:34:04Z.",
+  "author": [
+    {
+      "literal": "Leping Qiu"
+    },
+    {
+      "literal": "Jo Vermeulen"
+    },
+    {
+      "literal": "Tim Zindulka"
+    },
+    {
+      "literal": "George Fitzmaurice"
+    },
+    {
+      "literal": "Fraser Anderson"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        1
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.01891",
+  "genre": "preprint",
+  "version": "1"
+}

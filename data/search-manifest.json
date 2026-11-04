@@ -1,7 +1,7 @@
 {
   "site_url": "https://awesomecua.github.io",
   "indexable_pages": 1939,
-  "metadata_only_pages": 1681,
+  "metadata_only_pages": 1689,
   "excluded_pages": 138,
   "pages": [
     {
@@ -12690,6 +12690,11 @@
       "sha256": "492d3b5665b3dff19ef3872992247181aae028a0fbbb90f1867c9b4dd78198df"
     },
     {
+      "path": "/resources/arxiv-2609-03588/",
+      "indexable": false,
+      "sha256": "bbec05c6fa9c084f49715fd602098a82938399c63f661e5259ff295332ee4541"
+    },
+    {
       "path": "/resources/arxiv-2609-04173/",
       "indexable": false,
       "sha256": "4e97fbe1c62d872c277f966eaf5baeaad82e1bf00befeec8857a37d62d0c431a"
@@ -14335,14 +14340,44 @@
       "sha256": "8d9c7f07a809c70c51e30cec60457544f195c8a6a4e69b456797c595f00747f2"
     },
     {
+      "path": "/resources/arxiv-2611-00191/",
+      "indexable": false,
+      "sha256": "de8f2c2276d66efe3fe64ff718cd0c63d6b08cabc5f0a76dc53e24bd1f4324d5"
+    },
+    {
+      "path": "/resources/arxiv-2611-01351/",
+      "indexable": false,
+      "sha256": "988636bfd11e362f3fd70f4e4b1a98dcc6ee5a8c6f2a928de15343aeac9f5b3c"
+    },
+    {
       "path": "/resources/arxiv-2611-01860/",
       "indexable": false,
       "sha256": "d19a4c5a44c540788f95142d82906774f2df2b218ac776af68145f6f2d27eaba"
     },
     {
+      "path": "/resources/arxiv-2611-01891/",
+      "indexable": false,
+      "sha256": "9d6e0df2cc959e10689e45e3fdadf75174e32338962b7e32f40f6896272cb5bb"
+    },
+    {
       "path": "/resources/arxiv-2611-02102/",
       "indexable": false,
       "sha256": "3fbb65550c20863bd6c0484d252583da0b9ebd8621c33e50dde419a8530ab047"
+    },
+    {
+      "path": "/resources/arxiv-2611-02472/",
+      "indexable": false,
+      "sha256": "58c9581913a4b5d558585d6ef33e57a2f26388f5cbed58e7244051547d31eeeb"
+    },
+    {
+      "path": "/resources/arxiv-2611-02644/",
+      "indexable": false,
+      "sha256": "23c401e7bbe3e1531c7ff9ffa120144ffef7345749f4ec4596d1064bc68def75"
+    },
+    {
+      "path": "/resources/arxiv-2611-03116/",
+      "indexable": false,
+      "sha256": "5068732119a0f860d7864540874f0bfd5ed2612028f8069924d0d7038318ae06"
     },
     {
       "path": "/resources/arxiv-2611-03126/",
@@ -14353,6 +14388,11 @@
       "path": "/resources/arxiv-2611-03178/",
       "indexable": false,
       "sha256": "216d150ee38f9d27f9fac02de4d96893868e4fb9e220b3cba00d4fc20a0b0eb8"
+    },
+    {
+      "path": "/resources/arxiv-2611-03238/",
+      "indexable": false,
+      "sha256": "f7771c142a7cde2bf54d67e6eaf0a0ce3a05d633514260841368c12fb8683653"
     },
     {
       "path": "/resources/arxiv-2611-03634/",
@@ -17615,7 +17655,7 @@
     {
       "path": "/catalog/",
       "indexable": true,
-      "sha256": "c0215cd6bf9a855bc9b1dc6baa63e955ee24eebf40a80f38200dcb133e4ca23c"
+      "sha256": "8efc7b13a14087fa5dfab4f046e7f5470d09b6ce8f97dc3b6658c17053de5cd3"
     },
     {
       "path": "/categories/paper/",
@@ -18865,7 +18905,7 @@
     {
       "path": "/coverage/",
       "indexable": true,
-      "sha256": "bbca528767e69f5cd7ce66305322146bb96363c7b60e0dffeea3973f2766b31f"
+      "sha256": "710183d8a710c994ea15c9f377521ce21e77e03d3f57c5b5b5b4c5caaf725e57"
     },
     {
       "path": "/agents/",
@@ -18880,7 +18920,7 @@
     {
       "path": "/updates/",
       "indexable": true,
-      "sha256": "abd5acc0f2bdf1c903754efb0379d8f6a0967f28e51fc8521aa1c8f78cde8875"
+      "sha256": "950784dfd638f1111d22833bf3b29467228cf74d89c55cd5c7f993e7d005d57e"
     },
     {
       "path": "/badges/",
@@ -18895,12 +18935,12 @@
     {
       "path": "/data/",
       "indexable": true,
-      "sha256": "e77b692671e900c77f682e62f9837d6e1bece5c6361a83761f2ba5af7d2c8890"
+      "sha256": "e0069be647c535b8c023a5788da05af269f58d01fd39bb5c1da26b8d4a90f878"
     },
     {
       "path": "/zh/data/",
       "indexable": true,
-      "sha256": "3c3e656638a979f7af46bd69650fa258dfb4d235bac14175e301f219c049035e"
+      "sha256": "c0a9a47d3ff167b86519f7827b165c9db6bb39c6a778b9f7d91a8ecd57e14f19"
     },
     {
       "path": "/guides/what-are-computer-use-agents/",
@@ -18925,12 +18965,12 @@
     {
       "path": "/zh/",
       "indexable": true,
-      "sha256": "cdce8624a8e759f48fcceb113e37599db6198f88fd940ad3fe6eb9cb78e842ea"
+      "sha256": "ceb82e36e820519e6fcc4ed24089079697da84c96466a387f74eb1646f4a7036"
     },
     {
       "path": "/",
       "indexable": true,
-      "sha256": "cfc3a7bc3d8da8bfec28961ee8557fdcab9476a46abcce69ec604f89dcb6c76f"
+      "sha256": "df6299e0bce72f72066e2ec4e06a0f6f38b231f028cf778e747736e2d7eae68f"
     }
   ]
 }
