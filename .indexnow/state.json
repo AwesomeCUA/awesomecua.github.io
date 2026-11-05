@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "site": "https://awesomecua.com",
-  "accepted_at": "2026-11-05T20:56:22+00:00",
-  "manifest_sha256": "168da3f8539aa34a3f1aa486f1772e25546e41e4887647db3c2a8b059074ab2c",
-  "source_commit": "49989e1cf40f5e1aae0bdae4cc9d06ac4bfc0b9d",
+  "accepted_at": "2026-11-05T21:42:24+00:00",
+  "manifest_sha256": "791e4482fa4aa2bd223bbefb2c8934910945884f7237bf6980757b81c455ea10",
+  "source_commit": "9df80cb4ad06dc1b172f830839882bbf9df0fdb6",
   "accepted_pages": {
-    "/survey/": "3724e8d70060d9f5a74e8f6dfc6203d5f130b8c6bc98a3c7029347229770b19d",
+    "/survey/": "e089dad624432c927a636561ab84c58c5f77d4e966256516cd933b1e4457a672",
     "/resources/arxiv-1602-02261/": "d262cbf85f84c2a7f5afbffc84a0c3c2731764a1150039dcb414bf319140d8e7",
     "/resources/arxiv-1802-08802/": "92b4acf46fdcecd34044257dc00dc6309e2ab8bd1270a6d81d9e08a976ff9af3",
     "/resources/arxiv-1808-09132/": "982db564812a8948bc2f8b7173be70eb1d423e6007ad84e275ab1b3b8c00b0fa",

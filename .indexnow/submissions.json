@@ -21893,5 +21893,27 @@
     "publication_run": "https://github.com/AwesomeCUA/awesomecua.github.io/actions/runs/42106006614",
     "meaning": "Submission accepted; indexing is not guaranteed.",
     "response": ""
+  },
+  {
+    "submitted_at": "2026-11-05T21:42:24+00:00",
+    "provider": "IndexNow",
+    "endpoint": "https://api.indexnow.org/indexnow",
+    "site": "https://awesomecua.com",
+    "status": 200,
+    "url_count": 1,
+    "urls": [
+      "https://awesomecua.com/survey/"
+    ],
+    "changes": {
+      "new": 0,
+      "changed": 1,
+      "removed": 0
+    },
+    "indexable_pages": 1939,
+    "manifest_sha256": "791e4482fa4aa2bd223bbefb2c8934910945884f7237bf6980757b81c455ea10",
+    "source_commit": "9df80cb4ad06dc1b172f830839882bbf9df0fdb6",
+    "publication_run": "https://github.com/AwesomeCUA/awesomecua.github.io/actions/runs/42112900567",
+    "meaning": "Submission accepted; indexing is not guaranteed.",
+    "response": ""
   }
 ]
