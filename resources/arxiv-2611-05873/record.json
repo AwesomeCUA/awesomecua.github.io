@@ -1,0 +1,67 @@
+{
+  "aliases": [],
+  "authors": [
+    "Zimu Liu",
+    "Xiaoxi Guo",
+    "Xiaolu Tang",
+    "Liang Yu"
+  ],
+  "details": {
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d1dfd861e5aa36b204bba23cee1c0eda102ea8b7f9ad99d207186859147e4068",
+      "submitted_at": "2026-11-04T03:04:37Z",
+      "updated_at": "2026-11-04T03:04:37Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.05873v1"
+    }
+  },
+  "environments": [
+    "unspecified"
+  ],
+  "evidence": [
+    {
+      "method": "arxiv_api",
+      "retrieved_at": "2026-11-05T08:25:56Z",
+      "role": "primary",
+      "sha256": "f0738ff787e6bcacf21df5c9c49e73a06b1c446d146cd9f29f407b284eed10e2",
+      "supports": [
+        "name",
+        "authors",
+        "published_at",
+        "updated_at",
+        "identifiers.arxiv",
+        "details.arxiv_snapshot"
+      ],
+      "url": "https://export.arxiv.org/api/query?id_list=2611.05873%2C2611.06039%2C2611.06544%2C2611.06854&max_results=4"
+    }
+  ],
+  "id": "arxiv:2611.05873",
+  "identifiers": {
+    "arxiv": "2611.05873"
+  },
+  "kind": "paper",
+  "last_verified_at": "2026-11-05T08:25:56Z",
+  "licenses": {
+    "code": null,
+    "data": null,
+    "document": null,
+    "weights": null
+  },
+  "links": [
+    {
+      "rel": "paper",
+      "url": "https://arxiv.org/abs/2611.05873"
+    }
+  ],
+  "name": "Can LLM Agents Learn to Test? Maintaining Scoped Experience as Testing Evidence for Mobile GUI Testing",
+  "notes": "Bibliographic metadata checked against arXiv. Relevance and taxonomy await editorial review; presence is not an endorsement.",
+  "published_at": "2026-11-04",
+  "relations": [],
+  "review_status": "metadata_verified",
+  "scope": "relevance_pending",
+  "summary": null,
+  "topics": [],
+  "updated_at": "2026-11-04",
+  "url": "https://arxiv.org/abs/2611.05873"
+}
