@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 ## Authors
 
-Yuxuan Zhang, Cong Wei, Penghui Du, Bo Li, Junwen Miao, Huaisong Zhang, Songcheng Cai, Yubo Wang, Dongfu Jiang, Yuyu Zhang, Changqian Yu, Ping Nie, Wenhu Chen, Kelsey R. Allen
+[Authors: see the paper](https://arxiv.org/abs/2605.08703v2)
 
 ## Citation exports
 

@@ -20,7 +20,7 @@ Reviewed against the exact-version official arXiv abstract page; its complete ti
 
 ## Authors
 
-Zhe Wu, Hongjin Lu, Junliang Xing, Changhao Zhang, Yuxuan Li, Yin Zhu, Yuhao Yang, Yuheng Jing, Kai Li, Kun Shao, Jianye Hao, Jun Wang, Yuanchun Shi
+[Authors: see the paper](https://arxiv.org/abs/2510.14388v2)
 
 ## Citation exports
 

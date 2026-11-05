@@ -22,47 +22,10 @@
       "updated_at": "2026-01-29T14:47:04Z",
       "version": 2,
       "versioned_url": "https://arxiv.org/abs/2510.02190v2"
-    }
+    },
+    "authors_omitted": true
   },
-  "note": "First published: 2025-10-02; Recorded arXiv version: v2; Recorded version updated: 2026-01-29T14:47:04Z.",
-  "author": [
-    {
-      "literal": "Yang Yao"
-    },
-    {
-      "literal": "Yixu Wang"
-    },
-    {
-      "literal": "Yuxuan Zhang"
-    },
-    {
-      "literal": "Yi Lu"
-    },
-    {
-      "literal": "Tianle Gu"
-    },
-    {
-      "literal": "Lingyu Li"
-    },
-    {
-      "literal": "Dingyi Zhao"
-    },
-    {
-      "literal": "Keming Wu"
-    },
-    {
-      "literal": "Haozhe Wang"
-    },
-    {
-      "literal": "Ping Nie"
-    },
-    {
-      "literal": "Yan Teng"
-    },
-    {
-      "literal": "Yingchun Wang"
-    }
-  ],
+  "note": "First published: 2025-10-02; Recorded arXiv version: v2; Recorded version updated: 2026-01-29T14:47:04Z; Authors: see the paper (https://arxiv.org/abs/2510.02190v2); this catalog does not list them.",
   "issued": {
     "date-parts": [
       [

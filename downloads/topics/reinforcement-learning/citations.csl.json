@@ -5764,47 +5764,6 @@
     "URL": "https://arxiv.org/abs/2510.14388v2",
     "archive": "arXiv",
     "archive_location": "2510.14388",
-    "author": [
-      {
-        "literal": "Zhe Wu"
-      },
-      {
-        "literal": "Hongjin Lu"
-      },
-      {
-        "literal": "Junliang Xing"
-      },
-      {
-        "literal": "Changhao Zhang"
-      },
-      {
-        "literal": "Yuxuan Li"
-      },
-      {
-        "literal": "Yin Zhu"
-      },
-      {
-        "literal": "Yuhao Yang"
-      },
-      {
-        "literal": "Yuheng Jing"
-      },
-      {
-        "literal": "Kai Li"
-      },
-      {
-        "literal": "Kun Shao"
-      },
-      {
-        "literal": "Jianye Hao"
-      },
-      {
-        "literal": "Jun Wang"
-      },
-      {
-        "literal": "Yuanchun Shi"
-      }
-    ],
     "citation-key": "arxiv_2510_14388",
     "custom": {
       "arxiv_snapshot": {
@@ -5815,6 +5774,7 @@
         "version": 2,
         "versioned_url": "https://arxiv.org/abs/2510.14388v2"
       },
+      "authors_omitted": true,
       "canonical_source_url": "https://arxiv.org/abs/2510.14388",
       "catalog_id": "arxiv:2510.14388",
       "catalog_kind": "paper",
@@ -5837,7 +5797,7 @@
         ]
       ]
     },
-    "note": "First published: 2025-10-16; Recorded arXiv version: v2; Recorded version updated: 2026-02-06T02:04:25Z.",
+    "note": "First published: 2025-10-16; Recorded arXiv version: v2; Recorded version updated: 2026-02-06T02:04:25Z; Authors: see the paper (https://arxiv.org/abs/2510.14388v2); this catalog does not list them.",
     "title": "Hi-Agent: Hierarchical Vision-Language Agents for Mobile Device Control",
     "type": "article",
     "version": "2"
@@ -12414,137 +12374,6 @@
     "URL": "https://arxiv.org/abs/2609.12394v3",
     "archive": "arXiv",
     "archive_location": "2609.12394",
-    "author": [
-      {
-        "literal": "Tong Ye"
-      },
-      {
-        "literal": "Kunyang Han"
-      },
-      {
-        "literal": "Guozhi Wang"
-      },
-      {
-        "literal": "Longqiang Luo"
-      },
-      {
-        "literal": "Zhifeng Ding"
-      },
-      {
-        "literal": "Yongxiang Zhang"
-      },
-      {
-        "literal": "Xiaolei Shen"
-      },
-      {
-        "literal": "Yuxuan Zhang"
-      },
-      {
-        "literal": "Zhuping Zhang"
-      },
-      {
-        "literal": "Tao Xu"
-      },
-      {
-        "literal": "Yue Pan"
-      },
-      {
-        "literal": "Yucheng Zhao"
-      },
-      {
-        "literal": "Yupei Hu"
-      },
-      {
-        "literal": "Yuanjiang Ouyang"
-      },
-      {
-        "literal": "Danfeng Shen"
-      },
-      {
-        "literal": "Runqi Lin"
-      },
-      {
-        "literal": "Hongda Cai"
-      },
-      {
-        "literal": "Zhaoxiong Wang"
-      },
-      {
-        "literal": "Mengjia Yan"
-      },
-      {
-        "literal": "Yingjie Zhong"
-      },
-      {
-        "literal": "Chen Zhou"
-      },
-      {
-        "literal": "Zeyu Zhang"
-      },
-      {
-        "literal": "Xuwen Zhu"
-      },
-      {
-        "literal": "Penggang Shi"
-      },
-      {
-        "literal": "Mingcheng Luo"
-      },
-      {
-        "literal": "Ziyang Wu"
-      },
-      {
-        "literal": "Min Jin"
-      },
-      {
-        "literal": "Mingfu Shen"
-      },
-      {
-        "literal": "Zairong Xu"
-      },
-      {
-        "literal": "Fan Zhang"
-      },
-      {
-        "literal": "Hao Wang"
-      },
-      {
-        "literal": "Liang Liu"
-      },
-      {
-        "literal": "Zhulin Xie"
-      },
-      {
-        "literal": "Lijun Yao"
-      },
-      {
-        "literal": "Xiao Liang"
-      },
-      {
-        "literal": "Liangmin Wen"
-      },
-      {
-        "literal": "Liqiang Feng"
-      },
-      {
-        "literal": "Feilong Wu"
-      },
-      {
-        "literal": "Min Hu"
-      },
-      {
-        "literal": "Min Chen"
-      },
-      {
-        "literal": "Guanjing Xiong"
-      },
-      {
-        "literal": "Xiaohu Ruan"
-      },
-      {
-        "literal": "Xiaoxin Chen"
-      }
-    ],
     "citation-key": "arxiv_2609_12394",
     "custom": {
       "arxiv_snapshot": {
@@ -12555,6 +12384,7 @@
         "version": 3,
         "versioned_url": "https://arxiv.org/abs/2609.12394v3"
       },
+      "authors_omitted": true,
       "canonical_source_url": "https://arxiv.org/abs/2609.12394",
       "catalog_id": "arxiv:2609.12394",
       "catalog_kind": "paper",
@@ -12577,7 +12407,7 @@
         ]
       ]
     },
-    "note": "First published: 2026-09-11; Recorded arXiv version: v3; Recorded version updated: 2026-09-15T06:36:04Z.",
+    "note": "First published: 2026-09-11; Recorded arXiv version: v3; Recorded version updated: 2026-09-15T06:36:04Z; Authors: see the paper (https://arxiv.org/abs/2609.12394v3); this catalog does not list them.",
     "title": "BlueLM-GUI Technical Report: A Real-Device-Centric Flywheel for Self-Improving Mobile GUI Agents",
     "type": "article",
     "version": "3"

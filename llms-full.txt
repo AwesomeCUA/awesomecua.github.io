@@ -3537,7 +3537,7 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 ## Authors
 
-Wenyi Hong, Weihan Wang, Qingsong Lv, Jiazheng Xu, Wenmeng Yu, Junhui Ji, Yan Wang, Zihan Wang, Yuxuan Zhang, Juanzi Li, Bin Xu, Yuxiao Dong, Ming Ding, Jie Tang
+[Authors: see the paper](https://arxiv.org/abs/2312.08914v3)
 
 ## Citation exports
 
@@ -3547,7 +3547,7 @@ Wenyi Hong, Weihan Wang, Qingsong Lv, Jiazheng Xu, Wenmeng Yu, Junhui Ji, Yan Wa
 ## Publication record
 
 - Title: CogAgent: A Visual Language Model for GUI Agents
-- Authors: Wenyi Hong, Weihan Wang, Qingsong Lv, Jiazheng Xu, Wenmeng Yu, Junhui Ji, Yan Wang, Zihan Wang, Yuxiao Dong, Ming Ding, Jie Tang
+- Authors: see the paper (https://openaccess.thecvf.com/content/CVPR2024/html/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.html)
 - Publication date (recorded precision): 2024-06
 - Publication source: https://openaccess.thecvf.com/content/CVPR2024/html/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2312-08914/publication-citation.bib
@@ -29876,7 +29876,7 @@ Reviewed against the exact-version official arXiv abstract page; its complete ti
 
 ## Authors
 
-Zhe Wu, Hongjin Lu, Junliang Xing, Changhao Zhang, Yuxuan Li, Yin Zhu, Yuhao Yang, Yuheng Jing, Kai Li, Kun Shao, Jianye Hao, Jun Wang, Yuanchun Shi
+[Authors: see the paper](https://arxiv.org/abs/2510.14388v2)
 
 ## Citation exports
 
@@ -34609,7 +34609,7 @@ The annotation was reviewed against the complete retained official abstract. Exp
 
 ## Authors
 
-Taofeng Xue, Chong Peng, Mianqiu Huang, Linsen Guo, Tiancheng Han, Haozhe Wang, Jianing Wang, Xiaocheng Zhang, Xin Yang, Dengchang Zhao, Jinrui Ding, Xiandi Ma, Yuchen Xie, Peng Pei, Xunliang Cai, Xipeng Qiu
+[Authors: see the paper](https://arxiv.org/abs/2601.15876v2)
 
 ## Citation exports
 
@@ -41269,7 +41269,7 @@ The annotation and scope were reviewed against the complete retained original ar
 
 ## Authors
 
-Yuxuan Zhang, Yubo Wang, Yipeng Zhu, Penghui Du, Junwen Miao, Xuan Lu, Zhuofeng Li, Xingwei Qu, Zhengkang Guo, Yuanzhe Shen, Dingjie Song, Han Zhou, Tuney Zheng, Xian Wu, Hao Yu, Songcheng Cai, Yi Lu, Yunzhuo Hao, Minyi Lei, Liang Chen, Kai Zou, Huifeng Yin, Wendong Xu, Dongfu Jiang, Ping Nie, Jiaheng Liu, Wenhu Chen, Kelsey R. Allen
+[Authors: see the paper](https://arxiv.org/abs/2604.08523v2)
 
 ## Citation exports
 
@@ -46680,7 +46680,7 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 ## Authors
 
-Liya Zhu, Jingzhe Ding, Jian Zhang, Jianbo Xue, Shihao Liang, Ge Zhang, Yi Zhu, Duju Zeng, Xiang Gao, Qingshui Gu, Mailun Gao, Huimin Che, Yan Zhao, Peiheng Zhou, Haojun Wang, Chaobo Xian, Lili Le, Chi Wu, Yiwei Liu, Shengda Long, Jiale Yang, Fangzhi Xu, Sijin Wu, Haodong Duan, Chao He, Zhaojian Li, Minchao Wang, Huan Zhou, Jiani Hou, Chuqian Yu, Weiran Shi, Hongwan Gao, Jiamin Chen, Guanhong Chen, Tingqin Luo, Kaiyuan Zhang, Zhixin Yao, Qing Hua, Yuhao Jiang, Jin Chen, Pu Chen, Zhenyu Hu, Xingyu Li, Zhengxuan Jiang, Meng Cao, Tianfeng Long, Haozhe Wang, Mingzhang Wang, Yichen Zhang, Yiming Dai, Chenchen Zhang, Jiaying Wang, Xinying Liu, Xingzu Liu, Lingling Zhang, Xinjie Chen, Yujia Qin, Wangchunshu Zhou, Zhiyong Wu, Yang Liu, Jiaheng Liu, Lei Zhang, Shen Yan, Wenhao Huang, Zaiyuan Wang, Xiaolong Chang
+[Authors: see the paper](https://arxiv.org/abs/2606.11042v4)
 
 ## Citation exports
 
@@ -53706,7 +53706,7 @@ Adjacent browser-backed artifact validation, not a GUI navigation benchmark or o
 
 ## Authors
 
-Jiajun Wu, Jian Yang, Yaxin Du, Wei Zhang, Haowen Wang, Junhang Cheng, Yuxuan Zhang, Tuney Zheng, Xianglong Liu, Ming Zhou
+[Authors: see the paper](https://arxiv.org/abs/2608.30530v1)
 
 ## Citation exports
 
@@ -54850,7 +54850,7 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 ## Authors
 
-Tong Ye, Kunyang Han, Guozhi Wang, Longqiang Luo, Zhifeng Ding, Yongxiang Zhang, Xiaolei Shen, Yuxuan Zhang, Zhuping Zhang, Tao Xu, Yue Pan, Yucheng Zhao, Yupei Hu, Yuanjiang Ouyang, Danfeng Shen, Runqi Lin, Hongda Cai, Zhaoxiong Wang, Mengjia Yan, Yingjie Zhong, Chen Zhou, Zeyu Zhang, Xuwen Zhu, Penggang Shi, Mingcheng Luo, Ziyang Wu, Min Jin, Mingfu Shen, Zairong Xu, Fan Zhang, Hao Wang, Liang Liu, Zhulin Xie, Lijun Yao, Xiao Liang, Liangmin Wen, Liqiang Feng, Feilong Wu, Min Hu, Min Chen, Guanjing Xiong, Xiaohu Ruan, Xiaoxin Chen
+[Authors: see the paper](https://arxiv.org/abs/2609.12394v3)
 
 ## Citation exports
 

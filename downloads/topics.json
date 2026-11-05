@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "catalog_sha256": "912f2444b3258e032a68f09736422f63332b3489390157b90c8918bae9d1b29d",
+  "catalog_sha256": "df222b121377b101dd0be527aeb30b3b2572bf2ae84ab59cfb7fe6f051699e00",
   "membership_policy": "Explicit reviewed topic tags only; curated core/adjacent resources. No title-based inference.",
   "count_policy": "Resources are not independent projects. Topic memberships overlap; do not sum topic totals.",
   "citation_policy": "Default retained-source edition; source-specific author/date precision and paper versions are preserved.",
@@ -725,20 +725,20 @@
         {
           "url": "/downloads/topics/data-generation/records.jsonl",
           "records": 348,
-          "bytes": 1109804,
-          "sha256": "3b3ce47c03c7631631dfd9bfea5cb12820097ba2f10d125830fa7411c0cd7840"
+          "bytes": 1108874,
+          "sha256": "26284d9605281d3b918821002b9c706d9a0d9530ca9c5e45146104d216abf577"
         },
         {
           "url": "/downloads/topics/data-generation/citations.bib",
           "records": 266,
-          "bytes": 214080,
-          "sha256": "824032658f6915f6f3f504427b517ee70c2c1f651772c480def6af67f163b4b7"
+          "bytes": 213189,
+          "sha256": "3b9d478a08f8193d56a33040258ee5d247fdba8869174fa8d0765d772390a0f5"
         },
         {
           "url": "/downloads/topics/data-generation/citations.csl.json",
           "records": 266,
-          "bytes": 532599,
-          "sha256": "22b700204531fcc186f6486488f8d3cf601bf603ef77bd22242fa4dfb663c141"
+          "bytes": 529482,
+          "sha256": "28c5d233e31adeecdfb8f299e02a08b20ccaac0dec4fcd1fa5866e4cb9133eba"
         }
       ]
     },
@@ -1690,20 +1690,20 @@
         {
           "url": "/downloads/topics/evaluation/records.jsonl",
           "records": 723,
-          "bytes": 2317519,
-          "sha256": "8db37a3e65a5b6ddd9a20871ed7fff84f066b8edc7dd44f158b01ac84b3b2fcc"
+          "bytes": 2316115,
+          "sha256": "f405af9e09cb103569a6cc9b6f29434a365c05dec20badb4d3c94cc75ebb8982"
         },
         {
           "url": "/downloads/topics/evaluation/citations.bib",
           "records": 594,
-          "bytes": 435443,
-          "sha256": "5c3fedfda88b84de80f54c226c2bc73664d9c6df2048fe1dc49408b8a5095105"
+          "bytes": 433973,
+          "sha256": "327100e0befd10405a9620febeed808d7d50365aba1842e0e54a840333ffd5e4"
         },
         {
           "url": "/downloads/topics/evaluation/citations.csl.json",
           "records": 594,
-          "bytes": 1105357,
-          "sha256": "1b919c1cec6f5f8ba07e47be1b24deeb01312c02425e4705a825b509bc9f7cd9"
+          "bytes": 1100541,
+          "sha256": "0bece223a98d957dea7f5a5a4398251fdc79870a06ca397a1684cca285867c14"
         }
       ]
     },
@@ -2112,20 +2112,20 @@
         {
           "url": "/downloads/topics/grounding/records.jsonl",
           "records": 380,
-          "bytes": 1148981,
-          "sha256": "5bae3593d7cc5d73c713de9d71f9a27efa1de4740bebb8c966c9d00d94ce8ca3"
+          "bytes": 1148667,
+          "sha256": "eaec30987da760c912c64a80600f605d7b42b483ea5c32449d91a33fdd62cc64"
         },
         {
           "url": "/downloads/topics/grounding/citations.bib",
           "records": 249,
-          "bytes": 192638,
-          "sha256": "28bc14991320d6982558c0373cace10c86bccc53d91c12e6910b514411968220"
+          "bytes": 192364,
+          "sha256": "47df0136bad91f9a4826fc337ff05ef6d03e6c542fd3b8e06f84415c95b5c402"
         },
         {
           "url": "/downloads/topics/grounding/citations.csl.json",
           "records": 249,
-          "bytes": 470293,
-          "sha256": "bf18254175b5e23abcc805085aff6331b584853ceac1def090e9df9df37b4034"
+          "bytes": 469445,
+          "sha256": "532a00ae3eb241174af0501673622a082942781ca91cc6c26c247a9937acf386"
         }
       ]
     },
@@ -2724,20 +2724,20 @@
         {
           "url": "/downloads/topics/long-horizon/records.jsonl",
           "records": 105,
-          "bytes": 338564,
-          "sha256": "2d9a0349d468bd557bcfa342a1fb105f2eff066bef6bb9b086caa0c9f11c68b5"
+          "bytes": 337429,
+          "sha256": "301ae0337eb928a4415e34297c94879fb34a896c65549f8c9075946006f15289"
         },
         {
           "url": "/downloads/topics/long-horizon/citations.bib",
           "records": 93,
-          "bytes": 66963,
-          "sha256": "a2df571970eb8983951214a88ab0b70e79296f59a198cbc0f66edf099ecd36f4"
+          "bytes": 65746,
+          "sha256": "e5bf714a8485e806be38ccd6f832d9a4a8c41c9b80b3e64f5d883ff93cb8d80e"
         },
         {
           "url": "/downloads/topics/long-horizon/citations.csl.json",
           "records": 93,
-          "bytes": 178374,
-          "sha256": "dd5d52230c78ec325025d2694c14fb6872af9249c86aa55a9418cdc1f7277d42"
+          "bytes": 174521,
+          "sha256": "d1a46bb90c7d926a485d29881fb1918574fcf152af19c74acc7317f3124f37ae"
         }
       ]
     },
@@ -3262,20 +3262,20 @@
         {
           "url": "/downloads/topics/mobile-navigation/records.jsonl",
           "records": 282,
-          "bytes": 927818,
-          "sha256": "17247dae6674f5c5c6d45cf415dd19fe493a498f2bfd4830df998447f995e2de"
+          "bytes": 927070,
+          "sha256": "ac3e064d4c5e9374a1b44bb789a39aa4e6e7102451fa3384206df6990e074a08"
         },
         {
           "url": "/downloads/topics/mobile-navigation/citations.bib",
           "records": 208,
-          "bytes": 167696,
-          "sha256": "fcd403523cbc35ee22f01f491bcbe6a0f4b17a2b3e338a1ae7f4961f4f880127"
+          "bytes": 166944,
+          "sha256": "04b5e757939e434732193f8b96602eb96c64c3194888e303332712f696c3fd07"
         },
         {
           "url": "/downloads/topics/mobile-navigation/citations.csl.json",
           "records": 208,
-          "bytes": 406736,
-          "sha256": "4b77dd4ccca0c65bda94674d01f8d9a2342360849cd17333bb8e85b936efd541"
+          "bytes": 404180,
+          "sha256": "c0899c1bb4096cb20fda3cdfa0805fb6b8a91d82e9530c2985aacf368a3d464b"
         }
       ]
     },
@@ -3672,20 +3672,20 @@
         {
           "url": "/downloads/topics/planning/records.jsonl",
           "records": 283,
-          "bytes": 869143,
-          "sha256": "ae978ffe273cf61d59ccf3ac5dc9ed79247f6d5028ad85406b0bcbbaf7f8f35f"
+          "bytes": 868994,
+          "sha256": "82fbe094f21c5c4de2d79826e8b5cd791b8637b94d659757326308b6a75f728d"
         },
         {
           "url": "/downloads/topics/planning/citations.bib",
           "records": 219,
-          "bytes": 165144,
-          "sha256": "684c693e0303cecce2d9a4e1c060095fbe2100ae824f72699aa3be4dd070d672"
+          "bytes": 165038,
+          "sha256": "bd2f563b2c024e3ebd07bc33ff3deda0b485b0ea688a038d154f5c0280bde4f8"
         },
         {
           "url": "/downloads/topics/planning/citations.csl.json",
           "records": 219,
-          "bytes": 412592,
-          "sha256": "189a9834138fa96467fd72e4048f2fb501379948aee747a8c05cbb5ffe573d2f"
+          "bytes": 412064,
+          "sha256": "06b94b9aba1e38c1919b6696a9a7e69b29e4a4a7ac2b4ef19bc48a57eb6c7101"
         }
       ]
     },
@@ -4022,20 +4022,20 @@
         {
           "url": "/downloads/topics/reinforcement-learning/records.jsonl",
           "records": 242,
-          "bytes": 738047,
-          "sha256": "c6f454ad42c032e255dfcf82565d5e05bd5ebd38cefff170d7a5bbe8698d4c73"
+          "bytes": 737299,
+          "sha256": "15cfb665ddb3490dc5716b7f9599578f44bec1cf4826345ac8dc724af4081585"
         },
         {
           "url": "/downloads/topics/reinforcement-learning/citations.bib",
           "records": 190,
-          "bytes": 144348,
-          "sha256": "883788231bdbf5bfa3527c54597364bdf0d81e8ad630796633c4c9096bafc774"
+          "bytes": 143596,
+          "sha256": "5f5bf5a6f42c9bc257237e775e82405e524a3ac9328a6891354c0c0e3fb4aa5f"
         },
         {
           "url": "/downloads/topics/reinforcement-learning/citations.csl.json",
           "records": 190,
-          "bytes": 374295,
-          "sha256": "c2790c4cd663e3e025912b6cab6096051f9e7e26f7d252e77c8bef1e87d7c0a0"
+          "bytes": 371739,
+          "sha256": "d3773eef33f5b9f6e660d2ec377412ecdfabeb689fed6e464fe33fa3708dd149"
         }
       ]
     },
@@ -4351,20 +4351,20 @@
         {
           "url": "/downloads/topics/robustness/records.jsonl",
           "records": 187,
-          "bytes": 583707,
-          "sha256": "71a61d1dfc13e73786bd61c1bf43109f7cf59b4e6d6ea25161c5b2375eca4ef9"
+          "bytes": 582669,
+          "sha256": "146a58549859a371d53867f175bf453b9672e9597ae57d9cb661c543eb530dff"
         },
         {
           "url": "/downloads/topics/robustness/citations.bib",
           "records": 174,
-          "bytes": 119958,
-          "sha256": "2c85080507af5b213a0a762cbd9ca00592a98dc1128492bb97b90b4aac96fa17"
+          "bytes": 118856,
+          "sha256": "43db9765539a5b207b95cad7a1d509f64b9e9329e48ca86a4556351b2ac2977e"
         },
         {
           "url": "/downloads/topics/robustness/citations.csl.json",
           "records": 174,
-          "bytes": 309806,
-          "sha256": "5bf537bddc7a925d12e386bea57ddd5243a63743a3533b6303657e23b7c3b941"
+          "bytes": 306260,
+          "sha256": "2406a5cc0e63bfaabd2533f8b0108d43ab31db26004361e7a4439c4b6901dcb0"
         }
       ]
     },
@@ -4706,20 +4706,20 @@
         {
           "url": "/downloads/topics/sandbox/records.jsonl",
           "records": 58,
-          "bytes": 169874,
-          "sha256": "fc4cd93016c95a076f6ab4c0d41a7b671128d21278fae80cd947c1628a4f0582"
+          "bytes": 169660,
+          "sha256": "326967f881ad55518f53685fe56b737f4e8acec4bdb199d64f19ab04922ec70e"
         },
         {
           "url": "/downloads/topics/sandbox/citations.bib",
           "records": 41,
-          "bytes": 30660,
-          "sha256": "e82716d0726f5850d0234b026449feb16c6a15f0adf44dafee613956d268f3e3"
+          "bytes": 30480,
+          "sha256": "ec51d51b605186003a94769eabae0d5b78d82ba2ff287aa2cb1cc1dee3e28755"
         },
         {
           "url": "/downloads/topics/sandbox/citations.csl.json",
           "records": 41,
-          "bytes": 83154,
-          "sha256": "242119f98a22b75ec6e4249fba0b5ba4d1959c8e66db3616afd6657ed41e5757"
+          "bytes": 82456,
+          "sha256": "9d7e67a5f148ae0bca60fc03ac3d619eac1b022ba7fd329026e3a6e0f8b3a93b"
         }
       ]
     },
@@ -5020,20 +5020,20 @@
         {
           "url": "/downloads/topics/screen-understanding/records.jsonl",
           "records": 212,
-          "bytes": 690405,
-          "sha256": "6743e83f5009537d32fbb55ec3502bfde7a8df26c2ae04d065aab85382eb0c5a"
+          "bytes": 690091,
+          "sha256": "71460b223c7b317bc08e87377a974925afbb0894dbd3835ab32729136c0bf845"
         },
         {
           "url": "/downloads/topics/screen-understanding/citations.bib",
           "records": 164,
-          "bytes": 120848,
-          "sha256": "8e5c563f17278a7bfcf7c7010dd7372d0d0524563b21d188d7e71b62e956fe88"
+          "bytes": 120574,
+          "sha256": "6f473612bc1b58feb3005741db9452315269717dd86d97fc79ac42159beaa1a9"
         },
         {
           "url": "/downloads/topics/screen-understanding/citations.csl.json",
           "records": 164,
-          "bytes": 298190,
-          "sha256": "95af78aa8f837a5978f952e6b72d6da3cbcfe59018dca89c02a123a7536e3ea9"
+          "bytes": 297342,
+          "sha256": "2279bb2a9277419f7992dca6c702f6c62953bd08da834e8ce854b2ed5736dbb6"
         }
       ]
     },
@@ -5102,20 +5102,20 @@
         {
           "url": "/downloads/topics/self-reflection/records.jsonl",
           "records": 40,
-          "bytes": 128927,
-          "sha256": "17e6bd6b180103ae3926effc9d8cdd5faf50f4ba5588f416a22151bdf7fca277"
+          "bytes": 128713,
+          "sha256": "0afbb5937ef8f784b3c56f161d680dbdc0925c1b65d53604993cfbfa25ce21fa"
         },
         {
           "url": "/downloads/topics/self-reflection/citations.bib",
           "records": 30,
-          "bytes": 20805,
-          "sha256": "baef39497e1c2b95bbe97b5438e317684afaef02797f513efe33b0c272462213"
+          "bytes": 20625,
+          "sha256": "14f620d6f683a5729ca464f30d9743f57c1acd9a735773beec2fa4ec7072a902"
         },
         {
           "url": "/downloads/topics/self-reflection/citations.csl.json",
           "records": 30,
-          "bytes": 54278,
-          "sha256": "d94b006be2bddd8a32be43699080895aa3dd043bd9fb319b04f6f63f05b2e808"
+          "bytes": 53580,
+          "sha256": "738125bf1838b3ad5f81fea62659e6be244499d4ff1ea20dc67deff371d74d51"
         }
       ]
     },
@@ -6001,20 +6001,20 @@
         {
           "url": "/downloads/topics/web-navigation/records.jsonl",
           "records": 308,
-          "bytes": 963138,
-          "sha256": "bffc1374842ada89b0c9ce8c1420fcfaa328059e2319b61e15994d0a0c83c837"
+          "bytes": 962772,
+          "sha256": "f4256ab386a37c7a0885ae277dc26f54d7e59329d5e38ca2da2ff9535c31ac9e"
         },
         {
           "url": "/downloads/topics/web-navigation/citations.bib",
           "records": 223,
-          "bytes": 174554,
-          "sha256": "7674bb56db6176d6460d44a148209b7724d736fc34a8090d29c146ce9c30338b"
+          "bytes": 174186,
+          "sha256": "073b5c68c987ddfa6d34e464ec468fb9235badcbaf668a03f369e0356c1e9f78"
         },
         {
           "url": "/downloads/topics/web-navigation/citations.csl.json",
           "records": 223,
-          "bytes": 418556,
-          "sha256": "17fc4246c5eba22ca2398b7b2747cf762682dd2a84976318d201c0d6943e2eae"
+          "bytes": 417286,
+          "sha256": "aad6d466a6aa4c989fa4b6cb7069ffdf452c4af0dfe836785a709db9901719d4"
         }
       ]
     },
@@ -6159,20 +6159,20 @@
         {
           "url": "/downloads/topics/workflow/records.jsonl",
           "records": 116,
-          "bytes": 349710,
-          "sha256": "3933dff06097b8643ebea08823f1b1f73e039a98c1e9efa8b47bd5c1d6e69ca0"
+          "bytes": 348306,
+          "sha256": "82045d30336bad49c514f5b5be65529b8f32ceac9ba86be5d08bfed90eae6b2a"
         },
         {
           "url": "/downloads/topics/workflow/citations.bib",
           "records": 85,
-          "bytes": 64973,
-          "sha256": "5574ffc8ddc1bb612f98002bea22675e4dabce0d47c48a9c5d2521827357ee0d"
+          "bytes": 63503,
+          "sha256": "d16539f075c9ee135c73daafdfc75ef3eaa0c36be128d2a19b9f942a684e9c20"
         },
         {
           "url": "/downloads/topics/workflow/citations.csl.json",
           "records": 85,
-          "bytes": 163840,
-          "sha256": "88bc34049d9afb35fab6c5b903f1a6b4acc9f34db69dbd6f5600409d179c6154"
+          "bytes": 159024,
+          "sha256": "448e53a3ead6145bd9ab7bb5122eb1977f4d46dfaada3c503fff3207148377fd"
         }
       ]
     },

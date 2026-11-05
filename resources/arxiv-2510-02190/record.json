@@ -1,19 +1,7 @@
 {
   "aliases": [],
-  "authors": [
-    "Yang Yao",
-    "Yixu Wang",
-    "Yuxuan Zhang",
-    "Yi Lu",
-    "Tianle Gu",
-    "Lingyu Li",
-    "Dingyi Zhao",
-    "Keming Wu",
-    "Haozhe Wang",
-    "Ping Nie",
-    "Yan Teng",
-    "Yingchun Wang"
-  ],
+  "authors": [],
+  "authors_omitted": true,
   "details": {
     "arxiv_snapshot": {
       "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",

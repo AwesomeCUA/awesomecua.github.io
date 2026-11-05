@@ -1,21 +1,7 @@
 {
   "aliases": [],
-  "authors": [
-    "Wenyi Hong",
-    "Weihan Wang",
-    "Qingsong Lv",
-    "Jiazheng Xu",
-    "Wenmeng Yu",
-    "Junhui Ji",
-    "Yan Wang",
-    "Zihan Wang",
-    "Yuxuan Zhang",
-    "Juanzi Li",
-    "Bin Xu",
-    "Yuxiao Dong",
-    "Ming Ding",
-    "Jie Tang"
-  ],
+  "authors": [],
+  "authors_omitted": true,
   "details": {
     "arxiv_snapshot": {
       "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
@@ -26,19 +12,7 @@
       "versioned_url": "https://arxiv.org/abs/2312.08914v3"
     },
     "publication": {
-      "authors": [
-        "Wenyi Hong",
-        "Weihan Wang",
-        "Qingsong Lv",
-        "Jiazheng Xu",
-        "Wenmeng Yu",
-        "Junhui Ji",
-        "Yan Wang",
-        "Zihan Wang",
-        "Yuxiao Dong",
-        "Ming Ding",
-        "Jie Tang"
-      ],
+      "authors": [],
       "date_basis": "Year from publisher citation metadata and month from the same page's embedded BibTeX; no day is supplied.",
       "date_parts": [
         2024,

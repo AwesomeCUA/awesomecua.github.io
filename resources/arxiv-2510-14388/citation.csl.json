@@ -22,50 +22,10 @@
       "updated_at": "2026-02-06T02:04:25Z",
       "version": 2,
       "versioned_url": "https://arxiv.org/abs/2510.14388v2"
-    }
+    },
+    "authors_omitted": true
   },
-  "note": "First published: 2025-10-16; Recorded arXiv version: v2; Recorded version updated: 2026-02-06T02:04:25Z.",
-  "author": [
-    {
-      "literal": "Zhe Wu"
-    },
-    {
-      "literal": "Hongjin Lu"
-    },
-    {
-      "literal": "Junliang Xing"
-    },
-    {
-      "literal": "Changhao Zhang"
-    },
-    {
-      "literal": "Yuxuan Li"
-    },
-    {
-      "literal": "Yin Zhu"
-    },
-    {
-      "literal": "Yuhao Yang"
-    },
-    {
-      "literal": "Yuheng Jing"
-    },
-    {
-      "literal": "Kai Li"
-    },
-    {
-      "literal": "Kun Shao"
-    },
-    {
-      "literal": "Jianye Hao"
-    },
-    {
-      "literal": "Jun Wang"
-    },
-    {
-      "literal": "Yuanchun Shi"
-    }
-  ],
+  "note": "First published: 2025-10-16; Recorded arXiv version: v2; Recorded version updated: 2026-02-06T02:04:25Z; Authors: see the paper (https://arxiv.org/abs/2510.14388v2); this catalog does not list them.",
   "issued": {
     "date-parts": [
       [

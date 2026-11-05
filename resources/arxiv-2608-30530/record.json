@@ -1,17 +1,7 @@
 {
   "aliases": [],
-  "authors": [
-    "Jiajun Wu",
-    "Jian Yang",
-    "Yaxin Du",
-    "Wei Zhang",
-    "Haowen Wang",
-    "Junhang Cheng",
-    "Yuxuan Zhang",
-    "Tuney Zheng",
-    "Xianglong Liu",
-    "Ming Zhou"
-  ],
+  "authors": [],
+  "authors_omitted": true,
   "details": {
     "arxiv_snapshot": {
       "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",

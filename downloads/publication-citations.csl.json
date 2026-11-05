@@ -671,41 +671,6 @@
   },
   {
     "URL": "https://openaccess.thecvf.com/content/CVPR2024/html/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.html",
-    "author": [
-      {
-        "literal": "Wenyi Hong"
-      },
-      {
-        "literal": "Weihan Wang"
-      },
-      {
-        "literal": "Qingsong Lv"
-      },
-      {
-        "literal": "Jiazheng Xu"
-      },
-      {
-        "literal": "Wenmeng Yu"
-      },
-      {
-        "literal": "Junhui Ji"
-      },
-      {
-        "literal": "Yan Wang"
-      },
-      {
-        "literal": "Zihan Wang"
-      },
-      {
-        "literal": "Yuxiao Dong"
-      },
-      {
-        "literal": "Ming Ding"
-      },
-      {
-        "literal": "Jie Tang"
-      }
-    ],
     "citation-key": "arxiv_2312_08914_publication",
     "container-title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
     "custom": {
@@ -717,6 +682,7 @@
         "version": 3,
         "versioned_url": "https://arxiv.org/abs/2312.08914v3"
       },
+      "authors_omitted": true,
       "canonical_source_url": "https://arxiv.org/abs/2312.08914",
       "catalog_id": "arxiv:2312.08914",
       "catalog_kind": "paper",
@@ -728,19 +694,7 @@
         "arxiv": "2312.08914"
       },
       "publication": {
-        "authors": [
-          "Wenyi Hong",
-          "Weihan Wang",
-          "Qingsong Lv",
-          "Jiazheng Xu",
-          "Wenmeng Yu",
-          "Junhui Ji",
-          "Yan Wang",
-          "Zihan Wang",
-          "Yuxiao Dong",
-          "Ming Ding",
-          "Jie Tang"
-        ],
+        "authors": [],
         "date_basis": "Year from publisher citation metadata and month from the same page's embedded BibTeX; no day is supplied.",
         "date_parts": [
           2024,
@@ -776,7 +730,7 @@
         ]
       ]
     },
-    "note": "Publication date: 2024-06.",
+    "note": "Publication date: 2024-06; Authors: see the paper (https://openaccess.thecvf.com/content/CVPR2024/html/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.html); this catalog does not list them.",
     "page": "14281-14290",
     "title": "CogAgent: A Visual Language Model for GUI Agents",
     "type": "paper-conference"

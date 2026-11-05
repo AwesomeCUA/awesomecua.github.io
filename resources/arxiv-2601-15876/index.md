@@ -20,7 +20,7 @@ The annotation was reviewed against the complete retained official abstract. Exp
 
 ## Authors
 
-Taofeng Xue, Chong Peng, Mianqiu Huang, Linsen Guo, Tiancheng Han, Haozhe Wang, Jianing Wang, Xiaocheng Zhang, Xin Yang, Dengchang Zhao, Jinrui Ding, Xiandi Ma, Yuchen Xie, Peng Pei, Xunliang Cai, Xipeng Qiu
+[Authors: see the paper](https://arxiv.org/abs/2601.15876v2)
 
 ## Citation exports
 

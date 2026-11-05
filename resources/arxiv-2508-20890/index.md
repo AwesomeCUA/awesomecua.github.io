@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 ## Authors
 
-Mengxiao Wang, Yuxuan Zhang, Guofei Gu
+[Authors: see the paper](https://arxiv.org/abs/2508.20890v2)
 
 ## Citation exports
 

@@ -20,7 +20,7 @@ Bibliographic metadata checked against arXiv. Relevance and taxonomy await edito
 
 ## Authors
 
-Yang Yao, Yixu Wang, Yuxuan Zhang, Yi Lu, Tianle Gu, Lingyu Li, Dingyi Zhao, Keming Wu, Haozhe Wang, Ping Nie, Yan Teng, Yingchun Wang
+[Authors: see the paper](https://arxiv.org/abs/2510.02190v2)
 
 ## Citation exports
 

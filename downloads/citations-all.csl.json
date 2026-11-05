@@ -30119,50 +30119,6 @@
     "URL": "https://arxiv.org/abs/2312.08914v3",
     "archive": "arXiv",
     "archive_location": "2312.08914",
-    "author": [
-      {
-        "literal": "Wenyi Hong"
-      },
-      {
-        "literal": "Weihan Wang"
-      },
-      {
-        "literal": "Qingsong Lv"
-      },
-      {
-        "literal": "Jiazheng Xu"
-      },
-      {
-        "literal": "Wenmeng Yu"
-      },
-      {
-        "literal": "Junhui Ji"
-      },
-      {
-        "literal": "Yan Wang"
-      },
-      {
-        "literal": "Zihan Wang"
-      },
-      {
-        "literal": "Yuxuan Zhang"
-      },
-      {
-        "literal": "Juanzi Li"
-      },
-      {
-        "literal": "Bin Xu"
-      },
-      {
-        "literal": "Yuxiao Dong"
-      },
-      {
-        "literal": "Ming Ding"
-      },
-      {
-        "literal": "Jie Tang"
-      }
-    ],
     "citation-key": "arxiv_2312_08914",
     "custom": {
       "arxiv_snapshot": {
@@ -30173,6 +30129,7 @@
         "version": 3,
         "versioned_url": "https://arxiv.org/abs/2312.08914v3"
       },
+      "authors_omitted": true,
       "canonical_source_url": "https://arxiv.org/abs/2312.08914",
       "catalog_id": "arxiv:2312.08914",
       "catalog_kind": "paper",
@@ -30184,19 +30141,7 @@
         "arxiv": "2312.08914"
       },
       "publication": {
-        "authors": [
-          "Wenyi Hong",
-          "Weihan Wang",
-          "Qingsong Lv",
-          "Jiazheng Xu",
-          "Wenmeng Yu",
-          "Junhui Ji",
-          "Yan Wang",
-          "Zihan Wang",
-          "Yuxiao Dong",
-          "Ming Ding",
-          "Jie Tang"
-        ],
+        "authors": [],
         "date_basis": "Year from publisher citation metadata and month from the same page's embedded BibTeX; no day is supplied.",
         "date_parts": [
           2024,
@@ -30234,7 +30179,7 @@
         ]
       ]
     },
-    "note": "First published: 2023-12-14; Recorded arXiv version: v3; Recorded version updated: 2024-12-27T06:56:18Z.",
+    "note": "First published: 2023-12-14; Recorded arXiv version: v3; Recorded version updated: 2024-12-27T06:56:18Z; Authors: see the paper (https://arxiv.org/abs/2312.08914v3); this catalog does not list them.",
     "title": "CogAgent: A Visual Language Model for GUI Agents",
     "type": "article",
     "version": "3"
@@ -90769,17 +90714,6 @@
     "URL": "https://arxiv.org/abs/2508.20890v2",
     "archive": "arXiv",
     "archive_location": "2508.20890",
-    "author": [
-      {
-        "literal": "Mengxiao Wang"
-      },
-      {
-        "literal": "Yuxuan Zhang"
-      },
-      {
-        "literal": "Guofei Gu"
-      }
-    ],
     "citation-key": "arxiv_2508_20890",
     "custom": {
       "arxiv_snapshot": {
@@ -90790,6 +90724,7 @@
         "version": 2,
         "versioned_url": "https://arxiv.org/abs/2508.20890v2"
       },
+      "authors_omitted": true,
       "canonical_source_url": "https://arxiv.org/abs/2508.20890",
       "catalog_id": "arxiv:2508.20890",
       "catalog_kind": "paper",
@@ -90812,7 +90747,7 @@
         ]
       ]
     },
-    "note": "First published: 2025-08-28; Recorded arXiv version: v2; Recorded version updated: 2025-09-16T01:18:20Z.",
+    "note": "First published: 2025-08-28; Recorded arXiv version: v2; Recorded version updated: 2025-09-16T01:18:20Z; Authors: see the paper (https://arxiv.org/abs/2508.20890v2); this catalog does not list them.",
     "title": "PromptSleuth: Detecting Prompt Injection via Semantic Intent Invariance",
     "type": "article",
     "version": "2"
@@ -97356,44 +97291,6 @@
     "URL": "https://arxiv.org/abs/2510.02190v2",
     "archive": "arXiv",
     "archive_location": "2510.02190",
-    "author": [
-      {
-        "literal": "Yang Yao"
-      },
-      {
-        "literal": "Yixu Wang"
-      },
-      {
-        "literal": "Yuxuan Zhang"
-      },
-      {
-        "literal": "Yi Lu"
-      },
-      {
-        "literal": "Tianle Gu"
-      },
-      {
-        "literal": "Lingyu Li"
-      },
-      {
-        "literal": "Dingyi Zhao"
-      },
-      {
-        "literal": "Keming Wu"
-      },
-      {
-        "literal": "Haozhe Wang"
-      },
-      {
-        "literal": "Ping Nie"
-      },
-      {
-        "literal": "Yan Teng"
-      },
-      {
-        "literal": "Yingchun Wang"
-      }
-    ],
     "citation-key": "arxiv_2510_02190",
     "custom": {
       "arxiv_snapshot": {
@@ -97404,6 +97301,7 @@
         "version": 2,
         "versioned_url": "https://arxiv.org/abs/2510.02190v2"
       },
+      "authors_omitted": true,
       "canonical_source_url": "https://arxiv.org/abs/2510.02190",
       "catalog_id": "arxiv:2510.02190",
       "catalog_kind": "paper",
@@ -97426,7 +97324,7 @@
         ]
       ]
     },
-    "note": "First published: 2025-10-02; Recorded arXiv version: v2; Recorded version updated: 2026-01-29T14:47:04Z.",
+    "note": "First published: 2025-10-02; Recorded arXiv version: v2; Recorded version updated: 2026-01-29T14:47:04Z; Authors: see the paper (https://arxiv.org/abs/2510.02190v2); this catalog does not list them.",
     "title": "Dr. Bench: A Multidimensional Evaluation for Deep Research Agents, from Answers to Reports",
     "type": "article",
     "version": "2"
@@ -100271,47 +100169,6 @@
     "URL": "https://arxiv.org/abs/2510.14388v2",
     "archive": "arXiv",
     "archive_location": "2510.14388",
-    "author": [
-      {
-        "literal": "Zhe Wu"
-      },
-      {
-        "literal": "Hongjin Lu"
-      },
-      {
-        "literal": "Junliang Xing"
-      },
-      {
-        "literal": "Changhao Zhang"
-      },
-      {
-        "literal": "Yuxuan Li"
-      },
-      {
-        "literal": "Yin Zhu"
-      },
-      {
-        "literal": "Yuhao Yang"
-      },
-      {
-        "literal": "Yuheng Jing"
-      },
-      {
-        "literal": "Kai Li"
-      },
-      {
-        "literal": "Kun Shao"
-      },
-      {
-        "literal": "Jianye Hao"
-      },
-      {
-        "literal": "Jun Wang"
-      },
-      {
-        "literal": "Yuanchun Shi"
-      }
-    ],
     "citation-key": "arxiv_2510_14388",
     "custom": {
       "arxiv_snapshot": {
@@ -100322,6 +100179,7 @@
         "version": 2,
         "versioned_url": "https://arxiv.org/abs/2510.14388v2"
       },
+      "authors_omitted": true,
       "canonical_source_url": "https://arxiv.org/abs/2510.14388",
       "catalog_id": "arxiv:2510.14388",
       "catalog_kind": "paper",
@@ -100344,7 +100202,7 @@
         ]
       ]
     },
-    "note": "First published: 2025-10-16; Recorded arXiv version: v2; Recorded version updated: 2026-02-06T02:04:25Z.",
+    "note": "First published: 2025-10-16; Recorded arXiv version: v2; Recorded version updated: 2026-02-06T02:04:25Z; Authors: see the paper (https://arxiv.org/abs/2510.14388v2); this catalog does not list them.",
     "title": "Hi-Agent: Hierarchical Vision-Language Agents for Mobile Device Control",
     "type": "article",
     "version": "2"
@@ -116191,56 +116049,6 @@
     "URL": "https://arxiv.org/abs/2601.15876v2",
     "archive": "arXiv",
     "archive_location": "2601.15876",
-    "author": [
-      {
-        "literal": "Taofeng Xue"
-      },
-      {
-        "literal": "Chong Peng"
-      },
-      {
-        "literal": "Mianqiu Huang"
-      },
-      {
-        "literal": "Linsen Guo"
-      },
-      {
-        "literal": "Tiancheng Han"
-      },
-      {
-        "literal": "Haozhe Wang"
-      },
-      {
-        "literal": "Jianing Wang"
-      },
-      {
-        "literal": "Xiaocheng Zhang"
-      },
-      {
-        "literal": "Xin Yang"
-      },
-      {
-        "literal": "Dengchang Zhao"
-      },
-      {
-        "literal": "Jinrui Ding"
-      },
-      {
-        "literal": "Xiandi Ma"
-      },
-      {
-        "literal": "Yuchen Xie"
-      },
-      {
-        "literal": "Peng Pei"
-      },
-      {
-        "literal": "Xunliang Cai"
-      },
-      {
-        "literal": "Xipeng Qiu"
-      }
-    ],
     "citation-key": "arxiv_2601_15876",
     "custom": {
       "arxiv_snapshot": {
@@ -116251,6 +116059,7 @@
         "version": 2,
         "versioned_url": "https://arxiv.org/abs/2601.15876v2"
       },
+      "authors_omitted": true,
       "canonical_source_url": "https://arxiv.org/abs/2601.15876",
       "catalog_id": "arxiv:2601.15876",
       "catalog_kind": "paper",
@@ -116273,7 +116082,7 @@
         ]
       ]
     },
-    "note": "First published: 2026-01-22; Recorded arXiv version: v2; Recorded version updated: 2026-01-23T08:52:00Z.",
+    "note": "First published: 2026-01-22; Recorded arXiv version: v2; Recorded version updated: 2026-01-23T08:52:00Z; Authors: see the paper (https://arxiv.org/abs/2601.15876v2); this catalog does not list them.",
     "title": "EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience",
     "type": "article",
     "version": "2"
@@ -117721,143 +117530,6 @@
     "URL": "https://arxiv.org/abs/2601.20613v2",
     "archive": "arXiv",
     "archive_location": "2601.20613",
-    "author": [
-      {
-        "literal": "Kaiyuan Chen"
-      },
-      {
-        "literal": "Qimin Wu"
-      },
-      {
-        "literal": "Taiyu Hou"
-      },
-      {
-        "literal": "Tianhao Tang"
-      },
-      {
-        "literal": "Xueyu Hu"
-      },
-      {
-        "literal": "Yuchen Hou"
-      },
-      {
-        "literal": "Bikun Li"
-      },
-      {
-        "literal": "Chengming Qian"
-      },
-      {
-        "literal": "Guoyin Wang"
-      },
-      {
-        "literal": "Haolin Chen"
-      },
-      {
-        "literal": "Haotong Tian"
-      },
-      {
-        "literal": "Haoye Zhang"
-      },
-      {
-        "literal": "Haoyu Bian"
-      },
-      {
-        "literal": "Hongbing Pan"
-      },
-      {
-        "literal": "Hongkang Zhang"
-      },
-      {
-        "literal": "Hongyi Zhou"
-      },
-      {
-        "literal": "Jiaqi Cai"
-      },
-      {
-        "literal": "Jiewu Rao"
-      },
-      {
-        "literal": "Jiyuan Ren"
-      },
-      {
-        "literal": "Keduan Huang"
-      },
-      {
-        "literal": "Lucia Zhu Huang"
-      },
-      {
-        "literal": "Mingyu Yuan"
-      },
-      {
-        "literal": "Naixu Guo"
-      },
-      {
-        "literal": "Qicheng Tang"
-      },
-      {
-        "literal": "Qinyan Zhang"
-      },
-      {
-        "literal": "Shuai Chen"
-      },
-      {
-        "literal": "Siheng Chen"
-      },
-      {
-        "literal": "Ting Ting Li"
-      },
-      {
-        "literal": "Xiaoxing Guo"
-      },
-      {
-        "literal": "Yaocheng Zuo"
-      },
-      {
-        "literal": "Yaoqi Guo"
-      },
-      {
-        "literal": "Yinan Wang"
-      },
-      {
-        "literal": "Yinzhou Yu"
-      },
-      {
-        "literal": "Yize Wang"
-      },
-      {
-        "literal": "Yuan Jiang"
-      },
-      {
-        "literal": "Yuan Tian"
-      },
-      {
-        "literal": "Yuanshuo Zhang"
-      },
-      {
-        "literal": "Yuxuan Liu"
-      },
-      {
-        "literal": "Yvette Yan Zeng"
-      },
-      {
-        "literal": "Zenyu Shan"
-      },
-      {
-        "literal": "Zihan Yin"
-      },
-      {
-        "literal": "Xiaobo Hu"
-      },
-      {
-        "literal": "Yang Liu"
-      },
-      {
-        "literal": "Yixin Ren"
-      },
-      {
-        "literal": "Yuan Gong"
-      }
-    ],
     "citation-key": "arxiv_2601_20613",
     "custom": {
       "arxiv_snapshot": {
@@ -117868,6 +117540,7 @@
         "version": 2,
         "versioned_url": "https://arxiv.org/abs/2601.20613v2"
       },
+      "authors_omitted": true,
       "canonical_source_url": "https://arxiv.org/abs/2601.20613",
       "catalog_id": "arxiv:2601.20613",
       "catalog_kind": "paper",
@@ -117890,7 +117563,7 @@
         ]
       ]
     },
-    "note": "First published: 2026-01-28; Recorded arXiv version: v2; Recorded version updated: 2026-01-30T13:36:46Z.",
+    "note": "First published: 2026-01-28; Recorded arXiv version: v2; Recorded version updated: 2026-01-30T13:36:46Z; Authors: see the paper (https://arxiv.org/abs/2601.20613v2); this catalog does not list them.",
     "title": "AgentIF-OneDay: A Task-level Instruction-Following Benchmark for General AI Agents in Daily Scenarios",
     "type": "article",
     "version": "2"
@@ -135884,92 +135557,6 @@
     "URL": "https://arxiv.org/abs/2604.08523v2",
     "archive": "arXiv",
     "archive_location": "2604.08523",
-    "author": [
-      {
-        "literal": "Yuxuan Zhang"
-      },
-      {
-        "literal": "Yubo Wang"
-      },
-      {
-        "literal": "Yipeng Zhu"
-      },
-      {
-        "literal": "Penghui Du"
-      },
-      {
-        "literal": "Junwen Miao"
-      },
-      {
-        "literal": "Xuan Lu"
-      },
-      {
-        "literal": "Zhuofeng Li"
-      },
-      {
-        "literal": "Xingwei Qu"
-      },
-      {
-        "literal": "Zhengkang Guo"
-      },
-      {
-        "literal": "Yuanzhe Shen"
-      },
-      {
-        "literal": "Dingjie Song"
-      },
-      {
-        "literal": "Han Zhou"
-      },
-      {
-        "literal": "Tuney Zheng"
-      },
-      {
-        "literal": "Xian Wu"
-      },
-      {
-        "literal": "Hao Yu"
-      },
-      {
-        "literal": "Songcheng Cai"
-      },
-      {
-        "literal": "Yi Lu"
-      },
-      {
-        "literal": "Yunzhuo Hao"
-      },
-      {
-        "literal": "Minyi Lei"
-      },
-      {
-        "literal": "Liang Chen"
-      },
-      {
-        "literal": "Kai Zou"
-      },
-      {
-        "literal": "Huifeng Yin"
-      },
-      {
-        "literal": "Wendong Xu"
-      },
-      {
-        "literal": "Dongfu Jiang"
-      },
-      {
-        "literal": "Ping Nie"
-      },
-      {
-        "literal": "Jiaheng Liu"
-      },
-      {
-        "literal": "Wenhu Chen"
-      },
-      {
-        "literal": "Kelsey R. Allen"
-      }
-    ],
     "citation-key": "arxiv_2604_08523",
     "custom": {
       "arxiv_snapshot": {
@@ -135980,6 +135567,7 @@
         "version": 2,
         "versioned_url": "https://arxiv.org/abs/2604.08523v2"
       },
+      "authors_omitted": true,
       "canonical_source_url": "https://arxiv.org/abs/2604.08523",
       "catalog_id": "arxiv:2604.08523",
       "catalog_kind": "paper",
@@ -136002,7 +135590,7 @@
         ]
       ]
     },
-    "note": "First published: 2026-04-09; Recorded arXiv version: v2; Recorded version updated: 2026-07-20T17:58:40Z.",
+    "note": "First published: 2026-04-09; Recorded arXiv version: v2; Recorded version updated: 2026-07-20T17:58:40Z; Authors: see the paper (https://arxiv.org/abs/2604.08523v2); this catalog does not list them.",
     "title": "ClawBench: Can AI Agents Complete Everyday Online Tasks?",
     "type": "article",
     "version": "2"
@@ -143291,50 +142879,6 @@
     "URL": "https://arxiv.org/abs/2605.08703v2",
     "archive": "arXiv",
     "archive_location": "2605.08703",
-    "author": [
-      {
-        "literal": "Yuxuan Zhang"
-      },
-      {
-        "literal": "Cong Wei"
-      },
-      {
-        "literal": "Penghui Du"
-      },
-      {
-        "literal": "Bo Li"
-      },
-      {
-        "literal": "Junwen Miao"
-      },
-      {
-        "literal": "Huaisong Zhang"
-      },
-      {
-        "literal": "Songcheng Cai"
-      },
-      {
-        "literal": "Yubo Wang"
-      },
-      {
-        "literal": "Dongfu Jiang"
-      },
-      {
-        "literal": "Yuyu Zhang"
-      },
-      {
-        "literal": "Changqian Yu"
-      },
-      {
-        "literal": "Ping Nie"
-      },
-      {
-        "literal": "Wenhu Chen"
-      },
-      {
-        "literal": "Kelsey R. Allen"
-      }
-    ],
     "citation-key": "arxiv_2605_08703",
     "custom": {
       "arxiv_snapshot": {
@@ -143345,6 +142889,7 @@
         "version": 2,
         "versioned_url": "https://arxiv.org/abs/2605.08703v2"
       },
+      "authors_omitted": true,
       "canonical_source_url": "https://arxiv.org/abs/2605.08703",
       "catalog_id": "arxiv:2605.08703",
       "catalog_kind": "paper",
@@ -143367,7 +142912,7 @@
         ]
       ]
     },
-    "note": "First published: 2026-05-09; Recorded arXiv version: v2; Recorded version updated: 2026-10-12T10:20:42Z.",
+    "note": "First published: 2026-05-09; Recorded arXiv version: v2; Recorded version updated: 2026-10-12T10:20:42Z; Authors: see the paper (https://arxiv.org/abs/2605.08703v2); this catalog does not list them.",
     "title": "RewardHarness: Self-Evolving Agentic Post-Training",
     "type": "article",
     "version": "2"
@@ -154120,206 +153665,6 @@
     "URL": "https://arxiv.org/abs/2606.11042v4",
     "archive": "arXiv",
     "archive_location": "2606.11042",
-    "author": [
-      {
-        "literal": "Liya Zhu"
-      },
-      {
-        "literal": "Jingzhe Ding"
-      },
-      {
-        "literal": "Jian Zhang"
-      },
-      {
-        "literal": "Jianbo Xue"
-      },
-      {
-        "literal": "Shihao Liang"
-      },
-      {
-        "literal": "Ge Zhang"
-      },
-      {
-        "literal": "Yi Zhu"
-      },
-      {
-        "literal": "Duju Zeng"
-      },
-      {
-        "literal": "Xiang Gao"
-      },
-      {
-        "literal": "Qingshui Gu"
-      },
-      {
-        "literal": "Mailun Gao"
-      },
-      {
-        "literal": "Huimin Che"
-      },
-      {
-        "literal": "Yan Zhao"
-      },
-      {
-        "literal": "Peiheng Zhou"
-      },
-      {
-        "literal": "Haojun Wang"
-      },
-      {
-        "literal": "Chaobo Xian"
-      },
-      {
-        "literal": "Lili Le"
-      },
-      {
-        "literal": "Chi Wu"
-      },
-      {
-        "literal": "Yiwei Liu"
-      },
-      {
-        "literal": "Shengda Long"
-      },
-      {
-        "literal": "Jiale Yang"
-      },
-      {
-        "literal": "Fangzhi Xu"
-      },
-      {
-        "literal": "Sijin Wu"
-      },
-      {
-        "literal": "Haodong Duan"
-      },
-      {
-        "literal": "Chao He"
-      },
-      {
-        "literal": "Zhaojian Li"
-      },
-      {
-        "literal": "Minchao Wang"
-      },
-      {
-        "literal": "Huan Zhou"
-      },
-      {
-        "literal": "Jiani Hou"
-      },
-      {
-        "literal": "Chuqian Yu"
-      },
-      {
-        "literal": "Weiran Shi"
-      },
-      {
-        "literal": "Hongwan Gao"
-      },
-      {
-        "literal": "Jiamin Chen"
-      },
-      {
-        "literal": "Guanhong Chen"
-      },
-      {
-        "literal": "Tingqin Luo"
-      },
-      {
-        "literal": "Kaiyuan Zhang"
-      },
-      {
-        "literal": "Zhixin Yao"
-      },
-      {
-        "literal": "Qing Hua"
-      },
-      {
-        "literal": "Yuhao Jiang"
-      },
-      {
-        "literal": "Jin Chen"
-      },
-      {
-        "literal": "Pu Chen"
-      },
-      {
-        "literal": "Zhenyu Hu"
-      },
-      {
-        "literal": "Xingyu Li"
-      },
-      {
-        "literal": "Zhengxuan Jiang"
-      },
-      {
-        "literal": "Meng Cao"
-      },
-      {
-        "literal": "Tianfeng Long"
-      },
-      {
-        "literal": "Haozhe Wang"
-      },
-      {
-        "literal": "Mingzhang Wang"
-      },
-      {
-        "literal": "Yichen Zhang"
-      },
-      {
-        "literal": "Yiming Dai"
-      },
-      {
-        "literal": "Chenchen Zhang"
-      },
-      {
-        "literal": "Jiaying Wang"
-      },
-      {
-        "literal": "Xinying Liu"
-      },
-      {
-        "literal": "Xingzu Liu"
-      },
-      {
-        "literal": "Lingling Zhang"
-      },
-      {
-        "literal": "Xinjie Chen"
-      },
-      {
-        "literal": "Yujia Qin"
-      },
-      {
-        "literal": "Wangchunshu Zhou"
-      },
-      {
-        "literal": "Zhiyong Wu"
-      },
-      {
-        "literal": "Yang Liu"
-      },
-      {
-        "literal": "Jiaheng Liu"
-      },
-      {
-        "literal": "Lei Zhang"
-      },
-      {
-        "literal": "Shen Yan"
-      },
-      {
-        "literal": "Wenhao Huang"
-      },
-      {
-        "literal": "Zaiyuan Wang"
-      },
-      {
-        "literal": "Xiaolong Chang"
-      }
-    ],
     "citation-key": "arxiv_2606_11042",
     "custom": {
       "arxiv_snapshot": {
@@ -154330,6 +153675,7 @@
         "version": 4,
         "versioned_url": "https://arxiv.org/abs/2606.11042v4"
       },
+      "authors_omitted": true,
       "canonical_source_url": "https://arxiv.org/abs/2606.11042",
       "catalog_id": "arxiv:2606.11042",
       "catalog_kind": "paper",
@@ -154352,7 +153698,7 @@
         ]
       ]
     },
-    "note": "First published: 2026-06-09; Recorded arXiv version: v4; Recorded version updated: 2026-07-17T12:22:12Z.",
+    "note": "First published: 2026-06-09; Recorded arXiv version: v4; Recorded version updated: 2026-07-17T12:22:12Z; Authors: see the paper (https://arxiv.org/abs/2606.11042v4); this catalog does not list them.",
     "title": "Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields",
     "type": "article",
     "version": "4"
@@ -173727,38 +173073,6 @@
     "URL": "https://arxiv.org/abs/2608.30530v1",
     "archive": "arXiv",
     "archive_location": "2608.30530",
-    "author": [
-      {
-        "literal": "Jiajun Wu"
-      },
-      {
-        "literal": "Jian Yang"
-      },
-      {
-        "literal": "Yaxin Du"
-      },
-      {
-        "literal": "Wei Zhang"
-      },
-      {
-        "literal": "Haowen Wang"
-      },
-      {
-        "literal": "Junhang Cheng"
-      },
-      {
-        "literal": "Yuxuan Zhang"
-      },
-      {
-        "literal": "Tuney Zheng"
-      },
-      {
-        "literal": "Xianglong Liu"
-      },
-      {
-        "literal": "Ming Zhou"
-      }
-    ],
     "citation-key": "arxiv_2608_30530",
     "custom": {
       "arxiv_snapshot": {
@@ -173769,6 +173083,7 @@
         "version": 1,
         "versioned_url": "https://arxiv.org/abs/2608.30530v1"
       },
+      "authors_omitted": true,
       "canonical_source_url": "https://arxiv.org/abs/2608.30530",
       "catalog_id": "arxiv:2608.30530",
       "catalog_kind": "paper",
@@ -173791,7 +173106,7 @@
         ]
       ]
     },
-    "note": "First published: 2026-08-31; Recorded arXiv version: v1; Recorded version updated: 2026-08-31T10:00:12Z.",
+    "note": "First published: 2026-08-31; Recorded arXiv version: v1; Recorded version updated: 2026-08-31T10:00:12Z; Authors: see the paper (https://arxiv.org/abs/2608.30530v1); this catalog does not list them.",
     "title": "WebWorld: The Browser as a World Model for Self-Improving Web Code",
     "type": "article",
     "version": "1"
@@ -177334,137 +176649,6 @@
     "URL": "https://arxiv.org/abs/2609.12394v3",
     "archive": "arXiv",
     "archive_location": "2609.12394",
-    "author": [
-      {
-        "literal": "Tong Ye"
-      },
-      {
-        "literal": "Kunyang Han"
-      },
-      {
-        "literal": "Guozhi Wang"
-      },
-      {
-        "literal": "Longqiang Luo"
-      },
-      {
-        "literal": "Zhifeng Ding"
-      },
-      {
-        "literal": "Yongxiang Zhang"
-      },
-      {
-        "literal": "Xiaolei Shen"
-      },
-      {
-        "literal": "Yuxuan Zhang"
-      },
-      {
-        "literal": "Zhuping Zhang"
-      },
-      {
-        "literal": "Tao Xu"
-      },
-      {
-        "literal": "Yue Pan"
-      },
-      {
-        "literal": "Yucheng Zhao"
-      },
-      {
-        "literal": "Yupei Hu"
-      },
-      {
-        "literal": "Yuanjiang Ouyang"
-      },
-      {
-        "literal": "Danfeng Shen"
-      },
-      {
-        "literal": "Runqi Lin"
-      },
-      {
-        "literal": "Hongda Cai"
-      },
-      {
-        "literal": "Zhaoxiong Wang"
-      },
-      {
-        "literal": "Mengjia Yan"
-      },
-      {
-        "literal": "Yingjie Zhong"
-      },
-      {
-        "literal": "Chen Zhou"
-      },
-      {
-        "literal": "Zeyu Zhang"
-      },
-      {
-        "literal": "Xuwen Zhu"
-      },
-      {
-        "literal": "Penggang Shi"
-      },
-      {
-        "literal": "Mingcheng Luo"
-      },
-      {
-        "literal": "Ziyang Wu"
-      },
-      {
-        "literal": "Min Jin"
-      },
-      {
-        "literal": "Mingfu Shen"
-      },
-      {
-        "literal": "Zairong Xu"
-      },
-      {
-        "literal": "Fan Zhang"
-      },
-      {
-        "literal": "Hao Wang"
-      },
-      {
-        "literal": "Liang Liu"
-      },
-      {
-        "literal": "Zhulin Xie"
-      },
-      {
-        "literal": "Lijun Yao"
-      },
-      {
-        "literal": "Xiao Liang"
-      },
-      {
-        "literal": "Liangmin Wen"
-      },
-      {
-        "literal": "Liqiang Feng"
-      },
-      {
-        "literal": "Feilong Wu"
-      },
-      {
-        "literal": "Min Hu"
-      },
-      {
-        "literal": "Min Chen"
-      },
-      {
-        "literal": "Guanjing Xiong"
-      },
-      {
-        "literal": "Xiaohu Ruan"
-      },
-      {
-        "literal": "Xiaoxin Chen"
-      }
-    ],
     "citation-key": "arxiv_2609_12394",
     "custom": {
       "arxiv_snapshot": {
@@ -177475,6 +176659,7 @@
         "version": 3,
         "versioned_url": "https://arxiv.org/abs/2609.12394v3"
       },
+      "authors_omitted": true,
       "canonical_source_url": "https://arxiv.org/abs/2609.12394",
       "catalog_id": "arxiv:2609.12394",
       "catalog_kind": "paper",
@@ -177497,7 +176682,7 @@
         ]
       ]
     },
-    "note": "First published: 2026-09-11; Recorded arXiv version: v3; Recorded version updated: 2026-09-15T06:36:04Z.",
+    "note": "First published: 2026-09-11; Recorded arXiv version: v3; Recorded version updated: 2026-09-15T06:36:04Z; Authors: see the paper (https://arxiv.org/abs/2609.12394v3); this catalog does not list them.",
     "title": "BlueLM-GUI Technical Report: A Real-Device-Centric Flywheel for Self-Improving Mobile GUI Agents",
     "type": "article",
     "version": "3"
@@ -198453,179 +197638,6 @@
     "URL": "https://arxiv.org/abs/2611.03634v1",
     "archive": "arXiv",
     "archive_location": "2611.03634",
-    "author": [
-      {
-        "literal": "Zhaoyang Wang"
-      },
-      {
-        "literal": "Qianhui Wu"
-      },
-      {
-        "literal": "Boyu Gou"
-      },
-      {
-        "literal": "Demi Wang"
-      },
-      {
-        "literal": "Jiacheng Zhang"
-      },
-      {
-        "literal": "Peichun Hua"
-      },
-      {
-        "literal": "Qize Li"
-      },
-      {
-        "literal": "Shi Qiu"
-      },
-      {
-        "literal": "Yifan Jiang"
-      },
-      {
-        "literal": "Yifan Zhang"
-      },
-      {
-        "literal": "Zexu Jin"
-      },
-      {
-        "literal": "Baolin Peng"
-      },
-      {
-        "literal": "Bolin Shen"
-      },
-      {
-        "literal": "Chetan Bansal"
-      },
-      {
-        "literal": "Dehan Kong"
-      },
-      {
-        "literal": "Deren Lei"
-      },
-      {
-        "literal": "Dongshen Peng"
-      },
-      {
-        "literal": "Fengqing Jiang"
-      },
-      {
-        "literal": "Hao Cheng"
-      },
-      {
-        "literal": "Haoqing Wang"
-      },
-      {
-        "literal": "Jiaming Shan"
-      },
-      {
-        "literal": "Jicheng Wang"
-      },
-      {
-        "literal": "Jingguang Zhou"
-      },
-      {
-        "literal": "Jixuan He"
-      },
-      {
-        "literal": "Kaide Zeng"
-      },
-      {
-        "literal": "Kangyu Zhu"
-      },
-      {
-        "literal": "Lama Moukheiber"
-      },
-      {
-        "literal": "Mufan Qiu"
-      },
-      {
-        "literal": "Peng Xia"
-      },
-      {
-        "literal": "Qihan Sun"
-      },
-      {
-        "literal": "Qingwei Lin"
-      },
-      {
-        "literal": "Qiushi Sun"
-      },
-      {
-        "literal": "Ruichen Zhang"
-      },
-      {
-        "literal": "Shuqing Luo"
-      },
-      {
-        "literal": "Si Qin"
-      },
-      {
-        "literal": "Sicheng Fan"
-      },
-      {
-        "literal": "Tao Xiong"
-      },
-      {
-        "literal": "Wenlin Yao"
-      },
-      {
-        "literal": "Xinyu Zhang"
-      },
-      {
-        "literal": "Xinyue Zeng"
-      },
-      {
-        "literal": "Xuanrui Li"
-      },
-      {
-        "literal": "Xuchao Zhang"
-      },
-      {
-        "literal": "Yian Wang"
-      },
-      {
-        "literal": "Yichao Liu"
-      },
-      {
-        "literal": "Yiming Liang"
-      },
-      {
-        "literal": "Yiyang Zhou"
-      },
-      {
-        "literal": "Yizhu Jiao"
-      },
-      {
-        "literal": "Yuetai Li"
-      },
-      {
-        "literal": "Yurun Chen"
-      },
-      {
-        "literal": "Yuxuan Zhang"
-      },
-      {
-        "literal": "Zheyuan Yang"
-      },
-      {
-        "literal": "Zhiyuan Yao"
-      },
-      {
-        "literal": "Zhongyang Li"
-      },
-      {
-        "literal": "Zihao Li"
-      },
-      {
-        "literal": "Zili Wang"
-      },
-      {
-        "literal": "Jianfeng Gao"
-      },
-      {
-        "literal": "Huaxiu Yao"
-      }
-    ],
     "citation-key": "arxiv_2611_03634",
     "custom": {
       "arxiv_snapshot": {
@@ -198636,6 +197648,7 @@
         "version": 1,
         "versioned_url": "https://arxiv.org/abs/2611.03634v1"
       },
+      "authors_omitted": true,
       "canonical_source_url": "https://arxiv.org/abs/2611.03634",
       "catalog_id": "arxiv:2611.03634",
       "catalog_kind": "paper",
@@ -198658,7 +197671,7 @@
         ]
       ]
     },
-    "note": "First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T18:57:36Z.",
+    "note": "First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T18:57:36Z; Authors: see the paper (https://arxiv.org/abs/2611.03634v1); this catalog does not list them.",
     "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
     "type": "article",
     "version": "1"

@@ -22,20 +22,10 @@
       "updated_at": "2025-09-16T01:18:20Z",
       "version": 2,
       "versioned_url": "https://arxiv.org/abs/2508.20890v2"
-    }
+    },
+    "authors_omitted": true
   },
-  "note": "First published: 2025-08-28; Recorded arXiv version: v2; Recorded version updated: 2025-09-16T01:18:20Z.",
-  "author": [
-    {
-      "literal": "Mengxiao Wang"
-    },
-    {
-      "literal": "Yuxuan Zhang"
-    },
-    {
-      "literal": "Guofei Gu"
-    }
-  ],
+  "note": "First published: 2025-08-28; Recorded arXiv version: v2; Recorded version updated: 2025-09-16T01:18:20Z; Authors: see the paper (https://arxiv.org/abs/2508.20890v2); this catalog does not list them.",
   "issued": {
     "date-parts": [
       [

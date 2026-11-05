@@ -24,19 +24,7 @@
       "versioned_url": "https://arxiv.org/abs/2312.08914v3"
     },
     "publication": {
-      "authors": [
-        "Wenyi Hong",
-        "Weihan Wang",
-        "Qingsong Lv",
-        "Jiazheng Xu",
-        "Wenmeng Yu",
-        "Junhui Ji",
-        "Yan Wang",
-        "Zihan Wang",
-        "Yuxiao Dong",
-        "Ming Ding",
-        "Jie Tang"
-      ],
+      "authors": [],
       "date_basis": "Year from publisher citation metadata and month from the same page's embedded BibTeX; no day is supplied.",
       "date_parts": [
         2024,
@@ -61,44 +49,10 @@
       "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
       "volume": null
     },
-    "citation_edition": "publication"
+    "citation_edition": "publication",
+    "authors_omitted": true
   },
-  "note": "Publication date: 2024-06.",
-  "author": [
-    {
-      "literal": "Wenyi Hong"
-    },
-    {
-      "literal": "Weihan Wang"
-    },
-    {
-      "literal": "Qingsong Lv"
-    },
-    {
-      "literal": "Jiazheng Xu"
-    },
-    {
-      "literal": "Wenmeng Yu"
-    },
-    {
-      "literal": "Junhui Ji"
-    },
-    {
-      "literal": "Yan Wang"
-    },
-    {
-      "literal": "Zihan Wang"
-    },
-    {
-      "literal": "Yuxiao Dong"
-    },
-    {
-      "literal": "Ming Ding"
-    },
-    {
-      "literal": "Jie Tang"
-    }
-  ],
+  "note": "Publication date: 2024-06; Authors: see the paper (https://openaccess.thecvf.com/content/CVPR2024/html/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.html); this catalog does not list them.",
   "issued": {
     "date-parts": [
       [

@@ -22,59 +22,10 @@
       "updated_at": "2026-01-23T08:52:00Z",
       "version": 2,
       "versioned_url": "https://arxiv.org/abs/2601.15876v2"
-    }
+    },
+    "authors_omitted": true
   },
-  "note": "First published: 2026-01-22; Recorded arXiv version: v2; Recorded version updated: 2026-01-23T08:52:00Z.",
-  "author": [
-    {
-      "literal": "Taofeng Xue"
-    },
-    {
-      "literal": "Chong Peng"
-    },
-    {
-      "literal": "Mianqiu Huang"
-    },
-    {
-      "literal": "Linsen Guo"
-    },
-    {
-      "literal": "Tiancheng Han"
-    },
-    {
-      "literal": "Haozhe Wang"
-    },
-    {
-      "literal": "Jianing Wang"
-    },
-    {
-      "literal": "Xiaocheng Zhang"
-    },
-    {
-      "literal": "Xin Yang"
-    },
-    {
-      "literal": "Dengchang Zhao"
-    },
-    {
-      "literal": "Jinrui Ding"
-    },
-    {
-      "literal": "Xiandi Ma"
-    },
-    {
-      "literal": "Yuchen Xie"
-    },
-    {
-      "literal": "Peng Pei"
-    },
-    {
-      "literal": "Xunliang Cai"
-    },
-    {
-      "literal": "Xipeng Qiu"
-    }
-  ],
+  "note": "First published: 2026-01-22; Recorded arXiv version: v2; Recorded version updated: 2026-01-23T08:52:00Z; Authors: see the paper (https://arxiv.org/abs/2601.15876v2); this catalog does not list them.",
   "issued": {
     "date-parts": [
       [

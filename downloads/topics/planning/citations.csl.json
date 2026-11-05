@@ -9262,47 +9262,6 @@
     "URL": "https://arxiv.org/abs/2510.14388v2",
     "archive": "arXiv",
     "archive_location": "2510.14388",
-    "author": [
-      {
-        "literal": "Zhe Wu"
-      },
-      {
-        "literal": "Hongjin Lu"
-      },
-      {
-        "literal": "Junliang Xing"
-      },
-      {
-        "literal": "Changhao Zhang"
-      },
-      {
-        "literal": "Yuxuan Li"
-      },
-      {
-        "literal": "Yin Zhu"
-      },
-      {
-        "literal": "Yuhao Yang"
-      },
-      {
-        "literal": "Yuheng Jing"
-      },
-      {
-        "literal": "Kai Li"
-      },
-      {
-        "literal": "Kun Shao"
-      },
-      {
-        "literal": "Jianye Hao"
-      },
-      {
-        "literal": "Jun Wang"
-      },
-      {
-        "literal": "Yuanchun Shi"
-      }
-    ],
     "citation-key": "arxiv_2510_14388",
     "custom": {
       "arxiv_snapshot": {
@@ -9313,6 +9272,7 @@
         "version": 2,
         "versioned_url": "https://arxiv.org/abs/2510.14388v2"
       },
+      "authors_omitted": true,
       "canonical_source_url": "https://arxiv.org/abs/2510.14388",
       "catalog_id": "arxiv:2510.14388",
       "catalog_kind": "paper",
@@ -9335,7 +9295,7 @@
         ]
       ]
     },
-    "note": "First published: 2025-10-16; Recorded arXiv version: v2; Recorded version updated: 2026-02-06T02:04:25Z.",
+    "note": "First published: 2025-10-16; Recorded arXiv version: v2; Recorded version updated: 2026-02-06T02:04:25Z; Authors: see the paper (https://arxiv.org/abs/2510.14388v2); this catalog does not list them.",
     "title": "Hi-Agent: Hierarchical Vision-Language Agents for Mobile Device Control",
     "type": "article",
     "version": "2"

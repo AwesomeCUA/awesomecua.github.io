@@ -22,53 +22,10 @@
       "updated_at": "2026-10-12T10:20:42Z",
       "version": 2,
       "versioned_url": "https://arxiv.org/abs/2605.08703v2"
-    }
+    },
+    "authors_omitted": true
   },
-  "note": "First published: 2026-05-09; Recorded arXiv version: v2; Recorded version updated: 2026-10-12T10:20:42Z.",
-  "author": [
-    {
-      "literal": "Yuxuan Zhang"
-    },
-    {
-      "literal": "Cong Wei"
-    },
-    {
-      "literal": "Penghui Du"
-    },
-    {
-      "literal": "Bo Li"
-    },
-    {
-      "literal": "Junwen Miao"
-    },
-    {
-      "literal": "Huaisong Zhang"
-    },
-    {
-      "literal": "Songcheng Cai"
-    },
-    {
-      "literal": "Yubo Wang"
-    },
-    {
-      "literal": "Dongfu Jiang"
-    },
-    {
-      "literal": "Yuyu Zhang"
-    },
-    {
-      "literal": "Changqian Yu"
-    },
-    {
-      "literal": "Ping Nie"
-    },
-    {
-      "literal": "Wenhu Chen"
-    },
-    {
-      "literal": "Kelsey R. Allen"
-    }
-  ],
+  "note": "First published: 2026-05-09; Recorded arXiv version: v2; Recorded version updated: 2026-10-12T10:20:42Z; Authors: see the paper (https://arxiv.org/abs/2605.08703v2); this catalog does not list them.",
   "issued": {
     "date-parts": [
       [

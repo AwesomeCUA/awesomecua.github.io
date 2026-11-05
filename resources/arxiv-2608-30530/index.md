@@ -20,7 +20,7 @@ Adjacent browser-backed artifact validation, not a GUI navigation benchmark or o
 
 ## Authors
 
-Jiajun Wu, Jian Yang, Yaxin Du, Wei Zhang, Haowen Wang, Junhang Cheng, Yuxuan Zhang, Tuney Zheng, Xianglong Liu, Ming Zhou
+[Authors: see the paper](https://arxiv.org/abs/2608.30530v1)
 
 ## Citation exports
 

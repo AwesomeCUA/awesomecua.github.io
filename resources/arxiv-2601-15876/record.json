@@ -1,23 +1,7 @@
 {
   "aliases": [],
-  "authors": [
-    "Taofeng Xue",
-    "Chong Peng",
-    "Mianqiu Huang",
-    "Linsen Guo",
-    "Tiancheng Han",
-    "Haozhe Wang",
-    "Jianing Wang",
-    "Xiaocheng Zhang",
-    "Xin Yang",
-    "Dengchang Zhao",
-    "Jinrui Ding",
-    "Xiandi Ma",
-    "Yuchen Xie",
-    "Peng Pei",
-    "Xunliang Cai",
-    "Xipeng Qiu"
-  ],
+  "authors": [],
+  "authors_omitted": true,
   "details": {
     "arxiv_snapshot": {
       "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",

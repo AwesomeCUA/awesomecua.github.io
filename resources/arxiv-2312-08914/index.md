@@ -20,7 +20,7 @@ The annotation and scope were reviewed against the primary paper abstract. Exper
 
 ## Authors
 
-Wenyi Hong, Weihan Wang, Qingsong Lv, Jiazheng Xu, Wenmeng Yu, Junhui Ji, Yan Wang, Zihan Wang, Yuxuan Zhang, Juanzi Li, Bin Xu, Yuxiao Dong, Ming Ding, Jie Tang
+[Authors: see the paper](https://arxiv.org/abs/2312.08914v3)
 
 ## Citation exports
 
@@ -30,7 +30,7 @@ Wenyi Hong, Weihan Wang, Qingsong Lv, Jiazheng Xu, Wenmeng Yu, Junhui Ji, Yan Wa
 ## Publication record
 
 - Title: CogAgent: A Visual Language Model for GUI Agents
-- Authors: Wenyi Hong, Weihan Wang, Qingsong Lv, Jiazheng Xu, Wenmeng Yu, Junhui Ji, Yan Wang, Zihan Wang, Yuxiao Dong, Ming Ding, Jie Tang
+- Authors: see the paper (https://openaccess.thecvf.com/content/CVPR2024/html/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.html)
 - Publication date (recorded precision): 2024-06
 - Publication source: https://openaccess.thecvf.com/content/CVPR2024/html/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.html
 - Publication BibTeX: https://awesomecua.com/resources/arxiv-2312-08914/publication-citation.bib
